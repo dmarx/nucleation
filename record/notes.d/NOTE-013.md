@@ -34,8 +34,6 @@ summary: >-
   subtheory is contextual (§IV.B).
 ---
 
-<!-- inactive-ok-file: LIT-003 — Deferred, named in Connections as a later paper this one frames; read next -->
-<!-- inactive-ok-file: LIT-019 — Deferred, named in Connections as a later paper this one frames; read next -->
 
 # NOTE-013: Quasi-quantization
 
