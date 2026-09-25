@@ -6,8 +6,8 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-0 of 0 LIT documents. Back to the [full index](../README.md).
+1 of 29 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-029](../../../record/literature.d/LIT-029.md) | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure | McAllister et al. (2017), DOI-10.4085/1062-6050-52.1.14. This review concludes that most athletes' symptoms recover within about 1–2 weeks of a concussion. Evidence that repetitive concussion or sub-concussive head impacts cause long-term cognitive decline, neuropsychiatric change or neurodegeneration (including CTE) is mixed and preliminary, with signals of vulnerability in subgroups (e.g., verbal memory). Settling it needs large prospective longitudinal studies with baselines and controls. | Deferred — seeded from the abstract on 2026-09-25; not read in full |

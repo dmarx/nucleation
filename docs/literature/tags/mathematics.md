@@ -6,8 +6,11 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-0 of 0 LIT documents. Back to the [full index](../README.md).
+4 of 29 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-011](../../../record/literature.d/LIT-011.md) | Spectral Sets | Badea et al. (2013), [ARXIV-1302.0546](https://arxiv.org/abs/1302.0546). A set X is (K-)spectral for a matrix A when ‖f(A)‖ ≤ K·sup_X\|f\| for all rational f bounded on X; the survey collects when common sets qualify, e.g. the numerical range is always a complete K-spectral set with a universal K (Crouzeix: K ∈ [2, 11.08]), and gives the consequences for bounding matrix functions. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
+| [LIT-016](../../../record/literature.d/LIT-016.md) | The sheaf-theoretic structure of non-locality and contextuality | Abramsky et al. (2011), [ARXIV-1102.0264](https://arxiv.org/abs/1102.0264). Contextuality, with non-locality as a special case, is exactly the non-existence of a global section of a presheaf of distributions over a measurement cover, which gives a Hilbert-space-free, linear-algebraic and hierarchical treatment of Bell, Hardy and GHZ-type arguments. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
+| [LIT-017](../../../record/literature.d/LIT-017.md) | Spectral Networks and Betti Lagrangians | Casals et al. (2025), [ARXIV-2504.08144](https://arxiv.org/abs/2504.08144). Spectral networks, introduced by Gaiotto-Moore-Neitzke for meromorphic spectral curves, can be characterised through Floer theory of real Lagrangian fillings in T*C for a smooth surface C, in any rank and without algebraicity; a Family Floer functor built this way is equivalent to non-abelianization. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
+| [LIT-020](../../../record/literature.d/LIT-020.md) | Characterizing Complex Networks with Forman-Ricci Curvature and Associated Geometric Flows | Weber et al. (2016), [ARXIV-1607.08654](https://arxiv.org/abs/1607.08654). Forman's combinatorial discretization of Ricci curvature gives a cheap, edge-based network characteristic whose distribution separates model network classes (real networks resemble Barabasi-Albert) and whose associated Ricci and Laplacian flows can be used for change detection and denoising in evolving weighted networks. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |

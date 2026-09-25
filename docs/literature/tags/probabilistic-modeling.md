@@ -6,8 +6,9 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-0 of 0 LIT documents. Back to the [full index](../README.md).
+2 of 29 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-002](../../../record/literature.d/LIT-002.md) | Nested Hierarchical Dirichlet Processes | Paisley et al. (2012), [ARXIV-1210.6738](https://arxiv.org/abs/1210.6738). Letting each word follow its own path through a shared topic tree, via document-specific distributions over paths (a global nCRP as base for per-document nCRPs), fixes the single-path restriction of the nested CRP and, with stochastic variational inference, scales hierarchical topic models to millions of documents. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
+| [LIT-013](../../../record/literature.d/LIT-013.md) | Nonparametric Bayesian Topic Modelling with the Hierarchical Pitman-Yor Processes | Lim et al. (2016), [ARXIV-1609.06783](https://arxiv.org/abs/1609.06783). Hierarchies of Pitman-Yor processes can be assembled as modular "blocks" and fit with a single collapsed, blocked Gibbs sampler (extending Chen et al. 2011), making nonparametric topic models with auxiliary data practical; the resulting Twitter-Network Topic Model beats HDP-LDA and a nonparametric author-topic model on perplexity. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |

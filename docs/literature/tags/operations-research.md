@@ -6,8 +6,8 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-0 of 0 LIT documents. Back to the [full index](../README.md).
+1 of 29 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-008](../../../record/literature.d/LIT-008.md) | Modeling and solving an integrated periodic vehicle routing and capacitated facility location problem in the context of solid waste collection | González et al. (2025), [ARXIV-2504.10648](https://arxiv.org/abs/2504.10648). A mixed binary/integer-encoded genetic algorithm solves the joint bin-sizing and weekly-routing problem for municipal waste collection. On small instances it comes close to Gurobi's MILP/MIQP solutions within a similar time budget, and it stays feasible on a real 163-point instance from Bahía Blanca, where the exact models are intractable. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |

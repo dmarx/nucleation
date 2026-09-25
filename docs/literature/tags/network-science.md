@@ -6,8 +6,10 @@
 
 **Network science** — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-0 of 0 LIT documents. Back to the [full index](../README.md).
+3 of 29 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-004](../../../record/literature.d/LIT-004.md) | Community Detection on Networks with Ricci Flow | Ni et al. (2019), [ARXIV-1907.03993](https://arxiv.org/abs/1907.03993). Iterating an Ollivier-Ricci-curvature-driven flow on edge weights stretches inter-community (negatively curved) edges and shrinks intra-community (positively curved) ones, so thresholding the evolved weights ("surgery") recovers communities with accuracy competitive with or better than standard methods on SBM, LFR and several labelled real networks. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
+| [LIT-020](../../../record/literature.d/LIT-020.md) | Characterizing Complex Networks with Forman-Ricci Curvature and Associated Geometric Flows | Weber et al. (2016), [ARXIV-1607.08654](https://arxiv.org/abs/1607.08654). Forman's combinatorial discretization of Ricci curvature gives a cheap, edge-based network characteristic whose distribution separates model network classes (real networks resemble Barabasi-Albert) and whose associated Ricci and Laplacian flows can be used for change detection and denoising in evolving weighted networks. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
+| [LIT-028](../../../record/literature.d/LIT-028.md) | Asymptotic versus mesoscopic spectral dimensions in networks and inhomogeneous structures | Grimaldi et al. (2025), [ARXIV-2510.20520](https://arxiv.org/abs/2510.20520). In composite "bundled" networks (a copy of a fiber graph attached to every node of a base graph) the Fiedler (spectral-gap) dimension generically decouples from the spectral dimension, so networks with identical density-of-states exponents can have parametrically different equilibration times. | Deferred — seeded from the abstract and a skim on 2026-09-25; not read in full |
