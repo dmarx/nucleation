@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Notes on the Multiplicative Ergodic Theorem'
+version: 1
+tags:
+- mathematics
+date: '2026-09-25'
+published: '2017-09-07'
+arxiv: '1710.10694'
+doi: '10.1017/etds.2017.68'
+first_author: 'Filip'
+keywords:
+- 'Oseledets theorem'
+- 'Lyapunov exponents'
+- 'symmetric spaces'
+- 'noncommutative ergodic theorem'
+- 'horofunctions'
+- 'CAT(0) spaces'
+implementations: []
+summary: >-
+  Filip (2017), [ARXIV-1710.10694](https://arxiv.org/abs/1710.10694). The Oseledets theorem (Lyapunov exponents and nested Lyapunov subspaces for products of matrices sampled along an ergodic system) is a noncommutative law of large numbers. It can be proved geometrically without Kingman's subadditive theorem, recast as geodesic tracking in symmetric spaces (Kaimanovich), and generalised to isometries of proper metric spaces via horofunctions (Karlsson–Ledrappier) and to mean versions in CAT(0) spaces.
+---
+
+# LIT-tmpx0pnd: Notes on the Multiplicative Ergodic Theorem
+
+Simion Filip (2017), *Ergodic Theory and Dynamical Systems 39(5):1153–1189 (2019; online 2017-09-07)* — [ARXIV-1710.10694](https://arxiv.org/abs/1710.10694)
+
+## Key takeaways
+
+- The Oseledets theorem (Lyapunov exponents and nested Lyapunov subspaces for products of matrices sampled along an ergodic system) is a noncommutative law of large numbers. It can be proved geometrically without Kingman's subadditive theorem, recast as geodesic tracking in symmetric spaces (Kaimanovich), and generalised to isometries of proper metric spaces via horofunctions (Karlsson–Ledrappier) and to mean versions in CAT(0) spaces.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The Oseledets multiplicative ergodic theorem is a basic result with many uses across dynamical systems. These notes introduce it and its later generalizations. They grew out of summer-school lectures in Brazil, France and Russia.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier C): 305 seconds of active reading over 2 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — The owner has read it for moderate time (t=305, n=2). The skim maps the contents, and a deeper read is justified only on demand from a specific note.**
+
+What a deeper reading should check:
+
+- Lyapunov exponents of random matrix products underlie ML analyses of signal propagation in deep networks and of RNN/Jacobian-product stability, so this could serve as a rigorous background source. The anthology connection is indirect and would need a specific theory note to cite it.
+- A deeper reading should focus on §2's Kingman-free proof and the Busemann-function examples if a note needs the statement at that level of generality.
+
+Access when seeded: arXiv abs page (v1 29 Oct 2017, 46 pp.) and full PDF v1 read directly: abstract, PDF outline, §1 introduction and outline (pp. 2–3), and the start of §4.3 (p. 29). Crossref gives the ETDS version online 2017-09-07, before the arXiv posting. I use that as the date of first appearance, with volume 39(5):1153–1189 (May 2019). I did not read the journal version.

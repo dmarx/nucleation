@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'A complete graphical calculus for Spekkens'' toy bit theory'
+version: 1
+tags:
+- quantum-foundations
+- mathematics
+date: '2026-09-25'
+published: '2014-11-06'
+arxiv: '1411.1618'
+doi: '10.1007/s10701-015-9957-7'
+first_author: 'Backens'
+keywords:
+- 'Spekkens'' toy theory'
+- 'stabilizer quantum mechanics'
+- 'ZX-calculus'
+- 'graphical calculus'
+- 'completeness'
+- 'psi-epistemic models'
+implementations: []
+summary: >-
+  Backens et al. (2014), [ARXIV-1411.1618](https://arxiv.org/abs/1411.1618). Spekkens' toy bit theory (maximal-knowledge fragment, post-selected measurements) has a graphical calculus modelled on the ZX-calculus that is universal, sound and complete. The toy theory and qubit stabilizer quantum mechanics can therefore be compared entirely in diagrams, and at the categorical level they differ only in the phase group (Z2×Z2 vs Z4).
+---
+
+# LIT-tmpbydeh: A complete graphical calculus for Spekkens' toy bit theory
+
+Miriam Backens, Ali Nabi Duman (2014), *Foundations of Physics 46(1):70–103 (2016; online 2015-10-07); arXiv preprint first* — [ARXIV-1411.1618](https://arxiv.org/abs/1411.1618)
+
+## Key takeaways
+
+- Spekkens' toy bit theory (maximal-knowledge fragment, post-selected measurements) has a graphical calculus modelled on the ZX-calculus that is universal, sound and complete. The toy theory and qubit stabilizer quantum mechanics can therefore be compared entirely in diagrams, and at the categorical level they differ only in the phase group (Z2×Z2 vs Z4).
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Quantum theory has no local hidden-variable model, but some such models still reproduce many "quantum" features and are used to probe the ψ-ontic vs ψ-epistemic question. Spekkens' toy theory is one of them: classical probabilistic mechanics plus a limit on what an observer can know. For a single bit it closely resembles stabilizer quantum mechanics. The authors build a graphical language for the toy bit theory, inspired by the ZX-calculus, and prove it complete: any equation derivable in another formalism can be derived graphically. The two theories can then be analysed side by side in analogous diagrammatic formalisms.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier C): 515 seconds of active reading over 1 session in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — The owner has read it once for a long time (t=515, n=1). The skim captures the result, and what remains is a technical completeness proof.**
+
+What a deeper reading should check:
+
+- It is a concrete instance of the "same structure, different phase group" diagnosis of what separates quantum from classical-with-epistemic-restriction. It sits beside the held *Quasi-quantization* note.
+- A deeper read should check exactly which quantum/classical differences (e.g. Bell violation) the phase-group difference captures diagrammatically, and whether later work (a mixed-state or qudit extension) completed the §6 programme.
+
+Access when seeded: arXiv abs page (v1 6 Nov 2014, v2 13 Oct 2015 "major revisions") and full PDF of v2 (22+7 pp.) read directly: introduction, §2.1, section structure, §4.5 and §6 conclusions. Crossref confirms Foundations of Physics 46(1):70–103, online 2015-10-07.

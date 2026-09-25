@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'The sound of an axon''s growth'
+version: 1
+tags:
+- neuroscience
+- natural-sciences
+date: '2026-09-25'
+published: '2018-07-12'
+arxiv: '1807.04799'
+doi: '10.1103/PhysRevE.99.050401'
+first_author: 'Folz'
+keywords:
+- 'axon length regulation'
+- 'molecular motors'
+- 'oscillations'
+- 'delayed feedback'
+- 'spectral decomposition'
+implementations: []
+summary: >-
+  Folz et al. (2018), [ARXIV-1807.04799](https://arxiv.org/abs/1807.04799). The authors propose that an axon can regulate its length by reading the spectral composition, rather than the frequency, of motor-generated oscillating signals whose period grows with length. Coupling that signal to growth-cone extension and actin contraction produces a stable length. In some parameter regions fewer motors make axons longer, as experiments show.
+---
+
+# LIT-tmp330qo: The sound of an axon's growth
+
+Frederic Folz, Lukas Wettmann, Giovanna Morigi, Karsten Kruse (2018), *Physical Review E 99, 050401 (2019; online 2019-05-01)* — [ARXIV-1807.04799](https://arxiv.org/abs/1807.04799)
+
+## Key takeaways
+
+- The authors propose that an axon can regulate its length by reading the spectral composition, rather than the frequency, of motor-generated oscillating signals whose period grows with length. Coupling that signal to growth-cone extension and actin contraction produces a stable length. In some parameter regions fewer motors make axons longer, as experiments show.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Axons range from tens of micrometres to metres in length, and besides external cues their length is set by unknown internal mechanisms. Earlier work proposed that kinesin and dynein motors moving in opposite directions generate oscillations whose frequency depends on axon length and could serve as a length gauge. The authors present a mechanism in which the axon's length is determined through the spectral decomposition of that oscillatory signal, coupled to the axon's mechanics.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier C): 305 seconds of active reading over 3 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — A five-page letter that the skim fully covers. Moderate owner time (t=305 s over 3 sessions). Outside anthology scope.**
+
+What a deeper reading should check:
+
+- A neat example of biological size control by frequency-to-amplitude transduction. It is a physics-of-living-systems paper, not ML.
+- A deeper reading should check how finely tuned the parameters are, and what experimental test would tell this mechanism apart from gradient-based length sensing.
+
+Access when seeded: I read the arXiv abstract page (v1 12 Jul 2018, v3 17 Apr 2019; q-bio.SC) and the full v3 PDF (5 pp.). Crossref gives the PRE record, published online 2019-05-01, under the title "Sound of an axon's growth" (no leading "The"). The title above is arXiv's, which the batch uses.
