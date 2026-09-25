@@ -57,6 +57,36 @@ vocabularies:
         label: Society and governance
         blurb: law, politics, policy, security and institutions — court records, doctrine, democratic
           theory, information operations
+      information-theory:
+        label: Information theory
+        blurb: 'entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning'
+      social-science:
+        label: Social science
+        blurb: 'economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy'
+      linguistics:
+        label: Linguistics
+        blurb: 'the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them'
+      metaphysics:
+        label: Metaphysics
+        blurb: 'what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy)'
+      mereology:
+        label: Mereology
+        blurb: 'parts and wholes — composition, individuation of systems and collectives (group: philosophy)'
+      agency:
+        label: Agency
+        blurb: 'what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy)'
+      identity:
+        label: Identity
+        blurb: 'what makes something the same thing over time or across descriptions — individuality, persistence, personal identity (group: philosophy)'
+      ethics:
+        label: Ethics
+        blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
+      consciousness:
+        label: Consciousness
+        blurb: 'experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy)'
+      cognition:
+        label: Cognition
+        blurb: 'the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy)'
   lit-statuses:
     label: Paper statuses
     blurb: 'A work''s standing in this record: whether it is worth reading. Not whether its findings are
@@ -235,6 +265,12 @@ schemes:
         many: true
         required: true
         closed: true
+        groups:
+          philosophy:
+            label: Philosophy
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness and cognition. A label over the words, not a rule about how they combine (ADR-003).
+            require: any
+            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition]
     axis: tags
   NOTE:
     dir: record/notes.d
