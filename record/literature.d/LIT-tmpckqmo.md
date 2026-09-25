@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Nonparametric Bayesian Topic Modelling with the Hierarchical Pitman-Yor Processes'
+version: 1
+tags:
+- probabilistic-modeling
+date: '2026-09-25'
+published: '2016-09-01'
+arxiv: '1609.06783'
+doi: '10.1016/j.ijar.2016.07.007'
+first_author: 'Lim'
+keywords:
+- 'Bayesian nonparametric methods'
+- 'Markov chain Monte Carlo'
+- 'topic models'
+- 'hierarchical Pitman-Yor processes'
+- 'Twitter network modelling'
+implementations: []
+summary: >-
+  Lim et al. (2016), [ARXIV-1609.06783](https://arxiv.org/abs/1609.06783). Hierarchies of Pitman-Yor processes can be assembled as modular "blocks" and fit with a single collapsed, blocked Gibbs sampler (extending Chen et al. 2011), making nonparametric topic models with auxiliary data practical; the resulting Twitter-Network Topic Model beats HDP-LDA and a nonparametric author-topic model on perplexity.
+---
+
+# LIT-tmpckqmo: Nonparametric Bayesian Topic Modelling with the Hierarchical Pitman-Yor Processes
+
+Kar Wai Lim, Wray Buntine, Changyou Chen, Lan Du (2016), *International Journal of Approximate Reasoning 78, 172-191 (2016)* — [ARXIV-1609.06783](https://arxiv.org/abs/1609.06783)
+
+## Key takeaways
+
+- Hierarchies of Pitman-Yor processes can be assembled as modular "blocks" and fit with a single collapsed, blocked Gibbs sampler (extending Chen et al. 2011), making nonparametric topic models with auxiliary data practical; the resulting Twitter-Network Topic Model beats HDP-LDA and a nonparametric author-topic model on perplexity.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The Dirichlet process and its generalization the Pitman-Yor process take distributions as parameters and can be stacked into hierarchical nonparametric Bayesian models. The article gives efficient inference methods for such hierarchies and applies them to latent-variable text models, i.e. topic models. It proposes a general design framework and then a specific nonparametric model for social-media text, using tweets as the case study. The nonparametric model is reported to outperform parametric baselines in goodness of fit and in applications.
+
+## Standing in the record
+
+Filed by the reading-time triage of 2026-09-25: 2,386 seconds of active reading over 3 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — the owner invested ~40 min (t=2386 s) and it is a good tutorial-style reference for HPYP Gibbs sampling, but the skim captures the claims and the application is dated.**
+
+What a deeper reading should check:
+
+- Main reusable contribution is the modular CRP-count representation and sampler; check the table-count sampling details (§4, Appendix A) if implementing.
+- Empirical comparisons are against 2013-era baselines on a small, filtered corpus (150 authors); results say little about modern neural topic or embedding methods.
+- ML link: PYP discounts give power-law word statistics, relevant background for language modelling priors; otherwise historically rather than currently relevant to ML practice.
+
+Access when seeded: arXiv abs page and full v1 PDF (41 pp., journal preprint) read via arxiv.org; DOI and journal reference confirmed on arXiv and via Crossref (IJAR vol. 78, pp. 172-191, Nov 2016; Crossref title uses "Pitman–Yor" with lower-case "topic modelling"). Keywords verbatim from the paper. Appendix derivations not checked.

@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Transcript of Show Cause Hearing, Segundo A.P.G. v. Bondi et al. (D. Minn., No. 26-cv-603), Feb. 3, 2026 [descriptive title]'
+version: 1
+tags:
+- society-and-governance
+date: '2026-09-25'
+published: '2026-02-01'
+url: 'https://drive.google.com/file/d/1FnY2z7eb5efGlHrb2AYBtfqMVDJSUfIu/view'
+first_author: 'Blackwell'
+keywords:
+- 'habeas-corpus'
+- 'immigration-detention'
+- 'court-order-compliance'
+- 'contempt'
+- 'ice'
+implementations: []
+summary: >-
+  Blackwell (2026), <https://drive.google.com/file/d/1FnY2z7eb5efGlHrb2AYBtfqMVDJSUfIu/view>. At a show-cause hearing on compliance with habeas release orders in five detention cases, the court stated that the volume of enforcement-related detentions "is not a justification for diluting constitutional rights". It questioned government counsel about repeated failures to confirm releases within ordered deadlines, and it took the matter of sanctions under advisement.
+---
+
+# LIT-tmpbw73d: Transcript of Show Cause Hearing, Segundo A.P.G. v. Bondi et al. (D. Minn., No. 26-cv-603), Feb. 3, 2026 [descriptive title]
+
+U.S. District Court for the District of Minnesota (official court reporter's transcript) (2026), *U.S. District Court for the District of Minnesota* — <https://drive.google.com/file/d/1FnY2z7eb5efGlHrb2AYBtfqMVDJSUfIu/view>
+
+## Key takeaways
+
+- At a show-cause hearing on compliance with habeas release orders in five detention cases, the court stated that the volume of enforcement-related detentions "is not a justification for diluting constitutional rights". It questioned government counsel about repeated failures to confirm releases within ordered deadlines, and it took the matter of sanctions under advisement.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The transcript records a February 3, 2026 show-cause hearing before Judge Jerry W. Blackwell in St. Paul. The hearing covered five habeas matters: Segundo A.P.G. (26-cv-603), Oscar O.T. (26-cv-167), Jose L.C.C. (26-cv-244), Roman N. (26-cv-282) and Juan V.A.C. (26-cv-645). The respondents include the Attorney General, the DHS Secretary and ICE officials. The court says the hearing concerns compliance with its orders, not policy. It walks through each case in which the government did not file the required 48-hour release confirmations, delayed releases, or imposed release conditions the court had not ordered. Government counsel describe workload, lack of training and difficulty getting the agency to comply. Petitioners' counsel ask for sanctions. The court takes the matter under advisement.
+
+## Standing in the record
+
+Filed by the reading-time triage of 2026-09-25: 950 seconds of active reading over 2 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — substantial reading time (t=950 s) and a vivid primary source, but a transcript holds nothing; the follow-on written order, if any, would matter more.**
+
+What a deeper reading should check:
+
+- It is a primary record of a federal court documenting executive-branch compliance with habeas release orders. Any written order or sanctions ruling that followed should be found on the individual dockets. Whether one exists is unverified.
+- Statements in the transcript are advocacy or colloquy, not findings. Only the court's later written orders would carry holdings.
+- The provenance of the Drive copy should be confirmed against PACER or CourtListener if it is cited.
+
+Access when seeded: The Google Drive file downloaded successfully as a 46-page PDF. I skimmed it in full at intervals: caption, appearances, the court's opening remarks, the case-by-case colloquy and the closing. On CourtListener, docket 0:26-cv-00603 (D. Minn.) is listed as "Pualasin Guaman v. Bondi", filed 2026-01-23 and assigned to Judge Jerry W. Blackwell. That is consistent with the transcript's case number and judge, and the caption's "Segundo A.P.G." appears to be the court's abbreviated form of the petitioner's name. I did not independently verify the Drive copy against an official docket entry.
