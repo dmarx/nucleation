@@ -190,7 +190,7 @@ This is [LIT-028](../literature.d/LIT-028.md); the existing skim is NOTE-005, wh
 - The closest anthology material uses a spectral gap to set a mixing timescale ([ANTH-THEORY-056](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-056.md), on statistics of long random sequences). This paper's message is consistent with that: the gap sets terminal equilibration, not intermediate-time decay. But it neither supports nor bears on that document.
 - Any link to graph-diffusion or spectral-GNN practice (graph size dependence of oversmoothing or diffusion time, say) would be the reader's extrapolation, not something the paper shows.
 
-Record hygiene: none needed on dates. [LIT-028](../literature.d/LIT-028.md)'s `published: '2025-10-01'` is the arXiv posting month, which is what the field records (v1 was posted 23 Oct 2025).
+Record hygiene: [LIT-028](../literature.d/LIT-028.md)'s `published:` was the month placeholder `2025-10-01`; it is now the v1 date, 2025-10-23 ([ADR-002](../decisions.d/ADR-002.md)).
 
 ## Limitations
 
@@ -220,5 +220,5 @@ Record hygiene: none needed on dates. [LIT-028](../literature.d/LIT-028.md)'s `p
   - The paper's prefactors are the homogeneous ones with d_s replaced by d_s,b. They agree with the correct ones only when d_s,b = d_g, which is true of the brush that SM Fig. S3 plots, so the figure cannot expose the error.
   - Main-text Fig. 3(b) labels its y-axis "G(t)/N", but its values (∼1 at t̄ ≈ 0.1) look like N·G, which is the correct collapse.
 - **Fig. 2(b) inset.** The caption (and v1's) calls the inset "spectral dimension for BA networks … confirming that d_s is fiber-controlled". The inset's y-axis is d_g, and its value is ≈ 2.0 for both ring and random-tree fibers. A ring fiber has d_s = 1, so the inset shows the Fiedler dimension, as v1's text says (the "special case d_g,b = 2"). It does not show d_s being fiber-controlled.
-- **Published date.** v1 was posted on 23 Oct 2025, which [LIT-028](../literature.d/LIT-028.md) records at month precision as `2025-10-01`, per the field's convention; the PRE Letter was published online 18 Aug 2026.
+- **Published date.** v1 was posted on 23 Oct 2025, which [LIT-028](../literature.d/LIT-028.md) now records exactly ([ADR-002](../decisions.d/ADR-002.md)); the PRE Letter was published online 18 Aug 2026.
 - **Gasket value.** The main text (v2 p. 2) states the gasket's "exact value d_s = log 3/log 5". That is d_s/2. SM Eq. 3 and v1 correctly give d_s = 2 log 3/log 5 ≈ 1.365. This typo was introduced in v2.
