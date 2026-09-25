@@ -1,0 +1,10 @@
+# THEORY documents
+
+One entry per document, generated from frontmatter — edit the fragments in
+this directory, then run `luria index`.
+
+<!-- GENERATED below this line by `luria index` — edit README.stub instead. -->
+
+{categories}
+
+{table}
