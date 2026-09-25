@@ -4,8 +4,8 @@
 
 **operations-research**.
 
-1 of 26 NOTE documents. Back to the [full index](../README.md).
+1 of 27 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [NOTE-015](../../../record/notes.d/NOTE-015.md) | Periodic vehicle routing and facility location for waste collection | A mixed binary/integer-encoded genetic algorithm solves the joint bin-sizing and weekly-routing problem for municipal waste collection. On small instances it comes close to Gurobi's MILP/MIQP solutions within a similar time budget, and it stays feasible on a real 163-point instance from Bahía Blanca, where the exact models are intractable. | Skimmed |
+| [NOTE-015](../../../record/notes.d/NOTE-015.md) v2 | Periodic vehicle routing and facility location for waste collection | The paper couples bin-capacity choice with weekly periodic capacitated routing (Sunday off, cyclic). Service time depends on the chosen bin combination, which gives an MIQP; a Glover linearisation turns it into a MILP. It solves both with Gurobi 10 for 8 h, and also with a binary-mask + permutation GA (CX 0.8, EM 0.05, pop 100, 10,000 generations). On five 12-point instances Gurobi stops at 26–32% optimality gaps. The best-of-30 GA overall cost is on average −0.08% vs the MILP incumbent and +1.70% vs the MIQP incumbent; the GA mean or median is +3.75% and +5.61%. The GA routes better (−5.75% and −5.74% routing cost) but buys much more bin capacity (+19.88% and +22.59%). On 40–163-point Bahía Blanca instances the GA returns feasible solutions in 0.72–5.58 h per run, with no bound to compare against. | Read |

@@ -5,23 +5,13 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**15 document(s) awaiting a decision.**
+**5 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-25 | Deferred | [LIT-004](../../record/literature.d/LIT-004.md) | 3 | 0 | Community Detection on Networks with Ricci Flow |
-| 2026-09-25 | Deferred | [LIT-021](../../record/literature.d/LIT-021.md) | 3 | 0 | From the origin of life to pandemics: emergent phenomena in complex systems |
-| 2026-09-25 | Deferred | [LIT-013](../../record/literature.d/LIT-013.md) | 2 | 0 | Nonparametric Bayesian Topic Modelling with the Hierarchical Pitman-Yor Processes |
-| 2026-09-25 | Deferred | [LIT-008](../../record/literature.d/LIT-008.md) | 1 | 0 | Modeling and solving an integrated periodic vehicle routing and capacitated facility location problem in the context of solid waste collection |
-| 2026-09-25 | Deferred | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
-| 2026-09-25 | Deferred | [LIT-010](../../record/literature.d/LIT-010.md) | 1 | 0 | Quantum Thermodynamics |
-| 2026-09-25 | Deferred | [LIT-011](../../record/literature.d/LIT-011.md) | 1 | 0 | Spectral Sets |
-| 2026-09-25 | Deferred | [LIT-012](../../record/literature.d/LIT-012.md) | 1 | 0 | Transcript of Show Cause Hearing, Segundo A.P.G. v. Bondi et al. (D. Minn., No. 26-cv-603), Feb. 3, 2026 [descriptive title] |
-| 2026-09-25 | Deferred | [LIT-014](../../record/literature.d/LIT-014.md) | 1 | 0 | Reckless disregard for the truth coming from cops, doctors, and scientists: A rant. |
-| 2026-09-25 | Deferred | [LIT-017](../../record/literature.d/LIT-017.md) | 1 | 0 | Spectral Networks and Betti Lagrangians |
-| 2026-09-25 | Deferred | [LIT-022](../../record/literature.d/LIT-022.md) | 1 | 0 | Is the United States Still a Liberal Democracy? |
-| 2026-09-25 | Deferred | [LIT-023](../../record/literature.d/LIT-023.md) | 1 | 0 | Russian Hybrid Warfare |
-| 2026-09-25 | Deferred | [LIT-005](../../record/literature.d/LIT-005.md) | 0 | 0 | Adding causality to the information-theoretic perspective on individuality |
+| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 2 | 0 | Adding causality to the information-theoretic perspective on individuality |
+| 2026-09-25 | Proposed | [LIT-017](../../record/literature.d/LIT-017.md) | 2 | 0 | Spectral Networks and Betti Lagrangians |
+| 2026-09-25 | Proposed | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
 | 2026-09-25 | Deferred | [LIT-026](../../record/literature.d/LIT-026.md) | 0 | 0 | Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis |
 | 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |
 
@@ -29,4 +19,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (3): [LIT-005](../../record/literature.d/LIT-005.md), [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (2): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md) — these are the cheapest to close, since nothing depends on the answer.

@@ -4,9 +4,9 @@
 
 **natural-sciences**.
 
-2 of 26 NOTE documents. Back to the [full index](../README.md).
+2 of 27 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [NOTE-002](../../../record/notes.d/NOTE-002.md) | Eulalia impact shower | The collisional breakup of the carbonaceous Eulalia parent body near the Jupiter 3:1 resonance, about 800–865 Ma, can plausibly explain the spike in large lunar craters (including Copernicus) and impact-glass ages near 800 Ma. About three-quarters of the family's fragments drained into the J3:1 over about 150 Myr. | Skimmed |
-| [NOTE-011](../../../record/notes.d/NOTE-011.md) | Quantum Thermodynamics | As of 2015-16 quantum thermodynamics had several inequivalent notions of "work" (ensemble-average, fluctuating single-run, single-shot and resource-theoretic), which the review presents side by side, and it notes that the field had produced few experimentally checkable new predictions. | Skimmed |
+| [NOTE-002](../../../record/notes.d/NOTE-002.md) v2 | Eulalia impact shower | The paper builds a collisional-plus-dynamical source model. In its preferred Solution 5, the Eulalia parent body breaks up T = 865 Myr ago at a_c = 2.48 au next to the Jupiter 3:1 resonance. The model sends 6,995 D ≥ 2 km and 833 D ≥ 5 km fragments into the J3:1 (Table 1, before a ≈1.5× collisional correction). With impact probabilities per resonance entrant of 5.4×10⁻³ (Venus), 4.2×10⁻³ (Earth) and 0.6×10⁻³ (Mars), and the Moon at 1/20 of Earth, the expected largest impactor is D ≈ 8 km on Earth and Venus, 4.5 km on Mars and ">3 km" on the Moon. A Monte Carlo of 7 lunar projectiles puts the seven lunar craters dated 760–820 Ma "generally … within the 1σ" envelope. The authors conclude the breakup "can plausibly account for" the ~800 Ma lunar crater cluster, although on average the model's projectiles are too small to make Copernicus. | Read |
+| [NOTE-011](../../../record/notes.d/NOTE-011.md) v2 | Quantum Thermodynamics | A 2015–16 review with no new results, whose one synthesis (§5.2, §7) is that the field used four inequivalent notions of work: ensemble ⟨W⟩ = ∫tr[ρḢ]dt (Eq. 2), two-point-measurement W = E_m^(τ) − E_n^(0) (Eq. 24), ε-deterministic single-shot A^ε ≈ −kT ln(Z_Λ*/Z) (Eq. 49) and resource-theory w^max_ε = F^min_ε(ρ_S) − F(τ_S) (Eq. 50), of which only the last two coincide. It also judges that the field had "only made a small number of experimentally checkable predictions of new thermodynamic effects yet" (§7, p. 39). | Read |

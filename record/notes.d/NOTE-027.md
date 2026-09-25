@@ -1,5 +1,8 @@
 ---
+number: 27
 status: Read
+formerly:
+- NOTE-tmpugtg1
 paper: LIT-005
 title: 'Adding causality to individuality'
 version: 1
@@ -17,7 +20,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-005 — Proposed by this reading; the note is the reading that placed it -->
 
-# NOTE-tmpugtg1: Adding causality to individuality
+# NOTE-027: Adding causality to individuality
 
 ## Contribution
 

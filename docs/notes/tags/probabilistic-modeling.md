@@ -4,9 +4,9 @@
 
 **probabilistic-modeling**.
 
-2 of 26 NOTE documents. Back to the [full index](../README.md).
+2 of 27 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [NOTE-008](../../../record/notes.d/NOTE-008.md) | Hierarchical Pitman-Yor topic models | Hierarchies of Pitman-Yor processes can be assembled as modular "blocks" and fit with a single collapsed, blocked Gibbs sampler (extending Chen et al. 2011), making nonparametric topic models with auxiliary data practical; the resulting Twitter-Network Topic Model beats HDP-LDA and a nonparametric author-topic model on perplexity. | Skimmed |
+| [NOTE-008](../../../record/notes.d/NOTE-008.md) v2 | Hierarchical Pitman-Yor topic models | The paper collapses every Pitman–Yor node to customer and table counts (Eq. 16, following Chen et al. 2011), which turns any HPYP topic model's posterior into a product of per-node factors, and it samples topics and counts jointly by decrement/propose/increment. The HPYP half of its Twitter-Network Topic Model uses this sampler; the network half is fit by a separate MH step. On one 240,517-tweet, 150-author corpus (T6) the TNTM reaches test perplexity 505.01 ± 7.8, against 664.25 ± 17.76 for a nonparametric ATM and 840.03 ± 15.7 for HDP-LDA, and network log-likelihood −500.63 against −557.86 for the random-function network model alone (Table 4). Removing the power-law discounts barely changes perplexity (508.64) but costs network likelihood (−560.28; Table 5). | Read |
 | [NOTE-023](../../../record/notes.d/NOTE-023.md) v2 | Nested Hierarchical Dirichlet Processes | The nHDP gives each document its own DP over the children of every node of a shared global nCRP tree (G_i^(d) ~ DP(βG_i)), plus a per-node stop/continue switch U_{d,i} ~ Beta(γ1, γ2). Each word then takes its own path, and β → 0 recovers the single-path nCRP. The paper fits this with SVI plus a greedy per-document subtree selection. On small corpora the variational nHDP beats variational nCRP on all three datasets and Gibbs nCRP on two of three (PNAS −6.304 vs −6.496/−6.574 held-out log-likelihood). On 1.8M NYT and 2.7M Wikipedia documents it tops stochastic HDP and LDA-50/150/250 by roughly 0.08 and 0.11 nats (read off Figs. 2, 7), using ≈12 and ≈8 topics per document. | Read |
