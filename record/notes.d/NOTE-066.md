@@ -1,35 +1,137 @@
 ---
 number: 66
-status: Skimmed
+status: Read
 formerly:
 - NOTE-tmpmqjev
 paper: LIT-054
 title: 'Backens & Duman, graphical calculus for Spekkens'' toy bit'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-09-25'
+  note: >-
+    Read in full (full text of arXiv:1411.1618v2 (13 Oct 2015, "major
+    revisions"), 29 pp. I read §1–6 (pp. 1–21), references [1]–[26] (pp.
+    21–22) and Appendix A.1–A.2 (pp. 23–29). I extracted the text with
+    PyMuPDF into raw4/1411.1618.txt; pdftotext is not on this host. The
+    diagrams (spiders, rewrite rules, the graphical proofs in the
+    appendices) came through as scattered phase labels. I read the rules
+    from their prose statements (§4.2) and followed each appendix proof
+    through its step-by-step prose commentary, not by redrawing every
+    diagram. I did not compare the Foundations of Physics version (DOI
+    10.1007/s10701-015-9957-7).). Upgraded from `Skimmed` to `Read`: the
+    claims table, assumptions and results are new, and the skim is corrected
+    where the full text disagreed.
 date: '2026-09-25'
 summary: >-
-  Spekkens' toy bit theory (maximal-knowledge fragment, post-selected measurements) has a graphical calculus modelled on the ZX-calculus that is universal, sound and complete. The toy theory and qubit stabilizer quantum mechanics can therefore be compared entirely in diagrams, and at the categorical level they differ only in the phase group (Z2×Z2 vs Z4).
+  Take the maximal-knowledge fragment of Spekkens' toy bit theory with
+  post-selected measurements, viewed as relations over {1,2,3,4}ⁿ. It has
+  a ZX-style red–green graphical calculus that is universal (§4.3), sound
+  (§4.4) and complete (Thm 17). Completeness goes through a proof that the
+  toy theory's binary "check-matrix" formalism coincides with the qubit
+  stabilizer one (valid states SᵀJS = 0, valid transformations QᵀJQ = J,
+  Lemma 3). With it come graph-state/local-complementation results for toy
+  states (Thms 4–5), map–state duality (§5.2) and an rGS-LO normal form
+  (Thms 10–11). The rewrite rules differ from the stabilizer ZX-calculus
+  only through the phase group: Z₂×Z₂ against Z₄. That difference appears
+  as an "11-commutation" rule in place of π-commutation (§4.5).
 ---
-
-<!-- inactive-ok-file: LIT-054 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-25 -->
 
 # NOTE-066: Backens & Duman, graphical calculus for Spekkens' toy bit
 
 ## Contribution
 
-Quantum theory has no local hidden-variable model, but some such models still reproduce many "quantum" features and are used to probe the ψ-ontic vs ψ-epistemic question. Spekkens' toy theory is one of them: classical probabilistic mechanics plus a limit on what an observer can know. For a single bit it closely resembles stabilizer quantum mechanics. The authors build a graphical language for the toy bit theory, inspired by the ZX-calculus, and prove it complete: any equation derivable in another formalism can be derived graphically. The two theories can then be analysed side by side in analogous diagrammatic formalisms.
+The paper gives the first graphical calculus for Spekkens' toy theory (for bits, maximal knowledge, post-selected measurements). The calculus is a red–green spider language modelled on the ZX-calculus and interpreted in the category of relations. The paper proves it universal, sound and complete, adapting Backens' completeness proof for the stabilizer ZX-calculus [4]. Diagrammatic reasoning then suffices for every equation in this fragment of the toy theory, in a formalism that differs from stabilizer ZX only in its phase group. Along the way it states explicitly that the toy bit theory's binary check-matrix formalism is identical to the qubit stabilizer one (Lemma 3 and p. 15), an equivalence it credits to Pusey [21].
 
-## Skim
+## Key insight
 
-*Abstract, figures and selected sections, read when the work was seeded. Not enough to state its assumptions or results exactly; a `Read` note replaces this one.*
+The toy bit theory and pure qubit stabilizer theory share the same *phase-free* structure: the same spiders, bialgebra, copy and colour-change rules, the same graph-state and local-complementation combinatorics, the same symplectic check matrices. They differ only in the group of phases a spider can carry. For the toy bit it is the Klein four-group {00, 01, 10, 11} under bitwise XOR, every element self-inverse; for stabilizer QM it is Z₄ = {0, π/2, π, −π/2}. So a completeness proof for one transfers almost line by line to the other. Whatever separates the two theories must live in the phase group.
 
-- §1–2: Spekkens' theory is a local hidden-variable theory and ψ-epistemic by construction, yet it reproduces incompatibility, teleportation and no-cloning. It does not violate Bell inequalities, which stabilizer QM does. A toy bit has four ontic states (a 2×2 grid over X, Z), and the observer holds an epistemic state (§2.1).
-- §3: how graphical languages are made rigorous, as formal systems over symmetric monoidal categories (§3.1–3.2).
-- §4: components and rewrite rules (green/red phased spiders, a colour-change rule, an Euler decomposition), with proofs of universality (§4.3) and soundness (§4.4). §4.5: the only categorical difference from the stabilizer ZX-calculus is the phase group, Klein four Z2×Z2 against Z4. That difference shows up as an "11-commutation" rule where ZX has π-commutation.
-- §5: completeness is proved via binary stabilizer and graph-state theorems, map-state duality, and reduction to rGS-LO diagram equalities.
-- §6: next steps are automation in Quantomatic, mixed states and less-than-maximal knowledge via the CPM construction, and higher dimensions.
+## Assumptions
+
+- **Fragment.** Toy *bits* only; states of **maximal knowledge** only (the analogue of pure states); **post-selected** measurements (effects as relations Iⁿ → I); reversible transformations (§1 p. 2, §4 p. 9). Mixed/less-than-maximal-knowledge states are excluded (§6).
+- **Toy theory definition (§2.1).** Four ontic states per toy bit, labelled by (X, Z) ∈ Z₂². Quadrature variables are X, Z, X⊕Z, with the bracket [X,Z] = 1 extended linearly and [Xᵢ, Zⱼ] = δᵢⱼ (Eqs. 1–3). Valid epistemic states follow "classical complementarity": know the values of a commuting set of quadratures "and [be] ignorant otherwise", taken from [LIT-007](../literature.d/LIT-007.md) [26]. Valid reversible transformations are permutations of ontic states that map valid epistemic states to valid epistemic states. There are 24 for one toy bit (all of S₄, §4.3).
+- **Processes as relations.** States are relations I → IVⁿ, effects IVⁿ → I, and composition is relational (Eqs. 21–25). The dagger is the relational converse.
+- **Scalars.** The meta-rule "ignore all scalars that do not represent the empty relation" is sound because the only scalars are {(•,•)} and ∅ (§4.4, p. 13). Equalities are therefore exact in Rel. There are no nonzero numerical scalars to track.
+- **Imported results.** Universality rests on Coecke–Edwards [11]: every process is generated by the 24 reversible single-bit maps, δ and ε. Spider-rule soundness rests on Coecke–Edwards–Spekkens [12]: the toy observable is a classical structure with phase group Z₂×Z₂. The graph-state theorems rest on Van den Nest et al. [19]; completeness strategy on Backens [4].
+
+## Key results
+
+- **Universality (§4.3).** Green and red phased spiders plus the colour-change node represent every process of the fragment.
+- **Soundness (§4.4).** Each rewrite rule is sound. The fixed-arity rules are checked by computing the relations (e.g. copy rule: {(1,1),(1,3),(3,1),(3,3)} = {1,3}×{1,3}, Eqs. 36–37). The 11-copy and loop rules are checked by induction; the spider rule via [12].
+- **Lemma 3.** A binary 2n×n matrix S is a valid toy state iff SᵀJS = 0, with J = [[0, I],[I, 0]]. Valid reversible transformations are exactly the 2n×2n binary Q with QᵀJQ = J (p. 15). These are "exactly the same" conditions as in the qubit stabilizer check-matrix formalism.
+- **Theorems 4–5.** Every toy stabilizer state is equivalent under local toy transformations σ ∈ (S₄)ⁿ to a toy graph state. Two toy graph states are locally equivalent iff their graphs are related by local complementations.
+- **Theorem 10 / 11.** Every state diagram rewrites to GS-LO form, and further to rGS-LO form (vertex operators in a fixed set R, Eq. 48; no two adjacent vertices both with red nodes).
+- **Lemma 15.** In a simplified pair of rGS-LO diagrams, an unpaired red node implies the diagrams are unequal. Proved in full, App. A.2.
+- **Theorem 16 → Theorem 17.** A simplified pair represents the same state iff the diagrams are identical. With map–state duality (Eq. 47) and invertible rewrites, the calculus is **complete** for the toy bit theory (maximal-knowledge fragment, post-selected).
+- **§4.5.** The phase-free rules are identical to stabilizer ZX. The 11-commutation rule and ZX π-commutation are both instances of Eq. 40, in which f fixes the phase-group identity and φ (11 or π) and swaps the other two elements.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The calculus is universal for the fragment | strong (via citation) | §4.3, generators from [11] |
+| C2 | The calculus is sound | strong | §4.4: rule-by-rule relational computation, induction, and [12] for the spider rule |
+| C3 | The calculus is complete | strong, partly by analogy | Thm 17; Lemma 15 proved in full; Thms 10–11 and Props. 12–13 sketched; Prop. 14 and Thm 16 by analogy to [4] |
+| C4 | The toy bit check-matrix formalism equals the qubit stabilizer one (ignoring values/eigenvalues) | strong | Lemma 3 (from [26]) and the identical symplectic conditions; "an equivalent result was shown in [21]" |
+| C5 | Categorically, the toy theory and stabilizer QM differ only in phase group (Z₂×Z₂ vs Z₄) | moderate (citation) | §4.5 citing [12]; not shown here |
+| C6 | Spekkens' toy theory is ψ-epistemic "by construction"; quantum theory "is considered to be ψ-ontic" | assertion (with citation) | §1 p. 2, citing [22] = PBR for the second half. The paper's gloss of ψ-epistemic, that the assigned state "is not real: it is only an artefact of the restricted knowledge of the observer", is informal, not the Harrigan–Spekkens overlap definition |
+| C7 | The toy theory's failure to violate Bell inequalities "is related to" its being ψ-epistemic | assertion | §1 pp. 1–2; no argument, and not what ref. [12] or PBR say |
+| C8 | The graphical calculus lets the two theories be compared "entirely graphically", yielding "insights into what distinguishes … ψ-ontic from ψ-epistemic theories" | assertion (programmatic) | Abstract and §6. No such comparison is carried out in the paper |
+
+## Method
+
+(1) Encode the toy theory in Rel: ontic states {1,2,3,4}, with δ: IV → IV×IV (Eq. 20) and its converse as the green comultiplication/multiplication; the four green phase states {1,3}, {1,4}, {2,3}, {2,4} labelled 00, 01, 10, 11 (Eqs. 27–30); and a colour-change permutation 1↦1, 2↦3, 3↦2, 4↦4 (Eq. 33). Red spiders are green spiders conjugated by it. (2) Postulate ZX-style rules (§4.2): spider/loop, identity, bialgebra, copy, 11-copy, 11-commutation, colour change, Euler decomposition (colour-change node = three alternating 01-phase nodes), and the two meta-rules. (3) Prove universality and soundness. (4) Prove completeness by Backens' route: the binary formalism, graph-state theorems, map–state duality, GS-LO → rGS-LO normal forms, simplification of pairs, and the equality-iff-identical theorem.
+
+## Concepts
+
+- **Toy bit.** A system with four ontic states, labelled by the values of X and Z (§2.1).
+- **Classical complementarity.** "The valid epistemic states are those where an agent knows the values of a set of commuting quadrature variables and is ignorant otherwise" (p. 3, quoting [26]).
+- **State of maximal knowledge.** The values of a maximal commuting set of quadratures are known. There are six for one toy bit (p. 3).
+- **Phase group.** The group of phase states of an observable under composition with the green multiplication. Here Z₂×Z₂, all elements self-inverse (Eq. 38).
+- **Universal / sound / complete.** Every process has a diagram; D₁ = D₂ ⇒ ⟦D₁⟧ = ⟦D₂⟧; ⟦D₁⟧ = ⟦D₂⟧ ⇒ D₁ = D₂ (Eqs. 17–19).
+- **ψ-epistemic (as used here).** A theory in which "the state that an observer assigns to a system, is not real: it is only an artefact of the restricted knowledge of the observer" (p. 2). This is informal, and differs from PBR's/Harrigan–Spekkens' overlap criterion.
+- **GS-LO / rGS-LO.** Graph state with local (single-toy-bit) operators on each output; the reduced form restricts those operators to the set R (Eq. 48) with no two adjacent red vertex operators (Defs. 3–4).
+
+## Connections
+
+- **[LIT-062](../literature.d/LIT-062.md) (PBR; reads/c20.md).** This is the paper's only engagement with the ψ-ontic/ψ-epistemic question as a theorem. It cites PBR as [22] for "Quantum theory on the other hand is considered to be ψ-ontic, i.e. it is a theory where the states an observer assigns to a system are real" (p. 2), and places the toy theory on the other side "by construction". It does not discuss PBR's assumptions, and it does not ask whether the toy theory could itself contain a PBR-type measurement. It is in fact a ψ-epistemic model in the overlap sense with product composition: nonorthogonal maximal-knowledge states such as {1,3} and {1,4} share ontic state 1, and joint systems are Cartesian products (p. 2). By PBR's theorem, then, it cannot contain the PBR measurements. That consequence is mine, not the paper's. The positioning against PBR is therefore a one-sentence citation: PBR says quantum theory is ψ-ontic, the toy theory is ψ-epistemic, so comparing them diagrammatically might show what the difference consists in (abstract, §1). The paper does not carry out that comparison.
+- **[LIT-007](../literature.d/LIT-007.md) (Quasi-quantization; reads/14.md).** The paper cites it as [26] for the rigorous definition of the toy theory, the principle of classical complementarity, and Lemma 3's validity condition (pp. 1, 3, 15). Its toy bit is exactly [LIT-007](../literature.d/LIT-007.md)'s §II.E d = 2 quadrature epistricted theory: three functionals X, Z, X⊕Z; six pure states; 24 reversible maps, which reads/14.md records as 6 symplectic matrices × 4 displacements, all permutations of four ontic states. The phase-group difference (Z₂×Z₂ vs Z₄) is the diagrammatic face of the d = 2 inequivalence [LIT-007](../literature.d/LIT-007.md) §IV.B identifies, where the qubit stabilizer subtheory is contextual and its epistricted counterpart is not. This paper does not use the word "contextuality", and the link is drawn from the two readings, not stated in either paper.
+- **[LIT-003](../literature.d/LIT-003.md) (structure theorem; reads/71.md).** Not cited. reads/71.md notes that the epistricted bit theory has the right ontic-state *count* for a qubit (4 per bit) but is a model of a different GPT. This paper's result is consistent with that: the two theories are formally isomorphic diagrammatically up to the phase group, and differ there.
+- **[LIT-016](../literature.d/LIT-016.md) (Abramsky–Brandenburger; reads/75.md).** Not cited. Both papers work categorically, and Abramsky–Coecke categorical QM [2, 3] is the common ancestor. The sheaf-theoretic contextuality analysis, however, plays no role here.
+- **[LIT-090](../literature.d/LIT-090.md) (c19).** Neither cites the other. Hance et al.'s complaint, that "ψ-epistemic" is used informally and conflated with the Harrigan–Spekkens definition, applies directly to this paper's §1 gloss (C6).
+- **Programme.** It builds on Coecke–Edwards [10, 11] and Coecke–Edwards–Spekkens [12] (toy theory as a category, phase groups), Backens [4] (ZX completeness for stabilizer QM), Pusey [21] (stabilizer notation for the toy theory), and Ranchin [23] (qudit generalisations, completeness open).
+
+## Bearing on the record
+
+- Supports a THEORY-level statement the cluster may want: "Spekkens' toy bit theory (maximal knowledge) and pure qubit stabilizer QM share the same symplectic check-matrix structure and the same phase-free diagrammatic rules; they differ in phase group, Z₂×Z₂ vs Z₄." Source: this paper, §4.5 and §5.1, together with [12] for the categorical claim.
+- The record should **not** cite this paper for any claim about *why* the toy theory is local, or about ψ-epistemicity explaining Bell non-violation (C7). It asserts rather than shows either.
+- Nothing here bears on ML practice. No ANTH- document is implicated.
+
+## Limitations
+
+- **Narrow fragment.** Bits only, maximal knowledge only, post-selected measurements only. This is stated in §1 and §6.
+- **Completeness leans on analogy.** Much of it is sketched or referred to [4] (see corrections).
+- **The ψ-epistemic/ψ-ontic comparison is promised but not delivered** (C8). Nothing in the paper identifies which operational difference (Bell violation, contextuality, PBR) the phase group accounts for.
+- **The categorical "only difference" claim** is imported from [12] (C5).
 
 ## Open questions
 
-- It is a concrete instance of the "same structure, different phase group" diagnosis of what separates quantum from classical-with-epistemic-restriction. It sits beside the held *Quasi-quantization* note.
-- A deeper read should check exactly which quantum/classical differences (e.g. Bell violation) the phase-group difference captures diagrammatically, and whether later work (a mixed-state or qudit extension) completed the §6 programme.
+- Extension to mixed states / less-than-maximal knowledge via the CPM construction; the authors call this easy at the categorical level but do not do it (§6).
+- Completeness for the qudit toy theory and qudit ZX, which is open per [23] (§6, p. 21).
+- Implementation in Quantomatic, for automated comparison (§6).
+- Whether the phase-group difference can be shown diagrammatically to be exactly what separates Bell/GHZ-violating from non-violating behaviour. This paper does not attempt it; [12] is where it would be settled.
+
+## Corrections to the seeded skim
+
+- The dossier says the two theories "at the categorical level … differ only in the phase group". The paper states this but does not show it: "Category-theoretically, the only difference between the toy theory and stabilizer quantum theory is the phase group … [12]" (§4.5, p. 13) is a citation to Coecke–Edwards–Spekkens. The rewrite-rule correspondence this paper *does* exhibit is narrower: the phase-free rules are identical, and the phase-bearing rules (Euler decomposition, 11-copy, 11- vs π-commutation) have analogues. Both commutation rules take the common form (Eq. 40), in which f fixes the identity and φ and swaps the other two phase-group elements (pp. 13–14).
+- The dossier's "a deeper reading should check exactly which quantum/classical differences (e.g. Bell violation) the phase-group difference captures diagrammatically" has a definite answer: **none, in this paper**. No Bell, GHZ or contextuality scenario is drawn or analysed. The only statement linking the toy theory's failure to violate Bell inequalities to anything is in §1 (pp. 1–2): "This is related to the fact that Spekkens' toy theory is a ψ-epistemic theory by construction." That is an unsupported assertion. It also sits oddly with the paper's own ref. [12], whose title attributes non-locality to phase groups ("Phase Groups and the Origin of Non-locality for Qubits"), and with PBR, whose theorem is about ψ-ontology, not locality.
+- The dossier lists "binary stabilizer and graph-state theorems" as proved. The toy-theory versions (Thms 4–5) are **not proved independently**. They are transferred from Van den Nest–Dehaene–De Moor [19] by observing that the toy binary formalism is "exactly the same as the check matrix formalism" once quadrature values and eigenvalues are ignored (p. 15; Lemma 3 itself is cited to [26], [LIT-007](../literature.d/LIT-007.md)). Toy graph states are *defined* as states with a graph-state check matrix (p. 15).
+- Several completeness steps are given in sketch or only by analogy to Backens 2014 [4]:
+  - Lemma 6 and Lemma 9 ("entirely analogous", "straightforward to check");
+  - Theorems 10 and 11, Props. 12 and 13 (sketches, App. A.1);
+  - Proposition 14 ("analogous to the stabilizer ZX-calculus case");
+  - Theorem 16 ("analogous to that of theorem 18 in [4]", no proof given).
+
+  Only Lemma 15 is proved in full (App. A.2, pp. 26–29). The completeness claim is therefore strong, but it rests substantially on [4] carrying over.
+- Minor: the paper's reference [22] gives PBR as Nature Physics 8(6) pp. 476–479. The c20 dossier's Crossref check, and [LIT-007](../literature.d/LIT-007.md)'s reference [31], give 475–478.
