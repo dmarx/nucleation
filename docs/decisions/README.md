@@ -1,0 +1,53 @@
+# Architecture decision records
+
+A decision record is a **choice among alternatives at a point in time**. Write
+one when you rejected an alternative, chose a constraint, or made something a
+future edit could silently violate. Run `luria new adr`; it assigns the
+identity and scaffolds from [`_template.md`](../../record/decisions.d/_template.md).
+
+Values that decisions *cite* live in
+[design-principles.md](../../docs/design-principles.md) instead — also generated, from
+the fragments in `../principles/`. The split, and why these are separate files,
+is [LU-ADR-001](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-001.md).
+
+A decision whose **choice** changes is superseded by *adding* a decision and
+flipping the old one's status — not by rewriting its body. A record you can
+quietly rewrite can't be trusted about what you used to think.
+
+That is a rule about silence, not about editing. A decision whose choice stands
+but whose *reasoning* was wrong is corrected in place, with a `version` bump and
+a `history:` entry saying what the previous version claimed. Nothing here is
+frozen; it is only un-silently revisable. Luria's own record carries worked
+examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-019.md).
+
+<!-- GENERATED below this line by `luria index` — edit README.stub instead. -->
+
+## By tag
+
+**[The record](tags/record.md)** (1) — what the schemes hold, and the rules between them:
+[001](../../record/decisions.d/ADR-001.md)
+
+**[Taxonomy](tags/taxonomy.md)** (0) — the topic vocabulary and what enforces it.
+
+**[Mechanism](tags/mechanism.md)** (0) — identifiers, generation, the lint.
+
+**[Migration](tags/migration.md)** (0) — what moves between this record and the Anthology of the SOTA, and why.
+
+**By status:** [Active](status/Active.md) (1) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
+
+## Chronological
+
+What the status column means in this scheme — the words are luria's, the meanings are this project's.
+
+| Status | | Means |
+|---|---|---|
+| `Active` | Active | In force — the current answer, and what a citation should normally point at |
+| `Proposed` | Proposed | Not in force yet — an open question, so citing it as settled is the thing the report catches |
+| `Deferred` | Deferred | Not in force and not being worked on; the question is real and the answer is waiting on something |
+| `Superseded` | Superseded | No longer in force because something replaced it; the successor is named in the field, not the prose |
+| `Rejected` | Rejected | No longer in force and nothing replaced it — kept because a rejection is worth being able to point at |
+
+| # | Title | Summary | Status |
+|---|---|---|---|
+| [ADR-001](../../record/decisions.d/ADR-001.md) | Nucleation holds what the anthology's topics cannot: LIT, NOTE and THEORY, with a seeded closed vocabulary | The Anthology of the SOTA is scoped by its topic vocabulary, and its own rule is to add a topic rather than decline a document. But some reading is not about machine-learning practice at all: quantum foundations, network science, complex systems, mathematics, neuroscience, law. Nucleation is the catchall record for it. It ports the anthology's LIT, NOTE and THEORY schemes unchanged, so a work can move between the two without re-shaping. It leaves out the SOTA practice scheme, and starts with a closed topic vocabulary seeded from the out-of-scope clusters in the anthology's reading-time triage. | Active |
+
