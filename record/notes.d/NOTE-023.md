@@ -35,7 +35,6 @@ summary: >-
   off Figs. 2, 7), using ≈12 and ≈8 topics per document.
 ---
 
-<!-- inactive-ok-file: LIT-013 — Deferred; named in Connections as the flat Pitman-Yor alternative, not yet read closely -->
 
 # NOTE-023: Nested Hierarchical Dirichlet Processes
 

@@ -31,7 +31,6 @@ summary: >-
   mostly negative, down to ≈ −0.1.
 ---
 
-<!-- inactive-ok-file: LIT-021 — Deferred, the theme issue's editorial, named in Connections for context; not yet read closely -->
 
 # NOTE-020: Emergence as the conversion of information
 

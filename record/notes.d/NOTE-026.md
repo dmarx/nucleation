@@ -39,8 +39,6 @@ summary: >-
   a small example" (§5).
 ---
 
-<!-- inactive-ok-file: LIT-004 — Deferred; the Ollivier-side comparison in Connections, not yet read closely -->
-<!-- inactive-ok-file: NOTE-006 — Skimmed; the only reading of the Ni et al. side so far, and named as such -->
 
 # NOTE-026: Forman-Ricci curvature of networks
 
