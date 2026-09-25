@@ -24,8 +24,8 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 ## By tag
 
-**[The record](tags/record.md)** (2) — what the schemes hold, and the rules between them:
-[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md)
+**[The record](tags/record.md)** (3) — what the schemes hold, and the rules between them:
+[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md)
 
 **[Taxonomy](tags/taxonomy.md)** (0) — the topic vocabulary and what enforces it.
 
@@ -33,7 +33,7 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 **[Migration](tags/migration.md)** (0) — what moves between this record and the Anthology of the SOTA, and why.
 
-**By status:** [Active](status/Active.md) (2) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (3) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
 
 ## Chronological
 
@@ -51,4 +51,5 @@ What the status column means in this scheme — the words are luria's, the meani
 |---|---|---|---|
 | [ADR-001](../../record/decisions.d/ADR-001.md) | Nucleation holds what the anthology's topics cannot: LIT, NOTE and THEORY, with a seeded closed vocabulary | The Anthology of the SOTA is scoped by its topic vocabulary, and its own rule is to add a topic rather than decline a document. But some reading is not about machine-learning practice at all: quantum foundations, network science, complex systems, mathematics, neuroscience, law. Nucleation is the catchall record for it. It ports the anthology's LIT, NOTE and THEORY schemes unchanged, so a work can move between the two without re-shaping. It leaves out the SOTA practice scheme, and starts with a closed topic vocabulary seeded from the out-of-scope clusters in the anthology's reading-time triage. | Active |
 | [ADR-002](../../record/decisions.d/ADR-002.md) | published: is the exact date of first appearance where a source gives one | A LIT's `published:` records the day the work first appeared — an arXiv v1 submission date, a court filing date, a post's date — and falls back to the first of the month only when no source gives a day. The month-only convention inherited from the anthology threw away a fact every source already states. | Active |
+| [ADR-003](../../record/decisions.d/ADR-003.md) | Ten more topics, seven of them grouped as philosophy | The topic vocabulary gains information-theory, social-science and linguistics, and seven philosophy words — metaphysics, mereology, agency, identity, ethics, consciousness, cognition — which a `philosophy` tag group labels as a set. The group is a label (`require: any`), not a rule: a work may carry any number of them, alongside any other topic. | Active |
 

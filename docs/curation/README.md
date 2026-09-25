@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [25 Sep 22:45 — Sixty-five more, seeded, and the order to read them in](2026-09.md#sixty-five-more-seeded-and-the-order-to-read-them-in)
 - [25 Sep 22:10 — Every work read but two, and what the readings did to the seed](2026-09.md#every-work-read-but-two-and-what-the-readings-did-to-the-seed)
 - [25 Sep 21:30 — The first five close readings, and what the seed got wrong](2026-09.md#the-first-five-close-readings-and-what-the-seed-got-wrong)
 - [25 Sep 20:42 — Seeding the out-of-scope reading, and the order to read it in](2026-09.md#seeding-the-out-of-scope-reading-and-the-order-to-read-it-in)
@@ -13,8 +14,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-4 entries across 1 book, newest first.
+5 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 4 | 2026-09-25 | 2026-09-25 |
+| [2026-09](2026-09.md) | 5 | 2026-09-25 | 2026-09-25 |

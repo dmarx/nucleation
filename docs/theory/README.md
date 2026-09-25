@@ -23,6 +23,26 @@ this directory, then run `luria index`.
 
 **[Society and governance](tags/society-and-governance.md)** (0) — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
+**[Information theory](tags/information-theory.md)** (0) — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
+
+**[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
+
+**[Linguistics](tags/linguistics.md)** (0) — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
+
+**[Metaphysics](tags/metaphysics.md)** (0) — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
+
+**[Mereology](tags/mereology.md)** (0) — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
+
+**[Agency](tags/agency.md)** (0) — what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy).
+
+**[Identity](tags/identity.md)** (0) — what makes something the same thing over time or across descriptions — individuality, persistence, personal identity (group: philosophy).
+
+**[Ethics](tags/ethics.md)** (0) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
+
+**[Consciousness](tags/consciousness.md)** (0) — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy).
+
+**[Cognition](tags/cognition.md)** (0) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
+
 **By status:** [The current account](status/Active.md) (0) · [Offered](status/Proposed.md) (0) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (0) · [Replaced](status/Superseded.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
