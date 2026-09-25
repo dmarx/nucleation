@@ -35,6 +35,8 @@ summary: >-
   thermodynamic effects yet" (§7, p. 39).
 ---
 
+<!-- inactive-ok-file: LIT-017 — Proposed; named in Connections as another unrefereed nucleation work, not relied on -->
+
 # NOTE-011: Quantum Thermodynamics
 
 ## Contribution
