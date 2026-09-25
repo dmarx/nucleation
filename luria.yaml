@@ -1,0 +1,445 @@
+# Luria configuration for nucleation.
+#
+# Nucleation is the catchall companion to the Anthology of the SOTA
+# (dmarx/anthology-of-the-sota): it holds reading whose subject no anthology
+# topic can hold, so that "out of scope there" never means "unrecorded". The
+# scheme definitions for LIT, NOTE and THEORY are ported from the anthology's
+# own config, so a work can move between the two records without being
+# re-shaped. What is dropped is the anthology's product — SOTA practices and
+# their consensus vocabulary — because most of what lands here carries no
+# instruction for anyone to follow. See ADR-001.
+#
+# The ANTH remote lets a document here cite one there: ANTH-LIT-123,
+# ANTH-THEORY-45. Codes are not shared across the two records; the prefix is
+# what keeps LIT-001 here from being LIT-001 there.
+vocabularies:
+  topics:
+    label: Topics
+    blurb: 'What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose
+      subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage
+      of 2026-09-25 found, and grow by decision.'
+    alert: Closed so that every tag is one somebody chose and blurbed, not because the list is finished.
+      If a work wants a word this list lacks, add it with a label, a blurb and a decision. If a work fits
+      an anthology topic, it belongs in the anthology, not here.
+    terms:
+      quantum-foundations:
+        label: Quantum foundations
+        blurb: what quantum theory says about the world — contextuality, epistemic restrictions, interference,
+          reconstructions and toy theories, quantum thermodynamics
+      mathematics:
+        label: Mathematics
+        blurb: mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set
+          and measure theory — including mathematical frameworks applied to other fields
+      network-science:
+        label: Network science
+        blurb: the structure and dynamics of networks — dimension, curvature and Ricci flow, community
+          detection, consensus and synchronization
+      complex-systems:
+        label: Complex systems
+        blurb: emergence, information decomposition, individuality, self-organization — how collective
+          behaviour arises from parts
+      probabilistic-modeling:
+        label: Probabilistic modeling
+        blurb: Bayesian inference and statistical models outside deep learning — nonparametric priors,
+          topic models, samplers
+      neuroscience:
+        label: Neuroscience
+        blurb: brains and nervous systems — representation, coding and dynamics measured in biological
+          tissue
+      natural-sciences:
+        label: Natural sciences
+        blurb: physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside
+          any machine-learning claim
+      operations-research:
+        label: Operations research
+        blurb: optimization of real systems — routing, scheduling, facility location, combinatorial algorithms
+      society-and-governance:
+        label: Society and governance
+        blurb: law, politics, policy, security and institutions — court records, doctrine, democratic
+          theory, information operations
+  lit-statuses:
+    label: Paper statuses
+    blurb: 'A work''s standing in this record: whether it is worth reading. Not whether its findings are
+      true — that is the THEORY scheme''s business, and the two can disagree in either direction.'
+    alert: Closed. If the word you want means "this work's account has been overturned", that is a status
+      on a THEORY, not on the work.
+    terms:
+      Active:
+        label: In the anthology
+        blurb: worth reading, whether or not an account was drawn from it
+      Proposed:
+        label: Watching
+        blurb: promising and unproven; the note says what would settle it
+      Deferred:
+        label: Unreviewed
+        blurb: in the corpus, not yet read closely enough to place
+      Superseded:
+        label: Superseded
+        blurb: later work covers this better, and the note names it
+      Rejected:
+        label: Attic
+        blurb: retired with a reason — too narrow, too theoretical, or simply not interesting enough to
+          carry
+  note-statuses:
+    label: Reading statuses
+    blurb: 'How deeply the paper was READ — not whether it is any good, which is `lit-statuses`. The two
+      disagree in every direction: a foundational paper can carry a `Skimmed` note, and a paper in the
+      attic can carry a `Read` one, since reading it carefully is often how it got there (ADR-025).'
+    alert: 'Closed, and the value you want may be no note at all. **The absence of a NOTE means the paper
+      is unread** — a note is written when somebody finishes a paper, so a LIT with no NOTE already says
+      "nobody has reached this", and filing two hundred `Unread` stubs would buy a row in a table. `Unread`
+      is for the case absence cannot cover: a deliberate judgement that a paper was looked at and set
+      aside.'
+    terms:
+      Read:
+        label: Read
+        blurb: the full text, closely enough to state its assumptions and results exactly — the only status
+          that licenses a claims table
+      Skimmed:
+        label: Skimmed
+        blurb: abstract, figures and selected sections; honest, useful, and explicitly not enough to source
+          a practice from
+      Unread:
+        label: Unread
+        blurb: looked at and deliberately set aside — a human judgement, not a backlog entry. A paper
+          nobody has reached simply has no note (ADR-025)
+      Superseded:
+        label: Re-read
+        blurb: a later reading replaced this one, and names it
+  theory-statuses:
+    label: Explanation statuses
+    blurb: Whether the record believes the ACCOUNT, which is not what the same word means on a practice.
+      An explanation can be `Rejected` while the thing it explained goes on working exactly as well as
+      it ever did (ADR-031).
+    alert: Closed. `Rejected` here means the reason is wrong, not the technique; if what you want to retire
+      is the technique, that is a status on the practice.
+    terms:
+      Active:
+        label: The current account
+        blurb: the best explanation the record holds for why this happens
+      Proposed:
+        label: Offered
+        blurb: stated and plausible, on evidence that is suggestive rather than settling — the document
+          says what would settle it
+      Deferred:
+        label: Not yet judged
+        blurb: filed because the question is real; no position taken on the answer
+      Rejected:
+        label: Disbelieved
+        blurb: tested and failed, or contradicted by later work — and the thing it explained may still
+          work perfectly well
+      Superseded:
+        label: Replaced
+        blurb: a later account covers the same ground better, and this one names it
+  statuses:
+    Active:
+      blurb: in force — the current answer, and what a citation should normally point at
+    Proposed:
+      blurb: not in force yet — an open question, so citing it as settled is the thing the report catches
+    Deferred:
+      blurb: not in force and not being worked on; the question is real and the answer is waiting on something
+    Superseded:
+      blurb: no longer in force because something replaced it; the successor is named in the field, not
+        the prose
+    Rejected:
+      blurb: no longer in force and nothing replaced it — kept because a rejection is worth being able
+        to point at
+  adr-tags:
+    label: Decision tags
+    blurb: 'What a decision is about, in the order the index shows them. Open, unlike the topics: a decision
+      that needs a word it does not have simply gets one.'
+    terms:
+      record:
+        label: The record
+        blurb: what the schemes hold, and the rules between them
+      taxonomy:
+        label: Taxonomy
+        blurb: the topic vocabulary and what enforces it
+      mechanism:
+        label: Mechanism
+        blurb: identifiers, generation, the lint
+      migration:
+        label: Migration
+        blurb: what moves between this record and the Anthology of the SOTA, and why
+issue_url: https://github.com/dmarx/nucleation/issues/{n}
+paths:
+  docs: docs
+  decisions: record/decisions.d
+  design_principles: docs/design-principles.md
+  reports: docs/reports
+schemes:
+  LIT:
+    dir: record/literature.d
+    output: docs/literature
+    active: Active
+    render: index
+    allocate: merge
+    alias: LIT-{first_author}-{published:.4}-{number:03d}
+    field_groups:
+      source:
+        fields:
+        - arxiv
+        - doi
+        - url
+        require: at-least-one
+        unique: true
+    references:
+      extends:
+        label: Carries further
+        blurb: the earlier paper this one builds on and could not stand without. Papers fork where the
+          DESIGNS differ, practices where the RECOMMENDATIONS do, so a fork can exist at one layer and
+          not the other (ADR-011).
+        scheme: LIT
+        required: false
+        many: true
+        converse: extended_by
+      extended_by:
+        label: Carried further by
+        blurb: the converse of `extends`, written by `luria link --fix`.
+        scheme: LIT
+        required: false
+        many: true
+        converse: extends
+      compared_against:
+        label: Measured against
+        blurb: this paper evaluated itself against that one. Somebody ran the comparison; a shared topic
+          is not one (ADR-011).
+        scheme: LIT
+        required: false
+        many: true
+        converse: compared_against
+      corrects:
+        label: Corrects
+        blurb: this paper shows the earlier one wrong on something it claimed. Retire by status, never
+          by deletion — the body stays.
+        scheme: LIT
+        required: false
+        many: true
+        converse: corrected_by
+      corrected_by:
+        label: Corrected by
+        blurb: the converse of `corrects`, written by `luria link --fix`.
+        scheme: LIT
+        required: false
+        many: true
+        converse: corrects
+    fields:
+      published:
+        required: true
+      primary_topic:
+        derive: '{tags[0]}'
+      status:
+        vocabulary: lit-statuses
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+    axis: tags
+  NOTE:
+    dir: record/notes.d
+    output: docs/notes
+    active: Read
+    render: index
+    allocate: merge
+    uniform_ok: absence of a NOTE means unread (ADR-025), so every filed note is a finished reading; `Unread`
+      is reserved for a paper deliberately set aside
+    references:
+      paper:
+        label: Reading of
+        blurb: the paper this note is a close reading of. Absence of a note means the paper is unread
+          (ADR-025).
+        scheme: LIT
+        required: true
+        many: false
+    fields:
+      status:
+        vocabulary: note-statuses
+      published:
+        derive: '{published}'
+        from: paper
+      primary_topic:
+        derive: '{tags[0]}'
+        from: paper
+      tags:
+        derive: '{tags}'
+        from: paper
+        many: true
+    axis: tags
+  THEORY:
+    dir: record/theory.d
+    output: docs/theory
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      source:
+        label: Evidence
+        blurb: 'the work this account comes from. Same test as a practice''s: what the explanation could
+          not survive losing.'
+        scheme: LIT
+        required: true
+        many: true
+      extends:
+        label: Carries further
+        blurb: the earlier account this one builds on — a refinement or a widening of the same mechanism,
+          not a rival one.
+        scheme: THEORY
+        required: false
+        many: true
+        converse: extended_by
+      extended_by:
+        label: Carried further by
+        blurb: the converse of `extends`, written by `luria link --fix`.
+        scheme: THEORY
+        required: false
+        many: true
+        converse: extends
+      corrects:
+        label: Corrects
+        blurb: this account replaces the earlier one's reasoning. What the old account explained may still
+          happen; only the reason was wrong.
+        scheme: THEORY
+        required: false
+        many: true
+        converse: corrected_by
+      corrected_by:
+        label: Corrected by
+        blurb: the converse of `corrects`, written by `luria link --fix`.
+        scheme: THEORY
+        required: false
+        many: true
+        converse: corrects
+    fields:
+      promote_when:
+        required_when:
+          status:
+          - Proposed
+          - Deferred
+      status:
+        vocabulary: theory-statuses
+      primary_topic:
+        derive: '{tags[0]}'
+      published:
+        derive: '{published}'
+        from: source[0]
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+    axis: tags
+  ADR:
+    dir: record/decisions.d
+    output: docs/decisions
+    active: Active
+    render: index
+    successor: superseded_by
+    retires_on: Superseded
+    fields:
+      status:
+        vocabulary: statuses
+      tags:
+        vocabulary: adr-tags
+        many: true
+        required: true
+        closed: false
+    axis: tags
+  DP:
+    dir: record/principles.d
+    active: Active
+    render: document
+    output: docs/design-principles.md
+    successor: superseded_by
+    retires_on: Superseded
+    fields:
+      status:
+        vocabulary: statuses
+      tags:
+        many: true
+        required: true
+        closed: false
+    axis: tags
+remotes:
+  ARXIV:
+    name: arXiv
+    uid: (\d{4})[.:](\d{4,5})(v\d+)?
+    url: https://arxiv.org/abs/{1}.{2}
+    uris:
+      title: https://export.arxiv.org/api/query?id_list={1}.{2}
+    title_re: <entry>.*?<title>(.*?)</title>
+  DOI:
+    name: DOI
+    uid: 10\.\d{4,9}/[^\s\]\)>,;]+
+    delim: ':'
+    url: https://doi.org/{uid}
+  ANTH:
+    name: Anthology of the SOTA
+    repo: dmarx/anthology-of-the-sota
+    ref: main
+    dir: record/literature.d
+    schemes:
+      LIT:
+        dir: record/literature.d
+      SOTA:
+        dir: record/practices.d
+      THEORY:
+        dir: record/theory.d
+      ADR:
+        dir: record/decisions.d
+  LU:
+    name: luria
+    repo: dmarx/luria
+    ref: main
+    dir: record/decisions.d
+    schemes:
+      DP:
+        document: docs/design-principles.md
+  FX:
+    name: fixtures
+    url: https://github.com/dmarx/luria/blob/main/docs/directives.md#fixture-codes
+fragments:
+  record/changelog.d: CHANGELOG.md
+journals:
+  curation:
+    dir: record/curation.d
+    output: docs/curation
+    granularity: month
+    title: Curation log
+    blurb: Why things entered this record, and why they left for the anthology or anywhere else.
+  devlog:
+    dir: record/devlog.d
+    output: docs/devlog
+    granularity: month
+    title: Development log
+code:
+  globs: []
+  historical:
+  - CHANGELOG.md
+lint:
+  fail_on:
+  - workflow-temp-codes
+  - source-mismatch
+  mute:
+  - inert-status
+  - acknowledged-uniformity
+chains:
+  lineage:
+    scheme: LIT
+    relation:
+    - extends
+    - corrects
+    sibling: compared_against
+    invariant: tags
+    output: docs/lineage.md
+    title: Lines of work
+  theory:
+    scheme: THEORY
+    relation:
+    - extends
+    - corrects
+    invariant: tags
+    output: docs/theory-lines.md
+    title: Lines of explanation
+    facet_by:
+    - status
