@@ -5,31 +5,22 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**24 document(s) awaiting a decision.**
+**15 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
+| 2026-09-25 | Deferred | [LIT-004](../../record/literature.d/LIT-004.md) | 3 | 0 | Community Detection on Networks with Ricci Flow |
 | 2026-09-25 | Deferred | [LIT-021](../../record/literature.d/LIT-021.md) | 3 | 0 | From the origin of life to pandemics: emergent phenomena in complex systems |
-| 2026-09-25 | Deferred | [LIT-003](../../record/literature.d/LIT-003.md) | 2 | 0 | A structure theorem for generalized-noncontextual ontological models |
-| 2026-09-25 | Deferred | [LIT-019](../../record/literature.d/LIT-019.md) | 2 | 0 | Why interference phenomena do not capture the essence of quantum theory |
-| 2026-09-25 | Deferred | [LIT-001](../../record/literature.d/LIT-001.md) | 1 | 0 | Quantum Mechanics can be understood through stochastic optimization on spacetimes |
-| 2026-09-25 | Deferred | [LIT-002](../../record/literature.d/LIT-002.md) | 1 | 0 | Nested Hierarchical Dirichlet Processes |
-| 2026-09-25 | Deferred | [LIT-004](../../record/literature.d/LIT-004.md) | 1 | 0 | Community Detection on Networks with Ricci Flow |
+| 2026-09-25 | Deferred | [LIT-013](../../record/literature.d/LIT-013.md) | 2 | 0 | Nonparametric Bayesian Topic Modelling with the Hierarchical Pitman-Yor Processes |
 | 2026-09-25 | Deferred | [LIT-008](../../record/literature.d/LIT-008.md) | 1 | 0 | Modeling and solving an integrated periodic vehicle routing and capacitated facility location problem in the context of solid waste collection |
 | 2026-09-25 | Deferred | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
 | 2026-09-25 | Deferred | [LIT-010](../../record/literature.d/LIT-010.md) | 1 | 0 | Quantum Thermodynamics |
 | 2026-09-25 | Deferred | [LIT-011](../../record/literature.d/LIT-011.md) | 1 | 0 | Spectral Sets |
 | 2026-09-25 | Deferred | [LIT-012](../../record/literature.d/LIT-012.md) | 1 | 0 | Transcript of Show Cause Hearing, Segundo A.P.G. v. Bondi et al. (D. Minn., No. 26-cv-603), Feb. 3, 2026 [descriptive title] |
-| 2026-09-25 | Deferred | [LIT-013](../../record/literature.d/LIT-013.md) | 1 | 0 | Nonparametric Bayesian Topic Modelling with the Hierarchical Pitman-Yor Processes |
 | 2026-09-25 | Deferred | [LIT-014](../../record/literature.d/LIT-014.md) | 1 | 0 | Reckless disregard for the truth coming from cops, doctors, and scientists: A rant. |
-| 2026-09-25 | Deferred | [LIT-015](../../record/literature.d/LIT-015.md) | 1 | 0 | Joint Publication 3-12, Cyberspace Operations |
 | 2026-09-25 | Deferred | [LIT-017](../../record/literature.d/LIT-017.md) | 1 | 0 | Spectral Networks and Betti Lagrangians |
-| 2026-09-25 | Deferred | [LIT-018](../../record/literature.d/LIT-018.md) | 1 | 0 | Distinguishability and Accessible Information in Quantum Theory |
-| 2026-09-25 | Deferred | [LIT-020](../../record/literature.d/LIT-020.md) | 1 | 0 | Characterizing Complex Networks with Forman-Ricci Curvature and Associated Geometric Flows |
 | 2026-09-25 | Deferred | [LIT-022](../../record/literature.d/LIT-022.md) | 1 | 0 | Is the United States Still a Liberal Democracy? |
 | 2026-09-25 | Deferred | [LIT-023](../../record/literature.d/LIT-023.md) | 1 | 0 | Russian Hybrid Warfare |
-| 2026-09-25 | Deferred | [LIT-024](../../record/literature.d/LIT-024.md) | 1 | 0 | Memorandum and Order granting motions to quash, In re Administrative Subpoena 25-1431-032 to Rhode Island Hospital (D.R.I., No. 1:26-mc-00007-MSM-AEM, ECF No. 38) [descriptive title] |
-| 2026-09-25 | Deferred | [LIT-028](../../record/literature.d/LIT-028.md) | 1 | 0 | Asymptotic versus mesoscopic spectral dimensions in networks and inhomogeneous structures |
 | 2026-09-25 | Deferred | [LIT-005](../../record/literature.d/LIT-005.md) | 0 | 0 | Adding causality to the information-theoretic perspective on individuality |
 | 2026-09-25 | Deferred | [LIT-026](../../record/literature.d/LIT-026.md) | 0 | 0 | Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis |
 | 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |

@@ -6,8 +6,8 @@
 
 **Attic** — retired with a reason — too narrow, too theoretical, or simply not interesting enough to carry.
 
-0 of 29 LIT documents. Back to the [full index](../README.md).
+1 of 29 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-001](../../../record/literature.d/LIT-001.md) v2 | Quantum Mechanics can be understood through stochastic optimization on spacetimes | Lindgren et al. The paper derives a Stueckelberg-type equation i∂φ/∂τ = (1/2m)□φ − Vφ (Eq. 36) from an HJB equation, but only after putting the imaginary unit in twice by hand. The first i is a factor √g = i multiplying the Lagrangian; standard relativity uses √(−g) = 1. The second is a complex "variance" σ² = i/m (Eq. 29), chosen so that the Hopf–Cole substitution J = log φ linearizes the equation. The linearization itself is the standard λ = σ²·(control cost) condition. The Schrödinger equation (Eq. 43) then comes from c → ∞ plus complex conjugation. The Dirac equation is not derived, and the "Klein–Gordon equation" (Eq. 40) has 2mV where m² should be. | Rejected — read in full 2026-09-25 ([NOTE-003](../../../record/notes.d/NOTE-003.md)); the claim that the i comes from the Minkowski metric depends on the non-standard √g, not √(−g). The complex noise it also needs leaves no real stochastic process or optimization behind. Nelson (1966), Guerra–Morato (1983) and, for the control-theory side, Kappen (2005) cover the real content better. |
