@@ -1,0 +1,45 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'The Russian perspective on information warfare: conceptual roots and politicisation in Russian academic, political, and public discourse'
+version: 1
+tags:
+- society-and-governance
+date: '2026-09-25'
+published: '2017-03-01'
+doi: '10.30966/2018.riga.2.3'
+first_author: 'Fridman'
+keywords:
+- 'Information Warfare'
+- 'Russia'
+- 'Net-Centric War'
+implementations: []
+summary: >-
+  Fridman (2017), DOI-10.30966/2018.riga.2.3. Fridman argues that the Russian idea of a Western "information war against Russia" rests on three independently developed theories: Messner's "subversion-war", Dugin's "net-centric war" and Panarin's "information warfare". Since the late 1990s academics have politicised these, the Kremlin has adopted them into doctrine and law, and the public has largely absorbed them, so that it is hard to say who is influencing whom.
+---
+
+# LIT-tmpunt9z: The Russian perspective on information warfare: conceptual roots and politicisation in Russian academic, political, and public discourse
+
+Ofer Fridman (2017), *Defence Strategic Communications (NATO StratCom COE), vol. 2 (Spring 2017), pp. 61–86* — DOI-10.30966/2018.riga.2.3
+
+## Key takeaways
+
+- Fridman argues that the Russian idea of a Western "information war against Russia" rests on three independently developed theories: Messner's "subversion-war", Dugin's "net-centric war" and Panarin's "information warfare". Since the late 1990s academics have politicised these, the Kremlin has adopted them into doctrine and law, and the public has largely absorbed them, so that it is hard to say who is influencing whom.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Over the preceding decade, "information warfare" had become a heavily politicised term in Russian domestic and foreign affairs. The article traces its conceptual roots in Russian academic, political and public discourse, and identifies the main actors who promoted narratives of a Western information war against Russia. The author argues that, given Russia's bid to reassert itself as a global power and Western anxiety about Russian information activities, understanding these narratives and how they were politicised is essential.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier C): 305 seconds of active reading over 2 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — It is fileable now, the skim captures the three-theory structure and the conclusion, and it links to a held book. A deeper read is only needed to settle how it overlaps with the book (t = 305 s over 2 sessions).**
+
+What a deeper reading should check:
+
+- The survey pairs it with the held *Russian Hybrid Warfare*, which appears to be Fridman's own book: a Crossref search returned a chapter of *Russian "Hybrid Warfare"* by Fridman, DOI 10.1093/oso/9780190877378.003.0007, online 2019-02-21. This article reads as a precursor to that book's argument, and a deeper reading should check how much it overlaps before both are filed.
+- The sources are mostly Russian-language, and the argument is interpretive intellectual history. The citation of Western analysts (p. 80, n. 78) is where the author positions himself against claims that the Kremlin simply orchestrates the narrative.
+- It complements c02 (the EEAS view of FIMI) by giving the Russian doctrinal framing of the same phenomenon.
+
+Access when seeded: The ResearchGate URL in the batch (publication 324768132) returned 403. A Crossref title search found the DOI, and the Crossref record (author Ofer Fridman; vol. 2, issue 1, pp. 61–86; publisher NATO StratCom COE) matches. I read the full 26-page article PDF from stratcomcoe.org (web_fridman.pdf, the journal issue's cover plus pp. 61–86). The batch title ends "...political and military literature"; the published title ends "...academic, political, and public discourse". I assume the ResearchGate entry is this article, but could not open it to confirm. On the date: the StratCom COE page says "1st March 2017", Crossref gives 2017-08-03 for print and online, and the issue cover says "Spring 2017". I used the publisher's page date.

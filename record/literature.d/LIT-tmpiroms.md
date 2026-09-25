@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'A Social Equilibrium Existence Theorem'
+version: 1
+tags:
+- mathematics
+- social-science
+date: '2026-09-25'
+published: '1952-10-01'
+doi: '10.1073/pnas.38.10.886'
+first_author: 'Debreu'
+keywords:
+- 'equilibrium existence'
+- 'abstract economy'
+- 'generalized game'
+- 'fixed point'
+- 'multi-valued functions'
+implementations: []
+summary: >-
+  Debreu (1952), DOI-10.1073/pnas.38.10.886. In a "social system" where each agent's feasible set of actions depends on the others' actions, an equilibrium exists under topological conditions. Each agent must be a contractible polyhedron with a closed-graph constraint correspondence, continuous payoffs, a continuous max-value function, and a contractible set of maximizers. The proof uses the Eilenberg–Montgomery fixed-point theorem, and the result contains Nash equilibrium existence and underlies Arrow–Debreu.
+---
+
+# LIT-tmpiroms: A Social Equilibrium Existence Theorem
+
+Gerard Debreu (1952), *Proceedings of the National Academy of Sciences 38(10), 886–893 (communicated by J. von Neumann, 1 Aug 1952)* — DOI-10.1073/pnas.38.10.886
+
+## Key takeaways
+
+- In a "social system" where each agent's feasible set of actions depends on the others' actions, an equilibrium exists under topological conditions. Each agent must be a contractible polyhedron with a closed-graph constraint correspondence, continuous payoffs, a continuous max-value function, and a contractible set of maximizers. The proof uses the Eilenberg–Montgomery fixed-point theorem, and the result contains Nash equilibrium existence and underlies Arrow–Debreu.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+(No abstract.) In many social systems each agent picks an action from a range, but the other agents' actions determine the subset the agent may choose from. Each agent ranks outcomes by its own preferences. Debreu gives general conditions for an equilibrium: a profile in which every agent's action is feasible given the others' and no agent wants to switch. He notes that Arrow and Debreu used the theorem for competitive economies, and that it contains Nash's N-person equilibrium and von Neumann's zero-sum saddle point as special cases.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier C): 305 seconds of active reading over 4 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — 305 s over 4 sessions. The theorem and proof are short and captured here, and only the historical §4 remains.**
+
+What a deeper reading should check:
+
+- A foundational result: the "abstract economy" or generalized Nash equilibrium, where constraints depend on others' actions. Generalized-Nash formulations appear in multi-agent learning, constrained games and market-design models.
+- Contractibility is weaker than convexity. A deeper read of §3–4 would check how Debreu positions this against Kakutani and Nash.
+- It is 70+ years old and later existence proofs generalize it, but it is still the standard citation. A reading note would record standing rather than advice.
+
+Access when seeded: Crossref (issue October 1952, no day). The PNAS PDF, the PMC PDF and Europe PMC render all returned 403 or a bot challenge. I read a scan of the article (8 pp., OCR text) mirrored on a UCLA economics course site (competitionandappropriation.econ.ucla.edu): the introduction, §1 topological concepts, §2 equilibrium definition, theorem and proof. §3 (saddle points and MinMax) and §4 (history) were only glanced at because the OCR is poor. The published date uses YYYY-10-01 because no day is available. The article has no abstract or keywords, so the keywords above are my own.

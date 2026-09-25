@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics'
+version: 1
+tags:
+- complex-systems
+- natural-sciences
+date: '2026-09-25'
+published: '2021-10-22'
+arxiv: '2110.11914'
+doi: '10.1098/rsta.2021.0245'
+first_author: 'Saeedian'
+keywords:
+- 'stability'
+- 'delay'
+- 'emergent patterns'
+- 'generalized Lotka–Volterra'
+implementations: []
+summary: >-
+  Saeedian et al. (2021), [ARXIV-2110.11914](https://arxiv.org/abs/2110.11914). Adding a time delay to random generalized Lotka–Volterra communities pushes a feasible, stable equilibrium through an analytically computable critical delay into an oscillatory, non-point-attractor phase. Measured as the inverse coefficient of variation of total abundance in that phase, community stability rises with diversity, which is the opposite sign to May's local-stability result.
+---
+
+# LIT-tmpdz1x4: Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics
+
+Meghdad Saeedian, Emanuele Pigani, Amos Maritan, Samir Suweis, Sandro Azaele (2021), *Philosophical Transactions of the Royal Society A 380(2227), 20210245 (online 2022-05-23), same theme issue as c34; first posted as arXiv preprint* — [ARXIV-2110.11914](https://arxiv.org/abs/2110.11914)
+
+## Key takeaways
+
+- Adding a time delay to random generalized Lotka–Volterra communities pushes a feasible, stable equilibrium through an analytically computable critical delay into an oscillatory, non-point-attractor phase. Measured as the inverse coefficient of variation of total abundance in that phase, community stability rises with diversity, which is the opposite sign to May's local-stability result.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+May (1972) and later random-matrix work found universal patterns of feasibility and stability in large random ecosystems, but few studies have added delay. The authors study generalized Lotka–Volterra dynamics with instantaneous and delayed random interactions. Without delay, they find a simple analytical relation between feasibility and stability when intraspecific interactions dominate. Increasing the delay produces a transition from an equilibrium phase to a stable oscillatory phase, and the critical delay is computed analytically and matches simulations. With a stability measure suited to non-equilibrium dynamics, stability increases with diversity in the delay-induced oscillatory regime.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier C): 300 seconds of active reading over 1 session in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — a single 300 s session and "file later" triage. It is a specialised theoretical-ecology result that the skim captures adequately.**
+
+What a deeper reading should check:
+
+- It adds to the May complexity–stability debate: the diversity–stability sign depends on which stability notion is used (local asymptotic versus variability).
+- Random-matrix stability with delays is also relevant to delayed-feedback dynamics in coupled learners, but the paper makes no such link.
+- Check the published version against the preprint (figures and analysis may have been revised) and the "diverging phase" caveat.
+
+Access when seeded: Crossref (journal online 2022-05-23), Europe PMC (keywords; not open access there), and the Royal Society PDF (403). The skim is of the arXiv v1 preprint (2110.11914, submitted 22 Oct 2021, same title, 18 pp.): abstract, introduction, theoretical framework, results figures and discussion/conclusion. The published version may differ from the preprint.

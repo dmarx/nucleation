@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'The Computational Foundations of Collective Intelligence'
+version: 1
+tags:
+- complex-systems
+- cognition
+date: '2026-09-25'
+published: '2025-09-06'
+arxiv: '2509.07999'
+first_author: 'Pilgrim'
+keywords:
+- 'collective intelligence'
+- 'computational resources'
+- 'wisdom of the crowd'
+- 'collective sensing'
+- 'division of labour'
+- 'cultural learning'
+implementations: []
+summary: >-
+  Pilgrim et al. (2025), [ARXIV-2509.07999](https://arxiv.org/abs/2509.07999). The known forms of collective intelligence (wisdom of crowds, collective sensing, division of labour, cultural learning) can all be derived from one principle. Collectives have more sensing, memory, processing and action resources than individuals, but their distributed, modular structure imposes coordination and cooperation constraints, and the resulting trade-offs produce both qualitatively new collective algorithms and collective failures.
+---
+
+# LIT-tmp876tq: The Computational Foundations of Collective Intelligence
+
+Charlie Pilgrim, Joe Morford, Elizabeth Warren, Mélisande Aellen, Christopher Krupenye, Richard P. Mann, Dora Biro (2025), *arXiv preprint (q-bio.NC)* — [ARXIV-2509.07999](https://arxiv.org/abs/2509.07999)
+
+## Key takeaways
+
+- The known forms of collective intelligence (wisdom of crowds, collective sensing, division of labour, cultural learning) can all be derived from one principle. Collectives have more sensing, memory, processing and action resources than individuals, but their distributed, modular structure imposes coordination and cooperation constraints, and the resulting trade-offs produce both qualitatively new collective algorithms and collective failures.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The paper asks why collectives beat individuals on some problems. Its answer is that collectives have more computational resources (more sensory input, memory, processing capacity and ways to act), but their distributed, modular structure creates coordination and cooperation problems. The authors show how the resource advantages lead directly to the standard forms of collective intelligence. They derive testable predictions about distributed reasoning and context-dependent switching of behaviour. Case studies in animal navigation and decision-making show collectives using qualitatively different strategies, not just better versions of individual ones.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier B): 130 seconds of active reading over 5 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — 5 sessions at low time. A conceptual synthesis whose argument the skim largely captures. It is worth reading properly only if the collective-intelligence framing is going to organize a topic.**
+
+What a deeper reading should check:
+
+- A Marr-style computational-level framework for collectives maps directly onto multi-agent and ensemble systems, including AI collectives. Check whether the "predictions" are sharp enough to be falsified or mostly reframe existing results.
+- The resources-versus-constraints decomposition is the main contribution. A deeper read should check whether it is formal (the tables and notation) or taxonomic.
+- It connects to c31 (ant cooperative transport is cited as a synchronisation example) and to the individuality/major-transitions cluster (c30).
+
+Access when seeded: arXiv abs page (v1, submitted 6 Sep 2025, the only version) and the full v1 PDF (20 pp.), which I read: significance statement, introduction, framework tables, constraints section, the three case studies, and discussion. The export API was not used. A Crossref search found no journal version.

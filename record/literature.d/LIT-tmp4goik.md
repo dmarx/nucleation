@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'The Open Systems View'
+version: 1
+tags:
+- quantum-foundations
+- metaphysics
+date: '2026-09-25'
+published: '2021-12-21'
+arxiv: '2112.11095'
+doi: '10.31389/pop.90'
+first_author: 'Cuffaro'
+keywords:
+- 'closed systems view'
+- 'open systems view'
+- 'fundamentality'
+- 'open quantum systems'
+- 'Lindblad equation'
+implementations: []
+summary: >-
+  Cuffaro et al. (2021), [ARXIV-2112.11095](https://arxiv.org/abs/2112.11095). Treating open systems, whose environment enters through their own (generally non-unitary, Lindblad-type) dynamics, as fundamental is ontically, epistemically and explanatorily better supported than the entrenched view that only closed systems are fundamental.
+---
+
+# LIT-tmp4goik: The Open Systems View
+
+Michael E. Cuffaro, Stephan Hartmann (2021), *Philosophy of Physics 2(1):6 (2024); arXiv preprint first* — [ARXIV-2112.11095](https://arxiv.org/abs/2112.11095)
+
+## Key takeaways
+
+- Treating open systems, whose environment enters through their own (generally non-unitary, Lindblad-type) dynamics, as fundamental is ontically, epistemically and explanatorily better supported than the entrenched view that only closed systems are fundamental.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Physics and philosophy have long assumed that isolated (closed) systems are fundamental, and that an environment's influence should be modelled by coupling a system to a second system so that the two together are closed. The authors argue for the opposite "open systems view": systems interacting with their environment are fundamental, and the environment appears directly in the equations governing the system's evolution. Their case study compares standard closed-system quantum theory with the general quantum theory of open systems. They weigh three senses of fundamentality (ontic, epistemic and explanatory) and conclude that the open view wins on each. They draw consequences for the philosophy of physics, the philosophy of science and metaphysics.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier B): 570 seconds of active reading over 5 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — The owner has read it most in this batch (t=570, n=5) and the skim captures the argument's structure. What remains is judging the dilation objection, not the content itself.**
+
+What a deeper reading should check:
+
+- It is a clean statement of a framework-level choice ("view") that recurs outside physics. The §6 links to interventionist causality and agency could connect to agent/environment modelling.
+- A deeper read should check whether the ontic-fundamentality argument in §4.1 depends on GT being strictly more expressive than ST. Do Stinespring/dilation theorems, which recover any GT dynamics from a larger closed system, undercut it?
+- Check how the argument treats non-Markovian dynamics, which the Lindblad derivation in §2.2.1 sets aside.
+
+Access when seeded: arXiv abs page (v1 21 Dec 2021, v2 2 Jun 2023) and full PDF of v2 (60 pp.) read directly: introduction, section structure, §2.2, §4.1, §5.3 and §6 conclusion. Crossref confirms the journal version, Philosophy of Physics 2(1), article 6 (issued 2024). arXiv also lists a second DOI, 10.1093/9780198929277.003.0002, which looks like an OUP book-chapter reprint. I did not check it.
