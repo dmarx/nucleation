@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Causal Claims in Economics'
+version: 1
+tags:
+- social-science
+- network-science
+date: '2026-09-25'
+published: '2024-11-15'
+arxiv: '2501.06873'
+first_author: 'Garg'
+keywords:
+- 'claim graph'
+- 'credibility revolution'
+- 'causal inference'
+- 'narrative complexity'
+- 'novelty'
+- 'large language models'
+implementations: []
+summary: >-
+  Garg et al. (2024), [ARXIV-2501.06873](https://arxiv.org/abs/2501.06873). Turning 44,852 NBER/CEPR economics working papers (1980–2023) into LLM-extracted "claim graphs" (JEL-concept nodes, edges labelled by evidentiary basis) shows the share of causally identified claims rising from 7.7% (1990) to 31.7% (2020). Causal narrative structure and causal novelty predict top-five publication and citations, while non-causal complexity and novelty do not.
+---
+
+# LIT-tmpq22ic: Causal Claims in Economics
+
+Prashant Garg, Thiemo Fetzer (2024), *preprint (OSF Preprints 2024-11-15; SSRN Dec 2024; arXiv from 2025-01-12, econ.GN)* — [ARXIV-2501.06873](https://arxiv.org/abs/2501.06873)
+
+## Key takeaways
+
+- Turning 44,852 NBER/CEPR economics working papers (1980–2023) into LLM-extracted "claim graphs" (JEL-concept nodes, edges labelled by evidentiary basis) shows the share of causally identified claims rising from 7.7% (1990) to 31.7% (2020). Causal narrative structure and causal novelty predict top-five publication and citations, while non-causal complexity and novelty do not.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+As economics grows, a bottleneck is representing what papers claim in a form that can be compared and aggregated. The authors introduce evidence-annotated claim graphs: each paper becomes a directed network of standardized economic concepts, with edges labelled by the kind of evidence, including whether a causal-inference design supports them. A multi-stage AI workflow builds these graphs for 44,852 papers from 1980–2023. Causal edges rise from 7.7% in 1990 to 31.7% in 2020. Causal structure and causal novelty are positively associated with top-five publication and long-run citations, while their non-causal counterparts are weakly or negatively related.
+
+## Standing in the record
+
+Filed from the survey of 2026-09-25 of work the anthology set aside as out of scope (tier B): 45 seconds of active reading over 5 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — 45 s over 5 sessions is a bounce ("drop for now" triage). The skim covers the method and headline numbers, and the only thing to revisit is the validation design, if LLM-based literature extraction becomes a topic.**
+
+What a deeper reading should check:
+
+- A concrete example of using LLMs for large-scale structured extraction from scientific literature, the same pattern as this record's own reading notes and relation graphs. The validation design (repeated passes, edge-overlap thresholds) is the transferable part.
+- Validation is mostly self-consistency, and external checks cover under 2% of papers. Check how precision and recall change across EO thresholds.
+- The associations with publication and citations are correlational, so check the controls.
+
+Access when seeded: arXiv abs page (v1 12 Jan 2025; v2 24 Feb 2026) and the full v2 PDF (71 pp.), which I read: abstract, introduction and positioning, method section heads, the validation section (§2.4) and conclusion. Crossref shows earlier same-titled versions by the same authors: OSF preprint 10.31219/osf.io/u4vgs (posted 2024-11-15) and SSRN 10.2139/ssrn.5045487 / 10.2139/ssrn.5009061 (created Dec 2024). The published date is the OSF posting. doi is set to none because those DOIs belong to preprint servers, and arXiv is the preferred identifier. The v1 abstract was not compared with v2, which reads as a reframing ("evidence-annotated claim graphs").
