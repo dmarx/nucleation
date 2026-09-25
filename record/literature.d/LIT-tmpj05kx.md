@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Spectral Networks and Betti Lagrangians'
+version: 1
+tags:
+- mathematics
+date: '2026-09-25'
+published: '2025-04-01'
+arxiv: '2504.08144'
+first_author: 'Casals'
+keywords:
+- 'spectral networks'
+- 'Lagrangian fillings'
+- 'Floer theory'
+- 'Fukaya categories'
+- 'non-abelianization'
+implementations: []
+summary: >-
+  Casals et al. (2025), [ARXIV-2504.08144](https://arxiv.org/abs/2504.08144). Spectral networks, introduced by Gaiotto-Moore-Neitzke for meromorphic spectral curves, can be characterised through Floer theory of real Lagrangian fillings in T*C for a smooth surface C, in any rank and without algebraicity; a Family Floer functor built this way is equivalent to non-abelianization.
+---
+
+# LIT-tmpj05kx: Spectral Networks and Betti Lagrangians
+
+Roger Casals, Yoon Jae Nho (2025), *arXiv preprint* — [ARXIV-2504.08144](https://arxiv.org/abs/2504.08144)
+
+## Key takeaways
+
+- Spectral networks, introduced by Gaiotto-Moore-Neitzke for meromorphic spectral curves, can be characterised through Floer theory of real Lagrangian fillings in T*C for a smooth surface C, in any rank and without algebraicity; a Family Floer functor built this way is equivalent to non-abelianization.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The authors develop spectral networks within real contact and symplectic topology. They prove that spectral networks exist for Lagrangian fillings in the cotangent bundle of a smooth surface and characterise them pseudo-holomorphically, via adiabatic degeneration of Floer trajectories and explicit continuation strips. They build a Family Floer functor for fillings with a spectral network and show it is equivalent to the non-abelianization functor. As a result, framed 2d-4d BPS states and GMN non-abelianized parallel transport appear inside the A∞-operations of 4d partially wrapped Fukaya categories. They also relate spectral networks to Lagrangian fillings through Demazure weaves and to augmentations of the Legendrian contact dg-algebra.
+
+## Standing in the record
+
+Filed by the reading-time triage of 2026-09-25: 1,000 seconds of active reading over 3 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — despite substantial owner time (t=1000 s), it is a 150-page research-level symplectic geometry preprint far from the record's focus; the introduction as skimmed captures what a non-specialist can extract.**
+
+What a deeper reading should check:
+
+- A specialist research monograph. Its correctness rests on the analytic adiabatic-limit results (§4), which only a symplectic topologist can check.
+- ML link: none. It is filed in the quantum cluster via the physics (BPS states, WKB), not quantum foundations.
+- A deeper reading would first need the GMN papers and background on Fukaya categories; the payoff for this reading record is unclear.
+
+Access when seeded: arXiv abs page and full PDF (150 pp.) retrieved; read outline and §1 Introduction / §1.1 Scientific context (pp. 2-4). A Crossref search found no journal version, so it is treated as a preprint as of this check. The main theorems' statements (§1.2) and the proofs were not read.

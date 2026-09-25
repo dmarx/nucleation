@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-25; not read in full
+title: 'Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis'
+version: 1
+tags:
+- natural-sciences
+date: '2026-09-25'
+published: '2016-06-01'
+doi: '10.1016/j.toxicon.2016.06.005'
+first_author: 'Rungsa'
+keywords:
+- 'wasp venom'
+- 'Vespa tropica'
+- 'Vespa affinis'
+- 'proteomics'
+- 'hyaluronidase'
+implementations: []
+summary: >-
+  Rungsa et al. (2016), DOI-10.1016/j.toxicon.2016.06.005. Venom from the great banded wasp (V. tropica) is more potent than venom from the banded tiger wasp (V. affinis): PD50 of 3 versus 12.5 µg/g. The authors attribute the difference to higher levels and activity of hyaluronidase (about 2.5× the proportion), phospholipase and dipeptidyl peptidase, since the two venoms' protein profiles are otherwise similar.
+---
+
+# LIT-tmptjcvl: Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis
+
+Prapenpuksiri Rungsa, Paroonkorn Incamnoi, Sophida Sukprasert, Nunthawun Uawonggul, Sompong Klaynongsruang, et al. (2016), *Toxicon (vol. 119, pp. 159–167)* — DOI-10.1016/j.toxicon.2016.06.005
+
+## Key takeaways
+
+- Venom from the great banded wasp (V. tropica) is more potent than venom from the banded tiger wasp (V. affinis): PD50 of 3 versus 12.5 µg/g. The authors attribute the difference to higher levels and activity of hyaluronidase (about 2.5× the proportion), phospholipase and dipeptidyl peptidase, since the two venoms' protein profiles are otherwise similar.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+The study compares venom potency, composition and activity for two Vespa species from northeastern Thailand. Both species are known locally for dangerous stings, and traditional healers regard V. tropica as the worse of the two. An earlier study by the same group measured V. tropica's median paralysing dose as roughly four times lower than V. affinis's. Gel electrophoresis showed similar protein patterns in both venoms: mostly basic proteins (pI 5–10) of 27–50 kDa, identified as hyaluronidase, phospholipase, antigen 5, dipeptidyl peptidase and an albumin-like protein. V. tropica had about 2.5× the hyaluronidase proportion and higher activity of three enzymes, which the authors suggest explains its greater potency.
+
+## Standing in the record
+
+Filed by the reading-time triage of 2026-09-25: 2,220 seconds of active reading over 10 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — A narrow toxinology comparison whose abstract states the full result. It is outside the anthology's scope, and t = 2220 s suggests the owner has already read it.**
+
+What a deeper reading should check:
+
+- The causal attribution (more enzyme activity, therefore more potency) is correlational across only two species. A deeper reading would check whether any fractionation or knock-down experiment supports it.
+- The PD50 values come from the group's own earlier study and were not re-measured here, as far as the abstract says.
+- No ML connection.
+
+Access when seeded: The title was empty in the list. I resolved the ScienceDirect pii S0041010116301593 to this DOI through Crossref (alternative-id filter), and PubMed (PMID 27288895) confirms it: Epub 2016 Jun 8, issue 2016 Sep 1. There are nine authors in total; the remaining four are Jureerut Daduang, Rina Patramanon, Sittiruk Roytrakul and Sakda Daduang. ScienceDirect returned 403 and no open-access copy was found, so I read only the abstract, via PubMed. The paper has no author keyword list; the keywords above are mine.

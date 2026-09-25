@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-25; not read in full
+title: 'Why interference phenomena do not capture the essence of quantum theory'
+version: 1
+tags:
+- quantum-foundations
+date: '2026-09-25'
+published: '2021-11-01'
+arxiv: '2111.13727'
+doi: '10.22331/q-2023-09-25-1119'
+first_author: 'Catani'
+keywords:
+- 'quantum interference'
+- 'Mach-Zehnder interferometer'
+- 'toy field theory'
+- 'epistemic restriction'
+- 'classicality'
+implementations: []
+summary: >-
+  Catani et al. (2021), [ARXIV-2111.13727](https://arxiv.org/abs/2111.13727). A classical statistical theory of discrete field modes with an epistemic restriction reproduces the standard Mach-Zehnder interference phenomenology (and bomb tester, delayed choice, quantum eraser), so interference by itself does not force wave-particle duality, observer-dependent reality or retrocausation.
+---
+
+# LIT-tmpkh1rz: Why interference phenomena do not capture the essence of quantum theory
+
+Lorenzo Catani, Matthew Leifer, David Schmid, Robert W. Spekkens (2021), *Quantum 7, 1119 (2023)* — [ARXIV-2111.13727](https://arxiv.org/abs/2111.13727)
+
+## Key takeaways
+
+- A classical statistical theory of discrete field modes with an epistemic restriction reproduces the standard Mach-Zehnder interference phenomenology (and bomb tester, delayed choice, quantum eraser), so interference by itself does not force wave-particle duality, observer-dependent reality or retrocausation.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Interference is often presented, following Feynman, as the central mystery of quantum mechanics and as forcing radical conclusions: photons toggling between particle and wave, observer-dependent reality, or nonlocal/retrocausal influences. The authors construct a "toy field theory", a classical statistical theory of a discrete field, that reproduces the relevant interference phenomenology without those conclusions. Each field mode always has both a discrete occupation number (particle-like) and a discrete phase (wave-like), but an epistemic restriction forbids knowing both. Apparent nonlocal or backwards-in-time influences become inferences about distant or past systems, and only the observer's knowledge, not reality, is observer-dependent.
+
+## Standing in the record
+
+Filed by the reading-time triage of 2026-09-25: 1,515 seconds of active reading over 5 sessions in the papers-feed tracker. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — the owner spent substantial time (t=1515 s), but the paper is colloquium-level and the authors' own "essence" sections (§1, 2.3, 3, 5) were covered by this skim; remaining depth is in the appendices.**
+
+What a deeper reading should check:
+
+- Strongest claim: TRAP interference is classically explainable. Verify that the toy theory's predictions match quantum ones for exactly the listed experiments and nowhere claims more (App. A-C).
+- It is an application of item 14's programme and leans on item 71-style classicality; reading it after those avoids redundancy.
+- ML link: none. Its methodological point (state a criterion, formalize, prove a no-go, rather than infer "no classical explanation" from failing to find one) is a general one, and the ML connection is only by analogy.
+
+Access when seeded: arXiv abs page and full PDF (61 pp.) retrieved; read outline, the author note (experts may read §1, 2.3, 3, 5), §3.1 description of the toy field theory, and §5.1 take-away. DOI and venue confirmed via Crossref.
