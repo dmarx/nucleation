@@ -32,7 +32,6 @@ summary: >-
   that the theory makes no macro-versus-micro comparison.
 ---
 
-<!-- inactive-ok-file: LIT-021 — Deferred, the theme issue's editorial, named in Connections for context; not yet read closely -->
 
 # NOTE-010: Greater than the parts
 
