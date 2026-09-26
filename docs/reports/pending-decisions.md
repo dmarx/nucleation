@@ -5,12 +5,12 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**86 document(s) awaiting a decision.**
+**81 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 33 | 0 | Adding causality to the information-theoretic perspective on individuality |
-| 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 28 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
+| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 36 | 0 | Adding causality to the information-theoretic perspective on individuality |
+| 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 31 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-031](../../record/literature.d/LIT-031.md) | 8 | 0 | Moving away from lexicalism in psycho- and neuro-linguistics |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 4 | 0 | The Computational Foundations of Collective Intelligence |
 | 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 3 | 0 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
@@ -28,55 +28,50 @@
 | 2026-09-25 | Deferred | [LIT-043](../../record/literature.d/LIT-043.md) | 0 | 0 | This Secret Math Equation let the US Government Spy on Anyone |
 | 2026-09-25 | Deferred | [LIT-070](../../record/literature.d/LIT-070.md) | 0 | 0 | Dynamics of collectives with opinionated agents: The case of scrambling connectivity |
 | 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
-| 2026-09-26 | Deferred | [LIT-110](../../record/literature.d/LIT-110.md) | 22 | 0 | Unknotting reciprocal causation between organism and environment |
+| 2026-09-26 | Deferred | [LIT-110](../../record/literature.d/LIT-110.md) | 23 | 0 | Unknotting reciprocal causation between organism and environment |
 | 2026-09-26 | Deferred | [LIT-111](../../record/literature.d/LIT-111.md) | 22 | 0 | AI Consciousness: A Centrist Manifesto |
 | 2026-09-26 | Proposed | [LIT-200](../../record/literature.d/LIT-200.md) | 18 | 0 | Wave-functionalism |
 | 2026-09-26 | Deferred | [LIT-135](../../record/literature.d/LIT-135.md) | 16 | 0 | Conscious artificial intelligence and biological naturalism |
-| 2026-09-26 | Deferred | [LIT-160](../../record/literature.d/LIT-160.md) | 12 | 0 | Units and Levels of Selection |
+| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 13 | 0 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Deferred | [LIT-212](../../record/literature.d/LIT-212.md) | 12 | 0 | Do Large Language Models Hallucinate Electric Fata Morganas? |
-| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 11 | 0 | Scaffolding individuality: coordination, cooperation, collaboration and community |
+| 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 9 | 0 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |
 | 2026-09-26 | Deferred | [LIT-169](../../record/literature.d/LIT-169.md) | 7 | 0 | Defining the niche for niche construction: evolutionary and ecological niches |
-| 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 7 | 0 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-162](../../record/literature.d/LIT-162.md) | 6 | 0 | Is Unsupervised Clustering Somehow Truer? |
 | 2026-09-26 | Deferred | [LIT-118](../../record/literature.d/LIT-118.md) | 5 | 0 | A Pragmatist Theory of Evidence |
 | 2026-09-26 | Deferred | [LIT-127](../../record/literature.d/LIT-127.md) | 5 | 0 | Hutchinson’s ecological niche for individuals |
 | 2026-09-26 | Deferred | [LIT-131](../../record/literature.d/LIT-131.md) | 5 | 0 | A Model of Understanding in Deep Learning Systems |
 | 2026-09-26 | Deferred | [LIT-166](../../record/literature.d/LIT-166.md) | 5 | 0 | Sacrificing Humans for Insects and AI: A Critical Review of Jonathan Birch, The Edge of Sentience, Jeff Sebo, The Moral Circle, and Webb Keane, Animals, Robots, Gods |
+| 2026-09-26 | Deferred | [LIT-174](../../record/literature.d/LIT-174.md) | 5 | 0 | Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out |
 | 2026-09-26 | Deferred | [LIT-178](../../record/literature.d/LIT-178.md) | 5 | 0 | Borges and AI |
 | 2026-09-26 | Deferred | [LIT-208](../../record/literature.d/LIT-208.md) | 5 | 0 | Distributional Semantics, Holism, and the Instability of Meaning |
-| 2026-09-26 | Deferred | [LIT-210](../../record/literature.d/LIT-210.md) | 5 | 0 | Philosophy of Microbiology |
-| 2026-09-26 | Deferred | [LIT-115](../../record/literature.d/LIT-115.md) | 4 | 0 | Duality as a category-theoretic concept |
 | 2026-09-26 | Deferred | [LIT-117](../../record/literature.d/LIT-117.md) | 4 | 0 | Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action |
 | 2026-09-26 | Deferred | [LIT-140](../../record/literature.d/LIT-140.md) | 4 | 0 | Large Language Models Are Stochastic Measuring Devices |
-| 2026-09-26 | Deferred | [LIT-174](../../record/literature.d/LIT-174.md) | 4 | 0 | Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out |
 | 2026-09-26 | Deferred | [LIT-175](../../record/literature.d/LIT-175.md) | 4 | 0 | Evidence in Medicine and Evidence-Based Medicine |
 | 2026-09-26 | Deferred | [LIT-180](../../record/literature.d/LIT-180.md) | 4 | 0 | Symmetry and Conservation Laws |
 | 2026-09-26 | Deferred | [LIT-191](../../record/literature.d/LIT-191.md) | 4 | 0 | AI and Consciousness |
 | 2026-09-26 | Deferred | [LIT-205](../../record/literature.d/LIT-205.md) | 4 | 0 | One equation to rule them all: a philosophical analysis of the Price equation |
 | 2026-09-26 | Deferred | [LIT-213](../../record/literature.d/LIT-213.md) | 4 | 0 | Rigour versus the need for evidential diversity |
 | 2026-09-26 | Deferred | [LIT-103](../../record/literature.d/LIT-103.md) | 3 | 0 | Closing the Cartesian Bureau de Change |
+| 2026-09-26 | Deferred | [LIT-126](../../record/literature.d/LIT-126.md) | 3 | 0 | The Category Error in Contemporary AI Safety Discourse and Why Non-Sentient Systems Cannot Be Moral Machines |
 | 2026-09-26 | Deferred | [LIT-129](../../record/literature.d/LIT-129.md) | 3 | 0 | Epistemic injustice in the clinical care of practitioners of Afro-Brazilian religions |
 | 2026-09-26 | Deferred | [LIT-148](../../record/literature.d/LIT-148.md) | 3 | 0 | Computational Functionalism for the Deep Learning Era |
 | 2026-09-26 | Deferred | [LIT-193](../../record/literature.d/LIT-193.md) | 3 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-26 | Deferred | [LIT-198](../../record/literature.d/LIT-198.md) | 3 | 0 | Rule Consequentialism |
 | 2026-09-26 | Deferred | [LIT-098](../../record/literature.d/LIT-098.md) | 2 | 0 | Health and Disease Concepts Cannot Be Grounded in Social Justice Alone |
-| 2026-09-26 | Deferred | [LIT-126](../../record/literature.d/LIT-126.md) | 2 | 0 | The Category Error in Contemporary AI Safety Discourse and Why Non-Sentient Systems Cannot Be Moral Machines |
+| 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 2 | 0 | Philosophy of Mathematics and Natural Science |
+| 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
 | 2026-09-26 | Deferred | [LIT-143](../../record/literature.d/LIT-143.md) | 2 | 0 | What is a Mathematical Structure of Conscious Experience? |
 | 2026-09-26 | Deferred | [LIT-149](../../record/literature.d/LIT-149.md) | 2 | 0 | The information-processing perspective on representation |
 | 2026-09-26 | Deferred | [LIT-161](../../record/literature.d/LIT-161.md) | 2 | 0 | Why Replication Is Overrated |
-| 2026-09-26 | Deferred | [LIT-172](../../record/literature.d/LIT-172.md) | 2 | 0 | Ethics of Parasocial Relationships |
 | 2026-09-26 | Deferred | [LIT-189](../../record/literature.d/LIT-189.md) | 2 | 0 | Philosophy of Open Science |
 | 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 2 | 0 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
 | 2026-09-26 | Deferred | [LIT-099](../../record/literature.d/LIT-099.md) | 1 | 0 | Framing Effects in Object Perception |
 | 2026-09-26 | Deferred | [LIT-101](../../record/literature.d/LIT-101.md) | 1 | 0 | Moral disciplining: The cognitive and evolutionary foundations of puritanical morality |
 | 2026-09-26 | Deferred | [LIT-106](../../record/literature.d/LIT-106.md) | 1 | 0 | Brandom's Inferentialist Theory and the Meaning Entitlement Connection |
-| 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 1 | 0 | Philosophy of Mathematics and Natural Science |
 | 2026-09-26 | Deferred | [LIT-114](../../record/literature.d/LIT-114.md) | 1 | 0 | Philosophy of Statistical Mechanics |
-| 2026-09-26 | Deferred | [LIT-116](../../record/literature.d/LIT-116.md) | 1 | 0 | Why are We Here? Evangelion and the Desperate Search for Meaning in Life |
 | 2026-09-26 | Deferred | [LIT-119](../../record/literature.d/LIT-119.md) | 1 | 0 | Conspiracy Theories and Public Trust |
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
-| 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 1 | 0 | Philosophy of Fame and Celebrity |
 | 2026-09-26 | Deferred | [LIT-139](../../record/literature.d/LIT-139.md) | 1 | 0 | Inductive Risk and Values in Science |
 | 2026-09-26 | Deferred | [LIT-145](../../record/literature.d/LIT-145.md) | 1 | 0 | Ultrafilters as Propositional Theories |
 | 2026-09-26 | Deferred | [LIT-153](../../record/literature.d/LIT-153.md) | 1 | 0 | Making sense of transformer success |
@@ -85,6 +80,7 @@
 | 2026-09-26 | Deferred | [LIT-163](../../record/literature.d/LIT-163.md) | 1 | 0 | Philosophy of Probability: Foundations, Epistemology, and Computation |
 | 2026-09-26 | Deferred | [LIT-165](../../record/literature.d/LIT-165.md) | 1 | 0 | Coherence-based measures of explanatory power |
 | 2026-09-26 | Deferred | [LIT-179](../../record/literature.d/LIT-179.md) | 1 | 0 | Algorithmic Nudging: The Need for an Interdisciplinary Oversight |
+| 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 1 | 0 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
 | 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 1 | 0 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
 | 2026-09-26 | Deferred | [LIT-190](../../record/literature.d/LIT-190.md) | 1 | 0 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 1 | 0 | Conspiracy theorists are not the problem; Conspiracy liars are |
@@ -93,11 +89,10 @@
 | 2026-09-26 | Deferred | [LIT-134](../../record/literature.d/LIT-134.md) | 0 | 0 | The Duality of Content |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 0 | 0 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 0 | 0 | Knowledge is not always more valuable than mere true belief |
-| 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 0 | 0 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
 | 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 0 | 0 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (13): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-039](../../record/literature.d/LIT-039.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-070](../../record/literature.d/LIT-070.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-105](../../record/literature.d/LIT-105.md), [LIT-134](../../record/literature.d/LIT-134.md), [LIT-171](../../record/literature.d/LIT-171.md), [LIT-181](../../record/literature.d/LIT-181.md), [LIT-183](../../record/literature.d/LIT-183.md), [LIT-197](../../record/literature.d/LIT-197.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (12): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-039](../../record/literature.d/LIT-039.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-070](../../record/literature.d/LIT-070.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-105](../../record/literature.d/LIT-105.md), [LIT-134](../../record/literature.d/LIT-134.md), [LIT-171](../../record/literature.d/LIT-171.md), [LIT-181](../../record/literature.d/LIT-181.md), [LIT-197](../../record/literature.d/LIT-197.md) — these are the cheapest to close, since nothing depends on the answer.

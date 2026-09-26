@@ -1,5 +1,8 @@
 ---
+number: 186
 status: Read
+formerly:
+- NOTE-tmpckubh
 paper: LIT-172
 title: 'Ethics of Parasocial Relationships'
 version: 1
@@ -35,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-137 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-126 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
 
-# NOTE-tmpckubh: Ethics of Parasocial Relationships
+# NOTE-186: Ethics of Parasocial Relationships
 
 ## Contribution
 
