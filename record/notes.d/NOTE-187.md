@@ -1,5 +1,8 @@
 ---
+number: 187
 status: Read
+formerly:
+- NOTE-tmphdbe8
 paper: LIT-105
 title: 'On the Evolution, Science, and Metaphysics of Consciousness'
 version: 1
@@ -48,7 +51,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-193 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 
-# NOTE-tmphdbe8: On the Evolution, Science, and Metaphysics of Consciousness
+# NOTE-187: On the Evolution, Science, and Metaphysics of Consciousness
 
 ## Contribution
 

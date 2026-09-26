@@ -1,6 +1,9 @@
 ---
+number: 188
 status: Read
-paper: LIT-tmppih6y
+formerly:
+- NOTE-tmpvkoil
+paper: LIT-216
 title: 'The Weirdness of the World'
 version: 1
 history:
@@ -38,7 +41,7 @@ summary: >-
   Everything else is informal argument.
 ---
 
-# NOTE-tmpvkoil: The Weirdness of the World
+# NOTE-188: The Weirdness of the World
 
 ## Contribution
 
