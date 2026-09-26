@@ -5,49 +5,23 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**45 document(s) awaiting a decision.**
+**19 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 11 | 0 | Adding causality to the information-theoretic perspective on individuality |
 | 2026-09-25 | Proposed | [LIT-031](../../record/literature.d/LIT-031.md) | 8 | 0 | Moving away from lexicalism in psycho- and neuro-linguistics |
-| 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 4 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
-| 2026-09-25 | Deferred | [LIT-040](../../record/literature.d/LIT-040.md) | 3 | 0 | two-level type theory [descriptive title: nLab wiki entry "two-level type theory"] |
+| 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 5 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 3 | 0 | The Computational Foundations of Collective Intelligence |
 | 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 3 | 0 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
-| 2026-09-25 | Deferred | [LIT-081](../../record/literature.d/LIT-081.md) | 3 | 0 | Ensemble Steering, Weak Self-Duality, and the Structure of Probabilistic Theories |
 | 2026-09-25 | Proposed | [LIT-017](../../record/literature.d/LIT-017.md) | 2 | 0 | Spectral Networks and Betti Lagrangians |
-| 2026-09-25 | Deferred | [LIT-066](../../record/literature.d/LIT-066.md) | 2 | 0 | The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists |
-| 2026-09-25 | Deferred | [LIT-080](../../record/literature.d/LIT-080.md) | 2 | 0 | Understanding brain states across spacetime informed by whole-brain modelling |
 | 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 2 | 0 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
-| 2026-09-25 | Deferred | [LIT-030](../../record/literature.d/LIT-030.md) | 1 | 0 | A Counterexample to the Mizohata-Takeuchi Conjecture |
-| 2026-09-25 | Deferred | [LIT-033](../../record/literature.d/LIT-033.md) | 1 | 0 | Disenshittify or die! How hackers can seize the means of computation and build a new, good internet that is hardened against our asshole bosses' insatiable horniness for enshittification [DEF CON 32 talk] |
-| 2026-09-25 | Deferred | [LIT-034](../../record/literature.d/LIT-034.md) | 1 | 0 | The sound of an axon's growth |
-| 2026-09-25 | Deferred | [LIT-036](../../record/literature.d/LIT-036.md) | 1 | 0 | Self-organization of primitive metabolic cycles due to non-reciprocal interactions |
-| 2026-09-25 | Deferred | [LIT-044](../../record/literature.d/LIT-044.md) | 1 | 0 | The Epic Story of Maximum Likelihood |
-| 2026-09-25 | Deferred | [LIT-048](../../record/literature.d/LIT-048.md) | 1 | 0 | Transfer Entropy as a Log-likelihood Ratio |
-| 2026-09-25 | Deferred | [LIT-050](../../record/literature.d/LIT-050.md) | 1 | 0 | Mean-Field-Type Game Theory with Rosenblatt Noise |
-| 2026-09-25 | Deferred | [LIT-051](../../record/literature.d/LIT-051.md) | 1 | 0 | Lecture Notes on Control System Theory and Design |
-| 2026-09-25 | Deferred | [LIT-052](../../record/literature.d/LIT-052.md) | 1 | 0 | SCOTUS allows Trump admin to send eight men to South Sudan with no process |
-| 2026-09-25 | Deferred | [LIT-055](../../record/literature.d/LIT-055.md) | 1 | 0 | Who Goes Nazi? |
-| 2026-09-25 | Deferred | [LIT-057](../../record/literature.d/LIT-057.md) | 1 | 0 | Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics |
-| 2026-09-25 | Deferred | [LIT-059](../../record/literature.d/LIT-059.md) | 1 | 0 | The Strongest El Niño Ever |
-| 2026-09-25 | Deferred | [LIT-060](../../record/literature.d/LIT-060.md) | 1 | 0 | The Mothership Vortex: An Investigation Into the Firm at the Heart of the Democratic Spam Machine |
-| 2026-09-25 | Deferred | [LIT-061](../../record/literature.d/LIT-061.md) | 1 | 0 | Mike Johnson's Institutional Betrayal |
-| 2026-09-25 | Deferred | [LIT-065](../../record/literature.d/LIT-065.md) | 1 | 0 | Grand jury transcript, In re Grand Jury Investigation 25 GJ 994, October 9, 2025 ("Broadview Six") [descriptive title] |
-| 2026-09-25 | Deferred | [LIT-067](../../record/literature.d/LIT-067.md) | 1 | 0 | A Social Equilibrium Existence Theorem |
-| 2026-09-25 | Deferred | [LIT-068](../../record/literature.d/LIT-068.md) | 1 | 0 | How Local Separators Shape Community Structure in Large Networks |
+| 2026-09-25 | Proposed | [LIT-057](../../record/literature.d/LIT-057.md) | 1 | 0 | Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics |
+| 2026-09-25 | Proposed | [LIT-059](../../record/literature.d/LIT-059.md) | 1 | 0 | The Strongest El Niño Ever |
+| 2026-09-25 | Proposed | [LIT-060](../../record/literature.d/LIT-060.md) | 1 | 0 | The Mothership Vortex: An Investigation Into the Firm at the Heart of the Democratic Spam Machine |
 | 2026-09-25 | Proposed | [LIT-069](../../record/literature.d/LIT-069.md) | 1 | 0 | Surface optimization governs the local design of physical networks |
-| 2026-09-25 | Deferred | [LIT-072](../../record/literature.d/LIT-072.md) | 1 | 0 | Iranian Hackers Targeted US Officials in Elaborate Social Media Attack Operation |
-| 2026-09-25 | Deferred | [LIT-076](../../record/literature.d/LIT-076.md) | 1 | 0 | Performing all-atom molecular dynamics simulations of intrinsically disordered proteins with replica exchange solute tempering |
-| 2026-09-25 | Deferred | [LIT-078](../../record/literature.d/LIT-078.md) | 1 | 0 | Kerr County Commissioners' Court, Regular Session, Monday, June 27, 2016 — verbatim transcript [descriptive title] |
-| 2026-09-25 | Deferred | [LIT-079](../../record/literature.d/LIT-079.md) | 1 | 0 | Causal Claims in Economics |
-| 2026-09-25 | Deferred | [LIT-082](../../record/literature.d/LIT-082.md) | 1 | 0 | Unification of observational entropy with maximum entropy principles |
-| 2026-09-25 | Deferred | [LIT-089](../../record/literature.d/LIT-089.md) | 1 | 0 | Software engineering job openings hit five-year low? |
-| 2026-09-25 | Deferred | [LIT-092](../../record/literature.d/LIT-092.md) | 1 | 0 | DOJ Changes Course |
-| 2026-09-25 | Deferred | [LIT-093](../../record/literature.d/LIT-093.md) | 1 | 0 | Notes on the Multiplicative Ergodic Theorem |
-| 2026-09-25 | Deferred | [LIT-094](../../record/literature.d/LIT-094.md) | 1 | 0 | Airbnb and its potential impact on the London housing market |
+| 2026-09-25 | Proposed | [LIT-079](../../record/literature.d/LIT-079.md) | 1 | 0 | Causal Claims in Economics |
 | 2026-09-25 | Deferred | [LIT-026](../../record/literature.d/LIT-026.md) | 0 | 0 | Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis |
 | 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |
 | 2026-09-25 | Deferred | [LIT-039](../../record/literature.d/LIT-039.md) | 0 | 0 | Rigorous renormalization group |

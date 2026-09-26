@@ -6,8 +6,8 @@
 
 **Superseded** — later work covers this better, and the note names it.
 
-0 of 94 LIT documents. Back to the [full index](../README.md).
+1 of 95 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [LIT-040](../../../record/literature.d/LIT-040.md) v2 | two-level type theory [descriptive title: nLab wiki entry "two-level type theory"] | nLab (2018), <https://ncatlab.org/nlab/show/two-level+type+theory>. Two-level type theory pairs a homotopy (univalent, fibrant) type theory with an outer level having UIP "exact equality" (the internalised metatheory). The nLab page is an accurate but thin gloss on two-level type theory. It says nothing about the result that makes 2LTT usable: basic 2LTT is **conservative over HoTT** (ACKS Prop. 2.18: an inner type provably inhabited in 2LTT is inhabited in HoTT), which answers much of the page's own "open question" about the principle of equivalence. It also omits that a fibrant-replacement type former would force UIP on the inner level (ACKS Thm 2.20). The paper it cites, ACKS arXiv:1705.03307, is the proper source: definitions via models, conservativity, the axiom menu (A1)–(A6)/(T1)–(T3), and internal Reedy-fibrant diagrams over inverse categories with a definition of univalent (∞,1)-category. | Superseded — by [LIT-095](../../../record/literature.d/LIT-095.md); read in full 2026-09-25 ([NOTE-047](../../../record/notes.d/NOTE-047.md)); superseded by Annenkov–Capriotti–Kraus–Sattler, "Two-Level Type Theory and Applications" (arXiv:1705.03307; MSCS 2023, DOI 10.1017/S0960129523000130), which the page itself cites and which covers everything the page says, with proofs and the conservativity theorem the page lacks. That paper is now filed as LIT-095, and this page is superseded by it. |
