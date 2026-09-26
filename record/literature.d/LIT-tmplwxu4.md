@@ -1,0 +1,54 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-26; not read in full
+title: 'The Role of the Information Bottleneck in Representation Learning'
+version: 1
+tags:
+- representation-learning
+- learning-theory
+- information-theory
+- anthology-candidate
+date: '2026-09-26'
+published: '2018-06-17'
+doi: '10.1109/ISIT.2018.8437679'
+first_author: 'Vera'
+keywords:
+- 'information bottleneck'
+- 'representation learning'
+- 'generalization gap'
+- 'cross-entropy loss'
+- 'dropout'
+implementations: []
+summary: >-
+  Vera et al. (2018), DOI-10.1109/ISIT.2018.8437679. The generalization gap of the cross-entropy loss for an encoder is bounded by a term in the information the representation keeps about the input, so minimizing empirical risk plus that bound is equivalent to the Information Bottleneck on the empirical distribution — offered as an explanation of why noise injection such as dropout helps.
+corrected_by:
+- LIT-tmpuyhxs
+---
+
+# LIT-tmplwxu4: The Role of the Information Bottleneck in Representation Learning
+
+Matías Vera, Pablo Piantanida, Leonardo Rey Vega (2018), *2018 IEEE International Symposium on Information Theory (ISIT), pp. 1580-1584* — DOI-10.1109/ISIT.2018.8437679
+
+## Key takeaways
+
+- The generalization gap of the cross-entropy loss for an encoder is bounded by a term in the information the representation keeps about the input, so minimizing empirical risk plus that bound is equivalent to the Information Bottleneck on the empirical distribution — offered as an explanation of why noise injection such as dropout helps.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+Encoders are trained to fit training data though the goal is to generalize, and noise injection at the representation level empirically improves generalization without a clear information-theoretic reason. The authors derive an upper bound on the generalization gap of the cross-entropy loss. Minimizing the empirical risk jointly with a multiple of that bound turns out to be equivalent to optimizing the Information Bottleneck objective with respect to the empirical data distribution. They specialize the result to dropout in deep networks to explain how it shrinks the generalization gap.
+
+## Standing in the record
+
+Filed on 2026-09-26 at the owner's request, from a list they grouped under the heading *Relating K-complexity to minimum sufficient statistics*. `Deferred` because nobody has read it closely here yet, not on merit.
+
+Tagged `anthology-candidate` ([ADR-005](../decisions.d/ADR-005.md)): the seed judged it chiefly about machine-learning practice. It is kept here by the owner's decision of 2026-09-26 that new work stays in nucleation until a transfer is judged appropriate ([ADR-010](../decisions.d/ADR-010.md)).
+
+**Priority for a deeper reading: medium — historically load-bearing as the claim later papers refute or refine, but paywalled; k11's critique plus the arXiv companion may cover most of what the anthology needs.**
+
+What a deeper reading should check:
+
+- It is the early formal claim that the IB term I(X;U) controls generalization — exactly the claim k11 (Sefidgaran, Zaidi, Krasnowski 2023, §1) criticizes: per k11, this bound holds only for finite input and latent alphabets and its |U|-dependent constant dominates in realistic setups, making it vacuous. A deeper reading should verify the bound's form and assumptions from the paper itself.
+- Check the dropout specialization: what exactly is shown about dropout versus asserted.
+- Decide whether to file arXiv:1802.05355 as the reachable text for this line of work, or as its own note.
+
+Access when seeded: Semantic Scholar API record (CorpusID 52014299; DOI; abstract; open-access status CLOSED); Crossref for venue/pages and conference start date 2018-06-17 (used as `published:`; the exact day of the paper's own first appearance is not given, Crossref's issued date is 2018-06). No open full text found: arXiv search of the three authors lists no paper with this title. Related but distinct: arXiv:1802.05355 "The Role of Information Complexity and Randomization in Representation Learning" (same authors, 2018-02-14, 35 pp., "submitted for publication") — its abstract describes the same programme at greater length and is likely the extended version, but I did not verify that and did not treat it as this paper's text. IEEE Xplore page returned nothing usable.

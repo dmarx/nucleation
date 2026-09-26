@@ -1,0 +1,50 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Gelfand–Naimark–Segal construction (Wikipedia)'
+version: 1
+tags:
+- mathematics
+- quantum-foundations
+date: '2026-09-26'
+published: '2026-03-15'
+url: 'https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction'
+first_author: 'Wikipedia contributors'
+keywords:
+- 'C*-algebra'
+- 'state'
+- '*-representation'
+- 'cyclic vector'
+- 'pure state'
+- 'Gelfand–Naimark theorem'
+implementations: []
+summary: >-
+  Wikipedia contributors (2026), <https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction>. Any state (positive normalized linear functional) on a C*-algebra determines, essentially uniquely, a Hilbert space and a cyclic *-representation in which that state becomes a vector expectation ρ(a)=⟨π(a)ξ,ξ⟩, and the representation is irreducible exactly when the state is pure.
+---
+
+# LIT-tmpnncvi: Gelfand–Naimark–Segal construction (Wikipedia)
+
+Wikipedia contributors (2026), *Wikipedia* — <https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction>
+
+## Key takeaways
+
+- Any state (positive normalized linear functional) on a C*-algebra determines, essentially uniquely, a Hilbert space and a cyclic *-representation in which that state becomes a vector expectation ρ(a)=⟨π(a)ξ,ξ⟩, and the representation is irreducible exactly when the state is pure.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The article presents the GNS construction, which turns a state on a C*-algebra into a cyclic *-representation of the algebra on a Hilbert space. The Hilbert space is built from the algebra itself using the semi-inner product ⟨a,b⟩=ρ(b*a), quotienting out the null vectors and completing; the algebra acts by left multiplication and the identity becomes the cyclic vector. The representation is unique up to unitary equivalence, underlies the Gelfand–Naimark theorem, and is irreducible if and only if the state is an extreme (pure) state. It is named for Gelfand and Naimark (1943) and Segal (1947).
+
+## Standing in the record
+
+Filed on 2026-09-26 at the owner's request, from a list they grouped under the heading *Riesz Representation Theorem*. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — conceptually suggestive for "a state determines a representation up to rotation", but the useful content is the commutative/kernel special case, which the skim already captures.**
+
+What a deeper reading should check:
+
+- It is literally "building a representation from a state", and the recipe is the same one kernel methods use: take a positive functional/kernel, form the Gram (semi-)inner product on formal combinations, quotient the null space, complete. The commutative special case, ρ = expectation under a data distribution on functions, gives L²(data) — the space where spectral-embedding and spectral-contrastive readings approximate eigenfunctions. The Moore–Aronszajn construction of an RKHS from a kernel is the same move.
+- For the Platonic representation hypothesis, which compares models by the kernels (similarity structure) their representations induce, GNS offers the precise statement of an intuition: given the "state" (the statistics of the world), the representation is determined up to unitary equivalence, i.e. up to a rotation — which is exactly the equivalence kernel-alignment metrics are invariant to. That is an analogy, not a result; a deeper reading should check whether any representation-learning paper actually uses GNS, rather than assume it.
+- The pure-state / irreducible correspondence (extreme points ↔ point masses in the commutative case) has no obvious representation-learning payoff and can be skipped.
+- Operator-algebra machinery (C*-algebras, involutions, non-commutativity) is heavier than the readings need; the commutative case is where any contribution lives.
+
+Access when seeded: Read the article's wikitext via en.wikipedia.org action=raw (16 KB); revision identified through the MediaWiki API as oldid 1343628657, timestamp 2026-03-15T13:10:18Z (latest when fetched 2026-09-26). The API also reported the article's first revision as 2003-08-16. Read in full.
