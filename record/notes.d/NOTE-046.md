@@ -33,6 +33,8 @@ summary: >-
   4–5).
 ---
 
+<!-- inactive-ok-file: LIT-064 — Superseded by ANTH-LIT-726, where this reading was carried; kept as the record of the first reading -->
+
 # NOTE-046: Chu & Raginsky, expected soft maxima of Gaussian processes
 
 ## Contribution
