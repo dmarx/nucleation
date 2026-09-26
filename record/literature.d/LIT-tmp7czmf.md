@@ -1,0 +1,69 @@
+---
+status: Active
+status_note: 'read in full 2026-09-26 (NOTE-tmpr1n7n); the source of the "something it is like" criterion of consciousness that the record''s AI-consciousness work (LIT-056) adopts as its target, and of the argument that no functional analysis can settle whether that criterion is met.'
+title: 'What Is It Like to Be a Bat?'
+version: 1
+tags:
+- consciousness
+- metaphysics
+- philosophy-of-science
+date: '2026-09-26'
+published: '1974-10-01'
+doi: '10.2307/2183914'
+first_author: 'Nagel'
+keywords:
+- 'subjective character of experience'
+- 'mind-body problem'
+- 'physicalism'
+- 'reduction'
+- 'point of view'
+- 'objective phenomenology'
+implementations: []
+summary: >-
+  Nagel (1974), [DOI-10.2307/2183914](https://doi.org/10.2307/2183914). An
+  organism has conscious states if and only if there is something it is like
+  to be that organism. That subjective character belongs to a type of point
+  of view, and it is left out by every functional, intentional or causal
+  analysis, since each is compatible with its absence. Reduction elsewhere
+  moves away from a point of view toward the objective; here that move leads
+  away from the thing being explained. So physicalism may be true, but we
+  have no conception of how it could be. Nagel proposes an "objective
+  phenomenology" that would describe experience to beings who cannot have it.
+---
+
+# LIT-tmp7czmf: What Is It Like to Be a Bat?
+
+Thomas Nagel (1974), *The Philosophical Review* 83(4), 435–450 — [DOI-10.2307/2183914](https://doi.org/10.2307/2183914)
+
+## Key takeaways
+
+- **The criterion.** An organism has conscious mental states if and only if
+  there is something it is like to be that organism. Nagel calls this the
+  subjective character of experience.
+- **What it rules out as an analysis.** Functional, intentional and causal-role
+  analyses of the mental are all logically compatible with the absence of
+  experience. None of them can be what experience consists in. Nagel denies
+  that these analyses *exhaust* experience, not that experience has causes,
+  effects or a functional description.
+- **Why reduction stalls here.** Elsewhere, reduction moves away from a
+  species-specific point of view toward a more objective description of the
+  same thing, as with lightning or sound. Experience has no appearance/reality
+  gap for that move to close. Moving away from the point of view moves away
+  from the phenomenon.
+- **The conclusion is about understanding, not falsity.** Physicalism is not
+  shown false. It is a hypothesis we cannot yet understand, as "matter is
+  energy" would have been for a pre-Socratic.
+- **The proposal.** Develop an "objective phenomenology". It would describe
+  the structural features of experience in terms usable by beings who cannot
+  have that experience.
+
+## Standing in the record
+
+Filed at the owner's request on 2026-09-26. It is here as the definitional
+root of the `consciousness` topic. `LIT-056` takes phenomenal consciousness,
+"something it is like", as its sole target. This paper defines that target
+and argues that the indicator method cannot settle whether it is met. Its
+footnote 2 leaves the door open: anything complex enough to behave like a
+person might have experiences. But that "cannot be discovered merely by
+analyzing the concept". [NOTE-tmpr1n7n](../notes.d/NOTE-tmpr1n7n.md) is the
+reading.
