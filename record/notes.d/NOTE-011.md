@@ -11,7 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (full text of arXiv:1508.06099v2 (10 May 2016), 48 PDF pp.,
-    extracted with PyMuPDF into raw4/1508.06099.txt (no pdftotext on this
+    extracted with PyMuPDF (no pdftotext on this
     host). Read line by line: §1 Introduction, §2.1–2.6, §3.1–3.7, §4.1–4.3
     (including the three CPTP theorems, the entropy inequalities,
     majorisation and smooth entropies), §5.1–5.4, §6.1–6.9, §7, and the

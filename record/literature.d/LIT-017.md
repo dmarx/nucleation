@@ -12,7 +12,7 @@ history:
   note: >-
     Read in full (full text of arXiv:2504.08144v1 (10 Apr 2025; still the
     only arXiv version when checked 2026-09-25), 150 PDF pp., extracted with
-    PyMuPDF into raw4/2504.08144.txt (no pdftotext on this host). Read end
+    PyMuPDF (no pdftotext on this host). Read end
     to end: §1 (Theorems 1–5), §2.1–2.7, §3.1–3.6 (proofs of Theorem
     1(i)/(ii), Lemmas 3.19, 3.23), §4.1–4.3 (Propositions 4.3, 4.13),
     §5.1–5.4 (Proposition 5.20, Theorem 5.24, both halves of the proof of

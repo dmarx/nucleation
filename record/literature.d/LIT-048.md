@@ -13,7 +13,7 @@ history:
     Read in full (full text of arXiv 1205.6339v3 (27 Jul 2012), 10 pp. Main
     text pp. 1–8, Fig. 1 on p. 7, acknowledgements, references [1]–[31] on
     pp. 8–10. Nothing skipped. PDF from arxiv.org/pdf/1205.6339, extracted
-    with PyMuPDF to raw4/1205.6339.txt (no pdftotext on this host). Fig. 1
+    with PyMuPDF (no pdftotext on this host). Fig. 1
     came through only as axis labels; I read its caption and the prose
     around it, not the plotted curves. I checked Eq. 25 at θ = 0.4 (0.0823
     nats, matching the caption) and the degrees-of-freedom count for the

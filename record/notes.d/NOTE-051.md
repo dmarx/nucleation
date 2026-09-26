@@ -14,7 +14,7 @@ history:
     (1.1–1.9), §2 (Theorem 2.1 and its proof), §3 (3.1–3.4: reduction,
     "white lie" proof, incidence lemma, rigorous proof), §4 (Lemma 4.1,
     heuristics, Lemmas 4.3–4.4, Remark 4.5, §4.4) and the references.
-    Extracted with PyMuPDF into raw4/2502.06137.txt; nothing was skipped. I
+    Extracted with PyMuPDF; nothing was skipped. I
     checked the exponent bookkeeping of the construction by hand (below). To
     answer the dossier's question about follow-ups, I read the arXiv
     abstracts (not the papers) of Cairo–Zhang arXiv:2512.08064 (8 Dec 2025)

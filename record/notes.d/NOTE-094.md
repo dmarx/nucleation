@@ -20,14 +20,11 @@ history:
     connection on 2026-09-26. The manuscript I read is the Word file headed
     "Please cite published version in Synthese". It was retrieved earlier
     the same day from the Wayback snapshot of PhilArchive SACWAS
-    (20240516052313) for the seed dossier, is cached at
-    scratchpad/rawP2/nahas.docx, and I copied it to rawA/nahas_am.docx. Its
+    (20240516052313) for the seed dossier, was cached then and I read that copy. Its
     core properties give Carl Sachs as last editor on 2023-04-13, after
     acceptance on 30 March 2023. I read §§1–5, all 26 footnotes (two are
-    affiliations) and the bibliography, extracted from the docx XML
-    (rawA/nahas_am.txt, rawA/nahas_fn.txt). I checked it against the version
-    of record's abstract, notes and dates on the Springer page
-    (rawA/nahas_art.txt). The VoR notes 1–24 match manuscript notes 3–26
+    affiliations) and the bibliography, extracted from the docx XML. I checked it against the version
+    of record's abstract, notes and dates on the Springer page. The VoR notes 1–24 match manuscript notes 3–26
     with small wording and citation fixes (e.g. "more radical statements",
     "Babcock & McShea, 2021", "Ellis (2014)"). The VoR body text, page
     numbers and final bibliography were not seen, so locations below are

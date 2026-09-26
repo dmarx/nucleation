@@ -12,7 +12,7 @@ history:
   note: >-
     Read in full (full text of the 43-page PDF
     (EEAS-3nd-ThreatReport-March-2025-05-Digital-HD.pdf, downloaded
-    2026-09-26 to raw4/c02.pdf, extracted with pypdf because pdftotext is
+    2026-09-26, extracted with pypdf because pdftotext is
     not installed). That covers the foreword (HR/VP Kallas), glossary,
     executive summary, disclaimer, introduction, ch. 1 on trends (with the
     Russia and China actor profiles), ch. 2 on the Exposure Matrix (Figs.

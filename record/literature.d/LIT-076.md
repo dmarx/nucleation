@@ -14,7 +14,7 @@ history:
     physics.chem-ph), 30 pp.: Introduction, REST theory (Eqs. 1–9),
     Materials, Methods (preparation, equilibration, input generation,
     running, analysis), Conclusion, Notes 1–10, Figs. 1–4 and the 60-item
-    bibliography (raw4/2505.01860.txt, extracted with PyMuPDF). v1 is the
+    bibliography (extracted with PyMuPDF). v1 is the
     only version. The figures came through only as labels, so I relied on
     captions and prose; the chapter's text states no numerical results for
     the worked example. I also spot-checked the accompanying repository

@@ -11,8 +11,7 @@ history:
   date: '2026-09-26'
   note: >-
     Read in full (full text of the open-access (CC BY 4.0) version of
-    record, from Europe PMC's JATS XML (PMC9162972, saved as
-    rawM/PMC9162972.xml, extracted to rawM/meincke.txt, about 13,000 words).
+    record, from Europe PMC's JATS XML (PMC9162972, extracted, about 13,000 words).
     I read all of it: the abstract, §1, §2, §3.1–3.2, §4.1–4.3 and §5, plus
     all 69 footnotes. I did not read the reference list entry by entry.
     There was no PDF, because Springer blocks automated fetches, and the XML

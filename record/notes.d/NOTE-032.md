@@ -11,8 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (full text of arXiv:2504.06209v1 (8 Apr 2025, the only
-    arXiv version; no journal-ref), 42 PDF pp. I extracted it with PyMuPDF
-    into raw4/c49c.txt, because this host has no pdftotext. I read every
+    arXiv version; no journal-ref), 42 PDF pp. I extracted it with PyMuPDF, because this host has no pdftotext. I read every
     page. Main text §I–VII is pp. 1–8, references [1]–[83] are pp. 8–10, and
     the Supplemental Material is pp. 11–42: App. A (information theory,
     Lemma 1), B (finite Markov chains, Lemmas 2–3, Cor. 1), C (hidden Markov

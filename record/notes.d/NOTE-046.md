@@ -14,7 +14,7 @@ history:
     17 pp.: abstract, §1–§1.2, §2 (Lemmas 1–2), §3 (Theorems 1–3, Remark 1),
     §4 (Theorems 4–6), §5 (Theorem 7, Remark 2), acknowledgments and
     references. Nothing skipped. PDF fetched from arxiv.org/pdf/2502.06709
-    and extracted with PyMuPDF to raw4/2502.06709.txt, because pdftotext is
+    and extracted with PyMuPDF, because pdftotext is
     not on this host. I checked the proofs of Theorems 1–3 and 5 line by
     line by hand, not by running code. I did not see the ALT 2026
     proceedings version.). Upgraded from `Skimmed` to `Read`: the claims

@@ -15,8 +15,7 @@ history:
     fns 2–8; §3 with fns 9–12; §4.1–4.2; §5.1–5.6 with fns 13–17; §6 with
     fns 18–20; §7.1–7.4; and the reference list. Source: the PDF the seed
     saved from the Wayback Machine (2026-03-21 capture of
-    philpapers.org/archive/GOLWDC-2.pdf), copied to
-    scratchpad/rawA/a13-preprint.pdf and extracted with pypdf because
+    philpapers.org/archive/GOLWDC-2.pdf), and extracted with pypdf because
     pdftotext is not installed. **The Inquiry version of record (doi
     10.1080/0020174X.2026.2727584) was not reached.** tandfonline.com
     returned a Cloudflare challenge page. philpapers.org and philarchive.org

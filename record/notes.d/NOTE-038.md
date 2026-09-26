@@ -13,8 +13,8 @@ history:
     Read in full (full text of the SEP entry "Structural Realism" as served
     on 2026-09-25 (page header "First published Wed Nov 14, 2007;
     substantive revision Thu May 18, 2023"; citation_author meta "Ladyman,
-    James"). I fetched the HTML into raw4/sep-structural-realism.html and
-    extracted the text to raw4/sep-structural-realism.txt, about 24k words
+    James"). I fetched the HTML and
+    extracted the text, about 24k words
     including the bibliography. I read the preamble and §§1–6 in full,
     including all seven numbered OSR theses in §4 and all seven numbered
     objections in §5. I read the bibliography as a list to check

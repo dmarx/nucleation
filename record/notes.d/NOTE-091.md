@@ -14,8 +14,8 @@ history:
     read in full: abstract; §1–6; Figs 1–2 captions; footnote 1;
     acknowledgements; the reference list. Source: the Springer PDF
     (link.springer.com/content/pdf/10.1007/s11229-018-1713-z.pdf), fetched
-    with a curl user agent into scratchpad/rawA/pernu.pdf and extracted with
-    PyMuPDF into rawA/pernu.txt. The figures are diagrams; I read them from
+    with a curl user agent and extracted with
+    PyMuPDF. The figures are diagrams; I read them from
     their captions and the §4–5 text, which describes them fully.). Upgraded
     from `Skimmed` to `Read`: the claims table, assumptions and results are
     new, and the skim is corrected where the full text disagreed.

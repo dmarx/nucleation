@@ -12,11 +12,10 @@ history:
   note: >-
     Read in full (full text, 8 PDF pp. (pp. 1–7 article incl. Conclusion and
     Discussion, 29 references, author contributions; p. 8 licence only).
-    Nothing skipped. PDF from nature.com (open access, CC BY 4.0) saved as
-    raw4/35.pdf; text extracted with PyMuPDF (pdftotext unavailable). The
+    Nothing skipped. PDF from nature.com (open access, CC BY 4.0); text extracted with PyMuPDF (pdftotext unavailable). The
     PDF extraction scrambles the equations, so every display and inline
     equation, Eqs. (1)–(43), was re-read from the LaTeX source in the
-    nature.com HTML (raw4/35.html). The algebra of Eqs. (7), (17)–(27) and
+    nature.com HTML. The algebra of Eqs. (7), (17)–(27) and
     (34)–(36), (43) was checked by hand; results of those checks are marked
     "(reader's check)".). Upgraded from `Skimmed` to `Read`: the claims
     table, assumptions and results are new, and the skim is corrected where

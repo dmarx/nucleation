@@ -11,8 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (Full text of arXiv 2503.11718v2 (30 May 2025, 19 pp.),
-    downloaded to raw4/2503.11718.pdf and extracted with PyMuPDF to
-    raw4/2503.11718.full.txt and .j.txt. I read everything: §§1–6 and the
+    downloaded and extracted with PyMuPDF. I read everything: §§1–6 and the
     supplementary Appendices A–E, which contain the definitions, the
     linear-SCM example, the invertibility assumption, all proofs, and the
     extended discussion with the toy and "agentic AI" examples. The

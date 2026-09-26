@@ -17,7 +17,7 @@ history:
     draft contents, Fisher's Enclosure A of 28 Nov 1930, and Hotelling's
     "Spaces of statistical parameters"), acknowledgements and the full
     reference list. Nothing skipped. PDF from arxiv.org/pdf/0804.2996,
-    extracted with PyMuPDF to raw4/0804.2996.txt. The reprint notes that it
+    extracted with PyMuPDF. The reprint notes that it
     "differs from the original in pagination and typographic detail", so
     section references below are safer than page numbers. I checked the
     Appendix 2 Lagrangian argument and the Hodges variances in Fig. 1 by

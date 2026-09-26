@@ -14,12 +14,10 @@ history:
     prepared January 2007 (this version, July 2024)"; arXiv stamp 11 Jul
     2024), 238 PDF pp. (xii + 224 numbered). I read every page: the preface
     with its 2024 note, contents, Chs 1–11 including all exercises, the
-    bibliography [1]–[13] and the index stub. Extraction was with PyMuPDF
-    (raw4/2007.01367.txt). Figures (simulation plots, block diagrams, root
+    bibliography [1]–[13] and the index stub. Extraction was with PyMuPDF. Figures (simulation plots, block diagrams, root
     loci, Nyquist plots) came through as labels only, so I read them from
     captions. As instructed, I did not produce theorem-level detail for
-    textbook material. I checked the worked examples numerically in
-    scratchpad/check_ctl.py: - the state-transition matrices of §3.4 and Ex.
+    textbook material. I checked the worked examples numerically with a short script: - the state-transition matrices of §3.4 and Ex.
     3.5.2; - the Lyapunov solution of Ex. 4.4.1; - the ε < 4/5 bound of
     §4.6; - Fact 3 of Ch. 7 at the three quoted gains; - the ARE solutions
     of Exs 10.5.1, 10.5.3, 10.5.4 and 10.5.5; - the Pendubot transfer

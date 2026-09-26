@@ -11,7 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (full text of arXiv:1302.0546v1 (3 Feb 2013), 26 PDF pp.,
-    extracted with PyMuPDF into raw4/1302.0546.txt (no pdftotext on this
+    extracted with PyMuPDF (no pdftotext on this
     host). Read line by line: the preamble; §107.1–107.8 in full, every
     Definition, Fact, Example and Open Problem; and the reference list (pp.
     22–26). Figure 107.1, the six two-disk configurations, came through only

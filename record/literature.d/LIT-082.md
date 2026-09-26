@@ -16,7 +16,7 @@ history:
     axis labels), Tables I–II, App. A (hard-sphere gas), App. B
     (random-matrix model), App. C (relative-entropy review, Props. 1–10),
     App. D (Proofs 1–12) and references [1]–[126]. Nothing skipped. PDF from
-    arxiv.org/pdf/2503.15612, extracted with PyMuPDF to raw4/2503.15612.txt.
+    arxiv.org/pdf/2503.15612, extracted with PyMuPDF.
     I checked Proofs 1, 2, 7, 10 and 11 line by line. I did not run the
     simulation code ([99], github.com/jcschindler01/kinetic). The arXiv
     abstract page shows v1 only with no journal reference, and a Crossref

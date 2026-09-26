@@ -12,8 +12,8 @@ history:
   note: >-
     Read in full (Full text of arXiv:1807.04799v3 (17 Apr 2019; dated 18 Apr
     2019), 5 pp.: all text, Figs. 1–4 captions and refs 1–34
-    (raw4/1807.04799.txt, extracted with PyMuPDF). From the arXiv source
-    tarball (raw4/c69src/) I also read the 2-page Supplementary Material in
+    (extracted with PyMuPDF). From the arXiv source
+    tarball I also read the 2-page Supplementary Material in
     full (Folzetal_SM.pdf: linear stability derivation Eqs. S1–S13, dynein
     variation Fig. S1, stochastic delay Fig. S2, lossy transport Eqs.
     S14–S15 and Fig. S3), and searched the LaTeX source for parameter

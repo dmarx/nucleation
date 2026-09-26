@@ -17,7 +17,7 @@ history:
     images. I checked every step of the SM derivation (S2, S3, S5, S6, S7)
     by hand. I also ran a numerical check on the Dirac comb: the exact
     spectrum through the per-mode impurity decomposition, for L = 40–320
-    (scratchpad g1_check.py). I read the full text of arXiv v1 (23 Oct 2025,
+    (a local check script). I read the full text of arXiv v1 (23 Oct 2025,
     "Unveiling the Dimensionality of Networks of Networks", 7 pp. including
     End Matter) and compared it with v2 section by section. I could not get
     the typeset PRE Letter (journals.aps.org returned 403). Crossref
@@ -25,7 +25,7 @@ history:
     online 2026-08-18. v2 was posted after that date under the published
     title, so it is presumably the accepted text, but I have not verified
     that it is identical. Extraction used PyMuPDF (no pdftotext on this
-    host); the PDFs are in raw4/2510.20520v1.pdf and v2.pdf.). Upgraded from
+    host).). Upgraded from
     `Skimmed` to `Read`: the claims table, assumptions and results are new,
     and the skim is corrected where the full text disagreed.
 date: '2026-09-25'

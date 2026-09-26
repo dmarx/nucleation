@@ -10,11 +10,10 @@ history:
 - version: 2
   date: '2026-09-25'
   note: >-
-    Read in full (The full text of ECF No. 38 (24 pp., filed 05/13/26;
-    raw4/72.pdf, extracted to raw4/72.txt), every page. I also read, in
+    Read in full (The full text of ECF No. 38 (24 pp., filed 05/13/26), every page. I also read, in
     full, the amended Memorandum and Order, ECF No. 44 (24 pp., dated May
     14, 2026), and diffed it line by line against ECF 38. Docket follow-up,
-    all from CourtListener RECAP (files in raw4/dk/): - D.R.I.: judgment ECF
+    all from CourtListener RECAP: - D.R.I.: judgment ECF
     39; RIH's emergency motion for clarification ECF 41; DOJ notices of
     appeal ECF 43 and 46. - N.D. Tex.: the May 12, May 15 and May 18 orders
     (ECF 17, 22, 26). - First Circuit: the order of May 19, 2026 denying an

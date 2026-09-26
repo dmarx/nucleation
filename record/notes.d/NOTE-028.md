@@ -11,7 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (full text of arXiv 2502.20997v1 (36 pp., downloaded
-    2026-09-26 to raw4/c01.pdf, extracted with pypdf because pdftotext is
+    2026-09-26, extracted with pypdf because pdftotext is
     not installed). That covers the abstract, §1 Introduction, §2 State of
     the Art, §3 Modeling (framework comparison, Table 1; DISARM selection;
     DISARM matrix with the URFH case, Table 2), §4 STIX2 codification

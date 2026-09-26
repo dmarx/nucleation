@@ -11,13 +11,13 @@ history:
   date: '2026-09-26'
   note: >-
     Read in full (full text of arXiv:2504.16225v3 (7 Jan 2026), downloaded
-    2026-09-26 to rawA/obs_v3.pdf. It is 50 pp. and is the Routledge chapter
+    2026-09-26. It is 50 pp. and is the Routledge chapter
     text: ch. 4 of *Quantum Gravity and Computation*, printed pp. 52–101,
     DOI 10.4324/9781003546139-6 on p. 52. That covers §§4.1–4.11, two
     endnotes (p. 97) and 70 references (pp. 97–101). pdftotext is not
     installed, so the text was extracted with PyMuPDF. Figures 4.1–4.11 were
     read from their captions and diagram labels only; the images were not
-    viewed. v1 (22 Apr 2025, 47 pp.) was also downloaded (rawA/obs_v1.pdf),
+    viewed. v1 (22 Apr 2025, 47 pp.) was also downloaded,
     for its front matter, author list and theorem numbering only. Its body
     was not compared line by line with v3. Locations below are the chapter's
     printed page numbers.). Upgraded from `Skimmed` to `Read`: the claims
