@@ -1,6 +1,9 @@
 ---
+number: 194
 status: Read
-paper: LIT-tmpn6gy9
+formerly:
+- NOTE-tmpmypjy
+paper: LIT-222
 title: 'No categorial support for radical ontic structural realism'
 version: 1
 history:
@@ -33,7 +36,7 @@ summary: >-
   is not named, although §§4–5 state two of its consequences.
 ---
 
-# NOTE-tmpmypjy: No categorial support for radical ontic structural realism
+# NOTE-194: No categorial support for radical ontic structural realism
 
 ## Contribution
 

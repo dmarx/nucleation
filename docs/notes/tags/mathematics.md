@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-27 of 192 NOTE documents. Back to the [full index](../README.md).
+28 of 195 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -35,3 +35,4 @@
 | [NOTE-163](../../../record/notes.d/NOTE-163.md) v2 | SEP — Mereology | The entry argues that no mereological principle, not even the partial-order core M (Reflexivity, Transitivity, Antisymmetry), is merely a fixing of the meaning of "part". It lays out the ladder M ⊂ MM (+Supplementation) ⊂ EM (+Strong Supplementation) ⊂ GEM (+Unrestricted Sum). GEM is "virtually" a complete Boolean algebra with zero removed, and it is reached from M by exactly three adequate pairings: Supplementation + Unrestricted Sum2, Strong Supplementation + Unrestricted Sum3, and Complementation + Unrestricted Sum1. The influential Simons (1987) pairing, Supplementation + Unrestricted Sum3, which the entry's own 2003 edition also used, does not yield GEM. | Read |
 | [NOTE-177](../../../record/notes.d/NOTE-177.md) | Turner — Ultrafilters as Propositional Theories | Filters and ultrafilters, and with them Łoś's theorem and compactness, become accessible to philosophers once read as propositional theories: sets of possible-worlds propositions that are consistent and closed under conjunction and implication, and, for an ultrafilter, negation-complete. | Skimmed |
 | [NOTE-182](../../../record/notes.d/NOTE-182.md) v2 | Arsiwalla et al. — Pregeometry and formal language | A programmatic essay with no construction, theorem or model of its own. It argues that inferential justification in a materialist ontology regresses without end (§3), that a "coherentist" constructivism escapes the regress, and that Wheeler's pregeometry is therefore best read as "structureless structure": the types and compositional rules of a computational language such as homotopy type theory (§§4, 6). Every construction of space from such rules that it points to is in the authors' own earlier papers ([13, 17, 18]) or is promised as "a forthcoming publication" (fn. 1, p. 3). | Read |
+| [NOTE-195](../../../record/notes.d/NOTE-195.md) | Yoneda lemma | The page states that for a locally small category C, every presheaf X and every object c, there is a canonical bijection Hom_{[C^op,Set]}(y(c), X) ≅ X(c), given by η ↦ η_c(id_c). It proves the bijection by chasing id_c around a naturality square. From it the page derives that the Yoneda embedding y: c ↦ Hom_C(−,c) is fully faithful and that y(c) ≅ y(d) ⇔ c ≅ d. It also shows by counterexample that the hypothesis doing the work is naturality: objects whose hom-sets are pointwise in bijection need not be isomorphic. | Read |

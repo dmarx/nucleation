@@ -1,6 +1,9 @@
 ---
+number: 193
 status: Read
-paper: LIT-tmptrcx3
+formerly:
+- NOTE-tmp85p2p
+paper: LIT-223
 title: 'Category-theoretic structure and radical ontic structural realism'
 version: 1
 history:
@@ -34,7 +37,7 @@ summary: >-
   representable functors or universal properties by name.
 ---
 
-# NOTE-tmp85p2p: Category-theoretic structure and radical ontic structural realism
+# NOTE-193: Category-theoretic structure and radical ontic structural realism
 
 ## Contribution
 

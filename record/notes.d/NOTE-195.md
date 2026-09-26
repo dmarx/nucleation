@@ -1,6 +1,9 @@
 ---
+number: 195
 status: Read
-paper: LIT-tmpkwo0i
+formerly:
+- NOTE-tmpsyjjc
+paper: LIT-221
 title: 'Yoneda lemma'
 version: 1
 history:
@@ -32,7 +35,7 @@ summary: >-
   pointwise in bijection need not be isomorphic.
 ---
 
-# NOTE-tmpsyjjc: Yoneda lemma
+# NOTE-195: Yoneda lemma
 
 ## Contribution
 
