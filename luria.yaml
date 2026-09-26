@@ -90,6 +90,9 @@ vocabularies:
       philosophy-of-science:
         label: Philosophy of science
         blurb: 'what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy)'
+      anthology-candidate:
+        label: Anthology candidate
+        blurb: 'a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags)'
   lit-statuses:
     label: Paper statuses
     blurb: 'A work''s standing in this record: whether it is worth reading. Not whether its findings are
@@ -274,6 +277,11 @@ schemes:
             blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition and philosophy of science. A label over the words, not a rule about how they combine (ADR-003).
             require: any
             tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy-of-science]
+          flags:
+            label: Curation flags
+            blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).
+            require: any
+            tags: [anthology-candidate]
     axis: tags
   NOTE:
     dir: record/notes.d
