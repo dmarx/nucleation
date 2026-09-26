@@ -1,0 +1,66 @@
+---
+status: Active
+status_note: 'read in full 2026-09-26 ([NOTE-tmpw4jr1](../notes.d/NOTE-tmpw4jr1.md)); Worth reading as the earliest freely available statement of ontic structural realism by its originator. It argues the Humean-supervenience and quantum-individuality points more fully than the SEP survey ([LIT-045](LIT-045.md)). It also shows that the 2001 view was a modest one, realism about modal structure with no eliminativism, before *Every Thing Must Go*. Its positive proposal takes two paragraphs (pp. 73–74) and is programmatic.'
+title: 'Science, Metaphysics and Structural Realism'
+version: 3
+history:
+- version: 2
+  date: '2026-09-26'
+  note: >-
+    Read in full (Full text of the published article, Philosophica 67(1)
+    (2001), pp. 57–76, from the publisher's scanned PDF (20 pp.). Read all
+    of it: §1 Introduction (pp. 57–61), §2 "Identity and Individuality in
+    Modern Physics" (pp. 61–69), §3 "Realism about Structure" (pp. 69–74),
+    footnotes 1–10 and the references (pp. 74–76). Nothing was skipped. The
+    scan's OCR has errors ("physicalisln", "PH" for PII). Quotations below
+    are corrected against the sense.); the first NOTE on it, since it was
+    seeded from the abstract alone. Status set from the reading: Active.
+- version: 3
+  date: '2026-09-26'
+  note: >-
+    `published:` is the year only (2001-01-01). The publisher and Crossref give 2001-01-02,
+    also as the acceptance date, almost certainly a placeholder from the journal's platform migration;
+    the printed issue gives only 2001.
+tags:
+- philosophy-of-science
+- metaphysics
+- quantum-foundations
+- identity
+date: '2026-09-26'
+published: '2001-01-01'
+doi: '10.21825/philosophica.82261'
+url: 'https://www.philosophica.ugent.be/article/id/82261/'
+first_author: 'Ladyman'
+keywords:
+- 'structural realism'
+- 'ontic structural realism'
+- 'quantum individuality'
+- 'identity of indiscernibles'
+- 'Humean supervenience'
+- 'modal structure'
+implementations: []
+summary: >-
+  Ladyman (2001), DOI-10.21825/philosophica.82261. Ladyman argues that
+  structural realism should be metaphysically, not epistemically,
+  revisionary. He gives three grounds. Quantum statistics leaves the
+  individuality of particles underdetermined: permutation invariance gives
+  3 two-particle states, not 4, so probabilities are 1/3 rather than 1/4
+  (p. 62). Entangled states give non-supervenient relations that refute
+  Humean supervenience (pp. 71–73). The hole argument blocks point-based
+  substantivalism (pp. 68–69). He proposes that science describes "the
+  modal structure of the phenomena" (p. 73), with modal realism supplying
+  the no-miracles intuition. The paper ends non-eliminatively: "the
+  phenomena have structure but they are not structure" (p. 74).
+---
+
+# LIT-tmp32dfc: Science, Metaphysics and Structural Realism
+
+James Ladyman (2001), *Philosophica 67(1), 57–76 (2001), a theme issue "The metaphysics of science"* — DOI-10.21825/philosophica.82261
+
+## Key takeaways
+
+- Ladyman argues that structural realism should be metaphysically, not epistemically, revisionary. He gives three grounds. Quantum statistics leaves the individuality of particles underdetermined: permutation invariance gives 3 two-particle states, not 4, so probabilities are 1/3 rather than 1/4 (p. 62). Entangled states give non-supervenient relations that refute Humean supervenience (pp. 71–73). The hole argument blocks point-based substantivalism (pp. 68–69). He proposes that science describes "the modal structure of the phenomena" (p. 73), with modal realism supplying the no-miracles intuition. The paper ends non-eliminatively: "the phenomena have structure but they are not structure" (p. 74).
+
+## Standing in the record
+
+Filed at the owner's request on 2026-09-26, to put Ladyman and Ross's ontic structural realism and rainforest realism on the record. Their book *Every Thing Must Go* (OUP 2007) could not be obtained from a legitimate source, nor could the two founding papers (Ladyman 1998, Ross 2000); this work is one of four freely available statements from which the views are pieced together. It was filed `Deferred`, unread. [NOTE-tmpw4jr1](../notes.d/NOTE-tmpw4jr1.md) is the close reading of 2026-09-26, and it placed the work: **Active** — Worth reading as the earliest freely available statement of ontic structural realism by its originator. It argues the Humean-supervenience and quantum-individuality points more fully than the SEP survey ([LIT-045](LIT-045.md)). It also shows that the 2001 view was a modest one, realism about modal structure with no eliminativism, before *Every Thing Must Go*. Its positive proposal takes two paragraphs (pp. 73–74) and is programmatic.
