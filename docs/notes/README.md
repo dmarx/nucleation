@@ -14,8 +14,8 @@ this directory, then run `luria index`.
 **[complex-systems](tags/complex-systems.md)** (13):
 [007](../../record/notes.d/NOTE-007.md) · [010](../../record/notes.d/NOTE-010.md) · [020](../../record/notes.d/NOTE-020.md) · [027](../../record/notes.d/NOTE-027.md) · [040](../../record/notes.d/NOTE-040.md) · [045](../../record/notes.d/NOTE-045.md) · [054](../../record/notes.d/NOTE-054.md) · [055](../../record/notes.d/NOTE-055.md) · [057](../../record/notes.d/NOTE-057.md) · [059](../../record/notes.d/NOTE-059.md) · [061](../../record/notes.d/NOTE-061.md) · [064](../../record/notes.d/NOTE-064.md) · [079](../../record/notes.d/NOTE-079.md)
 
-**[consciousness](tags/consciousness.md)** (2):
-[036](../../record/notes.d/NOTE-036.md) · [052](../../record/notes.d/NOTE-052.md)
+**[consciousness](tags/consciousness.md)** (3):
+[036](../../record/notes.d/NOTE-036.md) · [052](../../record/notes.d/NOTE-052.md) · [089](../../record/notes.d/NOTE-089.md)
 
 **[ethics](tags/ethics.md)** (2):
 [019](../../record/notes.d/NOTE-019.md) · [034](../../record/notes.d/NOTE-034.md)
@@ -35,8 +35,8 @@ this directory, then run `luria index`.
 **[mereology](tags/mereology.md)** (2):
 [027](../../record/notes.d/NOTE-027.md) · [064](../../record/notes.d/NOTE-064.md)
 
-**[metaphysics](tags/metaphysics.md)** (7):
-[007](../../record/notes.d/NOTE-007.md) · [010](../../record/notes.d/NOTE-010.md) · [020](../../record/notes.d/NOTE-020.md) · [030](../../record/notes.d/NOTE-030.md) · [038](../../record/notes.d/NOTE-038.md) · [072](../../record/notes.d/NOTE-072.md) · [077](../../record/notes.d/NOTE-077.md)
+**[metaphysics](tags/metaphysics.md)** (8):
+[007](../../record/notes.d/NOTE-007.md) · [010](../../record/notes.d/NOTE-010.md) · [020](../../record/notes.d/NOTE-020.md) · [030](../../record/notes.d/NOTE-030.md) · [038](../../record/notes.d/NOTE-038.md) · [072](../../record/notes.d/NOTE-072.md) · [077](../../record/notes.d/NOTE-077.md) · [089](../../record/notes.d/NOTE-089.md)
 
 **[natural-sciences](tags/natural-sciences.md)** (11):
 [002](../../record/notes.d/NOTE-002.md) · [011](../../record/notes.d/NOTE-011.md) · [031](../../record/notes.d/NOTE-031.md) · [032](../../record/notes.d/NOTE-032.md) · [043](../../record/notes.d/NOTE-043.md) · [044](../../record/notes.d/NOTE-044.md) · [061](../../record/notes.d/NOTE-061.md) · [067](../../record/notes.d/NOTE-067.md) · [075](../../record/notes.d/NOTE-075.md) · [076](../../record/notes.d/NOTE-076.md) · [079](../../record/notes.d/NOTE-079.md)
@@ -50,8 +50,8 @@ this directory, then run `luria index`.
 **[operations-research](tags/operations-research.md)** (3):
 [015](../../record/notes.d/NOTE-015.md) · [062](../../record/notes.d/NOTE-062.md) · [068](../../record/notes.d/NOTE-068.md)
 
-**[philosophy-of-science](tags/philosophy-of-science.md)** (4):
-[030](../../record/notes.d/NOTE-030.md) · [038](../../record/notes.d/NOTE-038.md) · [072](../../record/notes.d/NOTE-072.md) · [077](../../record/notes.d/NOTE-077.md)
+**[philosophy-of-science](tags/philosophy-of-science.md)** (5):
+[030](../../record/notes.d/NOTE-030.md) · [038](../../record/notes.d/NOTE-038.md) · [072](../../record/notes.d/NOTE-072.md) · [077](../../record/notes.d/NOTE-077.md) · [089](../../record/notes.d/NOTE-089.md)
 
 **[probabilistic-modeling](tags/probabilistic-modeling.md)** (13):
 [008](../../record/notes.d/NOTE-008.md) · [023](../../record/notes.d/NOTE-023.md) · [044](../../record/notes.d/NOTE-044.md) · [046](../../record/notes.d/NOTE-046.md) · [050](../../record/notes.d/NOTE-050.md) · [053](../../record/notes.d/NOTE-053.md) · [059](../../record/notes.d/NOTE-059.md) · [068](../../record/notes.d/NOTE-068.md) · [074](../../record/notes.d/NOTE-074.md) · [076](../../record/notes.d/NOTE-076.md) · [080](../../record/notes.d/NOTE-080.md) · [081](../../record/notes.d/NOTE-081.md) · [086](../../record/notes.d/NOTE-086.md)
@@ -65,7 +65,7 @@ this directory, then run `luria index`.
 **[society-and-governance](tags/society-and-governance.md)** (21):
 [001](../../record/notes.d/NOTE-001.md) · [004](../../record/notes.d/NOTE-004.md) · [012](../../record/notes.d/NOTE-012.md) · [014](../../record/notes.d/NOTE-014.md) · [019](../../record/notes.d/NOTE-019.md) · [024](../../record/notes.d/NOTE-024.md) · [025](../../record/notes.d/NOTE-025.md) · [028](../../record/notes.d/NOTE-028.md) · [033](../../record/notes.d/NOTE-033.md) · [041](../../record/notes.d/NOTE-041.md) · [042](../../record/notes.d/NOTE-042.md) · [048](../../record/notes.d/NOTE-048.md) · [049](../../record/notes.d/NOTE-049.md) · [056](../../record/notes.d/NOTE-056.md) · [058](../../record/notes.d/NOTE-058.md) · [060](../../record/notes.d/NOTE-060.md) · [063](../../record/notes.d/NOTE-063.md) · [070](../../record/notes.d/NOTE-070.md) · [071](../../record/notes.d/NOTE-071.md) · [084](../../record/notes.d/NOTE-084.md) · [087](../../record/notes.d/NOTE-087.md)
 
-**By status:** [Read](status/Read.md) (88) · [Skimmed](status/Skimmed.md) (0) · [Unread](status/Unread.md) (0) · [Re-read](status/Superseded.md) (0)
+**By status:** [Read](status/Read.md) (89) · [Skimmed](status/Skimmed.md) (0) · [Unread](status/Unread.md) (0) · [Re-read](status/Superseded.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -166,4 +166,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [NOTE-086](../../record/notes.d/NOTE-086.md) v2 | I-MMSE: mutual information and MMSE in Gaussian channels | Let Y = √snr·X + N with N ~ N(0,1) independent of X, and let X have any distribution with E X² < ∞. Then d/dsnr I(X; √snr X + N) = ½·mmse(X \| √snr X + N) in nats, equivalently I(snr) = ½∫₀^snr mmse(γ) dγ (Thm 1, Eq. 47). The vector form is d/dsnr I(X; √snr HX + N) = ½·E‖HX − H·E[X\|Y]‖² (Thm 2). In continuous time, the same identity combined with Duncan's I = (snr/2)·cmmse gives cmmse(snr) = (1/snr)∫₀^snr mmse(γ) dγ (Thm 8). | Read |
 | [NOTE-087](../../record/notes.d/NOTE-087.md) v2 | Kerr County Commissioners' Court transcript, 27 June 2016 | This is a routine regular session of the Kerr County Commissioners' Court, all motions 4–0. In the reports item (tr. 95–98), Commissioner Moser announced a steering-committee meeting "this Thursday" on a Kerr County flood warning system. He said: - an engineering analysis of the entire system would cost roughly $50,000, possibly split among the County, UGRA and the City; - the county's own spend next budget year might be about $20,000; - Comal County spent about $320,000 on 8 sensor locations plus central command and control; - a countywide system might be "a million dollar thing". Commissioner Baldwin said the old phone chain "still works" and objected to "these damn sirens going off in the middle of night". | Read |
 | [NOTE-088](../../record/notes.d/NOTE-088.md) | The Homological Nature of Entropy | On a finite probability space, take an information structure S (a set of partitions closed under joins that have a common refinement in S and containing the trivial partition) and a probability family Q complete for it. The information cohomology H*(S;Q) is computed by a Hochschild-type bar complex whose action is Shannon's averaged conditioning. If S is connected and "sufficiently rich" and cochains are measurable, then H¹ is one-dimensional and spanned by Shannon entropy (Thm 1). This makes entropy the unique measurable 1-cocycle, up to one multiplicative constant per connected component. In the unitary-invariant quantum case H¹_U = 0: Shannon entropy is the coboundary of minus the von Neumann entropy, which is the unique invariant 0-cochain with that property up to an additive constant (Thm 3). The tree ("arborescent") version again gives H¹ spanned by entropy (Thm 4). | Read |
+| [NOTE-089](../../record/notes.d/NOTE-089.md) | Nagel: what is it like to be a bat | An organism is conscious if and only if there is something it is like to be it. That subjective character is tied to a type of point of view. Every functional, intentional or causal-role analysis leaves it out, since each is compatible with its absence. Psychophysical reduction therefore cannot follow the usual pattern of dropping a point of view in favour of a more objective description of the same thing: for experience, that leads away from the phenomenon. Physicalism is left not refuted but not yet understandable. The closing proposal is an "objective phenomenology" of the structure of experience. | Read |
 

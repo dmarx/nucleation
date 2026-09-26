@@ -1,6 +1,9 @@
 ---
+number: 89
 status: Read
-paper: LIT-tmp7czmf
+formerly:
+- NOTE-tmpr1n7n
+paper: LIT-096
 title: 'Nagel: what is it like to be a bat'
 version: 1
 date: '2026-09-26'
@@ -16,7 +19,7 @@ summary: >-
   experience.
 ---
 
-# NOTE-tmpr1n7n: Nagel: what is it like to be a bat
+# NOTE-089: Nagel: what is it like to be a bat
 
 ## Contribution
 
