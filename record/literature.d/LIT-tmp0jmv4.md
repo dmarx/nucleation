@@ -1,0 +1,53 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'On Variational Bounds of Mutual Information'
+version: 1
+tags:
+- information-theory
+- representation-learning
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-09-26'
+published: '2019-05-16'
+arxiv: '1905.06922'
+first_author: 'Poole'
+keywords:
+- 'mutual information'
+- 'variational bounds'
+- 'InfoNCE'
+- 'critic'
+- 'density ratio'
+- 'bias-variance'
+implementations: []
+summary: >-
+  Poole et al. (2019), [ARXIV-1905.06922](https://arxiv.org/abs/1905.06922). Every variational lower bound on mutual information in use — Barber–Agakov, Donsker–Varadhan/MINE, NWJ/f-GAN-KL, InfoNCE — is one family, tight at a critic that is a function of the log density ratio log p(y|x)/p(y), and InfoNCE is the multi-sample member that trades variance for a hard ceiling of log K.
+---
+
+# LIT-tmp0jmv4: On Variational Bounds of Mutual Information
+
+Ben Poole, Sherjil Ozair, Aäron van den Oord, Alexander A. Alemi, George Tucker (2019), *Proceedings of the 36th International Conference on Machine Learning (ICML 2019), PMLR 97:5171-5180* — [ARXIV-1905.06922](https://arxiv.org/abs/1905.06922)
+
+## Key takeaways
+
+- Every variational lower bound on mutual information in use — Barber–Agakov, Donsker–Varadhan/MINE, NWJ/f-GAN-KL, InfoNCE — is one family, tight at a critic that is a function of the log density ratio log p(y|x)/p(y), and InfoNCE is the multi-sample member that trades variance for a hard ceiling of log K.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The paper puts the neural-network-parameterized lower (and some upper) bounds on mutual information into a single framework. It finds that existing lower bounds degrade when the true MI is large, with either high bias (InfoNCE) or high variance (NWJ, MINE-style). It proposes a continuum of interpolated bounds that trade bias against variance, and characterizes bounds and gradients empirically on controlled high-dimensional problems, including decoder-free representation learning.
+
+## Standing in the record
+
+Filed on 2026-09-26 while pursuing, at the owner's request, the connection *Radon–Nikodym, density ratios and contrastive objectives* (see the curation entry of that date). `Deferred` because nobody has read it closely here yet, not on merit.
+
+Tagged `anthology-candidate` ([ADR-005](../decisions.d/ADR-005.md)): the seed judged it chiefly about machine-learning practice. It is kept here by the owner's decision of 2026-09-26 that new work stays in nucleation until a transfer is judged appropriate ([ADR-010](../decisions.d/ADR-010.md)).
+
+**Priority for a deeper reading: high — load-bearing for every InfoNCE/MI claim in the strand; the skim captures the main statements and the I_NCE proof, not the interpolated bounds or experiments.**
+
+What a deeper reading should check:
+
+- This is the cleanest place where "the optimal contrastive critic is the density ratio" and "InfoNCE ≤ log K" are stated as properties of a bound, rather than CPC's approximate derivation ([ANTH-LIT-589](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-589.md), appendix A.1, which uses an ≈ step).
+- Check the index convention: Eq. 10 normalizes over y_j for fixed x_i, under which the free term of an optimal critic should be a function of x_i; the text writes c(y). Whether this is a notational swap in the paper or my misreading is unverified.
+- §2.5 (structured bounds with tractable encoders) is the bound [LIT-226](LIT-226.md) (CEB) cites in its footnote 7; worth reading in full for that link.
+
+Access when seeded: arXiv abs page (v1 Thu 16 May 2019, only version) and the arXiv PDF, text extracted and read for the abstract, §1, §2.1–2.3 and §2.6 in full, §2.5 opening, figure 2 caption, appendix A table and appendix D opening. PMLR landing page (v97/poole19a) confirmed title and pages 5171–5180. Appendices B–E beyond their headings not read.

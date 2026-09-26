@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Spectral Inference Networks: Unifying Deep and Spectral Learning'
+version: 1
+tags:
+- representation-learning
+- mathematics
+- anthology-candidate
+date: '2026-09-26'
+published: '2018-06-06'
+arxiv: '1806.02215'
+first_author: 'Pfau'
+keywords:
+- 'eigenfunctions'
+- 'spectral learning'
+- 'slow feature analysis'
+- 'bilevel optimization'
+- 'variational Monte Carlo'
+implementations: []
+summary: >-
+  Pfau et al. (2018), ARXIV-1806.02215. The top-N eigenfunctions of a symmetric kernel operator K[f](x) = E_{x′}[k(x,x′)f(x′)] on L²(p) can be learned by a neural network that maximizes the generalized Rayleigh quotient Tr(Σ⁻¹Π), with Σ = E[u uᵀ] and Π = E[k(x,x′)u(x)u(x′)ᵀ]. Slow Feature Analysis is the special case where k is the graph Laplacian of adjacent video frames.
+---
+
+# LIT-tmpia37r: Spectral Inference Networks: Unifying Deep and Spectral Learning
+
+David Pfau, Stig Petersen, Ashish Agarwal, David G. T. Barrett, Kimberly L. Stachenfeld (2018), *International Conference on Learning Representations (ICLR 2019); first appeared as arXiv preprint* — [ARXIV-1806.02215](https://arxiv.org/abs/1806.02215)
+
+## Key takeaways
+
+- The top-N eigenfunctions of a symmetric kernel operator K[f](x) = E_{x′}[k(x,x′)f(x′)] on L²(p) can be learned by a neural network that maximizes the generalized Rayleigh quotient Tr(Σ⁻¹Π), with Σ = E[u uᵀ] and Π = E[k(x,x′)u(x)u(x′)ᵀ]. Slow Feature Analysis is the special case where k is the graph Laplacian of adjacent video frames.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The paper introduces Spectral Inference Networks, which learn eigenfunctions of linear operators by stochastic optimization. They generalize Slow Feature Analysis to arbitrary symmetric operators and are closely related to variational Monte Carlo in computational physics. Training is cast as a bilevel optimization problem so that several eigenfunctions can be learned online. Experiments on a quantum-mechanics problem and on synthetic video show that the networks recover the true eigenfunctions and find interpretable representations without supervision.
+
+## Standing in the record
+
+Filed on 2026-09-26 while pursuing, at the owner's request, the connection *Riesz, reproducing kernels and spectral representation learning* (see the curation entry of that date). `Deferred` because nobody has read it closely here yet, not on merit.
+
+Tagged `anthology-candidate` ([ADR-005](../decisions.d/ADR-005.md)): the seed judged it chiefly about machine-learning practice. It is kept here by the owner's decision of 2026-09-26 that new work stays in nucleation until a transfer is judged appropriate ([ADR-010](../decisions.d/ADR-010.md)).
+
+**Priority for a deeper reading: medium — the objective and its preconditions are captured by the skim; a deeper read matters only for the bilevel-optimization details or for applying it as a method.**
+
+What a deeper reading should check:
+
+- It is the generic neural eigenfunction solver behind the SSL spectral reading. Johnson et al. (ra2, App. E.2) show that applying it to the positive-pair kernel recovers the same eigenfunctions contrastive learning targets.
+- Symmetry of k is a stated precondition, both for the Rayleigh-quotient characterization and in the video experiment. A deeper read should check what fails for non-reversible dynamics (the paper's own RL comparison, App. C.3, uses successor features).
+- NeuralEF (Deng, Shi & Zhu 2022, arXiv 2205.00165) later replaced the Cholesky/Jacobian machinery with an EigenGame-style objective. It is not dossiered here.
+
+Access when seeded: arXiv abs page (v1 submitted 2018-06-06, v3 2020-01-16; comment "Fixed typo in math in section 4") and the full v3 PDF (headed "Published as a conference paper at ICLR 2019"), 26 pp., read via pymupdf text extraction: §1–4.2, §5 opening, §5.1–5.2 openings, §6. No DOI found.
