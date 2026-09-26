@@ -5,7 +5,7 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**46 document(s) awaiting a decision.**
+**45 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -50,7 +50,6 @@
 | 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 2 | 2 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 2 | 1 | Conspiracy theorists are not the problem; Conspiracy liars are |
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
-| 2026-09-26 | Deferred | [LIT-145](../../record/literature.d/LIT-145.md) | 1 | 0 | Ultrafilters as Propositional Theories |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |

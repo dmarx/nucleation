@@ -6,10 +6,9 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-3 of 197 NOTE documents. Back to the [full index](../README.md).
+2 of 197 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-147](../../../record/notes.d/NOTE-147.md) | Wigner — Symmetry and conservation laws | Wigner argues that invariance principles stand to the laws of nature as laws stand to events — they give structure to the laws — and distinguishes geometrical invariances (formulated on events; yielding energy/momentum/angular-momentum conservation, most directly in quantum kinematics) from dynamical ones such as gauge invariance and, he holds, general covariance, which are tied to specific interactions. | Skimmed |
-| [NOTE-177](../../../record/notes.d/NOTE-177.md) | Turner — Ultrafilters as Propositional Theories | Filters and ultrafilters, and with them Łoś's theorem and compactness, become accessible to philosophers once read as propositional theories: sets of possible-worlds propositions that are consistent and closed under conjunction and implication, and, for an ultrafilter, negation-complete. | Skimmed |
 | [NOTE-179](../../../record/notes.d/NOTE-179.md) | Brandom, inferentialism and meaning entitlement | Boghossian's objection to substantive, entitlement-based theories of meaning (drawn from pejoratives like "Boche") works against Dummett but not against Brandom. Brandom's material inferences are non-monotonic and ceteris paribus, so one can grasp a concept while refusing to endorse the inferences it licenses. | Skimmed |

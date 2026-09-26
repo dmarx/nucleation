@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 22:47 — The last three philosophy tags, and what the philosophy passes could not reach](2026-09.md#the-last-three-philosophy-tags-and-what-the-philosophy-passes-could-not-reach)
 - [26 Sep 22:33 — The philosophy-of-science tag, read through](2026-09.md#the-philosophy-of-science-tag-read-through)
 - [26 Sep 22:13 — The cognition tag, read through](2026-09.md#the-cognition-tag-read-through)
 - [26 Sep 21:59 — The ethics tag, read through](2026-09.md#the-ethics-tag-read-through)
@@ -29,8 +30,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-20 entries across 1 book, newest first.
+21 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 20 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 21 | 2026-09-25 | 2026-09-26 |
