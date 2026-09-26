@@ -1,5 +1,8 @@
 ---
+number: 197
 status: Read
+formerly:
+- NOTE-tmpszjzh
 paper: LIT-118
 title: 'A Pragmatist Theory of Evidence'
 version: 1
@@ -33,7 +36,7 @@ summary: >-
   smoking–lung cancer case illustrates the theory; it does not test it.
 ---
 
-# NOTE-tmpszjzh: A Pragmatist Theory of Evidence
+# NOTE-197: A Pragmatist Theory of Evidence
 
 ## Contribution
 

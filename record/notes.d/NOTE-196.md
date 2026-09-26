@@ -1,5 +1,8 @@
 ---
+number: 196
 status: Read
+formerly:
+- NOTE-tmp99s7e
 paper: LIT-161
 title: 'Why Replication Is Overrated'
 version: 1
@@ -29,7 +32,7 @@ summary: >-
   systematic errors, which is better called exploration than replication.
 ---
 
-# NOTE-tmp99s7e: Why Replication Is Overrated
+# NOTE-196: Why Replication Is Overrated
 
 ## Contribution
 

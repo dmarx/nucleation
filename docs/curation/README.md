@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 21:45 — The epistemology tag, read through](2026-09.md#the-epistemology-tag-read-through)
 - [26 Sep 20:52 — The Yoneda lemma, and whether it supports ontic structural realism](2026-09.md#the-yoneda-lemma-and-whether-it-supports-ontic-structural-realism)
 - [26 Sep 20:23 — Ladyman and Ross on the record: ontic structural realism and rainforest realism](2026-09.md#ladyman-and-ross-on-the-record-ontic-structural-realism-and-rainforest-realism)
 - [26 Sep 19:58 — A pass over the consciousness tag: eleven readings, and The Weirdness of the World](2026-09.md#a-pass-over-the-consciousness-tag-eleven-readings-and-the-weirdness-of-the-world)
@@ -25,8 +26,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-16 entries across 1 book, newest first.
+17 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 16 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 17 | 2026-09-25 | 2026-09-26 |
