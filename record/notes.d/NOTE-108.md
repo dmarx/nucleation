@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Neither the "No-Bias" nor the "Simplicity-Truth" argument shows unsupervised clustering is epistemically superior to supervised classification; since clusterings can be derived by supervised classification, supervised methods are at least as justified.
 ---
-<!-- inactive-ok-file: LIT-187 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-162 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

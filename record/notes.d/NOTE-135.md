@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Saying that a mathematical structure "describes" experience is not enough, since it admits incompatible, arbitrarily redefined and consciousness-indifferent structures. A structure S is *of* conscious experience only if experience has an "S-aspect" — one that a variation of experience changes exactly when the variation fails to preserve S. On this test relative similarity and topology (via phenomenal unity) qualify and metric spaces do not.
 ---
-<!-- inactive-ok-file: LIT-185 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-143 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

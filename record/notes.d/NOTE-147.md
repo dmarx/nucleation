@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Wigner argues that invariance principles stand to the laws of nature as laws stand to events — they give structure to the laws — and distinguishes geometrical invariances (formulated on events; yielding energy/momentum/angular-momentum conservation, most directly in quantum kinematics) from dynamical ones such as gauge invariance and, he holds, general covariance, which are tied to specific interactions.
 ---
-<!-- inactive-ok-file: LIT-122 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-180 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

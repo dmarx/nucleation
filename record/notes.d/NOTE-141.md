@@ -10,10 +10,6 @@ date: '2026-09-26'
 summary: >-
   Mathematical duality, which philosophers have neglected since Nagel (1939), is best understood category-theoretically as structural reversal organised around adjunction. Philosophers of physics should adopt category theory, because physicists' "dualities" often fall short of duality proper and predicate logic is ill-suited to the sameness questions they raise.
 ---
-<!-- inactive-ok-file: LIT-199 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-151 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-113 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-107 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-115 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

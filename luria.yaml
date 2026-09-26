@@ -96,6 +96,12 @@ vocabularies:
       logic:
         label: Logic
         blurb: 'valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy)'
+      philosophy-of-mathematics:
+        label: Philosophy of mathematics
+        blurb: 'what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy)'
+      religion:
+        label: Religion
+        blurb: 'religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated'
       anthology-candidate:
         label: Anthology candidate
         blurb: 'a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags)'
@@ -280,9 +286,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy of science, epistemology and logic. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy of science, epistemology, logic and philosophy of mathematics. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy-of-science, epistemology, logic]
+            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy-of-science, epistemology, logic, philosophy-of-mathematics]
           flags:
             label: Curation flags
             blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).
