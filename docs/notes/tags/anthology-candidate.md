@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-5 of 184 NOTE documents. Back to the [full index](../README.md).
+4 of 185 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -12,4 +12,3 @@
 | [NOTE-081](../../../record/notes.d/NOTE-081.md) v2 | The No-U-Turn Sampler (NUTS) | NUTS removes HMC's step-count L. It doubles a leapfrog trajectory forwards and backwards in random directions until some balanced subtree satisfies (θ⁺−θ⁻)·r⁻ < 0 or (θ⁺−θ⁻)·r⁺ < 0. It keeps detailed balance by slice sampling and by excluding states that could not have regenerated the tree. With ε set by a dual-averaging scheme (γ = 0.05, t₀ = 10, κ = 0.75, target δ ≈ 0.6), it matched the best hand-tuned HMC in ESS per gradient on two logistic-regression posteriors. It beat that HMC by about 3× on a 250-D Gaussian and on a 3001-D stochastic-volatility model (§4.4). | Read |
 | [NOTE-086](../../../record/notes.d/NOTE-086.md) v2 | I-MMSE: mutual information and MMSE in Gaussian channels | Let Y = √snr·X + N with N ~ N(0,1) independent of X, and let X have any distribution with E X² < ∞. Then d/dsnr I(X; √snr X + N) = ½·mmse(X \| √snr X + N) in nats, equivalently I(snr) = ½∫₀^snr mmse(γ) dγ (Thm 1, Eq. 47). The vector form is d/dsnr I(X; √snr HX + N) = ½·E‖HX − H·E[X\|Y]‖² (Thm 2). In continuous time, the same identity combined with Duncan's I = (snr/2)·cmmse gives cmmse(snr) = (1/snr)∫₀^snr mmse(γ) dγ (Thm 8). | Read |
 | [NOTE-102](../../../record/notes.d/NOTE-102.md) | Bottou & Schölkopf — Borges and AI | A (perfect) language model is best understood not through science-fiction imagery of sentient machines but as Borges's Garden of Forking Paths — a fiction machine that follows narrative necessity with no regard for truth or intention — which reframes hallucination, sycophancy and alignment. | Skimmed |
-| [NOTE-156](../../../record/notes.d/NOTE-156.md) | Towards ethical evolution: responsible AI autonomy | Proposes, without empirical validation, that AI systems that design further AI systems should carry an immutable harm-prevention principle through a genetic-algorithm model of "responsibility inheritance", with self-clones sent out and recalled ("time-travel abstractions") to audit ethical drift. | Skimmed |

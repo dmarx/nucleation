@@ -1,5 +1,8 @@
 ---
+number: 185
 status: Read
+formerly:
+- NOTE-tmpamnua
 paper: LIT-125
 title: 'The moral psychology of obligation'
 version: 1
@@ -35,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
-# NOTE-tmpamnua: The moral psychology of obligation
+# NOTE-185: The moral psychology of obligation
 
 ## Contribution
 
