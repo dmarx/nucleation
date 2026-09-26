@@ -9,13 +9,23 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**12 documents cited without acknowledgement.** Not listed: 299 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**16 documents cited without acknowledgement.** Not listed: 284 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
 ```
 <!-- inactive-ok: ADR-012 — why this citation is right -->
 ```
+
+### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
+
+Computational Functionalism for the Deep Learning Era
+
+3 citations in 3 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
+- [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 
 ### [LIT-119](../../record/literature.d/LIT-119.md) — Deferred
 
@@ -44,6 +54,23 @@ The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 - [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
 - [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
 
+### [LIT-208](../../record/literature.d/LIT-208.md) — Deferred
+
+Distributional Semantics, Holism, and the Instability of Meaning
+
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
+
+### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
+
+Adding causality to the information-theoretic perspective on individuality
+
+1 citation in 1 file awaits a look; 36 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-165.md:102`](../../record/notes.d/NOTE-165.md)
+
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Deferred
 
 Dynamics of collectives with opinionated agents: The case of scrambling connectivity
@@ -67,14 +94,6 @@ Epistemic injustice in the clinical care of practitioners of Afro-Brazilian reli
 1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-098.md:108`](../../record/notes.d/NOTE-098.md)
-
-### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
-
-Computational Functionalism for the Deep Learning Era
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 
 ### [LIT-171](../../record/literature.d/LIT-171.md) — Deferred
 
@@ -100,6 +119,14 @@ Fitting Fulfilment – Fitting Objective or Rational Attractiveness?
 
 - [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
 
+### [LIT-190](../../record/literature.d/LIT-190.md) — Proposed
+
+The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-150.md:94`](../../record/notes.d/NOTE-150.md)
+
 ### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
 
 Conspiracy theorists are not the problem; Conspiracy liars are
@@ -107,6 +134,14 @@ Conspiracy theorists are not the problem; Conspiracy liars are
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
+
+### [LIT-212](../../record/literature.d/LIT-212.md) — Rejected
+
+Do Large Language Models Hallucinate Electric Fata Morganas?
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
 
 ### [LIT-214](../../record/literature.d/LIT-214.md) — Deferred
 

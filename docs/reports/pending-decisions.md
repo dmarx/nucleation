@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**57 document(s) awaiting a decision.**
+**51 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 36 | 0 | Adding causality to the information-theoretic perspective on individuality |
+| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 37 | 1 | Adding causality to the information-theoretic perspective on individuality |
 | 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 31 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-031](../../record/literature.d/LIT-031.md) | 8 | 0 | Moving away from lexicalism in psycho- and neuro-linguistics |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 4 | 0 | The Computational Foundations of Collective Intelligence |
@@ -35,33 +35,27 @@
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |
 | 2026-09-26 | Deferred | [LIT-169](../../record/literature.d/LIT-169.md) | 7 | 0 | Defining the niche for niche construction: evolutionary and ecological niches |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 7 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
+| 2026-09-26 | Deferred | [LIT-208](../../record/literature.d/LIT-208.md) | 6 | 2 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-127](../../record/literature.d/LIT-127.md) | 5 | 0 | Hutchinson’s ecological niche for individuals |
+| 2026-09-26 | Deferred | [LIT-148](../../record/literature.d/LIT-148.md) | 5 | 3 | Computational Functionalism for the Deep Learning Era |
 | 2026-09-26 | Deferred | [LIT-174](../../record/literature.d/LIT-174.md) | 5 | 0 | Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out |
-| 2026-09-26 | Deferred | [LIT-178](../../record/literature.d/LIT-178.md) | 5 | 0 | Borges and AI |
-| 2026-09-26 | Deferred | [LIT-208](../../record/literature.d/LIT-208.md) | 5 | 0 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-117](../../record/literature.d/LIT-117.md) | 4 | 0 | Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action |
 | 2026-09-26 | Deferred | [LIT-129](../../record/literature.d/LIT-129.md) | 4 | 1 | Epistemic injustice in the clinical care of practitioners of Afro-Brazilian religions |
-| 2026-09-26 | Deferred | [LIT-140](../../record/literature.d/LIT-140.md) | 4 | 0 | Large Language Models Are Stochastic Measuring Devices |
 | 2026-09-26 | Deferred | [LIT-180](../../record/literature.d/LIT-180.md) | 4 | 0 | Symmetry and Conservation Laws |
 | 2026-09-26 | Deferred | [LIT-205](../../record/literature.d/LIT-205.md) | 4 | 0 | One equation to rule them all: a philosophical analysis of the Price equation |
 | 2026-09-26 | Deferred | [LIT-119](../../record/literature.d/LIT-119.md) | 3 | 2 | Conspiracy Theories and Public Trust |
-| 2026-09-26 | Deferred | [LIT-148](../../record/literature.d/LIT-148.md) | 3 | 1 | Computational Functionalism for the Deep Learning Era |
 | 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 3 | 2 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
+| 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 3 | 1 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
 | 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 2 | 0 | Philosophy of Mathematics and Natural Science |
 | 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
-| 2026-09-26 | Deferred | [LIT-149](../../record/literature.d/LIT-149.md) | 2 | 0 | The information-processing perspective on representation |
 | 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 2 | 1 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
-| 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 2 | 0 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
 | 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 2 | 2 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 2 | 1 | Conspiracy theorists are not the problem; Conspiracy liars are |
 | 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 2 | 1 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
-| 2026-09-26 | Deferred | [LIT-099](../../record/literature.d/LIT-099.md) | 1 | 0 | Framing Effects in Object Perception |
 | 2026-09-26 | Deferred | [LIT-106](../../record/literature.d/LIT-106.md) | 1 | 0 | Brandom's Inferentialist Theory and the Meaning Entitlement Connection |
 | 2026-09-26 | Deferred | [LIT-114](../../record/literature.d/LIT-114.md) | 1 | 0 | Philosophy of Statistical Mechanics |
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
 | 2026-09-26 | Deferred | [LIT-145](../../record/literature.d/LIT-145.md) | 1 | 0 | Ultrafilters as Propositional Theories |
-| 2026-09-26 | Deferred | [LIT-153](../../record/literature.d/LIT-153.md) | 1 | 0 | Making sense of transformer success |
-| 2026-09-26 | Deferred | [LIT-155](../../record/literature.d/LIT-155.md) | 1 | 0 | Studying Philosophy Does Make People Better Thinkers |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |

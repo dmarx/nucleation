@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 22:13 — The cognition tag, read through](2026-09.md#the-cognition-tag-read-through)
 - [26 Sep 21:59 — The ethics tag, read through](2026-09.md#the-ethics-tag-read-through)
 - [26 Sep 21:45 — The epistemology tag, read through](2026-09.md#the-epistemology-tag-read-through)
 - [26 Sep 20:52 — The Yoneda lemma, and whether it supports ontic structural realism](2026-09.md#the-yoneda-lemma-and-whether-it-supports-ontic-structural-realism)
@@ -27,8 +28,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-18 entries across 1 book, newest first.
+19 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 18 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 19 | 2026-09-25 | 2026-09-26 |
