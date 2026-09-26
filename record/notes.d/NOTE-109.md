@@ -11,7 +11,6 @@ summary: >-
   When 68 expert definitions of life are scored pairwise by three LLMs and clustered, they form a continuous landscape with eight clusters, two thirds of them in overlapping "Cognitive Autonomy" and "Dissipative Self-Organizing Systems" clusters. The authors argue this makes "what is life?" a question about a multidimensional space rather than a binary demarcation.
 ---
 <!-- inactive-ok-file: LIT-195 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-167 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-120 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-211 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->

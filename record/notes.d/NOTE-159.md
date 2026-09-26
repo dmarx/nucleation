@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Philosophy of biology's animal-centred habits distort its conclusions: taking microbes seriously changes debates over species concepts, the tree of life, major transitions, model systems, and — through microbiome research — biological individuality and causal explanation.
 ---
-<!-- inactive-ok-file: LIT-168 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-160 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-156 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-110 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->

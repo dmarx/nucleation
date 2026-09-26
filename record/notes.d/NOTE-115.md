@@ -34,7 +34,6 @@ summary: >-
   bifurcation runs on past birth through lactation ("postnatal
   pregnancy").
 ---
-<!-- inactive-ok-file: LIT-168 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 

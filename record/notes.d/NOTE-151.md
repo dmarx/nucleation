@@ -36,9 +36,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-136 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-130 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-111 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-167 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-097 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-168 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 
 # NOTE-151: Register — The Depth of the Body
