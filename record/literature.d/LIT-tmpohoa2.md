@@ -1,0 +1,50 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Information Theory with Kernel Methods'
+version: 1
+tags:
+- information-theory
+- probabilistic-modeling
+- mathematics
+date: '2026-09-26'
+published: '2022-02-17'
+arxiv: '2202.08545'
+doi: '10.1109/TIT.2022.3211077'
+first_author: 'Bach'
+keywords:
+- 'kernel methods'
+- 'covariance operators'
+- 'von Neumann entropy'
+- 'relative entropy'
+- 'variational inference'
+implementations: []
+summary: >-
+  Bach (2022), [ARXIV-2202.08545](https://arxiv.org/abs/2202.08545). With a kernel normalised to k(x,x) = 1, the covariance operator Σ_p = E_p[ϕ(x)ϕ(x)*] is a density operator (PSD, unit trace), injective in p when k² is universal. Its von Neumann entropy and relative entropy behave like Shannon quantities, with D(Σ_p‖Σ_q) ≤ D(p‖q), and the empirical versions are computed from the normalised Gram matrix K/n.
+---
+
+# LIT-tmpohoa2: Information Theory with Kernel Methods
+
+Francis Bach (2022), *IEEE Transactions on Information Theory (2023); first appeared as arXiv preprint* — [ARXIV-2202.08545](https://arxiv.org/abs/2202.08545)
+
+## Key takeaways
+
+- With a kernel normalised to k(x,x) = 1, the covariance operator Σ_p = E_p[ϕ(x)ϕ(x)*] is a density operator (PSD, unit trace), injective in p when k² is universal. Its von Neumann entropy and relative entropy behave like Shannon quantities, with D(Σ_p‖Σ_q) ≤ D(p‖q), and the empirical versions are computed from the normalised Gram matrix K/n.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The paper studies probability distributions through their covariance operators in a reproducing kernel Hilbert space. It shows that the von Neumann entropy and relative entropy of these operators are closely related to Shannon entropy and relative entropy, share many of their properties, and come with efficient estimators. For tensor-product kernels it defines kernel mutual information and joint entropies, which characterise independence perfectly and conditional independence only partially. It also uses the new relative entropies to derive upper bounds on log-partition functions, giving a family of variational inference methods.
+
+## Standing in the record
+
+Filed on 2026-09-26 while pursuing, at the owner's request, the connection *GNS, unitary equivalence and the convergence of representations* (see the curation entry of that date). `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — a well-written, rigorous bridge between kernel embeddings and quantum states; the propositions needed here are already captured.**
+
+What a deeper reading should check:
+
+- It is the rigorous version of the "density matrix" reading of kernel embeddings. Σ_p is the state and the Gram matrix K/n its empirical estimate. The same objects (fidelity and Bures between normalised kernel matrices) are what the representation-similarity literature compares. It also connects this strand to the Radon–Nikodym/KL strand, since the kernel KL lower-bounds the true KL.
+- The pull-back identity ⟨g, Σ_p f⟩ = E_p[fg] is exactly the commutative GNS inner product of the state E_p restricted to RKHS functions. A deeper reading should check whether Bach draws that link anywhere (not seen in the sections read).
+- Check the multivariate section (§6) for kernel mutual information, which is relevant to information-bottleneck readings.
+
+Access when seeded: Read the arXiv abstract page (v1 submitted 2022-02-17; v2 2022-08-26) and the v2 PDF text (47 pp.): §§1–2 and 4 in full, §3 opening, the statement of §5 Proposition 6, and the Conclusion (§8). The DOI and journal come from a Crossref title search (IEEE Transactions on Information Theory, issue dated February 2023). The published version itself was not read.
