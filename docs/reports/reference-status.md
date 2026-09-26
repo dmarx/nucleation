@@ -9,13 +9,23 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**16 documents cited without acknowledgement.** Not listed: 284 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**20 documents cited without acknowledgement.** Not listed: 243 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
 ```
 <!-- inactive-ok: ADR-012 — why this citation is right -->
 ```
+
+### [LIT-106](../../record/literature.d/LIT-106.md) — Deferred
+
+Brandom's Inferentialist Theory and the Meaning Entitlement Connection
+
+3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-009.md:35`](../../record/decisions.d/ADR-009.md)
+- [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
+- [`record/notes.d/NOTE-158.md:136`](../../record/notes.d/NOTE-158.md)
 
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
@@ -26,6 +36,16 @@ Computational Functionalism for the Deep Learning Era
 - [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
 - [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
 - [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
+
+### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
+
+Distributional Semantics, Holism, and the Instability of Meaning
+
+3 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
+- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
 
 ### [LIT-119](../../record/literature.d/LIT-119.md) — Deferred
 
@@ -54,14 +74,14 @@ The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 - [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
 - [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
 
-### [LIT-208](../../record/literature.d/LIT-208.md) — Deferred
+### [LIT-214](../../record/literature.d/LIT-214.md) — Deferred
 
-Distributional Semantics, Holism, and the Instability of Meaning
+Blunting concepts: The double-edged effect of popularizing psychotherapy language
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
-- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
+- [`record/decisions.d/ADR-009.md:37`](../../record/decisions.d/ADR-009.md)
+- [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -70,6 +90,14 @@ Adding causality to the information-theoretic perspective on individuality
 1 citation in 1 file awaits a look; 36 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-165.md:102`](../../record/notes.d/NOTE-165.md)
+
+### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
+
+Rigorous renormalization group
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-103.md:108`](../../record/notes.d/NOTE-103.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Deferred
 
@@ -119,6 +147,14 @@ Fitting Fulfilment – Fitting Objective or Rational Attractiveness?
 
 - [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
 
+### [LIT-188](../../record/literature.d/LIT-188.md) — Proposed
+
+Scaffolding individuality: coordination, cooperation, collaboration and community
+
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-111.md:106`](../../record/notes.d/NOTE-111.md)
+
 ### [LIT-190](../../record/literature.d/LIT-190.md) — Proposed
 
 The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences
@@ -126,6 +162,14 @@ The coherent and fluent mind: how unified consciousness is constructed from cros
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-150.md:94`](../../record/notes.d/NOTE-150.md)
+
+### [LIT-201](../../record/literature.d/LIT-201.md) — Deferred
+
+Alternative formulations of multilevel selection
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-101.md:93`](../../record/notes.d/NOTE-101.md)
 
 ### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
 
@@ -142,14 +186,6 @@ Do Large Language Models Hallucinate Electric Fata Morganas?
 1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
-
-### [LIT-214](../../record/literature.d/LIT-214.md) — Deferred
-
-Blunting concepts: The double-edged effect of popularizing psychotherapy language
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
 
 ## Codes that resolve to no document
 

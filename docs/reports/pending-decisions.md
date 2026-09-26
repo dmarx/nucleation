@@ -5,7 +5,7 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**51 document(s) awaiting a decision.**
+**46 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -18,6 +18,7 @@
 | 2026-09-25 | Proposed | [LIT-079](../../record/literature.d/LIT-079.md) | 2 | 1 | Causal Claims in Economics |
 | 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 2 | 0 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
+| 2026-09-25 | Deferred | [LIT-039](../../record/literature.d/LIT-039.md) | 1 | 1 | Rigorous renormalization group |
 | 2026-09-25 | Proposed | [LIT-057](../../record/literature.d/LIT-057.md) | 1 | 0 | Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics |
 | 2026-09-25 | Proposed | [LIT-059](../../record/literature.d/LIT-059.md) | 1 | 0 | The Strongest El Niño Ever |
 | 2026-09-25 | Proposed | [LIT-060](../../record/literature.d/LIT-060.md) | 1 | 0 | The Mothership Vortex: An Investigation Into the Firm at the Heart of the Democratic Spam Machine |
@@ -25,35 +26,29 @@
 | 2026-09-25 | Deferred | [LIT-070](../../record/literature.d/LIT-070.md) | 1 | 1 | Dynamics of collectives with opinionated agents: The case of scrambling connectivity |
 | 2026-09-25 | Deferred | [LIT-026](../../record/literature.d/LIT-026.md) | 0 | 0 | Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis |
 | 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |
-| 2026-09-25 | Deferred | [LIT-039](../../record/literature.d/LIT-039.md) | 0 | 0 | Rigorous renormalization group |
 | 2026-09-25 | Deferred | [LIT-043](../../record/literature.d/LIT-043.md) | 0 | 0 | This Secret Math Equation let the US Government Spy on Anyone |
 | 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
-| 2026-09-26 | Deferred | [LIT-110](../../record/literature.d/LIT-110.md) | 23 | 0 | Unknotting reciprocal causation between organism and environment |
 | 2026-09-26 | Proposed | [LIT-200](../../record/literature.d/LIT-200.md) | 18 | 0 | Wave-functionalism |
-| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 13 | 0 | Scaffolding individuality: coordination, cooperation, collaboration and community |
-| 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 9 | 0 | Alternative formulations of multilevel selection |
+| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 14 | 1 | Scaffolding individuality: coordination, cooperation, collaboration and community |
+| 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 9 | 1 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |
-| 2026-09-26 | Deferred | [LIT-169](../../record/literature.d/LIT-169.md) | 7 | 0 | Defining the niche for niche construction: evolutionary and ecological niches |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 7 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
-| 2026-09-26 | Deferred | [LIT-208](../../record/literature.d/LIT-208.md) | 6 | 2 | Distributional Semantics, Holism, and the Instability of Meaning |
-| 2026-09-26 | Deferred | [LIT-127](../../record/literature.d/LIT-127.md) | 5 | 0 | Hutchinson’s ecological niche for individuals |
+| 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 7 | 3 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-148](../../record/literature.d/LIT-148.md) | 5 | 3 | Computational Functionalism for the Deep Learning Era |
 | 2026-09-26 | Deferred | [LIT-174](../../record/literature.d/LIT-174.md) | 5 | 0 | Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out |
+| 2026-09-26 | Deferred | [LIT-106](../../record/literature.d/LIT-106.md) | 4 | 3 | Brandom's Inferentialist Theory and the Meaning Entitlement Connection |
 | 2026-09-26 | Deferred | [LIT-117](../../record/literature.d/LIT-117.md) | 4 | 0 | Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action |
 | 2026-09-26 | Deferred | [LIT-129](../../record/literature.d/LIT-129.md) | 4 | 1 | Epistemic injustice in the clinical care of practitioners of Afro-Brazilian religions |
 | 2026-09-26 | Deferred | [LIT-180](../../record/literature.d/LIT-180.md) | 4 | 0 | Symmetry and Conservation Laws |
-| 2026-09-26 | Deferred | [LIT-205](../../record/literature.d/LIT-205.md) | 4 | 0 | One equation to rule them all: a philosophical analysis of the Price equation |
 | 2026-09-26 | Deferred | [LIT-119](../../record/literature.d/LIT-119.md) | 3 | 2 | Conspiracy Theories and Public Trust |
 | 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 3 | 2 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
 | 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 3 | 1 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
+| 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 3 | 2 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
 | 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 2 | 0 | Philosophy of Mathematics and Natural Science |
 | 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
 | 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 2 | 1 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
 | 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 2 | 2 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 2 | 1 | Conspiracy theorists are not the problem; Conspiracy liars are |
-| 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 2 | 1 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
-| 2026-09-26 | Deferred | [LIT-106](../../record/literature.d/LIT-106.md) | 1 | 0 | Brandom's Inferentialist Theory and the Meaning Entitlement Connection |
-| 2026-09-26 | Deferred | [LIT-114](../../record/literature.d/LIT-114.md) | 1 | 0 | Philosophy of Statistical Mechanics |
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
 | 2026-09-26 | Deferred | [LIT-145](../../record/literature.d/LIT-145.md) | 1 | 0 | Ultrafilters as Propositional Theories |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
@@ -65,4 +60,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (7): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-039](../../record/literature.d/LIT-039.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (6): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md) — these are the cheapest to close, since nothing depends on the answer.
