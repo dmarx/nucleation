@@ -99,6 +99,9 @@ vocabularies:
       philosophy-of-mathematics:
         label: Philosophy of mathematics
         blurb: 'what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy)'
+      philosophy-of-language:
+        label: Philosophy of language
+        blurb: 'meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy)'
       religion:
         label: Religion
         blurb: 'religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated'
@@ -286,9 +289,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy of science, epistemology, logic and philosophy of mathematics. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy-of-science, epistemology, logic, philosophy-of-mathematics]
+            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
           flags:
             label: Curation flags
             blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).

@@ -39,7 +39,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
-<!-- inactive-ok-file: LIT-205 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-201 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
 
 # NOTE-184: SEP — Units and levels of selection

@@ -47,7 +47,6 @@ summary: >-
   commitments (§4.2: García-Valdecasas's Aristotelian case for Deacon over
   the Organizational Approach).
 ---
-<!-- inactive-ok-file: LIT-110 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-094: Nahas & Sachs — What's at stake in naturalizing teleology
 

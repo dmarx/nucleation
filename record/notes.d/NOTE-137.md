@@ -31,8 +31,6 @@ summary: >-
   keep niche construction as a genuine cause of the evolutionary
   *product*.
 ---
-<!-- inactive-ok-file: LIT-169 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-110 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-137: Hazelwood — Emerging dilemma for reciprocal causation
 
