@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-6 of 6 decisions. Back to the [full index](../README.md).
+7 of 7 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [ADR-004](../../../record/decisions.d/ADR-004.md) | philosophy-of-science joins the philosophy group | An eighth philosophy word, `philosophy-of-science`, for what science is and what its theories say about the world: realism and structural realism, explanation, causation and evidence, the interpretation of physical theories. It joins the `philosophy` tag group [ADR-003](../../../record/decisions.d/ADR-003.md) declared. | Active |
 | [ADR-005](../../../record/decisions.d/ADR-005.md) | anthology-candidate: a curation flag in the tag vocabulary | A work that may belong in the Anthology of the SOTA carries the tag `anthology-candidate`, after its topics and never first. The tag is a curation flag, not a subject, and a `flags` tag group labels it as one. Its generated tag page is the report of pending transfers. The work stays here until somebody decides to move it. | Active |
 | [ADR-006](../../../record/decisions.d/ADR-006.md) | epistemology and logic join the philosophy group | Two philosophy words join the topics and the `philosophy` tag group. `epistemology` covers knowledge, belief and evidence. `logic` covers valid inference and its formal theories. The 2026-09-26 sweep of the papers-feed tracker for philosophy found works that neither word's nearest neighbour describes. | Active |
+| [ADR-008](../../../record/decisions.d/ADR-008.md) | No reader sends an email address to any service | An agent reading for this record never supplies an email address to an outside service: not the owner's, not anyone's. Where an API asks for one, the field is left out, or given `noreply@anthropic.com`. The rule is in the reading brief every reader follows, because on 2026-09-26 a reader sent the owner's address to a lookup service. | Active |
