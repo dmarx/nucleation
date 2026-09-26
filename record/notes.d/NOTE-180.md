@@ -11,7 +11,6 @@ summary: >-
   When an external resource is coupled with an organism in a two-way interaction and plays the role an internal process would, it is part of the cognitive process. Clark and Chalmers argue that dispositional beliefs themselves (Otto's notebook) can be partly constituted by the environment, provided the resource is reliably available, easily accessed and automatically endorsed.
 ---
 <!-- inactive-ok-file: LIT-212 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-138 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-111 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-097 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->

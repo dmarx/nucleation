@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   The authors propose that Wheeler's "pregeometry" is best modelled as "structureless structure" — the syntactic types and compositional rules of a formal language such as homotopy type theory — adopting a constructivist coherentism in which space and geometry are built from relations rather than a material substrate.
 ---
-<!-- inactive-ok-file: LIT-123 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-102 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

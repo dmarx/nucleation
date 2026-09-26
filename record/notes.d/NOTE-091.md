@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Neuroprosthetics does not support nonreductive physicalism. The redundancy that interventionist arguments exploit (many single-neuron patterns realising one ensemble state) is multiple realisation of a cortical, physical variable, not of the mental state, so BCIs illustrate mental causation only in the deflationary sense that the mental is identical to the neural.
 ---
-<!-- inactive-ok-file: LIT-138 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-147 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
