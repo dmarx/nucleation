@@ -36,7 +36,6 @@ summary: >-
   identify S with the belief and so to be a realist rather than a
   fictionalist.
 ---
-<!-- inactive-ok-file: LIT-149 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-148 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-128 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->

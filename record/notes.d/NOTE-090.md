@@ -1,37 +1,161 @@
 ---
 number: 90
-status: Skimmed
+status: Read
 formerly:
 - NOTE-tmp0hpt3
 paper: LIT-140
 title: 'LLMs are stochastic measuring devices'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-09-26'
+  note: >-
+    Read in full (full text of the author's web draft, "Language models are
+    stochastic measuring devices (web draft)", from the author's website
+    (PDF created 2024-09-27). It is 23 pp.: 16 pp. of body in §§
+    Introduction, The Problems of Text and Model Interpretation, Language
+    models as scientific instruments (incl. "Coordination and Measurement"),
+    Modelling with Neural Networks, Generative models and simulation, and
+    Interpretation and Communication, plus all footnotes 1–10 and the
+    references. Read end to end. Neither the published OUP chapter (Cappelen
+    & Sterken eds., DOI 10.1093/9780191998317.003.0003; Oxford Academic
+    returned 403) nor the "(revised)" PhilPapers preprint the skim used
+    (PhilPapers and PhilArchive returned 403, Wayback connections reset)
+    could be reached. The skim's page references match this draft's
+    pagination to within a page, so the revision is probably light, but
+    differences from the published chapter are unverified.). Upgraded from
+    `Skimmed` to `Read`: the claims table, assumptions and results are new,
+    and the skim is corrected where the full text disagreed.
 date: '2026-09-26'
 summary: >-
-  A trained neural network is best understood as a measuring instrument whose internal states have been altered by interaction with a dataset, and a generative model as a simulation built on that measurement. The puzzles about interpreting LLMs are therefore the familiar philosophy-of-science puzzles about instruments, models and simulations, not puzzles about other minds.
+  The chapter argues by analogy that deep neural networks are "stochastic
+  measuring devices". Training alters the parameters in response to data,
+  so that the resulting configuration carries information about the data
+  ("training is measurement"). The trained weights are a model, and
+  generation is simulation. DNNs are stochastic because random
+  initialisation and non-convex loss mean runs need not converge to the
+  same weights, failing Baird's "regularity" condition. The problems of
+  interpreting model states and generated text are therefore the familiar
+  problems of instruments, models and simulations. The problem of
+  interpretable AI is an instance of the coordination problem in the
+  philosophy of measurement.
 ---
-<!-- inactive-ok-file: LIT-208 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-
-<!-- inactive-ok-file: LIT-140 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-090: LLMs are stochastic measuring devices
 
 ## Contribution
 
-Mallory argues that large language models are stochastic measuring devices. A measuring device is an artefact built so that its internal states change in response to its environment in ways that yield information about that environment. Neural networks count as stochastic because training ends in initialisation-dependent local minima rather than a global minimum. Just as a chemist puts a thermometer in a liquid, machine-learning researchers put networks into datasets to find their patterns. On this view, debates over interpreting language models and their outputs become familiar philosophy-of-science debates. Generative AI is the use of such models in simulation, and "communicating with AI" is a pattern of interaction with scientific instruments.
+The chapter offers a non-agentive image of contemporary "AI". The argument is (p. 3): artificial intelligences are typically DNNs; DNNs are stochastic measuring devices; so interpreting AIs is typically interpreting a kind of measuring device.
 
-## Skim
+It integrates three roles into one account: measurement (training), model (the trained weights) and simulation (generation). It relocates the question of what LLM states and outputs represent from philosophy of mind to the philosophy of scientific instruments, models and simulation.
 
-*Abstract, figures and selected sections, read when the work was seeded. Not enough to state its assumptions or results exactly; a `Read` note replaces this one.*
+## Key insight
 
-- § The Problems of Text and Model Interpretation (p. 3) sets out three problems: model interpretation, text interpretation, and the link between them. It surveys error theories, content theories and fictionalism about LLM outputs (p. 4).
-- § Language models as scientific instruments (p. 7) and "Coordination and Measurement" (p. 10) develop the measuring-device analogy, drawing on the history of measurement.
-- § Modelling with Neural Networks (p. 12) and § Generative models and simulation (p. 14): a generative model is configured directly for simulation, as "measurement by prediction". Models can simulate domains other than the one they were built for, as with transfer learning and Morgan's fluid-dynamics model of an economy.
-- p. 15: a simulation's output represents what it simulates, so LLM text is a representation of what text represents. But similar representations do not guarantee similar representation relations.
-- § Interpretation and Communication (pp. 15–16): DNNs are a "triple threat" (they measure, model and simulate), and the three problems arise for every instrument (thermometers, the Bohr model, AlphaFold). Mallory suspects pluralism about interpretation, and treats communicating with AI as part of our entanglement with material culture.
+A trained network is to its dataset what a thermometer's mercury column is to a liquid. It is an artefact built so that its internal state changes under interaction with a sample and thereby carries information about it. The difference is that the network's final state is a structured latent space that can serve as a model and drive simulations, and that it is not guaranteed to be the same on every run. Interpretability is then the old coordination problem: we cannot say what the instrument measures independently of the theory of what is measured.
+
+## Assumptions
+
+Premises and authorities:
+
+- **Baird's instrument conditions** (Baird 2004): a measuring device must be public, reliable and regular. The chapter holds that DNNs satisfy public (in principle) and reliable (via held-out test performance) but not regular.
+- **A functional notion of measurement:** an artefact whose internal states change in response to a signal generated by interaction with its environment, so as to yield information about it (pp. 7–9). The mechanism of interaction is "functionally irrelevant".
+- **Universal approximation:** feed-forward nets with hidden layers can represent any Borel-measurable function. Training is a search over function space (p. 7).
+- **The coordination problem** (Reichenbach 1965; Chang 2004; van Fraassen 2010): what counts as measuring X and what X is cannot be answered independently.
+- **Models as mediators and simulation** (Morgan & Morrison 1999; Winsberg 2009; Grim et al.): models can be measuring instruments, simulations can target domains other than the one the model was built for, and representation relations are plural.
+- **Scope:** "DNNs" covers transformers, RNNs, GANs, CNNs and even word2vec (p. 3). The claims are architecture-general, and the illustrations are mostly language models.
+
+## Key results
+
+What the chapter argues:
+
+- **Three problems of interpretation (pp. 3–6):**
+  - *text interpretation*: is LLM output meaningful, and what does it mean? The chapter surveys error theory, content theories (internalist and externalist) and fictionalism.
+  - *model interpretation*: what do internal states represent? This is largely empirical (probing, gradients, head ablation).
+  - *the linking problem*: how do model representations relate to text content?
+
+  It separates *strong* (used downstream) from *weak* (merely recoverable) views of model content.
+- **Training is measurement (pp. 7–9).** The chapter distinguishes a trained classifier used as an instrument from "measurement by function approximation", in which the dataset is mapped to a parameter configuration. It then walks through the analogy:
+  - data preparation corresponds to specimen preparation (tokenisation, BPE);
+  - the loss-gradient update is the mechanism of interaction, likened to radar comparing signals and to a thermometer's internal state change;
+  - hyperparameters and inductive biases (the translation invariance of CNNs, positional encodings) are the instrument's built-in assumptions, like litmus paper that can report pH but not price.
+- **Definition (p. 9).** "A stochastic measuring device is an artefact which has been produced to alter its internal states in response to a signal generated through its interaction with its environment (measurement) leading to converge to an internal structure which is reflective of the properties of that stimuli but not necessarily unique to it."
+- **Coordination (pp. 10–11).** Interpretable AI is the coordination problem for this new instrument class. The epistemic predicament resembles early microscopy and Galileo's telescope, a tool-driven revolution in Dyson's sense. The "ontology of features represented" need not match existing theory.
+- **Modelling (pp. 12–14).** The trained state is a model. Three senses of "language model" are distinguished:
+  - a predictive model of a corpus (n-gram lineage);
+  - a structural model of parts of the world, recovered from co-occurrence (the chapter cites Harris 1991);
+  - a cognitive model, functional or mechanistic.
+
+  Being able to acquire language and world models does not depend on being a good cognitive model. The thermometer analogy: it can measure temperature or model thermosensation.
+- **Simulation (pp. 14–15).** Generative training configures the model "directly for simulation": "measurement by prediction". Simulations can be reinterpreted across domains (fluid dynamics → economy; transfer learning). Generated text is a representation of what text represents (representation is "transitive"), but similarity of representations does not guarantee similarity of representation relations.
+- **Interpretation and communication (pp. 15–16).** DNNs are a "triple threat": measure, model, simulate. The three interpretation problems arise for every instrument (thermometer, Bohr model, AlphaFold, weather simulation). Mallory "suspect[s] … pluralism", and communicating with AI is continuous with "communicating" with speedometers and CO₂ detectors.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | DNNs, during training, function as measuring devices | moderate | analogy argued feature by feature against a functional definition of measuring device and Baird's conditions (pp. 7–9) |
+| C2 | DNNs are *stochastic* because they fail regularity (random initialisation; no guaranteed global minimum) | moderate | informal technical argument (p. 9); the premises are standard, but the inference that DNNs are still measuring devices despite failing one of Baird's conditions is stipulated |
+| C3 | The problem of interpretable AI is the coordination problem for stochastic measuring devices | weak | informal argument by analogy with measurement history (p. 10) |
+| C4 | The text-, model- and linking-interpretation problems arise for all instruments, models and simulations, so they are not unique to LLMs | moderate | examples (thermometer, Bohr model, AlphaFold, weather) (p. 15) |
+| C5 | Error theory about LLM text is the most theoretically defensible position | assertion | p. 4, one sentence |
+| C6 | Capacity to acquire language and world models does not depend on serving as a cognitive model | moderate | conceptual distinction between senses of "model" (p. 13) |
+| C7 | Similarity between representations does not entail similarity between representation relations | moderate | conceptual argument (p. 15) |
+| C8 | LLMs should be understood through scientific instrumentation *rather than* by analogy with agents | weak | an alternative is offered; the chapter concedes the agentive analogy "can't be refuted" (p. 15) |
+
+## Method
+
+*(Omitted: philosophical argument by analogy and conceptual distinction.)*
+
+## Concepts
+
+- **Agentive trend** — speaking of LLMs in terms of meaning, understanding, knowledge and intelligence. It is "a trend rather than a theory", extending vocabulary rather than making explicit claims (p. 1).
+- **Stochastic measuring device** — as defined on p. 9 (quoted above).
+- **Measurement by function approximation** / "training is measurement" — the dataset → parameter-configuration mapping, as the measurement (p. 7).
+- **Measurement by prediction** — generative next-token training, where the measurement signal concerns what comes next rather than what is present (p. 14).
+- **Strong vs weak model content** — information used by downstream computation vs information merely recoverable by a probe (pp. 5–6).
+- **Text internalism/externalism; model internalism/externalism** — whether content is fixed by internal states or by environment and causal history. The two can be combined independently (p. 6).
+- **Triple threat** — measuring, modelling and simulating in one artefact (p. 15).
+
+## Connections
+
+The chapter builds on the philosophy of measurement (Baird, Chang, van Fraassen, Tal), models-as-mediators (Morgan & Morrison) and the epistemology of simulation (Winsberg, Grim et al.). It sets itself against agentive and deanthropocentrising programmes (Cappelen & Dever 2021; Shevlin et al. 2019). It surveys meaning-attribution positions:
+
+- error theory: Bender & Koller; Butlin; Titus 2024; Mallory 2020;
+- content theories: Andreas; Piantadosi & Hill; Søgaard; Mandelkern & Linzen;
+- fictionalism: Krueger & Osler 2022; Mallory 2023.
+
+**Account of mind held.** The chapter takes no theory of mind as its thesis, but it takes a clear position. It is deflationary and anti-agentive about LLMs: they are artefacts that carry information, not minds, and their "perspectives" are like instruments' perspectives, which "doesn't mean they have different minds" (p. 16). On the meaning of LLM text it leans towards error theory (p. 4) and, elsewhere, fictionalism (Mallory 2023), and it expects pluralism about representation relations. It treats representation as not specifically mental: "minds and language aren't the only things that can represent the world" (p. 6).
+
+The **cognition** tag is justified in the way a work on the negative side of the machine-minds debate is: someone browsing cognition would rightly expect it. It is not an account of human cognition, and philosophy-of-science should remain primary.
+
+In the nucleation record, [LIT-208](../literature.d/LIT-208.md) (Grindrod, same Cappelen & Sterken volume) is the closest companion. It contrasts with [LIT-206](../literature.d/LIT-206.md) (Goldstein, an interpretationist reading of ChatGPT's wants), [LIT-207](../literature.d/LIT-207.md) (Roberts, the fiction of artificial minds) and [LIT-148](../literature.d/LIT-148.md) (López-Rubio, computational functionalism for deep learning). [LIT-112](../literature.d/LIT-112.md) (Drayson on mental fictionalism) bears on the fictionalist option Mallory surveys.
+
+## Bearing on the record
+
+This is philosophy; it carries no instruction for ML practice. Two points could matter to the anthology's descriptive vocabulary. First, the strong-versus-weak content distinction (a probe recovering information does not show the model uses it; the chapter cites Ravichander, Belinkov & Hovy) is a standard caution for any anthology document that reads probing results as representations. Second, seed-dependence of trained weights is framed as a failure of instrument regularity. The chapter is not a source for either point; the ML literature it cites is. The dossier's "borderline for home: anthology" is not borne out: the chapter makes no claim about what to do.
+
+## Limitations
+
+- An argument by analogy that the author admits cannot refute the rival analogy (p. 15).
+- The seed-dependence problem is named but not worked through. Nothing is said about how much variance across runs is tolerable for a "measurement", or how practices such as ensembling or seeds relate to calibration.
+- The functional definition of measuring device is broad (any artefact whose states change informatively under interaction). Whether it excludes much besides non-artefacts is not discussed; by the chapter's own concession it would also cover humans.
+- Reliability is equated with test-set generalisation without discussion of distribution shift.
+- The published OUP chapter was not reached. Differences from this September 2024 draft are unverified.
 
 ## Open questions
 
-- It is a deflationary, instrument-centred alternative to the agentive framing of LLMs, and it bears directly on how the anthology describes what a trained model is. Borderline for home: anthology, but its question is the philosophical one of representation and interpretation.
-- Check whether the "stochastic" qualifier does real work, since calibrated instruments are usually valued for repeatability, and whether seed-dependence undermines the measurement reading.
-- It pairs with [LIT-208](../literature.d/LIT-208.md) (same volume) and [LIT-184](../literature.d/LIT-184.md)/[LIT-151](../literature.d/LIT-151.md) on models and representation.
+- What would calibration or regularity amount to for a stochastic measuring device? Is agreement across seeds (e.g. representational similarity across runs) the analogue of instrument repeatability?
+- Does "measurement by function approximation" deliver information about the *world*, or only about the *dataset*? The chapter allows both (p. 11) without saying how to tell them apart. That is the coordination problem restated rather than solved.
+- Does the instrument framing survive for LLMs used interactively after RLHF, where the "measurement" has been reshaped by human preference data rather than by the sample alone?
+
+## Corrections to the seeded skim
+
+- The dossier says networks are stochastic "because training ends in initialisation-dependent local minima". The text gives two reasons (p. 9): initialisations are (semi-)random, and there is no guarantee that gradient descent reaches a global minimum of a possibly non-convex loss. Stochasticity is introduced specifically as failure of Baird's *regularity* condition (same test, same situation, same result). The formal definition (p. 9) requires convergence to "an internal structure which is reflective of the properties of that stimuli but not necessarily unique to it".
+- On the dossier's question whether "stochastic" does real work: it does. It is what the chapter says differentiates DNNs from traditional instruments, not output complexity (p. 12). Footnote 3 contrasts DNNs with Monte Carlo methods, which do converge as the number of samples grows.
+- On the dossier's question whether seed-dependence undermines the measurement reading: this is not addressed beyond conceding that regularity fails. DNNs "meet every other condition" for being a measuring device (p. 9). Baird's public and reliable conditions are treated briefly; reliability is glossed as generalisation to test data.
+- The dossier frames the thesis as "not puzzles about other minds". The chapter makes a positive claim the skim does not state. The problem of interpretable AI "is the manifestation of the coordination problem for stochastic measuring devices" (p. 10), citing Reichenbach, van Fraassen and Chang. The epistemic situation is likened to the 17th-century microscope and to Dyson's "tool-driven" revolutions, which may require new concepts for what the instrument detects.
+- The skim says the text surveys error theories, content theories and fictionalism. It does not say that Mallory calls error theory "the most theoretically defensible position" (p. 4). He objects to it only that we use and learn from LLM text as if it were meaningful.
+- Distinctions the skim missed: two senses in which a DNN measures (p. 7), extensionally as a trained classifier versus "measurement by function approximation" (the configuration of the parameters), with the chapter focusing on the latter. Strong versus weak views of model content (p. 5): information that is used downstream versus information that is merely recoverable, as tree rings carry the tree's age. The "triple threat" (measure, model, simulate) is on p. 15.
+- The chapter concedes van Fraassen's rejoinder ("The human organism is … a certain kind of measuring apparatus") "can't be refuted" and says analogies are challenged by offering alternatives (p. 15). The headline claim is thus an alternative image, not a demonstration that the agentive framing is wrong.
+- The LIT's pairing with [LIT-151](../literature.d/LIT-151.md) and [LIT-184](../literature.d/LIT-184.md) is loose. Those are works on structural realism in physics, not on models of language or representation in ML. Only [LIT-208](../literature.d/LIT-208.md) (same volume) is a close companion.
+- cognition tag: justified, marginally. The chapter is about whether mentalistic or agentive description of LLMs is apt, and about the metasemantics of their outputs. It also treats DNNs as cognitive models (functional vs mechanistic, p. 13). Its position is deflationary about machine minds, and a reader browsing cognition would rightly expect the anti-agentive side of that debate. Primary topic philosophy-of-science is right.
