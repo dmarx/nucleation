@@ -4,9 +4,10 @@
 
 **logic**.
 
-2 of 185 NOTE documents. Back to the [full index](../README.md).
+3 of 185 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
+| [NOTE-127](../../../record/notes.d/NOTE-127.md) v2 | Holik et al. — Quasi-set theory for a quantum ontology | The paper argues, with no new theorem, that the Lombardi–da Costa ontology of properties for quantum mechanics can be stated in Krause's quasi-set theory Q. On that ontology a system is a bundle of I-type-properties (instances of universal type-properties, represented by the algebra of observables) with no principle of individuality. For each property instance, the indiscernible instances form a qset U([Π]). An atomic bundle is any qset x with qc(x ∩ U) = 1 for each U; the Axiom of Choice in Q guarantees one exists. The bundle's kind is Q(B) = {x ∈ P(Q) \| R(x)}, whose members are all indiscernible. N particles are a subqset N(B) ⊂ Q(B) with qc = N, a definite number with no labels (§6, pp. 19–22). | Read |
 | [NOTE-177](../../../record/notes.d/NOTE-177.md) | Turner — Ultrafilters as Propositional Theories | Filters and ultrafilters, and with them Łoś's theorem and compactness, become accessible to philosophers once read as propositional theories: sets of possible-worlds propositions that are consistent and closed under conjunction and implication, and, for an ultrafilter, negation-complete. | Skimmed |
 | [NOTE-179](../../../record/notes.d/NOTE-179.md) | Brandom, inferentialism and meaning entitlement | Boghossian's objection to substantive, entitlement-based theories of meaning (drawn from pejoratives like "Boche") works against Dummett but not against Brandom. Brandom's material inferences are non-monotonic and ceteris paribus, so one can grasp a concept while refusing to endorse the inferences it licenses. | Skimmed |

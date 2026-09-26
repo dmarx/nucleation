@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 19:01 — A pass over the metaphysics tag: thirty-two readings, two new topics](2026-09.md#a-pass-over-the-metaphysics-tag-thirty-two-readings-two-new-topics)
 - [26 Sep 14:21 — A pass over the agency tag: sixteen readings, two retags](2026-09.md#a-pass-over-the-agency-tag-sixteen-readings-two-retags)
 - [26 Sep 06:50 — The mereology tag's newly tagged works, read](2026-09.md#the-mereology-tags-newly-tagged-works-read)
 - [26 Sep 06:37 — A pass over the mereology tag: four readings, eight retags](2026-09.md#a-pass-over-the-mereology-tag-four-readings-eight-retags)
@@ -20,8 +21,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-11 entries across 1 book, newest first.
+12 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 11 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 12 | 2026-09-25 | 2026-09-26 |

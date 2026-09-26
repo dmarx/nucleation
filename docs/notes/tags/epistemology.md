@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-6 of 185 NOTE documents. Back to the [full index](../README.md).
+7 of 185 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [NOTE-139](../../../record/notes.d/NOTE-139.md) | Wenmackers — Philosophy of probability (PhD thesis) | A fair lottery on the natural numbers, impossible under Kolmogorov's axioms, can be modelled by a non-Archimedean probability ("normalised numerosities") giving each ticket a non-zero infinitesimal chance, and the same non-standard strategy yields "Stratified Belief", a contextualist resolution of the Lottery Paradox. | Skimmed |
 | [NOTE-145](../../../record/notes.d/NOTE-145.md) | Douglas — Inductive risk and values in science | Because every internal scientific choice carries inductive risk, non-epistemic values are legitimately and necessarily required — indirectly, via weighing the consequences of error — wherever those consequences can be foreseen, including in choosing significance levels, characterizing data and interpreting results. | Skimmed |
 | [NOTE-168](../../../record/notes.d/NOTE-168.md) | Hartmann & Trpin — Coherence-based explanatory power | Probabilistic measures of explanatory power survive Lange's entailment problem and Roche & Sober's "Two Likelihood Inequalities" critique if explanatory power is measured as how well the whole set of explanantia coheres with the explanandum versus with its negation — in particular using the CohOG+ coherence measure. | Skimmed |
+| [NOTE-172](../../../record/notes.d/NOTE-172.md) v2 | Watson — On the philosophy of unsupervised learning | Watson argues that clustering, abstraction and generative modelling each come with an epistemic thesis (EC, EA, EG — we identify natural kinds, essential properties and unrealized possibilities via such algorithms or something like them), which he accepts. Each also comes with an ontological thesis (OC, OA, OG — these just *are* what the algorithms ought to find under ideal conditions), which he rejects because nothing guarantees they are effectively computable. He adds a pragmatic, context-relative view of natural kinds, and closes with the claim that unsupervised outputs are neither "objective" nor vacuous. They should be validated by error-statistical means: resampling stability, generalization of clusters to held-out data, out-of-sample likelihood, and train-on-synthetic scores. | Read |

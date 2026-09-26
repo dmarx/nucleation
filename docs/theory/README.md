@@ -49,6 +49,10 @@ this directory, then run `luria index`.
 
 **[Logic](tags/logic.md)** (0) — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
+**[Philosophy of mathematics](tags/philosophy-of-mathematics.md)** (0) — what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy).
+
+**[Religion](tags/religion.md)** (0) — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
+
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
 **By status:** [The current account](status/Active.md) (0) · [Offered](status/Proposed.md) (0) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (0) · [Replaced](status/Superseded.md) (0)
