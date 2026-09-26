@@ -2,9 +2,30 @@
 
 # Lines of work
 
-1 line, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+2 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
+
+## anthology-candidate
+
+### From The Role of the Information Bottleneck in Representation Learning
+
+- [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+  - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+## information-theory
+
+### From The Role of the Information Bottleneck in Representation Learning
+
+- [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+  - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+## learning-theory
+
+### From The Role of the Information Bottleneck in Representation Learning
+
+- [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+  - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
 
 ## metaphysics
 
@@ -26,3 +47,10 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
+
+## representation-learning
+
+### From The Role of the Information Bottleneck in Representation Learning
+
+- [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+  - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*

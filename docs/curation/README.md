@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 23:15 — Representation learning, description length and Riesz: an owner's reading list filed](2026-09.md#representation-learning-description-length-and-riesz-an-owners-reading-list-filed)
 - [26 Sep 22:53 — The information-theory tag, audited](2026-09.md#the-information-theory-tag-audited)
 - [26 Sep 22:47 — The last three philosophy tags, and what the philosophy passes could not reach](2026-09.md#the-last-three-philosophy-tags-and-what-the-philosophy-passes-could-not-reach)
 - [26 Sep 22:33 — The philosophy-of-science tag, read through](2026-09.md#the-philosophy-of-science-tag-read-through)
@@ -31,8 +32,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-22 entries across 1 book, newest first.
+23 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 22 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 23 | 2026-09-25 | 2026-09-26 |

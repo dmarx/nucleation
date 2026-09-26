@@ -5,7 +5,7 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**45 document(s) awaiting a decision.**
+**67 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -52,11 +52,33 @@
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
+| 2026-09-26 | Deferred | [LIT-224](../../record/literature.d/LIT-224.md) | 1 | 0 | Shannon Information and Kolmogorov Complexity |
+| 2026-09-26 | Deferred | [LIT-225](../../record/literature.d/LIT-225.md) | 1 | 0 | Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity |
+| 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 1 | 0 | The Conditional Entropy Bottleneck |
+| 2026-09-26 | Deferred | [LIT-227](../../record/literature.d/LIT-227.md) | 1 | 0 | Contrastive Learning Is Spectral Clustering On Similarity Graph |
+| 2026-09-26 | Deferred | [LIT-228](../../record/literature.d/LIT-228.md) | 1 | 0 | Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Local Spectral Embedding Methods |
+| 2026-09-26 | Deferred | [LIT-229](../../record/literature.d/LIT-229.md) | 1 | 0 | Meaningful Information |
+| 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 1 | 0 | Riesz representation theorem (Wikipedia) |
+| 2026-09-26 | Deferred | [LIT-231](../../record/literature.d/LIT-231.md) | 1 | 0 | The Hidden Uniform Cluster Prior in Self-Supervised Learning |
+| 2026-09-26 | Deferred | [LIT-232](../../record/literature.d/LIT-232.md) | 1 | 0 | Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding |
+| 2026-09-26 | Deferred | [LIT-233](../../record/literature.d/LIT-233.md) | 1 | 0 | Data-Dependent Generalization Bounds via Variable-Size Compressibility |
+| 2026-09-26 | Deferred | [LIT-234](../../record/literature.d/LIT-234.md) | 1 | 0 | The Effects of Regularization and Data Augmentation are Class Dependent |
+| 2026-09-26 | Deferred | [LIT-235](../../record/literature.d/LIT-235.md) | 1 | 0 | When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis |
+| 2026-09-26 | Deferred | [LIT-236](../../record/literature.d/LIT-236.md) | 1 | 0 | Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms |
+| 2026-09-26 | Deferred | [LIT-237](../../record/literature.d/LIT-237.md) | 1 | 0 | Bra–ket notation (Wikipedia) |
+| 2026-09-26 | Deferred | [LIT-238](../../record/literature.d/LIT-238.md) | 1 | 0 | Minimum Description Length Revisited |
+| 2026-09-26 | Deferred | [LIT-239](../../record/literature.d/LIT-239.md) | 1 | 0 | Kolmogorov's Structure Functions and Model Selection |
+| 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 1 | 0 | Gelfand–Naimark–Segal construction (Wikipedia) |
+| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 1 | 0 | On the Stepwise Nature of Self-Supervised Learning |
+| 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 1 | 0 | Hilbert Spaces and the Riesz Representation Theorem |
+| 2026-09-26 | Deferred | [LIT-244](../../record/literature.d/LIT-244.md) | 1 | 0 | Natural Kinds (Stanford Encyclopedia of Philosophy) |
+| 2026-09-26 | Deferred | [LIT-245](../../record/literature.d/LIT-245.md) | 1 | 0 | Minimum Description Length and Generalization Guarantees for Representation Learning |
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |
 | 2026-09-26 | Deferred | [LIT-134](../../record/literature.d/LIT-134.md) | 0 | 0 | The Duality of Content |
+| 2026-09-26 | Deferred | [LIT-240](../../record/literature.d/LIT-240.md) | 0 | 0 | The Role of the Information Bottleneck in Representation Learning |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (6): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (7): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [LIT-240](../../record/literature.d/LIT-240.md) — these are the cheapest to close, since nothing depends on the answer.

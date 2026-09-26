@@ -25,6 +25,10 @@ this directory, then run `luria index`.
 
 **[Information theory](tags/information-theory.md)** (0) — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
+**[Representation learning](tags/representation-learning.md)** (0) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
+
+**[Learning theory](tags/learning-theory.md)** (0) — why learning generalizes — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection.
+
 **[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
 **[Linguistics](tags/linguistics.md)** (0) — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.

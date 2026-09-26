@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-9 of 9 decisions. Back to the [full index](../README.md).
+10 of 10 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [ADR-007](../../../record/decisions.d/ADR-007.md) | philosophy-of-mathematics and religion join the topics | Two words join the topic vocabulary. `philosophy-of-mathematics` covers what mathematics is about and how we know it, and joins the `philosophy` group. `religion` covers religion as a subject, and stands outside the group. The pass over the `metaphysics` tag found works that `mathematics` and the existing philosophy words describe only approximately. | Active |
 | [ADR-008](../../../record/decisions.d/ADR-008.md) | No reader sends an email address to any service | An agent reading for this record never supplies an email address to an outside service: not the owner's, not anyone's. Where an API asks for one, the field is left out, or given `noreply@anthropic.com`. The rule is in the reading brief every reader follows, because on 2026-09-26 a reader sent the owner's address to a lookup service. | Active |
 | [ADR-009](../../../record/decisions.d/ADR-009.md) | philosophy-of-language joins the topics | `philosophy-of-language` joins the topic vocabulary and the `philosophy` group. It covers meaning, content and reference as philosophy poses them. The pass over the `philosophy-of-science` tag found a paper on meaning holism tagged philosophy of science for want of the right word, and four more held works share the gap. | Active |
+| [ADR-010](../../../record/decisions.d/ADR-010.md) | representation-learning and learning-theory join the topics | Two words join the topic vocabulary. `representation-learning` covers how learned systems come to represent their data. `learning-theory` covers why learning generalizes. The owner asked the record to file a set of papers on self-supervised learning, information bottlenecks, description length and generalization bounds. Nothing in the vocabulary could say what they are about. | Active |
