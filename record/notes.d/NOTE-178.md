@@ -38,7 +38,6 @@ summary: >-
   which models are charts on a successor theory's moduli space.
 ---
 <!-- inactive-ok-file: LIT-215 — Rejected on its 2026-09-26 close reading: cited as a related or contrasting view, not as a result -->
-<!-- inactive-ok-file: LIT-115 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-178: De Haro & Butterfield — Philosophy and Physics of Duality
 

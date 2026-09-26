@@ -40,7 +40,6 @@ summary: >-
   community-level individuality (§3).
 ---
 <!-- inactive-ok-file: LIT-201 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-160 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-110 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->

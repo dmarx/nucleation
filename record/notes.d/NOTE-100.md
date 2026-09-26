@@ -39,7 +39,6 @@ summary: >-
   2008 for autonomy; interventional MI across grains, Griffiths et al.'s
   INF, for control), and neither is computed.
 ---
-<!-- inactive-ok-file: LIT-160 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->

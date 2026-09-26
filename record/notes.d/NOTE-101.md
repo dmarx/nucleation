@@ -11,7 +11,6 @@ summary: >-
   The Price equation is not a model on its own, as critics say, but a Kuhnian "generalization-sketch" — an abstract, unifying, invariant schema specialised into concrete models — which defuses disputes such as the one over Hamilton's rule and vindicates the analogy with Newton's second law.
 ---
 <!-- inactive-ok-file: LIT-201 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-160 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-205 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
