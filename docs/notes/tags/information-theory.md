@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-29 of 218 NOTE documents. Back to the [full index](../README.md).
+33 of 234 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -37,3 +37,7 @@
 | [NOTE-212](../../../record/notes.d/NOTE-212.md) | Meaningful information (sophistication) | With total recursive functions as the model class, the algorithmic minimal sufficient statistic ("sophistication") is a non-trivial measure of meaningful information. It matches the finite-set and probability-model versions up to additive terms, some objects are entirely meaningful with no residual randomness, and it is not computable. | Skimmed |
 | [NOTE-213](../../../record/notes.d/NOTE-213.md) | Shannon information vs Kolmogorov complexity (survey) | Shannon's and Kolmogorov's theories line up concept by concept (entropy vs complexity, probabilistic vs algorithmic mutual information and sufficient statistics, rate-distortion vs structure function), and in each pair the Shannon notion is, up to additive terms, the expectation of the Kolmogorov one. | Skimmed |
 | [NOTE-216](../../../record/notes.d/NOTE-216.md) | Variable-size compressibility generalization bounds | Letting the compression rate of an algorithm's input data vary with the observed sample yields generalization bounds that depend on the empirical measure rather than the unknown distribution, and this single framework recovers PAC-Bayes and data-dependent intrinsic-dimension bounds as special cases. | Skimmed |
+| [NOTE-224](../../../record/notes.d/NOTE-224.md) | Belghazi et al., MINE | Mutual information is stated measure-theoretically as the expectation under the joint of log dP_XZ/d(P_X⊗P_Z), and its Donsker–Varadhan dual is tight exactly at T* = log dP/dQ + C, so a neural critic trained on the dual is a log Radon–Nikodym-derivative estimator. | Skimmed |
+| [NOTE-229](../../../record/notes.d/NOTE-229.md) | Information Theory with Kernel Methods | With a kernel normalised to k(x,x) = 1, the covariance operator Σ_p = E_p[ϕ(x)ϕ(x)*] is a density operator (PSD, unit trace), injective in p when k² is universal. Its von Neumann entropy and relative entropy behave like Shannon quantities, with D(Σ_p‖Σ_q) ≤ D(p‖q), and the empirical versions are computed from the normalised Gram matrix K/n. | Skimmed |
+| [NOTE-232](../../../record/notes.d/NOTE-232.md) | Tschannen et al., on MI maximization for representations | The success of InfoNCE-style representation learning cannot be attributed to mutual information itself: MI is invariant under invertible reparametrizations, invertible encoders that maximize true MI can be worse than raw pixels, and tighter MI bounds from higher-capacity critics can give worse representations. | Skimmed |
+| [NOTE-233](../../../record/notes.d/NOTE-233.md) | Poole et al., variational bounds of mutual information | Every variational lower bound on mutual information in use — Barber–Agakov, Donsker–Varadhan/MINE, NWJ/f-GAN-KL, InfoNCE — is one family, tight at a critic that is a function of the log density ratio log p(y\|x)/p(y), and InfoNCE is the multi-sample member that trades variance for a hard ceiling of log K. | Skimmed |

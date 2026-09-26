@@ -6,8 +6,8 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-0 of 0 THEORY documents. Back to the [full index](../README.md).
+1 of 9 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-002](../../../record/theory.d/THEORY-002.md) | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation | An inference joining Huh et al.'s Platonic hypothesis ([ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md)) to Nielsen et al. ([LIT-253](../../../record/literature.d/LIT-253.md)) and Harvey, Larsen & Williams ([LIT-250](../../../record/literature.d/LIT-250.md)). It does not refute the hypothesis; it says what the hypothesis can and cannot mean. | Proposed |

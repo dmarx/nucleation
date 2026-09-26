@@ -2,6 +2,21 @@
 
 # Lines of explanation
 
-0 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+2 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
+
+## representation-learning
+
+### From On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio
+
+- [THEORY-001](../record/theory.d/THEORY-001.md) — On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio *(Proposed)*
+  - [THEORY-007](../record/theory.d/THEORY-007.md) — Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets *(Proposed)*
+    - [THEORY-005](../record/theory.d/THEORY-005.md) — The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite *(Proposed)*
+    - [THEORY-009](../record/theory.d/THEORY-009.md) — Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem *(Proposed)*
+
+### From A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+
+- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
+  - [THEORY-002](../record/theory.d/THEORY-002.md) — Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation *(Proposed)*
+  - [THEORY-008](../record/theory.d/THEORY-008.md) — What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Proposed)*

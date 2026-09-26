@@ -6,7 +6,7 @@
 
 **Agency** — what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy).
 
-0 of 0 THEORY documents. Back to the [full index](../README.md).
+0 of 9 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

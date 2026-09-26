@@ -4,7 +4,7 @@
 
 **quantum-foundations**.
 
-36 of 218 NOTE documents. Back to the [full index](../README.md).
+37 of 234 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -44,3 +44,4 @@
 | [NOTE-192](../../../record/notes.d/NOTE-192.md) | Science, Metaphysics and Structural Realism | Ladyman argues that structural realism should be metaphysically, not epistemically, revisionary. He gives three grounds. Quantum statistics leaves the individuality of particles underdetermined: permutation invariance gives 3 two-particle states, not 4, so probabilities are 1/3 rather than 1/4 (p. 62). Entangled states give non-supervenient relations that refute Humean supervenience (pp. 71–73). The hole argument blocks point-based substantivalism (pp. 68–69). He proposes that science describes "the modal structure of the phenomena" (p. 73), with modal realism supplying the no-miracles intuition. The paper ends non-eliminatively: "the phenomena have structure but they are not structure" (p. 74). | Read |
 | [NOTE-204](../../../record/notes.d/NOTE-204.md) | GNS construction (Wikipedia) | Any state (positive normalized linear functional) on a C*-algebra determines, essentially uniquely, a Hilbert space and a cyclic *-representation in which that state becomes a vector expectation ρ(a)=⟨π(a)ξ,ξ⟩, and the representation is irreducible exactly when the state is pure. | Skimmed |
 | [NOTE-215](../../../record/notes.d/NOTE-215.md) | Bra–ket notation (Wikipedia) | Dirac's bra–ket notation writes vectors as kets and continuous linear functionals as bras, and on a Hilbert space the Riesz representation theorem is what licenses treating every bra as the conjugate of a ket, so that ⟨φ\|ψ⟩ is at once a functional applied to a vector and an inner product. | Skimmed |
+| [NOTE-220](../../../record/notes.d/NOTE-220.md) | Jorgensen & Tian, Noncommutative Analysis (GNS, RKHS) | The textbook puts the kernel construction and the GNS construction in one frame. It calls building a Hilbert space from a positive definite function "the GNS construction", and proves (Cor. 1.35) that the feature map realising a kernel as inner products is unique up to a unitary among minimal realisations. It also states that in the abelian case states are exactly probability measures, so that "the GNS construction is non-commutative measure theory". | Skimmed |

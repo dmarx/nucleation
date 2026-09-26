@@ -6,8 +6,10 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-0 of 0 THEORY documents. Back to the [full index](../README.md).
+3 of 9 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-001](../../../record/theory.d/THEORY-001.md) | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio | Johnson, El Hanchi & Maddison (2023), [LIT-258](../../../record/literature.d/LIT-258.md) — over unconstrained functions on a finite augmentation space, the population minimizer of the spectral contrastive and NT-Logistic losses is K⁺ = p⁺(a₁,a₂)/(p(a₁)p(a₂)), and that of NT-Xent/InfoNCE is K⁺ up to a factor constant on communicating classes. It is a statement about the unconstrained optimum, not about what a network reaches. | Proposed |
+| [THEORY-005](../../../record/theory.d/THEORY-005.md) | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite | An inference assembled on 2026-09-26 from Johnson, El Hanchi & Maddison ([LIT-258](../../../record/literature.d/LIT-258.md)), Tosh, Krishnamurthy & Hsu ([LIT-251](../../../record/literature.d/LIT-251.md)) and HaoChen et al. ([LIT-249](../../../record/literature.d/LIT-249.md)), with a two-line derivation of the record's own. No source states the operator formulation with its integrability condition. | Proposed |
+| [THEORY-006](../../../record/theory.d/THEORY-006.md) | InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size | Poole et al. (2019), [LIT-246](../../../record/literature.d/LIT-246.md), §2.3, Eqs. 8–10 — an exact proof (CPC's own derivation, [ANTH-LIT-589](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-589.md), passes through an approximation). Tschannen et al. ([LIT-247](../../../record/literature.d/LIT-247.md)) show that tightening the bound does not explain what makes the representations good. | Proposed |

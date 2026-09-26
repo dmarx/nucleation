@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 23:42 — Riesz, Radon–Nikodym and GNS in representation learning: the connections pursued](2026-09.md#riesz-radonnikodym-and-gns-in-representation-learning-the-connections-pursued)
 - [26 Sep 23:15 — Representation learning, description length and Riesz: an owner's reading list filed](2026-09.md#representation-learning-description-length-and-riesz-an-owners-reading-list-filed)
 - [26 Sep 22:53 — The information-theory tag, audited](2026-09.md#the-information-theory-tag-audited)
 - [26 Sep 22:47 — The last three philosophy tags, and what the philosophy passes could not reach](2026-09.md#the-last-three-philosophy-tags-and-what-the-philosophy-passes-could-not-reach)
@@ -32,8 +33,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-23 entries across 1 book, newest first.
+24 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 23 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 24 | 2026-09-25 | 2026-09-26 |

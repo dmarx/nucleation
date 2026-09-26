@@ -6,7 +6,7 @@
 
 **Watching** — promising and unproven; the note says what would settle it.
 
-18 of 245 LIT documents. Back to the [full index](../README.md).
+18 of 261 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

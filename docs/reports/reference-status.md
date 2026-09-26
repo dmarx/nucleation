@@ -9,13 +9,63 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**20 documents cited without acknowledgement.** Not listed: 263 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**28 documents cited without acknowledgement.** Not listed: 355 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
 ```
 <!-- inactive-ok: ADR-012 — why this citation is right -->
 ```
+
+### [LIT-242](../../record/literature.d/LIT-242.md) — Deferred
+
+On the Stepwise Nature of Self-Supervised Learning
+
+8 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-261.md:48`](../../record/literature.d/LIT-261.md)
+- [`record/notes.d/NOTE-230.md:34`](../../record/notes.d/NOTE-230.md)
+- [`record/theory.d/THEORY-007.md:22`](../../record/theory.d/THEORY-007.md)
+- [`record/theory.d/THEORY-007.md:43`](../../record/theory.d/THEORY-007.md)
+- [`record/theory.d/THEORY-007.md:55`](../../record/theory.d/THEORY-007.md)
+- [`record/theory.d/THEORY-009.md:21`](../../record/theory.d/THEORY-009.md)
+- [`record/theory.d/THEORY-009.md:25`](../../record/theory.d/THEORY-009.md)
+- [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
+
+### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
+
+Contrastive Learning Is Spectral Clustering On Similarity Graph
+
+5 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
+- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
+- [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
+- [`record/theory.d/THEORY-001.md:22`](../../record/theory.d/THEORY-001.md)
+- [`record/theory.d/THEORY-001.md:42`](../../record/theory.d/THEORY-001.md)
+
+### [LIT-228](../../record/literature.d/LIT-228.md) — Deferred
+
+Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Local Spectral Embedding Methods
+
+5 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
+- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
+- [`record/theory.d/THEORY-007.md:21`](../../record/theory.d/THEORY-007.md)
+- [`record/theory.d/THEORY-007.md:43`](../../record/theory.d/THEORY-007.md)
+- [`record/theory.d/THEORY-007.md:56`](../../record/theory.d/THEORY-007.md)
+
+### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
+
+The Conditional Entropy Bottleneck
+
+4 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-246.md:54`](../../record/literature.d/LIT-246.md)
+- [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
+- [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
+- [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
 
 ### [LIT-106](../../record/literature.d/LIT-106.md) — Deferred
 
@@ -46,6 +96,26 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
 - [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
+
+### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
+
+Riesz representation theorem (Wikipedia)
+
+3 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/theory.d/THEORY-009.md:22`](../../record/theory.d/THEORY-009.md)
+- [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
+- [`record/theory.d/THEORY-009.md:45`](../../record/theory.d/THEORY-009.md)
+
+### [LIT-235](../../record/literature.d/LIT-235.md) — Deferred
+
+When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis
+
+3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
+- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
+- [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
 
 ### [LIT-119](../../record/literature.d/LIT-119.md) — Deferred
 
@@ -82,6 +152,24 @@ Blunting concepts: The double-edged effect of popularizing psychotherapy languag
 
 - [`record/decisions.d/ADR-009.md:37`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
+
+### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
+
+Gelfand–Naimark–Segal construction (Wikipedia)
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:39`](../../record/theory.d/THEORY-004.md)
+
+### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
+
+Hilbert Spaces and the Riesz Representation Theorem
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-256.md:51`](../../record/literature.d/LIT-256.md)
+- [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 

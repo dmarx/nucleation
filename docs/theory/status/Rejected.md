@@ -6,7 +6,7 @@
 
 **Disbelieved** — tested and failed, or contradicted by later work — and the thing it explained may still work perfectly well.
 
-0 of 0 THEORY documents. Back to the [full index](../README.md).
+0 of 9 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
