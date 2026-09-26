@@ -4,8 +4,8 @@
 
 **agency**.
 
-1 of 87 NOTE documents. Back to the [full index](../README.md).
+1 of 88 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [NOTE-032](../../../record/notes.d/NOTE-032.md) | Work capacity of channels with memory | When an agent's actions change what it later perceives, the maximum rate at which it can extract work from its environment (the environment channel's "work capacity") is in general reached neither by a maximally predictive agent nor by one that randomizes its actions and forgets them. Prediction and forgetting have to be traded off. | Skimmed |
+| [NOTE-032](../../../record/notes.d/NOTE-032.md) v2 | Work capacity of channels with memory | The paper models agent and environment as coupled finite hidden-Markov channels. It defines the environment's work capacity C_work = max over agent models of ⟨H(A_t\|M_t) − H(S_t\|M_t)⟩_t (in k_BT ln 2 per round) and proves two things. First, for unifilar environments whose percepts ignore actions, the efficient agents are exactly the randomize-and-forget ∩ maximally-predictive ones, and C_work = log\|A\| − h(S). Second, one binary memoryless environment exists where predictive, max-entropy-action and efficient agents form three nonempty, pairwise-disjoint sets: every predictive agent extracts ≤ 0, uniform-random agents extract 1 − h(3/4) ≈ 0.189 bits, and the optimum is ½·log₂(3/4 + 1/√2) ≈ 0.272 bits, reached by a memoryless agent that plays action 0 with probability 1/√2. | Read |

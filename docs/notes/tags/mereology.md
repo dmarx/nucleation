@@ -4,9 +4,9 @@
 
 **mereology**.
 
-2 of 87 NOTE documents. Back to the [full index](../README.md).
+2 of 88 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-027](../../../record/notes.d/NOTE-027.md) | Adding causality to individuality | Of Krakauer et al.'s (2020) three mutual-information "individuality" terms (A* = I(S_{t+1}; S_t), A = I(S_{t+1}; S_t \| E_t), nC = I(S_{t+1}; E_t \| S_t)), Bourrat argues that nC and A* are not individuality measures. He then proposes the interventional Â = I(S_{t+1}; Ŝ_t) (Eq. 6) and two ETI criteria: C1, a normalised Â_{S2}/H(Ŝ2) ≥ Â_{S1}/H(Ŝ1)\|θ₀, and C2, low Var(Â_{S2} \| Ê2 = ê2k). None of these is computed on any system. The paper's claim that Â ≡ I(S_{t+1}; S_t \| E_t) = A in Krakauer's model is false in general. | Read |
-| [NOTE-064](../../../record/notes.d/NOTE-064.md) | Bourrat 2023, a coarse-graining account of individuality | Higher-level biological individuals are coarse-grained summaries of lower-level entities. Their quasi-ontological status comes from the pragmatic fact that, under limited measurement and computation, a coarse-grained model predicts further ahead than a fine-grained one, and this is what justifies assigning collectives their own fitness parameter at the last stage of an evolutionary transition. | Skimmed |
+| [NOTE-064](../../../record/notes.d/NOTE-064.md) v2 | Bourrat 2023, a coarse-graining account of individuality | Bourrat proposes that a partition of particles into collectives defines individuals when the "projected" prediction (coarse-grain at t1, then evolve the coarse-grained state) differs from the "truthful" one (evolve at the fine grain, then coarse-grain at t2) by δC = C_T − C_P < θ, across many traits (Eqs. 1–2). He argues that, because measurement and computation are finite, coarse-graining can be the only way to predict at all: in his example, 100 operations predict 10 entities for 10 timesteps or 2 collectives for 50. That indispensability is his whole case for the "quasi-ontological" status of collectives at Godfrey-Smith and Kerr's fifth stage. Nothing is computed on any model. | Read |

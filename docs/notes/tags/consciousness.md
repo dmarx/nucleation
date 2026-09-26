@@ -4,9 +4,9 @@
 
 **consciousness**.
 
-2 of 87 NOTE documents. Back to the [full index](../README.md).
+2 of 88 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-036](../../../record/notes.d/NOTE-036.md) | Lindahl et al. 2017, varieties of contemplative experience | Among 60 Western Buddhist meditators, purposively sampled for difficulties, plus teacher-experts, meditation-related experiences fall into 59 categories across 7 domains (cognitive, perceptual, affective, somatic, conative, sense of self, social). The same experience can be very positive or very negative, and 73% reported moderate-to-severe impairment in at least one domain, with a median symptom duration of 1–3 years. | Skimmed |
-| [NOTE-052](../../../record/notes.d/NOTE-052.md) | Consciousness in AI: indicator properties | Assuming computational functionalism, the report derives a rubric of 14 "indicator properties" from leading neuroscientific theories of consciousness (RPT, GWT, computational HOTs, AST, PP, agency and embodiment). Applying it, the authors find that no current AI system is a strong candidate for consciousness, and that there are no obvious technical barriers to building systems that satisfy many of the indicators. | Skimmed |
+| [NOTE-052](../../../record/notes.d/NOTE-052.md) v2 | Consciousness in AI: indicator properties | The report assumes computational functionalism and takes a "theory-heavy" approach. From it the authors derive 14 indicator properties: RPT-1–2, GWT-1–4, HOT-1–4, AST-1, PP-1 and AE-1–2. The claim for them is only that more of them raises the probability of consciousness. They assess a handful of systems against subsets of the list and conclude that no current system "appears to be a strong candidate". Transformer LLMs have "only a relatively weak case" for any GWT indicator, because a single forward pass has no recurrence or global broadcast. Perceiver arguably has GWT-1, GWT-2 and half of GWT-4 but lacks broadcast. Among the embodied agents, AdA is the likeliest to meet AE-2. Most indicators could be built with standard ML techniques. The abstract's "no current AI systems are conscious" is stronger than anything the body shows. | Read |

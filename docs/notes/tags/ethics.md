@@ -4,9 +4,9 @@
 
 **ethics**.
 
-2 of 87 NOTE documents. Back to the [full index](../README.md).
+2 of 88 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-019](../../../record/notes.d/NOTE-019.md) v2 | Reckless disregard for the truth coming from cops, doctors, and scientists | Gelman argues that scientists (a 3-day study titled "long-term"; the power-pose abstract's "instantly become more powerful"), a paid medical expert (Ludmerer's 2002 "no opinion" on smoking and lung cancer) and DHS spokespeople (Lander "assaulting", Padilla "lunging", ICE's unsourced "413 percent" assaults) share one pattern, which he calls "reckless disregard for the truth". In his account it strengthens a weak case, is carried by journals, courts and media, is accepted as a term of art and goes unpunished. It is negative-sum, and bystanders who tolerate it sustain it. | Read |
-| [NOTE-034](../../../record/notes.d/NOTE-034.md) | Curry et al. 2019, morality-as-cooperation in 60 societies | In the ethnographic records of the 60-society HRAF Probability Sample, seven cooperative behaviours predicted by game theory are morally valenced positively in 961 of 962 observations (99.9%). These are helping kin, helping one's group, reciprocating, bravery, deference to superiors, dividing disputed resources, and respecting prior possession. The authors treat them as candidate universal moral rules. | Skimmed |
+| [NOTE-034](../../../record/notes.d/NOTE-034.md) v2 | Curry et al. 2019, morality-as-cooperation in 60 societies | Coding 3,460 eHRAF paragraphs on the 60 Probability Sample Files societies found 962 morally valenced mentions of seven cooperative behaviours, 961 of them positive. The one negative is Chuuk admiration of open theft as dominance. Presence varied widely by domain: property 54/60 (90%), kin 47 (78%), group 44 (73%), reciprocity 43 (72%), respect 35 (58%), bravery 32 (53%), fairness 9 (15%). Presence correlated with ethnographic coverage (r = 0.43). The design can detect a morally positive mention but has almost no way to register a negative one, so the 99.9% is weak evidence for universality. | Read |

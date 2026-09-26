@@ -1,5 +1,8 @@
 ---
+number: 88
 status: Read
+formerly:
+- NOTE-tmp9in5l
 paper: LIT-053
 title: 'The Homological Nature of Entropy'
 version: 1
@@ -21,7 +24,7 @@ summary: >-
   (Thm 4).
 ---
 
-# NOTE-tmp9in5l: The Homological Nature of Entropy
+# NOTE-088: The Homological Nature of Entropy
 
 ## Contribution
 

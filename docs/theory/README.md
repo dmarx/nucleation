@@ -43,6 +43,8 @@ this directory, then run `luria index`.
 
 **[Cognition](tags/cognition.md)** (0) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
+**[Philosophy of science](tags/philosophy-of-science.md)** (0) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
+
 **By status:** [The current account](status/Active.md) (0) · [Offered](status/Proposed.md) (0) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (0) · [Replaced](status/Superseded.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
