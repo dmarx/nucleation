@@ -44,8 +44,6 @@ summary: >-
   learning".
 ---
 <!-- inactive-ok-file: LIT-133 — Rejected on its 2026-09-26 close reading: cited as a related framing, not as a result -->
-<!-- inactive-ok-file: NOTE-123 — Skimmed: another reading of a related work, cited for what its skim records; lapses when that paper is read in full -->
-<!-- inactive-ok-file: LIT-131 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-136: Safron et al. — World models and life–mind continuity
 

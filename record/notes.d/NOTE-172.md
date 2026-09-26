@@ -32,7 +32,6 @@ summary: >-
   generalization of clusters to held-out data, out-of-sample likelihood,
   and train-on-synthetic scores.
 ---
-<!-- inactive-ok-file: LIT-162 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-172: Watson — On the philosophy of unsupervised learning
 
