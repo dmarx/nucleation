@@ -45,7 +45,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-140 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-212 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-178 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-111 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-138: Goldstein & Lederman — What Does ChatGPT Want?
 

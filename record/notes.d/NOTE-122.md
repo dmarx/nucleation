@@ -35,9 +35,6 @@ summary: >-
   minimally conscious, and that IIT's implied "tiling" panpsychism is no
   worse than any rival metaphysics.
 ---
-<!-- inactive-ok-file: LIT-191 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-143 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-135 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-122: Barrett et al. — IIT: good, bad and misunderstood
 
