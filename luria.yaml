@@ -87,6 +87,9 @@ vocabularies:
       cognition:
         label: Cognition
         blurb: 'the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy)'
+      philosophy-of-science:
+        label: Philosophy of science
+        blurb: 'what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy)'
   lit-statuses:
     label: Paper statuses
     blurb: 'A work''s standing in this record: whether it is worth reading. Not whether its findings are
@@ -268,9 +271,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness and cognition. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition and philosophy of science. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition]
+            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, philosophy-of-science]
     axis: tags
   NOTE:
     dir: record/notes.d
