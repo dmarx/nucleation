@@ -10,8 +10,6 @@ date: '2026-09-26'
 summary: >-
   Freeborn explicates "systematic understanding" non-anthropocentrically: an internal model that tracks a real regularity without memorizing it, is linked to the target by bridge principles, and supports approximate derivation. On that account deep learning systems often genuinely understand, but in a "fractured" way — symbolically misaligned, non-reductive, weakly unifying and locally brittle (the Fractured Understanding Hypothesis).
 ---
-<!-- inactive-ok-file: LIT-207 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-195 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-148 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-131 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
