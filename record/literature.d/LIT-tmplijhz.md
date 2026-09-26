@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Kolmogorov''s Structure Functions and Model Selection'
+version: 1
+tags:
+- learning-theory
+- information-theory
+- mathematics
+date: '2026-09-26'
+published: '2002-04-16'
+arxiv: 'cs/0204037'
+doi: '10.1109/TIT.2004.838346'
+first_author: 'Vereshchagin'
+keywords:
+- 'structure function'
+- 'algorithmic minimal sufficient statistic'
+- 'model selection'
+- 'MDL'
+- 'randomness deficiency'
+- 'computability'
+implementations: []
+summary: >-
+  Vereshchagin & Vitányi (2002), [arXiv:cs/0204037](https://arxiv.org/abs/cs/0204037). The structure function of a single data string determines all of its stochastic properties: within any complexity-constrained model class it picks out the best-fitting model with certainty. Every admissible shape of that function occurs for some data, and neither it nor the minimal sufficient statistic is computable.
+---
+
+# LIT-tmplijhz: Kolmogorov's Structure Functions and Model Selection
+
+Nikolai K. Vereshchagin, Paul M. B. Vitányi (2002), *IEEE Transactions on Information Theory 50(12):3265–3290 (Dec 2004); in part in Proc. 43rd IEEE FOCS 2002; first appeared as arXiv preprint* — [arXiv:cs/0204037](https://arxiv.org/abs/cs/0204037)
+
+## Key takeaways
+
+- The structure function of a single data string determines all of its stochastic properties: within any complexity-constrained model class it picks out the best-fitting model with certainty. Every admissible shape of that function occurs for some data, and neither it nor the minimal sufficient statistic is computable.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Kolmogorov proposed in 1974 a non-probabilistic approach to statistics in which data are finite binary strings and models are finite sets containing them. The structure function h_x(α) gives, for each bound α on model complexity, the least log-cardinality of a model of that complexity that contains the data. The authors show that this function fixes all stochastic properties of the data. For every constrained model class it identifies the individually best-fitting model, and it does so with certainty rather than with high probability, whether or not the "true" model lies in the class. They quantify the goodness of fit of an individual model to individual data, show that every graph satisfying the obvious constraints is the structure function of some data, and settle the (un)computability of these functions and of the algorithmic minimal sufficient statistic.
+
+## Standing in the record
+
+Filed on 2026-09-26 at the owner's request, from a list they grouped under the heading *Relating K-complexity to minimum sufficient statistics*. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: high — the most load-bearing paper under this heading, and the skim gets its theorem shapes but not the proofs or the extension to other model classes.**
+
+What a deeper reading should check:
+
+- This is the technical core of "K-complexity ↔ minimal sufficient statistic". It is where two-part MDL gets a guarantee phrased about the individual datum rather than in expectation.
+- Check how the results carry over from finite-set models to probability and function models (the paper's appendix on "validity for extended models") before applying them to learning with parametric families.
+- The O(log n) slack is everywhere. A deeper reading should ask what survives at the data sizes and model complexities that matter in practice.
+
+Access when seeded: Identified from the Semantic Scholar link by title, then found on arXiv (v1 2002-04-16, v5 2004-08-05 = final journal version). Read the arXiv abstract page and the full v5 PDF text: §III overview, §IV theorem statements, §V (MDL, ML, non-stochastic objects), §VII, and Appendix I (oral history). I confirmed the DOI, volume, issue and pages through Crossref (no contact address sent). The arXiv comment says "Proc 47th IEEE FOCS", but FOCS 2002 was the 43rd; I have not verified which is right, so the FOCS number is unverified.

@@ -60,6 +60,12 @@ vocabularies:
       information-theory:
         label: Information theory
         blurb: 'entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning'
+      representation-learning:
+        label: Representation learning
+        blurb: 'how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge'
+      learning-theory:
+        label: Learning theory
+        blurb: 'why learning generalizes — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection'
       social-science:
         label: Social science
         blurb: 'economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy'

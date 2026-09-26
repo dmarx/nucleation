@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'The Effects of Regularization and Data Augmentation are Class Dependent'
+version: 1
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-09-26'
+published: '2022-04-07'
+arxiv: '2204.03632'
+doi: '10.52202/068431-2745'
+first_author: 'Balestriero'
+keywords:
+- 'regularization'
+- 'data augmentation'
+- 'weight decay'
+- 'per-class bias'
+- 'transfer learning'
+implementations: []
+summary: >-
+  Balestriero et al. (2022), [ARXIV-2204.03632](https://arxiv.org/abs/2204.03632). Regularizers tuned by cross-validation for average accuracy — random-crop augmentation and even uninformed weight decay — raise mean test accuracy while sharply lowering it on particular classes (e.g. ImageNet "barn spider" 68%→46% with random crop), and this class-dependent bias carries over to transfer tasks.
+---
+
+# LIT-tmph7seu: The Effects of Regularization and Data Augmentation are Class Dependent
+
+Randall Balestriero, Leon Bottou, Yann LeCun (2022), *Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 37878–37891* — [ARXIV-2204.03632](https://arxiv.org/abs/2204.03632)
+
+## Key takeaways
+
+- Regularizers tuned by cross-validation for average accuracy — random-crop augmentation and even uninformed weight decay — raise mean test accuracy while sharply lowering it on particular classes (e.g. ImageNet "barn spider" 68%→46% with random crop), and this class-dependent bias carries over to transfer tasks.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Deep networks rely on regularizers such as data augmentation and weight decay, with their strength chosen by cross-validation on average performance. The authors show that such regularization reduces model complexity unevenly across classes: the setting that is best on average can be very poor on some classes. The effect appears not only with semantically informed augmentation but also with weight decay, and it persists after transfer — an ImageNet-pretrained ResNet-50 evaluated on iNaturalist loses a large share of accuracy on some classes when random crops were used in pretraining. They conclude that regularizers without class-dependent bias remain an open problem.
+
+## Standing in the record
+
+Filed on 2026-09-26 at the owner's request, from a list they grouped under the heading *Representation learning as a spectral approximation*. `Deferred` because nobody has read it closely here yet, not on merit.
+
+Tagged `anthology-candidate` ([ADR-005](../decisions.d/ADR-005.md)): the seed judged it chiefly about machine-learning practice. It is kept here by the owner's decision of 2026-09-26 that new work stays in nucleation until a transfer is judged appropriate ([ADR-010](../decisions.d/ADR-010.md)).
+
+**Priority for a deeper reading: medium — the empirical claim is clear from the skim; worth a deeper read only to judge statistical robustness before citing it as a practice.**
+
+What a deeper reading should check:
+
+- A practice-relevant warning: reporting only average accuracy hides regularization-induced per-class regressions; supports evaluating per-class or worst-class metrics when tuning augmentation/weight decay.
+- Check the magnitude of the effect relative to run-to-run variance per class (ImageNet has 50 validation images per class).
+- Only loosely tied to the "spectral approximation" heading; its link is via Balestriero's line on augmentations defining the similarity graph (cf. k17).
+
+Access when seeded: arXiv abs page (v1 submitted 2022-04-07) and full PDF v2 (2022-04-08) read via pymupdf text extraction; NeurIPS proceedings metadata gives pp. 37878–37891, date 2022-12-06; DOI 10.52202/068431-2745 from Crossref (title and pages match). The owner's link was the NeurIPS PDF; the arXiv version was read, not that PDF.
