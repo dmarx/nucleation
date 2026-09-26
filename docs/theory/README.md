@@ -45,6 +45,10 @@ this directory, then run `luria index`.
 
 **[Philosophy of science](tags/philosophy-of-science.md)** (0) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
+**[Epistemology](tags/epistemology.md)** (0) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
+
+**[Logic](tags/logic.md)** (0) — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
+
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
 **By status:** [The current account](status/Active.md) (0) · [Offered](status/Proposed.md) (0) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (0) · [Replaced](status/Superseded.md) (0)

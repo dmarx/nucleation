@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 05:58 — The papers-feed swept for philosophy: 119 works seeded](2026-09.md#the-papers-feed-swept-for-philosophy-119-works-seeded)
 - [26 Sep 01:56 — The low tier, read: every reachable work in the record now has a Read NOTE](2026-09.md#the-low-tier-read-every-reachable-work-in-the-record-now-has-a-read-note)
 - [26 Sep 01:32 — The survey's first and second tiers, read](2026-09.md#the-surveys-first-and-second-tiers-read)
 - [25 Sep 22:45 — Sixty-five more, seeded, and the order to read them in](2026-09.md#sixty-five-more-seeded-and-the-order-to-read-them-in)
@@ -16,8 +17,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-7 entries across 1 book, newest first.
+8 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 7 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 8 | 2026-09-25 | 2026-09-26 |

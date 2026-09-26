@@ -24,8 +24,8 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 ## By tag
 
-**[The record](tags/record.md)** (5) — what the schemes hold, and the rules between them:
-[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md) · [004](../../record/decisions.d/ADR-004.md) · [005](../../record/decisions.d/ADR-005.md)
+**[The record](tags/record.md)** (6) — what the schemes hold, and the rules between them:
+[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md) · [004](../../record/decisions.d/ADR-004.md) · [005](../../record/decisions.d/ADR-005.md) · [006](../../record/decisions.d/ADR-006.md)
 
 **[Taxonomy](tags/taxonomy.md)** (0) — the topic vocabulary and what enforces it.
 
@@ -33,7 +33,7 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 **[Migration](tags/migration.md)** (0) — what moves between this record and the Anthology of the SOTA, and why.
 
-**By status:** [Active](status/Active.md) (5) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (6) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
 
 ## Chronological
 
@@ -54,4 +54,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [ADR-003](../../record/decisions.d/ADR-003.md) | Ten more topics, seven of them grouped as philosophy | The topic vocabulary gains information-theory, social-science and linguistics, and seven philosophy words — metaphysics, mereology, agency, identity, ethics, consciousness, cognition — which a `philosophy` tag group labels as a set. The group is a label (`require: any`), not a rule: a work may carry any number of them, alongside any other topic. | Active |
 | [ADR-004](../../record/decisions.d/ADR-004.md) | philosophy-of-science joins the philosophy group | An eighth philosophy word, `philosophy-of-science`, for what science is and what its theories say about the world: realism and structural realism, explanation, causation and evidence, the interpretation of physical theories. It joins the `philosophy` tag group [ADR-003](../../record/decisions.d/ADR-003.md) declared. | Active |
 | [ADR-005](../../record/decisions.d/ADR-005.md) | anthology-candidate: a curation flag in the tag vocabulary | A work that may belong in the Anthology of the SOTA carries the tag `anthology-candidate`, after its topics and never first. The tag is a curation flag, not a subject, and a `flags` tag group labels it as one. Its generated tag page is the report of pending transfers. The work stays here until somebody decides to move it. | Active |
+| [ADR-006](../../record/decisions.d/ADR-006.md) | epistemology and logic join the philosophy group | Two philosophy words join the topics and the `philosophy` tag group. `epistemology` covers knowledge, belief and evidence. `logic` covers valid inference and its formal theories. The 2026-09-26 sweep of the papers-feed tracker for philosophy found works that neither word's nearest neighbour describes. | Active |
 
