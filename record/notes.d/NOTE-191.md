@@ -1,6 +1,9 @@
 ---
+number: 191
 status: Read
-paper: LIT-tmpazqjv
+formerly:
+- NOTE-tmpkt67x
+paper: LIT-219
 title: 'Patterns All the Way Up'
 version: 1
 history:
@@ -32,7 +35,7 @@ summary: >-
   "problematic" because it refers to fundamental physics (p. 8).
 ---
 
-# NOTE-tmpkt67x: Patterns All the Way Up
+# NOTE-191: Patterns All the Way Up
 
 ## Contribution
 

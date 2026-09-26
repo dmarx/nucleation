@@ -1,6 +1,9 @@
 ---
+number: 190
 status: Read
-paper: LIT-tmpeniq7
+formerly:
+- NOTE-tmpii6cu
+paper: LIT-220
 title: 'Real Patterns'
 version: 1
 history:
@@ -29,7 +32,7 @@ summary: >-
   settle between them (p. 49).
 ---
 
-# NOTE-tmpii6cu: Real Patterns
+# NOTE-190: Real Patterns
 
 ## Contribution
 

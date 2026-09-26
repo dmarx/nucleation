@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 20:23 — Ladyman and Ross on the record: ontic structural realism and rainforest realism](2026-09.md#ladyman-and-ross-on-the-record-ontic-structural-realism-and-rainforest-realism)
 - [26 Sep 19:58 — A pass over the consciousness tag: eleven readings, and The Weirdness of the World](2026-09.md#a-pass-over-the-consciousness-tag-eleven-readings-and-the-weirdness-of-the-world)
 - [26 Sep 19:20 — A pass over the identity tag: five readings, five retags, five summaries repaired](2026-09.md#a-pass-over-the-identity-tag-five-readings-five-retags-five-summaries-repaired)
 - [26 Sep 19:01 — A pass over the metaphysics tag: thirty-two readings, two new topics](2026-09.md#a-pass-over-the-metaphysics-tag-thirty-two-readings-two-new-topics)
@@ -23,8 +24,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-14 entries across 1 book, newest first.
+15 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 14 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 15 | 2026-09-25 | 2026-09-26 |

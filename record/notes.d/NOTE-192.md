@@ -1,6 +1,9 @@
 ---
+number: 192
 status: Read
-paper: LIT-tmp32dfc
+formerly:
+- NOTE-tmpw4jr1
+paper: LIT-217
 title: 'Science, Metaphysics and Structural Realism'
 version: 1
 history:
@@ -30,7 +33,7 @@ summary: >-
   structure" (p. 74).
 ---
 
-# NOTE-tmpw4jr1: Science, Metaphysics and Structural Realism
+# NOTE-192: Science, Metaphysics and Structural Realism
 
 ## Contribution
 

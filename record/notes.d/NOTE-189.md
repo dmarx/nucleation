@@ -1,6 +1,9 @@
 ---
+number: 189
 status: Read
-paper: LIT-tmp9hl55
+formerly:
+- NOTE-tmp90bwi
+paper: LIT-218
 title: 'Ontic Structural Realism and Economics'
 version: 1
 history:
@@ -31,7 +34,7 @@ summary: >-
   "book-keeping devices".
 ---
 
-# NOTE-tmp90bwi: Ontic Structural Realism and Economics
+# NOTE-189: Ontic Structural Realism and Economics
 
 ## Contribution
 
