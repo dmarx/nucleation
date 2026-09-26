@@ -1,0 +1,65 @@
+---
+status: Active
+status_note: 'read in full 2026-09-26 ([NOTE-tmp85p2p](../notes.d/NOTE-tmp85p2p.md)); Worth reading as the short, canonical statement of the category-theoretic defence of radical OSR, which the later literature (yo3; Lal & Teh; Eva 2016) responds to. Read it with yo3. Its central inference is overstated, and its GR section contains technical errors that yo3 documents.'
+title: 'Category-theoretic structure and radical ontic structural realism'
+version: 2
+history:
+- version: 2
+  date: '2026-09-26'
+  note: >-
+    Read in full (Full text of the published article, Synthese 190(9)
+    (2013), pp. 1621–1635, from the typeset PDF on the author's own site (15
+    pp.). Read all of it: the abstract; §1 Introduction; §2 "No relations
+    without relata?" (2.1 set theory versus category theory, 2.2 elimination
+    of relata in name only); §3 "An analogy from general relativity" (3.1
+    asymptotic boundary conditions, 3.2 sheaves and relata, 3.3
+    spatiotemporal structure sans relata); §4 "How to do category-theoretic
+    physics"; §5 "What the category-theoretic radical ontic structural
+    realist must do"; §6 Conclusion; footnotes 1–16; references. Nothing was
+    skipped. The PhilSci-Archive preprint could not be reached (bot
+    challenge), so any differences between it and the published version are
+    unverified.); the first NOTE on it, since it was seeded from the
+    abstract alone. Status set from the reading: Active.
+tags:
+- philosophy-of-science
+- metaphysics
+- philosophy-of-mathematics
+date: '2026-09-26'
+published: '2011-03-02'
+doi: '10.1007/s11229-011-9896-6'
+first_author: 'Bain'
+keywords:
+- 'structural realism'
+- 'category theory'
+- 'general relativity'
+- 'radical ontic structural realism'
+- 'Einstein algebras'
+- 'relations without relata'
+implementations: []
+summary: >-
+  Bain (2013), DOI-10.1007/s11229-011-9896-6. Bain argues that the
+  "relations without relata" objection to radical OSR depends on defining
+  structure set-theoretically, where a relation is a subset of X × X. If a
+  structure is instead "an object in a category", its elements (arrows 1 →
+  A) are "not essential", because category-theoretic objects need not be
+  structured sets. His examples are sheaves of Einstein algebras for GR
+  with asymptotic boundary conditions, which may lack global sections
+  (§3), and nCob and Hilb (§4). He concludes that ROSR "avoids the charge
+  that it rests on an incoherent claim" (p. 1634). The paper never
+  mentions the Yoneda lemma, representable functors or universal
+  properties by name.
+corrected_by:
+- LIT-tmpn6gy9
+---
+
+# LIT-tmptrcx3: Category-theoretic structure and radical ontic structural realism
+
+Jonathan Bain (2013), *Synthese 190(9), 1621–1635 (June 2013), Springer* — DOI-10.1007/s11229-011-9896-6
+
+## Key takeaways
+
+- Bain argues that the "relations without relata" objection to radical OSR depends on defining structure set-theoretically, where a relation is a subset of X × X. If a structure is instead "an object in a category", its elements (arrows 1 → A) are "not essential", because category-theoretic objects need not be structured sets. His examples are sheaves of Einstein algebras for GR with asymptotic boundary conditions, which may lack global sections (§3), and nCob and Hilb (§4). He concludes that ROSR "avoids the charge that it rests on an incoherent claim" (p. 1634). The paper never mentions the Yoneda lemma, representable functors or universal properties by name.
+
+## Standing in the record
+
+Filed at the owner's request on 2026-09-26, for an account of the Yoneda lemma, connected where the literature allows to ontic structural realism. It was filed `Deferred`, unread. [NOTE-tmp85p2p](../notes.d/NOTE-tmp85p2p.md) is the close reading of 2026-09-26, and it placed the work: **Active** — Worth reading as the short, canonical statement of the category-theoretic defence of radical OSR, which the later literature (yo3; Lal & Teh; Eva 2016) responds to. Read it with yo3. Its central inference is overstated, and its GR section contains technical errors that yo3 documents.

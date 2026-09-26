@@ -1,0 +1,66 @@
+---
+status: Active
+status_note: 'read in full 2026-09-26 ([NOTE-tmpmypjy](../notes.d/NOTE-tmpmypjy.md)); Worth reading as the most careful direct refutation of Bain (yo2). Its main points (generalized elements, morphisms relate C-objects, determination only up to isomorphism, sections are not maximal ideals) are correct and are exactly what the Yoneda reading needs. It has a few category-theoretic slips of its own: Hilb said to lack products, a mis-definition of topos, and the claim that non-commutative algebras have no maximal ideals.'
+title: 'No categorial support for radical ontic structural realism'
+version: 2
+history:
+- version: 2
+  date: '2026-09-26'
+  note: >-
+    Read in full (Full text of arXiv:1306.2726v1 (12 Jun 2013), 22 pp. Read
+    all of it: the abstract; §1 Introduction; §2 "The set-theoretic peril
+    for ROSR" (objections (1)–(3), tasks (i)–(iv)); §3 "Bain's categorial
+    strategy to save ROSR"; §4 "Throwing out the relations with the relata";
+    §5 "Categorial and set-theoretical structures"; §6 "Radical suggestions
+    from topological quantum field theory?"; §7 "Sheaves of Einstein
+    algebras as radical structures?"; §8 Conclusions; footnotes 1–36;
+    references. Nothing was skipped. This is the preprint. The published
+    BJPS 66(3) (2015) version was not reachable, and any differences are
+    unverified. Page references are to the preprint.); the first NOTE on it,
+    since it was seeded from the abstract alone. Status set from the
+    reading: Active.
+tags:
+- philosophy-of-science
+- metaphysics
+- philosophy-of-mathematics
+date: '2026-09-26'
+published: '2013-06-12'
+arxiv: '1306.2726'
+doi: '10.1093/bjps/axt053'
+first_author: 'Lam'
+keywords:
+- 'radical ontic structural realism'
+- 'category-theoretic structure'
+- 'topological quantum field theory'
+- 'spacetime structuralism'
+- 'category of Einstein structured spaces'
+- 'algebraic generalisations of general relativity'
+implementations: []
+summary: >-
+  Lam & Wüthrich (2015), DOI-10.1093/bjps/axt053. Lam and Wüthrich argue
+  that category theory gives radical OSR no support. Identifying objects
+  with identity arrows is relabelling (§3). Generalized elements X → A
+  exist in every category, so elements are not eliminated (§4). Categories
+  without products also lose set-style relations, "throwing out the
+  relations with the relata" (§4). Morphisms relate C-objects, not the
+  elements that stand for physical relata, and they "only distinguish
+  isomorphism classes of structures" (§5). Bain's GR and TQFT cases
+  eliminate at most spacetime points, not relata tout court (§§6–7). They
+  conclude that category theory "offers little if any comfort to ROSR"
+  (abstract) and favour "balanced" OSR. The Yoneda lemma is not named,
+  although §§4–5 state two of its consequences.
+corrects:
+- LIT-tmptrcx3
+---
+
+# LIT-tmpn6gy9: No categorial support for radical ontic structural realism
+
+Vincent Lam, Christian Wüthrich (2015), *The British Journal for the Philosophy of Science 66(3), 605–634 (2015)* — DOI-10.1093/bjps/axt053
+
+## Key takeaways
+
+- Lam and Wüthrich argue that category theory gives radical OSR no support. Identifying objects with identity arrows is relabelling (§3). Generalized elements X → A exist in every category, so elements are not eliminated (§4). Categories without products also lose set-style relations, "throwing out the relations with the relata" (§4). Morphisms relate C-objects, not the elements that stand for physical relata, and they "only distinguish isomorphism classes of structures" (§5). Bain's GR and TQFT cases eliminate at most spacetime points, not relata tout court (§§6–7). They conclude that category theory "offers little if any comfort to ROSR" (abstract) and favour "balanced" OSR. The Yoneda lemma is not named, although §§4–5 state two of its consequences.
+
+## Standing in the record
+
+Filed at the owner's request on 2026-09-26, for an account of the Yoneda lemma, connected where the literature allows to ontic structural realism. It was filed `Deferred`, unread. [NOTE-tmpmypjy](../notes.d/NOTE-tmpmypjy.md) is the close reading of 2026-09-26, and it placed the work: **Active** — Worth reading as the most careful direct refutation of Bain (yo2). Its main points (generalized elements, morphisms relate C-objects, determination only up to isomorphism, sections are not maximal ideals) are correct and are exactly what the Yoneda reading needs. It has a few category-theoretic slips of its own: Hilb said to lack products, a mis-definition of topos, and the claim that non-commutative algebras have no maximal ideals.
