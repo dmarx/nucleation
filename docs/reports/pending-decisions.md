@@ -5,14 +5,14 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**134 document(s) awaiting a decision.**
+**129 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 16 | 0 | Adding causality to the information-theoretic perspective on individuality |
-| 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 11 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
+| 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 31 | 0 | Adding causality to the information-theoretic perspective on individuality |
+| 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 26 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-031](../../record/literature.d/LIT-031.md) | 8 | 0 | Moving away from lexicalism in psycho- and neuro-linguistics |
-| 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 3 | 0 | The Computational Foundations of Collective Intelligence |
+| 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 4 | 0 | The Computational Foundations of Collective Intelligence |
 | 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 3 | 0 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
 | 2026-09-25 | Proposed | [LIT-017](../../record/literature.d/LIT-017.md) | 2 | 0 | Spectral Networks and Betti Lagrangians |
 | 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 2 | 0 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
@@ -30,46 +30,44 @@
 | 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
 | 2026-09-26 | Deferred | [LIT-151](../../record/literature.d/LIT-151.md) | 22 | 0 | Stating Structural Realism: Mathematics-First Approaches to Physics and Metaphysics |
 | 2026-09-26 | Deferred | [LIT-111](../../record/literature.d/LIT-111.md) | 19 | 0 | AI Consciousness: A Centrist Manifesto |
+| 2026-09-26 | Deferred | [LIT-110](../../record/literature.d/LIT-110.md) | 16 | 0 | Unknotting reciprocal causation between organism and environment |
 | 2026-09-26 | Deferred | [LIT-200](../../record/literature.d/LIT-200.md) | 15 | 0 | Wave-functionalism |
 | 2026-09-26 | Deferred | [LIT-135](../../record/literature.d/LIT-135.md) | 14 | 0 | Conscious artificial intelligence and biological naturalism |
-| 2026-09-26 | Deferred | [LIT-168](../../record/literature.d/LIT-168.md) | 14 | 0 | Biological Individuals |
+| 2026-09-26 | Deferred | [LIT-156](../../record/literature.d/LIT-156.md) | 14 | 0 | An Emerging Dilemma for Reciprocal Causation |
 | 2026-09-26 | Deferred | [LIT-160](../../record/literature.d/LIT-160.md) | 12 | 0 | Units and Levels of Selection |
+| 2026-09-26 | Deferred | [LIT-185](../../record/literature.d/LIT-185.md) | 12 | 0 | Integrated information theory: the good, the bad and the misunderstood |
 | 2026-09-26 | Deferred | [LIT-204](../../record/literature.d/LIT-204.md) | 12 | 0 | Realism about the Wave Function |
 | 2026-09-26 | Deferred | [LIT-152](../../record/literature.d/LIT-152.md) | 11 | 0 | A defence of informational structural realism |
-| 2026-09-26 | Deferred | [LIT-156](../../record/literature.d/LIT-156.md) | 11 | 0 | An Emerging Dilemma for Reciprocal Causation |
-| 2026-09-26 | Deferred | [LIT-185](../../record/literature.d/LIT-185.md) | 11 | 0 | Integrated information theory: the good, the bad and the misunderstood |
+| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 11 | 0 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Deferred | [LIT-196](../../record/literature.d/LIT-196.md) | 11 | 0 | Ontological Priority: The Conceptual Basis of Non-eliminative, Ontic Structural Realism |
 | 2026-09-26 | Deferred | [LIT-199](../../record/literature.d/LIT-199.md) | 11 | 0 | The Philosophy and Physics of Duality |
 | 2026-09-26 | Deferred | [LIT-113](../../record/literature.d/LIT-113.md) | 10 | 0 | Duality and ontology |
 | 2026-09-26 | Deferred | [LIT-150](../../record/literature.d/LIT-150.md) | 10 | 0 | What is emergence, after all? |
 | 2026-09-26 | Deferred | [LIT-173](../../record/literature.d/LIT-173.md) | 10 | 0 | From ontic structural realism to metaphysical coherentism |
-| 2026-09-26 | Deferred | [LIT-120](../../record/literature.d/LIT-120.md) | 9 | 0 | Welfare Subjects and Autopoiesis |
-| 2026-09-26 | Deferred | [LIT-157](../../record/literature.d/LIT-157.md) | 9 | 0 | Reproducees, reproducers, and Darwinian individuals |
+| 2026-09-26 | Deferred | [LIT-207](../../record/literature.d/LIT-207.md) | 10 | 0 | Talkative AI and the fiction of artificial minds |
 | 2026-09-26 | Deferred | [LIT-176](../../record/literature.d/LIT-176.md) | 9 | 0 | Events and the Ontology of Quantum Mechanics |
-| 2026-09-26 | Deferred | [LIT-207](../../record/literature.d/LIT-207.md) | 9 | 0 | Talkative AI and the fiction of artificial minds |
 | 2026-09-26 | Deferred | [LIT-212](../../record/literature.d/LIT-212.md) | 9 | 0 | Do Large Language Models Hallucinate Electric Fata Morganas? |
-| 2026-09-26 | Deferred | [LIT-110](../../record/literature.d/LIT-110.md) | 8 | 0 | Unknotting reciprocal causation between organism and environment |
+| 2026-09-26 | Deferred | [LIT-120](../../record/literature.d/LIT-120.md) | 8 | 0 | Welfare Subjects and Autopoiesis |
 | 2026-09-26 | Deferred | [LIT-141](../../record/literature.d/LIT-141.md) | 8 | 0 | Emergence: from physics to biology, sociology, and computer science |
-| 2026-09-26 | Deferred | [LIT-167](../../record/literature.d/LIT-167.md) | 7 | 0 | The Organism |
 | 2026-09-26 | Deferred | [LIT-195](../../record/literature.d/LIT-195.md) | 7 | 0 | World models, artificial general intelligence and the hard problems of life–mind continuity: toward a unified understanding of natural and artificial intelligence |
+| 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 7 | 0 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-206](../../record/literature.d/LIT-206.md) | 7 | 0 | What Does ChatGPT Want? An Interpretationist Guide |
 | 2026-09-26 | Deferred | [LIT-215](../../record/literature.d/LIT-215.md) | 7 | 0 | Defending Informational Structural Realism: The View of Alternatives |
-| 2026-09-26 | Deferred | [LIT-097](../../record/literature.d/LIT-097.md) | 6 | 0 | The Extended Mind |
 | 2026-09-26 | Deferred | [LIT-100](../../record/literature.d/LIT-100.md) | 6 | 0 | Quantum States for Primitive Ontologists: A Case Study |
 | 2026-09-26 | Deferred | [LIT-121](../../record/literature.d/LIT-121.md) | 6 | 0 | The Meaning of the Wave Function: In Search of the Ontology of Quantum Mechanics |
 | 2026-09-26 | Deferred | [LIT-169](../../record/literature.d/LIT-169.md) | 6 | 0 | Defining the niche for niche construction: evolutionary and ecological niches |
-| 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 6 | 0 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-107](../../record/literature.d/LIT-107.md) | 5 | 0 | Quasi-set theory: a formal approach to a quantum ontology of properties |
 | 2026-09-26 | Deferred | [LIT-109](../../record/literature.d/LIT-109.md) | 5 | 0 | Dispositions without Conditionals |
 | 2026-09-26 | Deferred | [LIT-115](../../record/literature.d/LIT-115.md) | 5 | 0 | Duality as a category-theoretic concept |
 | 2026-09-26 | Deferred | [LIT-118](../../record/literature.d/LIT-118.md) | 5 | 0 | A Pragmatist Theory of Evidence |
 | 2026-09-26 | Deferred | [LIT-127](../../record/literature.d/LIT-127.md) | 5 | 0 | Hutchinson’s ecological niche for individuals |
+| 2026-09-26 | Deferred | [LIT-136](../../record/literature.d/LIT-136.md) | 5 | 0 | The Informational Nature of Personal Identity |
 | 2026-09-26 | Deferred | [LIT-177](../../record/literature.d/LIT-177.md) | 5 | 0 | The Relational Interpretation of Quantum Physics |
 | 2026-09-26 | Deferred | [LIT-187](../../record/literature.d/LIT-187.md) | 5 | 0 | On the Philosophy of Unsupervised Learning |
 | 2026-09-26 | Deferred | [LIT-208](../../record/literature.d/LIT-208.md) | 5 | 0 | Distributional Semantics, Holism, and the Instability of Meaning |
+| 2026-09-26 | Deferred | [LIT-210](../../record/literature.d/LIT-210.md) | 5 | 0 | Philosophy of Microbiology |
 | 2026-09-26 | Deferred | [LIT-131](../../record/literature.d/LIT-131.md) | 4 | 0 | A Model of Understanding in Deep Learning Systems |
-| 2026-09-26 | Deferred | [LIT-136](../../record/literature.d/LIT-136.md) | 4 | 0 | The Informational Nature of Personal Identity |
-| 2026-09-26 | Deferred | [LIT-159](../../record/literature.d/LIT-159.md) | 4 | 0 | If materialism is true, the United States is probably conscious |
+| 2026-09-26 | Deferred | [LIT-147](../../record/literature.d/LIT-147.md) | 4 | 0 | Mental causation via neuroprosthetics? A critical analysis |
 | 2026-09-26 | Deferred | [LIT-162](../../record/literature.d/LIT-162.md) | 4 | 0 | Is Unsupervised Clustering Somehow Truer? |
 | 2026-09-26 | Deferred | [LIT-175](../../record/literature.d/LIT-175.md) | 4 | 0 | Evidence in Medicine and Evidence-Based Medicine |
 | 2026-09-26 | Deferred | [LIT-205](../../record/literature.d/LIT-205.md) | 4 | 0 | One equation to rule them all: a philosophical analysis of the Price equation |
@@ -77,28 +75,26 @@
 | 2026-09-26 | Deferred | [LIT-102](../../record/literature.d/LIT-102.md) | 3 | 0 | Pregeometry, Formal Language and Constructivist Foundations of Physics |
 | 2026-09-26 | Deferred | [LIT-103](../../record/literature.d/LIT-103.md) | 3 | 0 | Closing the Cartesian Bureau de Change |
 | 2026-09-26 | Deferred | [LIT-122](../../record/literature.d/LIT-122.md) | 3 | 0 | The Representation of Time and Change in Mechanics |
-| 2026-09-26 | Deferred | [LIT-147](../../record/literature.d/LIT-147.md) | 3 | 0 | Mental causation via neuroprosthetics? A critical analysis |
 | 2026-09-26 | Deferred | [LIT-154](../../record/literature.d/LIT-154.md) | 3 | 0 | Criteria of Identity and Structuralist Ontology |
 | 2026-09-26 | Deferred | [LIT-164](../../record/literature.d/LIT-164.md) | 3 | 0 | Wave-Function Realism and the Scope of Physical Causal Closure |
+| 2026-09-26 | Deferred | [LIT-166](../../record/literature.d/LIT-166.md) | 3 | 0 | Sacrificing Humans for Insects and AI: A Critical Review of Jonathan Birch, The Edge of Sentience, Jeff Sebo, The Moral Circle, and Webb Keane, Animals, Robots, Gods |
 | 2026-09-26 | Deferred | [LIT-170](../../record/literature.d/LIT-170.md) | 3 | 0 | Unitary inequivalence as a problem for structural realism |
 | 2026-09-26 | Deferred | [LIT-174](../../record/literature.d/LIT-174.md) | 3 | 0 | Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out |
 | 2026-09-26 | Deferred | [LIT-180](../../record/literature.d/LIT-180.md) | 3 | 0 | Symmetry and Conservation Laws |
 | 2026-09-26 | Deferred | [LIT-184](../../record/literature.d/LIT-184.md) | 3 | 0 | Effective Ontic Structural Realism |
-| 2026-09-26 | Deferred | [LIT-188](../../record/literature.d/LIT-188.md) | 3 | 0 | Scaffolding individuality: coordination, cooperation, collaboration and community |
-| 2026-09-26 | Deferred | [LIT-192](../../record/literature.d/LIT-192.md) | 3 | 0 | What's at stake in the debate over naturalizing teleology? An overlooked metatheoretical debate |
+| 2026-09-26 | Deferred | [LIT-191](../../record/literature.d/LIT-191.md) | 3 | 0 | AI and Consciousness |
 | 2026-09-26 | Deferred | [LIT-198](../../record/literature.d/LIT-198.md) | 3 | 0 | Rule Consequentialism |
-| 2026-09-26 | Deferred | [LIT-210](../../record/literature.d/LIT-210.md) | 3 | 0 | Philosophy of Microbiology |
-| 2026-09-26 | Deferred | [LIT-211](../../record/literature.d/LIT-211.md) | 3 | 0 | What Lives? A meta-analysis of diverse opinions on the definition of life |
 | 2026-09-26 | Deferred | [LIT-098](../../record/literature.d/LIT-098.md) | 2 | 0 | Health and Disease Concepts Cannot Be Grounded in Social Justice Alone |
 | 2026-09-26 | Deferred | [LIT-112](../../record/literature.d/LIT-112.md) | 2 | 0 | What motivates mental fictionalism? |
 | 2026-09-26 | Deferred | [LIT-130](../../record/literature.d/LIT-130.md) | 2 | 0 | Personal Identity and Ethics |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 2 | 0 | Causal Exclusion and Downward Counterfactuals |
 | 2026-09-26 | Deferred | [LIT-148](../../record/literature.d/LIT-148.md) | 2 | 0 | Computational Functionalism for the Deep Learning Era |
 | 2026-09-26 | Deferred | [LIT-161](../../record/literature.d/LIT-161.md) | 2 | 0 | Why Replication Is Overrated |
-| 2026-09-26 | Deferred | [LIT-166](../../record/literature.d/LIT-166.md) | 2 | 0 | Sacrificing Humans for Insects and AI: A Critical Review of Jonathan Birch, The Edge of Sentience, Jeff Sebo, The Moral Circle, and Webb Keane, Animals, Robots, Gods |
 | 2026-09-26 | Deferred | [LIT-172](../../record/literature.d/LIT-172.md) | 2 | 0 | Ethics of Parasocial Relationships |
 | 2026-09-26 | Deferred | [LIT-189](../../record/literature.d/LIT-189.md) | 2 | 0 | Philosophy of Open Science |
+| 2026-09-26 | Deferred | [LIT-192](../../record/literature.d/LIT-192.md) | 2 | 0 | What's at stake in the debate over naturalizing teleology? An overlooked metatheoretical debate |
 | 2026-09-26 | Deferred | [LIT-209](../../record/literature.d/LIT-209.md) | 2 | 0 | The Phenomenology of Ritual Resistance: Colin Kaepernick as Confucian Sage |
+| 2026-09-26 | Deferred | [LIT-211](../../record/literature.d/LIT-211.md) | 2 | 0 | What Lives? A meta-analysis of diverse opinions on the definition of life |
 | 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 2 | 0 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
 | 2026-09-26 | Deferred | [LIT-099](../../record/literature.d/LIT-099.md) | 1 | 0 | Framing Effects in Object Perception |
 | 2026-09-26 | Deferred | [LIT-101](../../record/literature.d/LIT-101.md) | 1 | 0 | Moral disciplining: The cognitive and evolutionary foundations of puritanical morality |
@@ -128,7 +124,6 @@
 | 2026-09-26 | Deferred | [LIT-182](../../record/literature.d/LIT-182.md) | 1 | 0 | Towards ethical evolution: responsible autonomy of artificial intelligence across generations |
 | 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 1 | 0 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
 | 2026-09-26 | Deferred | [LIT-190](../../record/literature.d/LIT-190.md) | 1 | 0 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
-| 2026-09-26 | Deferred | [LIT-191](../../record/literature.d/LIT-191.md) | 1 | 0 | AI and Consciousness |
 | 2026-09-26 | Deferred | [LIT-193](../../record/literature.d/LIT-193.md) | 1 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-26 | Deferred | [LIT-194](../../record/literature.d/LIT-194.md) | 1 | 0 | Religion and Science |
 | 2026-09-26 | Deferred | [LIT-202](../../record/literature.d/LIT-202.md) | 1 | 0 | Consent and the Formation of Preferences |

@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [26 Sep 06:50 — The mereology tag's newly tagged works, read](2026-09.md#the-mereology-tags-newly-tagged-works-read)
 - [26 Sep 06:37 — A pass over the mereology tag: four readings, eight retags](2026-09.md#a-pass-over-the-mereology-tag-four-readings-eight-retags)
 - [26 Sep 05:58 — The papers-feed swept for philosophy: 119 works seeded](2026-09.md#the-papers-feed-swept-for-philosophy-119-works-seeded)
 - [26 Sep 01:56 — The low tier, read: every reachable work in the record now has a Read NOTE](2026-09.md#the-low-tier-read-every-reachable-work-in-the-record-now-has-a-read-note)
@@ -18,8 +19,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-9 entries across 1 book, newest first.
+10 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 9 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 10 | 2026-09-25 | 2026-09-26 |
