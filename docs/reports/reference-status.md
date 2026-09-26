@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**8 documents cited without acknowledgement.** Not listed: 307 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**12 documents cited without acknowledgement.** Not listed: 299 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -25,6 +25,24 @@ Conspiracy Theories and Public Trust
 
 - [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
 - [`record/notes.d/NOTE-113.md:126`](../../record/notes.d/NOTE-113.md)
+
+### [LIT-186](../../record/literature.d/LIT-186.md) — Deferred
+
+What is purely epistemic normativity, and why? A study in Wolfian epistemology
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
+- [`record/notes.d/NOTE-160.md:108`](../../record/notes.d/NOTE-160.md)
+
+### [LIT-197](../../record/literature.d/LIT-197.md) — Deferred
+
+The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
+
+2 citations in 1 file await a look.
+
+- [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
+- [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Deferred
 
@@ -74,6 +92,14 @@ Knowledge is not always more valuable than mere true belief
 
 - [`record/notes.d/NOTE-139.md:109`](../../record/notes.d/NOTE-139.md)
 
+### [LIT-183](../../record/literature.d/LIT-183.md) — Deferred
+
+Fitting Fulfilment – Fitting Objective or Rational Attractiveness?
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
+
 ### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
 
 Conspiracy theorists are not the problem; Conspiracy liars are
@@ -81,6 +107,14 @@ Conspiracy theorists are not the problem; Conspiracy liars are
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
+
+### [LIT-214](../../record/literature.d/LIT-214.md) — Deferred
+
+Blunting concepts: The double-edged effect of popularizing psychotherapy language
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
 
 ## Codes that resolve to no document
 

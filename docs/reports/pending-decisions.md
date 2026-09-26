@@ -5,7 +5,7 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**61 document(s) awaiting a decision.**
+**57 document(s) awaiting a decision.**
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -46,16 +46,16 @@
 | 2026-09-26 | Deferred | [LIT-205](../../record/literature.d/LIT-205.md) | 4 | 0 | One equation to rule them all: a philosophical analysis of the Price equation |
 | 2026-09-26 | Deferred | [LIT-119](../../record/literature.d/LIT-119.md) | 3 | 2 | Conspiracy Theories and Public Trust |
 | 2026-09-26 | Deferred | [LIT-148](../../record/literature.d/LIT-148.md) | 3 | 1 | Computational Functionalism for the Deep Learning Era |
-| 2026-09-26 | Deferred | [LIT-198](../../record/literature.d/LIT-198.md) | 3 | 0 | Rule Consequentialism |
-| 2026-09-26 | Deferred | [LIT-098](../../record/literature.d/LIT-098.md) | 2 | 0 | Health and Disease Concepts Cannot Be Grounded in Social Justice Alone |
+| 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 3 | 2 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
 | 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 2 | 0 | Philosophy of Mathematics and Natural Science |
 | 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
 | 2026-09-26 | Deferred | [LIT-149](../../record/literature.d/LIT-149.md) | 2 | 0 | The information-processing perspective on representation |
+| 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 2 | 1 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
 | 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 2 | 0 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
+| 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 2 | 2 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 2 | 1 | Conspiracy theorists are not the problem; Conspiracy liars are |
-| 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 2 | 0 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
+| 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 2 | 1 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
 | 2026-09-26 | Deferred | [LIT-099](../../record/literature.d/LIT-099.md) | 1 | 0 | Framing Effects in Object Perception |
-| 2026-09-26 | Deferred | [LIT-101](../../record/literature.d/LIT-101.md) | 1 | 0 | Moral disciplining: The cognitive and evolutionary foundations of puritanical morality |
 | 2026-09-26 | Deferred | [LIT-106](../../record/literature.d/LIT-106.md) | 1 | 0 | Brandom's Inferentialist Theory and the Meaning Entitlement Connection |
 | 2026-09-26 | Deferred | [LIT-114](../../record/literature.d/LIT-114.md) | 1 | 0 | Philosophy of Statistical Mechanics |
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
@@ -63,16 +63,12 @@
 | 2026-09-26 | Deferred | [LIT-153](../../record/literature.d/LIT-153.md) | 1 | 0 | Making sense of transformer success |
 | 2026-09-26 | Deferred | [LIT-155](../../record/literature.d/LIT-155.md) | 1 | 0 | Studying Philosophy Does Make People Better Thinkers |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
-| 2026-09-26 | Deferred | [LIT-179](../../record/literature.d/LIT-179.md) | 1 | 0 | Algorithmic Nudging: The Need for an Interdisciplinary Oversight |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
-| 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 1 | 0 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
-| 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 1 | 0 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |
 | 2026-09-26 | Deferred | [LIT-134](../../record/literature.d/LIT-134.md) | 0 | 0 | The Duality of Content |
-| 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 0 | 0 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (8): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-039](../../record/literature.d/LIT-039.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [LIT-197](../../record/literature.d/LIT-197.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (7): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-039](../../record/literature.d/LIT-039.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md) — these are the cheapest to close, since nothing depends on the answer.
