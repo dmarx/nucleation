@@ -1,0 +1,60 @@
+---
+status: Active
+status_note: 'read in full 2026-09-26 ([NOTE-tmpii6cu](../notes.d/NOTE-tmpii6cu.md)); Worth reading as the source of the real-patterns criterion that rainforest realism generalises into a theory of existence, and as the paper whose exact definition the later literature modifies. It has a lossless-compression criterion, observer-relativity through "perspectives", and trade-offs between noise and simplicity. Its target is beliefs, not ontology in general. Dennett explicitly declines the label question ("I think that the view itself is clearer than either of the labels", p. 51).'
+title: 'Real Patterns'
+version: 2
+history:
+- version: 2
+  date: '2026-09-26'
+  note: >-
+    Read in full (The published article, The Journal of Philosophy 88(1),
+    27–51, as a scanned PDF from the Tufts Digital Library (Dennett papers).
+    Read in full: the untitled opening and §I "Realism about Beliefs" (pp.
+    27–31), §II "The Reality of Patterns" (pp. 31–37), §III "Patterns in
+    Life" (pp. 37–42), §IV "The Reality of Intentional Patterns" (pp.
+    42–51), and all 32 footnotes. The figures (frames A–F, the glider, the
+    eater, figs 4–5) were seen only as degraded scan images and are
+    described from the text.); the first NOTE on it, since it was seeded
+    from the abstract alone. Status set from the reading: Active.
+tags:
+- philosophy-of-science
+- cognition
+- metaphysics
+- information-theory
+date: '2026-09-26'
+published: '1991-01-01'
+doi: '10.2307/2027085'
+url: 'http://hdl.handle.net/10427/005070'
+first_author: 'Dennett'
+keywords:
+- 'real patterns'
+- 'intentional stance'
+- 'compressibility'
+- 'Game of Life'
+- 'indeterminacy of radical interpretation'
+- 'mild realism'
+implementations: []
+summary: >-
+  Dennett (1991), DOI-10.2307/2027085. A pattern is real in some data "if
+  there is a description of the data that is more efficient than the bit
+  map, whether or not anyone can concoct it" (p. 34). This is Chaitin's
+  incompressibility definition of randomness turned around (p. 32).
+  Dennett uses the criterion, with the Game of Life's gliders and eaters
+  as the stepping stone (pp. 37–42), to defend "mild realism" about
+  beliefs. Folk psychology tracks a real, noisy pattern of enormous
+  predictive leverage. Two rival interpretations can be "different, but
+  equally real, patterns" with no deeper fact to settle between them (p.
+  49).
+---
+
+# LIT-tmpeniq7: Real Patterns
+
+Daniel C. Dennett (1991), *The Journal of Philosophy 88(1), 27–51 (January 1991)* — DOI-10.2307/2027085
+
+## Key takeaways
+
+- A pattern is real in some data "if there is a description of the data that is more efficient than the bit map, whether or not anyone can concoct it" (p. 34). This is Chaitin's incompressibility definition of randomness turned around (p. 32). Dennett uses the criterion, with the Game of Life's gliders and eaters as the stepping stone (pp. 37–42), to defend "mild realism" about beliefs. Folk psychology tracks a real, noisy pattern of enormous predictive leverage. Two rival interpretations can be "different, but equally real, patterns" with no deeper fact to settle between them (p. 49).
+
+## Standing in the record
+
+Filed at the owner's request on 2026-09-26, to put Ladyman and Ross's ontic structural realism and rainforest realism on the record. Their book *Every Thing Must Go* (OUP 2007) could not be obtained from a legitimate source, nor could the two founding papers (Ladyman 1998, Ross 2000); this work is one of four freely available statements from which the views are pieced together. It was filed `Deferred`, unread. [NOTE-tmpii6cu](../notes.d/NOTE-tmpii6cu.md) is the close reading of 2026-09-26, and it placed the work: **Active** — Worth reading as the source of the real-patterns criterion that rainforest realism generalises into a theory of existence, and as the paper whose exact definition the later literature modifies. It has a lossless-compression criterion, observer-relativity through "perspectives", and trade-offs between noise and simplicity. Its target is beliefs, not ontology in general. Dennett explicitly declines the label question ("I think that the view itself is clearer than either of the labels", p. 51).
