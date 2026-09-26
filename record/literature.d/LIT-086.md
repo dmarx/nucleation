@@ -14,7 +14,7 @@ history:
     of Physics version, dated 30 June 2025 on p. 1, arXiv stamp 30 Jul
     2025), 38 pp. That covers §1–5 (pp. 1–32), the acknowledgments, the
     declarations and the 72-entry reference list (pp. 32–38). Nothing was
-    skipped. Text was extracted with PyMuPDF from raw4/2302.10778.pdf (no
+    skipped. Text was extracted with PyMuPDF from the downloaded copy (no
     pdftotext on this host). The extraction drops overbars and some inline
     symbols. Eqs. (12)–(15), (30)–(35), (43), (50) and (57) were re-derived
     by hand, and those checks are marked "(reader's check)". Read side by

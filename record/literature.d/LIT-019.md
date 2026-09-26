@@ -13,12 +13,11 @@ history:
     Read in full (full text of arXiv:2111.13727v7 (18 Sep 2023, the version
     accepted by Quantum on 2023-09-01), 61 pp. I read §1–5, the
     acknowledgements, the reference list [1]–[109], and Appendices A.1–A.3,
-    B and C.1–C.6. I extracted the text with PyMuPDF into
-    raw4/2111.13727.txt (pdftotext is not on this host). Figures 1–11 are
+    B and C.1–C.6. I extracted the text with PyMuPDF (pdftotext is not on this host). Figures 1–11 are
     box-grid diagrams, and their images did not survive extraction; I read
     the captions and the formal expressions that accompany them (Eqs. 26–53,
     56–57). I checked the arithmetic of the TRAP account in a short script
-    (scratchpad/check17.py): the Eq. 13 beamsplitter and Eq. 22 CNOT are
+    (a local check script): the Eq. 13 beamsplitter and Eq. 22 CNOT are
     symplectic over Z_2; the beamsplitter is its own inverse; and the
     phase-shifter, which-way and eraser statistics come out as the paper
     states. I did not compare the published Quantum version (DOI

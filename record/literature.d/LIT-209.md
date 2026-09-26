@@ -16,8 +16,7 @@ history:
     and Confucian Incivility"; §4 "Ritual, Sagehood, Heritage"; §5.1–5.5;
     §6; §7; footnotes 1–24; acknowledgements; references. Source: the PDF
     the seed downloaded through CORE (provided by PhilPapers; OpenAlex lists
-    it as philpapers.org/archive/WALTPO-92.pdf, submittedVersion), copied to
-    scratchpad/rawA/a15-aam.pdf and extracted with pypdf. **The Springer
+    it as philpapers.org/archive/WALTPO-92.pdf, submittedVersion), and extracted with pypdf. **The Springer
     version of record was not reached.** link.springer.com and
     rd.springer.com returned the HTML landing page, not a PDF;
     philpapers.org returned 403; web.archive.org connections were reset.

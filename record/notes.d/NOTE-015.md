@@ -13,7 +13,7 @@ history:
     Read in full (Full text of arXiv:2504.10648v1 (14 Apr 2025, math.OC), 35
     pp.: abstract, §1–§7, acknowledgements, declarations, Appendix A (the
     i.12.1 chromosome, Tables A1–A2, Figs. A1–A2) and the reference list.
-    Text came from raw4/2504.10648.pdf via PyMuPDF. Figures 1–3 and A1–A2
+    Text came via PyMuPDF. Figures 1–3 and A1–A2
     are plots or maps, so I read their captions and the prose around them,
     not the images. The main-effects plots (Figs. 2–3) are therefore
     unverified beyond what the text says about them. I did not compare

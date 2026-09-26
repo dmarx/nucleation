@@ -12,7 +12,7 @@ history:
   note: >-
     Read in full (full text of arXiv:1607.08654v2 (dated 18 Oct 2016; title
     page 19 Oct 2016), 29 pp.: abstract, §1–§5, acknowledgements and the
-    reference list. Extracted with PyMuPDF from raw4/1607.08654.pdf (no
+    reference list. Extracted with PyMuPDF from the downloaded copy (no
     pdftotext on this host). I checked Eqs. 11–13, 40–41 and 45–46 against
     page renders, because text extraction loses sum subscripts and bars.
     Figures 3–8 are plots and network drawings; I read their captions and

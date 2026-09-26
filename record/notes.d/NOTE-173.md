@@ -11,11 +11,11 @@ history:
   date: '2026-09-26'
   note: >-
     Read in full (the full text of the open-access (CC BY 4.0) version of
-    record, from Europe PMC's JATS XML (PMC9869437, saved as rawM/g.xml and
-    extracted to rawM/g.txt, about 7,100 words including front matter and
+    record, from Europe PMC's JATS XML (PMC9869437 and
+    extracted, about 7,100 words including front matter and
     endnotes). I read all of it: the abstract, §1, §2, §3, all five endnotes
     and Table 1. Table 1 is an image in the XML, so I fetched it separately
-    from the PMC CDN (rawM/table1.jpg) and read it. I checked the reference
+    from the PMC CDN and read it. I checked the reference
     list entry by entry only to resolve citations. There was no PDF, because
     royalsocietypublishing.org returns 403, and the XML carries no page
     breaks. Section numbers are given in place of page numbers (Phil. Trans.

@@ -12,7 +12,7 @@ history:
   note: >-
     Read in full (full text of arXiv:quant-ph/9601020v1 (23 Jan 1996;
     dissertation dated 22 Dec 1995), 174 PDF pp. (i–viii + 165 numbered).
-    Extracted with PyMuPDF into raw4/9601020.txt (no pdftotext on this
+    Extracted with PyMuPDF (no pdftotext on this
     host). I read Ch. 1 (§1.1–1.3), Ch. 2 (§2.1–2.4.3, all proofs), Ch. 3
     (§3.1–3.6.3, all derivations, including the Mathematica listing in
     §3.5.6) and Ch. 4 (§4.1–4.3) line by line. Figures 2.1–2.2, 3.1–3.8 and

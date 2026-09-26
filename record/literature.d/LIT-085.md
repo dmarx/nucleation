@@ -11,8 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (Full text of arXiv 1111.4246v1 (18 Nov 2011, 30 pp.),
-    downloaded to raw4/1111.4246.pdf and extracted with PyMuPDF to
-    raw4/1111.4246.full.txt. I read everything: §1–5, Algorithms 1–6,
+    downloaded and extracted with PyMuPDF. I read everything: §1–5, Algorithms 1–6,
     Appendix A (ESS estimator) and the references. Figures 3–7 came through
     as axis ticks only, so I read them from their captions and from the §4
     prose, not from the plotted points. I did not read the JMLR 2014 version

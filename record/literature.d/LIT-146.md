@@ -14,8 +14,7 @@ history:
     2024 (first published Tue Jul 1, 2003; © 2024 Lori Gruen and Susana
     Monsó; this is the revision served at
     plato.stanford.edu/entries/moral-animal/ on 2026-09-26). It was fetched
-    with curl into scratchpad/rawA/sep.html and converted to
-    rawA/sep_body.txt, with the notes page (notes.html) fetched separately.
+    with curl and converted, with the notes page (notes.html) fetched separately.
     I read every section: the preamble; §1, including 1.1 Speciesism, 1.2
     Human Exceptionalism, 1.3 Personhood with 1.3.1 Rational Persons and
     1.3.2 Legal Persons, 1.4 Sentience and 1.5 Agency; §2, including 2.1

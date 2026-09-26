@@ -11,7 +11,7 @@ history:
   date: '2026-09-26'
   note: >-
     Read in full (the full current revision of the SEP entry, fetched as
-    HTML on 2026-09-26 (rawM/mereology.html, rawM/mereology-notes.html) and
+    HTML on 2026-09-26 and
     converted to text. The header reads "First published Tue May 13, 2003;
     substantive revision Sat Jun 27, 2026", and the notes page is "Copyright
     © 2026 by Achille Varzi". I read all of it: the preamble, §1, §2.1–2.2,

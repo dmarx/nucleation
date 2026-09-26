@@ -14,11 +14,10 @@ history:
     accepted by Quantum on 2024-03-06), 41 pp. I read §1–6, the reference
     list [1]–[73], and Appendices A, B (proof of Theorem 4.1), C
     (Proposition 3.2), D (Proposition 4.4) and E.1–E.4. I extracted the text
-    with PyMuPDF into raw4/2005.07161.txt. The string diagrams came through
+    with PyMuPDF. The string diagrams came through
     as scattered labels; I reconstructed them from the surrounding prose and
     the equation labels, and each proof step can be followed that way. I
-    checked the ontic-state-count claim separately (scratchpad/check71.py,
-    checkbits.py) by computing the real dimension spanned by stabilizer
+    checked the ontic-state-count claim separately (two local check scripts) by computing the real dimension spanned by stabilizer
     states and by epistricted states for (d, n) = (3, 1), (5, 1), (3, 2),
     and for d = 2 with n = 1, 2. I did not compare the published Quantum
     version (DOI 10.22331/q-2024-03-14-1283).). Upgraded from `Skimmed` to

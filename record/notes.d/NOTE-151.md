@@ -16,8 +16,7 @@ history:
     challenge this time). Read every section, §1, §2.1–2.5, §3, §4, §5, §6
     and §7, plus all 9 endnotes, the full reference list and the
     publication-details block. The PDF was not downloaded because the HTML
-    carries the whole text. Saved at scratchpad/rawM/depth.html and
-    depth.txt.). Upgraded from `Skimmed` to `Read`: the claims table,
+    carries the whole text.). Upgraded from `Skimmed` to `Read`: the claims table,
     assumptions and results are new, and the skim is corrected where the
     full text disagreed.
 date: '2026-09-26'

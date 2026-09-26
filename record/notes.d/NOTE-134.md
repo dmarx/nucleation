@@ -11,7 +11,7 @@ history:
   date: '2026-09-26'
   note: >-
     Read in full (full text of arXiv:2103.09780v1 (16 pp., downloaded
-    2026-09-26 to rawM/carroll.pdf, extracted with pypdf because pdftotext
+    2026-09-26, extracted with pypdf because pdftotext
     is not installed; eq. (4) and the finiteness figure on p. 5 were checked
     against a rendered image of the page). That covers the abstract (p. 1),
     the unsectioned essay (pp. 2–12), the acknowledgements and all

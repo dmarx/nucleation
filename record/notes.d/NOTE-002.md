@@ -13,8 +13,7 @@ history:
     Read in full (Full text of arXiv:2606.05036v1 (3 Jun 2026; the title
     page says "Draft version June 4, 2026", "Submitted to The Planetary
     Science Journal"), 42 pp. I read the abstract, §1–§8, the
-    acknowledgements, the reference list and Appendix A.1–A.3. Text came
-    from raw4/2606.05036.pdf via PyMuPDF (no pdftotext on this host).
+    acknowledgements, the reference list and Appendix A.1–A.3. Text came via PyMuPDF (no pdftotext on this host).
     Figures 2–21 are plots, so I read their captions and the prose around
     them, not the images; any number that appears only in a figure (e.g. the
     J3:1 influx-versus-time curves in Figs. 7–11) is unverified. I did not

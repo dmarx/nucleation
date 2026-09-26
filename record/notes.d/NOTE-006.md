@@ -18,7 +18,7 @@ history:
     Extraction was with PyMuPDF. Fig. 5 was inspected as a page render, and
     the bar-chart values below are read off it (±~0.03). I checked Lemma E.1
     numerically by linear programming on G(3,2), G(5,3) and G(6,2)
-    (scratchpad/lpcheck59.py). I did not compare the Sci. Rep. version, and
+    (a local check script). I did not compare the Sci. Rep. version, and
     I did not run the GraphRicciCurvature code.). Upgraded from `Skimmed` to
     `Read`: the claims table, assumptions and results are new, and the skim
     is corrected where the full text disagreed.

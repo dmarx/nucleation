@@ -12,7 +12,7 @@ history:
   note: >-
     Read in full (Full text of arXiv:2110.11914v1 (22 Oct 2021, dated 25 Oct
     2021), 18 pp.: main text, Figs. 1–6, Appendices A–C and references
-    (raw4/2110.11914.txt, extracted with PyMuPDF). v1 is the only arXiv
+    (extracted with PyMuPDF). v1 is the only arXiv
     version. I did not read the published version (Phil. Trans. R. Soc. A
     380: 20210245, 2022). The Royal Society PDF returned HTTP 403, and
     Europe PMC and Unpaywall list only the arXiv copy as free. I read its

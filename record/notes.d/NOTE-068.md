@@ -12,12 +12,12 @@ history:
   note: >-
     Read in full (full text of arXiv:2506.08025v1 (29 May 2025), 47 pp., all
     of it: §I–§XV, the acknowledgements, references [1]–[46] and the author
-    biographies. Extracted with PyMuPDF into raw4/2506.08025.txt. The 17
+    biographies. Extracted with PyMuPDF. The 17
     figures came through as captions only, so data plots (Figs 1–15) and the
     "noise approximation" plots (Figs 16–17) were read from their captions
     and surrounding text; I could not inspect the plotted data. I checked
     Theorem 4 (optimal gain and cost) by hand and numerically, including its
-    H → ½ limit and the Riccati form (scratchpad, inline python). I did not
+    H → ½ limit and the Riccati form (a short Python check). I did not
     look for the Springer chapter the dossier mentions.). Upgraded from
     `Skimmed` to `Read`: the claims table, assumptions and results are new,
     and the skim is corrected where the full text disagreed.

@@ -20,7 +20,7 @@ history:
     differentials, §5 surface minimisation, §6 the numerical scheme, §7
     empirical branching, §8 lengths and loops, §9 node morphology, §10
     surface versus volume, and refs [1]–[36]. Text was extracted with
-    PyMuPDF from raw4/c53.pdf and raw4/c53_SI.pdf, since this host has no
+    PyMuPDF from the downloaded copy, since this host has no
     pdftotext. Figure panels came through only as tick labels and numbers. I
     read the numbers printed in the figures (Fig. 1d degree counts, Fig. 3
     P(λ→0) values, Fig. 4 ρ_th values, SI Figs 5 and 13–20 and Table 4) and

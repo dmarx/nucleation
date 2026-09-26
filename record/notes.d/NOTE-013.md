@@ -14,8 +14,7 @@ history:
     pp.: §I.A–D, §II.A–E, §III.A–B, §IV.A–B, Appendix A (Proposition 1) and
     the reference list. Figures 1–14 are pictures of phase-space grids that
     did not survive text extraction; I read their captions and the prose
-    that describes them, not the images. Extracted with PyMuPDF from
-    raw4/1409.5041.pdf (no pdftotext on this host). The later Springer
+    that describes them, not the images. Extracted with PyMuPDF from the downloaded copy (no pdftotext on this host). The later Springer
     chapter version (DOI 10.1007/978-94-017-7303-4_4) was not compared.).
     Upgraded from `Skimmed` to `Read`: the claims table, assumptions and
     results are new, and the skim is corrected where the full text

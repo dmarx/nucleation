@@ -11,8 +11,7 @@ history:
   date: '2026-09-26'
   note: >-
     Read in full (The full text of the published version (CC BY 4.0), from
-    the self-archived copy at the University of Jyväskylä (JYX). Seeding
-    downloaded it to rawP5/p101.pdf; it was copied to rawA/terziyan.pdf and
+    the self-archived copy at the University of Jyväskylä (JYX). Seeding downloaded it, and it was
     extracted with PyMuPDF, since pdftotext is not installed. It is 27 PDF
     pages: a JYX cover sheet, the article on pp. 1–21, and 169 references on
     pp. 21–26. The read covers the abstract and §§1–8, including every

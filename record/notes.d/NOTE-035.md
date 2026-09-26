@@ -13,7 +13,7 @@ history:
     Read in full (full text of arXiv:2103.07469v2 (23 Aug 2021), 76 pp. I
     read §1–9 (pp. 2–64), the acknowledgement, the reference list [1]–[149]
     (pp. 64–69) and Appendices A–C (pp. 69–76). I extracted the text with
-    PyMuPDF into raw4/2103.07469.txt. The string diagrams (quantikz) came
+    PyMuPDF. The string diagrams (quantikz) came
     through as scattered wire labels. I followed each diagrammatic proof
     through its prose and its inline equivalents (e.g. Eq. 5.35
     (id⊗f_B)(x_AB), Eq. 6.43), not by redrawing it. Figures 1–4 are plots of

@@ -13,9 +13,7 @@ history:
     Read in full (full text of the version of record, read in full from the
     open-access (CC BY) Cambridge Core HTML (JAPA 11(4), December 2025, pp.
     696–714; "Published online … 17 July 2025"). It was fetched from
-    doi.org/10.1017/apa.2025.10006 with curl on 2026-09-26 into
-    scratchpad/rawA/bruckner_doi.html and converted to
-    rawA/bruckner_body.txt. I read the abstract, §§1–9 including every
+    doi.org/10.1017/apa.2025.10006 with curl on 2026-09-26 and converted. I read the abstract, §§1–9 including every
     subsection (6.1–6.4, 7.1–7.4), the acknowledgements, footnotes 1–7 and
     the whole reference list. The HTML has no page breaks, so locations
     below are sections and footnotes, not pages. I did not open the PDF,

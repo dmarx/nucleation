@@ -13,7 +13,7 @@ history:
     Read in full (full text of arXiv:1411.1618v2 (13 Oct 2015, "major
     revisions"), 29 pp. I read §1–6 (pp. 1–21), references [1]–[26] (pp.
     21–22) and Appendix A.1–A.2 (pp. 23–29). I extracted the text with
-    PyMuPDF into raw4/1411.1618.txt; pdftotext is not on this host. The
+    PyMuPDF; pdftotext is not on this host. The
     diagrams (spiders, rewrite rules, the graphical proofs in the
     appendices) came through as scattered phase labels. I read the rules
     from their prose statements (§4.2) and followed each appendix proof

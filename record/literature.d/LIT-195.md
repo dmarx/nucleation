@@ -12,9 +12,8 @@ history:
   note: >-
     Read in full (The full published text: the open-access (CC BY) HTML
     version of record of the introductory editorial, Phil. Trans. R. Soc. A
-    384(2320), 20240533. It was read from the Wayback capture that seeding
-    saved to rawP3/p053w.html, copied to rawA/safron_wayback.html and
-    extracted to rawA/safron.txt. The dossier dates the capture 2026-05-19;
+    384(2320), 20240533. It was read from the Wayback capture that seeding saved, and
+    extracted. The dossier dates the capture 2026-05-19;
     that date was not re-verified. The read covers the author block with
     CRediT roles, the abstract and keywords, §1, all 17 contribution
     summaries in §2(a)–(c) with the editors' commentary, §3, the back matter

@@ -11,14 +11,10 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (Full text of the published version, Nature Communications
-    14:4496 (2023), 9 pp. incl. Methods, Table 1 and references
-    (raw4/c33_nc.pdf → c33_nc.txt). Also read in full: the Supplementary
-    Information (4 pp.: Supplementary Notes 1–2, Supplementary Figs. 1–5;
-    raw4/c33_S1), the description of the ten Supplementary Movies
-    (raw4/c33_S3), and the Peer Review File (10 pp.: two referees' reports
-    and two rounds of author replies; raw4/c33_S2). I compared all of these
-    against arXiv:2303.09832v1 (8 pp., the only arXiv version;
-    raw4/2303.09832.txt). Text was extracted with PyMuPDF because pdftotext
+    14:4496 (2023), 9 pp. incl. Methods, Table 1 and references. Also read in full: the Supplementary
+    Information (4 pp.: Supplementary Notes 1–2, Supplementary Figs. 1–5), the description of the ten Supplementary Movies, and the Peer Review File (10 pp.: two referees' reports
+    and two rounds of author replies). I compared all of these
+    against arXiv:2303.09832v1 (8 pp., the only arXiv version). Text was extracted with PyMuPDF because pdftotext
     is not installed. I did not watch the movies. Figures came through only
     as labels, so for them I relied on captions and the surrounding prose.).
     Upgraded from `Skimmed` to `Read`: the claims table, assumptions and

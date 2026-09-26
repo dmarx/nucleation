@@ -16,7 +16,7 @@ history:
     Conclusion; footnotes 1–16; acknowledgments; references. Fetched
     2026-09-26 from
     link.springer.com/content/pdf/10.1007/s11098-026-02560-8.pdf with a
-    plain curl user agent into scratchpad/rawA/a14.pdf, and extracted with
+    plain curl user agent, and extracted with
     pypdf because pdftotext is not installed. The PDF confirms: received 16
     Dec 2024, accepted 19 May 2026, published online 6 Jun 2026. No preprint
     was compared.). Upgraded from `Skimmed` to `Read`: the claims table,

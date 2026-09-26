@@ -13,7 +13,7 @@ history:
     Read in full (full text of arXiv:1710.10694v1 ("Revised October 31,
     2017"; arXiv stamp 29 Oct 2017), 46 pp.: §1–5 in full (2.1–2.5, 3.1–3.5,
     4.1–4.5, 5.1–5.4), the acknowledgements and references. Extracted with
-    PyMuPDF into raw4/1710.10694.txt; there are no figures, so nothing was
+    PyMuPDF; there are no figures, so nothing was
     lost. I followed every proof line by line at the level of its argument.
     I did not collate against the ETDS version (39(5):1153–1189, 2019),
     which the acknowledgement's thanks to "the referee" suggests was revised

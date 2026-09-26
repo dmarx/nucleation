@@ -12,13 +12,12 @@ history:
   note: >-
     Read in full (Full text of the open-access (CC BY-NC 4.0) Element, 84
     PDF pages. The PDF was the Cambridge Core download already fetched for
-    the skim (rawP3/p047.pdf). I copied it to rawM/baedke-organism.pdf and
-    extracted it with PyMuPDF to rawM/baedke-organism.txt, because pdftotext
+    the skim. I copied it and
+    extracted it with PyMuPDF, because pdftotext
     is not installed here. I read all of it: front matter, abstract,
     contents, §1–§6 (printed pp. 1–58), Boxes 1–3, every footnote (1–33) and
     every figure caption. I viewed Figure 1 (the nexus diagram, p. 5) and
-    Figure 8 (the causal diagrams, p. 48) as page renders
-    (rawM/baedke-p11.png, rawM/baedke-p54.png). I did not view Figures 2–6
+    Figure 8 (the causal diagrams, p. 48) as page renders. I did not view Figures 2–6
     as images and know them only from their captions and the text; Figure 7
     I know from its caption and the text of pp. 46–47. The reference list
     (printed pp. 59–77) was scanned, not checked item by item. Page numbers

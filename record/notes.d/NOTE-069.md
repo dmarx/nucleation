@@ -11,8 +11,7 @@ history:
   date: '2026-09-25'
   note: >-
     Read in full (Full text of arXiv 1705.07442v5 (8 Jun 2023, 78 pp.),
-    downloaded to raw4/1705.07442.pdf and extracted with PyMuPDF to
-    raw4/1705.07442.full.txt and .j.txt. I read §§1–11, Appendix A (A.1–A.3)
+    downloaded and extracted with PyMuPDF. I read §§1–11, Appendix A (A.1–A.3)
     and the references, all of it. The inference-rule figures (Figs. 1–4)
     and the commutative diagrams (Figs. 5–7, the prism and simplex diagrams
     in §§5, 8, 11 and A) came through the extraction as flattened symbol

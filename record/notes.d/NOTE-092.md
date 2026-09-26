@@ -16,8 +16,7 @@ history:
     Overview of Empirical Tests); Studies 1–3 (Methods, Participants,
     Results, Discussion); the item-level correlations; General Discussion;
     Conclusion; notes 1–20; the reference list. Source: the open-access (CC
-    BY) PMC HTML (PMC13327788), fetched with curl into
-    scratchpad/rawA/quillien_pmc.html and converted to rawA/quillien.txt.
+    BY) PMC HTML (PMC13327788), fetched with curl and converted.
     The PMC PDF and the direct.mit.edu PDF both returned an HTML challenge
     page, not a PDF, so I read the PMC HTML text; the figures (Figs 1–6)
     were available only as captions. I could NOT get the Supplementary

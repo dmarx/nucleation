@@ -17,8 +17,7 @@ history:
     abstract, introduction, §1 Some Examples, §2 Two Attempts at an Account
     (2.1, 2.2), §3 On the Formation of Preferences (seven mechanisms), §4
     The Effectiveness of Consent, §5 Conclusion, all 15 footnotes,
-    acknowledgments and references. Downloaded to
-    scratchpad/rawA/pettigrew.pdf.). Upgraded from `Skimmed` to `Read`: the
+    acknowledgments and references.). Upgraded from `Skimmed` to `Read`: the
     claims table, assumptions and results are new, and the skim is corrected
     where the full text disagreed.
 date: '2026-09-26'

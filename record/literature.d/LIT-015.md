@@ -10,8 +10,7 @@ history:
 - version: 2
   date: '2026-09-25'
   note: >-
-    Read in full (The full text of the NSArchive-hosted PDF (raw4/40.pdf;
-    105 PDF pages; extracted with PyMuPDF to raw4/40.txt). That covers the
+    Read in full (The full text of the NSArchive-hosted PDF (105 PDF pages; extracted with PyMuPDF). That covers the
     preface, summary of changes, TOC, executive summary (pp. vii–xvii),
     Chapters I–IV (I-1–I-14, II-1–II-14, III-1–III-12, IV-1–IV-26),
     Appendices B–D and the Glossary (GL-1–GL-5). Figure III-1 (p. III-3) was
