@@ -12,7 +12,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-185 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-135 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-120 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-111 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-103 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->

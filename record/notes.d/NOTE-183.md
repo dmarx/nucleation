@@ -11,8 +11,6 @@ summary: >-
   Two challenges — users misattributing human-like consciousness to chatbots, and the real but untestable-for-now possibility of profoundly alien AI consciousness — must be met together. Birch argues this means nudging users out of the "persisting interlocutor illusion" without denying that AI could be conscious, while building research programmes, via comparative animal-consciousness science, that could test both computational-functionalist and biological-naturalist claims.
 ---
 <!-- inactive-ok-file: LIT-212 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-207 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-206 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-135 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-111 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
