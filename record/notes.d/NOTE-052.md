@@ -46,8 +46,6 @@ summary: >-
   anything the body shows.
 ---
 
-<!-- inactive-ok-file: LIT-066 — Deferred; named in Connections, not yet read closely -->
-<!-- inactive-ok-file: LIT-080 — Deferred; named in Connections, not yet read closely -->
 
 # NOTE-052: Consciousness in AI: indicator properties
 
