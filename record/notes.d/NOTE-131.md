@@ -42,7 +42,6 @@ summary: >-
 <!-- inactive-ok-file: LIT-135 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-191 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-111 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-185 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 
 # NOTE-131: Schwitzgebel — If materialism is true, the US is conscious
 

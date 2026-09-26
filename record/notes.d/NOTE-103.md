@@ -10,8 +10,6 @@ date: '2026-09-26'
 summary: >-
   Statistical mechanics, unlike quantum theory or relativity, has no canonical formalism, so its philosophy must adjudicate between rival Boltzmannian and Gibbsian frameworks — and practitioners compute in the Gibbsian one while foundational explanations are given in the Boltzmannian one.
 ---
-<!-- inactive-ok-file: LIT-150 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-141 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-114 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

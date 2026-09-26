@@ -36,8 +36,6 @@ summary: >-
   whose proof supports only C(O) ≥ 0.
 ---
 
-<!-- inactive-ok-file: LIT-177 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-150 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-102 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-133 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 

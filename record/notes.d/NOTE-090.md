@@ -11,8 +11,6 @@ summary: >-
   A trained neural network is best understood as a measuring instrument whose internal states have been altered by interaction with a dataset, and a generative model as a simulation built on that measurement. The puzzles about interpreting LLMs are therefore the familiar philosophy-of-science puzzles about instruments, models and simulations, not puzzles about other minds.
 ---
 <!-- inactive-ok-file: LIT-208 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-184 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-151 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-140 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

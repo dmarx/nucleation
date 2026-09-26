@@ -38,7 +38,6 @@ summary: >-
   cases, anglerfish, sea slug and jumping ant, and is asserted, not shown,
   to hold of organisms only (p. 40).
 ---
-<!-- inactive-ok-file: LIT-156 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-110 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->

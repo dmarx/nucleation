@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Evangelion stages the existentialist answer to meaninglessness. The Human Instrumentality Project (merging all selves to end loneliness) fails because a self, and therefore meaning, exists only through contrast with and separation from others, so meaning comes from connection at a distance.
 ---
-<!-- inactive-ok-file: LIT-136 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-116 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
