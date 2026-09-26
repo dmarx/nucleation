@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   Seven Sussex-centred authors argue that IIT is ill-defined for real physical systems, because its algorithm requires Markovian dynamics under every graining, and that Φ has never been computed for any real system. Empirical measures such as PCI are proxies, not approximations. They also hold that "high Φ = more consciousness" is a misreading and that IIT's distinctive "tiling" panpsychism is unproblematic.
 ---
-<!-- inactive-ok-file: LIT-159 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-135 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-185 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->

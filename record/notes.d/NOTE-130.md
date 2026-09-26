@@ -11,7 +11,6 @@ summary: >-
   Individuating a self is logically prior to re-identifying it. Floridi argues that the self can be individuated informationally, as a system built up through three successive "membranes" (corporeal, cognitive, consciousness). That makes ICTs, which reshape all three, literal technologies of the self.
 ---
 <!-- inactive-ok-file: LIT-206 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-097 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-136 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 

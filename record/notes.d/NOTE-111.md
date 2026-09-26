@@ -10,8 +10,6 @@ date: '2026-09-26'
 summary: >-
   Accounts of organism–environment reciprocal causation, from the early twentieth century to present niche construction theory, keep failing in two ways — merging organism and environment, and not integrating experiential with physical niche construction — and a sequential ("unrolled") causal model that keeps an epistemic boundary between them fixes both.
 ---
-<!-- inactive-ok-file: LIT-168 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-157 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-156 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 
 <!-- inactive-ok-file: LIT-110 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
