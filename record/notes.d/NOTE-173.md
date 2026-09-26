@@ -40,12 +40,9 @@ summary: >-
   community-level individuality (§3).
 ---
 <!-- inactive-ok-file: LIT-201 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-110 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 
-<!-- inactive-ok-file: LIT-169 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-127 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-188 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-173: Griesemer & Shavit — Scaffolding individuality (3Cs)

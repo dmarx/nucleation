@@ -36,7 +36,6 @@ summary: >-
   and argues that strong-emergence claims from molecular structure are
   weak.
 ---
-<!-- inactive-ok-file: LIT-110 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-124: McKenzie — Emergence from physics to computer science
 
