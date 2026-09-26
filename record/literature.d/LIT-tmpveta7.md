@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-26; not read in full
+title: 'The Enigma Unveiled: How AI Compromises Free Will in Decision-Making'
+version: 1
+tags:
+- agency
+- ethics
+- society-and-governance
+date: '2026-09-26'
+published: '2024-04-16'
+doi: '10.1109/ICAPAI61893.2024.10541271'
+first_author: 'Sharman'
+keywords:
+- 'free will'
+- 'artificial intelligence'
+- 'decision-making'
+- 'manipulation'
+- 'autonomy'
+implementations: []
+summary: >-
+  Sharman (2024), DOI-10.1109/ICAPAI61893.2024.10541271. Argues that AI compromises human free will by shaping decisions, manipulating emotions and lacking responsiveness to reasons, while admitting the debate is unresolved.
+---
+
+# LIT-tmpveta7: The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
+
+Varun Sharman (2024), *2024 4th International Conference on Applied Artificial Intelligence (ICAPAI), pp. 1–6 (IEEE)* — DOI-10.1109/ICAPAI61893.2024.10541271
+
+## Key takeaways
+
+- Argues that AI compromises human free will by shaping decisions, manipulating emotions and lacking responsiveness to reasons, while admitting the debate is unresolved.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+The paper asks whether reliance on AI tools in organisations and daily life has eroded free will. It reviews philosophical accounts of free will and what they take to be its conditions, then argues that AI undermines those conditions by steering decision-making, manipulating emotions and lacking the reasons-responsiveness humans have. It also considers effects on social inequality and injustice. It offers no definitive resolution but defends the claim that AI compromises free will, and frames the issue as bearing on autonomy, ethics and democracy.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 0 seconds of active reading over 0 sessions. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — t=0, closed access, and a venue and length that suggest little beyond the abstract.**
+
+What a deeper reading should check:
+
+- Only as a pointer: a six-page applied-AI conference paper is unlikely to add to the philosophical literature on manipulation and autonomy. Check whether it distinguishes metaphysical free will from autonomy or manipulation, which the abstract appears to run together.
+- "Lacks the responsiveness to reasons" is ambiguous between the AI's reasons-responsiveness and the user's; a deeper read should check which is meant.
+
+Access when seeded: The captured URL was a Semantic Scholar page; the Semantic Scholar API gave the DOI and the full abstract, and Crossref confirmed the DOI, the author and pp. 1–6. The paper is closed access on IEEE Xplore and no open copy was found (OpenAlex lists none). 2024-04-16 is the conference date that Crossref and Semantic Scholar give; the Xplore online date is unverified. Keywords are my own; the paper's index terms were not reachable.

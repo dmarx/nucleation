@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-26; not read in full
+title: 'Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out'
+version: 1
+tags:
+- ethics
+- society-and-governance
+date: '2026-09-26'
+published: '2021-01-01'
+url: 'https://mcfarlandbooks.com/product/Having-Their-Say/'
+first_author: 'Bunton'
+keywords:
+- 'celebrity activism'
+- 'speaking out'
+- 'media ethics'
+- 'platform'
+- 'harm'
+implementations: []
+summary: >-
+  Bunton (2021), <https://philpapers.org/rec/BUNHTS>. Argues that celebrities' speaking out on public issues is justifiable only when speakers, journalists and audiences attend to platform, intent and harm, because digital audiences treat celebrity as authority.
+---
+<!-- inactive-ok-file: LIT-tmpxuw69 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpmf2il — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpb7lfy — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmpmy6l2: Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out
+
+Kristie Bunton (2021), *McFarland (Ethics and Culture series, ed. James M. Okapal); 271 pp.; ISBN 978-1-4766-8098-9* — <https://philpapers.org/rec/BUNHTS>
+
+## Key takeaways
+
+- Argues that celebrities' speaking out on public issues is justifiable only when speakers, journalists and audiences attend to platform, intent and harm, because digital audiences treat celebrity as authority.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+Starting from Natalie Maines being told to "shut up and sing" and the reactions to Colin Kaepernick kneeling, the book examines the ethics of famous people speaking on issues unrelated to their work. Through case studies — Taylor Swift, the Chicks, Jon Stewart, Tom Hanks, Serena Williams, Stephen Curry, Kaepernick and Naomi Osaka — it argues that justified speaking requires celebrity speakers, journalists and audiences to weigh platform, intent and harm, especially when audiences equate fame with expertise. It ends by asking how people who are not famous should think about their own responsibilities to speak out.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 65 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — t=65s, but a trade-academic book outside the record's core, and the ToC gives its structure.**
+
+What a deeper reading should check:
+
+- The table of contents gives the framework: Part I defines speaking out and its ethical terrain (power, privilege, harm, justification); Part II asks four questions (the speaker's relation to the topic, motivation, the nature of any harm, whether it promotes dialogue); Part III covers athletes on inequality, symbolic protest, celebrities during the pandemic ("Who's an Expert?"), and ethical responses to speaking out.
+- The book comes from media ethics and journalism (the author is a communication-school dean) rather than academic philosophy; check how far it engages the philosophical literature on epistemic authority.
+- Companion to [LIT-tmpxuw69](LIT-tmpxuw69.md) (Walsh on Kaepernick) and [LIT-tmpb7lfy](LIT-tmpb7lfy.md) and [LIT-tmpmf2il](LIT-tmpmf2il.md) (celebrity ethics).
+
+Access when seeded: philpapers is blocked here; identified by web search and read the publisher's page (mcfarlandbooks.com) for the description, bibliographic details and full table of contents. The copyright date is 2021; no exact release date was reachable (Google Books quota exhausted, Open Library connection reset), so published is unverified. No Crossref DOI found. The book text was not reached. Keywords are my own.

@@ -1,0 +1,54 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'A Model of Understanding in Deep Learning Systems'
+version: 1
+tags:
+- philosophy-of-science
+- cognition
+date: '2026-09-26'
+published: '2026-04-05'
+arxiv: '2604.04171'
+first_author: 'Freeborn'
+keywords:
+- 'deep learning'
+- 'scientific understanding'
+- 'representation'
+- 'memorization and generalization'
+- 'interpolation and extrapolation'
+- 'mechanistic interpretability'
+- 'world models'
+- 'unification'
+implementations: []
+summary: >-
+  Freeborn (2026), [ARXIV-2604.04171](https://arxiv.org/abs/2604.04171). Freeborn explicates "systematic understanding" non-anthropocentrically: an internal model that tracks a real regularity without memorizing it, is linked to the target by bridge principles, and supports approximate derivation. On that account deep learning systems often genuinely understand, but in a "fractured" way — symbolically misaligned, non-reductive, weakly unifying and locally brittle (the Fractured Understanding Hypothesis).
+---
+<!-- inactive-ok-file: LIT-tmpxq5br — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpvchky — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpf8kni — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmpa5biy: A Model of Understanding in Deep Learning Systems
+
+David Peter Wallis Freeborn (2026), *arXiv preprint (cs.AI); also PhilSci-Archive preprint 28921* — [ARXIV-2604.04171](https://arxiv.org/abs/2604.04171)
+
+## Key takeaways
+
+- Freeborn explicates "systematic understanding" non-anthropocentrically: an internal model that tracks a real regularity without memorizing it, is linked to the target by bridge principles, and supports approximate derivation. On that account deep learning systems often genuinely understand, but in a "fractured" way — symbolically misaligned, non-reductive, weakly unifying and locally brittle (the Fractured Understanding Hypothesis).
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Freeborn offers a model of systematic understanding designed to apply to machine-learning systems. An agent understands a property of a target system when it contains an adequate internal model that tracks real regularities, is coupled to the target by stable bridge principles, and supports reliable prediction. He argues that current deep learning systems often achieve this. They usually fall short of the ideal of scientific understanding, however. Their understanding is symbolically misaligned with the target, not explicitly reductive, and only weakly unifying. He calls this the Fractured Understanding Hypothesis.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 0 seconds of active reading over 0 sessions. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — t=0, but the paper offers a precise, citable criterion that bridges the nucleation and anthology sides. The skim captures the criteria and the hypothesis, not the worked examples.**
+
+What a deeper reading should check:
+
+- It is a usable middle position for notes on whether LLMs understand or have world models. It pairs with [LIT-tmpvchky](LIT-tmpvchky.md) (the three-tier "world model" criterion), [LIT-tmpxq5br](LIT-tmpxq5br.md) (Roberts, anti-realism) and [LIT-tmpf8kni](LIT-tmpf8kni.md) (functionalism for deep learning).
+- The home line is borderline. The explication is philosophy of science, but the FUH is an empirical claim about how deep networks behave (brittleness, proxy dependence) that the anthology might also want to cite. A curator may want a cross-reference.
+- Check whether "bridge principles" are specified independently of the interpreter. If an interpretability researcher supplies them, the understanding may be partly observer-relative.
+
+Access when seeded: The tracked URL is PhilSci-Archive 28921, which is behind an F5 bot challenge from here. The tracker had no author. Identified the work by web search and read its PhilSci metadata (author, keywords, subjects, date 2026-04-05, deposited 2026-04-06) from the Wayback Machine capture of 2026-05-19. Read the full text from arXiv 2604.04171 (v1, submitted Sun 5 Apr 2026; 60 pp.): abstract, §1 Introduction, all section heads, the Kepler–Newton–Gauss passage in §4, §4.2 Systematic Understanding, the start of §6.4 (Othello), §7.5 Statement of the Hypothesis and §8 Conclusions. The keywords above are a subset of the PhilSci keyword list.

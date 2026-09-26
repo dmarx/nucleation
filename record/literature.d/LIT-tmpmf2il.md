@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-26; not read in full
+title: 'Ethics of Parasocial Relationships'
+version: 1
+tags:
+- ethics
+- identity
+- society-and-governance
+date: '2026-09-26'
+published: '2025-09-04'
+doi: '10.1093/9780198928188.003.0012'
+first_author: 'Archer'
+keywords:
+- 'parasocial relationships'
+- 'celebrity'
+- 'fans'
+- 'asymmetry'
+- 'recognition respect'
+implementations: []
+summary: >-
+  Archer et al. (2025), DOI-10.1093/9780198928188.003.0012. A fan–celebrity parasocial relationship is a distinct kind of personal relationship built on three structural asymmetries — attention, communication and epistemic — that give each side directive or interpretive influence over the other's identity, which risks failures of recognition respect and creates duties on both sides.
+---
+
+# LIT-tmpmf2il: Ethics of Parasocial Relationships
+
+Alfred Archer, Catherine Robb (2025), *In M. Betzler and J. Löschke (eds.), The Ethics of Relationships, Oxford University Press, pp. 211–229* — DOI-10.1093/9780198928188.003.0012
+
+## Key takeaways
+
+- A fan–celebrity parasocial relationship is a distinct kind of personal relationship built on three structural asymmetries — attention, communication and epistemic — that give each side directive or interpretive influence over the other's identity, which risks failures of recognition respect and creates duties on both sides.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+The chapter notes that parasocial relationships — one-sided attachments in which a media user relates to a media personality as a friend or family member — are well studied in celebrity and fan studies but neglected by philosophers. Focusing on fans and celebrities, it argues that such a relationship is a distinct kind of personal relationship with three structural asymmetries: attention, communication and epistemic. These produce a further asymmetry in the "directive" or "interpretive" influence each party has over the other's identity, which can lead to failures of recognition respect and gives both fans and celebrities ethical responsibilities. The authors close by noting that similar asymmetries appear in other relationships marked by power.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 25 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — t=25s, but the framework transfers directly to user–chatbot relationships, which makes it more load-bearing than its dwell time suggests; try the Tilburg preprint again from another network.**
+
+What a deeper reading should check:
+
+- The three-asymmetry analysis applies naturally to human–AI companion relationships, which are parasocial in a strong sense; check whether the definition requires the other party to be a person.
+- Check what "directive" and "interpretive" influence over identity amount to, and what concrete duties the chapter assigns to fans.
+
+Access when seeded: philpapers is blocked here; resolved via Crossref (chapter DOI, pp. 211–229; volume published 2025-09-04 per Crossref's book record, while OpenAlex gives 2025-08-01), which also carries the full OUP abstract. A penultimate version is listed on Tilburg University's research portal, but the file URL returned a Cloudflare challenge and the alternate Pure URL returned a "page not found" document. Keywords are my own.

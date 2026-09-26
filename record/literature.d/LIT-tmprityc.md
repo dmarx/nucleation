@@ -1,0 +1,52 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Integrated information theory: the good, the bad and the misunderstood'
+version: 1
+tags:
+- consciousness
+- information-theory
+- metaphysics
+date: '2026-09-26'
+published: '2026-04-13'
+arxiv: '2604.11482'
+first_author: 'Barrett'
+keywords:
+- 'integrated information theory'
+- 'Φ'
+- 'panpsychism'
+- 'consciousness'
+- 'cause-effect structure'
+- 'proxies vs approximations'
+implementations: []
+summary: >-
+  Barrett et al. (2026), [ARXIV-2604.11482](https://arxiv.org/abs/2604.11482). Seven Sussex-centred authors argue that IIT is ill-defined for real physical systems, because its algorithm requires Markovian dynamics under every graining, and that Φ has never been computed for any real system. Empirical measures such as PCI are proxies, not approximations. They also hold that "high Φ = more consciousness" is a misreading and that IIT's distinctive "tiling" panpsychism is unproblematic.
+---
+<!-- inactive-ok-file: LIT-tmpj98wt — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpasglk — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmprityc: Integrated information theory: the good, the bad and the misunderstood
+
+Adam B. Barrett, Borjan Milinkovic, Pedro A. M. Mediano, Fernando E. Rosas, Daniel Bor, Lionel Barnett, Anil K. Seth (2026), *arXiv preprint (q-bio.NC)* — [ARXIV-2604.11482](https://arxiv.org/abs/2604.11482)
+
+## Key takeaways
+
+- Seven Sussex-centred authors argue that IIT is ill-defined for real physical systems, because its algorithm requires Markovian dynamics under every graining, and that Φ has never been computed for any real system. Empirical measures such as PCI are proxies, not approximations. They also hold that "high Φ = more consciousness" is a misreading and that IIT's distinctive "tiling" panpsychism is unproblematic.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+IIT is unusually ambitious: it offers a formula, derived from apparently basic properties of experience, for the quantity and quality of consciousness in any physical system. The debate around it has produced misunderstandings, which the authors try to correct. They summarise IIT for an arbitrary patch of matter, not the usual network of discrete units, and review its achievements. They then make five points. High Φ is not the same as "more consciousness", and a suite of quantities could characterise states of consciousness instead. IIT implies a particular panpsychism, in which space and time are tiled with substrates of (proto-)consciousness, and this is not a problem. Φ is not well defined for real physical systems and has never been computed on one. Only proxies for IIT measures, not approximations, have been computed. Fitting IIT to fundamental physics would require reformulating it in terms of continuous fields.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 40 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — t=40 s. It is an important corrective reference, but the skim captures the five points, and the technical detail matters only for a dedicated IIT note.**
+
+What a deeper reading should check:
+
+- A current, technically informed assessment of IIT from its sympathetic critics. It is the natural reference for any note that cites IIT on AI consciousness (IIT's substrate focus bears on digital hardware) or engages Schwitzgebel's [LIT-tmpj98wt](LIT-tmpj98wt.md) critique of the exclusion postulate.
+- The §5.1 argument (non-Markovian grainings) is the load-bearing technical claim. It builds on Barrett & Mediano 2019, which a deeper reading should check alongside any IIT 4.0 reply.
+- Note the overlap in authorship with Seth ([LIT-tmpasglk](LIT-tmpasglk.md)). The paper's charity toward IIT's panpsychism sits alongside Seth's biological naturalism, and a deeper reading could check whether the two are consistent.
+
+Access when seeded: arXiv abstract page (v1 submitted Mon 13 Apr 2026; "19 pages, 3 figures") and the full PDF. Read the abstract, §1 Introduction, all section heads, §4.2 (panpsychism), §5.1 (ill-definedness), §6 Discussion and the start of Box 2 (recommendations). The paper lists no keywords; the keywords above are its own terms.

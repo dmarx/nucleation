@@ -1,0 +1,52 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Borges and AI'
+version: 1
+tags:
+- linguistics
+- cognition
+- society-and-governance
+- anthology-candidate
+date: '2026-09-26'
+published: '2023-09-27'
+arxiv: '2310.01425'
+first_author: 'Bottou'
+keywords:
+- 'large language models'
+- 'fiction'
+- 'Borges'
+- 'hallucination'
+- 'alignment'
+implementations: []
+summary: >-
+  Bottou et al. (2023), [ARXIV-2310.01425](https://arxiv.org/abs/2310.01425). A (perfect) language model is best understood not through science-fiction imagery of sentient machines but as Borges's Garden of Forking Paths — a fiction machine that follows narrative necessity with no regard for truth or intention — which reframes hallucination, sycophancy and alignment.
+---
+
+# LIT-tmpobt23: Borges and AI
+
+Léon Bottou, Bernhard Schölkopf (2023), *arXiv preprint (cs.CL; cs.AI, cs.LG)* — [ARXIV-2310.01425](https://arxiv.org/abs/2310.01425)
+
+## Key takeaways
+
+- A (perfect) language model is best understood not through science-fiction imagery of sentient machines but as Borges's Garden of Forking Paths — a fiction machine that follows narrative necessity with no regard for truth or intention — which reframes hallucination, sycophancy and alignment.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Public debate about LLMs, for and against, draws on science-fiction imagery: sentient machines rebelling, paperclip apocalypses. The authors ask whether that imagery describes the phenomenon well at all, and compare it to explaining weather through the moods of the gods. They propose instead to understand LLMs, and their relation to AI, through Jorge Luis Borges's fiction. This yields a different view of how language modelling relates to artificial intelligence.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 40 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+Tagged `anthology-candidate` ([ADR-005](../decisions.d/ADR-005.md)): the seed judged it chiefly about machine-learning practice. It is kept here by the owner's decision of 2026-09-26: everything from this sweep stays in nucleation until a transfer is judged appropriate.
+
+**Priority for a deeper reading: medium — 40 s dwell and short. The skim covers essentially the whole text, but the framing is influential enough to cite accurately.**
+
+What a deeper reading should check:
+
+- A widely cited framing (LLM as a fiction or role-play machine) with direct bearing on how the anthology describes hallucination, sycophancy and jailbreaks. It pairs with simulator and role-play framings in the ML literature.
+- It is an essay, not an argument with evidence. Check whether its "perfect language model" idealization survives instruction tuning and RLHF, which the authors treat as pruning rather than changing the model's nature.
+- Check for later work by the authors developing the view.
+
+Access when seeded: arXiv abs page (v1 submitted 2023-09-27, v2 2023-10-04) and the v2 PDF (9 pp, CC BY-NC-ND) via curl. It is a short essay, and I read all three sections (§1 About LLMs, §2 The Librarians, §3 Storytime). No journal version found. Keywords are mine.

@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Luck and Intentional Action: A Causal Account'
+version: 1
+tags:
+- agency
+- cognition
+- philosophy-of-science
+date: '2026-09-26'
+published: '2026-06-17'
+doi: '10.1162/OPMI.a.361'
+first_author: 'Quillien'
+keywords:
+- 'intentional action'
+- 'causation'
+- 'concepts'
+- 'theory of mind'
+- 'luck'
+implementations: []
+summary: >-
+  Quillien (2026), DOI-10.1162/OPMI.a.361. The folk concept of intentional action tracks whether the agent's desire was a strong (necessary and robust) cause of the outcome, which is why lucky successes are judged unintentional.
+---
+
+# LIT-tmpa5z9a: Luck and Intentional Action: A Causal Account
+
+Tadeg Quillien (2026), *Open Mind, vol. 10, 857–883* — DOI-10.1162/OPMI.a.361
+
+## Key takeaways
+
+- The folk concept of intentional action tracks whether the agent's desire was a strong (necessary and robust) cause of the outcome, which is why lucky successes are judged unintentional.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The paper asks whether an action can be intentional when success was improbable, a case where folk intuitions follow a complex pattern. Quillien proposes a causal theory: people call an outcome intentional when the agent's desire for it was a strong cause of it. When chance decides the outcome, the desire is judged a weak cause, and intentionality ratings drop with it. Across studies, participants who deny that a lucky outcome was intentional also deny that it happened because of the agent's desire. Intentionality judgments follow causal judgments more closely than they follow rival explanatory factors.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 5 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — 5 s dwell. It is experimental philosophy of action, and the skim captures its thesis and design.**
+
+What a deeper reading should check:
+
+- Connects the concept of agency to counterfactual and causal-strength models (necessity and robustness). This is relevant wherever intentionality or responsibility is attributed to automated agents.
+- Check the effect sizes and the item-level correlations (Fig. 6) to see how much causal judgment adds beyond know-how and probability-raising.
+- Check the Study 2 divergence, which may be where the account is weakest.
+
+Access when seeded: direct.mit.edu returned 403 for both the article and the PDF. The open-access (CC BY) full text came from PubMed Central (PMC13327788) via curl. Read the abstract, keywords, the introduction subsections (Our Proposal; Causation and Counterfactuals; Other Recent Accounts; Overview of Empirical Tests), the General Discussion opening and the Conclusion. The study Methods and Results were not read. Crossref gives vol. 10, pp. 857–883, published 2026-06-17.

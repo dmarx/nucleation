@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Welfare Subjects and Autopoiesis'
+version: 1
+tags:
+- ethics
+- consciousness
+- agency
+date: '2026-09-26'
+published: '2025-07-17'
+doi: '10.1017/apa.2025.10006'
+first_author: 'Bruckner'
+keywords:
+- 'well-being'
+- 'welfare'
+- 'autopoiesis'
+- 'sentience'
+- 'teleological organization'
+implementations: []
+summary: >-
+  Bruckner (2025), DOI-10.1017/apa.2025.10006. Autopoiesis — adaptively producing, maintaining and renewing oneself in response to the environment — is sufficient for being a welfare subject. The criterion sits between sentience-necessity and teleology-sufficiency: it counts plants, and near-future self-maintaining machines, as welfare subjects, but not thermostats or engines.
+---
+<!-- inactive-ok-file: LIT-tmpasglk — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmp4tk05 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmp75cds: Welfare Subjects and Autopoiesis
+
+Donald W. Bruckner (2025), *Journal of the American Philosophical Association 11, 696–714* — DOI-10.1017/apa.2025.10006
+
+## Key takeaways
+
+- Autopoiesis — adaptively producing, maintaining and renewing oneself in response to the environment — is sufficient for being a welfare subject. The criterion sits between sentience-necessity and teleology-sufficiency: it counts plants, and near-future self-maintaining machines, as welfare subjects, but not thermostats or engines.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+A welfare subject has a good of its own: things can go well or badly for it. Everyone agrees that adult humans are welfare subjects and rocks are not, but what grounds the difference is disputed. The default view makes sentience necessary. A rival view makes teleological organization sufficient. Bruckner defends an intermediate view: every autopoietic entity, one that sustains, maintains and renews itself adaptively to its environment, is a welfare subject. The view explains why sentient animals qualify and why merely teleologically organized artefacts such as car engines do not.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 50 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — t=50 s. It is a clear, citable position on welfare without sentience that connects to AI-welfare notes. The skim captures the argument but not the details of §8.**
+
+What a deeper reading should check:
+
+- It bears directly on AI moral-patienthood debates. It offers a route to welfare subjecthood for machines that does not go through consciousness at all, in contrast to [LIT-tmp4tk05](LIT-tmp4tk05.md) (Birch) and [LIT-tmpasglk](LIT-tmpasglk.md) (Seth), which tie it to consciousness or life.
+- Check how sharp the line between "autopoiesis" and sophisticated teleological self-regulation really is. The Tessler case suggests that the criterion is graded and could be engineered in.
+- The term's biological origin (Maturana and Varela) matters: does Bruckner's looser, behaviour-based use keep what makes autopoiesis a principled boundary?
+
+Access when seeded: Full open-access article (CC BY) from Cambridge Core, as both PDF (19 pp.) and HTML. The PDF text layer drops digits, so section content was read from the HTML: abstract, keywords, §1 Introduction, §2, the definition in §4, §5 Plants, §6.1–6.4, §7 (objection, replies Part One and Part Two), §8, and §9. "Published online by Cambridge University Press: 17 July 2025" per the article page and Crossref.

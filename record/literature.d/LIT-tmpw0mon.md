@@ -1,0 +1,54 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-26; not read in full
+title: 'Alternative formulations of multilevel selection'
+version: 1
+tags:
+- philosophy-of-science
+- natural-sciences
+date: '2026-09-26'
+published: '1988-10-01'
+doi: '10.1007/BF00647962'
+first_author: 'Damuth'
+keywords:
+- 'Natural selection'
+- 'selection analysis'
+- 'multilevel selection'
+- 'units of selection'
+- 'hierarchy'
+- 'group selection'
+- 'species selection'
+- 'effect hypothesis'
+implementations: []
+summary: >-
+  Damuth et al. (1988), DOI-10.1007/BF00647962. Multilevel selection comes in two formulations — MLS1, the effects of group membership on individual fitness, and MLS2, groups' own tendencies to go extinct or found new groups — which answer different questions about one process, and much of the group-selection and species-selection dispute comes from running them together.
+---
+<!-- inactive-ok-file: LIT-tmpxf719 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpjoofa — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmpiu2vx — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmpw0mon: Alternative formulations of multilevel selection
+
+John Damuth, I. Lorraine Heisler (1988), *Biology and Philosophy 3(4):407–430* — DOI-10.1007/BF00647962
+
+## Key takeaways
+
+- Multilevel selection comes in two formulations — MLS1, the effects of group membership on individual fitness, and MLS2, groups' own tendencies to go extinct or found new groups — which answer different questions about one process, and much of the group-selection and species-selection dispute comes from running them together.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+The group selection and species selection traditions both extend natural selection above the level of the organism and so both deal with multilevel selection, where selection acts at several levels at once. Their different goals have blocked a unified treatment. The authors separate multilevel selection 1 (how group membership affects individual fitness) from multilevel selection 2 (how groups themselves go extinct or found new groups), and argue these are complementary perspectives on the same process suited to different questions. On the Springer abstract as summarised: MLS2 does not require emergent group-level properties, MLS1 suits neontological work better, species selection belongs under MLS2, and the macroevolutionary "effect hypothesis" is untestable with paleontological data and needs unrealistic conditions.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 40 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — brief visit (t = 40 s) and only the abstract reached, but it is a foundational, much-cited distinction; worth getting the full text through a library.**
+
+What a deeper reading should check:
+
+- The source of the MLS1/MLS2 distinction that Okasha and the SEP entry ([LIT-tmpjoofa](LIT-tmpjoofa.md)) build on; foundational for the units-of-selection topic.
+- Check the formal treatment (contextual analysis vs Price-equation partitions; cf. [LIT-tmpxf719](LIT-tmpxf719.md)) and the precise claim that MLS2 needs no emergent group traits, which bears on emergence debates ([LIT-tmpiu2vx](LIT-tmpiu2vx.md)).
+- Check the argument against the effect hypothesis (Vrba) against later species-selection work.
+
+Access when seeded: Paywalled; Springer blocks curl, the article page is not archived, and no preprint was found (web search, Semantic Scholar marks it closed, PhilPapers blocked). Issue month, pages and authors come from Crossref; no day-level date exists for this 1988 issue, so `published:` uses the first of the month. The abstract is from the tracker's truncated capture plus a WebFetch model summary of the Springer page, which quoted the two definitions and the keyword list — so this is abstract depth only.
