@@ -43,7 +43,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-126 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-193 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-166 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-181: The Moral Status of Animals (SEP)

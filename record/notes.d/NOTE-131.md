@@ -38,10 +38,6 @@ summary: >-
   undecided between three readings: US consciousness, a challenge to
   materialists, or grounds to distrust universal metaphysics of mind.
 ---
-<!-- inactive-ok-file: LIT-166 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-135 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-191 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-111 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 
 # NOTE-131: Schwitzgebel — If materialism is true, the US is conscious
 

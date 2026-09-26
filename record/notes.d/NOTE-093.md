@@ -35,8 +35,6 @@ summary: >-
   concerning non-conscious subjects are "extremely weak" (Bradford 2023).
 ---
 <!-- inactive-ok-file: LIT-193 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-135 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-111 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-093: Bruckner — Welfare Subjects and Autopoiesis
 

@@ -35,7 +35,6 @@ summary: >-
   persistence and the relation that matters ethically keep coming apart.
   It concludes that all three questions remain open.
 ---
-<!-- inactive-ok-file: LIT-111 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-166: Personal Identity and Ethics (SEP)
 
