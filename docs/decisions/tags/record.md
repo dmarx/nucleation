@@ -6,7 +6,7 @@
 
 **The record** — what the schemes hold, and the rules between them.
 
-4 of 4 decisions. Back to the [full index](../README.md).
+5 of 5 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [ADR-002](../../../record/decisions.d/ADR-002.md) | published: is the exact date of first appearance where a source gives one | A LIT's `published:` records the day the work first appeared — an arXiv v1 submission date, a court filing date, a post's date — and falls back to the first of the month only when no source gives a day. The month-only convention inherited from the anthology threw away a fact every source already states. | Active |
 | [ADR-003](../../../record/decisions.d/ADR-003.md) | Ten more topics, seven of them grouped as philosophy | The topic vocabulary gains information-theory, social-science and linguistics, and seven philosophy words — metaphysics, mereology, agency, identity, ethics, consciousness, cognition — which a `philosophy` tag group labels as a set. The group is a label (`require: any`), not a rule: a work may carry any number of them, alongside any other topic. | Active |
 | [ADR-004](../../../record/decisions.d/ADR-004.md) | philosophy-of-science joins the philosophy group | An eighth philosophy word, `philosophy-of-science`, for what science is and what its theories say about the world: realism and structural realism, explanation, causation and evidence, the interpretation of physical theories. It joins the `philosophy` tag group [ADR-003](../../../record/decisions.d/ADR-003.md) declared. | Active |
+| [ADR-005](../../../record/decisions.d/ADR-005.md) | anthology-candidate: a curation flag in the tag vocabulary | A work that may belong in the Anthology of the SOTA carries the tag `anthology-candidate`, after its topics and never first. The tag is a curation flag, not a subject, and a `flags` tag group labels it as one. Its generated tag page is the report of pending transfers. The work stays here until somebody decides to move it. | Active |

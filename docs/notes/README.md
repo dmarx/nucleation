@@ -8,6 +8,9 @@ this directory, then run `luria index`.
 **[agency](tags/agency.md)** (1):
 [032](../../record/notes.d/NOTE-032.md)
 
+**[anthology-candidate](tags/anthology-candidate.md)** (3):
+[052](../../record/notes.d/NOTE-052.md) · [081](../../record/notes.d/NOTE-081.md) · [086](../../record/notes.d/NOTE-086.md)
+
 **[cognition](tags/cognition.md)** (4):
 [029](../../record/notes.d/NOTE-029.md) · [040](../../record/notes.d/NOTE-040.md) · [052](../../record/notes.d/NOTE-052.md) · [055](../../record/notes.d/NOTE-055.md)
 
