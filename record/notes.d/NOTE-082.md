@@ -1,34 +1,173 @@
 ---
 number: 82
-status: Skimmed
+status: Read
 formerly:
 - NOTE-tmpxto0p
 paper: LIT-081
 title: 'Barnum, Gaebler & Wilce, ensemble steering and self-duality'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-09-25'
+  note: >-
+    Read in full (full text of arXiv:0912.5532v2 (4 Mar 2010), 24 pp. I read
+    §1–6 (pp. 1–17), the acknowledgements, references [1]–[32], Appendix A
+    (Examples A.1–A.3) and Appendix B (the steering product, Def. B.1 –
+    Question 3). I extracted the text with PyMuPDF into raw4/0912.5532.txt;
+    it has no figures, so nothing was lost. Nothing was skipped. I did not
+    compare it with the Foundations of Physics version (43(12):1411–1427,
+    2013), so any repair made there is unverified.). Upgraded from `Skimmed`
+    to `Read`: the claims table, assumptions and results are new, and the
+    skim is corrected where the full text disagreed.
 date: '2026-09-25'
 summary: >-
-  In any probabilistic theory where every system can steer its own states (universal self-steering), state spaces are homogeneous and weakly self-dual. Upgrade weak to strong self-duality and add local tomography and qubits, and Koecher–Vinberg plus Hanche-Olsen force finite-dimensional complex C*-algebraic quantum theory.
+  A bipartite state ω steers its B-marginal iff ω̂ : [0,u_A] → [0,ω_B] is
+  a strong quotient map of ordered sets (Thm 5.4). When ω̂ is injective
+  and the marginal is interior, a steering state is an order-isomorphism
+  (Cor. 5.5). With Thm 4.1/Cor. 4.2, it follows that universal
+  self-steering makes every irreducible state space homogeneous and weakly
+  self-dual (Prop. 5.8). The step from there to C*-algebraic quantum
+  theory needs strong self-duality, which the paper does not derive, and a
+  Hanche-Olsen correspondence it defers ("as we will establish elsewhere",
+  §6).
 ---
-
-<!-- inactive-ok-file: LIT-081 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-25 -->
 
 # NOTE-082: Barnum, Gaebler & Wilce, ensemble steering and self-duality
 
 ## Contribution
 
-A bipartite state steers its marginal if, for any decomposition of that marginal into an ensemble, some measurement on the other side prepares exactly that ensemble with the right probabilities. Schrödinger observed that pure quantum states always allow this. The authors show that for weakly self-dual state spaces (isomorphic to their duals, though not canonically), requiring every state of a system to be steerable from a composite of two copies of it amounts to requiring that the state cone be homogeneous. If the space is genuinely self-dual, the Koecher–Vinberg theorem makes it the self-adjoint part of a formally real Jordan algebra, which is very close to quantum mechanics.
+The paper makes Schrödinger's ensemble steering a precise property of a bipartite state in any finite-dimensional ordered-linear-space GPT (Def. 5.1). It then characterises steering order-theoretically: ω steers its B-marginal iff ω̂ restricted to the unit interval is a *strong quotient map* of ordered sets (Thm 5.4). Combined with a purification characterisation of homogeneity (Thm 4.1), this yields the headline:
+- a theory in which every system can steer every one of its own states from a composite of two copies (*universal self-steering*) has only homogeneous, weakly self-dual irreducible state spaces (Prop. 5.8).
 
-## Skim
+Before this paper, homogeneity and self-duality entered reconstructions as geometric postulates. After it, homogeneity and *weak* self-duality have an operational reading.
 
-*Abstract, figures and selected sections, read when the work was seeded. Not enough to state its assumptions or results exactly; a `Read` note replaces this one.*
+## Key insight
 
-- §1: the motivation is to find properties of entangled states that are parochially quantum and not generic to non-classical theories. Steering is a candidate: it is what Schrödinger found "discomforting", and it is what breaks quantum bit commitment (Bennett–Brassard).
-- The proof structure runs §2 (ordered linear spaces formalism), §3 (weak self-duality), §4 (purification: every interior state has a purification in A♦⊗max A, with an ancilla that depends on the state) and §5 (steering). Appendix A has examples and Appendix B covers the "steering product".
-- §6 states the route: uniform universal steering gives homogeneity, and self-steering gives homogeneity plus weak self-duality. Strong self-duality then gives, via Koecher–Vinberg and the Jordan–von Neumann–Wigner classification, formally real Jordan algebras. Local tomography plus a qubit then gives, via Hanche-Olsen, C*-algebraic QM with superselection sectors.
-- §6 says the chain is "interrupted by a gap" between weak and strong self-duality. The authors float either bridging it or building a consistent theory from weakly-but-not-strongly self-dual homogeneous spaces.
+A bipartite state is a positive map ω̂ : A* → B, and steering is surjectivity of that map in an order sense: every ensemble of the marginal ω_B = ω̂(u_A) must be the image of an observable, so ω̂ has to carry the effect interval [0, u_A] onto [0, ω_B] chain by chain. When the dimensions match, surjectivity is bijectivity, so a steering state *is* an order-isomorphism between A* and B. An order-isomorphism that can be made to hit every interior state as u_A's image is precisely a transitive automorphism group. That is the homogeneity of the cone. Steering thus converts to geometry with almost no calculation. The remaining distance to quantum theory is the difference between "A* ≅ A somehow" and "A* ≅ A via an inner product".
+
+## Assumptions
+
+- **Finite dimension throughout** (§2). All spaces are identified with their double duals.
+- **Abstract state spaces** (Def. 2.1). An ordered linear space A with a regular (pointed, closed, generating) cone A+ and a strictly positive order-unit functional u_A. Normalised states are Ω_A = {α ∈ A+ : u_A(α) = 1}.
+- **No-restriction on effects** (p. 6). Every effect a ∈ [0, u_A] ⊆ A* "represents a measurement outcome". This is "the further assumption". Footnote 8 notes that the tensor-product notion depends on it.
+- **Composites lie between min and max** (p. 7). A composite AB is (A*⊗B*)* ordered by any cone between A ⊗min B (generated by product states) and A ⊗max B (forms positive on product effects).
+- **Local tomography** is adopted "as a working assumption" (p. 7). A bipartite state is fixed by its values on product effects.
+- **A "theory"** (p. 7) is a class of abstract state spaces closed under some such composite.
+- **Scope of the headline results.** Props 5.7–5.8 are stated for *irreducible* state spaces. The extension to all state spaces (p. 15) needs one more assumption: every direct summand of a state space in the theory is itself in the theory.
+- **Strong self-duality is not assumed.** It appears only as a hypothesis in §6.
+
+## Key results
+
+- **Thm 3.3.** If A is irreducible, every order-automorphism of A lies on an extremal ray of the cone L+(A, A) of positive maps. Proof on pp. 8–9, by a basis-of-extremal-rays argument. Example 3.4 shows irreducibility is needed.
+- **Cor. 3.5.** For irreducible A, isomorphism states are pure in A ⊗max B.
+- **Cor. 3.6.** If ω̂ factors isomorphically through an irreducible face of A*, then ω̂ is extremal in the cone of positive maps.
+- **Thm 4.1.** Two conditions are equivalent:
+  - (a) A is homogeneous;
+  - (b) every normalised interior state is the A-marginal of an isomorphism state in B ⊗max A, for one fixed B ≅ A*.
+  
+  Both directions are proved (p. 11).
+- **Cor. 4.2.** For irreducible A, two conditions are equivalent:
+  - (a) A is weakly self-dual and homogeneous;
+  - (b) every normalised interior state is the marginal of an isomorphism state in A ⊗max A.
+- **Lemma 5.2.** If ω steers ω_B, then ω̂(A+) = Face(ω_B).
+- **Example 5.3.** Lemma 5.2 has no converse: a classical R³+ ⊗ R²+ state satisfies the face condition but is not steering.
+- **Thm 5.4.** ω steers its B-marginal iff ω̂ : [0, u_A] → [0, ω_B] is a strong quotient map of ordered sets (every chain is the image of a chain). Both directions are proved (p. 14).
+- **Cor. 5.5.** If ω steers an interior ω_B and ω̂ is injective, then ω̂ is an order-isomorphism, and it is pure if B+ is irreducible. When dim A = dim B, the states steering an interior marginal are exactly the isomorphism states, which steer both marginals.
+- **Prop. 5.7.** Uniform universal steering ⇒ every irreducible state space is homogeneous. The support is thin; see corrections.
+- **Prop. 5.8.** Universal self-steering ⇒ every irreducible state space is homogeneous and weakly self-dual. With the direct-summand assumption, the conclusion extends to all state spaces (p. 15 and fn. 7).
+- **Fact B.3.** For two qubits, the steering product ⊗str (Def. B.1: the cone generated by all steering states) equals ⊗max, which is not weakly self-dual. So "include all steering states" does not yield a weakly self-dual composite, even for quantum factors.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Order-automorphisms of an irreducible cone are extremal positive maps; isomorphism states are pure | strong | proof, Thm 3.3 and Cor. 3.5 (Example 3.4 shows irreducibility is needed) |
+| C2 | A cone is homogeneous iff every interior state purifies to an isomorphism state with one fixed ancilla ≅ A* | strong | proof, Thm 4.1 |
+| C3 | Steering its marginal ⇔ ω̂ is a strong quotient map [0,u_A] → [0,ω_B] | strong | proof, Thm 5.4 |
+| C4 | Whether every quotient map of order intervals is automatically strong | open | Remark (i), p. 14: "we suspect, but so far have been unable to prove" |
+| C5 | Uniform universal steering ⇒ homogeneity of irreducible state spaces | weak | one-line citation of Cor. 5.5 + Thm 4.1 (p. 15). It covers only the injective case, and a non-injective steering map is not addressed |
+| C6 | Universal self-steering ⇒ homogeneous and weakly self-dual | strong | Cor. 5.5 + Cor. 4.2 (matching dimensions make ω̂ bijective) |
+| C7 | Self-steering + strong self-duality + local tomography + a qubit ⇒ finite-dimensional C*-algebraic QM (with superselection) | weak | §6 argument. It cites Koecher–Vinberg, Jordan–von Neumann–Wigner and Hanche-Olsen [19], but the operational-to-JB-tensor-product match is "established elsewhere", and strong self-duality is a hypothesis |
+| C8 | The steering product of two qubits is ⊗max, so it is not weakly self-dual | moderate | proof sketch, Fact B.3 (via decomposability of qubit positive maps) |
+| C9 | ⊗str is associative | open | Conjecture B.2 |
+| C10 | In a nonclassical theory where all states can be steered, the Barnum–Dahlsten–Leifer–Toner bit-commitment protocol cannot exist | weak | assertion, p. 17. The paper itself calls the connection only "suggestive" |
+| C11 | Conclusive teleportation through a copy of the system forces weak self-duality | moderate (cited) | cited to [6], with extra condition fn. 9; not proved here |
+
+## Method
+
+Pure order theory on finite-dimensional cones:
+- represent bipartite states as positive maps ω̂ : A* → B (§3);
+- use extremal-ray arguments for purity (Thm 3.3);
+- construct a variable dual A♦ = (A*, α_o) for purification (§4);
+- translate ensembles into chains in [0, ω_B] (Thm 5.4).
+
+There are no numerical or experimental components. The examples (App. A) are square-base (gbit) and cube/hexagon cones, computed by hand.
+
+## Concepts
+
+- **Weakly self-dual** (Def. 3.1): there exists *some* order-isomorphism η : A* ≃ A. *Self-dual* (strong) means the isomorphism comes from an inner product. The paper uses the word only informally, in §1 and §6.
+- **Homogeneous**: the order-automorphism group acts transitively on the interior of A+.
+- **Isomorphism state** (Def. 3.2): ω with ω̂ : A* → B an order-isomorphism. An *automorphism state* is one on A ⊗ A.
+- **Ensemble** (p. 12): a finite family βᵢ ∈ B+ with Σβᵢ = β. The states are unnormalised, and u_B(βᵢ) are the weights.
+- **Steering** (Def. 5.1): every ensemble of ω_B equals {ω̂(xᵢ)} for some observable {xᵢ} on A. *Bisteering* means steering for both marginals.
+- **Strong quotient map** (p. 14): an order-preserving surjection under which every finite chain lifts to a chain.
+- **Universal / uniform universal / universal self-steering** (Def. 5.6), in increasing strength:
+  - universal: each state has its own steering partner;
+  - uniform universal: one partner system per system;
+  - universal self-steering: that partner is a copy of the system itself.
+- **A♦**: A* made into a state space by choosing an interior α_o as order unit. It is non-canonical.
+- **Steering product** ⊗str (Def. B.1): the cone generated by all steering states in ⊗max.
+
+## Connections
+
+It builds on the Barnum–Barrett–Leifer–Wilce ordered-linear-space programme ([4]–[7]: cloning/broadcasting, teleportation, entropy). It is a companion to Wilce's "Four and a half axioms" ([32], arXiv:0912.5530, posted the same day), which the conclusion names as one strategy for bridging the weak/strong gap.
+
+**Against the GPT introduction, [LIT-073](../literature.d/LIT-073.md) (reads/c21.md).** The review is the right vocabulary source for this paper: state space, effects, ⊗min/⊗max, local tomography. Two things do not carry over:
+- **"Steering" is not the same notion in the two works.** [LIT-073](../literature.d/LIT-073.md)'s steering is *channel* steering (Defs 7.25–7.27, after Plávala), used as an entanglement-assisted incompatibility test. This paper's is Schrödinger's *ensemble* steering of a marginal. The review cites this paper ([2]) but does not state its results.
+- **Self-duality is absent from [LIT-073](../literature.d/LIT-073.md).** The review never defines it (c21's correction). So a reader coming from [LIT-073](../literature.d/LIT-073.md) needs this paper's Def. 3.1 and the Koecher–Vinberg paragraph (p. 3) directly.
+
+The two agree on the structural fact used in Appendix B: for non-simplicial factors ⊗min ≠ ⊗max. That is why neither is weakly self-dual here (p. 23), and it matches [LIT-073](../literature.d/LIT-073.md)'s Thm 5.21 (one factor simplicial ⇔ min = max).
+
+**Against PBR, [LIT-062](../literature.d/LIT-062.md) (reads/c20.md).** There is no technical overlap. PBR works inside quantum theory with ontological models and a preparation-independence assumption. This paper works outside quantum theory with no ontic layer. Their common ancestor is Schrödinger's 1935–36 discussion of entanglement ([28] here). Reading one does not help with the other.
+
+**Later literature (not read here, pointers only).** Barnum–Duncan–Wilce, "Symmetry and self-duality in categories of probabilistic models" (arXiv:1210.0622), and Müller–Ududec (PRL 2012) give other routes to self-duality. I have not checked whether either closes this paper's gap in its stated form.
+
+## Bearing on the record
+
+- It supports any theory-level summary of GPT reconstructions that names steering as one of the operational routes to Jordan-algebraic state spaces. Such a document should cite Prop. 5.8, not Prop. 5.7, and should state the C*-conclusion as conditional (C7).
+- Nothing in the record cites it for a claim it does not make, as far as the seeded [LIT-081](../literature.d/LIT-081.md) goes. [LIT-081](../literature.d/LIT-081.md)'s summary sentence "Koecher–Vinberg plus Hanche-Olsen force … C*-algebraic quantum theory" should be softened to "would force, given strong self-duality, which the paper does not derive".
+- **No bearing on ML practice.** Nothing here carries an instruction for the Anthology of the SOTA.
+
+## Limitations
+
+- The weak-to-strong self-duality gap is the paper's own stated limitation (§6, p. 17). Without closing it, the chain ends at "homogeneous and weakly self-dual", which is well short of Jordan algebras.
+- The C*-step relies on a Hanche-Olsen correspondence proved "elsewhere".
+- Prop. 5.7's proof covers only the injective case (see corrections).
+- Several statements are left open:
+  - Remark (i): is every quotient a strong quotient?
+  - Conjecture B.2: is ⊗str associative?
+  - Questions 1–3 of Appendix B.
+  - The universal vs uniform universal steering gap (p. 15).
+- Finite dimension, no-restriction and local tomography are standing assumptions. Real-Hilbert-space QM violates local tomography, and the paper notes that it thereby falls outside the framework (fn. 5).
+- The v2 preprint shows signs of being unfinished: an author's marginal note, dangling cross-references and typos.
 
 ## Open questions
 
-- It is a clean example of a reconstruction strategy: pick an information-theoretic feature (steering) and derive geometry (homogeneous, self-dual cones). It is relevant to the GPT cluster (c21) and to ψ-ontology debates (c20, c19).
-- Check whether the weak/strong self-duality gap has since been closed (the authors cite one strategy as [32]) and whether the 2013 journal version differs from arXiv v2.
+- Does homogeneity plus weak self-duality plus a reasonable composite force strong self-duality? The paper states this as the decisive question (p. 17). Showing that every homogeneous weakly self-dual cone admitting a locally tomographic composite with a qubit is self-dual would close it. So would a counterexample category.
+- Is there a class of weakly-but-not-strongly self-dual homogeneous state spaces closed under a non-signalling tensor product? The steering product fails (Fact B.3).
+- Does universal (non-uniform) steering already force homogeneity (p. 15)?
+- Is every quotient map [0,u] → [0,v] a strong quotient (Remark (i), p. 14)? A proof would simplify Thm 5.4 to a plain quotient condition.
+
+## Corrections to the seeded skim
+
+- **The dossier's "and Koecher–Vinberg plus Hanche-Olsen force … C*-algebraic quantum theory" is not a result of this paper.** It is the §6 programme. The paper proves homogeneity and weak self-duality (Props 5.7–5.8). Strong self-duality is assumed hypothetically ("If one could motivate the stronger assumption …", p. 16). The claim that Hanche-Olsen's JB-tensor-product conditions are "exactly the operational requirements we've imposed" is deferred ("As we will establish elsewhere", p. 16). The C*-conclusion is therefore conditional on an assumption the paper does not make and on an argument it does not give.
+- **Prop. 5.7 (uniform universal steering ⇒ homogeneity) is under-argued.** Its proof is one line: "Corollary 5.5, combined with Theorem 4.1, establish". Cor. 5.5 turns a steering state into an order-isomorphism only when ω̂ is injective. Thm 4.1(b) needs isomorphism states. For a steering system A_B of larger dimension than B, a steering ω̂ is a surjection that need not be injective, and the paper does not say how homogeneity follows then. The gap closes for self-steering (Prop. 5.8), where the dimensions match: ω̂ onto B+ for an interior marginal forces bijectivity. Whether Prop. 5.7 holds in general is, on this text, unverified. The paper itself flags a neighbouring gap, between universal and uniform universal steering, as open (p. 15).
+- **The dossier links the paper to the ψ-ontology debates (PBR, [LIT-062](../literature.d/LIT-062.md)).** The text has no ontological-model content. It never mentions ψ-epistemic or ψ-ontic models, preparation independence or hidden variables. The link to [LIT-062](../literature.d/LIT-062.md) is thematic (Schrödinger 1935–36 is ancestral to both) and nothing more.
+- v2 still carries an unresolved author's marginal note after Def. 3.1 (p. 8): "[HB: Not clear to me this follows. More argument needed...]". It concerns the claim that η⁻¹ of a normalised isomorphism state is a bipartite effect. None of the main results depends on that sentence, but it shows the preprint was posted mid-revision.
+- Cross-reference and typo errors a reader will trip on:
+  - "Example 2.4 above" (p. 12) and "Theorem 4.2" (p. 12) do not exist; the latter means Cor. 4.2.
+  - Cor. 5.5 begins "et ω".
+  - In the proof of Thm 5.4, "β_j = Σ_{i≤j} β_i" should be η_i.
+  - In Example 5.3 the text's description of the row and column indices is swapped against the 3×2 table.
+  - Def. 5.6 writes "every state β ∈ A" where B is meant.
+- The dossier says "§4 (purification: every interior state has a purification in A♦⊗max A)". That is accurate, but only with the paper's own caveat: the ancilla A♦ = (A*, α_o) depends on α_o. The state-independent version is exactly homogeneity (Thm 4.1). So "every state can be purified" is not the general-GPT result; "every state can be purified with an ancilla chosen for it" is.

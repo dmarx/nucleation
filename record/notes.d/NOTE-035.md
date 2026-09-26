@@ -37,7 +37,6 @@ summary: >-
   iff one factor is a simplex is cited to [134], not proved.
 ---
 
-<!-- inactive-ok-file: LIT-081 — Deferred; the ensemble-steering paper, named in Connections, not yet read closely -->
 
 # NOTE-035: Plávala, General probabilistic theories: An introduction
 
