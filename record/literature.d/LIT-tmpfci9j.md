@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'The information-processing perspective on representation'
+version: 1
+tags:
+- cognition
+- information-theory
+- philosophy-of-science
+date: '2026-09-26'
+published: '2025-06-18'
+doi: '10.33735/phimisci.2025.11321'
+first_author: 'Martínez'
+keywords:
+- 'Complexity'
+- 'Distortion'
+- 'Information'
+- 'Rate'
+- 'Representation'
+implementations: []
+summary: >-
+  Martínez (2025), DOI-10.33735/phimisci.2025.11321. A state counts as a representation when it shows adaptations for transmitting information for its own sake, i.e. for efficiently trading off rate, distortion and coder complexity — and that trade-off is what grounds the properties cognitive scientists attribute to representations.
+---
+
+# LIT-tmpfci9j: The information-processing perspective on representation
+
+Manolo Martínez (2025), *Philosophy and the Mind Sciences, vol. 6* — DOI-10.33735/phimisci.2025.11321
+
+## Key takeaways
+
+- A state counts as a representation when it shows adaptations for transmitting information for its own sake, i.e. for efficiently trading off rate, distortion and coder complexity — and that trade-off is what grounds the properties cognitive scientists attribute to representations.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Martínez proposes a framework for theorizing about representation in cognitive science built on two theses. The Transmission thesis says representations are primarily signals whose function is transmitting information for its own sake, not as a by-product of some other role. The RDC Trade-Off thesis says those signals aim at an efficient balance among three budgets: rate (transmission and storage cost), distortion (fidelity), and the computational complexity of the coders. Evidence that something is a representation is therefore evidence of adaptations for efficient transmission, and the familiar marks of paradigmatic representations are argued to be products of such rate–distortion–complexity adaptations.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 20 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — short dwell (20 s), but it is a clean, formal account of representation that bridges information theory and philosophy of mind; the skim captures the two theses and the surface idea, while the technical §§3–5 remain unread.**
+
+What a deeper reading should check:
+
+- Offers an information-theoretic criterion for representation-hood that transfers naturally to learned representations in ML (bottlenecks, rate–distortion framings of representation learning); check whether Martínez discusses learned networks directly (Bengio et al. 2013 is cited).
+- The "representational surface" is a testable framing: check §4–5 for what empirical signatures would count as adaptations for rate or complexity efficiency.
+- A deeper reading should check how the Transmission thesis avoids counting every efficiently-coded signal (e.g. in engineered systems) as a representation, and how it handles misrepresentation.
+
+Access when seeded: Journal landing page (abstract, keywords, published 2025-06-18) and the open-access HTML galley (full text, CC BY 4.0) fetched with curl; read §1, §6, §7 and the section heads. Crossref confirms date and volume.

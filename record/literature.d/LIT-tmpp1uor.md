@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Algorithmic Nudging: The Need for an Interdisciplinary Oversight'
+version: 1
+tags:
+- society-and-governance
+- philosophy-of-science
+- ethics
+date: '2026-09-26'
+published: '2023-04-03'
+doi: '10.1007/s11245-023-09907-4'
+first_author: 'Schmauder'
+keywords:
+- 'Nudge'
+- 'Algorithmic nudging'
+- 'Bias in human judgement'
+- 'Public policy'
+- 'Explainable AI'
+implementations: []
+summary: >-
+  Schmauder et al. (2023), DOI-10.1007/s11245-023-09907-4. Because AI systems can learn nudges that exploit biases nobody has documented, judging algorithmic nudges by predictive success alone repeats Friedman's instrumentalism, and Hausman's "look under the hood" rejoinder supports mandatory oversight by experts in human cognition.
+---
+
+# LIT-tmpp1uor: Algorithmic Nudging: The Need for an Interdisciplinary Oversight
+
+Christian Schmauder, Jurgis Karpus, Maximilian Moll, Bahador Bahrami, Ophelia Deroy (2023), *Topoi, 42(3), 799–807* — DOI-10.1007/s11245-023-09907-4
+
+## Key takeaways
+
+- Because AI systems can learn nudges that exploit biases nobody has documented, judging algorithmic nudges by predictive success alone repeats Friedman's instrumentalism, and Hausman's "look under the hood" rejoinder supports mandatory oversight by experts in human cognition.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Nudges steer choices by exploiting known biases in human judgement, and AI makes personalised, adaptively discovered nudges possible. The authors warn that handing nudge design to black-box systems means the cognitive processes being exploited may be unknown. They illustrate this with examples of biases and with case studies of AI agents learning to sway human choices. Drawing on a debate in the methodology of economics, they argue for interdisciplinary oversight of AI systems deployed to nudge behaviour.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 55 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — t=55s, a short paper whose §5 argument is reusable; the skim captures most of it.**
+
+What a deeper reading should check:
+
+- The Friedman–Hausman frame is a clean philosophy-of-science argument for interpretability over purely behavioural evaluation of deployed models; check whether it generalises beyond nudging.
+- Check the other case study in §4 and whether the 70% effect is reported with its conditions.
+- Links to the record's persuasion and manipulation material and to interpretability-as-oversight arguments.
+
+Access when seeded: The captured URL was a Semantic Scholar page; resolved the DOI through the Semantic Scholar API, Crossref and OpenAlex. Read the full published CC-BY PDF from LMU's Open Access repository (epub.ub.uni-muenchen.de/116481): abstract, §1, §2's opening, the §4 case study (Dezfouli et al. 2020), §5's Friedman–Hausman argument and the Conclusion. Published online 2023-04-03; accepted 2023-03-13. Schmauder and Karpus contributed equally.

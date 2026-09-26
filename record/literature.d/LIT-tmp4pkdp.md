@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Dispositions without Conditionals'
+version: 1
+tags:
+- metaphysics
+date: '2026-09-26'
+published: '2014-04-15'
+doi: '10.1093/mind/fzu032'
+first_author: 'Vetter'
+keywords:
+- 'dispositions'
+- 'modality'
+- 'possibility'
+- 'conditionals'
+- 'dispositional essentialism'
+implementations: []
+summary: >-
+  Vetter (2014), DOI-10.1093/mind/fzu032. A disposition is individuated by its manifestation alone, and its modality is a graded possibility, not a conditional: a fragile vase is one that can break easily, not one that would break if struck.
+---
+
+# LIT-tmp4pkdp: Dispositions without Conditionals
+
+Barbara Vetter (2014), *Mind 123(489): 129–156* — DOI-10.1093/mind/fzu032
+
+## Key takeaways
+
+- A disposition is individuated by its manifestation alone, and its modality is a graded possibility, not a conditional: a fragile vase is one that can break easily, not one that would break if struck.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Dispositions are modal properties. The standard view individuates each disposition by a stimulus and a manifestation and captures its modality with a conditional, usually a counterfactual, from stimulus to manifestation. Vetter proposes instead that a disposition is individuated by its manifestation alone and that its modality is closest to possibility: fragility is being able to break easily. She develops the view in some detail and defends it against the main objections.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 10 seconds of active reading over 1 session. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — t=0 (not read). The skim captures the thesis of a well-known paper, and a deeper reading matters only if the record takes up the metaphysics of powers.**
+
+What a deeper reading should check:
+
+- This is the foundational paper of Vetter's potentiality programme (Potentiality, OUP 2015), and it matters for any metaphysics that grounds modality in powers.
+- The graded-possibility semantics is the technical core. Check how "can easily M" is made precise, and whether it avoids the finkish and masking counterexamples that motivated conditional analyses.
+- It is relevant wherever capabilities or dispositions of systems (including AI systems) are analysed modally.
+
+Access when seeded: philarchive.org is behind Cloudflare. Read the full penultimate draft (PhilArchive VETDWC, 28 pp., "forthcoming in Mind") through the Wayback Machine: the abstract, §1, the thesis statement in §2.1, the §§2–3 section heads, the end of §3.3 and the §4 conclusion. Crossref gives Mind online 2014-04-15 (issue 2014). Keywords are mine, since the draft lists none. Page numbers below are the draft's.

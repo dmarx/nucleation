@@ -1,0 +1,52 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'What''s at stake in the debate over naturalizing teleology? An overlooked metatheoretical debate'
+version: 1
+tags:
+- agency
+- philosophy-of-science
+- metaphysics
+date: '2026-09-26'
+published: '2023-04-12'
+doi: '10.1007/s11229-023-04147-w'
+first_author: 'Nahas'
+keywords:
+- 'teleology'
+- 'organism-centred teleology'
+- 'naturalism'
+- 'organizational approach'
+- 'agency'
+- 'biological explanation'
+implementations: []
+summary: >-
+  Nahas et al. (2023), DOI-10.1007/s11229-023-04147-w. Debates over organism-centred ("naturalized") teleology run together two projects with different success criteria — a scientific one (improving biological description and explanation, which needs operationalisable concepts) and a philosophical one (how teleology changes our picture of nature and ourselves, which needs truth, not usefulness) — and separating them dissolves some disputes and suggests pluralism about accounts.
+---
+<!-- inactive-ok-file: LIT-tmpiu2vx — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-tmp4q2z3 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmpuhhuu: What's at stake in the debate over naturalizing teleology? An overlooked metatheoretical debate
+
+Auguste Nahas, Carl Sachs (2023), *Synthese 201(4), article 142* — DOI-10.1007/s11229-023-04147-w
+
+## Key takeaways
+
+- Debates over organism-centred ("naturalized") teleology run together two projects with different success criteria — a scientific one (improving biological description and explanation, which needs operationalisable concepts) and a philosophical one (how teleology changes our picture of nature and ourselves, which needs truth, not usefulness) — and separating them dissolves some disputes and suggests pluralism about accounts.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Recent teleological naturalism treats organisms as intrinsically goal-directed. The authors argue that both its supporters and its critics have missed that the view is used to address quite different problems. One problem is biological: whether an organism-centred account of teleological ascriptions would improve biological descriptions and explanations. The other is philosophical: how naturalized teleology would change our conception of nature and of ourselves as natural beings. Neglecting this metatheoretical difference has produced confusion, which the paper tries to clear up.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 45 seconds of active reading over 2 sessions. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — moderate engagement (t = 45 s, 2 sessions); the skim captures the thesis, but it is a good map of the teleology literature for the agency topic.**
+
+What a deeper reading should check:
+
+- A useful meta-level move for any record material on agency and goal-directedness: ask which problem an account of purposiveness is supposed to solve.
+- Links to reciprocal causation and organism-centred evolutionary theory ([LIT-tmp4q2z3](LIT-tmp4q2z3.md), [LIT-tmpiu2vx](LIT-tmpiu2vx.md)) through Walsh.
+- Check whether the science/metaphysics split is sharper than the authors allow, given naturalism's demand that metaphysics answer to science.
+
+Access when seeded: The Springer article is paywalled (the Wayback snapshot shows only the abstract and notes); read the authors' accepted manuscript (Word file headed "Please cite published version in Synthese") from a Wayback snapshot of PhilArchive (philarchive.org/archive/SACWAS), by section. Online date from Crossref. The captured author order (Nahas, Sachs) matches Springer; PhilPapers lists Sachs first.

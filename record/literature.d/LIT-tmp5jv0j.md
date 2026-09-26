@@ -1,0 +1,46 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-26; not read in full
+title: 'Why are We Here? Evangelion and the Desperate Search for Meaning in Life'
+version: 1
+tags:
+- ethics
+- identity
+date: '2026-09-26'
+published: '2022-03-29'
+url: 'https://philarchive.org/rec/BROWAW-9'
+first_author: 'Browning'
+keywords:
+- 'Neon Genesis Evangelion'
+- 'nihilism'
+- 'meaning of life'
+implementations: []
+summary: >-
+  Browning et al. (2022), <https://philarchive.org/archive/BROWAW-9>. Evangelion stages the existentialist answer to meaninglessness. The Human Instrumentality Project (merging all selves to end loneliness) fails because a self, and therefore meaning, exists only through contrast with and separation from others, so meaning comes from connection at a distance.
+---
+<!-- inactive-ok-file: LIT-tmpb773t — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+
+# LIT-tmp5jv0j: Why are We Here? Evangelion and the Desperate Search for Meaning in Life
+
+Heather Browning, Walter Veit (2022), *in C. Cotton & A. M. Winters (eds.), Neon Genesis Evangelion and Philosophy: That Syncing Feeling, Open Universe (Pop Culture and Philosophy 2), pp. 3–12* — <https://philarchive.org/archive/BROWAW-9>
+
+## Key takeaways
+
+- Evangelion stages the existentialist answer to meaninglessness. The Human Instrumentality Project (merging all selves to end loneliness) fails because a self, and therefore meaning, exists only through contrast with and separation from others, so meaning comes from connection at a distance.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+There is no published abstract. The chapter reads Neon Genesis Evangelion as an extended treatment of the oldest question in philosophy: why do we exist, and what gives life meaning? It follows how the young EVA pilots and those around them look for meaning through work, recognition and relationships, bringing in Camus on absurdity and revolt, Schopenhauer's porcupine dilemma, Heidegger's "They", and the post-Kantian idealists on self and other. It argues that the series' climax rejects the dissolution of individual selves as a route to meaning.
+
+## Standing in the record
+
+Filed from the 2026-09-26 sweep of the papers-feed tracker for philosophy: 0 seconds of active reading over 0 sessions. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: low — t=0, a short popular-philosophy chapter, fully captured by the skim.**
+
+What a deeper reading should check:
+
+- It is popular philosophy with no novel argument. Its one substantive claim is relational: selfhood, and so meaning, depends on self-other boundaries. That links it loosely to [LIT-tmpb773t](LIT-tmpb773t.md) (Floridi on individualising the self).
+- There is nothing further to check. The chapter is short and fully skimmed.
+
+Access when seeded: philarchive.org is behind Cloudflare. Read the full chapter (advance uncorrected proof, 9 pp., running head "The Desperate Search for Meaning in Life") and the PhilArchive record (citation, keywords, archived 2022-09-26) through the Wayback Machine. The book's publication date, 2022-03-29, comes from bookseller listings found by web search (Open Universe; ISBN 9781637700044). No DOI was found. PhilArchive BROTDS-9 (LIT-tmp5jv0j) serves a byte-identical PDF under the running-head title, so it is a duplicate record of this chapter.
