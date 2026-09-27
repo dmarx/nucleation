@@ -1,0 +1,50 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-27; not read in full
+title: 'Contextuality for preparations, transformations, and unsharp measurements'
+version: 1
+tags:
+- contextuality
+- quantum-foundations
+date: '2026-09-27'
+published: '2004-06-23'
+arxiv: 'quant-ph/0406166'
+doi: '10.1103/PhysRevA.71.052108'
+first_author: 'Spekkens'
+keywords:
+- 'contextuality'
+- 'noncontextuality'
+- 'ontological models'
+- 'preparation contextuality'
+- 'outcome determinism'
+- 'unsharp measurements'
+implementations: []
+summary: >-
+  Spekkens (2004), [arXiv:quant-ph/0406166](https://arxiv.org/abs/quant-ph/0406166). Defines a noncontextual ontological model as one in which operationally equivalent procedures (preparations, measurements, transformations) get identical representations; shows the traditional Kochen–Specker notion is the special case of measurement noncontextuality for sharp measurements plus outcome determinism, proves that preparation noncontextuality implies that outcome determinism, and proves preparation contextuality already for a qubit.
+---
+
+# LIT-tmpevs68: Contextuality for preparations, transformations, and unsharp measurements
+
+R. W. Spekkens (2004), *Physical Review A 71, 052108 (2005)* — [arXiv:quant-ph/0406166](https://arxiv.org/abs/quant-ph/0406166)
+
+## Key takeaways
+
+- Defines a noncontextual ontological model as one in which operationally equivalent procedures (preparations, measurements, transformations) get identical representations; shows the traditional Kochen–Specker notion is the special case of measurement noncontextuality for sharp measurements plus outcome determinism, proves that preparation noncontextuality implies that outcome determinism, and proves preparation contextuality already for a qubit.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The paper replaces the traditional definition of noncontextuality, which is specific to quantum theory, to sharp measurements and to deterministic hidden variables, with an operational one: in a noncontextual ontological model, procedures that no experiment can tell apart are represented identically. It applies to any operational theory and to preparations, transformations and unsharp measurements. Three no-go theorems follow, one for each kind of procedure, and all three work in a two-dimensional Hilbert space, where the traditional Kochen–Specker argument cannot be run.
+
+## Standing in the record
+
+Filed on 2026-09-27 while bringing the record's contextuality threads together at the owner's request (see the curation entry of that date). `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: high — the single bridge between the record's two formal threads, short, and the skim already reached the load-bearing sections; a close read of §IV–VIII would let the bridging THEORY claim go Active.**
+
+What a deeper reading should check:
+
+- It is the published link between Kochen–Specker/sheaf contextuality ([LIT-016](LIT-016.md)) and the generalized notion that [LIT-003](LIT-003.md), [LIT-007](LIT-007.md) and [LIT-019](LIT-019.md) rely on; none of those held works states the link. A close reading should check §VIII.A's proof, in particular that it needs the full set of quantum preparations (every state in some decomposition of I/d), which a restricted fragment may lack.
+- Check §V: the paper's own unsharp-measurement proof assumes outcome determinism for sharp measurements, which §VIII then justifies from preparation noncontextuality — so its "measurement contextuality" proofs are really proofs against preparation + measurement noncontextuality.
+- The "classical ⇒ noncontextual" footnote is the basis of the "contextuality = nonclassicality" stance of the Spekkens programme; it is asserted, not proved, for arbitrary classical theories.
+
+Access when seeded: arXiv abs page (v1 submitted 2004-06-23; v3 2005-03-18; journal ref and DOI from the abs page) and the full v3 PDF (18 pp.), text extracted with PyMuPDF. Read in full: abstract, §I, §II (definitions, Eqs. 1–7), §III (quantum case, Eqs. 8–10, and the paragraph subsuming the traditional notion), §IV (preparation-contextuality proof, Eqs. 11–36, up to the case analysis), §VIII.A–B (Eqs. 77–92) and §IX. Not read: the rest of §IV's case analysis, §V (unsharp measurements, incl. the Gleason-type proof), §VI (transformations), §VII, the appendix. The published PRA version was not compared.
