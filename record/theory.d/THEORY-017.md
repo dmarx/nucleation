@@ -15,7 +15,7 @@ promote_when: >-
   from unitarily invariant data alone, with no operator, stipulated basis
   or factorisation supplied.
 title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-27'
@@ -26,6 +26,15 @@ history:
     for special ones, on complex spaces only. A caveat on real spaces is
     added, the first promote_when condition is recorded as met, and the
     status stays Proposed on the second.
+- version: 3
+  date: '2026-09-27'
+  note: >-
+    Abramsky & Heunen (LIT-tmp7e2en) filed and read, and added to source.
+    The finite-dimensional caveat is narrowed: discrete orthonormal bases
+    correspond to commutative special †-Frobenius algebras satisfying the
+    H*-axiom in any dimension, over ℂ. Continuous observables remain
+    outside, and the real-scalar caveat is extended to every dimension. The
+    status stays Proposed.
 tags:
 - mathematics
 - quantum-foundations
@@ -40,6 +49,7 @@ source:
 - LIT-273
 - LIT-272
 - LIT-274
+- LIT-tmp7e2en
 extends:
 - THEORY-004
 summary: >-
@@ -147,10 +157,24 @@ document's inferences, not claims in the sources.**
   [LIT-272](../literature.d/LIT-272.md) uses, but a Frobenius algebra need not come from a basis. So the
   table's placements stand, and "basis" and "Frobenius algebra" are one
   notion only in the complex case.
-- **Anything about infinite-dimensional or non-separable spaces.** There,
-  Carroll notes, an algebra of observables must be supplied from the start
-  (Haag, [LIT-123](../literature.d/LIT-123.md) p. 5). That is the setting of the GNS strand ([LIT-241](../literature.d/LIT-241.md),
-  [THEORY-004](THEORY-004.md)), and this document stays finite-dimensional.
+- **Anything about continuous observables, or about infinite-dimensional
+  spaces beyond discrete bases.** Abramsky & Heunen ([LIT-tmp7e2en](../literature.d/LIT-tmp7e2en.md), read in
+  [NOTE-tmp4nt96](../notes.d/NOTE-tmp4nt96.md)) show that a unital Frobenius algebra exists in Hilb only in
+  finite dimension (Lemma 3). Dropping the unit, they prove that on a
+  complex Hilbert space of any dimension, separable or not, a commutative
+  special †-Frobenius algebra is induced by an orthonormal basis exactly
+  when it satisfies Ambrose's H*-axiom, equivalently when it is semisimple
+  (Thm 22). So a discrete basis is still extra structure supplied as an
+  algebra on the space, in any dimension. Whether the H*-axiom is automatic
+  was left open there (Prop. 23).
+  - *Continuous observables* have no eigenbasis and are outside that
+    result (its §6). There, Carroll notes, an algebra of observables must be
+    supplied from the start (Haag, [LIT-123](../literature.d/LIT-123.md) p. 5). That is the setting of the
+    GNS strand ([LIT-241](../literature.d/LIT-241.md), [THEORY-004](THEORY-004.md)).
+  - *Scope of this document.* The table stays finite-dimensional, as its
+    sources are. The real-scalar caveat above holds in every dimension: over
+    ℝ the H*-axiom does not force copyable vectors, since ℂ regarded as a
+    real algebra satisfies it and has none ([NOTE-tmp4nt96](../notes.d/NOTE-tmp4nt96.md)).
 - **That Carroll's selection criteria work.** The local-factorisation
   uniqueness is a cited theorem. The quasi-classical criterion rests on
   numerical examples in a companion paper, and emergent fields on a hope

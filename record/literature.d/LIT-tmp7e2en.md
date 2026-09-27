@@ -1,0 +1,77 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 ([NOTE-tmp4nt96](../notes.d/NOTE-tmp4nt96.md)); worth reading as the precise statement of how far "a basis is a Frobenius algebra" survives in infinite dimensions. It gives the unit''s failure, the H*-algebra substitute and five equivalent conditions, all proved or reduced to Ambrose (1945), with one question left open. Read "arbitrary bases" in the abstract as "orthonormal bases of arbitrary dimension over ℂ", and "observables" as discrete-spectrum observables only.'
+title: 'H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (The full text of arXiv 1011.6123 v3, from the arXiv PDF,
+    29 pp. The arXiv abstract page lists three versions, v1 (29 Nov 2010, 30
+    KB), v2 (25 Feb 2011, 30 KB) and v3 (6 Jul 2011, 31 KB, comment "29
+    pages. Final version"). The PDF carries the stamp "arXiv:1011.6123v3"
+    and a regenerated date line, "October 29, 2018". I read the abstract,
+    §§1–6 (every subsection, 2.1–2.3, 3.1–3.3, 4.1–4.5, 5.1–5.4), all seven
+    footnotes and all 37 references. Nothing was skipped. `pdftotext` was
+    not available in this session, so I extracted the text with PyMuPDF. The
+    string diagrams do not survive extraction. These are the pictures of
+    axioms (A), (U), (C), (M), (F) and (H), the proofs of Lemmas 4, 5 and 6
+    and Proposition 7, the proof of Theorem 21, and the element-annotated
+    relational diagrams in the proofs of Lemmas 26 and 27 and Proposition
+    34. The axioms and (H) are also written algebraically in the text, and I
+    worked from those forms. Lemma 5's a∗ is given algebraically, and
+    Theorem 21's a∗ₙ = (id ⊗ a†)∘δ(eₙ) is given in the text. For Lemmas 4
+    and 6 and Proposition 7, only the chains of axiom labels survive, and I
+    did not reconstruct those proofs step by step. For Proposition 34, the
+    equations the diagrams encode are stated in the text, and I worked from
+    them. I did not read v1 or v2, and I did not read the published version
+    (AMS PSAPM 71, 2012), so I have not checked whether they differ from
+    v3.); the first NOTE on it, since it was seeded from the abstract alone.
+    Status set from the reading: Active.
+tags:
+- mathematics
+- quantum-foundations
+date: '2026-09-27'
+published: '2010-11-29'
+arxiv: '1011.6123'
+doi: '10.1090/psapm/071/599'
+first_author: 'Abramsky'
+keywords:
+- 'H*-algebras'
+- 'nonunital Frobenius algebras'
+- 'orthonormal bases'
+- 'infinite-dimensional Hilbert spaces'
+- 'categorical quantum mechanics'
+implementations: []
+summary: >-
+  Abramsky & Heunen (2010), [ARXIV-1011.6123](https://arxiv.org/abs/1011.6123). In the category Hilb of
+  complex Hilbert spaces of arbitrary dimension, a Frobenius algebra with
+  a unit exists only in finite dimension (Lemma 3). So the paper drops the
+  unit, and Theorem 22 proves that a nonunital commutative special
+  †-Frobenius algebra corresponds to an orthonormal basis (the basis being
+  the algebra's copyable vectors) if and only if it is semisimple, if and
+  only if it satisfies Ambrose's H*-axiom (H), and if and only if it is a
+  directed colimit of finite-dimensional unital ones. Whether (H) is
+  automatic, i.e. whether a nonzero "radical" Frobenius algebra exists
+  (Proposition 23), is left open. In categories of relations and of
+  nonnegative ℓ²-matrices, Frobenius algebras decompose as disjoint unions
+  of abelian groups and do satisfy (H) (Theorems 30–38).
+extends:
+- LIT-274
+---
+
+<!-- inactive-ok-file: THEORY-017 — Proposed: the account whose finite-dimensional boundary this paper was filed to test; the directive lapses when its status changes -->
+
+# LIT-tmp7e2en: H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics
+
+Abramsky & Heunen (2010), *Mathematical Foundations of Information Flow (Clifford Lectures), AMS Proc. Symp. Applied Math. 71, 1–24 (2012)* — DOI-10.1090/psapm/071/599
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request. It tests [THEORY-017](../theory.d/THEORY-017.md)'s
+finite-dimensional boundary, and it extends [LIT-274](LIT-274.md) (Coecke, Pavlovic &
+Vicary) beyond finite dimension. `published:` is the arXiv v1 date
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmp4nt96](../notes.d/NOTE-tmp4nt96.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading as the precise statement of how far "a basis is a Frobenius algebra" survives in infinite dimensions. It gives the unit's failure, the H*-algebra substitute and five equivalent conditions, all proved or reduced to Ambrose (1945), with one question left open. Read "arbitrary bases" in the abstract as "orthonormal bases of arbitrary dimension over ℂ", and "observables" as discrete-spectrum observables only.
