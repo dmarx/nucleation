@@ -4,7 +4,7 @@
 
 **contextuality**.
 
-9 of 242 NOTE documents. Back to the [full index](../README.md).
+10 of 243 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [NOTE-236](../../../record/notes.d/NOTE-236.md) | Abramsky, Barbosa & Mansfield, contextual fraction | For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function. | Skimmed |
 | [NOTE-237](../../../record/notes.d/NOTE-237.md) | Budroni et al., Kochen–Specker contextuality (RMP review) | A review that fixes a minimal definition of Kochen–Specker contextuality as the impossibility of a global joint distribution whose marginals are the context distributions (Fine's theorem; the sheaf-theoretic framework is one of several equivalent formulations), and that treats Spekkens's generalized contextuality as a different notion, covered only to mark the difference. | Skimmed |
 | [NOTE-238](../../../record/notes.d/NOTE-238.md) | Spekkens, generalized contextuality (2005) | Defines a noncontextual ontological model as one in which operationally equivalent procedures (preparations, measurements, transformations) get identical representations; shows the traditional Kochen–Specker notion is the special case of measurement noncontextuality for sharp measurements plus outcome determinism, proves that preparation noncontextuality implies that outcome determinism, and proves preparation contextuality already for a qubit. | Skimmed |
+| [NOTE-243](../../../record/notes.d/NOTE-243.md) | Identifying Quantum Structure in AI Language | Two findings are reported. First, prompted as test subjects on Aerts & Sozzo's "The Animal Acts" concept-combination test, ChatGPT and Gemini give CHSH values above 2: 4 in a guided conversation, and 2.25 and 3.09 (ChatGPT) and 2.12 and 4 (Gemini) over 81 prompted repetitions, against 2.42 for the 81 humans in 2011. Second, the rank–frequency curve of one 2,861-word Gemini story fits a Bose–Einstein form with energy E_i=(i−1)^0.8 far better than a Maxwell–Boltzmann form. The authors take these as showing that LLM "code is structurally quantum" (§5). The CHSH analysis never checks the strongly context-dependent marginals in its own tables. One reported expectation value disagrees with its table. The Bose–Einstein fit is numerically a Zipf–Mandelbrot law. | Read |

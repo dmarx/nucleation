@@ -40,9 +40,9 @@
 | 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 9 | 7 | Riesz representation theorem (Wikipedia) |
 | 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 9 | 8 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-250](../../record/literature.d/LIT-250.md) | 9 | 1 | Duality of Bures and Shape Distances with Implications for Comparing Neural Representations |
+| 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 8 | 4 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 7 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
-| 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 7 | 3 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 7 | 5 | Hilbert Spaces and the Riesz Representation Theorem |
 | 2026-09-26 | Deferred | [LIT-246](../../record/literature.d/LIT-246.md) | 7 | 0 | On Variational Bounds of Mutual Information |
 | 2026-09-26 | Deferred | [LIT-251](../../record/literature.d/LIT-251.md) | 7 | 0 | Contrastive learning, multi-view redundancy, and linear models |
@@ -96,10 +96,10 @@
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |
 | 2026-09-26 | Deferred | [LIT-134](../../record/literature.d/LIT-134.md) | 0 | 0 | The Duality of Content |
 | 2026-09-26 | Deferred | [LIT-240](../../record/literature.d/LIT-240.md) | 0 | 0 | The Role of the Information Bottleneck in Representation Learning |
-| 2026-09-27 | Deferred | [LIT-263](../../record/literature.d/LIT-263.md) | 11 | 0 | Kochen-Specker contextuality |
-| 2026-09-27 | Deferred | [LIT-264](../../record/literature.d/LIT-264.md) | 7 | 2 | Is there contextuality in behavioral and social systems? |
+| 2026-09-27 | Deferred | [LIT-263](../../record/literature.d/LIT-263.md) | 12 | 1 | Kochen-Specker contextuality |
+| 2026-09-27 | Deferred | [LIT-264](../../record/literature.d/LIT-264.md) | 12 | 7 | Is there contextuality in behavioral and social systems? |
 | 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 7 | 0 | Contextuality for preparations, transformations, and unsharp measurements |
-| 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 2 | 0 | The contextual fraction as a measure of contextuality |
+| 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 3 | 1 | The contextual fraction as a measure of contextuality |
 | 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 1 | 0 | The Lattice Representation Hypothesis of Large Language Models |
 
 ## THEORYs
@@ -117,7 +117,7 @@
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 0 | 0 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
 | 2026-09-26 | Proposed | [THEORY-006](../../record/theory.d/THEORY-006.md) | 0 | 0 | InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size |
 | 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 0 | 0 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
-| 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 5 | 0 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
+| 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 8 | 3 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 0 | 0 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-27 | Proposed | [THEORY-011](../../record/theory.d/THEORY-011.md) | 0 | 0 | Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two |
 | 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 0 | 0 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |

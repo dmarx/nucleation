@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**43 documents cited without acknowledgement.** Not listed: 392 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**46 documents cited without acknowledgement.** Not listed: 393 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -45,6 +45,20 @@ Riesz representation theorem (Wikipedia)
 - [`record/theory.d/THEORY-009.md:22`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:45`](../../record/theory.d/THEORY-009.md)
+
+### [LIT-264](../../record/literature.d/LIT-264.md) — Deferred
+
+Is there contextuality in behavioral and social systems?
+
+7 citations in 3 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-270.md:6`](../../record/literature.d/LIT-270.md)
+- [`record/literature.d/LIT-270.md:72`](../../record/literature.d/LIT-270.md)
+- [`record/notes.d/NOTE-239.md:97`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:115`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:92`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
 
 ### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
 
@@ -131,6 +145,17 @@ Computational Functionalism for the Deep Learning Era
 - [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 - [`record/notes.d/NOTE-242.md:163`](../../record/notes.d/NOTE-242.md)
 
+### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
+
+Distributional Semantics, Holism, and the Instability of Meaning
+
+4 citations in 3 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
+- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
+
 ### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
 
 The Conditional Entropy Bottleneck
@@ -152,16 +177,6 @@ Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
 - [`record/notes.d/NOTE-158.md:136`](../../record/notes.d/NOTE-158.md)
 
-### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
-
-Distributional Semantics, Holism, and the Instability of Meaning
-
-3 citations in 2 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
-- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
-- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
-
 ### [LIT-235](../../record/literature.d/LIT-235.md) — Deferred
 
 When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis
@@ -181,6 +196,16 @@ Bra–ket notation (Wikipedia)
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+
+3 citations in 1 file await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
 
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
@@ -244,15 +269,6 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 - [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
-
-### [LIT-264](../../record/literature.d/LIT-264.md) — Deferred
-
-Is there contextuality in behavioral and social systems?
-
-2 citations in 1 file await a look; 5 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-239.md:97`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-239.md:115`](../../record/notes.d/NOTE-239.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -421,6 +437,22 @@ Kernel Mean Embedding of Distributions: A Review and Beyond
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-242.md:159`](../../record/notes.d/NOTE-242.md)
+
+### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
+
+Kochen-Specker contextuality
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+
+### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
+
+The contextual fraction as a measure of contextuality
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
 
 ## Codes that resolve to no document
 

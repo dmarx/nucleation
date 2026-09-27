@@ -1,6 +1,9 @@
 ---
+number: 243
 status: Read
-paper: LIT-tmpyy78c
+formerly:
+- NOTE-tmpmpw3u
+paper: LIT-270
 title: 'Identifying Quantum Structure in AI Language'
 version: 1
 history:
@@ -38,8 +41,8 @@ summary: >-
   Bose–Einstein fit is numerically a Zipf–Mandelbrot law.
 ---
 
-<!-- inactive-ok-file: LIT-tmpyy78c — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
-# NOTE-tmpmpw3u: Identifying Quantum Structure in AI Language
+<!-- inactive-ok-file: LIT-270 — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
+# NOTE-243: Identifying Quantum Structure in AI Language
 
 ## Contribution
 
