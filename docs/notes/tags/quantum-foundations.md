@@ -4,7 +4,7 @@
 
 **quantum-foundations**.
 
-40 of 238 NOTE documents. Back to the [full index](../README.md).
+41 of 239 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -48,3 +48,4 @@
 | [NOTE-236](../../../record/notes.d/NOTE-236.md) | Abramsky, Barbosa & Mansfield, contextual fraction | For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function. | Skimmed |
 | [NOTE-237](../../../record/notes.d/NOTE-237.md) | Budroni et al., Kochen–Specker contextuality (RMP review) | A review that fixes a minimal definition of Kochen–Specker contextuality as the impossibility of a global joint distribution whose marginals are the context distributions (Fine's theorem; the sheaf-theoretic framework is one of several equivalent formulations), and that treats Spekkens's generalized contextuality as a different notion, covered only to mark the difference. | Skimmed |
 | [NOTE-238](../../../record/notes.d/NOTE-238.md) | Spekkens, generalized contextuality (2005) | Defines a noncontextual ontological model as one in which operationally equivalent procedures (preparations, measurements, transformations) get identical representations; shows the traditional Kochen–Specker notion is the special case of measurement noncontextuality for sharp measurements plus outcome determinism, proves that preparation noncontextuality implies that outcome determinism, and proves preparation contextuality already for a qubit. | Skimmed |
+| [NOTE-239](../../../record/notes.d/NOTE-239.md) | The Geometry of Information Retrieval | The book recasts IR's vector-space, probabilistic and logical models in one Hilbert-space language. Documents are state vectors. Relevance and aboutness are Hermitian observables that need not commute. Subspaces carry a non-distributive logic whose conditional is shown to be a Stalnaker conditional equal to the Sasaki hook (ch. 5). Gleason's theorem makes tr(ρP) the probability of a subspace, which ch. 6 uses to rewrite cosine matching, cluster representatives, relevance and pseudo-relevance feedback, dynamic clustering and ostensive retrieval. It is a proposed language, not a tested model: no experiment is reported, and its "content hypothesis" that the probability of a concept is cos²θ is argued, not tested. | Read |

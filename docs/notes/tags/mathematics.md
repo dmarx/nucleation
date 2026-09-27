@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-42 of 238 NOTE documents. Back to the [full index](../README.md).
+43 of 239 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -50,3 +50,4 @@
 | [NOTE-230](../../../record/notes.d/NOTE-230.md) | A Generalized Representer Theorem | For any strictly increasing regularizer g(‖f‖) and any (even non-convex, coupled) cost on the training outputs, every RKHS minimizer of c((x_i,y_i,f(x_i))_i) + g(‖f‖) is a finite kernel expansion f = Σ α_i k(·,x_i). The proof needs only the reproducing property and orthogonal decomposition onto span{k(·,x_i)}, not the Riesz theorem. | Skimmed |
 | [NOTE-231](../../../record/notes.d/NOTE-231.md) | Spectral Inference Networks (SpIN) | The top-N eigenfunctions of a symmetric kernel operator K[f](../../../record/notes.d/x) = E_{x′}[k(x,x′)f(x′)] on L²(p) can be learned by a neural network that maximizes the generalized Rayleigh quotient Tr(Σ⁻¹Π), with Σ = E[u uᵀ] and Π = E[k(x,x′)u(x)u(x′)ᵀ]. Slow Feature Analysis is the special case where k is the graph Laplacian of adjacent video frames. | Skimmed |
 | [NOTE-236](../../../record/notes.d/NOTE-236.md) | Abramsky, Barbosa & Mansfield, contextual fraction | For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function. | Skimmed |
+| [NOTE-239](../../../record/notes.d/NOTE-239.md) | The Geometry of Information Retrieval | The book recasts IR's vector-space, probabilistic and logical models in one Hilbert-space language. Documents are state vectors. Relevance and aboutness are Hermitian observables that need not commute. Subspaces carry a non-distributive logic whose conditional is shown to be a Stalnaker conditional equal to the Sasaki hook (ch. 5). Gleason's theorem makes tr(ρP) the probability of a subspace, which ch. 6 uses to rewrite cosine matching, cluster representatives, relevance and pseudo-relevance feedback, dynamic clustering and ostensive retrieval. It is a proposed language, not a tested model: no experiment is reported, and its "content hypothesis" that the probability of a concept is cos²θ is argued, not tested. | Read |

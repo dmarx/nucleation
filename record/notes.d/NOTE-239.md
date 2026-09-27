@@ -1,5 +1,8 @@
 ---
+number: 239
 status: Read
+formerly:
+- NOTE-tmpqcj2v
 paper: LIT-262
 title: 'The Geometry of Information Retrieval'
 version: 1
@@ -32,7 +35,7 @@ summary: >-
   is cos²θ is argued, not tested.
 ---
 
-# NOTE-tmpqcj2v: The Geometry of Information Retrieval
+# NOTE-239: The Geometry of Information Retrieval
 
 ## Contribution
 

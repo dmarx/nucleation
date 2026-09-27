@@ -4,8 +4,9 @@
 
 **information-retrieval**.
 
-1 of 238 NOTE documents. Back to the [full index](../README.md).
+2 of 239 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-211](../../../record/notes.d/NOTE-211.md) | Knowledge Sheaves (sheaf-theoretic KG embedding) | Knowledge-graph embedding can be recast as learning an approximate global section of a cellular sheaf on the schema graph, which subsumes Structured Embedding and TransE/TransR-style models and yields, via harmonic extension, a training-free way to answer composite multi-hop queries. | Skimmed |
+| [NOTE-239](../../../record/notes.d/NOTE-239.md) | The Geometry of Information Retrieval | The book recasts IR's vector-space, probabilistic and logical models in one Hilbert-space language. Documents are state vectors. Relevance and aboutness are Hermitian observables that need not commute. Subspaces carry a non-distributive logic whose conditional is shown to be a Stalnaker conditional equal to the Sasaki hook (ch. 5). Gleason's theorem makes tr(ρP) the probability of a subspace, which ch. 6 uses to rewrite cosine matching, cluster representatives, relevance and pseudo-relevance feedback, dynamic clustering and ostensive retrieval. It is a proposed language, not a tested model: no experiment is reported, and its "content hypothesis" that the probability of a concept is cos²θ is argued, not tested. | Read |

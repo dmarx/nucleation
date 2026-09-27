@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**32 documents cited without acknowledgement.** Not listed: 379 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**33 documents cited without acknowledgement.** Not listed: 379 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -36,11 +36,12 @@ On the Stepwise Nature of Self-Supervised Learning
 
 Riesz representation theorem (Wikipedia)
 
-6 citations in 2 files await a look; 1 other citation of it is acknowledged.
+7 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/literature.d/LIT-262.md:46`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:50`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:51`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
 - [`record/theory.d/THEORY-009.md:22`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:45`](../../record/theory.d/THEORY-009.md)
@@ -69,6 +70,30 @@ Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Loca
 - [`record/theory.d/THEORY-007.md:43`](../../record/theory.d/THEORY-007.md)
 - [`record/theory.d/THEORY-007.md:56`](../../record/theory.d/THEORY-007.md)
 
+### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
+
+Gelfand–Naimark–Segal construction (Wikipedia)
+
+5 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:39`](../../record/theory.d/THEORY-004.md)
+
+### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
+
+Hilbert Spaces and the Riesz Representation Theorem
+
+5 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-256.md:51`](../../record/literature.d/LIT-256.md)
+- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
+- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+
 ### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
 
 The Conditional Entropy Bottleneck
@@ -79,28 +104,6 @@ The Conditional Entropy Bottleneck
 - [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
 - [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
 - [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
-
-### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
-
-Gelfand–Naimark–Segal construction (Wikipedia)
-
-4 citations in 2 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-262.md:46`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:52`](../../record/literature.d/LIT-262.md)
-- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:39`](../../record/theory.d/THEORY-004.md)
-
-### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
-
-Hilbert Spaces and the Riesz Representation Theorem
-
-4 citations in 3 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-256.md:51`](../../record/literature.d/LIT-256.md)
-- [`record/literature.d/LIT-262.md:50`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:51`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 
 ### [LIT-106](../../record/literature.d/LIT-106.md) — Deferred
 
@@ -142,6 +145,36 @@ When and How Does Known Class Help Discover Unknown Ones? Provable Understanding
 - [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
 - [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
 
+### [LIT-237](../../record/literature.d/LIT-237.md) — Deferred
+
+Bra–ket notation (Wikipedia)
+
+3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:93`](../../record/notes.d/NOTE-239.md)
+
+### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+
+A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+
+3 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+
+### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
+
+What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+
+3 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+
 ### [LIT-119](../../record/literature.d/LIT-119.md) — Deferred
 
 Conspiracy Theories and Public Trust
@@ -178,32 +211,23 @@ Blunting concepts: The double-edged effect of popularizing psychotherapy languag
 - [`record/decisions.d/ADR-009.md:37`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
 
-### [LIT-237](../../record/literature.d/LIT-237.md) — Deferred
+### [LIT-264](../../record/literature.d/LIT-264.md) — Deferred
 
-Bra–ket notation (Wikipedia)
+Is there contextuality in behavioral and social systems?
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-262.md:46`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:50`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:114`](../../record/notes.d/NOTE-239.md)
 
-### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
 
-A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-262.md:46`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:53`](../../record/literature.d/LIT-262.md)
-
-### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
-
-What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
 2 citations in 1 file await a look.
 
-- [`record/literature.d/LIT-262.md:46`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:53`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:102`](../../record/notes.d/NOTE-239.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -308,14 +332,6 @@ Do Large Language Models Hallucinate Electric Fata Morganas?
 1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
-
-### [LIT-262](../../record/literature.d/LIT-262.md) — Deferred
-
-The Geometry of Information Retrieval
-
-1 citation in 1 file awaits a look.
-
-- [`record/theory.d/THEORY-013.md:45`](../../record/theory.d/THEORY-013.md)
 
 ## Codes that resolve to no document
 
