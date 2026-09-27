@@ -1,6 +1,9 @@
 ---
+number: 241
 status: Read
-paper: LIT-tmpbmt5h
+formerly:
+- NOTE-tmpiq4s5
+paper: LIT-268
 title: 'ZipNN'
 version: 1
 history:
@@ -32,7 +35,7 @@ summary: >-
   entropy and never compares its codes to one.
 ---
 
-# NOTE-tmpiq4s5: ZipNN
+# NOTE-241: ZipNN
 
 ## Contribution
 

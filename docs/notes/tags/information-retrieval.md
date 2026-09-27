@@ -4,9 +4,10 @@
 
 **information-retrieval**.
 
-2 of 240 NOTE documents. Back to the [full index](../README.md).
+3 of 242 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-211](../../../record/notes.d/NOTE-211.md) | Knowledge Sheaves (sheaf-theoretic KG embedding) | Knowledge-graph embedding can be recast as learning an approximate global section of a cellular sheaf on the schema graph, which subsumes Structured Embedding and TransE/TransR-style models and yields, via harmonic extension, a training-free way to answer composite multi-hop queries. | Skimmed |
 | [NOTE-239](../../../record/notes.d/NOTE-239.md) | The Geometry of Information Retrieval | The book recasts IR's vector-space, probabilistic and logical models in one Hilbert-space language. Documents are state vectors. Relevance and aboutness are Hermitian observables that need not commute. Subspaces carry a non-distributive logic whose conditional is shown to be a Stalnaker conditional equal to the Sasaki hook (ch. 5). Gleason's theorem makes tr(ρP) the probability of a subspace, which ch. 6 uses to rewrite cosine matching, cluster representatives, relevance and pseudo-relevance feedback, dynamic clustering and ostensive retrieval. It is a proposed language, not a tested model: no experiment is reported, and its "content hypothesis" that the probability of a concept is cos²θ is argued, not tested. | Read |
+| [NOTE-242](../../../record/notes.d/NOTE-242.md) | Attention Approximates Sparse Distributed Memory | Kanerva's SDM read weights each stored pointer by the number of neurons in the intersection of two Hamming balls of radius d. The paper shows that this weight is roughly log-linear in Hamming distance for close patterns. As a result, with L²-normalised vectors and a regression-fitted β, softmax attention reproduces SDM's retrieval behaviour on random and learnt-projection data (App. B.7). Two things are weaker than they look. The analytic derivation (App. B.2, Eqs. 16–21) gets the exponent wrong: by my recomputation its β is ≈2–2.5× too small. The biological case is Kanerva's 1988 cerebellar mapping, restated rather than re-argued. It also needs r = 2⁶⁴ ≈ 1.8×10¹⁹ neurons in the Attention setting, which the paper itself calls "biologically implausible" (App. B.5). | Read |

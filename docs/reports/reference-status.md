@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**35 documents cited without acknowledgement.** Not listed: 382 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**43 documents cited without acknowledgement.** Not listed: 392 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -41,10 +41,36 @@ Riesz representation theorem (Wikipedia)
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 - [`record/theory.d/THEORY-009.md:22`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:45`](../../record/theory.d/THEORY-009.md)
+
+### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+
+A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+
+6 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
+
+### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
+
+What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+
+6 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
 
 ### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
 
@@ -78,7 +104,7 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:39`](../../record/theory.d/THEORY-004.md)
 
@@ -92,43 +118,18 @@ Hilbert Spaces and the Riesz Representation Theorem
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
-- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
-
-### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
-
-A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
-
-5 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:151`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:157`](../../record/notes.d/NOTE-240.md)
 
-### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
+### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
-What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+Computational Functionalism for the Deep Learning Era
 
-5 citations in 3 files await a look.
+4 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:151`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:157`](../../record/notes.d/NOTE-240.md)
-
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
-
-5 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-239.md:102`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:149`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:157`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:178`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
+- [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
+- [`record/notes.d/NOTE-242.md:163`](../../record/notes.d/NOTE-242.md)
 
 ### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
 
@@ -150,16 +151,6 @@ Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 - [`record/decisions.d/ADR-009.md:35`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
 - [`record/notes.d/NOTE-158.md:136`](../../record/notes.d/NOTE-158.md)
-
-### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
-
-Computational Functionalism for the Deep Learning Era
-
-3 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
-- [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
-- [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
@@ -189,7 +180,7 @@ Bra–ket notation (Wikipedia)
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:93`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
 
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
@@ -236,14 +227,32 @@ Blunting concepts: The double-edged effect of popularizing psychotherapy languag
 - [`record/decisions.d/ADR-009.md:37`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
 
+### [LIT-233](../../record/literature.d/LIT-233.md) — Deferred
+
+Data-Dependent Generalization Bounds via Variable-Size Compressibility
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
+- [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-236](../../record/literature.d/LIT-236.md) — Deferred
+
+Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
+- [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
+
 ### [LIT-264](../../record/literature.d/LIT-264.md) — Deferred
 
 Is there contextuality in behavioral and social systems?
 
 2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-239.md:114`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:97`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:115`](../../record/notes.d/NOTE-239.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -349,21 +358,80 @@ Do Large Language Models Hallucinate Electric Fata Morganas?
 
 - [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
 
-### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
+### [LIT-224](../../record/literature.d/LIT-224.md) — Deferred
 
-The Lattice Representation Hypothesis of Large Language Models
+Shannon Information and Kolmogorov Complexity
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
-- [`record/notes.d/NOTE-240.md:6`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-241.md:167`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-225](../../record/literature.d/LIT-225.md) — Deferred
+
+Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-229](../../record/literature.d/LIT-229.md) — Deferred
+
+Meaningful Information
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-238](../../record/literature.d/LIT-238.md) — Deferred
+
+Minimum Description Length Revisited
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-239](../../record/literature.d/LIT-239.md) — Deferred
+
+Kolmogorov's Structure Functions and Model Selection
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-250](../../record/literature.d/LIT-250.md) — Deferred
+
+Duality of Bures and Shape Distances with Implications for Comparing Neural Representations
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-242.md:164`](../../record/notes.d/NOTE-242.md)
+
+### [LIT-257](../../record/literature.d/LIT-257.md) — Deferred
+
+What Representational Similarity Measures Imply about Decodable Information
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-242.md:164`](../../record/notes.d/NOTE-242.md)
+
+### [LIT-260](../../record/literature.d/LIT-260.md) — Deferred
+
+Kernel Mean Embedding of Distributions: A Review and Beyond
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-242.md:159`](../../record/notes.d/NOTE-242.md)
 
 ## Codes that resolve to no document
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**0 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**1 code unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
-Every code resolves. ✅
+
+### LIT-669 — resolves to nothing (1 unmarked site)
+
+- [`record/notes.d/NOTE-242.md:209`](../../record/notes.d/NOTE-242.md)
 
 ## Temporary codes this record does not mint
 

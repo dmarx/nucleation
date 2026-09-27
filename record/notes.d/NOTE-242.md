@@ -1,6 +1,9 @@
 ---
+number: 242
 status: Read
-paper: LIT-tmpynu35
+formerly:
+- NOTE-tmpk6gen
+paper: LIT-269
 title: 'Attention Approximates Sparse Distributed Memory'
 version: 1
 history:
@@ -41,7 +44,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-008 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-001 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-007 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
-# NOTE-tmpk6gen: Attention Approximates Sparse Distributed Memory
+# NOTE-242: Attention Approximates Sparse Distributed Memory
 
 ## Contribution
 

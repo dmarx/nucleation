@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-33 of 240 NOTE documents. Back to the [full index](../README.md).
+34 of 242 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -41,3 +41,4 @@
 | [NOTE-229](../../../record/notes.d/NOTE-229.md) | Information Theory with Kernel Methods | With a kernel normalised to k(x,x) = 1, the covariance operator Σ_p = E_p[ϕ(x)ϕ(x)*] is a density operator (PSD, unit trace), injective in p when k² is universal. Its von Neumann entropy and relative entropy behave like Shannon quantities, with D(Σ_p‖Σ_q) ≤ D(p‖q), and the empirical versions are computed from the normalised Gram matrix K/n. | Skimmed |
 | [NOTE-232](../../../record/notes.d/NOTE-232.md) | Tschannen et al., on MI maximization for representations | The success of InfoNCE-style representation learning cannot be attributed to mutual information itself: MI is invariant under invertible reparametrizations, invertible encoders that maximize true MI can be worse than raw pixels, and tighter MI bounds from higher-capacity critics can give worse representations. | Skimmed |
 | [NOTE-233](../../../record/notes.d/NOTE-233.md) | Poole et al., variational bounds of mutual information | Every variational lower bound on mutual information in use — Barber–Agakov, Donsker–Varadhan/MINE, NWJ/f-GAN-KL, InfoNCE — is one family, tight at a critic that is a function of the log density ratio log p(y\|x)/p(y), and InfoNCE is the multi-sample member that trades variance for a hard ceiling of log K. | Skimmed |
+| [NOTE-241](../../../record/notes.d/NOTE-241.md) | ZipNN | Lossless compression of trained-model files works almost entirely through the float exponent. It is concentrated on about 40 of 256 values, the top 12 hold ~99.9% of parameters, and it compresses to ~33% under order-0 Huffman coding, while sign and mantissa stay ≈100%. So "regular" BF16 models compress to ~66.4% and FP32 models to ~83%. Rounded "clean" models reach 33.7–48.1%, and ZipNN (exponent extraction plus Huffman only) beats vanilla Zstd by 17% in size and 62% in single-thread speed on Llama-3.1-8B BF16. The paper never computes an entropy and never compares its codes to one. | Read |

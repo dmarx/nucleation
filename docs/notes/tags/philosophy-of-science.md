@@ -4,7 +4,7 @@
 
 **philosophy-of-science**.
 
-78 of 240 NOTE documents. Back to the [full index](../README.md).
+78 of 242 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
