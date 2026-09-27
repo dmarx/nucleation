@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-09-27'
@@ -19,6 +19,12 @@ history:
     is complete for All-vs-Nothing models (LIT-278, Thm 21), and
     LIT-277's two failures lie outside that class. The claim itself is
     unchanged.
+- version: 4
+  date: '2026-09-27'
+  note: >-
+    The cohomology line is extended with Carù's counterexample
+    (LIT-tmpp63y4) to LIT-277's Conjecture 8.1. Symmetry of the cover does
+    not make the witness complete. The claim itself is unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -80,4 +86,19 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
   strongly contextual. The §8 cover is strongly contextual but, by the
   reader's application of Thm 21 ([NOTE-251](../notes.d/NOTE-251.md)), admits no All-vs-Nothing
   argument over any ring.
+
+  Symmetry of the cover does not rescue completeness. Abramsky, Mansfield
+  & Barbosa conjectured that under suitable symmetry and connectedness it
+  does ([LIT-277](../literature.d/LIT-277.md), Conjecture 8.1). Carù ([LIT-tmpp63y4](../literature.d/LIT-tmpp63y4.md), §4 and Appendix A)
+  refutes this for symmetry of the cover.
+  - *The counterexample.* It sits on the two-party, two-setting,
+    four-outcome Bell cover, where every measurement lies in two contexts
+    and the cover's symmetries act transitively. It is strongly contextual,
+    yet the obstruction vanishes on all 22 of its sections, over ℤ and
+    over ℤ/2 ([NOTE-tmpjdqyz](../notes.d/NOTE-tmpjdqyz.md)).
+  - *Consequences.* On that cover the witness certifies not even logical
+    contextuality. This third failure also lies outside All-vs-Nothing
+    (Thm 21, contrapositive).
+  - *Still open.* Whether completeness holds for covers whose contexts
+    pairwise intersect, or for symmetric models.
 - The strictness of the hierarchy at the possibilistic step, which leans on a cited result, or GHZ for n other than 4k ([NOTE-016](../notes.d/NOTE-016.md)). This claim covers the equivalence and Thm 5.9, not those details.
