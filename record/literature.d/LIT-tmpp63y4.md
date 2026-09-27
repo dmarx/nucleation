@@ -1,0 +1,66 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 ([NOTE-tmpjdqyz](../notes.d/NOTE-tmpjdqyz.md)); worth reading for one result, the first complete false negative of the cohomological witness (§4 and Appendix A, about two pages), which is correct as I verified it. §5 proves its own programme empty for no-signalling models, and §6 is a standard correspondence plus one false proposition. The follow-up, arXiv 1807.04203, may supersede it; that is unverified, since it was not read.'
+title: 'On the Cohomology of Contextuality'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (The full text of arXiv 1701.00656 v1, from the arXiv PDF,
+    19 pp. (EPTCS 236 pp. 21–39): abstract, §§1–6, Conclusions,
+    acknowledgements, all 27 references, and Appendices A (the
+    counterexample's possibility table), B (proofs of Props 5.5 and 5.6) and
+    C (proof of Prop 6.3). Nothing was skipped. The arXiv abstract page
+    lists one version only, v1 (3 Jan 2017, 151 KB), submitted via the EPTCS
+    proxy, with the comment "In Proceedings QPL 2016, arXiv:1701.00242", so
+    v1 is the published text; its PDF carries the EPTCS 236 header.
+    `pdftotext` was not available, so I extracted the text with PyMuPDF; the
+    bundle diagrams do not survive extraction, and I read Table 1 (Appendix
+    A) from word coordinates. I then re-checked the counterexample and the
+    paper's other checkable claims myself by exact linear algebra over ℤ and
+    ℤ/2, with the same solver calibrated on the Hardy, PR-box and AMB §8
+    models (details under Key results).); the first NOTE on it, since it was
+    seeded from the abstract alone. Status set from the reading: Active.
+tags:
+- contextuality
+- quantum-foundations
+- mathematics
+date: '2026-09-27'
+published: '2017-01-03'
+arxiv: '1701.00656'
+doi: '10.4204/EPTCS.236.2'
+first_author: 'Carù'
+keywords:
+- 'Čech cohomology'
+- 'strong contextuality'
+- 'false negatives'
+- 'Bell scenarios'
+- 'torsors'
+implementations: []
+summary: >-
+  Carù (2017), [ARXIV-1701.00656](https://arxiv.org/abs/1701.00656). Carù gives a possibilistic model on the
+  two-party, two-setting, four-outcome Bell cover that is strongly
+  contextual, yet whose Čech obstruction vanishes on all 22 support
+  sections (Fig 4, Table 1). That refutes Abramsky–Mansfield–Barbosa's
+  Conjecture 8.1 for any symmetry or connectedness condition the Bell
+  cover meets. I confirmed the refutation over ℤ and ℤ/2. The rest is
+  weaker. Odd-degree "higher obstructions" form a hierarchy (Prop 5.5),
+  but every level above the first is empty for every no-signalling model
+  (Prop 5.6). Prop 6.3 restates the known torsor description of Ȟ¹. Prop
+  6.1 is false in the "only if" direction; the PR box refutes it.
+corrects:
+- LIT-277
+---
+
+# LIT-tmpp63y4: On the Cohomology of Contextuality
+
+Carù (2017), *Proc. QPL 2016, EPTCS 236, 21–39* — DOI-10.4204/EPTCS.236.2
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request, as the next paper on the line
+from [LIT-277](LIT-277.md) and [LIT-278](LIT-278.md). `published:` is the arXiv v1 date
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpjdqyz](../notes.d/NOTE-tmpjdqyz.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading for one result, the first complete false negative of the cohomological witness (§4 and Appendix A, about two pages), which is correct as I verified it. §5 proves its own programme empty for no-signalling models, and §6 is a standard correspondence plus one false proposition. The follow-up, arXiv 1807.04203, may supersede it; that is unverified, since it was not read.
