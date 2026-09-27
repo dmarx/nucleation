@@ -5,14 +5,14 @@ this directory, then run `luria index`.
 
 <!-- GENERATED below this line by `luria index` — edit README.stub instead. -->
 
-**[Quantum foundations](tags/quantum-foundations.md)** (6) — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics:
-[010](../../record/theory.d/THEORY-010.md) · [011](../../record/theory.d/THEORY-011.md) · [012](../../record/theory.d/THEORY-012.md) · [014](../../record/theory.d/THEORY-014.md) · [015](../../record/theory.d/THEORY-015.md) · [016](../../record/theory.d/THEORY-016.md)
+**[Quantum foundations](tags/quantum-foundations.md)** (7) — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics:
+[010](../../record/theory.d/THEORY-010.md) · [011](../../record/theory.d/THEORY-011.md) · [012](../../record/theory.d/THEORY-012.md) · [014](../../record/theory.d/THEORY-014.md) · [015](../../record/theory.d/THEORY-015.md) · [016](../../record/theory.d/THEORY-016.md) · [017](../../record/theory.d/THEORY-017.md)
 
 **[Contextuality](tags/contextuality.md)** (7) — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics:
 [010](../../record/theory.d/THEORY-010.md) · [011](../../record/theory.d/THEORY-011.md) · [012](../../record/theory.d/THEORY-012.md) · [013](../../record/theory.d/THEORY-013.md) · [014](../../record/theory.d/THEORY-014.md) · [015](../../record/theory.d/THEORY-015.md) · [016](../../record/theory.d/THEORY-016.md)
 
-**[Mathematics](tags/mathematics.md)** (9) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
-[003](../../record/theory.d/THEORY-003.md) · [004](../../record/theory.d/THEORY-004.md) · [005](../../record/theory.d/THEORY-005.md) · [007](../../record/theory.d/THEORY-007.md) · [008](../../record/theory.d/THEORY-008.md) · [009](../../record/theory.d/THEORY-009.md) · [012](../../record/theory.d/THEORY-012.md) · [014](../../record/theory.d/THEORY-014.md) · [016](../../record/theory.d/THEORY-016.md)
+**[Mathematics](tags/mathematics.md)** (10) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
+[003](../../record/theory.d/THEORY-003.md) · [004](../../record/theory.d/THEORY-004.md) · [005](../../record/theory.d/THEORY-005.md) · [007](../../record/theory.d/THEORY-007.md) · [008](../../record/theory.d/THEORY-008.md) · [009](../../record/theory.d/THEORY-009.md) · [012](../../record/theory.d/THEORY-012.md) · [014](../../record/theory.d/THEORY-014.md) · [016](../../record/theory.d/THEORY-016.md) · [017](../../record/theory.d/THEORY-017.md)
 
 **[Network science](tags/network-science.md)** (0) — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
@@ -31,21 +31,24 @@ this directory, then run `luria index`.
 **[Information theory](tags/information-theory.md)** (3) — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning:
 [001](../../record/theory.d/THEORY-001.md) · [005](../../record/theory.d/THEORY-005.md) · [006](../../record/theory.d/THEORY-006.md)
 
-**[Representation learning](tags/representation-learning.md)** (9) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge:
-[001](../../record/theory.d/THEORY-001.md) · [002](../../record/theory.d/THEORY-002.md) · [003](../../record/theory.d/THEORY-003.md) · [004](../../record/theory.d/THEORY-004.md) · [005](../../record/theory.d/THEORY-005.md) · [006](../../record/theory.d/THEORY-006.md) · [007](../../record/theory.d/THEORY-007.md) · [008](../../record/theory.d/THEORY-008.md) · [009](../../record/theory.d/THEORY-009.md)
+**[Representation learning](tags/representation-learning.md)** (10) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge:
+[001](../../record/theory.d/THEORY-001.md) · [002](../../record/theory.d/THEORY-002.md) · [003](../../record/theory.d/THEORY-003.md) · [004](../../record/theory.d/THEORY-004.md) · [005](../../record/theory.d/THEORY-005.md) · [006](../../record/theory.d/THEORY-006.md) · [007](../../record/theory.d/THEORY-007.md) · [008](../../record/theory.d/THEORY-008.md) · [009](../../record/theory.d/THEORY-009.md) · [017](../../record/theory.d/THEORY-017.md)
 
 **[Learning theory](tags/learning-theory.md)** (0) — why learning generalizes — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection.
 
-**[Information retrieval](tags/information-retrieval.md)** (0) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
+**[Information retrieval](tags/information-retrieval.md)** (1) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval:
+[017](../../record/theory.d/THEORY-017.md)
 
 **[Social science](tags/social-science.md)** (1) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy:
 [013](../../record/theory.d/THEORY-013.md)
 
-**[Linguistics](tags/linguistics.md)** (0) — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
+**[Linguistics](tags/linguistics.md)** (1) — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them:
+[017](../../record/theory.d/THEORY-017.md)
 
 **[Metaphysics](tags/metaphysics.md)** (0) — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
 
-**[Mereology](tags/mereology.md)** (0) — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
+**[Mereology](tags/mereology.md)** (1) — parts and wholes — composition, individuation of systems and collectives (group: philosophy):
+[017](../../record/theory.d/THEORY-017.md)
 
 **[Agency](tags/agency.md)** (0) — what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy).
 
@@ -73,7 +76,7 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [The current account](status/Active.md) (2) · [Offered](status/Proposed.md) (14) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (0) · [Replaced](status/Superseded.md) (0)
+**By status:** [The current account](status/Active.md) (2) · [Offered](status/Proposed.md) (15) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (0) · [Replaced](status/Superseded.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -103,4 +106,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [THEORY-014](../../record/theory.d/THEORY-014.md) | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical | An inference joining two proved results: [LIT-016](../../record/literature.d/LIT-016.md) Thms 5.4 and 5.9 with Thm 8.1, and [LIT-003](../../record/literature.d/LIT-003.md) Thm 2.8 with Cor 3.5. Each half is proved and read; the parallel is the record's own, and [LIT-003](../../record/literature.d/LIT-003.md) attempts no comparison with [LIT-016](../../record/literature.d/LIT-016.md). | Proposed |
 | [THEORY-015](../../record/theory.d/THEORY-015.md) | Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory | Spekkens (2005), [LIT-266](../../record/literature.d/LIT-266.md), §III, §VIII.A (Eqs. 77–88), §VIII.B, §IX — the bridge between the record's two contextuality threads, which no held work states. Seeded, not yet read closely. Joining it to the sheaf form ([LIT-016](../../record/literature.d/LIT-016.md)) is the record's inference. | Proposed |
 | [THEORY-016](../../record/theory.d/THEORY-016.md) | An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension | Schmid et al. (2020), [LIT-003](../../record/literature.d/LIT-003.md), Prop 3.2, Prop 3.4, Cor 3.5, Thm 4.1, Cor 4.2, Prop 4.3 — proved. Spekkens's odd-d stabilizer Wigner representation ([LIT-007](../../record/literature.d/LIT-007.md)) is a worked instance. The theorem gives no test for whether a positive representation exists. | Active |
+| [THEORY-017](../../record/theory.d/THEORY-017.md) | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it | Carroll (2021), [LIT-123](../../record/literature.d/LIT-123.md): a quantum theory is fixed up to unitary equivalence by the Hamiltonian's spectrum, and subsystems come from a factorisation that the dynamics must select. Van Rijsbergen ([LIT-262](../../record/literature.d/LIT-262.md)) computes only traces and inner products, and treats each observable's eigenbasis as a "point of view". DisCoCat's ε/η composition ([LIT-273](../../record/literature.d/LIT-273.md)) is orthogonally covariant, while its Frobenius sequel ([LIT-272](../../record/literature.d/LIT-272.md)) stipulates a basis and composes by elementwise product in it. [THEORY-004](../../record/theory.d/THEORY-004.md) is the same point for learned representations. This is a synthesis across the four, not a result any one of them states. It does not say that basis-dependent models are wrong; it says what they have assumed. | Proposed |
 

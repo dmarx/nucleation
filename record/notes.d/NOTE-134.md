@@ -31,7 +31,7 @@ history:
     Connections extended on 2026-09-27, at the owner's request, to the
     Hilbert-space works filed since the reading: van Rijsbergen (LIT-262),
     the two DisCoCat papers (LIT-273, LIT-272) and the kernel-invariance
-    thread (THEORY-004). The new THEORY-tmpscxh5 cites this paper as its
+    thread (THEORY-004). The new THEORY-017 cites this paper as its
     primary source. The reading itself is unchanged.
 date: '2026-09-26'
 summary: >-
@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 
-<!-- inactive-ok-file: THEORY-tmpscxh5 — Proposed: the synthesis this note's 2026-09-27 connections point to, awaiting the close reading its promote_when names; the directive lapses when its status changes -->
+<!-- inactive-ok-file: THEORY-017 — Proposed: the synthesis this note's 2026-09-27 connections point to, awaiting the close reading its promote_when names; the directive lapses when its status changes -->
 
 # NOTE-134: Carroll — Reality as a vector in Hilbert space
 
@@ -150,7 +150,7 @@ factorisation from somewhere. Carroll takes it from the dynamics.
 
 Carroll's move, selecting parts by the form of the Hamiltonian, is the only
 one of these that tries to derive the extra structure rather than supply or
-avoid it. The comparison is set out in [THEORY-tmpscxh5](../theory.d/THEORY-tmpscxh5.md), which cites this
+avoid it. The comparison is set out in [THEORY-017](../theory.d/THEORY-017.md), which cites this
 paper first. Carroll's parts are factorisations, not bases. That document's
 last caveat says why the two are grouped without being identified.
 
@@ -158,7 +158,7 @@ last caveat says why the two are grouped without being identified.
 
 - For the mereology topic, this is the record's clearest example of a whole-first ontology in which parts are chosen descriptions, not constituents. Any document that cites it for a *uniqueness* result about subsystems should cite the local-factorisation theorem (Cotler et al.), not the quasi-classical criterion, which is supported only by numerical examples in a companion paper. It should not cite this essay as proof of either.
 - NOTE-134's summary overstates what is recovered: fields are hoped for, not recovered. The finiteness figure should not be quoted from this paper as printed.
-- [THEORY-tmpscxh5](../theory.d/THEORY-tmpscxh5.md) (added 2026-09-27) cites it as its primary source, for the spectrum-only premise and the selection of factorisations by dynamics. No earlier THEORY document depends on it.
+- [THEORY-017](../theory.d/THEORY-017.md) (added 2026-09-27) cites it as its primary source, for the spectrum-only premise and the selection of factorisations by dynamics. No earlier THEORY document depends on it.
 - For ML practice it carries nothing. There is no instruction for the Anthology of the SOTA.
 
 ## Limitations

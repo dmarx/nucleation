@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**49 documents cited without acknowledgement.** Not listed: 394 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**49 documents cited without acknowledgement.** Not listed: 403 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -32,6 +32,21 @@ On the Stepwise Nature of Self-Supervised Learning
 - [`record/theory.d/THEORY-009.md:21`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:25`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
+
+### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+
+A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+
+8 citations in 5 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/notes.d/NOTE-134.md:34`](../../record/notes.d/NOTE-134.md)
+- [`record/notes.d/NOTE-134.md:148`](../../record/notes.d/NOTE-134.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
 
 ### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
 
@@ -74,24 +89,11 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:150`](../../record/notes.d/NOTE-246.md)
 
-### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
-
-A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
-
-6 citations in 4 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
-
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
-6 citations in 4 files await a look; 1 other citation of it is acknowledged.
+6 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -128,13 +130,13 @@ Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Loca
 
 Gelfand–Naimark–Segal construction (Wikipedia)
 
-5 citations in 3 files await a look; 1 other citation of it is acknowledged.
+5 citations in 3 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:39`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 

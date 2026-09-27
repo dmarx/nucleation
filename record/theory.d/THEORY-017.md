@@ -1,5 +1,8 @@
 ---
+number: 17
 status: Proposed
+formerly:
+- THEORY-tmpscxh5
 promote_when: >-
   A close reading, in this record, of Coecke, Pavlovic & Vicary's proof that
   commutative special †-Frobenius algebras on finite-dimensional Hilbert
@@ -46,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-241 — Deferred: named only to mark the infinite-dimensional GNS setting this document stays out of; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-004 — Proposed: the representation-learning instance of this account, itself awaiting close readings; the directive lapses when its status changes -->
 
-# THEORY-tmpscxh5: In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
+# THEORY-017: In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
 ## Source
 
