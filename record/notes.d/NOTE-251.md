@@ -1,6 +1,9 @@
 ---
+number: 251
 status: Read
-paper: LIT-tmp5bjvi
+formerly:
+- NOTE-tmp92a59
+paper: LIT-278
 title: 'Contextuality, Cohomology and Paradox'
 version: 1
 history:
@@ -42,7 +45,7 @@ summary: >-
   work.
 ---
 
-# NOTE-tmp92a59: Contextuality, Cohomology and Paradox
+# NOTE-251: Contextuality, Cohomology and Paradox
 
 ## Contribution
 

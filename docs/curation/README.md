@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [27 Sep 08:14 — Contextuality, Cohomology and Paradox read; THEORY-012's cohomology line refined](2026-09.md#contextuality-cohomology-and-paradox-read-theory-012s-cohomology-line-refined)
 - [27 Sep 07:38 — Cohomology of contextuality read; Ghose note corrected, THEORY-012 bounded](2026-09.md#cohomology-of-contextuality-read-ghose-note-corrected-theory-012-bounded)
 - [27 Sep 07:26 — Measurement as sheafification, read and rejected](2026-09.md#measurement-as-sheafification-read-and-rejected)
 - [27 Sep 06:43 — Abramsky & Heunen read; THEORY-017's finite-dimensional caveat narrowed](2026-09.md#abramsky--heunen-read-theory-017s-finite-dimensional-caveat-narrowed)
@@ -45,8 +46,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-36 entries across 1 book, newest first.
+37 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 36 | 2026-09-25 | 2026-09-27 |
+| [2026-09](2026-09.md) | 37 | 2026-09-25 | 2026-09-27 |

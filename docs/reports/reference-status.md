@@ -52,6 +52,22 @@ On the Stepwise Nature of Self-Supervised Learning
 - [`record/theory.d/THEORY-009.md:25`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
 
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+
+9 citations in 6 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:205`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-251.md:236`](../../record/notes.d/NOTE-251.md)
+
 ### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
 
 Gelfand–Naimark–Segal construction (Wikipedia)
@@ -66,21 +82,6 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/notes.d/NOTE-248.md:227`](../../record/notes.d/NOTE-248.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
-
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
-
-8 citations in 5 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
-- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:205`](../../record/notes.d/NOTE-250.md)
 
 ### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
 
@@ -136,6 +137,19 @@ What a regularized linear readout can decode from a representation is a function
 - [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
 - [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
 
+### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
+
+In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
+
+6 citations in 3 files await a look.
+
+- [`record/notes.d/NOTE-249.md:183`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:198`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:199`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:201`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-251.md:231`](../../record/notes.d/NOTE-251.md)
+- [`record/notes.d/NOTE-251.md:233`](../../record/notes.d/NOTE-251.md)
+
 ### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
 
 Contrastive Learning Is Spectral Clustering On Similarity Graph
@@ -172,6 +186,18 @@ Hilbert Spaces and the Riesz Representation Theorem
 - [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 
+### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
+
+The contextual fraction as a measure of contextuality
+
+5 citations in 4 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:211`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:202`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-251.md:214`](../../record/notes.d/NOTE-251.md)
+
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
 Computational Functionalism for the Deep Learning Era
@@ -194,27 +220,16 @@ The Conditional Entropy Bottleneck
 - [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
 - [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
 
-### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
+### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
 
-The contextual fraction as a measure of contextuality
+Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
 
-4 citations in 3 files await a look; 2 other citations of it are acknowledged.
+4 citations in 3 files await a look.
 
-- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-249.md:211`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:202`](../../record/notes.d/NOTE-250.md)
-
-### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
-
-In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
-
-4 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-249.md:183`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:198`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:199`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:201`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:206`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-251.md:235`](../../record/notes.d/NOTE-251.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
@@ -276,16 +291,6 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 - [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
 - [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
 
-### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
-
-Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
-
-3 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:206`](../../record/notes.d/NOTE-250.md)
-
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
 Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets
@@ -321,6 +326,15 @@ The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 
 - [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
 - [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
+
+### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
+
+Conspiracy theorists are not the problem; Conspiracy liars are
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
+- [`record/notes.d/NOTE-251.md:216`](../../record/notes.d/NOTE-251.md)
 
 ### [LIT-214](../../record/literature.d/LIT-214.md) — Deferred
 
@@ -445,14 +459,6 @@ Alternative formulations of multilevel selection
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-101.md:93`](../../record/notes.d/NOTE-101.md)
-
-### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
-
-Conspiracy theorists are not the problem; Conspiracy liars are
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
 
 ### [LIT-212](../../record/literature.d/LIT-212.md) — Rejected
 

@@ -19,6 +19,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-016](../record/literature.d/LIT-016.md) — The sheaf-theoretic structure of non-locality and contextuality *(Active)*
   - [LIT-277](../record/literature.d/LIT-277.md) — The Cohomology of Non-Locality and Contextuality *(Active)*
+    - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
 
 ## information-theory
 
@@ -54,6 +55,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-016](../record/literature.d/LIT-016.md) — The sheaf-theoretic structure of non-locality and contextuality *(Active)*
   - [LIT-277](../record/literature.d/LIT-277.md) — The Cohomology of Non-Locality and Contextuality *(Active)*
+    - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
@@ -99,6 +101,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-016](../record/literature.d/LIT-016.md) — The sheaf-theoretic structure of non-locality and contextuality *(Active)*
   - [LIT-277](../record/literature.d/LIT-277.md) — The Cohomology of Non-Locality and Contextuality *(Active)*
+    - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
 
 ### From A new description of orthogonal bases
 
