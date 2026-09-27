@@ -1,0 +1,90 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 ([NOTE-tmp07tuj](../notes.d/NOTE-tmp07tuj.md)); worth reading as the consolidated source for Carù''s cohomology programme (Chs III–IV), for the valuation-algebra reformulation of contextuality (Ch V) and for the AvN triple theorem (Ch VI). Chs III–IV repeat, uncorrected, the errors recorded for [LIT-279](LIT-279.md) and [LIT-280](LIT-280.md), so read them with [NOTE-252](../notes.d/NOTE-252.md) and [NOTE-253](../notes.d/NOTE-253.md) at hand.'
+title: 'Logical and Topological Contextuality in Quantum Mechanics and Beyond'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (The full text of Giovanni Carù's DPhil thesis, "Logical
+    and Topological Contextuality in Quantum Mechanics and Beyond"
+    (University of Oxford, title page "Hilary 2019", supervisor Samson
+    Abramsky). Source: the thesis PDF in the Oxford University Research
+    Archive (ORA, CC BY, DOI 10.5287/ora-kznbp4k4y, which resolves to the
+    ORA record). It is byte-identical to the copy on Aleks Kissinger's
+    Oxford theses page. 223 PDF pages: xii front-matter pages, then pp.
+    1–211. The PDF is dated 14 Aug 2019. ORA gives the year only (citation
+    date "2019") and a deposit date of 2019-11-11, so `published:` uses the
+    deposit date. `pdftotext` was not available, so I extracted the text
+    with PyMuPDF. Where extraction lost tables or formulae, I checked them
+    against rendered pages. What I read and how closely: - *Read closely,
+    line by line.* Ch III (the cohomology chapter, pp. 39–58), Ch IV (the
+    line-model chapter, pp. 59–98, including every worked system of
+    equations) and Ch VIII (Conclusion). I diffed Ch IV against the 2018
+    preprint (arXiv 1807.04203, LIT-280) passage by passage at every point
+    NOTE-253 flagged. - *Read in full, less closely.* Front matter,
+    abstract, Ch I (Introduction) and Ch II (Background). All of Ch V
+    (valuation algebras, disagreement, inference algorithms), with close
+    attention to §§7–10 and the complexity bounds, checked against rendered
+    pp. 146 and 152. - *Skim-read, as permitted: Ch VI (AvN triples for
+    stabiliser states, pp. 155–171) and Ch VII (minimum resources for strong
+    non-locality, pp. 173–190).* Neither touches the cohomology programme.
+    For each I read the overview, the statements of every numbered
+    definition, theorem, proposition and corollary, and the discussion. I
+    did not check any proof in them. - *Not read.* The bibliography, list of
+    symbols and index, beyond individual entries I looked up. I re-ran the
+    car2 reader's GF(2) scripts for three purposes: to test the thesis's
+    definitions, which are identical to the preprint's (details under Key
+    results); to recompute the level-0 solution space of the §8 cover; and
+    to re-verify the witness families.); the first NOTE on it, since it was
+    seeded from the abstract alone. Status set from the reading: Active.
+tags:
+- contextuality
+- quantum-foundations
+- mathematics
+- logic
+date: '2026-09-27'
+published: '2019-11-11'
+doi: '10.5287/ora-kznbp4k4y'
+url: 'https://ora.ox.ac.uk/objects/uuid:9bc2335a-b627-463b-9526-f4b881b0fbbf'
+first_author: 'Carù'
+keywords:
+- 'Čech cohomology'
+- 'strong contextuality'
+- 'All-vs-Nothing arguments'
+- 'valuation algebras'
+- 'stabiliser states'
+- 'DPhil thesis'
+implementations: []
+summary: >-
+  Carù (2019), DOI-10.5287/ora-kznbp4k4y. The thesis's cohomology chapters
+  republish the 2017 and 2018 papers with the "joint model" renamed the
+  "line model". The definitions, Thm IV.32 (complete on cyclic scenarios
+  at level |M|−1), Prop IV.34, Thm IV.36 and Conjecture IV.41 carry over
+  unchanged. So does every defect found in the preprint. Under the
+  thesis's own Def IV.26, the §8 Kochen–Specker cover of
+  Abramsky–Mansfield–Barbosa is still detected on only 6 of 15 sections at
+  levels 0–3 (my recomputation), and a lifted ℤ/2 family shows it is never
+  fully detected at any level. The context-wise reading the worked
+  examples use detects all 15 sections at level 2. The genuinely new
+  material lies outside the cohomology programme: a probabilistic
+  line-model construction (§IV.7), a valuation-algebra "theory of
+  disagreement" with inference algorithms (Ch V, bound O(k^n·l^{k(n−1)+1})
+  on (n,k,l) scenarios), and the AvN-triple characterisation of stabiliser
+  states (Ch VI).
+extends:
+- LIT-280
+---
+
+# LIT-tmpb5bvv: Logical and Topological Contextuality in Quantum Mechanics and Beyond
+
+Carù (2019), *DPhil thesis, University of Oxford* — DOI-10.5287/ora-kznbp4k4y
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request, to see whether it repairs the
+2018 preprint's failures beyond cyclic covers ([LIT-280](LIT-280.md)). ORA gives the year
+only; `published:` is ORA's deposit date.
+
+It was filed `Deferred`, unread. [NOTE-tmp07tuj](../notes.d/NOTE-tmp07tuj.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading as the consolidated source for Carù's cohomology programme (Chs III–IV), for the valuation-algebra reformulation of contextuality (Ch V) and for the AvN triple theorem (Ch VI). Chs III–IV repeat, uncorrected, the errors recorded for [LIT-279](LIT-279.md) and [LIT-280](LIT-280.md), so read them with [NOTE-252](../notes.d/NOTE-252.md) and [NOTE-253](../notes.d/NOTE-253.md) at hand.
