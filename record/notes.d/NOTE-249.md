@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmppm8d2
 paper: LIT-276
 title: 'Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-27'
@@ -24,6 +24,13 @@ history:
     word by word. The differences are listed under corrections. No journal
     version exists to compare (see corrections).). The first NOTE on this
     paper, which was seeded from its abstract alone.
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    The description of Abramsky, Mansfield & Barbosa's obstruction class is
+    corrected against that paper's own reading (NOTE-tmppkatn). It was
+    written from general knowledge, and "not the class of a 0-coboundary"
+    was wrong as worded. The verdict on the paper is unchanged.
 date: '2026-09-27'
 summary: >-
   A programmatic essay, with no theorem, model or computation of its own.
@@ -118,7 +125,7 @@ The paper has no theorems, propositions or numbered equations. Its content, sect
   - *δs ≠ 0 does not show contextuality either.* It says only that *this* choice of local sections fails to agree. Another choice might agree.
   - *δs = 0 does not give gluing.* "δs = 0 … in which case the family {sᵢ} pastes to a global section s ∈ F(C)" is true only if F is already a sheaf, which is what is in question.
   - *The cover itself.* The maximal contexts of a contextual scenario cover no context C, because a context containing all of them would be a joint context. So the object C that the example ("e.g. the maximal compatible measurement contexts") needs is not in the category of contexts. Abramsky–Brandenburger avoid this by working over the subsets of the measurement set X, which is not itself a context.
-  - *The prose and AMB.* The next paragraph correctly describes AMB: "an obstruction class (built from an abelian presheaf derived from the support of the model) which vanishes whenever a global section exists; hence non-vanishing provides a robust sufficient witness of contextuality [34, 35]". AMB's class is a different object. It is the image of a local section under the connecting homomorphism of a relative-cohomology sequence, not the class of a 0-coboundary. **The paper's displayed construction is not AMB's, and it is trivial.** The AMB characterisation is from general knowledge of [34]; that paper is not held, and I did not read it for this note.
+  - *The prose and AMB.* The next paragraph correctly describes AMB: "an obstruction class (built from an abelian presheaf derived from the support of the model) which vanishes whenever a global section exists; hence non-vanishing provides a robust sufficient witness of contextuality [34, 35]". AMB's class is a different object. **The paper's displayed construction is not AMB's, and it is trivial.** *Corrected 2026-09-27 against AMB itself ([LIT-tmpiz975](../literature.d/LIT-tmpiz975.md), [NOTE-tmppkatn](NOTE-tmppkatn.md)).* This note first said that AMB's class is "the image of a local section under the connecting homomorphism of a relative-cohomology sequence, not the class of a 0-coboundary", from general knowledge. The first half is only AMB's one-line remark, not their definition. The second half is wrong as worded. AMB's γ(s) is literally the class [δ⁰c] of a coboundary. It is taken in the relative group Ȟ¹(𝒰, F_{C̄₁}), where c = (s, s₂, …, sₙ) is built from the section s by no-signalling lifts, and it is not a cochain of that relative presheaf. So its class need not vanish. Ghose's [δs] keeps the ℤ[·] coefficients and the δ⁰ formula, with the sign flipped. It drops the relativisation to C₁, the anchoring of the sᵢ to a fixed section, and the support presheaf over a cover. Those omissions are exactly why it collapses to zero. The conclusion above stands.
   - *"(a) Classical Physics … Ȟ¹(C, F) = 0 … Examples: classical EM fields, classical trajectories, classical probability distributions" (p. 20).* This is also wrong in two ways.
     - Ȟ¹ of a Set-valued F is not defined. And for an abelian sheaf, H¹ ≠ 0 does not mean failure of gluing (gluing is the H⁰/sheaf condition): nonzero H¹ is about locally trivial but globally twisted data, e.g. line bundles.
     - Classical probability distributions do *not* behave as sheaves. Uniqueness fails: two fair bits that are independent, and two that are perfectly correlated, have the same one-variable marginals. Existence fails too: three bits pairwise perfectly anticorrelated on the cover {a,b}, {b,c}, {a,c} have consistent uniform marginals but no joint distribution, since a ≠ b, b ≠ c, a ≠ c is impossible for bits. This is the classical marginal problem. Both are my checks.

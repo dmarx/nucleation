@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    A "does not say" line added: the cohomological witness of Abramsky,
+    Mansfield & Barbosa (LIT-tmpiz975) is sufficient, not necessary. The
+    claim itself is unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -43,4 +50,11 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
 - Anything about data whose marginals depend on context (signalling, or imperfectly compatible measurements); no-signalling is assumed. Contextuality-by-Default handles that case (see the behavioural claim in this group).
 - Anything about generalized (Spekkens) contextuality; how the two notions relate is a separate claim that extends this one.
 - Anything infinite; the scenarios are finite.
+- That contextuality can always be certified cohomologically. Abramsky,
+  Mansfield & Barbosa's Čech obstruction ([LIT-tmpiz975](../literature.d/LIT-tmpiz975.md), [NOTE-tmppkatn](../notes.d/NOTE-tmppkatn.md))
+  is a sufficient witness only. It vanishes on every section of the Hardy
+  model, and on 9 of 15 sections of a strongly contextual Kochen–Specker
+  cover (§8), because it tests extension to a compatible family of
+  ℤ-combinations, not to a global section of the support. The criterion
+  here is the exact one; the cohomology is a computable relaxation of it.
 - The strictness of the hierarchy at the possibilistic step, which leans on a cited result, or GHZ for n other than 4k ([NOTE-016](../notes.d/NOTE-016.md)). This claim covers the equivalence and Thm 5.9, not those details.
