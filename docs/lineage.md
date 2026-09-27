@@ -2,7 +2,7 @@
 
 # Lines of work
 
-2 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+3 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -27,12 +27,40 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
 
+## linguistics
+
+### From Mathematical Foundations for a Compositional Distributional Model of Meaning
+
+- [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
+  - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
+
+## logic
+
+### From Mathematical Foundations for a Compositional Distributional Model of Meaning
+
+- [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
+  - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
+
+## mathematics
+
+### From Mathematical Foundations for a Compositional Distributional Model of Meaning
+
+- [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
+  - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
+
 ## metaphysics
 
 ### From Category-theoretic structure and radical ontic structural realism
 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
+
+## philosophy-of-language
+
+### From Mathematical Foundations for a Compositional Distributional Model of Meaning
+
+- [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
+  - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
 
 ## philosophy-of-mathematics
 

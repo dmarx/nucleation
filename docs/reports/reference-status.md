@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**46 documents cited without acknowledgement.** Not listed: 394 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**49 documents cited without acknowledgement.** Not listed: 394 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -60,6 +60,19 @@ Is there contextuality in behavioral and social systems?
 - [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:92`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
+
+### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
+
+Distributional Semantics, Holism, and the Instability of Meaning
+
+6 citations in 5 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
+- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
+- [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:150`](../../record/notes.d/NOTE-246.md)
 
 ### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
 
@@ -135,6 +148,18 @@ Hilbert Spaces and the Riesz Representation Theorem
 - [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+
+5 citations in 3 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:149`](../../record/notes.d/NOTE-246.md)
+
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
 Computational Functionalism for the Deep Learning Era
@@ -145,17 +170,6 @@ Computational Functionalism for the Deep Learning Era
 - [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
 - [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 - [`record/notes.d/NOTE-242.md:163`](../../record/notes.d/NOTE-242.md)
-
-### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
-
-Distributional Semantics, Holism, and the Instability of Meaning
-
-4 citations in 3 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
-- [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
-- [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
-- [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
 
 ### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
 
@@ -197,16 +211,6 @@ Bra–ket notation (Wikipedia)
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
-
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
-
-3 citations in 1 file await a look; 5 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
 
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
@@ -270,6 +274,24 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 - [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-270](../../record/literature.d/LIT-270.md) — Rejected
+
+Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:149`](../../record/notes.d/NOTE-246.md)
+
+### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
+
+Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
+
+2 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:148`](../../record/notes.d/NOTE-246.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -454,6 +476,14 @@ The contextual fraction as a measure of contextuality
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+
+### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
+
+The Lattice Representation Hypothesis of Large Language Models
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-245.md:168`](../../record/notes.d/NOTE-245.md)
 
 ## Codes that resolve to no document
 

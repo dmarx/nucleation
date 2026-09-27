@@ -1,6 +1,9 @@
 ---
+number: 245
 status: Read
-paper: LIT-tmpunb3l
+formerly:
+- NOTE-tmp1umwm
+paper: LIT-273
 title: 'Mathematical Foundations for a Compositional Distributional Model of Meaning'
 version: 1
 history:
@@ -37,7 +40,7 @@ summary: >-
   Under its own Definition 5.1 they are 0.949, 0.316 and 0.6.
 ---
 
-# NOTE-tmp1umwm: Mathematical Foundations for a Compositional Distributional Model of Meaning
+# NOTE-245: Mathematical Foundations for a Compositional Distributional Model of Meaning
 
 ## Contribution
 

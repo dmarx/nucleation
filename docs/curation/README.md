@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [27 Sep 04:57 — DisCoCat, founding paper and Frobenius sequel, read](2026-09.md#discocat-founding-paper-and-frobenius-sequel-read)
 - [27 Sep 04:32 — NTK of matrix product states, read and rejected](2026-09.md#ntk-of-matrix-product-states-read-and-rejected)
 - [27 Sep 04:16 — Quantum structure claimed in LLM language, read and rejected](2026-09.md#quantum-structure-claimed-in-llm-language-read-and-rejected)
 - [27 Sep 03:55 — Attention as sparse distributed memory, and ZipNN, read for this record](2026-09.md#attention-as-sparse-distributed-memory-and-zipnn-read-for-this-record)
@@ -39,8 +40,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-30 entries across 1 book, newest first.
+31 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 30 | 2026-09-25 | 2026-09-27 |
+| [2026-09](2026-09.md) | 31 | 2026-09-25 | 2026-09-27 |

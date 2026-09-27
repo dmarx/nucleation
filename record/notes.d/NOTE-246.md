@@ -1,6 +1,9 @@
 ---
+number: 246
 status: Read
-paper: LIT-tmp26v1l
+formerly:
+- NOTE-tmps11ei
+paper: LIT-272
 title: 'Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras'
 version: 1
 history:
@@ -38,7 +41,7 @@ summary: >-
   and the definition numbers are the same data re-reported.
 ---
 
-# NOTE-tmps11ei: Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras
+# NOTE-246: Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras
 
 ## Contribution
 
