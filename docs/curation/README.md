@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [27 Sep 06:26 — Coecke, Pavlovic & Vicary read; THEORY-017 restated, still Proposed](2026-09.md#coecke-pavlovic--vicary-read-theory-017-restated-still-proposed)
 - [27 Sep 06:11 — Where a Hilbert space gets its basis: Carroll connected, THEORY drafted](2026-09.md#where-a-hilbert-space-gets-its-basis-carroll-connected-theory-drafted)
 - [27 Sep 04:57 — DisCoCat, founding paper and Frobenius sequel, read](2026-09.md#discocat-founding-paper-and-frobenius-sequel-read)
 - [27 Sep 04:32 — NTK of matrix product states, read and rejected](2026-09.md#ntk-of-matrix-product-states-read-and-rejected)
@@ -41,8 +42,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-32 entries across 1 book, newest first.
+33 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 32 | 2026-09-25 | 2026-09-27 |
+| [2026-09](2026-09.md) | 33 | 2026-09-25 | 2026-09-27 |

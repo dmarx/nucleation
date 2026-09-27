@@ -4,8 +4,8 @@ status: Proposed
 formerly:
 - THEORY-tmpscxh5
 promote_when: >-
-  The Coecke–Pavlovic–Vicary condition is met: LIT-tmpm1wb1 is read
-  (NOTE-tmpr7p85), and it proves the basis–Frobenius correspondence, for
+  The Coecke–Pavlovic–Vicary condition is met: LIT-274 is read
+  (NOTE-247), and it proves the basis–Frobenius correspondence, for
   complex spaces. What remains is a check, in each placement below, that
   the invariance or dependence claimed was measured or proved in the
   source, not inferred by the reader. At present LIT-273's covariance and
@@ -20,7 +20,7 @@ history:
 - version: 2
   date: '2026-09-27'
   note: >-
-    LIT-tmpm1wb1 (Coecke, Pavlovic & Vicary) filed and read, and added to
+    LIT-274 (Coecke, Pavlovic & Vicary) filed and read, and added to
     source. The correspondence is restated as the paper proves it:
     orthogonal bases for commutative †-Frobenius algebras, orthonormal bases
     for special ones, on complex spaces only. A caveat on real spaces is
@@ -39,7 +39,7 @@ source:
 - LIT-262
 - LIT-273
 - LIT-272
-- LIT-tmpm1wb1
+- LIT-274
 extends:
 - THEORY-004
 summary: >-
@@ -79,7 +79,7 @@ quantities invariant under that group can be read off the space alone:
 inner products, traces, and the spectra of operators placed on it. A
 non-degenerate self-adjoint operator does single out a basis, its
 eigenbasis, up to phases. Its unitarily invariant content, though, is only
-its eigenvalue list. Coecke, Pavlovic & Vicary ([LIT-tmpm1wb1](../literature.d/LIT-tmpm1wb1.md), read in [NOTE-tmpr7p85](../notes.d/NOTE-tmpr7p85.md)) make the basis
+its eigenvalue list. Coecke, Pavlovic & Vicary ([LIT-274](../literature.d/LIT-274.md), read in [NOTE-247](../notes.d/NOTE-247.md)) make the basis
 side exact, for complex spaces. On a finite-dimensional complex Hilbert
 space, the commutative †-Frobenius algebras are in bijection with the
 orthogonal bases, the basis being the vectors the comultiplication copies
@@ -138,10 +138,10 @@ document's inferences, not claims in the sources.**
   records where the structure comes from. It takes no side on whether it is
   thereby real.
 - **That the basis–Frobenius correspondence holds on real spaces.**
-  [LIT-tmpm1wb1](../literature.d/LIT-tmpm1wb1.md)'s theorem is for complex Hilbert spaces, and it fails over
+  [LIT-274](../literature.d/LIT-274.md)'s theorem is for complex Hilbert spaces, and it fails over
   the reals. On ℝ², the complex numbers, with multiplication scaled by
   1/√2, form a commutative special †-Frobenius algebra with no nonzero
-  copyable vector. The reader of [NOTE-tmpr7p85](../notes.d/NOTE-tmpr7p85.md) found this, and I checked it
+  copyable vector. The reader of [NOTE-247](../notes.d/NOTE-247.md) found this, and I checked it
   numerically when filing. [LIT-273](../literature.d/LIT-273.md), [LIT-272](../literature.d/LIT-272.md) and [THEORY-004](THEORY-004.md) all work over the
   reals. There a basis still induces a Frobenius algebra, which is all
   [LIT-272](../literature.d/LIT-272.md) uses, but a Frobenius algebra need not come from a basis. So the

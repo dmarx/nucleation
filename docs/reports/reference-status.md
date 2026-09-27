@@ -9,13 +9,30 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**49 documents cited without acknowledgement.** Not listed: 403 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**49 documents cited without acknowledgement.** Not listed: 411 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
 ```
 <!-- inactive-ok: ADR-012 — why this citation is right -->
 ```
+
+### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+
+A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+
+10 citations in 6 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/notes.d/NOTE-134.md:34`](../../record/notes.d/NOTE-134.md)
+- [`record/notes.d/NOTE-134.md:148`](../../record/notes.d/NOTE-134.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
+- [`record/notes.d/NOTE-247.md:148`](../../record/notes.d/NOTE-247.md)
 
 ### [LIT-242](../../record/literature.d/LIT-242.md) — Deferred
 
@@ -32,21 +49,6 @@ On the Stepwise Nature of Self-Supervised Learning
 - [`record/theory.d/THEORY-009.md:21`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:25`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
-
-### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
-
-A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
-
-8 citations in 5 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
-- [`record/notes.d/NOTE-134.md:34`](../../record/notes.d/NOTE-134.md)
-- [`record/notes.d/NOTE-134.md:148`](../../record/notes.d/NOTE-134.md)
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
 
 ### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
 
@@ -87,7 +89,20 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/notes.d/NOTE-090.md:160`](../../record/notes.d/NOTE-090.md)
 - [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:150`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
+
+### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
+
+Gelfand–Naimark–Segal construction (Wikipedia)
+
+6 citations in 4 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
+- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
@@ -126,18 +141,6 @@ Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Loca
 - [`record/theory.d/THEORY-007.md:43`](../../record/theory.d/THEORY-007.md)
 - [`record/theory.d/THEORY-007.md:56`](../../record/theory.d/THEORY-007.md)
 
-### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
-
-Gelfand–Naimark–Segal construction (Wikipedia)
-
-5 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
-
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
 Hilbert Spaces and the Riesz Representation Theorem
@@ -160,7 +163,7 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:149`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
 
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
@@ -284,7 +287,7 @@ Identifying Quantum Structure in AI Language: Evidence for Evolutionary Converge
 2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:149`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -293,7 +296,7 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 2 citations in 2 files await a look.
 
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:148`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 

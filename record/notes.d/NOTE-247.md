@@ -1,6 +1,9 @@
 ---
+number: 247
 status: Read
-paper: LIT-tmpm1wb1
+formerly:
+- NOTE-tmpr7p85
+paper: LIT-274
 title: 'A new description of orthogonal bases'
 version: 1
 history:
@@ -38,7 +41,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-017 — Proposed: the account this paper was filed to test; it stays Proposed on its remaining condition; the directive lapses when its status changes -->
 
-# NOTE-tmpr7p85: A new description of orthogonal bases
+# NOTE-247: A new description of orthogonal bases
 
 ## Contribution
 
