@@ -1,0 +1,70 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 ([NOTE-tmppkatn](../notes.d/NOTE-tmppkatn.md)); worth reading as the short original source of the cohomological obstruction to contextuality. It gives the exact definition (a relative Čech class, with coefficients the free abelian group on support sections), the vanishing criterion and its two known failures. Its results are small propositions with complete proofs, plus machine-checked mod-2 computations that I reproduced. It calls itself "work in progress" (§1), and the conceptual development is in Abramsky et al.''s CSL 2015 "Contextuality, Cohomology and Paradox" (not read). A reading of that paper would show whether it supersedes this one.'
+title: 'The Cohomology of Non-Locality and Contextuality'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (The full text of arXiv 1111.3620 v2, from the arXiv PDF,
+    14 pp. The arXiv abstract page lists two versions, v1 (15 Nov 2011, 27
+    KB) and v2 (2 Oct 2012, 30 KB, comment "In Proceedings QPL 2011,
+    arXiv:1210.0298"). The v2 PDF carries the EPTCS 95 header, so v2 is the
+    published text. I read the abstract, §§1–8 (every example: Hardy, PR
+    box, GHZ, the triangle, the 18-vector Kochen–Specker configuration, the
+    Kochen–Specker class with Propositions 6.1–6.2, and Peres–Mermin), the
+    acknowledgements and all 16 references. Nothing was skipped. `pdftotext`
+    was not available in this session, so I extracted the text with PyMuPDF.
+    The tables and the linear systems came through legibly. I also
+    downloaded v1 and compared the two extracted texts word by word; the
+    differences are listed under corrections. I then re-ran every example's
+    computation myself, as exact linear algebra over ℤ and over ℤ/2 (results
+    under Key results).); the first NOTE on it, since it was seeded from the
+    abstract alone. Status set from the reading: Active.
+tags:
+- contextuality
+- quantum-foundations
+- mathematics
+date: '2026-09-27'
+published: '2011-11-15'
+arxiv: '1111.3620'
+doi: '10.4204/EPTCS.95.1'
+first_author: 'Abramsky'
+keywords:
+- 'Čech cohomology'
+- 'contextuality'
+- 'non-locality'
+- 'sheaf theory'
+- 'obstruction'
+- 'Kochen–Specker'
+implementations: []
+summary: >-
+  Abramsky et al. (2011), [ARXIV-1111.3620](https://arxiv.org/abs/1111.3620). For an empirical model e on a
+  measurement cover 𝒰, a section s in the support of context C₁ gets a
+  class γ(s) ∈ Ȟ¹(𝒰, F_{C̄₁}), relative Čech cohomology of the presheaf F
+  = F_ℤ S_e of formal ℤ-linear combinations of support sections. γ(s) = 0
+  iff s belongs to a compatible family of such ℤ-combinations (Prop 4.2),
+  so a non-vanishing γ(s) is a sufficient but not necessary witness of
+  contextuality (Prop 4.3). γ is non-zero for every section of the PR box,
+  GHZ, the triangle, the 18-vector Kochen–Specker set and the Peres–Mermin
+  square, but it vanishes on the Hardy model and on one strongly
+  contextual Kochen–Specker cover (§8).
+extends:
+- LIT-016
+---
+
+<!-- inactive-ok-file: LIT-276 — Rejected: the Ghose paper whose garbled version of this construction this reading adjudicates; the directive lapses when its status changes -->
+
+# LIT-tmpiz975: The Cohomology of Non-Locality and Contextuality
+
+Abramsky, Mansfield & Barbosa (2011), *Proc. QPL 2011, EPTCS 95, 1–14 (2012)* — DOI-10.4204/EPTCS.95.1
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request. It is the cohomological
+companion to [LIT-016](LIT-016.md) and [THEORY-012](../theory.d/THEORY-012.md), and the correct version of the
+construction [LIT-276](LIT-276.md)'s v2 appendix attempts. `published:` is the arXiv v1
+date ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmppkatn](../notes.d/NOTE-tmppkatn.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading as the short original source of the cohomological obstruction to contextuality. It gives the exact definition (a relative Čech class, with coefficients the free abelian group on support sections), the vanishing criterion and its two known failures. Its results are small propositions with complete proofs, plus machine-checked mod-2 computations that I reproduced. It calls itself "work in progress" (§1), and the conceptual development is in Abramsky et al.'s CSL 2015 "Contextuality, Cohomology and Paradox" (not read). A reading of that paper would show whether it supersedes this one.
