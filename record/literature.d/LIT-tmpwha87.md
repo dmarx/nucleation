@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: seeded from the abstract on 2026-09-26; not read in full
+status_note: 'seeded on 2026-09-27 from the publisher''s contents and opening excerpts, the book''s annotated bibliography and Kantor''s review; not read in full (closed access)'
 title: 'The Geometry of Information Retrieval'
 version: 1
 tags:
