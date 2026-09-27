@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**49 documents cited without acknowledgement.** Not listed: 411 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**49 documents cited without acknowledgement.** Not listed: 418 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-10 citations in 6 files await a look; 6 other citations of it are acknowledged.
+12 citations in 7 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -33,6 +33,8 @@ A representation is determined by its kernel up to an orthogonal transformation,
 - [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
 - [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
 - [`record/notes.d/NOTE-247.md:148`](../../record/notes.d/NOTE-247.md)
+- [`record/notes.d/NOTE-248.md:187`](../../record/notes.d/NOTE-248.md)
+- [`record/notes.d/NOTE-248.md:227`](../../record/notes.d/NOTE-248.md)
 
 ### [LIT-242](../../record/literature.d/LIT-242.md) — Deferred
 
@@ -49,6 +51,21 @@ On the Stepwise Nature of Self-Supervised Learning
 - [`record/theory.d/THEORY-009.md:21`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:25`](../../record/theory.d/THEORY-009.md)
 - [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
+
+### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
+
+Gelfand–Naimark–Segal construction (Wikipedia)
+
+8 citations in 5 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
+- [`record/notes.d/NOTE-248.md:187`](../../record/notes.d/NOTE-248.md)
+- [`record/notes.d/NOTE-248.md:227`](../../record/notes.d/NOTE-248.md)
+- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
 ### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
 
@@ -90,19 +107,6 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
-
-### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
-
-Gelfand–Naimark–Segal construction (Wikipedia)
-
-6 citations in 4 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
-- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 

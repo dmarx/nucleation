@@ -1,6 +1,9 @@
 ---
+number: 248
 status: Read
-paper: LIT-tmp7e2en
+formerly:
+- NOTE-tmp4nt96
+paper: LIT-275
 title: 'H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics'
 version: 1
 history:
@@ -47,7 +50,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-017 — Proposed: the account whose finite-dimensional boundary this paper was filed to test; the directive lapses when its status changes -->
 
-# NOTE-tmp4nt96: H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics
+# NOTE-248: H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics
 
 ## Contribution
 

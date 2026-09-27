@@ -29,7 +29,7 @@ history:
 - version: 3
   date: '2026-09-27'
   note: >-
-    Abramsky & Heunen (LIT-tmp7e2en) filed and read, and added to source.
+    Abramsky & Heunen (LIT-275) filed and read, and added to source.
     The finite-dimensional caveat is narrowed: discrete orthonormal bases
     correspond to commutative special †-Frobenius algebras satisfying the
     H*-axiom in any dimension, over ℂ. Continuous observables remain
@@ -49,7 +49,7 @@ source:
 - LIT-273
 - LIT-272
 - LIT-274
-- LIT-tmp7e2en
+- LIT-275
 extends:
 - THEORY-004
 summary: >-
@@ -158,8 +158,8 @@ document's inferences, not claims in the sources.**
   table's placements stand, and "basis" and "Frobenius algebra" are one
   notion only in the complex case.
 - **Anything about continuous observables, or about infinite-dimensional
-  spaces beyond discrete bases.** Abramsky & Heunen ([LIT-tmp7e2en](../literature.d/LIT-tmp7e2en.md), read in
-  [NOTE-tmp4nt96](../notes.d/NOTE-tmp4nt96.md)) show that a unital Frobenius algebra exists in Hilb only in
+  spaces beyond discrete bases.** Abramsky & Heunen ([LIT-275](../literature.d/LIT-275.md), read in
+  [NOTE-248](../notes.d/NOTE-248.md)) show that a unital Frobenius algebra exists in Hilb only in
   finite dimension (Lemma 3). Dropping the unit, they prove that on a
   complex Hilbert space of any dimension, separable or not, a commutative
   special †-Frobenius algebra is induced by an orthonormal basis exactly
@@ -174,7 +174,7 @@ document's inferences, not claims in the sources.**
   - *Scope of this document.* The table stays finite-dimensional, as its
     sources are. The real-scalar caveat above holds in every dimension: over
     ℝ the H*-axiom does not force copyable vectors, since ℂ regarded as a
-    real algebra satisfies it and has none ([NOTE-tmp4nt96](../notes.d/NOTE-tmp4nt96.md)).
+    real algebra satisfies it and has none ([NOTE-248](../notes.d/NOTE-248.md)).
 - **That Carroll's selection criteria work.** The local-factorisation
   uniqueness is a cited theorem. The quasi-classical criterion rests on
   numerical examples in a companion paper, and emergent fields on a hope

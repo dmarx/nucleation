@@ -2,7 +2,7 @@
 
 # Lines of work
 
-3 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+4 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -48,6 +48,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
   - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
 
+### From A new description of orthogonal bases
+
+- [LIT-274](../record/literature.d/LIT-274.md) — A new description of orthogonal bases *(Active)*
+  - [LIT-275](../record/literature.d/LIT-275.md) — H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics *(Active)*
+
 ## metaphysics
 
 ### From Category-theoretic structure and radical ontic structural realism
@@ -75,6 +80,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
+
+## quantum-foundations
+
+### From A new description of orthogonal bases
+
+- [LIT-274](../record/literature.d/LIT-274.md) — A new description of orthogonal bases *(Active)*
+  - [LIT-275](../record/literature.d/LIT-275.md) — H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics *(Active)*
 
 ## representation-learning
 
