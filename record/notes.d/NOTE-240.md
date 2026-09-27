@@ -32,6 +32,8 @@ summary: >-
   subsumption reaches F1 57.1–77.1. No lattice law is ever tested.
 ---
 
+<!-- inactive-ok-file: THEORY-013 — Proposed: cited as the record's current account of the behavioural data, for comparison; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-267 — Proposed: the paper this note reads; the directive lapses when its status changes -->
 <!-- inactive-ok-file: LIT-230 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->
 <!-- inactive-ok-file: LIT-243 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->
 <!-- inactive-ok-file: LIT-264 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->

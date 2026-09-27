@@ -1,0 +1,61 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 (NOTE-tmpiq4s5); worth reading as a careful empirical systems paper on where the byte-level redundancy in stored weights sits. It has almost no information-theoretic content beyond that measurement, and its explanation of the exponent skew is speculative.'
+title: 'ZipNN: Lossless Compression for AI Models'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (full text of arXiv v2 (4 Jun 2025, 13 pp.: §§I–VII and
+    references; v2 has no appendix), plus a comparison read of arXiv v1 (7
+    Nov 2024, 16 pp.), including v1's appendix listing the exact Hugging
+    Face model identifiers behind Tables 1–3 and Figures 2, 4, 6, 7, 9 and
+    10. Nothing skipped. Bibliography: Hershcovitch, Wood, Choshen,
+    Girmonsky, Leibovitz, Ozeri, Ennmouri, Malka, Chin, Sundararaman, Harnik
+    (IBM Research, IBM, Tel Aviv U., Boston U., MIT, Dartmouth). arXiv
+    2411.05239, first appeared 2024-11-07 (v1). The v2 arXiv comment says
+    "IEEE Cloud"; the year and proceedings details are unverified. Or Ozeri
+    is an author in the v2 PDF but is missing from v1 and from arXiv's
+    author metadata.); the first NOTE on it, since it was seeded from the
+    abstract alone. Status set from the reading: Active.
+tags:
+- information-theory
+- anthology-candidate
+date: '2026-09-27'
+published: '2024-11-07'
+arxiv: '2411.05239'
+first_author: 'Hershcovitch'
+keywords:
+- 'lossless compression'
+- 'floating-point exponent'
+- 'Huffman coding'
+- 'model weights'
+implementations: []
+summary: >-
+  Hershcovitch et al. (2024),
+  [ARXIV-2411.05239](https://arxiv.org/abs/2411.05239). Lossless
+  compression of trained-model files works almost entirely through the
+  float exponent. It is concentrated on about 40 of 256 values, the top 12
+  hold ~99.9% of parameters, and it compresses to ~33% under order-0
+  Huffman coding, while sign and mantissa stay ≈100%. So "regular" BF16
+  models compress to ~66.4% and FP32 models to ~83%. Rounded "clean"
+  models reach 33.7–48.1%, and ZipNN (exponent extraction plus Huffman
+  only) beats vanilla Zstd by 17% in size and 62% in single-thread speed
+  on Llama-3.1-8B BF16. The paper never computes an entropy and never
+  compares its codes to one.
+---
+
+# LIT-tmpbmt5h: ZipNN: Lossless Compression for AI Models
+
+Hershcovitch et al. (2024), *arXiv preprint (v2 2025; the v2 comment names IEEE Cloud)* — [ARXIV-2411.05239](https://arxiv.org/abs/2411.05239)
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request, for an information-theoretic
+reading: what the paper shows about the entropy structure of trained weights.
+It is not held in the anthology. It is tagged `anthology-candidate`
+([ADR-005](../decisions.d/ADR-005.md)) because it is chiefly about ML practice: storing and moving model
+weights.
+
+It was filed `Deferred`, unread. [NOTE-tmpiq4s5](../notes.d/NOTE-tmpiq4s5.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading as a careful empirical systems paper on where the byte-level redundancy in stored weights sits. It has almost no information-theoretic content beyond that measurement, and its explanation of the exponent skew is speculative.
