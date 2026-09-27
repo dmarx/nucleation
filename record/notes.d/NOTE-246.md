@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmps11ei
 paper: LIT-272
 title: 'Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-27'
@@ -25,6 +25,13 @@ history:
     Distributional-Compositional Semantics: Theory and Experiments", pp.
     549–558), because the chapter's results turned out to repeat it.). The
     first NOTE on this paper, which was seeded from its abstract alone.
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Two statements about Coecke, Pavlovic & Vicary corrected against that
+    paper's reading (NOTE-tmpr7p85). The spider normal form is not in it,
+    and the basis correspondence needs † and a complex Hilbert space. The
+    claims table's C3 was accurate and is unchanged.
 date: '2026-09-27'
 summary: >-
   The paper sets the sentence space equal to the noun space (F(s)=F(n)=W).
@@ -77,7 +84,8 @@ So the whole "Frobenius" apparatus, once evaluated, is elementwise multiplicatio
 
 - **Compact structure is preserved (§2).** A strongly monoidal functor between compact closed categories sends adjoints to adjoints: F(Aˡ) is left adjoint to F(A). The argument is the standard one-paragraph uniqueness-of-adjoints argument. It is stated as equality where it holds up to isomorphism.
 - **The functor F (§3.3).** It is asserted to be strongly monoidal. The paper gives F on objects and on two example reductions. It does not check functoriality on the free pregroup. That pregroup is a partial order, so any two parallel morphisms are equal and must have equal images. I did not find a counterexample, and whether this causes trouble is unverified.
-- **Spider normal form (§5).** Every connected diagram of Frobenius maps equals a "spider" determined by its numbers of inputs and outputs. This is cited (Coecke–Pavlovic–Vicary, Coecke–Paquette), not proved.
+- **Spider normal form (§5).** Every connected diagram of Frobenius maps equals a "spider" determined by its numbers of inputs and outputs. This is cited (Coecke–Pavlovic–Vicary, Coecke–Paquette), not proved. The
+  first of those, [LIT-tmpm1wb1](../literature.d/LIT-tmpm1wb1.md), contains no such theorem ([NOTE-tmpr7p85](NOTE-tmpr7p85.md)).
 
 ### Closed forms (§6)
 
@@ -144,7 +152,7 @@ I checked each of the following numerically.
 
 ## Connections
 
-- **Basis dependence against the Hilbert-space IR programme.** Commutative special Frobenius algebras on finite-dimensional spaces correspond to choices of orthonormal basis (Coecke–Pavlovic–Vicary). The paper cites this as copying/deleting "of the basis" (§1, §4) and calls W*≅W "not natural" (§2). It never draws the consequence: every Frobenius-built sentence vector is a Hadamard product, so it depends on the basis of W. §3.2 allows that basis to be SVD "topics" as well as context words, and the two choices give different sentence meanings. I checked that a random orthogonal change of basis changes the cosine between a CpSbj sentence and its subject (0.008 against −0.53 in one draw). Van Rijsbergen's Geometry of IR ([LIT-262](../literature.d/LIT-262.md)) is the contrast. [NOTE-239](NOTE-239.md) records that every quantity that book computes is a trace or inner product and so is invariant under a joint unitary change of basis. The two programmes share the Hilbert-space vocabulary but differ exactly here: this paper's composition treats the context-word basis as privileged, "classical" data.
+- **Basis dependence against the Hilbert-space IR programme.** Commutative special †-Frobenius algebras on finite-dimensional complex Hilbert spaces correspond to orthonormal bases (Coecke–Pavlovic–Vicary, [LIT-tmpm1wb1](../literature.d/LIT-tmpm1wb1.md), Thm 5.1 and §6). Without the † condition they correspond to arbitrary bases, and over the reals the correspondence fails. W here is real, so its basis induces the Frobenius algebra the paper uses, but the converse is not available. The paper cites this as copying/deleting "of the basis" (§1, §4) and calls W*≅W "not natural" (§2). It never draws the consequence: every Frobenius-built sentence vector is a Hadamard product, so it depends on the basis of W. §3.2 allows that basis to be SVD "topics" as well as context words, and the two choices give different sentence meanings. I checked that a random orthogonal change of basis changes the cosine between a CpSbj sentence and its subject (0.008 against −0.53 in one draw). Van Rijsbergen's Geometry of IR ([LIT-262](../literature.d/LIT-262.md)) is the contrast. [NOTE-239](NOTE-239.md) records that every quantity that book computes is a trace or inner product and so is invariant under a joint unitary change of basis. The two programmes share the Hilbert-space vocabulary but differ exactly here: this paper's composition treats the context-word basis as privileged, "classical" data.
 - **Same formalism as the process-theory contextuality work.** Schmid et al. ([LIT-003](../literature.d/LIT-003.md)) study diagram-preserving maps from a process theory into FVect_ℝ. Structurally that is what F is here: a monoidal functor from a compositional syntax into FVect. The kinship is formal only. This paper uses the categorical quantum-mechanics toolkit as notation for linguistic composition and makes no claim about quantum theory. It is not evidence about contextuality, so it bears on none of [THEORY-010](../theory.d/THEORY-010.md)..016.
 - **Not the quantum-cognition programme.** Unlike Aerts et al.'s claim of quantum structure in LLM language ([LIT-270](../literature.d/LIT-270.md)), the paper claims nothing non-classical about meaning. "Quantizing the grammar" is a metaphor for the functor. So the record's criticism of contextuality claims about word-meaning data ([THEORY-013](../theory.d/THEORY-013.md)) does not apply.
 - **Distributional meaning.** The paper's "meaning-as-use" justification of distributional vectors (§3.2) is the view that Grindrod et al. ([LIT-208](../literature.d/LIT-208.md)) defend philosophically against the instability objection. Their differential, neighbourhood-based reading of meaning is basis-free, while this paper's composition is not.

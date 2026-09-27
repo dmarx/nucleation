@@ -4,19 +4,28 @@ status: Proposed
 formerly:
 - THEORY-tmpscxh5
 promote_when: >-
-  A close reading, in this record, of Coecke, Pavlovic & Vicary's proof that
-  commutative special †-Frobenius algebras on finite-dimensional Hilbert
-  spaces are exactly orthonormal bases (arXiv 0810.0812). It is cited by
-  LIT-272 and not held here. That result is what makes "a basis",
-  "a Frobenius algebra" and "classical data" one notion rather than three
-  analogies. Also needed: a check, in each placement below, that the
-  invariance or dependence claimed was measured or proved in the source,
-  not inferred by the reader. The kind of result that would refute this
-  is a Hilbert-space model in the record whose parts or features are
-  recovered from unitarily invariant data alone, with no operator,
-  stipulated basis or factorisation supplied.
+  The Coecke–Pavlovic–Vicary condition is met: LIT-tmpm1wb1 is read
+  (NOTE-tmpr7p85), and it proves the basis–Frobenius correspondence, for
+  complex spaces. What remains is a check, in each placement below, that
+  the invariance or dependence claimed was measured or proved in the
+  source, not inferred by the reader. At present LIT-273's covariance and
+  LIT-272's rotation sensitivity are the readers' numerical checks, not
+  the papers' claims. The kind of result that would refute this is a
+  Hilbert-space model in the record whose parts or features are recovered
+  from unitarily invariant data alone, with no operator, stipulated basis
+  or factorisation supplied.
 title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    LIT-tmpm1wb1 (Coecke, Pavlovic & Vicary) filed and read, and added to
+    source. The correspondence is restated as the paper proves it:
+    orthogonal bases for commutative †-Frobenius algebras, orthonormal bases
+    for special ones, on complex spaces only. A caveat on real spaces is
+    added, the first promote_when condition is recorded as met, and the
+    status stays Proposed on the second.
 tags:
 - mathematics
 - quantum-foundations
@@ -30,6 +39,7 @@ source:
 - LIT-262
 - LIT-273
 - LIT-272
+- LIT-tmpm1wb1
 extends:
 - THEORY-004
 summary: >-
@@ -69,10 +79,14 @@ quantities invariant under that group can be read off the space alone:
 inner products, traces, and the spectra of operators placed on it. A
 non-degenerate self-adjoint operator does single out a basis, its
 eigenbasis, up to phases. Its unitarily invariant content, though, is only
-its eigenvalue list. Coecke, Pavlovic & Vicary's theorem, cited by [LIT-272](../literature.d/LIT-272.md)
-(§4) and not held here, makes the basis side exact. On such a space,
-commutative special †-Frobenius algebras correspond to orthonormal bases,
-which is why the categorical literature calls them "classical structures".
+its eigenvalue list. Coecke, Pavlovic & Vicary ([LIT-tmpm1wb1](../literature.d/LIT-tmpm1wb1.md), read in [NOTE-tmpr7p85](../notes.d/NOTE-tmpr7p85.md)) make the basis
+side exact, for complex spaces. On a finite-dimensional complex Hilbert
+space, the commutative †-Frobenius algebras are in bijection with the
+orthogonal bases, the basis being the vectors the comultiplication copies
+(Thm 5.1). The special ones correspond exactly to the orthonormal bases, with
+the vectors fixed exactly, phases included (§6). The paper calls this
+"classical data"; the later categorical literature calls these algebras
+"classical structures".
 
 **Each source takes one position on where the extra structure comes from.**
 
@@ -94,7 +108,8 @@ meaning components) depends on that choice.
 document's inferences, not claims in the sources.**
 
 - **Contextuality needs more than one basis.** A single orthonormal basis,
-  equivalently a single commutative Frobenius algebra, supports one global
+  equivalently (on a complex space) a single commutative special
+  †-Frobenius algebra, supports one global
   probability distribution over its outcomes. Kochen–Specker contextuality
   ([THEORY-012](THEORY-012.md)) is the failure of the distributions from several
   incompatible bases to glue into one. Van Rijsbergen's "contexts are bases"
@@ -122,6 +137,16 @@ document's inferences, not claims in the sources.**
   "real, though not fundamental" ([LIT-123](../literature.d/LIT-123.md), pp. 7, 11–12). This document
   records where the structure comes from. It takes no side on whether it is
   thereby real.
+- **That the basis–Frobenius correspondence holds on real spaces.**
+  [LIT-tmpm1wb1](../literature.d/LIT-tmpm1wb1.md)'s theorem is for complex Hilbert spaces, and it fails over
+  the reals. On ℝ², the complex numbers, with multiplication scaled by
+  1/√2, form a commutative special †-Frobenius algebra with no nonzero
+  copyable vector. The reader of [NOTE-tmpr7p85](../notes.d/NOTE-tmpr7p85.md) found this, and I checked it
+  numerically when filing. [LIT-273](../literature.d/LIT-273.md), [LIT-272](../literature.d/LIT-272.md) and [THEORY-004](THEORY-004.md) all work over the
+  reals. There a basis still induces a Frobenius algebra, which is all
+  [LIT-272](../literature.d/LIT-272.md) uses, but a Frobenius algebra need not come from a basis. So the
+  table's placements stand, and "basis" and "Frobenius algebra" are one
+  notion only in the complex case.
 - **Anything about infinite-dimensional or non-separable spaces.** There,
   Carroll notes, an algebra of observables must be supplied from the start
   (Haag, [LIT-123](../literature.d/LIT-123.md) p. 5). That is the setting of the GNS strand ([LIT-241](../literature.d/LIT-241.md),
