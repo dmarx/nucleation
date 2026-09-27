@@ -1,6 +1,9 @@
 ---
+number: 250
 status: Read
-paper: LIT-tmpiz975
+formerly:
+- NOTE-tmppkatn
+paper: LIT-277
 title: 'The Cohomology of Non-Locality and Contextuality'
 version: 1
 history:
@@ -37,7 +40,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-276 — Rejected: the Ghose paper whose garbled version of this construction this reading adjudicates; the directive lapses when its status changes -->
 
-# NOTE-tmppkatn: The Cohomology of Non-Locality and Contextuality
+# NOTE-250: The Cohomology of Non-Locality and Contextuality
 
 ## Contribution
 

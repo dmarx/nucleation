@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**55 documents cited without acknowledgement.** Not listed: 421 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**56 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -67,6 +67,21 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+
+8 citations in 5 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:205`](../../record/notes.d/NOTE-250.md)
+
 ### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
 
 Riesz representation theorem (Wikipedia)
@@ -120,19 +135,6 @@ What a regularized linear readout can decode from a representation is a function
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 - [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
 - [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
-
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
-
-6 citations in 4 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
-- [`record/notes.d/NOTE-249.md:178`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
 
@@ -192,15 +194,37 @@ The Conditional Entropy Bottleneck
 - [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
 - [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
 
+### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
+
+The contextual fraction as a measure of contextuality
+
+4 citations in 3 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:211`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:202`](../../record/notes.d/NOTE-250.md)
+
+### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
+
+In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
+
+4 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-249.md:183`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:198`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:199`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:201`](../../record/notes.d/NOTE-250.md)
+
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
 Pregeometry, Formal Language and Constructivist Foundations of Physics
 
 3 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-249.md:165`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-249.md:187`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:172`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:176`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:194`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-106](../../record/literature.d/LIT-106.md) — Deferred
 
@@ -232,15 +256,15 @@ Bra–ket notation (Wikipedia)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
 
-### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
+### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
 
-The contextual fraction as a measure of contextuality
+Kochen-Specker contextuality
 
-3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+3 citations in 3 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-249.md:162`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-249.md:204`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:173`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:203`](../../record/notes.d/NOTE-250.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -250,7 +274,17 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
-- [`record/notes.d/NOTE-249.md:177`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
+
+### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
+
+Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
+
+3 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:206`](../../record/notes.d/NOTE-250.md)
 
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
@@ -314,15 +348,6 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 - [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
-
-### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
-
-Kochen-Specker contextuality
-
-2 citations in 2 files await a look; 11 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-249.md:166`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-270](../../record/literature.d/LIT-270.md) — Rejected
 
@@ -467,7 +492,7 @@ Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding
 
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
-- [`record/notes.d/NOTE-249.md:168`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:175`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-238](../../record/literature.d/LIT-238.md) — Deferred
 
@@ -515,7 +540,7 @@ Contextuality for preparations, transformations, and unsharp measurements
 
 1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-249.md:166`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:173`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
 
@@ -531,23 +556,15 @@ Generalized contextuality is strictly broader than Kochen–Specker contextualit
 
 1 citation in 1 file awaits a look.
 
-- [`record/notes.d/NOTE-249.md:178`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
 
-### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
+### [THEORY-017](../../record/theory.d/THEORY-017.md) — Proposed
 
-In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
+In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-249.md:176`](../../record/notes.d/NOTE-249.md)
-
-### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
-
-Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
-
-1 citation in 1 file awaits a look.
-
-- [`record/notes.d/NOTE-249.md:178`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 
 ## Codes that resolve to no document
 

@@ -10,7 +10,7 @@ history:
   date: '2026-09-27'
   note: >-
     A "does not say" line added: the cohomological witness of Abramsky,
-    Mansfield & Barbosa (LIT-tmpiz975) is sufficient, not necessary. The
+    Mansfield & Barbosa (LIT-277) is sufficient, not necessary. The
     claim itself is unchanged.
 tags:
 - contextuality
@@ -51,7 +51,7 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
 - Anything about generalized (Spekkens) contextuality; how the two notions relate is a separate claim that extends this one.
 - Anything infinite; the scenarios are finite.
 - That contextuality can always be certified cohomologically. Abramsky,
-  Mansfield & Barbosa's Čech obstruction ([LIT-tmpiz975](../literature.d/LIT-tmpiz975.md), [NOTE-tmppkatn](../notes.d/NOTE-tmppkatn.md))
+  Mansfield & Barbosa's Čech obstruction ([LIT-277](../literature.d/LIT-277.md), [NOTE-250](../notes.d/NOTE-250.md))
   is a sufficient witness only. It vanishes on every section of the Hardy
   model, and on 9 of 15 sections of a strongly contextual Kochen–Specker
   cover (§8), because it tests extension to a compatible family of
