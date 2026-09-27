@@ -1,0 +1,67 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 ([NOTE-tmpr7p85](../notes.d/NOTE-tmpr7p85.md)); worth reading as the short, self-contained source of the fact that "a commutative †-Frobenius algebra" and "an orthogonal basis" are the same data in FdHilb, and "special" the same as "orthonormal". The proof is complete in outline, and the heavy step is delegated to the spectral theorem for finite-dimensional commutative C*-algebras. Read §3''s displayed formulas (3) and (4) as the orthonormal case only, and the result as complex and finite-dimensional only.'
+title: 'A new description of orthogonal bases'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (The full text of arXiv 0810.0812 v1 (the only version;
+    submitted 5 Oct 2008, 17 KB), from the arXiv PDF, 14 pp. I read the
+    abstract, §§1–7, Remarks 2.2, 4.4 and 5.2, the footnote and all 15
+    references. Nothing was skipped. `pdftotext` was not available in this
+    session, so I extracted the text with PyMuPDF. The commutative diagram
+    of Definition 2.1 and the string-diagram proofs of Lemmas 4.1, 4.2 and
+    4.6 do not survive extraction. I reconstructed each from the algebra the
+    text states around it. I re-derived Lemma 4.6's two bra-ket equations
+    from the two forms of the Frobenius law, and I checked Lemma 4.1, the
+    involution of Lemma 4.2, the Frobenius and unit laws for a
+    non-normalised orthogonal basis, and the §6 identity m∘δ = Σ|φᵢ⟩⟨φᵢ|
+    numerically myself (random complex 3-d examples). I did not read the
+    published version (Mathematical Structures in Computer Science 23(3),
+    2013), and I have not checked whether it corrects the slips noted
+    below.); the first NOTE on it, since it was seeded from the abstract
+    alone. Status set from the reading: Active.
+tags:
+- mathematics
+- quantum-foundations
+date: '2026-09-27'
+published: '2008-10-05'
+arxiv: '0810.0812'
+doi: '10.1017/S0960129512000047'
+first_author: 'Coecke'
+keywords:
+- 'Frobenius algebras'
+- 'orthogonal bases'
+- 'classical data'
+- 'dagger categories'
+- 'categorical quantum mechanics'
+implementations: []
+summary: >-
+  Coecke et al. (2008), [ARXIV-0810.0812](https://arxiv.org/abs/0810.0812). Theorem 5.1 proves that on a
+  finite-dimensional complex Hilbert space, commutative †-Frobenius
+  monoids in FdHilb and orthogonal bases are in bijection: the basis is
+  the monoid's copyable elements, and the monoid is the linear extension
+  of copying and uniformly deleting that basis. §6 adds that the monoid is
+  special (m∘δ = id) exactly when the basis is orthonormal. Corollaries
+  7.1 and 7.2 lift this to categories: with fully structure-preserving
+  maps the category is equivalent to the groupoid of finite sets labelled
+  by positive reals (the basis norms), and with comonoid homomorphisms it
+  is equivalent to FinSet.
+---
+
+<!-- inactive-ok-file: THEORY-017 — Proposed: the account this paper was filed to test; it stays Proposed on its remaining condition; the directive lapses when its status changes -->
+
+# LIT-tmpm1wb1: A new description of orthogonal bases
+
+Coecke, Pavlovic & Vicary (2008), *Mathematical Structures in Computer Science 23(3), 555–567 (2013)* — DOI-10.1017/S0960129512000047
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request, because [THEORY-017](../theory.d/THEORY-017.md)'s
+`promote_when` names it: it is the result that makes "a basis" and "a
+commutative Frobenius algebra" one notion in that account. [LIT-272](LIT-272.md) cites it
+too. `published:` is the arXiv v1 date ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpr7p85](../notes.d/NOTE-tmpr7p85.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading as the short, self-contained source of the fact that "a commutative †-Frobenius algebra" and "an orthogonal basis" are the same data in FdHilb, and "special" the same as "orthonormal". The proof is complete in outline, and the heavy step is delegated to the spectral theorem for finite-dimensional commutative C*-algebras. Read §3's displayed formulas (3) and (4) as the orthonormal case only, and the result as complex and finite-dimensional only.
