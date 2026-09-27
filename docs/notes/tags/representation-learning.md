@@ -4,7 +4,7 @@
 
 **representation-learning**.
 
-20 of 239 NOTE documents. Back to the [full index](../README.md).
+21 of 240 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -28,3 +28,4 @@
 | [NOTE-232](../../../record/notes.d/NOTE-232.md) | Tschannen et al., on MI maximization for representations | The success of InfoNCE-style representation learning cannot be attributed to mutual information itself: MI is invariant under invertible reparametrizations, invertible encoders that maximize true MI can be worse than raw pixels, and tighter MI bounds from higher-capacity critics can give worse representations. | Skimmed |
 | [NOTE-233](../../../record/notes.d/NOTE-233.md) | Poole et al., variational bounds of mutual information | Every variational lower bound on mutual information in use — Barber–Agakov, Donsker–Varadhan/MINE, NWJ/f-GAN-KL, InfoNCE — is one family, tight at a critic that is a function of the log density ratio log p(y\|x)/p(y), and InfoNCE is the multi-sample member that trades variance for a hard ceiling of log K. | Skimmed |
 | [NOTE-234](../../../record/notes.d/NOTE-234.md) | SSL-HSIC (kernel dependence maximization) | With image identity as the label, the SSL-HSIC loss −HSIC(Z,Y) + γ√HSIC(Z,Z) has a dependence term that is proportional to the average squared MMD between the per-image distributions of augmented-view representations (App. B.2). InfoNCE approximates the same term plus a variance penalty (eq. 7), so contrastive SSL separates the kernel mean embeddings of each image's view distribution. | Skimmed |
+| [NOTE-240](../../../record/notes.d/NOTE-240.md) | The Lattice Representation Hypothesis of Large Language Models | Thresholding linear attribute directions (Fisher-LDA probes) gives a crisp object–attribute incidence, and the paper's Theorem 1 is the standard fact that any such incidence has a complete concept lattice. The geometric meet is half-space intersection; the join is defined as the set union of two cones and "approximated by the conic hull" of their directions, which as written is not a lattice join. On five WordNet domains with GPT-4o-annotated attributes, the probes recover the incidence at F1 69.7–83.2 on three 7–8B models, and profile-based subsumption reaches F1 57.1–77.1. No lattice law is ever tested. | Read |

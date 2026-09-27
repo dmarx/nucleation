@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [27 Sep 02:48 — The Lattice Representation Hypothesis, re-read against the geometry of IR](2026-09.md#the-lattice-representation-hypothesis-re-read-against-the-geometry-of-ir)
 - [27 Sep 02:28 — The Geometry of Information Retrieval, read](2026-09.md#the-geometry-of-information-retrieval-read)
 - [27 Sep 02:19 — Contextuality: the threads brought together](2026-09.md#contextuality-the-threads-brought-together)
 - [26 Sep 23:42 — Riesz, Radon–Nikodym and GNS in representation learning: the connections pursued](2026-09.md#riesz-radonnikodym-and-gns-in-representation-learning-the-connections-pursued)
@@ -35,8 +36,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-26 entries across 1 book, newest first.
+27 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 26 | 2026-09-25 | 2026-09-27 |
+| [2026-09](2026-09.md) | 27 | 2026-09-25 | 2026-09-27 |

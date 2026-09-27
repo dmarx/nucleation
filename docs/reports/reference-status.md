@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**33 documents cited without acknowledgement.** Not listed: 379 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**35 documents cited without acknowledgement.** Not listed: 382 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -36,7 +36,7 @@ On the Stepwise Nature of Self-Supervised Learning
 
 Riesz representation theorem (Wikipedia)
 
-7 citations in 3 files await a look; 1 other citation of it is acknowledged.
+7 citations in 3 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
@@ -86,13 +86,49 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 
 Hilbert Spaces and the Riesz Representation Theorem
 
-5 citations in 4 files await a look; 1 other citation of it is acknowledged.
+5 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-256.md:51`](../../record/literature.d/LIT-256.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 - [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+
+### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+
+A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+
+5 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:151`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:157`](../../record/notes.d/NOTE-240.md)
+
+### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
+
+What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+
+5 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:151`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:157`](../../record/notes.d/NOTE-240.md)
+
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+
+5 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-239.md:102`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:149`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:157`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:178`](../../record/notes.d/NOTE-240.md)
 
 ### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
 
@@ -155,25 +191,14 @@ Bra–ket notation (Wikipedia)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:93`](../../record/notes.d/NOTE-239.md)
 
-### [THEORY-004](../../record/theory.d/THEORY-004.md) — Proposed
+### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
-A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets
 
-3 citations in 2 files await a look.
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
-
-### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
-
-What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
-
-3 citations in 2 files await a look.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+- [`record/decisions.d/ADR-013.md:27`](../../record/decisions.d/ADR-013.md)
+- [`record/decisions.d/ADR-013.md:63`](../../record/decisions.d/ADR-013.md)
 
 ### [LIT-119](../../record/literature.d/LIT-119.md) — Deferred
 
@@ -215,19 +240,10 @@ Blunting concepts: The double-edged effect of popularizing psychotherapy languag
 
 Is there contextuality in behavioral and social systems?
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
 - [`record/notes.d/NOTE-239.md:114`](../../record/notes.d/NOTE-239.md)
-
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
-
-2 citations in 1 file await a look.
-
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-239.md:102`](../../record/notes.d/NOTE-239.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -332,6 +348,14 @@ Do Large Language Models Hallucinate Electric Fata Morganas?
 1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
+
+### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
+
+The Lattice Representation Hypothesis of Large Language Models
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-240.md:6`](../../record/notes.d/NOTE-240.md)
 
 ## Codes that resolve to no document
 

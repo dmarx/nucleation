@@ -6,7 +6,7 @@
 
 **Migration** — what moves between this record and the Anthology of the SOTA, and why.
 
-0 of 12 decisions. Back to the [full index](../README.md).
+0 of 13 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

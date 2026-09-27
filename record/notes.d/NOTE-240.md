@@ -1,6 +1,9 @@
 ---
+number: 240
 status: Read
-paper: LIT-tmporlvo
+formerly:
+- NOTE-tmphkmry
+paper: LIT-267
 title: 'The Lattice Representation Hypothesis of Large Language Models'
 version: 1
 history:
@@ -32,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-230 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->
 <!-- inactive-ok-file: LIT-243 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->
 <!-- inactive-ok-file: LIT-264 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->
-# NOTE-tmphkmry: The Lattice Representation Hypothesis of Large Language Models
+# NOTE-240: The Lattice Representation Hypothesis of Large Language Models
 
 ## Contribution
 
