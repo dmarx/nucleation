@@ -1,6 +1,9 @@
 ---
+number: 252
 status: Read
-paper: LIT-tmpp63y4
+formerly:
+- NOTE-tmpjdqyz
+paper: LIT-279
 title: 'On the Cohomology of Contextuality'
 version: 1
 history:
@@ -36,7 +39,7 @@ summary: >-
   the PR box refutes it.
 ---
 
-# NOTE-tmpjdqyz: On the Cohomology of Contextuality
+# NOTE-252: On the Cohomology of Contextuality
 
 ## Contribution
 

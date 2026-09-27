@@ -23,7 +23,7 @@ history:
   date: '2026-09-27'
   note: >-
     The cohomology line is extended with Carù's counterexample
-    (LIT-tmpp63y4) to LIT-277's Conjecture 8.1. Symmetry of the cover does
+    (LIT-279) to LIT-277's Conjecture 8.1. Symmetry of the cover does
     not make the witness complete. The claim itself is unchanged.
 tags:
 - contextuality
@@ -89,13 +89,13 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
 
   Symmetry of the cover does not rescue completeness. Abramsky, Mansfield
   & Barbosa conjectured that under suitable symmetry and connectedness it
-  does ([LIT-277](../literature.d/LIT-277.md), Conjecture 8.1). Carù ([LIT-tmpp63y4](../literature.d/LIT-tmpp63y4.md), §4 and Appendix A)
+  does ([LIT-277](../literature.d/LIT-277.md), Conjecture 8.1). Carù ([LIT-279](../literature.d/LIT-279.md), §4 and Appendix A)
   refutes this for symmetry of the cover.
   - *The counterexample.* It sits on the two-party, two-setting,
     four-outcome Bell cover, where every measurement lies in two contexts
     and the cover's symmetries act transitively. It is strongly contextual,
     yet the obstruction vanishes on all 22 of its sections, over ℤ and
-    over ℤ/2 ([NOTE-tmpjdqyz](../notes.d/NOTE-tmpjdqyz.md)).
+    over ℤ/2 ([NOTE-252](../notes.d/NOTE-252.md)).
   - *Consequences.* On that cover the witness certifies not even logical
     contextuality. This third failure also lies outside All-vs-Nothing
     (Thm 21, contrapositive).
