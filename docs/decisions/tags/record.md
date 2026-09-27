@@ -6,7 +6,7 @@
 
 **The record** — what the schemes hold, and the rules between them.
 
-10 of 10 decisions. Back to the [full index](../README.md).
+11 of 11 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [ADR-008](../../../record/decisions.d/ADR-008.md) | No reader sends an email address to any service | An agent reading for this record never supplies an email address to an outside service: not the owner's, not anyone's. Where an API asks for one, the field is left out, or given `noreply@anthropic.com`. The rule is in the reading brief every reader follows, because on 2026-09-26 a reader sent the owner's address to a lookup service. | Active |
 | [ADR-009](../../../record/decisions.d/ADR-009.md) | philosophy-of-language joins the topics | `philosophy-of-language` joins the topic vocabulary and the `philosophy` group. It covers meaning, content and reference as philosophy poses them. The pass over the `philosophy-of-science` tag found a paper on meaning holism tagged philosophy of science for want of the right word, and four more held works share the gap. | Active |
 | [ADR-010](../../../record/decisions.d/ADR-010.md) | representation-learning and learning-theory join the topics | Two words join the topic vocabulary. `representation-learning` covers how learned systems come to represent their data. `learning-theory` covers why learning generalizes. The owner asked the record to file a set of papers on self-supervised learning, information bottlenecks, description length and generalization bounds. Nothing in the vocabulary could say what they are about. | Active |
+| [ADR-011](../../../record/decisions.d/ADR-011.md) | information-retrieval joins the topics | `information-retrieval` joins the topic vocabulary. It covers finding what is relevant to a need: representation, relevance, ranking, feedback, and the models of retrieval. The owner asked the record to file van Rijsbergen's *The Geometry of Information Retrieval*. Its seed found no word for the book's subject. | Active |
