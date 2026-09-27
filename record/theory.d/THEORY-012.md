@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-09-27'
@@ -25,6 +25,13 @@ history:
     The cohomology line is extended with Carù's counterexample
     (LIT-279) to LIT-277's Conjecture 8.1. Symmetry of the cover does
     not make the witness complete. The claim itself is unchanged.
+- version: 5
+  date: '2026-09-27'
+  note: >-
+    The cohomology line is extended with Carù 2018 (LIT-tmpujpg7). Iterated
+    joint models make the witness exact on cyclic covers (Thm 7.7). The
+    paper's general conjecture fails on LIT-277's §8 cover, by the reader's
+    computation. The claim itself is unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -99,6 +106,19 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
   - *Consequences.* On that cover the witness certifies not even logical
     contextuality. This third failure also lies outside All-vs-Nothing
     (Thm 21, contrapositive).
-  - *Still open.* Whether completeness holds for covers whose contexts
-    pairwise intersect, or for symmetric models.
+  - *A partial repair.* Carù ([LIT-tmpujpg7](../literature.d/LIT-tmpujpg7.md), Thm 7.7) treats cyclic covers,
+    where the contexts' overlaps form a single chordless N-cycle, as in the
+    Bell (2,2,d) and N-cycle scenarios. On those, the same ℤ/2 obstruction
+    computed on the (N−1)-th iterated "joint model" is exact for logical
+    and strong contextuality.
+    - It removes the Hardy failure and the (2,2,4) counterexample.
+    - Its cost grows exponentially with the iteration.
+    - Beyond cycles nothing general is established. The paper's extension
+      (Prop 8.2) is false on its own example, and [LIT-277](../literature.d/LIT-277.md)'s §8 cover stays
+      undetected at every level under its definitions, which refutes its
+      Conjecture 9.1. The failure of Prop 8.2 and the refutation are the
+      reader's computations ([NOTE-tmp9hu3e](../notes.d/NOTE-tmp9hu3e.md)).
+  - *Still open.* Whether a complete and computable cohomological test
+    exists off cyclic covers. Whether completeness holds for covers whose
+    contexts pairwise intersect, or for symmetric models.
 - The strictness of the hierarchy at the possibilistic step, which leans on a cited result, or GHZ for n other than 4k ([NOTE-016](../notes.d/NOTE-016.md)). This claim covers the equivalence and Thm 5.9, not those details.
