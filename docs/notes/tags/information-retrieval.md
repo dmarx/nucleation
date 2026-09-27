@@ -4,7 +4,7 @@
 
 **information-retrieval**.
 
-3 of 248 NOTE documents. Back to the [full index](../README.md).
+3 of 249 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

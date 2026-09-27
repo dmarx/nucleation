@@ -1,6 +1,9 @@
 ---
+number: 249
 status: Read
-paper: LIT-tmppu6di
+formerly:
+- NOTE-tmppm8d2
+paper: LIT-276
 title: 'Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics'
 version: 1
 history:
@@ -37,10 +40,10 @@ summary: >-
   zero by construction.
 ---
 
-<!-- inactive-ok-file: LIT-tmppu6di — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-276 — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-017 — Proposed: named only to warn against reading this paper as support for it; the directive lapses when its status changes -->
 
-# NOTE-tmppm8d2: Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
+# NOTE-249: Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 
 ## Contribution
 

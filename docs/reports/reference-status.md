@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**49 documents cited without acknowledgement.** Not listed: 418 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**55 documents cited without acknowledgement.** Not listed: 421 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -121,6 +121,19 @@ What a regularized linear readout can decode from a representation is a function
 - [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
 - [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
 
+### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
+
+Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
+
+6 citations in 4 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-249.md:178`](../../record/notes.d/NOTE-249.md)
+
 ### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
 
 Contrastive Learning Is Spectral Clustering On Similarity Graph
@@ -157,18 +170,6 @@ Hilbert Spaces and the Riesz Representation Theorem
 - [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 
-### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
-
-Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
-
-5 citations in 3 files await a look; 5 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:126`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
-
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
 Computational Functionalism for the Deep Learning Era
@@ -190,6 +191,16 @@ The Conditional Entropy Bottleneck
 - [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
 - [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
 - [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
+
+### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
+
+Pregeometry, Formal Language and Constructivist Foundations of Physics
+
+3 citations in 1 file await a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-249.md:165`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:187`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-106](../../record/literature.d/LIT-106.md) — Deferred
 
@@ -220,6 +231,26 @@ Bra–ket notation (Wikipedia)
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
+
+### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
+
+The contextual fraction as a measure of contextuality
+
+3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-249.md:162`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-249.md:204`](../../record/notes.d/NOTE-249.md)
+
+### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
+
+Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
+
+3 citations in 3 files await a look.
+
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
+- [`record/notes.d/NOTE-249.md:177`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
@@ -284,6 +315,15 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 - [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
 
+### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
+
+Kochen-Specker contextuality
+
+2 citations in 2 files await a look; 11 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-249.md:166`](../../record/notes.d/NOTE-249.md)
+
 ### [LIT-270](../../record/literature.d/LIT-270.md) — Rejected
 
 Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition
@@ -292,15 +332,6 @@ Identifying Quantum Structure in AI Language: Evidence for Evolutionary Converge
 
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
-
-### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
-
-Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
-
-2 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -430,6 +461,14 @@ Meaningful Information
 
 - [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
 
+### [LIT-232](../../record/literature.d/LIT-232.md) — Deferred
+
+Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-249.md:168`](../../record/notes.d/NOTE-249.md)
+
 ### [LIT-238](../../record/literature.d/LIT-238.md) — Deferred
 
 Minimum Description Length Revisited
@@ -470,21 +509,13 @@ Kernel Mean Embedding of Distributions: A Review and Beyond
 
 - [`record/notes.d/NOTE-242.md:159`](../../record/notes.d/NOTE-242.md)
 
-### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
+### [LIT-266](../../record/literature.d/LIT-266.md) — Deferred
 
-Kochen-Specker contextuality
+Contextuality for preparations, transformations, and unsharp measurements
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
-
-### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
-
-The contextual fraction as a measure of contextuality
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-249.md:166`](../../record/notes.d/NOTE-249.md)
 
 ### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
 
@@ -493,6 +524,30 @@ The Lattice Representation Hypothesis of Large Language Models
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-245.md:168`](../../record/notes.d/NOTE-245.md)
+
+### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
+
+Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-249.md:178`](../../record/notes.d/NOTE-249.md)
+
+### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
+
+In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-249.md:176`](../../record/notes.d/NOTE-249.md)
+
+### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
+
+Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-249.md:178`](../../record/notes.d/NOTE-249.md)
 
 ## Codes that resolve to no document
 

@@ -81,6 +81,7 @@
 | 2026-09-26 | Deferred | [LIT-224](../../record/literature.d/LIT-224.md) | 2 | 1 | Shannon Information and Kolmogorov Complexity |
 | 2026-09-26 | Deferred | [LIT-225](../../record/literature.d/LIT-225.md) | 2 | 1 | Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity |
 | 2026-09-26 | Deferred | [LIT-229](../../record/literature.d/LIT-229.md) | 2 | 1 | Meaningful Information |
+| 2026-09-26 | Deferred | [LIT-232](../../record/literature.d/LIT-232.md) | 2 | 1 | Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding |
 | 2026-09-26 | Deferred | [LIT-238](../../record/literature.d/LIT-238.md) | 2 | 1 | Minimum Description Length Revisited |
 | 2026-09-26 | Deferred | [LIT-239](../../record/literature.d/LIT-239.md) | 2 | 1 | Kolmogorov's Structure Functions and Model Selection |
 | 2026-09-26 | Deferred | [LIT-261](../../record/literature.d/LIT-261.md) | 2 | 0 | A Generalized Representer Theorem |
@@ -88,7 +89,6 @@
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
 | 2026-09-26 | Deferred | [LIT-231](../../record/literature.d/LIT-231.md) | 1 | 0 | The Hidden Uniform Cluster Prior in Self-Supervised Learning |
-| 2026-09-26 | Deferred | [LIT-232](../../record/literature.d/LIT-232.md) | 1 | 0 | Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding |
 | 2026-09-26 | Deferred | [LIT-234](../../record/literature.d/LIT-234.md) | 1 | 0 | The Effects of Regularization and Data Augmentation are Class Dependent |
 | 2026-09-26 | Deferred | [LIT-244](../../record/literature.d/LIT-244.md) | 1 | 0 | Natural Kinds (Stanford Encyclopedia of Philosophy) |
 | 2026-09-26 | Deferred | [LIT-245](../../record/literature.d/LIT-245.md) | 1 | 0 | Minimum Description Length and Generalization Guarantees for Representation Learning |
@@ -96,10 +96,10 @@
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |
 | 2026-09-26 | Deferred | [LIT-134](../../record/literature.d/LIT-134.md) | 0 | 0 | The Duality of Content |
 | 2026-09-26 | Deferred | [LIT-240](../../record/literature.d/LIT-240.md) | 0 | 0 | The Role of the Information Bottleneck in Representation Learning |
-| 2026-09-27 | Deferred | [LIT-263](../../record/literature.d/LIT-263.md) | 12 | 1 | Kochen-Specker contextuality |
+| 2026-09-27 | Deferred | [LIT-263](../../record/literature.d/LIT-263.md) | 13 | 2 | Kochen-Specker contextuality |
 | 2026-09-27 | Deferred | [LIT-264](../../record/literature.d/LIT-264.md) | 12 | 7 | Is there contextuality in behavioral and social systems? |
-| 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 7 | 0 | Contextuality for preparations, transformations, and unsharp measurements |
-| 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 3 | 1 | The contextual fraction as a measure of contextuality |
+| 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 8 | 1 | Contextuality for preparations, transformations, and unsharp measurements |
+| 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 5 | 3 | The contextual fraction as a measure of contextuality |
 | 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 2 | 1 | The Lattice Representation Hypothesis of Large Language Models |
 
 ## THEORYs
@@ -117,15 +117,15 @@
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 0 | 0 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
 | 2026-09-26 | Proposed | [THEORY-006](../../record/theory.d/THEORY-006.md) | 0 | 0 | InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size |
 | 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 0 | 0 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
-| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 17 | 0 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
-| 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 10 | 5 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
-| 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 2 | 2 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
-| 2026-09-27 | Proposed | [THEORY-011](../../record/theory.d/THEORY-011.md) | 0 | 0 | Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two |
-| 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 0 | 0 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
-| 2026-09-27 | Proposed | [THEORY-015](../../record/theory.d/THEORY-015.md) | 0 | 0 | Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory |
+| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 19 | 0 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
+| 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 11 | 6 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
+| 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 3 | 3 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
+| 2026-09-27 | Proposed | [THEORY-011](../../record/theory.d/THEORY-011.md) | 1 | 1 | Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two |
+| 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 1 | 1 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
+| 2026-09-27 | Proposed | [THEORY-015](../../record/theory.d/THEORY-015.md) | 1 | 1 | Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (15): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [LIT-240](../../record/literature.d/LIT-240.md), [THEORY-002](../../record/theory.d/THEORY-002.md), [THEORY-003](../../record/theory.d/THEORY-003.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [THEORY-009](../../record/theory.d/THEORY-009.md), [THEORY-011](../../record/theory.d/THEORY-011.md), [THEORY-014](../../record/theory.d/THEORY-014.md), [THEORY-015](../../record/theory.d/THEORY-015.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (12): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [LIT-240](../../record/literature.d/LIT-240.md), [THEORY-002](../../record/theory.d/THEORY-002.md), [THEORY-003](../../record/theory.d/THEORY-003.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [THEORY-009](../../record/theory.d/THEORY-009.md) — these are the cheapest to close, since nothing depends on the answer.
