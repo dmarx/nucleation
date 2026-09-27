@@ -1,6 +1,9 @@
 ---
+number: 253
 status: Read
-paper: LIT-tmpujpg7
+formerly:
+- NOTE-tmp9hu3e
+paper: LIT-280
 title: 'Towards a complete cohomology invariant for non-locality and contextuality'
 version: 1
 history:
@@ -43,7 +46,7 @@ summary: >-
   refutes the paper's closing Conjecture 9.1.
 ---
 
-# NOTE-tmp9hu3e: Towards a complete cohomology invariant for non-locality and contextuality
+# NOTE-253: Towards a complete cohomology invariant for non-locality and contextuality
 
 ## Contribution
 

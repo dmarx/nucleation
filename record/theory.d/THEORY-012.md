@@ -28,7 +28,7 @@ history:
 - version: 5
   date: '2026-09-27'
   note: >-
-    The cohomology line is extended with Carù 2018 (LIT-tmpujpg7). Iterated
+    The cohomology line is extended with Carù 2018 (LIT-280). Iterated
     joint models make the witness exact on cyclic covers (Thm 7.7). The
     paper's general conjecture fails on LIT-277's §8 cover, by the reader's
     computation. The claim itself is unchanged.
@@ -106,7 +106,7 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
   - *Consequences.* On that cover the witness certifies not even logical
     contextuality. This third failure also lies outside All-vs-Nothing
     (Thm 21, contrapositive).
-  - *A partial repair.* Carù ([LIT-tmpujpg7](../literature.d/LIT-tmpujpg7.md), Thm 7.7) treats cyclic covers,
+  - *A partial repair.* Carù ([LIT-280](../literature.d/LIT-280.md), Thm 7.7) treats cyclic covers,
     where the contexts' overlaps form a single chordless N-cycle, as in the
     Bell (2,2,d) and N-cycle scenarios. On those, the same ℤ/2 obstruction
     computed on the (N−1)-th iterated "joint model" is exact for logical
@@ -117,7 +117,7 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
       (Prop 8.2) is false on its own example, and [LIT-277](../literature.d/LIT-277.md)'s §8 cover stays
       undetected at every level under its definitions, which refutes its
       Conjecture 9.1. The failure of Prop 8.2 and the refutation are the
-      reader's computations ([NOTE-tmp9hu3e](../notes.d/NOTE-tmp9hu3e.md)).
+      reader's computations ([NOTE-253](../notes.d/NOTE-253.md)).
   - *Still open.* Whether a complete and computable cohomological test
     exists off cyclic covers. Whether completeness holds for covers whose
     contexts pairwise intersect, or for symmetric models.
