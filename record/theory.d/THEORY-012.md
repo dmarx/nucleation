@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-27'
@@ -12,6 +12,13 @@ history:
     A "does not say" line added: the cohomological witness of Abramsky,
     Mansfield & Barbosa (LIT-277) is sufficient, not necessary. The
     claim itself is unchanged.
+- version: 3
+  date: '2026-09-27'
+  note: >-
+    The cohomology line in "What this does not say" is extended: the witness
+    is complete for All-vs-Nothing models (LIT-tmp5bjvi, Thm 21), and
+    LIT-277's two failures lie outside that class. The claim itself is
+    unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -57,4 +64,20 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
   cover (§8), because it tests extension to a compatible family of
   ℤ-combinations, not to a global section of the support. The criterion
   here is the exact one; the cohomology is a computable relaxation of it.
+  It is, however, complete on one large class. Every model whose support
+  admits an All-vs-Nothing argument has a non-vanishing obstruction on
+  every section (Abramsky, Barbosa, Kishida, Lal & Mansfield,
+  [LIT-tmp5bjvi](../literature.d/LIT-tmp5bjvi.md), Thm 21, for a connected cover). An All-vs-Nothing argument
+  is a set of R-linear equations, over any commutative ring R, that each
+  context satisfies but that have no global solution. The class includes:
+  - GHZ-type n-qubit stabiliser states (Thm 4);
+  - Peres–Mermin;
+  - the PR box;
+  - Kochen–Specker covers failing [LIT-277](../literature.d/LIT-277.md)'s GCD condition. This last is the
+    reader's derivation in [NOTE-tmp92a59](../notes.d/NOTE-tmp92a59.md), not the paper's.
+
+  Both of [LIT-277](../literature.d/LIT-277.md)'s documented failures lie outside it. Hardy is not
+  strongly contextual. The §8 cover is strongly contextual but, by the
+  reader's application of Thm 21 ([NOTE-tmp92a59](../notes.d/NOTE-tmp92a59.md)), admits no All-vs-Nothing
+  argument over any ring.
 - The strictness of the hierarchy at the possibilistic step, which leans on a cited result, or GHZ for n other than 4k ([NOTE-016](../notes.d/NOTE-016.md)). This claim covers the equivalence and Thm 5.9, not those details.
