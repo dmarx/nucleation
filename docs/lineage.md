@@ -22,6 +22,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
+        - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
 
 ## information-theory
 
@@ -60,6 +61,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
+        - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
@@ -108,6 +110,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
+        - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
 
 ### From A new description of orthogonal bases
 

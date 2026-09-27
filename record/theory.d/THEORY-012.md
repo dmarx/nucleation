@@ -35,7 +35,7 @@ history:
 - version: 6
   date: '2026-09-27'
   note: >-
-    The cohomology line now cites Carù's 2019 thesis (LIT-tmpb5bvv). It
+    The cohomology line now cites Carù's 2019 thesis (LIT-281). It
     republishes the cyclic result unchanged, and it restates the false
     extension and the refuted conjecture without repair. The claim itself is
     unchanged.
@@ -114,7 +114,7 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
     contextuality. This third failure also lies outside All-vs-Nothing
     (Thm 21, contrapositive).
   - *A partial repair.* Carù ([LIT-280](../literature.d/LIT-280.md), Thm 7.7; republished unchanged as Thm IV.32 of his
-    2019 thesis, [LIT-tmpb5bvv](../literature.d/LIT-tmpb5bvv.md)) treats cyclic covers,
+    2019 thesis, [LIT-281](../literature.d/LIT-281.md)) treats cyclic covers,
     where the contexts' overlaps form a single chordless N-cycle, as in the
     Bell (2,2,d) and N-cycle scenarios. On those, the same ℤ/2 obstruction
     computed on the (N−1)-th iterated "joint model" is exact for logical
@@ -129,7 +129,7 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
       reader's computations ([NOTE-253](../notes.d/NOTE-253.md)). The thesis restates the extension and
       the conjecture unchanged (Prop IV.34, Conjecture IV.41) and adds no
       result beyond cycles, so these findings apply to it as well
-      ([NOTE-tmp07tuj](../notes.d/NOTE-tmp07tuj.md)).
+      ([NOTE-254](../notes.d/NOTE-254.md)).
   - *Still open.* Whether a complete and computable cohomological test
     exists off cyclic covers. Whether completeness holds for covers whose
     contexts pairwise intersect, or for symmetric models.

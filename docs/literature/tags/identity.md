@@ -6,7 +6,7 @@
 
 **Identity** — what makes something the same thing over time or across descriptions — individuality, persistence, personal identity (group: philosophy).
 
-26 of 280 LIT documents. Back to the [full index](../README.md).
+26 of 281 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -1,6 +1,9 @@
 ---
+number: 254
 status: Read
-paper: LIT-tmpb5bvv
+formerly:
+- NOTE-tmp07tuj
+paper: LIT-281
 title: 'Logical and Topological Contextuality in Quantum Mechanics and Beyond'
 version: 1
 history:
@@ -57,7 +60,7 @@ summary: >-
   states (Ch VI).
 ---
 
-# NOTE-tmp07tuj: Logical and Topological Contextuality in Quantum Mechanics and Beyond
+# NOTE-254: Logical and Topological Contextuality in Quantum Mechanics and Beyond
 
 ## Contribution
 

@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [27 Sep 21:57 — Carù's 2019 thesis read: nothing repaired](2026-09.md#carùs-2019-thesis-read-nothing-repaired)
 - [27 Sep 16:16 — Carù 2018 read: complete on cycles, conjecture refuted](2026-09.md#carù-2018-read-complete-on-cycles-conjecture-refuted)
 - [27 Sep 08:29 — Carù read: the cohomology conjecture is false; THEORY-012 updated](2026-09.md#carù-read-the-cohomology-conjecture-is-false-theory-012-updated)
 - [27 Sep 08:14 — Contextuality, Cohomology and Paradox read; THEORY-012's cohomology line refined](2026-09.md#contextuality-cohomology-and-paradox-read-theory-012s-cohomology-line-refined)
@@ -48,8 +49,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-39 entries across 1 book, newest first.
+40 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 39 | 2026-09-25 | 2026-09-27 |
+| [2026-09](2026-09.md) | 40 | 2026-09-25 | 2026-09-27 |
