@@ -1,0 +1,75 @@
+---
+status: Active
+status_note: 'read in full 2026-09-27 ([NOTE-tmps11ei](../notes.d/NOTE-tmps11ei.md)); worth reading for the construction, not for its evidence. It is the citable categorical statement of the Frobenius lift of DisCoCat verbs: the functorial recasting, S=N=W, and the copy-subject and copy-object maps. Its experiments are the authors'' COLING 2012 numbers, re-reported without that paper''s caveat that copy-object''s lead is statistically insignificant. The best disambiguation ρ is 0.172, against a human bound of 0.620. The construction depends on a choice of basis, which the paper cites but never draws the consequence of.'
+title: 'Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (The full text of arXiv 1401.5980 v1 (the only version),
+    from the arXiv PDF, 21 pp. I read the abstract, §§1–8, all eight tables
+    and the 38 references. `pdftotext` was not available in this session, so
+    I extracted the text with PyMuPDF. The string diagrams of §§5–6 do not
+    survive text extraction, so I reconstructed each one from its stated
+    linear-algebraic closed form, and I checked those forms numerically
+    myself (random 5-d tensors). I did not read the published chapter
+    (Cambridge University Press, 2016). The arXiv v1 footnote says it is the
+    text "to appear" there, but I have not checked it against the print
+    version. For comparison I also read the experimental sections and
+    abstract of the authors' earlier COLING 2012 poster (Kartsaklis,
+    Sadrzadeh & Pulman, "A Unified Sentence Space for Categorical
+    Distributional-Compositional Semantics: Theory and Experiments", pp.
+    549–558), because the chapter's results turned out to repeat it.); the
+    first NOTE on it, since it was seeded from the abstract alone. Status
+    set from the reading: Active.
+tags:
+- linguistics
+- mathematics
+- representation-learning
+- logic
+- philosophy-of-language
+date: '2026-09-27'
+published: '2014-01-23'
+arxiv: '1401.5980'
+doi: '10.1017/CBO9781139519687.011'
+first_author: 'Kartsaklis'
+keywords:
+- 'DisCoCat'
+- 'compositional distributional semantics'
+- 'compact closed categories'
+- 'Frobenius algebras'
+- 'pregroup grammar'
+- 'verb disambiguation'
+implementations: []
+summary: >-
+  Kartsaklis et al. (2014), [ARXIV-1401.5980](https://arxiv.org/abs/1401.5980). The paper sets the sentence
+  space equal to the noun space (F(s)=F(n)=W). It then uses the
+  basis-copying map σ: v_i ↦ v_i⊗v_i of the Frobenius algebra fixed by W's
+  basis to lift corpus-built verb matrices Σ_i sbj_i⊗obj_i into rank-3
+  tensors. So a transitive sentence becomes sbj⊙(verb·obj)
+  ("copy-subject") or obj⊙(verbᵀ·sbj) ("copy-object"), a vector in W. On
+  the Grefenstette–Sadrzadeh verb-disambiguation set, copy-object gets
+  Spearman ρ=0.172, against 0.168 (Kron), 0.163 (Multp), 0.143
+  (copy-subject), 0.050 (additive) and an inter-annotator bound of 0.620.
+  On a 112-term definition-matching task the best F1 is 0.21 (nouns) and
+  0.27 (verbs). No significance test is reported. The disambiguation
+  numbers are identical to the authors' COLING 2012 paper, and the
+  definition numbers are the same data re-reported.
+extends:
+- LIT-tmpunb3l
+---
+
+# LIT-tmp26v1l: Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras
+
+Kartsaklis, Sadrzadeh, Pulman & Coecke (2014), *Logic and Algebraic Structures in Quantum Computing* (Chubb, Eskandarian & Harizanov, eds.), Cambridge University Press, 2016, ch. 9, pp. 199–222 — [ARXIV-1401.5980](https://arxiv.org/abs/1401.5980)
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request, with the foundational DisCoCat
+paper it builds on filed in the same contribution. It is held here rather
+than in the anthology because it is a formal account of linguistic meaning,
+not a practice. `published:` is the arXiv v1 date, the first appearance
+([ADR-002](../decisions.d/ADR-002.md)); the chapter appeared in 2016.
+
+It was filed `Deferred`, unread. [NOTE-tmps11ei](../notes.d/NOTE-tmps11ei.md) is the close reading of 2026-09-27, and it placed the work: **Active** — worth reading for the construction, not for its evidence. It is the citable categorical statement of the Frobenius lift of DisCoCat verbs: the functorial recasting, S=N=W, and the copy-subject and copy-object maps. Its experiments are the authors' COLING 2012 numbers, re-reported without that paper's caveat that copy-object's lead is statistically insignificant. The best disambiguation ρ is 0.172, against a human bound of 0.620. The construction depends on a choice of basis, which the paper cites but never draws the consequence of.
