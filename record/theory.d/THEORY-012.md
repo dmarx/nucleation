@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-09-27'
@@ -32,6 +32,13 @@ history:
     joint models make the witness exact on cyclic covers (Thm 7.7). The
     paper's general conjecture fails on LIT-277's §8 cover, by the reader's
     computation. The claim itself is unchanged.
+- version: 6
+  date: '2026-09-27'
+  note: >-
+    The cohomology line now cites Carù's 2019 thesis (LIT-tmpb5bvv). It
+    republishes the cyclic result unchanged, and it restates the false
+    extension and the refuted conjecture without repair. The claim itself is
+    unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -106,18 +113,23 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
   - *Consequences.* On that cover the witness certifies not even logical
     contextuality. This third failure also lies outside All-vs-Nothing
     (Thm 21, contrapositive).
-  - *A partial repair.* Carù ([LIT-280](../literature.d/LIT-280.md), Thm 7.7) treats cyclic covers,
+  - *A partial repair.* Carù ([LIT-280](../literature.d/LIT-280.md), Thm 7.7; republished unchanged as Thm IV.32 of his
+    2019 thesis, [LIT-tmpb5bvv](../literature.d/LIT-tmpb5bvv.md)) treats cyclic covers,
     where the contexts' overlaps form a single chordless N-cycle, as in the
     Bell (2,2,d) and N-cycle scenarios. On those, the same ℤ/2 obstruction
     computed on the (N−1)-th iterated "joint model" is exact for logical
     and strong contextuality.
     - It removes the Hardy failure and the (2,2,4) counterexample.
-    - Its cost grows exponentially with the iteration.
+    - Its cost grows exponentially with the iteration; neither the paper
+      nor the thesis analyses it.
     - Beyond cycles nothing general is established. The paper's extension
       (Prop 8.2) is false on its own example, and [LIT-277](../literature.d/LIT-277.md)'s §8 cover stays
       undetected at every level under its definitions, which refutes its
       Conjecture 9.1. The failure of Prop 8.2 and the refutation are the
-      reader's computations ([NOTE-253](../notes.d/NOTE-253.md)).
+      reader's computations ([NOTE-253](../notes.d/NOTE-253.md)). The thesis restates the extension and
+      the conjecture unchanged (Prop IV.34, Conjecture IV.41) and adds no
+      result beyond cycles, so these findings apply to it as well
+      ([NOTE-tmp07tuj](../notes.d/NOTE-tmp07tuj.md)).
   - *Still open.* Whether a complete and computable cohomological test
     exists off cyclic covers. Whether completeness holds for covers whose
     contexts pairwise intersect, or for symmetric models.
