@@ -36,9 +36,9 @@
 | 2026-09-26 | Deferred | [LIT-258](../../record/literature.d/LIT-258.md) | 15 | 0 | Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions |
 | 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 14 | 1 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Deferred | [LIT-249](../../record/literature.d/LIT-249.md) | 11 | 0 | Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss |
+| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 10 | 9 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 9 | 1 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 9 | 7 | Riesz representation theorem (Wikipedia) |
-| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 9 | 8 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-250](../../record/literature.d/LIT-250.md) | 9 | 1 | Duality of Bures and Shape Distances with Implications for Comparing Neural Representations |
 | 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 8 | 4 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |

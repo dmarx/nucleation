@@ -1,6 +1,9 @@
 ---
+number: 244
 status: Read
-paper: LIT-tmp1zkcf
+formerly:
+- NOTE-tmp6uhuc
+paper: LIT-271
 title: 'Neural Tangent Kernel of Matrix Product States: Convergence and Applications'
 version: 1
 history:
@@ -33,9 +36,9 @@ summary: >-
   experiments.
 ---
 
-<!-- inactive-ok-file: LIT-tmp1zkcf — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-271 — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
 
-# NOTE-tmp6uhuc: Neural Tangent Kernel of Matrix Product States: Convergence and Applications
+# NOTE-244: Neural Tangent Kernel of Matrix Product States: Convergence and Applications
 
 ## Contribution
 

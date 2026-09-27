@@ -4,7 +4,7 @@
 
 **learning-theory**.
 
-18 of 243 NOTE documents. Back to the [full index](../README.md).
+19 of 244 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,3 +26,4 @@
 | [NOTE-227](../../../record/notes.d/NOTE-227.md) | Spectral contrastive loss (HaoChen et al.) | Minimizing the population spectral contrastive loss L(f) = −2E[f(x)ᵀf(x⁺)] + E[(f(x)ᵀf(x⁻))²] is, up to a constant, a rank-k factorization of the normalized adjacency matrix of the augmentation graph, so its minimizers are the top-k eigenvectors (eigenfunctions, in the infinite case) of that graph up to a row scaling and an invertible linear map — neither of which changes linear-probe accuracy. | Skimmed |
 | [NOTE-228](../../../record/notes.d/NOTE-228.md) | Contrastive learning finds an optimal eigenbasis | The InfoNCE, NT-Logistic and spectral contrastive losses all have the same population minimizer, the positive-pair kernel K⁺(a₁,a₂) = p⁺(a₁,a₂)/(p(a₁)p(a₂)). Kernel PCA under K⁺ returns exactly the eigenfunctions of the positive-pair Markov chain, and the top-d of those span the linear-predictor subspace that minimizes worst-case approximation error over approximately view-invariant targets. | Skimmed |
 | [NOTE-230](../../../record/notes.d/NOTE-230.md) | A Generalized Representer Theorem | For any strictly increasing regularizer g(‖f‖) and any (even non-convex, coupled) cost on the training outputs, every RKHS minimizer of c((x_i,y_i,f(x_i))_i) + g(‖f‖) is a finite kernel expansion f = Σ α_i k(·,x_i). The proof needs only the reproducing property and orthogonal decomposition onto span{k(·,x_i)}, not the Riesz theorem. | Skimmed |
+| [NOTE-244](../../../record/notes.d/NOTE-244.md) | Neural Tangent Kernel of Matrix Product States: Convergence and Applications | In the sequential infinite-bond-dimension limit, with tensor variances σ_i²/√(\|α_i\|\|α_{i+1}\|) and per-tensor learning rates (\|α_i\|\|α_{i+1}\|)^{-1/2}, the NTK of a periodic MPS tends to K(x,x′)=Σ_k φ(x_k)·φ(x′_k) Π_{l≠k} σ_l² φ(x_l)·φ(x′_l). By my reduction this is (Σ_k σ_k⁻²) times the MPS's own GP covariance, so gradient flow is kernel regression with a fixed product kernel. The Born-machine solution P_x(t)=1/m−(1/m−P_x(0))e^{−4mKt/Z} is correct (I checked it; Z is in fact conserved). The lazy-training lemma is heuristic, the positive-definiteness "proof" shows at most semi-definiteness, several constants are off by factors of n or 2^{−n}, and there are no experiments. | Read |

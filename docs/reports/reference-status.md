@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**46 documents cited without acknowledgement.** Not listed: 393 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**46 documents cited without acknowledgement.** Not listed: 394 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,10 +21,11 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 On the Stepwise Nature of Self-Supervised Learning
 
-8 citations in 4 files await a look; 1 other citation of it is acknowledged.
+9 citations in 5 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/literature.d/LIT-261.md:48`](../../record/literature.d/LIT-261.md)
 - [`record/notes.d/NOTE-230.md:34`](../../record/notes.d/NOTE-230.md)
+- [`record/notes.d/NOTE-244.md:140`](../../record/notes.d/NOTE-244.md)
 - [`record/theory.d/THEORY-007.md:22`](../../record/theory.d/THEORY-007.md)
 - [`record/theory.d/THEORY-007.md:43`](../../record/theory.d/THEORY-007.md)
 - [`record/theory.d/THEORY-007.md:55`](../../record/theory.d/THEORY-007.md)
