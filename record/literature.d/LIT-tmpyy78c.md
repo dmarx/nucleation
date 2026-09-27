@@ -1,0 +1,69 @@
+---
+status: Rejected
+status_note: 'read in full 2026-09-27 ([NOTE-tmpmpw3u](../notes.d/NOTE-tmpmpw3u.md)); not worth a reader''s time for its claims, because the data cannot carry them. The CHSH values come from tables whose marginals shift by up to 0.96 between contexts, the confound the record already holds against this very test design ([LIT-264](LIT-264.md)). The "Bose–Einstein versus Maxwell–Boltzmann" contest compares a Zipf-like curve with an exponential one on a single primed story. No goodness-of-fit statistic is reported, and there is no significance test for any LLM result.'
+title: 'Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition'
+version: 2
+history:
+- version: 2
+  date: '2026-09-27'
+  note: >-
+    Read in full (Full text of the published version of record (Entropy
+    28(6), 622, CC BY 4.0), read from the PubMed Central / Europe PMC
+    full-text XML (PMC13298953), because MDPI's site refused the PDF even
+    with a browser-style User-Agent (HTTP 403). I read the abstract, §§1–5,
+    Appendix A (the full ChatGPT CHSH conversation), Appendix B (both
+    prompts), Appendix C (Gemini's full Winnie-the-Pooh story), and the
+    author contributions, data availability, funding and reference list (101
+    references). I read Table 4 for rows 1–79, rows 818–822 and the totals
+    row. The published table itself omits rows 80–817. I did not see Figures
+    1–2 as images, only their captions, because the XML has no rendered
+    figures. I did not read the Supplementary Materials (a ChatGPT Pooh
+    story and a Gemini H. G. Wells-style story, with their graphs). I did
+    not read the arXiv versions (2511.21731 v1, 21 Nov 2025; v2, 1 Jun 2026)
+    beyond the v1 abstract, and I read only the abstract of the published
+    comment on v1 (Sienicki, arXiv 2601.06104).); the first NOTE on it,
+    since it was seeded from the abstract alone. Status set from the
+    reading: Rejected.
+tags:
+- cognition
+- contextuality
+- linguistics
+date: '2026-09-27'
+published: '2025-11-21'
+doi: '10.3390/e28060622'
+arxiv: '2511.21731'
+first_author: 'Aerts'
+keywords:
+- 'quantum cognition'
+- 'Bell inequality'
+- 'CHSH'
+- 'Bose-Einstein statistics'
+- 'large language models'
+implementations: []
+summary: >-
+  Aerts et al. (2025), DOI-10.3390/e28060622. Two findings are reported.
+  First, prompted as test subjects on Aerts & Sozzo's "The Animal Acts"
+  concept-combination test, ChatGPT and Gemini give CHSH values above 2: 4
+  in a guided conversation, and 2.25 and 3.09 (ChatGPT) and 2.12 and 4
+  (Gemini) over 81 prompted repetitions, against 2.42 for the 81 humans in
+  2011. Second, the rank–frequency curve of one 2,861-word Gemini story
+  fits a Bose–Einstein form with energy E_i=(i−1)^0.8 far better than a
+  Maxwell–Boltzmann form. The authors take these as showing that LLM "code
+  is structurally quantum" (§5). The CHSH analysis never checks the
+  strongly context-dependent marginals in its own tables. One reported
+  expectation value disagrees with its table. The Bose–Einstein fit is
+  numerically a Zipf–Mandelbrot law.
+---
+
+# LIT-tmpyy78c: Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition
+
+Aerts, Aerts Arguëlles, Beltran, Geriente, Leporini, Sassoli de Bianchi & Sozzo (2025), *Entropy 28(6), 622 (2026); arXiv 2511.21731* — DOI-10.3390/e28060622
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request. It belongs here rather than in the
+anthology because its claims concern cognition and contextuality, not ML
+practice. `published:` is the arXiv v1 date (2025-11-21), the first
+appearance ([ADR-002](../decisions.d/ADR-002.md)); the journal version appeared on 2026-06-01.
+
+It was filed `Deferred`, unread. [NOTE-tmpmpw3u](../notes.d/NOTE-tmpmpw3u.md) is the close reading of 2026-09-27, and it placed the work: **Rejected** — not worth a reader's time for its claims, because the data cannot carry them. The CHSH values come from tables whose marginals shift by up to 0.96 between contexts, the confound the record already holds against this very test design ([LIT-264](LIT-264.md)). The "Bose–Einstein versus Maxwell–Boltzmann" contest compares a Zipf-like curve with an exponential one on a single primed story. No goodness-of-fit statistic is reported, and there is no significance test for any LLM result.
