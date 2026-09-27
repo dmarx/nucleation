@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-41 of 234 NOTE documents. Back to the [full index](../README.md).
+42 of 238 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -49,3 +49,4 @@
 | [NOTE-229](../../../record/notes.d/NOTE-229.md) | Information Theory with Kernel Methods | With a kernel normalised to k(x,x) = 1, the covariance operator Σ_p = E_p[ϕ(x)ϕ(x)*] is a density operator (PSD, unit trace), injective in p when k² is universal. Its von Neumann entropy and relative entropy behave like Shannon quantities, with D(Σ_p‖Σ_q) ≤ D(p‖q), and the empirical versions are computed from the normalised Gram matrix K/n. | Skimmed |
 | [NOTE-230](../../../record/notes.d/NOTE-230.md) | A Generalized Representer Theorem | For any strictly increasing regularizer g(‖f‖) and any (even non-convex, coupled) cost on the training outputs, every RKHS minimizer of c((x_i,y_i,f(x_i))_i) + g(‖f‖) is a finite kernel expansion f = Σ α_i k(·,x_i). The proof needs only the reproducing property and orthogonal decomposition onto span{k(·,x_i)}, not the Riesz theorem. | Skimmed |
 | [NOTE-231](../../../record/notes.d/NOTE-231.md) | Spectral Inference Networks (SpIN) | The top-N eigenfunctions of a symmetric kernel operator K[f](../../../record/notes.d/x) = E_{x′}[k(x,x′)f(x′)] on L²(p) can be learned by a neural network that maximizes the generalized Rayleigh quotient Tr(Σ⁻¹Π), with Σ = E[u uᵀ] and Π = E[k(x,x′)u(x)u(x′)ᵀ]. Slow Feature Analysis is the special case where k is the graph Laplacian of adjacent video frames. | Skimmed |
+| [NOTE-236](../../../record/notes.d/NOTE-236.md) | Abramsky, Barbosa & Mansfield, contextual fraction | For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function. | Skimmed |

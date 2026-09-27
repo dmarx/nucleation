@@ -1,15 +1,18 @@
 ---
+number: 236
 status: Skimmed
-paper: LIT-tmpdkkr3
+formerly:
+- NOTE-tmphk2j0
+paper: LIT-265
 title: 'Abramsky, Barbosa & Mansfield, contextual fraction'
 version: 1
 date: '2026-09-27'
 summary: >-
   For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function.
 ---
-<!-- inactive-ok-file: LIT-tmpdkkr3 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: LIT-265 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 
-# NOTE-tmphk2j0: Abramsky, Barbosa & Mansfield, contextual fraction
+# NOTE-236: Abramsky, Barbosa & Mansfield, contextual fraction
 
 ## Contribution
 

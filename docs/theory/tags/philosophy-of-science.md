@@ -6,8 +6,9 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-1 of 9 THEORY documents. Back to the [full index](../README.md).
+2 of 16 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [THEORY-002](../../../record/theory.d/THEORY-002.md) | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation | An inference joining Huh et al.'s Platonic hypothesis ([ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md)) to Nielsen et al. ([LIT-253](../../../record/literature.d/LIT-253.md)) and Harvey, Larsen & Williams ([LIT-250](../../../record/literature.d/LIT-250.md)). It does not refute the hypothesis; it says what the hypothesis can and cannot mean. | Proposed |
+| [THEORY-010](../../../record/theory.d/THEORY-010.md) | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model | Places Grangier & Auffèves (2018), [LIT-077](../../../record/literature.d/LIT-077.md), against the two formal notions ([LIT-016](../../../record/literature.d/LIT-016.md), [LIT-003](../../../record/literature.d/LIT-003.md)) and against Spekkens's epistricted models ([LIT-007](../../../record/literature.d/LIT-007.md)). The placement is the record's, joining [NOTE-044](../../../record/notes.d/NOTE-044.md)'s reading with [LIT-007](../../../record/literature.d/LIT-007.md) and [LIT-016](../../../record/literature.d/LIT-016.md); Grangier's own derivations are not held. | Proposed |

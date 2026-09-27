@@ -6,8 +6,8 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-0 of 9 THEORY documents. Back to the [full index](../README.md).
+1 of 16 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-013](../../../record/theory.d/THEORY-013.md) | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none | Dzhafarov, Zhang & Kujala (2015), [LIT-264](../../../record/literature.d/LIT-264.md) — Contextuality-by-Default applied to five data sets, including primed word combinations from the quantum-cognition literature. Seeded, not yet read closely. The authors call general absence a working hypothesis, and later work in the same programme is reported to find behavioural contextuality. | Proposed |

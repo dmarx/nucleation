@@ -2,9 +2,29 @@
 
 # Lines of explanation
 
-2 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+3 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
+
+## contextuality
+
+### From An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
+
+- [THEORY-012](../record/theory.d/THEORY-012.md) — An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality *(Active)*
+  - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two *(Proposed)*
+  - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also extends THEORY-016
+  - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also extends THEORY-016
+- [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
+
+## quantum-foundations
+
+### From An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
+
+- [THEORY-012](../record/theory.d/THEORY-012.md) — An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality *(Active)*
+  - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two *(Proposed)*
+  - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also extends THEORY-016
+  - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also extends THEORY-016
+- [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
 
 ## representation-learning
 

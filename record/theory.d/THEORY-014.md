@@ -1,5 +1,8 @@
 ---
+number: 14
 status: Proposed
+formerly:
+- THEORY-tmprs2he
 promote_when: >-
   A published result mapping an empirical model's signed global sections onto
   a quasiprobability or frame representation of the corresponding GPT
@@ -21,11 +24,11 @@ summary: >-
   parallel is the record's own, and [LIT-003](../literature.d/LIT-003.md) attempts no comparison with
   [LIT-016](../literature.d/LIT-016.md).
 extends:
-- THEORY-tmpjo7qe
-- THEORY-tmpw2brf
+- THEORY-012
+- THEORY-016
 ---
 
-# THEORY-tmprs2he: In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
+# THEORY-014: In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
 
 ## Source
 

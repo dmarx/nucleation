@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [27 Sep 02:19 — Contextuality: the threads brought together](2026-09.md#contextuality-the-threads-brought-together)
 - [26 Sep 23:42 — Riesz, Radon–Nikodym and GNS in representation learning: the connections pursued](2026-09.md#riesz-radonnikodym-and-gns-in-representation-learning-the-connections-pursued)
 - [26 Sep 23:15 — Representation learning, description length and Riesz: an owner's reading list filed](2026-09.md#representation-learning-description-length-and-riesz-an-owners-reading-list-filed)
 - [26 Sep 22:53 — The information-theory tag, audited](2026-09.md#the-information-theory-tag-audited)
@@ -33,8 +34,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-24 entries across 1 book, newest first.
+25 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 24 | 2026-09-25 | 2026-09-26 |
+| [2026-09](2026-09.md) | 25 | 2026-09-25 | 2026-09-27 |

@@ -1,9 +1,12 @@
 ---
+number: 15
 status: Proposed
+formerly:
+- THEORY-tmpszumj
 promote_when: >-
   A close reading of Spekkens 2005 (§§III–VIII) confirming the §VIII.A proof
   and the set of preparations it requires. A review's restatement
-  (LIT-tmp0el4c) cannot settle it; the source's own proof can.
+  (LIT-263) cannot settle it; the source's own proof can.
 title: 'Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory'
 version: 1
 tags:
@@ -11,27 +14,27 @@ tags:
 - quantum-foundations
 date: '2026-09-27'
 source:
-- LIT-tmpevs68
-- LIT-tmp0el4c
+- LIT-266
+- LIT-263
 - LIT-016
 - LIT-007
 summary: >-
-  Spekkens (2005), [LIT-tmpevs68](../literature.d/LIT-tmpevs68.md), §III, §VIII.A (Eqs. 77–88), §VIII.B, §IX —
+  Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A (Eqs. 77–88), §VIII.B, §IX —
   the bridge between the record's two contextuality threads, which no held
   work states. Seeded, not yet read closely. Joining it to the sheaf form
   ([LIT-016](../literature.d/LIT-016.md)) is the record's inference.
 extends:
-- THEORY-tmpjo7qe
-- THEORY-tmpw2brf
+- THEORY-012
+- THEORY-016
 ---
-<!-- inactive-ok-file: LIT-tmp0el4c — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
-<!-- inactive-ok-file: LIT-tmpevs68 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: LIT-266 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 
-# THEORY-tmpszumj: Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
+# THEORY-015: Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
 
 ## Source
 
-Spekkens (2005), [LIT-tmpevs68](../literature.d/LIT-tmpevs68.md), §III, §VIII.A–B, §IX. Supporting: Budroni et al. ([LIT-tmp0el4c](../literature.d/LIT-tmp0el4c.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
+Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX. Supporting: Budroni et al. ([LIT-263](../literature.d/LIT-263.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
 
 ## What was actually shown
 

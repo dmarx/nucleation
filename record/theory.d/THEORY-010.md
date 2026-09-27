@@ -1,5 +1,8 @@
 ---
+number: 10
 status: Proposed
+formerly:
+- THEORY-tmp0gt01
 promote_when: >-
   A reading of Auffèves & Grangier's derivations (arXiv 1610.06164,
   1801.01398) that settles whether the postulates imply a Kochen–Specker-type
@@ -24,7 +27,7 @@ summary: >-
   [LIT-016](../literature.d/LIT-016.md); Grangier's own derivations are not held.
 ---
 
-# THEORY-tmp0gt01: Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
+# THEORY-010: Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
 
 ## Source
 

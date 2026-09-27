@@ -1,15 +1,18 @@
 ---
+number: 235
 status: Skimmed
-paper: LIT-tmp3ue9r
+formerly:
+- NOTE-tmp01mls
+paper: LIT-264
 title: 'Dzhafarov, Zhang & Kujala, contextuality in behaviour'
 version: 1
 date: '2026-09-27'
 summary: >-
   Under Contextuality-by-Default, which separates context-dependent marginals ("inconsistent connectedness") from contextuality proper, none of the behavioural and social data sets examined — 73 poll question-order pairs, Schröder-staircase judgements, animal/sound conjoint choices, 23 primed ambiguous word combinations, psychophysical matching — shows contextuality (ΔC ≤ 0 throughout), although several were published as showing it.
 ---
-<!-- inactive-ok-file: LIT-tmp3ue9r — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: LIT-264 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 
-# NOTE-tmp01mls: Dzhafarov, Zhang & Kujala, contextuality in behaviour
+# NOTE-235: Dzhafarov, Zhang & Kujala, contextuality in behaviour
 
 ## Contribution
 

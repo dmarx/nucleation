@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-11 of 11 decisions. Back to the [full index](../README.md).
+12 of 12 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -19,3 +19,4 @@
 | [ADR-009](../../../record/decisions.d/ADR-009.md) | philosophy-of-language joins the topics | `philosophy-of-language` joins the topic vocabulary and the `philosophy` group. It covers meaning, content and reference as philosophy poses them. The pass over the `philosophy-of-science` tag found a paper on meaning holism tagged philosophy of science for want of the right word, and four more held works share the gap. | Active |
 | [ADR-010](../../../record/decisions.d/ADR-010.md) | representation-learning and learning-theory join the topics | Two words join the topic vocabulary. `representation-learning` covers how learned systems come to represent their data. `learning-theory` covers why learning generalizes. The owner asked the record to file a set of papers on self-supervised learning, information bottlenecks, description length and generalization bounds. Nothing in the vocabulary could say what they are about. | Active |
 | [ADR-011](../../../record/decisions.d/ADR-011.md) | information-retrieval joins the topics | `information-retrieval` joins the topic vocabulary. It covers finding what is relevant to a need: representation, relevance, ranking, feedback, and the models of retrieval. The owner asked the record to file van Rijsbergen's *The Geometry of Information Retrieval*. Its seed found no word for the book's subject. | Active |
+| [ADR-012](../../../record/decisions.d/ADR-012.md) | contextuality joins the topics | `contextuality` joins the topic vocabulary. It covers whether outcomes can be explained without reference to the context of measurement, in physics and outside it. The owner asked for the tag, and for the record's two threads on it to be brought together in THEORY documents. Until now the word lived only inside the `quantum-foundations` blurb. | Active |

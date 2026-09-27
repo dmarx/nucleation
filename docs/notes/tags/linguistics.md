@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-4 of 234 NOTE documents. Back to the [full index](../README.md).
+5 of 238 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -12,3 +12,4 @@
 | [NOTE-065](../../../record/notes.d/NOTE-065.md) v2 | Bruening 2018, lexicalism: wrong and superfluous | Bruening argues that the lexicalist hypothesis is wrong on three counts. Phrases feed word formation productively (phrasal compounds, zero-derivation from phrases, German resultative nominalizations), ellipsis and focus target both phrases and morphemes, and the claimed principled differences between the word system and the phrase system (locality, adjuncts, headedness, idiosyncrasy) do not hold. It is also superfluous: every restriction it was meant to explain follows from constraints stated over X0 vs XP and from the selectional properties of individual affixes, none of which mention "word". So one combinatorial component should build words and phrases. | Read |
 | [NOTE-073](../../../record/notes.d/NOTE-073.md) v2 | Haspelmath 2011, the indeterminacy of word segmentation | Haspelmath tests ten morphosyntactic criteria for wordhood and finds that none is necessary and sufficient. No combination picks out what linguists write between spaces, and published test batteries pick criteria opportunistically (Table 1: nine studies, no two with the same battery). Hence (41, p. 65): "Linguists have no good basis for identifying words across languages, and hence no good basis for a general distinction between syntax and morphology". A fuzzy "word" would rescue the distinction only if units on the boundness continuum were shown to cluster, and that is untested (§6). | Read |
 | [NOTE-179](../../../record/notes.d/NOTE-179.md) | Brandom, inferentialism and meaning entitlement | Boghossian's objection to substantive, entitlement-based theories of meaning (drawn from pejoratives like "Boche") works against Dummett but not against Brandom. Brandom's material inferences are non-monotonic and ceteris paribus, so one can grasp a concept while refusing to endorse the inferences it licenses. | Skimmed |
+| [NOTE-235](../../../record/notes.d/NOTE-235.md) | Dzhafarov, Zhang & Kujala, contextuality in behaviour | Under Contextuality-by-Default, which separates context-dependent marginals ("inconsistent connectedness") from contextuality proper, none of the behavioural and social data sets examined — 73 poll question-order pairs, Schröder-staircase judgements, animal/sound conjoint choices, 23 primed ambiguous word combinations, psychophysical matching — shows contextuality (ΔC ≤ 0 throughout), although several were published as showing it. | Skimmed |
