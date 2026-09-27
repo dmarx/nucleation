@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-27; not read in full
+title: 'Is there contextuality in behavioral and social systems?'
+version: 1
+tags:
+- contextuality
+- cognition
+- social-science
+- linguistics
+date: '2026-09-27'
+published: '2015-04-28'
+arxiv: '1504.07422'
+doi: '10.1098/rsta.2015.0099'
+first_author: 'Dzhafarov'
+keywords:
+- 'contextuality'
+- 'cyclic systems'
+- 'inconsistent connectedness'
+implementations: []
+summary: >-
+  Dzhafarov et al. (2015), [ARXIV-1504.07422](https://arxiv.org/abs/1504.07422). Under Contextuality-by-Default, which separates context-dependent marginals ("inconsistent connectedness") from contextuality proper, none of the behavioural and social data sets examined — 73 poll question-order pairs, Schröder-staircase judgements, animal/sound conjoint choices, 23 primed ambiguous word combinations, psychophysical matching — shows contextuality (ΔC ≤ 0 throughout), although several were published as showing it.
+---
+
+# LIT-tmp3ue9r: Is there contextuality in behavioral and social systems?
+
+Ehtibar N. Dzhafarov, Ru Zhang, Janne Kujala (2015), *Philosophical Transactions of the Royal Society A 374: 20150099 (online 2015; issue details unverified)* — [ARXIV-1504.07422](https://arxiv.org/abs/1504.07422)
+
+## Key takeaways
+
+- Under Contextuality-by-Default, which separates context-dependent marginals ("inconsistent connectedness") from contextuality proper, none of the behavioural and social data sets examined — 73 poll question-order pairs, Schröder-staircase judgements, animal/sound conjoint choices, 23 primed ambiguous word combinations, psychophysical matching — shows contextuality (ΔC ≤ 0 throughout), although several were published as showing it.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+Most behavioural and social experiments looking for contextuality use cyclic systems of binary measurements, the class that in physics contains KCBS, EPR–Bell and Leggett–Garg systems. Contextuality-by-Default can define and measure contextuality in such systems even when measurements have context-dependent errors or are directly influenced by the context, which is the normal case in behaviour. For binary cyclic systems it gives a necessary and sufficient noncontextuality criterion, known to be violated by some quantum systems. The authors re-analyse several behavioural and social data sets, find no evidence of contextuality in any, and propose as a working hypothesis that behavioural and social systems are noncontextual.
+
+## Standing in the record
+
+Filed on 2026-09-27 while bringing the record's contextuality threads together at the owner's request (see the curation entry of that date). `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: high — it is the only source the record would have for contextuality outside physics, and its negative result is the sharp edge any cognition or IR claim must meet.**
+
+What a deeper reading should check:
+
+- It is the bridge from the physics notions to cognition and semantics, and it corrects a reading common in quantum-cognition and quantum-IR work: order and priming effects are context-dependent marginals, and a Hilbert-space model of them can be exactly noncontextual.
+- A deeper reading should get the proof of Eq. (7) from Kujala, Dzhafarov & Larsson 2015 (PRL 115, 150401) and Dzhafarov–Kujala's CbD papers, and check the supplementary computations.
+- Later CbD work (e.g. Cervantes & Dzhafarov 2018, human choice experiments) is reported to find contextuality in behaviour; not read here, unverified.
+
+Access when seeded: arXiv abs page (v1 submitted 2015-04-28, v5 2015-08-23; journal ref "Phil. Trans. R. Soc. A 374: 20150099, 2015" and DOI from the abs page) and the full v5 PDF (23 pp. incl. supplementary files), text extracted with PyMuPDF. Read: abstract, §1, §2 (the cyclic-system criterion, Eq. 7), §3 (question order), §4 opening, §5 (conjoint choices), §6 (word combinations), §8 (conclusion). §7 (psychophysical matching) read only for its outcome sentence; the supplementary files were not read. The noncontextuality criterion (Eq. 7) is quoted from refs [14,16,17]; its proof is not in this paper. The typeset Royal Society version was not compared.

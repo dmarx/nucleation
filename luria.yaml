@@ -26,6 +26,9 @@ vocabularies:
         label: Quantum foundations
         blurb: what quantum theory says about the world — contextuality, epistemic restrictions, interference,
           reconstructions and toy theories, quantum thermodynamics
+      contextuality:
+        label: Contextuality
+        blurb: 'whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics'
       mathematics:
         label: Mathematics
         blurb: mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set

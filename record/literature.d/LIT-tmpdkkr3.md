@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: seeded from the abstract and a skim on 2026-09-27; not read in full
+title: 'The contextual fraction as a measure of contextuality'
+version: 1
+tags:
+- contextuality
+- quantum-foundations
+- mathematics
+date: '2026-09-27'
+published: '2017-05-22'
+arxiv: '1705.07918'
+doi: '10.1103/PhysRevLett.119.050504'
+first_author: 'Abramsky'
+keywords:
+- 'contextual fraction'
+- 'contextuality'
+- 'Bell inequalities'
+- 'linear programming'
+- 'resource theory'
+- 'measurement-based quantum computation'
+implementations: []
+summary: >-
+  Abramsky et al. (2017), [ARXIV-1705.07918](https://arxiv.org/abs/1705.07918). For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function.
+---
+
+# LIT-tmpdkkr3: The contextual fraction as a measure of contextuality
+
+Samson Abramsky, Rui Soares Barbosa, Shane Mansfield (2017), *Physical Review Letters 119, 050504 (2017)* — [ARXIV-1705.07918](https://arxiv.org/abs/1705.07918)
+
+## Key takeaways
+
+- For any empirical model in the sheaf-theoretic framework, the contextual fraction CF (one minus the largest weight of a noncontextual sub-model) equals the maximal normalised violation over all generalised Bell inequalities of the scenario, is computable with a linear programme whose dual yields the witnessing inequality, does not increase under free operations, and lower-bounds the failure probability of a Z2-linear MBQC computing a non-linear function.
+
+*Seeded from the abstract and a skim, not a reading. What follows is what the work says about itself.*
+
+The authors take the contextual fraction as a quantitative measure of contextuality for tables of outcome probabilities in any measurement scenario. It lets one compare how contextual models are across scenarios, it is exactly tied to Bell-inequality violation, it and a witnessing inequality are computed by linear programming, it is monotone under operations that cannot create contextuality, and it quantifies advantage in games and in measurement-based quantum computation.
+
+## Standing in the record
+
+Filed on 2026-09-27 while bringing the record's contextuality threads together at the owner's request (see the curation entry of that date). `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium — short and directly extends a held, read work; the Letter was read whole, only the supplemental proofs remain.**
+
+What a deeper reading should check:
+
+- It turns [LIT-016](LIT-016.md)'s qualitative hierarchy into a graded, computable quantity, and it is the measure later work on contextuality as a computational resource uses.
+- It inherits [LIT-016](LIT-016.md)'s restriction to no-signalling (consistently connected) models; it does not apply to data with context-dependent marginals, which is where contextuality-by-default (cx4) differs.
+- Check the supplemental proof of Theorem 1(ii)–(iii) and the MBQC Theorem 3 conditions.
+
+Access when seeded: arXiv abs page (v1 submitted 2017-05-22; journal ref and DOI from the abs page) and the full v1 PDF (18 pp. including supplemental material), text extracted with PyMuPDF. Read the whole 5-page Letter (framework, contextual fraction, LP, Theorem 1, Theorem 2, MBQC Theorem 3, games) and the supplemental remarks after the Theorem 1 proof on non-uniqueness of the decomposition; the supplemental proofs themselves and the GHZ family analysis were not read line by line. The PRL version was not compared.
