@@ -1,0 +1,52 @@
+---
+status: Deferred
+status_note: seeded from the abstract on 2026-09-26; not read in full
+title: 'The Geometry of Information Retrieval'
+version: 1
+tags:
+- information-retrieval
+- mathematics
+- quantum-foundations
+- logic
+date: '2026-09-27'
+published: '2004-08-12'
+doi: '10.1017/CBO9780511543333'
+first_author: 'van Rijsbergen'
+keywords:
+- 'information retrieval'
+- 'Hilbert space'
+- 'quantum logic'
+- 'conditional logic'
+- 'Dirac notation'
+- 'relevance feedback'
+implementations: []
+summary: >-
+  van Rijsbergen (2004), DOI-10.1017/CBO9780511543333. IR's vector-space, probabilistic and logical models can all be written in one language, that of Hilbert space and linear operators as used in quantum mechanics: documents are vectors, and observables like relevance or aboutness are Hermitian operators whose projectors carry a non-Boolean (non-distributive) logic and a probability measure fixed by the space's geometry. The book argues that this unifies the models and lets standard QM results be applied to feedback and ostensive retrieval.
+---
+
+# LIT-tmpwha87: The Geometry of Information Retrieval
+
+C. J. van Rijsbergen (2004), *Cambridge University Press (monograph; hardback ISBN 9780521838054, eBook ISBN 9780511543333; online on Cambridge Core 2010-01-14)* — DOI-10.1017/CBO9780511543333
+
+## Key takeaways
+
+- IR's vector-space, probabilistic and logical models can all be written in one language, that of Hilbert space and linear operators as used in quantum mechanics: documents are vectors, and observables like relevance or aboutness are Hermitian operators whose projectors carry a non-Boolean (non-distributive) logic and a probability measure fixed by the space's geometry. The book argues that this unifies the models and lets standard QM results be applied to feedback and ostensive retrieval.
+
+*Seeded from the abstract alone, not a reading. What follows is what the work says about itself.*
+
+The book proposes a single formal language for information retrieval rather than a new retrieval model. Documents are represented as vectors in a Hilbert space and IR observables such as relevance and aboutness as Hermitian operators, exactly as states and observables are treated in quantum mechanics. The author stresses that it is not a book about physics, only one that borrows physics' mathematical language and its ready-made interpretation. Within this frame the vector-space, probabilistic and logical models of IR become special cases whose reasoning is algebraic and depends on the geometry of the space. The book then applies standard results to relevance feedback, pseudo-relevance feedback and ostensive retrieval, and looks briefly at quantum computing. Appendices on linear algebra, quantum mechanics and probability keep it self-contained, and each chapter ends with bibliographic remarks.
+
+## Standing in the record
+
+Filed on 2026-09-27 at the owner's request ("do your best to file" it). The book is closed access; this seed rests on the publisher's contents and opening excerpts, the book's annotated bibliography, and Kantor's review, as the access line below says. `Deferred` because nobody has read it closely here yet, not on merit.
+
+**Priority for a deeper reading: medium. The book is the founding text of quantum-inspired IR and the clearest applied use of Dirac notation, projector logic and Gleason-style probability outside physics, which bears directly on [LIT-237](LIT-237.md), [LIT-230](LIT-230.md) and [LIT-241](LIT-241.md). But what is reachable (description, chapter openings, annotated bibliography, one full review) already gives its program, the full text is paywalled, and its links to [THEORY-004](../theory.d/THEORY-004.md) and [THEORY-008](../theory.d/THEORY-008.md) are my inferences, not the book's claims.**
+
+What a deeper reading should check:
+
+- Notation. By the ch. 6 summary, the whole "geometry of IR" is done in Dirac notation. The book defends that notation as making calculation simple and the meaning transparent. This makes it a worked, non-physics use case for [LIT-237](LIT-237.md): kets as documents, bras as queries or functionals, ⟨x|P|x⟩ as a probability. A deeper reading should check how ch. 6 introduces bras, and whether it rests them on the dual space, which is the job of [LIT-230](LIT-230.md) and [LIT-243](LIT-243.md).
+- Duality: this is Kantor's point, not the book's text as I read it. Kantor observes that the vector model silently uses the identification of a linear functional (the query) with a vector, and that L² is the only self-dual Lp space. That is precisely the Riesz representation theorem ([LIT-230](LIT-230.md), [LIT-243](LIT-243.md)). Worth checking whether GIR states this identification explicitly or leaves it implicit.
+- Probability from geometry. The ch. 6 summary promises "a probability measure on that space via its geometry". The annotated bibliography repeatedly points the reader to proofs of Gleason's theorem (Cohen 1989, Parthasarathy 1992, Peres 1998, Omnès 1994, the Hooker 1975 reprint of Gleason 1957) and to density matrices (Blum 1981). My inference, to verify in ch. 6 and App. III, is that the book obtains relevance probabilities as tr(ρP) and justifies that form by Gleason. If so, it sits next to [LIT-241](LIT-241.md): GNS rebuilds a Hilbert space from a state (a positive functional) on an operator algebra, and GIR runs the other way, from the space to its states. The pairing is mine, not the book's.
+- Representation up to basis: my inference, not a claim of the book. The Uprety et al. survey reports that GIR treats the same document as expressible in several bases ("contexts"), with a query read off in whichever basis the user's point of view picks. Every quantity GIR computes is an inner product or a projector expectation, so it is invariant under a joint unitary change of basis. That is the IR-side counterpart of [THEORY-004](../theory.d/THEORY-004.md) (a representation is fixed by its kernel up to an orthogonal map) and [THEORY-008](../theory.d/THEORY-008.md) (what a linear readout decodes is a function of the kernel). A deeper reading should check whether the book ever states this invariance as a principle or only uses it. The reception is also worth recording. Kantor (2007) judged the QM machinery "ornamental but not useful", since he could find no IR analogue of non-commuting measurements. The 2020 survey says the models it inspired generally fail to beat state-of-the-art IR.
+
+Access when seeded: Cambridge Core book page, reached via doi.org/10.1017/CBO9780511543333: the book description, 1 review snippet (IAPR Newsletter), contents with page ranges, publication dates (print 12 August 2004; online 14 January 2010), ISBNs, and "164 Pages". Cambridge Core chapter pages give the opening paragraphs ("Summary") of the Preface (pp. ix–xii), ch. 1 Introduction (pp. 15–27), ch. 2 (pp. 28–40), ch. 5 (pp. 62–72) and ch. 6 (pp. 73–100). The Prologue and chs. 3–4 show no excerpt. Full chapters are paywalled and I did not read them. Crossref record for the DOI: 261 references with the author's own annotations (the annotated bibliography, pp. 120–144), which I read. Paul B. Kantor's review, Information Retrieval 10:485–489 (2007), doi:10.1007/s10791-007-9026-8: I read the full text as it appears on the Springer page. The secondary account in Uprety, Gkoumas & Song, "A Survey of Quantum Theory Inspired Approaches to Information Retrieval" (arXiv 2007.04357, full PDF read for its passages on this book). Failed: the publisher's frontmatter PDF at assets.cambridge.org (connection reset, then HTTP 503, on curl and WebFetch alike). This was a transport failure, not a permission refusal. Internet Archive item geometryofinform0000vanr exists but is lending-only (access-restricted, printdisabled), so I did not open it. The Google Books API returned no record. No email address was sent to any service.
