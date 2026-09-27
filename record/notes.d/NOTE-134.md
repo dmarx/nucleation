@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpi3hhh
 paper: LIT-123
 title: 'Carroll — Reality as a vector in Hilbert space'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -25,6 +25,14 @@ history:
     checked.). Upgraded from `Skimmed` to `Read`: the claims table,
     assumptions and results are new, and the skim is corrected where the
     full text disagreed.
+- version: 3
+  date: '2026-09-27'
+  note: >-
+    Connections extended on 2026-09-27, at the owner's request, to the
+    Hilbert-space works filed since the reading: van Rijsbergen (LIT-262),
+    the two DisCoCat papers (LIT-273, LIT-272) and the kernel-invariance
+    thread (THEORY-004). The new THEORY-tmpscxh5 cites this paper as its
+    primary source. The reading itself is unchanged.
 date: '2026-09-26'
 summary: >-
   A programmatic essay, not a result paper. Carroll argues that a quantum
@@ -41,6 +49,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
+
+<!-- inactive-ok-file: THEORY-tmpscxh5 — Proposed: the synthesis this note's 2026-09-27 connections point to, awaiting the close reading its promote_when names; the directive lapses when its status changes -->
 
 # NOTE-134: Carroll — Reality as a vector in Hilbert space
 
@@ -121,11 +131,34 @@ The essay sits among the wave-function ontology positions the record holds. Agai
 
 For the mereology tag, the contrast with [LIT-124](../literature.d/LIT-124.md) (Varzi, SEP *Mereology*) is sharp. Carroll offers no parthood relation, no axioms and no account of composition, overlap or sums. There is only a whole, and a family of ways to split it. Parts exist relative to a factorisation, and one factorisation is preferred on dynamical and epistemic grounds (simple internal dynamics, observability), not metaphysical ones. That puts the essay closer to the individuality literature than to classical mereology. Bourrat's coarse-graining account, [LIT-049](../literature.d/LIT-049.md), also treats individuals as summaries a lower level licenses, and [LIT-005](../literature.d/LIT-005.md) adds causal criteria to information-theoretic individuality. The formal settings differ entirely: evolutionary populations there, Hilbert-space factors here. The analogy is mine and is not in the paper. The essay also belongs to the emergence cluster, [LIT-150](../literature.d/LIT-150.md) and [LIT-025](../literature.d/LIT-025.md), through its real-patterns account of emergent reality (p. 7).
 
+**Where a basis comes from (added 2026-09-27).** The essay's two premises,
+that changes of basis have "no physical importance whatsoever" (p. 4) and
+that a theory is its spectrum (pp. 4–5), are the record's sharpest statement
+of a fork that recurs in its other Hilbert-space works. A model either
+computes only unitarily invariant quantities, or it takes on a basis or
+factorisation from somewhere. Carroll takes it from the dynamics.
+
+- Van Rijsbergen ([LIT-262](../literature.d/LIT-262.md), [NOTE-239](NOTE-239.md)) takes it from the observable. Each
+  eigenbasis is a "point of view", and everything he computes is a trace or
+  an inner product.
+- The founding DisCoCat paper ([LIT-273](../literature.d/LIT-273.md)) computes a sentence meaning that is
+  covariant under orthogonal changes of basis.
+- Its Frobenius sequel ([LIT-272](../literature.d/LIT-272.md)) stipulates a corpus basis and composes by
+  elementwise product in it.
+- For learned representations, [THEORY-004](../theory.d/THEORY-004.md) keeps only the kernel and fixes
+  the representation up to rotation.
+
+Carroll's move, selecting parts by the form of the Hamiltonian, is the only
+one of these that tries to derive the extra structure rather than supply or
+avoid it. The comparison is set out in [THEORY-tmpscxh5](../theory.d/THEORY-tmpscxh5.md), which cites this
+paper first. Carroll's parts are factorisations, not bases. That document's
+last caveat says why the two are grouped without being identified.
+
 ## Bearing on the record
 
 - For the mereology topic, this is the record's clearest example of a whole-first ontology in which parts are chosen descriptions, not constituents. Any document that cites it for a *uniqueness* result about subsystems should cite the local-factorisation theorem (Cotler et al.), not the quasi-classical criterion, which is supported only by numerical examples in a companion paper. It should not cite this essay as proof of either.
 - NOTE-134's summary overstates what is recovered: fields are hoped for, not recovered. The finiteness figure should not be quoted from this paper as printed.
-- No THEORY document is known to depend on it; none was checked beyond the grep of literature.d.
+- [THEORY-tmpscxh5](../theory.d/THEORY-tmpscxh5.md) (added 2026-09-27) cites it as its primary source, for the spectrum-only premise and the selection of factorisations by dynamics. No earlier THEORY document depends on it.
 - For ML practice it carries nothing. There is no instruction for the Anthology of the SOTA.
 
 ## Limitations
