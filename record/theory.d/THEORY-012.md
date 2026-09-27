@@ -73,7 +73,8 @@ Over the reals the answer is always yes: noncontextual and no-signalling models 
   - GHZ-type n-qubit stabiliser states (Thm 4);
   - Peres–Mermin;
   - the PR box;
-  - Kochen–Specker covers failing [LIT-277](../literature.d/LIT-277.md)'s GCD condition.
+  - Kochen–Specker covers failing [LIT-277](../literature.d/LIT-277.md)'s GCD condition. This last is the
+    reader's derivation in [NOTE-tmp92a59](../notes.d/NOTE-tmp92a59.md), not the paper's.
 
   Both of [LIT-277](../literature.d/LIT-277.md)'s documented failures lie outside it. Hardy is not
   strongly contextual. The §8 cover is strongly contextual but, by the
