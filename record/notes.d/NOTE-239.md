@@ -35,6 +35,7 @@ summary: >-
   is cos²θ is argued, not tested.
 ---
 
+<!-- inactive-ok-file: THEORY-013 — Proposed: cited as the record's current account of the behavioural data, for comparison; the directive lapses when its status changes -->
 # NOTE-239: The Geometry of Information Retrieval
 
 ## Contribution
