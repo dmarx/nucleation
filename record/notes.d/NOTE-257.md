@@ -1,6 +1,9 @@
 ---
+number: 257
 status: Read
-paper: LIT-tmp7j8wd
+formerly:
+- NOTE-tmpd74t0
+paper: LIT-284
 title: 'Sen''s Capability Approach'
 version: 1
 history:
@@ -41,7 +44,7 @@ summary: >-
   papers.
 ---
 
-# NOTE-tmpd74t0: Sen's Capability Approach
+# NOTE-257: Sen's Capability Approach
 
 ## Contribution
 

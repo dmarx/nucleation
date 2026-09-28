@@ -1,6 +1,9 @@
 ---
+number: 256
 status: Read
-paper: LIT-tmpgl00d
+formerly:
+- NOTE-tmp57ko6
+paper: LIT-288
 title: 'Capabilities as Fundamental Entitlements: Sen and Social Justice'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
   across the board.
 ---
 
-# NOTE-tmp57ko6: Capabilities as Fundamental Entitlements: Sen and Social Justice
+# NOTE-256: Capabilities as Fundamental Entitlements: Sen and Social Justice
 
 ## Contribution
 

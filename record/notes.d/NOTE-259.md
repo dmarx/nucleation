@@ -1,6 +1,9 @@
 ---
+number: 259
 status: Read
-paper: LIT-tmpfiw59
+formerly:
+- NOTE-tmpmfu9t
+paper: LIT-287
 title: 'Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined'
 version: 1
 history:
@@ -49,7 +52,7 @@ summary: >-
   theory, not a rival version of the approach.
 ---
 
-# NOTE-tmpmfu9t: Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined
+# NOTE-259: Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined
 
 ## Contribution
 

@@ -1,6 +1,9 @@
 ---
+number: 261
 status: Read
-paper: LIT-tmpap1o1
+formerly:
+- NOTE-tmptqlvn
+paper: LIT-286
 title: 'Review of Amartya Sen''s The Idea of Justice'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
   to change [political philosophy] for the better".
 ---
 
-# NOTE-tmptqlvn: Review of Amartya Sen's The Idea of Justice
+# NOTE-261: Review of Amartya Sen's The Idea of Justice
 
 ## Contribution
 

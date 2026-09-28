@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [28 Sep 02:56 — Sen's capability approach, assembled from nine texts](2026-09.md#sens-capability-approach-assembled-from-nine-texts)
 - [27 Sep 21:57 — Carù's 2019 thesis read: nothing repaired](2026-09.md#carùs-2019-thesis-read-nothing-repaired)
 - [27 Sep 16:16 — Carù 2018 read: complete on cycles, conjecture refuted](2026-09.md#carù-2018-read-complete-on-cycles-conjecture-refuted)
 - [27 Sep 08:29 — Carù read: the cohomology conjecture is false; THEORY-012 updated](2026-09.md#carù-read-the-cohomology-conjecture-is-false-theory-012-updated)
@@ -49,8 +50,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-40 entries across 1 book, newest first.
+41 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 40 | 2026-09-25 | 2026-09-27 |
+| [2026-09](2026-09.md) | 41 | 2026-09-25 | 2026-09-28 |

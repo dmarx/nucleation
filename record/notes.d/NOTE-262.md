@@ -1,6 +1,9 @@
 ---
+number: 262
 status: Read
-paper: LIT-tmpysbhm
+formerly:
+- NOTE-tmpvh7tb
+paper: LIT-290
 title: 'A Paradigm Shift in Theorizing about Justice? A Critique of Sen'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
   one of them", and no paradigm shift is warranted.
 ---
 
-# NOTE-tmpvh7tb: A Paradigm Shift in Theorizing about Justice? A Critique of Sen
+# NOTE-262: A Paradigm Shift in Theorizing about Justice? A Critique of Sen
 
 ## Contribution
 

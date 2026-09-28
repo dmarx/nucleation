@@ -1,6 +1,9 @@
 ---
+number: 255
 status: Read
-paper: LIT-tmp93aoy
+formerly:
+- NOTE-tmp009zd
+paper: LIT-285
 title: 'The Impossibility of a Paretian Liberal'
 version: 1
 history:
@@ -33,7 +36,7 @@ summary: >-
   liberal values conflict with the Pareto principle" (p. 157).
 ---
 
-# NOTE-tmp009zd: The Impossibility of a Paretian Liberal
+# NOTE-255: The Impossibility of a Paretian Liberal
 
 ## Contribution
 

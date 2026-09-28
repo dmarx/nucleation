@@ -1,6 +1,9 @@
 ---
+number: 258
 status: Read
-paper: LIT-tmpgt6gv
+formerly:
+- NOTE-tmpks3zz
+paper: LIT-289
 title: 'Equality of What?'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
   constructive proposal (p. 220).
 ---
 
-# NOTE-tmpks3zz: Equality of What?
+# NOTE-258: Equality of What?
 
 ## Contribution
 

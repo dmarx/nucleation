@@ -1,6 +1,9 @@
 ---
+number: 263
 status: Read
-paper: LIT-tmp64wkn
+formerly:
+- NOTE-tmpygcwo
+paper: LIT-282
 title: 'The Possibility of Social Choice'
 version: 1
 history:
@@ -44,7 +47,7 @@ summary: >-
   and desire-fulfilment (pp. 199–200).
 ---
 
-# NOTE-tmpygcwo: The Possibility of Social Choice
+# NOTE-263: The Possibility of Social Choice
 
 ## Contribution
 

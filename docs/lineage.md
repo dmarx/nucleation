@@ -2,7 +2,7 @@
 
 # Lines of work
 
-5 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+7 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -23,6 +23,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+
+## ethics
+
+### From The Impossibility of a Paretian Liberal
+
+- [LIT-285](../record/literature.d/LIT-285.md) — The Impossibility of a Paretian Liberal *(Active)*
+  - [LIT-282](../record/literature.d/LIT-282.md) — The Possibility of Social Choice *(Active)*
+
+### From Equality of What?
+
+- [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
+  - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
+  - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
 
 ## information-theory
 
@@ -123,3 +136,24 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+## social-science
+
+### From Equality of What?
+
+- [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
+  - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
+  - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
+
+## society-and-governance
+
+### From The Impossibility of a Paretian Liberal
+
+- [LIT-285](../record/literature.d/LIT-285.md) — The Impossibility of a Paretian Liberal *(Active)*
+  - [LIT-282](../record/literature.d/LIT-282.md) — The Possibility of Social Choice *(Active)*
+
+### From Equality of What?
+
+- [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
+  - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
+  - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*

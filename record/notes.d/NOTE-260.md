@@ -1,6 +1,9 @@
 ---
+number: 260
 status: Read
-paper: LIT-tmp6eej0
+formerly:
+- NOTE-tmpsh8zz
+paper: LIT-283
 title: 'The Capability Approach'
 version: 1
 history:
@@ -43,7 +46,7 @@ summary: >-
   (§3.3).
 ---
 
-# NOTE-tmpsh8zz: The Capability Approach
+# NOTE-260: The Capability Approach
 
 ## Contribution
 
