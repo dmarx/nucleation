@@ -1,0 +1,69 @@
+---
+status: Active
+status_note: 'read in full 2026-09-28 ([NOTE-tmpsh8zz](../notes.d/NOTE-tmpsh8zz.md)); worth reading as the definitional spine of the approach, with its concepts, its specification choices and the list of what a capability theory of justice still lacks. Use it for Sen''s paywalled texts only as a pointer to them, not as a substitute. Its retelling of Sen''s 1979 disability argument conflates two of his arguments and inverts who the "pleasure wizard" is.'
+title: 'The Capability Approach'
+version: 2
+history:
+- version: 2
+  date: '2026-09-28'
+  note: >-
+    Read in full (The full SEP entry "The Capability Approach" in its
+    current version, the substantive revision of Thu 17 Apr 2025 (first
+    published Thu 14 Apr 2011), from the plato.stanford.edu HTML, about
+    19.1k words. I read the preamble, §§1–6 with every subsection (1.1–1.2,
+    2.1–2.6, 3.1–3.5, 4, 5, 6), the whole bibliography, and the Related
+    Entries. **The author list changed across revisions**, which I checked
+    against the SEP's own archive editions. The 2011 first version and the 3
+    Oct 2016 revision are by Ingrid Robeyns alone, and the 2011 version had
+    different sections (1 What kind of theoretical framework?, 2 The core
+    ideas, 3 Specifying…, 4 An alternative for utilitarianism?, 5 An
+    alternative for Rawlsian justice?). Morten Fibieger Byskov is co-author
+    from the 10 Dec 2020 revision onward. The 2025 revision I read is by
+    Robeyns & Byskov and keeps the 2020 section structure. I did not read
+    the 2011, 2016 or 2020 texts beyond their headers, section lists and
+    copyright lines. To check what the entry attributes to Sen, I compared
+    it with Sen's "Equality of What?" (the OPHI copy of the Tanner text, pp.
+    195–220). I have not seen any of the paywalled Sen texts the entry
+    cites.); the first NOTE on it, since it was seeded from the abstract
+    alone. Status set from the reading: Active.
+tags:
+- ethics
+- society-and-governance
+- social-science
+- agency
+date: '2026-09-28'
+published: '2011-04-14'
+url: 'https://plato.stanford.edu/entries/capability-approach/'
+first_author: 'Robeyns'
+keywords:
+- 'capability approach'
+- 'Amartya Sen'
+implementations: []
+summary: >-
+  Robeyns & Byskov (2011),
+  <https://plato.stanford.edu/entries/capability-approach/>. The entry
+  treats the capability approach as an open normative *framework*, not a
+  theory. Its core is the commitment to assess well-being and well-being
+  freedom in the space of functionings (achieved doings and beings) and
+  capabilities (real opportunities to achieve them). Everything else is
+  optional specification: purpose, which capabilities count, functionings
+  or capabilities, how to aggregate, and a distributive rule. On this view
+  the approach is **not** a theory of justice (§4). Sen is reported as
+  refusing any canonical list and appealing to public reasoning without
+  ever specifying the procedure (§3.3). Sen's paywalled texts appear only
+  as citations: the Dewey Lectures for the well-being/agency freedom split
+  (§2.5), and "Human Rights and Capabilities" 2005 p. 158 for the
+  no-canonical-list quotation (§3.3).
+---
+
+# LIT-tmp6eej0: The Capability Approach
+
+Robeyns & Byskov (2011), *Stanford Encyclopedia of Philosophy (Edward N. Zalta & Uri Nodelman, eds.); first published 14 Apr 2011 (Robeyns alone); substantive revisions 3 Oct 2016, 10 Dec 2020 (Byskov added) and 17 Apr 2025 (the version read); archived as https://plato.stanford.edu/archives/sum2025/entries/capability-approach/* — <https://plato.stanford.edu/entries/capability-approach/>
+
+## Standing in the record
+
+Filed on 2026-09-28 at the owner's request, as one of nine texts assembled to represent Amartya Sen's
+capability approach without a full reading of *The Idea of Justice*. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpsh8zz](../notes.d/NOTE-tmpsh8zz.md) is the close reading of 2026-09-28, and it placed the work: **Active** — worth reading as the definitional spine of the approach, with its concepts, its specification choices and the list of what a capability theory of justice still lacks. Use it for Sen's paywalled texts only as a pointer to them, not as a substitute. Its retelling of Sen's 1979 disability argument conflates two of his arguments and inverts who the "pleasure wizard" is.

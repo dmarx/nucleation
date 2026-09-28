@@ -1,0 +1,77 @@
+---
+status: Active
+status_note: 'read in full 2026-09-28 ([NOTE-tmpmfu9t](../notes.d/NOTE-tmpmfu9t.md)); worth reading as the most systematic single account of what the capability approach is, and of what a capability theory must add. It is the best route to seeing which disputes are about the core and which are about optional choices. Read it as an advocate''s reconstruction, not a neutral survey: Robeyns says she takes sides in ch. 4 (p. 19), and her verdicts mostly hold that a critique misfires against the approach.'
+title: 'Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined'
+version: 2
+history:
+- version: 2
+  date: '2026-09-28'
+  note: >-
+    Read in full (The whole book, read closely: the Open Book Publishers PDF
+    (CC BY 4.0, DOI 10.11647/OBP.0130; copy hosted by the Human Development
+    & Capability Association), 268 PDF pages. I read every page of the body
+    closely, including the notes and tables: acknowledgements (pp. 3–6), ch.
+    1 Introduction (pp. 7–20), ch. 2 Core Ideas and the Framework (pp.
+    21–87), ch. 3 Clarifications (pp. 89–168), ch. 4 Critiques and Debates
+    (pp. 169–210) and ch. 5 Which Future for the Capability Approach? (pp.
+    211–216). Nothing in the body was skipped, so the brief's fallback
+    (close reading of chs 1–4, statement level for the rest) was not needed:
+    ch. 5 was read as closely as the others. I used the reference list (pp.
+    217–249) and the index only to look up individual citations and did not
+    read them through. Figure 2.1 (p. 83) is an image that does not survive
+    text extraction; I relied on the prose description of it (pp. 80–84).
+    Page numbers below are the printed book pages. The DOI and the CC BY 4.0
+    licence are verified on the copyright page (PDF p. 5), and Crossref
+    gives the issue date as 11 Dec 2017. To check Robeyns's statements about
+    Sen's 1979 Tanner Lecture, I also read the capability sections of that
+    lecture (§4 "Basic Capability Equality" and §5 "Concluding Remarks", pp.
+    217–220 of the Tanner text, OPHI copy) and searched its full text for
+    the terms at issue ("freedom", "functioning", "egalitarian", "ability",
+    "power"). pdftotext was unavailable, so the text was extracted with
+    PyMuPDF.); the first NOTE on it, since it was seeded from the abstract
+    alone. Status set from the reading: Active.
+tags:
+- ethics
+- society-and-governance
+- social-science
+date: '2026-09-28'
+published: '2017-12-11'
+doi: '10.11647/OBP.0130'
+url: 'https://hd-ca.org/wp-content/uploads/2018/05/Wellbeing-Freedom-Social-Justice.pdf'
+first_author: 'Robeyns'
+keywords:
+- 'capability approach'
+- 'Amartya Sen'
+implementations: []
+summary: >-
+  Robeyns (2017), DOI-10.11647/OBP.0130. Robeyns defines the capability
+  approach as an open, underspecified framework whose only compulsory
+  content is an eight-part "A-module" (pp. 38–59, table 2.5 p. 74). The
+  eight parts are: functionings and capabilities as core concepts; their
+  value-neutrality; conversion factors; the means–ends distinction;
+  functionings and/or capabilities as the evaluative space; other things
+  may also have ultimate value; value pluralism; and each person as an
+  end, i.e. ethical individualism. Every particular "capability theory"
+  must also fill seven compulsory-but-open "B-modules" (purpose, selection
+  of dimensions, human diversity, agency, structural constraints,
+  functionings vs capabilities, meta-theory) and may add four contingent
+  "C-modules". On that basis she argues that most standing critiques (no
+  list, individualism, power, political economy, liberalism) are valid at
+  most against particular capability theories, not against the approach.
+  She places Nussbaum's work as one capability theory, not a rival version
+  of the approach.
+extends:
+- LIT-tmpgt6gv
+---
+
+# LIT-tmpfiw59: Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined
+
+Robeyns (2017), *Open Book Publishers, Cambridge UK, 2017 (monograph; open access, CC BY 4.0; ISBN 978-1-78374-421-3 pbk)* — DOI-10.11647/OBP.0130
+
+## Standing in the record
+
+Filed on 2026-09-28 at the owner's request, as one of nine texts assembled to represent Amartya Sen's
+capability approach without a full reading of *The Idea of Justice*. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpmfu9t](../notes.d/NOTE-tmpmfu9t.md) is the close reading of 2026-09-28, and it placed the work: **Active** — worth reading as the most systematic single account of what the capability approach is, and of what a capability theory must add. It is the best route to seeing which disputes are about the core and which are about optional choices. Read it as an advocate's reconstruction, not a neutral survey: Robeyns says she takes sides in ch. 4 (p. 19), and her verdicts mostly hold that a critique misfires against the approach.
