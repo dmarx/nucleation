@@ -1,0 +1,64 @@
+---
+status: Active
+status_note: 'read in full 2026-09-28 ([NOTE-tmptqlvn](../notes.d/NOTE-tmptqlvn.md)); worth reading only as a three-page, page-referenced map of the book. It is too slight to support any claim beyond "the book argues X at p. Y". It says almost nothing about the capability chapters and offers no criticism.'
+title: 'Review of Amartya Sen''s The Idea of Justice'
+version: 2
+history:
+- version: 2
+  date: '2026-09-28'
+  note: >-
+    Read in full (The full text of the author's web version, 3 pp., headed
+    "Review of Amartya Sen's *The Idea of Justice* / Forthcoming in *The
+    Review of Metaphysics*", from Zwolinski's University of San Diego page.
+    I read all of it: the bibliographic header (Sen, *The Idea of Justice*,
+    Belknap Press, 2009, xxviii + 468 pp., cloth $29.95), the paragraphs on
+    each of the book's four parts, and the sign-off. It has no footnotes or
+    references. This is a book review, so the template is adapted: it
+    reports what the review says the book argues, and its evaluations,
+    attributed. **Venue and date.** Zwolinski's CV, on his USD page and on
+    mzwolinski.com, lists it as *The Review of Metaphysics*, vol. LXIII, no.
+    4 (2010), pp. 45–47. - *The page range.* It is implausible for that
+    volume's continuous pagination and is unverified. It may refer to a
+    separately paginated book-notes section. - *The month.* Volume 63 no. 4
+    would be the June 2010 issue, on the journal's
+    September/December/March/June cycle. That is inferred and unverified, so
+    `published:` uses 2010-06-01. - *No DOI.* Crossref has no DOI for it: a
+    search by ISSN 0034-6632 for 2009–2012 returned nothing. - *Web version
+    and print.* Whether the web version differs from print is unverified.
+    PyMuPDF was used for extraction.); the first NOTE on it, since it was
+    seeded from the abstract alone. Status set from the reading: Active.
+tags:
+- ethics
+- society-and-governance
+date: '2026-09-28'
+published: '2010-06-01'
+url: 'https://home.sandiego.edu/~mzwolinski/Review%20-%20Sen%20-%20The%20Idea%20of%20Justice%20-%20web%20version.pdf'
+first_author: 'Zwolinski'
+keywords:
+- 'capability approach'
+- 'Amartya Sen'
+implementations: []
+summary: >-
+  Zwolinski (2010),
+  <https://home.sandiego.edu/~mzwolinski/Review%20-%20Sen%20-%20The%20Idea%20of%20Justice%20-%20web%20version.pdf>.
+  A short, favourable review of *The Idea of Justice* that maps its four
+  parts. It reports the book's case for a comparative,
+  "realization-focused" theory of justice against the "transcendental"
+  pursuit of perfect justice; "positional objectivity" and the impartial
+  spectator; pluralism about freedom ("an inescapably plural idea", p.
+  305); and human rights whose realisation need not be the state's job (p.
+  364). It judges that the book's few, repeated ideas "have the potential
+  to change [political philosophy] for the better".
+---
+
+# LIT-tmpap1o1: Review of Amartya Sen's The Idea of Justice
+
+Zwolinski (2010), *The Review of Metaphysics 63(4) (2010), per the author's CV (pp. 45–47 as listed there, unverified); read as the author's web version ("Forthcoming")* — <https://home.sandiego.edu/~mzwolinski/Review%20-%20Sen%20-%20The%20Idea%20of%20Justice%20-%20web%20version.pdf>
+
+## Standing in the record
+
+Filed on 2026-09-28 at the owner's request, as one of nine texts assembled to represent Amartya Sen's
+capability approach without a full reading of *The Idea of Justice*. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmptqlvn](../notes.d/NOTE-tmptqlvn.md) is the close reading of 2026-09-28, and it placed the work: **Active** — worth reading only as a three-page, page-referenced map of the book. It is too slight to support any claim beyond "the book argues X at p. Y". It says almost nothing about the capability chapters and offers no criticism.

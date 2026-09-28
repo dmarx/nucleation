@@ -1,0 +1,73 @@
+---
+status: Active
+status_note: 'read in full 2026-09-28 ([NOTE-tmpygcwo](../notes.d/NOTE-tmpygcwo.md)); worth reading as Sen''s own map of how his social-choice work, his capability view and his poverty and famine work connect through one idea — informational broadening — though every formal claim in it is cited to earlier papers rather than shown, so it is a guide to the results, not a source for them.'
+title: 'The Possibility of Social Choice'
+version: 2
+history:
+- version: 2
+  date: '2026-09-28'
+  note: >-
+    Read in full (The Nobel Lecture as printed in the Nobel Foundation's
+    annual volume (running head "Economic Sciences 1998", pp. 178–215), from
+    the nobelprize.org PDF, 38 pp. It is an image-only scan with no text
+    layer; I rendered each page to an image (PyMuPDF) and read it visually.
+    I read the whole lecture text and all 50 footnotes, pp. 178–202
+    (§§I–XII), and the reference pages 202–205, 210–211 and 215. I did not
+    read reference pages 206–209 and 212–214 (bibliography entries only).
+    The scan ends at p. 215 in the middle of an entry ("Ward, Benjamin.
+    'Majority Voting and Alternative Forms of Public Enterprise,' in
+    Julius"), so this copy's reference list is truncated: works cited in the
+    text that sort after "Ward" (e.g. Weymark, Wilson 1972/1975, Young 1988)
+    are not on any page of it. I did not obtain the *American Economic
+    Review* version (89(3), 349–378, closed access), so I cannot say whether
+    its text differs; the lecture's own first footnote says only that it "is
+    also published in the American Economic Review, 89 (July 1999)".
+    Crossref (queried without any contact address) confirms doi
+    10.1257/aer.89.3.349: "The Possibility of Social Choice", AER 89(3), pp.
+    349–378, issue date 1 June 1999 — not July. `published:` is the delivery
+    date; the `doi:` is the AER version, which I did not read.); the first
+    NOTE on it, since it was seeded from the abstract alone. Status set from
+    the reading: Active.
+tags:
+- society-and-governance
+- social-science
+- ethics
+date: '2026-09-28'
+published: '1998-12-08'
+doi: '10.1257/aer.89.3.349'
+url: 'https://www.nobelprize.org/uploads/2018/06/sen-lecture.pdf'
+first_author: 'Sen'
+keywords:
+- 'capability approach'
+- 'Amartya Sen'
+implementations: []
+summary: >-
+  Sen (1998), DOI-10.1257/aer.89.3.349. Sen argues that Arrow's
+  impossibility is a result about voting-type rules, which are forced on
+  social choice by excluding interpersonal comparisons, and that
+  broadening the informational basis escapes it: cardinal utilities
+  *without* interpersonal comparison do not help (Theorem 8*2 of Sen
+  1970a, cited), but even *ordinal* interpersonal comparisons break the
+  exact impossibility, and partial comparability is often enough (pp.
+  188–189). The comparisons need not be of mental states; he offers
+  capabilities — "to live the way he or she has reason to value" (p. 192)
+  — as one informational basis among several, and shows it at work in
+  poverty, famine and gender deprivation. The liberal paradox, by
+  contrast, is *not* resolved by interpersonal comparisons and needs a
+  different enrichment: people's own priorities between liberty and
+  desire-fulfilment (pp. 199–200).
+extends:
+- LIT-tmp93aoy
+---
+
+# LIT-tmp64wkn: The Possibility of Social Choice
+
+Sen (1998), *Nobel Lecture, Stockholm, 8 December 1998; printed in the Nobel Foundation's volume for 1998 (pp. 178–215); also American Economic Review 89(3), June 1999, 349–378* — DOI-10.1257/aer.89.3.349
+
+## Standing in the record
+
+Filed on 2026-09-28 at the owner's request, as one of nine texts assembled to represent Amartya Sen's
+capability approach without a full reading of *The Idea of Justice*. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpygcwo](../notes.d/NOTE-tmpygcwo.md) is the close reading of 2026-09-28, and it placed the work: **Active** — worth reading as Sen's own map of how his social-choice work, his capability view and his poverty and famine work connect through one idea — informational broadening — though every formal claim in it is cited to earlier papers rather than shown, so it is a guide to the results, not a source for them.
