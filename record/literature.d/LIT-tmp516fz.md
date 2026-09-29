@@ -1,0 +1,67 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmpzpe87](../notes.d/NOTE-tmpzpe87.md)); worth reading as the standard open introduction to real hyperplane arrangements. It is the best reachable source for "regions", the intersection poset and Zaslavsky''s region-count theorem, with complete proofs of the region formula. Read it knowing that it never uses the oriented-matroid vocabulary of "topes" or "covectors" (it cites Björner et al., *Oriented Matroids*, only in passing) and that it does not cite Zaslavsky''s own texts.'
+title: 'An Introduction to Hyperplane Arrangements'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (The full lecture notes, "version of February 26, 2006",
+    114 PDF pages (printed pp. 1–110): the contents, Lectures 1–6 with all
+    exercises, and the 38-item bibliography. I also read the author's errata
+    and addenda (version of 18 October 2020, 6 pp.). The PDF is the file the
+    author's own page (math.mit.edu/~rstan/arrangements/arr.html) links as
+    "pdf file". It is hosted on a University of Pennsylvania course
+    directory (cis6100), and the author's errata name that location as the
+    reference version. I used it because the author designates it, not as a
+    third-party repost. The text was extracted with PyMuPDF. Figures were
+    not rendered; they are described in the text wherever the argument needs
+    them. At 110 printed pages the notes fall under the brief's book-length
+    threshold, and I read all of it. I read Lectures 1–2 (regions, the
+    intersection poset, Zaslavsky's theorem) and Lecture 6 (separating
+    hyperplanes) closely, and Lectures 3–5 in full but at the level of
+    statements and proof outlines. I did not read the printed version in
+    *Geometric Combinatorics* (IAS/Park City Mathematics Series 13, AMS
+    2007). `published:` is the date of the version read, the earliest dated
+    text I could verify. The lectures were given on 12–19 July 2004, and the
+    printed chapter is dated 31 October 2007 by Crossref. No anthology entry
+    exists for this work.); the first NOTE on it, since it was seeded from
+    the abstract alone. Status set from the reading: Active.
+tags:
+- mathematics
+date: '2026-09-29'
+published: '2006-02-26'
+doi: '10.1090/pcms/013/08'
+url: 'https://math.mit.edu/~rstan/arrangements/arr.html'
+first_author: 'Stanley'
+keywords:
+- 'prior-art novelty map'
+implementations: []
+summary: >-
+  Stanley (2006), DOI-10.1090/pcms/013/08. The notes define the regions of
+  a real arrangement (connected components of the complement) and the
+  intersection poset L(A) with its Möbius function and characteristic
+  polynomial χ_A(t) = Σ μ(x) t^{dim x}. They prove Zaslavsky's theorem
+  (Thm 2.5): r(A) = (−1)ⁿ χ_A(−1) and b(A) = (−1)^{rank A} χ_A(1), so the
+  numbers of regions and bounded regions depend only on L(A), not on the
+  face structure (Cor. 2.1, Fig. 2). The same machinery counts faces of
+  every dimension (Thm 2.6: f_k = Σ_{x≤y, dim x=k} |μ(x,y)|). Later
+  lectures add Whitney's theorem, deletion–restriction, matroids and
+  geometric lattices, broken circuits, supersolvability, the finite-field
+  method, and the metric d(R, R′) = number of separating hyperplanes,
+  whose zero set shows that a region is determined by its separating set
+  (p. 89).
+---
+
+# LIT-tmp516fz: An Introduction to Hyperplane Arrangements
+
+Stanley (2006), *Lecture notes from the IAS/Park City Mathematics Institute lecture series, 12–19 July 2004 (author's version of 26 February 2006, linked from the author's page); printed in Geometric Combinatorics (E. Miller, V. Reiner, B. Sturmfels, eds.), IAS/Park City Mathematics Series 13, American Mathematical Society, 2007, pp. 389–496 (Crossref-verified DOI and pages); author's errata of 18 October 2020* — DOI-10.1090/pcms/013/08
+
+## Standing in the record
+
+Filed on 2026-09-29 as a supplemental reading. The close readings of the owner's prior-art novelty map's
+references found the map's citation for this point wrong, or its source unreachable, and this work is the
+candidate replacement. `published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpzpe87](../notes.d/NOTE-tmpzpe87.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the standard open introduction to real hyperplane arrangements. It is the best reachable source for "regions", the intersection poset and Zaslavsky's region-count theorem, with complete proofs of the region formula. Read it knowing that it never uses the oriented-matroid vocabulary of "topes" or "covectors" (it cites Björner et al., *Oriented Matroids*, only in passing) and that it does not cite Zaslavsky's own texts.
