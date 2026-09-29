@@ -1,0 +1,65 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmpqc71k](../notes.d/NOTE-tmpqc71k.md)); worth reading as the standard, even-handed map of the PAP debate and the best available stand-in for Frankfurt 1969. It gives the recipe, both of Frankfurt''s own cases, and the main defences and replies, with precise citations. It is a stand-in for the *argument''s reception*, not for the 1969 text, which it quotes only through Fischer''s retelling, and it links FSCs to the hierarchical theory in a single paragraph (§5.1).'
+title: 'Moral Responsibility and the Principle of Alternative Possibilities'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (The whole SEP entry "Moral Responsibility and the
+    Principle of Alternative Possibilities" by David Robb, first published
+    Thu 9 Jul 2020. There has been no substantive revision: the live entry
+    and the Fall 2026 archive edition carry the same header and copyright
+    line (2020, David Robb), and the entry is absent from the 2002, 2016 and
+    Spring 2020 archive editions, so it is new in 2020 and single-authored.
+    I read the preamble, §§1–5 with every subsection (1.1–1.4, 2.1–2.4,
+    3.1–3.4.3, 4.1–4.3.2, 5.1–5.3.3), about 14.4k words of body text, plus
+    the whole bibliography, Related Entries and Acknowledgments. The entry
+    has no notes page. The paywalled originals were not seen: Frankfurt 1969
+    and 1971, and Frankfurt 1982, 1983, 1994 and 2003 (these four are cited
+    but not in this batch's list). Everything below about what they say is
+    second-hand, per this entry.); the first NOTE on it, since it was seeded
+    from the abstract alone. Status set from the reading: Active.
+tags:
+- agency
+- ethics
+- metaphysics
+date: '2026-09-29'
+published: '2020-07-09'
+url: 'https://plato.stanford.edu/entries/alternative-possibilities/'
+first_author: 'Robb'
+keywords:
+- 'higher-order volitions'
+- 'Harry Frankfurt'
+implementations: []
+summary: >-
+  Robb (2020),
+  <https://plato.stanford.edu/entries/alternative-possibilities/>. PAP ("a
+  person is morally responsible for what she has done only if she could
+  have done otherwise") has no decisive positive argument: it is not
+  self-evident, and the moral arguments from fairness, OIC and the
+  W-defense cover blame at most. Frankfurt-style cases (FSCs) are the
+  strongest attack, because the factor that makes the act inevitable plays
+  no role in producing it. The entry lays out three defences of PAP: -
+  general-ability readings (PAP-general); - "flickers of freedom", which
+  Fischer answers with the robustness requirement; - the
+  Kane/Widerker/Ginet dilemma, answered by Fischer's causal-irrelevance
+  reply on the first horn and by Pereboom's buffer case, Hunt's blockage
+  and Mele & Robb 1998 on the second. Robb reports "not much consensus"
+  (§5). He treats the fall of PAP as re-energising compatibilism, with
+  Frankfurt's 1971 identification view and Fischer & Ravizza's guidance
+  control as the two replacement accounts.
+---
+
+# LIT-tmpc8iqi: Moral Responsibility and the Principle of Alternative Possibilities
+
+Robb (2020), *Stanford Encyclopedia of Philosophy (Edward N. Zalta & Uri Nodelman, eds.); first published 9 Jul 2020, no substantive revision to date; archived as https://plato.stanford.edu/archives/fall2026/entries/alternative-possibilities/* — <https://plato.stanford.edu/entries/alternative-possibilities/>
+
+## Standing in the record
+
+Filed on 2026-09-29 at the owner's request, as one of the texts assembled to represent Harry Frankfurt's
+account of higher-order volitions, whose 1971 statement is paywalled. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpqc71k](../notes.d/NOTE-tmpqc71k.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the standard, even-handed map of the PAP debate and the best available stand-in for Frankfurt 1969. It gives the recipe, both of Frankfurt's own cases, and the main defences and replies, with precise citations. It is a stand-in for the *argument's reception*, not for the 1969 text, which it quotes only through Fischer's retelling, and it links FSCs to the hierarchical theory in a single paragraph (§5.1).
