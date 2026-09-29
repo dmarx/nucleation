@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**87 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**89 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-23 citations in 14 files await a look; 6 other citations of it are acknowledged.
+24 citations in 15 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -46,23 +46,24 @@ A representation is determined by its kernel up to an orthogonal transformation,
 - [`record/notes.d/NOTE-301.md:88`](../../record/notes.d/NOTE-301.md)
 - [`record/notes.d/NOTE-302.md:135`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-303.md:108`](../../record/notes.d/NOTE-303.md)
+- [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 
 ### [THEORY-017](../../record/theory.d/THEORY-017.md) — Proposed
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-20 citations in 16 files await a look; 19 other citations of it are acknowledged.
+22 citations in 18 files await a look; 19 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
 - [`record/notes.d/NOTE-274.md:158`](../../record/notes.d/NOTE-274.md)
-- [`record/notes.d/NOTE-275.md:110`](../../record/notes.d/NOTE-275.md)
+- [`record/notes.d/NOTE-275.md:115`](../../record/notes.d/NOTE-275.md)
 - [`record/notes.d/NOTE-276.md:111`](../../record/notes.d/NOTE-276.md)
 - [`record/notes.d/NOTE-278.md:185`](../../record/notes.d/NOTE-278.md)
 - [`record/notes.d/NOTE-278.md:188`](../../record/notes.d/NOTE-278.md)
-- [`record/notes.d/NOTE-282.md:140`](../../record/notes.d/NOTE-282.md)
+- [`record/notes.d/NOTE-282.md:147`](../../record/notes.d/NOTE-282.md)
 - [`record/notes.d/NOTE-285.md:130`](../../record/notes.d/NOTE-285.md)
-- [`record/notes.d/NOTE-288.md:127`](../../record/notes.d/NOTE-288.md)
+- [`record/notes.d/NOTE-288.md:133`](../../record/notes.d/NOTE-288.md)
 - [`record/notes.d/NOTE-290.md:134`](../../record/notes.d/NOTE-290.md)
 - [`record/notes.d/NOTE-291.md:143`](../../record/notes.d/NOTE-291.md)
 - [`record/notes.d/NOTE-291.md:145`](../../record/notes.d/NOTE-291.md)
@@ -73,6 +74,8 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/notes.d/NOTE-302.md:133`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-302.md:134`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-304.md:88`](../../record/notes.d/NOTE-304.md)
+- [`record/notes.d/NOTE-307.md:116`](../../record/notes.d/NOTE-307.md)
+- [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 
 ### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
 
@@ -117,6 +120,25 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
+### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
+
+What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+
+12 citations in 9 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/literature.d/LIT-302.md:26`](../../record/literature.d/LIT-302.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-278.md:190`](../../record/notes.d/NOTE-278.md)
+- [`record/notes.d/NOTE-286.md:26`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:139`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-302.md:135`](../../record/notes.d/NOTE-302.md)
+- [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
+
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
 Hilbert Spaces and the Riesz Representation Theorem
@@ -134,24 +156,6 @@ Hilbert Spaces and the Riesz Representation Theorem
 - [`record/notes.d/NOTE-289.md:82`](../../record/notes.d/NOTE-289.md)
 - [`record/notes.d/NOTE-289.md:88`](../../record/notes.d/NOTE-289.md)
 - [`record/notes.d/NOTE-289.md:89`](../../record/notes.d/NOTE-289.md)
-
-### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
-
-What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
-
-11 citations in 8 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
-- [`record/literature.d/LIT-302.md:26`](../../record/literature.d/LIT-302.md)
-- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-278.md:190`](../../record/notes.d/NOTE-278.md)
-- [`record/notes.d/NOTE-286.md:26`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:139`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-302.md:135`](../../record/notes.d/NOTE-302.md)
 
 ### [THEORY-002](../../record/theory.d/THEORY-002.md) — Proposed
 
@@ -266,6 +270,38 @@ The Lattice Representation Hypothesis of Large Language Models
 - [`record/notes.d/NOTE-302.md:124`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-302.md:137`](../../record/notes.d/NOTE-302.md)
 
+### [LIT-328](../../record/literature.d/LIT-328.md) — Deferred
+
+Irreversibility and Heat Generation in the Computing Process
+
+9 citations in 4 files await a look.
+
+- [`record/literature.d/LIT-360.md:6`](../../record/literature.d/LIT-360.md)
+- [`record/literature.d/LIT-360.md:64`](../../record/literature.d/LIT-360.md)
+- [`record/notes.d/NOTE-295.md:93`](../../record/notes.d/NOTE-295.md)
+- [`record/notes.d/NOTE-296.md:89`](../../record/notes.d/NOTE-296.md)
+- [`record/notes.d/NOTE-296.md:98`](../../record/notes.d/NOTE-296.md)
+- [`record/notes.d/NOTE-310.md:109`](../../record/notes.d/NOTE-310.md)
+- [`record/notes.d/NOTE-310.md:118`](../../record/notes.d/NOTE-310.md)
+- [`record/notes.d/NOTE-310.md:126`](../../record/notes.d/NOTE-310.md)
+- [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
+
+### [LIT-332](../../record/literature.d/LIT-332.md) — Deferred
+
+Facing up to arrangements: face-count formulas for partitions of space by hyperplanes
+
+9 citations in 5 files await a look.
+
+- [`record/literature.d/LIT-359.md:25`](../../record/literature.d/LIT-359.md)
+- [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
+- [`record/notes.d/NOTE-272.md:134`](../../record/notes.d/NOTE-272.md)
+- [`record/notes.d/NOTE-279.md:127`](../../record/notes.d/NOTE-279.md)
+- [`record/notes.d/NOTE-311.md:164`](../../record/notes.d/NOTE-311.md)
+- [`record/notes.d/NOTE-313.md:113`](../../record/notes.d/NOTE-313.md)
+- [`record/notes.d/NOTE-313.md:117`](../../record/notes.d/NOTE-313.md)
+- [`record/notes.d/NOTE-313.md:122`](../../record/notes.d/NOTE-313.md)
+- [`record/notes.d/NOTE-313.md:147`](../../record/notes.d/NOTE-313.md)
+
 ### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
 
 In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
@@ -297,6 +333,21 @@ The Conditional Entropy Bottleneck
 - [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
 - [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
 
+### [LIT-236](../../record/literature.d/LIT-236.md) — Deferred
+
+Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms
+
+8 citations in 5 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-347.md:6`](../../record/literature.d/LIT-347.md)
+- [`record/literature.d/LIT-347.md:61`](../../record/literature.d/LIT-347.md)
+- [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
+- [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
+- [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
+- [`record/notes.d/NOTE-306.md:117`](../../record/notes.d/NOTE-306.md)
+- [`record/notes.d/NOTE-306.md:134`](../../record/notes.d/NOTE-306.md)
+- [`record/notes.d/NOTE-308.md:119`](../../record/notes.d/NOTE-308.md)
+
 ### [NOTE-206](../../record/notes.d/NOTE-206.md) — Skimmed
 
 Adler — Hilbert spaces and the Riesz representation theorem
@@ -312,19 +363,19 @@ Adler — Hilbert spaces and the Riesz representation theorem
 - [`record/notes.d/NOTE-286.md:189`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-286.md:190`](../../record/notes.d/NOTE-286.md)
 
-### [LIT-236](../../record/literature.d/LIT-236.md) — Deferred
+### [LIT-233](../../record/literature.d/LIT-233.md) — Deferred
 
-Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms
+Data-Dependent Generalization Bounds via Variable-Size Compressibility
 
-7 citations in 4 files await a look; 1 other citation of it is acknowledged.
+7 citations in 5 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/literature.d/LIT-347.md:6`](../../record/literature.d/LIT-347.md)
 - [`record/literature.d/LIT-347.md:61`](../../record/literature.d/LIT-347.md)
 - [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
-- [`record/notes.d/NOTE-306.md:109`](../../record/notes.d/NOTE-306.md)
-- [`record/notes.d/NOTE-306.md:126`](../../record/notes.d/NOTE-306.md)
+- [`record/notes.d/NOTE-306.md:118`](../../record/notes.d/NOTE-306.md)
+- [`record/notes.d/NOTE-308.md:119`](../../record/notes.d/NOTE-308.md)
 
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
@@ -380,19 +431,6 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
-
-### [LIT-233](../../record/literature.d/LIT-233.md) — Deferred
-
-Data-Dependent Generalization Bounds via Variable-Size Compressibility
-
-6 citations in 4 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-347.md:6`](../../record/literature.d/LIT-347.md)
-- [`record/literature.d/LIT-347.md:61`](../../record/literature.d/LIT-347.md)
-- [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
-- [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
-- [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
-- [`record/notes.d/NOTE-306.md:110`](../../record/notes.d/NOTE-306.md)
 
 ### [LIT-270](../../record/literature.d/LIT-270.md) — Rejected
 
@@ -453,7 +491,7 @@ The Role of the Information Bottleneck in Representation Learning
 - [`record/notes.d/NOTE-298.md:119`](../../record/notes.d/NOTE-298.md)
 - [`record/notes.d/NOTE-300.md:106`](../../record/notes.d/NOTE-300.md)
 - [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
-- [`record/notes.d/NOTE-306.md:111`](../../record/notes.d/NOTE-306.md)
+- [`record/notes.d/NOTE-306.md:119`](../../record/notes.d/NOTE-306.md)
 
 ### [LIT-331](../../record/literature.d/LIT-331.md) — Deferred
 
@@ -499,6 +537,28 @@ Algebraic Geometry and Statistical Learning Theory
 - [`record/notes.d/NOTE-283.md:178`](../../record/notes.d/NOTE-283.md)
 - [`record/notes.d/NOTE-287.md:125`](../../record/notes.d/NOTE-287.md)
 - [`record/notes.d/NOTE-287.md:150`](../../record/notes.d/NOTE-287.md)
+
+### [NOTE-274](../../record/notes.d/NOTE-274.md) — Skimmed
+
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+
+4 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-319.md:6`](../../record/literature.d/LIT-319.md)
+- [`record/literature.d/LIT-319.md:78`](../../record/literature.d/LIT-319.md)
+- [`record/notes.d/NOTE-307.md:117`](../../record/notes.d/NOTE-307.md)
+- [`record/notes.d/NOTE-309.md:115`](../../record/notes.d/NOTE-309.md)
+
+### [NOTE-291](../../record/notes.d/NOTE-291.md) — Skimmed
+
+Analysis of Boolean Functions
+
+4 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-346.md:6`](../../record/literature.d/LIT-346.md)
+- [`record/literature.d/LIT-346.md:74`](../../record/literature.d/LIT-346.md)
+- [`record/notes.d/NOTE-307.md:115`](../../record/notes.d/NOTE-307.md)
+- [`record/notes.d/NOTE-309.md:118`](../../record/notes.d/NOTE-309.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
@@ -558,7 +618,7 @@ Minimum Description Length and Generalization Guarantees for Representation Lear
 
 - [`record/notes.d/NOTE-298.md:119`](../../record/notes.d/NOTE-298.md)
 - [`record/notes.d/NOTE-300.md:106`](../../record/notes.d/NOTE-300.md)
-- [`record/notes.d/NOTE-306.md:111`](../../record/notes.d/NOTE-306.md)
+- [`record/notes.d/NOTE-306.md:119`](../../record/notes.d/NOTE-306.md)
 
 ### [LIT-253](../../record/literature.d/LIT-253.md) — Deferred
 
@@ -589,26 +649,6 @@ Communication in the Presence of Noise
 - [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
 - [`record/notes.d/NOTE-293.md:162`](../../record/notes.d/NOTE-293.md)
 - [`record/notes.d/NOTE-300.md:124`](../../record/notes.d/NOTE-300.md)
-
-### [LIT-328](../../record/literature.d/LIT-328.md) — Deferred
-
-Irreversibility and Heat Generation in the Computing Process
-
-3 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-295.md:93`](../../record/notes.d/NOTE-295.md)
-- [`record/notes.d/NOTE-296.md:89`](../../record/notes.d/NOTE-296.md)
-- [`record/notes.d/NOTE-296.md:98`](../../record/notes.d/NOTE-296.md)
-
-### [LIT-332](../../record/literature.d/LIT-332.md) — Deferred
-
-Facing up to arrangements: face-count formulas for partitions of space by hyperplanes
-
-3 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
-- [`record/notes.d/NOTE-272.md:134`](../../record/notes.d/NOTE-272.md)
-- [`record/notes.d/NOTE-279.md:127`](../../record/notes.d/NOTE-279.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -718,24 +758,6 @@ What is Structural Realism?
 
 - [`record/notes.d/NOTE-297.md:119`](../../record/notes.d/NOTE-297.md)
 - [`record/notes.d/NOTE-297.md:125`](../../record/notes.d/NOTE-297.md)
-
-### [NOTE-274](../../record/notes.d/NOTE-274.md) — Skimmed
-
-Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-319.md:6`](../../record/literature.d/LIT-319.md)
-- [`record/literature.d/LIT-319.md:78`](../../record/literature.d/LIT-319.md)
-
-### [NOTE-291](../../record/notes.d/NOTE-291.md) — Skimmed
-
-Analysis of Boolean Functions
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-346.md:6`](../../record/literature.d/LIT-346.md)
-- [`record/literature.d/LIT-346.md:74`](../../record/literature.d/LIT-346.md)
 
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
 
@@ -969,6 +991,22 @@ Detection, Estimation, and Modulation Theory, Part I
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
+
+### [LIT-359](../../record/literature.d/LIT-359.md) — Deferred
+
+Counting the faces of cut-up spaces
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-313.md:113`](../../record/notes.d/NOTE-313.md)
+
+### [NOTE-216](../../record/notes.d/NOTE-216.md) — Skimmed
+
+Variable-size compressibility generalization bounds
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-308.md:119`](../../record/notes.d/NOTE-308.md)
 
 ### [THEORY-003](../../record/theory.d/THEORY-003.md) — Proposed
 

@@ -42,7 +42,7 @@ summary: >-
 
 Russo & Zou had bounded the bias of adaptive data analysis by I(Λ_W(S);W), the information the output carries about the vector of empirical risks, for finite hypothesis classes. This paper:
 
-*Correction (2026-09-29, from [NOTE-tmpaxdi8](NOTE-tmpaxdi8.md), the reading of Russo & Zou, [LIT-tmp63648](../literature.d/LIT-tmp63648.md)):* I(Λ_W(S);W) is this paper's notation for Russo & Zou's quantity. Their own is I(T;φ): the information the selection φ carries about the vector T of m candidate statistics. Russo & Zou's Lemma 1 (chaining over adaptive steps) is the origin of eq. (36) here.
+*Correction (2026-09-29, from [NOTE-308](NOTE-308.md), the reading of Russo & Zou, [LIT-356](../literature.d/LIT-356.md)):* I(Λ_W(S);W) is this paper's notation for Russo & Zou's quantity. Their own is I(T;φ): the information the selection φ carries about the vector T of m candidate statistics. Russo & Zou's Lemma 1 (chaining over adaptive steps) is the origin of eq. (36) here.
 
 
 - **Extends that to arbitrary, including uncountable, hypothesis spaces.**

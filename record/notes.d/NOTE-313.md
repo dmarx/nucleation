@@ -1,6 +1,9 @@
 ---
+number: 313
 status: Read
-paper: LIT-tmp516fz
+formerly:
+- NOTE-tmpzpe87
+paper: LIT-355
 title: 'An Introduction to Hyperplane Arrangements'
 version: 1
 history:
@@ -44,7 +47,7 @@ summary: >-
   determined by its separating set (p. 89).
 ---
 
-# NOTE-tmpzpe87: An Introduction to Hyperplane Arrangements
+# NOTE-313: An Introduction to Hyperplane Arrangements
 
 ## Contribution
 
@@ -107,7 +110,7 @@ The notes are expository mathematics, with proofs by Möbius inversion in incide
 
 ## Connections
 
-The central theorem (Thm 2.5) is Zaslavsky's, from the unreachable Memoir [LIT-332](../literature.d/LIT-332.md) and the unreachable announcement [LIT-tmpgvzqz](../literature.d/LIT-tmpgvzqz.md) (Zaslavsky 1975, Bull. AMS). These notes are the readable proof the record lacks. The notes' matroid view (Prop. 3.6) and the Boolean-algebra case (L(A) ≅ Bₙ for the coordinate arrangement, Ex. 1.4) touch the Boolean side of the map's row 8. The Stone-duality side (Stone 1937 in this batch; [LIT-353](../literature.d/LIT-353.md)) is not mentioned. For the oriented-matroid vocabulary (topes, covectors) the notes point only to Björner, Las Vergnas, Sturmfels, White and Ziegler, *Oriented Matroids* (ref. [7]), which the record does not hold.
+The central theorem (Thm 2.5) is Zaslavsky's, from the unreachable Memoir [LIT-332](../literature.d/LIT-332.md) and the unreachable announcement [LIT-359](../literature.d/LIT-359.md) (Zaslavsky 1975, Bull. AMS). These notes are the readable proof the record lacks. The notes' matroid view (Prop. 3.6) and the Boolean-algebra case (L(A) ≅ Bₙ for the coordinate arrangement, Ex. 1.4) touch the Boolean side of the map's row 8. The Stone-duality side (Stone 1937 in this batch; [LIT-353](../literature.d/LIT-353.md)) is not mentioned. For the oriented-matroid vocabulary (topes, covectors) the notes point only to Björner, Las Vergnas, Sturmfels, White and Ziegler, *Oriented Matroids* (ref. [7]), which the record does not hold.
 
 ## Bearing on the record
 

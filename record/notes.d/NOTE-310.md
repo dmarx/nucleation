@@ -1,6 +1,9 @@
 ---
+number: 310
 status: Read
-paper: LIT-tmpsd4w3
+formerly:
+- NOTE-tmpshzuu
+paper: LIT-360
 title: 'Notes on Landauer''s principle, reversible computation, and Maxwell''s Demon'
 version: 1
 history:
@@ -37,7 +40,7 @@ summary: >-
   1, 4).
 ---
 
-# NOTE-tmpshzuu: Notes on Landauer's principle, reversible computation, and Maxwell's Demon
+# NOTE-310: Notes on Landauer's principle, reversible computation, and Maxwell's Demon
 
 ## Contribution
 

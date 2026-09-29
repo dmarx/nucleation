@@ -1,6 +1,9 @@
 ---
+number: 312
 status: Read
-paper: LIT-tmp9i9li
+formerly:
+- NOTE-tmpznozh
+paper: LIT-357
 title: 'Studies on the Foundation of Quantum Mechanics. I'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
   − P) + P = Q provided Q ⊃ P" of a classical identity (p. 780).
 ---
 
-# NOTE-tmpznozh: Studies on the Foundation of Quantum Mechanics. I
+# NOTE-312: Studies on the Foundation of Quantum Mechanics. I
 
 ## Contribution
 

@@ -1,6 +1,9 @@
 ---
+number: 309
 status: Read
-paper: LIT-tmpyzpb3
+formerly:
+- NOTE-tmphn9bf
+paper: LIT-363
 title: 'Understanding image representations by measuring their equivariance and equivalence'
 version: 1
 history:
@@ -43,7 +46,7 @@ summary: >-
   or both. It detects no group and uses no spectrum.
 ---
 
-# NOTE-tmphn9bf: Understanding image representations by measuring their equivariance and equivalence
+# NOTE-309: Understanding image representations by measuring their equivariance and equivalence
 
 ## Contribution
 

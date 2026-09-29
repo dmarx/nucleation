@@ -1,6 +1,9 @@
 ---
+number: 311
 status: Read
-paper: LIT-tmpctdnu
+formerly:
+- NOTE-tmpulz62
+paper: LIT-358
 title: 'Applications of the theory of Boolean rings to general topology'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
   theorem (Thm 83) and closed ideals of C(X) ↔ closed sets (Thm 85).
 ---
 
-# NOTE-tmpulz62: Applications of the theory of Boolean rings to general topology
+# NOTE-311: Applications of the theory of Boolean rings to general topology
 
 ## Contribution
 

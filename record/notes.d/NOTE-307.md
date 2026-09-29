@@ -1,6 +1,9 @@
 ---
+number: 307
 status: Read
-paper: LIT-tmpu9jwu
+formerly:
+- NOTE-tmp86hqi
+paper: LIT-362
 title: 'Learning the Irreducible Representations of Commutative Lie Groups'
 version: 1
 history:
@@ -43,7 +46,7 @@ summary: >-
   numbers. Spectral degeneracy plays no role.
 ---
 
-# NOTE-tmp86hqi: Learning the Irreducible Representations of Commutative Lie Groups
+# NOTE-307: Learning the Irreducible Representations of Commutative Lie Groups
 
 ## Contribution
 

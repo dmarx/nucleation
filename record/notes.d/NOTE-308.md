@@ -1,6 +1,9 @@
 ---
+number: 308
 status: Read
-paper: LIT-tmp63648
+formerly:
+- NOTE-tmpaxdi8
+paper: LIT-356
 title: 'How much does your data exploration overfit? Controlling bias via information usage'
 version: 1
 history:
@@ -38,7 +41,7 @@ summary: >-
   keeps the k-th answer's error at O(σk^{1/4}/√n) (Prop. 7).
 ---
 
-# NOTE-tmpaxdi8: How much does your data exploration overfit? Controlling bias via information usage
+# NOTE-308: How much does your data exploration overfit? Controlling bias via information usage
 
 ## Contribution
 
