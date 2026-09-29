@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpf1rrb
 paper: LIT-314
 title: 'Group Equivariant Convolutional Networks'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-29'
@@ -18,6 +18,11 @@ history:
     diagrams) survive only as labels, and I reconstructed them from the §4.4
     prose.). The first NOTE on this paper, which was seeded from its
     abstract alone.
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Correction added: the relayed Lenc & Vedaldi claim overstates that
+    paper, per its reading.
 date: '2026-09-29'
 summary: >-
   Group convolution (eqs. 10–11) replaces translation by the elements of a
@@ -103,6 +108,7 @@ Equivariance is structure preservation between "G-spaces" (§2, eq. 1). If the f
 - **Bronstein et al. ([LIT-319](../literature.d/LIT-319.md)).** GDL (§5.2) presents this paper's "transform + convolve" implementation as the discrete group-convolution recipe. Its §5.5 classes this approach as the "regular representation" route and contrasts it with the irreducible-representation route this paper does not take.
 - **Symmetry detection in its own references.** Three cited works are about finding symmetry in data or in trained networks rather than imposing it. The paper's own descriptions (§3) are:
   - Lenc & Vedaldi (2015) "show that the AlexNet CNN … trained on imagenet spontaneously learns representations that are equivariant to flips, scaling and rotation".
+    - *Correction (2026-09-29, from [NOTE-tmphn9bf](NOTE-tmphn9bf.md), the reading of Lenc & Vedaldi, [LIT-tmpyzpb3](../literature.d/LIT-tmpyzpb3.md)):* this relay overstates the source. "Rotation" there means 90°. For horizontal flips and scaling the network is already largely *invariant*, which is not learned equivariance, and the flip invariance may partly come from training augmentation. The deep-layer "equivariance" is judged by accuracy recovered through a learned layer, not by feature reconstruction.
   - Cohen & Welling (2014), "Learning the Irreducible Representations of Commutative Lie Groups", learn a group's irreps from data, and they describe disentangling as "a reduction of the operators T_g".
   - Cohen & Welling (2015) relate disentangling to decorrelation.
 

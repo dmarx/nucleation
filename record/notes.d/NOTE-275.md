@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp39uqu
 paper: LIT-306
 title: 'The logic of quantum mechanics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-29'
@@ -20,6 +20,11 @@ history:
     was skipped. I followed the Appendix's computation at the level of its
     steps (equations 1–29), not re-deriving each identity.). The first NOTE
     on this paper, which was seeded from its abstract alone.
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Correction added: Husimi 1937 uses the orthomodular law but does not
+    isolate it, per its reading.
 date: '2026-09-29'
 summary: >-
   The paper argues heuristically that the experimental propositions of a
@@ -134,5 +139,6 @@ Heuristic physical analysis (Part I), then lattice-theoretic axiomatics and clas
 ## Corrections to the seeded skim
 
 - Seeded from metadata; the text shows the summary is right except on one load-bearing point. The paper does *not* propose an orthomodular lattice. The replacement for distributivity it proposes is the modular identity L5 (§11: "If a ⊂ c, then a ∪ (b ∩ c) = (a ∪ b) ∩ c"). It notes that L5 holds for closed subspaces only in finite dimensions, and gives an explicit infinite-dimensional counterexample (§11). It therefore prefers von Neumann's continuous geometries over Hilbert space in infinite dimensions (§15, footnote 33). The word "orthomodular" does not appear. That law was isolated later (Husimi 1937; unverified here).
+  - *Correction (2026-09-29, from [NOTE-tmpznozh](NOTE-tmpznozh.md), the reading of Husimi 1937, [LIT-tmp9i9li](../literature.d/LIT-tmp9i9li.md)):* Husimi *uses* the orthomodular law as an unnamed proof step, justified as "traditional logic in any classical part" (p. 784). He never states or names it as an axiom, so "isolated" overstates him. The usual credit is a reading of his axioms.
 - Its identification of propositions with closed subspaces is not a theorem. It rests on a stated Postulate (§6): "The set-theoretical product of any two mathematical representatives of experimental propositions concerning a quantum-mechanical system, is itself the mathematical representative of an experimental proposition". The Postulate is motivated by the conjecture that all Hermitian operators, or all operators of a suitable ring M, are observables. Footnote 14 adds that closed subspaces correspond one-many to experimental propositions, but one-one to "physical qualities" (equivalence classes).
 - The paper was received 4 April 1936. The authors are Garrett Birkhoff (Society of Fellows, Harvard) and John von Neumann (Institute for Advanced Study). The seed's summary line calls him "Neumann", which is the Crossref sort form; the author is John von Neumann.

@@ -1,0 +1,66 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmphn9bf](../notes.d/NOTE-tmphn9bf.md)); worth reading as the origin of two standard probes of trained networks, fitted linear equivariance maps and model stitching, and as the closest prior art for "measuring symmetry in a trained network''s representation"; read it knowing that every transformation tested is named in advance and applied to the input, that each is fitted separately with no group structure, and that its deep-layer "equivariance" is judged by recovered task accuracy through a high-capacity learned layer.'
+title: 'Understanding image representations by measuring their equivariance and equivalence'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (Full text of arXiv 1411.5908 v2 (20 Jun 2015), from the
+    arXiv PDF, 9 pp.: abstract, §1 with related work, §2 (definitions of
+    equivariance, invariance and equivalence; the HOG and convolutional
+    examples; §2.1 structured-sparsity regression; §2.2 transformation
+    layers; §2.3 stitching layers), §3 (3.1 shallow/HOG equivariance; 3.2
+    deep/AlexNet equivariance and invariance; 3.3 equivalence; 3.4
+    structured-output regression), §4 summary, footnotes 1–5 and references
+    [1]–[35]. Nothing was skipped. Text extracted with PyMuPDF. Figures 1–9
+    are plots and filter or HOG visualisations that survive only as axis
+    labels and captions, so their content is taken from captions and prose;
+    Tables 1–5 survive and their values are quoted from the extraction. The
+    v2 PDF carries no venue line; the CVPR 2015 publication was verified on
+    Crossref. The extended IJCV 2018 version (doi 10.1007/s11263-018-1098-y,
+    same title) was not read. `published:` is the arXiv v1 date (21 Nov
+    2014). No anthology LIT entry exists (grep of record/literature.d for
+    the arXiv id and title: no hit); the anthology's reading of The Platonic
+    Representation Hypothesis (ANTH-LIT-458) names "Lenc and Vedaldi" in
+    prose.); the first NOTE on it, since it was seeded from the abstract
+    alone. Status set from the reading: Active.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-09-29'
+published: '2014-11-21'
+arxiv: '1411.5908'
+first_author: 'Lenc'
+keywords:
+- 'prior-art novelty map'
+implementations: []
+summary: >-
+  Lenc & Vedaldi (2014), arXiv:1411.5908. Given a fixed representation φ
+  (HOG, or AlexNet Conv1–Conv5 before ReLU) and a transformation g of the
+  input image chosen by the experimenter (flips, 90° and other rotations,
+  rescaling by 2^{±1/2}, affine warps), it fits a linear map M_g on the
+  representation space with φ(gx) ≈ M_g φ(x), by sparse or
+  structured-sparse regression or by a "transformation layer" trained
+  through the rest of the network, and fits "stitching layers" E with
+  φ′(x) ≈ E φ(x) between different networks. In AlexNet, learned M_g
+  recover most of the classifier's accuracy for vertical flips and 90°
+  rotations (top-1 error 0.75 uncompensated vs 0.43–0.51 and 0.44–0.53
+  across Conv1–Conv5, original 0.43), channels scored invariant rise to
+  99.61% for horizontal flips at Conv5, and Conv1–Conv2 are
+  interchangeable between AlexNet and networks trained on ImageNet, Places
+  or both. It detects no group and uses no spectrum.
+---
+
+# LIT-tmpyzpb3: Understanding image representations by measuring their equivariance and equivalence
+
+Lenc & Vedaldi (2014), *2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 991–999, doi 10.1109/CVPR.2015.7298701 (verified on Crossref; the arXiv v2 PDF carries no venue line); arXiv v1 21 Nov 2014, v2 20 Jun 2015 (the version read); extended version in International Journal of Computer Vision, pp. 456–476, published online 18 May 2018, doi 10.1007/s11263-018-1098-y (from Crossref; volume not checked; not read)* — arXiv:1411.5908
+
+## Standing in the record
+
+Filed on 2026-09-29 as a supplemental reading. The close readings of the owner's prior-art novelty map's
+references found the map's citation for this point wrong, or its source unreachable, and this work is the
+candidate replacement. `published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmphn9bf](../notes.d/NOTE-tmphn9bf.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the origin of two standard probes of trained networks, fitted linear equivariance maps and model stitching, and as the closest prior art for "measuring symmetry in a trained network's representation"; read it knowing that every transformation tested is named in advance and applied to the input, that each is fitted separately with no group structure, and that its deep-layer "equivariance" is judged by recovered task accuracy through a high-capacity learned layer.

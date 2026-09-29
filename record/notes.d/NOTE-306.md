@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpwmbz4
 paper: LIT-347
 title: 'Information-theoretic analysis of generalization capability of learning algorithms'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-29'
@@ -19,6 +19,11 @@ history:
     arithmetic of Corollary 2's instantiation. I did not read v1, which the
     acknowledgement says contained errors.). The first NOTE on this paper,
     which was seeded from its abstract alone.
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Correction added: the Russo–Zou quantity is stated in this paper's
+    notation, not theirs, per the reading of Russo & Zou.
 date: '2026-09-29'
 summary: >-
   If the loss ℓ(w,Z) is σ-subgaussian for every w, then the expected
@@ -36,6 +41,9 @@ summary: >-
 ## Contribution
 
 Russo & Zou had bounded the bias of adaptive data analysis by I(Λ_W(S);W), the information the output carries about the vector of empirical risks, for finite hypothesis classes. This paper:
+
+*Correction (2026-09-29, from [NOTE-tmpaxdi8](NOTE-tmpaxdi8.md), the reading of Russo & Zou, [LIT-tmp63648](../literature.d/LIT-tmp63648.md)):* I(Λ_W(S);W) is this paper's notation for Russo & Zou's quantity. Their own is I(T;φ): the information the selection φ carries about the vector T of m candidate statistics. Russo & Zou's Lemma 1 (chaining over adaptive steps) is the origin of eq. (36) here.
+
 
 - **Extends that to arbitrary, including uncountable, hypothesis spaces.**
 - **Moves to the simpler quantity I(S;W).** This is the information the output carries about the training set.

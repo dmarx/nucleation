@@ -1,0 +1,65 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmpznozh](../notes.d/NOTE-tmpznozh.md)); worth reading as the first derivation of the Birkhoff–von Neumann propositional calculus from operational premises (states, mean values, compatibility), and for its physical account of meet and join. It is not, however, a clean citation for "the orthomodular law". The law is an unnamed lemma resting on "classical logic within compatible sets", and the paper''s axiomatic target is modularity under a finite-chain assumption. A text that states orthomodularity as an axiom (e.g. Kalmbach, *Orthomodular Lattices*, 1983; unverified here) would settle row 1''s citation.'
+title: 'Studies on the Foundation of Quantum Mechanics. I'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (The full paper, *Proceedings of the Physico-Mathematical
+    Society of Japan*, 3rd series, 19 (1937), pp. 766–789 (24 pp.), from the
+    free PDF on J-STAGE (DOI 10.11429/ppmsj1919.19.0_766; the landing page
+    marks the full text world-readable). The PDF is a scan. Its OCR layer is
+    unusable, so I read every page from rendered page images, re-rendering
+    p. 780 at higher resolution to check the formulas. I read §1
+    Introduction; Part I "Logic, system of quantum mechanical propositions":
+    §2 (statistical propositions), §3 (specification of states), §4 (meet
+    and join), §5 (the modular identity, or the parallelogram law), a second
+    "§5" (algebra of quantities; the numbering is the paper's), §6
+    (conclusions to Part I); the closing Note; and Figs. 1–2. Nothing was
+    skipped. The "note at the end" promised in the p. 774 footnote is the
+    short Landau–Peierls note on p. 789. J-STAGE gives only the year, so
+    `published:` uses 1 January 1937. The paper was read at a meeting in
+    Osaka on 13 March 1937 and received on 31 May 1937. Part II was not
+    looked for. No anthology entry exists for this paper.); the first NOTE
+    on it, since it was seeded from the abstract alone. Status set from the
+    reading: Active.
+tags:
+- quantum-foundations
+- logic
+- mathematics
+date: '2026-09-29'
+published: '1937-01-01'
+doi: '10.11429/ppmsj1919.19.0_766'
+url: 'https://www.jstage.jst.go.jp/article/ppmsj1919/19/0/19_0_766/_article'
+first_author: 'Husimi'
+keywords:
+- 'prior-art novelty map'
+implementations: []
+summary: >-
+  Husimi (1937), DOI-10.11429/ppmsj1919.19.0_766. Husimi derives Birkhoff
+  and von Neumann's lattice axioms from statistical premises. Implication
+  is P̄ ≤ Q̄ in every state (and requires compatibility), negation is Q̄ =
+  1 − P̄, and compatible propositions obey classical logic. Meet is
+  obtained from "Ehrenfest's principle" (additivity of mean values) via
+  the top eigenvalue of aP + bQ (pp. 778–779), and the modular law,
+  equivalently the parallelogram law |P| + |Q| − |P∩Q| = |P∪Q|, is proved
+  under a finite-chain assumption. The orthomodular identity is used but
+  never named or stated as an axiom. It appears as the step "since we
+  admit traditional logic to any classical part … S + P∩Q = R" for R ⊃ P∩Q
+  (p. 784), and as the case "(Q − P) + P = Q provided Q ⊃ P" of a
+  classical identity (p. 780).
+---
+
+# LIT-tmp9i9li: Studies on the Foundation of Quantum Mechanics. I
+
+Husimi (1937), *Proceedings of the Physico-Mathematical Society of Japan, 3rd series (Nippon Sugaku-Buturigakkwai Kizi), 19:766–789, 1937 (read 13 March 1937 at Osaka; received 31 May 1937); J-STAGE open access* — DOI-10.11429/ppmsj1919.19.0_766
+
+## Standing in the record
+
+Filed on 2026-09-29 as a supplemental reading. The close readings of the owner's prior-art novelty map's
+references found the map's citation for this point wrong, or its source unreachable, and this work is the
+candidate replacement. `published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpznozh](../notes.d/NOTE-tmpznozh.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the first derivation of the Birkhoff–von Neumann propositional calculus from operational premises (states, mean values, compatibility), and for its physical account of meet and join. It is not, however, a clean citation for "the orthomodular law". The law is an unnamed lemma resting on "classical logic within compatible sets", and the paper's axiomatic target is modularity under a finite-chain assumption. A text that states orthomodularity as an axiom (e.g. Kalmbach, *Orthomodular Lattices*, 1983; unverified here) would settle row 1's citation.
