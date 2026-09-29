@@ -1,6 +1,9 @@
 ---
+number: 265
 status: Read
-paper: LIT-tmpkb8wx
+formerly:
+- NOTE-tmplypg9
+paper: LIT-295
 title: 'What Happens When Someone Acts?'
 version: 1
 history:
@@ -48,7 +51,7 @@ summary: >-
   agent's contribution (pp. 117–122).
 ---
 
-# NOTE-tmplypg9: What Happens When Someone Acts?
+# NOTE-265: What Happens When Someone Acts?
 
 ## Contribution
 

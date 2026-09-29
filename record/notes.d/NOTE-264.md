@@ -1,6 +1,9 @@
 ---
+number: 264
 status: Read
-paper: LIT-tmp5ihba
+formerly:
+- NOTE-tmp7h7gb
+paper: LIT-293
 title: 'I. Taking Ourselves Seriously; II. Getting It Right'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
   phrase and its apparatus is not restated.
 ---
 
-# NOTE-tmp7h7gb: I. Taking Ourselves Seriously; II. Getting It Right
+# NOTE-264: I. Taking Ourselves Seriously; II. Getting It Right
 
 ## Contribution
 

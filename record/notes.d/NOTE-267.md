@@ -1,6 +1,9 @@
 ---
+number: 267
 status: Read
-paper: LIT-tmpp0fcu
+formerly:
+- NOTE-tmpnik8h
+paper: LIT-296
 title: 'Personal Autonomy'
 version: 1
 history:
@@ -44,7 +47,7 @@ summary: >-
   replies (decisive commitment, then "satisfaction") get one footnote.
 ---
 
-# NOTE-tmpnik8h: Personal Autonomy
+# NOTE-267: Personal Autonomy
 
 ## Contribution
 

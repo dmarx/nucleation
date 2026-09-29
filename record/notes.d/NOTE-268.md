@@ -1,6 +1,9 @@
 ---
+number: 268
 status: Read
-paper: LIT-tmp50gev
+formerly:
+- NOTE-tmpqbmgk
+paper: LIT-292
 title: 'Identification and Identity'
 version: 1
 history:
@@ -53,7 +56,7 @@ summary: >-
   our identity (pp. 357–360).
 ---
 
-# NOTE-tmpqbmgk: Identification and Identity
+# NOTE-268: Identification and Identity
 
 ## Contribution
 

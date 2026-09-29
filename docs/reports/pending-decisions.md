@@ -42,6 +42,7 @@
 | 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 9 | 1 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 9 | 7 | Riesz representation theorem (Wikipedia) |
 | 2026-09-26 | Deferred | [LIT-250](../../record/literature.d/LIT-250.md) | 9 | 1 | Duality of Bures and Shape Distances with Implications for Comparing Neural Representations |
+| 2026-09-26 | Deferred | [LIT-117](../../record/literature.d/LIT-117.md) | 8 | 4 | Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 7 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 7 | 5 | Hilbert Spaces and the Riesz Representation Theorem |
@@ -54,11 +55,11 @@
 | 2026-09-26 | Deferred | [LIT-257](../../record/literature.d/LIT-257.md) | 6 | 1 | What Representational Similarity Measures Imply about Decodable Information |
 | 2026-09-26 | Deferred | [LIT-260](../../record/literature.d/LIT-260.md) | 6 | 1 | Kernel Mean Embedding of Distributions: A Review and Beyond |
 | 2026-09-26 | Deferred | [LIT-174](../../record/literature.d/LIT-174.md) | 5 | 0 | Having Their Say: Athletes and Entertainers and the Ethics of Speaking Out |
+| 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 5 | 5 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 | 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 5 | 4 | The Conditional Entropy Bottleneck |
 | 2026-09-26 | Deferred | [LIT-254](../../record/literature.d/LIT-254.md) | 5 | 0 | Similarity of Neural Network Representations Revisited |
 | 2026-09-26 | Deferred | [LIT-259](../../record/literature.d/LIT-259.md) | 5 | 0 | Noncommutative analysis, Multivariable spectral theory for operators in Hilbert space, Probability, and Unitary Representations |
 | 2026-09-26 | Deferred | [LIT-106](../../record/literature.d/LIT-106.md) | 4 | 3 | Brandom's Inferentialist Theory and the Meaning Entitlement Connection |
-| 2026-09-26 | Deferred | [LIT-117](../../record/literature.d/LIT-117.md) | 4 | 0 | Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action |
 | 2026-09-26 | Deferred | [LIT-129](../../record/literature.d/LIT-129.md) | 4 | 1 | Epistemic injustice in the clinical care of practitioners of Afro-Brazilian religions |
 | 2026-09-26 | Deferred | [LIT-180](../../record/literature.d/LIT-180.md) | 4 | 0 | Symmetry and Conservation Laws |
 | 2026-09-26 | Deferred | [LIT-235](../../record/literature.d/LIT-235.md) | 4 | 3 | When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis |
@@ -77,7 +78,6 @@
 | 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 2 | 0 | Philosophy of Mathematics and Natural Science |
 | 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
 | 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 2 | 1 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
-| 2026-09-26 | Deferred | [LIT-197](../../record/literature.d/LIT-197.md) | 2 | 2 | The Enigma Unveiled: How AI Compromises Free Will in Decision-Making |
 | 2026-09-26 | Deferred | [LIT-224](../../record/literature.d/LIT-224.md) | 2 | 1 | Shannon Information and Kolmogorov Complexity |
 | 2026-09-26 | Deferred | [LIT-225](../../record/literature.d/LIT-225.md) | 2 | 1 | Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity |
 | 2026-09-26 | Deferred | [LIT-229](../../record/literature.d/LIT-229.md) | 2 | 1 | Meaningful Information |

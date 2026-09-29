@@ -1,6 +1,9 @@
 ---
+number: 266
 status: Read
-paper: LIT-tmpv1svy
+formerly:
+- NOTE-tmpmvij5
+paper: LIT-297
 title: 'Autonomy'
 version: 1
 history:
@@ -37,7 +40,7 @@ summary: >-
   Agency* 2007, p. 5).
 ---
 
-# NOTE-tmpmvij5: Autonomy
+# NOTE-266: Autonomy
 
 ## Contribution
 

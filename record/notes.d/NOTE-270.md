@@ -1,6 +1,9 @@
 ---
+number: 270
 status: Read
-paper: LIT-tmp3f671
+formerly:
+- NOTE-tmpv3yek
+paper: LIT-291
 title: 'Compatibilism'
 version: 1
 history:
@@ -55,7 +58,7 @@ summary: >-
   read for it.
 ---
 
-# NOTE-tmpv3yek: Compatibilism
+# NOTE-270: Compatibilism
 
 ## Contribution
 

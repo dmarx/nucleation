@@ -1,6 +1,9 @@
 ---
+number: 269
 status: Read
-paper: LIT-tmpc8iqi
+formerly:
+- NOTE-tmpqc71k
+paper: LIT-294
 title: 'Moral Responsibility and the Principle of Alternative Possibilities'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
   control as the two replacement accounts.
 ---
 
-# NOTE-tmpqc71k: Moral Responsibility and the Principle of Alternative Possibilities
+# NOTE-269: Moral Responsibility and the Principle of Alternative Possibilities
 
 ## Contribution
 

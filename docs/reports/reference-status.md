@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**56 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**57 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -183,6 +183,18 @@ Kochen–Specker noncontextuality is measurement noncontextuality plus outcome d
 - [`record/notes.d/NOTE-252.md:206`](../../record/notes.d/NOTE-252.md)
 - [`record/notes.d/NOTE-253.md:225`](../../record/notes.d/NOTE-253.md)
 
+### [LIT-197](../../record/literature.d/LIT-197.md) — Deferred
+
+The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
+
+5 citations in 3 files await a look.
+
+- [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
+- [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
+- [`record/notes.d/NOTE-267.md:148`](../../record/notes.d/NOTE-267.md)
+- [`record/notes.d/NOTE-270.md:271`](../../record/notes.d/NOTE-270.md)
+- [`record/notes.d/NOTE-270.md:277`](../../record/notes.d/NOTE-270.md)
+
 ### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
 
 Contrastive Learning Is Spectral Clustering On Similarity Graph
@@ -213,11 +225,22 @@ Hilbert Spaces and the Riesz Representation Theorem
 
 5 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-256.md:51`](../../record/literature.d/LIT-256.md)
+- [`record/literature.d/LIT-256.md:53`](../../record/literature.d/LIT-256.md)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+
+### [LIT-117](../../record/literature.d/LIT-117.md) — Deferred
+
+Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action
+
+4 citations in 4 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-264.md:136`](../../record/notes.d/NOTE-264.md)
+- [`record/notes.d/NOTE-265.md:151`](../../record/notes.d/NOTE-265.md)
+- [`record/notes.d/NOTE-267.md:146`](../../record/notes.d/NOTE-267.md)
+- [`record/notes.d/NOTE-268.md:201`](../../record/notes.d/NOTE-268.md)
 
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
@@ -327,15 +350,6 @@ What is purely epistemic normativity, and why? A study in Wolfian epistemology
 
 - [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
 - [`record/notes.d/NOTE-160.md:108`](../../record/notes.d/NOTE-160.md)
-
-### [LIT-197](../../record/literature.d/LIT-197.md) — Deferred
-
-The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
-
-2 citations in 1 file await a look.
-
-- [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
-- [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
 
 ### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
 
