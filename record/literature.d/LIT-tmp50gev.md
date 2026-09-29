@@ -1,0 +1,78 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmpqbmgk](../notes.d/NOTE-tmpqbmgk.md)); worth reading as the sharpest critique of Frankfurt''s late (1990s) identification of autonomy with a volitional essence, and as a careful source for what Frankfurt said in the essays collected in *Necessity, Volition, and Love* (1999). It is not a survey of the 1971–1987 hierarchical account, which it summarizes in one paragraph and defers to "What Happens When Someone Acts?"; its positive view is stated "briefly" and explicitly deferred to other essays.'
+title: 'Identification and Identity'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (Full text of "Identification and Identity" as reprinted as
+    chapter 14 of J. David Velleman, *Self to Self: Selected Essays*
+    (Cambridge University Press, 2006), pp. 330–360, with all 74 footnotes.
+    The copy is the NYU Faculty Digital Archive scan (hdl 2451/34657, J.
+    David Velleman's collection): 33 image-only PDF pages with no text
+    layer. PDF p. 1 is the book's title page. PDF p. 2 is the copyright
+    page: "© J. David Velleman 2006 … First published 2006, Reprinted 2007 …
+    Transferred to digital printing 2009", ISBN 978-0-521-85429-0 hb /
+    978-0-521-67024-1 pb. PDF pp. 3–33 are book pp. 330–360. I read every
+    page visually from PyMuPDF renderings; there was no OCR. The pages
+    render upright without rotation. The chapter has four headed sections:
+    "Frankfurt's New Conception of the Self", "A Critique of Frankfurt's New
+    Conception", "A Digression on Identification" and "An Alternative
+    Conception of the Self". I did not see the original MIT Press printing.
+    The chapter's own first note says "This chapter originally appeared in
+    *The Contours of Agency: Essays on Themes from Harry Frankfurt*, eds.
+    Sarah Buss and Lee Overton (Cambridge, MA: MIT Press, 2001), 91–123".
+    Crossref gives the chapter as doi:10.7551/mitpress/2143.003.0007, pp.
+    91–123, issued 2002-06-06, and `published:` uses that date. Velleman's
+    *The Possibility of Practical Reason*, 2nd ed. (2015), ch. 2 n. 39,
+    independently cites the essay as "Self to Self, 330–60". Whether the
+    reprint differs from the 2002 text cannot be checked here. Note 1 says
+    only "reprinted by permission of MIT Press". But notes 29, 30, 56, 63
+    and 73 cross-refer to chapters "in the present volume", so the notes at
+    least were adapted for the collection.); the first NOTE on it, since it
+    was seeded from the abstract alone. Status set from the reading: Active.
+tags:
+- agency
+- identity
+date: '2026-09-29'
+published: '2002-06-06'
+doi: '10.7551/mitpress/2143.003.0007'
+url: 'http://hdl.handle.net/2451/34657'
+first_author: 'Velleman'
+keywords:
+- 'higher-order volitions'
+- 'Harry Frankfurt'
+implementations: []
+summary: >-
+  Velleman (2002), DOI-10.7551/mitpress/2143.003.0007. Velleman targets
+  Frankfurt's *later* conception of autonomy. On that conception, a person
+  acts autonomously only when his volitions derive from "the essential
+  character of his will", and that essence consists of volitional
+  necessities that are also the conditions of his personal identity.
+  Velleman argues against it on three grounds. Such an essence would
+  ground authenticity, not autonomy (the Winnicottian False Self is
+  inauthentic but over-controlled). Frankfurt offers no argument or
+  example that motivational change ends a person. And the ideal of
+  wholeheartedness, which cures ambivalence by extruding a desire from the
+  self, is a defensive fantasy: Freud's Rat Man was made ill by just such
+  a separation, and identifying with part of oneself in the ordinary,
+  imaginative sense is Sartrean bad faith. He replaces "the self" with an
+  *aspectual* reading of "self" as a marker of reflexivity. On that
+  reading autonomy is behaviour motivated partly by the understanding, the
+  part of us "with which we cannot help identifying", without its being
+  our identity (pp. 357–360).
+---
+
+# LIT-tmp50gev: Identification and Identity
+
+Velleman (2002), *In Sarah Buss & Lee Overton (eds.), The Contours of Agency: Essays on Themes from Harry Frankfurt (Cambridge, MA: MIT Press, 2002), pp. 91–123 (the chapter's own note says 2001); read as reprinted in J. David Velleman, Self to Self: Selected Essays (Cambridge University Press, 2006; reprinted 2007), ch. 14, pp. 330–360* — DOI-10.7551/mitpress/2143.003.0007
+
+## Standing in the record
+
+Filed on 2026-09-29 at the owner's request, as one of the texts assembled to represent Harry Frankfurt's
+account of higher-order volitions, whose 1971 statement is paywalled. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpqbmgk](../notes.d/NOTE-tmpqbmgk.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the sharpest critique of Frankfurt's late (1990s) identification of autonomy with a volitional essence, and as a careful source for what Frankfurt said in the essays collected in *Necessity, Volition, and Love* (1999). It is not a survey of the 1971–1987 hierarchical account, which it summarizes in one paragraph and defers to "What Happens When Someone Acts?"; its positive view is stated "briefly" and explicitly deferred to other essays.

@@ -1,0 +1,67 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmp7h7gb](../notes.d/NOTE-tmp7h7gb.md)); worth reading as the only openly available statement by Frankfurt himself of his mature view (identification, volitional unanimity, caring, love, volitional necessity); read it knowing that it is a lecture with no self-citation and no engagement with critics (Watson is never named, the regress is not discussed), and that it does not restate the 1971 apparatus, which must still be sourced second-hand.'
+title: 'I. Taking Ourselves Seriously; II. Getting It Right'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (Full text of both lectures as typeset in *The Tanner
+    Lectures on Human Values*, from the official PDF on the Tanner Lectures
+    site (36 PDF pp., with a text layer, extracted with PyMuPDF). It runs
+    from the title page ("Delivered at Stanford University April 14–16,
+    2004") and the author biography, through Lecture I "Taking Ourselves
+    Seriously", §§1–17 (pp. 169–185), and Lecture II "Getting It Right",
+    §§1–18 (pp. 185–202), to all footnotes (I: nn. 1–3; II: nn. 1–6).
+    Nothing was skipped. The printed pages run [169]–202, so the unnumbered
+    title page and biography are pp. 167–168 and the range 167–202 is
+    confirmed. The pages themselves do not print the volume number or year.
+    "vol. 25" comes from the PDF's internal title ("Tanner25_pp_i-214") and
+    "2005" from its creation date (2005-04-19); both are consistent with the
+    scoping report, but neither is printed in the text. The book version
+    (Stanford UP 2006, ed. Debra Satz, with commentaries) was not read.
+    `published:` is the first day of delivery.); the first NOTE on it, since
+    it was seeded from the abstract alone. Status set from the reading:
+    Active.
+tags:
+- agency
+- ethics
+- metaphysics
+- identity
+date: '2026-09-29'
+published: '2004-04-14'
+url: 'https://tannerlectures.org/wp-content/uploads/2024/06/frankfurt_2005.pdf'
+first_author: 'Frankfurt'
+keywords:
+- 'higher-order volitions'
+- 'Harry Frankfurt'
+implementations: []
+summary: >-
+  Frankfurt (2004),
+  <https://tannerlectures.org/wp-content/uploads/2024/06/frankfurt_2005.pdf>.
+  Frankfurt grounds practical reason and normativity in the will rather
+  than in reason. Reflexive self-division makes higher-order attitudes
+  possible (pp. 170–171). Identification, a largely default "willing
+  acceptance" (p. 173), turns a desire from "a problem" into a reason (p.
+  175). Free will is "volitional unanimity" between the governing desire
+  and higher-order volitions (p. 177), and caring is wanting to go on
+  wanting (p. 180). Final ends and their normative authority come from
+  love, "strictly volitional" (p. 196): its involuntary, wholehearted
+  "volitional necessities" are "irresistible, but … not coercive" (p. 197)
+  and are "the only legitimate authority" for our normative convictions
+  (p. 201). The 1971 wanton/person taxonomy is gestured at in a single
+  phrase and its apparatus is not restated.
+---
+
+# LIT-tmp5ihba: I. Taking Ourselves Seriously; II. Getting It Right
+
+Frankfurt (2004), *The Tanner Lectures on Human Values, delivered at Stanford University, 14–16 April 2004; printed in The Tanner Lectures on Human Values, vol. 25 (2005), pp. 167–202 (the volume number and year are from file metadata, not printed on the pages); landing page https://tannerlectures.org/lectures/i-taking-ourselves-seriously-ii-getting-it-right/; also published as Taking Ourselves Seriously and Getting It Right, ed. Debra Satz (Stanford University Press, 2006), which was not read* — <https://tannerlectures.org/wp-content/uploads/2024/06/frankfurt_2005.pdf>
+
+## Standing in the record
+
+Filed on 2026-09-29 at the owner's request, as one of the texts assembled to represent Harry Frankfurt's
+account of higher-order volitions, whose 1971 statement is paywalled. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmp7h7gb](../notes.d/NOTE-tmp7h7gb.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the only openly available statement by Frankfurt himself of his mature view (identification, volitional unanimity, caring, love, volitional necessity); read it knowing that it is a lecture with no self-citation and no engagement with critics (Watson is never named, the regress is not discussed), and that it does not restate the 1971 apparatus, which must still be sourced second-hand.

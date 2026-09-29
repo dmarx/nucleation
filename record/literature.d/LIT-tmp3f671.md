@@ -1,0 +1,81 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmpv3yek](../notes.d/NOTE-tmpv3yek.md)); worth reading as the most complete reachable second-hand statement of Frankfurt''s 1971 apparatus and of the two structural objections (higher-order alienation per Watson 1975; manipulation), with Frankfurt''s own bullet-biting quotation on manipulation (2002, p. 27). For wantons and persons, read the 2004–2015 revisions (e.g. the Fall 2019 archive edition). Its account of Frankfurt''s later replies (supplement §A) dates from 2009, omits "satisfaction" (1992), and dates wholeheartedness to 1994.'
+title: 'Compatibilism'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (The whole SEP entry "Compatibilism" in its current
+    version, the substantive revision of Tue 16 Apr 2024 (first published
+    Mon 26 Apr 2004), from the plato.stanford.edu HTML. The live entry and
+    the Fall 2026 archive edition have identical body text. I read the
+    preamble, §§1–4 with every subsection (1.1–1.3, 2.1–2.3, 3.1–3.3,
+    4.1–4.1.6, 4.2–4.2.2, 4.3, 4.4–4.4.4, 4.5), about 12.7k words; §4.2 is
+    about 1.7k words. I also read the whole bibliography, the Related
+    Entries and the Acknowledgments. The current revision has no notes page.
+    I read the whole of the supplement "Compatibilism: State of the Art"
+    (Introduction, A–F, G.1–G.5; about 14k words), because §4.2.2 refers to
+    its section A for Frankfurt's replies. **Authorship and text change by
+    revision, which I checked against the SEP's own archive editions.** The
+    2004 first version (Summer 2004 and Fall 2008 editions) and the revision
+    of 5 Oct 2009 (Winter 2014 edition) are copyright Michael McKenna alone.
+    The revision of 25 Feb 2015 (Spring 2015, Summer 2015 and Fall 2019
+    editions) is the first copyrighted to McKenna and D. Justin Coates. So
+    are the revisions of 26 Nov 2019, 1 Feb 2024 and 16 Apr 2024. There may
+    be revisions between these that I did not see. For comparison, I read
+    the 2015 revision's hierarchical section in full (§5.2–5.2.4) with its
+    notes 22–24, and I diffed the 2004 version's §5.3 against it; they are
+    nearly identical. Supplement §A in the 2009 revision is word-for-word
+    the current one except for section numbers. Its latest citation is 2008.
+    The paywalled originals were not seen: Frankfurt
+    1969/1971/1987/1992/1994/2002, Watson 1975/1987, Bratman
+    1996/1997/2003/2004/2007, Velleman 1992 in *Mind*. Everything below
+    about what they say is second-hand, per this entry.); the first NOTE on
+    it, since it was seeded from the abstract alone. Status set from the
+    reading: Active.
+tags:
+- agency
+- metaphysics
+- ethics
+date: '2026-09-29'
+published: '2004-04-26'
+url: 'https://plato.stanford.edu/entries/compatibilism/'
+first_author: 'McKenna'
+keywords:
+- 'higher-order volitions'
+- 'Harry Frankfurt'
+implementations: []
+summary: >-
+  McKenna & Coates (2004),
+  <https://plato.stanford.edu/entries/compatibilism/>. The entry sorts
+  compatibilism by which incompatibilist premise it denies: that free will
+  requires the ability to do otherwise, that determinism precludes it, or
+  that free will requires ultimate sourcehood. It argues that every "mesh"
+  compatibilism has the same weak point: its sufficient conditions
+  (hierarchies, reasons-responsive mechanisms, values) can be installed by
+  manipulation, so each must either show what is wrong with manipulation
+  cases or accept them. Its §4.2.1 is the fullest statement of Frankfurt
+  1971 in this batch. It covers first- and second-order desires, the will
+  as the "effective first-order desire" that moves one "all the way to
+  action" (1971, p. 84, Watson-1982 reprint pagination), the therapist's
+  mere second-order desire versus a second-order volition (pp. 84–5), the
+  unwilling and willing addicts, and "One acts of her own free will if and
+  only if her action issues from the will she wants." The current revision
+  has **dropped the wanton/person distinction**. The 2004–2015 revisions
+  had it ("passive bystanders to their wills", 1971, p. 89) and have to be
+  read for it.
+---
+
+# LIT-tmp3f671: Compatibilism
+
+McKenna & Coates (2004), *Stanford Encyclopedia of Philosophy (Edward N. Zalta & Uri Nodelman, eds.); first published 26 Apr 2004 (McKenna alone); substantive revisions seen: 5 Oct 2009 (McKenna alone), 25 Feb 2015 (McKenna & Coates), 26 Nov 2019, 1 Feb 2024 and 16 Apr 2024 (the version read); archived as https://plato.stanford.edu/archives/fall2026/entries/compatibilism/; the wanton/person text is in e.g. https://plato.stanford.edu/archives/fall2019/entries/compatibilism/ (the 2015 revision); with supplement "Compatibilism: State of the Art" (https://plato.stanford.edu/entries/compatibilism/supplement.html)* — <https://plato.stanford.edu/entries/compatibilism/>
+
+## Standing in the record
+
+Filed on 2026-09-29 at the owner's request, as one of the texts assembled to represent Harry Frankfurt's
+account of higher-order volitions, whose 1971 statement is paywalled. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpv3yek](../notes.d/NOTE-tmpv3yek.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the most complete reachable second-hand statement of Frankfurt's 1971 apparatus and of the two structural objections (higher-order alienation per Watson 1975; manipulation), with Frankfurt's own bullet-biting quotation on manipulation (2002, p. 27). For wantons and persons, read the 2004–2015 revisions (e.g. the Fall 2019 archive edition). Its account of Frankfurt's later replies (supplement §A) dates from 2009, omits "satisfaction" (1992), and dates wholeheartedness to 1994.

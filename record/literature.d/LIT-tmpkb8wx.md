@@ -1,0 +1,73 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmplypg9](../notes.d/NOTE-tmplypg9.md)); worth reading as the canonical statement of the "disappearing agent" objection to the causal theory of action and as the sharpest short critique of Frankfurt''s hierarchy as a reduction of agent-causation. Its positive proposal is a sketch whose content Velleman revises in the same book: he later says the motive is not a de dicto desire for reasons, and relabels "full-blooded action" as action vs. activity.'
+title: 'What Happens When Someone Acts?'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (The full text of "What Happens When Someone Acts?" as
+    reprinted as chapter 5 of J. David Velleman, *The Possibility of
+    Practical Reason*, 2nd ed. (Ann Arbor: Maize Books / Michigan
+    Publishing, 2015), pp. 100–123. The source is the open-access PDF served
+    by fulcrum.org, 372 PDF pp.; the chapter is PDF pp. 107–130. The PDF has
+    a text layer, and I extracted it with PyMuPDF. I read every page of the
+    chapter, including all 39 footnotes. The copyright page reads "Copyright
+    © 2015 by J. David Velleman. Some rights reserved", and the book is
+    licensed CC BY-NC-ND 3.0 United States. The ISBN is 978-1-60785-342-8
+    (paper), and the online edition's DOI is 10.3998/maize.13240734.0001.001
+    (Crossref: Maize Books, 2015). I also read the passages of the book's
+    two introductions that comment on this chapter: ch. 1, "Introduction to
+    the Second Edition", p. 9; and ch. 2, "Introduction" (from the first
+    edition, OUP 2000), pp. 11–12 n. 4, pp. 23–27 with nn. 18–21, n. 27 and
+    n. 35. I did **not** see the *Mind* printing, so I give page references
+    to the reprint. I did not read the rest of the book, including ch. 11,
+    "The Way of the Wanton", which the chapter cites for Velleman's later
+    reading of Frankfurt. The original citation, *Mind* 101(403):461–481,
+    1992, doi:10.1093/mind/101.403.461, is confirmed by Crossref and by the
+    chapter's own note 1. Crossref gives only the year. The month in
+    `published:` is inferred from the issue number (403 = July 1992 in
+    *Mind*'s quarterly numbering) and is not confirmed.); the first NOTE on
+    it, since it was seeded from the abstract alone. Status set from the
+    reading: Active.
+tags:
+- agency
+- metaphysics
+date: '2026-09-29'
+published: '1992-07-01'
+doi: '10.1093/mind/101.403.461'
+url: 'https://www.fulcrum.org/ebooks/12579v49t/download'
+first_author: 'Velleman'
+keywords:
+- 'higher-order volitions'
+- 'Harry Frankfurt'
+implementations: []
+summary: >-
+  Velleman (1992), DOI-10.1093/mind/101.403.461. Velleman argues that the
+  "standard story" of action (desire + belief cause an intention, which
+  causes movement) leaves the agent out. It fails even when every causal
+  link is normal: his example is an intention to end a friendship, formed
+  and executed without him (p. 104). Frankfurt's hierarchical remedy
+  cannot fix it either. Any mental item picked out without presupposing
+  the agent's participation (a second-order desire, a Watsonian value, a
+  "decisive commitment") is one the agent can be alienated from. Any item
+  defined so as to guarantee participation begs the question of
+  agent-causation (pp. 112–116). His alternative is to look for what is
+  *functionally identical* to the agent, not what the agent identifies
+  with. That can only be a motive always behind and never merely in front
+  of critical reflection: the desire to act in accordance with reasons.
+  Its reinforcing force is the agent's contribution (pp. 117–122).
+---
+
+# LIT-tmpkb8wx: What Happens When Someone Acts?
+
+Velleman (1992), *Mind 101(403):461–481 (1992); read as reprinted in The Possibility of Practical Reason, 2nd ed. (Maize Books/Michigan Publishing, 2015; CC BY-NC-ND 3.0 US; doi:10.3998/maize.13240734.0001.001), ch. 5, pp. 100–123* — DOI-10.1093/mind/101.403.461
+
+## Standing in the record
+
+Filed on 2026-09-29 at the owner's request, as one of the texts assembled to represent Harry Frankfurt's
+account of higher-order volitions, whose 1971 statement is paywalled. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmplypg9](../notes.d/NOTE-tmplypg9.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the canonical statement of the "disappearing agent" objection to the causal theory of action and as the sharpest short critique of Frankfurt's hierarchy as a reduction of agent-causation. Its positive proposal is a sketch whose content Velleman revises in the same book: he later says the motive is not a de dicto desire for reasons, and relabels "full-blooded action" as action vs. activity.

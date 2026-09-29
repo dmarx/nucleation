@@ -1,0 +1,62 @@
+---
+status: Active
+status_note: 'read in full 2026-09-29 ([NOTE-tmpmvij5](../notes.d/NOTE-tmpmvij5.md)); worth reading as the clearest short, named statement of the standard objections to the hierarchical model (manipulation, regress, ab initio) and of the feminist and relational critiques of wholeheartedness; it is thin and dated on Frankfurt''s later view (no satisfaction, caring or love), gives Bratman one sentence, and cites Frankfurt only by pages of the 1988 collection.'
+title: 'Autonomy'
+version: 2
+history:
+- version: 2
+  date: '2026-09-29'
+  note: >-
+    Read in full (The IEP article "Autonomy" by Jane Dryden (Mount Allison
+    University), as served by iep.utm.edu, about 7.5k words of body text. I
+    read the preamble, §1 (a–d), §2 (a.i–iii, b), §3 (a–b), §4 (a–b), all of
+    §5 References and Further Reading, and Author Information. The page
+    prints no date. The WordPress record behind the page (post 10419) gives
+    a post date of 2010-11-21 and a last modification of 2013-12-25. The
+    earliest Wayback capture I found is 2010-11-25. So `published:` is the
+    CMS post date, and it is unverified whether an earlier version existed
+    before the IEP's move to WordPress; the Wayback CDX search was offline,
+    so I could not check. I read the current text only. None of the
+    paywalled originals were seen: Frankfurt 1971/1976/1987/1992/1994,
+    Watson 1975, Bratman 1996/2004. Everything below about what they say is
+    second-hand, per this entry.); the first NOTE on it, since it was seeded
+    from the abstract alone. Status set from the reading: Active.
+tags:
+- agency
+- ethics
+- society-and-governance
+date: '2026-09-29'
+published: '2010-11-21'
+url: 'https://iep.utm.edu/autonomy/'
+first_author: 'Dryden'
+keywords:
+- 'higher-order volitions'
+- 'Harry Frankfurt'
+implementations: []
+summary: >-
+  Dryden (2010), <https://iep.utm.edu/autonomy/>. The article surveys
+  personal autonomy from Plato to relational autonomy and bioethics. Its
+  core (§2.a.i–ii) states the hierarchical view: an agent is autonomous
+  with respect to an action iff her first-order desire is "sanctioned by a
+  second-order volition", with the origin of that volition irrelevant. It
+  then lists four named objections: Manipulation (answered historically by
+  Christman 1991), Regress/Incompleteness (cited to Watson 1975), Ab
+  Initio, and an unjustified priority of higher orders (Thalberg;
+  Friedman's integration model). It follows Frankfurt's reply only through
+  "Identification and Wholeheartedness" (decisive commitment made without
+  reservation, pp. 168–175 of the 1988 collection). Bratman gets one
+  sentence (plans partly constitute identity, *Structures of Agency* 2007,
+  p. 5).
+---
+
+# LIT-tmpv1svy: Autonomy
+
+Dryden (2010), *Internet Encyclopedia of Philosophy (ISSN 2161-0002); undated on the page; WordPress post date 2010-11-21, last modified 2013-12-25; Wayback capture 2010-11-25* — <https://iep.utm.edu/autonomy/>
+
+## Standing in the record
+
+Filed on 2026-09-29 at the owner's request, as one of the texts assembled to represent Harry Frankfurt's
+account of higher-order volitions, whose 1971 statement is paywalled. `published:` is the first appearance
+([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpmvij5](../notes.d/NOTE-tmpmvij5.md) is the close reading of 2026-09-29, and it placed the work: **Active** — worth reading as the clearest short, named statement of the standard objections to the hierarchical model (manipulation, regress, ab initio) and of the feminist and relational critiques of wholeheartedness; it is thin and dated on Frankfurt's later view (no satisfaction, caring or love), gives Bratman one sentence, and cites Frankfurt only by pages of the 1988 collection.
