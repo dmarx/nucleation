@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Types and Ontology'
+version: 1
+tags:
+- philosophy-of-language
+- logic
+- metaphysics
+date: '2026-09-29'
+published: '1963-07-01'
+doi: '10.2307/2183167'
+first_author: 'Sommers'
+keywords:
+- 'category mistake'
+- 'sense and nonsense'
+- 'type theory'
+- 'predicability'
+- 'tree rule'
+- 'ontology'
+implementations: []
+summary: >-
+  Sommers (1963), DOI-10.2307/2183167. Develops a theory of categories via the span of predicates over things, arguing that predicability relations must form a tree (hierarchy) and using category mistakes to diagnose type boundaries (per standard description; abstract not retrieved).
+---
+
+# LIT-tmp4pmqi: Types and Ontology
+
+Fred Sommers (1963), *The Philosophical Review 72(3):327-363* — DOI-10.2307/2183167
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 5: 'Sommers's sortal trees' — the tree structure of type/category boundaries behind non-sequitur as type error.
+It is seeded from metadata and published descriptions and has not been read here.
+
+Identification notes: Companion 'A Program for Coherence' (Phil. Rev. 1964, doi 10.2307/2183306) not registered.
+
+`Deferred` because nobody has read it closely here yet, not on merit.

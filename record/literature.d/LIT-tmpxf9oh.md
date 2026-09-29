@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Categories and De Interpretatione (Clarendon Aristotle Series, trans. and notes J. L. Ackrill)'
+version: 1
+tags:
+- logic
+- philosophy-of-language
+- metaphysics
+date: '2026-09-29'
+published: '1963-07-03'
+doi: '10.1093/actrade/9780198720867.book.1'
+first_author: 'Aristotle'
+keywords:
+- 'opposition'
+- 'contraries'
+- 'contradictories'
+- 'privation'
+- 'square of opposition'
+- 'categories'
+implementations: []
+summary: >-
+  Aristotle & (translator) (1963), DOI-10.1093/actrade/9780198720867.book.1. Aristotle's Categories, whose ch. 10 classifies four kinds of opposites (relatives, contraries, privation/possession, affirmation/negation), and De Interpretatione, whose ch. 7 distinguishes contrary from contradictory statements; here in Ackrill's standard translation with commentary (per standard description).
+---
+
+# LIT-tmpxf9oh: Categories and De Interpretatione (Clarendon Aristotle Series, trans. and notes J. L. Ackrill)
+
+Aristotle, J. L. Ackrill (translator) (1963), *Clarendon Press / Oxford University Press (Clarendon Aristotle Series)* — DOI-10.1093/actrade/9780198720867.book.1
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 4: the classical source for the contrary/contradictory distinction the map attributes to 'Aristotle'.
+It is seeded from metadata and published descriptions and has not been read here.
+
+The map names this reference only loosely; this entry is one reasonable reading of it, and the choice is the owner's to revise.
+
+Identification notes: Map says only 'Aristotle'. Proposed: Categories ch. 10 (11b15ff) + De Interpretatione ch. 7 (17b), which Ackrill's single volume covers — one entry covers both loci. Date is the 1963 Ackrill edition (the works are c. 4th c. BCE); owner decides whether the record wants the translation or a free text (e.g. MIT Classics / Perseus URL) instead. Alternative: Metaphysics Iota 4 (contrariety as maximal difference), not proposed.
+
+`Deferred` because nobody has read it closely here yet, not on merit.

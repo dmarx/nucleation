@@ -1,0 +1,33 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'The approximation of one matrix by another of lower rank'
+version: 1
+tags:
+- mathematics
+- representation-learning
+date: '2026-09-29'
+published: '1936-09-01'
+doi: '10.1007/BF02288367'
+first_author: 'Eckart'
+keywords:
+- 'low-rank approximation'
+- 'singular value decomposition'
+- 'Eckart–Young theorem'
+- 'least squares'
+implementations: []
+summary: >-
+  Eckart & Young (1936), DOI-10.1007/BF02288367. Per standard description: shows that the best least-squares (Frobenius) approximation of a matrix by one of lower rank is obtained by truncating its singular value decomposition.
+---
+
+# LIT-tmplzjmo: The approximation of one matrix by another of lower rank
+
+Carl Eckart, Gale Young (1936), *Psychometrika 1(3):211–218* — DOI-10.1007/BF02288367
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 10: owner of the unique-factorization/low-rank machinery the Universal Convergence argument leans on.
+It is seeded from metadata and published descriptions and has not been read here.
+
+`Deferred` because nobody has read it closely here yet, not on merit.

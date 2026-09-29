@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Mathematical Methods of Statistics'
+version: 1
+tags:
+- probabilistic-modeling
+- mathematics
+date: '2026-09-29'
+published: '1946-01-01'
+doi: '10.1515/9781400883868'
+first_author: 'Cramér'
+keywords:
+- 'Cramér-Rao-bound'
+- 'mathematical-statistics'
+- 'estimation-theory'
+- 'measure-theoretic-probability'
+implementations: []
+summary: >-
+  Cramér (1946), DOI-10.1515/9781400883868. Per publisher description: a foundational treatise building mathematical statistics on measure-theoretic probability; it contains Cramér's independent derivation of the variance lower bound for estimators (the Cramér half of Cramér–Rao).
+---
+
+# LIT-tmp9auvi: Mathematical Methods of Statistics
+
+Harald Cramér (1946), *Princeton University Press (Princeton Mathematical Series 9)* — DOI-10.1515/9781400883868
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 14: the Cramér–Rao bound (Cramér's half).
+It is seeded from metadata and published descriptions and has not been read here.
+Only the year of first publication is known; `published:` uses 1 January.
+
+Identification notes: DOI is Princeton's digital edition (Crossref dates it 1946). Registering both halves of "Cramér–Rao".
+
+`Deferred` because nobody has read it closely here yet, not on merit.

@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Facing up to arrangements: face-count formulas for partitions of space by hyperplanes'
+version: 1
+tags:
+- mathematics
+date: '2026-09-29'
+published: '1975-01-01'
+doi: '10.1090/memo/0154'
+first_author: 'Zaslavsky'
+keywords:
+- 'hyperplane arrangements'
+- 'face counting'
+- 'characteristic polynomial'
+- 'Möbius function'
+- 'regions'
+implementations: []
+summary: >-
+  Zaslavsky (1975), DOI-10.1090/memo/0154. Per standard description: counts the regions (and faces) into which a hyperplane arrangement divides space via the Möbius function / characteristic polynomial of its intersection lattice (Zaslavsky's theorem).
+---
+
+# LIT-tmpneuz9: Facing up to arrangements: face-count formulas for partitions of space by hyperplanes
+
+Thomas Zaslavsky (1975), *Memoirs of the American Mathematical Society 1(154)* — DOI-10.1090/memo/0154
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 8: oriented-matroid/arrangement owner of "Xiong's regions are topes".
+It is seeded from metadata and published descriptions and has not been read here.
+Only the year of first publication is known; `published:` uses 1 January.
+
+Identification notes: Mathematics tag only; arrangement theory has no finer tag.
+
+`Deferred` because nobody has read it closely here yet, not on merit.

@@ -1,0 +1,36 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Irreversibility and Heat Generation in the Computing Process'
+version: 1
+tags:
+- information-theory
+- natural-sciences
+date: '2026-09-29'
+published: '1961-07-01'
+doi: '10.1147/rd.53.0183'
+first_author: 'Landauer'
+keywords:
+- 'Landauer-principle'
+- 'logical-irreversibility'
+- 'heat-dissipation'
+- 'kT-ln-2'
+- 'thermodynamics-of-computation'
+implementations: []
+summary: >-
+  Landauer (1961), DOI-10.1147/rd.53.0183. Argues that logically irreversible operations (e.g. erasure) in computation must dissipate at least about kT ln 2 of heat per bit, tying the thermodynamic cost of computing to information loss.
+---
+
+# LIT-tmpk67ex: Irreversibility and Heat Generation in the Computing Process
+
+Rolf Landauer (1961), *IBM Journal of Research and Development 5(3):183–191* — DOI-10.1147/rd.53.0183
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 13 must-cite: the k_B T ln 2 floor attached to predicate cost.
+It is seeded from metadata and published descriptions and has not been read here.
+
+Identification notes: DOI verified via Crossref (July 1961 issue).
+
+`Deferred` because nobody has read it closely here yet, not on merit.
