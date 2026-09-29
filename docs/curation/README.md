@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [29 Sep 21:50 — The owner's prior-art novelty map, registered in full](2026-09.md#the-owners-prior-art-novelty-map-registered-in-full)
 - [29 Sep 20:09 — Frankfurt's account of higher-order volitions, assembled from seven texts](2026-09.md#frankfurts-account-of-higher-order-volitions-assembled-from-seven-texts)
 - [28 Sep 02:56 — Sen's capability approach, assembled from nine texts](2026-09.md#sens-capability-approach-assembled-from-nine-texts)
 - [27 Sep 21:57 — Carù's 2019 thesis read: nothing repaired](2026-09.md#carùs-2019-thesis-read-nothing-repaired)
@@ -51,8 +52,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-42 entries across 1 book, newest first.
+43 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 42 | 2026-09-25 | 2026-09-29 |
+| [2026-09](2026-09.md) | 43 | 2026-09-25 | 2026-09-29 |

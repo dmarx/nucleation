@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**57 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**60 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -54,6 +54,23 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-252.md:206`](../../record/notes.d/NOTE-252.md)
 - [`record/notes.d/NOTE-253.md:225`](../../record/notes.d/NOTE-253.md)
 
+### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
+
+Gelfand–Naimark–Segal construction (Wikipedia)
+
+10 citations in 7 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-302.md:39`](../../record/literature.d/LIT-302.md)
+- [`record/literature.d/LIT-313.md:40`](../../record/literature.d/LIT-313.md)
+- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
+- [`record/notes.d/NOTE-248.md:187`](../../record/notes.d/NOTE-248.md)
+- [`record/notes.d/NOTE-248.md:227`](../../record/notes.d/NOTE-248.md)
+- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
+
 ### [LIT-242](../../record/literature.d/LIT-242.md) — Deferred
 
 On the Stepwise Nature of Self-Supervised Learning
@@ -86,20 +103,20 @@ In both formalisms of contextuality, classicality is the existence of a nonnegat
 - [`record/notes.d/NOTE-253.md:223`](../../record/notes.d/NOTE-253.md)
 - [`record/notes.d/NOTE-254.md:289`](../../record/notes.d/NOTE-254.md)
 
-### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
+### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
 
-Gelfand–Naimark–Segal construction (Wikipedia)
+Riesz representation theorem (Wikipedia)
 
-8 citations in 5 files await a look; 2 other citations of it are acknowledged.
+8 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:77`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:96`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-247.md:132`](../../record/notes.d/NOTE-247.md)
-- [`record/notes.d/NOTE-248.md:187`](../../record/notes.d/NOTE-248.md)
-- [`record/notes.d/NOTE-248.md:227`](../../record/notes.d/NOTE-248.md)
-- [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
+- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-326.md:38`](../../record/literature.d/LIT-326.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/theory.d/THEORY-009.md:22`](../../record/theory.d/THEORY-009.md)
+- [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
+- [`record/theory.d/THEORY-009.md:45`](../../record/theory.d/THEORY-009.md)
 
 ### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
 
@@ -115,20 +132,6 @@ The contextual fraction as a measure of contextuality
 - [`record/notes.d/NOTE-252.md:205`](../../record/notes.d/NOTE-252.md)
 - [`record/notes.d/NOTE-253.md:224`](../../record/notes.d/NOTE-253.md)
 - [`record/notes.d/NOTE-254.md:273`](../../record/notes.d/NOTE-254.md)
-
-### [LIT-230](../../record/literature.d/LIT-230.md) — Deferred
-
-Riesz representation theorem (Wikipedia)
-
-7 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
-- [`record/theory.d/THEORY-009.md:22`](../../record/theory.d/THEORY-009.md)
-- [`record/theory.d/THEORY-009.md:41`](../../record/theory.d/THEORY-009.md)
-- [`record/theory.d/THEORY-009.md:45`](../../record/theory.d/THEORY-009.md)
 
 ### [LIT-264](../../record/literature.d/LIT-264.md) — Deferred
 
@@ -156,6 +159,19 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
+
+### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
+
+Hilbert Spaces and the Riesz Representation Theorem
+
+6 citations in 5 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-256.md:53`](../../record/literature.d/LIT-256.md)
+- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-326.md:38`](../../record/literature.d/LIT-326.md)
+- [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
@@ -195,6 +211,18 @@ The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 - [`record/notes.d/NOTE-270.md:271`](../../record/notes.d/NOTE-270.md)
 - [`record/notes.d/NOTE-270.md:277`](../../record/notes.d/NOTE-270.md)
 
+### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
+
+The Conditional Entropy Bottleneck
+
+5 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-246.md:54`](../../record/literature.d/LIT-246.md)
+- [`record/literature.d/LIT-338.md:38`](../../record/literature.d/LIT-338.md)
+- [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
+- [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
+- [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
+
 ### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
 
 Contrastive Learning Is Spectral Clustering On Similarity Graph
@@ -219,17 +247,17 @@ Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Loca
 - [`record/theory.d/THEORY-007.md:43`](../../record/theory.d/THEORY-007.md)
 - [`record/theory.d/THEORY-007.md:56`](../../record/theory.d/THEORY-007.md)
 
-### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
+### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
 
-Hilbert Spaces and the Riesz Representation Theorem
+Kochen-Specker contextuality
 
-5 citations in 4 files await a look; 2 other citations of it are acknowledged.
+5 citations in 4 files await a look; 11 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-256.md:53`](../../record/literature.d/LIT-256.md)
-- [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:76`](../../record/literature.d/LIT-262.md)
-- [`record/notes.d/NOTE-224.md:34`](../../record/notes.d/NOTE-224.md)
-- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/literature.d/LIT-298.md:34`](../../record/literature.d/LIT-298.md)
+- [`record/literature.d/LIT-298.md:38`](../../record/literature.d/LIT-298.md)
+- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
+- [`record/notes.d/NOTE-249.md:173`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:203`](../../record/notes.d/NOTE-250.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Deferred
 
@@ -252,17 +280,6 @@ Computational Functionalism for the Deep Learning Era
 - [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
 - [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 - [`record/notes.d/NOTE-242.md:163`](../../record/notes.d/NOTE-242.md)
-
-### [LIT-226](../../record/literature.d/LIT-226.md) — Deferred
-
-The Conditional Entropy Bottleneck
-
-4 citations in 3 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-246.md:54`](../../record/literature.d/LIT-246.md)
-- [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
-- [`record/theory.d/THEORY-006.md:20`](../../record/theory.d/THEORY-006.md)
-- [`record/theory.d/THEORY-006.md:35`](../../record/theory.d/THEORY-006.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
@@ -304,15 +321,15 @@ Bra–ket notation (Wikipedia)
 - [`record/literature.d/LIT-262.md:75`](../../record/literature.d/LIT-262.md)
 - [`record/notes.d/NOTE-239.md:94`](../../record/notes.d/NOTE-239.md)
 
-### [LIT-263](../../record/literature.d/LIT-263.md) — Deferred
+### [LIT-270](../../record/literature.d/LIT-270.md) — Rejected
 
-Kochen-Specker contextuality
+Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition
 
-3 citations in 3 files await a look; 11 other citations of it are acknowledged.
+3 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-249.md:173`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:203`](../../record/notes.d/NOTE-250.md)
+- [`record/literature.d/LIT-340.md:41`](../../record/literature.d/LIT-340.md)
+- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
+- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -369,6 +386,15 @@ Blunting concepts: The double-edged effect of popularizing psychotherapy languag
 - [`record/decisions.d/ADR-009.md:37`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-097.md:90`](../../record/notes.d/NOTE-097.md)
 
+### [LIT-224](../../record/literature.d/LIT-224.md) — Deferred
+
+Shannon Information and Kolmogorov Complexity
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-317.md:38`](../../record/literature.d/LIT-317.md)
+- [`record/notes.d/NOTE-241.md:167`](../../record/notes.d/NOTE-241.md)
+
 ### [LIT-233](../../record/literature.d/LIT-233.md) — Deferred
 
 Data-Dependent Generalization Bounds via Variable-Size Compressibility
@@ -386,15 +412,6 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 - [`record/notes.d/NOTE-241.md:169`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-241.md:206`](../../record/notes.d/NOTE-241.md)
-
-### [LIT-270](../../record/literature.d/LIT-270.md) — Rejected
-
-Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition
-
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
-- [`record/notes.d/NOTE-246.md:157`](../../record/notes.d/NOTE-246.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -427,6 +444,14 @@ Causal Claims in Economics
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-161.md:112`](../../record/notes.d/NOTE-161.md)
+
+### [LIT-108](../../record/literature.d/LIT-108.md) — Deferred
+
+Philosophy of Mathematics and Natural Science
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-329.md:36`](../../record/literature.d/LIT-329.md)
 
 ### [LIT-129](../../record/literature.d/LIT-129.md) — Deferred
 
@@ -492,14 +517,6 @@ Do Large Language Models Hallucinate Electric Fata Morganas?
 
 - [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
 
-### [LIT-224](../../record/literature.d/LIT-224.md) — Deferred
-
-Shannon Information and Kolmogorov Complexity
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/notes.d/NOTE-241.md:167`](../../record/notes.d/NOTE-241.md)
-
 ### [LIT-225](../../record/literature.d/LIT-225.md) — Deferred
 
 Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity
@@ -539,6 +556,22 @@ Kolmogorov's Structure Functions and Model Selection
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
+
+### [LIT-240](../../record/literature.d/LIT-240.md) — Deferred
+
+The Role of the Information Bottleneck in Representation Learning
+
+1 citation in 1 file awaits a look.
+
+- [`record/literature.d/LIT-338.md:38`](../../record/literature.d/LIT-338.md)
+
+### [LIT-248](../../record/literature.d/LIT-248.md) — Deferred
+
+Self-Supervised Learning with Kernel Dependence Maximization
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-326.md:38`](../../record/literature.d/LIT-326.md)
 
 ### [LIT-250](../../record/literature.d/LIT-250.md) — Deferred
 
