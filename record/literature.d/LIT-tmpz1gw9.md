@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Algebraic Geometry and Statistical Learning Theory'
+version: 1
+tags:
+- learning-theory
+- mathematics
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-09-29'
+published: '2009-08-13'
+doi: '10.1017/CBO9780511800474'
+first_author: 'Watanabe'
+keywords:
+- 'singular-learning-theory'
+- 'real-log-canonical-threshold'
+- 'resolution-of-singularities'
+- 'Bayesian-generalization'
+- 'free-energy'
+implementations: []
+summary: >-
+  Watanabe (2009), DOI-10.1017/CBO9780511800474. Per publisher description: develops statistical learning theory for singular models (neural networks, mixtures, hidden Markov models) in which the Fisher information is degenerate, using resolution of singularities to show that the real log canonical threshold governs Bayesian free energy and generalization error.
+---
+
+# LIT-tmpz1gw9: Algebraic Geometry and Statistical Learning Theory
+
+Sumio Watanabe (2009), *Cambridge University Press (Cambridge Monographs on Applied and Computational Mathematics 25)* — DOI-10.1017/CBO9780511800474
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 15 must-cite: SLT owns degeneracy = singular Fisher; concept resolvability framed on it.
+It is seeded from metadata and published descriptions and has not been read here.
+
+Identification notes: Not held in either record; anthology holds SLT follow-ons ([ANTH-LIT-541](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-541.md) Murfet et al. "Deep Learning is Singular", [ANTH-LIT-542](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-542.md) local learning coefficient).
+
+`Deferred` because nobody has read it closely here yet, not on merit.

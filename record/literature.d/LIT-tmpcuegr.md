@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Group Equivariant Convolutional Networks'
+version: 1
+tags:
+- representation-learning
+- mathematics
+- anthology-candidate
+date: '2026-09-29'
+published: '2016-02-24'
+arxiv: '1602.07576'
+first_author: 'Cohen'
+keywords:
+- 'group-equivariance'
+- 'G-convolution'
+- 'symmetry'
+- 'weight-sharing'
+- 'CNN'
+implementations: []
+summary: >-
+  Cohen & Welling (2016), [ARXIV-1602.07576](https://arxiv.org/abs/1602.07576). Introduces group-equivariant CNNs (G-CNNs), which use G-convolutions to share weights across a symmetry group larger than translations (e.g. rotations and reflections), increasing expressive capacity without extra parameters; per abstract, reports state-of-the-art results on CIFAR10 and rotated MNIST.
+---
+
+# LIT-tmpcuegr: Group Equivariant Convolutional Networks
+
+Taco S. Cohen, Max Welling (2016), *ICML 2016 (PMLR 48)* — [ARXIV-1602.07576](https://arxiv.org/abs/1602.07576)
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 7: geometric-DL/equivariance program that imposes symmetry, against which the response positions spectral-degeneracy detection.
+It is seeded from metadata and published descriptions and has not been read here.
+
+`Deferred` because nobody has read it closely here yet, not on merit.

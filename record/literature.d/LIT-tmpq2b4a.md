@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Boolean Concept Logic'
+version: 1
+tags:
+- logic
+- mathematics
+- representation-learning
+date: '2026-09-29'
+published: '2000-01-01'
+doi: '10.1007/10722280_22'
+first_author: 'Wille'
+keywords:
+- 'formal concept analysis'
+- 'concept lattice'
+- 'negation'
+- 'Boolean algebra'
+- 'contextual logic'
+- 'protoconcepts'
+implementations: []
+summary: >-
+  Wille (2000), DOI-10.1007/10722280_22. Extends Formal Concept Analysis with negation by introducing semiconcepts and protoconcepts, which form double Boolean algebras, as a Boolean concept logic (per the standard description of the paper; abstract not retrieved).
+---
+
+# LIT-tmpq2b4a: Boolean Concept Logic
+
+Rudolf Wille (2000), *Conceptual Structures: Logical, Linguistic, and Computational Issues (ICCS 2000), LNCS 1867, pp. 317-331, Springer* — DOI-10.1007/10722280_22
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 3: owner of 'FCA has no negation, and here is a fix'; the map's must-cite for that row.
+It is seeded from metadata and published descriptions and has not been read here.
+Only the year of first publication is known; `published:` uses 1 January.
+
+Identification notes: ICCS 2000 was held August 2000 (Darmstadt); year precision kept. Companion 'Boolean Judgment Logic' (Wille 2001, doi 10.1007/3-540-44583-8_9) not registered.
+
+`Deferred` because nobody has read it closely here yet, not on merit.

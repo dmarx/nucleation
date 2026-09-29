@@ -1,0 +1,38 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets'
+version: 1
+tags:
+- learning-theory
+- representation-learning
+date: '2026-09-29'
+published: '2022-01-06'
+arxiv: '2201.02177'
+first_author: 'Power'
+keywords:
+- 'grokking'
+- 'delayed-generalization'
+- 'algorithmic-datasets'
+- 'overfitting'
+implementations: []
+summary: >-
+  Power et al. (2022), [ARXIV-2201.02177](https://arxiv.org/abs/2201.02177). Per abstract: on small algorithmically generated datasets, networks can improve generalization from chance to perfect long after overfitting ("grokking"), and smaller datasets require more optimization to generalize.
+---
+
+# LIT-tmptju1m: Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
+
+Alethea Power, Yuri Burda, Harri Edwards, Igor Babuschkin, Vedant Misra (2022), *arXiv preprint (earlier ICLR 2021 MATH-AI workshop version)* — [ARXIV-2201.02177](https://arxiv.org/abs/2201.02177)
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 15 must-cite: grokking as a concept-resolvability phenomenon.
+It is seeded from metadata and published descriptions and has not been read here.
+
+It is also held in the Anthology of the SOTA as [ANTH-LIT-538](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-538.md). Holding it here too follows
+[ADR-013](../decisions.d/ADR-013.md): this record holds it for the owner's prior-art map, the anthology for ML practice.
+
+Identification notes: Held in anthology ([ANTH-LIT-538](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-538.md)).
+
+`Deferred` because nobody has read it closely here yet, not on merit.

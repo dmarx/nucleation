@@ -1,0 +1,35 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-29 from metadata and published descriptions, not read: registered because the owner''s prior-art novelty map cites it'
+title: 'Die Vollständigkeit der primitiven Darstellungen einer geschlossenen kontinuierlichen Gruppe'
+version: 1
+tags:
+- mathematics
+date: '2026-09-29'
+published: '1927-12-01'
+doi: '10.1007/BF01447892'
+first_author: 'Peter'
+keywords:
+- 'compact groups'
+- 'Peter–Weyl theorem'
+- 'irreducible representations'
+- 'matrix coefficients'
+- 'harmonic analysis'
+implementations: []
+summary: >-
+  Peter & Weyl (1927), DOI-10.1007/BF01447892. Per standard description: proves that the matrix coefficients of the irreducible unitary representations of a compact group are complete in L²(G), so L²(G) decomposes into isotypic components (the Peter–Weyl theorem).
+---
+
+# LIT-tmplmxqk: Die Vollständigkeit der primitiven Darstellungen einer geschlossenen kontinuierlichen Gruppe
+
+F. Peter, H. Weyl (1927), *Mathematische Annalen 97:737–755* — DOI-10.1007/BF01447892
+
+## Standing in the record
+
+Registered on 2026-09-29 at the owner's request, because the owner's prior-art novelty map (a private working
+document on concepts as projectors, the linear representation hypothesis and their neighbours) cites it: row 7: predicate harmonics = characters; irrep multiplets = spectral degeneracies.
+It is seeded from metadata and published descriptions and has not been read here.
+
+Identification notes: Program name; canonical primary unambiguous. Nucleation holds a different Weyl work ([LIT-108](LIT-108.md), Philosophy of Mathematics and Natural Science) — not this.
+
+`Deferred` because nobody has read it closely here yet, not on merit.
