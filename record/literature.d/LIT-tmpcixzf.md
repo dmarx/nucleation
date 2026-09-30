@@ -1,0 +1,64 @@
+---
+status: Active
+status_note: 'read in full 2026-09-30 ([NOTE-tmpfr7tp](../notes.d/NOTE-tmpfr7tp.md)); worth reading as the standard short, citable reference for how the SDT measures are computed and what each assumes. It is a tutorial with no new theory. Several of its software pointers (1999 FTP sites, Quattro Pro, SYSTAT commands) are dated, but the formulae are not.'
+title: 'Calculation of signal detection theory measures'
+version: 2
+history:
+- version: 2
+  date: '2026-09-30'
+  note: >-
+    Read in full (Full text, 13 pp. (137–149), of the publisher's PDF on
+    SpringerLink (link.springer.com/content/pdf/10.3758/BF03207704.pdf).
+    OpenAlex and Semantic Scholar both mark this copy as bronze open access,
+    so it is the publisher's own free copy, not a third-party upload. Read
+    in full: overview, formulae (eqs. 1–15), methods of calculation, Tables
+    1–6, the computational example, conclusion and reference list. The text
+    layer was extracted with PyMuPDF, and pp. 142–143 were rendered to
+    images to check the equations. Every number in Figure 1's worked
+    example, and rows 2 and 5 of Table 6, were recomputed by hand and agree.
+    This is the batch's first-choice tutorial. The Macquarie University
+    repository record carries no file; the publisher copy is the legitimate
+    open one. `published:` is the first day of the issue month Crossref
+    gives (1999-03); the article prints only "1999, 31(1)". Manuscript
+    received 15 August 1997, revision accepted 9 February 1998. No existing
+    entry in the Anthology of the SOTA (grep of its literature.d for the
+    DOI, "Stanislaw", "signal detection": no hits).); the first NOTE on it,
+    since it was seeded from the abstract alone. Status set from the
+    reading: Active.
+tags:
+- cognition
+- probabilistic-modeling
+date: '2026-09-30'
+published: '1999-03-01'
+doi: '10.3758/BF03207704'
+url: 'https://link.springer.com/content/pdf/10.3758/BF03207704.pdf'
+first_author: 'Stanislaw'
+keywords:
+- 'signal detection theory'
+implementations: []
+summary: >-
+  Stanislaw & Todorov (1999), DOI-10.3758/BF03207704. A practical tutorial
+  that gives closed-form SDT measures computed from the hit rate H and
+  false-alarm rate F. They are d′ = Φ⁻¹(H) − Φ⁻¹(F); β = exp{[Φ⁻¹(F)² −
+  Φ⁻¹(H)²]/2}; c = −[Φ⁻¹(H) + Φ⁻¹(F)]/2; the nonparametric A′ and Grier's
+  B″ (single-formula versions, eqs. 3 and 9); A_z =
+  Φ(intercept/√(1+slope²)) from the z-ROC, whose slope is
+  σ_noise/σ_signal; and A_d′ = Φ(d′/√2), which equals 2AFC proportion
+  correct under the d′ assumptions. It also gives one-line commands for
+  seven software packages. Its worked rating example (50 signal and 25
+  noise trials, noise SD larger than signal SD) shows d′ ranging from 0.84
+  to 1.86 across criteria. The authors conclude that d′ should not be used
+  without rating-task evidence of equal variance.
+---
+
+# LIT-tmpcixzf: Calculation of signal detection theory measures
+
+Stanislaw & Todorov (1999), *Behavior Research Methods, Instruments, & Computers 31(1):137–149 (1999), Psychonomic Society. Crossref confirms authors, volume, issue, pages and issue date 1999-03. PubMed 10495845.* — DOI-10.3758/BF03207704
+
+## Standing in the record
+
+Filed on 2026-09-30 at the owner's request, as one of the sources registered to cover signal detection theory,
+which the record lacked; its only detection-theory entry, Van Trees 1968 ([LIT-351](LIT-351.md)), is unreachable.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpfr7tp](../notes.d/NOTE-tmpfr7tp.md) is the close reading of 2026-09-30, and it placed the work: **Active** — worth reading as the standard short, citable reference for how the SDT measures are computed and what each assumes. It is a tutorial with no new theory. Several of its software pointers (1999 FTP sites, Quattro Pro, SYSTAT commands) are dated, but the formulae are not.
