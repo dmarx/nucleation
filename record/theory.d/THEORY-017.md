@@ -63,6 +63,9 @@ summary: >-
   point for learned representations. This is a synthesis across the four,
   not a result any one of them states. It does not say that basis-dependent
   models are wrong; it says what they have assumed.
+extended_by:
+- THEORY-tmp053xo
+- THEORY-tmp1jea9
 ---
 
 <!-- inactive-ok-file: THEORY-008 — Proposed: cited for which comparison measures are the invariant ones, itself awaiting close readings; the directive lapses when its status changes -->
