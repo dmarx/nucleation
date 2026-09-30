@@ -6,8 +6,9 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-0 of 17 THEORY documents. Back to the [full index](../README.md).
+2 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-026](../../../record/theory.d/THEORY-026.md) | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires | Still, Sivak, Bell & Crooks (2012), [LIT-327](../../../record/literature.d/LIT-327.md): β⟨W_diss⟩ for the step x_t → x_{t+1} equals I[s_t;x_t] − I[s_t;x_{t+1}] (Eq. 14, an identity). The summed nostalgia lower-bounds dissipation and adds to Landauer's bound (Eq. 21). Fiderer et al. ([LIT-041](../../../record/literature.d/LIT-041.md)) show that with feedback, predictive, max-entropy-action and efficient agents can be disjoint. The claim is an ensemble average, not a per-operation floor. It needs a Markov drive to be nonnegative, and the prediction-is-necessary slogan fails under feedback. | Proposed |
+| [THEORY-030](../../../record/theory.d/THEORY-030.md) | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost | Bennett (2003), [LIT-360](../../../record/literature.d/LIT-360.md): the cost attaches to many-to-one maps of the logical state (erasure, merging of control flow), and it is at least k ln 2 of entropy exported per bit, which "need not" be heat. Goldt & Seifert ([LIT-308](../../../record/literature.d/LIT-308.md)) and Still et al. ([LIT-327](../../../record/literature.d/LIT-327.md)) agree. Information learnt is bounded by entropy production and can be paid almost entirely in weight entropy. The only per-bit heat term is Landauer's, on entropy removed. The synthesis across the three is the record's. It does not license a k_BT ln 2 heat floor per judgment, per gradient step or per bit learnt. | Proposed |

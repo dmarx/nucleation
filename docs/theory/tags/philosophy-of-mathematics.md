@@ -6,8 +6,9 @@
 
 **Philosophy of mathematics** — what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy).
 
-0 of 17 THEORY documents. Back to the [full index](../README.md).
+2 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-032](../../../record/theory.d/THEORY-032.md) | The Yoneda lemma determines an object only up to isomorphism, from its whole hom-functor, among objects the category already has; as a formal version of "an object is determined by its relations" it presupposes the relata | nLab, Yoneda lemma (rev. 2026-08-17), [LIT-221](../../../record/literature.d/LIT-221.md) — y is fully faithful and y(c) ≅ y(d) iff c ≅ d, and pointwise bijections of hom-sets without naturality do not suffice. Lam & Wüthrich ([LIT-222](../../../record/literature.d/LIT-222.md)) state two of its consequences without the name. The philosophical reading, a relational criterion of identity up to isomorphism rather than a construction of objects from relations, is the record's own. It does not say that the lemma supports eliminating objects. | Active |
+| [THEORY-038](../../../record/theory.d/THEORY-038.md) | Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata | Lam & Wüthrich (2015), [LIT-222](../../../record/literature.d/LIT-222.md), against Bain (2013), [LIT-223](../../../record/literature.d/LIT-223.md). Bain's "structure as object in a category" relabels relata rather than removing them, and his GR and TQFT cases dispose of points only. That the Yoneda lemma ([LIT-221](../../../record/literature.d/LIT-221.md)) strengthens the rebuttal is the record's inference: no paper in the debate names it. This does not refute radical OSR. It removes one argument for it, and Eva 2016's reply is unread. | Proposed |

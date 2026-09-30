@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [September 2026](2026-09.md)
 
+- [30 Sep 03:09 — Theory backfill: twenty-five accounts drawn from the record's readings](2026-09.md#theory-backfill-twenty-five-accounts-drawn-from-the-records-readings)
 - [30 Sep 01:55 — Signal detection theory, registered and read](2026-09.md#signal-detection-theory-registered-and-read)
 - [29 Sep 23:37 — Supplemental readings for the prior-art novelty map's misattributions](2026-09.md#supplemental-readings-for-the-prior-art-novelty-maps-misattributions)
 - [29 Sep 23:06 — Close readings of the prior-art novelty map's references](2026-09.md#close-readings-of-the-prior-art-novelty-maps-references)
@@ -55,8 +56,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-46 entries across 1 book, newest first.
+47 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-09](2026-09.md) | 46 | 2026-09-25 | 2026-09-30 |
+| [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

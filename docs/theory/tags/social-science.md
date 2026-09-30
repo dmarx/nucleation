@@ -6,8 +6,9 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-1 of 17 THEORY documents. Back to the [full index](../README.md).
+2 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [THEORY-013](../../../record/theory.d/THEORY-013.md) | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none | Dzhafarov, Zhang & Kujala (2015), [LIT-264](../../../record/literature.d/LIT-264.md) — Contextuality-by-Default applied to five data sets, including primed word combinations from the quantum-cognition literature. Seeded, not yet read closely. The authors call general absence a working hypothesis, and later work in the same programme is reported to find behavioural contextuality. | Proposed |
+| [THEORY-025](../../../record/theory.d/THEORY-025.md) | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation | Sen (1979), [LIT-289](../../../record/literature.d/LIT-289.md), first-hand: a contented disabled person has no marginal-utility claim, no total-utility deficit and no primary-goods deficit, yet an evident claim. The 1998 lecture ([LIT-282](../../../record/literature.d/LIT-282.md)) names four sources of conversion variation. The negative thesis rests on one case and a shared intuition, and Sen says it stands without his positive proposal. The resourcist reply (Pogge) is not held, and the claim does not say capabilities are the right replacement. | Proposed |

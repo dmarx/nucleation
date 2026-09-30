@@ -6,8 +6,9 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-0 of 17 THEORY documents. Back to the [full index](../README.md).
+2 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-028](../../../record/theory.d/THEORY-028.md) | The expected bias of any data-dependent choice, and the expected generalisation error of any learning algorithm, is at most √(2σ²·I) for σ-subgaussian losses, where I is the information the output carries about the data | Russo & Zou (2015), [LIT-356](../../../record/literature.d/LIT-356.md), Prop. 1: \|E[φ_T − µ_T]\| ≤ σ√(2·I(T;φ)) for any selection T among σ-sub-Gaussian statistics. Xu & Raginsky (2017), [LIT-347](../../../record/literature.d/LIT-347.md), Thm 1: \|gen\| ≤ √(2σ²·I(S;W)/n) for any algorithm P_{W\|S}. Both proofs rest on Donsker–Varadhan and were checked by the readers. The bound is in expectation only. It is vacuous for deterministic learners on continuous hypotheses, where I(S;W) is infinite, and for any real network when I is bounded by counting bits. It is tight only for Gaussian argmax and threshold selection. | Active |
+| [THEORY-031](../../../record/theory.d/THEORY-031.md) | The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson and posterior criteria, which differ only in its threshold, so performance is an ROC and the criterion a point on it; d′ is criterion-free only for equal-variance normal signal and noise | Peterson & Birdsall (1953), [LIT-364](../../../record/literature.d/LIT-364.md) — the threshold on ℓ = f_SN/f_N is optimal for expected value and at fixed false-alarm rate, and the two optimum families coincide (Part I Thms 1–7). The ROC's slope equals the threshold (Thm 8). Tanner & Swets (1954), [LIT-368](../../../record/literature.d/LIT-368.md), carry this over to the human observer as d′ plus a criterion. Stanislaw & Todorov (1999), [LIT-367](../../../record/literature.d/LIT-367.md), state that d′ varies with the criterion unless the variances are equal. The separation of sensitivity from bias is a property of the model, not of the data. | Active |

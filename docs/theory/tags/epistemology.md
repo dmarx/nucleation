@@ -6,8 +6,8 @@
 
 **Epistemology** — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
 
-0 of 17 THEORY documents. Back to the [full index](../README.md).
+1 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-023](../../../record/theory.d/THEORY-023.md) | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer | Birch (2025), [LIT-111](../../../record/literature.d/LIT-111.md): behavioural markers are "gamed", and architectural markers are "Janus-faced", giving a two-level deadlock. Schwitzgebel ([LIT-191](../../../record/literature.d/LIT-191.md)) argues mimicry undercuts but does not rebut, and that the functionalist theories face minimal instantiation. Seth ([LIT-135](../../../record/literature.d/LIT-135.md)) makes conscious AI conditional on functionalism plus substrate flexibility. Butlin et al. ([LIT-056](../../../record/literature.d/LIT-056.md)) assume functionalism. The readings agree the question is currently unsettleable. They contest whether that is permanent and which way the prior leans. This says nothing about whether any AI is conscious. | Proposed |

@@ -6,8 +6,8 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-0 of 17 THEORY documents. Back to the [full index](../README.md).
+1 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-036](../../../record/theory.d/THEORY-036.md) | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work | Dennett (1991), [LIT-220](../../../record/literature.d/LIT-220.md) — a pattern is real "if there is a description of the data that is more efficient than the bit map, whether or not anyone can concoct it". Ladyman ([LIT-219](../../../record/literature.d/LIT-219.md)) replaces this with indispensability to projectible generalisations, perspective- and scale-relative and lossy. Separating the two, and the claim that the added clauses carry the exclusions, is the record's reading. The definition that would confirm it (ETMG) is unread. | Proposed |

@@ -6,8 +6,9 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-0 of 17 THEORY documents. Back to the [full index](../README.md).
+2 of 42 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-025](../../../record/theory.d/THEORY-025.md) | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation | Sen (1979), [LIT-289](../../../record/literature.d/LIT-289.md), first-hand: a contented disabled person has no marginal-utility claim, no total-utility deficit and no primary-goods deficit, yet an evident claim. The 1998 lecture ([LIT-282](../../../record/literature.d/LIT-282.md)) names four sources of conversion variation. The negative thesis rests on one case and a shared intuition, and Sen says it stands without his positive proposal. The resourcist reply (Pogge) is not held, and the claim does not say capabilities are the right replacement. | Proposed |
+| [THEORY-027](../../../record/theory.d/THEORY-027.md) | Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow's theorem, the conflict is not removed by interpersonal comparability | Sen (1970), [LIT-285](../../../record/literature.d/LIT-285.md): no social decision function satisfies U, weak Pareto and minimal liberalism. The proof was checked in this record, including the unproved one-way strengthening. Sen (1998), [LIT-282](../../../record/literature.d/LIT-282.md): the paradox, unlike Arrow's, is not resolved by interpersonal comparisons. The theorem is settled. Whether pairwise decisiveness is what liberty is remains open, and the record reads the rights-as-game-forms literature only through Sen's reply to it. | Active |
