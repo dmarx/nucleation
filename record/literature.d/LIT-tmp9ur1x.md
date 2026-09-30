@@ -1,0 +1,30 @@
+---
+status: Deferred
+status_note: 'seeded 2026-09-30 at the owner''s request to cover signal detection theory; a close reading was attempted and no legitimate full text could be reached'
+title: 'Signal Detection Theory and Psychophysics'
+version: 1
+tags:
+- cognition
+- probabilistic-modeling
+date: '2026-09-30'
+published: '1966-01-01'
+url: 'https://openlibrary.org/works/OL5268329W'
+first_author: 'Green'
+keywords:
+- 'signal detection theory'
+implementations: []
+summary: >-
+  Green & Swets (1966), <https://openlibrary.org/works/OL5268329W>. Registered to cover signal detection theory, which the record lacked.
+---
+
+# LIT-tmp9ur1x: Signal Detection Theory and Psychophysics
+
+Green & Swets (1966), *New York, John Wiley & Sons, 1966, xi + 455 pp. (LCCN 66021059, OCLC 890266). Reprinted with corrections by Robert E. Krieger, Huntington NY, 1974, xiii + 479 pp. (ISBN 0882751395, LCCN 74181588). Reprinted again by Peninsula Publishing, Los Altos CA, 1988, xiii + 505 pp., with a "Topical bibliography (1967–1988)" (pp. 437–486; per Internet Archive catalogue metadata). No DOI exists for any edition. Only the year of first publication is known, so `published:` uses 1 January 1966.* — <https://openlibrary.org/works/OL5268329W>
+
+## Standing in the record
+
+Filed on 2026-09-30 at the owner's request, as one of the sources registered to cover signal detection theory,
+which the record lacked; its only detection-theory entry, Van Trees 1968 ([LIT-351](LIT-351.md)), is unreachable.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+A close reading was attempted on 2026-09-30. No legitimate full text could be reached: Checked first: the converted-text cache (grep for "signal detection", "Swets", "Green"; the only hits are other works that cite this one). The book is in copyright: Wiley 1966, and the 1992 Copyright Renewal Act made renewal automatic for works published 1964–77. The 1974 Krieger reprint and the 1988 Peninsula reprint are in copyright too. Internet Archive advanced search found one copy, signaldetectiont0000gree (the 1988 reprint of the 1974 corrected edition, xiii+505 pp.). It is in the printdisabled collection and marked access-restricted (controlled lending only), so it was excluded by the instructions and not borrowed. Open Library lists the 1966 Wiley and 1974 Krieger editions with ebook_access "no_ebook". Crossref has no DOI for the book, only for its 1967 reviews (Science 156:632, DOI 10.1126/science.156.3775.632; Quarterly Review of Biology 42:578, DOI 10.1086/405615) and a 1969 JEAB review essay (DOI 10.1901/jeab.1969.12-475). No publisher open-access, author-hosted or university-repository copy was found. No existing entry in the Anthology of the SOTA (grep of its literature.d: no hits). Register as Deferred until a copy is supplied, not on merit. Unread, but to scope it for the record: Stanislaw & Todorov (1999, read in this batch as sdt5) cite it as the standard SDT reference, reporting "over 2,000" Social Sciences Citation Index citations (p. 137). They cite its pp. 45–49 for two results: ROC area equals 2AFC proportion correct, and mAFC proportion correct is a bias-free sensitivity measure (p. 141). Those two page citations are the only content of the book verified here, and only second-hand. It stays `Deferred` until a copy is supplied, not on merit.
