@@ -1,6 +1,9 @@
 ---
+number: 316
 status: Read
-paper: LIT-tmpcpf11
+formerly:
+- NOTE-tmpp9572
+paper: LIT-368
 title: 'A decision-making theory of visual detection'
 version: 1
 history:
@@ -46,7 +49,7 @@ summary: >-
   and all 12 fitted yes-no scatter lines miss the point (1, 1).
 ---
 
-# NOTE-tmpp9572: A decision-making theory of visual detection
+# NOTE-316: A decision-making theory of visual detection
 
 ## Contribution
 

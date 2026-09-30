@@ -1,6 +1,9 @@
 ---
+number: 315
 status: Skimmed
-paper: LIT-tmp5boaq
+formerly:
+- NOTE-tmpiyyzi
+paper: LIT-364
 title: 'The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise'
 version: 1
 history:
@@ -54,7 +57,7 @@ summary: >-
   The receiver is a correlator or matched filter (Eq. 5.3, 4.10).
 ---
 
-# NOTE-tmpiyyzi: The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
+# NOTE-315: The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
 
 ## Contribution
 

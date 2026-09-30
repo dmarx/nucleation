@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**127 document(s) awaiting a decision.**
+**129 document(s) awaiting a decision.**
 
 ## LITs
 
-112 of the 127.
+114 of the 129.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -103,9 +103,12 @@
 | 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 8 | 1 | Contextuality for preparations, transformations, and unsharp measurements |
 | 2026-09-29 | Deferred | [LIT-328](../../record/literature.d/LIT-328.md) | 9 | 9 | Irreversibility and Heat Generation in the Computing Process |
 | 2026-09-29 | Deferred | [LIT-332](../../record/literature.d/LIT-332.md) | 9 | 9 | Facing up to arrangements: face-count formulas for partitions of space by hyperplanes |
+| 2026-09-29 | Deferred | [LIT-351](../../record/literature.d/LIT-351.md) | 9 | 9 | Detection, Estimation, and Modulation Theory, Part I |
 | 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 7 | 7 | A topos foundation for theories of physics: IV. Categories of systems |
 | 2026-09-29 | Deferred | [LIT-321](../../record/literature.d/LIT-321.md) | 7 | 7 | Local Quantum Physics: Fields, Particles, Algebras (2nd ed.) |
+| 2026-09-29 | Deferred | [LIT-311](../../record/literature.d/LIT-311.md) | 6 | 6 | Mathematical Methods of Statistics |
 | 2026-09-29 | Deferred | [LIT-331](../../record/literature.d/LIT-331.md) | 5 | 5 | Zur Theorie der hyperkomplexen Zahlen |
+| 2026-09-29 | Deferred | [LIT-349](../../record/literature.d/LIT-349.md) | 5 | 5 | Information and the Accuracy Attainable in the Estimation of Statistical Parameters |
 | 2026-09-29 | Deferred | [LIT-354](../../record/literature.d/LIT-354.md) | 4 | 4 | Algebraic Geometry and Statistical Learning Theory |
 | 2026-09-29 | Deferred | [LIT-317](../../record/literature.d/LIT-317.md) | 3 | 3 | Communication in the Presence of Noise |
 | 2026-09-29 | Deferred | [LIT-316](../../record/literature.d/LIT-316.md) | 2 | 2 | Quantum Models of Cognition and Decision |
@@ -113,22 +116,21 @@
 | 2026-09-29 | Deferred | [LIT-301](../../record/literature.d/LIT-301.md) | 1 | 1 | Every Thing Must Go: Metaphysics Naturalized |
 | 2026-09-29 | Deferred | [LIT-337](../../record/literature.d/LIT-337.md) | 1 | 1 | Boolean Concept Logic |
 | 2026-09-29 | Deferred | [LIT-344](../../record/literature.d/LIT-344.md) | 1 | 1 | Formal Concept Analysis: Mathematical Foundations |
-| 2026-09-29 | Deferred | [LIT-351](../../record/literature.d/LIT-351.md) | 1 | 1 | Detection, Estimation, and Modulation Theory, Part I |
 | 2026-09-29 | Deferred | [LIT-359](../../record/literature.d/LIT-359.md) | 1 | 1 | Counting the faces of cut-up spaces |
 | 2026-09-29 | Deferred | [LIT-303](../../record/literature.d/LIT-303.md) | 0 | 0 | Types and Ontology |
 | 2026-09-29 | Deferred | [LIT-307](../../record/literature.d/LIT-307.md) | 0 | 0 | Semantics, Volume 1 |
-| 2026-09-29 | Deferred | [LIT-311](../../record/literature.d/LIT-311.md) | 0 | 0 | Mathematical Methods of Statistics |
 | 2026-09-29 | Deferred | [LIT-318](../../record/literature.d/LIT-318.md) | 0 | 0 | The Concept of Mind |
 | 2026-09-29 | Deferred | [LIT-320](../../record/literature.d/LIT-320.md) | 0 | 0 | Resemblance Nominalism: A Solution to the Problem of Universals |
 | 2026-09-29 | Deferred | [LIT-334](../../record/literature.d/LIT-334.md) | 0 | 0 | Conceptual Spaces: The Geometry of Thought |
 | 2026-09-29 | Deferred | [LIT-336](../../record/literature.d/LIT-336.md) | 0 | 0 | Universals and Scientific Realism (Vol. I: Nominalism and Realism; Vol. II: A Theory of Universals) |
-| 2026-09-29 | Deferred | [LIT-349](../../record/literature.d/LIT-349.md) | 0 | 0 | Information and the Accuracy Attainable in the Estimation of Statistical Parameters |
 | 2026-09-29 | Deferred | [LIT-350](../../record/literature.d/LIT-350.md) | 0 | 0 | Categories and De Interpretatione (Clarendon Aristotle Series, trans. and notes J. L. Ackrill) |
 | 2026-09-29 | Deferred | [LIT-361](../../record/literature.d/LIT-361.md) | 0 | 0 | Superselection Rules for Philosophers |
+| 2026-09-30 | Deferred | [LIT-365](../../record/literature.d/LIT-365.md) | 0 | 0 | On the Problem of the Most Efficient Tests of Statistical Hypotheses |
+| 2026-09-30 | Deferred | [LIT-366](../../record/literature.d/LIT-366.md) | 0 | 0 | Signal Detection Theory and Psychophysics |
 
 ## THEORYs
 
-15 of the 127.
+15 of the 129.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -152,4 +154,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (18): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-311](../../record/literature.d/LIT-311.md), [LIT-318](../../record/literature.d/LIT-318.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-334](../../record/literature.d/LIT-334.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-349](../../record/literature.d/LIT-349.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (18): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-318](../../record/literature.d/LIT-318.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-334](../../record/literature.d/LIT-334.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [LIT-365](../../record/literature.d/LIT-365.md), [LIT-366](../../record/literature.d/LIT-366.md) — these are the cheapest to close, since nothing depends on the answer.

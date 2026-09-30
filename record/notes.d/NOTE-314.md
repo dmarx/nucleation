@@ -1,6 +1,9 @@
 ---
+number: 314
 status: Read
-paper: LIT-tmpcixzf
+formerly:
+- NOTE-tmpfr7tp
+paper: LIT-367
 title: 'Calculation of signal detection theory measures'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
   without rating-task evidence of equal variance.
 ---
 
-# NOTE-tmpfr7tp: Calculation of signal detection theory measures
+# NOTE-314: Calculation of signal detection theory measures
 
 ## Contribution
 

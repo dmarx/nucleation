@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**89 documents cited without acknowledgement.** Not listed: 424 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**92 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -302,6 +302,22 @@ Facing up to arrangements: face-count formulas for partitions of space by hyperp
 - [`record/notes.d/NOTE-313.md:122`](../../record/notes.d/NOTE-313.md)
 - [`record/notes.d/NOTE-313.md:147`](../../record/notes.d/NOTE-313.md)
 
+### [LIT-351](../../record/literature.d/LIT-351.md) — Deferred
+
+Detection, Estimation, and Modulation Theory, Part I
+
+9 citations in 9 files await a look.
+
+- [`record/literature.d/LIT-364.md:80`](../../record/literature.d/LIT-364.md)
+- [`record/literature.d/LIT-365.md:31`](../../record/literature.d/LIT-365.md)
+- [`record/literature.d/LIT-366.md:30`](../../record/literature.d/LIT-366.md)
+- [`record/literature.d/LIT-367.md:64`](../../record/literature.d/LIT-367.md)
+- [`record/literature.d/LIT-368.md:70`](../../record/literature.d/LIT-368.md)
+- [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
+- [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
+- [`record/notes.d/NOTE-315.md:147`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
+
 ### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
 
 In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
@@ -445,6 +461,19 @@ Identifying Quantum Structure in AI Language: Evidence for Evolutionary Converge
 - [`record/notes.d/NOTE-294.md:153`](../../record/notes.d/NOTE-294.md)
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 
+### [LIT-311](../../record/literature.d/LIT-311.md) — Deferred
+
+Mathematical Methods of Statistics
+
+6 citations in 4 files await a look.
+
+- [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
+- [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
+- [`record/notes.d/NOTE-315.md:144`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-315.md:148`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-315.md:160`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
+
 ### [LIT-197](../../record/literature.d/LIT-197.md) — Deferred
 
 The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
@@ -504,6 +533,18 @@ Zur Theorie der hyperkomplexen Zahlen
 - [`record/notes.d/NOTE-276.md:108`](../../record/notes.d/NOTE-276.md)
 - [`record/notes.d/NOTE-280.md:119`](../../record/notes.d/NOTE-280.md)
 - [`record/notes.d/NOTE-305.md:105`](../../record/notes.d/NOTE-305.md)
+
+### [LIT-349](../../record/literature.d/LIT-349.md) — Deferred
+
+Information and the Accuracy Attainable in the Estimation of Statistical Parameters
+
+5 citations in 4 files await a look.
+
+- [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
+- [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
+- [`record/notes.d/NOTE-315.md:148`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-315.md:160`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Deferred
 
@@ -759,6 +800,15 @@ What is Structural Realism?
 - [`record/notes.d/NOTE-297.md:119`](../../record/notes.d/NOTE-297.md)
 - [`record/notes.d/NOTE-297.md:125`](../../record/notes.d/NOTE-297.md)
 
+### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
+
+The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
+
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-364.md:6`](../../record/literature.d/LIT-364.md)
+- [`record/literature.d/LIT-364.md:83`](../../record/literature.d/LIT-364.md)
+
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
 
 Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two
@@ -983,14 +1033,6 @@ Formal Concept Analysis: Mathematical Foundations
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-272.md:124`](../../record/notes.d/NOTE-272.md)
-
-### [LIT-351](../../record/literature.d/LIT-351.md) — Deferred
-
-Detection, Estimation, and Modulation Theory, Part I
-
-1 citation in 1 file awaits a look.
-
-- [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
 
 ### [LIT-359](../../record/literature.d/LIT-359.md) — Deferred
 
