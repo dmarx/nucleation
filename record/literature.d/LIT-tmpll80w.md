@@ -1,0 +1,92 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-01 at the owner''s request for Antonio Damasio''s work; no full text could be reached (the Elsevier article is closed, and no repository, author or course copy was found), so it is registered from its PubMed abstract only, unread, and no NOTE is filed'
+title: 'Time-locked multiregional retroactivation: A systems-level proposal for the neural substrates of recall and recognition'
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Registered unread. Bibliographic details checked against Crossref
+    (Cognition 33(1–2):25–62, November 1989, sole author Antonio R.
+    Damasio; Crossref gives the month only, so `published:` is the first
+    of the month). Sources tried for a full text: the publisher page
+    (ScienceDirect, closed, HTTP 403 to a plain client), OpenAlex and
+    Semantic Scholar (both list it as closed, apart from a CiteSeerX
+    record whose download did not answer), CORE and the Internet Archive
+    (nothing), and a web search for any PDF copy (none found). What is
+    below comes from the PubMed abstract (PMID 2691184) and nothing else.
+    Not held in the Anthology of the SOTA.
+tags:
+- neuroscience
+- cognition
+- consciousness
+date: '2026-10-01'
+published: '1989-11-01'
+doi: '10.1016/0010-0277(89)90005-X'
+first_author: 'Damasio'
+keywords:
+- 'convergence zones'
+- 'time-locked retroactivation'
+- 'recall'
+- 'recognition'
+- 'memory'
+- 'consciousness'
+implementations: []
+summary: >-
+  Damasio (1989), Cognition 33:25–62. The convergence-zone proposal: memory
+  is not held in one store but as feature fragments in early sensory and
+  motor cortices, with amodal records of their co-occurrence held in
+  local and non-local convergence zones downstream; recall is the
+  time-locked reactivation of the fragments, directed from convergence
+  zones through feedback projections. Unread: registered from the
+  abstract.
+---
+
+# LIT-tmpll80w: Time-locked multiregional retroactivation: A systems-level proposal for the neural substrates of recall and recognition
+
+Antonio R. Damasio (1989), *Cognition 33(1–2), 25–62* — `doi:10.1016/0010-0277(89)90005-X` (checked on Crossref; PMID 2691184)
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for "some Antonio Damasio". No
+anthology topic holds it: it is a systems-level theory of memory in the
+brain and carries no instruction for machine-learning practice.
+
+`Deferred` because no full text could be reached, so nothing beyond the
+abstract is claimed and no NOTE is filed. What the abstract says, to scope
+it until somebody reads it:
+
+- The architecture has four parts: neuron ensembles in early sensory and
+  motor cortices holding "feature fragments"; *local* convergence zones in
+  single-modality cortex holding amodal records of which fragments
+  occurred together; *non-local* convergence zones in higher-order
+  association cortex holding records of which local zones occurred
+  together; and reciprocal projections, many-to-one forward and
+  one-to-many back.
+- Recall is the time-locked activation of the fragment ensembles,
+  directed from the convergence zones and mediated by the feedback
+  projections.
+- It rejects a single anatomical site where memory is integrated, and a
+  single store for meaning. "Meaning is reached by time-locked
+  multiregional retroactivation of widespread fragment records", and only
+  those fragment records "can become contents of consciousness". That
+  last claim is why the work is tagged `consciousness`.
+- It is a proposal. A close reading should establish what evidence the
+  paper offers (the abstract cites none) and what it predicts that a
+  single-store account does not.
+
+Damasio's own later work leans on it. His 1996 statement of the somatic
+marker hypothesis, filed alongside it, cites it (as "1989b") for
+"dispositional" knowledge and the convergence-zone framework: the
+ventromedial prefrontal cortex is proposed there as a set of convergence
+zones linking records of situations to records of the body states that
+went with them. So the memory architecture here is the substrate that
+hypothesis assumes.
+
+In this record it sits nearest to the cross-modal unity account of
+[LIT-190](LIT-190.md), which puts part of the unity of experience in a shared feeling of
+processing quality rather than in feature-level binding. This work is a
+feature-level, anatomical answer to the same question of how separately
+represented fragments come together. Whether that answer is a binding
+mechanism in the sense [LIT-190](LIT-190.md) sets aside needs the full text.

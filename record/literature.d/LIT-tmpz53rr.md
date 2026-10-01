@@ -1,0 +1,153 @@
+---
+status: Active
+status_note: 'read in full 2026-10-01 ([NOTE-tmpbccwv](../notes.d/NOTE-tmpbccwv.md)); worth reading as the shortest statement of Damasio''s account of feeling as the felt read-out of homeostatic body maps, with its two empirical planks: patients whose insulae are destroyed still feel, and the upper brainstem is where whole-body interoceptive maps first assemble. It is an Opinion piece with no new data. The systems-level case rests on lesion and stimulation evidence it cites; the cellular proposal (unmyelinated interoceptive fibres and ephaptic coupling as the root of sentience) is offered as a hypothesis and stays one.'
+title: 'The nature of feelings: evolutionary and neurobiological origins'
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Read in full (the publisher's typeset PDF, Nature Reviews Neuroscience
+    14(2):143–152, February 2013, pp. 143–152 complete, from a course copy
+    hosted by Masaryk University's information system, is.muni.cz, which
+    carries an EBSCO-delivery copyright page; text extracted with PyMuPDF).
+    I read the abstract, the introduction, "Feelings reference
+    physiological states", "The evolution of neural maps of the body", Box
+    1 and its table, the glossary, "Drives/emotions facilitate
+    homeostasis", "The neural substrates of feeling" (the insula, the
+    somatosensory cortex, the evolution of feelings), "The cellular basis
+    of feelings" (unmyelinated processing, ephaptic transmission, "From
+    sentience to feelings"), the concluding remarks, Figs 1–3 with
+    captions, the acknowledgements and the competing-interests statement.
+    Of the 166 references I checked those the argument leans on (4, 5, 17,
+    38, 54, 56, 60, 111–114, 117, 118, 127) and sampled the rest; none was
+    followed to its source. Crossref confirms the DOI, the authors and the
+    pages; `published:` is Crossref's published-online date (ADR-002).
+    Not held in the Anthology of the SOTA: a grep of its record for the DOI
+    and "Damasio" found nothing.
+tags:
+- emotion-and-affect
+- neuroscience
+- consciousness
+- natural-sciences
+date: '2026-10-01'
+published: '2013-01-18'
+doi: '10.1038/nrn3403'
+first_author: 'Damasio'
+keywords:
+- 'feelings'
+- 'homeostasis'
+- 'interoception'
+- 'drives'
+- 'emotions'
+- 'action programmes'
+- 'insula'
+- 'brainstem'
+- 'unmyelinated fibres'
+- 'ephaptic transmission'
+implementations: []
+summary: >-
+  Damasio & Carvalho (2013), Nature Reviews Neuroscience 14:143–152.
+  Feelings are mental experiences of body states, and they report
+  homeostatic value: a valenced read-out of interoceptive maps that lets an
+  organism learn and anticipate what restores or threatens its physiology.
+  The first integrated whole-body maps are in the upper brainstem
+  (parabrachial nucleus, periaqueductal grey, deep superior colliculus);
+  the insula refines feeling but is not needed for it, since a patient with
+  both insulae destroyed still feels pain, pleasure, hunger and
+  compassion. The authors propose, without evidence of their own, that
+  feeling starts in unmyelinated interoceptive fibres open to ions and
+  ligands along their length.
+---
+
+# LIT-tmpz53rr: The nature of feelings: evolutionary and neurobiological origins
+
+Antonio Damasio, Gil B. Carvalho (2013), *Nature Reviews Neuroscience*
+14(2):143–152, Perspectives: Opinion — DOI 10.1038/nrn3403
+
+## Key takeaways
+
+- A feeling is the mental experience of a body state. Feelings are kept
+  apart from **drives and emotions**, which are "action programmes": innate,
+  largely stereotyped sets of bodily and cognitive actions that maintain or
+  restore homeostasis (Box 1). An action programme changes the body; the
+  change is mapped interoceptively; the map may or may not be felt.
+- Body states are **valenced by construction** (good or bad for
+  homeostasis), so a felt map is a proxy for biological value. The
+  evolutionary hypothesis is that felt experience was added to
+  non-conscious body mapping because it makes regulation more flexible:
+  it forces attention and supports learning and prediction.
+- The **upper brainstem** is the first place interoceptive signals form a
+  whole-body map, and the authors place feeling there as well as in
+  cortex. The evidence is that a patient with both insulae destroyed
+  still feels (their own patient B, reported in a 2012 Cerebral Cortex
+  paper they cite), that children born without cortex behave as if they
+  feel, and that damage to the posterior upper brainstem abolishes
+  sentience while damage to the ventral half (locked-in syndrome) does
+  not. The insula and SI/SII are given a modulatory role: finer
+  discrimination, and access to memory, language and reasoning.
+- Feelings are therefore very likely **not exclusive to humans**. Since
+  the brainstem is conserved, "the parsimonious assumption should be that
+  feelings are present" in species that have its structures and behave as
+  if they feel.
+- **A cellular proposal**, offered as such: interoceptive pathways are
+  mostly unmyelinated (about 80% of vagal fibres), and myelin would block
+  ephaptic coupling and ligand binding along the axon. So unmyelinated
+  membranes open to the milieu may be the cellular root of sentience,
+  with feelings arising as that activity is synchronized up to the
+  systems level.
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for "some Antonio Damasio".
+It is held here and not in the anthology: it carries no instruction for
+machine-learning practice and no anthology topic holds it. Its primary
+subject is emotion and feeling, which [ADR-014](../decisions.d/ADR-014.md) added `emotion-and-affect`
+to say.
+
+[NOTE-tmpbccwv](../notes.d/NOTE-tmpbccwv.md) is the close reading of 2026-10-01, and it placed the work:
+**Active**. It is a ten-page Opinion, and as an account of how feeling
+arises it is a programme, not a result. Its value is as the compact,
+citable form of a view the rest of the record argues with, and its
+lesion evidence against the insula as the seat of feeling is the part
+most worth keeping.
+
+How it bears on what the record holds:
+
+- **Biological naturalism.** Seth's case that consciousness belongs to
+  living systems ([LIT-135](LIT-135.md)) runs through interoception and the
+  regulation of the body, as this paper does. The routes differ. Seth's
+  goes through predictive processing and the free energy principle. This
+  paper's goes through topographic body maps and their evolution, and
+  says nothing about prediction or inference beyond the claim that
+  feelings aid anticipation. Read together, they show that the "life and
+  mind" line in the record has a neuroanatomical route that does not
+  depend on the free energy principle.
+- **Who has feelings.** The parsimony argument for animal feeling is the
+  kind of graded-sentience premise that Terrill and colleagues' plant
+  paper ([LIT-193](LIT-193.md)) builds on, but it ties feeling to a nervous system
+  with interoceptive maps and a brainstem. On its own terms it gives no
+  support to plant sentience. The Damasios' own criticism of plant
+  sentience, which Terrill and colleagues cite and [NOTE-120](../notes.d/NOTE-120.md) reports, is a
+  different work: a 2023 Animal Sentience commentary, "Sensing is a far
+  cry from sentience" (DOI 10.51291/2377-7478.1805), not held here and not
+  read.
+- **Bodies and machines.** Roberts' argument that interoceptive and
+  affective states need an animate body ([LIT-207](LIT-207.md)) can take this paper
+  as its neuroscience. The paper already frames the action programme "from
+  a bioengineering standpoint", as four elements: a stimulus, a detector,
+  an executor, and a detector that halts the correction. Man and Damasio's
+  2019 proposal for machines that regulate a vulnerable body, filed beside
+  this one on the same day but not read, starts by its abstract from the
+  same view of feeling as the mental expression of homeostasis.
+- **Damasio's earlier work, filed the same day.** The paper cites the
+  Iowa gambling-task result of Bechara, Damasio, Tranel and Damasio
+  (1997) as an example of decision-making that goes on without a felt
+  experience; read with it, that experiment becomes evidence that body
+  signals can steer behaviour below awareness. The somatic marker
+  hypothesis is not cited by name, but its idea, that body states mark
+  options with value, is restated here as the claim that higher cognition
+  "borrows" the valence first built for homeostatic regulation. The
+  paper's account of mapping, which compares body maps with visual maps of
+  objects, is a cousin of the retroactivation framework but does not cite
+  it.

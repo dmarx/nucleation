@@ -1,0 +1,96 @@
+---
+status: Active
+status_note: 'read in full 2026-10-01 ([NOTE-tmpv0pib](../notes.d/NOTE-tmpv0pib.md)); worth reading as the shortest statement of the somatic marker hypothesis by its author, with the evidence it then rested on. It is a hypothesis paper: the mechanism (ventromedial prefrontal linkages that re-enact body states, by a "body loop" or an "as if body loop", which then mark options good or bad) is stated, not shown, and the evidence it reports is lesion and skin-conductance work summarised from other papers, without numbers. Its strongest piece, that ventromedial patients lack anticipatory skin-conductance responses in the gambling task while responding normally to the losses themselves, is reported here in one paragraph; the 1997 Science report filed alongside it is the place to see that result. Whether the account is true is not this note''s question.'
+title: 'The somatic marker hypothesis and the possible functions of the prefrontal cortex'
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Read in full (Phil. Trans. R. Soc. Lond. B 351:1413–1420, 29 October
+    1996, from a JSTOR PDF posted as a course reading at USC ICT; 8 pages
+    of article plus the JSTOR cover, text extracted with PyMuPDF). I read
+    the summary, §§1–5, the references and the printed discussion with B.
+    J. Everitt and D. Bishop. The scan cuts off the right edge of the
+    summary, of the first lines of §4 and of the discussion column, so a
+    few phrases there are incomplete; nothing quoted below comes from a
+    truncated line. Bibliographic details checked against Crossref, which
+    lists Damasio as sole author; JSTOR adds Everitt and Bishop because it
+    counts the discussion. Not held in the Anthology of the SOTA.
+tags:
+- emotion-and-affect
+- neuroscience
+- cognition
+date: '2026-10-01'
+published: '1996-10-29'
+doi: '10.1098/rstb.1996.0125'
+first_author: 'Damasio'
+keywords:
+- 'somatic marker hypothesis'
+- 'ventromedial prefrontal cortex'
+- 'decision making'
+- 'emotion'
+- 'feeling'
+- 'as if body loop'
+- 'skin conductance response'
+- 'gambling task'
+implementations: []
+summary: >-
+  Damasio (1996), DOI-10.1098/rstb.1996.0125. States the somatic marker
+  hypothesis: ventromedial prefrontal cortex holds learned links between
+  classes of situation and the body states (emotions) that went with them;
+  when a situation recurs, those states are re-enacted, through the body or
+  through an "as if" loop in somatosensory cortex, and mark imagined
+  option-outcome pairs as good or bad, overtly as a feeling or covertly as
+  a bias, so that reasoning works over a pruned space. Evidence summarised:
+  ventromedial patients with intact intellect decide badly in life, lack
+  skin-conductance responses to emotive pictures, and in the gambling task
+  keep choosing the losing decks and show no anticipatory responses.
+---
+<!-- inactive-ok-file: LIT-tmpll80w — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
+
+# LIT-tmpa9mef: The somatic marker hypothesis and the possible functions of the prefrontal cortex
+
+Antonio R. Damasio (1996), *Philosophical Transactions of the Royal Society of London B 351(1346), 1413–1420* — DOI-10.1098/rstb.1996.0125
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for "some Antonio Damasio". No
+anthology topic holds it: its subject is the part emotion and body states
+play in human decision making, and its evidence is clinical neurology. It
+carries no instruction for machine-learning practice.
+
+[NOTE-tmpv0pib](../notes.d/NOTE-tmpv0pib.md) is the close reading of 2026-10-01, and it placed the work:
+**Active**. It is the author's own compact statement of the hypothesis, the
+structures he assigns to it, and the evidence for it as of 1996, and later
+work on the hypothesis, for and against, cites it. Read it as a hypothesis
+paper. The mechanism is argued from a clinical dissociation (ventromedial
+patients keep their intellect, knowledge and working memory, and lose
+emotional responsiveness and good personal decisions together), and the
+evidence is summarised from other papers without numbers. The paper is
+plain that it is not a theory of the whole prefrontal cortex.
+
+Its experimental core is the gambling task result, reported more fully in
+the 1997 Science report filed alongside it ([LIT-tmp8vfsi](LIT-tmp8vfsi.md)), which adds the
+timing of what participants could say about the game. That report's own
+statistics are weaker than its abstract on the point this hypothesis most
+needs (see its note). The mechanism leans on Damasio's 1989 convergence-zone
+framework ([LIT-tmpll80w](LIT-tmpll80w.md)): the ventromedial links are "dispositional"
+records in the sense that paper set out. Damasio's later work on feeling,
+homeostasis and consciousness is being filed in this record at the same
+time; how far it keeps this paper's body-state account of emotion is for
+those readings to say.
+
+In this record its nearest neighbours are about feelings as signals. Seth's
+case for biological naturalism ([LIT-135](LIT-135.md)) has conscious experience
+integrating bodily signals for allostatic regulation; the somatic marker
+hypothesis is an older and narrower claim in the same family, about
+decision, not about consciousness, and it explicitly sets consciousness
+aside. The cross-modal unity account in [LIT-190](LIT-190.md) has a felt quality of
+processing enter judgements about its source, and Damasio's overt markers
+are the same shape of claim, a feeling that qualifies a judgement, with a
+body state as the feeling's content. Roberts ([LIT-207](LIT-207.md)) counts "affect with
+somatic expression" among the states a disembodied system cannot have; the
+"as if body loop" here, in which the body is bypassed and only its
+representation is changed, is the place where that inference would need
+care.
