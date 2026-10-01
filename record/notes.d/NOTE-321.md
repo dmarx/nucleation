@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp68638
 paper: LIT-373
 title: 'The two dragons of cognition: recursive condensation for predictive processing'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-01'
@@ -30,6 +30,13 @@ history:
     date. The page's `citation_online_date` (2026-02-27) is the acceptance
     date. No anthology entry exists for this DOI or title.). The first NOTE
     on this paper, which was seeded from its abstract alone.
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Corrected the THEORY-030 connection, at the owner's prompting: a
+    metabolic cost of maintaining structure means the structure is
+    dissipative, which Landauer's principle does not forbid, so the paper's
+    thermodynamic language is consistent with THEORY-030, not against it.
 date: '2026-10-01'
 summary: >-
   A "Hypothesis and Theory" essay proposing that the neocortex is a
@@ -130,7 +137,7 @@ There is no method in the empirical sense. The paper argues by analogy across th
 
 ## Connections
 
-- **[THEORY-030](../theory.d/THEORY-030.md) (Landauer prices only logically irreversible steps).** This shares vocabulary, and the paper's thermodynamic language runs against it. The paper's metric collapse and quotient map is a many-to-one map, so [THEORY-030](../theory.d/THEORY-030.md)'s account would price it, at k ln 2 of exported entropy per bit of lost distinguishability. Holding the resulting structure would not be priced, yet §6.1 attributes baseline metabolic cost to "fighting the Second Law … to maintain this topological scaffold", and §5.1.2 calls the system a "Maxwell's Demon of geometry" that "dissipates metabolic heat … to actively reduce the topological entropy". No dynamics or accounting is supplied, so the paper does not bear on [THEORY-030](../theory.d/THEORY-030.md)'s promote_when. That condition asks for a derivation for stated dynamics, and the paper offers none.
+- **[THEORY-030](../theory.d/THEORY-030.md) (Landauer prices only logically irreversible steps).** This shares vocabulary and is consistent with the paper's thermodynamic language. *Corrected 2026-10-01; this read "runs against it", which was wrong:* a standing metabolic cost of maintaining structure (§6.1, "fighting the Second Law … to maintain this topological scaffold") says only that the structure is dissipative, held away from equilibrium. Landauer's principle bounds the cost of logically irreversible steps from below and says nothing against upkeep. Holding information in a noisy substrate in fact requires continual error correction, which itself erases. The paper's metric collapse and quotient map is a many-to-one map, so [THEORY-030](../theory.d/THEORY-030.md)'s account would price it, at k ln 2 of exported entropy per bit of lost distinguishability. The "Maxwell's Demon of geometry" that "dissipates metabolic heat … to actively reduce the topological entropy" (§5.1.2) is likewise consistent with it. What the paper lacks is any energy accounting, so it does not bear on [THEORY-030](../theory.d/THEORY-030.md)'s promote_when, which asks for a derivation for stated dynamics.
 - **[THEORY-026](../theory.d/THEORY-026.md) (only nonpredictive memory is wasteful, absent feedback).** This also shares vocabulary only. The paper's "a Prior is simply a fossilized Search path" and its claim that structure converts "the high cost of active search into the zero-cost inertia of structure" (§5.1.2) gesture at the same territory, the energetics of predictive memory. However, the paper has no driven system, no information measure and no feedback distinction. It does not bear on [THEORY-026](../theory.d/THEORY-026.md)'s promote_when.
 - **[THEORY-035](../theory.d/THEORY-035.md) (Rejected: SGD compression explains generalisation).** The paper's slogan "not compression for bandwidth's sake but condensation for separability's sake" (§6.1) is a cousin of the rejected account: a representation is said to generalise because it collapses. It is offered with even less support, no measurement of any kind. The paper does not engage the information-plane literature, and it does not bear on that theory's reinstatement conditions.
 - **[THEORY-008](../theory.d/THEORY-008.md) (what a regularized linear readout can decode is fixed by the normalized kernel).** This is vocabulary only. The paper's "linear readout" claims (§3.1, §3.3) rest on Urysohn's continuous separator, not on any readout analysis. [THEORY-008](../theory.d/THEORY-008.md) is the record's precise version of what a linear readout can and cannot extract.
