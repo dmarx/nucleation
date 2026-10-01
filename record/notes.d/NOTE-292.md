@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmph2vm6
 paper: LIT-335
 title: 'A topos foundation for theories of physics: II. Daseinisation and the liberation of quantum theory'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-29'
@@ -24,6 +24,11 @@ history:
     alongside. `pdftotext` was not available, so I extracted the text with
     PyMuPDF. The published J. Math. Phys. text (paywalled) was not seen.).
     The first NOTE on this paper, which was seeded from its abstract alone.
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Part III's author order corrected (Hamilton, Isham & Butterfield); KS
+    II–IV are now registered, and the note names them.
 date: '2026-09-29'
 summary: >-
   A projector P̂ is mapped to the clopen sub-object δ(P̂) of the spectral
@@ -90,7 +95,7 @@ Nothing is lost, since the map is injective (Thm 2.1). Quantum logic's non-distr
 | C2 | δ preserves ∨ exactly and ∧ only up to ⪯, with strictness for complementary projectors | proof | (2.10)–(2.15), (2.44)–(2.45); Lemma 2.3's proof is one line ("straightforward consequence") but the statement is correct (δ_V is a left adjoint) |
 | C3 | Sub_cl(Σ) is a Heyting algebra | informal argument / sketch | Thm 2.5. ∧, ∨ and ¬ are given, ⇒ is left to "straightforward extension", and the Heyting laws are not checked |
 | C4 | Daseinised sub-objects are exactly the "optimal" ones, with surjective restrictions | proof, using de Groote's openness of restriction | Thm 3.1, Lemma 3.2 |
-| C5 | Σ has no global elements, and this is equivalent to Kochen–Specker | cited, not proved; stated without the required dim H > 2 | pp. 3, 10, 24–25; the source is Isham–Butterfield / Hamilton–Butterfield–Isham |
+| C5 | Σ has no global elements, and this is equivalent to Kochen–Specker | cited, not proved; stated without the required dim H > 2 | pp. 3, 10, 24–25; the source is Isham–Butterfield / Hamilton–Isham–Butterfieldsham |
 | C6 | A pure state gives a truth object T^ψ ⊆ O, and propositions get sieve-valued truth values (4.41) | definition plus short check | (4.29)–(4.31). That T^ψ is a sub-object is checked in the text |
 | C7 | O is a sub-object of P_clΣ via a monic ⌜ι⌝, so T^ψ is a sub-object of P_clΣ | assertion (proof omitted) | §4.3.2 |
 | C8 | O and I are isomorphic objects in the topos | assertion | §2.4.2, end |
@@ -112,7 +117,7 @@ Daseinisation is order-theoretic approximation, de Groote's V-support and core, 
 
 ## Connections
 
-- **Isham–Butterfield 1998 ([LIT-325](../literature.d/LIT-325.md)) and its sequels (not registered: KS II–IV).** These are cited as [13]–[16]. Kochen–Specker ⇔ no global elements, the coarse-graining presheaf, generalised valuations valued in sieves, and T^ψ are all taken from there. The paper calls its own contribution "a satisfying (for us) completion of the earlier work" (§5). The base category is V(H), following Hamilton–Butterfield–Isham 2000 (KS III), not Isham–Butterfield 1998's category of self-adjoint operators under functional relations or its Boolean subalgebras W.
+- **Isham–Butterfield 1998 ([LIT-325](../literature.d/LIT-325.md)) and its sequels (KS II–IV, registered 2026-10-01 as [LIT-tmpf4hde](../literature.d/LIT-tmpf4hde.md), [LIT-tmp6dqzs](../literature.d/LIT-tmp6dqzs.md) and [LIT-tmptub9z](../literature.d/LIT-tmptub9z.md)).** These are cited as [13]–[16]. Kochen–Specker ⇔ no global elements, the coarse-graining presheaf, generalised valuations valued in sieves, and T^ψ are all taken from there. The paper calls its own contribution "a satisfying (for us) completion of the earlier work" (§5). The base category is V(H), following Hamilton–Butterfield–Isham 2000 (KS III), not Isham–Butterfield 1998's category of self-adjoint operators under functional relations or its Boolean subalgebras W.
 - **de Groote 2005 (math-ph/0507019, 0509020).** The source of δ^o and δ^i and of the openness result behind Thm 3.1. Not in the record.
 - **Paper III ([LIT-299](../literature.d/LIT-299.md)).** It extends daseinisation to self-adjoint operators and identifies Gel'fand points with ultrafilters.
 - **Abramsky–Brandenburger ([LIT-016](../literature.d/LIT-016.md)) and [THEORY-012](../theory.d/THEORY-012.md).** Same shape, different object. [THEORY-012](../theory.d/THEORY-012.md) says a model is noncontextual iff its compatible family of *distributions* over a finite measurement cover has a nonnegative global section. In this paper the presheaf is Σ over all abelian subalgebras. Its global elements are deterministic valuations on all projectors (Isham–Butterfield's dual presheaf in operator-algebraic form), and a state enters only through T^ψ, i.e. the propositions it makes certain.

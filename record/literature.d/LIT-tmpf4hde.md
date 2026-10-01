@@ -1,0 +1,78 @@
+---
+status: Active
+status_note: 'read in full 2026-10-01 ([NOTE-tmpof137](../notes.d/NOTE-tmpof137.md)); worth reading as the series'' conceptual companion and the only place it states the classical analogue and the partial-truth motivation; the mathematics is light (one short theorem), and the sieve semantics it motivates is carried on in part III, part IV and Döring–Isham ([LIT-343](LIT-343.md), [LIT-335](LIT-335.md)).'
+title: 'A Topos Perspective on the Kochen-Specker Theorem: II. Conceptual Aspects, and Classical Analogues'
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Read in full (Full text of arXiv quant-ph/9808067 v2 (8 Nov 1998; v1 was
+    31 Aug 1998, the arXiv comment on v2 being "Small changes and
+    corrections"), from the arXiv PDF, 39 PDF pp. (title page plus printed
+    pp. 1–38). The title page is dated "31 August 1998", with a footnote
+    "Small corrections added in October 1998". I read the abstract, §1
+    (introduction), §2 (review of Part I: §2.1 categories, presheaves and
+    subobjects; §2.2 sieves, Ω, global and partial sections; §2.3 the
+    applications to quantum physics, i.e. KS on O_d, partial → generalised
+    valuations, the coarse-graining presheaf, valuations from states), §3
+    (classical physics: §3.1 the category M and the value presheaf Υ,
+    quantisation as a functor; §3.2 macrostates; §3.3 the classical
+    generalised valuations), §4 (§4.1 generalised FUNC and Theorem 4.1; §4.2
+    comparison functors and coarse-graining presheaves on any small
+    category), §5 (§5.1 the intuitive argument from partial truth; §5.2 its
+    assessment), §6 (conclusion), the acknowledgements and all 6 references.
+    Nothing was skipped. The text was extracted with PyMuPDF; the
+    commutative diagrams (2.2)–(2.3) were reconstructed from the surrounding
+    text. I followed the one proof given (Theorem 4.1) and checked by hand
+    several of the verifications the paper leaves to the reader (that ν^R of
+    eq. 3.10 is a sieve and obeys FUNC, null and exclusivity; that ν^s of
+    eq. 3.15 is principal iff Ā(s) ∈ Δ). The IJTP version of record was not
+    read. Bibliographic data were checked against the arXiv abstract page
+    and Crossref. There is no Anthology of the SOTA entry for this paper
+    (searched the anthology's literature.d for the arXiv id and title). This
+    is part II of the series whose part I is LIT-325, read as one series
+    with Hamilton, Isham & Butterfield (2000, part III) and Butterfield &
+    Isham (2002, part IV).); the first NOTE on it, since it was seeded from
+    the abstract alone. Status set from the reading: Active.
+tags:
+- quantum-foundations
+- logic
+- contextuality
+- philosophy-of-science
+- mathematics
+date: '2026-10-01'
+published: '1998-08-31'
+doi: '10.1023/A:1026652817988'
+arxiv: 'quant-ph/9808067'
+first_author: 'Butterfield'
+keywords:
+- 'owner request'
+implementations: []
+summary: >-
+  Butterfield & Isham (1998), arXiv:quant-ph/9808067. Butterfield & Isham
+  argue that the sieve-valued "generalised valuations" of part I are not a
+  quantum peculiarity but the natural valuations for any presheaf of
+  propositions on any small category. Three supports are offered. (1)
+  Classical physics: the value presheaf Υ(Ā) = Ā(S) on the category M of
+  measurable functions has global sections (one per microstate, eq. 3.7),
+  yet a macrostate R ⊆ S yields a sieve-valued valuation ν^R(A ∈ Δ) = {f_M
+  | B̄(R) ⊆ f(Δ)} (eq. 3.10) with the same FUNC property as the quantum
+  ν^ρ. (2) A proof that a sieve-valued valuation on any presheaf G obeys
+  generalised FUNC, ν(B, G(f)(d)) = f*(ν(A, d)), iff it is a natural
+  transformation G → Ω, i.e. a subobject of G (Theorem 4.1). (3) An
+  informal argument, explicitly "not a genuine deduction" (§5.2), that if
+  partial truth is fixed by which weakenings of a proposition are totally
+  true, the truth value is a sieve.
+---
+
+# LIT-tmpf4hde: A Topos Perspective on the Kochen-Specker Theorem: II. Conceptual Aspects, and Classical Analogues
+
+Butterfield & Isham (1998), *International Journal of Theoretical Physics 38(3):827–859 (March 1999), per Crossref; the journal pages were not seen* — arXiv:quant-ph/9808067
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmpof137](../notes.d/NOTE-tmpof137.md) is the close reading of 2026-10-01, and it placed the work: **Active** — worth reading as the series' conceptual companion and the only place it states the classical analogue and the partial-truth motivation; the mathematics is light (one short theorem), and the sieve semantics it motivates is carried on in part III, part IV and Döring–Isham ([LIT-343](LIT-343.md), [LIT-335](LIT-335.md)).
