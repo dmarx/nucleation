@@ -1,0 +1,67 @@
+---
+status: Rejected
+status_note: 'read in full 2026-10-01 ([NOTE-tmp68638](../notes.d/NOTE-tmp68638.md)); not worth a reader''s time as a source for either of its claims. The complexity and topology premises are misstated (Savitch is read backwards, Urysohn is overstated). The scaling "theorem" is unproved and, by the paper''s own statement, AI-assisted. Every neural mapping is asserted. What survives is three loosely specified predictions (§6.2) that would need a model to make them discriminating.'
+title: 'The two dragons of cognition: recursive condensation for predictive processing'
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Read in full (Full text of the version of record, the publisher's
+    open-access PDF from frontiersin.org (CC BY 4.0, 15 pp., with a text
+    layer, extracted with PyMuPDF). I read the front matter (received 31 Dec
+    2025, revised 20 Feb 2026, accepted 27 Feb 2026, published 23 Mar 2026;
+    editor and two reviewers named), the abstract, and §§1–7 with every
+    subsection: §1.1–1.5; §2, §2.1.1–2.1.3, §2.2; §3.1 (Theorem 1, Remark
+    1), §3.1.1, §3.2.1–3.2.3 (Remark 2), §3.3, §3.3.1 (Table 1, Definition
+    1), §3.3.2; §4.1.1–4.1.4, §4.2; §5.1 (Definition 2), §5.1.1–5.1.2,
+    §5.2.1–5.2.3 (Theorem 2); §6.1 (Table 2), §6.2.1–6.2.3; §7. I also read
+    the four figure captions, the data-availability, contributions, funding,
+    conflict-of-interest and generative-AI statements, and the reference
+    list (about 55 entries). Nothing was skipped. There is no supplementary
+    material, despite the boilerplate data-availability line. The HTML
+    landing page was checked for metadata only. No preprint under this title
+    was found: an arXiv search of the author's papers turns up related
+    preprints by Li (2024–2026) whose vocabulary this paper uses, but none
+    with this title, so `published:` is the publisher's printed publication
+    date. The page's `citation_online_date` (2026-02-27) is the acceptance
+    date. No anthology entry exists for this DOI or title.); the first NOTE
+    on it, since it was seeded from the abstract alone. Status set from the
+    reading: Rejected.
+tags:
+- neuroscience
+- cognition
+- learning-theory
+- mathematics
+date: '2026-10-01'
+published: '2026-03-23'
+doi: '10.3389/fncom.2026.1778902'
+url: 'https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2026.1778902/full'
+first_author: 'Li'
+keywords:
+- 'owner request'
+implementations: []
+summary: >-
+  Li (2026), DOI-10.3389/fncom.2026.1778902. A "Hypothesis and Theory"
+  essay proposing that the neocortex is a "biological Savitch machine".
+  Alternating expansion ("odd parity") and contraction ("even parity")
+  phases manufacture the disjoint closed sets of Urysohn's Lemma, and
+  storing ("memoizing") the condensed tokens converts exponential search
+  into polynomial "navigation". Its one non-standard formal result,
+  Theorem 2, R(N) ∝ b^{αN} (§5.2.2, p. 11), is stated without proof. There
+  is no data, simulation or model. The two mathematical pillars are
+  misdescribed: Savitch's theorem saves space at the cost of time and does
+  not memoize, and Urysohn's Lemma gives a continuous separator, not a
+  linear one, and is not an "if and only if".
+---
+
+# LIT-tmp6erox: The two dragons of cognition: recursive condensation for predictive processing
+
+Li (2026), *Frontiers in Computational Neuroscience 20:1778902 (2026), article type "Hypothesis and Theory"; open access, CC BY 4.0* — DOI-10.3389/fncom.2026.1778902
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)).
+
+It was filed `Deferred`, unread. [NOTE-tmp68638](../notes.d/NOTE-tmp68638.md) is the close reading of 2026-10-01, and it placed the work: **Rejected** — not worth a reader's time as a source for either of its claims. The complexity and topology premises are misstated (Savitch is read backwards, Urysohn is overstated). The scaling "theorem" is unproved and, by the paper's own statement, AI-assisted. Every neural mapping is asserted. What survives is three loosely specified predictions (§6.2) that would need a model to make them discriminating.
