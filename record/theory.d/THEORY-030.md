@@ -17,7 +17,15 @@ promote_when: >-
   dilemma that shows the principle to be circular would demote it to
   pedagogy, which Bennett already concedes it partly is.
 title: 'Landauer''s principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Added to "What this does not say": the principle does not make
+    maintenance free; a standing cost of holding structure only means the
+    structure is dissipative, and error correction against noise is itself
+    an erasure the principle prices.
 tags:
 - information-theory
 - natural-sciences
@@ -61,6 +69,7 @@ Three independent readings ([NOTE-295](../notes.d/NOTE-295.md), [NOTE-296](../no
 ## What this does not say
 
 - **That there is a k_BT ln 2 heat floor per judgment, per gradient step, or per bit learnt.** The prior-art map's row 13 ("Q ≥ k_BT ln 2 · C_step") needs exactly that, and none of the three sources supplies it (curation 2026-09-29, 233704). The defensible form is k_BT ln 2 of entropy per predicate bit *erased or overwritten*.
+- **That holding a structure costs nothing.** The principle is a lower bound on the cost of logically irreversible steps, not a claim that maintenance is free. A structure held away from equilibrium, as a living or noisy physical substrate must hold it, dissipates continually, and keeping information against noise requires error correction, which erases and so is itself priced here. A standing maintenance cost means the structure is dissipative; it is not in tension with this account. [NOTE-321](../notes.d/NOTE-321.md) first read it as one, and was corrected.
 - **That the principle is derived.** Bennett presents it as a restatement of the Second Law and gives no formal derivation. He concedes the Earman–Norton dilemma "with some justice" (p. 5). [LIT-114](../literature.d/LIT-114.md) §7.2 reports Norton's verdict that the Landauer literature is "too fragile" ([NOTE-103](../notes.d/NOTE-103.md)).
 - **Anything about real hardware.** Bennett notes that real devices dissipate "far in excess" of the bound (p. 2). Fault-tolerant computation, where realistic per-step costs arise, he calls a subject "in its infancy" (p. 5).
 - **Anything quoted as Landauer.** Landauer 1961 ([LIT-328](../literature.d/LIT-328.md)) is Deferred and unread. Bennett also gives its title wrongly.

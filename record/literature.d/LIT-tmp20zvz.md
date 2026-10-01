@@ -1,0 +1,69 @@
+---
+status: Rejected
+status_note: 'read in full 2026-10-01 ([NOTE-tmp77brj](../notes.d/NOTE-tmp77brj.md)); ''not worth a reader''''s time as a source for structural learnability or for alignment. What it proves is textbook. What is new is assumed (the width phase transition, uniform width estimation), contradicts its own construction (the bouquet, w = m), or is false as stated (Thm 4.6''''s pseudo-dimension direction). The step from an additive upper bound to "train the scaffold on different gradients" is an informal argument, and the safety section is assertion with internal contradictions. The author says AI models helped develop the proofs.'''
+title: 'Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment'
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Read in full ('Full text of arXiv v2 (2026-06-08), the current version,
+    from the arXiv PDF (16 pp., with a text layer, extracted with PyMuPDF).
+    I read the abstract and index terms, the funding and AI-use footnote (p.
+    1), §1, §2 with Table 1, §3.1–3.3 (Defs 3.1, 3.5, 3.9; Thms 3.2–3.4,
+    3.6–3.8, 3.10; the grokking paragraph), §4.1–4.2 (Defs 4.1, 4.2, 4.4,
+    4.8–4.10, 4.12; Thms 4.3, 4.5, 4.6; Props 4.7, 4.11, 4.13; the
+    condensation protocol), §5 (Def 5.1 and items 1–5), §6.1–6.5, §7, the 63
+    references, and every appendix proof (.1–.13, pp. 13–16). Figures 1–3
+    were read from their text and captions only. Nothing was skipped. I also
+    read v1 (2025-06-25, 26 pp.) in full, including Appendices A–M, to
+    compare the versions. v1 is a different paper, "On Context-Content
+    Uncertainty Principle", and shares no section, definition or theorem
+    with v2 (see corrections). `published:` is the v1 date, as the batch
+    instructions require. The content read here first appeared on
+    2026-06-08, and the StrLT results it summarises also appear in a
+    companion preprint by the same author, "Structural Learning Theory: A
+    Metric-Topology Factorization Approach" (arXiv 2602.07974, v1
+    2026-02-08). That preprint is not cited here and was not read. No
+    anthology entry exists for this arXiv id or either title.'); the first
+    NOTE on it, since it was seeded from the abstract alone. Status set from
+    the reading: Rejected.
+tags:
+- learning-theory
+- representation-learning
+- cognition
+date: '2026-10-01'
+published: '2026-06-08'
+arxiv: '2506.20699'
+first_author: 'Li'
+keywords:
+- 'owner request'
+implementations: []
+summary: >-
+  Li (2026), arXiv:2506.20699. 'Proposes "width", the least number of
+  cells in an open cover on each of which some predictor is γ-contractive
+  with conditional risk ≤ δ, as a structural complexity separate from VC
+  dimension. From an additive Rademacher bound, √(2d_str
+  log(e(K−1)n/d_str)/n) + LK·R_n(G) (Thm 4.5), it argues that context
+  routing (the "scaffold") should be trained by different signals from
+  within-context prediction (the "flow"), and that alignment failures are
+  scaffold failures. The routine results are proved: coupon-collector Ω(w
+  log w), Lipschitz composition, penalised model selection, multiclass
+  Sauer–Shelah. The new ones are not. The phase transition at width is
+  assumed in its proof. The bouquet witness of width/VC separation
+  contradicts its own construction. The "fundamental theorem" is false as
+  stated, because infinite pseudo-dimension does not prevent learnability.
+  No theorem links the CS-Laplacian estimator to width. There are no
+  experiments.'
+---
+
+# LIT-tmp20zvz: Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
+
+Li (2026), *'arXiv preprint, cs.LG; v1 2025-06-25 under the title "On Context-Content Uncertainty Principle" (different content); v2 2026-06-08 under the present title, the version read; no journal reference'* — arXiv:2506.20699
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)). Here that is 2026-06-08, the date of arXiv v2: v1 (2025-06-25) under the same number is a different paper, "On Context-Content Uncertainty Principle", which shares nothing with this one. The owner offered it as follow-up work to [LIT-373](LIT-373.md); it postdates [LIT-373](LIT-373.md) and cites it.
+
+It was filed `Deferred`, unread. [NOTE-tmp77brj](../notes.d/NOTE-tmp77brj.md) is the close reading of 2026-10-01, and it placed the work: **Rejected** — 'not worth a reader''s time as a source for structural learnability or for alignment. What it proves is textbook. What is new is assumed (the width phase transition, uniform width estimation), contradicts its own construction (the bouquet, w = m), or is false as stated (Thm 4.6''s pseudo-dimension direction). The step from an additive upper bound to "train the scaffold on different gradients" is an informal argument, and the safety section is assertion with internal contradictions. The author says AI models helped develop the proofs.'
