@@ -1,0 +1,112 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-01 at the owner''s request; the full text exists as a free (bronze) PDF on MIT Press, but the site refused every automated request with a bot challenge (HTTP 403), and no repository, PubMed Central or preprint copy exists, so it is placed from the abstract only and no NOTE is filed. It is not the "Damasio & Damasio 2023" that [NOTE-120](../notes.d/NOTE-120.md) reports as a critic of plant sentience: that is a different work, an Animal Sentience commentary.'
+title: 'Feelings Are the Source of Consciousness'
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Not read. Crossref confirms the DOI, the authors (Antonio Damasio,
+    Hanna Damasio) and Neural Computation 35(3):277–286. `published:` is
+    the only full date Crossref gives, 2023-02-17 (ADR-002). An earlier
+    early-access appearance is likely, since PubMed indexed the paper on
+    2022-07-27 (PMID 35896152; received 2022-01-04, accepted 2022-04-13),
+    but its day could not be read from the publisher. The abstract was
+    read from Europe PMC. Unpaywall and OpenAlex list only the MIT Press
+    PDF, which refused every request; the Wayback Machine was not
+    reachable from this environment. Not held in the Anthology of the
+    SOTA: a grep of its record for the DOI and "Damasio" found nothing.
+tags:
+- consciousness
+- emotion-and-affect
+- neuroscience
+- metaphysics
+date: '2026-10-01'
+published: '2023-02-17'
+doi: '10.1162/neco_a_01521'
+first_author: 'Damasio'
+keywords:
+- 'consciousness'
+- 'homeostatic feelings'
+- 'interoception'
+- 'self'
+- 'life regulation'
+- 'mind-body problem'
+implementations: []
+summary: >-
+  Damasio & Damasio (2023), Neural Computation 35(3):277–286. A "view"
+  piece. Consciousness is the spontaneous identification of mind contents
+  as belonging to an organism, and a continuous flow of homeostatic
+  feelings provides it. Those feelings were the first phenomena of
+  consciousness in evolution. They arise from a two-way interaction
+  between the interoceptive nervous system and the viscera and their
+  chemistry, so they are hybrid, at once neural and bodily, which the
+  authors offer as a solution to the mind-body problem. Unread: placed
+  from the abstract.
+---
+
+# LIT-tmpszbte: Feelings Are the Source of Consciousness
+
+Antonio Damasio, Hanna Damasio (2023), *Neural Computation* 35(3):277–286
+— DOI 10.1162/neco_a_01521
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for "some Antonio Damasio".
+`Deferred` because the full text could not be reached, so no NOTE is
+filed. What the abstract says, to scope it until somebody reads it:
+
+- **What consciousness is.** It "occurs when mind contents, such as
+  perceptions and thoughts, are spontaneously identified as belonging to a
+  specific organism/owner". The hypothesis is that "a continuous flow of
+  homeostatic feelings" provides that identification.
+- **Two kinds of homeostatic feeling.** Some report salient fluctuations
+  (hunger, pain, well-being, malaise). Others, close to metabolic
+  equilibrium, are "feelings of life/existence", such as breathing or body
+  temperature.
+- **Evolution.** Homeostatic feelings "were the inaugural phenomena of
+  consciousness", selected because the knowledge they carry gave "overt"
+  guidance to life regulation, where nonconscious organisms have only
+  covert regulation.
+- **Mechanism.** Feelings come from a two-way interaction between
+  interoceptive parts of the nervous system and non-neural parts of the
+  body: viscera and the chemical molecules in their operation. They are
+  "continuous and hybrid phenomena", at once
+  neural/representational/mental and nonneural/visceral/chemical.
+- **The mind-body problem.** The authors say this "offers a solution":
+  homeostatic feelings "constitute the 'mental' version of bodily
+  processes".
+
+A reading should check what evidence the paper gives for the identification
+claim and for the bidirectional mechanism, and whether the mind-body claim
+is argued or only stated.
+
+**Not the work [NOTE-120](../notes.d/NOTE-120.md) cites.** [NOTE-120](../notes.d/NOTE-120.md) reports Terrill and colleagues'
+plant paper ([LIT-193](LIT-193.md)), which counts "Damasio & Damasio, 2023" among the
+critics who find the analogy between animal nervous systems and plant
+vascular systems misleading. Terrill and colleagues' reference list
+identifies that work as "Sensing is a far cry from sentience", *Animal
+Sentience* 33(16), DOI 10.51291/2377-7478.1805, a commentary, not this
+paper. [NOTE-120](../notes.d/NOTE-120.md) reports Terrill and colleagues' first use of the citation
+correctly. It leaves out their second, on p. 7, that plant sensing and
+the loss of sensory responses under anaesthesia may say nothing about
+sentience, "so behavioral evidence may fall flat". The commentary is not
+held here.
+
+How it bears on what the record holds:
+
+- It is the later and more ambitious form of the account in Damasio and
+  Carvalho ([LIT-tmpz53rr](LIT-tmpz53rr.md)), which already said that the advent of feeling
+  was the advent of mind. This paper makes feeling the source of
+  consciousness and adds the hybrid neural-visceral mechanism.
+- It is a rival, within biological approaches, to Seth's biological
+  naturalism ([LIT-135](LIT-135.md)). Both tie consciousness to the regulation of a
+  living body through interoception. Seth argues through predictive
+  processing and the free energy principle; by its abstract this paper
+  argues through homeostatic feeling and a body-brain loop.
+- Its claim that consciousness is the identification of mind contents
+  with an owner is a claim about the self. It bears on the record's
+  arguments about whether machines could be conscious (Birch's centrist
+  manifesto, [LIT-111](LIT-111.md); Seth, [LIT-135](LIT-135.md)) only by implication, since an
+  organism with viscera is part of its mechanism.

@@ -1,0 +1,94 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-01 at the owner''s request; no full text could be reached, so it is placed from the abstract and figure captions only and no NOTE is filed. Nature''s page is paywalled, there is no arXiv version, Unpaywall, OpenAlex and Semantic Scholar list no open copy, and the ResearchGate, Scribd and ProQuest copies did not serve the text. By its abstract it is a design proposal for machines built around homeostasis, not a reported system or result. Flagged anthology-candidate because the anthology''s agents-and-environments topic could hold it; a reading should settle whether it carries an instruction for ML practice.'
+title: 'Homeostasis and soft robotics in the design of feeling machines'
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Not read. Crossref confirms the DOI, the authors (Kingson Man, Antonio
+    Damasio), Nature Machine Intelligence 1(10):446–452, and the
+    published-online date 2019-10-09, which is `published:` (ADR-002).
+    The publisher page gave the abstract and the captions of Figs 1–2
+    only. No arXiv version exists: an arXiv search by title and by
+    author found none. Not held in the Anthology of the SOTA: a grep of
+    its record for the DOI, "Damasio" and "homeostat" found nothing.
+tags:
+- emotion-and-affect
+- agency
+- consciousness
+- anthology-candidate
+date: '2026-10-01'
+published: '2019-10-09'
+doi: '10.1038/s42256-019-0103-7'
+first_author: 'Man'
+keywords:
+- 'homeostasis'
+- 'feeling'
+- 'soft robotics'
+- 'multisensory abstraction'
+- 'self-preservation'
+- 'motivation'
+implementations: []
+summary: >-
+  Man & Damasio (2019), Nature Machine Intelligence 1:446–452. A
+  perspective proposing machines organized around homeostasis: a body that
+  must be kept within viable states gives the machine a goal of its own,
+  and something like feeling as a source of motivation and of evaluation.
+  Soft robotics and multisensory abstraction are named as the means. The
+  claimed payoffs are equivalents of feeling, better function across
+  environments, and a platform for studying consciousness. Unread: placed
+  from the abstract.
+---
+
+# LIT-tmpocdks: Homeostasis and soft robotics in the design of feeling machines
+
+Kingson Man, Antonio Damasio (2019), *Nature Machine Intelligence*
+1(10):446–452, Perspective — DOI 10.1038/s42256-019-0103-7
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for "some Antonio Damasio".
+`Deferred` because no full text could be reached, so no NOTE is filed.
+What the abstract and the publisher's page say, to scope it until somebody
+reads it:
+
+- It asks whose goals an intelligent machine should pursue, and answers:
+  its own meta-goal of self-preservation, held the way organisms hold it,
+  through homeostasis.
+- In organisms, feelings are "a mental expression of the state of life in
+  the body" and regulate behaviour. A machine implementing "a process
+  resembling homeostasis" might acquire "a source of motivation and a new
+  means to evaluate behaviour, akin to that of feelings".
+- The means named are soft robotics and multisensory abstraction. The
+  payoffs claimed are that such machines would "(1) exhibit equivalents to
+  feeling; (2) improve their functionality across a range of environments;
+  and (3) constitute a platform for investigating consciousness,
+  intelligence and the feeling process itself".
+- Fig. 1 is Ashby's homeostat of 1954, which "exhibited some self-restoring
+  stability". Fig. 2 compares artificial and natural soft materials.
+
+**Is it an instruction for ML practice?** By the abstract it is a design
+proposal, phrased as "we propose a new class of machines" and "conditions
+that would potentially allow machines to care". It reports no built system
+and no measurement. Whether the body turns the proposal into a
+recommendation for how to build or train learning systems could not be
+checked. It is tagged `anthology-candidate` because the anthology's
+`agents-and-environments` topic (systems that perceive, act and are
+changed by the consequences) could plausibly hold it. Under [ADR-001](../decisions.d/ADR-001.md) that
+would make it the anthology's, so the tag asks for a transfer decision
+once it has been read.
+
+Its primary subject is still feeling. Its account of feeling is the one
+Damasio and Carvalho set out in 2013 ([LIT-tmpz53rr](LIT-tmpz53rr.md)), which already frames
+an action programme "from a bioengineering standpoint". In the record it
+sits beside the arguments about whether a machine could feel or be
+conscious. Seth ([LIT-135](LIT-135.md)) holds that consciousness belongs to living,
+self-maintaining systems and so would need "living AI". This paper bets
+that machines with a vulnerable, self-maintained body are the route to
+feeling. Roberts ([LIT-207](LIT-207.md)) argues that affective states need an animate
+body, which is the premise this proposal tries to build into a machine.
+It also bears on Bruckner's welfare criterion of adaptive self-maintenance
+([LIT-120](LIT-120.md)), which admits machines without requiring sentience. No relation
+is declared until the paper is read.
