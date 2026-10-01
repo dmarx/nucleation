@@ -1,0 +1,116 @@
+---
+status: Deferred
+status_note: 'seeded 2026-10-01 from the Crossref and Elsevier metadata of the article and of the issue it closes, not read: the article is closed access (Unpaywall and OpenAlex find no open copy, Semantic Scholar marks it closed, ScienceDirect refused the request), and no author copy was found. It stays Deferred until a copy is supplied. The four reviews it answers are listed below from the issue''s contents, and are not filed.'
+title: 'Society of mind: A response to four reviews'
+version: 1
+tags:
+- cognition
+- mereology
+- agency
+- complex-systems
+date: '2026-10-01'
+published: '1991-04-01'
+doi: '10.1016/0004-3702(91)90036-J'
+first_author: 'Minsky'
+keywords:
+- 'society of mind'
+- 'reviews'
+- 'agents'
+- 'agencies'
+implementations: []
+summary: >-
+  Minsky (1991), Artificial Intelligence 48(3):371–396. Minsky's reply,
+  closing a review symposium, to four reviews of The Society of Mind in the
+  same issue: by Michael G. Dyer, Matthew Ginsberg, George N. Reeke and
+  Stephen W. Smoliar. Unread: the article is closed access and no copy was
+  reached. Singh (2003) quotes it on why Minsky kept the words "agent" and
+  "agency", and draws on it for a mechanism by which agents with different
+  representations could communicate.
+---
+<!-- inactive-ok-file: LIT-tmpqepho — Deferred, no lawful full text; named as the book this work belongs to or answers, not leaned on for its content -->
+
+# LIT-tmpi03n5: Society of mind: A response to four reviews
+
+Marvin Minsky (1991), *Artificial Intelligence 48(3), 371–396* (April 1991)
+— `doi:10.1016/0004-3702(91)90036-J` (checked on Crossref)
+
+## Key takeaways
+
+*Registered from metadata, not a reading. Nothing below comes from the
+article's text.*
+
+- The article closes a review symposium on *The Society of Mind*
+  ([LIT-tmpqepho](LIT-tmpqepho.md)) in *Artificial Intelligence* 48(3), April 1991. The issue's
+  contents, from Crossref, item by item:
+  - Mark J. Stefik and Stephen W. Smoliar, "Four reviews of The Society of
+    Mind and a response", pp. 319–320, `doi:10.1016/0004-3702(91)90031-E`.
+    This is the symposium's introduction.
+  - Michael G. Dyer, "A society of ideas on cognition", pp. 321–334,
+    `doi:10.1016/0004-3702(91)90032-F`.
+  - Matthew Ginsberg, "The society of mind", pp. 335–339,
+    `doi:10.1016/0004-3702(91)90033-G`.
+  - George N. Reeke, "The society of mind", pp. 341–348,
+    `doi:10.1016/0004-3702(91)90034-H`.
+  - Stephen W. Smoliar, "The society of mind", pp. 349–370,
+    `doi:10.1016/0004-3702(91)90035-I`.
+  - Marvin Minsky, "Society of mind: A response to four reviews",
+    pp. 371–396, this article.
+- What the reviews and the reply argue is not known to this record, because
+  none of them was read. The reviews are listed here and not filed.
+- Two passages are known at second hand, through Singh's exposition
+  ([LIT-tmpxp9b8](LIT-tmpxp9b8.md), its reference [14]):
+  - Minsky's explanation of his terms: "I recycled the old words 'agent' and
+    'agency' because English lacks any standardized way to distinguish
+    between viewing the activity of an 'agent' or piece of machinery as a
+    single process as seen from outside, and analyzing how that behavior
+    functions inside the structure or 'agency' that produces it."
+  - An internal-language mechanism for agencies that must pass structured
+    descriptions. One agent rebuilds an idea by a sequence of frame
+    retrieval and instantiation steps, each emitting a "grammar-tactic"
+    signal. The receiver's "inverse-grammar-tactics" rebuild it in the
+    receiver's own representations. Singh models this on Minsky's
+    "re-duplication" theory of language.
+
+  These are Singh's quotation and Singh's summary, not my reading.
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for Minsky's Society of Mind
+programme. It is the one place in the literature where Minsky answers the
+book's scientific critics in print, so it is the natural companion to the
+book. No anthology topic holds it, and it carries no instruction for
+machine-learning practice.
+
+Crossref's title for it is only "Society of mind". The article metadata
+Elsevier serves gives the full title, "Society of mind: A response to four
+reviews", which matches the brief's citation. Minsky's own bibliography page
+lists it as "A Response to Four Reviews of The Society of Mind," as does
+Singh. Volume, issue, pages and DOI all agree with the brief's citation.
+Crossref and Unpaywall give the date only as April 1991, so `published:` is
+the first of the month.
+
+`Deferred` because it was not read. What a reading should check:
+
+- Which of the four reviewers' objections Minsky answers, and which he
+  leaves. Dyer's review, as Singh reports it, offered connectionist
+  alternatives to Minsky's frames. Whether Minsky accepts or rejects them
+  bears on how far the programme was symbolic by commitment rather than by
+  default. The 2005 draft of *The Emotion Machine* ([LIT-tmpr3qe6](LIT-tmpr3qe6.md), §§6-2 and
+  8-7) is plain that it is critical of purely numerical representations.
+- Whether the reply already disowns the "human community" reading of the
+  book that the sequel disowns in its §9-5.
+
+Access when seeded:
+
+- Crossref records for the article and the five other items of the issue.
+- The Elsevier article API's metadata record: the full title and the
+  open-access flags, both negative. It carried no text.
+- Unpaywall and OpenAlex: closed, with no repository copy.
+- Semantic Scholar: closed, though it gives the full title.
+- ScienceDirect's article page refused the request (HTTP 403) on curl and on
+  WebFetch alike.
+- Minsky's home page, in the MIT-hosted mirror, lists the article in its
+  bibliography and does not link a copy.
+- A web search found no author or repository copy.
+</content>
+</invoke>
