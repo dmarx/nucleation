@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-13 of 13 decisions. Back to the [full index](../README.md).
+14 of 14 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -21,3 +21,4 @@
 | [ADR-011](../../../record/decisions.d/ADR-011.md) | information-retrieval joins the topics | `information-retrieval` joins the topic vocabulary. It covers finding what is relevant to a need: representation, relevance, ranking, feedback, and the models of retrieval. The owner asked the record to file van Rijsbergen's *The Geometry of Information Retrieval*. Its seed found no word for the book's subject. | Active |
 | [ADR-012](../../../record/decisions.d/ADR-012.md) | contextuality joins the topics | `contextuality` joins the topic vocabulary. It covers whether outcomes can be explained without reference to the context of measurement, in physics and outside it. The owner asked for the tag, and for the record's two threads on it to be brought together in THEORY documents. Until now the word lived only inside the `quantum-foundations` blurb. | Active |
 | [ADR-013](../../../record/decisions.d/ADR-013.md) | A work may be held in both records when each reads it for its own question | [ADR-001](../../../record/decisions.d/ADR-001.md) said nothing is filed in both nucleation and the anthology. That rule is narrowed: a work may hold a LIT in each record when each record reads it for a question of its own. The two entries name each other, and neither copies the other's reading. The owner asked for it so that the Lattice Representation Hypothesis, held in the anthology for concept geometry, could be re-read here against the geometry of information retrieval. | Active |
+| [ADR-014](../../../record/decisions.d/ADR-014.md) | emotion-and-affect joins the topics | `emotion-and-affect` joins the topic vocabulary, in the `philosophy` group beside `consciousness` and `cognition`. It covers emotions, feelings and affect: what they are, their bodily and neural basis, their role in decision and behaviour, and whether they ground consciousness. The owner asked for it when Antonio Damasio's work came into the record, whose subject no existing word could say. Rejected: a separate word for homeostasis and interoception, which only the Damasio works would hold yet. | Active |

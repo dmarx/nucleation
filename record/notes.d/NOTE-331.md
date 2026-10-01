@@ -1,6 +1,9 @@
 ---
+number: 331
 status: Read
-paper: 'LIT-tmp8vfsi'
+formerly:
+- NOTE-tmphij0e
+paper: 'LIT-383'
 title: 'Bechara, Damasio, Tranel & Damasio — Deciding advantageously before knowing the advantageous strategy'
 version: 1
 history:
@@ -29,9 +32,9 @@ summary: >-
   interaction, not a deck difference, so "before knowing" is better
   supported for articulated strategy than for any awareness at all.
 ---
-<!-- inactive-ok-file: LIT-tmpll80w — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
+<!-- inactive-ok-file: LIT-385 — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
 
-# NOTE-tmphij0e: Bechara, Damasio, Tranel & Damasio — Deciding advantageously before knowing the advantageous strategy
+# NOTE-331: Bechara, Damasio, Tranel & Damasio — Deciding advantageously before knowing the advantageous strategy
 
 ## Contribution
 
@@ -145,12 +148,12 @@ facilitate" the reasoning (p. 1294).
 
 ## Connections
 
-- **Damasio 1996 ([LIT-tmpa9mef](../literature.d/LIT-tmpa9mef.md), [NOTE-tmpv0pib](NOTE-tmpv0pib.md)).** The statement of the
+- **Damasio 1996 ([LIT-384](../literature.d/LIT-384.md), [NOTE-332](NOTE-332.md)).** The statement of the
   hypothesis this experiment tests. Its §5 gives the task and the earlier SCR
   result, and previews this one in a sentence ("long before they have ...
   any notion whatsoever"). This report is the evidence for that sentence,
   and reads as weaker than the sentence.
-- **Damasio 1989 ([LIT-tmpll80w](../literature.d/LIT-tmpll80w.md)).** The source of "dispositional" knowledge;
+- **Damasio 1989 ([LIT-385](../literature.d/LIT-385.md)).** The source of "dispositional" knowledge;
   unread, registered from its abstract.
 - **Consciousness readings ([LIT-056](../literature.d/LIT-056.md), [LIT-191](../literature.d/LIT-191.md)).** The record's work on
   consciousness asks mostly what would show a machine is conscious. This is

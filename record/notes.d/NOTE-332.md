@@ -1,6 +1,9 @@
 ---
+number: 332
 status: Read
-paper: 'LIT-tmpa9mef'
+formerly:
+- NOTE-tmpv0pib
+paper: 'LIT-384'
 title: 'Damasio — The somatic marker hypothesis and the possible functions of the prefrontal cortex'
 version: 1
 history:
@@ -34,9 +37,9 @@ summary: >-
   without numbers. The mechanism is argued, not shown, and the paper says
   it is not a theory of prefrontal cortex as a whole.
 ---
-<!-- inactive-ok-file: LIT-tmpll80w — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
+<!-- inactive-ok-file: LIT-385 — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
 
-# NOTE-tmpv0pib: Damasio — The somatic marker hypothesis and the possible functions of the prefrontal cortex
+# NOTE-332: Damasio — The somatic marker hypothesis and the possible functions of the prefrontal cortex
 
 ## Contribution
 
@@ -79,7 +82,7 @@ slow, error-prone, or random and impulsive.
   3. Knowledge of situations, actors, options and outcomes is stored in
      "dispositional" form (coded, implicit, non-topographic) in higher-order
      cortices and some subcortical nuclei, per the convergence-zone framework
-     (Damasio 1989a, b; [LIT-tmpll80w](../literature.d/LIT-tmpll80w.md) is 1989b). It is made explicit in motor
+     (Damasio 1989a, b; [LIT-385](../literature.d/LIT-385.md) is 1989b). It is made explicit in motor
      responses (some of which constitute emotions) and in images.
   4. Knowledge divides into (A) knowledge about bioregulatory processes and
      body states, including emotions; (B) knowledge about entities, facts,
@@ -156,7 +159,7 @@ from earlier studies.
   - *Timing of knowledge.* "Recent studies in our laboratory suggest" that
     controls produce the anticipatory SCRs "long before they have ... any
     notion whatsoever" of which decks are good (p. 1419). This is the result
-    published in the 1997 report ([LIT-tmp8vfsi](../literature.d/LIT-tmp8vfsi.md)); here it is one sentence.
+    published in the 1997 report ([LIT-383](../literature.d/LIT-383.md)); here it is one sentence.
 - **Discussion.** To Everitt: in adults the "as if" loop is the usual mode,
   so changes in the periphery should have relatively little effect on
   emotion, feeling and decision (paraphrased: the line is cut off in the scan); the evidence from cord damage and peripheral neuropathy is left
@@ -201,13 +204,13 @@ from earlier studies.
 
 ## Connections
 
-- **Damasio's 1989 convergence-zone proposal ([LIT-tmpll80w](../literature.d/LIT-tmpll80w.md)).** Cited as
+- **Damasio's 1989 convergence-zone proposal ([LIT-385](../literature.d/LIT-385.md)).** Cited as
   1989b for the dispositional and convergence-zone framework. The
   ventromedial links here are convergence zones that record conjunctions of
   situation and body state. This paper is the clearest statement I could
   read of what that framework is for; the 1989 paper itself could not be
   reached.
-- **The 1997 Science report ([LIT-tmp8vfsi](../literature.d/LIT-tmp8vfsi.md)).** The "recent studies" of the
+- **The 1997 Science report ([LIT-383](../literature.d/LIT-383.md)).** The "recent studies" of the
   last paragraph of §5. Its note checks how far its statistics carry the
   claim this paper previews.
 - **Damasio's later work.** His later papers on feeling, homeostasis and

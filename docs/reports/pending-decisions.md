@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**150 document(s) awaiting a decision.**
+**153 document(s) awaiting a decision.**
 
 ## LITs
 
-120 of the 150.
+123 of the 153.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -40,6 +40,8 @@
 | 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 13 | 11 | Hilbert Spaces and the Riesz Representation Theorem |
 | 2026-09-26 | Deferred | [LIT-249](../../record/literature.d/LIT-249.md) | 12 | 1 | Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss |
 | 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 11 | 9 | Riesz representation theorem (Wikipedia) |
+| 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 10 | 8 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
+| 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 10 | 3 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 10 | 6 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-236](../../record/literature.d/LIT-236.md) | 10 | 9 | Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms |
 | 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 10 | 9 | On the Stepwise Nature of Self-Supervised Learning |
@@ -50,7 +52,6 @@
 | 2026-09-26 | Deferred | [LIT-253](../../record/literature.d/LIT-253.md) | 8 | 4 | When Does Closeness in Distribution Imply Representational Similarity? An Identifiability Perspective |
 | 2026-09-26 | Deferred | [LIT-254](../../record/literature.d/LIT-254.md) | 8 | 3 | Similarity of Neural Network Representations Revisited |
 | 2026-09-26 | Deferred | [LIT-144](../../record/literature.d/LIT-144.md) | 7 | 0 | Causal Exclusion and Downward Counterfactuals |
-| 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 7 | 0 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-26 | Deferred | [LIT-227](../../record/literature.d/LIT-227.md) | 7 | 6 | Contrastive Learning Is Spectral Clustering On Similarity Graph |
 | 2026-09-26 | Deferred | [LIT-246](../../record/literature.d/LIT-246.md) | 7 | 0 | On Variational Bounds of Mutual Information |
 | 2026-09-26 | Deferred | [LIT-251](../../record/literature.d/LIT-251.md) | 7 | 0 | Contrastive learning, multi-view redundancy, and linear models |
@@ -75,11 +76,11 @@
 | 2026-09-26 | Deferred | [LIT-108](../../record/literature.d/LIT-108.md) | 3 | 1 | Philosophy of Mathematics and Natural Science |
 | 2026-09-26 | Deferred | [LIT-119](../../record/literature.d/LIT-119.md) | 3 | 2 | Conspiracy Theories and Public Trust |
 | 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 3 | 2 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
-| 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 3 | 1 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 3 | 2 | Conspiracy theorists are not the problem; Conspiracy liars are |
 | 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 3 | 2 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
 | 2026-09-26 | Deferred | [LIT-239](../../record/literature.d/LIT-239.md) | 3 | 2 | Kolmogorov's Structure Functions and Model Selection |
 | 2026-09-26 | Deferred | [LIT-256](../../record/literature.d/LIT-256.md) | 3 | 0 | Mutual Information Neural Estimation |
+| 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 2 | 1 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
 | 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
 | 2026-09-26 | Deferred | [LIT-183](../../record/literature.d/LIT-183.md) | 2 | 1 | Fitting Fulfilment – Fitting Objective or Rational Attractiveness? |
 | 2026-09-26 | Deferred | [LIT-225](../../record/literature.d/LIT-225.md) | 2 | 1 | Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity |
@@ -87,7 +88,6 @@
 | 2026-09-26 | Deferred | [LIT-232](../../record/literature.d/LIT-232.md) | 2 | 1 | Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding |
 | 2026-09-26 | Deferred | [LIT-238](../../record/literature.d/LIT-238.md) | 2 | 1 | Minimum Description Length Revisited |
 | 2026-09-26 | Deferred | [LIT-261](../../record/literature.d/LIT-261.md) | 2 | 0 | A Generalized Representer Theorem |
-| 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 1 | 0 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
 | 2026-09-26 | Deferred | [LIT-231](../../record/literature.d/LIT-231.md) | 1 | 0 | The Hidden Uniform Cluster Prior in Self-Supervised Learning |
@@ -129,14 +129,17 @@
 | 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 8 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
 | 2026-09-30 | Deferred | [LIT-365](../../record/literature.d/LIT-365.md) | 1 | 1 | On the Problem of the Most Efficient Tests of Statistical Hypotheses |
 | 2026-09-30 | Deferred | [LIT-366](../../record/literature.d/LIT-366.md) | 1 | 1 | Signal Detection Theory and Psychophysics |
-| 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 38 | 38 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
+| 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 41 | 41 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
+| 2026-10-01 | Deferred | [LIT-385](../../record/literature.d/LIT-385.md) | 4 | 0 | Time-locked multiregional retroactivation: A systems-level proposal for the neural substrates of recall and recognition |
+| 2026-10-01 | Deferred | [LIT-379](../../record/literature.d/LIT-379.md) | 2 | 2 | Anger makes fake news viral online |
 | 2026-10-01 | Proposed | [LIT-375](../../record/literature.d/LIT-375.md) | 1 | 1 | Structural Learning Theory: A Metric-Topology Factorization Approach |
 | 2026-10-01 | Proposed | [LIT-376](../../record/literature.d/LIT-376.md) | 1 | 1 | Local Urysohn Width: A Topological Complexity Measure for Classification |
-| 2026-10-01 | Deferred | [LIT-379](../../record/literature.d/LIT-379.md) | 0 | 0 | Anger makes fake news viral online |
+| 2026-10-01 | Deferred | [LIT-386](../../record/literature.d/LIT-386.md) | 0 | 0 | Homeostasis and soft robotics in the design of feeling machines |
+| 2026-10-01 | Deferred | [LIT-387](../../record/literature.d/LIT-387.md) | 0 | 0 | Feelings Are the Source of Consciousness |
 
 ## THEORYs
 
-30 of the 150.
+30 of the 153.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -175,4 +178,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (21): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-318](../../record/literature.d/LIT-318.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-334](../../record/literature.d/LIT-334.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-023](../../record/theory.d/THEORY-023.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-036](../../record/theory.d/THEORY-036.md), [LIT-379](../../record/literature.d/LIT-379.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (22): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-318](../../record/literature.d/LIT-318.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-334](../../record/literature.d/LIT-334.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-023](../../record/theory.d/THEORY-023.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-036](../../record/theory.d/THEORY-036.md), [LIT-386](../../record/literature.d/LIT-386.md), [LIT-387](../../record/literature.d/LIT-387.md) — these are the cheapest to close, since nothing depends on the answer.

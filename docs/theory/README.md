@@ -71,6 +71,8 @@ this directory, then run `luria index`.
 **[Cognition](tags/cognition.md)** (3) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy):
 [013](../../record/theory.d/THEORY-013.md) · [023](../../record/theory.d/THEORY-023.md) · [031](../../record/theory.d/THEORY-031.md)
 
+**[Emotion and affect](tags/emotion-and-affect.md)** (0) — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
+
 **[Philosophy of science](tags/philosophy-of-science.md)** (8) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy):
 [002](../../record/theory.d/THEORY-002.md) · [010](../../record/theory.d/THEORY-010.md) · [023](../../record/theory.d/THEORY-023.md) · [024](../../record/theory.d/THEORY-024.md) · [030](../../record/theory.d/THEORY-030.md) · [034](../../record/theory.d/THEORY-034.md) · [036](../../record/theory.d/THEORY-036.md) · [038](../../record/theory.d/THEORY-038.md)
 

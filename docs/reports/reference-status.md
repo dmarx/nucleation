@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**120 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**123 documents cited without acknowledgement.** Not listed: 429 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -69,7 +69,7 @@ The two dragons of cognition: recursive condensation for predictive processing
 
 Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
-38 citations in 7 files await a look.
+41 citations in 8 files await a look.
 
 - [`record/literature.d/LIT-373.md:6`](../../record/literature.d/LIT-373.md)
 - [`record/literature.d/LIT-373.md:37`](../../record/literature.d/LIT-373.md)
@@ -85,6 +85,9 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 - [`record/literature.d/LIT-376.md:34`](../../record/literature.d/LIT-376.md)
 - [`record/literature.d/LIT-376.md:71`](../../record/literature.d/LIT-376.md)
 - [`record/literature.d/LIT-376.md:73`](../../record/literature.d/LIT-376.md)
+- [`record/literature.d/LIT-377.md:4`](../../record/literature.d/LIT-377.md)
+- [`record/literature.d/LIT-377.md:64`](../../record/literature.d/LIT-377.md)
+- [`record/literature.d/LIT-377.md:68`](../../record/literature.d/LIT-377.md)
 - [`record/notes.d/NOTE-321.md:67`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:6`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-323.md:31`](../../record/notes.d/NOTE-323.md)
@@ -278,7 +281,7 @@ The Conditional Entropy Bottleneck
 
 - [`record/literature.d/LIT-246.md:54`](../../record/literature.d/LIT-246.md)
 - [`record/literature.d/LIT-338.md:59`](../../record/literature.d/LIT-338.md)
-- [`record/literature.d/LIT-377.md:91`](../../record/literature.d/LIT-377.md)
+- [`record/literature.d/LIT-377.md:99`](../../record/literature.d/LIT-377.md)
 - [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
 - [`record/notes.d/NOTE-298.md:131`](../../record/notes.d/NOTE-298.md)
 - [`record/notes.d/NOTE-300.md:105`](../../record/notes.d/NOTE-300.md)
@@ -590,6 +593,21 @@ Landauer's principle prices only logically irreversible steps, and prices them i
 - [`record/notes.d/NOTE-322.md:199`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
 - [`record/theory.d/THEORY-026.md:64`](../../record/theory.d/THEORY-026.md)
+
+### [LIT-190](../../record/literature.d/LIT-190.md) — Proposed
+
+The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences
+
+8 citations in 6 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-014.md:54`](../../record/decisions.d/ADR-014.md)
+- [`record/literature.d/LIT-384.md:92`](../../record/literature.d/LIT-384.md)
+- [`record/literature.d/LIT-385.md:91`](../../record/literature.d/LIT-385.md)
+- [`record/literature.d/LIT-385.md:95`](../../record/literature.d/LIT-385.md)
+- [`record/notes.d/NOTE-150.md:94`](../../record/notes.d/NOTE-150.md)
+- [`record/notes.d/NOTE-331.md:163`](../../record/notes.d/NOTE-331.md)
+- [`record/notes.d/NOTE-331.md:166`](../../record/notes.d/NOTE-331.md)
+- [`record/notes.d/NOTE-332.md:234`](../../record/notes.d/NOTE-332.md)
 
 ### [LIT-233](../../record/literature.d/LIT-233.md) — Deferred
 
@@ -941,6 +959,16 @@ Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
 - [`record/notes.d/NOTE-158.md:136`](../../record/notes.d/NOTE-158.md)
 
+### [LIT-193](../../record/literature.d/LIT-193.md) — Proposed
+
+Better to be a Pig Dissatisfied than a Plant Satisfied
+
+3 citations in 3 files await a look; 7 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-387.md:89`](../../record/literature.d/LIT-387.md)
+- [`record/literature.d/LIT-388.md:131`](../../record/literature.d/LIT-388.md)
+- [`record/notes.d/NOTE-330.md:158`](../../record/notes.d/NOTE-330.md)
+
 ### [LIT-224](../../record/literature.d/LIT-224.md) — Deferred
 
 Shannon Information and Kolmogorov Complexity
@@ -1066,6 +1094,15 @@ Conspiracy theorists are not the problem; Conspiracy liars are
 - [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
 - [`record/notes.d/NOTE-251.md:216`](../../record/notes.d/NOTE-251.md)
 
+### [LIT-212](../../record/literature.d/LIT-212.md) — Rejected
+
+Do Large Language Models Hallucinate Electric Fata Morganas?
+
+2 citations in 2 files await a look; 10 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-014.md:56`](../../record/decisions.d/ADR-014.md)
+- [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
+
 ### [LIT-214](../../record/literature.d/LIT-214.md) — Deferred
 
 Blunting concepts: The double-edged effect of popularizing psychotherapy language
@@ -1110,6 +1147,24 @@ Quantum Models of Cognition and Decision
 
 - [`record/notes.d/NOTE-294.md:146`](../../record/notes.d/NOTE-294.md)
 - [`record/notes.d/NOTE-299.md:125`](../../record/notes.d/NOTE-299.md)
+
+### [LIT-377](../../record/literature.d/LIT-377.md) — Rejected
+
+On Context-Content Uncertainty Principle
+
+2 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-374.md:77`](../../record/literature.d/LIT-374.md)
+- [`record/notes.d/NOTE-325.md:6`](../../record/notes.d/NOTE-325.md)
+
+### [LIT-379](../../record/literature.d/LIT-379.md) — Deferred
+
+Anger makes fake news viral online
+
+2 citations in 1 file await a look.
+
+- [`record/decisions.d/ADR-014.md:30`](../../record/decisions.d/ADR-014.md)
+- [`record/decisions.d/ADR-014.md:48`](../../record/decisions.d/ADR-014.md)
 
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
 
@@ -1176,7 +1231,7 @@ Toward interoperable representation and sharing of disinformation incidents in c
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-379.md:67`](../../record/literature.d/LIT-379.md)
+- [`record/literature.d/LIT-379.md:68`](../../record/literature.d/LIT-379.md)
 
 ### [LIT-108](../../record/literature.d/LIT-108.md) — Deferred
 
@@ -1185,6 +1240,14 @@ Philosophy of Mathematics and Natural Science
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-329.md:62`](../../record/literature.d/LIT-329.md)
+
+### [LIT-128](../../record/literature.d/LIT-128.md) — Deferred
+
+Neurodiversity & evaluation: a defense (or not) of affective fictionalism
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-014.md:52`](../../record/decisions.d/ADR-014.md)
 
 ### [LIT-129](../../record/literature.d/LIT-129.md) — Deferred
 
@@ -1226,14 +1289,6 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 - [`record/notes.d/NOTE-111.md:106`](../../record/notes.d/NOTE-111.md)
 
-### [LIT-190](../../record/literature.d/LIT-190.md) — Proposed
-
-The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-150.md:94`](../../record/notes.d/NOTE-150.md)
-
 ### [LIT-201](../../record/literature.d/LIT-201.md) — Deferred
 
 Alternative formulations of multilevel selection
@@ -1241,14 +1296,6 @@ Alternative formulations of multilevel selection
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-101.md:93`](../../record/notes.d/NOTE-101.md)
-
-### [LIT-212](../../record/literature.d/LIT-212.md) — Rejected
-
-Do Large Language Models Hallucinate Electric Fata Morganas?
-
-1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
 
 ### [LIT-215](../../record/literature.d/LIT-215.md) — Rejected
 
@@ -1393,14 +1440,6 @@ Local Urysohn Width: A Topological Complexity Measure for Classification
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-323.md:6`](../../record/notes.d/NOTE-323.md)
-
-### [LIT-377](../../record/literature.d/LIT-377.md) — Rejected
-
-On Context-Content Uncertainty Principle
-
-1 citation in 1 file awaits a look.
-
-- [`record/notes.d/NOTE-325.md:6`](../../record/notes.d/NOTE-325.md)
 
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 

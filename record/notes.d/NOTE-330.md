@@ -1,6 +1,9 @@
 ---
+number: 330
 status: Read
-paper: LIT-tmpz53rr
+formerly:
+- NOTE-tmpbccwv
+paper: LIT-388
 title: 'Damasio & Carvalho — The nature of feelings'
 version: 1
 history:
@@ -28,7 +31,7 @@ summary: >-
   root of sentience) are hypotheses, and are presented as such.
 ---
 
-# NOTE-tmpbccwv: Damasio & Carvalho — The nature of feelings
+# NOTE-330: Damasio & Carvalho — The nature of feelings
 
 ## Contribution
 

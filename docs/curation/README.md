@@ -6,14 +6,15 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [1 Oct 21:17 — Antonio Damasio: six works, and a word for emotion](2026-10.md#antonio-damasio-six-works-and-a-word-for-emotion)
 - [1 Oct 16:48 — Xin Li's structural-learning programme, read as one](2026-10.md#xin-lis-structural-learning-programme-read-as-one)
 - [1 Oct 05:20 — The reading feed's revisit list, against both records](2026-10.md#the-reading-feeds-revisit-list-against-both-records)
 
 ## All books
 
-49 entries across 2 books, newest first.
+50 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 2 | 2026-10-01 | 2026-10-01 |
+| [2026-10](2026-10.md) | 3 | 2026-10-01 | 2026-10-01 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
