@@ -4,7 +4,7 @@
 
 **network-science**.
 
-9 of 322 NOTE documents. Back to the [full index](../README.md).
+9 of 324 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -4,60 +4,15 @@
 
 Why things entered this record, and why they left for the anthology or anywhere else.
 
-## Currently — [September 2026](2026-09.md)
+## Currently — [October 2026](2026-10.md)
 
-- [30 Sep 03:09 — Theory backfill: twenty-five accounts drawn from the record's readings](2026-09.md#theory-backfill-twenty-five-accounts-drawn-from-the-records-readings)
-- [30 Sep 01:55 — Signal detection theory, registered and read](2026-09.md#signal-detection-theory-registered-and-read)
-- [29 Sep 23:37 — Supplemental readings for the prior-art novelty map's misattributions](2026-09.md#supplemental-readings-for-the-prior-art-novelty-maps-misattributions)
-- [29 Sep 23:06 — Close readings of the prior-art novelty map's references](2026-09.md#close-readings-of-the-prior-art-novelty-maps-references)
-- [29 Sep 21:50 — The owner's prior-art novelty map, registered in full](2026-09.md#the-owners-prior-art-novelty-map-registered-in-full)
-- [29 Sep 20:09 — Frankfurt's account of higher-order volitions, assembled from seven texts](2026-09.md#frankfurts-account-of-higher-order-volitions-assembled-from-seven-texts)
-- [28 Sep 02:56 — Sen's capability approach, assembled from nine texts](2026-09.md#sens-capability-approach-assembled-from-nine-texts)
-- [27 Sep 21:57 — Carù's 2019 thesis read: nothing repaired](2026-09.md#carùs-2019-thesis-read-nothing-repaired)
-- [27 Sep 16:16 — Carù 2018 read: complete on cycles, conjecture refuted](2026-09.md#carù-2018-read-complete-on-cycles-conjecture-refuted)
-- [27 Sep 08:29 — Carù read: the cohomology conjecture is false; THEORY-012 updated](2026-09.md#carù-read-the-cohomology-conjecture-is-false-theory-012-updated)
-- [27 Sep 08:14 — Contextuality, Cohomology and Paradox read; THEORY-012's cohomology line refined](2026-09.md#contextuality-cohomology-and-paradox-read-theory-012s-cohomology-line-refined)
-- [27 Sep 07:38 — Cohomology of contextuality read; Ghose note corrected, THEORY-012 bounded](2026-09.md#cohomology-of-contextuality-read-ghose-note-corrected-theory-012-bounded)
-- [27 Sep 07:26 — Measurement as sheafification, read and rejected](2026-09.md#measurement-as-sheafification-read-and-rejected)
-- [27 Sep 06:43 — Abramsky & Heunen read; THEORY-017's finite-dimensional caveat narrowed](2026-09.md#abramsky--heunen-read-theory-017s-finite-dimensional-caveat-narrowed)
-- [27 Sep 06:26 — Coecke, Pavlovic & Vicary read; THEORY-017 restated, still Proposed](2026-09.md#coecke-pavlovic--vicary-read-theory-017-restated-still-proposed)
-- [27 Sep 06:11 — Where a Hilbert space gets its basis: Carroll connected, THEORY drafted](2026-09.md#where-a-hilbert-space-gets-its-basis-carroll-connected-theory-drafted)
-- [27 Sep 04:57 — DisCoCat, founding paper and Frobenius sequel, read](2026-09.md#discocat-founding-paper-and-frobenius-sequel-read)
-- [27 Sep 04:32 — NTK of matrix product states, read and rejected](2026-09.md#ntk-of-matrix-product-states-read-and-rejected)
-- [27 Sep 04:16 — Quantum structure claimed in LLM language, read and rejected](2026-09.md#quantum-structure-claimed-in-llm-language-read-and-rejected)
-- [27 Sep 03:55 — Attention as sparse distributed memory, and ZipNN, read for this record](2026-09.md#attention-as-sparse-distributed-memory-and-zipnn-read-for-this-record)
-- [27 Sep 02:48 — The Lattice Representation Hypothesis, re-read against the geometry of IR](2026-09.md#the-lattice-representation-hypothesis-re-read-against-the-geometry-of-ir)
-- [27 Sep 02:28 — The Geometry of Information Retrieval, read](2026-09.md#the-geometry-of-information-retrieval-read)
-- [27 Sep 02:19 — Contextuality: the threads brought together](2026-09.md#contextuality-the-threads-brought-together)
-- [26 Sep 23:42 — Riesz, Radon–Nikodym and GNS in representation learning: the connections pursued](2026-09.md#riesz-radonnikodym-and-gns-in-representation-learning-the-connections-pursued)
-- [26 Sep 23:15 — Representation learning, description length and Riesz: an owner's reading list filed](2026-09.md#representation-learning-description-length-and-riesz-an-owners-reading-list-filed)
-- [26 Sep 22:53 — The information-theory tag, audited](2026-09.md#the-information-theory-tag-audited)
-- [26 Sep 22:47 — The last three philosophy tags, and what the philosophy passes could not reach](2026-09.md#the-last-three-philosophy-tags-and-what-the-philosophy-passes-could-not-reach)
-- [26 Sep 22:33 — The philosophy-of-science tag, read through](2026-09.md#the-philosophy-of-science-tag-read-through)
-- [26 Sep 22:13 — The cognition tag, read through](2026-09.md#the-cognition-tag-read-through)
-- [26 Sep 21:59 — The ethics tag, read through](2026-09.md#the-ethics-tag-read-through)
-- [26 Sep 21:45 — The epistemology tag, read through](2026-09.md#the-epistemology-tag-read-through)
-- [26 Sep 20:52 — The Yoneda lemma, and whether it supports ontic structural realism](2026-09.md#the-yoneda-lemma-and-whether-it-supports-ontic-structural-realism)
-- [26 Sep 20:23 — Ladyman and Ross on the record: ontic structural realism and rainforest realism](2026-09.md#ladyman-and-ross-on-the-record-ontic-structural-realism-and-rainforest-realism)
-- [26 Sep 19:58 — A pass over the consciousness tag: eleven readings, and The Weirdness of the World](2026-09.md#a-pass-over-the-consciousness-tag-eleven-readings-and-the-weirdness-of-the-world)
-- [26 Sep 19:20 — A pass over the identity tag: five readings, five retags, five summaries repaired](2026-09.md#a-pass-over-the-identity-tag-five-readings-five-retags-five-summaries-repaired)
-- [26 Sep 19:01 — A pass over the metaphysics tag: thirty-two readings, two new topics](2026-09.md#a-pass-over-the-metaphysics-tag-thirty-two-readings-two-new-topics)
-- [26 Sep 14:21 — A pass over the agency tag: sixteen readings, two retags](2026-09.md#a-pass-over-the-agency-tag-sixteen-readings-two-retags)
-- [26 Sep 06:50 — The mereology tag's newly tagged works, read](2026-09.md#the-mereology-tags-newly-tagged-works-read)
-- [26 Sep 06:37 — A pass over the mereology tag: four readings, eight retags](2026-09.md#a-pass-over-the-mereology-tag-four-readings-eight-retags)
-- [26 Sep 05:58 — The papers-feed swept for philosophy: 119 works seeded](2026-09.md#the-papers-feed-swept-for-philosophy-119-works-seeded)
-- [26 Sep 01:56 — The low tier, read: every reachable work in the record now has a Read NOTE](2026-09.md#the-low-tier-read-every-reachable-work-in-the-record-now-has-a-read-note)
-- [26 Sep 01:32 — The survey's first and second tiers, read](2026-09.md#the-surveys-first-and-second-tiers-read)
-- [25 Sep 22:45 — Sixty-five more, seeded, and the order to read them in](2026-09.md#sixty-five-more-seeded-and-the-order-to-read-them-in)
-- [25 Sep 22:10 — Every work read but two, and what the readings did to the seed](2026-09.md#every-work-read-but-two-and-what-the-readings-did-to-the-seed)
-- [25 Sep 21:30 — The first five close readings, and what the seed got wrong](2026-09.md#the-first-five-close-readings-and-what-the-seed-got-wrong)
-- [25 Sep 20:42 — Seeding the out-of-scope reading, and the order to read it in](2026-09.md#seeding-the-out-of-scope-reading-and-the-order-to-read-it-in)
-- [25 Sep 19:40 — Seeded from the anthology's out-of-scope clusters](2026-09.md#seeded-from-the-anthologys-out-of-scope-clusters)
+- [1 Oct 16:48 — Xin Li's structural-learning programme, read as one](2026-10.md#xin-lis-structural-learning-programme-read-as-one)
 
 ## All books
 
-47 entries across 1 book, newest first.
+48 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
+| [2026-10](2026-10.md) | 1 | 2026-10-01 | 2026-10-01 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

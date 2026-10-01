@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**146 document(s) awaiting a decision.**
+**149 document(s) awaiting a decision.**
 
 ## LITs
 
-116 of the 146.
+119 of the 149.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -129,10 +129,13 @@
 | 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 8 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
 | 2026-09-30 | Deferred | [LIT-365](../../record/literature.d/LIT-365.md) | 1 | 1 | On the Problem of the Most Efficient Tests of Statistical Hypotheses |
 | 2026-09-30 | Deferred | [LIT-366](../../record/literature.d/LIT-366.md) | 1 | 1 | Signal Detection Theory and Psychophysics |
+| 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 38 | 38 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
+| 2026-10-01 | Proposed | [LIT-375](../../record/literature.d/LIT-375.md) | 1 | 1 | Structural Learning Theory: A Metric-Topology Factorization Approach |
+| 2026-10-01 | Proposed | [LIT-376](../../record/literature.d/LIT-376.md) | 1 | 1 | Local Urysohn Width: A Topological Complexity Measure for Classification |
 
 ## THEORYs
 
-30 of the 146.
+30 of the 149.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -151,15 +154,15 @@
 | 2026-09-27 | Proposed | [THEORY-015](../../record/theory.d/THEORY-015.md) | 7 | 7 | Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 3 | 3 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-27 | Proposed | [THEORY-011](../../record/theory.d/THEORY-011.md) | 2 | 2 | Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two |
-| 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 8 | 8 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
-| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 4 | 4 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
+| 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 9 | 9 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
+| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 6 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 3 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
-| 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 1 | 1 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
+| 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 2 | 2 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
+| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 2 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 1 | 1 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 1 | 1 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
 | 2026-09-30 | Proposed | [THEORY-034](../../record/theory.d/THEORY-034.md) | 1 | 1 | Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind |
 | 2026-09-30 | Proposed | [THEORY-038](../../record/theory.d/THEORY-038.md) | 1 | 1 | Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata |
-| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 1 | 1 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 1 | 1 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-021](../../record/theory.d/THEORY-021.md) | 0 | 0 | In the efficiently packed geometries of uniform superposition the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity |
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 0 | 0 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |

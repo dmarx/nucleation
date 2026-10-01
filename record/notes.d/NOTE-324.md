@@ -1,6 +1,9 @@
 ---
+number: 324
 status: Read
-paper: LIT-tmp11m3i
+formerly:
+- NOTE-tmpm6dav
+paper: LIT-375
 title: 'Structural Learning Theory: A Metric-Topology Factorization Approach'
 version: 1
 history:
@@ -45,7 +48,7 @@ summary: >-
   width. There are no experiments.
 ---
 
-# NOTE-tmpm6dav: Structural Learning Theory: A Metric-Topology Factorization Approach
+# NOTE-324: Structural Learning Theory: A Metric-Topology Factorization Approach
 
 ## Contribution
 

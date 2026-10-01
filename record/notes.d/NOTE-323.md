@@ -1,6 +1,9 @@
 ---
+number: 323
 status: Read
-paper: LIT-tmp8xsqx
+formerly:
+- NOTE-tmp1azfo
+paper: LIT-376
 title: 'Local Urysohn Width: A Topological Complexity Measure for Classification'
 version: 1
 history:
@@ -49,7 +52,7 @@ summary: >-
   labels.
 ---
 
-# NOTE-tmp1azfo: Local Urysohn Width: A Topological Complexity Measure for Classification
+# NOTE-323: Local Urysohn Width: A Topological Complexity Measure for Classification
 
 ## Contribution
 
