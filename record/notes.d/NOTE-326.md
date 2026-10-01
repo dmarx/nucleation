@@ -1,6 +1,9 @@
 ---
+number: 326
 status: Read
-paper: LIT-tmpcerv7
+formerly:
+- NOTE-tmpz02gq
+paper: LIT-378
 title: "'What is a Thing?': Topos Theory in the Foundations of Physics"
 version: 1
 history:
@@ -34,7 +37,7 @@ summary: >-
   on Sub_cl(Σ) is still only sketched.
 ---
 
-# NOTE-tmpz02gq: 'What is a Thing?': Topos Theory in the Foundations of Physics
+# NOTE-326: 'What is a Thing?': Topos Theory in the Foundations of Physics
 
 ## Contribution
 

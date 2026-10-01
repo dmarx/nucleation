@@ -1,6 +1,9 @@
 ---
+number: 325
 status: 'Read'
-paper: 'LIT-tmp7gmxt'
+formerly:
+- NOTE-tmpjkarl
+paper: 'LIT-377'
 title: 'On Context-Content Uncertainty Principle'
 version: 1
 history:
@@ -28,7 +31,7 @@ summary: >-
   and the proofs of Theorems 1, 3 and 6–8 are wrong as written.
 ---
 
-# NOTE-tmpjkarl: On Context-Content Uncertainty Principle
+# NOTE-325: On Context-Content Uncertainty Principle
 
 ## Contribution
 

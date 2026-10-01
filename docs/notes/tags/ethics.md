@@ -4,7 +4,7 @@
 
 **ethics**.
 
-39 of 324 NOTE documents. Back to the [full index](../README.md).
+39 of 326 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

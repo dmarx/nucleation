@@ -6,7 +6,7 @@
 
 **Unreviewed** — in the corpus, not yet read closely enough to place.
 
-94 of 376 LIT documents. Back to the [full index](../README.md).
+95 of 379 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -104,3 +104,4 @@
 | [LIT-361](../../../record/literature.d/LIT-361.md) | Superselection Rules for Philosophers | Earman (2008), DOI-10.1007/s10670-008-9124-z. A supplemental reading for the owner's prior-art novelty map, where an earlier reading found the map's citation wrong or unreachable. | Deferred — seeded 2026-09-29 as a supplemental reading for the owner's prior-art novelty map; a close reading was attempted and no legitimate full text could be reached |
 | [LIT-365](../../../record/literature.d/LIT-365.md) | On the Problem of the Most Efficient Tests of Statistical Hypotheses | Neyman & Pearson (1933), DOI-10.1098/rsta.1933.0009. Registered to cover signal detection theory, which the record lacked. | Deferred — seeded 2026-09-30 at the owner's request to cover signal detection theory; a close reading was attempted and no legitimate full text could be reached |
 | [LIT-366](../../../record/literature.d/LIT-366.md) | Signal Detection Theory and Psychophysics | Green & Swets (1966), <https://openlibrary.org/works/OL5268329W>. Registered to cover signal detection theory, which the record lacked. | Deferred — seeded 2026-09-30 at the owner's request to cover signal detection theory; a close reading was attempted and no legitimate full text could be reached |
+| [LIT-379](../../../record/literature.d/LIT-379.md) | Anger makes fake news viral online | Chuai & Zhao (2020), arXiv:2004.10399. On Weibo, fake news carries more anger and less joy than real news, and in observational regressions with controls anger raises retweets while joy lowers them; questionnaires tie anger-dominated news to anxiety-management and information-sharing motives. Unread closely: registered from a triage reading. | Deferred — seeded 2026-10-01 from the reading feed, where it was read on three separate days (the anthology's issue 180, https://github.com/dmarx/anthology-of-the-sota/issues/180); read for triage, not yet closely enough to place, and no NOTE is filed |

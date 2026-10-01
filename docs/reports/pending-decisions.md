@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**149 document(s) awaiting a decision.**
+**150 document(s) awaiting a decision.**
 
 ## LITs
 
-119 of the 149.
+120 of the 150.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -19,8 +19,8 @@
 | 2026-09-25 | Proposed | [LIT-017](../../record/literature.d/LIT-017.md) | 4 | 2 | Spectral Networks and Betti Lagrangians |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 4 | 0 | The Computational Foundations of Collective Intelligence |
 | 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 3 | 0 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
+| 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 3 | 1 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-079](../../record/literature.d/LIT-079.md) | 2 | 1 | Causal Claims in Economics |
-| 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 2 | 0 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
 | 2026-09-25 | Deferred | [LIT-039](../../record/literature.d/LIT-039.md) | 1 | 1 | Rigorous renormalization group |
 | 2026-09-25 | Proposed | [LIT-057](../../record/literature.d/LIT-057.md) | 1 | 0 | Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics |
@@ -36,11 +36,11 @@
 | 2026-09-26 | Deferred | [LIT-258](../../record/literature.d/LIT-258.md) | 15 | 0 | Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions |
 | 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 14 | 1 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 14 | 12 | Gelfand–Naimark–Segal construction (Wikipedia) |
+| 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 13 | 12 | The Conditional Entropy Bottleneck |
 | 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 13 | 11 | Hilbert Spaces and the Riesz Representation Theorem |
 | 2026-09-26 | Deferred | [LIT-249](../../record/literature.d/LIT-249.md) | 12 | 1 | Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss |
 | 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 11 | 9 | Riesz representation theorem (Wikipedia) |
 | 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 10 | 6 | Distributional Semantics, Holism, and the Instability of Meaning |
-| 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 10 | 9 | The Conditional Entropy Bottleneck |
 | 2026-09-26 | Deferred | [LIT-236](../../record/literature.d/LIT-236.md) | 10 | 9 | Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms |
 | 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 10 | 9 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-250](../../record/literature.d/LIT-250.md) | 10 | 2 | Duality of Bures and Shape Distances with Implications for Comparing Neural Representations |
@@ -101,11 +101,11 @@
 | 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 11 | 9 | The contextual fraction as a measure of contextuality |
 | 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 10 | 9 | The Lattice Representation Hypothesis of Large Language Models |
 | 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 8 | 1 | Contextuality for preparations, transformations, and unsharp measurements |
+| 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 12 | 12 | A topos foundation for theories of physics: IV. Categories of systems |
 | 2026-09-29 | Deferred | [LIT-328](../../record/literature.d/LIT-328.md) | 11 | 11 | Irreversibility and Heat Generation in the Computing Process |
 | 2026-09-29 | Deferred | [LIT-332](../../record/literature.d/LIT-332.md) | 9 | 9 | Facing up to arrangements: face-count formulas for partitions of space by hyperplanes |
 | 2026-09-29 | Deferred | [LIT-351](../../record/literature.d/LIT-351.md) | 9 | 9 | Detection, Estimation, and Modulation Theory, Part I |
 | 2026-09-29 | Deferred | [LIT-321](../../record/literature.d/LIT-321.md) | 8 | 8 | Local Quantum Physics: Fields, Particles, Algebras (2nd ed.) |
-| 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 7 | 7 | A topos foundation for theories of physics: IV. Categories of systems |
 | 2026-09-29 | Deferred | [LIT-311](../../record/literature.d/LIT-311.md) | 6 | 6 | Mathematical Methods of Statistics |
 | 2026-09-29 | Deferred | [LIT-331](../../record/literature.d/LIT-331.md) | 5 | 5 | Zur Theorie der hyperkomplexen Zahlen |
 | 2026-09-29 | Deferred | [LIT-349](../../record/literature.d/LIT-349.md) | 5 | 5 | Information and the Accuracy Attainable in the Estimation of Statistical Parameters |
@@ -132,10 +132,11 @@
 | 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 38 | 38 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
 | 2026-10-01 | Proposed | [LIT-375](../../record/literature.d/LIT-375.md) | 1 | 1 | Structural Learning Theory: A Metric-Topology Factorization Approach |
 | 2026-10-01 | Proposed | [LIT-376](../../record/literature.d/LIT-376.md) | 1 | 1 | Local Urysohn Width: A Topological Complexity Measure for Classification |
+| 2026-10-01 | Deferred | [LIT-379](../../record/literature.d/LIT-379.md) | 0 | 0 | Anger makes fake news viral online |
 
 ## THEORYs
 
-30 of the 149.
+30 of the 150.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -157,6 +158,7 @@
 | 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 9 | 9 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
 | 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 6 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 3 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
+| 2026-09-30 | Proposed | [THEORY-037](../../record/theory.d/THEORY-037.md) | 3 | 3 | In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail |
 | 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 2 | 2 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
 | 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 2 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 1 | 1 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
@@ -168,10 +170,9 @@
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 0 | 0 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
 | 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 0 | 0 | The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress saturates as 1/(1 + B_noise/B); the measured noise scale predicts it only to within an order of magnitude |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 0 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
-| 2026-09-30 | Proposed | [THEORY-037](../../record/theory.d/THEORY-037.md) | 0 | 0 | In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (21): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-318](../../record/literature.d/LIT-318.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-334](../../record/literature.d/LIT-334.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-023](../../record/theory.d/THEORY-023.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-036](../../record/theory.d/THEORY-036.md), [THEORY-037](../../record/theory.d/THEORY-037.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (21): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-318](../../record/literature.d/LIT-318.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-334](../../record/literature.d/LIT-334.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-023](../../record/theory.d/THEORY-023.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-036](../../record/theory.d/THEORY-036.md), [LIT-379](../../record/literature.d/LIT-379.md) — these are the cheapest to close, since nothing depends on the answer.
