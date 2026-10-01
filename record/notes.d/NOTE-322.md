@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp77brj
 paper: LIT-374
 title: 'Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-01'
@@ -30,25 +30,42 @@ history:
     2026-02-08). That preprint is not cited here and was not read. No
     anthology entry exists for this arXiv id or either title.'). The first
     NOTE on this paper, which was seeded from its abstract alone.
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Re-read jointly and charitably with its companion papers; new summary
+    and a superseding "Joint re-reading" section. The first reading's
+    assessment stays below as the record of what was said.
 date: '2026-10-01'
 summary: >-
-  'Proposes "width", the least number of cells in an open cover on each of
-  which some predictor is γ-contractive with conditional risk ≤ δ, as a
-  structural complexity separate from VC dimension. From an additive
-  Rademacher bound, √(2d_str log(e(K−1)n/d_str)/n) + LK·R_n(G) (Thm 4.5),
-  it argues that context routing (the "scaffold") should be trained by
-  different signals from within-context prediction (the "flow"), and that
-  alignment failures are scaffold failures. The routine results are
-  proved: coupon-collector Ω(w log w), Lipschitz composition, penalised
-  model selection, multiclass Sauer–Shelah. The new ones are not. The
-  phase transition at width is assumed in its proof. The bouquet witness
-  of width/VC separation contradicts its own construction. The
-  "fundamental theorem" is false as stated, because infinite
-  pseudo-dimension does not prevent learnability. No theorem links the
-  CS-Laplacian estimator to width. There are no experiments.'
+  Li's structural learning theory (StrLT, developed in the companion arXiv
+  2602.07974) splits multi-regime learning into discovering contexts (the
+  "trap", or scaffold) and predicting within one (the "funnel", or flow).
+  Width is the least number of cells on which a γ-contractive, low-risk
+  predictor suffices. It is incomparable with the per-cell VC dimension,
+  forces an error floor when fewer than w cells are allocated, and costs
+  Ω(w log w) samples to discover. These results hold in repaired form, and
+  are close to definitional. The CS estimator reweights a spatial graph by
+  prediction agreement. It is shown to count components for a given
+  predictor, not width itself. The decoupling prescription says to train
+  routing on structural signals, not task loss, and to freeze consolidated
+  contexts. It is a plausible, testable design hypothesis with
+  continual-learning precedent, but the additive Rademacher bound it is
+  said to follow from holds for joint training too. The safety section
+  recasts alignment as scaffold alignment by analogy, and is asserted.
 ---
 
 # NOTE-322: Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
+
+## Joint re-reading (2026-10-01)
+
+*This section supersedes the assessment below.* At the owner's request this paper was re-read together with [LIT-373](../literature.d/LIT-373.md) and the author's companion preprint (arXiv 2602.07974), as one research programme, and charitably: a technical slip counts only if a major takeaway depends on it and its sensible repair does not save it. The first, isolated reading below rejected on slips that are repairable; its mathematical observations stand as observations, but not as grounds. The joint verdicts, takeaway by takeaway, are in the curation entry of 2026-10-01.
+
+Li's structural learning theory (StrLT, developed in the companion arXiv 2602.07974) splits multi-regime learning into discovering contexts (the "trap", or scaffold) and predicting within one (the "funnel", or flow).
+- **Width** is the least number of cells on which a γ-contractive, low-risk predictor suffices. It is incomparable with the per-cell VC dimension, forces an error floor when fewer than w cells are allocated, and costs Ω(w log w) samples to discover. These results hold in repaired form, and are close to definitional.
+- **The CS estimator** reweights a spatial graph by prediction agreement. It is shown to count components for a given predictor, not width itself.
+- **The decoupling prescription** says to train routing on structural signals, not task loss, and to freeze consolidated contexts. It is a plausible, testable design hypothesis with continual-learning precedent, but the additive Rademacher bound it is said to follow from holds for joint training too.
+- **The safety section** recasts alignment as scaffold alignment by analogy, and is asserted.
 
 ## Contribution
 

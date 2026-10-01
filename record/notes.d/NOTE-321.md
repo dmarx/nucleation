@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp68638
 paper: LIT-373
 title: 'The two dragons of cognition: recursive condensation for predictive processing'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-01'
@@ -37,21 +37,36 @@ history:
     metabolic cost of maintaining structure means the structure is
     dissipative, which Landauer's principle does not forbid, so the paper's
     thermodynamic language is consistent with THEORY-030, not against it.
+- version: 3
+  date: '2026-10-01'
+  note: >-
+    Re-read jointly and charitably with its companion papers; new summary
+    and a superseding "Joint re-reading" section. The first reading's
+    assessment stays below as the record of what was said.
 date: '2026-10-01'
 summary: >-
-  A "Hypothesis and Theory" essay proposing that the neocortex is a
-  "biological Savitch machine". Alternating expansion ("odd parity") and
-  contraction ("even parity") phases manufacture the disjoint closed sets
-  of Urysohn's Lemma, and storing ("memoizing") the condensed tokens
-  converts exponential search into polynomial "navigation". Its one
-  non-standard formal result, Theorem 2, R(N) ∝ b^{αN} (§5.2.2, p. 11), is
-  stated without proof. There is no data, simulation or model. The two
-  mathematical pillars are misdescribed: Savitch's theorem saves space at
-  the cost of time and does not memoize, and Urysohn's Lemma gives a
-  continuous separator, not a linear one, and is not an "if and only if".
+  A Hypothesis-and-Theory essay, the cognitive statement of Li's
+  structural-learning programme. Intelligence pays once for exploratory
+  search, condenses the result into stable discrete tokens, and then
+  navigates cheaply. The cortex and the sleep rhythms are proposed as this
+  cycle's implementation (gamma as the expand/contract clock, the laminar
+  circuit, STDP, SWRs nested in Slow-4). Charitably read, Savitch stands
+  for memoisation and Urysohn for "collapsed, separated classes admit a
+  simple readout". On that reading the core is a coherent restatement of
+  amortised inference and complementary learning systems, with untested
+  and largely non-discriminating predictions. The headline scaling law,
+  linear cortex giving exponential reach (Theorem 2), is stated without
+  argument, and the claim that collapse defeats the curse of
+  dimensionality leaves the cost of learning the collapse unaddressed.
 ---
 
 # NOTE-321: The two dragons of cognition: recursive condensation for predictive processing
+
+## Joint re-reading (2026-10-01)
+
+*This section supersedes the assessment below.* At the owner's request this paper was re-read together with [LIT-374](../literature.d/LIT-374.md) and the author's companion preprint (arXiv 2602.07974), as one research programme, and charitably: a technical slip counts only if a major takeaway depends on it and its sensible repair does not save it. The first, isolated reading below rejected on slips that are repairable; its mathematical observations stand as observations, but not as grounds. The joint verdicts, takeaway by takeaway, are in the curation entry of 2026-10-01.
+
+A Hypothesis-and-Theory essay, the cognitive statement of Li's structural-learning programme. Intelligence pays once for exploratory search, condenses the result into stable discrete tokens, and then navigates cheaply. The cortex and the sleep rhythms are proposed as this cycle's implementation (gamma as the expand/contract clock, the laminar circuit, STDP, SWRs nested in Slow-4). Charitably read, Savitch stands for memoisation and Urysohn for "collapsed, separated classes admit a simple readout". On that reading the core is a coherent restatement of amortised inference and complementary learning systems, with untested and largely non-discriminating predictions. The headline scaling law, linear cortex giving exponential reach (Theorem 2), is stated without argument, and the claim that collapse defeats the curse of dimensionality leaves the cost of learning the collapse unaddressed.
 
 ## Contribution
 
