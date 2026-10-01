@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**106 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**107 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -115,7 +115,7 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 
 Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
 
-16 citations in 8 files await a look.
+17 citations in 9 files await a look.
 
 - [`record/literature.d/LIT-371.md:23`](../../record/literature.d/LIT-371.md)
 - [`record/literature.d/LIT-372.md:35`](../../record/literature.d/LIT-372.md)
@@ -130,9 +130,30 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/notes.d/NOTE-320.md:35`](../../record/notes.d/NOTE-320.md)
 - [`record/notes.d/NOTE-320.md:140`](../../record/notes.d/NOTE-320.md)
 - [`record/notes.d/NOTE-320.md:155`](../../record/notes.d/NOTE-320.md)
+- [`record/notes.d/NOTE-321.md:135`](../../record/notes.d/NOTE-321.md)
 - [`record/theory.d/THEORY-033.md:66`](../../record/theory.d/THEORY-033.md)
 - [`record/theory.d/THEORY-039.md:70`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:82`](../../record/theory.d/THEORY-039.md)
+
+### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
+
+What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+
+13 citations in 10 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
+- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/literature.d/LIT-302.md:26`](../../record/literature.d/LIT-302.md)
+- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
+- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
+- [`record/notes.d/NOTE-278.md:190`](../../record/notes.d/NOTE-278.md)
+- [`record/notes.d/NOTE-286.md:26`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:139`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-302.md:135`](../../record/notes.d/NOTE-302.md)
+- [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
+- [`record/notes.d/NOTE-321.md:136`](../../record/notes.d/NOTE-321.md)
 
 ### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
 
@@ -152,25 +173,6 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/notes.d/NOTE-303.md:107`](../../record/notes.d/NOTE-303.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
-
-### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
-
-What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
-
-12 citations in 9 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
-- [`record/literature.d/LIT-302.md:26`](../../record/literature.d/LIT-302.md)
-- [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-240.md:159`](../../record/notes.d/NOTE-240.md)
-- [`record/notes.d/NOTE-278.md:190`](../../record/notes.d/NOTE-278.md)
-- [`record/notes.d/NOTE-286.md:26`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:139`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-302.md:135`](../../record/notes.d/NOTE-302.md)
-- [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
@@ -928,6 +930,24 @@ Generalized contextuality is strictly broader than Kochen–Specker contextualit
 - [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
 - [`record/notes.d/NOTE-279.md:117`](../../record/notes.d/NOTE-279.md)
 
+### [THEORY-026](../../record/theory.d/THEORY-026.md) — Proposed
+
+For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
+
+2 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-321.md:134`](../../record/notes.d/NOTE-321.md)
+- [`record/theory.d/THEORY-030.md:72`](../../record/theory.d/THEORY-030.md)
+
+### [THEORY-030](../../record/theory.d/THEORY-030.md) — Proposed
+
+Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
+
+2 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-321.md:133`](../../record/notes.d/NOTE-321.md)
+- [`record/theory.d/THEORY-026.md:64`](../../record/theory.d/THEORY-026.md)
+
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
 Adding causality to the information-theoretic perspective on individuality
@@ -1152,6 +1172,14 @@ Signal Detection Theory and Psychophysics
 
 - [`record/theory.d/THEORY-031.md:53`](../../record/theory.d/THEORY-031.md)
 
+### [LIT-373](../../record/literature.d/LIT-373.md) — Rejected
+
+The two dragons of cognition: recursive condensation for predictive processing
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-321.md:6`](../../record/notes.d/NOTE-321.md)
+
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 
 Balestriero & LeCun 2022 — SSL recovers spectral embedding
@@ -1200,14 +1228,6 @@ Neither utility information nor resource holdings, alone or together, can regist
 
 - [`record/theory.d/THEORY-027.md:61`](../../record/theory.d/THEORY-027.md)
 
-### [THEORY-026](../../record/theory.d/THEORY-026.md) — Proposed
-
-For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
-
-1 citation in 1 file awaits a look.
-
-- [`record/theory.d/THEORY-030.md:72`](../../record/theory.d/THEORY-030.md)
-
 ### [THEORY-029](../../record/theory.d/THEORY-029.md) — Proposed
 
 A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain
@@ -1215,14 +1235,6 @@ A higher-order attitude cannot make a motive the agent's own by its order alone:
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-040.md:73`](../../record/theory.d/THEORY-040.md)
-
-### [THEORY-030](../../record/theory.d/THEORY-030.md) — Proposed
-
-Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
-
-1 citation in 1 file awaits a look.
-
-- [`record/theory.d/THEORY-026.md:64`](../../record/theory.d/THEORY-026.md)
 
 ### [THEORY-034](../../record/theory.d/THEORY-034.md) — Proposed
 

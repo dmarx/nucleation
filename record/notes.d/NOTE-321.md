@@ -1,6 +1,9 @@
 ---
+number: 321
 status: Read
-paper: LIT-tmp6erox
+formerly:
+- NOTE-tmp68638
+paper: LIT-373
 title: 'The two dragons of cognition: recursive condensation for predictive processing'
 version: 1
 history:
@@ -41,7 +44,7 @@ summary: >-
   continuous separator, not a linear one, and is not an "if and only if".
 ---
 
-# NOTE-tmp68638: The two dragons of cognition: recursive condensation for predictive processing
+# NOTE-321: The two dragons of cognition: recursive condensation for predictive processing
 
 ## Contribution
 
