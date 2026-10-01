@@ -1,0 +1,65 @@
+---
+status: Deferred
+status_note: 'seeded 2026-10-01 from the reading feed, where it was read on three separate days (the anthology''s issue 180, https://github.com/dmarx/anthology-of-the-sota/issues/180); read for triage, not yet closely enough to place, and no NOTE is filed'
+title: 'Anger makes fake news viral online'
+version: 1
+tags:
+- social-science
+- society-and-governance
+date: '2026-10-01'
+published: '2020-04-22'
+arxiv: '2004.10399'
+first_author: 'Chuai'
+keywords:
+- 'fake news'
+- 'emotion'
+- 'anger'
+- 'virality'
+- 'Weibo'
+implementations: []
+summary: >-
+  Chuai & Zhao (2020), arXiv:2004.10399. On Weibo, fake news carries more
+  anger and less joy than real news, and in observational regressions with
+  controls anger raises retweets while joy lowers them; questionnaires tie
+  anger-dominated news to anxiety-management and information-sharing
+  motives. Unread closely: registered from a triage reading.
+---
+
+# LIT-tmpnay4k: Anger makes fake news viral online
+
+Chuai & Zhao (2020), arXiv:2004.10399 (v1 22 April 2020, v3 27 August 2020;
+cs.SI).
+
+## Standing in the record
+
+Seeded on 2026-10-01 from the owner's reading feed, where it was opened on
+three separate days, as part of the sweep tracked in the anthology's
+[issue 180](https://github.com/dmarx/anthology-of-the-sota/issues/180). It was routed here rather than to the anthology at the owner's
+direction: its subject is how emotion drives the spread of false news among
+people, which no anthology topic holds, since that record's
+`deployment-and-society` is about what a deployed machine-learning system does
+among people.
+
+`Deferred` because it was read only for triage, not closely enough to state
+its assumptions and results exactly, and so no NOTE is filed. What the triage
+reading found, to scope it until somebody reads it properly:
+
+- The main corpus is Weibo, 2011–2016: 22,479 fake and 10,000 true news
+  items, with supplementary Twitter and Western news-media datasets. Emotion
+  is measured with a manually labelled five-emotion lexicon.
+- Fake news carries more anger and less joy than true news. In regressions
+  controlling for followers, mentions, URLs, topic and emergencies, anger
+  raises retweet counts and joy lowers them; the authors report that raising
+  anger by 0.1 and cutting joy by 0.1 adds about 5.8 retweets.
+- A questionnaire of Weibo users (1,291 valid responses) links
+  anger-dominated news to stronger anxiety-management and
+  information-sharing motives. The authors propose flagging posts above a
+  share of anger (they suggest 20%) as a countermeasure.
+- The causal reading rests on observational regression with controls, not
+  on an experiment. A close reading should check how the lexicon was
+  validated and whether the fake and true sets differ in topic mix beyond
+  what the controls absorb.
+
+It sits beside the record's other work on information operations,
+[LIT-083](LIT-083.md) (sharing disinformation incidents as threat intelligence), which
+covers the response side where this one covers the spread.
