@@ -1,0 +1,72 @@
+---
+status: Proposed
+status_note: 'read in full 2026-10-01 ([NOTE-tmp1azfo](../notes.d/NOTE-tmp1azfo.md)); >- Promising and unproven. It is the cleanest and most honest paper in Li''s programme: definitions are precise, the main theorems are correctly proved, a dependency table separates proved from conjectural results, and earlier errors are corrected openly. It is also the consistent construction that [LIT-374](LIT-374.md)''s and arXiv 2602.07974''s bouquet lacked. What would settle it: a result showing that this width governs error or sample cost for learners not built from local experts (for example local-learning or nearest-neighbour rates), or a proof of Conj 8.9 under conditions its motivating examples actually satisfy. Without one of these, it is a covering number with a topological headline.'
+title: 'Local Urysohn Width: A Topological Complexity Measure for Classification'
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Read in full (>- Full text of arXiv 2603.15412 v1 (16 Mar 2026), "Local
+    Urysohn Width: A Topological Complexity Measure for Classification",
+    from the arXiv PDF (22 pp.). I read the abstract, §§1–10 (Defs 2.1,
+    3.1–3.3, 8.1, 8.4; Lemmas 3.5–3.7, 8.2; Thms 4.1, 6.1, 7.1, 8.5, 8.10;
+    Cor 5.1; Conjs 8.9, 8.12; Remarks; Fig. 1), the AI disclosure statement,
+    the references, and Appendices A–G (safe-region conventions, VC notions,
+    the explicit target family, convexity assumptions, the dependency map,
+    bibliographic notes, and the detailed AI-use disclosure). Nothing was
+    skipped. **The identifier now serves a different paper.** v2 (14 Sep
+    2026) is "The Metric Slingshot: Navigational Reuse as Width-Optimal
+    Structural Decoupling in Continual Learning" (41 pp.). It shares v1's
+    name for the measure but not its definition, and it shares no theorem
+    with v1. I also read v2 in full: abstract, §§1–8, Defs 2.1, 2.3, 4.1,
+    4.2, 5.1, 5.3; Thms 2.4, 4.3, 4.5; Props 3.1, 5.4, 6.2; Cor 5.5;
+    Remarks; Tables 1–4; Fig. 1; the references; and Appendix A with the
+    proofs of Thm A.1, Prop 3.1, Thms 4.3 and 4.5, and Prop 5.4. This file
+    reads v1, the work the owner asked for by title, with `published:` =
+    2026-03-16. v2 is reported separately below under "The current version
+    (v2)". This choice departs from LIT-374's precedent, which filed what
+    the identifier then served (see corrections). No anthology or nucleation
+    entry exists for this arXiv id or either title. Read 2026-10-01 together
+    with LIT-373, LIT-374 and arXiv 2602.07974, as one programme, to a
+    charitable standard.); the first NOTE on it, since it was seeded from
+    the abstract alone. Status set from the reading: Proposed.
+tags:
+- learning-theory
+- mathematics
+date: '2026-10-01'
+published: '2026-03-16'
+arxiv: '2603.15412'
+first_author: 'Li'
+keywords:
+- 'owner request'
+implementations: []
+summary: >-
+  Li (2026), arXiv:2603.15412. >- It defines local Urysohn width
+  uw_{D₀}(P, γ): the least number of connected sets of diameter ≤ D₀, each
+  carrying a continuous classifier correct on the margin-γ safe region it
+  meets, needed to cover that safe region. It proves: - uw = w on a
+  bouquet of w circles with safe balls at the antipodes, when 3γ/2 ≤ D₀ <
+  L/2 − 3γ/4 (Thm 4.1); - uw ≥ w·m, with m = Θ(L/D₀) safe balls per loop,
+  so uw = Ω(w·L/D₀) (Cor 5.1); - two-way non-determination with VC
+  dimension (Thm 6.1); - an Ω(w log w) sample lower bound via
+  label-permuted coupon collection (Thm 7.1); - uw ≥ 2β₁/Δ₀ for good,
+  convex, bounded-adjacency covers (Thm 8.5). The proofs are correct. The
+  obstruction is metric, as the paper concedes in Remark 8.11: patches
+  cannot reach across the wedge point. Because Urysohn's lemma makes local
+  correctness automatic on any patch, the measure is a connected covering
+  number of the safe region that does not depend on the labels.
+---
+
+# LIT-tmp8xsqx: Local Urysohn Width: A Topological Complexity Measure for Classification
+
+Li (2026), *'arXiv preprint, cs.LG. v1 (2026-03-16) is the version read here. v2 (2026-09-14) under the same identifier is a different paper, "The Metric Slingshot: Navigational Reuse as Width-Optimal Structural Decoupling in Continual Learning", also read; see corrections.'* — arXiv:2603.15412
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)). This entry is arXiv **v1** (2026-03-16), "Local Urysohn Width", the paper the owner asked for. Since 2026-09-14 the identifier serves v2, "The Metric Slingshot", a different paper on grid cells and navigation with no shared theorems; the reading (NOTE) covers v2 in its own section, where it would be filed `Rejected`. Read together with [LIT-373](LIT-373.md) and [LIT-374](LIT-374.md) as one research programme (curation entry of 2026-10-01).
+
+It was filed `Deferred`, unread. [NOTE-tmp1azfo](../notes.d/NOTE-tmp1azfo.md) is the close reading of 2026-10-01, and it placed the work: **Proposed** — >- Promising and unproven. It is the cleanest and most honest paper in Li's programme: definitions are precise, the main theorems are correctly proved, a dependency table separates proved from conjectural results, and earlier errors are corrected openly. It is also the consistent construction that [LIT-374](LIT-374.md)'s and arXiv 2602.07974's bouquet lacked. What would settle it: a result showing that this width governs error or sample cost for learners not built from local experts (for example local-learning or nearest-neighbour rates), or a proof of Conj 8.9 under conditions its motivating examples actually satisfy. Without one of these, it is a covering number with a topological headline.
+
+<!-- source-ok-file: 2603.15412 — this entry is v1, "Local Urysohn Width"; arXiv now serves v2, "The Metric Slingshot", a different paper under the same identifier -->

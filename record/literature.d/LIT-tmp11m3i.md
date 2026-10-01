@@ -1,0 +1,69 @@
+---
+status: Proposed
+status_note: 'read in full 2026-10-01 ([NOTE-tmpm6dav](../notes.d/NOTE-tmpm6dav.md)); >- Promising and unproven. It is the programme''s fullest and most careful formal statement, and it carries the learning theory of [LIT-374](LIT-374.md) §3 with the assumptions in the body. Its routine results hold, and its bouquet slip is repairable. What would settle it: - a theorem that the CS count for a learned predictor equals w(P; γ, δ), not w_G(P); - a K-sweep on benchmarks of known width, showing the floor at K < w for routed learners, and testing whether a capacity-matched monolithic model shows it; - the decoupled-versus-joint training comparison it motivates but does not run.'
+title: 'Structural Learning Theory: A Metric-Topology Factorization Approach'
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Read in full (>- Full text of arXiv 2602.07974 v2 (6 May 2026), the
+    current version, from the arXiv PDF. It runs 41 pp. in a JMLR template;
+    the extraction ran to Appendix C.12. I read the abstract, §1 (1.1–1.3,
+    Table 1, Fig. 2), §2 (Defs 2.1–2.4, Prop 2.1, Thms 2.1, 2.2, 2.4–2.6,
+    Assumption 2.3, Remarks 2.1–2.4, Table 2, Fig. 3), §3 (Defs 3.1–3.8,
+    Thms 3.1–3.9, Prop 3.1, Assumption 3.7, Remarks 3.1–3.2), §4 (Defs
+    4.1–4.6, Thms 4.1, 4.2, 4.4–4.8, Assumption 4.3, Props 4.1–4.2, Cors
+    4.1–4.3, Remarks 4.1–4.5, Fig. 4), §5, the reference list, and every
+    appendix proof (A.1–A.6, B.1–B.9, C.1–C.12). Nothing was skipped. I also
+    read v1 (8 Feb 2026, 28 pp.) in full: abstract, §§1–6 including the
+    three experiments, the AI-use statement, and Appendix A. v1 is a
+    different paper under a different title, "Beyond Optimization:
+    Intelligence as Metric-Topology Factorization under Geometric
+    Incompleteness" (see corrections). `published:` is therefore the v2
+    date. The JMLR header on both versions ("Journal of Machine Learning
+    Research 23 (2026) … Published 9/22", "Editor: TBD") is template
+    residue. The work is an unrefereed preprint. No entry for this arXiv id
+    or either title exists in the anthology or in nucleation. Read
+    2026-10-01 together with LIT-373 and LIT-374, as one programme, to a
+    charitable standard: repairable slips are set aside, and errors count
+    only when a major takeaway depends on them.); the first NOTE on it,
+    since it was seeded from the abstract alone. Status set from the
+    reading: Proposed.
+tags:
+- learning-theory
+- representation-learning
+- mathematics
+date: '2026-10-01'
+published: '2026-05-06'
+arxiv: '2602.07974'
+first_author: 'Li'
+keywords:
+- 'owner request'
+implementations: []
+summary: >-
+  Li (2026), arXiv:2602.07974. >- The formal core of Xin Li's
+  structural-learning programme. Width w(P; γ, δ) is the least number of
+  open cells on each of which some predictor is γ-contractive with
+  conditional risk ≤ δ. The paper proves that width is incomparable with
+  the per-cell VC dimension (Thm 2.2). It shows that with K < w cells
+  there is an n-independent error floor η(w, K), under a non-degeneracy
+  assumption stated in the body (Thm 2.4, Assumption 2.3). Width is at
+  least c·β₁·L/D₀ under a bounded-overlap assumption (Thm 2.5), and
+  discovering all basins costs Ω(w log w) samples (Thm 2.6). The
+  CS-Laplacian eigenvalue count converges uniformly to the
+  predictor-relative count w_G(P) when n ≳ (H_G + d_X log(1/r_x) +
+  log(1/δ′))/(r_x^{d_X} g_eff²) (Thm 3.5); no result shows that w_G equals
+  width. There are no experiments.
+---
+
+# LIT-tmp11m3i: Structural Learning Theory: A Metric-Topology Factorization Approach
+
+Li (2026), *'arXiv preprint, cs.LG. v2 (2026-05-06) is the version read and the first appearance of this work. v1 (2026-02-08) under the same identifier is a different paper, "Beyond Optimization: Intelligence as Metric-Topology Factorization under Geometric Incompleteness". Typeset in a JMLR template with placeholder publication data; not published in JMLR.'* — arXiv:2602.07974
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request.
+`published:` is the first appearance ([ADR-002](../decisions.d/ADR-002.md)). Here that is 2026-05-06, the date of arXiv v2: v1 (2026-02-08) under the same number is a different paper, "Beyond Optimization", a Morse-theory argument. Read together with [LIT-373](LIT-373.md) and [LIT-374](LIT-374.md) as one research programme (curation entry of 2026-10-01); this is its fullest formal statement. Its JMLR-style header is template residue: it is an unrefereed preprint.
+
+It was filed `Deferred`, unread. [NOTE-tmpm6dav](../notes.d/NOTE-tmpm6dav.md) is the close reading of 2026-10-01, and it placed the work: **Proposed** — >- Promising and unproven. It is the programme's fullest and most careful formal statement, and it carries the learning theory of [LIT-374](LIT-374.md) §3 with the assumptions in the body. Its routine results hold, and its bouquet slip is repairable. What would settle it: - a theorem that the CS count for a learned predictor equals w(P; γ, δ), not w_G(P); - a K-sweep on benchmarks of known width, showing the floor at K < w for routed learners, and testing whether a capacity-matched monolithic model shows it; - the decoupled-versus-joint training comparison it motivates but does not run.
