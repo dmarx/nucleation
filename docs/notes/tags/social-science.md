@@ -4,7 +4,7 @@
 
 **social-science**.
 
-24 of 321 NOTE documents. Back to the [full index](../README.md).
+24 of 322 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -1,6 +1,9 @@
 ---
+number: 322
 status: Read
-paper: LIT-tmp20zvz
+formerly:
+- NOTE-tmp77brj
+paper: LIT-374
 title: 'Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment'
 version: 1
 history:
@@ -45,7 +48,7 @@ summary: >-
   CS-Laplacian estimator to width. There are no experiments.'
 ---
 
-# NOTE-tmp77brj: Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
+# NOTE-322: Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 ## Contribution
 

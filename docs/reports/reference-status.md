@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**107 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**113 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -87,6 +87,56 @@ A representation is determined by its kernel up to an orthogonal transformation,
 - [`record/theory.d/THEORY-018.md:86`](../../record/theory.d/THEORY-018.md)
 - [`record/theory.d/THEORY-032.md:104`](../../record/theory.d/THEORY-032.md)
 
+### [LIT-373](../../record/literature.d/LIT-373.md) — Rejected
+
+The two dragons of cognition: recursive condensation for predictive processing
+
+18 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-374.md:70`](../../record/literature.d/LIT-374.md)
+- [`record/notes.d/NOTE-321.md:6`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-322.md:90`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:143`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:148`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:151`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:158`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:159`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:160`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:161`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:162`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:164`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:169`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:175`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:179`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:218`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:219`](../../record/notes.d/NOTE-322.md)
+
+### [THEORY-035](../../record/theory.d/THEORY-035.md) — Rejected
+
+Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
+
+18 citations in 10 files await a look.
+
+- [`record/literature.d/LIT-371.md:23`](../../record/literature.d/LIT-371.md)
+- [`record/literature.d/LIT-372.md:35`](../../record/literature.d/LIT-372.md)
+- [`record/notes.d/NOTE-317.md:132`](../../record/notes.d/NOTE-317.md)
+- [`record/notes.d/NOTE-317.md:134`](../../record/notes.d/NOTE-317.md)
+- [`record/notes.d/NOTE-317.md:145`](../../record/notes.d/NOTE-317.md)
+- [`record/notes.d/NOTE-318.md:117`](../../record/notes.d/NOTE-318.md)
+- [`record/notes.d/NOTE-318.md:128`](../../record/notes.d/NOTE-318.md)
+- [`record/notes.d/NOTE-319.md:23`](../../record/notes.d/NOTE-319.md)
+- [`record/notes.d/NOTE-319.md:150`](../../record/notes.d/NOTE-319.md)
+- [`record/notes.d/NOTE-319.md:167`](../../record/notes.d/NOTE-319.md)
+- [`record/notes.d/NOTE-320.md:35`](../../record/notes.d/NOTE-320.md)
+- [`record/notes.d/NOTE-320.md:140`](../../record/notes.d/NOTE-320.md)
+- [`record/notes.d/NOTE-320.md:155`](../../record/notes.d/NOTE-320.md)
+- [`record/notes.d/NOTE-321.md:142`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-322.md:168`](../../record/notes.d/NOTE-322.md)
+- [`record/theory.d/THEORY-033.md:66`](../../record/theory.d/THEORY-033.md)
+- [`record/theory.d/THEORY-039.md:70`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:82`](../../record/theory.d/THEORY-039.md)
+
 ### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
 
 Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
@@ -111,30 +161,6 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
 
-### [THEORY-035](../../record/theory.d/THEORY-035.md) — Rejected
-
-Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
-
-17 citations in 9 files await a look.
-
-- [`record/literature.d/LIT-371.md:23`](../../record/literature.d/LIT-371.md)
-- [`record/literature.d/LIT-372.md:35`](../../record/literature.d/LIT-372.md)
-- [`record/notes.d/NOTE-317.md:132`](../../record/notes.d/NOTE-317.md)
-- [`record/notes.d/NOTE-317.md:134`](../../record/notes.d/NOTE-317.md)
-- [`record/notes.d/NOTE-317.md:145`](../../record/notes.d/NOTE-317.md)
-- [`record/notes.d/NOTE-318.md:117`](../../record/notes.d/NOTE-318.md)
-- [`record/notes.d/NOTE-318.md:128`](../../record/notes.d/NOTE-318.md)
-- [`record/notes.d/NOTE-319.md:23`](../../record/notes.d/NOTE-319.md)
-- [`record/notes.d/NOTE-319.md:150`](../../record/notes.d/NOTE-319.md)
-- [`record/notes.d/NOTE-319.md:167`](../../record/notes.d/NOTE-319.md)
-- [`record/notes.d/NOTE-320.md:35`](../../record/notes.d/NOTE-320.md)
-- [`record/notes.d/NOTE-320.md:140`](../../record/notes.d/NOTE-320.md)
-- [`record/notes.d/NOTE-320.md:155`](../../record/notes.d/NOTE-320.md)
-- [`record/notes.d/NOTE-321.md:135`](../../record/notes.d/NOTE-321.md)
-- [`record/theory.d/THEORY-033.md:66`](../../record/theory.d/THEORY-033.md)
-- [`record/theory.d/THEORY-039.md:70`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:82`](../../record/theory.d/THEORY-039.md)
-
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
@@ -153,7 +179,7 @@ What a regularized linear readout can decode from a representation is a function
 - [`record/notes.d/NOTE-286.md:139`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-302.md:135`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
-- [`record/notes.d/NOTE-321.md:136`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-321.md:143`](../../record/notes.d/NOTE-321.md)
 
 ### [LIT-241](../../record/literature.d/LIT-241.md) — Deferred
 
@@ -173,6 +199,25 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/notes.d/NOTE-303.md:107`](../../record/notes.d/NOTE-303.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
+
+### [LIT-369](../../record/literature.d/LIT-369.md) — Proposed
+
+Grokking and Generalization Collapse: Insights from HTSR theory
+
+12 citations in 4 files await a look.
+
+- [`record/notes.d/NOTE-317.md:6`](../../record/notes.d/NOTE-317.md)
+- [`record/notes.d/NOTE-322.md:167`](../../record/notes.d/NOTE-322.md)
+- [`record/theory.d/THEORY-035.md:92`](../../record/theory.d/THEORY-035.md)
+- [`record/theory.d/THEORY-039.md:32`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:36`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:53`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:64`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:68`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:70`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:75`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:77`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-039.md:83`](../../record/theory.d/THEORY-039.md)
 
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
@@ -208,25 +253,7 @@ Irreversibility and Heat Generation in the Computing Process
 - [`record/notes.d/NOTE-310.md:126`](../../record/notes.d/NOTE-310.md)
 - [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
 - [`record/theory.d/THEORY-030.md:12`](../../record/theory.d/THEORY-030.md)
-- [`record/theory.d/THEORY-030.md:66`](../../record/theory.d/THEORY-030.md)
-
-### [LIT-369](../../record/literature.d/LIT-369.md) — Proposed
-
-Grokking and Generalization Collapse: Insights from HTSR theory
-
-11 citations in 3 files await a look.
-
-- [`record/notes.d/NOTE-317.md:6`](../../record/notes.d/NOTE-317.md)
-- [`record/theory.d/THEORY-035.md:92`](../../record/theory.d/THEORY-035.md)
-- [`record/theory.d/THEORY-039.md:32`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:36`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:53`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:64`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:68`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:70`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:75`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:77`](../../record/theory.d/THEORY-039.md)
-- [`record/theory.d/THEORY-039.md:83`](../../record/theory.d/THEORY-039.md)
+- [`record/theory.d/THEORY-030.md:75`](../../record/theory.d/THEORY-030.md)
 
 ### [THEORY-002](../../record/theory.d/THEORY-002.md) — Proposed
 
@@ -497,6 +524,21 @@ Adler — Hilbert spaces and the Riesz representation theorem
 - [`record/notes.d/NOTE-286.md:189`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-286.md:190`](../../record/notes.d/NOTE-286.md)
 
+### [THEORY-030](../../record/theory.d/THEORY-030.md) — Proposed
+
+Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
+
+8 citations in 4 files await a look.
+
+- [`record/literature.d/LIT-373.md:38`](../../record/literature.d/LIT-373.md)
+- [`record/literature.d/LIT-373.md:78`](../../record/literature.d/LIT-373.md)
+- [`record/notes.d/NOTE-321.md:36`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-321.md:39`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-321.md:140`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-322.md:169`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
+- [`record/theory.d/THEORY-026.md:64`](../../record/theory.d/THEORY-026.md)
+
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
 A topos foundation for theories of physics: IV. Categories of systems
@@ -551,6 +593,19 @@ Distributional Semantics, Holism, and the Instability of Meaning
 - [`record/notes.d/NOTE-243.md:120`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
+
+### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
+
+Contrastive Learning Is Spectral Clustering On Similarity Graph
+
+6 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
+- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
+- [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
+- [`record/notes.d/NOTE-322.md:170`](../../record/notes.d/NOTE-322.md)
+- [`record/theory.d/THEORY-001.md:22`](../../record/theory.d/THEORY-001.md)
+- [`record/theory.d/THEORY-001.md:42`](../../record/theory.d/THEORY-001.md)
 
 ### [LIT-240](../../record/literature.d/LIT-240.md) — Deferred
 
@@ -615,18 +670,6 @@ The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 - [`record/notes.d/NOTE-267.md:148`](../../record/notes.d/NOTE-267.md)
 - [`record/notes.d/NOTE-270.md:271`](../../record/notes.d/NOTE-270.md)
 - [`record/notes.d/NOTE-270.md:277`](../../record/notes.d/NOTE-270.md)
-
-### [LIT-227](../../record/literature.d/LIT-227.md) — Deferred
-
-Contrastive Learning Is Spectral Clustering On Similarity Graph
-
-5 citations in 3 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
-- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
-- [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
-- [`record/theory.d/THEORY-001.md:22`](../../record/theory.d/THEORY-001.md)
-- [`record/theory.d/THEORY-001.md:42`](../../record/theory.d/THEORY-001.md)
 
 ### [LIT-228](../../record/literature.d/LIT-228.md) — Deferred
 
@@ -741,6 +784,17 @@ The Theory of Signal Detectability. Part I: The General Theory; Part II: Applica
 - [`record/theory.d/THEORY-031.md:33`](../../record/theory.d/THEORY-031.md)
 - [`record/theory.d/THEORY-031.md:48`](../../record/theory.d/THEORY-031.md)
 
+### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
+
+Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+
+4 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-322.md:165`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:183`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:210`](../../record/notes.d/NOTE-322.md)
+- [`record/theory.d/THEORY-022.md:98`](../../record/theory.d/THEORY-022.md)
+
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
 Pregeometry, Formal Language and Constructivist Foundations of Physics
@@ -821,6 +875,16 @@ What is Structural Realism?
 - [`record/notes.d/NOTE-297.md:125`](../../record/notes.d/NOTE-297.md)
 - [`record/theory.d/THEORY-034.md:8`](../../record/theory.d/THEORY-034.md)
 
+### [LIT-374](../../record/literature.d/LIT-374.md) — Rejected
+
+Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
+
+3 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-373.md:37`](../../record/literature.d/LIT-373.md)
+- [`record/literature.d/LIT-373.md:78`](../../record/literature.d/LIT-373.md)
+- [`record/notes.d/NOTE-322.md:6`](../../record/notes.d/NOTE-322.md)
+
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
 Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model
@@ -830,6 +894,16 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
 - [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
+
+### [THEORY-026](../../record/theory.d/THEORY-026.md) — Proposed
+
+For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
+
+3 citations in 3 files await a look.
+
+- [`record/notes.d/NOTE-321.md:141`](../../record/notes.d/NOTE-321.md)
+- [`record/notes.d/NOTE-322.md:169`](../../record/notes.d/NOTE-322.md)
+- [`record/theory.d/THEORY-030.md:81`](../../record/theory.d/THEORY-030.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -929,24 +1003,6 @@ Generalized contextuality is strictly broader than Kochen–Specker contextualit
 
 - [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
 - [`record/notes.d/NOTE-279.md:117`](../../record/notes.d/NOTE-279.md)
-
-### [THEORY-026](../../record/theory.d/THEORY-026.md) — Proposed
-
-For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
-
-2 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-321.md:134`](../../record/notes.d/NOTE-321.md)
-- [`record/theory.d/THEORY-030.md:72`](../../record/theory.d/THEORY-030.md)
-
-### [THEORY-030](../../record/theory.d/THEORY-030.md) — Proposed
-
-Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
-
-2 citations in 2 files await a look.
-
-- [`record/notes.d/NOTE-321.md:133`](../../record/notes.d/NOTE-321.md)
-- [`record/theory.d/THEORY-026.md:64`](../../record/theory.d/THEORY-026.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -1100,6 +1156,14 @@ Self-Supervised Learning with Kernel Dependence Maximization
 
 - [`record/literature.d/LIT-326.md:62`](../../record/literature.d/LIT-326.md)
 
+### [LIT-249](../../record/literature.d/LIT-249.md) — Deferred
+
+Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-322.md:170`](../../record/notes.d/NOTE-322.md)
+
 ### [LIT-257](../../record/literature.d/LIT-257.md) — Deferred
 
 What Representational Similarity Measures Imply about Decodable Information
@@ -1172,14 +1236,6 @@ Signal Detection Theory and Psychophysics
 
 - [`record/theory.d/THEORY-031.md:53`](../../record/theory.d/THEORY-031.md)
 
-### [LIT-373](../../record/literature.d/LIT-373.md) — Rejected
-
-The two dragons of cognition: recursive condensation for predictive processing
-
-1 citation in 1 file awaits a look.
-
-- [`record/notes.d/NOTE-321.md:6`](../../record/notes.d/NOTE-321.md)
-
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 
 Balestriero & LeCun 2022 — SSL recovers spectral embedding
@@ -1188,6 +1244,14 @@ Balestriero & LeCun 2022 — SSL recovers spectral embedding
 
 - [`record/notes.d/NOTE-319.md:189`](../../record/notes.d/NOTE-319.md)
 
+### [NOTE-209](../../record/notes.d/NOTE-209.md) — Skimmed
+
+Tan et al. 2023 — contrastive learning is spectral clustering
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-322.md:170`](../../record/notes.d/NOTE-322.md)
+
 ### [NOTE-216](../../record/notes.d/NOTE-216.md) — Skimmed
 
 Variable-size compressibility generalization bounds
@@ -1195,6 +1259,14 @@ Variable-size compressibility generalization bounds
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-308.md:119`](../../record/notes.d/NOTE-308.md)
+
+### [NOTE-227](../../record/notes.d/NOTE-227.md) — Skimmed
+
+Spectral contrastive loss (HaoChen et al.)
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-322.md:170`](../../record/notes.d/NOTE-322.md)
 
 ### [THEORY-003](../../record/theory.d/THEORY-003.md) — Proposed
 
@@ -1212,13 +1284,13 @@ Spectral self-supervised learning gets its self-adjointness from the symmetry of
 
 - [`record/notes.d/NOTE-289.md:84`](../../record/notes.d/NOTE-289.md)
 
-### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
+### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
-Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
 1 citation in 1 file awaits a look.
 
-- [`record/theory.d/THEORY-022.md:98`](../../record/theory.d/THEORY-022.md)
+- [`record/notes.d/NOTE-322.md:167`](../../record/notes.d/NOTE-322.md)
 
 ### [THEORY-025](../../record/theory.d/THEORY-025.md) — Proposed
 
@@ -1251,6 +1323,14 @@ Category theory gives radical ontic structural realism no formal support: genera
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-034.md:98`](../../record/theory.d/THEORY-034.md)
+
+### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
+
+The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-322.md:167`](../../record/notes.d/NOTE-322.md)
 
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
