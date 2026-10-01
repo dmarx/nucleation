@@ -1,6 +1,9 @@
 ---
+number: 329
 status: Read
-paper: LIT-tmpf4hde
+formerly:
+- NOTE-tmpof137
+paper: LIT-381
 title: 'A Topos Perspective on the Kochen-Specker Theorem: II. Conceptual Aspects, and Classical Analogues'
 version: 1
 history:
@@ -52,7 +55,7 @@ summary: >-
   a proposition are totally true, the truth value is a sieve.
 ---
 
-# NOTE-tmpof137: A Topos Perspective on the Kochen-Specker Theorem: II. Conceptual Aspects, and Classical Analogues
+# NOTE-329: A Topos Perspective on the Kochen-Specker Theorem: II. Conceptual Aspects, and Classical Analogues
 
 ## Contribution
 

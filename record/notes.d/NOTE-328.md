@@ -1,6 +1,9 @@
 ---
+number: 328
 status: Read
-paper: LIT-tmptub9z
+formerly:
+- NOTE-tmp2pyyh
+paper: LIT-382
 title: 'A Topos Perspective on the Kochen-Specker Theorem: IV. Interval Valuations'
 version: 1
 history:
@@ -48,7 +51,7 @@ summary: >-
   its coarse-graining. Part III had only asserted this.
 ---
 
-# NOTE-tmp2pyyh: A Topos Perspective on the Kochen-Specker Theorem: IV. Interval Valuations
+# NOTE-328: A Topos Perspective on the Kochen-Specker Theorem: IV. Interval Valuations
 
 ## Contribution
 

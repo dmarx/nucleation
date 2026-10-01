@@ -1,6 +1,9 @@
 ---
+number: 327
 status: Read
-paper: LIT-tmp6dqzs
+formerly:
+- NOTE-tmp2m2ff
+paper: LIT-380
 title: 'A Topos Perspective on the Kochen-Specker Theorem: III. Von Neumann Algebras as the Base Category'
 version: 1
 history:
@@ -47,7 +50,7 @@ summary: >-
   probability-r valuations give subobjects of G but not global elements.
 ---
 
-# NOTE-tmp2m2ff: A Topos Perspective on the Kochen-Specker Theorem: III. Von Neumann Algebras as the Base Category
+# NOTE-327: A Topos Perspective on the Kochen-Specker Theorem: III. Von Neumann Algebras as the Base Category
 
 ## Contribution
 

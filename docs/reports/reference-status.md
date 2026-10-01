@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**119 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**120 documents cited without acknowledgement.** Not listed: 425 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -129,7 +129,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/notes.d/NOTE-290.md:134`](../../record/notes.d/NOTE-290.md)
 - [`record/notes.d/NOTE-291.md:143`](../../record/notes.d/NOTE-291.md)
 - [`record/notes.d/NOTE-291.md:145`](../../record/notes.d/NOTE-291.md)
-- [`record/notes.d/NOTE-292.md:122`](../../record/notes.d/NOTE-292.md)
+- [`record/notes.d/NOTE-292.md:127`](../../record/notes.d/NOTE-292.md)
 - [`record/notes.d/NOTE-297.md:128`](../../record/notes.d/NOTE-297.md)
 - [`record/notes.d/NOTE-299.md:113`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:129`](../../record/notes.d/NOTE-299.md)
@@ -230,6 +230,26 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
 
+### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
+
+A topos foundation for theories of physics: IV. Categories of systems
+
+13 citations in 8 files await a look.
+
+- [`record/literature.d/LIT-325.md:6`](../../record/literature.d/LIT-325.md)
+- [`record/literature.d/LIT-325.md:82`](../../record/literature.d/LIT-325.md)
+- [`record/literature.d/LIT-378.md:6`](../../record/literature.d/LIT-378.md)
+- [`record/literature.d/LIT-378.md:86`](../../record/literature.d/LIT-378.md)
+- [`record/notes.d/NOTE-271.md:174`](../../record/notes.d/NOTE-271.md)
+- [`record/notes.d/NOTE-277.md:66`](../../record/notes.d/NOTE-277.md)
+- [`record/notes.d/NOTE-277.md:94`](../../record/notes.d/NOTE-277.md)
+- [`record/notes.d/NOTE-279.md:119`](../../record/notes.d/NOTE-279.md)
+- [`record/notes.d/NOTE-285.md:6`](../../record/notes.d/NOTE-285.md)
+- [`record/notes.d/NOTE-326.md:45`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-326.md:178`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-326.md:180`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-327.md:151`](../../record/notes.d/NOTE-327.md)
+
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
@@ -288,25 +308,6 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
 
-### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
-
-A topos foundation for theories of physics: IV. Categories of systems
-
-12 citations in 7 files await a look.
-
-- [`record/literature.d/LIT-325.md:6`](../../record/literature.d/LIT-325.md)
-- [`record/literature.d/LIT-325.md:76`](../../record/literature.d/LIT-325.md)
-- [`record/literature.d/LIT-378.md:6`](../../record/literature.d/LIT-378.md)
-- [`record/literature.d/LIT-378.md:86`](../../record/literature.d/LIT-378.md)
-- [`record/notes.d/NOTE-271.md:174`](../../record/notes.d/NOTE-271.md)
-- [`record/notes.d/NOTE-277.md:66`](../../record/notes.d/NOTE-277.md)
-- [`record/notes.d/NOTE-277.md:94`](../../record/notes.d/NOTE-277.md)
-- [`record/notes.d/NOTE-279.md:119`](../../record/notes.d/NOTE-279.md)
-- [`record/notes.d/NOTE-285.md:6`](../../record/notes.d/NOTE-285.md)
-- [`record/notes.d/NOTE-326.md:45`](../../record/notes.d/NOTE-326.md)
-- [`record/notes.d/NOTE-326.md:178`](../../record/notes.d/NOTE-326.md)
-- [`record/notes.d/NOTE-326.md:180`](../../record/notes.d/NOTE-326.md)
-
 ### [LIT-369](../../record/literature.d/LIT-369.md) — Proposed
 
 Grokking and Generalization Collapse: Insights from HTSR theory
@@ -361,6 +362,24 @@ Irreversibility and Heat Generation in the Computing Process
 - [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
 - [`record/theory.d/THEORY-030.md:12`](../../record/theory.d/THEORY-030.md)
 - [`record/theory.d/THEORY-030.md:75`](../../record/theory.d/THEORY-030.md)
+
+### [THEORY-037](../../record/theory.d/THEORY-037.md) — Proposed
+
+In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail
+
+11 citations in 5 files await a look.
+
+- [`record/literature.d/LIT-378.md:105`](../../record/literature.d/LIT-378.md)
+- [`record/notes.d/NOTE-326.md:195`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-326.md:219`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-327.md:161`](../../record/notes.d/NOTE-327.md)
+- [`record/notes.d/NOTE-327.md:163`](../../record/notes.d/NOTE-327.md)
+- [`record/notes.d/NOTE-327.md:164`](../../record/notes.d/NOTE-327.md)
+- [`record/notes.d/NOTE-328.md:160`](../../record/notes.d/NOTE-328.md)
+- [`record/notes.d/NOTE-328.md:161`](../../record/notes.d/NOTE-328.md)
+- [`record/notes.d/NOTE-328.md:162`](../../record/notes.d/NOTE-328.md)
+- [`record/notes.d/NOTE-328.md:163`](../../record/notes.d/NOTE-328.md)
+- [`record/notes.d/NOTE-329.md:152`](../../record/notes.d/NOTE-329.md)
 
 ### [LIT-276](../../record/literature.d/LIT-276.md) — Rejected
 
@@ -751,6 +770,19 @@ Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry:
 - [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
 - [`record/theory.d/THEORY-022.md:98`](../../record/theory.d/THEORY-022.md)
 
+### [THEORY-024](../../record/theory.d/THEORY-024.md) — Rejected
+
+Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified
+
+6 citations in 4 files await a look.
+
+- [`record/notes.d/NOTE-326.md:183`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-326.md:199`](../../record/notes.d/NOTE-326.md)
+- [`record/notes.d/NOTE-327.md:168`](../../record/notes.d/NOTE-327.md)
+- [`record/notes.d/NOTE-328.md:168`](../../record/notes.d/NOTE-328.md)
+- [`record/notes.d/NOTE-329.md:147`](../../record/notes.d/NOTE-329.md)
+- [`record/notes.d/NOTE-329.md:150`](../../record/notes.d/NOTE-329.md)
+
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
 Pregeometry, Formal Language and Constructivist Foundations of Physics
@@ -877,6 +909,17 @@ Algebraic Geometry and Statistical Learning Theory
 - [`record/notes.d/NOTE-287.md:125`](../../record/notes.d/NOTE-287.md)
 - [`record/notes.d/NOTE-287.md:150`](../../record/notes.d/NOTE-287.md)
 
+### [LIT-380](../../record/literature.d/LIT-380.md) — Superseded
+
+A Topos Perspective on the Kochen-Specker Theorem: III. Von Neumann Algebras as the Base Category
+
+4 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-325.md:35`](../../record/literature.d/LIT-325.md)
+- [`record/literature.d/LIT-325.md:80`](../../record/literature.d/LIT-325.md)
+- [`record/notes.d/NOTE-292.md:120`](../../record/notes.d/NOTE-292.md)
+- [`record/notes.d/NOTE-327.md:6`](../../record/notes.d/NOTE-327.md)
+
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
 The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
@@ -977,16 +1020,6 @@ For a system driven without feedback, the work dissipated equals the memory that
 - [`record/notes.d/NOTE-321.md:156`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
 - [`record/theory.d/THEORY-030.md:81`](../../record/theory.d/THEORY-030.md)
-
-### [THEORY-037](../../record/theory.d/THEORY-037.md) — Proposed
-
-In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail
-
-3 citations in 2 files await a look.
-
-- [`record/literature.d/LIT-378.md:105`](../../record/literature.d/LIT-378.md)
-- [`record/notes.d/NOTE-326.md:195`](../../record/notes.d/NOTE-326.md)
-- [`record/notes.d/NOTE-326.md:219`](../../record/notes.d/NOTE-326.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -1095,15 +1128,6 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
-
-### [THEORY-024](../../record/theory.d/THEORY-024.md) — Rejected
-
-Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified
-
-2 citations in 1 file await a look.
-
-- [`record/notes.d/NOTE-326.md:183`](../../record/notes.d/NOTE-326.md)
-- [`record/notes.d/NOTE-326.md:199`](../../record/notes.d/NOTE-326.md)
 
 ### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
 
@@ -1470,17 +1494,8 @@ A condition on free agency stated only in present psychological structure is met
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**5 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**4 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
-
-### NOTE-328 — resolves to nothing (6 unmarked sites)
-
-- [`record/literature.d/LIT-304.md:24`](../../record/literature.d/LIT-304.md)
-- [`record/notes.d/NOTE-302.md:24`](../../record/notes.d/NOTE-302.md)
-- [`record/notes.d/NOTE-302.md:126`](../../record/notes.d/NOTE-302.md)
-- [`record/notes.d/NOTE-302.md:166`](../../record/notes.d/NOTE-302.md)
-- [`record/notes.d/NOTE-302.md:167`](../../record/notes.d/NOTE-302.md)
-- [`record/notes.d/NOTE-302.md:168`](../../record/notes.d/NOTE-302.md)
 
 ### DP-007 — resolves to nothing (1 unmarked site)
 
