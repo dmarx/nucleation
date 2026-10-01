@@ -1,0 +1,89 @@
+---
+status: Rejected
+status_note: 'read in full 2026-10-01 ([NOTE-tmpjkarl](../notes.d/NOTE-tmpjkarl.md)); not worth a reader''s time as a source of results. Its foundation is the entropy chain rule plus an assumption, H(content) ≪ H(context), and from these it reads off a direction of inference. Of its eight theorems, one is proved only in sketch, one equivalence proposition is marked "proof skipped" and argued only in words (App. H), and the proofs of Theorems 6–8 swap the roles of content and context relative to the statements. The proof of Theorem 1 states the inequality backwards. Theorem 3 rests on D_KL(q‖p) ≥ H(q) − H(p), which is false in general. The abstract''s "computational simulations" are not in the paper. The author''s own v2 (June 2026) replaced the whole framework under a new title.'
+title: 'On Context-Content Uncertainty Principle'
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Read in full (full text of arXiv:2506.20699v1, 25 Jun 2025, from the
+    arXiv HTML rendering of v1, with math kept as LaTeX alt-text). I read
+    all of it: abstract, §1, §§2–5 (Layers 1–4 with Examples 1–9), §6 (the
+    synthesis of brain theories, Table 1), and Appendices A–M (the proofs
+    of Lemmas 1–3, Theorems 1–8, Proposition 1, and the verbal argument
+    for the Layer-1 equivalence). Fig. 1 is known from its caption and inline labels. I
+    checked Lemma 1 and the Theorem 1 step against the chain rule by hand,
+    and I checked the inequality used in the Theorem 3 proof numerically
+    (counterexample in the NOTE). v2 (8 Jun 2026) is a different paper
+    under a different title and is described, not read for this note.
+    Filed in both records on the owner's instruction (anthology issue
+    #180): v2 is in the Anthology of the SOTA, and this note holds v1.
+    `published:` is the arXiv v1 date.
+tags:
+- cognition
+- information-theory
+- probabilistic-modeling
+date: '2026-10-01'
+published: '2025-06-25'
+# source-ok: 2506.20699 — retitled between versions: v1 (the title recorded here) was "On Context-Content Uncertainty Principle", v2 (8 Jun 2026) is "Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment"
+arxiv: '2506.20699'
+first_author: 'Li'
+keywords:
+- 'context-content uncertainty principle'
+- 'structure-before-specificity'
+- 'entropy alignment'
+- 'variational inference'
+- 'bootstrapped learning dynamics'
+- 'hierarchical composition'
+- 'brain theories'
+implementations: []
+summary: >-
+  Li (2025), arXiv:2506.20699 v1. It posits that structured content
+  (priors, schemas) has far lower entropy than context (sensory input), and
+  concludes that inference should run from content to context, minimizing
+  H(context | content). On that it builds four layers of principles. The
+  first is structure before specificity and its equivalents. The second
+  covers precision-weighted attention, slower learning for content than for
+  context, and memory as low-entropy attractors. The third is staged
+  structure-first learning, and the fourth hierarchical composition. It then
+  reads predictive coding, the free energy principle, active inference and
+  attractor dynamics as instances. Everything is asserted or argued
+  informally. There are no experiments, and several proofs are wrong or
+  missing.
+---
+
+# LIT-tmp7gmxt: On Context-Content Uncertainty Principle
+
+Li (2025), *arXiv preprint, v1; replaced in June 2026 by a v2 under a different title* — arXiv:2506.20699
+
+## Standing in the record
+
+Filed on 2026-10-01 from the owner's reading feed, where it was read on
+several days under its v1 title. The arXiv id now resolves to v2,
+*Structural Decoupling: A Scaffold-Flow Theory of Generalization and
+Alignment*. Same author, but Structural Learning Theory replaces the content
+entirely: width, a phase transition at width, scaffold–flow decoupling and AI
+safety. v2 makes claims about machine-learning systems, so it is filed in
+the Anthology of the SOTA (see [anthology issue #180](https://github.com/dmarx/anthology-of-the-sota/issues/180),
+where it is filed under its v2 title). This note holds v1, the
+brain-theory paper. The owner directed that this paper be filed in both
+records, which is an exception to the rule that nothing is filed in both.
+
+[NOTE-tmpjkarl](../notes.d/NOTE-tmpjkarl.md) is the close reading, and it placed the work:
+**Rejected**. The framework rests on the entropy chain rule plus the
+assumption H(Φ) ≪ H(Ψ), and each "principle" is that assumption restated.
+The proofs that go beyond restatement have errors:
+
+- Theorem 1's proof states the inequality backwards.
+- Theorem 3's proof uses a false KL inequality.
+- The proofs of Theorems 6–8 are about the other variable from the one in
+  the statements.
+- One proposition is argued only in words.
+
+The abstract's simulations are absent. Read it, if at all, as a map of
+which brain theories the author thinks share a structure, not for any
+result. On information-theoretic accounts of inference in this record, the
+information bottleneck ([LIT-338](LIT-338.md)) and the conditional entropy bottleneck
+([LIT-226](LIT-226.md)) make the compression claims that v1 gestures at, and they state
+those claims precisely.
