@@ -27,6 +27,7 @@ tags:
 - neuroscience
 - agency
 - consciousness
+- phenomenology
 date: '2026-10-02'
 published: '2000-01-01'
 doi: '10.1016/S1364-6613(99)01417-5'

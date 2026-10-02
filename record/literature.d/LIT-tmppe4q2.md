@@ -19,6 +19,7 @@ history:
     "Zahavi" found nothing.
 tags:
 - self-and-personhood
+- phenomenology
 - consciousness
 - cognition
 date: '2026-10-02'
