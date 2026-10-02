@@ -1,0 +1,243 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmp7rprz](../notes.d/NOTE-tmp7rprz.md)); worth reading as the full statement of the principle of organizational invariance and the fading- and dancing-qualia arguments for it. Cite it carefully: the principle is conditional on fine-grained functional isomorphism to a system already conscious. It covers silicon replacement and, by the paper''s own §3 extension, a population of homunculi that implements a human''s neural organisation. It does not cover a system whose organisation is merely similar in kind to a conscious one, so it does not license Schwitzgebel''s step to the United States ([LIT-159](LIT-159.md)). The conclusion is nomological, not metaphysical ("nonreductive functionalism"), and it is a plausibility argument by the author''s own account.'
+title: 'Absent Qualia, Fading Qualia, Dancing Qualia'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full (the author's HTML text at consc.net/papers/qualia.html,
+    headed "Published in Conscious Experience, edited by Thomas Metzinger.
+    Imprint Academic, 1995"; about 9,000 words, §§1–5, four footnotes and
+    eight references, all read). The printed volume was not seen, so
+    section references are to the author's text and no page numbers are
+    given. The brief's citation is right in substance but incomplete. The
+    volume was co-published. Metzinger's own publications page gives
+    "Thorverton: Imprint Academic & Paderborn: mentis". Chalmers's papers
+    page gives "Ferdinand Schoningh", and so does the bibliography of
+    LIT-tmpbxqmy ("Paderborn: Schöningh"). Open Library lists
+    "Schöningh/Imprint Academic" with ISBNs 0907845053 and 090784510X, and
+    a Schöningh record with ISBNs 3506755145 and 3506755153. Which German
+    imprint is right, I could not settle. The chapter's pages, 309–328,
+    come only from secondary reference lists found by web search; I did
+    not verify them against the volume, so they are not used in the
+    summary. No DOI exists for the 1995 chapter. Crossref has a DOI for the
+    Routledge reprint in O'Connor & Robb (eds), Philosophy of Mind:
+    Contemporary Readings: 10.4324/9780203987698-28, pp. 246–266.
+    PhilPapers (rec CHAAQF) returned a Cloudflare 403. `published:` is the
+    year only. Not held in the Anthology of the SOTA (grep of its
+    literature.d for Chalmers, "qualia" and "organizational invariance":
+    none).
+tags:
+- consciousness
+- metaphysics
+- cognition
+- mereology
+date: '2026-10-02'
+published: '1995-01-01'
+url: 'https://consc.net/papers/qualia.html'
+first_author: 'Chalmers'
+keywords:
+- 'organizational invariance'
+- 'absent qualia'
+- 'inverted qualia'
+- 'fading qualia'
+- 'dancing qualia'
+- 'functional isomorph'
+- 'neural replacement'
+- 'nonreductive functionalism'
+implementations: []
+summary: >-
+  Chalmers (1995), in T. Metzinger (ed.), Conscious Experience (Imprint
+  Academic, co-published in Paderborn). Principle: any system with the
+  same fine-grained functional organisation as a conscious system has
+  qualitatively identical experiences. Replace neurons gradually with
+  silicon chips that keep the organisation. If the end point lacked
+  experience, a midpoint would be a rational being wrong about all its
+  experience ("fading qualia"). If it differed in experience, a switch
+  between two circuits would flip experience with no possible noticing
+  ("dancing qualia"). Both are judged implausible, so absent and inverted
+  qualia are nomologically impossible. The argument extends explicitly to
+  a population of homunculi. The result is "nonreductive functionalism":
+  organisation fixes experience with natural, not metaphysical,
+  necessity.
+---
+<!-- inactive-ok-file: THEORY-023 THEORY-tmp31lxe — Proposed; this entry says how the work bears on those accounts, and does not lean on them -->
+<!-- inactive-ok-file: LIT-tmpwl6af — Deferred: the book is not lawfully readable online; named as where the paper's argument reappears as chapter 7, not leaned on -->
+
+# LIT-tmp0swyc: Absent Qualia, Fading Qualia, Dancing Qualia
+
+David J. Chalmers (1995), in Thomas Metzinger (ed.), *Conscious Experience*,
+Thorverton: Imprint Academic, co-published in Paderborn (by Schöningh
+according to Chalmers and Open Library, by mentis according to Metzinger).
+Author's text: consc.net/papers/qualia.html. Reprinted in T. O'Connor & D.
+Robb (eds), *Philosophy of Mind: Contemporary Readings* (Routledge, 2003),
+DOI 10.4324/9780203987698-28. The argument is also chapter 7 of *The
+Conscious Mind* ([LIT-tmpwl6af](LIT-tmpwl6af.md)).
+
+The brief cited the venue as Imprint Academic. That is right but
+incomplete; see the history note.
+
+## Key takeaways
+
+- **The principle (§1).** "Given any system that has conscious
+  experiences, then any system that has the same functional organization at
+  a fine enough grain will have qualitatively identical conscious
+  experiences." A functional organisation is a set of abstract components,
+  their possible states, and the dependency relations among them and the
+  inputs and outputs. "Fine enough" means fine enough to fix the system's
+  behavioural dispositions, and the two systems must be in corresponding
+  states.
+- **The target is nomological possibility (§2).** Absent and inverted
+  qualia may be logically possible. The question is whether they can
+  happen in this world. Block's China population and Searle's water-pipes
+  give intuitions, but "it seems equally counterintuitive that a mass of
+  10^{11} appropriately organized neurons should give rise to
+  consciousness, and yet it happens".
+- **Fading qualia (§3).** If a silicon isomorph ("Robot") lacked
+  experience, then along a one-neuron-at-a-time replacement series either
+  experience vanishes suddenly, which would need a brute discontinuity in
+  the laws, or it fades. A half-way "Joe" would then sincerely report
+  vivid red while experiencing faded pink: a rational, unimpaired system
+  systematically wrong about its own experience. Searle's variant, with
+  true but impotent beliefs, is ruled out because there is "no room" in an
+  unchanged organisation for new beliefs.
+- **Explicitly extended to populations (§3).** Neurons can be replaced
+  one by one with tiny homunculi, or with normal-sized external ones
+  linked by radio, ending in "a network of homunculi that is essentially
+  equivalent to the population controlling a robot". It can go further, to
+  a single homunculus who does all the work from written records, as in
+  Searle's Chinese room. In that case "we should not expect the homunculus
+  itself to have the experiences; it is merely acting as a sort of causal
+  facilitator".
+- **Dancing qualia (§4).** If an isomorph had inverted (or absent) qualia,
+  some two systems ten percent apart would differ noticeably in
+  experience. Install the second system's circuit beside the first's,
+  with a switch, and flip it. Experience changes "before my eyes" with no
+  change in functioning, so it cannot be noticed. Taking that seriously
+  would let our qualia dance all the time, since our low-level physiology
+  changes constantly. Loopholes are listed: speed, history, very mild
+  inversions, unattended qualia.
+- **Nonreductive functionalism (§5).** The arguments show at most that
+  organisation determines experience with natural necessity. They cannot
+  show that it does so with logical necessity, because their premise, that
+  some brains are conscious, is empirical. The view is "just as compatible
+  with certain forms of property dualism … as with certain forms of
+  physicalism". It leaves open "just what sort of organization gives rise
+  to experience".
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request for David Chalmers in this
+record, and read against the society-of-mind bridge ([THEORY-tmp31lxe](../theory.d/THEORY-tmp31lxe.md)) and
+Block's absent-qualia argument ([LIT-tmpc6np5](LIT-tmpc6np5.md), read in [NOTE-tmpxt8ou](../notes.d/NOTE-tmpxt8ou.md)).
+
+**Against Block.** This paper is the main published reply to the
+nation-of-China form of the Absent Qualia Argument, and it attacks it on
+Block's own ground of nomological possibility. Against the claims as
+[NOTE-tmpxt8ou](../notes.d/NOTE-tmpxt8ou.md) numbers them:
+
+- **C3** (the doubt about a homunculi-head's qualia has a rational basis):
+  **contested**. Chalmers treats the doubt as an intuition, and says
+  intuition is "unreliable as a guide to empirical possibility". Block's
+  stated grounds are dissimilarity to our psychology and neurophysiology,
+  and design to mimic. Chalmers does not answer them by name. His
+  argument answers them only for a system isomorphic to us at a fine
+  grain, where the psychological dissimilarity Block relies on is absent.
+- **C5** (the doubt does not rest on the homunculi's mentality): **agreed
+  in effect**. Chalmers's single-homunculus case makes the homunculus a
+  mere "causal facilitator", and his argument nowhere turns on whether the
+  parts are minded.
+- **Block's n. 17 case**, a billion people each simulating one of your
+  neurons, is where Block says intuition "seems to founder", and
+  [NOTE-tmpxt8ou](../notes.d/NOTE-tmpxt8ou.md) leaves it open. It is exactly the case this paper's §3
+  population extension reaches by argument rather than intuition, and the
+  paper's verdict is that the system is conscious.
+- **A characterisation to correct.** The paper says Block "argues that it
+  is bizarre to suppose that this would somehow give rise to a group
+  mind". By [NOTE-tmpxt8ou](../notes.d/NOTE-tmpxt8ou.md), Block's doubt is explicitly not about group
+  minds or nesting (n. 19). Chalmers also cites Block as "1980" in the text
+  and as "1981" (the Harvard *Readings* reprint) in the references. The
+  original is 1978.
+- **Grain.** Block's main China system implements a machine table, a line
+  per person. The paper's argument needs a series of intermediate systems
+  that are fine-grained isomorphs. It runs neuron by neuron, and the step
+  to a coarser, machine-table realisation is covered only by "the
+  arguments generalize" (§1). So the paper reaches Block's n. 17 case
+  directly and his main case only by that assertion.
+
+**Does organizational invariance license Schwitzgebel's upward move
+([LIT-159](LIT-159.md))? No. It licenses only the replacement cases.** The answer
+follows from the principle's form, and the reasoning is mine:
+
+- *What it licenses.* The principle quantifies over systems with the same
+  fine-grained organisation as a system already conscious. Its supporting
+  arguments work only where an organisation-preserving replacement series
+  can be built. That covers silicon brains, and, by §3, a population of
+  people realising a human's neural organisation, external and radio-linked
+  if need be. So, if true, it settles one thing the bridge treats as open.
+  A whole whose parts are minded people can be conscious, with the
+  experiences of the person it is isomorphic to, while the parts keep
+  their own. That is the composition claim of [NOTE-131](../notes.d/NOTE-131.md)'s C3, established
+  for isomorphs.
+- *What it does not license.* The United States is not a functional
+  isomorph of any being known to be conscious. It shares no human's or
+  rabbit's behavioural dispositions, and no organisation-preserving series
+  runs from a brain to it. Schwitzgebel's step is by similarity of kind
+  and degree: the US has the materialist marks "in a greater degree" than
+  a rabbit ([NOTE-131](../notes.d/NOTE-131.md), C7). Invariance is silent on that. The paper says
+  that which organisations give rise to experience, and which experience,
+  is left open (§5). The upward move needs exactly the principle it leaves
+  out.
+- *What it does for Schwitzgebel anyway.* It closes three of the exits his
+  argument has to close. Substrate: "the only place to draw a principled
+  line is at the functional level" (§4), which is against
+  neurochauvinism, his §7. Spatial contiguity: normal-sized external
+  homunculi with radios are allowed, which is his C2. Absolute
+  anti-nesting: a population isomorph is conscious, which is his C4 and
+  §2. It also bears on Kammerer's escape from Chalmers's objection
+  ([NOTE-tmpu7aha](../notes.d/NOTE-tmpu7aha.md), C4). Kammerer says workspace modules are not conscious,
+  so his principle spares humans. Invariance makes the "conscious or not"
+  status of any module a fact about its organisation, so the principle
+  stays statable in functional terms.
+
+**For [THEORY-tmp31lxe](../theory.d/THEORY-tmp31lxe.md).** If invariance is true, the THEORY's first way to
+refuse the upward move is unavailable in its absolute form. Putnam's
+stipulation and IIT's exclusion postulate both deny consciousness to a
+whole whose parts are conscious. A neural-level population isomorph is such
+a whole, and invariance makes it conscious. Under exclusion, experience goes
+to the homunculi or to the whole, whichever has the larger Φ, never to
+both. Invariance requires the whole to have it, and does not take it from
+the parts. The two theories also part more widely. IIT holds that a
+functional equivalent can differ in Φ ([NOTE-tmpxik42](../notes.d/NOTE-tmpxik42.md), C7), and invariance
+denies that this can make a difference to experience. Kammerer's functional principle survives, because
+a homunculus filling a neuron's role is one a chip could fill. Everything
+left is the THEORY's second route, architecture, and invariance cannot
+decide it, since a nation and a modular mind are not isomorphs of each
+other or of us. So, on invariance, the THEORY's dispute becomes entirely a
+dispute about which organisations suffice. That is the question this paper
+sets aside. The inference is mine.
+
+**On the hard problem.** The paper is the long form of the second
+principle in [LIT-tmpbxqmy](LIT-tmpbxqmy.md). It is compatible with that paper's naturalistic
+dualism by design.
+
+**On AI consciousness ([THEORY-023](../theory.d/THEORY-023.md)).** The paper says its arguments
+"support some of the ambitions of artificial intelligence". The support is
+narrower than it sounds. An exact fine-grained isomorph of a human brain
+would be conscious. No current AI system is such an isomorph, and [THEORY-023](../theory.d/THEORY-023.md)
+is about systems that are not. Seth ([LIT-135](LIT-135.md)) doubts the
+substrate-flexibility half of functionalism, and this paper argues for it
+for isomorphs only. Chalmers's later work on implementation and on AI,
+which tries to carry the principle to computations, is being filed in this
+record by another reader at the same time.
+
+**On the extended mind ([LIT-097](LIT-097.md)).** No direct bearing. The paper's
+principle is about the organisation that fixes experience. Whether that
+organisation's components can lie outside the head is the question
+Chalmers's later paper on extended consciousness takes up, and another
+reader is filing it now.
+
+It carries no instruction for machine-learning practice, and it does not
+belong in the anthology.
