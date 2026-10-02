@@ -18,11 +18,11 @@ promote_when: >-
   What would not settle it: another thought experiment along Schwitzgebel's
   chain, another intuition that the United States is not conscious, or a
   low-Φ verdict for groups asserted from structural reasons without the
-  same estimate made for a modular mind. Reading Lycan, Huebner and List &
-  Pettit, which are filed unread, could also move it, since each is reported
+  same estimate made for a modular mind. Reading Lycan, Huebner, List &
+  Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-02'
@@ -32,6 +32,13 @@ history:
     anti-nesting rule to escape the reply's simplicity dilemma, the
     invariance bullet is qualified for the loose reading of "required",
     and the line saying the reply was unfiled is replaced.
+- version: 3
+  date: '2026-10-02'
+  note: >-
+    The social-ontology readings (ADR-017) add a scoping note: two reasons
+    from Ritchie and Epstein why "the group" a criterion is applied to has
+    to be specified, and Tollefsen joins the unread works that could move
+    the account.
 tags:
 - consciousness
 - mereology
@@ -270,6 +277,9 @@ needed.
   ([LIT-426](../literature.d/LIT-426.md)) and List & Pettit ([LIT-391](../literature.d/LIT-391.md)) are filed unread. Each is
   reported to bear on this seam, and Huebner's test for a collective mind
   (integrated specialised subroutines) is the one most likely to change it.
+  Tollefsen's *Groups as Agents* ([LIT-tmpkq2pn](../literature.d/LIT-tmpkq2pn.md)), also unread, may take an
+  interpretivist line on group agency, which would put it beside Dennett's
+  intentional stance; that is a guess from a chapter title.
 
 ## Connections
 
@@ -288,6 +298,22 @@ needed.
   [NOTE-362](../notes.d/NOTE-362.md), whose Limitations had the reply pressing condition B; it
   presses condition A, and [NOTE-362](../notes.d/NOTE-362.md) v2 says so. D. H. M. Brooks is the next
   reading on this seam.
+- **Which group a criterion is applied to has to be said.** Two readings
+  from social ontology bear on this, though neither discusses minds or
+  experience; the application is the record's.
+  - Ritchie ([LIT-tmpgr5qe](../literature.d/LIT-tmpgr5qe.md), [NOTE-tmplq4uh](../notes.d/NOTE-tmplq4uh.md)) holds that groups with the same
+    members can be distinct and coincide, and ([LIT-tmppeiud](../literature.d/LIT-tmppeiud.md), [NOTE-tmplf616](../notes.d/NOTE-tmplf616.md))
+    that only organised groups, not feature groups such as classes, are
+    concrete structured wholes. "The United States" therefore names
+    several candidates, which is a structural version of the condition-A
+    gap Schwitzgebel's reply opens, and only organised groups are
+    candidates for agency or mind at all.
+  - Epstein's survey ([LIT-tmppokl9](../literature.d/LIT-tmppokl9.md), [NOTE-tmpodceb](../notes.d/NOTE-tmpodceb.md)) reports challenges to
+    "local dependence": a group's facts may be grounded partly in
+    non-members, infrastructure and membership rules. If so, an
+    architectural criterion computed over the members alone is computed
+    over too small a system. This adds a constraint on any criterion that
+    would meet `promote_when`; it does not change what would.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).

@@ -1,0 +1,101 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-02 from the publisher''s metadata; no lawful full text was reachable (the MIT Press chapter is paywalled and returned 403, the CUP reprint is paywalled, the Internet Archive copy of the volume is lending-only, and no author or course copy was found), so it is not read and no NOTE is filed. It is the paper that put "collective intentionality" into analytic philosophy and the source Searle''s later social ontology ([LIT-tmpkai94](LIT-tmpkai94.md)) sends readers to.'
+title: 'Collective Intentions and Actions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Filed Deferred. Seen: the Crossref records for the chapter (MIT Press,
+    pp. 401–416, in Intentions in Communication, eds. Philip R. Cohen,
+    Jerry Morgan and Martha E. Pollack) and for the volume, and for the
+    reprint in Searle's Consciousness and Language (Cambridge University
+    Press, 2002), pp. 90–105, DOI 10.1017/CBO9780511606366.007. The
+    chapter page at direct.mit.edu returned 403. An MIT OpenCourseWare
+    file found by search is a two-page student response to the paper
+    (Guy Hoffman, MAS.965, Fall 2003), not the paper, and is not relied
+    on. `published:` is Crossref's date for the MIT Press record,
+    1990-06-28. The page range is Crossref's 401–416; it is often cited
+    as 401–415. Not held in the Anthology of the SOTA: a grep of its
+    literature.d and notes.d for "Searle" and the title found nothing.
+tags:
+- social-ontology
+- agency
+date: '2026-10-02'
+published: '1990-06-28'
+doi: '10.7551/mitpress/3839.003.0021'
+first_author: 'Searle'
+keywords:
+- 'collective intentionality'
+- 'we-intentions'
+- 'collective action'
+implementations: []
+summary: >-
+  Searle (1990), DOI-10.7551/mitpress/3839.003.0021, in Cohen, Morgan &
+  Pollack (eds.), Intentions in Communication (MIT Press), pp. 401–416;
+  reprinted in Consciousness and Language (2002). The paper in which
+  Searle introduces collective intentionality, intentions of the form "we
+  intend", as a phenomenon of individual minds that is not a sum of
+  individual "I intend" states plus mutual belief. Unread: filed from
+  metadata, and from how Searle's own later paper uses it.
+---
+<!-- inactive-ok-file: LIT-tmpnf4e6 — Deferred, no lawful full text; Searle's 1995 book, named as the work that builds on this paper, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpdrt8a — Deferred, no lawful full text; Tuomela & Miller, named as the rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpq3vga — Deferred, no lawful full text; Bratman's book, whose author's précis is quoted for its contrast with Searle -->
+<!-- inactive-ok-file: LIT-tmp73dsx — Deferred, no lawful full text; Bratman 1992, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpe6ufg — Deferred, no lawful full text; Gilbert 1990, named as a rival account, not leaned on -->
+
+# LIT-tmpr2slv: Collective Intentions and Actions
+
+John R. Searle (1990), in Philip R. Cohen, Jerry Morgan & Martha E. Pollack (eds.), *Intentions in Communication*, MIT Press, pp. 401–416 — DOI-10.7551/mitpress/3839.003.0021. Reprinted in Searle, *Consciousness and Language*, Cambridge University Press (2002), pp. 90–105.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, under the topic
+`social-ontology` that [ADR-017](../decisions.d/ADR-017.md) added, as the source of Searle's account
+of collective intentionality.
+
+`Deferred` because no lawful full text was reachable, so it is not read
+and no NOTE is filed. The record has nothing from the paper's own text.
+What it has is how others in the record use it:
+
+- **Searle (2006)** ([LIT-tmpkai94](LIT-tmpkai94.md), read in [NOTE-tmp9fj5r](../notes.d/NOTE-tmp9fj5r.md)) takes collective
+  intentionality as a primitive. He calls it "a genuine biological
+  phenomenon", "not mysterious or inexplicable", and refers the reader to
+  this paper for its "complexities" (fn. 3). In 2006 he gives one formula
+  for it, "I am doing something only as part of our doing something", and
+  no argument that it is irreducible. Whatever argument Searle has for
+  irreducibility is in this paper or in the 1995 book ([LIT-tmpnf4e6](LIT-tmpnf4e6.md)), and
+  the record has read neither.
+- **Bratman's précis** of *Shared Agency* (described in [LIT-tmpq3vga](LIT-tmpq3vga.md))
+  names Searle, with Gilbert, as giving accounts "that appeal to basic
+  new elements over and above those involved in individual intentional
+  agency", and sets his own reductive account against them.
+
+Its rivals in this record are Tuomela & Miller's "We-Intentions"
+([LIT-tmpdrt8a](LIT-tmpdrt8a.md)), Gilbert's "Walking Together" ([LIT-tmpe6ufg](LIT-tmpe6ufg.md)) and Bratman's
+"Shared Cooperative Activity" ([LIT-tmp73dsx](LIT-tmp73dsx.md)), all filed the same day.
+
+This is the same Searle as the Chinese Room ([LIT-400](LIT-400.md)), on a different
+subject. Secondary summaries, seen here only as search-result snippets
+and not read, report that the paper keeps collective intentions in
+individual heads, so that a brain in a vat could have them. If so, that
+connects the two: all intentionality stays in individual brains, but not
+all of it is singular. That is to be checked in a reading.
+
+No instruction for machine-learning practice is known from what was
+seen. The paper appeared in a volume on intentions in communication that
+includes AI planning work, so a reading should check whether it says
+anything about artificial agents; nothing here points to the Anthology of
+the SOTA until then.
+
+**What a reading should check.**
+
+- The argument that "we intend" is not reducible to "I intend" plus
+  mutual belief, and which rival analyses it targets.
+- Whether the paper does hold that a brain in a vat could have
+  collective intentions, and what that commits Searle to about groups as
+  subjects.
+- The formal notation for collective intentions-in-action and how it
+  relates to the singular case.
