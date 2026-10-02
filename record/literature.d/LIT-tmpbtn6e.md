@@ -52,6 +52,7 @@ summary: >-
   with no detectable switch. The essay ends when the two drift out of
   step and a second person speaks through the body.
 ---
+<!-- inactive-ok-file: LIT-tmpg4bap — Deferred, no lawful full text; named as the anthology that reprints this essay -->
 <!-- inactive-ok-file: THEORY-tmp31lxe — Proposed; named as the bridge this essay bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question Hubert bears on, not leaned on -->
 
@@ -141,3 +142,6 @@ Where it meets the record's threads, set out in the NOTE:
   preserved under such replacement.
 - Its companion on the self is "The Self as a Center of Narrative Gravity"
   ([LIT-tmpws4cn](LIT-tmpws4cn.md)), which answers what a self is where this essay asks where.
+
+**Also in** *The Mind's I* ([LIT-tmpg4bap](LIT-tmpg4bap.md)). Its ch. 13 placement is
+unconfirmed from the book itself; see that entry's table of selections.

@@ -241,3 +241,11 @@ reader is filing it now.
 
 It carries no instruction for machine-learning practice, and it does not
 belong in the anthology.
+
+**Its opposite number.** Dennett's "Quining Qualia" ([LIT-tmprhpc4](LIT-tmprhpc4.md)) starts
+from the same premise, that a change in experience the subject cannot
+notice is incoherent or impossible, and concludes there is no such property
+to fix or lose. This paper concludes the property is fixed by organisation.
+The pairing is the reader's, not either author's. The paper's verdict on
+the population-of-people case also answers the case Block ([LIT-tmpc6np5](LIT-tmpc6np5.md))
+says intuition "seems to founder" on.

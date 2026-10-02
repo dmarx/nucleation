@@ -204,3 +204,7 @@ Access when seeded:
   the request.
 - Tufts Digital Library, searched for the title and for Dennett's 1981
   items: no copy of the book or of any Reflection.
+
+**Selections filed separately.** "Where Am I?" is [LIT-tmpbtn6e](LIT-tmpbtn6e.md), read in
+full from a course copy. Turing ([LIT-tmp265e0](LIT-tmp265e0.md)) and Searle ([LIT-tmp543s0](LIT-tmp543s0.md)) are
+filed and read, and Nagel is [LIT-096](LIT-096.md).

@@ -153,3 +153,9 @@ being filed separately.
 
 **Boundary.** It carries no instruction for machine-learning practice, and
 the anthology does not hold it.
+
+**Answered by implementation.** Chalmers's "Does a rock implement every
+finite-state automaton?" ([LIT-tmpb96vr](LIT-tmpb96vr.md)) answers the room by letting one
+physical system implement two automata, and so host two minds. That is the
+systems reply given implementation conditions, which Searle's
+"memorise the room" step denies by assertion.

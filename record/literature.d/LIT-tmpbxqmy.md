@@ -172,3 +172,10 @@ record by other readers at the same time.
 
 It carries no instruction for machine-learning practice, and it does not
 belong in the anthology.
+
+**Replies held in this record.** Dennett's "Facing Backwards on the Problem
+of Consciousness" ([LIT-tmp3fuxm](LIT-tmp3fuxm.md)) is the first deflationary reply to this
+paper, and Chalmers's own "The Meta-Problem of Consciousness" ([LIT-tmpn694x](LIT-tmpn694x.md))
+later asks for an explanation of the conviction Dennett says is all that
+remains. Chalmers's reply to Dennett, "Moving Forward on the Problem of
+Consciousness" (JCS 4(1), 1997), is not filed.

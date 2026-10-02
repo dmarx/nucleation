@@ -173,3 +173,6 @@ objective. Chalmers, French and Hofstadter ([LIT-tmph3vnp](LIT-tmph3vnp.md)) is 
 Chalmers paper in the record on AI methodology; it argues for emergent
 representation in Copycat and does not touch implementation. It carries no
 instruction for machine-learning practice.
+
+**The room it answers.** Searle's "Minds, brains, and programs" is filed
+as [LIT-tmp543s0](LIT-tmp543s0.md), read in full from the BBS preprint.

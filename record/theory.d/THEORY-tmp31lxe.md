@@ -47,6 +47,7 @@ summary: >-
   against a nation. Proposed: an account of where a dispute stands, from
   philosophical argument and no measurement.
 ---
+<!-- inactive-ok-file: LIT-tmp13bcy — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
 <!-- inactive-ok-file: LIT-tmpqepho LIT-tmpjcp6n LIT-tmpnn8ma LIT-tmp068mw LIT-tmp2uffs LIT-tmpsm6ia LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-tmp01au9 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
 
@@ -160,6 +161,69 @@ Schwitzgebel's own claim is that no architectural criterion excludes the
 United States without excluding admissible aliens ([NOTE-131](../notes.d/NOTE-131.md), C8); this
 account adds that it would also have to spare a mind built as Minsky
 describes.
+
+## What the Chalmers and Dennett readings add
+
+Read after this account was drafted, they leave its verdict standing and
+sharpen it in five places.
+
+- **Why agency is cheap to agree on.** Dennett's intentional stance is
+  blind to composition and to consciousness by design ([LIT-tmpt1t9z](../literature.d/LIT-tmpt1t9z.md),
+  [NOTE-tmpcpry5](../notes.d/NOTE-tmpcpry5.md)): a system has beliefs if treating it as a believer pays.
+  On the criterion of "True Believers" ([LIT-tmp45885](../literature.d/LIT-tmp45885.md), [NOTE-tmpfghc1](../notes.d/NOTE-tmpfghc1.md)), a
+  group whose group-level stance pays would count, though Dennett never
+  applies it to one. That is why every reading here grants agency in both
+  directions.
+- **Why the downward move was licensed and the upward one was not.**
+  Dennett's discharge of homunculi ("Artificial Intelligence as Philosophy
+  and as Psychology", [LIT-tmp13bcy](../literature.d/LIT-tmp13bcy.md)) is harmless only when the parts are
+  stupider than the whole and are replaced step by step by machines. That
+  work is filed unread and known through Stich's summary, which Dennett
+  accepted. Minsky's and Selfridge's agents are on the licensed side.
+  Schwitzgebel's citizens, who are as smart as the whole or smarter, are
+  exactly what discharge never licensed. That is a reason the two moves are
+  not symmetric for *intelligence*. Block's n. 19 shows it settles nothing
+  about experience.
+- **Organisational invariance narrows the dispute to architecture.**
+  Chalmers's fading-qualia argument ([LIT-tmp0swyc](../literature.d/LIT-tmp0swyc.md), [NOTE-tmp7rprz](../notes.d/NOTE-tmp7rprz.md)), if sound,
+  makes any fine-grained functional isomorph of a conscious being
+  conscious, including a population of people implementing a person's
+  neurons. That closes Putnam's stipulation for isomorphs and conflicts
+  with IIT, which lets a functional equivalent lack experience. It leaves
+  Kammerer's principle standing. The United States is not an isomorph of
+  anything, so invariance does not reach it. What remains is the
+  architectural route, which invariance cannot decide.
+- **Functionalism itself forbids no nesting.** Chalmers's implementation
+  conditions ([LIT-tmpb96vr](../literature.d/LIT-tmpb96vr.md), [NOTE-tmp5k2kp](../notes.d/NOTE-tmp5k2kp.md)) do not care whether a part is a
+  neuron or a person, and they let one system host two minds. The
+  combination-problem paper ([LIT-tmp2pmvk](../literature.d/LIT-tmp2pmvk.md), [NOTE-tmppca13](../notes.d/NOTE-tmppca13.md)) reaches this
+  account's two routes independently, from panpsychism. Its candidate for
+  what bounds a subject is integration, which it finds unprincipled. It adds
+  an IIT-independent objection to exclusion: exclusion makes consciousness
+  extrinsic. The meta-problem paper ([LIT-tmpn694x](../literature.d/LIT-tmpn694x.md), [NOTE-tmpgzn2y](../notes.d/NOTE-tmpgzn2y.md)) adds
+  another: a zero-Φ isomorph reports alike.
+- **Two new candidates for a principled line, neither yet enough.**
+  - Dennett & Kinsbourne's argument against a conscious central part of a
+    brain ([LIT-tmpqyr5m](../literature.d/LIT-tmpqyr5m.md), [NOTE-tmpyqdoj](../notes.d/NOTE-tmpyqdoj.md)) has Kammerer's shape and is
+    motivated independently of groups, but does not reach the United
+    States.
+  - Chalmers's 2019 condition, that consciousness needs access "not
+    mediated by other mental states" ([LIT-tmph59ls](../literature.d/LIT-tmph59ls.md), [NOTE-tmpp5tl4](../notes.d/NOTE-tmpp5tl4.md)), would
+    plausibly exclude a nation and spare a society of mind. That
+    application is the reader's, not Chalmers's, and its motivation has the
+    weakness the anti-nesting route already has.
+
+  Both are the right kind of thing for `promote_when`. Neither has been
+  applied by one procedure to a group model and a modular-mind model.
+
+**Two positions that refuse the framing.** Searle ([LIT-tmp543s0](../literature.d/LIT-tmp543s0.md),
+[NOTE-tmpbzzup](../notes.d/NOTE-tmpbzzup.md)) rejects both directions at once: it is causal powers, not
+organisation, that matter. His key step against the systems reply ("the
+system is just a part of him") is asserted. Dennett's "Quining Qualia"
+([LIT-tmprhpc4](../literature.d/LIT-tmprhpc4.md), [NOTE-tmpp7yi8](../notes.d/NOTE-tmpp7yi8.md)) denies there is a further property to
+dispute, so on his view the dispute never narrows to experience. Neither
+supplies the criterion this account asks for; each denies that one is
+needed.
 
 ## What this does not say
 

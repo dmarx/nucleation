@@ -157,3 +157,10 @@ from parts is one question; qualia built from parts is another, and Block
 answers them differently.
 
 It carries no instruction for machine-learning practice.
+
+**Later answers to the absent-qualia argument held in this record.**
+Chalmers's "Absent Qualia, Fading Qualia, Dancing Qualia" ([LIT-tmp0swyc](LIT-tmp0swyc.md))
+argues that the note-17 case, one person per neuron, is conscious if
+organisational invariance holds. Dennett's "Quining Qualia" ([LIT-tmprhpc4](LIT-tmprhpc4.md))
+denies the property the intuition needs. Neither answers the
+machine-table China system directly.

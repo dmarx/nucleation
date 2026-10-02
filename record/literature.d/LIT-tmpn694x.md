@@ -179,3 +179,7 @@ It carries no instruction for machine-learning practice. Its research
 programme includes computational models of phenomenal reports, and
 footnote 26 cautions against report-based tests for machine consciousness.
 Neither instructs ML practice, and it does not belong in the anthology.
+
+**The exchange it continues.** Dennett's "Facing Backwards" ([LIT-tmp3fuxm](LIT-tmp3fuxm.md))
+says that once every function is subtracted, only the conviction that
+something remains is left. This paper takes that conviction as its explanandum.
