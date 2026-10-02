@@ -1,0 +1,139 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmpu7aha](../notes.d/NOTE-tmpu7aha.md)); the most careful anti-nesting principle in the record, and the one aimed directly at [LIT-159](LIT-159.md). Worth reading because it draws the line that matters for the society-of-mind bridge: a whole is denied a conscious state only when the functional organisation that would ground it runs through parts that consciously represent the whole and could not be replaced by parts that do not. Its application to the United States rests on an asserted counterfactual, and its justification is an Occam-style principle the author says needs further work. Schwitzgebel replied in Philosophia 44 (2016).'
+title: 'How a materialist can deny that the United States is probably conscious – response to Schwitzgebel'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full (the author's preprint, "Accepted for publication in
+    Philosophia (this is a preprint version, please do not cite)", 9 pp.,
+    PDF dated 22 September 2015, from the author's website
+    francoiskammerer.com; every page, all 11 footnotes and the
+    references). The Springer version of record was not seen; PhilArchive's
+    copy sits behind a bot challenge. Bibliographic details checked on
+    Crossref: Philosophia 43(4), 1047–1057, issue of December 2015, first
+    published online 28 September 2015. Not held in the Anthology of the
+    SOTA: a grep of its literature.d and notes.d for "Kammerer" found
+    nothing.
+tags:
+- consciousness
+- mereology
+- metaphysics
+date: '2026-10-02'
+published: '2015-09-28'
+doi: '10.1007/s11406-015-9653-z'
+first_author: 'Kammerer'
+keywords:
+- 'anti-nesting principle'
+- 'group consciousness'
+- 'materialism'
+- 'functionalism'
+- 'nested consciousness'
+- 'Schwitzgebel'
+implementations: []
+summary: >-
+  Kammerer (2015), DOI-10.1007/s11406-015-9653-z. A short reply to
+  [LIT-159](LIT-159.md) proposing the Sophisticated Anti-Nesting Principle (SAP). A
+  whole W that has a functional property P normally sufficient for a
+  conscious state S lacks S when some part of W plays a role that (A)
+  requires the part to have conscious states representing W and (B) is
+  indispensable: without some part playing such a role, W would lack P.
+  The SAP keeps Schwitzgebel's antheads and Block's tiny-people neurons
+  conscious, admits some group consciousness, and denies it to the US,
+  whose citizens represent the US and could not be replaced by parts that
+  do not. It is justified by an Occam-style rule against ascribing
+  consciousness where other subjects' states explain the behaviour.
+---
+<!-- inactive-ok-file: LIT-tmpqepho — Deferred, no lawful full text; Minsky's The Society of Mind, named as the decomposition-side account, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpsm6ia — Deferred, no lawful full text; Hofstadter's GEB, named for the Ant Fugue's colony-as-mind, not leaned on -->
+
+# LIT-tmpdpmaj: How a materialist can deny that the United States is probably conscious – response to Schwitzgebel
+
+François Kammerer (2015), *Philosophia 43(4), 1047–1057* — DOI-10.1007/s11406-015-9653-z
+
+## Key takeaways
+
+- Nesting as such is allowed. A conscious whole may have conscious parts,
+  so the antheads and Block's tiny people pass. What is excluded is a
+  conscious state that the whole has *only because* some part consciously
+  represents the whole, in a role no non-representing part could fill.
+- Applied to the US: citizens represent the US (what it is, does, should
+  do), and a "country" of neurons or simple computers, or of inhabitants
+  unaware of the group, would lack its complexity. So the US fails both
+  conditions and has no conscious states. That counterfactual is asserted,
+  not argued.
+- The principle works state by state, not whole by whole. A system can keep
+  its "old" conscious states while being denied new ones that depend on
+  self-representing parts.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, as one of the works bridging
+Minsky's Society of Mind ([LIT-tmpqepho](LIT-tmpqepho.md), with the memos [LIT-tmp4jv7c](LIT-tmp4jv7c.md) and
+[LIT-tmp84goj](LIT-tmp84goj.md) and Singh's exposition [LIT-tmpxp9b8](LIT-tmpxp9b8.md)) to Schwitzgebel's
+"If materialism is true, the United States is probably conscious"
+([LIT-159](LIT-159.md), read in [NOTE-131](../notes.d/NOTE-131.md)). [NOTE-tmpu7aha](../notes.d/NOTE-tmpu7aha.md) is the close reading of the
+same day, and it placed the work: **Active**.
+
+**Where it sits on the seam.** It *is* the seam: an anti-nesting principle,
+rebuilt so that Schwitzgebel's §2 objections do not touch it. Against
+Schwitzgebel's claims as [NOTE-131](../notes.d/NOTE-131.md) numbers them:
+
+- **C3 (a whole of conscious parts can be conscious): concedes it in
+  general, contests it for the US.** The SAP explicitly allows group
+  consciousness when the whole's organisation does not depend on members
+  representing the whole.
+- **C4 (Putnam's principle is unjustified): concedes it.** Kammerer accepts
+  that the antheads and Block's neuron-replacement case refute Putnam's
+  principle. He keeps only its "intuitive pull", and diagnoses Putnam's
+  error as reading "part" spatially rather than functionally.
+- **C5 (IIT's exclusion postulate has absurd consequences): neutral.** IIT
+  appears only in a footnote (n. 2), as another principle Schwitzgebel
+  discusses. The SAP is offered as an add-on to any supervenience theory,
+  not as a replacement for exclusion.
+
+**What it gives the bridge.** The SAP draws its line exactly where Minsky's
+and Schwitzgebel's pictures part. Minsky's agents are mindless and
+represent nothing about the mind they compose, so condition (A) never
+holds and the SAP never fires on a society of mind. Kammerer says as much
+of global-workspace modules, which "are not supposed to have any conscious
+mental states at all" (p. 7). Schwitzgebel's US is the opposite case: its
+parts are minded and their minding is *about the whole*. Hofstadter's "Ant
+Fugue" colony ([LIT-tmpsm6ia](LIT-tmpsm6ia.md)) falls on Minsky's side, since the ants do not
+represent the colony. So the SAP turns the decomposition/composition
+contrast into a criterion: not "are the parts minded?" but "does the
+whole's organisation run through parts' representations of the whole?"
+
+**Schwitzgebel's replies.**
+
+- He answered in "Is the United States Phenomenally Conscious? Reply to
+  Kammerer", *Philosophia* 44(3), 877–883 (online 20 June 2016),
+  DOI-10.1007/s11406-016-9725-8. Per its abstract, he raises three
+  concerns: that the SAP may not exclude actual groups, that it makes
+  group consciousness depend on internal details of individuals, and that
+  it is ad hoc. That reply is not filed here.
+- In *The Weirdness of the World* ([LIT-216](LIT-216.md); [NOTE-188](../notes.d/NOTE-188.md)) he answers Kammerer
+  again, alongside Dretske, as "motivated post-hoc", with the Planck-sized
+  person counter-case.
+- [NOTE-188](../notes.d/NOTE-188.md) glosses the principle as "a whole is not conscious if its
+  conscious parts represent the whole". That leaves out condition (B),
+  indispensability, and the state-by-state scope. Both matter, because
+  they are what let the SAP keep Block's tiny people (who represent the
+  whole but are replaceable) conscious.
+
+Other neighbours. The SAP's justification, that one should not ascribe
+consciousness where "other, distinct subjects" explain the behaviour
+(p. 8), is an explanatory-parsimony criterion. Set beside Dennett's "Real
+Patterns" ([LIT-220](LIT-220.md)), it asks a different question: not whether a
+group-level description earns its keep, but whether the subjects inside
+already explain what it describes. Kammerer does not cite Dennett on this.
+Kammerer explicitly allows spatially scattered
+conscious beings (Schwitzgebel's supersquids), so the SAP is no contiguism
+and bears nothing on [LIT-124](LIT-124.md)'s composition principles. It is compatible
+with List's IIT reply ([LIT-tmp6phwb](LIT-tmp6phwb.md)), which reaches the same verdict on
+the US by a different and independent route.
+
+It carries no instruction for machine-learning practice, so nothing
+belongs in the Anthology of the SOTA.

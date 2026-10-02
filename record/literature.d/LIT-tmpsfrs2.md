@@ -1,0 +1,136 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmpcsgpq](../notes.d/NOTE-tmpcsgpq.md)) from the copy Brooks posts; worth reading as the decomposition side built and run: a robot whose purposive behaviour comes from parallel layers of simple finite-state machines with no central representation and no central control, which Brooks likens to Minsky''s account of human behaviour. The coherence of the whole, he says, exists "in the eye of an observer". The evidence is three layers on one physical robot, described rather than measured. It makes no claim about minds or experience and disclaims interest in the philosophy.'
+title: 'Intelligence without representation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full from the copy Brooks posts on his MIT CSAIL page
+    (people.csail.mit.edu/brooks/papers/representation.pdf, 12 pp., text
+    extracted with PyMuPDF). The copy carries the journal citation and
+    "Received September 1987". I read the abstract, §§1–8, the
+    acknowledgement and all 15 references. Fig. 1 (photographs) and Fig. 2
+    (the wiring diagram) did not survive extraction; their captions did,
+    and §6.2 describes Fig. 2's layers in prose. The Elsevier typeset text
+    was not seen, so pagination in the note is the posted copy's.
+    Citation checked against Crossref: Artificial Intelligence 47(1–3),
+    139–159, DOI 10.1016/0004-3702(91)90053-M, sole author Rodney A.
+    Brooks, issued January 1991. The brief's citation is right in every
+    detail. Not held in the Anthology of the SOTA (a grep of its
+    literature.d for the DOI, the title and "Brooks" found only the Sora
+    report by Tim Brooks).
+tags:
+- agency
+- cognition
+- mereology
+- complex-systems
+- anthology-candidate
+date: '2026-10-02'
+published: '1991-01-01'
+doi: '10.1016/0004-3702(91)90053-M'
+first_author: 'Brooks'
+keywords:
+- 'subsumption architecture'
+- 'decomposition by activity'
+- 'behaviour-based robotics'
+- 'Creatures'
+- 'representation'
+- 'the world as its own model'
+implementations: []
+summary: >-
+  Brooks (1991), Artificial Intelligence 47:139–159, written in 1987.
+  Argues that AI should be built incrementally from complete autonomous
+  "Creatures" tested in the real world, and that the system should be
+  decomposed by activity into parallel layers, each connecting sensing to
+  action, not by function into perception, a central reasoner and action.
+  His robots have no central representation and no central control: each
+  layer is a fixed network of simple finite-state machines, and a higher
+  layer subsumes a lower one by suppressing or inhibiting its wires.
+  Coherent behaviour emerges, "in the eye of an observer", from competing
+  behaviours. Hypothesis: representation is the wrong unit of abstraction
+  for the bulk of intelligence.
+---
+<!-- inactive-ok-file: LIT-tmpqepho — Deferred, no lawful full text; named because this paper cites it, not leaned on for its content -->
+
+# LIT-tmpsfrs2: Intelligence without representation
+
+Rodney A. Brooks (1991), *Artificial Intelligence 47(1–3), 139–159*
+(received September 1987; issue dated January 1991) —
+DOI-10.1016/0004-3702(91)90053-M. The author's copy is at
+https://people.csail.mit.edu/brooks/papers/representation.pdf
+
+## Key takeaways
+
+- **Build complete Creatures, incrementally, in the real world.** "At each
+  step we should build complete intelligent systems that we let loose in
+  the real world with real sensing and real action."
+- **A conclusion and a hypothesis.** (C): "explicit representations and
+  models of the world simply get in the way. It turns out to be better to
+  use the world as its own model." (H): "Representation is the wrong unit
+  of abstraction in building the bulkiest parts of intelligent systems."
+- **Decompose by activity, not by function.** Each layer "individually
+  connects sensing to action". A new layer is added in parallel to a
+  debugged one, which "continues to run … unaware of the existence of the
+  second level".
+- **No centre.** "It is only the observer of the Creature who imputes a
+  central representation or central control. The Creature itself has none;
+  it is a collection of competing behaviors. Out of the local chaos of
+  their interactions there emerges, in the eye of an observer, a coherent
+  pattern of behavior." Brooks adds: "Minsky [10] gives a similar account
+  of how human behavior is generated."
+- **The subsumption architecture.** Each layer is a fixed-topology network
+  of finite-state machines exchanging short messages over wires, with "no
+  possibility of access to global data … no possibility of global
+  control". Layers combine by suppression (on a machine's input) and
+  inhibition (on its output).
+- **Evidence is modest and stated as such.** At most three layers ran on a
+  physical robot, and six in simulation. A fourteen-layer soda-can
+  collector is described as in progress. "Only performance truly counts."
+
+## Standing in the record
+
+Filed on 2026-10-02 for the owner's bridge between Minsky's society of mind
+and Schwitzgebel's conscious United States. [NOTE-tmpcsgpq](../notes.d/NOTE-tmpcsgpq.md) is the close
+reading, and it placed the work: **Active**, on the **decomposition side**.
+
+It is the nearest thing to a built Society of Mind the bridge has. Brooks
+cites Minsky's *Society of Mind* ([LIT-tmpqepho](LIT-tmpqepho.md)) as "a similar account of
+how human behavior is generated", and his robots are the engineering case.
+Purposive behaviour comes from many simple parts that do not share
+representations, and no part is in charge. Singh's exposition
+([LIT-tmpxp9b8](LIT-tmpxp9b8.md)) reports that the Society of Mind itself has never been
+implemented. Brooks's architecture is a different and much smaller design,
+but it is built. Its claim that the whole's unity is imputed by an
+observer is the decomposition-side mirror of Schwitzgebel's telescopic
+view in [LIT-159](LIT-159.md) ([NOTE-131](../notes.d/NOTE-131.md)). Brooks reads the unity as the observer's. The
+telescopic view reads it as real.
+
+On [NOTE-131](../notes.d/NOTE-131.md)'s numbering it is **neutral on C3, C4 and C5**. It says nothing
+about consciousness, and Brooks has "no particular interest in the
+philosophical implications of Creatures". His parts are deliberately
+mindless and his wholes are insect-level at best. It bears on the seam in
+two narrower ways, both set out in the note. First, its Creatures have goal-directed
+behaviour with "no explicit representation of goals" and no
+self-representation. That separates two of the marks Schwitzgebel lists
+for the United States. Second, it is an architecture whose layers
+coordinate mostly through the world, not through each other. Under IIT 3.0
+([LIT-tmpzhi2q](LIT-tmpzhi2q.md)) that kind of coupling does not count as integration.
+
+It is not the "Brooks (1986)" that [NOTE-131](../notes.d/NOTE-131.md) lists in Schwitzgebel's
+functionalist tradition beside Block and Lycan. That is a philosopher's
+group-mind case. Crossref holds a D.H.M. Brooks, "Group minds",
+Australasian Journal of Philosophy 64 (1986), 456–470, but whether that is
+Schwitzgebel's reference was not checked here.
+
+**Boundary.** The paper carries an instruction for AI practice, in its
+methodological maxims (§6.1). Test in the real world, never in a
+simplified one. Build and debug one layer at a time, so the only thing
+left to vary is the new layer. Every step must be a complete system. That
+is robotics and AI methodology, not machine-learning practice as such. But
+the anthology's `agents-and-environments` topic, "percept–action loops …
+and what acting rather than only predicting changes", could hold it, so it
+is flagged `anthology-candidate` under [ADR-013](../decisions.d/ADR-013.md). The anthology does not hold
+it now. If it is filed there, the anthology would read it for agent design
+and this record for the part–whole question.

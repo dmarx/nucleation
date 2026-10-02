@@ -1,0 +1,142 @@
+---
+status: Deferred
+status_note: 'not read in full: the original (Art, Mind, and Religion, pp. 37–48) is closed on JSTOR. The University of Pittsburgh''s page images sit behind a bot challenge I could not pass, and the Internet Archive copy of the 1975 reprint is print-disabled only. What was read is MIT''s 24.09x course excerpt of the 1975 reprint ("The Nature of Mental States"), recorded as a Skimmed reading in [NOTE-tmp01au9](../notes.d/NOTE-tmp01au9.md). That excerpt carries the four-clause hypothesis verbatim, including the anti-nesting condition (3) and its one-sentence motive.'
+title: 'Psychological Predicates'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Seeded from the Crossref record (DOI 10.2307/jj.6380610.6), the
+    Online Books Page record of the volume, the PhilPapers listing as
+    surfaced by search (pp. 37–48), and the MIT 24.09x excerpt of the 1975
+    reprint (NOTE-tmp01au9). The first appearance is the 1967 volume: the
+    1965 date Schwitzgebel uses is the date of the Oberlin Colloquium
+    whose proceedings it is. `published:` is Crossref's date for the
+    volume, 1967-03-15; the library records give the year only. Not held
+    in the Anthology of the SOTA: a grep of its literature.d for "Putnam"
+    found nothing.
+tags:
+- cognition
+- consciousness
+- mereology
+- metaphysics
+date: '2026-10-02'
+published: '1967-03-15'
+doi: '10.2307/jj.6380610.6'
+first_author: 'Putnam'
+keywords:
+- 'functionalism'
+- 'pain'
+- 'brain-state hypothesis'
+- 'probabilistic automaton'
+- 'functional organization'
+- 'multiple realizability'
+implementations: []
+summary: >-
+  Putnam (1967), in Capitan & Merrill (eds.), Art, Mind, and Religion
+  (Proceedings of the 1965 Oberlin Colloquium in Philosophy), University of
+  Pittsburgh Press, pp. 37–48; reprinted as "The Nature of Mental States".
+  It proposes, as an empirical hypothesis, that pain is a functional state
+  of a whole organism, a state of a probabilistic automaton fixed by its
+  machine table, rather than a brain state. Condition (3) of the hypothesis
+  is the anti-nesting stipulation: no pain-feeler "possesses a
+  decomposition into parts which separately possess Descriptions" of the
+  pain-capable kind, introduced only "to rule out such 'organisms' (if they
+  can count as such) as swarms of bees as single pain-feelers".
+---
+<!-- inactive-ok-file: LIT-tmpqepho — Deferred, no lawful full text; named as the decomposition side of the bridge, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpsm6ia — Deferred, unread; named as a colony-as-mind case, not leaned on -->
+<!-- inactive-ok-file: NOTE-tmp01au9 — Skimmed: an excerpt of the 1975 reprint was read; cited only for the verbatim wording of condition (3); the directive lapses when its status changes -->
+
+# LIT-tmp2uffs: Psychological Predicates
+
+Hilary Putnam (1967), "Psychological Predicates", in W. H. Capitan and
+D. D. Merrill (eds.), *Art, Mind, and Religion: Proceedings of the 1965
+Oberlin Colloquium in Philosophy*, Pittsburgh: University of Pittsburgh
+Press, pp. 37–48 — DOI-10.2307/jj.6380610.6. Reprinted as "The Nature of
+Mental States" in Putnam, *Mind, Language and Reality: Philosophical Papers,
+Vol. 2*, Cambridge University Press, 1975.
+
+**On the citation.** The brief's details are right: Capitan & Merrill,
+*Art, Mind, and Religion*, University of Pittsburgh Press, 1967, reprinted
+as "The Nature of Mental States". The page details and the date need
+saying:
+
+- The paper itself runs pp. 37–48. Crossref's chapter record (JSTOR) runs
+  pp. 37–68, which on this evidence includes the symposium material that
+  follows the paper; the next chapter, Cavell's, starts on p. 69. I did not
+  see that material and cannot say whose it is.
+- **Why [NOTE-131](../notes.d/NOTE-131.md) dates it 1965.** Schwitzgebel cites "Putnam, Hilary (1965).
+  Psychological predicates. In Art, mind, and religion" in both his
+  manuscript and its reference list. The volume is the proceedings of the
+  **1965** Oberlin Colloquium in Philosophy. It was published in **1967**
+  (Online Books Page; Crossref; Block 1978 cites it as 1967). So 1965 is the
+  colloquium, not a publication. The first appearance in print is 1967, and
+  that is what `published:` carries.
+- **The page Schwitzgebel cites does not fit.** He quotes the bees motive at
+  "p. 163". The paper occupies pp. 37–48 of the 1967 volume. Block cites the
+  same passage at pp. 434–439 of the 1975 reprint. I could not identify an
+  edition with the passage on p. 163, so the page is unverified and is
+  probably a slip or an unnamed anthology's pagination.
+
+## Key takeaways
+
+*Seeded from the reprint excerpt read in [NOTE-tmp01au9](../notes.d/NOTE-tmp01au9.md), not a full reading of
+the original.*
+
+- **Pain is a functional state of a whole organism**, offered as an
+  empirical hypothesis that is more plausible than the brain-state
+  hypothesis. A brain-state theorist must find one physical-chemical state
+  common to every possible pain-feeler, mammal, octopus and extraterrestrial
+  alike. The functionalist needs only a common functional organisation,
+  which behaviour gives us reason to expect.
+- **The hypothesis has four clauses.** (1) Pain-feelers are probabilistic
+  automata. (2) Each has a Description of a certain kind. (3) No pain-feeler
+  "possesses a decomposition into parts which separately possess
+  Descriptions of the kind referred to in (2)". (4) Pain is being in a
+  distinguished subset of sensory inputs. Clause (1) is "empty, since
+  everything is a Probabilistic Automaton under some Description".
+- **Condition (3)'s sole stated motive** is "to rule out such 'organisms'
+  (if they can count as such) as swarms of bees as single pain-feelers".
+
+## Standing in the record
+
+Filed on 2026-10-02 for the bridge between Minsky's society of mind
+([LIT-tmpqepho](LIT-tmpqepho.md)) and Schwitzgebel's conscious United States ([LIT-159](LIT-159.md), [NOTE-131](../notes.d/NOTE-131.md)).
+This paper **is the anti-nesting principle**, in its first, stipulated form.
+Schwitzgebel's §2 (and Appendix Objection 1 in the book, [LIT-216](LIT-216.md)) attacks it
+as "a danglingly unjustified exception to his otherwise clean
+functionalism". Block's critique ([LIT-tmpc6np5](LIT-tmpc6np5.md)) is the first published one.
+
+On [NOTE-131](../notes.d/NOTE-131.md)'s claims:
+
+- It **contests C3** by stipulation, not argument. A whole whose parts
+  separately have pain-feeler organisation is not a pain-feeler.
+- It is the **target of C4**. The excerpt bears out the textual half of
+  C4: the bees sentence is the only motive given in the passage read. The
+  excerpt elides text just before it, so a fuller reading should confirm
+  nothing else is offered.
+- It is **neutral on C5**, which concerns IIT.
+
+**Schwitzgebel's quotation is not Putnam's wording.** [NOTE-131](../notes.d/NOTE-131.md) quotes, after
+Schwitzgebel, "No organism capable of feeling pain possesses a
+decomposition into parts which are separately capable of feeling pain". The
+reprint reads "which separately possess Descriptions of the kind referred to
+in (2)", and Block quotes the same words. The difference matters on the
+seam. Putnam's condition bans parts with the pain-capable *functional
+organisation*. It does not mention the parts' pain. Read with clause (2),
+it withholds pain from a *whole* whose parts separately have the
+pain-capable organisation, even though the whole has that organisation
+too. The bees keep their pain-feeler organisation and the swarm gets none.
+So it is an exclusion rule in the same form as IIT's: one level, not both.
+The difference is that Putnam always gives the verdict to the parts, where
+IIT gives it to whichever level integrates most. Schwitzgebel's paraphrase
+turns it into a ban on parts that feel pain. That is a different principle,
+and it is the one he then attacks.
+
+The swarm is the case Putnam excludes. Hofstadter's "Ant Fugue" in *Gödel,
+Escher, Bach* ([LIT-tmpsm6ia](LIT-tmpsm6ia.md), unread here) treats a colony as a mind, which is the
+case Putnam's condition was written to forbid. That pairing is mine.
+
+It carries no instruction for machine-learning practice.
