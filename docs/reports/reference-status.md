@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**123 documents cited without acknowledgement.** Not listed: 429 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**123 documents cited without acknowledgement.** Not listed: 688 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -29,7 +29,7 @@ The two dragons of cognition: recursive condensation for predictive processing
 - [`record/literature.d/LIT-375.md:31`](../../record/literature.d/LIT-375.md)
 - [`record/literature.d/LIT-375.md:70`](../../record/literature.d/LIT-375.md)
 - [`record/literature.d/LIT-376.md:34`](../../record/literature.d/LIT-376.md)
-- [`record/literature.d/LIT-376.md:71`](../../record/literature.d/LIT-376.md)
+- [`record/literature.d/LIT-376.md:72`](../../record/literature.d/LIT-376.md)
 - [`record/notes.d/NOTE-321.md:6`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:62`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-322.md:107`](../../record/notes.d/NOTE-322.md)
@@ -83,8 +83,8 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 - [`record/literature.d/LIT-376.md:6`](../../record/literature.d/LIT-376.md)
 - [`record/literature.d/LIT-376.md:31`](../../record/literature.d/LIT-376.md)
 - [`record/literature.d/LIT-376.md:34`](../../record/literature.d/LIT-376.md)
-- [`record/literature.d/LIT-376.md:71`](../../record/literature.d/LIT-376.md)
-- [`record/literature.d/LIT-376.md:73`](../../record/literature.d/LIT-376.md)
+- [`record/literature.d/LIT-376.md:72`](../../record/literature.d/LIT-376.md)
+- [`record/literature.d/LIT-376.md:74`](../../record/literature.d/LIT-376.md)
 - [`record/literature.d/LIT-377.md:4`](../../record/literature.d/LIT-377.md)
 - [`record/literature.d/LIT-377.md:64`](../../record/literature.d/LIT-377.md)
 - [`record/literature.d/LIT-377.md:68`](../../record/literature.d/LIT-377.md)
@@ -1113,7 +1113,7 @@ Conspiracy theorists are not the problem; Conspiracy liars are
 
 Do Large Language Models Hallucinate Electric Fata Morganas?
 
-2 citations in 2 files await a look; 10 other citations of it are acknowledged.
+2 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-014.md:56`](../../record/decisions.d/ADR-014.md)
 - [`record/notes.d/NOTE-102.md:89`](../../record/notes.d/NOTE-102.md)
@@ -1583,4 +1583,8 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-None. Every annotation still governs something. ✅
+- record/literature.d/LIT-406.md:66: annotation no longer applies — nothing in scope cites LIT-441
+- record/notes.d/NOTE-347.md:33: annotation no longer applies — nothing in scope cites LIT-441
+- record/notes.d/NOTE-349.md:34: annotation no longer applies — nothing in scope cites LIT-413
+- record/notes.d/NOTE-357.md:37: annotation no longer applies — nothing in scope cites LIT-434, LIT-443
+- record/notes.d/NOTE-369.md:27: annotation no longer applies — nothing in scope cites LIT-412

@@ -50,14 +50,14 @@ this directory, then run `luria index`.
 **[Linguistics](tags/linguistics.md)** (1) — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them:
 [017](../../record/theory.d/THEORY-017.md)
 
-**[Metaphysics](tags/metaphysics.md)** (6) — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy):
-[029](../../record/theory.d/THEORY-029.md) · [032](../../record/theory.d/THEORY-032.md) · [034](../../record/theory.d/THEORY-034.md) · [036](../../record/theory.d/THEORY-036.md) · [038](../../record/theory.d/THEORY-038.md) · [040](../../record/theory.d/THEORY-040.md)
+**[Metaphysics](tags/metaphysics.md)** (7) — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy):
+[029](../../record/theory.d/THEORY-029.md) · [032](../../record/theory.d/THEORY-032.md) · [034](../../record/theory.d/THEORY-034.md) · [036](../../record/theory.d/THEORY-036.md) · [038](../../record/theory.d/THEORY-038.md) · [040](../../record/theory.d/THEORY-040.md) · [043](../../record/theory.d/THEORY-043.md)
 
-**[Mereology](tags/mereology.md)** (1) — parts and wholes — composition, individuation of systems and collectives (group: philosophy):
-[017](../../record/theory.d/THEORY-017.md)
+**[Mereology](tags/mereology.md)** (2) — parts and wholes — composition, individuation of systems and collectives (group: philosophy):
+[017](../../record/theory.d/THEORY-017.md) · [043](../../record/theory.d/THEORY-043.md)
 
-**[Agency](tags/agency.md)** (3) — what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy):
-[026](../../record/theory.d/THEORY-026.md) · [029](../../record/theory.d/THEORY-029.md) · [040](../../record/theory.d/THEORY-040.md)
+**[Agency](tags/agency.md)** (4) — what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy):
+[026](../../record/theory.d/THEORY-026.md) · [029](../../record/theory.d/THEORY-029.md) · [040](../../record/theory.d/THEORY-040.md) · [043](../../record/theory.d/THEORY-043.md)
 
 **[Identity](tags/identity.md)** (2) — what makes something the same thing over time or across descriptions — individuality, persistence, personal identity (group: philosophy):
 [032](../../record/theory.d/THEORY-032.md) · [034](../../record/theory.d/THEORY-034.md)
@@ -65,11 +65,11 @@ this directory, then run `luria index`.
 **[Ethics](tags/ethics.md)** (4) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy):
 [025](../../record/theory.d/THEORY-025.md) · [027](../../record/theory.d/THEORY-027.md) · [029](../../record/theory.d/THEORY-029.md) · [040](../../record/theory.d/THEORY-040.md)
 
-**[Consciousness](tags/consciousness.md)** (1) — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy):
-[023](../../record/theory.d/THEORY-023.md)
+**[Consciousness](tags/consciousness.md)** (2) — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy):
+[023](../../record/theory.d/THEORY-023.md) · [043](../../record/theory.d/THEORY-043.md)
 
-**[Cognition](tags/cognition.md)** (3) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy):
-[013](../../record/theory.d/THEORY-013.md) · [023](../../record/theory.d/THEORY-023.md) · [031](../../record/theory.d/THEORY-031.md)
+**[Cognition](tags/cognition.md)** (4) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy):
+[013](../../record/theory.d/THEORY-013.md) · [023](../../record/theory.d/THEORY-023.md) · [031](../../record/theory.d/THEORY-031.md) · [043](../../record/theory.d/THEORY-043.md)
 
 **[Emotion and affect](tags/emotion-and-affect.md)** (0) — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
 
@@ -91,7 +91,7 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [The current account](status/Active.md) (10) · [Offered](status/Proposed.md) (30) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (2) · [Replaced](status/Superseded.md) (0)
+**By status:** [The current account](status/Active.md) (10) · [Offered](status/Proposed.md) (31) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (2) · [Replaced](status/Superseded.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -147,4 +147,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [THEORY-040](../../record/theory.d/THEORY-040.md) | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape | McKenna & Coates, [LIT-291](../../record/literature.d/LIT-291.md): every "mesh" compatibilism can be installed by a manipulator, and Frankfurt is quoted (2002, second-hand) accepting that a manipulated character leaves a person responsible. Dryden ([LIT-297](../../record/literature.d/LIT-297.md)) and Buss & Westlund ([LIT-296](../../record/literature.d/LIT-296.md)) make the same point against hierarchical autonomy. Historical supplements are reported to face "loading-in" and a circularity worry; neither is argued in full in the record. The claim says what the account must choose between, not which choice is wrong. | Proposed |
 | [THEORY-041](../../record/theory.d/THEORY-041.md) | Birkhoff and von Neumann proposed the modular law, not orthomodularity, and proved it fails for closed subspaces in infinite dimension; Husimi used the orthomodular identity only as an unnamed proof step | Birkhoff & von Neumann (1936), [LIT-306](../../record/literature.d/LIT-306.md) — the lattice of closed subspaces is orthocomplemented and not distributive. They propose modularity (L5), motivated by a dimension function, and give an explicit infinite-dimensional pentagon that breaks it. The word "orthomodular" does not occur. Husimi (1937), [LIT-357](../../record/literature.d/LIT-357.md), derives modularity as the parallelogram law under a finite-chain assumption and uses the orthomodular identity as a step without naming it. Citing either paper for "the orthomodular lattice of quantum logic" misattributes it. | Active |
 | [THEORY-042](../../record/theory.d/THEORY-042.md) | Under a superselection rule a coherent superposition across sectors is operationally a mixture, because no observable connects the sectors; Wick, Wightman and Wigner proved such a rule for integer versus half-integer spin and only postulated it for charge | Wick, Wightman & Wigner (1952), [LIT-339](../../record/literature.d/LIT-339.md) — they define a superselection rule and show that a superposition across sectors "is not a pure state, but a statistical mixture". They prove the rule from time reversal for integer versus half-integer angular momentum, and postulate it for charge with "no conclusive evidence". What follows for Birkhoff–von Neumann's lattice ([LIT-306](../../record/literature.d/LIT-306.md)), a product of sector lattices with central sector projections, is the record's inference. The centre-of-the-algebra formulation belongs to Haag, who is not read. | Active |
+| [THEORY-043](../../record/theory.d/THEORY-043.md) | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled | Minsky's society of mind builds a mind downward, out of agents that are not minds. Schwitzgebel ([LIT-159](../../record/literature.d/LIT-159.md)) builds a candidate mind upward, out of agents that are. The readings agree that agency survives both directions: Block grants a homunculi-head beliefs, List grants organised groups agency and awareness, Levin finds nested goal-pursuing Selves at every scale. The dispute narrows to phenomenal consciousness, and every published way to accept the downward move while refusing the upward one is either an anti-nesting principle (Putnam's stipulation, IIT's exclusion postulate, Kammerer's functional version), each introduced for or justified weakly by the verdict it gives, or an architectural criterion that would count against a loosely coupled society of mind as much as against a nation. Proposed: an account of where a dispute stands, from philosophical argument and no measurement. | Proposed |
 

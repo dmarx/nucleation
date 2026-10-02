@@ -2,9 +2,16 @@
 
 # Lines of work
 
-7 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+10 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
+
+## agency
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ## anthology-candidate
 
@@ -12,6 +19,34 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+## cognition
+
+### From The Extended Mind
+
+- [LIT-097](../record/literature.d/LIT-097.md) — The Extended Mind *(Active)*
+  - [LIT-403](../record/literature.d/LIT-403.md) — Intrinsic content, active memory and the extended mind *(Active)*
+  - [LIT-421](../record/literature.d/LIT-421.md) — Foreword *(Active)*
+    - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also extends LIT-097
+
+### From A Framework for Representing Knowledge
+
+- [LIT-410](../record/literature.d/LIT-410.md) — A Framework for Representing Knowledge *(Active)*
+  - [LIT-399](../record/literature.d/LIT-399.md) — Plain Talk About Neurodevelopmental Epistemology *(Active)*
+    - [LIT-402](../record/literature.d/LIT-402.md) — K-Lines: A Theory of Memory *(Active)* — also extends LIT-410
+  - [LIT-408](../record/literature.d/LIT-408.md) — Jokes and the Logic of the Cognitive Unconscious *(Active)*
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
+
+## consciousness
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ## contextuality
 
@@ -23,6 +58,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+
+## emotion-and-affect
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ## ethics
 
@@ -36,6 +78,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
   - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
   - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
+
+## identity
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ## information-theory
 
@@ -85,6 +134,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-274](../record/literature.d/LIT-274.md) — A new description of orthogonal bases *(Active)*
   - [LIT-275](../record/literature.d/LIT-275.md) — H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics *(Active)*
+
+## mereology
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ## metaphysics
 

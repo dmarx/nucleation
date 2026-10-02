@@ -6,15 +6,18 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [2 Oct 01:48 — David Chalmers, Daniel Dennett and The Mind's I](2026-10.md#david-chalmers-daniel-dennett-and-the-minds-i)
+- [2 Oct 00:21 — Bridging the society of mind to a conscious United States](2026-10.md#bridging-the-society-of-mind-to-a-conscious-united-states)
+- [1 Oct 22:26 — Minsky's Society of Mind and Hofstadter's analogy programme](2026-10.md#minskys-society-of-mind-and-hofstadters-analogy-programme)
 - [1 Oct 21:17 — Antonio Damasio: six works, and a word for emotion](2026-10.md#antonio-damasio-six-works-and-a-word-for-emotion)
 - [1 Oct 16:48 — Xin Li's structural-learning programme, read as one](2026-10.md#xin-lis-structural-learning-programme-read-as-one)
 - [1 Oct 05:20 — The reading feed's revisit list, against both records](2026-10.md#the-reading-feeds-revisit-list-against-both-records)
 
 ## All books
 
-50 entries across 2 books, newest first.
+53 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 3 | 2026-10-01 | 2026-10-01 |
+| [2026-10](2026-10.md) | 6 | 2026-10-01 | 2026-10-02 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

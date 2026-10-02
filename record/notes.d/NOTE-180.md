@@ -28,8 +28,8 @@ history:
   date: '2026-10-02'
   note: >-
     The coupling–constitution reply is now attributed precisely: Adams and
-    Aizawa pressed it in 2001 (LIT-tmpss0cg, now filed), and the name
-    "coupling–constitution fallacy" is from their later work (NOTE-tmpyudcv).
+    Aizawa pressed it in 2001 (LIT-438, now filed), and the name
+    "coupling–constitution fallacy" is from their later work (NOTE-368).
 date: '2026-09-26'
 summary: >-
   The paper argues from a functionalist parity claim that a process or
@@ -95,7 +95,7 @@ The paper states the thesis in constitutive and locational terms. An external re
 2. **Parity (§2).** This is **stated with "(so we claim)"** and is not derived.
 3. **Explanatory simplicity and a revisionary concept.** The internalist explanation is "pointlessly complex". The notion of belief "ought to be used" so that Otto qualifies, because that makes it "more akin to a natural kind". This is an inference to the simpler description and a proposal about a concept. It does not show which relation holds.
 
-The evidence the paper gives for coupling is causal: "active causal role", "just as causally relevant as typical internal features of the brain", and the removal counterfactual in §3. The move from "causally coupled in a two-way loop" to "is part of" is **not argued separately**. It is carried by the functionalist premise and by burden-shifting ("To provide substantial resistance, an opponent has to show that Otto's and Inga's cases differ in some important and relevant respect", §4). My judgement is that the constitutive step is **stipulated given functionalism, not argued**. The paper does not consider the reply that coupling is only causal. That reply was pressed later by Adams and Aizawa, "The bounds of cognition" (2001; [LIT-tmpss0cg](../literature.d/LIT-tmpss0cg.md), [NOTE-tmpyudcv](NOTE-tmpyudcv.md)). The name "coupling–constitution fallacy" comes from their later work (2008), not from that paper. The paper also offers no general account of parthood. "Part" is used informally of processes, systems and selves. Neither mereological principles nor a criterion of composition appear (see Connections).
+The evidence the paper gives for coupling is causal: "active causal role", "just as causally relevant as typical internal features of the brain", and the removal counterfactual in §3. The move from "causally coupled in a two-way loop" to "is part of" is **not argued separately**. It is carried by the functionalist premise and by burden-shifting ("To provide substantial resistance, an opponent has to show that Otto's and Inga's cases differ in some important and relevant respect", §4). My judgement is that the constitutive step is **stipulated given functionalism, not argued**. The paper does not consider the reply that coupling is only causal. That reply was pressed later by Adams and Aizawa, "The bounds of cognition" (2001; [LIT-438](../literature.d/LIT-438.md), [NOTE-368](NOTE-368.md)). The name "coupling–constitution fallacy" comes from their later work (2008), not from that paper. The paper also offers no general account of parthood. "Part" is used informally of processes, systems and selves. Neither mereological principles nor a criterion of composition appear (see Connections).
 
 ## Claims
 
