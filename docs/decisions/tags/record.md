@@ -6,7 +6,7 @@
 
 **The record** — what the schemes hold, and the rules between them.
 
-19 of 19 decisions. Back to the [full index](../README.md).
+20 of 20 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -29,3 +29,4 @@
 | [ADR-017](../../../record/decisions.d/ADR-017.md) | social-ontology joins the topics | `social-ontology` joins the topic vocabulary in the `philosophy` group, for what social facts, groups, institutions and social kinds are and what makes them exist. Six existing works take it, List & Pettit's *Group Agency* first. Rejected: holding the subject under `society-and-governance` or `social-science`, and a narrower word for group agency alone. | Active |
 | [ADR-018](../../../record/decisions.d/ADR-018.md) | moral-psychology joins the topics | `moral-psychology` joins the topic vocabulary in the `philosophy` group, for morality as a natural phenomenon: moral judgement, emotion and norms, and their evolution, development and variation across cultures. Four existing works take it, three first. Rejected: widening `ethics`, which is normative, and a narrower word for the evolution of cooperation. | Active |
 | [ADR-019](../../../record/decisions.d/ADR-019.md) | game-theory joins the topics | `game-theory` joins the topic vocabulary, outside the `philosophy` group, for strategic interaction and its equilibria in biology, economics and philosophy. Eight works take it, none first. Proposed independently by two filing agents in the moral-psychology batch. Rejected: stretching `probabilistic-modeling` or leaning on `mathematics` alone. | Active |
+| [ADR-020](../../../record/decisions.d/ADR-020.md) | thermodynamics joins the topics | `thermodynamics` joins the topic vocabulary, beside `natural-sciences`, for the second law and its extensions read for themselves: entropy production, nonequilibrium steady states, dissipative structures, fluctuation theorems, and the thermodynamics of computation and of life. All three agents filing the dissipative-structures batch proposed it independently. Twenty-seven works and two THEORYs take it. Rejected: leaving the subject under `natural-sciences`, and a narrower word for nonequilibrium thermodynamics alone. | Active |

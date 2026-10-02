@@ -29,6 +29,9 @@ this directory, then run `luria index`.
 **[Natural sciences](tags/natural-sciences.md)** (2) — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim:
 [026](../../record/theory.d/THEORY-026.md) · [030](../../record/theory.d/THEORY-030.md)
 
+**[Thermodynamics](tags/thermodynamics.md)** (2) — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020):
+[026](../../record/theory.d/THEORY-026.md) · [030](../../record/theory.d/THEORY-030.md)
+
 **[Operations research](tags/operations-research.md)** (0) — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
 **[Society and governance](tags/society-and-governance.md)** (2) — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations:

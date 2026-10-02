@@ -6,7 +6,7 @@
 
 **Self and personhood** — what a self or a person is and what makes one persist — personal identity, the narrative, minimal and bodily self, self-models, agency over one's own life, and whether machines or groups can be selves (group: philosophy; ADR-015).
 
-33 of 514 LIT documents. Back to the [full index](../README.md).
+33 of 537 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

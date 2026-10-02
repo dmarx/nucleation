@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [2 Oct 18:05 — Dissipative structures](2026-10.md#dissipative-structures)
 - [2 Oct 05:04 — Moral psychology and morality-as-cooperation](2026-10.md#moral-psychology-and-morality-as-cooperation)
 - [2 Oct 03:57 — Social ontology](2026-10.md#social-ontology)
 - [2 Oct 03:17 — The self, the unidentified texts, and two new topics](2026-10.md#the-self-the-unidentified-texts-and-two-new-topics)
@@ -18,9 +19,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-56 entries across 2 books, newest first.
+57 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 9 | 2026-10-01 | 2026-10-02 |
+| [2026-10](2026-10.md) | 10 | 2026-10-01 | 2026-10-02 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

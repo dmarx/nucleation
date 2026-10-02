@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**137 documents cited without acknowledgement.** Not listed: 1107 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**138 documents cited without acknowledgement.** Not listed: 1192 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -376,10 +376,10 @@ Hilbert Spaces and the Riesz Representation Theorem
 
 Irreversibility and Heat Generation in the Computing Process
 
-11 citations in 5 files await a look.
+11 citations in 5 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-360.md:6`](../../record/literature.d/LIT-360.md)
-- [`record/literature.d/LIT-360.md:64`](../../record/literature.d/LIT-360.md)
+- [`record/literature.d/LIT-360.md:65`](../../record/literature.d/LIT-360.md)
 - [`record/notes.d/NOTE-295.md:93`](../../record/notes.d/NOTE-295.md)
 - [`record/notes.d/NOTE-296.md:89`](../../record/notes.d/NOTE-296.md)
 - [`record/notes.d/NOTE-296.md:98`](../../record/notes.d/NOTE-296.md)
@@ -388,7 +388,7 @@ Irreversibility and Heat Generation in the Computing Process
 - [`record/notes.d/NOTE-310.md:126`](../../record/notes.d/NOTE-310.md)
 - [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
 - [`record/theory.d/THEORY-030.md:12`](../../record/theory.d/THEORY-030.md)
-- [`record/theory.d/THEORY-030.md:75`](../../record/theory.d/THEORY-030.md)
+- [`record/theory.d/THEORY-030.md:76`](../../record/theory.d/THEORY-030.md)
 
 ### [LIT-276](../../record/literature.d/LIT-276.md) — Rejected
 
@@ -605,7 +605,7 @@ In both formalisms of contextuality, classicality is the existence of a nonnegat
 
 Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
 
-9 citations in 5 files await a look.
+9 citations in 5 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-373.md:38`](../../record/literature.d/LIT-373.md)
 - [`record/literature.d/LIT-373.md:85`](../../record/literature.d/LIT-373.md)
@@ -615,7 +615,7 @@ Landauer's principle prices only logically irreversible steps, and prices them i
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-322.md:199`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
-- [`record/theory.d/THEORY-026.md:64`](../../record/theory.d/THEORY-026.md)
+- [`record/theory.d/THEORY-026.md:65`](../../record/theory.d/THEORY-026.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
@@ -1058,11 +1058,11 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 
 For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
 
-3 citations in 3 files await a look.
+3 citations in 3 files await a look; 33 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-321.md:156`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
-- [`record/theory.d/THEORY-030.md:81`](../../record/theory.d/THEORY-030.md)
+- [`record/theory.d/THEORY-030.md:82`](../../record/theory.d/THEORY-030.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -1239,7 +1239,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 130 other citations of it are acknowledged.
+2 citations in 1 file await a look; 134 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1603,6 +1603,14 @@ Spectral contrastive loss (HaoChen et al.)
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-322.md:187`](../../record/notes.d/NOTE-322.md)
+
+### [NOTE-418](../../record/notes.d/NOTE-418.md) — Skimmed
+
+Pattern formation outside of equilibrium
+
+1 citation in 1 file awaits a look.
+
+- [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
 
 ### [THEORY-003](../../record/theory.d/THEORY-003.md) — Proposed
 
