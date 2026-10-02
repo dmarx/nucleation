@@ -1,6 +1,9 @@
 ---
+number: 333
 status: Read
-paper: LIT-tmpsu7u7
+formerly:
+- NOTE-tmpbfy9n
+paper: LIT-390
 title: 'Topos Theory and Consistent Histories: The Internal Logic of the Set of All Consistent Sets'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
   B.
 ---
 
-# NOTE-tmpbfy9n: Topos Theory and Consistent Histories: The Internal Logic of the Set of All Consistent Sets
+# NOTE-333: Topos Theory and Consistent Histories: The Internal Logic of the Set of All Consistent Sets
 
 ## Contribution
 

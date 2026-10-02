@@ -1,6 +1,9 @@
 ---
+number: 334
 status: Read
-paper: LIT-tmpreakf
+formerly:
+- NOTE-tmpmwz2v
+paper: LIT-389
 title: 'Some Possible Roles for Topos Theory in Quantum Theory and Quantum Gravity'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
   ν^ψ(A ∈ Δ) = {f_O : Â → B̂ | Ê[B ∈ f(Δ)]ψ = ψ}.
 ---
 
-# NOTE-tmpmwz2v: Some Possible Roles for Topos Theory in Quantum Theory and Quantum Gravity
+# NOTE-334: Some Possible Roles for Topos Theory in Quantum Theory and Quantum Gravity
 
 ## Contribution
 

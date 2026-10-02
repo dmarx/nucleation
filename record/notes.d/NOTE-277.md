@@ -27,7 +27,7 @@ history:
 - version: 2
   date: '2026-10-01'
   note: >-
-    Recorded that 'neo-realism' appears in Isham 1997 (LIT-tmpsu7u7), eleven
+    Recorded that 'neo-realism' appears in Isham 1997 (LIT-390), eleven
     years before this paper's 'we coin the term'.
 date: '2026-09-29'
 summary: >-
@@ -134,4 +134,4 @@ The paper has no theorems. What it establishes is definitional or argued.
 - Identifiers check against the arXiv listing: journal-ref J. Math. Phys. 49:053515 (2008); DOI 10.1063/1.2883740; comment "36 pages, no figures". The PDF is dated 6 March 2007 and arXiv v1 is 7 Mar 2007. The seed's `published: 2008-05-01` is the journal issue; if the record dates works by first public appearance, it should be 2007-03-07. This is flagged, not changed.
 - Tag proposal: add `philosophy-of-science`. §§1–3 are an argument about realist versus instrumentalist readings of physical theories, which is that topic's blurb. Keep `contextuality`: the Appendix defines sieve-valued, context-relative truth values, and the series is the reference someone browsing contextuality would expect. The primary tag stays `quantum-foundations`.
 
-**Correction (2026-10-01).** Footnote 6's "We coin the term" for *neo-realism* is not right: Isham already uses the term in 1997 ([LIT-tmpsu7u7](../literature.d/LIT-tmpsu7u7.md), §5, p. 23), the consistent-histories paper that motivated the whole topos programme.
+**Correction (2026-10-01).** Footnote 6's "We coin the term" for *neo-realism* is not right: Isham already uses the term in 1997 ([LIT-390](../literature.d/LIT-390.md), §5, p. 23), the consistent-histories paper that motivated the whole topos programme.
