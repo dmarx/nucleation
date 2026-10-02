@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpu7aha
 paper: LIT-409
 title: 'Kammerer — How a materialist can deny that the US is probably conscious'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-02'
@@ -19,6 +19,14 @@ history:
     page references to Schwitzgebel are to his "forthcoming" manuscript,
     not to the Philosophical Studies pagination. Read against NOTE-131's
     reading of Schwitzgebel and NOTE-188's account of his book's reply.
+- version: 2
+  date: '2026-10-02'
+  note: >-
+    Schwitzgebel's reply is now read (LIT-tmplt3pf, NOTE-tmpqu2kh). The
+    Limitations bullet had his first concern pressing condition B, from the
+    abstract; the text presses condition A and condition B is not
+    discussed. The bullet now says so, and the open question points at the
+    reading.
 date: '2026-10-02'
 summary: >-
   The Sophisticated Anti-Nesting Principle. A whole W with a functional
@@ -237,7 +245,9 @@ All are informal. There are no formal results and no data.
 - **The US verdict rests on condition B, asserted.** No US-level capacity
   is analysed to show that it needs members' representations of the US,
   rather than of their offices, neighbours, markets or rules. Schwitzgebel's
-  first concern in his reply (per its abstract) presses this.
+  reply ([LIT-tmplt3pf](../literature.d/LIT-tmplt3pf.md)) does not press this: its first concern is about
+  condition A, whether citizens consciously represent the US at all, and
+  condition B is not discussed ([NOTE-tmpqu2kh](NOTE-tmpqu2kh.md)). The gap here is still open.
 - **Representation is left undefined.** Which states count as
   "representing W" (does a tax clerk's belief about a form?) is not
   settled.
@@ -257,8 +267,8 @@ All are informal. There are no formal results and no data.
   whole person) trigger the SAP for the states that depend on it? If so,
   the principle has consequences for human self-consciousness that the
   paper does not draw.
-- How does the SAP fare against Schwitzgebel's three concerns (Philosophia
-  44, 2016) and the Planck-sized-person case ([LIT-216](../literature.d/LIT-216.md))?
+- How does the SAP fare against Schwitzgebel's three concerns ([LIT-tmplt3pf](../literature.d/LIT-tmplt3pf.md),
+  read in [NOTE-tmpqu2kh](NOTE-tmpqu2kh.md)) and the Planck-sized-person case ([LIT-216](../literature.d/LIT-216.md))?
 
 ## Corrections
 
