@@ -1,0 +1,108 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmpw8bm2](../notes.d/NOTE-tmpw8bm2.md)); worth reading as the founding attempt to derive the maximum-entropy-production principle (MaxEP) from Jaynes''s maximum-entropy inference over microscopic paths, and as the source most later MEP work, Kleidon''s included, cites for MEP''s theoretical foundation. Read it as a programme, not a proof. The path distribution p_Γ ∝ exp(A_Γ) and its fluctuation theorem follow from the stated constraints. The MaxEP step needs a mean-field approximation and an assumption that the number of paths grows with their irreversible action, which is stated, not argued. The self-organized-criticality corollary is a mean-field artefact by Grinstein and Linsker''s analysis ([LIT-tmpflluj](LIT-tmpflluj.md)), which this reading confirms.'
+title: 'Information theory explanation of the fluctuation theorem, maximum entropy production and self-organized criticality in non-equilibrium stationary states'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full (arXiv cond-mat/0005382 v3, 13 Dec 2002, "version to
+    appear in J. Phys. A (2003)"; v1 23 May 2000. 21 pp. from the arXiv
+    PDF. Prose extracted with PyMuPDF. The displayed equations are set in
+    a Symbol font that extraction drops, so pages 9, 11, 13, 14, 15 and 18
+    were rendered as images and Eqs. 2–8, 13–15, 18–24 and 28 read from
+    them). I read §§1–5 and all 43 references, re-derived the two-box
+    optimum h_opt ≈ 0.199 f_SW numerically, and checked Eq. 28 against
+    Eqs. 26–27. The Journal of Physics A version of record (36(3):631–641,
+    online 8 January 2003) was not seen, nor was Dewar's 2005 sequel
+    (J. Phys. A 38:L371, DOI 10.1088/0305-4470/38/21/L01), whose IOP page
+    served no text and which has no open repository copy. Not held in the
+    Anthology of the SOTA: a grep of its literature.d for "Dewar", "maximum
+    entropy production", the DOI and the arXiv id found nothing.
+    `published:` is the arXiv v1 date. Filed with the critics of
+    Prigogine's extremum principles and the MEP literature, at the owner's
+    request to fill out the record's coverage of dissipative structures.
+tags:
+- natural-sciences
+- information-theory
+- complex-systems
+- probabilistic-modeling
+date: '2026-10-02'
+published: '2000-05-23'
+doi: '10.1088/0305-4470/36/3/303'
+arxiv: 'cond-mat/0005382'
+first_author: 'Dewar'
+keywords:
+- 'maximum entropy production'
+- 'MaxEP'
+- 'Jaynes'
+- 'maximum entropy (MaxEnt)'
+- 'path information entropy'
+- 'fluctuation theorem'
+- 'self-organized criticality'
+- 'non-equilibrium stationary states'
+implementations: []
+summary: >-
+  Dewar (2003), DOI-10.1088/0305-4470/36/3/303. It applies Jaynes's
+  maximum-entropy inference to the microscopic paths of an open system in
+  a stationary state. Under fixed initial densities and boundary fluxes
+  plus local conservation, the path distribution is p_Γ ∝ exp(A_Γ), with
+  A_Γ carrying τσ_Γ/2k_B (Eq. 14). A fluctuation theorem and ⟨σ⟩ ≥ 0
+  follow (Eqs. 18–21). Then, in a mean-field approximation and assuming the
+  number of paths increases with irreversible action, maximizing path
+  entropy over the remaining multipliers is maximizing mean entropy
+  production (MaxEP, Eq. 24). A Landau–Ginzburg argument claims
+  self-organized criticality as slow driving goes to zero.
+---
+<!-- inactive-ok-file: LIT-tmp9n5sf — Deferred, no lawful full text; Martyushev and Seleznev's review, named as the survey of the MEP literature, not leaned on -->
+
+# LIT-tmpbf3wy: Information theory explanation of the fluctuation theorem, maximum entropy production and self-organized criticality in non-equilibrium stationary states
+
+Roderick C. Dewar (2003), *Journal of Physics A: Mathematical and General 36(3), 631–641* — DOI-10.1088/0305-4470/36/3/303 (preprint arXiv:cond-mat/0005382, 23 May 2000)
+
+## Standing in the record
+
+Filed on 2026-10-02 with the critics of Prigogine's extremum principles and
+the maximum-entropy-production (MEP) literature, at the owner's request to
+fill out the record's coverage of dissipative structures. It is the
+theoretical centre of MEP, the principle that a system with enough degrees
+of freedom settles into the steady state of greatest entropy production.
+That principle is the main rival in this literature to Prigogine's minimum
+principle.
+
+[NOTE-tmpw8bm2](../notes.d/NOTE-tmpw8bm2.md) is the close reading of 2026-10-02, and it placed the work:
+**Active**, as the reference for what the information-theoretic derivation
+of MEP is and where it is weak. Its status is contested, and the record
+should read it with its critics.
+
+- Grinstein and Linsker ([LIT-tmpflluj](LIT-tmpflluj.md)) show that its self-organized
+  criticality (SOC) corollary rests on a mean-field approximation extended
+  beyond its validity. They also show that the 2005 sequel's far-from-
+  equilibrium derivation of MaxEP holds only in the linear regime.
+- Kleidon's review ([LIT-tmp8wfl8](LIT-tmp8wfl8.md)), which applies MEP to the Earth
+  system, calls the foundation "still work in progress".
+- Martyushev and Seleznev's review ([LIT-tmp9n5sf](LIT-tmp9n5sf.md)), the main survey of the
+  MEP literature, could not be read.
+
+Two connections inside the record matter.
+
+- **Upstream.** The derivation inherits whatever standing Jaynes's
+  maximum-entropy inference has as a foundation of statistical mechanics.
+  The Stanford Encyclopedia entry [LIT-114](LIT-114.md) (read in [NOTE-103](../notes.d/NOTE-103.md)) records that
+  there is "no consensus on its significance, or even cogency". [NOTE-103](../notes.d/NOTE-103.md)'s
+  "MEP" is the maximum-entropy *principle*, Jaynes's, not maximum entropy
+  *production*. The two acronyms collide, and this paper is where one is
+  derived from the other.
+- **Fluctuation theorem.** The paper's fluctuation theorem (Eq. 21) has the
+  same form as the dynamical ones of Crooks ([LIT-tmpc4996](LIT-tmpc4996.md)) and Seifert's
+  review ([LIT-tmpcfjz8](LIT-tmpcfjz8.md)). Here it is a consequence of an inferred Gibbs-type
+  path measure, not of a dynamics. [NOTE-tmpw8bm2](../notes.d/NOTE-tmpw8bm2.md) says why that difference
+  matters.
+
+On Prigogine: the paper's only direct engagement is to recall Jaynes's
+1980 conjecture that Gibbs's method is "closer in spirit to a principle of
+maximum entropy production" than to Prigogine's minimum principle (p. 4).
+It does not argue against the minimum principle, and the 2005 sequel, by
+Grinstein and Linsker's account, derives both principles from one
+condition.
