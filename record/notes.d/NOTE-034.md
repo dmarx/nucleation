@@ -32,7 +32,9 @@ history:
     paper's attribution, and reading the 1973 paper (LIT-tmpex4cg,
     NOTE-tmpjvb5a) shows it is loose: that paper has no Hawk–Dove game.
     Said under Corrections; the lineage sentence still reports what the
-    paper says.
+    paper says. The moral-psychology batch also reads the rest of the
+    programme and its rivals: C7 is qualified from the Moral Foundations
+    texts, and Connections points to the replies to the purity objection.
 date: '2026-09-25'
 summary: >-
   Coding 3,460 eHRAF paragraphs on the 60 Probability Sample Files
@@ -49,6 +51,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-047 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
 
 <!-- inactive-ok-file: LIT-046 — Proposed by its close reading; named in Connections -->
+<!-- inactive-ok-file: LIT-tmpcsgn6 LIT-tmp0moou LIT-tmpps55m LIT-tmpvrv55 — Proposed (Watching): the programme papers, each named for what it does or does not test -->
 
 # NOTE-034: Curry et al. 2019, morality-as-cooperation in 60 societies
 
@@ -111,6 +114,17 @@ If morals are solutions to recurrent cooperation problems, then each solution sh
 ## Connections
 
 - **The theory's lineage.** It extends kin selection (Hamilton), reciprocal altruism (Trivers), coordination (Lewis), hawk–dove contests (Maynard Smith & Price), bargaining (Nash, Skyrms) and possession (Gintis 2007). It is positioned against Moral Foundations Theory (Haidt & Graham), which it criticizes as ad hoc. The questionnaire follow-up is Curry, Jones Chesters & Van Lissa 2019 (J. Res. Pers.), cited in the Reply as testing the seven-factor structure.
+- **The programme and its rivals, now read.** Curry 2016 ([LIT-tmpcsgn6](../literature.d/LIT-tmpcsgn6.md))
+  states the prediction this paper did not test: behaviour unrelated to
+  cooperation will be "morally neutral". The questionnaire ([LIT-tmp0moou](../literature.d/LIT-tmp0moou.md)),
+  "Moral Molecules" ([LIT-tmpps55m](../literature.d/LIT-tmpps55m.md)) and the 256-society study
+  ([LIT-tmpvrv55](../literature.d/LIT-tmpvrv55.md)) do not run the blind, all-content test either, and the
+  last cannot see valence. The purity objection has three cooperative
+  replies on record, none worked out inside the seven domains:
+  Fitouchi, André & Baumard's self-control account ([LIT-101](../literature.d/LIT-101.md)), Rai & Fiske's
+  Unity motive ([LIT-tmpiuf8w](../literature.d/LIT-tmpiuf8w.md)), and the sexual-restraint-as-fairness sketch
+  in Baumard, André & Sperber's Response ([LIT-tmpof37t](../literature.d/LIT-tmpof37t.md)). Moral Foundations
+  Theory keeps Sanctity as a foundation ([LIT-tmpa221k](../literature.d/LIT-tmpa221k.md), [LIT-tmpaywst](../literature.d/LIT-tmpaywst.md)).
 - **Bloom.**
   - It is unclear what would falsify MAC.
   - It is silent on proximate mechanisms.
@@ -178,3 +192,13 @@ There is no instruction for ML practice. For this record's ethics and cooperatio
   identical, so it has no display-then-defer asymmetry either. What it
   grounds is restraint backed by retaliation. The display and deference
   domains need a later source; which one is open here.
+- **C7 is half right.** Read against the Moral Foundations texts
+  ([LIT-tmpbptbc](../literature.d/LIT-tmpbptbc.md), [LIT-tmpa221k](../literature.d/LIT-tmpa221k.md), read in [NOTE-tmp05ouq](NOTE-tmp05ouq.md)), "more precise" holds
+  as a claim about how the lists were made: MAC derives its domains from
+  games, and MFT's five criteria screen candidates but do not generate
+  them. "Broader" does not. MFT grounds Care in kin selection and Fairness
+  in reciprocal altruism, and names ownership as a candidate foundation;
+  only bravery is absent. In the other direction MAC leaves out Sanctity
+  and care for non-kin, so neither list contains the other. The narrower
+  charge stands: MFT folds reciprocity into fairness, and no MFQ item, in
+  either version, asks about returning a favour.
