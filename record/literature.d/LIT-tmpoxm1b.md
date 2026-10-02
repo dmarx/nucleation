@@ -1,0 +1,144 @@
+---
+status: 'Active'
+status_note: 'read in full 2026-10-02 ([NOTE-tmpj7u7y](../notes.d/NOTE-tmpj7u7y.md)); worth reading as the short, charitable reconstruction of Dennett''s theory of consciousness that ties it to "Real Patterns" ([LIT-220](LIT-220.md)): consciousness is a real pattern in the brain''s content-bearing states (drafts), of the coarse, metaphorical kind Dennett calls a user-illusion. It reconciles six claims, including multiple drafts with global workspace theory and fallibility with "dictatorial" authority. It is an interpretation offered as consistent, not as correct or as Dennett''s own, and its key step on metacontrast masking is a plausibility argument.'
+title: "Consciousness interpreted: an interpretation of Dennett's view of consciousness"
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full (the version of record, CC BY 4.0, as deposited in the
+    University of Birmingham's repository, research.birmingham.ac.uk
+    publication 114e46e9-13a0-48ee-94ab-06905eb7b67f, file
+    pure-oai.bham.ac.uk/ws/files/251717048; its cover sheet says
+    "Publisher's PDF, also known as Version of record"; 21 pp. including
+    the repository and Taylor & Francis cover pages; text extracted with
+    PyMuPDF). I read the abstract, all sections, notes 1–10 and the
+    references. The PDF carries the online-first pagination (1–19);
+    the issue pages were not seen. Citation checked on Crossref: DOI
+    10.1080/09515089.2024.2433526, Philosophical Psychology 39(3),
+    828–846, online 29 November 2024, issue dated 3 April 2026, CC BY
+    4.0. The publisher's site returned HTTP 403. Not held in the
+    Anthology of the SOTA (grep of its literature.d for Taylor, Dennett
+    and the title: none).
+tags:
+- consciousness
+- metaphysics
+- cognition
+date: '2026-10-02'
+published: '2024-11-29'
+doi: '10.1080/09515089.2024.2433526'
+first_author: 'Taylor'
+keywords:
+- 'Dennett'
+- 'consciousness'
+- 'multiple drafts'
+- 'qualia'
+- 'global workspace theory'
+- 'user-illusion'
+- 'real patterns'
+implementations: []
+summary: >-
+  Taylor (2024), DOI-10.1080/09515089.2024.2433526. Interprets Dennett's
+  theory of consciousness as realism about a real pattern. Consciousness
+  is a real pattern in the brain's content-bearing states (drafts), and a
+  user-illusion: a pattern so coarse that describing the brain through it
+  is metaphor. On that reading multiple drafts and global workspace theory
+  are compatible, qualia eliminativism is peripheral, the Orwellian and
+  Stalinesque readings of masking are equally good descriptions, and
+  first-person reports are fallible as literal descriptions of the brain
+  but authoritative as unwitting fictions.
+---
+<!-- inactive-ok-file: LIT-443 LIT-424 — Deferred: Consciousness Explained and From Bacteria to Bach and Back, the two Dennett books the paper interprets, named as its sources, not leaned on -->
+<!-- inactive-ok-file: LIT-434 — Deferred, no readable full text; named for Dennett's adoption of "illusionism", not leaned on -->
+<!-- inactive-ok-file: LIT-430 LIT-301 — Deferred: The Intentional Stance and Every Thing Must Go, named as works the paper cites, not leaned on -->
+<!-- inactive-ok-file: THEORY-043 — Proposed; named as the account the paper may bear on, not leaned on -->
+
+# LIT-tmpoxm1b: Consciousness interpreted: an interpretation of Dennett's view of consciousness
+
+Henry Taylor (2024), *Philosophical Psychology* 39(3), 828–846 (2026
+issue; online 29 November 2024), in a collection dedicated to Dennett's
+work — DOI-10.1080/09515089.2024.2433526. Open access (CC BY 4.0), also in
+the University of Birmingham repository.
+
+## Key takeaways
+
+- **Six claims to reconcile** (Box 1): multiple drafts; global workspace
+  theory; qualia eliminativism; consciousness as a user-illusion; no
+  proposition about one's own experience is immune to error; subjects
+  have "total, dictatorial" authority over how it seems to them.
+- **Consciousness is a real pattern** (after [LIT-220](LIT-220.md)) in the brain's
+  drafts. That explains the denial of a Cartesian theatre (a pattern is
+  not a place) and why whether a draft is conscious is "an open
+  question" (it depends on the draft's relations to others).
+- **Orwell vs Stalin without verificationism.** If consciousness is a
+  real pattern, a fact about it must be a fact about which description
+  better compresses and predicts. Since, as Dennett describes them, the
+  two readings of metacontrast masking compress equally and predict the
+  same, neither is "the" correct one.
+- **GWT is compatible** with multiple drafts, because a distributed
+  model of working memory does not "send" information anywhere.
+- **Qualia eliminativism is peripheral**: an attack on one picture of
+  consciousness, not a tenet of Dennett's positive view.
+- **User-illusion = coarse real pattern.** So coarse that it lapses into
+  metaphor. Reports are therefore fallible as literal descriptions of the
+  brain but authoritative as an author is over a fiction.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, from a text an earlier
+reading fetched while filing Dennett. [NOTE-tmpj7u7y](../notes.d/NOTE-tmpj7u7y.md) is the close reading
+of the same day, and it placed the work: **Active**.
+
+**How it relates to the Dennett works filed.**
+
+- **"Real Patterns"** ([LIT-220](LIT-220.md), read in [NOTE-190](../notes.d/NOTE-190.md)) is the paper's
+  foundation. Taylor uses its three features: the trade-off of
+  compression against accuracy, several patterns in one system, and
+  patterns that exist whether or not anyone describes them. The paper
+  applies to consciousness what "Real Patterns" and *The Intentional
+  Stance* ([LIT-430](LIT-430.md)) applied to belief.
+- **"Quining Qualia"** ([LIT-433](LIT-433.md), [NOTE-357](../notes.d/NOTE-357.md)) is cited for the marks that
+  define qualia, and Taylor reads it as a negative thesis only.
+- **"Time and the Observer"** ([LIT-431](LIT-431.md), [NOTE-367](../notes.d/NOTE-367.md)) is the source of the
+  masking and timing cases, and of the "micro-takings" name for drafts.
+- **The self as a "centre of narrative gravity"** is named as Dennett's
+  answer to the worry that a user-illusion needs a user. Taylor cites it
+  from CE ch. 13 and the 2017 book, not from the 1992 paper the record
+  holds ([LIT-442](LIT-442.md), [NOTE-364](../notes.d/NOTE-364.md)), and does not develop it.
+- ***Consciousness Explained*** ([LIT-443](LIT-443.md)) and ***From Bacteria to Bach and
+  Back*** ([LIT-424](LIT-424.md)) are the books interpreted; both are filed unread, so
+  Taylor's quotations from them are the record's only access to those
+  passages. The CE appendix line he builds on is "Are pains real? They
+  are as real as haircuts and dollars and opportunities and persons and
+  centers of gravity" (CE p. 460).
+- **"Reply to Professor Stich"** ([LIT-tmpjt24r](LIT-tmpjt24r.md), [NOTE-tmp2q5sj](../notes.d/NOTE-tmp2q5sj.md)) is not
+  cited. It is the 1980 statement of the puzzle this paper solves for
+  1991: "there are no such things as pains, although of course people do
+  feel pain". Its option (C) already compares pain to voices, holes and
+  haircuts, the analogy of the CE line Taylor quotes. Stich's charge of
+  "prima facie contradiction" is Block's 1993 charge, which Taylor
+  answers.
+- **Frankish's "Illusionism as a Theory of Consciousness"**
+  ([LIT-tmpl6if3](LIT-tmpl6if3.md), [NOTE-tmprtlbn](../notes.d/NOTE-tmprtlbn.md)) and Dennett's reply to it ([LIT-434](LIT-434.md),
+  unread) are not cited. Taylor never uses the word "illusionism". His
+  reading, on which the qualia attack is peripheral and consciousness is
+  a real pattern with "mild" realism, is in tension with Frankish's,
+  which counts Dennett as strong illusionism's leading defender, and with
+  Dennett's 2016 adoption of the label. The two can be reconciled only if
+  Taylor's "consciousness" is Frankish's inclusive sense, with
+  phenomenality excluded; Taylor does not say so.
+- **Ladyman and Ross** ([LIT-301](LIT-301.md), unread) are cited for the "rainforest
+  realism" chapter, as an example of real patterns' influence.
+
+**On the society-of-mind bridge ([THEORY-043](../theory.d/THEORY-043.md)).** Not about groups. One
+point bears on it. If consciousness is a real pattern, whether a system
+has it is a question of which description of the system best trades
+compression against prediction. That is a criterion that does not care
+whether the parts are neurons or people, like the intentional stance
+[THEORY-043](../theory.d/THEORY-043.md) already discusses. The paper does not apply it to groups, and
+it does not say how a pattern counts as *conscious* rather than merely
+real, which is the question [THEORY-043](../theory.d/THEORY-043.md) asks.
+
+It carries no instruction for machine-learning practice, and it does not
+belong in the anthology.
