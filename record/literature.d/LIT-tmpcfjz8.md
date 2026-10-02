@@ -59,7 +59,6 @@ summary: >-
   production, and a cycle-based theory of efficiency at maximum power for
   molecular machines.
 ---
-<!-- source-ok-file: 1205.4176 — the arXiv version is titled "Stochastic thermodynamics, fluctuation theorems, and molecular machines" (serial comma); the published title, recorded here, has none -->
 <!-- inactive-ok-file: THEORY-026 — Proposed; named as the account this reading bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-030 — Proposed; named as the account this reading bears on, not leaned on -->
 
