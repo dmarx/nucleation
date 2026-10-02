@@ -1,0 +1,128 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-02 from the publisher''s description and a library catalogue''s contents note, not read: no lawful full text of the book could be reached. The Internet Archive scans are lending-only (access-restricted, printdisabled), the MIT Press page and loc.gov were blocked, and the Tufts Digital Library holds earlier versions of several chapters as papers but not the book. Its chapter 2 is True Believers ([LIT-tmp45885](LIT-tmp45885.md)), read in full in its 1997 reprint, which is the revised book text. It stays Deferred until a copy is supplied.'
+title: 'The Intentional Stance'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Registered, not read. Citation checked against Open Library's record of
+    the first edition (MIT Press, Cambridge, Mass., 1987; xi, 388 pp.;
+    ISBN 0-262-04093-X; LC class B105.I56 D46 1987; bibliography pp.
+    [351]–371; source records include the Library of Congress MARC file;
+    LCCN 87003018) and the University of Wisconsin–Madison catalogue record
+    (MIT Press, [1987], ©1987; xi, 388 pages; contents note). The publisher's
+    description is from Penguin Random House's page for the MIT Press
+    paperback (ISBN 978-0-262-54053-7, published 6 March 1989). Crossref
+    has no DOI for the book; it lists reviews only. Not held in the
+    Anthology of the SOTA (a grep of its literature.d for "Dennett" and the
+    title found nothing).
+tags:
+- cognition
+- epistemology
+- metaphysics
+- philosophy-of-science
+- agency
+- philosophy-of-language
+date: '2026-10-02'
+published: '1987-01-01'
+url: 'https://lccn.loc.gov/87003018'
+first_author: 'Dennett'
+keywords:
+- 'intentional stance'
+- 'folk psychology'
+- 'belief'
+- 'intentionality'
+- 'instrumentalism'
+- 'real patterns'
+- 'cognitive ethology'
+implementations: []
+summary: >-
+  Dennett (1987), MIT Press. Per its publisher, the "first full-scale
+  presentation of a theory of intentionality" Dennett had been developing
+  for almost twenty years: we understand each other by adopting a stance,
+  "a predictive strategy of interpretation that presupposes the
+  rationality" of whatever we predict. Six chapters reprint papers of the
+  1980s, each followed by a new "Reflections" essay; the first and the last
+  three chapters are new. Chapter 2 is True Believers ([LIT-tmp45885](LIT-tmp45885.md)). Unread:
+  registered from the description and a catalogue's contents note.
+---
+<!-- inactive-ok-file: THEORY-tmp31lxe THEORY-023 — Proposed; named as accounts the book may bear on, not leaned on -->
+
+# LIT-tmpquosh: The Intentional Stance
+
+Daniel C. Dennett (1987), *The Intentional Stance*, Cambridge, Mass.: MIT
+Press, "A Bradford book" (1st ed., ISBN 0-262-04093-X; Library of Congress
+87003018, LC class B105.I56 D46 1987; xi, 388 pp.; bibliography pp.
+[351]–371; index). Paperback 1989 (ISBN 978-0-262-54053-7). The catalogue
+records give only the year 1987, so `published:` carries the year, as the
+first of January. The brief's citation (1987, MIT Press) is right.
+
+## Key takeaways
+
+*Registered from the publisher's description and a catalogue record, not a
+reading.*
+
+- **The publisher's description** (for the paperback): "How are we able to
+  understand and anticipate each other in everyday life, in our daily
+  interactions? Through the use of such 'folk' concepts as belief, desire,
+  intention, and expectation, asserts Daniel Dennett in this first
+  full-scale presentation of a theory of intentionality that he has been
+  developing for almost twenty years. We adopt a stance, he argues, a
+  predictive strategy of interpretation that presupposes the rationality
+  of the people—or other entities—we are hoping to understand and
+  predict." It adds that "four of the book's ten chapters—its first and
+  the final three—appear here for the first time", that the other six
+  "were published earlier in the 1980s", and that "each is followed by a
+  reflection—an essay reconsidering and extending the claims of the
+  earlier work".
+- **Contents** (University of Wisconsin–Madison catalogue): "1. Setting
+  off on the right foot -- 2. True believers -- Reflections: Real patterns,
+  deeper facts, and empty questions -- 3. Three kinds of intentional
+  psychology -- Reflections: instrumentalism reconsidered -- 4. Making
+  sense of ourselves -- Reflections: When frogs (and others) make mistakes
+  -- 5. Beyond Belief -- Reflections: About Aboutness -- Styles of mental
+  representation -- Reflections: the language of thought reconsidered --
+  7. Intentional systems in cognitive ethology: the 'Panglossian Paradigm'
+  defended -- Reflections: interpreting monkeys, theorists, and genes --
+  8. Evolution, error, and intentionality -- 9. Fast thinking -- 10.
+  Mid-term examination: compare and contrast". (The record omits the
+  number of chapter 6.)
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request for Dennett, as the book that
+collects the line running from "Intentional Systems" ([LIT-tmpt1t9z](LIT-tmpt1t9z.md), read)
+through True Believers ([LIT-tmp45885](LIT-tmp45885.md), read: its chapter 2, in the revised
+text) to "Real Patterns" ([LIT-220](LIT-220.md), read), whose title the reflection after
+chapter 2 anticipates. The record already cites the book at second hand:
+Levin ([LIT-tmpsygq0](LIT-tmpsygq0.md)) takes the stance's rule for choosing a level of
+description from it, and Roberts ([LIT-207](LIT-207.md), read in [NOTE-157](../notes.d/NOTE-157.md)) argues, citing
+its p. 49, that the stance "does not go far enough" for chatbots.
+
+What a reading would add for this record:
+
+- **The reflections**, which are the book's new thinking on the reprinted
+  papers. "Real patterns, deeper facts, and empty questions" and
+  "Instrumentalism reconsidered" are where Dennett says how realist the
+  stance is; that bears on whether a group-level stance ([THEORY-tmp31lxe](../theory.d/THEORY-tmp31lxe.md))
+  picks out something real or something convenient.
+- **Chapter 7 and its reflection** apply the stance to monkeys and to genes,
+  the nearest the book comes, by its contents, to applying it to something
+  other than an individual organism or machine. Whether it says anything
+  about groups of people is not known from the contents.
+- **Chapter 8**, "Evolution, error, and intentionality", is new in the book
+  and is the natural place for its account of how content can be
+  indeterminate.
+
+Earlier versions of several chapters are on the Tufts Digital Library as
+papers ("Three Kinds of Intentional Psychology", "Styles of Mental
+Representation", "Intentional Systems in Cognitive Ethology: the
+'Panglossian Paradigm' Defended"), and Dennett's "Précis of *The
+Intentional Stance*" (Behavioral and Brain Sciences 11(3), September 1988, pp.
+495–505) is a summary by the author. None of those is the book, and this
+entry is not reconstructed from them.
+
+It carries no instruction for machine-learning practice, and the anthology
+does not hold it.
