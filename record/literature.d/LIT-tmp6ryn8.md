@@ -1,0 +1,113 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-02 from the publisher''s abstract, the Library of Congress record and the chapter list on Crossref, not read: no lawful full text could be reached. Oxford Academic is subscription-only, the Internet Archive copy is lending-only, and no author copy is posted. It stays Deferred until a copy is supplied, not on merit.'
+title: 'The Human Animal: Personal Identity Without Psychology'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Registered, not read. Details checked against the Library of Congress
+    record (LCCN 96007018: New York, Oxford University Press, 1997; x, 189
+    pp.; references pp. 179–185; call number BD450 .O46 1997) and Crossref
+    (DOI 10.1093/0195134230.001.0001, the 1999 paperback, ISBN
+    0-19-513423-0, on Oxford Academic from 1 November 2003, with its
+    abstract and eight chapter DOIs). The DOI belongs to the paperback, as
+    the only edition with one; the book first appeared in 1997, the year
+    `published:` carries. Not held in the Anthology of the SOTA: a grep of
+    its literature.d for the title and "Olson" found nothing.
+tags:
+- self-and-personhood
+- individuation
+- metaphysics
+date: '2026-10-02'
+published: '1997-01-01'
+doi: '10.1093/0195134230.001.0001'
+first_author: 'Olson'
+keywords:
+- 'animalism'
+- 'personal identity'
+- 'biological approach'
+- 'psychological approach'
+- 'fetus problem'
+- 'brain transplant'
+- 'persistence'
+implementations: []
+summary: >-
+  Olson (1997), Oxford University Press. The book-length case for
+  animalism. Per its abstract, "our identity over time involves no
+  psychological facts": psychological accounts "lead to grave metaphysical
+  problems", the arguments for them are inconclusive, and since we are
+  animals we have "the purely biological identity conditions of animals".
+  Its chapters run from psychology and personal identity through
+  persistence, the case against the psychological approach, whether I was
+  ever a fetus and whether people are animals, to the biological approach
+  and alternatives. Unread: registered from the abstract and the contents.
+---
+<!-- inactive-ok-file: LIT-tmpxa6sf — Deferred, no lawful full text; named as the opposing book in the same batch, not leaned on -->
+
+# LIT-tmp6ryn8: The Human Animal: Personal Identity Without Psychology
+
+Eric T. Olson (1997), *The Human Animal: Personal Identity Without
+Psychology*, New York: Oxford University Press (Library of
+Congress 96007018; x, 189 pp.). Paperback 1999 (ISBN
+0-19-513423-0), on Oxford Academic as DOI 10.1093/0195134230.001.0001.
+
+**On the citation.** The brief's details are right: author, title,
+subtitle, publisher and 1997. The DOI is the 1999 paperback's, since the
+1997 hardback has none; the pagination Crossref gives for the chapters
+(text to p. 168) matches the Library of Congress extent, so the editions
+appear to share it.
+
+## Key takeaways
+
+*Registered from the publisher's abstract, the catalogue record and the
+chapter list, not a reading.*
+
+- The abstract, verbatim: "This book argues that our identity over time
+  involves no psychological facts. Psychological accounts of personal
+  identity lead to grave metaphysical problems, and the arguments for them
+  are inconclusive. The book argues that we are animals, and thus have the
+  purely biological identity conditions of animals."
+- Contents (Crossref chapter DOIs, with pages): Introduction (3–6);
+  Psychology and Personal Identity (7–21); Persistence (22–41); Why We
+  Need not Accept the Psychological Approach (42–72); Was I Ever a Fetus?
+  (73–93); Are People Animals? (94–123); The Biological Approach
+  (124–153); Alternatives (154–168).
+- Library of Congress subject headings: animals (philosophy);
+  philosophical anthropology; self (philosophy).
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request to fill out the record's
+coverage of personal identity, as the founding statement of animalism. Its
+author's SEP entry ([LIT-tmpi8mte](LIT-tmpi8mte.md)), read in full, compresses its argument
+in §§6–7 and cites it for the claim that a person-to-person memory
+criterion says nothing about non-persons ("Olson 1997: 22–26"). Dufner's
+survey ([LIT-130](LIT-130.md)) names it as the primary source for the biological view.
+No anthology topic holds it, it carries no instruction for
+machine-learning practice, and the anthology does not hold it.
+
+`Deferred` because it was not read. What it bears on, inferred from the
+abstract, the contents and the SEP entry, not from the book:
+
+- **Against the narrative and minimal selves.** "Personal identity without
+  psychology" is the opposite pole from Schechtman's narrative
+  self-constitution ([LIT-tmpxa6sf](LIT-tmpxa6sf.md)) and from Dennett's self as a centre of
+  narrative gravity ([LIT-442](LIT-442.md)). The SEP entry's way of reconciling them is
+  to say they answer different questions: theirs is characterization,
+  Olson's is persistence.
+- **Machines.** On the SEP entry's account, animalism is about human
+  people and is consistent with "intelligent robots" being people. So the
+  book does not by itself deny machine personhood. It denies that
+  psychological continuity is what human persistence consists in, which
+  is the relation uploads and copies would rely on.
+- `individuation` is carried because the book's question, what it takes
+  for something to persist, is asked of organisms in general before it is
+  asked of us.
+
+Access when seeded: Crossref (abstract, ISBN, chapter list); the Library of
+Congress JSON record; Open Library (edition list, Internet Archive copy
+"borrowable" only, so not opened). The Oxford Academic page returned HTTP
+403 to this session. Google Books' API refused for an exhausted daily
+quota.

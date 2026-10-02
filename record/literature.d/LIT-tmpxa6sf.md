@@ -1,0 +1,132 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-02 from the publisher''s description, the Library of Congress record and the chapter list on Crossref, not read: no lawful full text could be reached. The Cornell/De Gruyter eBook is sold, not open, and the Internet Archive copy is for print-disabled users only. It stays Deferred until a copy is supplied, not on merit.'
+title: 'The Constitution of Selves'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Registered, not read. Details checked against the Library of Congress
+    record (LCCN 96016537: Ithaca, NY, Cornell University Press, 1996; xi,
+    169 pp.; bibliography pp. 163–164; call number BC199.I4 S33 1996) and
+    Crossref (DOI 10.7591/9781501718380, the Cornell eBook, with chapter
+    DOIs and pages). Crossref dates the DOI record 2007, the paperback's
+    year; the book first appeared in 1996, the year `published:` carries.
+    Not held in the Anthology of the SOTA: a grep of its literature.d for
+    the title and "Schechtman" found nothing.
+tags:
+- self-and-personhood
+- metaphysics
+- ethics
+date: '2026-10-02'
+published: '1996-01-01'
+doi: '10.7591/9781501718380'
+first_author: 'Schechtman'
+keywords:
+- 'narrative self-constitution'
+- 'characterization question'
+- 'reidentification question'
+- 'personal identity'
+- 'psychological continuity'
+- 'self-narrative'
+implementations: []
+summary: >-
+  Schechtman (1996), Cornell University Press. Separates the
+  reidentification question (is this the same person?) from the
+  characterization question (which actions, experiences and traits are
+  this person's own?), and argues against analytic philosophy's attention
+  to the first at the expense of the second. Chapters 1–3 take up
+  reidentification; chapters 4–6 give the narrative self-constitution
+  view, on which, as Strawson quotes it, a person "creates his identity
+  [only] by forming an autobiographical narrative". The source of the term
+  "characterization question" in the SEP map. Unread: registered from the
+  description and the contents.
+---
+<!-- inactive-ok-file: LIT-tmp6ryn8 — Deferred, no lawful full text; named as the opposing book in the same batch, not leaned on -->
+
+# LIT-tmpxa6sf: The Constitution of Selves
+
+Marya Schechtman (1996), *The Constitution of Selves*, Ithaca, NY: Cornell
+University Press (Library of Congress 96016537; xi, 169 pp.). Paperback
+2007; eBook as DOI 10.7591/9781501718380.
+
+**On the citation.** The brief's details are right: author, title,
+publisher, 1996. Strawson's "Against Narrativity" ([LIT-tmp91ct9](LIT-tmp91ct9.md)) cites the
+book as 1997 throughout; the catalogue record gives 1996. The DOI is the
+eBook's, the only edition with one.
+
+## Key takeaways
+
+*Registered from the publisher's description, the catalogue record, the
+chapter list, and what two works read in this batch quote from it, not a
+reading.*
+
+- The publisher's description, verbatim as far as this session could see
+  it (the page served it truncated): "An amnesia victim asking 'Who am I?'
+  means something different from a confused adolescent asking the same
+  question. Marya Schechtman takes issue with analytic philosophy's
+  emphasis on the first sort of question to the exclusion of the second."
+- Contents (Crossref chapter DOIs, with pages): Preface (ix–xiv);
+  Introduction (1–4); 1. The Reidentification Question (7–25); 2. The
+  Problems of Logical Form (26–50); 3. The Extreme Claim (51–66);
+  Conclusion (67–70); 4. The Characterization Question (73–92); 5. The
+  Narrative Self-Constitution View (93–135); 6. Characterization and the
+  Four Features (136–162); Selected Bibliography (163–164); Index
+  (165–173). The Conclusion at pp. 67–70 closes a first part on
+  reidentification, before chapter 4 opens a second.
+- Library of Congress subject headings: identity (philosophical concept);
+  individuality; self; self-knowledge, theory of.
+- Quoted by Strawson ([LIT-tmp91ct9](LIT-tmp91ct9.md)), with his page references: a person
+  "creates his identity [only] by forming an autobiographical narrative –
+  a story of his life" (p. 93); one must have a full and "explicit
+  narrative [of one's life] to develop fully as a person" (p. 119);
+  "constituting an identity requires that an individual conceive of his
+  life as having the form and the logic of a story ... where 'story' is
+  understood as a conventional, linear narrative" (p. 96). Strawson calls
+  p. 96 "a strong expression of her view, which has usefully weaker
+  forms (cf. e.g. pp. 117, 159)".
+- The SEP map ([LIT-tmpi8mte](LIT-tmpi8mte.md)) takes the term "characterization question"
+  from the book's first page.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request to fill out the record's
+coverage of selfhood, as the founding statement of the narrative
+self-constitution view. Dufner's survey ([LIT-130](LIT-130.md)) lists it among its
+primary sources and, as [NOTE-166](../notes.d/NOTE-166.md) reads it, places the characterization
+question among the "methodological alternatives" of its §10. No anthology
+topic holds it, it carries no instruction for machine-learning practice,
+and the anthology does not hold it.
+
+`Deferred` because it was not read. Where it bears on the record, inferred
+from the description, the contents and two readings in this batch, not from
+the book:
+
+- **Against Olson** ([LIT-tmp6ryn8](LIT-tmp6ryn8.md)). The two books of the same year take the
+  opposite sides of the SEP's split: Olson answers persistence with no
+  psychology, Schechtman says persistence is the wrong first question. The
+  SEP entry's reconciliation, that they answer different questions, is
+  exactly what Schechtman's first part disputes.
+- **Dennett's narrative self** ([LIT-442](LIT-442.md)). Both make narrative constitutive
+  of the self. Strawson classes Schechtman's view as requiring diachronic
+  self-experience, form-finding and story-telling but not revision, where
+  Dennett's includes revision. On Strawson's reading the difference is
+  that her self-narrative must be essentially accurate, and Dennett's
+  self is a fiction.
+- **Against Narrativity** ([LIT-tmp91ct9](LIT-tmp91ct9.md), read in full) is the best-known
+  attack on it, and Strawson concludes that on her strong form he is "not
+  really a person".
+- **Agency over one's own life.** "Characterization", what is attributable
+  to me, is the question Frankfurt's identification ([LIT-293](LIT-293.md)) and
+  Velleman's critique of it ([LIT-292](LIT-292.md)) also ask, from the side of the will.
+  The pairing is mine. `ethics` is carried because Strawson reads the book
+  as "twisting the ethical and the psychological Narrativity theses
+  tightly together": narrative is how one develops "fully as a person".
+  What the "four features" of chapter 6 are, I could not see.
+
+Access when seeded: Crossref (chapter list); the Library of Congress JSON
+record; Cornell University Press's product page (description, served
+truncated); Open Library (Internet Archive copy for print-disabled users
+only, so not opened). The De Gruyter and JSTOR pages did not load in this
+session. Google Books' API refused for an exhausted daily quota.
