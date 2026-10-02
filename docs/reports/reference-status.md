@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**133 documents cited without acknowledgement.** Not listed: 953 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**137 documents cited without acknowledgement.** Not listed: 1107 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1073,6 +1073,15 @@ Spectral Networks and Betti Lagrangians
 - [`record/notes.d/NOTE-293.md:167`](../../record/notes.d/NOTE-293.md)
 - [`record/notes.d/NOTE-293.md:170`](../../record/notes.d/NOTE-293.md)
 
+### [LIT-047](../../record/literature.d/LIT-047.md) — Proposed
+
+Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies
+
+2 citations in 1 file await a look; 85 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-018.md:22`](../../record/decisions.d/ADR-018.md)
+- [`record/decisions.d/ADR-018.md:50`](../../record/decisions.d/ADR-018.md)
+
 ### [LIT-064](../../record/literature.d/LIT-064.md) — Superseded
 
 Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets
@@ -1189,6 +1198,15 @@ Anger makes fake news viral online
 
 - [`record/decisions.d/ADR-014.md:30`](../../record/decisions.d/ADR-014.md)
 - [`record/decisions.d/ADR-014.md:48`](../../record/decisions.d/ADR-014.md)
+
+### [LIT-493](../../record/literature.d/LIT-493.md) — Deferred
+
+The Grammar of Society: The Nature and Dynamics of Social Norms
+
+2 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-018.md:53`](../../record/decisions.d/ADR-018.md)
+- [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
 
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
 
@@ -1530,6 +1548,14 @@ Subjectivity and Selfhood: Investigating the First-Person Perspective
 
 - [`record/decisions.d/ADR-016.md:55`](../../record/decisions.d/ADR-016.md)
 
+### [LIT-473](../../record/literature.d/LIT-473.md) — Deferred
+
+Convention: A Philosophical Study
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
+
 ### [LIT-483](../../record/literature.d/LIT-483.md) — Deferred
 
 Groups as Agents
@@ -1537,6 +1563,14 @@ Groups as Agents
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-043.md:280`](../../record/theory.d/THEORY-043.md)
+
+### [LIT-503](../../record/literature.d/LIT-503.md) — Proposed
+
+Morality as Cooperation: A Problem-Centred Approach
+
+1 citation in 1 file awaits a look; 24 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-019.md:54`](../../record/decisions.d/ADR-019.md)
 
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 

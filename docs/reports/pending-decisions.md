@@ -5,20 +5,20 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**197 document(s) awaiting a decision.**
+**205 document(s) awaiting a decision.**
 
 ## LITs
 
-166 of the 197.
+174 of the 205.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
+| 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 87 | 2 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
 | 2026-09-25 | Proposed | [LIT-005](../../record/literature.d/LIT-005.md) | 37 | 1 | Adding causality to the information-theoretic perspective on individuality |
 | 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 31 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 17 | 0 | The Computational Foundations of Collective Intelligence |
 | 2026-09-25 | Proposed | [LIT-031](../../record/literature.d/LIT-031.md) | 9 | 0 | Moving away from lexicalism in psycho- and neuro-linguistics |
 | 2026-09-25 | Proposed | [LIT-017](../../record/literature.d/LIT-017.md) | 4 | 2 | Spectral Networks and Betti Lagrangians |
-| 2026-09-25 | Proposed | [LIT-047](../../record/literature.d/LIT-047.md) | 3 | 0 | Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Societies |
 | 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 3 | 1 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-079](../../record/literature.d/LIT-079.md) | 2 | 1 | Causal Claims in Economics |
 | 2026-09-25 | Proposed | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
@@ -145,15 +145,18 @@
 | 2026-10-01 | Deferred | [LIT-386](../../record/literature.d/LIT-386.md) | 0 | 0 | Homeostasis and soft robotics in the design of feeling machines |
 | 2026-10-01 | Deferred | [LIT-417](../../record/literature.d/LIT-417.md) | 0 | 0 | Epilogue: Analogy as the Core of Cognition |
 | 2026-10-01 | Deferred | [LIT-420](../../record/literature.d/LIT-420.md) | 0 | 0 | Surfaces and Essences: Analogy as the Fuel and Fire of Thinking |
+| 2026-10-02 | Proposed | [LIT-503](../../record/literature.d/LIT-503.md) | 25 | 1 | Morality as Cooperation: A Problem-Centred Approach |
 | 2026-10-02 | Deferred | [LIT-393](../../record/literature.d/LIT-393.md) | 20 | 0 | Artificial Intelligence as Philosophy and as Psychology |
 | 2026-10-02 | Deferred | [LIT-391](../../record/literature.d/LIT-391.md) | 19 | 1 | Group Agency: The Possibility, Design, and Status of Corporate Agents |
+| 2026-10-02 | Proposed | [LIT-496](../../record/literature.d/LIT-496.md) | 18 | 0 | Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation’ with a new questionnaire |
 | 2026-10-02 | Deferred | [LIT-413](../../record/literature.d/LIT-413.md) | 11 | 1 | The Mind's I: Fantasies and Reflections on Self and Soul |
 | 2026-10-02 | Deferred | [LIT-490](../../record/literature.d/LIT-490.md) | 10 | 0 | Collective Intentions and Actions |
 | 2026-10-02 | Deferred | [LIT-434](../../record/literature.d/LIT-434.md) | 9 | 0 | Illusionism as the Obvious Default Theory of Consciousness |
+| 2026-10-02 | Deferred | [LIT-473](../../record/literature.d/LIT-473.md) | 9 | 1 | Convention: A Philosophical Study |
+| 2026-10-02 | Deferred | [LIT-477](../../record/literature.d/LIT-477.md) | 8 | 0 | Walking Together: A Paradigmatic Social Phenomenon |
 | 2026-10-02 | Deferred | [LIT-485](../../record/literature.d/LIT-485.md) | 8 | 0 | The Construction of Social Reality |
 | 2026-10-02 | Deferred | [LIT-396](../../record/literature.d/LIT-396.md) | 7 | 0 | Psychological Predicates |
-| 2026-10-02 | Deferred | [LIT-473](../../record/literature.d/LIT-473.md) | 7 | 0 | Convention: A Philosophical Study |
-| 2026-10-02 | Deferred | [LIT-477](../../record/literature.d/LIT-477.md) | 7 | 0 | Walking Together: A Paradigmatic Social Phenomenon |
+| 2026-10-02 | Deferred | [LIT-494](../../record/literature.d/LIT-494.md) | 7 | 0 | The Theory of Dyadic Morality: Reinventing Moral Judgment by Redefining Harm |
 | 2026-10-02 | Deferred | [LIT-426](../../record/literature.d/LIT-426.md) | 6 | 1 | Macrocognition: A Theory of Distributed Minds and Collective Intentionality |
 | 2026-10-02 | Deferred | [LIT-443](../../record/literature.d/LIT-443.md) | 6 | 1 | Consciousness Explained |
 | 2026-10-02 | Deferred | [LIT-468](../../record/literature.d/LIT-468.md) | 6 | 0 | The Constitution of Selves |
@@ -161,28 +164,33 @@
 | 2026-10-02 | Deferred | [LIT-478](../../record/literature.d/LIT-478.md) | 6 | 0 | The Ant Trap: Rebuilding the Foundations of the Social Sciences |
 | 2026-10-02 | Deferred | [LIT-488](../../record/literature.d/LIT-488.md) | 6 | 0 | Shared Agency: A Planning Theory of Acting Together |
 | 2026-10-02 | Deferred | [LIT-491](../../record/literature.d/LIT-491.md) | 6 | 0 | Categories We Live By: The Construction of Sex, Gender, Race, and Other Social Categories |
+| 2026-10-02 | Deferred | [LIT-493](../../record/literature.d/LIT-493.md) | 6 | 2 | The Grammar of Society: The Nature and Dynamics of Social Norms |
+| 2026-10-02 | Deferred | [LIT-495](../../record/literature.d/LIT-495.md) | 6 | 0 | The Biology of Moral Systems |
+| 2026-10-02 | Proposed | [LIT-509](../../record/literature.d/LIT-509.md) | 6 | 0 | Moral Molecules: Morality as a Combinatorial System |
 | 2026-10-02 | Deferred | [LIT-441](../../record/literature.d/LIT-441.md) | 5 | 0 | The Conscious Mind: In Search of a Fundamental Theory |
 | 2026-10-02 | Deferred | [LIT-471](../../record/literature.d/LIT-471.md) | 5 | 0 | Shared Cooperative Activity |
+| 2026-10-02 | Proposed | [LIT-512](../../record/literature.d/LIT-512.md) | 5 | 0 | Moral universals: A machine-reading analysis of 256 societies |
 | 2026-10-02 | Deferred | [LIT-430](../../record/literature.d/LIT-430.md) | 4 | 0 | The Intentional Stance |
 | 2026-10-02 | Deferred | [LIT-467](../../record/literature.d/LIT-467.md) | 4 | 0 | Being No One: The Self-Model Theory of Subjectivity |
-| 2026-10-02 | Deferred | [LIT-493](../../record/literature.d/LIT-493.md) | 4 | 0 | The Grammar of Society: The Nature and Dynamics of Social Norms |
 | 2026-10-02 | Deferred | [LIT-412](../../record/literature.d/LIT-412.md) | 3 | 0 | Supersizing the Mind: Embodiment, Action, and Cognitive Extension |
 | 2026-10-02 | Deferred | [LIT-419](../../record/literature.d/LIT-419.md) | 3 | 0 | Form, Function, and Feel |
 | 2026-10-02 | Deferred | [LIT-448](../../record/literature.d/LIT-448.md) | 3 | 0 | The Human Animal: Personal Identity Without Psychology |
 | 2026-10-02 | Deferred | [LIT-476](../../record/literature.d/LIT-476.md) | 3 | 0 | We-Intentions |
+| 2026-10-02 | Deferred | [LIT-492](../../record/literature.d/LIT-492.md) | 3 | 0 | On Social Facts |
 | 2026-10-02 | Deferred | [LIT-463](../../record/literature.d/LIT-463.md) | 2 | 1 | Subjectivity and Selfhood: Investigating the First-Person Perspective |
 | 2026-10-02 | Deferred | [LIT-483](../../record/literature.d/LIT-483.md) | 2 | 1 | Groups as Agents |
-| 2026-10-02 | Deferred | [LIT-492](../../record/literature.d/LIT-492.md) | 2 | 0 | On Social Facts |
+| 2026-10-02 | Deferred | [LIT-514](../../record/literature.d/LIT-514.md) | 2 | 0 | Moral Origins: The Evolution of Virtue, Altruism, and Shame |
 | 2026-10-02 | Deferred | [LIT-424](../../record/literature.d/LIT-424.md) | 1 | 0 | From Bacteria to Bach and Back: The Evolution of Minds |
 | 2026-10-02 | Deferred | [LIT-474](../../record/literature.d/LIT-474.md) | 1 | 0 | The Social Construction of Reality: A Treatise in the Sociology of Knowledge |
 | 2026-10-02 | Deferred | [LIT-475](../../record/literature.d/LIT-475.md) | 1 | 0 | The Social Construction of What? |
+| 2026-10-02 | Deferred | [LIT-504](../../record/literature.d/LIT-504.md) | 1 | 0 | A Natural History of Human Morality |
 | 2026-10-02 | Deferred | [LIT-449](../../record/literature.d/LIT-449.md) | 0 | 0 | What we talk to when we talk to language models |
 | 2026-10-02 | Deferred | [LIT-469](../../record/literature.d/LIT-469.md) | 0 | 0 | Reasons and Persons |
 | 2026-10-02 | Deferred | [LIT-470](../../record/literature.d/LIT-470.md) | 0 | 0 | Foundations for a Social Ontology |
 
 ## THEORYs
 
-31 of the 197.
+31 of the 205.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

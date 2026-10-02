@@ -2,7 +2,7 @@
 
 # Lines of work
 
-10 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+11 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -149,6 +149,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
 
+## moral-psychology
+
+### From Intuitive ethics: how innately prepared intuitions generate culturally variable virtues
+
+- [LIT-502](../record/literature.d/LIT-502.md) — Intuitive ethics: how innately prepared intuitions generate culturally variable virtues *(Active)*
+  - [LIT-499](../record/literature.d/LIT-499.md) — Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism *(Active)*
+    - [LIT-500](../record/literature.d/LIT-500.md) — Morality beyond the WEIRD: How the nomological network of morality varies across cultures *(Active)*
+
 ## philosophy-of-language
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
@@ -200,6 +208,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
   - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
   - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
+
+### From Intuitive ethics: how innately prepared intuitions generate culturally variable virtues
+
+- [LIT-502](../record/literature.d/LIT-502.md) — Intuitive ethics: how innately prepared intuitions generate culturally variable virtues *(Active)*
+  - [LIT-499](../record/literature.d/LIT-499.md) — Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism *(Active)*
+    - [LIT-500](../record/literature.d/LIT-500.md) — Morality beyond the WEIRD: How the nomological network of morality varies across cultures *(Active)*
 
 ## society-and-governance
 

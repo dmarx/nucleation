@@ -29,8 +29,8 @@ history:
   date: '2026-10-02'
   note: >-
     The lineage's "hawk–dove contests (Maynard Smith & Price)" is the
-    paper's attribution, and reading the 1973 paper (LIT-tmpex4cg,
-    NOTE-tmpjvb5a) shows it is loose: that paper has no Hawk–Dove game.
+    paper's attribution, and reading the 1973 paper (LIT-505,
+    NOTE-404) shows it is loose: that paper has no Hawk–Dove game.
     Said under Corrections; the lineage sentence still reports what the
     paper says. The moral-psychology batch also reads the rest of the
     programme and its rivals: C7 is qualified from the Moral Foundations
@@ -51,7 +51,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-047 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
 
 <!-- inactive-ok-file: LIT-046 — Proposed by its close reading; named in Connections -->
-<!-- inactive-ok-file: LIT-tmpcsgn6 LIT-tmp0moou LIT-tmpps55m LIT-tmpvrv55 — Proposed (Watching): the programme papers, each named for what it does or does not test -->
+<!-- inactive-ok-file: LIT-503 LIT-496 LIT-509 LIT-512 — Proposed (Watching): the programme papers, each named for what it does or does not test -->
 
 # NOTE-034: Curry et al. 2019, morality-as-cooperation in 60 societies
 
@@ -114,17 +114,17 @@ If morals are solutions to recurrent cooperation problems, then each solution sh
 ## Connections
 
 - **The theory's lineage.** It extends kin selection (Hamilton), reciprocal altruism (Trivers), coordination (Lewis), hawk–dove contests (Maynard Smith & Price), bargaining (Nash, Skyrms) and possession (Gintis 2007). It is positioned against Moral Foundations Theory (Haidt & Graham), which it criticizes as ad hoc. The questionnaire follow-up is Curry, Jones Chesters & Van Lissa 2019 (J. Res. Pers.), cited in the Reply as testing the seven-factor structure.
-- **The programme and its rivals, now read.** Curry 2016 ([LIT-tmpcsgn6](../literature.d/LIT-tmpcsgn6.md))
+- **The programme and its rivals, now read.** Curry 2016 ([LIT-503](../literature.d/LIT-503.md))
   states the prediction this paper did not test: behaviour unrelated to
-  cooperation will be "morally neutral". The questionnaire ([LIT-tmp0moou](../literature.d/LIT-tmp0moou.md)),
-  "Moral Molecules" ([LIT-tmpps55m](../literature.d/LIT-tmpps55m.md)) and the 256-society study
-  ([LIT-tmpvrv55](../literature.d/LIT-tmpvrv55.md)) do not run the blind, all-content test either, and the
+  cooperation will be "morally neutral". The questionnaire ([LIT-496](../literature.d/LIT-496.md)),
+  "Moral Molecules" ([LIT-509](../literature.d/LIT-509.md)) and the 256-society study
+  ([LIT-512](../literature.d/LIT-512.md)) do not run the blind, all-content test either, and the
   last cannot see valence. The purity objection has three cooperative
   replies on record, none worked out inside the seven domains:
   Fitouchi, André & Baumard's self-control account ([LIT-101](../literature.d/LIT-101.md)), Rai & Fiske's
-  Unity motive ([LIT-tmpiuf8w](../literature.d/LIT-tmpiuf8w.md)), and the sexual-restraint-as-fairness sketch
-  in Baumard, André & Sperber's Response ([LIT-tmpof37t](../literature.d/LIT-tmpof37t.md)). Moral Foundations
-  Theory keeps Sanctity as a foundation ([LIT-tmpa221k](../literature.d/LIT-tmpa221k.md), [LIT-tmpaywst](../literature.d/LIT-tmpaywst.md)).
+  Unity motive ([LIT-507](../literature.d/LIT-507.md)), and the sexual-restraint-as-fairness sketch
+  in Baumard, André & Sperber's Response ([LIT-508](../literature.d/LIT-508.md)). Moral Foundations
+  Theory keeps Sanctity as a foundation ([LIT-499](../literature.d/LIT-499.md), [LIT-500](../literature.d/LIT-500.md)).
 - **Bloom.**
   - It is unclear what would falsify MAC.
   - It is silent on proximate mechanisms.
@@ -186,14 +186,14 @@ There is no instruction for ML practice. For this record's ethics and cooperatio
 - Regions. The text says all seven were observed in all six regions except "dividing disputed resources in Central America". Central America is not one of the six Probability Sample regions (Sub-Saharan Africa, Circum-Mediterranean, East Eurasia, Insular Pacific, North America, South America; Methods). This is an internal inconsistency, and I could not check it against Table 3's layout.
 - **Hawk–dove is not in Maynard Smith & Price 1973.** The paper, as the lineage
   above reports it, credits "hawk–dove" contests to Maynard Smith & Price,
-  and Curry 2016 ([LIT-tmpcsgn6](../literature.d/LIT-tmpcsgn6.md)) does the same. The 1973 paper ([LIT-tmpex4cg](../literature.d/LIT-tmpex4cg.md),
-  read in [NOTE-tmpjvb5a](NOTE-tmpjvb5a.md)) has five strategies, Mouse, Hawk, Bully, Retaliator
+  and Curry 2016 ([LIT-503](../literature.d/LIT-503.md)) does the same. The 1973 paper ([LIT-505](../literature.d/LIT-505.md),
+  read in [NOTE-404](NOTE-404.md)) has five strategies, Mouse, Hawk, Bully, Retaliator
   and Prober-Retaliator; "dove" does not occur, and its contestants are
   identical, so it has no display-then-defer asymmetry either. What it
   grounds is restraint backed by retaliation. The display and deference
   domains need a later source; which one is open here.
 - **C7 is half right.** Read against the Moral Foundations texts
-  ([LIT-tmpbptbc](../literature.d/LIT-tmpbptbc.md), [LIT-tmpa221k](../literature.d/LIT-tmpa221k.md), read in [NOTE-tmp05ouq](NOTE-tmp05ouq.md)), "more precise" holds
+  ([LIT-502](../literature.d/LIT-502.md), [LIT-499](../literature.d/LIT-499.md), read in [NOTE-396](NOTE-396.md)), "more precise" holds
   as a claim about how the lists were made: MAC derives its domains from
   games, and MFT's five criteria screen candidates but do not generate
   them. "Broader" does not. MFT grounds Care in kin selection and Fairness

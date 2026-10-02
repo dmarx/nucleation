@@ -14,6 +14,8 @@ this directory, then run `luria index`.
 **[Mathematics](tags/mathematics.md)** (22) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
 [003](../../record/theory.d/THEORY-003.md) · [004](../../record/theory.d/THEORY-004.md) · [005](../../record/theory.d/THEORY-005.md) · [007](../../record/theory.d/THEORY-007.md) · [008](../../record/theory.d/THEORY-008.md) · [009](../../record/theory.d/THEORY-009.md) · [012](../../record/theory.d/THEORY-012.md) · [014](../../record/theory.d/THEORY-014.md) · [016](../../record/theory.d/THEORY-016.md) · [017](../../record/theory.d/THEORY-017.md) · [018](../../record/theory.d/THEORY-018.md) · [019](../../record/theory.d/THEORY-019.md) · [020](../../record/theory.d/THEORY-020.md) · [021](../../record/theory.d/THEORY-021.md) · [022](../../record/theory.d/THEORY-022.md) · [027](../../record/theory.d/THEORY-027.md) · [031](../../record/theory.d/THEORY-031.md) · [032](../../record/theory.d/THEORY-032.md) · [037](../../record/theory.d/THEORY-037.md) · [038](../../record/theory.d/THEORY-038.md) · [041](../../record/theory.d/THEORY-041.md) · [042](../../record/theory.d/THEORY-042.md)
 
+**[Game theory](tags/game-theory.md)** (0) — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
+
 **[Network science](tags/network-science.md)** (0) — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
 **[Complex systems](tags/complex-systems.md)** (1) — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts:
@@ -67,6 +69,8 @@ this directory, then run `luria index`.
 **[Phenomenology](tags/phenomenology.md)** (0) — the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016).
 
 **[Social ontology](tags/social-ontology.md)** (0) — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
+
+**[Moral psychology](tags/moral-psychology.md)** (0) — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
 **[Ethics](tags/ethics.md)** (4) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy):
 [025](../../record/theory.d/THEORY-025.md) · [027](../../record/theory.d/THEORY-027.md) · [029](../../record/theory.d/THEORY-029.md) · [040](../../record/theory.d/THEORY-040.md)

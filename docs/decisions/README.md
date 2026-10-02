@@ -24,8 +24,8 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 ## By tag
 
-**[The record](tags/record.md)** (17) — what the schemes hold, and the rules between them:
-[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md) · [004](../../record/decisions.d/ADR-004.md) · [005](../../record/decisions.d/ADR-005.md) · [006](../../record/decisions.d/ADR-006.md) · [007](../../record/decisions.d/ADR-007.md) · [008](../../record/decisions.d/ADR-008.md) · [009](../../record/decisions.d/ADR-009.md) · [010](../../record/decisions.d/ADR-010.md) · [011](../../record/decisions.d/ADR-011.md) · [012](../../record/decisions.d/ADR-012.md) · [013](../../record/decisions.d/ADR-013.md) · [014](../../record/decisions.d/ADR-014.md) · [015](../../record/decisions.d/ADR-015.md) · [016](../../record/decisions.d/ADR-016.md) · [017](../../record/decisions.d/ADR-017.md)
+**[The record](tags/record.md)** (19) — what the schemes hold, and the rules between them:
+[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md) · [004](../../record/decisions.d/ADR-004.md) · [005](../../record/decisions.d/ADR-005.md) · [006](../../record/decisions.d/ADR-006.md) · [007](../../record/decisions.d/ADR-007.md) · [008](../../record/decisions.d/ADR-008.md) · [009](../../record/decisions.d/ADR-009.md) · [010](../../record/decisions.d/ADR-010.md) · [011](../../record/decisions.d/ADR-011.md) · [012](../../record/decisions.d/ADR-012.md) · [013](../../record/decisions.d/ADR-013.md) · [014](../../record/decisions.d/ADR-014.md) · [015](../../record/decisions.d/ADR-015.md) · [016](../../record/decisions.d/ADR-016.md) · [017](../../record/decisions.d/ADR-017.md) · [018](../../record/decisions.d/ADR-018.md) · [019](../../record/decisions.d/ADR-019.md)
 
 **[Taxonomy](tags/taxonomy.md)** (0) — the topic vocabulary and what enforces it.
 
@@ -33,7 +33,7 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 **[Migration](tags/migration.md)** (0) — what moves between this record and the Anthology of the SOTA, and why.
 
-**By status:** [Active](status/Active.md) (17) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (19) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
 
 ## Chronological
 
@@ -66,4 +66,6 @@ What the status column means in this scheme — the words are luria's, the meani
 | [ADR-015](../../record/decisions.d/ADR-015.md) | self-and-personhood joins the topics, and identity becomes individuation | `self-and-personhood` joins the topic vocabulary in the `philosophy` group, and `identity` narrows to the identity of things of any kind and is renamed `individuation` to say so. The new word holds what a self or a person is and what makes one persist: personal identity, the narrative, minimal and bodily self, self-models, agency over one's own life, and whether machines or groups can be selves. Fifteen existing works take it, six as their first tag. Rejected: keeping personal identity inside `identity`, where it was mixed with quasi-set theory, dualities and biological individuality. | Active |
 | [ADR-016](../../record/decisions.d/ADR-016.md) | phenomenology joins the topics | `phenomenology` joins the topic vocabulary in the `philosophy` group, for the first-person description of experience as a method: the philosophical tradition, its use in the sciences of mind, and the theories that take their data from it. Six works take it, none as its first tag. Rejected: leaving method unsaid because the subjects are held, and stretching `consciousness` or `self-and-personhood` to cover it. | Active |
 | [ADR-017](../../record/decisions.d/ADR-017.md) | social-ontology joins the topics | `social-ontology` joins the topic vocabulary in the `philosophy` group, for what social facts, groups, institutions and social kinds are and what makes them exist. Six existing works take it, List & Pettit's *Group Agency* first. Rejected: holding the subject under `society-and-governance` or `social-science`, and a narrower word for group agency alone. | Active |
+| [ADR-018](../../record/decisions.d/ADR-018.md) | moral-psychology joins the topics | `moral-psychology` joins the topic vocabulary in the `philosophy` group, for morality as a natural phenomenon: moral judgement, emotion and norms, and their evolution, development and variation across cultures. Four existing works take it, three first. Rejected: widening `ethics`, which is normative, and a narrower word for the evolution of cooperation. | Active |
+| [ADR-019](../../record/decisions.d/ADR-019.md) | game-theory joins the topics | `game-theory` joins the topic vocabulary, outside the `philosophy` group, for strategic interaction and its equilibria in biology, economics and philosophy. Eight works take it, none first. Proposed independently by two filing agents in the moral-psychology batch. Rejected: stretching `probabilistic-modeling` or leaning on `mathematics` alone. | Active |
 

@@ -4,7 +4,7 @@
 
 **information-theory**.
 
-47 of 395 NOTE documents. Back to the [full index](../README.md).
+47 of 412 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
