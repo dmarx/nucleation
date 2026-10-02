@@ -6,7 +6,7 @@
 
 **The record** — what the schemes hold, and the rules between them.
 
-16 of 16 decisions. Back to the [full index](../README.md).
+17 of 17 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,3 +26,4 @@
 | [ADR-014](../../../record/decisions.d/ADR-014.md) | emotion-and-affect joins the topics | `emotion-and-affect` joins the topic vocabulary, in the `philosophy` group beside `consciousness` and `cognition`. It covers emotions, feelings and affect: what they are, their bodily and neural basis, their role in decision and behaviour, and whether they ground consciousness. The owner asked for it when Antonio Damasio's work came into the record, whose subject no existing word could say. Rejected: a separate word for homeostasis and interoception, which only the Damasio works would hold yet. | Active |
 | [ADR-015](../../../record/decisions.d/ADR-015.md) | self-and-personhood joins the topics, and identity becomes individuation | `self-and-personhood` joins the topic vocabulary in the `philosophy` group, and `identity` narrows to the identity of things of any kind and is renamed `individuation` to say so. The new word holds what a self or a person is and what makes one persist: personal identity, the narrative, minimal and bodily self, self-models, agency over one's own life, and whether machines or groups can be selves. Fifteen existing works take it, six as their first tag. Rejected: keeping personal identity inside `identity`, where it was mixed with quasi-set theory, dualities and biological individuality. | Active |
 | [ADR-016](../../../record/decisions.d/ADR-016.md) | phenomenology joins the topics | `phenomenology` joins the topic vocabulary in the `philosophy` group, for the first-person description of experience as a method: the philosophical tradition, its use in the sciences of mind, and the theories that take their data from it. Six works take it, none as its first tag. Rejected: leaving method unsaid because the subjects are held, and stretching `consciousness` or `self-and-personhood` to cover it. | Active |
+| [ADR-017](../../../record/decisions.d/ADR-017.md) | social-ontology joins the topics | `social-ontology` joins the topic vocabulary in the `philosophy` group, for what social facts, groups, institutions and social kinds are and what makes them exist. Six existing works take it, List & Pettit's *Group Agency* first. Rejected: holding the subject under `society-and-governance` or `social-science`, and a narrower word for group agency alone. | Active |

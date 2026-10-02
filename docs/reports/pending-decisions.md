@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**181 document(s) awaiting a decision.**
+**197 document(s) awaiting a decision.**
 
 ## LITs
 
-150 of the 181.
+166 of the 197.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -32,9 +32,9 @@
 | 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |
 | 2026-09-25 | Deferred | [LIT-043](../../record/literature.d/LIT-043.md) | 0 | 0 | This Secret Math Equation let the US Government Spy on Anyone |
 | 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
+| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 23 | 2 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Proposed | [LIT-200](../../record/literature.d/LIT-200.md) | 18 | 0 | Wave-functionalism |
 | 2026-09-26 | Deferred | [LIT-258](../../record/literature.d/LIT-258.md) | 15 | 0 | Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions |
-| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 14 | 1 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 14 | 12 | Gelfand–Naimark–Segal construction (Wikipedia) |
 | 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 13 | 12 | The Conditional Entropy Bottleneck |
 | 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 13 | 11 | Hilbert Spaces and the Riesz Representation Theorem |
@@ -79,6 +79,7 @@
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 3 | 2 | Conspiracy theorists are not the problem; Conspiracy liars are |
 | 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 3 | 2 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
 | 2026-09-26 | Deferred | [LIT-239](../../record/literature.d/LIT-239.md) | 3 | 2 | Kolmogorov's Structure Functions and Model Selection |
+| 2026-09-26 | Deferred | [LIT-244](../../record/literature.d/LIT-244.md) | 3 | 0 | Natural Kinds (Stanford Encyclopedia of Philosophy) |
 | 2026-09-26 | Deferred | [LIT-256](../../record/literature.d/LIT-256.md) | 3 | 0 | Mutual Information Neural Estimation |
 | 2026-09-26 | Deferred | [LIT-128](../../record/literature.d/LIT-128.md) | 2 | 1 | Neurodiversity & evaluation: a defense (or not) of affective fictionalism |
 | 2026-09-26 | Deferred | [LIT-137](../../record/literature.d/LIT-137.md) | 2 | 0 | Philosophy of Fame and Celebrity |
@@ -92,7 +93,6 @@
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
 | 2026-09-26 | Deferred | [LIT-231](../../record/literature.d/LIT-231.md) | 1 | 0 | The Hidden Uniform Cluster Prior in Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-234](../../record/literature.d/LIT-234.md) | 1 | 0 | The Effects of Regularization and Data Augmentation are Class Dependent |
-| 2026-09-26 | Deferred | [LIT-244](../../record/literature.d/LIT-244.md) | 1 | 0 | Natural Kinds (Stanford Encyclopedia of Philosophy) |
 | 2026-09-26 | Deferred | [LIT-255](../../record/literature.d/LIT-255.md) | 1 | 0 | Information Theory with Kernel Methods |
 | 2026-09-26 | Deferred | [LIT-104](../../record/literature.d/LIT-104.md) | 0 | 0 | Philosophy of Mathematics from Descartes to Kant |
 | 2026-09-26 | Deferred | [LIT-134](../../record/literature.d/LIT-134.md) | 0 | 0 | The Duality of Content |
@@ -145,28 +145,44 @@
 | 2026-10-01 | Deferred | [LIT-386](../../record/literature.d/LIT-386.md) | 0 | 0 | Homeostasis and soft robotics in the design of feeling machines |
 | 2026-10-01 | Deferred | [LIT-417](../../record/literature.d/LIT-417.md) | 0 | 0 | Epilogue: Analogy as the Core of Cognition |
 | 2026-10-01 | Deferred | [LIT-420](../../record/literature.d/LIT-420.md) | 0 | 0 | Surfaces and Essences: Analogy as the Fuel and Fire of Thinking |
-| 2026-10-02 | Deferred | [LIT-393](../../record/literature.d/LIT-393.md) | 19 | 0 | Artificial Intelligence as Philosophy and as Psychology |
+| 2026-10-02 | Deferred | [LIT-393](../../record/literature.d/LIT-393.md) | 20 | 0 | Artificial Intelligence as Philosophy and as Psychology |
+| 2026-10-02 | Deferred | [LIT-391](../../record/literature.d/LIT-391.md) | 19 | 1 | Group Agency: The Possibility, Design, and Status of Corporate Agents |
 | 2026-10-02 | Deferred | [LIT-413](../../record/literature.d/LIT-413.md) | 11 | 1 | The Mind's I: Fantasies and Reflections on Self and Soul |
+| 2026-10-02 | Deferred | [LIT-490](../../record/literature.d/LIT-490.md) | 10 | 0 | Collective Intentions and Actions |
 | 2026-10-02 | Deferred | [LIT-434](../../record/literature.d/LIT-434.md) | 9 | 0 | Illusionism as the Obvious Default Theory of Consciousness |
+| 2026-10-02 | Deferred | [LIT-485](../../record/literature.d/LIT-485.md) | 8 | 0 | The Construction of Social Reality |
 | 2026-10-02 | Deferred | [LIT-396](../../record/literature.d/LIT-396.md) | 7 | 0 | Psychological Predicates |
+| 2026-10-02 | Deferred | [LIT-473](../../record/literature.d/LIT-473.md) | 7 | 0 | Convention: A Philosophical Study |
+| 2026-10-02 | Deferred | [LIT-477](../../record/literature.d/LIT-477.md) | 7 | 0 | Walking Together: A Paradigmatic Social Phenomenon |
+| 2026-10-02 | Deferred | [LIT-426](../../record/literature.d/LIT-426.md) | 6 | 1 | Macrocognition: A Theory of Distributed Minds and Collective Intentionality |
 | 2026-10-02 | Deferred | [LIT-443](../../record/literature.d/LIT-443.md) | 6 | 1 | Consciousness Explained |
 | 2026-10-02 | Deferred | [LIT-468](../../record/literature.d/LIT-468.md) | 6 | 0 | The Constitution of Selves |
+| 2026-10-02 | Deferred | [LIT-472](../../record/literature.d/LIT-472.md) | 6 | 0 | Understanding Institutions: The Science and Philosophy of Living Together |
+| 2026-10-02 | Deferred | [LIT-478](../../record/literature.d/LIT-478.md) | 6 | 0 | The Ant Trap: Rebuilding the Foundations of the Social Sciences |
+| 2026-10-02 | Deferred | [LIT-488](../../record/literature.d/LIT-488.md) | 6 | 0 | Shared Agency: A Planning Theory of Acting Together |
+| 2026-10-02 | Deferred | [LIT-491](../../record/literature.d/LIT-491.md) | 6 | 0 | Categories We Live By: The Construction of Sex, Gender, Race, and Other Social Categories |
 | 2026-10-02 | Deferred | [LIT-441](../../record/literature.d/LIT-441.md) | 5 | 0 | The Conscious Mind: In Search of a Fundamental Theory |
+| 2026-10-02 | Deferred | [LIT-471](../../record/literature.d/LIT-471.md) | 5 | 0 | Shared Cooperative Activity |
 | 2026-10-02 | Deferred | [LIT-430](../../record/literature.d/LIT-430.md) | 4 | 0 | The Intentional Stance |
 | 2026-10-02 | Deferred | [LIT-467](../../record/literature.d/LIT-467.md) | 4 | 0 | Being No One: The Self-Model Theory of Subjectivity |
-| 2026-10-02 | Deferred | [LIT-391](../../record/literature.d/LIT-391.md) | 3 | 0 | Group Agency: The Possibility, Design, and Status of Corporate Agents |
+| 2026-10-02 | Deferred | [LIT-493](../../record/literature.d/LIT-493.md) | 4 | 0 | The Grammar of Society: The Nature and Dynamics of Social Norms |
 | 2026-10-02 | Deferred | [LIT-412](../../record/literature.d/LIT-412.md) | 3 | 0 | Supersizing the Mind: Embodiment, Action, and Cognitive Extension |
 | 2026-10-02 | Deferred | [LIT-419](../../record/literature.d/LIT-419.md) | 3 | 0 | Form, Function, and Feel |
 | 2026-10-02 | Deferred | [LIT-448](../../record/literature.d/LIT-448.md) | 3 | 0 | The Human Animal: Personal Identity Without Psychology |
+| 2026-10-02 | Deferred | [LIT-476](../../record/literature.d/LIT-476.md) | 3 | 0 | We-Intentions |
 | 2026-10-02 | Deferred | [LIT-463](../../record/literature.d/LIT-463.md) | 2 | 1 | Subjectivity and Selfhood: Investigating the First-Person Perspective |
+| 2026-10-02 | Deferred | [LIT-483](../../record/literature.d/LIT-483.md) | 2 | 1 | Groups as Agents |
+| 2026-10-02 | Deferred | [LIT-492](../../record/literature.d/LIT-492.md) | 2 | 0 | On Social Facts |
 | 2026-10-02 | Deferred | [LIT-424](../../record/literature.d/LIT-424.md) | 1 | 0 | From Bacteria to Bach and Back: The Evolution of Minds |
-| 2026-10-02 | Deferred | [LIT-426](../../record/literature.d/LIT-426.md) | 1 | 0 | Macrocognition: A Theory of Distributed Minds and Collective Intentionality |
+| 2026-10-02 | Deferred | [LIT-474](../../record/literature.d/LIT-474.md) | 1 | 0 | The Social Construction of Reality: A Treatise in the Sociology of Knowledge |
+| 2026-10-02 | Deferred | [LIT-475](../../record/literature.d/LIT-475.md) | 1 | 0 | The Social Construction of What? |
 | 2026-10-02 | Deferred | [LIT-449](../../record/literature.d/LIT-449.md) | 0 | 0 | What we talk to when we talk to language models |
 | 2026-10-02 | Deferred | [LIT-469](../../record/literature.d/LIT-469.md) | 0 | 0 | Reasons and Persons |
+| 2026-10-02 | Deferred | [LIT-470](../../record/literature.d/LIT-470.md) | 0 | 0 | Foundations for a Social Ontology |
 
 ## THEORYs
 
-31 of the 181.
+31 of the 197.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -200,10 +216,10 @@
 | 2026-09-30 | Proposed | [THEORY-021](../../record/theory.d/THEORY-021.md) | 0 | 0 | In the efficiently packed geometries of uniform superposition the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity |
 | 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 0 | 0 | The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress saturates as 1/(1 + B_noise/B); the measured noise scale predicts it only to within an order of magnitude |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 0 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
-| 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 89 | 0 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
+| 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 132 | 2 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (22): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-036](../../record/theory.d/THEORY-036.md), [LIT-386](../../record/literature.d/LIT-386.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-469](../../record/literature.d/LIT-469.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (23): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [LIT-134](../../record/literature.d/LIT-134.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-036](../../record/theory.d/THEORY-036.md), [LIT-386](../../record/literature.d/LIT-386.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-469](../../record/literature.d/LIT-469.md), [LIT-470](../../record/literature.d/LIT-470.md) — these are the cheapest to close, since nothing depends on the answer.

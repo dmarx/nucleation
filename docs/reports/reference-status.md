@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**129 documents cited without acknowledgement.** Not listed: 808 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**133 documents cited without acknowledgement.** Not listed: 953 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1100,6 +1100,15 @@ What is purely epistemic normativity, and why? A study in Wolfian epistemology
 - [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
 - [`record/notes.d/NOTE-160.md:108`](../../record/notes.d/NOTE-160.md)
 
+### [LIT-188](../../record/literature.d/LIT-188.md) — Proposed
+
+Scaffolding individuality: coordination, cooperation, collaboration and community
+
+2 citations in 2 files await a look; 21 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-017.md:62`](../../record/decisions.d/ADR-017.md)
+- [`record/notes.d/NOTE-111.md:106`](../../record/notes.d/NOTE-111.md)
+
 ### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
 
 Conspiracy theorists are not the problem; Conspiracy liars are
@@ -1208,6 +1217,15 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 
+### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
+
+A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
+
+2 citations in 1 file await a look; 130 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
+- [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
+
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
 Adding causality to the information-theoretic perspective on individuality
@@ -1295,14 +1313,6 @@ Fitting Fulfilment – Fitting Objective or Rational Attractiveness?
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
-
-### [LIT-188](../../record/literature.d/LIT-188.md) — Proposed
-
-Scaffolding individuality: coordination, cooperation, collaboration and community
-
-1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-111.md:106`](../../record/notes.d/NOTE-111.md)
 
 ### [LIT-201](../../record/literature.d/LIT-201.md) — Deferred
 
@@ -1456,6 +1466,14 @@ Local Urysohn Width: A Topological Complexity Measure for Classification
 
 - [`record/notes.d/NOTE-323.md:6`](../../record/notes.d/NOTE-323.md)
 
+### [LIT-391](../../record/literature.d/LIT-391.md) — Deferred
+
+Group Agency: The Possibility, Design, and Status of Corporate Agents
+
+1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-017.md:56`](../../record/decisions.d/ADR-017.md)
+
 ### [LIT-413](../../record/literature.d/LIT-413.md) — Deferred
 
 The Mind's I: Fantasies and Reflections on Self and Soul
@@ -1480,6 +1498,14 @@ I Am a Strange Loop
 
 - [`record/decisions.d/ADR-015.md:69`](../../record/decisions.d/ADR-015.md)
 
+### [LIT-426](../../record/literature.d/LIT-426.md) — Deferred
+
+Macrocognition: A Theory of Distributed Minds and Collective Intentionality
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-017.md:60`](../../record/decisions.d/ADR-017.md)
+
 ### [LIT-437](../../record/literature.d/LIT-437.md) — Deferred
 
 Gödel, Escher, Bach: an Eternal Golden Braid
@@ -1503,6 +1529,14 @@ Subjectivity and Selfhood: Investigating the First-Person Perspective
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/decisions.d/ADR-016.md:55`](../../record/decisions.d/ADR-016.md)
+
+### [LIT-483](../../record/literature.d/LIT-483.md) — Deferred
+
+Groups as Agents
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/theory.d/THEORY-043.md:280`](../../record/theory.d/THEORY-043.md)
 
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 

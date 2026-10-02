@@ -277,7 +277,7 @@ needed.
   ([LIT-426](../literature.d/LIT-426.md)) and List & Pettit ([LIT-391](../literature.d/LIT-391.md)) are filed unread. Each is
   reported to bear on this seam, and Huebner's test for a collective mind
   (integrated specialised subroutines) is the one most likely to change it.
-  Tollefsen's *Groups as Agents* ([LIT-tmpkq2pn](../literature.d/LIT-tmpkq2pn.md)), also unread, may take an
+  Tollefsen's *Groups as Agents* ([LIT-483](../literature.d/LIT-483.md)), also unread, may take an
   interpretivist line on group agency, which would put it beside Dennett's
   intentional stance; that is a guess from a chapter title.
 
@@ -301,14 +301,14 @@ needed.
 - **Which group a criterion is applied to has to be said.** Two readings
   from social ontology bear on this, though neither discusses minds or
   experience; the application is the record's.
-  - Ritchie ([LIT-tmpgr5qe](../literature.d/LIT-tmpgr5qe.md), [NOTE-tmplq4uh](../notes.d/NOTE-tmplq4uh.md)) holds that groups with the same
-    members can be distinct and coincide, and ([LIT-tmppeiud](../literature.d/LIT-tmppeiud.md), [NOTE-tmplf616](../notes.d/NOTE-tmplf616.md))
+  - Ritchie ([LIT-479](../literature.d/LIT-479.md), [NOTE-390](../notes.d/NOTE-390.md)) holds that groups with the same
+    members can be distinct and coincide, and ([LIT-486](../literature.d/LIT-486.md), [NOTE-389](../notes.d/NOTE-389.md))
     that only organised groups, not feature groups such as classes, are
     concrete structured wholes. "The United States" therefore names
     several candidates, which is a structural version of the condition-A
     gap Schwitzgebel's reply opens, and only organised groups are
     candidates for agency or mind at all.
-  - Epstein's survey ([LIT-tmppokl9](../literature.d/LIT-tmppokl9.md), [NOTE-tmpodceb](../notes.d/NOTE-tmpodceb.md)) reports challenges to
+  - Epstein's survey ([LIT-487](../literature.d/LIT-487.md), [NOTE-393](../notes.d/NOTE-393.md)) reports challenges to
     "local dependence": a group's facts may be grounded partly in
     non-members, infrastructure and membership rules. If so, an
     architectural criterion computed over the members alone is computed

@@ -4,7 +4,7 @@
 
 **ethics**.
 
-45 of 387 NOTE documents. Back to the [full index](../README.md).
+46 of 395 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -53,3 +53,4 @@
 | [NOTE-382](../../../record/notes.d/NOTE-382.md) | Shanahan — Simulacra as Conscious Exotica | A Wittgensteinian treatment: consciousness talk is anchored in what is public, so an exotic entity is a candidate only if we could engineer an encounter with it in a shared world. Disembodied chat agents are not candidates; virtually embodied ones could be. On the self: no "self worth preserving" without body, history and autobiographical memory, and no "person behind the mask" for a role player, whose identity is a shifting distribution of roles. Argued by method and scenario; nothing is measured. | Read |
 | [NOTE-383](../../../record/notes.d/NOTE-383.md) | Against Narrativity | Rejects the descriptive and the normative Narrativity theses. Separates Diachronic from Episodic self-experience, and form-finding, story-telling and revision within Narrativity. Places Dennett, Schechtman, Sartre and himself on that grid. Argues that Episodic lives are normal and can be good, that a from-the-inside memory need not present as one's own, and that self-narration risks falsification. The argument is testimony and distinction-drawing; the empirical claims are asserted. | Read |
 | [NOTE-385](../../../record/notes.d/NOTE-385.md) | Of Identity and Diversity | Identity is relative to the idea the name stands for: same mass, same life (oak, horse, man), same consciousness (person). A person is a thinking being that "can consider itself as itself", and personal identity reaches as far back as consciousness can be extended, independent of substance. Man and person come apart (prince and cobbler; day-man and night-man), and "person" is "a forensic term" grounding reward and punishment. Argued from cases and intuitions; "the same consciousness" is never defined. | Read |
+| [NOTE-394](../../../record/notes.d/NOTE-394.md) | Haslanger — Gender and Race: (What) Are They? | An explicitly ameliorative ("analytical") account. Gender and race are defined as hierarchical social positions: a woman is someone regularly observed or imagined to have bodily features presumed to indicate a female's reproductive role, marked by that within the dominant ideology for subordinate positions, and subordinated in part because of it. Racialized groups are defined in parallel from features presumed to show ancestral links to a region. Gender in general and ethnicity are the non-hierarchical genus. The commonality and normativity objections are met by appeal to the project's values. Stipulative, with no evidence. | Read |
