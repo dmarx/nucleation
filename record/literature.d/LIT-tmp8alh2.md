@@ -1,0 +1,167 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmpsp0qw](../notes.d/NOTE-tmpsp0qw.md)), in the Merivale–Millican critical text on davidhume.org, with the Appendix''s second thoughts (App. 10–21); worth reading as the founding statement of the bundle view and the first published retraction of it. The section finds no impression of a self, calls the mind "a bundle or collection of different perceptions", and explains our ascription of identity to it as a fiction of the imagination run on resemblance and causation, the same fiction that makes a repaired ship or a rebuilt church "the same". The Appendix then confesses that it cannot explain what unites the perceptions and leaves the problem "too hard for my understanding". The section''s case is introspective and associationist; its Appendix is the clearest statement of what any bundle view owes.'
+title: 'Of Personal Identity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full: Treatise 1.4.6, paragraphs 1–23 and note 50 (SBN
+    251–263), and the Appendix, paragraphs 1–22 and note 89 (SBN 623–636),
+    of which App. 10–21 are the passage on personal identity, all from the
+    edited text on Hume Texts Online (davidhume.org), edited by Amyas
+    Merivale and Peter Millican from the ECCO scan of the 1739–40 first
+    edition. That edition was not seen in print or scan. Citation checked:
+    the site's editorial notes; the 1739 imprint (London: John Noon,
+    vols. I–II) and 1740 imprint of vol. III (London: Thomas Longman),
+    from auction and catalogue records found by search. Not held in the
+    Anthology of the SOTA (a grep of its literature.d for "Hume" and
+    "Treatise" found nothing).
+tags:
+- self-and-personhood
+- individuation
+- cognition
+- metaphysics
+- epistemology
+- consciousness
+- mereology
+date: '2026-10-02'
+published: '1739-01-01'
+url: 'https://davidhume.org/texts/t/1/4/6'
+first_author: 'Hume'
+keywords:
+- 'personal identity'
+- 'bundle theory'
+- 'self'
+- 'impression'
+- 'imagination'
+- 'fiction'
+- 'resemblance and causation'
+- 'Appendix'
+implementations: []
+summary: >-
+  Hume (1739), Treatise 1.4.6, with the Appendix (1740). There is no
+  impression of a self, "constant and invariable", so no idea of one:
+  introspection finds only "some particular perception or other", and the
+  mind is "a bundle or collection of different perceptions". The identity
+  we ascribe to it is "fictitious", like that of plants, ships and
+  churches: an easy transition of the imagination along resemblance and
+  causation, with memory discovering rather than producing it, so that
+  hard cases are "grammatical" rather than philosophical. The Appendix
+  retracts the account of the connecting principle: two principles he
+  cannot reconcile or renounce leave the matter "too hard for my
+  understanding".
+---
+<!-- inactive-ok-file: THEORY-043 — Proposed; named as the bridge Hume's commonwealth analogy is set beside, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Deferred, placed from its abstract; named for the claim its summary states, as my pairing, not leaned on -->
+
+# LIT-tmp8alh2: Of Personal Identity
+
+David Hume (1739), "Of personal identity", *A Treatise of Human Nature*,
+Book 1 ("Of the Understanding"), Part 4, Section 6 (vol. I, London: John
+Noon, 1739; SBN 251–263). With the passage on personal identity in the
+Appendix to vol. III (London: Thomas Longman, 1740; T App. 10–21, SBN
+633–636). Read in the Hume Texts Online critical text.
+
+**On the citation.** The brief's details are right: Book 1, Part 4, Section
+6, "Of Personal Identity", 1739, with the Appendix of 1740. Three things to
+add:
+
+- **Identifier.** Neither printing has a DOI. The URL is the section's page
+  on Hume Texts Online, whose text was read. `published:` is the 1739
+  volume. Catalogue and auction records put its appearance at the end of
+  January 1739; I found no day, so the date is the first of the month.
+- **Two works in one entry.** The Appendix belongs to a different volume
+  and year. It is filed here, not separately, because App. 10–21 is
+  addressed to this section and makes sense only with it. The rest of the
+  Appendix (on belief, and two minor errors) was read and is not this
+  entry's subject.
+- **The edited text** incorporates Hume's ERRATA, the changes the Appendix
+  instructs for volume 1, and his handwritten corrections in the British
+  Library copy of volume 3, per the editors' notes. Paragraph numbers
+  (T 1.4.6.n, App. n) are the Norton numbering the site uses.
+
+## Key takeaways
+
+- **No impression, no idea, of a self.** "When I enter most intimately into
+  what I call *myself*, I always stumble on some particular perception or
+  other … I never can catch myself at any time without a perception, and
+  never can observe any thing but the perception" (1.4.6.3).
+- **The mind is a bundle.** Mankind are "nothing but a bundle or collection
+  of different perceptions, which succeed each other with an inconceivable
+  rapidity, and are in a perpetual flux and movement" (1.4.6.4). The
+  theatre image is withdrawn as soon as offered: "They are the successive
+  perceptions only, that constitute the mind".
+- **Identity over change is a fiction of the imagination.** A succession of
+  related objects feels to the mind like one unchanging object, so we
+  "feign" a soul, self or substance to cover the change (1.4.6.6). Ships,
+  rebuilt churches, rivers, plants and animals get their identity the same
+  way (1.4.6.8–14), and "the identity, which we ascribe to the mind of man,
+  is only a fictitious one" (1.4.6.15).
+- **Resemblance and causation make the bundle seem one; memory discovers
+  it.** Memory creates resemblance among perceptions, and causation links
+  them like the members of "a republic or commonwealth" (1.4.6.18–19). We
+  extend our identity past what we remember, so memory "does not so much
+  produce as discover personal identity" (1.4.6.20), against Locke.
+- **Hard cases have no answer.** "All the nice and subtile questions
+  concerning personal identity can never possibly be decided, and are to be
+  regarded rather as grammatical than as philosophical difficulties"
+  (1.4.6.21).
+- **The Appendix retracts the account of the connexion.** "All my hopes
+  vanish, when I come to explain the principles, that unite our successive
+  perceptions". He cannot renounce "that all our distinct perceptions are
+  distinct existences, and that the mind never perceives any real
+  connexion among distinct existences", and pleads "the privilege of a
+  sceptic" (App. 20–21).
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, to fill out the record's
+coverage of personal identity and selfhood. [NOTE-tmpsp0qw](../notes.d/NOTE-tmpsp0qw.md) is the reading,
+and it placed the work: **Active**. It is the classic statement of the view
+that there is no self over and above its perceptions, and it is quoted or
+assumed by most of the record's works on the self. Read the Appendix with
+it: the Appendix is where Hume says what his own view could not explain,
+and that problem, what binds the bundle, is the one the record's modern
+works keep answering.
+
+No anthology topic holds it, it carries no instruction for machine-learning
+practice, and the anthology does not hold it.
+
+Where it meets the record:
+
+- **Floridi** ([LIT-136](LIT-136.md), [NOTE-130](../notes.d/NOTE-130.md)) takes the Appendix's confession as the
+  statement of his "problem of the chariot", what binds the self's
+  information into a unity, and offers his three-membrane model as the
+  constructive answer Hume lacked.
+- **Dennett's narrative self** ([LIT-442](LIT-442.md), [NOTE-364](../notes.d/NOTE-364.md)) ends on Hume's failure
+  to find a self by introspection, and answers it with a self that is an
+  abstraction of interpretation, not a perception. Hume's "fictitious"
+  identity and Dennett's "theorist's fiction" are near relatives: both make
+  the unity a product of a process that tells it, not a thing found. They
+  differ on the teller. For Hume it is the imagination's easy transition;
+  for Dennett, the brain's autobiographical story.
+- **Minsky** ([LIT-432](LIT-432.md), [NOTE-348](../notes.d/NOTE-348.md)) treats the "Single-Self" as a convenient
+  fiction over many partial self-models. That is Hume's bundle with an
+  architecture.
+- **Levin** ([LIT-439](LIT-439.md), [NOTE-341](../notes.d/NOTE-341.md)) and **Schwitzgebel** ([LIT-159](LIT-159.md), [THEORY-043](../theory.d/THEORY-043.md)).
+  Hume compares the soul to "a republic or commonwealth" whose members are
+  replaced while it stays the same. The record's bridge between a society
+  of mind and a conscious nation runs the comparison the other way. The
+  pairing is my observation; Hume uses the commonwealth for persistence
+  through change, not for consciousness.
+- **Damasio** ([LIT-387](LIT-387.md)) makes consciousness the identification of mind
+  contents "as belonging to an organism", supplied by homeostatic feeling.
+  Read against App. 20–21, that is a candidate for the "real connexion"
+  Hume could not find: one supplied by the body, not perceived among the
+  perceptions. The reading is mine, not Damasio's.
+
+The personal-identity works filed beside it on 2026-10-02 continue the line.
+Locke's chapter is the account of consciousness that Hume's Appendix says
+"most philosophers" hold. Parfit's "Personal Identity" ends by quoting Hume
+and closes on Hume's other hope, that "more of what is bad depends upon
+false belief". Galen Strawson's minimal self and Zahavi and Gallagher's
+phenomenological one, being filed in parallel by another agent, are modern
+answers to the question Hume's introspection raised; they are not read here,
+so how each treats the bundle is left to those filings.
