@@ -1,0 +1,136 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-02 from the publisher''s description and the chapter list, not read. The book is not open access at Springer, but the authors deposited a copy of it in HAL (hal-01151449, "Book_Autonomy_web.pdf", CC BY-NC 4.0, deposited 13 May 2015). HAL now serves files behind an anti-bot challenge that requires a browser running JavaScript, and it states that the challenge is there against automated scrapers, so I did not try to get past it. A human reader can open the copy lawfully, and a reading from it would move this to Active.'
+title: 'Biological Autonomy: A Philosophical and Theoretical Enquiry'
+version: 1
+tags:
+- agency
+- complex-systems
+- individuation
+- philosophy-of-science
+- metaphysics
+- cognition
+- natural-sciences
+date: '2026-10-02'
+published: '2015-01-01'
+doi: '10.1007/978-94-017-9837-2'
+first_author: 'Moreno'
+keywords:
+- 'biological autonomy'
+- 'organisational closure'
+- 'closure of constraints'
+- 'biological emergence'
+- 'teleology'
+- 'normativity'
+- 'function'
+- 'agency'
+- 'levels of autonomy'
+- 'cognition'
+implementations: []
+summary: >-
+  Moreno & Mossio (2015), Springer, History, Philosophy and Theory of the
+  Life Sciences 12. The book argues that biology should revolve around
+  autonomy, not only natural selection: organisms are organized systems
+  that self-produce and self-maintain as integrated wholes, set their own
+  goals and norms, and promote the conditions of their existence through
+  interaction with their environment. Chapters treat constraints and
+  organisational closure, emergence and inter-level causation, teleology
+  and function, agency, evolution, organisms and levels of autonomy, and
+  cognition. Unread: registered from the publisher's description and the
+  chapter list.
+---
+
+<!-- inactive-ok-file: LIT-tmpkdihk — Deferred: Deacon is unread; named as the rival account in the same debate, not leaned on -->
+
+# LIT-tmpwx4k1: Biological Autonomy: A Philosophical and Theoretical Enquiry
+
+Alvaro Moreno and Matteo Mossio, *Biological Autonomy: A Philosophical and
+Theoretical Enquiry*, History, Philosophy and Theory of the Life Sciences,
+vol. 12, Dordrecht: Springer Netherlands, 2015 (hardcover ISBN
+978-94-017-9836-5, eBook ISBN 978-94-017-9837-2). Crossref gives only the
+year, so `published:` carries the year, as the first of January.
+
+The brief's citation (2015, Springer) is correct. On open access: the book
+is not open access at the publisher. Unpaywall lists it as green open
+access through the authors' HAL deposit (hal-01151449, CC BY-NC 4.0),
+which HAL catalogues as the book's "Introduction" with the file
+Book_Autonomy_web.pdf. I could not open that file (see the status note),
+so I cannot say whether it is the whole book or the introduction alone.
+
+## Key takeaways
+
+*Registered from the publisher's description and the chapter list, not a
+reading. What follows is what those sources say.*
+
+- **The publisher's description** (as deposited in HAL), in part: "Since
+  Darwin, Biology has been framed on the idea of evolution by natural
+  selection … This book argues that contemporary biology should progress
+  towards and revolve around an even more fundamental idea, that of
+  autonomy. Biological autonomy describes living organisms as organised
+  systems, which are able to self-produce and self-maintain as integrated
+  entities, to establish their own goals and norms, and to promote the
+  conditions of their existence through their interactions with the
+  environment."
+- **Chapters** (Crossref's chapter records, with pages): 1 Constraints and
+  Organisational Closure (1–38); 2 Biological Emergence and Inter-level
+  Causation (39–61); 3 Teleology, Normativity and Functionality (63–87); 4
+  Agency (89–109); 5 Evolution: The Historical Dimension of Autonomy
+  (111–139); 6 Organisms and Levels of Autonomy (141–165); 7 Cognition
+  (167–193); 8 Opening Conclusions (195–200). An introduction precedes
+  chapter 1.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, for the philosophy that tries
+to mark living, teleological systems off from merely dissipative ones. No
+anthology topic holds it, and it carries no instruction for
+machine-learning practice. The Anthology of the SOTA does not hold it: a
+grep of its literature.d for "Mossio" and the title found nothing.
+
+`Deferred` because it was not read. This record files a book from its
+publisher's description and contents when no lawful text can be read, and
+does not rebuild a book from what others say about it. Here a lawful text
+exists and was out of my reach, so this is the first book in the batch a
+human reader could promote.
+
+What the record already says about it, at second hand:
+
+- **Nahas & Sachs ([LIT-192](LIT-192.md), [NOTE-094](../notes.d/NOTE-094.md))** treat the organizational approach,
+  closure of constraints (Montévil & Mossio 2015), as one of the accounts
+  whose demarcation from dissipative structures is disputed. They report
+  that closure faces the candle-flame problem, and that whether closure is
+  a model or an ontological claim is "in urgent need of elaboration".
+  Chapter 1 is where the book states closure. Chapter 3 is where it should
+  answer whether closure grounds intrinsic teleology and so marks a flame
+  off from a cell.
+- **Wilson & Barker ([LIT-168](LIT-168.md))** cite the book in their §6.3 on autonomous
+  agency ([NOTE-094](../notes.d/NOTE-094.md)). **Baedke ([LIT-167](LIT-167.md), [NOTE-148](../notes.d/NOTE-148.md))** argues that closure
+  ("persister") criteria are too permissive, taking in colonies and
+  ecosystems. Chapter 6, on organisms and levels of autonomy, is where
+  that objection should be met.
+- **Bruckner ([LIT-120](LIT-120.md), [NOTE-093](../notes.d/NOTE-093.md))** uses a looser autopoiesis. [NOTE-093](../notes.d/NOTE-093.md)
+  proposes checking his self-maintaining car "Tessler", bacteria and a
+  candle flame against closure of constraints. This book is where that
+  check would be made.
+
+Where it would bear, once read: it is the main organizational candidate for
+a principled line between living and merely dissipative systems. Against
+it stand Perunov, Marsland & England ([LIT-tmp7ay36](LIT-tmp7ay36.md)), who deny a line, and
+Friston ([LIT-tmpfy5q0](LIT-tmpfy5q0.md)), who draws one with Markov blankets. Deacon's
+teleodynamics ([LIT-tmpkdihk](LIT-tmpkdihk.md)) is its rival in the same debate.
+
+**Priority for a reading: high** for the demarcation question, chapters 1,
+3 and 6 first.
+
+Access when seeded:
+
+- Crossref records for the book and its eight chapters (titles, pages,
+  ISBNs; the license fields are Springer's text-and-data-mining terms, not
+  an open licence).
+- Unpaywall (is_oa true, oa_status green, one location: the HAL deposit,
+  CC BY-NC).
+- HAL's API record for hal-01151449 (title "Introduction", document type
+  book chapter, the book's description as abstract, file
+  Book_Autonomy_web.pdf, licence CC BY-NC 4.0, submitted 2015-05-13). The
+  file itself returned HAL's "Making sure you're not a bot!" page.
+- Springer's book page returned a bot challenge to plain requests.
