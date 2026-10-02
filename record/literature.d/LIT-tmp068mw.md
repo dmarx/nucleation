@@ -1,0 +1,154 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-02 from the publisher''s description and table of contents; no lawful full text was reachable (Oxford Academic is paywalled, and neither author has posted the book or draft chapters), so it is not read and no NOTE is filed. It is the book-length case that organised groups are agents over and above their members, which is the composition side''s premise in the Minsky–Schwitzgebel bridge; whether it says anything about group consciousness is unknown from what was seen.'
+title: 'Group Agency: The Possibility, Design, and Status of Corporate Agents'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Filed Deferred from OUP's catalogue page (description, table of
+    contents, hardback date 26 May 2011, paperback 19 May 2013) and the
+    Crossref records for the monograph and its chapters (titles and page
+    ranges). The Oxford Academic page returned 403 and the book is
+    paywalled; no author-posted draft was found on List's LSE pages, which
+    hold related articles but not the book. `published:` is Crossref's
+    date for the monograph, 2011-04-01, as ADR-002 asks; it may be a
+    month-level date, and OUP gives 26 May 2011 for the hardback. Not held
+    in the Anthology of the SOTA: a grep of its literature.d and notes.d
+    for "Group Agency", "List and Pettit" and the DOI found nothing.
+tags:
+- agency
+- social-science
+- society-and-governance
+- mereology
+- ethics
+date: '2026-10-02'
+published: '2011-04-01'
+doi: '10.1093/acprof:oso/9780199591565.001.0001'
+first_author: 'List'
+keywords:
+- 'group agency'
+- 'corporate agents'
+- 'social choice theory'
+- 'aggregation of intentional attitudes'
+- 'responsibility'
+- 'personhood'
+implementations: []
+summary: >-
+  List & Pettit (2011), DOI-10.1093/acprof:oso/9780199591565.001.0001.
+  Per its publisher, the book argues that "there really are group or
+  corporate agents, over and above the individual agents who compose
+  them", and that social science, law, morality and politics must take
+  account of this. The account is said to be "entirely unmysterious" and
+  grounded in social choice theory, economics and philosophy. Three parts:
+  the logical possibility of group agents (conditions of agency,
+  aggregation of attitudes, structure), their organisational design
+  (epistemic, incentive-compatibility and control desiderata), and their
+  normative status (responsibility, personhood, identification). Unread:
+  filed from the description and contents only.
+---
+<!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpqepho — Deferred, no lawful full text; Minsky's The Society of Mind, named as the decomposition-side account, not leaned on -->
+
+# LIT-tmp068mw: Group Agency: The Possibility, Design, and Status of Corporate Agents
+
+Christian List, Philip Pettit (2011), *Oxford University Press (hardback ISBN 9780199591565, 26 May 2011; paperback 19 May 2013)* — DOI-10.1093/acprof:oso/9780199591565.001.0001
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, as one of the works bridging
+Minsky's Society of Mind ([LIT-tmpqepho](LIT-tmpqepho.md), with the memos [LIT-tmp4jv7c](LIT-tmp4jv7c.md) and
+[LIT-tmp84goj](LIT-tmp84goj.md) and Singh's exposition [LIT-tmpxp9b8](LIT-tmpxp9b8.md)) to Schwitzgebel's
+"If materialism is true, the United States is probably conscious"
+([LIT-159](LIT-159.md), read in [NOTE-131](../notes.d/NOTE-131.md)).
+
+`Deferred` because no lawful full text was reachable, so it is not read
+and no NOTE is filed. What follows is only what the publisher and the
+chapter metadata say, and what List's later paper ([LIT-tmp6phwb](LIT-tmp6phwb.md), read in
+full) says about this book.
+
+**What the publisher says.** The description opens: "Are companies,
+churches, and states genuine agents? Or are they just collections of
+individual agents that give a misleading impression of unity?" It says the
+authors "take the line that there really are group or corporate agents,
+over and above the individual agents who compose them", and that their
+account is "entirely unmysterious in character and, despite not being
+technically difficult, is grounded in cutting-edge work in social choice
+theory, economics, and philosophy".
+
+**Contents** (OUP's part titles; chapter titles and pages from Crossref):
+
+- Introduction (pp. 1–17)
+- Part I, *The Logical Possibility of Group Agents*
+  - 1 The Conditions of Agency (19–41)
+  - 2 The Aggregation of Intentional Attitudes (42–58)
+  - 3 The Structure of Group Agents (59–79)
+- Part II, *The Organizational Design of Group Agents*
+  - 4 The Epistemic Desideratum (81–103)
+  - 5 The Incentive-Compatibility Desideratum (104–128)
+  - 6 The Control Desideratum (129–150)
+- Part III, *The Normative Status of Group Agents*
+  - 7 Holding Group Agents Responsible (153–169)
+  - 8 Personifying Group Agents (170–185)
+  - 9 Identifying With Group Agents (186–201)
+
+**What List's 2016 paper says the book does** ([LIT-tmp6phwb](LIT-tmp6phwb.md); [NOTE-tmp2ro60](../notes.d/NOTE-tmp2ro60.md)):
+
+- It defines a group agent by applying a general, functionalist
+  belief–desire definition of agency to collectives, rather than defining
+  group agency *sui generis*.
+- Much of its analysis opens the "black box": it asks which internal
+  organisational structures and mechanisms of aggregation let a collective
+  function as an agent.
+- Its chapters 7 and 8 assert a normative asymmetry: group agents are
+  responsible for their actions but should not have individual-grade
+  rights. List says this was "asserted, but not fully defended" there.
+
+**Where it sits on the seam.** It sits on the composition side, for
+agency only. On what was seen, it is a case that agency composes from
+minded members. Its subject is not consciousness, so on Schwitzgebel's
+claims as [NOTE-131](../notes.d/NOTE-131.md) numbers them it is **neutral on C3, C4 and C5** as far
+as can be told. Whether it discusses group phenomenal consciousness at
+all is unknown. The bridge needs it for one thing: it is the standard
+source for the premise that a group can be an agent "over and above" its
+members. Schwitzgebel's US argument relies on that premise informally;
+List's 2016 paper makes it explicit and then denies that experience
+follows. Part I's "aggregation of intentional attitudes" is where a reader
+should look for how the group's attitudes relate to the members'. That is
+the composition-side counterpart of how Minsky's agents' states combine
+into a mind, and a close reading should check how far the book's
+aggregation results (not stated in anything seen here) constrain it.
+
+Neighbours. Wenmackers's thesis on the philosophy of probability
+([LIT-163](LIT-163.md); [NOTE-139](../notes.d/NOTE-139.md)) relates its chapter 5 to List (2005) on the
+discursive dilemma, the judgment-aggregation problem that Part I's
+chapter title suggests this book takes up; that link has not been checked
+against the book. Tomasello's account of
+obligation ([LIT-125](LIT-125.md)) works with joint commitment between individuals,
+which List ([LIT-tmp6phwb](LIT-tmp6phwb.md), §2, citing Pettit & Schweikard 2006)
+distinguishes from group agency. Pilgrim et al. ([LIT-046](LIT-046.md)) give a
+computational framework for collectives that this book's Part II design
+questions overlap with in subject.
+
+**Topic.** `agency` is primary: the blurb names agents "in organisms,
+collectives or machines". `society-and-governance` and `ethics` hold
+Part III (corporate responsibility and personhood in law and morality),
+`social-science` holds its use of social choice theory and economics, and
+`mereology` holds the claim of agents over and above their members.
+
+No instruction for machine-learning practice appears in what was seen, so
+nothing here points to the Anthology of the SOTA.
+
+**What a reading should check.**
+
+- What Part I's aggregation results say about how the group's attitudes
+  supervene on the members' (holistically or proposition by proposition),
+  and whether that supports "over and above" in any sense beyond
+  explanatory autonomy.
+- Whether chapter 8, *Personifying Group Agents*, says anything about
+  group phenomenal consciousness, or whether consciousness is first
+  addressed in List's 2016 paper.
+- What exactly chapters 7–8 claim about the rights of group agents, to
+  test List's statement that the asymmetry was asserted there and not
+  defended.

@@ -1,0 +1,120 @@
+---
+status: Deferred
+status_note: 'seeded 2026-10-01 from Crossref, PubMed and the record''s reading of the theme-issue editorial ([LIT-195](LIT-195.md), [NOTE-136](../notes.d/NOTE-136.md)), not read: royalsocietypublishing.org returned 403 to the DOI, article and PDF URLs, the article is not in PubMed Central or Europe PMC full text, and no repository or author copy was found. No NOTE is filed.'
+title: "Is there an 'I' in AI?"
+version: 1
+history:
+- version: 1
+  date: '2026-10-01'
+  note: >-
+    Seeded, not read. Citation verified against Crossref
+    (https://api.crossref.org/works/10.1098/rsta.2024.0527): sole author
+    Douglas Hofstadter (Indiana University Bloomington), Phil. Trans. R.
+    Soc. A 384(2320), article 20240527, published online and in print
+    2026-05-14, CC BY 4.0. PubMed (PMID 42130433) adds the history:
+    received 2025-01-21, accepted 2025-06-19, and one keyword, "artificial
+    intelligence"; it carries no abstract, and Crossref deposits none.
+    Full-text attempts on 2026-10-01: the publisher's DOI page, article
+    page and the PDF link Crossref deposits all returned 403 to curl and to
+    a fetch tool; Europe PMC lists it as not in PMC and not open access in
+    its index; OpenAlex and Semantic Scholar point only back to the
+    publisher; the Wayback Machine had no capture in its availability API
+    and live Wayback and archive.today requests were reset by the proxy;
+    ResearchGate and scite returned 403. Not held in the Anthology of the
+    SOTA: a grep of its record for "Hofstadter" and the DOI found nothing.
+tags:
+- consciousness
+- cognition
+- identity
+- philosophy-of-language
+date: '2026-10-01'
+published: '2026-05-14'
+doi: '10.1098/rsta.2024.0527'
+first_author: 'Hofstadter'
+keywords:
+- 'artificial intelligence'
+- 'large language models'
+- 'consciousness'
+- 'self'
+- 'Turing test'
+implementations: []
+summary: >-
+  Hofstadter (2026), DOI-10.1098/rsta.2024.0527. The lead essay of the
+  Phil. Trans. A theme issue on world models whose editorial is [LIT-195](LIT-195.md).
+  Unread: what is known of it here comes from the editorial as read in
+  [NOTE-136](../notes.d/NOTE-136.md), which quotes Hofstadter that a system passing a Turing test of
+  consistent understanding should be credited with thinking, and that
+  conscious AI may come "perhaps even by 2033". Whether the essay argues
+  "nearly the opposite" of the editors' convergence verdict cannot be
+  checked until the essay itself is read.
+---
+<!-- inactive-ok-file: LIT-tmpsfaz3 — Deferred, closed access; Mitchell & Hofstadter's Copycat paper, named as the program's primary description, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named as the account a behavioural criterion for thought runs into, not leaned on -->
+
+# LIT-tmphpjjx: Is there an 'I' in AI?
+
+Douglas Hofstadter (2026), *Philosophical Transactions of the Royal Society A
+384(2320), 20240527, theme issue "World models in natural and artificial
+intelligence"* — DOI-10.1098/rsta.2024.0527 (received 21 January 2025,
+accepted 19 June 2025, published 14 May 2026; CC BY 4.0).
+
+## Standing in the record
+
+Filed on 2026-10-01 at the owner's request for Douglas Hofstadter's work in
+this record, and named by [NOTE-136](../notes.d/NOTE-136.md) as a candidate follow-up to the theme
+issue's editorial ([LIT-195](LIT-195.md)). It is the issue's lead contribution: the
+editorial opens its §2(a)(i) with it and takes its epigraph from it.
+
+`Deferred` because no lawful full text could be reached (see the history
+note), so no NOTE is filed. What the record can say without the essay, all
+of it second-hand through [NOTE-136](../notes.d/NOTE-136.md)'s reading of the editorial:
+
+- The editors quote Hofstadter that a system which passes a Turing test
+  probing for consistent understanding should be credited with thinking,
+  and that conscious AI may arrive "perhaps even by 2033" ([NOTE-136](../notes.d/NOTE-136.md),
+  claim C8).
+- [NOTE-136](../notes.d/NOTE-136.md) says, under its limitations, that Hofstadter "argues nearly the
+  opposite" of the editors' verdict that the issue converges on LLMs
+  "probably" lacking coherent causal world models, consciousness and a
+  likely path to superintelligence.
+
+**Is "nearly the opposite" right?** It cannot be confirmed from what this
+record has read, and on that evidence it looks too strong. The editors'
+verdict is about today's LLMs. The quotation [NOTE-136](../notes.d/NOTE-136.md) reports is a
+criterion (understanding shown in a demanding Turing test suffices for
+thinking) and a forecast (conscious AI perhaps by 2033). A forecast that
+consciousness may arrive within a decade does not say present systems have
+it, and is compatible with the editors' "probably not yet". What the reported
+quotation does oppose is the editors' framing: a behavioural criterion for
+thinking, where the editorial ties world modelling and consciousness to
+embodiment, agency and life. The defensible wording, until the essay is read,
+is that Hofstadter dissents from the editors' framing and is more open than
+they are to machine thought and consciousness; whether he says current LLMs
+think or have an "I" is the question a reading must answer. That correction
+belongs in [NOTE-136](../notes.d/NOTE-136.md) once the essay is read, not before.
+
+Where it would sit in the record:
+
+- It is a party to the dispute [THEORY-023](../theory.d/THEORY-023.md) describes. A Turing-test criterion
+  takes humanlike behaviour as evidence of thought, which is the evidence
+  [THEORY-023](../theory.d/THEORY-023.md) says mimicry undercuts in a system trained on human output.
+  Seth's biological naturalism ([LIT-135](LIT-135.md)) and Roberts's account of chatbot
+  self-ascriptions as fiction ([LIT-207](LIT-207.md)) are the record's readings on the
+  other side; Freeborn's conditions for understanding in deep networks
+  ([LIT-131](LIT-131.md)) are the nearest attempt to make "understanding" testable.
+- The title's "I" is Hofstadter's long-standing subject: the self as a
+  self-referential pattern, the thesis of *Gödel, Escher, Bach* and *I Am a
+  Strange Loop*, which are being filed beside this work. Whether the essay
+  applies that account to language models is, again, for a reading to say.
+- The Fluid Analogies Research Group's papers filed with it (the Copycat
+  paper, [LIT-tmpsfaz3](LIT-tmpsfaz3.md), and the critique of hand-coded representations,
+  [LIT-tmph3vnp](LIT-tmph3vnp.md)) are where his earlier criterion for understanding was
+  worked out: perception and concepts built by the system itself. A reading
+  should check whether the essay holds LLMs to that criterion.
+
+What a reading should check: the exact form of the Turing-test criterion and
+of the 2033 forecast; whether the essay says present LLMs think or are
+conscious; and whether it engages Krakauer, Krakauer & Mitchell's "less is
+more" contribution to the same issue, whose reading of OthelloGPT as a "bag
+of heuristics" the editorial reports ([NOTE-136](../notes.d/NOTE-136.md)). Melanie Mitchell, Copycat's
+co-author, is also among the editorial's authors.

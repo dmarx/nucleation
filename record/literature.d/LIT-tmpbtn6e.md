@@ -1,0 +1,147 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmp1vf03](../notes.d/NOTE-tmp1vf03.md)), in a retyped course copy, not the printed book; worth reading as the founding thought experiment on where a person is when brain and body are apart, and the place the record''s threads on extended vehicles, scattered individuals and functional duplicates meet. It is fiction with a philosophical argument inside it. It tries three answers to "where am I?" (where the body is, where the brain is, where the point of view is), favours the third, admits it is unclear, and ends by showing that two synchronised brains can drift into two persons. It argues by intuition pump and settles nothing; the narrator calls one of its answers a truth "of underwhelming significance".'
+title: 'Where Am I?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full (an 8-page retyped copy posted on a Lehigh University
+    course page, lehigh.edu/~mhb0/Dennett-WhereAmI.pdf, PDF created 21
+    December 2009, about 6,400 words; text extracted with PyMuPDF). It
+    has the whole essay from "Now that I've won my suit under the Freedom
+    of Information Act" to the second Dennett's "we'd—better sit down",
+    no notes, and no source line or page numbers, so it is not known
+    which printing it was typed from. Brainstorms (1978), the MIT Press
+    reprint (1981) and The Mind's I (1981) were not seen; the Internet
+    Archive scan of the 1978 book is lending-only, and I did not open it.
+    Citation checked against the Library of Congress record for
+    Brainstorms (LCCN 78013723, via the Internet Archive's public MARC
+    record and loc.gov) and against Crossref for the MIT Press chapters.
+    Not held in the Anthology of the SOTA (a grep of its literature.d for
+    the title and "Dennett" found nothing).
+tags:
+- identity
+- consciousness
+- metaphysics
+- mereology
+- philosophy-of-language
+date: '2026-10-02'
+published: '1978-01-01'
+doi: '10.7551/mitpress/1664.003.0023'
+first_author: 'Dennett'
+keywords:
+- 'personal identity'
+- 'personal location'
+- 'point of view'
+- 'brain in a vat'
+- 'indexicals'
+- 'teleoperation'
+- 'functional duplicate'
+- 'fission'
+implementations: []
+summary: >-
+  Dennett (1978), the closing essay of Brainstorms. A narrator's brain
+  ("Yorick") is kept in a vat in Houston and radio-linked to his body
+  ("Hamlet") under Tulsa. Where is he? Not simply where the body is, and
+  not simply where the brain is: he cannot think "here" of the vat. He
+  favours being wherever his point of view is, finds that unclear, and
+  when the links fail finds himself "in Houston". A computer duplicate
+  ("Hubert") runs in step with Yorick, and either can drive a new body
+  with no detectable switch. The essay ends when the two drift out of
+  step and a second person speaks through the body.
+---
+<!-- inactive-ok-file: LIT-tmpg4bap — Deferred, no lawful full text; named as the anthology that reprints this essay -->
+<!-- inactive-ok-file: THEORY-tmp31lxe — Proposed; named as the bridge this essay bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question Hubert bears on, not leaned on -->
+
+# LIT-tmpbtn6e: Where Am I?
+
+Daniel C. Dennett (1978), "Where Am I?", ch. 17 of *Brainstorms:
+Philosophical Essays on Mind and Psychology*, Montgomery, VT: Bradford
+Books (1st ed., c1978; xxii, 353 pp.; Library of Congress 78013723).
+Reprinted in the MIT Press edition of *Brainstorms* (1981; DOI
+10.7551/mitpress/1664.003.0023) and in its 40th-anniversary edition (2017,
+pp. 333–346; DOI 10.7551/mitpress/11146.003.0025). Also reprinted in D. R.
+Hofstadter and D. C. Dennett (eds.), *The Mind's I* (Basic Books, 1981), as
+ch. 13 by secondary contents lists; the book itself was not seen here.
+
+**On the citation.** The brief's details are right: the title, *Brainstorms*,
+Bradford Books, 1978, and the reprint in *The Mind's I*. Three things need
+adding:
+
+- **Pages.** I could not confirm the 1978 page range. Crossref gives no
+  pages for the 1981 MIT chapter, and the 1978 scan is lending-only. Only
+  the 2017 range (pp. 333–346) is confirmed, from Crossref.
+- **Identifier.** The 1978 Bradford printing has no DOI. The DOI here is
+  the 1981 MIT Press printing's chapter, which resolves to the MIT Press
+  page. The 1981 edition reprints the 1978 book. `published:` is the first appearance, the 1978
+  book, by year only, since no source gives a month.
+- **It was a talk.** The text addresses "ladies and gentlemen" and ends
+  "Just as soon as this colloquium is over". I found no source that names
+  the colloquium or its date, so none is given.
+
+## Key takeaways
+
+- **Neither "where my body is" nor "where my brain is" answers "where am
+  I?"** Brain-transplant cases tell against the first ("one wanted to be the
+  donor not the recipient"). The narrator cannot make "Here I am, suspended
+  in a bubbling fluid" feel true, which tells against the second.
+- **The candidate answer is the point of view.** "At any given time a
+  person has a point of view and the location of the point of view …
+  is also the location of the person." The narrator admits point of view is
+  "itself an unclear notion": a teleoperator shifts it without moving, and
+  the Cinerama viewer is fooled.
+- **A person can be in two places at once,** "one of those scattered
+  individuals", and that answer makes the question seem less important, "a
+  sad, but not unprecedented, fate for a philosophical question".
+- **A functional duplicate makes no detectable difference.** "Hubert", a
+  computer copy of the brain run in step with it, can take over the body
+  mid-sentence with no trace except a click. Which is "the true Dennett" is
+  then a question of legal analogies, not metaphysics.
+- **Synchrony is what made one person of two brains.** When Hubert and
+  Yorick drift "a bit out of synch", the difference snowballs and there are
+  two persons sharing one body, one of whom has been a helpless passenger.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request for Daniel Dennett. [NOTE-tmp1vf03](../notes.d/NOTE-tmp1vf03.md)
+is the reading, and it placed the work: **Active**. It is the thought
+experiment the later literature means by "Dennett's brain in a vat in
+Houston", and it is short. Read it as an intuition pump. Its official
+answer is offered with doubts, and its two later scenes, the switch and the
+drift, carry the weight.
+
+No anthology topic holds it, it carries no instruction for machine-learning
+practice, and the anthology does not hold it. The anthology's
+`agents-and-environments` covers agents trained in environments, not where
+a person is.
+
+Where it meets the record's threads, set out in the NOTE:
+
+- **The extended mind** ([LIT-097](LIT-097.md), read in [NOTE-180](../notes.d/NOTE-180.md)). Clark and Chalmers argue
+  that the vehicles of a mind can lie outside the skull. This essay, twenty
+  years earlier, makes the vehicles as scattered as one likes, brain in
+  Houston and body in Tulsa, and asks where the person then is. Its answer
+  is the point of view, not the location of the vehicles. Clark and
+  Chalmers's extended self is the same question asked of the notebook.
+- **The bridge between a society of mind and a conscious United States**
+  ([THEORY-tmp31lxe](../theory.d/THEORY-tmp31lxe.md)). Schwitzgebel's case that spatial contiguity does not
+  matter ([LIT-159](LIT-159.md), [NOTE-131](../notes.d/NOTE-131.md)'s C2) has a person-sized precedent here. The
+  drift ending gives an individuation criterion: two brains are one person
+  while they stay in step, and two when they do not. That puts coupling,
+  not material or place, in charge of how many there are, which is Levin's
+  criterion for Selves ([LIT-tmpsygq0](LIT-tmpsygq0.md)).
+- **Functional duplicates and AI consciousness** ([THEORY-023](../theory.d/THEORY-023.md)). Hubert is a
+  computer running the brain's "complete information-processing structure",
+  and nothing the narrator can detect changes when it takes over. The essay
+  assumes that this preserves the person and asks only which duplicate is
+  him. Chalmers's fading-qualia argument, being filed in parallel, takes
+  the step the essay leaves implicit, and argues that experience is
+  preserved under such replacement.
+- Its companion on the self is "The Self as a Center of Narrative Gravity"
+  ([LIT-tmpws4cn](LIT-tmpws4cn.md)), which answers what a self is where this essay asks where.
+
+**Also in** *The Mind's I* ([LIT-tmpg4bap](LIT-tmpg4bap.md)). Its ch. 13 placement is
+unconfirmed from the book itself; see that entry's table of selections.

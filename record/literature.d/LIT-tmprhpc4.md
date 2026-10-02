@@ -1,0 +1,169 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmpp7yi8](../notes.d/NOTE-tmpp7yi8.md)); worth reading as the founding statement of qualia eliminativism and the source of the post-Cartesian side in the record''s consciousness readings. It argues by fifteen intuition pumps, not by proof, and says so. Its lasting results are two: the alternative-neurosurgery and Chase-and-Sanborn cases, which show that neither the subject nor the physiologist can separate a change in qualia from a change in reactions to them; and a positive account of practical ineffability and privacy as idiosyncratic, information-rich property detection. Its conclusion, "there simply are no qualia at all", is a tactical choice of words by the author''s own endnote 2, not a stronger thesis than that.'
+title: 'Quining Qualia'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full (the author's web text at
+    ase.tufts.edu/cogstud/papers/quinqual.htm, as printed to PDF on
+    2009-02-05 and posted at web.ics.purdue.edu/~drkelly/
+    DennettQuiningQualia1988.pdf, 27 printed browser pages; text extracted
+    with pypdf). I read §§1–6, endnotes 1–14 and the bibliography. Figure
+    1 (illusory contours) was not in the web text ("INSERT FIGURE 1 ABOUT
+    HERE"). The web text carries no book pagination, so this entry and its
+    NOTE cite sections and intuition-pump numbers. The Tufts page itself now
+    redirects to tufts.edu, and the Wayback Machine was unreachable from
+    here, so the copy read is a course mirror of the author's page; the
+    typeset OUP chapter was not seen. The citation was checked against
+    Crossref for DOI 10.1093/acprof:oso/9780198522379.003.0003 ("Quining
+    qualia", Consciousness in Contemporary Science, pp. 42–77, OUP) and
+    Open Library: the book was first published by Clarendon Press in 1988
+    (ISBN 0198521685); the DOI belongs to the 1992 paperback (ISBN
+    0198522371), which Crossref dates 1992-03-12. The brief's citation
+    (Marcel & Bisiach (eds.), Consciousness in Contemporary Science, OUP,
+    1988) is correct. The author's own web header gives the book title as
+    "Consciousness in Modern Science", which is wrong. One secondary
+    reference list gives pp. 43–77; I follow Crossref's 42–77, unchecked
+    against the printed book. `published:` is the year only. Not held in
+    the Anthology of the SOTA (grep of its literature.d for Dennett, the
+    title and qualia: none).
+tags:
+- consciousness
+- metaphysics
+- epistemology
+- cognition
+date: '2026-10-02'
+published: '1988-01-01'
+doi: '10.1093/acprof:oso/9780198522379.003.0003'
+first_author: 'Dennett'
+keywords:
+- 'qualia'
+- 'eliminative materialism'
+- 'intuition pumps'
+- 'inverted spectrum'
+- 'privileged access'
+- 'intrinsic properties'
+- 'ineffability'
+- 'Chase and Sanborn'
+- 'achromatopsia'
+implementations: []
+summary: >-
+  Dennett (1988), in Marcel & Bisiach (eds.), Consciousness in Contemporary
+  Science, OUP, pp. 42–77. Qualia as tradition has them are ineffable,
+  intrinsic, private and directly apprehensible, and fifteen intuition pumps
+  argue that nothing has all four. Two neurosurgical routes to an apparent
+  colour inversion, one changing qualia and one only memory-linked
+  reactions, feel the same from the inside. So the subject cannot know his
+  own qualia better than an outside tester can. What is real is practical
+  ineffability and idiosyncrasy: we refer to information-rich public
+  properties through our own detectors of them. Hence "there simply are no
+  qualia at all".
+---
+<!-- inactive-ok-file: THEORY-tmp31lxe — Proposed; this entry says how the work bears on that account, and does not lean on it -->
+<!-- inactive-ok-file: LIT-tmpx5pc6 LIT-tmps3fbb — Deferred: no readable full text; named as where the argument continues, not leaned on -->
+
+# LIT-tmprhpc4: Quining Qualia
+
+Daniel C. Dennett (1988), "Quining Qualia", in A. J. Marcel and E. Bisiach
+(eds), *Consciousness in Contemporary Science*, Oxford: Clarendon Press, pp.
+42–77 (paperback 1992). Reprinted in W. Lycan (ed.), *Mind and Cognition*
+(MIT Press, 1990) and A. Goldman (ed.), *Readings in Philosophy and
+Cognitive Science* (MIT Press, 1993). Endnote 14 gives its history: a first
+version read at University College London in November 1978, circulated as
+Tufts Cognitive Science Working Paper [#7](https://github.com/dmarx/nucleation/issues/7) (December 1979), revised for the
+Villa Olmo workshop at Como in April 1985; the published text is the fourth
+version.
+
+## Key takeaways
+
+- **The target (§2).** Qualia are supposed to be properties of experience
+  that are (1) ineffable, (2) intrinsic, (3) private and (4) directly or
+  immediately apprehensible. The paper's claim is that experience has no
+  properties special in any of these ways. It does not deny that experience
+  is real or that it has properties.
+- **No privileged access (§§3–4).** In the intrapersonal inverted spectrum,
+  inverting an early visual channel (qualia changed) and inverting the
+  memory links used to compare today's hues with yesterday's (only reactions
+  changed) produce the same experience of discovery. Nothing in the
+  subject's experience favours one (pump #6). The coffee tasters Chase and
+  Sanborn (pump [#7](https://github.com/dmarx/nucleation/issues/7)) generalise this: what they can know is that their
+  liking changed. Whether the taste or their standards changed is for
+  third-person testing to weigh, and even it cannot settle small cases.
+- **Not intrinsic (§4).** If reactions are allowed to be partly
+  constitutive of how a thing tastes, as the experienced beer drinker
+  insists (pump [#9](https://github.com/dmarx/nucleation/issues/9)), qualia become relational. If they are not, the
+  subject loses access to them. Asked to choose, people find their
+  pretheoretical concept does not decide.
+- **Real cases (§5).** Four achromatopsia cases (Damasio et al. 1980,
+  Geschwind and Fusillo 1966, Meadows 1974) split naming, sorting and
+  complaint in ways the qualia concept gives no rule for describing.
+- **The replacement (§6).** Practical ineffability is the information
+  richness of a property detector's deliverance (the osprey cry, the torn
+  Jello box). Privacy is idiosyncrasy of discrimination profiles, which is
+  empirically testable. "Homogeneity" is functional invariability, which
+  training can break (the guitar harmonic).
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request for Dennett, as the paper the
+record's consciousness readings name when they name the post-Cartesian side.
+Frankish's illusionist commentary ([LIT-103](LIT-103.md), read in [NOTE-143](../notes.d/NOTE-143.md)) cites "Dennett
+1988" as a founding text of qualia eliminativism; this is that text.
+
+**On Block's absent-qualia intuition ([LIT-tmpc6np5](LIT-tmpc6np5.md), read in [NOTE-tmpxt8ou](../notes.d/NOTE-tmpxt8ou.md)).**
+The paper names Block's "Troubles with Functionalism" twice: for the jazz
+reply to "what are qualia?" ("If you got to ask, you ain't never gonna get to
+know", which Dennett calls the very presumption he targets) and for
+"immediate phenomenological qualities". Its wine-tasting machine (pump #2)
+is an absent-qualia case in miniature: a system that matches human tasters
+on every test and, the intuition says, still lacks the qualia. Dennett says
+that anyone who shares that intuition believes in qualia in the sense he
+means to demolish. So the paper does not answer the China-brain argument
+step by step. It attacks what the argument presupposes, a property of
+experience that can be held fixed or removed while every functional and
+reactive disposition stays the same. Read against Block's claims, as I
+read them:
+
+- Block's C3 says the intuition that a functional homunculi-head lacks
+  qualia has a rational basis. Pumps #6–[#8](https://github.com/dmarx/nucleation/issues/8) deny the premise that the
+  intuition is about something anyone could detect, the subject included.
+  If the subject cannot tell absent or shifted qualia from shifted
+  reactions, nobody's intuition about a nation's qualia is better placed.
+- Block's C5 says his doubt does not depend on the homunculi being minded.
+  The paper agrees in effect: its argument concerns qualia in any system,
+  not nesting.
+- Block's C6, that a homunculi-head could have beliefs, is untouched. The
+  paper's dispute is only over the qualia Block keeps back.
+
+**On the society-of-mind bridge ([THEORY-tmp31lxe](../theory.d/THEORY-tmp31lxe.md)).** The THEORY says the
+dispute between Minsky's downward and Schwitzgebel's upward move narrows to
+phenomenal consciousness. This paper is the position on which it does not
+narrow there. If there are no qualia in the target sense, the residue Block
+and List reserve for persons and deny to groups is not a further fact. The
+question becomes which functional and reactive capacities each system has,
+which is the agency question the readings already agree on. That is my
+reading of what follows; the paper does not discuss groups, nations or
+nesting. It also leaves the THEORY's promotion condition where it was: it
+offers no criterion that separates a modular mind from a nation, and its
+position would make such a criterion a matter of degrees of capacity.
+
+**On Chalmers.** "Absent Qualia, Fading Qualia, Dancing Qualia"
+([LIT-tmp0swyc](LIT-tmp0swyc.md)) builds on the same structure as pumps #6 and [#8](https://github.com/dmarx/nucleation/issues/8). In both, a
+change in experience that the subject cannot notice is a premise of a
+reductio. Chalmers keeps qualia and concludes that they cannot fade or dance
+under fixed organisation. Dennett concludes that the concept of a quale
+separable from its reactions is incoherent. The two papers draw opposite
+conclusions from one premise, that such a change could not be noticed; the
+pairing is mine. Chalmers's later "Meta-Problem of Consciousness"
+([LIT-tmpn694x](LIT-tmpn694x.md)) lists Dennett's user illusion among candidate explanations of
+why we judge there is a hard problem.
+
+Dennett's longer statement is in *Consciousness Explained* ([LIT-tmpx5pc6](LIT-tmpx5pc6.md),
+whose ch. 12 is "Qualia disqualified"), and his later restatement as
+illusionism is [LIT-tmps3fbb](LIT-tmps3fbb.md). Both are filed unread.
+
+It carries no instruction for machine-learning practice, and it does not
+belong in the anthology.

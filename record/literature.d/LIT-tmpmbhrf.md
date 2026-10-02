@@ -1,0 +1,167 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-02 from the publisher''s description and the catalogue record''s contents note, not read: no lawful full text could be reached. The Internet Archive scan is lending-only, Norton posts no excerpt beyond its description, and Dennett posted no draft chapters that I could find. It stays Deferred until a copy is supplied. The claim the record wants from it, competence without comprehension, is not stated in the description or the contents, so nothing here places it.'
+title: 'From Bacteria to Bach and Back: The Evolution of Minds'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Registered, not read. Citation checked against the Internet Archive's
+    public MARC record of its catalogue copy (frombacteriatoba0000denn;
+    Library of Congress 2016046790): W. W. Norton, New York, first
+    edition, [2017], xviii, 476 pp. and 2 unnumbered pages of plates,
+    ISBN 978-0-393-24207-2. The on-sale date, 7 February 2017, is from
+    Open Library's edition record and Goodreads' editions list. Norton's
+    own page for the hardback ISBN now carries the paperback's data (20
+    February 2018). Dennett's Tufts CV lists the book as Norton 2017 with
+    an Italian translation in 2018. Crossref has no DOI for the book. Not
+    held in the Anthology of the SOTA (a grep of its literature.d for the
+    title and "Dennett" found nothing).
+tags:
+- cognition
+- consciousness
+- natural-sciences
+- agency
+- linguistics
+- social-science
+date: '2026-10-02'
+published: '2017-02-07'
+url: 'https://wwnorton.com/books/9780393242072'
+first_author: 'Dennett'
+keywords:
+- 'evolution of minds'
+- 'natural selection'
+- 'memes'
+- 'cultural evolution'
+- 'origins of language'
+- 'strange inversion of reasoning'
+- 'user-illusion'
+- 'intelligent design'
+implementations: []
+summary: >-
+  Dennett (2017), W. W. Norton. Per its publisher, the book shows "step by
+  step, how a comprehending mind could in fact have arisen from a mindless
+  process of natural selection", with the decisive shift the sharing of
+  memes, which produced "thinking tools" powerful enough that minds
+  "create and comprehend". Its contents run from the origin of reasons and
+  "two strange inversions of reasoning", through information, "brains made
+  of brains", words, memes and the origins of language, to consciousness as
+  "an evolved user-illusion" and "the age of post-intelligent design".
+  Unread: registered from the description and the catalogue's contents
+  note.
+---
+<!-- inactive-ok-file: THEORY-tmp31lxe — Proposed; named as the bridge the book's claim would bear on, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question the book's last part takes a side on, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpqepho — Deferred, no lawful full text; named as the decomposition the book's "brains made of brains" would be compared with, not leaned on -->
+
+# LIT-tmpmbhrf: From Bacteria to Bach and Back: The Evolution of Minds
+
+Daniel C. Dennett (2017), *From Bacteria to Bach and Back: The Evolution of
+Minds*, New York: W. W. Norton & Company (first edition; hardback ISBN
+978-0-393-24207-2; Library of Congress 2016046790; xviii, 476 pp., 2
+unnumbered pages of plates, illustrated, some in colour; bibliography and
+index). A Norton paperback followed on 20 February 2018 (ISBN
+978-0-393-35550-5).
+
+**On the citation.** The brief's details are right: the title, the subtitle,
+W. W. Norton and 2017. The exact first-appearance date, 7 February 2017, is
+from secondary catalogues, not from the publisher.
+
+## Key takeaways
+
+*Registered from the publisher's description and the catalogue record, not a
+reading. What follows is what the book and its cataloguers say about it.*
+
+- The publisher's description (Norton), verbatim in part: "How did we come
+  to have minds? … Disciples of Darwin have explained how natural selection
+  produced plants, but what about the human mind? In *From Bacteria to Bach
+  and Back*, Daniel C. Dennett builds on recent discoveries from biology and
+  computer science to show, step by step, how a comprehending mind could in
+  fact have arisen from a mindless process of natural selection. A crucial
+  shift occurred when humans developed the ability to share memes, or ways
+  of doing things not based in genetic instinct. Competition among memes
+  produced thinking tools powerful enough that our minds don't just
+  perceive and react, they create and comprehend."
+- The catalogue's summary: "a major new account of the origins of the
+  conscious mind that explores the deep interactions of evolution, brains,
+  and human culture, demonstrating the role of culture in installing memes,
+  including language, in the mind". Subject heading: consciousness.
+- Contents, from the catalogue's contents note, in three parts:
+  - *Turning our world upside down*: Introduction; Before bacteria and
+    Bach; On the origin of reasons; Two strange inversions of reasoning;
+    The evolution of understanding.
+  - *From evolution to intelligent design*: What is information?; Darwinian
+    spaces: an interlude; Brains made of brains; The role of words in
+    cultural evolution; The meme's-eye point of view; What's wrong with
+    memes? Objections and replies; The origins of language; The evolution
+    of cultural evolution.
+  - *Turning our minds inside out*: Consciousness as an evolved
+    user-illusion; The age of post-intelligent design.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request for Daniel Dennett, as his
+book-length account of how comprehension evolved from processes that have
+none. No anthology topic holds it: its subject is the evolution of minds and
+culture. Its last chapter's title promises a view on artificial
+intelligence, but nothing reachable shows an instruction for machine-learning
+practice, and the anthology does not hold it.
+
+`Deferred` because it was not read. This record files a book from its
+publisher's description and contents when no lawful text can be read, and
+does not rebuild a book from what others say about it.
+
+**The claim the record wants is not yet in hand.** The owner asked for the
+book as the source of "competence without comprehension", to be set against
+Selfridge ([LIT-tmpol46q](LIT-tmpol46q.md)), Minsky and Levin ([LIT-tmpsygq0](LIT-tmpsygq0.md)). That phrase is in
+neither the description nor the contents. The description says something
+near it: a "comprehending mind" arose "from a mindless process". The contents
+title "Two strange inversions of reasoning" may be where the claim is
+stated, but that is my guess from a title. A reading of the book, or of a
+paper of Dennett's that states the claim on its own, is what would let the
+record place it.
+
+What can be said now:
+
+- **Levin cites the book.** Levin's paper ([LIT-tmpsygq0](LIT-tmpsygq0.md)) cites it for the
+  assumption that "there is no such thing as magical 'true cognition' that is
+  the province of humans, without a smooth history of precursor capacities in
+  simpler forms, stretching back to the base of the tree of life". I checked
+  that sentence in Levin's full text. That is the gradualism the book's
+  description promises. It is also the premise on which Levin's cells are
+  "competent" agents in their own right.
+- **The bridge** ([THEORY-tmp31lxe](../theory.d/THEORY-tmp31lxe.md)). The contents entry "Brains made of brains"
+  sits, by its title, on the decomposition side with Selfridge's demons and
+  Minsky's agents ([LIT-tmpqepho](LIT-tmpqepho.md)): a competence the whole has, produced by parts
+  that lack the comprehension the whole has. If the book's claim is that
+  competence can exist without comprehension at every level, it would back
+  the downward direction of the bridge. On Levin's reading it would back
+  the upward one as well, since it grants the parts competence. Which the
+  book supports, only a reading can say. The pairing is mine.
+- **Consciousness.** "Consciousness as an evolved user-illusion" puts the
+  book with Dennett's consciousness papers, being filed in parallel, and
+  against the views that make feelings the source of consciousness, such as
+  Damasio's evolutionary account of feelings ([LIT-388](LIT-388.md)). It also bears on
+  whether any evidence can settle machine consciousness ([THEORY-023](../theory.d/THEORY-023.md)), where
+  an illusionist answer changes what the evidence would be evidence of. Both
+  pairings are inferences from chapter titles.
+
+Access when registered:
+
+- Norton's page for ISBN 9780393242072 (wwnorton.com): the description; its
+  embedded edition data are now the paperback's.
+- The Internet Archive's public MARC record for its catalogue copy
+  (frombacteriatoba0000denn): LCCN, ISBN, extent, contents note and
+  summary. The scan itself is lending-only (access-restricted), so I did not
+  open it.
+- Open Library's edition records and Goodreads' editions list: the on-sale
+  date. The loc.gov JSON record for the LCCN did not return.
+- Dennett's curricula vitae in the Tufts Digital Library: the book's entry
+  and the lectures he gave on it, 2017–2018. The library holds no draft or
+  chapter of the book under its title.
+- Crossref: no DOI for the book.
+- Not looked for here, and the natural next source: Dennett's open-access
+  paper "Darwin's 'strange inversion of reasoning'", *PNAS* 106 (2009),
+  10061–10065 (DOI 10.1073/pnas.0904433106, checked on Crossref), whose
+  title matches the book's fourth chapter. It is not held in either record.
