@@ -4,7 +4,14 @@ status: Rejected
 formerly:
 - THEORY-tmp4dpbp
 title: 'Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-01'
+  note: >-
+    Isham 1997 (LIT-390) added to source as a further counterexample:
+    global sections exist for every proposition, yet excluded middle fails
+    (its Appendix B).
 tags:
 - logic
 - quantum-foundations
@@ -15,6 +22,7 @@ source:
 - LIT-276
 - LIT-325
 - LIT-343
+- LIT-390
 summary: >-
   Ghose (2025), [LIT-276](../literature.d/LIT-276.md) — asserts that the Heyting algebra of truth values
   "becomes Boolean" when the presheaf data collapse to a global section,
@@ -42,6 +50,8 @@ The account fails on the record's readings.
 - **The Boolean case is narrow.** A presheaf topos is Boolean iff its base is a groupoid ([NOTE-249](../notes.d/NOTE-249.md), a standard fact the reader supplies). A context category with non-invertible refinements is not a groupoid.
 - **Sheaves are not Boolean either.** The truth values of Sh(ℝ) are the open sets of ℝ, a non-Boolean Heyting algebra ([NOTE-249](../notes.d/NOTE-249.md)). A Boolean sheaf topos needs a special topology, such as the double-negation topology, and [LIT-276](../literature.d/LIT-276.md) names none.
 - **Sheafification decides nothing.** It is a functor fixed by the topology and applied to every presheaf alike. On Abramsky–Brandenburger's site it either changes nothing or adjoins the empirical model itself as a formal section, and whether that model is contextual is unchanged ([NOTE-249](../notes.d/NOTE-249.md), the reader's sketch).
+
+**A further, cleaner counterexample (added 2026-10-01).** Isham 1997 ([LIT-390](../literature.d/LIT-390.md), [NOTE-333](../notes.d/NOTE-333.md)) works over the poset of Boolean subalgebras of a history orthoalgebra. There the constant presheaf has a global section for every proposition, yet its subobjects take non-Boolean, sieve-valued truth values, and the paper's Appendix B computes ¬U_d = {0, 1}, an explicit failure of excluded middle. Having global sections, then, does not restore Boolean logic: what fixes the logic is the base category, as the rejection above says.
 
 ## What this does not say
 
