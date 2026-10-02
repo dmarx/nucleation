@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmphe83d
 paper: LIT-159
 title: 'Schwitzgebel — If materialism is true, the US is conscious'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -22,6 +22,16 @@ history:
     manuscript's.). Upgraded from `Skimmed` to `Read`: the claims table,
     assumptions and results are new, and the skim is corrected where the
     full text disagreed.
+- version: 3
+  date: '2026-10-02'
+  note: >-
+    Three corrections from later readings, each marked in the text. Block's
+    counterexample to Putnam is elementary-particle people, not tiny people
+    as neurons (NOTE-tmpxt8ou). Schwitzgebel's quotation of Putnam is a
+    paraphrase, and Putnam first appeared in print in 1967 (NOTE-tmp01au9).
+    The "Brooks (1986)" of the group-mind tradition is most likely D. H. M.
+    Brooks, not Rodney Brooks (NOTE-tmpcsgpq). The paper's claims are
+    unchanged; what changed is how it reports its sources.
 date: '2026-09-26'
 summary: >-
   A conditional, informal argument. Any materialist criterion liberal
@@ -38,6 +48,7 @@ summary: >-
   undecided between three readings: US consciousness, a challenge to
   materialists, or grounds to distrust universal metaphysics of mind.
 ---
+<!-- inactive-ok-file: LIT-tmp2uffs NOTE-tmp01au9 — Putnam's paper, Deferred and only skimmed from an excerpt; cited for the wording of his condition (3) and its 1967 first printing, which the excerpt does show -->
 
 # NOTE-131: Schwitzgebel — If materialism is true, the US is conscious
 
@@ -74,9 +85,9 @@ All are informal arguments. There are no theorems and no data.
   - *Degree.* "In fact, it seems to have them in a greater degree than do some beings, like rabbits" (p. 22). "Is there less information, less coordination, less intelligence than in a hamster?" (p. 20).
 - **The argument does not depend on social-ontology anti-reductionism (pp. 21–22).** The actions of the US may be reducible to those of its members without settling whether the US is phenomenally conscious, just as the brain-reducibility of human consciousness does not eliminate it.
 - **Anti-nesting principles fail (§2, pp. 11–13).**
-  - Putnam (1965) stipulates that "No organism capable of feeling pain possesses a decomposition into parts which are separately capable of feeling pain." Putnam's only motive is to rule out "swarms of bees as single pain-feelers" (p. 163). Schwitzgebel calls it "a danglingly unjustified exception to his otherwise clean functionalism" (p. 11).
+  - Putnam (1965) stipulates that "No organism capable of feeling pain possesses a decomposition into parts which are separately capable of feeling pain." Putnam's only motive is to rule out "swarms of bees as single pain-feelers" (p. 163). *Corrected at v3:* the first quotation is Schwitzgebel's paraphrase, not Putnam's words. Putnam's condition (3) reads "parts which separately possess Descriptions of the kind referred to in (2)". The paper first appeared in print in 1967, in the proceedings of a 1965 colloquium ([LIT-tmp2uffs](../literature.d/LIT-tmp2uffs.md), [NOTE-tmp01au9](NOTE-tmp01au9.md)), and "p. 163" matches no edition checked. Schwitzgebel calls it "a danglingly unjustified exception to his otherwise clean functionalism" (p. 11).
   - Tononi's IIT exclusion postulate says that where integrated systems nest, consciousness occurs only at the level that integrates the most information. It is defended by Occam's razor plus the apparent absurdity of a two-person group consciousness. This intuition sits oddly with Tononi's "near panpsychism" (a photodiode or an OR-gate has one bit's worth). Occam's razor is "a tricky implement" in part–whole cases: "Is a hydrogen atom unnecessary once one admits the proton and electron?" (p. 12).
-  - *Counter-consequences.* Block (1978/2007) argues against Putnam that if tiny conscious organisms took over the roles of your neurons, you would become nonconscious with no behavioural change. On Tononi's view, a large enough, well-organised election would make polity-level integration eclipse the brain's, so all the voters would lose consciousness. Because "greater than" is dichotomous, there would be "an exact point" at which one more mail-in ballot extinguishes every voter's consciousness with no detectable effect at the individual level (pp. 12–13, citing Tononi 2010 n. 9 and Tononi & Koch 2014 n. xii).
+  - *Counter-consequences.* Block (1978/2007) argues against Putnam that if tiny conscious organisms took over the roles of your neurons, you would become nonconscious with no behavioural change. *Corrected at v3:* that is Schwitzgebel's paraphrase. Block's own counterexample is people the size of elementary particles taking over a body's microphysics (p. 292). Of the neuron-level case, Block says intuition "seems to founder" (n. 17) ([LIT-tmpc6np5](../literature.d/LIT-tmpc6np5.md), [NOTE-tmpxt8ou](NOTE-tmpxt8ou.md)). On Tononi's view, a large enough, well-organised election would make polity-level integration eclipse the brain's, so all the voters would lose consciousness. Because "greater than" is dichotomous, there would be "an exact point" at which one more mail-in ballot extinguishes every voter's consciousness with no detectable effect at the individual level (pp. 12–13, citing Tononi 2010 n. 9 and Tononi & Koch 2014 n. xii).
 - **§6 objections answered (pp. 23–31).**
   - *Clark: high-bandwidth neural synchrony.* Raised to a necessity, this rules out swift serial processors and slow planet-sized parallel aliens that behave like us. No principled motivation is offered. "Analogous considerations will likely trouble most other attempts to exclude U.S. consciousness on broad architectural grounds" (p. 25).
   - *Dretske (correspondence): representations must be natural, not dependent on the conscious states of others.* The objection is apt for external users (a mercury column called a thermometer), but citizens are *internal* parts. On the antheads the criterion gives the wrong answer. It "is not exactly an anti-nesting principle" but "is subject to the same concerns", including loss of consciousness "upon inhaling Planck-scale people" (p. 26). National representations are "eminently natural" viewed telescopically (p. 27). Dretske reportedly modified his 1995 criterion (p. 7) in light of the correspondence (fn 24).
@@ -95,7 +106,7 @@ All are informal arguments. There are no theorems and no data.
 | C1 | If materialism is true, the US is probably conscious ("the most natural thing to conclude", p. 5) | weak–moderate (conditional, "gappy") | informal argument, a chain of thought experiments §§1, 3–5 |
 | C2 | Spatial contiguity is not required for entityhood or consciousness | moderate | Sirian supersquids thought experiment §1; physical-possibility plus large-universe argument pp. 8–9 |
 | C3 | A whole made of individually sensing, even individually conscious, parts can be conscious | moderate | Antarean antheads §1; "smarting up" p. 14; critique of anti-nesting §2 |
-| C4 | Putnam's anti-nesting principle is unjustified | moderate | textual: Putnam gives only the bees-absurdity motive (p. 11); Block's neuron-replacement counterexample |
+| C4 | Putnam's anti-nesting principle is unjustified | moderate | textual: Putnam gives only the bees-absurdity motive (p. 11); Block's counterexample (elementary-particle people, not neuron replacement; corrected at v3) |
 | C5 | IIT's exclusion postulate has absurd consequences (voters lose consciousness at a sharp one-ballot threshold) | moderate as a reductio of the postulate as stated in 2012–14 IIT | informal argument pp. 12–13 from Tononi's own dichotomous "greater than"; no formal Φ calculation |
 | C6 | The US has information exchange comparable in quantity to a brain (about 10^14 "connections"; about 10^12 bits/s from video alone) | weak | back-of-envelope Fermi estimate pp. 18–19 with a stipulated 1/300 factor; the author concedes quantity is not sufficient |
 | C7 | The US has materialist marks of consciousness (goal-directedness, self-monitoring, self-representation, embedding) "in a greater degree" than rabbits | weak–moderate | illustrative examples pp. 19–22 (Iraq, bin Laden, Census Bureau); nothing is measured |
@@ -122,7 +133,7 @@ The abstract's "the United States has all the types of properties that materiali
 
 ## Connections
 
-The paper sits in the functionalist-thought-experiment tradition of Block's China brain ("Troubles with functionalism" 1978/2007), Searle's Chinese room and beer cans, Lycan (1981) and Brooks's "Brain City" (1986). It departs from them by claiming an *actual* group entity rather than a hypothetical one (fn 21, p. 21). The anti-nesting discussion engages Putnam (1965) and IIT (Tononi 2008–2012; Oizumi, Albantakis & Tononi 2014; Tononi & Koch 2014). The IIT side of that exchange is held here as [LIT-185](../literature.d/LIT-185.md) (a sympathetic-critical assessment of IIT). That note's own dossier says it should be read against this paper's critique of the exclusion postulate. Nagel's "something it's like" formula ([LIT-096](../literature.d/LIT-096.md)) is the notion of phenomenal consciousness the paper uses throughout, though Nagel is not cited. The indicator-properties approach of Butlin et al. ([LIT-056](../literature.d/LIT-056.md)) is exposed to exactly this over-generation worry, since it attributes consciousness from functional and architectural marks. Whether any of [LIT-056](../literature.d/LIT-056.md)'s theory-derived indicators (for example global-workspace broadcast, which Schwitzgebel invokes against Chalmers on p. 29) excludes nations is not addressed by either work. The paper touches the mereological questions surveyed in [LIT-124](../literature.d/LIT-124.md) (restricted and unrestricted composition, contiguity) only informally. Schwitzgebel's later work held here continues the line: [LIT-191](../literature.d/LIT-191.md) (AI and Consciousness, 2025), on unresolvable uncertainty when mainstream theories disagree, and [LIT-166](../literature.d/LIT-166.md) (with Sinnott-Armstrong, 2026), on radical conditionals in the moral circle. Both extend the "crazyist" moral of §8. Among other held AI-consciousness works, [LIT-111](../literature.d/LIT-111.md) (Birch) and [LIT-135](../literature.d/LIT-135.md) (Seth's biological naturalism) bear on this paper: Seth's view is a candidate for the "something like human biology" position that §7 says Block and Searle never spelled out.
+The paper sits in the functionalist-thought-experiment tradition of Block's China brain ("Troubles with functionalism" 1978/2007), Searle's Chinese room and beer cans, Lycan (1981) and Brooks's "Brain City" (1986; most likely D. H. M. Brooks, "Group minds", *Australasian Journal of Philosophy* 64 (1986), not the roboticist Rodney Brooks of [LIT-tmpsfrs2](../literature.d/LIT-tmpsfrs2.md)). It departs from them by claiming an *actual* group entity rather than a hypothetical one (fn 21, p. 21). The anti-nesting discussion engages Putnam (1965) and IIT (Tononi 2008–2012; Oizumi, Albantakis & Tononi 2014; Tononi & Koch 2014). The IIT side of that exchange is held here as [LIT-185](../literature.d/LIT-185.md) (a sympathetic-critical assessment of IIT). That note's own dossier says it should be read against this paper's critique of the exclusion postulate. Nagel's "something it's like" formula ([LIT-096](../literature.d/LIT-096.md)) is the notion of phenomenal consciousness the paper uses throughout, though Nagel is not cited. The indicator-properties approach of Butlin et al. ([LIT-056](../literature.d/LIT-056.md)) is exposed to exactly this over-generation worry, since it attributes consciousness from functional and architectural marks. Whether any of [LIT-056](../literature.d/LIT-056.md)'s theory-derived indicators (for example global-workspace broadcast, which Schwitzgebel invokes against Chalmers on p. 29) excludes nations is not addressed by either work. The paper touches the mereological questions surveyed in [LIT-124](../literature.d/LIT-124.md) (restricted and unrestricted composition, contiguity) only informally. Schwitzgebel's later work held here continues the line: [LIT-191](../literature.d/LIT-191.md) (AI and Consciousness, 2025), on unresolvable uncertainty when mainstream theories disagree, and [LIT-166](../literature.d/LIT-166.md) (with Sinnott-Armstrong, 2026), on radical conditionals in the moral circle. Both extend the "crazyist" moral of §8. Among other held AI-consciousness works, [LIT-111](../literature.d/LIT-111.md) (Birch) and [LIT-135](../literature.d/LIT-135.md) (Seth's biological naturalism) bear on this paper: Seth's view is a candidate for the "something like human biology" position that §7 says Block and Searle never spelled out.
 
 ## Bearing on the record
 

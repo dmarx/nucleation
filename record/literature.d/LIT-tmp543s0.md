@@ -66,7 +66,7 @@ John R. Searle (1980), *Behavioral and Brain Sciences* 3(3), September 1980,
 pp. 417–424 (target article; with open peer commentary and the author's
 response, pp. 417–457) — DOI-10.1017/S0140525X00005756. Read from the
 unedited penultimate draft BBS circulated for commentary, posted by Stevan
-Harnad, BBS's founding editor
+Harnad, BBS's founding editor; the owner accepted this copy as lawful on 2026-10-02
 (https://www.southampton.ac.uk/~harnad/Temp/.searle.pdf). Reprinted as
 selection 22 of *The Mind's I* ([LIT-tmpg4bap](LIT-tmpg4bap.md)).
 

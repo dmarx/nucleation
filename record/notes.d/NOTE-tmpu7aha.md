@@ -265,5 +265,5 @@ All are informal. There are no formal results and no data.
   2015). The DOI is 10.1007/s11406-015-9653-z.
 - **Schwitzgebel's abstract page for his reply misdates it.** It lists
   Kammerer's paper as "Philosophia 42"; Crossref gives volume 43.
-- **[NOTE-188](NOTE-188.md)'s gloss omits condition B and the state-by-state scope** (see
+- **[NOTE-188](NOTE-188.md)'s gloss omitted condition B and the state-by-state scope** (corrected in [NOTE-188](NOTE-188.md) v2) (see
   Bearing on the record).

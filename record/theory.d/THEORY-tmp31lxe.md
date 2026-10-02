@@ -246,8 +246,8 @@ needed.
 
 ## Connections
 
-- **Corrections to [NOTE-131](../notes.d/NOTE-131.md) found in these readings.** Each is held in the
-  reading that found it. [NOTE-131](../notes.d/NOTE-131.md) is not yet edited.
+- **Corrections to [NOTE-131](../notes.d/NOTE-131.md) found in these readings.** Each was found
+  by a later reading, and all three are now applied in [NOTE-131](../notes.d/NOTE-131.md) v3.
   - Block's counterexample to Putnam is elementary-particle people, not
     tiny people as neurons ([NOTE-tmpxt8ou](../notes.d/NOTE-tmpxt8ou.md)).
   - Schwitzgebel's "quotation" of Putnam is a paraphrase, and the
