@@ -20,6 +20,7 @@ history:
     "England" and "dissipat" found nothing on it. `published:` is the arXiv
     v1 date.
 tags:
+- thermodynamics
 - natural-sciences
 - complex-systems
 - individuation

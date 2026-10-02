@@ -26,6 +26,7 @@ history:
     grep of its literature.d, notes.d and theory.d for "Glansdorff" and
     "Prigogine" found nothing.
 tags:
+- thermodynamics
 - natural-sciences
 - complex-systems
 date: '2026-10-02'

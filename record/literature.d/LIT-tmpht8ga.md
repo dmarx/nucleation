@@ -32,6 +32,7 @@ tags:
 - complex-systems
 - natural-sciences
 - mathematics
+- thermodynamics
 date: '2026-10-02'
 published: '1993-07-01'
 doi: '10.1103/RevModPhys.65.851'

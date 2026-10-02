@@ -21,6 +21,7 @@ history:
     DOI, "Morowitz" and "Energy flow" found nothing. `published:` is the
     working paper's date, its first appearance.
 tags:
+- thermodynamics
 - natural-sciences
 - complex-systems
 date: '2026-10-02'

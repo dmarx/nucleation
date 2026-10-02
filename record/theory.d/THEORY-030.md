@@ -28,6 +28,7 @@ history:
     an erasure the principle prices.
 tags:
 - information-theory
+- thermodynamics
 - natural-sciences
 - learning-theory
 - philosophy-of-science

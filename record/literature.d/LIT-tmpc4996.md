@@ -20,6 +20,7 @@ history:
     fluctuation theorems, at the owner's request to fill out the record's
     coverage of dissipative structures.
 tags:
+- thermodynamics
 - natural-sciences
 - information-theory
 date: '2026-10-02'

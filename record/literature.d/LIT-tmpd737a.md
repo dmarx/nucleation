@@ -25,6 +25,7 @@ history:
     "Prigogine" found nothing.
 tags:
 - complex-systems
+- thermodynamics
 - natural-sciences
 date: '2026-10-02'
 published: '1977-01-01'

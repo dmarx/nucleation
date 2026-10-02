@@ -19,6 +19,7 @@ history:
     literature.d for the DOI, the arXiv id, "England" and "self-replication"
     found nothing. `published:` is the arXiv v1 date.
 tags:
+- thermodynamics
 - natural-sciences
 - complex-systems
 - individuation

@@ -56,6 +56,9 @@ vocabularies:
         label: Natural sciences
         blurb: physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside
           any machine-learning claim
+      thermodynamics:
+        label: Thermodynamics
+        blurb: 'the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020)'
       operations-research:
         label: Operations research
         blurb: optimization of real systems — routing, scheduling, facility location, combinatorial algorithms

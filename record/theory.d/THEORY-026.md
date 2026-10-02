@@ -18,6 +18,7 @@ title: 'For a system driven without feedback, the work dissipated equals the mem
 version: 1
 tags:
 - information-theory
+- thermodynamics
 - natural-sciences
 - learning-theory
 - agency

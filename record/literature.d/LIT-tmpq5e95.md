@@ -20,6 +20,7 @@ history:
     nothing on it. `published:` is the issue month Crossref gives (March
     1994).
 tags:
+- thermodynamics
 - natural-sciences
 - complex-systems
 date: '2026-10-02'

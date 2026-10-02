@@ -24,6 +24,7 @@ history:
     theorems, at the owner's request to fill out the record's coverage of
     dissipative structures.
 tags:
+- thermodynamics
 - natural-sciences
 date: '2026-10-02'
 published: '1996-10-30'

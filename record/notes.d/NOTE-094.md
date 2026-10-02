@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp1ov5o
 paper: LIT-192
 title: 'Nahas & Sachs — What''s at stake in naturalizing teleology'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -31,6 +31,11 @@ history:
     sections.). Upgraded from `Skimmed` to `Read`: the claims table,
     assumptions and results are new, and the skim is corrected where the
     full text disagreed.
+- version: 3
+  date: '2026-10-02'
+  note: >-
+    LIT-211 is now read, not Deferred, and Connections points to the
+    dissipative-structure readings filed for the demarcation question.
 date: '2026-09-26'
 summary: >-
   The paper argues that "naturalizing teleology" serves at least two
@@ -47,6 +52,7 @@ summary: >-
   commitments (§4.2: García-Valdecasas's Aristotelian case for Deacon over
   the Organizational Approach).
 ---
+<!-- inactive-ok-file: LIT-tmpkdihk LIT-tmpwx4k1 — Deferred, no lawful full text; named as the unread accounts that claim a line, not leaned on -->
 
 # NOTE-094: Nahas & Sachs — What's at stake in naturalizing teleology
 
@@ -113,7 +119,8 @@ Metatheoretical analysis: survey the accounts (§2), distinguish the orientation
 - **[LIT-157](../literature.d/LIT-157.md) (Bourrat, reproducees and reproducers), read.** It is a biology-facing account of Darwinian individuality with operational "recipes" ([NOTE-100](NOTE-100.md)). It is an example of the scientific orientation's demand for operationalisation, which Nahas and Sachs say need not also settle metaphysics.
 - **[LIT-120](../literature.d/LIT-120.md) (Bruckner), read.** It uses a loose, behavioural notion of autopoiesis (after Thompson 2007) to ground welfare subjecthood. That is a third, normative use of organismal teleology. The paper does not engage the demarcation problem that Nahas and Sachs report for autopoiesis (Deacon and Cashman 2013) and for closure (candle flames).
 - **[LIT-110](../literature.d/LIT-110.md) (Baedke et al., reciprocal causation) and [LIT-156](../literature.d/LIT-156.md) (Hazelwood, a dilemma for reciprocal causation), both Deferred.** Nahas and Sachs cite Baedke, Fábregas-Tejeda and Prieto 2021 (the [LIT-110](../literature.d/LIT-110.md) paper) only for the history of organicism's sidelining (§3.1), not for reciprocal causation. The skim's link through Walsh is therefore thinner than it suggested.
-- **[LIT-211](../literature.d/LIT-211.md) (Bender et al., definitions of life), Deferred.** Its "Cognitive Autonomy" and "Dissipative Self-Organizing Systems" clusters map onto the OA/Deacon side and the dissipative-structure side of the demarcation dispute.
+- **[LIT-211](../literature.d/LIT-211.md) (Bender et al., definitions of life), read ([NOTE-109](NOTE-109.md)).** Its "Cognitive Autonomy" and "Dissipative Self-Organizing Systems" clusters map onto the OA/Deacon side and the dissipative-structure side of the demarcation dispute.
+- **The dissipative-structure literature, now filed.** Prigogine's Nobel lecture ([LIT-tmp452jw](../literature.d/LIT-tmp452jw.md)), Turing ([LIT-tmptpgzu](../literature.d/LIT-tmptpgzu.md)) and the BZ reaction ([LIT-tmpoej2u](../literature.d/LIT-tmpoej2u.md)) supply the canonical dissipative structures, and none of them draws a line between those and organisms; Prigogine counts "a living system" among them. Of the readings that try, only Friston ([LIT-tmpfy5q0](../literature.d/LIT-tmpfy5q0.md)) names the candle flame, asserting in one sentence that it "cannot possess a Markov blanket". Deacon ([LIT-tmpkdihk](../literature.d/LIT-tmpkdihk.md)), whose chapter with Cashman is the source of the candle-flame case here, and Moreno & Mossio ([LIT-tmpwx4k1](../literature.d/LIT-tmpwx4k1.md)) are filed unread.
 
 **Agency.** The paper holds no account of agency of its own. It presupposes that organism-centred teleology treats organisms as agents acting on their own behalf. It surveys three candidate accounts: organisational (closure, where agency is grounded in self-maintenance), semiotic (Deacon, where teleology is tied to interpretation and to continuity between life and mind), and behavioural/ecological (Walsh and Fulda's repertoire-biasing, McShea's graded field-relative goal-directedness). Its thesis is that which account is right depends on whether agency is wanted as a biological explanans or as a metaphysical ground for mind and normativity in nature. The tag is justified as primary.
 

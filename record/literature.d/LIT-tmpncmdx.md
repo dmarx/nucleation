@@ -5,6 +5,7 @@ title: 'What Is Life? The Physical Aspect of the Living Cell'
 version: 1
 tags:
 - natural-sciences
+- thermodynamics
 - complex-systems
 - philosophy-of-science
 date: '2026-10-02'

@@ -28,6 +28,7 @@ history:
     nothing.
 tags:
 - complex-systems
+- thermodynamics
 - natural-sciences
 - metaphysics
 date: '2026-10-02'
