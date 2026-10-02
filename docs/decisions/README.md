@@ -24,8 +24,8 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 ## By tag
 
-**[The record](tags/record.md)** (14) — what the schemes hold, and the rules between them:
-[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md) · [004](../../record/decisions.d/ADR-004.md) · [005](../../record/decisions.d/ADR-005.md) · [006](../../record/decisions.d/ADR-006.md) · [007](../../record/decisions.d/ADR-007.md) · [008](../../record/decisions.d/ADR-008.md) · [009](../../record/decisions.d/ADR-009.md) · [010](../../record/decisions.d/ADR-010.md) · [011](../../record/decisions.d/ADR-011.md) · [012](../../record/decisions.d/ADR-012.md) · [013](../../record/decisions.d/ADR-013.md) · [014](../../record/decisions.d/ADR-014.md)
+**[The record](tags/record.md)** (16) — what the schemes hold, and the rules between them:
+[001](../../record/decisions.d/ADR-001.md) · [002](../../record/decisions.d/ADR-002.md) · [003](../../record/decisions.d/ADR-003.md) · [004](../../record/decisions.d/ADR-004.md) · [005](../../record/decisions.d/ADR-005.md) · [006](../../record/decisions.d/ADR-006.md) · [007](../../record/decisions.d/ADR-007.md) · [008](../../record/decisions.d/ADR-008.md) · [009](../../record/decisions.d/ADR-009.md) · [010](../../record/decisions.d/ADR-010.md) · [011](../../record/decisions.d/ADR-011.md) · [012](../../record/decisions.d/ADR-012.md) · [013](../../record/decisions.d/ADR-013.md) · [014](../../record/decisions.d/ADR-014.md) · [015](../../record/decisions.d/ADR-015.md) · [016](../../record/decisions.d/ADR-016.md)
 
 **[Taxonomy](tags/taxonomy.md)** (0) — the topic vocabulary and what enforces it.
 
@@ -33,7 +33,7 @@ examples of both: [LU-ADR-019](https://github.com/dmarx/luria/blob/main/record/d
 
 **[Migration](tags/migration.md)** (0) — what moves between this record and the Anthology of the SOTA, and why.
 
-**By status:** [Active](status/Active.md) (14) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (16) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (0) · [Superseded](status/Superseded.md) (0) · [Rejected](status/Rejected.md) (0)
 
 ## Chronological
 
@@ -63,4 +63,6 @@ What the status column means in this scheme — the words are luria's, the meani
 | [ADR-012](../../record/decisions.d/ADR-012.md) | contextuality joins the topics | `contextuality` joins the topic vocabulary. It covers whether outcomes can be explained without reference to the context of measurement, in physics and outside it. The owner asked for the tag, and for the record's two threads on it to be brought together in THEORY documents. Until now the word lived only inside the `quantum-foundations` blurb. | Active |
 | [ADR-013](../../record/decisions.d/ADR-013.md) | A work may be held in both records when each reads it for its own question | [ADR-001](../../record/decisions.d/ADR-001.md) said nothing is filed in both nucleation and the anthology. That rule is narrowed: a work may hold a LIT in each record when each record reads it for a question of its own. The two entries name each other, and neither copies the other's reading. The owner asked for it so that the Lattice Representation Hypothesis, held in the anthology for concept geometry, could be re-read here against the geometry of information retrieval. | Active |
 | [ADR-014](../../record/decisions.d/ADR-014.md) | emotion-and-affect joins the topics | `emotion-and-affect` joins the topic vocabulary, in the `philosophy` group beside `consciousness` and `cognition`. It covers emotions, feelings and affect: what they are, their bodily and neural basis, their role in decision and behaviour, and whether they ground consciousness. The owner asked for it when Antonio Damasio's work came into the record, whose subject no existing word could say. Rejected: a separate word for homeostasis and interoception, which only the Damasio works would hold yet. | Active |
+| [ADR-015](../../record/decisions.d/ADR-015.md) | self-and-personhood joins the topics, and identity becomes individuation | `self-and-personhood` joins the topic vocabulary in the `philosophy` group, and `identity` narrows to the identity of things of any kind and is renamed `individuation` to say so. The new word holds what a self or a person is and what makes one persist: personal identity, the narrative, minimal and bodily self, self-models, agency over one's own life, and whether machines or groups can be selves. Fifteen existing works take it, six as their first tag. Rejected: keeping personal identity inside `identity`, where it was mixed with quasi-set theory, dualities and biological individuality. | Active |
+| [ADR-016](../../record/decisions.d/ADR-016.md) | phenomenology joins the topics | `phenomenology` joins the topic vocabulary in the `philosophy` group, for the first-person description of experience as a method: the philosophical tradition, its use in the sciences of mind, and the theories that take their data from it. Six works take it, none as its first tag. Rejected: leaving method unsaid because the subjects are held, and stretching `consciousness` or `self-and-personhood` to cover it. | Active |
 

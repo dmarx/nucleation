@@ -34,7 +34,7 @@ history:
   date: '2026-10-02'
   note: >-
     "Later work" is narrowed. The name is already in their draft of
-    "Defending the Bounds of Cognition" (LIT-tmpii8yi, NOTE-tmpl5slw), which
+    "Defending the Bounds of Cognition" (LIT-455, NOTE-380), which
     lists a December 2005 paper as under review, so the name was in use by
     late 2005; 2008 is its first appearance in print as far as the record
     knows.

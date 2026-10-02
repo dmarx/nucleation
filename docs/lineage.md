@@ -79,7 +79,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
   - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
 
-## identity
+## individuation
 
 ### From The Society of Mind
 

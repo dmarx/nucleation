@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**123 documents cited without acknowledgement.** Not listed: 688 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**129 documents cited without acknowledgement.** Not listed: 808 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -935,7 +935,7 @@ When Does Closeness in Distribution Imply Representational Similarity? An Identi
 
 Every Thing Must Go: Metaphysics Naturalized
 
-4 citations in 3 files await a look.
+4 citations in 3 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-297.md:125`](../../record/notes.d/NOTE-297.md)
 - [`record/theory.d/THEORY-034.md:9`](../../record/theory.d/THEORY-034.md)
@@ -1456,6 +1456,54 @@ Local Urysohn Width: A Topological Complexity Measure for Classification
 
 - [`record/notes.d/NOTE-323.md:6`](../../record/notes.d/NOTE-323.md)
 
+### [LIT-413](../../record/literature.d/LIT-413.md) — Deferred
+
+The Mind's I: Fantasies and Reflections on Self and Soul
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-015.md:70`](../../record/decisions.d/ADR-015.md)
+
+### [LIT-416](../../record/literature.d/LIT-416.md) — Deferred
+
+Is there an 'I' in AI?
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-015.md:74`](../../record/decisions.d/ADR-015.md)
+
+### [LIT-423](../../record/literature.d/LIT-423.md) — Deferred
+
+I Am a Strange Loop
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-015.md:69`](../../record/decisions.d/ADR-015.md)
+
+### [LIT-437](../../record/literature.d/LIT-437.md) — Deferred
+
+Gödel, Escher, Bach: an Eternal Golden Braid
+
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-015.md:78`](../../record/decisions.d/ADR-015.md)
+
+### [LIT-443](../../record/literature.d/LIT-443.md) — Deferred
+
+Consciousness Explained
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-016.md:60`](../../record/decisions.d/ADR-016.md)
+
+### [LIT-463](../../record/literature.d/LIT-463.md) — Deferred
+
+Subjectivity and Selfhood: Investigating the First-Person Perspective
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-016.md:55`](../../record/decisions.d/ADR-016.md)
+
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 
 Balestriero & LeCun 2022 — SSL recovers spectral embedding
@@ -1548,7 +1596,7 @@ A condition on free agency stated only in present psychological structure is met
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**4 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**3 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -1558,10 +1606,6 @@ A reference the reader cannot follow: the code names no document in this record.
 ### DP-010 — resolves to nothing (1 unmarked site)
 
 - [`record/notes.d/NOTE-286.md:185`](../../record/notes.d/NOTE-286.md)
-
-### LIT-458 — resolves to nothing (1 unmarked site)
-
-- [`record/notes.d/NOTE-286.md:188`](../../record/notes.d/NOTE-286.md)
 
 ### LIT-669 — resolves to nothing (1 unmarked site)
 

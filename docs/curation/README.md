@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [2 Oct 03:17 — The self, the unidentified texts, and two new topics](2026-10.md#the-self-the-unidentified-texts-and-two-new-topics)
 - [2 Oct 01:48 — David Chalmers, Daniel Dennett and The Mind's I](2026-10.md#david-chalmers-daniel-dennett-and-the-minds-i)
 - [2 Oct 00:21 — Bridging the society of mind to a conscious United States](2026-10.md#bridging-the-society-of-mind-to-a-conscious-united-states)
 - [1 Oct 22:26 — Minsky's Society of Mind and Hofstadter's analogy programme](2026-10.md#minskys-society-of-mind-and-hofstadters-analogy-programme)
@@ -15,9 +16,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-53 entries across 2 books, newest first.
+54 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 6 | 2026-10-01 | 2026-10-02 |
+| [2026-10](2026-10.md) | 7 | 2026-10-01 | 2026-10-02 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

@@ -4,8 +4,9 @@
 
 **religion**.
 
-1 of 369 NOTE documents. Back to the [full index](../README.md).
+2 of 387 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-107](../../../record/notes.d/NOTE-107.md) v2 | Religion and Science (SEP) | A survey, not an argument. It reports that the scholarly field rejects the conflict model the public holds, and it finds Barbour's four-way taxonomy (conflict, independence, dialogue, integration) influential but neither exhaustive nor exclusive. Its survey of five traditions shows the relation varies with creed and colonial history, and it describes the field fragmenting into claim-by-claim "science engaged theology". Its metaphysical content is concentrated in §1.2 (methodological vs ontological naturalism) and §3.1 (divine action under deterministic, chaotic and quantum physics; primary vs secondary causation; chance and providence). | Read |
+| [NOTE-376](../../../record/notes.d/NOTE-376.md) | Shanahan — Palatable Conceptions of Disembodied Being | An avowedly "poetic" attempt to fit consciousness and selfhood to a disembodied 2024 chat agent. Its time would be discrete and discontinuous. Its "I" can be the model or a conversation-bound self that flickers into being each turn; we may slip between them. Such selves can be copied, edited and merged, and spread over branching simulacra. No candidate site survives scrutiny, which is read as Buddhist emptiness and applied back to human selves. Examples are invented usages, not data. | Read |

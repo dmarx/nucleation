@@ -27,7 +27,7 @@ history:
 - version: 2
   date: '2026-10-02'
   note: >-
-    Schwitzgebel's reply to Kammerer is read (LIT-tmplt3pf, NOTE-tmpqu2kh).
+    Schwitzgebel's reply to Kammerer is read (LIT-459, NOTE-381).
     The Kammerer bullet gains the condition-A gap, promote_when asks the
     anti-nesting rule to escape the reply's simplicity dilemma, the
     invariance bullet is qualified for the loose reading of "required",
@@ -148,11 +148,11 @@ upward one.
   verdict that excludes the United States rests on an asserted
   counterfactual about what it would lose without its citizens'
   representations (C2), and the principle's own justification is weak by
-  its author's account (C6). Schwitzgebel's reply ([LIT-tmplt3pf](../literature.d/LIT-tmplt3pf.md)) opens an
+  its author's account (C6). Schwitzgebel's reply ([LIT-459](../literature.d/LIT-459.md)) opens an
   independent gap at condition A: it is unclear that citizens consciously
   represent the entity whose consciousness is in question at all, rather
   than one of several vague candidates for "the United States"
-  ([NOTE-tmpqu2kh](../notes.d/NOTE-tmpqu2kh.md), C2). It also argues that any rule of simplicity strong
+  ([NOTE-381](../notes.d/NOTE-381.md), C2). It also argues that any rule of simplicity strong
   enough to justify the principle either becomes the causal-exclusion
   problem, and so denies consciousness to brains as well, or is written
   for this case alone (C6).
@@ -213,7 +213,7 @@ sharpen it in five places.
   with IIT, which lets a functional equivalent lack experience. It mostly
   leaves Kammerer's principle standing: the United States is not an
   isomorph of anything, so invariance does not reach it. The exception is
-  Schwitzgebel's Leo case ([NOTE-tmpqu2kh](../notes.d/NOTE-tmpqu2kh.md), C3). Read loosely, with "required"
+  Schwitzgebel's Leo case ([NOTE-381](../notes.d/NOTE-381.md), C3). Read loosely, with "required"
   meaning that a member's conscious representation is what moves them,
   the principle switches a group's experience on and off with one member's
   motives while group-level function is held fixed, which is the shape of
@@ -282,8 +282,8 @@ needed.
     ([NOTE-335](../notes.d/NOTE-335.md)).
   - The "Brooks (1986)" in Schwitzgebel's group-mind tradition is D. H. M.
     Brooks, "Group minds", not Rodney Brooks ([NOTE-351](../notes.d/NOTE-351.md)).
-- **Schwitzgebel's reply to Kammerer** ([LIT-tmplt3pf](../literature.d/LIT-tmplt3pf.md), read in
-  [NOTE-tmpqu2kh](../notes.d/NOTE-tmpqu2kh.md)) is now read, and its two arguments that bear here are in
+- **Schwitzgebel's reply to Kammerer** ([LIT-459](../literature.d/LIT-459.md), read in
+  [NOTE-381](../notes.d/NOTE-381.md)) is now read, and its two arguments that bear here are in
   the Kammerer and invariance bullets above. Its reading also corrects
   [NOTE-362](../notes.d/NOTE-362.md), whose Limitations had the reply pressing condition B; it
   presses condition A, and [NOTE-362](../notes.d/NOTE-362.md) v2 says so. D. H. M. Brooks is the next
