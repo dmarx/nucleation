@@ -212,3 +212,8 @@ has tested it yet.
   the problems of cooperation and conflict" (pp. 29, 44). Later papers in
   the programme drop "and conflict" ([LIT-tmp0moou](../literature.d/LIT-tmp0moou.md), abstract), though conflict
   resolution is still three of the seven domains.
+- **The hawk–dove attribution.** The chapter credits hawk–dove contests to
+  Maynard Smith and Price 1973. That paper ([LIT-tmpex4cg](../literature.d/LIT-tmpex4cg.md), [NOTE-tmpjvb5a](NOTE-tmpjvb5a.md)) has
+  no Hawk–Dove game: its strategies are Mouse, Hawk, Bully, Retaliator and
+  Prober-Retaliator, between identical contestants. It also gives Hamilton
+  1964's pages as "1–16, 17–52" with only Part II's DOI.

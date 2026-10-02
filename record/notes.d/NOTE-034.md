@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp40re4
 paper: LIT-047
 title: 'Curry et al. 2019, morality-as-cooperation in 60 societies'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-25'
@@ -25,6 +25,14 @@ history:
     moral.). Upgraded from `Skimmed` to `Read`: the claims table,
     assumptions and results are new, and the skim is corrected where the
     full text disagreed.
+- version: 3
+  date: '2026-10-02'
+  note: >-
+    The lineage's "hawk–dove contests (Maynard Smith & Price)" is the
+    paper's attribution, and reading the 1973 paper (LIT-tmpex4cg,
+    NOTE-tmpjvb5a) shows it is loose: that paper has no Hawk–Dove game.
+    Said under Corrections; the lineage sentence still reports what the
+    paper says.
 date: '2026-09-25'
 summary: >-
   Coding 3,460 eHRAF paragraphs on the 60 Probability Sample Files
@@ -162,3 +170,11 @@ There is no instruction for ML practice. For this record's ethics and cooperatio
   - Mean 4.4 of 7 per society (SD 1.5). The reported "mode = 5.5" is impossible for integer counts; a bimodal 5/6 is presumably meant.
 - Commentaries. The dossier read only "the start" (Bloom). All four and the Reply are summarized under Connections. The sharpest objections come from Bloom (what would falsify it; sex and harm morality) and from Smith & Kurzban (non-cooperative and destructive norms).
 - Regions. The text says all seven were observed in all six regions except "dividing disputed resources in Central America". Central America is not one of the six Probability Sample regions (Sub-Saharan Africa, Circum-Mediterranean, East Eurasia, Insular Pacific, North America, South America; Methods). This is an internal inconsistency, and I could not check it against Table 3's layout.
+- **Hawk–dove is not in Maynard Smith & Price 1973.** The paper, as the lineage
+  above reports it, credits "hawk–dove" contests to Maynard Smith & Price,
+  and Curry 2016 ([LIT-tmpcsgn6](../literature.d/LIT-tmpcsgn6.md)) does the same. The 1973 paper ([LIT-tmpex4cg](../literature.d/LIT-tmpex4cg.md),
+  read in [NOTE-tmpjvb5a](NOTE-tmpjvb5a.md)) has five strategies, Mouse, Hawk, Bully, Retaliator
+  and Prober-Retaliator; "dove" does not occur, and its contestants are
+  identical, so it has no display-then-defer asymmetry either. What it
+  grounds is restraint backed by retaliation. The display and deference
+  domains need a later source; which one is open here.

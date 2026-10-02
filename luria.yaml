@@ -33,6 +33,9 @@ vocabularies:
         label: Mathematics
         blurb: mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set
           and measure theory — including mathematical frameworks applied to other fields
+      game-theory:
+        label: Game theory
+        blurb: 'strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019)'
       network-science:
         label: Network science
         blurb: the structure and dynamics of networks — dimension, curvature and Ricci flow, community

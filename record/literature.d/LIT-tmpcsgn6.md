@@ -27,6 +27,7 @@ tags:
 - moral-psychology
 - social-science
 - natural-sciences
+- game-theory
 date: '2026-10-02'
 published: '2016-01-01'
 doi: '10.1007/978-3-319-19671-8_2'
