@@ -1,0 +1,96 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-02 from the publisher''s metadata and reference list; no lawful full text was reachable (Springer is paywalled, the University of Helsinki portal holds only the citation, and the 2020 De Gruyter reprint is closed), so it is not read and no NOTE is filed. It is the founding paper of Tuomela''s we-intention account, the main analysis Searle''s 1990 paper ([LIT-tmpr2slv](LIT-tmpr2slv.md)) is reported to argue against.'
+title: 'We-Intentions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Filed Deferred. Seen: the Crossref record (Philosophical Studies
+    53(3): 367–389, May 1988; authors Raimo Tuomela and Kaarlo Miller;
+    ten references), the University of Helsinki research-portal record
+    (citation only, no file), and the Crossref record of the reprint in
+    Social Ontology in the Making (De Gruyter, 2020), pp. 69–88, DOI
+    10.1515/9783110618204-003. The Springer article page redirected to a
+    login; OpenAlex and Semantic Scholar list no open copy. `published:`
+    is Crossref's month, May 1988, as the first of the month. Not held
+    in the Anthology of the SOTA: a grep of its literature.d and notes.d
+    for "Tuomela", "we-intention" and the DOI found nothing.
+tags:
+- social-ontology
+- agency
+- social-science
+date: '2026-10-02'
+published: '1988-05-01'
+doi: '10.1007/BF00353512'
+first_author: 'Tuomela'
+keywords:
+- 'we-intentions'
+- 'joint action'
+- 'social action'
+- 'mutual belief'
+- 'practical reasoning'
+implementations: []
+summary: >-
+  Tuomela & Miller (1988), DOI-10.1007/BF00353512, Philosophical Studies
+  53(3): 367–389. The paper introduces the we-intention: roughly, a group
+  member's intention to do her part of a joint action, together with
+  beliefs that the conditions for the joint action obtain and that this
+  is mutually believed. The concept is applied to simple social practical
+  reasoning and offered as basic to social theory. Unread: filed from
+  metadata, with the content as search summaries report it.
+---
+<!-- inactive-ok-file: LIT-tmpr2slv — Deferred, no lawful full text; Searle 1990, named as the paper reported to attack this one, not leaned on -->
+<!-- inactive-ok-file: LIT-tmp73dsx — Deferred, no lawful full text; Bratman 1992, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpe6ufg — Deferred, no lawful full text; Gilbert 1990, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-tmp9s7wn — Deferred, no lawful full text; Lewis's Convention, named as a work this one engages or cites, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpq3vga — Deferred, no lawful full text of the book; Bratman 2014, named as a rival account; its author's précis is reported there -->
+
+# LIT-tmpdrt8a: We-Intentions
+
+Raimo Tuomela & Kaarlo Miller (1988), *Philosophical Studies* 53(3): 367–389 — DOI-10.1007/BF00353512. Reprinted in *Social Ontology in the Making* (De Gruyter, 2020), pp. 69–88.
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, under the topic
+`social-ontology` that [ADR-017](../decisions.d/ADR-017.md) added, as the founding statement of
+Tuomela's account of collective intention.
+
+`Deferred` because no lawful full text was reachable, so it is not read
+and no NOTE is filed. The summary is how search summaries describe the
+paper, and it is unverified. The
+"we-mode", the term often attached to Tuomela, does not appear in any
+record of this paper seen here; it may be later vocabulary.
+
+What can be said with a source:
+
+- **Its reference list** (Crossref) is short. It cites David Lewis's
+  *Convention* (1969), Sellars on intentions and "we"-reasoning (1963,
+  1968, 1974, 1980), Tuomela's *A Theory of Social Action* (1984), and
+  the authors' earlier "We-Intentions and Social Action" (*Analyse &
+  Kritik* 7, 1985). It cites none of Searle, Gilbert or Bratman, whose
+  papers on the subject came later. Lewis's *Convention* is being filed
+  in the record the same day ([LIT-tmp9s7wn](LIT-tmp9s7wn.md)).
+- **Its place in the dispute.** Searle's "Collective Intentions and
+  Actions" ([LIT-tmpr2slv](LIT-tmpr2slv.md)) is widely reported to argue against an account
+  of this kind, by a counterexample in which business-school graduates
+  each pursue their own interest believing it will help humanity. That
+  report comes from search summaries, and neither paper has been read
+  here.
+
+Its rivals in this record are Searle ([LIT-tmpr2slv](LIT-tmpr2slv.md)), Gilbert
+([LIT-tmpe6ufg](LIT-tmpe6ufg.md)) and Bratman ([LIT-tmp73dsx](LIT-tmp73dsx.md)), all filed the same day.
+Bratman's 2014 précis (described in [LIT-tmpq3vga](LIT-tmpq3vga.md)) does not mention
+Tuomela.
+
+No instruction for machine-learning practice is known, so nothing here
+points to the Anthology of the SOTA.
+
+**What a reading should check.**
+
+- The exact analysis of "A we-intends to do X": which beliefs, and whether
+  mutual belief is required or only belief about mutual belief.
+- Whether the account is reductive, as Searle's counterexample assumes,
+  or whether "we-intend" is treated as a distinct mode of intending.
+- How the Sellarsian "we"-reasoning the references point to is used.

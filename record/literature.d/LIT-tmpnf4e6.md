@@ -1,0 +1,118 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-02 from catalogue records and a library scan of the table of contents; no lawful full text was reachable (the book is in print with Free Press / Simon & Schuster, the Internet Archive copies are either lending-only or unauthorised uploads, and Searle posted no draft), so it is not read and no NOTE is filed. The record reads the theory through Searle''s own 2006 restatement ([LIT-tmpkai94](LIT-tmpkai94.md), read in full), which is the entry to start from.'
+title: 'The Construction of Social Reality'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Filed Deferred. Seen: the Open Library edition and work records (Free
+    Press, New York, 1995; xiii, 241 p.; ISBN 0029280451; LCCN 94041402;
+    OCLC 31411549; a one-sentence description), and the table of
+    contents from a library scan hosted by dandelon.com. Not opened: two
+    Internet Archive items that are user uploads of the whole book, which
+    are not lawful copies, and a lending-only scan. The Simon & Schuster
+    pages returned 403. The book has no DOI, so the source is the
+    WorldCat record. `published:` carries the year as the first of
+    January, because no catalogue record seen gives a month. Not held in
+    the Anthology of the SOTA: a grep of its literature.d and notes.d for
+    "Searle" and the title found nothing.
+tags:
+- social-ontology
+- metaphysics
+- philosophy-of-language
+- epistemology
+- social-science
+date: '2026-10-02'
+published: '1995-01-01'
+url: 'https://search.worldcat.org/title/31411549'
+first_author: 'Searle'
+keywords:
+- 'social reality'
+- 'institutional facts'
+- 'brute facts'
+- 'collective intentionality'
+- 'constitutive rules'
+- 'external realism'
+- 'correspondence theory of truth'
+implementations: []
+summary: >-
+  Searle (1995), Free Press, New York (xiii + 241 pp.). The founding book
+  of Searle's social ontology. Per its catalogue description, it argues
+  that some facts are independent of human observers and some require
+  human agreement. Its chapters move from the building blocks of social
+  reality and the creation of institutional facts through language and a
+  general theory of institutional facts, to a defence of external realism
+  and the correspondence theory of truth. Unread: filed from the
+  catalogue record and contents; the record reads the theory in Searle's
+  2006 restatement.
+---
+<!-- inactive-ok-file: LIT-tmpr2slv — Deferred, no lawful full text; Searle's 1990 paper, named as the account of collective intentionality the book builds on, not leaned on -->
+
+# LIT-tmpnf4e6: The Construction of Social Reality
+
+John R. Searle (1995), *The Free Press, New York (xiii + 241 pp.; ISBN 0-02-928045-1)* — no DOI; WorldCat OCLC 31411549
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request, under the topic
+`social-ontology` that [ADR-017](../decisions.d/ADR-017.md) added, as the founding statement of
+Searle's account of institutions.
+
+`Deferred` because no lawful full text was reachable, so it is not read
+and no NOTE is filed. What follows is only what the catalogue records
+and the contents say, and what Searle's own 2006 restatement says about
+the book.
+
+**Contents** (from a library table-of-contents scan):
+
+- Introduction (p. xi)
+- 1 The Building Blocks of Social Reality (1)
+- 2 Creating Institutional Facts (31)
+- 3 Language and Social Reality (59)
+- 4 The General Theory of Institutional Facts, Part I: Iteration, Interaction, and Logical Structure (79)
+- 5 The General Theory of Institutional Facts, Part II: Creation, Maintenance, and the Hierarchy (113)
+- 6 Background Abilities and the Explanation of Social Phenomena (127)
+- 7 Does the Real World Exist? Part I: Attacks on Realism (149)
+- 8 Does the Real World Exist? Part II: Could There Be a Proof of External Realism? (177)
+- 9 Truth and Correspondence (199)
+- Conclusion (227)
+
+The last three chapters are a defence of realism and of correspondence
+truth, which is why `epistemology` and `metaphysics` are tagged alongside
+`social-ontology`.
+
+**What Searle's 2006 restatement says the book holds** ([LIT-tmpkai94](LIT-tmpkai94.md),
+read in [NOTE-tmp9fj5r](../notes.d/NOTE-tmp9fj5r.md)):
+
+- the distinction between observer-relative and observer-independent
+  facts, and between epistemic and ontological objectivity;
+- three primitives: collective intentionality, the assignment of function,
+  and constitutive rules of the form "X counts as Y in C", given in the
+  book's early chapters as the basic form of the institutional fact;
+- a "later formulation" in the book, "We accept (S has power (S does A))",
+  which the 2006 paper calls "much more general";
+- status indicators, which the 2006 paper develops further.
+
+The 2006 paper revises the book in one direction it names: some status
+functions have no X ("free-standing Y terms", after Barry Smith).
+
+For collective intentionality, the 2006 paper refers to "Collective
+Intentions and Actions" ([LIT-tmpr2slv](LIT-tmpr2slv.md)) rather than to this book.
+
+**Neighbours.** Hindriks & Guala ([LIT-tmpjftou](LIT-tmpjftou.md)) take this book's
+constitutive rules as their target and argue that they reduce to
+regulative rules. Searle's Chinese Room ([LIT-400](LIT-400.md)) is a different subject.
+
+No instruction for machine-learning practice is visible in what was
+seen, so nothing here points to the Anthology of the SOTA.
+
+**What a reading should check.**
+
+- How chapter 1 argues that collective intentionality is primitive, and
+  whether it adds anything to the 1990 paper.
+- Whether chapter 2's "X counts as Y in C" is stated as a necessary form
+  of institutional facts. The rules-in-equilibrium critique depends on it.
+- What chapter 6's "Background abilities" contribute to explaining social
+  phenomena without rules being followed consciously.
