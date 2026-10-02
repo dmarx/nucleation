@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpxt6bz
 paper: LIT-097
 title: 'Clark & Chalmers — The Extended Mind'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-09-26'
@@ -30,6 +30,14 @@ history:
     The coupling–constitution reply is now attributed precisely: Adams and
     Aizawa pressed it in 2001 (LIT-438, now filed), and the name
     "coupling–constitution fallacy" is from their later work (NOTE-368).
+- version: 4
+  date: '2026-10-02'
+  note: >-
+    "Later work" is narrowed. The name is already in their draft of
+    "Defending the Bounds of Cognition" (LIT-tmpii8yi, NOTE-tmpl5slw), which
+    lists a December 2005 paper as under review, so the name was in use by
+    late 2005; 2008 is its first appearance in print as far as the record
+    knows.
 date: '2026-09-26'
 summary: >-
   The paper argues from a functionalist parity claim that a process or

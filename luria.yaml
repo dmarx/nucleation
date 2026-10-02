@@ -87,9 +87,15 @@ vocabularies:
       agency:
         label: Agency
         blurb: 'what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy)'
-      identity:
-        label: Identity
-        blurb: 'what makes something the same thing over time or across descriptions — individuality, persistence, personal identity (group: philosophy)'
+      individuation:
+        label: Individuation
+        blurb: 'what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind; the self and the person are self-and-personhood (group: philosophy; ADR-015)'
+      self-and-personhood:
+        label: Self and personhood
+        blurb: 'what a self or a person is and what makes one persist — personal identity, the narrative, minimal and bodily self, self-models, agency over one''s own life, and whether machines or groups can be selves (group: philosophy; ADR-015)'
+      phenomenology:
+        label: Phenomenology
+        blurb: 'the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
@@ -304,9 +310,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, identity, ethics, consciousness, cognition, emotion and affect, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self and personhood, phenomenology, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, identity, ethics, consciousness, cognition, emotion-and-affect, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
+            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self-and-personhood, phenomenology, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
           flags:
             label: Curation flags
             blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).

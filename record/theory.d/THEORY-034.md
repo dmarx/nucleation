@@ -16,7 +16,7 @@ version: 1
 tags:
 - metaphysics
 - philosophy-of-science
-- identity
+- individuation
 date: '2026-09-30'
 source:
 - LIT-196

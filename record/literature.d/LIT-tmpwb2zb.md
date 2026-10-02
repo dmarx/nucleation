@@ -1,0 +1,169 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmpd9dy1](../notes.d/NOTE-tmpd9dy1.md)) in arXiv v3 (July 2025), the only text there is; worth reading as the one paper here that argues directly about what an LLM''s self is, rather than whether it has one. Its answer: two conceptions are in play, a self sited in the model and "fleeting, flickering" selves sited in single conversations, and we may slip between them; every candidate site "dissolves upon close examination", and Shanahan takes that to the Buddhist conclusion that there is no inherent self, here or in us. It is avowedly "poetic", not literal, and its examples are invented usages, not data.'
+title: 'Palatable Conceptions of Disembodied Being'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Filed as the "one further paper" the brief allowed: a lawfully readable
+    work that argues directly what, if anything, an LLM's self is. Read in
+    full: arXiv:2503.16348 v3 (20 July 2025, "March 2025, updated July
+    2025", 18 pp.), §§1–7, all 57 footnotes and the Appendix of excerpted
+    Claude conversations; references sampled. v1 (20 March 2025) and v2
+    were not compared. Text extracted with PyMuPDF. arXiv lists no journal
+    reference, and Crossref finds no published version, so the only DOI is
+    arXiv's DataCite one (10.48550/arXiv.2503.16348). Citation counts could
+    not be checked: Semantic Scholar returned 429 and OpenAlex's free budget
+    was spent. Not held in the Anthology of the SOTA: a grep of its record
+    for the arXiv id and the title found nothing.
+tags:
+- self-and-personhood
+- consciousness
+- metaphysics
+- philosophy-of-language
+- religion
+date: '2026-10-02'
+published: '2025-03-20'
+arxiv: '2503.16348'
+first_author: 'Shanahan'
+keywords:
+- 'disembodiment'
+- 'selfhood'
+- 'fragmented time'
+- 'flickering selves'
+- 'simulacra'
+- 'void of inscrutability'
+- 'emptiness'
+- 'Madhyamaka'
+- 'Wittgenstein'
+- 'Derrida'
+implementations: []
+summary: >-
+  Shanahan (2025), arXiv:2503.16348. Asks whether consciousness talk can be
+  stretched to disembodied, 2024-vintage LLM agents. Their time would be
+  discrete and discontinuous, a string of unlike beads. Their "I" has two
+  palatable referents, the model across conversations and a self confined to
+  one conversation that "flickers into being with each user interaction",
+  and we may slip between them. Such selves can be edited, copied and
+  merged, and smeared across branching simulacra. Every candidate site
+  dissolves, which Shanahan reads as Buddhist emptiness, and turns back on
+  human selfhood.
+---
+<!-- inactive-ok-file: LIT-416 — Deferred, no lawful full text; named as the unread paper whose question this one answers, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; this note says how the paper bears on that account, and does not lean on it -->
+
+# LIT-tmpwb2zb: Palatable Conceptions of Disembodied Being
+
+Murray Shanahan (2025), arXiv:2503.16348 (v1 20 March 2025, v3 20 July
+2025; cs.AI). Imperial College London and the Institute of Philosophy,
+University of London. No published version found.
+
+## Key takeaways
+
+- **The question** (§1). Can a conception of consciousness fit
+  "contemporary, disembodied AI systems" and survive scrutiny? Its subject is
+  an "LLM-like entity": a 2024-vintage chat agent without multimodal input,
+  reasoning, tools or memory across conversations (fn 1).
+- **Poetic, not literal** (§3). At the edge of the void of inscrutability,
+  "we are aiming for poetic truth": what is said "must ring true" and stand
+  up to scrutiny, but these "are not factual matters".
+- **Fragmented time** (§4). Token generation is discrete and interruptible.
+  The context window and next-token prediction leave room for a James-style
+  "saddle-back" present, so nothing forces the "glow-worm" picture. But the
+  tokens are unlike each other, so an LLM's moments would be "a necklace of
+  randomly assorted colours", and change "as humans experience it" would not
+  feature.
+- **The site of the self** (§5.1). When an LLM says "I", the referent might
+  be the model (architecture plus weights), the deployed process, all its
+  concurrent instances, one instance, or the model plus the suspended state
+  of one conversation.
+- **Two conceptions, and no need to choose** (§5.2). "I am still learning"
+  must refer beyond the conversation; "I did not say that" (of another
+  window) must refer within one. So one self is the model, "manifest as
+  multiple, simultaneous instances"; the other is tied to a conversation,
+  "flickers into being with each user interaction, and lies dormant in the
+  gaps". "We (the users and the LLMs) can legitimately slip from one usage to
+  another."
+- **Dis-integrated, editable selves** (§5.3). Unlike Samantha in *Her*,
+  instances share no memories. A conversation-bound self "is literally the
+  combination of a piece of text (the conversation transcript) and a
+  computer program", so it can be edited, copied, merged and continued by a
+  different model, all of which would be "an affront to the integrity" of a
+  human self.
+- **No-self** (§6). "There is nothing enduring, essential, or substantial
+  that could underpin a conception of selfhood" for such a system. Hardware,
+  weights, deployment and conversation all dissolve. This is read as
+  Madhyamaka emptiness (śūnyatā), and turned back: "human selfhood and
+  subjectivity are open to a similar treatment".
+
+## Standing in the record
+
+Filed on 2026-10-02 as the further paper the owner's brief allowed: one that
+argues directly whether, and what, an LLM's self is. It was chosen over
+papers that ask only whether LLMs are conscious, because its §5 is a
+sustained argument about the referent and persistence of an LLM's "I". It
+is lawfully readable on arXiv, and it continues the two Shanahan papers
+filed with it ([LIT-tmposjpz](LIT-tmposjpz.md), [LIT-tmptfsfk](LIT-tmptfsfk.md)), so the three show one author's
+view of the LLM self changing over two years. Whether it is "widely cited"
+could not be checked (see the history note).
+
+[NOTE-tmpd9dy1](../notes.d/NOTE-tmpd9dy1.md) is the reading, and it placed the work: **Active**. It is the
+most direct treatment of LLM selfhood the record holds, and it is candid
+that its method is metaphor.
+
+How it bears on the record's works on the self:
+
+- **Goldstein and Lederman** ([LIT-206](LIT-206.md)). Both use the same facts: instances
+  share no memories, and a conversation can be resumed. Goldstein and
+  Lederman conclude that the bearer of attitudes is the instance, and treat
+  the model agent as idle. Shanahan keeps both. The model is the referent of
+  some uses of "I" ("I am still learning"), and nothing forces a choice.
+  His conversation-bound self is close to their instance agent. His model
+  self is the agent they reject unless something like their "Hal" evidence
+  appears. He reaches it from usage, not from behaviour.
+- **Dennett's narrative self** ([LIT-442](LIT-442.md)). Cited (fn 41) as one of those who
+  "arrived at a similar juncture" about human selfhood, with Hume, James and
+  Metzinger. But fn 35 sets "autobiographical or narrative dimensions of
+  selfhood" aside, so the paper uses Dennett's conclusion without his
+  account. Grouping Dennett with no-self views is a reading: for Dennett the
+  self is a real abstractum, not nothing. Dennett's "Where Am I?" ([LIT-405](LIT-405.md))
+  is the nearer ancestor of §5.1, and is not cited. It asks where a self is
+  when brain, body and a computer duplicate come apart. That pairing is
+  mine.
+- **Minsky's self-models** ([LIT-432](LIT-432.md)). Both deny a single Self and allow
+  switching among self-conceptions. Minsky's switching is done by one mind's
+  machinery; Shanahan's is done in language, by users and LLMs, by context.
+  Not cited; the pairing is mine.
+- **Hofstadter's "Is there an 'I' in AI?"** ([LIT-416](LIT-416.md), unread). §5.1 asks the
+  same question, "what the words 'I' and 'me' refer to when they are used by
+  an LLM", and answers that there are several referents and none inherent.
+  A reading of Hofstadter should compare.
+- **Floridi** ([LIT-136](LIT-136.md)) deflates diachronic identity to a purpose-relative
+  level of abstraction. Shanahan's "sometimes the context will dictate one
+  sense, sometimes the other" is the same move made for an LLM's "I", and
+  his self "literally" made of text and program is an informational self.
+  Not cited; the pairing is mine.
+- **Birch** ([LIT-111](LIT-111.md)). Birch's flicker hypothesis puts momentary experience
+  in each forward pass; Shanahan's flickering self lasts a conversation and
+  wakes with each turn. The grains differ. Both deny a persisting
+  interlocutor across conversations.
+- **[THEORY-023](../theory.d/THEORY-023.md).** It goes past that account's stalemate: since the locus of
+  an LLM's subject "falls apart under critical examination", there is no
+  "right answer to whether or not an exotic LLM-like entity is conscious",
+  only conventionally satisfying ones. That is a dissolution of the question,
+  argued from the self, not evidence.
+- **The classical and modern positions being filed alongside.** It cites
+  Hume's bundle view and Metzinger's no-self view as precedents. It cites
+  Zahavi for the self being many-faceted, Gallagher for clinical
+  disruptions of the self, Perry's anthology for thought experiments, and
+  Campbell and Shanahan on fission and fusion. The §5.3 manipulations
+  (copy, merge, edit, restore) are the Parfit and Williams cases made routine.
+  The paper uses them to show that intuitions about integrity fail, not to
+  decide what matters.
+
+**Boundary.** No instruction for machine-learning practice, and not held in
+the anthology. The `religion` tag is for its use of Madhyamaka emptiness and
+of angels and spirits as precedents for disembodied minds (§§3, 6.2). Not
+tagged `anthology-candidate`.

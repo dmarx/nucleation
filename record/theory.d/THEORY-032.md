@@ -8,7 +8,7 @@ version: 1
 tags:
 - philosophy-of-mathematics
 - mathematics
-- identity
+- individuation
 - metaphysics
 date: '2026-09-30'
 source:

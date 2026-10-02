@@ -1,0 +1,118 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-02 from the publisher''s description and the chapter list on Crossref, not read: no lawful full text could be reached. The MIT Press Direct edition is not open access (Crossref carries no licence, OpenAlex reports it closed), and no author copy of the book is posted. It stays Deferred until a copy is supplied, not on merit.'
+title: 'Subjectivity and Selfhood: Investigating the First-Person Perspective'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.7551/mitpress/6541.001.0001, MIT Press, a Bradford Book, issued 9
+    December 2005, with the publisher's description and eleven chapter
+    DOIs with pages) and Open Library (MIT Press, 2005; hardback ISBN
+    9780262240505, paperback 9780262740340). `published:` is Crossref's
+    date. The brief asked whether MIT Press or the author had made it open
+    access: neither has, as far as this session could find (MIT Press
+    Direct returned HTTP 403; OpenAlex reports no open copy). Not held in
+    the Anthology of the SOTA: a grep of its literature.d for the title and
+    "Zahavi" found nothing.
+tags:
+- self-and-personhood
+- phenomenology
+- consciousness
+- cognition
+date: '2026-10-02'
+published: '2005-12-09'
+doi: '10.7551/mitpress/6541.001.0001'
+first_author: 'Zahavi'
+keywords:
+- 'self-awareness'
+- 'first-person perspective'
+- 'phenomenology'
+- 'minimal self'
+- 'pre-reflective self-consciousness'
+- 'time-consciousness'
+- 'intersubjectivity'
+- 'theory of mind'
+implementations: []
+summary: >-
+  Zahavi (2005), MIT Press. Per its publisher, a defence of the self
+  against neuroscientists and philosophers who doubt it, arguing that "the
+  notion of self is crucial for a proper understanding of consciousness"
+  and that experience, self-awareness and selfhood cannot be understood
+  apart. It uses Husserl, Heidegger, Sartre and Merleau-Ponty to give an
+  account of the "experiential givenness of the self" for philosophy of
+  mind, cognitive science, developmental psychology and psychiatry. Its
+  chapters run from self-awareness and phenomenal consciousness through
+  time-consciousness and reflection to self and other, theory of mind,
+  autism and embodiment. Unread: registered from the description and the
+  contents.
+---
+<!-- inactive-ok-file: LIT-tmpwrzq5 — Deferred, no lawful full text; named as one of the no-self views the description answers, not leaned on -->
+
+# LIT-tmppe4q2: Subjectivity and Selfhood: Investigating the First-Person Perspective
+
+Dan Zahavi (2005), *Subjectivity and Selfhood: Investigating the
+First-Person Perspective*, Cambridge, MA: MIT Press (A Bradford Book) —
+DOI 10.7551/mitpress/6541.001.0001.
+
+**On the citation.** The brief's details are right: author, title,
+subtitle, MIT Press, 2005.
+
+## Key takeaways
+
+*Registered from the publisher's description and the chapter list, not a
+reading.*
+
+- The publisher's description, in part: "What is a self? Does it exist in
+  reality or is it a mere social construct—or is it perhaps a
+  neurologically induced illusion? ... Countering this, in Subjectivity
+  and Selfhood, Dan Zahavi argues that the notion of self is crucial for a
+  proper understanding of consciousness. He investigates the
+  interrelationships of experience, self-awareness, and selfhood,
+  proposing that none of these three notions can be understood in
+  isolation. Any investigation of the self, Zahavi argues, must take the
+  first-person perspective seriously and focus on the experiential
+  givenness of the self." Its aim is "to use phenomenological analyses to
+  clarify issues of central importance to philosophy of mind, cognitive
+  science, developmental psychology, and psychiatry".
+- Contents (Crossref chapter DOIs, with pages): Introduction (1–10);
+  Self-Awareness and Phenomenal Consciousness (11–30); The Concept(s) of
+  Consciousness in Early Phenomenology (31–48); The Structure of
+  Time-Consciousness (49–72); Reflection and Attention (73–98);
+  Consciousness and Self (99–146); Self and Other (147–178); Theory of
+  Mind, Autism, and Embodiment (179–222); Notes (223–240); References
+  (241–260); Index (261–266).
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request to fill out the record's
+coverage of selfhood, as the phenomenological defence of a minimal,
+experiential self. No anthology topic holds it, it carries no instruction
+for machine-learning practice, and the anthology does not hold it.
+
+`Deferred` because it was not read. Where it bears on the record, inferred
+from the description and contents, not from the book:
+
+- **Against the no-self views.** The description's targets, the self as "a
+  mere social construct" or "a neurologically induced illusion", are the
+  positions of Dennett's narrative self ([LIT-442](LIT-442.md)) and of Metzinger's
+  *Being No One* ([LIT-tmpwrzq5](LIT-tmpwrzq5.md)), published two years before it. Its
+  longest chapter, "Consciousness and Self", is where a reading should
+  look for the reply.
+- **The minimal self.** It is the phenomenologist's version of the
+  minimal self that Gallagher's review ([LIT-tmpeqp99](LIT-tmpeqp99.md), read) introduced to
+  cognitive science; Gallagher and Zahavi later wrote together. Its
+  "Theory of Mind, Autism, and Embodiment" chapter is the ground
+  Gallagher's neonatal-imitation argument covers.
+- **Primary topic.** `self-and-personhood` holds its subject. What no word
+  in the vocabulary says is its method, phenomenology as a philosophical
+  tradition; `consciousness` and `cognition` carry the subject matter it
+  shares with philosophy of mind. I record the gap in method rather than
+  stretch a neighbour.
+
+Access when seeded: Crossref (description, chapters); Open Library
+(edition list, no lendable copy). MIT Press Direct (direct.mit.edu)
+returned HTTP 403 to this session. Google Books' API refused for an
+exhausted daily quota.

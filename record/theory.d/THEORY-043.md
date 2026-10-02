@@ -10,7 +10,9 @@ promote_when: >-
   organised human group, puts them on different sides. Either half alone
   would move this account: an anti-nesting principle justified by something
   other than the absurdity of group minds (the Occam-style rule Kammerer
-  gestures at, worked out), or an architectural measure, such as Φ or a
+  gestures at, worked out so that it neither generalises into the
+  causal-exclusion problem nor applies only to minds, the dilemma
+  Schwitzgebel's reply poses), or an architectural measure, such as Φ or a
   global-workspace criterion, actually computed for both models rather than
   asserted for one. The account is refuted if such a criterion is found.
   What would not settle it: another thought experiment along Schwitzgebel's
@@ -20,7 +22,16 @@ promote_when: >-
   Pettit, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-02'
+  note: >-
+    Schwitzgebel's reply to Kammerer is read (LIT-tmplt3pf, NOTE-tmpqu2kh).
+    The Kammerer bullet gains the condition-A gap, promote_when asks the
+    anti-nesting rule to escape the reply's simplicity dilemma, the
+    invariance bullet is qualified for the loose reading of "required",
+    and the line saying the reply was unfiled is replaced.
 tags:
 - consciousness
 - mereology
@@ -137,7 +148,14 @@ upward one.
   verdict that excludes the United States rests on an asserted
   counterfactual about what it would lose without its citizens'
   representations (C2), and the principle's own justification is weak by
-  its author's account (C6).
+  its author's account (C6). Schwitzgebel's reply ([LIT-tmplt3pf](../literature.d/LIT-tmplt3pf.md)) opens an
+  independent gap at condition A: it is unclear that citizens consciously
+  represent the entity whose consciousness is in question at all, rather
+  than one of several vague candidates for "the United States"
+  ([NOTE-tmpqu2kh](../notes.d/NOTE-tmpqu2kh.md), C2). It also argues that any rule of simplicity strong
+  enough to justify the principle either becomes the causal-exclusion
+  problem, and so denies consciousness to brains as well, or is written
+  for this case alone (C6).
 
 **2. Architecture: the whole is organised the wrong way.**
 
@@ -192,9 +210,15 @@ sharpen it in five places.
   makes any fine-grained functional isomorph of a conscious being
   conscious, including a population of people implementing a person's
   neurons. That closes Putnam's stipulation for isomorphs and conflicts
-  with IIT, which lets a functional equivalent lack experience. It leaves
-  Kammerer's principle standing. The United States is not an isomorph of
-  anything, so invariance does not reach it. What remains is the
+  with IIT, which lets a functional equivalent lack experience. It mostly
+  leaves Kammerer's principle standing: the United States is not an
+  isomorph of anything, so invariance does not reach it. The exception is
+  Schwitzgebel's Leo case ([NOTE-tmpqu2kh](../notes.d/NOTE-tmpqu2kh.md), C3). Read loosely, with "required"
+  meaning that a member's conscious representation is what moves them,
+  the principle switches a group's experience on and off with one member's
+  motives while group-level function is held fixed, which is the shape of
+  case invariance arguments are built against. On the strict reading the
+  case does not arise. What remains is the
   architectural route, which invariance cannot decide.
 - **Functionalism itself forbids no nesting.** Chalmers's implementation
   conditions ([LIT-404](../literature.d/LIT-404.md), [NOTE-342](../notes.d/NOTE-342.md)) do not care whether a part is a
@@ -258,9 +282,12 @@ needed.
     ([NOTE-335](../notes.d/NOTE-335.md)).
   - The "Brooks (1986)" in Schwitzgebel's group-mind tradition is D. H. M.
     Brooks, "Group minds", not Rodney Brooks ([NOTE-351](../notes.d/NOTE-351.md)).
-- **Schwitzgebel's reply to Kammerer** ("Is the United States phenomenally
-  conscious? Reply to Kammerer", *Philosophia* 44, 2016) is not filed. It
-  would be the next reading on this seam, with D. H. M. Brooks.
+- **Schwitzgebel's reply to Kammerer** ([LIT-tmplt3pf](../literature.d/LIT-tmplt3pf.md), read in
+  [NOTE-tmpqu2kh](../notes.d/NOTE-tmpqu2kh.md)) is now read, and its two arguments that bear here are in
+  the Kammerer and invariance bullets above. Its reading also corrects
+  [NOTE-362](../notes.d/NOTE-362.md), whose Limitations had the reply pressing condition B; it
+  presses condition A, and [NOTE-362](../notes.d/NOTE-362.md) v2 says so. D. H. M. Brooks is the next
+  reading on this seam.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).

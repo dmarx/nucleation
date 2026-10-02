@@ -1,0 +1,133 @@
+---
+status: Active
+status_note: 'read in full 2026-10-02 ([NOTE-tmp5lmjw](../notes.d/NOTE-tmp5lmjw.md)); worth reading as Metzinger''s own short, open statement of the self-model theory of subjectivity (SMT) behind Being No One ([LIT-tmpwrzq5](LIT-tmpwrzq5.md)): there is no self, only a phenomenal self-model, and a system experiences itself as a self when that model is transparent, that is, when it cannot introspectively recognise it as a model. It is an encyclopedia article, not an argument: the central claim is stated as a definition with a prediction attached, its empirical examples are cited, and the online text is a revision later than the 2007 acceptance, with editing slips.'
+title: 'Self models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-02'
+  note: >-
+    Read in full: the Scholarpedia article as served on 2026-10-02
+    (scholarpedia.org/article/Self_models, curator Thomas Metzinger;
+    "Accepted on: 2007-10-25", "last modified on 12 November 2013"; about
+    5,600 words with 8 figure captions, 6 sections and the reference
+    list; CC BY-NC-SA 3.0). The text read is the 2013 revision, which
+    cites work up to 2012, not the text accepted in 2007; Scholarpedia's
+    citation form, "Thomas Metzinger (2007), Scholarpedia, 2(10):4174",
+    still names the 2007 volume. Crossref confirms DOI
+    10.4249/scholarpedia.4174, Scholarpedia 2(10):4174, 2007, sole author
+    Metzinger; `published:` is the acceptance date. Chosen as the lawfully
+    readable paper-length statement the brief asked for: the Progress in
+    Brain Research chapter (2008) is Elsevier and its PhilArchive copy sat
+    behind an anti-scraping challenge, the Humana.Mente article (2010)
+    could not be reached (connection reset on every attempt), and the
+    Psyche précis's host no longer resolves. Not held in the Anthology of
+    the SOTA: a grep of its literature.d for "Metzinger" and "self-model"
+    found nothing.
+tags:
+- self-and-personhood
+- consciousness
+- cognition
+- neuroscience
+- agency
+date: '2026-10-02'
+published: '2007-10-25'
+doi: '10.4249/scholarpedia.4174'
+first_author: 'Metzinger'
+keywords:
+- 'self-model theory of subjectivity'
+- 'phenomenal self-model'
+- 'transparency'
+- 'phenomenal model of the intentionality relation'
+- 'second-order embodiment'
+- 'body ownership'
+- 'machine self-models'
+- 'no-self'
+implementations: []
+summary: >-
+  Metzinger (2007, rev. 2013), Scholarpedia 2(10):4174. There is no
+  substantial self, only a phenomenal self-model (PSM): the conscious part
+  of an organism's self-model, an instrument of global control. A phenomenal
+  self arises "if and only if a system operates under a transparent PSM",
+  one it cannot introspectively recognise as a model; a first-person
+  perspective is a transparent model of the intentionality relation
+  (PMIR). Self-models can be unconscious and artificial, as in Bongard,
+  Zykov and Lipson's limping starfish robot; embodiment comes in three
+  orders, the third conscious. Full-body illusions are offered as the
+  experimental handle.
+---
+<!-- inactive-ok-file: LIT-tmpwrzq5 — Deferred, no lawful full text; named as the book this article summarises, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question the article bears on, not leaned on -->
+
+# LIT-tmp7cy9g: Self models
+
+Thomas Metzinger (2007; revised to 12 November 2013), "Self models",
+*Scholarpedia* 2(10):4174 — DOI 10.4249/scholarpedia.4174
+
+## Key takeaways
+
+- **SMT.** The self-model theory of subjectivity is both a philosophical
+  theory of the phenomenal self and the first-person perspective and an
+  interdisciplinary research programme, worked at phenomenological,
+  representational, functional and neural levels.
+- **No self, a self-model.** "There is no such thing as a substantial
+  self ... but only a dynamic, ongoing process creating very specific
+  representational and functional properties." The phenomenal
+  self-model (PSM) is "that partition of an organism's self-model which
+  is conscious" because it meets further functional constraints, chiefly
+  integration into a "virtual window of presence" and a single world
+  model.
+- **Transparency is the key.** A representation is transparent when its
+  earlier processing stages are unavailable to attention, so one "sees
+  through" it to its content. "The central claim of SMT is that a
+  phenomenal self emerges if and only if a system operates under a
+  transparent PSM." The prediction: a fully opaque PSM would end the
+  experience of selfhood.
+- **The first-person perspective** is a transparent phenomenal model of
+  the intentionality relation (PMIR): the system models itself as
+  directed at objects and goals and does not recognise the model as a
+  model.
+- **Self-models can be unconscious and artificial.** Bongard, Zykov and
+  Lipson's "starfish" robot infers its own body from
+  actuation–sensation data, chooses actions that discriminate between 15
+  candidate self-models, and after losing part of a leg revises its model
+  and "learns to limp". "You do not have to be a living being in order to
+  have a self-model."
+- **Three orders of embodiment.** First-order: intelligence from body and
+  environment without explicit computation. Second-order: an explicit,
+  coherent self-representation as an embodied agent, used for control
+  (the starfish, many animals). Third-order: some of that content is
+  conscious, a PSM (waking humans, perhaps orangutans).
+
+## Standing in the record
+
+Filed on 2026-10-02 at the owner's request for Metzinger's self-model
+theory, as the lawfully readable statement of it, beside the book
+([LIT-tmpwrzq5](LIT-tmpwrzq5.md), Deferred), and to relate it to Minsky's self-models in *The
+Emotion Machine* ([LIT-432](LIT-432.md)). No anthology topic holds it. It carries no
+instruction for machine-learning practice; its machine example is a
+robotics result reported as illustration. The anthology does not hold it.
+
+[NOTE-tmp5lmjw](../notes.d/NOTE-tmp5lmjw.md) is the reading, and it placed the work: **Active**. It is
+short and by the theory's author, and states the central claim exactly.
+It argues little: the transparency claim is a definition with a
+prediction, and the empirical examples are cited. Its online text has
+drifted from the accepted version, so cite it by revision date.
+
+Where it meets the record, set out in the NOTE:
+
+- **Minsky** ([LIT-432](LIT-432.md), [NOTE-348](../notes.d/NOTE-348.md)). Both deny a substantial self and make
+  the self a matter of self-models. Minsky's Self is "a network of
+  models" switched among, and a single unified model would be
+  impractical. Metzinger's PSM is "a coherent self-representation, a
+  consistent internal model of itself as a whole", an instrument of global
+  control. They differ on one model or many, and on what produces the
+  sense of a self: Minsky's convenient Single-Self idea, Metzinger's
+  transparency.
+- **Dennett** ([LIT-442](LIT-442.md)). Both are no-self views. Dennett's self is a
+  posit of interpretation, the brain included as interpreter; Metzinger's
+  is the content of a model the brain runs and cannot see as a model.
+- **Machines and consciousness** ([THEORY-023](../theory.d/THEORY-023.md)). The article separates
+  having a self-model (a robot can) from having a phenomenal self (needs
+  further constraints, "presently still unknown"), so a self-model is not
+  evidence of experience on its own.
