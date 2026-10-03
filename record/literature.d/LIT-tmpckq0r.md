@@ -1,0 +1,107 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpwwoeb](../notes.d/NOTE-tmpwwoeb.md)), from the authors'' own deposit of the published article on selfdeterminationtheory.org; worth reading as the shortest statement of self-determination theory by its authors, and the one most cited. It gives the three basic psychological needs (competence, autonomy, relatedness), the continuum of regulation from amotivation through external, introjected, identified and integrated regulation to intrinsic motivation, and the claim that autonomy is volition, "not ... being independent, detached, or selfish" (p. 74). It is a review: every empirical claim is cited to other papers, nothing is tested here, and it states the reward-undermining result as settled by Deci, Koestner & Ryan ([LIT-tmp58ot3](LIT-tmp58ot3.md)), which Cameron, Banko & Pierce dispute ([LIT-tmpyhay6](LIT-tmpyhay6.md), unread; by its abstract).'
+title: 'Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full (the published article as typeset in American
+    Psychologist 55(1):68–78, January 2000, all of pp. 68–78 including
+    Figure 1 and the reference list, from the PDF the authors post at
+    https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf;
+    11 PDF pages with a text layer, extracted with PyMuPDF). The PDF is a
+    scan of the APA printing (running heads, page numbers, the copyright
+    line and DOI as printed), so it is the published paper, not a
+    manuscript. Crossref gives the year only, so `published:` is the
+    first of January 2000, the month the issue carries. Not held in the
+    Anthology of the SOTA: a grep of its literature.d, notes.d and
+    theory.d for "self-determination", "Deci" and "intrinsic motivation"
+    found nothing.
+tags:
+- motivation
+- agency
+- social-science
+- psychopathology-and-treatment
+- self-and-personhood
+date: '2026-10-03'
+published: '2000-01-01'
+doi: '10.1037/0003-066X.55.1.68'
+url: 'https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf'
+first_author: 'Ryan'
+keywords:
+- 'self-determination theory'
+- 'intrinsic motivation'
+- 'extrinsic motivation'
+- 'cognitive evaluation theory'
+- 'organismic integration theory'
+- 'internalization'
+- 'autonomy'
+- 'competence'
+- 'relatedness'
+- 'basic psychological needs'
+- 'well-being'
+implementations: []
+summary: >-
+  Ryan & Deci (2000), American Psychologist 55(1):68–78. Self-determination
+  theory in eleven pages. Three innate psychological needs, for
+  competence, autonomy and relatedness, must be satisfied for growth,
+  integration and well-being; their thwarting is "a principal source of
+  human distress" (p. 74). Motivation differs in kind, not only amount:
+  extrinsic motivation runs from external through introjected and
+  identified to integrated regulation, and becomes more autonomous as a
+  regulation is internalized and integrated with the self. Autonomy is
+  volition, not independence.
+extended_by:
+- LIT-tmpictnr
+---
+<!-- inactive-ok-file: LIT-tmpyhay6 — Deferred: Cameron, Banko & Pierce (2001) is unread; named as disputing the reward result -->
+
+# LIT-tmpckq0r: Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+
+Richard M. Ryan and Edward L. Deci (2000), *American Psychologist* 55(1):68–78 — DOI-10.1037/0003-066X.55.1.68
+
+## Key takeaways
+
+- **Kinds of motivation.** "Motivation" is not one quantity. A person can act
+  from interest, from a value they hold, from guilt or pride, or under a
+  reward or threat, and these have different consequences "even when the
+  people have the same level of perceived competence or self-efficacy"
+  (p. 69).
+- **The continuum (Figure 1, pp. 72–73).** Amotivation, then four kinds of
+  extrinsic motivation ordered by relative autonomy (external, introjected,
+  identified, integrated), then intrinsic motivation. Introjection is a
+  regulation "taken in" but "not fully accepted as one's own", run by guilt,
+  anxiety and contingent self-esteem. Identification is "a conscious valuing"
+  of the behaviour. Integration is identification "brought into congruence
+  with one's other values and needs".
+- **Internalization depends on the social context.** Relatedness and
+  competence support internalization. Autonomy support is required for a
+  regulation to be integrated rather than introjected: "To integrate a
+  regulation, people must grasp its meaning and synthesize that meaning with
+  respect to their other goals and values" (p. 74).
+- **Needs, defined functionally.** A basic need is "an energizing state that,
+  if satisfied, conduces toward health and well-being but, if not satisfied,
+  contributes to pathology and ill-being" (p. 74). The three are claimed to
+  be universal; how they are satisfied varies by culture.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the first of the record's
+self-determination theory (SDT) holdings and the paper the others build on.
+The topic `motivation` was added for this filing ([ADR-023](../decisions.d/ADR-023.md)). This paper is
+its primary statement. Deci and Ryan's Psychological Inquiry target article
+([LIT-tmpc4275](LIT-tmpc4275.md)) is the long statement of the needs. Ryan and Deci (2006),
+[LIT-tmpictnr](LIT-tmpictnr.md), is where they defend the autonomy concept against
+philosophers' and psychologists' objections. Vansteenkiste, Ryan and
+Soenens (2020), [LIT-tmplhywo](LIT-tmplhywo.md), is the two-decade update.
+
+Where it meets the record's philosophy of agency: its continuum is an
+empirical, graded version of the question the Frankfurt holdings ask about
+whose a motive is. That bearing is drawn in [NOTE-tmpwwoeb](../notes.d/NOTE-tmpwwoeb.md) and [NOTE-tmpvdmv2](../notes.d/NOTE-tmpvdmv2.md),
+and is left to THEORY documents to state. The paper itself names no
+philosopher.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

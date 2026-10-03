@@ -29,6 +29,8 @@ summary: >-
   action's sensory effects (PPC, premotor, cerebellum), with
   frontostriatal circuits for stopping.
 ---
+<!-- inactive-ok-file: THEORY-tmplvap0 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-tmppzrsd — Proposed; named in Connections -->
 
 <!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
@@ -175,6 +177,13 @@ Supporting points in the body:
 - **Damasio ([LIT-384](../literature.d/LIT-384.md), [LIT-388](../literature.d/LIT-388.md)).** Not cited. The paper's "affective appraisals of
   action options" are close to the somatic-marker idea that emotion prunes the option space. This
   paper puts that role on action readiness, not on re-enacted body states.
+- **Deci and Ryan ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)), read.** Not cited. They argue the
+  opposite of this paper's regulation claim: needs, not emotions, are the
+  higher-order regulators, "because emotions themselves must be
+  self-regulated for effective functioning" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 254). This
+  paper's concerns, which give events their pertinence, include the person's
+  goals, needs and values, which is where the two accounts touch. The
+  disagreement is recorded in [THEORY-tmppzrsd](../theory.d/THEORY-tmppzrsd.md).
 
 ## Bearing on the record
 
@@ -186,6 +195,8 @@ Supporting points in the body:
   regulation is a distinct process or emotions regulating one another. Gross
   (1998) and this paper take the two positions.
 - No instruction for machine-learning practice.
+- It is the source of [THEORY-tmplvap0](../theory.d/THEORY-tmplvap0.md) and, with [LIT-542](../literature.d/LIT-542.md), of THEORY-
+  tmppzrsd.
 
 ## Limitations
 

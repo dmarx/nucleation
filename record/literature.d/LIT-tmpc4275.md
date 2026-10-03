@@ -1,0 +1,103 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpnji9e](../notes.d/NOTE-tmpnji9e.md)), from the authors'' own deposit of the published target article on selfdeterminationtheory.org; worth reading as the full statement of what SDT means by a "need" and why it posits three. Needs are "innate psychological nutriments that are essential for ongoing psychological growth, integrity, and well-being" (p. 228), identified by what follows when they are satisfied or thwarted, not by how strongly people want them. Goals differ in their "why" (autonomous or controlled regulation) and their "what" (intrinsic or extrinsic content), and both matter because of need satisfaction. Thwarting produces need substitutes, controlled regulatory styles and rigid behaviour patterns. It is a target article: the commentaries and the authors'' reply in the same issue were not read.'
+title: 'The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full (the target article as printed in Psychological Inquiry
+    11(4):227–268, pp. 227–262 of text, Figure 1's caption and the notes;
+    the reference list, pp. 262–268, was not read item by item), from the
+    authors' deposit at
+    https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf,
+    42 PDF pages with a text layer. It is the publisher's typeset article
+    (the Lawrence Erlbaum copyright line, journal running heads and page
+    numbers 227–268 are on the pages). `published:` is October 2000, the
+    issue date Crossref gives. The commentaries in the same issue and Deci
+    and Ryan's reply to them ("The darker and brighter sides of human
+    existence", same volume) were not read.
+tags:
+- motivation
+- agency
+- self-and-personhood
+- social-science
+- psychopathology-and-treatment
+date: '2026-10-03'
+published: '2000-10-01'
+doi: '10.1207/S15327965PLI1104_01'
+url: 'https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf'
+first_author: 'Deci'
+keywords:
+- 'self-determination theory'
+- 'basic psychological needs'
+- 'goal content'
+- 'goal process'
+- 'intrinsic and extrinsic aspirations'
+- 'internalization'
+- 'causality orientations'
+- 'need substitutes'
+- 'organismic-dialectical metatheory'
+- 'evolution of needs'
+implementations: []
+summary: >-
+  Deci & Ryan (2000), Psychological Inquiry 11(4):227–268, target article.
+  SDT's case for innate psychological needs, for competence, relatedness
+  and autonomy, defined as nutriments for growth, integrity and well-being
+  and identified functionally, against Hull's drives and Murray's acquired
+  needs. The "why" of a goal (autonomous or controlled regulation) and its
+  "what" (intrinsic or extrinsic aspiration) each predict well-being,
+  because each affects need satisfaction. Thwarted needs yield substitutes,
+  controlled styles and rigid patterns. Autonomy is the organism's
+  tendency to self-organize, argued to be an evolved advantage.
+extended_by:
+- LIT-tmplhywo
+---
+<!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+
+# LIT-tmpc4275: The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+Edward L. Deci and Richard M. Ryan (2000), *Psychological Inquiry* 11(4):227–268 (target article) — DOI-10.1207/S15327965PLI1104_01
+
+## Key takeaways
+
+- **What a need is.** A need is not whatever moves people. It is a
+  condition "for psychological health or well-being", so that "psychological
+  health requires satisfaction of all three needs; one or two are not
+  enough" (pp. 228–229). A need is identified the way one shows that plants
+  need water: by flourishing when it is met and breakdown when it is not.
+- **Why and what.** Autonomously regulated goal pursuit goes with better
+  performance and well-being than controlled pursuit. Separately, placing
+  relative importance on extrinsic aspirations (wealth, fame, image) goes
+  with lower well-being even after the reasons for pursuing them are
+  controlled for (Carver & Baird, pp. 244–245).
+- **Autonomy is unique among the three.** Competence and relatedness can be
+  satisfied by controlled behaviour; autonomy "is essential for the
+  goal-directed behavior to be self-determined" (p. 241).
+- **Integration requires autonomy support.** Relatedness and competence
+  supports "can be sufficient to produce introjected values or
+  compartmentalized (poorly integrated) identifications". Integration also
+  needs "an opportunity for the individual to freely process and endorse
+  transmitted values" (p. 237).
+- **Some values cannot be integrated.** "Some goals are not integrateable
+  because they are inherently inconsistent with human nature", and can at
+  best be introjected (pp. 246–247).
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, beside Ryan and Deci's American
+Psychologist paper ([LIT-tmpckq0r](LIT-tmpckq0r.md)), as the long statement of the needs. It is
+the paper the 2020 review ([LIT-tmplhywo](LIT-tmplhywo.md)) names as having "formally
+identified" the three needs, and it carries the material the shorter paper
+lacks: the concept of need against Hull and Murray, SDT's account of the
+self, need substitutes, the evolutionary argument, and SDT's comparison with
+social-learning, terror-management, control, achievement-goal, flow and
+attachment theories.
+
+Its account of the self (pp. 247–248) is what the record's agency holdings
+would have to test: whether "integration with the self" can be specified
+without presupposing the agent ([THEORY-029](../theory.d/THEORY-029.md)). [NOTE-tmpnji9e](../notes.d/NOTE-tmpnji9e.md) draws that out.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.
