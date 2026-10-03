@@ -21,6 +21,7 @@ summary: >-
   primary and secondary contributions. Reproduction is left to future
   "second-order" self-maintaining systems.
 ---
+<!-- inactive-ok-file: THEORY-tmpm2o1r — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-536 — Deferred, unread; named as the book two of the authors later wrote, not leaned on -->
 
 # NOTE-tmp2cx1i: An Organizational Account of Biological Functions
@@ -150,7 +151,7 @@ organism-generated normativity.
 - **Baedke ([LIT-167](../literature.d/LIT-167.md))** argues closure is too permissive to individuate
   organisms. This paper never uses closure to individuate; it uses it to
   ground functions. The objection bears on [LIT-tmpksq6n](../literature.d/LIT-tmpksq6n.md) §6, not here.
-- **THEORY suggested** (reported to the batch, not filed): what separates
+- **THEORY filed** as [THEORY-tmpm2o1r](../theory.d/THEORY-tmpm2o1r.md) (Proposed): what separates
   organisms from dissipative structures is closure together with
   organizational differentiation, not closure alone.
 - **Biological Autonomy ([LIT-536](../literature.d/LIT-536.md))** chapter 3 should contain the book's

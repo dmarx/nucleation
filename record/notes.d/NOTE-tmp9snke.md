@@ -23,6 +23,7 @@ summary: >-
   hand-built generative models. A conceptual critique; no new formal result
   and no data.
 ---
+<!-- inactive-ok-file: THEORY-tmpnd5gh — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-536 — Deferred, unread; named for the autonomy tradition it systematises, not leaned on -->
 <!-- inactive-ok-file: LIT-tmpghan1 LIT-tmpp3m1q — Deferred; cited by this paper for coupled oscillators measured by relative phase, not leaned on -->
 
@@ -139,7 +140,7 @@ as the explanation that makes a blanket idle for pendulums.
   constitutive self-organization the paper says blankets miss is the
   organizational school's subject; the paper cites autopoiesis rather than
   closure of constraints.
-- **THEORY suggested** (shared with [LIT-tmpxq8pk](../literature.d/LIT-tmpxq8pk.md)): a Markov-blanket
+- **THEORY filed** as [THEORY-tmpnd5gh](../theory.d/THEORY-tmpnd5gh.md) (shared with [LIT-tmpxq8pk](../literature.d/LIT-tmpxq8pk.md)): a Markov-blanket
   partition presupposes rather than discovers a system's boundary.
 - **[LIT-tmpe0pw4](../literature.d/LIT-tmpe0pw4.md) (Sophisticated Inference)** is open to C6 as stated.
 - No instruction for machine-learning practice.

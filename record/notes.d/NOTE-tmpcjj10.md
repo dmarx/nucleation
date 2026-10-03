@@ -24,6 +24,7 @@ summary: >-
   sets the task of rebuilding it, so unity of agency is "an achievement, not
   a given".
 ---
+<!-- inactive-ok-file: THEORY-tmpc3zog — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-tmpstkvq — Deferred; Self-Constitution, the book this chapter summarises -->
 <!-- inactive-ok-file: LIT-tmpphga0 — Deferred; Structures of Agency, the Bratman essays the chapter cites -->
 <!-- inactive-ok-file: LIT-477 — Deferred; Gilbert, named as a related holding -->
@@ -161,11 +162,11 @@ under the name of "the reflective structure" of the mind.
   agency itself, so it may count as the dilemma's second horn. The record
   should weigh it when [THEORY-029](../theory.d/THEORY-029.md) is next revised, together with the
   Tanner Lectures' wanton argument ([NOTE-tmpsutam](NOTE-tmpsutam.md)).
-- **A candidate THEORY, Proposed.** *The unity that makes a movement an
+- **A THEORY, filed as [THEORY-tmpc3zog](../theory.d/THEORY-tmpc3zog.md) (Proposed).** *The unity that makes a movement an
   agent's action is achieved by conformity to constitutive norms, not given
   by the causal unity of a mind, and the same holds for collective agents.*
   Sources: this chapter and [LIT-tmp18qr5](../literature.d/LIT-tmp18qr5.md). The rival in the record is the
-  natural conception, as Bratman holds it ([LIT-tmp5j4f4](../literature.d/LIT-tmp5j4f4.md)). It would be
+  natural conception, as Bratman holds it ([LIT-tmp5j4f4](../literature.d/LIT-tmp5j4f4.md)). It is
   Proposed until *Self-Constitution* ([LIT-tmpstkvq](../literature.d/LIT-tmpstkvq.md)) or the reply to the
   Bratman volume is read.
 

@@ -61,6 +61,7 @@ summary: >-
   self-governed, while anticipated regret at "plan's end" excludes drinking
   Kavka's toxin.
 ---
+<!-- inactive-ok-file: THEORY-tmpxn1af THEORY-tmpgx68d — Proposed; named as the theories built on this essay and on its rival, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-tmpr5hsy — Deferred, no lawful full text; Bratman 1987, cited as the planning theory this essay extends -->
 <!-- inactive-ok-file: LIT-tmpschvl — Deferred, unread (another reader's filing in this batch); the essay this chapter cites for synchronic self-governance and extends -->
 <!-- inactive-ok-file: LIT-488 — Deferred, no lawful full text; Bratman 2014, whose account of shared intention this chapter extends -->
@@ -136,7 +137,8 @@ between "time-defined selves", and says a bargain "seems to involve a kind of
 reciprocal inter-relation that is not possible here", because the earlier
 self "will not be around" to respond. His alternative is an end of
 diachronic self-governance in the agent's standpoint. Neither tests the
-other.
+other. The account built on each is filed: [THEORY-tmpxn1af](../theory.d/THEORY-tmpxn1af.md) on this essay,
+[THEORY-tmpgx68d](../theory.d/THEORY-tmpgx68d.md) on Ainslie's précis.
 
 Tags. `self-governance` and `agency` follow the owner's distinction.
 `personhood` is for cross-temporal agency: plans induce "psychological

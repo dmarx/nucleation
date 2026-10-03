@@ -24,6 +24,7 @@ summary: >-
   Drift variability gives slow errors and starting-point variability fast
   ones. Reviews aging, aphasia and neural-firing applications.
 ---
+<!-- inactive-ok-file: THEORY-tmp2002z — Proposed; named as the theory that rests on this model, nothing here rests on it -->
 
 # NOTE-tmp2cxrv: The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
 
@@ -165,8 +166,8 @@ spread change.
 
 - The model says what an evidence-accumulation decision is, with parameters
   that dissociate. That makes it the measurement backbone for any THEORY the
-  record might hold about deliberation, caution or bias (see the batch
-  report).
+  record might hold about deliberation, caution or bias; [THEORY-tmp2002z](../theory.d/THEORY-tmp2002z.md) is
+  the first to rest on it.
 - **No ML instruction.** Nothing here belongs in the anthology.
 
 ## Limitations

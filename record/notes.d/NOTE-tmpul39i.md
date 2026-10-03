@@ -25,6 +25,7 @@ summary: >-
   generativity. Culture supplies master narratives. Claims are cited, not
   shown.
 ---
+<!-- inactive-ok-file: THEORY-tmp1s0xj — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-044 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-051 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: LIT-tmpa39zo — Deferred, no lawful full text; the 2013 review this essay builds on -->
@@ -134,7 +135,7 @@ to "many cases" but is not the "more basic cross-temporal unity".
 
 ## Bearing on the record
 
-- **A THEORY the record could hold, Proposed.** A candidate: *a life story
+- **A THEORY, filed as [THEORY-tmp1s0xj](../theory.d/THEORY-tmp1s0xj.md) (Proposed).** As proposed: *a life story
   constructed in adolescence is the form a person's diachronic identity takes,
   and its content (agency, redemption, coherence) shapes later well-being.*
   Sources would be this essay, [LIT-tmpa39zo](../literature.d/LIT-tmpa39zo.md) once read, and Adler 2012.

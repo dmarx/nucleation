@@ -24,6 +24,7 @@ summary: >-
   models groups. The same dynamics is reported within and between people
   and in brain activity. A first-person account, not a review.
 ---
+<!-- inactive-ok-file: THEORY-tmpjmrqg — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 
 # NOTE-tmptji09: The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind
 
@@ -133,7 +134,7 @@ example of a dynamics already explained without a Markov blanket.
   The record's other `behavioral-integration` holdings are about control by
   competition, hierarchy or evidence accumulation; this is the dynamical
   alternative.
-- **THEORY suggested** (reported, not filed; Proposed until the 1985 paper
+- **THEORY filed** as [THEORY-tmpjmrqg](../theory.d/THEORY-tmpjmrqg.md) (Proposed until the 1985 paper
   and Schöner et al. 1986 are read): in human rhythmic bimanual
   coordination, anti-phase loses stability at a critical movement
   frequency and switches to in-phase through a nonequilibrium phase

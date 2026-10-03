@@ -24,6 +24,7 @@ summary: >-
   the tree in control. It also predicts that incentive learning should
   become unnecessary when the caching system is lesioned.
 ---
+<!-- inactive-ok-file: THEORY-tmp2wlfb — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-tmpishc1: Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
@@ -158,8 +159,8 @@ an action next to the reward.
   emotion to action. See the report.
 - **A candidate THEORY.** This paper and [LIT-tmpmlzuo](../literature.d/LIT-tmpmlzuo.md) together support an
   account in which instrumental and Pavlovian behaviour each draw on
-  model-based and model-free predictions, combined by reliability. That is
-  proposed in the report, not filed.
+  model-based and model-free predictions, combined by reliability. That
+  account is filed as [THEORY-tmp2wlfb](../theory.d/THEORY-tmp2wlfb.md).
 - **No ML instruction.** The paper uses reinforcement-learning algorithms to
   explain brains and behaviour, so it belongs here and not in the anthology.
 

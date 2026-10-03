@@ -22,6 +22,7 @@ summary: >-
   necessary. The definition is a proposal: the authors say asymmetry's
   formalization is incomplete and modeller-relative.
 ---
+<!-- inactive-ok-file: THEORY-tmplg7y1 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 
 # NOTE-tmpgl8bl: Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action
 
@@ -135,7 +136,7 @@ interaction. Normativity is grounded with "Mossio et al. 2009"
   an individual, and C2 rejects correlational asymmetry. It does not
   discuss Friston, whose paper is four years later; the bearing is the
   record's, not the authors'.
-- **THEORY suggested** (reported, not filed): minimal agency is an
+- **THEORY filed** as [THEORY-tmplg7y1](../theory.d/THEORY-tmplg7y1.md) (Proposed): minimal agency is an
   autonomous organization adaptively modulating its coupling for its own
   maintenance; individuality without asymmetry and self-generated norms is
   not agency.

@@ -24,6 +24,7 @@ summary: >-
   commits us to valuing humanity, reasons are public, and animals' pain can
   obligate us. Argued, but "sketchy" by its own account.
 ---
+<!-- inactive-ok-file: THEORY-tmptybsy — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-tmpv6pq9 — Deferred; the book version of these lectures -->
 <!-- inactive-ok-file: THEORY-029 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; named in Bearing on the record -->
@@ -163,13 +164,13 @@ hypothetical imperatives.
   the philosophical counterpart of SDT's claim that how a value was taken in
   fixes how it is held. The lectures do not discuss how identities are
   acquired.
-- **A candidate THEORY, Proposed.** *Obligation is constituted by
+- **A THEORY, filed as [THEORY-tmptybsy](../theory.d/THEORY-tmptybsy.md) (Proposed).** *Obligation is constituted by
   reflective rejection of what would violate an agent's practical identity,
   so that every reason is identity-relative and moral reasons follow only
   from valuing humanity as an identity.* Sources: these lectures and
   [LIT-tmpnjho3](../literature.d/LIT-tmpnjho3.md). Rivals within the record: Frankfurt's caring ([LIT-293](../literature.d/LIT-293.md)). It
-  would be Proposed until the book's reply to its commentators
-  ([LIT-tmpv6pq9](../literature.d/LIT-tmpv6pq9.md)) is read.
+  is Proposed until the book's reply to its commentators
+  ([LIT-tmpv6pq9](../literature.d/LIT-tmpv6pq9.md)), still unread, is read.
 
 It carries no instruction for machine-learning practice.
 

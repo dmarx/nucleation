@@ -134,8 +134,8 @@ Tronick.
 - **Psychopathology.** The remark on autism (p. 503) points to a relational
   account of social difficulty; it is a single sentence, and the paper cites
   De Jaegher 2006 for it.
-- No THEORY suggested beyond the definition itself; the evidence is
-  illustrative.
+- No THEORY filed: one was declined, because the source does not carry a
+  claim beyond the definition itself; the evidence is illustrative.
 - No instruction for machine-learning practice.
 
 ## Limitations

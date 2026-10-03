@@ -28,6 +28,7 @@ summary: >-
   optimal performance curve (peak decision time about 0.2 of the delay at
   ER about 18%).
 ---
+<!-- inactive-ok-file: THEORY-tmp2002z — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 
 # NOTE-tmpo6f5g: The Physics of Optimal Decision Making: A Formal Analysis of Models of Performance in Two-Alternative Forced-Choice Tasks
 
@@ -186,7 +187,8 @@ prior odds.
 - It supplies a normative reading of `behavioral-integration` at the level of
   one decision: accumulate the difference, and set threshold and start by the
   utility at stake. Its last section recasts cognitive control as that tuning.
-  See the batch report for a candidate THEORY.
+  That THEORY is filed as [THEORY-tmp2002z](../theory.d/THEORY-tmp2002z.md), and the balance of leak and
+  inhibition as [THEORY-tmpinmsm](../theory.d/THEORY-tmpinmsm.md).
 - **No ML instruction.** Although the SPRT and reward-rate optimisation are
   shared with machine learning, the paper is about human and animal decisions
   and gives no ML practice. Nothing here belongs in the anthology.

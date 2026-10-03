@@ -23,6 +23,7 @@ summary: >-
   symbionts and by nested separated closures for levels. Applied only to
   schematic examples; closure is not claimed to define organisms.
 ---
+<!-- inactive-ok-file: THEORY-tmpm2o1r — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-536 — Deferred, unread; the book whose central claim this paper states, not leaned on -->
 <!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, named only as a reference the paper cites -->
 
@@ -153,7 +154,7 @@ systems.
   boundary criterion. Raja et al. argue blankets cannot represent a boundary
   the system produces; closure is defined by production among constraints.
   No paper in the record compares the two on the same system.
-- **THEORY suggested** (reported, not filed): organisms are separated from
+- **THEORY filed** as [THEORY-tmpm2o1r](../theory.d/THEORY-tmpm2o1r.md) (Proposed): organisms are separated from
   dissipative structures by closure among multiple constraints at distinct
   time scales (with differentiation, per [LIT-tmp9gfzl](../literature.d/LIT-tmp9gfzl.md)), not by
   far-from-equilibrium self-maintenance alone.

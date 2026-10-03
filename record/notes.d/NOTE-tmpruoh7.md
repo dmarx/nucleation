@@ -28,6 +28,7 @@ summary: >-
   carry model-based evaluations. A kappa-transformation model fits the data
   but is described as phenomenological, and no algorithm is offered.
 ---
+<!-- inactive-ok-file: THEORY-tmp2wlfb — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-045 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-tmpruoh7: Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation
@@ -166,8 +167,8 @@ deliberate instrumental choice.
   peers.
 - **A candidate THEORY** (with [LIT-tmpk0t5p](../literature.d/LIT-tmpk0t5p.md)): behaviour draws on both
   model-based and model-free predictions in instrumental and Pavlovian
-  learning, and their relative control follows their reliability. See the
-  report.
+  learning, and their relative control follows their reliability. Filed
+  as [THEORY-tmp2wlfb](../theory.d/THEORY-tmp2wlfb.md).
 - **No ML instruction.** Nothing here belongs in the anthology.
 
 ## Limitations

@@ -25,6 +25,7 @@ summary: >-
   model makes some willpower and resistance to shuffling self-governed and
   excludes the toxin case. Argued by cases, not tested.
 ---
+<!-- inactive-ok-file: THEORY-tmpxn1af — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-tmpphga0 — Deferred; Structures of Agency, the collection the cited essays are in -->
 <!-- inactive-ok-file: LIT-tmpr5hsy — Deferred; Bratman 1987, the planning theory this essay presupposes -->
 <!-- inactive-ok-file: LIT-tmpschvl — Deferred, unread; Bratman 2004, the essay cited for synchronic self-governance -->
@@ -177,11 +178,11 @@ claims.
   ([LIT-tmpnjho3](../literature.d/LIT-tmpnjho3.md)) reports that Bratman, asked about a post-hypnotically
   installed intention, said it would be the agent's own. That fits a
   structural view that bites the bullet.
-- **A candidate THEORY, Proposed.** *Diachronic self-governance is
+- **A THEORY, filed as [THEORY-tmpxn1af](../theory.d/THEORY-tmpxn1af.md) (Proposed).** *Diachronic self-governance is
   constituted by intrapersonal analogues of shared intention, not by
   narrative unity or intertemporal bargaining.* Sources: this essay;
   against it, [LIT-tmpne8q4](../literature.d/LIT-tmpne8q4.md) (bargaining) and [LIT-tmprqeqf](../literature.d/LIT-tmprqeqf.md) (narrative). It
-  would be Proposed until Shared Agency ([LIT-488](../literature.d/LIT-488.md)) is read, since the
+  is Proposed until Shared Agency ([LIT-488](../literature.d/LIT-488.md)) is read, since the
   analogy's terms come from there.
 
 It carries no instruction for machine-learning practice.

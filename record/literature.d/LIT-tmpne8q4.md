@@ -61,6 +61,7 @@ summary: >-
 rivals:
 - LIT-tmp5j4f4
 ---
+<!-- inactive-ok-file: THEORY-tmpgx68d THEORY-tmpxn1af — Proposed; named as the theories built on this précis and on its rival, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-tmpmhu3j THEORY-029 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
 
 # LIT-tmpne8q4: Précis of Breakdown of Will
@@ -140,8 +141,9 @@ already held:
   another name for intertemporal bargaining". The Bratman text the précis
   uses is *Faces of Intention* (1999, pp. 35–57: the pianist and the
   toxin). That book is not in the record. Bratman's planning theory of
-  self-governance is being filed in this batch by another reader, and the
-  link between the two should be made once those entries are complete.
+  self-governance is filed as [LIT-tmp5j4f4](LIT-tmp5j4f4.md), which this entry rivals, and
+  the account built on each is in theory.d: [THEORY-tmpgx68d](../theory.d/THEORY-tmpgx68d.md) on this précis,
+  [THEORY-tmpxn1af](../theory.d/THEORY-tmpxn1af.md) on Bratman's essay.
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

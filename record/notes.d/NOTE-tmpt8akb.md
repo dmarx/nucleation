@@ -25,6 +25,7 @@ summary: >-
   to detect drift differences and covariate effects, by up to 20% for the
   latter with larger effects and few trials.
 ---
+<!-- inactive-ok-file: THEORY-tmp2002z — Proposed; named as the batch theory whose parameters this tool would estimate, nothing here rests on it -->
 
 # NOTE-tmpt8akb: HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python
 
@@ -132,8 +133,8 @@ in Cython.
 ## Bearing on the record
 
 - A tool, not a theory. It is the means by which claims in the batch's
-  candidate theories (caution, bias, control of threshold) would be measured
-  in individuals.
+  theories (caution, bias and control of threshold, [THEORY-tmp2002z](../theory.d/THEORY-tmp2002z.md)) would
+  be measured in individuals.
 - **No ML instruction.** Bayesian inference is shared with machine learning,
   but the subject is cognitive measurement. Nothing here belongs in the
   anthology.

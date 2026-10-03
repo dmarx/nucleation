@@ -26,6 +26,7 @@ summary: >-
   intentionality relation, whose iteration gives introspective and social
   intelligence. A theory statement: no new evidence.
 ---
+<!-- inactive-ok-file: THEORY-tmp3lvfj THEORY-tmpaa365 — Proposed; named as the THEORY documents filed for this note's candidates, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-467 — Deferred, no lawful full text; the book the précis summarises -->
 <!-- inactive-ok-file: THEORY-044 — Proposed; named in Bearing on the record as the account this reading bears on -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; named in Bearing on the record as the account this reading bears on -->
@@ -195,7 +196,8 @@ conscious and transparent.
 - **[THEORY-045](../theory.d/THEORY-045.md)** (felt affect). The précis anchors the self-model in
   homeostatic and visceral input and likens the transparent PSM to Damasio's
   core self. That is consistent with the account. It adds no evidence for it.
-- **A candidate claim, not filed.** The précis supplies one side of a
+- **A candidate claim, now filed** as [THEORY-tmp3lvfj](../theory.d/THEORY-tmp3lvfj.md), with C1 filed as
+  [THEORY-tmpaa365](../theory.d/THEORY-tmpaa365.md). The précis supplies one side of a
   dispute the record could hold as a THEORY: whether phenomenal unity is the
   unity of a self-model's world, a functional binding, or a narrative unity.
   The narrative side is McAdams ([LIT-tmprqeqf](../literature.d/LIT-tmprqeqf.md)) and Schechtman. Proposed only,

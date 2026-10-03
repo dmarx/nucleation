@@ -26,6 +26,7 @@ summary: >-
   premises; instrumental use is innocent but settles nothing about
   boundaries.
 ---
+<!-- inactive-ok-file: THEORY-tmpnd5gh — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 
 # NOTE-tmp5ncd3: The Emperor's New Markov Blankets
 
@@ -134,11 +135,11 @@ Rohde ([LIT-tmp2zh8b](../literature.d/LIT-tmp2zh8b.md)) for "interactional asymm
 - **Demarcation ([LIT-192](../literature.d/LIT-192.md), [NOTE-094](NOTE-094.md)).** If blankets are model-relative,
   Friston's exclusion of the candle flame (C7 in [NOTE-421](NOTE-421.md)) is a fact about a
   model of a flame, which [LIT-526](../literature.d/LIT-526.md) does not provide.
-- **THEORY suggested** (reported, not filed): a Markov-blanket partition does
+- **THEORY filed** as [THEORY-tmpnd5gh](../theory.d/THEORY-tmpnd5gh.md) (Proposed), with the formal part (C4)
+  filed separately as [THEORY-tmpcv4h8](../theory.d/THEORY-tmpcv4h8.md) (Active): a Markov-blanket partition does
   not individuate a system; where the blanket falls depends on the graph and
   on which nodes are designated internal, so it presupposes the boundary it
-  is used to find. Sources: this paper and [LIT-tmpumhsc](../literature.d/LIT-tmpumhsc.md). Proposed, or Active
-  if the record wants the formal part (C4) as settled.
+  is used to find. Sources: this paper and [LIT-tmpumhsc](../literature.d/LIT-tmpumhsc.md).
 - No instruction for machine-learning practice.
 
 ## Limitations

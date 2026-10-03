@@ -26,6 +26,7 @@ summary: >-
   is a synthesis without a fitted model, and it leaves open how EVC is
   computed and what the cost function is.
 ---
+<!-- inactive-ok-file: THEORY-tmpkujus — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-tmpw2wwz THEORY-029 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-tmp3indo: The Expected Value of Control: An Integrative Theory of Anterior Cingulate Cortex Function
@@ -167,8 +168,10 @@ data.
     deliberate regulation recruits". EVC says what those networks compute,
     which makes the test sharper.
 
-  This is proposed as a rival in the report and not declared here, because
-  rivalry is declared between THEORY documents and no EVC THEORY is filed.
+  The EVC account is now filed as [THEORY-tmpkujus](../theory.d/THEORY-tmpkujus.md). It declares no rivalry
+  with [THEORY-056](../theory.d/THEORY-056.md): the collision is conditional on EVC's specification
+  governing emotion regulation generally, and the test is the one
+  [THEORY-056](../theory.d/THEORY-056.md) already names.
 - **[THEORY-029](../theory.d/THEORY-029.md).** Not touched. EVC is about how much control, not whose.
 - **Self-determination theory.** EVC's intrinsic cost of control sits
   uneasily with SDT's claim that autonomous regulation is less depleting

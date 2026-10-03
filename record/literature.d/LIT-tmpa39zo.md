@@ -46,6 +46,7 @@ summary: >-
 extended_by:
 - LIT-tmprqeqf
 ---
+<!-- inactive-ok-file: THEORY-tmp1s0xj — Proposed; named as the account this gap blocks from promotion, nothing here rests on it -->
 
 # LIT-tmpa39zo: Narrative Identity
 
@@ -85,8 +86,8 @@ identity gives a life "unity and purpose". It covers the same ground,
 adaptation and development, and adds evolution and culture.
 
 The abstract's first open task, the causal direction between story and
-well-being, is the gap the record would need closed before it could promote a
-theory that life stories shape well-being. See the bearing section of
+well-being, is the gap the record would need closed before it could promote
+[THEORY-tmp1s0xj](../theory.d/THEORY-tmp1s0xj.md), which holds that life stories shape well-being. See the bearing section of
 [NOTE-tmpul39i](../notes.d/NOTE-tmpul39i.md).
 
 No anthology topic holds it, and it carries no instruction for

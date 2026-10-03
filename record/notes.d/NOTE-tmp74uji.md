@@ -187,8 +187,8 @@ dominates. In both unbalanced cases, accuracy given unlimited time is capped.
 
 - It anchors `behavioral-integration` at the level of a single decision: many
   candidate responses resolved into one by competition plus an absolute
-  criterion. See the batch report for a candidate THEORY on balanced
-  integration.
+  criterion. The THEORY on balanced integration is filed as
+  [THEORY-tmpinmsm](../theory.d/THEORY-tmpinmsm.md).
 - **No ML instruction.** Nothing here belongs in the anthology.
 
 ## Limitations

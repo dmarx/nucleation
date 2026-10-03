@@ -22,6 +22,7 @@ summary: >-
   the trial (P = 0.64). The neural decision to move is placed at the
   threshold crossing about 150 ms before movement.
 ---
+<!-- inactive-ok-file: THEORY-tmp1gn9c THEORY-tmp2002z — Proposed; named as the THEORY documents filed for this note's candidates, nothing here rests on them -->
 
 <!-- inactive-ok-file: THEORY-029 — Proposed; named to say this reading does not bear on it -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; named to say this reading does not bear on it -->
@@ -155,11 +156,12 @@ the trace of noise that happened to cross.
 - **Agency and free will.** It removes an empirical premise, not a
   philosophical position. [THEORY-029](../theory.d/THEORY-029.md) and [THEORY-040](../theory.d/THEORY-040.md) do not rely on Libet, so it
   does not bear on them. It is the record's evidence that the RP does not
-  establish a neural decision before awareness.
+  establish a neural decision before awareness, and [THEORY-tmp1gn9c](../theory.d/THEORY-tmp1gn9c.md) states
+  that claim.
 - **Behavioral integration.** It extends the evidence-accumulation account of
   decision from choosing *which* to choosing *when*, with goals acting by
-  moving a baseline rather than by issuing a command. See the batch report for
-  a candidate THEORY.
+  moving a baseline rather than by issuing a command. That THEORY is filed as
+  [THEORY-tmp2002z](../theory.d/THEORY-tmp2002z.md).
 - **No ML instruction.** The brain–computer-interface remark (the RP's limits
   as a self-paced BCI trigger) is a prediction about neural data, not an ML
   practice. Nothing here belongs in the anthology.

@@ -29,6 +29,7 @@ summary: >-
   Three correlational student samples; SEM fits reached after adding
   paths the modification indices suggested.
 ---
+<!-- inactive-ok-file: THEORY-tmpy4x0t — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-054 THEORY-047 THEORY-029 THEORY-052 — Proposed; named as the accounts this reading bears on, from the file statuses, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-tmprf69i LIT-tmpc6vlg — Deferred, unread; named as related accounts of authenticity, not leaned on -->
 
@@ -185,10 +186,10 @@ introjected guilt can be attained and leave the person no better off.
 
 ## Bearing on the record
 
-- **Candidate THEORY.** "Goals pursued for identified or intrinsic reasons
+- **THEORY filed** as [THEORY-tmpy4x0t](../theory.d/THEORY-tmpy4x0t.md). "Goals pursued for identified or intrinsic reasons
   receive more sustained effort, which carries their better attainment"
   is well supported by this paper and by the 1998 work it recaps, and
-  would be a clean Proposed account with this paper as source. It should
+  is filed Proposed with this paper as source. It should
   promote on a replication with an effort or attainment measure that is not
   the participant's own rating.
 - **For [THEORY-054](../theory.d/THEORY-054.md),** the paper is supporting but not decisive evidence;

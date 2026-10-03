@@ -26,6 +26,7 @@ summary: >-
   and against disliked actual-self primes (Study 5, contrast F = 5.07),
   with disliked true-self traits as effective as liked ones.
 ---
+<!-- inactive-ok-file: THEORY-tmppqex3 — Proposed; named as the THEORY filed from this note, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-tmpc6vlg LIT-tmprf69i LIT-183 — Deferred; named for what this paper measures against or for contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-029 — Proposed; named as accounts this reading bears on, from the file statuses, nothing here rests on them -->
 
@@ -180,11 +181,13 @@ it" (p. 486).
   widely questioned (my judgement, not the paper's), and one of
   them with a misprinted omnibus test. It would be refuted by a
   well-powered failure to replicate Study 5's negative-true vs
-  negative-actual contrast.
+  negative-actual contrast. Not filed as stated: the record filed C4
+  instead, as [THEORY-tmppqex3](../theory.d/THEORY-tmppqex3.md), whose promote_when counts a replication of
+  the priming effect as bearing on it.
 - **Against conflating authenticity measures.** C4 is the record's first
   evidence that implicit true-self accessibility and self-reported
   authenticity come apart. Any THEORY that treats "authenticity" as one
-  construct should cite it.
+  construct should cite it. [THEORY-tmppqex3](../theory.d/THEORY-tmppqex3.md) now states it.
 - **No ML instruction.** Nothing here belongs in the anthology.
 
 ## Limitations

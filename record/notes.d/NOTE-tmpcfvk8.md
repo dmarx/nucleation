@@ -147,8 +147,8 @@ grounding and at active inference's generative models generally.
   No THEORY bears.
 - **[THEORY-045](../theory.d/THEORY-045.md)** (Proposed) draws on active inference through [LIT-542](../literature.d/LIT-542.md); this
   paper adds nothing on affect.
-- No THEORY suggested: the results are properties of a construction plus
-  illustrations.
+- No THEORY filed; one was declined, because the results are properties of
+  a construction plus illustrations.
 
 ## Limitations
 

@@ -28,6 +28,7 @@ summary: >-
   premature satiation of appetite limits what will can do for emotional
   reward.
 ---
+<!-- inactive-ok-file: THEORY-tmpgx68d — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-tmpmhu3j THEORY-029 THEORY-047 THEORY-049 THEORY-054 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-tmp0kj10: Précis of Breakdown of Will
@@ -189,8 +190,8 @@ cited experiments as support.
   from the theory in one respect. The extra motive that will recruits is
   not a concurrent emotion but an expectation about one's own future
   choices. Whether that is "one motive state checking another" or a
-  distinct kind of process is a real question for the theory. See the
-  report for a proposed extension.
+  distinct kind of process is a real question for the theory. The précis's
+  account is filed as [THEORY-tmpgx68d](../theory.d/THEORY-tmpgx68d.md), and [THEORY-056](../theory.d/THEORY-056.md) says where it stands.
 - **[THEORY-029](../theory.d/THEORY-029.md)** (higher-order attitudes cannot confer ownership by order
   alone). The précis does not discuss ownership. It does reject
   hierarchical, faculty-based accounts of the will's force, by a regress of
