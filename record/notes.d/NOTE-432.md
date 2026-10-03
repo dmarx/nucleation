@@ -1,6 +1,9 @@
 ---
+number: 432
 status: Read
-paper: LIT-tmp2h31z
+formerly:
+- NOTE-tmpcw77b
+paper: LIT-539
 title: 'Explanatory Models for Psychiatric Illness'
 version: 1
 history:
@@ -30,15 +33,15 @@ summary: >-
   is philosophical, illustrated by an alcohol-dependence sketch and cited
   findings; it reports no data of its own.
 ---
-<!-- inactive-ok-file: LIT-tmpsxzb4 — Deferred, no lawful full text; Kendler 2005, compared through its abstract and this paper's citation of it -->
-<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named only because this paper cites it -->
+<!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, compared through its abstract and this paper's citation of it -->
+<!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only because this paper cites it -->
 
-# NOTE-tmpcw77b: Explanatory Models for Psychiatric Illness
+# NOTE-432: Explanatory Models for Psychiatric Illness
 
 ## Contribution
 
 This paper takes the explanatory pluralism of Kendler's 2005 paper
-([LIT-tmpsxzb4](../literature.d/LIT-tmpsxzb4.md), cited as reference 1 for its opening premise) and gives it
+([LIT-552](../literature.d/LIT-552.md), cited as reference 1 for its opening premise) and gives it
 a method. It imports the mechanistic philosophy of science of Bechtel,
 Craver and Wimsatt into psychiatry: explanation is the decomposition and
 reassembly of multilevel mechanisms. It then uses Marr's levels to settle
@@ -169,7 +172,7 @@ These are arguments, with illustrative evidence cited.
 
 ## Connections
 
-- **Kendler 2005 ([LIT-tmpsxzb4](../literature.d/LIT-tmpsxzb4.md)), unread; relation declared as `extends`.**
+- **Kendler 2005 ([LIT-552](../literature.d/LIT-552.md)), unread; relation declared as `extends`.**
   This paper cites it as reference 1 for its opening premise that
   etiological models "need to be pluralistic or multilevel". Its two
   sections develop what the 2005 abstract names but this record cannot
@@ -177,23 +180,23 @@ These are arguments, with illustrative evidence cited.
   become local decomposition and reassembly. Its mind–brain propositions
   become the Marr-based implementation thesis. The 2005 propositions
   against substance dualism and epiphenomenalism are not argued here.
-- **Engel ([LIT-tmpmztbn](../literature.d/LIT-tmpmztbn.md)), unread.** Cited (reference 3, with Adolf Meyer) as
+- **Engel ([LIT-548](../literature.d/LIT-548.md)), unread.** Cited (reference 3, with Adolf Meyer) as
   an "earlier integrationist account". Kendler offers the mechanistic
   approach as its "conceptually rigorous descendant", which implies that
   Engel's model lacked a method of integration. The paper does not say
   this outright.
-- **Borsboom ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)).** Both reject a single common cause and both
+- **Borsboom ([LIT-547](../literature.d/LIT-547.md)).** Both reject a single common cause and both
   put causal loops at the centre. Kendler's loops cross levels (gene →
   sensitivity → expectancy → environment). Borsboom's run among symptoms,
   and Principle 2 pushes genes and environments into the external field or
   into the constitution of a symptom. Borsboom cites Kendler's later
   papers for the absence of common causes.
-- **Hofmann and Hayes ([LIT-tmpeg79d](../literature.d/LIT-tmpeg79d.md)).** Both reject eliminative
+- **Hofmann and Hayes ([LIT-544](../literature.d/LIT-544.md)).** Both reject eliminative
   reductionism. Both cite the illusion-of-control panic study as a
   psychological, top-down effect. Kendler's "biology implements
   psychology" is compatible with their demand that processes be stated in
   modifiable psychological terms.
-- **Salkovskis, Sighvatsson and Sigurdsson ([LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md)).** The fearful
+- **Salkovskis, Sighvatsson and Sigurdsson ([LIT-538](../literature.d/LIT-538.md)).** The fearful
   child whose avoidance "prevent[s] the habituation of the initial fear
   response" is a maintenance loop of exactly the kind their Theory A is
   built on, with avoidance protecting a threat meaning.
@@ -236,7 +239,7 @@ These are arguments, with illustrative evidence cited.
   implement, as kinetic energy did temperature? The paper names none and
   rules none out.
 - Do cross-level loops of Kendler's kind fit inside a symptom-network model
-  ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)), or do they need nodes that are not symptoms?
+  ([LIT-547](../literature.d/LIT-547.md)), or do they need nodes that are not symptoms?
 - What would show that a reassembled multilevel model of a disorder is
   complete?
 

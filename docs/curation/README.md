@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [3 Oct 04:22 — Psychopathology, emotion and psychotherapy](2026-10.md#psychopathology-emotion-and-psychotherapy)
 - [2 Oct 18:05 — Dissipative structures](2026-10.md#dissipative-structures)
 - [2 Oct 05:04 — Moral psychology and morality-as-cooperation](2026-10.md#moral-psychology-and-morality-as-cooperation)
 - [2 Oct 03:57 — Social ontology](2026-10.md#social-ontology)
@@ -19,9 +20,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-57 entries across 2 books, newest first.
+58 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 10 | 2026-10-01 | 2026-10-02 |
+| [2026-10](2026-10.md) | 11 | 2026-10-01 | 2026-10-03 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

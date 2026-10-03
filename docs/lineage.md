@@ -2,7 +2,7 @@
 
 # Lines of work
 
-11 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+14 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -41,6 +41,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
+### From The Emotions
+
+- [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Deferred)*
+  - [LIT-540](../record/literature.d/LIT-540.md) — Impulsive action: emotional impulses and their control *(Active)*
+
 ## consciousness
 
 ### From The Society of Mind
@@ -65,6 +70,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
+
+### From The Emotions
+
+- [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Deferred)*
+  - [LIT-540](../record/literature.d/LIT-540.md) — Impulsive action: emotional impulses and their control *(Active)*
 
 ## ethics
 
@@ -149,6 +159,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
 
+### From Toward a Philosophical Structure for Psychiatry
+
+- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
+  - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
+
 ## moral-psychology
 
 ### From Intuitive ethics: how innately prepared intuitions generate culturally variable virtues
@@ -177,6 +192,25 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
+
+### From Toward a Philosophical Structure for Psychiatry
+
+- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
+  - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
+
+## psychopathology-and-treatment
+
+### From Toward a Philosophical Structure for Psychiatry
+
+- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
+  - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
+
+### From Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition
+
+- [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Deferred)*
+  - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
+  - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also extends LIT-551
+- [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
 
 ## quantum-foundations
 
@@ -214,6 +248,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-502](../record/literature.d/LIT-502.md) — Intuitive ethics: how innately prepared intuitions generate culturally variable virtues *(Active)*
   - [LIT-499](../record/literature.d/LIT-499.md) — Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism *(Active)*
     - [LIT-500](../record/literature.d/LIT-500.md) — Morality beyond the WEIRD: How the nomological network of morality varies across cultures *(Active)*
+
+### From Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition
+
+- [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Deferred)*
+  - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
+  - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also extends LIT-551
+- [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
 
 ## society-and-governance
 

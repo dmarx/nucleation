@@ -1,6 +1,9 @@
 ---
+number: 435
 status: Read
-paper: LIT-tmpmi1g3
+formerly:
+- NOTE-tmprl21k
+paper: LIT-547
 title: 'A Network Theory of Mental Disorders'
 version: 1
 history:
@@ -28,10 +31,10 @@ summary: >-
   intervention. The evidence offered is indirect, and the theory is
   presented as an organizing framework, not a fitted model.
 ---
-<!-- inactive-ok-file: LIT-tmpsxzb4 — Deferred, no lawful full text; Kendler 2005, named only as the pluralism Borsboom's premise belongs to -->
-<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named only as the medical-model critique this paper does not cite -->
+<!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, named only as the pluralism Borsboom's premise belongs to -->
+<!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only as the medical-model critique this paper does not cite -->
 
-# NOTE-tmprl21k: A Network Theory of Mental Disorders
+# NOTE-435: A Network Theory of Mental Disorders
 
 ## Contribution
 
@@ -158,7 +161,7 @@ definitions that follow from them.
 
 - **The medical model.** The paper's opening contrast is with the
   common-cause model of general medicine. That is the biomedical model
-  Engel ([LIT-tmpmztbn](../literature.d/LIT-tmpmztbn.md)) challenged in 1977, though Borsboom's objection is
+  Engel ([LIT-548](../literature.d/LIT-548.md)) challenged in 1977, though Borsboom's objection is
   different: not that the model omits the psychological and social, but
   that psychiatry has found no common causes for it to name. Engel is not
   cited.
@@ -166,14 +169,14 @@ definitions that follow from them.
   Zachar and Craver (2011), and Kendler is thanked for comments. The
   integrative ambition in the Conclusions (biological, psychological and
   sociological levels in one framework) is close to the explanatory
-  pluralism of Kendler's 2005 paper ([LIT-tmpsxzb4](../literature.d/LIT-tmpsxzb4.md), unread here).
-- **Process-based therapy ([LIT-tmpeg79d](../literature.d/LIT-tmpeg79d.md)).** Hofmann and Hayes treat
+  pluralism of Kendler's 2005 paper ([LIT-552](../literature.d/LIT-552.md), unread here).
+- **Process-based therapy ([LIT-544](../literature.d/LIT-544.md)).** Hofmann and Hayes treat
   networks as an extension of functional analysis and an "analytic
   alternative to the latent disease model". Borsboom's network
   interventions and idiographic network detection (through experience
   sampling or perceived causal relations) are the diagnostic half of what
   they want.
-- **CBT's maintenance models ([LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md)).** Salkovskis and colleagues'
+- **CBT's maintenance models ([LIT-538](../literature.d/LIT-538.md)).** Salkovskis and colleagues'
   maintaining "vicious circles", in which behaviour sustains the negative
   meaning that drives it, are loops of exactly this kind. The difference is
   in what the nodes are. Borsboom's nodes are manual symptoms by Principle
@@ -195,7 +198,7 @@ definitions that follow from them.
   evidence of hysteresis or of early warning signals (ref. 15, Wichers et
   al. on critical slowing down, is cited but not read here).
 - **A convergence across the batch.** This paper, the cognitive maintenance
-  account of [LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md) and the process-based programme of [LIT-tmpeg79d](../literature.d/LIT-tmpeg79d.md)
+  account of [LIT-538](../literature.d/LIT-538.md) and the process-based programme of [LIT-544](../literature.d/LIT-544.md)
   all say that disorder is maintained by self-reinforcing loops rather
   than by a single latent cause. They come from three traditions
   (psychometrics, Beckian CBT, contextual behavioural science). See the
@@ -227,7 +230,7 @@ definitions that follow from them.
   its presence predict relapse after the trigger is gone?
 - Does CBT in fact work by weakening connections (a network intervention),
   as the paper's example assumes, or by moving symptoms (a symptom
-  intervention)? This is the mechanism question [LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md) says the
+  intervention)? This is the mechanism question [LIT-538](../literature.d/LIT-538.md) says the
   field has not answered.
 - What replaces Principle 2 if processes outside the manuals (appraisals,
   avoidance, rumination) carry the loops?

@@ -75,6 +75,8 @@ this directory, then run `luria index`.
 
 **[Moral psychology](tags/moral-psychology.md)** (0) — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
+**[Psychopathology and treatment](tags/psychopathology-and-treatment.md)** (0) — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
+
 **[Ethics](tags/ethics.md)** (4) — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy):
 [025](../../record/theory.d/THEORY-025.md) · [027](../../record/theory.d/THEORY-027.md) · [029](../../record/theory.d/THEORY-029.md) · [040](../../record/theory.d/THEORY-040.md)
 

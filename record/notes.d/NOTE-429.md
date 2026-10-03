@@ -1,6 +1,9 @@
 ---
+number: 429
 status: Read
-paper: LIT-tmptr6ik
+formerly:
+- NOTE-tmp5fzuc
+paper: LIT-554
 title: 'The Emerging Field of Emotion Regulation: An Integrative Review'
 version: 1
 history:
@@ -8,7 +11,7 @@ history:
   date: '2026-10-03'
   note: >-
     Read in full, pp. 271–288 of the published article (the UW–Madison
-    reprint PDF; see LIT-tmptr6ik), through the conclusions. The reference
+    reprint PDF; see LIT-554), through the conclusions. The reference
     list was consulted for specific citations only. The four figures were
     read from their text-layer labels, not as images, so Figure 4's
     diagram is reconstructed from its labels and the prose that explains
@@ -26,9 +29,9 @@ summary: >-
   problem is whether regulation can be told apart from generation at all.
 ---
 
-<!-- inactive-ok-file: LIT-tmpkd06c LIT-tmpqjded — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
-# NOTE-tmp5fzuc: The Emerging Field of Emotion Regulation: An Integrative Review
+# NOTE-429: The Emerging Field of Emotion Regulation: An Integrative Review
 
 ## Contribution
 
@@ -164,27 +167,27 @@ classification, and it cites the empirical findings below.
 
 ## Connections
 
-- **Lazarus, Emotion and Adaptation ([LIT-tmpqjded](../literature.d/LIT-tmpqjded.md)), Deferred.** Cited as
+- **Lazarus, Emotion and Adaptation ([LIT-550](../literature.d/LIT-550.md)), Deferred.** Cited as
   "Lazarus, 1991a": the "adaptational encounters" of the emotion episode, the
   object-directedness of emotion, and a source of Figure 1's consensual
   model. Problem-focused versus emotion-focused coping, and the coping
   definition quoted on p. 274, come from Lazarus and Folkman (1984). The paper
   also cites Lazarus (1991b), the American Psychologist summary, for emotions
   as the "wisdom of the ages" (p. 287).
-- **Frijda, The Emotions ([LIT-tmpkd06c](../literature.d/LIT-tmpkd06c.md)), Deferred.** Cited for emotions
+- **Frijda, The Emotions ([LIT-546](../literature.d/LIT-546.md)), Deferred.** Cited for emotions
   preparing rapid motor response, for the "third approach" of conceptual
   analysis of regulatory processes (p. 281), for cognitive change as
   modification of appraisal steps (p. 284), and as the representative of the
   view that regulation is "part and parcel of emotion" (p. 286). Frijda (1988),
   "The laws of emotion", is cited for flexible modulation (p. 288).
-- **Frijda, Ridderinkhof & Rietveld ([LIT-tmp57opn](../literature.d/LIT-tmp57opn.md)), read.** Sixteen years
+- **Frijda, Ridderinkhof & Rietveld ([LIT-540](../literature.d/LIT-540.md)), read.** Sixteen years
   later they take the side of Gross's first open challenge that Gross did not.
   On their account an emotion's own action readiness, triggered by appraising
   the consequences of acting on another, does much of the regulating, so
   "there is no clear distinction between processes of emotion and processes
   of emotion regulation". That is the position Gross attributes to Frijda
   (1986) and sets aside.
-- **Barrett ([LIT-tmp7xlrj](../literature.d/LIT-tmp7xlrj.md)), read.** Gross thanks Lisa Feldman Barrett for
+- **Barrett ([LIT-542](../literature.d/LIT-542.md)), read.** Gross thanks Lisa Feldman Barrett for
   comments and cites her "in press" work on valence and arousal focus and on
   whether verbal labelling of emotion is needed for some regulation (p. 277).
   Her 2017 account rejects the stimulus→response framing that Figure 1

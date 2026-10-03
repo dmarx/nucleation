@@ -1,6 +1,9 @@
 ---
+number: 436
 status: Read
-paper: LIT-tmpt6rok
+formerly:
+- NOTE-tmpwmv8v
+paper: LIT-553
 title: 'Psychological Flexibility as a Fundamental Aspect of Health'
 version: 1
 history:
@@ -26,9 +29,9 @@ summary: >-
   multi-informant measures over global self-report.
 ---
 
-<!-- inactive-ok-file: LIT-tmpsjur3 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
-# NOTE-tmpwmv8v: Psychological Flexibility as a Fundamental Aspect of Health
+# NOTE-436: Psychological Flexibility as a Fundamental Aspect of Health
 
 ## Contribution
 
@@ -146,15 +149,15 @@ All reported from cited work; the review runs no analysis of its own.
 
 ## Connections
 
-- **The ACT model ([LIT-tmpxkxq0](../literature.d/LIT-tmpxkxq0.md)), read.** The review adopts ACT's definition
+- **The ACT model ([LIT-555](../literature.d/LIT-555.md)), read.** The review adopts ACT's definition
   of flexibility as one strand and cites its meta-analysis. It differs from
   ACT in two ways. Its flexibility includes physiological and executive
   capacities ACT does not model. And it rejects the AAQ-style global
   self-report ACT relies on.
-- **Experiential avoidance ([LIT-tmpsjur3](../literature.d/LIT-tmpsjur3.md)), unread.** Cited for the
+- **Experiential avoidance ([LIT-551](../literature.d/LIT-551.md)), unread.** Cited for the
   inevitability of negative emotion and obstacles, and, with Barkley, for
   executive deficits in the interpersonal difficulties of disorder.
-- **Emotion regulation ([LIT-tmptr6ik](../literature.d/LIT-tmptr6ik.md)), filed by another agent.** The review
+- **Emotion regulation ([LIT-554](../literature.d/LIT-554.md)), filed by another agent.** The review
   takes the strategy categories Gross's process model names (reappraisal,
   suppression) and argues that their value depends on context, against
   later findings that rank them.
@@ -167,7 +170,7 @@ All reported from cited work; the review runs no analysis of its own.
 ## Bearing on the record
 
 - **Supports a candidate THEORY** on psychological inflexibility as a
-  transdiagnostic process (see [NOTE-tmp991gu](NOTE-tmp991gu.md)). This review adds the
+  transdiagnostic process (see [NOTE-431](NOTE-431.md)). This review adds the
   physiological and executive evidence and the caveat on causation, which
   is why the THEORY should be Proposed, not Active.
 - **Measurement as a finding.** It is the record's statement that ACT's main

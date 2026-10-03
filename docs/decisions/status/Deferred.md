@@ -4,7 +4,7 @@
 
 **Deferred** — not in force and not being worked on; the question is real and the answer is waiting on something.
 
-0 of 20 decisions. Back to the [full index](../README.md).
+0 of 22 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

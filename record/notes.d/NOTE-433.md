@@ -1,6 +1,9 @@
 ---
+number: 433
 status: Read
-paper: LIT-tmp57opn
+formerly:
+- NOTE-tmpgevhx
+paper: LIT-540
 title: 'Impulsive action: emotional impulses and their control'
 version: 1
 history:
@@ -27,9 +30,9 @@ summary: >-
   frontostriatal circuits for stopping.
 ---
 
-<!-- inactive-ok-file: LIT-tmpkd06c LIT-tmpqjded — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
-# NOTE-tmpgevhx: Impulsive action: emotional impulses and their control
+# NOTE-433: Impulsive action: emotional impulses and their control
 
 ## Contribution
 
@@ -150,19 +153,19 @@ Supporting points in the body:
 
 ## Connections
 
-- **Frijda, The Emotions ([LIT-tmpkd06c](../literature.d/LIT-tmpkd06c.md)), Deferred.** This paper extends the
+- **Frijda, The Emotions ([LIT-546](../literature.d/LIT-546.md)), Deferred.** This paper extends the
   book. Action readiness and control precedence are both cited to it (with
   The Laws of Emotion, 2007), and the paper's "earlier work" is the book's
   theory. Equivalence of actions within one mode of readiness is also cited
   to it ("When angry one can kick, shout insults, turn one's back").
-- **Gross ([LIT-tmptr6ik](../literature.d/LIT-tmptr6ik.md)), read.** Not cited. Gross (1998, p. 286) records that
+- **Gross ([LIT-554](../literature.d/LIT-554.md)), read.** Not cited. Gross (1998, p. 286) records that
   "some theorists argue that emotion regulation is best seen as part and
   parcel of emotion (Frijda, 1986)" and keeps the distinction. This paper is
   that argument at full length. The two can be reconciled in part: Gross's
   cognitive change (choosing among meanings) is close to this paper's
   appraisal of consequences raising a competing readiness. The difference is
   whether the regulator is a distinct process.
-- **Barrett ([LIT-tmp7xlrj](../literature.d/LIT-tmp7xlrj.md)), read.** Not cited. The two share a predictive
+- **Barrett ([LIT-542](../literature.d/LIT-542.md)), read.** Not cited. The two share a predictive
   framing, citing Friston (2012) and Clark (2013) for motives as expectations.
   They also share action-first sensory anticipation, which runs through
   interoceptive as well as exteroceptive consequences. They differ on
@@ -176,7 +179,7 @@ Supporting points in the body:
 ## Bearing on the record
 
 - It is the read source for the appraisal side of the rivalry proposed as a
-  THEORY in this batch's report. Lazarus's theory is unread ([LIT-tmpqjded](../literature.d/LIT-tmpqjded.md) is
+  THEORY in this batch's report. Lazarus's theory is unread ([LIT-550](../literature.d/LIT-550.md) is
   Deferred), so this paper is the record's only read statement of an appraisal
   theory of emotion in its author's own words.
 - It also bears on a candidate THEORY on regulation: whether emotion

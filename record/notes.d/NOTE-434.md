@@ -1,6 +1,9 @@
 ---
+number: 434
 status: Read
-paper: LIT-tmp7xlrj
+formerly:
+- NOTE-tmpqedlv
+paper: LIT-542
 title: 'The theory of constructed emotion: an active inference account of interoception and categorization'
 version: 1
 history:
@@ -26,9 +29,9 @@ summary: >-
   kept as products of categorization.
 ---
 
-<!-- inactive-ok-file: LIT-tmpkd06c LIT-tmpqjded — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
-# NOTE-tmpqedlv: The theory of constructed emotion: an active inference account of interoception and categorization
+# NOTE-434: The theory of constructed emotion: an active inference account of interoception and categorization
 
 ## Contribution
 
@@ -167,10 +170,10 @@ What it gives is the theory's structure:
 
 ## Connections
 
-- **Lazarus, Emotion and Adaptation ([LIT-tmpqjded](../literature.d/LIT-tmpqjded.md)), Deferred.** Named as the
+- **Lazarus, Emotion and Adaptation ([LIT-550](../literature.d/LIT-550.md)), Deferred.** Named as the
   first example of a causal appraisal theory (claim C6). The paper engages the
   type, not the book's specific arguments, and quotes nothing from it.
-- **Frijda ([LIT-tmp57opn](../literature.d/LIT-tmp57opn.md), read; [LIT-tmpkd06c](../literature.d/LIT-tmpkd06c.md), Deferred).** Not cited.
+- **Frijda ([LIT-540](../literature.d/LIT-540.md), read; [LIT-546](../literature.d/LIT-546.md), Deferred).** Not cited.
   Frijda's late statement agrees with this paper on several points. Motives
   are "set to expect a particular input", as in predictive coding; concern
   pertinence is appraised automatically; and actions are anticipated through
@@ -178,7 +181,7 @@ What it gives is the theory's structure:
   appraisal as what *elicits* action readiness, and keeps modes of action
   readiness that "correspond to certain common emotion names". On this
   paper's terms, that is a Lockean essence.
-- **Gross ([LIT-tmptr6ik](../literature.d/LIT-tmptr6ik.md)), read.** This paper cites Gross (2015) and Gross &
+- **Gross ([LIT-554](../literature.d/LIT-554.md)), read.** This paper cites Gross (2015) and Gross &
   Barrett (2011), not the 1998 review. Its hypothesis C8 keeps reappraisal
   and gives it a mechanism: changing the predictions that categorize. It
   does not keep the 1998 model's sequence, in which situations generate

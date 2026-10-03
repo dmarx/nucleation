@@ -1,6 +1,9 @@
 ---
+number: 428
 status: Read
-paper: LIT-tmp2bpgh
+formerly:
+- NOTE-tmp328bx
+paper: LIT-538
 title: 'How effective psychological treatments work: mechanisms of change in cognitive behavioural therapy and beyond'
 version: 1
 history:
@@ -29,7 +32,7 @@ summary: >-
   itself says mechanism research has not yet met Kazdin's standards.
 ---
 
-# NOTE-tmp328bx: How effective psychological treatments work: mechanisms of change in cognitive behavioural therapy and beyond
+# NOTE-428: How effective psychological treatments work: mechanisms of change in cognitive behavioural therapy and beyond
 
 ## Contribution
 
@@ -164,7 +167,7 @@ evidence.
 
 ## Connections
 
-- **Process-based therapy ([LIT-tmpeg79d](../literature.d/LIT-tmpeg79d.md)).** Both papers open with Gordon
+- **Process-based therapy ([LIT-544](../literature.d/LIT-544.md)).** Both papers open with Gordon
   Paul's question. This one uses the 1967 form ("… and under which set of
   circumstances?"). Hofmann and Hayes use the 1969 form, which adds "and
   how does it come about?", and say Paul himself added that clause. Both
@@ -176,13 +179,13 @@ evidence.
   by testing beliefs. In ACT, the tradition Hayes leads, "psychological
   flexibility" is a process that the paper under note does not define or
   cite. Whether they are one construct is open.
-- **Network theory ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)).** "Vicious circles which trap them"
+- **Network theory ([LIT-547](../literature.d/LIT-547.md)).** "Vicious circles which trap them"
   (p. 608) and being "stuck" are the feedback-maintained disorder state of
   Borsboom's theory. The difference is the level of the nodes: appraisals
   and safety behaviours here, manual symptoms there. On Borsboom's
   taxonomy, CBT as described here is a network intervention. It weakens
   the link by which a meaning drives the behaviour that protects it.
-- **Emotion regulation ([LIT-tmptr6ik](../literature.d/LIT-tmptr6ik.md)).** The paper asks why mechanism
+- **Emotion regulation ([LIT-554](../literature.d/LIT-554.md)).** The paper asks why mechanism
   research in CBT has not done what "has been done and replicated in
   emotion regulation studies" under strict experimental conditions, and
   cites Gross (1998), Gross and John (2003) and Webb et al. (2012) for it
@@ -192,7 +195,7 @@ evidence.
   "cognitive change" family of regulation strategies (reappraisal) is
   close kin to the shift from Theory A to Theory B. The paper does not
   draw that link.
-- **Paul's question as a shared root.** Both this paper and [LIT-tmpeg79d](../literature.d/LIT-tmpeg79d.md)
+- **Paul's question as a shared root.** Both this paper and [LIT-544](../literature.d/LIT-544.md)
   treat Paul (1967/1969) as the founding statement of the field's goal.
 
 ## Bearing on the record
@@ -229,7 +232,7 @@ evidence.
   predict, symptom change across therapies, including non-CBT ones?
 - Is the paper's meaning-making flexibility the same construct as ACT's
   psychological flexibility, or a narrower one?
-- If disorders are network states ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)), is a change of meaning
+- If disorders are network states ([LIT-547](../literature.d/LIT-547.md)), is a change of meaning
   one network intervention among several, or the one that generalises?
 
 ## Corrections

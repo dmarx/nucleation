@@ -6,7 +6,7 @@
 
 **The record** — what the schemes hold, and the rules between them.
 
-20 of 20 decisions. Back to the [full index](../README.md).
+22 of 22 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -30,3 +30,5 @@
 | [ADR-018](../../../record/decisions.d/ADR-018.md) | moral-psychology joins the topics | `moral-psychology` joins the topic vocabulary in the `philosophy` group, for morality as a natural phenomenon: moral judgement, emotion and norms, and their evolution, development and variation across cultures. Four existing works take it, three first. Rejected: widening `ethics`, which is normative, and a narrower word for the evolution of cooperation. | Active |
 | [ADR-019](../../../record/decisions.d/ADR-019.md) | game-theory joins the topics | `game-theory` joins the topic vocabulary, outside the `philosophy` group, for strategic interaction and its equilibria in biology, economics and philosophy. Eight works take it, none first. Proposed independently by two filing agents in the moral-psychology batch. Rejected: stretching `probabilistic-modeling` or leaning on `mathematics` alone. | Active |
 | [ADR-020](../../../record/decisions.d/ADR-020.md) | thermodynamics joins the topics | `thermodynamics` joins the topic vocabulary, beside `natural-sciences`, for the second law and its extensions read for themselves: entropy production, nonequilibrium steady states, dissipative structures, fluctuation theorems, and the thermodynamics of computation and of life. All three agents filing the dissipative-structures batch proposed it independently. Twenty-seven works and two THEORYs take it. Rejected: leaving the subject under `natural-sciences`, and a narrower word for nonequilibrium thermodynamics alone. | Active |
+| [ADR-021](../../../record/decisions.d/ADR-021.md) | psychopathology-and-treatment joins the topics | `psychopathology-and-treatment` joins the topic vocabulary for what a mental disorder is and how psychological treatment changes it: medical models of illness, the philosophy of psychiatry, transdiagnostic accounts such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change. The owner's batch of fifteen works had no word to file under. Fifteen notes take it. Rejected: leaving it to `social-science` and `natural-sciences`, and two narrower words for psychiatry and for psychotherapy. | Active |
+| [ADR-022](../../../record/decisions.d/ADR-022.md) | rivals joins the LIT and THEORY relations | A symmetric `rivals` relation joins both the LIT and the THEORY scheme: two accounts of the same phenomenon that cannot both be right, where neither has tested or corrected the other. It is the anthology's relation, carried over unchanged in meaning. First use: Barrett's constructed emotion against appraisal theory. Rejected: holding rivalries in prose only, and stretching `compared_against` or `corrects` to cover them. | Active |

@@ -1,6 +1,9 @@
 ---
+number: 437
 status: Read
-paper: LIT-tmpeg79d
+formerly:
+- NOTE-tmpxyekk
+paper: LIT-544
 title: 'The Future of Intervention Science: Process-Based Therapy'
 version: 1
 history:
@@ -27,9 +30,9 @@ summary: >-
   for a new nosology, and an idiographic, functional-analytic diagnosis.
   It offers predictions and cited examples, not new data.
 ---
-<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named only as the uncited source of the word "biopsychosocial" -->
+<!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only as the uncited source of the word "biopsychosocial" -->
 
-# NOTE-tmpxyekk: The Future of Intervention Science: Process-Based Therapy
+# NOTE-437: The Future of Intervention Science: Process-Based Therapy
 
 ## Contribution
 
@@ -157,14 +160,14 @@ the argument against the syndrome programme, and the predicted trends.
 
 ## Connections
 
-- **Network theory ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)).** The paper's "complex network approach"
+- **Network theory ([LIT-547](../literature.d/LIT-547.md)).** The paper's "complex network approach"
   is Hofmann, Curtiss and McNally (2016). It describes the approach as "an
   extension of functional analysis" in which "psychological problems are
   not expressions of underlying disease entities but rather are
   interrelated elements of a complex network". That is Borsboom's theory
   in all but citation. Borsboom's network interventions are a natural
   reading of what a process is in network terms.
-- **The single-mechanism alternative ([LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md)).** Salkovskis,
+- **The single-mechanism alternative ([LIT-538](../literature.d/LIT-538.md)).** Salkovskis,
   Sighvatsson and Sigurdsson ask the same Paul question, in its 1967 form
   without "how does it come about". They propose one mechanism for all
   effective therapies: a shift from a stuck negative meaning ("Theory A")
@@ -173,7 +176,7 @@ the argument against the syndrome programme, and the predicted trends.
   that reappraisal might sit under a broader cognitive flexibility. The
   two converge on "flexibility" as the candidate at the top of that
   hierarchy, from opposite starting points.
-- **Engel ([LIT-tmpmztbn](../literature.d/LIT-tmpmztbn.md)).** The foundational question's "biopsychosocial"
+- **Engel ([LIT-548](../literature.d/LIT-548.md)).** The foundational question's "biopsychosocial"
   is Engel's word. The paper does not cite him, and its target is the DSM's
   latent-disease model rather than the biomedical model of medicine.
 - **Meditation's adverse effects ([LIT-066](../literature.d/LIT-066.md)).** The paper lists mindfulness
@@ -210,10 +213,10 @@ the argument against the syndrome programme, and the predicted trends.
 
 - What are the core processes, how many are there, and how do they nest?
 - Can moderated mediation in fact recover a nosology, and would it agree
-  with network clusters ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)) or with the single mechanism of
-  [LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md)?
+  with network clusters ([LIT-547](../literature.d/LIT-547.md)) or with the single mechanism of
+  [LIT-538](../literature.d/LIT-538.md)?
 - Is psychological flexibility, as ACT measures it, the same construct as
-  the meaning-making flexibility of [LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md)?
+  the meaning-making flexibility of [LIT-538](../literature.d/LIT-538.md)?
 
 ## Corrections
 

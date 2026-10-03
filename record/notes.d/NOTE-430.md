@@ -1,6 +1,9 @@
 ---
+number: 430
 status: Read
-paper: LIT-tmp6n7fc
+formerly:
+- NOTE-tmp8pnvs
+paper: LIT-541
 title: 'Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology'
 version: 1
 history:
@@ -14,7 +17,7 @@ history:
     author lists in it read out of order; quotations below are from the
     body text, checked against the printed page numbers. The Maynooth
     proof copy was compared only at its first page. The RFT book the paper
-    summarizes, LIT-tmpn4p2x, was not available, so the paper's account of
+    summarizes, LIT-549, was not available, so the paper's account of
     the book is taken as the authors'.
 date: '2026-10-03'
 summary: >-
@@ -28,9 +31,9 @@ summary: >-
   values are given RFT readings explicitly labelled heuristic.
 ---
 
-<!-- inactive-ok-file: LIT-tmpiuwca LIT-tmpn4p2x LIT-tmpsjur3 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-545 LIT-549 LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
-# NOTE-tmp8pnvs: Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology
+# NOTE-430: Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology
 
 ## Contribution
 
@@ -65,7 +68,7 @@ contingencies.
   359). A human-specific research agenda is needed.
 - **Functional, not syndromal, classification.** Behaviour analysts prefer
   dimensions such as emotional avoidance that "directly guide assessment and
-  treatment" to DSM syndromes (p. 356, citing [LIT-tmpsjur3](../literature.d/LIT-tmpsjur3.md)).
+  treatment" to DSM syndromes (p. 356, citing [LIT-551](../literature.d/LIT-551.md)).
 
 ## Key results
 
@@ -146,22 +149,22 @@ studies, not results the paper establishes.
 
 ## Connections
 
-- **The RFT book ([LIT-tmpn4p2x](../literature.d/LIT-tmpn4p2x.md)), unread.** Every concept here is cited to
+- **The RFT book ([LIT-549](../literature.d/LIT-549.md)), unread.** Every concept here is cited to
   its chapters. This paper is a précis of it with a clinical slant, and the
   `extends` relation on the LIT says so.
-- **Experiential avoidance ([LIT-tmpsjur3](../literature.d/LIT-tmpsjur3.md)), unread.** Cited for the
+- **Experiential avoidance ([LIT-551](../literature.d/LIT-551.md)), unread.** Cited for the
   functional-dimensional alternative to syndromal diagnosis. This paper
   gives the mechanism the 1996 paper's dimension needs: if words carry the
   functions of what they describe, private events can be as aversive as
   the events themselves, and avoiding them becomes a general strategy.
-- **The ACT model ([LIT-tmpxkxq0](../literature.d/LIT-tmpxkxq0.md)), read.** The 2006 review condenses the same
+- **The ACT model ([LIT-555](../literature.d/LIT-555.md)), read.** The 2006 review condenses the same
   account into four implications and a model of "psychological
   inflexibility". This paper's acceptance, defusion and values are three of
   that review's six processes. Its self as context is a fourth.
-- **Bandura ([LIT-tmpiuwca](../literature.d/LIT-tmpiuwca.md)), unread.** Cited as one of the cognitive–
+- **Bandura ([LIT-545](../literature.d/LIT-545.md)), unread.** Cited as one of the cognitive–
   behavioural integrations that kept behaviour therapy going after Chomsky
   without changing its basic science (p. 358).
-- **Emotion regulation ([LIT-tmptr6ik](../literature.d/LIT-tmptr6ik.md)).** Gross's process model treats
+- **Emotion regulation ([LIT-554](../literature.d/LIT-554.md)).** Gross's process model treats
   regulation as acting on an emotion's generation. This paper locates much
   of the trouble in the verbal relations that give private events their
   functions, which is a different place to intervene. This paper does not

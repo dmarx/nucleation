@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**213 document(s) awaiting a decision.**
+**221 document(s) awaiting a decision.**
 
 ## LITs
 
-182 of the 213.
+190 of the 221.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -195,10 +195,18 @@
 | 2026-10-02 | Deferred | [LIT-469](../../record/literature.d/LIT-469.md) | 0 | 0 | Reasons and Persons |
 | 2026-10-02 | Deferred | [LIT-470](../../record/literature.d/LIT-470.md) | 0 | 0 | Foundations for a Social Ontology |
 | 2026-10-02 | Deferred | [LIT-534](../../record/literature.d/LIT-534.md) | 0 | 0 | Order Out of Chaos: Man's New Dialogue with Nature |
+| 2026-10-03 | Deferred | [LIT-551](../../record/literature.d/LIT-551.md) | 12 | 0 | Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment |
+| 2026-10-03 | Deferred | [LIT-548](../../record/literature.d/LIT-548.md) | 8 | 0 | The Need for a New Medical Model: A Challenge for Biomedicine |
+| 2026-10-03 | Deferred | [LIT-552](../../record/literature.d/LIT-552.md) | 8 | 0 | Toward a Philosophical Structure for Psychiatry |
+| 2026-10-03 | Deferred | [LIT-550](../../record/literature.d/LIT-550.md) | 7 | 0 | Emotion and Adaptation |
+| 2026-10-03 | Deferred | [LIT-546](../../record/literature.d/LIT-546.md) | 6 | 0 | The Emotions |
+| 2026-10-03 | Deferred | [LIT-549](../../record/literature.d/LIT-549.md) | 6 | 0 | Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition |
+| 2026-10-03 | Deferred | [LIT-543](../../record/literature.d/LIT-543.md) | 5 | 0 | Examining Domains of Psychological Flexibility and Inflexibility as Treatment Mechanisms in Acceptance and Commitment Therapy: A Comprehensive Systematic and Meta-Analytic Review |
+| 2026-10-03 | Deferred | [LIT-545](../../record/literature.d/LIT-545.md) | 3 | 0 | Self-Efficacy: Toward a Unifying Theory of Behavioral Change |
 
 ## THEORYs
 
-31 of the 213.
+31 of the 221.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

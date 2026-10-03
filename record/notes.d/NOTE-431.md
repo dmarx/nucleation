@@ -1,6 +1,9 @@
 ---
+number: 431
 status: Read
-paper: LIT-tmpxkxq0
+formerly:
+- NOTE-tmp991gu
+paper: LIT-555
 title: 'Acceptance and Commitment Therapy: Model, Processes and Outcomes'
 version: 1
 history:
@@ -28,9 +31,9 @@ summary: >-
   post and .69 follow-up against active treatments).
 ---
 
-<!-- inactive-ok-file: LIT-tmp9golj LIT-tmpn4p2x LIT-tmpsjur3 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-543 LIT-549 LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
-# NOTE-tmp991gu: Acceptance and Commitment Therapy: Model, Processes and Outcomes
+# NOTE-431: Acceptance and Commitment Therapy: Model, Processes and Outcomes
 
 ## Contribution
 
@@ -77,7 +80,7 @@ than its actual consequences do.
 - **The inflexibility model (pp. 6–8).** Cognitive fusion is "excessive or
   improper regulation of behavior by verbal processes". It is fostered by
   contexts of literality, reason-giving and emotional control. It supports
-  experiential avoidance, defined with the 1996 paper ([LIT-tmpsjur3](../literature.d/LIT-tmpsjur3.md)) as "the
+  experiential avoidance, defined with the 1996 paper ([LIT-551](../literature.d/LIT-551.md)) as "the
   attempt to alter the form, frequency, or situational sensitivity of private
   events even when doing so causes behavioral harm". Avoidance is "due to the
   natural effects of human language", then amplified by a culture of
@@ -139,7 +142,7 @@ than its actual consequences do.
   service of long term valued ends" (p. 6).
 - **cognitive fusion**: "excessive or improper regulation of behavior by
   verbal processes, such as rules and derived relational networks" (p. 6).
-- **experiential avoidance**: as in [LIT-tmpsjur3](../literature.d/LIT-tmpsjur3.md), quoted above.
+- **experiential avoidance**: as in [LIT-551](../literature.d/LIT-551.md), quoted above.
 - **self as context**: a sense of self as "a locus or perspective", arising
   from deictic relations, which "is a context for verbal knowing, not the
   content of that knowing" (p. 8).
@@ -151,20 +154,20 @@ than its actual consequences do.
 
 ## Connections
 
-- **Experiential avoidance ([LIT-tmpsjur3](../literature.d/LIT-tmpsjur3.md)), unread.** Its definition is
+- **Experiential avoidance ([LIT-551](../literature.d/LIT-551.md)), unread.** Its definition is
   quoted here, and its construct becomes one process of six. That is the
   `extends` relation on the LIT.
-- **RFT ([LIT-tmpn4p2x](../literature.d/LIT-tmpn4p2x.md) unread; [LIT-tmp6n7fc](../literature.d/LIT-tmp6n7fc.md) read).** The basic theory ACT is
+- **RFT ([LIT-549](../literature.d/LIT-549.md) unread; [LIT-541](../literature.d/LIT-541.md) read).** The basic theory ACT is
   "the applied extension" of (p. 5). The read 2004 paper states RFT more
   fully and gives RFT readings of three of the six processes.
-- **Kashdan and Rottenberg ([LIT-tmpt6rok](../literature.d/LIT-tmpt6rok.md)), read.** They widen
+- **Kashdan and Rottenberg ([LIT-553](../literature.d/LIT-553.md)), read.** They widen
   "psychological flexibility" beyond ACT and cite this paper's
   meta-analysis, giving it as 32 studies and r = .42, which is the published
   version, not this manuscript.
-- **Macri and Rogge ([LIT-tmp9golj](../literature.d/LIT-tmp9golj.md)), unread.** A 2024 meta-analysis of the
+- **Macri and Rogge ([LIT-543](../literature.d/LIT-543.md)), unread.** A 2024 meta-analysis of the
   six processes as mechanisms. It is the test of C5 with eighteen more years
   of trials.
-- **Salkovskis, Sighvatsson and Sigurdsson ([LIT-tmp2bpgh](../literature.d/LIT-tmp2bpgh.md))**, filed by
+- **Salkovskis, Sighvatsson and Sigurdsson ([LIT-538](../literature.d/LIT-538.md))**, filed by
   another agent, argue that a treatment's success is not evidence for its
   theory, except when changing the theory's crucial factor fails to help.
   This review's mediational evidence is the kind of test that argument
@@ -175,10 +178,10 @@ than its actual consequences do.
 - **A candidate THEORY**: "psychological inflexibility, the dominance of
   verbal rules and experiential avoidance over direct contingencies, is a
   transdiagnostic process in psychopathology, and treatments that reduce it
-  reduce distress". Sources: this paper, [LIT-tmpt6rok](../literature.d/LIT-tmpt6rok.md), and [LIT-tmp9golj](../literature.d/LIT-tmp9golj.md) once
+  reduce distress". Sources: this paper, [LIT-553](../literature.d/LIT-553.md), and [LIT-543](../literature.d/LIT-543.md) once
   read. Status Proposed until the meta-analysis is read, since the evidence
   here is early and mostly self-report. See the batch report.
-- **Against the network model ([LIT-tmpmi1g3](../literature.d/LIT-tmpmi1g3.md)).** This model puts one
+- **Against the network model ([LIT-547](../literature.d/LIT-547.md)).** This model puts one
   functional process behind many syndromes. Borsboom's network theory
   denies most disorders a common cause. The two make different predictions
   about whether reducing one process moves all symptoms. Neither paper
