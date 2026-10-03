@@ -20,6 +20,7 @@ tags:
 - behavioral-integration
 - neuroscience
 - cognition
+- embodied-cognition
 date: '2026-10-03'
 published: '1995-01-01'
 url: 'https://openlibrary.org/books/OL1106868M'

@@ -24,6 +24,7 @@ tags:
 - mereology
 - thermodynamics
 - metaphysics
+- philosophy-of-biology
 date: '2026-10-03'
 published: '2015-03-06'
 doi: '10.1016/j.jtbi.2015.02.029'

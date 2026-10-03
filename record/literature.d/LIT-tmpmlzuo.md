@@ -18,6 +18,7 @@ history:
     literature.d and theory.d for "Berridge", "Dayan" and the DOI found
     nothing.
 tags:
+- learning-and-conditioning
 - motivation
 - neuroscience
 - behavioral-integration

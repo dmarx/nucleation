@@ -17,6 +17,7 @@ tags:
 - complex-systems
 - behavioral-integration
 - natural-sciences
+- embodied-cognition
 date: '2026-10-03'
 published: '1985-02-01'
 doi: '10.1007/BF00336922'

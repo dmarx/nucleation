@@ -23,6 +23,7 @@ tags:
 - behavioral-integration
 - neuroscience
 - probabilistic-modeling
+- psychometrics
 date: '2026-10-03'
 published: '2008-04-01'
 doi: '10.1162/neco.2008.12-06-420'

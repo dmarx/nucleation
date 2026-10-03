@@ -21,6 +21,7 @@ tags:
 - behavioral-integration
 - neuroscience
 - cognition
+- learning-and-conditioning
 date: '2026-10-03'
 published: '2008-10-15'
 doi: '10.1016/j.cognition.2008.08.011'

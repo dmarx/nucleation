@@ -29,6 +29,7 @@ tags:
 - psychopathology-and-treatment
 - emotion-and-affect
 - self
+- learning-and-conditioning
 date: '2026-10-03'
 published: '2005-10-25'
 doi: '10.1017/S0140525X05000117'

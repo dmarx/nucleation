@@ -28,6 +28,7 @@ tags:
 - social-science
 - cognition
 - personhood
+- well-being
 date: '2026-10-03'
 published: '2019-01-01'
 doi: '10.26613/esic.3.1.110'

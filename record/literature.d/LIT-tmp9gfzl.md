@@ -16,6 +16,7 @@ history:
     Anthology of the SOTA: a grep of its literature.d for "Mossio",
     "organizational account" and the DOI found nothing.
 tags:
+- philosophy-of-biology
 - philosophy-of-science
 - natural-sciences
 - complex-systems

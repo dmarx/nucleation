@@ -20,6 +20,7 @@ tags:
 - narrative-unity
 - self
 - social-science
+- well-being
 date: '2026-10-03'
 published: '2013-06-04'
 doi: '10.1177/0963721413475622'

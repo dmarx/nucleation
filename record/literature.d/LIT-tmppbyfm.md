@@ -20,6 +20,7 @@ tags:
 - self-governance
 - motivation
 - social-science
+- well-being
 date: '2026-10-03'
 published: '1999-03-01'
 doi: '10.1037/0022-3514.76.3.482'

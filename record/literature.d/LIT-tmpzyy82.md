@@ -19,6 +19,7 @@ tags:
 - self-governance
 - social-science
 - cognition
+- well-being
 date: '2026-10-03'
 published: '2009-02-01'
 doi: '10.1037/a0014060'

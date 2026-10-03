@@ -22,6 +22,7 @@ tags:
 - neuroscience
 - probabilistic-modeling
 - cognition
+- learning-and-conditioning
 date: '2026-10-03'
 published: '2005-11-06'
 doi: '10.1038/nn1560'

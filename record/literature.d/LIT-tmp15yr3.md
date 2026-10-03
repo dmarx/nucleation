@@ -27,6 +27,7 @@ tags:
 - cognition
 - neuroscience
 - behavioral-integration
+- psychometrics
 date: '2026-10-03'
 published: '2013-08-02'
 doi: '10.3389/fninf.2013.00014'

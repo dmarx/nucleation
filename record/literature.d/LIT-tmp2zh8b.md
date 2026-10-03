@@ -24,6 +24,8 @@ tags:
 - cognition
 - complex-systems
 - natural-sciences
+- philosophy-of-biology
+- embodied-cognition
 date: '2026-10-03'
 published: '2009-09-23'
 doi: '10.1177/1059712309343819'

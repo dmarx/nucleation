@@ -23,6 +23,7 @@ version: 1
 tags:
 - motivation
 - social-science
+- learning-and-conditioning
 date: '2026-10-03'
 source:
 - LIT-557

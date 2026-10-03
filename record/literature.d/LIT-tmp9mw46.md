@@ -18,6 +18,7 @@ history:
     held in the Anthology of the SOTA: a grep of its literature.d for "De
     Jaegher", "sense-making" and the DOI found nothing.
 tags:
+- embodied-cognition
 - cognition
 - social-ontology
 - phenomenology

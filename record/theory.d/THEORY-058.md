@@ -29,6 +29,7 @@ tags:
 - network-science
 - philosophy-of-science
 - metaphysics
+- psychometrics
 date: '2026-10-03'
 source:
 - LIT-547

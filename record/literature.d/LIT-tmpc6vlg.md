@@ -8,6 +8,8 @@ tags:
 - self
 - social-science
 - motivation
+- well-being
+- psychometrics
 date: '2026-10-03'
 published: '2006-01-01'
 doi: '10.1016/S0065-2601(06)38006-9'

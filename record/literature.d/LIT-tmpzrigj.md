@@ -22,6 +22,7 @@ history:
     grep of its record for "Schurger", "readiness potential" and the DOI
     found nothing.
 tags:
+- free-will
 - agency
 - neuroscience
 - behavioral-integration

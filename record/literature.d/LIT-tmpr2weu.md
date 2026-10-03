@@ -8,6 +8,8 @@ tags:
 - self
 - social-science
 - psychopathology-and-treatment
+- well-being
+- psychometrics
 date: '2026-10-03'
 published: '2008-07-15'
 doi: '10.1037/0022-0167.55.3.385'

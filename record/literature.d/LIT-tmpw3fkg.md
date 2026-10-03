@@ -24,6 +24,7 @@ tags:
 - cognition
 - natural-sciences
 - philosophy-of-science
+- embodied-cognition
 date: '2026-10-03'
 published: '2021-08-18'
 doi: '10.1007/s00422-021-00890-w'
