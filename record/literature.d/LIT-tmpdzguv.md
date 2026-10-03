@@ -1,0 +1,91 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp7wcsb](../notes.d/NOTE-tmp7wcsb.md)); worth reading as the short proposal that mode-connecting paths are geodesics of the Fisher–Rao metric on the space of the networks'' output distributions. It approximates a geodesic between two trained ResNet-20s (4× width, LayerNorm), after Git Re-Basin weight matching, by optimising 25 models on a chain to minimise the summed Jensen–Shannon divergence between neighbours, using unlabelled training images only, and the resulting curve has low train and test loss where the straight line does not. One architecture, one pair, one figure; the hypothesis that all geodesics between SGD solutions are mode-connecting is stated, not tested.'
+title: 'Geodesic Mode Connectivity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from arXiv v1 (24 August 2023, 4 PDF pages, the only
+    version; published as a Tiny Paper at ICLR 2023) through the PDF text
+    layer: main text, Figures 1–2, Appendix A.1 (the Fisher–Rao metric) and
+    A.2 (implementation). `published:` is the arXiv v1 date. Not held in
+    the Anthology of the SOTA: a grep of its record for the arXiv id and
+    "Geodesic Mode Connectivity" found nothing, and nucleation held nothing
+    under that title.
+tags:
+- loss-landscapes
+- information-geometry
+- anthology-candidate
+date: '2026-10-03'
+published: '2023-08-24'
+arxiv: '2308.12666'
+first_author: 'Tan'
+keywords:
+- 'mode connectivity'
+- 'information geometry'
+- 'geodesic'
+- 'Fisher-Rao metric'
+- 'Jensen-Shannon divergence'
+- 'linear mode connectivity'
+- 'permutation symmetry'
+implementations: []
+summary: >-
+  Tan, Long, Zhao & Laine (2023), ICLR 2023 Tiny Paper. Treats a network
+  as a distribution p(x, ŷ; θ) on a Fisher–Rao manifold and hypothesises
+  that geodesics between SGD solutions are mode-connecting paths. A chain
+  of 25 models between two ResNet-20s (4× width, LayerNorm), initialised on
+  the straight line after Git Re-Basin weight matching, is optimised to
+  minimise summed Jensen–Shannon divergence between neighbours. The curve
+  is longer in Euclidean terms but shorter in distribution space, and keeps
+  train and test loss low where linear interpolation shows a large barrier.
+extends:
+- LIT-tmpd6bma
+---
+
+# LIT-tmpdzguv: Geodesic Mode Connectivity
+
+Charlie Tan, Theodore Long, Sarah Zhao and Rudolf Laine (2023), Tiny Paper
+at ICLR 2023 — [ARXIV-2308.12666](https://arxiv.org/abs/2308.12666)
+
+## Key takeaways
+
+- **Mode connectivity, recast in information geometry.** A classifier with
+  parameters θ, paired with the empirical input distribution, is a joint
+  distribution p(x, ŷ; θ) = p(x)p(ŷ|x; θ). The Fisher–Rao metric (Eq. 3)
+  gives that space lengths and curvature. The length of a path equals √8
+  times the integral of √dJSD (Eq. 1, citing Crooks 2007).
+- **A discrete geodesic objective.** Fix the endpoints, put N = 25 models on
+  the straight line between them, and minimise Σᵢ JSD(pᵢ‖pᵢ₊₁) (Eq. 2). The
+  square root is dropped, which minimises the energy rather than the length
+  and gives the constant-speed geodesic. Only training images are used, not
+  labels.
+- **Where the straight line fails, the geodesic holds.** For a ResNet-20 at
+  4× width on CIFAR-10, the linear path after weight matching still has a
+  large loss barrier, while the optimised chain keeps train and test loss
+  low throughout (Fig. 2).
+- **The hypothesis is broad and untested.** The paper states that all
+  geodesics between SGD solutions are mode-connecting paths, but shows one
+  pair of models.
+
+## Standing in the record
+
+Filed on 2026-10-03 with the owner's mode-connectivity batch ([ADR-027](../decisions.d/ADR-027.md)). It
+holds one of the batch's two meanings of "geodesic". Here the geodesic is
+in the space of output distributions under the Fisher–Rao metric. In Lin,
+Li and Wu ([LIT-tmpziwl2](LIT-tmpziwl2.md)) it is the shortest path inside the minimum
+manifold, measured in Euclidean parameter space. The two are different
+objects, and only this one belongs to `information-geometry`.
+
+It extends Git Re-Basin ([LIT-tmpd6bma](LIT-tmpd6bma.md)) directly. Its two networks are
+permuted by Git Re-Basin's weight matching, its LayerNorm ResNet is the one
+Git Re-Basin built to make permutation work, and its baseline is Git
+Re-Basin's straight line, which fails at this width. The geodesic is
+initialised on that line and bent away from it. The phenomenon it reframes
+is Garipov et al.'s ([LIT-tmpotq71](LIT-tmpotq71.md)) curved low-loss paths, but the paper
+leaves a comparison with Garipov's curve-fitting to future work.
+
+No instruction for practice. It is flagged for the anthology because the
+anthology holds the permutation line it builds on (Git Re-Basin is
+[ANTH-LIT-333](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-333.md) there).

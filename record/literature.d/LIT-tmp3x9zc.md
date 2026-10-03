@@ -1,0 +1,115 @@
+---
+status: Active
+status_note: 'read 2026-10-03 ([NOTE-tmpi1dor](../notes.d/NOTE-tmpi1dor.md)); worth reading as the account of mode connectivity from continuous parameter symmetries. The minimum of a full-rank l-layer linear network is homeomorphic to GL_h(ℝ)^{l−1} and so has 2^{l−1} connected components, a skip connection merges some of them, and a permutation with negative determinant joins the rest. Rescaling symmetry gives minima in the same component with an arbitrarily large loss barrier on the straight line between them, even after a restricted permutation. A group element g gives an explicit constant-loss curve exp(t log g)·w, and bounded curvature of such curves bounds the barrier on the chord. The theory is for linear networks and homogeneous last layers; the experiments are small synthetic regressions.'
+title: 'Understanding Mode Connectivity via Parameter Space Symmetry'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read from arXiv v1 (29 May 2025, 20 PDF pages, the ICML 2025
+    camera-ready, PMLR 267) through the PDF text layer. Sections 1–7 read
+    in full; Appendices C and D (proofs of Sections 4 and 5) read, with
+    the proofs of Proposition 4.1, Lemma 5.1, Proposition 5.2 and
+    Proposition 5.3 followed through; Appendix A (topology background) and
+    E (proofs of Section 6) read for statements. `published:` is the arXiv
+    v1 date. Not held in the Anthology of the SOTA: a grep of its record
+    for the arXiv id and "Parameter Space Symmetry" found nothing, and
+    nucleation held nothing under that title.
+tags:
+- loss-landscapes
+- mathematics
+- anthology-candidate
+date: '2026-10-03'
+published: '2025-05-29'
+arxiv: '2505.23681'
+first_author: 'Zhao'
+keywords:
+- 'mode connectivity'
+- 'linear mode connectivity'
+- 'parameter space symmetry'
+- 'continuous symmetry'
+- 'general linear group'
+- 'connected components'
+- 'skip connections'
+- 'curvature'
+implementations: []
+summary: >-
+  Zhao, Dehmamy, Walters & Yu (2025), ICML 2025. Relates the topology of a
+  loss's symmetry group to that of its minimum. The minimum of a full-rank
+  l-layer linear regression is homeomorphic to GL_h(ℝ)^{l−1}, so it has
+  2^{l−1} components; a skip connection reduces 4 to 3 in a 1-D case, and
+  permutations connect all components when h ≥ 2. Rescaling symmetry yields
+  minima in one component with arbitrarily large barriers on the straight
+  line. Group actions give explicit constant-loss curves, and a curvature
+  bound κ on such a curve bounds the chord's distance from the minimum by
+  about κ‖w₂ − w₁‖²/8.
+---
+
+
+# LIT-tmp3x9zc: Understanding Mode Connectivity via Parameter Space Symmetry
+
+Bo Zhao, Nima Dehmamy, Robin Walters and Rose Yu (2025), Proceedings of the
+42nd International Conference on Machine Learning (ICML 2025), PMLR 267 —
+[ARXIV-2505.23681](https://arxiv.org/abs/2505.23681)
+
+## Key takeaways
+
+- **Count components through the symmetry group.** A continuous map cannot
+  increase the number of connected components (Proposition 3.4). If the
+  minimum is a single orbit of a group G, it has at most as many components
+  as G (Corollary 3.7). For ‖Y − W_l…W₁X‖² with full-rank square X, Y, the
+  minimum is homeomorphic to GL_h(ℝ)^{l−1} and has 2^{l−1} components, at
+  every width (Proposition 4.1, Corollary 4.2).
+- **Skip connections merge components.** For a three-layer network with
+  1 × 1 weights, the minimum has 4 components without a residual term and 3
+  with one, because the residual adds a line of solutions that touches two
+  of the four (Proposition 4.3).
+- **Permutations connect what continuous symmetry cannot.** For h ≥ 2,
+  every pair of minima of the linear network is connected after a
+  layerwise permutation, since some permutation matrices have negative
+  determinant (Lemma 5.1, Proposition 5.2).
+- **The straight line can fail without bound.** If the last two layers have
+  a homogeneous activation, rescaling gives two minima in the same component
+  whose midpoint has loss above any b (Proposition 5.3). The barrier stays
+  unbounded under permutations of the last hidden layer when a non-degeneracy
+  condition holds (Proposition 5.4). Bounding the weights bounds the barrier
+  on that orbit (Proposition 5.6).
+- **Curves from symmetries.** For w₂ = g·w₁, γ(t) = exp(t log g)·w₁ is a curve
+  of constant loss (Eq. 5). An approximate GL action on a two-layer
+  nonlinear network moves the output by at most ‖Uσ(VX)‖ (Proposition 6.1),
+  and gives curves with lower loss than the chord in small experiments
+  (Fig. 3). If a constant-loss curve has curvature ≤ κ_max, every point of
+  the chord is within d_max = (1/κ_max)(1 − √(1 − (κ_max‖w₂ − w₁‖/2)²)) of the
+  level set, and an L-Lipschitz loss changes by at most C_L d_max (Theorem
+  6.2).
+
+## Standing in the record
+
+Filed on 2026-10-03 with the owner's mode-connectivity batch ([ADR-027](../decisions.d/ADR-027.md)). It
+is the batch's mathematical account: connectedness of the minimum read off
+from the topology of the group of transformations that leave the loss
+unchanged. That is why it also carries `mathematics`: the results are
+statements about homeomorphisms, components of GL_h(ℝ) and curvature of
+curves.
+
+It declares no relation. It builds on the authors' own earlier symmetry
+papers, which the record does not hold, rather than on any one
+connectivity paper here. It positions itself against several. Garipov et
+al. ([LIT-tmpotq71](LIT-tmpotq71.md)) found connecting curves empirically, and this paper
+derives them from group actions. Entezari et al. ([LIT-tmp2uwzo](LIT-tmp2uwzo.md)) conjectured
+that SGD minima are linearly connected up to permutation. This paper
+constructs minima that are not, but the construction uses rescaled minima
+that SGD is unlikely to reach, and the authors say so (§5.2), so it does not
+correct the conjecture. It cites Kuditipudi et al. ([LIT-tmplpsy5](LIT-tmplpsy5.md)) and
+Ferbach et al. ([LIT-tmpyiw0q](LIT-tmpyiw0q.md)) as other theoretical routes, and Lubana et
+al. ([LIT-tmpl64hd](LIT-tmpl64hd.md)) and Zhou et al. ([LIT-tmpqazdt](LIT-tmpqazdt.md)) for what a missing or
+present linear path means.
+
+Across the boundary it widens the anthology's [ANTH-THEORY-010](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-010.md) (the barrier
+is mostly permutation). On this paper's account, permutations are the
+discrete part of a larger group, and the continuous part (rescaling, GL
+actions) both connects minima and can make the straight line arbitrarily
+bad. Its practitioner notes (§7) caution against averaging minima without
+checking they are approximately connected. That is a candidate instruction,
+which is why the LIT is flagged.

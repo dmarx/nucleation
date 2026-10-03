@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: 'read 2026-10-03 ([NOTE-tmpbvbxb](../notes.d/NOTE-tmpbvbxb.md)); worth reading as a controlled test of whether more data buys visual compositional generalization: in an (n, k) grid where each of n values of two concepts is seen in only k combinations, ResNet-50s trained from scratch fail on unseen pairs whatever the data volume (4× more in-distribution data leaves 60–80% drops), and succeed only as the fraction of combinations seen rises, when their features become linearly factored (a pair''s embedding is the sum of per-concept vectors; R² > 0.8). Under exact linear factorization, k = 2 combinations per value suffice for a linear classifier to get all unseen pairs right (Proposition 4.1). DINO, DINOv2 and CLIP features are partly factored. Model selection is oracle, on the test set, by design.'
+title: 'Does Data Scaling Lead to Visual Compositional Generalization?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read from arXiv v1 (9 July 2025, 25 pages), which is the ICML 2025
+    paper (Proceedings of the 42nd International Conference on Machine
+    Learning, PMLR 267). Main text read in full; Appendix B (proofs) read
+    through the setup, Lemma B.2 and the structure of Proposition B.7's
+    proof; Appendices A, C and D read for setup and the architecture
+    comparison, the rest skimmed. Not held in the Anthology of the SOTA: a
+    grep of its record for "2507.07102", "Visual Compositional
+    Generalization" and "Uselis" found nothing.
+tags:
+- representation-learning
+- learning-theory
+- anthology-candidate
+date: '2026-10-03'
+published: '2025-07-09'
+arxiv: '2507.07102'
+first_author: 'Uselis'
+keywords:
+- 'compositional generalization'
+- 'data scaling'
+- 'data diversity'
+- 'linearly factored representations'
+- 'concept space'
+- '(n, k) framework'
+- 'linear probing'
+- 'CLIP'
+- 'DINO'
+- 'disentanglement'
+- 'out-of-distribution generalization'
+implementations: []
+summary: >-
+  Uselis, Dittadi & Oh (2025), ICML 2025. Two labelled concepts with n
+  values each form an n × n grid; training shows k combinations per value
+  and testing uses the rest. On dSprites, 3DShapes, PUG, colored MNIST and
+  a new FSprites, ResNet-50s trained from scratch reach near 100% on seen
+  pairs and fall sharply on unseen ones; 4× more in-distribution data does
+  not close the gap, while more values and more combinations do. Features
+  pass from spurious, to discriminative but entangled, to linearly factored
+  and near-orthogonal as combinatorial coverage grows. Exact linear
+  factorization makes k = 2 sufficient for perfect generalization. Frozen
+  DINO, DINOv2 and CLIP features are above chance but far from that ideal.
+---
+
+<!-- inactive-ok-file: THEORY-002 — Proposed; named for the record's account of representational convergence, with no relation claimed -->
+<!-- inactive-ok-file: THEORY-004 — Proposed; named for representations determined by their kernels, with no relation claimed -->
+
+# LIT-tmpid11v: Does Data Scaling Lead to Visual Compositional Generalization?
+
+Arnas Uselis, Andrea Dittadi and Seong Joon Oh (2025), *ICML 2025* — [ARXIV-2507.07102](https://arxiv.org/abs/2507.07102)
+
+## Key takeaways
+
+- **Diversity, not volume.** With n = 3 values per concept and k = 1 or 2
+  combinations per value, ResNet-50s trained from scratch fit seen pairs
+  almost perfectly and lose a great deal on unseen ones (MNIST digit
+  accuracy drops about 78%). Quadrupling the in-distribution data still
+  leaves drops of 60–80% (Figure 4). Raising n with k = n − 1, or raising k
+  at fixed n, improves generalization (Figure 3).
+- **Three phases of feature learning** (Section 4.2, Figure 5). With few
+  combinations seen, features are spurious and not even decodable. With
+  moderate coverage they become decodable (linear probes on balanced data
+  reach 100%) but not linearly structured. Only with high coverage do they
+  become linearly factored (R² > 0.8) and near-orthogonal across concepts,
+  and zero-shot accuracy on unseen pairs exceeds 90% on most datasets.
+- **Why factorization matters** (Proposition 4.1). If a pair's embedding is
+  u_{c1} + u_{c2} and the per-concept vectors jointly span 2n − 1
+  dimensions, then observing k = 2 combinations per value (a diagonal and
+  an off-diagonal cycle) identifies the factors, and a linear classifier
+  then gets all (n − k)·n unseen pairs right.
+- **Pretrained models are partly there** (Section 5). Using factors
+  recovered from k = 2 combinations, DINOv2 and CLIP exceed 90% on some
+  concepts (CLIP on colour, DINOv2 on shape, scale and orientation), and no
+  model reaches the ideal. Probes on their features beat a from-scratch
+  ResNet-50 but still improve with more combinations (Figure 8).
+
+## Standing in the record
+
+Filed on 2026-10-03 with the owner's batch ([ADR-027](../decisions.d/ADR-027.md)), among its papers on
+where generalization is carried in a network. Here the carrier is a
+geometric property of the representation: additivity of concept vectors.
+It shares its probing protocol with the same group's intermediate-layer
+paper ([LIT-tmpt61ew](LIT-tmpt61ew.md)), cited for the decodability metric, and declares no
+relation to it.
+
+**Against the record's representation theories.** Linear factorization is
+a claim about the representation's geometry up to an additive structure.
+The record holds that a representation is fixed by its kernel only up to
+an orthogonal transformation ([THEORY-004](../theory.d/THEORY-004.md)), and that convergence of
+representations is convergence of kernels ([THEORY-002](../theory.d/THEORY-002.md), from the Platonic
+Representation Hypothesis, [LIT-302](LIT-302.md)). Linear factorization and orthogonality
+of concept subspaces are invariant under that orthogonal freedom, so they
+are properties a kernel-level comparison can see. The paper does not make
+this connection; it is mine. The record's reading of Park et al.'s linear
+representation hypothesis ([LIT-304](LIT-304.md)) is the language-model counterpart. The
+paper cites a different Park et al. paper (on categorical and hierarchical
+concepts), which neither record holds.
+
+**Against the learning-theory line.** The result sits with data diversity
+rather than model or data size, the opposite emphasis to the scaling
+literature it argues with. Its Proposition is a counting argument about
+when unseen combinations are determined by seen ones under an exact linear
+model, not a generalization bound.
+
+**Anthology.** It ends with an instruction for practice (build datasets for
+combinatorial diversity, not volume), so `anthology-candidate`.
