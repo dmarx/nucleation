@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [3 Oct 13:15 — Model comparison and Fisher geometry](2026-10.md#model-comparison-and-fisher-geometry)
 - [3 Oct 06:56 — Agency, self, control and self-governance](2026-10.md#agency-self-control-and-self-governance)
 - [3 Oct 05:29 — Theories from the psychopathology batch, and self-determination theory](2026-10.md#theories-from-the-psychopathology-batch-and-self-determination-theory)
 - [3 Oct 04:22 — Psychopathology, emotion and psychotherapy](2026-10.md#psychopathology-emotion-and-psychotherapy)
@@ -22,9 +23,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-60 entries across 2 books, newest first.
+61 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 13 | 2026-10-01 | 2026-10-03 |
+| [2026-10](2026-10.md) | 14 | 2026-10-01 | 2026-10-03 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

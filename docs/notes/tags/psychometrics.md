@@ -4,7 +4,7 @@
 
 **psychometrics**.
 
-7 of 470 NOTE documents. Back to the [full index](../README.md).
+8 of 487 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [NOTE-435](../../../record/notes.d/NOTE-435.md) | A Network Theory of Mental Disorders | Borsboom states the network theory as five principles: complexity, symptom-component correspondence, direct causal connections between symptoms, disorders as tightly coupled symptom clusters, and hysteresis. Disorder is an alternative stable state of a strongly connected network that outlasts its trigger; health is the stable state of a weakly connected one. Treatment is symptom, external-field or network intervention. The evidence offered is indirect, and the theory is presented as an organizing framework, not a fitted model. | Read |
 | [NOTE-445](../../../record/notes.d/NOTE-445.md) | The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks | The full diffusion model (drift v with across-trial SD η, boundaries 0 and a, starting point z with range s_z, non-decision time Ter with range s_t) fitted by the χ² quantile method. In three dot-motion experiments with 14–17 participants difficulty maps to drift alone, speed–accuracy instructions to boundaries alone, and a 75:25 proportion mainly to starting point; RT distribution shape is invariant across conditions. Drift variability gives slow errors and starting-point variability fast ones. Reviews aging, aphasia and neural-firing applications. | Read |
 | [NOTE-466](../../../record/notes.d/NOTE-466.md) | HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python | HDDM fits the full DDM (v, a, z, t with sv, st, sz) by MCMC in PyMC, with group-level priors such as μ_a ~ Gamma(1.5, 0.75), μ_v ~ N(2, 3), z_j ~ invlogit(N(μ_z, σ_z²)), and the Navarro–Fuss likelihood. A patsy-style regressor lets a parameter vary with a trial covariate. In simulations with 12 subjects and 20–150 trials, hierarchical Bayes had the lowest trimmed recovery error for every parameter and the highest power to detect drift differences and covariate effects, by up to 20% for the latter with larger effects and few trials. | Read |
+| [NOTE-484](../../../record/notes.d/NOTE-484.md) | Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method | For nested models the Bayes factor for a point null is the ratio of posterior to prior density of the tested parameter at the null value, under the larger model (Eq. 12, derived in Appendix A). It needs the nuisance parameters' prior to be continuous at the null. Worked examples give BF10 ≈ 2.2 where p ≈ .006, and BF01 ≈ 4 in favour of a null of no group difference. | Read |

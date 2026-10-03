@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-6 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+8 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -12,6 +12,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+## anthology-candidate
+
+### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
+
+- [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
+  - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
 
 ## contextuality
 
@@ -29,6 +36,32 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
   - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
+## information-geometry
+
+### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
+
+- [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
+  - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
+
+## learning-theory
+
+### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
+
+- [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
+  - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
+
+### From The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set
+
+- [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
+  - [THEORY-079](../record/theory.d/THEORY-079.md) — Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n *(Proposed)*
+
+## model-comparison
+
+### From The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set
+
+- [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
+  - [THEORY-079](../record/theory.d/THEORY-079.md) — Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n *(Proposed)*
 
 ## motivation
 
@@ -50,6 +83,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
   - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
+### From The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set
+
+- [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
+  - [THEORY-079](../record/theory.d/THEORY-079.md) — Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n *(Proposed)*
 
 ## psychopathology-and-treatment
 
@@ -77,6 +115,15 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [THEORY-005](../record/theory.d/THEORY-005.md) — The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite *(Proposed)*
     - [THEORY-009](../record/theory.d/THEORY-009.md) — Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem *(Proposed)*
 
+## self-governance
+
+### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+
+- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+## Sharing no `tags`
+
 ### From A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
 - [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
@@ -85,10 +132,5 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
     - [THEORY-019](../record/theory.d/THEORY-019.md) — Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet *(Proposed)*
-
-## self-governance
-
-### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
-
-- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
-  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+      - [THEORY-084](../record/theory.d/THEORY-084.md) — Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks *(Proposed)* — also extends THEORY-086
+- [THEORY-086](../record/theory.d/THEORY-086.md) — In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth *(Active)*

@@ -6,7 +6,7 @@
 
 **Emotion and affect** — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
 
-5 of 77 THEORY documents. Back to the [full index](../README.md).
+5 of 87 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -2,7 +2,7 @@
 
 # Lines of work
 
-28 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+32 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -42,6 +42,24 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+### From Algebraic Geometry and Statistical Learning Theory
+
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+  - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
+### From Natural Gradient Works Efficiently in Learning
+
+- [LIT-607](../record/literature.d/LIT-607.md) — Natural Gradient Works Efficiently in Learning *(Active)*
+  - [LIT-622](../record/literature.d/LIT-622.md) — Optimizing Neural Networks with Kronecker-factored Approximate Curvature *(Active)*
+- [LIT-617](../record/literature.d/LIT-617.md) — The Full Spectrum of Deepnet Hessians at Scale: Dynamics with SGD Training and Sample Size *(Active)*
+  - [LIT-619](../record/literature.d/LIT-619.md) — Measurements of Three-Level Hierarchical Structure in the Outliers in the Spectrum of Deepnet Hessians *(Active)*
+    - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also extends LIT-617
+
+### From The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
+
+- [LIT-612](../record/literature.d/LIT-612.md) — The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies *(Active)*
+  - [LIT-608](../record/literature.d/LIT-608.md) — Deep Equals Shallow for ReLU Networks in Kernel Regimes *(Active)*
 
 ## behavioral-integration
 
@@ -204,6 +222,21 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-598](../record/literature.d/LIT-598.md) — The Markov blanket trick: On the scope of the free energy principle and active inference *(Active)*
   - [LIT-603](../record/literature.d/LIT-603.md) — The Emperor's New Markov Blankets *(Active)*
 
+## information-geometry
+
+### From Algebraic Geometry and Statistical Learning Theory
+
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+  - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
+### From Natural Gradient Works Efficiently in Learning
+
+- [LIT-607](../record/literature.d/LIT-607.md) — Natural Gradient Works Efficiently in Learning *(Active)*
+  - [LIT-622](../record/literature.d/LIT-622.md) — Optimizing Neural Networks with Kronecker-factored Approximate Curvature *(Active)*
+- [LIT-617](../record/literature.d/LIT-617.md) — The Full Spectrum of Deepnet Hessians at Scale: Dynamics with SGD Training and Sample Size *(Active)*
+  - [LIT-619](../record/literature.d/LIT-619.md) — Measurements of Three-Level Hierarchical Structure in the Outliers in the Spectrum of Deepnet Hessians *(Active)*
+    - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also extends LIT-617
+
 ## information-theory
 
 ### From The Role of the Information Bottleneck in Representation Learning
@@ -230,6 +263,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+### From Algebraic Geometry and Statistical Learning Theory
+
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+  - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
+### From The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
+
+- [LIT-612](../record/literature.d/LIT-612.md) — The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies *(Active)*
+  - [LIT-608](../record/literature.d/LIT-608.md) — Deep Equals Shallow for ReLU Networks in Kernel Regimes *(Active)*
 
 ## linguistics
 
@@ -266,6 +309,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-274](../record/literature.d/LIT-274.md) — A new description of orthogonal bases *(Active)*
   - [LIT-275](../record/literature.d/LIT-275.md) — H*-algebras and nonunital Frobenius algebras: first steps in infinite-dimensional categorical quantum mechanics *(Active)*
 
+### From Algebraic Geometry and Statistical Learning Theory
+
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+  - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
 ## mereology
 
 ### From The Society of Mind
@@ -289,6 +337,21 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
   - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
+
+## model-comparison
+
+### From Algebraic Geometry and Statistical Learning Theory
+
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+  - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
+### From The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters
+
+- [LIT-610](../record/literature.d/LIT-610.md) — The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters *(Deferred)*
+  - [LIT-609](../record/literature.d/LIT-609.md) — Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method *(Active)*
+  - [LIT-620](../record/literature.d/LIT-620.md) — Post hoc Bayesian model selection *(Active)*
+    - [LIT-614](../record/literature.d/LIT-614.md) — Bayesian model reduction *(Active)*
+      - [LIT-615](../record/literature.d/LIT-615.md) — An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case *(Active)*
 
 ## moral-psychology
 
@@ -424,6 +487,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
   - [LIT-563](../record/literature.d/LIT-563.md) — HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python *(Active)*
 
+### From The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters
+
+- [LIT-610](../record/literature.d/LIT-610.md) — The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters *(Deferred)*
+  - [LIT-609](../record/literature.d/LIT-609.md) — Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method *(Active)*
+  - [LIT-620](../record/literature.d/LIT-620.md) — Post hoc Bayesian model selection *(Active)*
+    - [LIT-614](../record/literature.d/LIT-614.md) — Bayesian model reduction *(Active)*
+      - [LIT-615](../record/literature.d/LIT-615.md) — An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case *(Active)*
+
 ## psychometrics
 
 ### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
@@ -472,6 +543,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+### From The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
+
+- [LIT-612](../record/literature.d/LIT-612.md) — The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies *(Active)*
+  - [LIT-608](../record/literature.d/LIT-608.md) — Deep Equals Shallow for ReLU Networks in Kernel Regimes *(Active)*
 
 ## self
 

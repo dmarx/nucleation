@@ -40,7 +40,7 @@ summary: >-
   support "degeneracy detects symmetry": a spectrum is consistent with several
   groups and says nothing about the characters inside a multiplet.
 extended_by:
-- THEORY-tmpjae36
+- THEORY-084
 ---
 
 # THEORY-019: Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet

@@ -9,6 +9,8 @@ A relation is an assertion that the documents it joins have something in common.
 
 **0 unbound relations.** Two documents joined directly, sharing nothing.
 
-**0 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
+**1 unbound line.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
 
-Every relation with an invariant declared is bound by a value both ends hold.
+| Declared by | Field | Members |
+|---|---|---|
+| theory | `tags` | [THEORY-002](../../record/theory.d/THEORY-002.md), [THEORY-004](../../record/theory.d/THEORY-004.md), [THEORY-008](../../record/theory.d/THEORY-008.md), [THEORY-017](../../record/theory.d/THEORY-017.md), [THEORY-018](../../record/theory.d/THEORY-018.md), [THEORY-019](../../record/theory.d/THEORY-019.md), [THEORY-084](../../record/theory.d/THEORY-084.md), [THEORY-086](../../record/theory.d/THEORY-086.md) |

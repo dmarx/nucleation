@@ -4,7 +4,7 @@
 
 **cognition**.
 
-102 of 470 NOTE documents. Back to the [full index](../README.md).
+103 of 487 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -110,3 +110,4 @@
 | [NOTE-467](../../../record/notes.d/NOTE-467.md) | The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind | Kelso's retrospective on HKB. The relative-phase equation dφ/dt = −a sin φ − 2b sin 2φ has stable in-phase and anti-phase states for b/a > 1/4 and only in-phase below; with noise the switch is a nonequilibrium phase transition with critical fluctuations and slowing. Symmetry breaking gives metastability (relative coordination); merged with Kuramoto it models groups. The same dynamics is reported within and between people and in brain activity. A first-person account, not a review. | Read |
 | [NOTE-469](../../../record/notes.d/NOTE-469.md) | Thine Own Self: True Self-Concept Accessibility and Meaning in Life | Five studies with students. True-self accessibility, the residual speed of "me" judgments for one's own true-self traits, predicts MLQ presence of meaning (β = .29, .24, .19 in Studies 1, 2, 4) beyond actual-self accessibility, affect, need satisfaction, liking, overlap, state self-esteem and AI-3 authenticity. Subliminal true-self primes raised reported meaning against actual-self primes (Study 3, ANCOVA F = 4.46) and against disliked actual-self primes (Study 5, contrast F = 5.07), with disliked true-self traits as effective as liked ones. | Read |
 | [NOTE-470](../../../record/notes.d/NOTE-470.md) | “First we invented stories, then they changed us”: The Evolution of Narrative Identity | McAdams's review essay on narrative identity: "the internalized and evolving story a person invents to explain how he or she has become the person he or she is becoming". Storytelling is placed in human evolution as a tool for simulating social life and binding groups. The self is layered as actor, then agent, then author, with the life story arriving in adolescence on the back of autobiographical memory, theory of mind and autobiographical reasoning. Story features predict well-being and generativity. Culture supplies master narratives. Claims are cited, not shown. | Read |
+| [NOTE-485](../../../record/notes.d/NOTE-485.md) | An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case | A partially observed MDP with spare hidden-state slots learns new animal concepts without feedback, refines coarse categories into fine ones, and generalises to an unseen animal in one shot. Bayesian model reduction on the learned state prior resets unneeded slots: right in 45–80% of runs for 4–7 true concepts, rarely for 2–3, and always when the likelihood is given. | Read |

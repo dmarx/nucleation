@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 1847 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 1906 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -142,8 +142,8 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/notes.d/NOTE-307.md:116`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 - [`record/theory.d/THEORY-018.md:69`](../../record/theory.d/THEORY-018.md)
-- [`record/theory.d/THEORY-019.md:105`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:116`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:107`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:118`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-021.md:99`](../../record/theory.d/THEORY-021.md)
 - [`record/theory.d/THEORY-022.md:100`](../../record/theory.d/THEORY-022.md)
 - [`record/theory.d/THEORY-032.md:104`](../../record/theory.d/THEORY-032.md)
@@ -477,7 +477,7 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 On the Stepwise Nature of Self-Supervised Learning
 
-9 citations in 5 files await a look; 1 other citation of it is acknowledged.
+9 citations in 5 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-261.md:48`](../../record/literature.d/LIT-261.md)
 - [`record/notes.d/NOTE-230.md:34`](../../record/notes.d/NOTE-230.md)
@@ -717,9 +717,9 @@ Analysis of Boolean Functions
 - [`record/literature.d/LIT-346.md:74`](../../record/literature.d/LIT-346.md)
 - [`record/notes.d/NOTE-307.md:115`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:118`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:52`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:85`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:88`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:54`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:87`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:90`](../../record/theory.d/THEORY-019.md)
 
 ### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
 
@@ -823,14 +823,14 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 - [`record/literature.d/LIT-319.md:78`](../../record/literature.d/LIT-319.md)
 - [`record/notes.d/NOTE-307.md:117`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:115`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:53`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:112`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:55`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:114`](../../record/theory.d/THEORY-019.md)
 
 ### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-6 citations in 4 files await a look.
+6 citations in 4 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
@@ -867,7 +867,7 @@ Zur Theorie der hyperkomplexen Zahlen
 
 Information and the Accuracy Attainable in the Estimation of Statistical Parameters
 
-5 citations in 4 files await a look.
+5 citations in 4 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
 - [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
@@ -934,7 +934,7 @@ Every Thing Must Go: Metaphysics Naturalized
 
 Algebraic Geometry and Statistical Learning Theory
 
-4 citations in 2 files await a look.
+4 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-283.md:155`](../../record/notes.d/NOTE-283.md)
 - [`record/notes.d/NOTE-283.md:178`](../../record/notes.d/NOTE-283.md)
@@ -1226,7 +1226,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -1372,7 +1372,7 @@ Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding
 
 Minimum Description Length Revisited
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-241.md:168`](../../record/notes.d/NOTE-241.md)
 

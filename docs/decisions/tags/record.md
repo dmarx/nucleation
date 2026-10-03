@@ -6,7 +6,7 @@
 
 **The record** — what the schemes hold, and the rules between them.
 
-25 of 25 decisions. Back to the [full index](../README.md).
+26 of 26 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -35,3 +35,4 @@
 | [ADR-023](../../../record/decisions.d/ADR-023.md) | motivation joins the topics | `motivation` joins the topic vocabulary for why organisms act and persist: intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and autonomous against controlled motives. It is the empirical counterpart of the philosophy of autonomy held under `agency`. Self-determination theory was the occasion. Rejected: filing it under `agency` and `social-science` alone. | Active |
 | [ADR-024](../../../record/decisions.d/ADR-024.md) | Agent, individual, self and person; four unities kept apart | The owner asked that agent, individual, self and person not be synonyms, and that behavioural integration, phenomenal unity, narrative unity and normative self-governance be represented separately. `self-and-personhood` is retired into `self` and `personhood`, beside `agency` and `individuation`. Four new words name the unities: `behavioral-integration`, `phenomenal-unity`, `narrative-unity` and `self-governance`. Forty-two documents were retagged, and twenty-one more took a unity word. Rejected: subtopics under one word, and a separate vocabulary for unities. | Active |
 | [ADR-025](../../../record/decisions.d/ADR-025.md) | Six topics for gaps the agency and self batches found | `well-being`, `learning-and-conditioning`, `psychometrics`, `philosophy-of-biology`, `embodied-cognition` and `free-will` join the topics. Each was a gap that filing agents reported from more than one batch, and each now has several works that had been placed under the nearest wrong word. Rejected: waiting for each gap to be named twice in separate decisions, and broadening `cognition`, `learning-theory` or `natural-sciences` to cover them. | Active |
+| [ADR-026](../../../record/decisions.d/ADR-026.md) | model-comparison and information-geometry join the topics | `model-comparison` (evidence, Bayes factors, Savage–Dickey, Occam factors, Bayesian model reduction, structure learning, singular free energy) and `information-geometry` (Fisher metric, natural gradient, curvature and its block structure, Fisher and Hessian spectra) join the topics. The owner's batch of readings on model comparison and Fisher geometry is held here, under [ADR-013](../../../record/decisions.d/ADR-013.md), as one line of inquiry. Its machine-learning works carry the `anthology-candidate` flag. Rejected: leaving both subjects to `probabilistic-modeling` and `learning-theory`. | Active |

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**271 document(s) awaiting a decision.**
+**279 document(s) awaiting a decision.**
 
 ## LITs
 
-209 of the 271.
+210 of the 279.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -38,13 +38,13 @@
 | 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 14 | 12 | Gelfand–Naimark–Segal construction (Wikipedia) |
 | 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 13 | 12 | The Conditional Entropy Bottleneck |
 | 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 13 | 11 | Hilbert Spaces and the Riesz Representation Theorem |
+| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 12 | 9 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-249](../../record/literature.d/LIT-249.md) | 12 | 1 | Provable Guarantees for Self-Supervised Deep Learning with Spectral Contrastive Loss |
 | 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 11 | 9 | Riesz representation theorem (Wikipedia) |
 | 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 10 | 8 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 10 | 2 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 10 | 6 | Distributional Semantics, Holism, and the Instability of Meaning |
 | 2026-09-26 | Deferred | [LIT-236](../../record/literature.d/LIT-236.md) | 10 | 9 | Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorithms |
-| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 10 | 9 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-250](../../record/literature.d/LIT-250.md) | 10 | 2 | Duality of Bures and Shape Distances with Implications for Comparing Neural Representations |
 | 2026-09-26 | Deferred | [LIT-201](../../record/literature.d/LIT-201.md) | 9 | 1 | Alternative formulations of multilevel selection |
 | 2026-09-26 | Deferred | [LIT-233](../../record/literature.d/LIT-233.md) | 9 | 8 | Data-Dependent Generalization Bounds via Variable-Size Compressibility |
@@ -79,6 +79,7 @@
 | 2026-09-26 | Deferred | [LIT-186](../../record/literature.d/LIT-186.md) | 3 | 2 | What is purely epistemic normativity, and why? A study in Wolfian epistemology |
 | 2026-09-26 | Deferred | [LIT-203](../../record/literature.d/LIT-203.md) | 3 | 2 | Conspiracy theorists are not the problem; Conspiracy liars are |
 | 2026-09-26 | Deferred | [LIT-214](../../record/literature.d/LIT-214.md) | 3 | 2 | Blunting concepts: The double-edged effect of popularizing psychotherapy language |
+| 2026-09-26 | Deferred | [LIT-238](../../record/literature.d/LIT-238.md) | 3 | 1 | Minimum Description Length Revisited |
 | 2026-09-26 | Deferred | [LIT-239](../../record/literature.d/LIT-239.md) | 3 | 2 | Kolmogorov's Structure Functions and Model Selection |
 | 2026-09-26 | Deferred | [LIT-244](../../record/literature.d/LIT-244.md) | 3 | 0 | Natural Kinds (Stanford Encyclopedia of Philosophy) |
 | 2026-09-26 | Deferred | [LIT-256](../../record/literature.d/LIT-256.md) | 3 | 0 | Mutual Information Neural Estimation |
@@ -87,7 +88,6 @@
 | 2026-09-26 | Deferred | [LIT-225](../../record/literature.d/LIT-225.md) | 2 | 1 | Minimum Description Length Induction, Bayesianism, and Kolmogorov Complexity |
 | 2026-09-26 | Deferred | [LIT-229](../../record/literature.d/LIT-229.md) | 2 | 1 | Meaningful Information |
 | 2026-09-26 | Deferred | [LIT-232](../../record/literature.d/LIT-232.md) | 2 | 1 | Knowledge Sheaves: A Sheaf-Theoretic Framework for Knowledge Graph Embedding |
-| 2026-09-26 | Deferred | [LIT-238](../../record/literature.d/LIT-238.md) | 2 | 1 | Minimum Description Length Revisited |
 | 2026-09-26 | Deferred | [LIT-261](../../record/literature.d/LIT-261.md) | 2 | 0 | A Generalized Representer Theorem |
 | 2026-09-26 | Deferred | [LIT-171](../../record/literature.d/LIT-171.md) | 1 | 1 | The epistemology of accurate credences |
 | 2026-09-26 | Deferred | [LIT-181](../../record/literature.d/LIT-181.md) | 1 | 1 | Knowledge is not always more valuable than mere true belief |
@@ -101,16 +101,16 @@
 | 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 11 | 9 | The contextual fraction as a measure of contextuality |
 | 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 10 | 9 | The Lattice Representation Hypothesis of Large Language Models |
 | 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 8 | 1 | Contextuality for preparations, transformations, and unsharp measurements |
+| 2026-09-29 | Deferred | [LIT-354](../../record/literature.d/LIT-354.md) | 18 | 4 | Algebraic Geometry and Statistical Learning Theory |
 | 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 17 | 17 | A topos foundation for theories of physics: IV. Categories of systems |
 | 2026-09-29 | Deferred | [LIT-328](../../record/literature.d/LIT-328.md) | 17 | 11 | Irreversibility and Heat Generation in the Computing Process |
 | 2026-09-29 | Deferred | [LIT-332](../../record/literature.d/LIT-332.md) | 9 | 9 | Facing up to arrangements: face-count formulas for partitions of space by hyperplanes |
 | 2026-09-29 | Deferred | [LIT-351](../../record/literature.d/LIT-351.md) | 9 | 9 | Detection, Estimation, and Modulation Theory, Part I |
 | 2026-09-29 | Deferred | [LIT-321](../../record/literature.d/LIT-321.md) | 8 | 8 | Local Quantum Physics: Fields, Particles, Algebras (2nd ed.) |
+| 2026-09-29 | Deferred | [LIT-349](../../record/literature.d/LIT-349.md) | 7 | 5 | Information and the Accuracy Attainable in the Estimation of Statistical Parameters |
 | 2026-09-29 | Deferred | [LIT-301](../../record/literature.d/LIT-301.md) | 6 | 4 | Every Thing Must Go: Metaphysics Naturalized |
 | 2026-09-29 | Deferred | [LIT-311](../../record/literature.d/LIT-311.md) | 6 | 6 | Mathematical Methods of Statistics |
 | 2026-09-29 | Deferred | [LIT-331](../../record/literature.d/LIT-331.md) | 5 | 5 | Zur Theorie der hyperkomplexen Zahlen |
-| 2026-09-29 | Deferred | [LIT-349](../../record/literature.d/LIT-349.md) | 5 | 5 | Information and the Accuracy Attainable in the Estimation of Statistical Parameters |
-| 2026-09-29 | Deferred | [LIT-354](../../record/literature.d/LIT-354.md) | 4 | 4 | Algebraic Geometry and Statistical Learning Theory |
 | 2026-09-29 | Deferred | [LIT-317](../../record/literature.d/LIT-317.md) | 3 | 3 | Communication in the Presence of Noise |
 | 2026-09-29 | Deferred | [LIT-318](../../record/literature.d/LIT-318.md) | 3 | 0 | The Concept of Mind |
 | 2026-09-29 | Deferred | [LIT-342](../../record/literature.d/LIT-342.md) | 3 | 3 | What is Structural Realism? |
@@ -215,6 +215,7 @@
 | 2026-10-03 | Deferred | [LIT-573](../../record/literature.d/LIT-573.md) | 5 | 0 | Self-Command in Practice, in Policy, and in a Theory of Rational Choice |
 | 2026-10-03 | Deferred | [LIT-593](../../record/literature.d/LIT-593.md) | 5 | 0 | Intention, Plans, and Practical Reason |
 | 2026-10-03 | Deferred | [LIT-597](../../record/literature.d/LIT-597.md) | 5 | 0 | Self-Constitution: Agency, Identity, and Integrity |
+| 2026-10-03 | Deferred | [LIT-610](../../record/literature.d/LIT-610.md) | 5 | 0 | The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters |
 | 2026-10-03 | Deferred | [LIT-575](../../record/literature.d/LIT-575.md) | 4 | 0 | Identification and Wholeheartedness |
 | 2026-10-03 | Deferred | [LIT-590](../../record/literature.d/LIT-590.md) | 4 | 0 | Structures of Agency: Essays |
 | 2026-10-03 | Deferred | [LIT-592](../../record/literature.d/LIT-592.md) | 4 | 0 | The Authentic Personality: A Theoretical and Empirical Conceptualization and the Development of the Authenticity Scale |
@@ -225,7 +226,7 @@
 
 ## THEORYs
 
-62 of the 271.
+69 of the 279.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -250,10 +251,10 @@
 | 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 28 | 0 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 23 | 9 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
 | 2026-09-30 | Proposed | [THEORY-037](../../record/theory.d/THEORY-037.md) | 13 | 13 | In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail |
-| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 6 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
+| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 10 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
+| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 3 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 2 | 2 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 2 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
-| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 2 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 1 | 1 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
 | 2026-09-30 | Proposed | [THEORY-034](../../record/theory.d/THEORY-034.md) | 1 | 1 | Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind |
 | 2026-09-30 | Proposed | [THEORY-038](../../record/theory.d/THEORY-038.md) | 1 | 1 | Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata |
@@ -267,6 +268,7 @@
 | 2026-10-03 | Proposed | [THEORY-044](../../record/theory.d/THEORY-044.md) | 15 | 0 | In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content |
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 14 | 0 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 12 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
+| 2026-10-03 | Proposed | [THEORY-073](../../record/theory.d/THEORY-073.md) | 11 | 0 | A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 10 | 0 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 9 | 0 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
 | 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 8 | 0 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
@@ -276,13 +278,16 @@
 | 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 7 | 0 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-061](../../record/theory.d/THEORY-061.md) | 7 | 0 | In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which |
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 7 | 0 | How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control |
-| 2026-10-03 | Proposed | [THEORY-073](../../record/theory.d/THEORY-073.md) | 7 | 0 | A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces |
+| 2026-10-03 | Proposed | [THEORY-078](../../record/theory.d/THEORY-078.md) | 7 | 0 | The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 6 | 0 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-062](../../record/theory.d/THEORY-062.md) | 6 | 0 | Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 6 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
+| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 6 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 5 | 0 | Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence |
 | 2026-10-03 | Proposed | [THEORY-048](../../record/theory.d/THEORY-048.md) | 4 | 0 | In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them |
 | 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 4 | 0 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
+| 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 4 | 0 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
+| 2026-10-03 | Proposed | [THEORY-084](../../record/theory.d/THEORY-084.md) | 4 | 0 | Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks |
 | 2026-10-03 | Proposed | [THEORY-046](../../record/theory.d/THEORY-046.md) | 3 | 0 | Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it |
 | 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 3 | 0 | Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-059](../../record/theory.d/THEORY-059.md) | 3 | 0 | The readiness potential does not show that a neural decision to act precedes awareness of the urge to act |
@@ -291,6 +296,9 @@
 | 2026-10-03 | Proposed | [THEORY-075](../../record/theory.d/THEORY-075.md) | 3 | 0 | Obligation is the reflective rejection of what would violate the agent's practical identity, and moral obligation follows only because valuing any practical identity commits the agent to valuing her humanity |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 2 | 0 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
 | 2026-10-03 | Proposed | [THEORY-077](../../record/theory.d/THEORY-077.md) | 2 | 0 | Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure |
+| 2026-10-03 | Proposed | [THEORY-079](../../record/theory.d/THEORY-079.md) | 2 | 0 | Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n |
+| 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 2 | 0 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
+| 2026-10-03 | Proposed | [THEORY-085](../../record/theory.d/THEORY-085.md) | 1 | 0 | A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
