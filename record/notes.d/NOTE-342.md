@@ -170,7 +170,7 @@ that fits in the universe.
 
 Putnam's appendix to *Representation and Reality* is the target, and
 Searle's "Is the brain a digital computer?" (1990) the secondary one.
-Block's "Psychologism and behaviorism" (1981; [LIT-tmpnnioj](../literature.d/LIT-tmpnnioj.md)) supplies the giant lookup
+Block's "Psychologism and behaviorism" (1981; [LIT-642](../literature.d/LIT-642.md)) supplies the giant lookup
 table that a recorder-equipped FSA resembles (§5). Maudlin's "Computation
 and consciousness" (1989) is flagged in a footnote as a challenge to the
 role of counterfactuals in experience, and set aside. Chalmers's own "On

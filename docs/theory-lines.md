@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-8 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+10 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -20,6 +20,26 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
   - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
 
+## cognition
+
+### From Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued
+
+- [THEORY-103](../record/theory.d/THEORY-103.md) — Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued *(Proposed)*
+  - [THEORY-098](../record/theory.d/THEORY-098.md) — The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex *(Proposed)*
+
+## consciousness
+
+### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
+
+- [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
+  - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
+  - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued
+
+- [THEORY-103](../record/theory.d/THEORY-103.md) — Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued *(Proposed)*
+  - [THEORY-098](../record/theory.d/THEORY-098.md) — The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex *(Proposed)*
+
 ## contextuality
 
 ### From An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
@@ -29,6 +49,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also extends THEORY-016
   - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also extends THEORY-016
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
+
+## emotion-and-affect
+
+### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
+
+- [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
+  - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
+  - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
 
 ## individuation
 
@@ -69,6 +97,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+## neuroscience
+
+### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
+
+- [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
+  - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
+  - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued
+
+- [THEORY-103](../record/theory.d/THEORY-103.md) — Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued *(Proposed)*
+  - [THEORY-098](../record/theory.d/THEORY-098.md) — The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex *(Proposed)*
 
 ## philosophy-of-science
 

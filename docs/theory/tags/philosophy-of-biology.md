@@ -6,7 +6,7 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-3 of 87 THEORY documents. Back to the [full index](../README.md).
+3 of 103 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

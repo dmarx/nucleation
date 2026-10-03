@@ -99,7 +99,7 @@ Conceptual analysis with inference to the best explanation. The data are the agr
 - **welfare subject**: "a being with a good of its own … for whom things can go better or worse" (§2).
 - **mattering to / having an interest**: what an entity differentially pursues or avoids through its self-maintaining activity. Distinguished from *being interested in*, which requires consciousness (§§3–5).
 - **sentience (affective consciousness)**: the capacity for positively or negatively valenced conscious experience (§3, §7.4).
-- **phenomenal consciousness**: there being something it is like to be the entity (Chalmers 2020; Block 1995, [LIT-tmpphpqu](../literature.d/LIT-tmpphpqu.md)) (§7.4).
+- **phenomenal consciousness**: there being something it is like to be the entity (Chalmers 2020; Block 1995, [LIT-643](../literature.d/LIT-643.md)) (§7.4).
 - **teleological organization sense of mattering**: conditions conduce to, or interfere with, an artefact's designed end: oil for engines, seasoning for cast iron, humidity for pianos (§3).
 - **autopoietic**: "sustains, maintains, and renews itself in a way that responds and adapts to its environmental conditions"; "produces itself on an ongoing basis where its productive activities are responsive to the challenges and opportunities presented by its situation" (§4). A looser notion than Maturana and Varela's; see corrections.
 - **showing up**: Maher's term for what an entity's behaviour singles out as worthy of response (§4).

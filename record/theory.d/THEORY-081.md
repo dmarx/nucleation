@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-03'
   note: >-
-    Dickey (1971), LIT-610, read in NOTE-tmpso23o, is added to source for
+    Dickey (1971), LIT-610, read in NOTE-508, is added to source for
     the point-mass clause. His theorem (Eqs. 3.8–3.9) is that clause for
     any likelihood continuous in the parameters, with the reduced prior's
     nuisance part set to the full prior's conditional at the null, and his
@@ -54,7 +54,7 @@ summary: >-
 - Friston, Parr & Zeidman (2018; v2 2019), [LIT-614](../literature.d/LIT-614.md), read in
   [NOTE-477](../notes.d/NOTE-477.md): Eqs. 8–10 (the identity for any new prior), Eqs. 11–12
   and Table 1 (closed forms).
-- Dickey (1971), [LIT-610](../literature.d/LIT-610.md), read in [NOTE-tmpso23o](../notes.d/NOTE-tmpso23o.md): §3, Eqs. 3.2–3.9 (the
+- Dickey (1971), [LIT-610](../literature.d/LIT-610.md), read in [NOTE-508](../notes.d/NOTE-508.md): §3, Eqs. 3.2–3.9 (the
   point-mass prior, the condition and the ratio).
 
 ## The claim, derived

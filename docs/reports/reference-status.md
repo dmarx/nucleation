@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 1906 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 2091 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -879,7 +879,7 @@ Information and the Accuracy Attainable in the Estimation of Statistical Paramet
 
 Computational Functionalism for the Deep Learning Era
 
-4 citations in 4 files await a look; 2 other citations of it are acknowledged.
+4 citations in 4 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
 - [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
@@ -956,7 +956,7 @@ The Theory of Signal Detectability. Part I: The General Theory; Part II: Applica
 
 Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 
-3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+3 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-009.md:35`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
@@ -1109,7 +1109,7 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 Better to be a Pig Dissatisfied than a Plant Satisfied
 
-2 citations in 2 files await a look; 8 other citations of it are acknowledged.
+2 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-387.md:89`](../../record/literature.d/LIT-387.md)
 - [`record/literature.d/LIT-388.md:131`](../../record/literature.d/LIT-388.md)
@@ -1235,7 +1235,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 145 other citations of it are acknowledged.
+2 citations in 1 file await a look; 148 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1532,7 +1532,7 @@ Gödel, Escher, Bach: an Eternal Golden Braid
 
 Consciousness Explained
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-016.md:60`](../../record/decisions.d/ADR-016.md)
 
@@ -1604,7 +1604,7 @@ Spectral contrastive loss (HaoChen et al.)
 
 Pattern formation outside of equilibrium
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
 
@@ -1683,7 +1683,7 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-- record/literature.d/LIT-406.md:66: annotation no longer applies — nothing in scope cites LIT-441
+- record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
 - record/notes.d/NOTE-347.md:33: annotation no longer applies — nothing in scope cites LIT-441
 - record/notes.d/NOTE-349.md:34: annotation no longer applies — nothing in scope cites LIT-413
 - record/notes.d/NOTE-357.md:37: annotation no longer applies — nothing in scope cites LIT-434, LIT-443

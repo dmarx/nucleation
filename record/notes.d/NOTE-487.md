@@ -132,7 +132,7 @@ had. Fit once; ask afterwards.
 
 - **Dickey (1971) ([LIT-610](../literature.d/LIT-610.md))** and Verdinelli & Wasserman (1995) are the
   cited sources of the ratio that Eq. 6 recovers. The record reads Dickey
-  in [NOTE-tmpso23o](NOTE-tmpso23o.md): his theorem (Eqs. 3.8–3.9) is the point-mass case of
+  in [NOTE-508](NOTE-508.md): his theorem (Eqs. 3.8–3.9) is the point-mass case of
   Eq. 3 with the reduced prior on the remaining parameters set to the full
   prior's conditional at the fixed value, and it is already general in the
   likelihood. So what Eq. 3 generalises is the reduced prior, not the

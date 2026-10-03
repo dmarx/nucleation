@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-53 of 487 NOTE documents. Back to the [full index](../README.md).
+54 of 511 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -61,3 +61,4 @@
 | [NOTE-482](../../../record/notes.d/NOTE-482.md) | Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2 | JumpReLU SAE: f(x) = z ⊙ H(z − θ), z = W_enc x + b_enc, x̂ = W_dec f + b_dec, loss ‖x − x̂‖² + λ‖f(x)‖₀, with θ trained by straight-through estimators (bandwidth ε = 0.001). Released on all layers and sublayers of Gemma 2 2B and 9B and three layers of 27B, at widths 2¹⁴–2²⁰. Evaluated by delta LM loss and FVU against L0. Residual SAEs cost the most loss; base-model SAEs transfer to the IT model; wider SAEs split latents. No agreed SAE quality metric exists. | Read |
 | [NOTE-483](../../../record/notes.d/NOTE-483.md) | Towards Understanding the Spectral Bias of Deep Learning | Theorem 4.2: n^(−1/2)‖V_(r_k)ᵀ(y − ŷ(T))‖ ≤ 2(1 − λ_(r_k))^T n^(−1/2)‖V_(r_k)ᵀy‖ + ε for any labels, given n ≥ Ω̃(ε^(−2) max{(λ_(r_k) − λ_(r_k+1))^(−2), M⁴r_k²}) and m ≥ Ω̃(poly(T, λ_(r_k)^(−1), ε^(−1))). Theorem 4.3: on uniform S^d the NTK's eigenfunctions are spherical harmonics, µ_k = 0 for odd k ≥ 3, and µ_k = Ω(max(k^(−d−1), d^(−k+1))) for even k. Experiments in R¹⁰ learn degrees 1, 2, 4 in that order, also on three non-uniform densities. | Read |
 | [NOTE-486](../../../record/notes.d/NOTE-486.md) | Optimizing Neural Networks with Kronecker-factored Approximate Curvature | Fisher blocks E[āāᵀ ⊗ ggᵀ] ≈ E[āāᵀ] ⊗ E[ggᵀ], with error a sum of third- and fourth-order cumulants; the inverse is approximated as block-diagonal or block-tridiagonal over layers. Factored Tikhonov damping (π chosen by trace norms), re-scaling by the exact Fisher, and a two-parameter momentum solved on the quadratic model. On three deep autoencoders it beats tuned NAG-SGD by orders of magnitude in iterations; block-tridiagonal gains 25–40% per iteration over block-diagonal. | Read |
+| [NOTE-506](../../../record/notes.d/NOTE-506.md) | Block — Psychologism and Behaviorism | A machine that stores every sensible conversation of a given length and looks up its next reply has the capacity to respond sensibly to anything said to it, so it meets the strongest behaviourist conception of intelligence, but its intelligence is its programmers'. So psychologism is true: whether behaviour is intelligent depends partly on how it is produced. The standard objections to behaviourism only ever refuted necessary conditions; this refutes the sufficient one. Psychologism does not require our kind of processing, only processing that is not of the most elementary sort. | Read |

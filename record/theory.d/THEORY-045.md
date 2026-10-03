@@ -48,8 +48,8 @@ summary: >-
   Proposed: both sources are theoretical syntheses, and neither tests the
   claim.
 extended_by:
-- THEORY-tmp8epx6
-- THEORY-tmp9vex7
+- THEORY-090
+- THEORY-093
 ---
 <!-- inactive-ok-file: LIT-386 LIT-387 — Deferred; named as the unread works that would extend this account to consciousness and to machines, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->

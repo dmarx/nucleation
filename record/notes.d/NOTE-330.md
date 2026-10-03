@@ -30,7 +30,7 @@ summary: >-
   and ion-permeable interoceptive axons, with ephaptic coupling, as the
   root of sentience) are hypotheses, and are presented as such.
 ---
-<!-- inactive-ok-file: THEORY-045 LIT-193 THEORY-tmp8epx6 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-045 LIT-193 THEORY-090 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 # NOTE-330: Damasio & Carvalho — The nature of feelings
 
@@ -180,8 +180,8 @@ The paper reports no data of its own. What it argues from:
   accounts agree (feeling is the experienced regulatory state of the body)
   and where they disagree (map or prediction; brainstem or agranular
   cortex). The narrower candidate, "feeling does not need the insula; the
-  upper brainstem suffices", now sits inside [THEORY-tmp8epx6](../theory.d/THEORY-tmp8epx6.md), where it is
-  sourced jointly with Newen & Montemayor ([LIT-tmp1gjg1](../literature.d/LIT-tmp1gjg1.md)); here it still
+  upper brainstem suffices", now sits inside [THEORY-090](../theory.d/THEORY-090.md), where it is
+  sourced jointly with Newen & Montemayor ([LIT-626](../literature.d/LIT-626.md)); here it still
   rests on one case report cited second-hand.
 - **No ML instruction.** The bioengineering framing of an action
   programme (stimulus, detector, executor, halting detector) is

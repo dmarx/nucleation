@@ -2,7 +2,7 @@
 
 # Lines of work
 
-32 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+36 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -98,6 +98,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-421](../record/literature.d/LIT-421.md) — Foreword *(Active)*
     - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also extends LIT-097
 
+### From Psychological Predicates
+
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Deferred)*
+  - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
+
 ### From A Framework for Representing Knowledge
 
 - [LIT-410](../record/literature.d/LIT-410.md) — A Framework for Representing Knowledge *(Active)*
@@ -130,6 +135,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
   - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
 
+### From Advertisement for a Semantics for Psychology
+
+- [LIT-648](../record/literature.d/LIT-648.md) — Advertisement for a Semantics for Psychology *(Active)*
+  - [LIT-625](../record/literature.d/LIT-625.md) — Functional Role and Truth Conditions *(Active)*
+
+### From On a confusion about a function of consciousness
+
+- [LIT-643](../record/literature.d/LIT-643.md) — On a confusion about a function of consciousness *(Active)*
+  - [LIT-629](../record/literature.d/LIT-629.md) — Two neural correlates of consciousness *(Active)*
+    - [LIT-646](../record/literature.d/LIT-646.md) — Consciousness, accessibility, and the mesh between psychology and neuroscience *(Active)*
+      - [LIT-637](../record/literature.d/LIT-637.md) — What Is Wrong with the No-Report Paradigm and How to Fix It *(Active)*
+      - [LIT-640](../record/literature.d/LIT-640.md) — Perceptual consciousness overflows cognitive access *(Active)*
+
 ## complex-systems
 
 ### From An Organizational Account of Biological Functions
@@ -144,6 +162,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## consciousness
 
+### From Psychological Predicates
+
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Deferred)*
+  - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
+
 ### From The Society of Mind
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
@@ -153,6 +176,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
+
+### From On a confusion about a function of consciousness
+
+- [LIT-643](../record/literature.d/LIT-643.md) — On a confusion about a function of consciousness *(Active)*
+  - [LIT-629](../record/literature.d/LIT-629.md) — Two neural correlates of consciousness *(Active)*
+    - [LIT-646](../record/literature.d/LIT-646.md) — Consciousness, accessibility, and the mesh between psychology and neuroscience *(Active)*
+      - [LIT-637](../record/literature.d/LIT-637.md) — What Is Wrong with the No-Report Paradigm and How to Fix It *(Active)*
+      - [LIT-640](../record/literature.d/LIT-640.md) — Perceptual consciousness overflows cognitive access *(Active)*
 
 ## contextuality
 
@@ -328,6 +359,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
 
+### From Psychological Predicates
+
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Deferred)*
+  - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
+
 ### From Being No One: The Self-Model Theory of Subjectivity
 
 - [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
@@ -347,7 +383,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters
 
-- [LIT-610](../record/literature.d/LIT-610.md) — The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters *(Deferred)*
+- [LIT-610](../record/literature.d/LIT-610.md) — The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters *(Active)*
   - [LIT-609](../record/literature.d/LIT-609.md) — Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method *(Active)*
   - [LIT-620](../record/literature.d/LIT-620.md) — Post hoc Bayesian model selection *(Active)*
     - [LIT-614](../record/literature.d/LIT-614.md) — Bayesian model reduction *(Active)*
@@ -450,6 +486,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
   - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
 
+### From Advertisement for a Semantics for Psychology
+
+- [LIT-648](../record/literature.d/LIT-648.md) — Advertisement for a Semantics for Psychology *(Active)*
+  - [LIT-625](../record/literature.d/LIT-625.md) — Functional Role and Truth Conditions *(Active)*
+
 ## philosophy-of-mathematics
 
 ### From Category-theoretic structure and radical ontic structural realism
@@ -489,7 +530,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters
 
-- [LIT-610](../record/literature.d/LIT-610.md) — The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters *(Deferred)*
+- [LIT-610](../record/literature.d/LIT-610.md) — The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters *(Active)*
   - [LIT-609](../record/literature.d/LIT-609.md) — Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method *(Active)*
   - [LIT-620](../record/literature.d/LIT-620.md) — Post hoc Bayesian model selection *(Active)*
     - [LIT-614](../record/literature.d/LIT-614.md) — Bayesian model reduction *(Active)*
@@ -668,3 +709,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
   - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
+
+## Sharing no `tags`
+
+### From Computing Machinery and Intelligence
+
+- [LIT-394](../record/literature.d/LIT-394.md) — Computing Machinery and Intelligence *(Active)*
+  - [LIT-642](../record/literature.d/LIT-642.md) — Psychologism and Behaviorism *(Active)* — also extends LIT-407
+- [LIT-407](../record/literature.d/LIT-407.md) — Troubles with Functionalism *(Active)*
+  - [LIT-634](../record/literature.d/LIT-634.md) — Inverted Earth *(Active)*
+    - [LIT-635](../record/literature.d/LIT-635.md) — Mental Paint *(Active)*
+  - [LIT-639](../record/literature.d/LIT-639.md) — The Harder Problem of Consciousness *(Active)*

@@ -23,11 +23,11 @@ history:
   date: '2026-10-03'
   note: >-
     Two sources added from the batch of Block's consciousness papers.
-    Block (2002), LIT-tmpm09re, argues that whether a superficial
+    Block (2002), LIT-639, argues that whether a superficial
     functional duplicate on a different physical basis is conscious is
     meta-inaccessible: we lack any conception of evidence that would
     settle it. That is a direct argument for the claim's evidential
-    half, for the idealised case. Block (2009), LIT-tmp7mbzj, states that
+    half, for the idealised case. Block (2009), LIT-632, states that
     the global workspace is a functionalist theory realisable in silicon
     and that the biological theory is the less friendly to machine
     consciousness, the rival premise the architectural half says the
@@ -44,8 +44,8 @@ source:
 - LIT-191
 - LIT-135
 - LIT-056
-- LIT-tmpm09re
-- LIT-tmp7mbzj
+- LIT-639
+- LIT-632
 summary: >-
   Birch (2025), [LIT-111](../literature.d/LIT-111.md): behavioural markers are "gamed", and architectural
   markers are "Janus-faced", giving a two-level deadlock. Schwitzgebel
@@ -55,9 +55,9 @@ summary: >-
   Butlin et al. ([LIT-056](../literature.d/LIT-056.md)) assume functionalism. The readings agree the
   question is currently unsettleable. They contest whether that is
   permanent and which way the prior leans. This says nothing about whether
-  any AI is conscious. Block (2002, LIT-tmpm09re) argues that for a
+  any AI is conscious. Block (2002, LIT-639) argues that for a
   perfect functional duplicate on another substrate we lack even a
-  conception of the evidence; Block (2009, LIT-tmp7mbzj) states the
+  conception of the evidence; Block (2009, LIT-632) states the
   biological premise from the other side.
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
@@ -70,8 +70,8 @@ summary: >-
 - Schwitzgebel (2025), *AI and Consciousness*, [LIT-191](../literature.d/LIT-191.md), chs. 6–10, as read in [NOTE-104](../notes.d/NOTE-104.md).
 - Seth (2024), *Conscious artificial intelligence and biological naturalism*, [LIT-135](../literature.d/LIT-135.md), §§3, 5, as read in [NOTE-169](../notes.d/NOTE-169.md).
 - Butlin et al. (2023), [LIT-056](../literature.d/LIT-056.md), §§1.2, 2, 3, as read in [NOTE-052](../notes.d/NOTE-052.md).
-- Block (2002), *The Harder Problem of Consciousness*, [LIT-tmpm09re](../literature.d/LIT-tmpm09re.md), §§IV–X and XIII, as read in [NOTE-tmph3w3u](../notes.d/NOTE-tmph3w3u.md).
-- Block (2009), *Comparing the Major Theories of Consciousness*, [LIT-tmp7mbzj](../literature.d/LIT-tmp7mbzj.md), the sections on the workspace, the biological theory and machine consciousness (pp. 1111–1113, 1119), as read in [NOTE-tmpqoajh](../notes.d/NOTE-tmpqoajh.md).
+- Block (2002), *The Harder Problem of Consciousness*, [LIT-639](../literature.d/LIT-639.md), §§IV–X and XIII, as read in [NOTE-501](../notes.d/NOTE-501.md).
+- Block (2009), *Comparing the Major Theories of Consciousness*, [LIT-632](../literature.d/LIT-632.md), the sections on the workspace, the biological theory and machine consciousness (pp. 1111–1113, 1119), as read in [NOTE-505](../notes.d/NOTE-505.md).
 
 ## What was actually shown
 
@@ -94,7 +94,7 @@ The claim is the record's synthesis across the four. Birch and Seth state its tw
 ## What Block adds
 
 **Why the evidence is missing, for the idealised case.** Block (2002),
-[LIT-tmpm09re](../literature.d/LIT-tmpm09re.md), imagines Commander Data, a "merely superficial" functional
+[LIT-639](../literature.d/LIT-639.md), imagines Commander Data, a "merely superficial" functional
 isomorph of us whose physical realizers share nothing with our brain
 mechanisms beyond what toasters share. Functional likeness is a reason to
 ascribe consciousness, but a defeasible one (C2). A fundamentally
@@ -124,7 +124,7 @@ open. That puts him among the readings below that contest which way the
 prior leans.
 
 **The disputed premise, stated by a partisan.** Block (2009),
-[LIT-tmp7mbzj](../literature.d/LIT-tmp7mbzj.md), says that the global workspace's "architectural aspects ...
+[LIT-632](../literature.d/LIT-632.md), says that the global workspace's "architectural aspects ...
 can just as easily be realized in silicon-based computers as in
 protoplasm", which makes it "a form of what philosophers call
 functionalism". On his biological theory, broadcasting is what

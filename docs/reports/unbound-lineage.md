@@ -9,8 +9,9 @@ A relation is an assertion that the documents it joins have something in common.
 
 **0 unbound relations.** Two documents joined directly, sharing nothing.
 
-**1 unbound line.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
+**2 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
 
 | Declared by | Field | Members |
 |---|---|---|
+| lineage | `tags` | [LIT-394](../../record/literature.d/LIT-394.md), [LIT-407](../../record/literature.d/LIT-407.md), [LIT-634](../../record/literature.d/LIT-634.md), [LIT-635](../../record/literature.d/LIT-635.md), [LIT-639](../../record/literature.d/LIT-639.md), [LIT-642](../../record/literature.d/LIT-642.md) |
 | theory | `tags` | [THEORY-002](../../record/theory.d/THEORY-002.md), [THEORY-004](../../record/theory.d/THEORY-004.md), [THEORY-008](../../record/theory.d/THEORY-008.md), [THEORY-017](../../record/theory.d/THEORY-017.md), [THEORY-018](../../record/theory.d/THEORY-018.md), [THEORY-019](../../record/theory.d/THEORY-019.md), [THEORY-084](../../record/theory.d/THEORY-084.md), [THEORY-086](../../record/theory.d/THEORY-086.md) |

@@ -6,7 +6,7 @@
 
 **Learning theory** — why learning generalizes — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection.
 
-16 of 87 THEORY documents. Back to the [full index](../README.md).
+16 of 103 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -49,7 +49,7 @@ If a state of hedonic valence motivates *because of* an intrinsic feel, then the
 
 ## Assumptions
 
-- **The two-paradigm taxonomy.** The Cartesian paradigm (Block 1995, [LIT-tmpphpqu](../literature.d/LIT-tmpphpqu.md), Chalmers 1996, Nagel 1974) holds that experiences have intrinsic, non-functional, irreducibly subjective feels (qualia). The post-Cartesian paradigm is qualia eliminativism or illusionism (Dennett 1988, 1991, 2005; Frankish 2017), on which experiences are functional states "fully characterized in terms of the causal role they play" (p. 18).
+- **The two-paradigm taxonomy.** The Cartesian paradigm (Block 1995, [LIT-643](../literature.d/LIT-643.md), Chalmers 1996, Nagel 1974) holds that experiences have intrinsic, non-functional, irreducibly subjective feels (qualia). The post-Cartesian paradigm is qualia eliminativism or illusionism (Dennett 1988, 1991, 2005; Frankish 2017), on which experiences are functional states "fully characterized in terms of the causal role they play" (p. 18).
 - **The causal premise (p. 18).** "anything that makes a causal difference is experimentally detectable and can be treated as a theoretical posit defined by its causal role". It follows that anything irreducibly subjective "will slip the net of evolutionary explanation". This is asserted, not argued.
 - **Introspection has no special authority.** Introspective reports are data, not insight into the nature of consciousness: "consciousness is what our best empirical theory of consciousness says it is" (p. 18).
 - **Philosophers' terms are not empirical concepts.** "Qualia", "phenomenal properties" and "phenomenal consciousness" were defined against function (Block 1995), so they cannot be revised the way empirical concepts can (p. 19).
