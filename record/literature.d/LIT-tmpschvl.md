@@ -32,6 +32,8 @@ summary: >-
   "Lockean organization" of temporally extended agency rather than from
   tracking the good, gives that role to self-governing policies, and
   proposes an intention-based theory.
+extended_by:
+- LIT-tmp5j4f4
 ---
 <!-- inactive-ok-file: LIT-tmpcand6 — Deferred, unread; named as the Frankfurt essay this one revisits, no relation declared -->
 <!-- inactive-ok-file: THEORY-029 — Proposed; named because its promote_when asks for this reading -->

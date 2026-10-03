@@ -57,6 +57,8 @@ summary: >-
   ego. The same recursion predicts the will's costs: legalism, circumscribed
   "lapse districts", motivated blindness to lapses, and rules that favour
   countable goals over subtle ones.
+rivals:
+- LIT-tmp5j4f4
 ---
 <!-- inactive-ok-file: LIT-tmpmhu3j THEORY-029 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
 
