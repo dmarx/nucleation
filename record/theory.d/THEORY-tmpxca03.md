@@ -44,9 +44,12 @@ summary: >-
   unaccessed, not that any is inaccessible.
 extended_by:
 - THEORY-tmpqebuj
+rivals:
+- THEORY-tmpiqxi6
 ---
 <!-- inactive-ok-file: THEORY-tmpqebuj THEORY-tmpcm6qf — Proposed; filed in the same batch and named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-tmpwyfwm — Proposed; named in Connections for contrast, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpiqxi6 — Proposed; the rival account, the relation declared on its file -->
 
 # THEORY-tmpxca03: Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued
 
@@ -119,7 +122,7 @@ retinal afterimage would, or could have been reduced by the same
 attentional and prefrontal manipulations that reduce working memory. It
 did neither.
 
-## The rival account, and why no relation is declared
+## The rival accounts
 
 The sparse or illusion view, that subjects mistake potential access for
 actual experience (Dehaene's "refrigerator light"), or a generic image
@@ -136,8 +139,14 @@ before the cue, has an answer that inference to the best explanation gives
 tell two hypotheses apart that the notion they share is empty, the move
 Block rejects by name. Neither is a theory, and Cohen and Dennett's
 "Consciousness cannot be separated from function" (2011), Block's main
-target in 2011, is not held. So no `rivals` relation is declared. If the
-record files the sparse view as a theory, it is this account's rival.
+target in 2011, is not held, so no `rivals` is declared against Dennett.
+
+The workspace side of the sparse view is now held as a theory:
+[THEORY-tmpiqxi6](THEORY-tmpiqxi6.md), from Mashour et al. ([LIT-tmp73h6j](../literature.d/LIT-tmp73h6j.md)), which takes global
+availability to be what is experienced and reads experience without access
+as untested. That is this account's rival, and the relation is declared on
+that file. The two agree on the capacity data and disagree on whether the
+unaccessed surplus is experienced, which is the premise each adopts.
 
 ## What this does not say
 

@@ -39,6 +39,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-148 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-128 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: THEORY-tmp772dt — Proposed; named as where the record now states the two-factor reply -->
 
 # NOTE-117: Drayson — What motivates mental fictionalism?
 
@@ -120,7 +121,7 @@ It carries nothing for ML practice, and there is no Anthology document it should
 - It evaluates motivations, not the position: coherence is assumed (n. 2), and fictionalism is not shown to be false.
 - The functionalist alternative is sketched in one paragraph (p. 7) by citation. That such whole-person functional states are causally efficacious "as a state of the brain" is asserted, not defended against exclusion-style arguments.
 - It engages only Toon 2023, and the page references are to that book; the argument's force against other mental fictionalists (e.g. Demeter, Wallace) is not assessed.
-- The P3 reply shows RTM is not *committed* to a mentalistic metasemantics, but it does not show that a socially grounded metasemantics for inner representations works; Block 1987 is named, not developed.
+- The P3 reply shows RTM is not *committed* to a mentalistic metasemantics, but it does not show that a socially grounded metasemantics for inner representations works; Block 1987 is named, not developed (the record now states it as [THEORY-tmp772dt](../theory.d/THEORY-tmp772dt.md)).
 - The positive-argument objection depends on reading Toon's "overall state" causally; Drayson notes Toon "sometimes suggests" a behavioural reading (p. 11), so the objection is a dilemma, not a refutation of a fixed position.
 - The preprint carries a residual "[reference removed for anonymous review]" (p. 12), presumably her Drayson 2022 chapter.
 

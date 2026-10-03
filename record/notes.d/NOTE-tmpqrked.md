@@ -33,6 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-387 — Deferred; named as the unread parallel statement of this essay, not leaned on -->
 <!-- inactive-ok-file: THEORY-045 THEORY-tmp8epx6 THEORY-tmpsf9qk — Proposed; named as the theories this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp9vex7 — Proposed; the theory filed from this reading, named as filed -->
 
 # NOTE-tmpqrked: Damasio & Damasio — Homeostatic feelings and the biology of consciousness
 
@@ -164,7 +165,7 @@ offered support:
   knowledge for overt regulation and does not say whether the earliest
   feelings override behaviour or weigh options, so it does not settle the
   rivalry with [THEORY-tmpsf9qk](../theory.d/THEORY-tmpsf9qk.md).
-- **A THEORY candidate.** Consciousness is supplied by homeostatic feeling:
+- **Filed as [THEORY-tmp9vex7](../theory.d/THEORY-tmp9vex7.md).** Consciousness is supplied by homeostatic feeling:
   contents are conscious when tagged as one's own by a continuous
   interoceptive feeling, and its loss follows the loss of brainstem
   integration of body signals. It would extend [THEORY-045](../theory.d/THEORY-045.md) from affect to

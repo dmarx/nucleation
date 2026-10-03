@@ -29,6 +29,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmprpyvx THEORY-023 — Proposed; named as theories this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpiqxi6 THEORY-tmpqebuj THEORY-tmpxca03 — Proposed; the theory filed from this reading and its rivals, named as filed -->
 
 # NOTE-tmpwskha: Mashour, Roelfsema, Changeux & Dehaene — Conscious Processing and the Global Neuronal Workspace Hypothesis
 
@@ -195,9 +196,10 @@ ignition.
 - **[THEORY-023](../theory.d/THEORY-023.md).** It states the workspace as a computational theory and
   ends by hoping it can be implemented in a device, which is the
   functionalist premise that theory says indicator approaches presuppose.
-- **A THEORY candidate.** Conscious access is global availability produced
-  by threshold ignition in a long-range hub network. Its rivals in the record
-  are Block's overflow and IIT.
+- **Filed as [THEORY-tmpiqxi6](../theory.d/THEORY-tmpiqxi6.md).** Conscious access is global availability
+  produced by threshold ignition in a long-range hub network. It rivals
+  Block's overflow ([THEORY-tmpxca03](../theory.d/THEORY-tmpxca03.md)) and sensory-basis ([THEORY-tmpqebuj](../theory.d/THEORY-tmpqebuj.md))
+  accounts.
 - **No ML instruction.** Nothing here belongs in the anthology.
 
 ## Limitations

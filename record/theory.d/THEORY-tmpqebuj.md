@@ -51,9 +51,12 @@ summary: >-
   Block calls evidence against prefrontalism while granting that ECoG could
   still support it. Proposed: an inference to the best explanation, with
   every experiment second-hand and the decisive test not yet run.
+rivals:
+- THEORY-tmpiqxi6
 ---
 <!-- inactive-ok-file: THEORY-tmpxca03 THEORY-tmpcm6qf — Proposed; filed in the same batch, the overflow account this one extends and the methodological account it relies on -->
 <!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmprpyvx — Proposed; named in Connections as data this account reads, no relation claimed -->
+<!-- inactive-ok-file: THEORY-tmpiqxi6 — Proposed; the rival account, the relation declared on its file -->
 
 # THEORY-tmpqebuj: The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex
 
@@ -166,6 +169,15 @@ for it, losing recurrent sensory coalitions. If overflow were shown to be
 an illusion, the mesh argument would lose its premise, and this account
 would rest on the 2005 and 2019 evidence alone. The two share the
 `consciousness` and `neuroscience` tags.
+
+## The rival account
+
+[THEORY-tmpiqxi6](THEORY-tmpiqxi6.md) (global availability by ignition, from Mashour et al.,
+[LIT-tmp73h6j](../literature.d/LIT-tmp73h6j.md)) puts prefrontal hubs inside the basis of conscious
+perception, and treats prefrontal coding of the percept without report
+as unconfounded. Block's 2019 paper ([LIT-tmpk0hon](../literature.d/LIT-tmpk0hon.md)) denies exactly that
+second step. The rivalry is declared on that file. Inconspicuous rivalry
+with intracranial prefrontal recording would bear on both.
 
 ## Connections
 
