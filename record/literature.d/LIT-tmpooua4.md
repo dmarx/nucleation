@@ -1,0 +1,170 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from Cambridge''s chapter record and opening extract, the record''s second-hand readings and an MIT lecture handout about the essay, not read. No lawful full text was found. The chapter is paywalled at Cambridge Core (the page shows only the opening paragraph). Unpaywall lists no open copy (oa_status closed). The author''s UNC faculty page posts no papers, and PhilPapers (WOLSAT) answered with a bot challenge, so I stopped there. The PDFs a web search turns up are an anthology reprint re-posted on an unrelated Squarespace site and Scribd and Course Hero uploads; none is the author''s, a publisher''s or an institutional repository''s, so none was opened. A person with library access to Schoeman (ed.), Responsibility, Character, and the Emotions (Cambridge UP, chapter 3, pp. 46–62, DOI 10.1017/CBO9780511625411.003), or to any reprint (it is widely anthologised, including in Watson''s Free Will), can supply the 17 pages; a reading of them would move this to Active and is the first-hand text the Reason View THEORY candidate needs.'
+title: 'Sanity and the Metaphysics of Responsibility'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered at the owner's request, unread, with "Asymmetrical Freedom"
+    (LIT-tmpbc48b) and Freedom Within Reason (LIT-tmp2u6df). Crossref
+    confirms title, author, the volume, pp. 46–62 and the DOI, with a full
+    date of 29 January 1988; Cambridge's chapter page gives "Print
+    publication year: 1988". The literature dates the essay 1987, as it does
+    Frankfurt's "Identification and Wholeheartedness" (LIT-575) in the same
+    volume; `published:` follows LIT-575 and carries the earliest full date
+    a source gives. Not held in the Anthology of the SOTA: a grep of its
+    record for "Susan Wolf", the title and the DOI found nothing.
+tags:
+- free-will
+- self-governance
+- ethics
+- agency
+date: '2026-10-03'
+published: '1988-01-29'
+doi: '10.1017/CBO9780511625411.003'
+url: 'https://www.cambridge.org/core/books/abs/responsibility-character-and-the-emotions/sanity-and-the-metaphysics-of-responsibility/D68E029683AF7B182FA45B7387AE813B'
+first_author: 'Wolf'
+keywords:
+- 'sanity'
+- 'deep self'
+- 'real self view'
+- 'JoJo'
+- 'normative competence'
+- 'moral responsibility'
+- 'Frankfurt'
+- 'Watson'
+- 'Taylor'
+implementations: []
+summary: >-
+  Wolf (1987/88), in Schoeman (ed.), Responsibility, Character, and the
+  Emotions (CUP), pp. 46–62. Unread. By second-hand reports it argues that
+  the "deep self" views of Frankfurt, Watson and Taylor, on which an agent
+  is responsible when her actions flow from desires and values she
+  identifies with, are insufficient. JoJo, raised by a vicious dictator,
+  identifies wholly with the values he inherits yet is not responsible,
+  because his upbringing leaves him unable to see right from wrong. What
+  must be added is sanity: the ability to know and appreciate what one is
+  doing and that it is right or wrong.
+extended_by:
+- LIT-tmp2u6df
+---
+
+<!-- inactive-ok-file: LIT-tmpbc48b LIT-tmp2u6df — Deferred, unread; Wolf's other two works, filed in the same batch -->
+<!-- inactive-ok-file: LIT-575 — Deferred, unread; Frankfurt's essay in the same volume, named as a deep-self statement this essay is reported to oppose, no relation declared -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 — Proposed; named as the accounts this essay bears on, nothing here rests on them -->
+
+# LIT-tmpooua4: Sanity and the Metaphysics of Responsibility
+
+Susan Wolf, "Sanity and the Metaphysics of Responsibility", in Ferdinand
+Schoeman (ed.), *Responsibility, Character, and the Emotions: New Essays in
+Moral Psychology*, Cambridge University Press, pp. 46–62 (chapter 3) —
+DOI-10.1017/CBO9780511625411.003. The date is discussed in the history
+note; it is the same first printing that other readings call 1987.
+
+## Key takeaways
+
+*Registered from second-hand sources, not a reading of the essay. Each
+point says who reports it. Nothing below is quoted from the essay except
+its opening paragraph, which Cambridge's chapter page shows as an extract.*
+
+- **The question.** The opening paragraph, as Cambridge shows it: in
+  everyday contexts "lawyers, judges, parents, and others" assume they know
+  the conditions of responsibility and ask only whether a person is "mature
+  enough, or informed enough, or sane enough to be responsible", or was
+  "acting under posthypnotic suggestion or under the influence of a
+  mind-impairing drug". The essay asks whether that assumption survives
+  the metaphysics.
+- **Deep-self views and JoJo.** Holton's lecture handout for MIT 24.211
+  (Free Will XIII, posted on his course page) reports that Wolf's
+  exemplars of the deep-self ("Real Self") view are Frankfurt, Watson and
+  Taylor. JoJo, son of a vicious dictator, inherits his father's power,
+  desires and values and identifies with them, and Wolf argues he is not
+  free, because his upbringing makes him unable to perceive what is just
+  and true. Freedom requires that the agent be able to act in accordance
+  with the demands of reason.
+- **The sanity condition.** By the same report, what the deep-self view
+  lacks is captured by sanity, a normative competence. Dryden's IEP entry
+  ([LIT-297](LIT-297.md), [NOTE-266](../notes.d/NOTE-266.md), §2.b) classes Wolf's normative-competence
+  condition as a strong substantive account of autonomy, against the
+  content-neutral hierarchical accounts. Buss and Westlund ([LIT-296](LIT-296.md),
+  [NOTE-267](../notes.d/NOTE-267.md), n. 4) list Wolf with Fischer and Ravizza among
+  reasons-responsive views and give her phrase "the True and the Good".
+- **Wolf's own worries.** Holton reports that the essay closes on two of
+  them: the view assumes a certain moral objectivity, and it seems to
+  collapse rationality too easily into truth.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as Wolf's critique of
+deep-self views and her statement of the sanity condition. It is moral
+philosophy with no instruction for machine-learning practice, so no
+anthology topic holds it.
+
+`Deferred` because no lawful copy could be read (see the status note).
+This entry gathers what lawful sources report and does not reconstruct the
+essay from them.
+
+**Why no relation is declared.** The owner asked for `rivals` or
+`corrects` where the text supports it, and by every report this essay
+opposes the deep-self views directly: it grants that identification is
+needed and denies that it is enough. That is a rivalry of accounts of
+responsibility in the sense of [ADR-022](../decisions.d/ADR-022.md). But the essay is reported to
+target Frankfurt's 1971 "Freedom of the Will and the Concept of a Person",
+Watson's 1975 "Free Agency" and Taylor's 1976 "Responsibility for Self",
+and the record holds none of them. Its Frankfurt holdings are the 1987
+essay "Identification and Wholeheartedness" in this same volume
+([LIT-575](LIT-575.md)), unread, and the 2004 Tanner Lectures ([LIT-293](LIT-293.md)), on love
+and caring rather than responsibility. I could not check whether this essay
+discusses either, so declaring `rivals` on reputation would be a relation
+nobody verified. **A reader of this essay should declare `rivals`
+[LIT-575](LIT-575.md) if the essay's objection reaches Frankfurt's wholeheartedness**,
+which JoJo, who is wholehearted, suggests it does; and it is the natural
+relation for Frankfurt 1971 or Watson 1975 if either is ever filed.
+
+**How it bears on the record's theories.**
+
+- **[THEORY-029](../theory.d/THEORY-029.md)** holds that no higher-order attitude makes a motive
+  one's own by its order alone. Wolf's objection is a different one: grant
+  that JoJo's motives are his own, wholeheartedly, and he is still not
+  responsible. The regress asks what makes an attitude the agent's; JoJo
+  asks whether being the agent's is enough. An account could answer the
+  regress and still fail JoJo.
+- **[THEORY-040](../theory.d/THEORY-040.md)** holds that a structural condition is met by a
+  manipulated agent. JoJo is not manipulated in the hypnotist's sense, but
+  his values were installed by his upbringing, and Wolf is reported to
+  locate the defect not in that history but in a present incapacity, the
+  inability to see right from wrong. That is a structural condition with
+  an external anchor, which is why McKenna and Coates ([LIT-291](LIT-291.md), §4.3)
+  place the Reason View at Frankfurt's crossroads too: a manipulator who
+  leaves normative competence intact produces an agent Wolf must count
+  responsible.
+- **[THEORY-054](../theory.d/THEORY-054.md)** places autonomy in integration, content-neutrally.
+  JoJo, fully integrated, is the case on which the two diverge, though
+  [THEORY-054](../theory.d/THEORY-054.md) is about autonomy and Wolf about responsibility, so they
+  are not yet rivals.
+
+**Its neighbours.** Wolf's "Asymmetrical Freedom" ([LIT-tmpbc48b](LIT-tmpbc48b.md)) is
+the earlier statement of the Reason View, and *Freedom Within Reason*
+([LIT-tmp2u6df](LIT-tmp2u6df.md)) develops both; its second chapter is the Real Self View.
+The same Schoeman volume holds Fischer's "Responsiveness and Moral
+Responsibility" (pp. 81–106), the reasons-responsiveness account usually
+set beside this one. It is not filed: it too is paywalled with no open
+copy.
+
+**Priority for a reading: high.** It is 17 pages, the source of the JoJo
+case, and the record's only path to a first-hand statement of a
+substantive condition on responsibility.
+
+Access when seeded:
+
+- Crossref record (pp. 46–62, ISBNs 9780521327206, 9780521339513,
+  9780511625411; 29 January 1988).
+- Cambridge Core chapter page: the opening paragraph as a summary, the rest
+  behind purchase or institutional access; "Print publication year: 1988".
+- Unpaywall: no open-access location.
+- Richard Holton, "24.211 Metaphysics; Free Will XIII", a one-page lecture
+  handout on his MIT course page
+  (https://web.mit.edu/holton/www/courses/freewill/lecture13.pdf), read in
+  full. It is about the essay and the book, not a copy of either.
