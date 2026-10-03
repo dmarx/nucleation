@@ -1,0 +1,127 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpxaqo4](../notes.d/NOTE-tmpxaqo4.md)); worth reading as the record''s worked example of structure learning in an active-inference agent: "model expansion" by spare hidden-state slots whose flat likelihoods win inference only for a truly novel stimulus, and "model reduction" by applying Bayesian model reduction to the agent''s learned prior over states, so that unused slots are reset. It is a proof of concept with eight animals and six features. Reduction recovered the true number of concepts in 45–80% of 100 runs for 4–7 concepts, failed for 2–3, and succeeded every time only when the likelihood mapping was given rather than learned.'
+title: 'An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the open-access PDF at Frontiers (CC BY), 24 pages,
+    including the supplementary-material pointer but not the Matlab
+    script itself. Crossref confirms the title, the four authors (Ryan
+    Smith, Philipp Schwartenbeck, Thomas Parr, Karl J. Friston), Frontiers
+    in Computational Neuroscience 14:41 and 19 May 2020. A bioRxiv
+    preprint (2019) exists and was not read. Not held in the Anthology of
+    the SOTA: a grep of its record for "Friston", "structure learning" and
+    the DOI found nothing.
+tags:
+- model-comparison
+- cognition
+- neuroscience
+- probabilistic-modeling
+date: '2026-10-03'
+published: '2020-05-19'
+doi: '10.3389/fncom.2020.00041'
+first_author: 'Smith'
+keywords:
+- 'Bayesian model expansion'
+- 'Bayesian model reduction'
+- 'structure learning'
+- 'concepts'
+- 'concept learning'
+- 'computational neuroscience'
+- 'active inference'
+implementations:
+- 'SPM DEM toolbox (spm_MDP_VB_X.m); Concepts_model.m in the supplementary material'
+extends:
+- LIT-tmpbgf7s
+summary: >-
+  Smith, Schwartenbeck, Parr & Friston (2020), Front. Comput. Neurosci.
+  14:41. A partially observed Markov decision process with eight animal
+  "slots", some starting with flat likelihoods, learns new concepts
+  without feedback: a slot is engaged only when its flat mapping explains
+  a feature combination better than any learned concept. Bayesian model
+  reduction on the learned prior over states then resets slots the data
+  did not need. In 100 runs per condition the true number of concepts won
+  in 45–80% of runs for 4–7 concepts and rarely for 2–3, and in every run
+  when the likelihood was given. The agent also generalises to an unseen
+  animal in one shot, and the paper simulates neural and dopaminergic
+  responses.
+---
+
+# LIT-tmpesz2r: An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case
+
+Ryan Smith, Philipp Schwartenbeck, Thomas Parr and Karl J. Friston (2020),
+*Frontiers in Computational Neuroscience* 14:41 — DOI-10.3389/fncom.2020.00041
+
+**Citation verified.** The brief gave Smith, Schwartenbeck, Parr & Friston
+(2020) in Frontiers in Computational Neuroscience. That is correct in
+every particular, and it is open access.
+
+**Is this the paper the owner meant?** The owner's shorthand was "Smith,
+Friston et al." on adding and removing latent factors by evidence. This is
+the paper with Smith first and Friston last that does both: latent states
+are added by engaging spare slots and removed by Bayesian model reduction.
+One qualification: what it adds and removes are *levels* of a single
+hidden-state factor (animal concepts), not whole factors, and expansion is
+done by inference into pre-allocated slots, not by comparing evidence. The
+nearest paper that grows and prunes structure by evidence more generally is
+Friston et al., *Supervised structure learning* (arXiv 2311.10300, 2023).
+Smith is not among its thirteen authors, so it does not fit "Smith,
+Friston et al.". I filed this one and name the other only as a candidate,
+unread.
+
+## Key takeaways
+
+- **Expansion as inference into spare capacity.** Give the generative model
+  more hidden-state levels than it needs, with near-flat likelihood
+  columns. A novel feature pattern is better explained by a flat column
+  than by any learned concept, so the agent infers the "empty" state and
+  Dirichlet learning fills it in. Familiar animals never engage the spare
+  slot: across 80 trials of known animals, then 20 of a new one, the slot
+  stayed unused until the new animal appeared.
+- **Reduction as Bayesian model reduction on D.** After learning, the agent
+  compares its posterior Dirichlet counts over initial states with reduced
+  priors that drop subsets of concepts, using the Dirichlet BMR formula
+  (Fig. 2), and resets the slots the winner drops.
+- **It works when few concepts must go, and fails when many must.** Over
+  100 runs per condition the true count won 56/100 for 7 animals, 69 for 6,
+  80 for 5 and 45 for 4. For 3 animals it won 0 (a 2-concept model won 89),
+  and for 2 animals 0. With the true likelihood mapping given and only D
+  learned, reduction was right in 100% of runs. The authors attribute the
+  failures to imperfect likelihood learning.
+- **Basic before subordinate.** Starting from "bird vs fish", the agent
+  reached 93–98% accuracy on eight specific animals in seven of eight runs.
+  Starting from nothing, it averaged 81.21% (SD 6.39). Learning the coarse
+  categories first helped.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, in the model-comparison batch.
+No anthology topic holds it: it is a model of human concept learning and
+its neural basis, explicitly positioned against cognitive-science models
+(SUSTAIN, ART, ALCOVE, the rational model), and it carries no instruction
+for machine-learning practice.
+
+It extends Bayesian model reduction ([LIT-tmpbgf7s](LIT-tmpbgf7s.md)). It cites that paper for
+post hoc model optimisation, and it applies the paper's Dirichlet reduction
+to a new target, the agent's prior over which hidden states exist, as the
+"reduction" half of a structure-learning scheme. Its description of BMR as
+"a generalization of … the use of the Savage Dickie ratio" is the same
+claim Friston & Penny ([LIT-tmpuhjzx](LIT-tmpuhjzx.md)) derive. Its citation for that, Cornish
+& Littenberg (2007), is a gravitational-wave data-analysis paper and an odd
+source for the point. The record's statement of the ratio is Wagenmakers et
+al. ([LIT-tmp2suxj](LIT-tmp2suxj.md)).
+
+Within the record's free-energy holdings, it is the first that is about
+*learning the structure* of a generative model, not inferring states or
+planning in a fixed one. *Sophisticated Inference* ([LIT-577](LIT-577.md)) uses the same
+MDP formalism with given A, B, C and D matrices. The critique Raja et al.
+([LIT-598](LIT-598.md)) make of such models, that perception and action are presupposed
+in the generative model handed to the agent, applies here too, in a
+specific form: the number of slots, the feature dimensions, and the
+two-time-point trial structure are all given. The paper says so itself (its
+open questions) and names learning them as future work. For cognition, it
+offers a formal model of category formation that a reader of that topic
+would expect to find, at proof-of-concept scale.

@@ -1,0 +1,118 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpy47cf](../notes.d/NOTE-tmpy47cf.md)); worth reading as the source of Bayesian model reduction: if a set of models differ from a full model only in their priors, the evidence of each is the full model''s evidence times the posterior expectation of the prior ratio (Eq. 3), so one inversion scores them all. Under Gaussian (Laplace) posteriors the reduced free energy is closed-form (Eq. 9). The Savage–Dickey ratio is the point-mass special case (Eq. 6), and ARD and model selection are the same evidence maximisation over prior hyperparameters. The demonstrations are simulations, and whether the reduced free energy of a nonlinear model is a good proxy for the free energy of the reduced model is left open by the authors.'
+title: 'Post hoc Bayesian model selection'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the author manuscript in PubMed Central
+    (PMC3112494, Europe PMC full-text XML), the copy Unpaywall lists as
+    the lawful repository version. The displayed equations come through
+    as linearised MathML; Eq. 9 was read in that form and checked against
+    Table 1 and Eq. 11 of Bayesian model reduction (LIT-tmpbgf7s), which
+    restates it. Crossref confirms the title, the authors (Karl Friston,
+    Will Penny), NeuroImage 56(4):2089–2099 and the DOI, but gives only
+    June 2011; `published:` is 15 June 2011, the issue date the PMC record
+    gives. Not held in the Anthology of the SOTA: a grep of its record for
+    "Friston", "Bayesian model reduction", "post hoc" and the DOI found
+    nothing.
+tags:
+- model-comparison
+- probabilistic-modeling
+- neuroscience
+date: '2026-10-03'
+published: '2011-06-15'
+doi: '10.1016/j.neuroimage.2011.03.062'
+url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3112494/'
+first_author: 'Friston'
+keywords:
+- 'Bayesian model evidence'
+- 'model selection'
+- 'automatic relevance determination'
+- 'Savage–Dickey density ratio'
+- 'hyperparameters'
+- 'reduced free energy'
+- 'variational Laplace'
+- 'dynamic causal modelling'
+implementations:
+- 'SPM8 (spm_dcm_post_hoc, spm_dcm_search, spm_dcm_optimise)'
+extends:
+- LIT-tmp6vz5e
+summary: >-
+  Friston & Penny (2011), NeuroImage 56(4):2089–2099. If every model of
+  interest is a full model with a different prior and the same
+  likelihood, the evidence of any reduced model is p(y|m_F) times the
+  full posterior expectation of p(θ|m_i)/p(θ|m_F) (Eq. 3). So the
+  reduced models never have to be fitted. A point-mass reduced prior
+  gives the Savage–Dickey ratio (Eq. 6). Under Gaussian priors and
+  posteriors the reduced free energy and posterior are closed-form in
+  the full model's means and precisions (Eq. 9). In simulations an
+  exhaustive search over 4,096 linear models finds the four true
+  regressors, and 64 network models find the true three-connection
+  graph.
+extended_by:
+- LIT-tmpbgf7s
+---
+
+<!-- inactive-ok-file: LIT-tmp6vz5e — Deferred: Dickey 1971 is unread; the extends relation rests on this paper's own Eq. 6 and its citation of Dickey -->
+<!-- inactive-ok-file: THEORY-073 — Proposed; named only to say this paper bears on no Markov-blanket claim -->
+
+# LIT-tmpuhjzx: Post hoc Bayesian model selection
+
+Karl Friston and Will Penny (2011), *NeuroImage* 56(4):2089–2099 — DOI-10.1016/j.neuroimage.2011.03.062
+
+## Key takeaways
+
+- **One fit scores every reduced model.** Define a model space by priors on
+  one shared likelihood, each reduced model's prior support inside the full
+  model's. Then p(y|m_i) = p(y|m_F) ∫ p(θ|y, m_F) p(θ|m_i)/p(θ|m_F) dθ
+  (Eq. 3), and the reduced posterior is the full posterior reweighted by
+  the same prior ratio (Eq. 4). Only the parameters whose priors change need
+  integrating (Eq. 5).
+- **Savage–Dickey is the point-mass case.** When the reduced prior fixes a
+  subset at a value, Eq. 5 becomes the posterior-to-prior density ratio at
+  that value (Eq. 6).
+- **Closed form under Laplace.** With Gaussian prior N(η, Π⁻¹) and posterior
+  N(μ, P⁻¹), the reduced posterior precision is P_i = P_F + Π_i − Π_F, its
+  mean is C_i(P_Fμ_F + Π_iη_i − Π_Fη_F), and the reduced free energy is a
+  log-determinant term plus quadratic forms plus F_F (Eq. 9). A parameter
+  "removed" by shrinking its prior variance to zero stops contributing.
+- **Selection and optimisation are one operation.** Choosing which
+  parameters to switch off and tuning prior variances (ARD), empirical
+  Bayes, ReML, MAP and ML are all maximisation of evidence over the
+  hyperparameters of the prior (Eq. 13, Table 1). With no constraint on the
+  prior, the optimum collapses to a point mass at the maximum-likelihood
+  value.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, in the model-comparison batch.
+No anthology topic holds it. It is a statistical method presented through
+neuroimaging (dynamic causal models of brain networks), and it carries no
+instruction for machine-learning practice.
+
+It is the founding paper of Bayesian model reduction. It extends Dickey
+([LIT-tmp6vz5e](LIT-tmp6vz5e.md)) in the strict sense: its Eq. 6 recovers the Savage–Dickey
+ratio, which it cites to Dickey (1971) and Verdinelli & Wasserman (1995),
+as the point-mass limit of its own Eq. 5, and the rest of the paper is what
+the general identity buys beyond that limit. The record's statement of the
+ratio is Wagenmakers et al. ([LIT-tmp2suxj](LIT-tmp2suxj.md)). Their Eq. 12 and this paper's
+Eq. 6 are the same identity reached from opposite ends: they condition on
+a nuisance prior continuous at the null, while this paper assumes a shared
+likelihood and nested prior supports.
+
+The review that extends it, Friston, Parr & Zeidman's *Bayesian model
+reduction* ([LIT-tmpbgf7s](LIT-tmpbgf7s.md)), adds the Dirichlet, beta, gamma and multinomial
+forms. Those are what let BMR prune discrete generative models, as Smith
+et al. ([LIT-tmpesz2r](LIT-tmpesz2r.md)) do for concept learning.
+
+For the record's free-energy holdings: the "free energy" here is the
+variational bound on log evidence of Eq. 7, accuracy minus complexity. It
+is the same functional as in Friston's *Life as we know it* ([LIT-526](LIT-526.md)), and
+there too it is variational, not thermodynamic. What this paper adds to
+the record's reading of the free-energy literature is the statistical use
+of that bound, comparing models, which the record had not held. Nothing in
+it bears on the Markov-blanket critiques ([THEORY-066](../theory.d/THEORY-066.md), [THEORY-073](../theory.d/THEORY-073.md)): no
+blanket appears.

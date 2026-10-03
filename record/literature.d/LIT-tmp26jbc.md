@@ -106,7 +106,7 @@ information is degenerate at the true parameter. The anthology's reading of
 Murfet et al. ([ANTH-LIT-541](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-541.md)) dates that knowledge to "Amari et al. (2003)
 and Watanabe (2007)". So the efficiency result in this paper is stated for
 the regular case, and the models it is about are, by Amari's own later work,
-not regular. The shorter Watanabe statement being filed alongside this batch
+not regular. The shorter Watanabe statement filed alongside this batch (WBIC, [LIT-tmpmsuf3](LIT-tmpmsuf3.md))
 is where the record should look for what replaces the Cramér–Rao bound when
 G is singular. My own observation, not the paper's: the multilayer Fisher
 blocks it writes down already show where that happens, since the wᵢ block
