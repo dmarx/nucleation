@@ -27,8 +27,6 @@ summary: >-
   null of no group difference.
 ---
 
-<!-- inactive-ok-file: LIT-610 — Deferred: Dickey 1971 is unread; named as the source of the ratio, which this reading takes from this paper's account -->
-
 # NOTE-484: Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey method
 
 ## Contribution
@@ -120,8 +118,12 @@ is half of the answer.
 
 - **Dickey (1971) ([LIT-610](../literature.d/LIT-610.md)).** The paper names its source chain:
   Dickey & Lientz (1970) first published the result and attributed it to
-  Savage, and Dickey (1971) is cited for the name. The record holds Dickey
-  1971 unread, so this tutorial is its reading of the ratio.
+  Savage, and Dickey (1971) is cited for the name. The record has since
+  read Dickey 1971 ([NOTE-tmpso23o](NOTE-tmpso23o.md)), and this account matches it: Dickey
+  calls the result "Savage's Density Ratio", credits the proof to Dickey
+  and Lientz, and states it for any continuous likelihood. The continuity
+  condition of Appendix A is his condition (3.8), which he too writes as a
+  limit when he applies it.
 - **Verdinelli & Wasserman (1995)** is cited as a generalisation for when
   the continuity condition fails. The record does not hold it. Friston &
   Penny ([LIT-620](../literature.d/LIT-620.md)) cite it too.

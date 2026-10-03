@@ -17,7 +17,22 @@ promote_when: >-
   another credence assigned under an assumed theory, cannot settle it,
   because both are conditional on the premise in dispute.
 title: 'Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    Two sources added from the batch of Block's consciousness papers.
+    Block (2002), LIT-tmpm09re, argues that whether a superficial
+    functional duplicate on a different physical basis is conscious is
+    meta-inaccessible: we lack any conception of evidence that would
+    settle it. That is a direct argument for the claim's evidential
+    half, for the idealised case. Block (2009), LIT-tmp7mbzj, states that
+    the global workspace is a functionalist theory realisable in silicon
+    and that the biological theory is the less friendly to machine
+    consciousness, the rival premise the architectural half says the
+    evidence cannot decide. A section on what they add is new. The claim
+    itself is unchanged.
 tags:
 - consciousness
 - philosophy-of-science
@@ -29,6 +44,8 @@ source:
 - LIT-191
 - LIT-135
 - LIT-056
+- LIT-tmpm09re
+- LIT-tmp7mbzj
 summary: >-
   Birch (2025), [LIT-111](../literature.d/LIT-111.md): behavioural markers are "gamed", and architectural
   markers are "Janus-faced", giving a two-level deadlock. Schwitzgebel
@@ -38,7 +55,10 @@ summary: >-
   Butlin et al. ([LIT-056](../literature.d/LIT-056.md)) assume functionalism. The readings agree the
   question is currently unsettleable. They contest whether that is
   permanent and which way the prior leans. This says nothing about whether
-  any AI is conscious.
+  any AI is conscious. Block (2002, LIT-tmpm09re) argues that for a
+  perfect functional duplicate on another substrate we lack even a
+  conception of the evidence; Block (2009, LIT-tmp7mbzj) states the
+  biological premise from the other side.
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
@@ -50,6 +70,8 @@ summary: >-
 - Schwitzgebel (2025), *AI and Consciousness*, [LIT-191](../literature.d/LIT-191.md), chs. 6–10, as read in [NOTE-104](../notes.d/NOTE-104.md).
 - Seth (2024), *Conscious artificial intelligence and biological naturalism*, [LIT-135](../literature.d/LIT-135.md), §§3, 5, as read in [NOTE-169](../notes.d/NOTE-169.md).
 - Butlin et al. (2023), [LIT-056](../literature.d/LIT-056.md), §§1.2, 2, 3, as read in [NOTE-052](../notes.d/NOTE-052.md).
+- Block (2002), *The Harder Problem of Consciousness*, [LIT-tmpm09re](../literature.d/LIT-tmpm09re.md), §§IV–X and XIII, as read in [NOTE-tmph3w3u](../notes.d/NOTE-tmph3w3u.md).
+- Block (2009), *Comparing the Major Theories of Consciousness*, [LIT-tmp7mbzj](../literature.d/LIT-tmp7mbzj.md), the sections on the workspace, the biological theory and machine consciousness (pp. 1111–1113, 1119), as read in [NOTE-tmpqoajh](../notes.d/NOTE-tmpqoajh.md).
 
 ## What was actually shown
 
@@ -68,6 +90,57 @@ summary: >-
 - Schwitzgebel adds that global workspace, higher-order and recurrence theories face *minimal instantiation*: trivial machines meet their minimal criteria (ch. 8). All of them rest on a narrow vertebrate evidence base (ch. 9).
 
 The claim is the record's synthesis across the four. Birch and Seth state its two halves most directly, and [NOTE-169](../notes.d/NOTE-169.md) records that Birch's Janus sceptic "is Seth's position in effect".
+
+## What Block adds
+
+**Why the evidence is missing, for the idealised case.** Block (2002),
+[LIT-tmpm09re](../literature.d/LIT-tmpm09re.md), imagines Commander Data, a "merely superficial" functional
+isomorph of us whose physical realizers share nothing with our brain
+mechanisms beyond what toasters share. Functional likeness is a reason to
+ascribe consciousness, but a defeasible one (C2). A fundamentally
+different physical basis is a reason to doubt it, but one that "falls
+below the epistemic level of a ground for rational belief" (C3). And
+(C4): "We have no conception of a ground of rational belief to the effect
+that a realization of our superficial functional organization that is
+physically fundamentally different ... is or is not conscious." His
+consciousness is *meta-inaccessible*: "Not only do we lack a ground of
+belief, but we lack a conception of any ground of belief." That is this
+account's evidential half in its strongest form. The two sides lack the
+evidence, and also any agreed idea of what would count as evidence. Block
+also shows why shared laws would not break the tie. Whether Stevens's
+power law is "a law of consciousness or a law of the human realization of
+consciousness" is "of a piece with" whether Data is conscious: "We cannot
+settle one without the other" (§X). That is the Janus problem of Birch
+([LIT-111](../literature.d/LIT-111.md)) for laws rather than architectures.
+
+Three limits keep this from being more than a source for the evidential
+half. Block calls meta-inaccessibility "a premise rather than a lemma or
+a conclusion". The argument is conditional on naturalism and phenomenal
+realism, and a deflationist may run it backwards. Data is stipulated to be
+a functional duplicate, not a mimic trained on our output, so the paper
+gives no support to the mimicry clause. And Block holds that it is "the
+subjective default" that Data is not conscious while the question stays
+open. That puts him among the readings below that contest which way the
+prior leans.
+
+**The disputed premise, stated by a partisan.** Block (2009),
+[LIT-tmp7mbzj](../literature.d/LIT-tmp7mbzj.md), says that the global workspace's "architectural aspects ...
+can just as easily be realized in silicon-based computers as in
+protoplasm", which makes it "a form of what philosophers call
+functionalism". On his biological theory, broadcasting is what
+consciousness does, not what it is. Only "machines that have the right
+biology can have consciousness" on that theory. The
+electrical–chemical–electrical transfer of neural coding "may well be"
+necessary, a possibility "it would be foolish to discount ... without evidence". This is the
+architecture half of the claim from the other side. Butlin et al.'s
+workspace indicators ([LIT-056](../literature.d/LIT-056.md)) are evidence only on the premise Block
+rejects, and Block names no result that would show the chemical step
+matters or does not. He also notes that "there is a real empirical
+difference among the views that each side seems to think favors its own
+view", which is the two-level deadlock in his words. The chapter favours
+the biological theory ("it is hard to avoid the impression that the
+biology of the brain is what matters"), so it is a source for the shape
+of the dispute and not for its answer.
 
 ## What this does not say
 

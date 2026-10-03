@@ -27,8 +27,6 @@ summary: >-
   and a three-edge brain network (64 models).
 ---
 
-<!-- inactive-ok-file: LIT-610 — Deferred: Dickey 1971 is unread; named as the source this paper cites for the ratio its Eq. 6 recovers -->
-
 # NOTE-487: Post hoc Bayesian model selection
 
 ## Contribution
@@ -133,9 +131,13 @@ had. Fit once; ask afterwards.
 ## Connections
 
 - **Dickey (1971) ([LIT-610](../literature.d/LIT-610.md))** and Verdinelli & Wasserman (1995) are the
-  cited sources of the ratio that Eq. 6 recovers. The record's reading of
-  that ratio is Wagenmakers et al. ([LIT-609](../literature.d/LIT-609.md)). This paper does not cite
-  Wagenmakers et al.
+  cited sources of the ratio that Eq. 6 recovers. The record reads Dickey
+  in [NOTE-tmpso23o](NOTE-tmpso23o.md): his theorem (Eqs. 3.8–3.9) is the point-mass case of
+  Eq. 3 with the reduced prior on the remaining parameters set to the full
+  prior's conditional at the fixed value, and it is already general in the
+  likelihood. So what Eq. 3 generalises is the reduced prior, not the
+  setting. Wagenmakers et al. ([LIT-609](../literature.d/LIT-609.md)) give the same ratio; this
+  paper does not cite them.
 - **Bayesian model reduction ([LIT-614](../literature.d/LIT-614.md))** restates Eqs. 3, 4 and 9 and
   adds the Dirichlet, beta, gamma and multinomial forms.
 - **MacKay ([LIT-623](../literature.d/LIT-623.md)).** The paper cites MacKay & Takeuchi (1996) for

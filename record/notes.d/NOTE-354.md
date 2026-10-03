@@ -134,7 +134,7 @@ is built; one built model by others is reported (fn 26 and p. 34).
     information" that reports alike. So "high integrated information plays
     no essential role in explaining phenomenal intuitions". Not a
     "knockdown".
-  - *Biological theories* (Block 2009): non-conscious silicon duplicates
+  - *Biological theories* (Block 2009, [LIT-tmp7mbzj](../literature.d/LIT-tmp7mbzj.md)): non-conscious silicon duplicates
     share the intuitions.
   - *Global workspace and first-order representationalism*: they can
     begin to answer, since only globally available information is

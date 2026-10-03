@@ -1,0 +1,127 @@
+---
+status: 'Deferred'
+status_note: 'registered 2026-10-03 from the abstract, keywords and reference list, not read. The article is closed access at Elsevier. Unpaywall, OpenAlex and Europe PMC list no open copy; there is no arXiv version (searched by title, abstract phrase and author pairs); Diósi''s publication list gives the DOI but, unlike his other 2022 papers, no PDF; ScienceDirect returned a bot challenge and CORE a redirect challenge, so I stopped. A human reader with library access, or a copy requested from the authors, would move this to Active.'
+title: 'At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered unread. Crossref confirms authors (Derakhshani, Diósi,
+    Laubenstein, Piscicchia, Curceanu), title, Physics of Life Reviews
+    42:8–14, issue of September 2022, and the Elsevier PII
+    S1571064522000197 the owner gave. PubMed (PMID 35617922) gives the
+    electronic date 17 May 2022, used for `published:`. Not held in the
+    Anthology of the SOTA: a grep of its record for "Orch", "Curceanu"
+    and the DOI found nothing.
+tags:
+- consciousness
+- quantum-foundations
+- natural-sciences
+date: '2026-10-03'
+published: '2022-05-17'
+doi: '10.1016/j.plrev.2022.05.004'
+first_author: 'Derakhshani'
+keywords:
+- 'Collapse models'
+- 'Consciousness'
+- 'Germanium detector'
+- 'Orch OR theory'
+- 'Spontaneous radiation'
+implementations: []
+summary: >-
+  Derakhshani, Diósi, Laubenstein, Piscicchia & Curceanu (2022), Physics of
+  Life Reviews 42:8–14. By its abstract: a critical analysis of Orch OR
+  against new bounds on the spontaneous radiation that the simplest
+  gravity-related dynamical collapse model predicts, concluding that Orch
+  OR built on that simplest version is "highly implausible in all the
+  cases analyzed". Unread: registered from the abstract and the reference
+  list.
+---
+
+# LIT-tmp1tryi: At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory
+
+Maaneli Derakhshani, Lajos Diósi, Matthias Laubenstein, Kristian Piscicchia
+and Catalina Curceanu (2022), *Physics of Life Reviews* 42:8–14 —
+DOI-10.1016/j.plrev.2022.05.004
+
+## Key takeaways
+
+*Registered from the abstract, the author keywords and Crossref's reference
+list, not a reading. What follows is what those sources say.*
+
+- **The abstract**, in full: "In this paper we perform a critical analysis
+  of the Orch OR consciousness theory at the crossroad with the newest
+  experimental results coming from the search for spontaneous radiation
+  predicted by the simplest version of gravity-related dynamical collapse
+  models. We conclude that Orch OR theory, when based on the simplest version
+  of gravity-related dynamical collapse, is highly implausible in all the
+  cases analyzed. We discuss the implications of our findings, the
+  limitations, and future plans toward the development of more realistic
+  gravity-related collapse models."
+- **The scope is conditional, by the abstract's own wording**: the verdict
+  is on Orch OR "when based on the simplest version" of gravity-related
+  collapse, and the authors look toward "more realistic" collapse models.
+- **The experimental input** is not named in the abstract. Its keywords name a
+  germanium detector, and Crossref's 22-entry reference list includes Donadi
+  et al., *Underground test of gravity-related wave function collapse*
+  (Nature Physics, DOI-10.1038/s41567-020-1008-4), which I take, unread,
+  to be the bound used.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, with Babcock et al.
+([LIT-tmpq2tsa](LIT-tmpq2tsa.md)), as one of two pieces of evidence bearing on Orch OR. No
+anthology topic holds a theory of consciousness or a collapse model, and the
+paper carries no instruction for machine-learning practice.
+
+`Deferred` because it was not read: no lawful full text was within reach
+(see the status note). What can be said without reading it is limited to
+what it is evidence of, as its abstract frames it.
+
+- **What it would show.** An experimental argument against one specific
+  variant: Orch OR joined to the simplest gravity-related collapse model,
+  judged against searches for the spontaneous radiation that model
+  predicts.
+- **What it would not show.** It does not test the "Orch" half of the theory,
+  that consciousness depends on orchestrated collapses in microtubules, and
+  it does not test collapse models that radiate less. Its own abstract
+  reserves "more realistic gravity-related collapse models".
+- **The published dispute, at second hand.** McQueen's open-access comment,
+  *Have underground radiation measurements refuted the Orch OR theory?*
+  ([ARXIV-2301.12306](https://arxiv.org/abs/2301.12306), Physics of Life Reviews 44:201–203, 2023), agrees that
+  the variant is refuted. It argues that no one advocated that variant and
+  that it contradicts Hameroff and Penrose's own views, so the result cuts
+  out "a small class of possible variants". I read McQueen's abstract only,
+  and the record does not hold his comment.
+
+How it sits against Babcock et al. ([LIT-tmpq2tsa](LIT-tmpq2tsa.md)): that paper measures
+collective quantum optical states in microtubules and says nothing about
+collapse; this one bounds collapse and says nothing about microtubule
+physics. Neither confirms or refutes the other, and no relation is declared.
+
+Elsewhere in the record, Gao ([LIT-121](LIT-121.md), read in [NOTE-140](../notes.d/NOTE-140.md)) criticises
+Penrose's gravity-collapse argument on theoretical grounds and asks whether
+collapse models survive "current collapse-model bounds (e.g. X-ray
+spontaneous-emission tests)". This paper is a source for exactly that kind
+of bound. Chalmers ([LIT-406](LIT-406.md), [NOTE-336](../notes.d/NOTE-336.md)) dismisses quantum theories of
+consciousness on the different ground that they explain functions at best.
+
+**Priority for a reading: medium.** It is short (seven pages). A reading
+should check which collapse-model parameters the radiation data bound, for
+which microtubule or tubulin scenarios "implausible" was computed, and
+whether any scenario survived.
+
+Access when seeded:
+
+- Crossref record for the DOI (authors without affiliations, 22 references,
+  PII S1571064522000197).
+- Unpaywall (is_oa false, closed), OpenAlex (closed, no repository full
+  text), Europe PMC (in PubMed only, no PMC copy), Semantic Scholar (no open
+  PDF).
+- arXiv API searches by title words, by "Orch OR" in abstracts, and by
+  Derakhshani with Curceanu and by Piscicchia: no preprint.
+- Diósi's publication list (wigner.hu/~diosi/pub.html), entry [123]: the DOI
+  only.
+- ScienceDirect: HTTP 403 with a captcha page. CORE: a redirect challenge.
+  Neither was pursued.
