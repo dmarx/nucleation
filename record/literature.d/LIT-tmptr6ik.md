@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp5fzuc](../notes.d/NOTE-tmp5fzuc.md)); worth reading as the founding statement of the process model of emotion regulation, the five-family scheme (situation selection, situation modification, attentional deployment, cognitive change, response modulation) that later regulation research and many therapies are organised around. It defines emotion regulation as "the processes by which individuals influence which emotions they have, when they have them, and how they experience and express these emotions" (p. 275) and separates it from coping, mood regulation and defense. It is a conceptual review: no data of its own, and it says the scheme is "a set of working distinctions" (p. 282).'
+title: 'The Emerging Field of Emotion Regulation: An Integrative Review'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full: pp. 271–288 (abstract, all sections, the four figures,
+    the six footnotes); the reference list (pp. 288–299) was used for
+    checking citations, not read entry by entry. The copy read is the
+    published article as a PDF reprint (29 pages, APA's personal-use
+    notice on every page) posted by the University of Wisconsin–Madison
+    Training Program in Emotion Research,
+    https://emotion.wisc.edu/wp-content/uploads/sites/1353/2021/11/Gross-1998-The-Emerging-Field-of-Emotion-Regulation-An-Integrative-Review.pdf.
+    The author's own lab page (spl.stanford.edu/papers) links a
+    Google Drive copy whose owner has disabled downloading, so it could
+    not be read from here. Unpaywall lists no open-access copy. Text was
+    taken from the PDF's text layer; figures were read from that layer
+    only (labels), not from images. `published:` is Crossref's online
+    date (1 September 1998; the print issue is dated September 1998).
+    Not held in the Anthology of the SOTA: a grep of its literature.d and
+    theory.d for "emotion regulation", "Gross" and the DOI found nothing.
+tags:
+- emotion-and-affect
+- psychopathology-and-treatment
+- social-science
+- cognition
+date: '2026-10-03'
+published: '1998-09-01'
+doi: '10.1037/1089-2680.2.3.271'
+first_author: 'Gross'
+keywords:
+- 'emotion regulation'
+- 'process model'
+- 'situation selection'
+- 'situation modification'
+- 'attentional deployment'
+- 'cognitive change'
+- 'reappraisal'
+- 'response modulation'
+- 'suppression'
+- 'antecedent-focused'
+- 'response-focused'
+- 'response tendencies'
+implementations: []
+summary: >-
+  Gross (1998), Review of General Psychology 2(3):271–299. Emotions are
+  response tendencies (behavioural, experiential, physiological) called
+  forth by evaluated situations and open to modulation. Emotion regulation
+  is how people influence which emotions they have, when, and how they are
+  experienced and expressed, and it is distinct from coping, mood
+  regulation and defense. A process model places regulation at five points
+  in emotion generation: situation selection, situation modification,
+  attentional deployment, cognitive change (reappraisal), and response
+  modulation (suppression). The first four are antecedent-focused, the last
+  response-focused. Dysregulation is said to figure in over half of the
+  DSM-IV Axis I disorders and all of Axis II.
+---
+
+<!-- inactive-ok-file: LIT-tmpkd06c LIT-tmpqjded — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+
+# LIT-tmptr6ik: The Emerging Field of Emotion Regulation: An Integrative Review
+
+James J. Gross (1998), *Review of General Psychology* 2(3):271–299 — DOI-10.1037/1089-2680.2.3.271
+
+## Key takeaways
+
+- Emotion regulation is defined by its target, not its means: any process,
+  automatic or controlled, conscious or not, by which a person changes which
+  emotions they have, when, and how they are felt and shown. It covers
+  increasing as well as decreasing, and positive as well as negative
+  emotions. The definition makes no assumption that regulation is good or bad.
+- The process model sorts regulation by *where in emotion generation* it acts:
+  choosing the situation, changing it, choosing what to attend to in it,
+  changing what it means, and modulating the response once it has started.
+  The coarse cut, antecedent-focused versus response-focused, is the one the
+  paper's own cited experiments test: reappraisal lowered negative experience,
+  while suppressing expression left disgust and sadness experience intact and
+  raised sympathetic activation (pp. 284–285, citing Gross 1998 and Gross &
+  Levenson 1997).
+- Regulation and generation may not be separable. The paper names this as the
+  field's first open challenge (p. 286), citing Frijda's view that regulation is
+  "part and parcel of emotion". It keeps the distinction but asks for "high"
+  thresholds before inferring regulation from an absent response.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, in the batch on emotion theory and
+psychopathology. It is the record's statement of what emotion regulation is.
+It ties `emotion-and-affect` to `psychopathology-and-treatment`, since the paper
+puts dysregulation at the centre of mental disorder and calls interventions on
+regulation "the staple of psychotherapy" (p. 280).
+
+Its definition of emotion is borrowed, not argued for: a "consensual" model in
+which an evaluated situation calls forth response tendencies (Figure 1). Its
+footnote 1 calls that model a distillation of Arnold, Ekman, Izard, Lazarus,
+Levenson, Leventhal, Plutchik, Scherer and Tomkins. So the paper sits on the
+appraisal side of the debate this batch files. Lazarus's Emotion and Adaptation
+([LIT-tmpqjded](LIT-tmpqjded.md)) and Frijda's The Emotions ([LIT-tmpkd06c](LIT-tmpkd06c.md)) are both cited here as
+sources of that model, and both are filed Deferred. Its regulation scheme
+inherits the model's stimulus–evaluation–response order. Barrett's
+constructionist account ([LIT-tmp7xlrj](LIT-tmp7xlrj.md)) argues that this "stimulus→response"
+picture is wrong for emotion generally. Its single stated consequence for
+regulation is a hypothesis, not a rejection of the five families: reappraisal
+and other regulation processes "are accomplished with predictions that
+categorize sensory inputs" (Barrett, Conclusions). Frijda, Ridderinkhof and
+Rietveld ([LIT-tmp57opn](LIT-tmp57opn.md)) push Gross's own open challenge further. They deny "the
+exclusivity of emotion regulation processes" and hold that much regulation is
+itself one emotion's action readiness checking another's.
+
+No instruction for machine-learning practice, and no anthology topic holds it.

@@ -1,0 +1,142 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from Crossref''s book and chapter records, not read; [LIT-tmp6n7fc](LIT-tmp6n7fc.md), a 21-page statement of the same theory by two of its editors, was read in its place. No lawful full text of the book was found. Springer''s book page returned a "Client Challenge" bot page, Unpaywall and OpenAlex list no open copy, and Maynooth University''s repository (where Barnes-Holmes and Roche deposited many RFT papers) holds no chapter of it. A copy on an Ethiopian national-library server was not used, because it is not an author, institutional or publisher deposit. The editors'' own fourteen-page chapter 8, "Relational Frame Theory: A Précis" (pp. 141–154, DOI 10.1007/0-306-47638-x_8), is the part a human reader should take first; a reading of the whole book would move this to Active.'
+title: 'Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered from Crossref's records for the book (DOI 10.1007/b108413,
+    ISBNs 978-0-306-46600-7 and 978-0-306-47638-9, Springer US, 2001) and
+    for its thirteen chapters (DOIs 10.1007/0-306-47638-x_1 to _13, with
+    titles, authors and pages). Crossref gives only the year, so
+    `published:` carries the year as the first of January. Filed as a
+    seed beside its substitute, not as a reading, because it is the
+    citation every later ACT and RFT paper reaches for: the 2004
+    substitute, the 2006 ACT review and Kashdan and Rottenberg's review
+    all cite it as "Hayes, Barnes-Holmes, & Roche, 2001". Not held in the
+    Anthology of the SOTA: a grep of its literature.d, notes.d and
+    theory.d for "relational frame" found nothing.
+tags:
+- cognition
+- philosophy-of-language
+- self-and-personhood
+- psychopathology-and-treatment
+- social-science
+date: '2026-10-03'
+published: '2001-01-01'
+doi: '10.1007/b108413'
+first_author: 'Hayes'
+keywords:
+- 'relational frame theory'
+- 'derived relational responding'
+- 'arbitrarily applicable relational responding'
+- 'stimulus equivalence'
+- 'transformation of stimulus functions'
+- 'rule-governed behavior'
+- 'verbal behavior'
+- 'functional contextualism'
+- 'self'
+- 'behavior analysis'
+implementations: []
+summary: >-
+  Hayes, Barnes-Holmes & Roche (eds.), Kluwer Academic/Plenum, 2001. The
+  founding book of Relational Frame Theory: human language and cognition
+  are learned, generalized operant behaviour, the arbitrarily applicable
+  relating of events (mutually, in combination, and with transformation
+  of their functions) under contextual control. Eight chapters state the
+  theory, from derived relations to rules and the self; five apply it to
+  development, education, social processes, psychopathology and religion.
+  Unread: registered from Crossref's chapter records, with [LIT-tmp6n7fc](LIT-tmp6n7fc.md)
+  read in its place.
+extended_by:
+- LIT-tmp6n7fc
+- LIT-tmpxkxq0
+---
+
+# LIT-tmpn4p2x: Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition
+
+Steven C. Hayes, Dermot Barnes-Holmes and Bryan Roche (eds.), *Relational
+Frame Theory: A Post-Skinnerian Account of Human Language and Cognition*,
+New York: Kluwer Academic/Plenum Publishers, 2001 (Crossref's publisher:
+Springer US) — DOI-10.1007/b108413
+
+## Key takeaways
+
+*Registered from the chapter list, not a reading. What follows is what the
+chapter records say, and what the read substitute says the book argues.*
+
+- **Chapters** (Crossref, with pages). Part I states the theory: 1 Language
+  and Cognition: Constructing an Alternative Approach Within the Behavioral
+  Tradition (Hayes, Blackledge, Barnes-Holmes; 3–20); 2 Derived Relational
+  Responding as Learned Behavior (Hayes, Fox, Gifford, Wilson,
+  Barnes-Holmes, Healy; 21–49); 3 Multiple Stimulus Relations and the
+  Transformation of Stimulus Functions (Barnes-Holmes, Hayes, Dymond,
+  O'Hora; 51–71); 4 Relations among Relations: Analogies, Metaphors, and
+  Stories (Stewart, Barnes-Holmes, Hayes, Lipkens; 73–86); 5 Thinking,
+  Problem-solving, and Pragmatic Verbal Analysis (Hayes, Gifford,
+  Townsend, Barnes-Holmes; 87–101); 6 Understanding and Verbal Regulation
+  (Barnes-Holmes, O'Hora, Roche, Hayes, Bissett, Lyddy; 103–117); 7 Self
+  and Self-directed Rules (Barnes-Holmes, Hayes, Dymond; 119–139); 8
+  Relational Frame Theory: A Précis (Hayes, Barnes-Holmes, Roche;
+  141–154). Part II applies it: 9 Psychological Development (157–180); 10
+  Education (181–195); 11 Social Processes (197–209); 12 Psychopathology
+  and Psychotherapy (Wilson, Hayes, Gregg, Zettle; 211–237); 13 Religion,
+  Spirituality, and Transcendence (239–251).
+- **The theory, as the read substitute states it.** Barnes-Holmes,
+  Barnes-Holmes, McHugh and Hayes ([LIT-tmp6n7fc](LIT-tmp6n7fc.md)) give the book's account in
+  their Part 2. Relating events arbitrarily, under contextual cues such as
+  "is" or "more than", is a generalized operant learned from multiple
+  exemplars. Its relational frames (coordination, comparison, distinction,
+  opposition, hierarchy) share three properties: mutual entailment,
+  combinatorial entailment, and the transformation of stimulus functions.
+  Rules are relational networks, and the self is three verbal relations to
+  one's own behaviour.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the theory of language and
+cognition beneath Acceptance and Commitment Therapy. It carries no
+instruction for machine-learning practice, and no anthology topic holds a
+behaviour-analytic theory of human language.
+
+`Deferred` because it was not read. Under the owner's rule for long works,
+a shorter, lawfully readable statement by the same authors was read
+instead. [LIT-tmp6n7fc](LIT-tmp6n7fc.md) (2004) is by two of the three editors, Dermot
+Barnes-Holmes and Steven Hayes, with Yvonne Barnes-Holmes and Louise
+McHugh. It states the book's core concepts and carries them into
+psychopathology and ACT, which is the use this batch makes of RFT. Two other
+lawful statements by the editors were found in Maynooth's repository and
+not read. One is Hayes, Barnes-Holmes and Roche's reply to the book's
+commentators (The Analysis of Verbal Behavior 19:39–54, 2003, DOI
+10.1007/BF03392981). The other is Roche, Barnes-Holmes, Barnes-Holmes,
+Stewart and O'Hora's exposition for social behaviour (The Behavior Analyst
+25:75–91, 2002, DOI 10.1007/BF03392046). The reply is the place to see the
+editors answer the book's critics, if a second reading is wanted.
+
+This seed is kept beside the substitute because the record would otherwise
+lack the citation the later literature uses. The 2006 ACT review
+([LIT-tmpxkxq0](LIT-tmpxkxq0.md)) calls ACT "the applied extension" of the programme this book
+reports, and takes from it the four implications for psychopathology it
+summarizes (p. 6 of the deposited draft). The process-based therapy paper of
+Hayes and Hofmann (2019), filed in parallel by another agent, comes from the
+same programme.
+
+**Priority for a reading: medium**, chapter 8 (the précis) first, then
+chapter 12 for the psychopathology the batch is about. Chapter 7 is the
+one to read for the record's `self-and-personhood` cluster. The substitute
+cites "Hayes, 1995 and Barnes-Holmes, et al., 2001" for its "three
+selves", and chapter 7 is the book's treatment of the self, so it is
+probably, though not certainly, the chapter meant.
+
+Access when seeded:
+
+- Crossref records for the book and chapters 1–13 (chapters 14–16 do not
+  exist).
+- Unpaywall: not open access. OpenAlex: one location, a closed catalogue
+  entry at UCLouvain.
+- link.springer.com/book/10.1007/b108413 returned a "Client Challenge" page.
+  It was not pursued.
+- Maynooth University Research Archive Library (MURAL), searched for
+  "relational frame": 223 results, none a chapter of this book.

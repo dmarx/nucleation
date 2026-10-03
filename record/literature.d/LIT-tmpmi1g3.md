@@ -1,0 +1,104 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmprl21k](../notes.d/NOTE-tmprl21k.md)); worth reading as the short, citable statement of the network theory of mental disorders by its main author. Five principles: disorders are complex systems of interacting components, the components are the symptoms of the diagnostic manuals, the network comes from direct causal connections between symptoms, disorders are the tightly connected clusters, and disorders arise through hysteresis, so a strongly connected network can stay "stuck" after its trigger is gone. Mental health, disorder, resilience and vulnerability are redefined as stable states and dispositions of weakly or strongly connected networks. Its evidence is indirect and it says so: the theory is offered as an "organizing framework" and a deliberate simplification, and the strict symptom-component correspondence of principle 2 is its own flagged weak point.'
+title: 'A Network Theory of Mental Disorders'
+version: 1
+tags:
+- psychopathology-and-treatment
+- network-science
+- complex-systems
+- philosophy-of-science
+date: '2026-10-03'
+published: '2017-01-26'
+doi: '10.1002/wps.20375'
+first_author: 'Borsboom'
+keywords:
+- 'network approach'
+- 'psychopathology'
+- 'mental disorders'
+- 'symptom networks'
+- 'mental health'
+- 'resilience'
+- 'vulnerability'
+- 'diagnosis'
+- 'treatment'
+- 'hysteresis'
+- 'alternative stable states'
+implementations: []
+summary: >-
+  Borsboom (2017), World Psychiatry 16(1):5–13. Mental disorders are not
+  common causes of their symptoms but states of networks of symptoms that
+  cause one another, through "myriads of biological, psychological and
+  societal mechanisms". Five principles; the dynamic one is hysteresis: a
+  strongly connected network, once activated by an external trigger, can
+  sustain itself after the trigger is gone. Disorder is an alternative
+  stable state of a strongly connected network, mental health the stable
+  state of a weakly connected one. Comorbidity follows from bridge
+  symptoms. Treatments are symptom, external-field or network
+  interventions.
+---
+<!-- inactive-ok-file: LIT-tmpsxzb4 — Deferred, no lawful full text; Kendler 2005, named for the pluralism its abstract states, not leaned on beyond it -->
+<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named as the medical-model critique, not leaned on beyond its abstract -->
+
+# LIT-tmpmi1g3: A Network Theory of Mental Disorders
+
+Denny Borsboom, *World Psychiatry* 16(1):5–13, February 2017 (online 26 January 2017) — DOI-10.1002/wps.20375
+
+The brief's citation is correct. Crossref prints the title in sentence case
+("A network theory of mental disorders"). Read from the PubMed Central
+copy, PMC5269502.
+
+## Key takeaways
+
+- The network theory denies that most mental disorders have a common
+  cause behind their symptoms. Symptoms cause each other (insomnia →
+  fatigue; delusion → suspicion → isolation → delusion), and a disorder is
+  the self-sustaining activity of a tightly coupled cluster of them.
+- The dynamic claim is hysteresis. In a strongly connected network a
+  trigger in the "external field" (a loss, a trauma) can switch the network
+  into an active state that persists after the trigger is removed. A
+  weakly connected network recovers. Normal grief is offered as the
+  weakly connected case.
+- Health and disorder become alternative stable states. Resilience and
+  vulnerability become dispositions set by network connectivity, and
+  comorbidity is built in through bridge symptoms shared between disorder
+  clusters.
+- Treatment falls into three classes: change a symptom, remove a trigger
+  in the external field, or change the connections. CBT is the paper's
+  example of the third kind.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the read statement of the
+network model of mental disorder, which the `psychopathology-and-treatment`
+blurb names beside the biomedical and biopsychosocial models. It carries no
+instruction for machine-learning practice, and its methods (graphical
+models estimated from symptom data) are statistics read for psychiatry,
+which no anthology topic holds. The Anthology of the SOTA does not hold it
+(a grep of its literature.d, notes.d and theory.d for "Borsboom" and the
+DOI found nothing).
+
+It bears on the batch and on the record:
+
+- **Hofmann and Hayes ([LIT-tmpeg79d](LIT-tmpeg79d.md))** name "the complex network approach"
+  as an "analytic alternative to the latent disease model", through
+  Hofmann, Curtiss and McNally (2016), not through this paper. Borsboom's
+  third class of treatment, the network intervention, is the kind of
+  target their process-based therapy is after.
+- **Salkovskis, Sighvatsson and Sigurdsson ([LIT-tmp2bpgh](LIT-tmp2bpgh.md))** describe
+  disorder as being "stuck" in maintaining vicious circles. That is a
+  cognitive version of the same self-sustaining loop, and the two papers
+  arrive at it independently: neither cites the other.
+- **Kendler ([LIT-tmpsxzb4](LIT-tmpsxzb4.md))** supplies the premise that no common pathogenic
+  pathways have been found. Borsboom cites Kendler's later papers for it.
+- **Engel ([LIT-tmpmztbn](LIT-tmpmztbn.md))** is the earlier challenge to the disease model,
+  which this paper does not cite.
+- **Emergence ([LIT-150](LIT-150.md)).** Rizi locates the onset of emergence with
+  order parameters and phase transitions. Borsboom calls hysteresis "a
+  hallmark of phase transitions" and makes it the mechanism of disorder.
+  Here it is a framework claim: the paper derives it for no measured
+  network, and cites Cramer's simulations for its existence in
+  "realistically parameterized" ones.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

@@ -1,0 +1,119 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp8pnvs](../notes.d/NOTE-tmp8pnvs.md)), in place of the RFT book, [LIT-tmpn4p2x](LIT-tmpn4p2x.md); worth reading as a short statement of Relational Frame Theory by two of the book''s editors, and as the paper that shows how RFT is meant to become a theory of psychopathology. Humans, unlike the animals of conditioning research, relate events bidirectionally, so a word acquires the functions of what it names. Relating is a generalized operant learned across exemplars, and its frames share mutual entailment, combinatorial entailment and the transformation of function. Rules are relational networks, and the self is three verbal relations to one''s own behaviour. ACT''s acceptance, defusion and values are then reinterpreted in those terms. Its clinical examples are illustrations, not data, and it says its Part 3 is "no more than a heuristic".'
+title: 'Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the publisher's open-access PDF on ijpsy.com
+    (https://www.ijpsy.com/volumen4/num2/89/relational-frame-theory-some-implications-EN.pdf,
+    21 pages, printed pp. 355–375, received 5 June 2004, final acceptance
+    30 June 2004), through the conclusion; the reference list was used to
+    check citations, not read entry by entry. The same paper is deposited
+    in Maynooth University's repository (MURAL eprint 402,
+    Psyc21.pdf), from a pre-pagination proof whose first page reads "pp.
+    XXXXXX". The journal assigned no DOI. The issue is dated only "2004,
+    Vol. 4, Nº 2", so `published:` takes its month from the publisher PDF's
+    creation date, 24 July 2004, after the final acceptance, and carries
+    the first of that month because no source gives a day. Not held in
+    the Anthology of the SOTA: a grep of its literature.d, notes.d and
+    theory.d for "relational frame" found nothing.
+tags:
+- psychopathology-and-treatment
+- cognition
+- philosophy-of-language
+- self-and-personhood
+- social-science
+date: '2026-10-03'
+published: '2004-07-01'
+url: 'https://www.ijpsy.com/volumen4/num2/89/relational-frame-theory-some-implications-EN.pdf'
+first_author: 'Barnes-Holmes'
+extends:
+- LIT-tmpn4p2x
+keywords:
+- 'experimental and applied behavior analysis'
+- 'RFT'
+- 'language and cognition'
+- 'derived stimulus relations'
+- 'complex human behavior'
+implementations: []
+summary: >-
+  Barnes-Holmes, Barnes-Holmes, McHugh & Hayes (2004), International
+  Journal of Psychology and Psychological Therapy 4(2):355–375. RFT
+  stated briefly: humans relate events bidirectionally and arbitrarily,
+  as a generalized operant under contextual control, so words take on the
+  functions of what they are related to. Frames combine into networks,
+  networks are related to networks (metaphor), rules are networks that
+  regulate behaviour, and the self is content, process and context of
+  verbal relations. Psychopathology is read as verbal behaviour, and
+  ACT's acceptance, defusion and values are given RFT interpretations.
+---
+
+<!-- inactive-ok-file: LIT-tmpiuwca LIT-tmpn4p2x LIT-tmpsjur3 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+
+# LIT-tmp6n7fc: Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology
+
+Yvonne Barnes-Holmes, Dermot Barnes-Holmes, Louise McHugh and Steven C.
+Hayes (2004), *International Journal of Psychology and Psychological
+Therapy* 4(2):355–375 — no DOI; publisher's open-access PDF.
+
+## Key takeaways
+
+- **The theory in brief.** Relating one event to another "arbitrarily",
+  by social convention rather than by the events' physical properties, is
+  learned operant behaviour. It is trained across many exemplars and comes
+  under the control of cues such as "is", "more than" or "opposite". Its
+  products, the relational frames, share three properties: mutual
+  entailment, combinatorial entailment and the transformation of stimulus
+  functions.
+- **Why it matters for psychopathology.** Because human verbal relations
+  are bidirectional, describing a trauma can carry the trauma's aversive
+  functions. Because functions transform through comparative relations, a
+  man whose panic began in a small local store can rank Macy's, where he has
+  never been, as more frightening. Neither follows from direct conditioning
+  alone, which is the paper's argument that behaviour therapy needs RFT.
+- **What it does to ACT.** Acceptance works when a rule that predicts the
+  discomfort coheres with what then happens. Defusion trains a shift from I
+  HERE NOW to I THERE THEN, and a value is the top of a hierarchical network.
+  The paper offers these as heuristics for later work, not as findings.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the read substitute for the
+book that founded Relational Frame Theory. That book is Hayes,
+Barnes-Holmes and Roche (2001), [LIT-tmpn4p2x](LIT-tmpn4p2x.md), filed Deferred beside this
+note. The `extends` relation to it is the paper's own construction: it
+presents itself as describing "the behavioral account of human language and
+cognition, known as RFT" (p. 357) as the book set it out, and it cites the
+book's chapters for each concept, so it could not stand without it.
+
+Why this paper and not another statement by the same group:
+
+- **Same authors.** Dermot Barnes-Holmes and Steven Hayes edited the book and
+  wrote or co-wrote most of its chapters.
+- **It states the theory.** Part 2 covers bidirectional relations,
+  networks, derived relational responding as operant behaviour, the frames
+  and their three properties, relating relations, rules and the self.
+- **It carries the theory to the batch's subject.** The editors' reply to
+  their critics (2003, Maynooth deposit) is shorter and is the place to see
+  RFT defended. But it does not say what RFT implies for psychopathology,
+  which is why the batch files RFT at all.
+
+It is the record's bridge from RFT to the clinical line:
+
+- **The 1996 experiential-avoidance paper ([LIT-tmpsjur3](LIT-tmpsjur3.md)).** This paper cites
+  it for the behaviour analysts' preference for functional dimensions over
+  syndromal diagnosis (p. 356). It also cites it, as "Hayes, et al. 1996",
+  where it introduces ACT (p. 369).
+- **The 2006 ACT review ([LIT-tmpxkxq0](LIT-tmpxkxq0.md)).** That review summarizes the same
+  RFT model of psychopathology in one paragraph and refers the reader to
+  the book. This paper is the fuller statement it leaves out.
+- **Bandura (1977), [LIT-tmpiuwca](LIT-tmpiuwca.md).** The paper names Bandura (1977) among the
+  attempts at "integrative models that combined both cognition and
+  behavior" that followed Chomsky's critique (p. 358). RFT's own answer to
+  that critique is the rest of the paper.
+
+No instruction for machine-learning practice, and no anthology topic holds a
+behaviour-analytic theory of language.

@@ -1,0 +1,123 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpqedlv](../notes.d/NOTE-tmpqedlv.md)); worth reading as the shortest complete statement of the theory of constructed emotion and of its link to predictive processing. The brain''s core task is allostasis, run through an internal model whose predictions are "concepts". An instance of emotion is what happens when the brain categorizes predicted interoceptive and exteroceptive sensation with an emotion concept. On this account emotion categories have no neural "essences", and causal appraisal theories are "highly doubtful". The paper is a theoretical synthesis: its own data are a few figures, and the rest is cited evidence and explicitly labelled hypotheses.'
+title: 'The theory of constructed emotion: an active inference account of interoception and categorization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the open-access text in PubMed Central (PMC5390700,
+    fetched as Europe PMC full-text XML; CC BY-NC 4.0): abstract, all
+    sections, Tables 1–2, Box 1, the six figure captions, the glossary
+    and all 24 footnotes. The reference list was used to check citations.
+    Figures were read from captions, not images. The PMC text already
+    carries the author's correction (DOI 10.1093/scan/nsx060, PMC5691871,
+    also read), which changes one sentence on degeneracy. `published:` is
+    the online date, 19 October 2016; the issue is SCAN 12(1):1–23,
+    January 2017 (PubMed). The article ran under the journal's "Duelling
+    Perspectives" heading, beside Adolphs, "How should neuroscience study
+    emotions?" (DOI 10.1093/scan/nsw153, same online date), which was not
+    read. Not held in the Anthology of the SOTA: a grep of its
+    literature.d and theory.d for "constructed emotion", "Barrett, L" and
+    the DOI found nothing.
+tags:
+- emotion-and-affect
+- neuroscience
+- cognition
+- philosophy-of-science
+- social-ontology
+date: '2026-10-03'
+published: '2016-10-19'
+doi: '10.1093/scan/nsw154'
+first_author: 'Barrett'
+keywords:
+- 'theory of constructed emotion'
+- 'conceptual act theory'
+- 'predictive coding'
+- 'active inference'
+- 'interoception'
+- 'allostasis'
+- 'categorization'
+- 'concepts'
+- 'affect'
+- 'degeneracy'
+- 'population thinking'
+- 'classical view of emotion'
+implementations: []
+summary: >-
+  Barrett (2017), SCAN 12(1):1–23. The brain runs an internal model of the
+  body in the world for allostasis. Its predictions are "concepts" issued
+  from agranular limbic cortex and refined by prediction error.
+  Interoceptive predictions are felt as affect (valence, arousal). An
+  emotion is an instance of categorizing sensation with an emotion concept,
+  built the same way as any perception. Since instances of an emotion are
+  "created by multiple spatiotemporal patterns" (degeneracy), the
+  categories have no neural essences, and the classical view, basic-emotion
+  and causal appraisal theories included, is rejected. Emotions are
+  "constructions of the world, not reactions to it."
+---
+
+<!-- inactive-ok-file: LIT-tmpqjded — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+
+# LIT-tmp7xlrj: The theory of constructed emotion: an active inference account of interoception and categorization
+
+Lisa Feldman Barrett (2017), *Social Cognitive and Affective Neuroscience* 12(1):1–23, online 19 October 2016 — DOI-10.1093/scan/nsw154
+
+## Key takeaways
+
+- Emotion is not a set of dedicated circuits triggered by stimuli. The brain
+  predicts. An instance of emotion is a categorization of predicted bodily
+  and worldly sensation by an emotion concept learned from past experience.
+  Emotion concepts are therefore populations of variable instances, not types
+  with a shared physical fingerprint.
+- Affect and emotion come apart. Affect, valence and arousal, is how the
+  brain's allostatic predictions about the body are felt, and the paper calls
+  it a basic feature of consciousness "not unique to instances of emotion".
+  Emotion categories are species-specific and perceiver-dependent.
+- The paper is a rival to appraisal theory, not a refinement of it. In its
+  view the meaning of a sensory event "does not trigger action, but results
+  from it", so theories in which a response follows from a stimulus "evaluated
+  for its meaning" are doubtful. Descriptive appraisals survive, as products of
+  categorization.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, in the batch on emotion theory. It
+is the record's statement of psychological constructionism. Lazarus's Emotion
+and Adaptation ([LIT-tmpqjded](LIT-tmpqjded.md)) is the appraisal theory the paper names as its
+example of a "classical" causal appraisal account, and Frijda's action-readiness
+theory, read here through Frijda, Ridderinkhof and Rietveld ([LIT-tmp57opn](LIT-tmp57opn.md)), is
+the other side of the same dispute. The LIT scheme has no relation for a
+rivalry: `compared_against` needs a comparison somebody ran, and `corrects`
+needs the earlier paper shown wrong. This paper argues from brain architecture
+that appraisal theory is mistaken; it does not test it. So the rivalry is held
+in these prose entries, and a THEORY has been proposed to the owner to hold the
+claim itself.
+
+It joins the record's interoception and predictive-processing cluster, and
+places emotion inside it.
+
+- **Seth ([LIT-135](LIT-135.md)).** Seth bases consciousness on interoceptive
+  predictive processing that serves allostasis. This paper bases emotion on
+  the same machinery, and cites Seth (2013), Seth et al. (2012) and Seth and
+  Friston (2016) for it. The two agree that interoception is the core of the
+  brain's model. They differ in what they hang on it: Seth uses it to tie
+  consciousness to being alive, Barrett to dissolve emotion categories as
+  natural kinds.
+- **Friston ([LIT-526](LIT-526.md)).** The paper cites Friston (2010) for active inference.
+  It does not use the formal free-energy or Markov-blanket apparatus of
+  [LIT-526](LIT-526.md). Its "active inference" is the predictive-coding architecture,
+  anchored in Barbas's cortical anatomy. [LIT-526](LIT-526.md) derives apparent inference
+  from blanket statistics in any ergodic system. This paper takes prediction
+  as an empirical claim about laminar cortex.
+- **Damasio and Carvalho ([LIT-388](LIT-388.md)).** Cited here for the ascending
+  interoceptive pathway, which runs through the nucleus of the solitary
+  tract, parabrachial nucleus and periaqueductal grey to granular insula. The
+  two papers agree that feeling is the experience of interoceptive, homeostatic
+  (allostatic) state. They disagree about emotions. [LIT-388](LIT-388.md) treats fear, anger
+  and the rest as innate "action programmes" distinct from feelings. That is a
+  form of what this paper calls the classical view, and the paper reads such
+  programmes as pattern generators plus a perceiver's categorization.
+
+No instruction for machine-learning practice, and no anthology topic holds it.

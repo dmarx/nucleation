@@ -1,0 +1,123 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpgevhx](../notes.d/NOTE-tmpgevhx.md)); filed in place of Frijda''s The Emotions ([LIT-tmpkd06c](LIT-tmpkd06c.md)), which could not be read, as the shortest lawfully readable statement of his action-readiness theory in his own words. Appraisal of an event''s pertinence to one''s concerns elicits a state of action readiness, a motive to change one''s relation to the object, which has "control precedence". Modes of action readiness correspond to emotions (hostility to anger, avoidance to fear). Much emotion regulation is itself one state of action readiness checking another, so "there is no clear distinction between processes of emotion and processes of emotion regulation". It is a theoretical paper with no data, written for impulsive action, so it states the theory''s core and not its full range.'
+title: 'Impulsive action: emotional impulses and their control'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the open-access text (Frontiers in Psychology 5:518,
+    CC BY; PMC4040919, fetched as Europe PMC full-text XML): abstract,
+    all twelve sections and the conclusion; the reference list was used
+    to check citations. Chosen as the substitute for Frijda (1986), The
+    Emotions, after the brief's candidate, Frijda (1988), "The laws of
+    emotion" (American Psychologist 43(5):349–358, DOI
+    10.1037/0003-066X.43.5.349), proved not lawfully reachable. APA does
+    not make it open, Unpaywall lists no open copy, and the one copy the
+    web search found, a course upload on a University of Crete student
+    server, reset every connection from this session (three tries, 10 s
+    and 30 s apart). Frijda's 2014 French summary of his theory in
+    L'Année psychologique ("Les émotions : une conception relationnelle",
+    DOI 10.3917/anpsy.143.0501) is listed as free at Cairn, but Cairn
+    answered with a CAPTCHA, which I did not try to pass. Not held in
+    the Anthology of the SOTA: a grep of its literature.d for "Frijda"
+    and the DOI found nothing.
+tags:
+- emotion-and-affect
+- agency
+- cognition
+- neuroscience
+date: '2026-10-03'
+published: '2014-06-02'
+doi: '10.3389/fpsyg.2014.00518'
+first_author: 'Frijda'
+extends:
+- LIT-tmpkd06c
+keywords:
+- 'action readiness'
+- 'appraisal'
+- 'control precedence'
+- 'concern pertinence'
+- 'emotional impulses'
+- 'impulse control'
+- 'multiple emotions'
+- 'impulsive action'
+- 'motivation'
+- 'affordances'
+implementations: []
+summary: >-
+  Frijda, Ridderinkhof & Rietveld (2014), Frontiers in Psychology 5:518.
+  Impulsive action is non-deliberate but purposive. Automatic appraisal of
+  an event's pertinence to the agent's concerns elicits a state of action
+  readiness, a motive to establish, modify or end a relation to the
+  object, with "control precedence" (urgency, persistence, attentional
+  capture). Modes of action readiness are what distinguish one emotion
+  from another. Events usually draw several appraisals and so several
+  states of readiness, and their interaction regulates action: much
+  emotion regulation is itself emotional, not reason overriding passion.
+---
+
+<!-- inactive-ok-file: LIT-tmpkd06c — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+
+# LIT-tmp57opn: Impulsive action: emotional impulses and their control
+
+Nico H. Frijda, K. Richard Ridderinkhof and Erik Rietveld (2014), *Frontiers in Psychology* 5:518 — DOI-10.3389/fpsyg.2014.00518
+
+## Key takeaways
+
+- Emotion is defined by action readiness. Appraisal of how an event bears on
+  what one cares about produces a readiness to change one's relation to it,
+  such as approaching, avoiding, opposing or submitting. That readiness has
+  urgency and priority over other activity. "In the absence of concern
+  pertinence, there is no motive, no motive state, no change in action
+  readiness; in short, no emotion."
+- An action can be purposive without a represented goal. The appraised object
+  stays before the agent and guides the action, which is chosen from the
+  agent's repertoire for its effect on the relationship, or primed by
+  affordances.
+- Regulation is mostly more emotion. Appraising the likely consequences of an
+  impulse raises a competing readiness (fear of retaliation checks anger), so
+  impulse control is the interaction of motive states. The authors present
+  this as an alternative to dual-process "reflective over impulsive" models,
+  and side with Hume.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the read substitute for Frijda's
+The Emotions ([LIT-tmpkd06c](LIT-tmpkd06c.md)). The book is 544 pages, has no lawful full text, and
+is filed Deferred beside this paper. The paper **extends** the book in the
+LIT scheme's sense: it builds on the book's two central constructs and could not
+stand without them. It says so ("As elaborated in earlier work, action readiness
+and changes in action readiness form the key to what we call 'emotions'",
+citing Frijda 1986 and 2007), and takes control precedence from the same source.
+What the paper adds is the application to impulsive action and the claim that
+regulation is the interaction of several states of readiness.
+
+Why this paper and not another. The owner allows a shorter work by the same
+author that introduces the same theory. "The laws of emotion" (1988) would
+have been the closer substitute, since it is a compact statement of the whole
+theory, but it could not be read lawfully from here (see the history note).
+This 2014 paper is the best lawfully readable alternative. It is Frijda's own
+late statement of action readiness, concern and appraisal, and it bears
+directly on the regulation question Gross raises. It is narrower than the
+book: nothing here on emotional experience, the laws, or the book's treatment
+of physiology and expression.
+
+It bears on two other filings in this batch.
+
+- **Gross ([LIT-tmptr6ik](LIT-tmptr6ik.md)).** Gross's first open challenge is whether regulation
+  can be told apart from generation, and he attributes the "part and parcel"
+  view to Frijda (1986). This paper defends that view in Frijda's own words
+  and gives it a mechanism. It does not cite Gross's 1998 review.
+- **Barrett ([LIT-tmp7xlrj](LIT-tmp7xlrj.md)).** The two papers are rivals, but closer than the
+  labels suggest. Both treat motives and perception as prediction ("A motive
+  itself can be conceived of as being set to expect a particular input, along
+  the lines proposed in predictive coding theory", citing Friston and Clark).
+  Both have actions anticipated through their exteroceptive and interoceptive
+  consequences. The difference is in the order of explanation. Here appraisal
+  elicits action readiness, and modes of readiness map onto emotion names.
+  Barrett has categorization constructing the emotion, and denies the
+  categories a shared mechanism.
+
+No instruction for machine-learning practice, and no anthology topic holds it.

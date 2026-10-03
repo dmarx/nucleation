@@ -1,0 +1,119 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from its PubMed abstract and Crossref, not read. Not open access: Unpaywall lists no open copy, Europe PMC and PubMed Central hold no full text, and psychiatryonline.org answered both the full-text page and the PDF with HTTP 403 and a Cloudflare "Just a moment" challenge, which I did not try to get past. A web search finds it only on a document-sharing site, which is not an author or institutional deposit. A reader with American Journal of Psychiatry access can read it lawfully; a reading would move this to Active. Its readable substitute is Kendler''s "Explanatory models for psychiatric illness" (Am J Psychiatry 165(6):695–702, 2008), filed and read in full as [LIT-tmp2h31z](LIT-tmp2h31z.md). That paper cites this one for its pluralist premise and develops its piecemeal integration and its mind–brain propositions, but not its arguments against dualism and epiphenomenalism. A later open paper, "The dappled nature of causes of psychiatric illness" (Mol Psychiatry 17(4):377–388, 2012, PMC3312951), was not read or filed.'
+title: 'Toward a Philosophical Structure for Psychiatry'
+version: 1
+tags:
+- philosophy-of-science
+- psychopathology-and-treatment
+- metaphysics
+date: '2026-10-03'
+published: '2005-03-01'
+doi: '10.1176/appi.ajp.162.3.433'
+first_author: 'Kendler'
+keywords:
+- 'philosophy of psychiatry'
+- 'mind–brain problem'
+- 'substance dualism'
+- 'epiphenomenalism'
+- 'explanatory pluralism'
+- 'patchy reductionism'
+- 'piecemeal integration'
+implementations: []
+summary: >-
+  Kendler (2005), American Journal of Psychiatry 162(3):433–440. Eight
+  propositions for a philosophical frame for psychiatry, per the abstract:
+  psychiatry is grounded in first-person experience; Cartesian substance
+  dualism and epiphenomenalism are false; brain→mind and mind→brain
+  causation are both real; psychiatric disorders are etiologically complex,
+  with no more "spirochete-like" discoveries to come; explanatory pluralism
+  beats monism, especially biological reductionism; and the goal is
+  "patchy reductionism" and "piecemeal integration". Unread: registered
+  from its PubMed abstract.
+extended_by:
+- LIT-tmp2h31z
+---
+<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named as the medical-model critique, not leaned on beyond its abstract -->
+
+# LIT-tmpsxzb4: Toward a Philosophical Structure for Psychiatry
+
+Kenneth S. Kendler, *American Journal of Psychiatry* 162(3):433–440, March 2005 — DOI-10.1176/appi.ajp.162.3.433
+
+The brief's citation (Kendler 2005, AJP 162(3)) is correct. Crossref gives
+the month only, so `published:` carries the first of March.
+
+## Key takeaways
+
+*Registered from the PubMed abstract, not a reading. These are the eight
+propositions as the abstract states them; how each is argued is unknown
+here.*
+
+1. Psychiatry is "irrevocably grounded in mental, first-person experiences".
+2. Cartesian substance dualism is false.
+3. Epiphenomenalism is false.
+4. Both brain→mind and mind→brain causality are real.
+5. Psychiatric disorders are etiologically complex, and no more
+   "spirochete-like" discoveries will explain their origins in simple terms.
+6. Explanatory pluralism is preferable to monistic approaches, especially
+   biological reductionism.
+7. Psychiatry must move beyond a prescientific "battle of paradigms" to
+   empirically rigorous, pluralistic explanatory models.
+8. Psychiatry should strive for "patchy reductionism", with "piecemeal
+   integration" of complex etiological pathways "bit by bit".
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, for the philosophy of
+psychiatry. Philosophy of science comes first among its tags because the
+abstract is about what kind of explanation psychiatry should seek, and
+mental disorders are its case. No anthology topic holds it and it carries
+no instruction for machine-learning practice; the Anthology of the SOTA does
+not hold it (a grep of its literature.d, notes.d and theory.d for
+"Kendler" and the DOI found nothing).
+
+It is filed as a seed because it is the paper the philosophy of psychiatry
+cites for explanatory pluralism, and the batch's read works stand in its
+line:
+
+- **Borsboom ([LIT-tmpmi1g3](LIT-tmpmi1g3.md))** thanks Kendler in its acknowledgements and
+  cites his 2011 and 2012 papers on the kinds and the "dappled" causes of
+  psychiatric illness. It uses them for the claim that no common
+  pathogenic pathways have been found for most disorders, which is
+  proposition 5 here. Its network theory is meant to integrate the
+  biological, psychological and sociological levels, which is one way to
+  carry out proposition 6.
+- **Engel ([LIT-tmpmztbn](LIT-tmpmztbn.md))**, also unread here, is the medical-model
+  ancestor of the same pluralism.
+- **Mental causation.** Proposition 4, real mind→brain causation, is the
+  claim Pernu ([LIT-147](LIT-147.md)) examines for brain–computer interfaces. Pernu
+  argues that the interventionist case for nonreductive mental causation
+  succeeds there only by identifying the mental variable with a neural
+  one. That bears on how proposition 4 could be defended, though whether
+  Kendler argues it in interventionist terms is unknown until it is read.
+
+**The substitute.** Kendler's 2008 "Explanatory Models for Psychiatric
+Illness" ([LIT-tmp2h31z](LIT-tmp2h31z.md)) is filed and read in full in its place, and
+declares that it extends this paper. Its opening premise, that
+etiological models "need to be pluralistic or multilevel", is cited to
+this paper. It works out two of this abstract's propositions:
+
+- "Patchy reductionism" and "piecemeal integration" (propositions 7–8)
+  become the decomposition of multilevel mechanisms into locally
+  decomposable subsystems and their reassembly. It argues against both
+  "hard reductionism" and "hard emergentism".
+- Two-way mind–brain causation (proposition 4) becomes Marr-style
+  implementation: "biology will implement but not replace psychology".
+
+It does not argue propositions 1–3 (first-person grounding, the falsity of
+substance dualism, the falsity of epiphenomenalism). For those this paper
+is still needed.
+
+**Priority for a reading: medium**, now that the substitute carries the
+pluralism; higher if propositions 1–3 are wanted.
+
+Access when seeded:
+
+- PubMed 15741457 (abstract); Europe PMC (no full text).
+- Crossref record (volume, issue, pages, month).
+- Unpaywall: closed.
+- psychiatryonline.org full text and PDF: HTTP 403 with a challenge page.

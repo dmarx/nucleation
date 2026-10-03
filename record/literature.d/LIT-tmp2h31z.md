@@ -1,0 +1,126 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpcw77b](../notes.d/NOTE-tmpcw77b.md)), from the NIH author manuscript in PubMed Central; filed as the readable substitute for Kendler''s 2005 "Toward a Philosophical Structure for Psychiatry" ([LIT-tmpsxzb4](LIT-tmpsxzb4.md)), which has no lawful open copy. It opens by citing the 2005 paper for its premise that etiological models must be pluralistic, and develops two of the 2005 abstract''s propositions at length: piecemeal integration becomes "decomposition and reassembly" of multilevel mechanisms, and the mind–brain question becomes Marr-style implementation, in which "biology will implement but not replace psychology". It does not restate the 2005 paper''s arguments against dualism and epiphenomenalism, so it stands in for the pluralism, not for the whole of the earlier paper.'
+title: 'Explanatory Models for Psychiatric Illness'
+version: 1
+tags:
+- philosophy-of-science
+- psychopathology-and-treatment
+- metaphysics
+- complex-systems
+- cognition
+date: '2026-10-03'
+published: '2008-05-15'
+doi: '10.1176/appi.ajp.2008.07071061'
+first_author: 'Kendler'
+extends:
+- LIT-tmpsxzb4
+keywords:
+- 'explanatory pluralism'
+- 'mechanistic explanation'
+- 'decomposition and reassembly'
+- 'aggregativity'
+- 'causal loops'
+- 'hard reductionism'
+- 'hard emergentism'
+- 'Marr''s levels'
+- 'implementation versus replacement'
+- 'alcohol dependence'
+implementations: []
+summary: >-
+  Kendler (2008), American Journal of Psychiatry 165(6):695–702. Psychiatry
+  should explain by mechanisms, not laws. Psychiatric causes act at many
+  levels, within and outside the person, and are non-aggregative and
+  loop-ridden, as an alcohol-dependence sketch shows (gene–environment
+  interaction, tolerance feedback, niche selection, aversive cultural
+  transmission). So "hard reductionism" and "hard emergentism" both fail,
+  but locally decomposable subsystems can still be studied and then
+  reassembled. After Marr, biology will implement psychological
+  functions, not replace them.
+---
+<!-- inactive-ok-file: LIT-tmpsxzb4 — Deferred, no lawful full text; Kendler 2005, the paper this one extends and substitutes for, compared only through its abstract -->
+<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named only because this paper cites it as an earlier integrationist account -->
+
+# LIT-tmp2h31z: Explanatory Models for Psychiatric Illness
+
+Kenneth S. Kendler, *American Journal of Psychiatry* 165(6):695–702, June 2008 (online 15 May 2008) — DOI-10.1176/appi.ajp.2008.07071061
+
+Read from the NIH author manuscript in PubMed Central (PMC2744075,
+NIHMS140509), which carries no journal page numbers. `published:` is the
+online date PubMed gives; Crossref gives June 2008.
+
+## Key takeaways
+
+- **Mechanisms, not laws.** A law-based model of science, taken from
+  physics, assumes that one perspective and one set of laws will explain
+  everything. In psychiatry it has encouraged both "hard reductionism"
+  ("best explained solely in terms of molecular neuroscience") and "hard
+  emergentism". A mechanistic model sits between them.
+- **Psychiatric causation is not easily decomposable.** In the
+  alcohol-dependence sketch, genetic effects depend on religion, marriage
+  and social setting. Tolerance feeds heavier drinking. Temperament selects
+  risky peers (the "brain has feet"). Children of heavy drinkers abstain
+  more often, a top-down loop. Risk factors are context-dependent and
+  causation is loop-ridden, so the parts are neither additive nor
+  "intersubstitutable".
+- **Decomposition still works locally.** Following Bechtel, Wimsatt and
+  Craver, the strategy is to study subsystems of local decomposability and
+  then do the hard "stitching" back together. "The naive emergentism …
+  is just plain wrong", and so is the reductionist hope that the parts
+  "simply fit together".
+- **Biology implements psychology.** Marr's three levels give a hierarchy in
+  which biological findings are understood through the psychological
+  functions they implement. Implementation, not replacement, describes
+  Kandel's Aplysia work and vision and memory research. Biology and
+  psychology "will coevolve".
+
+## Standing in the record
+
+Filed on 2026-10-03 at the coordinator's request, as the readable
+substitute for Kendler 2005 ([LIT-tmpsxzb4](LIT-tmpsxzb4.md)) under the owner's licence to
+supplant long or unreadable works with shorter ones by the same author.
+
+**How it relates to the 2005 paper**, judged from this paper and the 2005
+abstract, since the 2005 text was not read. That is why `extends` is
+declared:
+
+- The 2008 paper's first substantive sentence says etiological models "need
+  to be pluralistic or multilevel", and the first reference given for it is
+  Kendler 2005. The 2005 paper is the premise this one builds on, and it
+  is cited as such.
+- The 2005 abstract ends with "patchy reductionism" and "piecemeal
+  integration … bit by bit". This paper is the worked-out version: local
+  decomposition first, then reassembly, through Bechtel's mechanisms and
+  Wimsatt's aggregativity.
+- The 2005 abstract asserts real causation in both directions between mind
+  and brain. This paper reframes the mind–brain question as one of
+  explanatory perspective: biology implements functions that psychology
+  states. That is a development, not a restatement.
+- What the 2008 paper does not carry: the 2005 abstract's propositions on
+  first-person experience, substance dualism and epiphenomenalism are not
+  argued here. A reader wanting those still needs the 2005 paper.
+
+It also bears on the batch:
+
+- **Borsboom ([LIT-tmpmi1g3](LIT-tmpmi1g3.md))**: Kendler's "causal loops" and nonaggregative
+  causation are the same picture Borsboom turns into a theory of symptom
+  networks with feedback. The difference is in what the loops connect:
+  Kendler's run across levels (genes, temperament, peers, culture), while
+  Borsboom's run between symptoms, with everything else in the external
+  field.
+- **Engel ([LIT-tmpmztbn](LIT-tmpmztbn.md))**: cited here as part of "a distinguished lineage
+  of earlier integrationist accounts". Kendler presents his mechanistic
+  approach as "a conceptually rigorous descendant" of it.
+- **Hofmann and Hayes ([LIT-tmpeg79d](LIT-tmpeg79d.md))** also reject "eliminative
+  reductionism" and want psychology integrated with the life sciences.
+  Both papers use the illusion-of-control CO₂ panic study (Sanderson,
+  Rapee and Barlow 1989) as evidence of top-down, psychological effects.
+- **Mental causation ([LIT-147](LIT-147.md))**: Pernu's argument concerns whether
+  interventionist evidence supports nonreductive mental causation. Kendler
+  argues for a different relation, implementation, in which the
+  psychological level frames the biological rather than being reduced to
+  it.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology. A grep of the anthology's literature.d, notes.d and theory.d for
+"Kendler" and the DOI found nothing.

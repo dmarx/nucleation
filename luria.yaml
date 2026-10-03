@@ -108,6 +108,9 @@ vocabularies:
       moral-psychology:
         label: Moral psychology
         blurb: 'morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018)'
+      psychopathology-and-treatment:
+        label: Psychopathology and treatment
+        blurb: 'what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
