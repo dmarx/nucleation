@@ -1,0 +1,145 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp4mh9o](../notes.d/NOTE-tmp4mh9o.md)); worth reading as Block''s textbook statement of what "the mind is the software of the brain" means: intelligence explained by functional decomposition into primitive processors, the brain as a syntactic engine driving a semantic engine, intentionality explained by the language of thought plus functional role semantics, and the defence of that picture against Dennett''s objections, Stich''s syntactic theory (by the "Reductionist Cruncher") and Searle''s Chinese room. It is a survey for an introductory volume, so its arguments are compressed, but it states clearly two things the record uses: intelligence is future-oriented and intentionality past-oriented, and the computer model may give intentionality without phenomenal consciousness.'
+title: 'The Mind as the Software of the Brain'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the scan Block links from his own publications page
+    (nedblock.us/publications, a Google Drive file): 26 PDF pages, two
+    printed pages each, with an OCR text layer of uneven quality; chapter
+    11, pp. 377–425, including the problems, questions, notes 1–7 and
+    references. Crossref gives An Invitation to Cognitive Science, MIT
+    Press, 1995, DOI 10.7551/mitpress/3966.003.0016, without pages or
+    authors; the scan's title pages give the second edition, Volume 3:
+    Thinking, edited by Edward E. Smith and Daniel N. Osherson.
+    `published:` is the year only. Not held in the Anthology of the SOTA:
+    a grep of its record for "Block" and the title found nothing.
+tags:
+- cognition
+- philosophy-of-language
+- metaphysics
+date: '2026-10-03'
+published: '1995-01-01'
+doi: '10.7551/mitpress/3966.003.0016'
+first_author: 'Block'
+keywords:
+- 'computer model of the mind'
+- 'functional analysis'
+- 'primitive processors'
+- 'syntactic engine'
+- 'semantic engine'
+- 'language of thought'
+- 'functional role semantics'
+- 'Turing test'
+- 'Chinese room'
+- 'explanatory levels'
+implementations: []
+summary: >-
+  Block (1995), in Smith & Osherson (eds.), An Invitation to Cognitive
+  Science, 2nd ed., vol. 3, Thinking, MIT Press, ch. 11, pp. 377–425. The
+  computer model explains intelligence by decomposing it into ever stupider
+  processors that bottom out in primitive processors, the only devices for
+  which behaviourism is true. The brain is a syntactic engine driving a
+  semantic engine, by an isomorphism between symbol transitions and
+  rational relations among meanings, which must hold counterfactually, so a
+  wall is not every computer. Intentionality comes from the language of
+  thought plus functional role semantics. Stich's syntactic theory falls to
+  the "Reductionist Cruncher", and the systems reply answers Searle,
+  though Block doubts the Chinese system is phenomenally conscious.
+---
+<!-- inactive-ok-file: LIT-148 — Deferred: López-Rubio is held from the abstract; named as a neighbour, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named as the account this bears on, no relation claimed -->
+
+# LIT-tmp5vkka: The Mind as the Software of the Brain
+
+Ned Block (1995), "The Mind as the Software of the Brain", in Edward E.
+Smith and Daniel N. Osherson (eds.), *Thinking: An Invitation to Cognitive
+Science*, 2nd edition, Volume 3, Cambridge, MA: MIT Press, chapter 11,
+pp. 377–425 — DOI-10.7551/mitpress/3966.003.0016.
+
+The brief's citation (in *An Invitation to Cognitive Science*, 1995) is
+correct; it is volume 3, *Thinking*, of the second edition.
+
+## Key takeaways
+
+- **The Turing test fails as a definition (§11.1.1).** The judge is the gap:
+  in the First Turing Test (Boston Computer Museum, 1991) an ELIZA variant
+  was classified as human by five of ten judges, and Block was one of the
+  referees who failed to enforce the restriction to non-tricky questions.
+  The "Aunt Bubbles machine" (the Blockhead of [LIT-tmpnnioj](LIT-tmpnnioj.md), n. 1) refutes
+  even the claim that the mental supervenes on the behavioural.
+- **Functional analysis and primitive processors (§§11.1.3–11.1.4).**
+  Intelligent capacities are explained by decomposition into less
+  intelligent ones, ending in primitive processors whose working is a
+  question for electronics or physiology. "Primitive processors are the only
+  computational devices for which behaviorism is true." Gates can be
+  electrical or a cat and mice; hardware is irrelevant to computational
+  description, which is why the computer model is "profoundly unbiological"
+  (§11.1.5).
+- **Intelligence vs intentionality (§11.2).** A swamp-brain duplicate is
+  arguably intelligent but has no intentional states: "intelligence is future
+  oriented", intentionality "has a past-oriented requirement". Functional
+  decomposition explains intelligence, not intentionality, since parts can be
+  as intentional as the whole.
+- **Syntactic engine, semantic engine (§§11.2.1–11.2.2).** An adder works
+  because a symbol function is isomorphic to a semantic function; at the
+  primitive level, subject matter shifts from numbers to numerals. Searle's
+  wall computes nothing, because the isomorphism must cover "all the
+  computations that the machine could have performed": "A rock ... is not an
+  X-OR gate."
+- **Language of thought and functional role (§§11.3–11.4).** Content derives
+  from the meaning of internal symbols, and functional role, including input
+  and output relations, fixes meaning. Dennett's three objections (infinite
+  beliefs, queen out early, sister in Cleveland) are answered with a
+  protoscientific notion of explicit, causally active belief. The
+  systematicity argument is sound for conscious thought but "shows little
+  about encapsulated modules and other unconscious systems".
+- **Levels and the Chinese room (§§11.5–11.6).** The "Reductionist
+  Cruncher": if a syntactic level undermined the content level by being more
+  general and finer-grained, physics would undermine syntax in turn. The
+  systems reply is right that a person can implement a Chinese-understanding
+  system without understanding Chinese. But "I have my doubts as to whether
+  there is anything 'it is like' to be the Chinese system", since
+  "consciousness is more a matter of implementation of symbol processing than
+  of symbol processing itself".
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the short statement of the
+computational theory of mind by its most persistent critic of functionalism
+about experience. No anthology topic holds a philosophical account of the
+computer model of mind, and it carries no instruction for machine-learning
+practice. It is a textbook chapter; read it for its formulations, and the
+primary papers for the arguments.
+
+No relation is declared: it restates Block's own earlier arguments and
+surveys others'.
+
+**Where it bears.**
+
+- *Chalmers on implementation* ([LIT-404](LIT-404.md), [NOTE-342](../notes.d/NOTE-342.md)). §11.2.2 answers Searle's
+  and Putnam's triviality claim the way Chalmers does, by counterfactual
+  transitions, and cites Chalmers's "On implementing a computation" (1994)
+  and O'Rourke and Shattuck's critique of Putnam's theorem.
+- *Searle* ([LIT-400](LIT-400.md), [NOTE-349](../notes.d/NOTE-349.md)). The systems reply is defended against the
+  internalisation move with a nine-to-five Chinese simulator who quits at
+  5 p.m. The concession on phenomenal consciousness is the point where Block
+  and Searle agree.
+- *AI consciousness* ([LIT-056](LIT-056.md), [NOTE-052](../notes.d/NOTE-052.md); [THEORY-023](../theory.d/THEORY-023.md)). Butlin et al. adopt
+  computational functionalism as a working hypothesis. Block grants a
+  computational account of intelligence and of intentionality but doubts it
+  for phenomenal consciousness, on the ground that consciousness may depend on
+  implementation. That is [THEORY-023](../theory.d/THEORY-023.md)'s second deadlock, stated in 1995 by a
+  functionalist about thought.
+- *[NOTE-117](../notes.d/NOTE-117.md) (RTM, metasemantics).* The orthodoxy Block describes, Fodor's
+  Belief Box with meanings fixed by functional role including perception and
+  action, is the form of RTM [NOTE-117](../notes.d/NOTE-117.md) defends against Toon, and n. 4 notes
+  that the reference of 'Aristotle' in the language of thought derives from the
+  public word, a point for a socially grounded metasemantics.
+- *Connectionism.* Backpropagation models are "firmly within the
+  computationalist paradigm" because they keep connections that flip sign
+  (§11.1.5). López-Rubio's computational functionalism for deep learning
+  ([LIT-148](LIT-148.md)) is a later neighbour.

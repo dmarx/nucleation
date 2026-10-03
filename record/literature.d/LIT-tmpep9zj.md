@@ -1,0 +1,144 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpzaeih](../notes.d/NOTE-tmpzaeih.md)); worth reading as Block''s fullest case against representationism about phenomenal character ("phenomenism" against "representationism"). It separates mental paint (phenomenal properties that represent) from mental oil (phenomenal properties that do not), argues against internalist representationism with Erisa, raised among colours that keep changing, and against externalist representationism with Inverted Earth, long-term memory, and an empirical "shifted spectra" argument from normal variation in cone sensitivity and in where people place unique green. Several of its arguments are offered as pressure, not proof, and Block says so.'
+title: 'Mental Paint'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the PDF Block links from his own publications page
+    (nedblock.us/publications, a Google Drive file). That file is the
+    whole of Hahn & Ramberg (eds.), Reflections and Replies: Essays on the
+    Philosophy of Tyler Burge (MIT Press, 2003); only Block's chapter 9,
+    pp. 165–200, was read, including notes 1–15. Burge's reply to Block in
+    the same volume was not read. Crossref has no DOI for the 2003
+    chapter, so the source is the author's link; the 2007 reprint in
+    Block's Consciousness, Function, and Representation has DOI
+    10.7551/mitpress/2111.003.0030 and was not seen. Note 15 says the
+    chapter "is a descendant of 'Mental Paint and Mental Latex'"
+    (Philosophical Issues 7, 1996, DOI 10.2307/1522889), a different and
+    earlier paper, not read. `published:` is the year only. Not held in
+    the Anthology of the SOTA: a grep of its record for "Block", "mental
+    paint" and "representationism" found nothing.
+tags:
+- consciousness
+- cognition
+- metaphysics
+date: '2026-10-03'
+published: '2003-01-01'
+url: 'https://drive.google.com/file/d/1nUqCY8WJd32pDNwt1yOaxzU1HQi2cDA7/view'
+first_author: 'Block'
+keywords:
+- 'mental paint'
+- 'mental oil'
+- 'phenomenism'
+- 'representationism'
+- 'phenomenal character'
+- 'transparency'
+- 'Inverted Earth'
+- 'shifted spectra'
+- 'externalism'
+- 'swampman'
+implementations: []
+extends:
+- LIT-tmp8qzkt
+summary: >-
+  Block (2003), in Hahn & Ramberg (eds.), Reflections and Replies, MIT
+  Press, pp. 165–200. Phenomenal character outruns representational
+  content. Internalist representationism must find a functional difference
+  for every phenomenal one, and Erisa, raised where colours keep changing,
+  has vivid colour differences with no abiding functional ones. Against
+  externalist representationism: a swampman has phenomenal character and no
+  content; attention is not awareness, so transparency fails as a claim
+  about awareness; on Inverted Earth what stays the same is mental paint;
+  and normal variation in colour vision means, if representationism is
+  true, that a standard chip cannot look its shade to both men and women.
+---
+<!-- inactive-ok-file: LIT-443 — Deferred: Dennett's book is unread; named only as the work Block cites -->
+
+# LIT-tmpep9zj: Mental Paint
+
+Ned Block (2003), "Mental Paint", in Martin Hahn and Bjørn Ramberg (eds.),
+*Reflections and Replies: Essays on the Philosophy of Tyler Burge*,
+Cambridge, MA: MIT Press (a Bradford Book), chapter 9, pp. 165–200. Read
+from the copy Block links from his publications page.
+
+The brief's citation (in *Reflections and Replies*, 2003) is correct.
+
+## Key takeaways
+
+- **Phenomenism (p. 165).** Sensations "almost always" have representational
+  content, and "it is often the phenomenal character itself that has the
+  representational content", but "phenomenal character outruns
+  representational content".
+- **Paint and oil (pp. 172–174).** Three things: the intentional content of
+  an experience; *mental paint*, mental properties of the experience that do
+  the representing (phenomenal character, on Block's view, is one); and
+  *mental oil*, mental properties that represent nothing, which Block claims
+  for orgasm, pain and other bodily sensations.
+- **Against internalist representationism (pp. 166–168).** Its only resources
+  are functional. Erisa, raised in a room where every surface changes colour
+  every few minutes, with no colour words and no standing colour beliefs,
+  has "vivid" colour differences and no abiding functional differences that
+  could constitute them. Replies appeal to "unsupported empirical claims".
+- **Against externalist representationism.** If phenomenal character
+  supervenes on the brain, a swampman has it with no content (pp. 170–171).
+  Harman's transparency is right about attention and "straightforwardly
+  wrong" about awareness (the jackhammer, the refrigerator compressor); and
+  phosphenes and Bach-y-Rita's tactile vision show attention to experience
+  is possible (pp. 171–179). On Inverted Earth, revised so the traveller
+  knowingly adopts the new community, phenomenal character stays the same
+  while colour content changes; for colour, unlike water, there is no shared
+  "appearance property" for the representationist to appeal to, so "Mental
+  paint is what stays the same" (pp. 183–186).
+- **Shifted spectra (pp. 188–194).** Normal observers differ in peak cone
+  sensitivity (standard deviation 1–2 nm), with a genetic split in long-wave
+  cones differing by 5–7 nm, and in a classic study 50 normal subjects put
+  unique green anywhere from 490 to 517 nm, "9 percent of the visible
+  spectrum". So a standard aquamarine chip, a minimal shade, probably looks
+  different to different people, though all represent it as aquamarine.
+  "If representationism is right, color experience probably cannot be
+  veridical for both men and women, both blacks and whites, both young and
+  old. Hence representationism is not right" (p. 191).
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the record's statement of
+the case against representationalism about phenomenal character. No
+anthology topic holds it, and it carries no instruction for machine-learning
+practice.
+
+**Relation declared.** `extends:` [LIT-tmp8qzkt](LIT-tmp8qzkt.md). The chapter restates the
+Inverted Earth argument against representationism instead of
+functionalism, changes the case so the subject consciously adopts the new
+language community (p. 185), adds the long-term-memory reply to Lycan's
+gradual-shift objection, and shows in n. 10 that both Inverted Earth and the
+inverted spectrum yield counterexamples in both directions.
+
+**The record's representationalist holdings.**
+
+- *Metzinger* ([LIT-568](LIT-568.md), [NOTE-460](../notes.d/NOTE-460.md); [LIT-450](LIT-450.md), [NOTE-372](../notes.d/NOTE-372.md)) holds that phenomenal
+  content is representational content with specific functional properties
+  and locally supervenes on the brain. That is the internalist, functionalist
+  representationism of this chapter's first section, and Erisa is aimed at
+  exactly it. Block names Tye, Rey and White as holders; the pairing with
+  Metzinger is mine.
+- *Ivy & Mroczko-Wąsowicz* ([LIT-099](LIT-099.md), [NOTE-150](../notes.d/NOTE-150.md)) are representationalist about
+  perception's content without a claim about phenomenal character, so the
+  chapter does not bear on them.
+- *Chalmers's meta-problem* ([LIT-425](LIT-425.md), [NOTE-354](../notes.d/NOTE-354.md)) lists first-order
+  representationalism among theories that can begin to explain problem
+  reports. This chapter's claim is that the representationist cannot say what
+  stays the same on Inverted Earth, which is the kind of report such a theory
+  would have to explain.
+- *Dennett*. Block cites *Consciousness Explained* (1991; [LIT-443](LIT-443.md), held
+  unread) for the claim that innate reactions to colours (red makes us
+  nervous, blue calm) differ functionally, and calls such claims "empirical
+  speculations" that could not constitute phenomenal character (p. 167).
+
+**Physicalist phenomenism.** Block calls himself "a reductionist, a
+physicalist phenomenist" (p. 182): phenomenal qualities are physical,
+possibly even psychofunctional, but not representational. So this is not
+an argument for dualism, and it is consistent with [LIT-407](LIT-407.md)'s bet on
+neurophysiology.

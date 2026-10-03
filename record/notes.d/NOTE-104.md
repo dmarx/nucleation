@@ -35,6 +35,7 @@ summary: >-
   conscious AIs will be person-like, and the question will then be settled
   socially rather than scientifically (the "Social Semi-Solution").
 ---
+<!-- inactive-ok-file: LIT-tmphk2iw — Deferred; the book the cited "Block 2023" names, not leaned on -->
 
 # NOTE-104: Schwitzgebel — AI and Consciousness
 
@@ -87,7 +88,7 @@ The book argues; it proves nothing. Chapter by chapter:
 | C10 | A system with all the indicator features favoured by leading theories is likelier to be conscious than one with none | moderate | informal credence argument, conditional on nonzero credence in the theories (p. 85) |
 | C11 | The iterative natural kind strategy may eventually converge or fail informatively, but only on a timescale longer than AI development | weak | assertion by analogy to Chang's thermometry; no timescale argument |
 | C12 | No sustained argument shows autopoiesis necessary for consciousness, and AI could be minimally autopoietic | moderate | informal argument plus a constructed robot example, ch. 10 §1 |
-| C13 | The neural replacement argument fails | moderate | informal argument; cited (Cao 2022; Block 2023; Schwitzgebel 2022) |
+| C13 | The neural replacement argument fails | moderate | informal argument; cited (Cao 2022; Block 2023, [LIT-tmphk2iw](../literature.d/LIT-tmphk2iw.md); Schwitzgebel 2022) |
 | C14 | Copernican mediocrity implies consciousness does not require our fine-grained biology | moderate | informal argument; astronomical premises cited |
 | C15 | The first conscious AIs will leap straight to complex, person-like consciousness (Leapfrog) | weak | conditional informal argument: both conditions called "plausible", neither shown |
 | C16 | Social preference, not science, will settle attributions of AI consciousness (Social Semi-Solution) | weak | prediction; historical analogy only |
