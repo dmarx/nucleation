@@ -1,0 +1,124 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpdrgaj](../notes.d/NOTE-tmpdrgaj.md)); worth reading as the reference statement of Bayesian model reduction (BMR): the reduced free energy F[P̃:P] ≈ ln E_Q[P̃/P] + F[P] (Eq. 9), which the authors call a generalisation of the Savage–Dickey ratio "to any new prior", with closed forms for Gaussian, Dirichlet, beta, gamma, categorical and multinomial priors (Eqs. 11–12, Table 1). The Dirichlet form is what lets active-inference agents prune their own likelihood mappings. Its examples are simulations, and its review of applications is of the authors'' own lab.'
+title: 'Bayesian model reduction'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from arXiv 1805.07092v2 (14 October 2019, "thoroughly
+    updated", 32 pages); v1 (18 May 2018) was not read. The displayed
+    equations did not survive text extraction; Eqs. 9, 10 and 12 were
+    read from page images, and the rest of the equations from the prose
+    that states them. Citation verified: arXiv lists exactly three
+    authors, Karl Friston, Thomas Parr and Peter Zeidman, in that order,
+    with Zeidman as corresponding author; there is no "et al.". The year
+    is 2018 for v1 and 2019 for the version read. I found no journal
+    version. Not held in the Anthology of the SOTA: a grep of its record
+    for "Friston", "model reduction" and the arXiv id found nothing.
+tags:
+- model-comparison
+- probabilistic-modeling
+- neuroscience
+date: '2026-10-03'
+published: '2018-05-18'
+arxiv: '1805.07092'
+first_author: 'Friston'
+keywords:
+- 'Bayesian model reduction'
+- 'reduced free energy'
+- 'structure learning'
+- 'variational Bayes'
+- 'empirical Bayes'
+- 'model comparison'
+- 'Savage–Dickey density ratio'
+- 'dynamic causal modelling'
+- 'Dirichlet'
+implementations:
+- 'SPM (spm_log_evidence, spm_MDP_log_evidence, spm_gamma_log_evidence, spm_multinomial_log_evidence, spm_dcm_bmr_all)'
+extends:
+- LIT-tmpuhjzx
+summary: >-
+  Friston, Parr & Zeidman (2018; v2 2019), arXiv:1805.07092. A review of
+  Bayesian model reduction: given a fitted full model's prior P, approximate
+  posterior Q and free energy F, the free energy of a model with any other
+  prior P̃ is ln E_Q[P̃/P] + F, and its posterior follows by reweighting Q
+  (Eqs. 9–10). Closed forms are given for Gaussian, Dirichlet, beta, gamma,
+  categorical and multinomial priors. Three worked simulations (sparse
+  regression, cluster pruning in a Gaussian mixture, network discovery in
+  a linear dynamical system) and a review of uses: structure learning,
+  hierarchical (PEB) inversion as a cascade of reductions, and
+  "sleep-like" pruning in active-inference agents.
+extended_by:
+- LIT-tmpesz2r
+---
+
+<!-- inactive-ok-file: THEORY-073 — Proposed; named as the reading of Markov blankets this paper's Eq. 5 usage does not go beyond, with no relation claimed -->
+
+# LIT-tmpbgf7s: Bayesian model reduction
+
+Karl Friston, Thomas Parr and Peter Zeidman (2018; revised 2019), arXiv preprint — [ARXIV-1805.07092](https://arxiv.org/abs/1805.07092)
+
+**Citation verified.** The brief gave "Friston, Parr & Zeidman et al.
+(2018)". arXiv and the PDF list three authors and no others, so "et al." is
+wrong. 2018 is right for the first version. The version read is v2 of 14
+October 2019, which the authors describe as thoroughly updated, with more
+derivations and three worked examples.
+
+## Key takeaways
+
+- **The identity, in variational form.** For a reduced prior P̃(θ) on the
+  same likelihood, ln P̃(y) = ln ∫ Q(θ) P̃(θ)/P(θ) dθ + ln P(y), so
+  F[P̃ : P] ≈ ln E_Q[P̃/P] + F[P] (Eq. 9), and ln Q̃ = ln Q + ln(P̃/P) −
+  ln E_Q[P̃/P] (Eq. 10). The authors: "Some readers will recognise this as a
+  generalisation of the Savage-Dickey density ratio … to any new prior."
+- **Closed forms beyond Gaussians.** The Gaussian case is Friston & Penny's.
+  The Dirichlet case is ã = a + ã₀ − a₀ and ΔF = ln B(a₀) − ln B(ã₀) +
+  ln B(ã) − ln B(a), with B the multivariate beta function (Eq. 12; ₀ marks
+  priors, no subscript posteriors). Table 1 adds beta, categorical, gamma
+  and multinomial.
+- **Structure learning by pruning.** Switching parameters off with precise
+  shrinkage priors (N(0, e⁻¹⁶)) and keeping reductions that raise the free
+  energy recovers sparse structure in simulation: a 20-regressor regression,
+  an 8-cluster mixture pruned to the true 5, and an 8-node network.
+- **Hierarchical inversion as a cascade of reductions.** The reduced free
+  energy of level i, under the empirical prior from level i + 1, acts as
+  that level's likelihood (Eqs. 16–17). This is how SPM's parametric
+  empirical Bayes inverts group studies without re-fitting each subject.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, in the model-comparison batch.
+No anthology topic holds it. It is a statistical technique reviewed for
+neuroimaging and theoretical neurobiology, and it carries no instruction
+for machine-learning practice, though it names the ELBO and cites
+variational-inference work.
+
+It extends Friston & Penny ([LIT-tmpuhjzx](LIT-tmpuhjzx.md)). It cites that paper for the
+Gaussian case and for the derivation of its Eq. 11, restates its identity
+(Eqs. 6–8 here against Eqs. 3–4 there), and adds the conjugate
+exponential-family forms that Friston & Penny did not give. The
+generalisation-of-Savage–Dickey claim is the same one Friston & Penny make
+with their Eq. 6. The record reads the ratio itself in Wagenmakers et al.
+([LIT-tmp2suxj](LIT-tmp2suxj.md)).
+
+Where it touches the record's free-energy holdings:
+
+- **Markov blankets, in their original statistical sense.** Eq. 5 states
+  the mean-field update: the optimal approximate posterior for a subset of
+  parameters is the softmax of the expected log joint "under its Markov
+  blanket". This is the graphical (Pearl) blanket in a factorised posterior.
+  It is a computational convenience, defined relative to whichever subset
+  is being updated, and claims to individuate nothing. That is the reading
+  of blankets that [THEORY-066](../theory.d/THEORY-066.md) says is all the formalism supports, and that
+  [THEORY-073](../theory.d/THEORY-073.md) says the free-energy literature on life, Friston's *Life as we
+  know it* ([LIT-526](LIT-526.md)), goes beyond. This paper does not take a side; it
+  shows the device in the setting it came from.
+- **Active inference.** §7.2 reviews BMR in an agent, after Friston et al.
+  (2017a): offline "thinking about things", likened to sleep, prunes
+  Dirichlet likelihood parameters and improves later learning. Smith et al.
+  ([LIT-tmpesz2r](LIT-tmpesz2r.md)) build their concept-learning model on this. *Sophisticated
+  Inference* ([LIT-577](LIT-577.md)) uses the same discrete generative models (A, B, C, D
+  matrices) but is about planning, not structure.
+

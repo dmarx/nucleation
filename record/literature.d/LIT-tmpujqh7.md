@@ -1,0 +1,105 @@
+---
+status: Active
+status_note: 'read 2026-10-03 ([NOTE-tmpmuzzu](../notes.d/NOTE-tmpmuzzu.md)); worth reading as the source of per-dimension Kronecker preconditioning: for a matrix parameter, left and right statistics L = Σ GGᵀ and R = Σ GᵀG, update W ← W − η L^{-1/4} G R^{-1/4}, i.e. a step preconditioned by (L ⊗ R)^{1/4}, which by Lemma 8 dominates the full AdaGrad matrix. Its statistic is the accumulated gradient outer product, not the Fisher; its guarantee is an O(√T) regret in online convex optimization; its deep-learning evidence is four training curves.'
+title: 'Shampoo: Preconditioned Stochastic Tensor Optimization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read from arXiv v2 (2 March 2018, 21 pages); v1 is 26 February 2018.
+    Published at ICML 2018, PMLR 80:1842–1850 (PMLR page checked). Main
+    text and Appendix A read; the tensor-case proofs in Appendix B and the
+    short proofs in Appendix C skimmed. Not held in the Anthology of the
+    SOTA: a grep of its record for "1802.09568" found nothing; it holds two
+    successors, SOAP (ANTH-LIT-157) and Distributed Shampoo (ANTH-LIT-158).
+tags:
+- information-geometry
+- anthology-candidate
+date: '2026-10-03'
+published: '2018-02-26'
+arxiv: '1802.09568'
+first_author: 'Gupta'
+keywords:
+- 'preconditioning'
+- 'AdaGrad'
+- 'Kronecker product'
+- 'tensor optimization'
+- 'online convex optimization'
+- 'regret bound'
+- 'matrix geometric mean'
+implementations: []
+summary: >-
+  Gupta, Koren & Singer (2018), ICML. For a parameter tensor of order k,
+  Shampoo keeps one preconditioner per dimension, each the gradient
+  contracted with itself over all other dimensions, and multiplies the
+  gradient along dimension i by (Hⁱ)^{-1/2k}. In the matrix case this is
+  W ← W − η L^{-1/4} G R^{-1/4}, equivalent to preconditioning the flattened
+  gradient by (L ⊗ R)^{1/4}, which upper-bounds the full-matrix AdaGrad
+  preconditioner up to the gradient rank (Lemma 8). Regret is O(√T) in
+  online convex optimization (Theorems 7, 10). On CIFAR-10/100 and LM1B it
+  converges faster than SGD with momentum, Adam and AdaGrad at similar step
+  time.
+---
+
+# LIT-tmpujqh7: Shampoo: Preconditioned Stochastic Tensor Optimization
+
+Vineet Gupta, Tomer Koren and Yoram Singer (2018), ICML 2018 — [ARXIV-1802.09568](https://arxiv.org/abs/1802.09568)
+
+## Key takeaways
+
+- **One preconditioner per tensor dimension.** For W ∈ ℝ^{m×n},
+  Lₜ = Lₜ₋₁ + GₜGₜᵀ and Rₜ = Rₜ₋₁ + GₜᵀGₜ, and Wₜ₊₁ = Wₜ − ηLₜ^{-1/4}GₜRₜ^{-1/4}
+  (Algorithm 1). Memory is m² + n² instead of m²n², and the matrix roots
+  cost O(m³ + n³) instead of O(m³n³). For order k, dimension i's
+  preconditioner is the contraction G⁽ⁱ⁾ = matᵢ(G)matᵢ(G)ᵀ and its power is
+  −1/2k (Algorithm 2).
+- **It is a Kronecker approximation to full-matrix AdaGrad, not to the
+  Fisher.** Lemma 8: εI + (1/r)Σ ggᵀ ⪯ (εI + Σ GGᵀ)^{1/2} ⊗ (εI + Σ GᵀG)^{1/2}
+  for gradients of rank at most r. So the Kronecker product of the two
+  factors dominates the flattened gradient second moment, and its small
+  eigenvalues "do not vanish". The proof rests on Ando, Li and Mathias's
+  operator monotonicity of geometric means.
+- **The guarantee is convex.** Regret ≤ √(2r) D Tr(L_T^{1/4}) Tr(R_T^{1/4})
+  (Theorem 7), O(√T) under spectral-norm Lipschitz losses; the tensor
+  version is Theorem 10. Nothing is proved for non-convex training.
+- **Practice adds two heuristics**: preconditioner roots recomputed every
+  20–100 steps, and momentum 0.9 on the gradient. Each tensor is
+  preconditioned separately, so the overall preconditioner is block-diagonal
+  over tensors, and a dimension above about 1200 falls back to a diagonal
+  factor.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, beside K-FAC ([LIT-tmpuzob3](LIT-tmpuzob3.md)), as
+the other widely used Kronecker-structured preconditioner. It takes
+`information-geometry` for the Kronecker and block structure of a curvature
+proxy, which that word's blurb names, but a reader should not take it for a
+Fisher method: its matrices are sums of gradient outer products over steps,
+at the training labels, which K-FAC's authors would call an empirical-Fisher
+quantity, and the paper never mentions the Fisher at all. It is an ML
+optimizer and carries `anthology-candidate`; the anthology already reads
+what became of it, SOAP ([ANTH-LIT-157](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-157.md)), which recasts Shampoo at the 1/2
+power as Adafactor in Shampoo's eigenbasis, and the distributed PyTorch
+implementation ([ANTH-LIT-158](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-158.md)).
+
+**No relation to K-FAC is declared.** The paper discusses K-FAC in its
+related work and contrasts the two: K-FAC approximates the Fisher of a
+generative model, needs samples from the predictive distribution and relies
+on the structure of backpropagated gradients, while Shampoo uses only
+gradients, applies to any online convex problem and needs no knowledge of
+the architecture. But it neither runs K-FAC in its experiments (the
+baselines are SGD with momentum, Adam and AdaGrad), nor builds on it: its
+lineage is AdaGrad and the authors' own adaptive-regularization framework.
+So `compared_against` would claim a measurement that was not made, and
+`extends` a dependence that does not exist.
+
+For the owner's question, what block structure is real, Shampoo imposes a
+per-dimension structure blind to the network, and K-FAC a per-layer one
+that knows activations from derivatives. For a fully connected layer the
+two factor the same two sides of the weight matrix, but with different
+statistics and different powers (−1/4 per side here, −1 per side in K-FAC).
+Papyan's measurements ([LIT-tmpbfzro](LIT-tmpbfzro.md)) of what the true Fisher of a
+classifier looks like apply to K-FAC directly; whether they say anything
+about Shampoo's accumulated gradient statistic is not established by any
+paper in this batch.
