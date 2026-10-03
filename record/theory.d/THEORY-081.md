@@ -4,7 +4,19 @@ status: Active
 formerly:
 - THEORY-tmp9y0ia
 title: 'The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    Dickey (1971), LIT-610, read in NOTE-tmpso23o, is added to source for
+    the point-mass clause. His theorem (Eqs. 3.8–3.9) is that clause for
+    any likelihood continuous in the parameters, with the reduced prior's
+    nuisance part set to the full prior's conditional at the null, and his
+    mixture prior (3.5) is the point-mass reduced prior. The bullet that
+    said Dickey's own conditions were unsettled is replaced by one on what
+    they leave open, the dependence on parameterisation. The claim is
+    unchanged.
 tags:
 - model-comparison
 - probabilistic-modeling
@@ -13,12 +25,14 @@ source:
 - LIT-620
 - LIT-609
 - LIT-614
+- LIT-610
 summary: >-
   Friston & Penny (2011), [LIT-620](../literature.d/LIT-620.md), Eq. 3: if models share a
   likelihood and differ only in priors nested inside a full prior, then
   p(y|m_i) = p(y|m_F)·E_{p(θ|y,m_F)}[p_i(θ)/p_F(θ)]. Their Eq. 6 is the
   point-mass case, the Savage–Dickey ratio that Wagenmakers et al.
-  (2010), [LIT-609](../literature.d/LIT-609.md), derive from the other end. Friston, Parr &
+  (2010), [LIT-609](../literature.d/LIT-609.md), derive from the other end, and that Dickey
+  (1971), LIT-610, stated in this form for any continuous likelihood. Friston, Parr &
   Zeidman, [LIT-614](../literature.d/LIT-614.md), restate it for any new prior and give conjugate
   closed forms. Active because the identity is three lines of Bayes' rule
   that anyone can check. The two Savage–Dickey conditions turn out to be
@@ -26,7 +40,6 @@ summary: >-
   forms are only as good as the full posterior, and with no constraint on
   the prior family the optimum is maximum likelihood.
 ---
-<!-- inactive-ok-file: LIT-610 — Deferred: Dickey 1971 is unread; named as the source the ratio is named for, nothing rests on it -->
 <!-- inactive-ok-file: THEORY-073 THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 
 # THEORY-081: The evidence of any model formed from a full model by changing only its prior is the full evidence times the full posterior expectation of the prior ratio, so the Savage–Dickey ratio is its point-mass case and choosing which parameters to keep is evidence maximisation over the prior
@@ -41,6 +54,8 @@ summary: >-
 - Friston, Parr & Zeidman (2018; v2 2019), [LIT-614](../literature.d/LIT-614.md), read in
   [NOTE-477](../notes.d/NOTE-477.md): Eqs. 8–10 (the identity for any new prior), Eqs. 11–12
   and Table 1 (closed forms).
+- Dickey (1971), [LIT-610](../literature.d/LIT-610.md), read in [NOTE-tmpso23o](../notes.d/NOTE-tmpso23o.md): §3, Eqs. 3.2–3.9 (the
+  point-mass prior, the condition and the ratio).
 
 ## The claim, derived
 
@@ -77,8 +92,22 @@ its prior on φ (their Eq. 5, with the prior on the other parameters
 unchanged). Written out as above, these are the same requirement: the
 reduced model's prior on ψ must be the full prior's conditional at φ0.
 The record's entry for Friston & Penny already calls the two the same
-identity reached from opposite ends, and this is why. The step is the
-filer's. Neither paper cites the other.
+identity reached from opposite ends, and this is why. Neither paper cites
+the other.
+
+The step was the filer's, and Dickey (1971), [LIT-610](../literature.d/LIT-610.md), turns out to have
+stated it this way. His prior is a point mass on the null inside a
+continuous prior f on the full parameter space (his Eq. 3.5). His theorem
+requires that the null's prior on the remaining parameters be f's
+conditional at the null value, g(ζ) = f(η_H, ζ)/∫ f(η_H, ζ) dζ (Eq. 3.8),
+and concludes that the Bayes factor for the null is the posterior density
+of η at η_H over its prior density there, both under f (Eq. 3.9). That is
+the reduced prior δ(φ − φ0) p_F(ψ|φ0) above and its conclusion, for any
+likelihood continuous in the parameters and any number of fixed
+parameters. Dickey makes f's value at the null meaningful by defining
+densities as limits over shrinking balls (Eqs. 3.3–3.4), and when he
+applies the theorem he writes the condition as a limit, as Wagenmakers et
+al. do.
 
 **Selection and optimisation are one operation.** Scoring a discrete set
 of reduced priors and keeping the best one is maximising p(y|m) over a
@@ -118,9 +147,15 @@ optimisation switches it off.
   for 4 to 7 concepts and never for 2 or 3. It won every time when the
   likelihood was given rather than learned. The identity held throughout.
   What failed was the full posterior it was applied to.
-- **It does not settle Dickey's own conditions.** The ratio is named for
-  Dickey (1971), [LIT-610](../literature.d/LIT-610.md), which is unread. Whether Dickey stated it
-  for general nested models or only for normal linear hypotheses is open.
+- **It does not make the point-mass case parameterisation-free.** Dickey's
+  conditional at the null ([LIT-610](../literature.d/LIT-610.md), Eqs. 3.3–3.4 and 3.8) is a density
+  with respect to Lebesgue measure in the chosen coordinates, so imposing
+  the condition in a different parameterisation of the same null can give
+  a different reduced prior and a different Bayes factor. That is the
+  Borel–Kolmogorov point Wagenmakers et al. raise ([LIT-609](../literature.d/LIT-609.md), §8). Dickey
+  cites invariance only for the induced distribution, and the general
+  identity inherits the same dependence through the reduced prior it is
+  given.
 
 ## Connections
 
