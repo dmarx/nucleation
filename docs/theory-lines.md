@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-10 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+13 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -19,6 +19,23 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
   - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
+
+### From Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed
+
+- [THEORY-115](../record/theory.d/THEORY-115.md) — Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed *(Proposed)*
+  - [THEORY-105](../record/theory.d/THEORY-105.md) — Fine-tuning from one pretrained model lands near the edge of a task-specific low-loss region that contains the convex hull of the fine-tuned models, and averaging them moves inward *(Proposed)*
+
+### From The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
+
+- [THEORY-109](../record/theory.d/THEORY-109.md) — The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum *(Proposed)*
+  - [THEORY-112](../record/theory.d/THEORY-112.md) — Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth *(Proposed)*
+    - [THEORY-110](../record/theory.d/THEORY-110.md) — A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex *(Proposed)* — also extends THEORY-109
+  - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
+
+### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
+
+- [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
+  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
 
 ## cognition
 
@@ -83,6 +100,25 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
   - [THEORY-079](../record/theory.d/THEORY-079.md) — Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n *(Proposed)*
+
+## loss-landscapes
+
+### From Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed
+
+- [THEORY-115](../record/theory.d/THEORY-115.md) — Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed *(Proposed)*
+  - [THEORY-105](../record/theory.d/THEORY-105.md) — Fine-tuning from one pretrained model lands near the edge of a task-specific low-loss region that contains the convex hull of the fine-tuned models, and averaging them moves inward *(Proposed)*
+
+### From The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
+
+- [THEORY-109](../record/theory.d/THEORY-109.md) — The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum *(Proposed)*
+  - [THEORY-112](../record/theory.d/THEORY-112.md) — Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth *(Proposed)*
+    - [THEORY-110](../record/theory.d/THEORY-110.md) — A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex *(Proposed)* — also extends THEORY-109
+  - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
+
+### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
+
+- [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
+  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
 
 ## model-comparison
 
@@ -155,6 +191,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-007](../record/theory.d/THEORY-007.md) — Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets *(Proposed)*
     - [THEORY-005](../record/theory.d/THEORY-005.md) — The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite *(Proposed)*
     - [THEORY-009](../record/theory.d/THEORY-009.md) — Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem *(Proposed)*
+
+### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
+
+- [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
+  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
 
 ## self-governance
 

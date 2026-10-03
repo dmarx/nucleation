@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [3 Oct 20:00 — Mode connectivity, loss landscapes and model merging](2026-10.md#mode-connectivity-loss-landscapes-and-model-merging)
 - [3 Oct 16:00 — Ned Block, the global workspace, and homeostatic feeling](2026-10.md#ned-block-the-global-workspace-and-homeostatic-feeling)
 - [3 Oct 15:15 — Neural dynamics, animal consciousness and Orch OR biophysics](2026-10.md#neural-dynamics-animal-consciousness-and-orch-or-biophysics)
 - [3 Oct 13:15 — Model comparison and Fisher geometry](2026-10.md#model-comparison-and-fisher-geometry)
@@ -25,9 +26,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-63 entries across 2 books, newest first.
+64 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 16 | 2026-10-01 | 2026-10-03 |
+| [2026-10](2026-10.md) | 17 | 2026-10-01 | 2026-10-03 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

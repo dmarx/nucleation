@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 2091 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 2163 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -154,7 +154,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-26 citations in 17 files await a look; 6 other citations of it are acknowledged.
+26 citations in 17 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -187,7 +187,7 @@ A representation is determined by its kernel up to an orthogonal transformation,
 
 Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
 
-19 citations in 11 files await a look.
+19 citations in 11 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-371.md:23`](../../record/literature.d/LIT-371.md)
 - [`record/literature.d/LIT-372.md:35`](../../record/literature.d/LIT-372.md)
@@ -261,7 +261,7 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
-13 citations in 10 files await a look; 2 other citations of it are acknowledged.
+13 citations in 10 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -411,7 +411,7 @@ Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation
 
-10 citations in 3 files await a look.
+10 citations in 3 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
@@ -681,7 +681,7 @@ Local Quantum Physics: Fields, Particles, Algebras (2nd ed.)
 
 New Evidence of the Two-Phase Learning Dynamics of Neural Networks
 
-8 citations in 3 files await a look.
+8 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-318.md:6`](../../record/notes.d/NOTE-318.md)
 - [`record/theory.d/THEORY-035.md:92`](../../record/theory.d/THEORY-035.md)
@@ -897,6 +897,17 @@ The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
 - [`record/notes.d/NOTE-270.md:271`](../../record/notes.d/NOTE-270.md)
 - [`record/notes.d/NOTE-270.md:277`](../../record/notes.d/NOTE-270.md)
 
+### [LIT-235](../../record/literature.d/LIT-235.md) — Deferred
+
+When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis
+
+4 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
+- [`record/literature.d/LIT-651.md:18`](../../record/literature.d/LIT-651.md)
+- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
+- [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
+
 ### [LIT-245](../../record/literature.d/LIT-245.md) — Deferred
 
 Minimum Description Length and Generalization Guarantees for Representation Learning
@@ -934,7 +945,7 @@ Every Thing Must Go: Metaphysics Naturalized
 
 Algebraic Geometry and Statistical Learning Theory
 
-4 citations in 2 files await a look; 14 other citations of it are acknowledged.
+4 citations in 2 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-283.md:155`](../../record/notes.d/NOTE-283.md)
 - [`record/notes.d/NOTE-283.md:178`](../../record/notes.d/NOTE-283.md)
@@ -971,16 +982,6 @@ Shannon Information and Kolmogorov Complexity
 - [`record/literature.d/LIT-317.md:44`](../../record/literature.d/LIT-317.md)
 - [`record/notes.d/NOTE-241.md:167`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
-
-### [LIT-235](../../record/literature.d/LIT-235.md) — Deferred
-
-When and How Does Known Class Help Discover Unknown Ones? Provable Understanding Through Spectral Analysis
-
-3 citations in 2 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-249.md:50`](../../record/literature.d/LIT-249.md)
-- [`record/notes.d/NOTE-227.md:33`](../../record/notes.d/NOTE-227.md)
-- [`record/notes.d/NOTE-227.md:51`](../../record/notes.d/NOTE-227.md)
 
 ### [LIT-237](../../record/literature.d/LIT-237.md) — Deferred
 
@@ -1226,7 +1227,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
 
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -1652,7 +1653,7 @@ Category theory gives radical ontic structural realism no formal support: genera
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**3 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -1662,10 +1663,6 @@ A reference the reader cannot follow: the code names no document in this record.
 ### DP-010 — resolves to nothing (1 unmarked site)
 
 - [`record/notes.d/NOTE-286.md:185`](../../record/notes.d/NOTE-286.md)
-
-### LIT-669 — resolves to nothing (1 unmarked site)
-
-- [`record/notes.d/NOTE-242.md:209`](../../record/notes.d/NOTE-242.md)
 
 ## Temporary codes this record does not mint
 

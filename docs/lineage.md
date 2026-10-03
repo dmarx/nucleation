@@ -2,7 +2,7 @@
 
 # Lines of work
 
-36 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+38 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -60,6 +60,39 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-612](../record/literature.d/LIT-612.md) — The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies *(Active)*
   - [LIT-608](../record/literature.d/LIT-608.md) — Deep Equals Shallow for ReLU Networks in Kernel Regimes *(Active)*
+
+### From Essentially No Barriers in Neural Network Energy Landscape
+
+- [LIT-653](../record/literature.d/LIT-653.md) — Essentially No Barriers in Neural Network Energy Landscape *(Active)*
+  - [LIT-654](../record/literature.d/LIT-654.md) — Linear Mode Connectivity and the Lottery Ticket Hypothesis *(Active)* — also extends LIT-673
+    - [LIT-651](../record/literature.d/LIT-651.md) — Linear Mode Connectivity in Multitask and Continual Learning *(Active)*
+    - [LIT-652](../record/literature.d/LIT-652.md) — The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks *(Active)*
+      - [LIT-661](../record/literature.d/LIT-661.md) — Git Re-Basin: Merging Models modulo Permutation Symmetries *(Active)*
+        - [LIT-659](../record/literature.d/LIT-659.md) — Do Deep Neural Network Solutions Form a Star Domain? *(Active)* — also extends LIT-652
+        - [LIT-662](../record/literature.d/LIT-662.md) — Geodesic Mode Connectivity *(Active)*
+        - [LIT-664](../record/literature.d/LIT-664.md) — Generalized Linear Mode Connectivity for Transformers *(Active)*
+        - [LIT-670](../record/literature.d/LIT-670.md) — On Linear Mode Connectivity of Mixture-of-Experts Architectures *(Active)*
+        - [LIT-674](../record/literature.d/LIT-674.md) — Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity *(Active)* — also extends LIT-654
+      - [LIT-665](../record/literature.d/LIT-665.md) — ZipIt! Merging Models from Different Tasks without Training *(Active)*
+      - [LIT-680](../record/literature.d/LIT-680.md) — Proving Linear Mode Connectivity of Neural Networks via Optimal Transport *(Active)*
+    - [LIT-669](../record/literature.d/LIT-669.md) — Mechanistic Mode Connectivity *(Active)* — also extends LIT-673
+  - [LIT-671](../record/literature.d/LIT-671.md) — Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets *(Active)* — also extends LIT-673
+    - [LIT-666](../record/literature.d/LIT-666.md) — Mode Connectivity and Data Heterogeneity of Federated Learning *(Active)*
+- [LIT-672](../record/literature.d/LIT-672.md) — Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior *(Active)*
+  - [LIT-663](../record/literature.d/LIT-663.md) — Taxonomizing local versus global structure in neural network loss landscapes *(Active)* — also extends LIT-673
+  - [LIT-679](../record/literature.d/LIT-679.md) — A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, a Precise Phase Transition, and the Corresponding Double Descent *(Active)*
+- [LIT-673](../record/literature.d/LIT-673.md) — Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs *(Active)*
+  - [LIT-656](../record/literature.d/LIT-656.md) — Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling *(Active)*
+  - [LIT-668](../record/literature.d/LIT-668.md) — Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness *(Active)*
+  - [LIT-676](../record/literature.d/LIT-676.md) — Unveiling Mode Connectivity in Graph Neural Networks *(Proposed)*
+  - [LIT-682](../record/literature.d/LIT-682.md) — Exploring Neural Network Landscapes: Star-Shaped and Geodesic Connectivity *(Active)*
+- alongside: [LIT-660](../record/literature.d/LIT-660.md) — Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models *(Proposed)*
+- alongside: [LIT-681](../record/literature.d/LIT-681.md) — Optimizing Mode Connectivity for Class Incremental Learning *(Active)*
+
+### From Intermediate Layer Classifiers for OOD generalization
+
+- [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
+  - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
 
 ## behavioral-integration
 
@@ -304,6 +337,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-612](../record/literature.d/LIT-612.md) — The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies *(Active)*
   - [LIT-608](../record/literature.d/LIT-608.md) — Deep Equals Shallow for ReLU Networks in Kernel Regimes *(Active)*
+
+### From Intermediate Layer Classifiers for OOD generalization
+
+- [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
+  - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
 
 ## linguistics
 
@@ -589,6 +627,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-612](../record/literature.d/LIT-612.md) — The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies *(Active)*
   - [LIT-608](../record/literature.d/LIT-608.md) — Deep Equals Shallow for ReLU Networks in Kernel Regimes *(Active)*
+
+### From Intermediate Layer Classifiers for OOD generalization
+
+- [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
+  - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
 
 ## self
 
