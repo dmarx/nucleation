@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp2k5h4](../notes.d/NOTE-tmp2k5h4.md)); worth reading as the source of the natural gradient: steepest descent in a Riemannian parameter space is G⁻¹∇L (Theorem 1), the Fisher information is the metric on a statistical model, and online learning with the natural gradient and a 1/t rate is Fisher efficient (Theorem 2). Its efficiency proof needs the Fisher matrix at the optimum to be invertible, which is exactly what singular learning theory says fails for neural networks.'
+title: 'Natural Gradient Works Efficiently in Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the reprint Amari's own laboratory deposited in RIKEN's
+    institutional database (BSI-Neuroinformatics, item 192, "Public /
+    Laboratory for Mathematical Neuroscience", file 181.pdf, the published
+    26-page PDF, Neural Computation 10:251–276). Unpaywall lists the article
+    as closed at MIT Press with no repository copy; the RIKEN deposit is the
+    lawful copy. Crossref confirms title, volume 10, issue 2, pages 251–276
+    and 1 February 1998. Not held in the Anthology of the SOTA: a grep of its
+    record for "Amari", the title and the DOI found only a mention of Amari
+    in ANTH-LIT-541.
+tags:
+- information-geometry
+- learning-theory
+- anthology-candidate
+date: '2026-10-03'
+published: '1998-02-01'
+doi: '10.1162/089976698300017746'
+url: 'https://bsi-ni.brain.riken.jp/modules/xoonips/file/176/181.pdf'
+first_author: 'Amari'
+keywords:
+- 'natural gradient'
+- 'Riemannian metric'
+- 'Fisher information'
+- 'Fisher efficiency'
+- 'online learning'
+- 'adaptive learning rate'
+- 'blind source separation'
+- 'blind deconvolution'
+- 'plateaus'
+implementations: []
+summary: >-
+  Amari (1998), Neural Computation 10(2):251–276. When the parameter space
+  carries a Riemannian metric G, the steepest descent direction of a loss is
+  the natural gradient G⁻¹∇L, not the ordinary gradient. For a statistical
+  model the metric is the Fisher information, the only invariant one. Online
+  natural gradient learning with step 1/t is Fisher efficient: it attains the
+  Cramér–Rao bound asymptotically, as well as the best batch estimator. The
+  paper computes the metric and its inverse for a simple perceptron, for the
+  group of nonsingular matrices (blind source separation, giving the update
+  ∇L·WᵀW) and for linear systems, proposes an adaptive learning rate with
+  1/t convergence, and conjectures that the natural gradient escapes the
+  plateaus of backpropagation.
+extended_by:
+- LIT-tmpuzob3
+---
+
+<!-- inactive-ok-file: LIT-349 — Deferred: Rao 1945 is unread; named as the source Amari cites for the Fisher metric, with no relation claimed -->
+<!-- inactive-ok-file: LIT-354 — Deferred: Watanabe's book is unread; named as the record's statement of singular learning theory, with no relation claimed -->
+
+# LIT-tmp26jbc: Natural Gradient Works Efficiently in Learning
+
+Shun-ichi Amari (1998), *Neural Computation* 10(2):251–276 — DOI-10.1162/089976698300017746
+
+## Key takeaways
+
+- **The natural gradient is steepest descent under the model's own metric.**
+  If lengths in parameter space are |dw|² = Σ gᵢⱼ dwᵢ dwⱼ, the direction that
+  most decreases L for a fixed small step is −G⁻¹∇L (Theorem 1, Eq. 2.3).
+  For a statistical model the metric is the Fisher information (Eq. 3.5),
+  which Amari, citing Chentsov, calls "the only invariant metric to be given
+  to the statistical model".
+- **It is Fisher efficient online.** With step size 1/t and a realizable
+  teacher, the online natural-gradient estimator's error covariance is
+  G⁻¹/t + O(1/t²), the Cramér–Rao bound, so learning from each example
+  once is asymptotically as good as the best batch estimator (Theorem 2,
+  Eqs. 4.4–4.6). The proof uses G(w*) and its inverse; for an unrealizable
+  teacher the expected Hessian K(w) replaces G, which is locally Newton's
+  method (Eq. 4.9).
+- **The metric is computed, not assumed, for three spaces.** For a single
+  perceptron with Gaussian inputs, G = w²c₁I + (c₂ − c₁)wwᵀ and its inverse
+  is explicit (Theorems 3–4). For the Lie group of nonsingular matrices, the
+  invariant metric gives the natural gradient ∇L·WᵀW (Theorem 6), which
+  turns the blind-separation update into (I − φ(y)yᵀ)W. For multilayer
+  perceptrons the Fisher matrix has one block per hidden unit (Eq. 6.13), but
+  Amari notes that inverting it "is not easy except for simple cases".
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the root of the Fisher
+geometry half of nucleation's line on model comparison and Fisher geometry
+([ADR-026](../decisions.d/ADR-026.md)). It is the definition the other works in this batch approximate:
+Martens and Grosse's K-FAC ([LIT-tmpuzob3](LIT-tmpuzob3.md)) is an efficiently invertible
+approximation to F⁻¹∇h "defined as" Amari's natural gradient, and Papyan's
+spectra ([LIT-tmpbfzro](LIT-tmpbfzro.md)) study the very Fisher matrix whose inverse the
+natural gradient needs. It carries an instruction for machine-learning
+practice, how to precondition a gradient, so it takes `anthology-candidate`;
+the anthology holds later Kronecker and curvature work ([ANTH-LIT-768](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-768.md),
+[ANTH-LIT-746](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-746.md)) but not this paper.
+
+The record holds Rao's 1945 paper ([LIT-349](LIT-349.md)) as an unread seed; Amari cites
+it, with his own 1985 book, as the source of the Fisher metric (Eq. 3.5).
+
+**Where it meets singular learning theory.** Theorem 2 needs G(w*) to be
+invertible and the estimator to converge to a point where the Cramér–Rao
+bound applies. Watanabe's book ([LIT-354](LIT-354.md)), unread here, starts from the fact
+that in neural networks, mixtures and hidden Markov models the Fisher
+information is degenerate at the true parameter. The anthology's reading of
+Murfet et al. ([ANTH-LIT-541](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-541.md)) dates that knowledge to "Amari et al. (2003)
+and Watanabe (2007)". So the efficiency result in this paper is stated for
+the regular case, and the models it is about are, by Amari's own later work,
+not regular. The shorter Watanabe statement being filed alongside this batch
+is where the record should look for what replaces the Cramér–Rao bound when
+G is singular. My own observation, not the paper's: the multilayer Fisher
+blocks it writes down already show where that happens, since the wᵢ block
+carries the factor vᵢ² and so vanishes when an output weight is zero.
