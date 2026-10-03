@@ -147,6 +147,12 @@ vocabularies:
       free-will:
         label: Free will
         blurb: 'free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025)'
+      model-comparison:
+        label: Model comparison
+        blurb: 'choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026)'
+      information-geometry:
+        label: Information geometry
+        blurb: 'the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
