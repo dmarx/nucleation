@@ -60,6 +60,7 @@ summary: >-
 extends:
 - LIT-tmpqw586
 ---
+<!-- inactive-ok-file: THEORY-tmpxca03 — Proposed; the theory this work sources, named as filed -->
 
 # LIT-tmpm5jaa: Perceptual consciousness overflows cognitive access
 
@@ -115,5 +116,5 @@ not held. Dennett's position on the question is represented in the record
 only by "Quining Qualia" ([LIT-433](LIT-433.md)) and "Time and the Observer" ([LIT-431](LIT-431.md)),
 which the 2007 paper rivals.
 
-**A candidate theory**, not filed: *perceptual consciousness overflows
+**Filed as [THEORY-tmpxca03](../theory.d/THEORY-tmpxca03.md)**: *perceptual consciousness overflows
 cognitive access*. This paper and its predecessor are its sources.

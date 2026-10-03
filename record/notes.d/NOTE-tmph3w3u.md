@@ -159,8 +159,8 @@ have no way to test.
 
 - **[THEORY-023](../theory.d/THEORY-023.md).** The theory's claim that the AI dispute is "over what
   counts as evidence as well as the answer" has its philosophical form
-  here, for the idealised case of a perfect functional duplicate. It could
-  be added as a source. The paper does not, however, support the theory's
+  here, for the idealised case of a perfect functional duplicate. It is now
+  one of the theory's sources (v2). The paper does not, however, support the theory's
   mimicry clause: Data is stipulated to be functionally equivalent, not a
   mimic trained on our output.
 - **Block 2009 ([LIT-tmp7mbzj](../literature.d/LIT-tmp7mbzj.md))** takes the "biological" side of the dispute

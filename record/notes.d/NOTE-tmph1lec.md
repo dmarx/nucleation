@@ -22,7 +22,7 @@ summary: >-
   and right dlPFC TMS that impair working memory.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpwyfwm — Proposed; named as an account this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmpxca03 — Proposed; named as an account this reading bears on, not leaned on -->
 
 # NOTE-tmph1lec: Perceptual consciousness overflows cognitive access
 
@@ -127,7 +127,7 @@ than which is default, the rich view wins.
 
 ## Bearing on the record
 
-- **Candidate theory**, not filed: *perceptual consciousness overflows
+- **Filed as [THEORY-tmpxca03](../theory.d/THEORY-tmpxca03.md)**: *perceptual consciousness overflows
   cognitive access*, sourced from this paper and [LIT-tmpqw586](../literature.d/LIT-tmpqw586.md).
 - **[THEORY-tmpwyfwm](../theory.d/THEORY-tmpwyfwm.md)** reports a stable ventral temporal code for as long as an
   image stays on. Sligte et al.'s V4 locus for fragile VSTM points to the

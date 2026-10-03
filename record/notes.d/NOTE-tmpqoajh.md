@@ -148,8 +148,8 @@ experience at all.
 - **[THEORY-023](../theory.d/THEORY-023.md).** States the biological alternative to the computational
   functionalism that theory says architectural indicators presuppose, and
   says outright that the workspace is functionalist and realisable in
-  silicon. A candidate source for the theory's account of what the
-  dispute is about.
+  silicon. Added as one of the theory's sources (v2), for its account
+  of what the dispute is about.
 - **No ML instruction.** The machine section is about what theories allow,
   not about how to build systems.
 

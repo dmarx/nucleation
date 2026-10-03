@@ -25,7 +25,7 @@ summary: >-
   coalitions explain the overflow.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmprpyvx — Proposed; named as accounts this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmprpyvx THEORY-tmpxca03 — Proposed; named as accounts this reading bears on, not leaned on -->
 
 # NOTE-tmpbmk8s: Consciousness, accessibility, and the mesh between psychology and neuroscience
 
@@ -169,7 +169,7 @@ between the two sciences is evidence for the assumption.
   recurrent sensory activity with frontal involvement only for access, is
   the picture that theory's data fit. That theory concerns seen images, so
   it does not test overflow.
-- **A candidate theory**, not filed: *phenomenal consciousness overflows
+- **Filed as [THEORY-tmpxca03](../theory.d/THEORY-tmpxca03.md)**: *perceptual consciousness overflows
   cognitive access*. Sources [LIT-tmpqw586](../literature.d/LIT-tmpqw586.md) and [LIT-tmpm5jaa](../literature.d/LIT-tmpm5jaa.md); rivals in the
   record [LIT-431](../literature.d/LIT-431.md) and [LIT-433](../literature.d/LIT-433.md).
 - **No ML instruction.**
