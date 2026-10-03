@@ -1,0 +1,120 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from the PubMed abstract and Crossref, not read. The article is closed access at APA, and Unpaywall and OpenAlex list no open copy. Copies found online were all third-party postings: a clinician''s practice site (actmindfully.com.au), an Argentine ACT group''s site (grupoact.com.ar), and a CiteSeerX cache whose source could not be traced because CiteSeerX now redirects to the Wayback Machine, which this environment''s egress policy blocks. None is an author, institutional or publisher deposit, so none was used. The ACBS publication page (contextualscience.org) gives the citation and abstract but no file. A human reader with APA PsycArticles access, or the chapter of the same title in The Act in Context (Routledge, 2015, DOI 10.4324/9781315745138-20; Crossref lists it without authors, so that it is a reprint is an inference), could promote this.'
+title: 'Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered from Crossref (Journal of Consulting and Clinical
+    Psychology 64(6):1152–1168, issue dated December 1996, authors Steven
+    C. Hayes, Kelly G. Wilson, Elizabeth V. Gifford, Victoria M. Follette,
+    Kirk Strosahl) and the PubMed abstract (PMID 8991302). `published:`
+    is the issue month, the first of the month because no source gives a
+    day. Not held in the Anthology of the SOTA: a grep of its
+    literature.d, notes.d and theory.d for "experiential avoidance" and
+    the DOI found nothing.
+tags:
+- psychopathology-and-treatment
+- emotion-and-affect
+- social-science
+date: '2026-10-03'
+published: '1996-12-01'
+doi: '10.1037/0022-006x.64.6.1152'
+first_author: 'Hayes'
+keywords:
+- 'experiential avoidance'
+- 'functional diagnostic dimensions'
+- 'syndromal classification'
+- 'functional analysis'
+- 'private events'
+- 'behavioral disorders'
+implementations: []
+summary: >-
+  Hayes, Wilson, Gifford, Follette & Strosahl (1996), Journal of
+  Consulting and Clinical Psychology 64(6):1152–1168. Syndromal diagnosis
+  has not found functional pathological processes, and functional
+  analysis has not produced a replicable classification. The paper
+  proposes functional diagnostic dimensions instead, and offers
+  experiential avoidance as one: many disorders are unhealthy efforts to
+  escape and avoid emotions, thoughts, memories and other private
+  experiences. Unread: registered from the abstract.
+extended_by:
+- LIT-tmpxkxq0
+---
+
+<!-- inactive-ok-file: LIT-tmp9golj — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+
+# LIT-tmpsjur3: Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment
+
+Steven C. Hayes, Kelly G. Wilson, Elizabeth V. Gifford, Victoria M. Follette
+and Kirk Strosahl (1996), *Journal of Consulting and Clinical Psychology*
+64(6):1152–1168 — DOI-10.1037/0022-006x.64.6.1152
+
+## Key takeaways
+
+*Seeded from the abstract alone, not a reading. What follows is what the
+work says about itself, and what the record's read papers say it says.*
+
+- **The abstract.** "Syndromal classification is a well-developed
+  diagnostic system but has failed to deliver on its promise of the
+  identification of functional pathological processes. Functional analysis
+  is tightly connected to treatment but has failed to develop testable,
+  replicable classification systems." Functional diagnostic dimensions are
+  proposed to bridge the two, and experiential avoidance is described as
+  one: a wide range of research is reviewed "showing that many forms of
+  psychopathology can be conceptualized as unhealthy efforts to escape and
+  avoid emotions, thoughts, memories, and other private experiences".
+- **The definition, as the read 2006 review gives it.** Experiential
+  avoidance is "the attempt to alter the form, frequency, or situational
+  sensitivity of private events even when doing so causes behavioral harm",
+  cited to this paper ([LIT-tmpxkxq0](LIT-tmpxkxq0.md), p. 7 of the deposited draft).
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the paper that introduced
+experiential avoidance as a transdiagnostic, functional dimension of
+psychopathology. The `psychopathology-and-treatment` blurb names the
+construct. No anthology topic holds it, and it carries no instruction for
+machine-learning practice.
+
+`Deferred` because it was not read: no lawful copy was reachable (see the
+status note).
+
+It is the root of a line the record now holds in three read papers:
+
+- **The ACT model ([LIT-tmpxkxq0](LIT-tmpxkxq0.md)), 2006.** Experiential avoidance becomes one
+  of the six processes of "psychological inflexibility", supported by
+  cognitive fusion. The 2006 review takes its definition from this paper.
+- **The RFT account ([LIT-tmp6n7fc](LIT-tmp6n7fc.md)), 2004.** It cites this paper for
+  behaviour analysts' preference for functional dimensions over syndromes,
+  and supplies the mechanism the dimension needs: words carry the
+  functions of what they describe, so private events become things to
+  avoid.
+- **Kashdan and Rottenberg ([LIT-tmpt6rok](LIT-tmpt6rok.md)), 2010.** They cite this paper
+  for the inevitability of negative emotion and obstacles. They make
+  experiential avoidance one of the forms of inflexibility in the anxiety
+  disorders, inside a wider construct of psychological flexibility.
+- **Macri and Rogge ([LIT-tmp9golj](LIT-tmp9golj.md)), 2024**, unread, meta-analyse
+  experiential avoidance among the inflexibility processes ACT changes.
+
+Its claim is also a rival to the network model of disorder that another
+agent filed in parallel, Borsboom ([LIT-tmpmi1g3](LIT-tmpmi1g3.md)). This paper puts a common
+functional process behind many syndromes. Borsboom denies most disorders a
+common cause and makes them self-sustaining networks of symptoms. A reading
+should check whether the paper argues that experiential avoidance causes
+disorder or only that it marks it. Kashdan and Rottenberg say the causal
+status of inflexibility is unsettled (§ "The challenge of clarifying the
+causal status").
+
+**Priority for a reading: high.** It is the root of the record's ACT line,
+and every read paper in it cites this one.
+
+## Corrections
+
+- **PubMed's title is misspelled.** PubMed (PMID 8991302) indexes it as
+  "Experimental avoidance and behavioral disorders". Crossref, APA and every
+  citing paper read here have "Experiential". The DOI is correct either way.
+- **Second author's initial.** The ACBS publication page cites "Wilson, K.
+  W."; Crossref has Kelly G. Wilson.

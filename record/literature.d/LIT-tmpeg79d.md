@@ -1,0 +1,99 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpxyekk](../notes.d/NOTE-tmpxyekk.md)), from the NIH author manuscript in PubMed Central; worth reading as the programme statement of process-based therapy by the leading figures of the two camps of CBT it reconciles. It replaces "protocols for syndromes" with one question: "What core biopsychosocial processes should be targeted with this client given this goal in this situation, and how can they most efficiently and effectively be changed?" It is a position paper with predictions, not a result. Its sharpest commitment is a falsification rule: an intervention whose specified process of change "cannot be shown to be consistently applicable" has an incorrect model, however well it works.'
+title: 'The Future of Intervention Science: Process-Based Therapy'
+version: 1
+tags:
+- psychopathology-and-treatment
+- philosophy-of-science
+- social-science
+date: '2026-10-03'
+published: '2018-05-29'
+doi: '10.1177/2167702618772296'
+first_author: 'Hofmann'
+keywords:
+- 'process-based therapy'
+- 'cognitive behavioral therapy'
+- 'processes of change'
+- 'mediation'
+- 'moderation'
+- 'functional analysis'
+- 'latent disease model'
+- 'idiographic'
+- 'third wave'
+- 'psychological flexibility'
+implementations: []
+summary: >-
+  Hofmann & Hayes (2019; online 2018), Clinical Psychological Science
+  7(1):37–50. The era of "protocols for syndromes" is over: thirty years of
+  DSM-defined randomised trials never found the diseases the syndromes
+  were meant to reveal. Evidence-based therapy should be redefined as
+  process-based therapy, "evidence-based processes linked to evidence-based
+  procedures", with mediation and moderation as the evidence, functional
+  analysis and idiographic networks as diagnosis, and named therapies and
+  broad schools in decline.
+---
+<!-- inactive-ok-file: LIT-tmpmztbn — Deferred, no lawful full text; Engel 1977, named as the medical-model critique, not leaned on beyond its abstract -->
+
+# LIT-tmpeg79d: The Future of Intervention Science: Process-Based Therapy
+
+Stefan G. Hofmann and Steven C. Hayes, *Clinical Psychological Science* 7(1):37–50, January 2019 (online 29 May 2018) — DOI-10.1177/2167702618772296
+
+**Author order.** The brief gives "Hayes, S. C. & Hofmann, S. G.". The
+article, Crossref and PubMed all list Hofmann first, so `first_author:` is
+Hofmann. The confusion is natural: the two also wrote the book
+*Process-Based CBT* (2018) with Hayes first. Read from the author
+manuscript in PubMed Central (PMC6350520, NIHMS956619), which carries no
+journal page numbers.
+
+## Key takeaways
+
+- The medical illness model behind the DSM assumes symptoms reflect latent
+  disease entities. The authors argue that a syndrome-based research
+  programme (roughly 1980–2010) "never led to the discovery of diseases",
+  and that comorbidity and heterogeneity made diagnosis feel "more like an
+  empty ritual".
+- **Process-based therapy (PBT)** is "the contextually specific use of
+  evidence-based processes linked to evidence-based procedures to help
+  solve the problems and promote the prosperity of particular people".
+  Processes (the change mechanisms) are distinguished from procedures (the
+  techniques).
+- **The test of an evidence-based intervention changes.** A procedure enters
+  PBT only if it "reliably produces gains and manipulates a process that
+  mediates these gains". If a model's specified process does not hold up,
+  the model "is incorrect and needs to be set aside" even if the
+  intervention works.
+- The predicted consequences are a decline of named therapies and broad
+  schools, more mediation and moderation studies, diagnosis by functional
+  analysis and idiographic networks, and the term CBT losing its
+  distinctness.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the read statement of the
+process-based, transdiagnostic view of how treatment works that the
+`psychopathology-and-treatment` blurb names. Social science is tagged
+because this is clinical psychology's programme for its own science, and
+philosophy of science because much of the argument is about what counts as
+evidence for a model of change and about the field's pre-analytic
+assumptions. It carries no instruction for machine-learning practice. The
+Anthology of the SOTA does not hold it (a grep of its literature.d,
+notes.d and theory.d for "process-based", "Hofmann" with "Hayes", and the
+DOI found nothing).
+
+It bears on the batch:
+
+- **Salkovskis, Sighvatsson and Sigurdsson ([LIT-tmp2bpgh](LIT-tmp2bpgh.md))** start from the
+  same Gordon Paul question and reach a similar diagnosis, that the field
+  has studied efficacy and neglected mechanisms. They then make the
+  opposite bet: one mechanism of change for all effective therapies, not a
+  plurality of processes. Neither paper cites the other.
+- **Borsboom ([LIT-tmpmi1g3](LIT-tmpmi1g3.md))** gives the network theory these authors invoke
+  (through Hofmann, Curtiss and McNally 2016) as the "analytic
+  alternative to the latent disease model".
+- **Engel ([LIT-tmpmztbn](LIT-tmpmztbn.md))** named the biopsychosocial model, and this paper's
+  foundational question asks for "core biopsychosocial processes". Engel
+  is not cited.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

@@ -1,0 +1,134 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp328bx](../notes.d/NOTE-tmp328bx.md)), from the open-access (CC BY 4.0) publisher PDF; worth reading as a senior Beckian''s statement of a single mechanism of change for all effective psychological therapy, and for its clear separation of "common factors" from "mechanisms of change". Its thesis is a proposal argued from the history of CBT and clinical examples, not a tested result: people are "stuck" in an exaggerated negative or threatening meaning (Theory A) kept alive by what it makes them do, and any effective therapy works by helping them build and test a less threatening alternative (Theory B). The paper calls this a particular type of psychological flexibility, without citing the ACT literature that uses that name.'
+title: 'How effective psychological treatments work: mechanisms of change in cognitive behavioural therapy and beyond'
+version: 1
+tags:
+- psychopathology-and-treatment
+- cognition
+- philosophy-of-science
+- emotion-and-affect
+- social-science
+date: '2026-10-03'
+published: '2024-01-05'
+doi: '10.1017/S1352465823000590'
+first_author: 'Salkovskis'
+keywords:
+- 'common factors in psychotherapy'
+- 'history of CBT and theory'
+- 'mechanism of change'
+- 'psychological flexibility'
+- 'research in CBT'
+- 'Theory A / Theory B'
+- 'maintenance factors'
+- 'behavioural experiments'
+implementations: []
+summary: >-
+  Salkovskis, Sighvatsson & Sigurdsson, Behavioural and Cognitive
+  Psychotherapy 51(6):595–615, in the special issue "Disseminating CBT: 50
+  years and beyond" (issue dated November 2023, first published online 5
+  January 2024). A history of behaviour therapy and CBT as empirically
+  grounded treatment development, an argument that common factors are not
+  mechanisms of change, and a proposal: the mechanism of all effective
+  therapies is a shift from a stuck, threat-laden meaning ("Theory A") to a
+  collaboratively built and tested alternative ("Theory B"), which the
+  authors call a type of psychological flexibility.
+---
+
+# LIT-tmp2bpgh: How effective psychological treatments work: mechanisms of change in cognitive behavioural therapy and beyond
+
+Paul M. Salkovskis, Magnus Blondahl Sighvatsson and Jon Fridrik Sigurdsson, *Behavioural and Cognitive Psychotherapy* 51(6):595–615 — DOI-10.1017/S1352465823000590
+
+## What this is, verified
+
+The brief asked for this pinned down, so here is what each source says.
+
+- **A journal article**, not a book, an edited volume or an editorial. The
+  publisher labels it "MAIN" (a main article), and Crossref types it
+  `journal-article`. The book rule does not apply.
+- **Journal**: *Behavioural and Cognitive Psychotherapy* (BCP), the journal
+  of the British Association for Behavioural and Cognitive Psychotherapies
+  (BABCP), published by Cambridge University Press. Volume 51, issue 6,
+  pages 595–615.
+- **DOI**: 10.1017/S1352465823000590 (Crossref stores it lower-case).
+- **Authors**: Paul M. Salkovskis (University of Oxford, Department of
+  Experimental Psychology, and Oxford Health NHS Foundation Trust); Magnus
+  Blondahl Sighvatsson and Jon Fridrik Sigurdsson (both Reykjavik
+  University and University of Iceland). Salkovskis is the corresponding
+  author.
+- **Dates**: received 14 August 2023, revised 28 November 2023, accepted 1
+  December 2023, first published online 5 January 2024. The issue is dated
+  November 2023, and the article's own "Cite this article" line gives the
+  year as 2023. `published:` carries the first-online date, which is the
+  first appearance; the brief's "2024" matches that date, while the
+  citable volume year is 2023.
+- **Special issue**: issue 6 is "Volume 51, Special Issue 6: Disseminating
+  CBT: 50 years and beyond", marking fifty years of the BABCP (founded as
+  the British Association for Behavioural Psychotherapy). Its editorial is
+  Paul Salkovskis and Richard Thwaites, "CBT 50 years on: a celebration of
+  empirically grounded and evidence-based psychological therapy", BCP
+  51(6):509–511, DOI 10.1017/S1352465824000080, online 30 January 2024. The
+  editorial describes Salkovskis as the current BCP Editor-in-Chief and
+  refers to "either Editor-in-Chief", which I read as Salkovskis for BCP
+  and Thwaites for the sister journal *the Cognitive Behaviour Therapist*,
+  whose own 50th-anniversary papers the editorial describes. The
+  editorial does not use the phrase "guest editor", and Cambridge's page
+  names no issue editors, so I do not name any.
+- **Conflict of interest**, as the paper states it: Salkovskis is Editor of
+  BCP and "was not involved in the review or editorial process for this
+  paper".
+- **Licence**: open access, CC BY 4.0. Read from the publisher's PDF on
+  cambridge.org.
+
+## Key takeaways
+
+- **Common factors are not mechanisms of change.** A mechanism should show
+  up as a common factor, but a common factor need not be a mechanism:
+  "therapists typically wear shoes in almost all therapy modalities". The
+  alliance may improve because the patient improves, rather than the
+  other way round.
+- **A treatment's success is not evidence for its theory**, with one
+  exception: if a treatment changes the factor a theory says is crucial
+  and the problem does not improve, that disconfirms the theory.
+- **The proposed mechanism.** People with mood problems "interpret their
+  situation as being more negative or threat-based than it really is".
+  What they then do maintains that meaning, so they become "stuck". Any
+  effective therapy helps the person consider and test a less negative
+  alternative account, which must fit their past experience and survive
+  their future experience. The authors call this a type of psychological
+  flexibility, and propose it as the mechanism "not only in CBT but also
+  effective psychological therapies in general".
+- **Even purely behavioural treatments are said to work this way.**
+  Exposure succeeds when the person comes to an implicit Theory B, and
+  exposure framed as a belief-disconfirming behavioural experiment was
+  "very markedly superior to exposure alone" in agoraphobia and social
+  phobia (three cited studies, all co-authored by Salkovskis).
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the read statement of a
+cognitive account of how psychological treatment works. Cognition is
+tagged because the proposed mechanism is a change of interpretation and
+meaning. Philosophy of science is tagged because a third of the paper is
+about what kind of evidence can show a mechanism: common factors versus
+mechanisms, the logic of treatment success as evidence, and Kazdin's
+criteria for mediation. Emotion and affect is tagged because the account
+is a theory of emotional problems as driven by appraisal. It carries no
+instruction for machine-learning practice. The Anthology of the SOTA does
+not hold it (a grep of its literature.d, notes.d and theory.d for
+"Salkovskis" and the DOI found nothing).
+
+It bears on the batch:
+
+- **Hofmann and Hayes ([LIT-tmpeg79d](LIT-tmpeg79d.md))** make the same diagnosis from the same
+  Gordon Paul question: the field studied efficacy and not mechanism. They
+  draw the opposite conclusion, a plurality of processes in a hierarchy,
+  where this paper proposes one mechanism. Both put "flexibility" at the
+  top. Neither cites the other.
+- **Borsboom ([LIT-tmpmi1g3](LIT-tmpmi1g3.md))**: "stuck" in self-maintaining vicious circles
+  is the cognitive version of a symptom network held in its disorder state
+  by feedback. The paper names network analysis only as one statistical
+  tool for mechanism research.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

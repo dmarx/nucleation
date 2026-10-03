@@ -108,6 +108,9 @@ vocabularies:
       moral-psychology:
         label: Moral psychology
         blurb: 'morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018)'
+      psychopathology-and-treatment:
+        label: Psychopathology and treatment
+        blurb: 'what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
@@ -300,6 +303,15 @@ schemes:
         required: false
         many: true
         converse: corrected_by
+      rivals:
+        label: Rival account
+        blurb: this paper argues for an account of the same phenomenon that the other paper's account
+          excludes, and neither tests or corrects the other. Settled, it becomes `corrects` on the
+          winner (ADR-022).
+        scheme: LIT
+        required: false
+        many: true
+        converse: rivals
       corrected_by:
         label: Corrected by
         blurb: the converse of `corrects`, written by `luria link --fix`.
@@ -390,6 +402,14 @@ schemes:
         required: false
         many: true
         converse: extends
+      rivals:
+        label: Rival account
+        blurb: another account of the same phenomenon that cannot also be right, where neither yet corrects
+          the other. Settled, it becomes `corrects` on the winner and a status on the loser (ADR-022).
+        scheme: THEORY
+        required: false
+        many: true
+        converse: rivals
       corrects:
         label: Corrects
         blurb: this account replaces the earlier one's reasoning. What the old account explained may still

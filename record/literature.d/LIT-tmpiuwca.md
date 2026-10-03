@@ -1,0 +1,101 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from Crossref and PubMed, not read. The article is closed access at APA. Unpaywall and OpenAlex call it "green" open access, but their one location is a DOAJ record of an unrelated 2020 Jurnal Psikologi article on thalassemia screening that carries Bandura''s DOI by mistake. The copy Stanford hosted with Bandura''s papers (web.stanford.edu/dept/psychology/bandura/pajares/Bandura1977PR.pdf) now returns 403 Forbidden. Its archived snapshots are on the Wayback Machine, which this environment''s egress policy blocks, and the University of Kentucky mirror of the same collection now redirects away. A PDF of the published article is posted by the Sustainable Sanitation Alliance''s library (susana.org), a third party, so it was not read (only its first page was opened, to identify what it was). A human reader with APA access, or one who can open the archived Stanford copy, could promote this.'
+title: 'Self-Efficacy: Toward a Unifying Theory of Behavioral Change'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered from Crossref (Psychological Review 84(2):191–215, 1977,
+    sole author Albert Bandura) and PubMed (PMID 847061, issue dated March
+    1977, no abstract). `published:` is the issue month, the first of the
+    month because no source gives a day. No lawful abstract was reachable:
+    PubMed has none, Crossref none, OpenAlex's is the misattributed DOAJ
+    record's, and APA PsycNet returned 403. Not held in the Anthology of
+    the SOTA: a grep of its literature.d, notes.d and theory.d for
+    "self-efficacy" and the DOI found nothing.
+tags:
+- psychopathology-and-treatment
+- agency
+- cognition
+- emotion-and-affect
+- social-science
+date: '2026-10-03'
+published: '1977-03-01'
+doi: '10.1037/0033-295x.84.2.191'
+first_author: 'Bandura'
+keywords:
+- 'self-efficacy'
+- 'behavioral change'
+implementations: []
+summary: >-
+  Bandura (1977), Psychological Review 84(2):191–215. The founding paper of
+  self-efficacy theory: psychological treatments, whatever their form, are
+  proposed to work by changing a person's expectation that they can
+  perform the needed behaviour. Unread: registered from bibliographic
+  metadata, with no lawful abstract reachable.
+---
+
+# LIT-tmpiuwca: Self-Efficacy: Toward a Unifying Theory of Behavioral Change
+
+Albert Bandura (1977), *Psychological Review* 84(2):191–215 —
+DOI-10.1037/0033-295x.84.2.191
+
+## Key takeaways
+
+*Registered from bibliographic metadata, not a reading and not an abstract:
+no lawful abstract was reachable. What follows is the paper's own title and
+what the record's read papers say about it.*
+
+- **The title's claim.** A "unifying theory of behavioral change": one
+  mechanism, self-efficacy, behind the effects of different treatments.
+- **As the read RFT paper places it.** Barnes-Holmes, Barnes-Holmes, McHugh
+  and Hayes ([LIT-tmp6n7fc](LIT-tmp6n7fc.md), p. 358) list Bandura (1977) among the
+  "integrative models that combined both cognition and behavior" that came
+  after Chomsky's critique of Skinner. They say these kept behaviour therapy
+  credible without changing its basic science.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the founding statement of
+self-efficacy, the most influential cognitive account of how treatment
+changes behaviour. No anthology topic holds it, and it carries no
+instruction for machine-learning practice.
+
+`Deferred` because it was not read: no lawful copy was reachable (see the
+status note). It is filed with no claims of its own beyond the title, and
+the record should not lean on it until it is read.
+
+Where it would bear, once read:
+
+- **Against the ACT line.** Bandura offers a single cognitive mechanism, an
+  expectation about one's own capacity, for all effective treatment. The
+  ACT model ([LIT-tmpxkxq0](LIT-tmpxkxq0.md)) and its RFT basis ([LIT-tmp6n7fc](LIT-tmp6n7fc.md)) reject
+  changing cognitive content as the route. They target the context that
+  links thoughts to action, and treat confidence as a private event to be
+  held, not changed. A reading should check whether Bandura's self-efficacy
+  is a content claim in that sense, or a functional one that ACT's
+  "committed action" could absorb.
+- **Unifying-mechanism proposals.** Salkovskis, Sighvatsson and Sigurdsson
+  ([LIT-tmp2bpgh](LIT-tmp2bpgh.md)), filed by another agent, propose one mechanism for all
+  effective therapies, a shift from a threatening meaning to a tested
+  alternative. Bandura (1977) is the classic earlier proposal of the same
+  form. Whether either cites the other was not checked.
+- **Agency.** Self-efficacy is a theory of perceived capability for action,
+  which is why the entry carries the `agency` tag. A reading should say
+  whether it bears on the record's philosophical work on agency or only on
+  its psychology.
+
+**Priority for a reading: medium.** It is a classic, but the batch's line
+of argument does not depend on it.
+
+## Corrections
+
+- **Unpaywall's and OpenAlex's open-access status is wrong.** Both list
+  the paper as green open access through DOAJ record
+  ccb9da1c287e4fc889803ed90e077385. That record is "Emerging Adults'
+  Barriers, Consideration, and Intention to do Thalassemia Screening Test
+  as Preventive Health Behavior", Jurnal Psikologi (2020), which lists
+  Bandura's DOI among its identifiers. OpenAlex's abstract for the DOI is
+  that article's abstract.
