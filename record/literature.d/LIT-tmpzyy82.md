@@ -1,0 +1,124 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpudt8s](../notes.d/NOTE-tmpudt8s.md)); worth reading as the experimental case that the true self-concept, as distinct from self-reported authenticity, matters to felt meaning. In five student studies (N = 56 to 149), how quickly people classify their own "true self" traits predicts presence of meaning in life over and above actual-self accessibility, need satisfaction and AI-3 authenticity, and subliminally priming true-self traits raises reported meaning, even when the traits are disliked. Effects are small, meaning is self-report only, and the Study 5 interaction is printed with an F that cannot carry its stated p.'
+title: 'Thine Own Self: True Self-Concept Accessibility and Meaning in Life'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full (the published PDF from the Existential Psychology Lab at
+    Texas A&M, Hicks's lab, https://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/08/SchlegeletalJPSP2009.pdf,
+    18 pages: introduction, Studies 1–5, General Discussion; the reference
+    list skimmed). The text layer drops minus and comparison signs, so
+    Table 4 and the Study 5 results paragraph were checked against page
+    images. Not held in the Anthology of the SOTA: a grep of its
+    literature.d for "Schlegel" and "true self" found nothing.
+tags:
+- self
+- self-governance
+- social-science
+- cognition
+date: '2026-10-03'
+published: '2009-02-01'
+doi: '10.1037/a0014060'
+url: 'https://existentialpsych.sites.tamu.edu/wp-content/uploads/sites/152/2016/08/SchlegeletalJPSP2009.pdf'
+first_author: 'Schlegel'
+keywords:
+- 'true self'
+- 'meaning in life'
+- 'cognitive accessibility'
+- 'self-concept'
+- 'actual self'
+- 'authenticity'
+- 'priming'
+implementations: []
+summary: >-
+  Schlegel, Hicks, Arndt & King (2009), JPSP 96(2):473–490. Five studies:
+  faster "me" judgments for one's own true-self traits (residualized on
+  speed for control traits) predict presence of meaning in life, while
+  actual-self accessibility does not, controlling affect, need
+  satisfaction and (Study 4) AI-3 authenticity, which was itself
+  uncorrelated with true-self accessibility. Subliminal priming of
+  true-self traits raised reported meaning (Studies 3 and 5), for disliked
+  traits as much as liked ones.
+compared_against:
+- LIT-tmpc6vlg
+- LIT-559
+---
+<!-- inactive-ok-file: LIT-tmpc6vlg — Deferred, unread; the relation is from this paper's own comparison with the AI-3, not from a reading of the chapter -->
+<!-- inactive-ok-file: LIT-tmprf69i — Deferred, unread; Taylor, named for the paper's own historical framing, not leaned on -->
+<!-- inactive-ok-file: LIT-183 — Deferred; named to contrast Wolf's view with this paper's measure, not leaned on -->
+<!-- inactive-ok-file: THEORY-054 — Proposed; named as the account this paper bears on, from the file status, nothing here rests on it -->
+
+# LIT-tmpzyy82: Thine Own Self: True Self-Concept Accessibility and Meaning in Life
+
+Rebecca J. Schlegel, Joshua A. Hicks, Jamie Arndt and Laura A. King (2009),
+*Journal of Personality and Social Psychology* 96(2):473–490 —
+DOI-10.1037/a0014060
+
+The brief's citation is correct. Crossref gives only the year; No. 2 of
+the 2009 volume is the February issue, so `published:` carries 1 February
+2009.
+
+## Key takeaways
+
+- **The true self-concept is a source of felt meaning, as a cognitive
+  structure.** People who classify their own "true self" traits faster
+  report more meaning in life; people who classify their "actual" (everyday,
+  public) self traits faster do not (Studies 1, 2, 4).
+- **Making it accessible raises meaning.** Subliminally flashing a person's
+  own true-self traits before a meaning questionnaire raised reported
+  meaning against actual-self primes (Study 3) and against disliked
+  actual-self primes (Study 5), controlling baseline meaning.
+- **Not because it is flattering.** Disliked true-self traits worked as
+  well as liked ones (Study 5), and true-self priming did not raise state
+  self-esteem. Liking matters for the actual self, not the true one.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the batch's experimental
+work on the true self. It is psychology with no instruction for
+machine-learning practice, so no anthology topic holds it. Primary tag
+`self`, since its subject is a self-concept; `self-governance` because its
+question is the psychological weight of what a person takes to be his own;
+`cognition` for the accessibility and priming methods.
+
+**Measured against two constructs the record holds.**
+
+- **Kernis and Goldman's authenticity ([LIT-tmpc6vlg](LIT-tmpc6vlg.md))**, declared
+  `compared_against`. Studies 4 and 5 measure authenticity with their
+  45-item AI-3 and test whether true-self accessibility predicts meaning
+  beyond it. In Study 4 authenticity predicted meaning (β = .34) and so did
+  true-self accessibility (β = .19) with each other controlled, and the two
+  were uncorrelated (r = .05). The Limitations section frames this as a
+  test of whether the two "tap the same underlying construct" (p. 487), and
+  concludes they do not. So the self-reported authenticity the field
+  measures is not the same thing as how readily one's own true-self traits
+  come to mind.
+- **Ryan and Deci's basic need satisfaction ([LIT-559](LIT-559.md))**, declared
+  `compared_against`. Every correlational study enters need satisfaction
+  (Gagné's Basic Psychological Needs Scale, cited to Ryan & Deci 2000) as a
+  rival source of meaning. It predicted meaning in Studies 1 and 2
+  (β = .37, .32) and true-self accessibility kept its own effect; the
+  paper names basic need satisfaction alongside authenticity as a construct
+  its own differs from (p. 487).
+
+**Where it bears.**
+
+- **Authenticity and autonomy.** For [THEORY-054](../theory.d/THEORY-054.md), which places autonomy
+  in integration measured by self-report, the paper is a methodological
+  model: an implicit measure (reaction time) and an experimental
+  manipulation of a self-related construct, the kind of evidence the SDT
+  accounts lack. It does not measure integration.
+- **Meaning.** The meaning measured is purely subjective (the MLQ Presence
+  subscale and four PIL items). Wolf's hybrid view, as Hiekel discusses it
+  ([LIT-183](LIT-183.md)), makes meaning require objective attractiveness as well; nothing
+  here bears on that half.
+- **Taylor ([LIT-tmprf69i](LIT-tmprf69i.md)).** The paper itself places its subject historically:
+  the search for a true self is "firmly entrenched in modern times" and may
+  answer the erosion of shared sources of value (pp. 474, 487). That is
+  Taylor's diagnosis, reached by citing Baumeister, Bellah and Frankl, not
+  Taylor.
+
+Read in [NOTE-tmpudt8s](../notes.d/NOTE-tmpudt8s.md).
