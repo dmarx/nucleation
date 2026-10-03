@@ -303,6 +303,15 @@ schemes:
         required: false
         many: true
         converse: corrected_by
+      rivals:
+        label: Rival account
+        blurb: this paper argues for an account of the same phenomenon that the other paper's account
+          excludes, and neither tests or corrects the other. Settled, it becomes `corrects` on the
+          winner (ADR-022).
+        scheme: LIT
+        required: false
+        many: true
+        converse: rivals
       corrected_by:
         label: Corrected by
         blurb: the converse of `corrects`, written by `luria link --fix`.
@@ -393,6 +402,14 @@ schemes:
         required: false
         many: true
         converse: extends
+      rivals:
+        label: Rival account
+        blurb: another account of the same phenomenon that cannot also be right, where neither yet corrects
+          the other. Settled, it becomes `corrects` on the winner and a status on the loser (ADR-022).
+        scheme: THEORY
+        required: false
+        many: true
+        converse: rivals
       corrects:
         label: Corrects
         blurb: this account replaces the earlier one's reasoning. What the old account explained may still

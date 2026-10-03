@@ -29,6 +29,8 @@ summary: >-
   measurement through motivation and coping, cognition, causality, negative,
   positive and problematic emotions, development, social influence and
   health, to research, assessment, treatment and prevention. Unread.
+rivals:
+- LIT-tmp7xlrj
 ---
 
 # LIT-tmpqjded: Emotion and Adaptation

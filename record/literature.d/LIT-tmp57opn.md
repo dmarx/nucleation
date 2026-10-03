@@ -56,6 +56,8 @@ summary: >-
   from another. Events usually draw several appraisals and so several
   states of readiness, and their interaction regulates action: much
   emotion regulation is itself emotional, not reason overriding passion.
+rivals:
+- LIT-tmp7xlrj
 ---
 
 <!-- inactive-ok-file: LIT-tmpkd06c — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->

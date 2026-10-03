@@ -45,6 +45,9 @@ keywords:
 - 'population thinking'
 - 'classical view of emotion'
 implementations: []
+rivals:
+- LIT-tmpqjded
+- LIT-tmp57opn
 summary: >-
   Barrett (2017), SCAN 12(1):1–23. The brain runs an internal model of the
   body in the world for allostasis. Its predictions are "concepts" issued
@@ -88,12 +91,11 @@ is the record's statement of psychological constructionism. Lazarus's Emotion
 and Adaptation ([LIT-tmpqjded](LIT-tmpqjded.md)) is the appraisal theory the paper names as its
 example of a "classical" causal appraisal account, and Frijda's action-readiness
 theory, read here through Frijda, Ridderinkhof and Rietveld ([LIT-tmp57opn](LIT-tmp57opn.md)), is
-the other side of the same dispute. The LIT scheme has no relation for a
-rivalry: `compared_against` needs a comparison somebody ran, and `corrects`
-needs the earlier paper shown wrong. This paper argues from brain architecture
-that appraisal theory is mistaken; it does not test it. So the rivalry is held
-in these prose entries, and a THEORY has been proposed to the owner to hold the
-claim itself.
+the other side of the same dispute. The record holds this as `rivals`
+([ADR-022](../decisions.d/ADR-022.md)), not `compared_against` or `corrects`. This paper argues from brain
+architecture that appraisal theory has the causal order backwards: meaning
+follows categorization rather than triggering the emotion. It does not test
+that claim against appraisal theory, and the record has not read Lazarus.
 
 It joins the record's interoception and predictive-processing cluster, and
 places emotion inside it.
