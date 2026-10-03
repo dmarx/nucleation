@@ -1,0 +1,135 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-03 ([NOTE-tmpaj6gl](../notes.d/NOTE-tmpaj6gl.md)); worth reading as the argument
+  that removing report does not isolate the neural basis of conscious
+  perception, because subjects, monkeys included, can still think about
+  what they see ("the bored monkey problem"). What is needed is a paradigm
+  with no post-perceptual cognition that differs between percepts.
+  Brascamp et al.'s inconspicuous binocular rivalry, whose switches
+  subjects could not tell from constant random changes, is offered as one,
+  and found no prefrontal difference by fMRI. Block flags that fMRI may be
+  too coarse, and that ECoG could still favour prefrontalism.
+title: 'What Is Wrong with the No-Report Paradigm and How to Fix It'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the publisher's PDF that Block links from his
+    publications page (nedblock.us/publications, a Google Drive file), 11
+    pages, printed pp. 1003–1013, with Highlights, Glossary, Boxes 1–2,
+    Figures 1–2 and Outstanding Questions. Crossref confirms the title,
+    Trends in Cognitive Sciences 23(12):1003–1013 and the DOI, and gives
+    December 2019 for the issue (its full date, 3 November 2019, is the
+    deposit), so `published:` is the first of December 2019. A green copy
+    at PhilPapers (BLOWIW-2) sits behind a bot challenge and was not
+    pursued. Not held in the Anthology of the SOTA.
+tags:
+- consciousness
+- neuroscience
+- philosophy-of-science
+- cognition
+date: '2026-10-03'
+published: '2019-12-01'
+doi: '10.1016/j.tics.2019.10.001'
+url: 'https://drive.google.com/file/d/11YceTuyak-1tqo4qKknvFAvB3bzLXb4h/view'
+first_author: 'Block'
+keywords:
+- 'no-report paradigm'
+- 'no-cognition paradigm'
+- 'binocular rivalry'
+- 'prefrontal cortex'
+- 'neural basis of consciousness'
+- 'global workspace theory'
+- 'higher-order theory'
+- 'recurrent processing'
+- 'integrated information theory'
+- 'optokinetic nystagmus'
+- 'predictive processing'
+implementations: []
+summary: >-
+  Block (2019), Trends in Cognitive Sciences 23(12):1003–1013. Whether
+  perceptual consciousness needs prefrontal circuits cannot be settled by
+  no-report paradigms, because subjects not asked to report may still
+  think about what they see, and that thought tracks the percept. A
+  no-post-perceptual-cognition paradigm is needed. Brascamp et al.'s
+  rivalry with inconspicuous switches is one, and it found no detectable
+  prefrontal difference. Box 2 argues that binocular rivalry is driven by
+  local features, against the predictive-processing account.
+extends:
+- LIT-tmpqw586
+---
+
+<!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmprpyvx — Proposed; named as accounts this paper bears on, not leaned on -->
+
+# LIT-tmpk0hon: What Is Wrong with the No-Report Paradigm and How to Fix It
+
+Ned Block (2019), *Trends in Cognitive Sciences* 23(12), 1003–1013, an
+Opinion article.
+
+## Key takeaways
+
+- **Front versus back.** Theories divide on whether perceptual
+  consciousness requires prefrontal circuits for thought, reasoning,
+  report and memory (global workspace, higher-order theory) or is based in
+  sensory cortex (IIT, recurrent processing). Front versus back is a
+  surrogate for whether consciousness is cognitive.
+- **Transitions are not contents.** Prefrontal correlates of switches in
+  binocular rivalry could reflect attention, arousal, preconscious stages
+  or motor control, not the percepts. If there is *no* prefrontal
+  difference, contents cannot be prefrontal; if there is one, little
+  follows.
+- **The no-report paradigm and its flaw.** Frässle et al. used optokinetic
+  nystagmus to track rivalry without report and found prefrontal
+  differences minor. But monkeys in no-report rivalry (Panagiotaropoulos's
+  group) showed prefrontal decoding of contents. Either way, "eliminating
+  reports does not eliminate post-perceptual cognitive processes if the
+  subjects are thinking and reasoning about the stimulus": the bored monkey
+  may muse on which way the grating moves.
+- **A fix.** Brascamp et al. 2015 made rivalry switches inconspicuous by
+  using same-coloured dots whose motion changed randomly every 300 ms.
+  Subjects could not tell rivalrous switches from the others (d′ for
+  detection indistinguishable from chance), so no differential thought
+  followed, and fMRI found prefrontal differences only for different-
+  coloured dots. Block calls this a "no-differential-post-perceptual
+  cognition" paradigm.
+- **Rivalry is local (Box 2).** Whether two eyes' images rival or fuse is set
+  by local features, not by high-level knowledge that a face is not a
+  house, which tells against the predictive-processing explanation of
+  rivalry (Hohwy et al.; Clark).
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, with six other papers by Block
+on consciousness. No anthology topic holds the methodology of
+consciousness science, and the paper carries no instruction for
+machine-learning practice.
+
+**It extends Block (2007), [LIT-tmpqw586](LIT-tmpqw586.md).** It cites that paper as the source
+of the problem the no-report paradigm was meant to solve, separating the
+neural basis of consciousness from the basis of the cognition behind
+report, and argues that the paradigm solved it only in part.
+
+**Bearing on the new theories.**
+
+- *[THEORY-tmpwyfwm](../theory.d/THEORY-tmpwyfwm.md)* (Vishne et al., [LIT-tmppqcvc](LIT-tmppqcvc.md)) found prefrontal content
+  confined to about 150–600 ms after onset, with no report on analysed
+  trials. This paper says that no-report trials do not exclude post-
+  perceptual thought. On its argument the onset burst could be cognition
+  about the image rather than part of seeing it, and the absence of
+  sustained prefrontal content is the more informative result. That
+  reading is mine. The theory's `promote_when` already names the COGITATE
+  adversarial collaboration, which this paper mentions as funded to settle
+  front versus back.
+- *[THEORY-tmprpyvx](../theory.d/THEORY-tmprpyvx.md)* asks, for its "conscious" half, for a no-report or
+  report-independent paradigm in birds. By this paper's argument that
+  would not be enough: a bird not asked to report may still process the
+  percept cognitively, and NCL, the prefrontal analogue, is where that
+  would show. The theory would need a no-post-perceptual-cognition design,
+  such as inconspicuous rivalry.
+
+No relation is declared to those works; this paper predates the
+Vishne et al. study and does not discuss birds. Brascamp et al. 2015,
+Frässle et al. 2014 and Safavi et al. 2014, on which the argument turns,
+are not held.

@@ -1,0 +1,145 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-03 ([NOTE-tmp6n04h](../notes.d/NOTE-tmp6n04h.md)); worth reading as the source of
+  the distinction between phenomenal consciousness (P: experience, what it
+  is like) and access consciousness (A: a content poised for use as a
+  premise in reasoning and for rational control of action and speech). The
+  paper's target is an argument form, not a theory: from a case where
+  "consciousness" and some capacity are missing together (blindsight,
+  petit mal automatism) to a function of P. In those cases A is missing
+  too, so the obvious function of A's machinery is being credited to P.
+  The cases of P without A that it offers (the noticed drill, Sperling's
+  arrays, anaesthesia) are put forward as suggestive, not as evidence.
+title: 'On a confusion about a function of consciousness'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the scan of the BBS issue that Block links from his
+    own publications page (nedblock.us/publications, a Google Drive file),
+    62 PDF pages covering the target article, the open peer commentary,
+    Block's response and the references (printed pp. 227–287). The text
+    layer is an OCR of the printed page and was read as text. The target
+    article (pp. 227–247, §§1–7 and notes 1–30) was read in full. The
+    commentaries and the response were not read beyond their first lines.
+    Crossref confirms the title, Behavioral and Brain Sciences 18(2):
+    227–247 and the DOI, and gives June 1995 as the print date (its full
+    date, 4 February 2010, is the online deposit), so `published:` is the
+    first of June 1995. Cambridge Core shows only the abstract. Not held in
+    the Anthology of the SOTA: a grep of its record for "Block", the title
+    and the DOI found nothing.
+tags:
+- consciousness
+- cognition
+date: '2026-10-03'
+published: '1995-06-01'
+doi: '10.1017/S0140525X00038188'
+url: 'https://drive.google.com/file/d/19FI0Vu1e6r6hnxJZ49SvRUOhiO25mpbX/view'
+first_author: 'Block'
+keywords:
+- 'phenomenal consciousness'
+- 'access consciousness'
+- 'P-consciousness'
+- 'A-consciousness'
+- 'blindsight'
+- 'superblindsight'
+- 'mongrel concept'
+- 'function of consciousness'
+- 'monitoring consciousness'
+- 'self-consciousness'
+- 'Schacter''s model'
+implementations: []
+summary: >-
+  Block (1995), Behavioral and Brain Sciences 18(2):227–247, with open peer
+  commentary. "Consciousness" is a mongrel concept. Phenomenal
+  consciousness is experience; a state is access-conscious if its content
+  is poised for use in reasoning and in rational control of action and
+  speech. Arguments from blindsight and petit mal automatism to a function
+  of phenomenal consciousness are fallacious, because access is missing in
+  those cases too, and its machinery has the function in question. Cases of
+  phenomenality without access (Sperling's arrays, the unnoticed drill) are
+  offered as worth investigating, not as proven.
+extended_by:
+- LIT-tmp5lq2t
+---
+
+<!-- inactive-ok-file: THEORY-tmprpyvx THEORY-023 — Proposed; named as accounts this distinction bears on, not leaned on -->
+
+# LIT-tmpphpqu: On a confusion about a function of consciousness
+
+Ned Block (1995), *Behavioral and Brain Sciences* 18(2), 227–247, a target
+article with open peer commentary and the author's response (the issue's
+pages run to 287). A corrected version is reprinted in Block, Flanagan and
+Güzeldere (eds), *The Nature of Consciousness* (MIT Press, 1997), which was
+not read.
+
+## Key takeaways
+
+- **Two concepts (§§3–4).** P-consciousness is experience, which Block
+  says he cannot define non-circularly and can only point to. He takes
+  P-conscious properties to be distinct from any cognitive, intentional or
+  functional property, while allowing that differences in intentional
+  content often make a phenomenal difference. A state is A-conscious if, in
+  virtue of having it, a representation of its content is poised (1) as a
+  premise in reasoning, (2) for rational control of action and (3) for
+  rational control of speech. A is a functional, system-relative and
+  cluster notion; reportability is its least weighty element, so that
+  chimpanzees can have A-conscious states.
+- **The fallacy (§6).** Marcel, Flanagan, van Gulick, Schacter and Baars
+  argue that because the thirsty blindsight patient does not reach for the
+  water, phenomenal consciousness must function to let information guide
+  action. Searle argues the same from Penfield's petit mal patients. In
+  blindsight both P and A are missing, so the failure to reach is
+  explained by the missing access. In the epileptics nothing shows that P
+  is missing at all. "The fallacy is: an obvious function of the machinery
+  of access-consciousness is illicitly transferred to phenomenal
+  consciousness."
+- **What is right in the target reasoning (§6).** A and P are almost always
+  present or absent together, and superblindsight, A without P, seems not
+  to exist. So P may be the gateway to access (Schacter's model), may be
+  epiphenomenal, or may be empirically the same as A. Making the
+  distinction is what makes these alternatives visible.
+- **Possible P without A (§§4.2, 7).** The drill one has heard all along
+  but notices only at noon; Sperling's arrays, where Block reports seeing
+  all the letters but can report only about half; hypnotic analgesia;
+  pain under general anaesthesia (aerodontalgia). Block says these "don't
+  show anything on their own".
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, with six later papers by Block
+on consciousness. No anthology topic holds a distinction between kinds of
+consciousness, and the paper carries no instruction for machine-learning
+practice.
+
+It is the work the record's readings mean when they write "Block 1995" or
+"Block's access/phenomenal distinction". Frankish, read in [NOTE-143](../notes.d/NOTE-143.md), places
+it in his "Cartesian" paradigm. Bruckner, read in [NOTE-093](../notes.d/NOTE-093.md), cites it for
+the definition of phenomenal consciousness. Block's own later papers build
+on it. Block (2005), [LIT-tmp5lq2t](LIT-tmp5lq2t.md), extends it from concepts to neural
+correlates, a phenomenal NCC and an access NCC.
+
+**Bearing on the new theories.** [THEORY-tmprpyvx](../theory.d/THEORY-tmprpyvx.md) states as a limit that a
+report paradigm cannot separate access from phenomenal consciousness. That
+limit is this paper's distinction, applied to report. The paper also shows
+why the limit runs one way: a report proves A, and it is silent on whether
+P can occur without A. [THEORY-023](../theory.d/THEORY-023.md) concerns attributing consciousness to AI.
+The robot "computationally identical to a person" whose silicon does not
+support P is this paper's example of a full A-without-P zombie (§4.1).
+Block calls it conceptually possible and "very controversial".
+
+**Against Dennett.** The paper argues (§5) that Dennett's claim that
+consciousness is a cultural construction is "trivially false" of
+P-consciousness, false of A-consciousness and "banal" of a sophisticated
+self-consciousness. It reads Dennett's Multiple Drafts theory as a theory of
+A-consciousness. The record holds the article form of that theory, Dennett
+and Kinsbourne's "Time and the Observer" ([LIT-431](LIT-431.md)). Block cites it in note 2
+for the Cartesian materialism after which he names his "Cartesian
+modularism". The paper does not engage that article's argument, so no
+relation is declared here. The direct clash comes in Block (2007),
+[LIT-tmpqw586](LIT-tmpqw586.md).
+
+No relation is declared. The papers it argues against (Marcel, Searle,
+Flanagan, van Gulick, Schacter) are not held.
