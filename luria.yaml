@@ -129,6 +129,24 @@ vocabularies:
       motivation:
         label: Motivation
         blurb: 'why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023)'
+      well-being:
+        label: Well-being
+        blurb: 'how well a life goes for the one living it, as psychology measures it — subjective and eudaimonic well-being, flourishing, vitality and meaning in life, and what predicts them (ADR-025)'
+      learning-and-conditioning:
+        label: Learning and conditioning
+        blurb: 'how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025)'
+      psychometrics:
+        label: Psychometrics
+        blurb: 'measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025)'
+      philosophy-of-biology:
+        label: Philosophy of biology
+        blurb: 'what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025)'
+      embodied-cognition:
+        label: Embodied cognition
+        blurb: 'cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025)'
+      free-will:
+        label: Free will
+        blurb: 'free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
@@ -352,9 +370,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self, personhood, phenomenal unity, narrative unity, self-governance, phenomenology, social ontology, moral psychology, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self, personhood, phenomenal unity, narrative unity, self-governance, philosophy of biology, embodied cognition, free will, phenomenology, social ontology, moral psychology, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self, personhood, phenomenal-unity, narrative-unity, self-governance, phenomenology, social-ontology, moral-psychology, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
+            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self, personhood, phenomenal-unity, narrative-unity, self-governance, philosophy-of-biology, embodied-cognition, free-will, phenomenology, social-ontology, moral-psychology, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
           flags:
             label: Curation flags
             blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).
