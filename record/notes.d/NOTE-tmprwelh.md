@@ -19,9 +19,12 @@ summary: >-
   latents of the data-generating process. Cue-reliant and cue-invariant
   ResNet-18 and VGG-13 models are quadratic- but not linear-connected, even
   after activation matching. Conjecture 1 (no LMC up to symmetry ⇒
-  mechanistic dissimilarity) is proved for a one-hidden-layer ReLU net via
-  Lemma 2: LMC between interpolating minimizers forces identical activation
-  patterns. CBFT (cross-entropy + barrier loss + class-mean invariance
+  mechanistic dissimilarity) is not what Appendix F.3 proves. For a
+  one-hidden-layer ReLU net with interpolating minimizers, Lemma 2 (LMC
+  forces identical activation patterns) with Theorem 1 (mechanisms of
+  different complexity force different patterns) proves the converse:
+  dissimilar mechanisms of different complexity ⇒ no LMC under any
+  permutation. The paper presents this as verifying the conjecture. CBFT (cross-entropy + barrier loss + class-mean invariance
   loss) removes the cue on synthetic CIFAR-10/100 and Dominoes.
 ---
 
@@ -109,7 +112,7 @@ its parent's mechanism.
 |---|---|---|---|
 | C1 | Mechanistically dissimilar minimizers can be mode connected | strong as a corollary, for analytic activations and one extra neuron per layer | Proposition 2, via Simsek et al. Lemma 1 |
 | C2 | Cue-reliant and cue-invariant models are quadratic- but not linear-connected, even after permutation | moderate: two architectures, three synthetic datasets | Fig. 4, App. G |
-| C3 | Lack of LMC (up to symmetry) implies mechanistic dissimilarity | proved for a one-hidden-layer ReLU net with interpolating minimizers; empirical support elsewhere is consistent but not a test of the implication | Conjecture 1, Lemma 2, App. F.3 |
+| C3 | Lack of LMC (up to symmetry) implies mechanistic dissimilarity | conjectured; App. F.3 proves only the converse (dissimilar mechanisms of different complexity ⇒ no LMC) for a one-hidden-layer ReLU net with interpolating minimizers; the stated direction rests on the fine-tuning experiments | Conjecture 1, Lemma 2, App. F.3 |
 | C4 | Naive fine-tuning on clean data that stays LMC with the pretrained model keeps its mechanism | moderate: synthetic cues, one fine-tuning protocol | Fig. 5, App. H |
 | C5 | Forcing a barrier and penalising representation shift removes a spurious cue more effectively than LLR or LPFT | moderate on synthetic benchmarks; weaker on CIFAR-100 at high cue proportion | Table 1, App. E |
 
@@ -175,8 +178,10 @@ with and without the cue are not.
   minimizers and leans on an unproved simplicity-bias lemma.
 - **Asymmetric scope.** The authors note (Table 2's asterisk, §8) that
   mechanistically dissimilar models *can* be linearly connected when their
-  mechanisms are of similar complexity. So the result is one-directional:
-  no LMC ⇒ dissimilar, never dissimilar ⇒ no LMC.
+  mechanisms are of similar complexity. So what is proved is narrow:
+  dissimilar mechanisms of *different complexity* ⇒ no LMC. Dissimilarity
+  in general does not imply a barrier, and the conjectured direction
+  (no LMC ⇒ dissimilar) is supported by experiment, not proof.
 - **Synthetic mechanisms.** The cues are easy, artificial and placed by
   design. Natural spurious features are not tested; the authors point to
   generative counterfactuals as future work.

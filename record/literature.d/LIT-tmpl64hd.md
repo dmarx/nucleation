@@ -42,8 +42,9 @@ summary: >-
   the data-generating process. Models that use a spurious cue and models
   that ignore it are mode connected along quadratic paths but not along
   linear ones, even after permutation matching, and the paper conjectures
-  that a linear barrier implies mechanistic dissimilarity (proved for a
-  one-hidden-layer ReLU network). Naive fine-tuning on clean data stays
+  that a linear barrier implies mechanistic dissimilarity. For a
+  one-hidden-layer ReLU network it proves only the converse: mechanisms
+  of different complexity cannot be linearly connected. Naive fine-tuning on clean data stays
   linearly connected to the pretrained model and keeps its reliance on the
   cue; a fine-tune that forces a barrier removes it.
 extends:
@@ -72,10 +73,13 @@ Machine Learning (ICML 2023), PMLR 202 — [ARXIV-2211.08422](https://arxiv.org/
   the linear path has a barrier even after activation-matching permutation
   (Fig. 4).
 - **Conjecture 1: no linear connectivity, up to symmetries, implies
-  mechanistic dissimilarity.** It is proved only for a one-hidden-layer
-  ReLU network with interpolating minimizers, through Lemma 2: linear
-  connectivity forces the two models to share activation patterns on the
-  data (Appendix F.3).
+  mechanistic dissimilarity.** It is not proved. Appendix F.3 proves the
+  converse for a one-hidden-layer ReLU network with interpolating
+  minimizers: Lemma 2 (linear connectivity forces shared activation
+  patterns) with Theorem 1 (mechanisms of different complexity force
+  different patterns) gives dissimilar ⇒ no linear connectivity. The paper
+  presents this as verifying the conjecture; the stated direction rests on
+  the fine-tuning experiments.
 - **Naive fine-tuning keeps the pretrained mechanism.** After fine-tuning on
   cue-free data with small or medium learning rates, the model stays
   linearly connected to the pretrained one and still relies on the cue;
