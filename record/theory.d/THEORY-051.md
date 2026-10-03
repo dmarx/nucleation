@@ -21,7 +21,7 @@ title: 'Strengthening the self as context, a perspective from which thoughts abo
 version: 1
 tags:
 - psychopathology-and-treatment
-- self-and-personhood
+- self
 date: '2026-10-03'
 source:
 - LIT-555

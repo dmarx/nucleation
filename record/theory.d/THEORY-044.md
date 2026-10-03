@@ -28,11 +28,12 @@ promote_when: >-
 title: 'In relational frame theory the self is verbal behaviour''s content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content'
 version: 1
 tags:
-- self-and-personhood
+- self
 - psychopathology-and-treatment
 - phenomenology
 - cognition
 - philosophy-of-language
+- narrative-unity
 date: '2026-10-03'
 source:
 - LIT-541

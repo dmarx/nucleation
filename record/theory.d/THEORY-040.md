@@ -22,6 +22,7 @@ tags:
 - agency
 - ethics
 - metaphysics
+- self-governance
 date: '2026-09-30'
 source:
 - LIT-291

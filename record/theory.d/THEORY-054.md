@@ -20,12 +20,20 @@ promote_when: >-
   regulation turn out to be one dimension of strength. More correlations
   between "autonomous motivation" composites and well-being cannot settle
   it.
-title: "A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it"
-version: 1
+title: "A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it"
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    Title and heading say "one's other values and needs", SDT's own phrase,
+    in place of "the person's": SDT locates integration in the self, and the
+    record now keeps self and person apart (ADR-024). The claim is unchanged.
 tags:
 - agency
 - motivation
-- self-and-personhood
+- self
+- self-governance
 date: '2026-10-03'
 source:
 - LIT-559
@@ -49,7 +57,7 @@ extended_by:
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
-# THEORY-054: A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+# THEORY-054: A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
 
 ## Source
 

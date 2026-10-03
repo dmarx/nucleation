@@ -58,8 +58,8 @@ summary: >-
   not minds. Schwitzgebel ([LIT-159](../literature.d/LIT-159.md)) builds a candidate mind upward, out of
   agents that are. The readings agree that agency survives both directions:
   Block grants a homunculi-head beliefs, List grants organised groups
-  agency and awareness, Levin finds nested goal-pursuing Selves at every
-  scale. The dispute narrows to phenomenal consciousness, and every
+  agency and awareness, Levin finds nested goal-pursuing collectives (his
+  "Selves") at every scale. The dispute narrows to phenomenal consciousness, and every
   published way to accept the downward move while refusing the upward one
   is either an anti-nesting principle (Putnam's stipulation, IIT's
   exclusion postulate, Kammerer's functional version), each introduced for
@@ -123,8 +123,8 @@ point, a colony whose ants are mindless and whose organisation is a mind.
   sense and are aware in the access sense ([NOTE-340](../notes.d/NOTE-340.md), C1–C2). He says the
   question of group experience then depends wholly on which bridge
   principle is true (C3).
-- **Levin** ([LIT-439](../literature.d/LIT-439.md), [NOTE-341](../notes.d/NOTE-341.md)) finds goal-pursuing Selves nested at
-  every biological scale (C2), and proposes that human groups may have
+- **Levin** ([LIT-439](../literature.d/LIT-439.md), [NOTE-341](../notes.d/NOTE-341.md)) finds goal-pursuing collectives (his "Selves")
+  nested at every biological scale (C2), and proposes that human groups may have
   their own cognition (C6). Both claims are about agency; his extension to
   experience is labelled speculation (C8).
 

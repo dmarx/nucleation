@@ -29,6 +29,7 @@ tags:
 - emotion-and-affect
 - agency
 - cognition
+- behavioral-integration
 date: '2026-10-03'
 source:
 - LIT-540

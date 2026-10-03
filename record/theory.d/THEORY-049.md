@@ -26,6 +26,7 @@ tags:
 - motivation
 - agency
 - social-science
+- self-governance
 date: '2026-10-03'
 source:
 - LIT-557
