@@ -1,5 +1,8 @@
 ---
+number: 49
 status: Proposed
+formerly:
+- THEORY-tmpchkxg
 promote_when: >-
   Mediation, not pattern fit. The account predicts that perceived locus of
   causality (felt control) mediates the undermining effect of tangible
@@ -14,7 +17,7 @@ promote_when: >-
   feedback, since the account says the reward then adds control and no
   information; the rival behavioural and social-cognitive account
   predicts enhancement there. A reading of Cameron, Banko and Pierce
-  (LIT-tmpyhay6), which reports such enhancement in its abstract, could
+  (LIT-562), which reports such enhancement in its abstract, could
   move this either way. Further pattern-fitting meta-analyses cannot
   settle it, because both accounts were fitted to the same patterns.
 title: 'Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence'
@@ -25,13 +28,13 @@ tags:
 - social-science
 date: '2026-10-03'
 source:
-- LIT-tmp58ot3
-- LIT-tmpckq0r
-- LIT-tmpc4275
+- LIT-557
+- LIT-559
+- LIT-558
 summary: >-
   Cognitive evaluation theory, as tested by Deci, Koestner and Ryan (1999,
-  [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md)) and summarized by Ryan and Deci ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md)) and Deci and
-  Ryan ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)): rewards, feedback, deadlines and choice affect
+  [LIT-557](../literature.d/LIT-557.md)) and summarized by Ryan and Deci ([LIT-559](../literature.d/LIT-559.md)) and Deci and
+  Ryan ([LIT-558](../literature.d/LIT-558.md)): rewards, feedback, deadlines and choice affect
   intrinsic motivation through their "functional significance".
   Controlling events shift the perceived locus of causality outward and
   undermine it; informational ones affirm competence and enhance it, but
@@ -40,19 +43,19 @@ summary: >-
   in four studies. Mediation by felt control is untested for rewards. A
   behavioural and social-cognitive rival exists and is unread here.
 ---
-<!-- inactive-ok-file: LIT-tmpyhay6 LIT-545 — Deferred; the rival account's statements, named, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmp4rbva THEORY-tmpk0q6m — Proposed; neighbours named in Connections -->
+<!-- inactive-ok-file: LIT-562 LIT-545 — Deferred; the rival account's statements, named, not leaned on -->
+<!-- inactive-ok-file: THEORY-046 THEORY-054 — Proposed; neighbours named in Connections -->
 
-# THEORY-tmpchkxg: Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence
+# THEORY-049: Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence
 
 ## Source
 
-- Deci, Koestner & Ryan (1999), [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md), read in [NOTE-tmp1ywom](../notes.d/NOTE-tmp1ywom.md): CET's
+- Deci, Koestner & Ryan (1999), [LIT-557](../literature.d/LIT-557.md), read in [NOTE-438](../notes.d/NOTE-438.md): CET's
   predictions (pp. 628–630), the primary meta-analyses, and the supplemental
   analysis of informational versus controlling feedback (pp. 652–653).
-- Ryan & Deci (2000), [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), read in [NOTE-tmpwwoeb](../notes.d/NOTE-tmpwwoeb.md): CET stated
+- Ryan & Deci (2000), [LIT-559](../literature.d/LIT-559.md), read in [NOTE-442](../notes.d/NOTE-442.md): CET stated
   (pp. 70–71).
-- Deci & Ryan (2000), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), read in [NOTE-tmpnji9e](../notes.d/NOTE-tmpnji9e.md): "perceived
+- Deci & Ryan (2000), [LIT-558](../literature.d/LIT-558.md), read in [NOTE-439](../notes.d/NOTE-439.md): "perceived
   competence is necessary for any type of motivation, perceived autonomy is
   required for the motivation to be intrinsic" (p. 234).
 
@@ -61,8 +64,8 @@ summary: >-
 **The pattern fits.** CET predicts that expected rewards contingent on the
 task undermine intrinsic motivation, that unexpected and task-noncontingent
 rewards do not, and that positive feedback enhances it. Deci et al. found
-exactly that across 128 experiments ([LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md), pp. 653–654; see
-[THEORY-tmp4rbva](THEORY-tmp4rbva.md) for the core effect). Their reading: "the pattern of effects
+exactly that across 128 experiments ([LIT-557](../literature.d/LIT-557.md), pp. 653–654; see
+[THEORY-046](THEORY-046.md) for the core effect). Their reading: "the pattern of effects
 in our meta-analyses provided very strong support for CET in that the effects
 were virtually all as predicted" (p. 653).
 
@@ -77,21 +80,21 @@ p. 653).
 
 **Other events.** Threats, deadlines, surveillance, evaluation and imposed
 goals undermine; choice and acknowledgement of feelings enhance
-([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), p. 70; [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 233). Competence feedback enhances only
+([LIT-559](../literature.d/LIT-559.md), p. 70; [LIT-558](../literature.d/LIT-558.md), p. 233). Competence feedback enhances only
 when people feel responsible for their success or it does not "eclipse" their
-autonomy ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 234).
+autonomy ([LIT-558](../literature.d/LIT-558.md), p. 234).
 
 ## What this does not say
 
 - **It does not say mediation is shown.** "Less well researched has been the
   concept of perceived self-determination ... as a mediator of reward effects
   ... a similar analysis has not been done with respect to reward effects"
-  ([LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md), pp. 653–654).
+  ([LIT-557](../literature.d/LIT-557.md), pp. 653–654).
 - **It does not refute the rival account by itself.** The behavioural account
   Deci et al. test (Eisenberger and Cameron's helplessness and learned
   industriousness) fails on their data (pp. 654–655). The later
   social-cognitive and behavioural account of Cameron, Banko and Pierce
-  ([LIT-tmpyhay6](../literature.d/LIT-tmpyhay6.md), unread), which by its abstract has rewards tied to
+  ([LIT-562](../literature.d/LIT-562.md), unread), which by its abstract has rewards tied to
   performance raising intrinsic motivation, is a rival the record cannot yet
   weigh, and is not declared as `rivals` until it is read.
 - **It does not explain the age effects.** Positive feedback did not raise
@@ -99,10 +102,10 @@ autonomy ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 234).
 
 ## Connections
 
-- **[THEORY-tmp4rbva](THEORY-tmp4rbva.md)** is the effect this account explains.
-- **[THEORY-tmpk0q6m](THEORY-tmpk0q6m.md).** The same notion of felt autonomy, applied to
+- **[THEORY-046](THEORY-046.md)** is the effect this account explains.
+- **[THEORY-054](THEORY-054.md).** The same notion of felt autonomy, applied to
   intrinsic motivation, where that account applies it to internalized
   regulation.
 - **Bandura ([LIT-545](../literature.d/LIT-545.md), unread).** Self-efficacy is SDT's perceived competence;
-  CET holds it necessary but not sufficient ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 234). The rival
+  CET holds it necessary but not sufficient ([LIT-558](../literature.d/LIT-558.md), p. 234). The rival
   side explains reward effects through self-efficacy.

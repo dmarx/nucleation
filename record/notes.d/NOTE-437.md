@@ -193,7 +193,7 @@ the argument against the syndrome programme, and the predicted trends.
   maintained by modifiable processes rather than expressing a latent
   disease.
 - **No ML instruction.** Nothing here belongs in the anthology.
-- Its C3, with [LIT-538](../literature.d/LIT-538.md)'s p. 599, is filed as [THEORY-tmphjqbg](../theory.d/THEORY-tmphjqbg.md) (Active).
+- Its C3, with [LIT-538](../literature.d/LIT-538.md)'s p. 599, is filed as [THEORY-053](../theory.d/THEORY-053.md) (Active).
 
 ## Limitations
 

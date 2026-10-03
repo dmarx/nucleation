@@ -1,5 +1,8 @@
 ---
+number: 44
 status: Proposed
+formerly:
+- THEORY-tmp0b06z
 promote_when: >-
   Two separate things would move it, and the account says which half each
   moves. For the learned origin of the perspective: a first-hand reading of
@@ -47,12 +50,12 @@ summary: >-
   perceptions and what Metzinger calls a transparent perspective. It
   differs from the minimal self (Gallagher) on origin: RFT says the
   perspective is learned in language. The evidence for the learned origin
-  is cited, not read, so Proposed. The clinical claim is [THEORY-tmpghm0v](THEORY-tmpghm0v.md).
+  is cited, not read, so Proposed. The clinical claim is [THEORY-051](THEORY-051.md).
 ---
 <!-- inactive-ok-file: LIT-549 LIT-463 LIT-467 LIT-468 — Deferred; the RFT book, Zahavi, Being No One and Schechtman, named as unread works that bear on this, none leaned on -->
-<!-- inactive-ok-file: THEORY-tmpghm0v THEORY-tmpdbe64 THEORY-029 — Proposed; the clinical claim, the inflexibility account and the regress about the agent's standpoint, named as neighbours -->
+<!-- inactive-ok-file: THEORY-051 THEORY-050 THEORY-029 — Proposed; the clinical claim, the inflexibility account and the regress about the agent's standpoint, named as neighbours -->
 
-# THEORY-tmp0b06z: In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content
+# THEORY-044: In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content
 
 ## Source
 
@@ -168,7 +171,7 @@ clearly enough to compare, and its empirical half is unsupported here.
 ## What this does not say
 
 - **It does not say self as context is therapeutic.** That is a separate,
-  empirical claim, [THEORY-tmpghm0v](THEORY-tmpghm0v.md), with its own evidence.
+  empirical claim, [THEORY-051](THEORY-051.md), with its own evidence.
 - **It does not say RFT has shown the perspective is learned.** The
   sources assert it and cite studies the record has not read.
 - **It does not settle personal identity.** The three selves say nothing
@@ -185,7 +188,7 @@ clearly enough to compare, and its empirical half is unsupported here.
 
 ## Connections
 
-- [THEORY-tmpdbe64](THEORY-tmpdbe64.md): fusion with self-content is one form of the
+- [THEORY-050](THEORY-050.md): fusion with self-content is one form of the
   inflexibility that account describes, and its note on literality as
   transparency is the same mapping as here.
 - Zahavi's *Subjectivity and Selfhood* ([LIT-463](../literature.d/LIT-463.md)) and Metzinger's *Being No

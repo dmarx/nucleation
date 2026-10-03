@@ -1,6 +1,9 @@
 ---
+number: 440
 status: Read
-paper: LIT-tmplhywo
+formerly:
+- NOTE-tmpsn285
+paper: LIT-561
 title: 'Basic psychological need theory: Advancements, critical themes, and future directions'
 version: 1
 history:
@@ -27,16 +30,16 @@ summary: >-
   side"). Novelty, morality and beneficence are weighed as fourth needs and
   not yet admitted.
 ---
-<!-- inactive-ok-file: THEORY-tmpdbe64 THEORY-029 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-050 THEORY-029 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
-# NOTE-tmpsn285: Basic psychological need theory: Advancements, critical themes, and future directions
+# NOTE-440: Basic psychological need theory: Advancements, critical themes, and future directions
 
 ## Contribution
 
 An editorial review introducing two special issues of Motivation and
 Emotion (19 papers, Table 1). Its lasting content is the explicit list of
 criteria for a basic need, which turns the functional definition of 2000
-([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)) into tests a candidate can pass or fail, and the
+([LIT-558](../literature.d/LIT-558.md)) into tests a candidate can pass or fail, and the
 reorganization of the theory around need frustration as well as
 satisfaction.
 
@@ -136,9 +139,9 @@ they surface when other needs are frustrated (pp. 5, 7).
 
 ## Connections
 
-- **Deci & Ryan (2000), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)**, which it extends, and Ryan & Deci
-  (2000), [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md).
-- **ACT and psychological flexibility ([LIT-555](../literature.d/LIT-555.md), [LIT-553](../literature.d/LIT-553.md); [THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md)).**
+- **Deci & Ryan (2000), [LIT-558](../literature.d/LIT-558.md)**, which it extends, and Ryan & Deci
+  (2000), [LIT-559](../literature.d/LIT-559.md).
+- **ACT and psychological flexibility ([LIT-555](../literature.d/LIT-555.md), [LIT-553](../literature.d/LIT-553.md); [THEORY-050](../theory.d/THEORY-050.md)).**
   Both programmes now propose a transdiagnostic process: psychological
   inflexibility there, need frustration here. They meet in the same
   phenomena: rigid routines that bring short-lived relief and keep
@@ -159,9 +162,9 @@ they surface when other needs are frustrated (pp. 5, 7).
 
 ## Bearing on the record
 
-- **[THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md) (inflexibility is transdiagnostic).** A rival
+- **[THEORY-050](../theory.d/THEORY-050.md) (inflexibility is transdiagnostic).** A rival
   candidate for the same role. The test that would separate them is the one
-  [THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md)'s promote_when already asks for: which process, measured
+  [THEORY-050](../theory.d/THEORY-050.md)'s promote_when already asks for: which process, measured
   apart from distress, comes first.
 - **[THEORY-029](../theory.d/THEORY-029.md).** Autonomy here is "self-endorsed and authentic" experience
   (p. 3), measured by self-report. The paper does not address whether

@@ -1,6 +1,9 @@
 ---
+number: 442
 status: Read
-paper: LIT-tmpckq0r
+formerly:
+- NOTE-tmpwwoeb
+paper: LIT-559
 title: 'Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being'
 version: 1
 history:
@@ -31,11 +34,11 @@ summary: >-
   distress and psychopathology.
 ---
 <!-- inactive-ok-file: LIT-545 — Deferred: Bandura (1977) is unread; named because this paper names self-efficacy, not leaned on -->
-<!-- inactive-ok-file: LIT-tmpyhay6 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
-<!-- inactive-ok-file: LIT-tmp3x51d — Deferred: Cameron & Pierce (1994) is unread; named as one side of the reward dispute -->
+<!-- inactive-ok-file: LIT-562 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
+<!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; named as one side of the reward dispute -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this reading on them is stated, nothing here rests on them -->
 
-# NOTE-tmpwwoeb: Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+# NOTE-442: Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
 
 ## Contribution
 
@@ -67,7 +70,7 @@ internalization goes depends on whether the context supports autonomy.
 - **Intrinsic motivation applies only to activities that hold intrinsic
   interest.** "For activities that do not hold such appeal, the principles of
   CET do not apply" (p. 71). Cameron, Banko and Pierce's 2001 reply
-  ([LIT-tmpyhay6](../literature.d/LIT-tmpyhay6.md), unread) reports, by its abstract, that rewards enhance free
+  ([LIT-562](../literature.d/LIT-562.md), unread) reports, by its abstract, that rewards enhance free
   choice on low-interest tasks, so the scope condition matters to the
   dispute.
 - **Self-reported reasons measure regulation.** The continuum's evidence is
@@ -85,7 +88,7 @@ The paper reports others' results. Its main claims, with its pages:
   autonomy", an internal perceived locus of causality. Tangible rewards,
   threats, deadlines, directives, pressured evaluations and imposed goals
   undermine it. Choice and acknowledgement of feelings enhance it. The reward
-  meta-analysis of Deci, Koestner and Ryan ([LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md)) is said to have
+  meta-analysis of Deci, Koestner and Ryan ([LIT-557](../literature.d/LIT-557.md)) is said to have
   "confirmed, in spite of claims to the contrary by Eisenberger and Cameron
   (1996), that all expected tangible rewards made contingent on task
   performance do reliably undermine intrinsic motivation" (p. 70).
@@ -158,13 +161,13 @@ The paper reports others' results. Its main claims, with its pages:
 
 ## Connections
 
-- **Deci & Ryan (2000), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md).** The long version of the same theory,
+- **Deci & Ryan (2000), [LIT-558](../literature.d/LIT-558.md).** The long version of the same theory,
   published the same year, with the definition of needs argued against Hull
   and Murray, the self, need thwarting and evolution.
-- **Deci, Koestner & Ryan (1999), [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md).** The meta-analysis this
+- **Deci, Koestner & Ryan (1999), [LIT-557](../literature.d/LIT-557.md).** The meta-analysis this
   paper cites as settling the reward question. The dispute it settles is
   with Eisenberger and Cameron (1996), the reworked form of Cameron and
-  Pierce (1994), [LIT-tmp3x51d](../literature.d/LIT-tmp3x51d.md).
+  Pierce (1994), [LIT-556](../literature.d/LIT-556.md).
 - **Bandura (1977), [LIT-545](../literature.d/LIT-545.md), unread.** The paper names self-efficacy twice:
   autonomous motivation predicts better outcomes even at equal self-efficacy
   (p. 69), and not feeling competent is one source of amotivation (p. 72,
@@ -177,7 +180,7 @@ The paper reports others' results. Its main claims, with its pages:
   ([NOTE-264](NOTE-264.md), §§5–6). SDT's introjection is regulation "within the person"
   that has not become part of "the self", and it is placed by degree on a
   continuum, not by the order of an endorsing attitude. Ryan and Deci draw
-  the comparison themselves in 2006 ([LIT-tmpictnr](../literature.d/LIT-tmpictnr.md)).
+  the comparison themselves in 2006 ([LIT-560](../literature.d/LIT-560.md)).
 
 ## Bearing on the record
 
@@ -187,7 +190,7 @@ The paper reports others' results. Its main claims, with its pages:
   other values and needs" (p. 73), and makes it graded. It says nothing about
   order. It does not escape Velleman's dilemma either: "the self" with which
   a regulation is integrated is specified, in this paper, only through the
-  integrating process. The 2000 target article ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)) supplies the
+  integrating process. The 2000 target article ([LIT-558](../literature.d/LIT-558.md)) supplies the
   organismic account of the self that would have to carry that weight.
 - **A historical condition for [THEORY-040](../theory.d/THEORY-040.md).** SDT makes the social history of
   internalization matter: the same behaviour, internalized under control, is
@@ -217,7 +220,7 @@ The paper reports others' results. Its main claims, with its pages:
 - Is the need for relatedness proximal or distal for intrinsic motivation?
   The paper calls it distal (p. 71) but central for internalization (p. 73).
 - What evidence would show that a need is not basic? The 2020 review
-  ([LIT-tmplhywo](../literature.d/LIT-tmplhywo.md)) states criteria.
+  ([LIT-561](../literature.d/LIT-561.md)) states criteria.
 
 ## Corrections
 

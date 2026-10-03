@@ -1,5 +1,8 @@
 ---
+number: 50
 status: Proposed
+formerly:
+- THEORY-tmpdbe64
 promote_when: >-
   Evidence that inflexibility comes before the problems it is said to
   maintain, measured by something other than a global self-report that
@@ -41,12 +44,12 @@ summary: >-
   ([LIT-543](../literature.d/LIT-543.md)) is unread, so Proposed. It is compatible with the loop account
   of disorder, not a rival to it.
 extended_by:
-- THEORY-tmpghm0v
+- THEORY-051
 ---
 <!-- inactive-ok-file: LIT-543 LIT-551 LIT-549 — Deferred; the 2024 meta-analysis, the 1996 avoidance paper and the RFT book, named as unread sources of the model or tests of it, none leaned on -->
-<!-- inactive-ok-file: THEORY-tmpybbhj THEORY-tmpbzmql THEORY-tmp0b06z — Proposed; the loop account, the implementation account and the account of the self, named as neighbours -->
+<!-- inactive-ok-file: THEORY-058 THEORY-048 THEORY-044 — Proposed; the loop account, the implementation account and the account of the self, named as neighbours -->
 
-# THEORY-tmpdbe64: Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology
+# THEORY-050: Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology
 
 ## Source
 
@@ -101,7 +104,7 @@ nothing.
 - **Mediation.** Seven studies, mostly self-report, report the targeted
   processes as mediators of ACT's effects. The authors note that the
   mediators were often measured after outcomes had begun to improve (C5).
-  By the standard of [THEORY-tmphjqbg](THEORY-tmphjqbg.md), that is the right kind of evidence
+  By the standard of [THEORY-053](THEORY-053.md), that is the right kind of evidence
   with the order not established.
 - **Mechanism.** The RFT mechanism rests on laboratory transformation-of-
   function studies the record has not read. The 2004 paper labels its
@@ -121,7 +124,7 @@ situations (C6). Both are reasons for Proposed.
   in which they do ([LIT-555](../literature.d/LIT-555.md), p. 5). This is a third position beside the
   record's mental-causation holdings. Pernu ([LIT-147](../literature.d/LIT-147.md)) asks whether
   intentions cause behaviour as mental or as neural. Kendler
-  ([THEORY-tmpbzmql](THEORY-tmpbzmql.md)) keeps psychological functions in the explanation.
+  ([THEORY-048](THEORY-048.md)) keeps psychological functions in the explanation.
   ACT relocates the cause to the person's history and context, which
   decide whether a thought's content governs action at all. What the
   record does not hold is any comparison of the three.
@@ -140,12 +143,12 @@ situations (C6). Both are reasons for Proposed.
   functions transparently, and defusion ("I am having the thought that I am
   no good") makes it opaque. Neither source cites the other, and the
   identification is the record's. It is developed for the self in
-  [THEORY-tmp0b06z](THEORY-tmp0b06z.md).
+  [THEORY-044](THEORY-044.md).
 
 ## What this does not say
 
 - **Not that inflexibility is the only process, or a latent cause.** It is
-  compatible with [THEORY-tmpybbhj](THEORY-tmpybbhj.md). Avoidance that makes the avoided event
+  compatible with [THEORY-058](THEORY-058.md). Avoidance that makes the avoided event
   more salient is a self-reinforcing loop, and on Borsboom's terms it would
   be a constituent of many symptom connections, not a disease behind them.
   The two conflict only if inflexibility is read as a cause that sustains

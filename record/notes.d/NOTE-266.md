@@ -39,7 +39,7 @@ summary: >-
   gets one sentence (plans partly constitute identity, *Structures of
   Agency* 2007, p. 5).
 ---
-<!-- inactive-ok-file: THEORY-tmpai2jq THEORY-tmpk0q6m — Proposed; the SDT accounts named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-047 THEORY-054 — Proposed; the SDT accounts named in Connections, nothing here rests on them -->
 
 # NOTE-266: Autonomy
 
@@ -164,7 +164,7 @@ Section numbers are the entry's; page numbers are the entry's citations to *The 
   - *Frankfurt's Tanner Lectures.* His own late statement of wholeheartedness and satisfaction.
 - **Adaptive preferences ([LIT-202](../literature.d/LIT-202.md)).** Pettigrew's mechanism-based criterion for when shaped preferences ground consent is a descendant of the historical (Christman) line against manipulation reported in §2.a.ii. The article's §4.b on informed consent in bioethics is the applied setting [LIT-202](../literature.d/LIT-202.md) addresses.
 - **Capability approach ([LIT-289](../literature.d/LIT-289.md), [LIT-283](../literature.d/LIT-283.md)).** §4.a links political autonomy to Sen's and Nussbaum's capabilities in one sentence (Sen 1999, Nussbaum 2006). The link is asserted, not developed.
-- **Self-determination theory ([LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)).** In this entry's classes, SDT's autonomy is coherentist in its 2006 criterion (reflective endorsement "by the whole self", [LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), p. 1560), historical through internalization (a value taken in under control is introjected, under autonomy support integrated; [THEORY-tmpai2jq](../theory.d/THEORY-tmpai2jq.md)), and substantive, since some values are said to be "not integrateable" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 246). It takes the side of the fourth objection reported here, against the priority of higher orders (Friedman's integration model): SDT places autonomy in integration, graded, not in the order of an endorsing attitude ([THEORY-tmpk0q6m](../theory.d/THEORY-tmpk0q6m.md)).
+- **Self-determination theory ([LIT-560](../literature.d/LIT-560.md), [LIT-558](../literature.d/LIT-558.md)).** In this entry's classes, SDT's autonomy is coherentist in its 2006 criterion (reflective endorsement "by the whole self", [LIT-560](../literature.d/LIT-560.md), p. 1560), historical through internalization (a value taken in under control is introjected, under autonomy support integrated; [THEORY-047](../theory.d/THEORY-047.md)), and substantive, since some values are said to be "not integrateable" ([LIT-558](../literature.d/LIT-558.md), p. 246). It takes the side of the fourth objection reported here, against the priority of higher orders (Friedman's integration model): SDT places autonomy in integration, graded, not in the order of an endorsing attitude ([THEORY-054](../theory.d/THEORY-054.md)).
 - **Anthology of the SOTA.** No ANTH document mentions autonomy, Frankfurt or free will.
 
 ## Bearing on the record

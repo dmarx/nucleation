@@ -1,6 +1,9 @@
 ---
+number: 438
 status: Read
-paper: LIT-tmp58ot3
+formerly:
+- NOTE-tmp1ywom
+paper: LIT-557
 title: 'A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation'
 version: 1
 history:
@@ -27,10 +30,10 @@ summary: >-
   cognitive evaluation theory and contradicts Eisenberger and Cameron's
   helplessness and learned-industriousness account.
 ---
-<!-- inactive-ok-file: LIT-tmpyhay6 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
-<!-- inactive-ok-file: LIT-tmp3x51d — Deferred: Cameron & Pierce (1994) is unread; its results are reported as this paper states them -->
+<!-- inactive-ok-file: LIT-562 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
+<!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; its results are reported as this paper states them -->
 
-# NOTE-tmp1ywom: A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation
+# NOTE-438: A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation
 
 ## Contribution
 
@@ -60,7 +63,7 @@ designed to find the moderators that a meta-analysis then averages over
   rated interest, or defined as uninteresting, are excluded from the primary
   analyses (p. 635). For dull tasks "the critical theoretical issue is how to
   facilitate internalization" (p. 635). Cameron and Pierce collapsed
-  interesting and dull tasks (p. 651), and their 2001 reply ([LIT-tmpyhay6](../literature.d/LIT-tmpyhay6.md),
+  interesting and dull tasks (p. 651), and their 2001 reply ([LIT-562](../literature.d/LIT-562.md),
   unread; by its abstract) reports reward effects on low-interest tasks as
   well, so the scope is part of the dispute.
 - **Measures after the reward stops.** Intrinsic motivation is free-choice
@@ -147,18 +150,18 @@ designed to find the moderators that a meta-analysis then averages over
 
 - **The earlier meta-analyses (pp. 631–634).** Rummel and Feinberg (1988),
   Wiersma (1992) and Tang and Hall (1995) found undermining; Cameron and
-  Pierce (1994, [LIT-tmp3x51d](../literature.d/LIT-tmp3x51d.md)) and Eisenberger and Cameron (1996) did not, and
+  Pierce (1994, [LIT-556](../literature.d/LIT-556.md)) and Eisenberger and Cameron (1996) did not, and
   called for "abandoning cognitive evaluation theory" (p. 632, quoting
   Cameron & Pierce p. 396). The paper treats the last two as "essentially the
   same meta-analysis" reported in pieces (p. 632).
-- **Cameron, Banko & Pierce (2001), [LIT-tmpyhay6](../literature.d/LIT-tmpyhay6.md), Deferred.** The reply,
+- **Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), Deferred.** The reply,
   known here only from its abstract: negative effects only for tangible,
   expected rewards "loosely tied to level of performance", on high-interest
   tasks, and no pervasive harm.
-- **SDT summaries ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), [LIT-tmpictnr](../literature.d/LIT-tmpictnr.md))** cite this paper
+- **SDT summaries ([LIT-559](../literature.d/LIT-559.md), [LIT-558](../literature.d/LIT-558.md), [LIT-560](../literature.d/LIT-560.md))** cite this paper
   as having settled the matter. The 2006 paper says the earlier analysis was
   wrong by errors "numerous enough to generate the 'null' results"
-  ([LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), p. 1568). This paper's own claim is more measured: it
+  ([LIT-560](../literature.d/LIT-560.md), p. 1568). This paper's own claim is more measured: it
   explains the discrepancy by several factors and finds that one of them,
   the dull tasks, accounts for little of it (p. 652).
 
@@ -182,7 +185,7 @@ designed to find the moderators that a meta-analysis then averages over
   The performance-contingent category mixes per-unit pay, rewards for "doing
   well" and rewards for beating a norm (Appendix A). If those behave
   differently, as the 2001 abstract implies for rewards "linked to level of
-  performance" ([LIT-tmpyhay6](../literature.d/LIT-tmpyhay6.md), unread), the category hides it.
+  performance" ([LIT-562](../literature.d/LIT-562.md), unread), the category hides it.
 - **Most effects are small.** Self-report effects of tangible rewards are
   around −0.07 to −0.17.
 - **The age finding is post hoc.** "This set of findings has never been

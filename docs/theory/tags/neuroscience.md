@@ -6,8 +6,8 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-0 of 43 THEORY documents. Back to the [full index](../README.md).
+1 of 58 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-045](../../../record/theory.d/THEORY-045.md) | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled | Barrett (2017), [LIT-542](../../../record/literature.d/LIT-542.md), and Damasio & Carvalho (2013), [LIT-388](../../../record/literature.d/LIT-388.md), are two independent accounts that agree on a base layer. What is felt as affect (valence and arousal for Barrett, feeling for Damasio) is the body's regulatory state. Its valence is that state's value for the organism, and it is present in hunger, pain and well-being as much as in emotion. They disagree about what the experience is of. For Barrett it is the brain's allostatic prediction of the body, issued from agranular limbic cortex. For Damasio it is a topographic map of the body's state, built in the upper brainstem, and their paper makes no use of prediction. Seth ([LIT-135](../../../record/literature.d/LIT-135.md)) builds on the same base but makes his claim about consciousness, not about affect. Friston ([LIT-526](../../../record/literature.d/LIT-526.md)) supports neither. Proposed: both sources are theoretical syntheses, and neither tests the claim. | Proposed |

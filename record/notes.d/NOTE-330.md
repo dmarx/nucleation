@@ -30,7 +30,7 @@ summary: >-
   and ion-permeable interoceptive axons, with ephaptic coupling, as the
   root of sentience) are hypotheses, and are presented as such.
 ---
-<!-- inactive-ok-file: THEORY-tmp2gk4g LIT-193 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-045 LIT-193 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 # NOTE-330: Damasio & Carvalho — The nature of feelings
 
@@ -176,7 +176,7 @@ The paper reports no data of its own. What it argues from:
 
 ## Bearing on the record
 
-- **With [LIT-542](../literature.d/LIT-542.md) it sources [THEORY-tmp2gk4g](../theory.d/THEORY-tmp2gk4g.md)**, which records where the two
+- **With [LIT-542](../literature.d/LIT-542.md) it sources [THEORY-045](../theory.d/THEORY-045.md)**, which records where the two
   accounts agree (feeling is the experienced regulatory state of the body)
   and where they disagree (map or prediction; brainstem or agranular
   cortex). The narrower candidate, "feeling does not need the insula; the

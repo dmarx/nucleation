@@ -1,11 +1,14 @@
 ---
+number: 55
 status: Proposed
+formerly:
+- THEORY-tmplvap0
 promote_when: >-
   A result that only the order of explanation can account for. For the
   account: a mode of action readiness that is present across the
   instances of an emotion category in varied contexts and absent from
   other categories' instances, which is the variable whose discovery the
-  rival account (THEORY-tmpx3ps2) counts as fatal. Or: holding the event
+  rival account (THEORY-057) counts as fatal. Or: holding the event
   fixed and changing only its pertinence to the person's concerns
   switches the emotion on or off, or changes which one it is. Against the
   account: instances that people and observers place in one category
@@ -27,7 +30,7 @@ date: '2026-10-03'
 source:
 - LIT-540
 rivals:
-- THEORY-tmpx3ps2
+- THEORY-057
 summary: >-
   Frijda, Ridderinkhof & Rietveld (2014), [LIT-540](../literature.d/LIT-540.md), Frijda's own late
   statement of the theory of The Emotions ([LIT-546](../literature.d/LIT-546.md), unread). An automatic
@@ -39,15 +42,15 @@ summary: >-
   because Lazarus ([LIT-550](../literature.d/LIT-550.md)) is unread. Both the elicitation claim and the
   claim that emotions differ by mode are argued, and neither is tested.
   The second is partly definitional within the theory. Rivals
-  [THEORY-tmpx3ps2](THEORY-tmpx3ps2.md): both accounts let instances vary and group them by
+  [THEORY-057](THEORY-057.md): both accounts let instances vary and group them by
   function, but the appraisal account puts the unity in the agent's
   readiness and the constructionist account puts it in the perceiver's
   concept. Proposed.
 ---
 <!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; named as the fuller statements of appraisal theory that this account cannot lean on -->
-<!-- inactive-ok-file: THEORY-tmpx3ps2 THEORY-tmp2gk4g THEORY-tmppzrsd — Proposed; the rival and the neighbours, stated as such -->
+<!-- inactive-ok-file: THEORY-057 THEORY-045 THEORY-056 — Proposed; the rival and the neighbours, stated as such -->
 
-# THEORY-tmplvap0: An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
+# THEORY-055: An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
 
 ## Source
 
@@ -94,7 +97,7 @@ held. It is not evidence that the account is true.
 
 Barrett ([LIT-542](../literature.d/LIT-542.md)) names causal appraisal theories "highly doubtful",
 because "meaning does not trigger action, but results from it". The rival
-is [THEORY-tmpx3ps2](THEORY-tmpx3ps2.md). Neither paper cites the other, so the record holds the
+is [THEORY-057](THEORY-057.md). Neither paper cites the other, so the record holds the
 relation as `rivals` ([ADR-022](../decisions.d/ADR-022.md)). They are closer than the labels suggest:
 
 - **Both are predictive.** Frijda: "A motive itself can be conceived of as
@@ -146,11 +149,11 @@ well as substance.
   readiness, so Barrett's Table 1 evidence against neural essences does
   not reach it directly.
 - **It does not cover feeling.** The paper leaves out emotional experience
-  (Limitations in [NOTE-433](../notes.d/NOTE-433.md)). The felt layer is [THEORY-tmp2gk4g](THEORY-tmp2gk4g.md), which is
+  (Limitations in [NOTE-433](../notes.d/NOTE-433.md)). The felt layer is [THEORY-045](THEORY-045.md), which is
   compatible with this account.
 - **It does not include the paper's claim about regulation**, which is
   that much regulation is one state of readiness checking another. That
-  claim is [THEORY-tmppzrsd](THEORY-tmppzrsd.md), and the constructionist side holds it too, so
+  claim is [THEORY-056](THEORY-056.md), and the constructionist side holds it too, so
   it does not depend on this account winning.
 - **Lazarus's version is not held.** Concern pertinence here is Frijda's
   term. Whether Lazarus's relational themes are the same account is not

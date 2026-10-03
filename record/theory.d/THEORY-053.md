@@ -1,5 +1,8 @@
 ---
+number: 53
 status: Active
+formerly:
+- THEORY-tmphjqbg
 title: 'A treatment''s efficacy is not evidence for its theory of change: only change in the theorised process that is specific and comes before the outcome bears on it, and moving the process without moving the outcome counts against the theory'
 version: 1
 tags:
@@ -23,9 +26,9 @@ summary: >-
   sources deny that.
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis of ACT's processes as mediators, named as the test this account calls for, not leaned on -->
-<!-- inactive-ok-file: THEORY-023 THEORY-tmpybbhj THEORY-tmpdbe64 THEORY-tmpbzmql — Proposed; a parallel case of evidence that cannot discriminate, and the batch's theories of change and of explanation, named as the accounts this standard applies to -->
+<!-- inactive-ok-file: THEORY-023 THEORY-058 THEORY-050 THEORY-048 — Proposed; a parallel case of evidence that cannot discriminate, and the batch's theories of change and of explanation, named as the accounts this standard applies to -->
 
-# THEORY-tmphjqbg: A treatment's efficacy is not evidence for its theory of change: only change in the theorised process that is specific and comes before the outcome bears on it, and moving the process without moving the outcome counts against the theory
+# THEORY-053: A treatment's efficacy is not evidence for its theory of change: only change in the theorised process that is specific and comes before the outcome bears on it, and moving the process without moving the outcome counts against the theory
 
 ## Source
 
@@ -103,7 +106,7 @@ why the account is Active.
   record holds no philosophy-of-science reading on confirmation that
   states it, so it is made here without a source.
 - **It takes no side on which theory of change is right.** That is
-  [THEORY-tmpybbhj](THEORY-tmpybbhj.md)'s and [THEORY-tmpdbe64](THEORY-tmpdbe64.md)'s business, and each is Proposed
+  [THEORY-058](THEORY-058.md)'s and [THEORY-050](THEORY-050.md)'s business, and each is Proposed
   because its own mediation evidence is not yet in.
 
 ## How it bears on causation and mind
@@ -121,7 +124,7 @@ why the account is Active.
   names a psychological process (a belief, a meaning, a way of relating to
   thoughts) as what produces change. This account says how such a claim is
   tested. It does not decide whether such processes are causes in their
-  own right or by identity with their realisers ([THEORY-tmpbzmql](THEORY-tmpbzmql.md)).
+  own right or by identity with their realisers ([THEORY-048](THEORY-048.md)).
 - **A parallel elsewhere in the record.** [THEORY-023](THEORY-023.md) finds that behavioural
   evidence cannot settle AI consciousness because every rival theory
   predicts the behaviour. The structure is the same: evidence every

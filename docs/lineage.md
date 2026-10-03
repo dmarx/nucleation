@@ -2,7 +2,7 @@
 
 # Lines of work
 
-14 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+17 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -12,6 +12,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
+
+### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+- [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
+  - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
+
+### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+
+- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
+  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
 
 ## anthology-candidate
 
@@ -172,6 +182,24 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-499](../record/literature.d/LIT-499.md) — Moral Foundations Theory: The Pragmatic Validity of Moral Pluralism *(Active)*
     - [LIT-500](../record/literature.d/LIT-500.md) — Morality beyond the WEIRD: How the nomological network of morality varies across cultures *(Active)*
 
+## motivation
+
+### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
+
+- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
+- alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
+- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Deferred)*
+
+### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+- [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
+  - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
+
+### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+
+- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
+  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+
 ## philosophy-of-language
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
@@ -212,6 +240,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also extends LIT-551
 - [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
 
+### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+- [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
+  - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
+
 ## quantum-foundations
 
 ### From The sheaf-theoretic structure of non-locality and contextuality
@@ -235,6 +268,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
 
+## self-and-personhood
+
+### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+
+- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
+  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+
 ## social-science
 
 ### From Equality of What?
@@ -255,6 +295,22 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
   - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also extends LIT-551
 - [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
+
+### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
+
+- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
+- alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
+- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Deferred)*
+
+### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+- [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
+  - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
+
+### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+
+- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
+  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
 
 ## society-and-governance
 

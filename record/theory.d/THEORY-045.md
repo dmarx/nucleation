@@ -1,5 +1,8 @@
 ---
+number: 45
 status: Proposed
+formerly:
+- THEORY-tmp2gk4g
 promote_when: >-
   Two kinds of result, one for the shared claim and one for the open
   question inside it. The shared claim is confirmed by manipulations of
@@ -46,9 +49,9 @@ summary: >-
   claim.
 ---
 <!-- inactive-ok-file: LIT-386 LIT-387 — Deferred; named as the unread works that would extend this account to consciousness and to machines, not leaned on -->
-<!-- inactive-ok-file: THEORY-023 THEORY-tmpx3ps2 THEORY-tmplvap0 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-023 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
 
-# THEORY-tmp2gk4g: Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
+# THEORY-045: Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
 
 ## Source
 
@@ -93,7 +96,7 @@ independent lines agree.
   Barrett, an emotion is a categorization of affect and of exteroceptive
   sensation by an emotion concept. This account is about the felt layer
   only, and so it takes no side in the rivalry over what an emotion is
-  ([THEORY-tmpx3ps2](THEORY-tmpx3ps2.md) against [THEORY-tmplvap0](THEORY-tmplvap0.md)). Frijda's action readiness
+  ([THEORY-057](THEORY-057.md) against [THEORY-055](THEORY-055.md)). Frijda's action readiness
   ([LIT-540](../literature.d/LIT-540.md)) is compatible with it as well.
 
 **What they disagree on.**

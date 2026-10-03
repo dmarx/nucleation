@@ -1,8 +1,11 @@
 ---
+number: 46
 status: Proposed
+formerly:
+- THEORY-tmp4rbva
 promote_when: >-
-  A reading of the other side. Cameron and Pierce (1994, LIT-tmp3x51d) and
-  their 2001 reply (LIT-tmpyhay6) are both unread, so the record holds
+  A reading of the other side. Cameron and Pierce (1994, LIT-556) and
+  their 2001 reply (LIT-562) are both unread, so the record holds
   this effect from one meta-analysis and its account of its rival. The
   account becomes Active if a first-hand reading of the reply (free in
   PubMed Central, PMC2731358) finds the same direction for expected
@@ -22,9 +25,9 @@ tags:
 - social-science
 date: '2026-10-03'
 source:
-- LIT-tmp58ot3
+- LIT-557
 summary: >-
-  Deci, Koestner and Ryan (1999, [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md)): across 55 experiments,
+  Deci, Koestner and Ryan (1999, [LIT-557](../literature.d/LIT-557.md)): across 55 experiments,
   expected tangible rewards given for working on an interesting task
   lowered free-choice engagement after the reward stopped (d = −0.40;
   children −0.43, college students −0.21), and lowered self-reported
@@ -33,14 +36,14 @@ summary: >-
   (performance-independent rewards, −0.29), while disputing nearly
   everything else. Proposed because the rival side is unread here.
 ---
-<!-- inactive-ok-file: LIT-tmp3x51d LIT-tmpyhay6 — Deferred: the rival meta-analysis and its reply are unread; named as the side that would settle this, not leaned on -->
-<!-- inactive-ok-file: LIT-545 THEORY-tmpchkxg — Deferred or Proposed; named as neighbours, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-556 LIT-562 — Deferred: the rival meta-analysis and its reply are unread; named as the side that would settle this, not leaned on -->
+<!-- inactive-ok-file: LIT-545 THEORY-049 — Deferred or Proposed; named as neighbours, nothing here rests on them -->
 
-# THEORY-tmp4rbva: Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it
+# THEORY-046: Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it
 
 ## Source
 
-- Deci, Koestner & Ryan (1999), [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md), read in [NOTE-tmp1ywom](../notes.d/NOTE-tmp1ywom.md) (from an
+- Deci, Koestner & Ryan (1999), [LIT-557](../literature.d/LIT-557.md), read in [NOTE-438](../notes.d/NOTE-438.md) (from an
   OCR of the authors' deposit): the engagement-contingent analysis (p. 641),
   the timing analysis (p. 650), the interesting-versus-dull analysis (p. 651),
   and Appendix A's comparison with Cameron and Pierce.
@@ -61,7 +64,7 @@ children, it was present immediately (−0.40) and after more than a week
 (−0.53) (p. 650).
 
 **The dispute, as Deci et al. report it.** Cameron and Pierce (1994,
-[LIT-tmp3x51d](../literature.d/LIT-tmp3x51d.md)) concluded that rewards do not, overall, harm intrinsic
+[LIT-556](../literature.d/LIT-556.md)) concluded that rewards do not, overall, harm intrinsic
 motivation. But by Deci et al.'s account they too found significant
 undermining of free choice by task-contingent rewards (−0.23 after outliers,
 p. 649), and Eisenberger and Cameron's performance-independent category,
@@ -70,7 +73,7 @@ nearly so, gave −0.29 on free choice (p. 641). The rival account even
 predicted this case (helplessness from rewards that do not depend on
 performance, p. 630). The disagreement in Appendix A is over coding, control
 groups, dull tasks and the other contingencies. The 2001 reply's abstract
-([LIT-tmpyhay6](../literature.d/LIT-tmpyhay6.md), unread) likewise keeps negative effects for tangible, expected
+([LIT-562](../literature.d/LIT-562.md), unread) likewise keeps negative effects for tangible, expected
 rewards "loosely tied to level of performance".
 
 ## What this does not say
@@ -78,7 +81,7 @@ rewards "loosely tied to level of performance".
 - **It does not say rewards in general undermine intrinsic motivation**, nor
   that rewards tied to performance standards do. Those are disputed.
 - **It does not say why.** Cognitive evaluation theory reads the effect as
-  felt control ([THEORY-tmpchkxg](THEORY-tmpchkxg.md)); the rival behavioural account offered
+  felt control ([THEORY-049](THEORY-049.md)); the rival behavioural account offered
   learned helplessness. This account is the effect only.
 - **It does not say the effect is large or lasting in adults.** Delayed
   measures exist only for children, and repeated-reward studies with
@@ -88,6 +91,6 @@ rewards "loosely tied to level of performance".
 
 ## Connections
 
-- **[THEORY-tmpchkxg](THEORY-tmpchkxg.md)** is the explanation SDT gives for this effect.
+- **[THEORY-049](THEORY-049.md)** is the explanation SDT gives for this effect.
 - **Bandura ([LIT-545](../literature.d/LIT-545.md), unread)** and the social-cognitive account are named by
   the rival side; the record cannot weigh them.

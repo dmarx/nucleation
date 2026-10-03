@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-22 of 22 decisions. Back to the [full index](../README.md).
+23 of 23 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -30,3 +30,4 @@
 | [ADR-020](../../../record/decisions.d/ADR-020.md) | thermodynamics joins the topics | `thermodynamics` joins the topic vocabulary, beside `natural-sciences`, for the second law and its extensions read for themselves: entropy production, nonequilibrium steady states, dissipative structures, fluctuation theorems, and the thermodynamics of computation and of life. All three agents filing the dissipative-structures batch proposed it independently. Twenty-seven works and two THEORYs take it. Rejected: leaving the subject under `natural-sciences`, and a narrower word for nonequilibrium thermodynamics alone. | Active |
 | [ADR-021](../../../record/decisions.d/ADR-021.md) | psychopathology-and-treatment joins the topics | `psychopathology-and-treatment` joins the topic vocabulary for what a mental disorder is and how psychological treatment changes it: medical models of illness, the philosophy of psychiatry, transdiagnostic accounts such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change. The owner's batch of fifteen works had no word to file under. Fifteen notes take it. Rejected: leaving it to `social-science` and `natural-sciences`, and two narrower words for psychiatry and for psychotherapy. | Active |
 | [ADR-022](../../../record/decisions.d/ADR-022.md) | rivals joins the LIT and THEORY relations | A symmetric `rivals` relation joins both the LIT and the THEORY scheme: two accounts of the same phenomenon that cannot both be right, where neither has tested or corrected the other. It is the anthology's relation, carried over unchanged in meaning. First use: Barrett's constructed emotion against appraisal theory. Rejected: holding rivalries in prose only, and stretching `compared_against` or `corrects` to cover them. | Active |
+| [ADR-023](../../../record/decisions.d/ADR-023.md) | motivation joins the topics | `motivation` joins the topic vocabulary for why organisms act and persist: intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and autonomous against controlled motives. It is the empirical counterpart of the philosophy of autonomy held under `agency`. Self-determination theory was the occasion. Rejected: filing it under `agency` and `social-science` alone. | Active |

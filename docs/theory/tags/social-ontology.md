@@ -6,8 +6,8 @@
 
 **Social ontology** — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
 
-0 of 43 THEORY documents. Back to the [full index](../README.md).
+1 of 58 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-057](../../../record/theory.d/THEORY-057.md) | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism | Barrett (2017), [LIT-542](../../../record/literature.d/LIT-542.md): degeneracy, population thinking, and a table of findings in which no region, network, pattern or neuron is consistent for an emotion category. From these she concludes that categories such as fear are populations of variable instances, grouped by a goal and constructed by categorization with a concept. She rejects basic-emotion and causal appraisal theories as positing a "Lockean essence". This is the record's only read statement of the view. The record's philosophy holdings sharpen it. Pernu ([LIT-147](../../../record/literature.d/LIT-147.md)) shows that many-to-one realisation at a fine grain does not rule out one variable at a coarser grain, so degeneracy alone does not carry the conclusion, and Table 1 has to. Searle ([LIT-482](../../../record/literature.d/LIT-482.md)) shows that Barrett's comparison with money is to observer-relative function, not to institutions. Rivals the appraisal account, [THEORY-055](../../../record/theory.d/THEORY-055.md). Proposed: one theoretical paper, no independent test, and the reply unread. | Proposed |

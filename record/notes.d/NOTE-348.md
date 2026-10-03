@@ -36,7 +36,7 @@ summary: >-
   body is a resource the brain exploits, not what an emotion is made of;
   on Elliot it proposes, without evidence, the reverse causal direction.
 ---
-<!-- inactive-ok-file: THEORY-tmp2gk4g THEORY-tmppzrsd — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-045 THEORY-056 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
 <!-- inactive-ok-file: LIT-318 — Deferred; named as a neighbour, not leaned on -->
 <!-- inactive-ok-file: LIT-385 — Deferred; Damasio's retroactivation proposal, named as a parallel the reader drew, not leaned on -->
@@ -303,9 +303,9 @@ The draft proves nothing; these are its main proposals, by chapter.
   ref. 22 as Minsky, *The emotion machine*, 2007, 400 pp., the paperback.
   So [NOTE-136](NOTE-136.md) already names this work, and the draft confirms the term
   (§§1-1, 4-2.1).
-- [THEORY-tmp2gk4g](../theory.d/THEORY-tmp2gk4g.md), on felt affect as the body's regulatory state, names
+- [THEORY-045](../theory.d/THEORY-045.md), on felt affect as the body's regulatory state, names
   this reading's account of feelings (states of the brain, not of the
-  body) as its dissent, and [THEORY-tmppzrsd](../theory.d/THEORY-tmppzrsd.md) cites its emotions switching
+  body) as its dissent, and [THEORY-056](../theory.d/THEORY-056.md) cites its emotions switching
   one another off as a design-level neighbour. The Elliot case and the
   gambling-task timing remain the test between the two views.
 - **Boundary.** The draft carries no instruction for machine-learning

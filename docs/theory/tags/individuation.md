@@ -6,7 +6,7 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind; the self and the person are self-and-personhood (group: philosophy; ADR-015).
 
-2 of 43 THEORY documents. Back to the [full index](../README.md).
+2 of 58 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -1,5 +1,8 @@
 ---
+number: 48
 status: Proposed
+formerly:
+- THEORY-tmpbzmql
 promote_when: >-
   Cases from psychiatry, not from perception or memory, in which a
   biological finding about a disorder became explanatory by being shown to
@@ -39,9 +42,9 @@ summary: >-
   argued the mind–brain propositions this paper develops, is unread.
 ---
 <!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, named as the paper Kendler 2008 develops, not leaned on -->
-<!-- inactive-ok-file: THEORY-043 THEORY-036 THEORY-tmpybbhj — Proposed; named as neighbouring accounts, no relation declared -->
+<!-- inactive-ok-file: THEORY-043 THEORY-036 THEORY-058 — Proposed; named as neighbouring accounts, no relation declared -->
 
-# THEORY-tmpbzmql: In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them
+# THEORY-048: In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them
 
 ## Source
 
@@ -144,7 +147,7 @@ is asserted.
 
 ## Connections
 
-- [THEORY-tmpybbhj](THEORY-tmpybbhj.md), on self-reinforcing loops, takes Kendler's cross-level
+- [THEORY-058](THEORY-058.md), on self-reinforcing loops, takes Kendler's cross-level
   loops as one of its three sources.
 - Dennett's real patterns ([LIT-220](../literature.d/LIT-220.md)) and [THEORY-036](THEORY-036.md) bear on whether a
   psychological description that implementation keeps is a real pattern.

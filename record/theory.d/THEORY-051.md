@@ -1,12 +1,15 @@
 ---
+number: 51
 status: Proposed
+formerly:
+- THEORY-tmpghm0v
 promote_when: >-
   A study that changes the self as context on its own and shows the change
   doing the work: perspective-taking or observer exercises given apart from
   acceptance and defusion training, a measure of the self as context that
   separates empirically from measures of defusion and acceptance, and
   change in that measure that comes before and predicts change in outcome
-  (the standard of THEORY-tmphjqbg). A first-hand reading of Macri and
+  (the standard of THEORY-053). A first-hand reading of Macri and
   Rogge's 2024 meta-analysis (LIT-543), if it reports the self-as-context
   domain separately as a mediator, could move it either way. It is refuted
   if the self-as-context measure does not separate from the other
@@ -24,7 +27,7 @@ source:
 - LIT-555
 - LIT-541
 extends:
-- THEORY-tmpdbe64
+- THEORY-050
 summary: >-
   ACT names the self as context as one of its six processes: from it "one
   can be aware of ones own flow of experiences without attachment to them",
@@ -34,12 +37,12 @@ summary: >-
   et al., [LIT-541](../literature.d/LIT-541.md)), labelled "no more than a heuristic". No study in the
   record tests the self as context as a process. Its only support is
   borrowed from small defusion studies under RFT's reading, so Proposed on
-  weak grounds. The conceptual account of the self is [THEORY-tmp0b06z](THEORY-tmp0b06z.md).
+  weak grounds. The conceptual account of the self is [THEORY-044](THEORY-044.md).
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpdbe64 THEORY-tmp0b06z — Proposed; the model this extends and the conceptual account of the self -->
+<!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this extends and the conceptual account of the self -->
 
-# THEORY-tmpghm0v: Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering
+# THEORY-051: Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering
 
 ## Source
 
@@ -51,14 +54,14 @@ summary: >-
 
 ## The claim, and how it differs from the conceptual one
 
-[THEORY-tmp0b06z](THEORY-tmp0b06z.md) states what RFT says the self as context is: a perspective
+[THEORY-044](THEORY-044.md) states what RFT says the self as context is: a perspective
 learned from deictic relations, which cannot itself be found as content.
 This account is the separate, empirical claim that making that perspective
 stronger helps. The two can come apart. RFT's account of the self could be
 right and the process clinically idle, or the exercises could help for a
 reason that has nothing to do with deictic relations.
 
-It extends [THEORY-tmpdbe64](THEORY-tmpdbe64.md). That account says inflexibility, including
+It extends [THEORY-050](THEORY-050.md). That account says inflexibility, including
 domination by a "conceptualized self", maintains psychopathology across
 diagnoses. This one names the process ACT says works on that part of it.
 
@@ -103,7 +106,7 @@ is borrowed.
 ## What this does not say
 
 - **Not that the self as context is a self.** On the conceptual account it
-  is a perspective, not an entity ([THEORY-tmp0b06z](THEORY-tmp0b06z.md)).
+  is a perspective, not an entity ([THEORY-044](THEORY-044.md)).
 - **Not that weakening identification with self-content is always good.**
   Hofmann and Hayes ([LIT-544](../literature.d/LIT-544.md)) warn that "few processes are always positive
   regardless of context". The meditation study of Lindahl et al. ([LIT-066](../literature.d/LIT-066.md))

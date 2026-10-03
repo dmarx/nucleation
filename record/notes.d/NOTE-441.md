@@ -1,6 +1,9 @@
 ---
+number: 441
 status: Read
-paper: LIT-tmpictnr
+formerly:
+- NOTE-tmpvdmv2
+paper: LIT-560
 title: 'Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will?'
 version: 1
 history:
@@ -29,7 +32,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-545 — Deferred: Bandura (1977) is unread; this paper argues with Bandura (1989), named here, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
-# NOTE-tmpvdmv2: Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will?
+# NOTE-441: Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will?
 
 ## Contribution
 
@@ -102,7 +105,7 @@ What the paper argues, in its order.
 - **Behaviourism (pp. 1567–1569).** Skinner's "If we do not know why a person
   acts as he does, we attribute his behavior to him" (p. 1567, quoting Skinner
   1971 p. 53). Eisenberger and Cameron's (1996) analysis, reanalysed by Deci
-  et al. (1999, [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md)), was "plagued by miscalculations, incorrect
+  et al. (1999, [LIT-557](../literature.d/LIT-557.md)), was "plagued by miscalculations, incorrect
   recording of effect sizes, misclassifications, use of the wrong control
   groups, and other errors" (p. 1568). SDT "has never disputed the power of
   reinforcement contingencies"; that power is what makes people vulnerable
@@ -177,20 +180,20 @@ What the paper argues, in its order.
 
 ## Connections
 
-- **Ryan & Deci (2000), [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md)**, which it extends: the continuum it
+- **Ryan & Deci (2000), [LIT-559](../literature.d/LIT-559.md)**, which it extends: the continuum it
   defends.
-- **Deci, Koestner & Ryan (1999), [LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md)**, cited for the reward
+- **Deci, Koestner & Ryan (1999), [LIT-557](../literature.d/LIT-557.md)**, cited for the reward
   reanalysis. The description here (errors "numerous enough to generate the
   'null' results") is stronger than the 1999 paper's own statement, which
   says inclusion of dull tasks "accounted for a relatively small amount of the
-  discrepancy" and lists several other differences ([NOTE-tmp1ywom](NOTE-tmp1ywom.md)).
+  discrepancy" and lists several other differences ([NOTE-438](NOTE-438.md)).
 - **Frankfurt, Tanner Lectures (2004), [LIT-293](../literature.d/LIT-293.md), [NOTE-264](NOTE-264.md).** Not cited; this
   paper cites only Frankfurt 1971. The relation is drawn below.
 - **The SEP and IEP autonomy entries, [LIT-296](../literature.d/LIT-296.md) and [LIT-297](../literature.d/LIT-297.md).** They classify
   accounts as content-neutral or substantive and as structural or historical
   ([NOTE-266](NOTE-266.md), [NOTE-267](NOTE-267.md)). SDT's autonomy as stated here is structural (present
   reflective endorsement, including counterfactual endorsement). The
-  internalization history in [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md) and [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md) adds a historical
+  internalization history in [LIT-559](../literature.d/LIT-559.md) and [LIT-558](../literature.d/LIT-558.md) adds a historical
   element, and the claim that some values cannot be integrated adds a
   substantive one.
 - **Bandura (1977), [LIT-545](../literature.d/LIT-545.md), unread.** The paper disputes Bandura (1989), not
@@ -204,7 +207,7 @@ What the paper argues, in its order.
     in a gross literal sense" but denied "any entitlement to supply us with
     motives or with reasons" ([NOTE-264](NOTE-264.md), pp. 174–175), correspond to SDT's
     heteronomy from "inner impulses" (p. 1561) and to introjects, "within the
-    person, but still relatively external to the self" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 235).
+    person, but still relatively external to the self" ([LIT-558](../literature.d/LIT-558.md), p. 235).
     Frankfurt's volitional necessities, "irresistible, but ... not coercive"
     ([NOTE-264](NOTE-264.md), p. 197), correspond to SDT's single option that is "truly
     endorsed" (p. 1576). Both are compatibilist: Frankfurt says determinism
@@ -213,17 +216,17 @@ What the paper argues, in its order.
   - *Differences.* SDT makes autonomy graded and measurable (the continuum),
     where Frankfurt's free will is "volitional unanimity" and his love is
     stipulated unambivalent. SDT's criterion is integration with "the whole
-    self" (p. 1560) and "congruence" with one's other values ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md),
+    self" (p. 1560) and "congruence" with one's other values ([LIT-559](../literature.d/LIT-559.md),
     p. 73), not the order of an attitude. And SDT ranks Frankfurt-style
     identification below integration: an identified regulation can be
-    "compartmentalized (poorly integrated)" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 237).
+    "compartmentalized (poorly integrated)" ([LIT-558](../literature.d/LIT-558.md), p. 237).
     Frankfurt's identification can be "weary resignation" ([NOTE-264](NOTE-264.md), p. 173);
     SDT would score resigned compliance as controlled, not autonomous.
 - **[THEORY-029](../theory.d/THEORY-029.md) (order cannot confer ownership).** The paper does not engage
   the regress; it waves it away as practically finite (p. 1561), which is not
   an answer to Velleman's dilemma. But SDT's own criterion is not order. It
   is integration with the self, graded, and the self is given an independent
-  organismic characterization in [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md) (p. 247). That fits
+  organismic characterization in [LIT-558](../literature.d/LIT-558.md) (p. 247). That fits
   [THEORY-029](../theory.d/THEORY-029.md)'s claim and offers the empirical alternative it points toward.
   It does not escape the dilemma: "integration with the self" either names a
   process specified without the agent (and an integrated regulation could in
@@ -254,7 +257,7 @@ What the paper argues, in its order.
 ## Open questions
 
 - What, in SDT terms, is the "whole self" that endorses? If it is the
-  integrative process ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)), how is a regulation integrated by a
+  integrative process ([LIT-558](../literature.d/LIT-558.md)), how is a regulation integrated by a
   manipulated history told apart from one integrated under autonomy support,
   other than by the history?
 - Can the counterfactual endorsement test be measured, or only stipulated?

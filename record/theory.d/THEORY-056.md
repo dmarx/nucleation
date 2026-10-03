@@ -1,5 +1,8 @@
 ---
+number: 56
 status: Proposed
+formerly:
+- THEORY-tmppzrsd
 promote_when: >-
   A dissociation that the account forbids, or a mediation that it
   predicts. Against the account: a double dissociation in which some
@@ -44,9 +47,9 @@ summary: >-
   keeps the distinction. Proposed: argued from examples and from
   architecture, untested.
 ---
-<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-tmpx3ps2 THEORY-tmplvap0 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
 
-# THEORY-tmppzrsd: Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them
+# THEORY-056: Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them
 
 ## Source
 
@@ -92,7 +95,7 @@ diary finding that 31% of reported emotions were multiple (Oatley & Duncan
 which the paper does not specify further.
 
 **Barrett's convergence.** Barrett says this from inside the rival theory
-of emotion ([THEORY-tmpx3ps2](THEORY-tmpx3ps2.md) against [THEORY-tmplvap0](THEORY-tmplvap0.md)). "Automaticity and
+of emotion ([THEORY-057](THEORY-057.md) against [THEORY-055](THEORY-055.md)). "Automaticity and
 control are different brain modes (each of which can be achieved with a
 variety of network configurations), not two battling brain systems." She
 offers as a hypothesis (C8) that "reappraisal and other regulation
@@ -131,7 +134,7 @@ checking another.
   runs mostly through role-taking, which triggers a competing intuition
   (link 6). Frijda's reflection likewise works by raising a competing
   readiness. Both cite Hume.
-- **Self-determination theory argues the contrary ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), [NOTE-tmpnji9e](../notes.d/NOTE-tmpnji9e.md)).**
+- **Self-determination theory argues the contrary ([LIT-558](../literature.d/LIT-558.md), [NOTE-439](../notes.d/NOTE-439.md)).**
   Deci and Ryan (2000) hold that needs, not emotions, are the higher-order
   regulators of behaviour, "because emotions themselves must be
   self-regulated for effective functioning, and the basic psychological

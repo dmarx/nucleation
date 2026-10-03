@@ -39,8 +39,8 @@ summary: >-
   The dilemma is argued by examples, not proved, and it does not show that
   higher-order structure is irrelevant to agency.
 ---
-<!-- inactive-ok-file: THEORY-tmppzrsd THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
-<!-- inactive-ok-file: THEORY-tmpk0q6m — Proposed; the SDT account named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
 
 # THEORY-029: A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain
 
@@ -84,7 +84,7 @@ The claim is the record's synthesis across these five readings. No single one of
 - [LIT-294](../literature.d/LIT-294.md) (Robb): the 1969 Frankfurt cases are a separate argument. They bear on this one only because identification is one of the two compatibilist accounts left after them.
 - The history-based objection to the same accounts is [THEORY-040](THEORY-040.md), on manipulation.
 
-[THEORY-tmppzrsd](THEORY-tmppzrsd.md) holds that self-control is the interaction of first-order
+[THEORY-056](THEORY-056.md) holds that self-control is the interaction of first-order
 motive states, so a hierarchical account of agency cannot take its
 structure from the psychology of control. It does not decide whose a
 motive is.
@@ -92,9 +92,9 @@ motive is.
 Self-determination theory offers an empirical account of ownership that
 does not rest on order: a regulation is autonomous to the degree it is
 integrated with the person's other values and needs, measured on a graded
-continuum ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md); [LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), p. 1562; [THEORY-tmpk0q6m](THEORY-tmpk0q6m.md)). Ryan and
-Deci set the regress aside as practically finite ([LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), p. 1561),
+continuum ([LIT-559](../literature.d/LIT-559.md); [LIT-560](../literature.d/LIT-560.md), p. 1562; [THEORY-054](THEORY-054.md)). Ryan and
+Deci set the regress aside as practically finite ([LIT-560](../literature.d/LIT-560.md), p. 1561),
 which does not answer Velleman. Their stopping point, the "nascent self" of
-intrinsic activity and organismic integration ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 247), meets
+intrinsic activity and organismic integration ([LIT-558](../literature.d/LIT-558.md), p. 247), meets
 this account's second horn unless that self can be specified without the
 agent's endorsement.

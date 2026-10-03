@@ -28,7 +28,7 @@ summary: >-
   deployment, cognitive change, response modulation. The paper's own open
   problem is whether regulation can be told apart from generation at all.
 ---
-<!-- inactive-ok-file: THEORY-tmppzrsd — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-056 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 <!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
@@ -214,7 +214,7 @@ classification, and it cites the empirical findings below.
   suppression all appear here as regulation strategies with costs.
 - No instruction for machine-learning practice. Nothing here belongs in the
   anthology.
-- Its first open challenge is taken up by [THEORY-tmppzrsd](../theory.d/THEORY-tmppzrsd.md), which takes the
+- Its first open challenge is taken up by [THEORY-056](../theory.d/THEORY-056.md), which takes the
   side Gross set aside.
 
 ## Limitations

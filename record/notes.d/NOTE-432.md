@@ -33,7 +33,7 @@ summary: >-
   is philosophical, illustrated by an alcohol-dependence sketch and cited
   findings; it reports no data of its own.
 ---
-<!-- inactive-ok-file: THEORY-tmpybbhj THEORY-tmpbzmql — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-058 THEORY-048 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, compared through its abstract and this paper's citation of it -->
 <!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only because this paper cites it -->
 
@@ -221,8 +221,8 @@ These are arguments, with illustrative evidence cited.
 - **No ML instruction.** Marr's levels are well known in machine learning,
   but here they are used for psychiatric explanation. Nothing here belongs
   in the anthology.
-- Filed as [THEORY-tmpbzmql](../theory.d/THEORY-tmpbzmql.md), Proposed. Its cross-level loops are also one
-  source of [THEORY-tmpybbhj](../theory.d/THEORY-tmpybbhj.md).
+- Filed as [THEORY-048](../theory.d/THEORY-048.md), Proposed. Its cross-level loops are also one
+  source of [THEORY-058](../theory.d/THEORY-058.md).
 
 ## Limitations
 

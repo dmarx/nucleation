@@ -31,7 +31,7 @@ summary: >-
   proposal is argued from clinical examples and cited trials. The paper
   itself says mechanism research has not yet met Kazdin's standards.
 ---
-<!-- inactive-ok-file: THEORY-tmpybbhj — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-058 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 # NOTE-428: How effective psychological treatments work: mechanisms of change in cognitive behavioural therapy and beyond
 
@@ -207,8 +207,8 @@ evidence.
   maintained by self-reinforcing loops, and treatment works by breaking
   them.
 - **No ML instruction.** Nothing here belongs in the anthology.
-- C1 is filed, with [LIT-544](../literature.d/LIT-544.md), as [THEORY-tmphjqbg](../theory.d/THEORY-tmphjqbg.md) (Active). The maintenance
-  loop is one source of [THEORY-tmpybbhj](../theory.d/THEORY-tmpybbhj.md).
+- C1 is filed, with [LIT-544](../literature.d/LIT-544.md), as [THEORY-053](../theory.d/THEORY-053.md) (Active). The maintenance
+  loop is one source of [THEORY-058](../theory.d/THEORY-058.md).
 
 ## Limitations
 

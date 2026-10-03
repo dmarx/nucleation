@@ -1,5 +1,8 @@
 ---
+number: 57
 status: Proposed
+formerly:
+- THEORY-tmpx3ps2
 promote_when: >-
   The account says that instances of one emotion share no mechanism at
   any grain, and that what makes them one category is the perceiver's
@@ -11,7 +14,7 @@ promote_when: >-
   contexts as varied as the ones Barrett's Table 1 draws on, absent from
   the instances of other categories, and causally upstream of the
   instance. A coarse-grained functional variable counts, such as a mode
-  of action readiness (the rival account, THEORY-tmplvap0) or an appraisal
+  of action readiness (the rival account, THEORY-055) or an appraisal
   profile. A first-hand reading of a reply that names such a variable
   would move this account: Adolphs's companion piece (SCAN nsw153, not
   filed), or Lazarus 1991 (LIT-550, unread). What cannot settle it:
@@ -30,7 +33,7 @@ date: '2026-10-03'
 source:
 - LIT-542
 rivals:
-- THEORY-tmplvap0
+- THEORY-055
 summary: >-
   Barrett (2017), [LIT-542](../literature.d/LIT-542.md): degeneracy, population thinking, and a table of
   findings in which no region, network, pattern or neuron is consistent
@@ -44,13 +47,13 @@ summary: >-
   degeneracy alone does not carry the conclusion, and Table 1 has to.
   Searle ([LIT-482](../literature.d/LIT-482.md)) shows that Barrett's comparison with money is to
   observer-relative function, not to institutions. Rivals the appraisal
-  account, [THEORY-tmplvap0](THEORY-tmplvap0.md). Proposed: one theoretical paper, no
+  account, [THEORY-055](THEORY-055.md). Proposed: one theoretical paper, no
   independent test, and the reply unread.
 ---
 <!-- inactive-ok-file: LIT-550 — Deferred, no lawful full text; named as the reply that could move this account, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmplvap0 THEORY-tmp2gk4g THEORY-036 — Proposed; the rival and the neighbours, stated as such -->
+<!-- inactive-ok-file: THEORY-055 THEORY-045 THEORY-036 — Proposed; the rival and the neighbours, stated as such -->
 
-# THEORY-tmpx3ps2: Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism
+# THEORY-057: Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism
 
 ## Source
 
@@ -126,7 +129,7 @@ appraisals survive as products of categorization.
   function. They disagree about *whose* function does the grouping:
   for Barrett it is the perceiver's goal-based concept, and for Frijda it
   is the agent's own readiness to change its relation to the object. That
-  is the precise point of the rivalry with [THEORY-tmplvap0](THEORY-tmplvap0.md). It is held as
+  is the precise point of the rivalry with [THEORY-055](THEORY-055.md). It is held as
   `rivals`, not `corrects`, because neither paper cites or tests the
   other ([ADR-022](../decisions.d/ADR-022.md)).
 
@@ -138,7 +141,7 @@ appraisals survive as products of categorization.
   brain events, and the categories are real in the way weeds are.
 - **It does not deny affect.** Affect is felt allostatic state and is
   present whether or not any emotion concept is applied. That layer is
-  [THEORY-tmp2gk4g](THEORY-tmp2gk4g.md), which this account sits on top of but does not need.
+  [THEORY-045](THEORY-045.md), which this account sits on top of but does not need.
   Steps 1–3 do not use it.
 - **It does not establish that appraisal theories are false.** Barrett's
   case is strongest against neural fingerprints. Her Figure 1 counts

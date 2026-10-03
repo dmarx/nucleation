@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**138 documents cited without acknowledgement.** Not listed: 1247 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 1426 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -839,18 +839,6 @@ Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry:
 - [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
 - [`record/theory.d/THEORY-022.md:98`](../../record/theory.d/THEORY-022.md)
 
-### [LIT-197](../../record/literature.d/LIT-197.md) — Deferred
-
-The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
-
-5 citations in 3 files await a look.
-
-- [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
-- [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
-- [`record/notes.d/NOTE-267.md:148`](../../record/notes.d/NOTE-267.md)
-- [`record/notes.d/NOTE-270.md:271`](../../record/notes.d/NOTE-270.md)
-- [`record/notes.d/NOTE-270.md:277`](../../record/notes.d/NOTE-270.md)
-
 ### [LIT-228](../../record/literature.d/LIT-228.md) — Deferred
 
 Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Local Spectral Embedding Methods
@@ -887,17 +875,6 @@ Information and the Accuracy Attainable in the Estimation of Statistical Paramet
 - [`record/notes.d/NOTE-315.md:160`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
-### [LIT-117](../../record/literature.d/LIT-117.md) — Deferred
-
-Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action
-
-4 citations in 4 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-264.md:136`](../../record/notes.d/NOTE-264.md)
-- [`record/notes.d/NOTE-265.md:151`](../../record/notes.d/NOTE-265.md)
-- [`record/notes.d/NOTE-267.md:146`](../../record/notes.d/NOTE-267.md)
-- [`record/notes.d/NOTE-268.md:201`](../../record/notes.d/NOTE-268.md)
-
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
 Computational Functionalism for the Deep Learning Era
@@ -908,6 +885,17 @@ Computational Functionalism for the Deep Learning Era
 - [`record/notes.d/NOTE-106.md:123`](../../record/notes.d/NOTE-106.md)
 - [`record/notes.d/NOTE-123.md:104`](../../record/notes.d/NOTE-123.md)
 - [`record/notes.d/NOTE-242.md:163`](../../record/notes.d/NOTE-242.md)
+
+### [LIT-197](../../record/literature.d/LIT-197.md) — Deferred
+
+The Enigma Unveiled: How AI Compromises Free Will in Decision-Making
+
+4 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-171.md:78`](../../record/notes.d/NOTE-171.md)
+- [`record/notes.d/NOTE-171.md:84`](../../record/notes.d/NOTE-171.md)
+- [`record/notes.d/NOTE-270.md:271`](../../record/notes.d/NOTE-270.md)
+- [`record/notes.d/NOTE-270.md:277`](../../record/notes.d/NOTE-270.md)
 
 ### [LIT-245](../../record/literature.d/LIT-245.md) — Deferred
 
@@ -973,16 +961,6 @@ Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 - [`record/decisions.d/ADR-009.md:35`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
 - [`record/notes.d/NOTE-158.md:136`](../../record/notes.d/NOTE-158.md)
-
-### [LIT-193](../../record/literature.d/LIT-193.md) — Proposed
-
-Better to be a Pig Dissatisfied than a Plant Satisfied
-
-3 citations in 3 files await a look; 7 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-387.md:89`](../../record/literature.d/LIT-387.md)
-- [`record/literature.d/LIT-388.md:131`](../../record/literature.d/LIT-388.md)
-- [`record/notes.d/NOTE-330.md:158`](../../record/notes.d/NOTE-330.md)
 
 ### [LIT-224](../../record/literature.d/LIT-224.md) — Deferred
 
@@ -1091,6 +1069,15 @@ Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gau
 - [`record/decisions.d/ADR-013.md:27`](../../record/decisions.d/ADR-013.md)
 - [`record/decisions.d/ADR-013.md:63`](../../record/decisions.d/ADR-013.md)
 
+### [LIT-117](../../record/literature.d/LIT-117.md) — Deferred
+
+Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action
+
+2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-265.md:151`](../../record/notes.d/NOTE-265.md)
+- [`record/notes.d/NOTE-268.md:201`](../../record/notes.d/NOTE-268.md)
+
 ### [LIT-119](../../record/literature.d/LIT-119.md) — Deferred
 
 Conspiracy Theories and Public Trust
@@ -1117,6 +1104,15 @@ Scaffolding individuality: coordination, cooperation, collaboration and communit
 
 - [`record/decisions.d/ADR-017.md:62`](../../record/decisions.d/ADR-017.md)
 - [`record/notes.d/NOTE-111.md:106`](../../record/notes.d/NOTE-111.md)
+
+### [LIT-193](../../record/literature.d/LIT-193.md) — Proposed
+
+Better to be a Pig Dissatisfied than a Plant Satisfied
+
+2 citations in 2 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-387.md:89`](../../record/literature.d/LIT-387.md)
+- [`record/literature.d/LIT-388.md:131`](../../record/literature.d/LIT-388.md)
 
 ### [LIT-203](../../record/literature.d/LIT-203.md) — Deferred
 
@@ -1239,7 +1235,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 134 other citations of it are acknowledged.
+2 citations in 1 file await a look; 135 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1544,7 +1540,7 @@ Consciousness Explained
 
 Subjectivity and Selfhood: Investigating the First-Person Perspective
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-016.md:55`](../../record/decisions.d/ADR-016.md)
 
@@ -1636,14 +1632,6 @@ Neither utility information nor resource holdings, alone or together, can regist
 
 - [`record/theory.d/THEORY-027.md:61`](../../record/theory.d/THEORY-027.md)
 
-### [THEORY-029](../../record/theory.d/THEORY-029.md) — Proposed
-
-A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain
-
-1 citation in 1 file awaits a look.
-
-- [`record/theory.d/THEORY-040.md:73`](../../record/theory.d/THEORY-040.md)
-
 ### [THEORY-034](../../record/theory.d/THEORY-034.md) — Proposed
 
 Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind
@@ -1659,14 +1647,6 @@ Category theory gives radical ontic structural realism no formal support: genera
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-034.md:98`](../../record/theory.d/THEORY-034.md)
-
-### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
-
-A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
-
-1 citation in 1 file awaits a look.
-
-- [`record/theory.d/THEORY-029.md:83`](../../record/theory.d/THEORY-029.md)
 
 ## Codes that resolve to no document
 

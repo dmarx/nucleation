@@ -1,6 +1,9 @@
 ---
+number: 439
 status: Read
-paper: LIT-tmpc4275
+formerly:
+- NOTE-tmpnji9e
+paper: LIT-558
 title: 'The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior'
 version: 1
 history:
@@ -27,9 +30,9 @@ summary: >-
   self-organization, defended as an evolved, domain-general design feature.
 ---
 <!-- inactive-ok-file: LIT-545 — Deferred: Bandura (1977) is unread; the paper argues with self-efficacy theory, which is named here, not leaned on -->
-<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-tmppzrsd THEORY-tmpdbe64 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-056 THEORY-050 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
-# NOTE-tmpnji9e: The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+# NOTE-439: The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
 ## Contribution
 
@@ -88,7 +91,7 @@ The article is a review and argument; results are cited.
   are directed at satisfaction of these needs are not necessarily
   intrinsically motivated" (p. 232). "Perceived competence is necessary for
   any type of motivation, perceived autonomy is required for the motivation
-  to be intrinsic" (p. 234). The 1999 meta-analysis ([LIT-tmp58ot3](../literature.d/LIT-tmp58ot3.md)) is said to
+  to be intrinsic" (p. 234). The 1999 meta-analysis ([LIT-557](../literature.d/LIT-557.md)) is said to
   have "repudiated" Eisenberger and Cameron's (1996), "whose methods and
   conclusions turned out to be fatally flawed" (p. 233).
 - **Internalization (pp. 234–238).** External regulation, introjection
@@ -108,7 +111,7 @@ The article is a review and argument; results are cited.
   attitudes and behaviour (Koestner et al. 1992); control orientation with
   public self-consciousness; impersonal orientation with depression (p. 241).
 - **The "what" of goals (pp. 243–246).** Intrinsic versus extrinsic
-  aspirations, as in [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md). Carver and Baird (1998): autonomous
+  aspirations, as in [LIT-559](../literature.d/LIT-559.md). Carver and Baird (1998): autonomous
   reasons for pursuing wealth help, but the relative importance of wealth
   still predicts lower self-actualization with reasons controlled (pp. 244–245).
 - **Culture (pp. 245–247).** Iyengar and Lepper's (1999) Asian-American
@@ -186,9 +189,9 @@ The article is a review and argument; results are cited.
 
 ## Connections
 
-- **Ryan & Deci (2000), [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md)**, the companion summary. This paper
+- **Ryan & Deci (2000), [LIT-559](../literature.d/LIT-559.md)**, the companion summary. This paper
   is the argument; that one the overview.
-- **Vansteenkiste, Ryan & Soenens (2020), [LIT-tmplhywo](../literature.d/LIT-tmplhywo.md)**, which formalizes
+- **Vansteenkiste, Ryan & Soenens (2020), [LIT-561](../literature.d/LIT-561.md)**, which formalizes
   this paper's functional criterion into five basic and four associated
   criteria for a need.
 - **Bandura (1977), [LIT-545](../literature.d/LIT-545.md), unread.** The disagreement is about whether
@@ -225,11 +228,11 @@ The article is a review and argument; results are cited.
   endorsement from autonomy by appeal to history and to need satisfaction.
   That is a substantive, not content-neutral, criterion in the IEP's sense
   ([NOTE-266](NOTE-266.md)): some contents "are not integrateable" (p. 246).
-- **[THEORY-tmppzrsd](../theory.d/THEORY-tmppzrsd.md) (emotion regulation is one motive state checking
+- **[THEORY-056](../theory.d/THEORY-056.md) (emotion regulation is one motive state checking
   another).** This paper is a source against it on one point: it posits
   needs as a higher-order regulating level over emotions (p. 254). It gives
   no evidence for that level beyond the argument.
-- **[THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md) (inflexibility as a transdiagnostic process).** The
+- **[THEORY-050](../theory.d/THEORY-050.md) (inflexibility as a transdiagnostic process).** The
   rigid-patterns passage (p. 250) is a rival etiology for the same pattern.
 - **No ML instruction.** Nothing here belongs in the anthology.
 

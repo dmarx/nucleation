@@ -1,5 +1,8 @@
 ---
+number: 47
 status: Proposed
+formerly:
+- THEORY-tmpai2jq
 promote_when: >-
   Replication and a test against present structure. The core experiment
   (Deci, Eghrari, Patrick and Leone 1994) is held only as two SDT reviews
@@ -22,12 +25,12 @@ tags:
 - social-science
 date: '2026-10-03'
 source:
-- LIT-tmpc4275
-- LIT-tmpckq0r
+- LIT-558
+- LIT-559
 extends:
-- THEORY-tmpk0q6m
+- THEORY-054
 summary: >-
-  Deci and Ryan ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)) and Ryan and Deci ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md)): supports
+  Deci and Ryan ([LIT-558](../literature.d/LIT-558.md)) and Ryan and Deci ([LIT-559](../literature.d/LIT-559.md)): supports
   for relatedness and competence are enough to get a value internalized,
   but only as an introject or a compartmentalized identification;
   integration also needs autonomy support. The experimental evidence is
@@ -39,16 +42,16 @@ summary: >-
   about, with empirical support, but it has not been tested against
   matched present endorsement or applied to manipulation.
 ---
-<!-- inactive-ok-file: THEORY-tmpk0q6m THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
+<!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 
-# THEORY-tmpai2jq: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is
+# THEORY-047: A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is
 
 ## Source
 
-- Deci & Ryan (2000), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), read in [NOTE-tmpnji9e](../notes.d/NOTE-tmpnji9e.md): "Internalization
+- Deci & Ryan (2000), [LIT-558](../literature.d/LIT-558.md), read in [NOTE-439](../notes.d/NOTE-439.md): "Internalization
   and Need Satisfaction" (pp. 237–238), and need thwarting and its
   accommodations (pp. 247–251).
-- Ryan & Deci (2000), [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), read in [NOTE-tmpwwoeb](../notes.d/NOTE-tmpwwoeb.md): "Facilitating
+- Ryan & Deci (2000), [LIT-559](../literature.d/LIT-559.md), read in [NOTE-442](../notes.d/NOTE-442.md): "Facilitating
   Integration of Extrinsic Motivation" (pp. 73–74).
 
 ## What was actually shown
@@ -57,11 +60,11 @@ summary: >-
 thus facilitate internalization and can be sufficient to produce introjected
 values or compartmentalized (poorly integrated) identifications. However, for
 a regulation to become more integral to one's self, supports for autonomy are
-also required" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 237). "Contexts can yield external regulation
+also required" ([LIT-558](../literature.d/LIT-558.md), p. 237). "Contexts can yield external regulation
 if there are salient rewards or threats ...; contexts can yield introjected
 regulation if a relevant reference group endorses the activity ...; but
 contexts can yield autonomous regulation only if they are autonomy
-supportive" ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), pp. 73–74).
+supportive" ([LIT-559](../literature.d/LIT-559.md), pp. 73–74).
 
 **The experiment.** Deci, Eghrari, Patrick and Leone (1994), as both reviews
 report it: people did a dull task with zero to three facilitating factors (a
@@ -69,7 +72,7 @@ meaningful rationale, acknowledgement that the task is dull, choice rather
 than control). Everyone internalized something. With two or three factors,
 later free-choice behaviour correlated positively with reported valuing,
 enjoyment and freedom; with zero or one, negatively: "people who behaved more
-felt less free and enjoyed the activity less" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), pp. 237–238).
+felt less free and enjoyed the activity less" ([LIT-558](../literature.d/LIT-558.md), pp. 237–238).
 The authors read the second pattern as introjection.
 
 **Field studies, correlational.** Children whose parents were autonomy
@@ -77,14 +80,14 @@ supportive internalized school values more (Grolnick & Ryan 1989); autonomy
 supportive religious parents produced identified rather than introjected
 belief (Strahan 1995); medical students of autonomy supportive instructors
 internalized course values, visible six months later (Williams & Deci 1996)
-([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), p. 74; [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), pp. 237, 240). Contingent parental regard
-produced introjected regulation (Assor, Roth & Deci, [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 248).
+([LIT-559](../literature.d/LIT-559.md), p. 74; [LIT-558](../literature.d/LIT-558.md), pp. 237, 240). Contingent parental regard
+produced introjected regulation (Assor, Roth & Deci, [LIT-558](../literature.d/LIT-558.md), p. 248).
 
 ## What this does not say
 
 - **It does not say history alone decides.** SDT also holds that
   internalization can be revisited "at any point along this continuum"
-  ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), p. 73): a regulation introjected once can be integrated later.
+  ([LIT-559](../literature.d/LIT-559.md), p. 73): a regulation introjected once can be integrated later.
   The claim is about how acquisition conditions shape the kind of
   internalization, not that it is fixed for life. The title's "fixes" is about
   the state produced, not its permanence.
@@ -95,7 +98,7 @@ produced introjected regulation (Assor, Roth & Deci, [LIT-tmpc4275](../literatur
 
 ## Connections
 
-- **Extends [THEORY-tmpk0q6m](THEORY-tmpk0q6m.md).** That account says autonomy is degree of
+- **Extends [THEORY-054](THEORY-054.md).** That account says autonomy is degree of
   integration; this one says what produces integration rather than
   introjection. Same mechanism, widened to its causes.
 - **[THEORY-040](THEORY-040.md)** (snapshot conditions are met by a manipulated agent, and no

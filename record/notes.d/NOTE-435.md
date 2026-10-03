@@ -31,7 +31,7 @@ summary: >-
   intervention. The evidence offered is indirect, and the theory is
   presented as an organizing framework, not a fitted model.
 ---
-<!-- inactive-ok-file: THEORY-tmpybbhj — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-058 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, named only as the pluralism Borsboom's premise belongs to -->
 <!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only as the medical-model critique this paper does not cite -->
 
@@ -206,7 +206,7 @@ definitions that follow from them.
   batch report for a proposed THEORY.
 - **No ML instruction.** The network estimation methods are statistics
   read for psychiatry. Nothing here belongs in the anthology.
-- Filed, with [LIT-538](../literature.d/LIT-538.md) and [LIT-539](../literature.d/LIT-539.md), as [THEORY-tmpybbhj](../theory.d/THEORY-tmpybbhj.md), Proposed.
+- Filed, with [LIT-538](../literature.d/LIT-538.md) and [LIT-539](../literature.d/LIT-539.md), as [THEORY-058](../theory.d/THEORY-058.md), Proposed.
 
 ## Limitations
 

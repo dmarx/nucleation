@@ -29,7 +29,7 @@ summary: >-
   stated with a prediction, not argued; the examples are cited. The online
   text has editing slips and reference gaps.
 ---
-<!-- inactive-ok-file: THEORY-tmpdbe64 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-050 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-467 — Deferred, no lawful full text; named as the book this article summarises, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question the article bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the bridge this reading bears on, not leaned on -->
@@ -237,7 +237,7 @@ There are no formal results. The article's claims, by section:
   Metzinger's terms; the article says nothing about learned models
   generally, and nothing here belongs in the anthology.
 - ACT's cognitive fusion is read as a thought functioning transparently,
-  and defusion as making it opaque, in [THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md) and THEORY-
+  and defusion as making it opaque, in [THEORY-050](../theory.d/THEORY-050.md) and THEORY-
   tmp0b06z. The mapping is the record's; neither source cites the other.
 
 ## Limitations

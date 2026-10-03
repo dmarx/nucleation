@@ -1,5 +1,8 @@
 ---
+number: 58
 status: Proposed
+formerly:
+- THEORY-tmpybbhj
 promote_when: >-
   Either of two kinds of result, read first-hand. (1) Individual
   time-series data, from experience sampling or repeated measurement in
@@ -44,9 +47,9 @@ summary: >-
   what starts a disorder.
 ---
 <!-- inactive-ok-file: LIT-548 LIT-552 — Deferred; Engel and Kendler 2005 named as the unread background, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpdbe64 THEORY-tmpbzmql — Proposed; the inflexibility account, named to say the two are compatible, and the implementation account, named for the cross-level loops -->
+<!-- inactive-ok-file: THEORY-050 THEORY-048 — Proposed; the inflexibility account, named to say the two are compatible, and the implementation account, named for the cross-level loops -->
 
-# THEORY-tmpybbhj: Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
+# THEORY-058: Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
 
 ## Source
 
@@ -122,7 +125,7 @@ patient is why it is Proposed.
   other (Woodward, Pearl). Symptom-to-symptom links are within one level,
   so the exclusion problem Pernu ([LIT-147](../literature.d/LIT-147.md)) analyses for mental causes does
   not arise for them. It does arise for Kendler's cross-level loops; the
-  companion account [THEORY-tmpbzmql](THEORY-tmpbzmql.md) says why his examples survive it.
+  companion account [THEORY-048](THEORY-048.md) says why his examples survive it.
 - **Hysteresis is borrowed from the physics of phase transitions** without
   an order parameter or a measured transition ([NOTE-435](../notes.d/NOTE-435.md), on Rizi,
   [LIT-150](../literature.d/LIT-150.md)). That is the gap `promote_when` asks to close.
@@ -146,7 +149,7 @@ patient is why it is Proposed.
 
 ## Connections
 
-- **Psychological inflexibility ([THEORY-tmpdbe64](THEORY-tmpdbe64.md)) is compatible, not a
+- **Psychological inflexibility ([THEORY-050](THEORY-050.md)) is compatible, not a
   rival.** [NOTE-431](../notes.d/NOTE-431.md) notes that ACT puts one process behind many syndromes
   while Borsboom denies most disorders a common cause. But ACT's process is
   itself a loop: avoidance makes the avoided event more salient and so

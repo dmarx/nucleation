@@ -30,7 +30,7 @@ summary: >-
   behaviour therapy is "inadequate", and ACT's acceptance, defusion and
   values are given RFT readings explicitly labelled heuristic.
 ---
-<!-- inactive-ok-file: THEORY-tmpghm0v — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-051 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 <!-- inactive-ok-file: LIT-545 LIT-549 LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
@@ -186,7 +186,7 @@ studies, not results the paper establishes.
   See the batch report.
 - **No ML instruction.** Nothing here belongs in the anthology.
 - The three selves are compared with the record's self holdings in THEORY-
-  tmp0b06z. The clinical claim is [THEORY-tmpghm0v](../theory.d/THEORY-tmpghm0v.md).
+  tmp0b06z. The clinical claim is [THEORY-051](../theory.d/THEORY-051.md).
 
 ## Limitations
 

@@ -6,8 +6,8 @@
 
 **Phenomenology** — the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016).
 
-0 of 43 THEORY documents. Back to the [full index](../README.md).
+1 of 58 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-044](../../../record/theory.d/THEORY-044.md) | In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content | Barnes-Holmes et al. ([LIT-541](../../../record/literature.d/LIT-541.md)) define three selves: the conceptualized self, the content of verbal relations about oneself; the knowing self, their ongoing process; and the transcendent self, their context. Hayes et al. ([LIT-555](../../../record/literature.d/LIT-555.md)) say the third arises from deictic frames (I–you, here–there, now–then) as "a sense of self as a locus or perspective", and is "a context for verbal knowing, not the content", so its limits "cannot be consciously known". The account maps the three onto the record's holdings: the content is the narrative self (Dennett, Gallagher, Strawson), and the context is what Hume could not find among his perceptions and what Metzinger calls a transparent perspective. It differs from the minimal self (Gallagher) on origin: RFT says the perspective is learned in language. The evidence for the learned origin is cited, not read, so Proposed. The clinical claim is [THEORY-051](../../../record/theory.d/THEORY-051.md). | Proposed |

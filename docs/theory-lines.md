@@ -2,9 +2,16 @@
 
 # Lines of explanation
 
-3 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+5 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
+
+## agency
+
+### From A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+
+- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
 
 ## contextuality
 
@@ -15,6 +22,20 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also extends THEORY-016
   - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also extends THEORY-016
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
+
+## motivation
+
+### From A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+
+- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+## psychopathology-and-treatment
+
+### From Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology
+
+- [THEORY-050](../record/theory.d/THEORY-050.md) — Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology *(Proposed)*
+  - [THEORY-051](../record/theory.d/THEORY-051.md) — Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering *(Proposed)*
 
 ## quantum-foundations
 
