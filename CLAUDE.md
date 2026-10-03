@@ -24,10 +24,20 @@ file is wrong.
 
 ## The boundary
 
-**If an anthology topic can hold a work, it goes to the anthology, not here.**
-If the work carries an instruction for machine-learning practice, the same
-applies. Nothing is filed in both. To cite the anthology, write `ANTH-LIT-285`
-or `ANTH-THEORY-106`. Codes are not shared between the records.
+**By default, if an anthology topic can hold a work, it goes to the anthology,
+not here.** The same applies if the work carries an instruction for
+machine-learning practice. To cite the anthology, write `ANTH-LIT-285` or
+`ANTH-THEORY-106`. Codes are not shared between the records.
+
+**A work may be held in both records when each reads it for its own question**
+([ADR-013](record/decisions.d/ADR-013.md)). Each entry is its own reading, with
+its own NOTE, status, tags and relations. The two entries name each other: the
+nucleation LIT cites the `ANTH-LIT-…` code in its body. The curation entry
+states the second question. Check the anthology before filing, and when the
+owner asks for a work here that the anthology holds, file it here under this
+rule rather than declining. A work filed here that an anthology topic could
+hold carries the `anthology-candidate` flag last
+([ADR-005](record/decisions.d/ADR-005.md)).
 
 ## Rules that are enforced
 
