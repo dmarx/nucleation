@@ -30,9 +30,9 @@ history:
   date: '2026-10-03'
   note: >-
     A paragraph places three accounts filed since: Ainslie's bargaining
-    (THEORY-tmpgx68d) and arbitration by reliability (THEORY-tmp2wlfb)
+    (THEORY-067) and arbitration by reliability (THEORY-062)
     support the clause about no regulator above, and the expected value of
-    control (THEORY-tmpkujus) is the conditional challenge, decided by the
+    control (THEORY-070) is the conditional challenge, decided by the
     test promote_when already names.
 tags:
 - emotion-and-affect
@@ -58,7 +58,7 @@ summary: >-
   architecture, untested.
 ---
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmpgx68d THEORY-tmp2wlfb THEORY-tmpkujus — Proposed; accounts filed since this one, placed against its clause about no regulator above, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-067 THEORY-062 THEORY-070 — Proposed; accounts filed since this one, placed against its clause about no regulator above, nothing here rests on them -->
 
 # THEORY-056: Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them
 
@@ -173,14 +173,14 @@ checking another.
 
 **Three accounts filed since.** Two support the clause that there is no
 regulator above the competing states, from outside emotion research.
-Ainslie's bargaining ([THEORY-tmpgx68d](THEORY-tmpgx68d.md)) makes self-control the interaction of
+Ainslie's bargaining ([THEORY-067](THEORY-067.md)) makes self-control the interaction of
 interests that dominate at different delays, with no faculty of will over
 them; it also offers an answer to which state wins, though what does the
 checking there is an expectation about one's own future choices rather than
-a concurrent emotion. Arbitration by reliability ([THEORY-tmp2wlfb](THEORY-tmp2wlfb.md)) lets
+a concurrent emotion. Arbitration by reliability ([THEORY-062](THEORY-062.md)) lets
 model-based and model-free controllers compete as peers, the more reliable
 estimate winning, not the one a higher system prefers. The expected value of
-control ([THEORY-tmpkujus](THEORY-tmpkujus.md)) is the challenge, and a conditional one: it posits a
+control ([THEORY-070](THEORY-070.md)) is the challenge, and a conditional one: it posits a
 dedicated system that decides how much control to apply, which would be the
 distinct system this account says refutes it only if that specification
 were shown to govern emotion regulation generally, effortless regulation

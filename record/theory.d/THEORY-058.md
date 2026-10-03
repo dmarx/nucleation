@@ -27,7 +27,7 @@ history:
 - version: 2
   date: '2026-10-03'
   note: >-
-    Connections points to THEORY-tmpjmrqg (HKB coordination) as the
+    Connections points to THEORY-069 (HKB coordination) as the
     record's measured case of the transition signatures promote_when asks
     for, and says it is not evidence about disorders.
 tags:
@@ -56,7 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-548 LIT-552 — Deferred; Engel and Kendler 2005 named as the unread background, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-048 — Proposed; the inflexibility account, named to say the two are compatible, and the implementation account, named for the cross-level loops -->
-<!-- inactive-ok-file: THEORY-tmpjmrqg — Proposed; named as the record's measured case of a transition with hysteresis and critical slowing, not leaned on -->
+<!-- inactive-ok-file: THEORY-069 — Proposed; named as the record's measured case of a transition with hysteresis and critical slowing, not leaned on -->
 
 # THEORY-058: Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
 
@@ -167,7 +167,7 @@ patient is why it is Proposed.
   conflict only if inflexibility is read as a cause behind the symptoms
   that sustains them whatever their connections, and neither source reads
   it that way.
-- **A measured transition elsewhere: HKB coordination ([THEORY-tmpjmrqg](THEORY-tmpjmrqg.md)).**
+- **A measured transition elsewhere: HKB coordination ([THEORY-069](THEORY-069.md)).**
   It is the record's measured case of the signatures this account borrows,
   in human behaviour and with an order parameter: relative phase between
   the hands switches from anti-phase to in-phase at a critical movement

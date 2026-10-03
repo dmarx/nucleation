@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 1426 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 1847 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -578,7 +578,7 @@ Detection, Estimation, and Modulation Theory, Part I
 - [`record/literature.d/LIT-364.md:80`](../../record/literature.d/LIT-364.md)
 - [`record/literature.d/LIT-365.md:31`](../../record/literature.d/LIT-365.md)
 - [`record/literature.d/LIT-366.md:30`](../../record/literature.d/LIT-366.md)
-- [`record/literature.d/LIT-367.md:64`](../../record/literature.d/LIT-367.md)
+- [`record/literature.d/LIT-367.md:65`](../../record/literature.d/LIT-367.md)
 - [`record/literature.d/LIT-368.md:70`](../../record/literature.d/LIT-368.md)
 - [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
 - [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
@@ -605,7 +605,7 @@ In both formalisms of contextuality, classicality is the existence of a nonnegat
 
 Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
 
-9 citations in 5 files await a look; 12 other citations of it are acknowledged.
+9 citations in 5 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-373.md:38`](../../record/literature.d/LIT-373.md)
 - [`record/literature.d/LIT-373.md:85`](../../record/literature.d/LIT-373.md)
@@ -639,7 +639,7 @@ The coherent and fluent mind: how unified consciousness is constructed from cros
 8 citations in 6 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-014.md:54`](../../record/decisions.d/ADR-014.md)
-- [`record/literature.d/LIT-384.md:92`](../../record/literature.d/LIT-384.md)
+- [`record/literature.d/LIT-384.md:93`](../../record/literature.d/LIT-384.md)
 - [`record/literature.d/LIT-385.md:91`](../../record/literature.d/LIT-385.md)
 - [`record/literature.d/LIT-385.md:95`](../../record/literature.d/LIT-385.md)
 - [`record/notes.d/NOTE-150.md:94`](../../record/notes.d/NOTE-150.md)
@@ -1036,7 +1036,7 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 
 For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
 
-3 citations in 3 files await a look; 33 other citations of it are acknowledged.
+3 citations in 3 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-321.md:156`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
@@ -1235,7 +1235,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 135 other citations of it are acknowledged.
+2 citations in 1 file await a look; 145 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1324,7 +1324,7 @@ Knowledge is not always more valuable than mere true belief
 
 Fitting Fulfilment – Fitting Objective or Rational Attractiveness?
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-160.md:102`](../../record/notes.d/NOTE-160.md)
 
@@ -1558,7 +1558,7 @@ Groups as Agents
 
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
-- [`record/theory.d/THEORY-043.md:280`](../../record/theory.d/THEORY-043.md)
+- [`record/theory.d/THEORY-043.md:288`](../../record/theory.d/THEORY-043.md)
 
 ### [LIT-503](../../record/literature.d/LIT-503.md) — Proposed
 

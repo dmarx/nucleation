@@ -44,8 +44,8 @@ history:
   note: >-
     Connections says the agreement that agency survives composition holds
     for thin, functionalist agency, and how organisational minimal agency
-    (THEORY-tmplg7y1) and Korsgaard's normative constitution of agency
-    (THEORY-tmpc3zog) bear on it from two sides.
+    (THEORY-071) and Korsgaard's normative constitution of agency
+    (THEORY-065) bear on it from two sides.
 tags:
 - consciousness
 - mereology
@@ -75,7 +75,7 @@ summary: >-
   against a nation. Proposed: an account of where a dispute stands, from
   philosophical argument and no measurement.
 ---
-<!-- inactive-ok-file: THEORY-tmplg7y1 THEORY-tmpc3zog — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
 <!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
@@ -325,11 +325,11 @@ needed.
 - **The agreement on agency is about thin agency.** That agency survives
   composition holds for thin, functionalist agency, and two accounts bear
   on it from opposite sides: organisational minimal agency
-  ([THEORY-tmplg7y1](THEORY-tmplg7y1.md)) makes agency dear rather than cheap, since a whole
+  ([THEORY-071](THEORY-071.md)) makes agency dear rather than cheap, since a whole
   counts only if it individuates itself, modulates its own coupling and
   regulates it by norms its own organisation sets, which Minsky's and
   Brooks's designed agents do not and a group is not yet shown to, while
-  Korsgaard ([THEORY-tmpc3zog](THEORY-tmpc3zog.md)) grants collectives agency in the same sense as
+  Korsgaard ([THEORY-065](THEORY-065.md)) grants collectives agency in the same sense as
   individuals, but because a group can achieve the unity of agency by
   conformity to its constitutive norms, a reason that does not turn on
   architecture and says nothing about experience.

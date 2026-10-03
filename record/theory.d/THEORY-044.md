@@ -32,10 +32,10 @@ history:
   date: '2026-10-03'
   note: >-
     The batch on self-governance (2026-10-03) adds two contrasts. Metzinger's
-    précis (LIT-tmp7qvyd) holds that what is experienced as a self is
+    précis (LIT-568) holds that what is experienced as a self is
     content, a transparent self-model, and that the perspective is itself
     modelled, which qualifies the mapping of self as context onto
-    Metzinger. IFS (LIT-tmpgn0w6) has a Self that is innate and has
+    Metzinger. IFS (LIT-579) has a Self that is innate and has
     qualities, the opposite kind of construct. The Connections line that
     Being No One is unread now notes the précis. The tag
     `learning-and-conditioning` (ADR-025) is added for the learned origin
@@ -69,8 +69,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-549 LIT-463 LIT-467 LIT-468 — Deferred; the RFT book, Zahavi, Being No One and Schechtman, named as unread works that bear on this, none leaned on -->
 <!-- inactive-ok-file: THEORY-051 THEORY-050 THEORY-029 — Proposed; the clinical claim, the inflexibility account and the regress about the agent's standpoint, named as neighbours -->
-<!-- inactive-ok-file: THEORY-tmpaa365 — Proposed; the self-model account, named as the contrast, nothing here rests on it -->
-<!-- inactive-ok-file: NOTE-tmpfag1y — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast beside the read essay -->
+<!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named as the contrast, nothing here rests on it -->
+<!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast beside the read essay -->
 
 # THEORY-044: In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content
 
@@ -178,7 +178,7 @@ clearly enough to compare, and its empirical half is unsupported here.
   between them. `promote_when` says what would.
 - **Metzinger's précis puts the perspective inside the model.** The
   mapping above reads Metzinger's first-person perspective as RFT's context.
-  The précis ([LIT-tmp7qvyd](../literature.d/LIT-tmp7qvyd.md), read in [NOTE-tmpl0qw5](../notes.d/NOTE-tmpl0qw5.md); [THEORY-tmpaa365](THEORY-tmpaa365.md)) makes
+  The précis ([LIT-568](../literature.d/LIT-568.md), read in [NOTE-460](../notes.d/NOTE-460.md); [THEORY-064](THEORY-064.md)) makes
   the contrast sharper than that mapping suggests. What is experienced as a
   self is content: "the content of the conscious self", a phenomenal
   self-model that cannot be recognised as a model (§1.2). And the
@@ -194,8 +194,8 @@ clearly enough to compare, and its empirical half is unsupported here.
   making that part of the self-model available to attention as a model.
   That reading is the record's.
 - **IFS's Self is the opposite kind of construct.** Schwartz's Self
-  ([LIT-tmpgn0w6](../literature.d/LIT-tmpgn0w6.md), read in [NOTE-tmpbat23](../notes.d/NOTE-tmpbat23.md); the book's first chapter in
-  [NOTE-tmpfag1y](../notes.d/NOTE-tmpfag1y.md)) is innate, "always right there if our parts let it in", and
+  ([LIT-579](../literature.d/LIT-579.md), read in [NOTE-453](../notes.d/NOTE-453.md); the book's first chapter in
+  [NOTE-457](../notes.d/NOTE-457.md)) is innate, "always right there if our parts let it in", and
   it has qualities, the eight Cs: "calmness, curiosity, clarity, compassion,
   confidence, creativity, courage, and connectedness". It is "an active
   healing presence", not "a passive witness state", and it leads the parts.
@@ -241,5 +241,5 @@ clearly enough to compare, and its empirical half is unsupported here.
 - Zahavi's *Subjectivity and Selfhood* ([LIT-463](../literature.d/LIT-463.md)) and Metzinger's *Being No
   One* ([LIT-467](../literature.d/LIT-467.md)) are filed unread. Either could decide the minimal-self
   question above. Metzinger's own précis of the book is now read
-  ([LIT-tmp7qvyd](../literature.d/LIT-tmp7qvyd.md)); it roots the self-model in non-linguistic bodily input and
+  ([LIT-568](../literature.d/LIT-568.md)); it roots the self-model in non-linguistic bodily input and
   leaves out the book's case studies, so it does not decide the question.

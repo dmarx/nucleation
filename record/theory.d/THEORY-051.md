@@ -24,9 +24,9 @@ history:
   date: '2026-10-03'
   note: >-
     The batch on self-governance (2026-10-03) adds two contrasts to
-    Connections: Metzinger's précis (LIT-tmp7qvyd), on which the
+    Connections: Metzinger's précis (LIT-568), on which the
     perspective is itself modelled and what changes is the transparency of
-    self-model content, and IFS (LIT-tmpgn0w6), whose step-back procedure
+    self-model content, and IFS (LIT-579), whose step-back procedure
     targets a Self that is innate and has qualities rather than a
     contentless perspective. The claim is unchanged.
 tags:
@@ -51,8 +51,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this extends and the conceptual account of the self -->
-<!-- inactive-ok-file: THEORY-tmpaa365 — Proposed; the self-model account, named in Connections, nothing here rests on it -->
-<!-- inactive-ok-file: NOTE-tmpfag1y — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast -->
+<!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast -->
 
 # THEORY-051: Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering
 
@@ -142,7 +142,7 @@ is borrowed.
   loosens while the minimal self is untouched. If the change reached the
   minimal self, [LIT-066](../literature.d/LIT-066.md)'s "loss of basic self" is the form it would take.
   That is the record's reading, and no source tests it.
-- **Metzinger's précis ([LIT-tmp7qvyd](../literature.d/LIT-tmp7qvyd.md), [NOTE-tmpl0qw5](../notes.d/NOTE-tmpl0qw5.md); [THEORY-tmpaa365](THEORY-tmpaa365.md))**
+- **Metzinger's précis ([LIT-568](../literature.d/LIT-568.md), [NOTE-460](../notes.d/NOTE-460.md); [THEORY-064](THEORY-064.md))**
   describes the same change in other terms. What is experienced as the self
   is content, a self-model that cannot be recognised as a model, and the
   perspective is itself modelled. Transparency is graded, "inversely
@@ -157,7 +157,7 @@ is borrowed.
   loss of phenomenal selfhood, which is what [LIT-066](../literature.d/LIT-066.md)'s reports of
   "loss of basic self" would look like. The reading is the record's;
   neither source cites the other.
-- **IFS ([LIT-tmpgn0w6](../literature.d/LIT-tmpgn0w6.md), [NOTE-tmpbat23](../notes.d/NOTE-tmpbat23.md); [NOTE-tmpfag1y](../notes.d/NOTE-tmpfag1y.md))** has a procedure
+- **IFS ([LIT-579](../literature.d/LIT-579.md), [NOTE-453](../notes.d/NOTE-453.md); [NOTE-457](../notes.d/NOTE-457.md))** has a procedure
   close to defusion, asking parts to "step back" or "unblend", and a
   different account of what is reached. IFS's Self is innate, needs no
   development, and has qualities, the eight Cs, from calmness to

@@ -2,15 +2,15 @@
 
 # Lines of explanation
 
-5 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+6 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
 ## agency
 
-### From A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
 
-- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
+- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
 
 ## contextuality
@@ -23,12 +23,33 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also extends THEORY-016
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
 
+## individuation
+
+### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
+
+- [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
+  - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
 ## motivation
 
-### From A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
 
-- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with the person's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
+- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+## philosophy-of-science
+
+### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
+
+- [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
+  - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
+## probabilistic-modeling
+
+### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
+
+- [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
+  - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
 
 ## psychopathology-and-treatment
 
@@ -64,3 +85,10 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
     - [THEORY-019](../record/theory.d/THEORY-019.md) — Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet *(Proposed)*
+
+## self-governance
+
+### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
+
+- [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
+  - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*

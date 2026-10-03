@@ -4,7 +4,7 @@
 
 **game-theory**.
 
-6 of 442 NOTE documents. Back to the [full index](../README.md).
+7 of 470 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [NOTE-408](../../../record/notes.d/NOTE-408.md) | Curry 2016, morality as cooperation: a problem-centred approach | The founding statement of morality-as-cooperation. Nonzero-sum game theory gives seven cooperation problems (kin, coordination, exchange, hawk and dove contest displays, division, possession), and their solutions are said to be what morality is. Each domain gets an animal case, a human case and quotations from moral philosophers. No data are reported. The sharpest content is the predictions on pp. 39–40: non-cooperative behaviour is morally neutral, no culture moralizes "aesthetics or nutrition", and religious morality and food taboos will turn out cooperative. | Read |
 | [NOTE-409](../../../record/notes.d/NOTE-409.md) | Five Rules for the Evolution of Cooperation | A four-page review. Five mechanisms, each with a b/c threshold derived from a 2×2 game: kin selection r > c/b, direct reciprocity w > c/b, indirect reciprocity q > c/b, network reciprocity b/c > k, group selection b/c > 1 + n/m. For kin, network and group mechanisms the same condition makes cooperators ESS, risk-dominant and advantageous; for the reciprocities RD and AD need more. Derivations are in the unread supplement; the review itself proves nothing. | Read |
 | [NOTE-411](../../../record/notes.d/NOTE-411.md) | The Evolution of Cooperation | TIT FOR TAT won Axelrod's two tournaments (14 entries plus random, 200 moves; 62 entries, expected 200 moves) and went to fixation in an ecological replay. Against it, only ALL D or alternation need be checked, so no strategy does better iff w ≥ (T−R)/(T−P) and w ≥ (T−R)/(R−S). ALL D is stable for all w; kinship or a cluster with enough in-cluster interactions lets reciprocity in, and a nice stable strategy resists clusters. ALL C ties with TIT FOR TAT, so stability is neutral, not strict. | Read |
+| [NOTE-443](../../../record/notes.d/NOTE-443.md) | Précis of Breakdown of Will | Hyperbolic discounting makes preference reverse with delay alone, so a person is a population of interests that forestall one another. Will is the recursive bundling of choices by treating each as a precedent, which gives an intertemporal repeated prisoner's dilemma and makes Kavka's toxin rational to drink. The same recursion predicts legalism, "lapse districts", motivated misperception and compulsive over-control, and premature satiation of appetite limits what will can do for emotional reward. | Read |

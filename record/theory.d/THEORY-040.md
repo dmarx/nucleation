@@ -54,7 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-tmpc3zog THEORY-tmpxn1af — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-065 THEORY-076 — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
 
 # THEORY-040: A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
 
@@ -105,8 +105,8 @@ The first half of the claim follows from the form of a snapshot condition, and a
   which is the circularity this account records from [LIT-296](../literature.d/LIT-296.md).
 
 - **Korsgaard takes the first option for activity and not for deep
-  responsibility** ([LIT-tmpnjho3](../literature.d/LIT-tmpnjho3.md), read first-hand in [NOTE-tmpcjj10](../notes.d/NOTE-tmpcjj10.md);
-  [THEORY-tmpc3zog](THEORY-tmpc3zog.md)). Her account is structural by design. What makes an agent
+  responsibility** ([LIT-587](../literature.d/LIT-587.md), read first-hand in [NOTE-455](../notes.d/NOTE-455.md);
+  [THEORY-065](THEORY-065.md)). Her account is structural by design. What makes an agent
   active is conformity to the constitutive norms: "It is the content of the
   principles we follow, not the metaphysical story about how we came to
   follow them, that explains the activity implication. It does not matter
@@ -124,8 +124,8 @@ The first half of the claim follows from the form of a snapshot condition, and a
   less the person's own, and reports that he said no, "this would be just as
   much the person's own intention, and the person's own action, as any
   other" (ms. p. 21). That is second-hand, from a seminar exchange of 2009.
-  It fits his model of self-governance over time ([LIT-tmp5j4f4](../literature.d/LIT-tmp5j4f4.md),
-  [THEORY-tmpxn1af](THEORY-tmpxn1af.md)), which is wholly structural: present standpoints and the
+  It fits his model of self-governance over time ([LIT-567](../literature.d/LIT-567.md),
+  [THEORY-076](THEORY-076.md)), which is wholly structural: present standpoints and the
   links of intention between them, with no condition on how the plans were
   acquired. That essay does not discuss manipulation.
 - **Durability, a third kind of condition.** Korsgaard then grants that her

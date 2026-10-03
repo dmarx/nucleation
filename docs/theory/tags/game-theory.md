@@ -6,8 +6,8 @@
 
 **Game theory** — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
-0 of 58 THEORY documents. Back to the [full index](../README.md).
+1 of 77 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-067](../../../record/theory.d/THEORY-067.md) | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one | Ainslie's précis ([LIT-586](../../../record/literature.d/LIT-586.md)): hyperbolic discounting makes a smaller, sooner reward temporarily preferred, so successive "interests" conflict as in a repeated prisoner's dilemma. Treating a choice as a precedent bundles the series, and summed hyperbolic curves favour the larger, later rewards; a lapse costs credibility. Will is that recursion, not an organ. Schelling ([LIT-602](../../../record/literature.d/LIT-602.md)) describes the same divided chooser from the side of tactics: we manage our later selves as we manage other people. The mathematics of bundling is sound; that willpower works this way is argued, and the précis concedes it is hard to test directly. It is a claim about how control is achieved, not about whose control is self-governance. | Proposed |

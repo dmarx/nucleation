@@ -39,9 +39,9 @@ history:
 - version: 4
   date: '2026-10-03'
   note: >-
-    The record now holds THEORY documents on these questions: THEORY-tmpm2o1r
+    The record now holds THEORY documents on these questions: THEORY-072
     (organisms against dissipative structures) as its first answer to the
-    demarcation question, and THEORY-tmplg7y1 (minimal agency). The bearing
+    demarcation question, and THEORY-071 (minimal agency). The bearing
     line names them in place of saying none exists.
 date: '2026-09-26'
 summary: >-
@@ -59,7 +59,7 @@ summary: >-
   commitments (§4.2: García-Valdecasas's Aristotelian case for Deacon over
   the Organizational Approach).
 ---
-<!-- inactive-ok-file: THEORY-tmpm2o1r THEORY-tmplg7y1 — Proposed; named as the accounts that now bear on this paper's questions, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; named as the accounts that now bear on this paper's questions, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-529 LIT-536 — Deferred, no lawful full text; named as the unread accounts that claim a line, not leaned on -->
 
 # NOTE-094: Nahas & Sachs — What's at stake in naturalizing teleology
@@ -134,7 +134,7 @@ Metatheoretical analysis: survey the accounts (§2), distinguish the orientation
 
 ## Bearing on the record
 
-- Two THEORY documents now bear on this paper's questions. [THEORY-tmpm2o1r](../theory.d/THEORY-tmpm2o1r.md) is the record's first answer to the demarcation question: organisms differ from dissipative structures such as a candle flame by closure among several differentiated constraints that produce one another at different time scales, not by far-from-equilibrium self-maintenance or by circular self-maintenance alone. [THEORY-tmplg7y1](../theory.d/THEORY-tmplg7y1.md) is an account of minimal agency: individuality, interactional asymmetry and self-generated normativity. This paper supplies the first check on both: state which project the account serves, and do not treat a model's failure to demarcate as a metaphysical verdict (or the reverse).
+- Two THEORY documents now bear on this paper's questions. [THEORY-072](../theory.d/THEORY-072.md) is the record's first answer to the demarcation question: organisms differ from dissipative structures such as a candle flame by closure among several differentiated constraints that produce one another at different time scales, not by far-from-equilibrium self-maintenance or by circular self-maintenance alone. [THEORY-071](../theory.d/THEORY-071.md) is an account of minimal agency: individuality, interactional asymmetry and self-generated normativity. This paper supplies the first check on both: state which project the account serves, and do not treat a model's failure to demarcate as a metaphysical verdict (or the reverse).
 - For ML practice: nothing direct, and no ANTH document is affected. There is a transferable caution for debates over whether ML systems are "agents" or "goal-directed". A graded, field-relative measure like McShea's applies to artefacts by design, and its success as a measure would not settle intrinsic agency. This is my extrapolation; the paper does not discuss AI.
 - NOTE-094 should add McShea's field theory and the §4.1 targets, soften "dissolves some disputes" to one dispute, and record that the read was of the accepted manuscript.
 

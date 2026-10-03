@@ -2,7 +2,7 @@
 
 # Lines of work
 
-17 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+28 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -13,15 +13,28 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
+### From Shared Agency: A Planning Theory of Acting Together
+
+- [LIT-488](../record/literature.d/LIT-488.md) — Shared Agency: A Planning Theory of Acting Together *(Deferred)*
+  - [LIT-567](../record/literature.d/LIT-567.md) — A Planning Agent's Self-Governance over Time *(Active)* — also extends LIT-593, LIT-596
+- [LIT-593](../record/literature.d/LIT-593.md) — Intention, Plans, and Practical Reason *(Deferred)*
+- [LIT-596](../record/literature.d/LIT-596.md) — Three Theories of Self-Governance *(Deferred)*
+
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
 - [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
   - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
 
-### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+### From The Sources of Normativity
 
-- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
-  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+- [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+
+### From Self-Constitution: Agency, Identity, and Integrity
+
+- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
+  - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
+- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
 
 ## anthology-candidate
 
@@ -29,6 +42,34 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+## behavioral-integration
+
+### From The Society of Mind
+
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+  - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
+
+### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
+
+- [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
+  - [LIT-563](../record/literature.d/LIT-563.md) — HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python *(Active)*
+
+### From The Time Course of Perceptual Choice: The Leaky, Competing Accumulator Model
+
+- [LIT-565](../record/literature.d/LIT-565.md) — The Time Course of Perceptual Choice: The Leaky, Competing Accumulator Model *(Active)*
+  - [LIT-569](../record/literature.d/LIT-569.md) — The Physics of Optimal Decision Making: A Formal Analysis of Models of Performance in Two-Alternative Forced-Choice Tasks *(Active)*
+  - [LIT-605](../record/literature.d/LIT-605.md) — An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement *(Active)*
+
+### From Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
+
+- [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
+  - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
+
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## cognition
 
@@ -51,10 +92,37 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
+### From Being No One: The Self-Model Theory of Subjectivity
+
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+  - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
+
 ### From The Emotions
 
 - [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Deferred)*
   - [LIT-540](../record/literature.d/LIT-540.md) — Impulsive action: emotional impulses and their control *(Active)*
+
+### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
+
+- [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
+  - [LIT-563](../record/literature.d/LIT-563.md) — HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python *(Active)*
+
+### From Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
+
+- [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
+  - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
+
+## complex-systems
+
+### From An Organizational Account of Biological Functions
+
+- [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
+  - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
+
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## consciousness
 
@@ -62,6 +130,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
+
+### From Being No One: The Self-Model Theory of Subjectivity
+
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+  - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ## contextuality
 
@@ -73,6 +146,20 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+
+## embodied-cognition
+
+### From The Extended Mind
+
+- [LIT-097](../record/literature.d/LIT-097.md) — The Extended Mind *(Active)*
+  - [LIT-403](../record/literature.d/LIT-403.md) — Intrinsic content, active memory and the extended mind *(Active)*
+  - [LIT-421](../record/literature.d/LIT-421.md) — Foreword *(Active)*
+    - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also extends LIT-097
+
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## emotion-and-affect
 
@@ -99,6 +186,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
   - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
 
+### From The Sources of Normativity
+
+- [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+
 ## individuation
 
 ### From The Society of Mind
@@ -106,12 +198,31 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
+### From Life as we know it
+
+- [LIT-526](../record/literature.d/LIT-526.md) — Life as we know it *(Active)*
+  - [LIT-598](../record/literature.d/LIT-598.md) — The Markov blanket trick: On the scope of the free energy principle and active inference *(Active)*
+  - [LIT-603](../record/literature.d/LIT-603.md) — The Emperor's New Markov Blankets *(Active)*
+
 ## information-theory
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+## learning-and-conditioning
+
+### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
+
+- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
+- alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
+- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Deferred)*
+
+### From Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
+
+- [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
+  - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
 
 ## learning-theory
 
@@ -169,6 +280,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
 
+### From Being No One: The Self-Model Theory of Subjectivity
+
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+  - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
+
 ### From Toward a Philosophical Structure for Psychiatry
 
 - [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
@@ -195,10 +311,74 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
   - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
 
-### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+## narrative-unity
 
-- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
-  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+### From Narrative Identity
+
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+  - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
+
+## natural-sciences
+
+### From An Organizational Account of Biological Functions
+
+- [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
+  - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
+
+### From A theoretical model of phase transitions in human hand movements
+
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+  - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
+
+## neuroscience
+
+### From Being No One: The Self-Model Theory of Subjectivity
+
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+  - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
+
+### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
+
+- [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
+  - [LIT-563](../record/literature.d/LIT-563.md) — HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python *(Active)*
+
+### From The Time Course of Perceptual Choice: The Leaky, Competing Accumulator Model
+
+- [LIT-565](../record/literature.d/LIT-565.md) — The Time Course of Perceptual Choice: The Leaky, Competing Accumulator Model *(Active)*
+  - [LIT-569](../record/literature.d/LIT-569.md) — The Physics of Optimal Decision Making: A Formal Analysis of Models of Performance in Two-Alternative Forced-Choice Tasks *(Active)*
+  - [LIT-605](../record/literature.d/LIT-605.md) — An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement *(Active)*
+
+### From Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
+
+- [LIT-580](../record/literature.d/LIT-580.md) — Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control *(Active)*
+  - [LIT-584](../record/literature.d/LIT-584.md) — Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation *(Active)*
+
+## personhood
+
+### From The Sources of Normativity
+
+- [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+
+### From Self-Constitution: Agency, Identity, and Integrity
+
+- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
+  - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
+- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
+
+## phenomenal-unity
+
+### From Being No One: The Self-Model Theory of Subjectivity
+
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+  - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
+
+## philosophy-of-biology
+
+### From An Organizational Account of Biological Functions
+
+- [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
+  - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
 
 ## philosophy-of-language
 
@@ -225,6 +405,31 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
   - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
+
+### From An Organizational Account of Biological Functions
+
+- [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
+  - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
+
+## probabilistic-modeling
+
+### From Life as we know it
+
+- [LIT-526](../record/literature.d/LIT-526.md) — Life as we know it *(Active)*
+  - [LIT-598](../record/literature.d/LIT-598.md) — The Markov blanket trick: On the scope of the free energy principle and active inference *(Active)*
+  - [LIT-603](../record/literature.d/LIT-603.md) — The Emperor's New Markov Blankets *(Active)*
+
+### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
+
+- [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
+  - [LIT-563](../record/literature.d/LIT-563.md) — HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python *(Active)*
+
+## psychometrics
+
+### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
+
+- [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
+  - [LIT-563](../record/literature.d/LIT-563.md) — HDDM: Hierarchical Bayesian Estimation of the Drift-Diffusion Model in Python *(Active)*
 
 ## psychopathology-and-treatment
 
@@ -268,12 +473,49 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
 
-## self-and-personhood
+## self
+
+### From Being No One: The Self-Model Theory of Subjectivity
+
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+  - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
 
 - [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
   - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Deferred)*
+- alongside: [LIT-606](../record/literature.d/LIT-606.md) — Thine Own Self: True Self-Concept Accessibility and Meaning in Life *(Active)*
+
+### From Narrative Identity
+
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+  - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
+
+## self-governance
+
+### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+- [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
+  - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
+
+### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
+
+- [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
+  - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Deferred)*
+- alongside: [LIT-606](../record/literature.d/LIT-606.md) — Thine Own Self: True Self-Concept Accessibility and Meaning in Life *(Active)*
+
+### From The Sources of Normativity
+
+- [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+
+### From Self-Constitution: Agency, Identity, and Integrity
+
+- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
+  - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
+- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
 
 ## social-science
 
@@ -311,6 +553,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
   - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
+- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Deferred)*
+- alongside: [LIT-606](../record/literature.d/LIT-606.md) — Thine Own Self: True Self-Concept Accessibility and Meaning in Life *(Active)*
+
+### From Narrative Identity
+
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+  - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
 
 ## society-and-governance
 
@@ -324,3 +573,22 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
   - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
   - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
+
+## thermodynamics
+
+### From An Organizational Account of Biological Functions
+
+- [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
+  - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
+
+## well-being
+
+### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
+
+- [LIT-558](../record/literature.d/LIT-558.md) — The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior *(Active)*
+  - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
+
+### From Narrative Identity
+
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+  - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*

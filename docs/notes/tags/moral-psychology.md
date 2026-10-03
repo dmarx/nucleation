@@ -4,7 +4,7 @@
 
 **moral-psychology**.
 
-15 of 442 NOTE documents. Back to the [full index](../README.md).
+15 of 470 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

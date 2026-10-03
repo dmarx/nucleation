@@ -23,7 +23,7 @@ history:
   date: '2026-10-03'
   note: >-
     The candidate THEORY in the bearing section is now covered:
-    THEORY-tmpm2o1r, sourced to the organisational readings, cites this
+    THEORY-072, sourced to the organisational readings, cites this
     lecture for the dissipative structures.
 date: '2026-10-02'
 summary: >-
@@ -37,7 +37,7 @@ summary: >-
   exchange with the outside. The microscopic §§6–7 is a programme, linked
   to macroscopic thermodynamics only "in the linear region".
 ---
-<!-- inactive-ok-file: THEORY-tmpm2o1r — Proposed; named as the account that now covers this note's candidate, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-072 — Proposed; named as the account that now covers this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-537 — Deferred, no lawful full text; Glansdorff & Prigogine, cited as the source the lecture defers its proofs to, and for its own p. 108 sentence quoted in Cross & Hohenberg -->
 <!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, cited as the source of the Brusselator chapter the lecture defers to -->
 <!-- inactive-ok-file: THEORY-026 — Proposed; named to say this lecture does not bear on it -->
@@ -258,7 +258,7 @@ bifurcation depends on which fluctuation happened. So the lecture locates
   dissipative structure in Prigogine's sense is necessary but not sufficient
   for being alive or goal-directed", would need the parallel filings on the
   life-as-dissipation literature to source it. Those filings now source
-  [THEORY-tmpm2o1r](../theory.d/THEORY-tmpm2o1r.md), which holds that organisms differ from dissipative
+  [THEORY-072](../theory.d/THEORY-072.md), which holds that organisms differ from dissipative
   structures by closure among differentiated constraints, and cites this
   lecture for the structures themselves.
 - **No ML instruction.** Nothing here belongs in the anthology.
