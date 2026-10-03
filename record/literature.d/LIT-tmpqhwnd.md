@@ -1,0 +1,101 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpcorcs](../notes.d/NOTE-tmpcorcs.md)); worth reading as the account of why averaging task vectors loses information: most of a fine-tuning update is small and redundant, and the influential coordinates of different tasks often disagree in sign, so a plain mean shrinks them. TIES-Merging keeps the top 20% of each task vector by magnitude, elects a sign per coordinate by total mass, and averages only the agreeing values. With a validation set it beats task arithmetic, Fisher merging and RegMean on all five settings (by 0.7 to 3.6 points); without one it falls below task arithmetic on T5-base (69.7 against 73.2 in Table 1), which the introduction''s summary of results leaves out. With the multitask model''s signs it reaches 72.0 against 73.1 for multitask training, which is the paper''s strongest evidence that sign is the bottleneck.'
+title: 'TIES-Merging: Resolving Interference When Merging Models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the arXiv HTML of v2, main text and Appendices A–C.
+    The arXiv comment gives "Published at NeurIPS 2023", and Semantic
+    Scholar lists it there (DOI 10.52202/075280-0310, the NeurIPS
+    proceedings). Filed with the owner's batch on mode connectivity and
+    model merging (ADR-027). Not held in the Anthology of the SOTA: a grep
+    of its record for the arXiv id, "TIES-Merging", "Resolving
+    Interference" and "Yadav" found nothing; the anthology holds no task
+    arithmetic paper either. It names model soups (ANTH-LIT-675).
+tags:
+- loss-landscapes
+- anthology-candidate
+date: '2026-10-03'
+published: '2023-06-02'
+arxiv: '2306.01708'
+first_author: 'Yadav'
+keywords:
+- 'model merging'
+- 'task vectors'
+- 'task arithmetic'
+- 'interference'
+- 'sign conflict'
+- 'parameter trimming'
+- 'multitask learning'
+- 'parameter-efficient fine-tuning'
+implementations:
+- 'https://github.com/prateeky2806/ties-merging'
+summary: >-
+  Yadav, Tam, Choshen, Raffel & Bansal (2023), NeurIPS 2023. Merging
+  fine-tuned models by averaging or adding task vectors suffers from two
+  kinds of interference: redundant small updates dilute influential ones,
+  and influential updates of different tasks disagree in sign. TIES-Merging
+  trims each task vector to its top-k% magnitudes, elects a sign per
+  parameter by total mass, and averages only values agreeing with it. It
+  beats averaging, task arithmetic, Fisher merging and RegMean across (IA)³,
+  T5 and ViT settings when a validation set tunes it, degrades more slowly
+  as tasks are added, and with oracle signs nearly matches multitask
+  training.
+---
+
+# LIT-tmpqhwnd: TIES-Merging: Resolving Interference When Merging Models
+
+Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel and Mohit Bansal (2023), NeurIPS 2023 — [ARXIV-2306.01708](https://arxiv.org/abs/2306.01708)
+
+## Key takeaways
+
+- **Two kinds of interference.** Keeping only the top 20% of a task vector's
+  entries by magnitude loses almost nothing (Fig. 3), so most of the update
+  is redundant, and averaging it with others drags influential values down.
+  Among the influential entries that remain, signs conflict between models,
+  and conflicts rise with the number of models merged (Fig. 4). They occur
+  even among ten checkpoints of the same task (App. B.4).
+- **Trim, elect, merge.** For each parameter, keep values from the top-k%
+  of each task vector, set the merged sign to the sign of their sum, average
+  only the kept values with that sign ("disjoint mean"), and add λ times the
+  result to the pretrained weights (Algorithm 1). Every step matters in the
+  ablation; the disjoint mean and the scale λ matter most (Table 12).
+- **Results, with care.** Tuned on a validation set it beats the strongest
+  baseline in every setting of Table 1: (IA)³ +2.5, T5-base +0.7, T5-large
+  +3.6, ViT-B/32 +1.8, ViT-L/14 +1.5. Without validation, using k = 20 and
+  λ = 1, it wins on T5-large and both ViTs and loses to task arithmetic on
+  T5-base. With the signs of a multitask model it reaches 72.0 against 73.1
+  for multitask training on (IA)³ (Table 11).
+
+## Standing in the record
+
+Filed with the owner's batch on mode connectivity and model merging, under
+`loss-landscapes` ([ADR-027](../decisions.d/ADR-027.md)). It is the batch's merging work that leans least
+on connectivity. Its argument is about coordinates: which parameter updates
+are kept, and with which sign. Its only landscape premise is the shared one,
+that models fine-tuned from one pretrained model "effectively share a part
+of the optimization trajectory, and can therefore often be merged without
+accounting for permutation symmetry" (§2). It cites Frankle et al.
+([LIT-tmp3owu9](LIT-tmp3owu9.md)) for that premise and Entezari et al. ([LIT-tmp2uwzo](LIT-tmp2uwzo.md)) and Git
+Re-Basin ([LIT-tmpd6bma](LIT-tmpd6bma.md)) for the contrasting case of networks trained from
+scratch. It builds on none of their designs and measures none of them, so
+no relation is declared. [ADR-027](../decisions.d/ADR-027.md) kept model merging under `loss-landscapes`
+until a merging work arrives that does not rest on connectivity; this paper
+comes close, and the report to the owner says so.
+
+It is an instruction for machine-learning practice ("trim, elect, merge,
+k = 20, λ = 1"), which is the reason for the `anthology-candidate` flag. The
+anthology has model soups ([ANTH-LIT-675](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-675.md)) and a merging-in-pretraining study
+([ANTH-LIT-684](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-684.md)) but no task-arithmetic or task-vector paper, so this would
+arrive there without its main baseline.
+
+Within the batch, Gueta et al. ([LIT-tmp9gt28](LIT-tmp9gt28.md)), from an overlapping author
+group, is cited among the works showing separately trained weights can be
+interpolated. ZipIt! ([LIT-tmpgqi24](LIT-tmpgqi24.md)) cites it as shared-initialisation
+merging, the setting ZipIt! leaves. The two reach a similar diagnosis from
+opposite sides: averaging fails where the models' parameters do not
+correspond, whether because features differ (ZipIt!) or because updates
+conflict in sign (here).
