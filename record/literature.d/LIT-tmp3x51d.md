@@ -1,0 +1,79 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from Crossref and from the two papers that analyse it, not read. The article is closed access at SAGE (Review of Educational Research), and Unpaywall finds no open copy. A web search found it only on Scribd, a third-party upload, which was not opened. Its authors'' reply to Deci, Koestner and Ryan, Cameron, Banko and Pierce (2001, [LIT-tmpyhay6](LIT-tmpyhay6.md)), is free in PubMed Central but could not be reached here either, so it is also Deferred. A reader with SAGE access could promote this.'
+title: 'Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered, not read. Crossref: Review of Educational Research
+    64(3):363–423, published September 1994. Filed Deferred, as the
+    record files a work no lawful copy of could be read, because Deci,
+    Koestner and Ryan (LIT-tmp58ot3) reanalyse it study by study and the
+    record's relations need it as their object. Not held in the Anthology
+    of the SOTA.
+tags:
+- motivation
+- social-science
+date: '2026-10-03'
+published: '1994-09-01'
+doi: '10.3102/00346543064003363'
+first_author: 'Cameron'
+keywords:
+- 'meta-analysis'
+- 'reinforcement'
+- 'reward'
+- 'intrinsic motivation'
+- 'cognitive evaluation theory'
+implementations: []
+summary: >-
+  Cameron & Pierce (1994), Review of Educational Research 64(3):363–423. A
+  hierarchical meta-analysis of about 96 experiments concluding that
+  rewards do not, overall, decrease intrinsic motivation; that verbal
+  rewards increase it; and that the only reliable negative effect is on
+  free-choice time when expected tangible rewards are given for merely
+  doing a task. It called for "abandoning cognitive evaluation theory".
+  Unread: registered from the account of it in [LIT-tmp58ot3](LIT-tmp58ot3.md) and the
+  abstract of [LIT-tmpyhay6](LIT-tmpyhay6.md).
+compared_against:
+- LIT-tmp58ot3
+---
+<!-- inactive-ok-file: LIT-tmpyhay6 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
+
+# LIT-tmp3x51d: Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
+
+Judy Cameron and W. David Pierce (1994), *Review of Educational Research* 64(3):363–423 — DOI-10.3102/00346543064003363
+
+## Key takeaways
+
+*Registered from the two papers that analyse it, not a reading.*
+
+- **As Deci, Koestner and Ryan report it** ([LIT-tmp58ot3](LIT-tmp58ot3.md), p. 632): no overall
+  reward effect on free choice and a small enhancement on attitudes (d =
+  0.14); verbal rewards enhance both (0.38, 0.39); tangible rewards undermine
+  free choice (−0.21) but not attitudes; expected tangible rewards undermine
+  free choice (−0.25); task-contingent rewards undermine free choice (−0.23
+  after outliers); performance-contingent rewards do not affect free choice
+  and enhance attitudes (0.19). It concluded there was no reason not to use
+  rewards in education and called for "abandoning cognitive evaluation
+  theory" (their p. 396, as quoted).
+- **As its authors' 2001 abstract restates it** ([LIT-tmpyhay6](LIT-tmpyhay6.md)): Cameron and
+  Pierce "concluded that negative effects of reward were limited and could be
+  easily prevented in applied settings".
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the rival meta-analysis to
+Deci, Koestner and Ryan ([LIT-tmp58ot3](LIT-tmp58ot3.md)) in the dispute over whether rewards
+undermine intrinsic motivation. That paper is `compared_against` this one.
+The authors' later reply, Cameron, Banko and Pierce (2001), [LIT-tmpyhay6](LIT-tmpyhay6.md), is
+also Deferred: it is free in PubMed Central, but PMC's challenge pages kept it
+out of reach here. This entry is kept because the 1994 paper is the one Deci
+et al. reanalyse and the one the literature cites.
+
+`Deferred` because it was not read. Nothing in the record should lean on it
+beyond what Deci et al. say about it.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

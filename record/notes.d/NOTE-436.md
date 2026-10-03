@@ -28,6 +28,8 @@ summary: >-
   forms. Causal direction is open. It recommends experience sampling and
   multi-informant measures over global self-report.
 ---
+<!-- inactive-ok-file: THEORY-tmpdbe64 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-tmpai2jq — Proposed; named in Connections, nothing here rests on it -->
 
 <!-- inactive-ok-file: LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
@@ -166,6 +168,14 @@ All reported from cited work; the review runs no analysis of its own.
   homeostatic, interoceptive body maps. Cardiac vagal control is a
   homeostatic variable of that kind. This review uses it only as a marker
   of regulatory capacity and does not cite that literature.
+- **Self-determination theory ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md)).** In the abstract, flexibility
+  includes being "committed to behaviors that are congruent with deeply held
+  values".
+  That congruence is what SDT calls integrated regulation: a regulation
+  "brought into congruence with one's other values and needs"
+  ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), p. 73). SDT adds the claim that how a value was acquired,
+  under control or under autonomy support, decides whether it is integrated
+  or only introjected ([THEORY-tmpai2jq](../theory.d/THEORY-tmpai2jq.md)). The review does not cite SDT.
 
 ## Bearing on the record
 
@@ -178,6 +188,7 @@ All reported from cited work; the review runs no analysis of its own.
   construct it is meant to measure. Any THEORY sourced from AAQ correlations
   should cite this caveat.
 - **No ML instruction.** Nothing here belongs in the anthology.
+- Filed, with [LIT-555](../literature.d/LIT-555.md) and [LIT-541](../literature.d/LIT-541.md), as [THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md), Proposed.
 
 ## Limitations
 

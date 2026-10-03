@@ -30,6 +30,8 @@ summary: >-
   mediation in seven trials, and weighted outcome effect sizes (d = .49
   post and .69 follow-up against active treatments).
 ---
+<!-- inactive-ok-file: THEORY-tmpghm0v THEORY-tmp0b06z — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-tmpdbe64 THEORY-tmpgm24m — Proposed; named in Connections as compatible transdiagnostic accounts -->
 
 <!-- inactive-ok-file: LIT-543 LIT-549 LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
@@ -172,6 +174,17 @@ than its actual consequences do.
   theory, except when changing the theory's crucial factor fails to help.
   This review's mediational evidence is the kind of test that argument
   calls for.
+- **Self-determination theory ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md)).** Deci and
+  Ryan's "rigid behavior patterns" that keep people "from dealing with their
+  inner experiences" and "persist into new situations in which they are not
+  needed" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 250) describe experiential avoidance and
+  inflexibility, but SDT traces them to thwarted psychological needs, not to
+  fusion. ACT's values, "chosen qualities of purposive action", correspond to
+  SDT's identified and integrated regulation ([LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), pp. 72–73). This
+  reading records no ACT distinction between values held from guilt or
+  approval and values held volitionally, which is SDT's line between
+  introjection and identification. The two transdiagnostic claims,
+  [THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md) and [THEORY-tmpgm24m](../theory.d/THEORY-tmpgm24m.md), are compatible.
 
 ## Bearing on the record
 
@@ -187,6 +200,8 @@ than its actual consequences do.
   about whether reducing one process moves all symptoms. Neither paper
   addresses the other.
 - **No ML instruction.** Nothing here belongs in the anthology.
+- The model is filed as [THEORY-tmpdbe64](../theory.d/THEORY-tmpdbe64.md), Proposed. Self-as-context is
+  [THEORY-tmp0b06z](../theory.d/THEORY-tmp0b06z.md) (the account) and [THEORY-tmpghm0v](../theory.d/THEORY-tmpghm0v.md) (the treatment claim).
 
 ## Limitations
 

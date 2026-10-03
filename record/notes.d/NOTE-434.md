@@ -28,6 +28,7 @@ summary: >-
   and causal appraisal theories are rejected; descriptive appraisals are
   kept as products of categorization.
 ---
+<!-- inactive-ok-file: THEORY-tmp2gk4g THEORY-tmppzrsd THEORY-tmplvap0 THEORY-tmpx3ps2 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 <!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
@@ -225,6 +226,8 @@ What it gives is the theory's structure:
   That agreement could ground a THEORY of affect as felt allostatic
   prediction, sourced from all three, which is also proposed in the report.
 - No instruction for machine-learning practice.
+- It is the source of [THEORY-tmpx3ps2](../theory.d/THEORY-tmpx3ps2.md), which rivals [THEORY-tmplvap0](../theory.d/THEORY-tmplvap0.md). With
+  [LIT-388](../literature.d/LIT-388.md) it sources [THEORY-tmp2gk4g](../theory.d/THEORY-tmp2gk4g.md), and with [LIT-540](../literature.d/LIT-540.md) [THEORY-tmppzrsd](../theory.d/THEORY-tmppzrsd.md).
 
 ## Limitations
 

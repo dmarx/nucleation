@@ -46,6 +46,8 @@ summary: >-
   failures. The 1971 hierarchy gets one sentence, and Frankfurt's later
   replies (decisive commitment, then "satisfaction") get one footnote.
 ---
+<!-- inactive-ok-file: LIT-197 LIT-117 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-tmpai2jq THEORY-tmpk0q6m — Proposed; the SDT accounts named in Connections, nothing here rests on them -->
 
 # NOTE-267: Personal Autonomy
 
@@ -146,6 +148,7 @@ All attributions are the entry's own; section or note numbers are given.
 - **Constitutivism ([LIT-117](../literature.d/LIT-117.md)).** Note 15's candidate regress-stopper, "the desire to be a self-governing agent" as the constitutive aim of agency (Korsgaard for, Velleman with reservations), is the constitutivist move that Enoch's "Agency, Shmagency" attacks. [LIT-117](../literature.d/LIT-117.md) is Deferred and unread, so the link is to its title and abstract only.
 - **Adaptive preferences and manipulation ([LIT-202](../literature.d/LIT-202.md)).** Pettigrew's criterion (space and resources for free agency in forming a preference) is a historical, mechanism-based condition. It is exactly the kind of supplement that §3 says faces a circularity worry. Per [NOTE-144](NOTE-144.md) it also uses a Frankfurt-style actualist point: how a preference was actually formed counts, not how it would otherwise have been formed.
 - **AI and free will ([LIT-197](../literature.d/LIT-197.md), Deferred).** From its abstract, it argues that AI undermines free will through manipulation and a lack of reasons-responsiveness. §2 of this entry supplies the distinction the abstract seems to run together: reasons-responsive autonomy versus incompatibilist free will.
+- **Self-determination theory ([LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md)).** In this entry's classes, SDT's autonomy is coherentist in its 2006 criterion (reflective endorsement "by the whole self", [LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), p. 1560), historical through internalization (a value taken in under control is introjected, under autonomy support integrated; [THEORY-tmpai2jq](../theory.d/THEORY-tmpai2jq.md)), and substantive, since some values are said to be "not integrateable" ([LIT-tmpc4275](../literature.d/LIT-tmpc4275.md), p. 246). Its integrated regulation is the empirical neighbour of the coherentist "integration" account this entry attributes to Arpaly and Schroeder, and it grades autonomy where that account makes it a threshold ([THEORY-tmpk0q6m](../theory.d/THEORY-tmpk0q6m.md)).
 - **Anthology of the SOTA.** No ANTH document mentions autonomy, Frankfurt or free will.
 
 ## Bearing on the record

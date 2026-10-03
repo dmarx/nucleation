@@ -38,6 +38,8 @@ summary: >-
   record. The claim says what the account must choose between, not which
   choice is wrong.
 ---
+<!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: THEORY-tmpai2jq — Proposed; the SDT historical account named in Connections, nothing here rests on it -->
 
 # THEORY-040: A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
 
@@ -77,3 +79,12 @@ The first half of the claim follows from the form of a snapshot condition, and a
 
 - [LIT-294](../literature.d/LIT-294.md) (Robb): the 1969 Frankfurt cases leave identification as one of two compatibilist accounts of responsibility. That makes this objection's reach wider than the hierarchy.
 - The curation entry of 2026-09-29 on Frankfurt records that the resigned-addict amendment of 1994 is reported second-hand and is contradicted in part by Frankfurt's own 2004 text ([LIT-293](../literature.d/LIT-293.md), p. 173).
+- Self-determination theory supplies a historical condition with
+  experimental support: the same regulation is introjected when taken in
+  under control and can be integrated under autonomy support (Deci et al.
+  1994, as reported in [LIT-tmpckq0r](../literature.d/LIT-tmpckq0r.md), pp. 73–74, and [LIT-tmpc4275](../literature.d/LIT-tmpc4275.md),
+  pp. 237–238; [THEORY-tmpai2jq](THEORY-tmpai2jq.md)). Ryan and Deci's own test of autonomy is
+  counterfactual reflective endorsement ([LIT-tmpictnr](../literature.d/LIT-tmpictnr.md), p. 1572), close to
+  Christman's. They do not apply either to manipulation, and their sorting
+  of histories by "autonomy support" uses the notion of autonomy it serves,
+  which is the circularity this account records from [LIT-296](../literature.d/LIT-296.md).

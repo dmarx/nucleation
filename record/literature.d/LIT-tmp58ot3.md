@@ -1,0 +1,111 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp1ywom](../notes.d/NOTE-tmp1ywom.md)), from an OCR of the scanned published article the authors post on selfdeterminationtheory.org; worth reading as the largest meta-analysis of the reward-undermining effect and the evidential base SDT cites for it. Across 128 experiments on interesting tasks, expected tangible rewards undermined free-choice intrinsic motivation (d = −0.36), engagement-, completion- and performance-contingent rewards all did (−0.40, −0.36, −0.28), unexpected and task-noncontingent rewards did not, and positive feedback enhanced it (0.33), though not for children''s free choice. It reanalyses Cameron and Pierce ([LIT-tmp3x51d](LIT-tmp3x51d.md)) study by study. Its categories are CET''s, and the rival authors reply, by the abstract of Cameron, Banko and Pierce ([LIT-tmpyhay6](LIT-tmpyhay6.md), unread), that the negative effects are circumscribed, not pervasive.'
+title: 'A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full (Psychological Bulletin 125(6):627–668, all 42 printed
+    pages: text pp. 627–659, references pp. 659–663, Appendix A, the
+    study-by-study comparison with Cameron and Pierce, pp. 664–667, and
+    Appendix B, p. 668). The copy is the authors' deposit of the
+    published article,
+    https://selfdeterminationtheory.org/SDT/documents/1999_DeciKoestnerRyan_Meta.pdf,
+    a 42-page scan with no text layer. I extracted each page's embedded
+    image and ran Tesseract OCR on it, and read the OCR text; the tables'
+    columns are partly scrambled in it, so table entries are cited only
+    where the prose restates them. Crossref gives the year only, so
+    `published:` is the first of January 1999. The same article is also
+    mirrored on two university course pages; those copies were not used.
+tags:
+- motivation
+- social-science
+- agency
+- philosophy-of-science
+date: '2026-10-03'
+published: '1999-01-01'
+doi: '10.1037/0033-2909.125.6.627'
+url: 'https://selfdeterminationtheory.org/SDT/documents/1999_DeciKoestnerRyan_Meta.pdf'
+first_author: 'Deci'
+keywords:
+- 'meta-analysis'
+- 'extrinsic rewards'
+- 'intrinsic motivation'
+- 'undermining effect'
+- 'cognitive evaluation theory'
+- 'reward contingency'
+- 'free-choice behavior'
+- 'positive feedback'
+- 'overjustification'
+implementations: []
+compared_against:
+- LIT-tmp3x51d
+- LIT-tmpyhay6
+summary: >-
+  Deci, Koestner & Ryan (1999), Psychological Bulletin 125(6):627–668.
+  A hierarchical meta-analysis of 128 experiments (101 with free-choice,
+  84 with self-report measures) on interesting tasks. Tangible rewards
+  undermined free-choice intrinsic motivation (d = −0.34) and
+  self-reported interest (−0.07); expected rewards did, by every
+  task-related contingency; unexpected and task-noncontingent rewards did
+  not; positive feedback enhanced both measures, but not children's free
+  choice. Read as strong support for cognitive evaluation theory and
+  against Eisenberger and Cameron's behavioural account.
+---
+<!-- inactive-ok-file: LIT-tmp3x51d — Deferred: Cameron & Pierce (1994) is unread; the relation is to the analysis as this paper describes it -->
+<!-- inactive-ok-file: LIT-tmpyhay6 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
+
+# LIT-tmp58ot3: A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation
+
+Edward L. Deci, Richard Koestner and Richard M. Ryan (1999), *Psychological Bulletin* 125(6):627–668 — DOI-10.1037/0033-2909.125.6.627
+
+## Key takeaways
+
+- **Tangible rewards undermine intrinsic motivation for interesting tasks**
+  when they are expected and contingent on doing, finishing or doing well at
+  the task. Free choice: engagement-contingent d = −0.40, completion-contingent
+  −0.36 (−0.44 with one outlier removed), performance-contingent −0.28.
+- **They do not when unexpected** (d = 0.01) **or task-noncontingent**
+  (−0.14, not significant).
+- **Positive feedback enhances** free choice (0.33) and self-reported interest
+  (0.31), but for children's free choice the effect was nil (0.11, not
+  significant).
+- **The worst case is the common one.** Performance-contingent rewards that
+  give some people less than the maximum, with a no-feedback control, were
+  the most detrimental of all (d = −0.88, p. 644).
+- **Undermining is not transitory** in children: −0.40 immediately, −0.49
+  within a week, −0.53 after a week (p. 650). Only children were studied with
+  delays.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the evidence SDT's summary
+papers ([LIT-tmpckq0r](LIT-tmpckq0r.md), [LIT-tmpc4275](LIT-tmpc4275.md), [LIT-tmpictnr](LIT-tmpictnr.md)) cite for the
+reward-undermining effect, and as one side of the record's first empirical
+dispute in the `motivation` topic.
+
+**Relations to Cameron and Pierce (1994), [LIT-tmp3x51d](LIT-tmp3x51d.md).**
+
+- `compared_against`: this paper ran the comparison. Its Appendix A lists
+  every study it shares with Cameron and Pierce and says, study by study,
+  whether the coding, control group and effect size match theirs, and
+  Appendix B lists the studies of theirs it excluded and why.
+- **Not declared `corrects`.** This paper says Cameron and Pierce were
+  wrong on specific things. The clearest is Boal and Cummings (1981), which
+  they counted as a rewarded-versus-unrewarded comparison although every
+  group in it was paid (pp. 633, 668). Others are codings in Appendix A and
+  the collapsing of positive and negative feedback in Rosenfield et al.
+  (1980) (p. 655). But the record has read neither Cameron and Pierce nor
+  their reply, so it cannot say which of these charges stand, and declaring
+  `corrects` would take this paper's side. The relation can be revisited
+  when the reply ([LIT-tmpyhay6](LIT-tmpyhay6.md), Deferred) is read.
+
+The reply, [LIT-tmpyhay6](LIT-tmpyhay6.md), records the comparison from the other side
+(`compared_against` this paper); by its abstract it finds negative effects
+only for tangible, expected rewards "loosely tied to level of performance".
+Neither relation says which overall conclusion is right.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

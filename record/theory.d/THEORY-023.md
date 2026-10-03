@@ -40,6 +40,7 @@ summary: >-
   permanent and which way the prior leans. This says nothing about whether
   any AI is conscious.
 ---
+<!-- inactive-ok-file: THEORY-tmp2gk4g — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
 # THEORY-023: Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer
 
@@ -84,3 +85,7 @@ The claim is the record's synthesis across the four. Birch and Seth state its tw
 - [LIT-159](../literature.d/LIT-159.md) and [LIT-216](../literature.d/LIT-216.md) (Schwitzgebel): the same liberality pressure from the materialist side. Any criterion generous enough for rabbits and aliens credits the United States.
 - [LIT-185](../literature.d/LIT-185.md): a defence of IIT against the expander-grid objection, which Schwitzgebel cites against IIT's application to AI.
 - [LIT-096](../literature.d/LIT-096.md) (Nagel): the definition of consciousness that Birch and Seth share.
+
+[THEORY-tmp2gk4g](THEORY-tmp2gk4g.md) locates this deadlock for affect. On Barrett's
+computational version, a system that predicts and regulates a body would
+have affect. Damasio & Carvalho and Seth tie affect to living tissue.
