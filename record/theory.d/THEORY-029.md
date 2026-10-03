@@ -5,9 +5,17 @@ formerly:
 - THEORY-tmp82qc5
 promote_when: >-
   A first-hand reading of the replies the record holds only by report:
-  Frankfurt's "The Faintest Passion" (satisfaction, 1992) and "Autonomy,
+  Frankfurt's "Identification and Wholeheartedness" (1987/88, LIT-tmpcand6,
+  Deferred), "The Faintest Passion" (satisfaction, 1992) and "Autonomy,
   Necessity, and Love" (1994), Watson's "Free Agency" (1975), and Bratman's
-  self-governing policies. The account is confirmed if each of those
+  self-governing policies (LIT-tmpschvl, Deferred). The first comes first:
+  it is the essay that answers the regress directly, ending it in a
+  decisive commitment made "without reservation" that seeks to make the
+  person "an integrated whole" (as the IEP reports it), and Velleman's
+  dilemma was argued against the 1976 footnote on decisions (IWWCA p. 68
+  n. 3), not against it. Its reading decides whether the unwitting-decision
+  counterexample reaches the 1987/88 view, and if not, whether that view's
+  conditions can be stated without presupposing the agent's participation. The account is confirmed if each of those
   replies either names an attitude specifiable without the agent's
   participation that the agent can nonetheless not be alienated from, and
   fails, or secures non-alienability only by stipulation (as the 2004
@@ -17,12 +25,26 @@ promote_when: >-
   restating the regress cannot settle it: the record already holds three
   and they disagree on who first stated it.
 title: 'A higher-order attitude cannot make a motive the agent''s own by its order alone: any attitude specified without presupposing the agent''s participation can itself be disowned, and any specified to include it presupposes what it was meant to explain'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    The batch on self-governance (2026-10-03) is weighed. promote_when
+    names Frankfurt's "Identification and Wholeheartedness" (LIT-tmpcand6)
+    first, as the essay that answers the regress and that Velleman's
+    middle case does not engage. Connections gain Bratman's reflexive end
+    of diachronic self-governance and Korsgaard's two stopping points, the
+    wanton argument and conformity to the constitutive norms of agency,
+    each placed on the dilemma's second horn and said how. The tag
+    `free-will` (ADR-025) is added; the `self-governance` tag of ADR-024
+    was already here. The claim is unchanged.
 tags:
 - agency
 - metaphysics
 - ethics
 - self-governance
+- free-will
 date: '2026-09-30'
 source:
 - LIT-295
@@ -42,6 +64,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-tmpcand6 LIT-tmpschvl — Deferred; Frankfurt's 1987/88 essay and Bratman's "Three Theories", named as the unread replies that would move this, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpxn1af THEORY-tmpc3zog THEORY-tmptybsy — Proposed; Bratman's and Korsgaard's accounts, named in Connections as candidate stopping points, nothing here rests on them -->
 
 # THEORY-029: A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain
 
@@ -76,6 +100,7 @@ The claim is the record's synthesis across these five readings. No single one of
 - **It does not say higher-order structure is irrelevant to agency.** Velleman calls Frankfurt's work "the best sustained attempt" (p. 110), keeps his adjudication framing, and targets only the reductive strategy.
 - **The dilemma is not proved.** Velleman argues its first horn only by examples, and gives no principle for why every independently specified state must be disownable ([NOTE-265](../notes.d/NOTE-265.md), C5). His own stopping point, the desire to act in accordance with reasons, escapes only "while remaining an agent". Whether that escape is fair is unexamined, and Buss & Westlund's argument would reject it as a criterion.
 - **Frankfurt's replies are not assessed.** Satisfaction (1992), active identification (1994) and Bratman's policies are all held second-hand or not at all. [LIT-295](../literature.d/LIT-295.md) expressly excludes "The Faintest Passion".
+- **The middle case is argued against a footnote.** Velleman's decisive commitment is quoted from the 1976 "Identification and Externality" (IWWCA p. 68 n. 3), where decisions "do not seem to be susceptible both to internality and to externality". "Identification and Wholeheartedness" ([LIT-tmpcand6](../literature.d/LIT-tmpcand6.md)), which Velleman lists and never quotes ([NOTE-265](../notes.d/NOTE-265.md)), is reported by the IEP ([LIT-297](../literature.d/LIT-297.md)) to add that the commitment is made "without reservation", with no reason felt to deliberate further, and that stopping there is "hardly arbitrary". An unwitting decision plausibly fails those conditions. If it does, the counterexample does not reach the 1987/88 view, and the question becomes whether those conditions, which are conditions on the agent's own stance, can be stated without presupposing her participation. That is still this account's dilemma, but the record has not run it against the essay.
 - **Who first stated the objection is unsettled in the record.** The IEP and SEP *Compatibilism* credit Watson 1975. SEP *Personal Autonomy* treats Watson as a rival account and states the regress as its own. Watson's valuing-versus-desiring distinction is reported in detail by none of them.
 
 ## Connections
@@ -89,6 +114,47 @@ The claim is the record's synthesis across these five readings. No single one of
 motive states, so a hierarchical account of agency cannot take its
 structure from the psychology of control. It does not decide whose a
 motive is.
+
+Three stopping points from the batch of 2026-10-03 are candidates for this
+account's refutation condition. Each lands on the second horn, for a
+different reason.
+
+- **Bratman's reflexive end** ([LIT-tmp5j4f4](../literature.d/LIT-tmp5j4f4.md); [THEORY-tmpxn1af](THEORY-tmpxn1af.md)). Diachronic
+  self-governance is backed by a "conditional, reflexive end" of one's own
+  diachronic self-governance, held in the agent's standpoint. The end is
+  specified by its object, self-governance, which is the agent's governing
+  participation under another name. So it is specified so as to include
+  what it was meant to explain. Bratman does not claim more for it: other
+  ends can "trump" it when it is not "sufficiently important", so it
+  is one weight in the standpoint and not a guarantor of ownership. The
+  essay takes the end as given and does not address the regress. His
+  synchronic stopping point, the self-governing policies, is in
+  [LIT-tmpschvl](../literature.d/LIT-tmpschvl.md) and unread.
+- **Korsgaard's wanton argument** ([LIT-tmp18qr5](../literature.d/LIT-tmp18qr5.md), Lecture III, n. 4;
+  [THEORY-tmptybsy](THEORY-tmptybsy.md)). A reflective person cannot be a wanton: acting on the
+  desire of the moment treats it as a reason, and that commitment "counts as
+  a second-order volition". Taken alone, that makes every reflective action
+  issue from a second-order volition, the wanton's included, so it cannot
+  tell self-governed action from unself-governed action; it does not answer
+  the question. What does the discriminating, for Korsgaard, is which law
+  the agent is to herself, and that is fixed by her practical identity, "a
+  description under which you value yourself", which she chooses or
+  constitutes. A stopping point specified by the agent's own valuing of
+  herself presupposes her participation: second horn.
+- **Korsgaard's constitutive norms** ([LIT-tmpnjho3](../literature.d/LIT-tmpnjho3.md); [THEORY-tmpc3zog](THEORY-tmpc3zog.md)). The
+  stopping point is not an attitude but conformity to the categorical and
+  hypothetical imperatives, which give action "the form of self-determined
+  efficacy". That looks like an escape from both horns, since conformity is
+  fixed by the content of the norms and is indifferent to origin. It is not.
+  The conformity that counts is being "motivated by the thought that you are
+  an agent and so bound by the laws of agency" (ms. p. 17), and the norm
+  conformed to is the norm of self-determination. Both specify the agent's
+  participation in advance. Korsgaard does not present this as a reply to
+  Velleman; the placement is the record's.
+
+None of the three discriminates self-governed from unself-governed action
+without presupposing the agent's participation, so none meets this
+account's refutation condition.
 
 Self-determination theory offers an empirical account of ownership that
 does not rest on order: a regulation is autonomous to the degree it is

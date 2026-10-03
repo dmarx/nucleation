@@ -33,6 +33,8 @@ date: '2026-10-03'
 source:
 - LIT-tmpne8q4
 - LIT-tmpwkj6a
+rivals:
+- THEORY-tmpxn1af
 summary: >-
   Ainslie's précis ([LIT-tmpne8q4](../literature.d/LIT-tmpne8q4.md)): hyperbolic discounting makes a smaller,
   sooner reward temporarily preferred, so successive "interests" conflict
@@ -46,6 +48,7 @@ summary: >-
   is a claim about how control is achieved, not about whose control is
   self-governance.
 ---
+<!-- inactive-ok-file: THEORY-tmpxn1af — Proposed; the rival account, declared -->
 <!-- inactive-ok-file: LIT-tmpmhu3j LIT-tmpalcrf — Deferred; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-056 THEORY-029 THEORY-047 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-tmpkujus THEORY-tmp2wlfb — new in this batch; accounts this one is set against or beside -->
@@ -134,13 +137,13 @@ mechanism.
 
 - **The rival in self-governance.** Bratman's essay on a planning agent's
   self-governance over time ([LIT-tmp5j4f4](../literature.d/LIT-tmp5j4f4.md)) is declared as the rival of the
-  précis among the literature, and a theory built on it is being filed in
-  parallel. The two collide on what resolve is. Bratman treats oneself over
+  précis among the literature, and the theory built on it, [THEORY-tmpxn1af](THEORY-tmpxn1af.md),
+  is declared this theory's rival. The two collide on what resolve is. Bratman treats oneself over
   time as a partner in a shared intention, with a reflexive end of one's own
   diachronic self-governance; Ainslie treats the later self as a bargaining
   opponent and suggests resolute choice "may turn out to be another name for
-  intertemporal bargaining". The `rivals` declaration between the two
-  theories is left to be made once both are filed.
+  intertemporal bargaining". Both explain resolve against a foreseen
+  temptation, and the explanations exclude each other.
 - **[THEORY-tmpkujus](THEORY-tmpkujus.md) (the expected value of control).** That account treats
   patient intertemporal choice as a "default override" needing costly
   control specified by a dedicated system. That is close to the "organ"
