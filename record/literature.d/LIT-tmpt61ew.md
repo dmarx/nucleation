@@ -1,0 +1,117 @@
+---
+status: Active
+status_note: 'read 2026-10-03 ([NOTE-tmpvuq1m](../notes.d/NOTE-tmpvuq1m.md)); worth reading as the measurement that, under distribution shift, a trained classifier''s best linear probe is usually not on the penultimate layer: Intermediate Layer Classifiers (linear probes on frozen layer-l features, l ≤ L − 2) beat last-layer retraining in the few-shot setting on most of nine shifted datasets, and, trained only on in-distribution data, raise worst-group accuracy from 79.4% to 87.1% on Waterbirds and 56.0% to 82.0% on CelebA. The proposed reason is that penultimate features move further under shift, especially for minority groups, while intermediate ones stay put. Selection of the layer uses OOD validation data, and the gains for ViTs are small.'
+title: 'Intermediate Layer Classifiers for OOD generalization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read from arXiv v1 (7 April 2025, 30 pages), which carries the ICLR 2025
+    header ("Published as a conference paper at ICLR 2025"). Main text read
+    in full; Appendices A–C read for the setup, the comparison tables, the
+    neural-collapse analysis (C.1), non-linear probes (C.2), the PCA
+    dimensionality control (C.3) and cross-dataset transfer (C.4). Figure
+    values are taken from the text, which reports them. Not held in the
+    Anthology of the SOTA: a grep of its record for "2504.05461",
+    "Intermediate Layer Classifiers" and "Uselis" found nothing.
+tags:
+- representation-learning
+- learning-theory
+- anthology-candidate
+date: '2026-10-03'
+published: '2025-04-07'
+arxiv: '2504.05461'
+first_author: 'Uselis'
+keywords:
+- 'out-of-distribution generalization'
+- 'intermediate layer classifiers'
+- 'last-layer retraining'
+- 'linear probing'
+- 'distribution shift'
+- 'spurious correlations'
+- 'subpopulation shift'
+- 'worst-group accuracy'
+- 'feature sensitivity'
+- 'neural collapse'
+implementations: []
+summary: >-
+  Uselis & Oh (2025), ICLR 2025. Linear probes on the frozen features of an
+  intermediate layer (ILCs) are compared with last-layer retraining for
+  out-of-distribution classification on CMNIST, Waterbirds, CelebA,
+  MultiCelebA, CIFAR-10C, CIFAR-100C and ImageNet variants, with ResNets
+  and ViTs. Few-shot (probe trained on OOD data), the best intermediate
+  layer usually wins, by more when OOD data are scarce. Zero-shot (probe
+  trained on ID data, OOD only for selecting the layer), it beats retraining
+  the last layer, sharply under subpopulation shift. Layer L − 2 beats L − 1
+  in every dataset shown. A distance-ratio sensitivity score finds
+  intermediate features less displaced by the shift than penultimate ones,
+  most of all for minority groups.
+extended_by:
+- LIT-tmp7ai9f
+---
+
+<!-- inactive-ok-file: THEORY-083 — Proposed; named as the record's statement of neural collapse, with no relation claimed -->
+
+# LIT-tmpt61ew: Intermediate Layer Classifiers for OOD generalization
+
+Arnas Uselis and Seong Joon Oh (2025), *ICLR 2025* — [ARXIV-2504.05461](https://arxiv.org/abs/2504.05461)
+
+## Key takeaways
+
+- **The penultimate layer is not where OOD-useful information is richest.**
+  With ample OOD data for the probe, the best intermediate ResNet layer
+  beats last-layer retraining by +16.8, +6.3, +1.6 and +6.3 points on
+  CMNIST, CIFAR-10 (so written; the shifted set is CIFAR-10C), CIFAR-100C
+  and MultiCelebA. For ViTs the differences
+  are +1.1, +1.3 and −0.2 on CMNIST, CIFAR-10C and CIFAR-100C (Section
+  4.2.1, Figure 3).
+- **The gap widens when OOD data are scarce.** At under 3% of the OOD
+  probe data, ILCs beat last-layer retraining by +5.7, +3.4 and +27.0
+  points on Waterbirds, CelebA and MultiCelebA (Section 4.2.2, Figure 4).
+- **Zero-shot, it holds too.** Probes trained on in-distribution data only
+  give worst-group accuracy Base < Last layer < Best layer: Waterbirds
+  79.4% → 87.1%, CelebA 56.0% → 82.0%, MultiCelebA 20.8% → 46.0% (Section
+  4.3.1, Figure 5). Gains on CIFAR-10C are +2 to +5 points in mean accuracy;
+  on ImageNet variants they average +0.34 (ImageNet-R), +0.91 (ImageNet-A)
+  and about +2 (cue-conflict, silhouette) (Figures 6–7).
+- **Depth.** Layer 7 of 8 (the "pen-penultimate") beats layer 8 in both
+  settings on every dataset in Figure 8, and the best layer varies by
+  dataset (Section 5.1, C.4).
+- **Why.** A sensitivity score, the mean pairwise distance from test points
+  to probe points within a group normalized by the probe points' own mean
+  pairwise distance, is lower at intermediate layers than at the
+  penultimate one for minority groups (Section 5.2, Figure 9).
+
+## Standing in the record
+
+Filed on 2026-10-03 with the owner's batch ([ADR-027](../decisions.d/ADR-027.md)), among its papers on
+where in a network generalization is carried. The Generalization Ridge
+([LIT-tmp7ai9f](LIT-tmp7ai9f.md)) extends it to language generation and to training dynamics;
+the visual compositional-generalization study by the same group
+([LIT-tmpid11v](LIT-tmpid11v.md)) borrows its probe protocol.
+
+**Against neural collapse.** It names neural collapse ([LIT-618](LIT-618.md), stated as
+[THEORY-083](../theory.d/THEORY-083.md) in the record) as a reason last-layer features transfer badly:
+classes collapsed to their means keep little else. Appendix C.1 measures a
+layer-wise collapse proxy (Galanti et al.'s class-distance normalized
+variance) on CIFAR-10C and CIFAR-100C, and finds the network most collapsed
+at the penultimate layer under shift as well. That is consistent with
+collapse being strongest where OOD probes do worst, but the paper does not
+test whether collapse causes the loss. It notes that in Li et al.'s
+pretrained-model study the most collapsed layer depends on the downstream
+task, and attributes the difference to task-specific training here.
+
+**Against the spectra line.** Papyan's class/cross-class structure
+([LIT-613](LIT-613.md)) shows feature class means separating from the bulk with depth.
+This paper's minority groups, mapped far from training points at the
+penultimate layer, are the within-class variation that collapse removes.
+That reading is mine. The paper's own explanation is feature sensitivity.
+
+**Anthology.** It carries a direct instruction for practice (probe an
+intermediate layer, not the penultimate, under distribution shift), so it
+is plainly `anthology-candidate`. The anthology's layer-wise holdings are
+the closest: that middle transformer layers tolerate deletion and
+reordering while the first and last do not ([ANTH-THEORY-020](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-020.md)), and the logit
+lens ([ANTH-LIT-570](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-570.md)) for reading intermediate predictions. Neither is
+cited by the paper.
