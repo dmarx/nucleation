@@ -1,0 +1,128 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmp6zm3z](../notes.d/NOTE-tmp6zm3z.md)); worth reading as the canonical statement of the self-concordance model and its evidence. Goals pursued for identified or intrinsic reasons get more sustained effort, so are better attained (effort fully mediates, in Studies 1 and 3), and attaining them raises well-being more, partly through accumulated daily experiences of autonomy, competence and relatedness. The evidence is three semester-long correlational studies of students (N = 169, 152, 73), with structural models refitted after modification indices, and self-concordance is a self-report of reasons that cannot separate integration from identification.'
+title: 'Goal Striving, Need Satisfaction, and Longitudinal Well-Being: The Self-Concordance Model'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full (the scanned published article, JPSP 76(3):482–497, from
+    the document library of the Center for Self-Determination Theory,
+    https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf,
+    16 PDF pages: introduction, Studies 1–3, General Discussion, and the
+    reference list skimmed). The PDF has no text layer; I read it through
+    OCR and checked the Figure 5 path values and the Study 3 fit statistics
+    against the page image of p. 492. Not held in the Anthology of the
+    SOTA: a grep of its literature.d for "Sheldon" and "self-concordance"
+    found nothing.
+tags:
+- self-governance
+- motivation
+- social-science
+- well-being
+date: '2026-10-03'
+published: '1999-03-01'
+doi: '10.1037/0022-3514.76.3.482'
+url: 'https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf'
+first_author: 'Sheldon'
+keywords:
+- 'self-concordance'
+- 'personal goals'
+- 'goal striving'
+- 'goal attainment'
+- 'sustained effort'
+- 'need satisfaction'
+- 'autonomy'
+- 'competence'
+- 'relatedness'
+- 'subjective well-being'
+- 'perceived locus of causality'
+implementations: []
+summary: >-
+  Sheldon & Elliot (1999), JPSP 76(3):482–497. A goal is self-concordant
+  when pursued for identified or intrinsic rather than external or
+  introjected reasons. In three semester-long studies of students,
+  self-concordance predicted sustained effort, which fully mediated its
+  link to attainment; attainment raised well-being more when goals were
+  self-concordant; and accumulated daily experiences of autonomy,
+  competence and relatedness partly mediated attainment's effect on
+  well-being. Paths survived controls for self-efficacy, implementation
+  intentions, avoidance framing and life skills.
+---
+<!-- inactive-ok-file: THEORY-054 THEORY-047 THEORY-029 — Proposed; named as the accounts this paper bears on, from the file statuses, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmprf69i — Deferred, unread; Taylor, named for the parallel with the paper's own limitation, not leaned on -->
+
+# LIT-tmppbyfm: Goal Striving, Need Satisfaction, and Longitudinal Well-Being: The Self-Concordance Model
+
+Kennon M. Sheldon and Andrew J. Elliot (1999), *Journal of Personality and
+Social Psychology* 76(3):482–497 — DOI-10.1037/0022-3514.76.3.482
+
+The brief's citation is correct (JPSP 76(3), 1999). One search-engine
+summary gave the pages as 546–557; the printed article runs 482–497.
+Crossref gives only the year for the print issue, and No. 3 of the 1999
+volume is the March issue, so `published:` carries 1 March 1999.
+
+## Key takeaways
+
+- **Self-concordance is a measure of why, not what.** A goal is
+  self-concordant to the degree its reasons are identified ("you really
+  believe it's an important goal to have") or intrinsic ("the fun and
+  enjoyment") rather than external or introjected ("you would feel
+  ashamed, guilty, or anxious if you didn't"). The score is identified plus
+  intrinsic minus introjected minus external.
+- **"Not all personal goals are personal."** Across three studies,
+  self-concordant goals received more sustained effort over a semester,
+  and effort carried the whole link from self-concordance to attainment.
+  The authors' earlier single-goal studies (Sheldon & Elliot 1998, as
+  recapped on p. 484) found that controlled motivation predicts initial
+  effort intentions but not effort two and four weeks later.
+- **"Not all progress is beneficial."** Attainment raised well-being more
+  when goals were self-concordant, and in Study 3 that runs partly through
+  accumulated daily experiences of autonomy, competence and relatedness.
+  Attainment also had a direct effect that need satisfaction did not
+  carry.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the empirical model of
+self-endorsed goals that sits between SDT and the philosophy of
+self-governance. It is psychology with no instruction for machine-learning
+practice, so no anthology topic holds it.
+
+It bears on the SDT accounts the record already holds:
+
+- **[THEORY-054](../theory.d/THEORY-054.md)** (autonomy is graded integration, not order of
+  endorsement). The paper's Figure 2 is the SDT continuum drawn as
+  "self-integrated versus nonintegrated action", and it says identified and
+  intrinsic goals are "integrated with the self". But its measure cannot
+  tell integrated from merely identified regulation: there is no integrated
+  item, and identified and intrinsic are summed. It is evidence that the
+  autonomous end of the continuum predicts persistence and well-being, not
+  that integration does. [THEORY-054](../theory.d/THEORY-054.md)'s `promote_when` asks for exactly the
+  separation this measure does not make, and its refutation clause (that
+  integration may be measurable only as reflective endorsement) fits this
+  measure: self-concordance is the person's own rating of their reasons.
+- **[THEORY-047](../theory.d/THEORY-047.md)** (the history of acquisition fixes autonomy). No
+  acquisition history is measured; self-concordance is present structure.
+  The conclusion names the problem in SDT's own terms: individuals "must
+  learn to distinguish between their own native desires and interests and
+  the alien injunctions that readily become infiltrated into the self",
+  yet "such infiltration is also the means by which individuals
+  internalize the values of their culture" (p. 495).
+- **Ryan & Deci ([LIT-559](LIT-559.md)).** The paper states the three needs as
+  "qualities of experience universally required by human beings in order
+  to thrive" (p. 484) and presents itself as extending self-determination
+  theory to self-generated goals. It is earlier than [LIT-559](LIT-559.md), so no
+  `extends` is declared; its own foundation is Deci and Ryan 1985 and 1991,
+  which the record does not hold.
+- **The philosophy.** Self-concordance is a psychologist's version of
+  identification in the sense of [THEORY-029](../theory.d/THEORY-029.md): the question is "whether the
+  person feels ownership", not whether the goal is pleasant (p. 484). The
+  paper concedes the content problem: a goal can be self-concordant and
+  evil (its example is Kaczynski), and "a complete model of optimal goal
+  functioning will need to address not only the why of striving, but also
+  the what" (p. 495). That is the objection Taylor ([LIT-tmprf69i](LIT-tmprf69i.md)) is
+  usually read as pressing against self-determining freedom.
+
+Read in [NOTE-tmp6zm3z](../notes.d/NOTE-tmp6zm3z.md).

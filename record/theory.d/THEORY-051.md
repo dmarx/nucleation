@@ -18,10 +18,20 @@ promote_when: >-
   ACT outcome trials, more defusion studies, or AAQ correlations, none of
   which isolates this process.
 title: 'Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    The batch on self-governance (2026-10-03) adds two contrasts to
+    Connections: Metzinger's précis (LIT-tmp7qvyd), on which the
+    perspective is itself modelled and what changes is the transparency of
+    self-model content, and IFS (LIT-tmpgn0w6), whose step-back procedure
+    targets a Self that is innate and has qualities rather than a
+    contentless perspective. The claim is unchanged.
 tags:
 - psychopathology-and-treatment
-- self-and-personhood
+- self
 date: '2026-10-03'
 source:
 - LIT-555
@@ -41,6 +51,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this extends and the conceptual account of the self -->
+<!-- inactive-ok-file: THEORY-tmpaa365 — Proposed; the self-model account, named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: NOTE-tmpfag1y — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast -->
 
 # THEORY-051: Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering
 
@@ -130,3 +142,28 @@ is borrowed.
   loosens while the minimal self is untouched. If the change reached the
   minimal self, [LIT-066](../literature.d/LIT-066.md)'s "loss of basic self" is the form it would take.
   That is the record's reading, and no source tests it.
+- **Metzinger's précis ([LIT-tmp7qvyd](../literature.d/LIT-tmp7qvyd.md), [NOTE-tmpl0qw5](../notes.d/NOTE-tmpl0qw5.md); [THEORY-tmpaa365](THEORY-tmpaa365.md))**
+  describes the same change in other terms. What is experienced as the self
+  is content, a self-model that cannot be recognised as a model, and the
+  perspective is itself modelled. Transparency is graded, "inversely
+  proportional to the introspective degree of attentional availability of
+  earlier processing stages". On that account, strengthening the self as
+  context would be making self-related content less transparent: available
+  to attention as a representation ("I just had the thought that ..."), not
+  lived as oneself. That is a mechanism the ACT sources do not give, and it
+  suggests a measure this account's `promote_when` lacks, attentional
+  availability of self-content as constructed. It also predicts the
+  hazard noted above: pushed far enough, opacity of the self-model is the
+  loss of phenomenal selfhood, which is what [LIT-066](../literature.d/LIT-066.md)'s reports of
+  "loss of basic self" would look like. The reading is the record's;
+  neither source cites the other.
+- **IFS ([LIT-tmpgn0w6](../literature.d/LIT-tmpgn0w6.md), [NOTE-tmpbat23](../notes.d/NOTE-tmpbat23.md); [NOTE-tmpfag1y](../notes.d/NOTE-tmpfag1y.md))** has a procedure
+  close to defusion, asking parts to "step back" or "unblend", and a
+  different account of what is reached. IFS's Self is innate, needs no
+  development, and has qualities, the eight Cs, from calmness to
+  connectedness. It leads the parts. ACT's self as context is learned and
+  has no content. If both therapies work by a non-fused perspective, then
+  the active ingredient is not what either theory says it is, at least in
+  one of them. Nothing in the record tests that, and on [THEORY-053](THEORY-053.md)'s
+  standard it would take a measure of Self-access in IFS, and of the self as
+  context in ACT, that changes first and specifically.

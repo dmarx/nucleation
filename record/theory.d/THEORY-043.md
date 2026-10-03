@@ -22,7 +22,7 @@ promote_when: >-
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-02'
@@ -39,6 +39,13 @@ history:
     from Ritchie and Epstein why "the group" a criterion is applied to has
     to be specified, and Tollefsen joins the unread works that could move
     the account.
+- version: 4
+  date: '2026-10-03'
+  note: >-
+    Connections says the agreement that agency survives composition holds
+    for thin, functionalist agency, and how organisational minimal agency
+    (THEORY-tmplg7y1) and Korsgaard's normative constitution of agency
+    (THEORY-tmpc3zog) bear on it from two sides.
 tags:
 - consciousness
 - mereology
@@ -58,8 +65,8 @@ summary: >-
   not minds. Schwitzgebel ([LIT-159](../literature.d/LIT-159.md)) builds a candidate mind upward, out of
   agents that are. The readings agree that agency survives both directions:
   Block grants a homunculi-head beliefs, List grants organised groups
-  agency and awareness, Levin finds nested goal-pursuing Selves at every
-  scale. The dispute narrows to phenomenal consciousness, and every
+  agency and awareness, Levin finds nested goal-pursuing collectives (his
+  "Selves") at every scale. The dispute narrows to phenomenal consciousness, and every
   published way to accept the downward move while refusing the upward one
   is either an anti-nesting principle (Putnam's stipulation, IIT's
   exclusion postulate, Kammerer's functional version), each introduced for
@@ -68,6 +75,7 @@ summary: >-
   against a nation. Proposed: an account of where a dispute stands, from
   philosophical argument and no measurement.
 ---
+<!-- inactive-ok-file: THEORY-tmplg7y1 THEORY-tmpc3zog — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
 <!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
@@ -123,8 +131,8 @@ point, a colony whose ants are mindless and whose organisation is a mind.
   sense and are aware in the access sense ([NOTE-340](../notes.d/NOTE-340.md), C1–C2). He says the
   question of group experience then depends wholly on which bridge
   principle is true (C3).
-- **Levin** ([LIT-439](../literature.d/LIT-439.md), [NOTE-341](../notes.d/NOTE-341.md)) finds goal-pursuing Selves nested at
-  every biological scale (C2), and proposes that human groups may have
+- **Levin** ([LIT-439](../literature.d/LIT-439.md), [NOTE-341](../notes.d/NOTE-341.md)) finds goal-pursuing collectives (his "Selves")
+  nested at every biological scale (C2), and proposes that human groups may have
   their own cognition (C6). Both claims are about agency; his extension to
   experience is labelled speculation (C8).
 
@@ -314,6 +322,17 @@ needed.
     architectural criterion computed over the members alone is computed
     over too small a system. This adds a constraint on any criterion that
     would meet `promote_when`; it does not change what would.
+- **The agreement on agency is about thin agency.** That agency survives
+  composition holds for thin, functionalist agency, and two accounts bear
+  on it from opposite sides: organisational minimal agency
+  ([THEORY-tmplg7y1](THEORY-tmplg7y1.md)) makes agency dear rather than cheap, since a whole
+  counts only if it individuates itself, modulates its own coupling and
+  regulates it by norms its own organisation sets, which Minsky's and
+  Brooks's designed agents do not and a group is not yet shown to, while
+  Korsgaard ([THEORY-tmpc3zog](THEORY-tmpc3zog.md)) grants collectives agency in the same sense as
+  individuals, but because a group can achieve the unity of agency by
+  conformity to its constitutive norms, a reason that does not turn on
+  architecture and says nothing about experience.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).

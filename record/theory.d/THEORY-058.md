@@ -22,13 +22,21 @@ promote_when: >-
   clinicians' and patients' reports of which symptom causes which, which
   is the evidence the account already has.
 title: 'Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    Connections points to THEORY-tmpjmrqg (HKB coordination) as the
+    record's measured case of the transition signatures promote_when asks
+    for, and says it is not evidence about disorders.
 tags:
 - psychopathology-and-treatment
 - complex-systems
 - network-science
 - philosophy-of-science
 - metaphysics
+- psychometrics
 date: '2026-10-03'
 source:
 - LIT-547
@@ -48,6 +56,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-548 LIT-552 — Deferred; Engel and Kendler 2005 named as the unread background, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-048 — Proposed; the inflexibility account, named to say the two are compatible, and the implementation account, named for the cross-level loops -->
+<!-- inactive-ok-file: THEORY-tmpjmrqg — Proposed; named as the record's measured case of a transition with hysteresis and critical slowing, not leaned on -->
 
 # THEORY-058: Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
 
@@ -158,6 +167,15 @@ patient is why it is Proposed.
   conflict only if inflexibility is read as a cause behind the symptoms
   that sustains them whatever their connections, and neither source reads
   it that way.
+- **A measured transition elsewhere: HKB coordination ([THEORY-tmpjmrqg](THEORY-tmpjmrqg.md)).**
+  It is the record's measured case of the signatures this account borrows,
+  in human behaviour and with an order parameter: relative phase between
+  the hands switches from anti-phase to in-phase at a critical movement
+  frequency, critical fluctuations and critical slowing are reported before
+  the switch, and hysteresis follows from the model's two stable states. It
+  shows that the evidence `promote_when` asks for can be obtained from
+  people. It is not evidence that disorders behave this way, and no
+  relation is declared.
 - **Process-based therapy ([LIT-544](../literature.d/LIT-544.md))** treats complex networks as "an
   extension of functional analysis" and an alternative to the latent
   disease model, which is this account's negative half.

@@ -24,11 +24,21 @@ promote_when: >-
   emotion and regulation tasks, since the account allows one state of
   readiness to be built differently from another.
 title: "Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    A paragraph places three accounts filed since: Ainslie's bargaining
+    (THEORY-tmpgx68d) and arbitration by reliability (THEORY-tmp2wlfb)
+    support the clause about no regulator above, and the expected value of
+    control (THEORY-tmpkujus) is the conditional challenge, decided by the
+    test promote_when already names.
 tags:
 - emotion-and-affect
 - agency
 - cognition
+- behavioral-integration
 date: '2026-10-03'
 source:
 - LIT-540
@@ -48,6 +58,7 @@ summary: >-
   architecture, untested.
 ---
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpgx68d THEORY-tmp2wlfb THEORY-tmpkujus — Proposed; accounts filed since this one, placed against its clause about no regulator above, nothing here rests on them -->
 
 # THEORY-056: Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them
 
@@ -159,6 +170,23 @@ checking another.
   record's. Neither Frijda nor Barrett discusses autonomy.
 - **[THEORY-040](THEORY-040.md) (manipulation and history)** is not touched. This account
   is about present structure only.
+
+**Three accounts filed since.** Two support the clause that there is no
+regulator above the competing states, from outside emotion research.
+Ainslie's bargaining ([THEORY-tmpgx68d](THEORY-tmpgx68d.md)) makes self-control the interaction of
+interests that dominate at different delays, with no faculty of will over
+them; it also offers an answer to which state wins, though what does the
+checking there is an expectation about one's own future choices rather than
+a concurrent emotion. Arbitration by reliability ([THEORY-tmp2wlfb](THEORY-tmp2wlfb.md)) lets
+model-based and model-free controllers compete as peers, the more reliable
+estimate winning, not the one a higher system prefers. The expected value of
+control ([THEORY-tmpkujus](THEORY-tmpkujus.md)) is the challenge, and a conditional one: it posits a
+dedicated system that decides how much control to apply, which would be the
+distinct system this account says refutes it only if that specification
+were shown to govern emotion regulation generally, effortless regulation
+included. The test is the one `promote_when` already names, whether
+effortless regulation by a competing emotion works without recruiting the
+control networks that deliberate regulation recruits.
 
 ## What this does not say
 

@@ -1,0 +1,160 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpcjj10](../notes.d/NOTE-tmpcjj10.md)), in the author''s posted manuscript, not the typeset chapter. Worth reading as the read substitute for Self-Constitution (2009, [LIT-tmpstkvq](LIT-tmpstkvq.md)), which it summarises and extends, and as Korsgaard''s direct engagement with Bratman. Agency is "normatively constituted": an action is a movement "backed by the agent as a whole", and that unity is achieved by following the categorical and hypothetical imperatives, which give action "the form of self-determined efficacy". The content of the maxims we choose under that form constitutes our "practical identities". So "we make ourselves into agents", and unity of agency, individual or collective, "is an achievement, not a given". Argued, not proved; the account of reason as unification is said to be "lifted" from her other work.'
+title: 'The Normative Constitution of Agency'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full: Parts I and II, the 29 footnotes and the bibliography, 43
+    pages, in the PDF on Korsgaard's Harvard faculty site
+    (sites.harvard.edu/korsgaar/files/2022/05/CMK.NCA_.pdf), an untitled
+    manuscript with no page numbers of the published chapter. Footnote 1
+    says it began as a keynote at the Collective Intentionality VII
+    conference in Basel, August 2010. Published as a chapter of Rational and
+    Social Agency: The Philosophy of Michael Bratman, edited by Manuel Vargas
+    and Gideon Yaffe (Oxford University Press, 2014), pp. 190–214; Crossref
+    gives the volume's issue date, 8 May 2014, which is `published:`.
+    Quotations are from the manuscript and may differ from the book. Not
+    held in the Anthology of the SOTA: a grep of its literature.d for
+    "Korsgaard" found nothing.
+tags:
+- agency
+- self-governance
+- personhood
+- social-ontology
+- metaphysics
+date: '2026-10-03'
+published: '2014-05-08'
+doi: '10.1093/acprof:oso/9780199794515.003.0009'
+url: 'https://sites.harvard.edu/korsgaar/files/2022/05/CMK.NCA_.pdf'
+first_author: 'Korsgaard'
+extends:
+- LIT-tmpstkvq
+compared_against:
+- LIT-tmpphga0
+keywords:
+- 'self-constitution'
+- 'normative constitution of agency'
+- 'activity implication'
+- 'identity implication'
+- 'practical identity'
+- 'collective agency'
+- 'unity of agency'
+- 'Kantian constructivism'
+- 'self-consciousness'
+implementations: []
+summary: >-
+  Korsgaard (2014), in Rational and Social Agency: The Philosophy of Michael
+  Bratman (OUP), pp. 190–214. Two conceptions of agency are set side by side:
+  natural (action is movement caused by the right mental state) and
+  normatively constituted (action is movement backed by a unified agent,
+  whose unity is achieved by following norms). Following the categorical and
+  hypothetical imperatives gives action "the form of self-determined
+  efficacy". Choosing maxims under that form constitutes one's practical
+  identity. Self-consciousness of one's own attitudes sets the task of
+  unification. Unity of agency "is an achievement, not a given", so people
+  can literally act together.
+---
+<!-- inactive-ok-file: LIT-tmpstkvq — Deferred, no lawful full text; Self-Constitution, cited as the book this chapter summarises and extends -->
+<!-- inactive-ok-file: LIT-tmpphga0 — Deferred, no lawful full text; Structures of Agency, cited as the Bratman essays this chapter measures itself against -->
+<!-- inactive-ok-file: LIT-488 — Deferred; Bratman's Shared Agency, named as the theory of acting together the chapter's question is about -->
+<!-- inactive-ok-file: THEORY-040 — Proposed; named as the account this reading bears on -->
+
+# LIT-tmpnjho3: The Normative Constitution of Agency
+
+Christine M. Korsgaard (2014), "The Normative Constitution of Agency", in
+Manuel Vargas and Gideon Yaffe (eds.), *Rational and Social Agency: The
+Philosophy of Michael Bratman*, Oxford University Press, pp. 190–214 —
+DOI-10.1093/acprof:oso/9780199794515.003.0009. Read in the author's
+manuscript.
+
+## Key takeaways
+
+- **Two implications of agency.** Attributing an action to someone implies
+  that she was active, the "activity implication", and that the action
+  expresses who she is, the "identity implication". A purely causal account
+  (an action is a movement caused by a belief–desire pair, an intention, or
+  a desire to act for reasons) struggles with both. "Why exactly should
+  causation by a certain mental state count as an expression of the agent's
+  essential identity?"
+- **Self-constitution answers both.** "To act is not just to cause an end,
+  but to make yourself into the cause of the end." Following the categorical
+  imperative ("be self-determined") and the hypothetical imperative ("take
+  effective means") gives action the form of self-determined efficacy. "It
+  is the content of the principles we follow, not the metaphysical story
+  about how we came to follow them, that explains the activity implication."
+  The material of our maxims makes us "an effective friend, teacher, parent,
+  citizen", which is our practical identity.
+- **Reason is the work of unification.** Non-human animals see the world
+  "teleologically" (things are "to-be-eaten", "to-be-fled"). Humans are
+  aware of their own attitudes as attitudes. That awareness breaks the given
+  unity into "a heap of desires and fears and impulses", and "it is up to us
+  to put ourselves back together into unified agents". The laws of reason
+  "are the laws of mental activity". Unity of agency is "an achievement, not
+  a given", so groups can constitute themselves as agents just as
+  individuals do.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the read substitute for
+*Self-Constitution* (2009, [LIT-tmpstkvq](LIT-tmpstkvq.md)). The book is closed, and is filed
+Deferred beside this. The chapter **extends** it in the LIT scheme's sense: it
+states the book's account in a few pages, cites the book's sections for each
+step (§§1.4, 4.3, 5.1, 6.2, 6.4, 7.2, 7.5), and applies it to a question the
+book does not centre on, whether agency is natural or normative and so whether
+collective agency is possible. The lectures Korsgaard gave in 2002 as the
+Locke Lectures, which became the book, were looked for on her Harvard site.
+The current site lists published essays and no Locke Lecture drafts. Drafts of
+all six lectures (Korsgaard.LL1–LL6, in HTML and PDF) were posted on her old
+FAS page from 2002 and survive in the Internet Archive's captures of it. They
+are book-length, superseded by the book, and were not read here. Of the
+author-posted essays, this one states self-constitution most directly. "Self-Constitution and Irony"
+(2011) was the alternative.
+
+It is **compared against** *Structures of Agency* ([LIT-tmpphga0](LIT-tmpphga0.md)). The chapter
+is written for a volume on Bratman, and its §1.4 measures the naturalistic
+account against hers through Bratman. It reports asking Bratman whether an
+intention acquired by post-hypnotic suggestion would be any less the person's
+own, and reports that he said no. It reads him "as saying that by conforming
+to the norms consequent upon intention, we constitute our identities", citing
+"Reflection, Planning, and Temporally Extended Agency" and "Two Problems about
+Human Agency" from that book. It concludes that the naturalist can explain the
+two implications, but "the most obvious way to do this is by taking certain
+elements of the self-constitution view on board".
+
+Tags. `agency` comes first, because the chapter asks what an agent is.
+`self-governance` follows the owner's distinction: self-determination by
+self-given law. `personhood` is for practical identity and the
+Lockean–Parfitian identity over time it attributes to Bratman.
+`social-ontology` is for the chapter's collective-agency question, set against
+Gilbert's normative account of shared intention. `metaphysics` is for the
+natural-versus-normative question about what agency is.
+
+Where it bears on the record:
+
+- **Manipulation ([THEORY-040](../theory.d/THEORY-040.md)).** This is a first-hand statement, for one
+  account, of the choice [THEORY-040](../theory.d/THEORY-040.md) describes. Korsgaard's explanation of
+  activity is deliberately non-historical: "It does not matter how it comes
+  about that you do it." Responsibility is another matter. She grants that
+  for "deep" responsibility "it does matter how (and whether) it comes about
+  that we think thoughts about self-determination", and concludes that "we
+  do not all have the same opportunities for self-constitution;
+  responsibility is not that deep" (note 15). She calls a permanently
+  installed intention, Demetrius in A Midsummer Night's Dream, a case "we
+  are rightly puzzled about". That is a third option beside [THEORY-040](../theory.d/THEORY-040.md)'s
+  two: a structural account of agency paired with an admission that history
+  bears on responsibility.
+- **Bratman's planning theory** ([LIT-tmp5j4f4](LIT-tmp5j4f4.md), [LIT-488](LIT-488.md)). Bratman models a
+  person's agency over time on people acting together. Korsgaard runs the
+  analogy the other way, and holds that the unity of both is normatively
+  achieved.
+- **Narrative unity and the self.** Korsgaard does not use narrative. Her
+  unity is the unity of a law-governed agent. Read beside McAdams
+  ([LIT-tmprqeqf](LIT-tmprqeqf.md)) and Metzinger ([LIT-tmp7qvyd](LIT-tmp7qvyd.md)), the record now holds a
+  narrative, a phenomenal and a normative account of what makes an agent
+  one.
+
+No anthology topic holds it, and it carries no instruction for
+machine-learning practice.

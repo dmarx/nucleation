@@ -92,13 +92,28 @@ vocabularies:
         blurb: 'parts and wholes — composition, individuation of systems and collectives (group: philosophy)'
       agency:
         label: Agency
-        blurb: 'what it is to be an agent — goals, action, autonomy, control — in organisms, collectives or machines (group: philosophy)'
+        blurb: 'what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent''s behaviour is integrated is behavioral-integration, and governing oneself by one''s own standards is self-governance (group: philosophy)'
       individuation:
         label: Individuation
-        blurb: 'what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind; the self and the person are self-and-personhood (group: philosophy; ADR-015)'
-      self-and-personhood:
-        label: Self and personhood
-        blurb: 'what a self or a person is and what makes one persist — personal identity, the narrative, minimal and bodily self, self-models, agency over one''s own life, and whether machines or groups can be selves (group: philosophy; ADR-015)'
+        blurb: 'what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024)'
+      self:
+        label: Self
+        blurb: 'what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024)'
+      personhood:
+        label: Personhood
+        blurb: 'what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024)'
+      behavioral-integration:
+        label: Behavioral integration
+        blurb: 'how an organism''s many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024)'
+      phenomenal-unity:
+        label: Phenomenal unity
+        blurb: 'the unity of experience — what makes simultaneous experiences one subject''s, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024)'
+      narrative-unity:
+        label: Narrative unity
+        blurb: 'the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024)'
+      self-governance:
+        label: Self-governance
+        blurb: 'governing oneself by standards that are one''s own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024)'
       phenomenology:
         label: Phenomenology
         blurb: 'the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016)'
@@ -114,6 +129,24 @@ vocabularies:
       motivation:
         label: Motivation
         blurb: 'why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023)'
+      well-being:
+        label: Well-being
+        blurb: 'how well a life goes for the one living it, as psychology measures it — subjective and eudaimonic well-being, flourishing, vitality and meaning in life, and what predicts them (ADR-025)'
+      learning-and-conditioning:
+        label: Learning and conditioning
+        blurb: 'how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025)'
+      psychometrics:
+        label: Psychometrics
+        blurb: 'measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025)'
+      philosophy-of-biology:
+        label: Philosophy of biology
+        blurb: 'what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025)'
+      embodied-cognition:
+        label: Embodied cognition
+        blurb: 'cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025)'
+      free-will:
+        label: Free will
+        blurb: 'free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025)'
       ethics:
         label: Ethics
         blurb: 'moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy)'
@@ -337,9 +370,9 @@ schemes:
         groups:
           philosophy:
             label: Philosophy
-            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self and personhood, phenomenology, social ontology, moral psychology, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
+            blurb: the topics that are philosophical questions — metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion and affect, self, personhood, phenomenal unity, narrative unity, self-governance, philosophy of biology, embodied cognition, free will, phenomenology, social ontology, moral psychology, philosophy of science, epistemology, logic, philosophy of mathematics and philosophy of language. A label over the words, not a rule about how they combine (ADR-003).
             require: any
-            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self-and-personhood, phenomenology, social-ontology, moral-psychology, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
+            tags: [metaphysics, mereology, agency, individuation, ethics, consciousness, cognition, emotion-and-affect, self, personhood, phenomenal-unity, narrative-unity, self-governance, philosophy-of-biology, embodied-cognition, free-will, phenomenology, social-ontology, moral-psychology, philosophy-of-science, epistemology, logic, philosophy-of-mathematics, philosophy-of-language]
           flags:
             label: Curation flags
             blurb: tags that mark a work for a curation decision rather than say what it is about. Carried after the topics, never first (ADR-005).

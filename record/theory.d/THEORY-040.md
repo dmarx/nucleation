@@ -17,11 +17,25 @@ promote_when: >-
   notion of free agency it is meant to analyse. More surveys asserting the
   circularity worry cannot settle it: LIT-296 gives it one sentence.
 title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-03'
+  note: >-
+    The batch on self-governance (2026-10-03) adds a first-hand structural
+    account. Connections gain Korsgaard's choice (activity indifferent to
+    origin, history kept for deep responsibility), her second-hand report
+    that Bratman counts a post-hypnotically installed intention as the
+    agent's own, her durability point, and Bratman's structural model of
+    self-governance over time. The tag `free-will` (ADR-025) is added; the
+    `self-governance` tag of ADR-024 was already here. The claim is
+    unchanged.
 tags:
 - agency
 - ethics
 - metaphysics
+- self-governance
+- free-will
 date: '2026-09-30'
 source:
 - LIT-291
@@ -40,6 +54,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpc3zog THEORY-tmpxn1af — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
 
 # THEORY-040: A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
 
@@ -88,3 +103,39 @@ The first half of the claim follows from the form of a snapshot condition, and a
   Christman's. They do not apply either to manipulation, and their sorting
   of histories by "autonomy support" uses the notion of autonomy it serves,
   which is the circularity this account records from [LIT-296](../literature.d/LIT-296.md).
+
+- **Korsgaard takes the first option for activity and not for deep
+  responsibility** ([LIT-tmpnjho3](../literature.d/LIT-tmpnjho3.md), read first-hand in [NOTE-tmpcjj10](../notes.d/NOTE-tmpcjj10.md);
+  [THEORY-tmpc3zog](THEORY-tmpc3zog.md)). Her account is structural by design. What makes an agent
+  active is conformity to the constitutive norms: "It is the content of the
+  principles we follow, not the metaphysical story about how we came to
+  follow them, that explains the activity implication. It does not matter
+  how it comes about that you do it" (ms. p. 17). A manipulated agent who
+  follows the right principles is therefore active. But history is kept for
+  responsibility of the deepest kind: "For that, it does matter how (and
+  whether) it comes about that we think thoughts about self-determination",
+  and "we do not all have the same opportunities for self-constitution;
+  responsibility is not that deep" (ms. p. 19, n. 15). That splits this
+  account's forced choice by what is being analysed, a possibility its
+  title does not mention: free agency in the sense of activity bites the
+  bullet, and deep responsibility adds history.
+- **Bratman, by Korsgaard's report, bites the bullet.** Korsgaard asked him
+  whether an intention acquired by post-hypnotic suggestion would be any
+  less the person's own, and reports that he said no, "this would be just as
+  much the person's own intention, and the person's own action, as any
+  other" (ms. p. 21). That is second-hand, from a seminar exchange of 2009.
+  It fits his model of self-governance over time ([LIT-tmp5j4f4](../literature.d/LIT-tmp5j4f4.md),
+  [THEORY-tmpxn1af](THEORY-tmpxn1af.md)), which is wholly structural: present standpoints and the
+  links of intention between them, with no condition on how the plans were
+  acquired. That essay does not discuss manipulation.
+- **Durability, a third kind of condition.** Korsgaard then grants that her
+  own objection to the hypnotic intention "is not after all wholly based on
+  its origin": we picture its effects "as ephemeral", and might think
+  differently of an installed intention with "long-term consequences for the
+  person's identity", as with Demetrius in *A Midsummer Night's Dream*,
+  "changed forever by the outside intervention". Of such cases "we are
+  rightly puzzled" (ms. pp. 22–23). Durability, or integration over time, is
+  a condition that is neither a snapshot nor a history. It does not escape
+  this account: a manipulator can install a durable state, which is
+  Demetrius's case, and Korsgaard leaves that case puzzling rather than
+  settled.
