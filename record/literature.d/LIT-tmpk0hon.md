@@ -59,6 +59,8 @@ summary: >-
   local features, against the predictive-processing account.
 extends:
 - LIT-tmpqw586
+rivals:
+- LIT-tmp73h6j
 ---
 
 <!-- inactive-ok-file: THEORY-tmpwyfwm THEORY-tmprpyvx — Proposed; named as accounts this paper bears on, not leaned on -->

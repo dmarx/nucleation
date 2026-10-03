@@ -68,6 +68,7 @@ extends:
 rivals:
 - LIT-431
 - LIT-433
+- LIT-tmp73h6j
 extended_by:
 - LIT-tmpk0hon
 - LIT-tmpm5jaa
