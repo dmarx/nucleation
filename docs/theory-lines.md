@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-13 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+15 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -12,6 +12,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
+
+### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
+
+- [THEORY-122](../record/theory.d/THEORY-122.md) — Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply *(Proposed)*
+  - [THEORY-118](../record/theory.d/THEORY-118.md) — Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons *(Proposed)*
+
+### From An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false
+
+- [THEORY-119](../record/theory.d/THEORY-119.md) — An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false *(Proposed)*
+  - [THEORY-121](../record/theory.d/THEORY-121.md) — Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism *(Proposed)*
 
 ## anthology-candidate
 
@@ -74,6 +84,30 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+## ethics
+
+### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
+
+- [THEORY-122](../record/theory.d/THEORY-122.md) — Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply *(Proposed)*
+  - [THEORY-118](../record/theory.d/THEORY-118.md) — Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons *(Proposed)*
+
+### From An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false
+
+- [THEORY-119](../record/theory.d/THEORY-119.md) — An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false *(Proposed)*
+  - [THEORY-121](../record/theory.d/THEORY-121.md) — Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism *(Proposed)*
+
+## free-will
+
+### From Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply
+
+- [THEORY-122](../record/theory.d/THEORY-122.md) — Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply *(Proposed)*
+  - [THEORY-118](../record/theory.d/THEORY-118.md) — Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons *(Proposed)*
+
+### From An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false
+
+- [THEORY-119](../record/theory.d/THEORY-119.md) — An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false *(Proposed)*
+  - [THEORY-121](../record/theory.d/THEORY-121.md) — Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism *(Proposed)*
 
 ## individuation
 

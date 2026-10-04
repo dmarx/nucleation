@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**314 document(s) awaiting a decision.**
+**327 document(s) awaiting a decision.**
 
 ## LITs
 
-215 of the 314.
+223 of the 327.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -195,7 +195,12 @@
 | 2026-10-02 | Deferred | [LIT-449](../../record/literature.d/LIT-449.md) | 0 | 0 | What we talk to when we talk to language models |
 | 2026-10-02 | Deferred | [LIT-470](../../record/literature.d/LIT-470.md) | 0 | 0 | Foundations for a Social Ontology |
 | 2026-10-02 | Deferred | [LIT-534](../../record/literature.d/LIT-534.md) | 0 | 0 | Order Out of Chaos: Man's New Dialogue with Nature |
+| 2026-10-03 | Deferred | [LIT-575](../../record/literature.d/LIT-575.md) | 22 | 0 | Identification and Wholeheartedness |
+| 2026-10-03 | Deferred | [LIT-688](../../record/literature.d/LIT-688.md) | 19 | 0 | Asymmetrical Freedom |
+| 2026-10-03 | Deferred | [LIT-690](../../record/literature.d/LIT-690.md) | 19 | 0 | Sanity and the Metaphysics of Responsibility |
+| 2026-10-03 | Deferred | [LIT-684](../../record/literature.d/LIT-684.md) | 17 | 0 | Responsibility and Control: A Theory of Moral Responsibility |
 | 2026-10-03 | Deferred | [LIT-562](../../record/literature.d/LIT-562.md) | 16 | 0 | Pervasive negative effects of rewards on intrinsic motivation: The myth continues |
+| 2026-10-03 | Deferred | [LIT-685](../../record/literature.d/LIT-685.md) | 16 | 0 | Freedom Within Reason |
 | 2026-10-03 | Deferred | [LIT-551](../../record/literature.d/LIT-551.md) | 13 | 0 | Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment |
 | 2026-10-03 | Deferred | [LIT-550](../../record/literature.d/LIT-550.md) | 12 | 0 | Emotion and Adaptation |
 | 2026-10-03 | Deferred | [LIT-552](../../record/literature.d/LIT-552.md) | 11 | 0 | Toward a Philosophical Structure for Psychiatry |
@@ -206,6 +211,7 @@
 | 2026-10-03 | Deferred | [LIT-549](../../record/literature.d/LIT-549.md) | 9 | 0 | Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition |
 | 2026-10-03 | Deferred | [LIT-556](../../record/literature.d/LIT-556.md) | 9 | 0 | Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis |
 | 2026-10-03 | Deferred | [LIT-596](../../record/literature.d/LIT-596.md) | 9 | 0 | Three Theories of Self-Governance |
+| 2026-10-03 | Deferred | [LIT-687](../../record/literature.d/LIT-687.md) | 9 | 0 | Responsiveness and Moral Responsibility |
 | 2026-10-03 | Deferred | [LIT-578](../../record/literature.d/LIT-578.md) | 8 | 0 | Dynamic Patterns: The Self-Organization of Brain and Behavior |
 | 2026-10-03 | Deferred | [LIT-594](../../record/literature.d/LIT-594.md) | 8 | 0 | The Ethics of Authenticity |
 | 2026-10-03 | Deferred | [LIT-647](../../record/literature.d/LIT-647.md) | 8 | 0 | Neural traveling waves in cortex: Network mechanisms and potential roles in neural computation |
@@ -219,7 +225,6 @@
 | 2026-10-03 | Deferred | [LIT-627](../../record/literature.d/LIT-627.md) | 5 | 0 | At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory |
 | 2026-10-03 | Deferred | [LIT-636](../../record/literature.d/LIT-636.md) | 5 | 0 | The Border Between Seeing and Thinking |
 | 2026-10-03 | Proposed | [LIT-676](../../record/literature.d/LIT-676.md) | 5 | 0 | Unveiling Mode Connectivity in Graph Neural Networks |
-| 2026-10-03 | Deferred | [LIT-575](../../record/literature.d/LIT-575.md) | 4 | 0 | Identification and Wholeheartedness |
 | 2026-10-03 | Deferred | [LIT-590](../../record/literature.d/LIT-590.md) | 4 | 0 | Structures of Agency: Essays |
 | 2026-10-03 | Deferred | [LIT-592](../../record/literature.d/LIT-592.md) | 4 | 0 | The Authentic Personality: A Theoretical and Empirical Conceptualization and the Development of the Authenticity Scale |
 | 2026-10-03 | Deferred | [LIT-599](../../record/literature.d/LIT-599.md) | 4 | 0 | The Sources of Normativity |
@@ -228,10 +233,13 @@
 | 2026-10-03 | Proposed | [LIT-677](../../record/literature.d/LIT-677.md) | 4 | 0 | Unveiling mode-connectivity of the ELBO landscape |
 | 2026-10-03 | Deferred | [LIT-591](../../record/literature.d/LIT-591.md) | 3 | 0 | Internal Family Systems Therapy |
 | 2026-10-03 | Deferred | [LIT-604](../../record/literature.d/LIT-604.md) | 1 | 0 | Control theory: A useful conceptual framework for personality–social, clinical, and health psychology |
+| 2026-10-04 | Deferred | [LIT-693](../../record/literature.d/LIT-693.md) | 5 | 0 | The Importance of What We Care About: Philosophical Essays |
+| 2026-10-04 | Deferred | [LIT-686](../../record/literature.d/LIT-686.md) | 3 | 0 | The Importance of What We Care About |
+| 2026-10-04 | Deferred | [LIT-695](../../record/literature.d/LIT-695.md) | 3 | 0 | The Faintest Passion |
 
 ## THEORYs
 
-99 of the 314.
+104 of the 327.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -251,9 +259,9 @@
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 3 | 3 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-27 | Proposed | [THEORY-011](../../record/theory.d/THEORY-011.md) | 2 | 2 | Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two |
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 106 | 0 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
-| 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 77 | 0 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
+| 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 97 | 0 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
+| 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 55 | 0 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 37 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
-| 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 28 | 0 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 23 | 9 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
 | 2026-09-30 | Proposed | [THEORY-037](../../record/theory.d/THEORY-037.md) | 13 | 13 | In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail |
 | 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 10 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
@@ -267,32 +275,36 @@
 | 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 0 | 0 | The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress saturates as 1/(1 + B_noise/B); the measured noise scale predicts it only to within an order of magnitude |
 | 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 150 | 2 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
 | 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 42 | 0 | Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them |
+| 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 37 | 0 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 33 | 0 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
-| 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 31 | 0 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-047](../../record/theory.d/THEORY-047.md) | 19 | 0 | A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is |
 | 2026-10-03 | Proposed | [THEORY-050](../../record/theory.d/THEORY-050.md) | 18 | 0 | Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-100](../../record/theory.d/THEORY-100.md) | 16 | 0 | A neural correlate of conscious report does not require laminar cortex: in crows it is carried by the nidopallium caudolaterale, a nuclear pallial region whose neurons follow the reported percept rather than the stimulus |
 | 2026-10-03 | Proposed | [THEORY-044](../../record/theory.d/THEORY-044.md) | 15 | 0 | In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 15 | 0 | In human ventral temporal cortex the content of a clearly seen, unchanging image is carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 12 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
+| 2026-10-03 | Proposed | [THEORY-121](../../record/theory.d/THEORY-121.md) | 12 | 0 | Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism |
 | 2026-10-03 | Proposed | [THEORY-073](../../record/theory.d/THEORY-073.md) | 11 | 0 | A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 10 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 10 | 0 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-103](../../record/theory.d/THEORY-103.md) | 10 | 0 | Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 9 | 0 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
+| 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 9 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
 | 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 9 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-090](../../record/theory.d/THEORY-090.md) | 9 | 0 | A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options |
 | 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 8 | 0 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 8 | 0 | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one |
 | 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 8 | 0 | Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency |
-| 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 8 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
 | 2026-10-03 | Proposed | [THEORY-078](../../record/theory.d/THEORY-078.md) | 8 | 0 | The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation |
+| 2026-10-03 | Proposed | [THEORY-118](../../record/theory.d/THEORY-118.md) | 8 | 0 | Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons |
 | 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 7 | 0 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-061](../../record/theory.d/THEORY-061.md) | 7 | 0 | In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 7 | 0 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 7 | 0 | How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control |
 | 2026-10-03 | Proposed | [THEORY-112](../../record/theory.d/THEORY-112.md) | 7 | 0 | Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth |
+| 2026-10-03 | Proposed | [THEORY-122](../../record/theory.d/THEORY-122.md) | 7 | 0 | Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 6 | 0 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
+| 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 6 | 0 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
 | 2026-10-03 | Proposed | [THEORY-062](../../record/theory.d/THEORY-062.md) | 6 | 0 | Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system |
 | 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 6 | 0 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 6 | 0 | Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom |
@@ -302,7 +314,6 @@
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 5 | 0 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
 | 2026-10-03 | Proposed | [THEORY-114](../../record/theory.d/THEORY-114.md) | 5 | 0 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
 | 2026-10-03 | Proposed | [THEORY-048](../../record/theory.d/THEORY-048.md) | 4 | 0 | In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them |
-| 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 4 | 0 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
 | 2026-10-03 | Proposed | [THEORY-069](../../record/theory.d/THEORY-069.md) | 4 | 0 | Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning |
 | 2026-10-03 | Proposed | [THEORY-084](../../record/theory.d/THEORY-084.md) | 4 | 0 | Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 4 | 0 | Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced |
@@ -334,6 +345,8 @@
 | 2026-10-03 | Proposed | [THEORY-106](../../record/theory.d/THEORY-106.md) | 0 | 0 | In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form |
 | 2026-10-03 | Proposed | [THEORY-108](../../record/theory.d/THEORY-108.md) | 0 | 0 | Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature |
 | 2026-10-03 | Proposed | [THEORY-117](../../record/theory.d/THEORY-117.md) | 0 | 0 | Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one |
+| 2026-10-04 | Proposed | [THEORY-120](../../record/theory.d/THEORY-120.md) | 13 | 0 | A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order |
+| 2026-10-04 | Proposed | [THEORY-119](../../record/theory.d/THEORY-119.md) | 7 | 0 | An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 

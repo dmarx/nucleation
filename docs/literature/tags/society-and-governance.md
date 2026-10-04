@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-56 of 683 LIT documents. Back to the [full index](../README.md).
+56 of 695 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

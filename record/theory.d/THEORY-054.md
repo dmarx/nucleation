@@ -32,7 +32,7 @@ history:
 - version: 3
   date: '2026-10-04'
   note: >-
-    Frankfurt's hierarchical account is filed as THEORY-tmpev5mk, from the 1971
+    Frankfurt's hierarchical account is filed as THEORY-120, from the 1971
     paper read first-hand, and declared this account's rival. Connections say
     where they part. The claim is unchanged.
 tags:
@@ -60,9 +60,9 @@ summary: >-
 extended_by:
 - THEORY-047
 rivals:
-- THEORY-tmpev5mk
+- THEORY-120
 ---
-<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account, declared this one's rival -->
+<!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -153,8 +153,8 @@ states it against hierarchical accounts in this form.
 - **[THEORY-047](THEORY-047.md)** extends this account to the conditions that produce
   integration.
 
-**[THEORY-tmpev5mk](THEORY-tmpev5mk.md)**, Frankfurt's hierarchical account, read first-hand
-from 1971 ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md)), is this account's rival. On Frankfurt's account,
+**[THEORY-120](THEORY-120.md)**, Frankfurt's hierarchical account, read first-hand
+from 1971 ([LIT-692](../literature.d/LIT-692.md)), is this account's rival. On Frankfurt's account,
 a desire is the agent's own once a second-order volition endorses it. On
 this one, autonomy is graded integration, and an endorsement that is not
 integrated is introjection. The two give opposite verdicts on resigned

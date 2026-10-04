@@ -1,6 +1,9 @@
 ---
+number: 547
 status: Read
-paper: LIT-tmpgaaah
+formerly:
+- NOTE-tmpvgp5d
+paper: LIT-689
 title: 'Stories and the Meaning of Life'
 version: 1
 history:
@@ -10,7 +13,7 @@ history:
     Read in full (all four sections and the fifteen notes; 15 PDF pages,
     printed pp. 3–15) from the PDF in SOAR, SUNY's institutional
     repository, extracted to text with PyMuPDF. The works it summarises,
-    Fischer and Ravizza's Responsibility and Control (LIT-tmp1m893) and
+    Fischer and Ravizza's Responsibility and Control (LIT-684) and
     Fischer's replies of 2005 and 2006, were not read; where the paper
     rests on them this note says so. Velleman's "Narrative Explanation"
     and Richard Taylor's "The Meaning of Human Life" are taken as the paper
@@ -27,10 +30,10 @@ summary: >-
   aesthetic nature does not fix how the life is evaluated.
 ---
 
-<!-- inactive-ok-file: LIT-tmp1m893 — Deferred, unread; the book this paper summarises, named as what its first section rests on -->
+<!-- inactive-ok-file: LIT-684 — Deferred, unread; the book this paper summarises, named as what its first section rests on -->
 <!-- inactive-ok-file: THEORY-060 THEORY-040 — Proposed; the narrative-identity and manipulation accounts, named in prose, no relation claimed -->
 
-# NOTE-tmpvgp5d: Stories and the Meaning of Life
+# NOTE-547: Stories and the Meaning of Life
 
 ## Contribution
 
@@ -79,7 +82,7 @@ arguments made elsewhere.
   'moderately reasons-responsive' mechanism"; its compatibility with
   causal determinism; and its value as self-expression (pp. 3–4). The
   supporting arguments are in the works of note 1, chiefly Fischer and
-  Ravizza 1998 ([LIT-tmp1m893](../literature.d/LIT-tmp1m893.md)), and are not given here.
+  Ravizza 1998 ([LIT-684](../literature.d/LIT-684.md)), and are not given here.
 - **§I, Frankfurt cases.** Frankfurt-style examples, cases of "pre-emptive
   overdetermination", imply that the Principle of Alternative
   Possibilities is false. Their moral is that acting freely and being
@@ -146,7 +149,7 @@ arguments made elsewhere.
 
 ## Connections
 
-- **Fischer and Ravizza, *Responsibility and Control* ([LIT-tmp1m893](../literature.d/LIT-tmp1m893.md)).** §I
+- **Fischer and Ravizza, *Responsibility and Control* ([LIT-684](../literature.d/LIT-684.md)).** §I
   is a summary of it. The paper confirms first-hand the book's guidance and
   regulative distinction, the two components of guidance control,
   historicity and compatibility with determinism. It does not state the

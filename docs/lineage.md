@@ -2,11 +2,18 @@
 
 # Lines of work
 
-38 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+41 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
 ## agency
+
+### From Alternate Possibilities and Moral Responsibility
+
+- [LIT-694](../record/literature.d/LIT-694.md) — Alternate Possibilities and Moral Responsibility *(Active)*
+  - [LIT-692](../record/literature.d/LIT-692.md) — Freedom of the Will and the Concept of a Person *(Active)*
+    - [LIT-293](../record/literature.d/LIT-293.md) — I. Taking Ourselves Seriously; II. Getting It Right *(Active)*
+    - [LIT-295](../record/literature.d/LIT-295.md) — What Happens When Someone Acts? *(Active)*
 
 ### From The Society of Mind
 
@@ -35,6 +42,18 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
   - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
 - alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
+
+### From Responsiveness and Moral Responsibility
+
+- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Deferred)*
+  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
+    - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
+
+### From Asymmetrical Freedom
+
+- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
+- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
 
 ## anthology-candidate
 
@@ -273,6 +292,32 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
   - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
 
+### From Responsiveness and Moral Responsibility
+
+- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Deferred)*
+  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
+    - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
+
+### From Asymmetrical Freedom
+
+- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
+- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+
+## free-will
+
+### From Responsiveness and Moral Responsibility
+
+- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Deferred)*
+  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
+    - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
+
+### From Asymmetrical Freedom
+
+- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
+- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+
 ## individuation
 
 ### From The Society of Mind
@@ -396,6 +441,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-223](../record/literature.d/LIT-223.md) — Category-theoretic structure and radical ontic structural realism *(Active)*
   - [LIT-222](../record/literature.d/LIT-222.md) — No categorial support for radical ontic structural realism *(Active)*
+
+### From Alternate Possibilities and Moral Responsibility
+
+- [LIT-694](../record/literature.d/LIT-694.md) — Alternate Possibilities and Moral Responsibility *(Active)*
+  - [LIT-692](../record/literature.d/LIT-692.md) — Freedom of the Will and the Concept of a Person *(Active)*
+    - [LIT-293](../record/literature.d/LIT-293.md) — I. Taking Ourselves Seriously; II. Getting It Right *(Active)*
+    - [LIT-295](../record/literature.d/LIT-295.md) — What Happens When Someone Acts? *(Active)*
 
 ### From Psychological Predicates
 

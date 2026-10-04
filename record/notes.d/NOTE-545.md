@@ -1,6 +1,9 @@
 ---
+number: 545
 status: Read
-paper: 'LIT-tmpuutyy'
+formerly:
+- NOTE-tmpnpe9o
+paper: 'LIT-692'
 title: 'Freedom of the Will and the Concept of a Person'
 version: 1
 history:
@@ -27,10 +30,10 @@ summary: >-
   neutral on determinism, and on how the will came to be (n. 10).
 ---
 
-<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-tmpp1sl4 THEORY-tmpev5mk — Proposed; the theories this reading bears on, named in prose -->
-<!-- inactive-ok-file: LIT-575 LIT-tmpooua4 — Deferred, unread; Frankfurt's 1987/88 essay and Wolf's "Sanity", named in Connections -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-120 — Proposed; the theories this reading bears on, named in prose -->
+<!-- inactive-ok-file: LIT-575 LIT-690 — Deferred, unread; Frankfurt's 1987/88 essay and Wolf's "Sanity", named in Connections -->
 
-# NOTE-tmpnpe9o: Freedom of the Will and the Concept of a Person
+# NOTE-545: Freedom of the Will and the Concept of a Person
 
 ## Contribution
 
@@ -202,7 +205,7 @@ indifferent to determinism and to how the attitudes arose.
 
 ## Connections
 
-- **The 1969 paper ([LIT-tmpwts2i](../literature.d/LIT-tmpwts2i.md)).** Cited in n. 9. Its exempting
+- **The 1969 paper ([LIT-694](../literature.d/LIT-694.md)).** Cited in n. 9. Its exempting
   condition, acting "only because he could not have done otherwise" and not
   from "what he really wanted", is given content here: the willing addict
   acts from the will he wants.
@@ -231,14 +234,14 @@ indifferent to determinism and to how the attitudes arose.
   report, develops.
 - **Robb ([LIT-294](../literature.d/LIT-294.md)).** Robb's willing addict, "responsible … even if he
   couldn't do otherwise (Frankfurt 1971)", is accurate (pp. 19–20).
-- **Wolf ([LIT-tmpooua4](../literature.d/LIT-tmpooua4.md)), unread.** By Talbert's report ([LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md)) Wolf
+- **Wolf ([LIT-690](../literature.d/LIT-690.md)), unread.** By Talbert's report ([LIT-691](../literature.d/LIT-691.md)) Wolf
   lists this paper among "deep self views". C8 and n. 6 are what her
   objection needs: the view sets no condition on what the second-order
   volition is based on, or how it arose.
 
 ## Bearing on the record
 
-- **[THEORY-tmpev5mk](../theory.d/THEORY-tmpev5mk.md)** is the hierarchical account filed from this reading
+- **[THEORY-120](../theory.d/THEORY-120.md)** is the hierarchical account filed from this reading
   and [LIT-293](../literature.d/LIT-293.md).
 - **[THEORY-029](../theory.d/THEORY-029.md) (the regress).** It holds the 1971 account second-hand
   through [LIT-291](../literature.d/LIT-291.md) and should now cite this paper. The paper states the
@@ -255,7 +258,7 @@ indifferent to determinism and to how the attitudes arose.
 - **[THEORY-054](../theory.d/THEORY-054.md) (SDT).** The paper's identification is all-or-nothing and
   sets no condition on the basis of the volition (n. 6); SDT grades by
   integration.
-- **[THEORY-tmpp1sl4](../theory.d/THEORY-tmpp1sl4.md) (Wolf).** Its premise that "identification with one's
+- **[THEORY-122](../theory.d/THEORY-122.md) (Wolf).** Its premise that "identification with one's
   own motives" is content-neutral is confirmed (n. 6).
 - No ML-practice content; nothing belongs in the Anthology. AI writing that
   invokes "second-order desires" as a criterion of agency is not engaged.

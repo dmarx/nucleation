@@ -1,6 +1,9 @@
 ---
+number: 546
 status: Read
-paper: 'LIT-tmpwts2i'
+formerly:
+- NOTE-tmpour9o
+paper: 'LIT-694'
 title: 'Alternate Possibilities and Moral Responsibility'
 version: 1
 history:
@@ -29,10 +32,10 @@ summary: >-
   otherwise", and Frankfurt says it is compatible with determinism.
 ---
 
-<!-- inactive-ok-file: THEORY-tmp6tk5g THEORY-tmpmjijs THEORY-tmpejn3z THEORY-040 — Proposed; the theories this reading bears on, named in prose -->
-<!-- inactive-ok-file: LIT-tmpavyub LIT-tmp1m893 LIT-tmpbc48b — Deferred, unread; the later works named in Connections -->
+<!-- inactive-ok-file: THEORY-118 THEORY-121 THEORY-119 THEORY-040 — Proposed; the theories this reading bears on, named in prose -->
+<!-- inactive-ok-file: LIT-687 LIT-684 LIT-688 — Deferred, unread; the later works named in Connections -->
 
-# NOTE-tmpour9o: Alternate Possibilities and Moral Responsibility
+# NOTE-546: Alternate Possibilities and Moral Responsibility
 
 ## Contribution
 
@@ -176,25 +179,25 @@ actual sequence that produced the action, not by the alternatives.
   version (§3.2) is their own "close approximation". Their claim that the
   argument shows that the freedom determinism threatens "is not the kind of
   freedom required for moral responsibility" matches pp. 838–839.
-- **"Freedom of the Will and the Concept of a Person" ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md)).** It
+- **"Freedom of the Will and the Concept of a Person" ([LIT-692](../literature.d/LIT-692.md)).** It
   cites this paper (n. 9) and supplies what "what he really wanted to do"
   means here: acting from the will one wants.
-- **Fischer and Ravizza ([LIT-tmpavyub](../literature.d/LIT-tmpavyub.md), [LIT-tmp1m893](../literature.d/LIT-tmp1m893.md)), unread.** By the
+- **Fischer and Ravizza ([LIT-687](../literature.d/LIT-687.md), [LIT-684](../literature.d/LIT-684.md)), unread.** By the
   SEP's report their guidance control starts from this paper's lesson that
   responsibility lies in the actual sequence. The paper's own replacement
   principle is not reasons-responsiveness: it puts the excusing condition
   in the agent's motive ("only because", not "what he really wanted").
-- **Wolf, "Asymmetrical Freedom" ([LIT-tmpbc48b](../literature.d/LIT-tmpbc48b.md)), unread.** See Bearing.
+- **Wolf, "Asymmetrical Freedom" ([LIT-688](../literature.d/LIT-688.md)), unread.** See Bearing.
 
 ## Bearing on the record
 
-- **[THEORY-tmpejn3z](../theory.d/THEORY-tmpejn3z.md)** is the account filed from this reading, with Robb's
+- **[THEORY-119](../theory.d/THEORY-119.md)** is the account filed from this reading, with Robb's
   objections, and this paper is its primary source.
-- **[THEORY-tmpmjijs](../theory.d/THEORY-tmpmjijs.md) (Fischer and Ravizza).** Its Frankfurt-case basis is
+- **[THEORY-121](../theory.d/THEORY-121.md) (Fischer and Ravizza).** Its Frankfurt-case basis is
   now first-hand. The case's moral, that only the actual sequence matters,
   is this paper's §V; the move to reasons-responsive mechanisms is not in
   it.
-- **[THEORY-tmp6tk5g](../theory.d/THEORY-tmp6tk5g.md) (Wolf's asymmetry).** C5 matters. Frankfurt applies the
+- **[THEORY-118](../theory.d/THEORY-118.md) (Wolf's asymmetry).** C5 matters. Frankfurt applies the
   case to "excuse" and to "withhold the praise" in the same sentence, and
   says nothing about whether the action is good or bad, so the paper
   claims the symmetric result. Wolf's view, as reported, is that PAP fails
@@ -232,7 +235,7 @@ actual sequence that produced the action, not by the alternatives.
   decision, is Jones4 responsible on libertarian terms; if it does not,
   does Jones4 have a robust alternative ([LIT-294](../literature.d/LIT-294.md), §4.3)?
 - What exactly is "what he really wanted to do"? The 1971 paper's answer is
-  the will he wants ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md), p. 19); whether that is the condition
+  the will he wants ([LIT-692](../literature.d/LIT-692.md), p. 19); whether that is the condition
   this paper intends is not said here.
 - Is the result symmetric for blame and praise, as p. 836 says, against
   Wolf's asymmetry?

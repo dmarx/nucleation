@@ -42,8 +42,8 @@ history:
 - version: 3
   date: '2026-10-04'
   note: >-
-    The hierarchical account it argues against is filed as THEORY-tmpev5mk,
-    from Frankfurt 1971 read first-hand (LIT-tmpuutyy), and the two are
+    The hierarchical account it argues against is filed as THEORY-120,
+    from Frankfurt 1971 read first-hand (LIT-692), and the two are
     declared rivals. Connections place 1971's decisive commitment (p. 16) on
     the dilemma. The claim is unchanged.
 tags:
@@ -69,9 +69,9 @@ summary: >-
   The dilemma is argued by examples, not proved, and it does not show that
   higher-order structure is irrelevant to agency.
 rivals:
-- THEORY-tmpev5mk
+- THEORY-120
 ---
-<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account this one argues against, declared its rival -->
+<!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account this one argues against, declared its rival -->
 <!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-575 LIT-596 — Deferred; Frankfurt's 1987/88 essay and Bratman's "Three Theories", named as the unread replies that would move this, not leaned on -->
@@ -176,8 +176,8 @@ intrinsic activity and organismic integration ([LIT-558](../literature.d/LIT-558
 this account's second horn unless that self can be specified without the
 agent's endorsement.
 
-**The account this one argues against is now filed as [THEORY-tmpev5mk](THEORY-tmpev5mk.md)**,
-from the 1971 paper read first-hand ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md)). The two are rivals.
+**The account this one argues against is now filed as [THEORY-120](THEORY-120.md)**,
+from the 1971 paper read first-hand ([LIT-692](../literature.d/LIT-692.md)). The two are rivals.
 Frankfurt's own stopping point there is the decisive commitment, which
 "resounds" through the higher orders (p. 16). On this account it is either
 disownable or specified so as to include the agent's participation, so it

@@ -1,15 +1,18 @@
 ---
+number: 120
 status: Proposed
+formerly:
+- THEORY-tmpev5mk
 promote_when: >-
   A first-hand reading of the later texts that the record holds only by
   report, and that settle what identification became: "Identification and
-  Wholeheartedness" (LIT-575), "The Faintest Passion" (LIT-tmpy887p) and
+  Wholeheartedness" (LIT-575), "The Faintest Passion" (LIT-695) and
   "Autonomy, Necessity, and Love" (1994, not filed). Two things must be
   confirmed. First, that each later criterion (decisive commitment made
   "without reservation", satisfaction as an absence of "restlessness or
   resistance", active wholehearted identification) is still a relation
   among the agent's present attitudes, so that the account stays
-  structural, as the 1988 preface (LIT-tmpwnjgf) says it is. Second,
+  structural, as the 1988 preface (LIT-693) says it is. Second,
   whether satisfaction admits the resigned addict, which LIT-291 says the
   1994 amendment excludes and LIT-293 (p. 173) admits. The account is
   refuted as an account of ownership if THEORY-029 is confirmed, that is,
@@ -19,7 +22,7 @@ promote_when: >-
   case its defenders accept in which an agent identifies wholeheartedly
   with the motive she acts on, unmanipulated, and is not responsible for
   want of something other than identification, such as Wolf's JoJo if
-  THEORY-tmpp1sl4 is confirmed first-hand. More surveys restating the 1971
+  THEORY-122 is confirmed first-hand. More surveys restating the 1971
   apparatus cannot settle it: the paper is now read.
 title: "A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order"
 version: 1
@@ -31,7 +34,7 @@ tags:
 - ethics
 date: '2026-10-04'
 source:
-- LIT-tmpuutyy
+- LIT-692
 - LIT-293
 - LIT-291
 - LIT-296
@@ -39,11 +42,11 @@ source:
 rivals:
 - THEORY-029
 - THEORY-054
-- THEORY-tmpp1sl4
-- THEORY-tmpmjijs
+- THEORY-122
+- THEORY-121
 summary: >-
   Frankfurt's hierarchical, or endorsement, account, from his own texts:
-  the 1971 paper ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md), read) and the 2004 Tanner Lectures
+  the 1971 paper ([LIT-692](../literature.d/LIT-692.md), read) and the 2004 Tanner Lectures
   ([LIT-293](../literature.d/LIT-293.md), read). A person's will is the desire that moves him to act;
   he identifies with a desire by wanting it to be his will, decisively,
   and he acts of his own free will when the will that moves him is the
@@ -53,18 +56,18 @@ summary: >-
   what responsibility requires, and alternatives and history are
   irrelevant. The 1987 and 1992 revisions are held only by report.
 ---
-<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-tmpp1sl4 THEORY-tmpmjijs THEORY-tmpejn3z — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
-<!-- inactive-ok-file: LIT-575 LIT-tmpy887p LIT-tmpwnjgf LIT-tmpooua4 LIT-tmp1m893 — Deferred, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-121 THEORY-119 — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
+<!-- inactive-ok-file: LIT-575 LIT-695 LIT-693 LIT-690 LIT-684 — Deferred, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->
 
-# THEORY-tmpev5mk: A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order
+# THEORY-120: A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order
 
 ## The evidence, and what is unread
 
 Two primary texts are read first-hand: the 1971 paper, "Freedom of the
-Will and the Concept of a Person" ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md), [NOTE-tmpnpe9o](../notes.d/NOTE-tmpnpe9o.md)), and the
+Will and the Concept of a Person" ([LIT-692](../literature.d/LIT-692.md), [NOTE-545](../notes.d/NOTE-545.md)), and the
 2004 Tanner Lectures ([LIT-293](../literature.d/LIT-293.md), [NOTE-264](../notes.d/NOTE-264.md)). **The texts between them are
 unread**: "Identification and Externality" (1976), "Identification and
-Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)), "The Faintest Passion" ([LIT-tmpy887p](../literature.d/LIT-tmpy887p.md)) and
+Wholeheartedness" ([LIT-575](../literature.d/LIT-575.md)), "The Faintest Passion" ([LIT-695](../literature.d/LIT-695.md)) and
 "Autonomy, Necessity, and Love" (1994). What this account says of them is
 reported by McKenna and Coates ([LIT-291](../literature.d/LIT-291.md)), Buss and Westlund ([LIT-296](../literature.d/LIT-296.md)) and
 Dryden ([LIT-297](../literature.d/LIT-297.md)), and is marked as such. The owner authorised filing it on
@@ -72,7 +75,7 @@ this evidence.
 
 ## Source
 
-- Frankfurt (1971), [LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md), read in [NOTE-tmpnpe9o](../notes.d/NOTE-tmpnpe9o.md): the apparatus,
+- Frankfurt (1971), [LIT-692](../literature.d/LIT-692.md), read in [NOTE-545](../notes.d/NOTE-545.md): the apparatus,
   identification, freedom of the will, decisive commitment, and
   responsibility without a free will or alternatives.
 - Frankfurt (2004), [LIT-293](../literature.d/LIT-293.md), read in [NOTE-264](../notes.d/NOTE-264.md): identification as willing
@@ -89,7 +92,7 @@ this evidence.
 
 ## What the sources show
 
-**The 1971 account, first-hand.** [LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md) defines the will as "an
+**The 1971 account, first-hand.** [LIT-692](../literature.d/LIT-692.md) defines the will as "an
 effective desire—one that moves (or will or would move) a person all the
 way to action" (p. 8), and a second-order volition as wanting a desire "to
 be his will" (p. 10). A person identifies with one desire "through the
@@ -128,17 +131,17 @@ Westlund ([LIT-296](../literature.d/LIT-296.md), n. 1) report "satisfaction", "a
 or resistance'". The three reports disagree in date and content ([NOTE-270](../notes.d/NOTE-270.md),
 Connections).
 
-**Structural, not historical.** [LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md) says the conception is
+**Structural, not historical.** [LIT-692](../literature.d/LIT-692.md) says the conception is
 "neutral with regard to the problem of determinism" (p. 20), and accepts
 that an addict made so "by the deliberate and calculated work of another"
-may be "fully responsible" (n. 10). The 1988 preface ([LIT-tmpwnjgf](../literature.d/LIT-tmpwnjgf.md)) calls
+may be "fully responsible" (n. 10). The 1988 preface ([LIT-693](../literature.d/LIT-693.md)) calls
 the method "primarily structural rather than historical". [LIT-293](../literature.d/LIT-293.md) says
 responsibility for character "is not essentially a matter of producing
 that character but of taking responsibility for it" (p. 172). McKenna and
 Coates ([LIT-291](../literature.d/LIT-291.md)) quote the 2002 reply accepting a manipulated character.
 Buss and Westlund ([LIT-296](../literature.d/LIT-296.md)) call the family "doubly internalist": neither
 the origin nor the content of the endorsing attitude matters, and n. 6 of
-[LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md) says there is "no essential restriction on the kind of basis,
+[LIT-692](../literature.d/LIT-692.md) says there is "no essential restriction on the kind of basis,
 if any" on which a second-order volition is formed.
 
 The title states what the two read texts share, with the 1971 and 2004
@@ -150,7 +153,7 @@ responsibility in those terms.
 ## What this does not say
 
 - **It does not say what makes identification authoritative.** Neither read
-  text argues it. [LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md) asserts it (p. 13), and [LIT-293](../literature.d/LIT-293.md) does not
+  text argues it. [LIT-692](../literature.d/LIT-692.md) asserts it (p. 13), and [LIT-293](../literature.d/LIT-293.md) does not
   discuss the regress ([NOTE-264](../notes.d/NOTE-264.md), Limitations).
 - **It does not say the later criteria are equivalent.** Decisive
   commitment, satisfaction and wholehearted acceptance are three answers,
@@ -161,7 +164,7 @@ responsibility in those terms.
   identification suffices for acting of one's own free will, which is the
   freedom condition. Epistemic conditions are not addressed.
 - **It does not require a free will, or alternatives, for responsibility.**
-  The willing addict has neither. That is [THEORY-tmpejn3z](THEORY-tmpejn3z.md)'s claim, which
+  The willing addict has neither. That is [THEORY-119](THEORY-119.md)'s claim, which
   this account uses and does not depend on: the 1971 argument is the
   willing addict, not a Frankfurt case.
 
@@ -190,24 +193,24 @@ responsibility in those terms.
   is wholehearted here, by [LIT-575](../literature.d/LIT-575.md) as reported, and poorly integrated there.
   They are accounts of the same thing, what makes a motive one's own, and
   cannot both be right about these cases.
-- **`rivals` [THEORY-tmpp1sl4](THEORY-tmpp1sl4.md) (Wolf's Reason View).** Wolf holds that the
+- **`rivals` [THEORY-122](THEORY-122.md) (Wolf's Reason View).** Wolf holds that the
   freedom responsibility requires includes the normative competence to
   recognise and act on the True and the Good, which identification does not
-  supply. Her JoJo, by Talbert's report ([LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §3.2), is "happy to
+  supply. Her JoJo, by Talbert's report ([LIT-691](../literature.d/LIT-691.md), §3.2), is "happy to
   be the sort of person that he is" and is moved by the desires he wants to
   be moved by: he identifies wholeheartedly and so acts of his own free
   will on this account. Wolf says he is not responsible, for want of
   competence; this account says nothing is missing from the freedom
-  condition. Wolf's essay ([LIT-tmpooua4](../literature.d/LIT-tmpooua4.md)), unread, names the 1971 paper among the
+  condition. Wolf's essay ([LIT-690](../literature.d/LIT-690.md)), unread, names the 1971 paper among the
   "deep self views" it rejects, by the same report (§3.1.1). Both cannot be right about JoJo.
-- **`rivals` [THEORY-tmpmjijs](THEORY-tmpmjijs.md) (Fischer and Ravizza).** Both accounts say
+- **`rivals` [THEORY-121](THEORY-121.md) (Fischer and Ravizza).** Both accounts say
   responsibility needs no alternatives. They part on history. This account
-  is structural, and [LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md) n. 10 counts the designed addict "fully
+  is structural, and [LIT-692](../literature.d/LIT-692.md) n. 10 counts the designed addict "fully
   responsible". Fischer and Ravizza require that the mechanism be the
   agent's own through taking responsibility, and by Talbert's report
-  ([LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §3.9, citing 1998 pp. 196–201) object to Real Self views
+  ([LIT-691](../literature.d/LIT-691.md), §3.9, citing 1998 pp. 196–201) object to Real Self views
   that a mesh produced by "brainwashing or subliminal advertising" would
-  not make the agent responsible. Their book ([LIT-tmp1m893](../literature.d/LIT-tmp1m893.md)) is unread, but
+  not make the agent responsible. Their book ([LIT-684](../literature.d/LIT-684.md)) is unread, but
   the disagreement is reported with pages, and the designed addict is a
   case on which they cannot both be right.
 - **[THEORY-040](THEORY-040.md): no relation declared.** That account says a structural
@@ -215,6 +218,6 @@ responsibility in those terms.
   agent as free or add history. This account takes the first branch, in
   1971 (n. 10) and, by report, 2002. It is an instance of [THEORY-040](THEORY-040.md)'s
   forced choice, not a rival to it and not built on it.
-- **[THEORY-tmpejn3z](THEORY-tmpejn3z.md): no relation declared.** The PAP account and this one
+- **[THEORY-119](THEORY-119.md): no relation declared.** The PAP account and this one
   are Frankfurt's two arguments for responsibility without alternatives;
   they support each other and neither builds on the other's mechanism.

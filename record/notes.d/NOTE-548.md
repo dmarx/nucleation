@@ -1,6 +1,9 @@
 ---
+number: 548
 status: Read
-paper: LIT-tmppa1o1
+formerly:
+- NOTE-tmpzy6ay
+paper: LIT-691
 title: 'Moral Responsibility'
 version: 1
 history:
@@ -26,7 +29,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-040 — Proposed; named as the account of manipulation §3.9 bears on, nothing here rests on it -->
 
-# NOTE-tmpzy6ay: Moral Responsibility
+# NOTE-548: Moral Responsibility
 
 ## Contribution
 

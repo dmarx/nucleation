@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [4 Oct 00:05 — Frankfurt, filed first-hand](2026-10.md#frankfurt-filed-first-hand)
+- [3 Oct 21:35 — Susan Wolf's Reason View and Fischer & Ravizza's guidance control](2026-10.md#susan-wolfs-reason-view-and-fischer--ravizzas-guidance-control)
 - [3 Oct 20:00 — Mode connectivity, loss landscapes and model merging](2026-10.md#mode-connectivity-loss-landscapes-and-model-merging)
 - [3 Oct 16:00 — Ned Block, the global workspace, and homeostatic feeling](2026-10.md#ned-block-the-global-workspace-and-homeostatic-feeling)
 - [3 Oct 15:15 — Neural dynamics, animal consciousness and Orch OR biophysics](2026-10.md#neural-dynamics-animal-consciousness-and-orch-or-biophysics)
@@ -26,9 +28,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-64 entries across 2 books, newest first.
+66 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 17 | 2026-10-01 | 2026-10-03 |
+| [2026-10](2026-10.md) | 19 | 2026-10-01 | 2026-10-04 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

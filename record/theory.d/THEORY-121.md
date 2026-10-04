@@ -1,7 +1,10 @@
 ---
+number: 121
 status: Proposed
+formerly:
+- THEORY-tmpmjijs
 promote_when: >-
-  A first-hand reading of Responsibility and Control (LIT-tmp1m893),
+  A first-hand reading of Responsibility and Control (LIT-684),
   chapters 2, 3 and 8, or at least the authors' précis (PPR 61(2), 2000),
   that confirms the account as the secondary sources report it: guidance
   control is the agent's own, moderately reasons-responsive mechanism, with
@@ -15,7 +18,7 @@ promote_when: >-
   first-hand and shown unanswered by Fischer's replies. The
   alternative-possibilities half is refuted only if both the Frankfurt-type
   cases and the other routes Fischer says lead to the same conclusion
-  (LIT-tmpgaaah, §I) fail. A failure of the Frankfurt cases alone does not
+  (LIT-689, §I) fail. A failure of the Frankfurt cases alone does not
   refute it.
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
 version: 1
@@ -27,37 +30,37 @@ tags:
 - moral-psychology
 date: '2026-10-03'
 source:
-- LIT-tmp1m893
-- LIT-tmpgaaah
+- LIT-684
+- LIT-689
 - LIT-291
-- LIT-tmppa1o1
+- LIT-691
 - LIT-294
 extends:
-- THEORY-tmpejn3z
+- THEORY-119
 rivals:
-- THEORY-tmp6tk5g
-- THEORY-tmpev5mk
+- THEORY-118
+- THEORY-120
 summary: >-
   Fischer and Ravizza (1998), reported second-hand: the book is unread.
   Fischer's own lawful summary ("Stories and the Meaning of Life",
-  [LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md), read) states the core first-hand: guidance control, not
+  [LIT-689](../literature.d/LIT-689.md), read) states the core first-hand: guidance control, not
   regulative control, is the freedom-relevant condition; it is acting from
   one's own, moderately reasons-responsive mechanism; and it is compatible
   with causal determinism. McKenna and Coates ([LIT-291](../literature.d/LIT-291.md), §4.4 and supplement
-  §B) and Talbert ([LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §2.3) report the analysis: Frankfurt-type
+  §B) and Talbert ([LIT-691](../literature.d/LIT-691.md), §2.3) report the analysis: Frankfurt-type
   cases move responsiveness from the agent to the mechanism actually at
   work; the mechanism must show regular, understandable receptivity to
   reasons, including moral ones, and some reactivity; and it is the agent's
   own when she has taken responsibility for it.
 ---
-<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
-<!-- inactive-ok-file: THEORY-tmpejn3z — Proposed; the Frankfurt-case claim this account extends -->
-<!-- inactive-ok-file: LIT-tmp1m893 LIT-tmpavyub — Deferred, unread; Fischer and Ravizza's book and Fischer's 1987 chapter, named as sources or origin because the account is theirs, and nothing is quoted from them -->
-<!-- inactive-ok-file: LIT-tmpbc48b — Deferred, unread; Wolf's article, named as the source of the rival account -->
-<!-- inactive-ok-file: THEORY-tmp6tk5g THEORY-tmpp1sl4 — Proposed; Wolf's asymmetry (the rival) and her Reason View, filed in the same batch -->
+<!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
+<!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->
+<!-- inactive-ok-file: LIT-684 LIT-687 — Deferred, unread; Fischer and Ravizza's book and Fischer's 1987 chapter, named as sources or origin because the account is theirs, and nothing is quoted from them -->
+<!-- inactive-ok-file: LIT-688 — Deferred, unread; Wolf's article, named as the source of the rival account -->
+<!-- inactive-ok-file: THEORY-118 THEORY-122 — Proposed; Wolf's asymmetry (the rival) and her Reason View, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-040 THEORY-029 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
-# THEORY-tmpmjijs: Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism
+# THEORY-121: Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism
 
 ## The evidence is second-hand, except for one summary
 
@@ -65,28 +68,28 @@ summary: >-
 Control*, of its précis, or of Fischer's 1987 chapter could be found (see
 their status notes). The analysis of moderate reasons-responsiveness and of
 ownership is reported here through two read SEP entries. One lawful text by
-Fischer was read, "Stories and the Meaning of Life" ([LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md)). It states
+Fischer was read, "Stories and the Meaning of Life" ([LIT-689](../literature.d/LIT-689.md)). It states
 the account's core claims in his own words but does not argue them or give
 the analysis. Nothing is quoted from the book. The owner authorised filing
 this on this evidence on 2026-10-03.
 
 ## Source
 
-- Fischer and Ravizza, *Responsibility and Control* (1998), [LIT-tmp1m893](../literature.d/LIT-tmp1m893.md),
+- Fischer and Ravizza, *Responsibility and Control* (1998), [LIT-684](../literature.d/LIT-684.md),
   Deferred, unread: the account's full statement.
-- Fischer, "Stories and the Meaning of Life" (2009), [LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md), read in
-  [NOTE-tmpvgp5d](../notes.d/NOTE-tmpvgp5d.md): §I, the author's own summary of the framework.
+- Fischer, "Stories and the Meaning of Life" (2009), [LIT-689](../literature.d/LIT-689.md), read in
+  [NOTE-547](../notes.d/NOTE-547.md): §I, the author's own summary of the framework.
 - McKenna and Coates, SEP *Compatibilism*, [LIT-291](../literature.d/LIT-291.md), §4.4 and supplement §B,
   read in [NOTE-270](../notes.d/NOTE-270.md).
-- Talbert, SEP *Moral Responsibility*, [LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §§1, 2.3 and 3.9, read in
-  [NOTE-tmpzy6ay](../notes.d/NOTE-tmpzy6ay.md).
+- Talbert, SEP *Moral Responsibility*, [LIT-691](../literature.d/LIT-691.md), §§1, 2.3 and 3.9, read in
+  [NOTE-548](../notes.d/NOTE-548.md).
 - Robb, SEP *Moral Responsibility and the Principle of Alternative
   Possibilities*, [LIT-294](../literature.d/LIT-294.md), §§3.4, 4 and 5.1, read in [NOTE-269](../notes.d/NOTE-269.md): the
   Frankfurt-case basis.
 
 ## What the sources show
 
-**Guidance, not regulative, control.** Fischer's own summary ([LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md),
+**Guidance, not regulative, control.** Fischer's own summary ([LIT-689](../literature.d/LIT-689.md),
 §I) lists among the framework's elements "a distinction between 'regulative'
 and 'guidance' control" and "an argument that guidance control, and not
 regulative control, is the 'freedom-relevant' condition linked to moral
@@ -105,12 +108,12 @@ control as one of the two compatibilist accounts built on that conclusion
 flicker-of-freedom reply and the dilemma defence. Fischer states the moral of
 the cases himself: responsibility "is a matter of how the actual sequence
 unfolds, not whether the agent has genuine metaphysical access to
-alternative sequences" ([LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md), p. 4). He adds that there are "other
+alternative sequences" ([LIT-689](../literature.d/LIT-689.md), p. 4). He adds that there are "other
 dialectical routes to the same conclusion", so the claim does not stand or
 fall with the cases.
 
 **Why the mechanism and not the agent.** McKenna and Coates ([LIT-291](../literature.d/LIT-291.md),
-§4.4.2–4.4.3, citing pp. 34–41) and Talbert ([LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §2.3, citing
+§4.4.2–4.4.3, citing pp. 34–41) and Talbert ([LIT-691](../literature.d/LIT-691.md), §2.3, citing
 pp. 37–39) report the same argument. In a Frankfurt case the agent would act the same
 whatever reasons she faced, so the agent is not reasons-responsive. The
 mechanism that actually issues in the action may still be, and guidance
@@ -125,7 +128,7 @@ moderate version separates receptivity, recognising reasons, from
 reactivity, acting on them. The requirement on receptivity is a regular,
 understandable pattern of actual and hypothetical receptivity, one that
 shows the agent grasps how reasons fit together and that includes moral
-reasons (Talbert's report, [LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §2.3, citing pp. 71 and 77). The requirement on reactivity is
+reasons (Talbert's report, [LIT-691](../literature.d/LIT-691.md), §2.3, citing pp. 71 and 77). The requirement on reactivity is
 weaker. McKenna and Coates's waltzing Matilda ([LIT-291](../literature.d/LIT-291.md), supplement §B.1)
 recognises a sufficient reason to stop and does not act on it, and her
 mechanism still counts, provided it reacts within a coherent, stable range.
@@ -138,19 +141,19 @@ The mechanism is the agent's own only if she has taken responsibility for
 it: she sees her conduct as making a difference in the world, accepts that
 she is a fit target of the reactive attitudes, and comes to see herself this
 way by an appropriate route, not by brainwashing or deception ([LIT-291](../literature.d/LIT-291.md),
-supplement §B.2; [LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md), §3.9). Fischer's summary confirms that
+supplement §B.2; [LIT-691](../literature.d/LIT-691.md), §3.9). Fischer's summary confirms that
 responsibility is "fundamentally a historical notion" and that ownership
-involves a "subjective" condition ([LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md), p. 4).
+involves a "subjective" condition ([LIT-689](../literature.d/LIT-689.md), p. 4).
 
 **Semicompatibilism.** Guidance control so analysed is compatible with
 causal determinism. A determined mechanism can still be one that would
 respond differently if different reasons bore on it ([LIT-291](../literature.d/LIT-291.md), §4.4.3).
 Fischer's summary says guidance control "is compatible with causal
-determinism" ([LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md), §I). "Semicompatibilism" is Fischer's name for
+determinism" ([LIT-689](../literature.d/LIT-689.md), §I). "Semicompatibilism" is Fischer's name for
 the resulting position, which is about responsibility and leaves open
 whether determinism rules out the freedom to do otherwise; [LIT-291](../literature.d/LIT-291.md) cites
 his "Semicompatibilism and Its Rivals" (2012). The account's origin is
-Fischer's 1987 chapter ([LIT-tmpavyub](../literature.d/LIT-tmpavyub.md)), which, by [LIT-291](../literature.d/LIT-291.md)'s report, lacked
+Fischer's 1987 chapter ([LIT-687](../literature.d/LIT-687.md)), which, by [LIT-291](../literature.d/LIT-291.md)'s report, lacked
 the moderate version and the ownership condition.
 
 ## What this does not say
@@ -160,7 +163,7 @@ the moderate version and the ownership condition.
 - **It does not depend on its details.** Fischer says he can drop the
   strongly subjective ownership condition and the thesis that reactivity
   is "all-of-a piece" and keep the three core claims: no regulative
-  control, historical, compatible with determinism ([LIT-tmpgaaah](../literature.d/LIT-tmpgaaah.md), p. 4).
+  control, historical, compatible with determinism ([LIT-689](../literature.d/LIT-689.md), p. 4).
   The title states the core, so a failure of the 1998 details does not by
   itself refute it.
 - **It does not settle manipulation.** [THEORY-040](THEORY-040.md) holds that a structural
@@ -183,37 +186,37 @@ the moderate version and the ownership condition.
 
 ## Relations
 
-- **`rivals` [THEORY-tmp6tk5g](THEORY-tmp6tk5g.md) (Wolf's asymmetry).** On praise the two agree:
+- **`rivals` [THEORY-118](THEORY-118.md) (Wolf's asymmetry).** On praise the two agree:
   no alternatives are needed. On blame they cannot both be right. Wolf, as
   McKenna and Coates report her ([LIT-291](../literature.d/LIT-291.md), §4.3), holds that blame requires
   the ability to have acted on the right reasons. They put that as
-  regulative control, citing "Asymmetrical Freedom" ([LIT-tmpbc48b](../literature.d/LIT-tmpbc48b.md)). This
+  regulative control, citing "Asymmetrical Freedom" ([LIT-688](../literature.d/LIT-688.md)). This
   account holds that no responsibility, blame included, requires
   regulative control. A Frankfurt-style wrongdoer, who acts wrongly from
   her own mechanism while an idle intervener ensures she could not have
   done otherwise, is blameworthy here and excused there, unless Wolf has
   an answer the record has not read. Neither account corrects the other
   in the sources, so the relation is `rivals`, declared on both sides.
-- **No relation to [THEORY-tmpp1sl4](THEORY-tmpp1sl4.md) (the Reason View).** Both accounts make
+- **No relation to [THEORY-122](THEORY-122.md) (the Reason View).** Both accounts make
   responsibility depend on responsiveness to reasons rather than on
-  identification. Talbert ([LIT-tmppa1o1](../literature.d/LIT-tmppa1o1.md)) lists both among the
+  identification. Talbert ([LIT-691](../literature.d/LIT-691.md)) lists both among the
   reasons-responsiveness views (§2.3), and lists Fischer and Ravizza among
   those who join Wolf in holding that impaired moral competence undermines
   responsibility (§3.2). Moral receptivity is part of moderate
   responsiveness here, so this account includes a competence condition of
   the Reason View's kind. The two can both be true, so they are not rivals.
   Neither is reported to build on the other, so there is no `extends`.
-  [THEORY-tmpp1sl4](THEORY-tmpp1sl4.md) gives the full reasoning.
+  [THEORY-122](THEORY-122.md) gives the full reasoning.
 - **[THEORY-029](THEORY-029.md)** (the regress of higher-order attitudes). This account
   places ownership in a history of taking responsibility, not in the order
   of an attitude, so the regress as stated does not reach it. Whether the
   self-conception that taking responsibility needs raises the same
   question is my question, not one the sources ask. No relation.
 
-- **Extends [THEORY-tmpejn3z](THEORY-tmpejn3z.md).** Guidance control drops regulative control
+- **Extends [THEORY-119](THEORY-119.md).** Guidance control drops regulative control
   because of the Frankfurt-case argument that the PAP is false. That
-  argument is read first-hand in [LIT-tmpwts2i](../literature.d/LIT-tmpwts2i.md), pp. 835–837.
-- **Rivals [THEORY-tmpev5mk](THEORY-tmpev5mk.md)** on the designed addict. Frankfurt (1971, n. 10)
+  argument is read first-hand in [LIT-694](../literature.d/LIT-694.md), pp. 835–837.
+- **Rivals [THEORY-120](THEORY-120.md)** on the designed addict. Frankfurt (1971, n. 10)
   allows that an agent made an addict "by the deliberate and calculated
   work of another" may be fully responsible. Fischer & Ravizza's history
   condition, taking responsibility, denies it.
