@@ -15,7 +15,7 @@ history:
     the counterexample (A.6), the comparison with greedy matching and
     OT-Fusion (A.7), and merge-many (A.10). Results are mostly in loss and
     accuracy plots, read from captions and the numbers the text gives. The
-    anthology's reading of the same paper (ANTH-LIT-333, its NOTE-116) was
+    anthology's reading of the same paper (ANTH-LIT-333, its ANTH-NOTE-116) was
     read for comparison.
 date: '2026-10-03'
 summary: >-
@@ -153,7 +153,7 @@ convolutions and attention (§3.2); how is not described in the text.
   and the dependence on SGD.
 - Bears on the candidate that linear connectivity emerges early in training:
   here, modulo permutation, it emerges over training.
-- **Disagreement with the anthology's reading ([ANTH-LIT-333](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-333.md), [NOTE-116](NOTE-116.md) there).**
+- **Disagreement with the anthology's reading ([ANTH-LIT-333](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-333.md), [ANTH-NOTE-116](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-116.md)).**
   That reading describes weight matching as "Hungarian algorithm … layer by
   layer" and "greedy", says multi-model merging needs pairwise anchoring,
   reports near-zero barriers across MLPs, CNNs, VGGs and ResNets with merged

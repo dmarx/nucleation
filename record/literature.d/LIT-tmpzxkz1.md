@@ -1,0 +1,187 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmp25fhs](../notes.d/NOTE-tmp25fhs.md)); the record''s first brain-wide test of whether neurons within a cortical area come in discrete functional types or form a continuum of mixed selectivity. In mouse cortex during one overtrained decision task, a covariance-matched Gaussian null is beaten within single areas only in a few primary sensory ones, while the task conditions each area tells apart are linearly separable in nearly every balanced split. Neuron types appear when areas are pooled, and track anatomy. Second reading under [ADR-013](../decisions.d/ADR-013.md); the anthology holds it as [ANTH-LIT-696](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-696.md), read for concept geometry in ML.'
+title: 'Rarely categorical, highly separable representations along the cortical hierarchy'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Second reading under ADR-013. The Anthology of the SOTA holds this work
+    as ANTH-LIT-696, read for concept geometry and the probing caveat in ML;
+    this record reads it for what cortical population codes are like.
+    Read in full from the publisher's open-access PDF (CC BY-NC-ND 4.0,
+    https://www.nature.com/articles/s41586-026-10668-4.pdf, 35 pages): main
+    text, Discussion, the complete Methods (inclusion criteria, RRR model,
+    the three clustering pipelines, ePAIRS, α-diversity, representation
+    dimensionality, decoding, independent conditions, separability and AD,
+    the synthetic models, the row/column-space argument and the
+    Gaussian-cluster PR derivation, whose displayed equations the text
+    layer recovers only in part) and every Extended Data legend. Figs 3,
+    5 and 6 and Extended Data Fig. 11 were inspected as rendered pages.
+    The Peer Review File (supplementary file 2, 34 pages, both rounds and
+    the rebuttals) was read in full; the Reporting Summary is image-only
+    and was not read. The bioRxiv preprint (10.1101/2024.11.15.623878,
+    posted 17 November 2024, titled "Rarely categorical and highly
+    separable: how neural representations change along the cortical
+    hierarchy") was not read; `published:` is the journal's online date,
+    as for LIT-633. Crossref confirms authors, title and online date;
+    volume and pages not yet assigned.
+tags:
+- neuroscience
+- cognition
+date: '2026-10-04'
+published: '2026-07-15'
+doi: '10.1038/s41586-026-10668-4'
+first_author: 'Posani'
+keywords:
+- 'Decision'
+- 'Neural decoding'
+- 'Neural encoding'
+implementations:
+- 'https://github.com/realwsq/brainwide-RRR-encoding-model'
+- 'https://github.com/lposani/decodanda'
+summary: >-
+  Posani, Wang, Muscinelli, Paninski & Fusi (2026), Nature. In the IBL
+  Brainwide Map (about 14,000 cortical units, 43 regions, mice doing one
+  biased-block visual decision task), neurons' selectivity to eight task
+  variables beats a covariance-matched Gaussian null for clustering only
+  in VISp, AUDp and SSp-ul (4,617 selective neurons; regions with ≥ 50).
+  Pooled modules and the whole cortex do cluster, with clusters tracking
+  anatomy. Once conditions an area cannot tell apart are merged (5 to 16
+  of 16 remain), ≥ 95% of random balanced dichotomies are linearly
+  decodable above a shuffle null in 15 of 16 analysed regions; GU is
+  0.82.
+---
+
+<!-- inactive-ok-file: THEORY-083 — Proposed; named in Standing as the contrast the owner raised, explained as a different sense of "categorical", nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-102 — Proposed; named as an account whose decoding evidence this paper's warning bears on, not tested by it -->
+<!-- inactive-ok-file: LIT-267 — Proposed; named only as a precedent for a dual-held entry without the anthology-candidate flag -->
+<!-- inactive-ok-file: THEORY-008 — Proposed; named for why a rotation-invariant readout measure cannot see neuron types, nothing here rests on it -->
+
+# LIT-tmpzxkz1: Rarely categorical, highly separable representations along the cortical hierarchy
+
+Lorenzo Posani, Shuqi Wang, Samuel P. Muscinelli, Liam Paninski and Stefano
+Fusi (2026), *Nature*, published online 15 July 2026 — DOI-10.1038/s41586-026-10668-4
+
+## Key takeaways
+
+- **Within a region, neurons rarely form types.** Each selective neuron's
+  response is summarised by eight time-summed coefficients of a
+  reduced-rank regression on block prior, stimulus side, contrast, choice,
+  outcome, wheel velocity, whisking and licks. A region counts as
+  *categorical* when the best k-means partition of those vectors has a
+  higher silhouette score than 100 draws from a Gaussian with the data's
+  own mean and covariance (Bonferroni P < 0.05). Only VISp, AUDp and
+  SSp-ul pass; SSp-ll and GU are near the threshold (Fig. 3d). What most
+  regions show instead is an elongated, unclustered cloud: some variables
+  are encoded much more strongly than others (Discussion).
+- **Types appear at larger scales, and follow anatomy.** Pooling the
+  non-categorical regions by anatomical module gives clusters in the
+  somatomotor (z = 8.56), medial (7.84) and lateral (2.32) modules but not
+  the prefrontal (0.54); the whole cortex gives z = 8.0. Cluster labels
+  align with area labels (Fig. 3e,f). A neuron's region can be decoded
+  from its selectivity profile alone (0.233 against a 0.033 null), and
+  regions with more anatomical connectivity have more similar average
+  profiles (Spearman ρ = 0.40) (Fig. 2c–f).
+- **Diverse selectivity buys separable geometry.** Rows and columns of one
+  neurons × conditions matrix share a spectrum, so k tight clusters of
+  neurons cap the participation ratio of the condition geometry near
+  min(k, M) (Methods, Extended Data Fig. 9). Across regions, a measure of
+  response diversity (α-diversity) tracks representation dimensionality
+  and the fraction of balanced dichotomies of 16 conditions that a
+  cross-validated linear readout decodes (Figs 5c, 6c).
+- **Over what each area does tell apart, nearly everything is readable.**
+  An iterative procedure merges conditions until every pair is decodable
+  at ≥ 0.666, leaving M_IC from 5 (SSp-n) to 16 (MOs), increasing up the
+  anatomical hierarchy (ρ = 0.77). Over those conditions, separability is
+  ≥ 0.95 in 15 of the 16 regions with enough trials, GU being 0.82, and
+  no longer depends on diversity (Fig. 6d, Extended Data Fig. 11e).
+- **A warning the authors draw from it.** When conditions are pairwise
+  separable, every dichotomy of them is decodable above chance, so finding
+  one variable decodable "often lacks significance, as all other variables
+  are also likely to be decodable" (Discussion).
+
+## Standing in the record
+
+**Second reading under [ADR-013](../decisions.d/ADR-013.md).** The Anthology of the SOTA holds this
+paper as [ANTH-LIT-696](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-696.md), read in full on 2026-09-25 and tagged
+`concept-geometry`. Its question is what the paper implies for
+representations in machine learning: that a successful linear probe is
+weak evidence a concept is specifically represented, and that a
+Gaussian-null clustering test could ask whether a network's units or a
+sparse dictionary's latents form functional types. This record reads it
+for a different question, about brains: **do neurons within a cortical
+area come in discrete functional types or form a continuum of mixed
+selectivity, and what does that structure do to how many distinctions the
+area makes available to a linear readout?** That is the empirical ground
+under the mixed-selectivity account of flexible cognition (Rigotti et al.
+2013; Fusi, Miller & Rigotti 2016), which this paper extends from monkey
+prefrontal cortex to a brain-wide survey, and which this record does not
+yet hold.
+
+The paper does **not** answer a question about abstraction, though it is
+easy to read it that way. It measures separability, the readout's capacity
+to split conditions in many arbitrary ways, and not the
+cross-condition generalisation by which Bernardi et al. (2020) measure
+abstract, low-dimensional structure. The authors say so: high separability
+"does not imply a complete absence of structure", and a representation can
+have the generalisation properties of a disentangled one and still be
+maximally separable (Discussion). It is evidence about how diverse cortical
+codes are, not about whether they abstract.
+
+**Boundary.** The paper carries no instruction for machine-learning
+practice; its only contact with artificial networks is the Discussion's
+citation of RNN work on when modular structure emerges. Neuroscience is
+not an anthology topic, and the question this entry asks of the paper is
+one no anthology topic holds. It therefore does not carry
+`anthology-candidate`: that flag asks whether a work should move, and this
+one is held there already for the anthology's own question, as [LIT-267](LIT-267.md) and
+[LIT-460](LIT-460.md) are.
+
+**Connections to the record's holdings.**
+
+- **Neural collapse.** Papyan, Han and Donoho ([LIT-618](LIT-618.md)) showed that
+  classifiers trained past zero error collapse each class's last-layer
+  features onto its mean and spread the means into a simplex equiangular
+  tight frame, which the record states as [THEORY-083](../theory.d/THEORY-083.md). That looks like
+  the opposite of "rarely categorical", and a referee proposed it as
+  related work on categorical representations. It is a different sense of
+  the word. Neural collapse is about *conditions* in neural space: samples
+  of a class collapse to one point and the class means sit as far apart as
+  possible, which in this paper's terms is maximal M_IC with maximal
+  dimension, the tetrahedron of its Fig. 6a that is separable in every
+  way. This paper's "categorical" is about *neurons* in conditions space,
+  forming types. Neural collapse is invariant to rotating the feature
+  basis and says nothing about whether units form types; by the paper's
+  own row/column argument, a collapsed C-class layer whose units formed
+  k tight types would need k ≥ C − 1. The two are not in conflict, and
+  the published reference list does not cite neural collapse.
+- **Decoding as evidence.** Vishne et al. ([LIT-644](LIT-644.md)) decode image category
+  from human ventral temporal cortex, and [THEORY-102](../theory.d/THEORY-102.md) rests on that
+  decoding. This paper's warning applies to how such results are read:
+  above-chance decoding of a chosen variable is weak evidence of
+  representing *that* variable when the conditions are pairwise
+  distinguishable. Vishne et al.'s sustained near-ceiling accuracy and
+  their exemplar-geometry analysis are stronger than above-chance
+  decoding, so the warning qualifies the inference without undercutting
+  it. Nothing is declared; the two papers measure different species,
+  signals and variables.
+- **Readout and basis.** [THEORY-008](../theory.d/THEORY-008.md) holds that what a regularised linear
+  readout can decode depends only on a representation's kernel, which is
+  unchanged by rotating the units. That is why separability cannot tell
+  "explicit" modularity (segregated neuron types) from "implicit"
+  modularity (the same geometry rotated), as the paper's Discussion says,
+  and why the categoricality question needs a separate test in the neuron
+  basis.
+- Verzhbinsky et al. ([LIT-633](LIT-633.md)) and Xu et al. ([LIT-638](LIT-638.md)), filed in the
+  recent neural-dynamics batch, study coordination across regions in
+  humans (co-firing during ripples, spiral waves in fMRI). They share this
+  paper's interest in large-scale organisation but test nothing it claims,
+  and no relation is declared.
+
+The record holds none of the works this paper builds on or answers:
+Rigotti et al. (2013), Fusi, Miller and Rigotti (2016), Bernardi et al.
+(2020), Raposo et al. (2014), and Hirokawa et al. (2019), whose
+orbitofrontal "categorical" result one referee calls corrected by this
+paper. So no `extends`, `corrects` or `compared_against` is declared.
