@@ -1,0 +1,166 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmpr6jda](../notes.d/NOTE-tmpr6jda.md)); worth reading as the distributed, computational case for collective emotion, and the clearest statement of what it would take. An emotion is an integrated representation with indicative content and imperative force, built from subpersonal routines; a group whose routines are integrated the same way can be in one, without feeling it. The test case fails on the author''s own terms (the USS Palau crew detects danger without fear) and the replacement (a 2008 presidential campaign) is offered as intuitively plausible pending anthropology, so the paper establishes a possibility and a research programme, not an instance.'
+title: 'Genuinely collective emotions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full from the author's manuscript posted on his Georgetown
+    faculty pages (https://faculty.georgetown.edu/lbh24/GenuinelyCollectiveEmotions.pdf,
+    29 pages: abstract, §§1–7, 25 footnotes and the works cited), an
+    author's own deposit on a university domain and so lawful. The Springer
+    version of record was not seen; page numbers in the NOTE are the
+    manuscript's, not the journal's 89–118. Crossref confirms the title,
+    European Journal for Philosophy of Science 1(1):89–118, the DOI, online
+    publication on 30 November 2010 and the January 2011 issue, so
+    `published:` is the online date (ADR-002) and the request's 2011 is the
+    issue year. Not held in the Anthology of the SOTA: a grep of its
+    literature.d and notes.d for "Huebner", the title and the DOI found
+    nothing.
+tags:
+- emotion-and-affect
+- social-ontology
+- cognition
+- consciousness
+- philosophy-of-science
+date: '2026-10-04'
+published: '2010-11-30'
+doi: '10.1007/s13194-010-0006-2'
+url: 'https://faculty.georgetown.edu/lbh24/GenuinelyCollectiveEmotions.pdf'
+first_author: 'Huebner'
+keywords:
+- 'collective emotion'
+- 'collective mentality'
+- 'distributed cognition'
+- 'emotional representation'
+- 'non-conscious emotion'
+- 'homology'
+- 'plural subject'
+- 'USS Palau'
+implementations: []
+rivals:
+- LIT-tmpbdcqn
+summary: >-
+  Huebner (2010), European Journal for Philosophy of Science 1(1):89–118.
+  Against the received view that only individuals have emotions, it argues
+  that some groups have the computational complexity and informational
+  integration that emotion requires. Emotions are integrated, action-
+  oriented representations built from subpersonal routines; a distributed
+  system can integrate routines the same way. It answers the objection from
+  consciousness (some individual emotions are non-conscious, so collective
+  ones need not be felt) and from homology (emotion kinds are functional,
+  "like vodka", not "like bourbon"). A navy crew turns out to detect danger
+  without fear; a failing election campaign is offered instead.
+---
+
+<!-- inactive-ok-file: LIT-tmpbdcqn — Deferred, no lawful full text; Gilbert's account, which this paper argues against and which it reports with page references -->
+<!-- inactive-ok-file: LIT-tmp1efif — Deferred, no lawful full text; Schmid's phenomenological account, named as the third position, not leaned on -->
+<!-- inactive-ok-file: LIT-426 — Deferred, no lawful full text; Huebner's Macrocognition, named as the book-length programme, not leaned on -->
+<!-- inactive-ok-file: LIT-tmp4po64 — Deferred, no lawful full text; Isaacs on collective guilt, named as a neighbour, not leaned on -->
+<!-- inactive-ok-file: THEORY-057 — Proposed; the record's constructionist account of emotion categories, named for contrast, not leaned on -->
+<!-- inactive-ok-file: LIT-546 — Deferred, unread; Frijda's The Emotions, named because the paper cites it, not leaned on -->
+<!-- inactive-ok-file: LIT-483 — Deferred, unread; Tollefsen's Groups as Agents, named as a neighbour, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpy5844 — Deferred, no lawful full text; Wimsatt on aggregativity, named as filed in the same batch -->
+
+# LIT-tmpdb036: Genuinely collective emotions
+
+Bryce Huebner (2010), *European Journal for Philosophy of Science* 1(1):89–118 (online 30 November 2010; January 2011 issue) — DOI-10.1007/s13194-010-0006-2
+
+## Key takeaways
+
+- **The question is collectivism, not holism.** Many arguments for collective
+  emotion show only that individuals' emotions depend on their groups
+  (Jaspers, May, Tollefsen's collective guilt). A genuinely collective emotion
+  must be a state that is not individual states in aggregation, and Huebner
+  makes that the test (pp. 3–4).
+- **Emotion is an integration achievement.** Fear needs danger detection,
+  redeployment of attention, system-wide preparatory changes, and the
+  coordination of all of these into one state with indicative content and
+  imperative force (p. 10). If a distributed system integrates routines that
+  way, nothing in the computational story stops it being afraid.
+- **Two objections are answered and one is conceded.** Consciousness: some
+  individual emotions are non-conscious in a strong sense, so a group's need
+  not be felt (§5). Homology: emotion kinds are fixed at the computational
+  level, not by brain homologues (§6). But the paradigm case, the USS Palau
+  crew, shows "collective detection of danger in the absence of a fear
+  response", because training removed the agitation (§7). The case that
+  replaces it, the McCain–Palin campaign of 2008, rests on no data.
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, with Gilbert ([LIT-tmpbdcqn](LIT-tmpbdcqn.md)),
+Schmid ([LIT-tmp1efif](LIT-tmp1efif.md)), List & Pettit ([LIT-tmphq2d4](LIT-tmphq2d4.md), [LIT-tmpaxx6q](LIT-tmpaxx6q.md)), Wimsatt
+([LIT-tmpy5844](LIT-tmpy5844.md)) and Isaacs ([LIT-tmp4po64](LIT-tmp4po64.md)), to connect the record's emotion
+holdings to its group-agency and social-ontology holdings. No anthology topic
+holds it, and it carries no instruction for machine-learning practice.
+
+It is the paper; Huebner's book *Macrocognition* ([LIT-426](LIT-426.md)) is held Deferred
+and unread. The paper's footnote 4 defers its account of collective
+representation to work "in prep", and its integration criterion (specialised
+routines integrated into skilful coping) is the one [LIT-426](LIT-426.md)'s publisher
+description states. So this paper is the record's first read statement of
+the macrocognition programme, applied to emotion.
+
+**The three accounts of collective emotion.** The owner asked for the debate
+between Gilbert's plural-subject account, this distributed account and
+Schmid's phenomenological one.
+
+- **Against Gilbert ([LIT-tmpbdcqn](LIT-tmpbdcqn.md)), declared `rivals`.** Huebner reports
+  Gilbert's definition, "for us collectively to feel guilt over our action A
+  is for us to be jointly committed to feeling guilt as a body over our
+  action A" (Gilbert 2001, 139, quoted p. 4), and her claim that collective
+  emotions need no phenomenology (Gilbert 2002, 119, p. 2). He grants that the
+  definition comes closer to a collective emotion than membership guilt does,
+  then argues that a plural subject's emotion reduces to individual
+  commitments plus rules for their aggregation, while an individual's
+  emotion does not, since subpersonal routines do not "traffic in
+  commitments" (p. 4). He also rejects her route to unfelt collective
+  emotion, "pace Gilbert (2002)": the psychoanalytic examples show only
+  inaccessible emotions, not unfelt ones (p. 15). The two accounts locate a
+  group's emotion in different things, joint commitments against integrated
+  computation, and each excludes the other's bearer. Neither tests the
+  other, so the relation is `rivals`, not `corrects`. Gilbert's own text is
+  unread here, and what is said of it rests on Huebner's report.
+- **Against Schmid ([LIT-tmp1efif](LIT-tmp1efif.md)), no relation declared.** Schmid's chapter
+  came four years later and is unread. By its abstract it holds that a group
+  with intentional attitudes has consciousness, as plural pre-reflective
+  self-awareness, and that groups can have "slow" emotions but not "fast"
+  ones. Huebner concedes that his crew cannot be conscious (p. 14) and builds
+  unfelt collective emotion instead. His fast case (fear at sea) fails and his
+  surviving case is fear sustained over weeks of a campaign. That is
+  consistent with Schmid's fast/slow line, but the two disagree on whether
+  the group feels anything. A relation waits on a reading of Schmid.
+
+**Group agency.** Huebner's test, a group state that "could not be
+exhaustively characterized in terms of intentional states of individuals in
+aggregation" (p. 4), is the informal version of what List and Pettit prove
+for judgments: a rational group's attitude on a proposition cannot in
+general be a function of its members' attitudes on that proposition
+([LIT-tmphq2d4](LIT-tmphq2d4.md)). Their distributed premise-based procedure, where subgroups
+each settle one premise and nobody need judge the conclusion, has the shape
+of Hutchins's navigation crew, where each sub-routine is "sensitive to some
+one-dimensional constraint" (p. 12). List's three-way taxonomy ([LIT-tmpaxx6q](LIT-tmpaxx6q.md))
+gives Huebner's holism/collectivism split a sharper form: holistic emotions
+are aggregate or common emotions, and a genuinely collective emotion would be
+a corporate one. Neither List paper mentions emotion beyond listing "fears
+and hopes" as attitudes ([LIT-tmpaxx6q](LIT-tmpaxx6q.md), §1), so no relation is declared.
+
+**Emotion theory.** The paper takes emotions to represent Lazarus's
+core-relational themes, by way of Prinz, and to be action-oriented in
+Griffiths and Scarantino's sense. It lists Frijda (1986) among accounts that
+require many component capacities (n. 12). The record holds Frijda's 1986
+book unread ([LIT-546](LIT-546.md)) and his 2014 paper read ([LIT-540](LIT-540.md)). An appraisal-style
+functional kind is what lets the argument run, and Barrett's constructionism
+([LIT-542](LIT-542.md), [THEORY-057](../theory.d/THEORY-057.md)) would deny it a natural kind to extend. Huebner's own
+§6 already turns that against the homology objection: Griffiths's
+eliminativism about emotion as a kind is offered as the cost of insisting on
+homology (pp. 20–22).
+
+The book-length neighbours are Tollefsen's *Groups as Agents* ([LIT-483](LIT-483.md)) and
+Schwitzgebel's US-consciousness argument ([LIT-159](LIT-159.md)). Huebner's footnote 22
+says that on representational or higher-order theories collectivities "can
+be conscious where they have the right functional organization", which is
+Schwitzgebel's conditional. List's reply to Schwitzgebel ([LIT-401](LIT-401.md)) quotes
+Huebner's book on the same intuition.

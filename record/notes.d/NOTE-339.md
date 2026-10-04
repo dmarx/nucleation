@@ -258,5 +258,3 @@ every later system.
   Minsky (2003).
 - **Keywords differ.** The PDF gives "multiagent systems" as a keyword. The
   journal's page gives "intelligent systems" in that place.
-</content>
-</invoke>

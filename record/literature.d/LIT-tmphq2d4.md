@@ -1,0 +1,151 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmpdsh8u](../notes.d/NOTE-tmpdsh8u.md)); worth reading as the short, formal core of List and Pettit''s group agency: a group can be a robustly rational judge only if its judgment on a proposition is not, in general, a function of its members'' judgments on that proposition. Group judgments supervene on members'' judgments set-wise, not proposition-wise, so a group agent is individualistically unmysterious and still "not directly continuous" with its members. Read here as the lawful substitute for the unread book [LIT-391](LIT-391.md), whose chapter 3 takes up the same supervenience question; the impossibility results are cited from other papers, not proved here.'
+title: 'Group Agency and Supervenience'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full from the authors' revised version of 11 January 2006,
+    posted on List's LSE personal pages
+    (https://personal.lse.ac.uk/list/pdf-files/groupagencysupervenience.pdf,
+    22 pages: abstract, §§1–6, 9 footnotes and references), an author's
+    own deposit and so lawful. The Wiley version of record was not seen;
+    page numbers in the NOTE are the manuscript's, not the journal's
+    85–105. Crossref gives The Southern Journal of Philosophy 44(S1),
+    85–105, issue of March 2006, and an online date of 2 March 2010, which
+    is Wiley's later digitisation of the back issue. ADR-002 asks for the
+    earliest full date, but that would date the paper four years after it
+    appeared, so `published:` is March 2006 at month precision. Filed as the
+    substitute the brief allowed for the book, Group Agency (LIT-391),
+    which stays Deferred. Not held in the Anthology of the SOTA: a grep of
+    its literature.d and notes.d for the title, "List and Pettit" and the
+    DOI found nothing.
+tags:
+- social-ontology
+- agency
+- metaphysics
+- mereology
+- social-science
+date: '2026-10-04'
+published: '2006-03-01'
+doi: '10.1111/j.2041-6962.2006.tb00032.x'
+url: 'https://personal.lse.ac.uk/list/pdf-files/groupagencysupervenience.pdf'
+first_author: 'List'
+keywords:
+- 'group agency'
+- 'supervenience'
+- 'judgment aggregation'
+- 'discursive dilemma'
+- 'proposition-wise supervenience'
+- 'set-wise supervenience'
+- 'premise-based procedure'
+- 'individualism'
+implementations: []
+extended_by:
+- LIT-tmpaxx6q
+summary: >-
+  List & Pettit (2006), Southern Journal of Philosophy 44(S1):85–105. A
+  group agent's rationality must supervene on its members' contributions,
+  but not proposition by proposition. Three impossibility results show that
+  robust group rationality (complete, consistent, deductively closed group
+  judgments for every profile of rational member judgments) is
+  inconsistent with majoritarian, uniform proposition-wise and
+  proposition-wise supervenience. Premise-based and distributed
+  premise-based procedures show it is consistent with set-wise
+  supervenience, with group judgments that can be discontinuous with the
+  members' judgments on the same proposition. Emergent agency without any
+  member's conception of the group is set aside as unintelligible.
+---
+
+<!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit's Group Agency, the book this paper is read as a substitute for -->
+<!-- inactive-ok-file: LIT-tmpy5844 — Deferred, no lawful full text; Wimsatt's aggregativity, compared from the author's own later summary, not leaned on -->
+<!-- inactive-ok-file: LIT-488 LIT-471 LIT-476 LIT-477 — Deferred, unread; the joint-intention accounts the paper cites, named as held -->
+
+# LIT-tmphq2d4: Group Agency and Supervenience
+
+Christian List and Philip Pettit (2006), *The Southern Journal of Philosophy* 44(S1):85–105 (Spindel Conference supplement, March 2006) — DOI-10.1111/j.2041-6962.2006.tb00032.x
+
+## Key takeaways
+
+- **Group rationality forbids proposition-by-proposition aggregation.** If a
+  group is to judge a set of connected propositions completely,
+  consistently and with deductive closure, whatever its rational members
+  think, then its judgment on a proposition cannot in general depend only on
+  the members' judgments on that proposition. This holds for majority rule
+  (the discursive dilemma, Proposition 1), for any uniform rule (Proposition
+  2) and for any rule that respects unanimity, even one that varies by
+  proposition (Proposition 3).
+- **Set-wise supervenience is enough.** If the group's whole set of
+  judgments is a function of the members' whole sets, rationality is
+  possible: the premise-based procedure and its sequential and distributed
+  variants deliver it (Propositions 4–5). The group may then judge a
+  conclusion in a way that the members' judgments on that conclusion
+  neither fix nor even enter into.
+- **Discontinuity without mystery.** The group agent is fully individualistic,
+  supervening on what members judge and do under a constitution, and still
+  "may hold judgments that are not directly continuous with its members'
+  corresponding individual judgments" (abstract). Agency that would arise
+  with no member conceiving of the group, as in Tolstoy's populations, is
+  set aside: "at this margin of excitement, alas, the intelligibility runs
+  out" (p. 21).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, as the lawful substitute for
+List and Pettit's *Group Agency* ([LIT-391](LIT-391.md)). The book stays Deferred: OUP's
+text is paywalled and neither author has posted it. This paper states, in
+22 pages, the supervenience thesis that the book's Part I (chapter 3, "The
+Structure of Group Agents") develops. List's later paper ([LIT-tmpaxx6q](LIT-tmpaxx6q.md))
+cites the two together for proposition-wise supervenience ("List and
+Pettit 2006 and 2011, ch. 3"). It does not cover the book's Parts II and
+III, organisational design and the normative status of group agents. No
+anthology topic holds it, and it carries no instruction for machine-learning
+practice.
+
+**Carried further by List ([LIT-tmpaxx6q](LIT-tmpaxx6q.md)).** "Three kinds of collective
+attitudes" takes this paper's proposition-wise and set-wise supervenience as
+the dividing line between aggregate attitudes, which supervene
+proposition-wise, and corporate attitudes, which supervene "holistically",
+and it cites this paper for the result that divides them (§§2.5, 4.4).
+
+**On emergence, against Wimsatt ([LIT-tmpy5844](LIT-tmpy5844.md)).** The owner asked whether
+group agents and Wimsatt's aggregativity disagree about emergence. On what
+is read here, they do not; they use "emergence" for two different things.
+List and Pettit reject emergence in the strong sense, group agency that
+"emerge[s] mysteriously, without a clear basis at the level of individuals"
+(p. 2). Wimsatt, by his own later summary ("Reductionism and its heuristics",
+Synthese 2006, §§1–4 and §8 read from the copy his department posts; it is
+not filed, and the 1997 paper is unread), defines emergence as the failure of aggregativity and
+holds it compatible with reduction. An aggregative property is invariant
+under rearrangement, substitution, decomposition and reaggregation of the
+parts, and scales with their addition and subtraction. In those terms List
+and Pettit's results are a proof that a rational group's judgments are not
+aggregative:
+
+- their "homogeneity of the supervenience base", invariance of the group's
+  judgments under permutation of the members (p. 15), is an invariance-
+  under-rearrangement condition;
+- the premise-based procedure keeps it, and the distributed premise-based
+  procedure gives it up (pp. 15–17);
+- proposition-wise supervenience, which they show impossible, is close to
+  invariance under decomposing the agenda into single propositions and
+  reaggregating.
+
+So the set-wise, individualistic group agent is emergent in Wimsatt's sense
+and not in the sense the authors reject. This comparison is the record's,
+not either author's: neither cites the other, and Wimsatt's four conditions
+are known here only from his summary. No relation is declared. A reading of
+Wimsatt (1997) would check whether his conditions apply to a mapping from
+judgment profiles to judgments at all.
+
+**Neighbours.** The paper's distributed premise-based procedure, subgroups
+each deciding one premise, is a formal model of distributed cognition of the
+kind Huebner ([LIT-tmpdb036](LIT-tmpdb036.md)) uses: his navigation crew integrates routines
+each "sensitive to some one-dimensional constraint". List's 2016 paper
+([LIT-401](LIT-401.md)) relies on the book's functionalist definition of agency, of which
+§2 here is an early statement. The joint-intention accounts §6 cites,
+Bratman ([LIT-488](LIT-488.md), [LIT-471](LIT-471.md)), Tuomela ([LIT-476](LIT-476.md)) and Gilbert ([LIT-477](LIT-477.md)), are held
+unread; the paper treats them as describing how members knowingly sustain a
+group agent, not as accounts of group agency itself.

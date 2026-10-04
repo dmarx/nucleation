@@ -177,5 +177,3 @@ organism-generated normativity.
   are sorted without intuition?
 - Does the 2015 closure of constraints make differentiation redundant as a
   demarcation criterion, or are both still needed?
-</content>
-</invoke>

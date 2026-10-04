@@ -355,5 +355,3 @@ The draft proves nothing; these are its main proposals, by chapter.
   book should check whether the note was corrected.
 - **Chapter heading slip.** The heading of chapter 1 calls it "Part II", and
   the heading of chapter 4 calls it "Part IV".
-</content>
-</invoke>

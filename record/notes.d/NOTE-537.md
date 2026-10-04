@@ -15,7 +15,7 @@ history:
     (Appendix D), followed for structure and checked at the statement and the
     final rate. Results are carried by plots, read from captions and the
     text. The anthology's reading of the same paper (ANTH-LIT-251, its
-    NOTE-131) was read for comparison.
+    ANTH-NOTE-131) was read for comparison.
 date: '2026-10-03'
 summary: >-
   Conjecture 1: wide SGD solutions can be permuted into one linearly
@@ -135,7 +135,7 @@ one solution would.
   solutions are mostly permutation artefacts (proposed in the batch report,
   not filed). Its own evidence supports that candidate only weakly; Git
   Re-Basin is the stronger source.
-- **Disagreement with the anthology's reading ([ANTH-LIT-251](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-251.md), [NOTE-131](NOTE-131.md) there).**
+- **Disagreement with the anthology's reading ([ANTH-LIT-251](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-251.md), [ANTH-NOTE-131](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-131.md)).**
   That reading states the theorem as conditional on "no dead neurons" and as
   a no-loss-barrier statement for networks in general, lists "no dead
   neurons" and "IID training data" as the paper's assumptions, and reports

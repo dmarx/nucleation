@@ -545,6 +545,8 @@ remotes:
         dir: record/practices.d
       THEORY:
         dir: record/theory.d
+      NOTE:
+        dir: record/notes.d
       ADR:
         dir: record/decisions.d
   LU:
