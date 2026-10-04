@@ -1,0 +1,152 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from Crossref, Cambridge''s chapter page (which shows the opening paragraph) and the record''s second-hand readings, not read. No lawful full text was found. The chapter is paywalled at Cambridge Core. Unpaywall and OpenAlex list no open copy (oa_status closed, no repository holding). Fischer''s UC Riverside pages post no papers that could be reached: the department''s faculty page, as served to a plain request, links no page of his, and the UCR Profiles page is a script application whose data service refused the request (HTTP 403); eScholarship, the UC repository, refused the request too. A copy is linked from two collections of Fischer''s papers kept by other philosophers (Andrew M. Bailey''s andrewmbailey.com/jmf, and its 2019 continuation by Andrew Law on wixsite). Neither is the author''s own page, a publisher or an institutional repository, and neither says the copies are posted with permission, so neither was opened. A person with library access to Schoeman (ed.), Responsibility, Character, and the Emotions (Cambridge UP, chapter 5, pp. 81–106, DOI 10.1017/CBO9780511625411.005), or to its reprint in Fischer''s My Way (OUP 2006), can supply the 26 pages; or the owner can ask Fischer, or decide whether the Bailey and Law collections are authorised.'
+title: 'Responsiveness and Moral Responsibility'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered at the owner's request, unread, with Fischer and Ravizza's
+    Responsibility and Control (LIT-tmp1m893) and Fischer's "Stories and the
+    Meaning of Life" (LIT-tmpgaaah), beside Susan Wolf's three works
+    (LIT-tmpbc48b, LIT-tmpooua4, LIT-tmp2u6df). Crossref confirms title,
+    author, the volume, pp. 81–106 and the DOI, with a full date of 29
+    January 1988. The literature dates it 1987, as it does Wolf's "Sanity"
+    (LIT-tmpooua4) and Frankfurt's "Identification and Wholeheartedness"
+    (LIT-575) in the same volume; `published:` follows those two entries and
+    carries the earliest full date a source gives. Not held in the Anthology
+    of the SOTA: a grep of its record for "Fischer", "Ravizza", the title and
+    the DOI found nothing.
+tags:
+- free-will
+- ethics
+- agency
+date: '2026-10-03'
+published: '1988-01-29'
+doi: '10.1017/CBO9780511625411.005'
+url: 'https://www.cambridge.org/core/books/abs/responsibility-character-and-the-emotions/responsiveness-and-moral-responsibility/A92EFD14DE13EF50BC12470B4F9DA1DA'
+first_author: 'Fischer'
+keywords:
+- 'reasons-responsiveness'
+- 'moral responsibility'
+- 'rational accessibility'
+- 'reactive attitudes'
+- 'Frankfurt-type cases'
+- 'actual sequence'
+- 'compatibilism'
+implementations: []
+summary: >-
+  Fischer (1987/88), in Schoeman (ed.), Responsibility, Character, and the
+  Emotions (CUP), pp. 81–106. Unread. By the SEP's report it is the first
+  statement of Fischer's reasons-responsiveness account of the control
+  responsibility requires, the account Fischer and Ravizza's Responsibility
+  and Control (1998) later refined. Its opening, which Cambridge shows,
+  defines being morally responsible as being rationally accessible to the
+  reactive attitudes and to praise and blame. The SEP reports that the
+  account before 1998 rested on weak reasons-responsiveness, which set the
+  bar too low, and lacked an ownership condition.
+extended_by:
+- LIT-tmp1m893
+---
+
+<!-- inactive-ok-file: LIT-tmp1m893 LIT-tmpbc48b LIT-tmpooua4 LIT-tmp2u6df — Deferred, unread; Fischer and Ravizza's book and Wolf's three works, filed in the same batch -->
+<!-- inactive-ok-file: LIT-575 — Deferred, unread; Frankfurt's essay in the same volume, named as a neighbour, no relation declared -->
+<!-- inactive-ok-file: THEORY-040 — Proposed; named as the account of manipulation this paper's view was exposed to, nothing here rests on it -->
+
+# LIT-tmpavyub: Responsiveness and Moral Responsibility
+
+John Martin Fischer, "Responsiveness and Moral Responsibility", in Ferdinand
+Schoeman (ed.), *Responsibility, Character, and the Emotions: New Essays in
+Moral Psychology*, Cambridge University Press, pp. 81–106 (chapter 5) —
+DOI-10.1017/CBO9780511625411.005. Reprinted in Fischer's *My Way: Essays on
+Moral Responsibility* (Oxford University Press, 2006), which I did not
+verify against a copy.
+
+## Key takeaways
+
+*Registered from second-hand sources and the publisher's extract, not a
+reading of the chapter. Each point says who reports it.*
+
+- **What responsibility is.** The opening paragraph, as Cambridge shows it,
+  separates a theory of moral responsibility from a theory of who should be
+  praised or blamed. An agent is morally responsible for an action "insofar
+  as he is rationally accessible to certain kinds of attitudes and
+  activities as a result of performing the action": resentment,
+  indignation, respect and gratitude, and praise, blame, reward and
+  punishment. So an agent can be responsible for a morally "neutral" act,
+  and the chapter's question is what makes someone "a rational candidate
+  for praise or blame".
+- **Reasons-responsiveness, first statement.** McKenna and Coates's SEP
+  entry *Compatibilism* ([LIT-291](LIT-291.md), §4.4, read in [NOTE-270](../notes.d/NOTE-270.md)) reports that the
+  older view that free actions issue from agency sensitive to reasons was
+  "artfully refined in recent years by Fischer (1987, 1994), and
+  subsequently, Fischer and Ravizza (1998)", and its bibliography gives this
+  chapter as Fischer 1987. The same entry's §4.4.2–4.4.3 report that
+  Frankfurt-type cases defeat a reasons-responsiveness of the *agent*, and
+  that Fischer answered by locating it in the *mechanism* that actually
+  issues in the action, so that the view needs guidance control only.
+- **What the later book had to fix.** The entry's supplement, §B, reports
+  that Fischer's earlier account faced two problems: weak
+  reasons-responsiveness "allowed a person with only a very limited or
+  insane pattern of sensitivity to reasons to count as satisfying the
+  freedom condition", and without an ownership condition it was open to
+  cases in which an agent acts from "an artificially installed
+  reasons-responsive mechanism". The supplement does not say which of its
+  claims about the earlier account come from this chapter and which from
+  the 1994 book, so this entry cannot either.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the origin of Fischer's
+reasons-responsiveness, which the record's Susan Wolf entries name as the
+account usually set beside hers. It is moral philosophy with no instruction
+for machine-learning practice, so no anthology topic holds it.
+
+`Deferred` because no lawful copy could be read (see the status note). The
+key takeaways are what lawful sources say the chapter does; they quote
+nothing from it beyond the opening paragraph the publisher displays.
+
+**Its successor.** Fischer and Ravizza's *Responsibility and Control*
+([LIT-tmp1m893](LIT-tmp1m893.md)) carries this account further, and that `extends` is declared
+on the book's side. The SEP's report that the 1998 book addresses the
+"unsettled business left in Fischer's earlier reasons-responsive account"
+([LIT-291](LIT-291.md), supplement §B) is what supports it.
+
+**Its neighbours in the same volume.** Wolf's "Sanity and the Metaphysics of
+Responsibility" ([LIT-tmpooua4](LIT-tmpooua4.md)) is chapter 3 and Frankfurt's "Identification
+and Wholeheartedness" ([LIT-575](LIT-575.md)) is chapter 2. All three are unread, and I
+found no lawful report that any of the three discusses the others, so no
+relation is declared among them. What can be said from the reports is
+this. Frankfurt's account places freedom in a relation among the agent's
+own attitudes. Wolf's adds the ability to act on the True and the Good, and
+Fischer's the responsiveness of the action's mechanism to reasons. Talbert's
+SEP entry *Moral Responsibility* ([LIT-tmppa1o1](LIT-tmppa1o1.md), §2.3, read in
+[NOTE-tmpzy6ay](../notes.d/NOTE-tmpzy6ay.md)) counts Wolf (1990) and Fischer and Ravizza
+(1998) among the reasons-responsiveness views. That is the sense in which
+the two are relatives rather than rivals.
+
+**How it bears on [THEORY-040](../theory.d/THEORY-040.md).** That account says a condition stated only in
+the agent's present psychology is met by a manipulated agent. By the SEP's
+report (supplement §B) this chapter's account, which had no ownership
+condition, was exactly such a condition. The 1998 book's historical
+condition, taking responsibility, was the answer.
+
+**Priority for a reading: medium.** The book ([LIT-tmp1m893](LIT-tmp1m893.md)) states the
+mature account. This chapter matters for how the account began: whether it
+was agent-based or already mechanism-based, and how it first answered
+Frankfurt-type cases.
+
+Access when seeded:
+
+- Crossref record (pp. 81–106; ISBNs 9780521327206, 9780521339513,
+  9780511625411; 29 January 1988).
+- Cambridge Core chapter page: the opening paragraph as a summary, the rest
+  behind purchase or institutional access.
+- Unpaywall and OpenAlex: no open-access location.
+- UC Riverside: the philosophy faculty list and UCR Profiles carried no
+  reachable list of papers; eScholarship returned HTTP 403.
+- andrewmbailey.com/jmf ("Papers by John Martin Fischer", maintained by
+  Andrew M. Bailey, last regularly updated 2019) and
+  alaw003.wixsite.com/johnmartinfischer (Andrew Law's continuation): the
+  index pages were read, the linked PDFs were not opened.

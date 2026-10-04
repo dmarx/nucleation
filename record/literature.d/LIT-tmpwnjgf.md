@@ -1,0 +1,111 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-04 as a seed, from Crossref and from Cambridge''s publisher preview of the book (front matter, contents, sources, the three-page preface and reprint pp. 1–9 of chapter 1), not read as a book. The book is sold at Cambridge Core and Unpaywall lists no open copy. Its essays are filed one by one where they matter: chapters 1 and 2 ([LIT-tmpwts2i](LIT-tmpwts2i.md), [LIT-tmpuutyy](LIT-tmpuutyy.md)) were read in full from their journal versions, and chapters 7 and 12 ([LIT-tmp3tj26](LIT-tmp3tj26.md), [LIT-575](LIT-575.md)) are Deferred. The seed is kept because the record cites the book''s pagination ("IWWCA") throughout and because its preface states Frankfurt''s method first-hand. A person with library access can supply the remaining essays; chapters 5, 8 and 12 are the ones the record''s theories lean on.'
+title: 'The Importance of What We Care About: Philosophical Essays'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Registered at the owner's request, as a Deferred seed under the
+    record's book rule, with Frankfurt's 1969 and 1971 papers (read) and
+    his 1982 essay and 1992 address (Deferred). Crossref confirms the book
+    (Cambridge University Press, DOI 10.1017/CBO9780511818172, 27 May
+    1988), which is `published:`. The preview was read from Cambridge's
+    own distributor (api.pageplace.de), a publisher preview and so a
+    lawful copy of what it shows. Not held in the Anthology of the SOTA: a
+    grep of its record for "Frankfurt" found nothing.
+tags:
+- free-will
+- self-governance
+- agency
+- personhood
+- ethics
+date: '2026-10-04'
+published: '1988-05-27'
+doi: '10.1017/CBO9780511818172'
+first_author: 'Frankfurt'
+keywords:
+- 'freedom of the will'
+- 'moral responsibility'
+- 'identification'
+- 'caring'
+- 'volitional necessity'
+- 'personal ideals'
+implementations: []
+summary: >-
+  Frankfurt (1988), Cambridge University Press: thirteen essays from 1969
+  to 1988, twelve reprinted "with minor stylistic changes" and
+  "Rationality and the Unthinkable" new. Not read as a book. Its preface,
+  read in the publisher's preview, says the essays' considerations are
+  "primarily structural rather than historical", that volition rather than
+  reason is the faculty they explore, and that necessity is "in certain
+  respects essential" to autonomy. The record cites its pagination as
+  IWWCA.
+---
+
+<!-- inactive-ok-file: LIT-tmp3tj26 LIT-575 LIT-tmpy887p — Deferred, unread; the essays of this collection and the later address, filed separately -->
+<!-- inactive-ok-file: THEORY-040 THEORY-tmpev5mk — Proposed; the accounts the preface bears on -->
+
+# LIT-tmpwnjgf: The Importance of What We Care About: Philosophical Essays
+
+Harry G. Frankfurt, *The Importance of What We Care About: Philosophical
+Essays*, Cambridge University Press, 1988 (hardback ISBN 0-521-33324-5,
+paperback 0-521-33611-2) — DOI-10.1017/CBO9780511818172.
+
+## Key takeaways
+
+*From the publisher's preview: front matter, contents, sources and preface.
+The essays themselves are filed separately.*
+
+- **Contents.** 1 "Alternate possibilities and moral responsibility"
+  ([LIT-tmpwts2i](LIT-tmpwts2i.md)); 2 "Freedom of the will and the concept of a person"
+  ([LIT-tmpuutyy](LIT-tmpuutyy.md)); 3 "Coercion and moral responsibility"; 4 "Three concepts
+  of free action"; 5 "Identification and externality"; 6 "The problem of
+  action"; 7 "The importance of what we care about" ([LIT-tmp3tj26](LIT-tmp3tj26.md)); 8 "What
+  we are morally responsible for"; 9 "Necessity and desire"; 10 "On
+  bullshit"; 11 "Equality as a moral ideal"; 12 "Identification and
+  wholeheartedness" ([LIT-575](LIT-575.md)); 13 "Rationality and the unthinkable".
+- **Structure, not history.** "The considerations my essays recommend and
+  address … are primarily structural rather than historical.
+  Understanding what a person is … differs from understanding how he came
+  to be that way"; "it is not inquiry into what has produced us but the
+  endeavor to identify and to make sense of what we have become that is
+  the more authentically philosophical enterprise" (p. viii).
+- **The will, not reason.** "volition pertains more closely than reason to
+  our experience of ourselves"; "The inner organization of the will and
+  what that implies for us are … the subjects I have mainly attempted to
+  explore" (p. viii).
+- **Necessity and autonomy.** "necessity is not only compatible with
+  autonomy; it is in certain respects essential to it … What has no
+  boundaries has no shape" (p. ix).
+- **Responsibility is not the point.** "I do not think that it is mainly
+  for the sake of moral responsibility that we care as much as we do about
+  being free" (p. viii).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, as the optional seed in the
+batch on Frankfurt. The record's book rule is to read and file the shorter
+works and to file a book only if the record would lose something without
+it. Two things would be lost here. The record's readings cite Frankfurt by
+this book's pages ("IWWCA 18", "IWWCA 65–6"), and those citations had no
+code to point to. And the preface is Frankfurt's own statement that his
+account is structural and not historical, which no essay the record holds
+says in so many words.
+
+**How the preface bears on the theories.** [THEORY-040](../theory.d/THEORY-040.md) says a condition
+stated in present psychological structure is met by a manipulated agent,
+and that Frankfurt accepts this, citing a 2002 reply second-hand. The
+preface states the method that commits him to it, in 1988 and first-hand,
+and n. 10 of the 1971 paper ([LIT-tmpuutyy](LIT-tmpuutyy.md)) already applies it. For
+[THEORY-tmpev5mk](../theory.d/THEORY-tmpev5mk.md), the preface's "necessity … essential to autonomy" is the
+programme the Tanner Lectures ([LIT-293](LIT-293.md)) carry out with love's volitional
+necessities.
+
+**The date of chapter 12.** The Sources page gives the Schoeman volume as
+"Copyright © 1987 by Cambridge University Press", which is where the
+usual 1987 date for "Identification and Wholeheartedness" comes from. That
+answers the question [LIT-575](LIT-575.md)'s body leaves open (it had not seen the
+copyright page), and leaves its `published:` (1988-01-29, Crossref's
+earliest full date) as the record's rule requires.

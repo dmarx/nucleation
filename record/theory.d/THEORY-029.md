@@ -25,7 +25,7 @@ promote_when: >-
   restating the regress cannot settle it: the record already holds three
   and they disagree on who first stated it.
 title: 'A higher-order attitude cannot make a motive the agent''s own by its order alone: any attitude specified without presupposing the agent''s participation can itself be disowned, and any specified to include it presupposes what it was meant to explain'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-03'
@@ -39,6 +39,13 @@ history:
     each placed on the dilemma's second horn and said how. The tag
     `free-will` (ADR-025) is added; the `self-governance` tag of ADR-024
     was already here. The claim is unchanged.
+- version: 3
+  date: '2026-10-04'
+  note: >-
+    The hierarchical account it argues against is filed as THEORY-tmpev5mk,
+    from Frankfurt 1971 read first-hand (LIT-tmpuutyy), and the two are
+    declared rivals. Connections place 1971's decisive commitment (p. 16) on
+    the dilemma. The claim is unchanged.
 tags:
 - agency
 - metaphysics
@@ -61,7 +68,10 @@ summary: >-
   has not read. Frankfurt's own 2004 lectures ([LIT-293](../literature.d/LIT-293.md)) never address it.
   The dilemma is argued by examples, not proved, and it does not show that
   higher-order structure is irrelevant to agency.
+rivals:
+- THEORY-tmpev5mk
 ---
+<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account this one argues against, declared its rival -->
 <!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-575 LIT-596 — Deferred; Frankfurt's 1987/88 essay and Bratman's "Three Theories", named as the unread replies that would move this, not leaned on -->
@@ -165,3 +175,11 @@ which does not answer Velleman. Their stopping point, the "nascent self" of
 intrinsic activity and organismic integration ([LIT-558](../literature.d/LIT-558.md), p. 247), meets
 this account's second horn unless that self can be specified without the
 agent's endorsement.
+
+**The account this one argues against is now filed as [THEORY-tmpev5mk](THEORY-tmpev5mk.md)**,
+from the 1971 paper read first-hand ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md)). The two are rivals.
+Frankfurt's own stopping point there is the decisive commitment, which
+"resounds" through the higher orders (p. 16). On this account it is either
+disownable or specified so as to include the agent's participation, so it
+lands on the dilemma like the others.
+
