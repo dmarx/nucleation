@@ -1,6 +1,9 @@
 ---
+number: 553
 status: Read
-paper: LIT-tmpdb036
+formerly:
+- NOTE-tmpr6jda
+paper: LIT-702
 title: 'Huebner — Genuinely collective emotions'
 version: 1
 history:
@@ -28,15 +31,15 @@ summary: >-
   individual commitments.
 ---
 
-<!-- inactive-ok-file: LIT-tmpbdcqn — Deferred, no lawful full text; Gilbert's account, reported as Huebner states it -->
-<!-- inactive-ok-file: LIT-tmp1efif — Deferred, no lawful full text; Schmid's account, compared from its abstract, not leaned on -->
+<!-- inactive-ok-file: LIT-701 — Deferred, no lawful full text; Gilbert's account, reported as Huebner states it -->
+<!-- inactive-ok-file: LIT-697 — Deferred, no lawful full text; Schmid's account, compared from its abstract, not leaned on -->
 <!-- inactive-ok-file: LIT-426 — Deferred, no lawful full text; Huebner's Macrocognition, named as the book-length programme -->
 <!-- inactive-ok-file: LIT-546 — Deferred, unread; Frijda's The Emotions, cited by the paper -->
 <!-- inactive-ok-file: THEORY-057 — Proposed; the record's constructionist account of emotion categories, named for contrast -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; the record's account of composed and decomposed minds, named as the nearest THEORY -->
 <!-- inactive-ok-file: LIT-492 LIT-477 — Deferred, unread; Gilbert's earlier works, named as held, not leaned on -->
 
-# NOTE-tmpr6jda: Huebner — Genuinely collective emotions
+# NOTE-553: Huebner — Genuinely collective emotions
 
 ## Contribution
 
@@ -186,7 +189,7 @@ All are arguments; there are no data of the author's own.
 
 ## Connections
 
-- **Gilbert ([LIT-tmpbdcqn](../literature.d/LIT-tmpbdcqn.md)).** The `rivals` relation is declared on the LIT.
+- **Gilbert ([LIT-701](../literature.d/LIT-701.md)).** The `rivals` relation is declared on the LIT.
   Huebner and Gilbert agree that collective emotions need not be felt; they
   disagree about what bears them. Gilbert's bearer is a plural subject
   constituted by joint commitment; Huebner's is an integrated computational
@@ -194,13 +197,13 @@ All are arguments; there are no data of the author's own.
   reduces to individual commitments is the core of the disagreement.
   Gilbert's earlier *On Social Facts* ([LIT-492](../literature.d/LIT-492.md)) and "Walking Together"
   ([LIT-477](../literature.d/LIT-477.md)) are held unread.
-- **Schmid ([LIT-tmp1efif](../literature.d/LIT-tmp1efif.md)), unread.** Schmid, by his chapter's abstract,
+- **Schmid ([LIT-697](../literature.d/LIT-697.md)), unread.** Schmid, by his chapter's abstract,
   gives groups consciousness as plural pre-reflective self-awareness and
   allows them "slow" emotions only. Huebner denies group consciousness
   (p. 14) but finds his own fast case fails and keeps a slow one. On
   consciousness, Gilbert and Huebner stand together against Schmid. On
   bearers, all three differ.
-- **List & Pettit ([LIT-tmphq2d4](../literature.d/LIT-tmphq2d4.md)) and List ([LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md)).** Huebner's test
+- **List & Pettit ([LIT-705](../literature.d/LIT-705.md)) and List ([LIT-700](../literature.d/LIT-700.md)).** Huebner's test
   for a genuinely collective state is the informal counterpart of their
   failure of proposition-wise supervenience. The navigation crew's
   structure, routines each sensitive to one constraint and integrated on a
@@ -234,9 +237,9 @@ All are arguments; there are no data of the author's own.
 - **Candidate THEORY (proposed, not filed):** collective emotions, where they
   exist, are corporate attitudes in List's sense, not aggregate or common
   ones. What the social-science literature measures as collective emotion,
-  convergence of members' affect (von Scheve & Ismer, [LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md)), is an
+  convergence of members' affect (von Scheve & Ismer, [LIT-696](../literature.d/LIT-696.md)), is an
   aggregate or common attitude, and so a different thing. Sources:
-  [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md), this paper, [LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md). It would be promoted when a read
+  [LIT-700](../literature.d/LIT-700.md), this paper, [LIT-696](../literature.d/LIT-696.md). It would be promoted when a read
   text applies the aggregate/common/corporate split to emotion and finds a
   corporate case with data.
 - No instruction for machine-learning practice; nothing for the anthology.

@@ -1,6 +1,9 @@
 ---
+number: 550
 status: Read
-paper: LIT-tmphq2d4
+formerly:
+- NOTE-tmpdsh8u
+paper: LIT-705
 title: 'List & Pettit — Group Agency and Supervenience'
 version: 1
 history:
@@ -29,10 +32,10 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit's Group Agency, the book this paper substitutes for -->
-<!-- inactive-ok-file: LIT-tmpy5844 — Deferred, no lawful full text; Wimsatt's aggregativity, compared from his later summary, not leaned on -->
+<!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt's aggregativity, compared from his later summary, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; the record's account of composed and decomposed minds, named for what this paper bears on -->
 
-# NOTE-tmpdsh8u: List & Pettit — Group Agency and Supervenience
+# NOTE-550: List & Pettit — Group Agency and Supervenience
 
 ## Contribution
 
@@ -174,17 +177,17 @@ think.
   asks whether group attitudes supervene "holistically or proposition by
   proposition". On this paper's evidence the answer is holistically, but the
   book may say more.
-- **List 2014 ([LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md))** extends this paper; the relation is declared on
+- **List 2014 ([LIT-700](../literature.d/LIT-700.md))** extends this paper; the relation is declared on
   that LIT. It recasts proposition-wise and set-wise supervenience as the
   mark separating aggregate from corporate attitudes.
 - **List 2016 ([LIT-401](../literature.d/LIT-401.md)).** That paper's thin functionalist definition of an
   agent is the descendant of §2 here.
-- **Huebner ([LIT-tmpdb036](../literature.d/LIT-tmpdb036.md)).** The distributed premise-based procedure is a
+- **Huebner ([LIT-702](../literature.d/LIT-702.md)).** The distributed premise-based procedure is a
   formal miniature of Huebner's distributed collective representation, and
   "strong discontinuity" is the property Huebner needs for a genuinely
   collective emotion: the group's state on an object need not be any
   member's state on it. Neither paper cites the other.
-- **Wimsatt ([LIT-tmpy5844](../literature.d/LIT-tmpy5844.md)), unread.** Homogeneity is an invariance-under-
+- **Wimsatt ([LIT-707](../literature.d/LIT-707.md)), unread.** Homogeneity is an invariance-under-
   rearrangement condition, one of Wimsatt's four conditions for
   aggregativity as he summarises them. Proposition-wise supervenience fails;
   set-wise survives. By Wimsatt's definition that makes group judgment
@@ -208,8 +211,8 @@ think.
   Wimsatt's non-aggregative sense exactly when it fails proposition-wise
   supervenience on members' attitudes, so List and Pettit's impossibility
   results prove that every robustly rational group agent has emergent,
-  reductively explicable attitudes. Sources: this paper, [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md),
-  [LIT-tmpy5844](../literature.d/LIT-tmpy5844.md). Promote when Wimsatt's 1997 conditions are read and checked
+  reductively explicable attitudes. Sources: this paper, [LIT-700](../literature.d/LIT-700.md),
+  [LIT-707](../literature.d/LIT-707.md). Promote when Wimsatt's 1997 conditions are read and checked
   against an aggregation function.
 - No instruction for machine-learning practice.
 

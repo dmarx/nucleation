@@ -1,5 +1,8 @@
 ---
+number: 124
 status: Proposed
+formerly:
+- THEORY-tmp8wxwa
 promote_when: >-
   A second recording, not the IBL Brainwide Map, analysed for both halves
   of the claim: neuron types tested against a covariance-matched unimodal
@@ -24,9 +27,9 @@ tags:
 - cognition
 date: '2026-10-04'
 source:
-- LIT-tmpzxkz1
+- LIT-708
 summary: >-
-  Posani et al. (2026), [LIT-tmpzxkz1](../literature.d/LIT-tmpzxkz1.md): in about 14,000 cortical units of the
+  Posani et al. (2026), [LIT-708](../literature.d/LIT-708.md): in about 14,000 cortical units of the
   IBL Brainwide Map, the 8-variable selectivity profiles of 4,617
   selective neurons beat a covariance-matched Gaussian null for clustering
   within a region only in VISp, AUDp and SSp-ul. Elsewhere the profiles
@@ -40,18 +43,18 @@ summary: >-
 <!-- inactive-ok-file: THEORY-102 — Proposed; named in Connections for the decoding caution, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-008 — Proposed; named in Connections for why separability cannot see types, nothing here rests on it -->
 
-# THEORY-tmp8wxwa: During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way
+# THEORY-124: During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way
 
 ## Source
 
-- Posani, Wang, Muscinelli, Paninski & Fusi (2026), [LIT-tmpzxkz1](../literature.d/LIT-tmpzxkz1.md), read in
-  full in [NOTE-tmp25fhs](../notes.d/NOTE-tmp25fhs.md): Figs 2, 3 and 6, Extended Data Figs 6, 8, 9 and
+- Posani, Wang, Muscinelli, Paninski & Fusi (2026), [LIT-708](../literature.d/LIT-708.md), read in
+  full in [NOTE-549](../notes.d/NOTE-549.md): Figs 2, 3 and 6, Extended Data Figs 6, 8, 9 and
   11, the Methods on clustering, independent conditions and separability,
   and the Peer Review File.
 
 ## What was actually shown
 
-**The setting.** Posani et al. ([LIT-tmpzxkz1](../literature.d/LIT-tmpzxkz1.md)) analysed the International
+**The setting.** Posani et al. ([LIT-708](../literature.d/LIT-708.md)) analysed the International
 Brain Laboratory's Brainwide Map: about 14,000 Neuropixels units from 43
 regions of mouse cortex, recorded while trained mice turned a wheel to bring
 a visual stimulus, shown on the left or right, to the centre of a screen,

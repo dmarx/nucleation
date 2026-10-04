@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**327 document(s) awaiting a decision.**
+**339 document(s) awaiting a decision.**
 
 ## LITs
 
-223 of the 327.
+230 of the 339.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -32,7 +32,7 @@
 | 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |
 | 2026-09-25 | Deferred | [LIT-043](../../record/literature.d/LIT-043.md) | 0 | 0 | This Secret Math Equation let the US Government Spy on Anyone |
 | 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
-| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 23 | 2 | Scaffolding individuality: coordination, cooperation, collaboration and community |
+| 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 24 | 2 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Proposed | [LIT-200](../../record/literature.d/LIT-200.md) | 18 | 0 | Wave-functionalism |
 | 2026-09-26 | Deferred | [LIT-258](../../record/literature.d/LIT-258.md) | 15 | 0 | Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions |
 | 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 14 | 12 | Gelfand–Naimark–Segal construction (Wikipedia) |
@@ -99,7 +99,7 @@
 | 2026-09-27 | Deferred | [LIT-263](../../record/literature.d/LIT-263.md) | 20 | 9 | Kochen-Specker contextuality |
 | 2026-09-27 | Deferred | [LIT-264](../../record/literature.d/LIT-264.md) | 14 | 9 | Is there contextuality in behavioral and social systems? |
 | 2026-09-27 | Deferred | [LIT-265](../../record/literature.d/LIT-265.md) | 11 | 9 | The contextual fraction as a measure of contextuality |
-| 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 10 | 9 | The Lattice Representation Hypothesis of Large Language Models |
+| 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 11 | 9 | The Lattice Representation Hypothesis of Large Language Models |
 | 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 8 | 1 | Contextuality for preparations, transformations, and unsharp measurements |
 | 2026-09-29 | Deferred | [LIT-354](../../record/literature.d/LIT-354.md) | 22 | 4 | Algebraic Geometry and Statistical Learning Theory |
 | 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 17 | 17 | A topos foundation for theories of physics: IV. Categories of systems |
@@ -145,26 +145,27 @@
 | 2026-10-01 | Deferred | [LIT-386](../../record/literature.d/LIT-386.md) | 1 | 0 | Homeostasis and soft robotics in the design of feeling machines |
 | 2026-10-01 | Deferred | [LIT-417](../../record/literature.d/LIT-417.md) | 0 | 0 | Epilogue: Analogy as the Core of Cognition |
 | 2026-10-01 | Deferred | [LIT-420](../../record/literature.d/LIT-420.md) | 0 | 0 | Surfaces and Essences: Analogy as the Fuel and Fire of Thinking |
+| 2026-10-02 | Deferred | [LIT-391](../../record/literature.d/LIT-391.md) | 31 | 1 | Group Agency: The Possibility, Design, and Status of Corporate Agents |
 | 2026-10-02 | Proposed | [LIT-503](../../record/literature.d/LIT-503.md) | 25 | 1 | Morality as Cooperation: A Problem-Centred Approach |
 | 2026-10-02 | Deferred | [LIT-393](../../record/literature.d/LIT-393.md) | 20 | 0 | Artificial Intelligence as Philosophy and as Psychology |
-| 2026-10-02 | Deferred | [LIT-391](../../record/literature.d/LIT-391.md) | 19 | 1 | Group Agency: The Possibility, Design, and Status of Corporate Agents |
 | 2026-10-02 | Proposed | [LIT-496](../../record/literature.d/LIT-496.md) | 18 | 0 | Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation’ with a new questionnaire |
+| 2026-10-02 | Deferred | [LIT-477](../../record/literature.d/LIT-477.md) | 17 | 0 | Walking Together: A Paradigmatic Social Phenomenon |
 | 2026-10-02 | Deferred | [LIT-468](../../record/literature.d/LIT-468.md) | 14 | 0 | The Constitution of Selves |
-| 2026-10-02 | Deferred | [LIT-488](../../record/literature.d/LIT-488.md) | 12 | 0 | Shared Agency: A Planning Theory of Acting Together |
+| 2026-10-02 | Deferred | [LIT-488](../../record/literature.d/LIT-488.md) | 13 | 0 | Shared Agency: A Planning Theory of Acting Together |
+| 2026-10-02 | Deferred | [LIT-426](../../record/literature.d/LIT-426.md) | 12 | 1 | Macrocognition: A Theory of Distributed Minds and Collective Intentionality |
+| 2026-10-02 | Deferred | [LIT-490](../../record/literature.d/LIT-490.md) | 12 | 0 | Collective Intentions and Actions |
 | 2026-10-02 | Deferred | [LIT-396](../../record/literature.d/LIT-396.md) | 11 | 0 | Psychological Predicates |
 | 2026-10-02 | Deferred | [LIT-413](../../record/literature.d/LIT-413.md) | 11 | 1 | The Mind's I: Fantasies and Reflections on Self and Soul |
 | 2026-10-02 | Deferred | [LIT-467](../../record/literature.d/LIT-467.md) | 11 | 0 | Being No One: The Self-Model Theory of Subjectivity |
-| 2026-10-02 | Deferred | [LIT-477](../../record/literature.d/LIT-477.md) | 11 | 0 | Walking Together: A Paradigmatic Social Phenomenon |
 | 2026-10-02 | Deferred | [LIT-536](../../record/literature.d/LIT-536.md) | 11 | 0 | Biological Autonomy: A Philosophical and Theoretical Enquiry |
-| 2026-10-02 | Deferred | [LIT-490](../../record/literature.d/LIT-490.md) | 10 | 0 | Collective Intentions and Actions |
 | 2026-10-02 | Deferred | [LIT-524](../../record/literature.d/LIT-524.md) | 10 | 0 | Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations |
 | 2026-10-02 | Deferred | [LIT-434](../../record/literature.d/LIT-434.md) | 9 | 0 | Illusionism as the Obvious Default Theory of Consciousness |
+| 2026-10-02 | Deferred | [LIT-471](../../record/literature.d/LIT-471.md) | 9 | 0 | Shared Cooperative Activity |
 | 2026-10-02 | Deferred | [LIT-473](../../record/literature.d/LIT-473.md) | 9 | 1 | Convention: A Philosophical Study |
 | 2026-10-02 | Deferred | [LIT-485](../../record/literature.d/LIT-485.md) | 8 | 0 | The Construction of Social Reality |
 | 2026-10-02 | Deferred | [LIT-443](../../record/literature.d/LIT-443.md) | 7 | 1 | Consciousness Explained |
+| 2026-10-02 | Deferred | [LIT-492](../../record/literature.d/LIT-492.md) | 7 | 0 | On Social Facts |
 | 2026-10-02 | Deferred | [LIT-494](../../record/literature.d/LIT-494.md) | 7 | 0 | The Theory of Dyadic Morality: Reinventing Moral Judgment by Redefining Harm |
-| 2026-10-02 | Deferred | [LIT-426](../../record/literature.d/LIT-426.md) | 6 | 1 | Macrocognition: A Theory of Distributed Minds and Collective Intentionality |
-| 2026-10-02 | Deferred | [LIT-471](../../record/literature.d/LIT-471.md) | 6 | 0 | Shared Cooperative Activity |
 | 2026-10-02 | Deferred | [LIT-472](../../record/literature.d/LIT-472.md) | 6 | 0 | Understanding Institutions: The Science and Philosophy of Living Together |
 | 2026-10-02 | Deferred | [LIT-478](../../record/literature.d/LIT-478.md) | 6 | 0 | The Ant Trap: Rebuilding the Foundations of the Social Sciences |
 | 2026-10-02 | Deferred | [LIT-491](../../record/literature.d/LIT-491.md) | 6 | 0 | Categories We Live By: The Construction of Sex, Gender, Race, and Other Social Categories |
@@ -177,14 +178,13 @@
 | 2026-10-02 | Proposed | [LIT-512](../../record/literature.d/LIT-512.md) | 5 | 0 | Moral universals: A machine-reading analysis of 256 societies |
 | 2026-10-02 | Deferred | [LIT-530](../../record/literature.d/LIT-530.md) | 5 | 0 | What Is Life? The Physical Aspect of the Living Cell |
 | 2026-10-02 | Deferred | [LIT-430](../../record/literature.d/LIT-430.md) | 4 | 0 | The Intentional Stance |
+| 2026-10-02 | Deferred | [LIT-476](../../record/literature.d/LIT-476.md) | 4 | 0 | We-Intentions |
 | 2026-10-02 | Deferred | [LIT-537](../../record/literature.d/LIT-537.md) | 4 | 0 | Thermodynamic Theory of Structure, Stability and Fluctuations |
 | 2026-10-02 | Deferred | [LIT-412](../../record/literature.d/LIT-412.md) | 3 | 0 | Supersizing the Mind: Embodiment, Action, and Cognitive Extension |
 | 2026-10-02 | Deferred | [LIT-448](../../record/literature.d/LIT-448.md) | 3 | 0 | The Human Animal: Personal Identity Without Psychology |
 | 2026-10-02 | Deferred | [LIT-463](../../record/literature.d/LIT-463.md) | 3 | 1 | Subjectivity and Selfhood: Investigating the First-Person Perspective |
-| 2026-10-02 | Deferred | [LIT-476](../../record/literature.d/LIT-476.md) | 3 | 0 | We-Intentions |
-| 2026-10-02 | Deferred | [LIT-492](../../record/literature.d/LIT-492.md) | 3 | 0 | On Social Facts |
+| 2026-10-02 | Deferred | [LIT-483](../../record/literature.d/LIT-483.md) | 3 | 1 | Groups as Agents |
 | 2026-10-02 | Deferred | [LIT-529](../../record/literature.d/LIT-529.md) | 3 | 0 | Incomplete Nature: How Mind Emerged from Matter |
-| 2026-10-02 | Deferred | [LIT-483](../../record/literature.d/LIT-483.md) | 2 | 1 | Groups as Agents |
 | 2026-10-02 | Deferred | [LIT-514](../../record/literature.d/LIT-514.md) | 2 | 0 | Moral Origins: The Evolution of Virtue, Altruism, and Shame |
 | 2026-10-02 | Deferred | [LIT-532](../../record/literature.d/LIT-532.md) | 2 | 0 | Inadequacy of entropy and entropy derivatives in characterizing the steady state |
 | 2026-10-02 | Deferred | [LIT-424](../../record/literature.d/LIT-424.md) | 1 | 0 | From Bacteria to Bach and Back: The Evolution of Minds |
@@ -201,12 +201,12 @@
 | 2026-10-03 | Deferred | [LIT-684](../../record/literature.d/LIT-684.md) | 17 | 0 | Responsibility and Control: A Theory of Moral Responsibility |
 | 2026-10-03 | Deferred | [LIT-562](../../record/literature.d/LIT-562.md) | 16 | 0 | Pervasive negative effects of rewards on intrinsic motivation: The myth continues |
 | 2026-10-03 | Deferred | [LIT-685](../../record/literature.d/LIT-685.md) | 16 | 0 | Freedom Within Reason |
+| 2026-10-03 | Deferred | [LIT-546](../../record/literature.d/LIT-546.md) | 15 | 0 | The Emotions |
+| 2026-10-03 | Deferred | [LIT-550](../../record/literature.d/LIT-550.md) | 15 | 0 | Emotion and Adaptation |
 | 2026-10-03 | Deferred | [LIT-551](../../record/literature.d/LIT-551.md) | 13 | 0 | Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment |
-| 2026-10-03 | Deferred | [LIT-550](../../record/literature.d/LIT-550.md) | 12 | 0 | Emotion and Adaptation |
 | 2026-10-03 | Deferred | [LIT-552](../../record/literature.d/LIT-552.md) | 11 | 0 | Toward a Philosophical Structure for Psychiatry |
 | 2026-10-03 | Deferred | [LIT-543](../../record/literature.d/LIT-543.md) | 10 | 0 | Examining Domains of Psychological Flexibility and Inflexibility as Treatment Mechanisms in Acceptance and Commitment Therapy: A Comprehensive Systematic and Meta-Analytic Review |
 | 2026-10-03 | Deferred | [LIT-545](../../record/literature.d/LIT-545.md) | 10 | 0 | Self-Efficacy: Toward a Unifying Theory of Behavioral Change |
-| 2026-10-03 | Deferred | [LIT-546](../../record/literature.d/LIT-546.md) | 9 | 0 | The Emotions |
 | 2026-10-03 | Deferred | [LIT-548](../../record/literature.d/LIT-548.md) | 9 | 0 | The Need for a New Medical Model: A Challenge for Biomedicine |
 | 2026-10-03 | Deferred | [LIT-549](../../record/literature.d/LIT-549.md) | 9 | 0 | Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition |
 | 2026-10-03 | Deferred | [LIT-556](../../record/literature.d/LIT-556.md) | 9 | 0 | Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis |
@@ -233,18 +233,25 @@
 | 2026-10-03 | Proposed | [LIT-677](../../record/literature.d/LIT-677.md) | 4 | 0 | Unveiling mode-connectivity of the ELBO landscape |
 | 2026-10-03 | Deferred | [LIT-591](../../record/literature.d/LIT-591.md) | 3 | 0 | Internal Family Systems Therapy |
 | 2026-10-03 | Deferred | [LIT-604](../../record/literature.d/LIT-604.md) | 1 | 0 | Control theory: A useful conceptual framework for personality–social, clinical, and health psychology |
+| 2026-10-04 | Deferred | [LIT-697](../../record/literature.d/LIT-697.md) | 8 | 0 | The feeling of being a group: Corporate emotions and collective consciousness |
+| 2026-10-04 | Deferred | [LIT-701](../../record/literature.d/LIT-701.md) | 8 | 0 | Collective Guilt and Collective Guilt Feelings |
 | 2026-10-04 | Deferred | [LIT-693](../../record/literature.d/LIT-693.md) | 5 | 0 | The Importance of What We Care About: Philosophical Essays |
+| 2026-10-04 | Deferred | [LIT-707](../../record/literature.d/LIT-707.md) | 5 | 0 | Aggregativity: Reductive Heuristics for Finding Emergence |
+| 2026-10-04 | Deferred | [LIT-699](../../record/literature.d/LIT-699.md) | 4 | 0 | Emotional Aperture and Strategic Change: The Accurate Recognition of Collective Emotions |
 | 2026-10-04 | Deferred | [LIT-686](../../record/literature.d/LIT-686.md) | 3 | 0 | The Importance of What We Care About |
 | 2026-10-04 | Deferred | [LIT-695](../../record/literature.d/LIT-695.md) | 3 | 0 | The Faintest Passion |
+| 2026-10-04 | Deferred | [LIT-698](../../record/literature.d/LIT-698.md) | 3 | 0 | Collective Guilt |
+| 2026-10-04 | Deferred | [LIT-703](../../record/literature.d/LIT-703.md) | 2 | 0 | Emotion in the Workplace: A Reappraisal |
+| 2026-10-04 | Deferred | [LIT-704](../../record/literature.d/LIT-704.md) | 2 | 0 | The laws of emotion |
 
 ## THEORYs
 
-104 of the 327.
+109 of the 339.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-09-26 | Proposed | [THEORY-004](../../record/theory.d/THEORY-004.md) | 36 | 26 | A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels |
-| 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 17 | 13 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
+| 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 20 | 13 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 12 | 10 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 1 | 0 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-003](../../record/theory.d/THEORY-003.md) | 1 | 1 | Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem |
@@ -252,7 +259,7 @@
 | 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 1 | 1 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 0 | 0 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
 | 2026-09-26 | Proposed | [THEORY-006](../../record/theory.d/THEORY-006.md) | 0 | 0 | InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size |
-| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 49 | 30 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
+| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 50 | 30 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
 | 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 22 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 9 | 9 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
 | 2026-09-27 | Proposed | [THEORY-015](../../record/theory.d/THEORY-015.md) | 7 | 7 | Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory |
@@ -273,43 +280,43 @@
 | 2026-09-30 | Proposed | [THEORY-038](../../record/theory.d/THEORY-038.md) | 1 | 1 | Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata |
 | 2026-09-30 | Proposed | [THEORY-021](../../record/theory.d/THEORY-021.md) | 0 | 0 | In the efficiently packed geometries of uniform superposition the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity |
 | 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 0 | 0 | The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress saturates as 1/(1 + B_noise/B); the measured noise scale predicts it only to within an order of magnitude |
-| 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 150 | 2 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
-| 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 42 | 0 | Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them |
+| 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 156 | 2 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
+| 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 43 | 0 | Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them |
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 37 | 0 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
-| 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 33 | 0 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
+| 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 35 | 0 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
 | 2026-10-03 | Proposed | [THEORY-047](../../record/theory.d/THEORY-047.md) | 19 | 0 | A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is |
+| 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 19 | 0 | In human ventral temporal cortex the content of a clearly seen, unchanging image is carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-050](../../record/theory.d/THEORY-050.md) | 18 | 0 | Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-100](../../record/theory.d/THEORY-100.md) | 16 | 0 | A neural correlate of conscious report does not require laminar cortex: in crows it is carried by the nidopallium caudolaterale, a nuclear pallial region whose neurons follow the reported percept rather than the stimulus |
 | 2026-10-03 | Proposed | [THEORY-044](../../record/theory.d/THEORY-044.md) | 15 | 0 | In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content |
-| 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 15 | 0 | In human ventral temporal cortex the content of a clearly seen, unchanging image is carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
+| 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 14 | 0 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 12 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
 | 2026-10-03 | Proposed | [THEORY-121](../../record/theory.d/THEORY-121.md) | 12 | 0 | Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism |
+| 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 11 | 0 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-073](../../record/theory.d/THEORY-073.md) | 11 | 0 | A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 10 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 10 | 0 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-103](../../record/theory.d/THEORY-103.md) | 10 | 0 | Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 9 | 0 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
+| 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 9 | 0 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 9 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
 | 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 9 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-090](../../record/theory.d/THEORY-090.md) | 9 | 0 | A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options |
-| 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 8 | 0 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 8 | 0 | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one |
 | 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 8 | 0 | Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency |
 | 2026-10-03 | Proposed | [THEORY-078](../../record/theory.d/THEORY-078.md) | 8 | 0 | The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation |
+| 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 8 | 0 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
 | 2026-10-03 | Proposed | [THEORY-118](../../record/theory.d/THEORY-118.md) | 8 | 0 | Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons |
-| 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 7 | 0 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-061](../../record/theory.d/THEORY-061.md) | 7 | 0 | In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 7 | 0 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 7 | 0 | How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control |
 | 2026-10-03 | Proposed | [THEORY-112](../../record/theory.d/THEORY-112.md) | 7 | 0 | Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth |
 | 2026-10-03 | Proposed | [THEORY-122](../../record/theory.d/THEORY-122.md) | 7 | 0 | Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply |
-| 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 6 | 0 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 6 | 0 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
 | 2026-10-03 | Proposed | [THEORY-062](../../record/theory.d/THEORY-062.md) | 6 | 0 | Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system |
 | 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 6 | 0 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 6 | 0 | Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom |
 | 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 5 | 0 | Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence |
-| 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 5 | 0 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
 | 2026-10-03 | Proposed | [THEORY-094](../../record/theory.d/THEORY-094.md) | 5 | 0 | Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 5 | 0 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
 | 2026-10-03 | Proposed | [THEORY-114](../../record/theory.d/THEORY-114.md) | 5 | 0 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
@@ -347,9 +354,14 @@
 | 2026-10-03 | Proposed | [THEORY-117](../../record/theory.d/THEORY-117.md) | 0 | 0 | Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one |
 | 2026-10-04 | Proposed | [THEORY-120](../../record/theory.d/THEORY-120.md) | 13 | 0 | A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order |
 | 2026-10-04 | Proposed | [THEORY-119](../../record/theory.d/THEORY-119.md) | 7 | 0 | An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false |
+| 2026-10-04 | Proposed | [THEORY-125](../../record/theory.d/THEORY-125.md) | 2 | 0 | A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown |
+| 2026-10-04 | Proposed | [THEORY-126](../../record/theory.d/THEORY-126.md) | 2 | 0 | A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states |
+| 2026-10-04 | Proposed | [THEORY-123](../../record/theory.d/THEORY-123.md) | 1 | 0 | In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves |
+| 2026-10-04 | Proposed | [THEORY-127](../../record/theory.d/THEORY-127.md) | 1 | 0 | A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them |
+| 2026-10-04 | Proposed | [THEORY-124](../../record/theory.d/THEORY-124.md) | 0 | 0 | During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way |
 
 The citation count is the second axis, and it flips the priority: an old proposal nothing references is a stalled idea worth closing, while an old proposal many files cite is a decision the codebase has already made and hasn't written down.
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (27): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-106](../../record/theory.d/THEORY-106.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [THEORY-117](../../record/theory.d/THEORY-117.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (28): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-106](../../record/theory.d/THEORY-106.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [THEORY-117](../../record/theory.d/THEORY-117.md), [THEORY-124](../../record/theory.d/THEORY-124.md) — these are the cheapest to close, since nothing depends on the answer.

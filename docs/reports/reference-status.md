@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 2375 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 2493 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -117,7 +117,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-30 citations in 25 files await a look; 19 other citations of it are acknowledged.
+30 citations in 25 files await a look; 20 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -261,7 +261,7 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
-13 citations in 10 files await a look; 4 other citations of it are acknowledged.
+13 citations in 10 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -541,7 +541,7 @@ The contextual fraction as a measure of contextuality
 
 The Lattice Representation Hypothesis of Large Language Models
 
-9 citations in 8 files await a look; 1 other citation of it is acknowledged.
+9 citations in 8 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-245.md:168`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
@@ -1101,7 +1101,7 @@ What is purely epistemic normativity, and why? A study in Wolfian epistemology
 
 Scaffolding individuality: coordination, cooperation, collaboration and community
 
-2 citations in 2 files await a look; 21 other citations of it are acknowledged.
+2 citations in 2 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:62`](../../record/decisions.d/ADR-017.md)
 - [`record/notes.d/NOTE-111.md:106`](../../record/notes.d/NOTE-111.md)
@@ -1236,7 +1236,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 148 other citations of it are acknowledged.
+2 citations in 1 file await a look; 154 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1485,7 +1485,7 @@ Local Urysohn Width: A Topological Complexity Measure for Classification
 
 Group Agency: The Possibility, Design, and Status of Corporate Agents
 
-1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 30 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:56`](../../record/decisions.d/ADR-017.md)
 
@@ -1517,7 +1517,7 @@ I Am a Strange Loop
 
 Macrocognition: A Theory of Distributed Minds and Collective Intentionality
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:60`](../../record/decisions.d/ADR-017.md)
 
@@ -1557,7 +1557,7 @@ Convention: A Philosophical Study
 
 Groups as Agents
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-043.md:288`](../../record/theory.d/THEORY-043.md)
 

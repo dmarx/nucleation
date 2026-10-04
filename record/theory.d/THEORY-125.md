@@ -1,5 +1,8 @@
 ---
+number: 125
 status: Proposed
+formerly:
+- THEORY-tmpgc3z0
 promote_when: >-
   A case, studied at the level of the group, in which the capacities
   Huebner lists are found integrated in the group and not in any member:
@@ -29,9 +32,9 @@ tags:
 - philosophy-of-science
 date: '2026-10-04'
 source:
-- LIT-tmpdb036
+- LIT-702
 summary: >-
-  Huebner (2010), [LIT-tmpdb036](../literature.d/LIT-tmpdb036.md): a genuinely collective emotion is a state
+  Huebner (2010), [LIT-702](../literature.d/LIT-702.md): a genuinely collective emotion is a state
   of a group that "could not be exhaustively characterized in terms of
   intentional states of individuals in aggregation". Fear requires danger
   detection, redeployment of attention, system-wide preparatory change and
@@ -46,17 +49,17 @@ summary: >-
   offered as "intuitively plausible" pending anthropological data.
   Proposed.
 ---
-<!-- inactive-ok-file: LIT-tmpbdcqn — Deferred, no lawful full text; Gilbert's plural-subject account, named as the other "need not be felt" view and known only through Huebner's report, not leaned on -->
-<!-- inactive-ok-file: LIT-tmp1efif — Deferred, no lawful full text; Schmid, named from his abstract as the view that groups can feel, not leaned on -->
+<!-- inactive-ok-file: LIT-701 — Deferred, no lawful full text; Gilbert's plural-subject account, named as the other "need not be felt" view and known only through Huebner's report, not leaned on -->
+<!-- inactive-ok-file: LIT-697 — Deferred, no lawful full text; Schmid, named from his abstract as the view that groups can feel, not leaned on -->
 <!-- inactive-ok-file: LIT-426 — Deferred, unread; Huebner's Macrocognition, named as the book-length programme, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpund3j THEORY-tmpwsee8 — Proposed; filed in the same batch, the convergence account this is compatible with and the group-judgment result this parallels, no relation declared -->
+<!-- inactive-ok-file: THEORY-126 THEORY-127 — Proposed; filed in the same batch, the convergence account this is compatible with and the group-judgment result this parallels, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-045 THEORY-055 THEORY-057 — Proposed; named in Connections for how this bears on them, nothing here rests on them -->
 
-# THEORY-tmpgc3z0: A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown
+# THEORY-125: A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown
 
 ## Source
 
-- Huebner (2010), [LIT-tmpdb036](../literature.d/LIT-tmpdb036.md), read in full in [NOTE-tmpr6jda](../notes.d/NOTE-tmpr6jda.md), from the
+- Huebner (2010), [LIT-702](../literature.d/LIT-702.md), read in full in [NOTE-553](../notes.d/NOTE-553.md), from the
   author's manuscript. Page numbers are the manuscript's, not the
   journal's 89–118.
 
@@ -66,7 +69,7 @@ All of it is argument. There are no data of the author's own, and the
 paper says it is conditional on collective representation being possible,
 which it defends elsewhere (n. 4).
 
-**The test.** Huebner, [LIT-tmpdb036](../literature.d/LIT-tmpdb036.md), separates holism, on which
+**The test.** Huebner, [LIT-702](../literature.d/LIT-702.md), separates holism, on which
 individuals' emotions depend on their social relations, from collectivism,
 on which groups themselves are in emotional states (pp. 3–4, after Pettit).
 Collective guilt in Jaspers's, May's and Tollefsen's sense establishes only
@@ -91,7 +94,7 @@ in a strong sense, with no felt emotion, only scattered felt bodily effects
 (§5, after Sizer on moods), so a collective emotion need not be felt
 either. The argument rests on describing a case, and the neuroscience it
 cites shows unconscious processing of fear stimuli, which is weaker
-([NOTE-tmpr6jda](../notes.d/NOTE-tmpr6jda.md), Limitations).
+([NOTE-553](../notes.d/NOTE-553.md), Limitations).
 
 **Emotions are functional kinds.** Against the objection that groups lack
 mechanisms homologous to ours, he argues that demanding homology rules out
@@ -125,7 +128,7 @@ has been shown to be in an emotional state.
   clause says so, and the Palau failure is the only case worked through.
 - **It does not say a group's emotion is felt.** The account sides with the
   view that collective emotions need no phenomenology. So does Gilbert's
-  plural-subject account ([LIT-tmpbdcqn](../literature.d/LIT-tmpbdcqn.md), Deferred and unread), which Huebner
+  plural-subject account ([LIT-701](../literature.d/LIT-701.md), Deferred and unread), which Huebner
   reports as holding that feelings are "inessential, though common
   concomitants" of emotion, so that collective emotions "require no specific
   phenomenology" (Gilbert 2002, 119, as reported on p. 2). The two locate
@@ -136,18 +139,18 @@ has been shown to be in an emotional state.
   commitments plus aggregation rules (p. 4), and rejects Gilbert's route to
   unfelt emotion because her psychoanalytic examples show inaccessible
   emotions, not unfelt ones (p. 15). Gilbert's reply is not considered, and
-  what is said of her here rests on Huebner's report. Schmid ([LIT-tmp1efif](../literature.d/LIT-tmp1efif.md),
+  what is said of her here rests on Huebner's report. Schmid ([LIT-697](../literature.d/LIT-697.md),
   Deferred) is, by his abstract, the view that groups do feel, as plural
   pre-reflective self-awareness.
 - **It does not say convergence of members' emotions is collective
-  emotion, or that it is not.** The convergence account, [THEORY-tmpund3j](THEORY-tmpund3j.md),
+  emotion, or that it is not.** The convergence account, [THEORY-126](THEORY-126.md),
   answers a different question: whether and how members' affect converges
   on one object. This account asks whether the group bears a state of its
   own. The two are compatible. Huebner's own surviving case is one in which
   members' emotions diverged, so a genuinely collective emotion neither
   requires convergence nor follows from it, and convergence can occur in a
   group that bears no emotion of its own. No relation is declared between
-  them. In List's taxonomy of collective attitudes, [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md), the
+  them. In List's taxonomy of collective attitudes, [LIT-700](../literature.d/LIT-700.md), the
   difference has a name: a converged emotion is an aggregate attitude, or a
   common one when members are mutually aware, and a genuinely collective
   emotion would be a corporate attitude, the only kind that needs a group
@@ -157,7 +160,7 @@ has been shown to be in an emotional state.
 - **It does not say a group's emotion would have the rationality profile of
   its judgments.** List's corporate attitudes must be rational, and the
   reason a group's judgments come apart from its members' is a theorem
-  about deductively closed judgments ([THEORY-tmpwsee8](THEORY-tmpwsee8.md)). Huebner's test, a
+  about deductively closed judgments ([THEORY-127](THEORY-127.md)). Huebner's test, a
   state not characterisable as members' states in aggregation, is the
   informal analogue of that theorem's failure of proposition-wise
   supervenience, and the Palau crew, routines each sensitive to one

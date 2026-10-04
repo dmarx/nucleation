@@ -1,5 +1,8 @@
 ---
+number: 126
 status: Proposed
+formerly:
+- THEORY-tmpund3j
 promote_when: >-
   Evidence on the two parts of the account that are claims rather than a
   definition. First, a study that holds one event fixed and varies the
@@ -26,20 +29,20 @@ tags:
 - social-ontology
 date: '2026-10-04'
 source:
-- LIT-tmp0fwb0
-- LIT-tmpojrfm
+- LIT-696
+- LIT-706
 extends:
-- THEORY-tmp6iizp
+- THEORY-123
 - THEORY-055
 summary: >-
-  von Scheve & Ismer (2013), [LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md), a conceptual synthesis with no
+  von Scheve & Ismer (2013), [LIT-696](../literature.d/LIT-696.md), a conceptual synthesis with no
   data: collective emotion is "synchronous convergence in affective
   responding across individuals towards a specific event or object". Its
   minimal case is shared appraisal with no mutual awareness (drivers in one
   traffic jam). Mutual awareness and membership in a collective amplify it,
   and appraisals grounded in collective intentions give "We-mode"
   collective emotion, which they expect to differ in quality. Barsade
-  (2002), [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md), supplies the one measured instance: in 26 groups
+  (2002), [LIT-706](../literature.d/LIT-706.md), supplies the one measured instance: in 26 groups
   with no confederate, the intraclass correlation of members' mood rose
   from .00 to .24. The account posits no group subject and does not deny
   one. Proposed: the definition is stipulated, the routes beyond contagion
@@ -47,21 +50,21 @@ summary: >-
   lacks evidence.
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 — Proposed; the appraisal account this one widens, and its constructionist rival, named for where convergence comes from -->
-<!-- inactive-ok-file: THEORY-tmp6iizp THEORY-tmpgc3z0 — Proposed; filed in the same batch, the contagion account this widens and the genuinely-collective account it is compatible with -->
+<!-- inactive-ok-file: THEORY-123 THEORY-125 — Proposed; filed in the same batch, the contagion account this widens and the genuinely-collective account it is compatible with -->
 
-# THEORY-tmpund3j: A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states
+# THEORY-126: A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states
 
 ## Source
 
-- von Scheve & Ismer (2013), [LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md), read in full in [NOTE-tmpj6dug](../notes.d/NOTE-tmpj6dug.md),
+- von Scheve & Ismer (2013), [LIT-696](../literature.d/LIT-696.md), read in full in [NOTE-552](../notes.d/NOTE-552.md),
   from the authors' final draft. Page numbers are the draft's.
-- Barsade (2002), [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md), read in full in [NOTE-tmpdupic](../notes.d/NOTE-tmpdupic.md), from the
+- Barsade (2002), [LIT-706](../literature.d/LIT-706.md), read in full in [NOTE-551](../notes.d/NOTE-551.md), from the
   August 2001 revise-and-resubmit manuscript. Every number below is the
   manuscript's, not the published article's.
 
 ## What the account says
 
-**The definition.** von Scheve and Ismer, [LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md), propose "an
+**The definition.** von Scheve and Ismer, [LIT-696](../literature.d/LIT-696.md), propose "an
 understanding of collective emotions as the synchronous convergence in
 affective responding across individuals towards a specific event or object"
 (p. 3, restated p. 19). The definition "does not necessarily presuppose that
@@ -110,7 +113,7 @@ emotion, and nothing in it denies that a group could be one.
 
 ## What the evidence shows
 
-**Convergence has been measured.** Barsade's Study 2, [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md), had 113
+**Convergence has been measured.** Barsade's Study 2, [LIT-706](../literature.d/LIT-706.md), had 113
 MBA students in 26 groups do a mixed-motive negotiation with no confederate.
 Groups were formed at random, and the intraclass correlation of members'
 pleasant mood was .00 before the exercise, "indicating absolutely no
@@ -122,7 +125,7 @@ cite this paper.
 **One route has been tested causally.** Barsade's Study 1 randomly assigned
 a confederate's displayed mood and found members' mood moved with it. That
 result, and what it shows about group processes, is the contagion account,
-[THEORY-tmp6iizp](THEORY-tmp6iizp.md). This account extends it: contagion is one route to
+[THEORY-123](THEORY-123.md). This account extends it: contagion is one route to
 convergence among several, alongside shared appraisal and membership, and
 the account adds the claim that the routes interact. The extension is a
 widening of the same mechanism class, not a rival to it.
@@ -132,13 +135,13 @@ theory. The behavioural ones, inferring shared values from similar
 expressions and "facial dialects" making contagion more effective within
 groups, are offered with "hardly any evidence yet". The interaction between
 the levels is drawn in a figure the draft gives only as a caption. The
-authors say the key linkages lack evidence ([NOTE-tmpj6dug](../notes.d/NOTE-tmpj6dug.md), C3–C5).
+authors say the key linkages lack evidence ([NOTE-552](../notes.d/NOTE-552.md), C3–C5).
 
 ## What this does not say
 
 - **It does not say groups cannot have emotions.** The account needs no
   group subject; it does not exclude one. Whether a group can itself be in
-  an emotional state is the question of [THEORY-tmpgc3z0](THEORY-tmpgc3z0.md), Huebner's
+  an emotional state is the question of [THEORY-125](THEORY-125.md), Huebner's
   genuinely collective emotion, and the two are compatible. They answer
   different questions. This account asks whether, how and why members'
   affect converges on one object. That one asks whether a group bears an
@@ -151,7 +154,7 @@ authors say the key linkages lack evidence ([NOTE-tmpj6dug](../notes.d/NOTE-tmpj
   `rivals` relation is declared, because neither account excludes what the
   other asserts.
 - **It does not say convergence and a group's own emotion are the same
-  kind of thing.** List's taxonomy of collective attitudes, [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md),
+  kind of thing.** List's taxonomy of collective attitudes, [LIT-700](../literature.d/LIT-700.md),
   gives the distinction a name, though List himself says only that "there
   can be aggregate fears and hopes, common fears and hopes, and corporate
   fears and hopes" (§1). Placed in it, I-mode convergence is an aggregate
@@ -183,4 +186,4 @@ authors say the key linkages lack evidence ([NOTE-tmpj6dug](../notes.d/NOTE-tmpj
 - Barsade's groups were ad hoc and competitive, so the measured convergence
   is at the I-mode end only. Whether contagion between members who identify
   as a group differs from contagion between strangers is the test the
-  We-mode clause invites ([NOTE-tmpdupic](../notes.d/NOTE-tmpdupic.md), open questions).
+  We-mode clause invites ([NOTE-551](../notes.d/NOTE-551.md), open questions).

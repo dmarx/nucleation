@@ -1,6 +1,9 @@
 ---
+number: 554
 status: Read
-paper: LIT-tmpaxx6q
+formerly:
+- NOTE-tmpvl003
+paper: LIT-700
 title: 'List — Three kinds of collective attitudes'
 version: 1
 history:
@@ -26,11 +29,11 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit's Group Agency, cited by the paper throughout, named as held -->
-<!-- inactive-ok-file: LIT-tmpbdcqn — Deferred, no lawful full text; Gilbert on collective guilt feelings, placed in the taxonomy by the record -->
-<!-- inactive-ok-file: LIT-tmp1efif — Deferred, no lawful full text; Schmid's corporate emotions, placed in the taxonomy from its abstract -->
+<!-- inactive-ok-file: LIT-701 — Deferred, no lawful full text; Gilbert on collective guilt feelings, placed in the taxonomy by the record -->
+<!-- inactive-ok-file: LIT-697 — Deferred, no lawful full text; Schmid's corporate emotions, placed in the taxonomy from its abstract -->
 <!-- inactive-ok-file: LIT-492 LIT-490 — Deferred, unread; Gilbert's and Searle's accounts, discussed in §3.4 -->
 
-# NOTE-tmpvl003: List — Three kinds of collective attitudes
+# NOTE-554: List — Three kinds of collective attitudes
 
 ## Contribution
 
@@ -140,25 +143,25 @@ and only the third can come apart from what any member believes.
 
 ## Connections
 
-- **List & Pettit 2006 ([LIT-tmphq2d4](../literature.d/LIT-tmphq2d4.md)).** Extended; declared on the LIT. The
+- **List & Pettit 2006 ([LIT-705](../literature.d/LIT-705.md)).** Extended; declared on the LIT. The
   2006 set-wise supervenience becomes "holistic supervenience" here, now
   admitting non-attitudinal contributions.
 - **The book ([LIT-391](../literature.d/LIT-391.md)), unread.** Cited for the definition of agency (ch. 1),
   for supervenience (ch. 3) and for strategy-proofness (ch. 5).
-- **Gilbert ([LIT-492](../literature.d/LIT-492.md), [LIT-tmpbdcqn](../literature.d/LIT-tmpbdcqn.md)) and Searle ([LIT-490](../literature.d/LIT-490.md); [LIT-482](../literature.d/LIT-482.md) read).**
+- **Gilbert ([LIT-492](../literature.d/LIT-492.md), [LIT-701](../literature.d/LIT-701.md)) and Searle ([LIT-490](../literature.d/LIT-490.md); [LIT-482](../literature.d/LIT-482.md) read).**
   §3.4 is the paper's one engagement with them. It answers neither in
   detail. On Gilbert's collective guilt feelings the taxonomy would ask
   whether the plural subject has the rational structure a corporate attitude
   needs. List does not raise it.
-- **Huebner ([LIT-tmpdb036](../literature.d/LIT-tmpdb036.md)).** His holism/collectivism distinction maps onto
+- **Huebner ([LIT-702](../literature.d/LIT-702.md)).** His holism/collectivism distinction maps onto
   aggregate-or-common against corporate. His McCain–Palin campaign is a
   candidate corporate fear that is explicitly not an aggregate of members'
   varied emotions, which is List's lesson 3 applied to emotion.
-- **Schmid ([LIT-tmp1efif](../literature.d/LIT-tmp1efif.md)), unread.** His title's "corporate emotions" are,
+- **Schmid ([LIT-697](../literature.d/LIT-697.md)), unread.** His title's "corporate emotions" are,
   by his abstract, a we-mode phenomenon, the kind List sets aside. Whether
   Schmid's corporate emotions are List's corporate attitudes is a question
   for a reading of Schmid.
-- **Von Scheve & Ismer ([LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md)).** Their I-mode and We-mode collective
+- **Von Scheve & Ismer ([LIT-696](../literature.d/LIT-696.md)).** Their I-mode and We-mode collective
   emotions are, in List's terms, aggregate or common attitudes, and their
   We-mode borrows the we-mode List declines to need.
 
@@ -169,7 +172,7 @@ and only the third can come apart from what any member believes.
   disagreements among Gilbert, Huebner, Schmid and the social psychology of
   convergence are partly about different kinds. Only corporate emotions are
   candidates for being a group's own state. Sources: this paper,
-  [LIT-tmpdb036](../literature.d/LIT-tmpdb036.md), [LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md). Promote when Gilbert and Schmid are read and
+  [LIT-702](../literature.d/LIT-702.md), [LIT-696](../literature.d/LIT-696.md). Promote when Gilbert and Schmid are read and
   their accounts placed with their own words.
 - No instruction for machine-learning practice.
 

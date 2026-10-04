@@ -1,6 +1,9 @@
 ---
+number: 551
 status: Read
-paper: LIT-tmpojrfm
+formerly:
+- NOTE-tmpdupic
+paper: LIT-706
 title: 'The Ripple Effect: Emotional Contagion and its Influence on Group Behavior'
 version: 1
 history:
@@ -28,12 +31,12 @@ summary: >-
   (.49) and conflict (−.49).
 ---
 
-<!-- inactive-ok-file: LIT-tmpdlqlh — Deferred, no lawful full text; Ashforth & Humphrey, cited by this paper and named -->
-<!-- inactive-ok-file: LIT-tmpe25cj — Deferred, no lawful full text; Frijda 1988, cited by this paper and named -->
-<!-- inactive-ok-file: LIT-tmp9q3ir — Deferred, no lawful full text; Sanchez-Burks & Huy, named from their abstract -->
+<!-- inactive-ok-file: LIT-703 — Deferred, no lawful full text; Ashforth & Humphrey, cited by this paper and named -->
+<!-- inactive-ok-file: LIT-704 — Deferred, no lawful full text; Frijda 1988, cited by this paper and named -->
+<!-- inactive-ok-file: LIT-699 — Deferred, no lawful full text; Sanchez-Burks & Huy, named from their abstract -->
 <!-- inactive-ok-file: LIT-550 — Deferred, unread; Lazarus, named as the source of a definition this paper quotes -->
 
-# NOTE-tmpdupic: The Ripple Effect: Emotional Contagion and its Influence on Group Behavior
+# NOTE-551: The Ripple Effect: Emotional Contagion and its Influence on Group Behavior
 
 ## Contribution
 
@@ -142,16 +145,16 @@ conflict, which members attribute to the facts of the task.
 
 ## Connections
 
-- **von Scheve & Ismer 2013 ([LIT-tmp0fwb0](../literature.d/LIT-tmp0fwb0.md)).** Their "face-to-face"
+- **von Scheve & Ismer 2013 ([LIT-696](../literature.d/LIT-696.md)).** Their "face-to-face"
   perspective and their definition of collective emotion as convergence
   frame this study. Study 2's ICC is that definition operationalised. They
   do not cite this paper.
-- **Ashforth & Humphrey 1995 ([LIT-tmpdlqlh](../literature.d/LIT-tmpdlqlh.md)), Deferred.** Cited (p. 6) for
+- **Ashforth & Humphrey 1995 ([LIT-703](../literature.d/LIT-703.md)), Deferred.** Cited (p. 6) for
   using "emotion" as a broad label for subjective feeling.
-- **Frijda 1988 ([LIT-tmpe25cj](../literature.d/LIT-tmpe25cj.md)), Deferred.** Cited (p. 12) for mood
+- **Frijda 1988 ([LIT-704](../literature.d/LIT-704.md)), Deferred.** Cited (p. 12) for mood
   contagion as "a direct source of information … about how the group is
   doing".
-- **Sanchez-Burks & Huy 2009 ([LIT-tmp9q3ir](../literature.d/LIT-tmp9q3ir.md)), Deferred.** The perceiver's
+- **Sanchez-Burks & Huy 2009 ([LIT-699](../literature.d/LIT-699.md)), Deferred.** The perceiver's
   complement, going by their abstract. The General Discussion's call for
   leaders who are "emotionally attuned to and influenced by their
   followers" is the competence they name emotional aperture.

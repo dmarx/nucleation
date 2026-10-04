@@ -1,6 +1,9 @@
 ---
+number: 549
 status: Read
-paper: LIT-tmpzxkz1
+formerly:
+- NOTE-tmp25fhs
+paper: LIT-708
 title: 'Rarely categorical, highly separable representations along the cortical hierarchy'
 version: 1
 history:
@@ -34,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-008 — Proposed; named for why rotation-invariant readout measures cannot see neuron types -->
 <!-- inactive-ok-file: THEORY-017 — Proposed; named for the point that a basis is extra structure, which the neuron basis supplies physically -->
 
-# NOTE-tmp25fhs: Rarely categorical, highly separable representations along the cortical hierarchy
+# NOTE-549: Rarely categorical, highly separable representations along the cortical hierarchy
 
 ## Contribution
 

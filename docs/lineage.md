@@ -2,7 +2,7 @@
 
 # Lines of work
 
-41 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+42 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -54,6 +54,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
   - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
 - [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+
+### From Group Agency and Supervenience
+
+- [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
+  - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
 
 ## anthology-candidate
 
@@ -464,6 +469,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
   - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
 
+### From Group Agency and Supervenience
+
+- [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
+  - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
+
 ## model-comparison
 
 ### From Algebraic Geometry and Statistical Learning Theory
@@ -729,6 +739,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
 - alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
 
+## social-ontology
+
+### From Group Agency and Supervenience
+
+- [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
+  - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
+
 ## social-science
 
 ### From Equality of What?
@@ -772,6 +789,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
   - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
+
+### From Group Agency and Supervenience
+
+- [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
+  - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
 
 ## society-and-governance
 

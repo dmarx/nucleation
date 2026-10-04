@@ -1,5 +1,8 @@
 ---
+number: 127
 status: Proposed
+formerly:
+- THEORY-tmpwsee8
 promote_when: >-
   A read proof of the general impossibility, Proposition 3 of List and
   Pettit (2006), which they cite from Dietrich and List (2005) and omit,
@@ -25,10 +28,10 @@ tags:
 - society-and-governance
 date: '2026-10-04'
 source:
-- LIT-tmphq2d4
-- LIT-tmpaxx6q
+- LIT-705
+- LIT-700
 summary: >-
-  List & Pettit (2006), [LIT-tmphq2d4](../literature.d/LIT-tmphq2d4.md): under universal domain, robust group
+  List & Pettit (2006), [LIT-705](../literature.d/LIT-705.md): under universal domain, robust group
   rationality (complete, consistent, deductively closed group judgments for
   every profile of rational member judgments) is inconsistent with
   majoritarian, uniform proposition-wise and proposition-wise supervenience
@@ -36,32 +39,32 @@ summary: >-
   consistent with set-wise supervenience, which the premise-based and
   distributed premise-based procedures achieve (Propositions 4–5). Members'
   judgments on a conclusion can then be insufficient, or even unnecessary,
-  to fix the group's judgment on it. List (2014), [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md), makes this
+  to fix the group's judgment on it. List (2014), [LIT-700](../literature.d/LIT-700.md), makes this
   the mark of a third kind of collective attitude: corporate attitudes, a
   group agent's, supervene "holistically", while aggregate and common
   attitudes supervene proposition by proposition. Proposed: a theorem the
   record holds by citation, stated for categorical judgments only.
 ---
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->
-<!-- inactive-ok-file: LIT-tmpy5844 — Deferred, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->
-<!-- inactive-ok-file: THEORY-tmpgc3z0 — Proposed; filed in the same batch, Huebner's genuinely collective emotion, named for the parallel, no relation declared -->
+<!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->
+<!-- inactive-ok-file: THEORY-125 — Proposed; filed in the same batch, Huebner's genuinely collective emotion, named for the parallel, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-065 — Proposed; named in Connections for how this bears on group agency, nothing here rests on them -->
 
-# THEORY-tmpwsee8: A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
+# THEORY-127: A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
 
 ## Source
 
-- List & Pettit (2006), [LIT-tmphq2d4](../literature.d/LIT-tmphq2d4.md), read in full in [NOTE-tmpdsh8u](../notes.d/NOTE-tmpdsh8u.md), from
+- List & Pettit (2006), [LIT-705](../literature.d/LIT-705.md), read in full in [NOTE-550](../notes.d/NOTE-550.md), from
   the authors' revised version of 11 January 2006. Page numbers are the
   manuscript's. Read as the lawful substitute for Group Agency ([LIT-391](../literature.d/LIT-391.md)),
   which stays Deferred.
-- List (2014), [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md), read in full in [NOTE-tmpvl003](../notes.d/NOTE-tmpvl003.md).
+- List (2014), [LIT-700](../literature.d/LIT-700.md), read in full in [NOTE-554](../notes.d/NOTE-554.md).
 
 ## What was actually shown
 
 **The setting.** A group's constitution is a function from its members'
 judgments to the group's judgments on an agenda of propositions closed
-under negation. List and Pettit, [LIT-tmphq2d4](../literature.d/LIT-tmphq2d4.md), take the court example: P, Q,
+under negation. List and Pettit, [LIT-705](../literature.d/LIT-705.md), take the court example: P, Q,
 R and "R iff (P and Q)". The constitution has universal domain, accepting
 every profile of complete, consistent and deductively closed individual
 judgments. The group is *robustly rational* if its judgments are complete,
@@ -108,7 +111,7 @@ group agent is "nothing mysterious" and yet "may hold judgments that are
 not directly continuous with its members' corresponding individual
 judgments" (abstract).
 
-**The extension to kinds of attitude.** List, [LIT-tmpaxx6q](../literature.d/LIT-tmpaxx6q.md), divides
+**The extension to kinds of attitude.** List, [LIT-700](../literature.d/LIT-700.md), divides
 collective attitudes by their supervenience base. Aggregate attitudes,
 summaries such as a poll, supervene proposition-wise and are rational only
 contingently. Common attitudes, held by all with common awareness,
@@ -138,7 +141,7 @@ any member's nor commonly known (§5).
   proposition-by-proposition dependence, not dependence. List calls the
   result "supervenience without reducibility" by analogy with
   non-reductive physicalism; what more than holistic supervenience
-  "not reducible" amounts to, the paper does not say ([NOTE-tmpvl003](../notes.d/NOTE-tmpvl003.md),
+  "not reducible" amounts to, the paper does not say ([NOTE-554](../notes.d/NOTE-554.md),
   Limitations).
 - **It does not reach attitudes other than categorical judgments by
   proof.** The theorems concern binary judgments; List and Pettit say little
@@ -161,7 +164,7 @@ any member's nor commonly known (§5).
   invariance-under-rearrangement condition, and proposition-wise
   supervenience is close to invariance under decomposing the agenda and
   reaggregating. That reading is the filing agent's conjecture, not either
-  author's. Wimsatt's paper ([LIT-tmpy5844](../literature.d/LIT-tmpy5844.md)) is unread, his conditions are
+  author's. Wimsatt's paper ([LIT-707](../literature.d/LIT-707.md)) is unread, his conditions are
   known here only from his later summary, and whether they apply to a
   mapping from judgment profiles to judgments at all is unchecked. It is
   kept out of the claim.
@@ -174,7 +177,7 @@ any member's nor commonly known (§5).
   counterpart of the failure of proposition-wise supervenience, and his
   navigation crew, routines each sensitive to one constraint and integrated
   on a chart, has the shape of the distributed premise-based procedure.
-  [THEORY-tmpgc3z0](THEORY-tmpgc3z0.md) states his account. No relation is declared: this is a
+  [THEORY-125](THEORY-125.md) states his account. No relation is declared: this is a
   theorem about rational judgments, and it is not shown to carry over to
   emotions, whose coherence conditions are not deductive closure.
 - **[THEORY-043](THEORY-043.md)** (minds of minded agents) finds the readings agree that

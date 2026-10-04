@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [4 Oct 09:00 — Collective emotions and group agency](2026-10.md#collective-emotions-and-group-agency)
+- [4 Oct 04:00 — Posani et al. 2026, a second reading](2026-10.md#posani-et-al-2026-a-second-reading)
 - [4 Oct 00:05 — Frankfurt, filed first-hand](2026-10.md#frankfurt-filed-first-hand)
 - [3 Oct 21:35 — Susan Wolf's Reason View and Fischer & Ravizza's guidance control](2026-10.md#susan-wolfs-reason-view-and-fischer--ravizzas-guidance-control)
 - [3 Oct 20:00 — Mode connectivity, loss landscapes and model merging](2026-10.md#mode-connectivity-loss-landscapes-and-model-merging)
@@ -28,9 +30,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-66 entries across 2 books, newest first.
+68 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 19 | 2026-10-01 | 2026-10-04 |
+| [2026-10](2026-10.md) | 21 | 2026-10-01 | 2026-10-04 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

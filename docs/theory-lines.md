@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-15 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+16 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -84,6 +84,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
+
+- [THEORY-055](../record/theory.d/THEORY-055.md) — An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness *(Proposed)*
+  - [THEORY-126](../record/theory.d/THEORY-126.md) — A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states *(Proposed)* — also extends THEORY-123
+- [THEORY-123](../record/theory.d/THEORY-123.md) — In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves *(Proposed)*
 
 ## ethics
 

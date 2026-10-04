@@ -1,6 +1,9 @@
 ---
+number: 552
 status: Read
-paper: LIT-tmp0fwb0
+formerly:
+- NOTE-tmpj6dug
+paper: LIT-696
 title: 'Towards a Theory of Collective Emotions'
 version: 1
 history:
@@ -31,9 +34,9 @@ summary: >-
 <!-- inactive-ok-file: LIT-550 — Deferred, unread; Lazarus, named as the appraisal theory the paper builds from -->
 <!-- inactive-ok-file: THEORY-055 — Proposed; the record's appraisal account, named because the paper presupposes one -->
 <!-- inactive-ok-file: THEORY-057 — Proposed; Barrett's population view, named as the rival explanation of convergence -->
-<!-- inactive-ok-file: LIT-tmp9q3ir — Deferred, no lawful full text; Sanchez-Burks & Huy, named as the perceiver-side complement -->
+<!-- inactive-ok-file: LIT-699 — Deferred, no lawful full text; Sanchez-Burks & Huy, named as the perceiver-side complement -->
 
-# NOTE-tmpj6dug: Towards a Theory of Collective Emotions
+# NOTE-552: Towards a Theory of Collective Emotions
 
 ## Contribution
 
@@ -148,12 +151,12 @@ A conceptual paper. Its results are claims about how mechanisms relate.
 
 ## Connections
 
-- **Barsade 2002 ([LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md)).** Not cited. Barsade's experiment is
+- **Barsade 2002 ([LIT-706](../literature.d/LIT-706.md)).** Not cited. Barsade's experiment is
   a causal test of the face-to-face mechanism in work groups. Both use
   Hatfield et al.'s account of mimicry and feedback. Barsade's Study 2
   operationalises group contagion as mood convergence, measured by the ICC
   rising from .00 to .24, which is this paper's definition operationalised.
-- **Sanchez-Burks & Huy 2009 ([LIT-tmp9q3ir](../literature.d/LIT-tmp9q3ir.md)), unread.** Their emotional
+- **Sanchez-Burks & Huy 2009 ([LIT-699](../literature.d/LIT-699.md)), unread.** Their emotional
   aperture is recognising the distribution of emotions in a collective. It is
   the perceiver's half of the "mutual awareness" process here.
 - **Collective intentionality.** Gilbert is cited by the 1990 paper the
@@ -175,7 +178,7 @@ A conceptual paper. Its results are claims about how mechanisms relate.
   Such a theory would hold that collective emotion is convergence produced
   bottom-up, rather than a state of a group subject. Its rival would be a
   genuinely-collective account: Huebner's "Genuinely collective emotions"
-  ([LIT-tmpdb036](../literature.d/LIT-tmpdb036.md)), which the paper cites, and his book ([LIT-426](../literature.d/LIT-426.md)). A
+  ([LIT-702](../literature.d/LIT-702.md)), which the paper cites, and his book ([LIT-426](../literature.d/LIT-426.md)). A
   candidate, not filed.
 - Bears on `social-ontology` by making emotions one of the states the
   group-agency debate must handle. The paper takes no side on whether groups

@@ -1,5 +1,8 @@
 ---
+number: 123
 status: Proposed
+formerly:
+- THEORY-tmp6iizp
 promote_when: >-
   For the clause on mood: a second experiment, with a manipulated source
   of displayed mood, run in groups that differ from Barsade's in the way
@@ -27,9 +30,9 @@ tags:
 - social-science
 date: '2026-10-04'
 source:
-- LIT-tmpojrfm
+- LIT-706
 summary: >-
-  Barsade (2002), [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md), read from the August 2001 manuscript, so
+  Barsade (2002), [LIT-706](../literature.d/LIT-706.md), read from the August 2001 manuscript, so
   every number is the manuscript's. Study 1 (94 undergraduates, 29 groups):
   a confederate randomly assigned to show pleasant or unpleasant mood moved
   members' self-reported mood by +.41 or −.26 (χ²(1) = 9.97), and blind
@@ -45,16 +48,16 @@ summary: >-
   marginal. Proposed: one experiment, one actor, retrospective mood,
   correlational process effects.
 extended_by:
-- THEORY-tmpund3j
+- THEORY-126
 ---
-<!-- inactive-ok-file: THEORY-tmpund3j — Proposed; filed in the same batch, the convergence account that widens this one, named for that -->
+<!-- inactive-ok-file: THEORY-126 — Proposed; filed in the same batch, the convergence account that widens this one, named for that -->
 <!-- inactive-ok-file: THEORY-055 THEORY-045 — Proposed; named in What this does not say for how contagion stands to appraisal and bodily feedback, nothing here rests on them -->
 
-# THEORY-tmp6iizp: In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves
+# THEORY-123: In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves
 
 ## Source
 
-- Barsade (2002), [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md), read in full in [NOTE-tmpdupic](../notes.d/NOTE-tmpdupic.md), from the
+- Barsade (2002), [LIT-706](../literature.d/LIT-706.md), read in full in [NOTE-551](../notes.d/NOTE-551.md), from the
   August 2001 revise-and-resubmit manuscript Wharton deposited in Penn's
   repository. The published article may differ in numbers, wording or
   analyses. Every figure below is the manuscript's, and page numbers are
@@ -62,7 +65,7 @@ extended_by:
 
 ## What was actually shown
 
-**The spread is causal (Study 1).** Barsade, [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md), put 94
+**The spread is causal (Study 1).** Barsade, [LIT-706](../literature.d/LIT-706.md), put 94
 undergraduates in 29 groups for a 30-minute leaderless, mixed-motive
 negotiation over a bonus pool. A trained confederate, one male drama
 student, was randomly assigned to show pleasant or unpleasant mood, with
@@ -126,8 +129,8 @@ opposite of the prediction (pp. 27–28).
   and conduct. A test that compares process across the manipulated
   conditions is not reported.
 - **It does not say members are unaware that others affect their mood.**
-  By Barsade's own account they partly recognised it. [NOTE-tmpdupic](../notes.d/NOTE-tmpdupic.md)'s C4
-  and [LIT-tmpojrfm](../literature.d/LIT-tmpojrfm.md)'s status note, which say members did not recognise that
+  By Barsade's own account they partly recognised it. [NOTE-551](../notes.d/NOTE-551.md)'s C4
+  and [LIT-706](../literature.d/LIT-706.md)'s status note, which say members did not recognise that
   their mood was caught, state this more strongly than the manuscript does.
 - **It does not identify the mechanism.** Mimicry with afferent feedback
   (Hatfield, Cacioppo and Rapson) and conscious social comparison are both
@@ -150,7 +153,7 @@ opposite of the prediction (pp. 27–28).
 
 ## Connections
 
-- **The convergence account, [THEORY-tmpund3j](THEORY-tmpund3j.md), extends this one.** That
+- **The convergence account, [THEORY-126](THEORY-126.md), extends this one.** That
   account defines collective emotion as convergence of affect on one object
   and treats contagion as one route to it among several, with shared
   appraisal and group membership. Barsade's Study 2 ICC is its definition
