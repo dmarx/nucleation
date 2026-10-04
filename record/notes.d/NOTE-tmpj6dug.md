@@ -211,5 +211,3 @@ A conceptual paper. Its results are claims about how mechanisms relate.
 - **Citation.** The draft cites Gilbert's "Walking together" as *Midwest
   Studies in Philosophy* 25; the record's entry ([LIT-477](../literature.d/LIT-477.md)) gives volume 15,
   which is correct for 1990.
-</content>
-</invoke>

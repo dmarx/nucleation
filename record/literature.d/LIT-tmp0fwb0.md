@@ -125,13 +125,3 @@ outside its scope as a matter of method, and the We-mode collective
 emotion is where the two would meet. Huebner's later book ([LIT-426](LIT-426.md)) is the
 record's other holding. No relation is declared to any of these. The paper
 uses them and does not extend, test or answer any of them.
-</content>
-</invoke>
-<invoke name="Bash">
-<parameter name="command">cd /home/user/nucleation; python3 - <<'EOF'
-p='record/notes.d/[NOTE-tmpj6dug](../notes.d/NOTE-tmpj6dug.md).md'
-t=open(p).read()
-t=t.replace("<!-- inactive-ok-file: [THEORY-057](../theory.d/THEORY-057.md)","<!-- inactive-ok-file: [THEORY-057](../theory.d/THEORY-057.md)",1)
-open(p,'w').write(t)
-EOF
-grep -n "LIT-\|THEORY-" record/notes.d/[NOTE-tmpj6dug](../notes.d/NOTE-tmpj6dug.md).md | grep -v "inactive-ok" | head -30

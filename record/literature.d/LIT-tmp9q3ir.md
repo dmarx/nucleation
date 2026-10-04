@@ -91,5 +91,3 @@ commits to any view of group subjects can only be said after a reading.
 skill and its organisational enablers, are known from the abstract. A
 reading would say how the paper defines a group's emotional
 "composition", and whether it reports a measure or a study.
-</content>
-</invoke>

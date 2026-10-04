@@ -123,7 +123,7 @@ conflict, which members attribute to the facts of the task.
 | C1 | A group member's displayed mood causally changes other members' mood | strong for pleasant vs unpleasant valence in this setting: randomised confederate, two independent measures | Study 1, H1; Table 3 |
 | C2 | Pleasant mood contagion increases cooperation and reduces conflict in the group | moderate: Study 1 correlates contagion (not the manipulation) with processes, 26–29 groups; replicated correlationally in Study 2 | Tables 4–5, 7–8 |
 | C3 | Contagion is a group-level phenomenon, not only dyadic transmission from a strong source | moderate: mood convergence without a confederate (ICC .00 → .24); not a test of mechanism | Study 2 |
-| C4 | People do not recognise that their mood was caught, and attribute its effects to task factors | weak to moderate: self-report attribution items, not a designed test | General Discussion |
+| C4 | People relate their pleasantness to others' conduct but show no awareness that their mood shapes their judged effectiveness, which they attribute to task factors | weak to moderate: self-report attribution items, not a designed test | General Discussion |
 | C5 | Unpleasant emotion spreads more than pleasant; energy amplifies contagion | not supported (C5a) / mixed and marginal (C5b) | H2, H3 |
 
 ## Concepts
@@ -201,5 +201,3 @@ conflict, which members attribute to the facts of the task.
 - none to a seeded skim (there was no seed)
 - **Typo in the manuscript.** It cites "Barsade & Gibson, 1988" once
   (p. 3) for the 1998 chapter.
-</content>
-</invoke>

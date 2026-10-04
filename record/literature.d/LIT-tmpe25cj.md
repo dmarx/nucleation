@@ -96,5 +96,3 @@ No relation is declared. A relation to [LIT-546](LIT-546.md) or [LIT-540](LIT-54
 
 **Priority for a reading: medium**, and higher than the book's. Ten pages,
 and they would let the record say what the laws are.
-</content>
-</invoke>

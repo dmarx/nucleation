@@ -97,5 +97,3 @@ alone, and a reading would test both.
 paper, and its central claims are in the abstract. A reading would add what
 each regulating mechanism is, and the group-dynamics section, which is
 where it would bear on collective emotion.
-</content>
-</invoke>

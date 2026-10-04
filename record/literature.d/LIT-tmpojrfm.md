@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-04 ([NOTE-tmpdupic](../notes.d/NOTE-tmpdupic.md)), from the August 2001 revise-and-resubmit manuscript Wharton deposited in Penn''s repository, not the published version; worth reading as the first causal test of emotional contagion in groups. A trained confederate''s pleasant or unpleasant mood spread to the members of 29 work groups (self-report and blind video-coders agree), and the more pleasant mood spread, the more cooperative and the less conflicted the group (coder-rated) and the better members rated their own performance. A second study without a confederate found members'' moods converging (ICC .00 before, .24 after). Members did not recognise that their mood had been caught. Valence and energy hypotheses failed or came out mixed.'
+status_note: 'read in full 2026-10-04 ([NOTE-tmpdupic](../notes.d/NOTE-tmpdupic.md)), from the August 2001 revise-and-resubmit manuscript Wharton deposited in Penn''s repository, not the published version; worth reading as the first causal test of emotional contagion in groups. A trained confederate''s pleasant or unpleasant mood spread to the members of 29 work groups (self-report and blind video-coders agree), and the more pleasant mood spread, the more cooperative and the less conflicted the group (coder-rated) and the better members rated their own performance. A second study without a confederate found members'' moods converging (ICC .00 before, .24 after). Members related their pleasantness to others'' conduct but showed no awareness of their mood''s bearing on how effective they judged themselves (manuscript p. 37). Valence and energy hypotheses failed or came out mixed.'
 title: 'The Ripple Effect: Emotional Contagion and its Influence on Group Behavior'
 version: 1
 history:
@@ -47,7 +47,7 @@ summary: >-
   pleasant contagion predicted more cooperation, less conflict and higher
   self-rated performance. Study 2 (113 MBA students, 26 groups, no
   confederate) found mood convergence (ICC .00 to .24) with the same
-  process correlates. Members did not notice the contagion.
+  process correlates. Members recognised that others influenced how pleasant they felt, but not that their mood shaped their judged effectiveness.
 ---
 
 <!-- inactive-ok-file: LIT-tmpdlqlh — Deferred, no lawful full text; Ashforth & Humphrey, cited by this paper and named, not leaned on -->
@@ -124,5 +124,3 @@ List) has to stand on.
 
 No relation is declared. It cites neither von Scheve & Ismer, who came
 later, nor any account in the record that it tests or corrects.
-</content>
-</invoke>
