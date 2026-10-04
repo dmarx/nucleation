@@ -1,0 +1,115 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-04 from Crossref and the record''s second-hand readings, not read. No lawful full text was found. Unpaywall and OpenAlex list no open copy of the address or of its reprints (oa_status closed): it is at JSTOR (stable 3130658), the APA Centennial Series reprint of 2013 is at the Philosophy Documentation Center, and the chapter in Necessity, Volition, and Love is at Cambridge Core. I did not open those pages. The copies a web search turns up are student-notes sites and academia.edu or ResearchGate discussions, not the address on a course page, an author''s page or a repository, so none was opened. A person with access to Proceedings and Addresses of the American Philosophical Association 66(3), pp. 5–16 (DOI 10.2307/3130658), or to Necessity, Volition, and Love (CUP 1999), pp. 95–107, can supply the 12 pages; a reading would move this to Active and is one of the readings [THEORY-029](../theory.d/THEORY-029.md)''s promote_when asks for.'
+title: 'The Faintest Passion'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Registered at the owner's request, unread, with Frankfurt's 1969 and
+    1971 papers (LIT-tmpwts2i, LIT-tmpuutyy, both read), because
+    THEORY-029 names it as a reply the record holds only by report, and
+    the record's readings disagree about what it says. Crossref confirms
+    title, author, Proceedings and Addresses of the APA 66(3), first page
+    5, November 1992, and the DOI; `published:` is the first of November
+    1992, since no source gives a day. Velleman (LIT-295) calls it the
+    1991 Presidential Address; it was delivered to the Eastern Division
+    before it was printed, and the printed date is used. Not held in the
+    Anthology of the SOTA: a grep of its record for "Frankfurt" found
+    nothing.
+tags:
+- self-governance
+- agency
+- free-will
+date: '2026-10-04'
+published: '1992-11-01'
+doi: '10.2307/3130658'
+first_author: 'Frankfurt'
+keywords:
+- 'satisfaction'
+- 'wholeheartedness'
+- 'ambivalence'
+- 'identification'
+- 'regress'
+implementations: []
+summary: >-
+  Frankfurt (1992), Proceedings and Addresses of the American Philosophical
+  Association 66(3):5–16, his Eastern Division Presidential Address;
+  reprinted in Necessity, Volition, and Love (CUP 1999), pp. 95–107.
+  Unread. By the record's second-hand reports it replaces decisive
+  commitment with "satisfaction", an absence of "restlessness or
+  resistance" toward one's motives (Buss and Westlund, SEP Personal
+  Autonomy n. 1), and holds that wholeheartedness needs the person to be
+  "resolutely on the side of one of the forces struggling within him", not
+  untroubled by opposition (as Velleman quotes it, NVL 100).
+---
+
+<!-- inactive-ok-file: THEORY-029 THEORY-tmpev5mk — Proposed; the accounts this address bears on -->
+
+# LIT-tmpy887p: The Faintest Passion
+
+Harry G. Frankfurt, "The Faintest Passion", *Proceedings and Addresses of
+the American Philosophical Association* 66(3), November 1992, pp. 5–16 —
+DOI-10.2307/3130658. Reprinted as chapter 8 of *Necessity, Volition, and
+Love* (Cambridge University Press, 1999), pp. 95–107, and in the APA
+Centennial Series (Philosophy Documentation Center, 2013), pp. 59–72.
+
+## Key takeaways
+
+*Registered from second-hand sources, not a reading of the address. Each
+point says who reports it.*
+
+- **Satisfaction.** Buss and Westlund ([LIT-296](LIT-296.md), n. 1, read in [NOTE-267](../notes.d/NOTE-267.md))
+  report that Frankfurt answered regress worries "first" with "decisive
+  commitments" and "more recently" with "satisfaction" with one's
+  motives, "an absence of 'restlessness or resistance' in response to
+  their motivating force", citing this essay in its 1999 reprint, without
+  a page.
+- **Wholeheartedness is resolution, not peace.** Velleman's "Identification
+  and Identity" ([LIT-292](LIT-292.md), read in [NOTE-268](../notes.d/NOTE-268.md)) quotes it: "Wholeheartedness
+  does not require that a person be altogether untroubled by inner
+  opposition to his will. It just requires that … he himself be fully
+  resolved … resolutely on the side of one of the forces struggling within
+  him and not on the side of any other" (NVL 100). [NOTE-268](../notes.d/NOTE-268.md) reports that he
+  also cites it on ambivalence as a disease of the will.
+- **Who does not read it.** Velleman's "What Happens When Someone Acts?"
+  ([LIT-295](LIT-295.md)) excludes it expressly (n. 25). McKenna and Coates ([LIT-291](LIT-291.md))
+  neither cite nor list it, and Dryden's IEP entry ([LIT-297](LIT-297.md)) stops at 1987.
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, as optional item in the batch
+on Frankfurt, because the record would lose something without it: it is
+the reply [THEORY-029](../theory.d/THEORY-029.md)'s promote_when names by title and could not cite by
+code, and it is where the record's readings disagree. It is philosophy of
+agency with no instruction for machine-learning practice, so no anthology
+topic holds it.
+
+`Deferred` because no lawful copy could be read (see the status note).
+
+**The dispute it would settle.** McKenna and Coates ([LIT-291](LIT-291.md), supplement §A)
+say Frankfurt amended his view so that a resigned, "drearily" given-up
+willing addict does *not* identify. Buss and Westlund's gloss on
+satisfaction, an absence of resistance, would seem to let her in.
+Frankfurt's own 2004 lectures ([LIT-293](LIT-293.md), p. 173) count identification "in
+weary resignation" as identification. If satisfaction is what [NOTE-267](../notes.d/NOTE-267.md)
+reports, the late view admits the resigned addict and the SEP's account of
+the amendment is wrong in direction. Only the address can show it.
+
+**How it bears on the theories.** It is a candidate stopping point for
+[THEORY-029](../theory.d/THEORY-029.md)'s regress: an attitude, or the absence of one, that ends the
+series. An absence of restlessness is specified without the agent's
+participation, so on [THEORY-029](../theory.d/THEORY-029.md) it falls on the first horn, unless the
+address adds a condition on the agent's stance. It is one stage of the
+development [THEORY-tmpev5mk](../theory.d/THEORY-tmpev5mk.md) records.
+
+**Priority for a reading: high.** It is twelve pages, it is in [THEORY-029](../theory.d/THEORY-029.md)'s
+promote_when, and it decides the resigned-addict question.
+
+Access when seeded:
+
+- Crossref records for the 1992 address (DOI 10.2307/3130658), the 1999
+  chapter (10.1017/CBO9780511624643.009) and the 2013 reprint
+  (10.5840/apapa201318).
+- Unpaywall and OpenAlex: closed.

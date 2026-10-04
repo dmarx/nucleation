@@ -1,0 +1,132 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 from Crossref, the record''s own second-hand readings and the SEP entry it already holds, not read. No lawful full text was found. The article is paywalled at JSTOR (stable 2025667) and the Philosophy Documentation Center, and JSTOR''s free Early Journal Content stops long before 1980. Unpaywall lists no open copy (oa_status closed). The author''s UNC faculty page posts no papers. PhilPapers (WOLAF) answered with a bot challenge, so I stopped there. The PDFs a web search turns up are a JSTOR download re-posted on an unrelated Squarespace site, a syllabus-collection upload on Weebly, and Scribd and Course Hero uploads; none is the author''s, a publisher''s or an institutional repository''s, so none was opened. A person with JSTOR or PDCnet access can supply the 16-page PDF (Journal of Philosophy 77(3), pp. 151–166, DOI 10.2307/2025667); a reading of it would move this to Active and is the text the asymmetry THEORY candidate needs.'
+title: 'Asymmetrical Freedom'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered at the owner's request, unread, with "Sanity and the
+    Metaphysics of Responsibility" (LIT-tmpooua4) and Freedom Within
+    Reason (LIT-tmp2u6df): the record's first entries for Susan Wolf's
+    work on free will and responsibility. Crossref confirms title, author,
+    The Journal of Philosophy 77(3), first page 151, March 1980, and the
+    DOI; `published:` is the first of March 1980, since no source gives a
+    day. Not held in the Anthology of the SOTA: a grep of its record for
+    "Susan Wolf", the title and the DOI found nothing.
+tags:
+- free-will
+- ethics
+- agency
+- metaphysics
+date: '2026-10-03'
+published: '1980-03-01'
+doi: '10.2307/2025667'
+first_author: 'Wolf'
+keywords:
+- 'asymmetry thesis'
+- 'praise and blame'
+- 'ability to do otherwise'
+- 'the True and the Good'
+- 'psychological determinism'
+- 'Reason View'
+implementations: []
+summary: >-
+  Wolf (1980), The Journal of Philosophy 77(3):151–166. Unread. By the
+  SEP's report it is the origin of the Reason View's asymmetry: an agent
+  who acts in accord with the True and the Good is praiseworthy even if
+  psychologically determined so that she could not have done otherwise,
+  but one who acts against it is blameworthy only if she could have done
+  otherwise. Blame therefore needs regulative control and praise needs only
+  guidance control, and Wolf answers the threat from determinism by
+  denying that physical determination entails psychological determination.
+extended_by:
+- LIT-tmp2u6df
+---
+
+<!-- inactive-ok-file: LIT-tmpooua4 LIT-tmp2u6df — Deferred, unread; Wolf's other two works, filed in the same batch -->
+<!-- inactive-ok-file: THEORY-040 — Proposed; named as the account of manipulation this view is exposed to, nothing here rests on it -->
+
+# LIT-tmpbc48b: Asymmetrical Freedom
+
+Susan Wolf, "Asymmetrical Freedom", *The Journal of Philosophy* 77(3),
+March 1980, pp. 151–166 — DOI-10.2307/2025667. Reprinted, among other
+places, in John Martin Fischer (ed.), *Moral Responsibility* (Cornell
+University Press, 1986), which I did not verify against a copy.
+
+## Key takeaways
+
+*Registered from second-hand sources, not a reading of the article. Each
+point says who reports it.*
+
+- **The asymmetry.** McKenna and Coates's SEP entry *Compatibilism*
+  ([LIT-291](LIT-291.md), §4.3, read in [NOTE-270](../notes.d/NOTE-270.md)) reports that Wolf develops "a
+  surprising asymmetry thesis according to which praiseworthy conduct does
+  not require the freedom to do otherwise but blameworthy behavior does",
+  citing this article and Freedom Within Reason pp. 79–81. Put in Fischer's
+  terms, only blame requires regulative control; guidance control suffices
+  for praise.
+- **Why praise needs no alternative.** In the same section's report: if an
+  agent acts in accord with the True and the Good and is so
+  psychologically determined that she cannot do otherwise, her freedom is
+  not enhanced "simply by adding an ability to act irrationally". If she
+  acts against it and cannot act in accord with it, "it would be
+  unreasonable to blame her".
+- **The answer to determinism.** Because blame needs the ability to do
+  otherwise, the view is exposed to the Consequence Argument. The SEP
+  reports that Wolf answers by arguing that physical determination does not
+  entail psychological determination, and that the ability blame needs
+  requires only the falsity of psychological determinism, a thesis she
+  holds has no support. The entry's gloss: she is a compatibilist about
+  blame and physical determinism and an incompatibilist about blame and
+  psychological determinism.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request, as the origin of what Wolf
+later called the Reason View. It is moral philosophy with no instruction
+for machine-learning practice, so no anthology topic holds it.
+
+`Deferred` because no lawful copy could be read (see the status note). The
+key takeaways are what the record's SEP reading says the article argues;
+they are not a reconstruction of its argument and quote nothing from it.
+
+**How it bears on the record's PAP map.** Robb's SEP entry on the principle
+of alternative possibilities ([LIT-294](LIT-294.md), [NOTE-269](../notes.d/NOTE-269.md)) reports that the
+moral arguments for PAP, from fairness, "ought implies can" and the
+W-defense, cover blame at most. Wolf's asymmetry is a position with exactly
+that shape: PAP holds for blame and fails for praise. Robb's map treats
+Frankfurt-style cases as the main attack on PAP; this article rejects PAP
+for praise on a different ground, the value of acting on good reasons,
+with no counterfactual intervener. A reading should check whether Wolf's
+blame half survives Frankfurt-style cases, which Robb's entry would predict
+it must answer.
+
+**How it bears on [THEORY-040](../theory.d/THEORY-040.md).** That account says a condition stated only
+in the agent's present psychology is met by a manipulated agent. McKenna
+and Coates ([LIT-291](LIT-291.md), §4.3) place Wolf "at the same crossroads as is
+Frankfurt": her mesh between action and the True and the Good is also open
+to manipulation. The asymmetry sharpens this. A manipulated agent who is
+made to act well, and cannot do otherwise, is praiseworthy on Wolf's view
+as the SEP reports it; whether one made to act badly is blameworthy turns
+on whether the manipulation removed the psychological ability to do
+otherwise. This is my inference from the report, not the article's claim.
+
+**Its successors.** Wolf's "Sanity and the Metaphysics of Responsibility"
+([LIT-tmpooua4](LIT-tmpooua4.md)) states the Reason View's condition as sanity, and
+*Freedom Within Reason* ([LIT-tmp2u6df](LIT-tmp2u6df.md)) develops both. No relation is
+declared from this entry: it is unread, and the book's `extends` to it is
+declared on the book's side.
+
+**Priority for a reading: high.** It is 16 pages, and it is the only
+first-hand source for the asymmetry, which the record's THEORY candidate
+on praise and blame would need.
+
+Access when seeded:
+
+- Crossref record (title, author, volume 77, issue 3, first page 151,
+  March 1980; publisher given as the Philosophy Documentation Center).
+- Unpaywall: no open-access location.
+- PDCnet's page redirects to a purchase form.
+- PhilPapers record WOLAF returned a bot challenge.

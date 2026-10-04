@@ -1,0 +1,142 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpvgp5d](../notes.d/NOTE-tmpvgp5d.md)); worth reading as the only first-hand, lawful statement by Fischer that the record holds of his framework for moral responsibility: guidance control, not regulative control, is the freedom-relevant condition; guidance control is mechanism ownership plus moderate reasons-responsiveness; responsibility is historical and compatible with causal determinism; and the moral of Frankfurt-style cases is that responsibility depends on the actual sequence. Its own thesis is that the value of acting freely is the value of artistic self-expression, which gives a life narrative value. It lists the framework''s elements without arguing for them.'
+title: 'Stories and the Meaning of Life'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full from the PDF in SOAR, SUNY's institutional repository
+    (handle 20.500.12648/3241; 15 PDF pages, printed pp. 3–15, notes
+    included), which holds Philosophic Exchange, SUNY Brockport's
+    open-access journal. Filed with Fischer's "Responsiveness and Moral
+    Responsibility" (LIT-tmpavyub) and Fischer and Ravizza's
+    Responsibility and Control (LIT-tmp1m893), as the shorter lawful work
+    by the same author that the record's book rule asks for. The
+    repository record gives the issue date as 2009 and no day, so
+    `published:` is the first of January 2009. It has no DOI; `url:` is the
+    handle. Not held in the Anthology of the SOTA: a grep of its record
+    for "Fischer" and the title found nothing.
+tags:
+- free-will
+- narrative-unity
+- ethics
+- agency
+date: '2026-10-03'
+published: '2009-01-01'
+url: 'http://hdl.handle.net/20.500.12648/3241'
+first_author: 'Fischer'
+extends:
+- LIT-tmp1m893
+keywords:
+- 'guidance control'
+- 'regulative control'
+- 'moderate reasons-responsiveness'
+- 'mechanism ownership'
+- 'Frankfurt-style examples'
+- 'value of free action'
+- 'self-expression'
+- 'narrative value'
+- 'meaning of life'
+- 'aesthetic fallacy'
+implementations: []
+summary: >-
+  Fischer (2009), Philosophic Exchange 39(1), pp. 3–15. Section I sketches
+  his framework for moral responsibility: guidance control, not regulative
+  control, is the freedom-relevant condition; it consists in acting from
+  one's own, moderately reasons-responsive mechanism; responsibility is
+  historical and compatible with causal determinism; and the moral of
+  Frankfurt-style cases is that it depends on how the actual sequence
+  unfolds. The paper's thesis is that the value of acting freely is the
+  value of artistic self-expression: free action makes a life a story with
+  narrative value, though the life is judged mainly by moral and
+  prudential standards.
+---
+
+<!-- inactive-ok-file: LIT-tmp1m893 LIT-tmpavyub LIT-tmpbc48b LIT-tmp2u6df — Deferred, unread; Fischer and Ravizza's book, Fischer's 1987 chapter and Wolf's works, filed in the same batch -->
+<!-- inactive-ok-file: THEORY-060 THEORY-076 — Proposed; named as the record's accounts of narrative identity and diachronic self-governance, no relation claimed -->
+
+# LIT-tmpgaaah: Stories and the Meaning of Life
+
+John Martin Fischer, "Stories and the Meaning of Life", *Philosophic
+Exchange* 39(1), 2009, article 4, printed pp. 3–15 — read from SUNY's
+repository, http://hdl.handle.net/20.500.12648/3241.
+
+## Key takeaways
+
+- **The framework, first-hand.** §I lists the elements of what Fischer,
+  "sometimes in collaboration with Mark Ravizza", calls a "framework for
+  moral responsibility": the concept of responsibility is kept apart from
+  its conditions of application; regulative control is distinguished from
+  guidance control; guidance control, "and not regulative control, is the
+  'freedom-relevant' condition"; guidance control is analysed as
+  "mechanism ownership and moderate reasons-responsiveness"; it is
+  "compatible with causal determinism"; and its value is a kind of
+  self-expression. An agent "may be morally responsible but never have
+  had genuine metaphysical access to alternative possibilities".
+- **The Frankfurt-case basis, and its limit.** The moral of
+  Frankfurt-style examples is that responsibility "is a matter of how the
+  actual sequence unfolds, not whether the agent has genuine metaphysical
+  access to alternative sequences" (p. 4). But Fischer says there are
+  "other dialectical routes to the same conclusion", and that rejecting the
+  examples "should not in itself issue in a rejection of the basic
+  conclusion". So the view does not stand or fall with the examples.
+- **The framework survives revisions of its details.** The two most
+  contested parts of the 1998 account are the "subjective" condition on
+  mechanism ownership and the claim that reactivity is "all-of-a piece".
+  Fischer says (p. 4) he can drop both and still hold that responsibility
+  "does not require regulative control, that it is fundamentally a
+  historical notion, and that it is compatible with causal determinism".
+- **The value of free action is artistic self-expression.** "When I act
+  freely, I write a sentence in the story of my life" (p. 5): free action
+  gives a life a narrative dimension of value that is not a sum of
+  momentary welfare. The activity is aesthetic, but the product, a life, is
+  judged mainly by moral and prudential standards, which makes this "sui
+  generis" among artistic contexts (p. 7). Inferring from the nature of the
+  activity to the mode of evaluation is "The Aesthetic Fallacy" (pp. 8–9).
+  He refines the slogan: in acting freely "we constrain the plausible
+  stories of our lives" (p. 10), since others also interpret them.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request for Fischer and Ravizza's
+reasons-responsiveness. It is moral philosophy and the philosophy of
+meaning in life, with no instruction for machine-learning practice, so no
+anthology topic holds it.
+
+`Active`: worth reading as the record's only first-hand statement of the
+framework by its author. It is a statement, not an argument. Each element
+is named in a sentence and defended elsewhere. It does not say what
+moderate reasons-responsiveness is, and it does not mention receptivity,
+reactivity in the 1998 sense, or taking responsibility, except for the
+remark that ownership involves a "subjective" condition. For those the
+record still depends on McKenna and Coates ([LIT-291](LIT-291.md)) and on the unread book.
+
+**The relation.** It `extends` *Responsibility and Control*
+([LIT-tmp1m893](LIT-tmp1m893.md)). Its first section is offered "to give the background" for
+its thesis, and that background is the book's account, cited in its note
+1. The thesis about the value of guidance control presupposes that
+account. The two components of the value it proposes, self-expression and
+assessment by morality and prudence, are matched to the two components of
+guidance control, ownership and reasons-responsiveness (p. 7).
+
+**Narrative.** Its idea of narrative value is from Velleman's "Narrative
+Explanation" (2003), which the record does not hold. Note 10 says Galen
+Strawson's psychological Narrativity thesis, a thesis about how people
+experience their lives, is "entirely orthogonal" to its claims, which are
+about the interpretation of behaviour. That is a direct statement on
+Strawson's "Against Narrativity" ([LIT-452](LIT-452.md)). Fischer does not dispute
+Strawson's thesis, he sets it aside, so no `rivals` is declared. The
+paper's narrative is a life's value, not the person's identity, so it is
+neither McAdams's life story as identity ([THEORY-060](../theory.d/THEORY-060.md)) nor the narrative
+unity Bratman denies is needed for diachronic self-governance
+([THEORY-076](../theory.d/THEORY-076.md)).
+
+**Wolf.** Wolf is not cited. The paper bears on her Reason View
+([LIT-tmpbc48b](LIT-tmpbc48b.md), [LIT-tmp2u6df](LIT-tmp2u6df.md)) only through the framework: it states first-hand
+that responsibility needs no regulative control, which is the point where
+Wolf's asymmetry parts from Fischer, for blame.
+
+Access: the PDF in SOAR (SUNY Open Access Repository), found through a
+web search and opened from the repository's own bitstream service.

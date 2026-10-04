@@ -1,0 +1,225 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-03 as a seed, from Crossref''s book and chapter records, the chapter openings Cambridge Core displays, the record''s second-hand readings, the SEP entry Moral Responsibility ([LIT-tmppa1o1](LIT-tmppa1o1.md)) and Fischer''s own summary in "Stories and the Meaning of Life" ([LIT-tmpgaaah](LIT-tmpgaaah.md), read), not read. No lawful full text was found: the book is paywalled at Cambridge Core, and Unpaywall and OpenAlex list no open copy (oa_status closed, no repository holding). The shorter work the record''s book rule asks for is the authors'' own précis (Philosophy and Phenomenological Research 61(2), September 2000, first page 441, DOI 10.2307/2653660), also closed: JSTOR answered with a bot challenge, so I stopped there. Fischer''s UC Riverside pages post no papers that could be reached, and the copies of the précis in two third-party collections of his papers (andrewmbailey.com/jmf and its wixsite continuation) are not the author''s, a publisher''s or a repository''s, so they were not opened. A web search also shows a PDF titled "Fischer Guidance control and RR" on a UNAM institute''s site, whose search snippet is the book''s series page; it is a course file with no statement of permission, so it was not opened either. A person with Cambridge Core or library access can supply the book (Cambridge UP, 1998, DOI 10.1017/CBO9780511814594); chapters 2, 3 and 8 (pp. 28–91 and 207–239) are the parts to read first, and the short précis is the quickest way to an Active reading.'
+title: 'Responsibility and Control: A Theory of Moral Responsibility'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Registered at the owner's request as a Deferred seed, with Fischer's
+    "Responsiveness and Moral Responsibility" (LIT-tmpavyub) and "Stories
+    and the Meaning of Life" (LIT-tmpgaaah). The record's rule replaces a
+    long book with a shorter lawful work by the same author; the shorter
+    lawful work found, "Stories and the Meaning of Life", states the
+    framework in one section and argues something else, and the précis is
+    closed, so the book is filed as well (see Standing in the record).
+    Crossref gives the print date as 13 February 1998, which `published:`
+    carries, and the online date as 5 June 2012. Not held in the Anthology
+    of the SOTA: a grep of its record for "Fischer", "Ravizza", the title
+    and the DOI found nothing.
+tags:
+- free-will
+- ethics
+- agency
+- self-governance
+date: '2026-10-03'
+published: '1998-02-13'
+doi: '10.1017/CBO9780511814594'
+first_author: 'Fischer'
+extends:
+- LIT-tmpavyub
+extended_by:
+- LIT-tmpgaaah
+keywords:
+- 'guidance control'
+- 'regulative control'
+- 'moderate reasons-responsiveness'
+- 'reasons-receptivity'
+- 'reasons-reactivity'
+- 'mechanism ownership'
+- 'taking responsibility'
+- 'semicompatibilism'
+- 'Frankfurt-type cases'
+- 'Direct Argument for incompatibilism'
+- 'moral responsibility'
+implementations: []
+summary: >-
+  Fischer & Ravizza (1998), Cambridge University Press. Unread seed. The
+  most influential reasons-responsiveness theory of moral responsibility.
+  Responsibility requires guidance control, not regulative control (the
+  control that involves alternative possibilities), and Frankfurt-type
+  cases show the two come apart. An agent has guidance control of an action
+  when it issues from her own, moderately reasons-responsive mechanism:
+  regularly receptive to reasons, including moral ones, and at least weakly
+  reactive to them. The mechanism is her own when she has taken
+  responsibility for it, which makes responsibility historical. Guidance
+  control so described is compatible with causal determinism, which is the
+  position Fischer calls semicompatibilism.
+---
+
+<!-- inactive-ok-file: LIT-tmpavyub LIT-tmpbc48b LIT-tmpooua4 LIT-tmp2u6df — Deferred, unread; Fischer's 1987 chapter and Wolf's three works, filed in the same batch -->
+<!-- inactive-ok-file: THEORY-040 THEORY-029 — Proposed; named as the accounts this book bears on, nothing here rests on them -->
+
+# LIT-tmp1m893: Responsibility and Control: A Theory of Moral Responsibility
+
+John Martin Fischer and Mark Ravizza, S.J., *Responsibility and Control: A
+Theory of Moral Responsibility*, Cambridge Studies in Philosophy and Law,
+Cambridge University Press, 1998 (ISBNs 9780521480550, 9780521775793;
+online 9780511814594) — DOI-10.1017/CBO9780511814594.
+
+## Key takeaways
+
+*Registered from the publisher's abstract, the chapter openings Cambridge
+displays, Fischer's own later summary and second-hand reports. Not a
+reading of the book. Each point says who reports it.*
+
+- **The thesis**, from the publisher's abstract: "moral responsibility is
+  based on 'guidance control'", which has two components: "the mechanism
+  that issues in the relevant behavior must be the agent's own mechanism,
+  and it must be appropriately responsive to reasons". The book closes with
+  "a sustained defense of the thesis that moral responsibility is
+  compatible with causal determinism".
+- **Guidance versus regulative control, and the Frankfurt-case basis.** The
+  opening of chapter 9 (Conclusion), as Cambridge shows it: "Regulative
+  control involves alternative possibilities"; guidance control "does not,
+  by its nature"; "the Frankfurt-type cases show that they are separate and
+  distinct sorts of control"; and responsibility "for actions, omissions,
+  and consequences – simply requires guidance control". Talbert's SEP entry
+  *Moral Responsibility* ([LIT-tmppa1o1](LIT-tmppa1o1.md), §2.3, read in [NOTE-tmpzy6ay](../notes.d/NOTE-tmpzy6ay.md)) reports the same
+  structure, citing pp. 29–34, and that the move from agent to mechanism is
+  forced by Frankfurt cases: the agent in one "would have acted the same no
+  matter what reasons they were confronted with", but the actual mechanism
+  may still respond (pp. 38–39). McKenna and Coates ([LIT-291](LIT-291.md), §4.4.2–4.4.3)
+  give the same argument with their banjo case.
+- **Moderate reasons-responsiveness.** The opening of chapter 3, as
+  Cambridge shows it: chapter 2 had used weak reasons-responsiveness;
+  strong reasons-responsiveness is "too strong" and weak "too weak"; the
+  book separates "recognition of reasons and reaction to reasons" and
+  argues that "the requirements on reasons-recognition are more stringent
+  than those on reasons-reactivity". Talbert reports (§2.3, pp. 69–85) that
+  the required receptivity is "an understandable pattern of (actual and
+  hypothetical) reasons-receptivity", a "pattern of regular receptivity"
+  that includes some moral reasons (p. 77). McKenna and Coates ([LIT-291](LIT-291.md),
+  supplement §B.1) give the waltzing-Matilda example: a mechanism may fail
+  to react to a sufficient reason it recognises, so long as it responds to a
+  coherent, stable range of reasons. The usual short form, regular
+  receptivity with weak reactivity, is the summary of these reports; the
+  word "weak" for reactivity is not in any source I read, and the chapter 3
+  opening states the asymmetry only comparatively.
+- **Ownership by taking responsibility.** Chapters 7 and 8, as their
+  openings show: responsibility is "an essentially historical notion", and
+  the past must contain a process of "taking responsibility", "part of the
+  process by which a mechanism leading (say) to an action, becomes one's
+  own". McKenna and Coates ([LIT-291](LIT-291.md), supplement §B.2, citing pp. 207–239)
+  report its subjective component: the agent sees her conduct as
+  efficacious in the world and accepts that she is a fit target of the
+  reactive attitudes, and comes to see herself so by an appropriate route,
+  not by deception or brainwashing.
+- **Semicompatibilism.** Chapter 6's opening: the indirect arguments for
+  incompatibilism fail because responsibility "does not require the sort of
+  control that involves alternative possibilities", and Frankfurt-style
+  examples lead away from the Direct Argument too. Fischer's own label for
+  the result, that responsibility is compatible with determinism whatever
+  is true of the freedom to do otherwise, is "semicompatibilism"; the SEP
+  *Compatibilism* bibliography cites his "Semicompatibilism and Its
+  Rivals" (2012), and [LIT-tmpgaaah](LIT-tmpgaaah.md), which I read, states the thesis without
+  the word.
+
+The chapter list, from Crossref: 1 Moral Responsibility: The Concept and the
+Challenges (1–27); 2 Weak Reasons-Responsiveness (28–61); 3 Moderate
+Reasons-Responsiveness (62–91); 4 Responsibility for Consequences (92–122);
+5 Responsibility for Omissions (123–150); 6 The Direct Argument for
+Incompatibilism (151–169); 7 Responsibility and History (170–206); 8 Taking
+Responsibility (207–239); 9 Conclusion (240–260).
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request. It is moral philosophy with no
+instruction for machine-learning practice, so no anthology topic holds it.
+
+**Why the book is filed, not only a shorter work.** The record's rule is to
+replace a book with a shorter lawful work by the same author, and to seed the
+book only if the record would lose something without it. Here it would:
+
+- **The shorter lawful work does not carry the account.** Fischer's "Stories
+  and the Meaning of Life" ([LIT-tmpgaaah](LIT-tmpgaaah.md)) is the one lawful text by the
+  authors I could read. Its first section lists the framework's elements,
+  and the rest argues that the value of free action is artistic
+  self-expression. It names moderate reasons-responsiveness and mechanism
+  ownership and does not state either.
+- **The record already cites it.** [LIT-291](LIT-291.md) and [NOTE-270](../notes.d/NOTE-270.md) cite pp. 194–206
+  and 207–239 for the manipulation and ownership arguments, [NOTE-269](../notes.d/NOTE-269.md) cites
+  the dual-control driving instructor at p. 32, and [THEORY-040](../theory.d/THEORY-040.md) names the
+  book in its `promote_when` as a first-hand mesh account the record lacks.
+  Without this entry those citations point nowhere in the record.
+- **The précis is closed too** (see the status note).
+
+**The relation.** It `extends` Fischer's 1987 chapter ([LIT-tmpavyub](LIT-tmpavyub.md)). McKenna
+and Coates ([LIT-291](LIT-291.md), §4.4 and supplement §B) report that the view Fischer
+stated in 1987 and 1994 was refined in this book, and that the book was
+written to fix that account's two problems: weak reasons-responsiveness set
+the bar too low, and the account had no ownership condition. The book
+builds on the chapter and keeps its core, so this is a bibliographic fact
+two lawful reports establish, not a reading of the argument.
+
+**How it bears on Wolf's Reason View.** Wolf's "Asymmetrical Freedom"
+([LIT-tmpbc48b](LIT-tmpbc48b.md)) is usually stated in this book's terms: McKenna and Coates
+([LIT-291](LIT-291.md), §4.3) put her asymmetry as "only blameworthy conduct requires
+regulative control. Guidance control is sufficient for praiseworthy
+conduct." So the two accounts agree that praise needs no alternatives and
+disagree about blame. This book's thesis is that responsibility for
+actions, omissions and consequences requires only guidance control, so it
+denies Wolf's blame condition. Talbert (§2.3) counts Wolf (1990) and
+Fischer and Ravizza among the reasons-responsiveness views, and his §3.2
+lists both as holding that impaired moral competence undermines
+responsibility, which is the sanity condition of Wolf's "Sanity"
+([LIT-tmpooua4](LIT-tmpooua4.md)). No relation to the Wolf entries is declared. Both sides are
+unread, and I found no lawful report saying the book argues against Wolf.
+The rivalry over blame is declared between the THEORY documents that state
+the two accounts, where it is a fact about the claims, not about these
+texts. A reader of the book should check whether it discusses the
+asymmetry. Its chapter 2 on weak reasons-responsiveness and chapter 3 on
+moral receptivity are where it would. If it argues against the asymmetry,
+`rivals` [LIT-tmpbc48b](LIT-tmpbc48b.md) is the relation to declare. *Freedom Within Reason*
+([LIT-tmp2u6df](LIT-tmp2u6df.md)) is the same pairing at book length.
+
+**How it bears on the PAP map.** Robb's SEP entry on alternative
+possibilities ([LIT-294](LIT-294.md), read in [NOTE-269](../notes.d/NOTE-269.md)) names Frankfurt's identification
+view and Fischer and Ravizza's guidance control as the two compatibilist
+accounts that grew from Frankfurt-style cases (§5.1). It also reports
+Fischer's replies to the dilemma defence and his robustness requirement,
+and the dual-control driving instructor (p. 32) as an everyday
+Frankfurt-style case. This book is the full form of the second account.
+[LIT-294](LIT-294.md) is a survey, so no relation is declared to it.
+
+**How it bears on the record's theories.** [THEORY-040](../theory.d/THEORY-040.md) holds that a
+condition stated only in present psychological structure is met by a
+manipulated agent, and that no historical condition in the record is shown
+to escape. This book's taking-responsibility condition is the main
+historical condition in the literature. McKenna and Coates ([LIT-291](LIT-291.md),
+supplement §B.2) report that it handles instant manipulation such as
+Mele's Beth, and that Pereboom's four-case argument can be rebuilt to
+manipulate the taking of responsibility itself. That is the second half of
+[THEORY-040](../theory.d/THEORY-040.md), still at second hand. [THEORY-029](../theory.d/THEORY-029.md) asks what makes an attitude
+the agent's own. The book answers in history, not in the order of an
+attitude. Whether that escapes the regress or only moves it to the
+self-conception that taking responsibility involves is my question, not
+the sources'.
+
+**Priority for a reading: high.** It is the account the record's free-will
+theories keep naming at second hand. The précis first, then chapters 2, 3
+and 8.
+
+Access when seeded:
+
+- Crossref records for the book (with the publisher's abstract) and its
+  nine chapters (titles, pages).
+- Cambridge Core chapter pages: each shows its opening paragraphs as a
+  summary, read for chapters 1–9; the rest behind purchase or
+  institutional access.
+- Unpaywall and OpenAlex: no open-access location for the book or the
+  précis.
+- JSTOR (précis, stable 2653660): "Client Challenge" page.
+- Talbert, "Moral Responsibility", SEP ([LIT-tmppa1o1](LIT-tmppa1o1.md)), read in full and
+  filed in the same batch.

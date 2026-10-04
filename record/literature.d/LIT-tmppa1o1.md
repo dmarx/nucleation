@@ -1,0 +1,133 @@
+---
+status: Active
+status_note: 'read in full 2026-10-03 ([NOTE-tmpzy6ay](../notes.d/NOTE-tmpzy6ay.md)); worth reading as the record''s map of moral responsibility apart from the free-will question, and as its most exact second-hand source for two accounts the record cannot read first-hand: Fischer and Ravizza''s guidance control (§2.3, with page references to the 1998 book) and Wolf''s critique of Real Self views and her moral-competence condition, including the JoJo case (§§3.1.1, 3.2). It reports Wolf''s praise/blame asymmetry only in one sentence of its preamble.'
+title: 'Moral Responsibility'
+version: 1
+history:
+- version: 1
+  date: '2026-10-03'
+  note: >-
+    Read in full (the preamble, §§1–3.10 with every subsection, and the
+    bibliography) from the plato.stanford.edu HTML, in its current version,
+    substantive revision of Mon 3 Jun 2024, first published Wed 16 Oct
+    2019, copyright Matthew Talbert. The SEP's citation page gives the
+    Summer 2026 archive edition as the stable form of the current text.
+    It replaced an earlier SEP entry of the same title by Andrew Eshleman,
+    whose last form is the Fall 2019 edition; `published:` is the first
+    publication of Talbert's entry, since that is the text read. Filed with
+    the Fischer and Ravizza works (LIT-tmpavyub, LIT-tmp1m893), as the
+    lawful second-hand source for their account and Wolf's. Not held in the
+    Anthology of the SOTA: a grep of its record for "Talbert" and the
+    entry's URL found nothing.
+tags:
+- ethics
+- free-will
+- agency
+- moral-psychology
+date: '2026-10-03'
+published: '2019-10-16'
+url: 'https://plato.stanford.edu/entries/moral-responsibility/'
+first_author: 'Talbert'
+keywords:
+- 'moral responsibility'
+- 'reactive attitudes'
+- 'reasons-responsiveness'
+- 'guidance control'
+- 'Frankfurt cases'
+- 'attributability and accountability'
+- 'Real Self views'
+- 'moral competence'
+- 'manipulation'
+- 'epistemic condition'
+- 'moral luck'
+implementations: []
+summary: >-
+  Talbert (2019; revised 2024), Stanford Encyclopedia of Philosophy. A survey
+  of moral responsibility: its relation to free will and determinism,
+  forward-looking, Strawsonian and reasons-responsiveness accounts, the
+  attributability/accountability distinction that grew from Wolf and
+  Watson, the moral competence condition (Wolf's JoJo), conversational
+  views, standing to blame, outcomes, skepticism, moral luck, ultimate
+  responsibility, manipulation and the epistemic condition. Its §2.3 is a
+  page-referenced summary of Fischer and Ravizza's guidance control.
+---
+
+<!-- inactive-ok-file: LIT-tmpavyub LIT-tmp1m893 LIT-tmpbc48b LIT-tmpooua4 LIT-tmp2u6df — Deferred, unread; the Fischer and Wolf works this entry reports, filed in the same batch -->
+<!-- inactive-ok-file: THEORY-040 — Proposed; named as the account of manipulation this entry's §3.9 bears on, nothing here rests on it -->
+
+# LIT-tmppa1o1: Moral Responsibility
+
+Matthew Talbert, "Moral Responsibility", *Stanford Encyclopedia of
+Philosophy* (Edward N. Zalta & Uri Nodelman, eds.), first published 16
+October 2019, substantive revision 3 June 2024; archived as
+https://plato.stanford.edu/archives/sum2026/entries/moral-responsibility/.
+
+## Key takeaways
+
+- **Guidance control, page by page (§2.3).** Fischer and Ravizza take
+  Frankfurt cases to show alternatives are unnecessary, and require
+  instead guidance control (1998, 29–34). Because the agent in a Frankfurt
+  case would act the same whatever the reasons, responsiveness is located
+  in the actual mechanism, "the process that leads to the relevant upshot"
+  (38), and an agent "exhibits guidance control of an action insofar as
+  the mechanism that actually issues in the action is his own,
+  reasons-responsive mechanism" (39). The responsiveness required is
+  moderate (69–85): "an understandable pattern of (actual and
+  hypothetical) reasons-receptivity" (71), a "pattern of regular
+  receptivity" that includes moral considerations (77). Ownership needs
+  history, supplied by "taking responsibility" (207–239; §3.9).
+- **Wolf against Real Self views (§3.1.1).** Real Self views explain why
+  the hypnotised and compulsive are not responsible, but are silent on how
+  the agent's real self came about. Wolf (1990, 41, quoted) holds that
+  blame and praise judge "the moral quality of the individual herself",
+  which requires not only being able to form one's actions on one's
+  values but being "able to form her values on the basis of what is True
+  and Good" (75). Watson's reply turned this into the distinction between
+  attributability and accountability.
+- **The moral competence condition (§3.2).** In Wolf's story, JoJo becomes
+  the sadistic tyrant his father was and "is happy to be the sort of
+  person that he is", so he meets structural conditions; yet his upbringing
+  left him "unable to appreciate the wrongfulness of his behavior", and it
+  is the impaired moral competence that excuses. Many join Wolf, Fischer
+  and Ravizza 1998 among them.
+- **The asymmetry is only flagged.** The preamble says the assumption that
+  praise and blame need the same capacities "has also been questioned
+  (Nelkin 2008, 2011; Wolf 1980, 1990)". The entry does not state Wolf's
+  asymmetry further.
+
+## Standing in the record
+
+Filed on 2026-10-03 at the owner's request for Fischer and Ravizza's
+reasons-responsiveness, as the best lawful report of it and of Wolf's
+Reason View alongside McKenna and Coates's *Compatibilism* ([LIT-291](LIT-291.md)). It is
+moral philosophy with no instruction for machine-learning practice, so no
+anthology topic holds it.
+
+`Active`: worth reading as the record's survey of responsibility as a
+question of its own, apart from free will. It quotes the Fischer and Ravizza
+book with page numbers, which [LIT-291](LIT-291.md) mostly does not, and it is the only
+source the record holds for the JoJo case and for Wolf's critique of Real
+Self views. It is a survey. It reports positions and the main objections,
+and takes no side.
+
+**How it sits beside the record's other surveys.** [LIT-291](LIT-291.md) organises the
+field by compatibilism and the manipulation problem. This entry organises
+it by what responsibility is and what conditions it has, and gives the
+manipulation problem one section (§3.9). Robb's PAP entry ([LIT-294](LIT-294.md)) is the
+detailed source for Frankfurt cases; this entry's §1 gives the Black and
+Jones case in a paragraph, with the dilemma objection and Frankfurt's
+later remark that "making an action unavoidable is not the same thing as
+bringing it about that the action is performed" (2006, 340, quoted).
+
+**Wolf and Fischer and Ravizza.** The entry treats them as members of one
+family. §2.3 lists Wolf (1990) among the reasons-responsiveness views, and
+§3.2 lists Fischer and Ravizza among those who join Wolf on moral
+competence. It does not compare them on alternatives. Only its preamble
+notes that Wolf's view treats praise and blame asymmetrically.
+
+**How it bears on [THEORY-040](../theory.d/THEORY-040.md).** §3.9 reports the Beth/Ann case, Pereboom's
+four-case argument and McKenna's hard line, and that Fischer and Ravizza's
+taking responsibility was developed to keep manipulated agents out. It
+names critics (Levy 2011, Pereboom 2001) without stating their arguments,
+so it adds nothing to [THEORY-040](../theory.d/THEORY-040.md)'s second half beyond what [LIT-291](LIT-291.md)
+reports.
