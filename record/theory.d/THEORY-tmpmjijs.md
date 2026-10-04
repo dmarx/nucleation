@@ -32,8 +32,11 @@ source:
 - LIT-291
 - LIT-tmppa1o1
 - LIT-294
+extends:
+- THEORY-tmpejn3z
 rivals:
 - THEORY-tmp6tk5g
+- THEORY-tmpev5mk
 summary: >-
   Fischer and Ravizza (1998), reported second-hand: the book is unread.
   Fischer's own lawful summary ("Stories and the Meaning of Life",
@@ -47,6 +50,8 @@ summary: >-
   reasons, including moral ones, and some reactivity; and it is the agent's
   own when she has taken responsibility for it.
 ---
+<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
+<!-- inactive-ok-file: THEORY-tmpejn3z — Proposed; the Frankfurt-case claim this account extends -->
 <!-- inactive-ok-file: LIT-tmp1m893 LIT-tmpavyub — Deferred, unread; Fischer and Ravizza's book and Fischer's 1987 chapter, named as sources or origin because the account is theirs, and nothing is quoted from them -->
 <!-- inactive-ok-file: LIT-tmpbc48b — Deferred, unread; Wolf's article, named as the source of the rival account -->
 <!-- inactive-ok-file: THEORY-tmp6tk5g THEORY-tmpp1sl4 — Proposed; Wolf's asymmetry (the rival) and her Reason View, filed in the same batch -->
@@ -204,3 +209,12 @@ the moderate version and the ownership condition.
   of an attitude, so the regress as stated does not reach it. Whether the
   self-conception that taking responsibility needs raises the same
   question is my question, not one the sources ask. No relation.
+
+- **Extends [THEORY-tmpejn3z](THEORY-tmpejn3z.md).** Guidance control drops regulative control
+  because of the Frankfurt-case argument that the PAP is false. That
+  argument is read first-hand in [LIT-tmpwts2i](../literature.d/LIT-tmpwts2i.md), pp. 835–837.
+- **Rivals [THEORY-tmpev5mk](THEORY-tmpev5mk.md)** on the designed addict. Frankfurt (1971, n. 10)
+  allows that an agent made an addict "by the deliberate and calculated
+  work of another" may be fully responsible. Fischer & Ravizza's history
+  condition, taking responsibility, denies it.
+

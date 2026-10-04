@@ -32,6 +32,7 @@ extends:
 - THEORY-tmpp1sl4
 rivals:
 - THEORY-tmpmjijs
+- THEORY-tmpejn3z
 summary: >-
   Susan Wolf's asymmetry thesis, reported second-hand: the primary texts are
   unread. McKenna and Coates ([LIT-291](../literature.d/LIT-291.md), §4.3), citing "Asymmetrical Freedom"
@@ -44,6 +45,7 @@ summary: >-
   holds that the ability needs only the falsity of psychological, not
   physical, determinism.
 ---
+<!-- inactive-ok-file: THEORY-tmpejn3z — Proposed; the PAP-is-false claim, declared this one's rival on blame -->
 <!-- inactive-ok-file: LIT-tmpbc48b LIT-tmp2u6df LIT-tmpooua4 — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
 <!-- inactive-ok-file: LIT-tmp1m893 — Deferred, unread; Fischer and Ravizza's book, named as the rival account's source -->
 <!-- inactive-ok-file: THEORY-tmpp1sl4 THEORY-tmpmjijs — Proposed; the Reason View this extends and Fischer and Ravizza's rival account, filed in the same batch -->
@@ -152,3 +154,9 @@ is not listed as a source.
   record's sources, so the relation is `rivals`. If a reading shows how
   Wolf handles the Frankfurt-style wrongdoer, it should become `corrects`
   on whichever side that settles.
+
+- **Rivals [THEORY-tmpejn3z](THEORY-tmpejn3z.md)**, the claim that the PAP is false. Frankfurt's
+  1969 case ([LIT-tmpwts2i](../literature.d/LIT-tmpwts2i.md), pp. 835–837) is stated for blame as well as for
+  praise: the agent who could not have done otherwise is blameworthy. The
+  asymmetry denies exactly that.
+

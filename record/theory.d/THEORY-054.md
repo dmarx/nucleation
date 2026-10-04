@@ -21,7 +21,7 @@ promote_when: >-
   between "autonomous motivation" composites and well-being cannot settle
   it.
 title: "A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-03'
@@ -29,6 +29,12 @@ history:
     Title and heading say "one's other values and needs", SDT's own phrase,
     in place of "the person's": SDT locates integration in the self, and the
     record now keeps self and person apart (ADR-024). The claim is unchanged.
+- version: 3
+  date: '2026-10-04'
+  note: >-
+    Frankfurt's hierarchical account is filed as THEORY-tmpev5mk, from the 1971
+    paper read first-hand, and declared this account's rival. Connections say
+    where they part. The claim is unchanged.
 tags:
 - agency
 - motivation
@@ -53,7 +59,10 @@ summary: >-
   from endorsement, and it does not escape Velleman's dilemma.
 extended_by:
 - THEORY-047
+rivals:
+- THEORY-tmpev5mk
 ---
+<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 
@@ -143,3 +152,11 @@ states it against hierarchical accounts in this form.
   to be "not integrateable" ([LIT-558](../literature.d/LIT-558.md), p. 246).
 - **[THEORY-047](THEORY-047.md)** extends this account to the conditions that produce
   integration.
+
+**[THEORY-tmpev5mk](THEORY-tmpev5mk.md)**, Frankfurt's hierarchical account, read first-hand
+from 1971 ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md)), is this account's rival. On Frankfurt's account,
+a desire is the agent's own once a second-order volition endorses it. On
+this one, autonomy is graded integration, and an endorsement that is not
+integrated is introjection. The two give opposite verdicts on resigned
+identification.
+

@@ -43,7 +43,10 @@ summary: >-
   [THEORY-tmp6tk5g](THEORY-tmp6tk5g.md).
 extended_by:
 - THEORY-tmp6tk5g
+rivals:
+- THEORY-tmpev5mk
 ---
+<!-- inactive-ok-file: THEORY-tmpev5mk — Proposed; the hierarchical account, declared this one's rival on JoJo -->
 <!-- inactive-ok-file: LIT-tmpooua4 LIT-tmp2u6df LIT-tmpbc48b — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
 <!-- inactive-ok-file: LIT-tmp1m893 LIT-tmpavyub — Deferred, unread; Fischer and Ravizza's book and Fischer's 1987 chapter, named in the account of the relation to THEORY-tmpmjijs -->
 <!-- inactive-ok-file: THEORY-tmp6tk5g THEORY-tmpmjijs — Proposed; the asymmetry and Fischer and Ravizza's account, filed in the same batch -->
@@ -175,3 +178,9 @@ An account could answer the regress and still fail JoJo.
 [THEORY-040](THEORY-040.md)'s forced choice covers, as noted above. This claim makes no
 assertion about manipulation, so it neither instances nor contradicts
 [THEORY-040](THEORY-040.md).
+
+- **Rivals [THEORY-tmpev5mk](THEORY-tmpev5mk.md)**, Frankfurt's hierarchical account, read
+  first-hand from 1971 ([LIT-tmpuutyy](../literature.d/LIT-tmpuutyy.md)). On it, JoJo identifies wholeheartedly
+  with his desires and so is free. On the Reason View he is not
+  responsible, because he lacks normative competence.
+

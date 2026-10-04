@@ -1,0 +1,113 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-04 from Crossref, the record''s second-hand readings and Frankfurt''s own preface to the 1988 collection, not read. No lawful full text was found. The article is paywalled at Springer, whose page answered a plain request with a script challenge, so I stopped there; Unpaywall and OpenAlex list no open copy (oa_status closed), and the one repository location OpenAlex gives (a Georgetown handle, 10822/792792) does not resolve. The chapter in the 1988 collection is at Cambridge Core, which sells this collection''s chapters (as found for [LIT-575](LIT-575.md)), and Cambridge''s publisher preview of the collection stops in chapter 1. The copies a web search turns up are Scribd uploads and an academia.edu discussion, not the essay on a course page, an author''s page or a repository, so none was opened. A person with library access to Synthese 53(2), pp. 257–272 (DOI 10.1007/BF00484902), or to The Importance of What We Care About, pp. 80–94, can supply the 16 pages; a reading would move this to Active.'
+title: 'The Importance of What We Care About'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Registered at the owner's request, unread, with Frankfurt's 1969 and
+    1971 papers (LIT-tmpwts2i, LIT-tmpuutyy, both read). Crossref confirms
+    title, author, Synthese 53(2), pp. 257–272, November 1982, and the
+    DOI; `published:` is the first of November 1982, since no source gives
+    a day. Not held in the Anthology of the SOTA: a grep of its record for
+    "Frankfurt" found nothing.
+tags:
+- self-governance
+- ethics
+- agency
+- free-will
+date: '2026-10-04'
+published: '1982-11-01'
+doi: '10.1007/BF00484902'
+first_author: 'Frankfurt'
+keywords:
+- 'caring'
+- 'importance'
+- 'volitional necessity'
+- 'personal ideals'
+- 'love'
+implementations: []
+summary: >-
+  Frankfurt (1982), Synthese 53(2):257–272; reprinted as the title essay of
+  The Importance of What We Care About (CUP 1988), pp. 80–94. Unread. By
+  the record's second-hand reports it is the source of two of Frankfurt's
+  later themes: caring as a category of the will (Buss and Westlund, SEP
+  Personal Autonomy §2) and volitional necessity, the inability to will
+  otherwise that Luther's "I can do no other" illustrates (Robb, SEP PAP
+  §3.3). Frankfurt's own preface calls it his first "stab" at "a theory of
+  ideals".
+---
+
+<!-- inactive-ok-file: LIT-tmpwnjgf LIT-575 — Deferred; the 1988 collection this essay names, and the essay whose access search is cited -->
+<!-- inactive-ok-file: THEORY-tmpev5mk THEORY-tmpejn3z — Proposed; the accounts this essay bears on -->
+
+# LIT-tmp3tj26: The Importance of What We Care About
+
+Harry G. Frankfurt, "The Importance of What We Care About", *Synthese*
+53(2), November 1982, pp. 257–272 — DOI-10.1007/BF00484902. Reprinted as
+chapter 7 of *The Importance of What We Care About: Philosophical Essays*
+(Cambridge University Press, 1988), pp. 80–94 ([LIT-tmpwnjgf](LIT-tmpwnjgf.md)), whose
+"Sources" page gives the Synthese details.
+
+## Key takeaways
+
+*Registered from second-hand sources and from Frankfurt's preface, not a
+reading of the essay. Each point says who reports it.*
+
+- **Caring.** Buss and Westlund's SEP *Personal Autonomy* ([LIT-296](LIT-296.md), §2,
+  read in [NOTE-267](../notes.d/NOTE-267.md)) cite this essay, with "On Caring" (1999), for the
+  coherentist accounts on which the agent's point of view is constituted
+  by what she cares about. They give no page and no quotation.
+- **Volitional necessity.** Robb's SEP entry ([LIT-294](LIT-294.md), §3.3, read in
+  [NOTE-269](../notes.d/NOTE-269.md)) cites it for volitional necessity, being unable to will
+  otherwise because of one's own values, with Luther's "I can do no other"
+  as a prima facie counterexample to the principle of alternate
+  possibilities, answered by tracing.
+- **Ideals.** Frankfurt's preface to the 1988 collection (read in
+  Cambridge's publisher preview) says that "the ideals to which a person
+  freely devotes his life are not exclusively or even primarily moral
+  ideals", and that "I have made a few stabs, in the title essay of the
+  collection and in some of those that were written subsequent to it,
+  toward the development of a theory of ideals" (pp. vii–viii).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, to file Harry Frankfurt "to the
+best of your ability". It is philosophy of the will and of value, with no
+instruction for machine-learning practice, so no anthology topic holds it.
+
+`Deferred` because no lawful copy could be read (see the status note). The
+takeaways are what read sources say the essay does; they quote nothing
+from it.
+
+**Its place in the record's Frankfurt.** It sits between the 1971 account
+of identification ([LIT-tmpuutyy](LIT-tmpuutyy.md)) and the Tanner Lectures ([LIT-293](LIT-293.md)), which
+are the record's first-hand statement of caring as "wanting to go on
+wanting" (p. 180) and of volitional necessity as irresistible but "not
+coercive" (p. 197). The record therefore has the later form of both themes
+first-hand and this, their first statement, only by report. No relation is
+declared: the essay is unread, and the lectures do not cite it.
+
+**How it bears on the theories.** Robb's use of it bears on [THEORY-tmpejn3z](../theory.d/THEORY-tmpejn3z.md),
+the account that PAP is false: a volitional necessity is an inability to do
+otherwise that comes from the agent's own will, and Robb reports the
+standard reply that tracing restores PAP for such cases. It bears on
+[THEORY-tmpev5mk](../theory.d/THEORY-tmpev5mk.md) as the point where Frankfurt's account begins to place the
+agent's standpoint in what he cares about rather than in a single
+second-order volition.
+
+**Priority for a reading: medium.** The lectures already give the record the
+mature view. This essay would show when caring and volitional necessity
+entered it and whether Luther is Frankfurt's own example.
+
+Access when seeded:
+
+- Crossref record (Synthese 53(2), pp. 257–272, November 1982).
+- Springer's article page: a script challenge, not followed.
+- Unpaywall and OpenAlex: closed, no repository copy; the Georgetown
+  handle OpenAlex lists returns "not found".
+- Cambridge's publisher preview of the 1988 collection (contents, sources,
+  preface and most of chapter 1): read for the preface; it does not reach
+  chapter 7.
