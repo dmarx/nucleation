@@ -1,0 +1,133 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-04, not read: no lawful full text was reachable. Springer and the OUP reprint are paywalled, Unpaywall finds no open copy, and the PhilArchive record (GILCGA) and SSRN abstract 1071254 both answered automated requests with a bot challenge or a block, which I did not try to get past. What the record says of it comes from Huebner''s read paper, which quotes it with page references, and is labelled second-hand. A person with PhilArchive or library access could supply the text; a reading would move this to Active and should test Huebner''s charge that a plural subject''s emotion reduces to individual commitments.'
+title: 'Collective Guilt and Collective Guilt Feelings'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Filed Deferred from Crossref (The Journal of Ethics 6(2):115–143,
+    issue of June 2002, DOI 10.1023/A:1015819615983; no day given, so
+    `published:` is the first of June at month precision) and from
+    Huebner's read paper (LIT-tmpdb036). Crossref also lists the reprint as
+    chapter 11 of Gilbert's Joint Commitment: How We Make the Social World
+    (OUP, 2013), pp. 229–256, DOI 10.1093/acprof:oso/9780199970148.003.0011.
+    Tried: Springer's article and PDF pages (bot challenge), Unpaywall
+    (closed), PhilArchive (Cloudflare challenge, HTTP 403), SSRN (HTTP 403
+    "Content Blocked"), Semantic Scholar (abstract elided by the publisher,
+    no open PDF). Copies on academia.edu and ResearchGate were not opened.
+    Not held in the Anthology of the SOTA: a grep of its literature.d and
+    notes.d for "Gilbert", the title and the DOI found nothing.
+tags:
+- social-ontology
+- emotion-and-affect
+- ethics
+- moral-psychology
+date: '2026-10-04'
+published: '2002-06-01'
+doi: '10.1023/A:1015819615983'
+first_author: 'Gilbert'
+keywords:
+- 'collective guilt'
+- 'collective guilt feelings'
+- 'plural subject'
+- 'joint commitment'
+- 'membership guilt'
+implementations: []
+rivals:
+- LIT-tmpdb036
+summary: >-
+  Gilbert (2002), The Journal of Ethics 6(2):115–143. Unread. As read
+  sources report it: it distinguishes personal, membership and collective
+  guilt feelings, and defines collective guilt feelings by joint
+  commitment, so that for us collectively to feel guilt over our action is
+  for us to be jointly committed to feel guilt as a body. A plural subject
+  can thus be in a collective emotion, and since emotions are separable from
+  feelings, such emotions need no phenomenology of their own. Reprinted in
+  Gilbert's Joint Commitment (2013), ch. 11.
+---
+
+<!-- inactive-ok-file: LIT-tmp4po64 — Deferred, no lawful full text; Isaacs on collective guilt, named as the other side of the debate, not leaned on -->
+<!-- inactive-ok-file: LIT-tmp1efif — Deferred, no lawful full text; Schmid's account, named as the third position, not leaned on -->
+<!-- inactive-ok-file: LIT-492 LIT-477 — Deferred, unread; Gilbert's plural-subject theory, named as held -->
+
+# LIT-tmpbdcqn: Collective Guilt and Collective Guilt Feelings
+
+Margaret Gilbert (2002), *The Journal of Ethics* 6(2):115–143 (June 2002; reprinted in *Joint Commitment*, OUP 2013, ch. 11, pp. 229–256) — DOI-10.1023/A:1015819615983
+
+## Key takeaways
+
+*Not read. Everything below is second-hand, from Huebner's paper
+([LIT-tmpdb036](LIT-tmpdb036.md), read in full), which quotes and paraphrases this one with
+page references, unless marked otherwise.*
+
+- **Three kinds of guilt feeling.** Gilbert distinguishes *personal* guilt
+  feelings, over one's own contribution; *membership* guilt feelings, felt
+  by a member over what her group did even if she did not contribute; and
+  *collective* guilt feelings (Huebner, pp. 3–4, citing Gilbert 2001 and
+  2002).
+- **Collective guilt feelings are a plural subject's.** "For us
+  collectively to feel guilt over our action A is for us to be jointly
+  committed to feeling guilt as a body over our action A" (Gilbert 2001,
+  139, as quoted by Huebner, p. 4). The 2001 source is her "Collective
+  remorse"; Huebner treats the 2002 paper as stating the same account.
+- **Emotion without feeling.** Gilbert "argues that we must distinguish
+  emotions from feelings, that feelings are inessential, though common
+  concomitants of emotional states", so collective emotions "require no
+  specific phenomenology" (Huebner, p. 2, citing Gilbert 2002, 119). Huebner
+  also says Gilbert uses psychoanalytic cases of unconscious emotion to
+  support this (p. 15).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, Deferred because it could not be
+read lawfully. It is the plural-subject pole of the three-way debate the
+owner named, with Huebner's distributed account ([LIT-tmpdb036](LIT-tmpdb036.md)) and Schmid's
+phenomenological account ([LIT-tmp1efif](LIT-tmp1efif.md)), and Gilbert's side of the debate on
+collective guilt with Isaacs ([LIT-tmp4po64](LIT-tmp4po64.md)). No anthology topic holds it.
+
+**Rival to Huebner ([LIT-tmpdb036](LIT-tmpdb036.md)), declared `rivals`.** Huebner argues
+against this paper by name. His charge is that a plural subject's emotion is
+"a distribution of individual states" sustained by members' connections, and
+reduces to individual commitments plus aggregation rules, which an
+individual's emotion does not (his p. 4). He also rejects, "pace Gilbert
+(2002)", the use of psychoanalytic cases: they show emotions inaccessible to
+awareness, not emotions with nothing felt (his p. 15). Both hold that a
+collective emotion need not be felt. They disagree about what has it: a
+plural subject made by joint commitment, or an integrated computational
+system. Each excludes the other's bearer, and neither has settled the
+question, so the relation is `rivals`.
+
+**Against Isaacs ([LIT-tmp4po64](LIT-tmp4po64.md)), no relation declared.** Both works are
+unread. By the abstract of Isaacs's chapter, as a search service returned
+it, Isaacs engages Gilbert's account of collective guilt feelings and
+concludes that collectives may be guilty without having guilt feelings. If
+so, Isaacs accepts collective guilt as a moral status and denies the
+collective feeling that this paper defends. That is a disagreement about
+whether collective guilt needs collective feeling, but it should be
+checked against both texts before a relation is declared.
+
+**Against Schmid ([LIT-tmp1efif](LIT-tmp1efif.md)), no relation declared.** Gilbert's
+collective emotions need no phenomenology; Schmid's, by his abstract, rest
+on a group's consciousness. On whether a group feels, the two disagree.
+
+**Where it would bear.** Gilbert's plural-subject theory is held unread as
+*On Social Facts* ([LIT-492](LIT-492.md)) and "Walking Together" ([LIT-477](LIT-477.md)). This paper is
+where that theory reaches emotion. List ([LIT-tmpaxx6q](LIT-tmpaxx6q.md), §3.4) judges
+plural-subject attitudes "more akin" to his corporate attitudes. A reading
+should check:
+
+- what Gilbert says a joint commitment to "feel guilt as a body" requires
+  of each member, and whether any member must feel guilt;
+- whether the paper answers the charge, made later by Huebner, that the account reduces to individual commitments;
+- what argument links appropriate collective guilt feelings to collective
+  guilt, which the search-engine summary of the paper describes but which
+  no read source states.
+
+Access when seeded: Crossref records for the article and the 2013 reprint;
+Unpaywall (closed); Semantic Scholar (abstract elided). A summary returned
+by a web search service, not the abstract itself, says the paper "considers
+what collective guilt feelings amount to", argues that if collective guilt
+feelings are sometimes appropriate then collectives can be guilty, and gives
+a plural-subject account. That summary is recorded here as unverified.

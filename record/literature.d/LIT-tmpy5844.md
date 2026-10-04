@@ -1,0 +1,124 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-04, not read: no lawful full text was reachable. Philosophy of Science''s PSA supplement is paywalled at Cambridge Core and JSTOR, Unpaywall finds no open copy, and neither the 1997 paper nor its 2000 expansion is posted on Wimsatt''s department pages. Content here is the publisher''s abstract and Wimsatt''s own summary in "Reductionism and its heuristics" (Synthese 2006), which his department posts and which was read in part. A person with library access could supply it; a reading would move this to Active and should state the four conditions exactly.'
+title: 'Aggregativity: Reductive Heuristics for Finding Emergence'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Filed Deferred from Crossref (Philosophy of Science 64(S4):S372–S384,
+    1997, the PSA 1996 proceedings, DOI 10.1086/392615; Crossref gives only
+    the year, so `published:` is the first of January at year precision,
+    and its 2022 online date is Cambridge's re-hosting), the abstract on
+    the Cambridge Core page, and Wimsatt's "Reductionism and its
+    heuristics: Making methodological reductionism honest", Synthese
+    (2006), DOI 10.1007/s11229-006-9017-0, §§1–4 and §8 read from the copy
+    the University of Chicago philosophy department posts. Tried: Cambridge
+    Core (abstract only, "Get access"), Unpaywall for the 1997 paper and for
+    "Emergence as non-aggregativity and the biases of reductionisms"
+    (Foundations of Science, 2000; both closed), Wimsatt's faculty page (no
+    copy), PhilSci-Archive (no deposit), the Internet Archive (no copy of
+    his 2007 book). A full copy at an ELTE course address is a re-post
+    labelled as from a shadow library and was not opened. Copies on
+    ResearchGate were not opened. Not held in the Anthology of the SOTA: a
+    grep of its literature.d and notes.d for "Wimsatt" and the DOI found
+    nothing.
+tags:
+- complex-systems
+- philosophy-of-science
+- mereology
+- metaphysics
+date: '2026-10-04'
+published: '1997-01-01'
+doi: '10.1086/392615'
+first_author: 'Wimsatt'
+keywords:
+- 'aggregativity'
+- 'emergence'
+- 'reduction'
+- 'reductionistic heuristics'
+- 'decomposition'
+- 'mode of organization'
+implementations: []
+summary: >-
+  Wimsatt (1997), Philosophy of Science 64(S4):S372–S384. Unread. Per its
+  abstract: most scientists call a system property emergent if it depends
+  on the parts' mode of organisation, a view consistent with reduction.
+  Emergence is the failure of aggregativity, the state in which "the whole
+  is nothing more than the sum of its parts". Aggregativity needs four
+  conditions; met differently for different decompositions and in degrees,
+  they give criteria for choosing decompositions and heuristics for
+  detecting the biases of "vulgar reductionisms".
+---
+
+<!-- inactive-ok-file: LIT-188 — Proposed; Griesemer's scaffolding paper, named for its use of Wimsatt, not leaned on -->
+
+# LIT-tmpy5844: Aggregativity: Reductive Heuristics for Finding Emergence
+
+William C. Wimsatt (1997), *Philosophy of Science* 64(S4):S372–S384 (Proceedings of the 1996 Biennial Meeting of the Philosophy of Science Association, Part II; Symposium "Emergence and Supervenience: Alternatives to Unity by Reduction") — DOI-10.1086/392615
+
+## Key takeaways
+
+*Not read. The first item is the publisher's abstract. The others are
+Wimsatt's own later summary in "Reductionism and its heuristics" (Synthese,
+2006, §2 and §8), which was read in those sections and is not filed.*
+
+- **Emergence is the failure of aggregativity, and is compatible with
+  reduction.** The abstract: "Most philosophical accounts of emergence are
+  incompatible with reduction. Most scientists regard a system property as
+  emergent relative to properties of the system's parts if it depends upon
+  their mode of organization—a view consistent with reduction. Emergence can
+  be analyzed as a failure of aggregativity—a state in which 'the whole is
+  nothing more than the sum of its parts.' Aggregativity requires four
+  conditions, giving tools for analyzing modes of organization."
+- **The four conditions, as Wimsatt later summarises them.** For any
+  decomposition of the system into parts, an aggregative property is
+  "invariant over appropriate rearrangements, substitutions, and
+  reaggregations", and its value "scale[s] appropriately under additions or
+  subtractions" of parts (Synthese 2006, §8). Mass, energy, momentum and
+  charge qualify; "even the shape … of a pile of rocks is not aggregative".
+- **Aggregativity comes in degrees.** Invariance under some operations, under
+  some conditions or within tolerances "makes partial aggregativity a
+  multi-dimensional degree property", "a partial ordering scheme of great
+  richness for classifying kinds of emergence" (§8). Simple models start
+  aggregative and lose it as organisation is added (§2).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, Deferred because it could not be
+read lawfully. It is the record's statement of emergence as
+non-aggregativity, and Wimsatt has so far been held only at second hand:
+Kendler ([LIT-539](LIT-539.md), read in [NOTE-432](../notes.d/NOTE-432.md)) uses his aggregativity criteria for
+psychiatric explanation, and Griesemer ([LIT-188](LIT-188.md), [NOTE-173](../notes.d/NOTE-173.md)) uses
+"aggregative" and Wimsatt's generative entrenchment. No anthology topic holds
+it.
+
+**On emergence, with List and Pettit ([LIT-tmphq2d4](LIT-tmphq2d4.md)).** The owner asked
+whether group agents and aggregativity disagree about emergence. On what has
+been read, they do not, because they mean different things by the word. List
+and Pettit reject emergence as agency arising "mysteriously, without a clear
+basis at the level of individuals", and keep individualism. Wimsatt's
+emergence is dependence on the organisation of parts, which he holds
+compatible with reduction. List and Pettit's theorems show that a rational
+group's judgments cannot depend on members' judgments proposition by
+proposition, and that set-wise dependence can be invariant under permuting
+the members or not. In Wimsatt's terms that is a proof that group judgment is
+non-aggregative, hence emergent and reductively explicable. The comparison
+is the record's, not the authors': neither cites the other. No relation is
+declared until this paper is read.
+
+The same point bears on Huebner ([LIT-tmpdb036](LIT-tmpdb036.md)). His "genuinely collective"
+emotion is one that is not members' states "in aggregation". Wimsatt's
+conditions would make "aggregation" exact.
+
+**What a reading should check.**
+
+- The exact statement of the four conditions, and whether "substitution" is
+  intersubstitution of parts within an equivalence class.
+- Whether the conditions apply to a function from members' attitudes to a
+  group's, where the "parts" are people and the "property" is an attitude,
+  or only to physical systems.
+- How the paper treats a system aggregative under one decomposition and not
+  another, which is the case of the premise-based procedure (aggregative
+  premise by premise, not over the whole agenda).

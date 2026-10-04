@@ -1,0 +1,140 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmpvl003](../notes.d/NOTE-tmpvl003.md)); worth reading as the disambiguation the collective-attitudes literature needs: aggregate attitudes (summaries, supervening proposition by proposition), common attitudes (unanimous and commonly known, supervening on a slightly enriched base) and corporate attitudes (a group agent''s, supervening holistically and not straightforwardly reducible). The three are almost logically independent. A review by its own description, with no new theorem; its value for this record is that it names fears and hopes among the attitudes the split applies to, which gives the collective-emotion debate a vocabulary.'
+title: 'Three kinds of collective attitudes'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full from the author's final accepted version in LSE Research
+    Online (eprint 57124,
+    https://researchonline.lse.ac.uk/id/eprint/57124/1/List_Three-kinds-of-collective-attitudes_2014.pdf,
+    a cover sheet and 20 manuscript pages: abstract, §§1–5, Tables 1–2,
+    acknowledgements; the reference list skimmed). An institutional
+    repository deposit, found through Unpaywall, and so lawful. Crossref
+    gives Erkenntnis 79(S9):1601–1622, online 6 May 2014, issue of October
+    2014; an SSRN posting (10.2139/ssrn.2420977) carries only the year, so
+    `published:` is the online date (ADR-002). Filed with LIT-tmphq2d4 as
+    the lawful List–Pettit material the brief allowed in place of the
+    unread book LIT-391. Not held in the Anthology of the SOTA: a grep of
+    its literature.d and notes.d for the title, "List" with "collective
+    attitudes" and the DOI found nothing.
+tags:
+- social-ontology
+- agency
+- social-science
+- game-theory
+- metaphysics
+date: '2026-10-04'
+published: '2014-05-06'
+doi: '10.1007/s10670-014-9631-z'
+url: 'https://researchonline.lse.ac.uk/id/eprint/57124/1/List_Three-kinds-of-collective-attitudes_2014.pdf'
+first_author: 'List'
+keywords:
+- 'collective attitudes'
+- 'aggregate attitudes'
+- 'common attitudes'
+- 'corporate attitudes'
+- 'group agency'
+- 'supervenience'
+- 'common knowledge'
+- 'prediction markets'
+- 'pluralistic ignorance'
+implementations: []
+extends:
+- LIT-tmphq2d4
+summary: >-
+  List (2014), Erkenntnis 79(S9):1601–1622. Collective attitudes come in
+  three kinds. Aggregate attitudes summarise members' attitudes by a rule
+  or a market, supervene proposition-wise and need not be rational. Common
+  attitudes are held by all members with common awareness, matter for
+  coordination, and inherit consistency from their unanimity. Corporate
+  attitudes belong to a group agent, guide its action, supervene
+  holistically on members' contributions and must be rational. The kinds
+  are almost logically independent, and fears and hopes divide the same
+  way as beliefs and desires.
+---
+
+<!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit's Group Agency, which this paper cites throughout, named as held -->
+<!-- inactive-ok-file: LIT-tmpbdcqn — Deferred, no lawful full text; Gilbert on collective guilt feelings, named for where the taxonomy would place it -->
+<!-- inactive-ok-file: LIT-tmp1efif — Deferred, no lawful full text; Schmid's corporate emotions, named for where the taxonomy would place them -->
+<!-- inactive-ok-file: LIT-492 LIT-490 — Deferred, unread; Gilbert's and Searle's accounts this paper discusses, named as held -->
+
+# LIT-tmpaxx6q: Three kinds of collective attitudes
+
+Christian List (2014), *Erkenntnis* 79(S9):1601–1622 (online 6 May 2014) — DOI-10.1007/s10670-014-9631-z
+
+## Key takeaways
+
+- **Three kinds, not one.** "The electorate prefers", "the scientists
+  think" and "the Court holds" ascribe different things. An aggregate
+  attitude is a summary of members' attitudes by some rule or market. A
+  common attitude is one every member holds, with common awareness of that.
+  A corporate attitude is held by the collective as an intentional agent.
+- **They differ in reducibility, role and rationality** (Table 2).
+  Aggregate and common attitudes are "straightforwardly reducible" and need
+  no group agent. Aggregate ones play at most an indirect role and need not
+  be consistent. Common ones glue coordination and are consistent if members
+  are. Corporate ones guide a group agent's action, presuppose rationality,
+  and supervene "holistically", not proposition by proposition.
+- **They are almost independent.** A corporate attitude need not be any
+  member's or be commonly known: a state's intelligence services can give
+  it attitudes "that have never crossed the minds of most citizens"
+  (§5). A falsely attributed common attitude need not match the aggregate
+  one, which is how pluralistic ignorance keeps a hated regime or a
+  harmful norm in place (§3.6).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, with List and Pettit's "Group
+Agency and Supervenience" ([LIT-tmphq2d4](LIT-tmphq2d4.md)), as the lawful List–Pettit material
+standing in for the unread book *Group Agency* ([LIT-391](LIT-391.md)). The book is cited
+throughout for the definition of a group agent and for the supervenience
+results. No anthology topic holds it, and it carries no instruction for
+machine-learning practice.
+
+**Carries further [LIT-tmphq2d4](LIT-tmphq2d4.md), declared `extends`.** The paper's split
+between aggregate and corporate attitudes is the 2006 paper's split between
+proposition-wise and set-wise supervenience, given a name and a role. List
+cites the 2006 paper and the book for proposition-wise supervenience (§2.5)
+and for the impossibility result that rules it out for group agents (§4.4).
+The "holistic supervenience" of §4.4 is the 2006 paper's set-wise
+supervenience, widened to include members' non-attitudinal contributions.
+The paper could not stand without that result: it is what makes corporate
+attitudes a third kind rather than a well-behaved aggregate.
+
+**What it gives the collective-emotion debate.** List says the split applies
+to "aggregate fears and hopes, common fears and hopes, and corporate fears
+and hopes" (§1) and goes no further. The three accounts the owner asked about
+fall into its kinds differently.
+
+- Gilbert's plural subjects ([LIT-tmpbdcqn](LIT-tmpbdcqn.md), unread; her 1989 book [LIT-492](LIT-492.md))
+  are, List says, "more akin" to corporate attitudes, though he doubts plural
+  subjects are needed to explain coordination (§3.4). On that reading
+  Gilbert's collective guilt feelings would be corporate emotions without a
+  group agent's full rational structure.
+- Huebner's "genuinely collective" emotions ([LIT-tmpdb036](LIT-tmpdb036.md)) are by definition
+  not aggregate, and his integration criterion is a functionalist one like
+  List's definition of a group agent (§4.2). They are corporate emotions.
+  Huebner's "holistic" emotions, members' emotions shaped by their group, are
+  aggregate or common ones.
+- Schmid's chapter ([LIT-tmp1efif](LIT-tmp1efif.md), unread) is titled for "corporate emotions",
+  but by its abstract it grounds them in plural pre-reflective
+  self-awareness, a "we-mode" account. List sets we-mode attitudes aside as
+  not yet needed in the social sciences (§3.4).
+- The psychology filed alongside this batch, von Scheve and Ismer
+  ([LIT-tmp0fwb0](LIT-tmp0fwb0.md)) and Barsade ([LIT-tmpojrfm](LIT-tmpojrfm.md)), defines collective emotion as
+  convergence of members' affect. In this taxonomy that is an aggregate
+  attitude, or a common one when members are mutually aware. It is not a
+  corporate attitude.
+
+No relation to these is declared: List does not discuss emotion beyond the
+one sentence, and the placements are the record's.
+
+**Other neighbours.** Searle's we-intentions ([LIT-490](LIT-490.md), unread; [LIT-482](LIT-482.md) read)
+and Gilbert's plural subjects are the two "non-reductionistic" accounts of
+common attitudes that §3.4 contrasts with its own. List's common attitudes,
+Lewis-style common knowledge, are what the game-theory holdings call the
+basis of convention. List's 2016 paper ([LIT-401](LIT-401.md)) uses the corporate-attitude
+notion to ask whether group agents are conscious.
