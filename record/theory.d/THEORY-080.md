@@ -19,7 +19,14 @@ promote_when: >-
   rate. Evidence computed for networks outside the kernel regime cannot
   settle it, since the account is about the linearised model.
 title: "In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-087` declared. Connections already said this account
+    extends it in its regular half, and that account names this one among
+    those that extend it; the frontmatter never carried the relation.
 tags:
 - model-comparison
 - information-geometry
@@ -43,6 +50,8 @@ summary: >-
   count. Basri et al.'s bound ([LIT-612](../literature.d/LIT-612.md), Eq. 14) is the matching
   data-fit term. The kernel's decay exponent is the schedule of the
   penalty.
+extends:
+- THEORY-087
 ---
 <!-- inactive-ok-file: THEORY-087 THEORY-084 — Proposed; THEORY-087 is extended in its regular half, which is derived, and THEORY-084 is named in Connections -->
 

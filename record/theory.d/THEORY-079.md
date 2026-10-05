@@ -22,7 +22,14 @@ promote_when: >-
   share the approximation; and the Dirichlet reductions of LIT-615,
   which rest on a mean-field approximation, not on Laplace.
 title: 'Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-087` re-filed as `presupposes: THEORY-087` (ADR-029).
+    This account takes the singular penalty as a premise for a claim about
+    Bayesian model reduction; it does not refine the penalty.
 tags:
 - model-comparison
 - probabilistic-modeling
@@ -32,8 +39,6 @@ source:
 - LIT-616
 - LIT-620
 - LIT-614
-extends:
-- THEORY-087
 summary: >-
   The filer's synthesis, stated by no source. BMR's closed form (Friston &
   Penny, [LIT-620](../literature.d/LIT-620.md), Eq. 9; Friston, Parr & Zeidman, [LIT-614](../literature.d/LIT-614.md),
@@ -46,8 +51,10 @@ summary: >-
   states. Neither literature cites the other. The exact identity is
   untouched ([THEORY-081](THEORY-081.md)). The claim is about its Laplace form, and a
   test on reduced-rank regression would settle it.
+presupposes:
+- THEORY-087
 ---
-<!-- inactive-ok-file: THEORY-087 — Proposed; this account extends its singular half and is no firmer than it -->
+<!-- inactive-ok-file: THEORY-087 — Proposed; this account presupposes its singular half and is no firmer than it -->
 
 # THEORY-079: Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n
 
@@ -135,7 +142,7 @@ grows.
 
 ## Connections
 
-- **Extends [THEORY-087](THEORY-087.md).** That account says the penalty is set by
+- **Presupposes [THEORY-087](THEORY-087.md).** That account says the penalty is set by
   curvature in regular models and by λ in singular ones. This one carries
   it into Bayesian model reduction. Laplace BMR uses the regular penalty,
   and its parents are often singular.

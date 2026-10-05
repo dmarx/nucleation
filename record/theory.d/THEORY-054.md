@@ -61,6 +61,8 @@ extended_by:
 - THEORY-047
 rivals:
 - THEORY-120
+presupposed_by:
+- THEORY-077
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival -->
 <!-- inactive-ok-file: THEORY-047 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->

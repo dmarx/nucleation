@@ -22,7 +22,15 @@ promote_when: >-
   alone cannot settle it, since they test one route, and further
   conceptual synthesis cannot either.
 title: "A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-055` re-filed as `presupposes: THEORY-055` (ADR-029).
+    The baseline clause takes the appraisal account as a premise for a claim
+    about collective emotion, and only that clause would need restating if
+    it fell. `extends: THEORY-123` is unchanged.
 tags:
 - emotion-and-affect
 - social-science
@@ -33,7 +41,6 @@ source:
 - LIT-706
 extends:
 - THEORY-123
-- THEORY-055
 summary: >-
   von Scheve & Ismer (2013), [LIT-696](../literature.d/LIT-696.md), a conceptual synthesis with no
   data: collective emotion is "synchronous convergence in affective
@@ -48,8 +55,10 @@ summary: >-
   one. Proposed: the definition is stipulated, the routes beyond contagion
   are untested, and the We-mode clause is a hypothesis its authors say
   lacks evidence.
+presupposes:
+- THEORY-055
 ---
-<!-- inactive-ok-file: THEORY-055 THEORY-057 — Proposed; the appraisal account this one widens, and its constructionist rival, named for where convergence comes from -->
+<!-- inactive-ok-file: THEORY-055 THEORY-057 — Proposed; the appraisal account this one presupposes, and its constructionist rival, named for where convergence comes from -->
 <!-- inactive-ok-file: THEORY-123 THEORY-125 — Proposed; filed in the same batch, the contagion account this widens and the genuinely-collective account it is compatible with -->
 
 # THEORY-126: A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states
@@ -79,7 +88,7 @@ requires a minimum of shared appraisal structures or shared concerns"
 (p. 19). People stuck in one traffic jam, with the same goal, the same
 limited coping potential and the same belief that the jam will last, "might
 well simultaneously experience anger or frustration with only very limited
-mutual awareness". This is where the account extends [THEORY-055](THEORY-055.md), the
+mutual awareness". This is where the account presupposes [THEORY-055](THEORY-055.md), the
 record's appraisal account, on which an appraisal of an event's pertinence
 to one's concerns elicits the emotion: run that mechanism in many people
 whose concerns coincide and the same event elicits the same emotion in each.

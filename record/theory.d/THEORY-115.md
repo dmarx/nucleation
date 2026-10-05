@@ -21,7 +21,14 @@ promote_when: >-
   will not settle it, because the continual endpoint's own loss on the
   earlier task explains most of the rise.
 title: 'Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `presupposes: THEORY-114` declared (ADR-029). Connections already called
+    that account the stable start this one presupposes; the directive that
+    said nothing here rests on it is corrected.
 tags:
 - loss-landscapes
 - information-geometry
@@ -47,9 +54,11 @@ summary: >-
   objective are separated by a barrier that grows with heterogeneity.
 extended_by:
 - THEORY-105
+presupposes:
+- THEORY-114
 ---
 <!-- inactive-ok-file: LIT-676 — Proposed; Li et al. on GNNs, named as a limit on scope, not leaned on -->
-<!-- inactive-ok-file: THEORY-105 THEORY-114 — Proposed; an account that carries this one further and a sibling on the stable start, named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-105 THEORY-114 — Proposed; an account that carries this one further, and the account of the stable start this one presupposes and is no firmer than -->
 
 # THEORY-115: Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed
 
