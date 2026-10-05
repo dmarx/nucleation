@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'registered 2026-10-05 from its publisher record, not read: no lawful full text was found. The only open copies located were either restricted to students enrolled in a course or posted by a third party whose authority to post could not be confirmed, and neither was used. Filed because it is Argyris''s article-length statement of double-loop learning, which the owner''s essay (§8.3) describes without naming. It stays Deferred until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-05 from its publisher record, not read: no copy was used. The one open copy found is restricted to students enrolled in a course. Argyris''s 2002 statement of the same theory ([LIT-tmpufm8a](LIT-tmpufm8a.md)) was read instead, from a copy his co-authors'' practice posts, used on the owner''s instruction. Filed because it is the article usually cited for double-loop learning. It stays Deferred until a copy is supplied, not on merit.'
 title: 'Double Loop Learning in Organizations'
 version: 1
 history:
@@ -33,6 +33,7 @@ summary: >-
   characteristically avoid it. Unread: registered from its publisher
   record.
 ---
+<!-- inactive-ok-file: THEORY-tmpley53 — Proposed; the account read in the 2002 article -->
 
 # LIT-tmpnuvqj: Double Loop Learning in Organizations
 
@@ -53,5 +54,5 @@ Filed on 2026-10-05 at the owner's request. The owner's essay (§8.3)
 distinguishes procedures for changing ordinary policies from procedures for
 reconsidering "the standards through which policies acquire authority".
 That is the single-loop and double-loop distinction, and the essay should
-cite it or say how it differs. No theory is filed: the record has not read
-the work.
+cite it or say how it differs. The theory is read in Argyris's 2002 article
+([LIT-tmpufm8a](LIT-tmpufm8a.md)) and filed as [THEORY-tmpley53](../theory.d/THEORY-tmpley53.md).
