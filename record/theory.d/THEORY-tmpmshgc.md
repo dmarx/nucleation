@@ -34,6 +34,7 @@ summary: >-
   theory: rewards tied to success carry competence. Proposed: the paper
   measures no mediator and pools control groups that differ in feedback.
 ---
+<!-- inactive-ok-file: LIT-tmp73an2 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
 <!-- inactive-ok-file: THEORY-049 — Proposed; the rival account -->
 
 # THEORY-tmpmshgc: Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success
@@ -93,7 +94,8 @@ would have failed on the paper's own data.
   performance objective and given feedback were pooled with those that were
   not (p. 13). The comparison that separates this account from CET, a
   performance-tied reward against a control given the same feedback, is
-  reported only from a paper not in the record.
+  reported only from Eisenberger, Pierce and Cameron (1999, [LIT-tmp73an2](../literature.d/LIT-tmp73an2.md)),
+  which is filed but unread.
 - **It does not establish the size of the positive effects.** The
   per-contingency values after outliers are in figures with no text layer,
   and the authors call every effect small (p. 25).
