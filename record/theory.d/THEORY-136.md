@@ -4,11 +4,19 @@ status: Active
 formerly:
 - THEORY-tmp9v9w1
 title: 'A persistent or abrupt change is not evidence that a system has alternative stable states: field patterns such as jumps, multimodality and dual relationships also arise from a stepwise driver or a simple threshold, and only hysteresis, initial-state dependence or a lasting shift after a temporary disturbance, with slow return excluded, comes close to showing one'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    Declared `presupposes: THEORY-132` (ADR-029). The standard of evidence
+    is built on Holling's basins of attraction; it was held in prose only.
 tags:
 - ecology
 - complex-systems
 date: '2026-10-05'
+presupposes:
+- THEORY-132
 source:
 - LIT-726
 summary: >-
@@ -77,5 +85,8 @@ Scheffer & Carpenter ([LIT-726](../literature.d/LIT-726.md)) review the theory a
   triggers. Outlasting a trigger is one of the hints this account calls
   inconclusive. No relation is declared; the network account would need
   hysteresis or initial-state evidence to meet this standard.
-- **Resilience ([THEORY-132](THEORY-132.md))** supplies the basin-of-attraction picture
-  this test is built on.
+- **Presupposes resilience ([THEORY-132](THEORY-132.md)).** The test takes Holling's
+  picture as given: a system's states fall into basins of attraction, and
+  resilience is how large the basin is. Hysteresis and lasting shifts after
+  a temporary push are evidence of more than one basin. Without that
+  picture the test has nothing to detect ([ADR-029](../decisions.d/ADR-029.md)).

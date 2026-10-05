@@ -473,6 +473,22 @@ schemes:
         required: false
         many: true
         converse: corrects
+      presupposes:
+        label: Presupposes
+        blurb: this account takes the other's conclusion as a premise for a claim about something else.
+          If the other falls, this one loses a premise and needs another route; it is not a refinement
+          of the same mechanism, which is `extends` (ADR-029).
+        scheme: THEORY
+        required: false
+        many: true
+        converse: presupposed_by
+      presupposed_by:
+        label: Presupposed by
+        blurb: the converse of `presupposes`, written by `luria link --fix`.
+        scheme: THEORY
+        required: false
+        many: true
+        converse: presupposes
     fields:
       promote_when:
         required_when:
