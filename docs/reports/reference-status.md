@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 2710 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**136 documents cited without acknowledgement.** Not listed: 2726 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -117,7 +117,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-30 citations in 25 files await a look; 20 other citations of it are acknowledged.
+28 citations in 24 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -142,8 +142,6 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/notes.d/NOTE-307.md:116`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 - [`record/theory.d/THEORY-018.md:69`](../../record/theory.d/THEORY-018.md)
-- [`record/theory.d/THEORY-019.md:107`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:118`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-021.md:99`](../../record/theory.d/THEORY-021.md)
 - [`record/theory.d/THEORY-022.md:100`](../../record/theory.d/THEORY-022.md)
 - [`record/theory.d/THEORY-032.md:104`](../../record/theory.d/THEORY-032.md)
@@ -154,7 +152,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-26 citations in 17 files await a look; 10 other citations of it are acknowledged.
+26 citations in 17 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -333,7 +331,7 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/notes.d/NOTE-286.md:142`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-303.md:107`](../../record/notes.d/NOTE-303.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:40`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:41`](../../record/theory.d/THEORY-004.md)
 
 ### [LIT-369](../../record/literature.d/LIT-369.md) — Proposed
 
@@ -717,9 +715,9 @@ Analysis of Boolean Functions
 - [`record/literature.d/LIT-346.md:74`](../../record/literature.d/LIT-346.md)
 - [`record/notes.d/NOTE-307.md:115`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:118`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:54`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:87`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:90`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:63`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:96`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:99`](../../record/theory.d/THEORY-019.md)
 
 ### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
 
@@ -823,14 +821,14 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 - [`record/literature.d/LIT-319.md:78`](../../record/literature.d/LIT-319.md)
 - [`record/notes.d/NOTE-307.md:117`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:115`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:55`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:114`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:64`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:123`](../../record/theory.d/THEORY-019.md)
 
 ### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-6 citations in 4 files await a look; 4 other citations of it are acknowledged.
+6 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
