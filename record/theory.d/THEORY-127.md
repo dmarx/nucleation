@@ -45,7 +45,7 @@ summary: >-
   attitudes supervene proposition by proposition. Proposed: a theorem the
   record holds by citation, stated for categorical judgments only.
 extended_by:
-- THEORY-tmpe1ql0
+- THEORY-139
 ---
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->
 <!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->

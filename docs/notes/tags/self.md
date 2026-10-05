@@ -4,7 +4,7 @@
 
 **self**.
 
-29 of 558 NOTE documents. Back to the [full index](../README.md).
+30 of 586 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -37,3 +37,4 @@
 | [NOTE-488](../../../record/notes.d/NOTE-488.md) | Conscious birds | Review. Crow NCL neurons track the reported percept, not the stimulus, and NCL is nuclear rather than laminar; the pigeon connectome has the hub-and-module form GNWT requires; avian pallium has recurrent connectivity (RPT); IIT's markers (PCI, grid-like lattices) are untested in birds. Pigeons and roosters fail the mark test but discriminate their mirror image from a conspecific. GNWT and RPT requirements "seem to be mostly met"; the authors call the evidence short of a strong conclusion. | Read |
 | [NOTE-489](../../../record/notes.d/NOTE-489.md) | Three types of phenomenal consciousness and their functional roles: unfolding the ALARM theory of consciousness | ALARM: basic arousal (level-1 experience, subcortical) alarms the agent when homeostasis fails, triggering survival behaviour, care for the body and generalised learning without choice; general alertness (level-2, cortical, attention-guided) enables flexible learning and decision; reflexive self-consciousness is general alertness plus metacognitive self-relational content, enabling long-term planning. IIT, HOT and GNWT are said to cover only general alertness. Argued, not tested. | Read |
 | [NOTE-507](../../../record/notes.d/NOTE-507.md) | Damasio & Damasio — Homeostatic feelings and the biology of consciousness | An Essay with no data. Consciousness is the spontaneous identification of mind contents as one's own, provided by continuous homeostatic feelings that are conscious in themselves and "lend" consciousness to exteroceptive images. Feelings are hybrid because interoceptive pathways (unmyelinated, partly non-synaptic, barrier-free) let the body act on its own map. Evidence is cited clinical contrast: posterior brainstem lesions cause coma, extensive cortical lesions may not; anaesthetics act at membrane-level sensing below feeling. | Skimmed |
+| [NOTE-565](../../../record/notes.d/NOTE-565.md) | Responsibility, Moral and Otherwise | A lecture arguing that deep responsibility extends beyond the moral, to prudential and aesthetic traits and to art, and that the self-disclosure view explains this. Watson's two-level view, attributability with accountability stacked on top, is rejected: the two are independent, and accountability may need nothing metaphysically robust. What makes a self a fit target of reactive attitudes is offered as a hunch: an intelligent self that perceives, understands and appreciates the world as we do. | Read |

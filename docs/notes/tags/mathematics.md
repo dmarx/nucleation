@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-103 of 558 NOTE documents. Back to the [full index](../README.md).
+104 of 586 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -111,3 +111,4 @@
 | [NOTE-519](../../../record/notes.d/NOTE-519.md) | A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, a Precise Phase Transition, and the Corresponding Double Descent | Q̄ = ((N/n)(Kcos/(1+δcos) + Ksin/(1+δsin)) + λI)⁻¹ with δσ = (1/n) tr KσQ̄ is a deterministic equivalent for E_W[(ΣXᵀΣX/n + λI)⁻¹] (Theorem 1); Ē_train and Ē_test follow (Theorems 2–3). As λ → 0, δ ~ 1/λ for 2N < n and O(1) for 2N > n; det(Ω⁻¹) ~ λ, so Ē_test → ∞ at 2N = n unless the test set is within σ² ≲ λ of the training set. N/n → ∞ recovers Gaussian kernel regression. Theory matches MNIST, Fashion- and Kannada-MNIST. | Read |
 | [NOTE-528](../../../record/notes.d/NOTE-528.md) | Understanding Mode Connectivity via Parameter Space Symmetry | Minimum of full-rank ‖Y − W_l…W₁X‖² ≅ GL_h(ℝ)^{l−1}: 2^{l−1} components, independent of width. 1-D three-layer: 4 components, 3 with a skip. h ≥ 2: permutations connect all components. Homogeneous last layers: rescaled minima in one component with unbounded midpoint loss, even under last-layer permutations (Props. 5.3–5.4). Symmetry curves γ(t) = exp(t log g)·w have constant loss; curvature ≤ κ bounds the chord's distance from the level set by (1/κ)(1 − √(1 − (κ‖Δw‖/2)²)) ≈ κ‖Δw‖²/8. | Read |
 | [NOTE-543](../../../record/notes.d/NOTE-543.md) | Proving Linear Mode Connectivity of Neural Networks via Optimal Transport | Layerwise neuron alignment equals a Wasserstein distance between empirical weight distributions (Birkhoff), so LMC modulo permutation follows when neuron weights are i.i.d. and layers are wide: for mean-field two-layer SGD (Theorem 3.1), and for deep Gaussian or sub-Gaussian nets with m̃_ℓ = Õ((T_ℓ/ε)^{m̃_{ℓ−1}}) (Theorem 5.2), tight by Theorem 5.3. Low-dimensional weights relax this (Theorem 5.4). | Read |
+| [NOTE-576](../../../record/notes.d/NOTE-576.md) | The Method of Characteristics Revisited: A Viability Approach | Viability is a property of a constraint set under a dynamics: K is viable if from every state some evolution stays in K, invariant if all do. Nagumo's theorem reduces viability to a tangency condition. When K is not viable, the viability kernel is the largest viable part of it, and everything else in K leaves in finite time. Stability in the Lyapunov sense is not discussed. | Read |

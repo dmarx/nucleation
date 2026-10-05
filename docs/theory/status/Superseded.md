@@ -6,7 +6,7 @@
 
 **Replaced** — a later account covers the same ground better, and this one names it.
 
-0 of 130 THEORY documents. Back to the [full index](../README.md).
+0 of 153 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

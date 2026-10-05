@@ -6,6 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [5 Oct 11:30 — The rest of the essay's suggested readings](2026-10.md#the-rest-of-the-essays-suggested-readings)
+- [5 Oct 06:49 — Supplements to the essay sources](2026-10.md#supplements-to-the-essay-sources)
+- [5 Oct 06:28 — Sources an essay on will cites](2026-10.md#sources-an-essay-on-will-cites)
 - [4 Oct 17:00 — Corals as composite systems](2026-10.md#corals-as-composite-systems)
 - [4 Oct 09:00 — Collective emotions and group agency](2026-10.md#collective-emotions-and-group-agency)
 - [4 Oct 04:00 — Posani et al. 2026, a second reading](2026-10.md#posani-et-al-2026-a-second-reading)
@@ -31,9 +34,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-69 entries across 2 books, newest first.
+72 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 22 | 2026-10-01 | 2026-10-04 |
+| [2026-10](2026-10.md) | 25 | 2026-10-01 | 2026-10-05 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

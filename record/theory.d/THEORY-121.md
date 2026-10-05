@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-05'
   note: >-
-    The authors' précis (LIT-tmpd2o1w) and Fischer's 1987 paper (LIT-687)
+    The authors' précis (LIT-728) and Fischer's 1987 paper (LIT-687)
     were read first-hand, on the owner's authorisation of the Bailey
     collection, and added as sources. The précis confirms the account as
     the encyclopedia reports gave it, which is the reading this account's
@@ -23,7 +23,7 @@ tags:
 - moral-psychology
 date: '2026-10-03'
 source:
-- LIT-tmpd2o1w
+- LIT-728
 - LIT-687
 - LIT-684
 - LIT-689
@@ -36,7 +36,7 @@ rivals:
 - THEORY-118
 - THEORY-120
 summary: >-
-  Fischer and Ravizza, in their own précis ([LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md), read): moral
+  Fischer and Ravizza, in their own précis ([LIT-728](../literature.d/LIT-728.md), read): moral
   responsibility requires guidance control, not regulative control over
   alternatives. Guidance control is acting from a mechanism one has made
   one's own by taking responsibility for it, which is moderately
@@ -58,8 +58,8 @@ summary: >-
 ## The evidence
 
 The account is now read in the authors' own words. Their précis
-([LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md), [NOTE-tmpilfmm](../notes.d/NOTE-tmpilfmm.md)) and Fischer's 1987 paper ([LIT-687](../literature.d/LIT-687.md),
-[NOTE-tmprgzuf](../notes.d/NOTE-tmprgzuf.md)) were read in full on 2026-10-05, from Andrew M. Bailey's
+([LIT-728](../literature.d/LIT-728.md), [NOTE-575](../notes.d/NOTE-575.md)) and Fischer's 1987 paper ([LIT-687](../literature.d/LIT-687.md),
+[NOTE-579](../notes.d/NOTE-579.md)) were read in full on 2026-10-05, from Andrew M. Bailey's
 collection of Fischer's papers, on the owner's authorisation. The book
 itself ([LIT-684](../literature.d/LIT-684.md)) is still unread beyond chapter 1, so the arguments for
 each element are known from the précis's summary and the encyclopedia
@@ -68,9 +68,9 @@ reports, not from the chapters.
 ## Source
 
 - Fischer and Ravizza, "Précis of Responsibility and Control" (2000),
-  [LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md), read in [NOTE-tmpilfmm](../notes.d/NOTE-tmpilfmm.md): the authors' own statement.
+  [LIT-728](../literature.d/LIT-728.md), read in [NOTE-575](../notes.d/NOTE-575.md): the authors' own statement.
 - Fischer, "Responsiveness and Moral Responsibility" (1987), [LIT-687](../literature.d/LIT-687.md), read in
-  [NOTE-tmprgzuf](../notes.d/NOTE-tmprgzuf.md): the account's origin.
+  [NOTE-579](../notes.d/NOTE-579.md): the account's origin.
 - Fischer and Ravizza, *Responsibility and Control* (1998), [LIT-684](../literature.d/LIT-684.md),
   Deferred, unread: the account's full statement.
 - Fischer, "Stories and the Meaning of Life" (2009), [LIT-689](../literature.d/LIT-689.md), read in
@@ -152,7 +152,7 @@ his "Semicompatibilism and Its Rivals" (2012). The account's origin is
 Fischer's 1987 chapter ([LIT-687](../literature.d/LIT-687.md)), which, by [LIT-291](../literature.d/LIT-291.md)'s report, lacked
 the moderate version and the ownership condition.
 
-**Confirmed first-hand.** The précis ([LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md)) states each element in
+**Confirmed first-hand.** The précis ([LIT-728](../literature.d/LIT-728.md)) states each element in
 the authors' words. Moral responsibility "simply requires guidance control"
 (p. 441), which is "understood in terms of two elements": ownership of the
 mechanism that actually issues in the behaviour, and that mechanism's

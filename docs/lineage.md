@@ -2,7 +2,7 @@
 
 # Lines of work
 
-42 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+50 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -45,7 +45,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Responsiveness and Moral Responsibility
 
-- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Deferred)*
+- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Active)*
   - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
     - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
 
@@ -59,6 +59,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
   - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
+
+### From Responsibility Incorporated
+
+- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Deferred)*
+  - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## anthology-candidate
 
@@ -217,6 +222,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
+### From Catastrophic shifts in ecosystems
+
+- [LIT-720](../record/literature.d/LIT-720.md) — Catastrophic shifts in ecosystems *(Deferred)*
+  - [LIT-726](../record/literature.d/LIT-726.md) — Catastrophic regime shifts in ecosystems: linking theory to observation *(Active)*
+
+### From Brain of the Firm
+
+- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
+  - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
+
 ## consciousness
 
 ### From Psychological Predicates
@@ -253,6 +268,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
 
+## ecology
+
+### From Catastrophic shifts in ecosystems
+
+- [LIT-720](../record/literature.d/LIT-720.md) — Catastrophic shifts in ecosystems *(Deferred)*
+  - [LIT-726](../record/literature.d/LIT-726.md) — Catastrophic regime shifts in ecosystems: linking theory to observation *(Active)*
+
 ## embodied-cognition
 
 ### From The Extended Mind
@@ -279,6 +301,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Deferred)*
   - [LIT-540](../record/literature.d/LIT-540.md) — Impulsive action: emotional impulses and their control *(Active)*
 
+## epistemology
+
+### From The Communication Structure of Epistemic Communities
+
+- [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
+  - [LIT-735](../record/literature.d/LIT-735.md) — The Epistemic Benefit of Transient Diversity *(Active)*
+    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also extends LIT-724
+
 ## ethics
 
 ### From The Impossibility of a Paretian Liberal
@@ -299,7 +329,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Responsiveness and Moral Responsibility
 
-- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Deferred)*
+- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Active)*
   - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
     - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
 
@@ -313,7 +343,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Responsiveness and Moral Responsibility
 
-- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Deferred)*
+- [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Active)*
   - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
     - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
 
@@ -322,6 +352,18 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
   - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
 - [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+
+### From Responsibility Incorporated
+
+- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Deferred)*
+  - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
+
+## game-theory
+
+### From Governing the Commons: The Evolution of Institutions for Collective Action
+
+- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Deferred)*
+  - [LIT-719](../record/literature.d/LIT-719.md) — Beyond Markets and States: Polycentric Governance of Complex Economic Systems *(Active)*
 
 ## individuation
 
@@ -335,6 +377,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-526](../record/literature.d/LIT-526.md) — Life as we know it *(Active)*
   - [LIT-598](../record/literature.d/LIT-598.md) — The Markov blanket trick: On the scope of the free energy principle and active inference *(Active)*
   - [LIT-603](../record/literature.d/LIT-603.md) — The Emperor's New Markov Blankets *(Active)*
+
+### From Multilevel Selection and the Major Transitions in Evolution
+
+- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Deferred)*
+  - [LIT-749](../record/literature.d/LIT-749.md) — The Major Transitions in Evolution—A Philosophy-of-Science Perspective *(Active)*
 
 ## information-geometry
 
@@ -529,6 +576,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
+## network-science
+
+### From The Communication Structure of Epistemic Communities
+
+- [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
+  - [LIT-735](../record/literature.d/LIT-735.md) — The Epistemic Benefit of Transient Diversity *(Active)*
+    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also extends LIT-724
+
 ## neuroscience
 
 ### From Being No One: The Self-Model Theory of Subjectivity
@@ -579,6 +634,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
   - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
 
+### From Multilevel Selection and the Major Transitions in Evolution
+
+- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Deferred)*
+  - [LIT-749](../record/literature.d/LIT-749.md) — The Major Transitions in Evolution—A Philosophy-of-Science Perspective *(Active)*
+
 ## philosophy-of-language
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
@@ -614,6 +674,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
   - [LIT-582](../record/literature.d/LIT-582.md) — Biological organisation as closure of constraints *(Active)*
+
+### From Multilevel Selection and the Major Transitions in Evolution
+
+- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Deferred)*
+  - [LIT-749](../record/literature.d/LIT-749.md) — The Major Transitions in Evolution—A Philosophy-of-Science Perspective *(Active)*
+
+### From The Communication Structure of Epistemic Communities
+
+- [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
+  - [LIT-735](../record/literature.d/LIT-735.md) — The Epistemic Benefit of Transient Diversity *(Active)*
+    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also extends LIT-724
 
 ## probabilistic-modeling
 
@@ -746,6 +817,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
   - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
 
+### From Responsibility Incorporated
+
+- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Deferred)*
+  - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
+
 ## social-science
 
 ### From Equality of What?
@@ -795,6 +871,26 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-705](../record/literature.d/LIT-705.md) — Group Agency and Supervenience *(Active)*
   - [LIT-700](../record/literature.d/LIT-700.md) — Three kinds of collective attitudes *(Active)*
 
+### From The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
+
+- [LIT-715](../record/literature.d/LIT-715.md) — The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA *(Deferred)*
+  - [LIT-734](../record/literature.d/LIT-734.md) — History As Cause: Columbia and Challenger *(Active)*
+
+### From Governing the Commons: The Evolution of Institutions for Collective Action
+
+- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Deferred)*
+  - [LIT-719](../record/literature.d/LIT-719.md) — Beyond Markets and States: Polycentric Governance of Complex Economic Systems *(Active)*
+
+### From Brain of the Firm
+
+- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
+  - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
+
+### From Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
+
+- [LIT-748](../record/literature.d/LIT-748.md) — Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States *(Deferred)*
+  - [LIT-750](../record/literature.d/LIT-750.md) — "Exit, Voice, and Loyalty": Further Reflections and a Survey of Recent Contributions *(Active)*
+
 ## society-and-governance
 
 ### From The Impossibility of a Paretian Liberal
@@ -807,6 +903,26 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-289](../record/literature.d/LIT-289.md) — Equality of What? *(Active)*
   - [LIT-287](../record/literature.d/LIT-287.md) — Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined *(Active)*
   - [LIT-288](../record/literature.d/LIT-288.md) — Capabilities as Fundamental Entitlements: Sen and Social Justice *(Active)*
+
+### From The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
+
+- [LIT-715](../record/literature.d/LIT-715.md) — The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA *(Deferred)*
+  - [LIT-734](../record/literature.d/LIT-734.md) — History As Cause: Columbia and Challenger *(Active)*
+
+### From Governing the Commons: The Evolution of Institutions for Collective Action
+
+- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Deferred)*
+  - [LIT-719](../record/literature.d/LIT-719.md) — Beyond Markets and States: Polycentric Governance of Complex Economic Systems *(Active)*
+
+### From Brain of the Firm
+
+- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
+  - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
+
+### From Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
+
+- [LIT-748](../record/literature.d/LIT-748.md) — Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States *(Deferred)*
+  - [LIT-750](../record/literature.d/LIT-750.md) — "Exit, Voice, and Loyalty": Further Reflections and a Survey of Recent Contributions *(Active)*
 
 ## thermodynamics
 
