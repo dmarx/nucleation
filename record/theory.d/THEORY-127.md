@@ -44,7 +44,7 @@ summary: >-
   group agent's, supervene "holistically", while aggregate and common
   attitudes supervene proposition by proposition. Proposed: a theorem the
   record holds by citation, stated for categorical judgments only.
-extended_by:
+presupposed_by:
 - THEORY-139
 ---
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->

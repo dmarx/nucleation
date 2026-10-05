@@ -12,7 +12,14 @@ promote_when: >-
   changes corporate conduct in the way a regulative practice should. A
   philosophical consensus for or against would not settle either.
 title: 'A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members'' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-127` re-filed as `presupposes: THEORY-127` (ADR-029).
+    This account takes List and Pettit's aggregation result as a premise
+    for a claim about responsibility; it does not refine that mechanism.
 tags:
 - social-ontology
 - agency
@@ -20,7 +27,7 @@ tags:
 date: '2026-10-05'
 source:
 - LIT-718
-extends:
+presupposes:
 - THEORY-127
 summary: >-
   Pettit (2017), [LIT-718](../literature.d/LIT-718.md), restating Responsibility Incorporated
@@ -81,8 +88,11 @@ judgments, it can give itself those means, so the excuse expires.
 
 ## Connections
 
-- **Carries [THEORY-127](THEORY-127.md) further.** The group-agency result becomes the
-  ground of corporate commitment and responsibility.
+- **Presupposes [THEORY-127](THEORY-127.md).** The account takes List and Pettit's result,
+  that a rational group must form its judgments holistically, as the
+  premise for a corporation having a mind of its own, and argues from there
+  to responsibility. If that result fell, the argument would need another
+  route to corporate agency ([ADR-029](../decisions.d/ADR-029.md)).
 - **Wolf's normative competence.** Condition (2), a position to judge
   options normatively, is what the record's Reason View theories ask of an
   individual. Pettit attributes it to a corporation; Wolf's own texts do

@@ -19,6 +19,8 @@ summary: >-
   homogeneous lakes are stable and fragile. Active for the distinction,
   which has become standard. The claim that management for constancy
   erodes resilience rests on suggestive cases.
+presupposed_by:
+- THEORY-136
 ---
 
 # THEORY-132: Stability, a system's speed of return to equilibrium after disturbance, and resilience, its capacity to absorb change and persist within its domain of attraction, are distinct properties that can trade off, so a system can be highly unstable and highly resilient, and managing it for constancy can erode its resilience
