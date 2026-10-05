@@ -1,27 +1,20 @@
 ---
 number: 121
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmjijs
-promote_when: >-
-  A first-hand reading of Responsibility and Control (LIT-684),
-  chapters 2, 3 and 8, or at least the authors' précis (PPR 61(2), 2000),
-  that confirms the account as the secondary sources report it: guidance
-  control is the agent's own, moderately reasons-responsive mechanism, with
-  receptivity more demanding than reactivity, and ownership comes from
-  taking responsibility. The account is refuted by a case in which an agent
-  acts from her own moderately reasons-responsive mechanism, having taken
-  responsibility for it by an ordinary, unmanipulated route, and is still
-  not responsible. Pereboom's four-case argument, rebuilt so that the
-  manipulation includes the taking of responsibility, is the candidate the
-  sources name (LIT-291, supplement §B.2). It would have to be read
-  first-hand and shown unanswered by Fischer's replies. The
-  alternative-possibilities half is refuted only if both the Frankfurt-type
-  cases and the other routes Fischer says lead to the same conclusion
-  (LIT-689, §I) fail. A failure of the Frankfurt cases alone does not
-  refute it.
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    The authors' précis (LIT-tmpd2o1w) and Fischer's 1987 paper (LIT-687)
+    were read first-hand, on the owner's authorisation of the Bailey
+    collection, and added as sources. The précis confirms the account as
+    the encyclopedia reports gave it, which is the reading this account's
+    promotion condition named, so the status moved from Proposed to Active.
+    The condition's refutation clauses are kept in the body.
 tags:
 - free-will
 - agency
@@ -30,6 +23,8 @@ tags:
 - moral-psychology
 date: '2026-10-03'
 source:
+- LIT-tmpd2o1w
+- LIT-687
 - LIT-684
 - LIT-689
 - LIT-291
@@ -41,40 +36,41 @@ rivals:
 - THEORY-118
 - THEORY-120
 summary: >-
-  Fischer and Ravizza (1998), reported second-hand: the book is unread.
-  Fischer's own lawful summary ("Stories and the Meaning of Life",
-  [LIT-689](../literature.d/LIT-689.md), read) states the core first-hand: guidance control, not
-  regulative control, is the freedom-relevant condition; it is acting from
-  one's own, moderately reasons-responsive mechanism; and it is compatible
-  with causal determinism. McKenna and Coates ([LIT-291](../literature.d/LIT-291.md), §4.4 and supplement
-  §B) and Talbert ([LIT-691](../literature.d/LIT-691.md), §2.3) report the analysis: Frankfurt-type
-  cases move responsiveness from the agent to the mechanism actually at
-  work; the mechanism must show regular, understandable receptivity to
-  reasons, including moral ones, and some reactivity; and it is the agent's
-  own when she has taken responsibility for it.
+  Fischer and Ravizza, in their own précis ([LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md), read): moral
+  responsibility requires guidance control, not regulative control over
+  alternatives. Guidance control is acting from a mechanism one has made
+  one's own by taking responsibility for it, which is moderately
+  reasons-responsive: regularly receptive to reasons, some moral, and at
+  least weakly reactive. Fischer's 1987 paper ([LIT-687](../literature.d/LIT-687.md), read) is the
+  weak-responsiveness origin. The view is compatible with causal
+  determinism.
+
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
 <!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->
-<!-- inactive-ok-file: LIT-684 LIT-687 — Deferred, unread; Fischer and Ravizza's book and Fischer's 1987 chapter, named as sources or origin because the account is theirs, and nothing is quoted from them -->
+<!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; Fischer and Ravizza's book, named as a source because the account is theirs; what is quoted comes from the précis -->
 <!-- inactive-ok-file: LIT-688 — Deferred, unread; Wolf's article, named as the source of the rival account -->
 <!-- inactive-ok-file: THEORY-118 THEORY-122 — Proposed; Wolf's asymmetry (the rival) and her Reason View, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-040 THEORY-029 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-121: Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism
 
-## The evidence is second-hand, except for one summary
+## The evidence
 
-**The primary text is unread.** No lawful copy of *Responsibility and
-Control*, of its précis, or of Fischer's 1987 chapter could be found (see
-their status notes). The analysis of moderate reasons-responsiveness and of
-ownership is reported here through two read SEP entries. One lawful text by
-Fischer was read, "Stories and the Meaning of Life" ([LIT-689](../literature.d/LIT-689.md)). It states
-the account's core claims in his own words but does not argue them or give
-the analysis. Nothing is quoted from the book. The owner authorised filing
-this on this evidence on 2026-10-03.
+The account is now read in the authors' own words. Their précis
+([LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md), [NOTE-tmpilfmm](../notes.d/NOTE-tmpilfmm.md)) and Fischer's 1987 paper ([LIT-687](../literature.d/LIT-687.md),
+[NOTE-tmprgzuf](../notes.d/NOTE-tmprgzuf.md)) were read in full on 2026-10-05, from Andrew M. Bailey's
+collection of Fischer's papers, on the owner's authorisation. The book
+itself ([LIT-684](../literature.d/LIT-684.md)) is still unread beyond chapter 1, so the arguments for
+each element are known from the précis's summary and the encyclopedia
+reports, not from the chapters.
 
 ## Source
 
+- Fischer and Ravizza, "Précis of Responsibility and Control" (2000),
+  [LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md), read in [NOTE-tmpilfmm](../notes.d/NOTE-tmpilfmm.md): the authors' own statement.
+- Fischer, "Responsiveness and Moral Responsibility" (1987), [LIT-687](../literature.d/LIT-687.md), read in
+  [NOTE-tmprgzuf](../notes.d/NOTE-tmprgzuf.md): the account's origin.
 - Fischer and Ravizza, *Responsibility and Control* (1998), [LIT-684](../literature.d/LIT-684.md),
   Deferred, unread: the account's full statement.
 - Fischer, "Stories and the Meaning of Life" (2009), [LIT-689](../literature.d/LIT-689.md), read in
@@ -155,6 +151,34 @@ whether determinism rules out the freedom to do otherwise; [LIT-291](../literatu
 his "Semicompatibilism and Its Rivals" (2012). The account's origin is
 Fischer's 1987 chapter ([LIT-687](../literature.d/LIT-687.md)), which, by [LIT-291](../literature.d/LIT-291.md)'s report, lacked
 the moderate version and the ownership condition.
+
+**Confirmed first-hand.** The précis ([LIT-tmpd2o1w](../literature.d/LIT-tmpd2o1w.md)) states each element in
+the authors' words. Moral responsibility "simply requires guidance control"
+(p. 441), which is "understood in terms of two elements": ownership of the
+mechanism that actually issues in the behaviour, and that mechanism's
+reasons-responsiveness. "We contend that individuals make certain kinds of
+mechanisms their own by taking responsibility for them" (p. 441). A
+mechanism is moderately responsive "insofar as it is "regularly" receptive
+to reasons (some of which are moral), and at least weakly reactive to
+reasons" (p. 444), which confirms the phrase "regular receptivity, weak
+reactivity" used above. Fischer's 1987 paper ([LIT-687](../literature.d/LIT-687.md)) confirms the origin:
+the requirement was already on "the mechanism that actually issues in the
+action" (p. 66), it was weak responsiveness, and there was no ownership
+condition.
+
+## What would refute it
+
+The account is refuted by a case in which an agent
+acts from her own moderately reasons-responsive mechanism, having taken
+responsibility for it by an ordinary, unmanipulated route, and is still
+not responsible. Pereboom's four-case argument, rebuilt so that the
+manipulation includes the taking of responsibility, is the candidate the
+sources name ([LIT-291](../literature.d/LIT-291.md), supplement §B.2). It would have to be read
+first-hand and shown unanswered by Fischer's replies. The
+alternative-possibilities half is refuted only if both the Frankfurt-type
+cases and the other routes Fischer says lead to the same conclusion
+([LIT-689](../literature.d/LIT-689.md), §I) fail. A failure of the Frankfurt cases alone does not
+refute it.
 
 ## What this does not say
 
