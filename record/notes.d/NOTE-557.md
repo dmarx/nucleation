@@ -1,6 +1,9 @@
 ---
+number: 557
 status: Read
-paper: LIT-tmpm09g4
+formerly:
+- NOTE-tmptrlu9
+paper: LIT-710
 title: 'Signaling cascades and the importance of moonlight in coral broadcast mass spawning'
 version: 1
 history:
@@ -23,9 +26,9 @@ summary: >-
   time. The GPCR and melanopsin cascade is a model built from correlated
   expression.
 ---
-<!-- inactive-ok-file: THEORY-tmpezkoq THEORY-126 THEORY-069 — Proposed; the theory filed from this reading, and the record's account of collective emotion as synchrony from a shared cause, and the coupled-oscillator account, named for a parallel and a contrast with no relation claimed -->
+<!-- inactive-ok-file: THEORY-129 THEORY-126 THEORY-069 — Proposed; the theory filed from this reading, and the record's account of collective emotion as synchrony from a shared cause, and the coupled-oscillator account, named for a parallel and a contrast with no relation claimed -->
 
-# NOTE-tmptrlu9: Signaling cascades and the importance of moonlight in coral broadcast mass spawning
+# NOTE-557: Signaling cascades and the importance of moonlight in coral broadcast mass spawning
 
 ## Contribution
 
@@ -138,11 +141,11 @@ authors contrast this with Willis et al. 1985, which suggested months.
 - **light pollution** — here, artificial PAR light after sunset.
 - **phase shift (of spawning)** — the delay, in hours or nights, relative
   to ambient colonies. Unrelated to the ecological "phase shift" of
-  [LIT-tmpr2ulq](../literature.d/LIT-tmpr2ulq.md).
+  [LIT-711](../literature.d/LIT-711.md).
 
 ## Connections
 
-- **Hughes et al. ([LIT-tmpr2ulq](../literature.d/LIT-tmpr2ulq.md))** share an author (Hoegh-Guldberg) and the
+- **Hughes et al. ([LIT-711](../literature.d/LIT-711.md))** share an author (Hoegh-Guldberg) and the
   Great Barrier Reef. This paper says reproduction is "one of the most
   important processes for the persistence of reefs"; Hughes et al. show
   recovery after bleaching running through recruitment. Neither cites the
@@ -161,7 +164,7 @@ authors contrast this with Willis et al. 1985, which suggested months.
 
 - Source of the theory that in A. millepora the nocturnal light regime is
   necessary for spawning on the expected night, with a spawning-night GPCR
-  programme whose timing follows the light ([THEORY-tmpezkoq](../theory.d/THEORY-tmpezkoq.md)). That theory
+  programme whose timing follows the light ([THEORY-129](../theory.d/THEORY-129.md)). That theory
   takes C1–C4 and C7. It holds C5 as a proposal and C6 as background.
 - No ML instruction; nothing for the anthology.
 

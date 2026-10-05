@@ -1,5 +1,8 @@
 ---
+number: 129
 status: Proposed
+formerly:
+- THEORY-tmpezkoq
 promote_when: >-
   Two kinds of result. For the cue: the 2011 design repeated with larger
   groups and the treated colonies followed over the following nights, so
@@ -24,9 +27,9 @@ tags:
 - complex-systems
 date: '2026-10-04'
 source:
-- LIT-tmpm09g4
+- LIT-710
 summary: >-
-  Kaniewska et al. (2015), [LIT-tmpm09g4](../literature.d/LIT-tmpm09g4.md), at Heron Island. In 2011, colonies
+  Kaniewska et al. (2015), [LIT-710](../literature.d/LIT-710.md), at Heron Island. In 2011, colonies
   under natural night light spawned with the reef, while colonies lit
   after sunset or kept dark for the preceding week did not spawn that
   night (N = 6, 5, 5). 184 transcripts changed around release in ambient
@@ -37,20 +40,20 @@ summary: >-
   and a cascade inferred from co-expression. It shows synchrony by a
   shared cue, not coupling between colonies.
 ---
-<!-- inactive-ok-file: THEORY-126 THEORY-069 THEORY-tmpap2wn — Proposed; the record's accounts of synchrony from a shared cause and from coupling, named for a parallel and a contrast, and the reef-recovery account filed in the same batch; nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-126 THEORY-069 THEORY-128 — Proposed; the record's accounts of synchrony from a shared cause and from coupling, named for a parallel and a contrast, and the reef-recovery account filed in the same batch; nothing here rests on them -->
 
-# THEORY-tmpezkoq: In Acropora millepora the natural night-light regime is necessary for spawning on the expected night, and displacing it delays or abolishes both release and a spawning-night programme of G-protein-coupled signalling genes
+# THEORY-129: In Acropora millepora the natural night-light regime is necessary for spawning on the expected night, and displacing it delays or abolishes both release and a spawning-night programme of G-protein-coupled signalling genes
 
 ## Source
 
 Kaniewska, Alon, Karako-Lampert, Hoegh-Guldberg & Levy (2015),
-[LIT-tmpm09g4](../literature.d/LIT-tmpm09g4.md), read in [NOTE-tmptrlu9](../notes.d/NOTE-tmptrlu9.md): Results and discussion, Materials and
+[LIT-710](../literature.d/LIT-710.md), read in [NOTE-557](../notes.d/NOTE-557.md): Results and discussion, Materials and
 methods, Figures 1–4 and their supplements (from captions), the decision
 letter and the author response.
 
 ## What was actually shown
 
-**The cue is necessary, in this setup.** Kaniewska et al. ([LIT-tmpm09g4](../literature.d/LIT-tmpm09g4.md))
+**The cue is necessary, in this setup.** Kaniewska et al. ([LIT-710](../literature.d/LIT-710.md))
 held 16 reproductively mature A. millepora colonies from the Heron Island
 reef flat in outdoor flow-through tanks under natural sun and moon, from 9
 November 2011 to the spawning night of 16 November. Six were left under
@@ -135,6 +138,6 @@ as a hypothesis the expression data are consistent with, not as shown.
   undergoes a phase transition. This account is its contrast case: timing
   by a shared external drive with no coupling shown. No relation is
   declared.
-- **Reef recovery ([THEORY-tmpap2wn](THEORY-tmpap2wn.md)).** Recovery after bleaching on the same
+- **Reef recovery ([THEORY-128](THEORY-128.md)).** Recovery after bleaching on the same
   reef system runs through recruitment, which depends on successful
   spawning. The two accounts compose; neither rests on the other.

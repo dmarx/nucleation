@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [4 Oct 17:00 — Corals as composite systems](2026-10.md#corals-as-composite-systems)
 - [4 Oct 09:00 — Collective emotions and group agency](2026-10.md#collective-emotions-and-group-agency)
 - [4 Oct 04:00 — Posani et al. 2026, a second reading](2026-10.md#posani-et-al-2026-a-second-reading)
 - [4 Oct 00:05 — Frankfurt, filed first-hand](2026-10.md#frankfurt-filed-first-hand)
@@ -30,9 +31,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-68 entries across 2 books, newest first.
+69 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 21 | 2026-10-01 | 2026-10-04 |
+| [2026-10](2026-10.md) | 22 | 2026-10-01 | 2026-10-04 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

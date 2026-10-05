@@ -1,5 +1,8 @@
 ---
+number: 128
 status: Proposed
+formerly:
+- THEORY-tmpap2wn
 promote_when: >-
   Replication beyond one bay and one post-disturbance window. Herbivore
   exclusion or reduction after a mass mortality at other reefs, at least
@@ -24,9 +27,9 @@ tags:
 - complex-systems
 date: '2026-10-04'
 source:
-- LIT-tmpr2ulq
+- LIT-711
 summary: >-
-  Hughes et al. (2007), [LIT-tmpr2ulq](../literature.d/LIT-tmpr2ulq.md). On the reef crest at Orpheus Island
+  Hughes et al. (2007), [LIT-711](../literature.d/LIT-711.md). On the reef crest at Orpheus Island
   after the 1998 bleaching, four roofless cages kept large and medium
   fishes out of 25 m² plots for 30 months. Macroalgae averaged 56% cover
   inside against 4.1% and 1.7% in controls. Coral cover reached 7.7%
@@ -37,20 +40,20 @@ summary: >-
   herbivore exclusion. The algal state vanished within 30 days of
   reopening.
 ---
-<!-- inactive-ok-file: THEORY-058 THEORY-tmpezkoq — Proposed; the record's alternative-stable-state account, named for a contrast, and the spawning account from the same batch; nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-058 THEORY-129 — Proposed; the record's alternative-stable-state account, named for a contrast, and the spawning account from the same batch; nothing here rests on them -->
 
-# THEORY-tmpap2wn: After mass bleaching, coral recovery on a reef crest depends on large herbivorous fishes keeping macroalgae down, because recovery runs through recruitment and survival that macroalgae suppress, not through the persistence of surviving colonies alone
+# THEORY-128: After mass bleaching, coral recovery on a reef crest depends on large herbivorous fishes keeping macroalgae down, because recovery runs through recruitment and survival that macroalgae suppress, not through the persistence of surviving colonies alone
 
 ## Source
 
 Hughes, Rodrigues, Bellwood, Ceccarelli, Hoegh-Guldberg, McCook,
-Moltschaniwskyj, Pratchett, Steneck & Willis (2007), [LIT-tmpr2ulq](../literature.d/LIT-tmpr2ulq.md), read in
-[NOTE-tmpuu6kh](../notes.d/NOTE-tmpuu6kh.md): Results and Discussion, Conclusions, Experimental
+Moltschaniwskyj, Pratchett, Steneck & Willis (2007), [LIT-711](../literature.d/LIT-711.md), read in
+[NOTE-558](../notes.d/NOTE-558.md): Results and Discussion, Conclusions, Experimental
 Procedures, Figures 1–4. The Supplemental Data were not read.
 
 ## What was actually shown
 
-**The design.** Hughes et al. ([LIT-tmpr2ulq](../literature.d/LIT-tmpr2ulq.md)) worked in Pioneer Bay, Orpheus
+**The design.** Hughes et al. ([LIT-711](../literature.d/LIT-711.md)) worked in Pioneer Bay, Orpheus
 Island, on the inner Great Barrier Reef, a no-fishing area since 1987,
 where the 1998 bleaching had sharply cut coral cover and removed branching
 Acropora from the shallow crest. From 2000 they ran three treatments, four
@@ -125,6 +128,6 @@ not the sum of colonies' individual persistence.
   the reef can accommodate that, so it does not decide between them.
 - **[THEORY-058](THEORY-058.md).** A contrast in what a shifted state is, set out above. No
   relation is declared.
-- **Spawning ([THEORY-tmpezkoq](THEORY-tmpezkoq.md)).** Recovery through recruitment presupposes
+- **Spawning ([THEORY-129](THEORY-129.md)).** Recovery through recruitment presupposes
   larval supply, which on the Great Barrier Reef comes from synchronised
   mass spawning. The two compose; neither rests on the other.

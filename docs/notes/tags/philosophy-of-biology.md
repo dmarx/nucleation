@@ -4,7 +4,7 @@
 
 **philosophy-of-biology**.
 
-23 of 554 NOTE documents. Back to the [full index](../README.md).
+24 of 558 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -31,3 +31,4 @@
 | [NOTE-444](../../../record/notes.d/NOTE-444.md) | An Organizational Account of Biological Functions | Functions are contributions to a differentiated self-maintaining organization by traits that organization produces and maintains (C1–C3). Closure alone grounds teleology and normativity but is shared by flames and hurricanes; differentiation is what makes functions meaningful. The account unifies "why is T there?" and "what is T for?" in current organization, and distinguishes functional, useful, dysfunctional, primary and secondary contributions. Reproduction is left to future "second-order" self-maintaining systems. | Read |
 | [NOTE-458](../../../record/notes.d/NOTE-458.md) | Defining Agency: Individuality, Normativity, Asymmetry, and Spatio-temporality in Action | Minimal agency needs a self-individuated system that is the source of modulations of its coupling with the environment and regulates them by norms it generates. An autonomous organization, a precarious network of mutually enabling processes, generates all three when it adaptively modulates its coupling for its own maintenance. Life is sufficient, not necessary. The definition is a proposal: the authors say asymmetry's formalization is incomplete and modeller-relative. | Read |
 | [NOTE-468](../../../record/notes.d/NOTE-468.md) | Biological organisation as closure of constraints | A constraint acts on a process while being conserved at that process's time scale; closure is a set of constraints, each directly dependent on and generative for another, that cannot be split. This separates closure from cycles of processes, grounds functions, and gives a boundary criterion, refined by a preliminary count-based tendency to closure for symbionts and by nested separated closures for levels. Applied only to schematic examples; closure is not claimed to define organisms. | Read |
+| [NOTE-555](../../../record/notes.d/NOTE-555.md) | Conceptualization of the Holobiont Paradigm as It Pertains to Corals | A mini-review arguing that corals must be studied as holobionts. The holobiont is defined by location (coral plus microbiota in body, mucus and skeleton), and its membership can change. Traits belong to host–symbiont combinations: a novel anemone–alga pairing out-performed both natural ones in oxygen flux at 32–34 °C, and two octocorals lost symbionts by different routes, one per host cell and one with host cells. It asks, without answering, whether the holobiont is the unit of selection. | Read |

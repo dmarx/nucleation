@@ -1,5 +1,8 @@
 ---
+number: 130
 status: Proposed
+formerly:
+- THEORY-tmpwypmh
 promote_when: >-
   Primary measurements, not reviews. First, several coral species under the
   same heat stress, with host and symbiont measured together: symbionts
@@ -23,15 +26,15 @@ tags:
 - complex-systems
 date: '2026-10-04'
 source:
-- LIT-tmpx0l32
-- LIT-tmpkkylg
+- LIT-712
+- LIT-709
 summary: >-
   Two reviews, with no data of their own. Boilard et al. (2020),
-  [LIT-tmpx0l32](../literature.d/LIT-tmpx0l32.md), collect the regulators of the coral–dinoflagellate
+  [LIT-712](../literature.d/LIT-712.md), collect the regulators of the coral–dinoflagellate
   exchange: the host controls symbiont density, bacteria shift the
   nitrogen supply, and heat leads either to host rejection of symbionts
   (apoptosis, autophagy, exocytosis, detachment, necrosis) or to pigment
-  loss under oxidative stress. Goulet et al. (2020), [LIT-tmpkkylg](../literature.d/LIT-tmpkkylg.md), report
+  loss under oxidative stress. Goulet et al. (2020), [LIT-709](../literature.d/LIT-709.md), report
   two octocorals whose similar symbiont losses at +3 °C came by different
   routes, one by fewer symbionts per host cell and one by loss of host
   cells. Proposed. The claim that the wider microbiome drives bleaching is
@@ -39,16 +42,16 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-058 THEORY-071 — Proposed; named to say this account neither rests on nor bears on them -->
 
-# THEORY-tmpwypmh: Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss
+# THEORY-130: Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss
 
 ## Source
 
 - Boilard, Dubé, Gruet, Mercière, Hernandez-Agreda & Derome (2020),
-  [LIT-tmpx0l32](../literature.d/LIT-tmpx0l32.md), read in [NOTE-tmpqsm5b](../notes.d/NOTE-tmpqsm5b.md): §1 (bleaching routes), §2.2 (host
+  [LIT-712](../literature.d/LIT-712.md), read in [NOTE-556](../notes.d/NOTE-556.md): §1 (bleaching routes), §2.2 (host
   regulation of Symbiodiniaceae), §2.3.1 (bacterial regulation, microbial
   shifts), §3.2 (shuffling, switching, mutualism turning parasitic).
-- Goulet, Erill, Ascunce, Finley & Javan (2020), [LIT-tmpkkylg](../literature.d/LIT-tmpkkylg.md), read in
-  [NOTE-tmpouif2](../notes.d/NOTE-tmpouif2.md): the Discussion sections on bleaching and on measuring
+- Goulet, Erill, Ascunce, Finley & Javan (2020), [LIT-709](../literature.d/LIT-709.md), read in
+  [NOTE-555](../notes.d/NOTE-555.md): the Discussion sections on bleaching and on measuring
   several partners.
 
 Both are reviews. Every result below is a cited study that the record has
@@ -58,7 +61,7 @@ not read, reported as the reviews report it.
 
 **Bleaching is an outcome, not a mechanism.** It is defined by what is
 seen: fewer Symbiodiniaceae, or less pigment, so that the skeleton shows
-through the tissue. Goulet et al. ([LIT-tmpkkylg](../literature.d/LIT-tmpkkylg.md)) point out that this
+through the tissue. Goulet et al. ([LIT-709](../literature.d/LIT-709.md)) point out that this
 definition "does not distinguish what drives the Symbiodiniaceae loss".
 They give the case that shows the routes coming apart. In two Caribbean
 octocorals at 3 °C above ambient, symbiont density fell 26% in Eunicea
@@ -70,7 +73,7 @@ came about by two routes. Only measuring host and symbiont together showed
 it.
 
 **The routes are failures of a regulated exchange.** Boilard et al.
-([LIT-tmpx0l32](../literature.d/LIT-tmpx0l32.md)) list them on the host side as apoptosis, autophagy,
+([LIT-712](../literature.d/LIT-712.md)) list them on the host side as apoptosis, autophagy,
 exocytosis, detachment and necrosis, by which the host rejects the algae.
 On the algal side, pigments are lost when thylakoids are exposed to free
 radicals, with ROS production in the algae "the most likely cause" of

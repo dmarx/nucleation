@@ -1,6 +1,9 @@
 ---
+number: 555
 status: Read
-paper: LIT-tmpkkylg
+formerly:
+- NOTE-tmpouif2
+paper: LIT-709
 title: 'Conceptualization of the Holobiont Paradigm as It Pertains to Corals'
 version: 1
 history:
@@ -25,9 +28,9 @@ summary: >-
   cells. It asks, without answering, whether the holobiont is the unit of
   selection.
 ---
-<!-- inactive-ok-file: THEORY-tmpwypmh — Proposed; filed from this batch, named as the theory this reading supports -->
+<!-- inactive-ok-file: THEORY-130 — Proposed; filed from this batch, named as the theory this reading supports -->
 
-# NOTE-tmpouif2: Conceptualization of the Holobiont Paradigm as It Pertains to Corals
+# NOTE-555: Conceptualization of the Holobiont Paradigm as It Pertains to Corals
 
 ## Contribution
 
@@ -129,7 +132,7 @@ The paper's evidence, every item cited from other work:
 
 ## Connections
 
-- **The bleaching review ([LIT-tmpx0l32](../literature.d/LIT-tmpx0l32.md)).** Boilard et al. build their second
+- **The bleaching review ([LIT-712](../literature.d/LIT-712.md)).** Boilard et al. build their second
   stage of bleaching on the ABH and describe it in host-centred terms ("the
   coral host has the ability to regulate the density and diversity of their
   associated Symbiodiniaceae"). That is the framing this paper warns about.
@@ -155,7 +158,7 @@ The paper's evidence, every item cited from other work:
 - It is the conceptual source for the composite-system framing of corals.
   It is cited, with the bleaching review, in the theory that coral
   bleaching is a breakdown of a regulated host–symbiont exchange reached by
-  more than one route ([THEORY-tmpwypmh](../theory.d/THEORY-tmpwypmh.md)). C5 is the evidence for "more than
+  more than one route ([THEORY-130](../theory.d/THEORY-130.md)). C5 is the evidence for "more than
   one route".
 - No ML instruction; nothing for the anthology.
 

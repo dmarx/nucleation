@@ -1,6 +1,9 @@
 ---
+number: 558
 status: Read
-paper: LIT-tmpr2ulq
+formerly:
+- NOTE-tmpuu6kh
+paper: LIT-711
 title: 'Phase Shifts, Herbivory, and the Resilience of Coral Reefs to Climate Change'
 version: 1
 history:
@@ -25,9 +28,9 @@ summary: >-
   118 per 25 m²) and mortality of established colonies was 24.2% against
   9.8% and 11.3%. Reopened, the cages lost their algae in 30 days.
 ---
-<!-- inactive-ok-file: THEORY-tmpap2wn THEORY-058 — Proposed; the theory filed from this reading, and the record's alternative-stable-state account, named for a contrast with no relation claimed -->
+<!-- inactive-ok-file: THEORY-128 THEORY-058 — Proposed; the theory filed from this reading, and the record's alternative-stable-state account, named for a contrast with no relation claimed -->
 
-# NOTE-tmpuu6kh: Phase Shifts, Herbivory, and the Resilience of Coral Reefs to Climate Change
+# NOTE-558: Phase Shifts, Herbivory, and the Resilience of Coral Reefs to Climate Change
 
 ## Contribution
 
@@ -134,11 +137,11 @@ would otherwise recover from becomes the start of an algal reef.
 
 ## Connections
 
-- **Kaniewska et al. ([LIT-tmpm09g4](../literature.d/LIT-tmpm09g4.md)).** Same reef system, a shared author
+- **Kaniewska et al. ([LIT-710](../literature.d/LIT-710.md)).** Same reef system, a shared author
   (Hoegh-Guldberg), and the other half of the recovery story: recruitment
   needs larvae, which come from synchronised spawning. Neither paper cites
   the other.
-- **Boilard et al. ([LIT-tmpx0l32](../literature.d/LIT-tmpx0l32.md)).** Their model ends traumatic dysbiosis
+- **Boilard et al. ([LIT-712](../literature.d/LIT-712.md)).** Their model ends traumatic dysbiosis
   in algal "phase shifts". This experiment shows a phase shift following
   bleaching through the loss of herbivory, with no microbial step.
 - **Borsboom ([LIT-547](../literature.d/LIT-547.md)) and [THEORY-058](../theory.d/THEORY-058.md).** The record's alternative-stable-
@@ -154,7 +157,7 @@ would otherwise recover from becomes the start of an algal reef.
 
 - Source of the theory that coral recovery after bleaching on a reef crest
   depends on large herbivorous fishes keeping macroalgae down, through
-  recruitment and survival ([THEORY-tmpap2wn](../theory.d/THEORY-tmpap2wn.md)).
+  recruitment and survival ([THEORY-128](../theory.d/THEORY-128.md)).
 - It is the record's first experimental ecology. The vocabulary has no
   word for community or ecosystem ecology (resilience, regime shifts,
   trophic interactions). `natural-sciences` and `complex-systems` are the

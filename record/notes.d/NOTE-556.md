@@ -1,6 +1,9 @@
 ---
+number: 556
 status: Read
-paper: LIT-tmpx0l32
+formerly:
+- NOTE-tmpqsm5b
+paper: LIT-712
 title: 'Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont'
 version: 1
 history:
@@ -25,10 +28,10 @@ summary: >-
   "Dysbiosis" names both the disruption and the healthy adaptive
   response, and the stages have no operational boundaries.
 ---
-<!-- inactive-ok-file: THEORY-tmpwypmh — Proposed; filed from this batch, named as the theory this reading supports -->
+<!-- inactive-ok-file: THEORY-130 — Proposed; filed from this batch, named as the theory this reading supports -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named for a parallel in vocabulary, with no relation claimed -->
 
-# NOTE-tmpqsm5b: Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont
+# NOTE-556: Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont
 
 ## Contribution
 
@@ -134,13 +137,13 @@ All cited; this review reports them, it does not produce them.
 
 ## Connections
 
-- **Goulet et al. ([LIT-tmpkkylg](../literature.d/LIT-tmpkkylg.md)).** Both treat the coral as a consortium.
+- **Goulet et al. ([LIT-709](../literature.d/LIT-709.md)).** Both treat the coral as a consortium.
   Goulet et al. warn that the Adaptive Bleaching Hypothesis became
   "coral-centric" through wording. This review takes the hypothesis as the
   basis of stage 2 and writes it in host-centred terms. Goulet et al.'s
   octocoral case, where the same symbiont-density drop came by different
   routes, supports this review's C1 and is not cited by it.
-- **Hughes et al. ([LIT-tmpr2ulq](../literature.d/LIT-tmpr2ulq.md)).** The Figure 3 caption ends in reef phase
+- **Hughes et al. ([LIT-711](../literature.d/LIT-711.md)).** The Figure 3 caption ends in reef phase
   shifts to algae. Hughes et al. is experimental evidence for how that
   happens at reef scale after bleaching: through the loss of herbivory, not
   through anything in the coral's microbiome. The review cites other Hughes
@@ -160,7 +163,7 @@ All cited; this review reports them, it does not produce them.
 
 - Source, with Goulet et al., for the theory that coral bleaching is the
   breakdown of a regulated host–symbiont exchange reached by more than one
-  route ([THEORY-tmpwypmh](../theory.d/THEORY-tmpwypmh.md)). That theory takes C1 and C2 and declines C4 and
+  route ([THEORY-130](../theory.d/THEORY-130.md)). That theory takes C1 and C2 and declines C4 and
   C5, the microbial-driver claim and the three-stage definition.
 - No ML instruction; nothing for the anthology. The probiotic and
   microbiome-engineering suggestions of §4 are reef management.

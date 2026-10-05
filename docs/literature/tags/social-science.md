@@ -6,7 +6,7 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-94 of 708 LIT documents. Back to the [full index](../README.md).
+94 of 712 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
