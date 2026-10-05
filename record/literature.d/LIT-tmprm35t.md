@@ -1,0 +1,89 @@
+---
+status: Active
+status_note: 'read 2026-10-05 ([NOTE-tmpuvcpx](../notes.d/NOTE-tmpuvcpx.md)): the argument in full, the review of research paradigms skimmed, from the author''s manuscript in DTU''s repository. Worth reading for the model of drift. Under a cost gradient from management and an effort gradient from workers, activity migrates toward the boundary of acceptable performance. In defence-in-depth systems one actor''s breach of a defence has no visible effect, so defences erode unobserved. Major accidents come from the interaction of many decision makers adapting to local pressures, not from coincident errors. Built from accident analyses; not a quantitative model.'
+title: 'Risk management in a dynamic society: a modelling problem'
+version: 1
+history:
+- version: 1
+  date: '2026-10-05'
+  note: >-
+    Read in part: the author's manuscript in DTU's repository (orbit.dtu.dk;
+    40 pp.), the abstract and the sections from the introduction through
+    "Identification of constraints and safe boundaries" and the closing
+    discussion of adaptation, in full. The review of decision, management
+    and safety research paradigms in between was skimmed. Figures read from
+    captions. Page references are the manuscript's. `published:` is the
+    first of the issue month, Crossref giving no day. Not held in the
+    Anthology of the SOTA: a grep of its literature.d for "Rasmussen" found
+    nothing.
+tags:
+- society-and-governance
+- social-science
+- complex-systems
+date: '2026-10-05'
+published: '1997-11-01'
+doi: '10.1016/S0925-7535(97)00052-0'
+url: 'https://backend.orbit.dtu.dk/ws/files/158016663/SAFESCI.PDF'
+first_author: 'Rasmussen'
+keywords:
+- 'risk management'
+- 'migration toward the boundary'
+- 'boundaries of acceptable performance'
+- 'defence in depth'
+- 'sociotechnical system'
+- 'AcciMap'
+- 'functional abstraction'
+implementations: []
+summary: >-
+  Rasmussen (1997), Safety Science 27:183–213. Risk management is a control
+  problem spanning government, regulators, companies, management, staff
+  and work. Behaviour within a work space moves under an effort gradient
+  and a cost gradient toward the boundary of acceptable performance. In
+  defence-in-depth systems, defences degrade unobserved under cost
+  pressure. Accidents arise from many locally reasonable decisions.
+  Improvement means making boundaries visible, not fighting errors.
+---
+<!-- inactive-ok-file: THEORY-tmpj5hlr — Proposed; filed in this batch -->
+
+# LIT-tmprm35t: Risk management in a dynamic society: a modelling problem
+
+Jens Rasmussen (1997), *Safety Science* 27(2–3):183–213 —
+DOI-10.1016/S0925-7535(97)00052-0
+
+## Key takeaways
+
+- **Accidents are not coincidences.** Court reports from Bhopal,
+  Flixborough, Zeebrügge and Chernobyl show "a systematic migration of
+  organisational behaviour toward accident under the influence of pressure
+  toward cost-effectiveness in an aggressive, competitive environment"
+  (pp. 8–9). At Zeebrügge, decision makers in different parts of one company,
+  each optimising locally, "prepar[ed] the stage", and a single act
+  released it.
+- **Migration toward the boundary** (Figure 3). Actors search freely within
+  a work space bounded by administrative, functional and safety
+  constraints. Management supplies a cost gradient and work itself an
+  effort gradient. The result is "a systematic migration toward the
+  boundary of functionally acceptable performance".
+- **Defence in depth erodes itself.** When defences are redundant, "a local
+  violation of one of the defences has no immediate, visible effect".
+  Under cost pressure the defences "are likely to degenerate systematically
+  through time". Accidents are then "actually waiting for [their] release".
+- **Control, not error removal.** Risk management is a closed-loop control
+  problem across all levels of the sociotechnical system. For each hazard
+  one asks who the controllers are, their objectives, their information on
+  the actual state, their competence and their commitment.
+- **What helps.** Widening margins invites adaptation that consumes them,
+  and safety campaigns must push forever against the cost gradient. The
+  most promising approach is "an explicit identification of the boundaries
+  of safe operation together with efforts to make these boundaries visible
+  to the actors".
+
+## Standing in the record
+
+Filed on 2026-10-05 at the owner's request, as a supplement to the essay on
+organizational will. It is the organizational counterpart of a shrinking
+viability kernel, from the same domain as the essay's Northstar case. Its
+mechanism differs from Northstar's lock-in. Northstar's protective regime
+reproduces the emergency that justifies it, while Rasmussen's drift comes
+from routine optimisation eroding margins nobody sees. The account is
+[THEORY-tmpj5hlr](../theory.d/THEORY-tmpj5hlr.md).

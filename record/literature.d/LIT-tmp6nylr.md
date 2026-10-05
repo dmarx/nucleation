@@ -1,0 +1,87 @@
+---
+status: Active
+status_note: 'read 2026-10-05 ([NOTE-tmp1760r](../notes.d/NOTE-tmp1760r.md)): in full, from the authors'' accepted manuscript on List''s LSE page. Worth reading for a test of when a higher-level property is a cause in its own right. On a difference-making account, a higher-level property excludes its own realizer as the cause exactly when the effect would still follow had the property been realized differently (realization-insensitivity). Whether that holds is a fact about each causal system, not an a priori truth. Pernu ([LIT-147](LIT-147.md)) argues the neuroprosthetic example cannot carry it.'
+title: 'Nonreductive Physicalism and the Limits of the Exclusion Principle'
+version: 1
+history:
+- version: 1
+  date: '2026-10-05'
+  note: >-
+    Read in full: the accepted manuscript posted on Christian List's LSE
+    page (28 pp., "forthcoming in the Journal of Philosophy"), §§I–VI and
+    the appendix statements; proofs read for structure, not checked line by
+    line. Page references are the manuscript's. An earlier 2007 LSE working
+    paper version was also seen and not used. Crossref gives the year only;
+    `published:` is the first of September, the issue month (106(9)). Not
+    held in the Anthology of the SOTA: a grep of its literature.d for
+    "Menzies" and "exclusion principle" found nothing.
+tags:
+- metaphysics
+- philosophy-of-science
+date: '2026-10-05'
+published: '2009-09-01'
+doi: '10.5840/jphil2009106936'
+url: 'https://personal.lse.ac.uk/list/PDF-files/ListMenzies.pdf'
+first_author: 'List'
+keywords:
+- 'causal exclusion'
+- 'non-reductive physicalism'
+- 'difference-making'
+- 'proportionality'
+- 'realization-insensitivity'
+- 'downward exclusion'
+- 'mental causation'
+implementations: []
+summary: >-
+  List & Menzies (2009), Journal of Philosophy 106:475–502. On a
+  difference-making account of causation, Kim's exclusion principle is
+  false. A revised principle (a property and its realizer never both cause
+  the same effect) holds or fails system by system. The higher-level
+  property is the cause, and excludes its realizer, exactly when the
+  relation is realization-insensitive: the effect would still follow under
+  nearby alternative realizations.
+rivals:
+- LIT-147
+---
+<!-- inactive-ok-file: THEORY-tmp3fc4z — Proposed; filed in this batch -->
+
+# LIT-tmp6nylr: Nonreductive Physicalism and the Limits of the Exclusion Principle
+
+Christian List & Peter Menzies (2009), *Journal of Philosophy*
+106(9):475–502 — DOI-10.5840/jphil2009106936
+
+## Key takeaways
+
+- **Causes as proportional difference-makers** (§II). F makes a difference to
+  G iff in relevantly similar situations F → G and ¬F → ¬G. Condition (i)
+  rules out causes too unspecific, condition (ii) causes too specific: the
+  pigeon trained on red pecks because the target is red, not because it is
+  crimson.
+- **Kim's exclusion principle is false** on this account (§III). A property
+  can cause G although its realizer is causally sufficient for G.
+- **A revised principle** (§IV) says a property and its realizer never both
+  cause the same effect. Its truth is "a contingent matter": a
+  compatibility result gives necessary and sufficient conditions under
+  which both are causes. They require the higher-level relation to be
+  realization-sensitive.
+- **Downward exclusion** (§V). If the higher-level property M causes B, it
+  excludes its realizer N exactly when B is present in some closest worlds
+  where M holds without N. Then the higher-level relation is
+  realization-insensitive, and M is causally autonomous.
+- **The empirical claim.** The authors suggest the special sciences
+  "typically" require higher-level causal relations to be invariant under
+  changes of realization, so downward exclusion is common. That is an
+  observation about practice, not a result.
+
+## Standing in the record
+
+Filed on 2026-10-05 at the owner's request, as a supplement to the essay on
+organizational will. The essay's §5.3 asks what an agentive explanation of
+an organization adds over a mechanism. This paper offers a test: the
+organization-level property is the cause if the outcome would survive
+re-realizing it, with different people in the roles, different routes or
+different procedures. The account is [THEORY-tmp3fc4z](../theory.d/THEORY-tmp3fc4z.md).
+
+Pernu ([LIT-147](LIT-147.md)) argues that the neuroprosthetic example List and Menzies
+use supports mind–brain identity rather than autonomy. Declared as a rival
+reading.

@@ -1,0 +1,93 @@
+---
+status: Active
+status_note: 'read 2026-10-05 ([NOTE-tmpqb4at](../notes.d/NOTE-tmpqb4at.md)): in full, from the official CAIB report as archived by the UNT Libraries CyberCemetery. Worth reading as the Board''s finding that Columbia repeated Challenger''s organizational cause: technical anomalies normalized one decision at a time, under budget and schedule pressure, in a hierarchy that kept dissent from rising, with a safety organization dependent on the program it oversaw. Limits: a two-case comparison within one agency, written as an official finding; the chapter is unsigned, and its concept of normalization rests on Vaughan''s unread book ([LIT-tmp189we](LIT-tmp189we.md)).'
+title: 'History As Cause: Columbia and Challenger'
+version: 1
+history:
+- version: 1
+  date: '2026-10-05'
+  note: >-
+    Read in full: Chapter 8 of the Columbia Accident Investigation Board's
+    Report, Volume I (August 2003), §§8.1–8.6 and endnotes 1–49, printed
+    pp. 195–204, from
+    https://govinfo.library.unt.edu/caib/news/report/pdf/vol1/chapters/chapter8.pdf,
+    the Board's own website preserved by the University of North Texas
+    Libraries' CyberCemetery archive of defunct federal agencies' sites. It
+    is a U.S. government report, with no access notice. Appendices A and C
+    were checked for Diane Vaughan's role; the rest of the report was not
+    read. The chapter carries no byline, so `first_author` is the Board.
+    Vaughan was a Board researcher (Appendix C) and testified to it on 6
+    May 2003 (Appendix A); her part in writing the chapter is widely
+    reported but not stated in the report. The chapter cites her 1996 book
+    (endnote 3) for its central claim. No DOI. `published:` is the first of
+    August 2003, the month the report gives, no day being taken from the
+    document. Not held in the Anthology of the SOTA: a grep of its
+    literature.d for "Vaughan" and "Columbia Accident" found nothing.
+tags:
+- social-science
+- society-and-governance
+date: '2026-10-05'
+published: '2003-08-01'
+url: 'https://govinfo.library.unt.edu/caib/news/report/pdf/vol1/chapters/chapter8.pdf'
+first_author: 'Columbia Accident Investigation Board'
+keywords:
+- 'normalization of deviance'
+- 'Space Shuttle Columbia'
+- 'Challenger'
+- 'organizational culture'
+- 'safety organization'
+- 'production pressure'
+- 'organizational accidents'
+implementations: []
+summary: >-
+  Columbia Accident Investigation Board (2003), Report Vol. I ch. 8, pp.
+  195–204. Foam debris and O-ring erosion followed the same trajectory:
+  each anomaly was reinterpreted as acceptable and "in-family", and each
+  flight without disaster justified the next. Budget and schedule
+  pressure, a hierarchy that silenced dissent, and a dependent safety
+  organization sustained the pattern. "History is cause": Challenger's
+  institutional causes had not been fixed.
+extends:
+- LIT-tmp189we
+---
+<!-- inactive-ok-file: LIT-tmp189we — Deferred, unread; Vaughan's book, which the chapter applies -->
+<!-- inactive-ok-file: THEORY-tmpe60l0 — Proposed; filed in this batch -->
+
+# LIT-tmpimphc: History As Cause: Columbia and Challenger
+
+Columbia Accident Investigation Board (2003), "History As Cause: Columbia
+and Challenger", *Report, Volume I*, chapter 8, pp. 195–204
+
+## Key takeaways
+
+- **The claim** (p. 195). The two accidents share an organizational cause:
+  "History is not just a backdrop or a scene-setter. History is cause."
+  The causes of Challenger's institutional failure "have not been fixed".
+- **Normalization** (pp. 195–197). In every official analysis before
+  each accident, "evidence that the design was not performing as expected
+  was reinterpreted as acceptable and non-deviant". The first acceptance
+  set a precedent; the experience base stretched like "an elastic
+  waistband" to hold larger deviations; anomalies were classed
+  "in-family".
+- **No gamble seen from inside** (p. 197). Feynman's Russian-roulette
+  comparison is "only possible in hindsight"; "Taken one at a time, each
+  decision seemed correct."
+- **System effects** (pp. 197–199). A politically dependent agency under
+  strict budgets became "more of a business"; efficiency became a strong
+  signal and safety a weak one; flight-readiness sign-off by consensus
+  "renders no one accountable".
+- **Silence and dependence** (pp. 199–201). Engineers were asked to prove
+  it unsafe to fly; dissent did not rise through the hierarchy; safety
+  staff depended on the program they oversaw.
+- **Individuals still answerable** (p. 195). The Board's focus on context
+  "does not mean that individuals are not responsible and accountable".
+
+## Standing in the record
+
+Filed on 2026-10-05 at the owner's request, as a lawful substitute for
+Vaughan's book ([LIT-tmp189we](LIT-tmp189we.md)), which it extends: the chapter takes the
+book's account of how the Challenger decision normalized O-ring erosion and
+applies it to Columbia's foam strikes, citing the book for its central
+claim. For the essay it bears on §5.4 (a regime that reproduces itself) and
+§8.4 (a safety function that cannot correct the organization because it
+depends on it). The account is [THEORY-tmpe60l0](../theory.d/THEORY-tmpe60l0.md).

@@ -51,7 +51,6 @@ rivals:
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on JoJo -->
 <!-- inactive-ok-file: LIT-690 LIT-685 LIT-688 — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
-<!-- inactive-ok-file: LIT-684 LIT-687 — Deferred, unread; Fischer and Ravizza's book and Fischer's 1987 chapter, named in the account of the relation to THEORY-121 -->
 <!-- inactive-ok-file: THEORY-118 THEORY-121 — Proposed; the asymmetry and Fischer and Ravizza's account, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 

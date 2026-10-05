@@ -1,0 +1,70 @@
+---
+status: Deferred
+status_note: 'registered 2026-10-05 from Crossref, not read: no lawful full text could be reached (Cambridge Core is closed). Its design principles are read first-hand in Ostrom''s Nobel lecture ([LIT-tmp5731u](LIT-tmp5731u.md)), §4E, in the updated wording of Cox, Arnold & Villamayor-Tomás that she adopts there. Filed because an essay the owner is writing cites "Ostrom''s work on differentiated and polycentric governance". It stays Deferred until a copy is supplied, not on merit.'
+title: 'Governing the Commons: The Evolution of Institutions for Collective Action'
+version: 1
+history:
+- version: 1
+  date: '2026-10-05'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1017/CBO9780511807763: Cambridge University Press, print 30 November
+    1990, online 5 June 2012, ISBNs 9780521371018, 9780521405997). The
+    subtitle is the printed one; Crossref gives the main title only. Not
+    held in the Anthology of the SOTA: a grep of its literature.d for
+    "Ostrom" found nothing.
+tags:
+- society-and-governance
+- social-science
+- game-theory
+date: '2026-10-05'
+published: '1990-11-30'
+doi: '10.1017/CBO9780511807763'
+first_author: 'Ostrom'
+keywords:
+- 'common-pool resources'
+- 'collective action'
+- 'self-governance'
+- 'design principles'
+- 'institutional analysis'
+- 'tragedy of the commons'
+implementations: []
+summary: >-
+  Ostrom (1990), Cambridge University Press: from case studies of
+  long-enduring and failed common-pool resource institutions, argues that
+  resource users can and do govern commons themselves, without either
+  privatisation or state control, and proposes design principles shared by
+  the institutions that lasted. Unread: the principles are read in
+  Ostrom's Nobel lecture [LIT-tmp5731u](LIT-tmp5731u.md).
+extended_by:
+- LIT-tmp5731u
+---
+
+# LIT-tmpm6dmo: Governing the Commons: The Evolution of Institutions for Collective Action
+
+Elinor Ostrom (1990), *Governing the Commons: The Evolution of Institutions
+for Collective Action*, Cambridge: Cambridge University Press —
+DOI-10.1017/CBO9780511807763
+
+## Key takeaways
+
+*Registered, not read.* The Nobel lecture ([LIT-tmp5731u](LIT-tmp5731u.md)) says how the book's
+design principles were reached and how they have been revised since:
+
+- After coding many cases of successful and failed systems, Ostrom gave up
+  the hope that *specific* rules predict success: they "varied extensively
+  across sites".
+- "Moving up a level in generality", she called the regularities present in
+  the long-surviving systems and absent from the failures "design
+  principles". She did not mean the users had them in mind, and later
+  wrote that "best practices" might have been the better term (n. 5).
+- The lecture lists them in the updated form of Cox, Arnold &
+  Villamayor-Tomás (2009), which splits principles 1, 2 and 4; the book's
+  own wording was not seen.
+
+## Standing in the record
+
+Filed on 2026-10-05 at the owner's request, for an essay's §8.2. What the
+essay cites Ostrom for, polycentric governance, is the subject of the
+lecture rather than of this book, whose topic is self-governed common-pool
+resources. The account is [THEORY-tmpsk5aw](../theory.d/THEORY-tmpsk5aw.md), sourced on the lecture.
