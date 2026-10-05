@@ -1,0 +1,145 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmpuu6kh](../notes.d/NOTE-tmpuu6kh.md)), main text and methods; the supplement was out of reach. Worth reading as the controlled experiment behind the claim that reef recovery after bleaching depends on an ecological interaction, not only on surviving corals. On an inshore Great Barrier Reef crest after the 1998 bleaching, roofless cages kept large and medium fishes out of four 25 m² plots for 30 months. Macroalgae rose to a mean of 56% cover in the cages against 4.1% and 1.7% in partial cages and open plots. Coral cover in the cages rose only from 6.0% to 7.7%, against 19.2% and 20.2%, because recruitment was about two-thirds lower and mortality of established colonies more than double. It is one site with four replicates per treatment. The cages excluded all large and medium fishes, not herbivores alone, and the macroalgal state vanished within 30 days of reopening them.'
+title: 'Phase Shifts, Herbivory, and the Resilience of Coral Reefs to Climate Change'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full (Results and Discussion, Conclusions, Experimental
+    Procedures, figure captions, references) from the publisher's
+    article-in-press PDF (Current Biology 17, 1–6, "Please cite this
+    article in press"), as posted for course reading by Bennington College
+    (bennington.edu/sites/default/files/sources/docs/Sherman_Hughes et al.
+    Curr Biol 2007.pdf). The article is in Elsevier's open archive under
+    its open-access user licence, which permits non-commercial
+    redistribution, so that copy is lawful. The publisher's own copies at
+    cell.com and sciencedirect.com returned Cloudflare bot challenges and
+    were not pursued. The James Cook University and University of Tasmania
+    repository deposits returned 401 (restricted), and the figshare record
+    is metadata only. The Supplemental Data (Figures S1–S3, Movies S1–S2,
+    the coral tissue-thickness and fecundity measurements) sit on cell.com
+    behind the same challenge and were not read. Text extracted with
+    PyMuPDF; "±" and "×" come out as "6" and "3" in the extraction and
+    were read as such. Final pagination is 17(4):360–365. `published:` is
+    8 February 2007, the online date printed in the article and given by
+    Europe PMC; Crossref gives only February 2007. Not held in the
+    Anthology of the SOTA: a grep of its literature.d for "Hughes",
+    "herbivory", "phase shift" and the DOI found nothing.
+tags:
+- ecology
+- natural-sciences
+- complex-systems
+date: '2026-10-04'
+published: '2007-02-08'
+doi: '10.1016/j.cub.2006.12.049'
+first_author: 'Hughes'
+keywords:
+- 'phase shift'
+- 'regime shift'
+- 'resilience'
+- 'herbivory'
+- 'coral bleaching'
+- 'macroalgae'
+- 'coral recruitment'
+- 'trophic cascade'
+- 'Great Barrier Reef'
+implementations: []
+summary: >-
+  Hughes et al. (2007), Current Biology 17(4):360–365. A replicated
+  fish-exclusion experiment at Orpheus Island, Great Barrier Reef, begun
+  in 2000 after the 1998 mass bleaching: four roofless 5 × 5 m cages, four
+  partial cages and four open plots, over 30 months. Excluding large and
+  medium fishes produced a phase shift to Sargassum-dominated macroalgae.
+  Coral recovery was suppressed, through about two-thirds lower
+  recruitment and more than double the mortality of surviving colonies.
+  In the controls, coral cover nearly doubled to 20%, mainly by
+  recruitment of taxa that bleaching had removed locally. Reopened cages
+  lost their macroalgae within 30 days.
+---
+
+# LIT-tmpr2ulq: Phase Shifts, Herbivory, and the Resilience of Coral Reefs to Climate Change
+
+Terence P. Hughes, Maria J. Rodrigues, David R. Bellwood, Daniela
+Ceccarelli, Ove Hoegh-Guldberg, Laurence McCook, Natalie Moltschaniwskyj,
+Morgan S. Pratchett, Robert S. Steneck and Bette Willis (2007), *Current
+Biology* 17(4):360–365 — DOI-10.1016/j.cub.2006.12.049
+
+## Key takeaways
+
+- **Removing large fishes after bleaching induced a phase shift.** Inside
+  the cages, herbivorous fish biomass fell to 0.45 kg/m² per hour of video,
+  against 4.29 in partial cages and 3.12 in open plots. Macroalgal cover
+  reached up to 91% and averaged 56% ± 21% (SE) after 30 months, against
+  means of 4.1% and 1.7% in the controls. Final algal biomass was 1363,
+  146 and 68 g wet weight per m². Sargassum, absent from the crest before,
+  grew 3 m tall.
+- **Coral recovery ran through recruitment and survival, and both were
+  suppressed.** Coral cover rose from 6.0% to 7.7% in cages, but to 19.2%
+  and 20.2% in partial cages and open plots. Recruits per 25 m² were 39,
+  108 and 118. Mortality of colonies established before the experiment was
+  24.2%, 9.8% and 11.3%. In the cages the number of colonies fell by 26%;
+  elsewhere it rose 14–16%. The control recovery was "primarily because of
+  recruitment of species that had been locally extirpated by bleaching":
+  Acropora gave 246 of the 1062 recruits.
+- **The shifted state was not self-maintaining at this scale.** When the
+  mesh was removed, macroalgal cover fell from 53% to 13% in 12 days and to
+  about zero in 30 days under grazing (citing Bellwood, Hughes & Hoey
+  2006).
+- **The management inference is the authors' extrapolation.** That local
+  control of fishing gives "some insurance" against bleaching is argued
+  from the experiment, but bleaching was not manipulated or repeated within
+  it.
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, as one of four readings on
+corals as composite systems (with [LIT-tmpkkylg](LIT-tmpkkylg.md), [LIT-tmpx0l32](LIT-tmpx0l32.md) and
+[LIT-tmpm09g4](LIT-tmpm09g4.md)). No anthology topic holds reef ecology. Its management
+conclusions are about fisheries, not machine-learning practice.
+
+**The owner's question.** The owner's note: "Experimental evidence that
+reef-level recovery depends on ecological interactions, rather than simply
+the individual persistence of its corals." The core of that is well
+supported, and more strongly than the note says. Recovery in the controls
+came mostly from new colonies, recruits of taxa the bleaching had wiped out
+on that crest. Excluding large fishes cut recruitment and also doubled the
+mortality of the colonies that had survived bleaching. So even the
+"individual persistence" the note contrasts with depended on the
+interaction. Four qualifications:
+
+- **"Reef-level" is a 25 m² plot level.** The experiment covers 300 m² in
+  one bay of one inshore island. The plots' recovery depended on larvae
+  arriving from the wider reef, which the experiment does not manipulate.
+- **The manipulated interaction is fish exclusion.** The cages kept out all
+  large and medium fishes, predators included. Herbivory is identified as
+  the operative interaction by the macroalgal response and by the rapid
+  grazing after the cages were opened. It is not isolated from predation,
+  and small fishes increased inside the cages.
+- **How macroalgae suppress corals is inferred.** The authors read the
+  shift in recruit composition toward shade-tolerant Fungia and Euphyllia
+  as an effect of shading. The sublethal and fecundity effects are in the
+  supplement, which was not read.
+- **"Phase shift" here does not mean an alternative stable state.** The
+  algal state collapsed within 30 days once fishes returned. The
+  experiment therefore shows that recovery depends on a continuing
+  interaction, not that the reef has two self-maintaining states. The
+  authors do not claim hysteresis, and the reversal is evidence against it
+  at this scale.
+
+**Where it meets the record.** The record holds no ecology of communities
+or ecosystems, and has no topic word for it; `complex-systems` is the
+nearest true word for a state of the whole maintained by an interaction
+among its parts. Wilson and Barker ([LIT-168](LIT-168.md)) place the coral reef as a
+group that is a living agent but not a Darwinian individual. This paper is
+evidence that what keeps a reef coral-dominated after a disturbance is an
+interaction among its members. That is the kind of fact a physiological
+reading of the reef as one living system would need, and also the kind that
+a reading of the reef as an ecosystem of separate organisms explains
+without strain. It does not decide between them. The record's account of
+disorder as an alternative stable state held by self-reinforcing loops
+(Borsboom, [LIT-547](LIT-547.md)) uses the same vocabulary of shifted states and
+resilience. This paper's reversal within a month is a reminder that a
+shifted state need not be self-sustaining. No relation is declared: the
+paper builds on, tests or rivals nothing the record holds.

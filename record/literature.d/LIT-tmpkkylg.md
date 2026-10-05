@@ -1,0 +1,138 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmpouif2](../notes.d/NOTE-tmpouif2.md)); worth reading as a short, explicit statement of why a coral should be studied as a composite of host and microbes rather than as an animal with passengers. It is a mini-review with no data of its own (about 3,700 words), and its strongest point is conceptual: traits such as thermal tolerance belong to host–symbiont combinations, not to either partner. The physiological evidence it cites is thin and partly not from corals: its one demonstration that a combination is "not necessarily the sum of its parts" is an oxygen-flux experiment in the sea anemone Exaiptasia. It poses, and does not answer, whether the coral holobiont is a unit of selection.'
+title: 'Conceptualization of the Holobiont Paradigm as It Pertains to Corals'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full from the PubMed Central copy (PMC7538806, CC BY 4.0),
+    fetched as JATS XML through Europe PMC: abstract, Introduction, all
+    sections through the Conclusion, the 95-item reference list checked
+    for the works the argument rests on. Figure 1 is known from its
+    caption and the text only; the image was not viewed. The brief's
+    citation was wrong: the paper with this exact title is Goulet, Erill,
+    Ascunce, Finley & Javan, Frontiers in Physiology 11:566968 (2020),
+    not Stévenne, Micha, Plumier & Roberty (2021). Crossref, the PMC
+    record and the article agree on the authors, title and DOI.
+    `published:` is 23 September 2020, the epub date in the article and
+    Crossref. Not held in the Anthology of the SOTA: a grep of its
+    literature.d for "holobiont", "Goulet" and the DOI found nothing.
+tags:
+- natural-sciences
+- ecology
+- individuation
+- philosophy-of-biology
+- mereology
+- complex-systems
+date: '2026-10-04'
+published: '2020-09-23'
+doi: '10.3389/fphys.2020.566968'
+first_author: 'Goulet'
+keywords:
+- 'coral holobiont'
+- 'Symbiodiniaceae'
+- 'microbiome'
+- 'specificity'
+- 'host-symbiont genotypic combinations'
+- 'bleaching'
+- 'unit of selection'
+implementations: []
+summary: >-
+  Goulet, Erill, Ascunce, Finley & Javan (2020), Frontiers in Physiology
+  11:566968, a review. A coral is a consortium: the animal plus the
+  Symbiodiniaceae, bacteria, archaea, fungi and viruses in its body, mucus
+  and skeleton, and neighbours are excluded by definition. Membership can
+  change, so one colony may be a different holobiont at different times.
+  Traits such as thermal tolerance belong to the host–symbiont
+  combination: not every Durusdinium is heat tolerant, and a novel
+  anemone–alga pairing gave higher oxygen flux under heat than both
+  natural ones. Measuring
+  both partners shows different routes to the same bleaching outcome.
+  Whether the holobiont is the unit of selection is asked, not answered.
+---
+
+# LIT-tmpkkylg: Conceptualization of the Holobiont Paradigm as It Pertains to Corals
+
+Tamar L. Goulet, Ivan Erill, Marina S. Ascunce, Sheree J. Finley and
+Gulnaz T. Javan (2020), *Frontiers in Physiology* 11:566968 —
+DOI-10.3389/fphys.2020.566968
+
+## Key takeaways
+
+- **The coral holobiont is defined by location, not by organisation.** It
+  is the coral plus "the microbiota found within the coral body, its mucus,
+  and its skeleton" (after Rohwer et al. 2002), and it excludes crabs,
+  shrimp and fish that live with corals in mutualism (Introduction). The
+  boundary is drawn where the organisms are, not where the dependencies
+  close.
+- **The holobiont's membership is not fixed.** Symbiodiniaceae are largely
+  host-specific and do not change genus under stress, though the
+  proportions of existing types can shuffle. Bacteria include a core and a
+  transient fraction and vary with geography and with microhabitat (mucus,
+  tissue, skeleton). So "the same coral colony may represent a different
+  holobiont at different times" (section on specificity).
+- **Traits belong to combinations.** "Thermal tolerance" should be
+  attributed at the holobiont level, not to a partner: Durusdinium trenchii
+  is heat tolerant, but not every Durusdinium is. The non-additivity
+  evidence is Goulet et al. 2005: a laboratory pairing of Bermuda
+  Exaiptasia anemones with Symbiodinium algae gave higher oxygen flux at 32
+  and 34 °C than either natural host–symbiont combination. That is an
+  anemone, not a coral.
+- **Measuring both partners separates routes to one outcome.** In two
+  Caribbean octocorals at +3 °C, Symbiodiniaceae density fell 26% and 35%.
+  Normalised to host lipid, the first lost symbionts per host cell and the
+  second lost host cells along with their symbionts (McCauley et al. 2018,
+  as reported). A symbiont-density count alone cannot tell the two apart.
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, as one of four readings on
+corals as composite systems, with the bleaching review ([LIT-tmpx0l32](LIT-tmpx0l32.md)),
+the moonlight-spawning experiment ([LIT-tmpm09g4](LIT-tmpm09g4.md)) and the herbivore-exclusion
+experiment ([LIT-tmpr2ulq](LIT-tmpr2ulq.md)). No anthology topic holds coral symbiosis, and the
+paper carries no instruction for machine-learning practice.
+
+**The owner's question.** The owner's note: it "establishes the
+physiological and conceptual case for studying coral–symbiont organization
+as a composite system." This record reads it for that question. The paper
+makes the **conceptual** case well. Its four "holistic approach"
+arguments say that partner-level labels mislead (Durusdinium), that
+cultured partners behave differently in hospite, that host and symbiont
+measures together reveal mechanism (the octocorals), and that terms like
+"host" and "symbiont" smuggle in assumptions about who controls whom. The
+**physiological** case is thinner than "establishes" suggests. It is
+carried by a few cited studies, the one non-additivity result is in an
+anemone, and the authors themselves say that most of the microbiome is
+barely known and that partner identification is "primarily descriptive and
+correlative". So the paper gives reasons to treat the coral as a composite
+and a research programme for doing so. It does not show that the composite
+is organised as one system, and it does not try.
+
+**Where it meets the record's individuality holdings.** The paper's own
+open question, "is the coral holobiont the unit of selection?", is the
+question Lloyd's entry ([LIT-160](LIT-160.md)) argues at length in its §4.6 on
+holobionts. Lloyd's interactor role needs only a higher-level character
+whose relation to fitness cannot be reduced to partner-level characters.
+The Exaiptasia result, where a combination's oxygen flux is not predicted
+by either partner, is evidence of that kind of character, at one trait in a
+non-coral. Goulet et al. do not cite Lloyd or use her vocabulary. Wilson and
+Barker ([LIT-168](LIT-168.md)) list the coral reef as a polyp–zooxanthellae–calcite complex
+whose status is unsettled. Its placement is "group, living, not Darwinian".
+This paper is about the colony-level holobiont, a level below the reef that
+[LIT-168](LIT-168.md) does not place. Baedke ([LIT-167](LIT-167.md)) argues that self-maintenance
+criteria make the holobiont the individual and the host "a mere part", and
+he rejects that. This paper's location criterion is neither a closure nor a
+persistence criterion. Its admission that membership changes over time
+counts against any criterion that needs a fixed set of parts. Montévil and
+Mossio ([LIT-582](LIT-582.md)) offer the tendency to closure as a way to draw boundaries
+between symbionts. The paper's octocoral and anemone cases are the kind of
+host-and-symbiont dependence that measure would need, and nobody has
+computed it on them. O'Malley and Parke ([LIT-210](LIT-210.md)) report that whether host
+and microbes form one evolutionary unit is "still disputed". Nothing here
+changes that.
+
+No relation is declared. The paper argues within coral biology and cites
+none of the philosophical works, and none of `extends`, `compared_against`,
+`corrects` or `rivals` holds.

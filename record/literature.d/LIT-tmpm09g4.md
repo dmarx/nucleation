@@ -1,0 +1,143 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmptrlu9](../notes.d/NOTE-tmptrlu9.md)); worth reading as the record''s one experiment in which an environmental cue is manipulated and a collective biological timing event fails. Colonies of Acropora millepora held in outdoor tanks spawned with the reef only under natural night light. Colonies given artificial light after sunset, and colonies kept dark, did not spawn that night (N = 6, 5, 5). A second experiment found that blue, green and white nocturnal light delayed spawning by 6–8 h or 2 nights and red light did not. The signalling cascade (melanopsin-like opsins, neuropeptide G-protein-coupled receptors) is a model proposed from transcript changes and is not tested. The study shows each colony tracking a shared cue; it does not test coordination between colonies.'
+title: 'Signaling cascades and the importance of moonlight in coral broadcast mass spawning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full from the PubMed Central copy (PMC4721961, CC BY 4.0),
+    fetched as JATS XML through Europe PMC: abstract, eLife digest,
+    Introduction, Results and discussion, all of Materials and methods,
+    every figure and figure-supplement caption, and the published
+    decision letter and author response. Figures were read from their
+    captions and the text; the images and Supplementary files 1–3 (gene
+    lists, GO tables, qPCR candidates) were not viewed. The brief's
+    citation (Kaniewska et al., eLife 2015) is correct: Kaniewska, Alon,
+    Karako-Lampert, Hoegh-Guldberg & Levy, eLife 4:e09991. `published:`
+    is 15 December 2015, the publication date in the article and
+    Crossref. Not held in the Anthology of the SOTA: a grep of its
+    literature.d for "Kaniewska", "spawning" and the DOI found nothing
+    relevant (one unrelated hit on a language model named Moonlight).
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-10-04'
+published: '2015-12-15'
+doi: '10.7554/eLife.09991'
+first_author: 'Kaniewska'
+keywords:
+- 'coral mass spawning'
+- 'Acropora millepora'
+- 'moonlight'
+- 'light pollution'
+- 'transcriptome'
+- 'melanopsin'
+- 'G-protein-coupled receptors'
+- 'neuropeptides'
+- 'reproductive chronobiology'
+implementations: []
+summary: >-
+  Kaniewska, Alon, Karako-Lampert, Hoegh-Guldberg & Levy (2015), eLife
+  4:e09991. Acropora millepora colonies from Heron Island, held in
+  outdoor tanks for the eight days before the 2011 spawning night,
+  spawned with the reef under ambient night light (21:30–22:30). They did
+  not spawn that night under added light after sunset (N = 5) or under
+  darkness (N = 5). 184 transcripts varied only on the spawning day, rose
+  around gamete release in ambient colonies, did not change in dark ones
+  and changed early in lit ones. Spawning-night genes were enriched for
+  G-protein-coupled signalling; the proposed melanopsin and neuropeptide
+  cascade is untested.
+---
+
+# LIT-tmpm09g4: Signaling cascades and the importance of moonlight in coral broadcast mass spawning
+
+Paulina Kaniewska, Shahar Alon, Sarit Karako-Lampert, Ove Hoegh-Guldberg
+and Oren Levy (2015), *eLife* 4:e09991 — DOI-10.7554/eLife.09991
+
+## Key takeaways
+
+- **Nocturnal light is necessary for the spawning night, in this setup.**
+  Sixteen reproductively mature A. millepora colonies were held in outdoor
+  flow-through tanks at Heron Island (southern Great Barrier Reef) from
+  just before the November 2011 spawning. Ambient colonies (N = 6) spawned
+  at about 21:30–22:30 on 16 November, as the reef did. Colonies given
+  artificial light of about 5 µmol quanta m⁻² s⁻¹ from 18:15 to midnight
+  (N = 5) did not spawn, and neither did colonies shaded from sunset to
+  sunrise (N = 5).
+- **A spawning-night transcriptional programme.** Of 12,384 genes, 184
+  were highly variable only on the spawning day. They changed (mostly
+  rising) just before and during gamete release in ambient colonies, did
+  not change in dark colonies, and changed prematurely (18:15, 19:30) in
+  lit ones. Up-regulated genes (177) were enriched for G-protein-coupled
+  signalling, signal transduction and respiration. Down-regulated genes
+  (29) were enriched for rhythmic processes. The induced genes include two
+  melanopsin-like homologs and many G-protein-coupled receptors (GPCRs).
+- **Lunar variation in transcription.** In August, outside the spawning
+  month, midnight samples at full moon and at new moon differed. The genes
+  higher at full moon included cryptochromes 1 and 2 and thyrotroph
+  embryonic factor.
+- **Spectrum matters (a 2006 experiment, 90 colonies).** Six hours of
+  added light after sunset in blue, green or white (PAR) light, at three
+  intensities, delayed spawning by 6–8 h or by two nights. Red light did
+  not, and those colonies spawned at 21:30 with the field and the
+  controls.
+- **The mechanism is a proposal.** Moonlight (or another signal) acts on
+  melanopsin-like photoreceptors and/or neuropeptides, which start GPCR
+  cascades that lead to follicle rupture and gamete release (Figure 4).
+  The authors say they have no direct evidence that the melanopsin-like
+  homologs are photopigments.
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, as one of four readings on
+corals as composite systems (with [LIT-tmpkkylg](LIT-tmpkkylg.md), [LIT-tmpx0l32](LIT-tmpx0l32.md) and
+[LIT-tmpr2ulq](LIT-tmpr2ulq.md)). No anthology topic holds coral reproductive biology, and it
+carries no instruction for machine-learning practice.
+
+**The owner's question.** The owner's note: "A concrete biological example
+of coordinated collective timing through environmental signaling and
+endogenous mechanisms." The paper supports the environmental-signalling
+half experimentally. Remove or displace the night-light regime and colonies
+miss the spawning night (2011) or shift it (2006). It supports the
+endogenous half only as correlation. Transcript changes line up with
+spawning and with the light treatments, but nothing is knocked down,
+blocked or replaced, and no colony is held in constant conditions to show a
+free-running clock. The introduction itself says how exogenous cues "function
+together with endogenous mechanisms … is unknown".
+
+There are two caveats for the "collective" in the owner's note.
+
+- **The coordination shown is common-cue synchrony, not coupling.** Each
+  colony was treated on its own, and the result is that each one's timing
+  depends on the same external signal. Nothing in the paper tests whether
+  colonies cue one another. The tachykinin-receptor speculation about a
+  pheromonal trigger is the only gesture that way. Synchrony across
+  colonies, and across the 130-odd species of the Great Barrier Reef
+  spawning, is taken from earlier literature, not measured here.
+- **Which feature of the night matters is not resolved.** On the
+  sampling days before the spawning night, moonrise fell between 21:00 and
+  23:00, so ambient colonies had a dark interval after sunset and then
+  moonlight. The spawning night's own moonrise is in a supplementary file
+  not read. The lit colonies had light through the dark interval and
+  darkness after midnight. The dark colonies had the dark interval but no
+  moonlight after it. Both treatments abolished spawning, so
+  the result is that the natural pattern of night light is needed. It does
+  not isolate moonlight as such. The authors also list "the onset of
+  darkness" among candidate cues. This reading is the record's.
+
+The synchrony here is collective in the sense the record's network-science
+and complex-systems words use, many units falling into step. It is the kind
+produced by a common drive, which is the simplest mechanism, not by
+interaction between units. Von Scheve and Ismer ([LIT-696](LIT-696.md)) make the same
+distinction for collective emotion: their minimal case, drivers in one
+traffic jam converging on one event without mutual awareness, is
+convergence by a shared cause. Coral mass spawning on this evidence is a
+biological instance of that minimal case. Nothing in this paper bears on
+the individuality holdings ([LIT-160](LIT-160.md), [LIT-167](LIT-167.md), [LIT-168](LIT-168.md)), which concern what
+counts as one organism. The colony is the unit throughout, and the
+algal symbionts are mentioned only to exclude their DNA from the qPCR.
+
+No relation is declared: the paper builds on, compares with, corrects and
+rivals nothing the record holds.

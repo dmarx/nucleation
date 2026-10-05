@@ -1,0 +1,151 @@
+---
+status: Active
+status_note: 'read in full 2026-10-04 ([NOTE-tmpqsm5b](../notes.d/NOTE-tmpqsm5b.md)); worth reading as the statement of the "adaptive dysbiosis" account of coral bleaching, which treats bleaching as three successive holobiont states: microbial buffering, reorganisation of the algal partners by shuffling or switching, and an irreversible breakdown ending in death. It is a review with no data of its own, and the account is a proposal. Its own text says that bacterial shifts during bleaching cannot yet be read as cause or consequence, so the title''s "microbial dysbiosis" claims more than the body supports.'
+title: 'Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont'
+version: 1
+history:
+- version: 1
+  date: '2026-10-04'
+  note: >-
+    Read in full from the PubMed Central copy (PMC7692791, CC BY 4.0),
+    fetched as JATS XML through Europe PMC: abstract, §§1–4 including
+    every subsection, the captions of Figures 1–3, and the 275-item
+    reference list checked for the works the argument rests on. Figures
+    were known from their captions, which for Figure 3 is a full
+    description of the model; the images were not viewed. The brief's
+    citation (Boilard et al., Microorganisms 2020) is correct: Boilard,
+    Dubé, Gruet, Mercière, Hernandez-Agreda & Derome, Microorganisms
+    8(11):1682. `published:` is 29 October 2020, the publication date in
+    the article and Crossref. Not held in the Anthology of the SOTA: a
+    grep of its literature.d for "holobiont", "Boilard", "bleaching" and
+    the DOI found nothing.
+tags:
+- natural-sciences
+- ecology
+- complex-systems
+- individuation
+date: '2026-10-04'
+published: '2020-10-29'
+doi: '10.3390/microorganisms8111682'
+first_author: 'Boilard'
+keywords:
+- 'adaptive dysbiosis hypothesis'
+- 'coral bleaching'
+- 'holobiont'
+- 'microbiota'
+- 'Symbiodiniaceae'
+- 'metagenomic plasticity'
+- 'shuffling and switching'
+implementations: []
+summary: >-
+  Boilard, Dubé, Gruet, Mercière, Hernandez-Agreda & Derome (2020),
+  Microorganisms 8(11):1682, a review. Bleaching, the breakdown of the
+  coral–dinoflagellate symbiosis, is redefined as a succession of three
+  holobiont dysbiosis stages: (i) the microbiota buffers the stress and
+  keeps essential functions; (ii) the algal partners are reorganised by
+  shuffling or switching, with or without transient bleaching; (iii) the
+  stress exceeds both buffers, symbionts are lost for good, opportunists
+  invade and the coral dies, and at reef scale algae take over. The
+  stages are a proposal, with no criteria to tell them apart, and the
+  authors concede that microbial shifts are not shown to cause bleaching.
+---
+
+# LIT-tmpx0l32: Defining Coral Bleaching as a Microbial Dysbiosis within the Coral Holobiont
+
+Aurélie Boilard, Caroline E. Dubé, Cécile Gruet, Alexandre Mercière,
+Alejandra Hernandez-Agreda and Nicolas Derome (2020), *Microorganisms*
+8(11):1682 — DOI-10.3390/microorganisms8111682
+
+## Key takeaways
+
+- **Bleaching is a three-stage holobiont trajectory (§3, Figure 3).** The
+  first stage is adaptive dysbiosis without Symbiodiniaceae restructuring.
+  The second is adaptive dysbiosis with restructuring (shuffling or
+  switching), with or without transient bleaching. The third is
+  "maladaptive/traumatic" dysbiosis, with irreversible loss of
+  Symbiodiniaceae, invasion by opportunists and death. The Figure 3 caption
+  carries the third stage on to "a reef ecosystem dominated by algae and
+  cyanobacteria (phase shifts)".
+- **The mechanism proposed is buffering by redundancy.** The microbiota is
+  said to confer resistance through functional redundancy and "metagenomic
+  plasticity", meaning the gain or loss of microbial members and genes
+  within a host generation. The examples are reported from other work:
+  diazotroph and cyanobacteria increases under heat, heterotrophic feeding
+  that meets from 0–35% (Porites) up to 100% (Montipora capitata) of needs
+  during bleaching, and Durusdinium as a "transitional helper" displaced
+  again 2–3 years after a bleaching event.
+- **The causal role of microbes is not established, on the authors' own
+  account.** Bleaching "is sometimes accompanied by changes in the
+  coral-associated bacterial community" (§2.3.1). Vibrio rose from about
+  0 to 30% relative abundance in heat-bleached corals and returned to about
+  0 in resilient ones (Bourne et al. 2008), but "current knowledge makes
+  it impossible to disentangle" consequence from cause. Microbiome shifts
+  occur "without inferring a causative link" to bleaching states (§3.1).
+- **Bleaching is a breakdown of a regulated exchange.** The review collects
+  the regulators. The host controls symbiont density and diversity through
+  tissue compounds, digestion of symbionts and limits on nutrient access.
+  Bacteria shift the nitrogen balance that dinoflagellate density depends
+  on. Under thermal stress the host can reject symbionts through apoptosis,
+  autophagy, exocytosis, detachment or necrosis. Under reduced nutrients
+  the symbiosis can shift from mutualism to parasitism (§§1, 2.2, 2.3.1,
+  3.2).
+
+## Standing in the record
+
+Filed on 2026-10-04 at the owner's request, with Goulet et al. on the
+holobiont paradigm ([LIT-tmpkkylg](LIT-tmpkkylg.md)), Kaniewska et al. on moonlight and
+spawning ([LIT-tmpm09g4](LIT-tmpm09g4.md)) and Hughes et al. on herbivory and reef resilience
+([LIT-tmpr2ulq](LIT-tmpr2ulq.md)). No anthology topic holds coral physiology. The review's
+§4 discusses microbiome manipulation as a conservation measure, which is
+reef management, not machine-learning practice.
+
+**The owner's question.** The owner's note: it "develops a proposed account
+of bleaching through breakdown and reorganization of host–symbiont
+relationships; useful for our regulatory-disruption example." That
+description is accurate, and the word "proposed" is right. Breakdown and
+reorganisation are the content of stages 3 and 2. For a
+regulatory-disruption example, the review's best material is not its
+headline. It is the catalogue of who regulates whom: host over symbiont
+density, bacteria over nitrogen supply, symbiont ROS over host tolerance.
+That makes bleaching the failure of a multi-party regulated exchange, and
+the reviewed literature supports that well. Three limits apply to using
+it.
+
+- The microbial half of the account is a hypothesis that the authors say
+  the evidence cannot yet test.
+- "Dysbiosis" is defined in §1 as the "unhealthy, disrupted state", but
+  stages 1 and 2 are states in which "the coral holobiont remains healthy".
+  The word therefore covers both the disruption and the successful response
+  to it.
+- No observable marks the transitions between stages, and "buffering
+  capacity" is not measured or defined.
+
+So the review is a good source for the shape of the account and for what
+regulates what, and a weak one for the claim that microbes drive bleaching.
+
+**Where it meets the record's individuality holdings.** §3.1 ends: "The
+coral holobiont can therefore be considered as a selective unit." The
+support is one citation reporting that stress-induced microbiota changes
+were transmitted to offspring. Lloyd's entry ([LIT-160](LIT-160.md)) says that this kind
+of claim needs care about which role is meant. Transmission of microbiota
+bears on the holobiont as a reproducer (heritability across generations),
+not on it as an interactor or a manifestor of adaptation. The review does
+not distinguish the roles. It does cite Roughgarden, Gilbert, Rosenberg,
+Zilber-Rosenberg and Lloyd (2018) on holobionts as units of selection, but
+for the role of vertical transmission, not for the conclusion.
+Baedke ([LIT-167](LIT-167.md)) would read the three-stage arc as a holobiont that
+reorganises its own closure regime under stress: an "overcomer" rather
+than a "persister". If that reading held, a holobiont would meet the
+criterion Baedke reserves for organisms (his C7 in [NOTE-148](../notes.d/NOTE-148.md)). The review
+makes no such claim. Its "adaptive" label is a hypothesis, and whether the
+host, the microbes or neither controls the reorganisation is exactly what
+it leaves open. Montévil and Mossio's closure of constraints ([LIT-582](LIT-582.md))
+is defined by mutual production among constraints, and it says nothing
+about a regulated response to stress, which is this review's subject. The
+record holds no work that relates the two.
+
+No relation is declared. The review neither builds on nor tests any work
+the record holds. Goulet et al. ([LIT-tmpkkylg](LIT-tmpkkylg.md)) caution against the
+host-centred framing of the Adaptive Bleaching Hypothesis that this review
+adopts. That is a difference of framing, not rival accounts of bleaching,
+and neither paper cites the other.
