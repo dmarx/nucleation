@@ -27,7 +27,7 @@ summary: >-
   S^(d−1), the same exponent at every depth. Active for the kernel regime
   on uniform spherical data, where every step is proved. It says nothing
   about networks whose kernel moves.
-extended_by:
+presupposed_by:
 - THEORY-084
 ---
 <!-- inactive-ok-file: THEORY-019 THEORY-084 THEORY-080 — Proposed; named in Connections, nothing here rests on them -->
@@ -122,7 +122,7 @@ theorems, consistent with them.
   irreducibles. Here the group is the rotation group and the multiplicities
   are N(d, k). O'Donnell's hypercube ([LIT-346](../literature.d/LIT-346.md)) is the discrete twin. No
   relation is declared, since this account does not build on that one.
-- **[THEORY-084](THEORY-084.md)** extends this account to the Fisher of the same
-  networks and to spectral thresholds.
+- **[THEORY-084](THEORY-084.md)** presupposes this account's eigenstructure for a
+  claim about the Fisher of the same networks and its spectral thresholds.
 - **[THEORY-080](THEORY-080.md)** reads the same spectrum as a prior and computes the
   Occam factor it implies.

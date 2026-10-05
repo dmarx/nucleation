@@ -18,7 +18,7 @@ promote_when: >-
   ACT outcome trials, more defusion studies, or AAQ correlations, none of
   which isolates this process.
 title: 'Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-03'
@@ -29,6 +29,12 @@ history:
     self-model content, and IFS (LIT-579), whose step-back procedure
     targets a Self that is innate and has qualities rather than a
     contentless perspective. The claim is unchanged.
+- version: 3
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-050` re-filed as `presupposes: THEORY-050` (ADR-029).
+    This is a claim about a therapy process that takes the inflexibility
+    model as its premise; it does not refine that model.
 tags:
 - psychopathology-and-treatment
 - self
@@ -36,8 +42,6 @@ date: '2026-10-03'
 source:
 - LIT-555
 - LIT-541
-extends:
-- THEORY-050
 summary: >-
   ACT names the self as context as one of its six processes: from it "one
   can be aware of ones own flow of experiences without attachment to them",
@@ -48,9 +52,11 @@ summary: >-
   record tests the self as context as a process. Its only support is
   borrowed from small defusion studies under RFT's reading, so Proposed on
   weak grounds. The conceptual account of the self is [THEORY-044](THEORY-044.md).
+presupposes:
+- THEORY-050
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
-<!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this extends and the conceptual account of the self -->
+<!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this presupposes and the conceptual account of the self -->
 <!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast -->
 
@@ -73,7 +79,7 @@ stronger helps. The two can come apart. RFT's account of the self could be
 right and the process clinically idle, or the exercises could help for a
 reason that has nothing to do with deictic relations.
 
-It extends [THEORY-050](THEORY-050.md). That account says inflexibility, including
+It presupposes [THEORY-050](THEORY-050.md). That account says inflexibility, including
 domination by a "conceptualized self", maintains psychopathology across
 diagnoses. This one names the process ACT says works on that part of it.
 

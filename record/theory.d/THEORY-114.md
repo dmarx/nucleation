@@ -41,6 +41,8 @@ summary: >-
   initialization; Ferbach et al. (2024), [LIT-680](../literature.d/LIT-680.md), show the width that
   needs grows recursively exponentially with depth, far past practical
   widths, which is why the two are consistent.
+presupposed_by:
+- THEORY-115
 ---
 <!-- inactive-ok-file: LIT-370 — Proposed; named as a re-measurement of the shared-state onset, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-109 THEORY-112 — Proposed; the account this extends, and the symmetry account filed with it, named in the body -->

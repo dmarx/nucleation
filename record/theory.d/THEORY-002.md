@@ -10,7 +10,15 @@ promote_when: >-
   high mutual-nearest-neighbour alignment also have high Bures alignment of
   their centred kernels.
 title: 'Convergence of representations, in the Platonic hypothesis''s sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-004` re-filed as `presupposes: THEORY-004` (ADR-029),
+    and a Connections section added saying what is taken from it. The kernel
+    result is a premise for a claim about what the Platonic hypothesis can
+    mean.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -23,9 +31,10 @@ summary: >-
   Nielsen et al. ([LIT-253](../literature.d/LIT-253.md)) and Harvey, Larsen & Williams ([LIT-250](../literature.d/LIT-250.md)).
   It does not refute the hypothesis; it says what the hypothesis can and
   cannot mean.
-extends:
+presupposes:
 - THEORY-004
 ---
+<!-- inactive-ok-file: THEORY-004 — Proposed; the kernel result this account presupposes, and this account is no firmer than it -->
 <!-- inactive-ok-file: LIT-253 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-250 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 
@@ -46,3 +55,11 @@ Read together: the defensible formal content of "representations converge" is th
 - That the Platonic hypothesis is false.
 - That trained models do, or do not, converge in kernel.
 - That any one metric (Bures, CKA, mutual nearest neighbours) is the right one.
+
+## Connections
+
+- **Presupposes [THEORY-004](THEORY-004.md).** That account shows that a representation is
+  fixed by its kernel up to an orthogonal transformation. This one takes
+  that as the premise that lets convergence of kernels count as
+  convergence of representations up to rotation, and asks what the
+  Platonic hypothesis can then mean.

@@ -20,7 +20,14 @@ promote_when: >-
   between "autonomous goals" and well-being cannot settle either half,
   since they do not test the sequence.
 title: "Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `presupposes: THEORY-054` declared (ADR-029). The Connections entry
+    already said this account presupposes SDT's graded continuum; the
+    relation did not exist when it was filed.
 tags:
 - motivation
 - self-governance
@@ -41,8 +48,10 @@ summary: >-
   Everything is self-report and correlational, and the structural models
   fit only after revision. It is evidence for the autonomous end of SDT's
   continuum, not for integration as distinct from identification.
+presupposes:
+- THEORY-054
 ---
-<!-- inactive-ok-file: THEORY-046 THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-029 THEORY-074 — Proposed; the SDT and self-governance accounts this one bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-046 THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-029 THEORY-074 — Proposed; the SDT and self-governance accounts this one bears on, named in prose; only THEORY-054's graded continuum is presupposed, and this account is no firmer than it -->
 <!-- inactive-ok-file: LIT-594 — Deferred; Taylor, named for the content objection the paper concedes, not leaned on -->
 
 # THEORY-077: Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure
@@ -127,8 +136,9 @@ well-being half is smaller, and its mediation is partial and in one sample.
   well-being. It does not bear on the second half, since it cannot tell
   integrated from identified regulation, and its measure is the kind of
   self-reported endorsement [THEORY-054](THEORY-054.md)'s refutation clause worries about. It
-  is not declared as extending [THEORY-054](THEORY-054.md): if integration turned out to be
-  endorsement renamed, this account would stand unchanged.
+  presupposes [THEORY-054](THEORY-054.md) rather than extending it: if integration turned out to
+  be endorsement renamed, this account would stand unchanged, but if the
+  continuum fell it would lose its premise.
 - **[THEORY-047](THEORY-047.md)** (the conditions of acquisition fix how a value is held). No
   history is measured here; self-concordance is present structure.
 - **[THEORY-049](THEORY-049.md) and [THEORY-046](THEORY-046.md)** (controlling events lower intrinsic

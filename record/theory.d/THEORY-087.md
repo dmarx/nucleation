@@ -44,10 +44,12 @@ summary: >-
   half is a theorem the record holds only as cited, so this is Proposed.
   The volume reading of λ is in Watanabe's book, which is unread.
 extended_by:
+- THEORY-080
+presupposed_by:
 - THEORY-079
 ---
 <!-- inactive-ok-file: LIT-354 — Deferred: Watanabe's book is unread; named as where the singular theorems are proved, nothing here rests on reading it -->
-<!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; the accounts that extend this one, named in Connections -->
+<!-- inactive-ok-file: THEORY-079 THEORY-080 — Proposed; an account that presupposes this one and one that extends it, named in Connections -->
 
 # THEORY-087: The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set
 
@@ -141,7 +143,7 @@ estimates came out at 14.69, 15.74 and 16.53.
 - **[THEORY-082](THEORY-082.md)** reads the same boundary from optimisation. Amari's
   efficiency theorem needs the Fisher at the optimum to be invertible,
   which is the regular half here.
-- **[THEORY-079](THEORY-079.md)** extends this account to Bayesian model reduction.
+- **[THEORY-079](THEORY-079.md)** presupposes this account, for a claim about Bayesian model reduction.
   It argues that BMR's Laplace scoring uses the regular half's penalty in
   the singular models it is applied to.
 - **[THEORY-080](THEORY-080.md)** extends the regular half to a linearised network

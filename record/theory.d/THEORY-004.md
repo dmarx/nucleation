@@ -25,9 +25,10 @@ summary: >-
   realizations unique up to a unitary. This is the GNS connection the owner
   asked about, stated.
 extended_by:
-- THEORY-002
 - THEORY-008
 - THEORY-017
+presupposed_by:
+- THEORY-002
 ---
 <!-- inactive-ok-file: LIT-259 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-250 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

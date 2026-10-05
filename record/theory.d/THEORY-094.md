@@ -47,6 +47,8 @@ summary: >-
   subjects detected at chance, is the one such design Block offers. The
   method is specific to rivalry so far, and Block says there may be no
   general solution.
+presupposed_by:
+- THEORY-098
 ---
 <!-- inactive-ok-file: THEORY-100 THEORY-102 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->
 <!-- inactive-ok-file: THEORY-098 THEORY-103 — Proposed; filed in the same batch and named in Connections -->

@@ -22,7 +22,15 @@ promote_when: >-
   Spectra of classifiers trained with cross-entropy (LIT-613) cannot
   settle it, since that is a different matrix in a different regime.
 title: "Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-086` re-filed as `presupposes: THEORY-086` (ADR-029).
+    The NTK eigenstructure is taken as given for a claim about Fisher
+    thresholds. `extends: THEORY-019` is unchanged: this account works the
+    near-degenerate case that account leaves open.
 tags:
 - information-geometry
 - learning-theory
@@ -34,7 +42,6 @@ source:
 - LIT-624
 - LIT-612
 extends:
-- THEORY-086
 - THEORY-019
 summary: >-
   The filer's synthesis, stated by no source. The identity is linear
@@ -49,6 +56,8 @@ summary: >-
   (2019), [LIT-612](../literature.d/LIT-612.md), where a structural zero block shows up in a
   finite sample as small non-zero eigenvalues. No paper filed computes a
   Fisher spectrum in this regime.
+presupposes:
+- THEORY-086
 ---
 <!-- inactive-ok-file: THEORY-019 THEORY-078 THEORY-080 — Proposed; THEORY-019 is extended and this account is no firmer than it, the others are named in Connections -->
 
@@ -129,7 +138,7 @@ for it, so this step is the filer's.
 
 ## Connections
 
-- **Extends [THEORY-086](THEORY-086.md).** That account gives the NTK's eigenstructure
+- **Presupposes [THEORY-086](THEORY-086.md).** That account gives the NTK's eigenstructure
   and its role in training dynamics. This one carries the same blocks
   into the Fisher and asks what a threshold on them can mean.
 - **Extends [THEORY-019](THEORY-019.md).** That account leaves near-degeneracy and the

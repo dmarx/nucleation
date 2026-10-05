@@ -65,6 +65,7 @@ summary: >-
   models are wrong; it says what they have assumed.
 extended_by:
 - THEORY-018
+presupposed_by:
 - THEORY-019
 ---
 

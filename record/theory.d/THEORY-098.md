@@ -28,7 +28,17 @@ promote_when: >-
   post-perceptual cognition in place. An fMRI null alone cannot settle it
   either.
 title: 'The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-103` re-filed as `presupposes: THEORY-103` (ADR-029).
+    The mesh argument takes overflow as its psychological premise for a
+    claim about the neural basis; it does not refine the overflow claim.
+    `presupposes: THEORY-094` added: the argument against the no-report
+    prefrontal evidence rests on that account's conclusion that uninstructed
+    subjects still think about what they see.
 tags:
 - consciousness
 - neuroscience
@@ -38,8 +48,6 @@ source:
 - LIT-646
 - LIT-629
 - LIT-637
-extends:
-- THEORY-103
 summary: >-
   Block's "back of the head" position, from three papers. Block (2005),
   [LIT-629](../literature.d/LIT-629.md): a phenomenal NCC (for seen motion, recurrent MT/V5–V1
@@ -56,8 +64,11 @@ summary: >-
   every experiment second-hand and the decisive test not yet run.
 rivals:
 - THEORY-096
+presupposes:
+- THEORY-103
+- THEORY-094
 ---
-<!-- inactive-ok-file: THEORY-103 THEORY-094 — Proposed; filed in the same batch, the overflow account this one extends and the methodological account it relies on -->
+<!-- inactive-ok-file: THEORY-103 THEORY-094 — Proposed; filed in the same batch, the overflow account and the methodological account this one presupposes -->
 <!-- inactive-ok-file: THEORY-102 THEORY-100 — Proposed; named in Connections as data this account reads, no relation claimed -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
 
@@ -164,14 +175,13 @@ side".
   inference to the best explanation, and it inherits the contested step
   of [THEORY-103](THEORY-103.md), that the overflow is experienced.
 
-## Why it extends the overflow account
+## Why it presupposes the overflow account
 
-This account builds on [THEORY-103](THEORY-103.md). The mesh argument takes
+This account presupposes [THEORY-103](THEORY-103.md); it does not refine it. The mesh argument takes
 overflow as its psychological premise and supplies the neural mechanism
 for it, losing recurrent sensory coalitions. If overflow were shown to be
 an illusion, the mesh argument would lose its premise, and this account
-would rest on the 2005 and 2019 evidence alone. The two share the
-`consciousness` and `neuroscience` tags.
+would rest on the 2005 and 2019 evidence alone.
 
 ## The rival account
 
@@ -194,7 +204,8 @@ with intracranial prefrontal recording would bear on both.
   no-report trials still required each image to be judged a non-target,
   which is post-perceptual cognition of the kind [THEORY-094](THEORY-094.md) says
   leaves the onset burst ambiguous. This account does not build on or
-  replace that one, so no relation is declared.
+  replace that one; it presupposes it, since the argument against the
+  no-report prefrontal evidence above takes its conclusion as a premise.
 - **[THEORY-100](THEORY-100.md).** In crows, neurons in the nidopallium caudolaterale,
   the functional analogue of prefrontal cortex, followed the reported
   percept. On this account that is an access correlate. It is what the

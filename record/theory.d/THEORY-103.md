@@ -45,10 +45,10 @@ summary: >-
   for either posit. Proposed: every experiment is second-hand, and that the
   surplus is conscious is the contested step. Overflow means most items are
   unaccessed, not that any is inaccessible.
-extended_by:
-- THEORY-098
 rivals:
 - THEORY-096
+presupposed_by:
+- THEORY-098
 ---
 <!-- inactive-ok-file: THEORY-098 THEORY-094 — Proposed; filed in the same batch and named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-102 — Proposed; named in Connections for contrast, nothing here rests on it -->
@@ -174,7 +174,7 @@ unaccessed surplus is experienced, which is the premise each adopts.
 
 ## Connections
 
-- **[THEORY-098](THEORY-098.md)** builds on this account: if the neural basis of
+- **[THEORY-098](THEORY-098.md)** presupposes this account: if the neural basis of
   experience excludes the workspace, losing sensory coalitions are the
   mechanism of overflow.
 - **[THEORY-094](THEORY-094.md)** states the methodological problem this account

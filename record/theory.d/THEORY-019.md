@@ -16,7 +16,15 @@ promote_when: >-
   not G-invariant. Its converse half would be refuted by a procedure that
   recovers a unique group from one operator's eigenvalue multiplicities.
 title: 'Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    `extends: THEORY-017` re-filed as `presupposes: THEORY-017` (ADR-029).
+    The claim that multiplicities are intrinsic and the basis inside a
+    multiplet is not uses that account's sense of intrinsic; the claim about
+    symmetry and degeneracy does not refine it.
 tags:
 - mathematics
 - representation-learning
@@ -28,8 +36,6 @@ source:
 - LIT-362
 - LIT-346
 - LIT-319
-extends:
-- THEORY-017
 summary: >-
   Peter & Weyl (1927), [LIT-329](../literature.d/LIT-329.md) §3, build representations as eigenspaces of an
   invariant kernel, and Kondor & Trivedi, [LIT-305](../literature.d/LIT-305.md) Lemma 6, show that
@@ -41,7 +47,10 @@ summary: >-
   groups and says nothing about the characters inside a multiplet.
 extended_by:
 - THEORY-084
+presupposes:
+- THEORY-017
 ---
+<!-- inactive-ok-file: THEORY-017 — Proposed; the sense of intrinsic this account presupposes, and this account is no firmer than it -->
 
 # THEORY-019: Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
@@ -115,6 +124,6 @@ inference.
 
 ## Connections
 
-[THEORY-017](THEORY-017.md): the multiplet is intrinsic, and the basis inside it is extra data.
+Presupposes [THEORY-017](THEORY-017.md)'s sense of intrinsic: the multiplet is intrinsic, and the basis inside it is extra data.
 [LIT-322](../literature.d/LIT-322.md)'s weekday circles are real ℤ/7 irreducibles ([NOTE-273](../notes.d/NOTE-273.md)). A degeneracy
 test would see them as pairs only.
