@@ -81,6 +81,9 @@ vocabularies:
       information-retrieval:
         label: Information retrieval
         blurb: 'finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval'
+      design-rationale:
+        label: Design rationale
+        blurb: 'recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030)'
       social-science:
         label: Social science
         blurb: 'economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy'
