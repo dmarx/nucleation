@@ -3,6 +3,8 @@
 - [Reading list](literature/README.md) — one note per work, with its standing in this record.
 - [Readings](notes/README.md) — close readings, one per work actually read.
 - [Accounts](theory/README.md) — claims about what is true, each with its evidence.
+- [Questions](questions/README.md), [claims](claims/README.md), [cases](cases/README.md), [terms](terms/README.md) and [arguments](arguments/README.md) — the record's own argument as it develops: what it asks, holds, grants and disclaims, the examples it uses, the words it states them in, and the inferences worth pointing at.
+- [Workbench](workbench/README.md) — the working sessions on that argument, dated: what moved, and why.
 - [Lines of work](lineage.md) and [lines of explanation](theory-lines.md) — the relations between works and between accounts.
 - [Curation log](curation/README.md) — why things entered this record, and why they left.
 - [Decisions](decisions/README.md) — choices, with their alternatives.
