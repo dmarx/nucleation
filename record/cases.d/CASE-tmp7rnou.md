@@ -9,13 +9,13 @@ tags:
 date: '2026-10-04'
 superseded_by:
 - CASE-tmpp4tri
+substituted_by:
+- CASE-tmpp4tri
 summary: >-
   The owner's case at U13: employees largely concerned about climate, a
   company whose datacenters, sited where energy is cheap, induce fossil
   fuel demand. Replaced by the fictional [CASE-tmpp4tri](CASE-tmpp4tri.md) at the owner's
   suggestion (U15).
-substituted_by:
-- CASE-tmpp4tri
 ---
 
 # CASE-tmp7rnou: CoreWeave: a climate-concerned workforce building fossil-powered datacenters

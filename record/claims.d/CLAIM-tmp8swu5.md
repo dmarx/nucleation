@@ -31,21 +31,23 @@ rests_on:
 uses:
 - TERM-tmpn9tow
 - TERM-tmplcspp
+argued_by:
+- ARG-tmpgkhf9
+- ARG-tmpuhkwv
+objected_by:
+- CLAIM-tmp25zdy
+- CLAIM-tmp7j8hl
+- CLAIM-tmppqo06
+illustrated_by:
+- CASE-tmpnmf9j
 summary: >-
   The paper's central thesis. Proposed, not Active: the audit called it
   the strongest original contribution and also the one still owing a
   comparison with planning, executive control and institutional decision
   procedures. It is the main claim of the work while not yet believed
   outright — credence and inclusion disagree, as they may.
-argued_by:
-- ARG-tmpgkhf9
-- ARG-tmpuhkwv
-illustrated_by:
-- CASE-tmpnmf9j
-objected_by:
-- CLAIM-tmp25zdy
-- CLAIM-tmp7j8hl
-- CLAIM-tmppqo06
+supersedes:
+- CLAIM-tmp2xzhw
 ---
 <!-- inactive-ok-file: ARG-tmpgkhf9 ARG-tmpuhkwv CLAIM-tmp7j8hl CLAIM-tmppqo06 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmp25zdy — Rejected; answered or abandoned, and cited as the history this entry answers -->

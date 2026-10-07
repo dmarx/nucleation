@@ -7,13 +7,13 @@ tags:
 - complex-systems
 date: '2026-10-04'
 line: will-organization
+used_by:
+- CLAIM-tmp7wkss
+- CLAIM-tmpswafr
 summary: >-
   A protective regime that, by reorganizing ordinary activity, generates
   the conditions that justify its own continuation and reduces the
   capacity to leave it (Section 6.1).
-used_by:
-- CLAIM-tmp7wkss
-- CLAIM-tmpswafr
 ---
 
 # TERM-tmpllxz0: protective lock-in

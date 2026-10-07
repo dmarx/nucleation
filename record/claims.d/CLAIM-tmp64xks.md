@@ -10,7 +10,7 @@ date: '2026-10-05'
 line: will-organization
 works:
 - organization-of-will
-rests_on:
+grounds:
 - THEORY-120
 summary: >-
   Section 7.2, "No. The theory explains practical efficacy, not

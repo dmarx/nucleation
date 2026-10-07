@@ -7,13 +7,13 @@ tags:
 - self-governance
 date: '2026-10-04'
 line: will-organization
-summary: >-
-  The question the will paper answers, in its own words (Section 2). Open:
-  the paper's answer, [CLAIM-tmp8swu5](../claims.d/CLAIM-tmp8swu5.md), is Proposed.
 answered_by:
 - CLAIM-tmp8swu5
 - CLAIM-tmpd9rrq
 - CLAIM-tmpmguco
+summary: >-
+  The question the will paper answers, in its own words (Section 2). Open:
+  the paper's answer, [CLAIM-tmp8swu5](../claims.d/CLAIM-tmp8swu5.md), is Proposed.
 ---
 <!-- inactive-ok-file: QUESTION-tmp9w0qe — Deferred; set aside, and cited to say what was set aside with it -->
 <!-- inactive-ok-file: CLAIM-tmp8swu5 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

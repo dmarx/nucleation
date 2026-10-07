@@ -6,6 +6,7 @@ tags:
 - agency
 - social-ontology
 date: '2026-10-04'
+line: distributed-agency
 summary: >-
   Asked from the first day (A8, A11) and never answered. The will paper
   sets it aside by supposing its agent ([CLAIM-tmpmguco](../claims.d/CLAIM-tmpmguco.md)), which is what

@@ -11,7 +11,8 @@ tags:
 - agency
 - complex-systems
 date: '2026-10-04'
-rests_on:
+line: distributed-agency
+grounds:
 - LIT-436
 - THEORY-069
 - LIT-439

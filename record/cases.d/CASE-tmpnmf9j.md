@@ -10,15 +10,15 @@ date: '2026-10-04'
 line: will-organization
 illustrates:
 - CLAIM-tmp8swu5
+variants:
+- CASE-tmp2knax
+- CASE-tmp32e66
+- CASE-tmpzunvm
 summary: >-
   A fictional software company whose stated policy gives reliability
   priority over release speed, and whose escalation and authority
   structures may make speed effective anyway. The paper's worked case, in
   several variants.
-variants:
-- CASE-tmp2knax
-- CASE-tmp32e66
-- CASE-tmpzunvm
 ---
 
 # CASE-tmpnmf9j: Northstar

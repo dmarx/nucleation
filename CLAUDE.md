@@ -23,6 +23,8 @@ file is wrong.
   <!-- inactive-ok: ADR-032 — Proposed; the map names the schemes it introduces, which exist whatever the decision's standing -->
   ([ADR-032](record/decisions.d/ADR-032.md); Proposed until the owner accepts it). A CLAIM has a credence (`status`) and a voice (`role`);
   an objection is a claim; a thing gets a code the second time it turns up.
+  `rests_on` is between claims and `grounds` points outside them, so the
+  argument, its objection threads and its revisions render as chains.
 - `record/decisions.d/`, `record/principles.d/`, `record/changelog.d/` and
   `record/curation.d/`: the record reasoning about itself.
 - `docs/`: generated. Never edit an assembled page. See

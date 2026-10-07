@@ -8,13 +8,13 @@ tags:
 - self-governance
 date: '2026-10-04'
 line: will-organization
+supports:
+- ARG-tmpgkhf9
+- CLAIM-tmpzeoja
 summary: >-
   A writer sincerely committed to finishing an article while avoidance
   governs the afternoon; who later blocks distracting websites. The
   individual-scale case (Sections 1, 3.5).
-supports:
-- ARG-tmpgkhf9
-- CLAIM-tmpzeoja
 ---
 <!-- inactive-ok-file: ARG-tmpgkhf9 CLAIM-tmp8swu5 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

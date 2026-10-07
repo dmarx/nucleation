@@ -7,17 +7,18 @@ tags:
 - agency
 - complex-systems
 date: '2026-10-04'
+line: will-organization
 objects_to:
 - CLAIM-tmp2xzhw
 - CLAIM-tmp8swu5
+objected_by:
+- CLAIM-tmphgiju
+- CLAIM-tmpx1i07
 summary: >-
   The permissiveness objection. Raised by the assistant at A112, and
   re-derived at least six times afterwards as though new. Answered by
   agent-indexing ([CLAIM-tmpmguco](CLAIM-tmpmguco.md), [CLAIM-tmpx1i07](CLAIM-tmpx1i07.md)); one code is what makes
   the recurrences one objection.
-objected_by:
-- CLAIM-tmphgiju
-- CLAIM-tmpx1i07
 ---
 <!-- inactive-ok-file: CLAIM-tmp8swu5 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmp2xzhw CLAIM-tmphgiju — Superseded; replaced, and cited as the history this entry answers or replaces -->

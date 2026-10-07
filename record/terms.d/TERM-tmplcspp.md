@@ -6,13 +6,13 @@ tags:
 - agency
 date: '2026-10-05'
 line: will-organization
+used_by:
+- CLAIM-tmp8swu5
+- CLAIM-tmpd9rrq
 summary: >-
   A relatively stable organization capable of producing a characteristic
   pattern of agent-level action under appropriate conditions — desires,
   habits, plans, policies, institutional operating modes (Section 1).
-used_by:
-- CLAIM-tmp8swu5
-- CLAIM-tmpd9rrq
 ---
 
 # TERM-tmplcspp: action-generating regime

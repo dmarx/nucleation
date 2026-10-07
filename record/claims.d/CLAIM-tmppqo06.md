@@ -7,14 +7,15 @@ tags:
 - agency
 - society-and-governance
 date: '2026-10-05'
+line: will-organization
 objects_to:
 - CLAIM-tmp8swu5
+objected_by:
+- CLAIM-tmpzeoja
 summary: >-
   The redescription objection (Sections 1, 3.5). The paper answers the
   individual-attitude version; the aggregate revealed-preference version
   is still open, so this counter stays Proposed.
-objected_by:
-- CLAIM-tmpzeoja
 ---
 <!-- inactive-ok-file: CLAIM-tmpzeoja — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

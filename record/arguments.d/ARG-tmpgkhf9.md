@@ -8,7 +8,7 @@ tags:
 - self-governance
 date: '2026-10-05'
 line: will-organization
-rests_on:
+grounds:
 - CASE-tmpcq3qe
 concludes:
 - CLAIM-tmp8swu5

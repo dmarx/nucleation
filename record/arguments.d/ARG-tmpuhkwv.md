@@ -9,8 +9,9 @@ tags:
 date: '2026-10-05'
 line: will-organization
 rests_on:
-- CASE-tmp32e66
 - CLAIM-tmpmguco
+grounds:
+- CASE-tmp32e66
 - THEORY-138
 concludes:
 - CLAIM-tmp8swu5

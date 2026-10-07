@@ -17,13 +17,13 @@ works:
 uses:
 - TERM-tmpn9tow
 - TERM-tmpllxz0
+argued_by:
+- ARG-tmppqfc1
 summary: >-
   The paper's main result (Section 6.11), concluded by [ARG-tmppqfc1](../arguments.d/ARG-tmppqfc1.md) from
   [CLAIM-tmpm39cj](CLAIM-tmpm39cj.md) and [CLAIM-tmp7wkss](CLAIM-tmp7wkss.md). The audit's "strong conditional
   argument". Canguilhem interprets it ([CLAIM-tmp5ljag](CLAIM-tmp5ljag.md)) and is deliberately
   not a premise.
-argued_by:
-- ARG-tmppqfc1
 ---
 <!-- inactive-ok-file: CLAIM-tmp5ljag CLAIM-tmp7wkss — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

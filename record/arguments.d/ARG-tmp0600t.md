@@ -8,7 +8,7 @@ tags:
 - society-and-governance
 date: '2026-10-05'
 line: will-organization
-rests_on:
+grounds:
 - CASE-tmp2knax
 concludes:
 - CLAIM-tmpgnnj0

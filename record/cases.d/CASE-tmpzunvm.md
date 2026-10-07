@@ -12,13 +12,13 @@ illustrates:
 - CLAIM-tmp7wkss
 variant_of:
 - CASE-tmpnmf9j
+supports:
+- ARG-tmppqfc1
+- CLAIM-tmp7wkss
 summary: >-
   A service failure activates emergency governance whose restrictions
   defer maintenance, generating anomalies that satisfy the emergency
   criteria and keep the restrictions in place (Section 6.1).
-supports:
-- ARG-tmppqfc1
-- CLAIM-tmp7wkss
 ---
 
 # CASE-tmpzunvm: Northstar emergency governance that sustains itself

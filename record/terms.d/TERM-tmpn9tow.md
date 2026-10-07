@@ -16,13 +16,15 @@ tags:
 - self-governance
 date: '2026-10-04'
 line: will-organization
+used_by:
+- CLAIM-tmp8swu5
+- CLAIM-tmpswafr
 summary: >-
   The maintained organization of relations governing the conditions under
   which an agent's available action-generating regimes acquire, retain,
   lose, or alter practical efficacy (Section 3.2).
-used_by:
-- CLAIM-tmp8swu5
-- CLAIM-tmpswafr
+supersedes:
+- TERM-tmp1at0k
 ---
 <!-- inactive-ok-file: TERM-tmp1at0k — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

@@ -13,14 +13,14 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
-rests_on:
+grounds:
 - THEORY-134
 - THEORY-132
+supports:
+- ARG-tmppqfc1
 summary: >-
   Applied from viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience
   distinction ([THEORY-132](../theory.d/THEORY-132.md)) (Section 6.3).
-supports:
-- ARG-tmppqfc1
 ---
 
 # CLAIM-tmpm39cj: Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints

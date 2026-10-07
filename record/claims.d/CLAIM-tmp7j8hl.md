@@ -7,15 +7,16 @@ tags:
 - agency
 - philosophy-of-science
 date: '2026-10-04'
+line: will-organization
 objects_to:
 - CLAIM-tmp8swu5
+objected_by:
+- CLAIM-tmp5znml
 summary: >-
   "The most important objection" (Section 7.1), re-derived three times in
   the exchange with different criteria each time. Proposed: the paper
   concedes the mechanisms ([CLAIM-tmp5znml](CLAIM-tmp5znml.md)) and stakes everything on an
   explanatory gain not yet shown.
-objected_by:
-- CLAIM-tmp5znml
 ---
 
 # CLAIM-tmp7j8hl: Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names

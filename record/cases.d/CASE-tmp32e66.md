@@ -10,13 +10,13 @@ date: '2026-10-05'
 line: will-organization
 variant_of:
 - CASE-tmpnmf9j
+supports:
+- ARG-tmpuhkwv
+- CLAIM-tmpzeoja
 summary: >-
   Two versions held constant in attitudes, policy, monitoring and
   evidence, differing only in whether a specialist's objection suspends
   deployment (Section 5.1). The paper's controlled contrast.
-supports:
-- ARG-tmpuhkwv
-- CLAIM-tmpzeoja
 ---
 <!-- inactive-ok-file: ARG-tmpuhkwv — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -11,13 +11,15 @@ works:
 - organization-of-will
 answers:
 - QUESTION-tmphvylg
+supports:
+- ARG-tmpuhkwv
+- CLAIM-tmp8swu5
 summary: >-
   The supposition that scopes the whole paper (Sections 1, 2, 7.4).
   Everything resting on it is conditional on it; Northstar is assumed to
   be an agent "for purposes of analysis".
-supports:
-- ARG-tmpuhkwv
-- CLAIM-tmp8swu5
+supersedes:
+- CLAIM-tmphgiju
 ---
 <!-- inactive-ok-file: QUESTION-tmp9w0qe — Deferred; set aside, and cited to say what was set aside with it -->
 
