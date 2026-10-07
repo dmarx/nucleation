@@ -1,5 +1,8 @@
 ---
+number: 154
 status: Proposed
+formerly:
+- THEORY-tmpmshgc
 promote_when: >-
   A test of the contingency itself, not another pattern fit. Promoted by
   preregistered experiments on interesting tasks that offer the same
@@ -34,14 +37,14 @@ summary: >-
   theory: rewards tied to success carry competence. Proposed: the paper
   measures no mediator and pools control groups that differ in feedback.
 ---
-<!-- inactive-ok-file: LIT-tmp73an2 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
+<!-- inactive-ok-file: LIT-754 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
 <!-- inactive-ok-file: THEORY-049 — Proposed; the rival account -->
 
-# THEORY-tmpmshgc: Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success
+# THEORY-154: Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success
 
 ## Source
 
-Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), read in [NOTE-tmp6ruuz](../notes.d/NOTE-tmp6ruuz.md): the
+Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), read in [NOTE-587](../notes.d/NOTE-587.md): the
 procedural coding (Table 1, p. 12), the results by contingency (pp. 16–20,
 Figures 1–4), the discussion (pp. 21–26) and Appendix B.
 
@@ -94,7 +97,7 @@ would have failed on the paper's own data.
   performance objective and given feedback were pooled with those that were
   not (p. 13). The comparison that separates this account from CET, a
   performance-tied reward against a control given the same feedback, is
-  reported only from Eisenberger, Pierce and Cameron (1999, [LIT-tmp73an2](../literature.d/LIT-tmp73an2.md)),
+  reported only from Eisenberger, Pierce and Cameron (1999, [LIT-754](../literature.d/LIT-754.md)),
   which is filed but unread.
 - **It does not establish the size of the positive effects.** The
   per-contingency values after outliers are in figures with no text layer,

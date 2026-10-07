@@ -4,7 +4,7 @@
 
 **quantum-foundations**.
 
-67 of 586 NOTE documents. Back to the [full index](../README.md).
+67 of 587 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

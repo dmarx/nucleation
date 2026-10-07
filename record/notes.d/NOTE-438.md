@@ -23,7 +23,7 @@ history:
   date: '2026-10-05'
   note: >-
     Cross-references to Cameron, Banko and Pierce (2001), LIT-562, updated
-    now that it has been read (NOTE-tmp6ruuz). The reading of this paper is
+    now that it has been read (NOTE-587). The reading of this paper is
     unchanged.
 date: '2026-10-03'
 summary: >-
@@ -69,7 +69,7 @@ designed to find the moderators that a meta-analysis then averages over
   analyses (p. 635). For dull tasks "the critical theoretical issue is how to
   facilitate internalization" (p. 635). Cameron and Pierce collapsed
   interesting and dull tasks (p. 651), and their 2001 reply ([LIT-562](../literature.d/LIT-562.md),
-  read since in [NOTE-tmp6ruuz](NOTE-tmp6ruuz.md)) reports reward effects on low-interest tasks as
+  read since in [NOTE-587](NOTE-587.md)) reports reward effects on low-interest tasks as
   well, raising free choice there, so the scope is part of the dispute.
 - **Measures after the reward stops.** Intrinsic motivation is free-choice
   persistence or self-reported interest measured once the contingency is
@@ -160,7 +160,7 @@ designed to find the moderators that a meta-analysis then averages over
   Cameron & Pierce p. 396). The paper treats the last two as "essentially the
   same meta-analysis" reported in pieces (p. 632).
 - **Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md).** The reply, read since
-  in [NOTE-tmp6ruuz](NOTE-tmp6ruuz.md). Re-coding by procedure, it finds negative effects only
+  in [NOTE-587](NOTE-587.md). Re-coding by procedure, it finds negative effects only
   for tangible, expected rewards "loosely tied to level of performance" or
   earned at less than the maximum, on high-interest tasks, and no pervasive
   harm. It agrees with this paper on rewards for merely doing the task.

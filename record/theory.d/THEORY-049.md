@@ -34,7 +34,7 @@ history:
     neutral and rewards for exceeding others positive on free choice.
     They pool the two kinds of control group, so the refutation clause is
     not met, and the status stays Proposed. Their account is filed as
-    THEORY-tmpmshgc and declared a rival.
+    THEORY-154 and declared a rival.
 tags:
 - motivation
 - agency
@@ -47,7 +47,7 @@ source:
 - LIT-559
 - LIT-558
 rivals:
-- THEORY-tmpmshgc
+- THEORY-154
 summary: >-
   Cognitive evaluation theory, as tested by Deci, Koestner and Ryan (1999,
   [LIT-557](../literature.d/LIT-557.md)) and summarized by Ryan and Deci ([LIT-559](../literature.d/LIT-559.md)) and Deci and
@@ -63,7 +63,7 @@ summary: >-
   tested mediation.
 ---
 <!-- inactive-ok-file: LIT-545 — Deferred; Bandura, named for the rival side's self-efficacy, not leaned on -->
-<!-- inactive-ok-file: THEORY-054 THEORY-tmpmshgc — Proposed; a neighbour named in Connections, and the rival account -->
+<!-- inactive-ok-file: THEORY-054 THEORY-154 — Proposed; a neighbour named in Connections, and the rival account -->
 
 # THEORY-049: Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence
 
@@ -112,8 +112,8 @@ autonomy ([LIT-558](../literature.d/LIT-558.md), p. 234).
 - **It does not refute the rival account by itself.** The behavioural
   account Deci et al. test (Eisenberger and Cameron's helplessness and
   learned industriousness) fails on their data (pp. 654–655). The later
-  account of Cameron, Banko and Pierce ([LIT-562](../literature.d/LIT-562.md), read in [NOTE-tmp6ruuz](../notes.d/NOTE-tmp6ruuz.md);
-  [THEORY-tmpmshgc](THEORY-tmpmshgc.md)) is different. Re-coding the studies by what participants
+  account of Cameron, Banko and Pierce ([LIT-562](../literature.d/LIT-562.md), read in [NOTE-587](../notes.d/NOTE-587.md);
+  [THEORY-154](THEORY-154.md)) is different. Re-coding the studies by what participants
   were told, they find that rewards for surpassing a score do not lower free
   choice and rewards for exceeding others raise it, where Deci et al.'s
   pooled performance-contingent category undermined (pp. 16–17). That
@@ -128,7 +128,7 @@ autonomy ([LIT-558](../literature.d/LIT-558.md), p. 234).
 ## Connections
 
 - **[THEORY-046](THEORY-046.md)** is the effect this account explains.
-- **Rivals [THEORY-tmpmshgc](THEORY-tmpmshgc.md).** Cameron, Banko and Pierce explain the same
+- **Rivals [THEORY-154](THEORY-154.md).** Cameron, Banko and Pierce explain the same
   effects by how tightly the stated contingency ties a reward to
   performance and success. The two accounts agree on rewards for merely
   doing a task. They part on rewards tied to a standard, which a strict

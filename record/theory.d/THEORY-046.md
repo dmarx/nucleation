@@ -40,7 +40,7 @@ summary: >-
   the dispute find this effect.
 ---
 <!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->
-<!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-tmpmshgc — Deferred or Proposed; named as neighbours, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-154 — Deferred or Proposed; named as neighbours, nothing here rests on them -->
 
 # THEORY-046: Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it
 
@@ -50,7 +50,7 @@ summary: >-
   OCR of the authors' deposit): the engagement-contingent analysis (p. 641),
   the timing analysis (p. 650), the interesting-versus-dull analysis (p. 651),
   and Appendix A's comparison with Cameron and Pierce.
-- Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), read in [NOTE-tmp6ruuz](../notes.d/NOTE-tmp6ruuz.md): the
+- Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), read in [NOTE-587](../notes.d/NOTE-587.md): the
   results for rewards offered for doing the task (pp. 16–18), durability
   (pp. 23–24) and magnitude (pp. 24–25).
 
@@ -100,7 +100,7 @@ is about everything around it.
 - **It does not say why.** Cognitive evaluation theory reads the effect as
   felt control ([THEORY-049](THEORY-049.md)). Cameron, Banko and Pierce read it as a reward
   loosely tied to performance, which carries no competence information
-  ([THEORY-tmpmshgc](THEORY-tmpmshgc.md)). This account is the effect only.
+  ([THEORY-154](THEORY-154.md)). This account is the effect only.
 - **It does not say the effect is large or lasting in adults.** Delayed
   measures exist only for children, and repeated-reward studies with
   controls are two, with nine rewarded participants in all (p. 650).
@@ -117,7 +117,7 @@ is about everything around it.
 ## Connections
 
 - **[THEORY-049](THEORY-049.md)** is the explanation SDT gives for this effect.
-- **[THEORY-tmpmshgc](THEORY-tmpmshgc.md)** is the rival explanation, from the reply that
+- **[THEORY-154](THEORY-154.md)** is the rival explanation, from the reply that
   confirmed the effect.
 - **Bandura ([LIT-545](../literature.d/LIT-545.md), unread).** The social-cognitive account the rival
   side draws on; the reply cites Bandura (1986), not this paper.

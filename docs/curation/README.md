@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [5 Oct 19:15 — Reading Cameron, Banko and Pierce (2001)](2026-10.md#reading-cameron-banko-and-pierce-2001)
 - [5 Oct 17:15 — Auditing the THEORY relations after presupposes](2026-10.md#auditing-the-theory-relations-after-presupposes)
 - [5 Oct 11:30 — The rest of the essay's suggested readings](2026-10.md#the-rest-of-the-essays-suggested-readings)
 - [5 Oct 06:49 — Supplements to the essay sources](2026-10.md#supplements-to-the-essay-sources)
@@ -35,9 +36,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-73 entries across 2 books, newest first.
+74 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 26 | 2026-10-01 | 2026-10-05 |
+| [2026-10](2026-10.md) | 27 | 2026-10-01 | 2026-10-05 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

@@ -1,5 +1,8 @@
 ---
+number: 587
 status: Read
+formerly:
+- NOTE-tmp6ruuz
 paper: LIT-562
 title: 'Pervasive negative effects of rewards on intrinsic motivation: The myth continues'
 version: 1
@@ -31,11 +34,11 @@ summary: >-
   earned at less than the maximum; neutral or positive effects for rewards
   tied to a standard or to beating others. All of it is small.
 ---
-<!-- inactive-ok-file: LIT-tmp73an2 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
+<!-- inactive-ok-file: LIT-754 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
 <!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; described from this paper's account of it -->
-<!-- inactive-ok-file: THEORY-049 THEORY-tmpmshgc — Proposed; the accounts this reading bears on, named in Bearing on the record -->
+<!-- inactive-ok-file: THEORY-049 THEORY-154 — Proposed; the accounts this reading bears on, named in Bearing on the record -->
 
-# NOTE-tmp6ruuz: Pervasive negative effects of rewards on intrinsic motivation: The myth continues
+# NOTE-587: Pervasive negative effects of rewards on intrinsic motivation: The myth continues
 
 ## Contribution
 
@@ -71,7 +74,7 @@ amounts to failure feedback (pp. 22–23).
   Coding reliability on 32 expected-tangible studies was 97% (p. 12).
 - **Both control types count** for performance-tied rewards: a control told
   the performance objective and given feedback ("complete"), or not
-  ("partial"). Eisenberger, Pierce and Cameron (1999, [LIT-tmp73an2](../literature.d/LIT-tmp73an2.md)) found one small
+  ("partial"). Eisenberger, Pierce and Cameron (1999, [LIT-754](../literature.d/LIT-754.md)) found one small
   difference between them, in the same direction, so both were pooled
   (p. 13).
 - **Imputed zeros** for missing effect sizes, as Deci et al.; each analysis
@@ -141,7 +144,7 @@ amounts to failure feedback (pp. 22–23).
   to level of performance (surpassing a score, exceeding others) do not
   undermine". The authors grant that CET could fit if competence
   information "override[s] the controlling aspect of reward". They cite
-  Eisenberger, Pierce and Cameron ([LIT-tmp73an2](../literature.d/LIT-tmp73an2.md)) for reward contingencies raising
+  Eisenberger, Pierce and Cameron ([LIT-754](../literature.d/LIT-754.md)) for reward contingencies raising
   perceived self-determination.
 
 ## Claims
@@ -211,8 +214,8 @@ coding, though not on the core effect.
   describes, but only if the control group received the same performance
   feedback. Here the two control types are pooled, and the
   complete-control result is reported only from Eisenberger, Pierce and
-  Cameron (1999, [LIT-tmp73an2](../literature.d/LIT-tmp73an2.md)), filed but unread. So it does not refute.
-- **[THEORY-tmpmshgc](../theory.d/THEORY-tmpmshgc.md)** states this paper's own account, that the tightness of
+  Cameron (1999, [LIT-754](../literature.d/LIT-754.md)), filed but unread. So it does not refute.
+- **[THEORY-154](../theory.d/THEORY-154.md)** states this paper's own account, that the tightness of
   the stated contingency decides the effect, as the rival to [THEORY-049](../theory.d/THEORY-049.md).
 - No instruction for machine-learning practice; nothing here belongs in the
   anthology.

@@ -411,7 +411,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
 - alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
-- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Deferred)*
+- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Active)*
+- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Deferred)*
 
 ### From Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
 
@@ -550,7 +551,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
 - alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
-- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Deferred)*
+- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Active)*
+- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Deferred)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
@@ -847,7 +849,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
 - alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
-- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Deferred)*
+- alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Active)*
+- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Deferred)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 

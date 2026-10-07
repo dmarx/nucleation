@@ -75,7 +75,7 @@ internalization goes depends on whether the context supports autonomy.
 - **Intrinsic motivation applies only to activities that hold intrinsic
   interest.** "For activities that do not hold such appeal, the principles of
   CET do not apply" (p. 71). Cameron, Banko and Pierce's 2001 reply
-  ([LIT-562](../literature.d/LIT-562.md), read since in [NOTE-tmp6ruuz](NOTE-tmp6ruuz.md)) reports that rewards enhance free
+  ([LIT-562](../literature.d/LIT-562.md), read since in [NOTE-587](NOTE-587.md)) reports that rewards enhance free
   choice on low-interest tasks (0.28), so the scope condition matters to the
   dispute.
 - **Self-reported reasons measure regulation.** The continuum's evidence is
