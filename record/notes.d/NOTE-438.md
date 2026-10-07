@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp1ywom
 paper: LIT-557
 title: 'A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-03'
@@ -19,6 +19,12 @@ history:
     Figures 1–2 come through the OCR with columns run together; the
     composite effect sizes cited below are those the prose states, which
     the figures repeat. Individual studies were not opened.
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    Cross-references to Cameron, Banko and Pierce (2001), LIT-562, updated
+    now that it has been read (NOTE-587). The reading of this paper is
+    unchanged.
 date: '2026-10-03'
 summary: >-
   128 experiments on interesting tasks, separate meta-analyses for
@@ -30,7 +36,6 @@ summary: >-
   cognitive evaluation theory and contradicts Eisenberger and Cameron's
   helplessness and learned-industriousness account.
 ---
-<!-- inactive-ok-file: LIT-562 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
 <!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; its results are reported as this paper states them -->
 
 # NOTE-438: A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation
@@ -64,8 +69,8 @@ designed to find the moderators that a meta-analysis then averages over
   analyses (p. 635). For dull tasks "the critical theoretical issue is how to
   facilitate internalization" (p. 635). Cameron and Pierce collapsed
   interesting and dull tasks (p. 651), and their 2001 reply ([LIT-562](../literature.d/LIT-562.md),
-  unread; by its abstract) reports reward effects on low-interest tasks as
-  well, so the scope is part of the dispute.
+  read since in [NOTE-587](NOTE-587.md)) reports reward effects on low-interest tasks as
+  well, raising free choice there, so the scope is part of the dispute.
 - **Measures after the reward stops.** Intrinsic motivation is free-choice
   persistence or self-reported interest measured once the contingency is
   over; measures taken during the reward phase mix motives (p. 635).
@@ -154,10 +159,11 @@ designed to find the moderators that a meta-analysis then averages over
   called for "abandoning cognitive evaluation theory" (p. 632, quoting
   Cameron & Pierce p. 396). The paper treats the last two as "essentially the
   same meta-analysis" reported in pieces (p. 632).
-- **Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), Deferred.** The reply,
-  known here only from its abstract: negative effects only for tangible,
-  expected rewards "loosely tied to level of performance", on high-interest
-  tasks, and no pervasive harm.
+- **Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md).** The reply, read since
+  in [NOTE-587](NOTE-587.md). Re-coding by procedure, it finds negative effects only
+  for tangible, expected rewards "loosely tied to level of performance" or
+  earned at less than the maximum, on high-interest tasks, and no pervasive
+  harm. It agrees with this paper on rewards for merely doing the task.
 - **SDT summaries ([LIT-559](../literature.d/LIT-559.md), [LIT-558](../literature.d/LIT-558.md), [LIT-560](../literature.d/LIT-560.md))** cite this paper
   as having settled the matter. The 2006 paper says the earlier analysis was
   wrong by errors "numerous enough to generate the 'null' results"
@@ -184,8 +190,9 @@ designed to find the moderators that a meta-analysis then averages over
 - **CET's categories are both the coding scheme and the hypothesis tested.**
   The performance-contingent category mixes per-unit pay, rewards for "doing
   well" and rewards for beating a norm (Appendix A). If those behave
-  differently, as the 2001 abstract implies for rewards "linked to level of
-  performance" ([LIT-562](../literature.d/LIT-562.md), unread), the category hides it.
+  differently, as the 2001 reply finds for rewards "linked to level of
+  performance" ([LIT-562](../literature.d/LIT-562.md): neutral for surpassing a score, positive for
+  exceeding others), the category hides it.
 - **Most effects are small.** Self-report effects of tangible rewards are
   around −0.07 to −0.17.
 - **The age finding is post hoc.** "This set of findings has never been

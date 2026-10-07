@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpwwoeb
 paper: LIT-559
 title: 'Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-03'
@@ -21,6 +21,12 @@ history:
     garbled in the text layer and were reconstructed from the prose of
     pp. 72–73, which names every category. None of the cited studies was
     opened.
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    The cross-reference to Cameron, Banko and Pierce (2001), LIT-562,
+    updated now that it has been read. The reading of this paper is
+    unchanged.
 date: '2026-10-03'
 summary: >-
   SDT's canonical short statement. Social contexts that support
@@ -34,7 +40,6 @@ summary: >-
   distress and psychopathology.
 ---
 <!-- inactive-ok-file: LIT-545 — Deferred: Bandura (1977) is unread; named because this paper names self-efficacy, not leaned on -->
-<!-- inactive-ok-file: LIT-562 — Deferred: Cameron, Banko & Pierce (2001) is unread; cited only for its abstract -->
 <!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; named as one side of the reward dispute -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; the bearing of this reading on them is stated, nothing here rests on them -->
 
@@ -70,8 +75,8 @@ internalization goes depends on whether the context supports autonomy.
 - **Intrinsic motivation applies only to activities that hold intrinsic
   interest.** "For activities that do not hold such appeal, the principles of
   CET do not apply" (p. 71). Cameron, Banko and Pierce's 2001 reply
-  ([LIT-562](../literature.d/LIT-562.md), unread) reports, by its abstract, that rewards enhance free
-  choice on low-interest tasks, so the scope condition matters to the
+  ([LIT-562](../literature.d/LIT-562.md), read since in [NOTE-587](NOTE-587.md)) reports that rewards enhance free
+  choice on low-interest tasks (0.28), so the scope condition matters to the
   dispute.
 - **Self-reported reasons measure regulation.** The continuum's evidence is
   Ryan and Connell's (1989) self-report reasons, whose subscales correlate in

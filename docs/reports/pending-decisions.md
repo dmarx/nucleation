@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**372 document(s) awaiting a decision.**
+**381 document(s) awaiting a decision.**
 
 ## LITs
 
-243 of the 372.
+252 of the 381.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -200,7 +200,6 @@
 | 2026-10-03 | Deferred | [LIT-685](../../record/literature.d/LIT-685.md) | 22 | 0 | Freedom Within Reason |
 | 2026-10-03 | Deferred | [LIT-688](../../record/literature.d/LIT-688.md) | 19 | 0 | Asymmetrical Freedom |
 | 2026-10-03 | Deferred | [LIT-690](../../record/literature.d/LIT-690.md) | 19 | 0 | Sanity and the Metaphysics of Responsibility |
-| 2026-10-03 | Deferred | [LIT-562](../../record/literature.d/LIT-562.md) | 16 | 0 | Pervasive negative effects of rewards on intrinsic motivation: The myth continues |
 | 2026-10-03 | Deferred | [LIT-546](../../record/literature.d/LIT-546.md) | 15 | 0 | The Emotions |
 | 2026-10-03 | Deferred | [LIT-550](../../record/literature.d/LIT-550.md) | 15 | 0 | Emotion and Adaptation |
 | 2026-10-03 | Deferred | [LIT-551](../../record/literature.d/LIT-551.md) | 13 | 0 | Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment |
@@ -209,8 +208,8 @@
 | 2026-10-03 | Deferred | [LIT-545](../../record/literature.d/LIT-545.md) | 10 | 0 | Self-Efficacy: Toward a Unifying Theory of Behavioral Change |
 | 2026-10-03 | Deferred | [LIT-548](../../record/literature.d/LIT-548.md) | 9 | 0 | The Need for a New Medical Model: A Challenge for Biomedicine |
 | 2026-10-03 | Deferred | [LIT-549](../../record/literature.d/LIT-549.md) | 9 | 0 | Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition |
-| 2026-10-03 | Deferred | [LIT-556](../../record/literature.d/LIT-556.md) | 9 | 0 | Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis |
 | 2026-10-03 | Deferred | [LIT-596](../../record/literature.d/LIT-596.md) | 9 | 0 | Three Theories of Self-Governance |
+| 2026-10-03 | Deferred | [LIT-556](../../record/literature.d/LIT-556.md) | 8 | 0 | Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis |
 | 2026-10-03 | Deferred | [LIT-578](../../record/literature.d/LIT-578.md) | 8 | 0 | Dynamic Patterns: The Self-Organization of Brain and Behavior |
 | 2026-10-03 | Deferred | [LIT-594](../../record/literature.d/LIT-594.md) | 8 | 0 | The Ethics of Authenticity |
 | 2026-10-03 | Deferred | [LIT-647](../../record/literature.d/LIT-647.md) | 8 | 0 | Neural traveling waves in cortex: Network mechanisms and potential roles in neural computation |
@@ -248,6 +247,7 @@
 | 2026-10-05 | Deferred | [LIT-748](../../record/literature.d/LIT-748.md) | 5 | 0 | Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States |
 | 2026-10-05 | Deferred | [LIT-717](../../record/literature.d/LIT-717.md) | 4 | 0 | Science as Social Knowledge: Values and Objectivity in Scientific Inquiry |
 | 2026-10-05 | Deferred | [LIT-723](../../record/literature.d/LIT-723.md) | 4 | 0 | Making Things Happen: A Theory of Causal Explanation |
+| 2026-10-05 | Deferred | [LIT-754](../../record/literature.d/LIT-754.md) | 4 | 0 | Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) |
 | 2026-10-05 | Deferred | [LIT-720](../../record/literature.d/LIT-720.md) | 3 | 0 | Catastrophic shifts in ecosystems |
 | 2026-10-05 | Deferred | [LIT-737](../../record/literature.d/LIT-737.md) | 3 | 0 | Governing the Commons: The Evolution of Institutions for Collective Action |
 | 2026-10-05 | Deferred | [LIT-738](../../record/literature.d/LIT-738.md) | 3 | 0 | Viability Theory |
@@ -256,10 +256,19 @@
 | 2026-10-05 | Deferred | [LIT-746](../../record/literature.d/LIT-746.md) | 3 | 0 | Brain of the Firm |
 | 2026-10-05 | Deferred | [LIT-751](../../record/literature.d/LIT-751.md) | 3 | 0 | The Problem of Intransigently Biased Agents |
 | 2026-10-05 | Deferred | [LIT-753](../../record/literature.d/LIT-753.md) | 3 | 0 | Enshittification: Why Everything Suddenly Got Worse and What to Do About It |
+| 2026-10-06 | Deferred | [LIT-758](../../record/literature.d/LIT-758.md) | 1 | 0 | Issues as Elements of Information Systems |
+| 2026-10-06 | Deferred | [LIT-759](../../record/literature.d/LIT-759.md) | 1 | 0 | Why CSCW applications fail: problems in the design and evaluation of organizational interfaces |
+| 2026-10-06 | Deferred | [LIT-762](../../record/literature.d/LIT-762.md) | 1 | 0 | gIBIS: a hypertext tool for exploratory policy discussion |
+| 2026-10-06 | Deferred | [LIT-763](../../record/literature.d/LIT-763.md) | 1 | 0 | Questions, Options, and Criteria: Elements of Design Space Analysis |
+| 2026-10-06 | Deferred | [LIT-755](../../record/literature.d/LIT-755.md) | 0 | 0 | A Process-Oriented Approach to Design Rationale |
+| 2026-10-06 | Deferred | [LIT-756](../../record/literature.d/LIT-756.md) | 0 | 0 | Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems |
+| 2026-10-06 | Deferred | [LIT-757](../../record/literature.d/LIT-757.md) | 0 | 0 | Groupware and social dynamics: eight challenges for developers |
+| 2026-10-06 | Deferred | [LIT-760](../../record/literature.d/LIT-760.md) | 0 | 0 | Design rationale systems: understanding the issues |
+| 2026-10-06 | Deferred | [LIT-761](../../record/literature.d/LIT-761.md) | 0 | 0 | Argumentation-based design rationale: what use at what cost? |
 
 ## THEORYs
 
-129 of the 372.
+129 of the 381.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -307,6 +316,7 @@
 | 2026-10-03 | Proposed | [THEORY-122](../../record/theory.d/THEORY-122.md) | 14 | 0 | Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 12 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
 | 2026-10-03 | Proposed | [THEORY-118](../../record/theory.d/THEORY-118.md) | 12 | 0 | Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons |
+| 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 11 | 0 | Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 11 | 0 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 11 | 0 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-073](../../record/theory.d/THEORY-073.md) | 11 | 0 | A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces |
@@ -332,12 +342,10 @@
 | 2026-10-03 | Proposed | [THEORY-094](../../record/theory.d/THEORY-094.md) | 6 | 0 | Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does |
 | 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 6 | 0 | Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom |
 | 2026-10-03 | Proposed | [THEORY-114](../../record/theory.d/THEORY-114.md) | 6 | 0 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
-| 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 5 | 0 | Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 5 | 0 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
 | 2026-10-03 | Proposed | [THEORY-084](../../record/theory.d/THEORY-084.md) | 4 | 0 | Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 4 | 0 | Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced |
 | 2026-10-03 | Proposed | [THEORY-109](../../record/theory.d/THEORY-109.md) | 4 | 0 | The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum |
-| 2026-10-03 | Proposed | [THEORY-046](../../record/theory.d/THEORY-046.md) | 3 | 0 | Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it |
 | 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 3 | 0 | Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-059](../../record/theory.d/THEORY-059.md) | 3 | 0 | The readiness potential does not show that a neural decision to act precedes awareness of the urge to act |
 | 2026-10-03 | Proposed | [THEORY-074](../../record/theory.d/THEORY-074.md) | 3 | 0 | Implicit accessibility of the true self-concept is not what self-report scales of authenticity or of need satisfaction measure, though those two self-reports are not shown to be separate constructs |
@@ -381,6 +389,7 @@
 | 2026-10-05 | Proposed | [THEORY-133](../../record/theory.d/THEORY-133.md) | 8 | 0 | A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels |
 | 2026-10-05 | Proposed | [THEORY-145](../../record/theory.d/THEORY-145.md) | 8 | 0 | Organizations that espouse revising their governing values characteristically fail to, because the theory-in-use people actually act on keeps premises tacit and tests self-sealing, and the resulting defensive routines make the inconsistency, and its undiscussability, undiscussable; so errors are corrected within the governing values (single-loop) while the values themselves go unexamined |
 | 2026-10-05 | Proposed | [THEORY-144](../../record/theory.d/THEORY-144.md) | 7 | 0 | Under steady cost and effort pressure, an organization's activity migrates toward the boundary of acceptable performance, and redundant defences erode unobserved because a breach of one shows no effect, so that major accidents arise from many locally reasonable decisions rather than from coincident errors |
+| 2026-10-05 | Proposed | [THEORY-154](../../record/theory.d/THEORY-154.md) | 7 | 0 | Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success |
 | 2026-10-05 | Proposed | [THEORY-140](../../record/theory.d/THEORY-140.md) | 5 | 0 | At NASA, as the Columbia Accident Investigation Board found, the Challenger and Columbia accidents had the same organizational cause: evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms |
 | 2026-10-05 | Proposed | [THEORY-141](../../record/theory.d/THEORY-141.md) | 4 | 0 | In a major evolutionary transition, where formerly free-living units come to form a higher-level unit, the collective is stable only if selection between collectives comes to trump selection among the units within them, typically through mechanisms such as policing, kinship and division of labour that align the interests of the units; the levels at which selection acts are then a product of evolution, to be explained rather than assumed |
 | 2026-10-05 | Proposed | [THEORY-131](../../record/theory.d/THEORY-131.md) | 3 | 0 | A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person |
@@ -397,4 +406,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (28): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-106](../../record/theory.d/THEORY-106.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [THEORY-117](../../record/theory.d/THEORY-117.md), [THEORY-124](../../record/theory.d/THEORY-124.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (33): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [THEORY-006](../../record/theory.d/THEORY-006.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-106](../../record/theory.d/THEORY-106.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [THEORY-117](../../record/theory.d/THEORY-117.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-756](../../record/literature.d/LIT-756.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-761](../../record/literature.d/LIT-761.md) — these are the cheapest to close, since nothing depends on the answer.
