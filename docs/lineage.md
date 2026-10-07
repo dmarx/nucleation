@@ -2,7 +2,7 @@
 
 # Lines of work
 
-50 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+51 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -267,6 +267,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+
+## design-rationale
+
+### From Issues as Elements of Information Systems
+
+- [LIT-758](../record/literature.d/LIT-758.md) — Issues as Elements of Information Systems *(Deferred)*
+  - [LIT-762](../record/literature.d/LIT-762.md) — gIBIS: a hypertext tool for exploratory policy discussion *(Deferred)*
+    - [LIT-755](../record/literature.d/LIT-755.md) — A Process-Oriented Approach to Design Rationale *(Deferred)*
 
 ## ecology
 
