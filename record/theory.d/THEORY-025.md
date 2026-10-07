@@ -37,6 +37,8 @@ summary: >-
   and a shared intuition, and Sen says it stands without his positive
   proposal. The resourcist reply (Pogge) is not held, and the claim does
   not say capabilities are the right replacement.
+supports:
+- CLAIM-tmphbje3
 ---
 
 # THEORY-025: Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation

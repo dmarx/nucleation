@@ -42,6 +42,9 @@ summary: >-
   with no controller choosing the pattern. Proposed, because the 1985
   paper and the 1986 stochastic analysis are unread and the data are
   held as their author reports them.
+supports:
+- CLAIM-tmpce4jz
+- CLAIM-tmpvu536
 ---
 <!-- inactive-ok-file: LIT-588 LIT-578 — Deferred; HKB 1985 and Dynamic Patterns, named as the unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->

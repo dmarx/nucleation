@@ -45,6 +45,8 @@ summary: >-
   the normal is normative: health is an organism's capacity to institute
   new norms in a changed environment, and disease a narrowed capacity to
   do so. Unread: registered from metadata and secondary accounts.
+supports:
+- CLAIM-tmp5ljag
 ---
 <!-- inactive-ok-file: LIT-738 — Deferred; cited only as the precedent for dating a book from its first edition -->
 
