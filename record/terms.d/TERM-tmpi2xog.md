@@ -7,13 +7,13 @@ tags:
 - society-and-governance
 date: '2026-10-04'
 line: will-organization
+used_by:
+- CLAIM-tmpgnnj0
+- CLAIM-tmpo4t0w
 summary: >-
   Three relations among rules that are easily conflated: precedence orders
   applicable constraints, jurisdiction governs which apply, suspension
   governs when an applicable one may be disabled (Section 5.3).
-used_by:
-- CLAIM-tmpgnnj0
-- CLAIM-tmpo4t0w
 ---
 
 # TERM-tmpi2xog: precedence, jurisdiction and suspension

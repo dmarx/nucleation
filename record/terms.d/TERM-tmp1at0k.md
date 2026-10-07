@@ -9,13 +9,13 @@ date: '2026-10-04'
 line: will-organization
 superseded_by:
 - TERM-tmpn9tow
+used_by:
+- CLAIM-tmp2xzhw
 summary: >-
   Will defined dynamically: a higher-order attractor that stabilizes which
   first-order regimes govern action. The owner's operational definition at
   U34; replaced by will-organization once the account became
   agent-indexed.
-used_by:
-- CLAIM-tmp2xzhw
 ---
 <!-- inactive-ok-file: CLAIM-tmp25zdy — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-tmphgiju — Superseded; replaced, and cited as the history this entry answers or replaces -->

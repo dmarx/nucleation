@@ -16,13 +16,13 @@ answers:
 uses:
 - TERM-tmp5izuc
 - TERM-tmpaqil3
+supports:
+- CLAIM-tmps8d1r
+- CLAIM-tmpuaqoi
 summary: >-
   Organizational authenticity (A252), proposed at the owner's request at
   U70. Set aside with its whole line at the audit of 2026-10-05 (U76–U77):
   "ownership criteria remain insufficiently defended".
-supports:
-- CLAIM-tmps8d1r
-- CLAIM-tmpuaqoi
 ---
 <!-- inactive-ok-file: CLAIM-tmps8d1r CLAIM-tmpuaqoi TERM-tmp5izuc TERM-tmpaqil3 — Deferred; set aside, and cited to say what was set aside with it -->
 

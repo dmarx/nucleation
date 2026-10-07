@@ -10,16 +10,17 @@ tags:
 - agency
 - free-will
 date: '2026-10-04'
+line: will-organization
 superseded_by:
 - CLAIM-tmpmguco
 objects_to:
 - CLAIM-tmp25zdy
+countered_by:
+- CASE-tmpytqmw
 summary: >-
   The owner's reply at U34: minimal wills for simple systems are no
   reductio, and corporations can coherently act freely or have their hand
   forced. Superseded when the paper chose to suppose its agent instead.
-countered_by:
-- CASE-tmpytqmw
 ---
 
 # CLAIM-tmphgiju: That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience

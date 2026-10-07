@@ -10,7 +10,7 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
-objects_to:
+undercuts:
 - ARG-tmpdl16p
 summary: >-
   The caution the paper states before using Fraenkel (Section 5.6). As an

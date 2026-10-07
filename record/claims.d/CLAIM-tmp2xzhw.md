@@ -15,12 +15,12 @@ superseded_by:
 - CLAIM-tmp8swu5
 uses:
 - TERM-tmp1at0k
+objected_by:
+- CLAIM-tmp25zdy
 summary: >-
   The account of will as the exchange first stated it, with the owner's
   operational definition at U34. Superseded by the agent-indexed
   [CLAIM-tmp8swu5](CLAIM-tmp8swu5.md).
-objected_by:
-- CLAIM-tmp25zdy
 ---
 <!-- inactive-ok-file: CLAIM-tmp8swu5 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmp25zdy — Rejected; answered or abandoned, and cited as the history this entry answers -->

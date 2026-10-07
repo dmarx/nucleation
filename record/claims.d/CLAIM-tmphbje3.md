@@ -10,7 +10,8 @@ tags:
 - social-ontology
 - ethics
 date: '2026-10-04'
-rests_on:
+line: distributed-agency
+grounds:
 - THEORY-150
 - THEORY-025
 summary: >-

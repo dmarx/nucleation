@@ -18,8 +18,12 @@ version: 1
 # in luria.yaml; answer each in the body, or expect an objection.
 form: analogy
 
+# Premises: the record's own claims in `rests_on`, readings, cases and works
+# in `grounds`. At least one of the two.
 rests_on:
 - CLAIM-000
+# grounds:
+# - THEORY-000
 concludes:
 - CLAIM-000
 
@@ -32,7 +36,7 @@ summary: >-
   The inference, and its weakest step.
 ---
 
-<!-- unresolved-ok-file: CLAIM-000 — the placeholder a new document replaces -->
+<!-- unresolved-ok-file: CLAIM-000, THEORY-000 — the placeholder a new document replaces -->
 
 # ARG-NNN: From the premises to the conclusion, in one line
 

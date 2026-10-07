@@ -7,12 +7,12 @@ tags:
 - social-ontology
 date: '2026-10-04'
 line: authenticity
+used_by:
+- CLAIM-tmp4o38w
 summary: >-
   A graded property: how far an agent's operative commitments arise
   through, remain integrated with, and are answerable to its own
   constitutive organization (A252). Set aside with its line on 2026-10-05.
-used_by:
-- CLAIM-tmp4o38w
 ---
 <!-- inactive-ok-file: TERM-tmpaqil3 — Deferred; set aside, and cited to say what was set aside with it -->
 

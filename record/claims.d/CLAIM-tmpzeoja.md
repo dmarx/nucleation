@@ -12,7 +12,7 @@ date: '2026-10-05'
 line: will-organization
 works:
 - organization-of-will
-rests_on:
+grounds:
 - CASE-tmpcq3qe
 - CASE-tmp32e66
 objects_to:

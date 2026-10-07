@@ -16,15 +16,15 @@ works:
 - organization-of-will
 answers:
 - QUESTION-tmphvylg
-rests_on:
+grounds:
 - THEORY-120
 uses:
 - TERM-tmplcspp
+supports:
+- CLAIM-tmp8swu5
 summary: >-
   The distinction the paper inherits from Frankfurt ([THEORY-120](../theory.d/THEORY-120.md)) and
   generalizes beyond desires: the audit's "established foundation".
-supports:
-- CLAIM-tmp8swu5
 ---
 <!-- inactive-ok-file: CLAIM-tmp8swu5 THEORY-120 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

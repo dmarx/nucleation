@@ -7,16 +7,17 @@ tags:
 - agency
 - complex-systems
 date: '2026-10-04'
-rests_on:
+line: distributed-agency
+grounds:
 - LIT-436
 - THEORY-069
 - LIT-439
+objected_by:
+- CLAIM-tmpce4jz
 summary: >-
   The assistant's framing at A8: three accounts of distributed agency as
   three rival pictures of the whole. Rejected after the owner's objection
   at U7, which the assistant conceded at A10.
-objected_by:
-- CLAIM-tmpce4jz
 ---
 <!-- inactive-ok-file: THEORY-069 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -8,7 +8,7 @@ tags:
 - agency
 date: '2026-10-04'
 line: will-organization
-rests_on:
+grounds:
 - CASE-tmpee7eo
 - LIT-tmp9p3p1
 concludes:
@@ -16,7 +16,7 @@ concludes:
 summary: >-
   The historical line of support for [CLAIM-tmpo4t0w](../claims.d/CLAIM-tmpo4t0w.md) (Section 5.6).
   Undercut except in its structural respect ([CLAIM-tmp9xb12](../claims.d/CLAIM-tmp9xb12.md)).
-objected_by:
+undercut_by:
 - CLAIM-tmp9xb12
 ---
 

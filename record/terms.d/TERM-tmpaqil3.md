@@ -7,13 +7,13 @@ tags:
 - ethics
 date: '2026-10-04'
 line: authenticity
+used_by:
+- CLAIM-tmp4o38w
 summary: >-
   A graded relational property of how an encompassing agent's governing
   organization stands to the capacities of its constituents and
   dependencies (A249). Defined at least five ways in the exchange; set
   aside as future work.
-used_by:
-- CLAIM-tmp4o38w
 ---
 
 # TERM-tmpaqil3: cross-scale concordance

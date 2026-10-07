@@ -414,6 +414,10 @@ vocabularies:
       (ADR-031).
     alert: Closed, so that a line is one somebody named.
     terms:
+      distributed-agency:
+        label: Distributed agency
+        blurb: what an organized whole is, and how its operative direction relates to its members' —
+          where the essay started
       will-organization:
         label: Will-organization
         blurb: what organizes practical efficacy in an agent, and how that organization becomes precarious
@@ -509,11 +513,11 @@ schemes:
       supports:
         label: Cited in support by
         blurb: the record's own claims and arguments that rest on this work without a reading of it, written
-          by `luria link --fix` from their `rests_on`. A THEORY drawn from the work is the stronger footing
+          by `luria link --fix` from their `grounds`. A THEORY drawn from the work is the stronger footing
         scheme: [CLAIM, ARG]
         required: false
         many: true
-        converse: rests_on
+        converse: grounds
     fields:
       published:
         required: true
@@ -647,11 +651,11 @@ schemes:
       supports:
         label: Supports
         blurb: the record's own claims and arguments resting on this account, written by `luria link --fix`
-          from their `rests_on`. Rejecting this account leaves each of them needing another route
+          from their `grounds`. Rejecting this account leaves each of them needing another route
         scheme: [CLAIM, ARG]
         required: false
         many: true
-        converse: rests_on
+        converse: grounds
     fields:
       promote_when:
         required_when:
@@ -741,7 +745,8 @@ schemes:
         closed: true
       line:
         vocabulary: lines
-    axis: tags
+        required: true
+    axis: line
   CLAIM:
     dir: record/claims.d
     output: docs/claims
@@ -758,10 +763,19 @@ schemes:
         converse: answered_by
       rests_on:
         label: Rests on
-        blurb: what this claim could not stand without — an account the record has read (THEORY), another
-          of its own claims, a case, or a work cited without a reading (LIT), which is the weakest. Retired,
-          any of them leaves this claim needing another route (ADR-031)
-        scheme: [THEORY, CLAIM, CASE, LIT]
+        blurb: another of the record's own claims this one could not stand without — the spine of the
+          argument, walked as the `argument` chain. Retired, it leaves this claim needing another route
+          (ADR-031)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supports
+      grounds:
+        label: Grounded in
+        blurb: evidence from outside the record's own argument — an account it has read (THEORY), a case,
+          or a work cited without a reading (LIT), which is the weakest. The split from `rests_on` is
+          THEORY's own, between `presupposes` and `source` (ADR-031)
+        scheme: [THEORY, CASE, LIT]
         required: false
         many: true
         converse: supports
@@ -782,9 +796,10 @@ schemes:
         converse: concludes
       objects_to:
         label: Objects to
-        blurb: the claim this one denies (a rebuttal, or an undermining if it is a premise) or the argument
-          whose inference it denies (an undercut). Which, follows from what it names
-        scheme: [CLAIM, ARG]
+        blurb: the claim this one denies — a rebuttal, or an undermining if that claim is a premise. Walked
+          as the `dialectic` chain, so an objection, its reply and the reply to that read as one thread
+          (ADR-031)
+        scheme: CLAIM
         required: false
         many: true
         converse: objected_by
@@ -795,6 +810,29 @@ schemes:
         required: false
         many: true
         converse: objects_to
+      undercuts:
+        label: Undercuts
+        blurb: the argument whose inference this claim denies, leaving its premises and its conclusion
+          standing
+        scheme: ARG
+        required: false
+        many: true
+        converse: undercut_by
+      superseded_by:
+        label: Superseded by
+        blurb: the claim that replaced this one. Declared here rather than left to the built-in, so it has
+          a converse and the `revisions` chain can walk how a thesis changed (ADR-031)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supersedes
+      supersedes:
+        label: Supersedes
+        blurb: the claim this one replaced, written by `luria link --fix` from its `superseded_by`
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: superseded_by
       complements:
         label: Complements
         blurb: answers a different part of the same question, so the two belong together rather than
@@ -845,10 +883,11 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+        required: true
       works:
         vocabulary: works
         many: true
-    axis: tags
+    axis: line
   CASE:
     dir: record/cases.d
     output: docs/cases
@@ -858,16 +897,16 @@ schemes:
     references:
       supports:
         label: Supports
-        blurb: the claims and arguments resting on this case, written by `luria link --fix` from their
-          `rests_on`.
+        blurb: the claims and arguments grounded in this case, written by `luria link --fix` from their
+          `grounds`.
         scheme: [CLAIM, ARG]
         required: false
         many: true
-        converse: rests_on
+        converse: grounds
       illustrates:
         label: Illustrates
         blurb: a claim this case makes vivid without bearing its weight. Losing the case costs the claim
-          an example, not a premise; that is what separates this from `rests_on`
+          an example, not a premise; that is what separates this from `grounds`
         scheme: CLAIM
         required: false
         many: true
@@ -936,6 +975,20 @@ schemes:
         required: false
         many: true
         converse: uses
+      superseded_by:
+        label: Superseded by
+        blurb: the term whose definition replaced this one's (ADR-031)
+        scheme: TERM
+        required: false
+        many: true
+        converse: supersedes
+      supersedes:
+        label: Supersedes
+        blurb: the term this one's definition replaced, written by `luria link --fix`
+        scheme: TERM
+        required: false
+        many: true
+        converse: superseded_by
     fields:
       status:
         vocabulary: statuses
@@ -956,10 +1009,17 @@ schemes:
     references:
       rests_on:
         label: Premises
-        blurb: what the inference starts from. The premises of one argument work together; a claim with
-          two arguments has two independent lines of support
-        scheme: [THEORY, CLAIM, CASE, LIT]
-        required: true
+        blurb: the record's own claims the inference starts from. The premises of one argument work together;
+          a claim with two arguments has two independent lines of support
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supports
+      grounds:
+        label: Grounded in
+        blurb: the readings, cases and works the inference starts from, as on a CLAIM
+        scheme: [THEORY, CASE, LIT]
+        required: false
         many: true
         converse: supports
       concludes:
@@ -969,13 +1029,19 @@ schemes:
         required: true
         many: true
         converse: argued_by
-      objected_by:
-        label: Objected to by
-        blurb: claims denying this inference — undercuts — written by `luria link --fix` from their `objects_to`.
+      undercut_by:
+        label: Undercut by
+        blurb: claims denying this inference, written by `luria link --fix` from their `undercuts`.
         scheme: CLAIM
         required: false
         many: true
-        converse: objects_to
+        converse: undercuts
+    field_groups:
+      premises:
+        fields:
+        - rests_on
+        - grounds
+        require: at-least-one
     fields:
       status:
         vocabulary: theory-statuses
@@ -1081,5 +1147,47 @@ chains:
     invariant: tags
     output: docs/theory-lines.md
     title: Lines of explanation
+    facet_by:
+    - status
+  argument:
+    scheme: CLAIM
+    relation:
+    - rests_on
+    invariant: line
+    output: docs/argument-lines.md
+    title: Lines of argument
+    blurb: The record's own claims in the order they rest on one another, from what is taken as given
+      to what is concluded. A step that crosses from one line of inquiry to another is reported, because
+      that is how a line set aside reaches back into one still standing (ADR-031).
+    facet_by:
+    - status
+  dialectic:
+    scheme: CLAIM
+    relation:
+    - objects_to
+    output: docs/dialectic.md
+    title: Objections and replies
+    blurb: Each objection with the reply to it and the reply to that, as one thread. Faceted by voice
+      and by credence, so an open objection is a counter still Proposed (ADR-031).
+    facet_by:
+    - role
+    - status
+  revisions:
+    scheme: CLAIM
+    relation:
+    - supersedes
+    output: docs/revisions.md
+    title: How the claims changed
+    blurb: Each claim followed by the claims that replaced it, oldest first (ADR-031).
+    facet_by:
+    - status
+  term-revisions:
+    scheme: TERM
+    relation:
+    - supersedes
+    output: docs/term-revisions.md
+    title: How the terms changed
+    blurb: Each definition followed by the definitions that replaced it, oldest first. Most of the drift
+      in the exchange that prompted these schemes was here (ADR-031).
     facet_by:
     - status

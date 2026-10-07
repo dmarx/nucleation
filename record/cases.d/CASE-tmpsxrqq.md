@@ -9,13 +9,13 @@ tags:
 date: '2026-10-04'
 superseded_by:
 - CASE-tmp7f9bu
+substituted_by:
+- CASE-tmp7f9bu
 summary: >-
   The owner's case at U12: a company founded by researchers and
   open-source developers that churned almost its whole staff in a year and
   became a generic corporate entity. Replaced by the fictional
   [CASE-tmp7f9bu](CASE-tmp7f9bu.md).
-substituted_by:
-- CASE-tmp7f9bu
 ---
 
 # CASE-tmpsxrqq: Stability AI: well-intentioned founders, near-total churn, generic successor

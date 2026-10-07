@@ -12,12 +12,12 @@ tags:
 - cognition
 date: '2026-10-04'
 line: organizational-affect
+illustrated_by:
+- CASE-tmpym30r
 summary: >-
   The owner's point at U26: an organization's permission structure plays
   the role functional connectivity plays in a brain, and the daydreaming
   driver shows access within one agent can be compartmented.
-illustrated_by:
-- CASE-tmpym30r
 ---
 
 # CLAIM-tmp0r2x7: A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it

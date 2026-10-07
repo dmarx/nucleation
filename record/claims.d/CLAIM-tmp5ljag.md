@@ -13,7 +13,7 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
-rests_on:
+grounds:
 - LIT-tmpi17c0
 summary: >-
   An interpretation, not a premise (Section 6.8): "Nor does the present

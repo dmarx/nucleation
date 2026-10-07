@@ -14,8 +14,10 @@ tags:
 - agency
 date: '2026-01-01'
 
+# REQUIRED: the line of inquiry, from `lines` in luria.yaml.
+line: will-organization
+
 # refines: [QUESTION-000]   # the broader question this sharpens
-# line: will-organization
 
 summary: >-
   Why the question matters, and what would count as an answer.

@@ -7,12 +7,12 @@ tags:
 - social-ontology
 date: '2026-10-05'
 line: authenticity
+answered_by:
+- CLAIM-tmps8d1r
 summary: >-
   The owner's question at U75: authenticity, if it gives normativity at
   all, gives it downward from an agent to its constituents, and not
   sideways between peers. Set aside with the authenticity line.
-answered_by:
-- CLAIM-tmps8d1r
 ---
 <!-- inactive-ok-file: CLAIM-tmp4o38w CLAIM-tmps8d1r CLAIM-tmpuaqoi — Deferred; set aside, and cited to say what was set aside with it -->
 

@@ -16,13 +16,13 @@ works:
 - organization-of-will
 uses:
 - TERM-tmpi2xog
+argued_by:
+- ARG-tmp0600t
+- ARG-tmpdl16p
 summary: >-
   The structural lesson the paper takes from Fraenkel (Section 5.6), with
   two independent lines of support: the historical analogy and the
   constructed Northstar case. The audit's "strong conceptual refinement".
-argued_by:
-- ARG-tmp0600t
-- ARG-tmpdl16p
 ---
 
 # CLAIM-tmpo4t0w: A constraint may govern conduct without governing the conditions under which it remains authoritative

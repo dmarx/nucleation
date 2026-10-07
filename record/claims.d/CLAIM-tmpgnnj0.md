@@ -15,12 +15,12 @@ works:
 - organization-of-will
 uses:
 - TERM-tmpi2xog
+argued_by:
+- ARG-tmp0600t
 summary: >-
   Shown by the classification variants of Northstar (Sections 5.3–5.5): a
   formally absolute rule can be weak because another process controls
   entry into its domain.
-argued_by:
-- ARG-tmp0600t
 ---
 
 # CLAIM-tmpgnnj0: Precedence, jurisdiction and suspension can vary independently

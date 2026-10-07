@@ -12,12 +12,12 @@ works:
 - organization-of-will
 objects_to:
 - CLAIM-tmp25zdy
+illustrated_by:
+- CASE-tmpytqmw
 summary: >-
   The boundary the paper draws against its own most-repeated objection:
   thermostats, adaptive controllers and organizationally closed systems
   regulate without warranting an agent.
-illustrated_by:
-- CASE-tmpytqmw
 ---
 <!-- inactive-ok-file: CLAIM-tmp25zdy — Rejected; answered or abandoned, and cited as the history this entry answers -->
 

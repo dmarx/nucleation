@@ -7,12 +7,12 @@ tags:
 - agency
 date: '2026-10-04'
 line: authenticity
+answered_by:
+- CLAIM-tmp4o38w
 summary: >-
   The ownership question. The authenticity line was built to answer it and
   was set aside with it at the audit of 2026-10-05; the paper now
   disclaims it ([CLAIM-tmp64xks](../claims.d/CLAIM-tmp64xks.md)).
-answered_by:
-- CLAIM-tmp4o38w
 ---
 <!-- inactive-ok-file: CLAIM-tmp4o38w — Deferred; set aside, and cited to say what was set aside with it -->
 

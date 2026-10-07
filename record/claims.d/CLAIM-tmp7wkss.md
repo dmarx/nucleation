@@ -13,16 +13,16 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
-rests_on:
+grounds:
 - CASE-tmpzunvm
 uses:
 - TERM-tmpllxz0
-summary: >-
-  Section 6.2, from the emergency variant of Northstar.
-illustrated_by:
-- CASE-tmpzunvm
 supports:
 - ARG-tmppqfc1
+illustrated_by:
+- CASE-tmpzunvm
+summary: >-
+  Section 6.2, from the emergency variant of Northstar.
 ---
 
 # CLAIM-tmp7wkss: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately

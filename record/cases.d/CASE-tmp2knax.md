@@ -10,12 +10,12 @@ date: '2026-10-05'
 line: will-organization
 variant_of:
 - CASE-tmpnmf9j
+supports:
+- ARG-tmp0600t
 summary: >-
   A severe-incident rule with strong precedence, whose force depends on
   which team controls severity classification, plus a business-critical
   override held by senior management (Sections 5.3–5.5).
-supports:
-- ARG-tmp0600t
 ---
 
 # CASE-tmp2knax: Northstar classification: who decides an incident is severe
