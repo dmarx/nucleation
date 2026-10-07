@@ -1,25 +1,23 @@
 ---
 number: 46
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp4rbva
-promote_when: >-
-  A reading of the other side. Cameron and Pierce (1994, LIT-556) and
-  their 2001 reply (LIT-562) are both unread, so the record holds
-  this effect from one meta-analysis and its account of its rival. The
-  account becomes Active if a first-hand reading of the reply (free in
-  PubMed Central, PMC2731358) finds the same direction for expected
-  tangible rewards given for engaging in an interesting task, as its
-  abstract suggests ("loosely tied to level of performance"). It is also
-  promoted by a well-powered preregistered experiment with a no-reward
-  control finding the effect. It is refuted by a re-analysis that, coding
-  the same studies, finds no reliable effect for this contingency, or by
-  multi-session studies with proper controls in which the effect vanishes.
-  What cannot settle it: disputes about performance-contingent rewards,
-  self-reported interest or low-interest tasks, which this account does
-  not claim.
 title: 'Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    Cameron, Banko and Pierce's 2001 reply (LIT-562) was read first-hand,
+    on the owner's instruction, and added as a source. It finds the same
+    direction for expected tangible rewards offered for doing an
+    interesting task (K = 57, −0.35 before outliers, still negative after
+    them), which is the reading this account's promotion condition named,
+    so the status moved from Proposed to Active. Its durability evidence
+    is recorded under what this does not say. It counts significant
+    results in seven delayed-measure studies rather than pooling them, so
+    it does not meet the refutation clause, which is kept in the body.
 tags:
 - motivation
 - social-science
@@ -27,6 +25,7 @@ tags:
 date: '2026-10-03'
 source:
 - LIT-557
+- LIT-562
 summary: >-
   Deci, Koestner and Ryan (1999, [LIT-557](../literature.d/LIT-557.md)): across 55 experiments,
   expected tangible rewards given for working on an interesting task
@@ -35,10 +34,13 @@ summary: >-
   interest less (−0.15). By their study-by-study account, Cameron and
   Pierce's rival analysis found the same for this contingency
   (performance-independent rewards, −0.29), while disputing nearly
-  everything else. Proposed because the rival side is unread here.
+  everything else. Their 2001 reply (LIT-562), read here, re-codes 145
+  studies and finds it again: rewards offered for doing an interesting
+  task lowered free choice, −0.35 across 57 studies. Active: both sides of
+  the dispute find this effect.
 ---
-<!-- inactive-ok-file: LIT-556 LIT-562 — Deferred: the rival meta-analysis and its reply are unread; named as the side that would settle this, not leaned on -->
-<!-- inactive-ok-file: LIT-545 THEORY-049 — Deferred or Proposed; named as neighbours, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->
+<!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-tmpmshgc — Deferred or Proposed; named as neighbours, nothing here rests on them -->
 
 # THEORY-046: Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it
 
@@ -48,6 +50,9 @@ summary: >-
   OCR of the authors' deposit): the engagement-contingent analysis (p. 641),
   the timing analysis (p. 650), the interesting-versus-dull analysis (p. 651),
   and Appendix A's comparison with Cameron and Pierce.
+- Cameron, Banko & Pierce (2001), [LIT-562](../literature.d/LIT-562.md), read in [NOTE-tmp6ruuz](../notes.d/NOTE-tmp6ruuz.md): the
+  results for rewards offered for doing the task (pp. 16–18), durability
+  (pp. 23–24) and magnitude (pp. 24–25).
 
 ## What was actually shown
 
@@ -73,25 +78,46 @@ which Deci et al. take to be equivalent to engagement-contingent rewards or
 nearly so, gave −0.29 on free choice (p. 641). The rival account even
 predicted this case (helplessness from rewards that do not depend on
 performance, p. 630). The disagreement in Appendix A is over coding, control
-groups, dull tasks and the other contingencies. The 2001 reply's abstract
-([LIT-562](../literature.d/LIT-562.md), unread) likewise keeps negative effects for tangible, expected
-rewards "loosely tied to level of performance".
+groups, dull tasks and the other contingencies.
+
+**The other side, read.** Cameron, Banko and Pierce's 2001 reply
+([LIT-562](../literature.d/LIT-562.md)) merges both databases (145 studies), adopts Deci et al.'s
+split by initial interest, and codes contingencies by procedure. Rewards
+offered for doing an interesting task, with no requirement to finish or do
+well, lowered free choice: K = 57, d = −0.35 (CI −0.43 to −0.27) before
+outliers, and still significantly negative once seven were removed (pp.
+16–17). Self-reported interest fell too, −0.13, or −0.22 without imputed
+zeros (p. 18). Their estimate for rewards for doing or doing well is about
+−0.30, roughly 47 seconds less in an 8-minute free period (pp. 24–25). So
+the effect is found by the analysis built to show that rewards do not
+generally harm intrinsic motivation, and the dispute between the two sides
+is about everything around it.
 
 ## What this does not say
 
 - **It does not say rewards in general undermine intrinsic motivation**, nor
   that rewards tied to performance standards do. Those are disputed.
 - **It does not say why.** Cognitive evaluation theory reads the effect as
-  felt control ([THEORY-049](THEORY-049.md)); the rival behavioural account offered
-  learned helplessness. This account is the effect only.
+  felt control ([THEORY-049](THEORY-049.md)). Cameron, Banko and Pierce read it as a reward
+  loosely tied to performance, which carries no competence information
+  ([THEORY-tmpmshgc](THEORY-tmpmshgc.md)). This account is the effect only.
 - **It does not say the effect is large or lasting in adults.** Delayed
   measures exist only for children, and repeated-reward studies with
   controls are two, with nine rewarded participants in all (p. 650).
+  Cameron, Banko and Pierce read the delayed measures the other way. Of
+  seven studies of rewards for doing the task with a second free-choice
+  measure weeks later, two showed undermining at the second. Five
+  single-subject studies without controls showed none after reward ended
+  ([LIT-562](../literature.d/LIT-562.md), pp. 23–24). They count significant results rather than
+  pooling them, so this is not the multi-session refutation the record
+  would need. But it leaves durability open, not settled.
 - **It does not cover dull tasks or self-reported interest** beyond the
   numbers given.
 
 ## Connections
 
 - **[THEORY-049](THEORY-049.md)** is the explanation SDT gives for this effect.
-- **Bandura ([LIT-545](../literature.d/LIT-545.md), unread)** and the social-cognitive account are named by
-  the rival side; the record cannot weigh them.
+- **[THEORY-tmpmshgc](THEORY-tmpmshgc.md)** is the rival explanation, from the reply that
+  confirmed the effect.
+- **Bandura ([LIT-545](../literature.d/LIT-545.md), unread).** The social-cognitive account the rival
+  side draws on; the reply cites Bandura (1986), not this paper.

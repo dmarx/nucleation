@@ -16,12 +16,25 @@ promote_when: >-
   raise free choice against a control group given the same performance
   feedback, since the account says the reward then adds control and no
   information; the rival behavioural and social-cognitive account
-  predicts enhancement there. A reading of Cameron, Banko and Pierce
-  (LIT-562), which reports such enhancement in its abstract, could
-  move this either way. Further pattern-fitting meta-analyses cannot
-  settle it, because both accounts were fitted to the same patterns.
+  predicts enhancement there. Cameron, Banko and Pierce (LIT-562),
+  now read, report enhancement of free choice by rewards for exceeding
+  others, but pool controls given feedback with controls not given it,
+  so their result does not meet this clause. Further pattern-fitting
+  meta-analyses cannot settle it, because both accounts were fitted to
+  the same patterns.
 title: 'Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-05'
+  note: >-
+    Cameron, Banko and Pierce (LIT-562), named in the promotion condition
+    as a reading that could move this either way, was read first-hand.
+    Their procedural re-coding finds rewards for surpassing a score
+    neutral and rewards for exceeding others positive on free choice.
+    They pool the two kinds of control group, so the refutation clause is
+    not met, and the status stays Proposed. Their account is filed as
+    THEORY-tmpmshgc and declared a rival.
 tags:
 - motivation
 - agency
@@ -33,6 +46,8 @@ source:
 - LIT-557
 - LIT-559
 - LIT-558
+rivals:
+- THEORY-tmpmshgc
 summary: >-
   Cognitive evaluation theory, as tested by Deci, Koestner and Ryan (1999,
   [LIT-557](../literature.d/LIT-557.md)) and summarized by Ryan and Deci ([LIT-559](../literature.d/LIT-559.md)) and Deci and
@@ -42,11 +57,13 @@ summary: >-
   undermine it; informational ones affirm competence and enhance it, but
   only with a sense of autonomy. The meta-analytic pattern fits, and
   controlling versus informational positive feedback differ by d = −0.78
-  in four studies. Mediation by felt control is untested for rewards. A
-  behavioural and social-cognitive rival exists and is unread here.
+  in four studies. Mediation by felt control is untested for rewards. Its
+  rival, Cameron, Banko and Pierce's account (LIT-562), finds rewards tied
+  to a score or to beating others do not undermine. Neither side has
+  tested mediation.
 ---
-<!-- inactive-ok-file: LIT-562 LIT-545 — Deferred; the rival account's statements, named, not leaned on -->
-<!-- inactive-ok-file: THEORY-046 THEORY-054 — Proposed; neighbours named in Connections -->
+<!-- inactive-ok-file: LIT-545 — Deferred; Bandura, named for the rival side's self-efficacy, not leaned on -->
+<!-- inactive-ok-file: THEORY-054 THEORY-tmpmshgc — Proposed; a neighbour named in Connections, and the rival account -->
 
 # THEORY-049: Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence
 
@@ -92,19 +109,31 @@ autonomy ([LIT-558](../literature.d/LIT-558.md), p. 234).
   concept of perceived self-determination ... as a mediator of reward effects
   ... a similar analysis has not been done with respect to reward effects"
   ([LIT-557](../literature.d/LIT-557.md), pp. 653–654).
-- **It does not refute the rival account by itself.** The behavioural account
-  Deci et al. test (Eisenberger and Cameron's helplessness and learned
-  industriousness) fails on their data (pp. 654–655). The later
-  social-cognitive and behavioural account of Cameron, Banko and Pierce
-  ([LIT-562](../literature.d/LIT-562.md), unread), which by its abstract has rewards tied to
-  performance raising intrinsic motivation, is a rival the record cannot yet
-  weigh, and is not declared as `rivals` until it is read.
+- **It does not refute the rival account by itself.** The behavioural
+  account Deci et al. test (Eisenberger and Cameron's helplessness and
+  learned industriousness) fails on their data (pp. 654–655). The later
+  account of Cameron, Banko and Pierce ([LIT-562](../literature.d/LIT-562.md), read in [NOTE-tmp6ruuz](../notes.d/NOTE-tmp6ruuz.md);
+  [THEORY-tmpmshgc](THEORY-tmpmshgc.md)) is different. Re-coding the studies by what participants
+  were told, they find that rewards for surpassing a score do not lower free
+  choice and rewards for exceeding others raise it, where Deci et al.'s
+  pooled performance-contingent category undermined (pp. 16–17). That
+  pattern is the one this account's refutation clause describes. But their
+  analysis pools control groups given performance feedback with control
+  groups not given it (p. 13), and the clause needs the first. The authors
+  themselves allow that this account could fit if competence information
+  overrides control (p. 26). So it is a rival, not yet a refutation.
 - **It does not explain the age effects.** Positive feedback did not raise
   children's free choice, and CET did not predict that (p. 653).
 
 ## Connections
 
 - **[THEORY-046](THEORY-046.md)** is the effect this account explains.
+- **Rivals [THEORY-tmpmshgc](THEORY-tmpmshgc.md).** Cameron, Banko and Pierce explain the same
+  effects by how tightly the stated contingency ties a reward to
+  performance and success. The two accounts agree on rewards for merely
+  doing a task. They part on rewards tied to a standard, which a strict
+  reading of this account says undermine and [LIT-562](../literature.d/LIT-562.md) finds neutral or
+  positive.
 - **[THEORY-054](THEORY-054.md).** The same notion of felt autonomy, applied to
   intrinsic motivation, where that account applies it to internalized
   regulation.

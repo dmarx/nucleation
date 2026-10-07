@@ -51,7 +51,7 @@ summary: >-
 presupposes:
 - THEORY-054
 ---
-<!-- inactive-ok-file: THEORY-046 THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-029 THEORY-074 — Proposed; the SDT and self-governance accounts this one bears on, named in prose; only THEORY-054's graded continuum is presupposed, and this account is no firmer than it -->
+<!-- inactive-ok-file: THEORY-047 THEORY-049 THEORY-052 THEORY-054 THEORY-029 THEORY-074 — Proposed; the SDT and self-governance accounts this one bears on, named in prose; only THEORY-054's graded continuum is presupposed, and this account is no firmer than it -->
 <!-- inactive-ok-file: LIT-594 — Deferred; Taylor, named for the content objection the paper concedes, not leaned on -->
 
 # THEORY-077: Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure
