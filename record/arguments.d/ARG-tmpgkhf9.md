@@ -1,0 +1,37 @@
+---
+status: Proposed
+title: 'The reluctant writer''s precommitment device changes what they do without changing what they want, so the conditions of efficacy govern which regime acts'
+version: 1
+form: contrast
+tags:
+- agency
+- self-governance
+date: '2026-10-05'
+line: will-organization
+rests_on:
+- CASE-tmpcq3qe
+concludes:
+- CLAIM-tmp8swu5
+summary: >-
+  The individual-scale line of support for [CLAIM-tmp8swu5](../claims.d/CLAIM-tmp8swu5.md) (Sections 1,
+  3.5), independent of Northstar: it does not rest on the supposition that
+  a firm is an agent.
+---
+<!-- inactive-ok-file: CLAIM-tmp8swu5 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+
+# ARG-tmpgkhf9: The reluctant writer's precommitment device changes what they do without changing what they want, so the conditions of efficacy govern which regime acts
+
+## The inference
+
+The same long-term preference, before and after blocking distracting websites;
+different behaviour after. The difference is in the conditions of efficacy.
+
+## Critical questions
+
+- **Is the preference really unchanged?** Arguably: installing the device may
+  express a strengthened preference. The paper's answer is that the content of
+  the competing regimes need not change for behaviour to change.
+- **Does it reach the meta-regulatory dimensions?** No. It shows precedence and
+  accessibility; jurisdiction and suspension have only institutional examples.
+  So this line supports the efficacy dimensions of [CLAIM-tmp8swu5](../claims.d/CLAIM-tmp8swu5.md), and the
+  cross-scale claim for the meta-regulatory ones rests on Northstar alone.
