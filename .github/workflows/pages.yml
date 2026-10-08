@@ -51,7 +51,7 @@ jobs:
         # Pin a released tag once you depend on this in anger.
         uses: dmarx/luria/actions/site@main
         with:
-          pip-spec: luria==0.36.0
+          pip-spec: "git+https://github.com/dmarx/luria@12d44f89dd0228831a932cd58ed6eba9c20bc016"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ${{ steps.site.outputs.path }}

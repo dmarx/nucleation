@@ -518,6 +518,18 @@ schemes:
         required: false
         many: true
         converse: grounds
+      superseded_by:
+        scheme:
+        - LIT
+        - ANTH
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
     fields:
       published:
         required: true
@@ -542,6 +554,8 @@ schemes:
             require: any
             tags: [anthology-candidate]
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   NOTE:
     dir: record/notes.d
     output: docs/notes
@@ -558,6 +572,16 @@ schemes:
         scheme: LIT
         required: true
         many: false
+      superseded_by:
+        scheme: NOTE
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Read
     fields:
       status:
         vocabulary: note-statuses
@@ -572,6 +596,8 @@ schemes:
         from: paper
         many: true
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   THEORY:
     dir: record/theory.d
     output: docs/theory
@@ -656,6 +682,16 @@ schemes:
         required: false
         many: true
         converse: grounds
+      superseded_by:
+        scheme: THEORY
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
     fields:
       promote_when:
         required_when:
@@ -675,6 +711,8 @@ schemes:
         required: true
         closed: true
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   ADR:
     dir: record/decisions.d
     output: docs/decisions
@@ -691,6 +729,17 @@ schemes:
         required: true
         closed: false
     axis: tags
+    references:
+      superseded_by:
+        scheme: ADR
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
   DP:
     dir: record/principles.d
     active: Active
@@ -706,6 +755,17 @@ schemes:
         required: true
         closed: false
     axis: tags
+    references:
+      superseded_by:
+        scheme: DP
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
   QUESTION:
     dir: record/questions.d
     output: docs/questions
@@ -735,6 +795,16 @@ schemes:
         required: false
         many: true
         converse: answers
+      superseded_by:
+        scheme: QUESTION
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Open
     fields:
       status:
         vocabulary: question-statuses
@@ -747,6 +817,8 @@ schemes:
         vocabulary: lines
         required: true
     axis: line
+    retires_on: Superseded
+    successor: superseded_by
   CLAIM:
     dir: record/claims.d
     output: docs/claims
@@ -888,6 +960,8 @@ schemes:
         vocabulary: works
         many: true
     axis: line
+    retires_on: Superseded
+    successor: superseded_by
   CASE:
     dir: record/cases.d
     output: docs/cases
@@ -947,6 +1021,16 @@ schemes:
         required: false
         many: true
         converse: substitutes_for
+      superseded_by:
+        scheme: CASE
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
     fields:
       status:
         vocabulary: statuses
@@ -961,6 +1045,8 @@ schemes:
       line:
         vocabulary: lines
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   TERM:
     dir: record/terms.d
     output: docs/terms
@@ -1000,6 +1086,8 @@ schemes:
       line:
         vocabulary: lines
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   ARG:
     dir: record/arguments.d
     output: docs/arguments
@@ -1036,6 +1124,16 @@ schemes:
         required: false
         many: true
         converse: undercuts
+      superseded_by:
+        scheme: ARG
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
     field_groups:
       premises:
         fields:
@@ -1056,6 +1154,8 @@ schemes:
       line:
         vocabulary: lines
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
 remotes:
   ARXIV:
     name: arXiv
