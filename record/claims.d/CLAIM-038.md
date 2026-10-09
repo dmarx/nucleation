@@ -23,6 +23,7 @@ grounds:
 - LIT-016
 - THEORY-012
 - THEORY-171
+- LIT-tmpvyqe9
 uses:
 - TERM-002
 summary: >-
@@ -88,3 +89,14 @@ discourse meaning. That is prior art for this claim's vocabulary. In their
 account, though, the discourse meaning *is* the global section, and a
 failure to glue rejects the reading. It does not leave an object without a
 global interpretation.
+
+## Language data are not compatible families
+
+- **The compatibility premise.** In Wang et al. ([LIT-tmp9rgb4](../literature.d/LIT-tmp9rgb4.md)) the language data
+  are signalling, so they are not compatible families. This claim's
+  compatibility premise therefore needs Contextuality-by-Default, or a
+  sheaf corrected for signalling.
+- **More non-gluing.** Abramsky, Barbosa and Searle ([LIT-tmpvyqe9](../literature.d/LIT-tmpvyqe9.md)) give a second,
+  independent instance of the non-gluing noted above, from incomparable
+  causal pasts (Example 7.2). They also give an example of a gluing that is
+  not unique (Example 7.3).

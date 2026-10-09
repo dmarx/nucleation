@@ -61,3 +61,13 @@ So in that framework, "several compatible global assignments" means
 several covers, not several sections over one cover. The paper models
 ambiguity and context dependence only, not contextuality in the formal
 sense.
+
+## A qualification from the language data
+
+Wang, Sadrzadeh, Abramsky and Cervantes ([LIT-tmp9rgb4](../literature.d/LIT-tmp9rgb4.md), [NOTE-tmpj1l5b](../notes.d/NOTE-tmpj1l5b.md)) find that
+ambiguity alone never yields contextuality in their phrase data. But their
+one contextual model, tap/box, is of Hardy type, and it still has two
+global assignments. So "a contextual one admits none" holds only for
+strong contextuality. For weaker contextuality the line between the two
+phenomena runs through the probabilities, not through whether any global
+assignment exists.

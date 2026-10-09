@@ -12,7 +12,15 @@ promote_when: >-
   count, since an example shows only that some spaces fail, which is
   the half already checked here.
 title: 'When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Abramsky, Barbosa and Searle 2024 (LIT-tmpvyqe9) added as a source. Its
+    Example 7.2 is a second, independent instance of deterministic data
+    failing to glue because causal pasts are incomparable, and its Example
+    7.3 adds a gluing that is not unique. The claim is unchanged.
 tags:
 - causality
 - contextuality
@@ -22,6 +30,7 @@ date: '2026-10-09'
 source:
 - LIT-808
 - LIT-800
+- LIT-tmpvyqe9
 summary: >-
   From Gogioso & Pinzani's trilogy: The Topology of Causality, [LIT-808](../literature.d/LIT-808.md),
   read in [NOTE-612](../notes.d/NOTE-612.md), with the definitions of The Combinatorics of
