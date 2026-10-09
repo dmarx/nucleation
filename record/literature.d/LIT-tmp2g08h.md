@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-09 (NOTE-tmphi66p) from the arXiv preprint (the journal version could not be reached); worth reading as the large-scale test of language-model output for contextuality, and for what its numbers rest on. A PR-prism schema of three sentences ("It is X1 and the same one is X2", "… X2 … same … X3", "… X3 and the other one is X1") is instantiated with 866,108 Simple English Wikipedia noun pairs and their adjectives; BERT gives one referent probability per sentence, and the support is fixed by the schema. Of 51,966,480 models, 77,118 (0.148%) pass the signalling-corrected sheaf test (SF < 1/6) and 36,938,948 (71.1%) the CbD test (Δ < 2). Both verdicts are fixed by three numbers per instance; the CbD one holds whenever BERT is uncertain and roughly consistent across the three sentences. The link to embedding distance is a softmax identity plus weak correlations (R² ≤ 0.08).'
+status_note: 'read in full 2026-10-09 ([NOTE-tmphi66p](../notes.d/NOTE-tmphi66p.md)) from the arXiv preprint (the journal version could not be reached); worth reading as the large-scale test of language-model output for contextuality, and for what its numbers rest on. A PR-prism schema of three sentences ("It is X1 and the same one is X2", "… X2 … same … X3", "… X3 and the other one is X1") is instantiated with 866,108 Simple English Wikipedia noun pairs and their adjectives; BERT gives one referent probability per sentence, and the support is fixed by the schema. Of 51,966,480 models, 77,118 (0.148%) pass the signalling-corrected sheaf test (SF < 1/6) and 36,938,948 (71.1%) the CbD test (Δ < 2). Both verdicts are fixed by three numbers per instance; the CbD one holds whenever BERT is uncertain and roughly consistent across the three sentences. The link to embedding distance is a softmax identity plus weak correlations (R² ≤ 0.08).'
 title: 'Quantum-Like Contextuality in Large Language Models'
 version: 1
 history:
@@ -50,7 +50,7 @@ keywords:
 implementations:
 - 'https://github.com/kinianlo/Contextuality-in-LLM'
 summary: >-
-  Lo, Sadrzadeh & Mansfield (2024), ARXIV-2412.16806, Proc. R. Soc. A
+  Lo, Sadrzadeh & Mansfield (2024), [ARXIV-2412.16806](https://arxiv.org/abs/2412.16806), Proc. R. Soc. A
   481:20240399 (2025). Instantiates a three-sentence anaphora schema with
   the support of a PR prism 51,966,480 times from Simple English Wikipedia
   and takes referent probabilities from BERT: 0.148% of the models are
@@ -62,6 +62,8 @@ extends:
 - LIT-016
 - LIT-265
 - LIT-831
+supports:
+- CLAIM-037
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for the data claim this reading bears on, not as settled -->
@@ -70,7 +72,7 @@ extends:
 
 Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield (2024), *Proceedings
 of the Royal Society A* 481(2319): 20240399 (2025), DOI
-10.1098/rspa.2024.0399 — ARXIV-2412.16806
+10.1098/rspa.2024.0399 — [ARXIV-2412.16806](https://arxiv.org/abs/2412.16806)
 
 ## Key takeaways
 
@@ -109,11 +111,11 @@ of the Royal Society A* 481(2319): 20240399 (2025), DOI
 ## Standing in the record
 
 Filed on 2026-10-09 at the owner's direct request, as the BERT study
-that LIT-842 names among the later work of the Sadrzadeh programme. It is
+that [LIT-842](LIT-842.md) names among the later work of the Sadrzadeh programme. It is
 not from the manuscript bibliography: the owner asked for it directly on
 2026-10-09. It is the largest claimed case of contextuality in
-language-related data the record holds, and it is read against THEORY-013
-and the claims of line `pragmatic-transport` in NOTE-tmphi66p. Its
+language-related data the record holds, and it is read against [THEORY-013](../theory.d/THEORY-013.md)
+and the claims of line `pragmatic-transport` in [NOTE-tmphi66p](../notes.d/NOTE-tmphi66p.md). Its
 measuring instrument is a language model, not people or a corpus count,
 and the flag records that its embedding analysis could be held by the
 anthology.

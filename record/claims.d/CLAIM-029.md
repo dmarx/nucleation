@@ -17,6 +17,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 uses:
 - TERM-025
+grounds:
+- LIT-460
 summary: >-
   The owner at U17, offered as a motivating example "maybe even just for
   notational purposes". The assistant made it the primary formal example
@@ -62,3 +64,9 @@ definitions", and the notation P_θ(y | c, u) is gone from the manuscript.
   with content fixed, moves accuracy from near chance to near the state of
   the art. Good orders do not transfer across model sizes, so the "frame"
   is sensitive to surface form.
+
+## Prior statement
+
+Shanahan, McDonell and Reynolds's role play ([LIT-460](../literature.d/LIT-460.md), read in [NOTE-370](../notes.d/NOTE-370.md))
+states this idea most clearly before the manuscript. The prompt selects a
+role from a superposition of characters, and each reply narrows the set.

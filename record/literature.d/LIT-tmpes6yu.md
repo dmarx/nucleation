@@ -45,6 +45,9 @@ summary: >-
 extends:
 - LIT-016
 - LIT-265
+extended_by:
+- LIT-tmp5at9s
+- LIT-tmpjk0t0
 ---
 
 <!-- inactive-ok-file: THEORY-tmprxblg — Proposed; the theory this reading is a source of, cited as such -->
