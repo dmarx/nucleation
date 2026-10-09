@@ -18,6 +18,8 @@ summary: >-
   A44 §4 and A48 §5.5, recovered. Kept to outline v4 (§9.5); absent from
   the manuscript, which keeps the context/interpreter split but not its
   consequence for fidelity. Apparently dropped by inadvertence.
+supports:
+- CLAIM-tmpduv33
 ---
 <!-- inactive-ok-file: CLAIM-tmpxrgp3 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

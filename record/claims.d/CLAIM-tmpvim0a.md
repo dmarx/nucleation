@@ -17,7 +17,7 @@ rests_on:
 supersedes:
 - CLAIM-tmpartp6
 superseded_by:
-- CLAIM-tmpww3q0
+- CLAIM-tmp509ul
 uses:
 - TERM-tmpy2t4f
 - TERM-tmp1q23v
@@ -28,6 +28,7 @@ summary: >-
   those symmetries are broken?" The manuscript's §1 thesis is a softened
   form.
 ---
+<!-- inactive-ok-file: CLAIM-tmp509ul — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpartp6 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpwnnx4 CLAIM-tmpww3q0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -50,4 +51,6 @@ The manuscript §1 keeps it in softer words: "communicative identity should be
 described through a system of relationally organized observables", whose
 identity "depends on which patterns of differences, compatibility relations, and
 inferential consequences remain identifiable under transformation" ([CLAIM-tmpww3q0](CLAIM-tmpww3q0.md)).
-Versions after U37 are outside this chunk.
+Before that, the crystallized argument (U38) answered the title
+question with "the invariants—and approximately preserved relations—of
+communicative transformation" ([CLAIM-tmp509ul](CLAIM-tmp509ul.md)).

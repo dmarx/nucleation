@@ -27,6 +27,8 @@ summary: >-
   reorganizing transformations.
 supports:
 - CLAIM-tmpvim0a
+- CLAIM-tmp509ul
+- CLAIM-tmptzrxc
 ---
 <!-- inactive-ok-file: CLAIM-tmp4fgys — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpse4aa — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

@@ -16,6 +16,7 @@ summary: >-
   with explicit preservation of pragmatic constraints. The manuscript's
   Case III keeps alternating against text-only. Proposed, not run.
 ---
+<!-- inactive-ok-file: CLAIM-tmplwgbk — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpovy47 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CASE-tmp9n7ut: Text → image → caption → image chains under four conditions
@@ -35,3 +36,8 @@ text→image→caption→image and compare against text-only reconstruction chai
 The image-only and explicit-constraint conditions were dropped without comment;
 the second was the one that would test whether stating the relation stops the
 drift.
+
+C7 Appendix D adds the control the affordance argument ([CLAIM-tmplwgbk](../claims.d/CLAIM-tmplwgbk.md)) implies:
+"For cross-modal chains, do not let captioners see the source text or the
+intended communicative condition unless testing a specified side-information
+intervention." 

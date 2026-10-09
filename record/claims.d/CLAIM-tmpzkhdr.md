@@ -45,3 +45,15 @@ The reading of Composable Diffusion ([NOTE-597](../notes.d/NOTE-597.md)) support
 caution: the paper derives the composition for clean data, applies it at every
 noise level without discussion, and loses to an energy-based baseline when
 composing relations.
+
+## In C7's appendix
+
+C7 Appendix D, omitted from the extracted manuscript, states the identity's
+conditions: "The product-of-experts conditional score identity follows from the
+conditional independence of c1 and c2 given x_t and a shared prior p_t(x_t),
+subject to positivity and differentiability. It is not a generic identity for
+arbitrary prompt embeddings or finite-step diffusion implementations. When scores
+are approximate, compositional failures may reflect estimator error, model
+misspecification, or sampling limitations." It adds controls: prompts paired by
+entities, scene type and length, randomized order and seeds, and evaluation blind
+to condition. The open question behind it is [QUESTION-tmpklyn0](../questions.d/QUESTION-tmpklyn0.md).

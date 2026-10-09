@@ -20,7 +20,7 @@ answers:
 - QUESTION-tmp3lk3n
 - QUESTION-tmpt7lzm
 supersedes:
-- CLAIM-tmpvim0a
+- CLAIM-tmp509ul
 rests_on:
 - CLAIM-tmpnt2nd
 - CLAIM-tmpek80j
@@ -32,8 +32,10 @@ summary: >-
   be normative and contestable (§11).
 illustrated_by:
 - CASE-tmpunxdh
+supports:
+- CLAIM-tmplxqew
 ---
-<!-- inactive-ok-file: CLAIM-tmpvim0a — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmp509ul — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-tmpww3q0: What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 

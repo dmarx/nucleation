@@ -17,6 +17,7 @@ used_by:
 - CLAIM-tmp817r3
 - CLAIM-tmpek80j
 ---
+<!-- inactive-ok-file: CLAIM-tmp817r3 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpek80j — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-tmpsjjot: fidelity, as inferential sufficiency
@@ -42,3 +43,9 @@ Not a replacement for the similarity senses ([TERM-tmpmvvf2](TERM-tmpmvvf2.md), 
 L = L_obs + λL_str + γL_dec keeps a similarity term, a structural term and this
 one (§6). The named contrast between the two kinds of fidelity is not in the
 manuscript. It is the sense [CLAIM-tmpek80j](../claims.d/CLAIM-tmpek80j.md) is stated in.
+
+The crystallized argument (§24) gave the decision term its sharp form, a worst
+case over tasks: D_dec = sup_(q∈Q) |R_q^o − R_τ(q)^t|. The manuscript's L_dec
+"compares achievable decision risks for paired communicative tasks" (§6) and
+drops the supremum, so it no longer says whether fidelity is judged on the worst
+task or on an average.

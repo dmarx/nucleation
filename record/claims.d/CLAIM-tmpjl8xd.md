@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: 'Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model'
 version: 1
 role: thesis
@@ -13,6 +13,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
+answers:
+- QUESTION-tmpuc1dc
 uses:
 - TERM-tmp6szt9
 summary: >-
@@ -23,6 +25,7 @@ summary: >-
 supports:
 - CLAIM-tmpsze11
 ---
+<!-- inactive-ok-file: CLAIM-tmpsze11 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpukbg3 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpjl8xd: Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model
@@ -43,5 +46,19 @@ is not automatic." It gives a sufficient condition for a transport not to create
 contextuality. It says nothing about transports that destroy or create it, which
 is where [CLAIM-tmpukbg3](CLAIM-tmpukbg3.md) and [QUESTION-tmp6d8jq](../questions.d/QUESTION-tmp6d8jq.md) sit.
 
-Proposed: the workbench entry of 2026-10-09 checked only the main-text proof
-sketch. The full proof is in C7's Appendix A, not yet read here.
+## What was checked
+
+C7 Appendix A, read on 2026-10-09: "assume a source global law p and a target
+global kernel K_X such that every K_C#e_C equals the marginal of K_X#p on τ(C).
+Then K_X#p is an explicit global extension." As written this assumes its
+conclusion: the equality of marginals is the hypothesis. The manuscript's
+statement is the real one. Each K_C is "the appropriate restriction" of K_X,
+which reads as naturality: the marginal of K_X on τ(C) depends only on the
+source outcome's restriction to C and equals K_C applied to it. Then the
+marginal of K_X#p on τ(C) is K_C#(ρ_C#p) = K_C#e_C, since p's marginal on C is
+e_C. That is the one-line argument the manuscript gives ("direct by
+compatibility of pushforward with marginalization"), and it holds. Active, on
+that reading of "appropriate restriction"; Appendix A's own proof restates the
+hypothesis and adds nothing. Appendix A also adds the right limit: "The assertion
+becomes false if one assumes only local kernels with no globally compatible
+realization." 

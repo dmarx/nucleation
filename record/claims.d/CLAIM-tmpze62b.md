@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: 'A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models'
 version: 1
 role: thesis
@@ -14,6 +14,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
+answers:
+- QUESTION-tmpuc1dc
 uses:
 - TERM-tmp6szt9
 summary: >-
@@ -23,6 +25,7 @@ summary: >-
 supports:
 - CLAIM-tmpsze11
 ---
+<!-- inactive-ok-file: CLAIM-tmpsze11 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpze62b: A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models
 
@@ -40,5 +43,21 @@ Proposition 1, with the same sketch.
 
 C6: "This proposition concerns overlap consistency, not preservation of
 noncontextuality under all imaginable maps." The manuscript: "not automatically
-global noncontextuality". Proposed: the workbench entry of 2026-10-09 checked only the
-main-text proof sketch. The full proof is in C7's Appendix A, not yet read here.
+global noncontextuality".
+
+## What was checked
+
+C7 Appendix A's proof, read on 2026-10-09: "For any two contexts C,F with overlap
+D, the target marginal from K_C#e_C on τ(D) equals K_D#(ρ^C_D#e_C). Source
+consistency makes the latter K_D#e_D, which also equals the corresponding target
+marginal from F." Each step holds: the first is the naturality assumption
+(marginalizing after K_C equals K_D after marginalizing), the second is source
+overlap consistency, and the third is the same argument from F. Two conditions
+are needed and both are stated in C7. Kernels K_D must exist for each overlap D,
+which "for every inclusion D⊆C" supplies if the family is closed under overlaps.
+The conclusion is consistency on τ(D), which is the mapped overlap only when
+τ(C) ∩ τ(F) = τ(C ∩ F). Appendix A says so itself: "If mapped overlaps are
+larger than images of source overlaps, the stated conditions must cover those
+extra target variables too; this is why the geometric assumptions on τ matter."
+The manuscript's "consistent on the mapped overlaps" is right under that reading.
+Active.

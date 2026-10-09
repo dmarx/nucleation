@@ -61,3 +61,9 @@ caveat (§8) and drops the attractor explanation.
 
 Which profile matters for fidelity: that depends on whether the question is
 about the original or about the convention ([CLAIM-tmpj8d91](CLAIM-tmpj8d91.md)).
+
+The crystallized argument's form (A110 §20): "**The emergence of stable meaning
+within a community need not imply faithful retention of ancestral meaning.**" The
+manuscript keeps the point and adds a caveat the argument lacked: "adding
+independent historical evidence to later interpreters changes the Markov graph
+and invalidates a naive application of the inequality" (§8).

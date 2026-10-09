@@ -68,3 +68,8 @@ compatibility. The chunk-5 reader finds both dropped at C6 when Appendix F
 replaced the finite examples with a protocol, without critique. The manuscript's
 Proposition 2 says when a global extension is preserved; nothing in it shows a
 case where it is not.
+
+C7 Appendix B states the limit a drift result would meet here: "A result about
+state distributions is not automatically a result about a discontinuous
+contextuality measure, whose stability requires separate assumptions." The
+contextual fraction is such a measure.

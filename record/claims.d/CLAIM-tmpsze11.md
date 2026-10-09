@@ -22,7 +22,7 @@ summary: >-
 objected_by:
 - CLAIM-tmp06kdp
 ---
-<!-- inactive-ok-file: CLAIM-tmp06kdp CLAIM-tmpjl8xd CLAIM-tmpze62b — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmp06kdp — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpsze11: Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -46,3 +46,13 @@ commute with restriction or come from one global kernel. §6: "some
 postprocessing classes preserve noncontextuality, whereas cover-changing or
 incompatible maps demand separate analysis." Fritz ([LIT-772](../literature.d/LIT-772.md)), the bridge's
 first term, is in the references and uncited. The owner's answer is [CLAIM-tmp06kdp](CLAIM-tmp06kdp.md).
+
+C7 Appendix A, omitted from the extracted manuscript, comes closest: "If mapped
+overlaps are larger than images of source overlaps, the stated conditions must
+cover those extra target variables too; this is why the geometric assumptions on
+τ matter", and "measure departures from this class rather than treating
+arbitrary changes of measurement cover as intrinsic contextuality". The
+crystallized argument's §16 qualified the owner's diffusion answer
+([CLAIM-tmp06kdp](CLAIM-tmp06kdp.md)): "probabilistically combining conditional scores is not the
+same thing as proving sheaf-theoretic gluing". It is the first of its five
+questions ([QUESTION-tmpuc1dc](../questions.d/QUESTION-tmpuc1dc.md)).

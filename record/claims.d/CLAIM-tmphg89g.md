@@ -39,6 +39,8 @@ illustrated_by:
 - CASE-tmpsr160
 supports:
 - CLAIM-tmpww3q0
+objected_by:
+- CLAIM-tmpf2wmc
 ---
 <!-- inactive-ok-file: CLAIM-tmp1bwsn TERM-tmpx0l4b — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpww3q0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

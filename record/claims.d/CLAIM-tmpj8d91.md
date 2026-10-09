@@ -16,6 +16,8 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-tmppvvyq
 - CLAIM-tmpghha4
+uses:
+- TERM-tmpranvj
 summary: >-
   A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps
   the stable conventional endpoint and one stance-drift example, but not
@@ -71,3 +73,7 @@ eliminate observables associated with its original subculture", while modern
 adaptation "can introduce new distinctions", so the cover itself drifts. C6 kept
 "cultural attractors" as a section heading (§8). The manuscript keeps only
 "change the available measurement cover" (§11).
+
+The crystallized argument (A110 §20) gave the attractor its reading: "a shared
+decoding convention rather than a preserved historical object"
+([TERM-tmpranvj](../terms.d/TERM-tmpranvj.md)). The manuscript never uses the word.

@@ -1,8 +1,16 @@
 ---
 status: Active
 title: 'transport'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-08'
+  note: >-
+    The crystallized argument (A108 §13) gave transport four components,
+    the fourth "Criteria determining which observable and decision
+    structures are preserved". The manuscript (§6) moves the criteria out
+    into the fidelity functional and lets the transport "also specify task
+    correspondences and decoder side information". Unremarked.
 - version: 2
   date: '2026-10-08'
   note: >-

@@ -42,3 +42,12 @@ assume precisely the global representation the sheaf model is intended to test")
 and drops the objective. That leaves Tishby, Pereira and Bialek ([LIT-338](../literature.d/LIT-338.md)) in the
 reference list with nothing citing them, as the workbench entry of 2026-10-09
 found. Nothing argued against the objective.
+
+## Correction, 2026-10-09
+
+The bottleneck is in C7, in Appendix C, which the extracted manuscript omits:
+"A weighted bottleneck objective may sum information terms across separately
+elicited contexts, but that sum is a designed scalar objective, not an assertion
+that the Y_C admit a common joint distribution." So Tishby, Pereira and Bialek are
+cited by the full draft's appendix, though not by name and not in its body. What
+was dropped is the objective's place in the main argument, not the objective.

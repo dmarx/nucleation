@@ -38,3 +38,11 @@ Manuscript §7: "Schrödinger bridges offer a complementary path-space viewpoint
 simulation (Shi et al., 2022)." Nothing is observed along the path. It is the
 diffusion-side counterpart of the pragmatic phase change ([CLAIM-tmpwsbib](CLAIM-tmpwsbib.md)). It
 is not the same as historical drift ([CLAIM-tmpjlq36](CLAIM-tmpjlq36.md)).
+
+The crystallized argument's §17 gave the rationale its last form: "the bridge
+perspective is useful because intermediate states may matter. A generative
+process can gradually establish scene geometry, objects, attributes, and
+relationships. We can investigate the trajectory by which a relational
+configuration emerges or fails." The manuscript keeps the bridge and the
+disanalogy of times, and drops the reason, so bridges enter §7 with no stated
+purpose.

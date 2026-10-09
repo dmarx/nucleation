@@ -16,6 +16,8 @@ summary: >-
   A97 §6 and A100 §11.10, recovered. The manuscript treats a change of
   medium only as a risk to relational fidelity (§7), though §11 allows
   that an adapted receiver may recover an implicit relation.
+complements:
+- CLAIM-tmplwgbk
 ---
 <!-- inactive-ok-file: CLAIM-tmpukbg3 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
