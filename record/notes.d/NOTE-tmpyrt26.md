@@ -32,6 +32,7 @@ summary: >-
   nuclear norm. Power-law targets are recovered mode by mode, giving
   heavy-tailed spectra and LASSO-rate scaling laws.
 ---
+<!-- inactive-ok-file: THEORY-169 — Proposed; cited as a neighbour this reading examined and found no bearing on -->
 
 <!-- inactive-ok-file: THEORY-tmpjhj8u — Proposed; the account this reading produces -->
 <!-- inactive-ok-file: THEORY-106 — Proposed; its scope is compared with this paper's interpolation peak -->
