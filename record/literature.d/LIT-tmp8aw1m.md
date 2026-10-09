@@ -1,0 +1,68 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-09 from Crossref, not read: no lawful full text was reached. OpenAlex and Semantic Scholar list it as closed access with no repository copy; IEEE Xplore refused the PDF; CiteSeerX, which OpenAlex lists as a location, redirected to a Wayback capture that returned 404; web searches for an author, course or institutional copy found only later papers and lecture notes about the theorem. Filed from the reference list of the owner''s working manuscript. It stays Deferred until a copy is supplied, not on merit.'
+title: 'The rate-distortion function for source coding with side information at the decoder'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed, not read. Full-text attempts on 2026-10-09: OpenAlex
+    (oa_status closed, no repository full text) and Semantic Scholar
+    (openAccessPdf CLOSED); IEEE Xplore stamp page for arnumber 1055508
+    returned 418; the CiteSeerX record OpenAlex lists (10.1.1.137.494)
+    redirected to the Wayback Machine, whose capture of the PDF link was
+    404; a guessed Stanford course-handout URL returned 404; Internet
+    Archive metadata search and three web searches (title, title with
+    "filetype:pdf", journal volume line) found later papers and lecture
+    notes, not the paper. Details checked against Crossref (IEEE Trans.
+    Inf. Theory 22(1):1–10, January 1976). `published:` is 1 January
+    1976: Crossref gives only the month. Not held in the Anthology of
+    the SOTA: a grep of its record/ (clone of 2026-10-09, commit
+    1cffe8f) for the authors, the identifier and the title found
+    nothing.
+tags:
+- information-theory
+date: '2026-10-09'
+published: '1976-01-01'
+doi: '10.1109/TIT.1976.1055508'
+first_author: 'Wyner'
+keywords:
+- 'rate-distortion'
+- 'side information'
+- 'source coding'
+- 'Wyner–Ziv'
+- 'distributed source coding'
+implementations: []
+summary: >-
+  Wyner & Ziv (1976), IEEE Trans. Inf. Theory 22(1):1–10. The rate-
+  distortion function when the decoder, but not the encoder, sees
+  correlated side information: a single-letter characterisation, with a
+  rate loss relative to the case where both see it, zero in the Gaussian
+  case. Filed, not read: no lawful full text was reached.
+---
+
+# LIT-tmp8aw1m: The rate-distortion function for source coding with side information at the decoder
+
+Aaron D. Wyner and Jacob Ziv (1976), *IEEE Transactions on Information Theory*
+22(1):1–10 — DOI-10.1109/TIT.1976.1055508
+
+## Key takeaways
+
+*Filed, not read*: no lawful full text was reached (see the history
+note). Crossref deposits no abstract. Known here by what it
+is standardly cited for: the Wyner–Ziv theorem, a single-letter formula for
+the minimum rate of lossy coding of a source when correlated side information
+is available at the decoder only, using an auxiliary variable and binning; in
+general this rate exceeds the conditional rate-distortion function, in which
+the encoder also sees the side information, with equality for jointly Gaussian
+sources under squared error. Cover & Thomas, [LIT-tmp0uur5](LIT-tmp0uur5.md), treat it as §15.9, "Rate Distortion with
+Side Information" (p. 580 of the second edition, after §15.8 on lossless
+source coding with side information), as its publicly posted table of
+contents shows; that book is not read either.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works in the
+reference list of the owner's working manuscript (October 2026) that the
+record did not yet hold. See the curation entry of that day.

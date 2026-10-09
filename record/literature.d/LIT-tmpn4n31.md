@@ -1,0 +1,110 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpybbbx](../notes.d/NOTE-tmpybbbx.md)); worth reading as the reference statement of Contextuality-by-Default: each measurement gets a separate random variable in each context, and a system is noncontextual when some coupling of its contexts makes every content''s copies coincide as often as their own distributions allow (maximal couplings). This separates context-dependent marginals ("direct influences") from contextuality, turns the test into linear-programming feasibility (Theorem 4.1), and, since a signed such coupling always exists (Theorem 6.1), measures contextuality as the least total variation above 1. The definition was already being replaced by "multimaximal" couplings when it appeared (footnote 10).'
+title: 'Context–content systems of random variables: The Contextuality-by-Default theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Read from arXiv v6 (27 May 2016, 29 pages, "to be published in Journal
+    of Mathematical Psychology"), the last and accepted version, Sections
+    1–7 in full (NOTE-tmpybbbx); the typeset version was not compared, and
+    the cyclic criterion's proof, published elsewhere, was not seen.
+    Details checked against arXiv (v1 submitted 11 November 2015; v6 the
+    version accepted) and Crossref (J. Math.
+    Psychol. 74:11–33, October 2016). `published:` is the arXiv v1 date.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone
+    of 2026-10-09, commit 1cffe8f) for the authors, the identifier and
+    the title found nothing.
+tags:
+- contextuality
+- mathematics
+- cognition
+date: '2026-10-09'
+published: '2015-11-11'
+arxiv: '1511.03516'
+doi: '10.1016/j.jmp.2016.04.010'
+first_author: 'Dzhafarov'
+keywords:
+- 'Contextuality-by-Default'
+- 'random variables'
+- 'contexts'
+- 'contents'
+- 'couplings'
+- 'cyclic systems'
+- 'measure of contextuality'
+implementations: []
+summary: >-
+  Dzhafarov & Kujala (2016), J. Math. Psychol. 74:11–33. Contextuality-by-Default
+  for finite systems of categorical random variables, indexed by content
+  and context. A system is noncontextual when some coupling of its
+  context bunches makes every connection a maximal coupling; the test is a
+  linear program, the binary cyclic criterion is stated (proved
+  elsewhere), and the minimal total variation of a signed maximally
+  connected quasi-coupling, minus 1, measures the degree of contextuality.
+---
+
+<!-- inactive-ok-file: LIT-264 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
+<!-- inactive-ok-file: LIT-265 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
+<!-- inactive-ok-file: THEORY-013 — Proposed; named for the cyclic criterion it rests on -->
+<!-- inactive-ok-file: THEORY-014 — Proposed; this reading adds a third instance of its pattern -->
+
+# LIT-tmpn4n31: Context–content systems of random variables: The Contextuality-by-Default theory
+
+Ehtibar N. Dzhafarov and Janne V. Kujala (2016), *Journal of Mathematical
+Psychology* 74:11–33 — [ARXIV-1511.03516](https://arxiv.org/abs/1511.03516)
+
+## Key takeaways
+
+- **Variables by content and context.** A variable is identified by what it
+  measures (content) and the conditions it is recorded under (context).
+  Variables in one context are jointly distributed and form a *bunch*.
+  Variables in different contexts are stochastically unrelated: their joint
+  probabilities are undefined, not zero. The variables sharing a content
+  form a *connection*. Which is content and which is context is decided
+  outside the theory, and changing it changes the answer.
+- **Direct influences are not contextuality.** If a content's copies have
+  different distributions in different contexts, the system is
+  *inconsistently connected*. That is treated as ordinary dependence on
+  the context. Contextuality is defined as follows. A maximal coupling of a
+  connection makes its copies coincide with probability Σ_v min_i
+  Pr[R^i = v] (Theorem 3.3). The system is noncontextual if one coupling
+  of all bunches achieves these coincidences for every connection at once
+  (Definition 3.4).
+- **A linear program decides it** (Theorem 4.1): noncontextual if and only
+  if MQ = P has a nonnegative solution over the hidden outcomes.
+- **Cyclic systems** (Theorem 5.1, Kujala & Dzhafarov 2016, cited): a
+  rank-n binary cyclic system is noncontextual if and only if
+  s_odd(⟨R_i^i R_{i⊕1}^i⟩) ≤ n − 2 + Σ|⟨R_i^i⟩ − ⟨R_i^{i⊖1}⟩|. Under
+  consistent connectedness this is the Leggett–Garg, CHSH or KCBS form.
+  Question-order data in which the probability of the same answer does not
+  depend on order cannot be contextual. The singlet state at the CHSH
+  angles gives 2√2 > 2.
+- **A measure from negative probabilities** (Section 6). Dropping
+  nonnegativity, a solution always exists (Theorem 6.1), for signalling and
+  non-signalling systems alike. The least total variation of such a signed
+  quasi-coupling, minus 1, is the proposed degree of contextuality. It
+  generalizes de Barros and Oas. In the paper's rank-2 example it falls
+  linearly, as 2(1 − p), to noncontextuality.
+- **Unlike the sheaf account** ([LIT-016](LIT-016.md)), bunches never overlap, so the
+  question is not whether overlapping marginals glue. It is whether the
+  bunches are compatible with maximal couplings of the connections.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works in the
+reference list of the owner's working manuscript (October 2026) that the
+record did not yet hold. See the curation entry of that day.
+
+**Against the record's contextuality theories.** For consistently connected
+systems a maximally connected coupling is a global section, so CbD agrees
+with the sheaf-theoretic criterion of [LIT-016](LIT-016.md) and [THEORY-012](../theory.d/THEORY-012.md) there (the
+reader's inference, [NOTE-tmpybbbx](../notes.d/NOTE-tmpybbbx.md)). It extends that criterion to data with
+context-dependent marginals, the case [THEORY-012](../theory.d/THEORY-012.md) leaves to CbD. Its Theorem
+6.1 (a signed maximally connected quasi-coupling always exists) is a third
+instance of the shape in [THEORY-014](../theory.d/THEORY-014.md). Its measure is not the contextual
+fraction of [LIT-265](LIT-265.md): both are linear programs, but the contextual fraction
+is defined only without signalling, and the two are not compared. It
+states the cyclic criterion that [THEORY-013](../theory.d/THEORY-013.md) and [LIT-264](LIT-264.md) rest on, but does
+not prove it, so [THEORY-013](../theory.d/THEORY-013.md)'s promote_when is not met by this reading.
