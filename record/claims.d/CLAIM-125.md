@@ -34,6 +34,8 @@ summary: >-
   directed stochastic transport between scenarios whose covers change,
   and settle when it preserves global compatibility. What is left open is
   decision-relevant information and signalling data.
+complements:
+- CLAIM-tmpkx2sz
 ---
 <!-- inactive-ok-file: THEORY-174 THEORY-156 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->

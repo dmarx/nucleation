@@ -1,0 +1,142 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 ([NOTE-tmp54kkt](../notes.d/NOTE-tmp54kkt.md)); worth reading as the source of "relative representations": a sample is re-encoded as its vector of cosine similarities to a fixed set of anchor samples, and a decoder trained on that vector runs, without any training, on a different encoder that sees corresponding anchors. Read it knowing what is guaranteed and what is observed. The invariance is by construction and one line long: the vector is unchanged by any map that preserves cosines, that is rotations, reflections and rescaling (and, though the paper does not say so, any per-sample positive rescaling), but not by translations, which it assumes normalisation removes, nor by general linear maps. That training noise, a change of architecture or a change of language moves a latent space only by such a map is an assumption, supported indirectly and only approximately: across FastText and Word2Vec the relative vectors agree at cosine 0.86 but share only 34–39% of their ten nearest neighbours, and between two ViTs on CIFAR-10 11–12%. Zero-shot stitching is not correspondence-free: it needs the anchors matched across the two sides (parallel anchors), which here means 300–768 translated or aligned sentence pairs or the same images. It beats absolute stitching everywhere absolute stitching can be run, but loses a great deal against the unstitched model in places: 98.6 to 80.5 ± 21.1 F1 on DBpedia across architectures, 90.1 to 65.7 for a Japanese encoder under an English decoder, 72.6 to 37.4 on ImageNet when ViT features feed a RexNet decoder. On a model that is already multilingual (XLM-R) it is worse than doing nothing.'
+title: 'Relative representations enable zero-shot latent space communication'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 as candidate prior art for
+    the line `pragmatic-transport`, and read in full the same day
+    (NOTE-tmp54kkt) from the arXiv PDF (v2, 7 March 2023, 26 pp., headed
+    "Published as a conference paper at ICLR 2023"). Bibliography checked
+    against the arXiv abstract page (2209.15430: v1 submitted 30 September
+    2022, v2 7 March 2023; comment "ICLR 2023 notable top 5%, 26 pages, 11
+    figures, 18 tables"; authors Luca Moschella, Valentino Maiorca, Marco
+    Fumero, Antonio Norelli, Francesco Locatello, Emanuele Rodolà) and
+    against OpenReview (forum SrC-nwieGJ, ICLR.cc/2023/Conference, venue
+    "ICLR 2023 notable top 5%", same six authors in the same order). The
+    PDF marks Moschella and Maiorca as equal contribution and gives
+    Locatello's affiliation as Amazon Web Services with the work done
+    outside Amazon. Crossref holds no DOI for it (a bibliographic query
+    returned only later works). `published:` is the arXiv v1 date. Not
+    held in the Anthology of the SOTA: a grep of its record/ (clone at
+    commit d8b5ba5, 9 October 2026, which may be stale) for the arXiv id,
+    the title, "relative representation" and the authors' surnames found
+    nothing, and it holds no LIT on model stitching.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-10-09'
+published: '2022-09-30'
+arxiv: '2209.15430'
+first_author: 'Moschella'
+keywords:
+- 'relative representation'
+- 'zero-shot'
+- 'stitching'
+- 'invariance'
+- 'latent communication'
+- 'isometry'
+- 'representation learning'
+implementations: []
+summary: >-
+  Moschella, Maiorca, Fumero, Norelli, Locatello & Rodolà (2022; ICLR
+  2023), arXiv:2209.15430. Re-encodes each sample as its cosine
+  similarities to a fixed set of anchor samples, which is invariant by
+  construction to every cosine-preserving map of the latent space
+  (rotations, reflections, rescaling), not to translations or general
+  linear maps. With anchors matched across two encoders (parallel
+  anchors), a decoder trained on one encoder's relative vectors runs on
+  another's with no training: across seeds, architectures, latent sizes
+  and languages. Stitching works far better than with raw latents but is
+  lossy and uneven, and the assumption that independently trained spaces
+  differ by an angle-preserving map is supported only approximately.
+---
+<!-- inactive-ok-file: THEORY-tmpcgnsc THEORY-004 THEORY-008 CLAIM-125 CLAIM-082 — Proposed; cited as the accounts and claims this reading sits beside, not as settled -->
+
+# LIT-tmp0zt5l: Relative representations enable zero-shot latent space communication
+
+Luca Moschella, Valentino Maiorca, Marco Fumero, Antonio Norelli, Francesco
+Locatello & Emanuele Rodolà (2022), *International Conference on Learning
+Representations (ICLR) 2023*, notable top 5% (OpenReview forum SrC-nwieGJ);
+arXiv v1 30 Sep 2022, v2 7 Mar 2023 (the version read) — arXiv:2209.15430
+
+## Key takeaways
+
+- **The construction.** Pick anchors A from the data. For an encoder E,
+  the relative representation of x is r_x = (cos(E(x), E(a₁)), …,
+  cos(E(x), E(a_|A|))) (eqs 2–3). A downstream module is trained on r_x
+  instead of E(x). Its size is |A|, whatever E's latent dimension, so
+  encoders of different widths (384, 768, 1280) feed one decoder.
+- **What is proved, and its exact scope.** Only the one-line fact that a
+  cosine is unchanged when the same angle-preserving T is applied to both
+  vectors (eq. 4): rotations, reflections and rescaling. Translations are
+  not covered; the paper assumes normalisation centres the space. General
+  invertible linear maps are not covered. A further invariance the paper
+  does not state follows from the same line: rescaling each sample by its
+  own positive factor leaves r_x unchanged, so the invariance group is
+  larger than the isometries and contains non-linear maps.
+- **What is assumed.** The "core assumption" (§3) is that training
+  stochasticity, and in the experiments also architecture and language,
+  changes a latent space by such an angle-preserving T. It is never tested
+  directly, by fitting the best orthogonal map and reporting the residual.
+  The indirect evidence says it holds only approximately: for ≈20k shared
+  words, the FastText and Word2Vec relative vectors agree at cosine 0.86,
+  with MRR 0.94–0.98 but Jaccard overlap of the ten nearest neighbours 0.34
+  and 0.39 (Table 1). For ViT-base vs ViT-small on CIFAR-10 the cosine is
+  0.96–0.97 but Jaccard is 0.10–0.12 and MRR 0.25–0.39 (Table 8).
+- **Parallel anchors.** Across domains or modalities the anchors must be
+  matched by a given partial correspondence Γ (§3.1): English reviews
+  machine-translated into Spanish, French and Japanese, or WikiMatrix
+  sentences aligned across all four languages (768 drawn from 3,338).
+  "Zero-shot" means no gradient step; it does not mean no paired data. OOD
+  anchors, from outside the training distribution but seen by the same
+  encoder, serve where the encoder is shared (§5.3).
+- **Zero-shot stitching, where it works and where it does not.**
+  - Across seeds (AEs, VAEs; Table 3): relative stitching cuts
+    reconstruction MSE from about 100 to 8.2 (AE) and from 91 to 15 (VAE),
+    against 2.8 and 5.2 unstitched. CIFAR-100 AE stitching is 18.0 ± 12.5,
+    and the relative AE unstitched is already worse than the absolute one
+    (1.18 vs 0.66 on MNIST).
+  - Across architectures (BERT cased and uncased, ELECTRA, RoBERTa; Table
+    5): F1 75.9 vs 88.1 unstitched on TREC, 80.5 ± 21.1 vs 97.4 on DBpedia,
+    33.2 vs 48.9 on fine-grained Amazon. Absolute stitching is near chance.
+  - Across languages (Table 4, Table 15): an English decoder reads Spanish
+    at 82.8, French 78.5, Japanese 65.7 F1 with translated anchors (90.1
+    for English). Japanese is the weakest pair throughout.
+  - Across image encoders (Table 6, Table 18): diagonal entries match the
+    absolute model within about 2 points, off-diagonal ones fall by 20–48
+    points on ImageNet, worst with RexNet as decoder (37–44 vs 72.6), the
+    one encoder whose latent dimension (1280) exceeds the anchor count.
+  - On XLM-R, a multilingual model whose absolute space is already shared
+    (Table 17), relative stitching is worse than absolute in every pair.
+- **Other findings.** Relative training costs little accuracy (Table 2: at
+  most 2.2 F1 points, on CIFAR-100). For ≈2,000 Cora GCNs, similarity of
+  the relative space to a reference model's tracks accuracy (mean Pearson
+  0.955, after dropping models below 0.5 validation accuracy; Fig. 3).
+  Anchor choice matters less than coverage: uniform, farthest-point and
+  k-means selection give similar scores (Tables 7–8).
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as candidate prior art for the
+record's pragmatic-transport line: transport between representations, and
+relational identity ([CLAIM-125](../claims.d/CLAIM-125.md), [CLAIM-082](../claims.d/CLAIM-082.md)). It is not from the manuscript
+bibliography. It was read on its own merits ([NOTE-tmp54kkt](../notes.d/NOTE-tmp54kkt.md)), for what it
+establishes rather than what the line might use it for.
+
+It is the zero-shot counterpart of Lenc and Vedaldi's model stitching
+([LIT-363](LIT-363.md), [NOTE-309](../notes.d/NOTE-309.md)), which fits a general linear stitching map from paired
+data. Here, a fixed construction and a set of matched anchors take the place
+of the fitted map. The construction absorbs only cosine-preserving maps, a
+much smaller group than the invertible linear maps that [THEORY-018](../theory.d/THEORY-018.md) says
+identify a final-layer softmax representation. It sits with the record's
+kernel accounts of representation comparison ([THEORY-004](../theory.d/THEORY-004.md), [THEORY-008](../theory.d/THEORY-008.md)) and
+with the Platonic Representation Hypothesis ([LIT-302](LIT-302.md)). The reading produced
+[THEORY-tmpcgnsc](../theory.d/THEORY-tmpcgnsc.md).
+
+An ML paper that any anthology topic on representation learning could
+hold, and that the anthology does not hold as of its clone at commit
+d8b5ba5, which may be stale. Hence `anthology-candidate`.

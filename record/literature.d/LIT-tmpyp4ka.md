@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 ([NOTE-tmpmiadh](../notes.d/NOTE-tmpmiadh.md)); worth reading as the paper that made model stitching a standard way of comparing trained networks, and as the source of "stitching connectivity": two networks of one architecture, trained from different seeds, can be joined at any layer by a learned 1×1 convolution with little loss of test accuracy. Read it knowing that it proves nothing. Its definitions are informal ("low penalty", "comparable"), stitching connectivity is an informal conjecture, and every result is a single run, mostly ResNet-18 on CIFAR-10, read off plots with no error bars. Its "more is better" ordering is an ordering by one task''s loss through a fixed top network and a restricted map class, not an ordering by information: the paper itself says a pixel shuffle, which loses nothing, can stitch worse, and a negative penalty means the fitted map did not reproduce the layers it replaced. The width and training-time improvements appear only near the top of the network; at mid layers the wider and longer-trained representations stitch slightly worse.'
+title: 'Revisiting Model Stitching to Compare Neural Representations'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed and read in full on 2026-10-09 (NOTE-tmpmiadh) at the owner's
+    request. Read from the arXiv v1 PDF (17 pp., main text, references and
+    Appendices A–B, figures read as rendered page images) and checked
+    against the NeurIPS 2021 camera-ready PDF from proceedings.neurips.cc
+    (12 pp., main text only; the supplement was not fetched). Bibliography
+    checked against the arXiv abstract page (only v1, submitted 14 June
+    2021, authors Yamini Bansal, Preetum Nakkiran, Boaz Barak) and the
+    NeurIPS proceedings page (Advances in Neural Information Processing
+    Systems 34, pp. 225–236, published 6 December 2021). Crossref has no
+    DOI for it. `published:` is the arXiv v1 date. Not held in the
+    Anthology of the SOTA: a grep of its record/ for the title, the arXiv
+    id and the authors found nothing, in a clone at commit d8b5ba5 that
+    may be stale. It is an ML paper an anthology topic could hold, so it
+    carries `anthology-candidate`.
+tags:
+- representation-learning
+- loss-landscapes
+- anthology-candidate
+date: '2026-10-09'
+published: '2021-06-14'
+arxiv: '2106.07682'
+first_author: 'Bansal'
+keywords:
+- 'model stitching'
+- 'representational similarity'
+- 'centered kernel alignment'
+- 'stitching connectivity'
+- 'self-supervised learning'
+implementations: []
+extends:
+- LIT-363
+summary: >-
+  Bansal, Nakkiran & Barak (2021), NeurIPS 34. Revives Lenc and Vedaldi's
+  model stitching ([LIT-363](LIT-363.md)) as a measure of representations: the bottom of
+  one frozen network feeds the top of another through a trained 1×1
+  convolution, and the change in test error is the "stitching penalty".
+  Independently seeded networks, and supervised and self-supervised
+  ResNet-50s, stitch at all layers within a few points, where CKA says
+  they differ. Representations trained on more data plug into a weaker
+  network and lower its error; for width and training time this happens
+  only near the top. All empirical, single runs, mostly CIFAR-10.
+supports:
+- CLAIM-tmpkx2sz
+---
+<!-- inactive-ok-file: THEORY-tmpn16i4 THEORY-112 THEORY-116 THEORY-156 CLAIM-125 — Proposed; cited as the accounts and the open claim this reading sits beside, not as settled -->
+
+# LIT-tmpyp4ka: Revisiting Model Stitching to Compare Neural Representations
+
+Yamini Bansal, Preetum Nakkiran and Boaz Barak (2021), *Advances in Neural
+Information Processing Systems 34* (NeurIPS 2021), pp. 225–236; arXiv v1
+14 June 2021 — arXiv:2106.07682
+
+## Key takeaways
+
+- **The measure.** For a top network A, a candidate representation r and a
+  layer ℓ, L_ℓ(r; A) = inf over s ∈ S of L(A_{>ℓ} ∘ s ∘ r), with S a
+  "simple" family (here a 1×1 convolution between two BatchNorms, or a
+  768×768 linear map for a ViT). The stitching penalty is
+  L_ℓ(r; A) − L(A). The infimum is approximated by training s with Adam on
+  the task's training set, and the penalty is measured on its test set. The
+  definition is task-relative and asymmetric by design.
+- **Stitching connectivity** (§4, Definition 1, Conjecture 2). Two networks
+  of one architecture trained from different seeds, or on disjoint training
+  sets, can be stitched at every layer with a penalty within about 5 points
+  (Fig. 2A: ResNet-18 at three widths, ResNet-164, a Myrtle CNN, a ViT).
+  The authors call it a structural property of SGD, akin to mode
+  connectivity, and state it as an informal conjecture.
+- **"All roads lead to Rome"** (§5). ImageNet ResNet-50s trained by SwAV,
+  DINO or SimCLR stitch into a supervised ResNet-50 at all layers (Fig. 2B;
+  SimCLR's penalty reaches about 8 points at the last layers). Networks
+  trained on coarse labels or on 10–50% noisy labels match the standard
+  network in their first half of layers, and cost about 12–23 points at
+  the top (Fig. 3A). With 100% random labels the penalty passes 50 points
+  by a third of the way up.
+- **"More is better"** (§6). A bottom trained on 25K CIFAR-10 samples lowers
+  the error of a 10K-sample top network by up to about 22 points; a 5K
+  bottom raises it by about 18 (Fig. 2C). Bottoms trained longer or wider
+  lower the error only in the last layers, by under one point; in the
+  middle layers they raise it by up to about 3 (Fig. 3B–C). The claim that
+  narrow bottoms do not help wide tops ("but not vice versa") has no
+  figure.
+- **Against CKA** (§3, App. B.2). Where stitching finds two networks
+  interchangeable, CKA can be low: 0.35–0.9 for SimCLR against supervised,
+  near 0 for 5K against 25K samples. CKA is symmetric and penalises useless
+  extra coordinates; stitching is neither.
+- **What it is not.** Nothing is proved. The ordering it gives is by one
+  loss, through A's fixed top layers and a restricted map class, and is not
+  Blackwell's order of experiments ([THEORY-tmpn16i4](../theory.d/THEORY-tmpn16i4.md)).
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as candidate prior art for the
+record's pragmatic-transport line: the open problem in [CLAIM-125](../claims.d/CLAIM-125.md) of when a
+transport between representations preserves decision-relevant
+information. It was read on its own terms.
+
+It extends Lenc and Vedaldi ([LIT-363](LIT-363.md), read in [NOTE-309](../notes.d/NOTE-309.md)), where stitching
+began. The reading is the source of [THEORY-tmpn16i4](../theory.d/THEORY-tmpn16i4.md), which states how a
+task-loss stitching penalty differs from the Blackwell order of [THEORY-156](../theory.d/THEORY-156.md).
+Stitching connectivity sits beside the record's accounts of mode
+connectivity after alignment ([THEORY-112](../theory.d/THEORY-112.md)) and of barriers that mark a
+difference in mechanism ([THEORY-116](../theory.d/THEORY-116.md)). It is a different kind of
+connection: it joins two networks layer by layer through a learned map,
+not along a path in weight space.
