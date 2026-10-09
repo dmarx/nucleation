@@ -1,0 +1,128 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp5dcxw](../notes.d/NOTE-tmp5dcxw.md)); worth reading as the sequel that turns [LIT-887](LIT-887.md)''s one depth-separation theorem into a family, and for where the family stops. Proved, for networks without biases and smooth activations with nonzero Taylor coefficients: one hidden layer needs exactly ∏(rᵢ+1) neurons to Taylor-approximate the monomial x₁^r₁⋯xₙ^rₙ, against Σ(7⌈log₂ rᵢ⌉+4) for a deep network; a sparse polynomial with c monomials costs at least 1/c of its dearest monomial; xᵈ costs d+1 shallow against 7⌈log₂ d⌉ deep; and a product of n inputs costs O(n^((k−1)/k)·2^(n^(1/k))) at depth k. The move to uniform approximation, its headline over [LIT-887](LIT-887.md), rests for the lower bounds on a step the proof asserts and that is false in general (a network can be uniformly within ε of a polynomial while its Taylor coefficients diverge), so only the Taylor-sense lower bounds are established. That depth k needs 2^Θ(n^(1/k)) neurons is a conjecture, backed by one trained-network figure at n = 20 with tanh, outside the theorems'' hypotheses. The gap is exponential in a monomial''s degree, not in the number of inputs: polynomials of bounded degree, such as the low-order Hamiltonians [LIT-887](LIT-887.md) calls natural, show none.'
+title: 'The power of deeper networks for expressing natural functions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 as one of the works cited
+    by the batch on hierarchy and hyperbolic geometry (nucleation#115, via
+    LIT-887) that neither record held: the reading of Lin, Tegmark and
+    Rolnick's "Why does deep and cheap learning work so well?" (LIT-887,
+    NOTE-688) named this sequel as held in neither. Read in full the same
+    day (NOTE-tmp5dcxw) from the arXiv PDF of v2, which the authors
+    replaced "to match version published at ICLR 2018" (14 pp.), with v1
+    compared for its theorem statements. Checked against the arXiv
+    abstract page (arXiv:1705.05502 [cs.LG], cross-listed cs.NE and
+    stat.ML; David Rolnick and Max Tegmark, MIT; v1 submitted 16 May 2017,
+    v2 27 April 2018), the v2 PDF's running head ("Published as a
+    conference paper at ICLR 2018") and Semantic Scholar's record (venue
+    International Conference on Learning Representations, DBLP key
+    conf/iclr/RolnickT18). DBLP and OpenReview refused automated requests
+    with bot challenges, so the ICLR listing itself was not seen.
+    Crossref has no DOI for it; ICLR papers carry none. `published:` is
+    the arXiv v1 date, 16 May 2017, the earliest any source gives
+    (ADR-002). Not held in nucleation before this filing: a grep of
+    record/ for the identifier, the title and "Rolnick" found only the
+    mentions in LIT-887 and NOTE-688. Not held in the Anthology of the
+    SOTA as far as its clone shows: a grep of its record/ (clone at
+    commit d8b5ba5, possibly stale) for the identifier, the title,
+    "Rolnick" and "natural functions" found nothing. Its
+    `analysis-and-evaluation` topic, which takes theory of deep learning,
+    could hold it, and its closing rule of thumb for how deep a network
+    should be is an instruction for practice; hence `anthology-candidate`.
+tags:
+- mathematics
+- learning-theory
+- anthology-candidate
+date: '2026-10-09'
+published: '2017-05-16'
+arxiv: '1705.05502'
+first_author: 'Rolnick'
+keywords:
+- 'deep learning'
+- 'expressivity'
+- 'depth separation'
+- 'universal approximation'
+- 'multivariate polynomials'
+- 'sparse polynomials'
+- 'uniform approximation'
+- 'Taylor approximation'
+extends:
+- LIT-887
+implementations: []
+summary: >-
+  Rolnick and Tegmark (2017; ICLR 2018). Extends [LIT-887](LIT-887.md)'s 2^n result:
+  one hidden layer of smooth, bias-free units needs exactly ∏(rᵢ+1)
+  neurons to Taylor-approximate x₁^r₁⋯xₙ^rₙ, a deep network O(Σ log rᵢ);
+  sparse polynomials inherit the gap up to a factor 1/c; at depth k a
+  product of n inputs costs at most about 2^(n^(1/k)), conjectured tight.
+  The uniform-approximation lower bounds rest on an unproved step, and
+  the gap grows with degree, not with the number of inputs.
+---
+<!-- inactive-ok-file: THEORY-tmppv845 THEORY-195 THEORY-201 THEORY-183 QUESTION-025 CLAIM-042 CLAIM-119 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question and claims it bears on -->
+
+# LIT-tmpbq8zx: The power of deeper networks for expressing natural functions
+
+David Rolnick and Max Tegmark (2017), ICLR 2018 — [ARXIV-1705.05502](https://arxiv.org/abs/1705.05502)
+
+## Key takeaways
+
+- **The monomial cost, exactly.** For σ with nonzero Taylor coefficients
+  up to degree d (2d for uniform approximation), one hidden layer needs
+  exactly ∏(rᵢ+1) neurons to approximate x₁^r₁⋯xₙ^rₙ of degree d, and a
+  deep network at most Σ(7⌈log₂ rᵢ⌉+4) (Theorems 4.1 and 4.2). With all
+  rᵢ = 1 this is [LIT-887](LIT-887.md)'s 2^n against about 4n.
+- **Proved in the Taylor sense; the uniform lower bound is not.** Taylor
+  approximation of a homogeneous polynomial gives uniform approximation
+  with the same neuron count by rescaling (Proposition 3.3, checked), so
+  every upper bound holds uniformly. The uniform lower bounds assume that
+  a network uniformly within ε of p has Taylor coefficients near p's; one
+  bias-free unit, ε·tanh(x/ε²), is within ε of 0 with first coefficient
+  1/ε, so that step needs an argument the paper does not give.
+- **Sparse polynomials and univariate ones.** A polynomial with c
+  monomials costs a single layer at least 1/c of its dearest monomial
+  (Theorem 4.3), so the gap survives subexponential sparsity. Any
+  univariate polynomial of degree d needs at most d+1 shallow neurons;
+  xᵈ needs exactly d+1 shallow and at most 7⌈log₂ d⌉ deep (Propositions
+  4.5 and 4.6): linear against logarithmic.
+- **Depth k interpolates, by construction and conjecture.** Multiplying
+  groups of n^(1/k) inputs per layer gives O(n^((k−1)/k)·2^(n^(1/k))) for a
+  product of n inputs at depth k (Theorem 5.1, Taylor-sense construction).
+  That this is tight, 2^Θ(n^(1/k)), is Conjecture 5.2, supported by one
+  heat map of trained networks at n = 20.
+- **The gap is in the degree, not in n.** Every lower bound grows with
+  the number of distinct partial derivatives of a monomial, so a
+  polynomial of bounded degree has a shallow cost at most c·2^d whatever
+  n is. The exponential separation is for products of many variables, not
+  for the low-order polynomials [LIT-887](LIT-887.md) argues physics supplies.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works cited by
+the batch on hierarchy and hyperbolic geometry that neither record held
+(nucleation#115, via [LIT-887](LIT-887.md)): the reading of Lin, Tegmark and Rolnick
+([LIT-887](LIT-887.md), [NOTE-688](../notes.d/NOTE-688.md)) named this sequel by two of its authors as held in
+neither record. Read on its own merits ([NOTE-tmp5dcxw](../notes.d/NOTE-tmp5dcxw.md)), and placed against
+that reading so as not to repeat it.
+
+**What it adds to [LIT-887](LIT-887.md).** [NOTE-688](../notes.d/NOTE-688.md) found [LIT-887](LIT-887.md)'s no-flattening
+theorem narrow on four counts: one hidden layer only, Taylor matching
+only, smooth activations only, and products only. This paper widens the
+last (general monomials, sparse and univariate polynomials) and the first
+(an upper bound at every depth k, with a conjecture for the matching
+lower bound). It claims to widen the second, to uniform approximation, and
+does so for the upper bounds; its lower-bound proofs carry an unsupported
+step. It does not touch the third: it excludes ReLU from its theorems,
+and its only evidence for ReLU and for tanh (whose even Taylor
+coefficients vanish) is the experiment. It also does not close the gap
+[NOTE-688](../notes.d/NOTE-688.md) named in [LIT-887](LIT-887.md)'s depth argument, a flattening cost for the
+composition of a Markov hierarchy's sufficient statistics; products remain
+the only composition with a proved cost.
+
+Filed as [THEORY-tmppv845](../theory.d/THEORY-tmppv845.md). It bears on [QUESTION-025](../questions.d/QUESTION-025.md) only indirectly: the
+exponential cost is for products of real-valued inputs, while a
+conjunction of k binary attributes is one threshold unit ([LIT-887](LIT-887.md), Eq. 13),
+so a concept lattice's meets over binary attribute indicators stay cheap.
