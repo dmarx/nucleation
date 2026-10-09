@@ -1,6 +1,9 @@
 ---
+number: 693
 status: Read
-paper: 'LIT-tmpbq8zx'
+formerly:
+- NOTE-tmp5dcxw
+paper: 'LIT-890'
 title: 'The power of deeper networks for expressing natural functions'
 version: 1
 history:
@@ -32,9 +35,9 @@ summary: >-
   degree, so bounded-degree polynomials show none.
 ---
 <!-- inactive-ok-file: THEORY-200 — Proposed; named as a neighbour this reading has no bearing on -->
-<!-- inactive-ok-file: THEORY-tmppv845 THEORY-195 THEORY-201 THEORY-183 THEORY-186 QUESTION-025 CLAIM-042 CLAIM-119 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question and claims it bears on -->
+<!-- inactive-ok-file: THEORY-206 THEORY-195 THEORY-201 THEORY-183 THEORY-186 QUESTION-025 CLAIM-042 CLAIM-119 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question and claims it bears on -->
 
-# NOTE-tmp5dcxw: The power of deeper networks for expressing natural functions
+# NOTE-693: The power of deeper networks for expressing natural functions
 
 ## Contribution
 
@@ -171,7 +174,7 @@ for Boolean circuits is independent of these real-valued results.
 
 ## Bearing on the record
 
-- **Produces [THEORY-tmppv845](../theory.d/THEORY-tmppv845.md)**: the depth gap for polynomials is
+- **Produces [THEORY-206](../theory.d/THEORY-206.md)**: the depth gap for polynomials is
   set by a monomial's degree in distinct variables, exponential for
   products of many inputs and absent for bounded degree; proved in the
   Taylor sense for bias-free networks.

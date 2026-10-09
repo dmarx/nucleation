@@ -1,5 +1,8 @@
 ---
+number: 206
 status: Proposed
+formerly:
+- THEORY-tmppv845
 promote_when: >-
   A proof, read and checked, that the lower bound ∏(rᵢ+1) for one hidden
   layer holds for uniform approximation on a box and not only for Taylor
@@ -16,10 +19,10 @@ tags:
 - learning-theory
 date: '2026-10-09'
 source:
-- LIT-tmpbq8zx
+- LIT-890
 - LIT-887
 summary: >-
-  Rolnick and Tegmark (2017), [LIT-tmpbq8zx](../literature.d/LIT-tmpbq8zx.md), Theorems 4.1 to 4.3,
+  Rolnick and Tegmark (2017), [LIT-890](../literature.d/LIT-890.md), Theorems 4.1 to 4.3,
   extending Lin, Tegmark and Rolnick's 2ⁿ for a product ([LIT-887](../literature.d/LIT-887.md)). Proved
   for Taylor matching at the origin with bias-free units; the uniform
   version's lower bound rests on an unproved step. The flip side, that a
@@ -29,13 +32,13 @@ summary: >-
 ---
 
 
-# THEORY-tmppv845: For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
+# THEORY-206: For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
 
 ## Source
 
-Rolnick and Tegmark (2017), [LIT-tmpbq8zx](../literature.d/LIT-tmpbq8zx.md): Proposition 3.3, Theorems 4.1 to
+Rolnick and Tegmark (2017), [LIT-890](../literature.d/LIT-890.md): Proposition 3.3, Theorems 4.1 to
 4.3 and Proposition 4.6, with the appendix proofs, as read in
-[NOTE-tmp5dcxw](../notes.d/NOTE-tmp5dcxw.md). Lin, Tegmark and Rolnick (2016), [LIT-887](../literature.d/LIT-887.md), Appendix A, for
+[NOTE-693](../notes.d/NOTE-693.md). Lin, Tegmark and Rolnick (2016), [LIT-887](../literature.d/LIT-887.md), Appendix A, for
 the case rᵢ = 1 and the sign-pattern construction, as read in [NOTE-688](../notes.d/NOTE-688.md).
 
 ## What was actually shown

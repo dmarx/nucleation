@@ -2,7 +2,7 @@
 
 # Lines of work
 
-56 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+57 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -145,6 +145,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-862](../record/literature.d/LIT-862.md) — A mathematical theory of semantic development in deep neural networks *(Active)*
   - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
 - [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
+
+### From Why does deep and cheap learning work so well?
+
+- [LIT-887](../record/literature.d/LIT-887.md) — Why does deep and cheap learning work so well? *(Active)*
+  - [LIT-890](../record/literature.d/LIT-890.md) — The power of deeper networks for expressing natural functions *(Active)*
 
 ## behavioral-integration
 
@@ -510,6 +515,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
   - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
+
+### From Why does deep and cheap learning work so well?
+
+- [LIT-887](../record/literature.d/LIT-887.md) — Why does deep and cheap learning work so well? *(Active)*
+  - [LIT-890](../record/literature.d/LIT-890.md) — The power of deeper networks for expressing natural functions *(Active)*
 
 ## linguistics
 

@@ -6,7 +6,7 @@
 
 **Unread** — looked at and deliberately set aside — a human judgement, not a backlog entry. A paper nobody has reached simply has no note (ADR-025).
 
-0 of 692 NOTE documents. Back to the [full index](../README.md).
+0 of 693 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
