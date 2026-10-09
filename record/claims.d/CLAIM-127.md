@@ -1,5 +1,8 @@
 ---
+number: 127
 status: Proposed
+formerly:
+- CLAIM-tmpansqo
 title: 'Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C | do(a)), not enter its cover as one more context'
 version: 1
 role: thesis
@@ -28,7 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited as the open problem this claim bears on, not as settled -->
 
-# CLAIM-tmpansqo: Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C | do(a)), not enter its cover as one more context
+# CLAIM-127: Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C | do(a)), not enter its cover as one more context
 
 ## The claim
 

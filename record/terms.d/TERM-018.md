@@ -18,7 +18,7 @@ summary: >-
   asking the reader to take the utterance a certain way are different
   interventions. Splits the A30 operator sense of frame.
 used_by:
-- CLAIM-tmpansqo
+- CLAIM-127
 ---
 
 # TERM-018: framing intervention

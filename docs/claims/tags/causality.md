@@ -6,8 +6,8 @@
 
 **Causality** — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-0 of 126 CLAIM documents. Back to the [full index](../README.md).
+1 of 127 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-127](../../../record/claims.d/CLAIM-127.md) | Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C \| do(a)), not enter its cover as one more context | Proposed in a review of the record that the owner relayed on 2026-10-09, as the third of three structural changes to the manuscript. The record had made the distinction in words ([TERM-018](../../../record/terms.d/TERM-018.md) against [TERM-030](../../../record/terms.d/TERM-030.md)); the review puts it in the formalism. The link to signalling below is the record's own extrapolation. | Proposed |

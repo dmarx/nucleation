@@ -6,7 +6,7 @@
 
 **Offered** — stated and plausible, on evidence that is suggestive rather than settling — the document says what would settle it.
 
-60 of 126 CLAIM documents. Back to the [full index](../README.md).
+61 of 127 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -70,3 +70,4 @@
 | [CLAIM-123](../../../record/claims.d/CLAIM-123.md) | In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state | The manuscript's §7, citing Composable Diffusion, T2I-CompBench and Schrödinger bridges. The readings support it, and the manuscript is more careful than the paper it cites. | Proposed |
 | [CLAIM-125](../../../record/claims.d/CLAIM-125.md) | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data | [CLAIM-100](../../../record/claims.d/CLAIM-100.md) narrowed. Simulations between empirical models already give directed stochastic transport between scenarios whose covers change, and settle when it preserves global compatibility. What is left open is decision-relevant information and signalling data. | Proposed |
 | [CLAIM-126](../../../record/claims.d/CLAIM-126.md) | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency | Proposed by the record on 2026-10-09 as an operational handle on the decision-relevant half of [CLAIM-125](../../../record/claims.d/CLAIM-125.md), and qualified by the reading of Bansal, Nakkiran & Barak before it was filed: only reconstruction-fitted stitching certifies sufficiency, and only within the map class. | Proposed |
+| [CLAIM-127](../../../record/claims.d/CLAIM-127.md) | Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C \| do(a)), not enter its cover as one more context | Proposed in a review of the record that the owner relayed on 2026-10-09, as the third of three structural changes to the manuscript. The record had made the distinction in words ([TERM-018](../../../record/terms.d/TERM-018.md) against [TERM-030](../../../record/terms.d/TERM-030.md)); the review puts it in the formalism. The link to signalling below is the record's own extrapolation. | Proposed |

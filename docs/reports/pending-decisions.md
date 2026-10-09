@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**526 document(s) awaiting a decision.**
+**527 document(s) awaiting a decision.**
 
 ## LITs
 
-271 of the 526.
+271 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -287,7 +287,7 @@
 
 ## THEORYs
 
-181 of the 526.
+181 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -434,7 +434,7 @@
 | 2026-10-09 | Proposed | [THEORY-201](../../record/theory.d/THEORY-201.md) | 14 | 0 | In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay |
 | 2026-10-09 | Proposed | [THEORY-171](../../record/theory.d/THEORY-171.md) | 13 | 2 | When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 13 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
-| 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 12 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
+| 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 13 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-202](../../record/theory.d/THEORY-202.md) | 12 | 0 | In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target |
 | 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 10 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
 | 2026-10-09 | Proposed | [THEORY-169](../../record/theory.d/THEORY-169.md) | 10 | 0 | In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind |
@@ -475,7 +475,7 @@
 
 ## QUESTIONs
 
-4 of the 526.
+4 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -486,7 +486,7 @@
 
 ## CLAIMs
 
-65 of the 526.
+66 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -502,7 +502,7 @@
 | 2026-10-05 | Deferred | [CLAIM-104](../../record/claims.d/CLAIM-104.md) | 2 | 0 | Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level |
 | 2026-10-05 | Proposed | [CLAIM-122](../../record/claims.d/CLAIM-122.md) | 1 | 0 | Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed |
 | 2026-10-08 | Proposed | [CLAIM-119](../../record/claims.d/CLAIM-119.md) | 25 | 0 | Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints |
-| 2026-10-08 | Proposed | [CLAIM-061](../../record/claims.d/CLAIM-061.md) | 12 | 0 | Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event |
+| 2026-10-08 | Proposed | [CLAIM-061](../../record/claims.d/CLAIM-061.md) | 14 | 0 | Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event |
 | 2026-10-08 | Proposed | [CLAIM-009](../../record/claims.d/CLAIM-009.md) | 10 | 0 | Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for |
 | 2026-10-08 | Proposed | [CLAIM-117](../../record/claims.d/CLAIM-117.md) | 10 | 0 | Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations |
 | 2026-10-08 | Proposed | [CLAIM-056](../../record/claims.d/CLAIM-056.md) | 9 | 0 | Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift |
@@ -545,7 +545,7 @@
 | 2026-10-08 | Proposed | [CLAIM-078](../../record/claims.d/CLAIM-078.md) | 0 | 0 | The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws |
 | 2026-10-08 | Proposed | [CLAIM-103](../../record/claims.d/CLAIM-103.md) | 0 | 0 | Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed |
 | 2026-10-08 | Proposed | [CLAIM-111](../../record/claims.d/CLAIM-111.md) | 0 | 0 | A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence |
-| 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 14 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
+| 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 17 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
 | 2026-10-09 | Proposed | [CLAIM-115](../../record/claims.d/CLAIM-115.md) | 13 | 1 | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition |
 | 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 10 | 0 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 8 | 0 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
@@ -555,10 +555,11 @@
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 3 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
 | 2026-10-09 | Proposed | [CLAIM-090](../../record/claims.d/CLAIM-090.md) | 1 | 0 | Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable |
 | 2026-10-09 | Proposed | [CLAIM-126](../../record/claims.d/CLAIM-126.md) | 0 | 0 | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency |
+| 2026-10-09 | Proposed | [CLAIM-127](../../record/claims.d/CLAIM-127.md) | 0 | 0 | Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C | do(a)), not enter its cover as one more context |
 
 ## CASEs
 
-1 of the 526.
+1 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -566,7 +567,7 @@
 
 ## TERMs
 
-2 of the 526.
+2 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -575,7 +576,7 @@
 
 ## ARGs
 
-2 of the 526.
+2 of the 527.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -586,4 +587,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (39): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-002](../../record/claims.d/CLAIM-002.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-033](../../record/claims.d/CLAIM-033.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-078](../../record/claims.d/CLAIM-078.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-111](../../record/claims.d/CLAIM-111.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [LIT-840](../../record/literature.d/LIT-840.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (40): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-002](../../record/claims.d/CLAIM-002.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-033](../../record/claims.d/CLAIM-033.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-078](../../record/claims.d/CLAIM-078.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-111](../../record/claims.d/CLAIM-111.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [CLAIM-127](../../record/claims.d/CLAIM-127.md), [LIT-840](../../record/literature.d/LIT-840.md) — these are the cheapest to close, since nothing depends on the answer.

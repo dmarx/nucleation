@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [9 Oct 23:05 — A review of the record's new views, relayed by the owner: what the record already held, what it files, and what it leaves to the owner](2026-10.md#a-review-of-the-records-new-views-relayed-by-the-owner-what-the-record-already-held-what-it-files-and-what-it-leaves-to-the-owner)
 - [9 Oct 02:55 — Session of 2026-10-08, evening (U38–U39): the crystallized argument and draft C7, and the reconstruction closed](2026-10.md#session-of-2026-10-08-evening-u38u39-the-crystallized-argument-and-draft-c7-and-the-reconstruction-closed)
 - [9 Oct 02:46 — Session of 2026-10-08, evening (U33–U37): bibliography, diffusion, proposal v6, structuralism and symmetry](2026-10.md#session-of-2026-10-08-evening-u33u37-bibliography-diffusion-proposal-v6-structuralism-and-symmetry)
 - [9 Oct 02:37 — Session of 2026-10-08, evening (U30–U32): proposal v5, information theory, and draft C6](2026-10.md#session-of-2026-10-08-evening-u30u32-proposal-v5-information-theory-and-draft-c6)
@@ -22,8 +23,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-13 entries across 1 book, newest first.
+14 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 13 | 2026-10-07 | 2026-10-09 |
+| [2026-10](2026-10.md) | 14 | 2026-10-07 | 2026-10-09 |

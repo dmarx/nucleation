@@ -1,5 +1,8 @@
 ---
+number: 26
 status: Open
+formerly:
+- QUESTION-tmpepdzg
 title: 'Does categorical compositional semantics constrain transport between context-indexed empirical models, so that how a whole utterance''s observables are carried is fixed by how its parts'' are, and does the constraint reach past propositional content?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited as the preservation result a construction would extend, not as settled -->
 <!-- inactive-ok-file: CLAIM-061 — Proposed; cited as the open claim that makes the second half of the question matter -->
 
-# QUESTION-tmpepdzg: Does categorical compositional semantics constrain transport between context-indexed empirical models, so that how a whole utterance's observables are carried is fixed by how its parts' are, and does the constraint reach past propositional content?
+# QUESTION-026: Does categorical compositional semantics constrain transport between context-indexed empirical models, so that how a whole utterance's observables are carried is fixed by how its parts' are, and does the constraint reach past propositional content?
 
 ## Why it is a question
 

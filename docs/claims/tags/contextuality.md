@@ -6,7 +6,7 @@
 
 **Contextuality** — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics.
 
-16 of 126 CLAIM documents. Back to the [full index](../README.md).
+17 of 127 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,3 +26,4 @@
 | [CLAIM-121](../../../record/claims.d/CLAIM-121.md) | A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models | Proposition I of A84, Proposition B1 of C6, the manuscript's Proposition 1. It concerns marginal consistency, not global noncontextuality. | Active |
 | [CLAIM-124](../../../record/claims.d/CLAIM-124.md) | Communicative objects are characterized through overlapping constraints on observables at partially ordered levels; translation transports these locally constrained structures, and repeated reconstruction changes both local interpretations and their global compatibility | The thesis of proposal v5 (A81–A83, under U30), which put observational structure first: "a global communicative object is no longer stipulated in advance." Revised at U31 into the selective preservation of decision-relevant information. | Superseded — by [CLAIM-026](../../../record/claims.d/CLAIM-026.md) |
 | [CLAIM-125](../../../record/claims.d/CLAIM-125.md) | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data | [CLAIM-100](../../../record/claims.d/CLAIM-100.md) narrowed. Simulations between empirical models already give directed stochastic transport between scenarios whose covers change, and settle when it preserves global compatibility. What is left open is decision-relevant information and signalling data. | Proposed |
+| [CLAIM-127](../../../record/claims.d/CLAIM-127.md) | Observing a context, conditioning on one and intervening on the interpreter are different operations on an empirical model, so a framing intervention should index the model, e_C^do(a) = P(Y_C \| do(a)), not enter its cover as one more context | Proposed in a review of the record that the owner relayed on 2026-10-09, as the third of three structural changes to the manuscript. The record had made the distinction in words ([TERM-018](../../../record/terms.d/TERM-018.md) against [TERM-030](../../../record/terms.d/TERM-030.md)); the review puts it in the formalism. The link to signalling below is the record's own extrapolation. | Proposed |

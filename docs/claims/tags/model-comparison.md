@@ -6,7 +6,7 @@
 
 **Model comparison** — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
 
-0 of 126 CLAIM documents. Back to the [full index](../README.md).
+0 of 127 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
