@@ -22,6 +22,7 @@ summary: >-
 supports:
 - CLAIM-tmpk2ltq
 ---
+<!-- inactive-ok-file: THEORY-tmpllqzv — Proposed; attention as an inner learner, cited as evidence on one side, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpk2ltq — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpxrgp3: Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter
@@ -45,3 +46,16 @@ improving the signal from improving the interpreter."
 A44 §3B: "One should not identify this with literal weight updating in an
 ordinary transformer", and "TTT terminology needs care". The consequence for
 fidelity ([CLAIM-tmpk2ltq](CLAIM-tmpk2ltq.md)) is not in the manuscript.
+
+## What the in-context-learning readings say
+
+The evidence is mixed:
+
+- **Against, at the level of the layer.** In linear attention, conditioning
+  on a context is one gradient step of an inner learner (Sun et al.,
+  LIT-tmp8hsmf; von Oswald et al., LIT-tmp2vilw; THEORY-tmpllqzv). So in
+  that class of system, context and interpreter are the same computation.
+- **For, at the level of the whole model.** Akyürek et al. (LIT-tmp686hl)
+  hold the demonstrations fixed and also update the weights on them, and
+  that beats conditioning alone (BIG-Bench Hard 50.5% to 57.8%). The two
+  are behaviourally distinguishable.

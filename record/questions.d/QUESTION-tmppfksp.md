@@ -40,3 +40,11 @@ adapted receiver may recover an implicit relation without additional message
 bits"). It states no trade-off and proposes no experiment for it. A86 §10 had
 named "how much decoder adaptation compensates for lower rate" as one of three
 target results.
+
+## Evidence since
+
+Akyürek et al. (LIT-tmp686hl) get more from the same demonstrations by
+improving the interpreter (test-time training) than by conditioning alone.
+That is direct evidence that adaptation can stand in for transmitted
+information. Min et al. (LIT-tmpgsgpo) find that the correctness of the
+labels carries little of what a context transmits.

@@ -46,3 +46,12 @@ keeps audience knowledge K as side information (§5) and the signal/interpreter
 distinction ([CLAIM-tmpxrgp3](CLAIM-tmpxrgp3.md)). It does not say that fidelity itself differs with the
 interpreter's history. The opacity question ([QUESTION-tmpx51x0](../questions.d/QUESTION-tmpx51x0.md)) is one case of it.
 Experiment 3 of [CASE-tmp7b5rt](../cases.d/CASE-tmp7b5rt.md) would test it.
+
+## What the in-context-learning readings say
+
+Persistence and the locus of change come apart. Akyürek et al.'s
+test-time update (LIT-tmp686hl) and Sun et al.'s inner weights
+(LIT-tmp8hsmf) both change parameters, and both discard the change after
+the task or the sequence. So "transient means context, persistent means
+adaptation" does not hold as a dichotomy, and the claim needs stating in
+terms of where the change happens.
