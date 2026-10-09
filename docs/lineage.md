@@ -2,7 +2,7 @@
 
 # Lines of work
 
-51 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+52 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -123,6 +123,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
   - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
 
+### From Compositional Visual Generation with Composable Diffusion Models
+
+- alongside: [LIT-770](../record/literature.d/LIT-770.md) — Compositional Visual Generation with Composable Diffusion Models *(Active)*
+- alongside: [LIT-783](../record/literature.d/LIT-783.md) — T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation *(Active)*
+
 ## behavioral-integration
 
 ### From The Society of Mind
@@ -231,6 +236,18 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
   - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
+
+## compositionality
+
+### From Mathematical Foundations for a Compositional Distributional Model of Meaning
+
+- [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
+  - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
+
+### From Compositional Visual Generation with Composable Diffusion Models
+
+- alongside: [LIT-770](../record/literature.d/LIT-770.md) — Compositional Visual Generation with Composable Diffusion Models *(Active)*
+- alongside: [LIT-783](../record/literature.d/LIT-783.md) — T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation *(Active)*
 
 ## consciousness
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**136 documents cited without acknowledgement.** Not listed: 2727 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**145 documents cited without acknowledgement.** Not listed: 2774 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -117,7 +117,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-28 citations in 24 files await a look; 23 other citations of it are acknowledged.
+28 citations in 24 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -185,7 +185,7 @@ A representation is determined by its kernel up to an orthogonal transformation,
 
 Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
 
-19 citations in 11 files await a look; 3 other citations of it are acknowledged.
+20 citations in 12 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-371.md:23`](../../record/literature.d/LIT-371.md)
 - [`record/literature.d/LIT-372.md:35`](../../record/literature.d/LIT-372.md)
@@ -203,6 +203,7 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/notes.d/NOTE-321.md:157`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:185`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
+- [`record/notes.d/NOTE-591.md:228`](../../record/notes.d/NOTE-591.md)
 - [`record/theory.d/THEORY-033.md:66`](../../record/theory.d/THEORY-033.md)
 - [`record/theory.d/THEORY-039.md:70`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:82`](../../record/theory.d/THEORY-039.md)
@@ -235,7 +236,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
-17 citations in 12 files await a look; 5 other citations of it are acknowledged.
+17 citations in 12 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
@@ -351,6 +352,25 @@ Grokking and Generalization Collapse: Insights from HTSR theory
 - [`record/theory.d/THEORY-039.md:75`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:77`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:83`](../../record/theory.d/THEORY-039.md)
+
+### [THEORY-117](../../record/theory.d/THEORY-117.md) — Proposed
+
+Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one
+
+12 citations in 7 files await a look.
+
+- [`record/decisions.d/ADR-031.md:36`](../../record/decisions.d/ADR-031.md)
+- [`record/decisions.d/ADR-031.md:77`](../../record/decisions.d/ADR-031.md)
+- [`record/literature.d/LIT-770.md:80`](../../record/literature.d/LIT-770.md)
+- [`record/literature.d/LIT-782.md:85`](../../record/literature.d/LIT-782.md)
+- [`record/literature.d/LIT-783.md:95`](../../record/literature.d/LIT-783.md)
+- [`record/notes.d/NOTE-592.md:177`](../../record/notes.d/NOTE-592.md)
+- [`record/notes.d/NOTE-592.md:181`](../../record/notes.d/NOTE-592.md)
+- [`record/notes.d/NOTE-592.md:186`](../../record/notes.d/NOTE-592.md)
+- [`record/notes.d/NOTE-593.md:167`](../../record/notes.d/NOTE-593.md)
+- [`record/notes.d/NOTE-593.md:175`](../../record/notes.d/NOTE-593.md)
+- [`record/notes.d/NOTE-597.md:156`](../../record/notes.d/NOTE-597.md)
+- [`record/notes.d/NOTE-597.md:164`](../../record/notes.d/NOTE-597.md)
 
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
@@ -491,7 +511,7 @@ On the Stepwise Nature of Self-Supervised Learning
 
 Kochen-Specker contextuality
 
-9 citations in 5 files await a look; 11 other citations of it are acknowledged.
+9 citations in 5 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-298.md:6`](../../record/literature.d/LIT-298.md)
 - [`record/literature.d/LIT-298.md:65`](../../record/literature.d/LIT-298.md)
@@ -507,7 +527,7 @@ Kochen-Specker contextuality
 
 Is there contextuality in behavioral and social systems?
 
-9 citations in 5 files await a look; 5 other citations of it are acknowledged.
+9 citations in 5 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-270.md:6`](../../record/literature.d/LIT-270.md)
 - [`record/literature.d/LIT-270.md:72`](../../record/literature.d/LIT-270.md)
@@ -523,7 +543,7 @@ Is there contextuality in behavioral and social systems?
 
 The contextual fraction as a measure of contextuality
 
-9 citations in 8 files await a look; 2 other citations of it are acknowledged.
+9 citations in 8 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
@@ -587,7 +607,7 @@ Detection, Estimation, and Modulation Theory, Part I
 
 In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
 
-9 citations in 6 files await a look.
+9 citations in 6 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-249.md:183`](../../record/notes.d/NOTE-249.md)
 - [`record/notes.d/NOTE-250.md:198`](../../record/notes.d/NOTE-250.md)
@@ -660,6 +680,21 @@ Data-Dependent Generalization Bounds via Variable-Size Compressibility
 - [`record/notes.d/NOTE-308.md:119`](../../record/notes.d/NOTE-308.md)
 - [`record/theory.d/THEORY-028.md:47`](../../record/theory.d/THEORY-028.md)
 
+### [LIT-317](../../record/literature.d/LIT-317.md) — Deferred
+
+Communication in the Presence of Noise
+
+8 citations in 5 files await a look.
+
+- [`record/literature.d/LIT-764.md:76`](../../record/literature.d/LIT-764.md)
+- [`record/literature.d/LIT-764.md:88`](../../record/literature.d/LIT-764.md)
+- [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
+- [`record/notes.d/NOTE-293.md:162`](../../record/notes.d/NOTE-293.md)
+- [`record/notes.d/NOTE-300.md:124`](../../record/notes.d/NOTE-300.md)
+- [`record/notes.d/NOTE-591.md:206`](../../record/notes.d/NOTE-591.md)
+- [`record/notes.d/NOTE-591.md:213`](../../record/notes.d/NOTE-591.md)
+- [`record/notes.d/NOTE-591.md:219`](../../record/notes.d/NOTE-591.md)
+
 ### [LIT-321](../../record/literature.d/LIT-321.md) — Deferred
 
 Local Quantum Physics: Fields, Particles, Algebras (2nd ed.)
@@ -705,6 +740,20 @@ Adler — Hilbert spaces and the Riesz representation theorem
 - [`record/notes.d/NOTE-286.md:189`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-286.md:190`](../../record/notes.d/NOTE-286.md)
 
+### [LIT-349](../../record/literature.d/LIT-349.md) — Deferred
+
+Information and the Accuracy Attainable in the Estimation of Statistical Parameters
+
+7 citations in 5 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-031.md:47`](../../record/decisions.d/ADR-031.md)
+- [`record/decisions.d/ADR-031.md:84`](../../record/decisions.d/ADR-031.md)
+- [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
+- [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
+- [`record/notes.d/NOTE-315.md:148`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-315.md:160`](../../record/notes.d/NOTE-315.md)
+- [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
+
 ### [NOTE-291](../../record/notes.d/NOTE-291.md) — Skimmed
 
 Analysis of Boolean Functions
@@ -718,6 +767,20 @@ Analysis of Boolean Functions
 - [`record/theory.d/THEORY-019.md:63`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:96`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:99`](../../record/theory.d/THEORY-019.md)
+
+### [NOTE-596](../../record/notes.d/NOTE-596.md) — Skimmed
+
+Cumulative cultural evolution in the laboratory
+
+7 citations in 5 files await a look.
+
+- [`record/literature.d/LIT-768.md:83`](../../record/literature.d/LIT-768.md)
+- [`record/literature.d/LIT-769.md:87`](../../record/literature.d/LIT-769.md)
+- [`record/literature.d/LIT-771.md:6`](../../record/literature.d/LIT-771.md)
+- [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
+- [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
+- [`record/notes.d/NOTE-599.md:182`](../../record/notes.d/NOTE-599.md)
+- [`record/theory.d/THEORY-155.md:47`](../../record/theory.d/THEORY-155.md)
 
 ### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
 
@@ -828,7 +891,7 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-6 citations in 4 files await a look; 5 other citations of it are acknowledged.
+6 citations in 4 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
@@ -860,18 +923,6 @@ Zur Theorie der hyperkomplexen Zahlen
 - [`record/notes.d/NOTE-276.md:108`](../../record/notes.d/NOTE-276.md)
 - [`record/notes.d/NOTE-280.md:119`](../../record/notes.d/NOTE-280.md)
 - [`record/notes.d/NOTE-305.md:105`](../../record/notes.d/NOTE-305.md)
-
-### [LIT-349](../../record/literature.d/LIT-349.md) — Deferred
-
-Information and the Accuracy Attainable in the Estimation of Statistical Parameters
-
-5 citations in 4 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
-- [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
-- [`record/notes.d/NOTE-315.md:148`](../../record/notes.d/NOTE-315.md)
-- [`record/notes.d/NOTE-315.md:160`](../../record/notes.d/NOTE-315.md)
-- [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
@@ -950,6 +1001,17 @@ Algebraic Geometry and Statistical Learning Theory
 - [`record/notes.d/NOTE-287.md:125`](../../record/notes.d/NOTE-287.md)
 - [`record/notes.d/NOTE-287.md:150`](../../record/notes.d/NOTE-287.md)
 
+### [LIT-778](../../record/literature.d/LIT-778.md) — Deferred
+
+Comparison of Statistical Experiments
+
+4 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
+- [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
+- [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
+- [`record/theory.d/THEORY-156.md:69`](../../record/theory.d/THEORY-156.md)
+
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
 The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
@@ -1001,16 +1063,6 @@ Similarity of Neural Network Representations Revisited
 - [`record/notes.d/NOTE-286.md:142`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-301.md:90`](../../record/notes.d/NOTE-301.md)
 
-### [LIT-317](../../record/literature.d/LIT-317.md) — Deferred
-
-Communication in the Presence of Noise
-
-3 citations in 3 files await a look.
-
-- [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
-- [`record/notes.d/NOTE-293.md:162`](../../record/notes.d/NOTE-293.md)
-- [`record/notes.d/NOTE-300.md:124`](../../record/notes.d/NOTE-300.md)
-
 ### [LIT-342](../../record/literature.d/LIT-342.md) — Deferred
 
 What is Structural Realism?
@@ -1020,6 +1072,16 @@ What is Structural Realism?
 - [`record/notes.d/NOTE-297.md:119`](../../record/notes.d/NOTE-297.md)
 - [`record/notes.d/NOTE-297.md:125`](../../record/notes.d/NOTE-297.md)
 - [`record/theory.d/THEORY-034.md:8`](../../record/theory.d/THEORY-034.md)
+
+### [LIT-473](../../record/literature.d/LIT-473.md) — Deferred
+
+Convention: A Philosophical Study
+
+3 citations in 3 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
+- [`record/literature.d/LIT-765.md:28`](../../record/literature.d/LIT-765.md)
+- [`record/literature.d/LIT-768.md:31`](../../record/literature.d/LIT-768.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -1049,6 +1111,15 @@ Spectral Networks and Betti Lagrangians
 
 - [`record/notes.d/NOTE-293.md:167`](../../record/notes.d/NOTE-293.md)
 - [`record/notes.d/NOTE-293.md:170`](../../record/notes.d/NOTE-293.md)
+
+### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
+
+The Relativity of Causal Knowledge
+
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-772.md:100`](../../record/literature.d/LIT-772.md)
+- [`record/notes.d/NOTE-588.md:214`](../../record/notes.d/NOTE-588.md)
 
 ### [LIT-047](../../record/literature.d/LIT-047.md) — Proposed
 
@@ -1238,6 +1309,24 @@ A mind of mindless agents and a mind of minded agents are one functionalist move
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
+
+### [THEORY-156](../../record/theory.d/THEORY-156.md) — Proposed
+
+For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
+
+2 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-781.md:87`](../../record/literature.d/LIT-781.md)
+- [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
+
+### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
+
+In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
+
+2 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-774.md:97`](../../record/literature.d/LIT-774.md)
+- [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -1543,14 +1632,6 @@ Subjectivity and Selfhood: Investigating the First-Person Perspective
 
 - [`record/decisions.d/ADR-016.md:55`](../../record/decisions.d/ADR-016.md)
 
-### [LIT-473](../../record/literature.d/LIT-473.md) — Deferred
-
-Convention: A Philosophical Study
-
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
-
 ### [LIT-483](../../record/literature.d/LIT-483.md) — Deferred
 
 Groups as Agents
@@ -1566,6 +1647,22 @@ Morality as Cooperation: A Problem-Centred Approach
 1 citation in 1 file awaits a look; 24 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-019.md:54`](../../record/decisions.d/ADR-019.md)
+
+### [LIT-765](../../record/literature.d/LIT-765.md) — Deferred
+
+Elements of Information Theory
+
+1 citation in 1 file awaits a look.
+
+- [`record/literature.d/LIT-767.md:62`](../../record/literature.d/LIT-767.md)
+
+### [LIT-767](../../record/literature.d/LIT-767.md) — Deferred
+
+The rate-distortion function for source coding with side information at the decoder
+
+1 citation in 1 file awaits a look.
+
+- [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
 
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 
@@ -1614,6 +1711,14 @@ Maximizing HSIC between representations and image identity maximizes the average
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-289.md:84`](../../record/notes.d/NOTE-289.md)
+
+### [THEORY-006](../../record/theory.d/THEORY-006.md) — Proposed
+
+InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size
+
+1 citation in 1 file awaits a look.
+
+- [`record/notes.d/NOTE-591.md:227`](../../record/notes.d/NOTE-591.md)
 
 ### [THEORY-009](../../record/theory.d/THEORY-009.md) — Proposed
 

@@ -4,7 +4,7 @@
 
 **logic**.
 
-31 of 587 NOTE documents. Back to the [full index](../README.md).
+31 of 600 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
