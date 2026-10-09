@@ -17,14 +17,15 @@ rests_on:
 supersedes:
 - CLAIM-tmpizns9
 superseded_by:
-- CLAIM-tmpww3q0
+- CLAIM-tmpzxah5
 uses:
 - TERM-tmp6szt9
 summary: >-
   A50 §7 and outline v4 (A52), after the owner's U20 objection. The
-  manuscript keeps transport, graded fidelity and drift, and states its
-  thesis instead as relationally organized observables.
+  manuscript keeps transport, graded fidelity and drift. Superseded at
+  U30 by the observational-structure thesis of proposal v5 (A81–A83).
 ---
+<!-- inactive-ok-file: CLAIM-tmp817r3 CLAIM-tmpzxah5 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpizns9 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpumy4f CLAIM-tmpww3q0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -51,6 +52,7 @@ the nearest ancestor of the title question ([QUESTION-tmp3lk3n](../questions.d/Q
 
 ## Why it was replaced
 
-The manuscript keeps every part of it in §6 and §8 and moves the thesis to what
+Under U30, proposal v5 put observational structure first ([CLAIM-tmpzxah5](CLAIM-tmpzxah5.md)); under
+U31 the thesis became decision-relevant information ([CLAIM-tmp817r3](CLAIM-tmp817r3.md)). The manuscript keeps every part of it in §6 and §8 and moves the thesis to what
 transport preserves: observables and their relations ([CLAIM-tmpww3q0](CLAIM-tmpww3q0.md)). That move is
 later than this chunk.

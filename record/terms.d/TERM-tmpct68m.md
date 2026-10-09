@@ -16,6 +16,7 @@ summary: >-
   fidelity (§6, §12).
 used_by:
 - CLAIM-tmpumy4f
+- CLAIM-tmpzxah5
 ---
 
 # TERM-tmpct68m: fidelity, as graded, directed transport distortion

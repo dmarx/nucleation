@@ -55,6 +55,12 @@ Manuscript Abstract: "The theory predicts when local content can survive while
 the global pattern of communicative relationships changes." §11: "A transport
 may preserve overlaps but change the available measurement cover."
 
+Proposal v5 (U30) kept it: A81 §5.5, A82 §8.7 ("Distinguish increased ambiguity
+from an increase in formal contextuality"), and A84's planned Appendix F
+example, "Two locally similar empirical models with different global
+compatibility". A81 §4.4 set the contextual fraction's role: "an observable
+structural descriptor rather than ... the definition of translation fidelity".
+
 ## What was lost
 
 Δ_CF and the worked example of two locally similar models with different global

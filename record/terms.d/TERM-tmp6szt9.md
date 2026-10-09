@@ -1,7 +1,17 @@
 ---
 status: Active
 title: 'transport'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-08'
+  note: >-
+    A81 §5.2 (U30) made transport context-indexed: a context map τ and
+    outcome-level Markov kernels K_C, compatible with restriction,
+    "formulate[d] as a morphism or lax morphism between observational
+    systems". C6 Appendix B kept the kernels and called compatibility a
+    "naturality-like law"; the lax-morphism framing was dropped. Version 1
+    was the utterance-level map of U20 and A50.
 tags:
 - mathematics
 - philosophy-of-language
@@ -16,7 +26,11 @@ summary: >-
 used_by:
 - CLAIM-tmpt20oo
 - CLAIM-tmpumy4f
+- CLAIM-tmpjl8xd
+- CLAIM-tmpze62b
 ---
+<!-- inactive-ok-file: CLAIM-tmpt20oo — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpumy4f — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-tmp6szt9: transport
 
@@ -36,5 +50,14 @@ Not a correspondence witnessing equivalence, which is what Φ was from A34 to
 A49. Manuscript §6: "A transport from source C_o to target C_t consists of a
 correspondence τ between appropriate source and target contexts and local
 stochastic kernels ... It is intentionally directed: compression and
-interpretation need not be invertible." That definition, with naturality under
-restriction, is later than this chunk.
+interpretation need not be invertible." That definition arrived at A81 §5.2:
+K_C : E_o(C) ⇝ E_t(τ(C)), "Require appropriate compatibility with restriction
+maps when a transport is intended to preserve observational structure. Formulate
+the resulting construction as a morphism or lax morphism between observational
+systems." C6 Appendix B: "restrict_tau(D) K_C = K_D restrict_D, interpreted as
+equality of kernels. This naturality-like law means that transporting and
+forgetting observations agrees with forgetting and transporting." The
+lax-morphism framing, which would have named the approximate case
+categorically, did not reach C6 or the manuscript. A86 also modelled translation
+as an utterance-level channel T(v | u); the two levels are never formally
+related, and the manuscript uses both.

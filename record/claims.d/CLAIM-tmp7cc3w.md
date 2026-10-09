@@ -17,6 +17,8 @@ summary: >-
   Krifka. The manuscript §1 keeps it ("not the claim that each
   individual ingredient is novel") and cites Gutt, but drops Krifka,
   whom four replies named as the closest prior art.
+complements:
+- CLAIM-tmpp8j04
 ---
 <!-- inactive-ok-file: CLAIM-tmps5hv6 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-784 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->

@@ -16,6 +16,8 @@ summary: >-
   presupposed. The manuscript §3.
 used_by:
 - CLAIM-tmpbbjw4
+- CLAIM-tmpc7m5v
+- CLAIM-tmpzxah5
 ---
 <!-- inactive-ok-file: CLAIM-tmpbbjw4 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-tmpn0h5z — Superseded; replaced, and cited as the history this entry answers or replaces -->

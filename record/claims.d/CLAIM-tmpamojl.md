@@ -50,6 +50,10 @@ C1 §2, the first full draft (U22), gave the analogy its last form: "The physica
 model supplies the methodological question—what relations survive a
 transformation?—not a literal Lorentz geometry for discourse." 
 
+Proposal v5 planned to "Recover the initial physical analogy" in a closing
+section (A84 §14.3; [CLAIM-tmp0talu](CLAIM-tmp0talu.md)). C6 dropped it, and the manuscript's §4
+replaces relativity with symmetry and equivariance.
+
 ## What it changes
 
 It leaves [ARG-tmpekso6](../arguments.d/ARG-tmpekso6.md) its research-programme respect only. It is the premise of

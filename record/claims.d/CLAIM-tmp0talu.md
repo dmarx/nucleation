@@ -62,3 +62,10 @@ structural reorganization", but has no way to tell (ii) from (iv) in a given
 pair. Restated without an underlying act, the criterion would be: an active
 transformation changes the decision-relevant observables (stance, force) beyond
 what the change of target context requires.
+
+Its last appearance is proposal v5's §14.3 (A84, under U30), "Relativistic frames
+and invariant structure": "Recover the initial physical analogy through changes
+of representation and preservation of relational structure. Distinguish
+coordinate-like changes in description from interventions that change empirical
+models. Present global compatibility as a question separate from frame
+invariance." C6 has no relativity section, and the manuscript has none.

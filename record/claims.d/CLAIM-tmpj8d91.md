@@ -63,3 +63,11 @@ mechanism, not a generic consequence of repetition", depending on whether the
 chain has a unique stationary law or several absorbing classes. E1's contractive
 chain ([CASE-tmpiueso](../cases.d/CASE-tmpiueso.md)) is the stipulated instance of convergence to a convention
 ([CLAIM-tmpn361s](CLAIM-tmpn361s.md)).
+
+Proposal v5 (A82 §8.5–8.6, under U30) added two points. The first: "Distinguish
+convergence of realizations from convergence of observable probability
+distributions." The second: retellings of a criminal ballad "may progressively
+eliminate observables associated with its original subculture", while modern
+adaptation "can introduce new distinctions", so the cover itself drifts. C6 kept
+"cultural attractors" as a section heading (§8). The manuscript keeps only
+"change the available measurement cover" (§11).

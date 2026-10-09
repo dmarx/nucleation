@@ -49,6 +49,14 @@ Manuscript §11: "An iterated chain may converge in surface form while diverging
 in ancestral information"; §8: the data-processing inequality "is not a theorem
 that messages get less comprehensible".
 
+A86 §3 (U31) gave it in information terms: the telephone game is progressive
+garbling, and "a message can become more legible while becoming less informative
+about what originally happened". "Increasing conventionality alongside
+decreasing information about the origin" would be "a natural
+information-theoretic explanation of cultural attractors", and the same reply
+added the caveat: "The Markov assumption matters here." The manuscript keeps the
+caveat (§8) and drops the attractor explanation.
+
 ## What it does not say
 
 Which profile matters for fidelity: that depends on whether the question is

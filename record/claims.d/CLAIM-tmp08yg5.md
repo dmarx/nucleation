@@ -50,3 +50,9 @@ The manuscript's conclusion asks "which differences and relationships can be
 recognized across a specified family of transformations", which keeps the
 family and loses the three relations and the point about descent. Nothing argued
 against it.
+
+Proposal v5 restated it once more (A82 §9.4, under U30): "Propose that
+continuity across transformations can be characterized by a family of directed
+preservation relations. Distinguish historical descent, pragmatic similarity,
+and exact equivalence. Revisit Hofstadter's analogical conception of identity."
+C6 dropped it; its two uses of "descent" are gradient descent.

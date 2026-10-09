@@ -45,5 +45,6 @@ A48 kept the model as running case B, an "operational proxy". A52 kept it as
 running case C. Its use as evidence is limited by [CLAIM-tmpo49t2](CLAIM-tmpo49t2.md). The manuscript keeps
 language models as one kind of interpreter in its empirical programme
 (Abstract, §10) and keeps one consequence ([CLAIM-tmpxrgp3](CLAIM-tmpxrgp3.md)), but no longer presents a
-model's context-conditioning as a frame. What happened between A52 and the
-manuscript is outside owner turns U17–U21.
+model's context-conditioning as a frame. C6 §6 (U32) demoted it: ICL and TTT
+"are compatible with our theory but not required for its mathematical
+definitions", and the notation P_θ(y | c, u) is gone from the manuscript.

@@ -23,6 +23,8 @@ grounds:
 - LIT-767
 supersedes:
 - CLAIM-tmpeponh
+uses:
+- TERM-tmpsjjot
 summary: >-
   The manuscript's §5: rate–distortion makes coding cost explicit,
   Blackwell comparison (restricted to a family Q of communicative

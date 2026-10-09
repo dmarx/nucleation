@@ -30,6 +30,12 @@ explicitly defined divergence", and 5.2 kept "Under a metric". The manuscript
 §8 says "Lipschitz with constant κ_i in the chosen metric" and, for stochastic
 kernels, uses total variation.
 
+C6 Appendix B (U32) stated the directed case outright: the distortion "is
+directed, need not be invertible, and does not obey a triangle inequality unless
+the chosen constructions guarantee one", while its Appendix D bound assumes "d a
+metric on target probability distributions". The manuscript drops the first
+sentence and keeps the second.
+
 ## What would count as an answer
 
 A bound stated for a named class of divergences: for instance a weak triangle
