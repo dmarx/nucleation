@@ -925,7 +925,7 @@ Structuralism
 
 - [`record/claims.d/CLAIM-098.md:61`](../../record/claims.d/CLAIM-098.md)
 - [`record/literature.d/LIT-837.md:6`](../../record/literature.d/LIT-837.md)
-- [`record/literature.d/LIT-837.md:13`](../../record/literature.d/LIT-837.md)
+- [`record/literature.d/LIT-837.md:46`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:110`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:144`](../../record/literature.d/LIT-837.md)
 
@@ -936,7 +936,7 @@ Morphology of the Folktale
 5 citations in 2 files await a look.
 
 - [`record/literature.d/LIT-830.md:6`](../../record/literature.d/LIT-830.md)
-- [`record/literature.d/LIT-830.md:13`](../../record/literature.d/LIT-830.md)
+- [`record/literature.d/LIT-830.md:75`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:152`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:202`](../../record/literature.d/LIT-830.md)
 - [`record/notes.d/NOTE-615.md:188`](../../record/notes.d/NOTE-615.md)
