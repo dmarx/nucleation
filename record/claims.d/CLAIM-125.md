@@ -27,7 +27,7 @@ grounds:
 - LIT-847
 - LIT-845
 - THEORY-156
-- THEORY-tmpsywrj
+- THEORY-177
 supersedes:
 - CLAIM-100
 summary: >-
@@ -38,7 +38,7 @@ summary: >-
 complements:
 - CLAIM-126
 ---
-<!-- inactive-ok-file: THEORY-174 THEORY-156 THEORY-tmpsywrj — Proposed; cited as readings the claim stands on, not as settled -->
+<!-- inactive-ok-file: THEORY-174 THEORY-156 THEORY-177 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history this entry narrows -->
 
@@ -102,7 +102,7 @@ within one family of spaces rather than as transport between scenarios.
 ## How much signalling language data carry
 
 Wang, Sadrzadeh, Abramsky and Cervantes's journal follow-up to [LIT-842](../literature.d/LIT-842.md)
-([LIT-tmpmnpgo](../literature.d/LIT-tmpmnpgo.md), read in [NOTE-tmp18bc8](../notes.d/NOTE-tmp18bc8.md)) bears on the second open part. It
+([LIT-851](../literature.d/LIT-851.md), read in [NOTE-654](../notes.d/NOTE-654.md)) bears on the second open part. It
 does not consider transport. But it measures signalling in 90 rank-2
 noun–verb systems from corpus data:
 
@@ -112,7 +112,7 @@ noun–verb systems from corpus data:
 
 So for language data signalling is the typical case, not an edge case, and
 an extension to signalling data is not optional. The paper also gives a
-quantity a transport could be asked to preserve or bound ([THEORY-tmpsywrj](../theory.d/THEORY-tmpsywrj.md)).
+quantity a transport could be asked to preserve or bound ([THEORY-177](../theory.d/THEORY-177.md)).
 That quantity is each content's least direct influence of context in a
 canonical causal model, which equals the total-variation distance between
 the content's two marginals. Whether classical simulations ([THEORY-174](../theory.d/THEORY-174.md))

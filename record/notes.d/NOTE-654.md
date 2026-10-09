@@ -1,6 +1,9 @@
 ---
+number: 654
 status: Read
-paper: 'LIT-tmpmnpgo'
+formerly:
+- NOTE-tmp18bc8
+paper: 'LIT-851'
 title: 'Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools'
 version: 1
 history:
@@ -40,11 +43,11 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading bears on, not as settled -->
 <!-- inactive-ok-file: THEORY-168 — Proposed; cited for a consequence this reading illustrates -->
-<!-- inactive-ok-file: THEORY-tmpsywrj — Proposed; filed from this reading -->
+<!-- inactive-ok-file: THEORY-177 — Proposed; filed from this reading -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited for an open question this reading raises -->
 <!-- inactive-ok-file: CLAIM-125 CLAIM-037 — Proposed; open, and cited as open: the claims this reading bears on -->
 
-# NOTE-tmp18bc8: Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools
+# NOTE-654: Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools
 
 ## Contribution
 
@@ -189,7 +192,7 @@ Pickering and Frisson 2001b) are cited, not tested.
 
 ## Bearing on the record
 
-- **It produces [THEORY-tmpsywrj](../theory.d/THEORY-tmpsywrj.md)**: in binary systems the CbD signalling
+- **It produces [THEORY-177](../theory.d/THEORY-177.md)**: in binary systems the CbD signalling
   measure is the minimal causal direct influence of context. The
   record's CbD readings ([LIT-777](../literature.d/LIT-777.md), [NOTE-600](NOTE-600.md)) hold the maximal coupling, so
   they hold the total-variation half. They do not hold its identification

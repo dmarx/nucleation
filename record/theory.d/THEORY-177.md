@@ -1,5 +1,8 @@
 ---
+number: 177
 status: Proposed
+formerly:
+- THEORY-tmpsywrj
 promote_when: >-
   The step the proof quotes is checked at its source: a reading of Jones
   (2019), Proposition 8.4, confirming that every coupling of the observed
@@ -16,9 +19,9 @@ tags:
 - causality
 date: '2026-10-09'
 source:
-- LIT-tmpmnpgo
+- LIT-851
 summary: >-
-  Wang, Sadrzadeh, Abramsky & Cervantes (2021), [LIT-tmpmnpgo](../literature.d/LIT-tmpmnpgo.md),
+  Wang, Sadrzadeh, Abramsky & Cervantes (2021), [LIT-851](../literature.d/LIT-851.md),
   Proposition 1. It joins CbD's maximal couplings ([LIT-777](../literature.d/LIT-777.md), Theorem 3.3)
   to Jones's 2019 correspondence between couplings and canonical models,
   which is quoted, not proved. The result measures signalling. It says
@@ -31,13 +34,13 @@ supports:
 
 <!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as the claim this finding bears on -->
 
-# THEORY-tmpsywrj: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the least total direct influence of context that any canonical causal model of the data must contain, and each content's share is the total-variation distance between its marginals
+# THEORY-177: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the least total direct influence of context that any canonical causal model of the data must contain, and each content's share is the total-variation distance between its marginals
 
 ## Source
 
-Wang, Sadrzadeh, Abramsky & Cervantes (2021), [LIT-tmpmnpgo](../literature.d/LIT-tmpmnpgo.md), §3.1:
+Wang, Sadrzadeh, Abramsky & Cervantes (2021), [LIT-851](../literature.d/LIT-851.md), §3.1:
 Proposition 1, Lemma 1, Proposition 2 and Corollary 1, as read in
-[NOTE-tmp18bc8](../notes.d/NOTE-tmp18bc8.md).
+[NOTE-654](../notes.d/NOTE-654.md).
 
 ## What was actually shown
 

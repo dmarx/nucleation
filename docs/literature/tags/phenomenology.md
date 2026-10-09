@@ -6,7 +6,7 @@
 
 **Phenomenology** — the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016).
 
-9 of 850 LIT documents. Back to the [full index](../README.md).
+9 of 851 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

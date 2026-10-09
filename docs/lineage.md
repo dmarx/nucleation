@@ -295,6 +295,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
   - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
   - [LIT-842](../record/literature.d/LIT-842.md) — On the Quantum-like Contextuality of Ambiguous Phrases *(Active)* — also extends LIT-777
+    - [LIT-851](../record/literature.d/LIT-851.md) — Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools *(Active)* — also extends LIT-777
   - [LIT-843](../record/literature.d/LIT-843.md) — Combining contextuality and causality: a game semantics approach *(Active)* — also extends LIT-813
   - [LIT-846](../record/literature.d/LIT-846.md) — Categories of Empirical Models *(Active)* — also extends LIT-265
     - [LIT-847](../record/literature.d/LIT-847.md) — A comonadic view of simulation and quantum resources *(Active)* — also extends LIT-016, LIT-265

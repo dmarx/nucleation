@@ -4,7 +4,7 @@
 
 **quantum-foundations**.
 
-82 of 653 NOTE documents. Back to the [full index](../README.md).
+83 of 654 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -90,3 +90,4 @@
 | [NOTE-648](../../../record/notes.d/NOTE-648.md) | Quantum-Like Contextuality in Large Language Models | Builds a three-sentence anaphora schema with the support of the PR prism, instantiates it 51,966,480 times from Simple English Wikipedia, and takes one referent probability per sentence from BERT: 0.148% of the models pass a signalling-corrected sheaf test and 71.1% the CbD test. Because the schema fixes the support, both verdicts depend only on how uncertain BERT is in the three sentences; the tie to embedding distance is a softmax identity with weak correlations. | Read |
 | [NOTE-650](../../../record/notes.d/NOTE-650.md) | Closing Bell | Answers which maps between the empirical models of two scenarios are induced by classical, non-adaptive procedures: exactly those given by a non-contextual model of a hom scenario [S, T] whose outcomes are procedures, so deciding it is a linear program. A family of compatible local procedures glues into one global procedure exactly when that model is non-contextual; the rest are "contextual simulations". The hom construction makes scenarios with predicates a closed category. | Read |
 | [NOTE-651](../../../record/notes.d/NOTE-651.md) | Categories of Empirical Models | Gives empirical models on different measurement scenarios a category: a simulation answers each target measurement with a jointly measurable set of source measurements and a stochastic outcome map natural in the context. Non-contextuality becomes simulability from nothing, the non-contextual fraction becomes a functor (contextuality cannot grow along a simulation), strong contextuality is reflected, Graham reductions are simulations, and contextual models cannot be cloned. | Read |
+| [NOTE-654](../../../record/notes.d/NOTE-654.md) | Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools | Proves that in a binary cyclic system CbD's signalling quantity Δ is twice the sum of each content's minimal direct influence over Jones's canonical causal models, which is the total-variation distance between its marginals. In 90 rank-2 noun–verb systems from British corpora, Δ is about 1.35 for every ambiguity class, and homonymous verbs carry about 70% of it against about 50% for polysemous verbs. That difference rests on 14 systems from six verbs and is marginal by a recomputed test (p ≈ 0.06 two-sided). No system is tested for contextuality. | Read |

@@ -4,7 +4,7 @@
 
 **cognition**.
 
-142 of 653 NOTE documents. Back to the [full index](../README.md).
+143 of 654 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -150,3 +150,4 @@
 | [NOTE-636](../../../record/notes.d/NOTE-636.md) | Wang & Busemeyer, the QQ model and QQ equality | Derives the QQ equality from a Lüders-projection model of answering attitude questions: the probability of answering two questions differently is the same in both orders, for any belief state, any projectors and any dimension, provided only the first answer changes the state before the second. It holds in five of six data sets and fails, as the authors predicted, in the sixth, where new information came between the questions. The argument that classical models fail it is informal. | Read |
 | [NOTE-640](../../../record/notes.d/NOTE-640.md) | Contextuality in canonical systems | Contextuality is to be judged on a canonical representation in which every variable is replaced by binary splits and connections are coupled multimaximally. For two content-sharing k-valued variables with all splits kept, the canonical system is noncontextual if and only if one nominally dominates the other: its probabilities fall below the other's for at most one value (Theorem 4.6). Only the 1- and 2-splits matter (Theorems 4.1, 4.3). For continuous densities, all splits make any difference in distribution contextual. | Read |
 | [NOTE-645](../../../record/notes.d/NOTE-645.md) | On the Quantum-like Contextuality of Ambiguous Phrases | Models meaning selection in two-word ambiguous phrases as a Bell-type measurement scenario. Hand-set supports give one possibilistically contextual (Hardy-type) model; every corpus-estimated model is signalling, so only Contextuality-by-Default applies, under which two noun–verb pairs read in both grammatical orders are contextual (1/30 and 7/30). The paper's own bootstrap leaves both plausibly noncontextual (probabilities above .56 and .08), on very small counts. | Read |
+| [NOTE-654](../../../record/notes.d/NOTE-654.md) | Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools | Proves that in a binary cyclic system CbD's signalling quantity Δ is twice the sum of each content's minimal direct influence over Jones's canonical causal models, which is the total-variation distance between its marginals. In 90 rank-2 noun–verb systems from British corpora, Δ is about 1.35 for every ambiguity class, and homonymous verbs carry about 70% of it against about 50% for polysemous verbs. That difference rests on 14 systems from six verbs and is marginal by a recomputed test (p ≈ 0.06 two-sided). No system is tested for contextuality. | Read |

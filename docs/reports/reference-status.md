@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**168 documents cited without acknowledgement.** Not listed: 3394 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**168 documents cited without acknowledgement.** Not listed: 3407 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -236,7 +236,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
-17 citations in 12 files await a look; 37 other citations of it are acknowledged.
+17 citations in 12 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
@@ -2020,7 +2020,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-117.md:37: annotation no longer applies — nothing in scope cites CLAIM-052
 - record/claims.d/CLAIM-121.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
-- record/literature.d/LIT-777.md:58: annotation no longer applies — LIT-264 is Active now
+- record/literature.d/LIT-777.md:59: annotation no longer applies — LIT-264 is Active now
 - record/literature.d/LIT-802.md:83: annotation no longer applies — LIT-837 is Active now
 - record/literature.d/LIT-828.md:130: annotation no longer applies — LIT-830 is Active now
 - record/notes.d/NOTE-240.md:39: annotation no longer applies — LIT-264 is Active now

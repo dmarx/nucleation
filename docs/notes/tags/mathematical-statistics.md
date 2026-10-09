@@ -4,7 +4,7 @@
 
 **mathematical-statistics**.
 
-2 of 653 NOTE documents. Back to the [full index](../README.md).
+2 of 654 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
