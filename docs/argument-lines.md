@@ -77,7 +77,8 @@ Grouped by `line`, which every line holds in common — a line about two things 
 ### From Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model
 
 - [CLAIM-070](../record/claims.d/CLAIM-070.md) — Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model *(Active)*
-  - [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Proposed)* — also extends CLAIM-121
+  - [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Superseded)* — also extends CLAIM-121
+  - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Proposed)* — also extends CLAIM-121
 - [CLAIM-121](../record/claims.d/CLAIM-121.md) — A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models *(Active)*
 
 ## will-organization

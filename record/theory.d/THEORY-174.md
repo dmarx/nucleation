@@ -36,7 +36,7 @@ supports:
 - CLAIM-100
 - CLAIM-070
 - CLAIM-121
-- CLAIM-tmpnyfix
+- CLAIM-125
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim this theory bears on -->

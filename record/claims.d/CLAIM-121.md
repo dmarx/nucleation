@@ -30,11 +30,11 @@ summary: >-
   noncontextuality.
 supports:
 - CLAIM-100
-- CLAIM-tmpnyfix
+- CLAIM-125
 ---
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited as the reading that generalises this proposition, not as settled -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; narrowed, and cited as the history of the open problem -->
-<!-- inactive-ok-file: CLAIM-tmpnyfix — Proposed; open, and cited as open: the narrowed problem this proposition supports -->
+<!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as open: the narrowed problem this proposition supports -->
 
 # CLAIM-121: A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models
 
@@ -80,4 +80,4 @@ reader drew this mapping; Karvonen does not mention translation. The
 manuscript should cite it, and this claim now names it in its grounds,
 with the THEORY that states the general result ([THEORY-174](../theory.d/THEORY-174.md)): classical
 simulations between scenarios, cover-changing ones included, never create
-contextuality. The open remainder is [CLAIM-tmpnyfix](CLAIM-tmpnyfix.md).
+contextuality. The open remainder is [CLAIM-125](CLAIM-125.md).

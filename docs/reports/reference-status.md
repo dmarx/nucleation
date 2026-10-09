@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**168 documents cited without acknowledgement.** Not listed: 3328 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**168 documents cited without acknowledgement.** Not listed: 3339 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -903,7 +903,7 @@ Comparison of Statistical Experiments
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
 - [`record/literature.d/LIT-781.md:91`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
-- [`record/theory.d/THEORY-156.md:71`](../../record/theory.d/THEORY-156.md)
+- [`record/theory.d/THEORY-156.md:72`](../../record/theory.d/THEORY-156.md)
 
 ### [NOTE-601](../../record/notes.d/NOTE-601.md) — Skimmed
 
@@ -1436,7 +1436,7 @@ A higher-level property is a cause in its own right, and its realizer is not, ex
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look; 7 other citations of it are acknowledged.
+2 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
@@ -1459,11 +1459,11 @@ When the causal constraints on events depend on context, deterministic assignmen
 - [`record/decisions.d/ADR-035.md:34`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:71`](../../record/decisions.d/ADR-035.md)
 
-### [CLAIM-100](../../record/claims.d/CLAIM-100.md) — Proposed
+### [CLAIM-100](../../record/claims.d/CLAIM-100.md) — Superseded
 
 Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-648.md:187`](../../record/notes.d/NOTE-648.md)
 
@@ -2003,7 +2003,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-052.md:32: annotation no longer applies — nothing in scope cites CLAIM-073
 - record/claims.d/CLAIM-054.md:30: annotation no longer applies — nothing in scope cites CLAIM-061, CLAIM-064
 - record/claims.d/CLAIM-064.md:29: annotation no longer applies — nothing in scope cites TERM-035
-- record/claims.d/CLAIM-070.md:31: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-070.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/claims.d/CLAIM-071.md:27: annotation no longer applies — nothing in scope cites CLAIM-120
 - record/claims.d/CLAIM-083.md:33: annotation no longer applies — nothing in scope cites CLAIM-055
 - record/claims.d/CLAIM-084.md:31: annotation no longer applies — nothing in scope cites CLAIM-061
@@ -2017,7 +2017,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-113.md:36: annotation no longer applies — nothing in scope cites CLAIM-015
 - record/claims.d/CLAIM-115.md:41: annotation no longer applies — nothing in scope cites CLAIM-017
 - record/claims.d/CLAIM-117.md:37: annotation no longer applies — nothing in scope cites CLAIM-052
-- record/claims.d/CLAIM-121.md:31: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-121.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
 - record/literature.d/LIT-777.md:58: annotation no longer applies — LIT-264 is Active now
 - record/literature.d/LIT-802.md:83: annotation no longer applies — LIT-837 is Active now

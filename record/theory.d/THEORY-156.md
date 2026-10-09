@@ -29,7 +29,7 @@ summary: >-
   worse an incomparable experiment is.
 supports:
 - CLAIM-050
-- CLAIM-tmpnyfix
+- CLAIM-125
 ---
 
 # THEORY-156: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation

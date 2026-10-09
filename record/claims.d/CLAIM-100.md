@@ -27,9 +27,9 @@ summary: >-
 objected_by:
 - CLAIM-001
 superseded_by:
-- CLAIM-tmpnyfix
+- CLAIM-125
 ---
-<!-- inactive-ok-file: CLAIM-tmpnyfix — Proposed; the narrowed claim that replaces this one -->
+<!-- inactive-ok-file: CLAIM-125 — Proposed; the narrowed claim that replaces this one -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; simulations never create contextuality, cited as partial answer, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -97,7 +97,7 @@ these works listed as prior art ahead of Gogioso and Pinzani.
 
 ## Superseded
 
-Narrowed on 2026-10-09 by [CLAIM-tmpnyfix](CLAIM-tmpnyfix.md), at the owner's request. The new
+Narrowed on 2026-10-09 by [CLAIM-125](CLAIM-125.md), at the owner's request. The new
 claim holds open only the two parts the simulations literature leaves:
 when a cover-changing transport preserves decision-relevant information,
 and how transport extends to signalling data. It lists the simulations

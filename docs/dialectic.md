@@ -6,7 +6,7 @@
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
-- [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(thesis, Proposed)*
+- [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(thesis, Superseded)*
   - [CLAIM-001](../record/claims.d/CLAIM-001.md) — The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers *(counter, Proposed)*
     - [CLAIM-071](../record/claims.d/CLAIM-071.md) — Conditional generation shares a mathematical vocabulary with translation, not a mechanism: denoising time is not telephone-game time, and a generative failure is not a proof of sheaf contextuality *(disclaimed, Active)*
 
