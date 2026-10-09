@@ -96,3 +96,11 @@ decoding convention rather than a preserved historical object"
   that a teller is bound in the order of functions but free in characters,
   attributes and wording. That is a structural thesis about the corpus, not
   a measurement of retellings.
+
+## A mechanism when a model is in the loop
+
+Farrell, Gopnik, Shalizi and Evans ([LIT-tmpofhpt](../literature.d/LIT-tmpofhpt.md), [THEORY-tmphj5z7](../theory.d/THEORY-tmphj5z7.md)) give a
+mechanism for contraction when a large model takes part in transmission. A
+model fitted to reproduce text well on average is least accurate on rare
+material, so it "might" homogenize culture. The paper states this but does
+not test it, so it is weak support.

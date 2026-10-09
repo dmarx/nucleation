@@ -1,0 +1,102 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 ([NOTE-tmpvuygo](../notes.d/NOTE-tmpvuygo.md)); worth reading as the paper that first gives empirical models on different measurement scenarios a notion of morphism: a simulation d → e answers each measurement of e by a set of jointly measurable measurements of d (a simplicial relation, so the cover may change) and a stochastic map of outcomes natural in the context. With it, non-contextual models are exactly those simulable from the terminal (empty) model, the non-contextual fraction can only grow along a simulation, strong contextuality is reflected backwards, Graham reductions are simulations (Vorob''ev''s theorem), and no contextual model can be cloned. It is restricted to no-signalling models and has no preprocessing.'
+title: 'Categories of Empirical Models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's direct request on 2026-10-09 and read in full the
+    same day (NOTE-tmpvuygo) from the arXiv PDF (1804.01514v3, the
+    EPTCS version, 14 pages, text layer extracted). Bibliography checked
+    against the arXiv abstract page (v1 submitted 4 April 2018; v3 carries
+    the journal reference EPTCS 287, 2019, pp. 239–252, In Proceedings QPL
+    2018) and Crossref (DOI 10.4204/EPTCS.287.14, published online 31
+    January 2019, sole author Martti Karvonen). `published:` is the arXiv
+    v1 date by ADR-002. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone pulled 2026-10-09, commit d8b5ba5) for the arXiv
+    id, the DOI, the title and Karvonen found nothing.
+tags:
+- contextuality
+- mathematics
+- quantum-foundations
+date: '2026-10-09'
+published: '2018-04-04'
+arxiv: '1804.01514'
+first_author: 'Karvonen'
+keywords:
+- 'empirical models'
+- 'morphisms of measurement scenarios'
+- 'simulation'
+- 'resource theory of contextuality'
+- 'Kleisli category'
+- 'contextual fraction'
+- 'no-cloning'
+implementations: []
+summary: >-
+  Karvonen (2018), [ARXIV-1804.01514](https://arxiv.org/abs/1804.01514), QPL 2018, EPTCS 287:239–252 (2019).
+  Defines simulations between empirical models on different scenarios: a
+  simplicial relation from target measurements to sets of source
+  measurements, and a stochastic outcome map natural in the context.
+  Non-contextual models are those simulable from the terminal model, the
+  non-contextual fraction is monotone along simulations, strong
+  contextuality is reflected, and contextual models cannot be cloned.
+extends:
+- LIT-016
+- LIT-265
+extended_by:
+- LIT-tmp5at9s
+- LIT-tmpjk0t0
+---
+
+<!-- inactive-ok-file: THEORY-tmprxblg — Proposed; the theory this reading is a source of, cited as such -->
+
+# LIT-tmpes6yu: Categories of Empirical Models
+
+Martti Karvonen (2018), in *Proceedings of the 15th International
+Conference on Quantum Physics and Logic (QPL 2018)*, EPTCS 287 (2019),
+pp. 239–252, DOI 10.4204/EPTCS.287.14 — [ARXIV-1804.01514](https://arxiv.org/abs/1804.01514)
+
+## Key takeaways
+
+- **Morphisms that change the cover.** A morphism from scenario
+  ⟨Y, N, P⟩ to ⟨X, M, O⟩ is a simplicial relation π : X → Y (each
+  measurement x is answered by a set π(x) of source measurements, and
+  each target context goes to a jointly measurable source set) with a
+  natural transformation σ : E_Y(π(−)) → D_R ∘ E_X(−) (Definition 3.9).
+  A simulation d → e is such a morphism whose pushforward of d is e. The
+  covers of the two scenarios need not match; the relation, not a
+  function, is what lets a target measurement depend on several source
+  measurements (Example 3.7, parity).
+- **Contextuality as non-simulability.** Distributions on global
+  sections explaining e correspond one to one with simulations from the
+  terminal model 1 → e (Theorem 4.1), so e is non-contextual iff such a
+  simulation exists. A semifield homomorphism gives a functor, so
+  logical contextuality implies probabilistic (Theorem 4.2).
+- **What simulation preserves.** If d → e, then NCF(d) ≤ NCF(e)
+  (Theorem 4.5: the non-contextual fraction is a functor to [0, 1]), and
+  if e is strongly contextual so is d (Theorem 4.3). A simulation can
+  remove contextuality but never create it.
+- **Two further results.** A Graham reduction of the cover induces a
+  simulation e|X\{x} → e (Theorem 4.7), so models on acyclic covers are
+  non-contextual, which recasts Vorob'ev's theorem. With the parallel
+  product as a monoidal structure, e → e ⊗ e exists iff e is
+  non-contextual (Theorem 4.8, no-cloning).
+- **Limits stated by the author.** The definition needs no-signalling for
+  the pushforward to be well defined (Remark 3.2). There is no
+  preprocessing: which source measurements are called cannot depend on
+  randomness or on earlier outcomes (§5). Stochastic morphisms do not
+  glue along arbitrary covers, only along partitions (Lemma 3.12),
+  because D ∘ E is not a sheaf.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's direct request, as the first of the
+works that set up simulations between empirical models. It is not from
+the manuscript bibliography: the owner asked for it directly on
+2026-10-09. It is read with its two successors, the comonadic
+generalisation ([LIT-tmpjk0t0](LIT-tmpjk0t0.md)) and the characterisation of free
+transformations ([LIT-tmp5at9s](LIT-tmp5at9s.md)). Together they are the source of
+[THEORY-tmprxblg](../theory.d/THEORY-tmprxblg.md). [NOTE-tmpvuygo](../notes.d/NOTE-tmpvuygo.md) says how the reading bears on the manuscript's
+transport problem on line `pragmatic-transport`.

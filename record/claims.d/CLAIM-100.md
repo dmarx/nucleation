@@ -18,6 +18,8 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-121
 - CLAIM-070
+grounds:
+- THEORY-tmprxblg
 summary: >-
   A93 §1's "Research opportunity" and A94's bridge question, which the
   owner quoted at U34. The manuscript concedes the gap ("cover-changing
@@ -25,6 +27,7 @@ summary: >-
 objected_by:
 - CLAIM-001
 ---
+<!-- inactive-ok-file: THEORY-tmprxblg — Proposed; simulations never create contextuality, cited as partial answer, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-100: Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
@@ -67,3 +70,24 @@ Gogioso and Pinzani's Topology and Geometry of causality ([LIT-808](../literatur
 lattice of covers with restriction to finer ones, and a hierarchy of spaces
 whose polytopes nest. All of that is within one family of spaces, not a
 directed stochastic transport between scenarios, so the problem stays open.
+
+## Answered in part by the simulations literature
+
+Simulations between empirical models already define directed, stochastic
+transport between scenarios whose covers change:
+
+- Karvonen 2018 ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md));
+- Abramsky, Barbosa, Karvonen and Mansfield 2019 ([LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md));
+- Barbosa, Karvonen and Mansfield, "Closing Bell" ([LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md)).
+
+Each target measurement is mapped to a jointly measurable set of source
+measurements. These works prove that such transport preserves
+noncontextuality and cannot raise the noncontextual fraction ([THEORY-tmprxblg](../theory.d/THEORY-tmprxblg.md)). Closing
+Bell's Theorem 44, as corrected in arXiv v2, characterises exactly which
+maps are classical transports. Locally compatible pieces that fail to glue
+are "contextual simulations".
+
+That meets the global-compatibility half of this claim's defeat condition.
+It does not meet the half about decision-relevant information, and it does
+not cover signalling data. The claim should be narrowed to those, and
+these works listed as prior art ahead of Gogioso and Pinzani.

@@ -22,6 +22,7 @@ grounds:
 - LIT-016
 - LIT-777
 - LIT-842
+- LIT-tmp2g08h
 summary: >-
   The manuscript's §3 and §9. It separates three things: context
   dependence, stochastic noncommutativity, and contextuality as an
@@ -66,3 +67,10 @@ Contextuality-by-Default could. That is direct support for this claim.
 Abramsky, Barbosa and Searle ([LIT-843](../literature.d/LIT-843.md)) offer a second route. In their
 approach, signalling from a declared causal past becomes part of the
 classical model.
+
+## The BERT study, again
+
+In Lo et al. ([LIT-tmp2g08h](../literature.d/LIT-tmp2g08h.md)) every instance signals unless all its probabilities are
+½. The two criteria that allow for signalling then diverge widely: 71.1%
+of instances are contextual by Contextuality-by-Default, 0.148% by the
+sheaf criterion. That supports this claim.

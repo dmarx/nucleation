@@ -1,0 +1,119 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 ([NOTE-tmpvhpr1](../notes.d/NOTE-tmpvhpr1.md)); worth reading as the result that says which transformations between the empirical models of two different scenarios are classical. A probabilistic procedure S → T (a mixture of deterministic procedures, each answering every measurement of T by a context of S and a post-processing of outcomes) induces a convex map EMP(S) → EMP(T). A convex map is so induced exactly when it comes from a non-contextual model, satisfying a simpliciality predicate, on a new "hom" scenario [S, T] whose outcomes are procedures. Compatible local procedures that do not glue into one global procedure are contextual models of [S, T]: "contextual simulations". The construction makes scenarios with predicates a closed category. Non-adaptive only; the arXiv v2 corrects Theorem 44 of the published chapter.'
+title: 'Closing Bell: Boxing black box simulations in the resource theory of contextuality'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's direct request on 2026-10-09 and read in full the
+    same day (NOTE-tmpvhpr1) from the arXiv PDF (2104.11241v2, 24 January
+    2024, 38 pages, text layer extracted), which the authors say
+    supersedes the published version: it "corrected a mistake in Theorem
+    44 and other fixes stemming from it". The v1 PDF (36 pages) was
+    compared at §4.5 to see what changed. Bibliography checked against
+    the arXiv abstract page (v1 submitted 22 April 2021) and Crossref
+    (DOI 10.1007/978-3-031-24117-8_13, in A. Palmigiano and M. Sadrzadeh
+    (eds), Samson Abramsky on Logic and Structure in Computer Science and
+    Beyond, Outstanding Contributions to Logic 25, Springer, pp. 475–529,
+    published online 2 August 2023). The Springer version was not
+    consulted. `published:` is the arXiv v1 date by ADR-002. Registered
+    because it directly continues the simulation framework of
+    LIT-tmpes6yu and LIT-tmpjk0t0: its Remark 28 revises their morphisms
+    and its main theorem characterises the maps they induce. Not held in
+    the Anthology of the SOTA: a grep of its record/ (clone pulled
+    2026-10-09, commit d8b5ba5) for the arXiv id, the DOI, the title and
+    Karvonen found nothing.
+tags:
+- contextuality
+- mathematics
+- quantum-foundations
+- logic
+date: '2026-10-09'
+published: '2021-04-22'
+arxiv: '2104.11241'
+first_author: 'Barbosa'
+keywords:
+- 'resource theory of contextuality'
+- 'simulation'
+- 'experimental procedures'
+- 'non-local games'
+- 'closed category'
+- 'internal hom'
+- 'contextual simulations'
+implementations: []
+summary: >-
+  Barbosa, Karvonen & Mansfield (2021), [ARXIV-2104.11241](https://arxiv.org/abs/2104.11241), in Samson
+  Abramsky on Logic and Structure in Computer Science and Beyond
+  (Springer, 2023). Characterises which convex maps between the empirical
+  models of two scenarios are induced by classical (non-adaptive)
+  procedures: exactly those given by a non-contextual model of a "hom"
+  scenario [S, T] whose outcomes are procedures. Non-local games are
+  procedures into a one-bit scenario, and the hom construction makes
+  scenarios with predicates a closed category.
+extends:
+- LIT-tmpjk0t0
+- LIT-tmpes6yu
+- LIT-016
+---
+
+<!-- inactive-ok-file: THEORY-tmprxblg — Proposed; the theory this reading is a source of, cited as such -->
+
+# LIT-tmp5at9s: Closing Bell: Boxing black box simulations in the resource theory of contextuality
+
+Rui Soares Barbosa, Martti Karvonen and Shane Mansfield (2021), in
+A. Palmigiano and M. Sadrzadeh (eds), *Samson Abramsky on Logic and
+Structure in Computer Science and Beyond*, Outstanding Contributions to
+Logic 25, Springer (2023), pp. 475–529, DOI
+10.1007/978-3-031-24117-8_13 — [ARXIV-2104.11241](https://arxiv.org/abs/2104.11241)
+
+## Key takeaways
+
+- **Procedures between scenarios.** A deterministic procedure S → T is a
+  simplicial relation π from T's measurements to sets of S's
+  measurements, plus outcome maps α_x : E_S(π(x)) → O_T,x (Definition
+  17); probabilistic procedures are convex mixtures of these (Definition
+  21), so π may be random too, which is more general than Karvonen's
+  (Remark 28). A procedure f induces EMP(f) : EMP(S) → EMP(T), which
+  preserves convex combinations (Lemma 24).
+- **Contextuality as non-simulability** (Theorem 29): e is
+  (probabilistically / logically / strongly) contextual iff no
+  (probabilistic / possibilistic / weak) simulation from the empty model
+  reaches it. Non-local games and Bell functionals are probabilistic
+  procedures into the one-bit scenario [2] (§3.5).
+- **Which maps are classical.** A convex map is fixed by its values on
+  deterministic models (Theorem 37, via signed global sections). A
+  deterministic-preserving map is induced by a deterministic procedure
+  iff each context of T is computed from one context of S (Theorem 40).
+  In general (Theorem 44, v2): F is induced by a probabilistic procedure
+  iff F = F_e for some non-contextual model e of the hom scenario
+  [S, T] satisfying the predicate g_{S,T} (each target context uses only
+  a context of S). Deciding this is a linear program over a projection of
+  the non-contextual polytope.
+- **Contextual simulations.** A model of [S, T] is a family of compatible
+  local procedures, one per context of T; it glues to one global
+  procedure exactly when it is non-contextual (§4.5). Contextual models
+  of [S, T] are named "contextual simulations" and left open (§6.7).
+- **Closure.** Scenarios equipped with structure predicates, with
+  procedures preserving them, form a closed category with [−, −] as
+  internal hom (Theorem 46, Corollary 47).
+- **What changed in v2.** v1 encoded each convex map F as one canonical
+  model e_F, on the claim that F's decomposition into deterministic
+  experiments is unique, and stated Theorem 44 as "e_F is
+  non-contextual". v2 drops the canonical encoding and asks only for
+  some non-contextual e with F = F_e. The published chapter carries the
+  v1 statement.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's direct request, as the third of the
+works on simulations between empirical models. It is not from the
+manuscript bibliography: the owner asked for it directly on 2026-10-09.
+It was registered with [LIT-tmpes6yu](LIT-tmpes6yu.md) and [LIT-tmpjk0t0](LIT-tmpjk0t0.md) because it directly
+continues their framework: Remark 28 revises both their morphisms, and
+Theorem 44 answers the question their categories raise, which maps
+between models are free. It is a source of [THEORY-tmprxblg](../theory.d/THEORY-tmprxblg.md). Its prologue
+names natural language among the settings where the local–global
+tension recurs, citing Wang et al. ([LIT-842](LIT-842.md)). [NOTE-tmpvhpr1](../notes.d/NOTE-tmpvhpr1.md) says how it
+bears on the manuscript's transport problem on line `pragmatic-transport`.

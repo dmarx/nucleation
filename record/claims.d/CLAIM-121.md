@@ -64,3 +64,11 @@ larger than images of source overlaps, the stated conditions must cover those
 extra target variables too; this is why the geometric assumptions on τ matter."
 The manuscript's "consistent on the mapped overlaps" is right under that reading.
 Active.
+
+## Prior art
+
+This proposition is a special case of Karvonen's "Categories of Empirical
+Models" ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)). His natural transformation σ is exactly the family of local kernels commuting with restriction, and his
+Lemma 3.12 states the limit that local kernels need not glue. The record's
+reader drew this mapping; Karvonen does not mention translation. The
+manuscript should cite it.
