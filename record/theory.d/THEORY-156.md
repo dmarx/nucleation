@@ -27,6 +27,8 @@ summary: >-
   finite converse is Sherman and Stein (1951); the general converse is
   proved in 1953. It is a qualitative order and says nothing about how much
   worse an incomparable experiment is.
+supports:
+- CLAIM-tmpek80j
 ---
 
 # THEORY-156: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation

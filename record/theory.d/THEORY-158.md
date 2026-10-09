@@ -28,6 +28,9 @@ summary: >-
   Markov process can conserve the mean of an observable it does not commute
   with. The theorem covers diagonal observables only; it says nothing about
   symmetries that permute states.
+supports:
+- CLAIM-tmprn8pl
+- CLAIM-tmpuwwjx
 ---
 
 <!-- inactive-ok-file: THEORY-019 — Proposed; named as a parallel on commutants, with no relation claimed -->

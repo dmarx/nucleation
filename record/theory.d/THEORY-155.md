@@ -32,6 +32,9 @@ summary: >-
   It is a theorem about an idealized chain. It does not say human chains
   reach the prior, and Kirby, Cornish & Smith's laboratory chains,
   [LIT-771](../literature.d/LIT-771.md), are consistent with it without testing it.
+supports:
+- CLAIM-tmpj2kjo
+- CLAIM-tmppvvyq
 ---
 
 <!-- inactive-ok-file: LIT-768 — Deferred, no lawful full text; named as the classical case the claim would have to meet, not leaned on -->

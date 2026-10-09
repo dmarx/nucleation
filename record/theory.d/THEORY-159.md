@@ -28,6 +28,9 @@ summary: >-
   sign as a whole is nothing but a difference: the book calls the sign a
   positive fact and the relation between signs opposition. The support is
   argument by example.
+supports:
+- CLAIM-tmpjmeg6
+- CLAIM-tmpnt2nd
 ---
 
 # THEORY-159: In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value

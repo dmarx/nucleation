@@ -435,6 +435,11 @@ vocabularies:
         label: Authenticity and concordance
         blurb: what makes a will-organization the agent's own, and normativity across the scales an agent
           spans. Set aside on 2026-10-05 as future work
+      pragmatic-transport:
+        label: Contextual pragmatic information transport
+        blurb: what survives when an utterance is translated, retold or rendered in another medium —
+          communicative identity as relationally organized observables, and fidelity as directed, task-relative
+          transport between observational systems
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
@@ -445,6 +450,11 @@ vocabularies:
         label: The Organization of Will
         blurb: 'the owner''s essay, drafted 2026-10-04 to 2026-10-06: will-organization as the agent-indexed
           organization of practical efficacy, and why effective will is precarious'
+      what-survives-translation:
+        label: What Survives Translation?
+        blurb: 'the owner''s working manuscript, drafted October 2026: contextual pragmatic information
+          transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry,
+          rate–distortion and Blackwell comparison, conditional diffusion and iterated learning'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs
