@@ -6,14 +6,6 @@ formerly:
 title: 'transport'
 version: 3
 history:
-- version: 3
-  date: '2026-10-08'
-  note: >-
-    The crystallized argument (A108 §13) gave transport four components,
-    the fourth "Criteria determining which observable and decision
-    structures are preserved". The manuscript (§6) moves the criteria out
-    into the fidelity functional and lets the transport "also specify task
-    correspondences and decoder side information". Unremarked.
 - version: 2
   date: '2026-10-08'
   note: >-
@@ -23,6 +15,14 @@ history:
     systems". C6 Appendix B kept the kernels and called compatibility a
     "naturality-like law"; the lax-morphism framing was dropped. Version 1
     was the utterance-level map of U20 and A50.
+- version: 3
+  date: '2026-10-08'
+  note: >-
+    The crystallized argument (A108 §13) gave transport four components,
+    the fourth "Criteria determining which observable and decision
+    structures are preserved". The manuscript (§6) moves the criteria out
+    into the fidelity functional and lets the transport "also specify task
+    correspondences and decoder side information". Unremarked.
 tags:
 - mathematics
 - philosophy-of-language
