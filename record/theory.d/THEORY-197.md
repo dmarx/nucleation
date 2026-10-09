@@ -17,7 +17,7 @@ promote_when: >-
   exact point. Further pictures of block-like receptive fields cannot
   settle it either way.
 title: 'Mehta and Schwab''s correspondence between Kadanoff''s variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-09'
@@ -27,6 +27,12 @@ history:
     makes it in substance, and Mehta & Schwab conceded Eq. 8's "iff" as a
     typo in their comment (arXiv 1609.03541). LIT-887 joins the
     sources. The claim is unchanged.
+- version: 3
+  date: '2026-10-09'
+  note: >-
+    Schwab & Mehta's comment (LIT-tmp8t5lj, read in NOTE-tmpgcp7r) joins
+    the sources: the mapping's own authors put its content at the trace
+    condition and withdraw Eq. 8's converse. The claim is unchanged.
 tags:
 - natural-sciences
 - representation-learning
@@ -35,6 +41,7 @@ source:
 - LIT-882
 - LIT-873
 - LIT-887
+- LIT-tmp8t5lj
 summary: >-
   Mehta and Schwab (2014), [LIT-882](../literature.d/LIT-882.md), Eqs. 18–22: setting the RG
   kernel T = −E + H makes the RG coarse Hamiltonian equal the RBM's
