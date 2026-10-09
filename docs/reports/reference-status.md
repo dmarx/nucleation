@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 3502 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 3540 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -152,7 +152,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-26 citations in 17 files await a look; 16 other citations of it are acknowledged.
+26 citations in 17 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -429,7 +429,7 @@ Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation
 
-10 citations in 3 files await a look; 6 other citations of it are acknowledged.
+10 citations in 3 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
@@ -860,7 +860,7 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-6 citations in 4 files await a look; 14 other citations of it are acknowledged.
+6 citations in 4 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
@@ -873,11 +873,11 @@ Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry:
 
 In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
 
-6 citations in 5 files await a look; 1 other citation of it is acknowledged.
+6 citations in 5 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-072.md:38`](../../record/claims.d/CLAIM-072.md)
-- [`record/claims.d/CLAIM-082.md:93`](../../record/claims.d/CLAIM-082.md)
-- [`record/claims.d/CLAIM-082.md:111`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:95`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:113`](../../record/claims.d/CLAIM-082.md)
 - [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
@@ -1388,7 +1388,7 @@ Structural Anthropology
 
 2 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-082.md:54`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:56`](../../record/claims.d/CLAIM-082.md)
 - [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
 
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
@@ -1404,7 +1404,7 @@ Generalized contextuality is strictly broader than Kochen–Specker contextualit
 
 The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
-2 citations in 2 files await a look; 10 other citations of it are acknowledged.
+2 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -1413,7 +1413,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
 
-2 citations in 2 files await a look; 12 other citations of it are acknowledged.
+2 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -1467,7 +1467,7 @@ When the causal constraints on events depend on context, deterministic assignmen
 
 A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
 

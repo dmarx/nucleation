@@ -1,6 +1,9 @@
 ---
+number: 665
 status: Read
-paper: 'LIT-tmpuvppr'
+formerly:
+- NOTE-tmp86ssm
+paper: 'LIT-863'
 title: 'On the Emergence of Linear Analogies in Word Embeddings'
 version: 1
 history:
@@ -30,9 +33,9 @@ summary: >-
   bounds and simulated; Wikipedia agrees in shape. Every embedding is an
   eigendecomposition, none is trained.
 ---
-<!-- inactive-ok-file: THEORY-tmp5ocix THEORY-182 THEORY-183 THEORY-019 THEORY-001 THEORY-002 THEORY-159 CLAIM-082 — Proposed; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: THEORY-185 THEORY-182 THEORY-183 THEORY-019 THEORY-001 THEORY-002 THEORY-159 CLAIM-082 — Proposed; cited as what this reading produced or bears on -->
 
-# NOTE-tmp86ssm: On the Emergence of Linear Analogies in Word Embeddings
+# NOTE-665: On the Emergence of Linear Analogies in Word Embeddings
 
 ## Contribution
 
@@ -209,7 +212,7 @@ of Cagnetta et al., which the authors name as future work.
 
 ## Bearing on the record
 
-- **It produces [THEORY-tmp5ocix](../theory.d/THEORY-tmp5ocix.md)**: under independent multiplicative
+- **It produces [THEORY-185](../theory.d/THEORY-185.md)**: under independent multiplicative
   binary attributes, a spectral PMI embedding is an affine image of the
   attribute hypercube, so linear analogies hold exactly, while the raw
   ratio keeps them only for weak, alike signals. The record held this for

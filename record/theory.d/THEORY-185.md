@@ -1,5 +1,8 @@
 ---
+number: 185
 status: Proposed
+formerly:
+- THEORY-tmp5ocix
 promote_when: >-
   A measurement of the premise on real text, not of its consequences:
   for the word quadruples of analogy families, how far the PMI departs
@@ -20,10 +23,10 @@ tags:
 - compositionality
 date: '2026-10-09'
 source:
-- LIT-tmpuvppr
+- LIT-863
 - LIT-860
 summary: >-
-  Korchinski, Karkada, Bahri and Wyart (2025), [LIT-tmpuvppr](../literature.d/LIT-tmpuvppr.md): proved for a
+  Korchinski, Karkada, Bahri and Wyart (2025), [LIT-863](../literature.d/LIT-863.md): proved for a
   generative model of co-occurrence in which words are bundles of
   independent binary attributes, with robustness to noise, pruning and
   deleted pairs argued from eigenvalue bounds and simulated. The embeddings
@@ -35,13 +38,13 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
-# THEORY-tmp5ocix: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
+# THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
 
 ## Source
 
-- Korchinski, Karkada, Bahri and Wyart (2025), [LIT-tmpuvppr](../literature.d/LIT-tmpuvppr.md), the Theorem
+- Korchinski, Karkada, Bahri and Wyart (2025), [LIT-863](../literature.d/LIT-863.md), the Theorem
   of §5 with Appendix A1, Eq. 12 and Results 1–4 of §6, §§7–9, Appendices
-  A4–A5 and Figures 1–3, 6–10, as read in [NOTE-tmp86ssm](../notes.d/NOTE-tmp86ssm.md).
+  A4–A5 and Figures 1–3, 6–10, as read in [NOTE-665](../notes.d/NOTE-665.md).
 - The combination with continuous attributes: Karkada, Korchinski, Nava,
   Wyart and Bahri (2026), [LIT-860](../literature.d/LIT-860.md), Appendix D (Theorem 5), as read in
   [NOTE-664](../notes.d/NOTE-664.md).

@@ -2,7 +2,7 @@
 
 # Lines of work
 
-54 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+55 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -139,6 +139,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-798](../record/literature.d/LIT-798.md) — T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation *(Active)*
 - alongside: [LIT-770](../record/literature.d/LIT-770.md) — Compositional Visual Generation with Composable Diffusion Models *(Active)*
 - alongside: [LIT-806](../record/literature.d/LIT-806.md) — Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models *(Active)*
+
+### From A mathematical theory of semantic development in deep neural networks
+
+- [LIT-862](../record/literature.d/LIT-862.md) — A mathematical theory of semantic development in deep neural networks *(Active)*
+  - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
+- [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
 
 ## behavioral-integration
 
@@ -817,6 +823,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
   - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
+
+### From A mathematical theory of semantic development in deep neural networks
+
+- [LIT-862](../record/literature.d/LIT-862.md) — A mathematical theory of semantic development in deep neural networks *(Active)*
+  - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
+- [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
 
 ## self
 

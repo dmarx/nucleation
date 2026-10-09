@@ -1,5 +1,8 @@
 ---
+number: 186
 status: Proposed
+formerly:
+- THEORY-tmpuusea
 promote_when: >-
   A proof that from small random, unbalanced initial weights the
   trajectory of a two-layer linear network converges to the decoupled
@@ -15,9 +18,9 @@ tags:
 - learning-theory
 date: '2026-10-09'
 source:
-- LIT-tmp8yycb
+- LIT-862
 summary: >-
-  Saxe, McClelland and Ganguli (2019), [LIT-tmp8yycb](../literature.d/LIT-tmp8yycb.md), restating their 2014
+  Saxe, McClelland and Ganguli (2019), [LIT-862](../literature.d/LIT-862.md), restating their 2014
   solution (not held): exact for decoupled, balanced initial weights and
   white inputs, simulated for random small weights. With hierarchically
   generated data the spectrum falls with depth in the tree, so the schedule
@@ -26,12 +29,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
 
-# THEORY-tmpuusea: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
+# THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
 
 ## Source
 
-Saxe, McClelland and Ganguli (2019), [LIT-tmp8yycb](../literature.d/LIT-tmp8yycb.md), Eqs. 2–11 and the
-Supplementary Material's derivations, as read in [NOTE-tmpfkzni](../notes.d/NOTE-tmpfkzni.md). The solution
+Saxe, McClelland and Ganguli (2019), [LIT-862](../literature.d/LIT-862.md), Eqs. 2–11 and the
+Supplementary Material's derivations, as read in [NOTE-666](../notes.d/NOTE-666.md). The solution
 first appeared in the same authors' 2014 ICLR paper, *Exact solutions to the
 nonlinear dynamics of learning in deep linear neural networks* (arXiv
 1312.6120). Neither record holds that paper, and the 2019 paper does not

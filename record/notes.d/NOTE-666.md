@@ -1,6 +1,9 @@
 ---
+number: 666
 status: Read
-paper: 'LIT-tmp8yycb'
+formerly:
+- NOTE-tmpfkzni
+paper: 'LIT-862'
 title: 'A mathematical theory of semantic development in deep neural networks'
 version: 1
 history:
@@ -36,10 +39,10 @@ summary: >-
   representational similarity. Exact only from decoupled, balanced
   initial weights with white inputs; random initialisation is simulated.
 ---
-<!-- inactive-ok-file: THEORY-tmpuusea — Proposed; the account this reading produced -->
+<!-- inactive-ok-file: THEORY-186 — Proposed; the account this reading produced -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-004 THEORY-002 THEORY-019 — Proposed; accounts this reading bears on -->
 
-# NOTE-tmpfkzni: A mathematical theory of semantic development in deep neural networks
+# NOTE-666: A mathematical theory of semantic development in deep neural networks
 
 ## Contribution
 
@@ -239,7 +242,7 @@ to word embeddings of translation-symmetric co-occurrence.
 
 ## Bearing on the record
 
-- **It produces [THEORY-tmpuusea](../theory.d/THEORY-tmpuusea.md).** That is the deep linear result: stage-like,
+- **It produces [THEORY-186](../theory.d/THEORY-186.md).** That is the deep linear result: stage-like,
   strength-ordered mode learning comes from the multiplicative
   parametrisation plus the data's singular spectrum, and a shallow network
   lacks it. [NOTE-658](NOTE-658.md) recorded that the record held this pattern as no one's

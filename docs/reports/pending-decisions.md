@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**504 document(s) awaiting a decision.**
+**506 document(s) awaiting a decision.**
 
 ## LITs
 
-271 of the 504.
+271 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -287,14 +287,14 @@
 
 ## THEORYs
 
-159 of the 504.
+161 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-26 | Proposed | [THEORY-004](../../record/theory.d/THEORY-004.md) | 42 | 26 | A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels |
+| 2026-09-26 | Proposed | [THEORY-004](../../record/theory.d/THEORY-004.md) | 43 | 26 | A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels |
 | 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 26 | 13 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
-| 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 16 | 10 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation |
-| 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 5 | 0 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
+| 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 19 | 10 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation |
+| 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 6 | 0 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 4 | 1 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-003](../../record/theory.d/THEORY-003.md) | 1 | 1 | Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-006](../../record/theory.d/THEORY-006.md) | 1 | 1 | InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size |
@@ -310,11 +310,11 @@
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 97 | 0 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
 | 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 56 | 0 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 37 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
+| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 24 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 23 | 9 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
-| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 20 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
-| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 14 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
+| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 16 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
+| 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 13 | 2 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
 | 2026-09-30 | Proposed | [THEORY-037](../../record/theory.d/THEORY-037.md) | 13 | 13 | In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail |
-| 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 12 | 2 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 2 | 1 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 2 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
 | 2026-09-30 | Proposed | [THEORY-034](../../record/theory.d/THEORY-034.md) | 1 | 1 | Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind |
@@ -422,16 +422,17 @@
 | 2026-10-05 | Proposed | [THEORY-137](../../record/theory.d/THEORY-137.md) | 2 | 0 | Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds |
 | 2026-10-09 | Proposed | [THEORY-155](../../record/theory.d/THEORY-155.md) | 21 | 1 | Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior |
 | 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 19 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
+| 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 19 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
 | 2026-10-09 | Proposed | [THEORY-171](../../record/theory.d/THEORY-171.md) | 13 | 2 | When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 13 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 12 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
+| 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 12 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
 | 2026-10-09 | Proposed | [THEORY-169](../../record/theory.d/THEORY-169.md) | 10 | 0 | In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind |
-| 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 10 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
+| 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 9 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 8 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
 | 2026-10-09 | Proposed | [THEORY-162](../../record/theory.d/THEORY-162.md) | 8 | 2 | What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about |
 | 2026-10-09 | Proposed | [THEORY-168](../../record/theory.d/THEORY-168.md) | 8 | 0 | In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included |
 | 2026-10-09 | Proposed | [THEORY-158](../../record/theory.d/THEORY-158.md) | 7 | 0 | In a Markov process, an observable commutes with the generator exactly when its mean and variance are both conserved in every state; on a finite state space this means it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry |
-| 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 7 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-165](../../record/theory.d/THEORY-165.md) | 7 | 0 | Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model's probability table |
 | 2026-10-09 | Proposed | [THEORY-166](../../record/theory.d/THEORY-166.md) | 7 | 0 | Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability |
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 6 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
@@ -446,14 +447,15 @@
 | 2026-10-09 | Proposed | [THEORY-178](../../record/theory.d/THEORY-178.md) | 3 | 0 | Transcriptional regulation alone can make a bacterium's gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit |
 | 2026-10-09 | Proposed | [THEORY-180](../../record/theory.d/THEORY-180.md) | 3 | 0 | In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise |
 | 2026-10-09 | Proposed | [THEORY-181](../../record/theory.d/THEORY-181.md) | 3 | 0 | In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely |
-| 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 3 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
+| 2026-10-09 | Proposed | [THEORY-185](../../record/theory.d/THEORY-185.md) | 3 | 0 | When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 2 | 0 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 | 2026-10-09 | Proposed | [THEORY-179](../../record/theory.d/THEORY-179.md) | 2 | 0 | In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch |
 | 2026-10-09 | Proposed | [THEORY-184](../../record/theory.d/THEORY-184.md) | 2 | 0 | Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps |
+| 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 2 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 
 ## QUESTIONs
 
-4 of the 504.
+4 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -464,7 +466,7 @@
 
 ## CLAIMs
 
-65 of the 504.
+65 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -527,7 +529,7 @@
 | 2026-10-09 | Proposed | [CLAIM-115](../../record/claims.d/CLAIM-115.md) | 13 | 1 | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition |
 | 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 10 | 0 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 8 | 0 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
-| 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 6 | 1 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
+| 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 7 | 1 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
 | 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 6 | 0 | In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state |
 | 2026-10-09 | Proposed | [CLAIM-107](../../record/claims.d/CLAIM-107.md) | 5 | 0 | A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 3 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
@@ -536,7 +538,7 @@
 
 ## CASEs
 
-1 of the 504.
+1 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -544,7 +546,7 @@
 
 ## TERMs
 
-2 of the 504.
+2 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -553,7 +555,7 @@
 
 ## ARGs
 
-2 of the 504.
+2 of the 506.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
