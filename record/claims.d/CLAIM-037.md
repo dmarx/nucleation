@@ -22,7 +22,7 @@ grounds:
 - LIT-016
 - LIT-777
 - LIT-842
-- LIT-tmp2g08h
+- LIT-844
 summary: >-
   The manuscript's §3 and §9. It separates three things: context
   dependence, stochastic noncommutativity, and contextuality as an
@@ -70,7 +70,7 @@ classical model.
 
 ## The BERT study, again
 
-In Lo et al. ([LIT-tmp2g08h](../literature.d/LIT-tmp2g08h.md)) every instance signals unless all its probabilities are
+In Lo et al. ([LIT-844](../literature.d/LIT-844.md)) every instance signals unless all its probabilities are
 ½. The two criteria that allow for signalling then diverge widely: 71.1%
 of instances are contextual by Contextuality-by-Default, 0.148% by the
 sheaf criterion. That supports this claim.

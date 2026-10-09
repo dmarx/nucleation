@@ -291,9 +291,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
   - [LIT-842](../record/literature.d/LIT-842.md) — On the Quantum-like Contextuality of Ambiguous Phrases *(Active)* — also extends LIT-777
   - [LIT-843](../record/literature.d/LIT-843.md) — Combining contextuality and causality: a game semantics approach *(Active)* — also extends LIT-813
+  - [LIT-846](../record/literature.d/LIT-846.md) — Categories of Empirical Models *(Active)* — also extends LIT-265
+    - [LIT-847](../record/literature.d/LIT-847.md) — A comonadic view of simulation and quantum resources *(Active)* — also extends LIT-016, LIT-265
+      - [LIT-845](../record/literature.d/LIT-845.md) — Closing Bell: Boxing black box simulations in the resource theory of contextuality *(Active)* — also extends LIT-016, LIT-846
+- [LIT-265](../record/literature.d/LIT-265.md) — The contextual fraction as a measure of contextuality *(Active)*
 - [LIT-777](../record/literature.d/LIT-777.md) — Context–content systems of random variables: The Contextuality-by-Default theory *(Active)*
   - [LIT-831](../record/literature.d/LIT-831.md) — Contextuality-by-Default 2.0: Systems with Binary Random Variables *(Active)*
     - [LIT-790](../record/literature.d/LIT-790.md) — Contextuality in Canonical Systems of Random Variables *(Active)*
+    - [LIT-844](../record/literature.d/LIT-844.md) — Quantum-Like Contextuality in Large Language Models *(Active)* — also extends LIT-016, LIT-265, LIT-842
   - [LIT-836](../record/literature.d/LIT-836.md) — Probabilistic Foundations of Contextuality *(Active)*
 - [LIT-813](../record/literature.d/LIT-813.md) — The Sheaf-Theoretic Structure of Definite Causality *(Superseded)*
 

@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-10 of 646 NOTE documents. Back to the [full index](../README.md).
+11 of 651 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | [NOTE-627](../../../record/notes.d/NOTE-627.md) | Informative communication in word production and word learning | Writes the informative speaker down: utility is −D_KL(intended meaning ‖ literal word meaning), so a speaker referring to one object picks a true word with probability ∝ \|extension\|^(−α), the size principle from communicative premises. Learners who know the referent and invert this speaker bet on novel-word meanings as predicted (r = .93); speakers' free descriptions follow informativeness only weakly (r = .19), and colour terms not at all. | Read |
 | [NOTE-634](../../../record/notes.d/NOTE-634.md) | Predicting pragmatic reasoning in language games | A listener who inverts, by Bayes' rule, a speaker choosing words by informativeness to a literal listener, combined with an empirically measured salience prior, predicts mean listener bets in simple three-object reference games at r = .99 with no fitted parameters, and the speaker model predicts speaker bets at r = .98. | Read |
 | [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
+| [NOTE-648](../../../record/notes.d/NOTE-648.md) | Quantum-Like Contextuality in Large Language Models | Builds a three-sentence anaphora schema with the support of the PR prism, instantiates it 51,966,480 times from Simple English Wikipedia, and takes one referent probability per sentence from BERT: 0.148% of the models pass a signalling-corrected sheaf test and 71.1% the CbD test. Because the schema fixes the support, both verdicts depend only on how uncertain BERT is in the three sentences; the tie to embedding distance is a softmax identity with weak correlations. | Read |

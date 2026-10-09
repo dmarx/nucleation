@@ -64,7 +64,7 @@ run on language data. It is not evidence for this claim.
 
 ## The BERT study
 
-Lo, Sadrzadeh and Mansfield ([LIT-tmp2g08h](../literature.d/LIT-tmp2g08h.md)) test anaphora resolution, which is
+Lo, Sadrzadeh and Mansfield ([LIT-844](../literature.d/LIT-844.md)) test anaphora resolution, which is
 pragmatic, so they come nearer this claim than Wang et al. But the
 probabilities are BERT's, not human judgements. And the contextuality is
 built into the schema: "the same one" and "the other one" make every

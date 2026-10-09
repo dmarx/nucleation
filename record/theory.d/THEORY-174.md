@@ -1,8 +1,11 @@
 ---
+number: 174
 status: Proposed
+formerly:
+- THEORY-tmprxblg
 promote_when: >-
   An independent proof, read and checked, of the corrected Theorem 44 of
-  LIT-tmp5at9s (a convex map between the model sets of two scenarios is
+  LIT-845 (a convex map between the model sets of two scenarios is
   induced by a classical non-adaptive procedure iff some non-contextual
   model of the hom scenario induces it), or a refereed publication of the
   corrected statement; the published chapter carries the uncorrected one.
@@ -16,13 +19,13 @@ tags:
 - quantum-foundations
 date: '2026-10-09'
 source:
-- LIT-tmpes6yu
-- LIT-tmpjk0t0
-- LIT-tmp5at9s
+- LIT-846
+- LIT-847
+- LIT-845
 summary: >-
-  Karvonen (2018), [LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md); Abramsky, Barbosa, Karvonen & Mansfield
-  (2019), [LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md); Barbosa, Karvonen & Mansfield (2021, v2 2024),
-  [LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md). A simulation answers each measurement of the target by a
+  Karvonen (2018), [LIT-846](../literature.d/LIT-846.md); Abramsky, Barbosa, Karvonen & Mansfield
+  (2019), [LIT-847](../literature.d/LIT-847.md); Barbosa, Karvonen & Mansfield (2021, v2 2024),
+  [LIT-845](../literature.d/LIT-845.md). A simulation answers each measurement of the target by a
   jointly measurable set of the source's, with shared classical
   randomness, so the cover may change. Along any simulation the
   non-contextual fraction cannot fall; contextual models cannot be
@@ -36,17 +39,17 @@ supports:
 <!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim this theory bears on -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for what this theory does not say, not as settled -->
 
-# THEORY-tmprxblg: Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it
+# THEORY-174: Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it
 
 ## Source
 
-Karvonen, *Categories of Empirical Models* ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)), Definition
-3.9 and Theorems 4.1, 4.3, 4.5 and 4.8, as read in [NOTE-tmpvuygo](../notes.d/NOTE-tmpvuygo.md).
+Karvonen, *Categories of Empirical Models* ([LIT-846](../literature.d/LIT-846.md)), Definition
+3.9 and Theorems 4.1, 4.3, 4.5 and 4.8, as read in [NOTE-651](../notes.d/NOTE-651.md).
 Abramsky, Barbosa, Karvonen and Mansfield, *A comonadic view of
-simulation and quantum resources* ([LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md)), Proposition 7 and
-Theorems 17, 20–22, as read in [NOTE-tmp6dxz0](../notes.d/NOTE-tmp6dxz0.md). Barbosa, Karvonen and
-Mansfield, *Closing Bell* ([LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md), arXiv v2), Theorems 29, 37, 40
-and 44 and §4.5, as read in [NOTE-tmpvhpr1](../notes.d/NOTE-tmpvhpr1.md).
+simulation and quantum resources* ([LIT-847](../literature.d/LIT-847.md)), Proposition 7 and
+Theorems 17, 20–22, as read in [NOTE-647](../notes.d/NOTE-647.md). Barbosa, Karvonen and
+Mansfield, *Closing Bell* ([LIT-845](../literature.d/LIT-845.md), arXiv v2), Theorems 29, 37, 40
+and 44 and §4.5, as read in [NOTE-650](../notes.d/NOTE-650.md).
 
 ## What was actually shown
 
@@ -63,7 +66,7 @@ T.
 
 Three results hold across all three formulations. First, a model is
 non-contextual exactly when it can be simulated from the model on the
-empty scenario ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md) Theorem 4.1; [LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md) Theorem 29, which
+empty scenario ([LIT-846](../literature.d/LIT-846.md) Theorem 4.1; [LIT-845](../literature.d/LIT-845.md) Theorem 29, which
 extends this to logical and strong contextuality). Second, if d simulates
 e then NCF(d) ≤ NCF(e): the contextual fraction cannot increase (Theorem
 4.5; Theorem 21), and strong contextuality is reflected backwards (Theorem
@@ -95,7 +98,7 @@ Bell shows that whether they do is itself a contextuality question.
 - **Nothing about signalling data.** Every result assumes
   no-signalling; Karvonen's pushforward is undefined without it (Remark
   3.2). Contextuality-by-Default systems and corpus or language-model
-  data ([LIT-842](../literature.d/LIT-842.md), [LIT-tmp2g08h](../literature.d/LIT-tmp2g08h.md)) are outside its reach.
+  data ([LIT-842](../literature.d/LIT-842.md), [LIT-844](../literature.d/LIT-844.md)) are outside its reach.
 - **Nothing about information preserved.** The simulation preorder
   orders resources by contextuality. It is not shown to relate to
   Blackwell's informativeness order ([THEORY-156](THEORY-156.md)), and no result says when
@@ -103,7 +106,7 @@ Bell shows that whether they do is itself a contextuality question.
   source.
 - **Not that contextual transports are understood.** "Contextual
   simulations", models of [S, T] that do not glue, are named in
-  [LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md) (§6.7) and not studied; this theory says only that they
+  [LIT-845](../literature.d/LIT-845.md) (§6.7) and not studied; this theory says only that they
   are not classical procedures.
 - **Not the adaptive characterisation.** Theorem 40 fails to transfer to
   adaptive procedures because its key lemma fails (§6.2); the adaptive

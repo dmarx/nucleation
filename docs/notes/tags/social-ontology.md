@@ -4,7 +4,7 @@
 
 **social-ontology**.
 
-25 of 646 NOTE documents. Back to the [full index](../README.md).
+26 of 651 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -33,3 +33,4 @@
 | [NOTE-569](../../../record/notes.d/NOTE-569.md) | The Conversable, Responsible Corporation | A syllogism. Corporations are conversable agents: through authorised spokespersons they avow attitudes and make commitments, and because mechanical aggregation can be inconsistent they must form minds of their own. Conversable agents are fit to be held responsible, having a significant choice, the capacity for normative judgment, and control over acting on it. So corporations are fit to be held responsible. | Read |
 | [NOTE-570](../../../record/notes.d/NOTE-570.md) | Shaping the Institutional Mind | Asks why ascribing mental states to institutions is useful. Both defenders and critics of group minds assume ascription tracks pre-existing causes. On the regulative view of folk psychology, ascription shapes its target. Two cases: the collective knowledge doctrine, after which banks built systems to detect reportable deposits, and corporate narratives and counter-narratives. The paper is agnostic about whether institutions have minds. | Read |
 | [NOTE-582](../../../record/notes.d/NOTE-582.md) | Episteme Symposium on Group Agency: Replies to Gaus, Cariani, Sylvan, and Briggs | The authors answer four commentators on Group Agency. To Gaus: rationality is classical, ecological rationality is its relativisation to an environment, and robust group rationality may be relaxed without rescuing proposition-wise aggregation. To Cariani: chapter 4 offers possibility results. To Sylvan: group attitudes are not reducible to role-based member acceptance. To Briggs: group agents are fit to be held responsible in their own right, with rights restricted by normative individualism. | Read |
+| [NOTE-649](../../../record/notes.d/NOTE-649.md) | Large AI models are cultural and social technologies | Argues that large models are a cultural and social technology, not intelligent agents: lossy, uninvertible summaries of human-produced corpora that, like prices and bureaucratic categories, allow the information to be reorganized at scale. The argument is by analogy and classification; no evidence is offered that could have come out otherwise. It names one mechanism (fitting the training distribution on average makes models worst where data are rare, which may homogenize culture) and leaves both it and its remedy untested. | Read |

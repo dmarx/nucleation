@@ -4,7 +4,7 @@
 
 **society-and-governance**.
 
-51 of 646 NOTE documents. Back to the [full index](../README.md).
+52 of 651 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -59,3 +59,4 @@
 | [NOTE-577](../../../record/notes.d/NOTE-577.md) | The Viable System Model: Its Provenance, Development, Methodology and Pathology | Beer's retrospective on the Viable System Model. Five subsystems are necessary and sufficient for any organism or organization to keep its identity independently, and the structure recurs at every level. The model is defended as a scientific model built by homomorphic mapping, testable but never proved. Pathologies are traced to failing subsystems, chiefly the collapse of Three and Five when Four is missing. Evidence is the author's recollected consultancy. | Read |
 | [NOTE-578](../../../record/notes.d/NOTE-578.md) | History As Cause: Columbia and Challenger | The Board finds that Columbia and Challenger had the same organizational cause. Evidence that foam shedding and O-ring erosion departed from the design was repeatedly reinterpreted as acceptable, each decision seeming correct in itself. Political and budget constraints, schedule pressure, consensus sign-off, a hierarchy that silenced dissent, and a safety organization dependent on the program sustained the pattern for twenty years and undid post-Challenger reforms. | Read |
 | [NOTE-584](../../../record/notes.d/NOTE-584.md) | Risk management in a dynamic society: a modelling problem | Risk management is a control problem across a sociotechnical hierarchy. Under cost and effort gradients, activity migrates toward the boundary of acceptable performance, and redundant defences erode unobserved because breaching one shows no effect. Accidents come from the interaction of many locally reasonable decisions. The remedy is making boundaries visible, not suppressing errors. | Read |
+| [NOTE-649](../../../record/notes.d/NOTE-649.md) | Large AI models are cultural and social technologies | Argues that large models are a cultural and social technology, not intelligent agents: lossy, uninvertible summaries of human-produced corpora that, like prices and bureaucratic categories, allow the information to be reorganized at scale. The argument is by analogy and classification; no evidence is offered that could have come out otherwise. It names one mechanism (fitting the training distribution on average makes models worst where data are rare, which may homogenize culture) and leaves both it and its remedy untested. | Read |

@@ -1,6 +1,9 @@
 ---
+number: 649
 status: Read
-paper: 'LIT-tmpofhpt'
+formerly:
+- NOTE-tmpusmlj
+paper: 'LIT-848'
 title: 'Large AI models are cultural and social technologies'
 version: 1
 history:
@@ -29,9 +32,9 @@ summary: >-
   culture) and leaves both it and its remedy untested.
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmphj5z7 — Proposed; the account this reading files, not settled -->
+<!-- inactive-ok-file: THEORY-173 — Proposed; the account this reading files, not settled -->
 
-# NOTE-tmpusmlj: Large AI models are cultural and social technologies
+# NOTE-649: Large AI models are cultural and social technologies
 
 ## Contribution
 
@@ -147,7 +150,7 @@ No theorems or experiments. The paper's propositions, as stated:
 
 ## Bearing on the record
 
-- Files [THEORY-tmphj5z7](../theory.d/THEORY-tmphj5z7.md), Proposed: large models are cultural and social
+- Files [THEORY-173](../theory.d/THEORY-173.md), Proposed: large models are cultural and social
   technologies, lossy summaries of human-produced corpora, rather than
   agents. The record held no statement of this view; the selfhood cluster
   ([LIT-460](../literature.d/LIT-460.md), [LIT-465](../literature.d/LIT-465.md), [LIT-466](../literature.d/LIT-466.md)) argues about what, if anything, is a self in

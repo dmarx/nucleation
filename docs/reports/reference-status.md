@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**166 documents cited without acknowledgement.** Not listed: 3294 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**168 documents cited without acknowledgement.** Not listed: 3328 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -236,7 +236,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
-17 citations in 12 files await a look; 33 other citations of it are acknowledged.
+17 citations in 12 files await a look; 37 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
@@ -1175,7 +1175,7 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 
 Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
 
-2 citations in 1 file await a look; 5 other citations of it are acknowledged.
+2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-236.md:172`](../../record/notes.d/NOTE-236.md)
 - [`record/notes.d/NOTE-236.md:186`](../../record/notes.d/NOTE-236.md)
@@ -1436,7 +1436,7 @@ A higher-level property is a cause in its own right, and its realizer is not, ex
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
@@ -1458,6 +1458,14 @@ When the causal constraints on events depend on context, deterministic assignmen
 
 - [`record/decisions.d/ADR-035.md:34`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:71`](../../record/decisions.d/ADR-035.md)
+
+### [CLAIM-100](../../record/claims.d/CLAIM-100.md) — Proposed
+
+Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
+
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-648.md:187`](../../record/notes.d/NOTE-648.md)
 
 ### [CLAIM-115](../../record/claims.d/CLAIM-115.md) — Proposed
 
@@ -1938,6 +1946,14 @@ Iterated learning by Bayesian agents who sample from the posterior converges to 
 1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-066.md:41`](../../record/claims.d/CLAIM-066.md)
+
+### [THEORY-173](../../record/theory.d/THEORY-173.md) — Proposed
+
+Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-068.md:102`](../../record/claims.d/CLAIM-068.md)
 
 ## Codes that resolve to no document
 

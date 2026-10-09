@@ -4,7 +4,7 @@
 
 **epistemology**.
 
-37 of 646 NOTE documents. Back to the [full index](../README.md).
+38 of 651 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -45,3 +45,4 @@
 | [NOTE-582](../../../record/notes.d/NOTE-582.md) | Episteme Symposium on Group Agency: Replies to Gaus, Cariani, Sylvan, and Briggs | The authors answer four commentators on Group Agency. To Gaus: rationality is classical, ecological rationality is its relativisation to an environment, and robust group rationality may be relaxed without rescuing proposition-wise aggregation. To Cariani: chapter 4 offers possibility results. To Sylvan: group attitudes are not reducible to role-based member acceptance. To Briggs: group agents are fit to be held responsible in their own right, with rights restricted by normative individualism. | Read |
 | [NOTE-583](../../../record/notes.d/NOTE-583.md) | The Communication Structure of Epistemic Communities | Simulations of Bala and Goyal's bandit model on small networks. Cycles learn the better action more reliably than wheels or complete graphs, and more slowly. Over every network of up to six agents, density and clustering predict failure, and centrality does not. The cause is that dense networks spread an early unlucky run to everyone before diversity can correct it. | Read |
 | [NOTE-622](../../../record/notes.d/NOTE-622.md) | Making It Explicit | In the core of chapter 3, asserting undertakes a commitment, licenses others to reassert it and takes on a responsibility to show entitlement if challenged. Entitlement passes by justification (across contents) and by deferral (between people), and holds by default until challenged. Each interlocutor keeps score of everyone's commitments and entitlements, so scorekeeping is doubly perspectival. A speech act's significance is the change it makes to the scores, determined by its content's inferential role. | Skimmed |
+| [NOTE-649](../../../record/notes.d/NOTE-649.md) | Large AI models are cultural and social technologies | Argues that large models are a cultural and social technology, not intelligent agents: lossy, uninvertible summaries of human-produced corpora that, like prices and bureaucratic categories, allow the information to be reorganized at scale. The argument is by analogy and classification; no evidence is offered that could have come out otherwise. It names one mechanism (fitting the training distribution on average makes models worst where data are rare, which may homogenize culture) and leaves both it and its remedy untested. | Read |

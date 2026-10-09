@@ -1,5 +1,8 @@
 ---
+number: 173
 status: Proposed
+formerly:
+- THEORY-tmphj5z7
 promote_when: >-
   A criterion that could separate the two descriptions, applied and
   passed. The account needs a stated capacity whose presence would make a
@@ -19,10 +22,10 @@ tags:
 - society-and-governance
 date: '2026-10-09'
 source:
-- LIT-tmpofhpt
+- LIT-848
 summary: >-
-  Farrell, Gopnik, Shalizi & Evans (2025), [LIT-tmpofhpt](../literature.d/LIT-tmpofhpt.md), read in
-  [NOTE-tmpusmlj](../notes.d/NOTE-tmpusmlj.md). A classification argued by analogy with print, markets,
+  Farrell, Gopnik, Shalizi & Evans (2025), [LIT-848](../literature.d/LIT-848.md), read in
+  [NOTE-649](../notes.d/NOTE-649.md). A classification argued by analogy with print, markets,
   bureaucracies and elections, with one mechanism (fit to the average makes
   models worst on rare cases, which may homogenize culture). Proposed: no
   evidence is offered, and the paper gives no criterion by which the
@@ -30,12 +33,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 
-# THEORY-tmphj5z7: Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
+# THEORY-173: Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
 
 ## Source
 
-Farrell, Gopnik, Shalizi and Evans (2025), [LIT-tmpofhpt](../literature.d/LIT-tmpofhpt.md), read in
-[NOTE-tmpusmlj](../notes.d/NOTE-tmpusmlj.md) from the authors' accepted version.
+Farrell, Gopnik, Shalizi and Evans (2025), [LIT-848](../literature.d/LIT-848.md), read in
+[NOTE-649](../notes.d/NOTE-649.md) from the authors' accepted version.
 
 ## What was actually shown
 

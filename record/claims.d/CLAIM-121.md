@@ -68,7 +68,7 @@ Active.
 ## Prior art
 
 This proposition is a special case of Karvonen's "Categories of Empirical
-Models" ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)). His natural transformation σ is exactly the family of local kernels commuting with restriction, and his
+Models" ([LIT-846](../literature.d/LIT-846.md)). His natural transformation σ is exactly the family of local kernels commuting with restriction, and his
 Lemma 3.12 states the limit that local kernels need not glue. The record's
 reader drew this mapping; Karvonen does not mention translation. The
 manuscript should cite it.

@@ -4,7 +4,7 @@
 
 **representation-learning**.
 
-59 of 646 NOTE documents. Back to the [full index](../README.md).
+60 of 651 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -67,3 +67,4 @@
 | [NOTE-621](../../../record/notes.d/NOTE-621.md) | Transformers learn in-context by gradient descent | Constructs weights for which one linear self-attention layer reproduces, on every token, the data change induced by one gradient step of a linear model on the in-context regression loss, so the query's output equals the post-update prediction; shows a trained single layer finds these weights up to scale, and that deeper trained models implement a curvature-corrected variant (GD++) rather than gradient descent. | Read |
 | [NOTE-626](../../../record/notes.d/NOTE-626.md) | Fantastically Ordered Prompts | Shows that permuting a fixed set of few-shot examples swings GPT-family accuracy from near chance to near state of the art, at every model size tested, with good orders uncorrelated across sizes and the variance surviving more examples and calibration; proposes ranking orders by the label entropy they induce on a probing set the model generates itself. | Read |
 | [NOTE-637](../../../record/notes.d/NOTE-637.md) | Test-Time Training for Few-Shot Learning | Shows that turning a task's few-shot demonstrations into a temporary weight update (per-task LoRA on leave-one-out in-context tasks) improves an 8B model over conditioning on the same demonstrations: 50.5% → 57.8% on BIG-Bench Hard, and large gains on ARC. The update works best when it is trained in the in-context format, and gains concentrate on tasks with structural rules or distribution shift. | Read |
+| [NOTE-648](../../../record/notes.d/NOTE-648.md) | Quantum-Like Contextuality in Large Language Models | Builds a three-sentence anaphora schema with the support of the PR prism, instantiates it 51,966,480 times from Simple English Wikipedia, and takes one referent probability per sentence from BERT: 0.148% of the models pass a signalling-corrected sheaf test and 71.1% the CbD test. Because the schema fixes the support, both verdicts depend only on how uncertain BERT is in the three sentences; the tie to embedding distance is a softmax identity with weak correlations. | Read |

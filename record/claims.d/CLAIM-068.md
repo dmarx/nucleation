@@ -99,7 +99,7 @@ decoding convention rather than a preserved historical object"
 
 ## A mechanism when a model is in the loop
 
-Farrell, Gopnik, Shalizi and Evans ([LIT-tmpofhpt](../literature.d/LIT-tmpofhpt.md), [THEORY-tmphj5z7](../theory.d/THEORY-tmphj5z7.md)) give a
+Farrell, Gopnik, Shalizi and Evans ([LIT-848](../literature.d/LIT-848.md), [THEORY-173](../theory.d/THEORY-173.md)) give a
 mechanism for contraction when a large model takes part in transmission. A
 model fitted to reproduce text well on average is least accurate on rare
 material, so it "might" homogenize culture. The paper states this but does

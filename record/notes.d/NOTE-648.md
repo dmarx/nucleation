@@ -1,6 +1,9 @@
 ---
+number: 648
 status: Read
-paper: 'LIT-tmp2g08h'
+formerly:
+- NOTE-tmphi66p
+paper: 'LIT-844'
 title: 'Quantum-Like Contextuality in Large Language Models'
 version: 1
 history:
@@ -33,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading bears on, not as settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; open, and cited as open: the claims this reading bears on -->
 
-# NOTE-tmphi66p: Quantum-Like Contextuality in Large Language Models
+# NOTE-648: Quantum-Like Contextuality in Large Language Models
 
 ## Contribution
 
@@ -139,7 +142,7 @@ language for contextuality, and moves from lexical ambiguity to anaphora.
 It uses Abramsky and Brandenburger ([LIT-016](../literature.d/LIT-016.md)), the contextual fraction
 ([LIT-265](../literature.d/LIT-265.md)) and the signalling-corrected inequality of Vallée et al., and
 the CbD cyclic criterion ([LIT-831](../literature.d/LIT-831.md), [LIT-777](../literature.d/LIT-777.md)). Its schema is Specker's
-triangle (the "pint/wine/grub" model of [LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md), Example 8) with
+triangle (the "pint/wine/grub" model of [LIT-845](../literature.d/LIT-845.md), Example 8) with
 pronouns in place of questions. It treats the Winograd schema as the
 nearest benchmark and BERT as the measuring instrument.
 

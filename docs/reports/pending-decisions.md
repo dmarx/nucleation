@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**491 document(s) awaiting a decision.**
+**493 document(s) awaiting a decision.**
 
 ## LITs
 
-271 of the 491.
+271 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -287,7 +287,7 @@
 
 ## THEORYs
 
-147 of the 491.
+149 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -300,13 +300,13 @@
 | 2026-09-26 | Proposed | [THEORY-007](../../record/theory.d/THEORY-007.md) | 1 | 0 | Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets |
 | 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 1 | 1 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 0 | 0 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
+| 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 54 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 53 | 28 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
-| 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 50 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 16 | 9 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
 | 2026-09-27 | Proposed | [THEORY-015](../../record/theory.d/THEORY-015.md) | 7 | 7 | Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 3 | 3 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-27 | Proposed | [THEORY-011](../../record/theory.d/THEORY-011.md) | 2 | 2 | Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two |
-| 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 106 | 0 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
+| 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 108 | 0 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 97 | 0 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
 | 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 56 | 0 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 37 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
@@ -423,13 +423,14 @@
 | 2026-10-09 | Proposed | [THEORY-155](../../record/theory.d/THEORY-155.md) | 21 | 1 | Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior |
 | 2026-10-09 | Proposed | [THEORY-171](../../record/theory.d/THEORY-171.md) | 13 | 2 | When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 13 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
+| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 9 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 8 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
 | 2026-10-09 | Proposed | [THEORY-162](../../record/theory.d/THEORY-162.md) | 8 | 2 | What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about |
-| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 7 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-158](../../record/theory.d/THEORY-158.md) | 7 | 0 | In a Markov process, an observable commutes with the generator exactly when its mean and variance are both conserved in every state; on a finite state space this means it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry |
 | 2026-10-09 | Proposed | [THEORY-165](../../record/theory.d/THEORY-165.md) | 7 | 0 | Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model's probability table |
 | 2026-10-09 | Proposed | [THEORY-166](../../record/theory.d/THEORY-166.md) | 7 | 0 | Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability |
 | 2026-10-09 | Proposed | [THEORY-168](../../record/theory.d/THEORY-168.md) | 7 | 0 | In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included |
+| 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 7 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 6 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
 | 2026-10-09 | Proposed | [THEORY-169](../../record/theory.d/THEORY-169.md) | 6 | 0 | In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 4 | 3 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
@@ -437,11 +438,12 @@
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 4 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
 | 2026-10-09 | Proposed | [THEORY-160](../../record/theory.d/THEORY-160.md) | 3 | 0 | In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem's content lies in identifying observables with generators |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 3 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
+| 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 3 | 1 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 2 | 0 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 
 ## QUESTIONs
 
-4 of the 491.
+4 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -452,7 +454,7 @@
 
 ## CLAIMs
 
-64 of the 491.
+64 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -467,11 +469,12 @@
 | 2026-10-05 | Deferred | [CLAIM-096](../../record/claims.d/CLAIM-096.md) | 2 | 0 | Where several agents share an environment, the realization of one agent's will changes the conditions under which others can realize theirs, and that interaction is itself a normative object |
 | 2026-10-05 | Deferred | [CLAIM-104](../../record/claims.d/CLAIM-104.md) | 2 | 0 | Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level |
 | 2026-10-05 | Proposed | [CLAIM-122](../../record/claims.d/CLAIM-122.md) | 1 | 0 | Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed |
+| 2026-10-08 | Proposed | [CLAIM-100](../../record/claims.d/CLAIM-100.md) | 15 | 1 | Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem |
 | 2026-10-08 | Proposed | [CLAIM-061](../../record/claims.d/CLAIM-061.md) | 12 | 0 | Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event |
+| 2026-10-08 | Proposed | [CLAIM-009](../../record/claims.d/CLAIM-009.md) | 10 | 0 | Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for |
 | 2026-10-08 | Proposed | [CLAIM-117](../../record/claims.d/CLAIM-117.md) | 10 | 0 | Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations |
 | 2026-10-08 | Proposed | [CLAIM-056](../../record/claims.d/CLAIM-056.md) | 9 | 0 | Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift |
-| 2026-10-08 | Proposed | [CLAIM-009](../../record/claims.d/CLAIM-009.md) | 8 | 0 | Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for |
-| 2026-10-08 | Proposed | [CLAIM-105](../../record/claims.d/CLAIM-105.md) | 7 | 2 | Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility |
+| 2026-10-08 | Proposed | [CLAIM-105](../../record/claims.d/CLAIM-105.md) | 9 | 2 | Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility |
 | 2026-10-08 | Proposed | [CLAIM-038](../../record/claims.d/CLAIM-038.md) | 6 | 0 | A communicative object is a compatible family of local observations over a cover of contexts, and local interpretations need not be fragments of one globally realizable interpretation |
 | 2026-10-08 | Proposed | [CLAIM-054](../../record/claims.d/CLAIM-054.md) | 6 | 0 | A translation can preserve interpretive content while failing as a social act: interpretive and performative fidelity come apart |
 | 2026-10-08 | Proposed | [CLAIM-118](../../record/claims.d/CLAIM-118.md) | 6 | 0 | Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter |
@@ -480,10 +483,10 @@
 | 2026-10-08 | Proposed | [CLAIM-068](../../record/claims.d/CLAIM-068.md) | 5 | 0 | Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission |
 | 2026-10-08 | Proposed | [CLAIM-081](../../record/claims.d/CLAIM-081.md) | 5 | 0 | Retaining information about the ancestor and drifting in the population's distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation |
 | 2026-10-08 | Proposed | [CLAIM-098](../../record/claims.d/CLAIM-098.md) | 5 | 0 | Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases |
-| 2026-10-08 | Proposed | [CLAIM-100](../../record/claims.d/CLAIM-100.md) | 5 | 0 | Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem |
 | 2026-10-08 | Proposed | [CLAIM-042](../../record/claims.d/CLAIM-042.md) | 4 | 0 | Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels |
 | 2026-10-08 | Proposed | [CLAIM-046](../../record/claims.d/CLAIM-046.md) | 4 | 0 | Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed |
 | 2026-10-08 | Proposed | [CLAIM-074](../../record/claims.d/CLAIM-074.md) | 4 | 0 | Fidelity is relative to the interpreter's learning history: a frame given in context is transient while an adaptation to it persists, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities |
+| 2026-10-08 | Proposed | [CLAIM-001](../../record/claims.d/CLAIM-001.md) | 3 | 0 | The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers |
 | 2026-10-08 | Proposed | [CLAIM-005](../../record/claims.d/CLAIM-005.md) | 3 | 0 | Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector |
 | 2026-10-08 | Proposed | [CLAIM-077](../../record/claims.d/CLAIM-077.md) | 3 | 0 | A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction |
 | 2026-10-08 | Proposed | [CLAIM-087](../../record/claims.d/CLAIM-087.md) | 3 | 0 | Cross-modal reconstruction can improve access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text's literal content |
@@ -491,16 +494,15 @@
 | 2026-10-08 | Proposed | [CLAIM-095](../../record/claims.d/CLAIM-095.md) | 3 | 0 | Anticipated objections are better met by precise definitions, constructions and results than by hedges |
 | 2026-10-08 | Proposed | [CLAIM-106](../../record/claims.d/CLAIM-106.md) | 3 | 0 | Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit |
 | 2026-10-08 | Proposed | [CLAIM-113](../../record/claims.d/CLAIM-113.md) | 3 | 0 | Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant |
-| 2026-10-08 | Proposed | [CLAIM-001](../../record/claims.d/CLAIM-001.md) | 2 | 0 | The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers |
 | 2026-10-08 | Proposed | [CLAIM-014](../../record/claims.d/CLAIM-014.md) | 2 | 0 | Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them |
 | 2026-10-08 | Proposed | [CLAIM-029](../../record/claims.d/CLAIM-029.md) | 2 | 0 | A language model's response to a context is functionally a parameterized pragmatic frame |
+| 2026-10-08 | Proposed | [CLAIM-044](../../record/claims.d/CLAIM-044.md) | 2 | 0 | Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none |
 | 2026-10-08 | Proposed | [CLAIM-049](../../record/claims.d/CLAIM-049.md) | 2 | 0 | An adaptive interpreter's state includes its message, context knowledge and learned parameters, and learning can make some relational invariants more stable and others less |
 | 2026-10-08 | Proposed | [CLAIM-059](../../record/claims.d/CLAIM-059.md) | 2 | 0 | Repeated reconstruction has three regimes, contracting toward conventions, neutral accumulation and amplification, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics |
 | 2026-10-08 | Proposed | [CLAIM-063](../../record/claims.d/CLAIM-063.md) | 2 | 0 | A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves |
 | 2026-10-08 | Proposed | [CLAIM-084](../../record/claims.d/CLAIM-084.md) | 2 | 0 | Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition |
 | 2026-10-08 | Proposed | [CLAIM-119](../../record/claims.d/CLAIM-119.md) | 2 | 0 | Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints |
 | 2026-10-08 | Proposed | [CLAIM-034](../../record/claims.d/CLAIM-034.md) | 1 | 0 | Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source's relevant possibilities rather than equivalence |
-| 2026-10-08 | Proposed | [CLAIM-044](../../record/claims.d/CLAIM-044.md) | 1 | 0 | Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none |
 | 2026-10-08 | Proposed | [CLAIM-058](../../record/claims.d/CLAIM-058.md) | 1 | 0 | Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies |
 | 2026-10-08 | Proposed | [CLAIM-076](../../record/claims.d/CLAIM-076.md) | 1 | 0 | Cross-modal chains expose reconstruction because media differ in expressive affordances, and each interpreter, such as a captioner, may add motives and relations that were not present |
 | 2026-10-08 | Proposed | [CLAIM-114](../../record/claims.d/CLAIM-114.md) | 1 | 0 | Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error does not show |
@@ -513,9 +515,9 @@
 | 2026-10-08 | Proposed | [CLAIM-103](../../record/claims.d/CLAIM-103.md) | 0 | 0 | Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed |
 | 2026-10-08 | Proposed | [CLAIM-111](../../record/claims.d/CLAIM-111.md) | 0 | 0 | A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence |
 | 2026-10-09 | Proposed | [CLAIM-115](../../record/claims.d/CLAIM-115.md) | 13 | 1 | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition |
+| 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 7 | 0 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
 | 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 7 | 0 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 6 | 0 | In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state |
-| 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 5 | 0 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
 | 2026-10-09 | Proposed | [CLAIM-107](../../record/claims.d/CLAIM-107.md) | 5 | 0 | A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 3 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
 | 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 2 | 0 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
@@ -523,7 +525,7 @@
 
 ## CASEs
 
-1 of the 491.
+1 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -531,7 +533,7 @@
 
 ## TERMs
 
-2 of the 491.
+2 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -540,7 +542,7 @@
 
 ## ARGs
 
-2 of the 491.
+2 of the 493.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

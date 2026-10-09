@@ -1,6 +1,9 @@
 ---
+number: 650
 status: Read
-paper: 'LIT-tmp5at9s'
+formerly:
+- NOTE-tmpvhpr1
+paper: 'LIT-845'
 title: 'Closing Bell'
 version: 1
 history:
@@ -31,14 +34,14 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-100 CLAIM-001 CLAIM-105 — Proposed; open, and cited as open: the claims this reading bears on -->
-<!-- inactive-ok-file: THEORY-tmprxblg — Proposed; cited for what this reading bears on, not as settled -->
+<!-- inactive-ok-file: THEORY-174 — Proposed; cited for what this reading bears on, not as settled -->
 
-# NOTE-tmpvhpr1: Closing Bell
+# NOTE-650: Closing Bell
 
 ## Contribution
 
-Karvonen ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)) and Abramsky, Barbosa, Karvonen and Mansfield
-([LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md)) defined classical simulations between empirical models.
+Karvonen ([LIT-846](../literature.d/LIT-846.md)) and Abramsky, Barbosa, Karvonen and Mansfield
+([LIT-847](../literature.d/LIT-847.md)) defined classical simulations between empirical models.
 This chapter asks the converse question: given an arbitrary map from the
 models of one scenario to the models of another, is it a classical
 simulation? It answers it for non-adaptive procedures, by turning the
@@ -142,8 +145,8 @@ supplies canonical least supports for deterministic experiments.
 
 ## Connections
 
-Revises the morphisms of [LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md) (stochastic outcome maps only)
-and of [LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md) (simplicial maps with adaptive protocols) into
+Revises the morphisms of [LIT-846](../literature.d/LIT-846.md) (stochastic outcome maps only)
+and of [LIT-847](../literature.d/LIT-847.md) (simplicial maps with adaptive protocols) into
 mixtures of deterministic procedures over simplicial relations (Remark
 28). Uses Abramsky and Brandenburger ([LIT-016](../literature.d/LIT-016.md)) for signed global
 sections (Theorem 35). The CHSH game, Specker's triangle, and Boole's
@@ -183,7 +186,7 @@ language among the domains where the same structure occurs.
   covers directed transport). This chapter is prior art from the sheaf
   side, closer to A94's question than the diffusion literature, because
   it decides gluing exactly rather than combining conditional scores.
-- Produces [THEORY-tmprxblg](../theory.d/THEORY-tmprxblg.md), with [LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md) and [LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md).
+- Produces [THEORY-174](../theory.d/THEORY-174.md), with [LIT-846](../literature.d/LIT-846.md) and [LIT-847](../literature.d/LIT-847.md).
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

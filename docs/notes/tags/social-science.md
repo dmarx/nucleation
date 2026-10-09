@@ -4,7 +4,7 @@
 
 **social-science**.
 
-81 of 646 NOTE documents. Back to the [full index](../README.md).
+82 of 651 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -89,3 +89,4 @@
 | [NOTE-636](../../../record/notes.d/NOTE-636.md) | Wang & Busemeyer, the QQ model and QQ equality | Derives the QQ equality from a Lüders-projection model of answering attitude questions: the probability of answering two questions differently is the same in both orders, for any belief state, any projectors and any dimension, provided only the first answer changes the state before the second. It holds in five of six data sets and fails, as the authors predicted, in the sixth, where new information came between the questions. The argument that classical models fail it is informal. | Read |
 | [NOTE-641](../../../record/notes.d/NOTE-641.md) | Transformation transformed | Separates structuralism's method from Lévi-Strauss's doctrine and makes transformation its core: a structure is the set of invariant relations that orders passage between variants. Lévi-Strauss transformed in two regimes, Goethean development of an initial form (kinship) and Thompsonian deformation between given forms (myth, where the analyst cuts the continuum); Descola's four ontologies are a Goethean group, and structural comparison the fairest symmetrization anthropology has. | Read |
 | [NOTE-642](../../../record/notes.d/NOTE-642.md) | Morphology of the Folktale | In chs. II–III of the 1968 English text, Propp's four theses and his 31 functions appear as in the Russian. The functions are named by nouns of action under capitalised headings, with Greek signs for the seven preparatory functions and Latin ones after. "Dramatis personae" and "characters" alternate for the same word, and the class studied is "fairy tales", under a title Dundes calls misleading. The second edition's additions are visible on the page: Wagner's notes correct about forty of Propp's tale references in two chapters and renumber the tales to the later Afanas'ev numbering. | Skimmed |
+| [NOTE-649](../../../record/notes.d/NOTE-649.md) | Large AI models are cultural and social technologies | Argues that large models are a cultural and social technology, not intelligent agents: lossy, uninvertible summaries of human-produced corpora that, like prices and bureaucratic categories, allow the information to be reorganized at scale. The argument is by analogy and classification; no evidence is offered that could have come out otherwise. It names one mechanism (fitting the training distribution on average makes models worst where data are rare, which may homogenize culture) and leaves both it and its remedy untested. | Read |

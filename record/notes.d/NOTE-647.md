@@ -1,6 +1,9 @@
 ---
+number: 647
 status: Read
-paper: 'LIT-tmpjk0t0'
+formerly:
+- NOTE-tmp6dxz0
+paper: 'LIT-847'
 title: 'A comonadic view of simulation and quantum resources'
 version: 1
 history:
@@ -32,15 +35,15 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim this reading bears on -->
-<!-- inactive-ok-file: THEORY-tmprxblg — Proposed; cited for what this reading bears on, not as settled -->
+<!-- inactive-ok-file: THEORY-174 — Proposed; cited for what this reading bears on, not as settled -->
 
-# NOTE-tmp6dxz0: A comonadic view of simulation and quantum resources
+# NOTE-647: A comonadic view of simulation and quantum resources
 
 ## Contribution
 
 Two earlier lines compared contextual resources: the contextual fraction
 with a list of free operations it is monotone under ([LIT-265](../literature.d/LIT-265.md)), and
-Karvonen's simulations ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)). This paper joins them. It adds an
+Karvonen's simulations ([LIT-846](../literature.d/LIT-846.md)). This paper joins them. It adds an
 adaptive free operation, conditional measurement, and an equational
 theory for the free operations. It builds a comonad of measurement
 protocols, so that adaptive simulations are co-Kleisli maps, and proves
@@ -138,12 +141,12 @@ two views is proved through normal forms.
 
 ## Connections
 
-It generalises Karvonen ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)), whose morphisms had no
+It generalises Karvonen ([LIT-846](../literature.d/LIT-846.md)), whose morphisms had no
 preprocessing, and it adds conditional measurement to the free operations
 of Abramsky, Barbosa and Mansfield ([LIT-265](../literature.d/LIT-265.md)). It rests on Abramsky and
 Brandenburger ([LIT-016](../literature.d/LIT-016.md)) for the framework. Measurement protocols come
 from Acín, Fritz, Leverrier and Sainz, where they are "wirings". The
-chapter by Barbosa, Karvonen and Mansfield ([LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md), Remark 28)
+chapter by Barbosa, Karvonen and Mansfield ([LIT-845](../literature.d/LIT-845.md), Remark 28)
 returns to non-adaptive procedures to characterise the maps they induce,
 and says why: its key lemma fails for adaptive protocols.
 
@@ -155,7 +158,7 @@ and says why: its key lemma fails for adaptive protocols.
   scenario's cover with new measurements and faces. So the free
   operations already include cover-changing, stochastic, directed
   transport, and Theorems 20–21 say that every such transport is monotone
-  for contextuality. Together with [LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md) this answers the
+  for contextuality. Together with [LIT-846](../literature.d/LIT-846.md) this answers the
   "global compatibility" half of A94's question for no-signalling models.
   The "decision-relevant information" half is not addressed; nor is
   signalling data.
@@ -166,7 +169,7 @@ and says why: its key lemma fails for adaptive protocols.
   with composition in the co-Kleisli category); it bears on the
   manuscript's interest in how compatibility evolves "during translation
   and repeated reconstruction" (A93), which [CLAIM-100](../claims.d/CLAIM-100.md) quotes.
-- Produces [THEORY-tmprxblg](../theory.d/THEORY-tmprxblg.md), with [LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md) and [LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md).
+- Produces [THEORY-174](../theory.d/THEORY-174.md), with [LIT-846](../literature.d/LIT-846.md) and [LIT-845](../literature.d/LIT-845.md).
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

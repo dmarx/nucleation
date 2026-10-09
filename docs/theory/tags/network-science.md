@@ -6,7 +6,7 @@
 
 **Network science** — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-5 of 172 THEORY documents. Back to the [full index](../README.md).
+5 of 174 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -1,6 +1,9 @@
 ---
+number: 651
 status: Read
-paper: 'LIT-tmpes6yu'
+formerly:
+- NOTE-tmpvuygo
+paper: 'LIT-846'
 title: 'Categories of Empirical Models'
 version: 1
 history:
@@ -27,9 +30,9 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: CLAIM-100 CLAIM-105 — Proposed; open, and cited as open: the claims this reading bears on -->
-<!-- inactive-ok-file: THEORY-tmprxblg THEORY-156 — Proposed; cited for what this reading bears on, not as settled -->
+<!-- inactive-ok-file: THEORY-174 THEORY-156 — Proposed; cited for what this reading bears on, not as settled -->
 
-# NOTE-tmpvuygo: Categories of Empirical Models
+# NOTE-651: Categories of Empirical Models
 
 ## Contribution
 
@@ -146,9 +149,9 @@ Builds on Abramsky and Brandenburger ([LIT-016](../literature.d/LIT-016.md)) for
 the global-section criterion, and on the contextual fraction of Abramsky,
 Barbosa and Mansfield ([LIT-265](../literature.d/LIT-265.md)), which it shows to be functorial. The
 resource-theory reading follows Coecke, Fritz and Spekkens. The direct
-successor is the comonadic paper ([LIT-tmpjk0t0](../literature.d/LIT-tmpjk0t0.md)), which replaces the
+successor is the comonadic paper ([LIT-847](../literature.d/LIT-847.md)), which replaces the
 relation by a simplicial map plus adaptive measurement protocols and adds
-preprocessing; the chapter "Closing Bell" ([LIT-tmp5at9s](../literature.d/LIT-tmp5at9s.md)) revises the
+preprocessing; the chapter "Closing Bell" ([LIT-845](../literature.d/LIT-845.md)) revises the
 morphisms again (mixtures of deterministic procedures) and characterises
 which maps of models they induce.
 
@@ -193,7 +196,7 @@ which maps of models they induce.
   single-context scenario a simulation is a stochastic map of outcomes,
   a garbling of a one-state experiment. This is my observation; nothing
   here relates the simulation preorder to Blackwell's.
-- Produces [THEORY-tmprxblg](../theory.d/THEORY-tmprxblg.md), with its two successors.
+- Produces [THEORY-174](../theory.d/THEORY-174.md), with its two successors.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 
