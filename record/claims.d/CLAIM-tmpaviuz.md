@@ -25,6 +25,11 @@ summary: >-
   CbD it should cite.
 objected_by:
 - CLAIM-tmpje74v
+complements:
+- CLAIM-tmpbwst7
+illustrated_by:
+- CASE-tmp8ayjc
+- CASE-tmpzeh33
 ---
 
 # CLAIM-tmpaviuz: Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context

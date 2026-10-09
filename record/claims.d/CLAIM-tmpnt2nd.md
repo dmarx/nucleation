@@ -25,6 +25,8 @@ objected_by:
 - CLAIM-tmpjmeg6
 supports:
 - CLAIM-tmpww3q0
+illustrated_by:
+- CASE-tmpjlkvg
 ---
 
 # CLAIM-tmpnt2nd: A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent

@@ -18,14 +18,18 @@ works:
 - what-survives-translation
 answers:
 - QUESTION-tmp3lk3n
+- QUESTION-tmpt7lzm
 rests_on:
 - CLAIM-tmpnt2nd
 - CLAIM-tmpek80j
+- CLAIM-tmphg89g
 summary: >-
   The manuscript's central thesis (Abstract, §1, §12). It does not say
   every relation must survive, or that there is one privileged set of
   observables: the choice of observables and decision tasks is stated to
   be normative and contestable (§11).
+illustrated_by:
+- CASE-tmpunxdh
 ---
 
 # CLAIM-tmpww3q0: What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition

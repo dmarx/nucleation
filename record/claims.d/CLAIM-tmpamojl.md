@@ -1,0 +1,42 @@
+---
+status: Active
+title: 'Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme'
+version: 1
+role: granted
+tags:
+- philosophy-of-language
+- mathematics
+date: '2026-10-08'
+line: pragmatic-transport
+undercuts:
+- ARG-tmpekso6
+summary: >-
+  A18's own limit on its analogy: "the physics analogy has a hard
+  limit." Accepted at once. Its content reached the manuscript as the
+  semigroup of §4.
+supports:
+- CLAIM-tmpse4aa
+---
+<!-- inactive-ok-file: ARG-tmpekso6 — Rejected; answered or abandoned, and cited as the history this entry answers -->
+<!-- inactive-ok-file: CLAIM-tmpse4aa — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+
+# CLAIM-tmpamojl: Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme
+
+## The claim
+
+A18: "Lorentz transformations are invertible, compose according to a precise
+rule, and preserve a specified mathematical structure. Real translation
+operations generally have none of those guarantees. They can be many-to-one,
+culturally asymmetric, historically contingent, and fundamentally ambiguous. So
+I wouldn't claim we've identified a *relativity theory of translation*."
+
+And the second disanalogy: in physics the invariants "arise from the
+mathematical structure of the theory and empirical constraints. In translation,
+by contrast, we must discover—or negotiate—which communicative properties
+deserve invariance." The manuscript keeps this as the normative choice of
+observables (§11).
+
+## What it changes
+
+It leaves [ARG-tmpekso6](../arguments.d/ARG-tmpekso6.md) its research-programme respect only. It is the premise of
+[CLAIM-tmpse4aa](CLAIM-tmpse4aa.md).
