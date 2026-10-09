@@ -21,6 +21,7 @@ rests_on:
 - CLAIM-tmpbbjw4
 grounds:
 - LIT-265
+- THEORY-tmp8ly9g
 summary: >-
   A78's thesis for the paper, "potentially the most interesting
   connection we've found", with Δ_CF, the change in contextual fraction
@@ -28,8 +29,8 @@ summary: >-
   Abstract's last sentence but drops the measure and the worked examples
   (at C6, per the chunk-5 reader).
 ---
+<!-- inactive-ok-file: THEORY-tmp8ly9g — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp0wmy3 CLAIM-tmpbbjw4 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: LIT-265 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-tmpukbg3: Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
 
@@ -73,3 +74,21 @@ C7 Appendix B states the limit a drift result would meet here: "A result about
 state distributions is not automatically a result about a discontinuous
 contextuality measure, whose stability requires separate assumptions." The
 contextual fraction is such a measure.
+
+## What the reading of the contextual fraction implies
+
+The contextual fraction is now read (LIT-265, NOTE-236). Three consequences
+for Δ_CF:
+
+- **It is undefined at some steps.** Δ_CF is undefined at any step that makes
+  the marginals depend on context, because the contextual fraction is defined
+  only without signalling.
+- **It cannot rise along free operations.** By the paper's Theorem 2, a free
+  operation (relabelling, restriction or translation of measurements,
+  coarse-graining, mixing with a noncontextual model) cannot raise the
+  fraction. So Δ_CF ≤ 0 along such steps, and an increase needs a step of
+  some other kind.
+- **It does not jump within a scenario.** The premise quoted here, that the
+  fraction is discontinuous, does not hold within a fixed scenario: it is
+  Lipschitz in the probability table (THEORY-tmp8ly9g, a derivation from the
+  paper's linear programme). Only a change of scenario can make it jump.

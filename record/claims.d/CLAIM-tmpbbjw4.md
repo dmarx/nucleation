@@ -32,7 +32,6 @@ complements:
 - CLAIM-tmpc6q27
 ---
 <!-- inactive-ok-file: CLAIM-tmp1ycte CLAIM-tmpc6h7z CLAIM-tmpykenz — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: LIT-265 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-tmpbbjw4: A communicative object is a compatible family of local observations over a cover of contexts, and local interpretations need not be fragments of one globally realizable interpretation
 

@@ -12,6 +12,7 @@ works:
 - what-survives-translation
 grounds:
 - LIT-777
+- THEORY-tmpjdnxt
 objects_to:
 - CLAIM-tmpaviuz
 summary: >-
@@ -19,6 +20,7 @@ summary: >-
   manuscript cites the 2016 paper; its general observational covers need
   the later version.
 ---
+<!-- inactive-ok-file: THEORY-tmpjdnxt — Proposed; representation-dependence of CbD verdicts, cited as qualification, not as settled -->
 
 # CLAIM-tmpje74v: The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts
 
@@ -36,3 +38,15 @@ The manuscript's parity example is unaffected: each of S, M and H appears in
 exactly two contexts, a cyclic binary system. The point bites on the general
 scenario of §3 and on Case II's overlapping elicitation contexts, where an
 observable may be asked alongside several others.
+
+## What the CbD 2.0 readings add
+
+CbD 2.0 (LIT-tmpsa1qj) and its companion (LIT-tmpuzf4t) confirm this claim:
+verdicts change only for contents measured in three or more contexts.
+
+The canonical-systems paper (LIT-tmp1kfuc) adds a qualification. Whether a
+fixed set of measurements counts as contextual depends on how the system is
+represented: which couplings are imposed, and which dichotomizations are
+included (THEORY-tmpjdnxt). "The parity example is unaffected" assumes S, M
+and H are binary. If any of them is multi-valued and its coarsenings matter,
+even a single observable can come out contextual.
