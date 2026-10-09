@@ -1,0 +1,131 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpaosen](../notes.d/NOTE-tmpaosen.md)); worth reading as the first application of clique topology to stimulus statistics rather than neural data, and as the Sharpee lab''s first claim of a hyperbolic geometry in biology. For four natural odour sources (strawberry, tomato, blueberry, mouse urine; 45–78 compounds over 50–101 samples), the rank order of absolute concentration correlations gives Betti curves that match points sampled near the surface of a 3D hyperbolic ball (R_max = 7, R_min = 0.9 R_max, the same for all four) and reject uniform Euclidean cubes of any dimension tried. Human descriptor profiles for 127 odorants (Dravnieks) match a full 3D hyperbolic ball and no Euclidean cube. Linear axes for pleasantness, boiling point and acidity are found in the fitted fruit-odour space. The tree that motivates the hyperbolic model is argued, not recovered: compounds do not cluster by chemical class, and the only null geometry is a uniform Euclidean cube.'
+title: 'Hyperbolic geometry of the olfactory space'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 from the link
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC6114987/. Identified through
+    Europe PMC (PMC6114987, PMID 30167457) and checked against Crossref:
+    Yuansheng Zhou, Brian H. Smith and Tatyana O. Sharpee, "Hyperbolic
+    geometry of the olfactory space", Science Advances 4(8):eaaq1458, DOI
+    10.1126/sciadv.aaq1458, CC BY-NC. No preprint was found: none on arXiv
+    (title search, and a listing of every arXiv paper with author
+    Sharpee), and a Crossref search for posted content on the title and
+    authors found only the lab's later gene-expression preprint.
+    `published:` is 29 August 2018, the publisher's online date, carried
+    by PMC as epub and by Europe PMC as first publication: the day the
+    article first appeared. Crossref gives 3 August 2018 as issued and
+    published-print, but that is the August issue's cover date, before
+    the article existed, so it is not an appearance and ADR-002's
+    earlier-date rule, which settles real doubt about first appearance,
+    does not reach it.
+    Received 5 October 2017, accepted 19 July 2018. Read in full from the
+    PMC open-access copy (Europe PMC full-text XML). Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5,
+    which may be stale) for the authors, DOI, PMC id and title found
+    nothing.
+tags:
+- neuroscience
+- natural-sciences
+- mathematics
+- cognition
+date: '2026-10-09'
+published: '2018-08-29'
+doi: '10.1126/sciadv.aaq1458'
+first_author: 'Zhou'
+keywords:
+- 'olfaction'
+- 'natural odor statistics'
+- 'odor perception'
+- 'hyperbolic geometry'
+- 'clique topology'
+- 'Betti curves'
+- 'nonmetric multidimensional scaling'
+- 'hierarchical networks'
+implementations: []
+summary: >-
+  Zhou, Smith & Sharpee (2018), Science Advances 4(8):eaaq1458. In four
+  natural odour sources the rank order of correlations between compound
+  concentrations has the clique-topology signature of points near the
+  surface of a 3D hyperbolic ball and not of a uniform Euclidean cube,
+  and human perceptual descriptions of 127 odorants have that of a full
+  3D hyperbolic ball. Pleasantness, boiling point and acidity read out as
+  linear axes of the fitted fruit-odour space. The hierarchy that
+  motivates the hyperbolic model is argued from biochemistry, not
+  recovered from the data.
+---
+
+<!-- inactive-ok-file: THEORY-tmp7qz7l THEORY-tmpae88o — Proposed; cited as the THEORY this reading sources and as the sibling finding on neural data -->
+
+# LIT-tmpp74b9: Hyperbolic geometry of the olfactory space
+
+Yuansheng Zhou, Brian H. Smith and Tatyana O. Sharpee (2018), *Science
+Advances* 4(8):eaaq1458 — DOI-10.1126/sciadv.aaq1458, open access at
+PubMed Central (PMC6114987)
+
+## Key takeaways
+
+- **The test is rank-order topology.** Each odour pair gets the distance
+  −|corr| of their concentrations across samples. Clique topology (Giusti
+  et al. 2015) counts 1-, 2- and 3-cycles as the edge threshold sweeps,
+  so the Betti curves depend only on the rank order of the correlations.
+  Candidate geometries are scored by where the data's integrated Betti
+  values (and, as a check, L1 distances between curves) fall among 300
+  samples of as many points from each geometry, with multiplicative
+  noise of 4–5% on the model distances.
+- **Natural odours: a thin hyperbolic shell.** For strawberry (78
+  compounds, 54 samples), tomato (66, 79), blueberry (45, 101) and mouse
+  urine (69, 50), a 3D hyperbolic ball of curvature −1 sampled only in
+  the shell 6.3 ≤ r ≤ 7 matches all three Betti curves (P > 0.19 in every
+  case), with one radius for all four sources. The best Euclidean cube
+  (dimension 8 or 10) is rejected (P < 0.03 for blueberry, < 0.003 for the
+  others), as are shuffled concentrations. Log-transforming the
+  concentrations changes nothing. Higher-dimensional hyperbolic spaces are
+  not ruled out; 3D fits best.
+- **Perception: a full hyperbolic ball.** Dravnieks' 146 descriptor
+  ratings of 127 odorants, with Euclidean distances between descriptor
+  profiles, match a full 3D hyperbolic ball (R_max = 1.6) and no Euclidean
+  dimension; hyperbolic dimension 9 and above is rejected. The biphasic
+  Betti curves are accounted for by non-uniform sampling: the embedded
+  odorants fill only half of the space.
+- **Linear axes in the fitted space.** After a hyperbolic nonmetric MDS
+  (angles only, radius fixed), directions for pleasantness, boiling point
+  and acidity are found in the strawberry–tomato embedding and validated
+  on held-out compounds: pleasantness R = 0.66 for single compounds, and
+  R = 0.34 when a strawberry-trained axis predicts tomato liking. Because
+  the shell is essentially 2D, the three axes are not independent.
+- **No chemical clustering.** Compounds do not group by functional class
+  in the embedding, which the authors attribute to co-production in
+  shared biochemical pathways.
+- **The hierarchy is the motivation, not a finding.** The paper's case
+  for a hyperbolic model is that a set system (Venn diagram) maps to points
+  of a half-space by (centre, radius), with containment as height, and that
+  biochemical networks are hierarchical. No tree is inferred from the
+  odour data.
+
+## Standing in the record
+
+Filed at the owner's request on 2026-10-09, in the second part of the
+batch on hierarchy and hyperbolic geometry that followed [QUESTION-025](../questions.d/QUESTION-025.md).
+The first part held Cagnetta et al.'s random hierarchy model
+([LIT-tmpz5v25](LIT-tmpz5v25.md)), Krioukov et al. 2010 ([LIT-tmp0u9c9](LIT-tmp0u9c9.md)), Sala et al. 2018
+([LIT-tmpt10fk](LIT-tmpt10fk.md)), Lin et al. 2023 ([LIT-tmpjwrpt](LIT-tmpjwrpt.md)), Zhang et al.'s
+hippocampal paper ([LIT-tmpvydv3](LIT-tmpvydv3.md)), Yang et al. 2023 ([LIT-tmpocqly](LIT-tmpocqly.md)) and
+Ganea et al.'s entailment cones ([LIT-tmp5o7bs](LIT-tmp5o7bs.md)).
+
+Read on 2026-10-09 ([NOTE-tmpaosen](../notes.d/NOTE-tmpaosen.md)). The reading is the source of
+[THEORY-tmp7qz7l](../theory.d/THEORY-tmp7qz7l.md). Its nearest sibling is [LIT-tmpvydv3](LIT-tmpvydv3.md): the same lab, the
+same Betti-curve test and the same uniform-cube null, applied four years
+later to hippocampal spike correlations, where it gives [THEORY-tmpae88o](../theory.d/THEORY-tmpae88o.md).
+This paper is the earlier one and applies the test to stimulus
+statistics and perceptual ratings, not neural activity. It cites
+Krioukov et al. ([LIT-tmp0u9c9](LIT-tmp0u9c9.md)) for the claim that hyperbolic space
+approximates hierarchical networks.
+
+It is not a reading for the anthology: it involves no machine-learning
+practice, and its subject is a measurement of natural odours and human
+perception.
