@@ -17,6 +17,10 @@ used_by:
 - CLAIM-tmpd81nk
 - CLAIM-tmpeponh
 - CLAIM-tmpnvxfj
+- CLAIM-tmpizns9
+- CLAIM-tmpj4s3r
+superseded_by:
+- TERM-tmpct68m
 ---
 
 # TERM-tmpvpzy0: fidelity, as observational equivalence over response trajectories

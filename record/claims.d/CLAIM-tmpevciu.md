@@ -26,7 +26,7 @@ summary: >-
 supports:
 - CLAIM-tmpx6akp
 ---
-<!-- inactive-ok-file: CLAIM-tmpjwomz — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpjwomz — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-tmpx6akp — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpevciu: Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability

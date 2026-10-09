@@ -17,6 +17,8 @@ answered_by:
 refined_by:
 - QUESTION-tmpt7lzm
 - QUESTION-tmpx51x0
+- QUESTION-tmp713l1
+- QUESTION-tmpklhva
 ---
 
 # QUESTION-tmp3lk3n: What survives when an utterance is translated, retold or rendered in another medium?

@@ -26,6 +26,8 @@ summary: >-
   separates what each shows.
 objected_by:
 - CLAIM-tmpj2kjo
+supports:
+- CLAIM-tmpj8d91
 ---
 
 # CLAIM-tmppvvyq: Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable

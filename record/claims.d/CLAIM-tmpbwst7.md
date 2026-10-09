@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: ARG-tmp475gh — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-tmp1ycte CLAIM-tmpaviuz THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-tmpjwomz — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpjwomz — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: LIT-316 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
 # CLAIM-tmpbwst7: Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality

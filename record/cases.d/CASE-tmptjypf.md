@@ -15,7 +15,10 @@ summary: >-
   state and three model classes (A35), matched and divergent stimulus
   pairs (A38), pilot validation, classical baselines first and five
   falsifiers (A40). Proposed, not run.
+variants:
+- CASE-tmp7b5rt
 ---
+<!-- inactive-ok-file: CLAIM-tmps5hv6 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmp1ycte CLAIM-tmpevciu CLAIM-tmpx6akp — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CASE-tmptjypf: The dynamical-fidelity research programme of the outlines (A35, A38, A40)
@@ -49,3 +52,11 @@ If run, it tests [CLAIM-tmpevciu](../claims.d/CLAIM-tmpevciu.md), [CLAIM-tmpx6ak
 manuscript's §10 keeps the classical-first stance and the separation of context
 effects from contextuality. The confound list and the held-out evaluation of
 correspondence maps are not in it.
+
+Outline v3 (A48 §15.5) restated the failure conditions: no stable framing
+effects across paraphrases; order effects explained by prompt artifacts; no
+added prediction from trajectories; Φ failing on held-out tasks; TTT giving no
+transferable behaviour; complex models no better than simple baselines. U19's
+instruction to withhold hedging removed the section ([CLAIM-tmps5hv6](../claims.d/CLAIM-tmps5hv6.md)). A49 said
+the conditions belonged in the methods "as **predefined decision rules**", but
+outline v4 (A52) lists only outcomes.

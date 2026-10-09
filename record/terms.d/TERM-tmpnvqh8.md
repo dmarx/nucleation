@@ -1,8 +1,14 @@
 ---
 status: Active
 title: 'noncommutativity, of events and of operations'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-08'
+  note: >-
+    A43 §2 and A48 §7.2 added a level below the others: noncommutativity of
+    string concatenation, which is trivial. A52 dropped it again. Recorded
+    here because it is what a language-model order effect is before controls.
 - version: 2
   date: '2026-10-08'
   note: >-
@@ -27,7 +33,7 @@ used_by:
 - CLAIM-tmpjwomz
 - CLAIM-tmphq3fu
 ---
-<!-- inactive-ok-file: CLAIM-tmpjwomz — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpjwomz — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
 # TERM-tmpnvqh8: noncommutativity, of events and of operations
 
@@ -48,6 +54,15 @@ Two senses, distinguished at A30 in answer to the owner's U13 ([CLAIM-tmpjwomz](
    observed difference may arise from framing effects, memory, learning, task
    demands, or measurement disturbance". The first two senses are properties of
    a model; this one is data.
+
+4. **Of string concatenation** (A43 §2): "**Syntactic noncommutativity is
+   trivial**": (c‖a)‖b ≠ (c‖b)‖a "is merely a fact about string concatenation".
+   A substantive claim needs a difference in induced behaviour, separated from
+   "artifacts of positional encoding, attention masks, recency, and instruction
+   hierarchy". A48 §7.2 kept three levels (concatenation, effective operations,
+   observed response distributions; "only the latter two have potential
+   explanatory significance"). A52 kept two, and the manuscript does not
+   mention concatenation.
 
 ## What it is not
 

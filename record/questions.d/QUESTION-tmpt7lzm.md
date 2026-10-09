@@ -15,6 +15,8 @@ summary: >-
   never argues against the first.
 answered_by:
 - CLAIM-tmpww3q0
+- CLAIM-tmp08yg5
+- CLAIM-tmpw9mi0
 refined_by:
 - QUESTION-tmp1rc70
 - QUESTION-tmp9ecx1

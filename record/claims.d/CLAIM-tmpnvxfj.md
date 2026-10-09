@@ -15,16 +15,18 @@ line: pragmatic-transport
 supersedes:
 - CLAIM-tmpfi0jr
 superseded_by:
-- CLAIM-tmpww3q0
+- CLAIM-tmpizns9
 uses:
 - TERM-tmpvpzy0
 - TERM-tmpu9tab
 summary: >-
   The thesis of the revised outline (A40 §XV), with A39's operational
   identity: a pragmatically significant difference is a difference in
-  the observable transitions an utterance makes possible. Superseded by
-  the manuscript's thesis of relationally organized observables.
+  the observable transitions an utterance makes possible. Superseded at
+  A45–A48 by the outline-v3 thesis, which added learned dispositions;
+  the chain runs on through the transport thesis to the manuscript's.
 ---
+<!-- inactive-ok-file: CLAIM-tmpizns9 CLAIM-tmpt20oo — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpfi0jr — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpww3q0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -54,7 +56,9 @@ similarity.
 
 ## Why it was replaced
 
-The manuscript's thesis ([CLAIM-tmpww3q0](CLAIM-tmpww3q0.md)) keeps the observational turn and the
+A45 and outline v3 (A48) extended it to learned interpretive dispositions
+([CLAIM-tmpizns9](CLAIM-tmpizns9.md)), and after the owner's U20 objection it became the transport
+thesis ([CLAIM-tmpt20oo](CLAIM-tmpt20oo.md)). The manuscript's thesis ([CLAIM-tmpww3q0](CLAIM-tmpww3q0.md)) keeps the observational turn and the
 "possibilities for subsequent interaction" (as expected replies and uptake,
 §2), and drops the transformation-of-states framing for observables and their
 relations.

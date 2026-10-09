@@ -1,5 +1,5 @@
 ---
-status: Superseded
+status: Rejected
 title: 'Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution'
 version: 1
 role: thesis
@@ -17,8 +17,9 @@ uses:
 - TERM-tmpnvqh8
 summary: >-
   The owner at U13, answering A24. Granted for projective measurements,
-  refuted for operations by a classical counterexample (A30), and
-  narrowed to pragmatic noncommutativity, which the manuscript keeps.
+  refuted for operations by a classical counterexample (A30) that the
+  owner never contested, so Rejected; what replaced it is pragmatic
+  noncommutativity, which the manuscript keeps.
 countered_by:
 - CASE-tmp11vtm
 objected_by:
@@ -43,4 +44,7 @@ the measurements as jointly defined, non-disturbing observables, but doesn't by
 itself rule out classical stochastic models with state changes.**" The
 counterexample is [CASE-tmp11vtm](../cases.d/CASE-tmp11vtm.md); the objection is [CLAIM-tmpbwst7](CLAIM-tmpbwst7.md). What survived is [CLAIM-tmpevciu](CLAIM-tmpevciu.md), and A30
 added: "**H1 may itself be enough to transform our theory of translation**."
-Whether the owner accepted the narrowing is not shown in owner turns U1–U13.
+The owner never contested the correction: U14 asked only to "develop this
+idea further", and every later reply repeats it. Rejected, because the
+counterexample refutes the claim as stated; [CLAIM-tmpevciu](CLAIM-tmpevciu.md) is what replaced it
+(it was first filed as Superseded, and corrected on 2026-10-09).

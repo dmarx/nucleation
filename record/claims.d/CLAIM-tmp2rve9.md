@@ -17,7 +17,10 @@ summary: >-
   of A40 §VIII. Recovered: the manuscript keeps the intertwining
   identity but states neither limit nor remedy, apparently by
   inadvertence.
+supports:
+- CLAIM-tmplxhnv
 ---
+<!-- inactive-ok-file: CLAIM-tmplxhnv — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpx6akp — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmp2rve9: Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on
@@ -43,7 +46,11 @@ Two limits and one remedy:
 
 ## Where it went
 
-The manuscript §9 gives the commutator identity with Φ unconstrained, and §8
+A48 §9.3 restated the second limit: "preserving the image of a commutator is
+weaker than establishing complete algebraic equivalence unless the state
+correspondence is suitably faithful." A49 answered the first by definition, an
+admissible correspondence class ([CLAIM-tmplxhnv](CLAIM-tmplxhnv.md)). Outline v4 (A52) kept one
+bullet of that and dropped the commutator caveat. The manuscript §9 gives the commutator identity with Φ unconstrained, and §8
 says only that "the bound quantifies departure relative to a reference
 transport". Nothing argued against the limits; they were thinned out of the
 drafts. Granted, because both limits are elementary and the remedy is standard.

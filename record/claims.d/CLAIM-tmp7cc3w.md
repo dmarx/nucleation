@@ -18,6 +18,7 @@ summary: >-
   individual ingredient is novel") and cites Gutt, but drops Krifka,
   whom four replies named as the closest prior art.
 ---
+<!-- inactive-ok-file: CLAIM-tmps5hv6 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-784 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-tmp7cc3w: The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves
@@ -40,6 +41,12 @@ and experimentally measurable account, not the claim that each individual
 ingredient is novel."
 
 ## What was lost
+
+Outline v3 (A48 §2.5) still had the positioning: "Acknowledge that neither
+context-dependent meaning nor functional translation equivalence is novel". It
+called Gutt "especially important" and Krifka "directly relevant". After the
+owner's U19 instruction to withhold hedging ([CLAIM-tmps5hv6](CLAIM-tmps5hv6.md)), outline v4 (A52)
+dropped the novelty section, and both works shrank to citations.
 
 Krifka (2024), "Performative Updates and the Modeling of Speech Acts", was
 called "particularly close prior art" at A38 and named again at A33, A35 and

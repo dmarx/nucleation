@@ -17,7 +17,7 @@ summary: >-
 supports:
 - CLAIM-tmpbwst7
 ---
-<!-- inactive-ok-file: CLAIM-tmpjwomz — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpjwomz — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
 # CASE-tmp11vtm: Two reset matrices: noncommuting and classical
 
