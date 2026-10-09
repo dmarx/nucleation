@@ -1,0 +1,122 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 ([NOTE-tmp18bc8](../notes.d/NOTE-tmp18bc8.md)); worth reading as the paper that measures how much signalling there is in natural-language meaning selection, and that gives signalling a causal reading. Its Proposition 1 shows that in a binary cyclic system the CbD quantity Δ is twice the sum, over contents, of the least direct influence of context that any of Jones''s canonical (causal) models of the data must posit, each the total-variation distance between a content''s two marginals. Applied to 90 rank-2 noun–verb systems from the BNC and ukWaC, Δ averages about 1.35 in every class of ambiguity, and homonymous verbs carry about 70% of it against about 50% for polysemous verbs (14 against 55 systems; my recomputation from its appendix gives a Welch t of 2.0, two-sided p ≈ 0.06). It tests no system for contextuality. Read with the caveat that most systems rest on very few corpus occurrences: 51 of the 90 have Δ exactly 0, 2 or 4.'
+title: 'Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 as the journal follow-up to
+    LIT-842, and read in full the same day (NOTE-tmp18bc8) from an author
+    copy (33-page LaTeX PDF, created 18 March 2022, running head
+    "Contextual and Direct Influences in Ambiguous Phrases", not the
+    journal's pagination), downloaded by the reader of LIT-842 and said to
+    be UCL Discovery eprint 10146180. Its provenance could not be
+    confirmed: the UCL Discovery record page, OAI-PMH and export endpoints
+    returned a Cloudflare challenge or HTTP 401. Its abstract matches the
+    KCI record's word for word. Bibliography checked against the DOI
+    handle (registration agency KISTI, not Crossref, which has no record
+    of it) and the KCI landing page it resolves to (ART002759722): Journal
+    of Cognitive Science 22(3):391–420, Institute for Cognitive Science,
+    Seoul National University, ISSN 1598-2327, publication date 2021/09,
+    authors Daphne Wang, Mehrnoosh Sadrzadeh, Samson Abramsky, Víctor H.
+    Cervantes. The KCI full-text download refused direct access, so the
+    version of record was not read. No arXiv version exists (arXiv API
+    search by title and by authors). `published:` is 1 September 2021: no
+    source gives a day (ADR-002). Not held in the Anthology of the SOTA: a
+    grep of its record/ (clone pulled 2026-10-09, commit d8b5ba5, which may
+    be stale) for the title, the DOI, the eprint number, Sadrzadeh,
+    Cervantes and Daphne Wang found nothing.
+tags:
+- contextuality
+- linguistics
+- cognition
+- probabilistic-modeling
+- quantum-foundations
+date: '2026-10-09'
+published: '2021-09-01'
+doi: '10.17791/jcs.2021.22.3.391'
+first_author: 'Wang'
+keywords:
+- 'Contextuality'
+- 'Ambiguity'
+- 'Senses and Meanings'
+- 'Quantum Mechanics'
+- 'direct influences'
+- 'Contextuality-by-Default'
+- 'M-contextuality'
+implementations: []
+summary: >-
+  Wang, Sadrzadeh, Abramsky & Cervantes (2021), Journal of Cognitive
+  Science 22(3):391–420. Proves that in a binary cyclic system CbD's
+  signalling quantity Δ is twice the summed minimal direct influences of
+  context in Jones's causal canonical models, and measures it in 90
+  rank-2 noun–verb systems from British corpora: Δ is about 1.35 whatever
+  the words' ambiguity, and homonymous verbs carry about 70% of it against
+  about 50% for polysemous ones, on small counts and a marginal test.
+extends:
+- LIT-842
+- LIT-777
+---
+
+<!-- inactive-ok-file: THEORY-013 — Proposed; cited for the data claim this reading bears on, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpsywrj — Proposed; filed from this reading -->
+
+# LIT-tmpmnpgo: Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools
+
+Daphne Wang, Mehrnoosh Sadrzadeh, Samson Abramsky and Víctor H. Cervantes
+(2021), *Journal of Cognitive Science* 22(3):391–420 —
+DOI-10.17791/jcs.2021.22.3.391; author copy at UCL Discovery, eprint
+10146180
+
+## Key takeaways
+
+- **Signalling, given a causal reading** (Proposition 1, proved). For a
+  binary cyclic system, Δ = Σ|⟨R_q^c⟩ − ⟨R_q^{c′}⟩|, the CbD measure of
+  signalling, equals 2 Σ_q Δ*(F_q). Δ*(F_q) is the least probability,
+  over all of Jones's canonical models that reproduce the data, that
+  switching context changes content q's value with the background held
+  fixed. It equals 1 − Σ_v min(P[R_q^c = v], P[R_q^{c′} = v]), the
+  total-variation distance between the two marginals. The proof combines
+  CbD's maximal couplings with Jones's correspondence between couplings
+  and canonical models (his Proposition 8.4, quoted, not proved).
+- **The data.** 90 rank-2 cyclic systems: a verb and a noun, each with
+  two interpretations, read as verb–object and as subject–verb, with
+  probabilities from hand-labelled BNC and ukWaC occurrences. 32 verbs
+  (from Pickering and Frisson, and Shutova) and 20 nouns (from Rayner and
+  Duffy, and Tanenhaus et al.). Systems whose uncertainty on Δ exceeded
+  the range of possible values were dropped. Counts per system are not
+  reported; 51 of the 90 have Δ exactly 0, 2 or 4.
+- **Δ does not separate ambiguity types.** The mean Δ is about 1.35 in all
+  four verb × noun classes (1.24 ± 0.29 to 1.50 ± 0.43, standard errors).
+  The appendix reproduces these values.
+- **Homonymous verbs carry more of it.** Among systems with Δ > 0, the
+  verb's share 2Δ_v/Δ averages about 70% for verbs with several meanings
+  (14 systems from six verbs) and about 50% for verbs with several senses
+  (55 systems). The paper says the difference holds "with more than 95%
+  confidence" and names no test. From its appendix I get 0.70 against
+  0.48, Welch t = 2.0 on about 20 degrees of freedom, so p ≈ 0.03
+  one-sided and ≈ 0.06 two-sided. Nouns split about 50% whatever their
+  ambiguity. Over all 69 systems the verb's share is 52% ± 4%, which does
+  not bear out the introduction's claim that verbs carry more on
+  average.
+- **No contextuality test.** No system is tested for CbD contextuality.
+  The paper notes that Δ > 2 rules it out in rank 2 (34 systems have
+  Δ ≥ 2, which already suffices), and it repeats [LIT-842](LIT-842.md)'s two contextual
+  systems.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as the journal follow-up to
+[LIT-842](LIT-842.md) (Wang et al., "On the Quantum-like Contextuality of Ambiguous
+Phrases"). That entry named it and did not file it. It is not from the
+manuscript bibliography. It was read on its own terms
+([NOTE-tmp18bc8](../notes.d/NOTE-tmp18bc8.md)); [NOTE-645](../notes.d/NOTE-645.md) compares the two papers from [LIT-842](LIT-842.md)'s side.
+
+It is the record's only quantification of signalling in natural-language
+data, as opposed to a verdict on contextuality. Its proved identity is the
+source of [THEORY-tmpsywrj](../theory.d/THEORY-tmpsywrj.md). Its data bear on [THEORY-013](../theory.d/THEORY-013.md) only indirectly:
+they show that corpus meaning selection is heavily signalling (mean Δ
+1.35 out of a maximum of 4), which is the condition under which [THEORY-013](../theory.d/THEORY-013.md)
+says published contextuality claims dissolve.
