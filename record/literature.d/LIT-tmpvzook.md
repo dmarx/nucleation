@@ -1,0 +1,123 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp6m4yt](../notes.d/NOTE-tmp6m4yt.md)); worth reading as an exactly solved case of the slow learning that produces a fast in-context learner: for one linear-attention layer trained by gradient flow on in-context vector regression, with tasks and inputs sharing one eigenbasis, each eigenmode of the input covariance learns by its own logistic curve on a timescale ∝ 1/s_α², the trained product of the two weight blocks settles at the inverse of a finite-context-corrected training covariance, so the learned in-context predictor is a preconditioned estimator (the fixed point Ahn et al. and Zhang et al. had found), and ‖p₂‖² − ‖q₁‖² is conserved. The decoupling rests on an assumed spectral alignment and on large N and many tasks. The second half, measures applied to attention-only transformers and a grokking model, is qualitative and correlational: no seeds, error bars or controls are reported, and "mechanistic explanation" overstates it.'
+title: 'Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09, and read the same day
+    (NOTE-tmp6m4yt) from the arXiv v2 PDF (22 November 2025, 36 pp.,
+    10 pages of main text). Bibliography checked against the arXiv
+    abstract pages of v2 and v1: authors Nischal Mainali (Edmond and
+    Lily Safra Center for Brain Sciences, Hebrew University of
+    Jerusalem) and Lucas Teixeira (PIBBSS); v1 submitted 17 April 2025,
+    which is `published:` per ADR-002; v2 22 November 2025; the title
+    above is the arXiv metadata title of both versions (the v2 PDF's
+    running title is shorter, "… in Linear Transformers and its
+    application"). No journal reference on arXiv; the v2 PDF carries
+    the header of the Symmetry and Geometry in Neural Representations
+    (NeurReps) Workshop 2025, and no proceedings volume was checked. The
+    arXiv API was rate-limited and not used. Not held in nucleation
+    before this filing (grep of record/ for the identifier, the authors
+    and the title found nothing). Not held in the Anthology of the
+    SOTA: a grep of its record/ (clone of commit d8b5ba5, 2026-10-09,
+    possibly stale) for the identifier, the authors and the title found
+    nothing; the anthology has an `in-context-learning` topic that
+    could hold it, hence `anthology-candidate`.
+tags:
+- learning-theory
+- representation-learning
+- anthology-candidate
+date: '2026-10-09'
+published: '2025-04-17'
+arxiv: '2504.12916'
+first_author: 'Mainali'
+keywords:
+- 'in-context learning'
+- 'linear transformers'
+- 'learning dynamics'
+- 'timescale separation'
+- 'grokking'
+implementations: []
+summary: >-
+  Mainali and Teixeira (2025), [ARXIV-2504.12916](https://arxiv.org/abs/2504.12916). For a single linear
+  attention layer trained by small-step SGD on in-context regression
+  ℝᵈ → ℝᵈ, with the input covariance and every task matrix sharing one
+  eigenbasis and the weights assumed to stay in it, the averaged
+  dynamics decouple into one logistic equation per eigenmode: mode α is
+  learned on a timescale τ_α = (ηP s_α²)⁻¹, giving plateaus and cliffs in
+  the loss, and settles where p_α q_α = N / ((N+1)s_α + Tr S), so the
+  trained predictor applies an inverse, finite-N-corrected training
+  covariance to the context's empirical covariance. A scaling symmetry
+  conserves ‖p₂‖² − ‖q₁‖². Effective-rank and subspace measures applied
+  to attention-only transformers and a grokking model are offered as
+  qualitative parallels.
+---
+
+<!-- inactive-ok-file: THEORY-169 — Proposed; the account the fixed-point result is compared with -->
+<!-- inactive-ok-file: THEORY-039 — Proposed; the synthesis of training phases this reading adds a case to -->
+<!-- inactive-ok-file: LIT-242 — Deferred; named as the analogous stepwise result in self-supervised learning, not relied on -->
+
+# LIT-tmpvzook: Exact Learning Dynamics of In-Context Learning in Linear Transformers and Its Application to Non-Linear Transformers
+
+Nischal Mainali and Lucas Teixeira (2025), NeurReps Workshop 2025 (arXiv
+v2) — [ARXIV-2504.12916](https://arxiv.org/abs/2504.12916)
+
+## Key takeaways
+
+- **The model.** One layer, one head, attention without softmax:
+  f(Z) = Z + W^P (ZZᵀ/N) W^Q Z, with tokens (x_i, y_i) stacked as columns
+  and the query padded with zeros. Under task averaging, the blocks p₁
+  and q₂ have zero expected gradient at zero, so the prediction reduces
+  to ŷ ≈ p₂ W^µ Σ̂_x q₁ x_q (Eq. 8). Inputs x ~ N(0, Σ_x), Σ_x = USUᵀ;
+  tasks W^µ = UΛ^µUᵀ with Gaussian eigenvalues and the *same* U; MSE on
+  the query; small-step SGD over a fixed set of P tasks, taken to the
+  continuous limit.
+- **Exact dynamics, by assumption of alignment.** Assuming p₂ and q₁ stay
+  diagonal in U, gradient flow gives, per mode,
+  τ_α dp_α/dt = q_α(1 − p_α q_α s^∞_α) and the same with p, q exchanged,
+  with τ_α = (ηP s_α²)⁻¹ and s^∞_α = ((N+1)s_α + Tr S)/N. From a balanced
+  start, a_α = p_α q_α obeys a logistic equation with closed-form
+  solution (Eq. 13); the expected loss is an explicit sum over modes
+  (Eq. 14), and the predictions match simulation closely (Figs. 1–3A).
+- **Staged learning.** Modes with larger input variance are learned
+  first, the time to escape a small initialisation ε being about
+  (τ_α/2) log(1/(s^∞_α ε)). This is the Saxe et al. (2014) deep-linear
+  phenomenology, here driven by the data spectrum through the attention
+  product, not by depth.
+- **What is learned.** At the fixed point p₂q₁ = s^∞(S)⁻¹ the predictor is
+  ŷ = W^µ Σ̂_x [((N+1)/N) Σ_x + (Tr Σ_x/N) I]⁻¹ x_q (Eq. 11): the context's
+  empirical covariance against an inverse training covariance with a
+  finite-context correction, i.e. a preconditioned estimator. It tends to
+  W^µ x_q only as N → ∞, and the converged loss is non-zero at finite N.
+  The fixed point is the one already found by Ahn et al. (2023) and by Zhang,
+  Frei and Bartlett; what is new is the trajectory to it, for vector-valued outputs.
+- **A conservation law.** ‖p̄₂‖²_F − ‖q̄₁‖²_F is constant (indeed each
+  p_α² − q_α² is), from the loss's invariance under p → cp, q → q/c.
+- **The non-linear half is suggestive only.** Loss-autocorrelation and
+  norm curvature, a "marginalised effective rank" and a subspace distance
+  min_A ‖A M(t) − M(∞)‖ are applied to 1–4-layer attention-only
+  transformers and to a modular-arithmetic grokking model. Dips in QK
+  effective rank and early subspace stabilisation coincide with in-context
+  learning's emergence in the 2+-layer models; in the grokking model the
+  OV subspace stabilises late, with the test-error drop. These are timing
+  coincidences, with no seeds, error bars or controls reported.
+
+## Standing in the record
+
+Filed here at the owner's request on 2026-10-09, with no stated context,
+in a batch with arXiv 2509.24914, 2502.09863, 2205.10343 and 2410.17770,
+and read on its own merits ([NOTE-tmp6m4yt](../notes.d/NOTE-tmp6m4yt.md)). The anthology does not hold it
+(clone of commit d8b5ba5, possibly stale). It is chiefly a result about
+the training of transformers and in-context learning, which the
+anthology's topics can hold, so it carries `anthology-candidate`.
+
+Here it is the exactly solved account of the *outer* learning that
+produces the inner, in-context learner of [LIT-792](LIT-792.md) and [THEORY-169](../theory.d/THEORY-169.md): for
+isotropic inputs the trained fixed point is that construction's scaled
+gradient step, and for anisotropic inputs it is a preconditioned one. Its
+staged, mode-by-mode learning is one more kind of training "phase" for
+[THEORY-039](../theory.d/THEORY-039.md), and the same eigenmode-ordered stepwise learning that [LIT-242](LIT-242.md)
+reports for self-supervised learning.
