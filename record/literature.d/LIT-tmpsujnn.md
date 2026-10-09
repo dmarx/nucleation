@@ -1,13 +1,15 @@
 ---
-status: Deferred
-status_note: 'registered 2026-10-09 from Crossref, not read. Filed from the reference list of the owner''s working manuscript. It stays Deferred until somebody reads it, not on merit.'
+status: Active
+status_note: 'read 2026-10-09 (NOTE-tmpou4pq); worth reading as the paper in which the comparison of experiments is settled in general: for experiments with finitely many states, being at least as informative in every decision problem (Bohnenblust, Shapley and Sherman''s order) and being able to reproduce the other by a stochastic transformation (Blackwell''s 1951 sufficiency, later called garbling) are the same order. The finite-outcome converse is Sherman and Stein''s, re-proved here by a minimax argument; the extension to arbitrary outcome spaces, by martingale convergence, is new. It adds comparison by k-action problems, and shows that for two states testing problems, and so the type I/type II error curves, decide the order.'
 title: 'Equivalent Comparisons of Experiments'
 version: 1
 history:
 - version: 1
   date: '2026-10-09'
   note: >-
-    Registered, not read. Details checked against Crossref (Ann. Math.
+    Read in full on 2026-10-09 (NOTE-tmpou4pq) from the Project Euclid
+    scan (8 page images, no text layer), every theorem and proof
+    followed. Details checked against Crossref (Ann. Math.
     Statist. 24(2):265–272, June 1953). `published:` is 1 June 1953:
     Crossref gives only the month. Not held in the Anthology of the
     SOTA: a grep of its record/ (clone of 2026-10-09, commit 1cffe8f)
@@ -28,11 +30,14 @@ keywords:
 - 'Blackwell order'
 implementations: []
 summary: >-
-  Blackwell (1953), Ann. Math. Statist. 24(2):265–272. The paper behind
-  the Blackwell order: one experiment is at least as informative as
-  another for every decision problem exactly when the other is a
-  garbling of it, i.e. obtainable from it by a further randomisation.
-  Unread.
+  Blackwell (1953), Ann. Math. Statist. 24(2):265–272. Completes the
+  Blackwell order: for finitely many states, one experiment is at least
+  as informative as another for every decision problem exactly when the
+  other is a garbling of it. The easy direction is Blackwell (1951) and
+  the finite converse Sherman and Stein's; this paper re-proves the
+  converse by minimax, extends it to arbitrary outcome spaces by a
+  martingale argument, introduces comparison by k-action problems, and
+  reduces two-state comparison to the type I/type II error trade-off.
 ---
 
 # LIT-tmpsujnn: Equivalent Comparisons of Experiments
@@ -42,15 +47,40 @@ David Blackwell (1953), *The Annals of Mathematical Statistics* 24(2):265–272
 
 ## Key takeaways
 
-*Registered, not read.* Crossref deposits no abstract. Known here by what it
-is standardly cited for: Blackwell's theorem on the comparison of experiments,
-that "more informative for every decision problem" and "the other experiment
-is a garbling (a Markov-kernel post-processing) of this one" coincide, and the
-equivalence of the criteria for that comparison. [LIT-tmpoo2k7](LIT-tmpoo2k7.md) is the
-book-length treatment.
+- **The equivalence, and whose it is.** "More informative" (α ⊃ β:
+  every risk vector attainable with β is attainable with α, for every
+  closed bounded convex set of loss vectors) and "sufficient for" (α ≻ β:
+  a stochastic transformation carries α's distributions to β's under each
+  of the n states) are the same order. Blackwell (1951) had ≻ ⇒ ⊃
+  (Theorem 3 here), and Sherman and Stein the converse for finitely many
+  outcomes. This paper re-proves the finite case as a saddle-point
+  statement about h(D, M) = Trace((Q − PM)D) (Theorem 6) and proves the
+  general case (Theorem 8). The word "garbling" does not occur in it.
+- **How the general case goes.** Both orders reduce to the experiments'
+  standard measures, the laws of the normalised likelihood vector on the
+  simplex (Theorems 1 and 2, quoted from Bohnenblust, Shapley and Sherman
+  and from Blackwell 1951). There ⊃ is the convex order, ≻ is a
+  mean-preserving transformation, and Theorem 8 shows the first implies
+  the second on any bounded subset of ℝⁿ: dyadic approximations on finite
+  sets, the finite theorem, and Doob's martingale convergence.
+- **k-decision problems** (Theorem 9). Restricting to problems with k
+  actions gives a weaker order ≻_k with three equivalent forms: every
+  k-outcome experiment reproducible from β is reproducible from α;
+  inclusion of risk sets over k-point problems; ∫ φ dm_α ≥ ∫ φ dm_β for
+  maxima of k linear functions. ≻_{k+1} implies ≻_k, and ≻_k for every k
+  gives ≻; that each is strictly stronger than the last is cited to
+  unpublished work of Stein.
+- **Dichotomies** (Theorems 10–11). With two states, ≻_2 already gives ≻,
+  so α ≻ β iff α's least type II error at every level is at most β's; and
+  then, since ≻ passes to repeated sampling, at every sample size.
 
 ## Standing in the record
 
 Filed on 2026-10-09 at the owner's request, as one of the works in the
 reference list of the owner's working manuscript (October 2026) that the
 record did not yet hold. See the curation entry of that day.
+
+Read on 2026-10-09 (NOTE-tmpou4pq). The reading is the source of
+THEORY-tmpl07kz, the record's statement of the equivalence and its scope.
+The book-length treatment, with Le Cam's deficiency as the quantitative
+version, is LIT-tmpoo2k7.

@@ -1,13 +1,24 @@
 ---
 status: Deferred
-status_note: 'registered 2026-10-09 from Crossref, not read. Filed from the reference list of the owner''s working manuscript. It stays Deferred until somebody reads it, not on merit.'
+status_note: 'filed 2026-10-09 from Crossref and the publisher''s pages, not read: no lawful full text was reachable. Cambridge Core sells the book and its chapters (OpenAlex: closed access, no repository copy); its public pages carry only the summary and each chapter''s opening paragraph. The Internet Archive copy is lending-only (access-restricted, printdisabled), and HathiTrust has no record for the ISBN. No NOTE is filed. It stays Deferred until a copy is supplied, not on merit.'
 title: 'Comparison of Statistical Experiments'
 version: 1
 history:
 - version: 1
   date: '2026-10-09'
   note: >-
-    Registered, not read. Details checked against Crossref (monograph
+    Filed, not read: no lawful full text was reachable on 2026-10-09.
+    Tried: the Cambridge Core book page (via the DOI) and its chapter
+    pages, which are paywalled and show only the book summary and the
+    opening paragraph of each chapter (read for the preface and
+    the chapter "Deficiencies", pp. 222–328); the contents and front-matter
+    PDFs, which returned an HTML page instead of a PDF; OpenAlex (closed
+    access, no repository full text, locations only the publisher, an
+    EBSCO e-book and a CERN catalogue record); the Internet Archive
+    (identifier comparisonofstat0000torg, access-restricted lending copy
+    in the printdisabled collection); HathiTrust (no record for ISBN
+    0521250307). A paragraph per chapter does not support even a Skimmed
+    NOTE, so none is filed. Details checked against Crossref (monograph
     DOI 10.1017/CBO9780511666353, print 14 March 1991, online 5 May
     2013, ISBNs 9780521250306, 9780521102827 and 9780511666353).
     `published:` is the print date. Not held in the Anthology of the
@@ -34,7 +45,7 @@ summary: >-
   treatment of comparing statistical experiments, from Wald, Blackwell
   and Le Cam: when one experiment is more informative than another, Le
   Cam's deficiency as the measure of the difference, and its relations
-  to sufficiency and randomisation. Unread.
+  to sufficiency and randomisation. Not read: no lawful full text.
 ---
 
 # LIT-tmpoo2k7: Comparison of Statistical Experiments
@@ -44,13 +55,22 @@ DOI-10.1017/CBO9780511666353
 
 ## Key takeaways
 
-*Registered, not read.* From the publisher's description only: the book asks
+*Filed, not read.* From the publisher's description and the public
+chapter openings only: the book asks
 when one experiment yields more information than another, how to measure the
 difference, and how fast information accumulates under repetition. It builds
 on Wald, Blackwell and Le Cam through risk and deficiency, with chapters on
 convex analysis, game and decision theory and vector lattices, and relates
 deficiency to sufficiency, randomisation, distance, ordering, equivalence,
-completeness and convergence. [LIT-tmpsujnn](LIT-tmpsujnn.md) is the 1953 paper it extends.
+completeness and convergence. The preface names the line it collects:
+Blackwell, Bohnenblust, Shapley, Sherman and Stein (1949–1953) for the
+criteria of being more informative, Boll (1955) on invariance, Strassen
+(1965) on the dilation criterion, and Le Cam (1959, 1964) on deficiency,
+which it says has interpretations through pointwise risks, maximum risks,
+performance functions, Bayes risk and randomizations. The opening of the
+chapter on deficiencies calls deficiency "the single most important
+concept in this work". [LIT-tmpsujnn](LIT-tmpsujnn.md) is the 1953 paper it extends,
+read as NOTE-tmpou4pq.
 
 ## Standing in the record
 
