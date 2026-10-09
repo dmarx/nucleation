@@ -36,7 +36,7 @@ summary: >-
 supports:
 - CLAIM-115
 - CLAIM-014
-- CLAIM-tmpkx2sz
+- CLAIM-126
 ---
 <!-- inactive-ok-file: THEORY-161 — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-051 — Superseded; replaced, and cited as the history this entry answers or replaces -->

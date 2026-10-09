@@ -1,6 +1,9 @@
 ---
+number: 653
 status: Read
-paper: 'LIT-tmpyp4ka'
+formerly:
+- NOTE-tmpmiadh
+paper: 'LIT-850'
 title: 'Revisiting Model Stitching to Compare Neural Representations'
 version: 1
 history:
@@ -34,9 +37,9 @@ summary: >-
   it gives is by one task's loss through a fixed head and a restricted map
   class, which is not an ordering by information.
 ---
-<!-- inactive-ok-file: THEORY-tmpn16i4 THEORY-112 THEORY-116 THEORY-156 THEORY-002 THEORY-008 CLAIM-125 CLAIM-050 CLAIM-106 — Proposed; cited as the accounts and claims this reading sits beside, not as settled -->
+<!-- inactive-ok-file: THEORY-176 THEORY-112 THEORY-116 THEORY-156 THEORY-002 THEORY-008 CLAIM-125 CLAIM-050 CLAIM-106 — Proposed; cited as the accounts and claims this reading sits beside, not as settled -->
 
-# NOTE-tmpmiadh: Revisiting Model Stitching to Compare Neural Representations
+# NOTE-653: Revisiting Model Stitching to Compare Neural Representations
 
 ## Contribution
 
@@ -229,7 +232,7 @@ All values are read off plots; none is tabulated in the paper.
 
 ## Bearing on the record
 
-- **It produces [THEORY-tmpn16i4](../theory.d/THEORY-tmpn16i4.md).** The paper's "more is better" is an
+- **It produces [THEORY-176](../theory.d/THEORY-176.md).** The paper's "more is better" is an
   ordering of representations, and the record holds Blackwell's order of
   experiments ([THEORY-156](../theory.d/THEORY-156.md)). The two are different orders. Taking the
   representation r(X) as an experiment about the label Y:

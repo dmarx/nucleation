@@ -1,5 +1,8 @@
 ---
+number: 176
 status: Proposed
+formerly:
+- THEORY-tmpn16i4
 promote_when: >-
   The step that is argued and not shown, that Blackwell-equivalent
   representations can carry different stitching penalties, is measured: two
@@ -23,11 +26,11 @@ tags:
 - mathematical-statistics
 date: '2026-10-09'
 source:
-- LIT-tmpyp4ka
+- LIT-850
 - LIT-781
 - LIT-363
 summary: >-
-  Bansal, Nakkiran & Barak (2021), [LIT-tmpyp4ka](../literature.d/LIT-tmpyp4ka.md), define the stitching
+  Bansal, Nakkiran & Barak (2021), [LIT-850](../literature.d/LIT-850.md), define the stitching
   penalty L_ℓ(r; A) − L(A), with L_ℓ(r; A) the least task loss of A's top
   layers fed r through a map from a simple family S, and use it to call
   one representation better than another. Read against Blackwell (1953),
@@ -38,17 +41,17 @@ summary: >-
   map reproduces the replaced layers exactly. The relations are this
   record's derivations from the paper's definitions, not the paper's.
 supports:
-- CLAIM-tmpkx2sz
+- CLAIM-126
 ---
 <!-- inactive-ok-file: THEORY-156 THEORY-008 THEORY-112 — Proposed; the order this one is compared with, and accounts named in What this does not say, cited as readings, not as settled -->
 
-# THEORY-tmpn16i4: A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced
+# THEORY-176: A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced
 
 ## Source
 
-- Bansal, Nakkiran & Barak (2021), [LIT-tmpyp4ka](../literature.d/LIT-tmpyp4ka.md), §§2–3 (eq. 1, the
+- Bansal, Nakkiran & Barak (2021), [LIT-850](../literature.d/LIT-850.md), §§2–3 (eq. 1, the
   definition of the penalty, and the invariance and asymmetry arguments)
-  and §6 with Figs. 2C and 3B–C, as read in [NOTE-tmpmiadh](../notes.d/NOTE-tmpmiadh.md).
+  and §6 with Figs. 2C and 3B–C, as read in [NOTE-653](../notes.d/NOTE-653.md).
 - Blackwell (1953), [LIT-781](../literature.d/LIT-781.md), as read in [NOTE-595](../notes.d/NOTE-595.md) and stated in
   [THEORY-156](THEORY-156.md), for the order compared against.
 - Lenc & Vedaldi (2014), [LIT-363](../literature.d/LIT-363.md), as read in [NOTE-309](../notes.d/NOTE-309.md), for the identity

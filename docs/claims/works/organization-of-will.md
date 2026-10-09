@@ -6,7 +6,7 @@
 
 **The Organization of Will** — the owner's essay, drafted 2026-10-04 to 2026-10-06: will-organization as the agent-indexed organization of practical efficacy, and why effective will is precarious.
 
-15 of 125 CLAIM documents. Back to the [full index](../README.md).
+15 of 126 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

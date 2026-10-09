@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**493 document(s) awaiting a decision.**
+**496 document(s) awaiting a decision.**
 
 ## LITs
 
-271 of the 493.
+271 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -287,13 +287,13 @@
 
 ## THEORYs
 
-149 of the 493.
+151 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-26 | Proposed | [THEORY-004](../../record/theory.d/THEORY-004.md) | 38 | 26 | A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels |
-| 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 20 | 13 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
-| 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 12 | 10 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation |
+| 2026-09-26 | Proposed | [THEORY-004](../../record/theory.d/THEORY-004.md) | 42 | 26 | A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels |
+| 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 26 | 13 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
+| 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 13 | 10 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 1 | 0 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-003](../../record/theory.d/THEORY-003.md) | 1 | 1 | Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-006](../../record/theory.d/THEORY-006.md) | 1 | 1 | InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size |
@@ -332,6 +332,7 @@
 | 2026-10-03 | Proposed | [THEORY-100](../../record/theory.d/THEORY-100.md) | 16 | 0 | A neural correlate of conscious report does not require laminar cortex: in crows it is carried by the nidopallium caudolaterale, a nuclear pallial region whose neurons follow the reported percept rather than the stimulus |
 | 2026-10-03 | Proposed | [THEORY-044](../../record/theory.d/THEORY-044.md) | 15 | 0 | In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content |
 | 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 15 | 0 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
+| 2026-10-03 | Proposed | [THEORY-112](../../record/theory.d/THEORY-112.md) | 15 | 0 | Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth |
 | 2026-10-03 | Proposed | [THEORY-122](../../record/theory.d/THEORY-122.md) | 14 | 0 | Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 12 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
 | 2026-10-03 | Proposed | [THEORY-117](../../record/theory.d/THEORY-117.md) | 12 | 12 | Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one |
@@ -354,7 +355,6 @@
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 7 | 0 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
 | 2026-10-03 | Proposed | [THEORY-069](../../record/theory.d/THEORY-069.md) | 7 | 0 | Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning |
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 7 | 0 | How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control |
-| 2026-10-03 | Proposed | [THEORY-112](../../record/theory.d/THEORY-112.md) | 7 | 0 | Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth |
 | 2026-10-03 | Proposed | [THEORY-048](../../record/theory.d/THEORY-048.md) | 6 | 0 | In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them |
 | 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 6 | 0 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
 | 2026-10-03 | Proposed | [THEORY-062](../../record/theory.d/THEORY-062.md) | 6 | 0 | Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system |
@@ -363,6 +363,7 @@
 | 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 6 | 0 | Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom |
 | 2026-10-03 | Proposed | [THEORY-114](../../record/theory.d/THEORY-114.md) | 6 | 0 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 5 | 0 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
+| 2026-10-03 | Proposed | [THEORY-116](../../record/theory.d/THEORY-116.md) | 5 | 0 | A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms |
 | 2026-10-03 | Proposed | [THEORY-084](../../record/theory.d/THEORY-084.md) | 4 | 0 | Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 4 | 0 | Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced |
 | 2026-10-03 | Proposed | [THEORY-109](../../record/theory.d/THEORY-109.md) | 4 | 0 | The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum |
@@ -379,7 +380,6 @@
 | 2026-10-03 | Proposed | [THEORY-095](../../record/theory.d/THEORY-095.md) | 2 | 0 | Phenomenal character is not fixed by long-arm functional role or by externally individuated representational content: on Inverted Earth it stays the same while both invert, so only internal accounts, short-arm functional or physical, remain open |
 | 2026-10-03 | Proposed | [THEORY-107](../../record/theory.d/THEORY-107.md) | 2 | 0 | Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign |
 | 2026-10-03 | Proposed | [THEORY-111](../../record/theory.d/THEORY-111.md) | 2 | 0 | Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features |
-| 2026-10-03 | Proposed | [THEORY-116](../../record/theory.d/THEORY-116.md) | 2 | 0 | A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms |
 | 2026-10-03 | Proposed | [THEORY-085](../../record/theory.d/THEORY-085.md) | 1 | 0 | A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors |
 | 2026-10-03 | Proposed | [THEORY-088](../../record/theory.d/THEORY-088.md) | 1 | 0 | Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same |
 | 2026-10-03 | Proposed | [THEORY-097](../../record/theory.d/THEORY-097.md) | 1 | 0 | Long-range coordination in the human forebrain is carried by brief ripples that co-occur at distant sites: during them neurons co-fire more whatever the distance between them, and at retrieval they carry stimulus-specific reinstatement of encoding co-firing |
@@ -421,9 +421,9 @@
 | 2026-10-05 | Proposed | [THEORY-153](../../record/theory.d/THEORY-153.md) | 3 | 0 | A system can keep its identity independently within a shared environment only if it has five interacting subsystems, the first made of elements that are themselves viable systems, so that the structure recurs at every level of recursion; when one is missing or fails, the system degrades in characteristic ways, and without the subsystem for foresight the subsystems for operational control and for identity collapse into each other, leaving a system that can only react |
 | 2026-10-05 | Proposed | [THEORY-137](../../record/theory.d/THEORY-137.md) | 2 | 0 | Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds |
 | 2026-10-09 | Proposed | [THEORY-155](../../record/theory.d/THEORY-155.md) | 21 | 1 | Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior |
+| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 19 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-171](../../record/theory.d/THEORY-171.md) | 13 | 2 | When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 13 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
-| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 10 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 10 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 8 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
 | 2026-10-09 | Proposed | [THEORY-162](../../record/theory.d/THEORY-162.md) | 8 | 2 | What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about |
@@ -433,17 +433,19 @@
 | 2026-10-09 | Proposed | [THEORY-168](../../record/theory.d/THEORY-168.md) | 7 | 0 | In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included |
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 6 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
 | 2026-10-09 | Proposed | [THEORY-169](../../record/theory.d/THEORY-169.md) | 6 | 0 | In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind |
+| 2026-10-09 | Proposed | [THEORY-176](../../record/theory.d/THEORY-176.md) | 5 | 0 | A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 4 | 3 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 4 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 4 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
 | 2026-10-09 | Proposed | [THEORY-160](../../record/theory.d/THEORY-160.md) | 3 | 0 | In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem's content lies in identifying observables with generators |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 3 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
 | 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 3 | 1 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
+| 2026-10-09 | Proposed | [THEORY-175](../../record/theory.d/THEORY-175.md) | 3 | 0 | Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 2 | 0 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 
 ## QUESTIONs
 
-4 of the 493.
+4 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -454,7 +456,7 @@
 
 ## CLAIMs
 
-64 of the 493.
+65 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -486,12 +488,12 @@
 | 2026-10-08 | Proposed | [CLAIM-042](../../record/claims.d/CLAIM-042.md) | 4 | 0 | Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels |
 | 2026-10-08 | Proposed | [CLAIM-046](../../record/claims.d/CLAIM-046.md) | 4 | 0 | Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed |
 | 2026-10-08 | Proposed | [CLAIM-074](../../record/claims.d/CLAIM-074.md) | 4 | 0 | Fidelity is relative to the interpreter's learning history: a frame given in context is transient while an adaptation to it persists, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities |
+| 2026-10-08 | Proposed | [CLAIM-106](../../record/claims.d/CLAIM-106.md) | 4 | 0 | Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit |
 | 2026-10-08 | Proposed | [CLAIM-005](../../record/claims.d/CLAIM-005.md) | 3 | 0 | Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector |
 | 2026-10-08 | Proposed | [CLAIM-077](../../record/claims.d/CLAIM-077.md) | 3 | 0 | A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction |
 | 2026-10-08 | Proposed | [CLAIM-087](../../record/claims.d/CLAIM-087.md) | 3 | 0 | Cross-modal reconstruction can improve access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text's literal content |
 | 2026-10-08 | Proposed | [CLAIM-091](../../record/claims.d/CLAIM-091.md) | 3 | 0 | A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity |
 | 2026-10-08 | Proposed | [CLAIM-095](../../record/claims.d/CLAIM-095.md) | 3 | 0 | Anticipated objections are better met by precise definitions, constructions and results than by hedges |
-| 2026-10-08 | Proposed | [CLAIM-106](../../record/claims.d/CLAIM-106.md) | 3 | 0 | Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit |
 | 2026-10-08 | Proposed | [CLAIM-113](../../record/claims.d/CLAIM-113.md) | 3 | 0 | Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant |
 | 2026-10-08 | Proposed | [CLAIM-014](../../record/claims.d/CLAIM-014.md) | 2 | 0 | Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them |
 | 2026-10-08 | Proposed | [CLAIM-029](../../record/claims.d/CLAIM-029.md) | 2 | 0 | A language model's response to a context is functionally a parameterized pragmatic frame |
@@ -514,18 +516,19 @@
 | 2026-10-08 | Proposed | [CLAIM-103](../../record/claims.d/CLAIM-103.md) | 0 | 0 | Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed |
 | 2026-10-08 | Proposed | [CLAIM-111](../../record/claims.d/CLAIM-111.md) | 0 | 0 | A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence |
 | 2026-10-09 | Proposed | [CLAIM-115](../../record/claims.d/CLAIM-115.md) | 13 | 1 | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition |
+| 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 11 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
+| 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 10 | 0 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 7 | 0 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
-| 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 7 | 0 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 6 | 0 | In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state |
+| 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 5 | 0 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
 | 2026-10-09 | Proposed | [CLAIM-107](../../record/claims.d/CLAIM-107.md) | 5 | 0 | A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 3 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
-| 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 3 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
-| 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 2 | 0 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
 | 2026-10-09 | Proposed | [CLAIM-090](../../record/claims.d/CLAIM-090.md) | 1 | 0 | Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable |
+| 2026-10-09 | Proposed | [CLAIM-126](../../record/claims.d/CLAIM-126.md) | 0 | 0 | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency |
 
 ## CASEs
 
-1 of the 493.
+1 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -533,7 +536,7 @@
 
 ## TERMs
 
-2 of the 493.
+2 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -542,7 +545,7 @@
 
 ## ARGs
 
-2 of the 493.
+2 of the 496.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -553,4 +556,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (40): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-106](../../record/theory.d/THEORY-106.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-002](../../record/claims.d/CLAIM-002.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-033](../../record/claims.d/CLAIM-033.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-078](../../record/claims.d/CLAIM-078.md), [CLAIM-092](../../record/claims.d/CLAIM-092.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-111](../../record/claims.d/CLAIM-111.md), [LIT-840](../../record/literature.d/LIT-840.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (41): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [LIT-534](../../record/literature.d/LIT-534.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-106](../../record/theory.d/THEORY-106.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-002](../../record/claims.d/CLAIM-002.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-033](../../record/claims.d/CLAIM-033.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-078](../../record/claims.d/CLAIM-078.md), [CLAIM-092](../../record/claims.d/CLAIM-092.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-111](../../record/claims.d/CLAIM-111.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [LIT-840](../../record/literature.d/LIT-840.md) — these are the cheapest to close, since nothing depends on the answer.

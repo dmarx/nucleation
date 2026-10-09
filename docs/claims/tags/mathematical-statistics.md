@@ -6,9 +6,10 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-2 of 125 CLAIM documents. Back to the [full index](../README.md).
+3 of 126 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-014](../../../record/claims.d/CLAIM-014.md) | Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them | A93 §5, recovered: "could become one of the manuscript's distinctive theoretical integrations." Krifka was in C6's references and A93's priority list (ninth) and is absent from the manuscript and the record. | Proposed |
 | [CLAIM-050](../../../record/claims.d/CLAIM-050.md) | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise | The manuscript's §5: rate–distortion makes coding cost explicit, Blackwell comparison (restricted to a family Q of communicative decision problems) makes fidelity operational, and decoder side information is a Wyner–Ziv problem. | Proposed |
+| [CLAIM-126](../../../record/claims.d/CLAIM-126.md) | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency | Proposed by the record on 2026-10-09 as an operational handle on the decision-relevant half of [CLAIM-125](../../../record/claims.d/CLAIM-125.md), and qualified by the reading of Bansal, Nakkiran & Barak before it was filed: only reconstruction-fitted stitching certifies sufficiency, and only within the map class. | Proposed |

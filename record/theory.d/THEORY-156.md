@@ -30,7 +30,7 @@ summary: >-
 supports:
 - CLAIM-050
 - CLAIM-125
-- CLAIM-tmpkx2sz
+- CLAIM-126
 ---
 
 # THEORY-156: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation

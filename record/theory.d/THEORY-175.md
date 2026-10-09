@@ -1,5 +1,8 @@
 ---
+number: 175
 status: Proposed
+formerly:
+- THEORY-tmpcgnsc
 promote_when: >-
   A direct measurement of the maps between independently trained latent
   spaces, on the encoders and data where anchor-based transfer has been
@@ -22,10 +25,10 @@ tags:
 - anthology-candidate
 date: '2026-10-09'
 source:
-- LIT-tmp0zt5l
+- LIT-849
 summary: >-
-  Moschella et al. (2022; ICLR 2023), [LIT-tmp0zt5l](../literature.d/LIT-tmp0zt5l.md), as read in
-  [NOTE-tmp54kkt](../notes.d/NOTE-tmp54kkt.md). The invariance is by construction; its exact class
+  Moschella et al. (2022; ICLR 2023), [LIT-849](../literature.d/LIT-849.md), as read in
+  [NOTE-652](../notes.d/NOTE-652.md). The invariance is by construction; its exact class
   (every cosine-preserving map, including per-sample positive rescaling,
   but no translation and no general linear map) is the reader's
   statement. The approximate agreement is the paper's evidence: relative
@@ -34,16 +37,16 @@ summary: >-
   trained spaces are isometries, which the source never measures, nor
   that the transfer needs no paired data: the anchors are paired data.
 supports:
-- CLAIM-tmpkx2sz
+- CLAIM-126
 ---
 <!-- inactive-ok-file: THEORY-004 THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
 
-# THEORY-tmpcgnsc: Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ
+# THEORY-175: Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ
 
 ## Source
 
 Moschella, Maiorca, Fumero, Norelli, Locatello & Rodolà (2022; ICLR 2023),
-[LIT-tmp0zt5l](../literature.d/LIT-tmp0zt5l.md), read in [NOTE-tmp54kkt](../notes.d/NOTE-tmp54kkt.md): §3.1 (eqs 2–4), §§4.1, 5.1–5.3,
+[LIT-849](../literature.d/LIT-849.md), read in [NOTE-652](../notes.d/NOTE-652.md): §3.1 (eqs 2–4), §§4.1, 5.1–5.3,
 Tables 1, 3–8 and 15–18.
 
 ## What was actually shown

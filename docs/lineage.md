@@ -2,7 +2,7 @@
 
 # Lines of work
 
-52 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+53 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -76,6 +76,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
+### From Understanding image representations by measuring their equivariance and equivalence
+
+- [LIT-363](../record/literature.d/LIT-363.md) — Understanding image representations by measuring their equivariance and equivalence *(Active)*
+  - [LIT-850](../record/literature.d/LIT-850.md) — Revisiting Model Stitching to Compare Neural Representations *(Active)*
 
 ### From Natural Gradient Works Efficiently in Learning
 
@@ -781,6 +786,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+### From Understanding image representations by measuring their equivariance and equivalence
+
+- [LIT-363](../record/literature.d/LIT-363.md) — Understanding image representations by measuring their equivariance and equivalence *(Active)*
+  - [LIT-850](../record/literature.d/LIT-850.md) — Revisiting Model Stitching to Compare Neural Representations *(Active)*
 
 ### From The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
 

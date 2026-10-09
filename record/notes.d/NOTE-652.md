@@ -1,6 +1,9 @@
 ---
+number: 652
 status: Read
-paper: 'LIT-tmp0zt5l'
+formerly:
+- NOTE-tmp54kkt
+paper: 'LIT-849'
 title: 'Relative representations enable zero-shot latent space communication'
 version: 1
 history:
@@ -29,9 +32,9 @@ summary: >-
   by an angle-preserving map is never tested directly, and the evidence
   supports it only approximately.
 ---
-<!-- inactive-ok-file: THEORY-tmpcgnsc THEORY-004 THEORY-008 THEORY-112 CLAIM-125 CLAIM-082 — Proposed; cited as the accounts and claims this reading bears on, not as settled -->
+<!-- inactive-ok-file: THEORY-175 THEORY-004 THEORY-008 THEORY-112 CLAIM-125 CLAIM-082 — Proposed; cited as the accounts and claims this reading bears on, not as settled -->
 
-# NOTE-tmp54kkt: Relative representations enable zero-shot latent space communication
+# NOTE-652: Relative representations enable zero-shot latent space communication
 
 ## Contribution
 
@@ -209,7 +212,7 @@ near-isometry.
 
 ## Bearing on the record
 
-- **The invariance, made exact (my derivation, filed as [THEORY-tmpcgnsc](../theory.d/THEORY-tmpcgnsc.md)).**
+- **The invariance, made exact (my derivation, filed as [THEORY-175](../theory.d/THEORY-175.md)).**
   The paper's class "angle-preserving" can be stated exactly. r_x is
   unchanged by a map f of the latent space exactly when cos(f(u), f(v)) =
   cos(u, v) for every sample u and anchor v. Any per-sample positive

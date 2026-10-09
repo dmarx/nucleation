@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**168 documents cited without acknowledgement.** Not listed: 3339 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**168 documents cited without acknowledgement.** Not listed: 3393 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -152,7 +152,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-26 citations in 17 files await a look; 12 other citations of it are acknowledged.
+26 citations in 17 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -260,7 +260,7 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
-13 citations in 10 files await a look; 7 other citations of it are acknowledged.
+13 citations in 10 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -429,7 +429,7 @@ Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation
 
-10 citations in 3 files await a look; 2 other citations of it are acknowledged.
+10 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
@@ -899,11 +899,11 @@ Comparison of Statistical Experiments
 
 5 citations in 5 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:51`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:52`](../../record/claims.d/CLAIM-050.md)
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
 - [`record/literature.d/LIT-781.md:91`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
-- [`record/theory.d/THEORY-156.md:72`](../../record/theory.d/THEORY-156.md)
+- [`record/theory.d/THEORY-156.md:73`](../../record/theory.d/THEORY-156.md)
 
 ### [NOTE-601](../../record/notes.d/NOTE-601.md) — Skimmed
 
@@ -1366,7 +1366,7 @@ The rate-distortion function for source coding with side information at the deco
 
 2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:53`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:54`](../../record/claims.d/CLAIM-050.md)
 - [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
 
 ### [LIT-775](../../record/literature.d/LIT-775.md) — Deferred
@@ -1436,7 +1436,7 @@ A higher-level property is a cause in its own right, and its realizer is not, ex
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look; 8 other citations of it are acknowledged.
+2 citations in 2 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
@@ -1999,7 +1999,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-041.md:38: annotation no longer applies — nothing in scope cites ARG-002
 - record/claims.d/CLAIM-042.md:37: annotation no longer applies — nothing in scope cites CLAIM-008, TERM-022
 - record/claims.d/CLAIM-043.md:23: annotation no longer applies — nothing in scope cites CLAIM-038
-- record/claims.d/CLAIM-050.md:41: annotation no longer applies — nothing in scope cites CLAIM-051
+- record/claims.d/CLAIM-050.md:42: annotation no longer applies — nothing in scope cites CLAIM-051
 - record/claims.d/CLAIM-052.md:32: annotation no longer applies — nothing in scope cites CLAIM-073
 - record/claims.d/CLAIM-054.md:30: annotation no longer applies — nothing in scope cites CLAIM-061, CLAIM-064
 - record/claims.d/CLAIM-064.md:29: annotation no longer applies — nothing in scope cites TERM-035

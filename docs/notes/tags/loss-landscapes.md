@@ -4,7 +4,7 @@
 
 **loss-landscapes**.
 
-28 of 651 NOTE documents. Back to the [full index](../README.md).
+29 of 653 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -36,3 +36,4 @@
 | [NOTE-542](../../../record/notes.d/NOTE-542.md) | Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior | VSDL model: f = f(x; α, τ), α = m_eff/N lowered by label noise, τ raised by early stopping. Thermodynamic limit m, N → ∞ with α = m/N fixed. Continuous perceptron: s(ε) ~ ln ε, so 1/ε − α = 0 gives ε ~ 1/α (Eqs. 6–8). Ising perceptron: s(ε) ~ −(π²/2)ε² ln ε, and −π²ε ln ε = α has no solution for large α, so ε falls discontinuously to 0 at αc (Eqs. 9–13). Rigorous bound: error ≤ ε* + ε_τ, ε* the rightmost crossing of s(ε) and −α log(1 − ε) (Eqs. 14–18). No new theorem, no experiment. | Read |
 | [NOTE-543](../../../record/notes.d/NOTE-543.md) | Proving Linear Mode Connectivity of Neural Networks via Optimal Transport | Layerwise neuron alignment equals a Wasserstein distance between empirical weight distributions (Birkhoff), so LMC modulo permutation follows when neuron weights are i.i.d. and layers are wide: for mean-field two-layer SGD (Theorem 3.1), and for deep Gaussian or sub-Gaussian nets with m̃_ℓ = Õ((T_ℓ/ε)^{m̃_{ℓ−1}}) (Theorem 5.2), tight by Theorem 5.3. Low-dimensional weights relax this (Theorem 5.4). | Read |
 | [NOTE-544](../../../record/notes.d/NOTE-544.md) | Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets | ε-dropout-stable ReLU nets are ε-connected by a piecewise-linear path (Theorem 1); ε-noise-stable nets by 10 segments with barrier Õ(ε) (Theorem 2), or 13 through a narrow low-loss net (Theorem 3). For any width there is a teacher dataset on which a two-layer student's global minima are disconnected (Theorem 4). MNIST convnets and a VGG-11 on CIFAR-10 satisfy the conditions roughly. | Read |
+| [NOTE-653](../../../record/notes.d/NOTE-653.md) | Revisiting Model Stitching to Compare Neural Representations | An empirical paper with no theorems. It defines the stitching penalty, the change in a top network's test error when its bottom ℓ layers are replaced by another representation through a trained 1×1 convolution, and uses it to show, in single runs mostly on CIFAR-10, that networks from different seeds, and supervised and self-supervised ImageNet networks, are interchangeable layer by layer where CKA calls them different, and that a bottom trained on more data improves a weaker top. The ordering it gives is by one task's loss through a fixed head and a restricted map class, which is not an ordering by information. | Read |

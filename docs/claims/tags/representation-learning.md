@@ -6,7 +6,7 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-9 of 125 CLAIM documents. Back to the [full index](../README.md).
+10 of 126 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -19,3 +19,4 @@
 | [CLAIM-085](../../../record/claims.d/CLAIM-085.md) | A framing effect in a language model is a property of that model under those prompts: generating and judging with one model measures its preferences, and what a translation ought to preserve needs criteria the model cannot supply | A45 §8–9 and A48 §8.5, recovered. Both limbs went in the de-hedging after U19, though neither is a hedge: one is a design constraint, the other a distinction between normative and descriptive fidelity. The manuscript keeps part of the remedy and neither argument. | Active |
 | [CLAIM-111](../../../record/claims.d/CLAIM-111.md) | A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence | A45 §6, recovered: fidelity as P_o(z \| c_o, u_o) ≈ P_t(τ_z(z) \| c_t, u_t), "an interesting middle position between our original relativistic account and the later dynamical account". Dropped at outline v3 without critique. | Proposed |
 | [CLAIM-118](../../../record/claims.d/CLAIM-118.md) | Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter | A43's first point about the U17 proposal, developed at A44–A45 into three sources of change (evidence, transient computation, parameters). The manuscript §5 keeps it in two sentences. | Proposed |
+| [CLAIM-126](../../../record/claims.d/CLAIM-126.md) | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency | Proposed by the record on 2026-10-09 as an operational handle on the decision-relevant half of [CLAIM-125](../../../record/claims.d/CLAIM-125.md), and qualified by the reading of Bansal, Nakkiran & Barak before it was filed: only reconstruction-fitted stitching certifies sufficiency, and only within the map class. | Proposed |

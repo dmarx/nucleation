@@ -6,7 +6,7 @@
 
 **Narrative unity** — the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024).
 
-8 of 848 LIT documents. Back to the [full index](../README.md).
+8 of 850 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
