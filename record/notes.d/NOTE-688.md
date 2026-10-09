@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp0n4ni
 paper: 'LIT-887'
 title: 'Why does deep and cheap learning work so well?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -27,6 +27,13 @@ history:
     was read in full; and the relevant passages of LIT-882 (NOTE-683) and
     LIT-873 (NOTE-674) were taken from those readings. The publisher's
     typeset text was not read.
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Corrected: the formula for the trace under the counterexample was
+    attributed to Schwab and Mehta's comment; the comment says only that
+    the trace is non-constant, and the formula is this reading's. The
+    comment is now held as LIT-tmp8t5lj (NOTE-tmpgcp7r).
 date: '2026-10-09'
 summary: >-
   Argues that cheap networks suffice because physical data have low-order,
@@ -208,8 +215,9 @@ held.
   agrees that preserving the free energy does not recover the
   distribution, says they "never claimed otherwise", calls the "if and
   only if" of their Eq. 8 a typo, and shows that the counterexample
-  violates the trace condition Tr_h e^{T(v,h)} = 1, since there
-  Tr_{y′} e^T = Z e^{−K(y)}/Z̃ is not constant. So it does not touch their
+  violates the trace condition Tr_h e^{T(v,h)} = 1, which it says is
+  non-constant there (by this reading's computation, Tr_{y′} e^T =
+  Z e^{−K(y)}/Z̃). So it does not touch their
   Eq. 22.
 - **v2 (28 September 2016)** keeps the counterexample, records the
   response, and adds the point that matters: even the trace condition is
