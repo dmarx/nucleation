@@ -1,5 +1,8 @@
 ---
+number: 205
 status: Proposed
+formerly:
+- THEORY-tmpne099
 promote_when: >-
   A second reading that checks the derivation independently and states its
   scope as here, for instance an exact transfer-matrix computation on a
@@ -19,25 +22,25 @@ tags:
 - information-theory
 date: '2026-10-09'
 source:
-- LIT-tmp6shyv
+- LIT-885
 summary: >-
-  Gordon, Banerjee, Koch-Janusz and Ringel (2020), [LIT-tmp6shyv](../literature.d/LIT-tmp6shyv.md), Eqs.
+  Gordon, Banerjee, Koch-Janusz and Ringel (2020), [LIT-885](../literature.d/LIT-885.md), Eqs.
   3–5 and B2–C11, with one numerical check on a three-site critical
-  Ising cylinder, reproduced exactly in [NOTE-tmpbm8lu](../notes.d/NOTE-tmpbm8lu.md). The theorem holds
+  Ising cylinder, reproduced exactly in [NOTE-690](../notes.d/NOTE-690.md). The theorem holds
   for slabs of a cylinder at the first IB transition; the paper's
   "equivalence" of IB and RG relevance, and [LIT-878](../literature.d/LIT-878.md)'s use of it for RSMI
   filters on planar blocks, go beyond it.
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-198 THEORY-161 QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
 
-# THEORY-tmpne099: For a short-range lattice model on a cylinder, with block and environment as slabs separated by a buffer, the information-bottleneck encoder at its first transition depends on the block only through the boundary weak value of the leading transfer-matrix eigenvector, at β_c = (λ0/λ1)^(2L_B): at large circumference this is the lowest-dimension primary, so the first feature information-theoretic relevance selects is the most RG-relevant operator; nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum
+# THEORY-205: For a short-range lattice model on a cylinder, with block and environment as slabs separated by a buffer, the information-bottleneck encoder at its first transition depends on the block only through the boundary weak value of the leading transfer-matrix eigenvector, at β_c = (λ0/λ1)^(2L_B): at large circumference this is the lowest-dimension primary, so the first feature information-theoretic relevance selects is the most RG-relevant operator; nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum
 
 ## Source
 
 Gordon, Banerjee, Koch-Janusz and Ringel (2020; Phys. Rev. Lett. 126,
-240601, 2021), [LIT-tmp6shyv](../literature.d/LIT-tmp6shyv.md): main text Eqs. 3–5 and Fig. 3; Appendix B
+240601, 2021), [LIT-885](../literature.d/LIT-885.md): main text Eqs. 3–5 and Fig. 3; Appendix B
 (Eqs. B1–B9), Appendix C (Eqs. C1–C11), Appendix F; as read in
-[NOTE-tmpbm8lu](../notes.d/NOTE-tmpbm8lu.md).
+[NOTE-690](../notes.d/NOTE-690.md).
 
 ## What was actually shown
 
@@ -60,7 +63,7 @@ exp(−2π∆_i/L), so r_v belongs to the lowest-dimension primary.
 circumference 3, an iterative IB solver given the exact joint law could
 have found its transition elsewhere, or an encoder not following the
 boundary spins. It found 146.340 < β_c < 146.350 against a predicted
-146.34458, and the predicted encoder. [NOTE-tmpbm8lu](../notes.d/NOTE-tmpbm8lu.md) reproduces the
+146.34458, and the predicted encoder. [NOTE-690](../notes.d/NOTE-690.md) reproduces the
 prediction exactly from the singular values of the normalized
 block–environment channel, and notes that in this geometry the reduction
 is exact rather than leading-order: the Markov property along the
@@ -75,7 +78,7 @@ cylinder makes P(v, e) a sum of rank-one terms with weights
 - **Not that RSMI filters are the most relevant operators.** RSMI
   ([LIT-873](../literature.d/LIT-873.md), [LIT-878](../literature.d/LIT-878.md)) maximizes I(H;E) at a fixed alphabet, which the
   paper calls the β → ∞ limit of IB without analysing it, and its blocks
-  are planar squares inside a buffer shell, not slabs. [NOTE-tmpbm8lu](../notes.d/NOTE-tmpbm8lu.md)
+  are planar squares inside a buffer shell, not slabs. [NOTE-690](../notes.d/NOTE-690.md)
   sketches a leading-order argument that closes the first gap in the slab
   geometry; the second is open.
 - **Not dependent on criticality**, except for the reading. At any

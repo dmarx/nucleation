@@ -23,9 +23,9 @@ history:
   date: '2026-10-09'
   note: >-
     Corrected: the free-energy point was called the reader's alone. Lin,
-    Tegmark & Rolnick's v2 appendix (LIT-tmpmjd1d, read in NOTE-tmp0n4ni)
+    Tegmark & Rolnick's v2 appendix (LIT-887, read in NOTE-688)
     makes it in substance, and Mehta & Schwab conceded Eq. 8's "iff" as a
-    typo in their comment (arXiv 1609.03541). LIT-tmpmjd1d joins the
+    typo in their comment (arXiv 1609.03541). LIT-887 joins the
     sources. The claim is unchanged.
 tags:
 - natural-sciences
@@ -34,7 +34,7 @@ date: '2026-10-09'
 source:
 - LIT-882
 - LIT-873
-- LIT-tmpmjd1d
+- LIT-887
 summary: >-
   Mehta and Schwab (2014), [LIT-882](../literature.d/LIT-882.md), Eqs. 18–22: setting the RG
   kernel T = −E + H makes the RG coarse Hamiltonian equal the RBM's
@@ -44,7 +44,7 @@ summary: >-
   Koch-Janusz and Ringel ([LIT-873](../literature.d/LIT-873.md)) give a case where distribution fitting
   keeps the wrong variables. The free-energy part of the argument was
   derived independently here; Lin, Tegmark and Rolnick's v2 appendix makes
-  it in substance (LIT-tmpmjd1d).
+  it in substance (LIT-887).
 ---
 <!-- inactive-ok-file: THEORY-194 — Proposed; cited as the empirical counterpart from LIT-873 -->
 
@@ -82,7 +82,7 @@ equates ΔF = 0 with the pointwise exactness condition, is too strong:
 ΔF = 0 says only that the condition holds on average under the data. Mehta
 and Schwab conceded the "⟺" as a typo in their comment on Lin and Tegmark
 (arXiv 1609.03541), and Lin and Tegmark's v2 appendix makes the
-normalization point in substance ([LIT-tmpmjd1d](../literature.d/LIT-tmpmjd1d.md), [NOTE-tmp0n4ni](../notes.d/NOTE-tmp0n4ni.md)).
+normalization point in substance ([LIT-887](../literature.d/LIT-887.md), [NOTE-688](../notes.d/NOTE-688.md)).
 
 **The counterexample.** [LIT-873](../literature.d/LIT-873.md) trains an RBM by contrastive divergence
 on fully packed dimers with added decoupled spin pairs; it spends its

@@ -1,6 +1,9 @@
 ---
+number: 690
 status: Read
-paper: 'LIT-tmp6shyv'
+formerly:
+- NOTE-tmpbm8lu
+paper: 'LIT-885'
 title: 'Relevance in the Renormalization Group and in Information Theory'
 version: 1
 history:
@@ -41,9 +44,9 @@ summary: >-
   cylinder. It does not cover the planar block-in-a-shell geometry or
   the fixed-alphabet β → ∞ limit that RSMI uses, which [LIT-878](../literature.d/LIT-878.md) relies on.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-198 THEORY-197 THEORY-161 THEORY-017 THEORY-tmpne099 QUESTION-025 CLAIM-092 — Proposed or open; cited as accounts this reading underpins or is set beside, the account it produced, and the question and claim it does not answer -->
+<!-- inactive-ok-file: THEORY-194 THEORY-198 THEORY-197 THEORY-161 THEORY-017 THEORY-205 QUESTION-025 CLAIM-092 — Proposed or open; cited as accounts this reading underpins or is set beside, the account it produced, and the question and claim it does not answer -->
 
-# NOTE-tmpbm8lu: Relevance in the Renormalization Group and in Information Theory
+# NOTE-690: Relevance in the Renormalization Group and in Information Theory
 
 ## Contribution
 
@@ -231,7 +234,7 @@ Apenko, Machta et al., Bény and Osborne), none of them held here.
   dimensions. This paper is a proof about relevant operators, not about
   short-ranged effective Hamiltonians, and for slabs of a cylinder, not
   for blocks, so it does not meet that clause. It is the formal
-  counterpart of [THEORY-194](../theory.d/THEORY-194.md)'s operator claim, filed as [THEORY-tmpne099](../theory.d/THEORY-tmpne099.md).
+  counterpart of [THEORY-194](../theory.d/THEORY-194.md)'s operator claim, filed as [THEORY-205](../theory.d/THEORY-205.md).
 - **[THEORY-198](../theory.d/THEORY-198.md).** Different statement: [LIT-881](../literature.d/LIT-881.md) proves that full capture
   of the block's information keeps the Hamiltonian short-ranged; this
   paper says which single feature a minimal capture takes. They do not

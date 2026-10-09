@@ -1,6 +1,9 @@
 ---
+number: 689
 status: Read
-paper: 'LIT-tmpqozw7'
+formerly:
+- NOTE-tmp24x8p
+paper: 'LIT-888'
 title: 'Deriving neural scaling laws from language statistics'
 version: 1
 history:
@@ -31,9 +34,9 @@ summary: >-
   WikiText-103 transformers match the predicted exponents up to about 10^8
   tokens and horizons of a few tens of tokens.
 ---
-<!-- inactive-ok-file: THEORY-tmpi172b QUESTION-025 THEORY-201 THEORY-195 THEORY-182 THEORY-183 THEORY-186 CLAIM-008 — Proposed or open; cited as what this reading bears on or produced -->
+<!-- inactive-ok-file: THEORY-204 QUESTION-025 THEORY-201 THEORY-195 THEORY-182 THEORY-183 THEORY-186 CLAIM-008 — Proposed or open; cited as what this reading bears on or produced -->
 
-# NOTE-tmp24x8p: Deriving neural scaling laws from language statistics
+# NOTE-689: Deriving neural scaling laws from language statistics
 
 ## Contribution
 
@@ -211,7 +214,7 @@ old envelope, and [LIT-883](../literature.d/LIT-883.md)'s steps are what its ans
   discrete stages, only a horizon growing continuously with P.
 - **[CLAIM-008](../claims.d/CLAIM-008.md), and the manuscript's argument.** No bearing found. The paper
   says nothing of latents, meaning or translation.
-- **New account.** [THEORY-tmpi172b](../theory.d/THEORY-tmpi172b.md), Proposed: the data-limited exponent as
+- **New account.** [THEORY-204](../theory.d/THEORY-204.md), Proposed: the data-limited exponent as
   γ/(2β) under the fast-learning condition, with what it does not say.
 - **Practice.** The paper gives no instruction, but its subject, what sets
   the exponent of data-scaling laws, is named in the anthology's

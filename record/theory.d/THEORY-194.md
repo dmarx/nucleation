@@ -34,11 +34,11 @@ history:
   date: '2026-10-09'
   note: >-
     Two further sources: Gordon, Banerjee, Koch-Janusz & Ringel 2021
-    (LIT-tmp6shyv, read in NOTE-tmpbm8lu), which proves that near the
+    (LIT-885, read in NOTE-690), which proves that near the
     first information-bottleneck transition the optimal encoder of a slab
     follows the leading transfer-matrix mode, the relevant operator at
     criticality, though not for a block in a buffer shell nor for the RSMI
-    optimum; and Gökmen et al. 2021 (LIT-tmpz9jtw, read in NOTE-tmpu0mur),
+    optimum; and Gökmen et al. 2021 (LIT-889, read in NOTE-692),
     the 2D Ising results and the ensemble of optimal filters. Neither meets
     promote_when. The claim is unchanged.
 tags:
@@ -50,8 +50,8 @@ source:
 - LIT-873
 - LIT-881
 - LIT-878
-- LIT-tmp6shyv
-- LIT-tmpz9jtw
+- LIT-885
+- LIT-889
 summary: >-
   Koch-Janusz and Ringel (2017), [LIT-873](../literature.d/LIT-873.md): shown numerically on two
   2D lattice models whose relevant variables were known (Ising block

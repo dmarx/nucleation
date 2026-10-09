@@ -1,5 +1,8 @@
 ---
+number: 202
 status: Proposed
+formerly:
+- THEORY-tmp5vljo
 promote_when: >-
   A treatment of variational renormalization, read and checked, that
   states a further condition under which a coarse-graining counts as a
@@ -20,10 +23,10 @@ tags:
 - representation-learning
 date: '2026-10-09'
 source:
-- LIT-tmpmjd1d
+- LIT-887
 - LIT-882
 summary: >-
-  Lin and Tegmark (2016), [LIT-tmpmjd1d](../literature.d/LIT-tmpmjd1d.md), arXiv v1–v2 appendix, a part
+  Lin and Tegmark (2016), [LIT-887](../literature.d/LIT-887.md), arXiv v1–v2 appendix, a part
   dropped from the journal text: a family of joint Hamiltonians with
   Z_tot = Z and the wrong marginal, and the remark that any non-interacting
   pair meets the trace condition. Under Mehta and Schwab's identification
@@ -34,13 +37,13 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-197 THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this one extends and is set beside, and the question it does not answer -->
 
-# THEORY-tmp5vljo: In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target
+# THEORY-202: In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target
 
 ## Source
 
-Lin and Tegmark (2016), [LIT-tmpmjd1d](../literature.d/LIT-tmpmjd1d.md): arXiv v1, Section III E and Appendix
+Lin and Tegmark (2016), [LIT-887](../literature.d/LIT-887.md): arXiv v1, Section III E and Appendix
 A; arXiv v2, Section III E and Appendix B, including the response to
-Schwab and Mehta; as read in [NOTE-tmp0n4ni](../notes.d/NOTE-tmp0n4ni.md). The appendix is absent from v3,
+Schwab and Mehta; as read in [NOTE-688](../notes.d/NOTE-688.md). The appendix is absent from v3,
 v4 and the Journal of Statistical Physics text. Schwab and Mehta's comment
 on v1 (arXiv:1609.03541), not held, was read for that note. Mehta and
 Schwab (2014), [LIT-882](../literature.d/LIT-882.md), Eqs. 18–22, for the identification under which the

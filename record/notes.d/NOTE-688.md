@@ -1,6 +1,9 @@
 ---
+number: 688
 status: Read
-paper: 'LIT-tmpmjd1d'
+formerly:
+- NOTE-tmp0n4ni
+paper: 'LIT-887'
 title: 'Why does deep and cheap learning work so well?'
 version: 1
 history:
@@ -35,9 +38,9 @@ summary: >-
   partition function nor the exact trace condition supplies one; it is
   wrong that the target must come from supervision.
 ---
-<!-- inactive-ok-file: THEORY-tmp5vljo THEORY-197 THEORY-194 THEORY-201 THEORY-195 THEORY-186 THEORY-185 QUESTION-025 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question it bears on -->
+<!-- inactive-ok-file: THEORY-202 THEORY-197 THEORY-194 THEORY-201 THEORY-195 THEORY-186 THEORY-185 QUESTION-025 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question it bears on -->
 
-# NOTE-tmp0n4ni: Why does deep and cheap learning work so well?
+# NOTE-688: Why does deep and cheap learning work so well?
 
 ## Contribution
 
@@ -251,7 +254,7 @@ held.
   marginal and so cannot be exact on interacting data; the cat-and-dog
   construction needs visible–visible terms. That narrows the example, not
   the point: exactness constrains the visible marginal and leaves the
-  hidden variables' meaning free.) Filed as [THEORY-tmp5vljo](../theory.d/THEORY-tmp5vljo.md).
+  hidden variables' meaning free.) Filed as [THEORY-202](../theory.d/THEORY-202.md).
 - **Its thesis that renormalization needs a stated target is right and is
   what the other two converge on.** Mehta and Schwab concede that short
   of exactness the two use "distinct variational approximation schemes";
@@ -288,11 +291,11 @@ held.
 
 ## Bearing on the record
 
-- **Produces [THEORY-tmp5vljo](../theory.d/THEORY-tmp5vljo.md)**: neither a matched partition function nor
+- **Produces [THEORY-202](../theory.d/THEORY-202.md)**: neither a matched partition function nor
   the exact trace condition makes a coarse-graining a renormalization.
   Sources: this paper's v1–v2 appendix, and [LIT-882](../literature.d/LIT-882.md) for the identity under
   which the trace condition is a perfect fit.
-- **[THEORY-197](../theory.d/THEORY-197.md)** ([LIT-882](../literature.d/LIT-882.md)). Supported, and extended by [THEORY-tmp5vljo](../theory.d/THEORY-tmp5vljo.md)
+- **[THEORY-197](../theory.d/THEORY-197.md)** ([LIT-882](../literature.d/LIT-882.md)). Supported, and extended by [THEORY-202](../theory.d/THEORY-202.md)
   as above. Its "the paper's Eq. 8 … is too strong" was conceded by Mehta
   and Schwab in their 2016 comment, which the record may wish to cite; its
   free-energy point was anticipated in v2 here.

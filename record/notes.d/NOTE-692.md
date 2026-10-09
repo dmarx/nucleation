@@ -1,6 +1,9 @@
 ---
+number: 692
 status: Read
-paper: 'LIT-tmpz9jtw'
+formerly:
+- NOTE-tmpu0mur
+paper: 'LIT-889'
 title: 'Symmetries and phase diagrams with real-space mutual information neural estimation'
 version: 1
 history:
@@ -39,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-019 THEORY-002 THEORY-036 QUESTION-025 THEORY-185 LIT-246 LIT-256 THEORY-198 — Proposed, Deferred or open; cited as accounts this reading is set beside and the estimator papers it rests on -->
 
-# NOTE-tmpu0mur: Symmetries and phase diagrams with real-space mutual information neural estimation
+# NOTE-692: Symmetries and phase diagrams with real-space mutual information neural estimation
 
 ## Contribution
 

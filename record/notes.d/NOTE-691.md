@@ -1,6 +1,9 @@
 ---
+number: 691
 status: Read
-paper: 'LIT-tmphx4s3'
+formerly:
+- NOTE-tmph9awb
+paper: 'LIT-886'
 title: 'Probing Latent Hierarchy via Diffusion'
 version: 1
 history:
@@ -33,9 +36,9 @@ summary: >-
   show a susceptibility peak at an intermediate noise, over about one
   decade of distance and with no non-hierarchical control.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-199 THEORY-195 THEORY-201 THEORY-194 THEORY-tmpaji42 — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-199 THEORY-195 THEORY-201 THEORY-194 THEORY-203 — Proposed or open; cited as what this reading produced or bears on -->
 
-# NOTE-tmph9awb: Probing Latent Hierarchy via Diffusion
+# NOTE-691: Probing Latent Hierarchy via Diffusion
 
 ## Contribution
 
@@ -201,7 +204,7 @@ ideal denoiser.
   at s f ≈ 0.5, and the main result adds a consequence of the threshold:
   a diverging length of co-change. It inherits [THEORY-199](../theory.d/THEORY-199.md)'s limits: the
   rules are known, the approximation is annealed, and the threshold
-  itself is not proved. It produces [THEORY-tmpaji42](../theory.d/THEORY-tmpaji42.md), Proposed, stated for
+  itself is not proved. It produces [THEORY-203](../theory.d/THEORY-203.md), Proposed, stated for
   the model and the Gaussian-field contrast only.
 - **[THEORY-201](../theory.d/THEORY-201.md) ([LIT-883](../literature.d/LIT-883.md)).** Different object. [THEORY-201](../theory.d/THEORY-201.md) is about static
   token–token correlations in hierarchical data, falling by a factor

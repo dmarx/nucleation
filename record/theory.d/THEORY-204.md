@@ -1,5 +1,8 @@
 ---
+number: 204
 status: Proposed
+formerly:
+- THEORY-tmpi172b
 promote_when: >-
   A result in which the data-limited exponent of a next-token learner is
   moved by changing one of the two corpus statistics while the other is
@@ -20,10 +23,10 @@ tags:
 - information-theory
 date: '2026-10-09'
 source:
-- LIT-tmpqozw7
+- LIT-888
 - LIT-883
 summary: >-
-  Cagnetta, Raventós, Ganguli and Wyart (2026), [LIT-tmpqozw7](../literature.d/LIT-tmpqozw7.md), building on
+  Cagnetta, Raventós, Ganguli and Wyart (2026), [LIT-888](../literature.d/LIT-888.md), building on
   [LIT-883](../literature.d/LIT-883.md)'s effective context window. The exponent is derived from assumed
   scaling forms for the conditional entropy and for each lag's learning
   curve, not proved; it is matched on two corpora, TinyStories and
@@ -32,12 +35,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-201 QUESTION-025 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->
 
-# THEORY-tmpi172b: In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows
+# THEORY-204: In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows
 
 ## Source
 
-Cagnetta, Raventós, Ganguli and Wyart (2026, ICML 2026), [LIT-tmpqozw7](../literature.d/LIT-tmpqozw7.md), §§3–5
-and Appendices A–C, as read in [NOTE-tmp24x8p](../notes.d/NOTE-tmp24x8p.md). The horizon argument is from
+Cagnetta, Raventós, Ganguli and Wyart (2026, ICML 2026), [LIT-888](../literature.d/LIT-888.md), §§3–5
+and Appendices A–C, as read in [NOTE-689](../notes.d/NOTE-689.md). The horizon argument is from
 Cagnetta and Wyart ([LIT-883](../literature.d/LIT-883.md)), whose account is [THEORY-201](THEORY-201.md).
 
 ## What was actually shown
@@ -66,7 +69,7 @@ failed: the empirical exponent could have differed from γ/(2β), the curves
 could have refused to collapse under the measured β, or the excess losses
 could have decayed slowly, putting the loss in the P^(−δ) regime.
 
-**On the Random Hierarchy Model** (this record's inference, [NOTE-tmp24x8p](../notes.d/NOTE-tmp24x8p.md)),
+**On the Random Hierarchy Model** (this record's inference, [NOTE-689](../notes.d/NOTE-689.md)),
 the formula gives ln(1/f)/(2 ln m), the exponent [LIT-883](../literature.d/LIT-883.md) composed from its
 loss steps, with that paper's sign slip corrected. So the account
 generalises [THEORY-201](THEORY-201.md)'s envelope rather than competing with it.

@@ -468,6 +468,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
   - [LIT-881](../record/literature.d/LIT-881.md) — Optimal Renormalization Group Transformation from Information Theory *(Active)*
+  - [LIT-885](../record/literature.d/LIT-885.md) — Relevance in the Renormalization Group and in Information Theory *(Active)*
 
 ## learning-and-conditioning
 
@@ -642,6 +643,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
   - [LIT-881](../record/literature.d/LIT-881.md) — Optimal Renormalization Group Transformation from Information Theory *(Active)*
+  - [LIT-885](../record/literature.d/LIT-885.md) — Relevance in the Renormalization Group and in Information Theory *(Active)*
 
 ## network-science
 
@@ -844,6 +846,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
   - [LIT-881](../record/literature.d/LIT-881.md) — Optimal Renormalization Group Transformation from Information Theory *(Active)*
+  - [LIT-885](../record/literature.d/LIT-885.md) — Relevance in the Renormalization Group and in Information Theory *(Active)*
 
 ## self
 
