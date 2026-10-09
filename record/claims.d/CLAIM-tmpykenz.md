@@ -60,11 +60,11 @@ did not restore it.
 
 ## What its own source says
 
-Ganter and Wille's preface (LIT-344, read from the publisher's free front
+Ganter and Wille's preface ([LIT-344](../literature.d/LIT-344.md), read from the publisher's free front
 matter only; the book is not read) says formal concept analysis "does not
 strive to explain conceptual thinking". Applying it to human concepts is "a
 matter for the experts in the respective science". The lattice mathematics
-is available (Fong and Spivak's Galois connections and closures, LIT-tmp8x9r8),
+is available (Fong and Spivak's Galois connections and closures, [LIT-tmp8x9r8](../literature.d/LIT-tmp8x9r8.md)),
 but the claim that communicative categories *are* a concept lattice is not
 the book's, and it would need psychology's evidence.
 

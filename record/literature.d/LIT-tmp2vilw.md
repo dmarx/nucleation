@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpepej2); worth reading here for one exact identity: with constructed key, query, value and projection matrices, one linear self-attention layer applied to tokens (x_j, y_j) changes every token exactly as one gradient-descent step on the context''s squared regression loss would change the targets (Proposition 1), so reading a context and updating an implicit model''s weights on it produce the same prediction. A trained single layer finds those weights up to scale; deeper trained models match a preconditioned variant (GD++) rather than plain gradient descent. Everything is on synthetic regression with small attention-only models.'
+status_note: 'read 2026-10-09 ([NOTE-tmpepej2](../notes.d/NOTE-tmpepej2.md)); worth reading here for one exact identity: with constructed key, query, value and projection matrices, one linear self-attention layer applied to tokens (x_j, y_j) changes every token exactly as one gradient-descent step on the context''s squared regression loss would change the targets (Proposition 1), so reading a context and updating an implicit model''s weights on it produce the same prediction. A trained single layer finds those weights up to scale; deeper trained models match a preconditioned variant (GD++) rather than plain gradient descent. Everything is on synthetic regression with small attention-only models.'
 title: 'Transformers learn in-context by gradient descent'
 version: 1
 history:
@@ -51,7 +51,7 @@ summary: >-
 
 Johannes von Oswald, Eyvind Niklasson, Ettore Randazzo, João Sacramento,
 Alexander Mordvintsev, Andrey Zhmoginov and Max Vladymyrov (2022), *ICML
-2023*, PMLR 202:35151–35174 — ARXIV-2212.07677
+2023*, PMLR 202:35151–35174 — [ARXIV-2212.07677](https://arxiv.org/abs/2212.07677)
 
 ## Key takeaways
 
@@ -84,19 +84,19 @@ Alexander Mordvintsev, Andrey Zhmoginov and Max Vladymyrov (2022), *ICML
 
 ## Standing in the record
 
-Held in both records under ADR-013. The anthology holds it as ANTH-LIT-533,
+Held in both records under [ADR-013](../decisions.d/ADR-013.md). The anthology holds it as [ANTH-LIT-533](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-533.md),
 read for what the forward pass of a transformer computes, and has rejected
 the identification of in-context learning with gradient descent
-(ANTH-THEORY-068) while keeping the frame that a transformer can run a
-learning algorithm on a model carried in its activations (ANTH-THEORY-067).
+([ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md)) while keeping the frame that a transformer can run a
+learning algorithm on a model carried in its activations ([ANTH-THEORY-067](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-067.md)).
 It is filed here at the owner's request on 2026-10-09, from the bibliography
 of the owner's manuscript *What Survives Translation?* (work
 `what-survives-translation`), which considered it and dropped it from the
 final reference list. The second question, the one this record asks, is the
 reading on this record's terms: what Proposition 1 says about the
 difference between conditioning a fixed system on a context and changing
-the system's parameters. That reading is NOTE-tmpepej2, and it is a source
-of THEORY-tmpllqzv.
+the system's parameters. That reading is [NOTE-tmpepej2](../notes.d/NOTE-tmpepej2.md), and it is a source
+of [THEORY-tmpllqzv](../theory.d/THEORY-tmpllqzv.md).
 
 The two readings do not disagree. The anthology's rejection concerns the
 claim that trained transformers in general do gradient descent; this

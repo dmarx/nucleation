@@ -123,7 +123,7 @@ sense/force distinction; Stalnaker's contrast between the pragmatic and
 linguistic pictures of intentionality is used to place the view;
 Davidson's argument for the interdependence of belief and language is
 given its form. The early paper "Asserting" (1983), the ancestor of
-chapter 3, is what Krifka (LIT-tmpuclkg) cites for the commitment
+chapter 3, is what Krifka ([LIT-tmpuclkg](../literature.d/LIT-tmpuclkg.md)) cites for the commitment
 theory of assertion. Krifka's performative update with a speaker's truth
 guarantee is close to Brandom's undertaking of commitment. But Krifka
 treats declarations and other acts as their own performative updates,
@@ -132,14 +132,14 @@ parasitic on it.
 
 ## Bearing on the record
 
-- **CLAIM-tmp471wm** (which changes in conversational standing count).
+- **[CLAIM-tmp471wm](../claims.d/CLAIM-tmp471wm.md)** (which changes in conversational standing count).
   The deontic score is a worked-out answer to "what is a conversational
   standing": commitments and entitlements, kept perspectivally.
   Brandom's version is per scorekeeper, so it does not supply one
   objective state for an information order to compare, unless the
   comparison is made from one scorekeeper's perspective. Neither this
   book nor the claim says how to choose that perspective.
-- **CLAIM-tmpfbpte** (interpretive and performative fidelity come
+- **[CLAIM-tmpfbpte](../claims.d/CLAIM-tmpfbpte.md)** (interpretive and performative fidelity come
   apart). In the parts read, Brandom gives the means to separate what is
   claimed (content) from what is undertaken and licensed (commitments,
   entitlements, responsibility to defend). But he derives the second

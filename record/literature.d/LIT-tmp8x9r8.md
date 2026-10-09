@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'skimmed 2026-10-09 (NOTE-tmp0fe8y): the preface and Chapter 1 read closely, Chapter 3''s opening and its section on adjunctions and data migration read closely, the openings and summaries of Chapters 2 and 4–7 read; Chapters 2 and 4–7 otherwise not read. Worth reading as an introduction to applied category theory organised around compositionality: an observation of systems is a monotone map, a generative effect is its failure to preserve joins, and a monotone map out of a preorder with all joins has no generative effect exactly when it is a left adjoint. Later chapters treat resource theories, databases as functors, co-design, signal-flow graphs, circuits and temporal logic, each through a categorical structure.'
+status_note: 'skimmed 2026-10-09 ([NOTE-tmp0fe8y](../notes.d/NOTE-tmp0fe8y.md)): the preface and Chapter 1 read closely, Chapter 3''s opening and its section on adjunctions and data migration read closely, the openings and summaries of Chapters 2 and 4–7 read; Chapters 2 and 4–7 otherwise not read. Worth reading as an introduction to applied category theory organised around compositionality: an observation of systems is a monotone map, a generative effect is its failure to preserve joins, and a monotone map out of a preorder with all joins has no generative effect exactly when it is a left adjoint. Later chapters treat resource theories, databases as functors, co-design, signal-flow graphs, circuits and temporal logic, each through a categorical structure.'
 title: 'Seven Sketches in Compositionality: An Invitation to Applied Category Theory'
 version: 1
 history:
@@ -42,7 +42,7 @@ keywords:
 - 'toposes'
 implementations: []
 summary: >-
-  Fong & Spivak (2018; Cambridge University Press 2019), ARXIV-1803.05316.
+  Fong & Spivak (2018; Cambridge University Press 2019), [ARXIV-1803.05316](https://arxiv.org/abs/1803.05316).
   A textbook invitation to applied category theory in seven chapters, each
   pairing an application with a structure: generative effects with orders
   and Galois connections, resources with monoidal preorders and
@@ -60,11 +60,11 @@ summary: >-
 
 Brendan Fong, David I. Spivak (arXiv 2018; Cambridge University Press 2019,
 as *An Invitation to Applied Category Theory: Seven Sketches in
-Compositionality*) — ARXIV-1803.05316, DOI-10.1017/9781108668804
+Compositionality*) — [ARXIV-1803.05316](https://arxiv.org/abs/1803.05316), DOI-10.1017/9781108668804
 
 ## Key takeaways
 
-From the parts read (see NOTE-tmp0fe8y for exactly which):
+From the parts read (see [NOTE-tmp0fe8y](../notes.d/NOTE-tmp0fe8y.md) for exactly which):
 
 - **Observation as a monotone map, and generative effects.** Following
   Adam's thesis, an observation of a system is a monotone map Φ : P → Q
@@ -97,11 +97,11 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Skimmed on 2026-10-09 (NOTE-tmp0fe8y): the chapters closest to its
+Skimmed on 2026-10-09 ([NOTE-tmp0fe8y](../notes.d/NOTE-tmp0fe8y.md)): the chapters closest to its
 opening aim, orders and adjunctions as the basis of compositional
 modelling, were read closely, and the rest only at their openings and
 summaries. It is an introduction, not a source for results, which are
 standard; a deeper reading would take Chapters 2 and 4 (resource theories
 and monoidal categories) and Chapter 7 (sheaves and toposes). Its
 Galois-connection material is the order theory underlying Ganter and
-Wille's concept lattices (LIT-344), which the book does not mention.
+Wille's concept lattices ([LIT-344](LIT-344.md)), which the book does not mention.

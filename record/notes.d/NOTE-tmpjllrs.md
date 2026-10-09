@@ -36,12 +36,12 @@ summary: >-
 ## Contribution
 
 It is the first attempt to put definite causal order into the
-sheaf-theoretic framework of LIT-016. In LIT-016 every event is causally
+sheaf-theoretic framework of [LIT-016](../literature.d/LIT-016.md). In [LIT-016](../literature.d/LIT-016.md) every event is causally
 unrelated to every other. Here an output may depend on inputs in its causal
 past. Locality becomes the existence of a classical model built from
 deterministic *causal* functions, and the no-signalling condition becomes a
 family of causality equations, one per lower set. It reduces exactly to
-LIT-016's construction on the discrete order. It also sketches pre-orders
+[LIT-016](../literature.d/LIT-016.md)'s construction on the discrete order. It also sketches pre-orders
 for indefinite causal order and a causal-fraction analysis of the
 Baumeler–Feix–Wolf model.
 
@@ -94,7 +94,7 @@ condition.
   equations (35). Remark 17 notes that they are redundant.
 - **Proposition 21.** e is local (has a global section) if and only if
   ê = Σ_ξ p(ξ) δ_{f(ξ)} for causal functions f(ξ) and p ∈ D_R. This is the
-  causal analogue of LIT-016's Theorem 8.1. The proof here is short
+  causal analogue of [LIT-016](../literature.d/LIT-016.md)'s Theorem 8.1. The proof here is short
   because local sections are already functions on all joint inputs.
 - **Proposition 22.** Diagrams over a framed multigraph in an
   R-probabilistic theory (the authors' earlier formalism) with normalised
@@ -130,11 +130,11 @@ condition.
   exists or does not. Here this means "explained by classical causal
   functions", which generalizes Bell locality.
 - **Ω-causal fraction.** The largest weight of an Ω-causal sub-model, by
-  analogy with LIT-265's non-contextual fraction.
+  analogy with [LIT-265](../literature.d/LIT-265.md)'s non-contextual fraction.
 
 ## Connections
 
-It builds on LIT-016 and cites LIT-277 (cohomology) and LIT-265
+It builds on [LIT-016](../literature.d/LIT-016.md) and cites [LIT-277](../literature.d/LIT-277.md) (cohomology) and [LIT-265](../literature.d/LIT-265.md)
 (contextual fraction) in its literature review. It also builds on the
 authors' process-theoretic causal frameworks (Pinzani & Gogioso 2020;
 Gogioso & Scandolo 2018). It contrasts itself with Mansfield's 2017
@@ -148,17 +148,17 @@ prediction.
 
 ## Bearing on the record
 
-- **LIT-016 and THEORY-012.** Proposition 21 extends THEORY-012's
+- **[LIT-016](../literature.d/LIT-016.md) and [THEORY-012](../theory.d/THEORY-012.md).** Proposition 21 extends [THEORY-012](../theory.d/THEORY-012.md)'s
   criterion: noncontextual (local) exactly when there is a global section,
   equivalently a classical model, with "classical" now meaning causal
   functions on a causal order. Within this paper the extension rests on a
   construction the authors withdrew. On the discrete order it is
-  LIT-016's result unchanged. No edit to THEORY-012 follows.
-- **THEORY-014.** The R-valued generality (ℝ for signed distributions) is
+  [LIT-016](../literature.d/LIT-016.md)'s result unchanged. No edit to [THEORY-012](../theory.d/THEORY-012.md) follows.
+- **[THEORY-014](../theory.d/THEORY-014.md).** The R-valued generality (ℝ for signed distributions) is
   set up but not used. The paper proves no "signed global sections always
   exist" result for causal scenarios, so it adds no instance to
-  THEORY-014.
-- **LIT-265 and THEORY-tmp8ly9g.** The Ω-causal fraction of Section 9 is
+  [THEORY-014](../theory.d/THEORY-014.md).
+- **[LIT-265](../literature.d/LIT-265.md) and [THEORY-tmp8ly9g](../theory.d/THEORY-tmp8ly9g.md).** The Ω-causal fraction of Section 9 is
   the contextual fraction's construction with causality in place of
   locality. Its properties are not proved here.
 - **The manuscript.** The reading supplies no premise for the claims

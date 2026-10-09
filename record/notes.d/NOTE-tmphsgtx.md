@@ -39,7 +39,7 @@ context. It is a diagnosis of the traditional reading, not a new
 theorem. It then states the CbD definition of contextuality for arbitrary
 binary systems, using multimaximal couplings, and supplies the
 adjacent-pairs characterization of those couplings (Theorem II.3) that
-the CbD 2.0 paper (LIT-tmpsa1qj) cites as its Theorem 2.
+the CbD 2.0 paper ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md)) cites as its Theorem 2.
 
 ## Key insight
 
@@ -83,7 +83,7 @@ question about which couplings of the now-disjoint contexts are possible.
   maximal possible probability. The remark credits this to the CbD 2.0
   paper and says CbD 1.0 applied the constraint only to the whole
   connection.
-- **Theorem II.2** (cited to LIT-tmpsa1qj). A binary connection's
+- **Theorem II.2** (cited to [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md)). A binary connection's
   multimaximal coupling exists, is unique and has the staircase form of
   Eq. (30).
 - **Theorem II.3.** A coupling of a binary connection sorted by
@@ -129,12 +129,12 @@ question about which couplings of the now-disjoint contexts are possible.
   whose same-content parts satisfy C).
 - **consistently / inconsistently connected.** Whether same-content
   variables are identically distributed across contexts.
-- **multimaximal coupling.** As in LIT-tmpsa1qj.
+- **multimaximal coupling.** As in [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md).
 
 ## Connections
 
-The paper is the conceptual companion of LIT-tmpsa1qj. Each cites the
-other for half of the binary multimaximality theory. It builds on LIT-777's
+The paper is the conceptual companion of [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md). Each cites the
+other for half of the binary multimaximality theory. It builds on [LIT-777](../literature.d/LIT-777.md)'s
 system notation and on the earlier "Contextuality is about identity of
 random variables" (2014). The transitivity point is aimed at the
 Khrennikov line, which locates contextuality in variables defined on
@@ -143,19 +143,19 @@ joint-distribution criterion.
 
 ## Bearing on the record
 
-- **LIT-016 and THEORY-012.** The sheaf account keeps one variable per
+- **[LIT-016](../literature.d/LIT-016.md) and [THEORY-012](../theory.d/THEORY-012.md).** The sheaf account keeps one variable per
   measurement and asks whether overlapping marginals glue. On that
   account, the traditional "no joint distribution" is a statement about
   a global section of a presheaf over a cover, not about random variables
   on one space. This paper's transitivity argument targets the
   random-variable reading and does not engage the sheaf formulation. The
-  two accounts agree under consistent connectedness (NOTE-600). This
+  two accounts agree under consistent connectedness ([NOTE-600](NOTE-600.md)). This
   paper does not compare them.
-- **THEORY-013.** C6 restates the premise THEORY-013's programme rests
+- **[THEORY-013](../theory.d/THEORY-013.md).** C6 restates the premise [THEORY-013](../theory.d/THEORY-013.md)'s programme rests
   on. Nothing here changes that theory.
-- **CLAIM-tmpje74v** (the manuscript's). This paper is the second of the
+- **[CLAIM-tmpje74v](../claims.d/CLAIM-tmpje74v.md)** (the manuscript's). This paper is the second of the
   two references the claim gives for the multimaximal version. It
-  supports the claim as LIT-tmpsa1qj does.
+  supports the claim as [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md) does.
 - No new THEORY. No instruction for machine-learning practice.
 
 ## Limitations

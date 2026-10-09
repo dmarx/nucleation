@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp6iwsq); worth reading as the measurement that separates what a demonstration supplies from whether its labels are right: across 12 model–method pairs up to GPT-3 and 26 classification and multi-choice datasets, replacing gold labels with random ones costs 0–5 points, while removing the input distribution, the label space or the paired format costs much more. The finding is empirical and aggregate; some dataset–model pairs lose up to 14 points, and generation tasks are not tested.'
+status_note: 'read 2026-10-09 ([NOTE-tmp6iwsq](../notes.d/NOTE-tmp6iwsq.md)); worth reading as the measurement that separates what a demonstration supplies from whether its labels are right: across 12 model–method pairs up to GPT-3 and 26 classification and multi-choice datasets, replacing gold labels with random ones costs 0–5 points, while removing the input distribution, the label space or the paired format costs much more. The finding is empirical and aggregate; some dataset–model pairs lose up to 14 points, and generation tasks are not tested.'
 title: 'Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?'
 version: 1
 history:
@@ -48,7 +48,7 @@ summary: >-
 # LIT-tmpgsgpo: Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
 
 Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh
-Hajishirzi and Luke Zettlemoyer (2022), *EMNLP 2022* — ARXIV-2202.12837,
+Hajishirzi and Luke Zettlemoyer (2022), *EMNLP 2022* — [ARXIV-2202.12837](https://arxiv.org/abs/2202.12837),
 DOI-10.18653/v1/2022.emnlp-main.759
 
 ## Key takeaways
@@ -81,7 +81,7 @@ DOI-10.18653/v1/2022.emnlp-main.759
 Filed on 2026-10-09 at the owner's request, from the bibliography of the
 owner's manuscript *What Survives Translation?* (work
 `what-survives-translation`), which considered it and dropped it from the
-final reference list. Read on its own terms (NOTE-tmp6iwsq).
+final reference list. Read on its own terms ([NOTE-tmp6iwsq](../notes.d/NOTE-tmp6iwsq.md)).
 
 It carries `anthology-candidate`: its subject is in-context learning,
 which an anthology topic holds. Its primary tag here is the nearest word

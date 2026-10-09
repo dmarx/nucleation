@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpsmtp6); worth reading as the formal version of "preserve the distribution over interpretations, not one meaning": the semantic distortion compares the posterior of the meaning S given the original observation with its posterior given the reconstruction, alongside an ordinary distortion on the symbols, and the paper proves the coding theorem for the resulting rate–distortion function and solves a binary case. Read it knowing three things the paper does not say. With Kullback–Leibler divergence its expected semantic distortion is exactly I(S;X) − I(S;Y), so its function is the information bottleneck; with total variation it bounds the extra Bayes risk of every bounded-loss decision about S. Its sequence distortion is defined as a maximum inside the expectation, while both proofs use the maximum of per-letter expectations, so the theorems hold for the latter. And its MNIST experiment trains with a classifier''s cross-entropy against the true label, not with the posterior distortion the theory defines.'
+status_note: 'read 2026-10-09 ([NOTE-tmpsmtp6](../notes.d/NOTE-tmpsmtp6.md)); worth reading as the formal version of "preserve the distribution over interpretations, not one meaning": the semantic distortion compares the posterior of the meaning S given the original observation with its posterior given the reconstruction, alongside an ordinary distortion on the symbols, and the paper proves the coding theorem for the resulting rate–distortion function and solves a binary case. Read it knowing three things the paper does not say. With Kullback–Leibler divergence its expected semantic distortion is exactly I(S;X) − I(S;Y), so its function is the information bottleneck; with total variation it bounds the extra Bayes risk of every bounded-loss decision about S. Its sequence distortion is defined as a maximum inside the expectation, while both proofs use the maximum of per-letter expectations, so the theorems hold for the latter. And its MNIST experiment trains with a classifier''s cross-entropy against the true label, not with the posterior distortion the theory defines.'
 title: 'Semantic Rate-Distortion Theory with Applications'
 version: 1
 history:
@@ -89,15 +89,15 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 `what-survives-translation`) at the owner's request. It is the "Zhao et
 al., 2025" the exchange named as close to its interest in "preserving
 distributions over interpretations rather than one purported intrinsic
-meaning" (CLAIM-tmpp8j04); the manuscript did not keep it. It is read here
+meaning" ([CLAIM-tmpp8j04](../claims.d/CLAIM-tmpp8j04.md)); the manuscript did not keep it. It is read here
 on its own merits. See the curation entry of that day.
 
 The reading confirms the exchange's description: the constraint is on
 posterior distributions over meanings, which is the preservation of
 interpretations the manuscript wanted. It also finds that the KL version
-of that constraint is the information bottleneck (LIT-338), so the idea is
+of that constraint is the information bottleneck ([LIT-338](LIT-338.md)), so the idea is
 older than this paper, and that the total-variation version is a
 decision-relative fidelity in the sense of the record's account of
-comparing experiments (THEORY-156). Both are stated, with their scope, in
-THEORY-tmp3ijnj, sourced here. It cites Chai et al. (LIT-tmpfnpwq) among
+comparing experiments ([THEORY-156](../theory.d/THEORY-156.md)). Both are stated, with their scope, in
+[THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md), sourced here. It cites Chai et al. ([LIT-tmpfnpwq](LIT-tmpfnpwq.md)) among
 the rate–distortion–perception works it builds on.

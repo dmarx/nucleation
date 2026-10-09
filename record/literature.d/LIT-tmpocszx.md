@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpictuf); worth reading as the paper that makes supervised learners composable: a learner A → B is a parameter set with implement, update and request functions, learners form a symmetric monoidal category Learn, and for a fixed step size and an error function whose derivative in its first argument is invertible, gradient descent with backpropagation is a faithful strong symmetric monoidal functor from differentiable parametrised functions to Learn. The backward message is a requested input, not a gradient step; cross-entropy falls outside the theorem.'
+status_note: 'read 2026-10-09 ([NOTE-tmpictuf](../notes.d/NOTE-tmpictuf.md)); worth reading as the paper that makes supervised learners composable: a learner A → B is a parameter set with implement, update and request functions, learners form a symmetric monoidal category Learn, and for a fixed step size and an error function whose derivative in its first argument is invertible, gradient descent with backpropagation is a faithful strong symmetric monoidal functor from differentiable parametrised functions to Learn. The backward message is a requested input, not a gradient step; cross-entropy falls outside the theorem.'
 title: 'Backprop as Functor: A compositional perspective on supervised learning'
 version: 1
 history:
@@ -38,7 +38,7 @@ keywords:
 - 'supervised learning'
 implementations: []
 summary: >-
-  Fong, Spivak & Tuyéras (2017; LICS 2019), ARXIV-1711.10455. Supervised
+  Fong, Spivak & Tuyéras (2017; LICS 2019), [ARXIV-1711.10455](https://arxiv.org/abs/1711.10455). Supervised
   learners compose only when each carries a request function that passes
   a corrected input upstream; learners (P, I, U, r) then form a symmetric
   monoidal category Learn, and gradient descent with backpropagation, for
@@ -50,7 +50,7 @@ summary: >-
 # LIT-tmpocszx: Backprop as Functor: A compositional perspective on supervised learning
 
 Brendan Fong, David I. Spivak, Rémy Tuyéras (2017; LICS 2019) —
-ARXIV-1711.10455
+[ARXIV-1711.10455](https://arxiv.org/abs/1711.10455)
 
 ## Key takeaways
 
@@ -91,9 +91,9 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Read on 2026-10-09 (NOTE-tmpictuf). It is a worked example of a
+Read on 2026-10-09 ([NOTE-tmpictuf](../notes.d/NOTE-tmpictuf.md)). It is a worked example of a
 functor that preserves composition from a syntax (parametrised functions)
 to a semantics (learning algorithms), the pattern Fong and Spivak's book
-LIT-tmp8x9r8 calls functorial semantics. It carries `anthology-candidate`
+[LIT-tmp8x9r8](LIT-tmp8x9r8.md) calls functorial semantics. It carries `anthology-candidate`
 because the anthology's training-optimization topic could hold a paper on
 the structure of backpropagation; it carries no instruction for practice.

@@ -51,14 +51,14 @@ the transcript nor the record establishes their details.
 
 The three works the exchange conceded are now read:
 
-- the survey (LIT-tmpmigxa);
-- Chai et al. (LIT-tmpfnpwq);
-- Zhao et al. (LIT-tmp2w545).
+- the survey ([LIT-tmpmigxa](../literature.d/LIT-tmpmigxa.md));
+- Chai et al. ([LIT-tmpfnpwq](../literature.d/LIT-tmpfnpwq.md));
+- Zhao et al. ([LIT-tmp2w545](../literature.d/LIT-tmp2w545.md)).
 
 Zhao et al. formalise preserving the posterior p(S|x), the distribution over
 interpretations that the manuscript wanted. Under KL divergence their
 semantic distortion is the information bottleneck; under total variation it
-bounds the lost value of every bounded-loss decision (THEORY-tmp3ijnj; both
+bounds the lost value of every bounded-loss decision ([THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md); both
 are the reader's derivations). The concession stands, and more strongly than
 the exchange knew. What the manuscript can still claim is the context-indexed,
 sheaf-structured observation, not task-relative preservation.

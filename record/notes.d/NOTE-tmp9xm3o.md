@@ -159,13 +159,13 @@ Dewey's account) and Boas's view of grammatical categories as obligatory,
 and it opposes Whorf's "Mr. Everyman" inference from unlike grammars to
 unlike facts. It anticipates Jakobson's own "Linguistics and Poetics"
 (1960) on the poetic function, here stated briefly. In the record, Nida's
-(LIT-tmp1ysoz) formal and dynamic equivalence and House's (LIT-tmp1e7m4)
+([LIT-tmp1ysoz](../literature.d/LIT-tmp1ysoz.md)) formal and dynamic equivalence and House's ([LIT-tmp1e7m4](../literature.d/LIT-tmp1e7m4.md))
 overt and covert translation are later answers to the question this essay
 calls "equivalence in difference"; neither was read.
 
 ## Bearing on the record
 
-- **Produces THEORY-tmpo1mei**, the obligatory-categories thesis (T4 with
+- **Produces [THEORY-tmpo1mei](../theory.d/THEORY-tmpo1mei.md)**, the obligatory-categories thesis (T4 with
   T5), stated with its evidence and what it does not establish. The record
   held no claim of this kind.
 - **The manuscript's argument (`what-survives-translation`).** Its claim

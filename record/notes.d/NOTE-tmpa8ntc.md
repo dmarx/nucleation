@@ -178,15 +178,15 @@ the Urpflanze). The critics engaged are Veselovsky (motif and plot), Bédier
 (constants and variables), Aarne (the type index), Volkov, Wundt and
 Shklovsky. The book defers two things to later work: the transformations
 of tales (named here as a separate study) and the historical roots of the
-wondertale. Doja, Capocchi and Santucci (LIT-tmp9axrl) list Propp's
+wondertale. Doja, Capocchi and Santucci ([LIT-tmp9axrl](../literature.d/LIT-tmp9axrl.md)) list Propp's
 morphology among the narrative formalisations computational work has
-attempted. Lévi-Strauss's structural analysis of myth (LIT-775, unread)
+attempted. Lévi-Strauss's structural analysis of myth ([LIT-775](../literature.d/LIT-775.md), unread)
 is the usual counterpoint; the 1969 Italian edition carried his
 intervention and Propp's reply (per Open Library), not read here.
 
 ## Bearing on the record
 
-- Produces **THEORY-tmpdu50e**: the functional composition of the
+- Produces **[THEORY-tmpdu50e](../theory.d/THEORY-tmpdu50e.md)**: the functional composition of the
   wondertale, with what it does not establish.
 - **Transformation and transmission.** Propp's account of what a teller
   can and cannot change is a claim about which features of a tale survive
@@ -195,10 +195,10 @@ intervention and Propp's reply (per Open Library), not read here.
   "everything that enters the tale from outside submits to its norms" (a
   devil becomes villain, helper or donor). That is a structural thesis
   about the corpus, not a measurement of retellings; the record's
-  transmission-chain readings (LIT-769, LIT-771, LIT-tmpj7bvq) are the
+  transmission-chain readings ([LIT-769](../literature.d/LIT-769.md), [LIT-771](../literature.d/LIT-771.md), [LIT-tmpj7bvq](../literature.d/LIT-tmpj7bvq.md)) are the
   kind of evidence that could test it.
 - **Saussure.** Propp's constant-and-variable analysis is independent of
-  Saussure (LIT-774), whom the OCR text never names; his model is Goethe's
+  Saussure ([LIT-774](../literature.d/LIT-774.md)), whom the OCR text never names; his model is Goethe's
   morphology, not linguistics.
 - No instruction for machine-learning practice; nothing for the anthology.
 

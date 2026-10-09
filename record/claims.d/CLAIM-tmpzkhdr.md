@@ -60,9 +60,9 @@ to condition. The open question behind it is [QUESTION-tmpklyn0](../questions.d/
 
 ## A second caveat on adding scores
 
-Ho and Salimans (LIT-tmpxlxil) show that learned scores are not
+Ho and Salimans ([LIT-tmpxlxil](../literature.d/LIT-tmpxlxil.md)) show that learned scores are not
 conservative, so a guided field is in general the score of no density. That
 is a caveat on s₁₂ = s₁ + s₂ − s₀ beyond the conditional independence this
-claim states. Attend-and-Excite (LIT-tmpbjx8a) documents conjunctions failing
-by omission ("catastrophic neglect"), and in T2I-CompBench++ (LIT-tmp76md3)
+claim states. Attend-and-Excite ([LIT-tmpbjx8a](../literature.d/LIT-tmpbjx8a.md)) documents conjunctions failing
+by omission ("catastrophic neglect"), and in T2I-CompBench++ ([LIT-tmp76md3](../literature.d/LIT-tmp76md3.md))
 Composable Diffusion is again the weakest method.

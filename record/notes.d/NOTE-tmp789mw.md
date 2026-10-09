@@ -194,24 +194,24 @@ essential effect (eliminating the possibilities incompatible with what
 is said, unless the assertion is rejected) it quotes and adopts,
 refining the context set into a file. Kamp (1981) is acknowledged as
 independent and closely similar; Hintikka and Carlson's game-theoretical
-account is assessed at the end of ch. I. Veltman (LIT-tmpi254m) later
+account is assessed at the end of ch. I. Veltman ([LIT-tmpi254m](../literature.d/LIT-tmpi254m.md)) later
 credits this work as one origin of update semantics.
 
 ## Bearing on the record
 
-- Source, with Veltman and Krifka, of THEORY-tmp5ncrn: what an utterance
+- Source, with Veltman and Krifka, of [THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md): what an utterance
   does to a context is part of its meaning and is not fixed by its truth
   conditions. Heim's anaphora pairs are the cleanest evidence for it
   read in the record.
-- **CLAIM-tmphg89g** (proposition neither necessary nor sufficient for
+- **[CLAIM-tmphg89g](../claims.d/CLAIM-tmphg89g.md)** (proposition neither necessary nor sufficient for
   the communicative event): the marble and spouse pairs show, for
   anaphoric potential, that sameness of proposition does not fix what an
   utterance makes available for what follows. That is the "not
   sufficient" half, for a dimension (discourse referents) other than the
   footing and force the claim names.
-- **CLAIM-tmpfbpte** (interpretive and performative fidelity come
+- **[CLAIM-tmpfbpte](../claims.d/CLAIM-tmpfbpte.md)** (interpretive and performative fidelity come
   apart): no direct bearing; Heim restricts herself to assertion.
-- Stalnaker's "Assertion" (LIT-tmpeftz9), unread here, is quoted in
+- Stalnaker's "Assertion" ([LIT-tmpeftz9](../literature.d/LIT-tmpeftz9.md)), unread here, is quoted in
   ch. III §1.4 (pp. 321, 323 of the essay), which is the record's only
   first-hand access to its wording; Heim cites the volume as 1979.
 - No instruction for ML practice; nothing for the anthology.

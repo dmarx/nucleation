@@ -61,6 +61,6 @@ so those steps rest on works cited without a reading.
 
 ## Prior art for decision-relative fidelity
 
-Zhao et al. (LIT-tmp2w545, THEORY-tmp3ijnj): with total variation, the
+Zhao et al. ([LIT-tmp2w545](../literature.d/LIT-tmp2w545.md), [THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md)): with total variation, the
 posterior distortion bounds the extra Bayes risk of every bounded-loss
 decision. That is a decision-relative fidelity close to this claim's.

@@ -34,7 +34,7 @@ summary: >-
 ## Contribution
 
 The paper turns the dichotomization proposal at the end of CbD 2.0
-(LIT-tmpsa1qj) into a definition. Contextuality is a property of the
+([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md)) into a definition. Contextuality is a property of the
 canonical (split) representation of a chosen expanded system. It then
 solves the smallest nontrivial case, a single pair of content-sharing
 categorical variables with every split kept, exactly. Before this paper,
@@ -63,7 +63,7 @@ distributions differ, with no cross-content correlations involved.
   coarsenings, hence all splits.
 - **Multimaximality as pairwise maximality** (Definition 3.8) is used for
   connections with more than two variables. The paper cites properties
-  Multimax1–3 to LIT-tmpsa1qj and LIT-tmpuzf4t. Note that Multimax1
+  Multimax1–3 to [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md) and [LIT-tmpuzf4t](../literature.d/LIT-tmpuzf4t.md). Note that Multimax1
   (existence and uniqueness) holds because every canonical variable is
   binary.
 - Section 4 treats a fragment, one connection of two variables. A system
@@ -76,7 +76,7 @@ distributions differ, with no cross-content correlations involved.
   is noncontextual with respect to T if some coupling S of the bunches
   has S_q ∼ T_q for every q. With a property C that picks a unique T_q,
   this is "noncontextual with respect to C".
-- **Theorems 2.4–2.5** (from LIT-777). A quasi-coupling with connection
+- **Theorems 2.4–2.5** (from [LIT-777](../literature.d/LIT-777.md)). A quasi-coupling with connection
   marginals T always exists, and its total variation reaches a minimum.
   min‖X‖ − 1 is the degree of contextuality.
 - **Definitions 3.4–3.5.** A split D_{qW}^c = 1 iff R_q^c ∈ W, with W
@@ -149,36 +149,36 @@ q-minimized). Corollary 4.5 exhibits the coupling. Theorem 4.6 checks Eq.
 
 ## Connections
 
-It completes LIT-tmpsa1qj's proposal and uses its multimaximality results
-and those of LIT-tmpuzf4t. Its measure is LIT-777's. Joining, which lets
+It completes [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md)'s proposal and uses its multimaximality results
+and those of [LIT-tmpuzf4t](../literature.d/LIT-tmpuzf4t.md). Its measure is [LIT-777](../literature.d/LIT-777.md)'s. Joining, which lets
 within-context dependence enter a connection, is presented as what the
-selective-influence theory and Abramsky and colleagues' approach (LIT-016)
+selective-influence theory and Abramsky and colleagues' approach ([LIT-016](../literature.d/LIT-016.md))
 always require. Most known behavioural CbD analyses are cited to the
-programme around LIT-264.
+programme around [LIT-264](../literature.d/LIT-264.md).
 
 ## Bearing on the record
 
-- **THEORY-013.** That theory reports CbD finding no contextuality in
+- **[THEORY-013](../theory.d/THEORY-013.md).** That theory reports CbD finding no contextuality in
   published behavioural data. Its data are binary and cyclic. This paper
   says the same of dichotomous systems "with the exception of one, very
-  recent experiment", which is consistent with THEORY-013. It also says
+  recent experiment", which is consistent with [THEORY-013](../theory.d/THEORY-013.md). It also says
   that under canonical all-splits representations of multi-valued
   responses, noncontextuality requires nominal dominance, which "is
-  likely to be violated in many empirical systems". So THEORY-013's
+  likely to be violated in many empirical systems". So [THEORY-013](../theory.d/THEORY-013.md)'s
   finding is scoped to binary data under CbD 1.0/2.0 and does not carry
   over to multi-valued data analysed canonically. The theory's "does not
   say" list should name this. This NOTE does not edit it.
-- **THEORY-012 and LIT-016.** The sheaf framework's contextual fraction is
-  non-increasing under coarse-graining of outcomes (LIT-265 Theorem 2).
+- **[THEORY-012](../theory.d/THEORY-012.md) and [LIT-016](../literature.d/LIT-016.md).** The sheaf framework's contextual fraction is
+  non-increasing under coarse-graining of outcomes ([LIT-265](../literature.d/LIT-265.md) Theorem 2).
   Here, adding the coarsenings of a variable to the system can create
   contextuality where the original pair, a single connection, had none.
   The two frameworks treat coarse-graining differently: the sheaf
   framework coarse-grains a model, CbD adds coarsenings as further
   contents. The paper does not compare them.
-- **THEORY-tmpjdnxt** is filed from this reading. It states that CbD's
+- **[THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md)** is filed from this reading. It states that CbD's
   verdict on a fixed set of measurements depends on the representation
   chosen, with this paper's Theorem 4.6 as the sharpest instance.
-- **The manuscript.** CLAIM-tmpje74v's "What it does not say" assumes
+- **The manuscript.** [CLAIM-tmpje74v](../claims.d/CLAIM-tmpje74v.md)'s "What it does not say" assumes
   that S, M and H are binary and each appear in two contexts. If any
   observable there is multi-valued and its coarsenings are of interest,
   this paper's representation applies, and Theorem 4.6 can make the

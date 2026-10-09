@@ -1,6 +1,6 @@
 ---
 status: Rejected
-status_note: 'read 2026-10-09 (NOTE-tmpjllrs), and retired: withdrawn by its authors. The arXiv record''s v3 (3 April 2024) is a withdrawal stating that the paper "has been superseded by arXiv:2206.08911v4, arXiv:2303.07148 and arXiv:2303.09017", that its Definition 3 (the locale of inputs) "is not fit for purpose", and that it is "unlikely to be the right reference". The reading confirms the defect: the meet given in Proposition 5 can leave the poset, and the poset is not distributive, so it is not a locale (NOTE-tmpjllrs gives a two-event counterexample). The idea it introduced stands: a sheaf of causal functions over lower sets of a causal order, with locality as a global section and a decomposition into deterministic causal functions. The record holds none of the successor papers. When one is filed, this entry should become Superseded by it.'
+status_note: 'read 2026-10-09 ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md)), and retired: withdrawn by its authors. The arXiv record''s v3 (3 April 2024) is a withdrawal stating that the paper "has been superseded by arXiv:2206.08911v4, arXiv:2303.07148 and arXiv:2303.09017", that its Definition 3 (the locale of inputs) "is not fit for purpose", and that it is "unlikely to be the right reference". The reading confirms the defect: the meet given in Proposition 5 can leave the poset, and the poset is not distributive, so it is not a locale ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md) gives a two-event counterexample). The idea it introduced stands: a sheaf of causal functions over lower sets of a causal order, with locality as a global section and a decomposition into deterministic causal functions. The record holds none of the successor papers. When one is filed, this entry should become Superseded by it.'
 title: 'The Sheaf-Theoretic Structure of Definite Causality'
 version: 1
 history:
@@ -54,7 +54,7 @@ summary: >-
 # LIT-tmpg68lt: The Sheaf-Theoretic Structure of Definite Causality
 
 Stefano Gogioso and Nicola Pinzani (2021), in M. Backens and C. Heunen (eds),
-*Quantum Physics and Logic* (QPL 2021), EPTCS 343, 301–324 — ARXIV-2103.13771
+*Quantum Physics and Logic* (QPL 2021), EPTCS 343, 301–324 — [ARXIV-2103.13771](https://arxiv.org/abs/2103.13771)
 (withdrawn, v3)
 
 ## Key takeaways
@@ -93,7 +93,7 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered and dropped from its final reference list. See the curation entry
 of that day.
 
-Read on 2026-10-09 (NOTE-tmpjllrs) and set to `Rejected`. The reason is not
+Read on 2026-10-09 ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md)) and set to `Rejected`. The reason is not
 the reading's judgement of its idea. The authors withdrew the paper and
 named its successors, and the reading found the defect they name. A reader
 who wants the sheaf-theoretic treatment of causal order should go to
@@ -102,7 +102,7 @@ its sequels *The Topology of Causality* (2303.07148) and *The Geometry of
 Causality* (2303.09017). The record holds none of them. Filing the first
 would let this entry become `Superseded` with a named successor.
 
-It extends LIT-016's framework: on the discrete order it reduces to it
+It extends [LIT-016](LIT-016.md)'s framework: on the discrete order it reduces to it
 exactly (Proposition 9). The vocabulary has no topic for causal structure
 or causal order. It is tagged `contextuality` first because its
 contribution is to the sheaf-theoretic contextuality framework.

@@ -151,20 +151,20 @@ Spekkens' quantum Bayesian product as a reading of the thermal maps.
 
 ## Bearing on the record
 
-- **THEORY-158 (Baez & Fong, Markov processes).** The two papers fit
+- **[THEORY-158](../theory.d/THEORY-158.md) (Baez & Fong, Markov processes).** The two papers fit
   together, though neither says so. Here the equivalence rests on an
   antisymmetric bracket between observables and on reversible flows. A
   Markov generator H acting on a diagonal observable O supplies neither:
   [O, H] is not a bracket of two observables, and exp(tH) is a semigroup.
   That is why the Markov theorem needs the second moment conserved as well
   as the mean, and why mean conservation alone does not give a symmetry.
-  This is my connection, not the paper's; it does not change THEORY-158.
-- **New THEORY.** The reading produces THEORY-tmp3dh4x: in the algebraic
+  This is my connection, not the paper's; it does not change [THEORY-158](../theory.d/THEORY-158.md).
+- **New THEORY.** The reading produces [THEORY-tmp3dh4x](../theory.d/THEORY-tmp3dh4x.md): in the algebraic
   Hamiltonian setting the symmetry–conservation equivalence is the
   antisymmetry (equivalently, given bilinearity, the self-conservation) of
   the bracket together with uniqueness of flows, so its content lies in the
   map from observables to generators.
-- **CLAIM-tmpuwwjx** (the manuscript's Noether-type conservation criterion
+- **[CLAIM-tmpuwwjx](../claims.d/CLAIM-tmpuwwjx.md)** (the manuscript's Noether-type conservation criterion
   for a Markov reconstruction kernel). This paper bears on it only by
   contrast: the conditions that make "symmetry ⇔ conservation" hold here
   (antisymmetry, reversible one-parameter groups, observables as

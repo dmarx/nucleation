@@ -44,7 +44,7 @@ summary: >-
 
 ## Contribution
 
-LIT-016 had the non-contextual fraction only at its extreme value: zero
+[LIT-016](../literature.d/LIT-016.md) had the non-contextual fraction only at its extreme value: zero
 non-contextual fraction is strong contextuality. This paper makes the
 fraction a graded measure for any scenario. It shows that the measure is a
 linear programme, that it equals the best normalised Bell-inequality
@@ -80,7 +80,7 @@ violation, and a resource.
 
 - **Eq. (1)–(2).** NCF(e) = max λ over e = λe^NC + (1 − λ)e′. Every model
   decomposes as NCF·e^NC + CF·e^SC with e^SC strongly contextual (credited
-  to LIT-016), not uniquely. The supplement's Table II gives two
+  to [LIT-016](../literature.d/LIT-016.md)), not uniquely. The supplement's Table II gives two
   decompositions of one model with CF = ½ in the (3,2,2) scenario.
   Uniqueness holds when the no-signalling polytope has no face made only
   of strongly contextual vertices, as in (2,2,2).
@@ -155,35 +155,35 @@ also an optimal dual one, along each operation.
 
 ## Connections
 
-It is built on LIT-016's framework, and the decomposition into a strongly
+It is built on [LIT-016](../literature.d/LIT-016.md)'s framework, and the decomposition into a strongly
 contextual part is from there. It generalises the Elitzur–Popescu–Rohrlich
 local fraction from Bell scenarios to all scenarios. Theorem 3 sharpens
 Raussendorf (2013); Theorem 4 uses Abramsky and Hardy's logical Bell
-inequalities. Its note 33 lists negative-probability measures (LIT-016),
+inequalities. Its note 33 lists negative-probability measures ([LIT-016](../literature.d/LIT-016.md)),
 Contextuality-by-Default measures and noise and inefficiency measures as
 alternatives whose relation to CF is left for later.
 
 ## Bearing on the record
 
-- **THEORY-012.** The theory says the graded version of its criterion is
+- **[THEORY-012](../theory.d/THEORY-012.md).** The theory says the graded version of its criterion is
   this paper's. The reading confirms it: CF = 0 exactly when the
   global-section criterion holds, and the LP is the relaxation of
-  LIT-016's linear system. The inactive-ok directives citing LIT-265 as
-  Deferred, in THEORY-012, LIT-777, NOTE-600 and CLAIM-tmpukbg3, are now
+  [LIT-016](../literature.d/LIT-016.md)'s linear system. The inactive-ok directives citing [LIT-265](../literature.d/LIT-265.md) as
+  Deferred, in [THEORY-012](../theory.d/THEORY-012.md), [LIT-777](../literature.d/LIT-777.md), [NOTE-600](NOTE-600.md) and [CLAIM-tmpukbg3](../claims.d/CLAIM-tmpukbg3.md), are now
   stale.
-- **THEORY-014.** The negative-probability measure appears only in note
+- **[THEORY-014](../theory.d/THEORY-014.md).** The negative-probability measure appears only in note
   33. The paper's measure is the nonnegative side of that theory's
   pattern, the largest nonnegative part, rather than the least negative
   completion. It adds no instance and does not contradict it.
-- **THEORY-tmp8ly9g** is filed from this reading. Its convexity is
+- **[THEORY-tmp8ly9g](../theory.d/THEORY-tmp8ly9g.md)** is filed from this reading. Its convexity is
   Theorem 2. Its piecewise linearity and Lipschitz continuity in v_e are
   the reader's derivation from LP (3)–(4): NCF(e) = min over the finitely
   many vertices y_k of the dual polyhedron of y_k·v_e.
-- **THEORY-tmpjdnxt.** CF's non-increase under coarse-graining (C2)
+- **[THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md).** CF's non-increase under coarse-graining (C2)
   contrasts with Contextuality-by-Default, where coarse-graining a
-  non-binary system can create contextuality (LIT-tmpsa1qj, Example 3).
+  non-binary system can create contextuality ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md), Example 3).
   That theory states the contrast.
-- **The manuscript (CLAIM-tmpukbg3, Δ_CF).** Three bearings, for the
+- **The manuscript ([CLAIM-tmpukbg3](../claims.d/CLAIM-tmpukbg3.md), Δ_CF).** Three bearings, for the
   coordinator:
   (1) Δ_CF is defined only when both models in a step have compatible
   marginals. A reconstruction that introduces context-dependent marginals
@@ -196,7 +196,7 @@ alternatives whose relation to CF is left for later.
   changed" in the decreasing direction and constrains the increasing one.
   (3) The claim's quoted premise that CF is "a discontinuous contextuality
   measure" is not borne out within a scenario. CF is continuous, indeed
-  Lipschitz, in the probability table (THEORY-tmp8ly9g, the reader's
+  Lipschitz, in the probability table ([THEORY-tmp8ly9g](../theory.d/THEORY-tmp8ly9g.md), the reader's
   derivation). A drift bound on every context's distribution therefore
   bounds |Δ_CF| within a fixed scenario. What may jump is a change of
   scenario (cover), which is not a perturbation of the table.
@@ -218,7 +218,7 @@ alternatives whose relation to CF is left for later.
 ## Open questions
 
 - The relation between CF and Contextuality-by-Default's total-variation
-  measure (LIT-777) on consistently connected systems, which the paper
+  measure ([LIT-777](../literature.d/LIT-777.md)) on consistently connected systems, which the paper
   defers. On those systems both are LPs over closely related polytopes,
   and whether they order models the same way is not known to the record.
 - An explicit Lipschitz constant for CF in a given scenario, the largest

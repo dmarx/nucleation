@@ -36,7 +36,7 @@ summary: >-
 ## Contribution
 
 Earlier semantic rate–distortion work (Liu, Zhang and Poor; Chai et al.,
-LIT-tmpfnpwq) asks the decoder to estimate the hidden meaning S, or to
+[LIT-tmpfnpwq](../literature.d/LIT-tmpfnpwq.md)) asks the decoder to estimate the hidden meaning S, or to
 match its marginal law. This paper instead asks that the reconstruction
 leave the receiver with the same posterior over meanings as the original
 would have: d_p(p(S|x), p(S|y)). It proves the corresponding coding
@@ -132,13 +132,13 @@ has exactly the product law and H(K) ≤ nI(X;Y) + log(nI + 1) + 4.
 It builds on rate–distortion–perception theory (Blau and Michaeli; Theis
 and Wagner; Chen et al.) for its proof techniques, and on the
 latent-state semantic sources of Liu, Zhang and Poor. It cites Chai et al.
-(LIT-tmpfnpwq) as a semantic RDP framework, describing it as using
+([LIT-tmpfnpwq](../literature.d/LIT-tmpfnpwq.md)) as a semantic RDP framework, describing it as using
 "adaptive divergence metrics", where that paper fixes total variation on
-the marginal law. It does not cite the information bottleneck (LIT-338)
+the marginal law. It does not cite the information bottleneck ([LIT-338](../literature.d/LIT-338.md))
 or the indirect rate–distortion problem with logarithmic loss, to which
 its KL case reduces (below). Reference [6] (Gholipour et al. 2025) is cited
 for the claim that semantic communication can exceed Shannon capacity, the
-same claim the survey reports (LIT-tmpmigxa).
+same claim the survey reports ([LIT-tmpmigxa](../literature.d/LIT-tmpmigxa.md)).
 
 ## Bearing on the record
 
@@ -146,7 +146,7 @@ same claim the survey reports (LIT-tmpmigxa).
   E[D_KL(p(S|X) ‖ p(S|Y))] = E log p(S|X)/p(S|Y) = H(S|Y) − H(S|X) =
   I(S;X) − I(S;Y). So with d_p = KL and no symbolic constraint,
   R(D_p) = min{I(X;Y) : I(S;Y) ≥ I(S;X) − D_p}, which is Tishby, Pereira
-  and Bialek's bottleneck (LIT-338) with the reconstruction as the
+  and Bialek's bottleneck ([LIT-338](../literature.d/LIT-338.md)) with the reconstruction as the
   bottleneck variable. The paper names KL as a valid d_p but does not
   make this connection, and so does not see that its central constraint,
   for that choice, is twenty-five years old. My derivation.
@@ -158,15 +158,15 @@ same claim the survey reports (LIT-tmpmigxa).
   uniformly over every bounded decision problem about S, for the given
   prior; D_p = 0 means Y is as informative about S as X. This is the
   quantitative, prior-fixed counterpart of the Blackwell comparison the
-  record states in THEORY-156. My derivation.
-- **CLAIM-tmpek80j** (fidelity relative to the receiver's decisions,
+  record states in [THEORY-156](../theory.d/THEORY-156.md). My derivation.
+- **[CLAIM-tmpek80j](../claims.d/CLAIM-tmpek80j.md)** (fidelity relative to the receiver's decisions,
   made precise by Blackwell's order). The TV case above is a working
   example of that claim's standard, and the paper is prior art for it in
   communication: a rate–distortion function whose fidelity criterion
   controls every bounded decision about the meaning. It differs from the
   claim in fixing the prior on S and in using one divergence rather than
   a family Q of decision problems.
-- **CLAIM-tmpp8j04.** The exchange's description is accurate:
+- **[CLAIM-tmpp8j04](../claims.d/CLAIM-tmpp8j04.md).** The exchange's description is accurate:
   "ambiguity, polysemy, and distortion of conditional semantic probability
   distributions" is what the paper formalises, and preserving a
   distribution over interpretations is its stated aim. The concession is
@@ -192,7 +192,7 @@ same claim the survey reports (LIT-tmpmigxa).
   plus the classifier's cross-entropy: task-aware compression, a known
   technique. Its results show that training for the task helps the task,
   not that the posterior-distortion function is achieved.
-- Source of THEORY-tmp3ijnj. Not machine-learning practice, though the
+- Source of [THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md). Not machine-learning practice, though the
   experiment is a training recipe; no anthology flag.
 
 ## Limitations

@@ -107,7 +107,7 @@ hierarchical voting; discard the adapter.
 - **test-time training (this paper)**: "temporarily updating model
   parameters during inference using a loss derived from input data".
   Footnote 2 separates it from TTT layers, where an RNN's hidden state is
-  treated as parameters (LIT-tmp8hsmf).
+  treated as parameters ([LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md)).
 - **leave-one-out in-context task**: d_j = ({(x_k, y_k)}_{k≠j}, x_j, y_j).
 - **direct I/O**: training on each (x_k, y_k) alone, without context.
 - **augmented inference**: predicting under several invertible
@@ -117,10 +117,10 @@ hierarchical voting; discard the adapter.
 
 Its lineage is local learning (Bottou and Vapnik 1992), transduction and
 Sun et al.'s (2020) test-time training for vision. The paper cites Min et
-al. (LIT-tmpgsgpo) for the evidence that in-context learning does not
+al. ([LIT-tmpgsgpo](../literature.d/LIT-tmpgsgpo.md)) for the evidence that in-context learning does not
 resemble standard learning algorithms, and its own first author's earlier
 work on in-context learning as implicit learning (the same line as von
-Oswald et al., LIT-tmp2vilw). Sun et al. (LIT-tmp8hsmf) put the update
+Oswald et al., [LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md)). Sun et al. ([LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md)) put the update
 inside a layer and make it per token; here it is per task and on the
 network's own weights.
 
@@ -132,14 +132,14 @@ network's own weights.
   it. The update helps, and helps most where the model cannot already do
   the task. So, behaviourally, using examples as context and using them
   as a training signal are not interchangeable in a language model of
-  this size. This sits beside THEORY-tmpllqzv, which says that in
+  this size. This sits beside [THEORY-tmpllqzv](../theory.d/THEORY-tmpllqzv.md), which says that in
   linear attention the two are the same computation: there the "update"
   is to a model held in activations, here it is to the network's own
   weights.
 - **Transient adaptation.** The update is discarded after each task, so
   it is as short-lived as a context, yet it is a change of parameters, not
   of input. Persistence and the locus of the change come apart here.
-- **Agreement with the anthology.** ANTH-LIT-379 reads the paper the same
+- **Agreement with the anthology.** [ANTH-LIT-379](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-379.md) reads the paper the same
   way on the main results. The one discrepancy (61.9% vs 62.8%) is in the
   paper, and is noted on the LIT.
 - No instruction for machine-learning practice is drawn here.

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpohmuz); worth reading as the one-page origin of the rational speech act model''s quantitative test: a listener who inverts, by Bayes'' rule, a speaker who chooses words in proportion to their informativeness (exp of minus surprisal under a literal listener, which reduces to the size principle |w|⁻¹), combined with an empirically measured salience prior, predicts mean listener bets in three-object reference games at r = .99 with no fitted parameters (α set to 1). Read it knowing that the fit is to means over seven context types, that the prior is measured in a separate group, and that the speaker and listener groups never interact. Source of THEORY-tmprknoj.'
+status_note: 'read 2026-10-09 ([NOTE-tmpohmuz](../notes.d/NOTE-tmpohmuz.md)); worth reading as the one-page origin of the rational speech act model''s quantitative test: a listener who inverts, by Bayes'' rule, a speaker who chooses words in proportion to their informativeness (exp of minus surprisal under a literal listener, which reduces to the size principle |w|⁻¹), combined with an empirically measured salience prior, predicts mean listener bets in three-object reference games at r = .99 with no fitted parameters (α set to 1). Read it knowing that the fit is to means over seven context types, that the prior is measured in a separate group, and that the speaker and listener groups never interact. Source of [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md).'
 title: 'Predicting Pragmatic Reasoning in Language Games'
 version: 1
 history:
@@ -17,6 +17,7 @@ history:
     the SOTA: a grep of its record/ (clone of 2026-10-09, commit d8b5ba5)
     for the authors, the DOI and the title found nothing.
 tags:
+- pragmatics
 - linguistics
 - cognition
 - probabilistic-modeling
@@ -73,8 +74,8 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Read on 2026-10-09 (NOTE-tmpohmuz); with LIT-tmpcsywp and LIT-tmphavsf it
-is the source of THEORY-tmprknoj. A later reanalysis exists (Sikos,
+Read on 2026-10-09 ([NOTE-tmpohmuz](../notes.d/NOTE-tmpohmuz.md)); with [LIT-tmpcsywp](LIT-tmpcsywp.md) and [LIT-tmphavsf](LIT-tmphavsf.md) it
+is the source of [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md). A later reanalysis exists (Sikos,
 Venhuizen, Drenhaus and Crocker 2021, "Reevaluating pragmatic reasoning
 in language games", PLOS ONE, DOI-10.1371/journal.pone.0248388); the
 record does not hold it and it was not read.

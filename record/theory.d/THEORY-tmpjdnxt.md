@@ -19,8 +19,8 @@ source:
 - LIT-tmpsa1qj
 - LIT-777
 summary: >-
-  Dzhafarov, Cervantes & Kujala (2017), LIT-tmp1kfuc, with Dzhafarov &
-  Kujala's CbD 2.0 (LIT-tmpsa1qj) and CbD 1.0 (LIT-777). The same
+  Dzhafarov, Cervantes & Kujala (2017), [LIT-tmp1kfuc](../literature.d/LIT-tmp1kfuc.md), with Dzhafarov &
+  Kujala's CbD 2.0 ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md)) and CbD 1.0 ([LIT-777](../literature.d/LIT-777.md)). The same
   measurements can receive different verdicts. Maximal and multimaximal
   couplings disagree when a content appears in three or more contexts.
   Multimaximal couplings of non-binary variables can be destroyed by
@@ -29,6 +29,8 @@ summary: >-
   other. The authors present the representation as the analyst's choice,
   not as a defect. What the record does not get from these papers is any
   rule for choosing it.
+supports:
+- CLAIM-tmpje74v
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; its scope is what this theory bears on -->
@@ -37,10 +39,10 @@ summary: >-
 
 ## Source
 
-Dzhafarov, Cervantes & Kujala (2017), LIT-tmp1kfuc, Sections 1, 3–5 and the
-supplement (NOTE-tmpwfgbe). Dzhafarov & Kujala (2017), LIT-tmpsa1qj,
-Sections 1, 4 and 6 (NOTE-tmpy1lmh). Dzhafarov & Kujala (2016), LIT-777,
-Definition 3.4 (NOTE-600).
+Dzhafarov, Cervantes & Kujala (2017), [LIT-tmp1kfuc](../literature.d/LIT-tmp1kfuc.md), Sections 1, 3–5 and the
+supplement ([NOTE-tmpwfgbe](../notes.d/NOTE-tmpwfgbe.md)). Dzhafarov & Kujala (2017), [LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md),
+Sections 1, 4 and 6 ([NOTE-tmpy1lmh](../notes.d/NOTE-tmpy1lmh.md)). Dzhafarov & Kujala (2016), [LIT-777](../literature.d/LIT-777.md),
+Definition 3.4 ([NOTE-600](../notes.d/NOTE-600.md)).
 
 ## What was actually shown
 
@@ -51,8 +53,8 @@ content's copies. The verdict therefore depends on two choices: which
 coupling is prescribed, and which variables are in the system. Each choice
 has been made in more than one way:
 
-1. **Maximal vs multimaximal couplings.** CbD 1.0 (LIT-777) prescribes a
-   maximal coupling of each whole connection. CbD 2.0 (LIT-tmpsa1qj)
+1. **Maximal vs multimaximal couplings.** CbD 1.0 ([LIT-777](../literature.d/LIT-777.md)) prescribes a
+   maximal coupling of each whole connection. CbD 2.0 ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md))
    prescribes a multimaximal one, with every subset (equivalently every
    pair) maximally coupled. The two agree for connections of two
    variables, hence for cyclic systems, and for consistently connected
@@ -63,9 +65,9 @@ has been made in more than one way:
    coarse-graining can turn a noncontextual system into a contextual one.
    This is proved by example: a 6-valued connection with two multimaximal
    couplings becomes, after lumping, a 3-valued connection with none
-   (LIT-tmpsa1qj, Examples 1–3).
+   ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md), Examples 1–3).
 3. **Which dichotomizations to include.** The canonical representation
-   (LIT-tmp1kfuc) replaces each variable by binary splits, and the analyst
+   ([LIT-tmp1kfuc](../literature.d/LIT-tmp1kfuc.md)) replaces each variable by binary splits, and the analyst
    chooses which coarsenings to add. With all splits of two
    content-sharing k-valued variables, the pair is noncontextual if and
    only if Pr[R = x] < Pr[R′ = x] holds for at most one value x, in one
@@ -88,13 +90,13 @@ is. The proof shows instead that the maximal couplings of the 1- and
 - **Not that every verdict in the CbD literature changes.** Binary cyclic
   systems, which carry most published analyses, are judged the same under
   1.0, 2.0 and the canonical form (their variables are already binary,
-  and each connection has two). THEORY-013's findings are of this kind.
+  and each connection has two). [THEORY-013](THEORY-013.md)'s findings are of this kind.
   They are untouched for binary data. They do not carry over to
   multi-valued responses analysed canonically, where Theorem 4.6 makes
   contextuality easy to find.
 - **Not a statement about the sheaf framework.** There, a model is
   no-signalling by definition, and coarse-graining outcomes cannot raise
-  the contextual fraction (LIT-265, Theorem 2). The contrast concerns how
+  the contextual fraction ([LIT-265](../literature.d/LIT-265.md), Theorem 2). The contrast concerns how
   each framework handles coarse-graining, and the papers do not compare
   them.
 - **Not a rule for choosing.** The papers suggest that intervals or cuts

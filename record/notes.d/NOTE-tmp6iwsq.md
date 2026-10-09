@@ -119,12 +119,12 @@ already holds the correspondence, and the prompt selects and formats it.
 
 ## Connections
 
-It cites Xie et al.'s Bayesian account (LIT-tmp6trip) as the theory of
+It cites Xie et al.'s Bayesian account ([LIT-tmp6trip](../literature.d/LIT-tmp6trip.md)) as the theory of
 how demonstrations "recover latent concepts" and supplies measurements of
 what does the recovering: on a latent-concept reading, inputs, label space
 and format are evidence about the task, and the mapping is evidence the
 model can do without. Webson and Pavlick (2022) find the analogous result
-for instructions, which the authors connect. Lu et al. (LIT-tmpthf7j) show
+for instructions, which the authors connect. Lu et al. ([LIT-tmpthf7j](../literature.d/LIT-tmpthf7j.md)) show
 that the order of the same demonstrations can swing accuracy widely, which
 is a different axis from what this paper ablates.
 

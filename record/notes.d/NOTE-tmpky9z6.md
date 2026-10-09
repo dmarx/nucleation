@@ -128,7 +128,7 @@ Languages differ mainly in where they sit on that one curve.
 
 ## Connections
 
-The objective is Tishby, Pereira and Bialek's (LIT-338), with KL
+The objective is Tishby, Pereira and Bialek's ([LIT-338](../literature.d/LIT-338.md)), with KL
 distortion justified after Harremoës and Tishby; the authors place it
 inside rate–distortion (Shannon 1959) and distinguish their compression
 view from channel-capacity views of language (Levy and Jaeger; Piantadosi
@@ -140,16 +140,16 @@ Rose's.
 
 ## Bearing on the record
 
-- **LIT-338.** The record's reading of the IB paper (NOTE-300) found its
+- **[LIT-338](../literature.d/LIT-338.md).** The record's reading of the IB paper ([NOTE-300](NOTE-300.md)) found its
   phase-transition claim cited out, not shown. Here the bifurcations of
   the optimal encoder as β grows are computed and plotted for a real
   meaning space (Fig. 5), though the analysis is in the SI, unread.
-- **THEORY-155 and LIT-769.** Griffiths and Kalish say where Bayesian
+- **[THEORY-155](../theory.d/THEORY-155.md) and [LIT-769](../literature.d/LIT-769.md).** Griffiths and Kalish say where Bayesian
   transmission takes a language (to the prior); this paper says where
   efficient systems lie. It gives no transmission model, so it neither
-  supports nor conflicts with THEORY-155; its "evolution" is a path
+  supports nor conflicts with [THEORY-155](../theory.d/THEORY-155.md); its "evolution" is a path
   through optima, not a dynamics.
-- **Produces THEORY-tmp64mn6**, stating C1–C3 with the fitted-source
+- **Produces [THEORY-tmp64mn6](../theory.d/THEORY-tmp64mn6.md)**, stating C1–C3 with the fitted-source
   caveat.
 - No instruction for machine-learning practice; nothing for the
   anthology.

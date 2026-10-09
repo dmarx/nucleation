@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpins0u); worth reading as the measurement that the order of the same few-shot examples, with content held fixed, can move a language model from near chance to near the fine-tuned state of the art, at every size from GPT-2 Small to GPT-3 175B. Good orders do not transfer between model sizes (rank correlations near zero), more examples do not remove the variance, and failing orders mostly collapse the predicted label distribution. The rest of the paper is a selection method (entropy over a self-generated probing set) whose interest here is secondary.'
+status_note: 'read 2026-10-09 ([NOTE-tmpins0u](../notes.d/NOTE-tmpins0u.md)); worth reading as the measurement that the order of the same few-shot examples, with content held fixed, can move a language model from near chance to near the fine-tuned state of the art, at every size from GPT-2 Small to GPT-3 175B. Good orders do not transfer between model sizes (rank correlations near zero), more examples do not remove the variance, and failing orders mostly collapse the predicted label distribution. The rest of the paper is a selection method (entropy over a self-generated probing set) whose interest here is secondary.'
 title: 'Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity'
 version: 1
 history:
@@ -49,7 +49,7 @@ summary: >-
 # LIT-tmpthf7j: Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity
 
 Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel and Pontus Stenetorp
-(2021), *ACL 2022* — ARXIV-2104.08786, DOI-10.18653/v1/2022.acl-long.556
+(2021), *ACL 2022* — [ARXIV-2104.08786](https://arxiv.org/abs/2104.08786), DOI-10.18653/v1/2022.acl-long.556
 
 ## Key takeaways
 
@@ -79,7 +79,7 @@ Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel and Pontus Stenetorp
 Filed on 2026-10-09 at the owner's request, from the bibliography of the
 owner's manuscript *What Survives Translation?* (work
 `what-survives-translation`), which considered it and dropped it from the
-final reference list. Read on its own terms (NOTE-tmpins0u).
+final reference list. Read on its own terms ([NOTE-tmpins0u](../notes.d/NOTE-tmpins0u.md)).
 
 It carries `anthology-candidate`: its subject, prompt design for few-shot
 learning, is one an anthology topic holds, and its method is an

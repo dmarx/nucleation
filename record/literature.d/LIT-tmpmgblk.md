@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpwwf5q), in full, from the PDF on the journal''s own site (haujournal.org); worth reading as a short statement, by Lévi-Strauss''s student, of what structural analysis is when separated from Lévi-Strauss''s philosophy: no phenomenon has meaning in itself, only in contrast with others of its kind, and a structure, unlike a system, is the set of invariant relations that lets one move from one variant to another by transformation. Descola distinguishes two regimes of transformation in Lévi-Strauss: a Goethean one, the development of an initial form into its possible variants (kinship in Les structures élémentaires, and Descola''s own four ontologies), and a Thompsonian one, continuous deformation between given forms (myth). In myth, he notes, the group of transformations is a virtual continuum on which the analyst makes the cuts, so the path between variants is the analyst''s choice. A keynote lecture; argued, not demonstrated.'
+status_note: 'read 2026-10-09 ([NOTE-tmpwwf5q](../notes.d/NOTE-tmpwwf5q.md)), in full, from the PDF on the journal''s own site (haujournal.org); worth reading as a short statement, by Lévi-Strauss''s student, of what structural analysis is when separated from Lévi-Strauss''s philosophy: no phenomenon has meaning in itself, only in contrast with others of its kind, and a structure, unlike a system, is the set of invariant relations that lets one move from one variant to another by transformation. Descola distinguishes two regimes of transformation in Lévi-Strauss: a Goethean one, the development of an initial form into its possible variants (kinship in Les structures élémentaires, and Descola''s own four ontologies), and a Thompsonian one, continuous deformation between given forms (myth). In myth, he notes, the group of transformations is a virtual continuum on which the analyst makes the cuts, so the path between variants is the analyst''s choice. A keynote lecture; argued, not demonstrated.'
 title: 'Transformation transformed'
 version: 1
 history:
@@ -20,6 +20,7 @@ history:
     (clone of 2026-10-09, commit d8b5ba5) for "Descola", the DOI and the
     title found nothing.
 tags:
+- myth-and-folklore
 - social-science
 - philosophy-of-science
 date: '2026-10-09'
@@ -94,6 +95,6 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpwwf5q). It is a reading of Lévi-Strauss, whose
-*Structural Anthropology* the record holds unread (LIT-775); no THEORY is
+Read on 2026-10-09 ([NOTE-tmpwwf5q](../notes.d/NOTE-tmpwwf5q.md)). It is a reading of Lévi-Strauss, whose
+*Structural Anthropology* the record holds unread ([LIT-775](LIT-775.md)); no THEORY is
 filed from it, since it argues a method rather than establishing a finding.

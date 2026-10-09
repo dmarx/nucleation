@@ -41,11 +41,11 @@ novelty ([CLAIM-tmp7cc3w](CLAIM-tmp7cc3w.md)) commits it to.
 
 ## What the two works show, read
 
-- **Descola** (LIT-tmpmgblk) supports transformation as the keystone of the
+- **Descola** ([LIT-tmpmgblk](../literature.d/LIT-tmpmgblk.md)) supports transformation as the keystone of the
   method: "a structure is not a system". He also cites Lévi-Strauss saying
   that in myth the analyst makes the cuts and chooses the path between
   variants.
-- **Doja, Capocchi and Santucci** (LIT-tmp9axrl) give only a software
+- **Doja, Capocchi and Santucci** ([LIT-tmp9axrl](../literature.d/LIT-tmp9axrl.md)) give only a software
   framework for transformations the analyst supplies, with a mapping of one
   folktale's mythemes. No hypothesis about myth is tested.
 

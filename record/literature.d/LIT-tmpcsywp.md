@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp9okql); worth reading as the paper in which the RSA recursion is made to derive Horn''s division of pragmatic labour (costlier forms for less likely meanings) in one-shot signalling games with no prior conventions: the basic recursion cannot break the symmetry between equally meaningless costly and cheap signals, but a listener and speaker uncertain about the lexicon, marginalizing over every lexicon that could assign the signals meanings, converge on the efficient mapping without an equilibrium-selection rule. Two small Mechanical Turk games (40 and 140 participants) show people drawing specificity and Horn implicatures among novel symbols in five rounds, with no first-round difference. Source, with LIT-tmpkwn2g and LIT-tmphavsf, of THEORY-tmprknoj.'
+status_note: 'read 2026-10-09 ([NOTE-tmp9okql](../notes.d/NOTE-tmp9okql.md)); worth reading as the paper in which the RSA recursion is made to derive Horn''s division of pragmatic labour (costlier forms for less likely meanings) in one-shot signalling games with no prior conventions: the basic recursion cannot break the symmetry between equally meaningless costly and cheap signals, but a listener and speaker uncertain about the lexicon, marginalizing over every lexicon that could assign the signals meanings, converge on the efficient mapping without an equilibrium-selection rule. Two small Mechanical Turk games (40 and 140 participants) show people drawing specificity and Horn implicatures among novel symbols in five rounds, with no first-round difference. Source, with [LIT-tmpkwn2g](LIT-tmpkwn2g.md) and [LIT-tmphavsf](LIT-tmphavsf.md), of [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md).'
 title: 'That''s what she (could have) said: How alternative utterances affect language use'
 version: 1
 history:
@@ -22,6 +22,7 @@ history:
     2026-10-09, commit d8b5ba5) for the authors, the title and the
     eScholarship id found nothing.
 tags:
+- pragmatics
 - linguistics
 - game-theory
 - cognition
@@ -90,9 +91,9 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Read on 2026-10-09 (NOTE-tmp9okql). With LIT-tmpkwn2g and LIT-tmphavsf it
-is the source of THEORY-tmprknoj. Its premise, common knowledge of
-communicative goals, and its signalling games are Lewis's (LIT-473,
+Read on 2026-10-09 ([NOTE-tmp9okql](../notes.d/NOTE-tmp9okql.md)). With [LIT-tmpkwn2g](LIT-tmpkwn2g.md) and [LIT-tmphavsf](LIT-tmphavsf.md) it
+is the source of [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md). Its premise, common knowledge of
+communicative goals, and its signalling games are Lewis's ([LIT-473](LIT-473.md),
 filed but not read); the paper's point is that in such games the
 efficient conventions can be reached by reasoning in one shot, without
 the precedent or evolution Lewis's conventions rest on.

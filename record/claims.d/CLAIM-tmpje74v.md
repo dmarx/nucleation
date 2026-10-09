@@ -41,12 +41,12 @@ observable may be asked alongside several others.
 
 ## What the CbD 2.0 readings add
 
-CbD 2.0 (LIT-tmpsa1qj) and its companion (LIT-tmpuzf4t) confirm this claim:
+CbD 2.0 ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md)) and its companion ([LIT-tmpuzf4t](../literature.d/LIT-tmpuzf4t.md)) confirm this claim:
 verdicts change only for contents measured in three or more contexts.
 
-The canonical-systems paper (LIT-tmp1kfuc) adds a qualification. Whether a
+The canonical-systems paper ([LIT-tmp1kfuc](../literature.d/LIT-tmp1kfuc.md)) adds a qualification. Whether a
 fixed set of measurements counts as contextual depends on how the system is
 represented: which couplings are imposed, and which dichotomizations are
-included (THEORY-tmpjdnxt). "The parity example is unaffected" assumes S, M
+included ([THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md)). "The parity example is unaffected" assumes S, M
 and H are binary. If any of them is multi-valued and its coarsenings matter,
 even a single observable can come out contextual.

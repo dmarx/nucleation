@@ -62,10 +62,10 @@ unique, identifiable latent variable z need exist." It is compatible with
 
 ## A worked model
 
-Rational speech act models (THEORY-tmprknoj) treat the listener's output as
+Rational speech act models ([THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md)) treat the listener's output as
 exactly this: a posterior over what the speaker meant, given the utterance
-and its alternatives. Frank and Goodman (LIT-tmpkwn2g) give it for
-referents. Goodman and Frank's extended model (LIT-tmphavsf) gives a joint
+and its alternatives. Frank and Goodman ([LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md)) give it for
+referents. Goodman and Frank's extended model ([LIT-tmphavsf](../literature.d/LIT-tmphavsf.md)) gives a joint
 posterior over the world and the speaker's topic, knowledge or lexicon,
 which is an utterance supporting a distribution over the situation of its
 saying.

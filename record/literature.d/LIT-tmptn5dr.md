@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpp880r); worth reading as the source of the quantum question (QQ) model and its QQ equality: if each answer is a Lüders projection of one belief state, the probability of giving different answers to two questions is the same in both orders, whatever the state, the projectors or the dimension. Six data sets bear it out, and the Rose–Jackson poll fails it, as the authors predicted, because new information was inserted between the questions. Read with the caveat that the case against classical rivals is thin: the Bayesian argument is informal and the Markov proof is "available upon request", so the paper shows that unconstrained classical models need not satisfy the equality, not that none can.'
+status_note: 'read 2026-10-09 ([NOTE-tmpp880r](../notes.d/NOTE-tmpp880r.md)); worth reading as the source of the quantum question (QQ) model and its QQ equality: if each answer is a Lüders projection of one belief state, the probability of giving different answers to two questions is the same in both orders, whatever the state, the projectors or the dimension. Six data sets bear it out, and the Rose–Jackson poll fails it, as the authors predicted, because new information was inserted between the questions. Read with the caveat that the case against classical rivals is thin: the Bayesian argument is informal and the Markov proof is "available upon request", so the paper shows that unconstrained classical models need not satisfy the equality, not that none can.'
 title: 'A Quantum Question Order Model Supported by Empirical Tests of an A Priori and Precise Prediction'
 version: 1
 history:
@@ -100,9 +100,9 @@ owner's manuscript (work `what-survives-translation`) as it stood on
 2026-10-08: a work the bibliography considered and the final reference
 list dropped. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpp880r). It is the original statement of the
-QQ equality that LIT-tmp56yt5 tests on 72 surveys and that LIT-264
+Read on 2026-10-09 ([NOTE-tmpp880r](../notes.d/NOTE-tmpp880r.md)). It is the original statement of the
+QQ equality that [LIT-tmp56yt5](LIT-tmp56yt5.md) tests on 72 surveys and that [LIT-264](LIT-264.md)
 reads through Contextuality-by-Default: the equality implies that a
 question-order system is noncontextual. With them it is a source of
-THEORY-tmp9wyar. The authors' book-length treatment is LIT-316, unread
+[THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md). The authors' book-length treatment is [LIT-316](LIT-316.md), unread
 here.

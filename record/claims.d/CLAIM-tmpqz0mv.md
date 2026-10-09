@@ -56,7 +56,7 @@ was dropped is the objective's place in the main argument, not the objective.
 
 ## The nearest precedent, and what it implies
 
-Zaslavsky et al. (LIT-tmpe6100, THEORY-tmp64mn6) apply the bottleneck to
+Zaslavsky et al. ([LIT-tmpe6100](../literature.d/LIT-tmpe6100.md), [THEORY-tmp64mn6](../theory.d/THEORY-tmp64mn6.md)) apply the bottleneck to
 word meanings, with one relevance variable rather than a context-indexed
 one. Their formulation also sharpens this claim's defeat condition. Once
 meanings are distributions and distortion is KL divergence, the bottleneck

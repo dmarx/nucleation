@@ -107,7 +107,7 @@ Works in the frame of GPT-3's few-shot prompting. Against Liu et al.
 (2021), who retrieve nearest-neighbour examples from a full training set
 and find order barely matters, it finds the opposite in the true few-shot
 setting. Zhao et al. (2021) is the calibration it tests. Xie et al.
-(LIT-tmp6trip) reproduce a 10–40 point order effect in GINC, where it
+([LIT-tmp6trip](../literature.d/LIT-tmp6trip.md)) reproduce a 10–40 point order effect in GINC, where it
 follows from the prompt's mismatch with pretraining.
 
 ## Bearing on the record

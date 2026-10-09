@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp0w9bg); worth reading as the dynamic-semantic statement of the performative/constative distinction: an informative update removes indices from a context set (Stalnaker), a performative update changes them minimally so that a proposition holds (after Szabolcsi 1982), and so can add indices the context did not contain. A declaration is a pure performative update; an assertion is a performative update (the speaker publicly guarantees the proposition) followed by an informative update that the addressee may refuse. The same declarative sentence is structurally ambiguous between the two. Read it as a formal proposal argued from linguistic evidence (hereby, hedges, tense across languages), not as a tested theory, and note that commitment spaces, which carry the negotiation, are Krifka''s other papers, not this one.'
+status_note: 'read 2026-10-09 ([NOTE-tmp0w9bg](../notes.d/NOTE-tmp0w9bg.md)); worth reading as the dynamic-semantic statement of the performative/constative distinction: an informative update removes indices from a context set (Stalnaker), a performative update changes them minimally so that a proposition holds (after Szabolcsi 1982), and so can add indices the context did not contain. A declaration is a pure performative update; an assertion is a performative update (the speaker publicly guarantees the proposition) followed by an informative update that the addressee may refuse. The same declarative sentence is structurally ambiguous between the two. Read it as a formal proposal argued from linguistic evidence (hereby, hedges, tense across languages), not as a tested theory, and note that commitment spaces, which carry the negotiation, are Krifka''s other papers, not this one.'
 title: 'Performative updates and the modeling of speech acts'
 version: 1
 history:
@@ -20,6 +20,7 @@ history:
     of 2026-10-09, commit d8b5ba5) for "Krifka", "performative update"
     and the DOI found nothing.
 tags:
+- pragmatics
 - philosophy-of-language
 - linguistics
 date: '2026-10-09'
@@ -92,12 +93,12 @@ bibliography of 2026-10-09 (work `what-survives-translation`), which
 considered this paper and dropped it from the final reference list. See
 the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmp0w9bg). It is the record's only formal account
+Read on 2026-10-09 ([NOTE-tmp0w9bg](../notes.d/NOTE-tmp0w9bg.md)). It is the record's only formal account
 of speech acts. Its two named predecessors are filed beside it: Stalnaker's
-"Assertion" (LIT-tmpeftz9), whose context-set update is the informative
-half, and Searle's *Speech Acts* (LIT-tmpnhioh), whose F(p) form the
-operator · instantiates. Austin's lectures (LIT-785) are the source of the
+"Assertion" ([LIT-tmpeftz9](LIT-tmpeftz9.md)), whose context-set update is the informative
+half, and Searle's *Speech Acts* ([LIT-tmpnhioh](LIT-tmpnhioh.md)), whose F(p) form the
+operator · instantiates. Austin's lectures ([LIT-785](LIT-785.md)) are the source of the
 constative/performative distinction it formalises.
 
 With the Heim and Veltman readings of the same day it is a source of
-THEORY-tmp5ncrn.
+[THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md).

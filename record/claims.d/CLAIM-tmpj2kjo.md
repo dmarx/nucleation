@@ -47,6 +47,6 @@ endpoint reflects the learners or the transmission filter.
 
 ## A chain without a filter
 
-Kalish, Griffiths and Lewandowsky (LIT-tmpj7bvq) supply the unfiltered chain
+Kalish, Griffiths and Lewandowsky ([LIT-tmpj7bvq](../literature.d/LIT-tmpj7bvq.md)) supply the unfiltered chain
 with a bias stated in advance that Kirby, Cornish and Smith lack. They still
 cannot tell sampling learners from MAP learners.

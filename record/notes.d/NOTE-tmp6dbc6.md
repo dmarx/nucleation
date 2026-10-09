@@ -72,7 +72,7 @@ The review's own formal content:
   said "hat".
 - **Utility refinements**: cost (written in the Box as
   U = log P_Lit(w|u) + cost(u); the sign must be negative for cost to
-  disfavour an utterance, as in LIT-tmpcsywp's Eq. 3); expected utility
+  disfavour an utterance, as in [LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md)'s Eq. 3); expected utility
   under speaker knowledge k, U(u; k) = E_{P(w|k)}[U(u; w)]; topic
   relevance by a projection t, U(u; w, t) = log Σ_{w′: t(w′)=t(w)}
   P_Lit(w′|u); social utilities such as kindness.
@@ -121,7 +121,7 @@ compositional semantics à la Montague, to grammatical theories of
 alternatives, and to neural speaker–listener models in NLP (Andreas and
 Klein). The language-change box links in-the-moment pragmatics to
 iterated learning (Kirby, Cornish and Smith 2008, which the record holds
-as LIT-771; and Kirby, Tamariz, Cornish and Smith 2015, where a
+as [LIT-771](../literature.d/LIT-771.md); and Kirby, Tamariz, Cornish and Smith 2015, where a
 communicative pressure that the review says "can be modeled via RSA"
 offsets learnability) and to typological efficiency (Regier, Kay and
 Khetarpal on colour; Kemp and Regier on kinship; Xu and Regier on
@@ -129,8 +129,8 @@ numerals).
 
 ## Bearing on the record
 
-- **THEORY-tmprknoj** takes its formal statement from here and its
-  evidence from LIT-tmpkwn2g and LIT-tmpcsywp, read directly.
+- **[THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md)** takes its formal statement from here and its
+  evidence from [LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md) and [LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md), read directly.
 - **The uRSA posterior** P_L(w, s|u) is a joint distribution over the
   world and the circumstances of the utterance (speaker's topic,
   knowledge, lexicon) given what was said. The record has no other
@@ -140,7 +140,7 @@ numerals).
   projection of the world, so a speaker can be maximally informative
   about one question and uninformative about others; this is the
   framework's own version of fidelity relative to a question.
-- **LIT-769 and THEORY-155.** The language-change box cites iterated
+- **[LIT-769](../literature.d/LIT-769.md) and [THEORY-155](../theory.d/THEORY-155.md).** The language-change box cites iterated
   learning and says whether typological distributions arise from
   iterated learning with RSA-like users is open. That is a question, not
   a result.

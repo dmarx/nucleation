@@ -20,14 +20,16 @@ source:
 - LIT-tmpe6100
 - LIT-338
 summary: >-
-  Zaslavsky, Kemp, Regier & Tishby (2018), LIT-tmpe6100, read in
-  NOTE-tmpky9z6: treating a colour lexicon as an encoder from Gaussian
+  Zaslavsky, Kemp, Regier & Tishby (2018), [LIT-tmpe6100](../literature.d/LIT-tmpe6100.md), read in
+  [NOTE-tmpky9z6](../notes.d/NOTE-tmpky9z6.md): treating a colour lexicon as an encoder from Gaussian
   perceptual meanings to words, the World Color Survey languages and
-  English lie near the IB curve of LIT-338 at β ≈ 1.03, beat hue-rotated
+  English lie near the IB curve of [LIT-338](../literature.d/LIT-338.md) at β ≈ 1.03, beat hue-rotated
   variants of themselves, and their soft, partly inconsistent naming is
   what IB optima look like. It does not show that languages are driven to
   the bound by any process, and the need distribution that makes the fit
   best is estimated from the naming data themselves.
+supports:
+- CLAIM-tmpqz0mv
 ---
 <!-- inactive-ok-file: THEORY-155 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -35,9 +37,9 @@ summary: >-
 
 ## Source
 
-- Zaslavsky, Kemp, Regier & Tishby (2018), LIT-tmpe6100, read in
-  NOTE-tmpky9z6: Eqs. 1–7, Fig. 3, Table 1, the rotation control, Fig. 5.
-- Tishby, Pereira & Bialek (1999), LIT-338, read in NOTE-300: the
+- Zaslavsky, Kemp, Regier & Tishby (2018), [LIT-tmpe6100](../literature.d/LIT-tmpe6100.md), read in
+  [NOTE-tmpky9z6](../notes.d/NOTE-tmpky9z6.md): Eqs. 1–7, Fig. 3, Table 1, the rotation control, Fig. 5.
+- Tishby, Pereira & Bialek (1999), [LIT-338](../literature.d/LIT-338.md), read in [NOTE-300](../notes.d/NOTE-300.md): the
   objective and its self-consistent solution.
 
 ## The claim
@@ -71,7 +73,7 @@ not in the data, a stated failure.
   bound is a property of the end states; no transmission or learning
   process was modelled, and the "evolution" is the path of optima through
   β, compared with Berlin and Kay's stages by eye. How a population would
-  reach the bound is open; iterated learning (THEORY-155) is a theory of
+  reach the bound is open; iterated learning ([THEORY-155](THEORY-155.md)) is a theory of
   where transmission goes, and the two have not been joined.
 - **Not that the bound is fitted without help.** The need distribution
   that gives the best fit is built from the naming data, averaged and

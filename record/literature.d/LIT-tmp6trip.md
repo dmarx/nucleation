@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpoc0i1); worth reading as the cleanest formal statement of in-context learning as posterior inference over a latent concept: if pretraining documents are a mixture of HMMs and the model fits that mixture exactly, then conditioning on a prompt of concatenated examples selects the prompt''s concept by posterior concentration, despite the prompt being low-probability under pretraining, provided each example carries more KL signal about the concept than the error from its unnatural boundaries (Theorem 1). The guarantees are asymptotic in the number of examples and say nothing about how a trained network computes the posterior; the experiments are on a synthetic dataset (GINC) built to satisfy the assumptions.'
+status_note: 'read 2026-10-09 ([NOTE-tmpoc0i1](../notes.d/NOTE-tmpoc0i1.md)); worth reading as the cleanest formal statement of in-context learning as posterior inference over a latent concept: if pretraining documents are a mixture of HMMs and the model fits that mixture exactly, then conditioning on a prompt of concatenated examples selects the prompt''s concept by posterior concentration, despite the prompt being low-probability under pretraining, provided each example carries more KL signal about the concept than the error from its unnatural boundaries (Theorem 1). The guarantees are asymptotic in the number of examples and say nothing about how a trained network computes the posterior; the experiments are on a synthetic dataset (GINC) built to satisfy the assumptions.'
 title: 'An Explanation of In-context Learning as Implicit Bayesian Inference'
 version: 1
 history:
@@ -49,7 +49,7 @@ summary: >-
 # LIT-tmp6trip: An Explanation of In-context Learning as Implicit Bayesian Inference
 
 Sang Michael Xie, Aditi Raghunathan, Percy Liang and Tengyu Ma (2021),
-*ICLR 2022* — ARXIV-2111.02080
+*ICLR 2022* — [ARXIV-2111.02080](https://arxiv.org/abs/2111.02080)
 
 ## Key takeaways
 
@@ -90,7 +90,7 @@ Sang Michael Xie, Aditi Raghunathan, Percy Liang and Tengyu Ma (2021),
 Filed on 2026-10-09 at the owner's request, from the bibliography of the
 owner's manuscript *What Survives Translation?* (work
 `what-survives-translation`), which considered it and dropped it from the
-final reference list. Read on its own terms (NOTE-tmpoc0i1).
+final reference list. Read on its own terms ([NOTE-tmpoc0i1](../notes.d/NOTE-tmpoc0i1.md)).
 
 It carries `anthology-candidate`: its subject, how in-context learning
 arises from pretraining, is one an anthology topic holds, and the

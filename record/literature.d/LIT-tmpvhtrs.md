@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp789mw); worth reading as the founding statement of file change semantics and of the variable analysis of indefinites: an indefinite has no quantificational force of its own and is bound by whatever operator is nearest (an adverb of quantification, a determiner, the unpronounced necessity operator of a bare conditional), which is what makes donkey sentences come out right. Its third chapter replaces truth conditions by file change potentials, operations on a structured common ground of numbered cards, and derives the definite/indefinite contrast from one felicity condition: an indefinite opens a new card, a definite must update a familiar one. Read it as an argued theory with worked examples and stated open problems (specific indefinites, weak crossover, accommodation), not as a closed system.'
+status_note: 'read 2026-10-09 ([NOTE-tmp789mw](../notes.d/NOTE-tmp789mw.md)); worth reading as the founding statement of file change semantics and of the variable analysis of indefinites: an indefinite has no quantificational force of its own and is bound by whatever operator is nearest (an adverb of quantification, a determiner, the unpronounced necessity operator of a bare conditional), which is what makes donkey sentences come out right. Its third chapter replaces truth conditions by file change potentials, operations on a structured common ground of numbered cards, and derives the definite/indefinite contrast from one felicity condition: an indefinite opens a new card, a definite must update a familiar one. Read it as an argued theory with worked examples and stated open problems (specific indefinites, weak crossover, accommodation), not as a closed system.'
 title: 'The Semantics of Definite and Indefinite Noun Phrases'
 version: 1
 history:
@@ -24,6 +24,7 @@ history:
     d8b5ba5) for "Heim", "file change" and the title found nothing.
 tags:
 - linguistics
+- pragmatics
 - philosophy-of-language
 - logic
 date: '2026-10-09'
@@ -96,11 +97,11 @@ Linguistics), xi + 413 pp. — https://semanticsarchive.net/Archive/Tk0ZmYyY/
 Filed on 2026-10-09 at the owner's request from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`), which
 considered it and dropped it from the final reference list, as one of
-the dynamic-semantics works (with Stalnaker, LIT-tmpeftz9, and Veltman,
-LIT-tmpi254m) the exchange named. See the curation entry of that day.
+the dynamic-semantics works (with Stalnaker, [LIT-tmpeftz9](LIT-tmpeftz9.md), and Veltman,
+[LIT-tmpi254m](LIT-tmpi254m.md)) the exchange named. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmp789mw). With Veltman's and Krifka's
-(LIT-tmpuclkg) readings of the same day it is a source of THEORY-tmp5ncrn,
+Read on 2026-10-09 ([NOTE-tmp789mw](../notes.d/NOTE-tmp789mw.md)). With Veltman's and Krifka's
+([LIT-tmpuclkg](LIT-tmpuclkg.md)) readings of the same day it is a source of [THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md),
 that what an utterance does to a context is part of its meaning and is
 not fixed by its truth conditions. `linguistics` is primary: it is a
 theory of English noun phrases argued from grammatical judgements;

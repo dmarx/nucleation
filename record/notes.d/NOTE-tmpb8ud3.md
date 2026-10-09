@@ -103,27 +103,27 @@ U-shape or noise, nine generations of learners drew a rising line.
 
 ## Connections
 
-The analysis is Griffiths and Kalish's (LIT-769, read in NOTE-599), whose
+The analysis is Griffiths and Kalish's ([LIT-769](../literature.d/LIT-769.md), read in [NOTE-599](NOTE-599.md)), whose
 proof this paper summarises without new theory. The experimental lineage
-is Bartlett's serial reproduction (LIT-768, Deferred), with Bangerter
+is Bartlett's serial reproduction ([LIT-768](../literature.d/LIT-768.md), Deferred), with Bangerter
 (2000) and Barrett and Nyhof (2001); the simulation lineage is Kirby,
-Brighton and Smith. Kirby, Cornish and Smith's laboratory chains (LIT-771)
+Brighton and Smith. Kirby, Cornish and Smith's laboratory chains ([LIT-771](../literature.d/LIT-771.md))
 came a year later and use no Bayesian analysis.
 
 ## Bearing on the record
 
-- **THEORY-155** (posterior-sampling chains converge to the prior). This is
+- **[THEORY-155](../theory.d/THEORY-155.md)** (posterior-sampling chains converge to the prior). This is
   the nearest test the record holds: a human chain run against a bias
   stated before the experiment, with the endpoint independent of the
   start, as the theory would lead one to expect. It does not meet
-  THEORY-155's `promote_when`: the prior was neither measured on these
+  [THEORY-155](../theory.d/THEORY-155.md)'s `promote_when`: the prior was neither measured on these
   learners nor set by manipulation, the long-run distribution was not
   compared with it, and the authors say stationarity is unconfirmed. Nor
   can it separate sampling from MAP learners: a strong positive-linear
   mode would be reached either way. It supports the weaker claim that
   human transmission chains forget their starting point and settle on
   what learners favour, in this task.
-- **Against LIT-771.** Kirby, Cornish and Smith measured no bias and used
+- **Against [LIT-771](../literature.d/LIT-771.md).** Kirby, Cornish and Smith measured no bias and used
   an experimenter's filter. This experiment has no filter and a bias known
   in advance; its weakness is the opposite one, a task (one-dimensional
   function learning) far from language.
@@ -148,7 +148,7 @@ came a year later and use no Bayesian analysis.
 - Would measuring each participant's prior first (for example by their
   first-generation responses to uninformative data) let the chains'
   long-run distribution be compared quantitatively with it, as
-  THEORY-155's `promote_when` asks?
+  [THEORY-155](../theory.d/THEORY-155.md)'s `promote_when` asks?
 - Does the outcome depend on how much data passes between generations,
   as the MAP analysis predicts and the sampling analysis denies? The
   paper fixes it at 50 points.

@@ -37,7 +37,7 @@ summary: >-
 
 ## Contribution
 
-LIT-tmptn5dr stated the QQ equality and tested it on six data sets, four
+[LIT-tmptn5dr](../literature.d/LIT-tmptn5dr.md) stated the QQ equality and tested it on six data sets, four
 of them picked because they showed order effects. This paper tests it on
 all 66 Pew surveys of a decade that varied the order of two questions,
 plus six other studies. The equality holds across the set while order
@@ -96,7 +96,7 @@ and an unconstrained model would not produce it.
 | C1 | In survey question-order experiments, the probability of agreeing answers is order-invariant while order effects are present | strong for this population of surveys: 66 unselected Pew surveys, p = 0.4625 for q against p = 0.0004 for order effects | Results, Fig. 1 |
 | C2 | The equality fails when information is inserted between questions | weak: one case | Table 1, Rose–Jackson |
 | C3 | No existing cognitive theory imposes this symmetry | weak: an argument from absence; the authors concede a classical model can be built to satisfy it | Results, last paragraph |
-| C4 | The result reveals a "quantum nature" of human judgments | not supported: the evidence supports the equality, which a constrained classical model could also meet, and which LIT-264 shows is a noncontextual pattern | title, Discussion |
+| C4 | The result reveals a "quantum nature" of human judgments | not supported: the evidence supports the equality, which a constrained classical model could also meet, and which [LIT-264](../literature.d/LIT-264.md) shows is a noncontextual pattern | title, Discussion |
 | C5 | The equality is robust to partial updating | not checkable here | SI, not read |
 
 ## Concepts
@@ -112,22 +112,22 @@ and an unconstrained model would not produce it.
 
 ## Connections
 
-The model and the derivation are LIT-tmptn5dr's. LIT-264 obtained these
+The model and the derivation are [LIT-tmptn5dr](../literature.d/LIT-tmptn5dr.md)'s. [LIT-264](../literature.d/LIT-264.md) obtained these
 data from the authors, re-derived the equality from the identity
 P Q P + (I − P)(I − Q)(I − P) = I − (P + Q) + (P Q + Q P), and showed it
 implies the Contextuality-by-Default noncontextuality criterion for these
 rank-2 cyclic systems. The Discussion leans on beim Graben and
 Atmanspacher's account of incompatible observables arising from coarse
-measurement of classical systems. The paper cites LIT-316 for proofs.
+measurement of classical systems. The paper cites [LIT-316](../literature.d/LIT-316.md) for proofs.
 
 ## Bearing on the record
 
-- **Primary source of THEORY-tmp9wyar**: survey order effects satisfy the
+- **Primary source of [THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md)**: survey order effects satisfy the
   QQ equality, and the regularity does not discriminate quantum
   probability from every classical model, nor does it show
   contextuality.
-- **THEORY-013.** The QQ data are the "73 poll question-order pairs" of
-  LIT-264 §3. This reading adds that the data's own authors present the
+- **[THEORY-013](../theory.d/THEORY-013.md).** The QQ data are the "73 poll question-order pairs" of
+  [LIT-264](../literature.d/LIT-264.md) §3. This reading adds that the data's own authors present the
   regularity as quantum, while the equality is exactly what makes the
   system noncontextual. The two papers agree on the data and differ on
   what it shows.
@@ -150,7 +150,7 @@ measurement of classical systems. The paper cites LIT-316 for proofs.
   that q is uninformative when the order effect is small; Fig. 1, right,
   addresses this for 17 studies only.
 - The sample sizes are given as 651–3,006 participants per national
-  study. LIT-264 gives the Pew N as 125–927. The two figures may count
+  study. [LIT-264](../literature.d/LIT-264.md) gives the Pew N as 125–927. The two figures may count
   different things (whole samples, one order, or only yes/no
   respondents); neither paper says, and the discrepancy is unresolved
   here.

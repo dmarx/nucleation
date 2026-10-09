@@ -77,13 +77,13 @@ unread here.
 
 ## Support from dynamic semantics
 
-The "not sufficient" half now has formal support (THEORY-tmp5ncrn):
+The "not sufficient" half now has formal support ([THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md)):
 
-- **Krifka** (LIT-tmpuclkg) gives one proposition with two different updates,
+- **Krifka** ([LIT-tmpuclkg](../literature.d/LIT-tmpuclkg.md)) gives one proposition with two different updates,
   declaration and assertion.
-- **Heim** (LIT-tmpvhtrs) gives truth-conditionally equivalent sentences that
+- **Heim** ([LIT-tmpvhtrs](../literature.d/LIT-tmpvhtrs.md)) gives truth-conditionally equivalent sentences that
   differ in what a following pronoun can pick up.
-- **Veltman** (LIT-tmpi254m) treats "might" as a test with no propositional
+- **Veltman** ([LIT-tmpi254m](../literature.d/LIT-tmpi254m.md)) treats "might" as a test with no propositional
   content.
 
 None of the three addresses footing.

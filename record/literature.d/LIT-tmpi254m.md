@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpb9fuk); worth reading as the programmatic statement of update semantics: the meaning of a sentence is the change it makes to an information state, and an update system is "additive", so reducible to static propositions, exactly when updates are total, idempotent, persistent, monotone and strengthening. "Might" and "presumably" fail persistence: they are tests on a state, not information about the world. Its second half is a theory of defaults in which priority between conflicting rules ("more specific wins", the Nixon diamond left open) follows from a coherence and an applicability criterion rather than being stipulated. Read the default theory as one formalisation the author himself hopes will be bettered; the framework is the lasting part.'
+status_note: 'read 2026-10-09 ([NOTE-tmpb9fuk](../notes.d/NOTE-tmpb9fuk.md)); worth reading as the programmatic statement of update semantics: the meaning of a sentence is the change it makes to an information state, and an update system is "additive", so reducible to static propositions, exactly when updates are total, idempotent, persistent, monotone and strengthening. "Might" and "presumably" fail persistence: they are tests on a state, not information about the world. Its second half is a theory of defaults in which priority between conflicting rules ("more specific wins", the Nixon diamond left open) follows from a coherence and an applicability criterion rather than being stipulated. Read the default theory as one formalisation the author himself hopes will be bettered; the framework is the lasting part.'
 title: 'Defaults in Update Semantics'
 version: 1
 history:
@@ -22,6 +22,7 @@ history:
     nothing.
 tags:
 - logic
+- pragmatics
 - philosophy-of-language
 - linguistics
 date: '2026-10-09'
@@ -89,13 +90,13 @@ considered it and dropped it from the final reference list, as one of the
 dynamic-semantics works (with Stalnaker and Heim) the exchange named. See
 the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpb9fuk). `logic` is primary because the paper
+Read on 2026-10-09 ([NOTE-tmpb9fuk](../notes.d/NOTE-tmpb9fuk.md)). `logic` is primary because the paper
 is a logic of default reasoning; `philosophy-of-language` and
 `linguistics` hold the update-semantic account of meaning and of epistemic
 modals. Its footnote 1 traces the dynamic notion of meaning to Stalnaker
-(LIT-tmpeftz9 is his "Assertion"), Kamp, Heim's dissertation
-(LIT-tmpvhtrs) and Gärdenfors, and its direct inspiration to Groenendijk
+([LIT-tmpeftz9](LIT-tmpeftz9.md) is his "Assertion"), Kamp, Heim's dissertation
+([LIT-tmpvhtrs](LIT-tmpvhtrs.md)) and Gärdenfors, and its direct inspiration to Groenendijk
 and Stokhof's dynamic predicate logic, which the record does not hold.
 
 With the Heim and Krifka readings of the same day it is a source of
-THEORY-tmp5ncrn.
+[THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md).

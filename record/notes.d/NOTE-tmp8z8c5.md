@@ -126,15 +126,15 @@ whose corpus videos it re-annotates; the social side is Baldwin, Bloom and
 Tomasello; Quine's chimney metaphor frames the joint problem. Xu and
 Tenenbaum (2007) is the Bayesian word-learning precedent, and its size
 principle reappears as the informative-speaker likelihood in Frank and
-Goodman (LIT-tmpkwn2g).
+Goodman ([LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md)).
 
 ## Bearing on the record
 
-- **To the RSA line.** The informative speaker of LIT-tmpkwn2g and
-  LIT-tmphavsf is not in this paper. What it shares with them is the
+- **To the RSA line.** The informative speaker of [LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md) and
+  [LIT-tmphavsf](../literature.d/LIT-tmphavsf.md) is not in this paper. What it shares with them is the
   listener as a Bayesian inverter of a generative model of the speaker,
   and a latent intended referent. Bergen, Goodman and Levy
-  (LIT-tmpcsywp) cite a different 2009 paper (Frank, Goodman, Lai and
+  ([LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md)) cite a different 2009 paper (Frank, Goodman, Lai and
   Tenenbaum, CogSci) for the informative utility; that paper is not in
   the record.
 - No THEORY: its findings are specific to a small annotated corpus and to

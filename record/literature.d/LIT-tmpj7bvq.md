@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpb8ud3), in full, from the publisher''s PDF; worth reading as the first laboratory test of iterated learning against an inductive bias known before the experiment: in 32 chains of nine human learners each passing a function-learning task down the line, 28 converged within a few generations to a positive linear function whatever the first learner was trained on (positive linear, negative linear, U-shaped or random pairings), as Bayesian agents sampling from a prior that favours positive linear functions would. The prior was not measured in the experiment but taken from earlier function-learning studies; 3 families ended on the negative linear function and 1 did not converge, and the authors say more data would be needed to show the chains had reached a stationary distribution. Bears on THEORY-155.'
+status_note: 'read 2026-10-09 ([NOTE-tmpb8ud3](../notes.d/NOTE-tmpb8ud3.md)), in full, from the publisher''s PDF; worth reading as the first laboratory test of iterated learning against an inductive bias known before the experiment: in 32 chains of nine human learners each passing a function-learning task down the line, 28 converged within a few generations to a positive linear function whatever the first learner was trained on (positive linear, negative linear, U-shaped or random pairings), as Bayesian agents sampling from a prior that favours positive linear functions would. The prior was not measured in the experiment but taken from earlier function-learning studies; 3 families ended on the negative linear function and 1 did not converge, and the authors say more data would be needed to show the chains had reached a stationary distribution. Bears on [THEORY-155](../theory.d/THEORY-155.md).'
 title: 'Iterated learning: Intergenerational knowledge transmission reveals inductive biases'
 version: 1
 history:
@@ -58,7 +58,7 @@ Michael L. Kalish, Thomas L. Griffiths and Stephan Lewandowsky (2007),
   hypothesis from the posterior given the previous learner's data, the
   chain of hypotheses is a Markov chain whose stationary distribution is
   the prior, so "the stimuli provided for learning are completely
-  irrelevant in the long run" (citing Griffiths and Kalish, LIT-769). A
+  irrelevant in the long run" (citing Griffiths and Kalish, [LIT-769](LIT-769.md)). A
   simulation with Bayesian linear regression (appendix) shows the
   convergence in a few generations.
 - **The test.** 288 undergraduates in four conditions; each condition
@@ -83,7 +83,7 @@ Michael L. Kalish, Thomas L. Griffiths and Stephan Lewandowsky (2007),
   convergence and map it against prior estimates.
 - **The claims drawn.** Iterated learning can be used as a method to
   reveal implicit inductive biases; and the result is said to "validate"
-  serial-reproduction studies such as Bartlett's (LIT-768) as revealing
+  serial-reproduction studies such as Bartlett's ([LIT-768](LIT-768.md)) as revealing
   biases, and to suggest that "languages, legends, religious concepts, and
   social norms" are tailored to them. Neither extrapolation is tested.
 
@@ -94,10 +94,10 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpb8ud3). It is the empirical companion of
-Griffiths and Kalish's analysis (LIT-769) and the closest thing the record
-holds to a test of THEORY-155: a human chain run against a bias stated
+Read on 2026-10-09 ([NOTE-tmpb8ud3](../notes.d/NOTE-tmpb8ud3.md)). It is the empirical companion of
+Griffiths and Kalish's analysis ([LIT-769](LIT-769.md)) and the closest thing the record
+holds to a test of [THEORY-155](../theory.d/THEORY-155.md): a human chain run against a bias stated
 before the experiment. It does not meet that theory's `promote_when`,
 since the prior was not measured or set independently on the learners and
 stationarity was not shown. It stands beside Kirby, Cornish and Smith's
-chains (LIT-771), which measured no prior at all.
+chains ([LIT-771](LIT-771.md)), which measured no prior at all.

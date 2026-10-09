@@ -129,25 +129,25 @@ correcting the construction's scale ambiguity.
 
 It rests on Schlag, Irie and Schmidhuber (2021), "linear transformers are
 secretly fast weight programmers", and frames transformer training as
-meta-learning on two time scales. Sun et al. (LIT-tmp8hsmf) reach the same
+meta-learning on two time scales. Sun et al. ([LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md)) reach the same
 identity from the other side: their TTT layer with a linear inner model and
 batch gradient descent is linear attention (their Theorem 1), and softmax
 attention is a nonparametric kernel learner (their Theorem 2). Xie et al.
-(LIT-tmp6trip) give a rival account of the same phenomenon in terms of the
-data distribution, not the computation. The anthology's ANTH-LIT-533 and
-ANTH-THEORY-068 record later work (Fu et al., Shen et al.) that separates
+([LIT-tmp6trip](../literature.d/LIT-tmp6trip.md)) give a rival account of the same phenomenon in terms of the
+data distribution, not the computation. The anthology's [ANTH-LIT-533](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-533.md) and
+[ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md) record later work (Fu et al., Shen et al.) that separates
 trained transformers from gradient descent beyond this setting.
 
 ## Bearing on the record
 
-- **THEORY-tmpllqzv.** Proposition 1, together with Sun et al.'s
+- **[THEORY-tmpllqzv](../theory.d/THEORY-tmpllqzv.md).** Proposition 1, together with Sun et al.'s
   Theorems 1 and 2, is the evidence for that account: in linear
   attention, conditioning on a context and taking a gradient step on an
   implicit model's weights produce the same output, so the difference
   between changing the context and changing the interpreter is not, in
   this class of system, a difference in the computation. The account is
   restricted to the exact constructions; it does not rest on C5.
-- **Agreement with the anthology.** ANTH-THEORY-068 rejects "in-context
+- **Agreement with the anthology.** [ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md) rejects "in-context
   learning is gradient descent" for trained transformers beyond one layer,
   on this paper's own GD++ result and on later work. Nothing here
   contradicts that. This reading takes from the paper only what the

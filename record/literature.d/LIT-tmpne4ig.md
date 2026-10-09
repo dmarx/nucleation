@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpj48qx), the main text in full from the publisher''s version in the Radboud University repository; the electronic supplementary material was not read. Worth reading as the experiment that isolates community size: 12 groups of four and 12 groups of eight Dutch adults, fully connected, invented a typed language to describe moving shapes over 16 rounds with the same total amount of interaction. Larger groups'' languages became more systematic (string distance tracking meaning distance), faster, and ended more systematic; larger groups also varied far less from one another, while some small groups never built structure. Larger groups faced more input variability, and input variability predicted the next round''s gain in structure better than shared history did. Communicative success and convergence ended equal. It is a group-interaction paradigm, not a transmission chain: no generation turnover. Source of THEORY-tmp8h3pe.'
+status_note: 'read 2026-10-09 ([NOTE-tmpj48qx](../notes.d/NOTE-tmpj48qx.md)), the main text in full from the publisher''s version in the Radboud University repository; the electronic supplementary material was not read. Worth reading as the experiment that isolates community size: 12 groups of four and 12 groups of eight Dutch adults, fully connected, invented a typed language to describe moving shapes over 16 rounds with the same total amount of interaction. Larger groups'' languages became more systematic (string distance tracking meaning distance), faster, and ended more systematic; larger groups also varied far less from one another, while some small groups never built structure. Larger groups faced more input variability, and input variability predicted the next round''s gain in structure better than shared history did. Communicative success and convergence ended equal. It is a group-interaction paradigm, not a transmission chain: no generation turnover. Source of [THEORY-tmp8h3pe](../theory.d/THEORY-tmp8h3pe.md).'
 title: 'Larger communities create more systematic languages'
 version: 1
 history:
@@ -92,8 +92,8 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpj48qx). The reading is the source of
-THEORY-tmp8h3pe, the record's statement of the group-size effect and its
+Read on 2026-10-09 ([NOTE-tmpj48qx](../notes.d/NOTE-tmpj48qx.md)). The reading is the source of
+[THEORY-tmp8h3pe](../theory.d/THEORY-tmp8h3pe.md), the record's statement of the group-size effect and its
 limits. It is not an iterated-learning study: nobody is replaced, and
 structure arises among interacting peers, so it stands beside the
-transmission chains of LIT-771 and LIT-tmpj7bvq rather than in their line.
+transmission chains of [LIT-771](LIT-771.md) and [LIT-tmpj7bvq](LIT-tmpj7bvq.md) rather than in their line.

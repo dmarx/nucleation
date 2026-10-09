@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmputb6d); worth reading as the paper that names "catastrophic neglect" (a text-to-image model omits one of the subjects a prompt names) and links it to attribute binding: the subject token that no image patch attends to is the one that goes missing. Its fix is an inference-time correction of the latent: push up the maximum cross-attention of the most neglected subject token, smoothed over neighbouring patches, during the first half of sampling. Evidence is on 276 two-subject Stable Diffusion prompts, by CLIP similarities, BLIP captions and a 65-person preference study (77–91% preferred it). That it improves attribute binding is shown only in figures; no binding accuracy is measured, and relations are left out of scope.'
+status_note: 'read 2026-10-09 ([NOTE-tmputb6d](../notes.d/NOTE-tmputb6d.md)); worth reading as the paper that names "catastrophic neglect" (a text-to-image model omits one of the subjects a prompt names) and links it to attribute binding: the subject token that no image patch attends to is the one that goes missing. Its fix is an inference-time correction of the latent: push up the maximum cross-attention of the most neglected subject token, smoothed over neighbouring patches, during the first half of sampling. Evidence is on 276 two-subject Stable Diffusion prompts, by CLIP similarities, BLIP captions and a 65-person preference study (77–91% preferred it). That it improves attribute binding is shown only in figures; no binding accuracy is measured, and relations are left out of scope.'
 title: 'Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models'
 version: 1
 history:
@@ -35,6 +35,7 @@ keywords:
 implementations: []
 compared_against:
 - LIT-770
+- LIT-tmp76md3
 summary: >-
   Chefer et al. (2023), ACM TOG 42(4) (SIGGRAPH 2023). Stable Diffusion
   often omits one of two named subjects ("catastrophic neglect") and
@@ -90,10 +91,10 @@ on its own merits. See the curation entry of that day.
 
 It is a machine-learning paper an anthology topic could hold (an
 inference-time method for text-to-image models), so it carries the
-`anthology-candidate` flag (ADR-005). It is filed under `compositionality`,
+`anthology-candidate` flag ([ADR-005](../decisions.d/ADR-005.md)). It is filed under `compositionality`,
 the subject it shares with this record: whether every part of a prompt
 reaches the image, and whether the parts stay bound. The later benchmark
-T2I-CompBench (LIT-783) and its journal version (LIT-tmp76md3) measure it
+T2I-CompBench ([LIT-783](LIT-783.md)) and its journal version ([LIT-tmp76md3](LIT-tmp76md3.md)) measure it
 re-implemented on Stable Diffusion v2, where it is the strongest of the
 2022–2023 training-free methods on colour and texture binding and does not
 help relations.

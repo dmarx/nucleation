@@ -51,11 +51,11 @@ definitions", and the notation P_θ(y | c, u) is gone from the manuscript.
 
 ## What the in-context-learning readings say
 
-- **For the frame reading.** Min et al. (LIT-tmpgsgpo) find a context's
+- **For the frame reading.** Min et al. ([LIT-tmpgsgpo](../literature.d/LIT-tmpgsgpo.md)) find a context's
   effect is carried by input distribution, label space and format rather
-  than by correct labels. Xie et al. (LIT-tmp6trip) give the formal sense
+  than by correct labels. Xie et al. ([LIT-tmp6trip](../literature.d/LIT-tmp6trip.md)) give the formal sense
   in which a context fixes a posterior over a latent concept.
-- **Toward the defeater.** Lu et al. (LIT-tmpthf7j) find that order alone,
+- **Toward the defeater.** Lu et al. ([LIT-tmpthf7j](../literature.d/LIT-tmpthf7j.md)) find that order alone,
   with content fixed, moves accuracy from near chance to near the state of
   the art. Good orders do not transfer across model sizes, so the "frame"
   is sensitive to surface form.

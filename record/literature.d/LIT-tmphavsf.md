@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp6dbc6), from the authors'' manuscript; worth reading as the standard statement of the rational speech act (RSA) framework: a pragmatic listener P_L(w|u) ∝ P_S(u|w)P(w) inverting a softmax speaker whose utility is log P_Lit(w|u), with a literal listener conditioning the prior on the utterance''s truth. Its uncertain-RSA extension, a joint posterior over the world and the speaker''s type, topic or lexicon, is what carries hyperbole, irony, metaphor, vague adjectives and embedded implicature. A review: the empirical support it cites is summarized, not shown, and its claims of near-ceiling fits rest on the cited papers. Source, with LIT-tmpkwn2g and LIT-tmpcsywp, of THEORY-tmprknoj.'
+status_note: 'read 2026-10-09 ([NOTE-tmp6dbc6](../notes.d/NOTE-tmp6dbc6.md)), from the authors'' manuscript; worth reading as the standard statement of the rational speech act (RSA) framework: a pragmatic listener P_L(w|u) ∝ P_S(u|w)P(w) inverting a softmax speaker whose utility is log P_Lit(w|u), with a literal listener conditioning the prior on the utterance''s truth. Its uncertain-RSA extension, a joint posterior over the world and the speaker''s type, topic or lexicon, is what carries hyperbole, irony, metaphor, vague adjectives and embedded implicature. A review: the empirical support it cites is summarized, not shown, and its claims of near-ceiling fits rest on the cited papers. Source, with [LIT-tmpkwn2g](LIT-tmpkwn2g.md) and [LIT-tmpcsywp](LIT-tmpcsywp.md), of [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md).'
 title: 'Pragmatic Language Interpretation as Probabilistic Inference'
 version: 1
 history:
@@ -19,6 +19,7 @@ history:
     2026-10-09, commit d8b5ba5) for the authors, the DOI and the title
     found nothing.
 tags:
+- pragmatics
 - linguistics
 - cognition
 - probabilistic-modeling
@@ -67,8 +68,8 @@ Sciences* 20(11):818–829 — DOI-10.1016/j.tics.2016.08.005
   likewise irony and metaphor; under threshold uncertainty "tall" gets
   class-relative, borderline and sorites behaviour; under lexical
   uncertainty embedded implicatures appear.
-- **Evidence summarized.** Reference-game fits (LIT-tmpkwn2g and a
-  replication), cost sensitivity (LIT-tmpcsywp and a typing-speed study),
+- **Evidence summarized.** Reference-game fits ([LIT-tmpkwn2g](LIT-tmpkwn2g.md) and a
+  replication), cost sensitivity ([LIT-tmpcsywp](LIT-tmpcsywp.md) and a typing-speed study),
   scalar implicature with speaker knowledge manipulated; deeper recursion
   only in about 15% of participants in one more complex paradigm.
 - **Stated limits.** A computational-level account; how it is computed
@@ -81,8 +82,8 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Read on 2026-10-09 (NOTE-tmp6dbc6), from the authors' manuscript. It is
-the record's statement of the RSA framework, and with LIT-tmpkwn2g and
-LIT-tmpcsywp the source of THEORY-tmprknoj. Its box on language change
+Read on 2026-10-09 ([NOTE-tmp6dbc6](../notes.d/NOTE-tmp6dbc6.md)), from the authors' manuscript. It is
+the record's statement of the RSA framework, and with [LIT-tmpkwn2g](LIT-tmpkwn2g.md) and
+[LIT-tmpcsywp](LIT-tmpcsywp.md) the source of [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md). Its box on language change
 points to iterated learning and to typological efficiency results of the
-kind LIT-tmpe6100 later gave for colour.
+kind [LIT-tmpe6100](LIT-tmpe6100.md) later gave for colour.

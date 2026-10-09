@@ -16,22 +16,24 @@ date: '2026-10-09'
 source:
 - LIT-265
 summary: >-
-  From Abramsky, Barbosa & Mansfield (2017), LIT-265: the non-contextual
+  From Abramsky, Barbosa & Mansfield (2017), [LIT-265](../literature.d/LIT-265.md): the non-contextual
   fraction is the value of a linear programme whose constraint vector is
   the empirical model (Eq. 3), and convexity of CF under mixing is their
   Theorem 2. Piecewise linearity and the Lipschitz bound are the reader's
   derivation from strong duality, not stated in the paper. The Lipschitz
   constant depends on the scenario and is not bounded here. Nothing here
   applies to signalling data, where CF is undefined.
+supports:
+- CLAIM-tmpukbg3
 ---
 
 # THEORY-tmp8ly9g: Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model's probability table
 
 ## Source
 
-Abramsky, Barbosa & Mansfield (2017), LIT-265, Eqs. (3)–(4), Theorem 1 and
+Abramsky, Barbosa & Mansfield (2017), [LIT-265](../literature.d/LIT-265.md), Eqs. (3)–(4), Theorem 1 and
 its supplemental proof, and Theorem 2 (mixing) with its supplemental proof,
-as read in NOTE-236. The continuity statement is the reader's derivation,
+as read in [NOTE-236](../notes.d/NOTE-236.md). The continuity statement is the reader's derivation,
 set out below.
 
 ## What was actually shown
@@ -73,7 +75,7 @@ is a sample, not the constant.
   raise it (Theorem 2), while other maps may.
 - **Not for signalling data.** CF requires compatible marginals. An
   empirical table with context-dependent marginals has no CF, and
-  Contextuality-by-Default's measure (LIT-777) is a different quantity.
+  Contextuality-by-Default's measure ([LIT-777](../literature.d/LIT-777.md)) is a different quantity.
 - **Not that the strongly contextual / noncontextual decomposition varies
   continuously.** The decomposition need not be unique (the paper's
   Table II), even though its weight is continuous.

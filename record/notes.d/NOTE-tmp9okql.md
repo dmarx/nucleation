@@ -132,16 +132,16 @@ scored rounds with re-randomized partners.
 The base model is "very similar" to Jäger and Ebert's iterated best
 response; the informativeness utility is credited to Frank, Goodman, Lai
 and Tenenbaum (2009, CogSci), not to the Psychological Science paper of
-the same year (LIT-tmpgto9c). The equilibrium-selection problem is Cho
+the same year ([LIT-tmpgto9c](../literature.d/LIT-tmpgto9c.md)). The equilibrium-selection problem is Cho
 and Kreps's and Chen, Kartik and Sobel's; evolutionary or hybrid
 derivations of Horn's principle are van Rooij's and Franke's. Goodman and
-Frank (LIT-tmphavsf) cite this paper for cost sensitivity, and its
+Frank ([LIT-tmphavsf](../literature.d/LIT-tmphavsf.md)) cite this paper for cost sensitivity, and its
 lexical-uncertainty model is the ancestor of the uRSA lexical-uncertainty
 treatment of embedded implicature they describe.
 
 ## Bearing on the record
 
-- **Produces, with LIT-tmpkwn2g and LIT-tmphavsf, THEORY-tmprknoj.** Its
+- **Produces, with [LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md) and [LIT-tmphavsf](../literature.d/LIT-tmphavsf.md), [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md).** Its
   specific contribution there is that interpretation depends on the
   alternatives and their costs, not only on the uttered form, and that
   this holds for signals with no prior meaning.
@@ -151,8 +151,8 @@ treatment of embedded implicature they describe.
   else could have been said; it is not a case of meaning without
   reference, since the contrast works only because one alternative is
   iconically tied to an object.
-- **On LIT-473.** The paper assumes Lewis's common knowledge but argues
-  that its two conventions need no precedent; LIT-473 is unread, so the
+- **On [LIT-473](../literature.d/LIT-473.md).** The paper assumes Lewis's common knowledge but argues
+  that its two conventions need no precedent; [LIT-473](../literature.d/LIT-473.md) is unread, so the
   record cannot yet say whether that departs from Lewis's account.
 - No instruction for machine-learning practice; nothing for the
   anthology.

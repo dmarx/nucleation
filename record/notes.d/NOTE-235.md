@@ -135,15 +135,15 @@ plenty of the first and, so far, none of the second.
 
 ## Connections
 
-The question-order data and model are Wang & Busemeyer's (LIT-tmptn5dr)
-and Wang, Solloway, Shiffrin & Busemeyer's (LIT-tmp56yt5); the data were
+The question-order data and model are Wang & Busemeyer's ([LIT-tmptn5dr](../literature.d/LIT-tmptn5dr.md))
+and Wang, Solloway, Shiffrin & Busemeyer's ([LIT-tmp56yt5](../literature.d/LIT-tmp56yt5.md)); the data were
 supplied by the authors. The general theory is Contextuality-by-Default
-(LIT-777 in this record, read 2026-10-09). The same criterion applied to
-physics is reviewed in LIT-263.
+([LIT-777](../literature.d/LIT-777.md) in this record, read 2026-10-09). The same criterion applied to
+physics is reviewed in [LIT-263](../literature.d/LIT-263.md).
 
 ## Bearing on the record
 
-- **THEORY-013 is sourced here**, and the full reading supports what it
+- **[THEORY-013](../theory.d/THEORY-013.md) is sourced here**, and the full reading supports what it
   states. Two refinements. First, its "73 poll question-order pairs"
   includes three non-poll studies (S1 rows 70–72; two are laboratory
   experiments). Second, "apart from one poll pair the authors discount
@@ -151,7 +151,7 @@ physics is reviewed in LIT-263.
   ΔC = 0.063. Its first promote_when condition, a close reading of the
   proof of the criterion, is not met by this reading: the proof is not in
   this paper.
-- **THEORY-tmp9wyar** takes from this paper the re-derivation of the QQ
+- **[THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md)** takes from this paper the re-derivation of the QQ
   equality and its implication of noncontextuality.
 - **Corrections to the skim of 2026-09-27.** The skim said "72 of 73
   pairs fit the QQ equality". The paper says so, but by its own S1

@@ -11,6 +11,7 @@ promote_when: >-
 title: 'Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said'
 version: 1
 tags:
+- pragmatics
 - linguistics
 - cognition
 - probabilistic-modeling
@@ -20,26 +21,28 @@ source:
 - LIT-tmpcsywp
 - LIT-tmphavsf
 summary: >-
-  Frank & Goodman (2012), LIT-tmpkwn2g, read in NOTE-tmpohmuz: a
+  Frank & Goodman (2012), [LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md), read in [NOTE-tmpohmuz](../notes.d/NOTE-tmpohmuz.md): a
   parameter-free Bayesian listener inverting a size-principle speaker,
   with a measured salience prior, predicts mean listener bets at r = .99;
-  Bergen, Goodman & Levy (2012), LIT-tmpcsywp, read in NOTE-tmp9okql:
+  Bergen, Goodman & Levy (2012), [LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md), read in [NOTE-tmp9okql](../notes.d/NOTE-tmp9okql.md):
   people draw specificity and Horn implicatures among novel signals, and
   lexical uncertainty lets the same recursion derive Horn's mapping;
-  Goodman & Frank (2016), LIT-tmphavsf, states the framework. Shown for
+  Goodman & Frank (2016), [LIT-tmphavsf](../literature.d/LIT-tmphavsf.md), states the framework. Shown for
   artificial games with given alternatives; it does not say that natural
   comprehension computes this recursion, nor that speakers are rational.
+supports:
+- CLAIM-tmpw9mi0
 ---
 
 # THEORY-tmprknoj: Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said
 
 ## Source
 
-- Frank & Goodman (2012), LIT-tmpkwn2g, read in NOTE-tmpohmuz: Eqs. 1–2,
+- Frank & Goodman (2012), [LIT-tmpkwn2g](../literature.d/LIT-tmpkwn2g.md), read in [NOTE-tmpohmuz](../notes.d/NOTE-tmpohmuz.md): Eqs. 1–2,
   S1–S4, the three-group design and its correlations.
-- Bergen, Goodman & Levy (2012), LIT-tmpcsywp, read in NOTE-tmp9okql:
+- Bergen, Goodman & Levy (2012), [LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md), read in [NOTE-tmp9okql](../notes.d/NOTE-tmp9okql.md):
   Eqs. 1–8, Experiments 1–2.
-- Goodman & Frank (2016), LIT-tmphavsf, read in NOTE-tmp6dbc6 from the
+- Goodman & Frank (2016), [LIT-tmphavsf](../literature.d/LIT-tmphavsf.md), read in [NOTE-tmp6dbc6](../notes.d/NOTE-tmp6dbc6.md) from the
   authors' manuscript: the general form and its extensions.
 
 ## The claim

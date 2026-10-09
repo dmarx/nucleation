@@ -176,18 +176,18 @@ left to Carlson and Krifka (1987).
 ## Bearing on the record
 
 - The record held no account of dynamic semantics before the readings of
-  2026-10-09. This paper, with Krifka's (LIT-tmpuclkg) and Heim's
-  dissertation (LIT-tmpvhtrs), gives it one. Krifka's informative update
+  2026-10-09. This paper, with Krifka's ([LIT-tmpuclkg](../literature.d/LIT-tmpuclkg.md)) and Heim's
+  dissertation ([LIT-tmpvhtrs](../literature.d/LIT-tmpvhtrs.md)), gives it one. Krifka's informative update
   is Veltman's propositional (additive) update; Krifka's performative
   update is a non-eliminative update of a kind Veltman's systems do not
   contain (every update here only shrinks s or refines the pattern).
-- **CLAIM-tmphg89g** (proposition neither necessary nor sufficient). A
+- **[CLAIM-tmphg89g](../claims.d/CLAIM-tmphg89g.md)** (proposition neither necessary nor sufficient). A
   weak, indirect bearing: *might φ* and *presumably φ* make a
   conversational contribution that has no propositional content at all,
   only a test, so what a sentence does in context is not fixed by a
   proposition it expresses. It does not speak to footing or force.
 - A source, with the Heim and Krifka readings of the same day, of
-  THEORY-tmp5ncrn: what an utterance does to a context is part of its
+  [THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md): what an utterance does to a context is part of its
   meaning and is not fixed by its truth conditions. This paper supplies
   the tests and the additivity criterion.
 - No instruction for ML practice; nothing for the anthology.

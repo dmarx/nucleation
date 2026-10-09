@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpy1lmh); worth reading as the paper that defines "CbD 2.0": for systems of binary random variables, the copies of a content across contexts are coupled multimaximally (every subset, equivalently every adjacent pair in the order of their means, maximally coupled) rather than maximally as a whole, and such a coupling exists and is unique (Theorem 1). The change buys heredity (a noncontextual system''s subsystems are noncontextual, Theorem 3) and removes the partial/complete distinction, and it leaves cyclic systems, consistently connected systems and the negative-probability measure as they were. It shows by example that for non-binary variables multimaximal couplings may fail to exist, may not be unique, and are not stable under coarse-graining, and ends by proposing to dichotomize every variable, the step the canonical-systems paper (LIT-tmp1kfuc) takes.'
+status_note: 'read 2026-10-09 ([NOTE-tmpy1lmh](../notes.d/NOTE-tmpy1lmh.md)); worth reading as the paper that defines "CbD 2.0": for systems of binary random variables, the copies of a content across contexts are coupled multimaximally (every subset, equivalently every adjacent pair in the order of their means, maximally coupled) rather than maximally as a whole, and such a coupling exists and is unique (Theorem 1). The change buys heredity (a noncontextual system''s subsystems are noncontextual, Theorem 3) and removes the partial/complete distinction, and it leaves cyclic systems, consistently connected systems and the negative-probability measure as they were. It shows by example that for non-binary variables multimaximal couplings may fail to exist, may not be unique, and are not stable under coarse-graining, and ends by proposing to dichotomize every variable, the step the canonical-systems paper ([LIT-tmp1kfuc](LIT-tmp1kfuc.md)) takes.'
 title: 'Contextuality-by-Default 2.0: Systems with Binary Random Variables'
 version: 1
 history:
@@ -54,6 +54,8 @@ summary: >-
   construction fails, and dichotomization is proposed.
 extends:
 - LIT-777
+extended_by:
+- LIT-tmp1kfuc
 ---
 
 <!-- inactive-ok-file: THEORY-tmpjdnxt — Proposed; named as the theory this reading feeds -->
@@ -62,11 +64,11 @@ extends:
 
 Ehtibar N. Dzhafarov and Janne V. Kujala (2017), in J. A. de Barros, B. Coecke
 and E. Pothos (eds), *Quantum Interaction* (QI 2016), Lecture Notes in Computer
-Science 10106, 16–32 — ARXIV-1604.04799
+Science 10106, 16–32 — [ARXIV-1604.04799](https://arxiv.org/abs/1604.04799)
 
 ## Key takeaways
 
-- **What changes from CbD 1.0** (LIT-777). The constraint on the copies of
+- **What changes from CbD 1.0** ([LIT-777](LIT-777.md)). The constraint on the copies of
   one content across contexts was a maximal coupling of the whole
   connection. It is now a *multimaximal* coupling: one in which every
   subset of the connection is maximally coupled (Definition 1). The
@@ -77,7 +79,7 @@ Science 10106, 16–32 — ARXIV-1604.04799
   Corollary 1). Sort the copies by p_i = Pr[R_q^i = 1]. The coupling puts
   mass p₁ on all-1s, p_{l+1} − p_l on the string with l leading 2s, and
   1 − p_k on all-2s. Theorem 2, proved in the companion paper
-  (LIT-tmpuzf4t), says it suffices that adjacent pairs in this order are
+  ([LIT-tmpuzf4t](LIT-tmpuzf4t.md)), says it suffices that adjacent pairs in this order are
   maximally coupled. Theorem 5 says that for any variables, multimaximal
   is the same as pairwise maximal.
 - **Consequences** (Section 4). A noncontextual binary system has only
@@ -90,7 +92,7 @@ Science 10106, 16–32 — ARXIV-1604.04799
   results".
 - **The measure carries over** (Theorem 4). A quasi-coupling agreeing with
   the multimaximal couplings always exists, and its least total variation
-  is the measure, as in LIT-777's Section 6.
+  is the measure, as in [LIT-777](LIT-777.md)'s Section 6.
 - **Non-binary variables break it** (Section 6). In Example 1, three 3-valued
   variables have no multimaximal coupling. In Example 2, a 6-valued
   connection has two. In Example 3, coarse-graining Example 2 into
@@ -105,8 +107,8 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered and dropped from its final reference list. See the curation entry
 of that day.
 
-Read on 2026-10-09 (NOTE-tmpy1lmh). It is the definition LIT-777's footnotes
+Read on 2026-10-09 ([NOTE-tmpy1lmh](../notes.d/NOTE-tmpy1lmh.md)). It is the definition [LIT-777](LIT-777.md)'s footnotes
 1, 7 and 10 point to, and the record's current reference for the binary case.
 Its argument for multimaximality is completed by the companion paper
-LIT-tmpuzf4t (Theorem 2's proof) and generalized by the canonical-systems
-paper LIT-tmp1kfuc. THEORY-tmpjdnxt draws on its Examples 1–3.
+[LIT-tmpuzf4t](LIT-tmpuzf4t.md) (Theorem 2's proof) and generalized by the canonical-systems
+paper [LIT-tmp1kfuc](LIT-tmp1kfuc.md). [THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md) draws on its Examples 1–3.

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpjlwej); worth reading as an account of what Noether''s theorem, in its Hamiltonian form, actually assumes: given unique solutions of the flow equations, "a generates symmetries of b iff b generates symmetries of a" reduces to the antisymmetry of a bilinear bracket, which is equivalent to each observable conserving itself. The content lies in identifying observables with generators; in quantum theory that identification is multiplication by i, and Alfsen and Shultz''s dynamical correspondence recovers it from a JB-algebra under the self-conservation principle and a second condition that Baez reads as "inverse temperature is imaginary time". The paper proves nothing new, by its own statement.'
+status_note: 'read 2026-10-09 ([NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md)); worth reading as an account of what Noether''s theorem, in its Hamiltonian form, actually assumes: given unique solutions of the flow equations, "a generates symmetries of b iff b generates symmetries of a" reduces to the antisymmetry of a bilinear bracket, which is equivalent to each observable conserving itself. The content lies in identifying observables with generators; in quantum theory that identification is multiplication by i, and Alfsen and Shultz''s dynamical correspondence recovers it from a JB-algebra under the self-conservation principle and a second condition that Baez reads as "inverse temperature is imaginary time". The paper proves nothing new, by its own statement.'
 title: 'Getting to the Bottom of Noether''s Theorem'
 version: 1
 history:
@@ -38,7 +38,7 @@ keywords:
 - 'observables and generators'
 implementations: []
 summary: >-
-  Baez (2020; chapter 2022), ARXIV-2006.14741. In Poisson algebras,
+  Baez (2020; chapter 2022), [ARXIV-2006.14741](https://arxiv.org/abs/2006.14741). In Poisson algebras,
   complex *-algebras and Banach–Lie algebras, "a generates symmetries of
   b iff b generates symmetries of a" follows from the antisymmetry of the
   bracket and uniqueness of solutions; for a bilinear bracket,
@@ -56,7 +56,7 @@ summary: >-
 
 John C. Baez (arXiv 2020; in *The Philosophy and Physics of Noether's
 Theorems*, Cambridge University Press, 2022, pp. 66–99) —
-ARXIV-2006.14741, DOI-10.1017/9781108665445.005
+[ARXIV-2006.14741](https://arxiv.org/abs/2006.14741), DOI-10.1017/9781108665445.005
 
 ## Key takeaways
 
@@ -95,8 +95,8 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Read on 2026-10-09 (NOTE-tmpjlwej). The reading is the source of
-THEORY-tmp3dh4x. It is the reversible-dynamics counterpart of Baez and Fong's
-Markov-process theorem (LIT-773, THEORY-158): there the generator
+Read on 2026-10-09 ([NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md)). The reading is the source of
+[THEORY-tmp3dh4x](../theory.d/THEORY-tmp3dh4x.md). It is the reversible-dynamics counterpart of Baez and Fong's
+Markov-process theorem ([LIT-773](LIT-773.md), [THEORY-158](../theory.d/THEORY-158.md)): there the generator
 gives no antisymmetric bracket between observables, and the equivalence
 needs the second moment as well as the mean.

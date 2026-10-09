@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpwfgbe); worth reading as the step that makes Contextuality-by-Default representation-dependent. Every variable is replaced by binary splits (dichotomizations) and connections are coupled multimaximally, so a verdict belongs to a chosen set of splits, not to the measurements alone. Its one worked result is striking: if every split of two content-sharing k-valued variables is kept, that pair alone is noncontextual exactly when one variable "nominally dominates" the other, i.e. its probabilities fall below the other''s for at most one value (Theorem 4.6). For continuous variables the analogue makes any difference in distribution count as contextuality. The authors present this as opening behavioural contextuality, not as a reductio. Proofs are in the supplement and contain small slips that do not affect the results.'
+status_note: 'read 2026-10-09 ([NOTE-tmpwfgbe](../notes.d/NOTE-tmpwfgbe.md)); worth reading as the step that makes Contextuality-by-Default representation-dependent. Every variable is replaced by binary splits (dichotomizations) and connections are coupled multimaximally, so a verdict belongs to a chosen set of splits, not to the measurements alone. Its one worked result is striking: if every split of two content-sharing k-valued variables is kept, that pair alone is noncontextual exactly when one variable "nominally dominates" the other, i.e. its probabilities fall below the other''s for at most one value (Theorem 4.6). For continuous variables the analogue makes any difference in distribution count as contextuality. The authors present this as opening behavioural contextuality, not as a reductio. Proofs are in the supplement and contain small slips that do not affect the results.'
 title: 'Contextuality in Canonical Systems of Random Variables'
 version: 1
 history:
@@ -55,7 +55,7 @@ extends:
 
 Ehtibar N. Dzhafarov, Víctor H. Cervantes and Janne V. Kujala (2017),
 *Philosophical Transactions of the Royal Society A* 375(2106), 20160389 —
-ARXIV-1703.01252
+[ARXIV-1703.01252](https://arxiv.org/abs/1703.01252)
 
 ## Key takeaways
 
@@ -71,7 +71,7 @@ ARXIV-1703.01252
 - **General CbD** (Section 2). Noncontextuality is relative to a chosen
   set T of connection couplings (Definition 2.1). The degree of
   contextuality is min‖X‖ − 1 over quasi-couplings agreeing with T
-  (Theorems 2.4–2.5, from LIT-777).
+  (Theorems 2.4–2.5, from [LIT-777](LIT-777.md)).
 - **One pair, all splits** (Section 4). For R_1^1, R_1^2 with values
   1…k and masses p_i, q_i, keep all 2^{k−1} − 1 splits. Then only the 1-
   and 2-splits matter (Theorems 4.1, 4.3). A maximally connected coupling
@@ -96,7 +96,7 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered and dropped from its final reference list. See the curation entry
 of that day.
 
-Read on 2026-10-09 (NOTE-tmpwfgbe). It is the source of THEORY-tmpjdnxt,
+Read on 2026-10-09 ([NOTE-tmpwfgbe](../notes.d/NOTE-tmpwfgbe.md)). It is the source of [THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md),
 which states that CbD's verdict depends on the chosen representation. It
-bears on THEORY-013's scope: that theory's data are binary, and this
+bears on [THEORY-013](../theory.d/THEORY-013.md)'s scope: that theory's data are binary, and this
 paper's verdict for multi-valued responses can differ sharply.

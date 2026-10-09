@@ -162,7 +162,7 @@ extension of Montague grammar. The speech-act categories are Austin's and
 Searle's; the operator · is described as an instance of Searle's (1969)
 F(p), with the difference that it yields a context change rather than a
 truth-valued formula. The commitment theory of assertion is credited to
-Peirce and to Brandom (1983), not to *Making It Explicit* (LIT-tmp3t040). Portner's to-do
+Peirce and to Brandom (1983), not to *Making It Explicit* ([LIT-tmp3t040](../literature.d/LIT-tmp3t040.md)). Portner's to-do
 lists and Farkas and Bruce's table are named as rival or complementary
 ways to model non-informative acts.
 
@@ -172,12 +172,12 @@ ways to model non-informative acts.
   is what the exchange said it is: an explicit model of speech acts with
   informative and performative updates. It says nothing about translation,
   equivalence between utterances, or comparing renderings.
-- **CLAIM-tmphg89g (proposition neither necessary nor sufficient).** The
+- **[CLAIM-tmphg89g](../claims.d/CLAIM-tmphg89g.md) (proposition neither necessary nor sufficient).** The
   structural ambiguity of (19) and (28) is a formal case of the
   "not sufficient" half: one TP, one proposition, two different updates
   (a declaration and an assertion), distinguishable by hedges and by what
   responses are apt. It does not address the "not necessary" half.
-- **CLAIM-tmpfbpte (interpretive and performative fidelity come apart).**
+- **[CLAIM-tmpfbpte](../claims.d/CLAIM-tmpfbpte.md) (interpretive and performative fidelity come apart).**
   Krifka separates, within one assertion, the performative update (the
   speaker's guarantee, not rejectable by the hearer) from the informative
   update (rejectable). That is a model in which the act and its content
@@ -185,19 +185,19 @@ ways to model non-informative acts.
   his "performative" is the speaker's commitment or a world change, not
   the speaker–audience relationship (complicity, solidarity) the claim's
   case is about; extending it there is the manuscript's step, not his.
-- **CLAIM-tmp471wm (Krifka–Blackwell pairing).** The paper gives a precise
+- **[CLAIM-tmp471wm](../claims.d/CLAIM-tmp471wm.md) (Krifka–Blackwell pairing).** The paper gives a precise
   object for "which changes in conversational standing count": the set of
   propositions an update makes true (guarantees, obligations, declared
   facts). It gives no observables, response distributions or measurement
   procedure, so the claim's `defeated_if` is untouched by it. Note that
   the negotiation machinery the exchange may have had in mind
   (commitment spaces) is in Krifka 2015 and 2022b, not here.
-- **CLAIM-tmp7cc3w (disclaimed novelty).** Confirms the disclaimer is
+- **[CLAIM-tmp7cc3w](../claims.d/CLAIM-tmp7cc3w.md) (disclaimed novelty).** Confirms the disclaimer is
   needed: "speech acts change contexts" is this paper's thesis, stated
   formally. The integration with translation and an information order is
   not anticipated in it.
 - A source, with the Heim and Veltman readings of the same day, of
-  THEORY-tmp5ncrn: what an utterance does to a context is part of its
+  [THEORY-tmp5ncrn](../theory.d/THEORY-tmp5ncrn.md): what an utterance does to a context is part of its
   meaning and is not fixed by its truth conditions. This paper's
   contribution is the declaration/assertion pair. No instruction for ML
   practice; nothing for the anthology.

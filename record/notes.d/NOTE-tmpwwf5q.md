@@ -125,12 +125,12 @@ own work:
 ## Connections
 
 The lecture reads Lévi-Strauss: *Les structures élémentaires de la
-parenté*, *Anthropologie structurale* (LIT-775, unread), *Du miel aux
+parenté*, *Anthropologie structurale* ([LIT-775](../literature.d/LIT-775.md), unread), *Du miel aux
 cendres* and *L'homme nu*, with Petitot's genealogy of structuralism's
 morphological sources. Its Goethean regime is, by my connection rather than
 Descola's, the one Propp's *Morphology* announces in its Goethe epigraphs
-(LIT-tmppp40q); Descola does not mention Propp. Its account of meaning by
-contrast is Saussure's (LIT-774), which it names as the semiological
+([LIT-tmppp40q](../literature.d/LIT-tmppp40q.md)); Descola does not mention Propp. Its account of meaning by
+contrast is Saussure's ([LIT-774](../literature.d/LIT-774.md)), which it names as the semiological
 dimension of Lévi-Strauss's approach.
 
 ## Bearing on the record
@@ -143,7 +143,7 @@ dimension of Lévi-Strauss's approach.
   own account, which variants count as transforms of which, and the path
   between them, are the analyst's construction. Descola says this; he
   does not discuss computation or formal modelling.
-- **THEORY-159** (value fixed by relations among coexisting terms) is
+- **[THEORY-159](../theory.d/THEORY-159.md)** (value fixed by relations among coexisting terms) is
   Saussure's; Descola's "no human phenomenon has a meaning in itself" is
   the anthropological generalization, asserted, not argued, here.
 - No THEORY is filed: the lecture argues a method and reports a reading;

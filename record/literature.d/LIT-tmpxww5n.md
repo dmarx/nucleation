@@ -97,7 +97,7 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-It is the source Torgersen's book (LIT-778) and THEORY-156 point to for the
+It is the source Torgersen's book ([LIT-778](LIT-778.md)) and [THEORY-156](../theory.d/THEORY-156.md) point to for the
 quantitative version of the Blackwell order: deficiency as a distance, of
 which Blackwell's equivalence is the zero case. A reading of Chapter 2 would
-be the second, independent treatment THEORY-156's `promote_when` asks for.
+be the second, independent treatment [THEORY-156](../theory.d/THEORY-156.md)'s `promote_when` asks for.

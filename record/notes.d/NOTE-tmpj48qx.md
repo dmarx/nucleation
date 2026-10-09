@@ -120,7 +120,7 @@ supplement, not read.
 ## Connections
 
 The paradigm descends from the group-communication and iterated-learning
-experiments it cites (Kirby, Cornish and Smith, LIT-771; Kirby, Tamariz,
+experiments it cites (Kirby, Cornish and Smith, [LIT-771](../literature.d/LIT-771.md); Kirby, Tamariz,
 Cornish and Smith 2015; Raviv, Meyer and Lev-Ari's own "Compositional
 structure can emerge without generational transmission", 2019), but there is no generational
 turnover here: structure arises by horizontal interaction. The
@@ -132,14 +132,14 @@ of a larger community and one of a small one.
 
 ## Bearing on the record
 
-- Produces **THEORY-tmp8h3pe**: the size effect and the input-variability
+- Produces **[THEORY-tmp8h3pe](../theory.d/THEORY-tmp8h3pe.md)**: the size effect and the input-variability
   mechanism, with what the experiment does not show.
-- **Against THEORY-155.** That theory says the endpoint of transmission
+- **Against [THEORY-155](../theory.d/THEORY-155.md).** That theory says the endpoint of transmission
   between Bayesian samplers is the shared prior, independent of how much
   data passes. This study is not a chain, so it neither supports nor
   contradicts it; but it shows a social-structural variable changing the
   outcome among learners who presumably share their biases, which a reader
-  of THEORY-155 should not assume away for interacting populations.
+  of [THEORY-155](../theory.d/THEORY-155.md) should not assume away for interacting populations.
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
@@ -167,5 +167,5 @@ of a larger community and one of a small one.
 - If input variability is manipulated directly in fixed-size groups (for
   example by injected variant labels), does structure follow?
 - In a chain with generational turnover, does population size per
-  generation change the endpoint, or only the speed, as THEORY-155 would
+  generation change the endpoint, or only the speed, as [THEORY-155](../theory.d/THEORY-155.md) would
   lead one to ask?

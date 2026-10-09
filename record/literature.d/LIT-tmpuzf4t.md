@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmphsgtx); worth reading as the short foundational argument for Contextuality-by-Default. The paper argues that the traditional reading of a Kochen–Specker or Bell-type contradiction (no joint distribution exists) cannot be right within Kolmogorovian probability, because being jointly distributed is transitive, so overlapping contexts already force one. The assumption a reductio refutes is "Noncontextual Identification", that a content is the same random variable in every context. The paper then restates contextuality as the impossibility of a coupling with a specified property C. It gives multimaximality as C for binary measurements, with the pairwise characterization (Theorem II.3) that CbD 2.0 (LIT-tmpsa1qj) cites. It ends with Specker''s three boxes treated without assuming consistent connectedness.'
+status_note: 'read 2026-10-09 ([NOTE-tmphsgtx](../notes.d/NOTE-tmphsgtx.md)); worth reading as the short foundational argument for Contextuality-by-Default. The paper argues that the traditional reading of a Kochen–Specker or Bell-type contradiction (no joint distribution exists) cannot be right within Kolmogorovian probability, because being jointly distributed is transitive, so overlapping contexts already force one. The assumption a reductio refutes is "Noncontextual Identification", that a content is the same random variable in every context. The paper then restates contextuality as the impossibility of a coupling with a specified property C. It gives multimaximality as C for binary measurements, with the pairwise characterization (Theorem II.3) that CbD 2.0 ([LIT-tmpsa1qj](LIT-tmpsa1qj.md)) cites. It ends with Specker''s three boxes treated without assuming consistent connectedness.'
 title: 'Probabilistic Foundations of Contextuality'
 version: 1
 history:
@@ -54,7 +54,7 @@ extends:
 # LIT-tmpuzf4t: Probabilistic Foundations of Contextuality
 
 Ehtibar N. Dzhafarov and Janne V. Kujala (2017), *Fortschritte der Physik –
-Progress of Physics* 65(6–8), 1600040 — ARXIV-1604.08412
+Progress of Physics* 65(6–8), 1600040 — [ARXIV-1604.08412](https://arxiv.org/abs/1604.08412)
 
 ## Key takeaways
 
@@ -79,7 +79,7 @@ Progress of Physics* 65(6–8), 1600040 — ARXIV-1604.08412
 - **The multimaximal coupling of a binary connection** is unique, with
   the staircase form, and it is characterized by maximal coupling of the
   adjacent pairs in the order of the means (Theorems II.2–II.3; II.2
-  cited to LIT-tmpsa1qj, II.3 derived here). The cyclic criterion is
+  cited to [LIT-tmpsa1qj](LIT-tmpsa1qj.md), II.3 derived here). The cyclic criterion is
   restated (Theorem II.4, cited to Kujala & Dzhafarov 2016).
 - **Specker's magic boxes** (Section III). Without consistent
   connectedness, the three-box system of Eq. (39) is noncontextual if and
@@ -94,10 +94,10 @@ Progress of Physics* 65(6–8), 1600040 — ARXIV-1604.08412
 Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 `what-survives-translation`) at the owner's request: a work the manuscript
 considered and dropped from its final reference list. The bibliography
-names CbD 2.0 by the pair of arXiv ids that LIT-777's footnote 10 gives;
+names CbD 2.0 by the pair of arXiv ids that [LIT-777](LIT-777.md)'s footnote 10 gives;
 this is the second of them. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmphsgtx). It is the record's statement of why CbD
+Read on 2026-10-09 ([NOTE-tmphsgtx](../notes.d/NOTE-tmphsgtx.md)). It is the record's statement of why CbD
 indexes variables by context. It is also the place where the pairwise form
-of multimaximality is derived, which CbD 2.0 (LIT-tmpsa1qj) and the
-canonical-systems paper (LIT-tmp1kfuc) both cite.
+of multimaximality is derived, which CbD 2.0 ([LIT-tmpsa1qj](LIT-tmpsa1qj.md)) and the
+canonical-systems paper ([LIT-tmp1kfuc](LIT-tmp1kfuc.md)) both cite.

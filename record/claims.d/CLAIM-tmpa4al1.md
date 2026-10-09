@@ -47,8 +47,8 @@ the reference and fixes the speaker as a critic.
 
 ## Prior statement
 
-Jakobson (1959) makes the same point at the level of grammar (LIT-tmp0g8wp,
-NOTE-tmp9xm3o, THEORY-tmpo1mei). The Russian rendering of "I hired a worker"
+Jakobson (1959) makes the same point at the level of grammar ([LIT-tmp0g8wp](../literature.d/LIT-tmp0g8wp.md),
+[NOTE-tmp9xm3o](../notes.d/NOTE-tmp9xm3o.md), [THEORY-tmpo1mei](../theory.d/THEORY-tmpo1mei.md)). The Russian rendering of "I hired a worker"
 must fix aspect and the worker's sex, which the English leaves open, and it
 drops tense and definiteness, which the English fixes. Languages differ in
 what they must convey, so a translation adds information along one dimension

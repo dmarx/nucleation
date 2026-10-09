@@ -114,19 +114,19 @@ What the survey reports, with the forms it gives:
 ## Connections
 
 Its three pillars rest on Carnap and Bar-Hillel (1952), Bao et al. (2011)
-and Liu, Zhang and Poor (2021–2022). It cites Shannon (LIT-764), the
-information bottleneck (LIT-338) and, for colour naming, Zaslavsky, Kemp,
+and Liu, Zhang and Poor (2021–2022). It cites Shannon ([LIT-764](../literature.d/LIT-764.md)), the
+information bottleneck ([LIT-338](../literature.d/LIT-338.md)) and, for colour naming, Zaslavsky, Kemp,
 Regier and Tishby's arXiv short paper (1808.03353) rather than the PNAS
-paper held here as LIT-tmpe6100. It does not cite Blau and Michaeli's
+paper held here as [LIT-tmpe6100](../literature.d/LIT-tmpe6100.md). It does not cite Blau and Michaeli's
 rate–distortion–perception trade-off or anything built on it, so
-Chai et al. (LIT-tmpfnpwq) and Zhao et al. (LIT-tmp2w545), which the
+Chai et al. ([LIT-tmpfnpwq](../literature.d/LIT-tmpfnpwq.md)) and Zhao et al. ([LIT-tmp2w545](../literature.d/LIT-tmp2w545.md)), which the
 exchange named with it, are outside its map. Its definition of rate
 distortion with a hidden semantic state is the one those two papers start
 from.
 
 ## Bearing on the record
 
-- **CLAIM-tmpp8j04** (task-sensitive information preservation is
+- **[CLAIM-tmpp8j04](../claims.d/CLAIM-tmpp8j04.md)** (task-sensitive information preservation is
   established in semantic and goal-oriented communication). The survey
   supports the general statement: task-oriented semantic entropy (Eq. 4),
   utility-weighted entropy (Eq. 10), rate–distortion with a hidden
@@ -136,13 +136,13 @@ from.
   not support a stronger reading: it reports no theorem that ties
   preservation to a family of decision problems, and no treatment of
   distributions over interpretations. Those are in Zhao et al.
-  (LIT-tmp2w545, NOTE-tmpsmtp6), not here.
+  ([LIT-tmp2w545](../literature.d/LIT-tmp2w545.md), [NOTE-tmpsmtp6](NOTE-tmpsmtp6.md)), not here.
 - **Translation.** Two of its examples touch this record's translation
   line: Melamed's translation entropy of a word (Eq. 5) and the listing of
   "translation of one natural language into another language where some
   concepts … have no precise match" as semantic-channel noise. Both are
   mentioned, not developed.
-- It is one of three sources of THEORY-tmp3ijnj, the record's account of
+- It is one of three sources of [THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md), the record's account of
   what the semantic rate–distortion frameworks formalise.
 - **A misstated formula.** The information bottleneck is described as
   minimising I(T;X) "subject to the constraint that I(T;Y) does not exceed

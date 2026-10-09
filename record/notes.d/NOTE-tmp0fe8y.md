@@ -133,7 +133,7 @@ literature.
 
 ## Bearing on the record
 
-- **CLAIM-tmpykenz** (communicative categories form a concept lattice).
+- **[CLAIM-tmpykenz](../claims.d/CLAIM-tmpykenz.md)** (communicative categories form a concept lattice).
   The book does not mention formal concept analysis. It supplies the order
   theory FCA rests on: the derivation operators of a formal context form an
   antitone Galois connection between subsets of objects and of attributes,
@@ -147,7 +147,7 @@ literature.
   parts. Whether a translation or reading of a combined text has such an
   effect is a question the definition makes precise; the book does not
   raise it, and no claim is made here.
-- **LIT-tmpocszx** (Backprop as Functor, same first two authors) is the
+- **[LIT-tmpocszx](../literature.d/LIT-tmpocszx.md)** (Backprop as Functor, same first two authors) is the
   research instance of the book's "functorial semantics" theme.
 - No THEORY filed: the results read are textbook theorems the record has no
   use stating separately. No instruction for machine-learning practice.

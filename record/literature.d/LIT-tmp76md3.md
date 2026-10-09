@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp8sckc); worth reading as the 2025 journal extension of T2I-CompBench (LIT-783): 8,000 prompts in eight sub-categories, adding numeracy and 3D-spatial relations, eleven models up to SD3, DALL·E 3 and FLUX.1, and multimodal LLMs as judges. Two things change the conference picture. GPT-4V now agrees with human rankings better than CLIPScore on interactions (Kendall τ 0.48 against 0.25) and complex prompts (0.51 against 0.07), so interactions are no longer scored only by CLIPScore; but human scores on interactions are still near ceiling (0.95–0.99 for five of six rated models), and no new category asks about stance, purpose or social relation. Human ratings cover only the six 2023-era models; the 2024–25 models are ranked by automatic metrics alone.'
+status_note: 'read 2026-10-09 ([NOTE-tmp8sckc](../notes.d/NOTE-tmp8sckc.md)); worth reading as the 2025 journal extension of T2I-CompBench ([LIT-783](LIT-783.md)): 8,000 prompts in eight sub-categories, adding numeracy and 3D-spatial relations, eleven models up to SD3, DALL·E 3 and FLUX.1, and multimodal LLMs as judges. Two things change the conference picture. GPT-4V now agrees with human rankings better than CLIPScore on interactions (Kendall τ 0.48 against 0.25) and complex prompts (0.51 against 0.07), so interactions are no longer scored only by CLIPScore; but human scores on interactions are still near ceiling (0.95–0.99 for five of six rated models), and no new category asks about stance, purpose or social relation. Human ratings cover only the six 2023-era models; the 2024–25 models are ranked by automatic metrics alone.'
 title: 'T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation'
 version: 1
 history:
@@ -102,15 +102,15 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-It is the journal version of LIT-783 and `extends` it. The record holds
+It is the journal version of [LIT-783](LIT-783.md) and `extends` it. The record holds
 them as two works because they are two publications with different
 contents; the conference paper is the one the manuscript cites, and its
-reading (NOTE-592) is not superseded by this one. Like LIT-783 it is a
+reading ([NOTE-592](../notes.d/NOTE-592.md)) is not superseded by this one. Like [LIT-783](LIT-783.md) it is a
 machine-learning benchmark an anthology topic could hold, so it carries the
-`anthology-candidate` flag (ADR-005), and it is filed under
+`anthology-candidate` flag ([ADR-005](../decisions.d/ADR-005.md)), and it is filed under
 `compositionality`, the subject it shares with this record.
 
 **After reading.** Its interaction category is now judged by GPT-4V rather
 than CLIPScore, which matters to the manuscript's argument about what the
-benchmark can and cannot tell apart; the reading (NOTE-tmp8sckc) sets out
+benchmark can and cannot tell apart; the reading ([NOTE-tmp8sckc](../notes.d/NOTE-tmp8sckc.md)) sets out
 what that does and does not change.

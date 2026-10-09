@@ -112,18 +112,18 @@ empirically anyway.
 ## Connections
 
 It removes the classifier from Dhariwal & Nichol's classifier guidance
-(held in the anthology as ANTH-LIT-699) and reuses their architectures. The
+(held in the anthology as [ANTH-LIT-699](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-699.md)) and reuses their architectures. The
 non-conservativeness argument is credited to Salimans & Ho (2021), "Should
-EBMs model the energy or the score?". Composable Diffusion (LIT-770)
+EBMs model the energy or the score?". Composable Diffusion ([LIT-770](../literature.d/LIT-770.md))
 sums several such guidance terms, one per concept, and its AND operator
-reduces to Eq. 6 for one concept (NOTE-597). Attend-and-Excite
-(LIT-tmpbjx8a) runs on Stable Diffusion with classifier-free guidance at
+reduces to Eq. 6 for one concept ([NOTE-597](NOTE-597.md)). Attend-and-Excite
+([LIT-tmpbjx8a](../literature.d/LIT-tmpbjx8a.md)) runs on Stable Diffusion with classifier-free guidance at
 scale 7.5 and describes its own method as strengthening the text
 conditioning "similar to" it.
 
 ## Bearing on the record
 
-- **CLAIM-tmpzkhdr.** That claim says adding scores composes conditions
+- **[CLAIM-tmpzkhdr](../claims.d/CLAIM-tmpzkhdr.md).** That claim says adding scores composes conditions
   only under conditional independence at the noisy state. This paper adds
   a second, independent caveat that the claim does not state: with learned
   networks the sum of score estimates is generally not the score of any
@@ -132,7 +132,7 @@ conditioning "similar to" it.
   for its own Eq. 6; extending it to sums of several terms is my reading,
   but the argument is the same.
 - No THEORY is filed. The anthology already holds the account of what the
-  guidance weight does to metrics (ANTH-LIT-693, with its THEORY on the
+  guidance weight does to metrics ([ANTH-LIT-693](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-693.md), with its THEORY on the
   adversarial-metric question); the probabilistic point above is stated in
   the paper and needs no separate account here.
 - **The text and the tables disagree on a sign.** Section 4.1 says FID is
@@ -164,5 +164,5 @@ conditioning "similar to" it.
   sampling path would show it.
 - How does the trade-off behave for compositional conditions, where c is
   a prompt with several objects and attributes? The paper does not test
-  it; T2I-CompBench and its successor (LIT-783, LIT-tmp76md3) evaluate
+  it; T2I-CompBench and its successor ([LIT-783](../literature.d/LIT-783.md), [LIT-tmp76md3](../literature.d/LIT-tmp76md3.md)) evaluate
   guided models without varying w.

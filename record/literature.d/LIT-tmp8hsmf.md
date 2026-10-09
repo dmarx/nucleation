@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpchl3b); worth reading for its reframing of a sequence layer as a learner trained on its own context: the hidden state is the weights of an inner model, the update rule a gradient step on a self-supervised loss, the output rule the inner model''s prediction. Two exact identities follow: a linear inner model with batch gradient descent is linear attention (Theorem 1), and the Nadaraya–Watson estimator as inner learner is softmax self-attention (Theorem 2). The empirical part, TTT-Linear and TTT-MLP against Mamba and a Transformer at 125M–1.3B, is an architecture result that belongs to the anthology''s question.'
+status_note: 'read 2026-10-09 ([NOTE-tmpchl3b](../notes.d/NOTE-tmpchl3b.md)); worth reading for its reframing of a sequence layer as a learner trained on its own context: the hidden state is the weights of an inner model, the update rule a gradient step on a self-supervised loss, the output rule the inner model''s prediction. Two exact identities follow: a linear inner model with batch gradient descent is linear attention (Theorem 1), and the Nadaraya–Watson estimator as inner learner is softmax self-attention (Theorem 2). The empirical part, TTT-Linear and TTT-MLP against Mamba and a Transformer at 125M–1.3B, is an architecture result that belongs to the anthology''s question.'
 title: 'Learning to (Learn at Test Time): RNNs with Expressive Hidden States'
 version: 1
 history:
@@ -57,7 +57,7 @@ summary: >-
 Yu Sun, Xinhao Li, Karan Dalal, Jiarui Xu, Arjun Vikram, Genghan Zhang,
 Yann Dubois, Xinlei Chen, Xiaolong Wang, Sanmi Koyejo, Tatsunori Hashimoto
 and Carlos Guestrin (2024), *ICML 2025*, PMLR 267:57503–57522 —
-ARXIV-2407.04620
+[ARXIV-2407.04620](https://arxiv.org/abs/2407.04620)
 
 ## Key takeaways
 
@@ -92,14 +92,14 @@ ARXIV-2407.04620
 Filed on 2026-10-09 at the owner's request, from the bibliography of the
 owner's manuscript *What Survives Translation?* (work
 `what-survives-translation`), which considered it and dropped it from the
-final reference list. Read on its own terms (NOTE-tmpchl3b).
+final reference list. Read on its own terms ([NOTE-tmpchl3b](../notes.d/NOTE-tmpchl3b.md)).
 
 It carries `anthology-candidate`: as an architecture paper its subject is
 one anthology topics hold, and the anthology names it without filing it.
 What this record takes from it is the two theorems, which state attention
-as learning on the context. They are a source of THEORY-tmpllqzv.
+as learning on the context. They are a source of [THEORY-tmpllqzv](../theory.d/THEORY-tmpllqzv.md).
 
 The name "test-time training" covers two things: here, an inner model
-whose weights are a layer's state; in Akyürek et al. (LIT-tmp686hl), a
+whose weights are a layer's state; in Akyürek et al. ([LIT-tmp686hl](LIT-tmp686hl.md)), a
 temporary update to the network's own weights. Akyürek et al. say so in a
 footnote.

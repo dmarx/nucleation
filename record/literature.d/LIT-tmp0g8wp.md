@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp9xm3o): in full, from a scan of the 1959 printing posted as a course reading by the University of Toronto''s Centre for Comparative Literature. Worth reading as the source of the three kinds of translation (intralingual, interlingual, intersemiotic) and of the argument that interlingual translation substitutes whole messages for messages, since code-units rarely have full equivalents. Its sharpest claim is that languages differ in what they must convey, not in what they may convey: obligatory grammatical categories force a translator to add or drop information, so a chain of translations back and forth can strip a message of its content. Limits: an essay argued from examples, with one psychological test cited second-hand; poetry is set aside as untranslatable, open only to "creative transposition".'
+status_note: 'read 2026-10-09 ([NOTE-tmp9xm3o](../notes.d/NOTE-tmp9xm3o.md)): in full, from a scan of the 1959 printing posted as a course reading by the University of Toronto''s Centre for Comparative Literature. Worth reading as the source of the three kinds of translation (intralingual, interlingual, intersemiotic) and of the argument that interlingual translation substitutes whole messages for messages, since code-units rarely have full equivalents. Its sharpest claim is that languages differ in what they must convey, not in what they may convey: obligatory grammatical categories force a translator to add or drop information, so a chain of translations back and forth can strip a message of its content. Limits: an essay argued from examples, with one psychological test cited second-hand; poetry is set aside as untranslatable, open only to "creative transposition".'
 title: 'On Linguistic Aspects of Translation'
 version: 1
 history:
@@ -117,8 +117,8 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmp9xm3o). The reading is the source of
-THEORY-tmpo1mei, the record's statement of the obligatory-categories
+Read on 2026-10-09 ([NOTE-tmp9xm3o](../notes.d/NOTE-tmp9xm3o.md)). The reading is the source of
+[THEORY-tmpo1mei](../theory.d/THEORY-tmpo1mei.md), the record's statement of the obligatory-categories
 thesis and what it does not establish. The other translation-theory works
-of that batch, LIT-tmp1ysoz (Nida), LIT-tmp1e7m4 (House), LIT-tmp8abt4
-(Hatim and Mason) and LIT-tmppvxqg (Nord), were filed, not read.
+of that batch, [LIT-tmp1ysoz](LIT-tmp1ysoz.md) (Nida), [LIT-tmp1e7m4](LIT-tmp1e7m4.md) (House), [LIT-tmp8abt4](LIT-tmp8abt4.md)
+(Hatim and Mason) and [LIT-tmppvxqg](LIT-tmppvxqg.md) (Nord), were filed, not read.

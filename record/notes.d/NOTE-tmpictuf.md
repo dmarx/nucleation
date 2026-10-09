@@ -138,7 +138,7 @@ put or coplay.
 ## Bearing on the record
 
 - **Compositionality.** The record holds Fong and Spivak's book
-  (LIT-tmp8x9r8), which presents functorial semantics in general; this
+  ([LIT-tmp8x9r8](../literature.d/LIT-tmp8x9r8.md)), which presents functorial semantics in general; this
   paper is a worked instance in which a functor from syntax to semantics
   exists only after the semantics is enriched with a backward channel.
   That a compositional translation needed an extra datum to exist is the

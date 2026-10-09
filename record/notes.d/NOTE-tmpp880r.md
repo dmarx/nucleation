@@ -99,7 +99,7 @@ in what order cannot change.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Under Lüders-rule projection from a common state, the probability of disagreeing answers is order-invariant for any projectors in any dimension | strong (proof) | Appendix; re-derived independently in LIT-264 §3 |
+| C1 | Under Lüders-rule projection from a common state, the probability of disagreeing answers is order-invariant for any projectors in any dimension | strong (proof) | Appendix; re-derived independently in [LIT-264](../literature.d/LIT-264.md) §3 |
 | C2 | In this model, order effects require non-commuting projectors | strong (proof) | Appendix |
 | C3 | Five question-order data sets satisfy the QQ equality | moderate: six data sets, N about 100–500 per order | Table 1, §5 |
 | C4 | The equality fails when information is inserted between questions | weak: one case, explained after the model was formulated but stated as a prediction | Rose–Jackson, §5 |
@@ -130,16 +130,16 @@ with and without the constraint p_AB = p_BA.
 
 It rests on Moore (2002) for the data and the taxonomy, Peres (1998) for
 reciprocity, and Niestegge (2008), who derived the same property for an
-axiomatic analysis of quantum theory. The 2014 PNAS paper, LIT-tmp56yt5,
-tests the equality on 72 studies. LIT-264 re-derives it in two lines from
+axiomatic analysis of quantum theory. The 2014 PNAS paper, [LIT-tmp56yt5](../literature.d/LIT-tmp56yt5.md),
+tests the equality on 72 studies. [LIT-264](../literature.d/LIT-264.md) re-derives it in two lines from
 P Q P + (I − P)(I − Q)(I − P) = I − (P + Q) + (P Q + Q P) and shows it
 implies noncontextuality in the Contextuality-by-Default sense. The
-general framework is LIT-316, unread here.
+general framework is [LIT-316](../literature.d/LIT-316.md), unread here.
 
 ## Bearing on the record
 
-- **Sources THEORY-tmp9wyar**, with LIT-tmp56yt5 (primary) and LIT-264.
-- **THEORY-013.** This paper is the model LIT-264 uses to argue that a
+- **Sources [THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md)**, with [LIT-tmp56yt5](../literature.d/LIT-tmp56yt5.md) (primary) and [LIT-264](../literature.d/LIT-264.md).
+- **[THEORY-013](../theory.d/THEORY-013.md).** This paper is the model [LIT-264](../literature.d/LIT-264.md) uses to argue that a
   quantum model can predict the absence of contextuality. Nothing here
   speaks to contextuality; the paper does not use the word.
 - **On the derivation.** The paper attributes the equality to the law of
@@ -148,7 +148,7 @@ general framework is LIT-316, unread here.
   projectors are self-adjoint. The equality is a property of
   self-adjoint projectors under Lüders updating from a common state, not
   of rays in particular. This is my reading of the Appendix, and it
-  agrees with the re-derivation in LIT-264.
+  agrees with the re-derivation in [LIT-264](../literature.d/LIT-264.md).
 - **On "order sensitivity establishes non-commutativity".** Within the
   model, an order effect needs non-commuting projectors. The paper itself
   (§6) says a Bayesian model with order events and a Markov model with

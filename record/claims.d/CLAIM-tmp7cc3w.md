@@ -66,6 +66,6 @@ Proposal v6's three novelty claims (A100) were withdrawn into §1's disclaimer.
 
 ## Krifka, read
 
-The exchange's description holds: Krifka (LIT-tmpuclkg) models speech acts
+The exchange's description holds: Krifka ([LIT-tmpuclkg](../literature.d/LIT-tmpuclkg.md)) models speech acts
 formally as informative and performative updates. He does not touch
 translation.

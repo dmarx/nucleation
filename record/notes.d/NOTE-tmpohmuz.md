@@ -109,13 +109,13 @@ The authors place it after Rosenberg and Cohen's disambiguation models,
 game-theoretic signalling models (Benz, Jäger and van Rooij), and Dale and
 Reiter's generation of referring expressions; the size principle is Xu
 and Tenenbaum's. The general framework it starts is surveyed in Goodman
-and Frank (LIT-tmphavsf) as the rational speech act model, and Bergen,
-Goodman and Levy (LIT-tmpcsywp) extend the same recursion with costs and
+and Frank ([LIT-tmphavsf](../literature.d/LIT-tmphavsf.md)) as the rational speech act model, and Bergen,
+Goodman and Levy ([LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md)) extend the same recursion with costs and
 lexical uncertainty.
 
 ## Bearing on the record
 
-- **Produces, with LIT-tmpcsywp and LIT-tmphavsf, THEORY-tmprknoj**: that
+- **Produces, with [LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md) and [LIT-tmphavsf](../literature.d/LIT-tmphavsf.md), [THEORY-tmprknoj](../theory.d/THEORY-tmprknoj.md)**: that
   interpretation in reference games is predicted by inverting an
   informative speaker, so it depends on the alternatives the speaker had.
 - The listener's output is a posterior over referents given an utterance
@@ -144,7 +144,7 @@ lexical uncertainty.
 - Does the fit hold for listeners who must infer the speaker's
   alternatives rather than being shown them?
 - Does it hold with deeper recursion or a fitted α? Goodman and Frank
-  (LIT-tmphavsf) report that deeper recursion is seen in only some
+  ([LIT-tmphavsf](../literature.d/LIT-tmphavsf.md)) report that deeper recursion is seen in only some
   participants.
 - The 2021 reanalysis by Sikos et al. (not held, not read) bears on how
   robust the fit is.

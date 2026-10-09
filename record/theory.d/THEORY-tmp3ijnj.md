@@ -25,14 +25,16 @@ source:
 - LIT-tmpmigxa
 - LIT-338
 summary: >-
-  From the readings of Zhao et al. (2025), LIT-tmp2w545, Chai et al.
-  (2023), LIT-tmpfnpwq, and the survey of Xin, Fan and Letaief (2024),
-  LIT-tmpmigxa. These frameworks fix meaning as a hidden S with a known
+  From the readings of Zhao et al. (2025), [LIT-tmp2w545](../literature.d/LIT-tmp2w545.md), Chai et al.
+  (2023), [LIT-tmpfnpwq](../literature.d/LIT-tmpfnpwq.md), and the survey of Xin, Fan and Letaief (2024),
+  [LIT-tmpmigxa](../literature.d/LIT-tmpmigxa.md). These frameworks fix meaning as a hidden S with a known
   p(S, X); their theorems are indirect rate–distortion results that do not
   depend on what S is. Zhao et al.'s posterior distortion reduces, for KL,
   to I(S;X) − I(S;Y), making the function the information bottleneck
-  (LIT-338), and for TV bounds the extra Bayes risk of every bounded loss.
+  ([LIT-338](../literature.d/LIT-338.md)), and for TV bounds the extra Bayes risk of every bounded loss.
   The two identities are this record's derivations, not the papers'.
+supports:
+- CLAIM-tmpp8j04
 ---
 
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for the qualitative comparison this account's TV bound quantifies -->
@@ -41,10 +43,10 @@ summary: >-
 
 ## Source
 
-Zhao, Ma, Li, Yuan, Ye and Zhou (2025), LIT-tmp2w545 (NOTE-tmpsmtp6);
-Chai, Xiao, Shi and Saad (2023), LIT-tmpfnpwq (NOTE-tmp5zbie); Xin, Fan and
-Letaief (2024), LIT-tmpmigxa (NOTE-tmpcfnb5), for Liu, Zhang and Poor's
-framework, which it reports; Tishby, Pereira and Bialek (1999), LIT-338,
+Zhao, Ma, Li, Yuan, Ye and Zhou (2025), [LIT-tmp2w545](../literature.d/LIT-tmp2w545.md) ([NOTE-tmpsmtp6](../notes.d/NOTE-tmpsmtp6.md));
+Chai, Xiao, Shi and Saad (2023), [LIT-tmpfnpwq](../literature.d/LIT-tmpfnpwq.md) ([NOTE-tmp5zbie](../notes.d/NOTE-tmp5zbie.md)); Xin, Fan and
+Letaief (2024), [LIT-tmpmigxa](../literature.d/LIT-tmpmigxa.md) ([NOTE-tmpcfnb5](../notes.d/NOTE-tmpcfnb5.md)), for Liu, Zhang and Poor's
+framework, which it reports; Tishby, Pereira and Bialek (1999), [LIT-338](../literature.d/LIT-338.md),
 for the bottleneck.
 
 ## What was actually shown
@@ -91,7 +93,7 @@ for the bottleneck.
   only, in the three readings above plus the framework the survey reports
   second-hand.
 - **Not a Blackwell comparison.** The TV bound fixes the prior on S and
-  bounds risk for one prior; the Blackwell order (THEORY-156) compares
+  bounds risk for one prior; the Blackwell order ([THEORY-156](THEORY-156.md)) compares
   experiments for every prior and is qualitative. The bound is a
   prior-dependent, quantitative relative of that order, not the order
   itself, and D_p = 0 gives Bayes sufficiency of Y for S at this prior,
@@ -103,6 +105,6 @@ for the bottleneck.
   the TV bound.
 - **Not about Zhao et al.'s theorems as stated.** Their sequence
   distortion is written as an expected maximum while their proofs use
-  maxima of per-letter expectations (NOTE-tmpsmtp6); the identities here
+  maxima of per-letter expectations ([NOTE-tmpsmtp6](../notes.d/NOTE-tmpsmtp6.md)); the identities here
   are single-letter and unaffected, but the coding theorems hold for the
   per-letter form.

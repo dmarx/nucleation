@@ -53,9 +53,9 @@ The evidence is mixed:
 
 - **Against, at the level of the layer.** In linear attention, conditioning
   on a context is one gradient step of an inner learner (Sun et al.,
-  LIT-tmp8hsmf; von Oswald et al., LIT-tmp2vilw; THEORY-tmpllqzv). So in
+  [LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md); von Oswald et al., [LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md); [THEORY-tmpllqzv](../theory.d/THEORY-tmpllqzv.md)). So in
   that class of system, context and interpreter are the same computation.
-- **For, at the level of the whole model.** Akyürek et al. (LIT-tmp686hl)
+- **For, at the level of the whole model.** Akyürek et al. ([LIT-tmp686hl](../literature.d/LIT-tmp686hl.md))
   hold the demonstrations fixed and also update the weights on them, and
   that beats conditioning alone (BIG-Bench Hard 50.5% to 57.8%). The two
   are behaviourally distinguishable.

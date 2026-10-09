@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpa8ntc), in Russian, the preface and all nine chapters of the 1928 first edition from a library scan in full view at the Internet Archive; the appendices skimmed. Worth reading as the founding structural analysis of narrative: in the wondertales of Afanasyev''s collection (nos. 50–151), what stays constant is not the characters or motifs but the functions of the characters, actions defined by their consequence for the plot; there are only 31, they follow one order, and so all wondertales are of one type, differing in which functions they omit, how each is realised and who performs it. Functions fall to seven spheres of action (villain, donor, helper, princess and her father, dispatcher, hero, false hero). Propp holds that a tale can be generated from the scheme, that plot and variant cannot be told apart, and that wondertales in their morphological basis are myth. Source of THEORY-tmpdu50e.'
+status_note: 'read 2026-10-09 ([NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md)), in Russian, the preface and all nine chapters of the 1928 first edition from a library scan in full view at the Internet Archive; the appendices skimmed. Worth reading as the founding structural analysis of narrative: in the wondertales of Afanasyev''s collection (nos. 50–151), what stays constant is not the characters or motifs but the functions of the characters, actions defined by their consequence for the plot; there are only 31, they follow one order, and so all wondertales are of one type, differing in which functions they omit, how each is realised and who performs it. Functions fall to seven spheres of action (villain, donor, helper, princess and her father, dispatcher, hero, false hero). Propp holds that a tale can be generated from the scheme, that plot and variant cannot be told apart, and that wondertales in their morphological basis are myth. Source of [THEORY-tmpdu50e](../theory.d/THEORY-tmpdu50e.md).'
 title: 'Морфология сказки'
 version: 1
 history:
@@ -28,6 +28,7 @@ history:
     record/ (clone of 2026-10-09, commit d8b5ba5) for "Propp", the title
     and "folktale" found nothing.
 tags:
+- myth-and-folklore
 - social-science
 - compositionality
 date: '2026-10-09'
@@ -115,8 +116,8 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpa8ntc), in the 1928 Russian text. The reading
-is the source of THEORY-tmpdu50e. Lévi-Strauss's structural analysis of
-myth (LIT-775, filed, not read) is the later line this book is usually set
-against; Doja, Capocchi and Santucci (LIT-tmp9axrl) cite the English
+Read on 2026-10-09 ([NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md)), in the 1928 Russian text. The reading
+is the source of [THEORY-tmpdu50e](../theory.d/THEORY-tmpdu50e.md). Lévi-Strauss's structural analysis of
+myth ([LIT-775](LIT-775.md), filed, not read) is the later line this book is usually set
+against; Doja, Capocchi and Santucci ([LIT-tmp9axrl](LIT-tmp9axrl.md)) cite the English
 edition as one of the formalisations computational work has attempted.

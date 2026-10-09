@@ -43,7 +43,7 @@ the work of the dropped performative fidelity ([CLAIM-tmpfbpte](CLAIM-tmpfbpte.m
 
 ## Krifka, read
 
-Krifka (LIT-tmpuclkg) gives "change in conversational standing" a precise
+Krifka ([LIT-tmpuclkg](../literature.d/LIT-tmpuclkg.md)) gives "change in conversational standing" a precise
 object: the propositions an update makes true. Brandom's deontic score
-(LIT-tmp3t040) is a perspectival alternative. Neither offers observables, so
+([LIT-tmp3t040](../literature.d/LIT-tmp3t040.md)) is a perspectival alternative. Neither offers observables, so
 this claim's defeat condition is untouched.

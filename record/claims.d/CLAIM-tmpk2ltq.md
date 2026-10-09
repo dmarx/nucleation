@@ -50,8 +50,8 @@ Experiment 3 of [CASE-tmp7b5rt](../cases.d/CASE-tmp7b5rt.md) would test it.
 ## What the in-context-learning readings say
 
 Persistence and the locus of change come apart. Akyürek et al.'s
-test-time update (LIT-tmp686hl) and Sun et al.'s inner weights
-(LIT-tmp8hsmf) both change parameters, and both discard the change after
+test-time update ([LIT-tmp686hl](../literature.d/LIT-tmp686hl.md)) and Sun et al.'s inner weights
+([LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md)) both change parameters, and both discard the change after
 the task or the sequence. So "transient means context, persistent means
 adaptation" does not hold as a dichotomy, and the claim needs stating in
 terms of where the change happens.

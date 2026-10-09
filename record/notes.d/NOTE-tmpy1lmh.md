@@ -34,7 +34,7 @@ summary: >-
 
 ## Contribution
 
-CbD 1.0 (LIT-777) asked whether the bunches of a system are compatible with
+CbD 1.0 ([LIT-777](../literature.d/LIT-777.md)) asked whether the bunches of a system are compatible with
 a maximal coupling of each connection. This paper replaces that with a
 multimaximal coupling, in which every subset of a connection is maximally
 coupled. It proves that for binary variables this coupling exists, is
@@ -63,7 +63,7 @@ marginals of one joint distribution.
 - **Binary variables** throughout the definitions and Theorems 1–4.
   Definition 3 is stated only for binary systems. Section 6 and Theorem 5
   treat arbitrary categorical variables.
-- **Maximal coupling** (from Thorisson; LIT-777 Theorem 3.3): a coupling
+- **Maximal coupling** (from Thorisson; [LIT-777](../literature.d/LIT-777.md) Theorem 3.3): a coupling
   maximizing Pr[T¹ = … = Tᵏ], which for categorical variables is
   Σ_v min_i Pr[Rⁱ = v].
 
@@ -83,7 +83,7 @@ marginals of one joint distribution.
   directly; necessity is by induction on the position of the first 1.
 - **Corollary 1.** A multimaximal coupling of a binary connection exists
   and is unique.
-- **Theorem 2** (proof in LIT-tmpuzf4t). For a binary connection in that
+- **Theorem 2** (proof in [LIT-tmpuzf4t](../literature.d/LIT-tmpuzf4t.md)). For a binary connection in that
   order, a coupling is multimaximal if and only if each adjacent pair
   (T_q^i, T_q^{i+1}) is a maximal coupling.
 - **Theorem 3.** In a noncontextual binary system, every subsystem
@@ -102,7 +102,7 @@ marginals of one joint distribution.
   summing to 1, proper bunch marginals) whose connection marginals are
   the multimaximal couplings. Among these there is one of least total
   variation, which is the measure of contextuality. The existence result
-  is LIT-777's Theorem 6.1.
+  is [LIT-777](../literature.d/LIT-777.md)'s Theorem 6.1.
 - **Theorem 5.** For arbitrary variables, a coupling is multimaximal if
   and only if every pair is maximally coupled. Proof: if some subset
   fails, a value v has Pr[all = v] < min_c Pr[T_q^c = v] while every pair
@@ -145,37 +145,37 @@ marginals of one joint distribution.
 
 ## Connections
 
-It revises LIT-777's Definition 3.4 and keeps that paper's principles, its
+It revises [LIT-777](../literature.d/LIT-777.md)'s Definition 3.4 and keeps that paper's principles, its
 linear-programming test and its Section 6 measure. Its Theorem 2 is proved
-in the companion LIT-tmpuzf4t, which in turn cites this paper for the
+in the companion [LIT-tmpuzf4t](../literature.d/LIT-tmpuzf4t.md), which in turn cites this paper for the
 existence and uniqueness theorem. The two papers cite each other for their
 halves. Its closing proposal, to replace every non-binary variable by all
 its dichotomizations, is the programme of the canonical-systems paper
-LIT-tmp1kfuc. The maximal-coupling theorem is Thorisson's. The quasi-coupling
+[LIT-tmp1kfuc](../literature.d/LIT-tmp1kfuc.md). The maximal-coupling theorem is Thorisson's. The quasi-coupling
 idea is credited to de Barros and Oas.
 
 ## Bearing on the record
 
-- **LIT-777 and NOTE-600.** NOTE-600 reported from footnote 10 that the
+- **[LIT-777](../literature.d/LIT-777.md) and [NOTE-600](NOTE-600.md).** [NOTE-600](NOTE-600.md) reported from footnote 10 that the
   definition was being superseded and that the binary cyclic results were
   unchanged. This reading confirms both, from the source: for two-variable
-  connections, maximal and multimaximal coincide. NOTE-600's statement
+  connections, maximal and multimaximal coincide. [NOTE-600](NOTE-600.md)'s statement
   that CbD agrees with the sheaf criterion under consistent connectedness
   also holds for 2.0, since multimaximal couplings of identically
   distributed variables are identity couplings.
-- **THEORY-013.** Its source's systems (question order, matching, the
+- **[THEORY-013](../theory.d/THEORY-013.md).** Its source's systems (question order, matching, the
   Bruza word pairs) are binary and cyclic, so the switch to 2.0 does not
-  change any verdict THEORY-013 reports.
-- **THEORY-014.** Theorem 4 has that theory's shape: a signed coupling
+  change any verdict [THEORY-013](../theory.d/THEORY-013.md) reports.
+- **[THEORY-014](../theory.d/THEORY-014.md).** Theorem 4 has that theory's shape: a signed coupling
   always exists, and classicality is having a nonnegative one. It is
-  LIT-777's Theorem 6.1 applied to multimaximal couplings, so it is not a
+  [LIT-777](../literature.d/LIT-777.md)'s Theorem 6.1 applied to multimaximal couplings, so it is not a
   new instance.
-- **The manuscript's claim CLAIM-tmpje74v.** The paper supports it.
+- **The manuscript's claim [CLAIM-tmpje74v](../claims.d/CLAIM-tmpje74v.md).** The paper supports it.
   Different verdicts arise only for contents measured in more than two
   contexts. The cyclic case and the measure are unchanged. But the paper
   states the CbD 1.0 failure of heredity without an example, and it does
   not compute any system on which 1.0 and 2.0 disagree.
-- It produces, with the canonical-systems paper, THEORY-tmpjdnxt.
+- It produces, with the canonical-systems paper, [THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md).
 - No instruction for machine-learning practice.
 
 ## Limitations
@@ -194,5 +194,5 @@ idea is credited to de Barros and Oas.
 - How large the disagreement between 1.0 and 2.0 is on Peres-type
   Kochen–Specker systems with realistic inconsistent connectedness.
 - Whether the dichotomization programme is "feasible", the paper's own
-  closing question. LIT-tmp1kfuc answers it for a single pair of
+  closing question. [LIT-tmp1kfuc](../literature.d/LIT-tmp1kfuc.md) answers it for a single pair of
   categorical variables.

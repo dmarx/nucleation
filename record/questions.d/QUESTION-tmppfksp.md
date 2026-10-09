@@ -43,8 +43,8 @@ target results.
 
 ## Evidence since
 
-Akyürek et al. (LIT-tmp686hl) get more from the same demonstrations by
+Akyürek et al. ([LIT-tmp686hl](../literature.d/LIT-tmp686hl.md)) get more from the same demonstrations by
 improving the interpreter (test-time training) than by conditioning alone.
 That is direct evidence that adaptation can stand in for transmitted
-information. Min et al. (LIT-tmpgsgpo) find that the correctness of the
+information. Min et al. ([LIT-tmpgsgpo](../literature.d/LIT-tmpgsgpo.md)) find that the correctness of the
 labels carries little of what a context transmits.

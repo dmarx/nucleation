@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp3w3nx); worth reading as the large-scale test of the QQ equality: across 66 Pew surveys chosen without regard to their results, question order changes the answers significantly (p = 0.0004 for the distribution of order-effect χ² values), while the probability of answering the two questions alike stays the same (p = 0.4625 for the q values). Read with the caveats that the supporting information, which holds the proof, the per-study table and the χ² tests, was not reachable and was not read, and that the paper''s title claims more than its evidence: the equality is a symmetry constraint that the authors concede a classical model could be built to satisfy, and LIT-264 shows that data satisfying it are noncontextual.'
+status_note: 'read 2026-10-09 ([NOTE-tmp3w3nx](../notes.d/NOTE-tmp3w3nx.md)); worth reading as the large-scale test of the QQ equality: across 66 Pew surveys chosen without regard to their results, question order changes the answers significantly (p = 0.0004 for the distribution of order-effect χ² values), while the probability of answering the two questions alike stays the same (p = 0.4625 for the q values). Read with the caveats that the supporting information, which holds the proof, the per-study table and the χ² tests, was not reachable and was not read, and that the paper''s title claims more than its evidence: the equality is a symmetry constraint that the authors concede a classical model could be built to satisfy, and [LIT-264](LIT-264.md) shows that data satisfying it are noncontextual.'
 title: 'Context effects produced by question orders reveal quantum nature of human judgments'
 version: 1
 history:
@@ -37,7 +37,7 @@ keywords:
 implementations: []
 summary: >-
   Wang, Solloway, Shiffrin & Busemeyer (2014), PNAS 111(26):9431–9436.
-  Tests the QQ equality of LIT-tmptn5dr, that the probability of giving
+  Tests the QQ equality of [LIT-tmptn5dr](LIT-tmptn5dr.md), that the probability of giving
   the same answer to two questions does not depend on their order, on 70
   national surveys and two laboratory experiments. Across all 66 Pew
   surveys from 2001–2011 that varied the order of two questions, order
@@ -79,7 +79,7 @@ Zheng Wang, Tyler Solloway, Richard M. Shiffrin, Jerome R. Busemeyer
   for order effects departs from the null (p = 0.0004), and the
   distribution for q does not (p = 0.4625).
 - **The model and its condition.** The prediction is the Lüders double
-  projection of LIT-tmptn5dr, and it holds for mixed states, so it
+  projection of [LIT-tmptn5dr](LIT-tmptn5dr.md), and it holds for mixed states, so it
   survives individual differences. It requires that the questions be
   asked back to back. New information between them applies different
   transformations, P_A U″ P_B versus P_B U′ P_A, and the equality is no
@@ -100,8 +100,8 @@ owner's manuscript (work `what-survives-translation`) as it stood on
 2026-10-08: a work the bibliography considered and the final reference
 list dropped. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmp3w3nx). It is the primary source of
-THEORY-tmp9wyar. The model it tests is LIT-tmptn5dr. Its data set,
+Read on 2026-10-09 ([NOTE-tmp3w3nx](../notes.d/NOTE-tmp3w3nx.md)). It is the primary source of
+[THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md). The model it tests is [LIT-tmptn5dr](LIT-tmptn5dr.md). Its data set,
 supplied by the authors, is re-analysed under Contextuality-by-Default in
-LIT-264, which finds the equality implies noncontextuality. The paper
-cites LIT-316 for proofs; that book is unread here.
+[LIT-264](LIT-264.md), which finds the equality implies noncontextuality. The paper
+cites [LIT-316](LIT-316.md) for proofs; that book is unread here.

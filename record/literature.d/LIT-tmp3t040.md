@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'skimmed 2026-10-09 (NOTE-tmpfofna); the Preface and the core of chapter 3 (pp. 141–157 and 172–193) were read, the rest of the 741 pages not. Worth reading as the source of the deontic scorekeeping model of assertion. Asserting undertakes a commitment, authorizes others to reassert it, and takes on a responsibility to show entitlement if challenged. Every interlocutor keeps a score of everyone''s commitments and entitlements, so the score is doubly perspectival, and an assertion''s significance is the change it makes to each score, fixed by the content''s inferential role. Read it with the caveat that the reading covers the model, not the book''s arguments for it (chapters 1–2, 4–9).'
+status_note: 'skimmed 2026-10-09 ([NOTE-tmpfofna](../notes.d/NOTE-tmpfofna.md)); the Preface and the core of chapter 3 (pp. 141–157 and 172–193) were read, the rest of the 741 pages not. Worth reading as the source of the deontic scorekeeping model of assertion. Asserting undertakes a commitment, authorizes others to reassert it, and takes on a responsibility to show entitlement if challenged. Every interlocutor keeps a score of everyone''s commitments and entitlements, so the score is doubly perspectival, and an assertion''s significance is the change it makes to each score, fixed by the content''s inferential role. Read it with the caveat that the reading covers the model, not the book''s arguments for it (chapters 1–2, 4–9).'
 title: 'Making It Explicit: Reasoning, Representing, and Discursive Commitment'
 version: 1
 history:
@@ -26,6 +26,7 @@ history:
     commit d8b5ba5) for "Brandom" and the title found nothing.
 tags:
 - philosophy-of-language
+- pragmatics
 - logic
 - epistemology
 date: '2026-10-09'
@@ -95,9 +96,9 @@ bibliography of 2026-10-09 (work `what-survives-translation`), which
 considered it and dropped it from the final reference list. See the
 curation entry of that day.
 
-Skimmed on 2026-10-09 (NOTE-tmpfofna). Until now the record held Brandom
+Skimmed on 2026-10-09 ([NOTE-tmpfofna](../notes.d/NOTE-tmpfofna.md)). Until now the record held Brandom
 only at second hand, through Marabini's paper on his inferentialism
-(LIT-106). Krifka's "Performative updates" (LIT-tmpuclkg) cites Brandom's
+([LIT-106](LIT-106.md)). Krifka's "Performative updates" ([LIT-tmpuclkg](LIT-tmpuclkg.md)) cites Brandom's
 1983 paper "Asserting", which the Preface calls "an early ancestor of the
 core of Chapter 3", for the commitment theory of assertion. It does not
 cite this book. `logic` holds the inferentialist account of meaning,

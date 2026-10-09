@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'filed 2026-10-09 from catalogue records, not read: no lawful full text was reachable. The chapter is in Syntax and Semantics 9 (Academic Press, 1978), now digitised by Brill, whose chapter page and PDF refused access (HTTP 403); the reprint in Stalnaker''s Context and Content (Oxford, 1999) is lending-only at the Internet Archive; no author or institutional copy was found. What it says is known here only through the three readings of the same day that state or quote it (Heim, LIT-tmpvhtrs, who quotes it at length; Krifka, LIT-tmpuclkg; Veltman, LIT-tmpi254m), and is labelled as theirs. No NOTE is filed. It stays Deferred until a copy is supplied.'
+status_note: 'filed 2026-10-09 from catalogue records, not read: no lawful full text was reachable. The chapter is in Syntax and Semantics 9 (Academic Press, 1978), now digitised by Brill, whose chapter page and PDF refused access (HTTP 403); the reprint in Stalnaker''s Context and Content (Oxford, 1999) is lending-only at the Internet Archive; no author or institutional copy was found. What it says is known here only through the three readings of the same day that state or quote it (Heim, [LIT-tmpvhtrs](LIT-tmpvhtrs.md), who quotes it at length; Krifka, [LIT-tmpuclkg](LIT-tmpuclkg.md); Veltman, [LIT-tmpi254m](LIT-tmpi254m.md)), and is labelled as theirs. No NOTE is filed. It stays Deferred until a copy is supplied.'
 title: 'Assertion'
 version: 1
 history:
@@ -26,6 +26,7 @@ history:
     Anthology of the SOTA: a grep of its record/ (clone of 2026-10-09,
     commit d8b5ba5) for "Stalnaker", the title and the DOI found nothing.
 tags:
+- pragmatics
 - philosophy-of-language
 - linguistics
 date: '2026-10-09'
@@ -59,7 +60,7 @@ Semantics 9), New York: Academic Press, pp. 315–332
 note). What the essay says is known here only as three works read on
 2026-10-09 state or quote it:
 
-- *Per Krifka* (LIT-tmpuclkg, §2.1): the common ground is modelled by
+- *Per Krifka* ([LIT-tmpuclkg](LIT-tmpuclkg.md), §2.1): the common ground is modelled by
   context sets, "sets c of world-time indices i that represent the ways
   how the world could be like at the current time, according to the
   information that the participants assume to be shared (Stalnaker,
@@ -67,7 +68,7 @@ note). What the essay says is known here only as three works read on
   Krifka adds that Stalnaker (1978, 2002) noticed, informally, that an
   assertion's update depends on the addressee's acceptance and not on
   brute force.
-- *As quoted by Heim* (LIT-tmpvhtrs, ch. III §1.4, citing pp. 321 and
+- *As quoted by Heim* ([LIT-tmpvhtrs](LIT-tmpvhtrs.md), ch. III §1.4, citing pp. 321 and
   323 of the essay; read in Heim, not in Stalnaker): speaker
   presuppositions are "the propositions whose truth he takes for granted
   as part of the background of the conversation", what is taken to be
@@ -81,7 +82,7 @@ note). What the essay says is known here only as three works read on
   is said are eliminated … This effect is avoided only if the assertion
   is rejected." Heim adopts this and argues the context set is too
   coarse to predict how a common ground changes.
-- *Per Veltman* (LIT-tmpi254m, fn. 1): the notion that a sentence's
+- *Per Veltman* ([LIT-tmpi254m](LIT-tmpi254m.md), fn. 1): the notion that a sentence's
   meaning is the change it makes to an information state "can be traced
   back to Robert Stalnaker's work on presupposition and assertion"; he
   cites Stalnaker 1974 ("Pragmatic presuppositions") rather than this
@@ -92,7 +93,7 @@ note). What the essay says is known here only as three works read on
 Filed on 2026-10-09 at the owner's request from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`), which
 considered it and dropped it from the final reference list, as one of
-the dynamic-semantics works (with Heim, LIT-tmpvhtrs, and Veltman) the
+the dynamic-semantics works (with Heim, [LIT-tmpvhtrs](LIT-tmpvhtrs.md), and Veltman) the
 exchange named. See the curation entry of that day.
 
 `Deferred` because no lawful full text was reachable, so it is not read

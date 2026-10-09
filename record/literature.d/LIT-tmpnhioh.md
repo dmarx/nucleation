@@ -22,6 +22,7 @@ history:
     Anthology of the SOTA: a grep of its record/ (clone of 2026-10-09,
     commit d8b5ba5) for "Searle", "Speech Acts" and the DOI found nothing.
 tags:
+- pragmatics
 - philosophy-of-language
 - linguistics
 date: '2026-10-09'
@@ -53,7 +54,7 @@ John R. Searle (1969), Cambridge: Cambridge University Press, 203 pp.
 
 *Filed, not read*: no lawful full text was reachable (see the history
 note). Known here only from the publisher's page and from what the
-reading of Krifka (LIT-tmpuclkg) quotes of it:
+reading of Krifka ([LIT-tmpuclkg](LIT-tmpuclkg.md)) quotes of it:
 
 - *Publisher's description* (Cambridge Core): "Written in an outstandingly
   clear and lively style, this 1969 book provokes its readers to rethink
@@ -66,7 +67,7 @@ reading of Krifka (LIT-tmpuclkg) quotes of it:
   5 Predication. Part Two, Some Applications of the Theory —
   6 Three fallacies in contemporary philosophy; 7 Problems of reference;
   8 Deriving "ought" from "is".
-- *Per Krifka* (LIT-tmpuclkg, fn. 8 and §8): the book assigns speech acts
+- *Per Krifka* ([LIT-tmpuclkg](LIT-tmpuclkg.md), fn. 8 and §8): the book assigns speech acts
   the general structure F(p), an illocutionary force applied to a
   proposition, and calls speech acts the "minimal units of
   conversation" (Krifka's quotation, read in Krifka, not in Searle).
@@ -81,15 +82,15 @@ curation entry of that day.
 `Deferred` because no lawful full text was reachable, so it is not read
 and no NOTE is filed.
 
-**Neighbours.** Austin's *How to Do Things with Words* (LIT-785), which it
+**Neighbours.** Austin's *How to Do Things with Words* ([LIT-785](LIT-785.md)), which it
 systematises, is also filed unread. Searle's later social ontology is in
-the record and read: "Social ontology: Some basic principles" (LIT-482)
-and *The Construction of Social Reality* (LIT-485), which extend the
+the record and read: "Social ontology: Some basic principles" ([LIT-482](LIT-482.md))
+and *The Construction of Social Reality* ([LIT-485](LIT-485.md)), which extend the
 constitutive rules of chapter 2 ("X counts as Y in C") to institutions.
 
 **What a reading should check.** Whether chapter 3's conditions for
 promising (propositional content, preparatory, sincerity, essential)
 are offered as necessary and sufficient, and how the essential condition
-relates to the "counts as" formula of LIT-485; and whether chapter 2's
+relates to the "counts as" formula of [LIT-485](LIT-485.md); and whether chapter 2's
 F(p) analysis allows two acts with the same p to differ in anything but
 F, which bears on claims that the proposition does not fix the act.

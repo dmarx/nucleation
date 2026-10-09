@@ -20,13 +20,15 @@ date: '2026-10-09'
 source:
 - LIT-tmpionqf
 summary: >-
-  Baez (2020), LIT-tmpionqf, read in NOTE-tmpjlwej, Theorems 3, 4, 8 and
+  Baez (2020), [LIT-tmpionqf](../literature.d/LIT-tmpionqf.md), read in [NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md), Theorems 3, 4, 8 and
   10, with Alfsen and Shultz's theorem quoted as Theorem 12. With unique
   solutions to the flow equations, "a generates symmetries of b iff b
   generates symmetries of a" is {a, b} = 0 ⇔ {b, a} = 0. It assumes
   reversible one-parameter groups and an observable–generator map; it says
   nothing about dissipative or stochastic dynamics, nor about the
   Lagrangian form of Noether's theorem.
+supports:
+- CLAIM-tmprn8pl
 ---
 
 <!-- inactive-ok-file: THEORY-158 — Proposed; named as the Markov-process contrast, not leaned on -->
@@ -35,7 +37,7 @@ summary: >-
 
 ## Source
 
-Baez (2020), LIT-tmpionqf, read in NOTE-tmpjlwej: Theorems 3, 4, 8 and 10
+Baez (2020), [LIT-tmpionqf](../literature.d/LIT-tmpionqf.md), read in [NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md): Theorems 3, 4, 8 and 10
 with their proofs, the remark on bilinearity after Theorem 3, and
 Theorem 12 (Alfsen and Shultz, quoted).
 
@@ -70,7 +72,7 @@ were checked in the reading.
   equivalence needs reversible one-parameter groups and an antisymmetric
   bracket between the two quantities. For Markov semigroups, a diagonal
   observable and the generator have no such bracket, and a conserved mean
-  does not give a symmetry (THEORY-158). Reading this THEORY as "Noether's
+  does not give a symmetry ([THEORY-158](THEORY-158.md)). Reading this THEORY as "Noether's
   theorem holds for any dynamics with a generator" is the error it invites.
 - It does not cover the Lagrangian form of Noether's theorem or field
   theories; the link back is cited, not shown.

@@ -87,16 +87,16 @@ is [CLAIM-tmp1ycte](CLAIM-tmp1ycte.md), still open.
 The best quantum-cognition evidence on question order points the same way
 as this claim:
 
-- Wang and Busemeyer (LIT-tmptn5dr) concede that a Bayesian model
+- Wang and Busemeyer ([LIT-tmptn5dr](../literature.d/LIT-tmptn5dr.md)) concede that a Bayesian model
   conditioned on order, and a Markov model with memory, both produce order
   effects. They offer the QQ equality as the test that tells the models
   apart.
-- Wang et al. (LIT-tmp56yt5) concede that a classical model can be built to
+- Wang et al. ([LIT-tmp56yt5](../literature.d/LIT-tmp56yt5.md)) concede that a classical model can be built to
   satisfy the equality.
-- Dzhafarov, Zhang and Kujala (LIT-264, now read) show that data satisfying
+- Dzhafarov, Zhang and Kujala ([LIT-264](../literature.d/LIT-264.md), now read) show that data satisfying
   it are noncontextual.
 
-So the regularity the quantum model predicts (THEORY-tmp9wyar) does not by
+So the regularity the quantum model predicts ([THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md)) does not by
 itself favour quantum over classical probability. This was the
 discriminating test A30 named, and the manuscript dropped it.
 

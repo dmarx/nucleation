@@ -118,14 +118,14 @@ authors). Its side-information treatment follows Hamdi and Gündüz and Niu
 et al. The underlying problem, coding a source seen through noise, is the
 remote or indirect rate–distortion problem of classical information
 theory; the paper does not use that name. Wyner and Ziv's rate–distortion
-function with decoder side information is held here as LIT-767. Zhao et
-al. (LIT-tmp2w545) cite this paper as a semantic RDP framework and replace
+function with decoder side information is held here as [LIT-767](../literature.d/LIT-767.md). Zhao et
+al. ([LIT-tmp2w545](../literature.d/LIT-tmp2w545.md)) cite this paper as a semantic RDP framework and replace
 its perception constraint, on the marginal law of Ŝ, by a constraint on
 posteriors p(S|x) and p(S|y).
 
 ## Bearing on the record
 
-- **CLAIM-tmpp8j04.** The claim's description is accurate in substance:
+- **[CLAIM-tmpp8j04](../claims.d/CLAIM-tmpp8j04.md).** The claim's description is accurate in substance:
   this is "a formal rate–distortion–perception treatment of semantic
   communication with encoder/decoder side information". Two precisions.
   The side information is defined at both ends, but the region and the
@@ -134,7 +134,7 @@ posteriors p(S|x) and p(S|y).
   marginal law of Ŝ; the paper does not consider several tasks or decision
   problems, or the conditional distribution of S given the message. So it
   establishes task-sensitive preservation for one task fixed in advance.
-- **CLAIM-tmpek80j** (fidelity relative to the receiver's decisions,
+- **[CLAIM-tmpek80j](../claims.d/CLAIM-tmpek80j.md)** (fidelity relative to the receiver's decisions,
   made precise by Blackwell's order). The perception constraint here is
   not decision-relative: two reconstructions with the same marginal law
   can carry very different information about S. The distortion
@@ -154,7 +154,7 @@ posteriors p(S|x) and p(S|y).
 - A typo with content: Section III calls both H(X|S) and H(S|X) "the
   semantic redundancy"; from the surrounding text the second is meant as
   the semantic ambiguity induced by indirect observation.
-- One of three sources of THEORY-tmp3ijnj. Not machine-learning
+- One of three sources of [THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md). Not machine-learning
   practice; no anthology flag.
 
 ## Limitations

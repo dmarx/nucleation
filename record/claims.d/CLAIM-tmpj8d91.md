@@ -83,13 +83,13 @@ decoding convention rather than a preserved historical object"
 
 ## Three readings since
 
-- **Two attractors.** Kalish et al. (LIT-tmpj7bvq) find positive and
+- **Two attractors.** Kalish et al. ([LIT-tmpj7bvq](../literature.d/LIT-tmpj7bvq.md)) find positive and
   negative linear functions both act as endpoints.
-- **Group size.** Raviv, Meyer and Lev-Ari (LIT-tmpne4ig, THEORY-tmp8h3pe)
+- **Group size.** Raviv, Meyer and Lev-Ari ([LIT-tmpne4ig](../literature.d/LIT-tmpne4ig.md), [THEORY-tmp8h3pe](../theory.d/THEORY-tmp8h3pe.md))
   find that larger groups converge on more systematic and more similar
   languages, while small groups are more open to drift. This is horizontal
   interaction, not a chain.
-- **Structure in the corpus.** Propp (LIT-tmppp40q, THEORY-tmpdu50e) argues
+- **Structure in the corpus.** Propp ([LIT-tmppp40q](../literature.d/LIT-tmppp40q.md), [THEORY-tmpdu50e](../theory.d/THEORY-tmpdu50e.md)) argues
   that a teller is bound in the order of functions but free in characters,
   attributes and wording. That is a structural thesis about the corpus, not
   a measurement of retellings.

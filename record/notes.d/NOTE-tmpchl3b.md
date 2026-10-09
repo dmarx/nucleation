@@ -125,14 +125,14 @@ The TTT idea is Sun et al. (2020) for vision; the autoregressive version
 for video is the closest predecessor. TTT layers are fast-weight
 programmers in Schmidhuber's sense, and DeltaNet is TTT-Linear with
 b = 1 and no LN or residual. Theorem 1 is the identity that von Oswald et
-al. (LIT-tmp2vilw) use in the other direction, through Schlag et al.
+al. ([LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md)) use in the other direction, through Schlag et al.
 (2021): linear attention computes a gradient-step update. Akyürek et al.
-(LIT-tmp686hl) use "test-time training" for something else: a temporary
+([LIT-tmp686hl](../literature.d/LIT-tmp686hl.md)) use "test-time training" for something else: a temporary
 LoRA update of the language model's own weights on the demonstrations.
 
 ## Bearing on the record
 
-- **THEORY-tmpllqzv.** Theorems 1 and 2 are the second source of that
+- **[THEORY-tmpllqzv](../theory.d/THEORY-tmpllqzv.md).** Theorems 1 and 2 are the second source of that
   account. In a TTT layer the boundary between "the context" and "the
   interpreter's parameters" is drawn by the authors' choice of learner:
   the same sequence is a list the layer stores (attention) or a training

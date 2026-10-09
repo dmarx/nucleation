@@ -43,8 +43,8 @@ observables, so symmetries that permute states are out of scope.
 
 ## Why the Markov theorem is the one that applies
 
-Baez's account of Noether's theorem (LIT-tmpionqf, NOTE-tmpjlwej,
-THEORY-tmp3dh4x) puts the equivalence of symmetry and conservation in an
+Baez's account of Noether's theorem ([LIT-tmpionqf](../literature.d/LIT-tmpionqf.md), [NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md),
+[THEORY-tmp3dh4x](../theory.d/THEORY-tmp3dh4x.md)) puts the equivalence of symmetry and conservation in an
 antisymmetric bracket between observables, with reversible one-parameter
 groups. A Markov kernel has neither. The manuscript's setting is therefore
 the Baez–Fong case, where the mean alone is not enough, and not the

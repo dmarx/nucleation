@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpcfnb5); worth reading as a map of what "semantic information theory" has meant from Carnap and Bar-Hillel to deep-learning semantic communication: logical-probability and knowledge-base definitions of semantic entropy, a semantic rate–distortion function in which meaning is a hidden state S observed through X, semantic channel capacities that can exceed Shannon capacity by tolerating bit errors, and the information bottleneck, age of information, joint source–channel coding and LLMs as tools. It is a catalogue, not a synthesis: it states that no agreed framework exists, compares the definitions only informally, and does not cover rate–distortion–perception work. One formula is misstated (the bottleneck constraint is written with its inequality reversed).'
+status_note: 'read 2026-10-09 ([NOTE-tmpcfnb5](../notes.d/NOTE-tmpcfnb5.md)); worth reading as a map of what "semantic information theory" has meant from Carnap and Bar-Hillel to deep-learning semantic communication: logical-probability and knowledge-base definitions of semantic entropy, a semantic rate–distortion function in which meaning is a hidden state S observed through X, semantic channel capacities that can exceed Shannon capacity by tolerating bit errors, and the information bottleneck, age of information, joint source–channel coding and LLMs as tools. It is a catalogue, not a synthesis: it states that no agreed framework exists, compares the definitions only informally, and does not cover rate–distortion–perception work. One formula is misstated (the bottleneck constraint is written with its inequality reversed).'
 title: 'Semantic Communication: A Survey of Its Theoretical Development'
 version: 1
 history:
@@ -94,16 +94,16 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 `what-survives-translation`) at the owner's request. It is the survey the
 exchange named when it conceded that task-sensitive information
 preservation is established in semantic and goal-oriented communication
-(CLAIM-tmpp8j04); the manuscript did not keep it. It is read here on its
+([CLAIM-tmpp8j04](../claims.d/CLAIM-tmpp8j04.md)); the manuscript did not keep it. It is read here on its
 own merits. See the curation entry of that day.
 
 The reading finds that the survey supports the concession in general
 terms (task-relative and goal-oriented formulations are a recognised line
 of work) but does not cover the rate–distortion–perception results the
-exchange named alongside it, Chai et al. (LIT-tmpfnpwq) and Zhao et al.
-(LIT-tmp2w545). Its section on the information bottleneck cites
-Tishby, Pereira and Bialek's bottleneck, LIT-338, and Zaslavsky, Kemp,
+exchange named alongside it, Chai et al. ([LIT-tmpfnpwq](LIT-tmpfnpwq.md)) and Zhao et al.
+([LIT-tmp2w545](LIT-tmp2w545.md)). Its section on the information bottleneck cites
+Tishby, Pereira and Bialek's bottleneck, [LIT-338](LIT-338.md), and Zaslavsky, Kemp,
 Regier and Tishby's short paper on human-like semantic representations
 (arXiv 1808.03353), not the colour-naming paper held here as
-LIT-tmpe6100, whose finding it reports. The record's account of what the semantic
-rate–distortion frameworks formalise is THEORY-tmp3ijnj.
+[LIT-tmpe6100](LIT-tmpe6100.md), whose finding it reports. The record's account of what the semantic
+rate–distortion frameworks formalise is [THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md).

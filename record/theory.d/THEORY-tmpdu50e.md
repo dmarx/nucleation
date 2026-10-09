@@ -12,13 +12,14 @@ promote_when: >-
 title: 'The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how'
 version: 1
 tags:
+- myth-and-folklore
 - social-science
 - compositionality
 date: '2026-10-09'
 source:
 - LIT-tmppp40q
 summary: >-
-  Propp (1928), LIT-tmppp40q, read in NOTE-tmpa8ntc: in Afanasyev's tales
+  Propp (1928), [LIT-tmppp40q](../literature.d/LIT-tmppp40q.md), read in [NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md): in Afanasyev's tales
   50–151 the constant elements are 31 functions of characters, defined by
   their consequence for the action, occurring in one order and falling to
   seven roles. One analyst, one corpus of a hundred tales, and a class of
@@ -35,7 +36,7 @@ summary: >-
 ## Source
 
 Vladimir Propp (1928), *Морфология сказки* [Morphology of the Folktale],
-LIT-tmppp40q; read in NOTE-tmpa8ntc from the 1928 Russian text, chapters
+[LIT-tmppp40q](../literature.d/LIT-tmppp40q.md); read in [NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md) from the 1928 Russian text, chapters
 II, III, VI and IX.
 
 ## The claim

@@ -49,7 +49,7 @@ without a reading.
 
 ## A qualification from experiment
 
-Bergen, Goodman and Levy (LIT-tmpcsywp), Experiment 1: a novel symbol's
+Bergen, Goodman and Levy ([LIT-tmpcsywp](../literature.d/LIT-tmpcsywp.md)), Experiment 1: a novel symbol's
 interpretation is fixed by its contrast with the alternative the speaker
 could have used. But the contrast works only because one alternative is
 tied to an object by resemblance. Read against this claim, it is contrast

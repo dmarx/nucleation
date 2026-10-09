@@ -19,7 +19,7 @@ date: '2026-10-09'
 source:
 - LIT-tmp0g8wp
 summary: >-
-  Jakobson (1959), LIT-tmp0g8wp, after Boas: every cognitive content can
+  Jakobson (1959), [LIT-tmp0g8wp](../literature.d/LIT-tmp0g8wp.md), after Boas: every cognitive content can
   be expressed in any language, but each grammar obliges its speakers to
   answer certain questions (aspect, number, gender, tense, definiteness).
   Translating between grammars that ask different questions forces the
@@ -28,6 +28,8 @@ summary: >-
   sentence can lose its content, less so the richer the context. Argued
   from examples, not tested; it concerns cognitive content, not pragmatic
   force.
+supports:
+- CLAIM-tmpa4al1
 ---
 
 <!-- inactive-ok-file: LIT-tmp1ysoz — Deferred; filed, not read, named as later work on the same question -->
@@ -38,7 +40,7 @@ summary: >-
 ## Source
 
 Roman Jakobson (1959), "On Linguistic Aspects of Translation",
-LIT-tmp0g8wp, pp. 235–236, as read in NOTE-tmp9xm3o. Jakobson credits the
+[LIT-tmp0g8wp](../literature.d/LIT-tmp0g8wp.md), pp. 235–236, as read in [NOTE-tmp9xm3o](../notes.d/NOTE-tmp9xm3o.md). Jakobson credits the
 core observation to Boas ("Language", 1938) and the chain image to
 Karcevski.
 
@@ -96,6 +98,6 @@ as well as single steps do. The essay checks neither.
   transposition". The thesis is stated for the cognitive function of
   language.
 
-Later accounts of equivalence held in the record, Nida's (LIT-tmp1ysoz) and
-House's (LIT-tmp1e7m4), are unread here and are not evidence for or against
+Later accounts of equivalence held in the record, Nida's ([LIT-tmp1ysoz](../literature.d/LIT-tmp1ysoz.md)) and
+House's ([LIT-tmp1e7m4](../literature.d/LIT-tmp1e7m4.md)), are unread here and are not evidence for or against
 this.

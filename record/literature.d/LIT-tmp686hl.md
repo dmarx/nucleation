@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmppmfwl); worth reading here as a controlled comparison of two uses of the same demonstrations: held as context (in-context learning) or turned into a temporary update of the model''s weights (test-time training, per-task LoRA, discarded after the task). With nothing added but the update, BIG-Bench Hard 10-shot accuracy goes from 50.5% to 57.8% and fine-tuned ARC accuracy roughly sixfold on an 80-task subset (5% to 29%). The update works best when its training data keep the in-context format. The comparison is empirical, at 1B–8B parameters, on two benchmarks with known leakage risk.'
+status_note: 'read 2026-10-09 ([NOTE-tmppmfwl](../notes.d/NOTE-tmppmfwl.md)); worth reading here as a controlled comparison of two uses of the same demonstrations: held as context (in-context learning) or turned into a temporary update of the model''s weights (test-time training, per-task LoRA, discarded after the task). With nothing added but the update, BIG-Bench Hard 10-shot accuracy goes from 50.5% to 57.8% and fine-tuned ARC accuracy roughly sixfold on an 80-task subset (5% to 29%). The update works best when its training data keep the in-context format. The comparison is empirical, at 1B–8B parameters, on two benchmarks with known leakage risk.'
 title: 'The Surprising Effectiveness of Test-Time Training for Few-Shot Learning'
 version: 1
 history:
@@ -49,7 +49,7 @@ summary: >-
 
 Ekin Akyürek, Mehul Damani, Adam Zweiger, Linlu Qiu, Han Guo, Jyothish
 Pari, Yoon Kim and Jacob Andreas (2024), *ICML 2025*, PMLR 267:942–963 —
-ARXIV-2411.07279
+[ARXIV-2411.07279](https://arxiv.org/abs/2411.07279)
 
 ## Key takeaways
 
@@ -79,7 +79,7 @@ ARXIV-2411.07279
 
 ## Standing in the record
 
-Held in both records under ADR-013. The anthology holds it as ANTH-LIT-379,
+Held in both records under [ADR-013](../decisions.d/ADR-013.md). The anthology holds it as [ANTH-LIT-379](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-379.md),
 read for the technique and as evidence about in-context learning's limits,
 with a practice built on it. It is filed here at the owner's request on
 2026-10-09, from the bibliography of the owner's manuscript *What Survives
@@ -88,9 +88,9 @@ dropped it from the final reference list. The second question, the one
 this record asks, is the reading on this record's terms: what the paper
 shows about the difference between conditioning a fixed model on evidence
 and changing the model with the same evidence. That reading is
-NOTE-tmppmfwl.
+[NOTE-tmppmfwl](../notes.d/NOTE-tmppmfwl.md).
 
-**A discrepancy, reported not fixed (ADR-013).** The anthology entry and
+**A discrepancy, reported not fixed ([ADR-013](../decisions.d/ADR-013.md)).** The anthology entry and
 its practice give 61.9% for the ensemble with program synthesis, as the
 paper's abstract and text do; the paper's Table 1 prints 62.8% for the
 configuration the text describes, in both the arXiv v2 and the PMLR

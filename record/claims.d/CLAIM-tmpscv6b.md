@@ -38,7 +38,7 @@ the benchmark as object-centered throughout.
 
 ## Since the journal version
 
-In T2I-CompBench++ (LIT-tmp76md3) the interaction category is judged by
+In T2I-CompBench++ ([LIT-tmp76md3](../literature.d/LIT-tmp76md3.md)) the interaction category is judged by
 GPT-4V, which matches human rankings better than CLIPScore (Kendall τ 0.48
 against 0.25). The "scored by CLIPScore" half of this claim is true of the
 conference version only. Human scores on the category are still 0.95–0.99,

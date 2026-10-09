@@ -125,22 +125,22 @@ change.
 
 ## Connections
 
-It compares against Composable Diffusion (LIT-770), whose
+It compares against Composable Diffusion ([LIT-770](../literature.d/LIT-770.md)), whose
 conjunction operator it reports fuses the two subjects into one object, and
 against StructureDiffusion (Feng et al.), whose results it finds close to
 plain Stable Diffusion. It builds on Prompt-to-Prompt's use of
 cross-attention maps (Hertz et al.) and contrasts its own method, which
 moves the latent, with Prompt-to-Prompt's attention re-weighting, which
 cannot create a subject that has no location yet. Classifier-free guidance
-(LIT-tmpxlxil) is on throughout, at scale 7.5, and the authors describe
+([LIT-tmpxlxil](../literature.d/LIT-tmpxlxil.md)) is on throughout, at scale 7.5, and the authors describe
 their method as strengthening the text conditioning in the same spirit.
 Its benchmark templates (12 animals, 12 objects, 11 colours) are the
 "Attn-Exct" set that T2I-CompBench++ lists among its predecessors
-(LIT-tmp76md3, Table I).
+([LIT-tmp76md3](../literature.d/LIT-tmp76md3.md), Table I).
 
 ## Bearing on the record
 
-- **CLAIM-tmpzkhdr** (each condition can be met while their conjunction
+- **[CLAIM-tmpzkhdr](../claims.d/CLAIM-tmpzkhdr.md)** (each condition can be met while their conjunction
   or binding fails). This paper documents the failure before binding:
   under a single text-conditioned model, a two-subject prompt often yields
   one subject. That bears on the claim as an instance of a conjunction
@@ -155,8 +155,8 @@ Its benchmark templates (12 animals, 12 objects, 11 colours) are the
   encoder. The independent measurement is T2I-CompBench's: re-implemented
   on Stable Diffusion v2, it raises BLIP-VQA colour binding from 0.5065
   to 0.6400 and texture binding from 0.4922 to 0.5963, with little change
-  in shape binding or relations (LIT-tmp76md3, Table XIII; the
-  conference version, LIT-783, reports the same re-implementation).
+  in shape binding or relations ([LIT-tmp76md3](../literature.d/LIT-tmp76md3.md), Table XIII; the
+  conference version, [LIT-783](../literature.d/LIT-783.md), reports the same re-implementation).
 - The paper carries an instruction for machine-learning practice (an
   inference-time method and its settings); that is anthology material, and
   the LIT carries the `anthology-candidate` flag. No THEORY is filed.

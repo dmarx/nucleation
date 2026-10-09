@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpky9z6); worth reading as the paper that puts the information bottleneck to work on word meanings: a lexicon is an encoder q(w|m) from meanings (Gaussians over CIELAB colour) to words, scored by complexity I(M;W) against accuracy I(W;U), and the colour-naming systems of the World Color Survey and English lie close to the IB curve at β only slightly above 1, with 93% beating all 39 hue-rotated variants of themselves. Read it knowing that the need distribution (the LI source) is estimated from the naming data, cross-validated over languages, and that the "evolution" is a reading of the annealing path along the curve, not a model of historical change. Source of THEORY-tmp64mn6.'
+status_note: 'read 2026-10-09 ([NOTE-tmpky9z6](../notes.d/NOTE-tmpky9z6.md)); worth reading as the paper that puts the information bottleneck to work on word meanings: a lexicon is an encoder q(w|m) from meanings (Gaussians over CIELAB colour) to words, scored by complexity I(M;W) against accuracy I(W;U), and the colour-naming systems of the World Color Survey and English lie close to the IB curve at β only slightly above 1, with 93% beating all 39 hue-rotated variants of themselves. Read it knowing that the need distribution (the LI source) is estimated from the naming data, cross-validated over languages, and that the "evolution" is a reading of the annealing path along the curve, not a model of historical change. Source of [THEORY-tmp64mn6](../theory.d/THEORY-tmp64mn6.md).'
 title: 'Efficient compression in color naming and its evolution'
 version: 1
 history:
@@ -62,7 +62,7 @@ DOI-10.1073/pnas.1800521115
   m̂_w = Σ_m q(m|w) m. Complexity is I(M;W), and the expected KL distortion
   between m and m̂ equals I(M;U) − I(W;U), so accuracy is I(W;U). Languages
   are scored against the IB objective I(M;W) − β I(W;U) of Tishby, Pereira
-  and Bialek (LIT-338).
+  and Bialek ([LIT-338](LIT-338.md)).
 - **Near the bound.** Every language's fitted β_l is about 1.03 (LI
   source; 1.06 under a uniform source), on the steep part of the curve.
   Efficiency loss ε_l = 0.18 against 0.70 for the deterministic RKK+
@@ -87,10 +87,10 @@ Filed on 2026-10-09 at the owner's request, from the manuscript
 bibliography of 2026-10-09 (work `what-survives-translation`): one of the
 works the manuscript considered and dropped from its final reference list.
 
-Read on 2026-10-09 (NOTE-tmpky9z6); the reading is the source of
-THEORY-tmp64mn6. It is the record's first worked application of the
-bottleneck in LIT-338 to natural-language semantics, and it shows
-numerically the structural phase transitions that LIT-338's reading found
+Read on 2026-10-09 ([NOTE-tmpky9z6](../notes.d/NOTE-tmpky9z6.md)); the reading is the source of
+[THEORY-tmp64mn6](../theory.d/THEORY-tmp64mn6.md). It is the record's first worked application of the
+bottleneck in [LIT-338](LIT-338.md) to natural-language semantics, and it shows
+numerically the structural phase transitions that [LIT-338](LIT-338.md)'s reading found
 asserted there but not shown. Its "evolution" sits beside the iterated
-learning result of Griffiths and Kalish (LIT-769, THEORY-155): one says
+learning result of Griffiths and Kalish ([LIT-769](LIT-769.md), [THEORY-155](../theory.d/THEORY-155.md)): one says
 where efficient systems lie, the other where transmission takes them.

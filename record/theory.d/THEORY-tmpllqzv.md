@@ -21,8 +21,8 @@ source:
 - LIT-tmp8hsmf
 - LIT-tmp2vilw
 summary: >-
-  Sun et al. (2024), LIT-tmp8hsmf, Theorems 1–2, with von Oswald et al.
-  (2022), LIT-tmp2vilw, Proposition 1. Linear attention equals a layer
+  Sun et al. (2024), [LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md), Theorems 1–2, with von Oswald et al.
+  (2022), [LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md), Proposition 1. Linear attention equals a layer
   whose state is a linear model's weights, updated by batch gradient
   descent on the context from zero; softmax attention equals a
   Nadaraya–Watson learner whose "training" appends the context to a list;
@@ -30,7 +30,7 @@ summary: >-
   gradient step of a linear regression on in-context pairs. These are
   identities of output for specific layers. They do not say that trained
   transformers do gradient descent (the anthology rejects that,
-  ANTH-THEORY-068), nor anything about weight updates that persist across
+  [ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md)), nor anything about weight updates that persist across
   sequences.
 ---
 
@@ -39,10 +39,10 @@ summary: >-
 ## Source
 
 Sun, Li, Dalal et al. (2024), *Learning to (Learn at Test Time): RNNs with
-Expressive Hidden States*, LIT-tmp8hsmf, Theorems 1 and 2, as read in
-NOTE-tmpchl3b. von Oswald, Niklasson, Randazzo et al. (2022), *Transformers
-learn in-context by gradient descent*, LIT-tmp2vilw, Proposition 1, as
-read in NOTE-tmpepej2.
+Expressive Hidden States*, [LIT-tmp8hsmf](../literature.d/LIT-tmp8hsmf.md), Theorems 1 and 2, as read in
+[NOTE-tmpchl3b](../notes.d/NOTE-tmpchl3b.md). von Oswald, Niklasson, Randazzo et al. (2022), *Transformers
+learn in-context by gradient descent*, [LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md), Proposition 1, as
+read in [NOTE-tmpepej2](../notes.d/NOTE-tmpepej2.md).
 
 ## What was actually shown
 
@@ -83,13 +83,13 @@ the readings followed it.
   von Oswald et al.'s own models match a preconditioned variant (GD++),
   and later work separates trained transformers from gradient descent;
   the anthology rejects the identification for that reason
-  (ANTH-THEORY-068) and keeps the weaker frame that a transformer can run
+  ([ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md)) and keeps the weaker frame that a transformer can run
   a learning algorithm on a model held in its activations
-  (ANTH-THEORY-067). This account uses only the exact constructions.
+  ([ANTH-THEORY-067](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-067.md)). This account uses only the exact constructions.
 - **Not about persistent change.** The "learner" here is retrained from
   W₀ for every sequence. Nothing follows about updates to a network's own
   weights, which persist (training) or are discarded by design, as in
-  Akyürek et al.'s test-time training (LIT-tmp686hl); there, updating on
+  Akyürek et al.'s test-time training ([LIT-tmp686hl](../literature.d/LIT-tmp686hl.md)); there, updating on
   the same demonstrations measurably beats conditioning on them, so at the
   level of a whole language model the two uses of a context are not
   interchangeable.

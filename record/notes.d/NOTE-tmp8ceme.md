@@ -114,10 +114,10 @@ Simulation of Claude Lévi-Strauss' Structural Analysis of Myths Based on
 Symmetry and Double Twist Transformations", *Symmetry* 12(10):1706, not
 held. It reads Lévi-Strauss through *Mythologiques* and the canonical
 formula (Lévi-Strauss's 1955 article "The Structural Study of Myth",
-later collected in *Structural Anthropology*, LIT-775, unread),
+later collected in *Structural Anthropology*, [LIT-775](../literature.d/LIT-775.md), unread),
 and through mathematical readings (Petitot, Maranda, Morava). It cites
-Propp's *Morphology* (English 1968; LIT-tmppp40q) among earlier
-formalisations of narrative. Descola's lecture (LIT-tmpmgblk) is not
+Propp's *Morphology* (English 1968; [LIT-tmppp40q](../literature.d/LIT-tmppp40q.md)) among earlier
+formalisations of narrative. Descola's lecture ([LIT-tmpmgblk](../literature.d/LIT-tmpmgblk.md)) is not
 cited.
 
 ## Bearing on the record
@@ -132,7 +132,7 @@ cited.
   it is a framework for encoding analyst-specified transformations; the
   2020 *Symmetry* paper, unread, is where the transformation model
   itself is described.
-- Descola's point (LIT-tmpmgblk) that in myth the analyst cuts the
+- Descola's point ([LIT-tmpmgblk](../literature.d/LIT-tmpmgblk.md)) that in myth the analyst cuts the
   transformation continuum applies here unaltered: the software inherits
   the analyst's cuts.
 - No THEORY is filed. No instruction for machine-learning practice;

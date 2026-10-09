@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp8ceme), in full, from the publisher''s PDF deposited in HAL; worth reading as a statement of a programme rather than a result: the authors propose discrete-event system specification (DEVS) modelling, in their Python environment DEVSimPy, to generate and visualise Lévi-Strauss''s transformations of myth, and to extend the canonical formula to identity politics. What the paper implements is modest: a myth is entered as a list of mythemes (term and function), a new variant is produced from a reference myth (Lévi-Strauss''s M1 Bororo) by transformation operations stored as an attribute of a model, i.e. specified by the user, and the variants are drawn as a graph; the "validation" plots the 20 mythemes of one Corsican folktale, U Lurcu, on Google Earth in narrative order. No hypothesis about how myths transform is tested. The transformation engine is summarised from the authors'' 2020 Symmetry paper, not presented here.'
+status_note: 'read 2026-10-09 ([NOTE-tmp8ceme](../notes.d/NOTE-tmp8ceme.md)), in full, from the publisher''s PDF deposited in HAL; worth reading as a statement of a programme rather than a result: the authors propose discrete-event system specification (DEVS) modelling, in their Python environment DEVSimPy, to generate and visualise Lévi-Strauss''s transformations of myth, and to extend the canonical formula to identity politics. What the paper implements is modest: a myth is entered as a list of mythemes (term and function), a new variant is produced from a reference myth (Lévi-Strauss''s M1 Bororo) by transformation operations stored as an attribute of a model, i.e. specified by the user, and the variants are drawn as a graph; the "validation" plots the 20 mythemes of one Corsican folktale, U Lurcu, on Google Earth in narrative order. No hypothesis about how myths transform is tested. The transformation engine is summarised from the authors'' 2020 Symmetry paper, not presented here.'
 title: 'Computational challenges to test and revitalize Claude Lévi-Strauss transformational methodology'
 version: 1
 history:
@@ -20,6 +20,7 @@ history:
     of 2026-10-09, commit d8b5ba5) for the authors, the DOI and the title
     found nothing.
 tags:
+- myth-and-folklore
 - social-science
 date: '2026-10-09'
 published: '2021-09-08'
@@ -92,8 +93,8 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmp8ceme). No THEORY is filed: the paper reports
+Read on 2026-10-09 ([NOTE-tmp8ceme](../notes.d/NOTE-tmp8ceme.md)). No THEORY is filed: the paper reports
 software, not a finding about myth. Its substantive transformation model is
 in the 2020 *Symmetry* paper, which the record does not hold. It reads
-Lévi-Strauss (LIT-775, unread) and cites Propp's *Morphology*
-(LIT-tmppp40q) among earlier formalisations.
+Lévi-Strauss ([LIT-775](LIT-775.md), unread) and cites Propp's *Morphology*
+([LIT-tmppp40q](LIT-tmppp40q.md)) among earlier formalisations.

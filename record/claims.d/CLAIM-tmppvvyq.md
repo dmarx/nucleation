@@ -48,7 +48,7 @@ here ([LIT-768](../literature.d/LIT-768.md)).
 
 ## Evidence from human chains
 
-Kalish, Griffiths and Lewandowsky (LIT-tmpj7bvq) report human
+Kalish, Griffiths and Lewandowsky ([LIT-tmpj7bvq](../literature.d/LIT-tmpj7bvq.md)) report human
 function-learning chains: 28 of 32 converged on a positive linear function,
 a bias stated before the experiment, mostly whatever the starting function.
 Two of the eight negative-start families ended on the negative linear

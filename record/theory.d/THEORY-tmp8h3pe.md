@@ -20,7 +20,7 @@ date: '2026-10-09'
 source:
 - LIT-tmpne4ig
 summary: >-
-  Raviv, Meyer & Lev-Ari (2019), LIT-tmpne4ig, read in NOTE-tmpj48qx:
+  Raviv, Meyer & Lev-Ari (2019), [LIT-tmpne4ig](../literature.d/LIT-tmpne4ig.md), read in [NOTE-tmpj48qx](../notes.d/NOTE-tmpj48qx.md):
   fully connected groups of eight built more systematic languages than
   groups of four, faster and more uniformly, with total interaction and
   network structure fixed; input variability, larger in bigger groups,
@@ -28,6 +28,8 @@ summary: >-
   mechanism supported by lagged association, not manipulation. It says
   nothing yet about natural communities, where size travels with network
   density and second-language learners.
+supports:
+- CLAIM-tmpj8d91
 ---
 
 <!-- inactive-ok-file: THEORY-155 — Proposed; named for contrast -->
@@ -37,7 +39,7 @@ summary: >-
 ## Source
 
 Limor Raviv, Antje Meyer and Shiri Lev-Ari (2019), *Proc. R. Soc. B*
-286:20191262, LIT-tmpne4ig; read in NOTE-tmpj48qx (main text; the
+286:20191262, [LIT-tmpne4ig](../literature.d/LIT-tmpne4ig.md); read in [NOTE-tmpj48qx](../notes.d/NOTE-tmpj48qx.md) (main text; the
 supplementary models were not read).
 
 ## The claim
@@ -85,7 +87,7 @@ adding nothing once it was included.
 - **It is not about transmission across generations.** No one was
   replaced; this is horizontal interaction. It does not bear directly on
   whether transmission chains converge to the learners' prior
-  (THEORY-155).
+  ([THEORY-155](THEORY-155.md)).
 - **"Systematic" here is a string–meaning distance correlation** over a
   meaning space designed to have two separable dimensions. It does not
   measure syntax, morphology or regularity in a natural language's sense.

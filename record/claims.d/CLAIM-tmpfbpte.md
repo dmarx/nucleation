@@ -53,9 +53,9 @@ there or in the record.
 
 ## What the speech-act readings say
 
-- **Partly supported.** Krifka (LIT-tmpuclkg) treats the speaker's commitment
+- **Partly supported.** Krifka ([LIT-tmpuclkg](../literature.d/LIT-tmpuclkg.md)) treats the speaker's commitment
   and the uptake of the content as separate updates, which succeed or fail
   separately. But his "performative" is commitment or a change in the world,
   not the speaker–audience relation this claim's case turns on.
-- **In tension.** Brandom (LIT-tmp3t040, skimmed) holds that the same content
+- **In tension.** Brandom ([LIT-tmp3t040](../literature.d/LIT-tmp3t040.md), skimmed) holds that the same content
   with the same force gives the same deontic significance.

@@ -83,4 +83,4 @@ considered it and dropped it from the final reference list. See the
 curation entry of that day.
 
 `Deferred` because it was not read. Of the translation-theory works filed
-that day, only Jakobson's essay (LIT-tmp0g8wp) could be read.
+that day, only Jakobson's essay ([LIT-tmp0g8wp](LIT-tmp0g8wp.md)) could be read.

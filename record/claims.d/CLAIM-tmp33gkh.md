@@ -45,5 +45,5 @@ per-pair checks.
 
 ## Since the journal version
 
-T2I-CompBench++ (LIT-tmp76md3) adds numeracy and 3D spatial relations, and
+T2I-CompBench++ ([LIT-tmp76md3](../literature.d/LIT-tmp76md3.md)) adds numeracy and 3D spatial relations, and
 nothing social or pragmatic. The gap this claim names is still open.

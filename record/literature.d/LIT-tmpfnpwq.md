@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp5zbie); worth reading as a short statement of semantic communication as indirect (remote) source coding with a perception constraint: the encoder sees only a noisy observation X of the semantic source S, the decoder must reproduce S within an expected distortion and within a total-variation distance of S''s distribution, and side information Y may help. It gives a rate region, a closed form for a doubly symmetric binary source, and an MNIST illustration. Read it knowing that it is a six-page workshop paper whose proofs are sketched or omitted, that the region as printed mixes channel and source terms and does not define the reconstruction, and that its "zero-rate recovery" is the familiar fact that a decoder with side information needs no bits once the tolerated distortion is what the side information alone achieves.'
+status_note: 'read 2026-10-09 ([NOTE-tmp5zbie](../notes.d/NOTE-tmp5zbie.md)); worth reading as a short statement of semantic communication as indirect (remote) source coding with a perception constraint: the encoder sees only a noisy observation X of the semantic source S, the decoder must reproduce S within an expected distortion and within a total-variation distance of S''s distribution, and side information Y may help. It gives a rate region, a closed form for a doubly symmetric binary source, and an MNIST illustration. Read it knowing that it is a six-page workshop paper whose proofs are sketched or omitted, that the region as printed mixes channel and source terms and does not define the reconstruction, and that its "zero-rate recovery" is the familiar fact that a decoder with side information needs no bits once the tolerated distortion is what the side information alone achieves.'
 title: 'Rate-Distortion-Perception Theory for Semantic Communication'
 version: 1
 history:
@@ -82,7 +82,7 @@ Jingxuan Chai, Yong Xiao, Guangming Shi and Walid Saad (2023), *2023 IEEE
 Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 `what-survives-translation`) at the owner's request. It is the "Chai et
 al." the exchange named when it conceded that task-sensitive information
-preservation is established in semantic communication (CLAIM-tmpp8j04);
+preservation is established in semantic communication ([CLAIM-tmpp8j04](../claims.d/CLAIM-tmpp8j04.md));
 the manuscript did not keep it. It is read here on its own merits. See the
 curation entry of that day.
 
@@ -91,5 +91,5 @@ hidden variable S rather than the observation, with decoder side
 information and a distributional constraint, is formalised here. What is
 preserved is a single latent variable and its marginal law, not a family
 of decisions or a distribution over interpretations. Zhao et al.
-(LIT-tmp2w545) cite it and move the constraint to the posterior p(S|·).
-With the survey (LIT-tmpmigxa) it is a source of THEORY-tmp3ijnj.
+([LIT-tmp2w545](LIT-tmp2w545.md)) cite it and move the constraint to the posterior p(S|·).
+With the survey ([LIT-tmpmigxa](LIT-tmpmigxa.md)) it is a source of [THEORY-tmp3ijnj](../theory.d/THEORY-tmp3ijnj.md).

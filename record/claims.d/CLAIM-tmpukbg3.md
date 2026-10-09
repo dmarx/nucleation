@@ -77,7 +77,7 @@ contextual fraction is such a measure.
 
 ## What the reading of the contextual fraction implies
 
-The contextual fraction is now read (LIT-265, NOTE-236). Three consequences
+The contextual fraction is now read ([LIT-265](../literature.d/LIT-265.md), [NOTE-236](../notes.d/NOTE-236.md)). Three consequences
 for Δ_CF:
 
 - **It is undefined at some steps.** Δ_CF is undefined at any step that makes
@@ -90,5 +90,5 @@ for Δ_CF:
   some other kind.
 - **It does not jump within a scenario.** The premise quoted here, that the
   fraction is discontinuous, does not hold within a fixed scenario: it is
-  Lipschitz in the probability table (THEORY-tmp8ly9g, a derivation from the
+  Lipschitz in the probability table ([THEORY-tmp8ly9g](../theory.d/THEORY-tmp8ly9g.md), a derivation from the
   paper's linear programme). Only a change of scenario can make it jump.

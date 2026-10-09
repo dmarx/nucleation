@@ -35,7 +35,7 @@ summary: >-
 
 ## Contribution
 
-It widens the conference benchmark (LIT-783) in three ways: two new kinds
+It widens the conference benchmark ([LIT-783](../literature.d/LIT-783.md)) in three ways: two new kinds
 of composition (generative numeracy, and relations in depth), judges for
 them (a detector count; detection plus monocular depth), and a test of
 multimodal LLMs as general judges, validated against the same human-rating
@@ -120,11 +120,11 @@ and then score.
 | C4 | DALL·E 3, SD3 and FLUX.1 are markedly better at composition than earlier models | moderate: automatic metrics only, which C1–C2 validate on older models | Table XIII |
 | C5 | MLLM judges are stable across repeated runs | weak: 50 images, one category, five runs | Table XVIII |
 | C6 | Longer, more detailed prompts do not fix binding | weak: one model, one category | Table XVII |
-| C7 | GORS's binding gain is weaker on unseen adjective–noun pairs | weak (as in NOTE-592): no baseline on the split, unseen pairs rarer | Table XV |
+| C7 | GORS's binding gain is weaker on unseen adjective–noun pairs | weak (as in [NOTE-592](NOTE-592.md)): no baseline on the split, unseen pairs rarer | Table XV |
 
 ## Method
 
-GORS is unchanged from the conference version (NOTE-592): generate
+GORS is unchanged from the conference version ([NOTE-592](NOTE-592.md)): generate
 samples from SD v2, keep those whose reward exceeds a threshold, finetune
 with the diffusion loss weighted by the reward, LoRA on the U-Net and the
 CLIP text encoder. Its rewards in GORS-unbiased are Grounded-SAM masks for
@@ -143,22 +143,22 @@ for interactions. The 3-in-1 metric averages CLIPScore, B-VQA and UniDet.
   two-step describe-then-score prompting.
 - The concepts of the conference version (compositionality of a T2I
   model, attribute binding, seen/unseen split, disentangled BLIP-VQA,
-  GORS) are as in NOTE-592.
+  GORS) are as in [NOTE-592](NOTE-592.md).
 
 ## Connections
 
-It `extends` LIT-783 (NOTE-592), whose prompts, splits, binding and 2D
+It `extends` [LIT-783](../literature.d/LIT-783.md) ([NOTE-592](NOTE-592.md)), whose prompts, splits, binding and 2D
 metrics, human protocol and GORS it keeps. Its baselines include
-Composable Diffusion (LIT-770), Structured Diffusion and Attend-and-Excite
-(LIT-tmpbjx8a), all re-implemented on SD v2, with the same ordering as in
+Composable Diffusion ([LIT-770](../literature.d/LIT-770.md)), Structured Diffusion and Attend-and-Excite
+([LIT-tmpbjx8a](../literature.d/LIT-tmpbjx8a.md)), all re-implemented on SD v2, with the same ordering as in
 the conference version: Attend-and-Excite helps colour and texture binding
 most, Composable Diffusion does worst. Table I lists earlier benchmarks
 (CC-500, ABC-6K, Attend-and-Excite's 210 prompts, HRS-comp). GenEval
-(LIT-782) is still not cited.
+([LIT-782](../literature.d/LIT-782.md)) is still not cited.
 
 ## Bearing on the record
 
-- **CLAIM-tmpscv6b** says T2I-CompBench's interaction category is
+- **[CLAIM-tmpscv6b](../claims.d/CLAIM-tmpscv6b.md)** says T2I-CompBench's interaction category is
   "scored by CLIPScore" and sits near human ceiling. For the conference
   version that is right. In this version the recommended judge for
   interactions is GPT-4V, which agrees with humans almost twice as well
@@ -170,13 +170,13 @@ most, Composable Diffusion does worst. Table I lists earlier benchmarks
   nothing in it asks about stance or the relation between participants
   beyond the action. If the manuscript cites the benchmark, which version
   it means changes what can be said of the interaction judge.
-- **CLAIM-tmp33gkh** (existing benchmarks are object-centred and need
+- **[CLAIM-tmp33gkh](../claims.d/CLAIM-tmp33gkh.md)** (existing benchmarks are object-centred and need
   extending to pragmatically consequential relations). The journal
   version's additions are numeracy and depth ordering: more geometry and
   counting, not social or communicative content. As of 2025 the claim's
   description of this benchmark still holds, with interactions as its one
   relational category beyond space.
-- **CLAIM-tmpzkhdr.** Composable Diffusion re-implemented on SD v2 is
+- **[CLAIM-tmpzkhdr](../claims.d/CLAIM-tmpzkhdr.md).** Composable Diffusion re-implemented on SD v2 is
   again the weakest method on most sub-categories (Table XIII) and the
   only one far below ceiling on interactions in human ratings (0.81). This
   is the same evidence as the conference version gave, with two more
@@ -191,7 +191,7 @@ most, Composable Diffusion does worst. Table I lists earlier benchmarks
   400 images. Neither changes a result.
 - **Anthology.** A benchmark, metrics and a finetuning method are
   machine-learning practice; the flag stays. No THEORY is filed. The
-  THEORY candidate left unfiled in NOTE-592 (holistic embedding similarity
+  THEORY candidate left unfiled in [NOTE-592](NOTE-592.md) (holistic embedding similarity
   does not track human judgement of composition) gains support from
   Table XII, and remains anthology material.
 

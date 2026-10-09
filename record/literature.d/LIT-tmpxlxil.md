@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp2x9ot); worth reading here as the paper that makes guidance a combination of two scores from one network: train with the condition dropped at random, then sample with (1 + w)ε(z, c) − wε(z), extrapolating away from the unconditional estimate. Its own analysis is the point for this record: the combination is inspired by Bayes'' rule (an implicit classifier p(c|z) ∝ p(z|c)/p(z)) but, because learned scores need not be gradients of anything, it is in general the score of no density and the gradient of no classifier. The evidence is one proof-of-concept on class-conditional ImageNet: the guidance weight trades FID against Inception score as classifier guidance does, best FID at w = 0.1–0.3, best IS at w ≥ 4.'
+status_note: 'read 2026-10-09 ([NOTE-tmp2x9ot](../notes.d/NOTE-tmp2x9ot.md)); worth reading here as the paper that makes guidance a combination of two scores from one network: train with the condition dropped at random, then sample with (1 + w)ε(z, c) − wε(z), extrapolating away from the unconditional estimate. Its own analysis is the point for this record: the combination is inspired by Bayes'' rule (an implicit classifier p(c|z) ∝ p(z|c)/p(z)) but, because learned scores need not be gradients of anything, it is in general the score of no density and the gradient of no classifier. The evidence is one proof-of-concept on class-conditional ImageNet: the guidance weight trades FID against Inception score as classifier guidance does, best FID at w = 0.1–0.3, best IS at w ≥ 4.'
 title: 'Classifier-Free Diffusion Guidance'
 version: 1
 history:
@@ -76,9 +76,9 @@ Applications) — [ARXIV-2207.12598](https://arxiv.org/abs/2207.12598)
   saturates colours and cuts diversity, which the authors flag as a
   possible harm.
 
-The reading (NOTE-tmp2x9ot) notes that the text says FID is
+The reading ([NOTE-tmp2x9ot](../notes.d/NOTE-tmp2x9ot.md)) notes that the text says FID is
 "monotonically decreasing" with w while its tables show it rising; the
-anthology's entry (ANTH-LIT-693) flags the same sentence.
+anthology's entry ([ANTH-LIT-693](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-693.md)) flags the same sentence.
 
 ## Standing in the record
 
@@ -87,11 +87,11 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. It is read here
 on its own merits. See the curation entry of that day.
 
-It is also held in the Anthology of the SOTA as ANTH-LIT-693, read there
+It is also held in the Anthology of the SOTA as [ANTH-LIT-693](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-693.md), read there
 for the guidance weight as a practice and for what it does to FID and
-Inception score. The second question here, per ADR-013, is the reading on
+Inception score. The second question here, per [ADR-013](../decisions.d/ADR-013.md), is the reading on
 this record's terms: what the combination of scores is as a probabilistic
 object. That is the one-term case of the score addition by which Composable
-Diffusion (LIT-770) composes concepts, and the paper's own
+Diffusion ([LIT-770](LIT-770.md)) composes concepts, and the paper's own
 non-conservativeness argument applies to that sum as well
-(NOTE-tmp2x9ot).
+([NOTE-tmp2x9ot](../notes.d/NOTE-tmp2x9ot.md)).

@@ -135,8 +135,8 @@ Shcherbakova 2008 and Kleijn and van der Vaart 2012). The latent-document
 structure is the topic model's (LDA), with the difference that no explicit
 inference algorithm is run. Contrasted with meta-learning, where a model is
 trained to learn from examples; here the ability is a by-product of
-modelling the data. Min et al. (LIT-tmpgsgpo) cite it as the theoretical
-account their measurements bear on, and von Oswald et al. (LIT-tmp2vilw)
+modelling the data. Min et al. ([LIT-tmpgsgpo](../literature.d/LIT-tmpgsgpo.md)) cite it as the theoretical
+account their measurements bear on, and von Oswald et al. ([LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md))
 offer the rival, mechanistic account.
 
 ## Bearing on the record
@@ -151,7 +151,7 @@ offer the rival, mechanistic account.
   interpreter is fixed; only the evidence changes.
 - Its order-sensitivity and zero-shot-beats-few-shot results arise inside
   the model from distribution mismatch, so they are not evidence against a
-  Bayesian reading. Lu et al. (LIT-tmpthf7j) measure the same order effect
+  Bayesian reading. Lu et al. ([LIT-tmpthf7j](../literature.d/LIT-tmpthf7j.md)) measure the same order effect
   in GPT-2 and GPT-3.
 - No instruction for machine-learning practice is drawn here. The work's
   subject is held by an anthology topic (`anthology-candidate`).
@@ -177,5 +177,5 @@ offer the rival, mechanistic account.
 - Can a trained network be shown to compute the posterior predictive, or
   only to approximate its outputs? The paper is silent on mechanism.
 - How does the latent-concept posterior relate to the mechanism claims of
-  LIT-tmp2vilw, where the same prompt structure is processed as a gradient
+  [LIT-tmp2vilw](../literature.d/LIT-tmp2vilw.md), where the same prompt structure is processed as a gradient
   step on an implicit regression?
