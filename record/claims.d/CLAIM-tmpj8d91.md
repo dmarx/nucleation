@@ -18,12 +18,15 @@ rests_on:
 - CLAIM-tmpghha4
 uses:
 - TERM-tmpranvj
+grounds:
+- THEORY-tmp8h3pe
 summary: >-
   A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps
   the stable conventional endpoint and one stance-drift example, but not
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
 ---
+<!-- inactive-ok-file: THEORY-tmp8h3pe THEORY-tmpdu50e — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpn361s — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpghha4 CLAIM-tmppvvyq — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -77,3 +80,16 @@ adaptation "can introduce new distinctions", so the cover itself drifts. C6 kept
 The crystallized argument (A110 §20) gave the attractor its reading: "a shared
 decoding convention rather than a preserved historical object"
 ([TERM-tmpranvj](../terms.d/TERM-tmpranvj.md)). The manuscript never uses the word.
+
+## Three readings since
+
+- **Two attractors.** Kalish et al. (LIT-tmpj7bvq) find positive and
+  negative linear functions both act as endpoints.
+- **Group size.** Raviv, Meyer and Lev-Ari (LIT-tmpne4ig, THEORY-tmp8h3pe)
+  find that larger groups converge on more systematic and more similar
+  languages, while small groups are more open to drift. This is horizontal
+  interaction, not a chain.
+- **Structure in the corpus.** Propp (LIT-tmppp40q, THEORY-tmpdu50e) argues
+  that a teller is bound in the order of functions but free in characters,
+  attributes and wording. That is a structural thesis about the corpus, not
+  a measurement of retellings.

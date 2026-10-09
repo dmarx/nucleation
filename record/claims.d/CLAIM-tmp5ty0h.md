@@ -38,3 +38,17 @@ warned against. Neither Descola nor Doja et al. is cited, and the record does
 not hold them. It holds *Structural Anthropology* ([LIT-775](../literature.d/LIT-775.md)), unread. Granted,
 because it is a point about priority that the manuscript's own §1 disclaimer of
 novelty ([CLAIM-tmp7cc3w](CLAIM-tmp7cc3w.md)) commits it to.
+
+## What the two works show, read
+
+- **Descola** (LIT-tmpmgblk) supports transformation as the keystone of the
+  method: "a structure is not a system". He also cites Lévi-Strauss saying
+  that in myth the analyst makes the cuts and chooses the path between
+  variants.
+- **Doja, Capocchi and Santucci** (LIT-tmp9axrl) give only a software
+  framework for transformations the analyst supplies, with a mapping of one
+  folktale's mythemes. No hypothesis about myth is tested.
+
+So "has been modelled computationally" should be qualified. The actual
+transformation model is in Santucci, Doja and Capocchi 2020 (*Symmetry*
+12(10):1706), which the record does not hold.

@@ -44,3 +44,9 @@ be far from the ancestor: for sampling learners the stationary distribution is
 the prior, independent of the starting language. It says the three citations
 are not one finding, and that which learner model applies decides whether the
 endpoint reflects the learners or the transmission filter.
+
+## A chain without a filter
+
+Kalish, Griffiths and Lewandowsky (LIT-tmpj7bvq) supply the unfiltered chain
+with a bias stated in advance that Kirby, Cornish and Smith lack. They still
+cannot tell sampling learners from MAP learners.

@@ -45,3 +45,12 @@ chain, even as later retellings become easier to process.
 It does not say messages get less comprehensible along a chain; the manuscript
 is explicit that conventionalization can make them easier. Bartlett is unread
 here ([LIT-768](../literature.d/LIT-768.md)).
+
+## Evidence from human chains
+
+Kalish, Griffiths and Lewandowsky (LIT-tmpj7bvq) report human
+function-learning chains: 28 of 32 converged on a positive linear function,
+a bias stated before the experiment, mostly whatever the starting function.
+Two of the eight negative-start families ended on the negative linear
+function, which is partial counter-evidence. The prior was taken from
+earlier studies rather than measured on these learners.

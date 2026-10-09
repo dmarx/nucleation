@@ -1,0 +1,99 @@
+---
+status: Active
+status_note: 'read 2026-10-09 (NOTE-tmpj48qx), the main text in full from the publisher''s version in the Radboud University repository; the electronic supplementary material was not read. Worth reading as the experiment that isolates community size: 12 groups of four and 12 groups of eight Dutch adults, fully connected, invented a typed language to describe moving shapes over 16 rounds with the same total amount of interaction. Larger groups'' languages became more systematic (string distance tracking meaning distance), faster, and ended more systematic; larger groups also varied far less from one another, while some small groups never built structure. Larger groups faced more input variability, and input variability predicted the next round''s gain in structure better than shared history did. Communicative success and convergence ended equal. It is a group-interaction paradigm, not a transmission chain: no generation turnover. Source of THEORY-tmp8h3pe.'
+title: 'Larger communities create more systematic languages'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Read on 2026-10-09 (NOTE-tmpj48qx) from the publisher's version
+    deposited in the Radboud Repository (hdl.handle.net/2066/205968,
+    under article 25fa of the Dutch copyright act); the Royal Society's
+    PDF and PubMed Central (PMC6661353) answered 403 and a reCAPTCHA
+    page. Main text, figures, endnote and reference list read; the
+    electronic supplementary material (appendices A–D, the full models)
+    on figshare and the data on OSF (osf.io/y7d6m) were not. Details
+    checked against Crossref (Proc. R. Soc. B 286(1907):20191262;
+    published online 17 July 2019, in print 24 July 2019; authors Limor
+    Raviv, Antje Meyer, Shiri Lev-Ari). `published:` is 17 July 2019, the
+    earliest full date. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone of 2026-10-09, commit d8b5ba5) for the authors,
+    the DOI and the title found nothing.
+tags:
+- linguistics
+- compositionality
+- social-science
+- cognition
+date: '2026-10-09'
+published: '2019-07-17'
+doi: '10.1098/rspb.2019.1262'
+first_author: 'Raviv'
+keywords:
+- 'language evolution'
+- 'linguistic diversity'
+- 'grammatical structure'
+- 'social structure'
+- 'community size'
+- 'input variability'
+implementations: []
+summary: >-
+  Raviv, Meyer & Lev-Ari (2019), Proc. R. Soc. B 286:20191262. In a
+  laboratory group-communication game, groups of eight built more
+  systematic (compositional) languages than groups of four, faster and
+  more consistently, with the same total interaction; small groups varied
+  more, as drift would predict. Input variability, greater in larger
+  groups, predicted gains in structure. Group size was isolated from
+  network structure and second-language learners, the confounds of
+  cross-linguistic correlations.
+---
+
+<!-- inactive-ok-file: THEORY-tmp8h3pe — Proposed; filed from this reading -->
+
+# LIT-tmpne4ig: Larger communities create more systematic languages
+
+Limor Raviv, Antje Meyer and Shiri Lev-Ari (2019), *Proceedings of the
+Royal Society B* 286(1907):20191262 — DOI-10.1098/rspb.2019.1262
+
+## Key takeaways
+
+- **The question.** Cross-linguistic surveys find that languages of larger
+  communities have simpler morphology and more regular grammar, but size
+  is confounded with sparse networks, contact and adult second-language
+  learners. The experiment holds those fixed and varies size alone.
+- **The design.** 144 native Dutch speakers in 12 groups of four and 12
+  of eight, every member able to pair with every other. After a naming
+  round, pairs alternated as producer and guesser, describing scenes
+  (four novel shapes moving at varying angles, each with an idiosyncratic
+  fill) with typed nonsense strings from a restricted alphabet, over 15
+  communication rounds and two individual test rounds. Total interaction
+  was equal; members of larger groups had half the shared history with
+  each partner.
+- **Structure.** Linguistic structure (the correlation between string
+  distances and meaning distances in each participant's lexicon) rose
+  over rounds, rose faster in larger groups, and ended higher (β = 0.11,
+  p = 0.006). Larger groups varied less from one another; some small
+  groups never developed systematic grammars.
+- **Everything else.** Communicative success and convergence rose over
+  time and ended equal across sizes; larger groups' languages were less
+  stable over the experiment but equally stable by the end. On every
+  measure, small groups varied more, which the authors read as small
+  communities being "more vulnerable to drift".
+- **The mechanism tested.** Larger groups had more input variability.
+  Input variability at round n predicted the gain in structure at n + 1,
+  and so did less shared history; together, only input variability
+  remained significant (β = 0.011, p = 0.012). More structure predicted
+  better convergence and accuracy across rounds.
+
+## Standing in the record
+
+Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
+`what-survives-translation`) at the owner's request: the manuscript
+considered it and dropped it from the final reference list. It is read here
+on its own merits. See the curation entry of that day.
+
+Read on 2026-10-09 (NOTE-tmpj48qx). The reading is the source of
+THEORY-tmp8h3pe, the record's statement of the group-size effect and its
+limits. It is not an iterated-learning study: nobody is replaced, and
+structure arises among interacting peers, so it stands beside the
+transmission chains of LIT-771 and LIT-tmpj7bvq rather than in their line.
