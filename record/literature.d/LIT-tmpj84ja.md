@@ -1,15 +1,16 @@
 ---
-status: Deferred
-status_note: 'registered 2026-10-09 from arXiv, not read: only the abstract was seen. Filed from the reference list of the owner''s working manuscript. It stays Deferred until somebody reads it, not on merit.'
+status: Active
+status_note: 'read 2026-10-09 (NOTE-tmputmoi); worth reading as the stochastic counterpart of the commutator form of Noether''s theorem: for a Markov process, an observable commutes with the generator iff its mean and second moment are conserved in every state. On a finite state space that holds iff it is constant on each connected component of the transition graph. A conserved mean alone is not enough, unlike quantum mechanics, as an explicit 3-state example shows. Only diagonal observables are treated, not symmetries that permute states.'
 title: 'A Noether theorem for Markov processes'
 version: 1
 history:
 - version: 1
   date: '2026-10-09'
   note: >-
-    Registered, not read. Details checked against arXiv (v1 submitted 9
-    March 2012) and Crossref (J. Math. Phys. 54(1), article 013301,
-    January 2013, online 14 January 2013). `published:` is the arXiv v1
+    Read in full from arXiv v1 (9 March 2012, 9 pages, the only arXiv
+    version) (NOTE-tmputmoi). Details checked against arXiv and Crossref
+    (J. Math. Phys. 54(1), article 013301, January 2013, online 14
+    January 2013). `published:` is the arXiv v1
     date. Not held in the Anthology of the SOTA: a grep of its record/
     (clone of 2026-10-09, commit 1cffe8f) for the authors, the
     identifier and the title found nothing.
@@ -32,8 +33,13 @@ summary: >-
   Baez & Fong (2013), J. Math. Phys. 54:013301. For a Markov process, an
   observable commutes with the Hamiltonian if and only if both its
   expected value and its standard deviation are constant in time for
-  every state; in quantum mechanics the mean alone suffices. Unread.
+  every state; in quantum mechanics the mean alone suffices. On a finite
+  state space such observables are exactly those constant on the
+  connected components of the transition graph.
 ---
+
+<!-- inactive-ok-file: THEORY-tmpnp46m — Proposed; filed from this reading, which is its source -->
+<!-- inactive-ok-file: THEORY-019 — Proposed; named as a parallel on commutants, with no relation claimed -->
 
 # LIT-tmpj84ja: A Noether theorem for Markov processes
 
@@ -42,16 +48,34 @@ John C. Baez and Brendan Fong (2013), *Journal of Mathematical Physics*
 
 ## Key takeaways
 
-*Registered, not read.* From the abstract only: Noether's theorem links the
-symmetries of a quantum system with its conserved quantities, and the paper
-proves a version for Markov processes. In quantum mechanics an observable
-commutes with the Hamiltonian if and only if its expected value is constant in
-time for every state. For Markov processes that no longer holds: an observable
-commutes with the Hamiltonian if and only if both its expected value and its
-standard deviation are constant in time for every state.
+- **Theorem 1** (finite state space, generator H with non-negative
+  off-diagonal entries and zero column sums, diagonal observable O). Four
+  conditions are equivalent: [O, H] = 0; every polynomial in O has a
+  conserved mean; O and O² have conserved means, in every state; O is
+  constant on each connected component of the transition graph (an edge
+  wherever Hᵢⱼ ≠ 0).
+- **The mean is not enough.** A 3-state process in which the middle state
+  leaks equally to its neighbours, with O = (0, 1, 2), conserves the mean of
+  O in every state but does not commute with H. In quantum mechanics the
+  conserved mean alone gives commutation, by polarisation.
+- **General state spaces** (Section 3). On a σ-finite measure space the
+  moment form holds for a single stochastic operator (Theorem 3, through
+  Chebyshev's inequality) and for Markov semigroups, stated with
+  [O, exp(tH)] to avoid unbounded generators (Theorem 2). The
+  connected-component form is not extended.
+- **Scope.** Only multiplication operators. The "symmetry" is O itself as
+  a generator; permutations of states that commute with H are not treated.
 
 ## Standing in the record
 
 Filed on 2026-10-09 at the owner's request, as one of the works in the
 reference list of the owner's working manuscript (October 2026) that the
 record did not yet hold. See the curation entry of that day.
+
+Read in full the same day (NOTE-tmputmoi). Its theorem is filed as
+THEORY-tmpnp46m. The commutant it describes, observables that label
+regions the dynamics never connects, parallels the record's accounts of
+commutants and isotypic blocks (THEORY-019) and of superselection sectors
+(THEORY-042). Both parallels are mine, not the paper's. Fritz's Markov
+categories (LIT-tmphrafc), filed with it, treat the same kernels
+compositionally, and neither paper cites the other.
