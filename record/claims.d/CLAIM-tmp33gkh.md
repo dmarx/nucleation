@@ -42,3 +42,8 @@ Both readings ([NOTE-593](../notes.d/NOTE-593.md) for GenEval, [NOTE-592](../not
 premise behind the proposal: embedding similarity (CLIPScore) tracks human
 judgements of counting, position and binding worse than detector-based or
 per-pair checks.
+
+## Since the journal version
+
+T2I-CompBench++ (LIT-tmp76md3) adds numeracy and 3D spatial relations, and
+nothing social or pragmatic. The gap this claim names is still open.

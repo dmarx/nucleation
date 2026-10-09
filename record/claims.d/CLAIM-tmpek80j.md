@@ -34,6 +34,7 @@ supports:
 - CLAIM-tmpww3q0
 - CLAIM-tmp471wm
 ---
+<!-- inactive-ok-file: THEORY-tmp3ijnj — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpeponh — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-tmpek80j: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
@@ -57,3 +58,9 @@ general case cited. Its restricted family Q has a precedent in the paper
 itself: Blackwell's k-decision orders ≻_k, and for two states ≻_2 already
 decides the full order (Theorem 10). Torgersen and Wyner–Ziv are unread here,
 so those steps rest on works cited without a reading.
+
+## Prior art for decision-relative fidelity
+
+Zhao et al. (LIT-tmp2w545, THEORY-tmp3ijnj): with total variation, the
+posterior distortion bounds the extra Bayes risk of every bounded-loss
+decision. That is a decision-relative fidelity close to this claim's.

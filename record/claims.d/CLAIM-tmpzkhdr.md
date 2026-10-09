@@ -57,3 +57,12 @@ are approximate, compositional failures may reflect estimator error, model
 misspecification, or sampling limitations." It adds controls: prompts paired by
 entities, scene type and length, randomized order and seeds, and evaluation blind
 to condition. The open question behind it is [QUESTION-tmpklyn0](../questions.d/QUESTION-tmpklyn0.md).
+
+## A second caveat on adding scores
+
+Ho and Salimans (LIT-tmpxlxil) show that learned scores are not
+conservative, so a guided field is in general the score of no density. That
+is a caveat on s₁₂ = s₁ + s₂ − s₀ beyond the conditional independence this
+claim states. Attend-and-Excite (LIT-tmpbjx8a) documents conjunctions failing
+by omission ("catastrophic neglect"), and in T2I-CompBench++ (LIT-tmp76md3)
+Composable Diffusion is again the weakest method.
