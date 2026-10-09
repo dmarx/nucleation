@@ -17,7 +17,16 @@ promote_when: >-
   PMI spectrum, cannot settle it, because the model was built to match
   those shapes.
 title: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    At the owner's prompting, a Connections section on the Lattice
+    Representation Hypothesis (LIT-267) and CLAIM-119: this result derives
+    the hypothesis's premise and, by the same independence, makes its
+    lattice Boolean. The open question is QUESTION-tmpynu0z. The claim is
+    unchanged.
 tags:
 - representation-learning
 - compositionality
@@ -36,6 +45,7 @@ summary: >-
 supports:
 - CLAIM-082
 ---
+<!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-tmpynu0z — Proposed or open; cited as what this result bears on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
 # THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
@@ -111,3 +121,21 @@ deleting a family's own pairs could have destroyed it.
   broken (q_k ≠ 1) too.
 - **Not an instruction.** It says what such an embedding contains, not how
   to build one.
+
+## Connections
+
+**The Lattice Representation Hypothesis** ([LIT-267](../literature.d/LIT-267.md), read in [NOTE-240](../notes.d/NOTE-240.md))
+assumes that binary attributes have linear directions in a model's
+representations, thresholds them into an object–attribute incidence, and
+reads its concept lattice as the model's. This result derives that premise
+from co-occurrence: under independent attributes each one is a linear
+direction of the PMI embedding, and thresholding recovers the incidence
+exactly. In this model the hypothesis's first step is a theorem.
+
+The same independence empties its second step. Every combination of
+attributes is possible, so the incidence is the full hypercube and its
+concept lattice is Boolean, with no implications among attributes. The
+structure a concept lattice is for, attributes that imply or exclude each
+other as in [LIT-267](../literature.d/LIT-267.md)'s WordNet hierarchies or [CLAIM-119](../claims.d/CLAIM-119.md)'s categories that
+share attributes and differ in a few constraints, is what this model
+excludes. Whether the linear directions survive it is [QUESTION-tmpynu0z](../questions.d/QUESTION-tmpynu0z.md).

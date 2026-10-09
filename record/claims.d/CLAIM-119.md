@@ -27,6 +27,7 @@ summary: >-
   and Wille unread.
 ---
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-185 LIT-267 QUESTION-tmpynu0z — Proposed or open; cited as a qualification and an open question, not as settled -->
 <!-- inactive-ok-file: LIT-344 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-119: Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints
@@ -71,3 +72,18 @@ is available (Fong and Spivak's Galois connections and closures, [LIT-803](../li
 but the claim that communicative categories *are* a concept lattice is not
 the book's, and it would need psychology's evidence.
 
+## What the embedding literature does and does not supply
+
+One route from text to such a lattice is now partly worked out. [THEORY-185](../theory.d/THEORY-185.md)
+(Korchinski et al., [LIT-863](../literature.d/LIT-863.md)) shows that binary attributes acting
+independently on co-occurrence become linear directions in a word
+embedding, from which an object–attribute incidence, and so a concept
+lattice, can be read off; the Lattice Representation Hypothesis ([LIT-267](../literature.d/LIT-267.md))
+assumes as much of language models. But the independence that makes the
+derivation work makes every combination of attributes possible, and the
+lattice Boolean. This claim needs the opposite: categories that share most
+attributes and are told apart by a few constraints that rule combinations
+in or out. Whether distributional statistics with that structure still give
+linear attribute directions is open ([QUESTION-tmpynu0z](../questions.d/QUESTION-tmpynu0z.md)). Until it is
+answered, the embedding results neither support nor tell against this
+claim.
