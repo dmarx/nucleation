@@ -19,6 +19,7 @@ summary: >-
   intervention that changes those conditions.
 used_by:
 - CLAIM-083
+- CLAIM-tmpansqo
 ---
 
 # TERM-030: frame, as a configuration of the communicative situation

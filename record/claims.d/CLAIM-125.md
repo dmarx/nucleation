@@ -37,6 +37,7 @@ summary: >-
   decision-relevant information and signalling data.
 complements:
 - CLAIM-126
+- CLAIM-tmpansqo
 ---
 <!-- inactive-ok-file: THEORY-174 THEORY-156 THEORY-177 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->

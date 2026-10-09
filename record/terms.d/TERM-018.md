@@ -17,6 +17,8 @@ summary: >-
   utterance is interpreted. Telling a reader who the speaker is and
   asking the reader to take the utterance a certain way are different
   interventions. Splits the A30 operator sense of frame.
+used_by:
+- CLAIM-tmpansqo
 ---
 
 # TERM-018: framing intervention
