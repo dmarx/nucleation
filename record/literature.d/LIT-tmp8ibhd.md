@@ -76,3 +76,10 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered it and dropped it from the final reference list. See the
 curation entry of that day. It is filed, not read, and stays Deferred
 until a lawful copy is supplied.
+
+<!-- inactive-ok-file: LIT-tmpv72z9 — Deferred; named as this work's English edition -->
+The English edition, *Structuralism* (trans. and ed. Chaninah Maschler,
+Basic Books, 1970; Routledge and Kegan Paul, 1971), is filed separately as
+[LIT-tmpv72z9](LIT-tmpv72z9.md) (2026-10-09). Its lawful access was checked again for the
+English edition specifically, with the same result: lending-only at the
+Internet Archive, Limited at HathiTrust, so it too is filed, not read.

@@ -22,8 +22,10 @@ history:
     Folklore, and Linguistics, Publication 10, 1958 (International
     Journal of American Linguistics 24(4), part 3; LCCN 58063502); second
     edition revised and edited by Louis A. Wagner, introduction by Alan
-    Dundes, University of Texas Press, 1968 (LCCN 68065567). Those are in
-    copyright and were not read. `published:` is the 1928 first edition,
+    Dundes, University of Texas Press, 1968 (LCCN 68065567). Neither was
+    read. The 1968 edition is in copyright. The 1958 edition's US status is
+    undetermined: no renewal was found (see LIT-tmpqs4hi), but HathiTrust
+    has not cleared it. `published:` is the 1928 first edition,
     year only. Not held in the Anthology of the SOTA: a grep of its
     record/ (clone of 2026-10-09, commit d8b5ba5) for "Propp", the title
     and "folktale" found nothing.
@@ -121,3 +123,11 @@ is the source of [THEORY-tmpdu50e](../theory.d/THEORY-tmpdu50e.md). Lévi-Straus
 myth ([LIT-775](LIT-775.md), filed, not read) is the later line this book is usually set
 against; Doja, Capocchi and Santucci ([LIT-tmp9axrl](LIT-tmp9axrl.md)) cite the English
 edition as one of the formalisations computational work has attempted.
+
+<!-- inactive-ok-file: LIT-tmpqs4hi — Deferred; named as this work's English translation -->
+The English translation, *Morphology of the Folktale* (trans. Laurence
+Scott, Indiana University, 1958; 2nd ed. revised by Louis A. Wagner,
+University of Texas Press, 1968), is filed as one entry for both editions,
+[LIT-tmpqs4hi](LIT-tmpqs4hi.md) (2026-10-09). No lawful full text of either edition was
+reachable, so it is filed, not read, and the comparison of the translation
+with this reading waits on a copy.
