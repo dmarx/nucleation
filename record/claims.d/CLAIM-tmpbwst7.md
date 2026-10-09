@@ -15,6 +15,7 @@ grounds:
 - THEORY-013
 - CASE-tmp11vtm
 - LIT-312
+- THEORY-tmp9wyar
 objects_to:
 - CLAIM-tmpjwomz
 undercuts:
@@ -30,6 +31,7 @@ summary: >-
 illustrated_by:
 - CASE-tmpiueso
 ---
+<!-- inactive-ok-file: THEORY-tmp9wyar — Proposed; the QQ equality, cited as the quantum-cognition evidence that bears on this claim, not as settled -->
 <!-- inactive-ok-file: ARG-tmp475gh — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-tmp1ycte CLAIM-tmpaviuz THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpjwomz — Rejected; answered or abandoned, and cited as the history this entry answers -->
@@ -79,3 +81,22 @@ incompatible quantum measurements."
 
 That pragmatic judgements are classical. Whether they are formally contextual
 is [CLAIM-tmp1ycte](CLAIM-tmp1ycte.md), still open.
+
+## What the quantum-cognition readings add
+
+The best quantum-cognition evidence on question order points the same way
+as this claim:
+
+- Wang and Busemeyer (LIT-tmptn5dr) concede that a Bayesian model
+  conditioned on order, and a Markov model with memory, both produce order
+  effects. They offer the QQ equality as the test that tells the models
+  apart.
+- Wang et al. (LIT-tmp56yt5) concede that a classical model can be built to
+  satisfy the equality.
+- Dzhafarov, Zhang and Kujala (LIT-264, now read) show that data satisfying
+  it are noncontextual.
+
+So the regularity the quantum model predicts (THEORY-tmp9wyar) does not by
+itself favour quantum over classical probability. This was the
+discriminating test A30 named, and the manuscript dropped it.
+
