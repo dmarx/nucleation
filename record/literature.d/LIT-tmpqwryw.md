@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp7fqen), in full, from the author''s posted scan of the published chapter; worth reading as the unifying model of stance in conversation: evaluation, positioning and alignment are not kinds of stance but three aspects of one act ("I evaluate something, and thereby position myself, and thereby align with you"), structured as two subjects and a shared object joined by directed vectors. Stance belongs to utterances in dialogic context, takes an object even when none is spoken, and a resonant stance follow must mark itself with too or either. Argued from Santa Barbara Corpus excerpts, with no counts.'
+status_note: 'read 2026-10-09 ([NOTE-tmp7fqen](../notes.d/NOTE-tmp7fqen.md)), in full, from the author''s posted scan of the published chapter; worth reading as the unifying model of stance in conversation: evaluation, positioning and alignment are not kinds of stance but three aspects of one act ("I evaluate something, and thereby position myself, and thereby align with you"), structured as two subjects and a shared object joined by directed vectors. Stance belongs to utterances in dialogic context, takes an object even when none is spoken, and a resonant stance follow must mark itself with too or either. Argued from Santa Barbara Corpus excerpts, with no counts.'
 title: 'The stance triangle'
 version: 1
 history:
@@ -51,7 +51,7 @@ Series 164, John Benjamins, pp. 139–182 — DOI-10.1075/pbns.164.07du
 
 ## Key takeaways
 
-Read in full (NOTE-tmp7fqen).
+Read in full ([NOTE-tmp7fqen](../notes.d/NOTE-tmp7fqen.md)).
 
 - **One act, three aspects.** Evaluation (*that's horrible*), positioning
   (*I'm glad*, *I know*) and alignment (*I agree*) are not stance types but
@@ -93,6 +93,6 @@ positioning reflexive at each subject, and treats alignment as a scale
 from convergent to divergent rather than a binary.
 
 The chapter sets aside, in its note 13, the case where the stance subject
-is not the speaker, and cites Goffman's *Forms of Talk* (LIT-tmpsg9d2) for
+is not the speaker, and cites Goffman's *Forms of Talk* ([LIT-tmpsg9d2](LIT-tmpsg9d2.md)) for
 it; the two filings meet there. No THEORY is filed from it; the NOTE gives
 a candidate on the obligatory marking of stance follows.

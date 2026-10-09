@@ -18,7 +18,7 @@ date: '2026-10-09'
 source:
 - LIT-tmpjhnep
 summary: >-
-  Saussure (1916), LIT-tmpjhnep, read in NOTE-tmpk6pi0, Part Two ch. IV.
+  Saussure (1916), [LIT-tmpjhnep](../literature.d/LIT-tmpjhnep.md), read in [NOTE-tmpk6pi0](../notes.d/NOTE-tmpk6pi0.md), Part Two ch. IV.
   Value, the horizontal relation among signs, is distinguished from
   signification, the link inside one sign; the concept side and the sound
   side of a term are each "purely differential". It does not say that the
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Ferdinand de Saussure (1916), *Cours de linguistique générale*, ed. Bally
-and Sechehaye, LIT-tmpjhnep; read in NOTE-tmpk6pi0 from the third-edition
+and Sechehaye, [LIT-tmpjhnep](../literature.d/LIT-tmpjhnep.md); read in [NOTE-tmpk6pi0](../notes.d/NOTE-tmpk6pi0.md) from the third-edition
 text, Part Two, chapter IV ("La valeur linguistique").
 
 ## What was actually shown

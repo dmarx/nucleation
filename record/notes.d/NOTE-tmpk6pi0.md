@@ -242,7 +242,7 @@ The economic analogy (value as exchange against the dissimilar and
 comparison with the similar) is explicit.
 
 Inside this record the nearest readings are the compositional
-distributional models of meaning (LIT-273, LIT-272), in which a word's
+distributional models of meaning ([LIT-273](../literature.d/LIT-273.md), [LIT-272](../literature.d/LIT-272.md)), in which a word's
 meaning is fixed by its co-occurrence with other words. Saussure's
 associative and syntagmatic relations, and value as position in a system,
 are a precursor of that idea, but the line from one to the other runs
@@ -251,11 +251,11 @@ not hold. The connection is mine, not the book's.
 
 ## Bearing on the record
 
-- **THEORY-tmpsqomf (filed from this reading).** The record held no account
+- **[THEORY-tmpsqomf](../theory.d/THEORY-tmpsqomf.md) (filed from this reading).** The record held no account
   of linguistic meaning as differential value. The thesis is filed as a
   Proposed THEORY with the book's own limits stated: it is argued from
   examples, and the book itself makes the sign as a whole positive.
-- **LIT-273 and LIT-272.** See Connections. No THEORY in the record rests
+- **[LIT-273](../literature.d/LIT-273.md) and [LIT-272](../literature.d/LIT-272.md).** See Connections. No THEORY in the record rests
   on distributional semantics, so nothing is supported or contradicted.
 - **The LIT as filed.** The LIT's standard description says the value of a
   term is "purely differential". The book confines this to signified and

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpk6pi0), in French, from the Wikisource transcription of the third-edition text, not the 1916 first edition; worth reading as the source of the structuralist account of the sign: linguistics takes langue, the social system, as its object; the sign joins a concept and an acoustic image by an arbitrary bond, which is why it resists deliberate change and cannot resist blind change; synchrony and diachrony are irreducible; and a term''s value is fixed by its oppositions to coexisting terms rather than by its signification alone (mouton against sheep and mutton). The "only differences without positive terms" holds of signified and signifier separately; the sign as a whole is called positive. The text is the editors'' reconstruction from students'' notes.'
+status_note: 'read 2026-10-09 ([NOTE-tmpk6pi0](../notes.d/NOTE-tmpk6pi0.md)), in French, from the Wikisource transcription of the third-edition text, not the 1916 first edition; worth reading as the source of the structuralist account of the sign: linguistics takes langue, the social system, as its object; the sign joins a concept and an acoustic image by an arbitrary bond, which is why it resists deliberate change and cannot resist blind change; synchrony and diachrony are irreducible; and a term''s value is fixed by its oppositions to coexisting terms rather than by its signification alone (mouton against sheep and mutton). The "only differences without positive terms" holds of signified and signifier separately; the sign as a whole is called positive. The text is the editors'' reconstruction from students'' notes.'
 title: 'Cours de linguistique générale'
 version: 1
 history:
@@ -62,7 +62,7 @@ https://openlibrary.org/works/OL2139804W
 
 ## Key takeaways
 
-Read in the third-edition text (NOTE-tmpk6pi0); the 1916 printing was not
+Read in the third-edition text ([NOTE-tmpk6pi0](../notes.d/NOTE-tmpk6pi0.md)); the 1916 printing was not
 reached.
 
 - **The object.** Langage is heterogeneous; linguistics takes as its object
@@ -91,7 +91,7 @@ reached.
   relative motivation (*dix-neuf* against *vingt*) limits arbitrariness to
   different degrees in different languages.
 
-Filed as THEORY-tmpsqomf: the claim about value, with what it does not
+Filed as [THEORY-tmpsqomf](../theory.d/THEORY-tmpsqomf.md): the claim about value, with what it does not
 say.
 
 ## Standing in the record
@@ -109,6 +109,6 @@ whole "un fait positif"; the wording above follows the book.
 The text is not Saussure's own: the first-edition preface describes it as
 the editors' "recréation" from students' notes of the three Geneva courses.
 The nearest readings in the record are the compositional distributional
-models of meaning (LIT-273, LIT-272), which fix a word's meaning by its
+models of meaning ([LIT-273](LIT-273.md), [LIT-272](LIT-272.md)), which fix a word's meaning by its
 relations to other words; the line from this book to them runs through
 work the record does not hold, and the connection is mine.

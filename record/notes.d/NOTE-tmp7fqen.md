@@ -68,7 +68,7 @@ thereby position myself, and thereby align with you."
   paraphrases of the emergent stance are his.
 - **Stance subject ≈ speaking subject** in nearly all examples; note 13
   sets aside multivocality (Bakhtin; Goffman 1981, the book filed as
-  LIT-tmpsg9d2) for separate treatment.
+  [LIT-tmpsg9d2](../literature.d/LIT-tmpsg9d2.md)) for separate treatment.
 - **A shared stance object** is assumed for the full triangle. Cases
   without one are acknowledged as a challenge; the reply (Section 6, note
   29) is that, following Tomasello, all meaningful language use
@@ -176,7 +176,7 @@ analysis on assessment and agreement (Pomerantz, the Goodwins, Heritage and
 Raymond), linguistic anthropology on indexicality and responsibility
 (Silverstein, Hanks, Hill and Irvine), work on subjectivity in language
 (Benveniste, Langacker, Traugott), and Tomasello's joint attention. It
-names Goffman's *Forms of Talk* (LIT-tmpsg9d2) once, in note 13, for the
+names Goffman's *Forms of Talk* ([LIT-tmpsg9d2](../literature.d/LIT-tmpsg9d2.md)) once, in note 13, for the
 multivocality it sets aside: Goffman's decomposition of the speaker is
 where the chapter's simplification "stance subject ≈ speaking subject"
 would be tested. It closes on Wittgenstein: "There are no private
@@ -184,8 +184,8 @@ stances."
 
 In this record, the shared object that binds two subjects is close in
 structure to the joint attention and shared-intention accounts filed among
-the social-ontology works (Tomasello, LIT-504; Gilbert's "Walking
-Together", LIT-477), both Deferred and unread; the connection is mine.
+the social-ontology works (Tomasello, [LIT-504](../literature.d/LIT-504.md); Gilbert's "Walking
+Together", [LIT-477](../literature.d/LIT-477.md)), both Deferred and unread; the connection is mine.
 
 ## Bearing on the record
 
@@ -197,7 +197,7 @@ Together", LIT-477), both Deferred and unread; the connection is mine.
   relation with *too* or *either*, and the prior stance cannot." Source
   this chapter; promote when Du Bois (2004) or another corpus count is
   read, with its conditions and exceptions.
-- **LIT-tmpsg9d2 (Goffman).** The chapter defers to Goffman on who the
+- **[LIT-tmpsg9d2](../literature.d/LIT-tmpsg9d2.md) (Goffman).** The chapter defers to Goffman on who the
   speaking subject is; the two filings bear on each other through the
   stance subject, and a reading of "Footing" would show whether the
   triangle survives a speaker split into animator, author and principal.
