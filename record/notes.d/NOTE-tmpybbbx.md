@@ -210,18 +210,18 @@ which is exponential in the number of variables.
 It formalizes the CbD programme of Dzhafarov & Kujala (2014a–c), and
 generalizes their Linear Feasibility Test (2012) and de Barros & Oas's
 (2014) negative-probability measure. It sets itself against Abramsky &
-Brandenburger (LIT-016) and Abramsky et al. (2015), which deal only with
+Brandenburger ([LIT-016](../literature.d/LIT-016.md)) and Abramsky et al. (2015), which deal only with
 consistently connected systems and pose contextuality as the compatibility
 of overlapping groups of variables. CbD bunches never overlap. CbD poses
 contextuality as compatibility between the bunches and the maximal
 couplings of the connections (Conclusion (2)). The behavioural
-re-analyses in Dzhafarov, Zhang & Kujala (LIT-264) apply its Theorem 5.1. Kujala
+re-analyses in Dzhafarov, Zhang & Kujala ([LIT-264](../literature.d/LIT-264.md)) apply its Theorem 5.1. Kujala
 (2016, arXiv 1512.02340) is mentioned as an alternative measure that needs a
 modified CbD, and is not discussed.
 
 ## Bearing on the record
 
-- **LIT-016 and THEORY-012
+- **[LIT-016](../literature.d/LIT-016.md) and [THEORY-012](../theory.d/THEORY-012.md)
   (sheaf-theoretic contextuality).** The two accounts agree on
   consistently connected systems, by my inference rather than the paper's.
   When every connection is consistent, a maximal coupling makes its
@@ -229,47 +229,47 @@ modified CbD, and is not discussed.
   collapses each connection to one variable and becomes one distribution
   over all contents whose marginals are the bunches, which is a global
   section. The CbD system has to carry the strong form (Fig. 7), since
-  LIT-016's
-  no-signalling is the strong form. Where marginals differ, LIT-016's framework
+  [LIT-016](../literature.d/LIT-016.md)'s
+  no-signalling is the strong form. Where marginals differ, [LIT-016](../literature.d/LIT-016.md)'s framework
   does not apply (no-signalling is part of its definition of an empirical
   model) and CbD does. That confirms the "does not say" line of
-  THEORY-012 that defers that case to CbD. There is also a sharp contrast
-  with LIT-016 Thm 5.9 (NOTE-016
+  [THEORY-012](../theory.d/THEORY-012.md) that defers that case to CbD. There is also a sharp contrast
+  with [LIT-016](../literature.d/LIT-016.md) Thm 5.9 ([NOTE-016](NOTE-016.md)
   C3), where signed global sections exist *if and only if* the model is
   no-signalling. CbD's Theorem 6.1 gives a signed maximally connected
   quasi-coupling for *every* system, signalling or not. These do not
   conflict. CbD's hidden outcomes carry a separate value for each content
   in each context, so the signed object lives on a larger space, and a
   difference in marginals is absorbed by the connection couplings instead
-  of making the equations infeasible. So THEORY-012's conclusion, that
+  of making the equations infeasible. So [THEORY-012](../theory.d/THEORY-012.md)'s conclusion, that
   negative probability does not mark contextuality, holds in CbD
   too, and more broadly.
-- **THEORY-014.** CbD is a third instance of its pattern: a linear
+- **[THEORY-014](../theory.d/THEORY-014.md).** CbD is a third instance of its pattern: a linear
   representation that always exists over the reals (Theorem 6.1), with
   classicality as the existence of a nonnegative solution (Theorem 4.1). A
-  sentence saying so has been added to THEORY-014's body. As with the other
+  sentence saying so has been added to [THEORY-014](../theory.d/THEORY-014.md)'s body. As with the other
   two, the shared shape is the record's inference. This paper compares
   itself with the sheaf account only on the overlap of bunches.
-- **LIT-265 (contextual fraction).** Both are graded measures computed
+- **[LIT-265](../literature.d/LIT-265.md) (contextual fraction).** Both are graded measures computed
   by linear programming, and they are different quantities. The contextual
   fraction is one minus the largest weight of a noncontextual sub-model,
   and it is defined only for no-signalling models. CbD's ‖S*‖ − 1 is the
   excess total variation of the least-negative signed maximally connected
   quasi-coupling, and it is defined for any system. On consistently
   connected systems it reduces, by the paper's account, to de Barros–Oas's
-  negativity measure. The paper predates LIT-265 (2017) and makes no
+  negativity measure. The paper predates [LIT-265](../literature.d/LIT-265.md) (2017) and makes no
   comparison. The record holds no result saying whether the two order
   systems the same way.
-- **THEORY-013 and LIT-264.** The reading supports
+- **[THEORY-013](../theory.d/THEORY-013.md) and [LIT-264](../literature.d/LIT-264.md).** The reading supports
   the theory's description of the CbD criterion, and it gives the
   question-order argument in compact form (C6). It does not meet
-  THEORY-013's promote_when, which asks for a close reading of the proof of the
+  [THEORY-013](../theory.d/THEORY-013.md)'s promote_when, which asks for a close reading of the proof of the
   cyclic criterion. That proof is in Kujala & Dzhafarov 2016, which the
   record does not hold. Note also footnote 10. The definition used in
-  LIT-264 and here was already being superseded by multimaximal couplings.
-  For the binary cyclic systems THEORY-013 rests on, the authors say the
+  [LIT-264](../literature.d/LIT-264.md) and here was already being superseded by multimaximal couplings.
+  For the binary cyclic systems [THEORY-013](../theory.d/THEORY-013.md) rests on, the authors say the
   results are unchanged.
-- **LIT-263** (Budroni et al.'s review) is reported in THEORY-013 to treat
+- **[LIT-263](../literature.d/LIT-263.md)** (Budroni et al.'s review) is reported in [THEORY-013](../theory.d/THEORY-013.md) to treat
   the same criterion in physics. This paper adds nothing to that.
 - **No new THEORY.** The paper's results are definitions, a feasibility
   equivalence and an existence theorem. The one claim about what is true
@@ -296,7 +296,7 @@ modified CbD, and is not discussed.
 
 ## Open questions
 
-- How does ‖S*‖ − 1 relate to the contextual fraction (LIT-265) on
+- How does ‖S*‖ − 1 relate to the contextual fraction ([LIT-265](../literature.d/LIT-265.md)) on
   consistently connected models? A proved inequality or a pair of
   models ordered differently would settle it.
 - Is the measure monotone under some natural class of free operations on

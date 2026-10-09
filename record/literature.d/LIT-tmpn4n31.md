@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpybbbx); worth reading as the reference statement of Contextuality-by-Default: each measurement gets a separate random variable in each context, and a system is noncontextual when some coupling of its contexts makes every content''s copies coincide as often as their own distributions allow (maximal couplings). This separates context-dependent marginals ("direct influences") from contextuality, turns the test into linear-programming feasibility (Theorem 4.1), and, since a signed such coupling always exists (Theorem 6.1), measures contextuality as the least total variation above 1. The definition was already being replaced by "multimaximal" couplings when it appeared (footnote 10).'
+status_note: 'read 2026-10-09 ([NOTE-tmpybbbx](../notes.d/NOTE-tmpybbbx.md)); worth reading as the reference statement of Contextuality-by-Default: each measurement gets a separate random variable in each context, and a system is noncontextual when some coupling of its contexts makes every content''s copies coincide as often as their own distributions allow (maximal couplings). This separates context-dependent marginals ("direct influences") from contextuality, turns the test into linear-programming feasibility (Theorem 4.1), and, since a signed such coupling always exists (Theorem 6.1), measures contextuality as the least total variation above 1. The definition was already being replaced by "multimaximal" couplings when it appeared (footnote 10).'
 title: 'Context–content systems of random variables: The Contextuality-by-Default theory'
 version: 1
 history:
@@ -87,7 +87,7 @@ Psychology* 74:11–33 — [ARXIV-1511.03516](https://arxiv.org/abs/1511.03516)
   quasi-coupling, minus 1, is the proposed degree of contextuality. It
   generalizes de Barros and Oas. In the paper's rank-2 example it falls
   linearly, as 2(1 − p), to noncontextuality.
-- **Unlike the sheaf account** (LIT-016), bunches never overlap, so the
+- **Unlike the sheaf account** ([LIT-016](LIT-016.md)), bunches never overlap, so the
   question is not whether overlapping marginals glue. It is whether the
   bunches are compatible with maximal couplings of the connections.
 
@@ -99,12 +99,12 @@ record did not yet hold. See the curation entry of that day.
 
 **Against the record's contextuality theories.** For consistently connected
 systems a maximally connected coupling is a global section, so CbD agrees
-with the sheaf-theoretic criterion of LIT-016 and THEORY-012 there (the
-reader's inference, NOTE-tmpybbbx). It extends that criterion to data with
-context-dependent marginals, the case THEORY-012 leaves to CbD. Its Theorem
+with the sheaf-theoretic criterion of [LIT-016](LIT-016.md) and [THEORY-012](../theory.d/THEORY-012.md) there (the
+reader's inference, [NOTE-tmpybbbx](../notes.d/NOTE-tmpybbbx.md)). It extends that criterion to data with
+context-dependent marginals, the case [THEORY-012](../theory.d/THEORY-012.md) leaves to CbD. Its Theorem
 6.1 (a signed maximally connected quasi-coupling always exists) is a third
-instance of the shape in THEORY-014. Its measure is not the contextual
-fraction of LIT-265: both are linear programs, but the contextual fraction
+instance of the shape in [THEORY-014](../theory.d/THEORY-014.md). Its measure is not the contextual
+fraction of [LIT-265](LIT-265.md): both are linear programs, but the contextual fraction
 is defined only without signalling, and the two are not compared. It
-states the cyclic criterion that THEORY-013 and LIT-264 rest on, but does
-not prove it, so THEORY-013's promote_when is not met by this reading.
+states the cyclic criterion that [THEORY-013](../theory.d/THEORY-013.md) and [LIT-264](LIT-264.md) rest on, but does
+not prove it, so [THEORY-013](../theory.d/THEORY-013.md)'s promote_when is not met by this reading.
