@@ -93,6 +93,9 @@ vocabularies:
       social-science:
         label: Social science
         blurb: 'economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy'
+      translation:
+        label: Translation
+        blurb: 'translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033)'
       linguistics:
         label: Linguistics
         blurb: 'the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them'
