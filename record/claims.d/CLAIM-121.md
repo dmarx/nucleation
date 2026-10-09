@@ -21,14 +21,20 @@ answers:
 - QUESTION-022
 uses:
 - TERM-008
+grounds:
+- LIT-846
+- THEORY-174
 summary: >-
   Proposition I of A84, Proposition B1 of C6, the manuscript's
   Proposition 1. It concerns marginal consistency, not global
   noncontextuality.
 supports:
 - CLAIM-100
+- CLAIM-tmpnyfix
 ---
-<!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-174 — Proposed; cited as the reading that generalises this proposition, not as settled -->
+<!-- inactive-ok-file: CLAIM-100 — Superseded; narrowed, and cited as the history of the open problem -->
+<!-- inactive-ok-file: CLAIM-tmpnyfix — Proposed; open, and cited as open: the narrowed problem this proposition supports -->
 
 # CLAIM-121: A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models
 
@@ -71,4 +77,7 @@ This proposition is a special case of Karvonen's "Categories of Empirical
 Models" ([LIT-846](../literature.d/LIT-846.md)). His natural transformation σ is exactly the family of local kernels commuting with restriction, and his
 Lemma 3.12 states the limit that local kernels need not glue. The record's
 reader drew this mapping; Karvonen does not mention translation. The
-manuscript should cite it.
+manuscript should cite it, and this claim now names it in its grounds,
+with the THEORY that states the general result ([THEORY-174](../theory.d/THEORY-174.md)): classical
+simulations between scenarios, cover-changing ones included, never create
+contextuality. The open remainder is [CLAIM-tmpnyfix](CLAIM-tmpnyfix.md).

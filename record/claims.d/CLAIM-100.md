@@ -1,6 +1,6 @@
 ---
 number: 100
-status: Proposed
+status: Superseded
 formerly:
 - CLAIM-tmpsze11
 title: 'Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory''s open mathematical problem'
@@ -26,7 +26,10 @@ summary: >-
   or incompatible maps demand separate analysis", §6) without posing it.
 objected_by:
 - CLAIM-001
+superseded_by:
+- CLAIM-tmpnyfix
 ---
+<!-- inactive-ok-file: CLAIM-tmpnyfix — Proposed; the narrowed claim that replaces this one -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; simulations never create contextuality, cited as partial answer, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -91,3 +94,11 @@ That meets the global-compatibility half of this claim's defeat condition.
 It does not meet the half about decision-relevant information, and it does
 not cover signalling data. The claim should be narrowed to those, and
 these works listed as prior art ahead of Gogioso and Pinzani.
+
+## Superseded
+
+Narrowed on 2026-10-09 by [CLAIM-tmpnyfix](CLAIM-tmpnyfix.md), at the owner's request. The new
+claim holds open only the two parts the simulations literature leaves:
+when a cover-changing transport preserves decision-relevant information,
+and how transport extends to signalling data. It lists the simulations
+works as prior art ahead of Gogioso and Pinzani.
