@@ -1,13 +1,21 @@
 ---
 status: Deferred
-status_note: 'registered 2026-10-09 from catalogue records, not read. Filed from the reference list of the owner''s working manuscript. It stays Deferred until somebody reads it, not on merit.'
+status_note: 'filed 2026-10-09 from catalogue records, not read: no lawful full text was reachable. The Internet Archive holds the 1981 edition only as a controlled-lending item, and the essay "Footing" in its first publication (Semiotica 25, 1979, DOI 10.1515/semi.1979.25.1-2.1) is closed access with no repository copy. No NOTE is filed. It stays Deferred until a copy is supplied.'
 title: 'Forms of Talk'
 version: 1
 history:
 - version: 1
   date: '2026-10-09'
   note: >-
-    Registered, not read. Citation checked against Open Library (edition
+    Filed, not read. Full-text attempts on 2026-10-09: the Internet
+    Archive holds the 1981 University of Pennsylvania Press edition
+    (formsoftalk00goff) as an access-restricted lending item only, and
+    no other copy of the book turned up there. The essay "Footing" first
+    appeared as Goffman, "Footing", Semiotica 25(1–2), 1–30 (1979), DOI
+    10.1515/semi.1979.25.1-2.1 (Crossref); Unpaywall reports it closed,
+    with no open or repository copy, and the De Gruyter Brill article
+    page returned an empty response. That article is a separate
+    publication from this book in any case. Citation checked against Open Library (edition
     OL4118737M: Philadelphia, University of Pennsylvania Press, 1981,
     335 pp., LCCN 80052806). No DOI was found. `published:` is the year
     only. Not held in the Anthology of the SOTA: a grep of its record/
@@ -33,7 +41,8 @@ summary: >-
   Goffman (1981), University of Pennsylvania Press. Five essays on talk,
   including "Footing": a speaker's role decomposes into animator, author
   and principal, and hearers into ratified and unratified participants,
-  so who is speaking is not one thing. Unread.
+  so who is speaking is not one thing. Not read: no lawful full text
+  was reachable.
 ---
 
 # LIT-tmpsg9d2: Forms of Talk
@@ -43,7 +52,8 @@ Erving Goffman (1981), Philadelphia: University of Pennsylvania Press, 335 pp.
 
 ## Key takeaways
 
-*Registered, not read.* Known here by what it is standardly cited for: the
+*Filed, not read*: no lawful full text was reachable (see the history
+note). Known here by what it is standardly cited for: the
 essay "Footing" decomposes the speaker into a production format of animator
 (who utters), author (who composes) and principal (whose position is
 expressed), and the hearer into a participation framework; a change of footing

@@ -1,16 +1,26 @@
 ---
-status: Deferred
-status_note: 'registered 2026-10-09 from catalogue records, not read. Filed from the reference list of the owner''s working manuscript. It stays Deferred until somebody reads it, not on merit.'
+status: Active
+status_note: 'read 2026-10-09 (NOTE-tmpk6pi0), in French, from the Wikisource transcription of the third-edition text, not the 1916 first edition; worth reading as the source of the structuralist account of the sign: linguistics takes langue, the social system, as its object; the sign joins a concept and an acoustic image by an arbitrary bond, which is why it resists deliberate change and cannot resist blind change; synchrony and diachrony are irreducible; and a term''s value is fixed by its oppositions to coexisting terms rather than by its signification alone (mouton against sheep and mutton). The "only differences without positive terms" holds of signified and signifier separately; the sign as a whole is called positive. The text is the editors'' reconstruction from students'' notes.'
 title: 'Cours de linguistique générale'
 version: 1
 history:
 - version: 1
   date: '2026-10-09'
   note: >-
-    Registered, not read. Citation from the manuscript. The URL is the
-    Open Library work record, whose catalogued Payot editions run from
-    1931; the 1916 first edition was not found in a catalogue record
-    reached from here. The book was compiled after Saussure's death by
+    Read on 2026-10-09 (NOTE-tmpk6pi0) from the French Wikisource
+    transcription (https://fr.wikisource.org/wiki/Cours_de_linguistique_générale),
+    proofread against a facsimile of the Payot, Paris printing of 1971,
+    which reproduces the third edition (1931); its prefaces to the second
+    and third editions claim only changes of detail. Introduction, Part
+    One and Part Two read closely; the rest skimmed. A scan of the 1916
+    first edition was looked for and not reached: the two Internet Archive
+    items dated 1916 (CoursDeLinguistiqueGeneraleSaussure and
+    CoursDeLinguistiqueGeneraleSaussure_201903) hold no files; Gallica's
+    search returned a Cloudflare block; HathiTrust's catalogue, API and
+    full-text search returned 403 or a challenge page; e-rara.ch reset the
+    connection; the Google Books API was over quota. The URL stays the Open
+    Library work record, whose catalogued Payot editions run from 1931.
+    Citation from the manuscript. The book was compiled after Saussure's death by
     Bally and Sechehaye from students' notes of his Geneva lectures of
     1906–1911. `published:` is 1916, year only. Not held in the
     Anthology of the SOTA: a grep of its record/ (clone of 2026-10-09,
@@ -39,7 +49,9 @@ summary: >-
   Saussure (1916), Payot, compiled posthumously from students' lecture
   notes. The founding text of structural linguistics: the sign as an
   arbitrary union of signifier and signified, langue against parole,
-  synchrony against diachrony, and value as purely differential. Unread.
+  synchrony against diachrony, and value fixed by oppositions within the
+  system, with signified and signifier each purely differential and the
+  sign as a whole positive. Read in the third-edition text.
 ---
 
 # LIT-tmpjhnep: Cours de linguistique générale
@@ -50,15 +62,53 @@ https://openlibrary.org/works/OL2139804W
 
 ## Key takeaways
 
-*Registered, not read.* Known here by what it is standardly cited for: the
-linguistic sign unites a signifier (sound-image) and a signified (concept),
-arbitrarily; language (langue) as a system is distinguished from speech
-(parole), and synchronic from diachronic study; and the value of a term is
-purely differential, fixed by its relations to the other terms of the system
-rather than by any positive content.
+Read in the third-edition text (NOTE-tmpk6pi0); the 1916 printing was not
+reached.
+
+- **The object.** Langage is heterogeneous; linguistics takes as its object
+  langue, the social system of signs deposited in a community's brains and
+  complete only in the mass, and sets parole, the individual act, aside.
+  Linguistics is to be part of a general science of signs, sémiologie.
+- **The sign and its two principles.** The sign joins a concept
+  (signifié) and an acoustic image (signifiant), both psychic. The bond is
+  arbitrary, meaning unmotivated, not chosen by the speaker; onomatopoeia
+  is marginal. The signifier is linear, a chain in time.
+- **Immutable and mutable for the same reason.** Because the sign is
+  arbitrary there is no rational ground on which a community could debate
+  changing it, so it holds by tradition; and nothing anchors it against
+  the shifts in the bond between signified and signifier that time brings.
+- **Synchrony against diachrony.** Change strikes isolated elements without
+  aiming at the system, and the resulting state is fortuitous; a state is,
+  like a chess position, independent of how it was reached. Synchronic
+  regularities are general but not imperative, diachronic events
+  imperative but not general.
+- **Value.** A term's signification does not fix it; its value comes from
+  its relations to the coexisting terms (French *mouton* against English
+  *sheep* and *mutton*; *redouter*, *craindre*, *avoir peur*). Signified and
+  signifier, taken apart, are purely differential, "sans termes positifs";
+  the sign as a whole is a positive fact, and signs stand in opposition.
+- **Syntagmatic and associative relations** organise every state, and
+  relative motivation (*dix-neuf* against *vingt*) limits arbitrariness to
+  different degrees in different languages.
+
+Filed as THEORY-tmpsqomf: the claim about value, with what it does not
+say.
 
 ## Standing in the record
 
 Filed on 2026-10-09 at the owner's request, as one of the works in the
 reference list of the owner's working manuscript (October 2026) that the
-record did not yet hold. See the curation entry of that day.
+record did not yet hold. See the curation entry of that day. Read the same
+day.
+
+As first filed, this note said the value of a term is "purely
+differential", "rather than by any positive content". The book says that
+only of signified and signifier taken separately, and calls the sign as a
+whole "un fait positif"; the wording above follows the book.
+
+The text is not Saussure's own: the first-edition preface describes it as
+the editors' "recréation" from students' notes of the three Geneva courses.
+The nearest readings in the record are the compositional distributional
+models of meaning (LIT-273, LIT-272), which fix a word's meaning by its
+relations to other words; the line from this book to them runs through
+work the record does not hold, and the connection is mine.
