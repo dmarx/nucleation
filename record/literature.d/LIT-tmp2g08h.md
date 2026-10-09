@@ -1,0 +1,119 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 (NOTE-tmphi66p) from the arXiv preprint (the journal version could not be reached); worth reading as the large-scale test of language-model output for contextuality, and for what its numbers rest on. A PR-prism schema of three sentences ("It is X1 and the same one is X2", "… X2 … same … X3", "… X3 and the other one is X1") is instantiated with 866,108 Simple English Wikipedia noun pairs and their adjectives; BERT gives one referent probability per sentence, and the support is fixed by the schema. Of 51,966,480 models, 77,118 (0.148%) pass the signalling-corrected sheaf test (SF < 1/6) and 36,938,948 (71.1%) the CbD test (Δ < 2). Both verdicts are fixed by three numbers per instance; the CbD one holds whenever BERT is uncertain and roughly consistent across the three sentences. The link to embedding distance is a softmax identity plus weak correlations (R² ≤ 0.08).'
+title: 'Quantum-Like Contextuality in Large Language Models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's direct request on 2026-10-09 and read in full the
+    same day (NOTE-tmphi66p) from the arXiv PDF (2412.16806v1, the only
+    version, 23 pages, text layer extracted). Bibliography checked
+    against the arXiv abstract page (v1 submitted 21 December 2024,
+    cs.CL, no journal reference) and Crossref (Proceedings of the Royal
+    Society A 481(2319), article 20240399, DOI 10.1098/rspa.2024.0399,
+    published online 6 August 2025, CC BY 4.0; authors Kin Ian Lo,
+    Mehrnoosh Sadrzadeh, Shane Mansfield). The publisher PDF and full
+    text returned a Cloudflare challenge (HTTP 403) and Europe PMC holds
+    no copy, so the journal version was not read and may differ.
+    `published:` is the arXiv v1 date by ADR-002. Only the 2025 paper is
+    registered: it restates the framework and method, and summarises its
+    predecessors' figures (§8), so the earlier Lo, Sadrzadeh and
+    Mansfield papers named in LIT-842 are not needed to read it. Not held
+    in the Anthology of the SOTA: a grep of its record/ (clone pulled
+    2026-10-09, commit d8b5ba5) for the arXiv id, the DOI, the title,
+    Sadrzadeh and "Kin Ian" found nothing. Flagged anthology-candidate:
+    its §7 relates BERT's predictions to its embedding geometry, which
+    the anthology's concept-geometry topic could hold.
+tags:
+- contextuality
+- linguistics
+- pragmatics
+- quantum-foundations
+- probabilistic-modeling
+- representation-learning
+- anthology-candidate
+date: '2026-10-09'
+published: '2024-12-21'
+arxiv: '2412.16806'
+first_author: 'Lo'
+keywords:
+- 'quantum contextuality'
+- 'sheaves'
+- 'large language models'
+- 'BERT'
+- 'Contextuality-by-Default'
+- 'signalling fraction'
+- 'anaphora'
+- 'coreference resolution'
+implementations:
+- 'https://github.com/kinianlo/Contextuality-in-LLM'
+summary: >-
+  Lo, Sadrzadeh & Mansfield (2024), ARXIV-2412.16806, Proc. R. Soc. A
+  481:20240399 (2025). Instantiates a three-sentence anaphora schema with
+  the support of a PR prism 51,966,480 times from Simple English Wikipedia
+  and takes referent probabilities from BERT: 0.148% of the models are
+  sheaf-contextual by a signalling-corrected test and 71.1% are
+  CbD-contextual. The support is fixed by the schema, so each verdict
+  turns on how uncertain BERT is in three sentences.
+extends:
+- LIT-842
+- LIT-016
+- LIT-265
+- LIT-831
+---
+
+<!-- inactive-ok-file: THEORY-013 — Proposed; cited for the data claim this reading bears on, not as settled -->
+
+# LIT-tmp2g08h: Quantum-Like Contextuality in Large Language Models
+
+Kin Ian Lo, Mehrnoosh Sadrzadeh and Shane Mansfield (2024), *Proceedings
+of the Royal Society A* 481(2319): 20240399 (2025), DOI
+10.1098/rspa.2024.0399 — ARXIV-2412.16806
+
+## Key takeaways
+
+- **The schema fixes the support.** "There is an O1 and an O2. (i) It is
+  X1 and the same one is X2. (ii) It is X2 and the same one is X3.
+  (iii) It is X3 and the other one is X1." The pronouns are the
+  measurements X1–X3 (adjectives), the nouns the outcomes. "Same" puts
+  all mass on the diagonal and "other" on the off-diagonal, so every
+  instance has the support of the PR prism, which is strongly contextual
+  (§5). BERT supplies one number per sentence, P_i(O1), from a masked
+  prediction normalised over the two nouns; the joint distributions are
+  stipulated, not measured.
+- **The two tests reduce to three numbers.** With ε_i = 2P_i(O1) − 1, the
+  contextual fraction of any such model is 1 and the signalling fraction
+  is max|ε_i| (Propositions 3.3–3.4), so the corrected sheaf criterion
+  CF > 2|M|·SF of Vallée et al. becomes SF < 1/6: every P_i within
+  (5/12, 7/12). The CbD criterion becomes Δ < 2, with
+  Δ = |ε1 − ε2| + |ε2 − ε3| + |ε3 + ε1| (§4).
+- **The counts.** From 219,633 adjective–noun phrases, 866,108 noun
+  pairs sharing five frequent adjectives give 51,966,480 instances; 77,118
+  (0.148%) are sheaf-contextual and 36,938,948 (71.1%) CbD-contextual
+  (§6b). Most instances sit at (SF, Δ) = (1, 2), where BERT is certain.
+  Restricted to the top 1% most similar noun pairs, the rates rise to
+  0.50% and 81.83% (§6c).
+- **The geometric "equation".** ε = tanh((p·Δx + Δb)/2) (Proposition 7.1)
+  is the two-way softmax; reading it as proportional to the embedding
+  distance ‖Δx‖ needs isotropic prediction vectors. Euclidean distance is
+  the best of four features, at Pearson 0.08 (full data) and about 0.2
+  (similar pairs), and cubic R² ≤ 0.009 and 0.08 (Tables 3–6).
+- **Inconsistencies in the text.** §6c gives the full-data sheaf rate as
+  0.0148% against 0.148% in §6b and Fig. 5; it cites "Table 2" for the
+  random sample printed as Table 1; Tables 3 and 5 are headed by the two
+  frameworks while the text says they correlate with SF and Δ, so the
+  sign of the correlations cannot be read with certainty.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's direct request, as the BERT study
+that LIT-842 names among the later work of the Sadrzadeh programme. It is
+not from the manuscript bibliography: the owner asked for it directly on
+2026-10-09. It is the largest claimed case of contextuality in
+language-related data the record holds, and it is read against THEORY-013
+and the claims of line `pragmatic-transport` in NOTE-tmphi66p. Its
+measuring instrument is a language model, not people or a corpus count,
+and the flag records that its embedding analysis could be held by the
+anthology.

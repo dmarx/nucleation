@@ -65,3 +65,11 @@ that reading of "appropriate restriction"; Appendix A's own proof restates the
 hypothesis and adds nothing. Appendix A also adds the right limit: "The assertion
 becomes false if one assumes only local kernels with no globally compatible
 realization." 
+
+## Prior art
+
+This proposition is a special case of Karvonen's "Categories of Empirical
+Models" ([LIT-tmpes6yu](../literature.d/LIT-tmpes6yu.md)). His natural transformation σ is exactly the component on the whole measurement set, a single global kernel, and his
+Lemma 3.12 states the limit that local kernels need not glue. The record's
+reader drew this mapping; Karvonen does not mention translation. The
+manuscript should cite it.
