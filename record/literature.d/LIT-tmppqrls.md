@@ -1,0 +1,153 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpb36i6](../notes.d/NOTE-tmpb36i6.md)); worth reading as the paper in which the learning dynamics of deep linear networks were solved exactly from decoupled starts at any depth (Fukumizu had solved one hidden layer for another class of starts) and the stepwise, mode-by-mode picture was set out that later work calls Saxe-style. Gradient descent on a linear network with one hidden layer and whitened inputs is a cubic system whose modes cooperate within a singular mode of the input–output correlations and repel across modes; from decoupled initial weights each mode''s strength follows a sigmoid reaching s at a time of about (τ/s)ln(s/ε), with a conserved difference of squared layer strengths and, in the appendix, the unbalanced case. Beyond what the 2019 restatement keeps, it solves arbitrary depth from decoupled starts: depth slows learning through the initial end-to-end mode strength, so from strength of order one the number of iterations stays finite as depth grows once the step size is scaled down with depth, while from strength ε the delay grows like s/ε. It argues that scaled Gaussian layers preserve norms but not isometry, that random orthogonal layers give depth-independent learning times on MNIST, and that tanh networks with orthogonal weights near gain 1 keep the end-to-end Jacobian''s singular values of order one. Random initial weights, the role of isometry in learning time and everything nonlinear rest on simulation, not proof.'
+title: 'Exact solutions to the nonlinear dynamics of learning in deep linear neural networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09, because LIT-855 and LIT-859
+    take their stepwise, mode-by-mode learning from it and LIT-862 restates
+    its solution, and neither record held it. Read the same day
+    (NOTE-tmpb36i6) from the arXiv PDF of v3 (19 February 2014, 22 pp.,
+    text extracted with pdftotext). Bibliography checked against the arXiv
+    abstract page (arXiv:1312.6120, cs.NE; v1 submitted 20 December 2013,
+    v2 24 January 2014, v3 19 February 2014; authors Andrew M. Saxe, James
+    L. McClelland, Surya Ganguli; comment "Submission to ICLR2014. Revised
+    based on reviewer feedback"; DataCite DOI 10.48550/arXiv.1312.6120
+    only), the ICLR 2014 list of accepted conference papers on iclr.cc
+    (it is listed, with the same title and authors) and OpenReview (the
+    ICLR 2014 conference submission, and the DBLP record
+    DBLP:journals/corr/SaxeMG13, booktitle ICLR, 2014, pointing at v3).
+    Crossref has no record of it. `published:` is the arXiv v1 date, 20
+    December 2013, the earliest any source gives (ADR-002). The versions
+    differ in substance: v1's abstract has no orthogonal initialisation,
+    dynamical isometry or edge of chaos; v2's abstract has them. Only v3
+    was read. Not held in nucleation before this filing: a grep of
+    record/ for the arXiv id and the title found only the mentions in
+    LIT-862, NOTE-666 and THEORY-186. Not held in the Anthology of the
+    SOTA as far as its clone shows: a grep of its record/ (clone at
+    commit d8b5ba5, 9 October 2026, possibly stale) for the arXiv id, the
+    title and "deep linear" found nothing for this paper; it holds Saxe
+    et al. 2018 on the information bottleneck (ANTH-LIT-509, nucleation's
+    LIT-372), a different paper. The anthology's `training-optimization`
+    and `model-stability` (initialisation) topics could hold it, hence
+    `anthology-candidate`.
+tags:
+- learning-theory
+- representation-learning
+- anthology-candidate
+date: '2026-10-09'
+published: '2013-12-20'
+arxiv: '1312.6120'
+first_author: 'Saxe'
+keywords:
+- 'deep linear networks'
+- 'learning dynamics'
+- 'gradient descent'
+- 'exact solutions'
+- 'singular value decomposition'
+- 'plateaus'
+- 'conserved quantities'
+- 'unsupervised pretraining'
+- 'random orthogonal initialization'
+- 'dynamical isometry'
+- 'edge of chaos'
+implementations: []
+summary: >-
+  Saxe, McClelland and Ganguli (2014), [ARXIV-1312.6120](https://arxiv.org/abs/1312.6120), ICLR 2014. Solves
+  gradient-descent learning in deep linear networks with whitened inputs
+  from decoupled initial weights: each singular mode of the input–output
+  correlation is learned by a sigmoid at a time of order (τ/s)ln(s/ε), with
+  conserved differences of squared layer strengths. For any depth, the delay
+  depth adds is set by the initial end-to-end mode strength, finite as depth
+  grows when that strength is of order one and the step size is scaled with
+  depth. Argues, with simulations, that scaled Gaussian layers are not
+  isometric in product while orthogonal ones are, and that tanh networks
+  with orthogonal weights near gain 1 stay close to isometric.
+---
+<!-- inactive-ok-file: THEORY-186 — Proposed; the account of the stepwise result that this paper first derived -->
+<!-- inactive-ok-file: THEORY-tmp8wj5h — Proposed; the account this reading produced -->
+
+# LIT-tmppqrls: Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+
+Andrew M. Saxe, James L. McClelland and Surya Ganguli (2014), International
+Conference on Learning Representations (ICLR 2014) — [ARXIV-1312.6120](https://arxiv.org/abs/1312.6120)
+(v1 20 December 2013; read as v3, 19 February 2014)
+
+## Key takeaways
+
+- **The general equations.** For y = W³²W²¹x with squared error and a small
+  learning rate, τ dW²¹/dt = W³²ᵀ(Σ³¹ − W³²W²¹Σ¹¹) and τ dW³²/dt = (Σ³¹ −
+  W³²W²¹Σ¹¹)W²¹ᵀ, cubic in the weights. With Σ¹¹ = I, and rotated into the
+  SVD of Σ³¹, each input–output mode α has a weight vector aα into the
+  hidden layer and bα out of it. They follow gradient descent on
+  E = (1/2τ)Σ(sα − aα·bα)² + (1/2τ)Σ_{α≠β}(aα·bβ)²: the two vectors of one
+  mode cooperate, and vectors of different modes repel, pushing the
+  network towards a decoupled state. All fixed points except the best
+  rank-N₂ approximation are saddles (quoted from Baldi and Hornik).
+- **The three-layer solution.** From decoupled initial conditions, where
+  W³² = U D_a Rᵀ and W²¹ = R D_b Vᵀ, the modes evolve independently. Each
+  is a pair (a, b) with τȧ = b(s − ab), τḃ = a(s − ab). The scaling
+  symmetry conserves a² − b², so trajectories run along hyperbolas. With
+  a = b, u = ab obeys τu̇ = 2u(s − u), so u(t) = s e^{2st/τ}/(e^{2st/τ} −
+  1 + s/u₀), and the learning time is (τ/s)ln(s/ε). Appendix A solves the
+  unbalanced case in hyperbolic coordinates and gets the same O(τ/s)
+  timescale when a² − b² is small. Random small weights and a tanh network
+  are compared by simulation only (Fig. 3).
+- **Any depth.** With N_l layers, each decoupled mode has N_l − 1 scalars
+  descending E = (1/2τ)(s − Πaᵢ)². The differences aᵢ² − aⱼ² are
+  conserved, and from equal starts u = Πaᵢ obeys τu̇ = (N_l −
+  1)u^{2−2/(N_l−1)}(s − u). In the infinite-depth limit, τu̇ = N_l u²(s −
+  u). The continuous-time learning time then falls to zero as depth grows,
+  but that is an artefact of a fixed step size. The stable step size falls
+  as O(1/(N_l s²)), and with it the excess over a three-layer network
+  tends to about cs/ε, a finite delay that grows as the initial mode
+  strength ε shrinks. Deep linear networks on MNIST, decoupled starts at
+  u₀ = 0.001 and step sizes tuned per depth, show learning times that
+  saturate up to 100 layers (Fig. 4).
+- **Pretraining, as a condition.** Autoencoder pretraining of a linear
+  network learns the principal components Q of the input. It leaves a
+  decoupled start for the supervised task only if Q equals the task's
+  input singular vectors V, that is, if Vᵀ Σ¹¹ V is diagonal. MNIST is
+  shown to come close (Fig. 5), and a pretrained five-layer linear network
+  learns faster than one from small random weights.
+- **Norm preservation is not isometry.** Gaussian layers scaled by 1/√N
+  preserve a typical vector's norm on average. The singular values of a
+  product of such layers nevertheless grow strongly kurtotic with depth,
+  with most near zero and a long tail, which the paper shows numerically.
+  A product of orthogonal layers is orthogonal. On MNIST, learning time
+  grows with depth from scaled Gaussian layers but not from random
+  orthogonal layers or pretraining (Fig. 6A). The paper names the
+  condition **dynamical isometry**: as many singular values of the
+  end-to-end Jacobian as possible near one. Its tie to learning time is
+  argued, not derived.
+- **Edge of chaos.** For x^{l+1} = gWφ(x^l) with W random orthogonal and φ
+  saturating, a mean-field recursion for the layer variance, assuming
+  Gaussian activity, has a transition at g_c = 1 for tanh. Numerically
+  (N = 1000, 100 layers), the end-to-end Jacobian keeps an O(1) fraction
+  of its singular values of order one at g = 1, even with inputs deep in
+  the nonlinear regime (Fig. 7).
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request. [LIT-855](LIT-855.md) (Karkada et al.,
+word2vec dynamics) and [LIT-859](LIT-859.md) (Mainali and Teixeira, in-context learning
+dynamics) take their stepwise, mode-by-mode learning from it. [LIT-862](LIT-862.md)
+(Saxe, McClelland and Ganguli 2019) restates its solution without citing
+it. Neither record held it. It was read on its own merits
+([NOTE-tmpb36i6](../notes.d/NOTE-tmpb36i6.md)).
+
+It is the first appearance of the result that [THEORY-186](../theory.d/THEORY-186.md) states from
+[LIT-862](LIT-862.md). It does not supply what that account's `promote_when` asks for,
+a proof for random initial weights: it treats them by simulation, as the
+2019 paper does. What it adds beyond [LIT-862](LIT-862.md) is the general coupled
+equations, the unbalanced solution, arbitrary depth, and the account of
+initialisation. The reading produces [THEORY-tmp8wj5h](../theory.d/THEORY-tmp8wj5h.md), on how depth and the
+initial end-to-end mode strength set the learning time.
+
+It carries `anthology-candidate`. Half of it is about initialising and
+pretraining deep networks, which the anthology's `training-optimization`
+and `model-stability` topics hold. It stays here beside [LIT-862](LIT-862.md) and
+[THEORY-186](../theory.d/THEORY-186.md) as a solvable model of training dynamics.
