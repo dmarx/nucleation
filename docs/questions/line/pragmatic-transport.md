@@ -6,7 +6,7 @@
 
 **Contextual pragmatic information transport** — what survives when an utterance is translated, retold or rendered in another medium — communicative identity as relationally organized observables, and fidelity as directed, task-relative transport between observational systems.
 
-19 of 24 QUESTION documents. Back to the [full index](../README.md).
+20 of 25 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -29,3 +29,4 @@
 | [QUESTION-022](../../../record/questions.d/QUESTION-022.md) | Which stochastic transports carry compatible empirical models to compatible ones, and which preserve global extendability? | The first of the crystallized argument's five central mathematical questions (A110 §IX). Propositions 1 and 2 give sufficient conditions; necessary conditions, and cover-changing transports, are open. | Open |
 | [QUESTION-023](../../../record/questions.d/QUESTION-023.md) | Can the opacity of insider vocabulary be a preservation target in its own right? | Raised twice by the assistant in the Henley workshop (A6, A9) and never answered. The manuscript treats opacity only as a loss to an audience lacking knowledge (§5), not as something a rendering might owe its reader. | Open |
 | [QUESTION-024](../../../record/questions.d/QUESTION-024.md) | Can a pragmatic frame be induced from examples of communicative behaviour, and does the induced frame transfer across different wordings? | Opened at A44 §3C from Min et al.: a prompt can establish a convention without stating accurate propositions, which "resembles what we've been calling a delivery frame". Kept as "convention induction" in outlines v3 and v4; absent from the manuscript. | Open |
+| [QUESTION-025](../../../record/questions.d/QUESTION-025.md) | Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean? | [THEORY-185](../../../record/theory.d/THEORY-185.md) derives linear directions for binary attributes from co-occurrence, but only for independent attributes, which make every combination possible and the concept lattice Boolean. The Lattice Representation Hypothesis ([LIT-267](../../../record/literature.d/LIT-267.md)) and [CLAIM-119](../../../record/claims.d/CLAIM-119.md) need the opposite: attributes that imply or exclude each other. Whether the linear directions survive that structure is not answered by anything the record holds. | Open |

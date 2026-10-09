@@ -6,7 +6,7 @@
 
 **Answered** — the record holds an Active claim that answers it.
 
-0 of 24 QUESTION documents. Back to the [full index](../README.md).
+0 of 25 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

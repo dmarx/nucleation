@@ -25,7 +25,7 @@ history:
     At the owner's prompting, a Connections section on the Lattice
     Representation Hypothesis (LIT-267) and CLAIM-119: this result derives
     the hypothesis's premise and, by the same independence, makes its
-    lattice Boolean. The open question is QUESTION-tmpynu0z. The claim is
+    lattice Boolean. The open question is QUESTION-025. The claim is
     unchanged.
 tags:
 - representation-learning
@@ -45,7 +45,7 @@ summary: >-
 supports:
 - CLAIM-082
 ---
-<!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-tmpynu0z — Proposed or open; cited as what this result bears on -->
+<!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-025 — Proposed or open; cited as what this result bears on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
 # THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
@@ -138,4 +138,4 @@ concept lattice is Boolean, with no implications among attributes. The
 structure a concept lattice is for, attributes that imply or exclude each
 other as in [LIT-267](../literature.d/LIT-267.md)'s WordNet hierarchies or [CLAIM-119](../claims.d/CLAIM-119.md)'s categories that
 share attributes and differ in a few constraints, is what this model
-excludes. Whether the linear directions survive it is [QUESTION-tmpynu0z](../questions.d/QUESTION-tmpynu0z.md).
+excludes. Whether the linear directions survive it is [QUESTION-025](../questions.d/QUESTION-025.md).

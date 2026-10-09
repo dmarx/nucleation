@@ -6,7 +6,7 @@
 
 **Reframed** — replaced by a better-framed question, named in `superseded_by`.
 
-1 of 24 QUESTION documents. Back to the [full index](../README.md).
+1 of 25 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

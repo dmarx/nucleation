@@ -6,7 +6,7 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-4 of 24 QUESTION documents. Back to the [full index](../README.md).
+5 of 25 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [QUESTION-008](../../../record/questions.d/QUESTION-008.md) | Is pragmatic fidelity a form of approximate bisimulation between communicative systems, and which parts of their update structure must it preserve? | Opened at A35 §10, made a formal layer of the outline at A38 §VI, and demoted deliberately at A39–A40 to an "optional refinement" whose usefulness "must be justified". Absent from the manuscript. Set aside, not answered. | Deferred |
 | [QUESTION-017](../../../record/questions.d/QUESTION-017.md) | What bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality? | A50 derived drift bounds assuming a metric, and in the same reply dropped symmetry and the triangle inequality for distortion. The tension was never resolved; the manuscript states its recursion "in the chosen metric". | Open |
 | [QUESTION-022](../../../record/questions.d/QUESTION-022.md) | Which stochastic transports carry compatible empirical models to compatible ones, and which preserve global extendability? | The first of the crystallized argument's five central mathematical questions (A110 §IX). Propositions 1 and 2 give sufficient conditions; necessary conditions, and cover-changing transports, are open. | Open |
+| [QUESTION-025](../../../record/questions.d/QUESTION-025.md) | Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean? | [THEORY-185](../../../record/theory.d/THEORY-185.md) derives linear directions for binary attributes from co-occurrence, but only for independent attributes, which make every combination possible and the concept lattice Boolean. The Lattice Representation Hypothesis ([LIT-267](../../../record/literature.d/LIT-267.md)) and [CLAIM-119](../../../record/claims.d/CLAIM-119.md) need the opposite: attributes that imply or exclude each other. Whether the linear directions survive that structure is not answered by anything the record holds. | Open |

@@ -6,7 +6,7 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-0 of 24 QUESTION documents. Back to the [full index](../README.md).
+0 of 25 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

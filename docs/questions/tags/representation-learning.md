@@ -6,8 +6,9 @@
 
 **Representation learning** — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge.
 
-1 of 24 QUESTION documents. Back to the [full index](../README.md).
+2 of 25 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-024](../../../record/questions.d/QUESTION-024.md) | Can a pragmatic frame be induced from examples of communicative behaviour, and does the induced frame transfer across different wordings? | Opened at A44 §3C from Min et al.: a prompt can establish a convention without stating accurate propositions, which "resembles what we've been calling a delivery frame". Kept as "convention induction" in outlines v3 and v4; absent from the manuscript. | Open |
+| [QUESTION-025](../../../record/questions.d/QUESTION-025.md) | Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean? | [THEORY-185](../../../record/theory.d/THEORY-185.md) derives linear directions for binary attributes from co-occurrence, but only for independent attributes, which make every combination possible and the concept lattice Boolean. The Lattice Representation Hypothesis ([LIT-267](../../../record/literature.d/LIT-267.md)) and [CLAIM-119](../../../record/claims.d/CLAIM-119.md) need the opposite: attributes that imply or exclude each other. Whether the linear directions survive that structure is not answered by anything the record holds. | Open |

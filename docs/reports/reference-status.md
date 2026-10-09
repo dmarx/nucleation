@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 3561 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 3579 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -527,7 +527,7 @@ Kochen-Specker contextuality
 
 The Lattice Representation Hypothesis of Large Language Models
 
-9 citations in 8 files await a look; 2 other citations of it are acknowledged.
+9 citations in 8 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-245.md:168`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)

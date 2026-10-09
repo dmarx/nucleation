@@ -27,7 +27,7 @@ summary: >-
   and Wille unread.
 ---
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-185 LIT-267 QUESTION-tmpynu0z — Proposed or open; cited as a qualification and an open question, not as settled -->
+<!-- inactive-ok-file: THEORY-185 LIT-267 QUESTION-025 — Proposed or open; cited as a qualification and an open question, not as settled -->
 <!-- inactive-ok-file: LIT-344 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-119: Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints
@@ -84,6 +84,6 @@ derivation work makes every combination of attributes possible, and the
 lattice Boolean. This claim needs the opposite: categories that share most
 attributes and are told apart by a few constraints that rule combinations
 in or out. Whether distributional statistics with that structure still give
-linear attribute directions is open ([QUESTION-tmpynu0z](../questions.d/QUESTION-tmpynu0z.md)). Until it is
+linear attribute directions is open ([QUESTION-025](../questions.d/QUESTION-025.md)). Until it is
 answered, the embedding results neither support nor tell against this
 claim.

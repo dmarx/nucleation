@@ -1,5 +1,8 @@
 ---
+number: 25
 status: Open
+formerly:
+- QUESTION-tmpynu0z
 title: 'Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-185 THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
 
-# QUESTION-tmpynu0z: Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?
+# QUESTION-025: Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?
 
 ## Why it is a question
 
