@@ -42,3 +42,12 @@ preservation, and (iv) structural reorganization."
 That no symmetry applies: equivariance is "often more apt than literal
 invariance" (§4). Nor does it supply a criterion for telling (ii) from (iv);
 [CLAIM-tmp0talu](CLAIM-tmp0talu.md) was one.
+
+## A case from structuralist myth analysis
+
+Santucci, Doja and Capocchi ([LIT-tmpc5iin](../literature.d/LIT-tmpc5iin.md)) say their myth variants form a
+group, but the operations they implement do not. Replacing one term with
+another that is already in the myth merges the two, and nothing can
+separate them again. The operations form a monoid, as this claim expects
+of transformations in general. This is the reader's observation, not the
+paper's.

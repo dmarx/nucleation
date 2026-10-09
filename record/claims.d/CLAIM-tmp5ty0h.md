@@ -50,5 +50,27 @@ novelty ([CLAIM-tmp7cc3w](CLAIM-tmp7cc3w.md)) commits it to.
   folktale's mythemes. No hypothesis about myth is tested.
 
 So "has been modelled computationally" should be qualified. The actual
-transformation model is in Santucci, Doja and Capocchi 2020 (*Symmetry*
-12(10):1706), which the record does not hold.
+transformation model was said to be in Santucci, Doja and Capocchi 2020
+(*Symmetry* 12(10):1706), now registered and read (see below).
+
+## The 2020 model, read
+
+Santucci, Doja and Capocchi 2020 ([LIT-tmpc5iin](../literature.d/LIT-tmpc5iin.md), [NOTE-tmplssm7](../notes.d/NOTE-tmplssm7.md)) contain no
+richer model than the 2021 paper summarised. The software has three kinds
+of operation:
+
+- **Substituting one term for another, chosen by the user, in every
+  mytheme.** Homology, inversion, opposition and symmetry are all this one
+  operation.
+- **Adding a mytheme.**
+- **Removing a mytheme.**
+
+The canonical formula is illustrated but never computed, and the authors
+concede that the relation values "are not obtained from the software
+system". The validation generates 70 myths from the *Mythologiques* and 28
+Corsican tales by choosing transformations that produce them, with no
+measure, so it cannot fail.
+
+So "modelled computationally" should read: the software encodes and runs an
+analyst's transformations; it does not find or test them.
+
