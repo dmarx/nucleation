@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [9 Oct 20:36 — Thirteen works on hierarchy and hyperbolic geometry](2026-10.md#thirteen-works-on-hierarchy-and-hyperbolic-geometry)
 - [9 Oct 18:18 — Five papers on the theory of trained networks](2026-10.md#five-papers-on-the-theory-of-trained-networks)
 - [9 Oct 03:33 — The manuscript bibliography registered: 46 dropped works and the conceded prior art](2026-10.md#the-manuscript-bibliography-registered-46-dropped-works-and-the-conceded-prior-art)
 - [9 Oct 00:41 — The manuscript's reference list: twenty-two works the record lacked](2026-10.md#the-manuscripts-reference-list-twenty-two-works-the-record-lacked)
@@ -41,9 +42,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-79 entries across 2 books, newest first.
+80 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 32 | 2026-10-01 | 2026-10-09 |
+| [2026-10](2026-10.md) | 33 | 2026-10-01 | 2026-10-09 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

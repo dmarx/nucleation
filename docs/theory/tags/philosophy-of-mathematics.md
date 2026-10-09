@@ -6,7 +6,7 @@
 
 **Philosophy of mathematics** — what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy).
 
-2 of 187 THEORY documents. Back to the [full index](../README.md).
+2 of 196 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

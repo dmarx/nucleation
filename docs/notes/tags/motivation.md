@@ -4,7 +4,7 @@
 
 **motivation**.
 
-12 of 667 NOTE documents. Back to the [full index](../README.md).
+12 of 680 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

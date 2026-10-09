@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 3579 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 3693 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -117,7 +117,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-28 citations in 24 files await a look; 25 other citations of it are acknowledged.
+28 citations in 24 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -527,7 +527,7 @@ Kochen-Specker contextuality
 
 The Lattice Representation Hypothesis of Large Language Models
 
-9 citations in 8 files await a look; 10 other citations of it are acknowledged.
+9 citations in 8 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-245.md:168`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
@@ -607,7 +607,7 @@ Landauer's principle prices only logically irreversible steps, and prices them i
 
 Pregeometry, Formal Language and Constructivist Foundations of Physics
 
-8 citations in 4 files await a look; 4 other citations of it are acknowledged.
+8 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-378.md:92`](../../record/literature.d/LIT-378.md)
 - [`record/notes.d/NOTE-249.md:172`](../../record/notes.d/NOTE-249.md)
@@ -808,7 +808,7 @@ The Role of the Information Bottleneck in Representation Learning
 
 Identifying Quantum Structure in AI Language: Evidence for Evolutionary Convergence of Human and Artificial Cognition
 
-6 citations in 5 files await a look; 1 other citation of it is acknowledged.
+6 citations in 5 files await a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-340.md:72`](../../record/literature.d/LIT-340.md)
 - [`record/notes.d/NOTE-245.md:165`](../../record/notes.d/NOTE-245.md)
@@ -1491,7 +1491,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Rigorous renormalization group
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/notes.d/NOTE-103.md:108`](../../record/notes.d/NOTE-103.md)
 
