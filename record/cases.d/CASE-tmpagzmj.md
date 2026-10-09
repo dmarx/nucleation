@@ -15,6 +15,7 @@ summary: >-
   source of the manuscript's refrain family (§1, §10).
 variants:
 - CASE-tmpcc78z
+- CASE-tmpr705l
 ---
 
 # CASE-tmpagzmj: Henley's rendering of Villon, "Booze and the blowens cop the lot"

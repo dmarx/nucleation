@@ -15,6 +15,8 @@ summary: >-
   manuscript's stochastic framing operations (§9).
 used_by:
 - CLAIM-tmpevciu
+superseded_by:
+- TERM-tmpkoyrc
 ---
 <!-- inactive-ok-file: CLAIM-tmpevciu — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-tmpdb2i3 — Superseded; replaced, and cited as the history this entry answers or replaces -->

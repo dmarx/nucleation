@@ -17,6 +17,8 @@ summary: >-
 used_by:
 - CLAIM-tmp1ycte
 - CLAIM-tmpqgtmh
+superseded_by:
+- TERM-tmpu9tab
 ---
 <!-- inactive-ok-file: TERM-tmpdb2i3 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

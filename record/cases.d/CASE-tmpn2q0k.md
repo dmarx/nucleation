@@ -13,6 +13,8 @@ summary: >-
   attributed speaker × order of judgement questions, with hierarchical,
   sequential state-update and quantum models compared. Becomes the
   manuscript's Case I (§10).
+variants:
+- CASE-tmptjypf
 ---
 <!-- inactive-ok-file: CLAIM-tmp0wmy3 CLAIM-tmp1ycte CLAIM-tmpevciu CLAIM-tmpqgtmh — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

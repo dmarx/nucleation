@@ -23,6 +23,10 @@ summary: >-
   A30's commuting diagram for pragmatic fidelity, developed in the
   manuscript §9 as intertwining defects and the commutator-distortion
   identity.
+objected_by:
+- CLAIM-tmp2rve9
+supports:
+- ARG-tmpjbue6
 ---
 <!-- inactive-ok-file: CLAIM-tmpevciu — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

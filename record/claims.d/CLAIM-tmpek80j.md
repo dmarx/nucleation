@@ -21,6 +21,8 @@ grounds:
 - LIT-778
 - LIT-764
 - LIT-767
+supersedes:
+- CLAIM-tmpeponh
 summary: >-
   The manuscript's §5: rate–distortion makes coding cost explicit,
   Blackwell comparison (restricted to a family Q of communicative
@@ -29,6 +31,7 @@ summary: >-
 supports:
 - CLAIM-tmpww3q0
 ---
+<!-- inactive-ok-file: CLAIM-tmpeponh — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-tmpek80j: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
 

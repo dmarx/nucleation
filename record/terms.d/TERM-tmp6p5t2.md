@@ -14,6 +14,7 @@ summary: >-
   intertwining defects (§9).
 used_by:
 - CLAIM-tmpx6akp
+- CLAIM-tmpfi0jr
 ---
 
 # TERM-tmp6p5t2: fidelity, as preserving the dynamics of interpretation

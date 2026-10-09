@@ -52,3 +52,14 @@ refrain, "You should stop wasting your money and start saving", is not from
 this stretch. A18 classed "The party always gets its cut" as roughly a passive
 transformation and "The high life eats your paycheck" as an active one
 ([CLAIM-tmp0talu](../claims.d/CLAIM-tmp0talu.md)).
+
+The speaker labels drifted. A38 §2.2 called the four "affectionate teasing,
+cynical complicity, resigned observation, and social criticism"; A39 §1.2 made
+them "A fellow participant teasing an acquaintance", "A worldly insider
+articulating an informal rule", "A sympathetic observer recognizing a recurrent
+failure" and "A critic of consumption and lifestyle inflation", so that "The
+party always gets its cut" went from cynical complicity to an informal rule
+without comment. A39 §1.2 also set the case its own caveat: "Separate
+differences attributable to wording from those introduced by an analyst's
+imagined delivery situation." The speakers are the analyst's attribution, not a
+property of the wording.
