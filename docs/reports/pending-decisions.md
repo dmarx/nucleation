@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**506 document(s) awaiting a decision.**
+**507 document(s) awaiting a decision.**
 
 ## LITs
 
-271 of the 506.
+271 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -34,7 +34,7 @@
 | 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
 | 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 24 | 2 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Proposed | [LIT-200](../../record/literature.d/LIT-200.md) | 18 | 0 | Wave-functionalism |
-| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 17 | 9 | On the Stepwise Nature of Self-Supervised Learning |
+| 2026-09-26 | Deferred | [LIT-242](../../record/literature.d/LIT-242.md) | 18 | 9 | On the Stepwise Nature of Self-Supervised Learning |
 | 2026-09-26 | Deferred | [LIT-258](../../record/literature.d/LIT-258.md) | 15 | 0 | Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions |
 | 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 14 | 12 | Gelfand–Naimark–Segal construction (Wikipedia) |
 | 2026-09-26 | Deferred | [LIT-226](../../record/literature.d/LIT-226.md) | 13 | 12 | The Conditional Entropy Bottleneck |
@@ -123,7 +123,7 @@
 | 2026-09-29 | Deferred | [LIT-336](../../record/literature.d/LIT-336.md) | 0 | 0 | Universals and Scientific Realism (Vol. I: Nominalism and Realism; Vol. II: A Theory of Universals) |
 | 2026-09-29 | Deferred | [LIT-350](../../record/literature.d/LIT-350.md) | 0 | 0 | Categories and De Interpretatione (Clarendon Aristotle Series, trans. and notes J. L. Ackrill) |
 | 2026-09-29 | Deferred | [LIT-361](../../record/literature.d/LIT-361.md) | 0 | 0 | Superselection Rules for Philosophers |
-| 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 16 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
+| 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 17 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
 | 2026-09-30 | Proposed | [LIT-369](../../record/literature.d/LIT-369.md) | 15 | 12 | Grokking and Generalization Collapse: Insights from HTSR theory |
 | 2026-09-30 | Deferred | [LIT-365](../../record/literature.d/LIT-365.md) | 1 | 1 | On the Problem of the Most Efficient Tests of Statistical Hypotheses |
 | 2026-09-30 | Deferred | [LIT-366](../../record/literature.d/LIT-366.md) | 1 | 1 | Signal Detection Theory and Psychophysics |
@@ -287,7 +287,7 @@
 
 ## THEORYs
 
-161 of the 506.
+162 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -312,7 +312,7 @@
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 37 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
 | 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 24 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 23 | 9 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
-| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 16 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
+| 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 18 | 2 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 13 | 2 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
 | 2026-09-30 | Proposed | [THEORY-037](../../record/theory.d/THEORY-037.md) | 13 | 13 | In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 2 | 1 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
@@ -420,13 +420,14 @@
 | 2026-10-05 | Proposed | [THEORY-152](../../record/theory.d/THEORY-152.md) | 3 | 0 | When a firm, public service or other organization deteriorates, its members' exit and voice are both recuperation mechanisms: voice carries richer information than exit and can be felt as a benefit rather than a cost, exit can be costly even without loyalty and can signal nothing, loyalty makes members voice rather than exit, and an organization needs floor levels of both for feedback but disintegrates or is disrupted beyond ceiling levels, while its managers may favour whichever response least threatens their hold on power |
 | 2026-10-05 | Proposed | [THEORY-153](../../record/theory.d/THEORY-153.md) | 3 | 0 | A system can keep its identity independently within a shared environment only if it has five interacting subsystems, the first made of elements that are themselves viable systems, so that the structure recurs at every level of recursion; when one is missing or fails, the system degrades in characteristic ways, and without the subsystem for foresight the subsystems for operational control and for identity collapse into each other, leaving a system that can only react |
 | 2026-10-05 | Proposed | [THEORY-137](../../record/theory.d/THEORY-137.md) | 2 | 0 | Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds |
+| 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 22 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
 | 2026-10-09 | Proposed | [THEORY-155](../../record/theory.d/THEORY-155.md) | 21 | 1 | Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior |
 | 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 19 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
-| 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 19 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
 | 2026-10-09 | Proposed | [THEORY-171](../../record/theory.d/THEORY-171.md) | 13 | 2 | When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 13 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 12 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 12 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
+| 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 12 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 | 2026-10-09 | Proposed | [THEORY-169](../../record/theory.d/THEORY-169.md) | 10 | 0 | In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 9 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 8 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
@@ -440,6 +441,7 @@
 | 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 4 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 4 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
 | 2026-10-09 | Proposed | [THEORY-175](../../record/theory.d/THEORY-175.md) | 4 | 0 | Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ |
+| 2026-10-09 | Proposed | [THEORY-187](../../record/theory.d/THEORY-187.md) | 4 | 0 | In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth |
 | 2026-10-09 | Proposed | [THEORY-160](../../record/theory.d/THEORY-160.md) | 3 | 0 | In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem's content lies in identifying observables with generators |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 3 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
 | 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 3 | 1 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
@@ -451,11 +453,10 @@
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 2 | 0 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 | 2026-10-09 | Proposed | [THEORY-179](../../record/theory.d/THEORY-179.md) | 2 | 0 | In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch |
 | 2026-10-09 | Proposed | [THEORY-184](../../record/theory.d/THEORY-184.md) | 2 | 0 | Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps |
-| 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 2 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 
 ## QUESTIONs
 
-4 of the 506.
+4 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -466,7 +467,7 @@
 
 ## CLAIMs
 
-65 of the 506.
+65 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -538,7 +539,7 @@
 
 ## CASEs
 
-1 of the 506.
+1 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -546,7 +547,7 @@
 
 ## TERMs
 
-2 of the 506.
+2 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -555,7 +556,7 @@
 
 ## ARGs
 
-2 of the 506.
+2 of the 507.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

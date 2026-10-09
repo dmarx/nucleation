@@ -40,7 +40,7 @@ this directory, then run `luria index`.
 **[Representation learning](tags/representation-learning.md)** (1) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge:
 [008](../../record/arguments.d/ARG-008.md)
 
-**[Learning theory](tags/learning-theory.md)** (0) — why learning generalizes — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection.
+**[Learning theory](tags/learning-theory.md)** (0) — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
 **[Compositionality](tags/compositionality.md)** (0) — how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031).
 

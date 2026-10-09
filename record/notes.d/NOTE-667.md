@@ -1,6 +1,9 @@
 ---
+number: 667
 status: Read
-paper: 'LIT-tmppqrls'
+formerly:
+- NOTE-tmpb36i6
+paper: 'LIT-864'
 title: 'Exact solutions to the nonlinear dynamics of learning in deep linear neural networks'
 version: 1
 history:
@@ -42,10 +45,10 @@ summary: >-
   networks near gain 1 keep their Jacobians near-isometric.
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account of the three-layer result, which this paper first derived -->
-<!-- inactive-ok-file: THEORY-tmp8wj5h — Proposed; the account this reading produced -->
+<!-- inactive-ok-file: THEORY-187 — Proposed; the account this reading produced -->
 <!-- inactive-ok-file: THEORY-182 THEORY-039 — Proposed; accounts this reading bears on -->
 
-# NOTE-tmpb36i6: Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+# NOTE-667: Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
 
 ## Contribution
 
@@ -264,7 +267,7 @@ paper's Eq. 6.
   [THEORY-186](../theory.d/THEORY-186.md)'s `source:` beside [LIT-862](../literature.d/LIT-862.md), and correct its Source section,
   which says neither record holds the 2014 paper. The three-layer result
   should not be filed a second time.
-- **It produces [THEORY-tmp8wj5h](../theory.d/THEORY-tmp8wj5h.md).** The depth results are not held anywhere
+- **It produces [THEORY-187](../theory.d/THEORY-187.md).** The depth results are not held anywhere
   in the record: depth acts through the initial end-to-end mode strength,
   delay is finite with depth from strength of order one, and the plateau
   from strength ε grows as ε^{−(N_l−3)/(N_l−1)}, tending to 1/ε, instead of

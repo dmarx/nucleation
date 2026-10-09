@@ -1,5 +1,8 @@
 ---
+number: 187
 status: Proposed
+formerly:
+- THEORY-tmp8wj5h
 promote_when: >-
   A derivation, or a controlled measurement across depths, showing that
   deep linear networks started off the decoupled set behave the same way:
@@ -15,9 +18,9 @@ tags:
 - learning-theory
 date: '2026-10-09'
 source:
-- LIT-tmppqrls
+- LIT-864
 summary: >-
-  Saxe, McClelland and Ganguli (2014), [LIT-tmppqrls](../literature.d/LIT-tmppqrls.md), Eqs. 13–17 and
+  Saxe, McClelland and Ganguli (2014), [LIT-864](../literature.d/LIT-864.md), Eqs. 13–17 and
   Appendix B: exact for decoupled initial weights and whitened inputs, with
   the step size bounded by the Hessian at the optimum, and supported on
   MNIST from decoupled starts up to 100 layers. It does not show that
@@ -28,12 +31,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->
 
-# THEORY-tmp8wj5h: In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
+# THEORY-187: In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
 
 ## Source
 
-Saxe, McClelland and Ganguli (2014), [LIT-tmppqrls](../literature.d/LIT-tmppqrls.md), §2, §3 and
-Supplementary Appendices B–B.1, as read in [NOTE-tmpb36i6](../notes.d/NOTE-tmpb36i6.md).
+Saxe, McClelland and Ganguli (2014), [LIT-864](../literature.d/LIT-864.md), §2, §3 and
+Supplementary Appendices B–B.1, as read in [NOTE-667](../notes.d/NOTE-667.md).
 
 ## What was actually shown
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 3540 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 3561 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -495,7 +495,7 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 On the Stepwise Nature of Self-Supervised Learning
 
-9 citations in 5 files await a look; 8 other citations of it are acknowledged.
+9 citations in 5 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-261.md:48`](../../record/literature.d/LIT-261.md)
 - [`record/notes.d/NOTE-230.md:34`](../../record/notes.d/NOTE-230.md)
@@ -682,7 +682,7 @@ Local Quantum Physics: Fields, Particles, Algebras (2nd ed.)
 
 New Evidence of the Two-Phase Learning Dynamics of Neural Networks
 
-8 citations in 3 files await a look; 8 other citations of it are acknowledged.
+8 citations in 3 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-318.md:6`](../../record/notes.d/NOTE-318.md)
 - [`record/theory.d/THEORY-035.md:92`](../../record/theory.d/THEORY-035.md)
@@ -1413,7 +1413,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
 
-2 citations in 2 files await a look; 14 other citations of it are acknowledged.
+2 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
