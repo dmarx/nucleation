@@ -1,6 +1,9 @@
 ---
+number: 663
 status: Read
-paper: 'LIT-tmpacvdl'
+formerly:
+- NOTE-tmp571ty
+paper: 'LIT-861'
 title: 'Topological Invariance and Breakdown in Learning'
 version: 1
 history:
@@ -28,14 +31,14 @@ summary: >-
   ηλ_max far below 1.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpmh1ao — Proposed; the THEORY this reading produced -->
+<!-- inactive-ok-file: THEORY-184 — Proposed; the THEORY this reading produced -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, which this reading bears on -->
 <!-- inactive-ok-file: LIT-370 — Proposed; the two-phase paper this one cites, named for the lineage -->
 <!-- inactive-ok-file: THEORY-112 — Proposed; the record's account of permutation symmetry in the loss landscape, named as a neighbour -->
 <!-- inactive-ok-file: THEORY-181 — Proposed; named because the paper links its second phase to grokking -->
 <!-- inactive-ok-file: THEORY-180 THEORY-182 — Proposed; named as the 2026-10-09 batch's accounts, on which this reading was checked for bearing -->
 
-# NOTE-tmp571ty: Topological Invariance and Breakdown in Learning
+# NOTE-663: Topological Invariance and Breakdown in Learning
 
 ## Contribution
 
@@ -149,7 +152,7 @@ Naitzat, Zhitnikov and Lim and the GUDHI Rips complex.
 
 - **No account like this in the record.** Nothing in theory.d states a
   constraint on trajectories from permutation symmetry. The reading
-  produces [THEORY-tmpmh1ao](../theory.d/THEORY-tmpmh1ao.md), stating C1–C3 at their true scope: no merging
+  produces [THEORY-184](../theory.d/THEORY-184.md), stating C1–C3 at their true scope: no merging
   in finite time below 1/K and no splitting ever. It also states the local
   form the proof supports, which is my observation and not the paper's: two
   neurons can coincide after a step only if η times the update's Lipschitz

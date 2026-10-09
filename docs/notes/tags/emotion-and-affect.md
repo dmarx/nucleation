@@ -4,7 +4,7 @@
 
 **emotion-and-affect**.
 
-23 of 662 NOTE documents. Back to the [full index](../README.md).
+23 of 664 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

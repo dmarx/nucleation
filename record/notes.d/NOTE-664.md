@@ -1,6 +1,9 @@
 ---
+number: 664
 status: Read
-paper: 'LIT-tmp06otw'
+formerly:
+- NOTE-tmprkfaf
+paper: 'LIT-860'
 title: 'Symmetry in Language Statistics and Representation Geometry'
 version: 1
 history:
@@ -30,9 +33,9 @@ summary: >-
   words' mutual co-occurrences explained by a latent variable shared by
   many words.
 ---
-<!-- inactive-ok-file: THEORY-tmp1cak6 THEORY-182 THEORY-022 THEORY-019 THEORY-002 — Proposed; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-022 THEORY-019 THEORY-002 — Proposed; cited as what this reading produced or bears on -->
 
-# NOTE-tmprkfaf: Symmetry in Language Statistics and Representation Geometry
+# NOTE-664: Symmetry in Language Statistics and Representation Geometry
 
 ## Contribution
 
@@ -226,7 +229,7 @@ representations get a hypothesis but no test (Figure 10).
 
 ## Bearing on the record
 
-- **It produces [THEORY-tmp1cak6](../theory.d/THEORY-tmp1cak6.md)**: under translation-symmetric
+- **It produces [THEORY-183](../theory.d/THEORY-183.md)**: under translation-symmetric
   co-occurrence, a spectral word embedding's geometry is the Fourier
   geometry of the latent continuum, so the symmetry is supplied by the
   data. Nothing in the record held this.

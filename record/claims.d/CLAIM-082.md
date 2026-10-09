@@ -112,7 +112,7 @@ Saussure's opposition either ([THEORY-159](../theory.d/THEORY-159.md)). The resu
 of word2vec, not word2vec. And it is a fact about what a model learns from
 text, not evidence about how significance is fixed in a language.
 
-Its sequel (Karkada et al. 2026, [LIT-tmp06otw](../literature.d/LIT-tmp06otw.md), read in [NOTE-tmprkfaf](../notes.d/NOTE-tmprkfaf.md)) adds a
+Its sequel (Karkada et al. 2026, [LIT-860](../literature.d/LIT-860.md), read in [NOTE-664](../notes.d/NOTE-664.md)) adds a
 sharper case and a qualification. The months are still placed on a circle
 from their co-occurrence with *other* words after their co-occurrences with
 each other are deleted (Fig. 4), so each one's position is fixed by its

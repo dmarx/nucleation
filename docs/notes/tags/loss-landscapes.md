@@ -4,7 +4,7 @@
 
 **loss-landscapes**.
 
-29 of 662 NOTE documents. Back to the [full index](../README.md).
+30 of 664 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -37,3 +37,4 @@
 | [NOTE-543](../../../record/notes.d/NOTE-543.md) | Proving Linear Mode Connectivity of Neural Networks via Optimal Transport | Layerwise neuron alignment equals a Wasserstein distance between empirical weight distributions (Birkhoff), so LMC modulo permutation follows when neuron weights are i.i.d. and layers are wide: for mean-field two-layer SGD (Theorem 3.1), and for deep Gaussian or sub-Gaussian nets with m̃_ℓ = Õ((T_ℓ/ε)^{m̃_{ℓ−1}}) (Theorem 5.2), tight by Theorem 5.3. Low-dimensional weights relax this (Theorem 5.4). | Read |
 | [NOTE-544](../../../record/notes.d/NOTE-544.md) | Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets | ε-dropout-stable ReLU nets are ε-connected by a piecewise-linear path (Theorem 1); ε-noise-stable nets by 10 segments with barrier Õ(ε) (Theorem 2), or 13 through a narrow low-loss net (Theorem 3). For any width there is a teacher dataset on which a two-layer student's global minima are disconnected (Theorem 4). MNIST convnets and a VGG-11 on CIFAR-10 satisfy the conditions roughly. | Read |
 | [NOTE-653](../../../record/notes.d/NOTE-653.md) | Revisiting Model Stitching to Compare Neural Representations | An empirical paper with no theorems. It defines the stitching penalty, the change in a top network's test error when its bottom ℓ layers are replaced by another representation through a trained 1×1 convolution, and uses it to show, in single runs mostly on CIFAR-10, that networks from different seeds, and supervised and self-supervised ImageNet networks, are interchangeable layer by layer where CKA calls them different, and that a bottom trained on more data improves a weaker top. The ordering it gives is by one task's loss through a fixed head and a restricted map class, which is not an ordering by information. | Read |
+| [NOTE-663](../../../record/notes.d/NOTE-663.md) | Topological Invariance and Breakdown in Learning | Proves that a permutation-equivariant update with a K-Lipschitz update map changes the distance between any two neurons in one step by a factor in [1 − ηK, 1 + ηK], so coincident neurons never split, and for ηK < 1 the induced map on the set of neuron vectors is a bi-Lipschitz homeomorphism (a C¹ diffeomorphism under smoothness), and so no two neurons merge in finitely many steps. The proofs hold. The two-phase "topological simplification" reading and the Betti-number experiments go beyond them. The measured changes are fragmentation, not merging, at ηλ_max far below 1. | Read |

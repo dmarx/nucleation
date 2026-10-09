@@ -1,5 +1,8 @@
 ---
+number: 184
 status: Proposed
+formerly:
+- THEORY-tmpmh1ao
 promote_when: >-
   What would settle it is the proof checked independently of this reading,
   or the same result found stated and proved in the literature on
@@ -18,10 +21,10 @@ tags:
 - mathematics
 date: '2026-10-09'
 source:
-- LIT-tmpacvdl
+- LIT-861
 summary: >-
-  Yang, Poggio, Chuang and Ziyin (2025), [LIT-tmpacvdl](../literature.d/LIT-tmpacvdl.md), read in
-  [NOTE-tmp571ty](../notes.d/NOTE-tmp571ty.md). If an update commutes with permuting neurons (GD, SGD or
+  Yang, Poggio, Chuang and Ziyin (2025), [LIT-861](../literature.d/LIT-861.md), read in
+  [NOTE-663](../notes.d/NOTE-663.md). If an update commutes with permuting neurons (GD, SGD or
   Adam on a permutation-symmetric loss) and its map is K-Lipschitz, one
   step of size η changes every pairwise neuron distance by a factor in
   [1 − ηK, 1 + ηK]. This is a proved constraint on trajectories. It does
@@ -32,12 +35,12 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, named for what this does not settle -->
 
-# THEORY-tmpmh1ao: Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
+# THEORY-184: Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
 
 ## Source
 
-Yang, Poggio, Chuang and Ziyin (2025), [LIT-tmpacvdl](../literature.d/LIT-tmpacvdl.md), Lemmas 1–4, Theorem 1
-and Propositions 1–3, as read in [NOTE-tmp571ty](../notes.d/NOTE-tmp571ty.md).
+Yang, Poggio, Chuang and Ziyin (2025), [LIT-861](../literature.d/LIT-861.md), Lemmas 1–4, Theorem 1
+and Propositions 1–3, as read in [NOTE-663](../notes.d/NOTE-663.md).
 
 ## What was actually shown
 
