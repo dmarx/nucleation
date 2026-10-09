@@ -6,12 +6,6 @@ formerly:
 title: 'noncommutativity, of events and of operations'
 version: 3
 history:
-- version: 3
-  date: '2026-10-08'
-  note: >-
-    A43 §2 and A48 §7.2 added a level below the others: noncommutativity of
-    string concatenation, which is trivial. A52 dropped it again. Recorded
-    here because it is what a language-model order effect is before controls.
 - version: 2
   date: '2026-10-08'
   note: >-
@@ -20,6 +14,12 @@ history:
     memory, learning, task demands or measurement disturbance. Version 1
     said observed order dependence establishes noncommutativity of the
     operations; version 2 says it is evidence for it, under a model.
+- version: 3
+  date: '2026-10-08'
+  note: >-
+    A43 §2 and A48 §7.2 added a level below the others: noncommutativity of
+    string concatenation, which is trivial. A52 dropped it again. Recorded
+    here because it is what a language-model order effect is before controls.
 tags:
 - quantum-foundations
 - probabilistic-modeling
