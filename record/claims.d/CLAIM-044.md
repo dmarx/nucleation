@@ -20,7 +20,7 @@ complements:
 uses:
 - TERM-002
 grounds:
-- LIT-tmph7en9
+- LIT-841
 summary: >-
   A81 §3.4 and A82 §8.7, recovered. The manuscript keeps the contrast
   between context sensitivity and contextuality but not this one,
@@ -52,7 +52,7 @@ without becoming more contextual ([CLAIM-105](CLAIM-105.md)).
 
 ## Sharpened by Abramsky and Sadrzadeh
 
-Abramsky and Sadrzadeh's Semantic Unification ([LIT-tmph7en9](../literature.d/LIT-tmph7en9.md), [NOTE-tmp3cvly](../notes.d/NOTE-tmp3cvly.md))
+Abramsky and Sadrzadeh's Semantic Unification ([LIT-841](../literature.d/LIT-841.md), [NOTE-644](../notes.d/NOTE-644.md))
 treats ambiguity as a choice among several admissible covers. Each cover
 glues at most once. A failure to glue is inconsistency, a third thing
 beside ambiguity and contextuality.

@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-29 of 643 NOTE documents. Back to the [full index](../README.md).
+30 of 644 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -37,3 +37,4 @@
 | [NOTE-628](../../../record/notes.d/NOTE-628.md) | Larger communities create more systematic languages | Varies community size alone in a laboratory language-creation game: groups of eight built more systematic, compositional languages than groups of four, faster and more uniformly across groups, while reaching the same communicative success and convergence. Input variability, greater in larger groups, predicted gains in structure; small groups differed more from each other on every measure. | Read |
 | [NOTE-631](../../../record/notes.d/NOTE-631.md) | Efficient compression in color naming | Casts a colour lexicon as an information-bottleneck encoder from perceptual meanings to words and shows the World Color Survey languages and English lie near the IB bound at β ≈ 1.03, beating hue-rotated variants of themselves in 93% of cases and fitting full naming distributions much better than a deterministic efficiency model; IB optima are soft, and the path of optima through β has phase transitions that roughly follow Berlin and Kay's sequence. | Read |
 | [NOTE-634](../../../record/notes.d/NOTE-634.md) | Predicting pragmatic reasoning in language games | A listener who inverts, by Bayes' rule, a speaker choosing words by informativeness to a literal listener, combined with an empirically measured salience prior, predicts mean listener bets in simple three-object reference games at r = .99 with no fitted parameters, and the speaker model predicts speaker bets at r = .98. | Read |
+| [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |

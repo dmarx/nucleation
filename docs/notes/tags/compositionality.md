@@ -4,7 +4,7 @@
 
 **compositionality**.
 
-16 of 643 NOTE documents. Back to the [full index](../README.md).
+17 of 644 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -24,3 +24,4 @@
 | [NOTE-628](../../../record/notes.d/NOTE-628.md) | Larger communities create more systematic languages | Varies community size alone in a laboratory language-creation game: groups of eight built more systematic, compositional languages than groups of four, faster and more uniformly across groups, while reaching the same communicative success and convergence. Input variability, greater in larger groups, predicted gains in structure; small groups differed more from each other on every measure. | Read |
 | [NOTE-639](../../../record/notes.d/NOTE-639.md) | Attend-and-Excite | Identifies catastrophic neglect in Stable Diffusion, where a named subject never appears because no image patch attends to its token, and corrects it at inference by gradient steps on the latent that raise the smoothed peak attention of the most neglected subject token during the early steps. Measured gains are in CLIP and caption similarity and human preference on two-subject prompts; attribute binding improves only in the figures, and relations are not addressed. | Read |
 | [NOTE-642](../../../record/notes.d/NOTE-642.md) | Morphology of the Folktale | In chs. II–III of the 1968 English text, Propp's four theses and his 31 functions appear as in the Russian. The functions are named by nouns of action under capitalised headings, with Greek signs for the seven preparatory functions and Latin ones after. "Dramatis personae" and "characters" alternate for the same word, and the class studied is "fairy tales", under a title Dundes calls misleading. The second edition's additions are visible on the page: Wagner's notes correct about forty of Propp's tale references in two chapters and renumber the tales to the later Afanas'ev numbering. | Skimmed |
+| [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |

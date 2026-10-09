@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**166 documents cited without acknowledgement.** Not listed: 3273 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**166 documents cited without acknowledgement.** Not listed: 3274 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -236,7 +236,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
-17 citations in 12 files await a look; 28 other citations of it are acknowledged.
+17 citations in 12 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
@@ -1441,6 +1441,15 @@ For experiments on a finite parameter set, being at least as informative for eve
 - [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
 
+### [THEORY-162](../../record/theory.d/THEORY-162.md) — Proposed
+
+What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about
+
+2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
+- [`record/notes.d/NOTE-644.md:173`](../../record/notes.d/NOTE-644.md)
+
 ### [THEORY-171](../../record/theory.d/THEORY-171.md) — Proposed
 
 When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality
@@ -1929,14 +1938,6 @@ Iterated learning by Bayesian agents who sample from the posterior converges to 
 1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-066.md:41`](../../record/claims.d/CLAIM-066.md)
-
-### [THEORY-162](../../record/theory.d/THEORY-162.md) — Proposed
-
-What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about
-
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
 
 ## Codes that resolve to no document
 

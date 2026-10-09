@@ -288,6 +288,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+  - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
 
 ### From Context–content systems of random variables: The Contextuality-by-Default theory
 
@@ -501,6 +502,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+  - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
@@ -779,15 +781,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-561](../record/literature.d/LIT-561.md) — Basic psychological need theory: Advancements, critical themes, and future directions *(Active)*
 
 ## quantum-foundations
-
-### From The sheaf-theoretic structure of non-locality and contextuality
-
-- [LIT-016](../record/literature.d/LIT-016.md) — The sheaf-theoretic structure of non-locality and contextuality *(Active)*
-  - [LIT-277](../record/literature.d/LIT-277.md) — The Cohomology of Non-Locality and Contextuality *(Active)*
-    - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
-    - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
-      - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
-        - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
 
 ### From A new description of orthogonal bases
 

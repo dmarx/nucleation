@@ -4,7 +4,7 @@
 
 **probabilistic-modeling**.
 
-69 of 643 NOTE documents. Back to the [full index](../README.md).
+70 of 644 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -77,3 +77,4 @@
 | [NOTE-633](../../../record/notes.d/NOTE-633.md) | Implicit Bayesian inference account of in-context learning | Proves that if pretraining text is a mixture of HMMs and a model fits it exactly, conditioning on a prompt of concatenated examples recovers the prompt's latent concept by posterior concentration, and the in-context predictor is asymptotically Bayes-optimal, whenever each example's KL signal about the concept beats the error from the improbable transitions between examples. The account is of the data distribution, not of any network's computation. | Read |
 | [NOTE-634](../../../record/notes.d/NOTE-634.md) | Predicting pragmatic reasoning in language games | A listener who inverts, by Bayes' rule, a speaker choosing words by informativeness to a literal listener, combined with an empirically measured salience prior, predicts mean listener bets in simple three-object reference games at r = .99 with no fitted parameters, and the speaker model predicts speaker bets at r = .98. | Read |
 | [NOTE-636](../../../record/notes.d/NOTE-636.md) | Wang & Busemeyer, the QQ model and QQ equality | Derives the QQ equality from a Lüders-projection model of answering attitude questions: the probability of answering two questions differently is the same in both orders, for any belief state, any projectors and any dimension, provided only the first answer changes the state before the second. It holds in five of six data sets and fails, as the authors predicted, in the sixth, where new information came between the questions. The argument that classical models fail it is informal. | Read |
+| [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |

@@ -83,7 +83,7 @@ interpretations need not be fragments of one global one.
 
 ## Prior art, with a different emphasis
 
-Abramsky and Sadrzadeh 2014 ([LIT-tmph7en9](../literature.d/LIT-tmph7en9.md)) apply presheaves and gluing to
+Abramsky and Sadrzadeh 2014 ([LIT-841](../literature.d/LIT-841.md)) apply presheaves and gluing to
 discourse meaning. That is prior art for this claim's vocabulary. In their
 account, though, the discourse meaning *is* the global section, and a
 failure to glue rejects the reading. It does not leave an object without a

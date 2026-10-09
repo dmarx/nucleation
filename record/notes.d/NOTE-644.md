@@ -1,6 +1,9 @@
 ---
+number: 644
 status: Read
-paper: 'LIT-tmph7en9'
+formerly:
+- NOTE-tmp3cvly
+paper: 'LIT-841'
 title: 'Semantic Unification'
 version: 1
 history:
@@ -28,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for the distinction it draws, not as settled -->
 
-# NOTE-tmp3cvly: Semantic Unification
+# NOTE-644: Semantic Unification
 
 ## Contribution
 

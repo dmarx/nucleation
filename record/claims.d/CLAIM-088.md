@@ -69,5 +69,5 @@ sheaf-structured observation, not task-relative preservation.
 ## Sheaf-structured meaning predates the manuscript
 
 By 2014, sheaf-structured meaning for discourse already existed: Abramsky
-and Sadrzadeh ([LIT-tmph7en9](../literature.d/LIT-tmph7en9.md)). Only the pragmatic and transport use of it
+and Sadrzadeh ([LIT-841](../literature.d/LIT-841.md)). Only the pragmatic and transport use of it
 remains for the manuscript to claim, which supports this claim's narrowing.

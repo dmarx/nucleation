@@ -4,7 +4,7 @@
 
 **logic**.
 
-34 of 643 NOTE documents. Back to the [full index](../README.md).
+35 of 644 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -42,3 +42,4 @@
 | [NOTE-608](../../../record/notes.d/NOTE-608.md) | The Semantics of Definite and Indefinite Noun Phrases | Argues that indefinites (and definites) are variables without quantificational force, bound by the nearest operator, which yields donkey-sentence readings; then recasts semantics as file change: each sentence updates a structured common ground of numbered cards, truth of a file supplies existential force, and the definite/indefinite contrast reduces to one felicity condition (new card versus familiar card), from which binding, presupposition projection and, with accommodation, narrow-scope definites follow. | Read |
 | [NOTE-617](../../../record/notes.d/NOTE-617.md) | Defaults in Update Semantics | Sets out update semantics (meaning as change of information state), proves a dynamic system reduces to static propositions exactly when updates are total, idempotent, persistent, monotone and strengthening, and shows epistemic "might" and "presumably" are tests that fail persistence. Gives a decidable non-monotonic logic of default rules in which specificity and other priorities follow from coherence and applicability conditions, with predictions that differ from Reiter's, Delgrande's, Asher and Morreau's and inheritance-net theories. | Read |
 | [NOTE-622](../../../record/notes.d/NOTE-622.md) | Making It Explicit | In the core of chapter 3, asserting undertakes a commitment, licenses others to reassert it and takes on a responsibility to show entitlement if challenged. Entitlement passes by justification (across contents) and by deferral (between people), and holds by default until challenged. Each interlocutor keeps score of everyone's commitments and entitlements, so scorekeeping is doubly perspectival. A speech act's significance is the change it makes to the scores, determined by its content's inferential role. | Skimmed |
+| [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |

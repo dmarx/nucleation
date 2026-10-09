@@ -4,7 +4,7 @@
 
 **contextuality**.
 
-34 of 643 NOTE documents. Back to the [full index](../README.md).
+35 of 644 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -42,3 +42,4 @@
 | [NOTE-629](../../../record/notes.d/NOTE-629.md) | Sheaf-theoretic structure of definite causality | Extends the Abramsky–Brandenburger sheaf framework from non-locality (discrete order) to any finite causal order of events. Sections are causal functions over families of inputs on lower sets. Empirical models are causal conditional distributions forming a polytope. Locality is a global section, equivalently a mixture of deterministic causal functions. The authors withdrew the paper in 2024 because its "locale of inputs" is not fit for purpose. This reading finds that Proposition 5's meet can leave the poset and that distributivity fails. | Read |
 | [NOTE-640](../../../record/notes.d/NOTE-640.md) | Contextuality in canonical systems | Contextuality is to be judged on a canonical representation in which every variable is replaced by binary splits and connections are coupled multimaximally. For two content-sharing k-valued variables with all splits kept, the canonical system is noncontextual if and only if one nominally dominates the other: its probabilities fall below the other's for at most one value (Theorem 4.6). Only the 1- and 2-splits matter (Theorems 4.1, 4.3). For continuous densities, all splits make any difference in distribution contextual. | Read |
 | [NOTE-643](../../../record/notes.d/NOTE-643.md) | Contextuality-by-Default 2.0 | Replaces CbD 1.0's maximal coupling of each connection by a multimaximal one (every subset maximally coupled). For binary variables this coupling exists, is unique and has an explicit staircase form (Theorem 1), so a noncontextual system's subsystems are noncontextual (Theorem 3) and partial and complete (non)contextuality coincide. Cyclic, consistently connected and two-copy systems are judged as before. For non-binary variables multimaximal couplings can fail to exist, can be non-unique, and are not stable under coarse-graining (Examples 1–3). | Read |
+| [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
