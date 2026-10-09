@@ -27,7 +27,7 @@ summary: >-
   however many inputs it has, is the edge: the separation does not reach
   the low-order polynomials [LIT-887](../literature.d/LIT-887.md) calls natural.
 ---
-<!-- inactive-ok-file: QUESTION-025 — open; cited as the question this does not answer -->
+
 
 # THEORY-tmppv845: For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
 
