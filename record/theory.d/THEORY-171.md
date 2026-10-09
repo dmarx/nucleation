@@ -17,7 +17,7 @@ history:
 - version: 2
   date: '2026-10-09'
   note: >-
-    Abramsky, Barbosa and Searle 2024 (LIT-tmpvyqe9) added as a source. Its
+    Abramsky, Barbosa and Searle 2024 (LIT-843) added as a source. Its
     Example 7.2 is a second, independent instance of deterministic data
     failing to glue because causal pasts are incomparable, and its Example
     7.3 adds a gluing that is not unique. The claim is unchanged.
@@ -30,7 +30,7 @@ date: '2026-10-09'
 source:
 - LIT-808
 - LIT-800
-- LIT-tmpvyqe9
+- LIT-843
 summary: >-
   From Gogioso & Pinzani's trilogy: The Topology of Causality, [LIT-808](../literature.d/LIT-808.md),
   read in [NOTE-612](../notes.d/NOTE-612.md), with the definitions of The Combinatorics of

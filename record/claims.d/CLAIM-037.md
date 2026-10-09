@@ -21,7 +21,7 @@ grounds:
 - THEORY-012
 - LIT-016
 - LIT-777
-- LIT-tmp9rgb4
+- LIT-842
 summary: >-
   The manuscript's §3 and §9. It separates three things: context
   dependence, stochastic noncommutativity, and contextuality as an
@@ -59,10 +59,10 @@ inference, not the paper's.
 
 ## Language data are signalling
 
-In Wang et al. ([LIT-tmp9rgb4](../literature.d/LIT-tmp9rgb4.md)), every model estimated from the corpora is signalling.
+In Wang et al. ([LIT-842](../literature.d/LIT-842.md)), every model estimated from the corpora is signalling.
 The sheaf criterion could not be applied to any of them, and only
 Contextuality-by-Default could. That is direct support for this claim.
 
-Abramsky, Barbosa and Searle ([LIT-tmpvyqe9](../literature.d/LIT-tmpvyqe9.md)) offer a second route. In their
+Abramsky, Barbosa and Searle ([LIT-843](../literature.d/LIT-843.md)) offer a second route. In their
 approach, signalling from a declared causal past becomes part of the
 classical model.

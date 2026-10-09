@@ -6,7 +6,7 @@
 
 **Psychopathology and treatment** — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-24 of 841 LIT documents. Back to the [full index](../README.md).
+24 of 843 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

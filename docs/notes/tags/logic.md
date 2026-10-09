@@ -4,7 +4,7 @@
 
 **logic**.
 
-35 of 644 NOTE documents. Back to the [full index](../README.md).
+36 of 646 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -43,3 +43,4 @@
 | [NOTE-617](../../../record/notes.d/NOTE-617.md) | Defaults in Update Semantics | Sets out update semantics (meaning as change of information state), proves a dynamic system reduces to static propositions exactly when updates are total, idempotent, persistent, monotone and strengthening, and shows epistemic "might" and "presumably" are tests that fail persistence. Gives a decidable non-monotonic logic of default rules in which specificity and other priorities follow from coherence and applicability conditions, with predictions that differ from Reiter's, Delgrande's, Asher and Morreau's and inheritance-net theories. | Read |
 | [NOTE-622](../../../record/notes.d/NOTE-622.md) | Making It Explicit | In the core of chapter 3, asserting undertakes a commitment, licenses others to reassert it and takes on a responsibility to show entitlement if challenged. Entitlement passes by justification (across contents) and by deferral (between people), and holds by default until challenged. Each interlocutor keeps score of everyone's commitments and entitlements, so scorekeeping is doubly perspectival. A speech act's significance is the change it makes to the scores, determined by its content's inferential role. | Skimmed |
 | [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
+| [NOTE-646](../../../record/notes.d/NOTE-646.md) | Combining contextuality and causality | Extends sheaf-theoretic contextuality to causal scenarios by an enabling relation on measurements and a game reading: Nature's deterministic strategies, which may depend on causal history, replace the event sheaf, and the Abramsky–Brandenburger definitions then go through. Recovers flat contextuality and causal Bell scenarios, and expresses adaptive MBQC by Experimenter strategies. The strategy presheaf is not a sheaf: compatible deterministic local strategies can have no gluing or several. | Read |

@@ -1,6 +1,9 @@
 ---
+number: 645
 status: Read
-paper: 'LIT-tmp9rgb4'
+formerly:
+- NOTE-tmpj1l5b
+paper: 'LIT-842'
 title: 'On the Quantum-like Contextuality of Ambiguous Phrases'
 version: 1
 history:
@@ -36,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-013 — Proposed; cited for what this reading bears on, not as settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-038 CLAIM-044 — Proposed; open, and cited as open: the claims this reading bears on -->
 
-# NOTE-tmpj1l5b: On the Quantum-like Contextuality of Ambiguous Phrases
+# NOTE-645: On the Quantum-like Contextuality of Ambiguous Phrases
 
 ## Contribution
 

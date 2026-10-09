@@ -4,7 +4,7 @@
 
 **game-theory**.
 
-10 of 644 NOTE documents. Back to the [full index](../README.md).
+11 of 646 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | [NOTE-554](../../../record/notes.d/NOTE-554.md) | List — Three kinds of collective attitudes | Aggregate attitudes: a rule or market summarises members' attitudes; proposition-wise supervenience; no direct role; rationality contingent (majority beliefs on p, q, p∧q can be inconsistent, Table 1). Common attitudes: all hold, with common awareness; enriched proposition-wise supervenience; coordination; consistent by unanimity. Corporate attitudes: a group agent's; holistic supervenience, like non-reductive physicalism; action-guiding; rationality presupposed. Three lessons of near-independence; Table 2 summarises. | Read |
 | [NOTE-563](../../../record/notes.d/NOTE-563.md) | Beyond Markets and States: Polycentric Governance of Complex Economic Systems | Ostrom's retrospective. Polycentric arrangements, many formally independent decision centres, can outperform single hierarchies. Long-surviving common-pool resource institutions share eight design principles, not specific rules. In experiments communication and self-chosen sanctions sustain cooperation, and in the field local monitoring predicts outcomes. No single regime type is a panacea. | Read |
 | [NOTE-613](../../../record/notes.d/NOTE-613.md) | That's what she (could have) said | Recursive Bayesian speaker–listener reasoning yields specificity implicatures but cannot derive Horn's principle from utterance costs alone; letting the agents be uncertain about the lexicon breaks the symmetry, so costlier signals go to less likely meanings in one-shot games without equilibrium refinements, and two online games with novel symbols show people drawing both implicatures without prior conventions. | Read |
+| [NOTE-646](../../../record/notes.d/NOTE-646.md) | Combining contextuality and causality | Extends sheaf-theoretic contextuality to causal scenarios by an enabling relation on measurements and a game reading: Nature's deterministic strategies, which may depend on causal history, replace the event sheaf, and the Abramsky–Brandenburger definitions then go through. Recovers flat contextuality and causal Bell scenarios, and expresses adaptive MBQC by Experimenter strategies. The strategy presheaf is not a sheaf: compatible deterministic local strategies can have no gluing or several. | Read |

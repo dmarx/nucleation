@@ -2,7 +2,7 @@
 
 # Lines of work
 
-53 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+52 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -289,13 +289,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
   - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
-
-### From Context–content systems of random variables: The Contextuality-by-Default theory
-
+  - [LIT-842](../record/literature.d/LIT-842.md) — On the Quantum-like Contextuality of Ambiguous Phrases *(Active)* — also extends LIT-777
+  - [LIT-843](../record/literature.d/LIT-843.md) — Combining contextuality and causality: a game semantics approach *(Active)* — also extends LIT-813
 - [LIT-777](../record/literature.d/LIT-777.md) — Context–content systems of random variables: The Contextuality-by-Default theory *(Active)*
   - [LIT-831](../record/literature.d/LIT-831.md) — Contextuality-by-Default 2.0: Systems with Binary Random Variables *(Active)*
     - [LIT-790](../record/literature.d/LIT-790.md) — Contextuality in Canonical Systems of Random Variables *(Active)*
   - [LIT-836](../record/literature.d/LIT-836.md) — Probabilistic Foundations of Contextuality *(Active)*
+- [LIT-813](../record/literature.d/LIT-813.md) — The Sheaf-Theoretic Structure of Definite Causality *(Superseded)*
 
 ## design-rationale
 
@@ -494,16 +494,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## mathematics
 
-### From The sheaf-theoretic structure of non-locality and contextuality
-
-- [LIT-016](../record/literature.d/LIT-016.md) — The sheaf-theoretic structure of non-locality and contextuality *(Active)*
-  - [LIT-277](../record/literature.d/LIT-277.md) — The Cohomology of Non-Locality and Contextuality *(Active)*
-    - [LIT-278](../record/literature.d/LIT-278.md) — Contextuality, Cohomology and Paradox *(Active)*
-    - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
-      - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
-        - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
-  - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
-
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
@@ -518,13 +508,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
-
-### From Context–content systems of random variables: The Contextuality-by-Default theory
-
-- [LIT-777](../record/literature.d/LIT-777.md) — Context–content systems of random variables: The Contextuality-by-Default theory *(Active)*
-  - [LIT-831](../record/literature.d/LIT-831.md) — Contextuality-by-Default 2.0: Systems with Binary Random Variables *(Active)*
-    - [LIT-790](../record/literature.d/LIT-790.md) — Contextuality in Canonical Systems of Random Variables *(Active)*
-  - [LIT-836](../record/literature.d/LIT-836.md) — Probabilistic Foundations of Contextuality *(Active)*
 
 ## mereology
 

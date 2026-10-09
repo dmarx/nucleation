@@ -1,6 +1,9 @@
 ---
+number: 646
 status: Read
-paper: 'LIT-tmpvyqe9'
+formerly:
+- NOTE-tmppwpim
+paper: 'LIT-843'
 title: 'Combining contextuality and causality'
 version: 1
 history:
@@ -34,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-171 — Proposed; cited for the result this reading gives a second instance of -->
 <!-- inactive-ok-file: CLAIM-037 CLAIM-038 CLAIM-100 — Proposed; open, and cited as open: the claims this reading bears on -->
 
-# NOTE-tmppwpim: Combining contextuality and causality
+# NOTE-646: Combining contextuality and causality
 
 ## Contribution
 
@@ -184,7 +187,7 @@ background and allows signalling only from the causal past.
   signalling cannot be so characterised, which is the paper's own
   description of the difference. For language, the subject-to-verb
   influence that makes Wang et al.'s corpus models signalling
-  ([LIT-tmp9rgb4](../literature.d/LIT-tmp9rgb4.md)) is the kind of thing a declared order could absorb.
+  ([LIT-842](../literature.d/LIT-842.md)) is the kind of thing a declared order could absorb.
   Wang and Sadrzadeh's causal analysis of ambiguous phrases (EPTCS 394,
   not held) takes the Gogioso–Pinzani route.
 - **[CLAIM-100](../claims.d/CLAIM-100.md)** (extending sheaf contextuality to directed transport

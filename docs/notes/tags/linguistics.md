@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-30 of 644 NOTE documents. Back to the [full index](../README.md).
+31 of 646 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -38,3 +38,4 @@
 | [NOTE-631](../../../record/notes.d/NOTE-631.md) | Efficient compression in color naming | Casts a colour lexicon as an information-bottleneck encoder from perceptual meanings to words and shows the World Color Survey languages and English lie near the IB bound at β ≈ 1.03, beating hue-rotated variants of themselves in 93% of cases and fitting full naming distributions much better than a deterministic efficiency model; IB optima are soft, and the path of optima through β has phase transitions that roughly follow Berlin and Kay's sequence. | Read |
 | [NOTE-634](../../../record/notes.d/NOTE-634.md) | Predicting pragmatic reasoning in language games | A listener who inverts, by Bayes' rule, a speaker choosing words by informativeness to a literal listener, combined with an empirically measured salience prior, predicts mean listener bets in simple three-object reference games at r = .99 with no fitted parameters, and the speaker model predicts speaker bets at r = .98. | Read |
 | [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
+| [NOTE-645](../../../record/notes.d/NOTE-645.md) | On the Quantum-like Contextuality of Ambiguous Phrases | Models meaning selection in two-word ambiguous phrases as a Bell-type measurement scenario. Hand-set supports give one possibilistically contextual (Hardy-type) model; every corpus-estimated model is signalling, so only Contextuality-by-Default applies, under which two noun–verb pairs read in both grammatical orders are contextual (1/30 and 7/30). The paper's own bootstrap leaves both plausibly noncontextual (probabilities above .56 and .08), on very small counts. | Read |

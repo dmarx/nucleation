@@ -4,7 +4,7 @@
 
 **mathematics**.
 
-121 of 644 NOTE documents. Back to the [full index](../README.md).
+122 of 646 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -129,3 +129,4 @@
 | [NOTE-640](../../../record/notes.d/NOTE-640.md) | Contextuality in canonical systems | Contextuality is to be judged on a canonical representation in which every variable is replaced by binary splits and connections are coupled multimaximally. For two content-sharing k-valued variables with all splits kept, the canonical system is noncontextual if and only if one nominally dominates the other: its probabilities fall below the other's for at most one value (Theorem 4.6). Only the 1- and 2-splits matter (Theorems 4.1, 4.3). For continuous densities, all splits make any difference in distribution contextual. | Read |
 | [NOTE-643](../../../record/notes.d/NOTE-643.md) | Contextuality-by-Default 2.0 | Replaces CbD 1.0's maximal coupling of each connection by a multimaximal one (every subset maximally coupled). For binary variables this coupling exists, is unique and has an explicit staircase form (Theorem 1), so a noncontextual system's subsystems are noncontextual (Theorem 3) and partial and complete (non)contextuality coincide. Cyclic, consistently connected and two-copy systems are judged as before. For non-binary variables multimaximal couplings can fail to exist, can be non-unique, and are not stable under coarse-graining (Examples 1–3). | Read |
 | [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
+| [NOTE-646](../../../record/notes.d/NOTE-646.md) | Combining contextuality and causality | Extends sheaf-theoretic contextuality to causal scenarios by an enabling relation on measurements and a game reading: Nature's deterministic strategies, which may depend on causal history, replace the event sheaf, and the Abramsky–Brandenburger definitions then go through. Recovers flat contextuality and causal Bell scenarios, and expresses adaptive MBQC by Experimenter strategies. The strategy presheaf is not a sheaf: compatible deterministic local strategies can have no gluing or several. | Read |

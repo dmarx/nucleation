@@ -4,7 +4,7 @@
 
 **cognition**.
 
-141 of 644 NOTE documents. Back to the [full index](../README.md).
+142 of 646 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -149,3 +149,4 @@
 | [NOTE-634](../../../record/notes.d/NOTE-634.md) | Predicting pragmatic reasoning in language games | A listener who inverts, by Bayes' rule, a speaker choosing words by informativeness to a literal listener, combined with an empirically measured salience prior, predicts mean listener bets in simple three-object reference games at r = .99 with no fitted parameters, and the speaker model predicts speaker bets at r = .98. | Read |
 | [NOTE-636](../../../record/notes.d/NOTE-636.md) | Wang & Busemeyer, the QQ model and QQ equality | Derives the QQ equality from a Lüders-projection model of answering attitude questions: the probability of answering two questions differently is the same in both orders, for any belief state, any projectors and any dimension, provided only the first answer changes the state before the second. It holds in five of six data sets and fails, as the authors predicted, in the sixth, where new information came between the questions. The argument that classical models fail it is informal. | Read |
 | [NOTE-640](../../../record/notes.d/NOTE-640.md) | Contextuality in canonical systems | Contextuality is to be judged on a canonical representation in which every variable is replaced by binary splits and connections are coupled multimaximally. For two content-sharing k-valued variables with all splits kept, the canonical system is noncontextual if and only if one nominally dominates the other: its probabilities fall below the other's for at most one value (Theorem 4.6). Only the 1- and 2-splits matter (Theorems 4.1, 4.3). For continuous densities, all splits make any difference in distribution contextual. | Read |
+| [NOTE-645](../../../record/notes.d/NOTE-645.md) | On the Quantum-like Contextuality of Ambiguous Phrases | Models meaning selection in two-word ambiguous phrases as a Bell-type measurement scenario. Hand-set supports give one possibilistically contextual (Hardy-type) model; every corpus-estimated model is signalling, so only Contextuality-by-Default applies, under which two noun–verb pairs read in both grammatical orders are contextual (1/30 and 7/30). The paper's own bootstrap leaves both plausibly noncontextual (probabilities above .56 and .08), on very small counts. | Read |

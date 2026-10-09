@@ -6,7 +6,7 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-10 of 841 LIT documents. Back to the [full index](../README.md).
+10 of 843 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -4,7 +4,7 @@
 
 **causality**.
 
-14 of 644 NOTE documents. Back to the [full index](../README.md).
+15 of 646 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -22,3 +22,4 @@
 | [NOTE-624](../../../record/notes.d/NOTE-624.md) | The Geometry of Causality | Empirical models on any cover of a space of input histories are exactly the points of a causaltope, a product of simplices sliced by linear causality equations, which makes supported and causally separable fractions linear programs. Defines causal separability relative to an ambient space and shows, with entangled and contextually controlled quantum switches, that the causally separable fraction is bounded below by the separable local fraction and can equal it. | Skimmed |
 | [NOTE-629](../../../record/notes.d/NOTE-629.md) | Sheaf-theoretic structure of definite causality | Extends the Abramsky–Brandenburger sheaf framework from non-locality (discrete order) to any finite causal order of events. Sections are causal functions over families of inputs on lower sets. Empirical models are causal conditional distributions forming a polytope. Locality is a global section, equivalently a mixture of deterministic causal functions. The authors withdrew the paper in 2024 because its "locale of inputs" is not fit for purpose. This reading finds that Proposition 5's meet can leave the poset and that distributivity fails. | Read |
 | [NOTE-635](../../../record/notes.d/NOTE-635.md) | The Combinatorics of Causality | Replaces causal orders by spaces of input histories (join-prime sets of partial input assignments), which can express causal constraints that depend on inputs. Defines free choice, tip events, causal completeness and tightness, three kinds of composition, and a lattice of spaces; proves that the maximal causally complete spaces are exactly the causal switch spaces; and finds 2644 complete spaces on 3 binary-input events, against 19 from definite orders. | Read |
+| [NOTE-646](../../../record/notes.d/NOTE-646.md) | Combining contextuality and causality | Extends sheaf-theoretic contextuality to causal scenarios by an enabling relation on measurements and a game reading: Nature's deterministic strategies, which may depend on causal history, replace the event sheaf, and the Abramsky–Brandenburger definitions then go through. Recovers flat contextuality and causal Bell scenarios, and expresses adaptive MBQC by Experimenter strategies. The strategy presheaf is not a sheaf: compatible deterministic local strategies can have no gluing or several. | Read |

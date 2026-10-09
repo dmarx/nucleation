@@ -64,7 +64,7 @@ sense.
 
 ## A qualification from the language data
 
-Wang, Sadrzadeh, Abramsky and Cervantes ([LIT-tmp9rgb4](../literature.d/LIT-tmp9rgb4.md), [NOTE-tmpj1l5b](../notes.d/NOTE-tmpj1l5b.md)) find that
+Wang, Sadrzadeh, Abramsky and Cervantes ([LIT-842](../literature.d/LIT-842.md), [NOTE-645](../notes.d/NOTE-645.md)) find that
 ambiguity alone never yields contextuality in their phrase data. But their
 one contextual model, tap/box, is of Hardy type, and it still has two
 global assignments. So "a contextual one admits none" holds only for
