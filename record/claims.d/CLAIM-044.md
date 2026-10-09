@@ -19,6 +19,8 @@ complements:
 - CLAIM-037
 uses:
 - TERM-002
+grounds:
+- LIT-tmph7en9
 summary: >-
   A81 §3.4 and A82 §8.7, recovered. The manuscript keeps the contrast
   between context sensitivity and contextuality but not this one,
@@ -47,3 +49,15 @@ ambiguity, and gives the parity case ([CASE-035](../cases.d/CASE-035.md)), which
 never says that the two are opposite failures of a unique global reading. That
 contrast is what would let a chain be described as becoming more ambiguous
 without becoming more contextual ([CLAIM-105](CLAIM-105.md)).
+
+## Sharpened by Abramsky and Sadrzadeh
+
+Abramsky and Sadrzadeh's Semantic Unification ([LIT-tmph7en9](../literature.d/LIT-tmph7en9.md), [NOTE-tmp3cvly](../notes.d/NOTE-tmp3cvly.md))
+treats ambiguity as a choice among several admissible covers. Each cover
+glues at most once. A failure to glue is inconsistency, a third thing
+beside ambiguity and contextuality.
+
+So in that framework, "several compatible global assignments" means
+several covers, not several sections over one cover. The paper models
+ambiguity and context dependence only, not contextuality in the formal
+sense.
