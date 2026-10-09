@@ -1,9 +1,45 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-09 from catalogue records, not read: no lawful full text of either English edition was reachable. HathiTrust holds four copies of the 1958 edition, all Limited (search-only) with rights code und (undetermined, flagged for further investigation), and the 1968 edition as Limited (ic); the Internet Archive has the 1968 edition and the 2015 Martino reprint of the 1958 text only as access-restricted lending items, and its one unrestricted item is an individual''s upload of excerpts from the 1968 edition, which is in copyright, not used. The 1958 edition may be in the US public domain (no renewal was found), but no full-view copy of it exists in any source tried. No NOTE is filed. It stays Deferred until a copy is supplied, not on merit. The Russian original is [LIT-tmppp40q](LIT-tmppp40q.md).'
+status: Active
+status_note: 'skimmed 2026-10-09 ([NOTE-tmpxboen](../notes.d/NOTE-tmpxboen.md)) in the 1968 edition: Dundes''s introduction and chs. II–III (pp. 19–65), from copies on University at Buffalo and MIT web pages; the 1958 edition was not seen. Worth reading as the text through which most readers outside Russia met Propp. Chs. II–III carry the four theses and all 31 functions with their definitions and signs, matching the record''s reading of the Russian ([NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md)), but with Latin and Greek signs that differ from the Cyrillic. It names the class "fairy tales" under a title its own introducer calls misleading, and alternates "dramatis personae" with "characters". Wagner''s 41 notes in those two chapters correct Propp''s tale citations and renumber the tales to the later Afanas''ev numbering. The seven roles (ch. VI) were not read.'
 title: 'Morphology of the Folktale'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Skimmed (NOTE-tmpxboen) under the owner's widened access rule of
+    2026-10-09, which admits copies posted by universities or academics
+    on institutional domains. Read in the 1968 second edition from two
+    such copies. (1) University at Buffalo, Office of Advancement,
+    "Loyal Blues" book club:
+    https://www.buffalo.edu/content/dam/www/advancement/loyalblues/bookclub/MorphologyoftheFolktale.pdf.
+    This is an annotated photocopy (25 PDF pages, created 20 August
+    2014) of the 1968 title page and pp. 18–65, i.e. chs. II–III with
+    Wagner's notes. Curl was refused (Akamai 403), so the file was
+    fetched with the WebFetch tool. (2) MIT,
+    https://web.mit.edu/allanmc/www/propp.pdf, a personal page in MIT's
+    web space whose owner could not be identified (the directory index
+    is closed). It is a retyped transcript (2005, 46 pp.) headed
+    "Excerpts from… Translation ©1968", holding Dundes's Introduction to
+    the Second Edition and chs. II–III without Wagner's notes, and is
+    the same text as the Internet Archive upload declined in version 1.
+    Both are in-copyright 1968 text, used because the owner's rule
+    admits institutional copies; the coordinator should confirm. Other
+    sources tried on 2026-10-09. The Ionian University open-courses
+    site (opencourses.ionio.gr, course DAVA207, "Μουσική, Πολυμέσα και
+    Αλγόριθμοι") lists a PDF of the 2nd edition at
+    modules/document/file.php/DAVA207/Propp_Vladimir_Morphology_of_the_Folktale_2nd_ed.pdf;
+    it answered 403 to curl and to WebFetch, and the Wayback Machine
+    holds no capture of it (its CDX index has other files of that
+    course, not this one). A search engine's summary of that file says
+    Wagner's preface reports changes to the 1958 text "for the sake of
+    completeness and uniformity"; the preface was not read, so this is
+    not asserted. A copy on monoskop.org (a web archive run by
+    individuals, not an institution) appeared in search results and was
+    not opened. No full-view scan of the 1958 edition was found; the
+    copyright evidence of version 1 stands unchanged. Nothing on the
+    page bears on the 1958 edition's status, since only the 1968 text
+    was seen.
 - version: 1
   date: '2026-10-09'
   note: >-
@@ -88,8 +124,11 @@ summary: >-
   3); 2nd ed., revised and edited by Louis A. Wagner, introduction by Alan
   Dundes, University of Texas Press, 1968. The English translation of
   Морфология сказки (1928), held as [LIT-tmppp40q](LIT-tmppp40q.md) and read there in
-  Russian. Not read: no lawful full text of either English edition was
-  reachable.
+  Russian. Skimmed in the 1968 edition (chs. II–III and Dundes's
+  introduction): the four theses and 31 functions match the Russian
+  reading; the genre and character terms shift ("folktale", "fairy
+  tale", "dramatis personae"); and Wagner's notes correct Propp's tale
+  references and renumber the tales.
 ---
 
 # LIT-tmpqs4hi: Morphology of the Folktale
@@ -106,30 +145,37 @@ DOI-10.7560/783911
 
 ## Key takeaways
 
-*Filed, not read*: no lawful full text of either edition was reachable
-(see the history note). The record's reading of the book is of the 1928
-Russian, [LIT-tmppp40q](LIT-tmppp40q.md) and its NOTE, [NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md). What the catalogues
-alone show about the English text:
+From a skim of the 1968 edition: Dundes's introduction and chs. II–III,
+pp. 19–65 ([NOTE-tmpxboen](../notes.d/NOTE-tmpxboen.md)). The record's full reading is of the 1928
+Russian, [LIT-tmppp40q](LIT-tmppp40q.md) and [NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md).
 
-- **The 1968 edition's parts**, from Crossref's chapter records: Preface
-  to the Second Edition (Wagner); Introduction to the Second Edition
-  (Dundes); Introduction to the First Edition (Pirkova-Jakobson);
-  Acknowledgements; Author's Foreword; chapters I–IX; and five
-  appendices, the last a "Comparative Chart of Tale Numbers". The extra
-  front matter accounts for most of the growth from x + 134 to
-  xxvi + 158 pages.
-- **Its terms, from the chapter titles.** "The Functions of Dramatis
-  Personae" (ch. III), "Assimilations: Cases of the Double Morphological
-  Meaning of a Single Function" (ch. IV), "The Distribution of Functions
-  Among Dramatis Personae" (ch. VI), "Ways in Which New Characters Are
-  Introduced into the Course of Action" (ch. VII), "On the Attributes of
-  Dramatis Personae and their Significance" (ch. VIII), "The Tale as a
-  Whole" (ch. IX). Propp's *действующие лица* is "dramatis personae"
-  where the record's reading of the Russian says "characters"; his
-  *сказка* in the title is "folktale", while the record's reading renders
-  the *волшебная сказка* he studies as "wondertale". Whether the text
-  names the 31 functions and the seven spheres of action as [NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md)
-  does could not be checked.
+- **The method and the inventory come through intact.** Ch. II gives
+  the four theses, among them "The sequence of functions is always
+  identical" and "All fairy tales are of one type in regard to their
+  structure". Ch. III gives the 31 functions, from absentation (β) to
+  wedding (W), each with a capitalised summary, a one-word definition
+  and a sign, after the initial situation (α), with lack as VIIIa.
+  Function is "an act of a character, defined from the point of view of
+  its significance for the course of the action".
+- **The genre word shifts.** The title says "Folktale", the text studies
+  "fairy tales" (Aarne 300–749), and the record's reading of the Russian
+  says "wondertale". Dundes, in the edition itself: "The English title
+  Morphology of the Folktale is misleading."
+- **The character word splits.** "Dramatis personae" in the chapter
+  title and the function headings, "characters" in the theses,
+  "personages" for newcomers. The Russian reading has one word.
+- **The signs are not the Russian ones.** Struggle–victory is H–I and
+  difficult task–solution M–N in English, with branding J and mediation
+  B. The Russian reading writes these pairs in Cyrillic (Б–П, З–Р).
+- **The 1968 apparatus corrects the source.** Wagner's 41 notes in chs.
+  II–III check Propp's examples against Afanas'ev. They fix wrong tale
+  references, including a misreading that recurs in Appendix II, and
+  renumber all tales to the new Afanas'ev numbering: Propp's 50–151
+  become 93–270.
+- **Dundes's frame.** Propp's analysis is "syntagmatic", inductive and
+  replicable, against Lévi-Strauss's "paradigmatic" one. Propp left
+  context aside. Dundes lists extensions to other genres and cultures
+  and notes that the scheme has been programmed for a computer.
 
 ## Standing in the record
 
@@ -149,6 +195,13 @@ nothing yet shows a substantive difference that would justify a second
 entry. If a reading finds one (in the terms, the functions or the
 schemes), the 1968 edition should be split out with its own LIT.
 
-It stays Deferred until a lawful copy is supplied. A reading should compare
-the translation with [NOTE-tmpa8ntc](../notes.d/NOTE-tmpa8ntc.md) where it matters: the function names,
-the 31 functions with their symbols, and the seven roles.
+The 1968 edition was skimmed on 2026-10-09
+([NOTE-tmpxboen](../notes.d/NOTE-tmpxboen.md)); the 1958 edition has still not been seen. The skim
+found the 1968 differences to lie in the apparatus: Wagner's notes,
+corrections of Propp's tale references, and the renumbering of the tales.
+The theses and functions of chs. II–III match the Russian. The signs
+and some terms are the translation's own, and nothing seen shows
+whether they differ from 1958. That is not yet the substantive difference that would split the
+1968 edition into its own LIT, but it is a difference in the text's
+references, which the 1958 edition very probably lacks. A reading of the
+1958 text, or of Wagner's preface, should settle it.

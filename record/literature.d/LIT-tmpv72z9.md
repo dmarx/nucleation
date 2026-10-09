@@ -1,9 +1,35 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-09 from catalogue records, not read: no lawful full text of the English edition was reachable. The Internet Archive holds the 1970 Basic Books, 1971 Harper & Row and 1973 Routledge printings only as access-restricted, print-disabled lending items; HathiTrust holds the 1970 Basic Books edition as Limited (search-only); the 2015 Psychology Revivals reissue is sold, not open. No NOTE is filed. It stays Deferred until a copy is supplied, not on merit. The French original is [LIT-tmp8ibhd](LIT-tmp8ibhd.md).'
+status: Active
+status_note: 'skimmed 2026-10-09 ([NOTE-tmpbo3ud](../notes.d/NOTE-tmpbo3ud.md)), thinly: the publisher''s Google Books preview of the 2015 reissue served only 17 pages of text, pp. 3–63 at one page in four and p. 69, all in chs. I–IV, and none of the chapters on linguistics, the social sciences or philosophy, nor the conclusion. Worth reading as Piaget''s definition of structure by wholeness, transformation and self-regulation, and for his distinction between logico-mathematical structures, whose operations all have inverses (groups), and linguistic, social and psychological structures, whose transformations unfold in time under regulations that are "not entirely reversible". He argues that a structure must be "governed from within" to be real, and defines the subject as "the center of functional activity". Read it with the caveat that the skim saw the argument in fragments.'
 title: 'Structuralism'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Skimmed (NOTE-tmpbo3ud) under the owner's widened access rule of
+    2026-10-09, which admits publisher and Google Books previews. The
+    publisher's preview on Google Books of the Psychology Revivals
+    reissue (volume SmoGCAAAQBAJ, ISBN 9781317524779, "partial view")
+    served, as page images, the copyright page, the title page
+    (Routledge and Kegan Paul, London, 1971, reproduced), the first
+    contents page and pp. 3, 7, 11, 15, 19, 23, 27, 31, 35, 39, 43, 47,
+    51, 55, 59, 63 and 69. All other pages returned "image not
+    available", and no further pages were sought. Pages were OCR'd with
+    tesseract. Other sources tried on 2026-10-09, besides those of
+    version 1: the Google Books pages for ISBN 0465082386 (Basic Books,
+    1970; volume GSnxHZZOZmQC) and the Routledge hardback ISBN
+    9781138854482 show snippet view only, and the Google Books API
+    again returned a quota error (HTTP 429). The Internet Archive's The
+    Essential Piaget (essentialpiaget0000jean, Basic Books, 1977), which
+    reprints ch. I, is an access-restricted lending item. Web searches
+    for copies on university domains (.edu, .ac.uk, .edu.au, syllabi
+    and course pages) found only catalogue records and reviews. A PDF
+    of the book is posted by a private reading group on structuralism.ca
+    ("What Is Structuralism?", Vancouver, 2019), which names no
+    institution; it is an individual's upload of an in-copyright book
+    and was not opened. A Scribd document titled as from "Anna's
+    Archive" (a shadow library) exists and was not opened.
 - version: 1
   date: '2026-10-09'
   note: >-
@@ -57,11 +83,13 @@ implementations: []
 summary: >-
   Piaget (1970), Structuralism, trans. and ed. Chaninah Maschler, Basic
   Books (London: Routledge and Kegan Paul, 1971; reissued 2015). The
-  English edition of Le structuralisme (1968), held as [LIT-tmp8ibhd](LIT-tmp8ibhd.md). By its
-  publishers' descriptions, an introduction to structuralism as a method
-  across mathematics, physics and biology, psychology, linguistics and the
-  social sciences, with a critique of its main positions. Not read: no
-  lawful full text was reachable.
+  English edition of Le structuralisme (1968), held as [LIT-tmp8ibhd](LIT-tmp8ibhd.md).
+  Skimmed thinly from a publisher's preview (17 pages of chs. I–IV): a
+  structure is a whole under laws of composition, a system of
+  transformations and self-regulating. Logico-mathematical structures
+  are fully reversible (groups); linguistic and social ones are
+  regulated in time but not fully reversible; and a structure is real
+  only if governed from within.
 ---
 
 <!-- inactive-ok-file: LIT-tmp8ibhd — Deferred; named as the French original of this translation -->
@@ -75,17 +103,32 @@ Press, 2015 — DOI-10.4324/9781315722368
 
 ## Key takeaways
 
-*Filed, not read*: no lawful full text was reachable (see the history
-note). Known here only by catalogue and publisher descriptions, which are
-not this record's reading. The reissue's table of contents, as its
-publisher (Routledge, ISBN 9781138854482) lists it, runs: introduction and location of problems;
-mathematical and logical structures; physical and biological structures;
-psychological structures; linguistic structuralism; structural analysis in
-the social sciences; structuralism and philosophy; conclusion. Its
-publisher calls it an introduction to the method with a critique of the
-principal structuralist positions, evaluating Lévi-Strauss, Foucault,
-Parsons and Chomsky, and says it was "originally published in English in
-1971" (the London edition; the New York edition is of 1970). Nothing beyond that description is asserted here.
+From a skim of 17 pages of chs. I–IV, one page in four
+([NOTE-tmpbo3ud](../notes.d/NOTE-tmpbo3ud.md)); the chapters on linguistics, the social sciences and
+philosophy were not seen.
+
+- **Structure is defined by wholeness, transformation and
+  self-regulation.** The elements of a structure "are subordinated to
+  laws", and those laws give the whole properties its elements lack
+  (p. 7). "All known structures—from mathematical groups to kinship
+  systems—are, without exception, systems of transformation", though
+  "transformation need not be a temporal process" (p. 11).
+- **Two grades of self-regulation** (p. 15). In logic and mathematics
+  an operation is "a 'perfect' regulation": every operation has its
+  inverse in the system. Linguistic, sociological and psychological
+  structures transform in time under regulations "not entirely
+  reversible".
+- **Groups as prototype** (p. 19). The group concept comes from
+  "reflective abstraction", from coordinations of our actions, not from
+  properties of things. With Bourbaki, group structure "is quite
+  independent of the intrinsic nature of its elements" (p. 23).
+- **Form and content are relative** (p. 35). Each level is form to the
+  one below and content to the one above, so the limits of
+  formalization move.
+- **Against "pure" structures** (pp. 55–69). Gestalt structures are
+  "functionless and detached from the subject". Real structures must be
+  "governed from within", and the subject is "the center of functional
+  activity".
 
 ## Standing in the record
 
@@ -93,6 +136,8 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 `what-survives-translation`) at the owner's request, as the English
 edition of the French original the record already holds,
 [LIT-tmp8ibhd](LIT-tmp8ibhd.md) (*Le structuralisme*, Presses Universitaires de France, 1968).
-The two entries are separate filings of one work in two languages; neither
-has been read. See the curation entry of that day. It stays Deferred until
-a lawful copy is supplied.
+The two entries are separate filings of one work in two languages. The
+French has not been read. The English was skimmed on 2026-10-09 from a
+publisher's preview ([NOTE-tmpbo3ud](../notes.d/NOTE-tmpbo3ud.md)), which covers about an eighth of the
+book. See the curation entry of that day. A fuller reading needs a copy
+of chs. V–VII and the conclusion.

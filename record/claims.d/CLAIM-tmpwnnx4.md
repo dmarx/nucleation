@@ -60,3 +60,9 @@ of changes of medium."
 That all of this is a group: the manuscript's setting is a semigroup ([CLAIM-tmpse4aa](CLAIM-tmpse4aa.md)).
 The Aut(F) direction, studying identity from the structure's side, did not reach
 the manuscript.
+
+## Prior statement in Piaget
+
+Piaget, *Structuralism*, p. 11 ([LIT-tmpv72z9](../literature.d/LIT-tmpv72z9.md), skimmed): "all known
+structures … are … systems of transformation". The book makes
+transformation, not only relation, constitutive of structure.

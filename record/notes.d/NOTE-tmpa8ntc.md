@@ -181,7 +181,8 @@ of tales (named here as a separate study) and the historical roots of the
 wondertale. Doja, Capocchi and Santucci ([LIT-tmp9axrl](../literature.d/LIT-tmp9axrl.md)) list Propp's
 morphology among the narrative formalisations computational work has
 attempted. Lévi-Strauss's structural analysis of myth ([LIT-775](../literature.d/LIT-775.md), unread)
-is the usual counterpoint; the 1969 Italian edition carried his
+is the usual counterpoint; the Italian edition (1966 by Dundes's dating in the 1968
+English edition, [NOTE-tmpxboen](NOTE-tmpxboen.md); this note first gave 1969) carried his
 intervention and Propp's reply (per Open Library), not read here.
 
 ## Bearing on the record

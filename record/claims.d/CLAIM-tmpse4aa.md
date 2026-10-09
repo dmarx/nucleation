@@ -51,3 +51,10 @@ another that is already in the myth merges the two, and nothing can
 separate them again. The operations form a monoid, as this claim expects
 of transformations in general. This is the reader's observation, not the
 paper's.
+
+## Prior statement in Piaget
+
+Piaget's *Structuralism* ([LIT-tmpv72z9](../literature.d/LIT-tmpv72z9.md), skimmed from the publisher's preview,
+[NOTE-tmpbo3ud](../notes.d/NOTE-tmpbo3ud.md)) makes the same distinction on p. 15. Logico-mathematical
+structures are fully reversible operations, which are groups. Linguistic and
+social transformations are "not entirely reversible".
