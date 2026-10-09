@@ -57,3 +57,14 @@ A93 §2, the bibliography (U33), recommended it again: formal concept analysis
 observable constraints, through concept extents, intents, and lattice
 structure". It had already fallen out of the proposals, and proposal v6 (A100)
 did not restore it.
+
+## What its own source says
+
+Ganter and Wille's preface (LIT-344, read from the publisher's free front
+matter only; the book is not read) says formal concept analysis "does not
+strive to explain conceptual thinking". Applying it to human concepts is "a
+matter for the experts in the respective science". The lattice mathematics
+is available (Fong and Spivak's Galois connections and closures, LIT-tmp8x9r8),
+but the claim that communicative categories *are* a concept lattice is not
+the book's, and it would need psychology's evidence.
+

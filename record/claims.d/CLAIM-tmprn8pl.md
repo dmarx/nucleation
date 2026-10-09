@@ -12,6 +12,7 @@ works:
 grounds:
 - THEORY-158
 - LIT-773
+- THEORY-tmp3dh4x
 objects_to:
 - CLAIM-tmpuwwjx
 summary: >-
@@ -19,6 +20,7 @@ summary: >-
   is the mean-only condition, which the cited theorem's counterexample
   shows is weaker than commuting with the generator.
 ---
+<!-- inactive-ok-file: THEORY-tmp3dh4x — Proposed; Baez's account of Noether, cited for why the Markov case differs, not as settled -->
 
 # CLAIM-tmprn8pl: A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry
 
@@ -38,3 +40,13 @@ the manuscript's drift bound is correct. Whether Kf = f together with K(f²) =
 f² gives the discrete-time analogue of the theorem is the record's
 extrapolation; Baez and Fong treat continuous time only, and only diagonal
 observables, so symmetries that permute states are out of scope.
+
+## Why the Markov theorem is the one that applies
+
+Baez's account of Noether's theorem (LIT-tmpionqf, NOTE-tmpjlwej,
+THEORY-tmp3dh4x) puts the equivalence of symmetry and conservation in an
+antisymmetric bracket between observables, with reversible one-parameter
+groups. A Markov kernel has neither. The manuscript's setting is therefore
+the Baez–Fong case, where the mean alone is not enough, and not the
+Hamiltonian case where it would be. This is the record's connection; neither
+paper draws it.
