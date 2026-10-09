@@ -16,7 +16,18 @@ promote_when: >-
   non-orthogonal cos and sin components would refute the character-product
   reading while leaving the Fourier-sparsity finding intact.
 title: 'The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    At the owner's request, Liu et al. 2022 (LIT-858, read in NOTE-662)
+    added as a source: the earliest work in the record to see the circle
+    in modular-addition embeddings, by PCA only, eight months before Nanda
+    et al. Its S₃ experiment noted under what this does not say. Karkada
+    et al. 2026 (LIT-tmp06otw, read in NOTE-tmprkfaf) added as a source for
+    the data side of "the group comes from the task". The claim is
+    unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -24,6 +35,8 @@ tags:
 date: '2026-09-30'
 source:
 - LIT-345
+- LIT-858
+- LIT-tmp06otw
 - LIT-322
 - LIT-341
 - LIT-305
@@ -38,6 +51,7 @@ summary: >-
   evidence that a network discovered the group, which was given, or that the
   frequencies could be read off a spectrum.
 ---
+<!-- inactive-ok-file: THEORY-tmp1cak6 — Proposed; cited as the data-side mechanism, not as settled -->
 
 # THEORY-022: The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
@@ -45,6 +59,8 @@ summary: >-
 
 - Nanda, Chan, Lieberum, Smith & Steinhardt (2023), [LIT-345](../literature.d/LIT-345.md), §§4–5 and Apps B–D, as read in [NOTE-283](../notes.d/NOTE-283.md).
 - Engels et al. (2024), [LIT-322](../literature.d/LIT-322.md), §5 and App. K, as read in [NOTE-273](../notes.d/NOTE-273.md).
+- Liu, Kitouni, Nolte, Michaud, Tegmark & Williams (2022), [LIT-858](../literature.d/LIT-858.md), Fig. 1, Fig. 2d and App. H, as read in [NOTE-662](../notes.d/NOTE-662.md).
+- Karkada, Korchinski, Nava, Wyart & Bahri (2026), [LIT-tmp06otw](../literature.d/LIT-tmp06otw.md), §§3–4 and Fig. 4, as read in [NOTE-tmprkfaf](../notes.d/NOTE-tmprkfaf.md).
 - Power et al. (2022), [LIT-341](../literature.d/LIT-341.md), §3.1 and §3.4, as read in [NOTE-287](../notes.d/NOTE-287.md).
 - The machinery: the convolution theorem (Kondor & Trivedi, [LIT-305](../literature.d/LIT-305.md), Prop. 2) and characters of finite abelian groups (O'Donnell, [LIT-346](../literature.d/LIT-346.md), §8.5).
 
@@ -78,6 +94,25 @@ regression on Llama months adds frequency-2 and sign characters of ℤ/12
 Llama 3 8B. Power et al. saw only a qualitative t-SNE "number line" in the
 output layer ([NOTE-287](../notes.d/NOTE-287.md)).
 
+**The earliest sighting.** Liu et al. ([LIT-858](../literature.d/LIT-858.md), v1 May 2022) saw the circle
+first: in the top two principal components of a transformer's embeddings
+for modular addition (Fig. 1), and in a toy whose embeddings are summed and
+decoded (Fig. 2d). They give no Fourier analysis and no frequencies, so this
+is the circle without its characters. In the toy, the operation, a sum, is
+built into the architecture, which is another case of the group coming from
+the task ([NOTE-662](../notes.d/NOTE-662.md)).
+
+**Where the group sits in language data.** Karkada et al. ([LIT-tmp06otw](../literature.d/LIT-tmp06otw.md))
+give the data-side mechanism for word embeddings. When co-occurrence among
+words on a latent cycle, such as the months, depends only on their
+separation, the co-occurrence matrix is circulant, and a spectral embedding
+places the words on its Fourier modes ([THEORY-tmp1cak6](THEORY-tmp1cak6.md)). The ℤ/12 is then in
+the corpus statistics, and Engels et al.'s frequency-2 month component is the
+next harmonic. Their embeddings are computed by diagonalising the matrix,
+not trained, and they do not test Llama or Mistral, so this explains where
+the circle could come from in a language model without showing that it does
+([NOTE-tmprkfaf](../notes.d/NOTE-tmprkfaf.md)).
+
 ## What this does not say
 
 - **That networks find the group.** Nanda et al. chose the DFT because they
@@ -88,7 +123,10 @@ output layer ([NOTE-287](../notes.d/NOTE-287.md)).
   are not Fourier-sparse ([NOTE-283](../notes.d/NOTE-283.md)). The founding grokking run used no weight
   decay ([NOTE-287](../notes.d/NOTE-287.md)).
 - **Anything about non-abelian tasks.** Whether S₅ generalisers use
-  higher-dimensional irreducibles is untested ([NOTE-283](../notes.d/NOTE-283.md)).
+  higher-dimensional irreducibles is untested ([NOTE-283](../notes.d/NOTE-283.md)). Liu et al.'s S₃
+  experiment ([LIT-858](../literature.d/LIT-858.md), App. H) does not test it: its embeddings are
+  learnable 3 × 3 matrices multiplied by hand, so a matrix representation
+  is imposed, not found ([NOTE-662](../notes.d/NOTE-662.md)).
 - **That language models do modular arithmetic this way.** Both models get
   trivial accuracy on plain modular prompts. The downstream algorithm is only
   suggested ([NOTE-273](../notes.d/NOTE-273.md)).

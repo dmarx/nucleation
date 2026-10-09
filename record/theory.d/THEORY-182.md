@@ -25,6 +25,8 @@ summary: >-
   and the prediction matches trained word2vec far better than truncated PMI.
   It is shown for a proxy of word2vec, not for word2vec, and the dynamics
   are an approximate derivation.
+supports:
+- CLAIM-082
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
 

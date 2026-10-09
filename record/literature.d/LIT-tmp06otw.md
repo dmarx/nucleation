@@ -1,0 +1,149 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmprkfaf](../notes.d/NOTE-tmprkfaf.md)); worth reading as a derivation of the circles, rippled curves and curved sheets found in language-model representations of months, years and places from one property of the data: when the co-occurrence of two words on a latent continuum depends only on their separation, the matrix the embedding factorises is circulant or Toeplitz, so its eigenvectors are sinusoids of the latent coordinate. For a full-rank spectral word embedding the paper proves the principal components are Fourier modes with amplitudes set by the kernel''s Fourier transform, solves the open-boundary exponential kernel exactly (a Sturm–Liouville problem), and bounds linear decoding of the coordinate by the missing Fourier tail (ε² ≲ r^(−1/D)). It measures the symmetry in Wikipedia statistics, shows the month circle survives zeroing every month–month co-occurrence, and explains that by a seasonal latent variable that couples many words. The "word embeddings" are explicit factorisations of the co-occurrence matrix, not trained networks; the language-model evidence is PCA pictures of Gemma 2 2B and EmbeddingGemma; the robustness argument is a perturbation sketch.'
+title: 'Symmetry in language statistics shapes the geometry of model representations'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09, with no stated context,
+    together with arXiv 2510.02670 and right after the batch of five papers
+    on the theory of trained networks (LIT-855 to LIT-859). Read in full the
+    same day (NOTE-tmprkfaf) from the arXiv PDF of v3 (29 June 2026, 36 pp.,
+    the ICML 2026 camera-ready), text extracted with pdftotext: §§1–5,
+    Limitations, Appendices A–E with every proof followed; figures read from
+    captions, labels and text. Identified from the arXiv abstract page:
+    five authors, Dhruva Karkada (UC Berkeley), Daniel J. Korchinski (EPFL),
+    Andres Nava (Johns Hopkins), Matthieu Wyart (EPFL, Johns Hopkins) and
+    Yasaman Bahri (Google DeepMind); v1 submitted 16 February 2026, v2
+    25 February 2026, v3 29 June 2026 with the comment "ICML 2026". The
+    title and authors are the same in all three versions; v3 rewrites the
+    abstract (v1's opened on learned representations in general and ended
+    "We empirically validate this theoretical framework…"). v1 and v2 were
+    not read beyond their abstracts. The PMLR volume page confirms the
+    published version: Proceedings of the 43rd International Conference on
+    Machine Learning, PMLR 306:56137–56172, volume published 29 September
+    2026, with the second author given as Daniel James Korchinski. PMLR
+    assigns no DOI, and a Crossref bibliographic query by title and authors
+    found none. `published:` is the arXiv v1 date, 16 February 2026, the
+    earliest any source gives (ADR-002). Not held in nucleation before this
+    filing: a grep of record/ for the identifier, the title, Korchinski and
+    Wyart found nothing (Karkada appears only through LIT-855). Not held in
+    the Anthology of the SOTA as far as its clone shows: a grep of its
+    record/ (clone at commit d8b5ba5, 9 October 2026, possibly stale) for the
+    identifier, the title and the authors found nothing. The anthology's
+    `concept-geometry` and `signal-structure` topics could hold it, hence
+    `anthology-candidate`; it holds the word-embedding works the paper
+    builds on (ANTH-LIT-604, ANTH-LIT-602, ANTH-LIT-613). The authors' code is
+    at github.com/dkarkada/symmetry-stats-repgeom (not inspected).
+tags:
+- representation-learning
+- mathematics
+- anthology-candidate
+date: '2026-10-09'
+published: '2026-02-16'
+arxiv: '2602.15029'
+first_author: 'Karkada'
+keywords:
+- 'representational geometry'
+- 'translation symmetry'
+- 'co-occurrence statistics'
+- 'word embeddings'
+- 'feature manifolds'
+- 'Fourier modes'
+- 'linear probes'
+- 'latent variable model'
+implementations: []
+summary: >-
+  Karkada, Korchinski, Nava, Wyart and Bahri (2026), ICML 2026 (PMLR
+  306:56137–56172). If co-occurrence among words on a latent continuum
+  depends only on their separation, a full-rank spectral word embedding
+  places them on Fourier modes of the latent coordinate: circles for cyclic
+  concepts, open curves with harmonic ripples for intervals, curved sheets
+  for maps, all proved for that model with the exponential kernel solved
+  exactly. Wikipedia's month and year statistics fit the symmetry; Gemma 2
+  and EmbeddingGemma show matching PCA pictures; the geometry survives
+  removing the words' mutual co-occurrences, which a seasonal latent
+  variable shared by many words explains.
+---
+<!-- inactive-ok-file: THEORY-tmp1cak6 THEORY-182 THEORY-022 THEORY-019 — Proposed; cited as what this reading produced or bears on -->
+
+# LIT-tmp06otw: Symmetry in language statistics shapes the geometry of model representations
+
+Dhruva Karkada, Daniel J. Korchinski, Andres Nava, Matthieu Wyart and
+Yasaman Bahri (2026), *Proceedings of the 43rd International Conference on
+Machine Learning*, PMLR 306:56137–56172 — [ARXIV-2602.15029](https://arxiv.org/abs/2602.15029)
+
+## Key takeaways
+
+- **The object.** For any word set S on a latent continuum (the 12 months,
+  the years 1700–2020, the 48 contiguous US states), the paper studies the
+  submatrix of M*_ij = (P_ij − P_iP_j)/(½(P_ij + P_iP_j)), which agrees
+  with PMI to third order (Appendix B.4). Word embeddings are the
+  factorisation of M* taken from [LIT-855](LIT-855.md); the paper extends it to untied
+  word and context matrices under a special initialisation, so that the
+  Gram matrix W Wᵀ is |M*|, the matrix absolute value (Appendix B.2).
+- **The assumption.** Translation symmetry: P_ij = P_iP_j C̃(dist(x_i, x_j))
+  for i, j in S, so M*_S depends only on the separation of the latent
+  coordinates (Assumption 3.1, with M* positive semidefinite; Assumption
+  B.1 asks the same of M⁺ and M⁻ separately).
+- **The theorems.** With d ≥ rank M* (no compression), the PCA coordinates
+  of the embeddings are sinusoids of the latent coordinate, in degenerate
+  cos/sin pairs, with amplitude the square root of the kernel's Fourier
+  transform at that wavevector (Proposition 1, any lattice dimension,
+  periodic boundary; the proof is the diagonalisation of circulant
+  matrices). For the exponential kernel e^(−|Δx|/σ) the amplitudes are
+  √(2σ/(1 + σ²k²)): periodic boundary gives integer frequencies and a
+  closed loop (Corollary 2); open boundary gives non-integer wavenumbers
+  fixed by tan k = −σk (odd modes) and a centred-cosine condition (even
+  modes), solved exactly as a Sturm–Liouville problem (Proposition 3).
+  Projections onto any two components are Lissajous curves; the "ripples"
+  and the "calendar Pringle" are the higher harmonics.
+- **Linear decoding.** If the eigenvalues fall with |k|, the best rank-r
+  linear probe reconstructs the coordinate's truncated Fourier series, and
+  the relative error is at most (6/π²)(L²/(L² − 1))((r/Vol_D)^(1/D) − √D/2)⁻¹,
+  so ε² ∼ r^(−1/D) (Proposition 4, periodic lattice). Measured on years
+  1900–2020 with a double-descent peak at the interpolation threshold.
+- **The measurement.** Month and year submatrices of Wikipedia's M* are
+  close to circulant and Toeplitz and fit a (periodised) exponential kernel
+  off the diagonal (Figures 5–6). M* itself is not positive semidefinite:
+  its positive and negative parts have comparable rank (Figure 7), so the
+  fitted kernel is not the one factorised, and absolute amplitudes are
+  mispredicted while relative amplitudes and wavenumbers fit.
+- **Collective robustness.** Zeroing every month–month entry of M* still
+  yields the month circle at d = 1000 ≪ V = 25,000, and ten seasonal words
+  suffice to recover the order, while seventeen number words do not
+  (Figures 4, 15–17). A model in which a seasonal latent variable modulates
+  many words makes the PMI circulant with eigenvalues growing with the
+  number of words N, so a fixed perturbation leaves the top eigenvectors
+  in place "using the Weyl or Davis–Kahan theorem" (§4.1, a sketch).
+  Appendix D adds binary attributes (Korchinski et al.'s analogy model) and
+  shows the seasonal and attribute subspaces are orthogonal (Theorem 5).
+- **Language models.** PCA of Gemma 2 2B residual activations (last token
+  of a template prompt) and EmbeddingGemma vectors shows the same circles,
+  curves and slowly varying geographic modes (Figures 1, 3, 12, 14). The
+  comparison is visual; nothing ties the models' geometry causally to the
+  co-occurrence statistics.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, with no stated context. It came
+together with arXiv 2510.02670, and directly after the batch of five papers
+on the theory of trained networks ([LIT-855](LIT-855.md) to [LIT-859](LIT-859.md); see the curation
+entry of that day). It was read on its own merits ([NOTE-tmprkfaf](../notes.d/NOTE-tmprkfaf.md)), and the
+reading produces [THEORY-tmp1cak6](../theory.d/THEORY-tmp1cak6.md).
+
+It is the sequel of [LIT-855](LIT-855.md) (two of its authors are shared): it takes that
+paper's result that a word embedding is a spectral factorisation of M*
+([THEORY-182](../theory.d/THEORY-182.md)) and asks what the eigenvectors look like for words that lie
+on a continuum. It supplies a data-side account of the circles that
+[LIT-322](LIT-322.md) found in language models and that [THEORY-022](../theory.d/THEORY-022.md) reads as real irreducibles
+of a group, and its degenerate cos/sin pairs are an instance of
+[THEORY-019](../theory.d/THEORY-019.md).
+
+It carries `anthology-candidate`: it is about how concepts are laid out in
+model representations and about the statistics of language that produce
+them, which the anthology's `concept-geometry` and `signal-structure`
+topics cover. It stays here for now beside [LIT-855](LIT-855.md) and the record's
+symmetry-and-spectrum line.

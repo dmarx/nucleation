@@ -18,6 +18,9 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
+grounds:
+- LIT-859
+- THEORY-169
 summary: >-
   A43's first point about the U17 proposal, developed at A44–A45 into
   three sources of change (evidence, transient computation, parameters).
@@ -62,3 +65,30 @@ The evidence is mixed:
   hold the demonstrations fixed and also update the weights on them, and
   that beats conditioning alone (BIG-Bench Hard 50.5% to 57.8%). The two
   are behaviourally distinguishable.
+
+## An exactly solved case of the separation
+
+Mainali and Teixeira ([LIT-859](../literature.d/LIT-859.md), read in [NOTE-658](../notes.d/NOTE-658.md)) solve the training of one
+linear-attention layer on in-context regression exactly, when tasks and
+inputs share an eigenbasis. Training ends at a known fixed point: a
+predictor that applies a preconditioner, the inverse of the *training*
+input covariance corrected for context length, to each context's own
+empirical covariance (their Eq. 11). Each eigenmode of the training
+covariance is learned on its own slow, logistic timescale.
+
+That bears on the "against" item above. [THEORY-169](../theory.d/THEORY-169.md) makes conditioning one
+gradient step of an inner learner. This case shows what builds that inner
+learner: the outer weights, which change only over training, store a
+preconditioner fitted to the training distribution. The context then
+supplies only its own covariance and task. So even in the one class of
+system where conditioning *is* a learning step, there are two separate
+sources of change, on two timescales: the context, which changes the
+inner learner's data, and the weights, which change what the inner learner
+is. That is the claim's separation, at the level of the layer.
+
+It does not settle the claim. The case is one linear layer, with an
+assumption (weights staying in the shared eigenbasis) that is not derived,
+and the paper's evidence for non-linear transformers rests on timing
+coincidences ([NOTE-658](../notes.d/NOTE-658.md)). And the separation it shows is between the
+context and the trained interpreter, not between conditioning and later
+adaptation at test time.
