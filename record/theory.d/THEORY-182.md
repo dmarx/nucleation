@@ -1,5 +1,8 @@
 ---
+number: 182
 status: Proposed
+formerly:
+- THEORY-tmpw5yp5
 promote_when: >-
   A rigorous proof of the small-initialisation result (bounding the
   couplings Karkada et al. discard), or an independent analysis or
@@ -14,9 +17,9 @@ tags:
 - learning-theory
 date: '2026-10-09'
 source:
-- LIT-tmp2n2m4
+- LIT-855
 summary: >-
-  Karkada, Simon, Bahri and DeWeese (2025), [LIT-tmp2n2m4](../literature.d/LIT-tmp2n2m4.md): for the quartic
+  Karkada, Simon, Bahri and DeWeese (2025), [LIT-855](../literature.d/LIT-855.md): for the quartic
   approximation of word2vec with tied weights and symmetric, constant-weight
   reweighting, the minimisers are proved and the stepwise order is derived,
   and the prediction matches trained word2vec far better than truncated PMI.
@@ -25,13 +28,13 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
 
-# THEORY-tmpw5yp5: A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum
+# THEORY-182: A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum
 
 ## Source
 
-Karkada, Simon, Bahri and DeWeese (2025), [LIT-tmp2n2m4](../literature.d/LIT-tmp2n2m4.md), Theorem 1,
+Karkada, Simon, Bahri and DeWeese (2025), [LIT-855](../literature.d/LIT-855.md), Theorem 1,
 Proposition 2, Lemma 3.1, Result 3 and Figures 2, 3, 5 and 7, as read in
-[NOTE-tmpiys9p](../notes.d/NOTE-tmpiys9p.md).
+[NOTE-660](../notes.d/NOTE-660.md).
 
 ## What was actually shown
 

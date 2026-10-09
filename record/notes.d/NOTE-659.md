@@ -1,6 +1,9 @@
 ---
+number: 659
 status: Read
-paper: 'LIT-tmp55jc0'
+formerly:
+- NOTE-tmp8r19k
+paper: 'LIT-856'
 title: 'Small Singular Values Matter'
 version: 1
 history:
@@ -36,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-369 — Proposed; named as a neighbour in the random-matrix reading of trained weights, not leaned on -->
 <!-- inactive-ok-file: THEORY-078 — Proposed; named for the bulk-edge convention this reading qualifies, not as settled -->
 
-# NOTE-tmp8r19k: Small Singular Values Matter
+# NOTE-659: Small Singular Values Matter
 
 ## Contribution
 

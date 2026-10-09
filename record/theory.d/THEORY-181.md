@@ -1,5 +1,8 @@
 ---
+number: 181
 status: Proposed
+formerly:
+- THEORY-tmps9ng8
 promote_when: >-
   What would settle it is the same toy (two learned embeddings summed and
   decoded, addition hard-coded) run at several group sizes p. For each
@@ -22,10 +25,10 @@ tags:
 - anthology-candidate
 date: '2026-10-09'
 source:
-- LIT-tmptf5mc
+- LIT-858
 - LIT-341
 summary: >-
-  Liu et al. (2022), [LIT-tmptf5mc](../literature.d/LIT-tmptf5mc.md), in a toy built for it: same-answer
+  Liu et al. (2022), [LIT-858](../literature.d/LIT-858.md), in a toy built for it: same-answer
   training pairs force equal embedding sums, equal sums carry answers to
   unseen pairs, and for addition with p = 10 the fraction at which the
   forced equations first pin the embedding to a + kb (about 0.4) matches
@@ -37,12 +40,12 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->
 
-# THEORY-tmps9ng8: In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely
+# THEORY-181: In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely
 
 ## Source
 
-- Liu, Kitouni, Nolte, Michaud, Tegmark and Williams (2022), [LIT-tmptf5mc](../literature.d/LIT-tmptf5mc.md),
-  §3 and Appendices C–F and H, as read in [NOTE-tmpytz8j](../notes.d/NOTE-tmpytz8j.md).
+- Liu, Kitouni, Nolte, Michaud, Tegmark and Williams (2022), [LIT-858](../literature.d/LIT-858.md),
+  §3 and Appendices C–F and H, as read in [NOTE-662](../notes.d/NOTE-662.md).
 - Power et al. (2022), [LIT-341](../literature.d/LIT-341.md), for the critical training fraction in the
   original grokking setting, as read in [NOTE-287](../notes.d/NOTE-287.md).
 

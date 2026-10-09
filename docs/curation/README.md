@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [9 Oct 18:18 — Five papers on the theory of trained networks](2026-10.md#five-papers-on-the-theory-of-trained-networks)
 - [9 Oct 03:33 — The manuscript bibliography registered: 46 dropped works and the conceded prior art](2026-10.md#the-manuscript-bibliography-registered-46-dropped-works-and-the-conceded-prior-art)
 - [9 Oct 00:41 — The manuscript's reference list: twenty-two works the record lacked](2026-10.md#the-manuscripts-reference-list-twenty-two-works-the-record-lacked)
 - [7 Oct 01:06 — Four works cited by The Organization of Will](2026-10.md#four-works-cited-by-the-organization-of-will)
@@ -40,9 +41,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-78 entries across 2 books, newest first.
+79 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 31 | 2026-10-01 | 2026-10-09 |
+| [2026-10](2026-10.md) | 32 | 2026-10-01 | 2026-10-09 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

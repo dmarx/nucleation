@@ -1,6 +1,9 @@
 ---
+number: 658
 status: Read
-paper: 'LIT-tmpvzook'
+formerly:
+- NOTE-tmp6m4yt
+paper: 'LIT-859'
 title: 'Exact Learning Dynamics of In-Context Learning in Linear Transformers'
 version: 1
 history:
@@ -35,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-039 — Proposed; the synthesis of training phases this reading adds a case to -->
 <!-- inactive-ok-file: LIT-242 — Deferred; named as the analogous stepwise result, not relied on -->
 
-# NOTE-tmp6m4yt: Exact Learning Dynamics of In-Context Learning in Linear Transformers
+# NOTE-658: Exact Learning Dynamics of In-Context Learning in Linear Transformers
 
 ## Contribution
 

@@ -4,7 +4,7 @@
 
 **society-and-governance**.
 
-52 of 657 NOTE documents. Back to the [full index](../README.md).
+52 of 662 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

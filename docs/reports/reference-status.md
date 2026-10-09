@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**169 documents cited without acknowledgement.** Not listed: 3414 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**169 documents cited without acknowledgement.** Not listed: 3465 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -338,7 +338,7 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 
 Grokking and Generalization Collapse: Insights from HTSR theory
 
-12 citations in 4 files await a look.
+12 citations in 4 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-317.md:6`](../../record/notes.d/NOTE-317.md)
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
@@ -429,7 +429,7 @@ Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; closeness in distribution does not imply closeness of representation
 
-10 citations in 3 files await a look; 3 other citations of it are acknowledged.
+10 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
@@ -495,7 +495,7 @@ Rate-Distortion Theoretic Generalization Bounds for Stochastic Learning Algorith
 
 On the Stepwise Nature of Self-Supervised Learning
 
-9 citations in 5 files await a look; 3 other citations of it are acknowledged.
+9 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-261.md:48`](../../record/literature.d/LIT-261.md)
 - [`record/notes.d/NOTE-230.md:34`](../../record/notes.d/NOTE-230.md)
@@ -769,7 +769,7 @@ Kochen–Specker noncontextuality is measurement noncontextuality plus outcome d
 
 Distributional Semantics, Holism, and the Instability of Meaning
 
-6 citations in 5 files await a look; 4 other citations of it are acknowledged.
+6 citations in 5 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-009.md:22`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-090.md:131`](../../record/notes.d/NOTE-090.md)
@@ -1402,7 +1402,7 @@ Generalized contextuality is strictly broader than Kochen–Specker contextualit
 
 The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -1411,7 +1411,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)
 
-2 citations in 2 files await a look; 2 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
@@ -1905,7 +1905,7 @@ InfoNCE is a lower bound on mutual information for every critic and can never ex
 
 Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-289.md:84`](../../record/notes.d/NOTE-289.md)
 

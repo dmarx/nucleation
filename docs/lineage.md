@@ -2,7 +2,7 @@
 
 # Lines of work
 
-53 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+54 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -71,6 +71,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+### From On the Stepwise Nature of Self-Supervised Learning
+
+- [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Deferred)*
+  - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
@@ -474,6 +479,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
 
+### From On the Stepwise Nature of Self-Supervised Learning
+
+- [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Deferred)*
+  - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
+
 ### From Algebraic Geometry and Statistical Learning Theory
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
@@ -787,6 +797,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
+
+### From On the Stepwise Nature of Self-Supervised Learning
+
+- [LIT-242](../record/literature.d/LIT-242.md) — On the Stepwise Nature of Self-Supervised Learning *(Deferred)*
+  - [LIT-855](../record/literature.d/LIT-855.md) — Closed-Form Training Dynamics Reveal Learned Features and Linear Structure in Word2Vec-like Models *(Active)*
 
 ### From Understanding image representations by measuring their equivariance and equivalence
 

@@ -1,6 +1,9 @@
 ---
+number: 660
 status: Read
-paper: 'LIT-tmp2n2m4'
+formerly:
+- NOTE-tmpiys9p
+paper: 'LIT-855'
 title: 'Closed-Form Training Dynamics in Word2Vec-like Models'
 version: 1
 history:
@@ -37,9 +40,9 @@ summary: >-
 <!-- inactive-ok-file: THEORY-002 — Proposed; named for a bearing, not as settled -->
 <!-- inactive-ok-file: THEORY-009 — Proposed; named for a bearing, not as settled -->
 <!-- inactive-ok-file: LIT-208 — Proposed; named for a bearing on the distributional hypothesis -->
-<!-- inactive-ok-file: THEORY-tmpw5yp5 — Proposed; the account this reading produced -->
+<!-- inactive-ok-file: THEORY-182 — Proposed; the account this reading produced -->
 
-# NOTE-tmpiys9p: Closed-Form Training Dynamics in Word2Vec-like Models
+# NOTE-660: Closed-Form Training Dynamics in Word2Vec-like Models
 
 ## Contribution
 
@@ -236,7 +239,7 @@ dynamics.
   function of P_ij − P_iP_j and nothing else. That is a statement about a
   model, not about language; it does not decide the philosophical questions
   [LIT-208](../literature.d/LIT-208.md) raises.
-- It produces [THEORY-tmpw5yp5](../theory.d/THEORY-tmpw5yp5.md), on what a rank-limited contrastive word
+- It produces [THEORY-182](../theory.d/THEORY-182.md), on what a rank-limited contrastive word
   embedding learns and in what order.
 - It is a theory of an ML algorithm and would fit the anthology's
   representation-learning reading; the LIT carries `anthology-candidate`.

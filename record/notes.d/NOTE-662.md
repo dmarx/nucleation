@@ -1,6 +1,9 @@
 ---
+number: 662
 status: Read
-paper: 'LIT-tmptf5mc'
+formerly:
+- NOTE-tmpytz8j
+paper: 'LIT-858'
 title: 'Towards Understanding Grokking'
 version: 1
 history:
@@ -30,13 +33,13 @@ summary: >-
   a transformer and on MNIST.
 ---
 
-<!-- inactive-ok-file: THEORY-tmps9ng8 — Proposed; the THEORY this reading produced -->
+<!-- inactive-ok-file: THEORY-181 — Proposed; the THEORY this reading produced -->
 <!-- inactive-ok-file: THEORY-022 — Proposed; the record's account of the modular-addition circuit, which this reading bears on -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, which this reading bears on -->
 <!-- inactive-ok-file: THEORY-083 — Proposed; the record's account of neural collapse, which App. I bears on -->
 <!-- inactive-ok-file: LIT-369 — Proposed; named because NOTE-317's reading of it cites this paper -->
 
-# NOTE-tmpytz8j: Towards Understanding Grokking
+# NOTE-662: Towards Understanding Grokking
 
 ## Contribution
 
@@ -212,7 +215,7 @@ setup is the one Omnigrok uses.
 
 ## Bearing on the record
 
-- **It produces [THEORY-tmps9ng8](../theory.d/THEORY-tmps9ng8.md).** That THEORY states the toy result as a
+- **It produces [THEORY-181](../theory.d/THEORY-181.md).** That THEORY states the toy result as a
   finding: a training set fixes the generalising representation when its
   parallelogram equations leave only translation and scale free. Nothing in
   the record held it.

@@ -1,5 +1,8 @@
 ---
+number: 180
 status: Proposed
+formerly:
+- THEORY-tmpjhj8u
 promote_when: >-
   A proof of the spectral law for a trained attention layer with T ≥ 2
   tokens, or a held, independent derivation of it by another route, read
@@ -22,9 +25,9 @@ tags:
 - anthology-candidate
 date: '2026-10-09'
 source:
-- LIT-tmpmghyl
+- LIT-857
 summary: >-
-  Boncoraglio, Erba, Troiani, Xu, Krzakala & Zdeborová (2025), [LIT-tmpmghyl](../literature.d/LIT-tmpmghyl.md):
+  Boncoraglio, Erba, Troiani, Xu, Krzakala & Zdeborová (2025), [LIT-857](../literature.d/LIT-857.md):
   with S = WWᵀ, λ‖W‖²_F is exactly λ‖S‖_* (Appendix A), and in the limit
   n/d², p/d fixed the trained WᵀW/√(pd) has the law η·ReLU(S0 + δZ − εI),
   Z ∼ GOE, with δ a noise level that falls with the data and ε a threshold
@@ -36,12 +39,12 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-106 — Proposed; compared in scope below -->
 
-# THEORY-tmpjhj8u: In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise
+# THEORY-180: In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise
 
 ## Source
 
-Boncoraglio, Erba, Troiani, Xu, Krzakala & Zdeborová (2025), [LIT-tmpmghyl](../literature.d/LIT-tmpmghyl.md),
-read in [NOTE-tmpyrt26](../notes.d/NOTE-tmpyrt26.md): Appendix A, Claims 3.1 and 4.1, Section 4 and
+Boncoraglio, Erba, Troiani, Xu, Krzakala & Zdeborová (2025), [LIT-857](../literature.d/LIT-857.md),
+read in [NOTE-661](../notes.d/NOTE-661.md): Appendix A, Claims 3.1 and 4.1, Section 4 and
 Figures 1, 4 and 8.
 
 ## What was actually shown

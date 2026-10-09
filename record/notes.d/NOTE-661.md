@@ -1,6 +1,9 @@
 ---
+number: 661
 status: Read
-paper: 'LIT-tmpmghyl'
+formerly:
+- NOTE-tmpyrt26
+paper: 'LIT-857'
 title: 'Single-Head Attention in High Dimensions'
 version: 1
 history:
@@ -34,11 +37,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-169 — Proposed; cited as a neighbour this reading examined and found no bearing on -->
 
-<!-- inactive-ok-file: THEORY-tmpjhj8u — Proposed; the account this reading produces -->
+<!-- inactive-ok-file: THEORY-180 — Proposed; the account this reading produces -->
 <!-- inactive-ok-file: THEORY-106 — Proposed; its scope is compared with this paper's interpolation peak -->
 <!-- inactive-ok-file: THEORY-085 — Proposed; named as an analogous outlier-and-bulk account -->
 
-# NOTE-tmpyrt26: Single-Head Attention in High Dimensions
+# NOTE-661: Single-Head Attention in High Dimensions
 
 ## Contribution
 
@@ -189,7 +192,7 @@ Rosenow's random-matrix analysis of transformers (arXiv 2410.17770).
 
 ## Bearing on the record
 
-- **Produces [THEORY-tmpjhj8u](../theory.d/THEORY-tmpjhj8u.md)**: the spectral law and the nuclear-norm
+- **Produces [THEORY-180](../theory.d/THEORY-180.md)**: the spectral law and the nuclear-norm
   identity, stated with their scope (one tied layer, Gaussian data,
   target in the model class, non-rigorous derivation).
 - **[THEORY-106](../theory.d/THEORY-106.md)** (double-descent peak as a ridgeless divergence in
