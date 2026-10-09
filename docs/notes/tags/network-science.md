@@ -4,7 +4,7 @@
 
 **network-science**.
 
-17 of 654 NOTE documents. Back to the [full index](../README.md).
+18 of 657 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -25,3 +25,4 @@
 | [NOTE-567](../../../record/notes.d/NOTE-567.md) | Network Epistemology: Communication in Epistemic Communities | A survey. The best communication structure depends on the epistemic problem: transmission of costly information favours minimal or star networks, pooling of estimates favours regular ones (denser is faster), and learning by trying favours sparse ones. Intuitions that a group communicates too little or is too centralised are often wrong. | Read |
 | [NOTE-574](../../../record/notes.d/NOTE-574.md) | Experimentation by Industrial Selection | Uses the antiarrhythmic drug disaster and a modified Zollman bandit model to show that industry can bias a scientific community of honest Bayesian agents by funding those whose methods already favour its product, given methodological diversity, merit-based influence and turnover. A merit-based independent funder makes this worse; one that discounts industry-funded work counteracts it. Integrity safeguards do not touch the mechanism. | Read |
 | [NOTE-583](../../../record/notes.d/NOTE-583.md) | The Communication Structure of Epistemic Communities | Simulations of Bala and Goyal's bandit model on small networks. Cycles learn the better action more reliably than wheels or complete graphs, and more slowly. Over every network of up to six agents, density and clustering predict failure, and centrality does not. The cause is that dense networks spread an early unlucky run to everyone before diversity can correct it. | Read |
+| [NOTE-655](../../../record/notes.d/NOTE-655.md) | Irreversibility in bacterial regulatory networks | In an ensemble of sign-consistent Boolean rules on the 87-gene core of the E. coli regulatory network, 51 genes admit a transient knockout or overexpression that leaves the network in a different attractor; only genes that reach a positive circuit can, and the likelihood grows with the weighted number of paths to one. Transitions run from small basins to large. The comparison with evolved crp-knockout strains supports the network's sign structure strongly and its irreversibility predictions only weakly; no transient perturbation was done in cells. | Read |

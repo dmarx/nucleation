@@ -1,5 +1,8 @@
 ---
+number: 179
 status: Proposed
+formerly:
+- THEORY-tmpq45k7
 promote_when: >-
   A first-hand reading of an experiment, by the same or another
   laboratory, in which the founding cell's intracellular iron (or a second,
@@ -20,9 +23,9 @@ tags:
 - complex-systems
 date: '2026-10-09'
 source:
-- LIT-tmpns8pq
+- LIT-853
 summary: >-
-  Bhattacharyya et al. (2023), [LIT-tmpns8pq](../literature.d/LIT-tmpns8pq.md). Single-cell swarm assays show
+  Bhattacharyya et al. (2023), [LIT-853](../literature.d/LIT-853.md). Single-cell swarm assays show
   sibling homogeneity in swarming at four generations and its loss by
   seven, a correlation (Spearman r = 0.71) between a Fur-repressed reporter
   and swarming, and longer persistence when iron is clamped. The iron link
@@ -32,12 +35,12 @@ summary: >-
   labels, not evidence of learning.
 ---
 
-# THEORY-tmpq45k7: In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch
+# THEORY-179: In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch
 
 ## Source
 
 Bhattacharyya, Bhattarai, Pfannenstiel, Wilkins, Singh and Harshey (2023),
-[LIT-tmpns8pq](../literature.d/LIT-tmpns8pq.md), read in [NOTE-tmpwvklq](../notes.d/NOTE-tmpwvklq.md).
+[LIT-853](../literature.d/LIT-853.md), read in [NOTE-657](../notes.d/NOTE-657.md).
 
 ## What was actually shown
 

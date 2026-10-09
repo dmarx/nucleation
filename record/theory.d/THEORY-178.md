@@ -1,5 +1,8 @@
 ---
+number: 178
 status: Proposed
+formerly:
+- THEORY-tmpcasth
 promote_when: >-
   An experiment in bacteria, read first-hand, in which a gene is perturbed
   transiently (for example by inducible CRISPR interference, then
@@ -24,9 +27,9 @@ tags:
 - natural-sciences
 date: '2026-10-09'
 source:
-- LIT-tmpolt4z
+- LIT-854
 summary: >-
-  Zhao, Wytock, Reynolds and Motter (2024), [LIT-tmpolt4z](../literature.d/LIT-tmpolt4z.md). In an ensemble
+  Zhao, Wytock, Reynolds and Motter (2024), [LIT-854](../literature.d/LIT-854.md). In an ensemble
   of sign-consistent Boolean rules on the 87-gene core of the E. coli
   regulatory network, 51 genes admit a transient knockout or
   overexpression that moves the network to a different attractor, and
@@ -39,12 +42,12 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
-# THEORY-tmpcasth: Transcriptional regulation alone can make a bacterium's gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit
+# THEORY-178: Transcriptional regulation alone can make a bacterium's gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit
 
 ## Source
 
-Zhao, Wytock, Reynolds and Motter (2024), [LIT-tmpolt4z](../literature.d/LIT-tmpolt4z.md), read in
-[NOTE-tmpavdpk](../notes.d/NOTE-tmpavdpk.md).
+Zhao, Wytock, Reynolds and Motter (2024), [LIT-854](../literature.d/LIT-854.md), read in
+[NOTE-655](../notes.d/NOTE-655.md).
 
 ## What was actually shown
 

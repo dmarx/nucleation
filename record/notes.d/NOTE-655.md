@@ -1,6 +1,9 @@
 ---
+number: 655
 status: Read
-paper: 'LIT-tmpolt4z'
+formerly:
+- NOTE-tmpavdpk
+paper: 'LIT-854'
 title: 'Irreversibility in bacterial regulatory networks'
 version: 1
 history:
@@ -31,10 +34,10 @@ summary: >-
   only weakly; no transient perturbation was done in cells.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpcasth — Proposed; the finding this reading produces, filed with it -->
+<!-- inactive-ok-file: THEORY-178 — Proposed; the finding this reading produces, filed with it -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
-# NOTE-tmpavdpk: Irreversibility in bacterial regulatory networks
+# NOTE-655: Irreversibility in bacterial regulatory networks
 
 ## Contribution
 
@@ -223,7 +226,7 @@ evolution study of crp knockouts (ref. 41).
   CRISPRi experiment is the kind [THEORY-136](../theory.d/THEORY-136.md) asks for, and the authors' own
   caveat (noise turns permanent into long-lived) is [THEORY-136](../theory.d/THEORY-136.md)'s
   slow-return confound.
-- **It produces [THEORY-tmpcasth](../theory.d/THEORY-tmpcasth.md)**: that regulation alone can make a
+- **It produces [THEORY-178](../theory.d/THEORY-178.md)**: that regulation alone can make a
   bacterium's expression state depend on its history, with positive circuits
   necessary, filed Proposed with that experiment as its promotion condition.
 - **[THEORY-058](../theory.d/THEORY-058.md)** (disorders as self-maintaining symptom loops) and
@@ -268,7 +271,7 @@ evolution study of crp knockouts (ref. 41).
 
 - Does a transient crp knockdown, released, leave zraR, melR or rhaRS on
   for many generations in cells, with the environment held fixed and slow
-  return ruled out? That experiment would settle C8 and [THEORY-tmpcasth](../theory.d/THEORY-tmpcasth.md).
+  return ruled out? That experiment would settle C8 and [THEORY-178](../theory.d/THEORY-178.md).
 - How long do the predicted states last under noise and division? A
   stochastic model of transcription and translation mapped from the Boolean
   transitions would give lifetimes.

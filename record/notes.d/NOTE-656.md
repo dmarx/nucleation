@@ -1,6 +1,9 @@
 ---
+number: 656
 status: Read
-paper: LIT-tmpd12l0
+formerly:
+- NOTE-tmpqfc6q
+paper: LIT-852
 title: 'A. baumannii PmrB oxidative-stress response memory'
 version: 1
 history:
@@ -29,7 +32,7 @@ summary: >-
 ---
 
 
-# NOTE-tmpqfc6q: A. baumannii PmrB oxidative-stress response memory
+# NOTE-656: A. baumannii PmrB oxidative-stress response memory
 
 ## Contribution
 

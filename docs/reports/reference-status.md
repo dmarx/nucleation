@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**168 documents cited without acknowledgement.** Not listed: 3407 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**169 documents cited without acknowledgement.** Not listed: 3414 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1172,6 +1172,16 @@ For a system driven without feedback, the work dissipated equals the memory that
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
 - [`record/theory.d/THEORY-030.md:82`](../../record/theory.d/THEORY-030.md)
 
+### [THEORY-058](../../record/theory.d/THEORY-058.md) — Proposed
+
+Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
+
+3 citations in 2 files await a look; 18 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:51`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:78`](../../record/decisions.d/ADR-035.md)
+- [`record/notes.d/NOTE-656.md:200`](../../record/notes.d/NOTE-656.md)
+
 ### [CLAIM-105](../../record/claims.d/CLAIM-105.md) — Proposed
 
 Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
@@ -1414,15 +1424,6 @@ A mind of mindless agents and a mind of minded agents are one functionalist move
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
-
-### [THEORY-058](../../record/theory.d/THEORY-058.md) — Proposed
-
-Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
-
-2 citations in 1 file await a look; 16 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-035.md:51`](../../record/decisions.d/ADR-035.md)
-- [`record/decisions.d/ADR-035.md:78`](../../record/decisions.d/ADR-035.md)
 
 ### [THEORY-133](../../record/theory.d/THEORY-133.md) — Proposed
 
@@ -1939,6 +1940,14 @@ The unity that makes a movement an agent's action is achieved by conformity to t
 1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-035.md:80`](../../record/decisions.d/ADR-035.md)
+
+### [THEORY-130](../../record/theory.d/THEORY-130.md) — Proposed
+
+Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-656.md:205`](../../record/notes.d/NOTE-656.md)
 
 ### [THEORY-155](../../record/theory.d/THEORY-155.md) — Proposed
 

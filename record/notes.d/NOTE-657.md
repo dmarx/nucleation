@@ -1,6 +1,9 @@
 ---
+number: 657
 status: Read
-paper: 'LIT-tmpns8pq'
+formerly:
+- NOTE-tmpwvklq
+paper: 'LIT-853'
 title: 'Bhattacharyya et al. 2023, heritable iron memory in E. coli'
 version: 1
 history:
@@ -28,9 +31,9 @@ summary: >-
   time points.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpq45k7 — Proposed; the finding this reading produces, filed with it -->
+<!-- inactive-ok-file: THEORY-179 — Proposed; the finding this reading produces, filed with it -->
 
-# NOTE-tmpwvklq: Bhattacharyya et al. 2023, heritable iron memory in E. coli
+# NOTE-657: Bhattacharyya et al. 2023, heritable iron memory in E. coli
 
 ## Contribution
 
@@ -170,7 +173,7 @@ and dilution of Fe–S proteins at division instead.
 
 - **New THEORY.** The record held no account of non-genetic,
   multigenerational state in single bacteria from experiment. This
-  reading produces [THEORY-tmpq45k7](../theory.d/THEORY-tmpq45k7.md), stating the finding (a slow
+  reading produces [THEORY-179](../theory.d/THEORY-179.md), stating the finding (a slow
   physiological variable carries a cell's behavioural state for about four
   generations), with what the evidence does not reach.
 - **Against the record's other bacterial-memory reading.** *Irreversibility
