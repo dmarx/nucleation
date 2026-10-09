@@ -1,0 +1,107 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpwvklq](../notes.d/NOTE-tmpwvklq.md)); worth reading as an experimental case of a non-genetic, multigenerational state in single bacteria: a cell''s swarming potential is shared by its descendants for about four generations and gone by seven, and it tracks the cell''s iron status as reported by a Fur-repressed promoter (Spearman r = 0.71 between reporter signal and swarm diameter over 96 sorted cells; 0.15 and 0.05 in the controls). The state is not a bistable switch: an ODE of three swarming classes fits the lineage data only when each founding cell holds its class for a fixed delay (about three or four generations) before switching at constant rates. The "memory", "decision-making" and "conditioning" of the title and text are figurative; the iron link rests on a promoter reporter and on correlation, and the model fixes five parameters on two time points.'
+title: 'A heritable iron memory enables decision-making in Escherichia coli'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Read on 2026-10-09 (NOTE-tmpwvklq): main text, figure captions and
+    Methods in full from the PubMed Central copy of the version of record
+    (PMC10691332, CC BY-NC-ND 4.0 per Crossref's licence field, via
+    the Europe PMC full-text XML), with the SI Appendix's Methods, including
+    the mathematical model, from the Europe PMC supplementary-file bundle,
+    and Fig. 4 viewed as an image for the correlation values. The PNAS PDF
+    URL returned 403 to a script. Details checked against Crossref (PNAS
+    120(48):e2309082120; authors Souvik Bhattacharyya, Nabin Bhattarai,
+    Dylan M. Pfannenstiel, Brady Wilkins, Abhyudai Singh, Rasika M.
+    Harshey; online 21 November 2023, issue 28 November 2023) and the
+    bioRxiv API. `published:` is 20 May 2023, the posting date of the
+    bioRxiv preprint (10.1101/2023.05.19.541523, v1, titled "Iron Memory
+    in E. coli"), which Crossref links to this article as its preprint:
+    the first appearance, as the record takes an arXiv v1 date for a
+    later journal article. The journal's own first date is 21 November
+    2023. Not held in the Anthology of the SOTA: a grep of its record/
+    for the authors, both DOIs and the title found nothing, but that
+    clone is at commit d8b5ba5 and may be stale.
+tags:
+- natural-sciences
+- complex-systems
+date: '2026-10-09'
+published: '2023-05-20'
+doi: '10.1073/pnas.2309082120'
+first_author: 'Bhattacharyya'
+keywords:
+- 'swarming'
+- 'bacterial memory'
+- 'iron homeostasis'
+- 'Fur regulon'
+- 'phenotypic heterogeneity'
+- 'multigenerational inheritance'
+- 'Escherichia coli'
+implementations: []
+summary: >-
+  Bhattacharyya, Bhattarai, Pfannenstiel, Wilkins, Singh and Harshey (2023),
+  PNAS 120(48):e2309082120. In single-cell swarm assays (over 10,000
+  plates), an E. coli cell's swarming potential is shared by its
+  fourth-generation descendants and lost by the seventh; it tracks the
+  cell's iron status (low iron, better swarmer), iron starvation or
+  forced uptake lengthens it, and a three-state switching model fits the
+  lineages only with a fixed holding delay before switching. The
+  iron–swarming link is correlational and measured through a Fur-repressed
+  promoter, not iron itself.
+---
+
+<!-- inactive-ok-file: THEORY-tmpq45k7 — Proposed; the finding this reading produces, filed with it -->
+
+# LIT-tmpns8pq: A heritable iron memory enables decision-making in Escherichia coli
+
+Souvik Bhattacharyya, Nabin Bhattarai, Dylan M. Pfannenstiel, Brady Wilkins,
+Abhyudai Singh and Rasika M. Harshey (2023), *Proceedings of the National
+Academy of Sciences* 120(48):e2309082120 — DOI-10.1073/pnas.2309082120;
+preprint bioRxiv 10.1101/2023.05.19.541523 ("Iron Memory in E. coli")
+
+## Key takeaways
+
+- **Swarming potential is heterogeneous among genetically identical
+  planktonic cells, and inherited for a few generations.** Swarms started
+  from single cells vary far more (coefficient of variation) than swarms
+  from 100 or 10,000 cells. Sixteen daughters of one mother, grown four
+  generations and plated singly, swarm alike; by seven generations the
+  spread among siblings is back. Cells taken from a swarm edge are uniform
+  good swarmers and keep that for four generations too, while cells from
+  hard agar, where E. coli does not swarm, are as variable as planktonic
+  ones.
+- **The variable is iron status.** Of environmental perturbations (medium,
+  salt, pH, aeration, agar) and plasmid-expressed swarming genes, only
+  fepA and fur (iron uptake and its repressor) cut the variability.
+  Iron chelation (DFO) shifts cells to better swarming and holds that to
+  the seventh generation; added iron or fepA overexpression shifts them to
+  worse swarming and holds that to the twelfth.
+- **Measured through Fur.** A plasmid sfGFP reporter driven by the
+  Fur-repressed fepA promoter (bright = low iron) correlates with the
+  sorted mother's swarm diameter (Spearman r = 0.7067, p = 8.66 × 10⁻¹⁶,
+  n ≈ 96), not in a constitutive-promoter control (r = 0.15) or in ΔfepA
+  (r = 0.05). Daughters of five sorted mothers per strain follow the
+  mother's reporter level at four generations, not at seven. The same
+  reporter correlates with biofilm (more iron, more biofilm) and with
+  survival at about half-MIC kanamycin and chloramphenicol (less iron,
+  better survival), each at one generation only.
+- **Not memoryless, and not bistable.** Three swarming classes (XS < 35 mm,
+  M 35–65 mm, L > 65 mm; 52/35/13% at steady state) switch along XS ⇄ M ⇄ L
+  at constant rates, but each founding cell holds its class for a fixed
+  delay first (τ ≈ 3 generations for XS and M, ≈ 4 for L). The authors
+  report that constant-rate switching alone does not fit, and themselves
+  rule out bistable and toggle switches and epigenetic marks because the
+  memory is too short.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, with no stated context, and read
+on its own merits the same day ([NOTE-tmpwvklq](../notes.d/NOTE-tmpwvklq.md)). The reading is the source of
+[THEORY-tmpq45k7](../theory.d/THEORY-tmpq45k7.md), which states the finding with the scope the evidence gives
+it. It sits beside the record's other reading of history-dependent state in
+E. coli, *Irreversibility in bacterial regulatory networks*, as a contrast:
+there a self-maintaining attractor of the regulatory network, here a
+transient state that decays on a timescale of generations.
