@@ -78,6 +78,12 @@ vocabularies:
       learning-theory:
         label: Learning theory
         blurb: 'why learning generalizes — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection'
+      compositionality:
+        label: Compositionality
+        blurb: 'how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031)'
+      mathematical-statistics:
+        label: Mathematical statistics
+        blurb: 'the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031)'
       information-retrieval:
         label: Information retrieval
         blurb: 'finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval'

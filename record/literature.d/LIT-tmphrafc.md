@@ -17,6 +17,7 @@ history:
     title found nothing.
 tags:
 - mathematics
+- mathematical-statistics
 - probabilistic-modeling
 date: '2026-10-09'
 published: '2019-08-19'

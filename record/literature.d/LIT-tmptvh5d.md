@@ -21,7 +21,7 @@ history:
     commit 1cffe8f) for the identifier, the title and the authors found
     the work named only in prose inside other entries, or not at all.
 tags:
-- representation-learning
+- compositionality
 - anthology-candidate
 date: '2026-10-09'
 published: '2023-10-17'
@@ -97,8 +97,9 @@ the manuscript's references to be filed in this record.
 **After reading.** The paper is an evaluation method for text-to-image
 models, and what it teaches (check detected objects rather than embedding
 similarity; crop and mask before classifying colour) is machine-learning
-practice, anthology material. The flag stays. Its primary tag,
-`representation-learning`, is loose: the paper does not study how a model
-represents its data, only whether its outputs are right. The closed
-vocabulary has no word for the evaluation of generative models, which is
-an anthology subject.
+practice, anthology material. The flag stays. It was first filed under
+`representation-learning`, which the reading did not support: the paper does
+not study how a model represents its data, only whether its outputs are
+right. It is filed under `compositionality` (ADR-031), the subject it shares
+with this record; the evaluation of generative models is an anthology
+subject.

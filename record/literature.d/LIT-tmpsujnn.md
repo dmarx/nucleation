@@ -15,7 +15,7 @@ history:
     SOTA: a grep of its record/ (clone of 2026-10-09, commit 1cffe8f)
     for the authors, the identifier and the title found nothing.
 tags:
-- probabilistic-modeling
+- mathematical-statistics
 - information-theory
 - mathematics
 date: '2026-10-09'

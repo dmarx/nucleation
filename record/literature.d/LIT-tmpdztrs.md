@@ -17,8 +17,8 @@ history:
     1cffe8f) for the identifier, the title and the authors found the
     work named only in prose inside other entries, or not at all.
 tags:
+- compositionality
 - probabilistic-modeling
-- representation-learning
 - anthology-candidate
 date: '2026-10-09'
 published: '2022-06-03'

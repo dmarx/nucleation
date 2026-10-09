@@ -14,6 +14,7 @@ title: 'The classical theorems on sufficient statistics need only the copy/disca
 version: 1
 tags:
 - mathematics
+- mathematical-statistics
 - probabilistic-modeling
 date: '2026-10-09'
 source:

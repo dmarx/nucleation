@@ -9,7 +9,7 @@ promote_when: >-
 title: 'For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
 version: 1
 tags:
-- probabilistic-modeling
+- mathematical-statistics
 - information-theory
 - mathematics
 date: '2026-10-09'

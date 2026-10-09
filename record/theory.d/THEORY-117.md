@@ -21,6 +21,7 @@ title: 'Compositional generalization comes from diversity of combinations, not d
 version: 1
 tags:
 - representation-learning
+- compositionality
 - learning-theory
 - anthology-candidate
 date: '2026-10-03'
