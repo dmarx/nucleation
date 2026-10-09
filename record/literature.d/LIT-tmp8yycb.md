@@ -1,0 +1,166 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpfkzni](../notes.d/NOTE-tmpfkzni.md)); worth reading as the paper that turns the exactly solved learning dynamics of a two-layer linear network into a theory of semantic development. Trained by gradient descent from small weights on whitened inputs, the network learns the singular modes of the item–feature correlation matrix one at a time, each by a sigmoid at a time of order (τ/s)ln(s/ε), while a shallow network learns every mode on one exponential timescale. Hierarchically generated data have singular values that fall with depth in the tree, so broad distinctions are learned first in stage-like transitions, individual predictions can rise and fall between stages, and inductive generalisation narrows with development. The same SVD gives typicality, prototypes and a coherence threshold (a BBP transition), rings give Fourier modes, and minimum-norm weights, which small initialisation approximates, give identical hidden similarity matrices across networks. The trajectory is exact only from decoupled, balanced initial weights with white inputs; from random small weights it is checked by simulation, and the match to children and cortex is qualitative.'
+title: 'A mathematical theory of semantic development in deep neural networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 because LIT-860 builds on
+    it and neither record held it. Read the same day (NOTE-tmpfkzni): the
+    published main text in full from PubMed Central (PMC6561300, the PMC
+    HTML of the PNAS article; the PMC PDF and the supplementary PDF
+    returned a browser-check page, not the files), and the Supplementary
+    Material from the arXiv PDF of v1 (23 October 2018, 23 pp., text
+    extracted with pdftotext), every derivation followed except the
+    garbled matrix displays. Bibliography checked against Crossref
+    (Proc. Natl. Acad. Sci. U.S.A. 116(23):11537–11546, published online
+    17 May 2019, print 4 June 2019; authors Andrew M. Saxe, James L.
+    McClelland, Surya Ganguli), the PMC record (PMID 31101713; received
+    6 December 2018, approved 9 April 2019, edited by Terrence J.
+    Sejnowski, PNAS Plus) and the arXiv abstract page (arXiv:1810.10531,
+    one version, submitted 23 October 2018, the same title and authors,
+    with the DOI attached). `published:` is the arXiv v1 date, 23 October
+    2018, the earliest any source gives (ADR-002). The published SI, which
+    adds multiple hidden layers and correlated inputs according to the
+    main text, was not read; the arXiv v1 SI lacks both. Not held in
+    nucleation before this filing: a grep of record/ for the identifiers,
+    the title and "semantic development" found nothing; the record cites
+    the authors' 2014 paper in NOTE-660 and NOTE-658 without holding it.
+    Not held in the Anthology of the SOTA as far as its clone shows: a
+    grep of its record/ (clone at commit d8b5ba5, 9 October 2026, possibly
+    stale) for the DOI, the arXiv id, the title, "semantic development"
+    and McClelland found nothing, and it does not hold Saxe, McClelland
+    and Ganguli 2014 (arXiv 1312.6120) either; its `training-optimization`
+    and `concept-geometry` topics could hold it, hence
+    `anthology-candidate`.
+tags:
+- representation-learning
+- cognition
+- learning-theory
+- anthology-candidate
+date: '2026-10-09'
+published: '2018-10-23'
+arxiv: '1810.10531'
+doi: '10.1073/pnas.1820226116'
+first_author: 'Saxe'
+keywords:
+- 'semantic cognition'
+- 'deep learning'
+- 'neural networks'
+- 'generative models'
+- 'hierarchical generative models'
+- 'deep linear networks'
+- 'singular value decomposition'
+- 'progressive differentiation'
+- 'category coherence'
+- 'typicality'
+- 'inductive projection'
+- 'representational similarity analysis'
+implementations: []
+summary: >-
+  Saxe, McClelland and Ganguli (2019), PNAS 116(23):11537–11546,
+  [ARXIV-1810.10531](https://arxiv.org/abs/1810.10531). A two-layer linear network trained from small weights
+  learns the singular modes of its input–output correlations one at a time,
+  each in a sigmoidal step at a time of order (τ/s)ln(s/ε), where a shallow
+  network learns them all at once. With data generated on a tree this gives
+  coarse-to-fine differentiation in stages, transient illusory correlations
+  and narrowing generalisation; the SVD also defines typicality, prototypes
+  and category coherence, and minimum-norm weights fix the hidden
+  similarity matrix across networks.
+extended_by:
+- LIT-Karkada-2026-860
+---
+<!-- inactive-ok-file: THEORY-tmpuusea — Proposed; the account this reading produced -->
+<!-- inactive-ok-file: THEORY-182 THEORY-183 — Proposed; the accounts of the papers that cite this one, named for the lineage -->
+
+# LIT-tmp8yycb: A mathematical theory of semantic development in deep neural networks
+
+Andrew M. Saxe, James L. McClelland and Surya Ganguli (2019), *Proceedings of
+the National Academy of Sciences* 116(23):11537–11546 — [ARXIV-1810.10531](https://arxiv.org/abs/1810.10531),
+DOI-10.1073/pnas.1820226116
+
+## Key takeaways
+
+- **The model.** Items x (one-hot, or any orthonormal code, so Σx = I) are
+  mapped to feature vectors y by ŷ = W₂W₁x, trained by online gradient
+  descent on squared error. With a small learning rate the epoch-averaged
+  dynamics are τ dW₁/dt = W₂ᵀ(Σyx − W₂W₁Σx) and τ dW₂/dt = (Σyx −
+  W₂W₁Σx)W₁ᵀ, τ = 1/(Pλ), cubic in the weights. Everything is driven by
+  the SVD Σyx = Σ s_α u_α v_αᵀ: v_α (the "object analyzer") places items on
+  a semantic dimension, u_α (the "feature synthesizer") says which features
+  that dimension carries, s_α its strength.
+- **Mode-by-mode, stage-like learning, from depth.** If the weights start
+  diagonal in the SVD basis and balanced between the layers, the network's
+  map is W₂W₁ = U A(t) Vᵀ with a_α(t) = s_α e^{2s_α t/τ} / (e^{2s_α t/τ} − 1 +
+  s_α/a_α⁰) (Eq. 6), so each mode rises by a sigmoid in time
+  (τ/s_α) ln(s_α/ε) (Eq. 10), and the transition takes a vanishing fraction
+  of the total time as ε → 0. A shallow network, Ws, follows b_α(t) =
+  s_α(1 − e^{−t/τ}) + b_α⁰e^{−t/τ}: every mode on the same timescale τ ln(s/ε),
+  exponentially. Hidden representations are h_iα = √a_α(t) v_iα up to a
+  rotation. Random small weights are covered by simulation (Fig. 3C), not by
+  proof; the SI says so.
+- **Hierarchy gives a falling spectrum.** For features diffusing down a tree
+  with flip probability ε per branch, the item-similarity eigenvectors are
+  functions constant below each node (tree wavelets, Haar for binary trees)
+  and the eigenvalue of a level depends only on the level and falls with
+  it, so broad distinctions are learned first. With large branching the
+  timescale of level l grows as √(M_l/Δ_l), M_l the number of nodes at that
+  level. The resulting trajectory reproduces the animals-and-plants MDS
+  picture of Rogers and McClelland's nonlinear network (Fig. 2).
+- **Illusory correlations.** A feature's prediction for an item is
+  Σ a_α(t) u_mα v_iα; when the terms differ in sign it rises and then falls
+  (or the reverse) for a time of order Δ, the gap between the two singular
+  values. A shallow network's predictions are provably monotone.
+- **Typicality, prototypes, coherence.** From the SVD, v_iα =
+  (1/(Ps_α)) Σ_m u_mα o_mi and u_mα = (1/(Ps_α)) Σ_i v_iα o_mi: typicality is
+  projection onto the prototype and the prototype is the typicality-weighted
+  mean, with no circularity. For one category of K_o items and K_f features
+  in noise, recovery has a sharp threshold at C = SNR·K_oK_f/√(N_oN_f) = 1
+  (a BBP transition, from Benaych-Georges and Nadakuditi). Defining
+  coherence as the singular value, between-category anticorrelation at an
+  intermediate level can make the basic level learned first. A single new
+  feature can regroup an item whose own features did not change (Fig. S2):
+  categories are a global property of the item–feature matrix.
+- **Structural forms without a prior over forms.** For features drawn from a
+  Gaussian Markov random field on a graph, the object analyzers are the
+  covariance's eigenvectors: cluster indicators, tree wavelets, Fourier modes
+  for a ring (circulant covariance, lowest frequency learned first),
+  approximately so for grids, and extra cross-cutting dimensions.
+- **Generalisation and representational similarity.** A new feature taught
+  for one item is projected to others by h_jᵀh_i/‖h_i‖², so generalisation
+  narrows as differentiation proceeds. Among all weights implementing the
+  same map, the minimum-norm ones are W₁ = R√A Vᵀ, W₂ = U√A Rᵀ with R
+  orthogonal (proved), so two such networks have identical hidden similarity
+  matrices and behavioural similarity is its square; networks from large
+  random weights do not (Fig. 11).
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, because [LIT-860](LIT-860.md) (Karkada et al.
+2026) builds on it and neither record held it. [LIT-860](LIT-860.md) cites it for its
+nearest precedent, circular hidden geometry from data on a periodic lattice.
+It was also filed as the source of the stepwise, mode-by-mode learning that
+[LIT-859](LIT-859.md) (Mainali and Teixeira) and [LIT-855](LIT-855.md) (Karkada et al. 2025) call the
+Saxe-style picture. The reading qualifies that second reason. Both papers
+take the dynamics from the authors' 2014 ICLR paper, *Exact solutions to the
+nonlinear dynamics of learning in deep linear neural networks* (arXiv
+1312.6120). [LIT-859](LIT-859.md) cites only that paper. [LIT-855](LIT-855.md) cites this one once, in a
+list, and proves its Lemma 3.1 by reference to 2014. Eq. 6 here is the 2014
+solution restated, and this paper's reference lists do not cite 2014. Neither
+record holds the 2014 paper. What this paper adds is the link from that
+dynamics to the structure of the data: hierarchies, rings, coherence and
+similarity.
+
+It was read on its own merits ([NOTE-tmpfkzni](../notes.d/NOTE-tmpfkzni.md)). The reading produces
+[THEORY-tmpuusea](../theory.d/THEORY-tmpuusea.md), the record's first sourced statement of the deep linear
+result. [NOTE-658](../notes.d/NOTE-658.md) had observed that the record did not hold one. The
+reading also stands behind [THEORY-182](../theory.d/THEORY-182.md), whose Lemma 3.1 is this dynamics, and
+it is the precedent for the Fourier geometry of [THEORY-183](../theory.d/THEORY-183.md).
+
+It carries `anthology-candidate`. Its mathematics is about the training
+dynamics of a network, and the anthology's `training-optimization` and
+`concept-geometry` topics could hold it. It stays here because its question
+is semantic cognition: how categories, typicality and similarity structure
+come from the statistics of experience.

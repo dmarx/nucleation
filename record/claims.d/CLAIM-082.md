@@ -23,6 +23,7 @@ grounds:
 - LIT-775
 - THEORY-175
 - THEORY-182
+- THEORY-tmp5ocix
 summary: >-
   The manuscript's structuralist premise (§2), citing Saussure and Lévi-
   Strauss. [CLAIM-072](CLAIM-072.md) corrects how it states Saussure.
@@ -34,6 +35,7 @@ supports:
 illustrated_by:
 - CASE-019
 ---
+<!-- inactive-ok-file: THEORY-tmp5ocix — Proposed; cited as a reading that bears on this claim, not as settled -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
 <!-- inactive-ok-file: THEORY-175 — Proposed; cited as a reading that qualifies this claim, not as settled -->
 
@@ -122,3 +124,15 @@ isomorphic to it. Relations within the system carry the structure of what
 the words are about. That supports "fixed within a system" without setting
 relation against reference, the same qualification as Bergen, Goodman and
 Levy's.
+
+The precursor, Korchinski, Karkada, Bahri and Wyart ([LIT-tmpuvppr](../literature.d/LIT-tmpuvppr.md), read in
+[NOTE-tmp86ssm](../notes.d/NOTE-tmp86ssm.md)), is the closest formal case so far. Each word is modelled as
+nothing but a set of binary contrasts, and when each contrast multiplies
+co-occurrence independently, the PMI embedding is an affine image of the
+word's position among them, so the analogy parallelograms come out exactly
+([THEORY-tmp5ocix](../theory.d/THEORY-tmp5ocix.md)). That is opposition, not similarity, which is nearer
+Saussure's value than the cosine and co-occurrence cases above. A contrast
+also survives deleting every word pair that differs only in it, so each
+word's relations to the rest of the vocabulary carry it. The same
+qualification holds: the contrasts are posited in advance, and many are
+properties of what the words refer to.
