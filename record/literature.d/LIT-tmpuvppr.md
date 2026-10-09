@@ -1,0 +1,140 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp86ssm](../notes.d/NOTE-tmp86ssm.md)); worth reading as a generative model of word co-occurrence in which the parallelogram analogies of word embeddings are derived rather than postulated. Each word is a point of the hypercube {−1, +1}^d of binary attributes, and each attribute multiplies its co-occurrence by an independent 2 × 2 factor, so the ratio M = P(i,j)/P(i)P(j) is a Kronecker product (proved) and the PMI log M is a bilinear form in the attributes, of rank at most d + 1 with eigenvectors affine in them. A spectral embedding of the PMI is then a linear image of the attribute hypercube and its analogies hold exactly at any signal strength; one of M holds them only when the signals are weak, narrowly spread and K ≤ d + 1, because M''s spectrum mixes in products of attributes. Robustness to noise, to pruning the vocabulary and to deleting every pair of an analogy relation is argued from eigenvalue perturbation bounds and checked numerically. The embeddings are eigendecompositions of a co-occurrence matrix, not trained word2vec or GloVe, and the agreement with Wikipedia is in the shapes of spectra and accuracy curves; no attribute is recovered from data.'
+title: 'On the Emergence of Linear Analogies in Word Embeddings'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 because LIT-860 builds on it
+    and neither record held it. Read in full the same day (NOTE-tmp86ssm)
+    from the arXiv PDF of v2 (23 October 2025, 21 pp.), text extracted with
+    pdftotext: §§1–10, Limitations and Appendices A1–A5, every derivation
+    followed; figures read from captions, labels and text. Found by an
+    arXiv title search and checked against the abstract page
+    (arXiv:2505.18651; v1 submitted 24 May 2025, v2 23 October 2025, comment
+    "Accepted at NeurIPS 2025 as a poster"); title and the four authors,
+    Daniel J. Korchinski (EPFL), Dhruva Karkada (UC Berkeley), Yasaman Bahri
+    (Google DeepMind) and Matthieu Wyart (Johns Hopkins and EPFL), are the
+    same in v1 and v2. The v2 PDF still carries the footer "Preprint. Under
+    review." v1 was not read. Crossref confirms the published version:
+    Advances in Neural Information Processing Systems 38 (NeurIPS 2025),
+    pp. 68995–69023, DOI 10.52202/085713-2075, same title and authors, with
+    only the year 2025 as its date. `published:` is the arXiv v1 date,
+    24 May 2025, the earliest any source gives (ADR-002). Not held in
+    nucleation before this filing: a grep of record/ for the identifier,
+    the title and Korchinski found only the mentions in LIT-860, NOTE-664,
+    THEORY-022 and THEORY-183, which name it as not held. Not held in the
+    Anthology of the SOTA as far as its clone shows: a grep of its record/
+    (clone at commit d8b5ba5, 9 October 2026, possibly stale) for the
+    identifier, the title, "linear analogies" and the authors found nothing.
+    The anthology's `concept-geometry` and `signal-structure` topics could
+    hold it, hence `anthology-candidate`. It holds works the paper builds
+    on or argues with: word2vec (ANTH-LIT-604), Levy and Goldberg's PMI
+    factorisation (ANTH-LIT-612), Arora et al.'s latent-variable model
+    (ANTH-LIT-613) and the linear representation hypothesis (ANTH-LIT-606).
+    The authors' code is at
+    github.com/DJKorchinski/linear-analogies-word-embedding-reproduction
+    (not inspected).
+tags:
+- representation-learning
+- compositionality
+- anthology-candidate
+date: '2026-10-09'
+published: '2025-05-24'
+arxiv: '2505.18651'
+first_author: 'Korchinski'
+keywords:
+- 'word embeddings'
+- 'linear analogies'
+- 'co-occurrence matrix'
+- 'pointwise mutual information'
+- 'binary semantic attributes'
+- 'Kronecker product'
+- 'eigendecomposition'
+- 'spectral robustness'
+implementations: []
+summary: >-
+  Korchinski, Karkada, Bahri and Wyart (2025), NeurIPS 2025. If each word
+  is a vector of d binary attributes whose effects on co-occurrence are
+  independent and multiplicative, the co-occurrence ratio is a Kronecker
+  product and its logarithm, the PMI, has rank at most d + 1 with
+  eigenvectors affine in the attributes, so a spectral PMI embedding
+  realises parallelogram analogies exactly; the ratio itself does so only
+  for weak, narrowly spread attribute signals. The structure survives
+  noise, vocabulary pruning and deletion of all pairs of a relation, by
+  perturbation arguments checked in simulation and on Wikipedia.
+extended_by:
+- LIT-Karkada-2026-860
+---
+<!-- inactive-ok-file: THEORY-tmp5ocix THEORY-182 THEORY-183 THEORY-022 — Proposed; cited as what this reading produced and the accounts it sits beside -->
+
+# LIT-tmpuvppr: On the Emergence of Linear Analogies in Word Embeddings
+
+Daniel J. Korchinski, Dhruva Karkada, Yasaman Bahri and Matthieu Wyart
+(2025), *Advances in Neural Information Processing Systems 38* (NeurIPS
+2025), pp. 68995–69023 — [ARXIV-2505.18651](https://arxiv.org/abs/2505.18651), DOI-10.52202/085713-2075
+
+## Key takeaways
+
+- **The model.** A word is α ∈ {−1, +1}^d, one entry per binary attribute
+  (masculine/feminine, royal/not, singular/plural). Attribute k has
+  incidence p_k and a signal strength s_k ∈ [0, 1], and
+  P(i, j) = P(i)P(j) ∏_k P^(k)(α_i^k, α_j^k) with a 2 × 2 factor P^(k) fixed
+  by normalisation up to s_k (Eqs. 3–4). In it the ratio postulate of
+  earlier accounts, p(χ|king)/p(χ|queen) = p(χ|man)/p(χ|woman) for every
+  context word χ, holds exactly. The noiseless model assumes it rather
+  than deriving it.
+- **The ratio matrix M is a Kronecker product** (Theorem, proved by
+  induction in A1): its eigenvectors are tensor products of the 2 × 2
+  factors' eigenvectors and its eigenvalues the products of theirs. For
+  weak signals the spectrum falls into bands: a constant mode, d attribute
+  modes v_k(i) ∝ α_i^k with eigenvalue ∝ s_k, then about d²/2 modes ∝ s_k s_k′
+  that encode products of attributes, and so on. Embedding M gives exact
+  analogies only if the s_k are small and narrowly spread and K ≤ d + 1, so
+  that the kept eigenvectors are affine in the attributes. With broadly
+  spread s_k the bands interleave and accuracy rises and then falls with K.
+- **The PMI is bilinear in the attributes.** log M = δ11ᵀ + ADAᵀ + Aη1ᵀ +
+  1ηᵀAᵀ, with A the words-by-attributes matrix (Eq. 12). Its rank is at most
+  d + 1, its eigenvectors are affine in the attributes, and a spectral
+  embedding of it satisfies W_A − W_B + W_C = W_D whenever
+  α_D = α_A − α_B + α_C, whatever the s_k (Results 1–4). This is the paper's
+  account of why PMI targets beat M (observation iii) and why accuracy
+  saturates once K reaches d. Appendix A5 keeps rank ≤ d + 1 and the affine
+  eigenvectors with pairwise-correlated attributes; the eigenvectors then
+  mix attributes.
+- **Robustness, argued and simulated.** Symmetric i.i.d. noise of scale σ
+  in the PMI has spectral norm about 2σ2^(d/2), against semantic
+  eigenvalues of order 2^d, so analogies survive until K ≈ 2^(d/2)/σ noise
+  modes are admitted (§7, A4, Fig. 10). Pruning the vocabulary to m ≫ d
+  random words keeps the top-d spectrum up to a factor m/2^d
+  (Marchenko–Pastur, §8). Setting to zero the PMI of every pair that
+  differs only in one attribute (all king–queen, man–woman pairs) is a
+  sparse perturbation of norm about 2^(d/2), and the same relation survives
+  in the embedding (§9, Fig. 3). Every step from small perturbation to
+  stable eigenvectors goes through Weyl's eigenvalue inequality alone.
+- **Wikipedia.** Spectral embeddings of M and of log(M + 10⁻²) over 10,000
+  words, scored on Mikolov et al.'s analogies, reproduce observations
+  (ii)–(iv) qualitatively. The PMI's spectrum is broad and close to
+  log-normal, which the paper uses against Arora et al.'s isotropic latent
+  space ([ANTH-LIT-613](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-613.md)). Zeroing the PMI of an analogy family's own pairs
+  costs little accuracy (Fig. 3b). No attribute is identified in the
+  data, and no trained word2vec or GloVe model is examined.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request: [LIT-860](LIT-860.md) (Karkada, Korchinski, Nava,
+Wyart and Bahri 2026, read in [NOTE-664](../notes.d/NOTE-664.md)) builds on it, and neither record
+held it. [LIT-860](LIT-860.md) extends its binary-attribute model to continuous
+attributes, and its Appendix D (Theorem 5) combines the two. The paper was
+read on its own merits ([NOTE-tmp86ssm](../notes.d/NOTE-tmp86ssm.md)), and the reading produces
+[THEORY-tmp5ocix](../theory.d/THEORY-tmp5ocix.md).
+
+It sits between two readings the record already has. [LIT-855](LIT-855.md) ([THEORY-182](../theory.d/THEORY-182.md))
+says what a word2vec-like model factorises, M*, which agrees with the PMI
+to third order; this paper says what geometry the PMI has when co-occurrence
+is generated by independent binary attributes. [LIT-855](LIT-855.md)'s analogy account is
+a fitted spiked random matrix; this one is derived, but for an idealised
+spectral embedding, not a trained one. [LIT-860](LIT-860.md) ([THEORY-183](../theory.d/THEORY-183.md)) does for
+continuous latent variables what this paper does for binary ones.
