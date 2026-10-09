@@ -19,6 +19,7 @@ grounds:
 - CASE-tmpj5tw0
 - LIT-785
 - LIT-780
+- THEORY-tmp5ncrn
 supersedes:
 - CLAIM-tmp1bwsn
 uses:
@@ -42,6 +43,7 @@ supports:
 objected_by:
 - CLAIM-tmpf2wmc
 ---
+<!-- inactive-ok-file: THEORY-tmp5ncrn — Proposed; context change as part of meaning, cited as support, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp1bwsn TERM-tmpx0l4b — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpww3q0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
@@ -72,3 +74,16 @@ needed too.
 Not that the proposition is irrelevant, nor that the frame is *the* main
 variable ([CLAIM-tmp1bwsn](CLAIM-tmp1bwsn.md)). Austin ([LIT-785](../literature.d/LIT-785.md)) and Goffman ([LIT-780](../literature.d/LIT-780.md)) are cited for it and
 unread here.
+
+## Support from dynamic semantics
+
+The "not sufficient" half now has formal support (THEORY-tmp5ncrn):
+
+- **Krifka** (LIT-tmpuclkg) gives one proposition with two different updates,
+  declaration and assertion.
+- **Heim** (LIT-tmpvhtrs) gives truth-conditionally equivalent sentences that
+  differ in what a following pronoun can pick up.
+- **Veltman** (LIT-tmpi254m) treats "might" as a test with no propositional
+  content.
+
+None of the three addresses footing.

@@ -50,3 +50,12 @@ a statement "licenses criticism or shared laughter", §5), which measure the
 performative side without saying it can fail while the interpretive side holds.
 Krifka's informative/performative updates, which A35 drew on, are not cited
 there or in the record.
+
+## What the speech-act readings say
+
+- **Partly supported.** Krifka (LIT-tmpuclkg) treats the speaker's commitment
+  and the uptake of the content as separate updates, which succeed or fail
+  separately. But his "performative" is commitment or a change in the world,
+  not the speaker–audience relation this claim's case turns on.
+- **In tension.** Brandom (LIT-tmp3t040, skimmed) holds that the same content
+  with the same force gives the same deontic significance.

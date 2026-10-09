@@ -40,3 +40,10 @@ him. It keeps Blackwell over a task family Q ([CLAIM-tmpek80j](CLAIM-tmpek80j.md
 a statement licenses criticism or shared laughter") are performative updates in
 all but name. The pairing would give Q a principled source. It would also do
 the work of the dropped performative fidelity ([CLAIM-tmpfbpte](CLAIM-tmpfbpte.md)).
+
+## Krifka, read
+
+Krifka (LIT-tmpuclkg) gives "change in conversational standing" a precise
+object: the propositions an update makes true. Brandom's deontic score
+(LIT-tmp3t040) is a perspectival alternative. Neither offers observables, so
+this claim's defeat condition is untouched.

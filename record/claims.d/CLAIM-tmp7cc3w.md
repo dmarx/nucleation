@@ -63,3 +63,9 @@ resemblance "through observable decision consequences, compatibility relations,
 and sequential transport, rather than primarily through a theory of intended
 interpretation". The manuscript lists Gutt and never cites or discusses him.
 Proposal v6's three novelty claims (A100) were withdrawn into §1's disclaimer.
+
+## Krifka, read
+
+The exchange's description holds: Krifka (LIT-tmpuclkg) models speech acts
+formally as informative and performative updates. He does not touch
+translation.
