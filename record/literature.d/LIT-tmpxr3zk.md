@@ -1,0 +1,131 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpe9j5q](../notes.d/NOTE-tmpe9j5q.md)); worth reading as the paper that turns the Random Hierarchy Model ([LIT-877](LIT-877.md)) from a learning problem into an inference problem: given the grammar, the Bayes-optimal denoising of a noisy datum is belief propagation on the tree, and in an annealed mean-field approximation the probability of recovering the root (the class) has a sharp threshold in the noise as the depth grows, while leaves and low latents degrade smoothly, so past the threshold a new class can be built from old low-level parts. The threshold exists only when the grammar is sparse, s f < 1 (f the fraction of s-tuples a level uses); in the dense case, where every string occurs, any noise eventually loses the class. A forward–backward experiment with an unconditional ImageNet diffusion model shows the same pattern in a classifier''s layers: the logits'' similarity drops sharply near t ≈ T/2 while early layers change smoothly and cross over. A Gaussian mixture shows the drop but not the crossing. The threshold is not proved; the trained diffusion model is not shown to compute belief propagation.'
+title: 'A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09, one of the works cited by
+    the hierarchy and hyperbolic-geometry batch (nucleation#113, LIT-865 to
+    LIT-877) that neither record held; it is cited as a follow-up in the
+    Standing section of LIT-877 (Cagnetta et al., the random hierarchy
+    model). Read in full the same day (NOTE-tmpe9j5q) from the arXiv PDF of
+    v3 (24 December 2024, 8 pp. plus 11 pp. of supporting information),
+    text extracted with pdftotext. Checked against the arXiv abstract page
+    (arXiv:2402.16991, stat.ML; v1 submitted 26 February 2024, v2 4 March
+    2024, v3 24 December 2024; authors Antonio Sclocchi, Alessandro Favero
+    and Matthieu Wyart; the page names no DOI or journal reference) and
+    against Crossref: DOI 10.1073/pnas.2408799121, Proceedings of the
+    National Academy of Sciences 122(1), article e2408799121, title in
+    sentence case, the same three authors in the same order, published
+    online 2 January 2025, issue 7 January 2025, CC BY-NC-ND 4.0.
+    `published:` is the arXiv v1 date, 26 February 2024, the earliest any
+    source gives (ADR-002). Not held in nucleation before this filing: a
+    grep of record/ for the identifier, the title and "Sclocchi" found only
+    the mention in LIT-877. Not held in the Anthology of the SOTA as far as
+    its clone shows: a grep of its record/ (clone at commit d8b5ba5,
+    9 October 2026, possibly stale) for the identifier, the DOI, the title,
+    "Sclocchi", "Favero" and "forward-backward" found nothing relevant (two
+    hits on "forward-backward pass", unrelated). The anthology's
+    `generative-modeling` topic (diffusion) and `signal-structure` topic
+    (what the data is like) could hold it, hence `anthology-candidate`.
+    The authors' code (github.com/pcsl-epfl/forward-backward-diffusion)
+    was not inspected.
+tags:
+- compositionality
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-10-09'
+published: '2024-02-26'
+arxiv: '2402.16991'
+first_author: 'Sclocchi'
+keywords:
+- 'diffusion models'
+- 'data structure'
+- 'compositionality'
+- 'deep learning'
+- 'random hierarchy model'
+- 'belief propagation'
+- 'phase transition'
+- 'forward-backward diffusion'
+implementations: []
+summary: >-
+  Sclocchi, Favero and Wyart (2024; PNAS 122, e2408799121, 2025). On the
+  Random Hierarchy Model with known rules, Bayes-optimal denoising is
+  belief propagation on the tree; in an annealed mean-field approximation,
+  checked numerically, the probability of recovering the class drops
+  sharply at a threshold noise as depth grows, provided the grammar is
+  sparse (s f < 1), while low-level features degrade smoothly and can
+  survive into a sample of a new class. Forward–backward runs of an
+  unconditional ImageNet diffusion model show the same pattern in a
+  classifier's layers; a two-mode Gaussian mixture does not.
+---
+<!-- inactive-ok-file: QUESTION-025 THEORY-195 THEORY-186 THEORY-tmpgy8v4 — Proposed or open; cited as the question the batch answers to, the accounts this one is set beside, and what this reading produced -->
+
+# LIT-tmpxr3zk: A Phase Transition in Diffusion Models Reveals the Hierarchical Nature of Data
+
+Antonio Sclocchi, Alessandro Favero and Matthieu Wyart (2024), *Proceedings
+of the National Academy of Sciences* 122(1), e2408799121 (2025) —
+[ARXIV-2402.16991](https://arxiv.org/abs/2402.16991), DOI-10.1073/pnas.2408799121
+
+## Key takeaways
+
+- **The question is inference, not learning.** The data are the Random
+  Hierarchy Model of [LIT-877](LIT-877.md) with v classes, a vocabulary of v symbols,
+  branching s, depth L and m rules per symbol drawn without replacement
+  from the v^s tuples. The rules are assumed known, so the denoiser is the
+  exact posterior, computed by belief propagation on the tree. This is the
+  ideal a perfectly generalising diffusion model would match, not a model
+  of one trained on finite data.
+- **A sharp threshold for the class, smooth decay below it.** Corrupt each
+  leaf with belief 1 − ε in its true value and ε spread uniformly.
+  Averaging the upward messages over the random rules gives a
+  one-dimensional map p′ = F(p) = (p^s + f (m−1)/(mv−1) (1 − p^s)) /
+  (p^s + f (1 − p^s)), with f = (mv − 1)/(v^s − 1) ≈ m/v^(s−1) the
+  fraction of tuples a level uses. When F′(1) < 1, roughly s f < 1, the
+  perfect state p = 1 is stable and an unstable fixed point between 1/v
+  and 1 separates noise levels from which the class is recovered from
+  those from which it is lost: as L → ∞, a phase transition at ε*(s f).
+  When s f > 1 the class is lost at any noise. Leaves and low latents have
+  no threshold: their reconstruction falls smoothly with ε (Figs. 5–7,
+  S2–S6).
+- **Hence old parts in a new whole.** Past the threshold the resampled
+  datum belongs to a random class while many of its low-level features are
+  the original's, so curves of "still correct" for the top and bottom
+  levels cross. This is the paper's account of observation (iii), contrary
+  to Ho et al.'s remark that at large noise "only large scale features are
+  preserved".
+- **The approximation is checked, not proved.** The annealed messages
+  match exact BP on single realisations (v = 32, m = 8, s = 2, L = 10) for
+  the upward pass and for the marginals; downward messages fluctuate
+  strongly at small ε, because synonyms make a child underdetermined by its
+  parent. The ε-noise model stands in for Gaussian diffusion of one-hot
+  leaves through an effective ε(t) (SI 3).
+- **The ImageNet observation.** Noising ImageNet images to time t with an
+  unconditional 256×256 DDPM (Dhariwal and Nichol) and denoising back, the
+  cosine similarity of a ConvNeXt's logits between original and sample
+  falls sharply near t ≈ T/2 while early layers decline smoothly, and the
+  curves invert order around the drop; three ResNets agree (Fig. 2, S8). A
+  CNN trained on an RHM (L = 7, v = 16, m = 4), fed BP-resampled data,
+  shows the same inversion (Fig. 7b); a classifier of a two-mode Gaussian
+  mixture shows the drop but no inversion (SI 5).
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works cited by
+the batch of thirteen works on hierarchy and hyperbolic geometry
+(nucleation#113, [LIT-865](LIT-865.md) to [LIT-877](LIT-877.md); see that day's curation entry) that
+neither record held. The batch work that cites it is [LIT-877](LIT-877.md), Cagnetta et
+al.'s Random Hierarchy Model, which names it as a later paper of the same
+group building on that model. Read on its own merits ([NOTE-tmpe9j5q](../notes.d/NOTE-tmpe9j5q.md)); the
+reading produces [THEORY-tmpgy8v4](../theory.d/THEORY-tmpgy8v4.md).
+
+Beside [THEORY-195](../theory.d/THEORY-195.md) it is the other half of the RHM programme: that account
+is about how many examples a network needs to learn the grammar, this one
+about what an ideal denoiser that knows the grammar does with noise. It
+does not bear on [QUESTION-025](../questions.d/QUESTION-025.md): its hierarchy is constituency, as in
+[LIT-877](LIT-877.md), and it measures no co-occurrence, embedding direction or concept
+lattice. It is flagged for the anthology because its experimental half is
+about diffusion models.

@@ -16,7 +16,20 @@ promote_when: >-
   rediscoveries of block spins or of other variables already known cannot
   settle it, because the account was shown on exactly those.
 title: 'For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    The authors' two sequels join the sources: Lenggenhager et al. 2020
+    (LIT-tmptez84, read in NOTE-tmp2hvr8), which proves that a
+    coarse-graining keeping all of a block's information about its
+    environment adds no range to the Hamiltonian, though the optimised
+    coarse-grainings fall short of that condition; and Gökmen et al. 2021
+    (LIT-tmp6uvvn, read in NOTE-tmp0zdr4), which extends the evidence to the
+    interacting dimer model across a BKT transition, with operators already
+    known from field theory. Neither meets promote_when. The claim is
+    unchanged.
 tags:
 - natural-sciences
 - information-theory
@@ -24,6 +37,8 @@ tags:
 date: '2026-10-09'
 source:
 - LIT-873
+- LIT-tmptez84
+- LIT-tmp6uvvn
 summary: >-
   Koch-Janusz and Ringel (2017), [LIT-873](../literature.d/LIT-873.md): shown numerically on two
   2D lattice models whose relevant variables were known (Ising block
@@ -33,6 +48,7 @@ summary: >-
   effective Hamiltonian is argued, not proved, and no system with unknown
   relevant variables was tried.
 ---
+<!-- inactive-ok-file: THEORY-tmp1hbbz — Proposed; cited as the formal counterpart, not as settled -->
 <!-- inactive-ok-file: THEORY-036 THEORY-017 QUESTION-025 — Proposed or open; cited as accounts this one bears on and the question it does not answer -->
 
 # THEORY-194: For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about
@@ -42,6 +58,13 @@ summary: >-
 Koch-Janusz and Ringel (2017; Nature Physics 2018), [LIT-873](../literature.d/LIT-873.md): main
 text Figs. 2, 4 and 5; supplement Eqs. 5–15 (the estimator), Eqs. 20–40
 (1D Ising), Eqs. 41–44 (saturation), Figs. 8–11; as read in [NOTE-674](../notes.d/NOTE-674.md).
+
+The sequels: Lenggenhager, Gökmen, Ringel, Huber & Koch-Janusz (2020),
+[LIT-tmptez84](../literature.d/LIT-tmptez84.md), Appendix B's theorems, as read in [NOTE-tmp2hvr8](../notes.d/NOTE-tmp2hvr8.md); and Gökmen,
+Ringel, Huber & Koch-Janusz (2021), [LIT-tmp6uvvn](../literature.d/LIT-tmp6uvvn.md), the interacting dimer
+model, as read in [NOTE-tmp0zdr4](../notes.d/NOTE-tmp0zdr4.md). The formal counterpart, on why a fitted
+coarse-graining is not one, is [THEORY-tmp1hbbz](THEORY-tmp1hbbz.md) from Mehta & Schwab's
+mapping ([LIT-tmptst8b](../literature.d/LIT-tmptst8b.md)).
 
 ## What was actually shown
 
