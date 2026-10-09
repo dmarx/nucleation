@@ -1,0 +1,137 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpyrt26](../notes.d/NOTE-tmpyrt26.md)); worth reading as a solvable model in which the spectrum of trained attention weights is derived, not just measured: for empirical risk minimization of one tied softmax attention layer on Gaussian sequences, with n of order d², the learned query–key map is, in law, a rescaled ReLU of the target plus a semicircle noise bulk shifted by a threshold, so its outliers are recovered target directions and its bulk is finite-sample noise. Weight decay on the factor is exactly a nuclear-norm penalty on the product. With a power-law target, modes are recovered one by one as the threshold moves, which gives heavy-tailed learned spectra and power-law learning curves whose exponents match the LASSO rates. The main results are replica/AMP "Claims", not theorems, checked against Adam runs at d = 100–400.'
+title: 'Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 and read the same day
+    (NOTE-tmpyrt26) from the arXiv v2 PDF (2 February 2026, 42 pp.).
+    Bibliography checked against the arXiv abstract page: authors
+    Fabrizio Boncoraglio, Vittorio Erba, Emanuele Troiani, Yizhou Xu,
+    Florent Krzakala and Lenka Zdeborová (EPFL); v1 submitted 29
+    September 2025, which is `published:` per ADR-002; v2 2 February
+    2026; no journal reference. The title is v2's. v1 (28 pp., also
+    fetched and compared) was titled "Inductive Bias and Spectral
+    Properties of Single-Head Attention in High Dimensions", had five
+    authors (no Xu), and had neither the error decomposition nor the
+    power-law targets and scaling laws, which v2 adds as Sections 4–5.
+    A Crossref bibliographic query found no published version. Not held
+    in the Anthology of the SOTA: a grep of its record/ (clone at commit
+    d8b5ba5, possibly stale) for the authors, the identifier and both
+    titles found nothing. Code: github.com/SPOC-group/ExtensiveAttention
+    (named in Appendix G, not run).
+tags:
+- learning-theory
+- mathematics
+- anthology-candidate
+date: '2026-10-09'
+published: '2025-09-29'
+arxiv: '2509.24914'
+first_author: 'Boncoraglio'
+keywords:
+- 'attention-indexed model'
+- 'single-head tied attention'
+- 'empirical risk minimization'
+- 'random matrix theory'
+- 'approximate message passing'
+- 'nuclear-norm regularization'
+- 'weight spectra'
+- 'neural scaling laws'
+- 'emergence'
+implementations: []
+summary: >-
+  Boncoraglio, Erba, Troiani, Xu, Krzakala and Zdeborová (2025), arXiv.
+  For a tied single-head softmax attention layer trained by ridge-penalized
+  ERM on Gaussian token sequences labelled by an attention-indexed target,
+  in the limit n/d², p/d fixed, a six-parameter variational problem gives
+  the exact train and test error, interpolation and perfect-recovery
+  thresholds, and the singular-value law of the learned query–key map:
+  η·ReLU(S0 + δZ − ε), Z a GOE matrix. Weight decay is a nuclear-norm
+  penalty on that map, so the factorized model beats direct training of
+  the product. Power-law targets give sequential mode recovery and LASSO-
+  rate scaling laws. Non-rigorous (replica/AMP), checked against Adam.
+---
+
+<!-- inactive-ok-file: THEORY-tmpjhj8u — Proposed; the account this reading is a source of -->
+<!-- inactive-ok-file: THEORY-106 — Proposed; named as the neighbouring account of the interpolation peak -->
+
+# LIT-tmpmghyl: Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws
+
+Fabrizio Boncoraglio, Vittorio Erba, Emanuele Troiani, Yizhou Xu, Florent
+Krzakala and Lenka Zdeborová (2025), arXiv preprint, v2 2026 — [ARXIV-2509.24914](https://arxiv.org/abs/2509.24914)
+
+## Key takeaways
+
+- **An exact (non-rigorous) account of ERM in one attention layer.** The
+  model is f(x) = softmax_β((x W Wᵀ xᵀ − centring)/√(dp)) x, query and key
+  tied, value the identity, trained on square loss plus λ‖W‖²_F. Inputs
+  are T i.i.d. Gaussian tokens in ℝ^d; targets are the same form with a
+  rank-κ₀d matrix S0 plus symmetric Gaussian noise of variance Δ on the
+  pre-activations. As d, n, p → ∞ with α = n/d², κ = p/d and κ₀ fixed and T
+  finite, Claim 3.1 gives the global minimum's train loss and test error
+  through a six-dimensional variational problem Φ(Σ, m, q, Σ̂, m̂, q̂), valid
+  when a replicon condition holds (evaluated numerically, always
+  satisfied in the plots). The derivation maps the problem to multi-token
+  matrix sensing with GOE sensing matrices and an AMP algorithm; the paper
+  calls it a claim with a proof sketch, not a theorem.
+- **Weight decay is a nuclear norm on the attention map** (Appendix A, an
+  exact identity): with S = WWᵀ, ‖W‖²_F = ‖S‖_*, and for untied factors
+  min (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*. Consequences in the model:
+  every width p/d ≥ 1 − F(2λ̃/m̂) attains the same error, so mild rank
+  constraints cost nothing; and training the factors beats training S
+  directly with a Frobenius penalty at its best λ, though the latter is
+  strictly more expressive. For p0 ≪ d the factorized model needs
+  n = O(d·p0) samples, the unfactorized one n = O(d²) (Appendix D: in the
+  noiseless ridgeless limit its error is Q0(1 − 2α)).
+- **The learned spectrum, in closed form** (Claim 4.1). In law,
+  WᵀW/√(pd) = η·ReLU(S0 + δZ − εI), Z ∼ GOE(d), ReLU on eigenvalues, with
+  η = m̂/Σ̂, δ = √q̂/m̂, ε = 2λ̃/m̂ from the same variational problem. δ is a
+  finite-sample noise level, ε a regularization threshold. As α grows the
+  spectrum passes through rank collapse (a delta at zero), bleed-out and
+  outliers, and for a Marchenko–Pastur target splits into two bulks
+  (Figure 1). The pattern is in "qualitative agreement" with spectra
+  measured in trained transformers; nothing more is claimed.
+- **Thresholds.** For λ → 0⁺ the interpolation threshold is
+  α_interp = ∂₁J(δ̄, 0)/(2δ̄(T² + T − 2)), and for Δ = 0 a perfect-recovery
+  threshold α_perf is given by Eqs. (16)–(18), both by reducing softmax to
+  linear attention below interpolation (Appendix C). Curves for different
+  T collapse when α is rescaled by (T² + T − 2)/2, the number of
+  constraints each sample imposes.
+- **Spectrum and error, term by term** (Section 4, Conjecture E.1). For
+  targets with eigenvalues decaying faster than i^(−1/2), the excess error
+  splits into overfitting (the noise bulk), underfitting (target
+  directions still in the bulk), approximation (error along recovered
+  outliers) and a mismatch term. Outliers are the learned features.
+- **Scaling laws from sequential recovery** (Section 5, Appendix F). For
+  S0 with eigenvalues √d·i^(−γ), γ > 1/2, the threshold ε moves down the
+  target spectrum as n grows, admitting weaker modes one at a time; the
+  accumulated outliers make heavy-tailed learned spectra. The excess error
+  scales as n^(−f(γ)) with regime-dependent exponents (Eqs. 24–25), e.g.
+  (n/d)^(−1+1/(2γ)) for d ≪ n ≪ d² and small λ, the same rates as for LASSO
+  and matrix compressed sensing in Defilippis et al., and at optimal
+  regularization the classical minimax rate n^(−1+1/(2γ)).
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, with no stated context, in a
+batch with arXiv 2502.09863, 2504.12916, 2205.10343 and 2410.17770. It
+cites the last of these, Staats, Thamm and Rosenow's random-matrix
+analysis of transformer weights, as its empirical reference for the
+spectra it derives.
+
+Read on 2026-10-09 ([NOTE-tmpyrt26](../notes.d/NOTE-tmpyrt26.md)). It is the source of [THEORY-tmpjhj8u](../theory.d/THEORY-tmpjhj8u.md),
+the record's statement of the thresholded spectral law and what it does
+not reach. It sits with the record's other proportional-limit accounts of
+learning: Martin and Mahoney's statistical mechanics of generalization
+([LIT-672](LIT-672.md)), and the exact double-descent papers [LIT-679](LIT-679.md) and [LIT-683](LIT-683.md) behind
+[THEORY-106](../theory.d/THEORY-106.md). Its interpolation peak (Figure 6) is a neighbouring case of
+[THEORY-106](../theory.d/THEORY-106.md) in a model with learned features rather than random ones; see
+the NOTE.
+
+**Anthology.** Not held there. It is ML theory about attention, scaling
+laws and emergence, all subjects anthology topics hold, and it draws a
+practical comparison (factorized query–key training against direct
+training of the product), so `anthology-candidate`.
