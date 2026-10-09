@@ -46,3 +46,10 @@ communicative distinctions", without the condition. The manuscript's §9 states
 its identity for any Φ, and its §6 naturality condition constrains the kernels
 but not their separation. Nothing argued against it. Who fixes the
 distinctions is [QUESTION-tmp713l1](../questions.d/QUESTION-tmp713l1.md).
+
+C1 Appendix A, the first full draft (U22), kept a version as an anchor
+constraint: "We require transports to satisfy the designated anchor
+constraints; this rules out constant transports when the anchors distinguish
+multiple source states", with maps "specified using domain knowledge and
+independently anchored observations, not chosen solely to minimize the score".
+Neither the anchor nor the separation condition is in the manuscript.

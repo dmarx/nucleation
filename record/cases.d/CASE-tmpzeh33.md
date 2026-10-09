@@ -17,6 +17,7 @@ summary: >-
   satisfiable in its own context but admit no global assignment. Stated
   to demonstrate an obstruction, not to describe actual judgements.
 ---
+<!-- inactive-ok-file: CLAIM-tmpbbjw4 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CASE-tmp8ayjc — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmp1ycte CLAIM-tmpaviuz — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -35,3 +36,10 @@ actual judgments."
 That local consistency need not glue ([CLAIM-tmpaviuz](../claims.d/CLAIM-tmpaviuz.md)). It changes [CASE-tmp8ayjc](CASE-tmp8ayjc.md) from a
 probabilistic question about data into a logical example. It cannot show that
 pragmatic judgements behave so ([CLAIM-tmp1ycte](../claims.d/CLAIM-tmp1ycte.md)).
+
+First stated at A78 (U29), with the constraints S=M, M=H, H≠S: "This example
+illustrates a *logical* obstruction to global assignment. With suitable
+measurement-consistency conditions and probability models, analogous
+constructions yield formal contextuality tests." A78's diagram labels a
+different but equivalent set (S=M, M≠H, S=H); its caption notes the
+difference. It is the example for [CLAIM-tmpbbjw4](../claims.d/CLAIM-tmpbbjw4.md).

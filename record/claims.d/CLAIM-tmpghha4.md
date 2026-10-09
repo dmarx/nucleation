@@ -23,6 +23,10 @@ summary: >-
   one.
 supports:
 - CLAIM-tmpj8d91
+- CLAIM-tmpn361s
+- CLAIM-tmpwsbib
+objected_by:
+- CLAIM-tmp9ras2
 ---
 <!-- inactive-ok-file: CLAIM-tmpj8d91 CLAIM-tmpumy4f — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -22,6 +22,7 @@ summary: >-
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
 ---
+<!-- inactive-ok-file: CLAIM-tmpn361s — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpghha4 CLAIM-tmppvvyq — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpj8d91: Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission
@@ -55,3 +56,10 @@ the ancestral utterance while remaining interpretable" ([CLAIM-tmppvvyq](CLAIM-t
 example ("from speaker–audience solidarity to authoritative advice"). It does
 not keep attraction, the selection pressures or the footing hypothesis. The
 record's readings qualify the iterated-learning premise ([CLAIM-tmpj2kjo](CLAIM-tmpj2kjo.md)).
+
+C1 Appendix D, the first full draft (U22), qualified it: "The long-run structure
+of observed utterances is therefore a property of the specified transmission
+mechanism, not a generic consequence of repetition", depending on whether the
+chain has a unique stationary law or several absorbing classes. E1's contractive
+chain ([CASE-tmpiueso](../cases.d/CASE-tmpiueso.md)) is the stipulated instance of convergence to a convention
+([CLAIM-tmpn361s](CLAIM-tmpn361s.md)).

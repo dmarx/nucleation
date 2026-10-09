@@ -15,6 +15,9 @@ summary: >-
   outline v4's running case B, the manuscript's §8 and Case II).
 supports:
 - CLAIM-tmpumy4f
+variants:
+- CASE-tmpkuw2b
+- CASE-tmpui6ic
 ---
 <!-- inactive-ok-file: CLAIM-tmpghha4 CLAIM-tmpumy4f — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

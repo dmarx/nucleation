@@ -38,5 +38,7 @@ no-disturbance assumptions automatically".
 
 The sheaf-theoretic question put to pragmatic judgements ([CLAIM-tmpaviuz](../claims.d/CLAIM-tmpaviuz.md), [LIT-016](../literature.d/LIT-016.md)). The
 manuscript §3 keeps the three observables and the cover but makes the example
-a logical parity obstruction ([CASE-tmpzeh33](CASE-tmpzeh33.md)), with no note of the change. Where the
-change was made is not in owner turns U1–U13.
+a logical parity obstruction ([CASE-tmpzeh33](CASE-tmpzeh33.md)), with no note of the change. The
+change was made at A78, after the owner's U29 pointer to the record's sheaf
+readings, where the parity version appears as "a *logical* obstruction to
+global assignment".

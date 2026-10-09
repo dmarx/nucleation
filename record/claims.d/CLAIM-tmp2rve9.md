@@ -56,3 +56,9 @@ transport". Nothing argued against the limits; they were thinned out of the
 drafts. Granted, because both limits are elementary and the remedy is standard.
 It objects to [CLAIM-tmpx6akp](CLAIM-tmpx6akp.md) as stated, not to its truth: [CLAIM-tmpx6akp](CLAIM-tmpx6akp.md) needs an anchored Φ to be
 non-trivial.
+
+C1, the first full draft (U22), still had the second limit, after its
+Proposition C2: "This is an image-level bound: without an injective or
+appropriately separating Phi, it does not recover equality of source and target
+commutators themselves." It is the last appearance before the manuscript, whose
+§9 gives the same identity without the caveat.

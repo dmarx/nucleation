@@ -23,6 +23,8 @@ summary: >-
   built on it: observables are operational, no latent coordinate is
   primitive, and latents are validated by prediction (§2–3).
 ---
+<!-- inactive-ok-file: CLAIM-tmp1tgj2 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpc6h7z — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpd81nk: Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed
 
@@ -42,6 +44,13 @@ of levels is assumed primitive. Latent variables may be learned as compressed
 summaries of recurring observational patterns, but their significance must be
 validated by predictive consequences." §3: "An observational equivalence class
 identifies realizations indistinguishable by the chosen procedures."
+
+The owner's U27 request to "use higher order latents to characterize the more
+abstract similarity" ([CLAIM-tmp1tgj2](CLAIM-tmp1tgj2.md)) tested this. A73 answered with latents
+identified "through independently testable communicative contrasts". After U28
+([CLAIM-tmpc6h7z](CLAIM-tmpc6h7z.md)), A75 demoted them to "compressed representations of recurring
+patterns across these observational constraints. They are not the ontological
+foundation", which is the manuscript's §2 wording in substance.
 
 ## What it does not say
 

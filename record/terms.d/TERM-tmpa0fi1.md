@@ -15,6 +15,7 @@ summary: >-
 used_by:
 - CLAIM-tmpw9mi0
 ---
+<!-- inactive-ok-file: CLAIM-tmpw9mi0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-tmpa0fi1: frame, as inferred from evidence
 
@@ -35,6 +36,11 @@ A48 §3.2 gave the same distinction by example: "Being addressed by a friend is
 a property of a situation. Being told that a speaker is a friend supplies
 evidence about the situation. Being instructed to interpret an utterance
 affectionately is an intervention on the interpretive process."
+
+C1 §2, the first full draft (U22), stated all three: a situation *has* a frame,
+interpreters *infer* one, and a framing intervention changes their inputs. "In
+an LLM experiment, the sentence 'the speaker is a close friend' is evidence
+about a supposed situation, not the social relationship itself." 
 
 ## What it is not
 

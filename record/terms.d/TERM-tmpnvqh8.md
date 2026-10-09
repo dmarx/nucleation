@@ -33,6 +33,7 @@ used_by:
 - CLAIM-tmpjwomz
 - CLAIM-tmphq3fu
 ---
+<!-- inactive-ok-file: CLAIM-tmpevciu CLAIM-tmphq3fu — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpjwomz — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
 # TERM-tmpnvqh8: noncommutativity, of events and of operations
@@ -61,8 +62,12 @@ Two senses, distinguished at A30 in answer to the owner's U13 ([CLAIM-tmpjwomz](
    "artifacts of positional encoding, attention masks, recency, and instruction
    hierarchy". A48 §7.2 kept three levels (concatenation, effective operations,
    observed response distributions; "only the latter two have potential
-   explanatory significance"). A52 kept two, and the manuscript does not
-   mention concatenation.
+   explanatory significance"). C1 Appendix C kept three tiers: "(i) syntactic
+   noncommutation of prompt concatenation, (ii) noncommutation of inferred
+   stochastic transition operators, and (iii) incompatibility of measurement
+   observables in a quantum representation. A test of (i) never alone
+   establishes (ii); even (ii) does not entail (iii)." The manuscript keeps
+   (ii) and (iii) and does not mention concatenation.
 
 ## What it is not
 

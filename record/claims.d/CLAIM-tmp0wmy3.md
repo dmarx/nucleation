@@ -23,6 +23,7 @@ summary: >-
   manuscript's L_obs (§6). One of three terms of the manuscript's
   fidelity functional.
 ---
+<!-- inactive-ok-file: CLAIM-tmpukbg3 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpx6akp — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmp0wmy3: Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector
@@ -35,6 +36,11 @@ canonical vector of meaning", with D(τ) = Σ_C w_C d(e_C^source,
 e_τ(C)^target) ([TERM-tmpmvvf2](../terms.d/TERM-tmpmvvf2.md)). Manuscript §6: L_obs(T) = Σ_C w_C d_C[(K_C)#e_C^o,
 e_τ(C)^t]. §10 Case I's success criterion is its defeat condition turned round:
 "incremental prediction of held-out human communicative-fidelity judgments".
+
+The form that reached the manuscript is A78's D_sheaf (U29):
+Σ_C w_C d_C(T_C# e_i(C), e_(i+1)(τ(C))), "a graded, directed measure of
+preservation of local observational structure", stated over the sheaf
+scenario's contexts ([CLAIM-tmpukbg3](CLAIM-tmpukbg3.md)).
 
 ## What it does not say
 

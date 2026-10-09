@@ -50,3 +50,12 @@ annotators and held-out human judgements (§10), "heterogeneous-agent chains"
 (Case II). It states neither the circularity nor the normative/descriptive
 split; its §11 says the choice of observables is "normative and empirically
 contestable", which is the nearest it comes.
+
+The circularity limb returned at U26, when the owner told the assistant it was
+itself a text-generation action and should delegate. A68: "generating multiple
+responses within this conversation doesn't give us independently isolated
+inference calls ... That introduces potential experimenter bias and
+cross-condition contamination." C6 Appendix F then made it a rule: "Do not use
+assistant-authored examples as independent LLM samples or the same generative
+model's preferences as an unblinded ground truth" ([CLAIM-tmp8w5c7](CLAIM-tmp8w5c7.md)). The
+manuscript keeps the remedy, not the rule.

@@ -14,6 +14,8 @@ summary: >-
   contextuality line. Not carried into the manuscript, whose Case II
   only asks that context effects be reported separately from possible
   contextuality.
+answered_by:
+- CLAIM-tmpukbg3
 ---
 
 # QUESTION-tmp6d8jq: Does pragmatic drift under repeated reconstruction systematically increase or reduce measured contextual dependence?

@@ -29,6 +29,7 @@ supports:
 - ARG-tmpjbue6
 illustrated_by:
 - CASE-tmpnaqgj
+- CASE-tmpiueso
 ---
 <!-- inactive-ok-file: CLAIM-tmpevciu — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

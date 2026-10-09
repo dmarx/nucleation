@@ -46,6 +46,10 @@ the remedy (§9.3): "Move away from the claim that each translation is simply a
 coordinate description of one fixed communicative object." A40 adds the
 passive/active point ([CLAIM-tmp0talu](CLAIM-tmp0talu.md)) as a further undercut.
 
+C1 §2, the first full draft (U22), gave the analogy its last form: "The physical
+model supplies the methodological question—what relations survive a
+transformation?—not a literal Lorentz geometry for discourse." 
+
 ## What it changes
 
 It leaves [ARG-tmpekso6](../arguments.d/ARG-tmpekso6.md) its research-programme respect only. It is the premise of
