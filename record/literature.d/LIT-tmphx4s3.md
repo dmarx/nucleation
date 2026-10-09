@@ -1,0 +1,173 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmph9awb](../notes.d/NOTE-tmph9awb.md)); worth reading as the sequel to [LIT-884](LIT-884.md) that moves from how likely each level of a hierarchical datum is to survive noising and denoising to how the changes are arranged in space. In the Random Hierarchy Model with known rules, an annealed mean-field calculation, checked against exact belief propagation, gives changes that come in correlated blocks, because a changed latent at depth ℓ rewrites about s^ℓ tokens together; near the class threshold ε* the number of levels over which the evidence stays undecided diverges, so the correlation length grows as |ε − ε*|^(−ν) with ν = log s / log F′(p*), and the dynamical susceptibility (the summed correlations) peaks there. A Gaussian random field with a power-law spectrum, by contrast, has a correlation length that grows monotonically to the end of the process. The same peak is then measured in forward–backward runs of a masked diffusion language model on WikiText-2 (near t ≈ 0.6 T) and of an ImageNet DDPM read through CLIP patch embeddings (near t ≈ 0.6–0.7 T). The divergence is a scaling argument within the approximation, checked by one data collapse at one parameter set; the real-data correlations span about one decade of distance and have no non-hierarchical control.'
+title: 'Probing the Latent Hierarchical Structure of Data via Diffusion Models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09: the owner added it by link
+    (the ICLR 2025 proceedings page,
+    proceedings.iclr.cc/paper_files/paper/2025/hash/b503810343f1c7e80fab37b400dbc7a8-Abstract-Conference.html)
+    to the same request as the hierarchy and hyperbolic-geometry batches
+    (nucleation#113, #114; QUESTION-025), with no stated context. It is
+    not cited by any of those works. Identified from that page (title,
+    the four authors, ICLR 2025, the abstract). Read in full the same day
+    (NOTE-tmph9awb) from the arXiv PDF of v2 (28 February 2025, 13 pp.
+    main text and references plus 17 pp. of appendices), text extracted
+    with pdftotext. Checked against the arXiv abstract page
+    (arXiv:2410.13770, stat.ML; v1 submitted 17 October 2024, v2
+    28 February 2025; authors Antonio Sclocchi, Alessandro Favero, Noam
+    Itzhak Levi and Matthieu Wyart; comment "10 pages, 6 figures"; CC BY
+    4.0; no journal reference), against OpenReview (forum 0GzqVqCKns,
+    venue "ICLR 2025 Poster", the same title and four authors in the same
+    order; the submission was created 27 September 2024, made public
+    anonymously on 4 October 2024 (the note's online date), accepted
+    22 January 2025), against the proceedings page and its PDF (the same
+    text as arXiv v2 under the ICLR header, compared by opening text and
+    length, not line by line), and against Crossref, which holds no DOI
+    for the ICLR paper but holds a later version: DOI
+    10.1088/1742-5468/aded6c, Journal of Statistical Mechanics: Theory
+    and Experiment 2025(8), 084005, the same title in sentence case and
+    the same authors, received 28 May 2025, published online 15 August
+    2025, CC BY 4.0. `published:` is 4 October 2024, the earliest
+    appearance any source gives (ADR-002, "when unsure, the earlier"):
+    the anonymous ICLR submission was public on OpenReview from then,
+    thirteen days before arXiv v1 (17 October 2024). The 27 September
+    creation date is a private submission, not an appearance. Not held in
+    nucleation before this filing: a grep of record/ for the identifier,
+    the title and "Sclocchi" found only LIT-884 (the same group's earlier
+    PNAS paper) and mentions of it. Not held in the Anthology of the SOTA
+    as far as its clone shows: a grep of its record/ (clone at commit
+    d8b5ba5, 9 October 2026, possibly stale) for the arXiv id, the DOI,
+    the OpenReview id, the title, "Sclocchi" and "Noam Itzhak" found
+    nothing, and "forward-backward" only as a training pass. Its
+    experimental half is about diffusion models of images and text,
+    which the anthology's `generative-modeling` and `signal-structure`
+    topics could hold, hence `anthology-candidate`. The OpenReview
+    reviews, v1, the JSTAT version and any code were not read.
+tags:
+- compositionality
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-10-09'
+published: '2024-10-04'
+arxiv: '2410.13770'
+first_author: 'Sclocchi'
+keywords:
+- 'data structure'
+- 'hierarchical compositionality'
+- 'diffusion models'
+- 'statistical physics'
+- 'phase transition'
+- 'random hierarchy model'
+- 'dynamical susceptibility'
+- 'correlation length'
+- 'masked diffusion language models'
+implementations: []
+summary: >-
+  Sclocchi, Favero, Levi and Wyart (ICLR 2025; JSTAT 2025, 084005). In the
+  Random Hierarchy Model with known rules, the changes that noising and
+  Bayes-optimal denoising make to a datum come in blocks set by which
+  latent changed, and an annealed mean-field calculation, checked against
+  exact belief propagation, gives a correlation length that diverges as a
+  power of the distance to the class threshold, with a susceptibility peak
+  there; a Gaussian field with a power-law spectrum shows none. The same
+  peak appears at an intermediate noise in a masked diffusion language
+  model on WikiText-2 and in an ImageNet DDPM read through CLIP patch
+  embeddings.
+---
+<!-- inactive-ok-file: QUESTION-025 THEORY-199 THEORY-195 THEORY-201 THEORY-200 THEORY-194 THEORY-tmpaji42 CLAIM-008 — Proposed, open or superseded; cited as the question the request sat beside, the accounts this one is set beside, what this reading produced, and a retired claim it would have spoken to -->
+
+# LIT-tmphx4s3: Probing the Latent Hierarchical Structure of Data via Diffusion Models
+
+Antonio Sclocchi, Alessandro Favero, Noam Itzhak Levi and Matthieu Wyart
+(2024), *International Conference on Learning Representations (ICLR) 2025*,
+poster (OpenReview forum 0GzqVqCKns); later in *Journal of Statistical
+Mechanics: Theory and Experiment* 2025(8), 084005 (2025) —
+[ARXIV-2410.13770](https://arxiv.org/abs/2410.13770), DOI-10.1088/1742-5468/aded6c
+
+## Key takeaways
+
+- **From which level survives to how changes are arranged.** [LIT-884](LIT-884.md) asked,
+  level by level, whether a hierarchical datum's latents survive a
+  forward–backward run (noise to time t, then denoise). This paper asks
+  which tokens change *together*. It marks each token as changed or not
+  (σ_i = ±1), takes the connected two-point correlation C_ij of those marks
+  over trajectories and starting data, and sums it into a dynamical
+  susceptibility χ = Σ_ij C_ij / Σ_i C_ii, the observable used for
+  cooperative motion in glasses (Donati et al.; Toninelli et al.). χ counts
+  the volume of the blocks that change in concert.
+- **In the Random Hierarchy Model, blocks diverge at the class threshold.**
+  With the rules known, denoising is exact belief propagation ([LIT-884](LIT-884.md)). The
+  changes of two tokens are coupled through the latents on their paths up
+  to their lowest common ancestor, so a changed latent at depth ℓ can
+  rewrite a block of up to s^ℓ tokens together. Averaging
+  the BP messages over rule draws (the annealed approximation of [LIT-884](LIT-884.md))
+  gives the pair statistics as a product of 2 × 2 matrices, T C Tᵀ (Eqs. 5,
+  29–51). Near the threshold ε*, the upward belief stays close to the
+  repulsive fixed point p* for about ℓ̃ ≈ −log|ε − ε*| / log F′(p*) levels,
+  so the correlation length ξ ≈ s^ℓ̃ ∼ |ε − ε*|^(−ν), ν = log s / log F′(p*)
+  (Eq. 54). That is the standard renormalisation-group form of a
+  correlation-length exponent, with s as the block factor and F′(p*) as
+  the relevant eigenvalue.
+- **Checked against exact BP at one parameter set.** For v = 32, m = 8,
+  s = 2, L = 9, BP runs of the ε-process give C(r, ε) with a system-spanning
+  power law (C ∼ r^(−1), the exponent fitted) at ε* ≈ 0.74 and faster decay
+  on either side; the mean-field curves lie on the data, χ(ε) peaks at ε*,
+  and rescaling r by ξ collapses the curves (Figs. 2a, 9). With masking
+  diffusion, the process used for discrete data in practice, the peak
+  sits at t* ≈ 0.3 T, where the class reconstruction drops (Figs. 2b, 10);
+  there is no exact map between masking fraction and ε. BP sampling and
+  backward diffusion with the BP score give the same curves (Fig. 8).
+- **Spatial correlation alone does not do it.** For a Gaussian random field
+  with power-law spectrum ‖k‖^(−a), forward–backward diffusion acts as a
+  low-pass filter: modes below κ*(t) = (1/α_t − 1)^(−1/a) are kept and the
+  rest resampled, so the correlation length of the changes grows
+  monotonically in t and χ is largest at t = T (App. B, Fig. 11). A peak at
+  a finite noise is what distinguishes the tree from this case.
+- **Text and images show a peak at an intermediate noise.** A masked
+  diffusion language model (MDLM, GPT-2 tokenizer) on WikiText-2, with 300
+  passages of 128 tokens and 50 maskings each, gives a correlation length of
+  about 7–8 tokens and a χ peak near t ≈ 0.6 T (χ integrated only to
+  r = 10 to avoid a finite-size effect of the fixed masking fraction;
+  Fig. 4). An unconditional ImageNet DDPM (Nichol and Dhariwal), with the
+  change of each of 7 × 7 CLIP ViT-B/32 patch embeddings as the token
+  change, gives a χ peak near t ≈ 0.6–0.7 T, where a ConvNeXt's logits
+  lose their similarity to the original's (Figs. 5, 6, 13). The authors
+  read this as support for a latent hierarchy common to language and
+  images.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request. It is not a work cited by
+anything the record holds: the owner added it by link, with no stated
+context, to the same request as the batches on hierarchy and hyperbolic
+geometry (nucleation#113 and [#114](https://github.com/dmarx/nucleation/issues/114), filed beside [QUESTION-025](../questions.d/QUESTION-025.md)), right after
+them. Read on its own merits ([NOTE-tmph9awb](../notes.d/NOTE-tmph9awb.md)); the reading produces
+[THEORY-tmpaji42](../theory.d/THEORY-tmpaji42.md).
+
+Its nearest neighbour here is [LIT-884](LIT-884.md), the same group's PNAS paper, which
+it extends and depends on: the model, the BP denoiser, the ε-process and
+the annealed map are [LIT-884](LIT-884.md)'s, and the class threshold it organises
+everything around is [THEORY-199](../theory.d/THEORY-199.md). Where [LIT-884](LIT-884.md) established that the class
+is lost abruptly and the leaves gradually, this paper adds what lies
+between: the depth of the latent that changed is visible as the size of
+the block that changed, and block size peaks at the threshold. Both rest on
+the Random Hierarchy Model of [LIT-877](LIT-877.md). [LIT-883](LIT-883.md) ([THEORY-201](../theory.d/THEORY-201.md)) measures the
+static correlations of tokens in the same kind of data, falling with tree
+distance; this paper's §3.3 is the argument that such static correlations
+are not enough to produce its dynamical signature. [LIT-880](LIT-880.md)'s reading
+([NOTE-684](../notes.d/NOTE-684.md)) notes that diffusion resampling was proposed as a way to test
+synonym invariance on images; this paper does not do that. The exponent
+formula ties it to the renormalisation-group works the record holds
+([LIT-873](LIT-873.md), [LIT-882](LIT-882.md); [THEORY-194](../theory.d/THEORY-194.md)), as an instance of a coarse-graining flow
+with an unstable fixed point, though the paper does not use that language.
+
+It does not bear on [QUESTION-025](../questions.d/QUESTION-025.md) beyond offering an instrument. Its
+hierarchy is constituency, as in [LIT-877](LIT-877.md) and [LIT-884](LIT-884.md); it uses CLIP
+embeddings only for the size of each patch's change, and it measures no
+co-occurrence matrix, attribute direction or concept lattice. It is
+flagged for the anthology because its experiments are on diffusion models
+of text and images.
