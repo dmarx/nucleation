@@ -7,6 +7,7 @@ title: 'X is a cause of Y exactly when some intervention on X with respect to Y 
 version: 1
 tags:
 - metaphysics
+- causality
 - philosophy-of-science
 date: '2026-10-05'
 source:

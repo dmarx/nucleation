@@ -24,6 +24,7 @@ history:
     identifier. The vocabulary has no word for causal structure; see
     "Standing in the record".
 tags:
+- causality
 - quantum-foundations
 - mathematics
 date: '2026-10-09'

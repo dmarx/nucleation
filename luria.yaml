@@ -93,6 +93,9 @@ vocabularies:
       social-science:
         label: Social science
         blurb: 'economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy'
+      causality:
+        label: Causality
+        blurb: 'causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035)'
       pragmatics:
         label: Pragmatics
         blurb: 'language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034)'

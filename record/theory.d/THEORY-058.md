@@ -37,6 +37,7 @@ tags:
 - philosophy-of-science
 - metaphysics
 - psychometrics
+- causality
 date: '2026-10-03'
 source:
 - LIT-547

@@ -20,6 +20,7 @@ history:
     titles found nothing. Filed as a successor of LIT-tmpg68lt; the
     vocabulary has no word for causal structure.
 tags:
+- causality
 - contextuality
 - quantum-foundations
 - mathematics

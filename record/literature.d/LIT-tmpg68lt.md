@@ -42,6 +42,7 @@ history:
     "The Topology and Geometry of Causality" and split into the three
     papers in March 2023.
 tags:
+- causality
 - contextuality
 - quantum-foundations
 - mathematics

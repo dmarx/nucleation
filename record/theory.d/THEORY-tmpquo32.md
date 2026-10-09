@@ -11,6 +11,7 @@ promote_when: >-
 title: 'When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality'
 version: 1
 tags:
+- causality
 - contextuality
 - quantum-foundations
 - mathematics
