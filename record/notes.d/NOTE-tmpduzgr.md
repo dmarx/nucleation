@@ -200,29 +200,29 @@ statistical view of communication and his filtering and prediction work,
 which the acknowledgements credit. The coding of §9 is credited as
 substantially the same as Fano's, found independently; the code of §17 is
 Hamming's. The sampling theorem's proof is referred to Shannon's 1949
-"Communication in the Presence of Noise" (LIT-317), which the paper cites
+"Communication in the Presence of Noise" ([LIT-317](../literature.d/LIT-317.md)), which the paper cites
 in a footnote to Theorem 13. Formulas like Theorem 17's are noted as found
 independently "by several other writers, although with somewhat different
 interpretations": N. Wiener, W. G. Tuller and H. Sullivan (§25).
 
 ## Bearing on the record
 
-- **LIT-317 (Shannon 1949).** That LIT is Deferred and its summary credits
+- **[LIT-317](../literature.d/LIT-317.md) (Shannon 1949).** That LIT is Deferred and its summary credits
   the 1949 paper with the sampling theorem and C = W log₂(1 + P/N). Both
   already appear in this paper, as Theorems 13 and 17; this paper states
   the sampling theorem and defers its proof to the 1949 paper. So "where
   the capacity formula first appears" is this paper, and what the 1949
   paper adds is the geometric treatment and the sampling proof. This is
-  worth a line in LIT-317 when it is read; I did not edit it.
-- **LIT-338 (information bottleneck) and NOTE-300.** NOTE-300 reads the IB
+  worth a line in [LIT-317](../literature.d/LIT-317.md) when it is read; I did not edit it.
+- **[LIT-338](../literature.d/LIT-338.md) (information bottleneck) and [NOTE-300](NOTE-300.md).** [NOTE-300](NOTE-300.md) reads the IB
   paper as opening with Shannon having left meaning out and as a
   rate-distortion problem. Both premises are in this paper: the
   Introduction sets semantic aspects aside explicitly, and Part V defines
   the rate for a source at a fidelity as a minimum of the transmission
   rate over joint distributions, which is the form IB inherits.
 - **THEORY.** None of the record's THEORY documents is an account of
-  Shannon's theorems; THEORY-006 (InfoNCE bounds on mutual information)
-  and THEORY-035 (Rejected, compression in SGD) use mutual information but
+  Shannon's theorems; [THEORY-006](../theory.d/THEORY-006.md) (InfoNCE bounds on mutual information)
+  and [THEORY-035](../theory.d/THEORY-035.md) (Rejected, compression in SGD) use mutual information but
   rest on nothing this paper says. No THEORY is filed. A candidate, not
   filed: "Shannon's entropy is justified operationally, by the coding
   theorems, and its axiomatic uniqueness is offered only as plausibility",

@@ -18,7 +18,7 @@ date: '2026-10-09'
 source:
 - LIT-tmpj84ja
 summary: >-
-  Baez & Fong (2013), LIT-tmpj84ja, read in NOTE-tmputmoi: Theorem 1
+  Baez & Fong (2013), [LIT-tmpj84ja](../literature.d/LIT-tmpj84ja.md), read in [NOTE-tmputmoi](../notes.d/NOTE-tmputmoi.md): Theorem 1
   (finite state space, four equivalent conditions) and Theorems 2–3 (σ-finite
   measure spaces, without the component form). Unlike quantum mechanics,
   where a mean conserved in every state already implies commutation, a
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Baez & Fong (2013), LIT-tmpj84ja, read in full in NOTE-tmputmoi: Theorem
+Baez & Fong (2013), [LIT-tmpj84ja](../literature.d/LIT-tmpj84ja.md), read in full in [NOTE-tmputmoi](../notes.d/NOTE-tmputmoi.md): Theorem
 1 with its proof, the counterexample of Section 1, and Theorems 2–3 of
 Section 3.
 
@@ -86,7 +86,7 @@ semigroups (Theorem 2, stated as a consequence).
 
 The commutant described here is a block structure. H can only be
 commuted with by observables that label regions it never connects. This
-parallels THEORY-019, where operators commuting with a group respect its
-isotypic components, and THEORY-042, where superselected observables
+parallels [THEORY-019](THEORY-019.md), where operators commuting with a group respect its
+isotypic components, and [THEORY-042](THEORY-042.md), where superselected observables
 label sectors no observable connects. Both parallels are the record's,
 not the paper's.

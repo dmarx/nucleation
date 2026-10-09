@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpduzgr); worth reading as the source of the measure and both coding theorems, in their first and plainest form: a source''s entropy is the minimum rate it can be sent at (Theorem 9), a noisy channel''s capacity C = max(H(x) − H_y(x)) is the maximum rate at which error can be made arbitrarily small, and errors do not force the rate to zero (Theorem 11, by averaging over random codes). Shannon says the axioms that single out −Σ p log p are not needed by the theory; the coding theorems are its justification. The capacity formula W log(1 + P/N) and the sampling representation are already here (Theorems 13, 17), as is the minimum rate for a source at a given fidelity (Theorem 21). Proofs are sketches at the typical-set level.'
+status_note: 'read 2026-10-09 ([NOTE-tmpduzgr](../notes.d/NOTE-tmpduzgr.md)); worth reading as the source of the measure and both coding theorems, in their first and plainest form: a source''s entropy is the minimum rate it can be sent at (Theorem 9), a noisy channel''s capacity C = max(H(x) − H_y(x)) is the maximum rate at which error can be made arbitrarily small, and errors do not force the rate to zero (Theorem 11, by averaging over random codes). Shannon says the axioms that single out −Σ p log p are not needed by the theory; the coding theorems are its justification. The capacity formula W log(1 + P/N) and the sampling representation are already here (Theorems 13, 17), as is the minimum rate for a source at a given fidelity (Theorem 21). Proofs are sketches at the typical-set level.'
 title: 'A Mathematical Theory of Communication'
 version: 1
 history:
@@ -70,10 +70,10 @@ C. E. Shannon (1948), *Bell System Technical Journal* 27(3):379–423 and
   "Relative entropy" here means H over its maximum on the alphabet, not
   the Kullback–Leibler divergence.
 - **Continuous parts** (III–V, skimmed). Sampling at 1/(2W) (Theorem 13,
-  proof referred to the 1949 paper, LIT-317), C = W log(1 + P/N) for
+  proof referred to the 1949 paper, [LIT-317](LIT-317.md)), C = W log(1 + P/N) for
   white noise (Theorem 17), and a minimum rate for a source at a fidelity
   criterion (Theorems 21–22), the first form of rate-distortion theory,
-  which the information bottleneck (LIT-338) inherits.
+  which the information bottleneck ([LIT-338](LIT-338.md)) inherits.
 
 ## Standing in the record
 
@@ -82,8 +82,8 @@ reference list of the owner's working manuscript (October 2026) that the
 record did not yet hold. See the curation entry of that day.
 
 It is the record's primary source for entropy, equivocation and capacity.
-LIT-317 (Shannon 1949, Deferred) is credited in its summary
+[LIT-317](LIT-317.md) (Shannon 1949, Deferred) is credited in its summary
 with the sampling theorem and W log(1 + P/N); both are stated here first,
 and this paper defers only the sampling theorem's proof to the 1949 one.
-The information bottleneck (LIT-338) starts from this
+The information bottleneck ([LIT-338](LIT-338.md)) starts from this
 paper's exclusion of meaning and from Part V's minimum rate at a fidelity.

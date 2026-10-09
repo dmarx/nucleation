@@ -119,13 +119,13 @@ never leaves.
 - **Noether's theorem.** The paper is explicit that its version is
   "somewhat removed from the original form": it generalises the
   Poisson-bracket and commutator form, not the Lagrangian one.
-- **THEORY-019 (Proposed)** says an operator commuting with a group has
+- **[THEORY-019](../theory.d/THEORY-019.md) (Proposed)** says an operator commuting with a group has
   eigenspaces that are the group's isotypic components. In the stochastic
   case of Theorem 1, the commutant of H among diagonal observables is
   exactly the functions constant on the components of the transition
   graph. That is the block structure H is forced to respect. The parallel
   is mine.
-- **THEORY-042 (Active)**, the superselection account. A commuting
+- **[THEORY-042](../theory.d/THEORY-042.md) (Active)**, the superselection account. A commuting
   stochastic observable labels sectors that no transition connects, as a
   superselected charge labels sectors that no observable connects. The
   parallel is mine, and the two settings differ: one concerns dynamics, the
@@ -133,11 +133,11 @@ never leaves.
 
 ## Bearing on the record
 
-- **New THEORY filed: THEORY-tmpnp46m**, on what the commuting conserved
+- **New THEORY filed: [THEORY-tmpnp46m](../theory.d/THEORY-tmpnp46m.md)**, on what the commuting conserved
   quantities of a Markov process are, and on the gap between a conserved
   mean and commutation.
-- No existing THEORY is supported or contradicted directly; THEORY-019 and
-  THEORY-042 are parallels, noted above.
+- No existing THEORY is supported or contradicted directly; [THEORY-019](../theory.d/THEORY-019.md) and
+  [THEORY-042](../theory.d/THEORY-042.md) are parallels, noted above.
 - **Anthology.** No instruction for machine-learning practice.
 
 ## Limitations

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmputmoi); worth reading as the stochastic counterpart of the commutator form of Noether''s theorem: for a Markov process, an observable commutes with the generator iff its mean and second moment are conserved in every state. On a finite state space that holds iff it is constant on each connected component of the transition graph. A conserved mean alone is not enough, unlike quantum mechanics, as an explicit 3-state example shows. Only diagonal observables are treated, not symmetries that permute states.'
+status_note: 'read 2026-10-09 ([NOTE-tmputmoi](../notes.d/NOTE-tmputmoi.md)); worth reading as the stochastic counterpart of the commutator form of Noether''s theorem: for a Markov process, an observable commutes with the generator iff its mean and second moment are conserved in every state. On a finite state space that holds iff it is constant on each connected component of the transition graph. A conserved mean alone is not enough, unlike quantum mechanics, as an explicit 3-state example shows. Only diagonal observables are treated, not symmetries that permute states.'
 title: 'A Noether theorem for Markov processes'
 version: 1
 history:
@@ -72,10 +72,10 @@ Filed on 2026-10-09 at the owner's request, as one of the works in the
 reference list of the owner's working manuscript (October 2026) that the
 record did not yet hold. See the curation entry of that day.
 
-Read in full the same day (NOTE-tmputmoi). Its theorem is filed as
-THEORY-tmpnp46m. The commutant it describes, observables that label
+Read in full the same day ([NOTE-tmputmoi](../notes.d/NOTE-tmputmoi.md)). Its theorem is filed as
+[THEORY-tmpnp46m](../theory.d/THEORY-tmpnp46m.md). The commutant it describes, observables that label
 regions the dynamics never connects, parallels the record's accounts of
-commutants and isotypic blocks (THEORY-019) and of superselection sectors
-(THEORY-042). Both parallels are mine, not the paper's. Fritz's Markov
-categories (LIT-tmphrafc), filed with it, treat the same kernels
+commutants and isotypic blocks ([THEORY-019](../theory.d/THEORY-019.md)) and of superselection sectors
+([THEORY-042](../theory.d/THEORY-042.md)). Both parallels are mine, not the paper's. Fritz's Markov
+categories ([LIT-tmphrafc](LIT-tmphrafc.md)), filed with it, treat the same kernels
 compositionally, and neither paper cites the other.

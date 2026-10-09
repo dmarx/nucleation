@@ -56,7 +56,7 @@ the minimum rate of lossy coding of a source when correlated side information
 is available at the decoder only, using an auxiliary variable and binning; in
 general this rate exceeds the conditional rate-distortion function, in which
 the encoder also sees the side information, with equality for jointly Gaussian
-sources under squared error. Cover & Thomas, LIT-tmp0uur5, treat it as §15.9, "Rate Distortion with
+sources under squared error. Cover & Thomas, [LIT-tmp0uur5](LIT-tmp0uur5.md), treat it as §15.9, "Rate Distortion with
 Side Information" (p. 580 of the second edition, after §15.8 on lossless
 source coding with side information), as its publicly posted table of
 contents shows; that book is not read either.

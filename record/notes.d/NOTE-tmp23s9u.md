@@ -209,20 +209,20 @@ to need positivity of probability, is reduced to a single axiom.
 - **Fong**'s categorical Bayesian networks, where the structure appears
   implicitly.
 - **Within the record.** Fritz's earlier convex spaces enter the reading of
-  LIT-038 (NOTE-050). Baez–Fritz–Leinster's characterisation of entropy,
-  stated on FinStoch, is cited in NOTE-088. Mansfield–Fritz appears in the
-  reading of the sheaf-theoretic contextuality paper (NOTE-016). FinSetMulti
+  [LIT-038](../literature.d/LIT-038.md) ([NOTE-050](NOTE-050.md)). Baez–Fritz–Leinster's characterisation of entropy,
+  stated on FinStoch, is cited in [NOTE-088](NOTE-088.md). Mansfield–Fritz appears in the
+  reading of the sheaf-theoretic contextuality paper ([NOTE-016](NOTE-016.md)). FinSetMulti
   (Example 2.6) is the possibilistic counterpart of FinStoch, the same
-  passage from probabilities to supports that LIT-016 makes for
+  passage from probabilities to supports that [LIT-016](../literature.d/LIT-016.md) makes for
   contextuality (its Proposition 4.4). That link is mine.
 - **Comparison of experiments.** The sufficiency witness and the ≤ order on
   statistics (Definition 16.1) are close to the order of informativeness
-  in Blackwell (LIT-tmpsujnn) and Torgersen (LIT-tmpoo2k7). The paper
+  in Blackwell ([LIT-tmpsujnn](../literature.d/LIT-tmpsujnn.md)) and Torgersen ([LIT-tmpoo2k7](../literature.d/LIT-tmpoo2k7.md)). The paper
   cites neither, and the link is mine.
 
 ## Bearing on the record
 
-- **THEORY-012 (Active).** It holds that signed global sections always
+- **[THEORY-012](../theory.d/THEORY-012.md) (Active).** It holds that signed global sections always
   exist for no-signalling models, so negative probability does not mark
   contextuality. Fritz's FinStoch± (Example 11.27) fits that picture.
   Signed kernels satisfy every Markov-category axiom: copying,
@@ -230,15 +230,15 @@ to need positivity of probability, is reduced to a single axiom.
   conditionals and "every isomorphism is deterministic". So within this
   framework negativity is invisible to the copy/discard structure and
   appears only at the positivity axiom. This neither supports nor
-  contradicts THEORY-012; it locates where negativity enters. The
+  contradicts [THEORY-012](../theory.d/THEORY-012.md); it locates where negativity enters. The
   connection is mine.
-- **THEORY-017 (Proposed).** It holds that a basis is extra data on a
+- **[THEORY-017](../theory.d/THEORY-017.md) (Proposed).** It holds that a basis is extra data on a
   Hilbert space. In a Markov category the copy maps play the role of a
   chosen classical basis. Remark 11.29 shows that under positivity that
   choice is forced: every comonoid structure on an object equals the
   distinguished one. This is a parallel, not evidence for or against
-  THEORY-017, since the settings differ.
-- **New THEORY filed: THEORY-tmpm1g8e**, on which axioms the classical
+  [THEORY-017](../theory.d/THEORY-017.md), since the settings differ.
+- **New THEORY filed: [THEORY-tmpm1g8e](../theory.d/THEORY-tmpm1g8e.md)**, on which axioms the classical
   sufficiency theorems actually use.
 - **Anthology.** No instruction for machine-learning practice. Not an
   anthology candidate.

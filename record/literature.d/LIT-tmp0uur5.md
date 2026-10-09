@@ -71,7 +71,7 @@ the history note): the table of contents and Chapter 1, the preview.
 - **Where the side-information results are.** §15.4 (Slepian–Wolf,
   p. 549), §15.8 (source coding with side information, p. 575) and §15.9
   (rate distortion with side information, p. 580), the textbook treatment
-  of the Wyner–Ziv paper, LIT-tmp8aw1m; side information in gambling is
+  of the Wyner–Ziv paper, [LIT-tmp8aw1m](LIT-tmp8aw1m.md); side information in gambling is
   §6.2 and in investment §16.4.
 - **The authors' framing** (Chapter 1). Information theory gives the two
   extreme points of communication: the compression limit, a minimum of

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmp23s9u); worth reading as the reference account of Markov categories and of how much probability and statistics follows from copying, discarding and composing kernels: determinism, four notions of conditional independence with the semigraphoid rules (weak union only with conditionals), almost-sure equality, and sufficiency, completeness and ancillarity. Basu''s theorem holds in every Markov category, and Fisher–Neyman and Bahadur under strict positivity, which Stoch has without conditionals. The abstract Fisher–Neyman is matched to the classical theorem only for finite sets.'
+status_note: 'read 2026-10-09 ([NOTE-tmp23s9u](../notes.d/NOTE-tmp23s9u.md)); worth reading as the reference account of Markov categories and of how much probability and statistics follows from copying, discarding and composing kernels: determinism, four notions of conditional independence with the semigraphoid rules (weak union only with conditionals), almost-sure equality, and sufficiency, completeness and ancillarity. Basu''s theorem holds in every Markov category, and Fisher–Neyman and Bahadur under strict positivity, which Stoch has without conditionals. The abstract Fisher–Neyman is matched to the classical theorem only for finite sets.'
 title: 'A synthetic approach to Markov kernels, conditional independence and theorems on sufficient statistics'
 version: 1
 history:
@@ -91,12 +91,12 @@ Filed on 2026-10-09 at the owner's request, as one of the works in the
 reference list of the owner's working manuscript (October 2026) that the
 record did not yet hold. See the curation entry of that day.
 
-Read the same day (NOTE-tmp23s9u). Its result on which axioms the
-sufficiency theorems use is filed as THEORY-tmpm1g8e. Within the record,
-Fritz's earlier convex spaces enter the reading of LIT-038 (NOTE-050), and
-Baez–Fritz–Leinster's entropy characterisation is cited in NOTE-088. Its
+Read the same day ([NOTE-tmp23s9u](../notes.d/NOTE-tmp23s9u.md)). Its result on which axioms the
+sufficiency theorems use is filed as [THEORY-tmpm1g8e](../theory.d/THEORY-tmpm1g8e.md). Within the record,
+Fritz's earlier convex spaces enter the reading of [LIT-038](LIT-038.md) ([NOTE-050](../notes.d/NOTE-050.md)), and
+Baez–Fritz–Leinster's entropy characterisation is cited in [NOTE-088](../notes.d/NOTE-088.md). Its
 example of signed kernels (FinStoch±) shows where negativity enters,
-against THEORY-012's finding that signed global sections always exist.
+against [THEORY-012](../theory.d/THEORY-012.md)'s finding that signed global sections always exist.
 The paper does not draw that connection; it is mine. Baez and Fong's
-Noether theorem for Markov processes (LIT-tmpj84ja), filed with it, works
+Noether theorem for Markov processes ([LIT-tmpj84ja](LIT-tmpj84ja.md)), filed with it, works
 with the same kernels as operators and declares no relation.

@@ -19,7 +19,7 @@ date: '2026-10-09'
 source:
 - LIT-tmphrafc
 summary: >-
-  Fritz (2020), LIT-tmphrafc, read in NOTE-tmp23s9u, Theorems 14.5, 15.8
+  Fritz (2020), [LIT-tmphrafc](../literature.d/LIT-tmphrafc.md), read in [NOTE-tmp23s9u](../notes.d/NOTE-tmp23s9u.md), Theorems 14.5, 15.8
   and 16.3 with the definitions of Sections 13–15. Sufficiency,
   completeness and ancillarity are stated with copy, discard, composition
   and almost-sure equality alone. Basu's theorem follows with no further
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-Fritz (2020), LIT-tmphrafc, read in NOTE-tmp23s9u: Definitions 13.1,
+Fritz (2020), [LIT-tmphrafc](../literature.d/LIT-tmphrafc.md), read in [NOTE-tmp23s9u](../notes.d/NOTE-tmp23s9u.md): Definitions 13.1,
 13.16, 14.1–14.3, 15.1, 15.7, 16.1–16.2; Theorems 14.5, 15.8, 16.3;
 Examples 13.19, 14.6, 15.4.
 
