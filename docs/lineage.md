@@ -2,7 +2,7 @@
 
 # Lines of work
 
-55 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+56 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -464,6 +464,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
   - [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Deferred)*
 
+### From Mutual information, neural networks and the renormalization group
+
+- [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
+  - [LIT-881](../record/literature.d/LIT-881.md) — Optimal Renormalization Group Transformation from Information Theory *(Active)*
+
 ## learning-and-conditioning
 
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
@@ -632,6 +637,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
+
+### From Mutual information, neural networks and the renormalization group
+
+- [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
+  - [LIT-881](../record/literature.d/LIT-881.md) — Optimal Renormalization Group Transformation from Information Theory *(Active)*
 
 ## network-science
 
@@ -829,6 +839,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-862](../record/literature.d/LIT-862.md) — A mathematical theory of semantic development in deep neural networks *(Active)*
   - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
 - [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
+
+### From Mutual information, neural networks and the renormalization group
+
+- [LIT-873](../record/literature.d/LIT-873.md) — Mutual information, neural networks and the renormalization group *(Active)*
+  - [LIT-881](../record/literature.d/LIT-881.md) — Optimal Renormalization Group Transformation from Information Theory *(Active)*
 
 ## self
 

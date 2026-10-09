@@ -1,6 +1,9 @@
 ---
+number: 684
 status: Read
-paper: 'LIT-tmphj2kq'
+formerly:
+- NOTE-tmpc1el0
+paper: 'LIT-880'
 title: 'The Sparse Random Hierarchy Model'
 version: 1
 history:
@@ -31,9 +34,9 @@ summary: >-
   That coincidence is offered as the reason deformation stability tracks
   performance on images, which is not tested on images.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-185 THEORY-186 THEORY-195 THEORY-tmpvxccc — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-185 THEORY-186 THEORY-195 THEORY-200 — Proposed or open; cited as what this reading produced or bears on -->
 
-# NOTE-tmpc1el0: The Sparse Random Hierarchy Model
+# NOTE-684: The Sparse Random Hierarchy Model
 
 ## Contribution
 
@@ -169,7 +172,7 @@ acquires it from data.
   argument and confirmed by curve collapse rather than tracked level by
   level. The CNN's (s0 + 1)^2 is not predicted by that argument and is
   unexplained.
-- **New account.** [THEORY-tmpvxccc](../theory.d/THEORY-tmpvxccc.md), Proposed: on sparse hierarchical data,
+- **New account.** [THEORY-200](../theory.d/THEORY-200.md), Proposed: on sparse hierarchical data,
   invariance to synonym swaps and to feature displacements and good
   performance arrive at one training-set size.
 - **[QUESTION-025](../questions.d/QUESTION-025.md).** No bearing beyond [LIT-877](../literature.d/LIT-877.md)'s. Constituency, not

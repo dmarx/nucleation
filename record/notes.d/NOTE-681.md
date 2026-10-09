@@ -1,6 +1,9 @@
 ---
+number: 681
 status: Read
-paper: 'LIT-tmp6uvvn'
+formerly:
+- NOTE-tmp0zdr4
+paper: 'LIT-878'
 title: 'Statistical Physics through the Lens of Real-Space Mutual Information'
 version: 1
 history:
@@ -34,7 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-036 QUESTION-025 THEORY-185 LIT-246 LIT-256 LIT-247 — Proposed, Deferred or open; cited as accounts this reading is set beside and the estimator papers it rests on -->
 
-# NOTE-tmp0zdr4: Statistical Physics through the Lens of Real-Space Mutual Information
+# NOTE-681: Statistical Physics through the Lens of Real-Space Mutual Information
 
 ## Contribution
 

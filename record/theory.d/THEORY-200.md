@@ -1,5 +1,8 @@
 ---
+number: 200
 status: Proposed
+formerly:
+- THEORY-tmpvxccc
 promote_when: >-
   A result in which the two invariances could have come apart and did not,
   or a test outside the synthetic model. For instance: a sparse
@@ -22,9 +25,9 @@ tags:
 - representation-learning
 date: '2026-10-09'
 source:
-- LIT-tmphj2kq
+- LIT-880
 summary: >-
-  Tomasini and Wyart (2024), [LIT-tmphj2kq](../literature.d/LIT-tmphj2kq.md): measured for locally connected,
+  Tomasini and Wyart (2024), [LIT-880](../literature.d/LIT-880.md): measured for locally connected,
   convolutional and fully connected networks on the Sparse Random
   Hierarchy Model with s ≤ 3 and L ≤ 3, with thresholds for the two
   sensitivities tuned per setting; the sample size is about
@@ -37,12 +40,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-195 THEORY-186 QUESTION-025 — Proposed or open; cited as the account this one extends and those it is set beside -->
 
-# THEORY-tmpvxccc: On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task
+# THEORY-200: On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task
 
 ## Source
 
-Tomasini and Wyart (2024; ICML 2024, PMLR 235), [LIT-tmphj2kq](../literature.d/LIT-tmphj2kq.md), Eqs. 3–8
-and 12, Figs. 1, 4–17, Appendices A–G, as read in [NOTE-tmpc1el0](../notes.d/NOTE-tmpc1el0.md).
+Tomasini and Wyart (2024; ICML 2024, PMLR 235), [LIT-880](../literature.d/LIT-880.md), Eqs. 3–8
+and 12, Figs. 1, 4–17, Appendices A–G, as read in [NOTE-684](../notes.d/NOTE-684.md).
 
 ## What was actually shown
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 3693 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 3786 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -117,7 +117,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-28 citations in 24 files await a look; 28 other citations of it are acknowledged.
+28 citations in 24 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -527,7 +527,7 @@ Kochen-Specker contextuality
 
 The Lattice Representation Hypothesis of Large Language Models
 
-9 citations in 8 files await a look; 14 other citations of it are acknowledged.
+9 citations in 8 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-245.md:168`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
@@ -1314,7 +1314,7 @@ Kolmogorov's Structure Functions and Model Selection
 
 On Mutual Information Maximization for Representation Learning
 
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-298.md:118`](../../record/notes.d/NOTE-298.md)
 - [`record/notes.d/NOTE-298.md:131`](../../record/notes.d/NOTE-298.md)
@@ -1491,7 +1491,7 @@ What survives translation is the set of communicative distinctions and relations
 
 Rigorous renormalization group
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-103.md:108`](../../record/notes.d/NOTE-103.md)
 

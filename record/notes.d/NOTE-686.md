@@ -1,6 +1,9 @@
 ---
+number: 686
 status: Read
-paper: 'LIT-tmpadlu8'
+formerly:
+- NOTE-tmpfo6lq
+paper: 'LIT-879'
 title: 'Hyperbolic Neural Networks'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-185 THEORY-189 THEORY-196 THEORY-186 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts and question this reading bears on -->
 
-# NOTE-tmpfo6lq: Hyperbolic Neural Networks
+# NOTE-686: Hyperbolic Neural Networks
 
 ## Contribution
 

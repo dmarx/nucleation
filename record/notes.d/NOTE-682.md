@@ -1,6 +1,9 @@
 ---
+number: 682
 status: Read
-paper: 'LIT-tmptez84'
+formerly:
+- NOTE-tmp2hvr8
+paper: 'LIT-881'
 title: 'Optimal Renormalization Group Transformation from Information Theory'
 version: 1
 history:
@@ -35,9 +38,9 @@ summary: >-
   by the cost of encoding into one binary spin.
 ---
 <!-- inactive-ok-file: LIT-039 — Deferred; named as an unread neighbour, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpc8tc8 THEORY-194 THEORY-073 THEORY-017 QUESTION-025 — Proposed or open; cited as what this reading produced, accounts it bears on, and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-198 THEORY-194 THEORY-073 THEORY-017 QUESTION-025 — Proposed or open; cited as what this reading produced, accounts it bears on, and the question it does not answer -->
 
-# NOTE-tmp2hvr8: Optimal Renormalization Group Transformation from Information Theory
+# NOTE-682: Optimal Renormalization Group Transformation from Information Theory
 
 ## Contribution
 
@@ -203,7 +206,7 @@ on rigorous RG ([LIT-039](../literature.d/LIT-039.md)) is held here unread.
 
 ## Bearing on the record
 
-- **Produces [THEORY-tmpc8tc8](../theory.d/THEORY-tmpc8tc8.md)**: full capture forbids range growth, and
+- **Produces [THEORY-198](../theory.d/THEORY-198.md)**: full capture forbids range growth, and
   the theorem's hypothesis is not met in the cases that illustrate it.
 - **[THEORY-194](../theory.d/THEORY-194.md).** Supports it on the point it was thinnest: why the
   information-maximizing coarse-graining should give a short-ranged

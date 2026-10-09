@@ -1,5 +1,8 @@
 ---
+number: 198
 status: Proposed
+formerly:
+- THEORY-tmpc8tc8
 promote_when: >-
   A proof that the coarse-graining maximizing mutual information with the
   environment beyond a buffer, under a fixed number and type of coarse
@@ -18,10 +21,10 @@ tags:
 - information-theory
 date: '2026-10-09'
 source:
-- LIT-tmptez84
+- LIT-881
 summary: >-
   Lenggenhager, Gökmen, Ringel, Huber and Koch-Janusz (2018),
-  [LIT-tmptez84](../literature.d/LIT-tmptez84.md): proved in 1D, and in D dimensions under an extra per-block
+  [LIT-881](../literature.d/LIT-881.md): proved in 1D, and in D dimensions under an extra per-block
   assumption and barring fine-tuned cancellations. The full-capture
   condition is not met in the paper's own worked case (decimation of
   two-spin Ising blocks keeps about half the information), and the decay
@@ -31,14 +34,14 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-073 QUESTION-025 — Proposed or open; cited as the account this one underpins, a neighbour, and the question it does not answer -->
 
-# THEORY-tmpc8tc8: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D
+# THEORY-198: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D
 
 ## Source
 
 Lenggenhager, Gökmen, Ringel, Huber and Koch-Janusz (2018; Phys. Rev. X
-2020), [LIT-tmptez84](../literature.d/LIT-tmptez84.md): Sec. III and Appendix B (Lemma, Propositions 1 and
+2020), [LIT-881](../literature.d/LIT-881.md): Sec. III and Appendix B (Lemma, Propositions 1 and
 2, Eqs. B1–B22), Secs. IV and VI with Appendix D (Figs. 4, 5, 9–12); as
-read in [NOTE-tmp2hvr8](../notes.d/NOTE-tmp2hvr8.md).
+read in [NOTE-682](../notes.d/NOTE-682.md).
 
 ## What was actually shown
 

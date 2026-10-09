@@ -1,5 +1,8 @@
 ---
+number: 197
 status: Proposed
+formerly:
+- THEORY-tmp1hbbz
 promote_when: >-
   A second, independent derivation of the correspondence is read and
   checked that states its scope as here: the identity of the coarse
@@ -20,10 +23,10 @@ tags:
 - representation-learning
 date: '2026-10-09'
 source:
-- LIT-tmptst8b
+- LIT-882
 - LIT-873
 summary: >-
-  Mehta and Schwab (2014), [LIT-tmptst8b](../literature.d/LIT-tmptst8b.md), Eqs. 18–22: setting the RG
+  Mehta and Schwab (2014), [LIT-882](../literature.d/LIT-882.md), Eqs. 18–22: setting the RG
   kernel T = −E + H makes the RG coarse Hamiltonian equal the RBM's
   hidden-marginal Hamiltonian for every parameter value, and Kadanoff's
   exactness condition equal to zero KL divergence. Short of exactness the
@@ -34,12 +37,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-194 — Proposed; cited as the empirical counterpart from LIT-873 -->
 
-# THEORY-tmp1hbbz: Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization
+# THEORY-197: Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization
 
 ## Source
 
-Mehta and Schwab (2014), [LIT-tmptst8b](../literature.d/LIT-tmptst8b.md): Sections I and III, Eqs. 1–22,
-and the closing paragraph of Section III; as read in [NOTE-tmp7l8yg](../notes.d/NOTE-tmp7l8yg.md).
+Mehta and Schwab (2014), [LIT-882](../literature.d/LIT-882.md): Sections I and III, Eqs. 1–22,
+and the closing paragraph of Section III; as read in [NOTE-683](../notes.d/NOTE-683.md).
 Koch-Janusz and Ringel (2017; Nature Physics 2018), [LIT-873](../literature.d/LIT-873.md): main text
 p. 4 and the supplement's comparison with contrastive-divergence RBMs, as
 read in [NOTE-674](../notes.d/NOTE-674.md).
@@ -60,7 +63,7 @@ free energies and the RBM on the KL divergence, and that the two "employ
 distinct variational approximation schemes".
 
 **The free energy under the identity** (the reader's derivation from
-Eqs. 4, 6, 7 and 18, in [NOTE-tmp7l8yg](../notes.d/NOTE-tmp7l8yg.md)): F^h = −log Z_λ, so
+Eqs. 4, 6, 7 and 18, in [NOTE-683](../notes.d/NOTE-683.md)): F^h = −log Z_λ, so
 ΔF = log Z − log Z_λ, which a constant shift of E sets to zero for any
 parameters. The criterion variational RG minimizes therefore measures only
 normalization once the kernel is the RBM's, and the paper's Eq. 8, which
@@ -82,7 +85,7 @@ could have found the fields.
   in [LIT-873](../literature.d/LIT-873.md) disputes them.
 - **Not that distribution-fitting networks never perform RG.** One
   counterexample shows they need not; when they do is open. The stacked,
-  L1-penalized network of [LIT-tmptst8b](../literature.d/LIT-tmptst8b.md) was not tested on [LIT-873](../literature.d/LIT-873.md)'s noisy
+  L1-penalized network of [LIT-882](../literature.d/LIT-882.md) was not tested on [LIT-873](../literature.d/LIT-873.md)'s noisy
   dimers.
 - **Not that variational RG in Kadanoff's own practice has no
   approximate criterion.** The claim is about the criterion as the

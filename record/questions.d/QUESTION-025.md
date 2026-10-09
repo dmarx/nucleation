@@ -19,7 +19,7 @@ summary: >-
   directions survive that structure is not answered by anything the
   record holds.
 ---
-<!-- inactive-ok-file: THEORY-tmpyaqz7 — Proposed; cited as partial evidence, not as settled -->
+<!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-195 THEORY-188 THEORY-189 THEORY-193 THEORY-191 THEORY-194 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-185 THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
 
@@ -127,7 +127,7 @@ None of these answers it; together they narrow it.
   mutual information; the second shows a level can carry nothing while the
   levels below it carry much, so a measurement should score every level.
 - **In token co-occurrence, a hierarchy shows as partitions and fades with
-  depth.** Cagnetta & Wyart ([LIT-tmpudm1k](../literature.d/LIT-tmpudm1k.md), [THEORY-tmpyaqz7](../theory.d/THEORY-tmpyaqz7.md)) generate
+  depth.** Cagnetta & Wyart ([LIT-883](../literature.d/LIT-883.md), [THEORY-201](../theory.d/THEORY-201.md)) generate
   sequences from a random hierarchy and measure their token–token
   correlations, which fall by about a factor m per level of the common
   ancestor; so a finite corpus shows only the shallow levels. Tuples with
@@ -138,7 +138,7 @@ None of these answers it; together they narrow it.
   derivation this question asks for, on part–whole rather than attribute
   hierarchies.
 - **Hyperbolic half-spaces as a probe.** Ganea, Bécigneul & Hofmann's
-  hyperbolic neural networks ([LIT-tmpadlu8](../literature.d/LIT-tmpadlu8.md)) separate WordNet subtrees with
+  hyperbolic neural networks ([LIT-879](../literature.d/LIT-879.md)) separate WordNet subtrees with
   geodesic hyperplanes better than Euclidean ones do, in embeddings trained
   on hypernym edges. Probing a co-occurrence embedding with both kinds of
   half-space is one way to make the measurement asked for above.

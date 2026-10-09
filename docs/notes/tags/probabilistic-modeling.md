@@ -4,7 +4,7 @@
 
 **probabilistic-modeling**.
 
-73 of 680 NOTE documents. Back to the [full index](../README.md).
+74 of 687 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -81,3 +81,4 @@
 | [NOTE-645](../../../record/notes.d/NOTE-645.md) v2 | On the Quantum-like Contextuality of Ambiguous Phrases | Models meaning selection in two-word ambiguous phrases as a Bell-type measurement scenario. Hand-set supports give one possibilistically contextual (Hardy-type) model; every corpus-estimated model is signalling, so only Contextuality-by-Default applies, under which two noun–verb pairs read in both grammatical orders are contextual (1/30 and 7/30). The paper's own bootstrap leaves both plausibly noncontextual (probabilities above .56 and .08), on very small counts. | Read |
 | [NOTE-648](../../../record/notes.d/NOTE-648.md) | Quantum-Like Contextuality in Large Language Models | Builds a three-sentence anaphora schema with the support of the PR prism, instantiates it 51,966,480 times from Simple English Wikipedia, and takes one referent probability per sentence from BERT: 0.148% of the models pass a signalling-corrected sheaf test and 71.1% the CbD test. Because the schema fixes the support, both verdicts depend only on how uncertain BERT is in the three sentences; the tie to embedding distance is a softmax identity with weak correlations. | Read |
 | [NOTE-654](../../../record/notes.d/NOTE-654.md) | Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools | Proves that in a binary cyclic system CbD's signalling quantity Δ is twice the sum of each content's minimal direct influence over Jones's canonical causal models, which is the total-variation distance between its marginals. In 90 rank-2 noun–verb systems from British corpora, Δ is about 1.35 for every ambiguity class, and homonymous verbs carry about 70% of it against about 50% for polysemous verbs. That difference rests on 14 systems from six verbs and is marginal by a recomputed test (p ≈ 0.06 two-sided). No system is tested for contextuality. | Read |
+| [NOTE-685](../../../record/notes.d/NOTE-685.md) | A Phase Transition in Diffusion Models | For the Random Hierarchy Model with known rules, exact denoising is belief propagation; an annealed mean-field map, checked against exact BP, shows that as depth grows the class is recovered below a threshold noise and lost above it, provided the grammar is sparse (s f < 1), while low-level features degrade smoothly and persist past the threshold. The same top-versus-bottom crossing appears in classifier layers under forward–backward runs of an ImageNet diffusion model, and not for a Gaussian mixture. | Read |

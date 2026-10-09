@@ -1,6 +1,9 @@
 ---
+number: 685
 status: Read
-paper: 'LIT-tmpxr3zk'
+formerly:
+- NOTE-tmpe9j5q
+paper: 'LIT-884'
 title: 'A Phase Transition in Diffusion Models'
 version: 1
 history:
@@ -29,9 +32,9 @@ summary: >-
   forward–backward runs of an ImageNet diffusion model, and not for a
   Gaussian mixture.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-195 THEORY-186 THEORY-tmpgy8v4 — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-195 THEORY-186 THEORY-199 — Proposed or open; cited as what this reading produced or bears on -->
 
-# NOTE-tmpe9j5q: A Phase Transition in Diffusion Models
+# NOTE-685: A Phase Transition in Diffusion Models
 
 ## Contribution
 
@@ -192,7 +195,7 @@ it notes that their graph of latents is not tree-like.
   with the sharp change. No conflict.
 - **[QUESTION-025](../questions.d/QUESTION-025.md).** No bearing: constituency hierarchy, no co-occurrence
   matrix, embedding directions or concept lattice.
-- **New account.** [THEORY-tmpgy8v4](../theory.d/THEORY-tmpgy8v4.md), Proposed: the class-reconstruction
+- **New account.** [THEORY-199](../theory.d/THEORY-199.md), Proposed: the class-reconstruction
   threshold and its sparsity condition, stated for the model only.
 - **Practice.** The paper gives no instruction; its subject is diffusion
   models and the structure of image data, which the anthology's

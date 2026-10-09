@@ -1,5 +1,8 @@
 ---
+number: 201
 status: Proposed
+formerly:
+- THEORY-tmpyaqz7
 promote_when: >-
   A result in which the usable context, or the depth of hidden structure a
   next-token learner represents, is moved by changing how fast token
@@ -23,10 +26,10 @@ tags:
 - compositionality
 date: '2026-10-09'
 source:
-- LIT-tmpudm1k
+- LIT-883
 - LIT-877
 summary: >-
-  Cagnetta and Wyart (2024), [LIT-tmpudm1k](../literature.d/LIT-tmpudm1k.md), extending [LIT-877](../literature.d/LIT-877.md) from labels to
+  Cagnetta and Wyart (2024), [LIT-883](../literature.d/LIT-883.md), extending [LIT-877](../literature.d/LIT-877.md) from labels to
   masked tokens: the correlation plateaus and the noise floor are derived
   for the Random Hierarchy Model in the large-v, large-m limit; the loss
   steps and the representation probes are measured in small transformers
@@ -36,12 +39,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-195 THEORY-182 THEORY-183 THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 
-# THEORY-tmpyaqz7: In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay
+# THEORY-201: In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay
 
 ## Source
 
-Cagnetta and Wyart (2024, NeurIPS 2024), [LIT-tmpudm1k](../literature.d/LIT-tmpudm1k.md), Eqs. 6–16, Figs.
-1–9, Appendices D–G, as read in [NOTE-tmpmgc8r](../notes.d/NOTE-tmpmgc8r.md). It extends Cagnetta et
+Cagnetta and Wyart (2024, NeurIPS 2024), [LIT-883](../literature.d/LIT-883.md), Eqs. 6–16, Figs.
+1–9, Appendices D–G, as read in [NOTE-687](../notes.d/NOTE-687.md). It extends Cagnetta et
 al. ([LIT-877](../literature.d/LIT-877.md)), whose classification result is [THEORY-195](THEORY-195.md).
 
 ## What was actually shown

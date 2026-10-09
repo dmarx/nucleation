@@ -1,6 +1,9 @@
 ---
+number: 687
 status: Read
-paper: 'LIT-tmpudm1k'
+formerly:
+- NOTE-tmpmgc8r
+paper: 'LIT-883'
 title: 'How the structure of language is acquired'
 version: 1
 history:
@@ -30,9 +33,9 @@ summary: >-
   where the loss for a given context length levels off. The route from
   correlations to learned hidden variables is argued, not proved.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-182 THEORY-183 THEORY-185 THEORY-186 THEORY-195 THEORY-tmpyaqz7 CLAIM-046 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading bears on or produced -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-182 THEORY-183 THEORY-185 THEORY-186 THEORY-195 THEORY-201 CLAIM-046 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading bears on or produced -->
 
-# NOTE-tmpmgc8r: How the structure of language is acquired
+# NOTE-687: How the structure of language is acquired
 
 ## Contribution
 
@@ -257,7 +260,7 @@ and not held.
   identical observations from different hidden-state models. It does not
   test this itself.
 - **[CLAIM-119](../claims.d/CLAIM-119.md) and [LIT-267](../literature.d/LIT-267.md).** No bearing beyond [QUESTION-025](../questions.d/QUESTION-025.md)'s.
-- **New account.** [THEORY-tmpyaqz7](../theory.d/THEORY-tmpyaqz7.md), Proposed: correlation range, sample
+- **New account.** [THEORY-201](../theory.d/THEORY-201.md), Proposed: correlation range, sample
   size and representable depth.
 - **Practice.** The paper gives no instruction. Its subject, what the
   statistics of language are and how they shape data-scaling curves, is

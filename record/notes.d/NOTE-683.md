@@ -1,6 +1,9 @@
 ---
+number: 683
 status: Read
-paper: 'LIT-tmptst8b'
+formerly:
+- NOTE-tmp7l8yg
+paper: 'LIT-882'
 title: 'An exact mapping between the Variational Renormalization Group and Deep Learning'
 version: 1
 history:
@@ -31,9 +34,9 @@ summary: >-
   the distribution need not give RG, though it does not engage the
   identity.
 ---
-<!-- inactive-ok-file: THEORY-tmp1hbbz THEORY-194 THEORY-036 QUESTION-025 THEORY-185 — Proposed or open; cited as what this reading produced, the account it is set beside, a neighbour, and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-197 THEORY-194 THEORY-036 QUESTION-025 THEORY-185 — Proposed or open; cited as what this reading produced, the account it is set beside, a neighbour, and the question it does not answer -->
 
-# NOTE-tmp7l8yg: An exact mapping between the Variational Renormalization Group and Deep Learning
+# NOTE-683: An exact mapping between the Variational Renormalization Group and Deep Learning
 
 ## Contribution
 
@@ -230,7 +233,7 @@ approximation schemes".
 
 ## Bearing on the record
 
-- **Produces [THEORY-tmp1hbbz](../theory.d/THEORY-tmp1hbbz.md)**: the correspondence is an identity of
+- **Produces [THEORY-197](../theory.d/THEORY-197.md)**: the correspondence is an identity of
   parametrizations whose only non-trivial content is the coincidence of
   the exact points; it does not make distribution-fitting training an RG
   step. It is the formal counterpart of [THEORY-194](../theory.d/THEORY-194.md), which holds the
