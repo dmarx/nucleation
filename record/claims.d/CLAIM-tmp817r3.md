@@ -15,15 +15,16 @@ line: pragmatic-transport
 supersedes:
 - CLAIM-tmpzxah5
 superseded_by:
-- CLAIM-tmpww3q0
+- CLAIM-tmpdgdmt
 uses:
 - TERM-tmpsjjot
 summary: >-
   A86's "deeper thesis" under U31, with its dynamical complement.
   Renamed the framework "contextual pragmatic information transport",
-  the manuscript's subtitle from C6 on. The manuscript's closing
-  sentence is its descendant.
+  the manuscript's subtitle from C6 on. Superseded at U35 by proposal
+  v6 (A100); the manuscript's closing sentence is its descendant.
 ---
+<!-- inactive-ok-file: CLAIM-tmpartp6 CLAIM-tmpdgdmt CLAIM-tmpvim0a — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmpww3q0 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpzxah5 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
@@ -52,5 +53,6 @@ Information Transport*. Its abstract fuses this with [CLAIM-tmpzxah5](CLAIM-tmpz
 identity is characterized by partially overlapping families of observations
 rather than a privileged global semantic vector." The manuscript's last sentence
 ([CLAIM-tmpww3q0](CLAIM-tmpww3q0.md)) keeps both halves: the distinctions "that a receiving system can
-still reconstruct and act upon". Intermediate versions after C6 are outside this
-chunk.
+still reconstruct and act upon". The chain runs on through proposal v6
+([CLAIM-tmpdgdmt](CLAIM-tmpdgdmt.md)), the structuralist thesis ([CLAIM-tmpartp6](CLAIM-tmpartp6.md)) and the symmetry
+thesis ([CLAIM-tmpvim0a](CLAIM-tmpvim0a.md)).

@@ -14,6 +14,8 @@ summary: >-
   other two was proved or stated in C6 or the manuscript, which has the
   data-processing inequality for a fixed Markov chain and a drift bound,
   not a sufficiency result.
+refined_by:
+- QUESTION-tmpayxxf
 ---
 <!-- inactive-ok-file: CLAIM-tmpek80j CLAIM-tmpghha4 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

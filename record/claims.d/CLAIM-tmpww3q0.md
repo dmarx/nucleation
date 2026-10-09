@@ -20,7 +20,7 @@ answers:
 - QUESTION-tmp3lk3n
 - QUESTION-tmpt7lzm
 supersedes:
-- CLAIM-tmp817r3
+- CLAIM-tmpvim0a
 rests_on:
 - CLAIM-tmpnt2nd
 - CLAIM-tmpek80j
@@ -33,7 +33,7 @@ summary: >-
 illustrated_by:
 - CASE-tmpunxdh
 ---
-<!-- inactive-ok-file: CLAIM-tmp817r3 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmpvim0a — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-tmpww3q0: What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 

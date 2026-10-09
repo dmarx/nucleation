@@ -56,3 +56,10 @@ A40. It is absent from the manuscript and from the record. So are dynamic
 semantics (Stalnaker, Heim, Veltman) and the translation-studies works A38–A39
 recommended (Nida, House, Reiss and Vermeer, Nord). Gutt is in the record
 unread.
+
+The bibliography (A93 §6, U33) called Gutt "the most important source against
+which to establish the novelty", with the formalization of interpretive
+resemblance "through observable decision consequences, compatibility relations,
+and sequential transport, rather than primarily through a theory of intended
+interpretation". The manuscript lists Gutt and never cites or discusses him.
+Proposal v6's three novelty claims (A100) were withdrawn into §1's disclaimer.

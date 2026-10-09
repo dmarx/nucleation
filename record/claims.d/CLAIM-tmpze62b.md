@@ -1,5 +1,5 @@
 ---
-status: Active
+status: Proposed
 title: 'A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models'
 version: 1
 role: thesis
@@ -20,6 +20,8 @@ summary: >-
   Proposition I of A84, Proposition B1 of C6, the manuscript's
   Proposition 1. It concerns marginal consistency, not global
   noncontextuality.
+supports:
+- CLAIM-tmpsze11
 ---
 
 # CLAIM-tmpze62b: A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models
@@ -38,5 +40,5 @@ Proposition 1, with the same sketch.
 
 C6: "This proposition concerns overlap consistency, not preservation of
 noncontextuality under all imaginable maps." The manuscript: "not automatically
-global noncontextuality". Active because the sketch is a complete argument for
-finite scenarios (workbench entry of 2026-10-09).
+global noncontextuality". Proposed: the workbench entry of 2026-10-09 checked only the
+main-text proof sketch. The full proof is in C7's Appendix A, not yet read here.

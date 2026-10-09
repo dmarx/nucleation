@@ -32,6 +32,7 @@ summary: >-
   information is a Wyner–Ziv problem.
 supports:
 - CLAIM-tmpww3q0
+- CLAIM-tmp471wm
 ---
 <!-- inactive-ok-file: CLAIM-tmpeponh — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

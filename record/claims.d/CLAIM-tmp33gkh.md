@@ -23,6 +23,8 @@ summary: >-
   T2I-CompBench.
 objected_by:
 - CLAIM-tmpscv6b
+illustrated_by:
+- CASE-tmp4sjw7
 ---
 
 # CLAIM-tmp33gkh: Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake

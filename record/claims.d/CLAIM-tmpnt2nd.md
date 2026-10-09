@@ -25,6 +25,7 @@ objected_by:
 - CLAIM-tmpjmeg6
 supports:
 - CLAIM-tmpww3q0
+- CLAIM-tmpartp6
 illustrated_by:
 - CASE-tmpjlkvg
 ---

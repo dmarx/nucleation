@@ -18,6 +18,7 @@ supports:
 variants:
 - CASE-tmpkuw2b
 - CASE-tmpui6ic
+- CASE-tmp9n7ut
 ---
 <!-- inactive-ok-file: CLAIM-tmpghha4 CLAIM-tmpumy4f — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

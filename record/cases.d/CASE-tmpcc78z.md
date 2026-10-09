@@ -22,6 +22,8 @@ summary: >-
 supports:
 - ARG-tmpekso6
 ---
+<!-- inactive-ok-file: ARG-tmpekso6 — Rejected; answered or abandoned, and cited as the history this entry answers -->
+<!-- inactive-ok-file: CLAIM-tmpartp6 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-tmp0talu CLAIM-tmphg89g — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmp1bwsn — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
@@ -48,8 +50,9 @@ Renderings that share a loose situation model and differ in footing and force,
 which is what the manuscript §1 uses the first two for ([CLAIM-tmphg89g](../claims.d/CLAIM-tmphg89g.md)). They are the
 assistant's inventions, so they show that such variation is possible, not how
 readers judge it; §10 Case I proposes to measure that. The manuscript's third
-refrain, "You should stop wasting your money and start saving", is not from
-this stretch. A18 classed "The party always gets its cut" as roughly a passive
+refrain, "You should stop wasting your money and start saving", came in at A102
+(U36), as an inversion "Shared implication → External evaluation" likened to a
+myth transformation ([CLAIM-tmpartp6](../claims.d/CLAIM-tmpartp6.md)). A18 classed "The party always gets its cut" as roughly a passive
 transformation and "The high life eats your paycheck" as an active one
 ([CLAIM-tmp0talu](../claims.d/CLAIM-tmp0talu.md)).
 

@@ -51,3 +51,9 @@ and Ganter and Wille appear again only in the U33 bibliography. The record holds
 unread. The concept lattice is the intersection picture of [CLAIM-tmpc6h7z](CLAIM-tmpc6h7z.md) made into a
 structure. It would give the manuscript's "affectionate teasing" (§3) a place
 among its neighbours.
+
+A93 §2, the bibliography (U33), recommended it again: formal concept analysis
+"directly addresses your account of objects emerging from intersections of
+observable constraints, through concept extents, intents, and lattice
+structure". It had already fallen out of the proposals, and proposal v6 (A100)
+did not restore it.

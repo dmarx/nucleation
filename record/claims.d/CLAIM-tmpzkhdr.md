@@ -23,6 +23,8 @@ summary: >-
   The manuscript's §7, citing Composable Diffusion, T2I-CompBench and
   Schrödinger bridges. The readings support it, and the manuscript is
   more careful than the paper it cites.
+illustrated_by:
+- CASE-tmp4sjw7
 ---
 
 # CLAIM-tmpzkhdr: In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state
