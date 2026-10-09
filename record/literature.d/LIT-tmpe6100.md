@@ -1,0 +1,96 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpky9z6](../notes.d/NOTE-tmpky9z6.md)); worth reading as the paper that puts the information bottleneck to work on word meanings: a lexicon is an encoder q(w|m) from meanings (Gaussians over CIELAB colour) to words, scored by complexity I(M;W) against accuracy I(W;U), and the colour-naming systems of the World Color Survey and English lie close to the IB curve at β only slightly above 1, with 93% beating all 39 hue-rotated variants of themselves. Read it knowing that the need distribution (the LI source) is estimated from the naming data, cross-validated over languages, and that the "evolution" is a reading of the annealing path along the curve, not a model of historical change. Source of [THEORY-tmp64mn6](../theory.d/THEORY-tmp64mn6.md).'
+title: 'Efficient compression in color naming and its evolution'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Read on 2026-10-09 (NOTE-tmpky9z6): the main text, figure legends,
+    Table 1, Materials and Methods and the reference list, from the PubMed
+    Central copy (PMC6077716; the PNAS PDF returned 403 and PMC's XML is
+    withheld by the publisher, so the PMC HTML page was read). The SI
+    Appendix (13.1 MB PDF) and Movies S1–S2 were not read. Details checked
+    against Crossref (PNAS 115(31):7937–7942; online 18 July 2018, print
+    31 July 2018) and Europe PMC (PMID 30021851). No arXiv version was
+    found by an arXiv title search. `published:` is 18 July 2018, the
+    earliest full date Crossref gives. Not held in the Anthology of the
+    SOTA: a grep of its record/ (clone of 2026-10-09, commit d8b5ba5) for
+    the authors, the DOI and the title found only Tishby and Zaslavsky's
+    2015 deep-learning paper, ANTH-LIT-531, a different work.
+tags:
+- linguistics
+- information-theory
+- cognition
+date: '2026-10-09'
+published: '2018-07-18'
+doi: '10.1073/pnas.1800521115'
+first_author: 'Zaslavsky'
+keywords:
+- 'information theory'
+- 'semantic typology'
+- 'color naming'
+- 'categories'
+- 'language evolution'
+implementations: []
+summary: >-
+  Zaslavsky, Kemp, Regier & Tishby (2018), PNAS 115(31):7937–7942. Treats
+  a language's colour lexicon as an information-bottleneck encoder from
+  perceptual meanings to words and finds the World Color Survey's 110
+  languages, and English, near the IB complexity–accuracy bound, with one
+  trade-off parameter β (fitted values just above 1) accounting for much of
+  the variation between them. IB optima have soft boundaries and
+  inconsistently named regions, as the data do, and the IB path through β
+  passes through structural phase transitions that roughly recapitulate
+  Berlin and Kay's sequence, apart from an early yellow category the data
+  lack.
+---
+<!-- inactive-ok-file: THEORY-155 THEORY-tmp64mn6 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+
+# LIT-tmpe6100: Efficient compression in color naming and its evolution
+
+Noga Zaslavsky, Charles Kemp, Terry Regier and Naftali Tishby (2018),
+*Proceedings of the National Academy of Sciences* 115(31):7937–7942 —
+DOI-10.1073/pnas.1800521115
+
+## Key takeaways
+
+- **The model.** Meanings are distributions m(u) over colours (isotropic
+  Gaussians in CIELAB, σ² = 64, one per World Color Survey chip); a
+  language is a naming policy q(w|m); the listener is the Bayesian decoder
+  m̂_w = Σ_m q(m|w) m. Complexity is I(M;W), and the expected KL distortion
+  between m and m̂ equals I(M;U) − I(W;U), so accuracy is I(W;U). Languages
+  are scored against the IB objective I(M;W) − β I(W;U) of Tishby, Pereira
+  and Bialek ([LIT-338](LIT-338.md)).
+- **Near the bound.** Every language's fitted β_l is about 1.03 (LI
+  source; 1.06 under a uniform source), on the steep part of the curve.
+  Efficiency loss ε_l = 0.18 against 0.70 for the deterministic RKK+
+  baseline, and the soft-partition distance gNID 0.18 against 0.47; on
+  hard mode maps (NID) the two models tie. 93% of languages beat all 39
+  hue-rotated variants of their own system.
+- **Soft categories are efficient.** At finite β the IB optimum is
+  stochastic, q(w|m) ∝ q(w) exp(−β D[m‖m̂_w]), so graded membership and
+  low-consensus regions are predicted rather than counted as noise.
+- **Phase transitions as an evolutionary path.** Annealing β adds
+  categories at critical points, which roughly follows Berlin and Kay's
+  order, while categories also drift between transitions. The one clear
+  miss: IB puts yellow first, where low-complexity WCS languages have
+  black, white and red.
+- **What is fitted.** The need distribution p(m) is a "least informative"
+  prior estimated from the naming data, averaged over languages and
+  five-fold cross-validated. β_l is fitted per language.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, from the manuscript
+bibliography of 2026-10-09 (work `what-survives-translation`): one of the
+works the manuscript considered and dropped from its final reference list.
+
+Read on 2026-10-09 ([NOTE-tmpky9z6](../notes.d/NOTE-tmpky9z6.md)); the reading is the source of
+[THEORY-tmp64mn6](../theory.d/THEORY-tmp64mn6.md). It is the record's first worked application of the
+bottleneck in [LIT-338](LIT-338.md) to natural-language semantics, and it shows
+numerically the structural phase transitions that [LIT-338](LIT-338.md)'s reading found
+asserted there but not shown. Its "evolution" sits beside the iterated
+learning result of Griffiths and Kalish ([LIT-769](LIT-769.md), [THEORY-155](../theory.d/THEORY-155.md)): one says
+where efficient systems lie, the other where transmission takes them.

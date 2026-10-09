@@ -25,6 +25,8 @@ summary: >-
   quantum-cognition literature. Seeded, not yet read closely. The authors call
   general absence a working hypothesis, and later work in the same programme
   is reported to find behavioural contextuality.
+supports:
+- CLAIM-tmpbwst7
 ---
 <!-- inactive-ok-file: LIT-264 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->

@@ -1,0 +1,124 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp9xm3o](../notes.d/NOTE-tmp9xm3o.md)): in full, from a scan of the 1959 printing posted as a course reading by the University of Toronto''s Centre for Comparative Literature. Worth reading as the source of the three kinds of translation (intralingual, interlingual, intersemiotic) and of the argument that interlingual translation substitutes whole messages for messages, since code-units rarely have full equivalents. Its sharpest claim is that languages differ in what they must convey, not in what they may convey: obligatory grammatical categories force a translator to add or drop information, so a chain of translations back and forth can strip a message of its content. Limits: an essay argued from examples, with one psychological test cited second-hand; poetry is set aside as untranslatable, open only to "creative transposition".'
+title: 'On Linguistic Aspects of Translation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Read in full on 2026-10-09 (NOTE-tmp9xm3o), pp. 232–239 with the
+    notes, from a scan of the Harvard printing posted as a course reading
+    (COL1000H) on complit.utoronto.ca. The live file answered with a
+    JavaScript bot challenge, so the Wayback Machine capture of 27
+    October 2020 (same content digest as the captures from 2016 on) was
+    read. An Internet Archive item uploaded by an individual
+    (OnLinguisticAspectsOfTranslation) was not used. Details checked
+    against Crossref (chapter DOI 10.4159/harvard.9780674731615.c18, in
+    On Translation, ed. Reuben A. Brower, Harvard University Press,
+    Harvard Studies in Comparative Literature 23, pp. 232–239; book DOI
+    10.4159/harvard.9780674731615) and Open Library (OL215034M:
+    Cambridge, Harvard University Press, 1959, xi, 297 p.). Crossref
+    dates chapter and book 31 December 1959, the publisher's year-end
+    placeholder, kept because the rule takes the earliest full date
+    Crossref gives (as LIT-717). HathiTrust holds the book
+    (mdp.39015010206954) as Limited (search-only); the Internet Archive's
+    two scans are lending-only. Not held in the Anthology of the SOTA: a
+    grep of its record/ (clone of 2026-10-09, commit d8b5ba5) for
+    "Jakobson", the title and the DOI found nothing.
+tags:
+- translation
+- linguistics
+- philosophy-of-language
+date: '2026-10-09'
+published: '1959-12-31'
+doi: '10.4159/harvard.9780674731615.c18'
+first_author: 'Jakobson'
+keywords:
+- 'intralingual translation'
+- 'interlingual translation'
+- 'intersemiotic translation'
+- 'equivalence in difference'
+- 'grammatical categories'
+- 'untranslatability'
+- 'creative transposition'
+implementations: []
+summary: >-
+  Jakobson (1959), in Brower (ed.), On Translation, Harvard University
+  Press, pp. 232–239. The meaning of a sign is its translation into
+  further signs; translation is intralingual, interlingual or
+  intersemiotic. Code-units rarely have full equivalents across
+  languages, but messages can be adequately rendered: "equivalence in
+  difference" is the cardinal problem. All cognitive content is
+  conveyable in any language; languages differ in what they must convey,
+  so obligatory categories force choices that add or drop information.
+  Poetry, where grammar and sound carry meaning, allows only creative
+  transposition.
+---
+
+<!-- inactive-ok-file: LIT-717 — Deferred; cited only as the precedent for keeping a publisher's year-end date -->
+<!-- inactive-ok-file: THEORY-tmpo1mei — Proposed; filed from this reading, under test -->
+<!-- inactive-ok-file: LIT-tmp1ysoz — Deferred; filed, not read, named as a sibling of the same batch -->
+<!-- inactive-ok-file: LIT-tmp1e7m4 — Deferred; filed, not read, named as a sibling of the same batch -->
+<!-- inactive-ok-file: LIT-tmp8abt4 — Deferred; filed, not read, named as a sibling of the same batch -->
+<!-- inactive-ok-file: LIT-tmppvxqg — Deferred; filed, not read, named as a sibling of the same batch -->
+
+# LIT-tmp0g8wp: On Linguistic Aspects of Translation
+
+Roman Jakobson (1959), in Reuben A. Brower (ed.), *On Translation*,
+Cambridge, Mass.: Harvard University Press (Harvard Studies in Comparative
+Literature 23), pp. 232–239 — DOI-10.4159/harvard.9780674731615.c18
+
+## Key takeaways
+
+- **Three kinds of translation.** Against Russell's claim that knowing
+  "cheese" needs nonlinguistic acquaintance, Jakobson holds that "there is
+  no signatum without signum": the meaning of a sign is its translation
+  into a further sign "in which it is more fully developed" (after Peirce).
+  A verbal sign can be translated into signs of the same language
+  (intralingual translation, rewording), of another language (interlingual
+  translation, translation proper) or of a nonverbal system (intersemiotic
+  translation, transmutation).
+- **Messages, not code-units.** Synonymy is not complete equivalence, and
+  between languages there is "ordinarily no full equivalence between
+  code-units" (English *cheese* is not Russian *syr*, which excludes
+  cottage cheese). But messages can serve as adequate interpretations of
+  alien code-units or messages. Translation is a kind of reported speech:
+  "two equivalent messages in two different codes". "Equivalence in
+  difference is the cardinal problem of language and the pivotal concern
+  of linguistics."
+- **Against untranslatability.** "All cognitive experience and its
+  classification is conveyable in any existing language": gaps are filled
+  by loanwords, loan-translations, neologisms, semantic shifts and
+  circumlocution, and a grammatical category a language lacks can be
+  rendered lexically (a dual by "two brothers").
+- **What must be conveyed.** After Boas: "Languages differ essentially in
+  what they must convey and not in what they may convey." To translate "I
+  hired a worker" into Russian one must choose aspect and the worker's sex;
+  the Russian answers questions the English left open and leaves open
+  others (tense, definiteness) the English answered. So a chain of
+  translations of one sentence between the two languages "could entirely
+  deprive such a message of its initial content" (Karcevski's circular
+  series of unfavourable currency exchanges), though "the richer the
+  context of a message, the smaller the loss of information".
+- **Where grammar carries meaning.** In jest, dreams, magic, "everyday
+  verbal mythology" and above all poetry, grammatical categories carry high
+  semantic import (grammatical gender shapes personification: Russian
+  weekdays, Repin's puzzlement at a female Sin, Pasternak's *My Sister
+  Life* in Czech). In poetry, "phonemic similarity is sensed as semantic
+  relationship"; poetry "by definition is untranslatable", and only
+  creative transposition, intralingual, interlingual or intersemiotic, is
+  possible.
+
+## Standing in the record
+
+Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
+`what-survives-translation`) at the owner's request: the manuscript
+considered it and dropped it from the final reference list. It is read here
+on its own merits. See the curation entry of that day.
+
+Read on 2026-10-09 ([NOTE-tmp9xm3o](../notes.d/NOTE-tmp9xm3o.md)). The reading is the source of
+[THEORY-tmpo1mei](../theory.d/THEORY-tmpo1mei.md), the record's statement of the obligatory-categories
+thesis and what it does not establish. The other translation-theory works
+of that batch, [LIT-tmp1ysoz](LIT-tmp1ysoz.md) (Nida), [LIT-tmp1e7m4](LIT-tmp1e7m4.md) (House), [LIT-tmp8abt4](LIT-tmp8abt4.md)
+(Hatim and Mason) and [LIT-tmppvxqg](LIT-tmppvxqg.md) (Nord), were filed, not read.

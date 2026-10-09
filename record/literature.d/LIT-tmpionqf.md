@@ -1,0 +1,102 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md)); worth reading as an account of what Noether''s theorem, in its Hamiltonian form, actually assumes: given unique solutions of the flow equations, "a generates symmetries of b iff b generates symmetries of a" reduces to the antisymmetry of a bilinear bracket, which is equivalent to each observable conserving itself. The content lies in identifying observables with generators; in quantum theory that identification is multiplication by i, and Alfsen and Shultz''s dynamical correspondence recovers it from a JB-algebra under the self-conservation principle and a second condition that Baez reads as "inverse temperature is imaginary time". The paper proves nothing new, by its own statement.'
+title: 'Getting to the Bottom of Noether''s Theorem'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request from the manuscript bibliography of
+    2026-10-09 and read the same day (NOTE-tmpjlwej) from arXiv v5 (2
+    November 2025; the text is dated 15 February 2022). Details checked
+    against the arXiv API (2006.14741, John C. Baez, v1 submitted 26 June
+    2020) and Crossref: the paper appeared as a chapter, DOI
+    10.1017/9781108665445.005, in "The Philosophy and Physics of Noether's
+    Theorems" (Cambridge University Press), pp. 66–99, print 31 August
+    2022. The bibliography's "2022" is the chapter; `published:` is the
+    arXiv v1 date (ADR-002). Not held in the Anthology of the SOTA: a grep
+    of its record/ (clone of 2026-10-09, commit d8b5ba5) for the title,
+    the identifier and "Noether" found nothing; ANTH-NOTE-378 cites a
+    Baez (2022) for a Rényi–free-energy link, which is not this paper.
+tags:
+- mathematics
+- natural-sciences
+- quantum-foundations
+date: '2026-10-09'
+published: '2020-06-26'
+arxiv: '2006.14741'
+first_author: 'Baez'
+keywords:
+- 'Noether''s theorem'
+- 'Poisson algebras'
+- 'Jordan algebras'
+- 'JB-algebras'
+- 'Lie algebras'
+- 'dynamical correspondence'
+- 'self-conservation principle'
+- 'observables and generators'
+implementations: []
+summary: >-
+  Baez (2020; chapter 2022), [ARXIV-2006.14741](https://arxiv.org/abs/2006.14741). In Poisson algebras,
+  complex *-algebras and Banach–Lie algebras, "a generates symmetries of
+  b iff b generates symmetries of a" follows from the antisymmetry of the
+  bracket and uniqueness of solutions; for a bilinear bracket,
+  antisymmetry is the self-conservation principle {a, a} = 0. The
+  nontrivial content is a map from observables to generators: in complex
+  quantum mechanics multiplication by i, and in a unital JB-algebra
+  Alfsen and Shultz's dynamical correspondence, whose second condition
+  Baez links to "inverse temperature is imaginary time".
+---
+
+<!-- inactive-ok-file: THEORY-tmp3dh4x — Proposed; filed from this reading, which is its source -->
+<!-- inactive-ok-file: THEORY-158 — Proposed; named as the Markov-process counterpart, not leaned on -->
+
+# LIT-tmpionqf: Getting to the Bottom of Noether's Theorem
+
+John C. Baez (arXiv 2020; in *The Philosophy and Physics of Noether's
+Theorems*, Cambridge University Press, 2022, pp. 66–99) —
+[ARXIV-2006.14741](https://arxiv.org/abs/2006.14741), DOI-10.1017/9781108665445.005
+
+## Key takeaways
+
+- **The arch and its keystone.** In a Poisson algebra (Theorem 3), a
+  complex *-algebra (Theorem 4) or any space with a bilinear bracket and
+  unique flows (Theorem 8), a generates symmetries of b iff {a, b} = 0, iff
+  {b, a} = 0, iff b generates symmetries of a. The only nontrivial step is
+  uniqueness of solutions to Hamilton's or Heisenberg's equation; the
+  equivalence itself is the antisymmetry of the bracket.
+- **Antisymmetry is self-conservation.** For a bilinear bracket,
+  antisymmetry is equivalent to {a, a} = 0: each element is conserved by the
+  flow it generates (energy by time translation, momentum along its own
+  axis). With generators alone, in any Banach–Lie algebra, Noether's theorem
+  is automatic (Theorem 10), the infinitesimal form of "g commutes with h iff
+  h commutes with g".
+- **The content is the observable–generator map.** Observables form a
+  Jordan algebra, generators a Lie algebra. In complex quantum mechanics
+  a ↦ ia identifies them; in real and quaternionic quantum mechanics no
+  nonzero invariant linear map exists, since dim O and dim L differ
+  (n(n+1)/2 vs n(n−1)/2 for reals; 2n² − n vs 2n² + n for quaternions).
+- **Alfsen and Shultz (Theorem 12, quoted).** A unital JB-algebra is the
+  self-adjoint part of a C*-algebra iff it has a dynamical correspondence
+  ψ : O → L with (A) ψ_a(a) = 0 (self-conservation, hence a Noether theorem
+  ψ_a(b) = 0 ⇔ ψ_b(a) = 0) and (B) [ψ_a, ψ_b] = −[δ_a, δ_b]. Baez's own
+  contribution is an interpretation of (B): the self-adjoint order
+  derivations δ_H generate b ↦ e^{−βH/2} b e^{−βH/2}, translation in inverse
+  temperature, so (B) says "inverse temperature is imaginary time" without
+  naming i.
+- **Its own disclaimer.** "All the theorems in this paper are either easy or
+  already known." The paper is an organisation of known results into an
+  argument about which assumptions carry Noether's theorem.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, from the manuscript
+bibliography of 2026-10-09 (work `what-survives-translation`): one of the
+works the manuscript considered and dropped from its final reference list.
+
+Read on 2026-10-09 ([NOTE-tmpjlwej](../notes.d/NOTE-tmpjlwej.md)). The reading is the source of
+[THEORY-tmp3dh4x](../theory.d/THEORY-tmp3dh4x.md). It is the reversible-dynamics counterpart of Baez and Fong's
+Markov-process theorem ([LIT-773](LIT-773.md), [THEORY-158](../theory.d/THEORY-158.md)): there the generator
+gives no antisymmetric bracket between observables, and the equivalence
+needs the second moment as well as the mean.

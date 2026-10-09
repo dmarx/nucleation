@@ -93,6 +93,18 @@ vocabularies:
       social-science:
         label: Social science
         blurb: 'economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy'
+      causality:
+        label: Causality
+        blurb: 'causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035)'
+      pragmatics:
+        label: Pragmatics
+        blurb: 'language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034)'
+      myth-and-folklore:
+        label: Myth and folklore
+        blurb: 'myths, folktales and their variants as objects of study — morphology of the folktale, structural and transformational analysis of myth, and the computational modelling of either (ADR-034)'
+      translation:
+        label: Translation
+        blurb: 'translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033)'
       linguistics:
         label: Linguistics
         blurb: 'the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them'
@@ -305,6 +317,156 @@ vocabularies:
       migration:
         label: Migration
         blurb: what moves between this record and the Anthology of the SOTA, and why
+  claim-roles:
+    label: Voices
+    blurb: "Whose voice a CLAIM is in, within the record's own deliberation. Not whether the record believes
+      it, which is the status: the two vary independently, and the mismatched pairs are the information
+      (ADR-032)."
+    alert: Closed. Whether a claim is an objection is not a role; it is an `objects_to` edge. A role says
+      on whose behalf the claim is put forward.
+    terms:
+      thesis:
+        label: Thesis
+        blurb: the record puts this forward as its own position, and says in `defeated_if` what would
+          defeat it
+      counter:
+        label: Counter
+        blurb: put forward on an opponent's behalf, at full strength — a steelman, or an objection anticipated
+          as devil's advocate. A counter that goes Active means the record was persuaded, and the thesis
+          it opposed needs revisiting
+      granted:
+        label: Granted
+        blurb: a point that cuts against a thesis and that the record accepts; the thesis has to be stated
+          so that it survives it. A granted claim that is not Active is incoherent
+      disclaimed:
+        label: Disclaimed
+        blurb: something the record explicitly does not claim — "X does not establish Y" — filed so that
+          the boundary has an address and a recurring misreading has somewhere to be pointed
+      supposed:
+        label: Supposed
+        blurb: assumed for the sake of the argument, so everything resting on it is conditional on it.
+          May scope a whole work, as an independently warranted agent scopes the will paper
+  case-standing:
+    label: Case standings
+    blurb: How much of a CASE is fact. A case serves claims whatever its standing; what its standing changes
+      is what it can show (ADR-032).
+    alert: Closed.
+    terms:
+      documented:
+        label: Documented
+        blurb: real events, with sources a reader can check
+      stipulated:
+        label: Stipulated
+        blurb: a real referent whose relevant facts are assumed rather than verified here — usable as
+          a thought experiment, not as evidence about the referent
+      fictional:
+        label: Fictional
+        blurb: invented, usually to hold fixed what a real case cannot. Shows what is coherent, not what
+          is common
+  arg-forms:
+    label: Argument forms
+    blurb: The form of inference an ARG makes, and with it the critical questions that inference has to
+      survive (Walton's argumentation schemes). An ARG answers each question in its body or is objected
+      to (ADR-032).
+    alert: Closed. A form the list lacks is added by decision, with its critical questions in the blurb.
+    terms:
+      analogy:
+        label: Analogy
+        blurb: 'what holds of one case holds of another alike in the relevant respect. Critical questions:
+          in what respect are they alike, and is that the respect the conclusion needs? What relevant
+          difference is there? What transfers, and what does not?'
+      contrast:
+        label: Controlled contrast
+        blurb: 'two cases alike except in one factor differ in outcome, so the factor matters (the method
+          of difference). Critical questions: is everything said to be held fixed really fixed? Does changing
+          the factor change anything else? Is the case realistic, or only coherent?'
+      existence:
+        label: Existence proof
+        blurb: 'one coherent case shows that two things can come apart. Critical questions: is the case
+          coherent? Does it separate the very things the conclusion says can come apart?'
+      formal-application:
+        label: Application of a formal result
+        blurb: 'a theorem or model applied to a new domain. Critical questions: does the mapping premise
+          hold? Are the model''s assumptions met in the new domain?'
+      generalization:
+        label: Generalization from cases
+        blurb: 'several cases share a feature, so the kind has it. Critical questions: are the cases representative?
+          Is there a counterexample? Is the feature constitutive, or merely common?'
+      abduction:
+        label: Best explanation
+        blurb: 'this account explains the evidence better than its rivals. Critical questions: which
+          rivals were considered? Does a rival explain as well? Would more evidence discriminate them?'
+      cause-to-effect:
+        label: Cause to effect
+        blurb: 'this mechanism produces that outcome. Critical questions: is the mechanism operative here?
+          Could a confounder produce the same outcome?'
+      reductio:
+        label: Reductio
+        blurb: 'a premise leads to something unacceptable, so the premise goes. Critical questions: is
+          the consequence really unacceptable, or merely surprising? Is the premise the one to blame?'
+  question-statuses:
+    label: Question statuses
+    blurb: Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside,
+      and the record keeps what it was.
+    alert: Closed.
+    terms:
+      Open:
+        label: Open
+        blurb: being worked on
+      Answered:
+        label: Answered
+        blurb: the record holds an Active claim that answers it
+      Dissolved:
+        label: Dissolved
+        blurb: the question rested on a mistake, and the body says which
+      Deferred:
+        label: Set aside
+        blurb: real, and left for future work
+      Superseded:
+        label: Reframed
+        blurb: replaced by a better-framed question, named in `superseded_by`
+  lines:
+    label: Lines of inquiry
+    blurb: A named line of the record's own argument, so that a line can be set aside as a whole and what
+      depends on it can be found. Retracting a line is a status change on its members, never a deletion
+      (ADR-032).
+    alert: Closed, so that a line is one somebody named.
+    terms:
+      distributed-agency:
+        label: Distributed agency
+        blurb: what an organized whole is, and how its operative direction relates to its members' —
+          where the essay started
+      will-organization:
+        label: Will-organization
+        blurb: what organizes practical efficacy in an agent, and how that organization becomes precarious
+      organizational-affect:
+        label: Organizational affect
+        blurb: affective states as properties of organized systems, read through Frijda — the line the
+          will paper grew out of
+      authenticity:
+        label: Authenticity and concordance
+        blurb: what makes a will-organization the agent's own, and normativity across the scales an agent
+          spans. Set aside on 2026-10-05 as future work
+      pragmatic-transport:
+        label: Contextual pragmatic information transport
+        blurb: what survives when an utterance is translated, retold or rendered in another medium —
+          communicative identity as relationally organized observables, and fidelity as directed, task-relative
+          transport between observational systems
+  works:
+    label: Works
+    blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
+      whether the record believes it is the status, and the two disagree (ADR-032).
+    alert: Closed. A new manuscript is added here when one starts.
+    terms:
+      organization-of-will:
+        label: The Organization of Will
+        blurb: 'the owner''s essay, drafted 2026-10-04 to 2026-10-06: will-organization as the agent-indexed
+          organization of practical efficacy, and why effective will is precarious'
+      what-survives-translation:
+        label: What Survives Translation?
+        blurb: 'the owner''s working manuscript, drafted October 2026: contextual pragmatic information
+          transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry,
+          rate–distortion and Blackwell comparison, conditional diffusion and iterated learning'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs
@@ -376,6 +538,26 @@ schemes:
         required: false
         many: true
         converse: corrects
+      supports:
+        label: Cited in support by
+        blurb: the record's own claims and arguments that rest on this work without a reading of it, written
+          by `luria link --fix` from their `grounds`. A THEORY drawn from the work is the stronger footing
+        scheme: [CLAIM, ARG]
+        required: false
+        many: true
+        converse: grounds
+      superseded_by:
+        scheme:
+        - LIT
+        - ANTH
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
     fields:
       published:
         required: true
@@ -400,6 +582,8 @@ schemes:
             require: any
             tags: [anthology-candidate]
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   NOTE:
     dir: record/notes.d
     output: docs/notes
@@ -416,6 +600,16 @@ schemes:
         scheme: LIT
         required: true
         many: false
+      superseded_by:
+        scheme: NOTE
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Read
     fields:
       status:
         vocabulary: note-statuses
@@ -430,6 +624,8 @@ schemes:
         from: paper
         many: true
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   THEORY:
     dir: record/theory.d
     output: docs/theory
@@ -498,6 +694,32 @@ schemes:
         required: false
         many: true
         converse: presupposes
+      answers:
+        label: Answers
+        blurb: a question of the record's own that this account answers, so the question's page shows
+          the literature beside the record's claims (ADR-032)
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: answered_by
+      supports:
+        label: Supports
+        blurb: the record's own claims and arguments resting on this account, written by `luria link --fix`
+          from their `grounds`. Rejecting this account leaves each of them needing another route
+        scheme: [CLAIM, ARG]
+        required: false
+        many: true
+        converse: grounds
+      superseded_by:
+        scheme: THEORY
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
     fields:
       promote_when:
         required_when:
@@ -517,6 +739,8 @@ schemes:
         required: true
         closed: true
     axis: tags
+    retires_on: Superseded
+    successor: superseded_by
   ADR:
     dir: record/decisions.d
     output: docs/decisions
@@ -533,6 +757,17 @@ schemes:
         required: true
         closed: false
     axis: tags
+    references:
+      superseded_by:
+        scheme: ADR
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
   DP:
     dir: record/principles.d
     active: Active
@@ -548,6 +783,407 @@ schemes:
         required: true
         closed: false
     axis: tags
+    references:
+      superseded_by:
+        scheme: DP
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
+  QUESTION:
+    dir: record/questions.d
+    output: docs/questions
+    active: Open
+    render: index
+    allocate: merge
+    references:
+      refines:
+        label: Narrows
+        blurb: the broader question this one is a part or a sharpening of
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: refined_by
+      refined_by:
+        label: Narrowed by
+        blurb: the converse of `refines`, written by `luria link --fix`.
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: refines
+      answered_by:
+        label: Answered by
+        blurb: the record's own claims and the literature's accounts that answer it, written by `luria
+          link --fix` from their `answers`. Both, on one page, is what synthesis is
+        scheme: [CLAIM, THEORY]
+        required: false
+        many: true
+        converse: answers
+      superseded_by:
+        scheme: QUESTION
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Open
+    fields:
+      status:
+        vocabulary: question-statuses
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+        required: true
+    axis: line
+    retires_on: Superseded
+    successor: superseded_by
+  CLAIM:
+    dir: record/claims.d
+    output: docs/claims
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      answers:
+        label: Answers
+        blurb: the question this claim is an answer to
+        scheme: QUESTION
+        required: false
+        many: true
+        converse: answered_by
+      rests_on:
+        label: Rests on
+        blurb: another of the record's own claims this one could not stand without — the spine of the
+          argument, walked as the `argument` chain. Retired, it leaves this claim needing another route
+          (ADR-032)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supports
+      grounds:
+        label: Grounded in
+        blurb: evidence from outside the record's own argument — an account it has read (THEORY), a case,
+          or a work cited without a reading (LIT), which is the weakest. The split from `rests_on` is
+          THEORY's own, between `presupposes` and `source` (ADR-032)
+        scheme: [THEORY, CASE, LIT]
+        required: false
+        many: true
+        converse: supports
+      supports:
+        label: Supports
+        blurb: the converse of `rests_on`, written by `luria link --fix`.
+        scheme: [CLAIM, ARG]
+        required: false
+        many: true
+        converse: rests_on
+      argued_by:
+        label: Argued by
+        blurb: the arguments concluding this claim, written by `luria link --fix` from their `concludes`.
+          Two of them is two independent lines of support
+        scheme: ARG
+        required: false
+        many: true
+        converse: concludes
+      objects_to:
+        label: Objects to
+        blurb: the claim this one denies — a rebuttal, or an undermining if that claim is a premise. Walked
+          as the `dialectic` chain, so an objection, its reply and the reply to that read as one thread
+          (ADR-032)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: objected_by
+      objected_by:
+        label: Objected to by
+        blurb: the converse of `objects_to`, written by `luria link --fix`.
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: objects_to
+      undercuts:
+        label: Undercuts
+        blurb: the argument whose inference this claim denies, leaving its premises and its conclusion
+          standing
+        scheme: ARG
+        required: false
+        many: true
+        converse: undercut_by
+      superseded_by:
+        label: Superseded by
+        blurb: the claim that replaced this one. Declared here rather than left to the built-in, so it has
+          a converse and the `revisions` chain can walk how a thesis changed (ADR-032)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supersedes
+      supersedes:
+        label: Supersedes
+        blurb: the claim this one replaced, written by `luria link --fix` from its `superseded_by`
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: superseded_by
+      complements:
+        label: Complements
+        blurb: answers a different part of the same question, so the two belong together rather than
+          competing. The relation the record had no word for when three accounts were wrongly set up as
+          rivals (ADR-032). Between the record's own claims for now; THEORY joins it once luria reads a
+          symmetric relation across schemes correctly (dmarx/luria#358)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: complements
+      uses:
+        label: Uses the term
+        blurb: the TERM this claim is stated in, so that a term's revision finds the claims built on it
+        scheme: TERM
+        required: false
+        many: true
+        converse: used_by
+      illustrated_by:
+        label: Illustrated by
+        blurb: the converse of a case's `illustrates`, written by `luria link --fix`.
+        scheme: CASE
+        required: false
+        many: true
+        converse: illustrates
+      countered_by:
+        label: Countered by
+        blurb: the converse of a case's `counterexample_to`, written by `luria link --fix`.
+        scheme: CASE
+        required: false
+        many: true
+        converse: counterexample_to
+    fields:
+      status:
+        vocabulary: theory-statuses
+      role:
+        vocabulary: claim-roles
+        required: true
+      defeated_if:
+        required_when:
+          role:
+          - thesis
+        blurb: what would defeat the thesis — a kind of result or argument, stated so that the wrong
+          kind cannot satisfy it
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+        required: true
+      works:
+        vocabulary: works
+        many: true
+    axis: line
+    retires_on: Superseded
+    successor: superseded_by
+  CASE:
+    dir: record/cases.d
+    output: docs/cases
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      supports:
+        label: Supports
+        blurb: the claims and arguments grounded in this case, written by `luria link --fix` from their
+          `grounds`.
+        scheme: [CLAIM, ARG]
+        required: false
+        many: true
+        converse: grounds
+      illustrates:
+        label: Illustrates
+        blurb: a claim this case makes vivid without bearing its weight. Losing the case costs the claim
+          an example, not a premise; that is what separates this from `grounds`
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: illustrated_by
+      counterexample_to:
+        label: Counterexample to
+        blurb: a claim this case shows false as stated
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: countered_by
+      variant_of:
+        label: Variant of
+        blurb: the case this one alters in a stated respect, as Northstar-B alters Northstar-A
+        scheme: CASE
+        required: false
+        many: true
+        converse: variants
+      variants:
+        label: Variants
+        blurb: the converse of `variant_of`, written by `luria link --fix`.
+        scheme: CASE
+        required: false
+        many: true
+        converse: variant_of
+      substitutes_for:
+        label: Stands in for
+        blurb: the case this one replaces in the argument — usually a fictional company standing in for
+          a real one, so the argument does not ride on contested facts about it
+        scheme: CASE
+        required: false
+        many: true
+        converse: substituted_by
+      substituted_by:
+        label: Stood in for by
+        blurb: the converse of `substitutes_for`, written by `luria link --fix`.
+        scheme: CASE
+        required: false
+        many: true
+        converse: substitutes_for
+      superseded_by:
+        scheme: CASE
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
+    fields:
+      status:
+        vocabulary: statuses
+      standing:
+        vocabulary: case-standing
+        required: true
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+    axis: tags
+    retires_on: Superseded
+    successor: superseded_by
+  TERM:
+    dir: record/terms.d
+    output: docs/terms
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      used_by:
+        label: Used by
+        blurb: the claims stated in this term, written by `luria link --fix` from their `uses`.
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: uses
+      superseded_by:
+        label: Superseded by
+        blurb: the term whose definition replaced this one's (ADR-032)
+        scheme: TERM
+        required: false
+        many: true
+        converse: supersedes
+      supersedes:
+        label: Supersedes
+        blurb: the term this one's definition replaced, written by `luria link --fix`
+        scheme: TERM
+        required: false
+        many: true
+        converse: superseded_by
+    fields:
+      status:
+        vocabulary: statuses
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+    axis: tags
+    retires_on: Superseded
+    successor: superseded_by
+  ARG:
+    dir: record/arguments.d
+    output: docs/arguments
+    active: Active
+    render: index
+    allocate: merge
+    references:
+      rests_on:
+        label: Premises
+        blurb: the record's own claims the inference starts from. The premises of one argument work together;
+          a claim with two arguments has two independent lines of support
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: supports
+      grounds:
+        label: Grounded in
+        blurb: the readings, cases and works the inference starts from, as on a CLAIM
+        scheme: [THEORY, CASE, LIT]
+        required: false
+        many: true
+        converse: supports
+      concludes:
+        label: Concludes
+        blurb: the claim the inference arrives at — normally one
+        scheme: CLAIM
+        required: true
+        many: true
+        converse: argued_by
+      undercut_by:
+        label: Undercut by
+        blurb: claims denying this inference, written by `luria link --fix` from their `undercuts`.
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: undercuts
+      superseded_by:
+        scheme: ARG
+        many: true
+        required: false
+        required_when:
+          status:
+          - Superseded
+        forbidden_when:
+          status:
+          - Active
+    field_groups:
+      premises:
+        fields:
+        - rests_on
+        - grounds
+        require: at-least-one
+    fields:
+      status:
+        vocabulary: theory-statuses
+      form:
+        vocabulary: arg-forms
+        required: true
+      tags:
+        vocabulary: topics
+        many: true
+        required: true
+        closed: true
+      line:
+        vocabulary: lines
+    axis: tags
+    retires_on: Superseded
+    successor: superseded_by
 remotes:
   ARXIV:
     name: arXiv
@@ -597,6 +1233,14 @@ journals:
     granularity: month
     title: Curation log
     blurb: Why things entered this record, and why they left for the anthology or anywhere else.
+  workbench:
+    dir: record/workbench.d
+    output: docs/workbench
+    granularity: month
+    title: Workbench
+    blurb: Working sessions on the record's own arguments — what was proposed, objected to, revised, set
+      aside and why, dated and never rewritten. The claims hold where the argument stands; this holds how
+      it got there (ADR-032).
   devlog:
     dir: record/devlog.d
     output: docs/devlog
@@ -631,5 +1275,47 @@ chains:
     invariant: tags
     output: docs/theory-lines.md
     title: Lines of explanation
+    facet_by:
+    - status
+  argument:
+    scheme: CLAIM
+    relation:
+    - rests_on
+    invariant: line
+    output: docs/argument-lines.md
+    title: Lines of argument
+    blurb: The record's own claims in the order they rest on one another, from what is taken as given
+      to what is concluded. A step that crosses from one line of inquiry to another is reported, because
+      that is how a line set aside reaches back into one still standing (ADR-032).
+    facet_by:
+    - status
+  dialectic:
+    scheme: CLAIM
+    relation:
+    - objects_to
+    output: docs/dialectic.md
+    title: Objections and replies
+    blurb: Each objection with the reply to it and the reply to that, as one thread. Faceted by voice
+      and by credence, so an open objection is a counter still Proposed (ADR-032).
+    facet_by:
+    - role
+    - status
+  revisions:
+    scheme: CLAIM
+    relation:
+    - supersedes
+    output: docs/revisions.md
+    title: How the claims changed
+    blurb: Each claim followed by the claims that replaced it, oldest first (ADR-032).
+    facet_by:
+    - status
+  term-revisions:
+    scheme: TERM
+    relation:
+    - supersedes
+    output: docs/term-revisions.md
+    title: How the terms changed
+    blurb: Each definition followed by the definitions that replaced it, oldest first. Most of the drift
+      in the exchange that prompted these schemes was here (ADR-032).
     facet_by:
     - status

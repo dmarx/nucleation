@@ -1,0 +1,86 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-09 from the Library of Congress, Open Library and Crossref, not read: no lawful full text was reachable. HathiTrust holds the 1997 edition as Limited (search-only), the one Internet Archive scan is lending-only, and Routledge sells the 2014 reissue and the later editions. A slide-sharing upload offered by a web search is not the publisher''s or the author''s and was not opened. No NOTE is filed. It stays Deferred until a copy is supplied, not on merit.'
+title: 'Translating as a Purposeful Activity: Functionalist Approaches Explained'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed, not read. Citation checked against the Library of Congress
+    (LCCN 98210143: Manchester, St. Jerome Publishing, 1997, 154 p.,
+    references pp. 142–154), Open Library (OL482468M, series Translation
+    Theories Explained 1, ISBN 1900650029) and Crossref, whose record of
+    this edition is Routledge's 2014 reissue (DOI 10.4324/9781315760506,
+    online 8 April 2014; chapter DOIs -4 to -12 give contents and pages
+    matching the 154-page first edition). Crossref also lists the 2026
+    third edition (10.4324/9781003681809); the 2018 second edition is
+    Routledge's. The DOI is used for the reissue of the same text, as
+    LIT-784 does. `published:` is the 1997 first edition, year only.
+    Full-text attempts on 2026-10-09: HathiTrust holds
+    mdp.39015055574985 as Limited (search-only); the Internet Archive
+    scan translatingaspur0000nord is access-restricted (print-disabled);
+    web searches found retail and catalogue records, Nord's separate 2005
+    article in TradTerm (a different work, not read as this one), and a
+    slide-sharing upload, which was not opened. Not held in the Anthology
+    of the SOTA: a grep of its record/ (clone of 2026-10-09, commit
+    d8b5ba5) for "Christiane Nord", the title and the DOI found nothing.
+tags:
+- translation
+date: '2026-10-09'
+published: '1997-01-01'
+doi: '10.4324/9781315760506'
+first_author: 'Nord'
+keywords:
+- 'functionalism'
+- 'skopos theory'
+- 'translational action'
+- 'function plus loyalty'
+- 'documentary translation'
+- 'instrumental translation'
+implementations: []
+summary: >-
+  Nord (1997), St. Jerome. The first survey in English of the German
+  functionalist approaches: Vermeer's skopos theory and Holz-Mänttäri's
+  translational action, with applications to translator training,
+  literary translation and interpreting, the criticisms, and Nord's own
+  "function plus loyalty". Not read: no lawful full text was reachable.
+---
+
+<!-- inactive-ok-file: LIT-784 — Deferred; cited only as the precedent for using a reissue's DOI -->
+
+# LIT-tmppvxqg: Translating as a Purposeful Activity: Functionalist Approaches Explained
+
+Christiane Nord (1997), Manchester: St. Jerome Publishing (Translation
+Theories Explained 1), 154 pp. — DOI-10.4324/9781315760506 (Routledge
+reissue, 2014)
+
+## Key takeaways
+
+*Filed, not read*: no lawful full text was reachable (see the history
+note). What follows restates the catalogue's contents and the book's
+standard description.
+
+- Contents, from Crossref's chapter records of the reissue: Historical
+  Overview (10–20); Translating and the Theory of Action (21–32); Basic
+  Concepts of Skopostheorie: Skopos, Aim, Purpose, Intention, Function and
+  … (33–44; Crossref truncates the title); Functionalism in Translator Training
+  (45–85); Functionalism in Literary Translation (86–109); Functionalist
+  Approaches to Interpreting (110–114); Criticisms (115–128); Function
+  plus Loyalty (129–134); Future Perspectives (135–142).
+- The standard description, not checked against the text: a translation
+  is judged by whether it serves the purpose (skopos) set for it in the
+  target situation, not by equivalence to the source; Nord adds loyalty, a
+  translator's responsibility to source author, commissioner and target
+  readers, as a limit on purely purpose-driven translation, and
+  distinguishes documentary from instrumental translation.
+
+## Standing in the record
+
+Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
+`what-survives-translation`) at the owner's request: the manuscript
+considered it and dropped it from the final reference list. See the
+curation entry of that day.
+
+`Deferred` because it was not read. Of the translation-theory works filed
+that day, only Jakobson's essay ([LIT-tmp0g8wp](LIT-tmp0g8wp.md)) could be read.

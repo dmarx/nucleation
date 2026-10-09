@@ -1,0 +1,116 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp8sckc](../notes.d/NOTE-tmp8sckc.md)); worth reading as the 2025 journal extension of T2I-CompBench ([LIT-783](LIT-783.md)): 8,000 prompts in eight sub-categories, adding numeracy and 3D-spatial relations, eleven models up to SD3, DALL·E 3 and FLUX.1, and multimodal LLMs as judges. Two things change the conference picture. GPT-4V now agrees with human rankings better than CLIPScore on interactions (Kendall τ 0.48 against 0.25) and complex prompts (0.51 against 0.07), so interactions are no longer scored only by CLIPScore; but human scores on interactions are still near ceiling (0.95–0.99 for five of six rated models), and no new category asks about stance, purpose or social relation. Human ratings cover only the six 2023-era models; the 2024–25 models are ranked by automatic metrics alone.'
+title: 'T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Read on 2026-10-09 (NOTE-tmp8sckc) from arXiv 2307.06350 v3 (8 March
+    2025, 19 pages), which the arXiv comment calls the journal version:
+    main text in full, all tables, the prompt templates and the AMT
+    interfaces; qualitative figures skimmed from captions. The TPAMI
+    typeset version was not read: IEEE Xplore answered with a bot
+    challenge. Details checked against Crossref (IEEE Transactions on
+    Pattern Analysis and Machine Intelligence 47(5):3563–3579, May 2025,
+    DOI 10.1109/TPAMI.2025.3531907, six authors with Chengqi Duan added
+    to the conference list; Crossref gives only the issue month), PubMed
+    (PMID 40031217, listed 3 March 2025) and OpenAlex (publication date
+    20 January 2025, which matches the day the DOI was registered and is
+    taken as the online-first date; it could not be confirmed on IEEE
+    Xplore). `published:` is that date, the earliest day any source gives
+    for the journal paper; arXiv v3 followed on 8 March 2025. Filed as a
+    separate LIT from LIT-783, which holds the NeurIPS 2023 conference
+    paper (arXiv v1–v2): the journal paper has a different title, an
+    added author, two new categories, new metrics and new models, and its
+    own DOI. The DOI is its source here, so the two entries do not share
+    an identifier field. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone of 2026-10-09, commit d8b5ba5) for the title, the
+    DOI and the arXiv identifier found nothing.
+tags:
+- compositionality
+- anthology-candidate
+date: '2026-10-09'
+published: '2025-01-20'
+doi: '10.1109/TPAMI.2025.3531907'
+first_author: 'Huang'
+keywords:
+- 'text-to-image generation'
+- 'compositional generation'
+- 'benchmark'
+- 'attribute binding'
+- 'spatial relationships'
+- 'numeracy'
+- 'multimodal LLM evaluation'
+extends:
+- LIT-783
+compared_against:
+- LIT-770
+- LIT-tmpbjx8a
+implementations: []
+summary: >-
+  Huang, Duan, Sun, Xie, Li & Liu (2025), IEEE TPAMI 47(5). The journal
+  version of T2I-CompBench: 8,000 prompts in attribute binding, 2D/3D
+  spatial and non-spatial relations, numeracy and complex compositions,
+  with detector, depth, VQA and multimodal-LLM judges validated against
+  human ratings, and eleven models benchmarked. GPT-4V is the best judge
+  of interactions and complex prompts; spatial relations remain hardest
+  and interactions easiest; DALL·E 3, SD3 and FLUX.1 lead.
+---
+
+# LIT-tmp76md3: T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation
+
+Kaiyi Huang, Chengqi Duan, Kaiyue Sun, Enze Xie, Zhenguo Li and Xihui Liu
+(2025), *IEEE Transactions on Pattern Analysis and Machine Intelligence*
+47(5):3563–3579 — DOI-10.1109/TPAMI.2025.3531907; also arXiv 2307.06350 v3
+
+## Key takeaways
+
+- **What was added** (Sections I, III; Table I). Two sub-categories:
+  numeracy (1,000 prompts, one to eight objects of one or more kinds) and
+  3D-spatial relations ("in front of", "behind", "hidden by"), making
+  eight sub-categories and 8,000 prompts, each split 700/300. A depth-plus-
+  detector rule scores 3D relations, a detector count scores numeracy,
+  and multimodal LLMs (MiniGPT-4, ShareGPT4V, GPT-4V) are tested as
+  judges.
+- **Judges against humans** (Table XII). Disentangled BLIP-VQA stays best
+  for colour and texture binding (τ 0.63, 0.52), and the UniDet rule for
+  2D spatial (0.48), 3D spatial (0.31) and numeracy (0.43); on shape,
+  ShareGPT4V with chain-of-thought edges BLIP-VQA (0.29 against 0.27),
+  and every judge is weak there. GPT-4V is best
+  on interactions (0.48; CLIPScore 0.25) and on complex prompts (0.51;
+  the 3-in-1 metric 0.28, CLIPScore 0.07). GPT-4V was run on a fifth of
+  the images.
+- **What is hard** (Tables VIII–XI, human ratings of six models). Spatial
+  relations hardest, then shape binding; non-spatial relations easiest,
+  at 0.95–0.99 for five of six models (Composable Diffusion 0.81).
+- **The models** (Table XIII). DALL·E 3, SD3 and FLUX.1 lead on most
+  sub-categories; SD3 has the best colour binding (B-VQA 0.81) and 2D
+  spatial score (0.32, out of 1). GORS, the paper's reward-weighted
+  finetuning of SD v2, beats its own base everywhere; the 2024–25 models
+  are not rated by humans.
+- **Unchanged from the conference version**: GORS's binding score still
+  falls on adjective–noun pairs absent from its finetuning prompts
+  (B-VQA 0.72→0.54 colour, 0.55→0.34 shape, 0.76→0.36 texture, Table XV),
+  and the text still calls it "slightly lower".
+
+## Standing in the record
+
+Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
+`what-survives-translation`) at the owner's request: the manuscript
+considered it and dropped it from the final reference list. It is read here
+on its own merits. See the curation entry of that day.
+
+It is the journal version of [LIT-783](LIT-783.md) and `extends` it. The record holds
+them as two works because they are two publications with different
+contents; the conference paper is the one the manuscript cites, and its
+reading ([NOTE-592](../notes.d/NOTE-592.md)) is not superseded by this one. Like [LIT-783](LIT-783.md) it is a
+machine-learning benchmark an anthology topic could hold, so it carries the
+`anthology-candidate` flag ([ADR-005](../decisions.d/ADR-005.md)), and it is filed under
+`compositionality`, the subject it shares with this record.
+
+**After reading.** Its interaction category is now judged by GPT-4V rather
+than CLIPScore, which matters to the manuscript's argument about what the
+benchmark can and cannot tell apart; the reading ([NOTE-tmp8sckc](../notes.d/NOTE-tmp8sckc.md)) sets out
+what that does and does not change.

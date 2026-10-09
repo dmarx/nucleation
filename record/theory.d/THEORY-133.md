@@ -17,6 +17,7 @@ version: 1
 tags:
 - metaphysics
 - philosophy-of-science
+- causality
 date: '2026-10-05'
 source:
 - LIT-722

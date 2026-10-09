@@ -7,6 +7,7 @@ title: 'X is a cause of Y exactly when some intervention on X with respect to Y 
 version: 1
 tags:
 - metaphysics
+- causality
 - philosophy-of-science
 date: '2026-10-05'
 source:
@@ -19,6 +20,8 @@ summary: >-
   and treats natural experiments as interventions. Active as the standard
   the record uses for what a causal claim asserts. This statement says
   nothing about invariance, proportionality or levels.
+supports:
+- ARG-tmpuhkwv
 ---
 <!-- inactive-ok-file: LIT-723 — Deferred, unread; Making Things Happen, named as the unread book -->
 <!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named as an application -->

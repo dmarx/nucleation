@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpjo7qe
 title: 'An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-09-27'
@@ -39,6 +39,13 @@ history:
     republishes the cyclic result unchanged, and it restates the false
     extension and the refuted conjecture without repair. The claim itself is
     unchanged.
+- version: 7
+  date: '2026-10-09'
+  note: >-
+    The contextual fraction (LIT-265) has now been read (NOTE-236), so the
+    Source line and summary no longer call it seeded. Its LP is the
+    relaxation of this theory's linear system, and CF = 0 is exactly the
+    global-section criterion. The claim itself is unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -49,22 +56,25 @@ source:
 summary: >-
   Abramsky & Brandenburger (2011), [LIT-016](../literature.d/LIT-016.md), Thm 8.1 with Prop 3.1, and Thms
   5.4 and 5.9 — proved for finite measurement scenarios with no-signalling
-  built into the definition. The graded version (the contextual fraction) and
-  the review that places this formulation among its equivalents are seeded,
+  built into the definition. The graded version, the contextual fraction
+  (LIT-265), is read (NOTE-236): CF = 0 exactly when this criterion holds.
+  The review that places this formulation among its equivalents is seeded,
   not read.
 extended_by:
 - THEORY-011
 - THEORY-014
 - THEORY-015
+supports:
+- CLAIM-tmpaviuz
+- CLAIM-tmpbbjw4
 ---
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
-<!-- inactive-ok-file: LIT-265 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 
 # THEORY-012: An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
 
 ## Source
 
-Abramsky & Brandenburger (2011), [LIT-016](../literature.d/LIT-016.md), §§2.2–2.5, Prop 3.1, Props 4.2–4.4, Thms 5.4 and 5.9, Props 6.1 and 6.3, Thm 8.1 ([NOTE-016](../notes.d/NOTE-016.md)). Seeded, not read: Abramsky, Barbosa & Mansfield's contextual fraction ([LIT-265](../literature.d/LIT-265.md)) and Budroni et al.'s review ([LIT-263](../literature.d/LIT-263.md), §IV.A.1, which calls local consistency "the sheaf condition" and lists the sheaf, marginal-problem, polytope and graph formulations as substantially equivalent).
+Abramsky & Brandenburger (2011), [LIT-016](../literature.d/LIT-016.md), §§2.2–2.5, Prop 3.1, Props 4.2–4.4, Thms 5.4 and 5.9, Props 6.1 and 6.3, Thm 8.1 ([NOTE-016](../notes.d/NOTE-016.md)). The graded version: Abramsky, Barbosa & Mansfield's contextual fraction ([LIT-265](../literature.d/LIT-265.md), Eq. 3 and Theorem 1, read in [NOTE-236](../notes.d/NOTE-236.md)). Seeded, not read: Budroni et al.'s review ([LIT-263](../literature.d/LIT-263.md), §IV.A.1, which calls local consistency "the sheaf condition" and lists the sheaf, marginal-problem, polytope and graph formulations as substantially equivalent).
 
 ## What was actually shown
 

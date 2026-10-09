@@ -1,0 +1,88 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpins0u](../notes.d/NOTE-tmpins0u.md)); worth reading as the measurement that the order of the same few-shot examples, with content held fixed, can move a language model from near chance to near the fine-tuned state of the art, at every size from GPT-2 Small to GPT-3 175B. Good orders do not transfer between model sizes (rank correlations near zero), more examples do not remove the variance, and failing orders mostly collapse the predicted label distribution. The rest of the paper is a selection method (entropy over a self-generated probing set) whose interest here is secondary.'
+title: 'Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed and read on 2026-10-09 (NOTE-tmpins0u) from the arXiv v2 PDF
+    (3 Mar 2022, 13 pp.). Bibliography checked against the arXiv API
+    (authors Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel,
+    Pontus Stenetorp; v1 submitted 18 April 2021, which is `published:`
+    per ADR-002) and Crossref (ACL 2022, Volume 1: Long Papers,
+    DOI 10.18653/v1/2022.acl-long.556). The manuscript's bibliography
+    gives the short title; the exact title carries the subtitle "Overcoming
+    Few-Shot Prompt Order Sensitivity". Not held in the Anthology of the
+    SOTA: a grep of its record/ (clone of 2026-10-09, commit d8b5ba5) for
+    the identifier, the title and the first author found nothing. Its
+    subject is one the anthology's in-context-learning topic holds, hence
+    `anthology-candidate`.
+tags:
+- representation-learning
+- anthology-candidate
+date: '2026-10-09'
+published: '2021-04-18'
+arxiv: '2104.08786'
+doi: '10.18653/v1/2022.acl-long.556'
+first_author: 'Lu'
+keywords:
+- 'in-context learning'
+- 'few-shot prompting'
+- 'order sensitivity'
+- 'permutation'
+- 'entropy-based probing'
+implementations: []
+summary: >-
+  Lu, Bartolo, Moore, Riedel and Stenetorp (2021), ACL 2022. With the same
+  four SST-2 examples, the 24 orders range from near chance (~50%) to
+  above 85% accuracy, in GPT-2 and GPT-3 from 0.1B to 175B. Good orders
+  are model-specific (pairwise Spearman correlations between sizes all
+  between −0.35 and 0.27, on one example set), the variance persists with up to 32 examples
+  and after calibration, and failing orders mostly predict one label.
+  Ranking orders by the label entropy they induce on a self-generated
+  probing set recovers an average 13% relative gain across eleven
+  classification tasks.
+---
+
+# LIT-tmpthf7j: Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity
+
+Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel and Pontus Stenetorp
+(2021), *ACL 2022* — [ARXIV-2104.08786](https://arxiv.org/abs/2104.08786), DOI-10.18653/v1/2022.acl-long.556
+
+## Key takeaways
+
+- **Order alone, content fixed.** For a fixed balanced set of four SST-2
+  examples, all 24 permutations as prompts: some reach accuracy comparable
+  to supervised fine-tuning, others sit near the 50% baseline, in every
+  GPT-2 and GPT-3 size tested (Figure 1). Larger models reduce the spread
+  on SST-2 but not on Subj.
+- **Not a small-sample artefact.** Up to 32 examples (sampling at most 24
+  orders), accuracy rises but the variance stays high and can grow.
+- **Not transferable.** Pairwise Spearman correlations of permutation
+  performance between model sizes are near zero (175B vs 2.7B: 0.05), and
+  the same holds for the six label patterns. One permutation falls from
+  88.7% to 51.6% moving from GPT-2 XL to GPT-2 Large.
+- **How bad orders fail.** Mostly by highly unbalanced predicted label
+  distributions; calibration (Zhao et al. 2021) raises accuracy but leaves
+  the variance high.
+- **Selection without labels.** Generate a probing set by sampling from
+  the model under each candidate order, then score orders by the entropy
+  of predicted labels over it (GlobalE) or per item (LocalE). GlobalE
+  gives an average 13% relative improvement over random orders across
+  eleven tasks and sizes, and beats splitting the four training examples
+  into train and dev.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, from the bibliography of the
+owner's manuscript *What Survives Translation?* (work
+`what-survives-translation`), which considered it and dropped it from the
+final reference list. Read on its own terms ([NOTE-tmpins0u](../notes.d/NOTE-tmpins0u.md)).
+
+It carries `anthology-candidate`: its subject, prompt design for few-shot
+learning, is one an anthology topic holds, and its method is an
+instruction for practice. The primary tag is the nearest word the closed
+vocabulary offers, and the fit is weak. What it establishes that this
+record can use is the measurement of order sensitivity itself.

@@ -164,7 +164,7 @@ The paper positions itself against the credibility-revolution measurement litera
 ## Open questions
 
 - What is edge-level precision and recall against expert or author annotation, by field and by method, at EO ≥ 4?
-- Do the causal-structure associations with top-five placement survive field fixed effects and a common sample (for example, papers with both causal and non-causal edges)?
+- Do the causality associations with top-five placement survive field fixed effects and a common sample (for example, papers with both causal and non-causal edges)?
 - How much of the 1990–2020 trend reflects extraction behaviour? Modern papers name their designs explicitly, which could make labelling easier. The +0.0011/decade result with method-mix controls suggests the question matters.
 
 ## Corrections to the seeded skim
