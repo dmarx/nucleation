@@ -16,12 +16,15 @@ answers:
 - QUESTION-tmpt7lzm
 uses:
 - TERM-tmpa0fi1
+grounds:
+- THEORY-tmprknoj
 summary: >-
   A45 §6, recovered: fidelity as P_o(z | c_o, u_o) ≈ P_t(τ_z(z) | c_t,
   u_t), "an interesting middle position between our original
   relativistic account and the later dynamical account". Dropped at
   outline v3 without critique.
 ---
+<!-- inactive-ok-file: THEORY-tmprknoj — Proposed; rational speech acts, cited as a worked model of this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpd81nk — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpw9mi0: A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence
@@ -56,3 +59,13 @@ context?"
 That z exists: "a modeling assumption. In an arbitrary neural network, no
 unique, identifiable latent variable z need exist." It is compatible with
 [CLAIM-tmpd81nk](CLAIM-tmpd81nk.md) if the posterior is read as a summary of observations.
+
+## A worked model
+
+Rational speech act models (THEORY-tmprknoj) treat the listener's output as
+exactly this: a posterior over what the speaker meant, given the utterance
+and its alternatives. Frank and Goodman (LIT-tmpkwn2g) give it for
+referents. Goodman and Frank's extended model (LIT-tmphavsf) gives a joint
+posterior over the world and the speaker's topic, knowledge or lexicon,
+which is an utterance supporting a distribution over the situation of its
+saying.

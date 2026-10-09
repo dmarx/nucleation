@@ -14,11 +14,13 @@ date: '2026-10-08'
 line: pragmatic-transport
 grounds:
 - LIT-338
+- THEORY-tmp64mn6
 summary: >-
   A86 §2, kept in C6 Appendix C with a sharper caveat, recovered. The
   manuscript keeps the caveat (§5) and cites Tishby, Pereira and Bialek
   in its references, but states no bottleneck anywhere in its text.
 ---
+<!-- inactive-ok-file: THEORY-tmp64mn6 — Proposed; colour naming near the information-bottleneck bound, cited as the nearest precedent, not as settled -->
 
 # CLAIM-tmpqz0mv: Translation can be posed as a context-indexed information bottleneck: compress the source while preserving information about the responses in each measurement context separately
 
@@ -51,3 +53,12 @@ elicited contexts, but that sum is a designed scalar objective, not an assertion
 that the Y_C admit a common joint distribution." So Tishby, Pereira and Bialek are
 cited by the full draft's appendix, though not by name and not in its body. What
 was dropped is the objective's place in the main argument, not the objective.
+
+## The nearest precedent, and what it implies
+
+Zaslavsky et al. (LIT-tmpe6100, THEORY-tmp64mn6) apply the bottleneck to
+word meanings, with one relevance variable rather than a context-indexed
+one. Their formulation also sharpens this claim's defeat condition. Once
+meanings are distributions and distortion is KL divergence, the bottleneck
+*is* rate–distortion with that distortion. A context-indexed bottleneck
+therefore adds something only if the indexing changes the distortion.

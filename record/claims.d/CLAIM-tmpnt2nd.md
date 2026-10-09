@@ -46,3 +46,11 @@ symmetry.
 It is a motivating premise, not a result the manuscript relies on formally.
 Lévi-Strauss is unread here ([LIT-775](../literature.d/LIT-775.md)), so his part of it rests on a work cited
 without a reading.
+
+## A qualification from experiment
+
+Bergen, Goodman and Levy (LIT-tmpcsywp), Experiment 1: a novel symbol's
+interpretation is fixed by its contrast with the alternative the speaker
+could have used. But the contrast works only because one alternative is
+tied to an object by resemblance. Read against this claim, it is contrast
+together with reference, not contrast instead of it.
