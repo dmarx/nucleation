@@ -4,8 +4,8 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-0 of 31 decisions. Back to the [full index](../README.md).
+1 of 35 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ADR-032](../../../record/decisions.d/ADR-032.md) | Argument development: QUESTION, CLAIM, CASE, TERM and ARG | The record gains five schemes for developing the owner's own arguments rather than only documenting others': QUESTION (what is being asked), CLAIM (what the record itself holds, with a voice — thesis, counter, granted, disclaimed, supposed — beside its credence), CASE (examples and thought experiments, with their standing and variants), TERM (concepts, versioned by supersession) and ARG (an inference, filed only when something must point at one), plus a workbench journal and two vocabularies, lines and works. Objections are claims. The relations a chain walks hold one scheme each, so the argument, its objection threads and its revisions render as lines; claims are indexed by line of inquiry. Rejected: a separate objection scheme, ARG for every claim, claims-only, a `strikes:` field, multi-scheme spines, lines as topic tags, and borrowing a full argumentation ontology. | Proposed |

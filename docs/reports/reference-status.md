@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**145 documents cited without acknowledgement.** Not listed: 2774 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**166 documents cited without acknowledgement.** Not listed: 3273 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -236,7 +236,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
-17 citations in 12 files await a look; 11 other citations of it are acknowledged.
+17 citations in 12 files await a look; 28 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
 - [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
@@ -303,7 +303,7 @@ The Conditional Entropy Bottleneck
 12 citations in 9 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/literature.d/LIT-246.md:54`](../../record/literature.d/LIT-246.md)
-- [`record/literature.d/LIT-338.md:59`](../../record/literature.d/LIT-338.md)
+- [`record/literature.d/LIT-338.md:61`](../../record/literature.d/LIT-338.md)
 - [`record/literature.d/LIT-377.md:99`](../../record/literature.d/LIT-377.md)
 - [`record/notes.d/NOTE-233.md:35`](../../record/notes.d/NOTE-233.md)
 - [`record/notes.d/NOTE-298.md:131`](../../record/notes.d/NOTE-298.md)
@@ -361,9 +361,9 @@ Compositional generalization comes from diversity of combinations, not data volu
 
 - [`record/decisions.d/ADR-031.md:36`](../../record/decisions.d/ADR-031.md)
 - [`record/decisions.d/ADR-031.md:77`](../../record/decisions.d/ADR-031.md)
-- [`record/literature.d/LIT-770.md:80`](../../record/literature.d/LIT-770.md)
-- [`record/literature.d/LIT-782.md:85`](../../record/literature.d/LIT-782.md)
-- [`record/literature.d/LIT-783.md:95`](../../record/literature.d/LIT-783.md)
+- [`record/literature.d/LIT-770.md:84`](../../record/literature.d/LIT-770.md)
+- [`record/literature.d/LIT-782.md:88`](../../record/literature.d/LIT-782.md)
+- [`record/literature.d/LIT-783.md:102`](../../record/literature.d/LIT-783.md)
 - [`record/notes.d/NOTE-592.md:177`](../../record/notes.d/NOTE-592.md)
 - [`record/notes.d/NOTE-592.md:181`](../../record/notes.d/NOTE-592.md)
 - [`record/notes.d/NOTE-592.md:186`](../../record/notes.d/NOTE-592.md)
@@ -511,7 +511,7 @@ On the Stepwise Nature of Self-Supervised Learning
 
 Kochen-Specker contextuality
 
-9 citations in 5 files await a look; 12 other citations of it are acknowledged.
+9 citations in 5 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-298.md:6`](../../record/literature.d/LIT-298.md)
 - [`record/literature.d/LIT-298.md:65`](../../record/literature.d/LIT-298.md)
@@ -522,38 +522,6 @@ Kochen-Specker contextuality
 - [`record/notes.d/NOTE-250.md:203`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-279.md:114`](../../record/notes.d/NOTE-279.md)
 - [`record/notes.d/NOTE-279.md:126`](../../record/notes.d/NOTE-279.md)
-
-### [LIT-264](../../record/literature.d/LIT-264.md) — Deferred
-
-Is there contextuality in behavioral and social systems?
-
-9 citations in 5 files await a look; 9 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-270.md:6`](../../record/literature.d/LIT-270.md)
-- [`record/literature.d/LIT-270.md:72`](../../record/literature.d/LIT-270.md)
-- [`record/notes.d/NOTE-239.md:97`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-239.md:115`](../../record/notes.d/NOTE-239.md)
-- [`record/notes.d/NOTE-243.md:60`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:92`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-243.md:118`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-294.md:120`](../../record/notes.d/NOTE-294.md)
-- [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
-
-### [LIT-265](../../record/literature.d/LIT-265.md) — Deferred
-
-The contextual fraction as a measure of contextuality
-
-9 citations in 8 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-243.md:119`](../../record/notes.d/NOTE-243.md)
-- [`record/notes.d/NOTE-249.md:169`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-249.md:211`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:202`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-251.md:214`](../../record/notes.d/NOTE-251.md)
-- [`record/notes.d/NOTE-252.md:205`](../../record/notes.d/NOTE-252.md)
-- [`record/notes.d/NOTE-253.md:224`](../../record/notes.d/NOTE-253.md)
-- [`record/notes.d/NOTE-254.md:273`](../../record/notes.d/NOTE-254.md)
-- [`record/notes.d/NOTE-279.md:129`](../../record/notes.d/NOTE-279.md)
 
 ### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
 
@@ -607,7 +575,7 @@ Detection, Estimation, and Modulation Theory, Part I
 
 In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
 
-9 citations in 6 files await a look; 3 other citations of it are acknowledged.
+9 citations in 6 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-249.md:183`](../../record/notes.d/NOTE-249.md)
 - [`record/notes.d/NOTE-250.md:198`](../../record/notes.d/NOTE-250.md)
@@ -686,8 +654,8 @@ Communication in the Presence of Noise
 
 8 citations in 5 files await a look.
 
-- [`record/literature.d/LIT-764.md:76`](../../record/literature.d/LIT-764.md)
-- [`record/literature.d/LIT-764.md:88`](../../record/literature.d/LIT-764.md)
+- [`record/literature.d/LIT-764.md:78`](../../record/literature.d/LIT-764.md)
+- [`record/literature.d/LIT-764.md:90`](../../record/literature.d/LIT-764.md)
 - [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
 - [`record/notes.d/NOTE-293.md:162`](../../record/notes.d/NOTE-293.md)
 - [`record/notes.d/NOTE-300.md:124`](../../record/notes.d/NOTE-300.md)
@@ -740,6 +708,21 @@ Adler — Hilbert spaces and the Riesz representation theorem
 - [`record/notes.d/NOTE-286.md:189`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-286.md:190`](../../record/notes.d/NOTE-286.md)
 
+### [NOTE-596](../../record/notes.d/NOTE-596.md) — Skimmed
+
+Cumulative cultural evolution in the laboratory
+
+8 citations in 6 files await a look.
+
+- [`record/claims.d/CLAIM-066.md:25`](../../record/claims.d/CLAIM-066.md)
+- [`record/literature.d/LIT-768.md:85`](../../record/literature.d/LIT-768.md)
+- [`record/literature.d/LIT-769.md:90`](../../record/literature.d/LIT-769.md)
+- [`record/literature.d/LIT-771.md:6`](../../record/literature.d/LIT-771.md)
+- [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
+- [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
+- [`record/notes.d/NOTE-599.md:182`](../../record/notes.d/NOTE-599.md)
+- [`record/theory.d/THEORY-155.md:50`](../../record/theory.d/THEORY-155.md)
+
 ### [LIT-349](../../record/literature.d/LIT-349.md) — Deferred
 
 Information and the Accuracy Attainable in the Estimation of Statistical Parameters
@@ -767,20 +750,6 @@ Analysis of Boolean Functions
 - [`record/theory.d/THEORY-019.md:63`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:96`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:99`](../../record/theory.d/THEORY-019.md)
-
-### [NOTE-596](../../record/notes.d/NOTE-596.md) — Skimmed
-
-Cumulative cultural evolution in the laboratory
-
-7 citations in 5 files await a look.
-
-- [`record/literature.d/LIT-768.md:83`](../../record/literature.d/LIT-768.md)
-- [`record/literature.d/LIT-769.md:87`](../../record/literature.d/LIT-769.md)
-- [`record/literature.d/LIT-771.md:6`](../../record/literature.d/LIT-771.md)
-- [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
-- [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
-- [`record/notes.d/NOTE-599.md:182`](../../record/notes.d/NOTE-599.md)
-- [`record/theory.d/THEORY-155.md:47`](../../record/theory.d/THEORY-155.md)
 
 ### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
 
@@ -828,7 +797,7 @@ The Role of the Information Bottleneck in Representation Learning
 
 6 citations in 5 files await a look.
 
-- [`record/literature.d/LIT-338.md:59`](../../record/literature.d/LIT-338.md)
+- [`record/literature.d/LIT-338.md:61`](../../record/literature.d/LIT-338.md)
 - [`record/notes.d/NOTE-298.md:119`](../../record/notes.d/NOTE-298.md)
 - [`record/notes.d/NOTE-300.md:106`](../../record/notes.d/NOTE-300.md)
 - [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
@@ -924,6 +893,65 @@ Zur Theorie der hyperkomplexen Zahlen
 - [`record/notes.d/NOTE-280.md:119`](../../record/notes.d/NOTE-280.md)
 - [`record/notes.d/NOTE-305.md:105`](../../record/notes.d/NOTE-305.md)
 
+### [LIT-778](../../record/literature.d/LIT-778.md) — Deferred
+
+Comparison of Statistical Experiments
+
+5 citations in 5 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-050.md:51`](../../record/claims.d/CLAIM-050.md)
+- [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
+- [`record/literature.d/LIT-781.md:91`](../../record/literature.d/LIT-781.md)
+- [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
+- [`record/theory.d/THEORY-156.md:71`](../../record/theory.d/THEORY-156.md)
+
+### [NOTE-601](../../record/notes.d/NOTE-601.md) — Skimmed
+
+Seven Sketches in Compositionality
+
+5 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-344.md:105`](../../record/literature.d/LIT-344.md)
+- [`record/literature.d/LIT-803.md:6`](../../record/literature.d/LIT-803.md)
+- [`record/literature.d/LIT-803.md:14`](../../record/literature.d/LIT-803.md)
+- [`record/literature.d/LIT-803.md:70`](../../record/literature.d/LIT-803.md)
+- [`record/literature.d/LIT-803.md:103`](../../record/literature.d/LIT-803.md)
+
+### [NOTE-618](../../record/notes.d/NOTE-618.md) — Skimmed
+
+Structuralism
+
+5 citations in 2 files await a look.
+
+- [`record/claims.d/CLAIM-098.md:61`](../../record/claims.d/CLAIM-098.md)
+- [`record/literature.d/LIT-837.md:6`](../../record/literature.d/LIT-837.md)
+- [`record/literature.d/LIT-837.md:13`](../../record/literature.d/LIT-837.md)
+- [`record/literature.d/LIT-837.md:110`](../../record/literature.d/LIT-837.md)
+- [`record/literature.d/LIT-837.md:144`](../../record/literature.d/LIT-837.md)
+
+### [NOTE-642](../../record/notes.d/NOTE-642.md) — Skimmed
+
+Morphology of the Folktale
+
+5 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-830.md:6`](../../record/literature.d/LIT-830.md)
+- [`record/literature.d/LIT-830.md:13`](../../record/literature.d/LIT-830.md)
+- [`record/literature.d/LIT-830.md:152`](../../record/literature.d/LIT-830.md)
+- [`record/literature.d/LIT-830.md:202`](../../record/literature.d/LIT-830.md)
+- [`record/notes.d/NOTE-615.md:188`](../../record/notes.d/NOTE-615.md)
+
+### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
+
+The Relativity of Causal Knowledge
+
+4 citations in 3 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:42`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
+- [`record/literature.d/LIT-772.md:100`](../../record/literature.d/LIT-772.md)
+- [`record/notes.d/NOTE-588.md:214`](../../record/notes.d/NOTE-588.md)
+
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Deferred
 
 Computational Functionalism for the Deep Learning Era
@@ -1001,17 +1029,6 @@ Algebraic Geometry and Statistical Learning Theory
 - [`record/notes.d/NOTE-287.md:125`](../../record/notes.d/NOTE-287.md)
 - [`record/notes.d/NOTE-287.md:150`](../../record/notes.d/NOTE-287.md)
 
-### [LIT-778](../../record/literature.d/LIT-778.md) — Deferred
-
-Comparison of Statistical Experiments
-
-4 citations in 4 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
-- [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
-- [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
-- [`record/theory.d/THEORY-156.md:69`](../../record/theory.d/THEORY-156.md)
-
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
 The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
@@ -1023,11 +1040,42 @@ The Theory of Signal Detectability. Part I: The General Theory; Part II: Applica
 - [`record/theory.d/THEORY-031.md:33`](../../record/theory.d/THEORY-031.md)
 - [`record/theory.d/THEORY-031.md:48`](../../record/theory.d/THEORY-031.md)
 
+### [NOTE-624](../../record/notes.d/NOTE-624.md) — Skimmed
+
+The Geometry of Causality
+
+4 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-788.md:6`](../../record/literature.d/LIT-788.md)
+- [`record/literature.d/LIT-788.md:13`](../../record/literature.d/LIT-788.md)
+- [`record/literature.d/LIT-788.md:107`](../../record/literature.d/LIT-788.md)
+- [`record/literature.d/LIT-813.md:37`](../../record/literature.d/LIT-813.md)
+
+### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
+
+Adding causality to the information-theoretic perspective on individuality
+
+3 citations in 2 files await a look; 36 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:47`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
+- [`record/notes.d/NOTE-165.md:102`](../../record/notes.d/NOTE-165.md)
+
+### [LIT-079](../../record/literature.d/LIT-079.md) — Proposed
+
+Causal Claims in Economics
+
+3 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-035.md:43`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
+- [`record/notes.d/NOTE-161.md:112`](../../record/notes.d/NOTE-161.md)
+
 ### [LIT-106](../../record/literature.d/LIT-106.md) — Deferred
 
 Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 
-3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+3 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-009.md:35`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
@@ -1077,11 +1125,21 @@ What is Structural Realism?
 
 Convention: A Philosophical Study
 
-3 citations in 3 files await a look; 8 other citations of it are acknowledged.
+3 citations in 3 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
 - [`record/literature.d/LIT-765.md:28`](../../record/literature.d/LIT-765.md)
 - [`record/literature.d/LIT-768.md:31`](../../record/literature.d/LIT-768.md)
+
+### [NOTE-622](../../record/notes.d/NOTE-622.md) — Skimmed
+
+Making It Explicit
+
+3 citations in 1 file await a look.
+
+- [`record/literature.d/LIT-794.md:6`](../../record/literature.d/LIT-794.md)
+- [`record/literature.d/LIT-794.md:13`](../../record/literature.d/LIT-794.md)
+- [`record/literature.d/LIT-794.md:102`](../../record/literature.d/LIT-794.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -1103,6 +1161,25 @@ For a system driven without feedback, the work dissipated equals the memory that
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
 - [`record/theory.d/THEORY-030.md:82`](../../record/theory.d/THEORY-030.md)
 
+### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
+
+In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
+
+3 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-072.md:38`](../../record/claims.d/CLAIM-072.md)
+- [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
+- [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
+
+### [CLAIM-105](../../record/claims.d/CLAIM-105.md) — Proposed
+
+Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
+
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-236.md:172`](../../record/notes.d/NOTE-236.md)
+- [`record/notes.d/NOTE-236.md:186`](../../record/notes.d/NOTE-236.md)
+
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
 Spectral Networks and Betti Lagrangians
@@ -1111,15 +1188,6 @@ Spectral Networks and Betti Lagrangians
 
 - [`record/notes.d/NOTE-293.md:167`](../../record/notes.d/NOTE-293.md)
 - [`record/notes.d/NOTE-293.md:170`](../../record/notes.d/NOTE-293.md)
-
-### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
-
-The Relativity of Causal Knowledge
-
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-772.md:100`](../../record/literature.d/LIT-772.md)
-- [`record/notes.d/NOTE-588.md:214`](../../record/notes.d/NOTE-588.md)
 
 ### [LIT-047](../../record/literature.d/LIT-047.md) — Proposed
 
@@ -1156,6 +1224,15 @@ Conspiracy Theories and Public Trust
 
 - [`record/notes.d/NOTE-113.md:107`](../../record/notes.d/NOTE-113.md)
 - [`record/notes.d/NOTE-113.md:126`](../../record/notes.d/NOTE-113.md)
+
+### [LIT-144](../../record/literature.d/LIT-144.md) — Deferred
+
+Causal Exclusion and Downward Counterfactuals
+
+2 citations in 1 file await a look; 7 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:45`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
 
 ### [LIT-186](../../record/literature.d/LIT-186.md) — Deferred
 
@@ -1242,7 +1319,7 @@ Duality of Bures and Shape Distances with Implications for Comparing Neural Repr
 
 Quantum Models of Cognition and Decision
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-294.md:146`](../../record/notes.d/NOTE-294.md)
 - [`record/notes.d/NOTE-299.md:125`](../../record/notes.d/NOTE-299.md)
@@ -1273,6 +1350,33 @@ The Grammar of Society: The Nature and Dynamics of Social Norms
 
 - [`record/decisions.d/ADR-018.md:53`](../../record/decisions.d/ADR-018.md)
 - [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
+
+### [LIT-723](../../record/literature.d/LIT-723.md) — Deferred
+
+Making Things Happen: A Theory of Causal Explanation
+
+2 citations in 1 file await a look; 4 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:41`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:77`](../../record/decisions.d/ADR-035.md)
+
+### [LIT-767](../../record/literature.d/LIT-767.md) — Deferred
+
+The rate-distortion function for source coding with side information at the decoder
+
+2 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-050.md:53`](../../record/claims.d/CLAIM-050.md)
+- [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
+
+### [LIT-775](../../record/literature.d/LIT-775.md) — Deferred
+
+Structural Anthropology
+
+2 citations in 2 files await a look; 10 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-082.md:50`](../../record/claims.d/CLAIM-082.md)
+- [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
 
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
 
@@ -1310,31 +1414,49 @@ A mind of mindless agents and a mind of minded agents are one functionalist move
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
 
+### [THEORY-058](../../record/theory.d/THEORY-058.md) — Proposed
+
+Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
+
+2 citations in 1 file await a look; 16 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:51`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:78`](../../record/decisions.d/ADR-035.md)
+
+### [THEORY-133](../../record/theory.d/THEORY-133.md) — Proposed
+
+A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels
+
+2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:47`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:78`](../../record/decisions.d/ADR-035.md)
+
 ### [THEORY-156](../../record/theory.d/THEORY-156.md) — Proposed
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look.
+2 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-781.md:87`](../../record/literature.d/LIT-781.md)
+- [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
 
-### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
+### [THEORY-171](../../record/theory.d/THEORY-171.md) — Proposed
 
-In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
+When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality
 
-2 citations in 2 files await a look.
+2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-774.md:97`](../../record/literature.d/LIT-774.md)
-- [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
+- [`record/decisions.d/ADR-035.md:34`](../../record/decisions.d/ADR-035.md)
+- [`record/decisions.d/ADR-035.md:71`](../../record/decisions.d/ADR-035.md)
 
-### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
+### [CLAIM-115](../../record/claims.d/CLAIM-115.md) — Proposed
 
-Adding causality to the information-theoretic perspective on individuality
+What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
-1 citation in 1 file awaits a look; 36 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
-- [`record/notes.d/NOTE-165.md:102`](../../record/notes.d/NOTE-165.md)
+- [`record/questions.d/QUESTION-002.md:38`](../../record/questions.d/QUESTION-002.md)
 
 ### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
 
@@ -1351,14 +1473,6 @@ Dynamics of collectives with opinionated agents: The case of scrambling connecti
 1 citation in 1 file awaits a look.
 
 - [`record/notes.d/NOTE-139.md:109`](../../record/notes.d/NOTE-139.md)
-
-### [LIT-079](../../record/literature.d/LIT-079.md) — Proposed
-
-Causal Claims in Economics
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/notes.d/NOTE-161.md:112`](../../record/notes.d/NOTE-161.md)
 
 ### [LIT-083](../../record/literature.d/LIT-083.md) — Proposed
 
@@ -1524,7 +1638,7 @@ Boolean Concept Logic
 
 Formal Concept Analysis: Mathematical Foundations
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-272.md:124`](../../record/notes.d/NOTE-272.md)
 
@@ -1654,15 +1768,63 @@ Elements of Information Theory
 
 1 citation in 1 file awaits a look.
 
-- [`record/literature.d/LIT-767.md:62`](../../record/literature.d/LIT-767.md)
+- [`record/literature.d/LIT-767.md:64`](../../record/literature.d/LIT-767.md)
 
-### [LIT-767](../../record/literature.d/LIT-767.md) — Deferred
+### [LIT-766](../../record/literature.d/LIT-766.md) — Deferred
 
-The rate-distortion function for source coding with side information at the decoder
+Le Ton beau de Marot: In Praise of the Music of Language
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
+- [`record/decisions.d/ADR-033.md:24`](../../record/decisions.d/ADR-033.md)
+
+### [LIT-768](../../record/literature.d/LIT-768.md) — Deferred
+
+Remembering: A Study in Experimental and Social Psychology
+
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-090.md:50`](../../record/claims.d/CLAIM-090.md)
+
+### [LIT-780](../../record/literature.d/LIT-780.md) — Deferred
+
+Forms of Talk
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-034.md:29`](../../record/decisions.d/ADR-034.md)
+
+### [LIT-784](../../record/literature.d/LIT-784.md) — Deferred
+
+Translation and Relevance: Cognition and Context
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-033.md:23`](../../record/decisions.d/ADR-033.md)
+
+### [LIT-785](../../record/literature.d/LIT-785.md) — Deferred
+
+How to Do Things with Words
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-034.md:28`](../../record/decisions.d/ADR-034.md)
+
+### [LIT-789](../../record/literature.d/LIT-789.md) — Deferred
+
+Translation Quality Assessment: Past and Present
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-614.md:165`](../../record/notes.d/NOTE-614.md)
+
+### [LIT-791](../../record/literature.d/LIT-791.md) — Deferred
+
+Toward a Science of Translating: With Special Reference to Principles and Procedures Involved in Bible Translating
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-614.md:165`](../../record/notes.d/NOTE-614.md)
 
 ### [NOTE-199](../../record/notes.d/NOTE-199.md) — Skimmed
 
@@ -1732,7 +1894,7 @@ Spectral self-supervised learning gets its self-adjointness from the symmetry of
 
 Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-027.md:61`](../../record/theory.d/THEORY-027.md)
 
@@ -1751,6 +1913,30 @@ Category theory gives radical ontic structural realism no formal support: genera
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-034.md:98`](../../record/theory.d/THEORY-034.md)
+
+### [THEORY-065](../../record/theory.d/THEORY-065.md) — Proposed
+
+The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones
+
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-035.md:80`](../../record/decisions.d/ADR-035.md)
+
+### [THEORY-155](../../record/theory.d/THEORY-155.md) — Proposed
+
+Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior
+
+1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-066.md:41`](../../record/claims.d/CLAIM-066.md)
+
+### [THEORY-162](../../record/theory.d/THEORY-162.md) — Proposed
+
+What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about
+
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
 
 ## Codes that resolve to no document
 
@@ -1783,8 +1969,61 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/arguments.d/ARG-006.md:25: annotation no longer applies — nothing in scope cites CLAIM-063, CLAIM-117
+- record/cases.d/CASE-012.md:28: annotation no longer applies — nothing in scope cites ARG-004
+- record/cases.d/CASE-012.md:31: annotation no longer applies — nothing in scope cites CLAIM-006
+- record/cases.d/CASE-031.md:25: annotation no longer applies — nothing in scope cites CLAIM-115
+- record/claims.d/CLAIM-008.md:31: annotation no longer applies — nothing in scope cites TERM-032
+- record/claims.d/CLAIM-009.md:28: annotation no longer applies — nothing in scope cites CLAIM-109
+- record/claims.d/CLAIM-017.md:30: annotation no longer applies — nothing in scope cites CLAIM-108
+- record/claims.d/CLAIM-020.md:26: annotation no longer applies — nothing in scope cites TERM-001
+- record/claims.d/CLAIM-033.md:28: annotation no longer applies — nothing in scope cites CLAIM-042
+- record/claims.d/CLAIM-040.md:24: annotation no longer applies — nothing in scope cites CLAIM-015
+- record/claims.d/CLAIM-041.md:38: annotation no longer applies — nothing in scope cites ARG-002
+- record/claims.d/CLAIM-042.md:37: annotation no longer applies — nothing in scope cites CLAIM-008, TERM-022
+- record/claims.d/CLAIM-043.md:23: annotation no longer applies — nothing in scope cites CLAIM-038
+- record/claims.d/CLAIM-050.md:41: annotation no longer applies — nothing in scope cites CLAIM-051
+- record/claims.d/CLAIM-052.md:32: annotation no longer applies — nothing in scope cites CLAIM-073
+- record/claims.d/CLAIM-054.md:30: annotation no longer applies — nothing in scope cites CLAIM-061, CLAIM-064
+- record/claims.d/CLAIM-064.md:29: annotation no longer applies — nothing in scope cites TERM-035
+- record/claims.d/CLAIM-070.md:31: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-071.md:27: annotation no longer applies — nothing in scope cites CLAIM-120
+- record/claims.d/CLAIM-083.md:33: annotation no longer applies — nothing in scope cites CLAIM-055
+- record/claims.d/CLAIM-084.md:31: annotation no longer applies — nothing in scope cites CLAIM-061
+- record/claims.d/CLAIM-091.md:30: annotation no longer applies — nothing in scope cites CLAIM-061
+- record/claims.d/CLAIM-098.md:30: annotation no longer applies — nothing in scope cites CLAIM-102
+- record/claims.d/CLAIM-101.md:32: annotation no longer applies — nothing in scope cites CLAIM-065
+- record/claims.d/CLAIM-102.md:33: annotation no longer applies — nothing in scope cites TERM-013, TERM-016
+- record/claims.d/CLAIM-106.md:39: annotation no longer applies — nothing in scope cites CLAIM-067
+- record/claims.d/CLAIM-108.md:35: annotation no longer applies — nothing in scope cites CLAIM-036
+- record/claims.d/CLAIM-109.md:31: annotation no longer applies — nothing in scope cites TERM-016
+- record/claims.d/CLAIM-113.md:36: annotation no longer applies — nothing in scope cites CLAIM-015
+- record/claims.d/CLAIM-115.md:41: annotation no longer applies — nothing in scope cites CLAIM-017
+- record/claims.d/CLAIM-117.md:37: annotation no longer applies — nothing in scope cites CLAIM-052
+- record/claims.d/CLAIM-121.md:31: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
+- record/literature.d/LIT-777.md:57: annotation no longer applies — LIT-264 is Active now
+- record/literature.d/LIT-802.md:83: annotation no longer applies — LIT-837 is Active now
+- record/literature.d/LIT-828.md:130: annotation no longer applies — LIT-830 is Active now
+- record/notes.d/NOTE-240.md:39: annotation no longer applies — LIT-264 is Active now
 - record/notes.d/NOTE-347.md:33: annotation no longer applies — nothing in scope cites LIT-441
 - record/notes.d/NOTE-349.md:34: annotation no longer applies — nothing in scope cites LIT-413
 - record/notes.d/NOTE-357.md:37: annotation no longer applies — nothing in scope cites LIT-434, LIT-443
 - record/notes.d/NOTE-369.md:27: annotation no longer applies — nothing in scope cites LIT-412
+- record/notes.d/NOTE-600.md:37: annotation no longer applies — LIT-264 is Active now
+- record/notes.d/NOTE-601.md:39: annotation no longer applies — nothing in scope cites LIT-344
+- record/notes.d/NOTE-602.md:30: annotation no longer applies — nothing in scope cites LIT-785, LIT-811, LIT-826
+- record/notes.d/NOTE-617.md:34: annotation no longer applies — nothing in scope cites LIT-811
+- record/terms.d/TERM-005.md:22: annotation no longer applies — nothing in scope cites TERM-029, TERM-035
+- record/terms.d/TERM-008.md:43: annotation no longer applies — nothing in scope cites CLAIM-101
+- record/terms.d/TERM-008.md:44: annotation no longer applies — nothing in scope cites CLAIM-106
+- record/terms.d/TERM-009.md:23: annotation no longer applies — nothing in scope cites TERM-032
+- record/terms.d/TERM-011.md:21: annotation no longer applies — nothing in scope cites CLAIM-111
+- record/terms.d/TERM-016.md:30: annotation no longer applies — nothing in scope cites TERM-035
+- record/terms.d/TERM-021.md:22: annotation no longer applies — nothing in scope cites TERM-013
+- record/terms.d/TERM-024.md:39: annotation no longer applies — nothing in scope cites CLAIM-052, CLAIM-063
+- record/terms.d/TERM-026.md:25: annotation no longer applies — nothing in scope cites TERM-016
+- record/terms.d/TERM-028.md:23: annotation no longer applies — nothing in scope cites CLAIM-026
+- record/terms.d/TERM-031.md:26: annotation no longer applies — nothing in scope cites TERM-016
+- record/theory.d/THEORY-013.md:31: annotation no longer applies — LIT-264 is Active now
+- record/theory.d/THEORY-167.md:35: annotation no longer applies — nothing in scope cites LIT-775

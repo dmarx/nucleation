@@ -22,7 +22,7 @@ summary: >-
 presupposed_by:
 - THEORY-136
 supports:
-- CLAIM-tmpm39cj
+- CLAIM-079
 ---
 
 # THEORY-132: Stability, a system's speed of return to equilibrium after disturbance, and resilience, its capacity to absorb change and persist within its domain of attraction, are distinct properties that can trade off, so a system can be highly unstable and highly resilient, and managing it for constancy can erode its resilience

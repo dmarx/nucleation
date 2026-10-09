@@ -6,7 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [9 Oct 03:33 — The manuscript bibliography registered: 46 dropped works and the conceded prior art](2026-10.md#the-manuscript-bibliography-registered-46-dropped-works-and-the-conceded-prior-art)
 - [9 Oct 00:41 — The manuscript's reference list: twenty-two works the record lacked](2026-10.md#the-manuscripts-reference-list-twenty-two-works-the-record-lacked)
+- [7 Oct 01:06 — Four works cited by The Organization of Will](2026-10.md#four-works-cited-by-the-organization-of-will)
 - [6 Oct 23:37 — Design-rationale literature, as evidence for an argument scheme](2026-10.md#design-rationale-literature-as-evidence-for-an-argument-scheme)
 - [5 Oct 19:15 — Reading Cameron, Banko and Pierce (2001)](2026-10.md#reading-cameron-banko-and-pierce-2001)
 - [5 Oct 17:15 — Auditing the THEORY relations after presupposes](2026-10.md#auditing-the-theory-relations-after-presupposes)
@@ -38,9 +40,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-76 entries across 2 books, newest first.
+78 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 29 | 2026-10-01 | 2026-10-09 |
+| [2026-10](2026-10.md) | 31 | 2026-10-01 | 2026-10-09 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

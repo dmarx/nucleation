@@ -47,7 +47,7 @@ summary: >-
 presupposed_by:
 - THEORY-139
 supports:
-- CLAIM-tmp9myih
+- CLAIM-030
 ---
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->
 <!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->

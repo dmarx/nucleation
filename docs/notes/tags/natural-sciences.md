@@ -4,7 +4,7 @@
 
 **natural-sciences**.
 
-65 of 600 NOTE documents. Back to the [full index](../README.md).
+66 of 643 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -73,3 +73,4 @@
 | [NOTE-557](../../../record/notes.d/NOTE-557.md) | Signaling cascades and the importance of moonlight in coral broadcast mass spawning | Two experiments at Heron Island on Acropora millepora. In 2011, colonies under ambient night light (N = 6) spawned with the reef, while colonies lit after sunset (N = 5) or kept dark (N = 5) did not spawn that night. 184 transcripts selected by variance changed around gamete release only in ambient colonies. In 2006, 90 colonies under blue, green or white nocturnal light spawned 6–8 h or two nights late, and under red light on time. The GPCR and melanopsin cascade is a model built from correlated expression. | Read |
 | [NOTE-558](../../../record/notes.d/NOTE-558.md) | Phase Shifts, Herbivory, and the Resilience of Coral Reefs to Climate Change | Four roofless 25 m² cages on Orpheus Island's reef crest kept large and medium fishes out for 30 months after the 1998 bleaching, against four partial cages and four open plots. Macroalgae averaged 56% cover in cages and 4.1% and 1.7% outside. Coral cover reached 7.7% inside against 19.2% and 20.2%. Recruitment fell to about a third (39 against 108 and 118 per 25 m²) and mortality of established colonies was 24.2% against 9.8% and 11.3%. Reopened, the cages lost their algae in 30 days. | Read |
 | [NOTE-562](../../../record/notes.d/NOTE-562.md) | Cancer across the tree of life: cooperation and cheating in multicellularity | A review framing cancer as cheating on five foundations of multicellular cooperation and surveying cancer-like phenomena across the independent origins of complex multicellularity. Division-of-labour cheating appears in every form, resource and environment cheating only in animals and plants so far. Complex multicellularity is read as a cheater detection and suppression system, with proliferative units as a possible intermediate level of selection. | Read |
+| [NOTE-630](../../../record/notes.d/NOTE-630.md) | Getting to the Bottom of Noether's Theorem | Noether's theorem in Hamiltonian form, "a generates symmetries of b iff b generates symmetries of a", follows in Poisson algebras, complex *-algebras and Banach–Lie algebras from the antisymmetry of the bracket plus uniqueness of solutions; for a bilinear bracket antisymmetry is self-conservation, {a, a} = 0. What carries content is the map from observables (a Jordan algebra) to generators (a Lie algebra): i in complex quantum mechanics, none in the real or quaternionic case, and Alfsen–Shultz's dynamical correspondence for JB-algebras. | Read |

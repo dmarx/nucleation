@@ -28,7 +28,7 @@ summary: >-
   proved in 1953. It is a qualitative order and says nothing about how much
   worse an incomparable experiment is.
 supports:
-- CLAIM-tmpek80j
+- CLAIM-050
 ---
 
 # THEORY-156: For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation

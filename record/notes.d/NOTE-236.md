@@ -38,7 +38,7 @@ summary: >-
   Z2-linear MBQC (Theorem 3) and of k-consistent games (Theorem 4).
 ---
 
-<!-- inactive-ok-file: THEORY-tmp8ly9g THEORY-tmpjdnxt THEORY-014 — Proposed; filed from or bearing on this reading -->
+<!-- inactive-ok-file: THEORY-165 THEORY-168 THEORY-014 — Proposed; filed from or bearing on this reading -->
 
 # NOTE-236: Abramsky, Barbosa & Mansfield, contextual fraction
 
@@ -169,21 +169,21 @@ alternatives whose relation to CF is left for later.
   this paper's. The reading confirms it: CF = 0 exactly when the
   global-section criterion holds, and the LP is the relaxation of
   [LIT-016](../literature.d/LIT-016.md)'s linear system. The inactive-ok directives citing [LIT-265](../literature.d/LIT-265.md) as
-  Deferred, in [THEORY-012](../theory.d/THEORY-012.md), [LIT-777](../literature.d/LIT-777.md), [NOTE-600](NOTE-600.md) and [CLAIM-tmpukbg3](../claims.d/CLAIM-tmpukbg3.md), are now
+  Deferred, in [THEORY-012](../theory.d/THEORY-012.md), [LIT-777](../literature.d/LIT-777.md), [NOTE-600](NOTE-600.md) and [CLAIM-105](../claims.d/CLAIM-105.md), are now
   stale.
 - **[THEORY-014](../theory.d/THEORY-014.md).** The negative-probability measure appears only in note
   33. The paper's measure is the nonnegative side of that theory's
   pattern, the largest nonnegative part, rather than the least negative
   completion. It adds no instance and does not contradict it.
-- **[THEORY-tmp8ly9g](../theory.d/THEORY-tmp8ly9g.md)** is filed from this reading. Its convexity is
+- **[THEORY-165](../theory.d/THEORY-165.md)** is filed from this reading. Its convexity is
   Theorem 2. Its piecewise linearity and Lipschitz continuity in v_e are
   the reader's derivation from LP (3)–(4): NCF(e) = min over the finitely
   many vertices y_k of the dual polyhedron of y_k·v_e.
-- **[THEORY-tmpjdnxt](../theory.d/THEORY-tmpjdnxt.md).** CF's non-increase under coarse-graining (C2)
+- **[THEORY-168](../theory.d/THEORY-168.md).** CF's non-increase under coarse-graining (C2)
   contrasts with Contextuality-by-Default, where coarse-graining a
-  non-binary system can create contextuality ([LIT-tmpsa1qj](../literature.d/LIT-tmpsa1qj.md), Example 3).
+  non-binary system can create contextuality ([LIT-831](../literature.d/LIT-831.md), Example 3).
   That theory states the contrast.
-- **The manuscript ([CLAIM-tmpukbg3](../claims.d/CLAIM-tmpukbg3.md), Δ_CF).** Three bearings, for the
+- **The manuscript ([CLAIM-105](../claims.d/CLAIM-105.md), Δ_CF).** Three bearings, for the
   coordinator:
   (1) Δ_CF is defined only when both models in a step have compatible
   marginals. A reconstruction that introduces context-dependent marginals
@@ -196,7 +196,7 @@ alternatives whose relation to CF is left for later.
   changed" in the decreasing direction and constrains the increasing one.
   (3) The claim's quoted premise that CF is "a discontinuous contextuality
   measure" is not borne out within a scenario. CF is continuous, indeed
-  Lipschitz, in the probability table ([THEORY-tmp8ly9g](../theory.d/THEORY-tmp8ly9g.md), the reader's
+  Lipschitz, in the probability table ([THEORY-165](../theory.d/THEORY-165.md), the reader's
   derivation). A drift bound on every context's distribution therefore
   bounds |Δ_CF| within a fixed scenario. What may jump is a change of
   scenario (cover), which is not a perturbation of the table.

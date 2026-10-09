@@ -65,8 +65,8 @@ extended_by:
 - THEORY-014
 - THEORY-015
 supports:
-- CLAIM-tmpaviuz
-- CLAIM-tmpbbjw4
+- CLAIM-037
+- CLAIM-038
 ---
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 

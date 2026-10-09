@@ -4,7 +4,7 @@
 
 **game-theory**.
 
-9 of 600 NOTE documents. Back to the [full index](../README.md).
+10 of 643 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [NOTE-443](../../../record/notes.d/NOTE-443.md) | Précis of Breakdown of Will | Hyperbolic discounting makes preference reverse with delay alone, so a person is a population of interests that forestall one another. Will is the recursive bundling of choices by treating each as a precedent, which gives an intertemporal repeated prisoner's dilemma and makes Kavka's toxin rational to drink. The same recursion predicts legalism, "lapse districts", motivated misperception and compulsive over-control, and premature satiation of appetite limits what will can do for emotional reward. | Read |
 | [NOTE-554](../../../record/notes.d/NOTE-554.md) | List — Three kinds of collective attitudes | Aggregate attitudes: a rule or market summarises members' attitudes; proposition-wise supervenience; no direct role; rationality contingent (majority beliefs on p, q, p∧q can be inconsistent, Table 1). Common attitudes: all hold, with common awareness; enriched proposition-wise supervenience; coordination; consistent by unanimity. Corporate attitudes: a group agent's; holistic supervenience, like non-reductive physicalism; action-guiding; rationality presupposed. Three lessons of near-independence; Table 2 summarises. | Read |
 | [NOTE-563](../../../record/notes.d/NOTE-563.md) | Beyond Markets and States: Polycentric Governance of Complex Economic Systems | Ostrom's retrospective. Polycentric arrangements, many formally independent decision centres, can outperform single hierarchies. Long-surviving common-pool resource institutions share eight design principles, not specific rules. In experiments communication and self-chosen sanctions sustain cooperation, and in the field local monitoring predicts outcomes. No single regime type is a panacea. | Read |
+| [NOTE-613](../../../record/notes.d/NOTE-613.md) | That's what she (could have) said | Recursive Bayesian speaker–listener reasoning yields specificity implicatures but cannot derive Horn's principle from utterance costs alone; letting the agents be uncertain about the lexicon breaks the symmetry, so costlier signals go to less likely meanings in one-shot games without equilibrium refinements, and two online games with novel symbols show people drawing both implicatures without prior conventions. | Read |

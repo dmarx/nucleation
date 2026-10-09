@@ -29,8 +29,8 @@ summary: >-
   with. The theorem covers diagonal observables only; it says nothing about
   symmetries that permute states.
 supports:
-- CLAIM-tmprn8pl
-- CLAIM-tmpuwwjx
+- CLAIM-094
+- CLAIM-107
 ---
 
 <!-- inactive-ok-file: THEORY-019 — Proposed; named as a parallel on commutants, with no relation claimed -->

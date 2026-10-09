@@ -21,7 +21,7 @@ summary: >-
   the record uses for what a causal claim asserts. This statement says
   nothing about invariance, proportionality or levels.
 supports:
-- ARG-tmpuhkwv
+- ARG-009
 ---
 <!-- inactive-ok-file: LIT-723 — Deferred, unread; Making Things Happen, named as the unread book -->
 <!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named as an application -->

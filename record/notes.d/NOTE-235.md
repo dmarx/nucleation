@@ -36,7 +36,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading is its source and bears on it without settling its promote_when -->
-<!-- inactive-ok-file: THEORY-tmp9wyar — Proposed; this reading is one of its sources -->
+<!-- inactive-ok-file: THEORY-166 — Proposed; this reading is one of its sources -->
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
 
 # NOTE-235: Dzhafarov, Zhang & Kujala, contextuality in behaviour
@@ -135,8 +135,8 @@ plenty of the first and, so far, none of the second.
 
 ## Connections
 
-The question-order data and model are Wang & Busemeyer's ([LIT-tmptn5dr](../literature.d/LIT-tmptn5dr.md))
-and Wang, Solloway, Shiffrin & Busemeyer's ([LIT-tmp56yt5](../literature.d/LIT-tmp56yt5.md)); the data were
+The question-order data and model are Wang & Busemeyer's ([LIT-834](../literature.d/LIT-834.md))
+and Wang, Solloway, Shiffrin & Busemeyer's ([LIT-795](../literature.d/LIT-795.md)); the data were
 supplied by the authors. The general theory is Contextuality-by-Default
 ([LIT-777](../literature.d/LIT-777.md) in this record, read 2026-10-09). The same criterion applied to
 physics is reviewed in [LIT-263](../literature.d/LIT-263.md).
@@ -151,7 +151,7 @@ physics is reviewed in [LIT-263](../literature.d/LIT-263.md).
   ΔC = 0.063. Its first promote_when condition, a close reading of the
   proof of the criterion, is not met by this reading: the proof is not in
   this paper.
-- **[THEORY-tmp9wyar](../theory.d/THEORY-tmp9wyar.md)** takes from this paper the re-derivation of the QQ
+- **[THEORY-166](../theory.d/THEORY-166.md)** takes from this paper the re-derivation of the QQ
   equality and its implication of noncontextuality.
 - **Corrections to the skim of 2026-09-27.** The skim said "72 of 73
   pairs fit the QQ equality". The paper says so, but by its own S1

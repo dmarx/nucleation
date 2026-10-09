@@ -2,7 +2,7 @@
 
 # Lines of work
 
-52 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+53 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -123,10 +123,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
   - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
 
-### From Compositional Visual Generation with Composable Diffusion Models
+### From T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation
 
+- [LIT-783](../record/literature.d/LIT-783.md) — T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation *(Active)*
+  - [LIT-798](../record/literature.d/LIT-798.md) — T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation *(Active)*
 - alongside: [LIT-770](../record/literature.d/LIT-770.md) — Compositional Visual Generation with Composable Diffusion Models *(Active)*
-- alongside: [LIT-783](../record/literature.d/LIT-783.md) — T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation *(Active)*
+- alongside: [LIT-806](../record/literature.d/LIT-806.md) — Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models *(Active)*
 
 ## behavioral-integration
 
@@ -244,10 +246,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
   - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
 
-### From Compositional Visual Generation with Composable Diffusion Models
+### From T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation
 
+- [LIT-783](../record/literature.d/LIT-783.md) — T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation *(Active)*
+  - [LIT-798](../record/literature.d/LIT-798.md) — T2I-CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text-to-Image Generation *(Active)*
 - alongside: [LIT-770](../record/literature.d/LIT-770.md) — Compositional Visual Generation with Composable Diffusion Models *(Active)*
-- alongside: [LIT-783](../record/literature.d/LIT-783.md) — T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation *(Active)*
+- alongside: [LIT-806](../record/literature.d/LIT-806.md) — Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models *(Active)*
 
 ## consciousness
 
@@ -284,6 +288,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-279](../record/literature.d/LIT-279.md) — On the Cohomology of Contextuality *(Active)*
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
+
+### From Context–content systems of random variables: The Contextuality-by-Default theory
+
+- [LIT-777](../record/literature.d/LIT-777.md) — Context–content systems of random variables: The Contextuality-by-Default theory *(Active)*
+  - [LIT-831](../record/literature.d/LIT-831.md) — Contextuality-by-Default 2.0: Systems with Binary Random Variables *(Active)*
+    - [LIT-790](../record/literature.d/LIT-790.md) — Contextuality in Canonical Systems of Random Variables *(Active)*
+  - [LIT-836](../record/literature.d/LIT-836.md) — Probabilistic Foundations of Contextuality *(Active)*
 
 ## design-rationale
 
@@ -505,6 +516,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
+
+### From Context–content systems of random variables: The Contextuality-by-Default theory
+
+- [LIT-777](../record/literature.d/LIT-777.md) — Context–content systems of random variables: The Contextuality-by-Default theory *(Active)*
+  - [LIT-831](../record/literature.d/LIT-831.md) — Contextuality-by-Default 2.0: Systems with Binary Random Variables *(Active)*
+    - [LIT-790](../record/literature.d/LIT-790.md) — Contextuality in Canonical Systems of Random Variables *(Active)*
+  - [LIT-836](../record/literature.d/LIT-836.md) — Probabilistic Foundations of Contextuality *(Active)*
 
 ## mereology
 
