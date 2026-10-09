@@ -33,7 +33,7 @@ history:
     Corrected: the formula for the trace under the counterexample was
     attributed to Schwab and Mehta's comment; the comment says only that
     the trace is non-constant, and the formula is this reading's. The
-    comment is now held as LIT-tmp8t5lj (NOTE-tmpgcp7r).
+    comment is now held as LIT-891 (NOTE-694).
 date: '2026-10-09'
 summary: >-
   Argues that cheap networks suffice because physical data have low-order,

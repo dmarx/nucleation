@@ -146,8 +146,10 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
 - [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
 
-### From Why does deep and cheap learning work so well?
+### From An exact mapping between the Variational Renormalization Group and Deep Learning
 
+- [LIT-882](../record/literature.d/LIT-882.md) — An exact mapping between the Variational Renormalization Group and Deep Learning *(Active)*
+  - [LIT-891](../record/literature.d/LIT-891.md) — Comment on "Why does deep and cheap learning work so well?" *(Active)* — also extends LIT-887
 - [LIT-887](../record/literature.d/LIT-887.md) — Why does deep and cheap learning work so well? *(Active)*
   - [LIT-890](../record/literature.d/LIT-890.md) — The power of deeper networks for expressing natural functions *(Active)*
 
@@ -515,11 +517,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-678](../record/literature.d/LIT-678.md) — Intermediate Layer Classifiers for OOD generalization *(Active)*
   - [LIT-657](../record/literature.d/LIT-657.md) — The Generalization Ridge: Information Flow in Natural Language Generation *(Active)*
-
-### From Why does deep and cheap learning work so well?
-
-- [LIT-887](../record/literature.d/LIT-887.md) — Why does deep and cheap learning work so well? *(Active)*
-  - [LIT-890](../record/literature.d/LIT-890.md) — The power of deeper networks for expressing natural functions *(Active)*
 
 ## linguistics
 

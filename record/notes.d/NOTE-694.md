@@ -1,6 +1,9 @@
 ---
+number: 694
 status: Read
-paper: 'LIT-tmp8t5lj'
+formerly:
+- NOTE-tmpgcp7r
+paper: 'LIT-891'
 title: 'Comment on "Why does deep and cheap learning work so well?"'
 version: 1
 history:
@@ -31,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-197 THEORY-202 THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this reading bears on and the question it does not answer -->
 
-# NOTE-tmpgcp7r: Comment on "Why does deep and cheap learning work so well?"
+# NOTE-694: Comment on "Why does deep and cheap learning work so well?"
 
 ## Contribution
 

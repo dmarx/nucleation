@@ -30,7 +30,7 @@ history:
 - version: 3
   date: '2026-10-09'
   note: >-
-    Schwab & Mehta's comment (LIT-tmp8t5lj, read in NOTE-tmpgcp7r) joins
+    Schwab & Mehta's comment (LIT-891, read in NOTE-694) joins
     the sources: the mapping's own authors put its content at the trace
     condition and withdraw Eq. 8's converse. The claim is unchanged.
 tags:
@@ -41,7 +41,7 @@ source:
 - LIT-882
 - LIT-873
 - LIT-887
-- LIT-tmp8t5lj
+- LIT-891
 summary: >-
   Mehta and Schwab (2014), [LIT-882](../literature.d/LIT-882.md), Eqs. 18–22: setting the RG
   kernel T = −E + H makes the RG coarse Hamiltonian equal the RBM's
