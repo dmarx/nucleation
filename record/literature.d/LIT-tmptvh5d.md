@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpfly41); worth reading as a measurement of where text-to-image models of 2023 fail at composition, and of how badly embedding similarity sees it: a COCO-trained detector plus masked-crop CLIP colour classification judges each image correct or not on presence, count, position and colour, agreeing with crowd annotators 83% of the time against 88% between annotators, and beating a per-task tuned CLIPScore on counting (by 22 points), position and attribute binding. The best open model (IF-XL) gets 0.61 overall but at most 0.15 on relative position and 0.35 on binding; scaling IF helps binding but not position, and continued training of Stable Diffusion v1 leaves scores flat.'
+status_note: 'read 2026-10-09 ([NOTE-tmpfly41](../notes.d/NOTE-tmpfly41.md)); worth reading as a measurement of where text-to-image models of 2023 fail at composition, and of how badly embedding similarity sees it: a COCO-trained detector plus masked-crop CLIP colour classification judges each image correct or not on presence, count, position and colour, agreeing with crowd annotators 83% of the time against 88% between annotators, and beating a per-task tuned CLIPScore on counting (by 22 points), position and attribute binding. The best open model (IF-XL) gets 0.61 overall but at most 0.15 on relative position and 0.35 on binding; scaling IF helps binding but not position, and continued training of Stable Diffusion v1 leaves scores flat.'
 title: 'GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment'
 version: 1
 history:
@@ -79,10 +79,10 @@ Datasets and Benchmarks* —
   masks with holes and merged same-class objects (Figure 4, Section 6).
 
 The record's reading of compositional generalization in vision models is
-LIT-667 (THEORY-117). GenEval measures compositional failure in
+[LIT-667](LIT-667.md) ([THEORY-117](../theory.d/THEORY-117.md)). GenEval measures compositional failure in
 generators without controlling what their training data covered, so it
-does not test that account (NOTE-tmpfly41). Its companion benchmark in the
-same NeurIPS track is T2I-CompBench (LIT-tmpvb4kp).
+does not test that account ([NOTE-tmpfly41](../notes.d/NOTE-tmpfly41.md)). Its companion benchmark in the
+same NeurIPS track is T2I-CompBench ([LIT-tmpvb4kp](LIT-tmpvb4kp.md)).
 
 ## Standing in the record
 

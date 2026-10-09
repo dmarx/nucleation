@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpf93nl), in the conference version (arXiv v2); worth reading as a map of which compositions text-to-image models of 2023 get wrong and which automatic judges can tell: 6,000 prompts in six sub-categories (colour, shape and texture binding; spatial and non-spatial relations; complex), with spatial relations hardest and interactions easiest by human rating. Asking a VQA model one question per object–attribute pair ranks images far more like humans than CLIPScore does (Kendall τ 0.63 against 0.19 on colour), and detector boxes do so for spatial relations; nothing beat CLIPScore on interactions. A reward-weighted finetuning baseline (GORS) is rated best by humans, but its binding score falls sharply on attribute–noun pairs absent from its finetuning prompts (BLIP-VQA 0.55 to 0.34 on shape, 0.76 to 0.36 on texture), a gap the paper calls slight.'
+status_note: 'read 2026-10-09 ([NOTE-tmpf93nl](../notes.d/NOTE-tmpf93nl.md)), in the conference version (arXiv v2); worth reading as a map of which compositions text-to-image models of 2023 get wrong and which automatic judges can tell: 6,000 prompts in six sub-categories (colour, shape and texture binding; spatial and non-spatial relations; complex), with spatial relations hardest and interactions easiest by human rating. Asking a VQA model one question per object–attribute pair ranks images far more like humans than CLIPScore does (Kendall τ 0.63 against 0.19 on colour), and detector boxes do so for spatial relations; nothing beat CLIPScore on interactions. A reward-weighted finetuning baseline (GORS) is rated best by humans, but its binding score falls sharply on attribute–noun pairs absent from its finetuning prompts (BLIP-VQA 0.55 to 0.34 on shape, 0.76 to 0.36 on texture), a gap the paper calls slight.'
 title: 'T2I-CompBench: A Comprehensive Benchmark for Open-world Compositional Text-to-image Generation'
 version: 1
 history:
@@ -89,13 +89,13 @@ T2I-CompBench++.
   and 0.76 to 0.36 (texture) (Table 12), which the text calls "slightly
   lower".
 
-The record's account of compositional generalization is THEORY-117
-(LIT-667), about classifiers trained on controlled concept grids. Table
+The record's account of compositional generalization is [THEORY-117](../theory.d/THEORY-117.md)
+([LIT-667](LIT-667.md)), about classifiers trained on controlled concept grids. Table
 12's gap points the same way but does not test it: the unseen pairs are
 also rarer, and no model is reported on the split before finetuning
-(NOTE-tmpf93nl). Its companion benchmark in the same track is GenEval
-(LIT-tmptvh5d). Among its baselines is Composable Diffusion
-(LIT-tmpdztrs), re-implemented on SD v2, which does worst on most
+([NOTE-tmpf93nl](../notes.d/NOTE-tmpf93nl.md)). Its companion benchmark in the same track is GenEval
+([LIT-tmptvh5d](LIT-tmptvh5d.md)). Among its baselines is Composable Diffusion
+([LIT-tmpdztrs](LIT-tmpdztrs.md)), re-implemented on SD v2, which does worst on most
 categories.
 
 ## Standing in the record

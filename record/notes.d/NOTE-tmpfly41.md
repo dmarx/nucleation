@@ -153,7 +153,7 @@ average over images; the overall score averages the six tasks.
 - **TIFA (Hu et al.)**, concurrent, uses an LLM to generate questions and a
   VQA model to answer them; the authors argue detector outputs are easier
   to inspect.
-- **T2I-CompBench** (LIT-tmpvb4kp, NOTE-tmpf93nl) appeared in the same
+- **T2I-CompBench** ([LIT-tmpvb4kp](../literature.d/LIT-tmpvb4kp.md), [NOTE-tmpf93nl](NOTE-tmpf93nl.md)) appeared in the same
   NeurIPS 2023 track with an overlapping aim. It uses free-form and
   ChatGPT-written prompts and a different metric per category, where
   GenEval uses templates and one pipeline. Neither cites the other.
@@ -161,7 +161,7 @@ average over images; the overall score averages the six tasks.
 ## Bearing on the record
 
 - **No THEORY supported or contradicted.** The record's account of
-  compositional generalization, THEORY-117 (from LIT-667), concerns
+  compositional generalization, [THEORY-117](../theory.d/THEORY-117.md) (from [LIT-667](../literature.d/LIT-667.md)), concerns
   classifiers trained from scratch on two-concept grids with controlled
   coverage. GenEval measures compositional failures in large generators
   without controlling what their training data covered, so it does not
@@ -169,7 +169,7 @@ average over images; the overall score averages the six tasks.
   training of SD v1 on more LAION data left the scores flat (Figure 5),
   and Stable Diffusion rendered "a white dog and a blue potted plant",
   which CLIP retrieval could not find in LAION (A.3). Neither isolates
-  combinatorial coverage, and I did not add them to THEORY-117.
+  combinatorial coverage, and I did not add them to [THEORY-117](../theory.d/THEORY-117.md).
 - **THEORY candidate (not filed, anthology material).** "Holistic
   image–text embedding similarity does not track human judgement of
   counting, relative position or attribute binding, where checks on

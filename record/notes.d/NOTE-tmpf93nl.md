@@ -152,7 +152,7 @@ CLIPScore, BLIP-VQA and UniDet.
 
 ## Connections
 
-- **Composable Diffusion** (Liu et al., LIT-tmpdztrs) is one of the
+- **Composable Diffusion** (Liu et al., [LIT-tmpdztrs](../literature.d/LIT-tmpdztrs.md)) is one of the
   re-implemented baselines; here it does worst, which the authors relate
   to its mixing subjects and to its design for conjunction and negation
   rather than binding or relations.
@@ -161,7 +161,7 @@ CLIPScore, BLIP-VQA and UniDet.
   Feng et al., supply part of the colour prompts.
 - **RAFT (Dong et al.)**, concurrent, finetunes on reward-ranked samples
   over several rounds; GORS uses one round of selection.
-- **GenEval** (LIT-tmptvh5d, NOTE-tmpfly41), in the same NeurIPS 2023
+- **GenEval** ([LIT-tmptvh5d](../literature.d/LIT-tmptvh5d.md), [NOTE-tmpfly41](NOTE-tmpfly41.md)), in the same NeurIPS 2023
   track, has the same aim with templated prompts over COCO classes and one
   detector-based pipeline; neither paper cites the other. Both find
   spatial relations hardest and CLIPScore weakest on composition.
@@ -171,18 +171,18 @@ CLIPScore, BLIP-VQA and UniDet.
 
 ## Bearing on the record
 
-- **THEORY-117 (from LIT-667).** Table 12 is the nearest thing in these
+- **[THEORY-117](../theory.d/THEORY-117.md) (from [LIT-667](../literature.d/LIT-667.md)).** Table 12 is the nearest thing in these
   readings to a coverage test: after finetuning, binding is judged much
   better on adjective–noun pairs that occurred in the finetuning prompts
   than on pairs that did not, by 0.18–0.40 in BLIP-VQA. The direction is
-  the one THEORY-117 would lead one to expect, but it does not test that
+  the one [THEORY-117](../theory.d/THEORY-117.md) would lead one to expect, but it does not test that
   account. "Unseen" means unseen in 700 finetuning prompts, not in
   pretraining; the unseen pairs are also rarer combinations by the
   authors' own description; and no baseline model is reported on the
   split, so the gap cannot be laid to finetuning. I did not add it to
-  THEORY-117.
+  [THEORY-117](../theory.d/THEORY-117.md).
 - **THEORY candidate (not filed, anthology material)**, shared with
-  NOTE-tmpfly41: holistic image–text embedding similarity does not track
+  [NOTE-tmpfly41](NOTE-tmpfly41.md): holistic image–text embedding similarity does not track
   human judgement of composition, where decomposed checks do. Table 5
   here and GenEval's Figure 3 both support it. It is a claim about
   evaluating machine-learning models, which an anthology topic can hold.
