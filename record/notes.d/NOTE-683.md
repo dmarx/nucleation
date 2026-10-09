@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp7l8yg
 paper: 'LIT-882'
 title: 'An exact mapping between the Variational Renormalization Group and Deep Learning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -23,6 +23,13 @@ history:
     Ringel (LIT-873, arXiv v2: main text p. 4 and the supplement's
     "Comparison with contrastive divergence trained RBMs", pp. 17–18)
     were re-read from the copy read for NOTE-674.
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Corrected: the free-energy point under Limitations was called "not in
+    either paper". Lin, Tegmark & Rolnick's v2 appendix (LIT-tmpmjd1d,
+    read in NOTE-tmp0n4ni) makes it in substance, and the authors conceded
+    Eq. 8's "iff" as a typo in arXiv 1609.03541.
 date: '2026-10-09'
 summary: >-
   Identifies Kadanoff's variational RG kernel with an RBM energy by
@@ -197,7 +204,8 @@ approximation schemes".
   changes which variables are kept, and an objective (mutual information
   with the environment beyond a buffer) that keeps the right ones.
 - **The point is sharper than either paper says.** By my derivation from
-  Eqs. 4, 6, 7 and 18 (not in either paper): under the identification,
+  Eqs. 4, 6, 7 and 18 (reached independently; Lin, Tegmark and Rolnick's v2
+  appendix, [LIT-tmpmjd1d](../literature.d/LIT-tmpmjd1d.md), makes the same point in substance): under the identification,
   F^h_λ = −log Z_λ, so ΔF = log Z − log Z_λ. Variational RG's own
   criterion, ΔF, then measures only the RBM's normalization; it vanishes
   for any λ once E is shifted by a constant, and carries no information

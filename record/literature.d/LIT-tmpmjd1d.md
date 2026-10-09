@@ -1,0 +1,157 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp0n4ni](../notes.d/NOTE-tmp0n4ni.md)); worth reading as the third position in the dispute over whether deep learning performs renormalization, and for two results that stand on their own. On the dispute it holds that RG is "essentially a feature extractor for supervised learning": a coarse-graining is a renormalization only once the variables to keep are specified, and fitting the data distribution does not specify them. That holds, and it agrees with what [LIT-882](LIT-882.md) concedes and [LIT-873](LIT-873.md) shows; its sharper form was in an appendix of arXiv v1 and v2 only, dropped from v3 on and from the journal text, showing that a matched partition function does not give a matched distribution and (v2) that the exact trace condition is met by hidden variables that do not interact with the system at all. Its conclusion that RG has "little to do" with unsupervised learning is too strong: [LIT-873](LIT-873.md) gets the relevant variables without labels, from the far environment. On its own merits: a two-variable product needs four neurons and an n-variable product needs exactly 2^n in one hidden layer against about 4n in a deep tree (proved, in a Taylor-matching sense, with weights that grow without bound); the minimal sufficient statistics of a Markov generative hierarchy compose level by level (proved, and nearly immediate); that physics favours low-order, local, symmetric Hamiltonians, and that this is why cheap networks work, is argued, not shown.'
+title: 'Why does deep and cheap learning work so well?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 as one of the works cited
+    by the batch on hierarchy and hyperbolic geometry (nucleation#113 and
+    #114) that neither record held; the citing work is Mehta and Schwab
+    (LIT-882), whose reading named it as the third position in its
+    dispute with Koch-Janusz and Ringel (LIT-873). Read in full the same
+    day (NOTE-tmp0n4ni) from the arXiv PDF of v4, which the authors
+    replaced "to match version published in Journal of Statistical
+    Physics" (16 pp.), with the renormalization sections and appendices
+    of v1, v2 and v3 compared, and Schwab and Mehta's comment on v1
+    (arXiv:1609.03541) read. Checked against the arXiv abstract page and
+    API record (arXiv:1608.08225 [cond-mat.dis-nn], cross-listed cs.LG,
+    cs.NE, stat.ML; v1 submitted 29 August 2016 by Henry W. Lin and Max
+    Tegmark, v2 28 September 2016, v3 2 May 2017 adding David Rolnick,
+    v4 3 August 2017; related DOI 10.1007/s10955-017-1836-5) and Crossref
+    for that DOI ("Why Does Deep and Cheap Learning Work So Well?",
+    Journal of Statistical Physics 168(6):1223–1247; Henry W. Lin, Max
+    Tegmark, David Rolnick; published online 21 July 2017, print
+    September 2017). `published:` is the arXiv v1 date, 29 August 2016,
+    the earliest any source gives (ADR-002). Not held in nucleation
+    before this filing: a grep of record/ for the identifier, the DOI and
+    the title found only the mentions in LIT-882's Standing section and
+    NOTE-683. Not held in the Anthology of the SOTA as far as its clone
+    shows: a grep of its record/ (clone at commit d8b5ba5, 9 October
+    2026, possibly stale) for the identifier, the DOI, the title,
+    "Rolnick" and "no-flattening" found nothing; its Tegmark hits are
+    other papers (Lin and Tegmark on criticality in formal languages,
+    named in curation entries; Liu, Michaud and Tegmark, ANTH-LIT-540).
+    Its `analysis-and-evaluation` topic, which takes theory of deep
+    learning, could hold it, hence `anthology-candidate`.
+tags:
+- learning-theory
+- natural-sciences
+- representation-learning
+- anthology-candidate
+date: '2026-10-09'
+published: '2016-08-29'
+arxiv: '1608.08225'
+doi: '10.1007/s10955-017-1836-5'
+first_author: 'Lin'
+keywords:
+- 'deep learning'
+- 'cheap learning'
+- 'expressibility'
+- 'efficiency'
+- 'renormalization group'
+- 'sufficient statistics'
+- 'hierarchical generative processes'
+- 'no-flattening theorems'
+- 'symmetry'
+- 'locality'
+- 'polynomial Hamiltonians'
+implementations: []
+summary: >-
+  Lin, Tegmark and Rolnick (2016; Journal of Statistical Physics 168,
+  1223–1247, 2017). Argues that networks are cheap because physical data
+  have low-order, local, symmetric Hamiltonians, and deep because data come
+  from Markov generative hierarchies whose minimal sufficient statistics
+  compose. Proves that a single hidden layer needs exactly 2^n neurons to
+  multiply n inputs, against about 4n in a deep tree, and gives linear
+  no-flattening examples. Holds that RG is supervised feature extraction,
+  not unsupervised learning; arXiv v1–v2 carried a counterexample against
+  [LIT-882](LIT-882.md) that hit a typo in its Eq. 8, and was dropped later.
+---
+<!-- inactive-ok-file: THEORY-tmp5vljo THEORY-197 THEORY-194 THEORY-201 QUESTION-025 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question it bears on -->
+
+# LIT-tmpmjd1d: Why does deep and cheap learning work so well?
+
+Henry W. Lin, Max Tegmark and David Rolnick (2016), *Journal of Statistical
+Physics* 168(6):1223–1247 (2017) — [ARXIV-1608.08225](https://arxiv.org/abs/1608.08225), DOI-10.1007/s10955-017-1836-5
+
+## Key takeaways
+
+- **Cheap: a product costs four neurons.** With any smooth σ having
+  σ''(0) ≠ 0, [σ(u+v) + σ(−u−v) − σ(u−v) − σ(−u+v)]/4σ''(0) = uv(1 + O(u² +
+  v²)); scaling inputs down by λ and the output up by λ² makes it exact as
+  λ → ∞. So any polynomial is approximated to any accuracy by a network
+  whose neuron count is fixed by the polynomial, though not its weights.
+  For bits, a product of k bits is one sigmoid unit with a large gain.
+- **Why physics should make this enough** (argued, not shown): physical
+  Hamiltonians are polynomials of degree 2 to 4, local, and symmetric, and
+  Gaussians and maximum-entropy distributions give low-order log
+  probabilities. The authors concede that marginalizing or transforming
+  such variables destroys these properties, and that weights of a trained
+  network are no guide to whether the true Hamiltonian is simple.
+- **Deep: inference mirrors a Markov generative hierarchy.** For a chain
+  y₀ → y₁ → … → yₙ = x, the minimal sufficient statistic of P(yᵢ | x) is a
+  function of that of P(yᵢ₊₁ | x), so P(y₀ | x) is a composition
+  f₀ ∘ f₁ ∘ … ∘ fₙ(x) (Theorem 2 and Corollary 2). That each fᵢ is cheap,
+  and that the composition cannot be cheaply flattened, is argued from
+  examples, not proved for the composition.
+- **No-flattening.** One hidden layer needs exactly 2^n neurons to
+  multiply n inputs, where a deep binary tree of four-neuron gates needs
+  about 4n (Appendix A; "approximate" means matching Taylor coefficients to
+  degree n). For linear networks counted by nonzero weights: the FFT
+  (O(n log n) against n²), fast matrix multiplication (a flattening cost of
+  at least n^0.627), rank-k maps (n/2k) and products of random sparse
+  matrices (up to 1/2p).
+- **Renormalization is feature extraction for a stated target.** A
+  coarse-graining keeps "relevant operators" only relative to what one
+  wants to predict, usually long-wavelength quantities; RG "only makes
+  sense if we specify what features we are interested in". A Gaussian
+  field toy (Eqs. 23–24) shows block averaging scaling the coefficient of
+  the 2i-th derivative term by b^(2−2i). The journal text calls whether a
+  procedure counts as renormalization "ultimately a matter of semantics".
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works cited by
+the batch on hierarchy and hyperbolic geometry (nucleation#113 and [#114](https://github.com/dmarx/nucleation/issues/114),
+[LIT-865](LIT-865.md) to [LIT-877](LIT-877.md)) that neither record held. The work in the batch that
+cites it is Mehta and Schwab's mapping ([LIT-882](LIT-882.md)), whose reading
+([NOTE-683](../notes.d/NOTE-683.md)) named it as the third side of the triangle Koch-Janusz and
+Ringel ([LIT-873](LIT-873.md)) draw; [LIT-873](LIT-873.md) cites it too. Read on its own merits
+([NOTE-tmp0n4ni](../notes.d/NOTE-tmp0n4ni.md)), with the dispute assessed there on all three texts and
+on Schwab and Mehta's published comment on v1.
+
+**On the dispute, in short.** The journal version does not engage
+[LIT-882](LIT-882.md)'s identity; it cites it once and speaks of uncited
+"misconceptions". The arXiv v1 and v2 appendix did engage it, with a
+counterexample that refutes the "if and only if" of [LIT-882](LIT-882.md)'s Eq. 8,
+which Schwab and Mehta then called a typo, and with the sharper point that
+even their stricter trace condition is satisfied by hidden variables that
+never interact with the system. That point holds and produces
+[THEORY-tmp5vljo](../theory.d/THEORY-tmp5vljo.md); it extends [THEORY-197](../theory.d/THEORY-197.md), which says the correspondence has
+content only at the exact point, by showing the exact point does not
+select a coarse-graining either. The paper's thesis that RG needs a
+specified target agrees with [THEORY-194](../theory.d/THEORY-194.md). Its conclusion that RG is
+supervised rather than unsupervised does not survive [LIT-873](LIT-873.md), whose
+target is the far environment, taken from the data's spatial structure
+rather than from labels. [LIT-873](LIT-873.md)'s and [LIT-882](LIT-882.md)'s readings describe it as
+denying any link between RG and deep learning; it denies a link to
+unsupervised distribution fitting and asserts one to supervised feature
+extraction and to depth.
+
+**On [QUESTION-025](../questions.d/QUESTION-025.md).** It bears only indirectly. Its hierarchy is a causal
+chain of generative steps, not attributes that imply one another, and
+there is no co-occurrence statistic or lattice. What it supplies is the
+general reason a top-level variable of a generative hierarchy is reached by
+composing level-wise statistics, not read off the data in one step, which
+fits Cagnetta and Wyart's observation ([LIT-883](LIT-883.md), [THEORY-201](../theory.d/THEORY-201.md)) that a parent
+is not a linear feature of its input tuple until after a nonlinear layer;
+and its binary result that a conjunction of k bits is one threshold unit,
+which puts no bar on an attribute lattice's meets being linear.
+
+Its sequel by two of the authors, Rolnick and Tegmark's *The power of
+deeper networks for expressing natural functions* (arXiv:1705.05502), is
+not held. Neither is Schwab and Mehta's comment (arXiv:1609.03541), read
+for this filing.

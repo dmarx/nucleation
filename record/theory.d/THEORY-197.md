@@ -17,7 +17,16 @@ promote_when: >-
   exact point. Further pictures of block-like receptive fields cannot
   settle it either way.
 title: 'Mehta and Schwab''s correspondence between Kadanoff''s variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Corrected: the free-energy point was called the reader's alone. Lin,
+    Tegmark & Rolnick's v2 appendix (LIT-tmpmjd1d, read in NOTE-tmp0n4ni)
+    makes it in substance, and Mehta & Schwab conceded Eq. 8's "iff" as a
+    typo in their comment (arXiv 1609.03541). LIT-tmpmjd1d joins the
+    sources. The claim is unchanged.
 tags:
 - natural-sciences
 - representation-learning
@@ -25,6 +34,7 @@ date: '2026-10-09'
 source:
 - LIT-882
 - LIT-873
+- LIT-tmpmjd1d
 summary: >-
   Mehta and Schwab (2014), [LIT-882](../literature.d/LIT-882.md), Eqs. 18–22: setting the RG
   kernel T = −E + H makes the RG coarse Hamiltonian equal the RBM's
@@ -32,8 +42,9 @@ summary: >-
   exactness condition equal to zero KL divergence. Short of exactness the
   paper itself says the two use different variational schemes, and
   Koch-Janusz and Ringel ([LIT-873](../literature.d/LIT-873.md)) give a case where distribution fitting
-  keeps the wrong variables. The free-energy part of the argument is the
-  reader's derivation, not either paper's.
+  keeps the wrong variables. The free-energy part of the argument was
+  derived independently here; Lin, Tegmark and Rolnick's v2 appendix makes
+  it in substance (LIT-tmpmjd1d).
 ---
 <!-- inactive-ok-file: THEORY-194 — Proposed; cited as the empirical counterpart from LIT-873 -->
 
@@ -68,7 +79,10 @@ Eqs. 4, 6, 7 and 18, in [NOTE-683](../notes.d/NOTE-683.md)): F^h = −log Z_λ, 
 parameters. The criterion variational RG minimizes therefore measures only
 normalization once the kernel is the RBM's, and the paper's Eq. 8, which
 equates ΔF = 0 with the pointwise exactness condition, is too strong:
-ΔF = 0 says only that the condition holds on average under the data.
+ΔF = 0 says only that the condition holds on average under the data. Mehta
+and Schwab conceded the "⟺" as a typo in their comment on Lin and Tegmark
+(arXiv 1609.03541), and Lin and Tegmark's v2 appendix makes the
+normalization point in substance ([LIT-tmpmjd1d](../literature.d/LIT-tmpmjd1d.md), [NOTE-tmp0n4ni](../notes.d/NOTE-tmp0n4ni.md)).
 
 **The counterexample.** [LIT-873](../literature.d/LIT-873.md) trains an RBM by contrastive divergence
 on fully packed dimers with added decoupled spin pairs; it spends its

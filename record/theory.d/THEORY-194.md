@@ -16,7 +16,7 @@ promote_when: >-
   rediscoveries of block spins or of other variables already known cannot
   settle it, because the account was shown on exactly those.
 title: 'For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-09'
@@ -30,6 +30,17 @@ history:
     interacting dimer model across a BKT transition, with operators already
     known from field theory. Neither meets promote_when. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-09'
+  note: >-
+    Two further sources: Gordon, Banerjee, Koch-Janusz & Ringel 2021
+    (LIT-tmp6shyv, read in NOTE-tmpbm8lu), which proves that near the
+    first information-bottleneck transition the optimal encoder of a slab
+    follows the leading transfer-matrix mode, the relevant operator at
+    criticality, though not for a block in a buffer shell nor for the RSMI
+    optimum; and Gökmen et al. 2021 (LIT-tmpz9jtw, read in NOTE-tmpu0mur),
+    the 2D Ising results and the ensemble of optimal filters. Neither meets
+    promote_when. The claim is unchanged.
 tags:
 - natural-sciences
 - information-theory
@@ -39,6 +50,8 @@ source:
 - LIT-873
 - LIT-881
 - LIT-878
+- LIT-tmp6shyv
+- LIT-tmpz9jtw
 summary: >-
   Koch-Janusz and Ringel (2017), [LIT-873](../literature.d/LIT-873.md): shown numerically on two
   2D lattice models whose relevant variables were known (Ising block
