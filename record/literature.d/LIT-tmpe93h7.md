@@ -1,13 +1,18 @@
 ---
-status: Deferred
-status_note: 'registered 2026-10-09 from Crossref, not read: only the abstract was seen. Filed from the reference list of the owner''s working manuscript. It stays Deferred until somebody reads it, not on merit.'
+status: Active
+status_note: 'skimmed 2026-10-09 ([NOTE-tmppvy0t](../notes.d/NOTE-tmppvy0t.md)): every section of the main text was covered, but through a fetch tool''s section-by-section account of the PubMed Central page, not a verbatim copy, and the SI was not reached; worth reading as the laboratory demonstration of iterated learning: four chains of ten adults, each learning a 27-item artificial language from 14 items and passing on its test output, made the languages steadily easier to learn and more structured while believing they were copying. Unfiltered, the languages collapsed to 2–5 words that systematically underspecified meaning (colour lost in every chain); with homonyms filtered out of training, they became compositional. Consistent with [THEORY-tmp0w0cu](../theory.d/THEORY-tmp0w0cu.md), not a test of it: no prior was measured, and the filter is a selection the theory excludes.'
 title: 'Cumulative cultural evolution in the laboratory: An experimental approach to the origins of structure in human language'
 version: 1
 history:
 - version: 1
   date: '2026-10-09'
   note: >-
-    Registered, not read. Details checked against Crossref (PNAS
+    Skimmed, not read first-hand: the PubMed Central full text
+    (PMC2504810) was covered section by section through a fetch tool,
+    since PMC served curl a reCAPTCHA page and PNAS and the Edinburgh
+    repository copy returned 403; the SI was not reached. See
+    NOTE-tmppvy0t. A 2017 correction (PNAS 114(12):E2544) fixes SI Table
+    S7 only. Details checked against Crossref (PNAS
     105(31):10681–10686, 5 August 2008). The manuscript cites the short
     title; the subtitle is Crossref's. `published:` is that date. Not
     held in the Anthology of the SOTA: a grep of its record/ (clone of
@@ -15,6 +20,7 @@ history:
     title found nothing.
 tags:
 - linguistics
+- compositionality
 - social-science
 - cognition
 date: '2026-10-09'
@@ -32,8 +38,14 @@ summary: >-
   Kirby, Cornish & Smith (2008), PNAS 105(31):10681–10686. Artificial
   languages passed down chains of human learners become easier to learn
   and more structured, without any learner intending it: cultural
-  transmission produces design without a designer. Unread.
+  transmission produces design without a designer. Without a pressure
+  against ambiguity the languages collapse into a few words for classes of
+  meanings; with homonyms filtered from training they become
+  compositional. Skimmed in [NOTE-tmppvy0t](../notes.d/NOTE-tmppvy0t.md).
 ---
+
+<!-- inactive-ok-file: LIT-tmp9f0fn — Deferred, no lawful full text; named as the ancestor of the method, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp0w0cu — Proposed; named as the account this work is consistent with but does not test -->
 
 # LIT-tmpe93h7: Cumulative cultural evolution in the laboratory: An experimental approach to the origins of structure in human language
 
@@ -42,14 +54,36 @@ Simon Kirby, Hannah Cornish and Kenny Smith (2008), *PNAS* 105(31):10681–10686
 
 ## Key takeaways
 
-*Registered, not read.* From the abstract only: the paper introduces an
-experimental paradigm, iterated learning of artificial languages by human
-participants. Languages transmitted this way evolve to maximise their own
-transmissibility, becoming easier to learn and increasingly structured, purely
-as a consequence of transmission and without intentional design by any
-learner. It is offered as the first experimental validation that cultural
-transmission can produce the appearance of design without a designer.
-[LIT-tmpdbgz6](LIT-tmpdbgz6.md) is the Bayesian analysis of the same process.
+- **Design.** Diffusion chains: 27 pictures (three shapes × three colours
+  × three motions), each labelled by a written string; each adult saw 14
+  string–picture pairs, was tested on all 27, and that output, re-split at
+  random, trained the next. Four chains of ten generations per experiment,
+  80 participants in all, starting from random 2–4-syllable labels.
+  Participants were told to reproduce the language, not that they were in
+  a chain.
+- **Experiment 1: learnable by underspecification.** Transmission error
+  (normalized edit distance to the previous generation) fell and
+  structure (correlation of string distance with meaning distance, as a
+  Monte Carlo z-score) rose. Distinct words fell from 27 to 2, 4, 5 and 4.
+  The ambiguity was systematic, one word for a class of similar meanings,
+  so a learner could rebuild the whole from a fragment. Colour
+  distinctions were lost in all four chains; shape and motion survived.
+- **Experiment 2: compositional under a filter.** When strings labelling
+  more than one picture were cut to one before training, as an analogue
+  of a pressure to be expressive, error still fell and structure still
+  rose, words stayed between 10 and 27, and the strings came to split into
+  morphemes for colour, shape and motion, with irregular items.
+- **Claim.** The adaptation is cumulative in learnability and structure,
+  not in expressivity, and is offered as the first experimental
+  validation that cultural transmission yields the appearance of design
+  without a designer.
+
+The paper names Bartlett ([LIT-tmp9f0fn](LIT-tmp9f0fn.md)) as the first user of the
+diffusion-chain method. It cites Griffiths & Kalish ([LIT-tmpdbgz6](LIT-tmpdbgz6.md), read in
+[NOTE-tmpvzd8x](../notes.d/NOTE-tmpvzd8x.md)) only in a block of model references and does not use priors;
+read against that analysis, the lost colour distinctions look like a
+learner bias surfacing through transmission, and the Experiment 2 filter is
+a selection pressure that the analysis assumes away.
 
 ## Standing in the record
 

@@ -38,6 +38,8 @@ summary: >-
   scenes more complex than any seen in training and binding attributes
   that a single text-conditioned model confuses. Read: strong on object
   positions in CLEVR, weak on relations, qualitative on text models.
+compared_against:
+- LIT-tmpvb4kp
 ---
 
 # LIT-tmpdztrs: Compositional Visual Generation with Composable Diffusion Models
