@@ -70,7 +70,7 @@ which it says has interpretations through pointwise risks, maximum risks,
 performance functions, Bayes risk and randomizations. The opening of the
 chapter on deficiencies calls deficiency "the single most important
 concept in this work". [LIT-tmpsujnn](LIT-tmpsujnn.md) is the 1953 paper it extends,
-read as NOTE-tmpou4pq.
+read as [NOTE-tmpou4pq](../notes.d/NOTE-tmpou4pq.md).
 
 ## Standing in the record
 

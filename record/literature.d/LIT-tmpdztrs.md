@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpq1itu); worth reading as the paper that moved compositional energy-based generation onto diffusion models: reading a diffusion model''s noise prediction as an energy gradient, concepts are composed at sampling time by adding one classifier-free-guidance term per concept (AND) or subtracting a concept''s prediction (NOT), with no retraining. The product-of-experts reading is exact only for conditionally independent concepts, unit weights and a conservative score, and is derived at zero noise but applied at every noise level. It wins clearly on composing CLEVR object positions (31.36% against an EBM''s 7.34% at three objects), not on relations (2.80% against 4.26%), and is shown on GLIDE and Stable Diffusion only qualitatively.'
+status_note: 'read 2026-10-09 ([NOTE-tmpq1itu](../notes.d/NOTE-tmpq1itu.md)); worth reading as the paper that moved compositional energy-based generation onto diffusion models: reading a diffusion model''s noise prediction as an energy gradient, concepts are composed at sampling time by adding one classifier-free-guidance term per concept (AND) or subtracting a concept''s prediction (NOT), with no retraining. The product-of-experts reading is exact only for conditionally independent concepts, unit weights and a conservative score, and is derived at zero noise but applied at every noise level. It wins clearly on composing CLEVR object positions (31.36% against an EBM''s 7.34% at three objects), not on relations (2.80% against 4.26%), and is shown on GLIDE and Stable Diffusion only qualitatively.'
 title: 'Compositional Visual Generation with Composable Diffusion Models'
 version: 1
 history:
@@ -72,8 +72,8 @@ Nan Liu, Shuang Li, Yilun Du, Antonio Torralba and Joshua B. Tenenbaum (2022),
   two objects into one hybrid when objects are centred.
 
 The record's reading of compositional generalization in recognition is
-LIT-667 and THEORY-117; the reading of this paper sets the two side
-by side (NOTE-tmpq1itu).
+[LIT-667](LIT-667.md) and [THEORY-117](../theory.d/THEORY-117.md); the reading of this paper sets the two side
+by side ([NOTE-tmpq1itu](../notes.d/NOTE-tmpq1itu.md)).
 
 ## Standing in the record
 

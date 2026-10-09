@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-09 (NOTE-tmpou4pq); worth reading as the paper in which the comparison of experiments is settled in general: for experiments with finitely many states, being at least as informative in every decision problem (Bohnenblust, Shapley and Sherman''s order) and being able to reproduce the other by a stochastic transformation (Blackwell''s 1951 sufficiency, later called garbling) are the same order. The finite-outcome converse is Sherman and Stein''s, re-proved here by a minimax argument; the extension to arbitrary outcome spaces, by martingale convergence, is new. It adds comparison by k-action problems, and shows that for two states testing problems, and so the type I/type II error curves, decide the order.'
+status_note: 'read 2026-10-09 ([NOTE-tmpou4pq](../notes.d/NOTE-tmpou4pq.md)); worth reading as the paper in which the comparison of experiments is settled in general: for experiments with finitely many states, being at least as informative in every decision problem (Bohnenblust, Shapley and Sherman''s order) and being able to reproduce the other by a stochastic transformation (Blackwell''s 1951 sufficiency, later called garbling) are the same order. The finite-outcome converse is Sherman and Stein''s, re-proved here by a minimax argument; the extension to arbitrary outcome spaces, by martingale convergence, is new. It adds comparison by k-action problems, and shows that for two states testing problems, and so the type I/type II error curves, decide the order.'
 title: 'Equivalent Comparisons of Experiments'
 version: 1
 history:
@@ -80,7 +80,7 @@ Filed on 2026-10-09 at the owner's request, as one of the works in the
 reference list of the owner's working manuscript (October 2026) that the
 record did not yet hold. See the curation entry of that day.
 
-Read on 2026-10-09 (NOTE-tmpou4pq). The reading is the source of
-THEORY-tmpl07kz, the record's statement of the equivalence and its scope.
+Read on 2026-10-09 ([NOTE-tmpou4pq](../notes.d/NOTE-tmpou4pq.md)). The reading is the source of
+[THEORY-tmpl07kz](../theory.d/THEORY-tmpl07kz.md), the record's statement of the equivalence and its scope.
 The book-length treatment, with Le Cam's deficiency as the quantitative
-version, is LIT-tmpoo2k7.
+version, is [LIT-tmpoo2k7](LIT-tmpoo2k7.md).

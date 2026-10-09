@@ -150,7 +150,7 @@ Salimans' classifier-free guidance. Baselines are StyleGAN2(-ADA), LACE
 
 ## Bearing on the record
 
-- **LIT-667 and THEORY-117.** The record's account of compositional
+- **[LIT-667](../literature.d/LIT-667.md) and [THEORY-117](../theory.d/THEORY-117.md).** The record's account of compositional
   generalization is about recognition: unseen pairs are reached when a
   learned representation is linearly factored, a pair's vector the sum of
   per-concept vectors. This paper reaches unseen combinations in
@@ -158,12 +158,12 @@ Salimans' classifier-free guidance. Baselines are StyleGAN2(-ADA), LACE
   of per-concept log-likelihood-ratio gradients. Neither needs the
   combination to have been seen, and both depend on an independence or
   additivity assumption holding. The paper measures nothing about learned
-  representations, so it neither supports nor contradicts THEORY-117. The
+  representations, so it neither supports nor contradicts [THEORY-117](../theory.d/THEORY-117.md). The
   parallel is my connection, not the paper's.
-- **LIT-058.** The denoising-score identity that lets a noise predictor
+- **[LIT-058](../literature.d/LIT-058.md).** The denoising-score identity that lets a noise predictor
   stand in for an energy gradient sits beside the I–MMSE relation read
   there; neither paper cites the other.
-- **Siblings.** GenEval (LIT-tmptvh5d) and T2I-CompBench (LIT-tmpvb4kp)
+- **Siblings.** GenEval ([LIT-tmptvh5d](../literature.d/LIT-tmptvh5d.md)) and T2I-CompBench ([LIT-tmpvb4kp](../literature.d/LIT-tmpvb4kp.md))
   measure the attribute-binding and multi-object failures that this paper
   addresses; its own evaluation of text composition is qualitative.
 - **THEORY candidate (not filed):** "Adding per-concept classifier-free

@@ -171,7 +171,7 @@ Shapley (1950); the martingale tool from Doob (1951).
 ## Bearing on the record
 
 - The record held no account of the comparison of experiments before this
-  reading. It produces THEORY-tmpl07kz, stating the equivalence with its
+  reading. It produces [THEORY-tmpl07kz](../theory.d/THEORY-tmpl07kz.md), stating the equivalence with its
   scope (finitely many states, bounded losses), sourced here and naming
   the attribution split.
 - **On the LIT as first filed.** Its summary credits "this paper" with the
@@ -181,7 +181,7 @@ Shapley (1950); the martingale tool from Doob (1951).
   the extension to arbitrary outcome spaces, the k-decision hierarchy and
   the dichotomy results. "The Blackwell theorem" is fairly cited to 1951
   and 1953 jointly; this paper is where the general form is proved.
-- **THEORY-028.** Its passage from I(T; φ) to I(S; W) by data processing
+- **[THEORY-028](../theory.d/THEORY-028.md).** Its passage from I(T; φ) to I(S; W) by data processing
   is an instance of the ordering here: a quantity monotone under every
   garbling. This is my connection, not the paper's, and it does not change
   that THEORY.
@@ -205,5 +205,5 @@ Shapley (1950); the martingale tool from Doob (1951).
   Stein's example, or another, would close C5.
 - Whether the k-decision hierarchy has a quantitative counterpart, a
   deficiency relative to k-action problems; the paper offers only the
-  qualitative order. Le Cam's and Torgersen's work (LIT-tmpoo2k7) is where
+  qualitative order. Le Cam's and Torgersen's work ([LIT-tmpoo2k7](../literature.d/LIT-tmpoo2k7.md)) is where
   that would be found.

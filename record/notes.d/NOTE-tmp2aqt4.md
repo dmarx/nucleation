@@ -170,12 +170,12 @@ Tashiro et al.), the monotone GAN of Kovachki et al., and the EnKF.
 
 - **No THEORY touched.** The record holds no account of Schrödinger
   bridges, diffusion generative models or optimal filtering. Its optimal-
-  transport entry, LIT-680 (NOTE-543), uses OT to align network weights,
+  transport entry, [LIT-680](../literature.d/LIT-680.md) ([NOTE-543](NOTE-543.md)), uses OT to align network weights,
   an unrelated use of the same mathematics.
-- **LIT-058.** The record's I–MMSE reading is the information-theoretic
+- **[LIT-058](../literature.d/LIT-058.md).** The record's I–MMSE reading is the information-theoretic
   side of the same Gaussian-channel calculus whose score identity drives
   the denoising losses here; neither paper cites the other.
-- **LIT-tmpdztrs (NOTE-tmpq1itu).** Both condition a diffusion model by
+- **[LIT-tmpdztrs](../literature.d/LIT-tmpdztrs.md) ([NOTE-tmpq1itu](NOTE-tmpq1itu.md)).** Both condition a diffusion model by
   feeding the condition to the network, and both have classifier-free-style
   null conditioning available (Appendix E.3 here, for estimating the
   evidence log p(y_obs)). Composable Diffusion composes conditions in the

@@ -16,7 +16,7 @@ date: '2026-10-09'
 source:
 - LIT-tmpsujnn
 summary: >-
-  Blackwell (1953), LIT-tmpsujnn, Theorem 8 with Theorems 1–3: for
+  Blackwell (1953), [LIT-tmpsujnn](../literature.d/LIT-tmpsujnn.md), Theorem 8 with Theorems 1–3: for
   experiments with finitely many states and decision problems with bounded
   losses, α attains every loss vector β attains, in every problem, exactly
   when a Markov kernel turns α's observation into β's under every state.
@@ -30,7 +30,7 @@ summary: >-
 
 ## Source
 
-Blackwell (1953), LIT-tmpsujnn, Theorems 1–8, as read in NOTE-tmpou4pq.
+Blackwell (1953), [LIT-tmpsujnn](../literature.d/LIT-tmpsujnn.md), Theorems 1–8, as read in [NOTE-tmpou4pq](../notes.d/NOTE-tmpou4pq.md).
 
 ## What was actually shown
 
@@ -63,7 +63,7 @@ Corollary).
 - **Not a measure.** Most pairs of experiments are incomparable; the
   theorem says nothing about how much information is lost when neither
   simulates the other. That quantitative question is Le Cam's deficiency
-  (LIT-tmpoo2k7, not read).
+  ([LIT-tmpoo2k7](../literature.d/LIT-tmpoo2k7.md), not read).
 - **Not for infinitely many states**, and not for unbounded losses, as
   proved here.
 - **Not "finitely many decision problems suffice".** The k-action
