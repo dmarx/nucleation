@@ -65,3 +65,9 @@ bounds the lost value of every bounded-loss decision ([THEORY-161](../theory.d/T
 are the reader's derivations). The concession stands, and more strongly than
 the exchange knew. What the manuscript can still claim is the context-indexed,
 sheaf-structured observation, not task-relative preservation.
+
+## Sheaf-structured meaning predates the manuscript
+
+By 2014, sheaf-structured meaning for discourse already existed: Abramsky
+and Sadrzadeh ([LIT-tmph7en9](../literature.d/LIT-tmph7en9.md)). Only the pragmatic and transport use of it
+remains for the manuscript to claim, which supports this claim's narrowing.
