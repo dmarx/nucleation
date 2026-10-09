@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**168 documents cited without acknowledgement.** Not listed: 3393 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**168 documents cited without acknowledgement.** Not listed: 3394 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1051,6 +1051,17 @@ The Geometry of Causality
 - [`record/literature.d/LIT-788.md:107`](../../record/literature.d/LIT-788.md)
 - [`record/literature.d/LIT-813.md:37`](../../record/literature.d/LIT-813.md)
 
+### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
+
+In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
+
+4 citations in 4 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-072.md:38`](../../record/claims.d/CLAIM-072.md)
+- [`record/claims.d/CLAIM-082.md:91`](../../record/claims.d/CLAIM-082.md)
+- [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
+- [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
+
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
 Adding causality to the information-theoretic perspective on individuality
@@ -1160,16 +1171,6 @@ For a system driven without feedback, the work dissipated equals the memory that
 - [`record/notes.d/NOTE-321.md:156`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
 - [`record/theory.d/THEORY-030.md:82`](../../record/theory.d/THEORY-030.md)
-
-### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
-
-In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
-
-3 citations in 3 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/claims.d/CLAIM-072.md:38`](../../record/claims.d/CLAIM-072.md)
-- [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
-- [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 
 ### [CLAIM-105](../../record/claims.d/CLAIM-105.md) — Proposed
 
@@ -1375,7 +1376,7 @@ Structural Anthropology
 
 2 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-082.md:50`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:52`](../../record/claims.d/CLAIM-082.md)
 - [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
 
 ### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
