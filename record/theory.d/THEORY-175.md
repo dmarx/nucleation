@@ -38,6 +38,7 @@ summary: >-
   that the transfer needs no paired data: the anchors are paired data.
 supports:
 - CLAIM-126
+- CLAIM-082
 ---
 <!-- inactive-ok-file: THEORY-004 THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
 
