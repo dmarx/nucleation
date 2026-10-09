@@ -19,6 +19,7 @@ rests_on:
 grounds:
 - LIT-016
 - THEORY-012
+- THEORY-tmpquo32
 uses:
 - TERM-tmp1afp0
 summary: >-
@@ -31,6 +32,7 @@ supports:
 complements:
 - CLAIM-tmpc6q27
 ---
+<!-- inactive-ok-file: THEORY-tmpquo32 — Proposed; sheaf condition for causal functions, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp1ycte CLAIM-tmpc6h7z CLAIM-tmpykenz — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-tmpbbjw4: A communicative object is a compatible family of local observations over a cover of contexts, and local interpretations need not be fragments of one globally realizable interpretation
@@ -67,3 +69,11 @@ was consulted. The manuscript cites Abramsky and Brandenburger only.
 
 That pragmatic judgements are contextual ([CLAIM-tmp1ycte](CLAIM-tmp1ycte.md)). It says the theory does not
 presuppose that they are not.
+
+## A further kind of non-gluing
+
+When causal constraints depend on context, deterministic data that is
+causal in every context can still fail to glue ([THEORY-tmpquo32](../theory.d/THEORY-tmpquo32.md); [LIT-tmpc7lcl](../literature.d/LIT-tmpc7lcl.md),
+[LIT-tmp8bt8h](../literature.d/LIT-tmp8bt8h.md)). Here the obstruction comes from the structure of the contexts
+themselves, not from probabilities. That is another way local
+interpretations need not be fragments of one global one.

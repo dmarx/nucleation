@@ -56,3 +56,11 @@ crystallized argument's §16 qualified the owner's diffusion answer
 ([CLAIM-tmp06kdp](CLAIM-tmp06kdp.md)): "probabilistically combining conditional scores is not the
 same thing as proving sheaf-theoretic gluing". It is the first of its five
 questions ([QUESTION-tmpuc1dc](../questions.d/QUESTION-tmpuc1dc.md)).
+
+## Partial prior art
+
+Gogioso and Pinzani's Topology and Geometry of causality ([LIT-tmpc7lcl](../literature.d/LIT-tmpc7lcl.md),
+[LIT-tmp0y2pj](../literature.d/LIT-tmp0y2pj.md)) define empirical models on any open cover. They give a
+lattice of covers with restriction to finer ones, and a hierarchy of spaces
+whose polytopes nest. All of that is within one family of spaces, not a
+directed stochastic transport between scenarios, so the problem stays open.

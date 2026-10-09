@@ -1,8 +1,12 @@
 ---
-status: Rejected
-status_note: 'read 2026-10-09 ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md)), and retired: withdrawn by its authors. The arXiv record''s v3 (3 April 2024) is a withdrawal stating that the paper "has been superseded by arXiv:2206.08911v4, arXiv:2303.07148 and arXiv:2303.09017", that its Definition 3 (the locale of inputs) "is not fit for purpose", and that it is "unlikely to be the right reference". The reading confirms the defect: the meet given in Proposition 5 can leave the poset, and the poset is not distributive, so it is not a locale ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md) gives a two-event counterexample). The idea it introduced stands: a sheaf of causal functions over lower sets of a causal order, with locality as a global section and a decomposition into deterministic causal functions. The record holds none of the successor papers. When one is filed, this entry should become Superseded by it.'
+status: Superseded
+superseded_by:
+- LIT-tmp8bt8h
+- LIT-tmpc7lcl
+- LIT-tmp0y2pj
+status_note: 'read 2026-10-09 ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md)), and superseded by its authors'' trilogy: [LIT-tmp8bt8h](LIT-tmp8bt8h.md) (The Combinatorics of Causality, arXiv 2206.08911), [LIT-tmpc7lcl](LIT-tmpc7lcl.md) (The Topology of Causality, 2303.07148) and [LIT-tmp0y2pj](LIT-tmp0y2pj.md) (The Geometry of Causality, 2303.09017). The authors withdrew it: the arXiv record''s v3 (3 April 2024) states that the paper "has been superseded by arXiv:2206.08911v4, arXiv:2303.07148 and arXiv:2303.09017", that its Definition 3 (the locale of inputs) "is not fit for purpose", and that it is "unlikely to be the right reference". The reading confirms the defect: the meet given in Proposition 5 can leave the poset, and the poset is not distributive, so it is not a locale ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md) gives a two-event counterexample). The successors replace the locale of inputs with spaces of input histories under the lowerset topology, a genuine topology; the sheaf of causal functions and locality as a global section are redone in [LIT-tmpc7lcl](LIT-tmpc7lcl.md), and the polytope and the BFW causal fractions are proved in [LIT-tmp0y2pj](LIT-tmp0y2pj.md).'
 title: 'The Sheaf-Theoretic Structure of Definite Causality'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -22,6 +26,21 @@ history:
     title found nothing. Status Rejected because the authors withdrew it;
     the vocabulary lacks a word for causal structure, so it is tagged by
     its sheaf and contextuality content.
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Rejected → Superseded, by LIT-tmp8bt8h, LIT-tmpc7lcl and LIT-tmp0y2pj,
+    the three papers the withdrawal names, filed and read the same day
+    (NOTE-tmpp785f and NOTE-tmp98pr8 Read, NOTE-tmpht8fg Skimmed). The
+    reason is unchanged: the authors withdrew the paper, and its
+    Definition 3 is defective. Of the three, LIT-tmpc7lcl carries this
+    paper's subject (the sheaf of causal functions, locality as a global
+    section), LIT-tmp8bt8h replaces Definition 3 with spaces of input
+    histories, and LIT-tmp0y2pj proves the polytope (Proposition 16) and
+    the deferred Section 9 causal-fraction results. None of the three
+    cites this paper. 2206.08911 was first posted on 17 June 2022 as
+    "The Topology and Geometry of Causality" and split into the three
+    papers in March 2023.
 tags:
 - contextuality
 - quantum-foundations
@@ -50,6 +69,8 @@ summary: >-
   sketch indefinite causality. The construction's "locale of inputs" is
   not a locale, as the authors' withdrawal says.
 ---
+
+<!-- inactive-ok-file: THEORY-tmpquo32 — Proposed; named as the successor's account of where this paper's sheaf claim holds -->
 
 # LIT-tmpg68lt: The Sheaf-Theoretic Structure of Definite Causality
 
@@ -84,7 +105,7 @@ Stefano Gogioso and Nicola Pinzani (2021), in M. Backens and C. Heunen (eds),
   stated, with proofs deferred to a later paper.
 - **Withdrawn.** The authors withdrew it on arXiv in April 2024. Its
   Definition 3 should be replaced by the "spaces of input histories" of
-  arXiv 2206.08911.
+  arXiv 2206.08911 ([LIT-tmp8bt8h](LIT-tmp8bt8h.md)).
 
 ## Standing in the record
 
@@ -93,14 +114,27 @@ Filed on 2026-10-09 from the manuscript bibliography of 2026-10-09 (work
 considered and dropped from its final reference list. See the curation entry
 of that day.
 
-Read on 2026-10-09 ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md)) and set to `Rejected`. The reason is not
+Read on 2026-10-09 ([NOTE-tmpjllrs](../notes.d/NOTE-tmpjllrs.md)) and set to `Rejected`. The reason was not
 the reading's judgement of its idea. The authors withdrew the paper and
-named its successors, and the reading found the defect they name. A reader
-who wants the sheaf-theoretic treatment of causal order should go to
-Gogioso & Pinzani, *The Combinatorics of Causality* (arXiv 2206.08911), and
-its sequels *The Topology of Causality* (2303.07148) and *The Geometry of
-Causality* (2303.09017). The record holds none of them. Filing the first
-would let this entry become `Superseded` with a named successor.
+named its successors, and the reading found the defect they name.
+
+Later the same day the three successors were filed and read, and this entry
+became `Superseded` by them:
+
+- *The Combinatorics of Causality* ([LIT-tmp8bt8h](LIT-tmp8bt8h.md), arXiv 2206.08911)
+  replaces the locale of inputs with spaces of input histories.
+- *The Topology of Causality* ([LIT-tmpc7lcl](LIT-tmpc7lcl.md), 2303.07148) redoes this
+  paper's sheaf of causal functions over the lowerset topology of those
+  spaces. That topology is a genuine locale. It shows that the sheaf
+  property holds for every space induced by a causal order, so the
+  definite case of this paper survives, but fails for some dynamical
+  structures ([THEORY-tmpquo32](../theory.d/THEORY-tmpquo32.md)).
+- *The Geometry of Causality* ([LIT-tmp0y2pj](LIT-tmp0y2pj.md), 2303.09017) proves the
+  polytope of Proposition 16 in general and computes the BFW causal
+  fractions this paper's Section 9 deferred.
+
+A reader who wants the sheaf-theoretic treatment of causal order should go
+to [LIT-tmpc7lcl](LIT-tmpc7lcl.md) first. None of the three cites this paper.
 
 It extends [LIT-016](LIT-016.md)'s framework: on the discrete order it reduces to it
 exactly (Proposition 9). The vocabulary has no topic for causal structure
