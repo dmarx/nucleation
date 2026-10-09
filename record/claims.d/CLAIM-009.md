@@ -54,3 +54,10 @@ supposes it only so as to test it: §3 says "Whether pragmatic observables
 exhibit such patterns requires repeated, controlled measurement", and §10 says
 to "report context effects separately from possible contextuality". [THEORY-013](../theory.d/THEORY-013.md)
 counts against it for the data published so far ([CLAIM-041](CLAIM-041.md)).
+
+## The nearest test so far
+
+Wang et al. ([LIT-tmp9rgb4](../literature.d/LIT-tmp9rgb4.md)) test lexical selection in ambiguous phrases, not
+pragmatic judgement. They report two contextual systems, and both fail the
+paper's own parametric bootstrap. So the paper shows that the test can be
+run on language data. It is not evidence for this claim.

@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: 'read in full 2026-10-09 ([NOTE-tmppwpim](../notes.d/NOTE-tmppwpim.md)); worth reading as the version of sheaf-theoretic contextuality in which measurements are performed in a causal order and the choice of the next one may depend on earlier outcomes. A causal measurement scenario adds an enabling relation (Kahn and Plotkin''s information matrices renamed); Nature''s deterministic strategies over it replace the event sheaf, and the Abramsky–Brandenburger definitions of empirical model and contextuality then go through unchanged. Flat scenarios and Gogioso and Pinzani''s Bell scenarios with a causal order come out as special cases, and Experimenter strategies express adaptive measurement, as in the Anders–Browne GHZ OR-gate. Its sharpest point is that the strategy presheaf is not a sheaf: deterministic, compatible local strategies can fail to glue (Example 7.2) or glue non-uniquely (Example 7.3). A short paper; several results are deferred to an extended version.'
+title: 'Combining contextuality and causality: a game semantics approach'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 from the PMC link
+    PMC10822710, and read in full the same day (NOTE-tmppwpim) from the
+    published version of record: the Europe PMC full-text JATS XML for
+    PMC10822710, with the two table images from the PMC page (the PMC
+    article page itself also downloaded without a challenge). Identified
+    through Europe PMC and NCBI esummary: PMID 38281714, DOI
+    10.1098/rsta.2023.0002, CC BY 4.0. Bibliography checked against
+    Crossref (Phil. Trans. R. Soc. A 382(2268), article 20230002,
+    published online 29 January 2024, in print 18 March 2024; received 10
+    June 2023, accepted 2 October 2023, per the article) and the arXiv
+    abstract page (2307.04786: v1 10 July 2023, v2 26 January 2024, 14
+    pages, journal reference and DOI given). `published:` is the arXiv v1
+    date. Not held in the Anthology of the SOTA: a grep of its record/
+    (clone pulled 2026-10-09, commit d8b5ba5) for the arXiv id, the DOI,
+    the title, Searle and "game semantics" found nothing.
+tags:
+- contextuality
+- causality
+- quantum-foundations
+- mathematics
+- logic
+- game-theory
+date: '2026-10-09'
+published: '2023-07-10'
+arxiv: '2307.04786'
+doi: '10.1098/rsta.2023.0002'
+first_author: 'Abramsky'
+keywords:
+- 'contextuality'
+- 'causality'
+- 'games'
+- 'game semantics'
+- 'measurement-based quantum computation'
+- 'sheaf theory'
+implementations: []
+summary: >-
+  Abramsky, Barbosa & Searle (2024), [ARXIV-2307.04786](https://arxiv.org/abs/2307.04786), Phil. Trans. R. Soc. A
+  382:20230002. Adds an enabling relation to a measurement scenario and
+  reads contextuality as a game: the Experimenter chooses measurements,
+  Nature chooses outcomes, and Nature's deterministic strategies replace
+  the event sheaf. Recovers flat contextuality and Gogioso–Pinzani causal
+  Bell scenarios, and expresses adaptive MBQC by Experimenter strategies.
+  The strategy presheaf is not a sheaf: compatible deterministic
+  strategies can fail to glue or glue non-uniquely.
+extends:
+- LIT-016
+- LIT-813
+supports:
+- CLAIM-038
+---
+
+<!-- inactive-ok-file: LIT-813 — Superseded; the causal sheaf paper this one builds on, withdrawn by its authors after this paper was written -->
+<!-- inactive-ok-file: THEORY-171 — Proposed; cited for the result this reading gives a second instance of -->
+
+# LIT-tmpvyqe9: Combining contextuality and causality: a game semantics approach
+
+Samson Abramsky, Rui Soares Barbosa and Amy Searle (2024), *Philosophical
+Transactions of the Royal Society A* 382(2268):20230002, theme issue
+"Quantum contextuality, causality and freedom of choice" — [ARXIV-2307.04786](https://arxiv.org/abs/2307.04786),
+DOI-10.1098/rsta.2023.0002, PMC10822710
+
+## Key takeaways
+
+- **Causal measurement scenarios.** A tuple (X, O, ⊢): measurements,
+  outcome sets, and an enabling relation s ⊢ x saying x may be performed
+  after the events in s. Because s includes outcomes, which measurement
+  comes next can depend on what was observed. Histories are the
+  consistent event sets reachable from ∅. The structure is Kahn and
+  Plotkin's information matrix (ca. 1975) under new names.
+- **Contextuality as a game.** The Experimenter's moves are measurements
+  and Nature's are outcomes. A strategy for Nature is a down-closed,
+  deterministic, total set of histories: a hidden variable whose answer
+  may depend on the causal past. Strategies form a presheaf Γ, and an
+  empirical model is a compatible family of distributions on Γ over a
+  cover. It is causally noncontextual when it extends to a global
+  distribution, and the noncontextual models form a polytope checkable by
+  linear programming.
+- **Special cases.** With everything enabled from ∅, Γ is the event
+  sheaf and the theory is Abramsky and Brandenburger's ([LIT-016](LIT-016.md)). With a
+  causal order on the sites of a Bell scenario it reproduces Gogioso and
+  Pinzani's sheaf of sections ([LIT-813](LIT-813.md)), for the two-party example worked
+  in §6b. The general equivalence is deferred to an extended version.
+- **Not a sheaf.** Deterministic local strategies that agree on overlaps
+  can have no gluing (Example 7.2: z enabled by x = 0 or by y = 0, with
+  local strategies answering z differently) or several (Example 7.3).
+  Unions of compatible strategies are always deterministic
+  (Proposition 7.1); totality is what fails. A note added in proof says
+  the sheaf property holds for covers of causally secured sets, with the
+  proof deferred to a sequel.
+- **Two sources of causality.** Nature-imposed causal background changes
+  which models count as classical; Experimenter-imposed causality is an
+  E-strategy (adaptive measurement choice) played against a model, as in
+  the Anders–Browne construction of OR from GHZ Pauli measurements.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's direct request, from the PubMed
+Central link https://pmc.ncbi.nlm.nih.gov/articles/PMC10822710/. It is
+not from the manuscript bibliography: the owner asked for it directly on
+2026-10-09. It joins the record's causal-contextuality line beside
+Gogioso and Pinzani's trilogy ([LIT-800](LIT-800.md), [LIT-808](LIT-808.md), [LIT-788](LIT-788.md)) and the
+withdrawn paper it builds on ([LIT-813](LIT-813.md)), and it gives a second, independent
+instance of [THEORY-171](../theory.d/THEORY-171.md)'s deterministic non-gluing. [NOTE-tmppwpim](../notes.d/NOTE-tmppwpim.md) says how
+it bears on the manuscript's argument on line `pragmatic-transport`.
