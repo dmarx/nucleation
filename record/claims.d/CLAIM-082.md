@@ -22,6 +22,7 @@ grounds:
 - THEORY-159
 - LIT-775
 - THEORY-175
+- THEORY-182
 summary: >-
   The manuscript's structuralist premise (§2), citing Saussure and Lévi-
   Strauss. [CLAIM-072](CLAIM-072.md) corrects how it states Saussure.
@@ -33,6 +34,7 @@ supports:
 illustrated_by:
 - CASE-019
 ---
+<!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
 <!-- inactive-ok-file: THEORY-175 — Proposed; cited as a reading that qualifies this claim, not as settled -->
 
 # CLAIM-082: A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
@@ -91,3 +93,32 @@ relation in a vector space, invariant only to cosine-preserving maps. Saussure's
 value is opposition among coexisting terms, and [THEORY-159](../theory.d/THEORY-159.md) does not make it
 a similarity. The case shows that relational identity can be engineered and
 carried between systems. It does not show that this is Saussure's value.
+
+## A model whose meanings are purely relational
+
+Karkada, Simon, Bahri and DeWeese ([LIT-855](../literature.d/LIT-855.md), read in [NOTE-660](../notes.d/NOTE-660.md)) solve a close
+proxy of word2vec in closed form ([THEORY-182](../theory.d/THEORY-182.md)). The learned embeddings are
+the top eigenvectors of one matrix: the relative deviation of each word
+pair's co-occurrence from independence. Nothing else enters, and the loss
+sees only inner products between embeddings, so each embedding is fixed
+only up to a common rotation. A word's learned representation is therefore
+nothing but its pattern of departures from chance co-occurrence with every
+other word, and the analogy structure the model shows comes out of that.
+
+That is the premise realised in a model, in one respect: identity by
+relations within a system, with no reference anywhere in the training
+signal. Its limits match the qualifications above. Co-occurrence is not
+Saussure's opposition either ([THEORY-159](../theory.d/THEORY-159.md)). The result is proved for a proxy
+of word2vec, not word2vec. And it is a fact about what a model learns from
+text, not evidence about how significance is fixed in a language.
+
+Its sequel (Karkada et al. 2026, [LIT-tmp06otw](../literature.d/LIT-tmp06otw.md), read in [NOTE-tmprkfaf](../notes.d/NOTE-tmprkfaf.md)) adds a
+sharper case and a qualification. The months are still placed on a circle
+from their co-occurrence with *other* words after their co-occurrences with
+each other are deleted (Fig. 4), so each one's position is fixed by its
+relations within the vocabulary. But those relations are organised by an
+extralinguistic variable, the time of year, and the geometry learned is
+isomorphic to it. Relations within the system carry the structure of what
+the words are about. That supports "fixed within a system" without setting
+relation against reference, the same qualification as Bergen, Goodman and
+Levy's.

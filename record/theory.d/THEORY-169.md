@@ -35,6 +35,8 @@ summary: >-
   transformers do gradient descent (the anthology rejects that,
   [ANTH-THEORY-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-068.md)), nor anything about weight updates that persist across
   sequences.
+supports:
+- CLAIM-118
 ---
 
 # THEORY-169: In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind
