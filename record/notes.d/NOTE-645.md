@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpj1l5b
 paper: 'LIT-842'
 title: 'On the Quantum-like Contextuality of Ambiguous Phrases'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -25,6 +25,16 @@ history:
     §§1–5, Proposition 1 with its proof, and the dataset of Appendix A.
     Cited works not read: Kujala and Dzhafarov 2016, Dzhafarov, Kujala
     and Cervantes 2020, Jones 2019, Wang's 2020 MRes thesis.
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    Corrected the account of the journal follow-up, at the owner's
+    request, after its own reading (NOTE-654, LIT-851). The verb-share
+    difference was given here as "significant at 95%". The paper names no
+    test; recomputed from its appendix, a Welch t-test gives t = 2.00, df
+    ≈ 20, p ≈ 0.03 one-sided and ≈ 0.06 two-sided, on 14 homonymous-verb
+    systems from six verbs against 55. Over all 69 signalling systems the
+    verb share is 0.52 ± 0.04, so verbs do not carry more of Δ in general.
 date: '2026-10-09'
 summary: >-
   Models meaning selection in two-word ambiguous phrases as a Bell-type
@@ -157,8 +167,12 @@ The journal follow-up (Wang et al., Journal of Cognitive Science 2021,
 read in full) changes the question. Across 90 rank-2 noun–verb systems
 it measures direct influence, Δ, which by its Proposition 1 is twice the
 sum over contents of Jones's minimal direct influences. Verbs with
-several meanings carry about 70% of Δ, verbs with several senses about
-50% (difference significant at 95%), and nouns about 50% either way. It
+several meanings carry about 70% of Δ (0.70, on 14 systems from six
+verbs), verbs with several senses about 50% (0.48, on 55), and nouns
+about 50% either way. The paper calls the difference significant with
+"more than 95% confidence" but names no test; recomputed, it holds only
+one-sided (Welch p ≈ 0.03; two-sided ≈ 0.06), and over all 69 signalling
+systems the verb share is 0.52 ± 0.04 ([NOTE-654](NOTE-654.md)). It
 notes that Δ > 2 rules out contextuality in rank-2 systems, and it
 reports no new contextual system. Its conclusion prints the earlier
 measures garbled in extraction; they are the 1/30 and 7/30 here.
