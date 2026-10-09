@@ -1,0 +1,153 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmpfo6lq](../notes.d/NOTE-tmpfo6lq.md)); worth reading as the paper that gives the Poincaré ball the operations a neural network is built from, and so shows exactly where hyperbolic geometry enters such a network and where it does not. From Ungar''s gyrovector formalism (Möbius addition and scalar multiplication) it derives the exponential and logarithmic maps at any point, parallel transport from the origin as the scaling λ₀/λ_x (Theorem 4), geodesic hyperplanes as exp_p of a tangent orthogonal complement, and the closed-form distance to one (Theorem 5); all of these check out numerically. A linear map or pointwise nonlinearity is lifted as exp₀ ∘ f ∘ log₀, so a stack of such layers is one Euclidean network in log₀ coordinates; the curvature acts only through the bias translations between layers and the distance-based softmax. The evidence is small: 5-dimensional sentence encoders on SNLI, where hyperbolic models are on par or worse, and on a synthetic noisy-prefix task, where they win most when the noise is lowest, each cell the best of three runs; and hyperbolic logistic regression separating WordNet subtrees in pre-trained Poincaré embeddings better than Euclidean hyperplanes do, mostly in 2 to 5 dimensions.'
+title: 'Hyperbolic Neural Networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 and read in full the same
+    day (NOTE-tmpfo6lq) from the arXiv PDF of v2 (arXiv:1805.09112v2,
+    28 June 2018, 21 pp.: main text, references and Appendices A–F),
+    text extracted with pdftotext. Identification confirmed from the
+    arXiv abstract page (title "Hyperbolic Neural Networks"; authors
+    Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann; v1 submitted
+    23 May 2018, v2 28 June 2018; cs.LG) and from the NeurIPS
+    proceedings page and its BibTeX (Advances in Neural Information
+    Processing Systems 31, NeurIPS 2018, eds. S. Bengio, H. Wallach,
+    H. Larochelle, K. Grauman, N. Cesa-Bianchi and R. Garnett, Curran
+    Associates; authors given as Octavian Ganea, Gary Becigneul, Thomas
+    Hofmann; no page numbers). Title identical in both. Crossref has no
+    record for it under a bibliographic query, and the proceedings page
+    carries no DOI. `published:` is the arXiv v1 date, 23 May 2018, the
+    earlier of the two (ADR-002). The arXiv v1 PDF and the NeurIPS PDF
+    were not compared with v2. Not held in nucleation before this filing:
+    a grep of record/ for the identifier and the title found only
+    mentions in the readings of Sharpee 2019 (NOTE-670) and Yang et al.
+    2023 (NOTE-669) and in the curation entry of the hierarchy batch. Not
+    held in the Anthology of the SOTA as far as its clone shows: a grep of
+    its record/ (clone at commit d8b5ba5, 9 October 2026, possibly stale)
+    for the identifier, the title, Ganea, Bécigneul, "gyrovector" and
+    "Möbius" found nothing, and its few hits for "hyperbolic" and
+    "Poincaré" are on other subjects. Its `model-architecture`,
+    `concept-geometry` and `representation-and-encoding` topics could hold
+    it, and it carries ML practice (layer design, Riemannian SGD,
+    numerical clipping), hence `anthology-candidate`.
+tags:
+- representation-learning
+- mathematics
+- anthology-candidate
+date: '2026-10-09'
+published: '2018-05-23'
+arxiv: '1805.09112'
+first_author: 'Ganea'
+keywords:
+- 'hyperbolic neural networks'
+- 'Poincaré ball'
+- 'gyrovector spaces'
+- 'Möbius addition'
+- 'exponential map'
+- 'parallel transport'
+- 'hyperbolic multinomial logistic regression'
+- 'hyperbolic recurrent neural networks'
+- 'textual entailment'
+- 'WordNet'
+implementations:
+- 'https://github.com/dalab/hyperbolic_nn'
+summary: >-
+  Ganea, Bécigneul and Hofmann (NeurIPS 2018), [ARXIV-1805.09112](https://arxiv.org/abs/1805.09112). Builds
+  neural-network layers in the Poincaré ball from Möbius gyrovector
+  operations: closed-form exponential and logarithmic maps, parallel
+  transport from the origin as a scaling, geodesic hyperplanes with a
+  closed-form point-to-hyperplane distance, and from them hyperbolic
+  logistic regression, feed-forward layers and GRUs, all reducing to the
+  Euclidean ones as the curvature goes to zero. Linear maps and
+  nonlinearities are lifted through the origin's tangent space, so the
+  curvature acts only through biases and the output distances. Gains
+  over Euclidean models are clear only on a synthetic tree-like task
+  and on separating WordNet subtrees in low dimensions.
+---
+
+# LIT-tmpadlu8: Hyperbolic Neural Networks
+
+Octavian-Eugen Ganea, Gary Bécigneul and Thomas Hofmann (2018),
+*Advances in Neural Information Processing Systems 31* (NeurIPS 2018) —
+[ARXIV-1805.09112](https://arxiv.org/abs/1805.09112)
+
+## Key takeaways
+
+- **The toolkit.** The Poincaré ball of curvature −c, Dⁿ_c, with Ungar's
+  Möbius addition x ⊕_c y and Möbius scalar multiplication r ⊗_c x, is
+  tied to its Riemannian geometry. The paper gives:
+  - the exponential and logarithmic maps at any point in closed form
+    (Lemma 2), so exp_x(v) = x ⊕_c tanh(√c λ_x‖v‖/2) v/(√c‖v‖);
+  - Möbius scalar multiplication as exp₀(r log₀(x)) (Lemma 3);
+  - parallel transport from the origin to x as the scaling λ₀/λ_x
+    (Theorem 4), proved from the Christoffel symbols;
+  - the geodesic hyperplane through p normal to a, exp_p({a}^⊥), and the
+    distance from a point to it in closed form (Theorem 5).
+  Every operation recovers its Euclidean counterpart as c → 0. I checked
+  Lemma 2, Lemma 3, Eq. 15, Theorem 4 and Theorem 5 numerically (agreement
+  to 10⁻¹¹ or better, Theorem 5 to the resolution of a grid search in D²),
+  and Theorem 4 analytically as well.
+- **Where the curvature enters.** A map f between Euclidean spaces is
+  lifted as its "Möbius version" exp₀ ∘ f ∘ log₀, which covers matrix
+  multiplication and pointwise nonlinearities. The paper notes the
+  consequence itself: a stack of such layers is exp₀ ∘ (Euclidean
+  network) ∘ log₀. Only the bias translations x ⊕_c b between layers and
+  the distance-based output layer make the network differ from a
+  Euclidean one written in log₀ coordinates.
+- **Hyperbolic logistic regression.** Euclidean softmax regression is
+  rewritten as signed distances to class hyperplanes, and the hyperplanes
+  replaced by geodesic ones, so each logit is
+  (λ_p‖a‖/√c) sinh⁻¹(2√c⟨−p ⊕_c x, a⟩/((1 − c‖−p ⊕_c x‖²)‖a‖)). The
+  normal a is a tangent vector at p, made trainable by transporting it
+  from the origin. Its decision regions are hyperbolic half-spaces.
+- **A hyperbolic GRU** whose update gate is derived, after Tallec and
+  Ollivier, from invariance to time warping, using a gyro-derivative and
+  a chain rule for it that the paper proves (Appendix E).
+- **The evidence is thin and low-dimensional.** All embeddings have
+  dimension 5, and each Table 1 cell is the test score of the best of
+  three runs by validation.
+  - On SNLI (entailment against the rest), hyperbolic and Euclidean
+    encoders score 78.2–81.5%, with the Euclidean GRU best.
+  - On a synthetic task, deciding whether one sentence is a noisy prefix
+    of another, hyperbolic models win most at 10% noise (error 3.1%
+    against 10.4% for the RNN) and least at 50%, where the fully
+    hyperbolic RNN is worst (62.9% against 72.1%).
+  - In a separate test, logistic regression separates four WordNet
+    subtrees from the rest in pre-trained Poincaré embeddings. Hyperbolic
+    hyperplanes beat Euclidean ones in 15 of 16 settings, by most at 2–5
+    dimensions; at 10 dimensions the two are close for the larger
+    subtrees. Those embeddings were trained on the whole hierarchy, test
+    nodes included, so this measures separability in a fitted embedding,
+    not generalisation.
+
+## Standing in the record
+
+Filed at the owner's request on 2026-10-09. The owner asked for the works
+cited by the batch on hierarchy and hyperbolic geometry ([LIT-865](LIT-865.md) to
+[LIT-877](LIT-877.md)) that neither record held, and this was one of them. Sharpee 2019
+([LIT-875](LIT-875.md)) cites it as its ref. 9, its one machine-learning example of
+hyperbolic representation. The batch's curation entry named it among the
+works its papers build on. It is the companion of the same authors'
+entailment-cones paper ([LIT-866](LIT-866.md)), which it cites for the closed-form
+exponential map and the hyperbolic Riemannian SGD it uses. Read on its own
+merits ([NOTE-tmpfo6lq](../notes.d/NOTE-tmpfo6lq.md)); no THEORY is filed.
+
+[LIT-866](LIT-866.md) encodes implication as nested cones. This paper's geometric object
+for a class is a hyperbolic half-space bounded by a geodesic hyperplane, the
+analogue of a linear attribute direction with a threshold. That bears on
+[QUESTION-025](../questions.d/QUESTION-025.md), which asks whether attributes that imply one another still
+get linear directions. The paper's WordNet test shows that, in an
+embedding fitted to the hierarchy, a subtree is close to a hyperbolic
+half-space, and closer than to a Euclidean one in low dimensions. It does
+not answer the question. There is no co-occurrence, the embedding was
+trained on the hierarchy itself, and no claim is made about nested
+subtrees giving nested half-spaces.
+
+It is chiefly about machine-learning practice, building layers and
+training them, and an anthology topic could hold it. The anthology does
+not hold it as far as its clone shows, so it carries
+`anthology-candidate`.

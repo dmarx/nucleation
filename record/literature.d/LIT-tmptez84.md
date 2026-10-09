@@ -1,0 +1,171 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp2hvr8](../notes.d/NOTE-tmp2hvr8.md)); worth reading as the theory written for the RSMI algorithm of LIT-873: it proves that a coarse-graining which keeps all the information a block shares with the system beyond a buffer factorizes the coarse measure across that block, so a finite-range Hamiltonian does not gain range (in 1D; in D dimensions under an extra per-block assumption) and, for 1D disorder, no correlations are generated across the block. The full-capture condition is not met by the coarse-grainings it then studies: in its own 1D Ising example decimation keeps about half of the block''s information, and the decay of next-nearest-neighbour and four-spin couplings, and of disorder correlations, as information grows is shown numerically for blocks of two spins. Its other result is information-theoretic: a single binary block spin loses information by encoding, which is why decimation beats majority rule in 1D and majority rule wins in a 2D toy model.'
+title: 'Optimal Renormalization Group Transformation from Information Theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09, as one of the works cited
+    by the batch on hierarchy and hyperbolic geometry (nucleation#113,
+    LIT-865 to LIT-877) that neither record held; it is cited by
+    Koch-Janusz and Ringel (LIT-873) as the authors' sequel. Read in full
+    the same day (NOTE-tmp2hvr8) from the arXiv PDF of v2
+    (arXiv:1809.09632v2, 1 October 2019, 27 pp.: main text pp. 1–13, references pp. 13–16, Appendices A–F pp. 16–27), text
+    extracted with pdftotext. The published Physical Review X text (open
+    access, CC BY 4.0) was not read; v2 is the revised version posted four
+    and a half months before publication, and differences cannot be ruled
+    out. Checked against the arXiv abstract record (v1 submitted 25
+    September 2018, v2 1 October 2019; same title and five authors;
+    journal reference Phys. Rev. X 10, 011037 (2020) and DOI given) and
+    against Crossref for DOI 10.1103/PhysRevX.10.011037 (Physical Review
+    X 10(1), article 011037, published online 14 February 2020, authors
+    Patrick M. Lenggenhager, Doruk Efe Gökmen, Zohar Ringel, Sebastian D.
+    Huber, Maciej Koch-Janusz). The identification the owner gave is
+    correct. `published:` is the arXiv v1 date, 25 September 2018, the
+    earliest any source gives (ADR-002). Not held in nucleation before
+    this filing: a grep of record/ for the identifier, the DOI, the title
+    and the first author found only LIT-873 and NOTE-674 naming it as not
+    held (and an unrelated Lenggenhager in NOTE-372). Not held in the
+    Anthology of the SOTA as far as its clone shows: a grep of its
+    record/ (clone at commit d8b5ba5, 9 October 2026, possibly stale) for
+    the identifier, DOI, title, authors and "real-space mutual
+    information" found nothing. Not flagged `anthology-candidate`: unlike
+    LIT-873 it trains nothing and makes no claim about learning; the RBM
+    is used only as a differentiable parametrization of a coarse-graining
+    rule, and the results are theorems and exact or perturbative
+    calculations about renormalization.
+tags:
+- natural-sciences
+- information-theory
+- representation-learning
+date: '2026-10-09'
+published: '2018-09-25'
+arxiv: '1809.09632'
+doi: '10.1103/PhysRevX.10.011037'
+first_author: 'Lenggenhager'
+keywords:
+- 'renormalization group'
+- 'real-space renormalization'
+- 'real-space mutual information'
+- 'information bottleneck'
+- 'effective Hamiltonian'
+- 'disordered systems'
+- 'random Ising chain'
+- 'decimation'
+- 'majority rule'
+implementations: []
+extends:
+- LIT-873
+summary: >-
+  Lenggenhager, Gökmen, Ringel, Huber and Koch-Janusz (2018; Phys. Rev. X
+  10, 011037, 2020). Proves that a block coarse-graining keeping all the
+  mutual information the block shares with the system beyond a buffer
+  makes the coarse measure factorize across the block, so a finite-range
+  Hamiltonian gains no range (1D; D dimensions under an extra assumption)
+  and 1D disorder gains no correlations across it. For blocks of two
+  spins of the 1D clean and dilute random Ising chain, where that
+  condition is not met, couplings beyond nearest neighbour and disorder
+  correlations shrink as more information is kept, vanishing at
+  decimation. Encoding into a single binary spin explains why decimation
+  wins in 1D and majority rule in a 2D toy model.
+---
+<!-- inactive-ok-file: THEORY-tmpc8tc8 THEORY-194 THEORY-036 THEORY-017 THEORY-073 QUESTION-025 LIT-039 — Proposed, Deferred or open; cited as what this reading produced, the accounts it is set beside, the question it does not answer, and an unread neighbour -->
+
+# LIT-tmptez84: Optimal Renormalization Group Transformation from Information Theory
+
+Patrick M. Lenggenhager, Doruk Efe Gökmen, Zohar Ringel, Sebastian D. Huber
+and Maciej Koch-Janusz (2018), *Physical Review X* 10, 011037 (2020) —
+[ARXIV-1809.09632](https://arxiv.org/abs/1809.09632), DOI-10.1103/PhysRevX.10.011037
+
+## Key takeaways
+
+- **Full capture implies factorization.** Take blocks large enough that a
+  finite-range Hamiltonian couples only neighbouring blocks, a block V₀,
+  its neighbours as buffer and the rest as environment. If the coarse
+  variable H₀ keeps all of V₀'s information about the environment,
+  I(H₀ : E₀) = I(V₀ : E₀), then I(E₀ : V₀ | H₀) = 0, and with locality the
+  left and right environments are independent given H₀ (the Lemma,
+  Appendix B). The coarse measure then factorizes across H₀ (Proposition
+  1), so, barring a fine-tuned cancellation, the renormalized Hamiltonian
+  has no terms coupling the two sides: a perfect RSMI step does not
+  increase the range of interactions. In D dimensions the same argument
+  runs on hyperplanes of blocks, and needs the additional assumption that
+  full capture for a hyperplane amounts to full capture by each of its
+  blocks separately.
+- **The same for disorder, in 1D.** With a product disorder distribution
+  over nearest-neighbour couplings, the optimal coarse-graining of a block
+  and its factorization are unchanged by a disorder change confined to
+  one side's environment (Proposition 2), so the renormalized disorder
+  distribution has no correlations across the block (Corollary 3). Only
+  the local disorder near a block bears on how that block should be
+  coarse-grained.
+- **The condition is rarely met, so the rest is numerics.** With the
+  number and type of coarse variables fixed in advance, full capture may
+  be impossible, and the authors say so. Their worked case, a block of
+  two spins of the 1D Ising chain coarse-grained into one spin by an RBM
+  rule with parameters (λ₁, λ₂), computes exactly the information kept and
+  perturbatively (cumulant expansion to tenth order) the renormalized
+  couplings. Decimation-like rules keep the most information and give
+  vanishing next-nearest-neighbour and four-spin terms; majority rule
+  keeps the least. Decimation keeps only about half of I(V : E) there (my
+  calculation at their K = 0.1 and one-site buffer, consistent with their
+  Fig. 5), so the theorem's hypothesis does not hold in the case that
+  illustrates it.
+- **Not monotonic, but the maximum is right.** The ratios of
+  next-nearest to nearest and of four-spin to two-spin couplings fall as
+  information rises along paths of large |Λ|, but Appendix D says this is
+  monotonic only locally; the claim kept is that the global maximum of
+  information is a global minimum of these measures. Some couplings also
+  vanish accidentally away from the maximum.
+- **Disorder correlations, numerically.** For the dilute random Ising
+  chain (16 spins, every disorder realization, ninth-order cumulants),
+  the distance correlation and the KL divergence between neighbouring
+  renormalized couplings, and the weight of couplings outside nearest
+  neighbour two-body terms, all vanish where information is maximized,
+  at decimation.
+- **Why 1D and 2D prefer different rules.** I(H : E) = I(V_Λ : E) −
+  I(V_Λ : E | H), where V_Λ is the linear combination of the block a
+  hidden reads. Majority rule reads a variable with three values that one
+  binary spin cannot encode, so it loses more in encoding than it gains;
+  in 1D, where the environment is two disconnected halves, decimation wins
+  in a four-spin toy model. When the environment is one connected
+  variable, as in a 2D toy model with a 2 × 2 block, averaging gains more
+  than encoding loses, and majority rule wins, matching what is known of
+  the 2D Ising model and what [LIT-873](LIT-873.md)'s algorithm found. Maximizing
+  I(V_Λ : E) first and then encoding is not optimal.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works cited by
+the batch on hierarchy and hyperbolic geometry (nucleation#113, [LIT-865](LIT-865.md) to
+[LIT-877](LIT-877.md)) that neither record held. The batch work that cites it is
+Koch-Janusz and Ringel's *Mutual information, neural networks and the
+renormalization group* ([LIT-873](LIT-873.md)), which names it as the authors' sequel
+and the place to look for a proof beyond 1D. Read on its own merits
+([NOTE-tmp2hvr8](../notes.d/NOTE-tmp2hvr8.md)); the reading produces [THEORY-tmpc8tc8](../theory.d/THEORY-tmpc8tc8.md).
+
+It supplies part of what [LIT-873](LIT-873.md) and [THEORY-194](../theory.d/THEORY-194.md) lacked: a proof, in any
+dimension under a stated extra assumption, that keeping all the
+information about the far environment forbids the coarse Hamiltonian from
+gaining range. It does not meet [THEORY-194](../theory.d/THEORY-194.md)'s `promote_when`, which asks
+for a proof about the maximizer: the theorem is about perfect capture,
+which the maximizer under the usual constraints does not reach, and the
+evidence that partial capture still controls the range is two-spin
+blocks of 1D chains.
+
+It does not bear on [QUESTION-025](../questions.d/QUESTION-025.md) beyond the analogy [LIT-873](LIT-873.md) already gives.
+Its levels are nested spatial blocks, not attributes; there is no
+co-occurrence, embedding or concept lattice.
+
+In the record it sits beside the information bottleneck ([LIT-338](LIT-338.md)), of
+which the authors call RSMI a realization with a fixed compressed
+variable; beside the Markov-blanket account [THEORY-073](../theory.d/THEORY-073.md) (my connection,
+not the paper's), since its central lemma is a conditional-independence
+statement about a screening region whose placement, like a blanket's, is
+chosen before anything is computed;
+and near Kupiainen's comment on rigorous RG ([LIT-039](LIT-039.md)), held unread. The
+other sequel [LIT-873](LIT-873.md) names, Gökmen, Ringel, Huber and Koch-Janusz,
+*Statistical physics through the lens of real-space mutual information*
+(arXiv:2101.11633), is filed in the same pass as [LIT-tmp6uvvn](LIT-tmp6uvvn.md).

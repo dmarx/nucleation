@@ -1,0 +1,121 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmp7l8yg](../notes.d/NOTE-tmp7l8yg.md)); worth reading as the paper that first put deep restricted Boltzmann machines and Kadanoff''s variational renormalization group side by side, and as the position Koch-Janusz and Ringel ([LIT-873](LIT-873.md)) argue against. Its "exact mapping" is an identification: setting the RG kernel T = −E + H makes the coarse-grained Hamiltonian equal the RBM''s hidden-marginal Hamiltonian for every parameter value, and makes an exact RG step the same thing as a perfect fit of the data distribution. Away from that point the paper itself says the two procedures use different variational approximations, so the mapping does not show that training an RBM performs RG. The evidence that it does is a hand-built 1D decimation network and qualitative receptive fields of a stacked RBM on 2D Ising samples; no flow, fixed point or exponent is computed.'
+title: 'An exact mapping between the Variational Renormalization Group and Deep Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed at the owner's request on 2026-10-09 as one of the works cited
+    by the batch on hierarchy and hyperbolic geometry (LIT-865 to LIT-877)
+    that neither record held; the citing work is Koch-Janusz and Ringel
+    (LIT-873), which argues against it. Read in full the same day
+    (NOTE-tmp7l8yg) from the arXiv PDF of v1, the only version (8 pp.),
+    text extracted with pdftotext. Checked against the arXiv abstract
+    page and API record (arXiv:1410.3831 [stat.ML], cross-listed
+    cond-mat.stat-mech, cs.LG, cs.NE; Pankaj Mehta and David J. Schwab;
+    v1 submitted 14 October 2014, no later version, no journal reference
+    or publisher DOI) and against DataCite for the arXiv DOI
+    10.48550/arXiv.1410.3831. A Crossref bibliographic search for the
+    title returned no journal or proceedings version. `published:` is the
+    arXiv v1 date, 14 October 2014 (ADR-002). Not held in nucleation
+    before this filing: a grep of record/ for the identifier, the title
+    and "variational renormalization" found only mentions, in NOTE-674
+    (as the claim LIT-873 disputes), LIT-873's Standing section, and
+    NOTE-124 (McKenzie's survey, which names it). Not held in the
+    Anthology of the SOTA as far as its clone shows: a grep of its
+    record/ (clone at commit d8b5ba5, 9 October 2026, possibly stale) for
+    the identifier, the title, both authors, "renormalization group",
+    "deep belief" and "RBM" found nothing relevant. Its
+    `analysis-and-evaluation` topic, which takes theory of deep learning,
+    could hold it, hence `anthology-candidate`.
+tags:
+- representation-learning
+- natural-sciences
+- anthology-candidate
+date: '2026-10-09'
+published: '2014-10-14'
+arxiv: '1410.3831'
+first_author: 'Mehta'
+keywords:
+- 'renormalization group'
+- 'variational renormalization group'
+- 'deep learning'
+- 'restricted Boltzmann machines'
+- 'deep neural networks'
+- 'Ising model'
+- 'block spin'
+implementations: []
+summary: >-
+  Mehta and Schwab (2014), arXiv preprint, never published in a journal.
+  Identifies Kadanoff's variational RG kernel with an RBM's energy by
+  T = −E + H, under which the coarse-grained Hamiltonian is the RBM's
+  hidden-marginal Hamiltonian for any parameters and an exact RG step is
+  a perfect fit of the data. Illustrates it with a hand-built decimation
+  network for the 1D Ising chain and a four-layer stacked RBM trained on
+  2D Ising samples near T_c, whose receptive fields are local and grow
+  with depth. It concedes that, short of exactness, RG and RBM training
+  use different variational schemes; [LIT-873](LIT-873.md) shows the difference
+  matters.
+---
+<!-- inactive-ok-file: THEORY-tmp1hbbz THEORY-194 QUESTION-025 — Proposed or open; cited as what this reading produced, the account it is set beside, and the question it does not answer -->
+
+# LIT-tmptst8b: An exact mapping between the Variational Renormalization Group and Deep Learning
+
+Pankaj Mehta and David J. Schwab (2014), arXiv preprint — [ARXIV-1410.3831](https://arxiv.org/abs/1410.3831)
+
+## Key takeaways
+
+- **The mapping is an identification of two parametrizations.** Kadanoff's
+  variational RG couples hidden spins h to physical spins v through a
+  kernel T_λ(v, h) and defines the coarse Hamiltonian by
+  e^{−H^RG(h)} = Tr_v e^{T(v,h) − H(v)}. An RBM has an energy E(v, h).
+  Setting T = −E + H (Eq. 18) makes H^RG equal the Hamiltonian of the
+  RBM's hidden marginal (Eq. 21), for every parameter value and, as the
+  authors note, for any Boltzmann machine. Nothing is trained in that
+  statement; it holds by construction.
+- **Exactness coincides, approximation does not.** With the same
+  identification, Kadanoff's exactness condition Tr_h e^T = 1 for every v
+  is the statement that the RBM's visible marginal equals the data
+  distribution, KL divergence zero (Eq. 22). Short of that point the
+  paper says the two "employ distinct variational approximation schemes":
+  RG works on free energies, the RBM on the KL divergence. So the
+  mapping does not say that minimizing KL performs RG.
+- **The 1D example is built, not learned.** The decimation recursion
+  tanh J^(n+1) = tanh² J^(n) is written as a deep network whose layers are
+  the spins kept at each decimation step (Fig. 2). It shows that an RG
+  scheme can be laid out as a layered network; no training objective
+  appears.
+- **The 2D example is qualitative.** A four-layer stacked RBM (1600, 400,
+  100, 25 units) trained by contrastive divergence with an L1 penalty on
+  40 × 40 Ising samples at J = 0.408, just above T_c, has hidden units
+  whose effective receptive fields are local blocks that grow with depth,
+  and reconstructs samples from 25 top units. No coarse Hamiltonian,
+  flow, fixed point or exponent is extracted, and the L1 strength was
+  chosen to rule out all-to-all couplings.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, as one of the works cited by
+the batch on hierarchy and hyperbolic geometry (nucleation#113, [LIT-865](LIT-865.md) to
+[LIT-877](LIT-877.md)) that neither record held. It is cited by Koch-Janusz and Ringel
+([LIT-873](LIT-873.md)), and it is filed as the position [LIT-873](LIT-873.md) disputes: that paper's
+supplement says its theory and its dimer counterexample "disprove the very
+general claims" of this one, because an RBM trained to fit the data
+distribution latches on to decoupled noise and misses the RG-relevant
+variables. Read on its own merits ([NOTE-tmp7l8yg](../notes.d/NOTE-tmp7l8yg.md)), with the dispute
+assessed there on both texts. In short: the identity of Eqs. 18–22 is
+correct and [LIT-873](LIT-873.md) does not engage it; what [LIT-873](LIT-873.md) refutes is the
+reading of that identity as evidence that unsupervised training performs
+RG, a reading this paper's title and abstract invite and its own Section
+III half-withdraws. The reading produces [THEORY-tmp1hbbz](../theory.d/THEORY-tmp1hbbz.md), the counterpart
+of [THEORY-194](../theory.d/THEORY-194.md) from [LIT-873](LIT-873.md).
+
+It does not bear on [QUESTION-025](../questions.d/QUESTION-025.md): its hierarchy is the nesting of spatial
+blocks in a deep network, not attributes that imply one another.
+
+The other side of the triangle [LIT-873](LIT-873.md) draws, Lin, Tegmark and Rolnick's
+*Why does deep and cheap learning work so well?* (arXiv:1608.08225), which
+denies the link, is not held in either record. McKenzie's survey of
+emergence ([LIT-141](LIT-141.md), [NOTE-124](../notes.d/NOTE-124.md)) names this paper among its pointers.

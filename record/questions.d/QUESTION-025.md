@@ -19,6 +19,7 @@ summary: >-
   directions survive that structure is not answered by anything the
   record holds.
 ---
+<!-- inactive-ok-file: THEORY-tmpyaqz7 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-195 THEORY-188 THEORY-189 THEORY-193 THEORY-191 THEORY-194 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-185 THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
 
@@ -125,6 +126,22 @@ None of these answers it; together they narrow it.
   Maity & Tsiotras ([LIT-868](../literature.d/LIT-868.md)) choose levels of a given hierarchy by
   mutual information; the second shows a level can carry nothing while the
   levels below it carry much, so a measurement should score every level.
+- **In token co-occurrence, a hierarchy shows as partitions and fades with
+  depth.** Cagnetta & Wyart ([LIT-tmpudm1k](../literature.d/LIT-tmpudm1k.md), [THEORY-tmpyaqz7](../theory.d/THEORY-tmpyaqz7.md)) generate
+  sequences from a random hierarchy and measure their token–token
+  correlations, which fall by about a factor m per level of the common
+  ancestor; so a finite corpus shows only the shallow levels. Tuples with
+  one parent have identical co-occurrence rows, so the hierarchy shows as
+  nested partitions rather than one direction per ancestor, and the paper
+  notes that a parent is not a linear feature of its input tuple until
+  after a nonlinear layer. That is the nearest the record comes to the
+  derivation this question asks for, on part–whole rather than attribute
+  hierarchies.
+- **Hyperbolic half-spaces as a probe.** Ganea, Bécigneul & Hofmann's
+  hyperbolic neural networks ([LIT-tmpadlu8](../literature.d/LIT-tmpadlu8.md)) separate WordNet subtrees with
+  geodesic hyperplanes better than Euclidean ones do, in embeddings trained
+  on hypernym edges. Probing a co-occurrence embedding with both kinds of
+  half-space is one way to make the measurement asked for above.
 - **A measuring tool.** Lin et al.'s hyperbolic diffusion embedding
   ([LIT-870](../literature.d/LIT-870.md)) recovers a tree distance from multiscale densities, where
   a single Euclidean view on the same features loses most of it. Run on a
