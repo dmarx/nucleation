@@ -1,0 +1,126 @@
+---
+status: Active
+status_note: 'read 2026-10-09 ([NOTE-tmprhn7r](../notes.d/NOTE-tmprhn7r.md)); worth reading as the paper that put a latent hyperbolic space under complex networks. Nodes placed quasi-uniformly in a hyperbolic disk and joined when close give, in the large-disk approximation, a power-law degree distribution with exponent γ = 2α/ζ + 1 (node-density exponent over curvature), and a Fermi–Dirac connection probability with a temperature T gives clustering that falls from its maximum at T = 0 to zero at a phase transition at T = 1. Conversely, a circle-similarity model with power-law hidden degrees maps onto the hyperbolic one by taking radius as log degree: this is the paper''s "effective hyperbolic geometry". Removing the angular term from the distance leaves the configuration model, and heating further leaves Erdős–Rényi graphs. Greedy routing by hyperbolic coordinates in the model succeeds for 99.9% of pairs at γ = 2.1 and T = 0 and survives heavy link removal. All of it is about the model: the fit to the Internet is of three summary statistics, and no real network is embedded here.'
+title: 'Hyperbolic Geometry of Complex Networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-09'
+  note: >-
+    Filed and read on 2026-10-09 (NOTE-tmprhn7r) from the arXiv PDF of
+    v2 (10 September 2010, 18 pp.), text extracted with pdftotext:
+    §§I–XI and the reference list, every derivation followed, figures
+    read from captions and text. The owner described it as "effective
+    hyperbolic geometry arising from network organization"; that is the
+    abstract's and §V's phrase, so the identification holds. Checked
+    against the arXiv abstract page (arXiv:1006.5169, cond-mat.stat-mech;
+    v1 submitted 26 June 2010, v2 10 September 2010; journal reference
+    Phys. Rev. E 82, 036106 (2010)) and Crossref (DOI
+    10.1103/PhysRevE.82.036106: Physical Review E 82(3), article 036106,
+    published online 9 September 2010; authors Dmitri Krioukov,
+    Fragkiskos Papadopoulos, Maksim Kitsak, Amin Vahdat, Marián Boguñá).
+    The journal prints the title in sentence case, "Hyperbolic geometry
+    of complex networks"; the arXiv form is kept. `published:` is the
+    arXiv v1 date, 26 June 2010, the earliest any source gives (ADR-002).
+    Not held in nucleation before this filing: a grep of record/ for
+    Krioukov, the identifiers and the title found nothing. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5,
+    which may be stale) for the authors, both identifiers and the title
+    found nothing, and the only "hyperbolic" hits are unrelated (the
+    hyperbolic secant in ANTH-LIT-692 and ANTH-THEORY-106).
+tags:
+- network-science
+- complex-systems
+date: '2026-10-09'
+published: '2010-06-26'
+arxiv: '1006.5169'
+doi: '10.1103/PhysRevE.82.036106'
+first_author: 'Krioukov'
+keywords:
+- 'hyperbolic geometry'
+- 'complex networks'
+- 'scale-free networks'
+- 'clustering'
+- 'hidden metric spaces'
+- 'exponential random graphs'
+- 'greedy routing'
+- 'navigability'
+implementations: []
+summary: >-
+  Krioukov, Papadopoulos, Kitsak, Vahdat and Boguñá (2010), Phys. Rev. E
+  82, 036106. Random graphs on a hyperbolic disk, with nodes joined by
+  hyperbolic distance, have power-law degrees (γ = 2α/ζ + 1, set by
+  node density against curvature) and strong clustering (set by a
+  temperature, lost at a phase transition at T = 1). A circle-similarity
+  model with power-law hidden degrees is the same ensemble once radius is
+  taken as log degree: the paper's "effective hyperbolic geometry". The
+  configuration model and Erdős–Rényi graphs are its degenerate limits,
+  and greedy routing by the coordinates is near-optimal and robust in the
+  model's networks.
+---
+<!-- inactive-ok-file: THEORY-tmp1y92d THEORY-185 QUESTION-025 CLAIM-119 CLAIM-042 — Proposed or Open; cited as the accounts this reading bears on -->
+
+# LIT-tmp0u9c9: Hyperbolic Geometry of Complex Networks
+
+Dmitri Krioukov, Fragkiskos Papadopoulos, Maksim Kitsak, Amin Vahdat and
+Marián Boguñá (2010), *Physical Review E* 82, 036106 — [ARXIV-1006.5169](https://arxiv.org/abs/1006.5169),
+DOI-10.1103/PhysRevE.82.036106
+
+## Key takeaways
+
+- **Hyperbolic space as a continuous tree.** In the hyperbolic plane of
+  curvature −ζ², circle length and disk area grow as e^{ζr}, as the node
+  count of a b-ary tree grows as b^r; with ζ = ln b the two are metrically
+  alike. The paper's rationale is that the similarity of nodes is
+  organised by an approximately tree-like hierarchy of groups, so the
+  space of similarities is negatively curved. That step is an argument,
+  backed by a cited fact (overlapping disks in ℝ² correspond to points of
+  the upper half-space H³, with nested disks forming the tree and partial
+  overlaps adding cycles that keep it hyperbolic), not a derivation.
+- **Geometry gives heterogeneity.** N nodes in a disk of radius R ~ ln N,
+  joined when their distance is at most R: a node at radius r has
+  expected degree ∝ e^{−ζr/2}, the node density grows as e^{αr}, and the
+  two exponentials give P(k) ~ k^{−γ} with γ = 2α/ζ + 1 when α/ζ ≥ ½ (γ = 3
+  for uniform density, α = ζ), and γ = 2 below that. Only α/ζ matters:
+  branching factor against curvature.
+- **Heterogeneity gives an effective geometry (§V).** The S¹ model (nodes
+  on a circle, power-law hidden degrees κ, connection probability a
+  function of distance over κκ′) becomes the H² model under
+  κ = κ₀e^{ζ(R−r)/2}: degree is radial depth, and the circle is the
+  boundary at infinity. This is an equivalence of two model ensembles,
+  in the large-distance approximation, given that the network already has
+  a similarity metric; it is not a test that any real network does.
+- **Statistical mechanics.** With p(x) = 1/(e^{β(ζ/2)(x−R)} + 1), edges
+  are non-interacting fermions with energy the hyperbolic distance,
+  chemical potential R and temperature T = 1/β; the link fields of the
+  exponential random-graph formalism are linear in distance. At T = 0 the
+  step function returns and clustering is largest; clustering falls
+  nearly linearly to zero at T = 1, where the chemical potential diverges;
+  for T > 1 clustering vanishes in large networks.
+- **Degenerate limits.** Letting ζ, T → ∞ with ζ/T fixed kills the angular
+  term of the distance, x_ij = r_i + r_j, so link probabilities depend
+  only on the product of expected degrees: the configuration model.
+  Heating with α and ζ fixed gives Erdős–Rényi graphs. The metric
+  structure is the angular term.
+- **Navigation.** Greedy forwarding toward the destination's hyperbolic
+  coordinates, with no global knowledge, reaches 99.92% (original) and
+  99.99% (modified) of destinations at γ = 2.1, T = 0 (N = 10⁴, k̄ = 6.5),
+  every greedy path being a shortest path; it stays above 99% with 10%
+  of links removed, worsens with γ and T, and fails in the configuration
+  model (≤ 40%) and Erdős–Rényi graphs (≈ 0.2%). Simulation only.
+
+## Standing in the record
+
+Filed on 2026-10-09 at the owner's request, in a batch of six works on
+hierarchy and hyperbolic geometry asked for right after the record opened
+[QUESTION-025](../questions.d/QUESTION-025.md) (with Cagnetta et al.'s random hierarchy model, Sala et al.
+2018, Lin et al. 2023, Zhang et al. 2023 and Yang et al. 2023).
+
+Read the same day ([NOTE-tmprhn7r](../notes.d/NOTE-tmprhn7r.md)). It is the first work in the record on
+hyperbolic geometry as the latent space of a network; the nearest holdings
+are the discrete curvatures of [LIT-004](LIT-004.md) and [LIT-020](LIT-020.md). The reading is the
+source of [THEORY-tmp1y92d](../theory.d/THEORY-tmp1y92d.md). It does not answer [QUESTION-025](../questions.d/QUESTION-025.md), which asks
+about linear attribute directions in co-occurrence embeddings, but it
+supplies a generative model in which hierarchy enters link probabilities
+through a curved distance rather than through independent factors; the
+NOTE says how far that reaches.
