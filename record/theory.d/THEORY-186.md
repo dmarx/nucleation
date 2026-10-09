@@ -8,26 +8,38 @@ promote_when: >-
   trajectory of a two-layer linear network converges to the decoupled
   solution as the initial scale goes to zero, so that the per-mode
   sigmoids and their strength ordering are a theorem rather than a
-  simulated approximation. A reading of the authors' 2014 paper or of a
+  simulated approximation. The authors' 2014 paper (LIT-tmppqrls) does not
+  supply one: it solves unbalanced starts only when already decoupled. A
   later silent-alignment analysis that supplies one would serve. Further
   simulations of small hand-built datasets cannot settle it.
 title: 'A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data''s spectrum, not from nonlinearity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-09'
+  note: >-
+    The 2014 paper is now held (LIT-tmppqrls, read in NOTE-tmpb36i6) and
+    joins the sources as the first appearance of the result. The Source
+    section's "neither record holds that paper" is corrected, and
+    promote_when records that the 2014 paper does not supply the missing
+    proof. Its depth results are stated separately in THEORY-tmp8wj5h. The
+    claim is unchanged.
 tags:
 - representation-learning
 - learning-theory
 date: '2026-10-09'
 source:
 - LIT-862
+- LIT-tmppqrls
 summary: >-
   Saxe, McClelland and Ganguli (2019), [LIT-862](../literature.d/LIT-862.md), restating their 2014
-  solution (not held): exact for decoupled, balanced initial weights and
+  solution (LIT-tmppqrls): exact for decoupled, balanced initial weights and
   white inputs, simulated for random small weights. With hierarchically
   generated data the spectrum falls with depth in the tree, so the schedule
   is coarse to fine. It is not a claim about nonlinear networks, about
   correlated inputs, or about learning that starts from prior knowledge.
 ---
-<!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 — Proposed; accounts this one underlies or is set beside -->
+<!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-tmp8wj5h — Proposed; accounts this one underlies or is set beside -->
 
 # THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
 
@@ -37,8 +49,11 @@ Saxe, McClelland and Ganguli (2019), [LIT-862](../literature.d/LIT-862.md), Eqs.
 Supplementary Material's derivations, as read in [NOTE-666](../notes.d/NOTE-666.md). The solution
 first appeared in the same authors' 2014 ICLR paper, *Exact solutions to the
 nonlinear dynamics of learning in deep linear neural networks* (arXiv
-1312.6120). Neither record holds that paper, and the 2019 paper does not
-cite it.
+1312.6120), [LIT-tmppqrls](../literature.d/LIT-tmppqrls.md), Eqs. 6–12 and Appendix A, as read in
+[NOTE-tmpb36i6](../notes.d/NOTE-tmpb36i6.md). The 2019 paper does not cite it. The 2014 paper also has the
+coupled equations with repulsion between modes, the unbalanced solution for
+decoupled starts, and arbitrary depth ([THEORY-tmp8wj5h](THEORY-tmp8wj5h.md)); the 2019 paper adds
+the shallow comparison, the data models and the minimum-norm result.
 
 ## What was actually shown
 
