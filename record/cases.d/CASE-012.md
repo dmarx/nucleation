@@ -24,6 +24,9 @@ summary: >-
   example (§1).
 supports:
 - ARG-004
+- CLAIM-tmpc3xwx
+- CLAIM-tmpelp3h
+- CLAIM-tmpfe37n
 ---
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-036 — Superseded; replaced, and cited as the history this entry answers or replaces -->

@@ -22,6 +22,7 @@ summary: >-
 supports:
 - CLAIM-028
 - CLAIM-084
+- CLAIM-tmpfe37n
 ---
 
 # CASE-032: E4: within-session chains, stable complicit against a shift to moral instruction

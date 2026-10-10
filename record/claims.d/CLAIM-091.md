@@ -26,6 +26,10 @@ summary: >-
   turns U1–U13; the manuscript keeps its consequence ("change almost
   every word while preserving the interpersonal relation") but not the
   mechanism. Apparently dropped inadvertently, never refuted.
+objected_by:
+- CLAIM-tmpfe37n
+supports:
+- CLAIM-tmpyeik3
 ---
 <!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

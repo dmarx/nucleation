@@ -23,6 +23,8 @@ summary: >-
   is right about value and loose about difference, and Saussure's value
   is distinct from signification, which the manuscript's "significance"
   blurs.
+objected_by:
+- CLAIM-tmpwevyr
 ---
 
 # CLAIM-072: Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition

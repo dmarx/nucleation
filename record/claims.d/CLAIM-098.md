@@ -25,6 +25,10 @@ summary: >-
   Manuscript §4. The one trace the relativity analogy left: symmetry and
   equivariance for exact preservation, a semigroup of stochastic maps
   for the rest.
+objected_by:
+- CLAIM-tmpz7og0
+supports:
+- CLAIM-tmpt76qw
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-102 — Superseded; replaced, and cited as the history this entry answers or replaces -->

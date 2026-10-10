@@ -42,6 +42,7 @@ summary: >-
   record's derivations from the paper's definitions, not the paper's.
 supports:
 - CLAIM-126
+- CLAIM-tmpdt857
 ---
 <!-- inactive-ok-file: THEORY-156 THEORY-008 THEORY-112 — Proposed; the order this one is compared with, and accounts named in What this does not say, cited as readings, not as settled -->
 

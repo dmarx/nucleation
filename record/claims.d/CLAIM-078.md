@@ -23,6 +23,10 @@ summary: >-
   to be shown, recovered. The manuscript keeps half (Case I: incremental
   prediction of held-out judgements) and drops the disclaimer and the
   compositional half.
+objected_by:
+- CLAIM-tmp6zbr9
+- CLAIM-tmphn6za
+- CLAIM-tmpqfgjl
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-059 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

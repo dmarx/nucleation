@@ -25,6 +25,8 @@ used_by:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-147
+- CLAIM-tmpbi9eb
+- CLAIM-tmpwvljf
 ---
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

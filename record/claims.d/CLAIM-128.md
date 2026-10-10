@@ -29,6 +29,8 @@ summary: >-
   above or below one that does the opposite until a task says which
   matters. It does not say how the components are measured, nor that
   they are independent.
+supports:
+- CLAIM-tmpqfgjl
 ---
 <!-- inactive-ok-file: CLAIM-106 CLAIM-033 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

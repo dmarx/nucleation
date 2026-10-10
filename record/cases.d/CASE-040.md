@@ -25,6 +25,10 @@ summary: >-
   cross-corpus version. Proposed by the assistant; not run.
 supports:
 - CLAIM-129
+- CLAIM-tmp3lv11
+- CLAIM-tmpc3xwx
+- CLAIM-tmpflbi3
+- CLAIM-tmpgetbr
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-135 CLAIM-127 CLAIM-130 CLAIM-077 THEORY-175 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 

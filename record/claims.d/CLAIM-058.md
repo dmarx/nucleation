@@ -22,6 +22,8 @@ summary: >-
   limited by the circularity objection.
 argued_by:
 - ARG-008
+objected_by:
+- CLAIM-tmpt2k3r
 ---
 
 # CLAIM-058: Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies

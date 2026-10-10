@@ -37,6 +37,8 @@ summary: >-
   factorization cannot capture acts.
 illustrated_by:
 - CASE-040
+objected_by:
+- CLAIM-tmp3lv11
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the thesis this claim complements -->

@@ -43,6 +43,11 @@ summary: >-
 supports:
 - CLAIM-137
 - CLAIM-139
+- CLAIM-tmpdwfva
+objected_by:
+- CLAIM-tmpc25sn
+- CLAIM-tmpcq79k
+- CLAIM-tmpfe37n
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-130 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the dilemma whose intrinsic horn "partly" takes, not as settled -->

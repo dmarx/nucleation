@@ -35,6 +35,8 @@ summary: >-
   comprehension computes this recursion, nor that speakers are rational.
 supports:
 - CLAIM-111
+- CLAIM-tmpc25sn
+- CLAIM-tmpjuqrl
 ---
 
 # THEORY-172: Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said

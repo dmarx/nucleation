@@ -21,6 +21,9 @@ supports:
 - CLAIM-061
 - CLAIM-091
 - CLAIM-151
+- CLAIM-tmpc25sn
+- CLAIM-tmpcq79k
+- CLAIM-tmpfe37n
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

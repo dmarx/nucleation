@@ -25,6 +25,8 @@ summary: >-
   A40 limited the inference: the conclusion holds of Φ's image only.
 argued_by:
 - ARG-006
+objected_by:
+- CLAIM-tmpvmzx9
 ---
 
 # CLAIM-063: A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves

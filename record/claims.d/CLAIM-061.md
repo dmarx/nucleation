@@ -47,6 +47,8 @@ supports:
 - CLAIM-151
 objected_by:
 - CLAIM-053
+- CLAIM-tmpelp3h
+- CLAIM-tmpfe37n
 ---
 <!-- inactive-ok-file: THEORY-162 — Proposed; context change as part of meaning, cited as support, not as settled -->
 <!-- inactive-ok-file: CLAIM-006 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->

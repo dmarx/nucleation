@@ -29,6 +29,7 @@ summary: >-
   Strauss. [CLAIM-072](CLAIM-072.md) corrects how it states Saussure.
 objected_by:
 - CLAIM-072
+- CLAIM-tmpwevyr
 supports:
 - CLAIM-115
 - CLAIM-036

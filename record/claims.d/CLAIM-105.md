@@ -33,6 +33,10 @@ summary: >-
   (at C6, per the chunk-5 reader).
 illustrated_by:
 - CASE-037
+objected_by:
+- CLAIM-tmpbvk4j
+- CLAIM-tmpji66i
+- CLAIM-tmplkh2i
 ---
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->

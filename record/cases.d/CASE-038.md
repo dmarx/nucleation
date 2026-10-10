@@ -26,6 +26,7 @@ summary: >-
   proposals.
 supports:
 - CLAIM-147
+- CLAIM-tmpc3xwx
 ---
 <!-- inactive-ok-file: CLAIM-147 CLAIM-145 CLAIM-034 CLAIM-002 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-167 — Proposed; cited as the reading of Propp this case's analysis repeats, not as settled -->

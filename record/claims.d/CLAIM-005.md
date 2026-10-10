@@ -25,6 +25,13 @@ summary: >-
   A24's D(τ), the origin of the transport framework, and the
   manuscript's L_obs (§6). One of three terms of the manuscript's
   fidelity functional.
+objected_by:
+- CLAIM-tmp6xxbf
+- CLAIM-tmpdwfva
+- CLAIM-tmpgetbr
+- CLAIM-tmphn6za
+- CLAIM-tmpqfgjl
+- CLAIM-tmpwvljf
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

@@ -26,6 +26,9 @@ supports:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-147
+- CLAIM-tmp6xxbf
+objected_by:
+- CLAIM-tmplkh2i
 ---
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

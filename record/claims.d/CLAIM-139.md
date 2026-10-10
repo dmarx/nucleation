@@ -47,6 +47,15 @@ summary: >-
   manuscript's thesis rather than superseding it.
 objected_by:
 - CLAIM-140
+- CLAIM-tmp6r6t6
+- CLAIM-tmp867uz
+- CLAIM-tmpc3xwx
+- CLAIM-tmpgetbr
+- CLAIM-tmphn6za
+- CLAIM-tmplkh2i
+- CLAIM-tmpqfgjl
+- CLAIM-tmps7va1
+- CLAIM-tmpsxsr8
 ---
 <!-- inactive-ok-file: CLAIM-133 CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-050 CLAIM-077 CLAIM-115 — Proposed; open, and cited as open: the premises and the manuscript's thesis are under test, not settled -->

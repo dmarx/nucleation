@@ -21,6 +21,11 @@ summary: >-
   that an adapted receiver may recover an implicit relation.
 complements:
 - CLAIM-076
+objected_by:
+- CLAIM-tmplkh2i
+supports:
+- CLAIM-tmpdt857
+- CLAIM-tmpwvljf
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

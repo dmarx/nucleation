@@ -25,6 +25,8 @@ summary: >-
   The objection presses on the owner's individuation thesis only if its
   relations are read extensionally, and it does not touch the "partly"
   of relational constitution.
+supports:
+- CLAIM-tmpcq79k
 ---
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition the exchange offered as the remedy, open -->

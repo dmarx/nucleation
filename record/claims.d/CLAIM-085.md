@@ -19,6 +19,9 @@ summary: >-
   after U19, though neither is a hedge: one is a design constraint, the
   other a distinction between normative and descriptive fidelity. The
   manuscript keeps part of the remedy and neither argument.
+supports:
+- CLAIM-tmpp41ad
+- CLAIM-tmpt2k3r
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

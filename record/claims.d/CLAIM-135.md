@@ -40,6 +40,7 @@ illustrated_by:
 - CASE-042
 supports:
 - CLAIM-139
+- CLAIM-tmp6r6t6
 ---
 
 # CLAIM-135: Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most

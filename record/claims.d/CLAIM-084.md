@@ -27,6 +27,9 @@ summary: >-
   it ("The structural measurements are more informative than lexical
   comparisons alone") and §10 keeps independent responses and split
   annotators; the blinding to condition is not stated.
+objected_by:
+- CLAIM-tmpelp3h
+- CLAIM-tmpfe37n
 ---
 <!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

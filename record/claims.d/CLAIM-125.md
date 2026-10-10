@@ -38,6 +38,11 @@ summary: >-
 complements:
 - CLAIM-126
 - CLAIM-127
+objected_by:
+- CLAIM-tmp6xxbf
+- CLAIM-tmpji66i
+- CLAIM-tmpkf8pe
+- CLAIM-tmprwo1c
 ---
 <!-- inactive-ok-file: THEORY-174 THEORY-156 THEORY-177 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->

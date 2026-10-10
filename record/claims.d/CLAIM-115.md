@@ -41,6 +41,14 @@ complements:
 - CLAIM-129
 - CLAIM-133
 - CLAIM-139
+objected_by:
+- CLAIM-tmpc3xwx
+- CLAIM-tmpdwfva
+- CLAIM-tmpgetbr
+- CLAIM-tmphn6za
+- CLAIM-tmplkh2i
+- CLAIM-tmpp41ad
+- CLAIM-tmpqfgjl
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as a later restatement of this thesis, itself replaced -->

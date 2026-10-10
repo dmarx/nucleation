@@ -26,6 +26,8 @@ summary: >-
   sections, without critique.
 complements:
 - CLAIM-128
+objected_by:
+- CLAIM-tmplkh2i
 ---
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->
