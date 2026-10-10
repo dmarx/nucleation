@@ -20,6 +20,7 @@ illustrates:
 - CLAIM-tmpcq79k
 variants:
 - CASE-tmpa82q4
+- CASE-tmpzxkyj
 ---
 <!-- inactive-ok-file: CLAIM-tmpcq79k CLAIM-tmpc25sn — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-130 CLAIM-091 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the model that holds the audience fixed, cited as open -->

@@ -138,3 +138,21 @@ it as the condition for recognising an intention to sound and call the
 hearers' uptake a mistake. The case does not settle that dispute. It does
 move it from an invented case to recorded transcripts, and names the
 elicited test that would settle it. The objection stays open.
+
+## Note of 2026-10-10: an unintended-reading case
+
+[CASE-tmpzxkyj](../cases.d/CASE-tmpzxkyj.md), the Kia Provo (2013), is a case of the kind this objection's
+first answer asks for, an intention held fixed while the audience changes,
+and the intention is the speaker's own published statement, not an analyst's
+attribution as in [CASE-tmpq8ynx](../cases.d/CASE-tmpq8ynx.md). What it does to the intentionalist reply is
+two-sided. When Kia's intention became known, the offended audience revised
+its verdict ("this was a mistake made by the company"), as the intention
+account predicts: the audience's reading was evidence, and better evidence
+corrected it. But Kia withdrew the name for the UK and Ireland after its
+intention was known and accepted, treating it as unusable before that
+audience whatever it meant by it. The reply can call that prudence before a
+foreseeable misreading. The relational view calls it the act changing with
+the audience. So the case removes the multivocal-act escape that
+[CASE-tmpa82q4](../cases.d/CASE-tmpa82q4.md) left open, and moves the dispute to what the withdrawal shows.
+It does not settle it. The act is a naming, and part of the change is a
+lexical collision. The objection stays open.

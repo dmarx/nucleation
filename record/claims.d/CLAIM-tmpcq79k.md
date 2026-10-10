@@ -32,6 +32,7 @@ summary: >-
 illustrated_by:
 - CASE-tmpgdy8a
 - CASE-tmpa82q4
+- CASE-tmpzxkyj
 ---
 <!-- inactive-ok-file: CLAIM-tmp95pjv — Proposed; re-performance fidelity, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
@@ -137,3 +138,19 @@ words do not carry, here inside one language and one broadcast. It does not
 settle whether the audience's role constitutes the act or only evidences it,
 since the speaker designed both readings. The case also lists TV Tropes's
 audience-split lists as a pool of items for [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md).
+
+## Note of 2026-10-10: an unintended-reading case
+
+[CASE-tmpzxkyj](../cases.d/CASE-tmpzxkyj.md) now illustrates the objection as well: the Kia Provo (March
+2013), a concept-car name unchanged across audiences. To the motor press it
+was a coinage without meaning; in Northern Ireland, where "Provo" names a
+member of the Provisional IRA, six MPs' motion said it "has caused deep
+offence". Kia declared no intention to offend and withdrew the name for the UK
+and Ireland. It supplies what [CASE-tmpa82q4](../cases.d/CASE-tmpa82q4.md) lacked: the speaker's intention is
+fixed, declared and innocent, so the change of reading comes from the change
+of audience alone. It does not supply a change of language (the collision is
+with a regional English word), the original audience is the international
+motor press rather than a public, and the act concerned is a naming, so part
+of the change is a lexical collision. The objection's residue, whether a new
+audience holds the role the speaker addressed, is shown again: nothing in the
+name told anyone which audience would hear what.

@@ -214,3 +214,17 @@ cleanest on identical wording.
 - **P. Baker**, *Polari: The Lost Language of Gay Men* (Routledge, 2002),
   ISBN 0415261805. Not read; cited only as where the Julian and Sandy
   evidence would be found.
+
+## Note of 2026-10-10: an unintended-reading case
+
+The owner pointed out that this case's strongest reply is decisive for its
+use: the speaker intended both readings, so an intention-based account
+([CLAIM-tmpc25sn](../claims.d/CLAIM-tmpc25sn.md)) can call it one multivocal act. A further search, which the
+owner asked for, found a case in which the second reading was not intended:
+[CASE-tmpzxkyj](CASE-tmpzxkyj.md), the Kia Provo (2013). A concept-car name, coined "from the word
+'provoke'", was a blank to the motor press and was taken in Northern Ireland
+as honouring the Provisional IRA. Kia declared no such intention and withdrew
+the name for the UK and Ireland. It is filed as a variant of [CASE-tmpgdy8a](CASE-tmpgdy8a.md),
+not of this case. This case keeps the verbal, deliberate instance; the new one
+is the verbal, accidental one. The new case's collision is inside English, so
+it does not supply a change of language either.
