@@ -2,7 +2,7 @@
 
 # Lines of work
 
-57 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+58 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -1043,3 +1043,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-634](../record/literature.d/LIT-634.md) — Inverted Earth *(Active)*
     - [LIT-635](../record/literature.d/LIT-635.md) — Mental Paint *(Active)*
   - [LIT-639](../record/literature.d/LIT-639.md) — The Harder Problem of Consciousness *(Active)*
+
+### From AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models
+
+- [LIT-896](../record/literature.d/LIT-896.md) — AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models *(Active)*
+  - [LIT-897](../record/literature.d/LIT-897.md) — AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis *(Active)* — also extends LIT-898
+- [LIT-898](../record/literature.d/LIT-898.md) — On the Morality of Artificial Agents *(Active)*
+  - [LIT-900](../record/literature.d/LIT-900.md) — The Method of Levels of Abstraction *(Active)*
+  - [LIT-901](../record/literature.d/LIT-901.md) — Distributed Morality in an Information Society *(Active)*
+    - [LIT-899](../record/literature.d/LIT-899.md) — Faultless responsibility: on the nature and allocation of moral responsibility for distributed moral actions *(Active)* — also extends LIT-898

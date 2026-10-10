@@ -6,7 +6,7 @@
 
 **Myth and folklore** — myths, folktales and their variants as objects of study — morphology of the folktale, structural and transformational analysis of myth, and the computational modelling of either (ADR-034).
 
-1 of 206 THEORY documents. Back to the [full index](../README.md).
+1 of 208 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

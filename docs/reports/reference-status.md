@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 4182 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 4251 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1224,7 +1224,7 @@ Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gau
 
 Agency, Shmagency: Why Normativity Won't Come from What Is Constitutive of Action
 
-2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-265.md:151`](../../record/notes.d/NOTE-265.md)
 - [`record/notes.d/NOTE-268.md:201`](../../record/notes.d/NOTE-268.md)
@@ -1422,7 +1422,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 154 other citations of it are acknowledged.
+2 citations in 1 file await a look; 156 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1571,7 +1571,7 @@ Alternative formulations of multilevel selection
 
 Defending Informational Structural Realism: The View of Alternatives
 
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-297.md:133`](../../record/notes.d/NOTE-297.md)
 
@@ -1715,7 +1715,7 @@ Local Urysohn Width: A Topological Complexity Measure for Classification
 
 Group Agency: The Possibility, Design, and Status of Corporate Agents
 
-1 citation in 1 file awaits a look; 35 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 37 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:56`](../../record/decisions.d/ADR-017.md)
 
@@ -1931,7 +1931,7 @@ Neither utility information nor resource holdings, alone or together, can regist
 
 Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind
 
-1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-038.md:99`](../../record/theory.d/THEORY-038.md)
 
@@ -1947,7 +1947,7 @@ Category theory gives radical ontic structural realism no formal support: genera
 
 The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones
 
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-035.md:80`](../../record/decisions.d/ADR-035.md)
 
@@ -1971,7 +1971,7 @@ Iterated learning by Bayesian agents who sample from the posterior converges to 
 
 Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-068.md:102`](../../record/claims.d/CLAIM-068.md)
 

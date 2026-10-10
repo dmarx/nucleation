@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-55 of 696 NOTE documents. Back to the [full index](../README.md).
+55 of 702 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

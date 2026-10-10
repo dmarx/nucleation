@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [10 Oct 05:46 — Floridi's line on artificial agency: six works filed, all read](2026-10.md#floridis-line-on-artificial-agency-six-works-filed-all-read)
 - [10 Oct 04:04 — Four works registered unread to ground claims from the U40–U60 reconstruction](2026-10.md#four-works-registered-unread-to-ground-claims-from-the-u40u60-reconstruction)
 - [9 Oct 20:36 — Thirteen works on hierarchy and hyperbolic geometry](2026-10.md#thirteen-works-on-hierarchy-and-hyperbolic-geometry)
 - [9 Oct 18:18 — Five papers on the theory of trained networks](2026-10.md#five-papers-on-the-theory-of-trained-networks)
@@ -43,9 +44,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-81 entries across 2 books, newest first.
+82 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 34 | 2026-10-01 | 2026-10-10 |
+| [2026-10](2026-10.md) | 35 | 2026-10-01 | 2026-10-10 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
