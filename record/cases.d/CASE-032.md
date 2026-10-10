@@ -11,6 +11,8 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
+illustrates:
+- CLAIM-084
 variant_of:
 - CASE-030
 summary: >-
@@ -21,7 +23,6 @@ summary: >-
   becomes advice.
 supports:
 - CLAIM-028
-- CLAIM-084
 - CLAIM-tmpfe37n
 ---
 

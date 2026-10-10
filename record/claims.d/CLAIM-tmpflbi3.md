@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10. CLAIM-tmpeqvy4 makes the transport a
+    property of a procedure over a class of items, and CLAIM-050 v2
+    states its condition over procedures and a designed distribution
+    of situations.
 role: counter
 tags:
 - mathematical-statistics
@@ -30,6 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-050 CLAIM-126 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: THEORY-156 THEORY-176 — Proposed; cited as the readings of Blackwell's order and of task-loss comparison, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpeqvy4 — Proposed; the record's repair that meets this objection, cited as open -->
 
 # CLAIM-tmpflbi3: Blackwell comparison needs the state each rendering is about, which natural texts do not supply, so a decision measure is fixed by whoever labels the state, and it orders translation procedures, not single renderings
 

@@ -24,7 +24,10 @@ summary: >-
   system, while the line's observables are facts of utterances in use.
   The objection is open. It does not say relational identity is false, only
   that Saussure, read correctly, does not support its transport.
+objected_by:
+- CLAIM-tmpon3g9
 ---
+<!-- inactive-ok-file: CLAIM-tmpon3g9 — Proposed; the record's reply to this objection, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-082, not as settled -->
 <!-- inactive-ok-file: THEORY-159 THEORY-175 — Proposed; the readings of Saussure and of relative representations, cited for what they say, not as settled -->
@@ -98,3 +101,15 @@ paragraph.
 - Or a restatement of [CLAIM-082](CLAIM-082.md) at the level of use, where stance and
   footing live, with a reading that supports a relational account there.
   Saussure would then be precedent, not premise.
+
+## Where it stands
+
+On 2026-10-10 [CLAIM-tmpon3g9](CLAIM-tmpon3g9.md) replied. It grants the premises and denies the
+conclusion: that values do not cross is why fidelity is graded transport,
+not a reason against transport, and the use-level counterpart of value is
+an utterance's contrast with the alternatives its speaker could have used.
+The third point, that value is a fact of *langue* and the observables are
+facts of use, is conceded, and [CLAIM-072](CLAIM-072.md) carries a note that its last
+paragraph overreaches. The objection stays open, because whether that
+use-level counterpart is the structuralist premise restated or a
+replacement for it is arguable.

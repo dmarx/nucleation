@@ -35,6 +35,8 @@ supports:
 - CLAIM-036
 illustrated_by:
 - CASE-019
+complements:
+- CLAIM-tmpon3g9
 ---
 <!-- inactive-ok-file: THEORY-185 — Proposed; cited as a reading that bears on this claim, not as settled -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->

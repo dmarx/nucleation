@@ -45,11 +45,13 @@ supports:
 - CLAIM-115
 - CLAIM-129
 - CLAIM-151
+- CLAIM-tmpc1o4m
 objected_by:
 - CLAIM-053
 - CLAIM-tmpelp3h
 - CLAIM-tmpfe37n
 ---
+<!-- inactive-ok-file: LIT-766 — Deferred; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
 <!-- inactive-ok-file: THEORY-162 — Proposed; context change as part of meaning, cited as support, not as settled -->
 <!-- inactive-ok-file: CLAIM-006 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -94,3 +96,14 @@ The "not sufficient" half now has formal support ([THEORY-162](../theory.d/THEOR
   content.
 
 None of the three addresses footing.
+
+## Note of 2026-10-10: the replies
+
+Two corrections from the audit ([CLAIM-tmpfe37n](CLAIM-tmpfe37n.md)). [CASE-018](../cases.d/CASE-018.md) is a case of the
+same proposition with a different act, which refutes sufficiency; "necessity
+fails in [CASE-018](../cases.d/CASE-018.md), read in reverse" is mistaken, since reading it in reverse
+keeps the words. The necessity half has A12's sentence and one documented
+candidate, [CASE-031](../cases.d/CASE-031.md), pending a reading of [LIT-766](../literature.d/LIT-766.md). The fictional cases in
+`grounds` are existence proofs for the sufficiency half, which is modal;
+they do not bear on how common the dissociation is, which [CLAIM-115](CLAIM-115.md)'s
+comparative test needs. The text above is unchanged.

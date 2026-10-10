@@ -32,6 +32,8 @@ rests_on:
 - CLAIM-077
 complements:
 - CLAIM-115
+- CLAIM-tmp3wo5j
+- CLAIM-tmpcbm69
 uses:
 - TERM-040
 - TERM-043

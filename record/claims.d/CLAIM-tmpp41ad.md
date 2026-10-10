@@ -1,7 +1,16 @@
 ---
-status: Proposed
+status: Active
 title: 'Read as description, the manuscript''s thesis is close to true by definition; read as a criterion, it is a schema until the decision family Q is fixed, and its descriptive defeat condition can test neither reading'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10: CLAIM-115 as written is ambiguous between
+    the two readings, and its condition fits neither. Repaired by
+    CLAIM-tmpc1o4m (the descriptive reading, indexed to receivers and
+    tasks) and CLAIM-tmpvh0gc (the normative reading disclaimed). Status
+    Proposed to Active.
 role: counter
 tags:
 - philosophy-of-language
@@ -22,9 +31,12 @@ summary: >-
   them descriptively: [CLAIM-085](CLAIM-085.md)'s split of normative from descriptive,
   applied to the thesis rather than to model judges. It does not say the
   thesis is empty.
+objected_by:
+- CLAIM-tmpvh0gc
 ---
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-050 CLAIM-061 CLAIM-139 — Proposed; open, cited for the task family Q, the negative clause and the later thesis, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpc1o4m — Proposed; the record's revised thesis of 2026-10-10, open, cited in the history as the repair -->
 
 # CLAIM-tmpp41ad: Read as description, the manuscript's thesis is close to true by definition; read as a criterion, it is a schema until the decision family Q is fixed, and its descriptive defeat condition can test neither reading
 

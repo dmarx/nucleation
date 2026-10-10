@@ -3,12 +3,28 @@ number: 87
 status: Proposed
 formerly:
 - CLAIM-tmpovy47
-title: 'Cross-modal reconstruction can improve access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text''s literal content'
-version: 1
+title: 'Cross-modal reconstruction can improve a receiver''s access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text''s literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do'
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmplkh2i and CLAIM-tmpdt857.
+    Version 1's title read: 'Cross-modal reconstruction can improve
+    access to an implicit communicative relation, as when posture or
+    expression conveys solidarity better than the source text's
+    literal content', and its condition: 'In text→image→text chains,
+    judged access to the source's interpersonal relation never rises
+    above the text-only baseline at any stage.' The improvement is to
+    a receiver's usable information (CLAIM-tmp0jq5k); version 1's
+    'never rises … at any stage' was a universal negative.
 role: thesis
 defeated_if: >-
-  In text→image→text chains, judged access to the source's interpersonal
-  relation never rises above the text-only baseline at any stage.
+  In text→image→text chains whose captioners are blind to the source's
+  situation, the share of items on which receivers' task-indexed access
+  to the source's interpersonal relation rises above the text-only
+  baseline by more than a margin fixed in advance is no greater than a
+  rate fixed in advance.
 tags:
 - compositionality
 - probabilistic-modeling
@@ -21,6 +37,7 @@ summary: >-
   that an adapted receiver may recover an implicit relation.
 complements:
 - CLAIM-076
+- CLAIM-tmp0jq5k
 objected_by:
 - CLAIM-tmplkh2i
 supports:
@@ -28,8 +45,9 @@ supports:
 - CLAIM-tmpwvljf
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmp0jq5k — Proposed; the reconciliation this restatement follows, cited as open -->
 
-# CLAIM-087: Cross-modal reconstruction can improve access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text's literal content
+# CLAIM-087: Cross-modal reconstruction can improve a receiver's access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
 
 ## The claim
 

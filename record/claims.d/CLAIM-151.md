@@ -3,15 +3,34 @@ number: 151
 status: Proposed
 formerly:
 - CLAIM-tmpw83rc
-title: 'Which communicative act an utterance performs is partly constituted by its relations to participants, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
-version: 1
+title: 'Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization'
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmpfe37n, CLAIM-tmpcq79k and
+    CLAIM-tmpc25sn. 'Participants' becomes 'participant roles',
+    TERM-040's positions, so a new audience in the same role keeps the
+    constituent. Version 1's condition asked a rival to predict
+    CASE-018's invented variation and waited on 'a held account'. It is
+    restated on cases with intention held fixed, and on the acts with
+    standing conditions that carry the claim's 'can'. Version 1's title
+    said 'relations to participants, norms and expected uptake', and its
+    condition read: "A held account individuates the acts in question
+    (teasing, reproach, reprimand) by intrinsic features of the
+    utterance token plus speaker-internal states alone. Relations to
+    audience, norms and uptake would then be only evidence of the act,
+    not constituents of it, and that account would predict the CASE-018
+    variation as well."
 role: thesis
 defeated_if: >-
-  A held account individuates the acts in question (teasing, reproach,
-  reprimand) by intrinsic features of the utterance token plus
-  speaker-internal states alone. Relations to audience, norms and uptake
-  would then be only evidence of the act, not constituents of it, and
-  that account would predict the CASE-018 variation as well.
+  An account that individuates acts by the utterance and the speaker's
+  internal states alone classifies correctly the acts with standing
+  conditions the line uses (reprimand, and reproach where it presupposes
+  standing): on documented or elicited cases in which the speaker's
+  intention is held fixed and the speaker's standing or the audience's
+  role changes, the act verdicts of informed participants do not change.
 tags:
 - pragmatics
 - social-ontology
@@ -44,16 +63,19 @@ supports:
 - CLAIM-137
 - CLAIM-139
 - CLAIM-tmpdwfva
+- CLAIM-tmp3wo5j
+- CLAIM-tmpawn12
 objected_by:
 - CLAIM-tmpc25sn
 - CLAIM-tmpcq79k
 - CLAIM-tmpfe37n
 ---
+<!-- inactive-ok-file: CLAIM-tmpcq79k CLAIM-tmpc25sn — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-130 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the dilemma whose intrinsic horn "partly" takes, not as settled -->
 <!-- inactive-ok-file: CLAIM-055 — Superseded; cited as the earlier appearance of the wording "partly constituted" -->
 
-# CLAIM-151: Which communicative act an utterance performs is partly constituted by its relations to participants, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
+# CLAIM-151: Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
 
 ## The claim
 
@@ -95,6 +117,9 @@ manuscript already takes that position "without saying so".
 
 - It does not say every communicative property is relational. It says
   "partly".
+- It does not say that teasing is constituted by relations. That is
+  [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md), and until it is answered the claim's "can change the
+  act" is carried by acts with standing conditions.
 - It does not say utterances, speakers or audiences do not exist. It is a
   thesis about social acts, not about fundamental ontology. A191 §2: "We do
   not need to deny that speakers, utterance tokens, audiences, and physical

@@ -17,9 +17,6 @@ date: '2026-10-08'
 line: pragmatic-transport
 works:
 - what-survives-translation
-grounds:
-- CASE-030
-- CASE-032
 complements:
 - CLAIM-061
 summary: >-
@@ -30,6 +27,9 @@ summary: >-
 objected_by:
 - CLAIM-tmpelp3h
 - CLAIM-tmpfe37n
+illustrated_by:
+- CASE-030
+- CASE-032
 ---
 <!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

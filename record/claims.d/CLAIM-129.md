@@ -4,13 +4,28 @@ status: Proposed
 formerly:
 - CLAIM-tmp1xaiq
 title: 'A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmp3lv11: naturally occurring
+    items added, so that the act is not only the item writers', and a
+    margin. Topic-only factorization stays the comparator, since the
+    claim is about factorizations of a relation family; the strong
+    text-model rival is in CLAIM-tmp3wo5j. Version 1's condition read:
+    "On held-out, correlation-breaking items of a design that crosses
+    topic with act (CASE-040), a topic-only factorization of lexical
+    co-occurrence recovers the act distinction as well as factorizations
+    fitted to interpretive-judgement or uptake data do."
 role: thesis
 defeated_if: >-
   On held-out, correlation-breaking items of a design that crosses topic
-  with act (CASE-040), a topic-only factorization of lexical
-  co-occurrence recovers the act distinction as well as factorizations
-  fitted to interpretive-judgement or uptake data do.
+  with act (CASE-040), and on naturally occurring items whose act is
+  labelled by raters who did not write or select them, a topic-only
+  factorization of lexical co-occurrence recovers the act distinction as
+  well, within a margin fixed in advance, as factorizations fitted to
+  interpretive-judgement or uptake data do.
 tags:
 - pragmatics
 - representation-learning
@@ -40,6 +55,7 @@ illustrated_by:
 objected_by:
 - CLAIM-tmp3lv11
 ---
+<!-- inactive-ok-file: CLAIM-tmp3wo5j — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the thesis this claim complements -->
 

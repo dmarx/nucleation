@@ -106,3 +106,15 @@ nor answered it. Austin and Goffman, whom A187 §8 names, are held unread
 
 The works named here should be checked against the Anthology of the SOTA
 before any is filed.
+
+## Where it stands
+
+Strictly, the defeat condition is not met. It asks for an account that
+individuates "the acts in question (teasing, reproach, reprimand)" by
+intrinsic features and speaker-internal states *alone*, and this objection
+grants that reprimand needs Searle's standing. On 2026-10-10 [CLAIM-151](CLAIM-151.md) was
+restated (version 2) with a defeat condition on the acts with standing
+conditions, which carry the claim's "can change the act", and on cases in
+which the speaker's intention is held fixed. For teasing, the line's central
+case, the rival is unanswered and its literature unread here, and
+[QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) holds it open. The objection stays open.

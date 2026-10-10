@@ -4,13 +4,32 @@ status: Proposed
 formerly:
 - CLAIM-tmpukbg3
 title: 'Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmplkh2i, CLAIM-tmpbvk4j and
+    CLAIM-tmprwo1c. Version 1's 'always carries' could not be
+    established by a study, and read of exact preservation it holds by
+    definition, since global compatibility is a function of the local
+    tables. The restatement concerns steps that keep most contexts, and
+    allows for signalling and for coding (CLAIM-tmprwo1c).
+    CLAIM-tmpbvk4j is conceded; CLAIM-tmp1rlu5 states the form the data
+    leave open. The manuscript's text quoted below is unchanged. Version
+    1's condition read: "Across reconstruction chains, preservation of
+    the context-wise judgement distributions always carries preservation
+    of their global compatibility (overlap consistency, global
+    extension, contextual fraction), so that the global structure adds
+    nothing to predict."
 role: thesis
 defeated_if: >-
-  Across reconstruction chains, preservation of the context-wise
-  judgement distributions always carries preservation of their global
-  compatibility (overlap consistency, global extension, contextual
-  fraction), so that the global structure adds nothing to predict.
+  In documented reconstruction chains, with signalling accounted for and
+  the coding of outcomes fixed in advance, steps that keep the judgement
+  distributions of most contexts within sampling error change neither
+  global extendability nor contextuality in the Contextuality-by-Default
+  sense beyond sampling error, except at a rate no greater than one
+  fixed in advance.
 tags:
 - contextuality
 - philosophy-of-language
@@ -37,7 +56,10 @@ objected_by:
 - CLAIM-tmpbvk4j
 - CLAIM-tmpji66i
 - CLAIM-tmplkh2i
+complements:
+- CLAIM-tmp1rlu5
 ---
+<!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

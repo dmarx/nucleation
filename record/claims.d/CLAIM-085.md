@@ -22,6 +22,7 @@ summary: >-
 supports:
 - CLAIM-tmpp41ad
 - CLAIM-tmpt2k3r
+- CLAIM-tmpvh0gc
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

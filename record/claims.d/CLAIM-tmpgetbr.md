@@ -1,7 +1,18 @@
 ---
-status: Proposed
+status: Active
 title: 'Predictor and criterion in the central defeat tests are both human pragmatic judgements of the same renderings while the baseline is a machine score, so the theory''s measures can win by shared method variance alone'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10: the stated tests compare human-rated
+    predictors with a machine baseline against a human criterion.
+    Repaired by the discriminating study (CASE-tmp1uzfn), whose criterion
+    is behavioural and whose rival predictors are human-rated by other
+    raters, and by the revised theses CLAIM-tmpc1o4m, CLAIM-tmp351uu and
+    CLAIM-tmp3wo5j. CLAIM-115's and CLAIM-139's own conditions are
+    unchanged. Status Proposed to Active.
 role: counter
 tags:
 - psychometrics
@@ -27,6 +38,7 @@ summary: >-
   a design could answer it.
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 — Proposed; open, and cited as the claims this objection is to -->
+<!-- inactive-ok-file: CLAIM-tmpc1o4m CLAIM-tmp351uu CLAIM-tmp3wo5j — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
 # CLAIM-tmpgetbr: Predictor and criterion in the central defeat tests are both human pragmatic judgements of the same renderings while the baseline is a machine score, so the theory's measures can win by shared method variance alone
 

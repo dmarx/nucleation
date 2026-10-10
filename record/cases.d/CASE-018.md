@@ -58,3 +58,9 @@ relational-constitution claim on it ([CLAIM-151](../claims.d/CLAIM-151.md)). A21
 sentence, "A sentence expressing criticism of someone's spending can function
 as affectionate teasing, commiseration, mockery, or normative reprimand", is
 this case with its literary source removed.
+
+## Note of 2026-10-10: the replies
+
+"What it can show" is corrected ([CLAIM-tmpfe37n](../claims.d/CLAIM-tmpfe37n.md)): the same words with
+different acts show that the proposition is not sufficient for the act, not
+that it is not necessary. The text above is unchanged.

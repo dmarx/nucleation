@@ -1,7 +1,18 @@
 ---
-status: Proposed
+status: Active
 title: 'The record''s own reading finds contextuality proper in no behavioural data set, so the headline that translation changes global structure is either about contextuality, for which there is no case but a constructed one, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10: the record's reading finds no contextual
+    behavioural data, so the fixed-scenario form of CLAIM-105's headline
+    has no case but a constructed one. The 2ε bound of the second horn
+    concerns every context moved by ε, not most contexts kept
+    (CLAIM-tmp1rlu5's odd-cycle derivation), but every such case needs a
+    contextual model. CLAIM-tmp1rlu5 states the form the data leave
+    open, a change of cover, and CLAIM-105 v2 restates its condition.
 role: counter
 tags:
 - contextuality
@@ -28,6 +39,7 @@ summary: >-
   objection is open; it does not say a contextual pragmatic data set
   cannot exist.
 ---
+<!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the narrowing of the headline this objection led to, cited in the history -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-038 CLAIM-044 CLAIM-125 CLAIM-078 — Proposed; cited for the distinction from context dependence, as a non-citer of LIT-264, for the signalling counts and for the success criterion, not as settled -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited as CLAIM-105 cites it, not as settled -->

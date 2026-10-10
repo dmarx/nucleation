@@ -65,3 +65,17 @@ Piaget's *Structuralism* ([LIT-837](../literature.d/LIT-837.md), skimmed from th
 [NOTE-618](../notes.d/NOTE-618.md)) makes the same distinction on p. 15. Logico-mathematical
 structures are fully reversible operations, which are groups. Linguistic and
 social transformations are "not entirely reversible".
+
+## Note of 2026-10-10: the replies
+
+[CLAIM-tmpz7og0](CLAIM-tmpz7og0.md) scopes (iii). In total variation, with Markov kernels,
+approximate transports compose with ε₁ + ε₂. If TV(K₁#e_A, e_B) ≤ ε₁ and
+TV(K₂#e_B, e_C) ≤ ε₂, then
+
+TV(K₂#K₁#e_A, e_C) ≤ TV(K₂#K₁#e_A, K₂#e_B) + TV(K₂#e_B, e_C) ≤ ε₁ + ε₂,
+
+the first step by the triangle inequality and the second because every
+Markov kernel is nonexpansive in total variation. So in that setting
+approximate transports form a category in which distortions add. For other
+distortions, which may lack the triangle inequality or meet expansive
+kernels, the category claim waits on [QUESTION-017](../questions.d/QUESTION-017.md). The manuscript's text quoted above is unchanged.

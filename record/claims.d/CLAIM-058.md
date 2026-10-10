@@ -4,12 +4,24 @@ status: Proposed
 formerly:
 - CLAIM-tmpgqdv7
 title: 'Context-conditioned language models give a controlled computational setting in which the theory''s frame, order and transport effects can be tested before human studies'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmpt2k3r: version 1 fired only on
+    a reversal of direction. Version 1's condition read: "Framing and
+    order effects found in models fail to replicate, even in direction,
+    in matched human studies, so that the models test nothing about the
+    theory's claims on pragmatic interpretation."
 role: thesis
 defeated_if: >-
-  Framing and order effects found in models fail to replicate, even in
-  direction, in matched human studies, so that the models test nothing
-  about the theory's claims on pragmatic interpretation.
+  Across several model families and sizes, and on stimuli written after
+  the models' training cut-offs as well as the famous ones, the pattern
+  of framing and order effects across conditions in models fails to
+  match the pattern in matched human studies (a rank correlation of
+  effect sizes below a value fixed in advance), so that the models test
+  nothing about the theory's claims on pragmatic interpretation.
 tags:
 - philosophy-of-language
 - representation-learning

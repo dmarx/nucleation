@@ -28,6 +28,8 @@ summary: >-
   outline v3 without critique.
 objected_by:
 - CLAIM-tmpjuqrl
+complements:
+- CLAIM-tmp9negs
 ---
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as a worked model of this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-046 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -74,3 +76,10 @@ referents. Goodman and Frank's extended model ([LIT-816](../literature.d/LIT-816
 posterior over the world and the speaker's topic, knowledge or lexicon,
 which is an utterance supporting a distribution over the situation of its
 saying.
+
+## Note of 2026-10-10: the replies
+
+[CLAIM-tmp9negs](CLAIM-tmp9negs.md) (2026-10-10): the criterion compares each language's own
+posterior and needs no correspondence of alternative sets. Two consequences:
+a rendering with the source's literal content can fail it, and a target
+language may admit no rendering that passes.

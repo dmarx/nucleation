@@ -28,12 +28,15 @@ summary: >-
   then, but typically leaves source and target incomparable, and the
   direction the manuscript uses says nothing. It does not say
   decision-relative fidelity is wrong.
+objected_by:
+- CLAIM-tmp95pjv
 ---
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-091 CLAIM-074 CLAIM-034 — Proposed; the compensation, interpreter and adaptive-translation claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-125 CLAIM-128 — Proposed; the theses that rest on CLAIM-050, the open problem beside this one and the profile claim, cited as open -->
 <!-- inactive-ok-file: THEORY-156 THEORY-161 — Proposed; cited as the readings of Blackwell and of the decision bound, not as settled -->
 <!-- inactive-ok-file: LIT-778 — Deferred; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
+<!-- inactive-ok-file: CLAIM-tmp95pjv CLAIM-tmpz239h — Proposed; the record's reply to this objection and the directed decision term, cited as open -->
 
 # CLAIM-tmpyeik3: Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent
 
@@ -130,3 +133,15 @@ Either of two things.
 - A restriction of [CLAIM-050](CLAIM-050.md) to decisions about a situation the translation
   does not change, with the side-information case ([QUESTION-016](../questions.d/QUESTION-016.md)) handled by
   a quantitative measure such as deficiency rather than by the order.
+
+## Where it stands
+
+The record's reply of 2026-10-10 is [CLAIM-tmp95pjv](CLAIM-tmp95pjv.md). It answers this
+objection for report fidelity, where both readers decide about the source's
+situation, so the parameter is common and Blackwell's order gives a precise
+verdict, often incomparability: the worked case above is incomparable, as
+[CLAIM-128](CLAIM-128.md) expects, and [CLAIM-tmpz239h](CLAIM-tmpz239h.md)'s directed decision term measures
+each direction of it. The objection stands for re-performance fidelity,
+which needs a correspondence of situations ([QUESTION-005](../questions.d/QUESTION-005.md)). Whether the
+line's central cases are reports or re-performances is open, and
+[CLAIM-tmp95pjv](CLAIM-tmp95pjv.md)'s defeat condition says so. The objection stays Proposed.

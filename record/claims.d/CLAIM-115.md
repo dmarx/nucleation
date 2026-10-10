@@ -41,6 +41,8 @@ complements:
 - CLAIM-129
 - CLAIM-133
 - CLAIM-139
+- CLAIM-tmpc1o4m
+- CLAIM-tmpcbm69
 objected_by:
 - CLAIM-tmpc3xwx
 - CLAIM-tmpdwfva

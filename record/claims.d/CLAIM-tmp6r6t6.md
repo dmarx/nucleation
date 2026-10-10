@@ -29,9 +29,12 @@ summary: >-
   and [CLAIM-139](CLAIM-139.md)'s third disjunct is either always met or never decidable.
   It does not say kinds are unreal, and it is not [CLAIM-150](CLAIM-150.md)'s
   underdetermination of the ontology.
+objected_by:
+- CLAIM-tmpawn12
 ---
 <!-- inactive-ok-file: CLAIM-139 CLAIM-142 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-135 CLAIM-046 CLAIM-137 — Proposed; open, cited as the premises the dilemma uses and a sibling defeat condition, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpawn12 CLAIM-tmp3wo5j — Proposed; the record's replies of 2026-10-10, open, cited in "Where it stands" -->
 
 # CLAIM-tmp6r6t6: If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record's term for a kind says it is not
 
@@ -109,3 +112,16 @@ transport and fidelity clauses, not the ontological one."
 - [CLAIM-139](CLAIM-139.md)'s third disjunct rewritten as an observable comparison: for
   instance, a relational model against a model of the response profiles
   alone, compared on transfer to held-out realizations, media or languages.
+
+## Where it stands
+
+On 2026-10-10 the record replied. [CLAIM-tmpawn12](CLAIM-tmpawn12.md) answers the first horn: no
+claim of the record says a kind outruns every family, only an insufficient
+one, and for a communicative kind the standard of sufficiency is competent
+participants' uptake, so the judges are the criterion a probe family is
+tested against, not one probe among others. [TERM-040](../terms.d/TERM-040.md) version 2 corrects the
+gloss the second horn used: an equivalence class relative to a family cannot
+be unseparated by that same family, but can be by a coarser one. [CLAIM-142](CLAIM-142.md)
+version 2 excludes the trivial probe from its condition. [CLAIM-139](CLAIM-139.md)'s third
+disjunct is replaced only in the revised thesis [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md), so the
+objection stays open until the owner decides on it.

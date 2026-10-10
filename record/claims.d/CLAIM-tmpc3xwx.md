@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'No design in the programme includes an interlingual translation, and the defeat conditions are disjunctive, so English retellings and model chains could settle a thesis about what survives translation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10. Repaired by CASE-tmp1uzfn's interlingual
+    arm, and by CLAIM-tmpc1o4m and CLAIM-tmp3wo5j, whose conditions are
+    decisive in that arm. Status Proposed to Active.
 role: counter
 tags:
 - translation
@@ -30,6 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-033 CLAIM-087 — Proposed; open, cited for the grammar point and a design's target, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpc1o4m CLAIM-tmp3wo5j — Proposed; the record's revised theses of 2026-10-10, open, cited in the history as the repair -->
 
 # CLAIM-tmpc3xwx: No design in the programme includes an interlingual translation, and the defeat conditions are disjunctive, so English retellings and model chains could settle a thesis about what survives translation
 

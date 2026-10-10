@@ -23,6 +23,7 @@ summary: >-
   (captioners blind to the source).
 supports:
 - CLAIM-tmpwvljf
+- CLAIM-tmpx3m7e
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -1,7 +1,18 @@
 ---
-status: Proposed
+status: Rejected
 title: 'Sharing a kind is symmetric and blind to which work is the source, so the October thesis cannot say a translation is of its original, against the line''s own directed, graded fidelity and identity through descent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Rejected on 2026-10-10 by CLAIM-tmp7qr7y: fidelity belongs to a
+    transport (TERM-043) and the October thesis's transport clause
+    supplies the source, so an independent utterance of the same kind
+    shares the kind and has no fidelity to it. The residue, that
+    CLAIM-139's defeat test checks kind-sharing and not direction, is
+    met by CLAIM-tmp3wo5j's transfer disjunct and CLAIM-106's own
+    condition.
 role: counter
 tags:
 - philosophy-of-language
@@ -26,7 +37,10 @@ summary: >-
   ([CLAIM-106](CLAIM-106.md)) and identity partly a matter of transmission ([CLAIM-002](CLAIM-002.md)).
   The objection is open; it does not say descent must be part of
   fidelity, only that the kind criterion cannot state it.
+objected_by:
+- CLAIM-tmp7qr7y
 ---
+<!-- inactive-ok-file: CLAIM-tmp3wo5j — Proposed; the revised October thesis, cited in the history for its transfer disjunct -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-137 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-106 CLAIM-002 — Proposed; the line's directed-fidelity and descent theses this objection rests on, open -->
 

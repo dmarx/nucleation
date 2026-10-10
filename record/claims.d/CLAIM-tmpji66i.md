@@ -1,7 +1,15 @@
 ---
-status: Proposed
+status: Active
 title: 'The line''s proposed quantities have no finite-data estimators, and its evidence that signalling is typical of language data rests on plug-in estimates from one or a few occurrences, which signal even when the true marginals agree'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10. CLAIM-125 v2 reads the signalling counts
+    as weak and rests 'not optional' on NOTE-235's reading of LIT-264
+    and on CLAIM-127's routes. CLAIM-tmpeqvy4 makes deficiency a
+    finite computation over judgement outcomes.
 role: counter
 tags:
 - mathematical-statistics
@@ -33,6 +41,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-125 CLAIM-105 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its separation of corpus from elicitation and its two routes to signalling, open -->
 <!-- inactive-ok-file: THEORY-165 THEORY-168 THEORY-176 THEORY-177 — Proposed; cited for the Lipschitz bound, the representation-dependence of CbD verdicts, task-loss comparison and the signalling identity, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpeqvy4 — Proposed; the record's repair that makes deficiency computable, cited as open -->
 
 # CLAIM-tmpji66i: The line's proposed quantities have no finite-data estimators, and its evidence that signalling is typical of language data rests on plug-in estimates from one or a few occurrences, which signal even when the true marginals agree
 

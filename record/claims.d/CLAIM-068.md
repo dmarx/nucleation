@@ -106,3 +106,10 @@ mechanism for contraction when a large model takes part in transmission. A
 model fitted to reproduce text well on average is least accurate on rare
 material, so it "might" homogenize culture. The paper states this but does
 not test it, so it is weak support.
+
+## Note of 2026-10-10: the replies
+
+[CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md) is conceded: no reading the record holds measures a stance or
+footing along a chain, so the stance extension has no study under it. The
+defeat condition is unchanged. Which transmission-chain studies of social
+and affective content to read is left to the owner.

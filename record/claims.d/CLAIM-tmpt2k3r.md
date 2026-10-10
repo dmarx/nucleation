@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'A language model agreeing with humans in direction is weak evidence, because models are trained on human text about teasing and reproach and the founding stimuli are famous, and the language-model test bed''s defeat condition fires only on a reversal'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10. CLAIM-058 v2 tests the pattern of effects
+    across conditions, across model families, on stimuli written after
+    the training cut-offs.
 role: counter
 tags:
 - representation-learning

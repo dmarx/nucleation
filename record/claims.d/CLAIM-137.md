@@ -29,6 +29,7 @@ grounds:
 complements:
 - CLAIM-136
 - CLAIM-150
+- CLAIM-tmp7qr7y
 uses:
 - TERM-041
 - TERM-040
@@ -133,3 +134,18 @@ invariant, and the step from priority to "guides" is not argued.
   ([CLAIM-150](CLAIM-150.md)).
 - That the manuscript's thesis has changed. No draft carries this, and
   [CLAIM-115](CLAIM-115.md) stands.
+
+## Note of 2026-10-10: the replies
+
+After [CLAIM-tmpt76qw](CLAIM-tmpt76qw.md): comparing characters across media needs one group G
+identified on both. G is anchored if it acts on the situation ([CLAIM-132](CLAIM-132.md)'s
+swap of participants) and each medium's action is induced from that
+action, so each g is named by what it does to the situation; this is
+[CLAIM-011](CLAIM-011.md)'s anchoring. An identification must then commute with the action
+on the situation, so only automorphisms α with α(g)·s = g·s for every g and
+every situation s remain. If G acts faithfully on the situation, that
+forces α(g) = g, and the identity is the only choice left. Unanchored, an
+automorphism can permute the characters: for the cyclic group of order 3
+with χ₁(g^k) = ω^k and χ₂(g^k) = ω^(2k), the automorphism g ↦ g² gives
+χ₁(g^(2k)) = ω^(2k) = χ₂(g^k), so it swaps the two nontrivial characters.
+The owner's position and its defeat condition are unchanged.

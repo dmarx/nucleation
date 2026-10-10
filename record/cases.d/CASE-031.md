@@ -22,6 +22,7 @@ variants:
 - CASE-011
 - CASE-019
 ---
+<!-- inactive-ok-file: CLAIM-061 — Proposed; the claim whose necessity half this case is a candidate for, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-766 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
@@ -46,3 +47,9 @@ That several preservation targets compete, so that no single rendering is
 intelligibility, and context are different preservation targets". The details
 come from the assistant's reading of the episode transcript (A2, A4), and
 [LIT-766](../literature.d/LIT-766.md) is unread here, so the case stands on a report.
+
+## Note of 2026-10-10: the replies
+
+A candidate for the necessity half of [CLAIM-061](../claims.d/CLAIM-061.md) ([CLAIM-tmpfe37n](../claims.d/CLAIM-tmpfe37n.md)): renderings
+that keep the address and tone while changing what is said. It stands on a
+report until [LIT-766](../literature.d/LIT-766.md) is read.

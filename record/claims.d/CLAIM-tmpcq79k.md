@@ -30,6 +30,7 @@ summary: >-
   through translation. The objection is open. It does not say acts never
   survive translation.
 ---
+<!-- inactive-ok-file: CLAIM-tmp95pjv — Proposed; re-performance fidelity, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-138 CLAIM-004 — Proposed; the objection and the distinction this one rests on, open -->
 <!-- inactive-ok-file: CLAIM-091 CLAIM-139 — Proposed; cited for the model of translation and for the clause that inherits CLAIM-151, not as settled -->
@@ -108,3 +109,14 @@ reattributions.
   A new audience in the same role would then keep the constituent, and the
   open part would narrow to whether the target culture's norms define the
   same roles.
+
+## Where it stands
+
+On 2026-10-10 [CLAIM-151](CLAIM-151.md) was restated (version 2) to take this objection's
+second remedy: its constituents are relations to participant roles,
+[TERM-040](../terms.d/TERM-040.md)'s positions ("Promisor and promisee are positions in one kind"),
+so a new audience in the same role keeps them. The objection stays open on
+its residue: whether the target culture's norms define the same roles.
+That is part of the correspondence [QUESTION-005](../questions.d/QUESTION-005.md) asks for, and of
+re-performance fidelity ([CLAIM-tmp95pjv](CLAIM-tmp95pjv.md)). [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) holds open the
+case where it bites hardest, teasing.

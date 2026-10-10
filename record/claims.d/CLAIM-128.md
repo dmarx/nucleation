@@ -20,6 +20,7 @@ rests_on:
 - CLAIM-106
 complements:
 - CLAIM-033
+- CLAIM-tmpnttsk
 uses:
 - TERM-043
 summary: >-

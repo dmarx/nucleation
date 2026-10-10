@@ -30,9 +30,12 @@ summary: >-
   line's own theses say fidelity needs. [CLAIM-140](CLAIM-140.md) is its neighbour: that
   one moves the criterion to the analyst, and neither says it is
   task-free.
+objected_by:
+- CLAIM-tmpnttsk
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-005 CLAIM-078 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-128 CLAIM-074 CLAIM-106 — Proposed; open, and cited as the line's own theses the defeat conditions are inconsistent with, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpnttsk CLAIM-tmpc1o4m CLAIM-tmp3wo5j — Proposed; the record's replies of 2026-10-10, open, cited in "Where it stands" -->
 
 # CLAIM-tmpqfgjl: The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line's own theses say fidelity is task-relative, interpreter-relative and not a single ranking
 
@@ -101,3 +104,15 @@ defined. If the criterion is well defined, those theses are in trouble.
 - A QUESTION refining [QUESTION-002](../questions.d/QUESTION-002.md) could hold the open part: which task and
   which receivers fix the human criterion against which fidelity measures are
   validated?
+
+## Where it stands
+
+On 2026-10-10 the record replied. [CLAIM-tmpnttsk](CLAIM-tmpnttsk.md) answers the dilemma: a
+holistic judgement is fidelity under the judges' default task, a weighting of
+the profile that can be estimated on some renderings and tested on others, so
+it is well defined and consistent with [CLAIM-128](CLAIM-128.md), and a weighting fixed before
+the test leaves no room to blame the task. That the defeat conditions name no
+task or receivers is met by the revised theses [CLAIM-tmpc1o4m](CLAIM-tmpc1o4m.md) and
+[CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md), and is held open in [QUESTION-tmppstva](../questions.d/QUESTION-tmppstva.md). The objection stays
+open until the owner decides on those two, since [CLAIM-115](CLAIM-115.md)'s and [CLAIM-139](CLAIM-139.md)'s
+own conditions are unchanged.

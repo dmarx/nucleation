@@ -1,7 +1,19 @@
 ---
-status: Proposed
+status: Active
 title: 'The only design for the October thesis builds its outcome in: the act is fixed by whoever writes the items, and the topic-only baseline is built to fail on the critical cells'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10 for the constructed items: the act is the
+    writers' and the critical items are built to mislead a lexical
+    model. For CLAIM-129, a claim of possibility, constructed items are
+    a legitimate existence test; CLAIM-129 v2 adds naturally occurring
+    items labelled by raters who did not select them. The strong
+    text-model rival is placed in the central tests (CLAIM-tmp3wo5j),
+    since CLAIM-129 concerns what factorizations of a relation family
+    show.
 role: counter
 tags:
 - philosophy-of-science
@@ -24,6 +36,7 @@ summary: >-
   "What it cannot show" covers neither point. It does not say the design
   is useless as a first pilot.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3wo5j — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-129 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-135 CLAIM-139 CLAIM-127 CLAIM-130 CLAIM-078 — Proposed; open, cited as the claims the design is meant to bear on, those its own limits name, and the success criterion that quotes A218, not as settled -->
 

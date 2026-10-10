@@ -1,7 +1,17 @@
 ---
-status: Proposed
+status: Active
 title: 'Blackwell''s order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line''s claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis''s own defeat condition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10 and reconciled by CLAIM-tmp0jq5k:
+    Blackwell's order is the ceiling on what a rendering makes
+    possible, and a receiver's access is usable information, which a
+    garbling can raise. CLAIM-087 v2 is stated for receivers, and
+    CLAIM-050 v2's condition no longer counts a bounded receiver's
+    gain as a defeat of the order.
 role: counter
 tags:
 - information-theory
@@ -35,6 +45,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-087 CLAIM-081 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for its receiver and its defeat condition, open -->
 <!-- inactive-ok-file: THEORY-156 THEORY-176 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmp0jq5k — Proposed; the record's reconciliation of this objection, cited as open -->
 
 # CLAIM-tmpdt857: Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition
 

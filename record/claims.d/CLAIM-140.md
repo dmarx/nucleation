@@ -25,9 +25,11 @@ summary: >-
   granted because it is a comparison of texts.
 supports:
 - CLAIM-tmp867uz
+- CLAIM-tmpcbm69
 ---
 <!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-074 — Proposed; open, and cited as open: the theses compared and the receiver-side claim are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the earlier thesis that still kept the receiver -->
+<!-- inactive-ok-file: CLAIM-tmpcbm69 CLAIM-tmp3wo5j — Proposed; the record's replies of 2026-10-10, open, cited in the note -->
 
 # CLAIM-140: The October thesis replaces what a receiver can reconstruct with what the analyst's probe system can identify as the test of what survives, and no turn argues the change
 
@@ -77,3 +79,13 @@ fidelity measure non-arbitrary, which is [QUESTION-005](../questions.d/QUESTION-
 building the preferred notion of fidelity into the measurement. It says only
 that the thesis now needs both conditions, or an argument for dropping one. It
 does not say the October thesis is false.
+
+## Note of 2026-10-10: the replies
+
+[CLAIM-tmpcbm69](CLAIM-tmpcbm69.md) is the argument this entry asked for. It keeps both
+conditions, in different roles: recovery fixes what survived, identifiability
+what can be shown to have survived. On this entry's two cases, a distinction
+identifiable but unusable did not survive for those receivers, and one usable
+but unidentifiable survived without evidence of it. The revised October
+thesis [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md) states the fidelity clause so. Both are Proposed;
+[CLAIM-139](CLAIM-139.md) is unchanged.

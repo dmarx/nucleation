@@ -112,3 +112,11 @@ design can show how interpretation responds to information about the
 situation, and not whether the act itself changed. Nor does a clean result
 bear on the ontology. A218: "That doesn't prove OSR, but it establishes the
 kind of empirical result an OSR-inspired theory should explain."
+
+## Note of 2026-10-10: the replies
+
+After [CLAIM-tmp3lv11](../claims.d/CLAIM-tmp3lv11.md): the constructed critical items show possibility, which
+is what [CLAIM-129](../claims.d/CLAIM-129.md) claims; whether judges recover the act from naturally
+occurring text needs the naturally occurring items [CLAIM-129](../claims.d/CLAIM-129.md) v2 adds. A
+report of the models on items whose lexical cue is neutral should accompany
+the critical items.

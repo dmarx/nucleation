@@ -1,7 +1,20 @@
 ---
 status: Active
 title: 'Many of the line''s defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses'' are universal negatives that no finite study establishes'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Narrowed on 2026-10-10 by CLAIM-tmplycte: a defeat condition may be
+    met by argument (luria.yaml: "a kind of result or argument"), so
+    CLAIM-077 and CLAIM-143 can fail by their own conditions. In
+    "Impossibility claims", version 1's "so the admissibility thesis
+    cannot fail by its own condition" now reads "so no study the
+    programme could run meets these conditions; only an argument could".
+    The rest stands, and is repaired by margins in CLAIM-tmpc1o4m,
+    CLAIM-tmp351uu and CLAIM-tmp3wo5j and by the restated conditions of
+    CLAIM-033, CLAIM-087, CLAIM-105 and CLAIM-117. Status unchanged.
 role: granted
 tags:
 - philosophy-of-science
@@ -32,9 +45,12 @@ summary: >-
   needs from them is prevalence and magnitude, which none states. Granted:
   each point is read off the texts. It does not say the theses are false
   or untestable in principle.
+objected_by:
+- CLAIM-tmplycte
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-077 CLAIM-143 CLAIM-087 CLAIM-105 CLAIM-033 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-147 CLAIM-128 CLAIM-117 CLAIM-081 CLAIM-038 CLAIM-044 CLAIM-054 CLAIM-137 CLAIM-061 CLAIM-095 CLAIM-098 — Proposed; open, cited for the wording of their defeat conditions or their place in the chain, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpc1o4m CLAIM-tmp351uu CLAIM-tmp3wo5j — Proposed; the record's revised theses of 2026-10-10, open, cited in the history for their margins -->
 
 # CLAIM-tmplkh2i: Many of the line's defeat conditions cannot in practice be met: the comparative ones are null results with no margin over an observable set the thesis may re-choose, and the possibility theses' are universal negatives that no finite study establishes
 
@@ -100,7 +116,8 @@ theses states a prevalence or a magnitude.
 independently of the transports being compared"; [CLAIM-143](CLAIM-143.md)'s second disjunct
 is that "no correspondence can be validated independently of the fidelity it
 is used to measure". No finite record of failures shows that something cannot
-be done, so the admissibility thesis cannot fail by its own condition. A
+be done, so no study the programme could run meets these conditions; only an
+argument could ([CLAIM-tmplycte](CLAIM-tmplycte.md)). A
 variant is [CLAIM-137](CLAIM-137.md)'s: two realizations agree "on every independently
 anchored relational invariant tried" and are judged different acts. That can
 be met, but meeting it shows only that the invariants tried were incomplete,

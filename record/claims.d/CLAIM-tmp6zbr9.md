@@ -1,7 +1,16 @@
 ---
-status: Proposed
+status: Active
 title: 'The compositional predictions are upper bounds whose constants cannot be estimated from serial-reproduction data in a metric fixed beforehand, so the compositional half of the success criterion cannot fail'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10 for CLAIM-078 and CLAIM-059, restated with
+    kernels estimated from independent retellers, a metric fixed in
+    advance and a prediction interval tested on chains not used in the
+    estimation. CLAIM-056's condition asks for prediction, which a
+    loose bound fails, so it can fail as stated and is unchanged.
 role: counter
 tags:
 - probabilistic-modeling

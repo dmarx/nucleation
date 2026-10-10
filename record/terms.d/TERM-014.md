@@ -22,6 +22,7 @@ used_by:
 - CLAIM-142
 - CLAIM-tmp6r6t6
 - CLAIM-tmpsxsr8
+- CLAIM-tmpawn12
 ---
 <!-- inactive-ok-file: TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: TERM-002 — Superseded; the neighbouring definition this entry was contrasted with, cited as history -->

@@ -27,8 +27,17 @@ used_by:
 - CLAIM-147
 - CLAIM-tmpbi9eb
 - CLAIM-tmpwvljf
+- CLAIM-tmp1rlu5
+- CLAIM-tmp3wo5j
+- CLAIM-tmp7qr7y
+- CLAIM-tmpeqvy4
+- CLAIM-tmpfzcik
+- CLAIM-tmpnttsk
+- CLAIM-tmpx3m7e
+- CLAIM-tmpz239h
 ---
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmpeqvy4 CLAIM-tmpx3m7e CLAIM-tmpz239h — Proposed; the restatements of the components, cited as open -->
 
 # TERM-043: fidelity, as a profile of directed distortions compared component by component
 
@@ -108,3 +117,11 @@ consequence for ranking translations is [CLAIM-128](../claims.d/CLAIM-128.md).
 - **Not a partial order on transports.** Componentwise comparison is a
   partial order on profile vectors, but only a preorder on transports:
   distinct transports can share a profile (R1).
+
+## Note of 2026-10-10: the replies
+
+After the audit: D_obs is restated over a class of items, with one kernel
+family fitted on some and scored on others ([CLAIM-tmpeqvy4](../claims.d/CLAIM-tmpeqvy4.md)), and over both
+covers ([CLAIM-tmpx3m7e](../claims.d/CLAIM-tmpx3m7e.md)); D_dec as the directed positive part of the risk
+increase on the same problem ([CLAIM-tmpz239h](../claims.d/CLAIM-tmpz239h.md)); D_dyn measured on observed
+order effects ([CLAIM-tmpfzcik](../claims.d/CLAIM-tmpfzcik.md)).

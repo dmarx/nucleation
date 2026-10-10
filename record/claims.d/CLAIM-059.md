@@ -4,12 +4,23 @@ status: Proposed
 formerly:
 - CLAIM-tmph3w8f
 title: 'Repeated reconstruction has three regimes, contracting toward conventions, neutral accumulation and amplification, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmp6zbr9: the metric and the
+    estimation of the sensitivities are fixed before the data. Version
+    1's condition read: 'Measured per-generation sensitivity of real
+    reconstruction chains shows no difference between conditions that
+    the theory assigns to different regimes.'
 role: thesis
 defeated_if: >-
-  Measured per-generation sensitivity of real reconstruction chains
-  shows no difference between conditions that the theory assigns to
-  different regimes.
+  Per-generation sensitivities, estimated in a metric fixed in advance
+  (not total variation, in which no Markov step amplifies) from several
+  independent retellers per generation on held-out and perturbed inputs,
+  show no difference between conditions that the theory assigns, in
+  advance, to different regimes.
 tags:
 - complex-systems
 - mathematics

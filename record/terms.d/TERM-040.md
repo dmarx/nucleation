@@ -4,7 +4,18 @@ status: Active
 formerly:
 - TERM-tmp7encb
 title: 'communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    The "What it is not" bullet on observational classes corrected on
+    2026-10-10 (CLAIM-tmp6r6t6, CLAIM-tmpsxsr8): version 1 read "Not an
+    observational class (TERM-014). ... An equivalence class relative to
+    a family of measurements cannot be", which holds only of the same
+    family. Version 2 says so, and points to CLAIM-tmpawn12 for the
+    family that may be sufficient. The definition is unchanged, and
+    A218's quoted words are kept as they were.
 tags:
 - individuation
 - social-ontology
@@ -27,7 +38,11 @@ used_by:
 - CLAIM-tmp6r6t6
 - CLAIM-tmpcq79k
 - CLAIM-tmpsxsr8
+- CLAIM-tmp3wo5j
+- CLAIM-tmp7qr7y
+- CLAIM-tmpawn12
 ---
+<!-- inactive-ok-file: CLAIM-tmpawn12 CLAIM-tmp6r6t6 — Proposed; the record's reply of 2026-10-10 that this version points to, and the objection that prompted it, both open -->
 
 # TERM-040: communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position
 
@@ -65,10 +80,13 @@ single invariant signature to solve two different individuation problems."
 - Not the observations of it. A communicative object as an empirical system
   of constraints ([TERM-042](TERM-042.md)) is a pattern of observations, and a kind is what
   those observations are of.
-- Not an observational class ([TERM-014](TERM-014.md)). A218 Ch7's core claim: "A
-  structural kind may be real while remaining indistinguishable under an
-  insufficient family of empirical probes." An equivalence class relative to
-  a family of measurements cannot be.
+- Not the observational class of the family used to observe it
+  ([TERM-014](TERM-014.md)). A218 Ch7's core claim: "A structural kind may be real
+  while remaining indistinguishable under an insufficient family of empirical
+  probes." An equivalence class relative to a family cannot be unseparated by
+  that same family. It can be by a coarser one, so a kind may coincide with
+  the observational class of a sufficient family; [CLAIM-tmpawn12](../claims.d/CLAIM-tmpawn12.md) proposes
+  competent participants' uptake as that family.
 - Not a position. A kind has positions; it is not one.
 - Not a token. A translation and its source are two events of one kind, not
   one event.

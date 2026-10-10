@@ -1,7 +1,19 @@
 ---
-status: Active
+status: Rejected
 title: 'Under the rational-speech-act model the distribution-over-situations thesis grounds on, a form''s interpretation depends on what else the speaker could have said, so matching source and target posteriors needs a correspondence of alternative sets that translation changes and no entry names'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Rejected on 2026-10-10 by CLAIM-tmp9negs, and the concession made
+    when it was filed as granted is withdrawn on that claim's argument.
+    Its role is left as filed. The worked case stands, and the
+    conclusion does not follow: CLAIM-111's criterion compares each
+    language's own listener posterior, so it needs no correspondence of
+    alternative sets. The case shows the criterion rejecting a literal
+    rendering that loses a scalar implicature. The body below is
+    unchanged.
 role: granted
 tags:
 - pragmatics
@@ -23,6 +35,8 @@ summary: >-
   rendering with the same literal content can carry a different
   posterior. Granted, because it follows from the model as the record
   states it. It does not say the model is wrong or [CLAIM-111](CLAIM-111.md) false.
+objected_by:
+- CLAIM-tmp9negs
 ---
 <!-- inactive-ok-file: CLAIM-111 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; the central theses, cited only to say this claim is not their premise -->

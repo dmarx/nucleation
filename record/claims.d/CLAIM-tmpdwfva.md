@@ -1,7 +1,16 @@
 ---
-status: Proposed
+status: Active
 title: 'The defeat tests pool unnamed judges and treat their disagreement as noise, though the theory makes the act partly constituted by its audience; for historical sources there is no source audience at all, and for interlingual ones population differences are read as distortion'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10. Repaired by CASE-tmp1uzfn: named
+    populations, disagreement modelled, measurement invariance tested on
+    anchor items, and historical sources scoped to a stated modern
+    reading; QUESTION-tmppstva holds the open part. Status Proposed to
+    Active.
 role: counter
 tags:
 - psychometrics

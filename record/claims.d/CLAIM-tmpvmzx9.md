@@ -1,7 +1,14 @@
 ---
-status: Proposed
+status: Active
 title: 'The intertwining defects are defined on unobservable interpretive-state spaces, so they are not identified from judgement data, and the commutator identity bounds observed order effects only with a further, unstated readout-intertwining defect'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Conceded on 2026-10-10. CLAIM-tmpfzcik bounds the observed order
+    effect by observational distortions alone, and CLAIM-117 v2 is
+    stated on observed responses.
 role: counter
 tags:
 - mathematics

@@ -39,6 +39,10 @@ supports:
 - CLAIM-tmps7va1
 objected_by:
 - CLAIM-tmpbi9eb
+complements:
+- CLAIM-tmp7qr7y
+- CLAIM-tmpon3g9
+- CLAIM-tmpz239h
 ---
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-067 — Superseded; replaced, and cited as the history this entry answers or replaces -->
