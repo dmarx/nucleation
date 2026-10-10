@@ -54,7 +54,6 @@ summary: >-
   from Davidson's conceptual schemes, from relativism and from naive
   realism. It proves nothing about GoAs; its value is the vocabulary.
 ---
-<!-- inactive-ok-file: LIT-tmp6juhh — Deferred: the 2025 paper this batch was filed for, unread; named as the work that uses this method, not leaned on -->
 
 # LIT-tmpqbvu8: The Method of Levels of Abstraction
 

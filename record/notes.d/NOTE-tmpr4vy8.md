@@ -33,7 +33,6 @@ summary: >-
   considered an agent" (p. 26), and promises a payoff for distributed
   morality that it does not deliver.
 ---
-<!-- inactive-ok-file: LIT-tmpqgb1s — Floridi 2013, distributed morality, filed unread in the same contribution; named as the paper that takes up what this one promises -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this paper offers an answer to -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as the objection this paper's criteria meet -->
 <!-- inactive-ok-file: LIT-126 — Rejected on its close reading; cited for the sentientist premise this paper is the standard alternative to -->

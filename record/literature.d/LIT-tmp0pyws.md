@@ -41,7 +41,6 @@ summary: >-
 extended_by:
 - LIT-tmp6juhh
 ---
-<!-- inactive-ok-file: LIT-tmp6juhh — not yet read (no full text reachable); cited only as where this editorial's thesis is later developed -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred: named as the open question this editorial does not answer -->
 
 # LIT-tmp0pyws: AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models
@@ -57,7 +56,7 @@ Luciano Floridi (2023), *Philosophy & Technology 36(1): 15* (editorial) — DOI-
 
 ## Standing in the record
 
-Filed on 2026-10-10 at the owner's request, as part of the line of work behind Floridi's "AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis", *Philosophy & Technology* 38:30 (2025), DOI-10.1007/s13347-025-00858-9, filed as [LIT-tmp6juhh](LIT-tmp6juhh.md). That paper takes this editorial's title and develops its thesis. It has not been read here, and nothing in this entry depends on what it says. The anthology holds neither work. This one carries no instruction for machine-learning practice, so it is held here.
+Filed on 2026-10-10 at the owner's request, as part of the line of work behind Floridi's "AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis", *Philosophy & Technology* 38:30 (2025), DOI-10.1007/s13347-025-00858-9, filed as [LIT-tmp6juhh](LIT-tmp6juhh.md). That paper takes this editorial's title and develops its thesis. It was read later the same day ([NOTE-tmpu5qjn](../notes.d/NOTE-tmpu5qjn.md)), and nothing in this entry depends on what it says. The anthology holds neither work. This one carries no instruction for machine-learning practice, so it is held here.
 
 The reading places it **Active**, but as a source for the slogan and its first framing, not as an argument for it. Its value to the record's agency line is that it states a sharp position: success at acting, plus learning to improve, is enough for agency, and no intelligence or understanding is needed. That puts it at the permissive end against the record's organizational account of minimal agency ([LIT-566](LIT-566.md)). It does not give a criterion that would answer [QUESTION-009](../questions.d/QUESTION-009.md).
 
