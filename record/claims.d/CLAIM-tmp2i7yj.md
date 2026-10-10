@@ -34,9 +34,9 @@ summary: >-
   an experiment manipulates. The sharp edge: in a vignette or rating
   study every manipulation is a do(I).
 ---
+<!-- inactive-ok-file: NOTE-tmpyye85 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpw83rc — Proposed; the constitution thesis this claim complements, cited as open -->
-<!-- inactive-ok-file: LIT-tmph1v0q — Deferred; registered unread, cited for the do-operator's definition, not for a reading -->
 
 # CLAIM-tmp2i7yj: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed
 
@@ -108,3 +108,24 @@ identity", which is a do(I). A do(S) needs an interactive or field design,
 where the speaker's role or the conversation's history is actually
 changed, or an interpreter that is a model whose context is the situation
 itself.
+
+## Note of 2026-10-10: the book read in part
+
+[LIT-tmph1v0q](../literature.d/LIT-tmph1v0q.md) has now been skimmed in four excerpts the author posts
+([NOTE-tmpyye85](../notes.d/NOTE-tmpyye85.md)). The rest of the book was not read.
+
+- **The gloss holds.** "do(S = s) replaces S's structural equation and
+  leaves the others in place" is what pp. 158 and 417 say.
+- **"do(I = a) replaces I's" needs a qualification.** The surgery deletes
+  "the equation for" a variable (p. 417), and A129's model, as
+  [CLAIM-127](CLAIM-127.md) quotes it, gives I no equation: I is an exogenous input. So
+  do(I = a) sets I. It does not replace a mechanism unless the model says
+  how I is chosen. The claim's distinction is untouched by this. do(I) and
+  do(S) still act on different variables, and nothing makes their effects
+  on Y equal.
+- **Why a vignette study is a do(I).** On Pearl's account a randomized
+  experiment is a surgery that cuts a variable's usual link and gives it a
+  new mechanism, a coin (p. 418). A rating study that assigns what
+  participants are told does that to I, and to I only. That supports the
+  claim's "sharp edge". A do(S) needs the same cut made on the situation
+  itself.

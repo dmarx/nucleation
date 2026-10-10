@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'filed 2026-10-10 from its Crossref record, not read: it is registered to ground one claim ([CLAIM-tmpc4chg](../claims.d/CLAIM-tmpc4chg.md)) on what it is standardly cited for, the density-matrix consistency condition for closed timelike curves. No NOTE is filed. It stays Deferred until it is read, not on merit.'
+status_note: 'filed 2026-10-10 from its Crossref record, not read: it is registered to ground one claim ([CLAIM-tmpc4chg](../claims.d/CLAIM-tmpc4chg.md)) on what it is standardly cited for, the density-matrix consistency condition for closed timelike curves. No NOTE is filed. It stays Deferred until it is read, not on merit. Looked for on 2026-10-10: the publisher''s page (APS) refused the request, and the only full text found online is a scan of the journal article on a personal site (gwern.net) with no sign of the publisher''s permission, so it was not used.'
 title: 'Quantum mechanics near closed timelike lines'
 version: 1
 history:

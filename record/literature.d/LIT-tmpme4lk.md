@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'registered 2026-10-10 from Crossref''s record and the abstract on PhilSci-Archive, not read. Filed because two new claims cite it: the exchange named it as the position closest to the owner''s, and Chakravartty''s dilemma names it as a target. Open copies exist (PhilSci-Archive preprint 2778; RERO DOC); none was read for this filing. It stays Deferred until it is read, not on merit.'
+status: Active
+status_note: 'read in full 2026-10-10 ([NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)); worth reading as the founding statement of the no-priority, non-eliminative structural realism that Chakravartty''s dilemma targets and that the owner''s individuation thesis was placed beside. It says exactly what that position does with relata no relation discerns: entangled quantum systems of one kind and space-time points in symmetric space-times get a primitive numerical diversity, which the authors deny is a thisness or any kind of identity (pp. 33–34). The GR sections show that the tensor and fibre-bundle formulations fit the view, not that they require it. The one concrete construction of a point''s "structural identity" they cite works only for space-times without symmetries, and it breaks the covariance the view rests on.'
 title: 'Moderate structural realism about space-time'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-10'
@@ -17,28 +17,55 @@ history:
     gateway error on 2026-10-10. Not held in the Anthology of the SOTA: a
     grep of its record/ (clone of 2026-10-09, commit d8b5ba5) for "Esfeld"
     and the DOI found nothing, and no anthology topic holds metaphysics.
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Read in full (the published Synthese article, 160(1): 27–46, 20 PDF pp.,
+    from the open-access copy in the University of Lausanne repository,
+    serval notice BIB_12BD19C94207, IRIS bitstream
+    16e89a03-d044-40f6-887e-77632967557f. The text was extracted with
+    `pdftotext -layout`. I read the abstract and keywords, §§1–5, all 20
+    footnotes and the 44 references. The extraction drops primes, the ≠
+    sign and italics. I rendered pp. 36 and 38 to check them. The paper
+    has no figures. Page numbers are the journal's. I did not compare the
+    PhilSci-Archive preprint.) This is the first NOTE on the paper
+    (NOTE-tmpmrrjk). Status set from the reading: Active. Keywords
+    replaced by the published ones, which add fibre bundles and quantum
+    entanglement. `individuation` added as a third tag, because the
+    identity and numerical diversity of space-time points is the paper's
+    hinge. The summary and body no longer say the paper is unread.
 tags:
 - metaphysics
 - philosophy-of-science
+- individuation
 date: '2026-10-10'
 published: '2006-09-16'
 doi: '10.1007/s11229-006-9076-2'
 first_author: 'Esfeld'
 keywords:
 - 'structural realism'
-- 'structure'
-- 'relations'
-- 'intrinsic properties'
+- 'fibre bundles'
 - 'hole argument'
+- 'intrinsic properties'
+- 'quantum entanglement'
+- 'relations'
 - 'space-time points'
 implementations: []
 summary: >-
   Esfeld & Lam (2008), DOI-10.1007/s11229-006-9076-2, Synthese 160. Moderate
-  structural realism: objects and relations are on the same ontological
-  footing, and objects are characterized only by the relations in which
-  they stand; applied to space-time points in general relativity. Named
-  in the exchange as the position closest to the owner's, and by
-  Chakravartty as a target of his dilemma. Registered unread.
+  structural realism accepts that relations require relata. It denies that
+  the relata need intrinsic properties beyond their relations. Objects and
+  relations are mutually dependent, with no priority either way, and
+  relations supply identity conditions wherever intrinsic properties would.
+  Where nothing discerns the relata (entangled quantum systems of one kind,
+  points of a symmetric space-time), it takes numerical diversity as
+  primitive, and denies that this is a thisness. In general relativity the
+  relata are space-time points, not bare manifold points. They get a
+  "structural identity" from the metric, or from a section of the
+  orthonormal frame bundle. The hole argument counts against epistemic
+  structural realism, and the question of what space-time relations relate
+  counts against the radical version. The case is interpretive fit, not
+  entailment.
 supports:
 - CLAIM-tmp4xhdn
 - CLAIM-tmp8yo01
@@ -53,39 +80,57 @@ Michael Esfeld and Vincent Lam (2008), *Synthese* 160(1): 27–46; online
 
 ## Key takeaways
 
-*Registered from the abstract, not read.*
+*From the reading of 2026-10-10 ([NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)).*
 
-- **A third structural realism.** The paper sets out "a moderate version of
-  metaphysical structural realism" against both Worrall's epistemic
-  structural realism and French and Ladyman's radical ontic one.
-- **No priority either way.** "Objects and relations (structure) are on the
-  same ontological footing, with the objects being characterized only by the
-  relations in which they stand."
-- **Applied to space-time.** It is offered as an understanding of space-time
-  points in the standard tensor formulation of general relativity and in the
-  fibre-bundle formulation. The keywords add the hole argument and intrinsic
-  properties.
+- **A third structural realism.** The paper calls it "a moderate version of
+  metaphysical structural realism", set against both Worrall's epistemic
+  structural realism and French and Ladyman's radical ontic one. It keeps
+  the first premise of the "master argument" for intrinsic properties,
+  "Relations require relata", and denies the second, that relata "necessarily
+  have intrinsic properties over and above the relations" (p. 31).
+- **No priority either way.** "An object as such is nothing but that what
+  bears the relations" (p. 32). Objects and relations are mutually dependent,
+  for existence and for conception.
+- **Relata that nothing discerns.** Concrete relations give identity
+  conditions wherever intrinsic properties could. Where they cannot, the
+  paper accepts "a numerical distinction (diversity)" as primitive. Its
+  cases are entangled quantum systems of one kind and space-time points in
+  symmetric space-times. This "is not a primitive thisness, for it does not
+  establish an identity in time—or any other sort of an identity" (p. 33).
+- **Applied to space-time.** The relata are "space-time points (not bare
+  manifold points!)". The metric gives them a "structural identity" (p. 37),
+  and so, in the fibre-bundle formulation, does a section of the orthonormal
+  frame bundle (pp. 40–41). The hole argument counts against epistemic
+  structural realism, and "what does a space-time relation … relate?" counts
+  against the radical version (pp. 35–36).
 
 ## Standing in the record
 
-Registered on 2026-10-10 because two new claims cite it.
+Registered on 2026-10-10 because two new claims cite it. It was read in full
+the same day.
 
 - The owner's individuation thesis ([CLAIM-tmp8yo01](../claims.d/CLAIM-tmp8yo01.md)) was placed by A194
   "close to the non-eliminative OSR developed by Esfeld and Lam". A191 §2
   modelled its "moderate communicative structural realism" on it, and A218
-  calls it "The closest established metaphysical relative".
+  calls it "The closest established metaphysical relative". The reading
+  finds that the paper holds the claim's weak version (numerical plurality
+  without differentiation), not its strict one.
 - The objection to that thesis ([CLAIM-tmp4xhdn](../claims.d/CLAIM-tmp4xhdn.md)) rests on Chakravartty's
   dilemma ([THEORY-034](../theory.d/THEORY-034.md)). [NOTE-149](../notes.d/NOTE-149.md) records that Chakravartty's fn. 9 names
   Esfeld and Esfeld & Lam among the no-priority views, and that his §10.6
   asks of their "an object as such is nothing but what bears the relations"
-  what the "what" is.
+  what the "what" is. The paper takes the dilemma's no-intrinsic horn. Its
+  answer to the "what" is a bearer whose plurality is primitive.
+  [THEORY-034](../theory.d/THEORY-034.md)'s census, which finds only Floridi on that horn, is now
+  incomplete.
 
-The record already discusses the position without holding the paper: the
-Stanford survey's thesis 4, Esfeld's "moderate structural realism"
-([NOTE-038](../notes.d/NOTE-038.md)), and Morganti's objections to it ([NOTE-095](../notes.d/NOTE-095.md)), which cite Esfeld
-& Lam's later drift toward a substance ontology.
+The record also discusses the position through the Stanford survey's thesis
+4, Esfeld's "moderate structural realism" ([NOTE-038](../notes.d/NOTE-038.md)), and through Morganti's
+objections to it ([NOTE-095](../notes.d/NOTE-095.md)), which cite Esfeld & Lam's later drift toward a
+substance ontology. That drift is in their 2011 paper, not this one.
 
-`Deferred` because nobody here has read it. A reading would say which horn of
-Chakravartty's dilemma the paper takes, and whether its spacetime points have
-any intrinsic identity-fixing feature. That is the question on which the
-objection turns.
+[NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md) is the close reading of 2026-10-10, and it placed the work:
+**Active**. It is worth reading as the founding statement of the no-priority,
+non-eliminative structural realism that Chakravartty's dilemma targets, and
+for what it does with relata no relation discerns. The GR sections show fit,
+not entailment.

@@ -89,3 +89,13 @@ evidence for it.
   collapse problem. The point is what the remedy concedes.
 - Anything about Newman 1928 itself, which is not held. The record knows it
   through [LIT-045](../literature.d/LIT-045.md) only.
+
+## Note of 2026-10-10: Esfeld and Lam's answer
+
+Esfeld and Lam ([LIT-tmpme4lk](../literature.d/LIT-tmpme4lk.md), read in [NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)) answer Newman for
+moderate structural realism by requiring the relations to be concrete and
+determinate, not merely formal. That is the remedy this claim says concedes
+non-structural input. So the record now holds a defender of the position who
+accepts the remedy in that form. Whether "concrete, determinate" relations
+count as non-structural input is the point at issue between them and this
+claim. Their paper does not discuss it in those terms.

@@ -102,3 +102,15 @@ relations.
 - [LIT-045](../literature.d/LIT-045.md): the Stanford Encyclopedia survey. Its collapse objection, that
   OSR reduces to standard realism, is what the intrinsic horn has to face
   next.
+
+## Note of 2026-10-10: a second position of the kind
+
+The title says only Floridi's view, among the record's readings, keeps relata
+while denying them every intrinsic identity-fixing feature. Esfeld and Lam's
+moderate structural realism ([LIT-tmpme4lk](../literature.d/LIT-tmpme4lk.md), read in [NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)) is a second.
+It holds that relata have no fundamental intrinsic properties. Where nothing
+discerns them, it accepts "a numerical distinction (diversity)" as primitive,
+which it says is "not a primitive thisness" nor any other sort of identity
+(p. 33). That meets the first condition of this entry's `promote_when`.
+Whether primitive diversity meets the dilemma is left open here. The title is
+not changed by this note.

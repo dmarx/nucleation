@@ -25,7 +25,6 @@ summary: >-
   dilemma for kinds and not for identity.
 ---
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the held dilemma this objection applies, not as sound -->
-<!-- inactive-ok-file: LIT-tmpme4lk — Deferred; registered unread, cited as the position Chakravartty names and A194 calls close -->
 <!-- inactive-ok-file: CLAIM-tmp8yo01 CLAIM-tmpaedgb — Proposed; the owner's theses this objection presses, both open -->
 
 # CLAIM-tmp4xhdn: A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity
@@ -110,3 +109,30 @@ utterances.
   act tokens can be relationally undifferentiated is open.
 - Anything against the kind claim, whose identity criteria are qualitative by
   construction.
+
+## Note of 2026-10-10: Esfeld & Lam read
+
+Esfeld & Lam ([LIT-tmpme4lk](../literature.d/LIT-tmpme4lk.md)) were read in full on 2026-10-10 ([NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)).
+The reading confirms that their position is the one the dilemma targets. They
+deny basic objects any fundamental intrinsic property, and they reject
+primitive thisness for space-time points by the hole argument (pp. 28, 33).
+It also changes this objection's footing in two ways.
+
+- **The weak option has a physics precedent.** "Leitgeb and Ladyman take the
+  weak option for mathematical places only" is still true of Leitgeb and
+  Ladyman. But Esfeld & Lam take it for entangled quantum systems and for
+  points of symmetric space-times: "one can simply accept a numerical
+  distinction (diversity) … as primitive" (p. 33). "Nothing in the record
+  extends it to persons or utterances" stays true.
+- **The concession step now meets a held reply.** This entry says "A
+  primitive fact of numerical distinctness is a non-relational ground of
+  identity". Esfeld & Lam deny that it is a ground of identity at all. "A
+  numerical distinction is not a primitive thisness, for it does not
+  establish an identity in time—or any other sort of an identity" (p. 33).
+  They add that the situation it answers "is independent of structural
+  realism. Any position in the metaphysics of science has to come to terms
+  with" it. Whether that reply works is open. The record's reading of
+  Chakravartty ([NOTE-149](../notes.d/NOTE-149.md)) does not record him engaging it.
+
+The objection's other step stands: U54 allowed no split between numerical and
+qualitative identity, and A194 and A198 introduced one without saying so.

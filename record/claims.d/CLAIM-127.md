@@ -52,10 +52,10 @@ summary: >-
 supports:
 - CLAIM-tmp2i7yj
 ---
+<!-- inactive-ok-file: NOTE-tmpyye85 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited as the open problem this claim bears on, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp2i7yj CLAIM-052 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-177 — Proposed; Dzhafarov's direct influences, cited for what they imply here, not as settled -->
-<!-- inactive-ok-file: LIT-tmph1v0q — Deferred; registered unread, cited for the do-operator's definition, not for a reading -->
 
 # CLAIM-127: Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context
 
@@ -154,3 +154,36 @@ estimates involve no elicitation at all. It does not say interventions
 violate the no-signalling condition. Nor does it say Pearl's calculus
 applies as it stands. A129's model is schematic, one-step and not
 identified, and the record files no causal model of the interpreter.
+
+## Note of 2026-10-10: the book read in part
+
+[LIT-tmph1v0q](../literature.d/LIT-tmph1v0q.md) has now been skimmed in four excerpts the author posts
+([NOTE-tmpyye85](../notes.d/NOTE-tmpyye85.md)): the contents, the second-edition preface, §§5.3.2–5.4.1
+and the Epilogue. The rest of the book was not read.
+
+- **Version 2's correction holds.** In those pages observing a value is
+  conditioning on it. The conditional bar reads "given that we see" (p.
+  421), E(Y | x) is "the standard conditional or observational
+  expectation" (p. 158), and a passive observation "should not violate any
+  of the equations" (p. 158). The Epilogue names two components of science,
+  "Observations and interventions" (p. 421). The review's three-way list
+  "observation, conditioning, and intervention" is not Pearl's.
+- **The gloss of do() holds.** Under do(X = x) the equation for X "should be
+  overruled and replaced with the equation X = x", and the others are
+  solved as they stand (p. 158; the "surgery" of p. 417).
+- **A sharpening the claim should carry.** Surgery deletes "the equation
+  for" the variable (p. 417). In A129's model as quoted above, I is
+  "externally supplied" and has no equation of its own. When an experiment
+  assigns I and nothing else causes it, intervening on I and conditioning
+  on its assigned value give the same distribution. That follows from the
+  calculus's second rule (p. 423) and is the point of Pearl's account of
+  randomization (p. 418); the inference is the reader's, not a sentence of
+  the excerpts. So for I the do() notation separates something only where
+  I is not assigned, as in corpus data. The claim's case for indexing
+  e_C^a by a, and not adding a to the cover, does not rest on that
+  difference. It concerns where a sits in the formalism, and it stands.
+- **Elicitation.** §5.4.1 separates conditioning on a measurement taken
+  under an intervention, P(y | do(x), z), from intervening on it,
+  P(y | do(x), do(z)) (pp. 160–161). Whether an elicitation C is the first
+  kind or the second is the question this claim's "two routes to
+  signalling" leave open.

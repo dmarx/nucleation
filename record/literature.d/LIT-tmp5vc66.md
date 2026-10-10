@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'registered 2026-10-10 from Crossref''s record, not read. Filed because a new claim grounds on it as the standard source for the classification of finite-group representations by characters; the results that claim uses were checked by reasoning, not against this book. It stays Deferred until it is read, not on merit.'
+status_note: 'registered 2026-10-10 from Crossref''s record, not read. Filed because a new claim grounds on it as the standard source for the classification of finite-group representations by characters; the results that claim uses were checked by reasoning, not against this book. It stays Deferred until it is read, not on merit. Looked for on 2026-10-10: Springer sells it, and the only full text found online is an uploaded scan on a chat server with no sign of the publisher''s permission, so it was not used.'
 title: 'Linear Representations of Finite Groups'
 version: 1
 history:

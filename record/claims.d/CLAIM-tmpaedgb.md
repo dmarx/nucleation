@@ -77,7 +77,8 @@ is not a further object beside the representations. It is the invariant of
 their isomorphism class.
 
 The non-eliminative frame is Esfeld's moderate structural realism, which the
-record holds through the Stanford survey ([LIT-045](../literature.d/LIT-045.md), read in [NOTE-038](../notes.d/NOTE-038.md)):
+record first held through the Stanford survey ([LIT-045](../literature.d/LIT-045.md), read in [NOTE-038](../notes.d/NOTE-038.md)), and now also
+from Esfeld and Lam's own paper ([LIT-tmpme4lk](../literature.d/LIT-tmpme4lk.md), read in [NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)):
 "there are objects, but all their properties are relational". The formal
 precedent is [THEORY-032](../theory.d/THEORY-032.md). The Yoneda lemma also identifies an object only up
 to isomorphism, among objects the category already has, and a character is a

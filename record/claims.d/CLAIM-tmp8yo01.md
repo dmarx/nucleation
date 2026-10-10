@@ -36,7 +36,6 @@ objected_by:
 - CLAIM-tmp4xhdn
 - CLAIM-tmpayhau
 ---
-<!-- inactive-ok-file: LIT-tmpme4lk — Deferred; registered unread, cited for the position A194 named as closest, not leaned on -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the objection this claim must meet -->
 <!-- inactive-ok-file: CLAIM-tmpaedgb CLAIM-tmp4xhdn CLAIM-tmpayhau — Proposed; the companion thesis and the two objections to this one, all open -->
 
@@ -125,3 +124,29 @@ It faces two objections. Chakravartty's dilemma reaches it, and the weak
 version concedes a non-relational ground of identity ([CLAIM-tmp4xhdn](CLAIM-tmp4xhdn.md)). And the
 Newman objection presses on it if its relations are read extensionally
 ([CLAIM-tmpayhau](CLAIM-tmpayhau.md)).
+
+## Note of 2026-10-10: Esfeld & Lam read
+
+Esfeld & Lam ([LIT-tmpme4lk](../literature.d/LIT-tmpme4lk.md)) were read in full on 2026-10-10 ([NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)).
+The reading corrects two things this entry says about them.
+
+- **Esfeld & Lam hold the weak version, not the strict one.** Relations
+  provide identity conditions wherever intrinsic properties could. Where
+  nothing discerns the relata, as with entangled quantum systems of one kind
+  and points of a symmetric space-time, "one can simply accept a numerical
+  distinction (diversity) … as primitive" (p. 33). So when A194 §5, A198 §3
+  and A203 §2 moved from "only in so far as differentiated" to numerical
+  plurality without differentiation, they moved *toward* the view A194 called
+  "close", not away from it. The strict version is stronger than anything
+  Esfeld & Lam assert. The summary's "placed it 'close to' Esfeld and Lam …
+  then weakened it" should be read in that light.
+- **"The weak version has a held precedent, for mathematics only" is no
+  longer true.** Esfeld & Lam make the same move for physical objects (pp.
+  33–34), and they credit it to Pooley (2005). They deny that primitive
+  numerical diversity is a primitive thisness, "for it does not establish an
+  identity in time—or any other sort of an identity" (p. 33). Leitgeb &
+  Ladyman remain the mathematical precedent. Neither text extends the move
+  to communicative acts or persons.
+
+The claim's own content is unchanged. The owner still has to choose between
+the two versions.

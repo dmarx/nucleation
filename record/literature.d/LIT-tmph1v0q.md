@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'registered 2026-10-10 from its Crossref record, not read, to ground the record''s use of the do-operator in [CLAIM-127](../claims.d/CLAIM-127.md) (version 2) and [CLAIM-tmp2i7yj](../claims.d/CLAIM-tmp2i7yj.md). No full text was sought; the book is in print with Cambridge University Press. No NOTE is filed. It stays Deferred until it is read, not on merit.'
+status: Active
+status_note: 'read in part 2026-10-10 ([NOTE-tmpyye85](../notes.d/NOTE-tmpyye85.md)); skimmed in four excerpts the author posts, the contents, the Preface to the Second Edition, §§5.3.2–5.4.1 (pp. 154–163) and the Epilogue (pp. 401–428), and nothing else. Worth reading for its operational meaning of a structural equation (Definition 5.4.1: a claim about Y under ideal control of X, not an algebraic or regression equation), for the coefficient as ∂E[Y | do(x)]/∂x, and for the Epilogue''s plain statement of intervention as surgery on autonomous mechanisms, against observation as conditioning, "given that we see". These excerpts confirm the record''s gloss of do(). Not read: chapters 1–4 and 6–11, so not the identification results, the derivation of the do-calculus, the counterfactual semantics, the treatment of sequential plans (§4.4) or the chapter 11 discussions of whether do(x) represents practical experiments.'
 title: 'Causality: Models, Reasoning, and Inference'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-10'
@@ -20,9 +20,34 @@ history:
     print date, the earliest full date Crossref gives (ADR-002). Not held
     in the Anthology of the SOTA: a grep of its record/ (clone of
     2026-10-09, commit d8b5ba5) for "Pearl" found nothing.
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Read in part (NOTE-tmpyye85, Skimmed): four excerpts of the second
+    edition posted on the author's site, each read in full, and no other
+    copy of the book. (1) The table of contents, pp. vii–xiii,
+    https://bayes.cs.ucla.edu/BOOK-2K/book-toc-final.pdf. (2) The
+    Preface to the Second Edition, p. xix,
+    https://bayes.cs.ucla.edu/BOOK-09/preface-2nd-ed-final.pdf. (3)
+    §§5.3.2–5.4.1, pp. 154–163,
+    https://bayes.cs.ucla.edu/BOOK-09/causality2-ss532-541.pdf, which
+    stops partway into §5.4.2. (4) The Epilogue, "The Art and Science of
+    Cause and Effect" (a UCLA lecture of November 1996), pp. 401–428,
+    https://bayes.cs.ucla.edu/BOOK-09/causality2-epilogue.pdf. That is
+    46 PDF pages. Text was extracted with pdftotext. Where the
+    extraction failed (an author's note laid over the end of §5.3.1 on
+    p. 154, the Greek letters of §5.3, the ≜ and = signs of the
+    Epilogue's equations, the slides), pages were rendered with pdftoppm
+    and read as images. Chapters 1–4 and 6–11, the rest of chapter 5,
+    the first-edition preface, the bibliography and the indexes were
+    not read. Status set from the reading: Active, as for the record's
+    other partially read books. The summary's "structural causal
+    models" is replaced by the excerpts' own terms, and
+    philosophy-of-science is added for the Epilogue.
 tags:
 - causality
 - probabilistic-modeling
+- philosophy-of-science
 date: '2026-10-10'
 published: '2009-09-14'
 doi: '10.1017/CBO9780511803161'
@@ -30,15 +55,19 @@ first_author: 'Pearl'
 keywords: []
 implementations: []
 summary: >-
-  Pearl (2009), second edition, Cambridge University Press. The standard
-  statement of structural causal models and the do-operator, which
-  separates conditioning on an observed value from setting a variable by
-  replacing its structural equation. Registered unread, as the source the
-  record's causal layer cites.
+  Pearl (2009), second edition, Cambridge University Press. Skimmed in
+  four excerpts the author posts: an intervention do(X = x) deletes X's
+  structural equation and solves the rest, while observing X = x
+  violates no equation and is ordinary conditioning, so P(y | do(x)) and
+  P(y | x) differ in general. A structural equation is a claim about Y
+  under ideal control (Definition 5.4.1), and its coefficient is
+  ∂E[Y | do(x)]/∂x, not a regression slope. The rest of the book was not
+  read.
 supports:
 - CLAIM-127
 - CLAIM-tmp2i7yj
 ---
+<!-- inactive-ok-file: NOTE-tmpyye85 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 
 <!-- inactive-ok-file: CLAIM-127 CLAIM-tmp2i7yj — Proposed; the claims this registration grounds, cited as open -->
 
@@ -49,14 +78,40 @@ DOI-10.1017/CBO9780511803161
 
 ## Key takeaways
 
-*Registered, not read.* Nothing below is from the book's text. It records
-only what the record uses the book for.
+From a skim of four excerpts, the contents, the Preface to the Second
+Edition, §§5.3.2–5.4.1 and the Epilogue ([NOTE-tmpyye85](../notes.d/NOTE-tmpyye85.md)). The rest of the
+book was not read.
 
-- **The do-operator.** P(Y | do(X = x)) is the distribution of Y when X is
-  set to x by replacing X's structural equation, the other equations left
-  in place. It differs in general from P(Y | X = x), which conditions on
-  the cases where X happens to be x. A129 §1 uses the distinction in these
-  terms.
+- **The do-operator.** E(Y | do(x)) is "the controlled expectation" and
+  E(Y | x) "the standard conditional or observational expectation" (p.
+  158). Under do(X = x) the equation for X "should be overruled and
+  replaced with the equation X = x", and the solution of the new set is
+  the new equilibrium (p. 158). "The passive observation X = x should not
+  violate any of the equations" (p. 158). In probability, "the vertical
+  bar stands for the phrase: 'given that we see'" (p. 421).
+- **Intervention as surgery.** "Intervention amounts to a surgery on
+  equations (guided by a diagram) and causation means predicting the
+  consequences of such a surgery" (p. 417). It presupposes that each
+  equation is an autonomous mechanism (pp. 414, 420), and it is undefined
+  for equations rewritten into an equivalent form that loses "the
+  equation for Y" (p. 417).
+- **What a structural equation means.** Definition 5.4.1 (p. 160): y =
+  βx + ε is structural if, "in an ideal experiment where we control X to
+  x and any other set Z of variables ... to z, the value y of Y is given
+  by βx + ε, where ε is not a function of the settings x and z". So
+  β = ∂E[Y | do(x)]/∂x (5.24), which "has nothing to do with the
+  regression coefficient" (p. 161), and the error term is
+  ε = y − E[Y | do(x)] (5.25).
+- **Two components, three rules.** "Scientific activity ... consists of
+  two basic components: Observations and interventions" (p. 421). The
+  do-calculus has three rules: ignore an irrelevant observation, exchange
+  an action with an observation of the same fact, ignore an irrelevant
+  action, each licensed by the diagram (pp. 422–423). Their derivation is
+  in chapter 3, which was not read.
+- **What the second edition added** (p. xix): corrections in all ten
+  original chapters, end-of-chapter summaries of new developments with
+  annotated references, and a new chapter 11 on issues readers found
+  "perplexing, objectionable, or in need of elaboration".
 
 ## Standing in the record
 
@@ -65,7 +120,16 @@ Registered on 2026-10-10 so that the record's causal claims name a source.
 intervening on it and intervening on what the interpreter is told.
 [CLAIM-tmp2i7yj](../claims.d/CLAIM-tmp2i7yj.md) draws the experimental consequence of the last two. Both
 rest on the calculus only for the definition of do(); neither uses an
-identification result. A reading would say which of the book's results
-bear on A129's schematic, one-step and unidentified model of the
-interpreter, and what it offers for sequential framing, which needs
-time-indexed states that A129 does not write.
+identification result.
+
+It was filed `Deferred`, unread. [NOTE-tmpyye85](../notes.d/NOTE-tmpyye85.md) is the skim of 2026-10-10,
+of four excerpts posted on the author's site, and it placed the work:
+**Active**. The excerpts bear out the record's use. Observing a value is
+conditioning on it, and do() replaces the variable's equation and keeps
+the others. They also sharpen it, and each claim carries a dated note
+saying how. Surgery needs the variable to have an equation of its own,
+and in A129's model, as [CLAIM-127](../claims.d/CLAIM-127.md) quotes it, the framing variable
+I has none. For an exogenous variable that an
+experiment assigns, conditioning and intervening coincide. A fuller
+reading would take §4.4 (sequential plans), §7.2.3 ("Causal Explanations,
+Utterances, and Their Interpretation") and §11.4 (on the do-operator).
