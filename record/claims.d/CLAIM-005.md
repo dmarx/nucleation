@@ -51,3 +51,21 @@ A24's caveats: "the outcome categories must be made comparable across contexts,
 and the correspondence between contexts cannot be assumed." It is not the whole
 of fidelity: the manuscript adds a structural term and a decision term, and the
 dynamical requirement is [CLAIM-117](CLAIM-117.md).
+
+## Note of 2026-10-10: the contexts must be as fine as the pairing
+
+A181 §4, after the owner's U50 pointer to FID: a generator may produce "the
+correct overall proportions of smiling and stern-looking faces, but
+assign[] them to the wrong prompts", and "Even a perfect measure of the
+unconditional image distribution cannot detect a generator that preserves
+the overall distribution while breaking the association between prompts
+and images". An unconditional distance cannot see a transformation that
+keeps the output distribution and breaks the pairing of inputs with
+outputs.
+
+D(τ) is context-indexed, so it is not unconditional. But the failure
+returns inside a context. Within any context C that pools several source
+items, a target that permutes their renderings leaves e_τ(C)^target
+unchanged. So the contexts must be at least as fine as the pairing that
+fidelity is meant to track. This is elementary, and the manuscript's L_obs
+inherits it. The case beside it is [CASE-tmpp6j2b](../cases.d/CASE-tmpp6j2b.md).

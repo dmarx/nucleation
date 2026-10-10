@@ -67,6 +67,8 @@ extended_by:
 supports:
 - CLAIM-037
 - CLAIM-038
+- CLAIM-tmp2xpga
+- CLAIM-tmpc4chg
 ---
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 

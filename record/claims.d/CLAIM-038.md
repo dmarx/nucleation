@@ -3,8 +3,18 @@ number: 38
 status: Proposed
 formerly:
 - CLAIM-tmpbbjw4
-title: 'A communicative object is a compatible family of local observations over a cover of contexts, and local interpretations need not be fragments of one globally realizable interpretation'
-version: 1
+title: 'A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation'
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Retitled. Read as sections of the event sheaf, "a compatible family
+    of local observations" always glues (CLAIM-tmp2xpga). What can fail to
+    extend is the family of supports or distributions (TERM-tmpgok7x).
+    The change is from A125 §2 and A129 §2, at the owner's U41; A151 §2,
+    A173 and A178 §4.2 restate it. The new wording drops "compatible",
+    which also fits this entry's own finding that language data signal.
 role: thesis
 defeated_if: >-
   Every empirical model of pragmatic judgements, once direct context
@@ -25,7 +35,7 @@ grounds:
 - THEORY-171
 - LIT-843
 uses:
-- TERM-002
+- TERM-tmpgok7x
 summary: >-
   A78, after the owner's U29 pointer to this record's sheaf-
   contextuality readings, which the assistant said it "couldn't reopen".
@@ -35,11 +45,16 @@ supports:
 - CLAIM-105
 complements:
 - CLAIM-043
+- CLAIM-tmp2xpga
+argued_by:
+- ARG-tmpsb1c4
 ---
 <!-- inactive-ok-file: THEORY-171 — Proposed; sheaf condition for causal functions, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-042 CLAIM-119 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: TERM-002 — Superseded; the definition version 1 was stated in, cited as history -->
+<!-- inactive-ok-file: ARG-tmpsb1c4 — Rejected; the physical analogy offered for this claim and declined, cited as such -->
 
-# CLAIM-038: A communicative object is a compatible family of local observations over a cover of contexts, and local interpretations need not be fragments of one globally realizable interpretation
+# CLAIM-038: A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation
 
 ## The claim
 
@@ -55,6 +70,11 @@ local constraints." The example is [CASE-035](../cases.d/CASE-035.md).
 
 Manuscript §3: "The key ontological shift is that an empirical model can remain
 well-defined even without a global hidden meaning state."
+
+Version 2 states the object in [TERM-tmpgok7x](../terms.d/TERM-tmpgok7x.md)'s terms. A compatible family of
+the local sections A78 starts from always glues ([CLAIM-tmp2xpga](CLAIM-tmp2xpga.md)). What need
+not extend to a global interpretation are the supports or distributions
+the data impose on those sections.
 
 ## Where the sources came from
 
@@ -100,3 +120,10 @@ global interpretation.
   independent instance of the non-gluing noted above, from incomparable
   causal pasts (Example 7.2). They also give an example of a gluing that is
   not unique (Example 7.3).
+
+## Physical support offered and declined
+
+The owner twice offered physics as evidence for this claim: closed timelike
+curves at U46, and simultaneity at U47. Both were declined
+([ARG-tmpsb1c4](../arguments.d/ARG-tmpsb1c4.md), undercut by [CLAIM-tmpersh3](CLAIM-tmpersh3.md) and [CLAIM-tmpc4chg](CLAIM-tmpc4chg.md)). The claim does not
+need them. Its evidence is [LIT-016](../literature.d/LIT-016.md) and [CASE-035](../cases.d/CASE-035.md).

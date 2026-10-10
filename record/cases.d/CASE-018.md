@@ -20,9 +20,11 @@ supports:
 - ARG-002
 - CLAIM-061
 - CLAIM-091
+- CLAIM-tmpw83rc
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmpw83rc — Proposed; the claim that grounds on this case, open -->
 
 # CASE-018: "You blow it all on sex and booze", said by a friend, a parent, a judge, a comedian
 
@@ -42,3 +44,14 @@ The necessity half of [CLAIM-061](../claims.d/CLAIM-061.md): the same words, and
 fix the act. It is the premise of the compensation hypothesis ([CLAIM-091](../claims.d/CLAIM-091.md)) and of
 the quantum move ([ARG-002](../arguments.d/ARG-002.md)). Invented, so it shows a possibility; whether readers'
 judgements shift as described is what [CASE-021](CASE-021.md) would test.
+
+## Note of 2026-10-10: two variants
+
+A191 §1 varies it as "You've spent it all again.", which "might be
+affectionate teasing between intimate friends, an accusatory remark from a
+partner, a reprimand from a parent, or a sardonic observation in a comedy".
+A187 §3 uses the original sentence with four readings, and grounds the
+relational-constitution claim on it ([CLAIM-tmpw83rc](../claims.d/CLAIM-tmpw83rc.md)). A218 §1's spending
+sentence, "A sentence expressing criticism of someone's spending can function
+as affectionate teasing, commiseration, mockery, or normative reprimand", is
+this case with its literary source removed.

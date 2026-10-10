@@ -118,3 +118,30 @@ That quantity is each content's least direct influence of context in a
 canonical causal model, which equals the total-variation distance between
 the content's two marginals. Whether classical simulations ([THEORY-174](../theory.d/THEORY-174.md))
 can increase it is not addressed by any work read here.
+
+## Note of 2026-10-10: displaced without argument
+
+Later turns moved this entry aside without arguing against it.
+
+- A203 §36 gives the heading "The most important unresolved mathematical
+  problem" to a different problem: a relational signature that is stable
+  under transformations, sufficient for a family of decisions and
+  discriminating on designated contrasts ([QUESTION-tmp0p9xm](../questions.d/QUESTION-tmp0p9xm.md)).
+- A218's October outline demotes this entry's two parts. In outline v7
+  (A178) they were the first two research questions: RQ1,
+  "Information-preserving transport across changing covers", and RQ2,
+  "Direct contextual effects". In A218 they appear as chapter items:
+  Ch11.7 "Changing observational covers", Ch11.8 "Signalling and direct
+  contextual effects", and Ch16.8 "Changing-cover transport and direct
+  contextual effects". Part 1 survives among the research questions only
+  inside RQ4's general transport question, which names "observational
+  covers" but not decision-relevant information. Signalling has no
+  research question in A218, although the record found signalling typical
+  of language data ([NOTE-654](../notes.d/NOTE-654.md)). A218's priority theorem target is
+  now "identifiability of task-sufficient structure without
+  identifiability of the full latent model".
+
+No turn gives a reason for either move, and nothing in them answers either
+part. Both parts stay open. The narrowed form of [QUESTION-tmp0p9xm](../questions.d/QUESTION-tmp0p9xm.md), for
+decisions outside the observed probes, is the factorization-side analogue
+of part 1.

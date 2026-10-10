@@ -43,6 +43,8 @@ illustrated_by:
 - CASE-027
 supports:
 - CLAIM-115
+- CLAIM-tmp1xaiq
+- CLAIM-tmpw83rc
 objected_by:
 - CLAIM-053
 ---

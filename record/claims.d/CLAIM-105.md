@@ -31,8 +31,11 @@ summary: >-
   along a chain, as its measure. The manuscript keeps the thesis as its
   Abstract's last sentence but drops the measure and the worked examples
   (at C6, per the chunk-5 reader).
+illustrated_by:
+- CASE-tmpg6rwh
 ---
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
+<!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-105: Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
@@ -95,3 +98,14 @@ for Δ_CF:
   fraction is discontinuous, does not hold within a fixed scenario: it is
   Lipschitz in the probability table ([THEORY-165](../theory.d/THEORY-165.md), a derivation from the
   paper's linear programme). Only a change of scenario can make it jump.
+
+## Note of 2026-10-10: A173's request, and the lost pair recovered
+
+A173 asked the entry to acknowledge that classical transports preserve
+noncontextuality. It already does (Theorem 2 of [LIT-265](../literature.d/LIT-265.md); [THEORY-174](../theory.d/THEORY-174.md)). A173's
+"not merely to transport itself" holds only for increases. Coarse-graining
+or mixing can lower contextuality by transport alone. The lost worked pair
+is [CASE-tmpg6rwh](../cases.d/CASE-tmpg6rwh.md) with one context changed: two models that agree on two of
+three contexts and on every marginal, with contextual fraction 1 and 0. The
+headline thesis is still absent from v7 (A178), from the second
+crystallized argument (A203) and from the October outline (A218).

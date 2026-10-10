@@ -19,6 +19,9 @@ summary: >-
   semigroup of §4.
 supports:
 - CLAIM-098
+- CLAIM-tmpe2csg
+complements:
+- CLAIM-tmpersh3
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->

@@ -47,3 +47,10 @@ optional refinement. Not [TERM-021](TERM-021.md) either: A24 compared single jud
 contexts, this compares trajectories under interventions ([TERM-018](TERM-018.md)). The manuscript
 went back to the context form for L_obs (§6) and kept intertwining in §9;
 trajectories appear only in §8 ("how selected invariants ... evolve together").
+
+## Why it is still Active
+
+[TERM-015](TERM-015.md) replaced equivalence as the organizing concept, at the owner's
+U20. Matching over response trajectories survives as the zero-distortion
+limit of [TERM-015](TERM-015.md) and of [TERM-tmpz8i47](TERM-tmpz8i47.md) (A129 §3: "TERM-033 supplies the limiting
+case").

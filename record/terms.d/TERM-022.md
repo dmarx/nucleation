@@ -21,6 +21,7 @@ summary: >-
 used_by:
 - CLAIM-042
 ---
+<!-- inactive-ok-file: TERM-002 — Superseded; the term that replaced this one, itself since superseded, cited as history -->
 
 # TERM-022: communicative object, as an intersection of constraint regions
 

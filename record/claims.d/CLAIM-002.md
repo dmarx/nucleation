@@ -22,6 +22,10 @@ summary: >-
   of translation changes the conditions for subsequent translation"
   possibly "the most consequential". The manuscript keeps a family of
   transformations but not the three relations.
+complements:
+- CLAIM-tmpjzq22
+illustrated_by:
+- CASE-tmpibrot
 ---
 
 # CLAIM-002: A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles

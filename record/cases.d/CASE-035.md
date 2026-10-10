@@ -19,6 +19,10 @@ summary: >-
   The manuscript's §3 version: S = M, M = H and H ≠ S are each
   satisfiable in its own context but admit no global assignment. Stated
   to demonstrate an obstruction, not to describe actual judgements.
+supports:
+- CLAIM-tmpc4chg
+variants:
+- CASE-tmpg6rwh
 ---
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CASE-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
@@ -46,3 +50,16 @@ measurement-consistency conditions and probability models, analogous
 constructions yield formal contextuality tests." A78's diagram labels a
 different but equivalent set (S=M, M≠H, S=H); its caption notes the
 difference. It is the example for [CLAIM-038](../claims.d/CLAIM-038.md).
+
+"Local consistency need not glue" holds in two readings, which should be
+kept apart.
+
+- **Over the supports.** Here no compatible family of support sections
+  exists at all. That is strong contextuality, the grade this case has; the
+  weaker possibilistic grade is a locally possible section that belongs to
+  no compatible family ([TERM-tmpgok7x](../terms.d/TERM-tmpgok7x.md)).
+- **Over the distributions.** Here a compatible family of distributions
+  has no global joint.
+
+The weighted version is [CASE-tmpg6rwh](CASE-tmpg6rwh.md) (A129 §2, A161, and A178's negative
+control).

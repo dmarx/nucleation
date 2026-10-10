@@ -19,6 +19,10 @@ summary: >-
   A38 §11.5 and A40 §7.3, §14.2–14.3, recovered. Dropped with the
   bisimulation section and the ethics discussion, apparently by
   inadvertence; the manuscript keeps only that transport is directed.
+complements:
+- CLAIM-tmpjzq22
+illustrated_by:
+- CASE-tmpibrot
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

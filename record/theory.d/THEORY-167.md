@@ -30,6 +30,9 @@ summary: >-
   It does not say all folktales, or all narratives, share the structure,
   and the claims of a single source tale and of mythic origin are
   conjectures the book does not support.
+supports:
+- CLAIM-tmpgp40l
+- CLAIM-tmpjzq22
 ---
 
 <!-- inactive-ok-file: LIT-775 — Deferred; named for contrast, not leaned on -->
