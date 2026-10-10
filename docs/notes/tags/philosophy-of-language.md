@@ -4,7 +4,7 @@
 
 **philosophy-of-language**.
 
-36 of 696 NOTE documents. Back to the [full index](../README.md).
+37 of 702 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -44,3 +44,4 @@
 | [NOTE-619](../../../record/notes.d/NOTE-619.md) | Semantic Communication: A Survey of Its Theoretical Development | Surveys semantic information theory around three Shannon analogues: semantic entropy (no agreed definition; logical-probability, task, knowledge and context variants), semantic rate–distortion (meaning as a latent state S behind the observation X, with dual distortions), and semantic channel capacity (definitions under which it can exceed Shannon capacity). It adds the information bottleneck, age of information, joint source–channel coding and LLMs as tools, and lists open problems. It catalogues rather than reconciles. | Read |
 | [NOTE-622](../../../record/notes.d/NOTE-622.md) | Making It Explicit | In the core of chapter 3, asserting undertakes a commitment, licenses others to reassert it and takes on a responsibility to show entitlement if challenged. Entitlement passes by justification (across contents) and by deferral (between people), and holds by default until challenged. Each interlocutor keeps score of everyone's commitments and entitlements, so scorekeeping is doubly perspectival. A speech act's significance is the change it makes to the scores, determined by its content's inferential role. | Skimmed |
 | [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
+| [NOTE-697](../../../record/notes.d/NOTE-697.md) | Floridi — AI as agency without intelligence | An editorial, not an argument. LLMs work statistically on the form of texts and understand nothing, yet they act successfully and, through RL fine-tuning, "learn" to act better. Floridi concludes that they are "a new form of agency" that has been "liberated … from intelligence" (pp. 5–6). Learning to make "a different or better difference" is the only mark given that separates it from a sea wave. The no-understanding premise rests on anecdote, and no criteria for agency are stated. | Read |

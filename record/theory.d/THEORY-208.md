@@ -1,5 +1,8 @@
 ---
+number: 208
 status: Proposed
+formerly:
+- THEORY-tmpixb78
 promote_when: >-
   The account would be promoted by its own test carried out. Write one
   level of abstraction, with its observables named, including whatever
@@ -23,14 +26,14 @@ tags:
 - cognition
 date: '2026-10-10'
 source:
-- LIT-tmp6juhh
-- LIT-tmpdg6qq
+- LIT-897
+- LIT-898
 rivals:
 - THEORY-071
 - THEORY-173
 summary: >-
-  Floridi (2025), [LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), read in [NOTE-tmpu5qjn](../notes.d/NOTE-tmpu5qjn.md), with the criteria
-  taken from Floridi & Sanders (2004), [LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md). In the record's
+  Floridi (2025), [LIT-897](../literature.d/LIT-897.md), read in [NOTE-702](../notes.d/NOTE-702.md), with the criteria
+  taken from Floridi & Sanders (2004), [LIT-898](../literature.d/LIT-898.md). In the record's
   reading, agency comes in kinds. All of them share interactivity, and
   the richer ones add graded autonomy and adaptability. The kinds are
   told apart by origin, mechanism and where their goals come from, not
@@ -44,14 +47,14 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection this account accepts -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the question this account leaves open -->
 
-# THEORY-tmpixb78: Agency is multiply realisable without cognition or mental states, and AI is a new kind of it
+# THEORY-208: Agency is multiply realisable without cognition or mental states, and AI is a new kind of it
 
 ## Source
 
-Floridi (2025), [LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), read in [NOTE-tmpu5qjn](../notes.d/NOTE-tmpu5qjn.md): §1 for the thesis,
+Floridi (2025), [LIT-897](../literature.d/LIT-897.md), read in [NOTE-702](../notes.d/NOTE-702.md): §1 for the thesis,
 §4 for the criteria, §§5–13 for the kinds, and §12 for artificial agency.
-The criteria are taken from Floridi & Sanders (2004), [LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md), read in
-[NOTE-tmpr4vy8](../notes.d/NOTE-tmpr4vy8.md), which the 2025 paper follows and loosens.
+The criteria are taken from Floridi & Sanders (2004), [LIT-898](../literature.d/LIT-898.md), read in
+[NOTE-701](../notes.d/NOTE-701.md), which the 2025 paper follows and loosens.
 
 ## What was actually shown
 
@@ -110,5 +113,5 @@ degree. The paper writes none down, so nothing could.
   self-set goals.
 - **[THEORY-043](THEORY-043.md).** The agency here is the thin kind that account treats as
   uncontested.
-- **The 2023 editorial ([LIT-tmp0pyws](../literature.d/LIT-tmp0pyws.md))** states the slogan. This account is
+- **The 2023 editorial ([LIT-896](../literature.d/LIT-896.md))** states the slogan. This account is
   the 2025 paper's development of it.

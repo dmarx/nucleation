@@ -7,10 +7,15 @@ Asserting an invariant: `lineage` on `tags`, `theory` on `tags`, `argument` on `
 
 A relation is an assertion that the documents it joins have something in common. Where no value in the named field is held by both, the record has made the assertion and not said what it means — usually a sign the vocabulary is short a word rather than that the relation is wrong.
 
-**0 unbound relations.** Two documents joined directly, sharing nothing.
+**1 unbound relation.** Two documents joined directly, sharing nothing.
 
-**1 unbound line.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
+| Declared by | Field | Documents | Held |
+|---|---|---|---|
+| lineage | `tags` | [LIT-898](../../record/literature.d/LIT-898.md) ↔ [LIT-900](../../record/literature.d/LIT-900.md) | agency, ethics, social-ontology / epistemology, metaphysics, philosophy-of-science |
+
+**2 unbound lines.** A whole sequence with no value common to every member — which can happen while every single step is expressed, because a component's intersection only shrinks as the component grows. The weaker signal of the two, and the one to read whole before acting on.
 
 | Declared by | Field | Members |
 |---|---|---|
 | lineage | `tags` | [LIT-394](../../record/literature.d/LIT-394.md), [LIT-407](../../record/literature.d/LIT-407.md), [LIT-634](../../record/literature.d/LIT-634.md), [LIT-635](../../record/literature.d/LIT-635.md), [LIT-639](../../record/literature.d/LIT-639.md), [LIT-642](../../record/literature.d/LIT-642.md) |
+| lineage | `tags` | [LIT-896](../../record/literature.d/LIT-896.md), [LIT-897](../../record/literature.d/LIT-897.md), [LIT-898](../../record/literature.d/LIT-898.md), [LIT-899](../../record/literature.d/LIT-899.md), [LIT-900](../../record/literature.d/LIT-900.md), [LIT-901](../../record/literature.d/LIT-901.md) |

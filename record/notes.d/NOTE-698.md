@@ -1,6 +1,9 @@
 ---
+number: 698
 status: Read
-paper: 'LIT-tmpqgb1s'
+formerly:
+- NOTE-tmpiz7db
+paper: 'LIT-901'
 title: 'Floridi — Distributed morality in an information society'
 version: 1
 history:
@@ -37,14 +40,14 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what this paper does and does not supply for it -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as history the paper's usage bears on -->
-<!-- inactive-ok-file: THEORY-127 THEORY-tmpixb78 — Proposed; open, and cited as open, not leaned on -->
+<!-- inactive-ok-file: THEORY-127 THEORY-208 — Proposed; open, and cited as open, not leaned on -->
 <!-- inactive-ok-file: LIT-391 LIT-737 — Deferred, unread; named as the group-agency and commons works this paper's cases touch, not leaned on -->
 
-# NOTE-tmpiz7db: Floridi — Distributed morality in an information society
+# NOTE-698: Floridi — Distributed morality in an information society
 
 ## Contribution
 
-Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md), [NOTE-tmpr4vy8](NOTE-tmpr4vy8.md)) named distributed
+Floridi & Sanders 2004 ([LIT-898](../literature.d/LIT-898.md), [NOTE-701](NOTE-701.md)) named distributed
 morality and said nothing more about it. This paper gives the term a
 narrower scope and a model. DM covers only "cases of moral actions that are
 the result of otherwise morally-neutral or at least morally-negligible …
@@ -269,16 +272,16 @@ aggregators", and improved incentives (pp. 737–738).
 
 ## Connections
 
-**Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md), [NOTE-tmpr4vy8](NOTE-tmpr4vy8.md)).** "I introduced the
+**Floridi & Sanders 2004 ([LIT-898](../literature.d/LIT-898.md), [NOTE-701](NOTE-701.md)).** "I introduced the
 concept of distributed morality (DM) in (Floridi and Sanders 2004)"
 (p. 728). Three things come from that paper: mind-less moral agency, the
 receiver-side LoA at which humans too are "mindless agents" (p. 732), and
 the threshold idea. In 2004 the threshold was a function on observables
-held within a tolerance ([NOTE-tmpr4vy8](NOTE-tmpr4vy8.md), p. 20 of the preprint); here it is
+held within a tolerance ([NOTE-701](NOTE-701.md), p. 20 of the preprint); here it is
 a boundary between moral classes, and it is not formalised. The `extends`
 on the LIT holds: the paper's subject is that paper's named but undeveloped
 concept, and its agents are that paper's mind-less agents. **Does it
-deliver what 2004 promised?** In part. [NOTE-tmpr4vy8](NOTE-tmpr4vy8.md)'s C9 was that the
+deliver what 2004 promised?** In part. [NOTE-701](NOTE-701.md)'s C9 was that the
 approach "makes distributed morality intelligible", and that it was
 "promised … and only named". This paper does make the phenomenon
 intelligible: it gives a definition, a mechanism (thresholds and
@@ -289,18 +292,18 @@ definition ("non-individual responsibilities", p. 728) and in one verdict,
 on the speeder. None of the 2004 machinery is used: interactivity, autonomy
 and adaptability, criterion (O), the split between accountability and
 responsibility. The allocation of responsibility for DM is left to Floridi
-2016 ([LIT-tmplkm3o](../literature.d/LIT-tmplkm3o.md), Deferred), whose title, "moral responsibility for
+2016 ([LIT-899](../literature.d/LIT-899.md), Deferred), whose title, "moral responsibility for
 distributed moral actions", names the gap. A reading of that paper should
 start from here.
 
-**The method of abstraction ([LIT-tmpqbvu8](../literature.d/LIT-tmpqbvu8.md), [NOTE-tmpnwh69](NOTE-tmpnwh69.md)).** Cited twice, in
+**The method of abstraction ([LIT-900](../literature.d/LIT-900.md), [NOTE-700](NOTE-700.md)).** Cited twice, in
 fn. 1 for the supra-agent's knowledge and at p. 732 for the minimal LoA. As
-in Floridi 2025 ([NOTE-tmpu5qjn](NOTE-tmpu5qjn.md)), the LoA is the analyst's, not the system's.
+in Floridi 2025 ([NOTE-702](NOTE-702.md)), the LoA is the analyst's, not the system's.
 No observables are named and no relation between LoAs is used. The paper
 would read the same without the citation, so no `extends` to Floridi 2008
 is written.
 
-**Floridi 2025 ([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), [NOTE-tmpu5qjn](NOTE-tmpu5qjn.md)).** That paper cites this one in a
+**Floridi 2025 ([LIT-897](../literature.d/LIT-897.md), [NOTE-702](NOTE-702.md)).** That paper cites this one in a
 single sentence, as part of Floridi's answer to responsibility gaps.
 Read now, this paper does not answer responsibility gaps; it describes how
 outcomes without culpable parts arise. The 2025 citation therefore points
@@ -358,14 +361,14 @@ similar studies about … an infraethics is understandable", p. 739).
   carries no implication of individual, self or person, and "supra-agent"
   carries none of individuality. A document that cites it should not take
   "big agents" (p. 742) to mean unified individuals.
-- **[THEORY-tmpixb78](../theory.d/THEORY-tmpixb78.md)** (agency is multiply realisable without mental
+- **[THEORY-208](../theory.d/THEORY-208.md)** (agency is multiply realisable without mental
   states). This paper gives that theory no support beyond Floridi & Sanders.
   It assumes mind-less agents from the start ("any talk of beliefs, desires,
   intentions and motivations would be merely metaphoric", p. 732) and
   argues nothing about them.
 - **No THEORY is filed from this reading.** The record's practice for the
   comparable conceptual readings in this line is not to file one: none for
-  Floridi & Sanders 2004 ([NOTE-tmpr4vy8](NOTE-tmpr4vy8.md)), none for Floridi 2008 ([NOTE-tmpnwh69](NOTE-tmpnwh69.md)),
+  Floridi & Sanders 2004 ([NOTE-701](NOTE-701.md)), none for Floridi 2008 ([NOTE-700](NOTE-700.md)),
   none for ISR ([NOTE-099](NOTE-099.md)). The paper offers a model and a coinage, not a
   claim about the world with evidence that a THEORY could carry. If the
   record later states a theory of moral thresholds or of infraethics, this
@@ -448,7 +451,7 @@ similar studies about … an infraethics is understandable", p. 739).
 - What sets the threshold? Until something does, "morally negligible" and
   so "DM" are relative to an evaluator's choice, as Floridi & Sanders' LoAs
   are.
-- Does the 2016 paper ([LIT-tmplkm3o](../literature.d/LIT-tmplkm3o.md)) keep distributed knowledge, or switch
+- Does the 2016 paper ([LIT-899](../literature.d/LIT-899.md)) keep distributed knowledge, or switch
   to common knowledge, as its abstract suggests? The two are at opposite
   ends of the group-knowledge hierarchy. Distributed knowledge is what the
   pooled group would know; common knowledge is what everyone knows that

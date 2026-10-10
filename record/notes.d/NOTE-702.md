@@ -1,6 +1,9 @@
 ---
+number: 702
 status: Read
-paper: 'LIT-tmp6juhh'
+formerly:
+- NOTE-tmpu5qjn
+paper: 'LIT-897'
 title: 'Floridi — AI as agency without intelligence and the MRA thesis'
 version: 1
 history:
@@ -31,15 +34,15 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the open question this paper does not answer -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection the paper's criteria meet, not as standing -->
 <!-- inactive-ok-file: THEORY-071 THEORY-173 THEORY-043 THEORY-065 THEORY-075 — Proposed; named as rival or adjacent accounts, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmpixb78 — Proposed; the record's statement of this paper's account, filed from this reading -->
+<!-- inactive-ok-file: THEORY-208 — Proposed; the record's statement of this paper's account, filed from this reading -->
 <!-- inactive-ok-file: LIT-117 — Deferred, unread; named for the constitutivist question, not leaned on -->
 <!-- inactive-ok-file: LIT-534 — Deferred, unread; named as a cited work the record holds -->
 
-# NOTE-tmpu5qjn: Floridi — AI as agency without intelligence and the MRA thesis
+# NOTE-702: Floridi — AI as agency without intelligence and the MRA thesis
 
 ## Contribution
 
-The 2023 editorial ([LIT-tmp0pyws](../literature.d/LIT-tmp0pyws.md), [NOTE-tmp3l02m](NOTE-tmp3l02m.md)) asserted that LLMs are agents without intelligence and gave no criteria. This paper supplies two things. It names the thesis: the Multiple Realisability of Agency (MRA), set against the Artificial Realisability of Intelligence (ARI). And it gives a taxonomy of kinds of agency (natural, biological, animal social, artefactual, human individual, human social, artificial, social artificial) organised by Floridi & Sanders' three criteria ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)) and placed under the Method of Abstraction ([LIT-tmpqbvu8](../literature.d/LIT-tmpqbvu8.md)). What is new after it is a single citable statement of where Floridi puts AI among agents: "a computational, goal-driven form of agency defined by human purposes" (p. 18), with Agentic AI as its collective form (§13). The argument for MRA over ARI, which the title and the outline promise, is not in it.
+The 2023 editorial ([LIT-896](../literature.d/LIT-896.md), [NOTE-697](NOTE-697.md)) asserted that LLMs are agents without intelligence and gave no criteria. This paper supplies two things. It names the thesis: the Multiple Realisability of Agency (MRA), set against the Artificial Realisability of Intelligence (ARI). And it gives a taxonomy of kinds of agency (natural, biological, animal social, artefactual, human individual, human social, artificial, social artificial) organised by Floridi & Sanders' three criteria ([LIT-898](../literature.d/LIT-898.md)) and placed under the Method of Abstraction ([LIT-900](../literature.d/LIT-900.md)). What is new after it is a single citable statement of where Floridi puts AI among agents: "a computational, goal-driven form of agency defined by human purposes" (p. 18), with Agentic AI as its collective form (§13). The argument for MRA over ARI, which the title and the outline promise, is not in it.
 
 ## Key insight
 
@@ -52,7 +55,7 @@ Stop asking whether AI is intelligent, and ask what kind of agent it is. Agency 
 - **No definition of agency.** "I do not attempt to define agency formally, in terms of necessary and jointly sufficient conditions" (p. 3). Agency, like intelligence, democracy and love, is a cluster concept, identified by "clusters of overlapping features" in a Wittgensteinian sense (pp. 3–4).
 - **An adverbial theory of abstract nouns.** "'intelligence' should be understood as a shorthand for 'behaving intelligently' … not for something that a system has or fails to have" (p. 3, after Chisholm, fn. 1).
 - **The LoA is the analyst's, used "in a Kantian sense".** It is "focusing on the ontology of the model rather than the metaphysics of the system being modelled" (p. 5). Observables need not be behavioural, and "'mental states' can qualify as observables" (p. 5).
-- **Pluralism without relativism, by purpose.** LoAs "can be assessed as better or worse depending on the specific purpose for which they are adopted" (p. 5). This is [NOTE-tmpnwh69](NOTE-tmpnwh69.md)'s C8, unchanged.
+- **Pluralism without relativism, by purpose.** LoAs "can be assessed as better or worse depending on the specific purpose for which they are adopted" (p. 5). This is [NOTE-700](NOTE-700.md)'s C8, unchanged.
 
 ## Key results
 
@@ -103,7 +106,7 @@ Two things follow, and the paper draws neither. First, the three criteria separa
 
 ## Method
 
-The paper uses conceptual taxonomy. It defines three graded criteria and describes each kind of agency in four parts: definition, example, limitations and implications. Then it compares the kinds in prose (§11). The Method of Abstraction is introduced in §2, and an illustration (the thermostat at four LoAs) is the only place it is applied. The formal machinery of [LIT-tmpqbvu8](../literature.d/LIT-tmpqbvu8.md) (typed observables, moderated LoAs, gradients) and of [LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md) (transition systems) does not appear.
+The paper uses conceptual taxonomy. It defines three graded criteria and describes each kind of agency in four parts: definition, example, limitations and implications. Then it compares the kinds in prose (§11). The Method of Abstraction is introduced in §2, and an illustration (the thermostat at four LoAs) is the only place it is applied. The formal machinery of [LIT-900](../literature.d/LIT-900.md) (typed observables, moderated LoAs, gradients) and of [LIT-898](../literature.d/LIT-898.md) (transition systems) does not appear.
 
 ## Concepts
 
@@ -118,16 +121,16 @@ The paper uses conceptual taxonomy. It defines three graded criteria and describ
 
 ## Connections
 
-**What it adds to the 2023 editorial ([NOTE-tmp3l02m](NOTE-tmp3l02m.md)).** The title, the slogan and the denial of understanding are kept. The paper adds what [NOTE-tmp3l02m](NOTE-tmp3l02m.md) found missing. There are now criteria (the three), a place for the method of abstraction, and a placing of LLMs among other agents. The editorial's one demarcation, that a sea wave "can make nothing but that difference" (2023, p. 5), is changed in kind. A river is now a natural agent (p. 9). The line it drew between agents and mere causes has become a line between two kinds of agent. The editorial's remark that RL fine-tuning "solves agency" is dropped. Base and fine-tuned models are not distinguished.
+**What it adds to the 2023 editorial ([NOTE-697](NOTE-697.md)).** The title, the slogan and the denial of understanding are kept. The paper adds what [NOTE-697](NOTE-697.md) found missing. There are now criteria (the three), a place for the method of abstraction, and a placing of LLMs among other agents. The editorial's one demarcation, that a sea wave "can make nothing but that difference" (2023, p. 5), is changed in kind. A river is now a natural agent (p. 9). The line it drew between agents and mere causes has become a line between two kinds of agent. The editorial's remark that RL fine-tuning "solves agency" is dropped. Base and fine-tuned models are not distinguished.
 
-**What it changes from Floridi & Sanders 2004 ([NOTE-tmpr4vy8](NOTE-tmpr4vy8.md)).** It takes the three criteria explicitly (p. 7). That is the reason for the `extends` on the LIT. Three changes come with them, and the paper marks none of them as a change.
+**What it changes from Floridi & Sanders 2004 ([NOTE-701](NOTE-701.md)).** It takes the three criteria explicitly (p. 7). That is the reason for the `extends` on the LIT. Three changes come with them, and the paper marks none of them as a change.
 - *Agency no longer needs all three.* In 2004 an agent at the proposed LoA had to be interactive, autonomous and adaptable. The postbox and the mill, interactive only, were not agents (2004, Fig. 2). In 2025, interactivity alone gives natural agency. Floridi & Sanders' "for most entities there is no LoA at which they can be considered an agent" (2004, p. 26 of the preprint) is not repeated, and it is hard to square with C3.
 - *Adaptability is weaker.* In 2004 the interactions "(can) change the transition rules". In 2025 the agent modifies "its behaviour based on input" (p. 8). Read literally, this is met by anything whose output depends on its input, which is interactivity again. The MENACE analysis, on whether a rule change seen in the code is adaptation at all, is not taken up.
 - *Moral agency drops out.* Accountability, responsibility, criterion (O) and thresholds are absent. Morality appears as a mark of the human kind (p. 15) and as a governance problem (§§12.3, 14).
 
-**The method of abstraction ([NOTE-tmpnwh69](NOTE-tmpnwh69.md)).** The paper cites Floridi 2008 for the method (p. 4) and uses its vocabulary: interface, observable, non-hierarchical levels, metábasis, pluralism without relativism. That reading asked whether an agency claim names the system's own LoA or the analyst's. The answer here is the analyst's. The "Kantian sense" (p. 5) makes that explicit. It also asked whether any argument in the agency papers uses a relation between LoAs. None does. No `extends` to Floridi 2008 is written. The method is named and illustrated, but nothing in the comparison depends on it, and the comparison would read the same without §2.
+**The method of abstraction ([NOTE-700](NOTE-700.md)).** The paper cites Floridi 2008 for the method (p. 4) and uses its vocabulary: interface, observable, non-hierarchical levels, metábasis, pluralism without relativism. That reading asked whether an agency claim names the system's own LoA or the analyst's. The answer here is the analyst's. The "Kantian sense" (p. 5) makes that explicit. It also asked whether any argument in the agency papers uses a relation between LoAs. None does. No `extends` to Floridi 2008 is written. The method is named and illustrated, but nothing in the comparison depends on it, and the comparison would read the same without §2.
 
-**Distributed morality ([LIT-tmpqgb1s](../literature.d/LIT-tmpqgb1s.md), [LIT-tmplkm3o](../literature.d/LIT-tmplkm3o.md)).** These are cited in one sentence as Floridi's answer to responsibility gaps (p. 6). The taxonomy is not connected to them. Agentic AI's emergent behaviours make "traditional models … inadequate" (p. 23), but the paper does not say whether distributed morality is the replacement.
+**Distributed morality ([LIT-901](../literature.d/LIT-901.md), [LIT-899](../literature.d/LIT-899.md)).** These are cited in one sentence as Floridi's answer to responsibility gaps (p. 6). The taxonomy is not connected to them. Agentic AI's emergent behaviours make "traditional models … inadequate" (p. 23), but the paper does not say whether distributed morality is the replacement.
 
 **Other held works it cites.** Frankfurt 1971 ([LIT-692](../literature.d/LIT-692.md), [NOTE-545](NOTE-545.md)) is cited once, for the moral dimension of human agency: "a form of agency that incorporates moral consideration into decision-making and action" (p. 15). That is not what Frankfurt's paper is about. The nearer point of contact is uncited: AI's inability to "choose whether to choose" (p. 19) is the higher-order structure Frankfurt uses to mark persons off from wantons. Frankfurt's wantons are agents who are not persons. That is the same cut MRA makes, from the other side. Prigogine & Stengers 1984 ([LIT-534](../literature.d/LIT-534.md), unread) is cited for the limits of natural agency (p. 10). Dennett is cited for *Kinds of Minds* (1996, not held) on interactivity and biological limits (pp. 7, 11). Nothing else in the 59 references is held. List 2021, Dung 2024, Popa 2021, van Lier 2023 and Himma 2009 remain unregistered. The paper surveys them and does not engage them.
 
@@ -143,7 +146,7 @@ The paper uses conceptual taxonomy. It defines three graded criteria and describ
 - **[THEORY-173](../theory.d/THEORY-173.md) (large models are a cultural and social technology, not agents).** Also a rival. It agrees on the facts Floridi asserts: no understanding, statistical processing, goals not the model's own. It reaches the opposite verdict on agency, because its criterion for an agent includes setting novel goals and revising a world model from evidence. Floridi denies AI the first (p. 19), so by that criterion his artificial agents are not agents. The dispute between the two is about the criterion, and neither states a case that would decide it.
 - **[THEORY-043](../theory.d/THEORY-043.md) (agency survives both directions).** The agency that account calls uncontested is the thin kind. Floridi's is that kind, whatever he calls it. His refusal of the label "functionalist" (p. 5) rests on observables not being behavioural, and that does not make the criteria thicker.
 - **Constitutivism ([LIT-117](../literature.d/LIT-117.md), unread; [THEORY-065](../theory.d/THEORY-065.md), [THEORY-075](../theory.d/THEORY-075.md)).** The paper offers constitutivists nothing. Its agency has no constitutive aim and no definition, and it ties duties to the human kind (p. 15), not to agency as such. A river's agency is the clearest case yet of an agency from which no norm could follow. Whether that counts as a "shmagency" in Enoch's sense is for a reading of [LIT-117](../literature.d/LIT-117.md) to say.
-- **A THEORY is filed from this reading** ([THEORY-tmpixb78](../theory.d/THEORY-tmpixb78.md)). It is Proposed, on the record's practice for comparable accounts of agency ([THEORY-071](../theory.d/THEORY-071.md), [THEORY-173](../theory.d/THEORY-173.md)). It states MRA as the record reads it: graded criteria, kinds marked by origin, mechanism and goal source, with AI placed as computational agency serving goals set by humans. It carries C1 and C5 as open liabilities.
+- **A THEORY is filed from this reading** ([THEORY-208](../theory.d/THEORY-208.md)). It is Proposed, on the record's practice for comparable accounts of agency ([THEORY-071](../theory.d/THEORY-071.md), [THEORY-173](../theory.d/THEORY-173.md)). It states MRA as the record reads it: graded criteria, kinds marked by origin, mechanism and goal source, with AI placed as computational agency serving goals set by humans. It carries C1 and C5 as open liabilities.
 - **No instruction for machine-learning practice.** The development remarks, "prioritising reliability and reproducibility" (p. 20) and working "within its distinct agency type rather than attempting to replicate human … intelligence" (p. 20), are orientation, not technique. The governance remarks are policy, not ML practice. The anthology holds none of this line.
 
 ## Limitations

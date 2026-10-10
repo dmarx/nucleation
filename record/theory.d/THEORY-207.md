@@ -1,5 +1,8 @@
 ---
+number: 207
 status: Proposed
+formerly:
+- THEORY-tmphi5o9
 promote_when: >-
   Two separable things. For the allocation rule: a criterion for which
   nodes are in the causally accountable network, and for when the default
@@ -24,9 +27,9 @@ tags:
 - society-and-governance
 date: '2026-10-10'
 source:
-- LIT-tmplkm3o
+- LIT-899
 summary: >-
-  Floridi (2016), [LIT-tmplkm3o](../literature.d/LIT-tmplkm3o.md), read in [NOTE-tmpkq4jw](../notes.d/NOTE-tmpkq4jw.md). A distributed
+  Floridi (2016), [LIT-899](../literature.d/LIT-899.md), read in [NOTE-699](../notes.d/NOTE-699.md). A distributed
   moral action is an outcome no one intended. Floridi proposes holding
   every causally accountable node "prima facie equally and maximally
   responsible", overridably, with the rule publicly announced so that
@@ -39,11 +42,11 @@ summary: >-
 <!-- inactive-ok-file: THEORY-139 THEORY-147 — Proposed; named as adjacent accounts of responsibility, nothing here rests on them -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the question this account does not answer -->
 
-# THEORY-tmphi5o9: Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes
+# THEORY-207: Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes
 
 ## Source
 
-Floridi (2016), [LIT-tmplkm3o](../literature.d/LIT-tmplkm3o.md), read in full in [NOTE-tmpkq4jw](../notes.d/NOTE-tmpkq4jw.md). It is the second half of a pair with Floridi 2013 ([LIT-tmpqgb1s](../literature.d/LIT-tmpqgb1s.md), read in [NOTE-tmpiz7db](../notes.d/NOTE-tmpiz7db.md)), which defined distributed moral actions and left responsibility for them open, and it takes its agent conditions from Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)).
+Floridi (2016), [LIT-899](../literature.d/LIT-899.md), read in full in [NOTE-699](../notes.d/NOTE-699.md). It is the second half of a pair with Floridi 2013 ([LIT-901](../literature.d/LIT-901.md), read in [NOTE-698](../notes.d/NOTE-698.md)), which defined distributed moral actions and left responsibility for them open, and it takes its agent conditions from Floridi & Sanders 2004 ([LIT-898](../literature.d/LIT-898.md)).
 
 ## What was actually shown
 
@@ -53,7 +56,7 @@ Nothing in the paper could have come out the other way. It contains no test. The
 
 ## What this does not say
 
-- **Not that the allocated responsibility is moral responsibility in the usual sense.** It is causal accountability turned into a corrective signal for agents that learn. The paper says it is "not … blaming or punishing" (p. 10). Floridi & Sanders 2004 called this accountability and kept "responsibility" for agents with intentional states ([NOTE-tmpr4vy8](../notes.d/NOTE-tmpr4vy8.md)). This account is no rival to [THEORY-121](THEORY-121.md) or [THEORY-147](THEORY-147.md) on what moral responsibility requires. It is about a different thing.
+- **Not that the allocated responsibility is moral responsibility in the usual sense.** It is causal accountability turned into a corrective signal for agents that learn. The paper says it is "not … blaming or punishing" (p. 10). Floridi & Sanders 2004 called this accountability and kept "responsibility" for agents with intentional states ([NOTE-701](../notes.d/NOTE-701.md)). This account is no rival to [THEORY-121](THEORY-121.md) or [THEORY-147](THEORY-147.md) on what moral responsibility requires. It is about a different thing.
 - **Not that the network is an agent or bears responsibility.** Responsibility "remains 'theirs' (agents') not 'its' (network's)" (p. 8). The account bears on [QUESTION-009](../questions.d/QUESTION-009.md) only in showing that allocation can proceed without an answer to it. It is compatible with [THEORY-139](THEORY-139.md), on which corporations and members can both be responsible, and it does not engage that account.
 - **Not a criterion of causal relevance.** The theory of causation is deferred (fn 15, p. 6), and the permissiveness the paper grants in fn 11 is left to the override clause.
 - **Not that full and equal allocation is better than graduated allocation.** The paper's own remedies for risk aversion move towards allocation "proportionally to the ability of the agents to avoid the negative outcome" (p. 11). That is what [THEORY-149](THEORY-149.md) found in commons institutions that last.

@@ -31,7 +31,7 @@ summary: >-
   evidence is offered, and the paper gives no criterion by which the
   classification could fail.
 rivals:
-- THEORY-tmpixb78
+- THEORY-208
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 

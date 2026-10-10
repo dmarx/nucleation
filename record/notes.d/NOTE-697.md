@@ -1,6 +1,9 @@
 ---
+number: 697
 status: Read
-paper: 'LIT-tmp0pyws'
+formerly:
+- NOTE-tmp3l02m
+paper: 'LIT-896'
 title: 'Floridi — AI as agency without intelligence'
 version: 1
 history:
@@ -28,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred: named as the open question this editorial does not answer -->
 <!-- inactive-ok-file: THEORY-071 — Proposed: named as the account this editorial's thesis conflicts with, not as support -->
 
-# NOTE-tmp3l02m: Floridi — AI as agency without intelligence
+# NOTE-697: Floridi — AI as agency without intelligence
 
 ## Contribution
 
@@ -62,7 +65,7 @@ There are no results in the formal sense. The positions taken, in order:
 |---|---|---|---|
 | C1 | LLMs do not think, reason or understand. They process the formal structure of texts, not their meaning | weak | assertion with one citation (Bishop 2021), a list of failure modes from blogs and preprints, and one screenshot (Fig. 2, p. 4). Floridi himself notes that most such errors are patched ("like zero-day exploits", p. 3), which weakens failures as evidence for a principled lack |
 | C2 | "Stochastic parrot" is only a partial analogy, because LLMs synthesise rather than repeat | moderate | informal observation (p. 3), consistent with Fig. 1. It is not tested |
-| C3 | LLMs are agents: they act successfully and "learn" to improve their behaviour | weak | asserted (p. 5). No criteria are stated, and none of Floridi & Sanders' criteria ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)), which the editorial cites, are applied |
+| C3 | LLMs are agents: they act successfully and "learn" to improve their behaviour | weak | asserted (p. 5). No criteria are stated, and none of Floridi & Sanders' criteria ([LIT-898](../literature.d/LIT-898.md)), which the editorial cites, are applied |
 | C4 | This agency is new: no culture before met successful, learning agency except in animals or as natural or supernatural forces | weak | assertion (p. 5). It skips earlier artefacts that act and learn, such as adaptive controllers and pre-LLM machine-learning systems |
 | C5 | Agency has been "liberated … from intelligence": acting successfully no longer requires understanding | weak | follows from C1 and C3 if both are granted (pp. 5–6). It is only as strong as C1 |
 | C6 | Learning to make a different or better difference is what separates an agent from a mere cause such as a sea wave | assertion | one sentence (p. 5). It is the only demarcation the editorial offers |
@@ -77,7 +80,7 @@ There are no results in the formal sense. The positions taken, in order:
 
 ## Connections
 
-The agency concept is attributed to Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)) and to nothing else. That paper's method, setting agency at a level of abstraction without mental states, is the natural way to make the thesis precise, but the editorial does not use it. Levels of abstraction (also central to [LIT-152](../literature.d/LIT-152.md), [NOTE-099](NOTE-099.md)) are not mentioned. Floridi & Chiriatti 2020 on GPT-3 is cited for failure modes only. The editorial's title and thesis are taken up again in Floridi's 2025 *Philosophy & Technology* paper ([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), DOI-10.1007/s13347-025-00858-9), read later the same day in [NOTE-tmpu5qjn](NOTE-tmpu5qjn.md).
+The agency concept is attributed to Floridi & Sanders 2004 ([LIT-898](../literature.d/LIT-898.md)) and to nothing else. That paper's method, setting agency at a level of abstraction without mental states, is the natural way to make the thesis precise, but the editorial does not use it. Levels of abstraction (also central to [LIT-152](../literature.d/LIT-152.md), [NOTE-099](NOTE-099.md)) are not mentioned. Floridi & Chiriatti 2020 on GPT-3 is cited for failure modes only. The editorial's title and thesis are taken up again in Floridi's 2025 *Philosophy & Technology* paper ([LIT-897](../literature.d/LIT-897.md), DOI-10.1007/s13347-025-00858-9), read later the same day in [NOTE-702](NOTE-702.md).
 
 Within the record:
 
@@ -89,7 +92,7 @@ Within the record:
 - **Agency line, [QUESTION-009](../questions.d/QUESTION-009.md).** The editorial is a clear permissive data point: success plus learning is enough for agency. That is the kind of criterion the record's permissiveness objection targets, and the editorial does not answer it. It gives no reason why a thermostat with adaptive gain, or a gradient-trained classifier, is not an agent in the same sense. It offers no criterion for when something is an additional agent.
 - **Organizational minimal agency ([LIT-566](../literature.d/LIT-566.md), [NOTE-458](NOTE-458.md), [THEORY-071](../theory.d/THEORY-071.md)).** On [THEORY-071](../theory.d/THEORY-071.md), LLMs would not be agents. They have no self-individuating organization and no norms they generate for their own maintenance. Floridi's thesis is the opposite verdict reached on a thinner notion. The record should cite this editorial as the statement of the view [THEORY-071](../theory.d/THEORY-071.md) excludes, not as an argument against it. It gives none.
 - **Agent, individual, self, person ([ADR-024](../decisions.d/ADR-024.md)).** Floridi keeps agency apart from intelligence and understanding, and says nothing about individuality, selfhood or personhood. That is compatible with the record's separation and does not test it.
-- **No THEORY filed.** A seven-page editorial whose central claim is asserted cannot ground one. If Floridi's 2025 paper ([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md)), once read, gives the multiple-realisability argument its title names, a THEORY would be drawn from that reading, not this one.
+- **No THEORY filed.** A seven-page editorial whose central claim is asserted cannot ground one. If Floridi's 2025 paper ([LIT-897](../literature.d/LIT-897.md)), once read, gives the multiple-realisability argument its title names, a THEORY would be drawn from that reading, not this one.
 - **No instruction for machine-learning practice.** The teaching advice (p. 2) is about using ChatGPT in education, not about building models.
 
 ## Limitations
@@ -103,6 +106,6 @@ Within the record:
 
 ## Open questions
 
-- What criteria for agency would make "agency without intelligence" checkable? Floridi & Sanders' criteria are the obvious candidate. Their criteria are interactivity (the agent and its environment "(can) act upon each other"), autonomy (it can "change state without direct response to interaction") and adaptability (its interactions "(can) change the transition rules by which it changes state") ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md), p. 9 of the preprint). They offer these as "guidelines", an "effective characterisation" and not a definition, and they hold only at a chosen level of abstraction (pp. 3, 9). The verdict can change with the level: their MENACE example is an agent when only its games are observed and not one when its mechanism is observed (pp. 11–12). Applying the criteria to an LLM would therefore mean first saying which observables count. Whether the 2025 paper ([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md)) supplies them is for its reading to settle.
+- What criteria for agency would make "agency without intelligence" checkable? Floridi & Sanders' criteria are the obvious candidate. Their criteria are interactivity (the agent and its environment "(can) act upon each other"), autonomy (it can "change state without direct response to interaction") and adaptability (its interactions "(can) change the transition rules by which it changes state") ([LIT-898](../literature.d/LIT-898.md), p. 9 of the preprint). They offer these as "guidelines", an "effective characterisation" and not a definition, and they hold only at a chosen level of abstraction (pp. 3, 9). The verdict can change with the level: their MENACE example is an agent when only its games are observed and not one when its mechanism is observed (pp. 11–12). Applying the criteria to an LLM would therefore mean first saying which observables count. Whether the 2025 paper ([LIT-897](../literature.d/LIT-897.md)) supplies them is for its reading to settle.
 - Is a base LLM, before RL fine-tuning, an agent on this view? The RL remark suggests not, and the "learn" criterion is met by pretraining as well.
 - What would show that an LLM understands, so that C1 could fail? The editorial names no test. Its "Forget passing the Turing Test" (p. 3) rejects one without proposing another.

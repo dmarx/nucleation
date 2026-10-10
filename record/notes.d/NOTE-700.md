@@ -1,6 +1,9 @@
 ---
+number: 700
 status: Read
-paper: 'LIT-tmpqbvu8'
+formerly:
+- NOTE-tmpnwh69
+paper: 'LIT-900'
 title: 'Floridi — The Method of Levels of Abstraction'
 version: 1
 history:
@@ -36,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-010 CLAIM-110 — Rejected; cited as the history the comparison is about -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; open, and cited to say this reading does not bear on it -->
 
-# NOTE-tmpnwh69: Floridi — The Method of Levels of Abstraction
+# NOTE-700: Floridi — The Method of Levels of Abstraction
 
 ## Contribution
 
@@ -47,7 +50,7 @@ kind as a method with definitions borrowed from formal methods in computer
 science (typed variables, Z-style predicates, simulation between levels).
 What is new after it is a single citable statement of the method, with its
 claimed consequences for ontological commitment, relativism and realism.
-Before this, the method lived inside Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md))
+Before this, the method lived inside Floridi & Sanders 2004 ([LIT-898](../literature.d/LIT-898.md))
 and their Yearbook chapter. The paper does not prove anything about the
 formalism. It defines it, illustrates it, and positions it.
 
@@ -218,14 +221,14 @@ The paper's results are definitions (§2) and arguments about them (§§3–4).
 
 Floridi says the method was "forced" on him and Sanders by "the problem of
 defining the nature of agents (natural, human and artificial)" in Floridi &
-Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md), read in [NOTE-tmpr4vy8](NOTE-tmpr4vy8.md)) (p. 35). He calls Sanders
+Sanders 2004 ([LIT-898](../literature.d/LIT-898.md), read in [NOTE-701](NOTE-701.md)) (p. 35). He calls Sanders
 someone who "should really be considered a co-author of this paper"
 (p. 37). Their joint "The Method of Abstraction" (Yearbook of the
 Artificial, 2004) is the earlier statement, and is not held. This paper
 generalises the method from defining agents to conceptual analysis at
 large, and refines the GoA definition by relating types as well as
 observables (fn. 8). The `extends` on the LIT records this. Floridi 2025
-([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), read later in [NOTE-tmpu5qjn](NOTE-tmpu5qjn.md)) compares kinds of agency by this method.
+([LIT-897](../literature.d/LIT-897.md), read later in [NOTE-702](NOTE-702.md)) compares kinds of agency by this method.
 
 **Informational structural realism.** Floridi's defence of ISR ([LIT-152](../literature.d/LIT-152.md),
 read in [NOTE-099](NOTE-099.md)) restates these definitions in its §2.2. This paper lists
@@ -279,7 +282,7 @@ ontological levelism in biology.
 
 It carries nothing for machine-learning practice. It is held here as the
 source of a method the record's Floridi readings ([LIT-152](../literature.d/LIT-152.md), [LIT-136](../literature.d/LIT-136.md),
-[LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md), [LIT-tmp0pyws](../literature.d/LIT-tmp0pyws.md), [LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md)) assume. I file no THEORY. The
+[LIT-898](../literature.d/LIT-898.md), [LIT-896](../literature.d/LIT-896.md), [LIT-897](../literature.d/LIT-897.md)) assume. I file no THEORY. The
 paper's results are definitions and a stance, not a claim about the world
 with evidence, and [NOTE-099](NOTE-099.md) filed none for the ISR paper that uses the same
 machinery. [THEORY-034](../theory.d/THEORY-034.md), which places [LIT-152](../literature.d/LIT-152.md), is not affected: this paper
@@ -293,7 +296,7 @@ agrees with [NOTE-099](NOTE-099.md)'s reading.
   additional agent?). The method gives the form of an answer, not an
   answer: something is an agent *at an LoA* if its observables there
   satisfy some criteria. The criteria are Floridi & Sanders's
-  ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)), not this paper's. What this paper adds is the condition
+  ([LIT-898](../literature.d/LIT-898.md)), not this paper's. What this paper adds is the condition
   under which "additional agent" questions are well posed, namely an
   explicit LoA. It also adds the warning that an LoA-free version of the
   question is the "metaphysics" it dismisses (p. 24). It does nothing about
@@ -305,7 +308,7 @@ agrees with [NOTE-099](NOTE-099.md)'s reading.
   the later agency papers, use "the LoA at which a system is analysed", the
   theorist's interface. The paper does not separate the two. A claim that
   something is an agent "at a given LoA" needs to say which is meant, and a
-  reading of [LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md) should check.
+  reading of [LIT-897](../literature.d/LIT-897.md) should check.
 - *[CLAIM-045](../claims.d/CLAIM-045.md) and [CLAIM-110](../claims.d/CLAIM-110.md).* The record's correction at A10, that
   differences in explanatory emphasis between Brooks, Kelso and Levin do
   not imply competing ontologies, is this paper's distinction between
@@ -318,7 +321,7 @@ agrees with [NOTE-099](NOTE-099.md)'s reading.
 
 Nothing in the record cites this paper for something it does not say.
 [NOTE-172](NOTE-172.md)'s line distinguishing it from [LIT-152](../literature.d/LIT-152.md) is accurate. Now that the
-paper is held, that line could name [LIT-tmpqbvu8](../literature.d/LIT-tmpqbvu8.md).
+paper is held, that line could name [LIT-900](../literature.d/LIT-900.md).
 
 ## Limitations
 

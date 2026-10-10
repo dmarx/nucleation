@@ -1,6 +1,9 @@
 ---
+number: 701
 status: Read
-paper: 'LIT-tmpdg6qq'
+formerly:
+- NOTE-tmpr4vy8
+paper: 'LIT-898'
 title: 'Floridi & Sanders — On the morality of artificial agents'
 version: 1
 history:
@@ -38,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-126 — Rejected on its close reading; cited for the sentientist premise this paper is the standard alternative to -->
 <!-- inactive-ok-file: LIT-742 — Deferred, unread; Pettit's case for corporate responsibility, named as the contrast -->
 
-# NOTE-tmpr4vy8: Floridi & Sanders — On the morality of artificial agents
+# NOTE-701: Floridi & Sanders — On the morality of artificial agents
 
 ## Contribution
 
@@ -127,7 +130,7 @@ The three criteria are taken from Allen, Varner & Zinser (2000), and the method 
 
 On organisations it differs from Pettit ([LIT-718](../literature.d/LIT-718.md), [NOTE-569](NOTE-569.md); [LIT-742](../literature.d/LIT-742.md)). Pettit makes corporations fit to be held responsible because they are conversable. Floridi & Sanders make organisations agents at an LoA and accountable, and keep responsibility for agents with intentional states. The paper is also the standard alternative to the sentientist premise that [LIT-126](../literature.d/LIT-126.md) asserts without argument ([NOTE-128](NOTE-128.md), its P1), namely that moral agency needs phenomenal consciousness.
 
-Within Floridi's own work, the LoA method here is the same one used in informational structural realism ([LIT-152](../literature.d/LIT-152.md), [NOTE-099](NOTE-099.md)) and in the account of personal identity ([LIT-136](../literature.d/LIT-136.md), [NOTE-130](NOTE-130.md)), stated here informally and with fewer of the formal parts. The line's later papers build on two things in this one. The first is the separation of agency from intelligence and mind: "AAs, though not intelligent and fully responsible, can be fully accountable sources of moral action" (p. 3). That is the move the 2023 paper's title, "AI as Agency Without Intelligence", names ([LIT-tmp0pyws](../literature.d/LIT-tmp0pyws.md)). The second is the promised account of distributed morality, which Floridi 2013 takes up ([LIT-tmpqgb1s](../literature.d/LIT-tmpqgb1s.md)). The method of levels of abstraction in Floridi 2008 ([LIT-tmpqbvu8](../literature.d/LIT-tmpqbvu8.md)) generalises the 2003 chapter this paper defers to. This paper uses the method; it does not develop it.
+Within Floridi's own work, the LoA method here is the same one used in informational structural realism ([LIT-152](../literature.d/LIT-152.md), [NOTE-099](NOTE-099.md)) and in the account of personal identity ([LIT-136](../literature.d/LIT-136.md), [NOTE-130](NOTE-130.md)), stated here informally and with fewer of the formal parts. The line's later papers build on two things in this one. The first is the separation of agency from intelligence and mind: "AAs, though not intelligent and fully responsible, can be fully accountable sources of moral action" (p. 3). That is the move the 2023 paper's title, "AI as Agency Without Intelligence", names ([LIT-896](../literature.d/LIT-896.md)). The second is the promised account of distributed morality, which Floridi 2013 takes up ([LIT-901](../literature.d/LIT-901.md)). The method of levels of abstraction in Floridi 2008 ([LIT-900](../literature.d/LIT-900.md)) generalises the 2003 chapter this paper defers to. This paper uses the method; it does not develop it.
 
 ## Bearing on the record
 
