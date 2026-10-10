@@ -135,3 +135,14 @@ is [CASE-037](../cases.d/CASE-037.md) with one context changed: two models that 
 three contexts and on every marginal, with contextual fraction 1 and 0. The
 headline thesis is still absent from v7 (A178), from the second
 crystallized argument (A203) and from the October outline (A218).
+
+## Note of 2026-10-10: a documented case
+
+[CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md), this headline's narrowing to a change of cover, now has a
+documented case, [CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md): Hafez's "Shirazi Turk", whose ungendered
+beloved four English translators render as a maid, as God and as a boy.
+It shows a rendering deciding what the source left open, on the question
+of who is addressed. It supplies nothing for this entry's own form, a
+change of global compatibility at small local distortion within a fixed
+scenario: it has no contextual data and no measured distortion, and its
+evidence is translators' and scholars', not readers' agreement.

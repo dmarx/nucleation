@@ -114,3 +114,44 @@ fictional. It says that, as filed, these theses have no evidence beyond
 possibility for their footing and constitution claims, and that the
 non-necessity half has no case at all. It does not say [CLAIM-053](CLAIM-053.md) is wrong.
 It says [CLAIM-053](CLAIM-053.md) credits the exchange with more than [CLAIM-091](CLAIM-091.md) supplies.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpmsyg7](../cases.d/CASE-tmpmsyg7.md), found by a search the owner asked for, gives
+[CLAIM-091](CLAIM-091.md) a documented case to set beside the invented [CASE-018](../cases.d/CASE-018.md): three
+published English translations of Dolly's slip into ты in *Anna Karenina*
+I.4, one keeping the Russian word with a gloss (Dole 1886) and two adding
+words not in the source to carry the relation (Garnett 1901, "Stiva"; the
+Maudes 1918, "our children"), with a 2025 translator's stated reasoning for
+the companion passage I.5. It answers this objection's point about
+[CLAIM-091](CLAIM-091.md) at the level of existence: the mechanism is attested, not only
+imagined.
+
+It does not answer the objection's deeper point, that the theses need more
+than possibility. The case's evidence about what the renderings convey is
+the translators' and Tolstoy's, not readers'. Whether readers recover the
+relation better from the compensating versions is untested, and the case
+files a reader test for it rather than a result. On the necessity half it
+bears only weakly: Garnett's narrator sentence changes its proposition
+while, on the translator's judgement, keeping its act, which is a
+producer's judgement of A without P, not a measured one.
+
+## Note of 2026-10-10: a documented case for the necessity half
+
+[CASE-tmp25bmx](../cases.d/CASE-tmp25bmx.md), found by a search the owner asked for, is the first case
+filed for A without P that is neither invented nor a matter of wording. J. B.
+Phillips renders the "holy kiss" of Rom 16:16 and four parallels as a
+handshake all round, which has different compliance conditions. Nida (1964,
+p. 160) judged that the rendering keeps the greeting, and Munday (2016)
+calls it the field's "notorious example". It answers this objection's point
+that "the non-necessity half has no case at all". The necessity half of
+[CLAIM-061](CLAIM-061.md) no longer rests on A12's one sentence.
+
+It does not answer the deeper point, that the theses need more than
+possibility. The evidence that the act survived is expert judgement, and the
+experts divide: the UBS handbook prefers a rendering that keeps the kiss,
+and Gayle (2013) argues that the footing among the addressees changes. No
+reader evidence exists. And the defender of necessity can reply that the
+proposition kept is the coarser "greet one another warmly". The case forces
+that defender to individuate propositions by function. It does not refute
+the defender.

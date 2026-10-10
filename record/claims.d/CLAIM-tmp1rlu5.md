@@ -18,6 +18,7 @@ line: 'pragmatic-transport'
 grounds:
 - LIT-264
 - CASE-037
+- CASE-tmpxnd3y
 complements:
 - CLAIM-105
 - CLAIM-tmpx3m7e
@@ -154,3 +155,20 @@ change of cover or scenario", is taken.
   asked, not shown that the answers cannot be glued.
 - It does not fix the threshold or the rate in its defeat condition. Both
   belong to the discriminating study's preregistration.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md) gives this claim a documented case for one half of a change
+of cover, in place of the invented tu/vous illustration. Hafez's "Shirazi
+Turk" leaves the beloved's sex and nature open in the Persian, and four
+English renderings decide it three ways: a maid (Jones 1771, Bell 1897),
+God (Clarke 1891, "His dark mole") and a boy (Davis 2012), with Davis
+saying in print that his choice is arbitrary. The question decided is the
+one this claim needs, who is addressed and in what relationship.
+
+It does not supply the other half, a question the source decides that a
+rendering makes undecidable; that half still rests on [CASE-010](../cases.d/CASE-010.md). Nor does
+it measure reader agreement: the openness of the source is attested by
+translators and scholars, and a defender can reply that genre convention
+makes the beloved determinately male for Persian readers. The case's
+reader test, which could be items in [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md), would settle that.

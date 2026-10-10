@@ -17,6 +17,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 grounds:
 - CASE-018
+- CASE-tmpmsyg7
 complements:
 - CLAIM-061
 uses:
@@ -61,3 +62,23 @@ U1–U13 argued against it.
 
 That any lexical change is licensed. The claim is that some are required, and
 which ones is set by the change of context.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpmsyg7](../cases.d/CASE-tmpmsyg7.md), found by a search the owner asked for, is a documented
+instance of the mechanism. Dolly's one sentence of ты amid вы in *Anna
+Karenina* I.4 is kept and glossed by Dole (1886, "the familiar tui
+(thou)"), and carried by added words by Garnett (1901, "Stiva") and the
+Maudes (1918, "our children"). The change is to the code's address system,
+k and g, not to the speaker. Tolstoy himself says вы and its dictionary
+equivalent vous differ in coldness (III.14). So the claim no longer rests
+for its mechanism on the fictional [CASE-018](../cases.d/CASE-018.md) alone, the point of
+[CLAIM-tmpfe37n](CLAIM-tmpfe37n.md).
+
+What it does not supply is the defeat condition's data. Every judgement in
+the case about what the renderings convey is a translator's or the
+author's, not a reader's, and no reader or reception study of T/V
+compensation into English was found. It also says nothing about proportion,
+and "our children" may carry a different relation, not the same one. The
+case's last section sketches a reader test from its four versions, usable
+as items in [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md).
