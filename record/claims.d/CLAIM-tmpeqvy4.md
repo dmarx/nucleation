@@ -1,7 +1,17 @@
 ---
 status: Proposed
-title: 'Observational fidelity is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers'' response averaged over the procedure''s output; for a single rendering of a single item it is not defined'
-version: 1
+title: 'Observational fidelity, as D_obs measures it, is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers'' response averaged over the procedure''s output; one source–target pair does not identify it, and a single rendering is judged as a sample of its procedure or by another measure'
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmp0stxa (A240's second
+    refinement): the title said more than the body. Version 1's title
+    ended: 'for a single rendering of a single item it is not defined'.
+    The body already said 'It does not say a single translation cannot
+    be judged, only that this measure does not judge it.' The
+    derivation, the defeat condition and the body are unchanged.
 role: thesis
 defeated_if: >-
   In the discriminating study (CASE-tmp1uzfn), held-out observational
@@ -36,12 +46,14 @@ summary: >-
   elementary, but whether the restated measure is informative is the
   defeat condition's empirical question. It does not say a fitted kernel
   is the translator's process.
+objected_by:
+- CLAIM-tmp0stxa
 ---
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim whose measure this restates -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order the exact-fit condition becomes, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpyeik3 — Proposed; open, cited for its point that Blackwell's order needs a common parameter -->
 
-# CLAIM-tmpeqvy4: Observational fidelity is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers' response averaged over the procedure's output; for a single rendering of a single item it is not defined
+# CLAIM-tmpeqvy4: Observational fidelity, as D_obs measures it, is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers' response averaged over the procedure's output; one source–target pair does not identify it, and a single rendering is judged as a sample of its procedure or by another measure
 
 ## What it answers
 

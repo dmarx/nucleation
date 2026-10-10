@@ -34,6 +34,7 @@ complements:
 - CLAIM-115
 - CLAIM-tmp3wo5j
 - CLAIM-tmpcbm69
+- CLAIM-tmpa9usi
 uses:
 - TERM-040
 - TERM-043
@@ -58,6 +59,7 @@ objected_by:
 - CLAIM-tmpqfgjl
 - CLAIM-tmps7va1
 - CLAIM-tmpsxsr8
+- CLAIM-tmpattzh
 ---
 <!-- inactive-ok-file: CLAIM-133 CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-135 CLAIM-050 CLAIM-077 CLAIM-115 — Proposed; open, and cited as open: the premises and the manuscript's thesis are under test, not settled -->

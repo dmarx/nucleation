@@ -185,3 +185,17 @@ No turn gives a reason for either move, and nothing in them answers either
 part. Both parts stay open. The narrowed form of [QUESTION-027](../questions.d/QUESTION-027.md), for
 decisions outside the observed probes, is the factorization-side analogue
 of part 1.
+
+## Note of 2026-10-10: restored to the agenda (A232)
+
+The converse of the note above. At U61 the owner asked for an updated
+proposal, and the assistant's draft (A232 §10) puts part 1 back as one of
+its four formal problems: "**F3 — Directed decision preservation:** Relate
+source-to-target Bayes-risk change, actual receiver recovery, and
+admissible changes of observational cover." It gives no argument for the
+move, as A203 and A218 gave none for the displacement. Part 2 does not come
+back as a problem of its own. Formal contextuality in pragmatic data
+"remains an exploratory branch, requiring appropriate handling of direct
+influences and sufficiently powered observation". This is the
+interlocutor's draft, not a manuscript, and nothing in it answers either
+part. Both stay open.

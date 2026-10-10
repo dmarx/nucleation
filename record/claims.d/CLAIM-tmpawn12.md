@@ -24,6 +24,7 @@ objects_to:
 complements:
 - CLAIM-142
 - CLAIM-046
+- CLAIM-tmpa9usi
 uses:
 - TERM-040
 - TERM-014
@@ -39,6 +40,8 @@ summary: >-
   which the programme does not test.
 supports:
 - CLAIM-tmp3wo5j
+objected_by:
+- CLAIM-tmpohczg
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-046 CLAIM-135 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp6r6t6 — Proposed; the objection this entry answers, left open until the owner decides on the revised October thesis -->

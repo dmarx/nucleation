@@ -19,6 +19,7 @@ grounds:
 complements:
 - CLAIM-132
 - CLAIM-113
+- CLAIM-tmp7gigk
 summary: >-
   Drawn by the assistant at A207 §3, made explicit at A214 §6 and kept in
   A218 (§4.2, Ch5.4–5.9). Granted, because it is elementary, and the
