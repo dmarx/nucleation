@@ -30,7 +30,6 @@ summary: >-
   GoAs interconvert) fails under its own definition of nestedness, and its
   "pluralism without relativism" ranks LoAs only once a purpose is fixed.
 ---
-<!-- inactive-ok-file: LIT-tmp6juhh — Deferred: the 2025 paper this batch was filed for, unread; named as the work that uses this method, not leaned on -->
 <!-- inactive-ok-file: LIT-215 — Rejected on its 2026-09-26 close reading: cited for its misreading of LoAs, which this paper contradicts -->
 <!-- inactive-ok-file: LIT-430 LIT-832 — Deferred, unread: named as works this paper cites, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what this method would and would not supply for it -->
@@ -226,7 +225,7 @@ Artificial, 2004) is the earlier statement, and is not held. This paper
 generalises the method from defining agents to conceptual analysis at
 large, and refines the GoA definition by relating types as well as
 observables (fn. 8). The `extends` on the LIT records this. Floridi 2025
-([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), unread) compares kinds of agency by this method.
+([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), read later in [NOTE-tmpu5qjn](NOTE-tmpu5qjn.md)) compares kinds of agency by this method.
 
 **Informational structural realism.** Floridi's defence of ISR ([LIT-152](../literature.d/LIT-152.md),
 read in [NOTE-099](NOTE-099.md)) restates these definitions in its §2.2. This paper lists

@@ -59,9 +59,9 @@ summary: >-
 extended_by:
 - LIT-tmpqbvu8
 - LIT-tmpqgb1s
+- LIT-tmp6juhh
+- LIT-tmplkm3o
 ---
-<!-- inactive-ok-file: LIT-tmpqgb1s — Floridi 2013, distributed morality, filed unread in the same contribution; named as the paper that takes up what this one promises -->
-<!-- inactive-ok-file: LIT-tmp6juhh — Floridi 2025, filed unread in the same contribution; named as the paper this line leads to -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this paper offers an answer to -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as the objection this paper's criteria meet -->
 

@@ -25,7 +25,6 @@ summary: >-
   only mark given that separates it from a sea wave. The no-understanding
   premise rests on anecdote, and no criteria for agency are stated.
 ---
-<!-- inactive-ok-file: LIT-tmp6juhh — not yet read (no full text reachable); cited only as where this editorial's thesis is later developed -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred: named as the open question this editorial does not answer -->
 <!-- inactive-ok-file: THEORY-071 — Proposed: named as the account this editorial's thesis conflicts with, not as support -->
 
@@ -78,7 +77,7 @@ There are no results in the formal sense. The positions taken, in order:
 
 ## Connections
 
-The agency concept is attributed to Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)) and to nothing else. That paper's method, setting agency at a level of abstraction without mental states, is the natural way to make the thesis precise, but the editorial does not use it. Levels of abstraction (also central to [LIT-152](../literature.d/LIT-152.md), [NOTE-099](NOTE-099.md)) are not mentioned. Floridi & Chiriatti 2020 on GPT-3 is cited for failure modes only. The editorial's title and thesis are taken up again in Floridi's 2025 *Philosophy & Technology* paper ([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), DOI-10.1007/s13347-025-00858-9), which has not been read here.
+The agency concept is attributed to Floridi & Sanders 2004 ([LIT-tmpdg6qq](../literature.d/LIT-tmpdg6qq.md)) and to nothing else. That paper's method, setting agency at a level of abstraction without mental states, is the natural way to make the thesis precise, but the editorial does not use it. Levels of abstraction (also central to [LIT-152](../literature.d/LIT-152.md), [NOTE-099](NOTE-099.md)) are not mentioned. Floridi & Chiriatti 2020 on GPT-3 is cited for failure modes only. The editorial's title and thesis are taken up again in Floridi's 2025 *Philosophy & Technology* paper ([LIT-tmp6juhh](../literature.d/LIT-tmp6juhh.md), DOI-10.1007/s13347-025-00858-9), read later the same day in [NOTE-tmpu5qjn](NOTE-tmpu5qjn.md).
 
 Within the record:
 
