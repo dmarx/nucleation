@@ -20,6 +20,8 @@ summary: >-
   with different interpersonal configurations. Conditions A and B are
   the manuscript's §7 example; condition C, the natural control, was
   dropped.
+variants:
+- CASE-tmpmv9pi
 ---
 <!-- inactive-ok-file: CLAIM-013 CLAIM-123 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -46,3 +48,18 @@ cannot tell a faithful image from one that reverses the relation ([CLAIM-013](..
 ... an adviser criticizing someone may describe nearly identical visible
 objects". Without condition C there is no measure of which relation a
 generator supplies when none is specified.
+
+## Note of 2026-10-10: a C₂ model, and the laboratory
+
+A198 §III formalized this scene as a role swap. Two participants and "an
+interaction concerning overspending", with basis e₁ = a→b and e₂ = b→a, where
+the arrow "means only 'occupies the active evaluative position relative to.'"
+The group C₂ swaps the participants, and the character is (2, 0). That is the
+character of any free action of C₂ on two points, so it carries no
+communicative content. The contrast between complicity and reprimand sits in
+the stabilizers: the swap moves the one-way configuration and fixes the mutual
+one ([CLAIM-tmp3sn40](../claims.d/CLAIM-tmp3sn40.md)). The model, like the case, has no counterpart of
+condition C.
+
+Its conditions A and B are the spending row of the topic × act laboratory
+([CASE-tmpmv9pi](CASE-tmpmv9pi.md)).

@@ -34,6 +34,8 @@ summary: >-
   lemma ([LIT-221](../literature.d/LIT-221.md)) strengthens the rebuttal is the record's inference: no
   paper in the debate names it. This does not refute radical OSR. It
   removes one argument for it, and Eva 2016's reply is unread.
+supports:
+- CLAIM-tmpvxrjv
 ---
 
 # THEORY-038: Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata
@@ -107,3 +109,14 @@ errors bears on the conclusion.
   of the limit on weak discernibility.
 - [LIT-217](../literature.d/LIT-217.md) (Ladyman 2001): the non-eliminative position that the categorial
   reading does support.
+
+## Note of 2026-10-10: Eva cited again, still unread
+
+Eva 2016 was cited again in the exchange, at A187 §2 ("critically examines
+whether category theory can substantiate radical OSR") and at A191 §4. Its
+identifier is doi:10.1007/s13194-015-0129-6 (*Category Theory and Physical
+Structuralism*, EJPS, 2016), verified against Crossref on 2026-10-10. It is
+still unread and not registered. A187 reads it as support for its own caution,
+which is not what this entry's `promote_when` expects of "the one reply on
+Bain's side". Neither reading has been checked. It remains the `promote_when`
+reading.

@@ -22,9 +22,18 @@ summary: >-
   inadvertence.
 supports:
 - CLAIM-077
+- CLAIM-tmp4epnc
+- CLAIM-tmpayhau
+- CLAIM-tmpd1aee
+- CLAIM-tmpe2csg
+- CLAIM-tmpgp40l
+- CLAIM-tmpslubp
+illustrated_by:
+- CASE-tmpp6j2b
 ---
 <!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmpslubp CLAIM-tmpayhau CLAIM-tmpe2csg — Proposed; open, and cited as the later uses of this claim, not as settled -->
 
 # CLAIM-011: Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on
 
@@ -65,3 +74,17 @@ Proposition C2: "This is an image-level bound: without an injective or
 appropriately separating Phi, it does not recover equality of source and target
 commutators themselves." It is the last appearance before the manuscript, whose
 §9 gives the same identity without the caveat.
+
+## Note of 2026-10-10: four uses since
+
+- Its remedy carried from correspondences to training objectives: a probe
+  family that trains a transformation cannot certify it
+  ([CLAIM-tmpslubp](CLAIM-tmpslubp.md); A184 Experiment C).
+- Its metaphysical twin, the Newman objection
+  ([CLAIM-tmpayhau](CLAIM-tmpayhau.md); A187 §6, A191 §10, A203 §19, A218 Ch2.10).
+- Correspondence before comparison: a disagreement is read as an
+  obstruction only after an anchored correspondence is fixed
+  ([CLAIM-tmpe2csg](CLAIM-tmpe2csg.md)).
+- Restored to the plan as A218 Ch9.7–9.9: "Alignment ambiguity and
+  trivial-collapse failure", "Independently anchored, nondegenerate maps"
+  and "Correspondence estimation versus correspondence validation".

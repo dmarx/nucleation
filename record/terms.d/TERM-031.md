@@ -43,3 +43,10 @@ Not Goffman's footing, though it absorbs it. Footing was a participant role
 remarked. Not the operator sense of [TERM-026](TERM-026.md): a context indexes a distribution,
 an operator changes a state. The manuscript keeps both: contexts as the cover
 of §3, framing operations in §9.
+
+## Why it is still Active
+
+[TERM-030](TERM-030.md) extended this situation tuple with norms and history. The index on
+judgement distributions survives as the manuscript's measurement contexts
+(§3). It is not the elicitation protocol that A125 read into its title;
+that sense is [TERM-tmp6ohuk](TERM-tmp6ohuk.md).

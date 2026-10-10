@@ -28,6 +28,7 @@ complements:
 - CLAIM-093
 ---
 <!-- inactive-ok-file: THEORY-158 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-059 — Proposed; cited as the open regimes claim that several closed classes would presuppose -->
 
 # CLAIM-107: A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion
 
@@ -59,3 +60,17 @@ normative asymmetry". A105's stronger condition, K(h∘f) = h∘f for all bounde
 which conserves the whole distribution, became the manuscript's "stronger
 conditions" without the formula. The limit on borrowing Noether is
 [CLAIM-093](CLAIM-093.md).
+
+## Note of 2026-10-10: harmonic observables on irreducible chains
+
+A203 §26 restates the criterion and adds a limit: "For finite irreducible
+Markov chains, harmonic functions are constant." That is right, by the maximum
+principle. A harmonic f attains its maximum somewhere, and Kf = f makes it
+attain the maximum at every state reachable from there, which on an
+irreducible chain is every state. So a non-trivial exactly conserved
+observable needs reducible dynamics with several closed classes, a restricted
+state space, or time-dependent kernels. A203 names the same three. Several
+closed classes are themselves a hypothesis about conventions: separate
+attractors from which reconstruction does not escape ([TERM-027](../terms.d/TERM-027.md),
+[CLAIM-059](CLAIM-059.md)). The approximate form survives without them: ‖Kf − f‖∞ ≤ ε bounds
+the drift of the mean by nε, as the manuscript already says.

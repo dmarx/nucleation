@@ -1,0 +1,81 @@
+---
+status: Rejected
+title: 'Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation'
+version: 1
+form: analogy
+grounds:
+- CASE-tmplyfo2
+concludes:
+- CLAIM-038
+tags:
+- contextuality
+- causality
+date: '2026-10-10'
+line: pragmatic-transport
+summary: >-
+  The owner's inference, made twice and declined twice: at U46 from
+  the paradoxes of closed timelike curves, at U47 from "who crossed the
+  meeting point first?". A161 and A164 refused it. Filed because two
+  claims undercut it, and because the relativity analogy has now
+  returned, through the owner, after [ARG-004](ARG-004.md).
+undercut_by:
+- CLAIM-tmpc4chg
+- CLAIM-tmpersh3
+---
+<!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as the conclusion this rejected inference was offered for -->
+<!-- inactive-ok-file: CLAIM-tmpe2csg — Proposed; open, and cited as the claim A164 drew from the second push -->
+<!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier argument from the same analogy, to another conclusion -->
+
+# ARG-tmpsb1c4: Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation
+
+## The inference
+
+If physical theory contains locally consistent descriptions with no
+consistent whole, then the sheaf model's allowance of non-gluing
+([CLAIM-038](../claims.d/CLAIM-038.md)) has physical precedent.
+
+The owner offered it twice. U46, after A158 said a contextual empirical
+model may have no globally admissible realization: "I maybe swimming out of
+my lane here, but don't we know this to be the case because of causality
+paradoxes from general relativity?" U47, narrowing it: "the paradox I was
+thinking of was actually just "who crossed the meeting point first?" ...
+They can't both be true at the same time, so the local interpretations can
+be glued into a global section", where "can" is read as "can't"
+([CASE-tmplyfo2](../cases.d/CASE-tmplyfo2.md) gives the reasons).
+
+## Critical questions
+
+- **Are the cases alike in the relevant respect?** For closed timelike
+  curves, partly: a causal loop and a contextual model are both
+  local-to-global problems. But they behave oppositely under passage to
+  distributions. A loop with no deterministic solution has a distributional
+  fixed point, and a model with no global assignment in its supports has no
+  global distribution ([CLAIM-tmpc4chg](../claims.d/CLAIM-tmpc4chg.md)). For simultaneity, no: there is no
+  obstruction at all. The frames are global charts related by a group
+  action, and only spacelike-separated events change order
+  ([CLAIM-tmpersh3](../claims.d/CLAIM-tmpersh3.md)).
+- **What transfers?** Only the warning that "is there a global
+  realization?" depends on the domain asked about. A161: "**Principle:
+  Always specify the domain of global realizability.**"
+- **What does not?** Any evidence that communicative observations fail to
+  glue. A161: "I would avoid claiming that **general relativity proves that
+  communicative observational systems need not possess global
+  realizations**." A164: "**The relativistic example is therefore not
+  evidence that global gluing fails.**"
+
+Rejected as an inference to [CLAIM-038](../claims.d/CLAIM-038.md). Two claims undercut it,
+[CLAIM-tmpersh3](../claims.d/CLAIM-tmpersh3.md) and [CLAIM-tmpc4chg](../claims.d/CLAIM-tmpc4chg.md).
+
+## What survives
+
+[CLAIM-038](../claims.d/CLAIM-038.md) does not need this support. It is a definitional allowance, and
+its evidence is [LIT-016](../literature.d/LIT-016.md) and [CASE-035](../cases.d/CASE-035.md), not physics. What A164 made of
+the second push is a different claim: a disagreement is not an obstruction
+until the correspondence is fixed ([CLAIM-tmpe2csg](../claims.d/CLAIM-tmpe2csg.md)).
+
+The analogy has a history in this record. [ARG-004](ARG-004.md) built the same
+relativity analogy at U9/A18 and aimed it at another conclusion, that
+translation is a change between frames with invariants. It was undercut in
+the same reply and Rejected. This time it came back through the owner, not
+the assistant, and as evidence for non-gluing rather than as a model of
+frames. It was undercut in the same reply again.

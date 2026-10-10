@@ -18,6 +18,10 @@ summary: >-
   transformations, and "Recent computational work has explicitly modeled
   his analysis". The manuscript §2 mentions Lévi-Strauss's
   transformations but cites neither Descola nor the computational work.
+complements:
+- CLAIM-tmpi8p0d
+supports:
+- CLAIM-tmpgp40l
 ---
 <!-- inactive-ok-file: LIT-775 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

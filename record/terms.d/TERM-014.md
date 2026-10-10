@@ -16,8 +16,14 @@ summary: >-
   equivalence class needs a shared space of situations, which the sheaf
   move had just given up; the manuscript keeps both readings side by
   side (§3).
+used_by:
+- CLAIM-tmp1xaiq
+- CLAIM-tmp59oav
+- CLAIM-tmpd1aee
 ---
 <!-- inactive-ok-file: TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: TERM-002 — Superseded; the neighbouring definition this entry was contrasted with, cited as history -->
+<!-- inactive-ok-file: CLAIM-tmpd1aee — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # TERM-014: communicative object, as an observational equivalence class
 
@@ -41,3 +47,12 @@ right: "Define an object by its observational profile where a compatible global
 realization exists. Where no such realization exists, retain the family of local
 constraints as the primary empirical object rather than inventing a global
 state."
+
+## Where it went
+
+A203 §14 made observational equivalence "relative to the chosen probes"
+([CLAIM-tmpd1aee](../claims.d/CLAIM-tmpd1aee.md)). A218 Ch7 went further: "A structural kind may be real while
+remaining indistinguishable under an insufficient family of empirical
+probes". The equivalence class stops being the identity criterion and
+becomes a limit on knowing a kind ([TERM-tmp7encb](TERM-tmp7encb.md)). No turn addresses this
+entry.

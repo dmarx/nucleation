@@ -1,6 +1,6 @@
 ---
 number: 2
-status: Active
+status: Superseded
 formerly:
 - TERM-tmp1afp0
 title: 'communicative object, as a compatible family of local sections'
@@ -18,9 +18,9 @@ summary: >-
   of jointly accessible observables, with no global assignment
   presupposed. The manuscript §3.
 used_by:
-- CLAIM-038
-- CLAIM-044
 - CLAIM-124
+superseded_by:
+- TERM-tmpgok7x
 ---
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
@@ -42,3 +42,15 @@ empirical supports or distributions rule out the resulting global assignment".
 
 Not a point in a semantic space, and not necessarily a region in one ([TERM-022](TERM-022.md)).
 It may have no global realization at all ([CLAIM-038](../claims.d/CLAIM-038.md)).
+
+## Why it was superseded
+
+A compatible family of sections of the event presheaf E(U) = ∏_(x∈U) O_x
+always glues, because E is a sheaf and the cover covers X. So "no global
+assignment presupposed" says nothing at the level of sections
+([CLAIM-tmp2xpga](../claims.d/CLAIM-tmp2xpga.md)). The manuscript §3 sentence quoted above had it right: the
+question arises "when empirical supports or distributions rule out the
+resulting global assignment". The error was in A78's prose and in this
+entry's title. A125 §2 found it, and A129 §2 corrected it at the owner's
+U41 "double click on this". A151 §2, A173 and A178 §4.2 restate the
+correction. Superseded by [TERM-tmpgok7x](TERM-tmpgok7x.md).

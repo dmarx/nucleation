@@ -18,6 +18,8 @@ summary: >-
   functional".
 used_by:
 - CLAIM-048
+superseded_by:
+- TERM-tmpz8i47
 ---
 
 # TERM-010: fidelity, as a weighted three-term directed distortion
@@ -45,3 +47,12 @@ Three things, none argued for in the exchange, on the chunk-6 reader's reading
 
 Its terms are [TERM-021](TERM-021.md) (observational) and [TERM-028](TERM-028.md) (decision); the structural term is
 the restriction defect of C6 Appendix B.
+
+## Why it is still Active
+
+[TERM-tmpz8i47](TERM-tmpz8i47.md) replaced the weighted scalar as the foundation of fidelity on
+2026-10-10. Under it, transports are compared component by component, and a
+scalar exists only once a task fixes the weights. The weighted sum survives in
+that role, as the scalar a task-fixed weighting gives. It is also what the
+manuscript §6 states, as "a flexible directed fidelity functional", and no draft
+has yet changed that.

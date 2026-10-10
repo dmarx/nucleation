@@ -35,6 +35,8 @@ summary: >-
   not say that real transformers' spectra arise this way: the data are
   isotropic Gaussian, the target is inside the model class, and the
   agreement with measured spectra is qualitative.
+supports:
+- CLAIM-tmpro4wi
 ---
 
 <!-- inactive-ok-file: THEORY-106 — Proposed; compared in scope below -->

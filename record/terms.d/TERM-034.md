@@ -15,6 +15,8 @@ summary: >-
   conclusion"). The manuscript never defines fidelity in a sentence: §6
   gives a "flexible directed fidelity functional" and §5 the decision
   comparison.
+used_by:
+- CLAIM-tmpbaexb
 ---
 
 # TERM-034: fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter
