@@ -31,6 +31,7 @@ summary: >-
   survive translation.
 illustrated_by:
 - CASE-tmpgdy8a
+- CASE-tmpa82q4
 ---
 <!-- inactive-ok-file: CLAIM-tmp95pjv — Proposed; re-performance fidelity, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
@@ -122,3 +123,17 @@ its residue: whether the target culture's norms define the same roles.
 That is part of the correspondence [QUESTION-005](../questions.d/QUESTION-005.md) asks for, and of
 re-performance fidelity ([CLAIM-tmp95pjv](CLAIM-tmp95pjv.md)). [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) holds open the
 case where it bites hardest, teasing.
+
+## Note of 2026-10-10: a same-wording case
+
+[CASE-tmpa82q4](../cases.d/CASE-tmpa82q4.md) now illustrates the objection alongside [CASE-tmpgdy8a](../cases.d/CASE-tmpgdy8a.md), with
+identical wording: the hymn phrase "wonder-working power" in the 2003 State of
+the Union, taken as an appeal to shared faith by those who sing the hymn and
+as secular praise by others, with both audiences' uptake documented and the
+split measured experimentally (Albertson 2015; abstract read, stimulus and
+figures unverified). It shows the residue the objection keeps after [CLAIM-151](CLAIM-151.md)
+version 2: whether a hearer holds the addressed role depends on norms the
+words do not carry, here inside one language and one broadcast. It does not
+settle whether the audience's role constitutes the act or only evidences it,
+since the speaker designed both readings. The case also lists TV Tropes's
+audience-split lists as a pool of items for [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md).

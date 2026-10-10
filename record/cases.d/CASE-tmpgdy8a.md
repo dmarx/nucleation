@@ -18,6 +18,8 @@ summary: >-
   [CLAIM-tmpcq79k](../claims.d/CLAIM-tmpcq79k.md). Partial: the token is a photograph, not wording.
 illustrates:
 - CLAIM-tmpcq79k
+variants:
+- CASE-tmpa82q4
 ---
 <!-- inactive-ok-file: CLAIM-tmpcq79k CLAIM-tmpc25sn — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-130 CLAIM-091 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the model that holds the audience fixed, cited as open -->
@@ -138,3 +140,18 @@ audience's uptake is not documented in anything the search read.
   *New Media & Society* 13(1) (2011), 114–133, DOI 10.1177/1461444810365313.
   Background on context collapse; the abstract only was read, and it
   documents no single remark with uptake in two audiences.
+
+## Note of 2026-10-10: a same-wording case
+
+A second search, which the owner asked for, found the verbal companion this
+case lacked: [CASE-tmpa82q4](CASE-tmpa82q4.md), filed as its variant. In the State of the Union
+of 2003 George W. Bush used "wonder-working power", the refrain of an 1899
+hymn, verbatim; churchgoers who knew the hymn heard the power of Christ,
+others heard boilerplate, and Albertson's experiment with an ingroup and a
+religiously diverse outgroup measured the split. It meets "identical
+wording", which this case does not. It meets the change of audience less
+well than this case does: the speech's audience was mixed at once, and the
+split was designed by the speaker rather than reached by a later repost. The
+intention-based reply bears on it at least as hard as on this one. This case
+stands as the accidental, image-borne instance; the new one is the verbal,
+deliberate one.
