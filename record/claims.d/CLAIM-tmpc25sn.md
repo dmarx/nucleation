@@ -118,3 +118,23 @@ conditions, which carry the claim's "can change the act", and on cases in
 which the speaker's intention is held fixed. For teasing, the line's central
 case, the rival is unanswered and its literature unread here, and
 [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) holds it open. The objection stays open.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpq8ynx](../cases.d/CASE-tmpq8ynx.md) is the first case the record holds that can be read against
+this objection's rival on documented data rather than on [CASE-018](../cases.d/CASE-018.md)'s
+invented variation. In Labov's recorded sounding sessions, whether a remark
+is a ritual or a personal insult follows the shared knowledge, before the
+audience, that it is untrue. The verdicts of the target and the group
+change while the ritual aim that Labov attributes to the speaker stays
+fixed.
+
+It supplies what this objection's first answer asks for: a case in which the
+act changes with a relation among the parties while the intention is held
+fixed. It does so only partly. The intention is the analyst's attribution,
+except in one exchange with a use/mention complication. And Labov's rule is
+stated in nested beliefs, which is Gricean in shape, so the rival can read
+it as the condition for recognising an intention to sound and call the
+hearers' uptake a mistake. The case does not settle that dispute. It does
+move it from an invented case to recorded transcripts, and names the
+elicited test that would settle it. The objection stays open.

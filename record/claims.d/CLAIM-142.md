@@ -35,6 +35,7 @@ rests_on:
 grounds:
 - THEORY-032
 - LIT-221
+- CASE-tmpt7tsv
 uses:
 - TERM-014
 complements:

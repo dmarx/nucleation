@@ -19,6 +19,8 @@ grounds:
 - LIT-264
 - CASE-037
 - CASE-tmpxnd3y
+- CASE-tmp0st1e
+- CASE-tmp6whdw
 complements:
 - CLAIM-105
 - CLAIM-tmpx3m7e
@@ -172,3 +174,26 @@ it measure reader agreement: the openness of the source is attested by
 translators and scholars, and a defender can reply that genre convention
 makes the beloved determinately male for Persian readers. The case's
 reader test, which could be items in [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md), would settle that.
+
+## Note of 2026-10-10: the reverse half
+
+[CASE-tmp6whdw](../cases.d/CASE-tmp6whdw.md), found by a search the owner asked for, is a documented
+candidate for the half [CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md) left open: a question the source
+decides that a rendering makes undecidable. Tatiana's letter in *Eugene
+Onegin* III moves from вы to ты at «я твоя» and back to вы at «ваша честь»,
+with nothing but the pronouns to mark it. Kline (2009) has "you"
+throughout, so neither move is in the English; Spalding (1881) moves to
+"thou" and never returns. The question is this claim's kind, the
+speaker–addressee relation, and the three texts are graded: the Russian
+decides both moves, Spalding one, Kline none. The lead first given,
+Pushkin's «Ты и вы», does not serve, because the poem names its pronouns
+and every rendering must keep the switch.
+
+It does not supply reader evidence. That Russian readers take the moves
+determinately is attested by one essayist and unchecked school notes;
+Lotman and Nabokov were not read. That Kline's readers cannot decide is
+inferred from the text. A defender can say the passion decides the
+intimacy anyway, which leaves the return to вы as the cleaner item. The
+reader test in the case could be items in [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md). With [CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md),
+the claim now has a documented candidate for each half of a change of
+cover, and measured reader agreement for neither.

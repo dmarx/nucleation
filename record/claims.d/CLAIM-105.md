@@ -146,3 +146,21 @@ of who is addressed. It supplies nothing for this entry's own form, a
 change of global compatibility at small local distortion within a fixed
 scenario: it has no contextual data and no measured distortion, and its
 evidence is translators' and scholars', not readers' agreement.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmp0st1e](../cases.d/CASE-tmp0st1e.md), found by a search the owner asked for, collects the
+documented tests of contextuality on elicited human judgements. It supplies
+the evidence that this headline's fixed-scenario form still lacks a case:
+no study of pragmatic or meaning judgements finds contextuality proper at an
+adequate sample size. [LIT-264](../literature.d/LIT-264.md) and Wang's thesis (2024) find none;
+Lo, Sadrzadeh and Mansfield's Winograd schemas (2023), the one test with
+pragmatic content, find a violation of about one standard deviation, with
+no-signalling forced by the response format. The positive results that are
+reliable, Cervantes and Dzhafarov's "Snow Queen" and its follow-up, have
+instructed matching as content, not pragmatics, and are disputed. It does
+not supply a contextual model for this entry, and it does not show that
+none exists: what it documents is that the adequate test has not been
+run. A powered rerun of Lo et al.'s design, under CbD, is what would
+decide the fixed-scenario form, and could be the contextuality arm of
+[CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md).

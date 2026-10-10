@@ -45,6 +45,8 @@ objected_by:
 - CLAIM-132
 - CLAIM-tmps7va1
 - CLAIM-tmpt76qw
+illustrated_by:
+- CASE-tmp4iy8h
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-136 — Proposed; the constitution claim this rests on and the individuation claim beside it, both open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; cited as the manuscript's thesis, which this does not replace -->

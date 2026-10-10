@@ -77,3 +77,26 @@ would hold only for acts with standing conditions.
 
 The works named here should be checked against the Anthology of the SOTA
 before any is filed.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpq8ynx](../cases.d/CASE-tmpq8ynx.md), Labov's recorded sounding sessions, is the first documented
+case this question asks for. Whether a pejorative remark about the hearer's
+relative is a sound (ritual insult) or a personal insult follows a relation
+the parties sustain together. A sound needs it to be shared knowledge before
+the audience that the remark is untrue; Labov states this as his rule. The
+words can be the same, and in the recorded exchanges the act changes while
+the speaker's ritual aim, as Labov attributes it, stays fixed. The Crow and
+Hidatsa joking-relative adds standing: the same reproof is licensed from a
+*maku'tsati* and an offence from anyone else.
+
+What it supplies: documented, non-institutional data in which teasing's
+nearest documented kin, ritual insult, is individuated by a jointly held
+frame. What it does not supply: the speaker's own avowal in the main
+exchanges, where the aim is Labov's inference. Only the exchange in which a
+researcher's hypothetical question is taken as a real sound has the
+speaker's side stating its intention. The intention-based reply, that the
+hearers misread a sound, is not answered by the transcripts. The case
+sketches the elicited test that would answer it. No reading of the
+intention-based line or of Goffman has been added, so the question stays
+open.

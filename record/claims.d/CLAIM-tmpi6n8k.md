@@ -35,6 +35,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-155 THEORY-164 THEORY-167 THEORY-173 — Proposed; the readings whose scope is described, cited for what they measure, not as settled -->
 <!-- inactive-ok-file: LIT-768 — Deferred; Bartlett, unread here for want of a lawful copy, cited as absent support and not leaned on -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-115 CLAIM-139 — Proposed; cited as the claim CLAIM-068 feeds and the central theses it does not, not as settled -->
+<!-- inactive-ok-file: CLAIM-090 QUESTION-tmpt0ou9 — Proposed or open; cited in the note of 2026-10-10 for what the documented case bears on, not as settled -->
 
 # CLAIM-tmpi6n8k: The record's iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain
 
@@ -90,3 +91,32 @@ evidence. It is minor for the argument: [CLAIM-068](CLAIM-068.md) feeds [CLAIM-0
 regimes, not the central theses [CLAIM-115](CLAIM-115.md) and [CLAIM-139](CLAIM-139.md). It is also a
 reading-list gap for the owner, to be checked against the anthology before
 anything is filed here.
+
+## Note of 2026-10-10: a documented case
+
+The search of 2026-10-10 that the owner asked for found the chain studies
+this objection names as absent, and [CASE-tmpo33kl](../cases.d/CASE-tmpo33kl.md) files two of them:
+Moussaïd, Brighton and Gaissmaier (2015) and Jagiello and Hills (2018). Each
+codes, at every link of a serial-reproduction chain with a different
+reteller at each step, the evaluative stance of the message toward a hazard,
+on a scheme separate from its content. The content decays and diverges; the
+evaluative signal is kept and drifts negative; the transmitters' measured
+risk perception predicts the direction of the change.
+
+The concession therefore narrows. For **evaluative stance**, a stance toward
+a topic, the record now has chain evidence, documented, bearing on [CLAIM-068](CLAIM-068.md)
+and on [CLAIM-090](CLAIM-090.md)'s measured-prior condition. For **footing**, interpersonal
+stance and speech-act function, it still has none: neither study codes who
+stands behind a statement, whom it addresses or whether it teases or
+reproaches, and the search found no chain study that does. The closest,
+Altay, Claidière and Mercier (2020) on source attribution in rumours, is a
+single transmission step. [CLAIM-068](CLAIM-068.md)'s extension "to speaker footing" stays
+without a study.
+
+What the case does not supply: chains started from different stances, which
+[CLAIM-068](CLAIM-068.md)'s defeat condition needs; a clean prior (Moussaïd's correlation
+uses a risk perception reported after the experiment and measured
+indirectly); and a reply to the reading of the signal as the valence of the
+content that survived. A footing chain would need the measurement that
+[QUESTION-tmpt0ou9](../questions.d/QUESTION-tmpt0ou9.md) asks for first. The Anthology of the SOTA was checked and
+holds neither study.

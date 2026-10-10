@@ -33,6 +33,8 @@ summary: >-
   checkable; whether real receivers show such gains is a proposal. The
   usable-information literature is not held. It does not say which rule
   class real readers have.
+illustrated_by:
+- CASE-tmpabax8
 ---
 <!-- inactive-ok-file: CLAIM-050 CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: THEORY-156 THEORY-176 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
@@ -113,3 +115,27 @@ and [CLAIM-050](CLAIM-050.md)'s restated condition does not count it as a defeat
   own. Restricting the rules loses Blackwell's garbling theorem, as
   [THEORY-176](../theory.d/THEORY-176.md) shows for stitching, and the literature on usable information
   is not held here.
+
+## Note of 2026-10-10: a case on documented halves
+
+[CASE-tmpabax8](../cases.d/CASE-tmpabax8.md), from a search the owner asked for, is stipulated on
+documented halves. Simplified texts, made from the source alone, raised
+comprehension for named restricted readers (autism; weaker second-graders;
+lay health readers), and automatic simplifications lowered it for fluent
+native readers, but in different studies on different texts. No study
+gives one rendering both a gain for a restricted reader and a loss for a
+full one, so the ceiling is not checked within any study; the case's
+design would check it.
+
+It also supplies documented nulls, and one reversal that bears on this
+claim's gloss. Burnham et al. 2008 (doi:10.1093/deafed/enn003, abstract
+only) found that, among caption users, "more proficient readers ... are
+better able to benefit from caption rate and, to some extent, text
+reduction modifications". The gain from the garbling went to the less
+restricted readers. That does not meet the defeat condition, which asks
+whether named receivers ever gain, and some do elsewhere. It does cut
+against reading "They help a receiver only when they do work the receiver
+cannot" as a prediction that the most restricted gain most. Szarkowska et
+al. 2016 found no benefit of edited subtitles for deaf viewers. All the
+documented probes are content questions, none the interpersonal relation
+of [CLAIM-087](CLAIM-087.md).

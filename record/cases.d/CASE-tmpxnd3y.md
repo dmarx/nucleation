@@ -235,3 +235,16 @@ identifier.
 - For the reverse-half lead: Pushkin, «Ты и вы» (1828), with Givental and
   Wilson-Egolf and Bullock at the URLs above, known here only through the
   companion search report. Unverified.
+
+## Note of 2026-10-10: the reverse half has a candidate
+
+The reverse half this case lacks, a question the source decides that a
+rendering makes undecidable, now has a documented candidate in
+[CASE-tmp6whdw](CASE-tmp6whdw.md): Tatiana's letter in *Eugene Onegin* III, whose вы→ты→вы is
+lost in Kline's "you" throughout and half kept in Spalding's "thou" with no
+return. The lead named above, Pushkin's «Ты и вы», was checked and fails:
+the poem names its pronouns, so every rendering keeps the switch, and what
+English endangers is the value of "thou", not the question. The new case
+supplies attested texts and a visible loss. It does not supply what this
+case also lacks, measured reader agreement on either side, and its
+native-reader attestation is thinner than this case's scholarly one.

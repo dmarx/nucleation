@@ -27,6 +27,8 @@ summary: >-
   with contexts indexed by framing order. Active, because it is
   elementary and checkable. It does not say the state-model account is
   wrong, and it does not identify the defects.
+illustrated_by:
+- CASE-tmpkhubu
 ---
 <!-- inactive-ok-file: CLAIM-063 CLAIM-117 — Proposed; the commutator thesis and the dynamics thesis this restates on observations, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpeqvy4 — Proposed; the procedure-level measure that fixes the kernel across items, cited as open -->
@@ -110,3 +112,26 @@ answer).
   term by term.
 - It does not choose ε or K. Those are fixed by design and estimated, and
   their estimation error is not in the bound.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpkhubu](../cases.d/CASE-tmpkhubu.md), found by a search the owner asked for, gives this bound a
+documented illustration and a practical resolution. Haberstroh et al.
+(2002) gave two satisfaction questions, in German and in a back-translated
+Chinese version, in both orders; the part–whole correlation's order effect
+is about +.25 in the German administration and about −.14 in the Chinese,
+with the life-first order nearly kept (.53 against .50) and the
+academic-first order not (.78 against .36). That is the bound's
+contrapositive in kind, with the distortion localised to one order-context.
+It does not supply an ε: only correlations are reported, so the inequality
+cannot be checked on it, and language and readership change together.
+
+The resolution comes from Moore's Clinton–Gore poll, read through [LIT-834](../literature.d/LIT-834.md).
+Its order effect is about 0.095 in total variation, and sampling alone puts
+about 0.03 to 0.04 into each order's estimated ε at n ≈ 450, so 2ε is about
+0.05 to 0.08 before any distortion: as large as the effect it would
+certify. At poll sizes the bound cannot certify that a rendering keeps an
+order effect of that size; roughly ten times the respondents per order and
+version would be needed. This is a fact about estimation, which "What it
+does not say" already sets outside the bound, and it does not touch the
+derivation.

@@ -73,3 +73,34 @@ Stage 0 of the discriminating study ([CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md
 negative answer would not show that footing is unreal. It would show that
 the designs' categories cannot carry the line's defeat tests, and the
 categories would have to be revised before the theses are tested.
+
+## Note of 2026-10-10: a documented case
+
+The search of 2026-10-10 that the owner asked for found annotation studies
+that bear on this question, and [CASE-tmp58yn4](../cases.d/CASE-tmp58yn4.md) files two of them.
+
+What they answer. FactBank labels one event's factuality separately for each
+source that reports it, so the proposition is held fixed while the
+source-relative label varies, and trained annotators agree at κ = 0.82. A
+stance label that is separable from the proposition, close to Goffman's
+principal, can be annotated reliably when its categories are defined by
+discriminating tests and the task is decomposed. Kiesling et al. (2018)
+annotate Du Bois's stance triangle ([LIT-779](../literature.d/LIT-779.md)), with an investment dimension
+defined as the split of animator from principal, and reach only α = 0.40 to
+0.57, below 0.4 for investment and alignment in most of their material, with
+agreement that changes from one community to another. Interpersonal stance,
+the construct nearest the designs' categories, is only moderately reliable
+even for trained judges. That is a negative-leaning answer, and it supports
+this question's worry that a defeat test in those categories tests the
+categories.
+
+What they leave. Neither reports agreement between two passes of one judge,
+which is the failure [CASE-012](../cases.d/CASE-012.md) shows. Neither runs the known-groups test,
+renderings built to differ only in the attributed speaker. Neither uses the
+designs' categories ([CASE-021](../cases.d/CASE-021.md)'s, [CASE-040](../cases.d/CASE-040.md)'s) or lay readers. No study found
+labels Goffman's participation roles as such. The question stays open, and
+Stage 0 of [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md) is still the design that would answer it. FactBank
+suggests how to write that stage: decompose the judgement and give a test
+for each category. Kiesling et al. cite Craggs and Wood (2004) on
+Krippendorff's α, a source on reliability coefficients this question says
+the record lacks.

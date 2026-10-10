@@ -99,7 +99,7 @@ Russian form." At II.22 Vronsky speaks French to avoid «невозможно-х
 **The social coordinate.** Brown and Gilman 1960, p. 253: "The pronoun
 'thou' is reserved, nowadays, to prayer and naive poetry". So Dole's
 "(thou)" points a modern English reader toward reverence or archaism rather
-than intimacy. Their p. 274 gives the reading the scene relies on: "The
+than intimacy. Their p. 275 gives the reading the scene relies on: "The
 momentary shift of pronoun directly expresses a momentary shift of mood."
 
 ## What it can show

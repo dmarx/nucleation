@@ -33,6 +33,8 @@ summary: >-
   transmission concerns the identity of a work, which [TERM-040](../terms.d/TERM-040.md) keeps apart
   from the kind. Active, because it is read off the record's own texts. It
   does not say judges track descent.
+grounds:
+- CASE-tmp15jvz
 ---
 <!-- inactive-ok-file: CLAIM-tmps7va1 — Rejected; the objection this claim answers, cited as answered -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-139 CLAIM-106 CLAIM-002 — Proposed; the theses this claim reads and sits beside, cited as open, not settled -->

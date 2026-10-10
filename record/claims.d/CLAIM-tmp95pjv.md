@@ -18,6 +18,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 grounds:
 - THEORY-156
+- CASE-tmpbwzkh
 objects_to:
 - CLAIM-tmpyeik3
 complements:
@@ -41,6 +42,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpz239h — Proposed; the restated decision term, cited as the measure this uses -->
 <!-- inactive-ok-file: LIT-778 — Deferred; Torgersen, unread here, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-tmpnttsk — Proposed; the weighting claim, cited in a dated note as the rival reading of a reception split, open -->
 
 # CLAIM-tmp95pjv: Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell's order compares a rendering with its source as evidence about the source's situation, which both readers decide about, while a rendering that re-performs the act in the target's situation is compared only through a correspondence of situations
 
@@ -123,3 +125,27 @@ arise. They arise for re-performance.
   [QUESTION-005](../questions.d/QUESTION-005.md).
 - It does not say how far apart incomparable experiments are in Le Cam's
   sense; that rests on Torgersen ([LIT-778](../literature.d/LIT-778.md)), unread here.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpbwzkh](../cases.d/CASE-tmpbwzkh.md), found by a search the owner asked for, supplies the
+documented case this claim lacked: the English localization of *Ace
+Attorney*, where the localizer names the two targets herself ("textually
+accurate" against "emotionally accurate"), states the correspondence of
+situations (an alternate Los Angeles without the Alien Land Law of 1913),
+and the fidelity is contested on record. It does not supply the defeat
+condition's evidence: no receivers have been given a report task and a
+re-performance task on the same renderings, and the critics-against-fans
+split could be a difference of weights ([CLAIM-tmpnttsk](CLAIM-tmpnttsk.md)). Hsu's "strike a
+balance" is the strongest reply for [CLAIM-tmpyeik3](CLAIM-tmpyeik3.md).
+
+The same search found a case that suggests this claim may need narrowing.
+"What it does not say" calls compensation ([CLAIM-091](CLAIM-091.md)) "a re-performance
+notion". Translators who rendered "Son of God" with non-biological terms
+for Muslim readers defend the compensating rendering as the better
+*report*: the literal word "add[s] a procreative meaning that was absent
+from the original". If that holds, compensation can serve report fidelity
+for a reader whose code differs, and the line should say that compensation
+is mainly, not only, a re-performance notion. The renderings are known
+only through a critic, and the reader evidence is the translators' own, so
+the narrowing is proposed, not made.

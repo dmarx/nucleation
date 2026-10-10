@@ -29,6 +29,8 @@ summary: >-
   is itself empirical. The objection is right that the stated defeat
   conditions name neither task nor receivers; [CLAIM-tmpc1o4m](CLAIM-tmpc1o4m.md),
   [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md) and [QUESTION-tmppstva](../questions.d/QUESTION-tmppstva.md) address that.
+illustrated_by:
+- CASE-tmpnuxjp
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-074 CLAIM-106 CLAIM-115 CLAIM-139 — Proposed; open, and cited as the relativity thesis this reconciles and the theses whose conditions it bears on, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpqfgjl — Proposed; the objection this entry answers, left open until the owner decides on the revised theses -->
@@ -112,3 +114,23 @@ own conditions are unchanged.
 - It does not say P's default weighting is privileged. It is one task's.
 - It does not say the link is linear or the components fixed. The model's
   form is part of what the preregistration fixes.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpnuxjp](../cases.d/CASE-tmpnuxjp.md), found by a search the owner asked for, illustrates this
+claim with a documented reception split over one translation, Deborah
+Smith's *The Vegetarian*. Each side's default task is stated in print: the
+Booker judges evaluate "the finished English-language work on their own
+terms", and assessment in Korea "does usually involve comparison". One
+critic, Charse Yun, gives two verdicts on one set of perceived features by
+changing task. It does not test the defeat condition: it is qualitative,
+and no weights can be fitted.
+
+It also shows a limit of the model. Part of the split is access, not
+weights. Some divergences, such as the confusion of "arm" (pal) and "foot"
+(bal), are invisible to readers without Korean ("Most English readers will
+simply glide over them unaware"). For those components the Anglophone
+weight is zero by blindness, not by a default task. A test of this claim
+across populations with unequal access to the source has to separate the
+components both populations can perceive from those only one can, and fit
+weights on the first kind only.
