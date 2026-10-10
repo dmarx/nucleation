@@ -23,6 +23,9 @@ summary: >-
   shows that the obstruction is in the supports, not in the event sheaf.
   It appears three times (A129 §2, A161, A178's negative control), so it
   gets a code.
+supports:
+- CLAIM-tmpbvk4j
+- CLAIM-tmp1rlu5
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-105 CLAIM-009 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->

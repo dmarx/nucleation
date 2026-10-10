@@ -25,9 +25,21 @@ summary: >-
   A24's D(τ), the origin of the transport framework, and the
   manuscript's L_obs (§6). One of three terms of the manuscript's
   fidelity functional.
+objected_by:
+- CLAIM-tmp6xxbf
+- CLAIM-tmpdwfva
+- CLAIM-tmpgetbr
+- CLAIM-tmphn6za
+- CLAIM-tmpqfgjl
+- CLAIM-tmpwvljf
+complements:
+- CLAIM-tmp351uu
+- CLAIM-tmpeqvy4
+- CLAIM-tmpx3m7e
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmp351uu CLAIM-tmpeqvy4 CLAIM-tmpx3m7e — Proposed; the distinctive test and the two restatements of this measure, cited as open -->
 
 # CLAIM-005: Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector
 
@@ -69,3 +81,13 @@ items, a target that permutes their renderings leaves e_τ(C)^target
 unchanged. So the contexts must be at least as fine as the pairing that
 fidelity is meant to track. This is elementary, and the manuscript's L_obs
 inherits it. The case beside it is [CASE-041](../cases.d/CASE-041.md).
+
+## Note of 2026-10-10: the replies
+
+After the audit ([CLAIM-tmp6xxbf](CLAIM-tmp6xxbf.md), [CLAIM-tmpflbi3](CLAIM-tmpflbi3.md), [CLAIM-tmpwvljf](CLAIM-tmpwvljf.md)): for one
+item, L_obs can be made zero by a constant kernel, so it is restated over a
+class of items with one kernel family, fitted on some items and scored on
+others ([CLAIM-tmpeqvy4](CLAIM-tmpeqvy4.md)), and over both covers, with the target's new
+questions asked of the source too ([CLAIM-tmpx3m7e](CLAIM-tmpx3m7e.md)). Its distinctive test
+against a static pragmatic profile is [CLAIM-tmp351uu](CLAIM-tmp351uu.md). The manuscript's
+text quoted above is unchanged.

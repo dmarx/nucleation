@@ -21,6 +21,7 @@ rests_on:
 - CLAIM-011
 grounds:
 - CASE-041
+- CASE-tmpt860v
 complements:
 - CLAIM-142
 summary: >-

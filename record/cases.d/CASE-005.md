@@ -18,6 +18,10 @@ summary: >-
   independent framings in an LLM, a comparison of three ways of choosing
   a translation against human judgement, and prompt-only versus test-
   time-trained adaptation. Proposed, not run.
+supports:
+- CLAIM-tmpc3xwx
+variants:
+- CASE-tmp1uzfn
 ---
 <!-- inactive-ok-file: CLAIM-074 CLAIM-117 CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; replaced, and cited as the history this entry answers or replaces -->

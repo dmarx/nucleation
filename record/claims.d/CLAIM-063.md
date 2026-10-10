@@ -25,6 +25,10 @@ summary: >-
   A40 limited the inference: the conclusion holds of Φ's image only.
 argued_by:
 - ARG-006
+objected_by:
+- CLAIM-tmpvmzx9
+complements:
+- CLAIM-tmpfzcik
 ---
 
 # CLAIM-063: A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves
@@ -41,3 +45,15 @@ Its argument is [ARG-006](../arguments.d/ARG-006.md).
 ## What it does not say
 
 That the commutator *structure* is preserved: only its image under Φ ([CLAIM-011](CLAIM-011.md)).
+
+## Note of 2026-10-10: the replies
+
+After [CLAIM-tmpvmzx9](CLAIM-tmpvmzx9.md): the intertwining defects are not identified from
+data, since two models with the same observations can carry defects 0 and
+1. [CLAIM-tmpfzcik](CLAIM-tmpfzcik.md) bounds the observed order effect by observational
+distortions alone: if each order's response distribution is within ε of
+the source's under one outcome correspondence, the observed order effect
+is within 2ε. The identity explains that bound under a state model, and
+[ARG-006](../arguments.d/ARG-006.md)'s algebra stands. The defeat condition above, stated on "measured
+order effects", is to be read against that bound. The manuscript's text
+quoted above is unchanged.

@@ -38,6 +38,8 @@ objected_by:
 - CLAIM-132
 - CLAIM-134
 - CLAIM-138
+illustrated_by:
+- CASE-tmp9u2cl
 ---
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the objection this claim must meet -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-134 CLAIM-138 — Proposed; the companion thesis and the two objections to this one, all open -->

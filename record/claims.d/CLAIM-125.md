@@ -4,15 +4,30 @@ status: Proposed
 formerly:
 - CLAIM-tmpnyfix
 title: 'Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmprwo1c, CLAIM-tmpkf8pe and
+    CLAIM-tmpji66i: part 1 posed on menus of experiments, part 2 given
+    its monotone quantity, and the signalling evidence re-grounded.
+    Version 1's condition read: 'An existing framework characterizes,
+    for stochastic maps between empirical models with different
+    covers, when they preserve decision-relevant information (an
+    informativeness order such as Blackwell's, relative to a stated
+    family of decisions), and extends that characterization, or the
+    classification of classical transports, to signalling data.' The
+    title is unchanged.
 role: thesis
 defeated_if: >-
   An existing framework characterizes, for stochastic maps between
-  empirical models with different covers, when they preserve
-  decision-relevant information (an informativeness order such as
-  Blackwell's, relative to a stated family of decisions), and extends that
-  characterization, or the classification of classical transports, to
-  signalling data.
+  families of empirical models indexed by situations and with different
+  covers, when the source's decision-relevant information is recoverable
+  from the target (an informativeness order on menus of experiments,
+  relative to a stated family of decisions) or bounds its loss by a
+  deficiency, and extends that characterization, or the classification
+  of classical transports, to signalling data.
 tags:
 - contextuality
 - mathematics
@@ -38,10 +53,16 @@ summary: >-
 complements:
 - CLAIM-126
 - CLAIM-127
+objected_by:
+- CLAIM-tmp6xxbf
+- CLAIM-tmpji66i
+- CLAIM-tmpkf8pe
+- CLAIM-tmprwo1c
 ---
 <!-- inactive-ok-file: THEORY-174 THEORY-156 THEORY-177 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; replaced, and cited as the history this entry narrows -->
+<!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its routes to signalling in elicitation, open -->
 
 # CLAIM-125: Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data
 
@@ -78,11 +99,23 @@ Two parts remain open, and they are this claim:
    sense ([THEORY-156](../theory.d/THEORY-156.md)), relative to a family of decisions, taken across a
    change of cover. When a classical or contextual transport preserves that
    order is not addressed.
+
+   Restated on 2026-10-10 ([CLAIM-tmpkf8pe](CLAIM-tmpkf8pe.md)): Decision-relevant information.
+   Posed for families of models indexed by situations, each context an
+   experiment and the model a menu of them. Under the menu order the
+   preservation direction holds automatically for state-independent
+   classical simulations, so what is open is the converse, the source's
+   information recoverable from the target, and a deficiency bound.
 2. **Signalling data.** All three works assume no-signalling models: their
    compatibility condition generalises no-signalling. Pragmatic judgements
    need not satisfy it. Contextuality-by-Default ([LIT-777](../literature.d/LIT-777.md)) treats
    inconsistently connected systems within one scenario, but not transport
    between scenarios.
+
+   Added on 2026-10-10 ([CLAIM-tmprwo1c](CLAIM-tmprwo1c.md)): Per-content signalling is not
+   monotone under context-wise recodings, and CbD contextuality can be
+   created or removed by them; the quantity a transport can be asked to
+   bound is the joint overlap discrepancy, which one kernel cannot raise.
 
 ## What it does not say
 
@@ -111,8 +144,15 @@ noun–verb systems from corpus data:
 - 69 of the 90 systems signal.
 - 34 signal enough that they cannot be contextual at all.
 
-So for language data signalling is the typical case, not an edge case, and
-an extension to signalling data is not optional. The paper also gives a
+The counts suggest that signalling is common in these corpus data.
+(Version 1 read: "So for language data signalling is the typical case, not
+an edge case, and an extension to signalling data is not optional.") The
+counts are weak evidence ([CLAIM-tmpji66i](CLAIM-tmpji66i.md)): 51 of the 90 systems have Δ of
+0, 2 or 4, and with one occurrence per context a system with no signalling
+gives Δ̂ of 0, 2 or 4 with expectation 2. The conclusion that an extension
+to signalling data is not optional rests instead on the reading of [LIT-264](../literature.d/LIT-264.md)
+([NOTE-235](../notes.d/NOTE-235.md): behavioural data have plenty of inconsistent connectedness) and
+on [CLAIM-127](CLAIM-127.md)'s routes to signalling in elicitation. The paper also gives a
 quantity a transport could be asked to preserve or bound ([THEORY-177](../theory.d/THEORY-177.md)).
 That quantity is each content's least direct influence of context in a
 canonical causal model, which equals the total-variation distance between
@@ -145,3 +185,17 @@ No turn gives a reason for either move, and nothing in them answers either
 part. Both parts stay open. The narrowed form of [QUESTION-027](../questions.d/QUESTION-027.md), for
 decisions outside the observed probes, is the factorization-side analogue
 of part 1.
+
+## Note of 2026-10-10: restored to the agenda (A232)
+
+The converse of the note above. At U61 the owner asked for an updated
+proposal, and the assistant's draft (A232 §10) puts part 1 back as one of
+its four formal problems: "**F3 — Directed decision preservation:** Relate
+source-to-target Bayes-risk change, actual receiver recovery, and
+admissible changes of observational cover." It gives no argument for the
+move, as A203 and A218 gave none for the displacement. Part 2 does not come
+back as a problem of its own. Formal contextuality in pragmatic data
+"remains an exploratory branch, requiring appropriate handling of direct
+influences and sufficiently powered observation". This is the
+interlocutor's draft, not a manuscript, and nothing in it answers either
+part. Both stay open.

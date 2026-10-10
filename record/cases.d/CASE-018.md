@@ -21,6 +21,9 @@ supports:
 - CLAIM-061
 - CLAIM-091
 - CLAIM-151
+- CLAIM-tmpc25sn
+- CLAIM-tmpcq79k
+- CLAIM-tmpfe37n
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -55,3 +58,21 @@ relational-constitution claim on it ([CLAIM-151](../claims.d/CLAIM-151.md)). A21
 sentence, "A sentence expressing criticism of someone's spending can function
 as affectionate teasing, commiseration, mockery, or normative reprimand", is
 this case with its literary source removed.
+
+## Note of 2026-10-10: the replies
+
+"What it can show" is corrected ([CLAIM-tmpfe37n](../claims.d/CLAIM-tmpfe37n.md)): the same words with
+different acts show that the proposition is not sufficient for the act, not
+that it is not necessary. The text above is unchanged.
+
+## Note of 2026-10-10: a documented case
+
+The necessity half this case was filed for now has its own case,
+[CASE-tmp25bmx](CASE-tmp25bmx.md): Phillips's "hearty handshake all round" for Paul's "holy
+kiss", a published rendering that changes the proposition and that Nida
+judged to keep the greeting. It does not fill this case's role as
+corrected above: this case remains words held fixed, a sufficiency case.
+[CASE-tmp25bmx](CASE-tmp25bmx.md) gives the sufficiency half a documented companion from the
+same handbooks: a literal "kiss" read where kissing is amorous. That is the
+same proposition with a different act, which this case shows only by
+invention. Neither case has reader evidence.

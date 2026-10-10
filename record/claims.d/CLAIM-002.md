@@ -24,8 +24,11 @@ summary: >-
   transformations but not the three relations.
 complements:
 - CLAIM-147
+- CLAIM-tmp7qr7y
 illustrated_by:
 - CASE-038
+supports:
+- CLAIM-tmps7va1
 ---
 
 # CLAIM-002: A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles

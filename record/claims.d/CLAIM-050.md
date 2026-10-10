@@ -4,13 +4,30 @@ status: Proposed
 formerly:
 - CLAIM-tmpek80j
 title: 'Fidelity is relative to the communicative decisions the receiver must make, and Blackwell''s order of experiments makes that comparison precise'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmpdt857 and CLAIM-tmpflbi3.
+    Version 1's condition read: 'A case where one rendering is a
+    garbling of another yet is judged better on every communicative
+    task the manuscript names, which would show the Blackwell order is
+    the wrong standard rather than an incomplete one.' Its 'a case
+    where one rendering is a garbling of another' is not well typed,
+    since garbling relates procedures, not texts, and the case it
+    describes is met by bounded receivers without touching the order
+    (CLAIM-tmp0jq5k). The scope is report fidelity (CLAIM-tmp95pjv).
+    The manuscript's text quoted below is unchanged.
 role: thesis
 defeated_if: >-
-  A case where one rendering is a garbling of another yet is judged
-  better on every communicative task the manuscript names, which would
-  show the Blackwell order is the wrong standard rather than an
-  incomplete one.
+  Receivers' task-indexed fidelity verdicts rank the same rendering
+  procedures the same way whatever task in Q is named, so that fidelity
+  is not relative to the decisions; or, on a designed distribution of
+  situations, the Q-restricted deficiency between the source and
+  rendering procedures, computed on receivers' judgement outcomes,
+  predicts those verdicts no better than static pragmatic similarity
+  does.
 tags:
 - mathematical-statistics
 - information-theory
@@ -39,11 +56,22 @@ supports:
 - CLAIM-126
 - CLAIM-133
 - CLAIM-139
+- CLAIM-tmp3wo5j
+- CLAIM-tmpc1o4m
 complements:
 - CLAIM-142
+- CLAIM-tmp0jq5k
+- CLAIM-tmp95pjv
+- CLAIM-tmpz239h
+objected_by:
+- CLAIM-tmpbi9eb
+- CLAIM-tmpdt857
+- CLAIM-tmpflbi3
+- CLAIM-tmpyeik3
 ---
 <!-- inactive-ok-file: THEORY-161 — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-051 — Superseded; replaced, and cited as the history this entry answers or replaces -->
+<!-- inactive-ok-file: CLAIM-tmp0jq5k CLAIM-tmp95pjv — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
 # CLAIM-050: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
 

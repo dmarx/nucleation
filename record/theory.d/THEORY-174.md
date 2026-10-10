@@ -37,6 +37,8 @@ supports:
 - CLAIM-070
 - CLAIM-121
 - CLAIM-125
+- CLAIM-tmpkf8pe
+- CLAIM-tmprwo1c
 ---
 
 <!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim this theory bears on -->

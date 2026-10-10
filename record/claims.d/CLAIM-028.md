@@ -22,6 +22,8 @@ summary: >-
   and A89 called C6 "a theoretical manuscript with a specified empirical
   program". The synthetic results of E1 were legitimate existence
   constructions and their loss is not explained.
+supports:
+- CLAIM-tmplkh2i
 ---
 <!-- inactive-ok-file: CLAIM-081 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

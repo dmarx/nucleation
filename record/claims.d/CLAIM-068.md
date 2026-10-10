@@ -28,6 +28,10 @@ summary: >-
   the stable conventional endpoint and one stance-drift example, but not
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
+objected_by:
+- CLAIM-tmpi6n8k
+illustrated_by:
+- CASE-tmpo33kl
 ---
 <!-- inactive-ok-file: THEORY-164 THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -104,3 +108,10 @@ mechanism for contraction when a large model takes part in transmission. A
 model fitted to reproduce text well on average is least accurate on rare
 material, so it "might" homogenize culture. The paper states this but does
 not test it, so it is weak support.
+
+## Note of 2026-10-10: the replies
+
+[CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md) is conceded: no reading the record holds measures a stance or
+footing along a chain, so the stance extension has no study under it. The
+defeat condition is unchanged. Which transmission-chain studies of social
+and affective content to read is left to the owner.
