@@ -6,8 +6,8 @@
 
 **Model comparison** — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
 
-0 of 36 CASE documents. Back to the [full index](../README.md).
+1 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-041](../../../record/cases.d/CASE-041.md) | FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it | The owner pointed to FID at U50 and proposed FID with Projected GANs as a paired case study at U51. A184 framed the pair: FID evaluates a distribution through probes, and Projected GANs learn one under pressure from probes. The anthology's readings supply the fact the exchange lacked. The Projected GAN discriminator is ImageNet-trained, FID's features are ImageNet class evidence, and Kynkäänniemi et al. show that such a generator can match FID while doing worse in an independent feature space and with human judges. | Active |

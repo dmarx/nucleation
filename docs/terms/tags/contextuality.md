@@ -6,10 +6,11 @@
 
 **Contextuality** — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics.
 
-3 of 37 TERM documents. Back to the [full index](../README.md).
+4 of 43 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [TERM-002](../../../record/terms.d/TERM-002.md) | communicative object, as a compatible family of local sections | A78, after the owner's U29 pointer to the record: an object is a compatible family of local sections of the event presheaf over a cover of jointly accessible observables, with no global assignment presupposed. The manuscript §3. | Active |
+| [TERM-002](../../../record/terms.d/TERM-002.md) | communicative object, as a compatible family of local sections | A78, after the owner's U29 pointer to the record: an object is a compatible family of local sections of the event presheaf over a cover of jointly accessible observables, with no global assignment presupposed. The manuscript §3. | Superseded — by [TERM-042](../../../record/terms.d/TERM-042.md) |
 | [TERM-026](../../../record/terms.d/TERM-026.md) | frame, as an operation on an interpretive state | A30: applying a frame transforms the interpretive state that later frames act on, so frames can fail to commute. Survives as the manuscript's stochastic framing operations (§9). | Active — by [TERM-018](../../../record/terms.d/TERM-018.md) |
 | [TERM-031](../../../record/terms.d/TERM-031.md) | frame, as a measurement context | A24: a communicative situation C = (u, s, a, k, g) indexing the distribution of pragmatic judgements, P(J = j \| C). Footing becomes one coordinate of the context. Survives as the manuscript's measurement contexts (§3). | Active — by [TERM-030](../../../record/terms.d/TERM-030.md) |
+| [TERM-042](../../../record/terms.d/TERM-042.md) | communicative object, as a context-indexed system of empirical constraints over a cover | The assistant found [TERM-002](../../../record/terms.d/TERM-002.md) vacuous at A125 §2. At the owner's U41 request ("double click on this") it rewrote the definition at A129 §2. The object is the empirical data over a cover, supports or distributions with their restrictions. Whether it is compatible on overlaps and whether it extends globally are things to find out, not part of the definition. | Active |

@@ -6,7 +6,7 @@
 
 **Existence proof** — one coherent case shows that two things can come apart. Critical questions: is the case coherent? Does it separate the very things the conclusion says can come apart?.
 
-2 of 9 ARG documents. Back to the [full index](../README.md).
+2 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

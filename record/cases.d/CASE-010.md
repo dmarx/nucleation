@@ -20,7 +20,7 @@ variants:
 - CASE-012
 - CASE-026
 supports:
-- CLAIM-tmpjzq22
+- CLAIM-147
 ---
 
 # CASE-010: Henley's rendering of Villon, "Booze and the blowens cop the lot"

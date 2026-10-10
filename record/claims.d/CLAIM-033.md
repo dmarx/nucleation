@@ -25,7 +25,7 @@ summary: >-
   interpretation". Dropped with the region picture's replacement by
   sections, without critique.
 complements:
-- CLAIM-tmp0d575
+- CLAIM-128
 ---
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->

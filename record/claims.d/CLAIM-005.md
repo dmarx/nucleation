@@ -68,4 +68,4 @@ returns inside a context. Within any context C that pools several source
 items, a target that permutes their renderings leaves e_τ(C)^target
 unchanged. So the contexts must be at least as fine as the pairing that
 fidelity is meant to track. This is elementary, and the manuscript's L_obs
-inherits it. The case beside it is [CASE-tmpp6j2b](../cases.d/CASE-tmpp6j2b.md).
+inherits it. The case beside it is [CASE-041](../cases.d/CASE-041.md).

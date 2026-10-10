@@ -6,7 +6,7 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-5 of 26 QUESTION documents. Back to the [full index](../README.md).
+6 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [QUESTION-017](../../../record/questions.d/QUESTION-017.md) | What bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality? | A50 derived drift bounds assuming a metric, and in the same reply dropped symmetry and the triangle inequality for distortion. The tension was never resolved; the manuscript states its recursion "in the chosen metric". | Open |
 | [QUESTION-022](../../../record/questions.d/QUESTION-022.md) | Which stochastic transports carry compatible empirical models to compatible ones, and which preserve global extendability? | The first of the crystallized argument's five central mathematical questions (A110 §IX). Propositions 1 and 2 give sufficient conditions; necessary conditions, and cover-changing transports, are open. | Open |
 | [QUESTION-025](../../../record/questions.d/QUESTION-025.md) | Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean? | [THEORY-185](../../../record/theory.d/THEORY-185.md) derives linear directions for binary attributes from co-occurrence, but only for independent attributes, which make every combination possible and the concept lattice Boolean. The Lattice Representation Hypothesis ([LIT-267](../../../record/literature.d/LIT-267.md)) and [CLAIM-119](../../../record/claims.d/CLAIM-119.md) need the opposite: attributes that imply or exclude each other. Whether the linear directions survive that structure is not answered by anything the record holds. | Open |
+| [QUESTION-031](../../../record/questions.d/QUESTION-031.md) | When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones? | A173's secondary question ("When do restricted probes separate communicative realizations?"), v7's RQ3 (A178) and A214 §3. It is the open half of [CLAIM-142](../../../record/claims.d/CLAIM-142.md): observational equivalence is relative to the probes, so how rich must the probes be? The discrete case has exact answers, and so does a metric-enriched one. The stochastic, decision-relative version is open. | Open |

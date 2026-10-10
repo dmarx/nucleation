@@ -20,11 +20,11 @@ supports:
 - ARG-002
 - CLAIM-061
 - CLAIM-091
-- CLAIM-tmpw83rc
+- CLAIM-151
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-tmpw83rc — Proposed; the claim that grounds on this case, open -->
+<!-- inactive-ok-file: CLAIM-151 — Proposed; the claim that grounds on this case, open -->
 
 # CASE-018: "You blow it all on sex and booze", said by a friend, a parent, a judge, a comedian
 
@@ -51,7 +51,7 @@ A191 §1 varies it as "You've spent it all again.", which "might be
 affectionate teasing between intimate friends, an accusatory remark from a
 partner, a reprimand from a parent, or a sardonic observation in a comedy".
 A187 §3 uses the original sentence with four readings, and grounds the
-relational-constitution claim on it ([CLAIM-tmpw83rc](../claims.d/CLAIM-tmpw83rc.md)). A218 §1's spending
+relational-constitution claim on it ([CLAIM-151](../claims.d/CLAIM-151.md)). A218 §1's spending
 sentence, "A sentence expressing criticism of someone's spending can function
 as affectionate teasing, commiseration, mockery, or normative reprimand", is
 this case with its literary source removed.

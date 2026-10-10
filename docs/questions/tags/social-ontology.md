@@ -6,10 +6,11 @@
 
 **Social ontology** — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
 
-3 of 26 QUESTION documents. Back to the [full index](../README.md).
+4 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-007](../../../record/questions.d/QUESTION-007.md) | What grounds normativity across agents that share an environment and a level of organization? | The owner's question at U75: authenticity, if it gives normativity at all, gives it downward from an agent to its constituents, and not sideways between peers. Set aside with the authenticity line. | Deferred |
 | [QUESTION-009](../../../record/questions.d/QUESTION-009.md) | When does a pattern of coordination constitute an additional agent? | Asked from the first day (A8, A11) and never answered. The will paper sets it aside by supposing its agent ([CLAIM-080](../../../record/claims.d/CLAIM-080.md)), which is what made the paper writable. | Deferred |
 | [QUESTION-019](../../../record/questions.d/QUESTION-019.md) | What is it like to be Microsoft? | The owner's first framing (U9): what, if anything, an organized whole such as a corporation is like from the inside, and in what sense its states are its own. Reframed by [QUESTION-015](../../../record/questions.d/QUESTION-015.md) once the work narrowed from what a collective is to what organizes its action. | Superseded — by [QUESTION-015](../../../record/questions.d/QUESTION-015.md) |
+| [QUESTION-030](../../../record/questions.d/QUESTION-030.md) | Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it? | Proposed as a QUESTION in these words at A191 §13, and asked again as A218's RQ5 and in its Chapter 10. It has an empirical half, which relations predict responses to independently specified interventions, and a conceptual half, which of those are constitutive. A218 concedes that causal tests do not settle the second. | Open |

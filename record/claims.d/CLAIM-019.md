@@ -19,9 +19,9 @@ summary: >-
   his analysis". The manuscript §2 mentions Lévi-Strauss's
   transformations but cites neither Descola nor the computational work.
 complements:
-- CLAIM-tmpi8p0d
+- CLAIM-146
 supports:
-- CLAIM-tmpgp40l
+- CLAIM-145
 ---
 <!-- inactive-ok-file: LIT-775 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

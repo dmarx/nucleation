@@ -7,11 +7,11 @@ this directory, then run `luria index`.
 
 **[Quantum foundations](tags/quantum-foundations.md)** (0) — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics.
 
-**[Contextuality](tags/contextuality.md)** (3) — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics:
-[008](../../record/cases.d/CASE-008.md) · [021](../../record/cases.d/CASE-021.md) · [035](../../record/cases.d/CASE-035.md)
+**[Contextuality](tags/contextuality.md)** (4) — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics:
+[008](../../record/cases.d/CASE-008.md) · [021](../../record/cases.d/CASE-021.md) · [035](../../record/cases.d/CASE-035.md) · [037](../../record/cases.d/CASE-037.md)
 
-**[Mathematics](tags/mathematics.md)** (3) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
-[001](../../record/cases.d/CASE-001.md) · [017](../../record/cases.d/CASE-017.md) · [035](../../record/cases.d/CASE-035.md)
+**[Mathematics](tags/mathematics.md)** (5) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
+[001](../../record/cases.d/CASE-001.md) · [017](../../record/cases.d/CASE-017.md) · [035](../../record/cases.d/CASE-035.md) · [037](../../record/cases.d/CASE-037.md) · [039](../../record/cases.d/CASE-039.md)
 
 **[Game theory](tags/game-theory.md)** (0) — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
@@ -25,7 +25,8 @@ this directory, then run `luria index`.
 
 **[Neuroscience](tags/neuroscience.md)** (0) — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-**[Natural sciences](tags/natural-sciences.md)** (0) — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
+**[Natural sciences](tags/natural-sciences.md)** (1) — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim:
+[039](../../record/cases.d/CASE-039.md)
 
 **[Ecology](tags/ecology.md)** (1) — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028):
 [024](../../record/cases.d/CASE-024.md)
@@ -39,15 +40,16 @@ this directory, then run `luria index`.
 
 **[Information theory](tags/information-theory.md)** (0) — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-**[Representation learning](tags/representation-learning.md)** (2) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge:
-[005](../../record/cases.d/CASE-005.md) · [020](../../record/cases.d/CASE-020.md)
+**[Representation learning](tags/representation-learning.md)** (4) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge:
+[005](../../record/cases.d/CASE-005.md) · [020](../../record/cases.d/CASE-020.md) · [041](../../record/cases.d/CASE-041.md) · [042](../../record/cases.d/CASE-042.md)
 
 **[Learning theory](tags/learning-theory.md)** (0) — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
 **[Compositionality](tags/compositionality.md)** (2) — how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031):
 [004](../../record/cases.d/CASE-004.md) · [009](../../record/cases.d/CASE-009.md)
 
-**[Mathematical statistics](tags/mathematical-statistics.md)** (0) — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
+**[Mathematical statistics](tags/mathematical-statistics.md)** (1) — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031):
+[042](../../record/cases.d/CASE-042.md)
 
 **[Information retrieval](tags/information-retrieval.md)** (0) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
@@ -57,11 +59,13 @@ this directory, then run `luria index`.
 
 **[Causality](tags/causality.md)** (0) — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-**[Pragmatics](tags/pragmatics.md)** (0) — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
+**[Pragmatics](tags/pragmatics.md)** (2) — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034):
+[038](../../record/cases.d/CASE-038.md) · [040](../../record/cases.d/CASE-040.md)
 
 **[Myth and folklore](tags/myth-and-folklore.md)** (0) — myths, folktales and their variants as objects of study — morphology of the folktale, structural and transformational analysis of myth, and the computational modelling of either (ADR-034).
 
-**[Translation](tags/translation.md)** (0) — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
+**[Translation](tags/translation.md)** (1) — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033):
+[038](../../record/cases.d/CASE-038.md)
 
 **[Linguistics](tags/linguistics.md)** (11) — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them:
 [010](../../record/cases.d/CASE-010.md) · [011](../../record/cases.d/CASE-011.md) · [012](../../record/cases.d/CASE-012.md) · [018](../../record/cases.d/CASE-018.md) · [019](../../record/cases.d/CASE-019.md) · [022](../../record/cases.d/CASE-022.md) · [026](../../record/cases.d/CASE-026.md) · [027](../../record/cases.d/CASE-027.md) · [030](../../record/cases.d/CASE-030.md) · [031](../../record/cases.d/CASE-031.md) · [032](../../record/cases.d/CASE-032.md)
@@ -103,7 +107,8 @@ this directory, then run `luria index`.
 
 **[Learning and conditioning](tags/learning-and-conditioning.md)** (0) — how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025).
 
-**[Psychometrics](tags/psychometrics.md)** (0) — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
+**[Psychometrics](tags/psychometrics.md)** (1) — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025):
+[040](../../record/cases.d/CASE-040.md)
 
 **[Philosophy of biology](tags/philosophy-of-biology.md)** (0) — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
@@ -111,7 +116,8 @@ this directory, then run `luria index`.
 
 **[Free will](tags/free-will.md)** (0) — free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025).
 
-**[Model comparison](tags/model-comparison.md)** (0) — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
+**[Model comparison](tags/model-comparison.md)** (1) — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026):
+[041](../../record/cases.d/CASE-041.md)
 
 **[Information geometry](tags/information-geometry.md)** (0) — the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026).
 
@@ -142,11 +148,11 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [Active](status/Active.md) (32) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (1) · [Superseded](status/Superseded.md) (3) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (38) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (1) · [Superseded](status/Superseded.md) (3) · [Rejected](status/Rejected.md) (0)
 
-**By standing:** [Documented](standing/documented.md) (7) · [Stipulated](standing/stipulated.md) (15) · [Fictional](standing/fictional.md) (14)
+**By standing:** [Documented](standing/documented.md) (11) · [Stipulated](standing/stipulated.md) (17) · [Fictional](standing/fictional.md) (14)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (22)
+**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (28)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -196,4 +202,10 @@ What the status column means in this scheme — the words are luria's, the meani
 | [CASE-034](../../record/cases.d/CASE-034.md) | The thermostat and the adaptive controller | Systems that regulate, and even alter their own regulatory parameters, without warranting attribution of an agent. The stock counterexample to will as regulation. | Active |
 | [CASE-035](../../record/cases.d/CASE-035.md) | Solidarity, condemnation and humour: the parity obstruction | The manuscript's §3 version: S = M, M = H and H ≠ S are each satisfiable in its own context but admit no global assignment. Stated to demonstrate an obstruction, not to describe actual judgements. | Active |
 | [CASE-036](../../record/cases.d/CASE-036.md) | Northstar emergency governance that sustains itself | A service failure activates emergency governance whose restrictions defer maintenance, generating anomalies that satisfy the emergency criteria and keep the restrictions in place (Section 6.1). | Active |
+| [CASE-037](../../record/cases.d/CASE-037.md) | The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues | [CASE-035](../../record/cases.d/CASE-035.md)'s constraints given probabilities, at A129 §2, and set beside a deterministic family on the same cover that glues to (0, 1, 0). It shows that the obstruction is in the supports, not in the event sheaf. It appears three times (A129 §2, A161, A178's negative control), so it gets a code. | Active |
+| [CASE-038](../../record/cases.d/CASE-038.md) | TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut | The owner proposed it at U44 as a reference case. A155 read a trope as a relational pattern recognized across changes of characters, medium and wording, and pointed to Gala et al.'s dataset as a large set of instances already annotated. A191 §8 added five manipulations of one trope, the Gilligan Cut. v7 (A178) makes it Study B, and A218 keeps it as Study 5. The first time the thing turns up in the record. The catalogue is documented; the experiments on it are proposals. | Active |
+| [CASE-039](../../record/cases.d/CASE-039.md) | Who crosses the meeting point first? Two craft near light speed, and the relativity of simultaneity | The owner's U47: two craft approach each other near light speed, and each frame is said to answer that it crosses the meeting point first, so the local interpretations cannot be glued. A164 corrected the physics. Read either way, the owner's own scenario has an invariant answer; only spacelike-separated events change order between frames, and there the frames are reconciled by a Lorentz transformation. Standard special relativity; the scenario is the owner's. | Active |
+| [CASE-040](../../record/cases.d/CASE-040.md) | Topic and act crossed: a factorial design that decorrelates what a text is about from what it does | A214 §8's design, which A218 names as the first experiment to run: topic (spending, relationships) crossed with act (teasing, reprimand), with lexical, judgement, uptake and intervention data, several factorizations, and four outcomes reported separately. A210 §5 gives a cross-corpus version. Proposed by the assistant; not run. | Active |
+| [CASE-041](../../record/cases.d/CASE-041.md) | FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it | The owner pointed to FID at U50 and proposed FID with Projected GANs as a paired case study at U51. A184 framed the pair: FID evaluates a distribution through probes, and Projected GANs learn one under pressure from probes. The anthology's readings supply the fact the exchange lacked. The Projected GAN discriminator is ImageNet-trained, FID's features are ImageNet class evidence, and Kynkäänniemi et al. show that such a generator can match FID while doing worse in an independent feature space and with human judges. | Active |
+| [CASE-042](../../record/cases.d/CASE-042.md) | Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions | Proposed as a laboratory by the owner at U57 and conceded as prior art after the owner's U58. Collaborative filtering recovers a user–item matrix's predicted relations with latent coordinates fixed only up to an invertible change; topic models recover individual topics only under nonnegativity plus separability or anchor-word conditions. It shows that recovery is possible and limited, not that a recovered component is a communicative kind. | Active |
 

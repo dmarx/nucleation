@@ -6,7 +6,7 @@
 
 **Analogy** — what holds of one case holds of another alike in the relevant respect. Critical questions: in what respect are they alike, and is that the respect the conclusion needs? What relevant difference is there? What transfers, and what does not?.
 
-4 of 9 ARG documents. Back to the [full index](../README.md).
+5 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [ARG-003](../../../record/arguments.d/ARG-003.md) | In the Dual State ordinary norms governed conduct while a prerogative order held authority over whether they bound, so a constraint can govern conduct without governing its own authority | The historical line of support for [CLAIM-086](../../../record/claims.d/CLAIM-086.md) (Section 5.6). Undercut except in its structural respect ([CLAIM-032](../../../record/claims.d/CLAIM-032.md)). | Active |
 | [ARG-004](../../../record/arguments.d/ARG-004.md) | Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants | U9 asked to connect the frame idea with "the precision of 'relativistic frame' qua physics". A18 built the analogy and undercut it in the same reply: translation operations are not invertible and do not compose. Only its research-programme respect survived. | Rejected |
 | [ARG-008](../../../record/arguments.d/ARG-008.md) | A language model's response to its context is functionally a parameterized frame, so context-conditioned models give a controlled setting in which to test the theory | The owner's U17 analogy, which A43 enlarged into "the primary formal example". Undercut by the assistant in its own outlines: a prompt is not a social situation, model behaviour need not match human inference, and judging with the generating model measures only its preferences. | Active |
+| [ARG-010](../../../record/arguments.d/ARG-010.md) | Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation | The owner's inference, made twice and declined twice: at U46 from the paradoxes of closed timelike curves, at U47 from "who crossed the meeting point first?". A161 and A164 refused it. Filed because two claims undercut it, and because the relativity analogy has now returned, through the owner, after [ARG-004](../../../record/arguments.d/ARG-004.md). | Rejected |

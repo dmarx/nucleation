@@ -36,7 +36,7 @@ summary: >-
   isotropic Gaussian, the target is inside the model class, and the
   agreement with measured spectra is qualitative.
 supports:
-- CLAIM-tmpro4wi
+- CLAIM-148
 ---
 
 <!-- inactive-ok-file: THEORY-106 — Proposed; compared in scope below -->

@@ -6,9 +6,10 @@
 
 **Disbelieved** — tested and failed, or contradicted by later work — and the thing it explained may still work perfectly well.
 
-2 of 9 ARG documents. Back to the [full index](../README.md).
+3 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-002](../../../record/arguments.d/ARG-002.md) | Interpretive framings change a reader's state as non-commuting measurements do, so the frame participates in determining which meaning becomes actual | U10: "feels like our conversation is headed towards quantum cognition". A21 read framings as projectors on an interpretive state and concluded that translation actualizes latent meaning. Undercut at A24, A27 and A30: context sensitivity and order effects have classical models. | Rejected |
 | [ARG-004](../../../record/arguments.d/ARG-004.md) | Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants | U9 asked to connect the frame idea with "the precision of 'relativistic frame' qua physics". A18 built the analogy and undercut it in the same reply: translation operations are not invertible and do not compose. Only its research-programme respect survived. | Rejected |
+| [ARG-010](../../../record/arguments.d/ARG-010.md) | Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation | The owner's inference, made twice and declined twice: at U46 from the paradoxes of closed timelike curves, at U47 from "who crossed the meeting point first?". A161 and A164 refused it. Filed because two claims undercut it, and because the relativity analogy has now returned, through the owner, after [ARG-004](../../../record/arguments.d/ARG-004.md). | Rejected |

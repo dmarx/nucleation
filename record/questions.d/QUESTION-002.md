@@ -17,8 +17,8 @@ summary: >-
   asserted.
 answered_by:
 - CLAIM-115
-- CLAIM-tmp4epnc
-- CLAIM-tmpjzq22
+- CLAIM-133
+- CLAIM-147
 refined_by:
 - QUESTION-021
 - QUESTION-023
@@ -33,7 +33,7 @@ refined_by:
 - QUESTION-013
 - QUESTION-018
 - QUESTION-022
-- QUESTION-tmpq4vt7
+- QUESTION-029
 ---
 
 # QUESTION-002: What survives when an utterance is translated, retold or rendered in another medium?

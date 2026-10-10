@@ -17,10 +17,10 @@ date: '2026-10-08'
 line: pragmatic-transport
 complements:
 - CLAIM-037
-- CLAIM-tmpc4chg
-- CLAIM-tmpe2csg
+- CLAIM-141
+- CLAIM-143
 uses:
-- TERM-tmpgok7x
+- TERM-042
 grounds:
 - LIT-841
 summary: >-
@@ -77,8 +77,8 @@ assignment exists.
 ## Note of 2026-10-10: what "admits none" means
 
 "Admits none" means none consistent with the empirical supports or
-distributions ([TERM-tmpgok7x](../terms.d/TERM-tmpgok7x.md)). Assignments of the event sheaf always exist
-([CLAIM-tmp2xpga](CLAIM-tmp2xpga.md)). An ambiguous utterance's supports admit several global
+distributions ([TERM-042](../terms.d/TERM-042.md)). Assignments of the event sheaf always exist
+([CLAIM-131](CLAIM-131.md)). An ambiguous utterance's supports admit several global
 assignments. A contextual one admits none in the support (strong
 contextuality), or its compatible distributions have no global joint
-([CASE-tmpg6rwh](../cases.d/CASE-tmpg6rwh.md)).
+([CASE-037](../cases.d/CASE-037.md)).

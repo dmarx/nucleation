@@ -6,8 +6,8 @@
 
 **Translation** — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
 
-0 of 36 CASE documents. Back to the [full index](../README.md).
+1 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-038](../../../record/cases.d/CASE-038.md) | TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut | The owner proposed it at U44 as a reference case. A155 read a trope as a relational pattern recognized across changes of characters, medium and wording, and pointed to Gala et al.'s dataset as a large set of instances already annotated. A191 §8 added five manipulations of one trope, the Gilligan Cut. v7 (A178) makes it Study B, and A218 keeps it as Study 5. The first time the thing turns up in the record. The catalogue is documented; the experiments on it are proposals. | Active |

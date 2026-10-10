@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-11 lines, walked from `rests_on:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+9 lines, walked from `rests_on:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -16,13 +16,31 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 ## pragmatic-transport
 
-### From Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on
+### From Not every difference between translations is a difference of frame: some change the act being framed
 
+- [CLAIM-004](../record/claims.d/CLAIM-004.md) — Not every difference between translations is a difference of frame: some change the act being framed *(Proposed)*
+  - [CLAIM-143](../record/claims.d/CLAIM-143.md) — Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated *(Proposed)* — also extends CLAIM-011, CLAIM-035
+  - [CLAIM-151](../record/claims.d/CLAIM-151.md) — Which communicative act an utterance performs is partly constituted by its relations to participants, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization *(Proposed)* — also extends CLAIM-061
+    - [CLAIM-137](../record/claims.d/CLAIM-137.md) — A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization *(Proposed)*
 - [CLAIM-011](../record/claims.d/CLAIM-011.md) — Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on *(Active)*
   - [CLAIM-077](../record/claims.d/CLAIM-077.md) — A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction *(Proposed)*
-
-### From Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
-
+    - [CLAIM-133](../record/claims.d/CLAIM-133.md) — Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable *(Superseded)* — also extends CLAIM-011, CLAIM-050, CLAIM-142, CLAIM-143
+    - [CLAIM-139](../record/claims.d/CLAIM-139.md) — A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist *(Proposed)* — also extends CLAIM-050, CLAIM-135, CLAIM-142, CLAIM-151
+    - [CLAIM-147](../record/claims.d/CLAIM-147.md) — A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation *(Proposed)* — also extends CLAIM-113
+  - [CLAIM-138](../record/claims.d/CLAIM-138.md) — The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity *(Proposed)*
+  - [CLAIM-142](../record/claims.d/CLAIM-142.md) — Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved *(Proposed)* — also extends CLAIM-046
+    - [CLAIM-129](../record/claims.d/CLAIM-129.md) — A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act *(Proposed)* — also extends CLAIM-004, CLAIM-061
+  - [CLAIM-145](../record/claims.d/CLAIM-145.md) — Trope analysis of this kind is Propp's and Lévi-Strauss's, and trope annotations are written to fit their examples, so agreement with TV Tropes labels cannot by itself validate a structural account *(Proposed)* — also extends CLAIM-019
+  - [CLAIM-149](../record/claims.d/CLAIM-149.md) — A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it *(Proposed)*
+- [CLAIM-019](../record/claims.d/CLAIM-019.md) — Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor *(Active)*
+- [CLAIM-035](../record/claims.d/CLAIM-035.md) — Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme *(Active)*
+  - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(Proposed)*
+- [CLAIM-040](../record/claims.d/CLAIM-040.md) — Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation *(Active)*
+  - [CLAIM-113](../record/claims.d/CLAIM-113.md) — Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant *(Proposed)*
+    - [CLAIM-017](../record/claims.d/CLAIM-017.md) — What survives translation is the invariants, and approximately preserved relations, of communicative transformation *(Superseded)*
+    - [CLAIM-103](../record/claims.d/CLAIM-103.md) — Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed *(Proposed)*
+    - [CLAIM-108](../record/claims.d/CLAIM-108.md) — Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss *(Superseded)*
+- [CLAIM-046](../record/claims.d/CLAIM-046.md) — Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed *(Proposed)*
 - [CLAIM-050](../record/claims.d/CLAIM-050.md) — Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise *(Proposed)*
   - [CLAIM-014](../record/claims.d/CLAIM-014.md) — Krifka's performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them *(Proposed)*
   - [CLAIM-115](../record/claims.d/CLAIM-115.md) — What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition *(Proposed)* — also extends CLAIM-061, CLAIM-082
@@ -31,27 +49,15 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-061](../record/claims.d/CLAIM-061.md) — Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event *(Proposed)*
 - [CLAIM-082](../record/claims.d/CLAIM-082.md) — A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent *(Proposed)*
   - [CLAIM-036](../record/claims.d/CLAIM-036.md) — Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure *(Superseded)*
-
-### From Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation
-
-- [CLAIM-040](../record/claims.d/CLAIM-040.md) — Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation *(Active)*
-  - [CLAIM-113](../record/claims.d/CLAIM-113.md) — Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant *(Proposed)*
-    - [CLAIM-017](../record/claims.d/CLAIM-017.md) — What survives translation is the invariants, and approximately preserved relations, of communicative transformation *(Superseded)*
-    - [CLAIM-103](../record/claims.d/CLAIM-103.md) — Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed *(Proposed)*
-    - [CLAIM-108](../record/claims.d/CLAIM-108.md) — Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss *(Superseded)*
+- [CLAIM-135](../record/claims.d/CLAIM-135.md) — Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most *(Proposed)*
 
 ### From Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels
 
 - [CLAIM-042](../record/claims.d/CLAIM-042.md) — Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels *(Proposed)*
   - [CLAIM-033](../record/claims.d/CLAIM-033.md) — A translation can broaden the region of possible readings along one dimension while narrowing it along another, so loss is not one-dimensional *(Proposed)*
-  - [CLAIM-038](../record/claims.d/CLAIM-038.md) — A communicative object is a compatible family of local observations over a cover of contexts, and local interpretations need not be fragments of one globally realizable interpretation *(Proposed)*
+  - [CLAIM-038](../record/claims.d/CLAIM-038.md) — A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation *(Proposed)*
     - [CLAIM-105](../record/claims.d/CLAIM-105.md) — Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility *(Proposed)*
   - [CLAIM-119](../record/claims.d/CLAIM-119.md) — Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints *(Proposed)*
-
-### From Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme
-
-- [CLAIM-035](../record/claims.d/CLAIM-035.md) — Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme *(Active)*
-  - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(Proposed)*
 
 ### From Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter
 
@@ -74,6 +80,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-081](../record/claims.d/CLAIM-081.md) — Retaining information about the ancestor and drifting in the population's distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation *(Proposed)*
     - [CLAIM-114](../record/claims.d/CLAIM-114.md) — Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error does not show *(Proposed)*
   - [CLAIM-101](../record/claims.d/CLAIM-101.md) — Translation is a context-conditioned transport process that preserves selected structures of communicative meaning to varying degrees while introducing distortions that may accumulate, attenuate or amplify under composition *(Superseded)*
+  - [CLAIM-128](../record/claims.d/CLAIM-128.md) — Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks *(Proposed)*
 
 ### From Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model
 
@@ -81,6 +88,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Superseded)* — also extends CLAIM-121
   - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Proposed)* — also extends CLAIM-121
 - [CLAIM-121](../record/claims.d/CLAIM-121.md) — A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models *(Active)*
+
+### From Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context
+
+- [CLAIM-127](../record/claims.d/CLAIM-127.md) — Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context *(Proposed)*
+  - [CLAIM-130](../record/claims.d/CLAIM-130.md) — Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed *(Proposed)*
 
 ## will-organization
 

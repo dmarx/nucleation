@@ -21,7 +21,7 @@ summary: >-
   the manuscript's §7 example; condition C, the natural control, was
   dropped.
 variants:
-- CASE-tmpmv9pi
+- CASE-040
 ---
 <!-- inactive-ok-file: CLAIM-013 CLAIM-123 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -58,8 +58,8 @@ The group C₂ swaps the participants, and the character is (2, 0). That is the
 character of any free action of C₂ on two points, so it carries no
 communicative content. The contrast between complicity and reprimand sits in
 the stabilizers: the swap moves the one-way configuration and fixes the mutual
-one ([CLAIM-tmp3sn40](../claims.d/CLAIM-tmp3sn40.md)). The model, like the case, has no counterpart of
+one ([CLAIM-132](../claims.d/CLAIM-132.md)). The model, like the case, has no counterpart of
 condition C.
 
 Its conditions A and B are the spending row of the topic × act laboratory
-([CASE-tmpmv9pi](CASE-tmpmv9pi.md)).
+([CASE-040](CASE-040.md)).

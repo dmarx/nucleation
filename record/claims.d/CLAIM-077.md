@@ -23,9 +23,9 @@ summary: >-
   define rather than defend. One bullet in outline v4; absent from the
   manuscript.
 supports:
-- CLAIM-tmp4epnc
-- CLAIM-tmpb0jfe
-- CLAIM-tmpjzq22
+- CLAIM-133
+- CLAIM-139
+- CLAIM-147
 ---
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

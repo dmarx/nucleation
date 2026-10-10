@@ -6,8 +6,8 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-0 of 26 QUESTION documents. Back to the [full index](../README.md).
+1 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-027](../../../record/questions.d/QUESTION-027.md) | Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot? | The assistant's "central construction problem" (A203 §36) joined to its question of sufficiency without full identification (A214 §7, A218 RQ3 and Part III). The exchange calls it the central unresolved problem twice. Its unrestricted form is answered by standard results, so it is filed narrowed: it has content only for decisions about unobserved probes, interventions and transported targets. As A203 states it, it is not well posed. | Open |

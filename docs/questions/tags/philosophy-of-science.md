@@ -6,8 +6,9 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-1 of 26 QUESTION documents. Back to the [full index](../README.md).
+2 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-005](../../../record/questions.d/QUESTION-005.md) | How can corresponding communicative environments and responses be operationalized without building the preferred notion of fidelity into the measurement procedure? | A48's closing, "The main unresolved issue". Partly met by admissible correspondences (A49) and by the manuscript's preregistered measurement cover (§10), neither of which says who fixes the correspondence of contexts. | Open |
+| [QUESTION-028](../../../record/questions.d/QUESTION-028.md) | When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy? | A218's RQ7, in these words, after A187 §8, A191 §7, A203 §X and A214 §13. It asks what evidence licenses the step from a useful category to a real one. The record's reading of real patterns ([THEORY-036](../../../record/theory.d/THEORY-036.md)) says compressibility alone admits almost every non-random pattern, so the work falls on the question's own qualifiers. No criterion has been given. | Open |

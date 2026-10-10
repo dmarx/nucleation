@@ -6,8 +6,8 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
 
-0 of 26 QUESTION documents. Back to the [full index](../README.md).
+1 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-029](../../../record/questions.d/QUESTION-029.md) | What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist? | The question the assistant put in place of "what does a translation preserve?" at A203 X (U56), and restated as the closing question of the October proposal (A218, U60). Filed so that the October thesis ([CLAIM-139](../../../record/claims.d/CLAIM-139.md)) has a question to answer while [CLAIM-115](../../../record/claims.d/CLAIM-115.md) goes on answering [QUESTION-002](../../../record/questions.d/QUESTION-002.md). Scoped to communicative acts; the exchange states it about "objects" and never argues the general version. | Open |

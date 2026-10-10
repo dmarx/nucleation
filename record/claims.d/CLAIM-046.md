@@ -26,7 +26,7 @@ summary: >-
   built on it: observables are operational, no latent coordinate is
   primitive, and latents are validated by prediction (§2–3).
 supports:
-- CLAIM-tmpd1aee
+- CLAIM-142
 ---
 <!-- inactive-ok-file: CLAIM-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

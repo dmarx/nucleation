@@ -38,13 +38,13 @@ illustrated_by:
 supports:
 - CLAIM-078
 complements:
-- CLAIM-tmp1xaiq
-- CLAIM-tmp4epnc
-- CLAIM-tmpb0jfe
+- CLAIM-129
+- CLAIM-133
+- CLAIM-139
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-tmp4epnc — Superseded; cited as a later restatement of this thesis, itself replaced -->
-<!-- inactive-ok-file: CLAIM-tmpb0jfe CLAIM-082 — Proposed; open, and cited as open: a later thesis of the exchange and a premise of this one, neither settled -->
+<!-- inactive-ok-file: CLAIM-133 — Superseded; cited as a later restatement of this thesis, itself replaced -->
+<!-- inactive-ok-file: CLAIM-139 CLAIM-082 — Proposed; open, and cited as open: a later thesis of the exchange and a premise of this one, neither settled -->
 
 # CLAIM-115: What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
@@ -70,11 +70,11 @@ has been run.
 ## Where it went
 
 Restated, without argument, in the exchange's consolidations of 2026-10-10:
-at A151 and outline v7 (A178) as [CLAIM-tmp4epnc](CLAIM-tmp4epnc.md), and at A203, A214 and the
-October outline (A218) as [CLAIM-tmpb0jfe](CLAIM-tmpb0jfe.md). A218 drops the receiving system from
+at A151 and outline v7 (A178) as [CLAIM-133](CLAIM-133.md), and at A203, A214 and the
+October outline (A218) as [CLAIM-139](CLAIM-139.md). A218 drops the receiving system from
 the thesis: "a receiving system can still reconstruct and act upon" becomes
 "independently identifiable, decision-relevant relational distinctions"
-([CLAIM-tmpbaexb](CLAIM-tmpbaexb.md)). This entry's `illustrated_by` [CASE-031](../cases.d/CASE-031.md) and its `rests_on`
+([CLAIM-140](CLAIM-140.md)). This entry's `illustrated_by` [CASE-031](../cases.d/CASE-031.md) and its `rests_on`
 [CLAIM-082](CLAIM-082.md) point at material the October outline no longer contains: the
 literary cases are gone, and the structuralist grounding is a chapter heading
 (the workbench entry for U57–U60, 2026-10-10). No draft carries either later

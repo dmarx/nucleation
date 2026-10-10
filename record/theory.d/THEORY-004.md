@@ -30,7 +30,7 @@ extended_by:
 presupposed_by:
 - THEORY-002
 supports:
-- CLAIM-tmpro4wi
+- CLAIM-148
 ---
 <!-- inactive-ok-file: LIT-259 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-250 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

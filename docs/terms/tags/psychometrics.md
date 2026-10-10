@@ -6,8 +6,8 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-0 of 37 TERM documents. Back to the [full index](../README.md).
+1 of 43 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-039](../../../record/terms.d/TERM-039.md) | measurement context, as the elicitation protocol that enters the response and not the situation | The third of the three roles that "frame" was split into at A125 §1, after the communicative situation ([TERM-030](../../../record/terms.d/TERM-030.md)) and the framing intervention ([TERM-018](../../../record/terms.d/TERM-018.md)): the conditions under which a judgement is elicited. In A129 §1's model it enters the judgement, not the interpreter's state. It appears five times, so it gets a code. Its name collides with [TERM-031](../../../record/terms.d/TERM-031.md)'s. | Active |

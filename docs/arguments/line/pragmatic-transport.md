@@ -6,7 +6,7 @@
 
 **Contextual pragmatic information transport** — what survives when an utterance is translated, retold or rendered in another medium — communicative identity as relationally organized observables, and fidelity as directed, task-relative transport between observational systems.
 
-4 of 9 ARG documents. Back to the [full index](../README.md).
+5 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [ARG-004](../../../record/arguments.d/ARG-004.md) | Relativistic frames vary descriptions systematically under constrained transformations with invariants, so variations in translation are transformations between pragmatic frames preserving selected invariants | U9 asked to connect the frame idea with "the precision of 'relativistic frame' qua physics". A18 built the analogy and undercut it in the same reply: translation operations are not invertible and do not compose. Only its research-programme respect survived. | Rejected |
 | [ARG-006](../../../record/arguments.d/ARG-006.md) | If the transport intertwines each framing operation exactly, it intertwines their commutator, so a translation that preserves the framing operations preserves their noncommutativity | A34 §4: from ΦA_o = A_tΦ and ΦB_o = B_tΦ, Φ[A_o,B_o] = [A_t,B_t]Φ follows algebraically. The algebra holds; the conclusion holds only of Φ's image unless Φ is informative (A40 §6.4). | Active |
 | [ARG-008](../../../record/arguments.d/ARG-008.md) | A language model's response to its context is functionally a parameterized frame, so context-conditioned models give a controlled setting in which to test the theory | The owner's U17 analogy, which A43 enlarged into "the primary formal example". Undercut by the assistant in its own outlines: a prompt is not a social situation, model behaviour need not match human inference, and judging with the generating model measures only its preferences. | Active |
+| [ARG-010](../../../record/arguments.d/ARG-010.md) | Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation | The owner's inference, made twice and declined twice: at U46 from the paradoxes of closed timelike curves, at U47 from "who crossed the meeting point first?". A161 and A164 refused it. Filed because two claims undercut it, and because the relativity analogy has now returned, through the owner, after [ARG-004](../../../record/arguments.d/ARG-004.md). | Rejected |

@@ -4,7 +4,7 @@
 
 **well-being**.
 
-7 of 694 NOTE documents. Back to the [full index](../README.md).
+7 of 696 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

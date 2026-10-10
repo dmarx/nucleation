@@ -6,8 +6,8 @@
 
 **Causality** — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-0 of 26 QUESTION documents. Back to the [full index](../README.md).
+1 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-030](../../../record/questions.d/QUESTION-030.md) | Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it? | Proposed as a QUESTION in these words at A191 §13, and asked again as A218's RQ5 and in its Chapter 10. It has an empirical half, which relations predict responses to independently specified interventions, and a conceptual half, which of those are constitutive. A218 concedes that causal tests do not settle the second. | Open |

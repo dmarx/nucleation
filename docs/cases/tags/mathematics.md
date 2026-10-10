@@ -6,10 +6,12 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-3 of 36 CASE documents. Back to the [full index](../README.md).
+5 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-001](../../../record/cases.d/CASE-001.md) | Two reset matrices: noncommuting and classical | A30: on a two-state classical system, A resets to state 1 and B to state 2; AB = A and BA = B, so AB ≠ BA, and every state is an ordinary probability vector. Order dependence without nonclassical probability. | Active |
 | [CASE-017](../../../record/cases.d/CASE-017.md) | E1: synthetic three-state stochastic computations (C2–C3) | Run at U23 ("run it"): hand-chosen row-stochastic matrices on three abstract states, seed 20261008, "not fitted to text, pretrained models, or human measurements". Executed; results are exact properties of the chosen matrices. None reached a later draft. | Active |
 | [CASE-035](../../../record/cases.d/CASE-035.md) | Solidarity, condemnation and humour: the parity obstruction | The manuscript's §3 version: S = M, M = H and H ≠ S are each satisfiable in its own context but admit no global assignment. Stated to demonstrate an obstruction, not to describe actual judgements. | Active |
+| [CASE-037](../../../record/cases.d/CASE-037.md) | The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues | [CASE-035](../../../record/cases.d/CASE-035.md)'s constraints given probabilities, at A129 §2, and set beside a deterministic family on the same cover that glues to (0, 1, 0). It shows that the obstruction is in the supports, not in the event sheaf. It appears three times (A129 §2, A161, A178's negative control), so it gets a code. | Active |
+| [CASE-039](../../../record/cases.d/CASE-039.md) | Who crosses the meeting point first? Two craft near light speed, and the relativity of simultaneity | The owner's U47: two craft approach each other near light speed, and each frame is said to answer that it crosses the meeting point first, so the local interpretations cannot be glued. A164 corrected the physics. Read either way, the owner's own scenario has an invariant answer; only spacelike-separated events change order between frames, and there the frames are reconciled by a Lorentz transformation. Standard special relativity; the scenario is the owner's. | Active |

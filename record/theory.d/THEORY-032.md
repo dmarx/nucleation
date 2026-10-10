@@ -24,12 +24,12 @@ summary: >-
   objects from relations, is the record's own. It does not say that the
   lemma supports eliminating objects.
 supports:
-- CLAIM-tmp3sn40
-- CLAIM-tmp59oav
-- CLAIM-tmp8yo01
-- CLAIM-tmpaedgb
-- CLAIM-tmpd1aee
-- CLAIM-tmpvxrjv
+- CLAIM-132
+- CLAIM-135
+- CLAIM-136
+- CLAIM-137
+- CLAIM-142
+- CLAIM-150
 ---
 
 # THEORY-032: The Yoneda lemma determines an object only up to isomorphism, from its whole hom-functor, among objects the category already has; as a formal version of "an object is determined by its relations" it presupposes the relata

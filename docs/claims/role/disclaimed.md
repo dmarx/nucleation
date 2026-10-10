@@ -6,7 +6,7 @@
 
 **Disclaimed** — something the record explicitly does not claim — "X does not establish Y" — filed so that the boundary has an address and a recurring misreading has somewhere to be pointed.
 
-7 of 127 CLAIM documents. Back to the [full index](../README.md).
+8 of 151 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [CLAIM-093](../../../record/claims.d/CLAIM-093.md) | Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived | A105, limiting the owner's U37 appeal to Noether in the same reply that conceded the rest. The manuscript §4 and §11: Noether-type results give "conservation criteria for particular stochastic processes, not a universal conservation law of meaning". | Active |
 | [CLAIM-112](../../../record/claims.d/CLAIM-112.md) | The operational account does not say that meaning is nothing but observable behaviour, nor that no stable content exists because interpretation is context-dependent | A38 §10.1 and A40 §13.1. The manuscript's conclusion keeps it: the question is "neither whether a translation duplicates an invariant semantic substance nor whether all meanings are endlessly fluid". | Active |
 | [CLAIM-116](../../../record/claims.d/CLAIM-116.md) | Regulation, even higher-order regulation, does not establish a will | The boundary the paper draws against its own most-repeated objection: thermostats, adaptive controllers and organizationally closed systems regulate without warranting an agent. | Active |
+| [CLAIM-150](../../../record/claims.d/CLAIM-150.md) | Identification is not constitution: neither the Yoneda lemma, nor the invariance of a character, nor predictive or interventional success shows that relations constitute what a communicative act is, because an ontology of intrinsically individuated objects with relational properties can reproduce the same predictions | The exchange's own guard, stated six times (A187, A191 §4, A198 §VI, A203 §35, A214 §13, A218 §13). The record adds the stronger, formal form from [THEORY-032](../../../record/theory.d/THEORY-032.md): the Yoneda lemma presupposes the relata. That suits the non-eliminative choice and gives elimination no support. The ontological thesis needs its own conceptual argument; the mathematics and the experiments cannot supply it. | Active |

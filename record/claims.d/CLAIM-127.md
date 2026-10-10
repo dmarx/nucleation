@@ -34,14 +34,14 @@ tags:
 date: '2026-10-09'
 line: pragmatic-transport
 grounds:
-- LIT-tmph1v0q
+- LIT-894
 uses:
 - TERM-018
 - TERM-030
-- TERM-tmp6ohuk
+- TERM-039
 complements:
 - CLAIM-125
-- CLAIM-tmp2i7yj
+- CLAIM-130
 summary: >-
   The owner's do() move at U41, formalized at A129 §1 and §5 and restated
   in the review relayed the same day. A129 keeps three operations apart:
@@ -50,11 +50,11 @@ summary: >-
   laws indexed by intervention. The link to signalling is the record's
   extrapolation, and A129's own graph gives a second route to it.
 supports:
-- CLAIM-tmp2i7yj
+- CLAIM-130
 ---
-<!-- inactive-ok-file: NOTE-tmpyye85 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
+<!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited as the open problem this claim bears on, not as settled -->
-<!-- inactive-ok-file: CLAIM-tmp2i7yj CLAIM-052 — Proposed; open, and cited as open: the claim is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-130 CLAIM-052 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-177 — Proposed; Dzhafarov's direct influences, cited for what they imply here, not as settled -->
 
 # CLAIM-127: Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context
@@ -65,7 +65,7 @@ The owner at U41, on A125's proposal of "an intervention kernel K_a acting
 on a communicative or interpretive state": "this feels to me like an
 opportunity for Judea Pearl's `do()` notation."
 
-A129 §1 answered with three operations ([LIT-tmph1v0q](../literature.d/LIT-tmph1v0q.md)):
+A129 §1 answered with three operations ([LIT-894](../literature.d/LIT-894.md)):
 
 - P(Y | S = friend), which "conditions on naturally occurring situations in
   which the speaker is a friend";
@@ -76,12 +76,12 @@ A129 §1 answered with three operations ([LIT-tmph1v0q](../literature.d/LIT-tmph
 
 The first is conditioning. The second and third are interventions on
 different variables. The experimental consequence of the difference between
-them is [CLAIM-tmp2i7yj](CLAIM-tmp2i7yj.md).
+them is [CLAIM-130](CLAIM-130.md).
 
 A129 §1 writes them in a structural model. Z = (U, S, A, K, N, G, H) is the
 communicative situation, R the interpreter's state, I "externally supplied
 framing information or instructions", C a measurement protocol
-([TERM-tmp6ohuk](../terms.d/TERM-tmp6ohuk.md)) and Y the judgement:
+([TERM-039](../terms.d/TERM-039.md)) and Y the judgement:
 
 - R′ = f_R(R, Z, I, ε_R),
 - Y = f_Y(R′, Z, C, ε_Y).
@@ -145,7 +145,7 @@ state. A35 §6, quoted in [TERM-018](../terms.d/TERM-018.md), says "forcing a pa
 explicit judgment is itself an intervention". That route needs an arrow
 from C into f_R, and A129's graph has none. Which route holds is empirical.
 Sequential designs, where one judgement is elicited before another,
-separate them ([TERM-tmp6ohuk](../terms.d/TERM-tmp6ohuk.md)).
+separate them ([TERM-039](../terms.d/TERM-039.md)).
 
 ## What it does not say
 
@@ -157,8 +157,8 @@ identified, and the record files no causal model of the interpreter.
 
 ## Note of 2026-10-10: the book read in part
 
-[LIT-tmph1v0q](../literature.d/LIT-tmph1v0q.md) has now been skimmed in four excerpts the author posts
-([NOTE-tmpyye85](../notes.d/NOTE-tmpyye85.md)): the contents, the second-edition preface, §§5.3.2–5.4.1
+[LIT-894](../literature.d/LIT-894.md) has now been skimmed in four excerpts the author posts
+([NOTE-696](../notes.d/NOTE-696.md)): the contents, the second-edition preface, §§5.3.2–5.4.1
 and the Epilogue. The rest of the book was not read.
 
 - **Version 2's correction holds.** In those pages observing a value is

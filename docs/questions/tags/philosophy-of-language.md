@@ -6,7 +6,7 @@
 
 **Philosophy of language** — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy).
 
-16 of 26 QUESTION documents. Back to the [full index](../README.md).
+17 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,3 +26,4 @@
 | [QUESTION-021](../../../record/questions.d/QUESTION-021.md) | Is there a frame-independent communicative act that translations approximate, or is the act's identity constituted by a family of frame-relative realizations? | Opened at A18 as "the deepest question in your line of thought". The manuscript takes the second horn in practice ([CLAIM-115](../../../record/claims.d/CLAIM-115.md)) but never argues against the first. | Open |
 | [QUESTION-023](../../../record/questions.d/QUESTION-023.md) | Can the opacity of insider vocabulary be a preservation target in its own right? | Raised twice by the assistant in the Henley workshop (A6, A9) and never answered. The manuscript treats opacity only as a loss to an audience lacking knowledge (§5), not as something a rendering might owe its reader. | Open |
 | [QUESTION-024](../../../record/questions.d/QUESTION-024.md) | Can a pragmatic frame be induced from examples of communicative behaviour, and does the induced frame transfer across different wordings? | Opened at A44 §3C from Min et al.: a prompt can establish a convention without stating accurate propositions, which "resembles what we've been calling a delivery frame". Kept as "convention induction" in outlines v3 and v4; absent from the manuscript. | Open |
+| [QUESTION-029](../../../record/questions.d/QUESTION-029.md) | What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist? | The question the assistant put in place of "what does a translation preserve?" at A203 X (U56), and restated as the closing question of the October proposal (A218, U60). Filed so that the October thesis ([CLAIM-139](../../../record/claims.d/CLAIM-139.md)) has a question to answer while [CLAIM-115](../../../record/claims.d/CLAIM-115.md) goes on answering [QUESTION-002](../../../record/questions.d/QUESTION-002.md). Scoped to communicative acts; the exchange states it about "objects" and never argues the general version. | Open |

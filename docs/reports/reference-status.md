@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 3924 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 4182 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -117,7 +117,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-28 citations in 24 files await a look; 34 other citations of it are acknowledged.
+28 citations in 24 files await a look; 35 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -144,7 +144,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/theory.d/THEORY-018.md:69`](../../record/theory.d/THEORY-018.md)
 - [`record/theory.d/THEORY-021.md:99`](../../record/theory.d/THEORY-021.md)
 - [`record/theory.d/THEORY-022.md:138`](../../record/theory.d/THEORY-022.md)
-- [`record/theory.d/THEORY-032.md:104`](../../record/theory.d/THEORY-032.md)
+- [`record/theory.d/THEORY-032.md:111`](../../record/theory.d/THEORY-032.md)
 - [`record/theory.d/THEORY-041.md:50`](../../record/theory.d/THEORY-041.md)
 - [`record/theory.d/THEORY-042.md:52`](../../record/theory.d/THEORY-042.md)
 
@@ -152,7 +152,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 
 A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-26 citations in 17 files await a look; 17 other citations of it are acknowledged.
+26 citations in 17 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
@@ -179,7 +179,7 @@ A representation is determined by its kernel up to an orthogonal transformation,
 - [`record/notes.d/NOTE-303.md:108`](../../record/notes.d/NOTE-303.md)
 - [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 - [`record/theory.d/THEORY-018.md:86`](../../record/theory.d/THEORY-018.md)
-- [`record/theory.d/THEORY-032.md:104`](../../record/theory.d/THEORY-032.md)
+- [`record/theory.d/THEORY-032.md:111`](../../record/theory.d/THEORY-032.md)
 
 ### [THEORY-035](../../record/theory.d/THEORY-035.md) — Rejected
 
@@ -332,7 +332,7 @@ Gelfand–Naimark–Segal construction (Wikipedia)
 - [`record/notes.d/NOTE-286.md:142`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-303.md:107`](../../record/notes.d/NOTE-303.md)
 - [`record/theory.d/THEORY-004.md:20`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:41`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:43`](../../record/theory.d/THEORY-004.md)
 
 ### [LIT-369](../../record/literature.d/LIT-369.md) — Proposed
 
@@ -912,7 +912,7 @@ Comparison of Statistical Experiments
 
 5 citations in 5 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:52`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:56`](../../record/claims.d/CLAIM-050.md)
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
 - [`record/literature.d/LIT-781.md:91`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
@@ -950,8 +950,8 @@ Morphology of the Folktale
 
 - [`record/literature.d/LIT-830.md:6`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:75`](../../record/literature.d/LIT-830.md)
-- [`record/literature.d/LIT-830.md:152`](../../record/literature.d/LIT-830.md)
-- [`record/literature.d/LIT-830.md:202`](../../record/literature.d/LIT-830.md)
+- [`record/literature.d/LIT-830.md:154`](../../record/literature.d/LIT-830.md)
+- [`record/literature.d/LIT-830.md:204`](../../record/literature.d/LIT-830.md)
 - [`record/notes.d/NOTE-615.md:188`](../../record/notes.d/NOTE-615.md)
 
 ### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
@@ -1024,11 +1024,11 @@ When Does Closeness in Distribution Imply Representational Similarity? An Identi
 
 Every Thing Must Go: Metaphysics Naturalized
 
-4 citations in 3 files await a look; 2 other citations of it are acknowledged.
+4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-297.md:125`](../../record/notes.d/NOTE-297.md)
 - [`record/theory.d/THEORY-034.md:9`](../../record/theory.d/THEORY-034.md)
-- [`record/theory.d/THEORY-034.md:89`](../../record/theory.d/THEORY-034.md)
+- [`record/theory.d/THEORY-034.md:91`](../../record/theory.d/THEORY-034.md)
 - [`record/theory.d/THEORY-036.md:7`](../../record/theory.d/THEORY-036.md)
 
 ### [LIT-354](../../record/literature.d/LIT-354.md) — Deferred
@@ -1188,7 +1188,7 @@ Mental disorders are maintained by self-reinforcing causal loops rather than exp
 
 Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
 
-2 citations in 1 file await a look; 7 other citations of it are acknowledged.
+2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-236.md:172`](../../record/notes.d/NOTE-236.md)
 - [`record/notes.d/NOTE-236.md:186`](../../record/notes.d/NOTE-236.md)
@@ -1379,7 +1379,7 @@ The rate-distortion function for source coding with side information at the deco
 
 2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:54`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:58`](../../record/claims.d/CLAIM-050.md)
 - [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
 
 ### [LIT-775](../../record/literature.d/LIT-775.md) — Deferred
@@ -1440,7 +1440,7 @@ A higher-level property is a cause in its own right, and its realizer is not, ex
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look; 17 other citations of it are acknowledged.
+2 citations in 2 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
@@ -1458,7 +1458,7 @@ What an utterance does to the context it is used in is part of its meaning, and 
 
 When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality
 
-2 citations in 1 file await a look; 11 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-035.md:34`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:71`](../../record/decisions.d/ADR-035.md)
@@ -1467,7 +1467,7 @@ When the causal constraints on events depend on context, deterministic assignmen
 
 A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
 
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
 
@@ -1475,7 +1475,7 @@ A sign's communicative significance is fixed by its contrasts within a system ra
 
 Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
-1 citation in 1 file awaits a look; 17 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-648.md:187`](../../record/notes.d/NOTE-648.md)
 
@@ -1483,9 +1483,9 @@ Sheaf-theoretic contextuality has to be extended to directed transport between o
 
 What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
-1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 30 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-002.md:38`](../../record/questions.d/QUESTION-002.md)
+- [`record/questions.d/QUESTION-002.md:41`](../../record/questions.d/QUESTION-002.md)
 
 ### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
 
@@ -1931,17 +1931,17 @@ Neither utility information nor resource holdings, alone or together, can regist
 
 Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
-- [`record/theory.d/THEORY-038.md:97`](../../record/theory.d/THEORY-038.md)
+- [`record/theory.d/THEORY-038.md:99`](../../record/theory.d/THEORY-038.md)
 
 ### [THEORY-038](../../record/theory.d/THEORY-038.md) — Proposed
 
 Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/theory.d/THEORY-034.md:98`](../../record/theory.d/THEORY-034.md)
+- [`record/theory.d/THEORY-034.md:100`](../../record/theory.d/THEORY-034.md)
 
 ### [THEORY-065](../../record/theory.d/THEORY-065.md) — Proposed
 
@@ -2014,12 +2014,12 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-009.md:28: annotation no longer applies — nothing in scope cites CLAIM-109
 - record/claims.d/CLAIM-017.md:30: annotation no longer applies — nothing in scope cites CLAIM-108
 - record/claims.d/CLAIM-020.md:26: annotation no longer applies — nothing in scope cites TERM-001
-- record/claims.d/CLAIM-033.md:28: annotation no longer applies — nothing in scope cites CLAIM-042
+- record/claims.d/CLAIM-033.md:30: annotation no longer applies — nothing in scope cites CLAIM-042
 - record/claims.d/CLAIM-040.md:24: annotation no longer applies — nothing in scope cites CLAIM-015
 - record/claims.d/CLAIM-041.md:38: annotation no longer applies — nothing in scope cites ARG-002
 - record/claims.d/CLAIM-042.md:37: annotation no longer applies — nothing in scope cites CLAIM-008, TERM-022
-- record/claims.d/CLAIM-043.md:23: annotation no longer applies — nothing in scope cites CLAIM-038
-- record/claims.d/CLAIM-050.md:42: annotation no longer applies — nothing in scope cites CLAIM-051
+- record/claims.d/CLAIM-043.md:24: annotation no longer applies — nothing in scope cites CLAIM-038
+- record/claims.d/CLAIM-050.md:46: annotation no longer applies — nothing in scope cites CLAIM-051
 - record/claims.d/CLAIM-052.md:32: annotation no longer applies — nothing in scope cites CLAIM-073
 - record/claims.d/CLAIM-054.md:30: annotation no longer applies — nothing in scope cites CLAIM-061, CLAIM-064
 - record/claims.d/CLAIM-064.md:29: annotation no longer applies — nothing in scope cites TERM-035
@@ -2031,11 +2031,11 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-098.md:30: annotation no longer applies — nothing in scope cites CLAIM-102
 - record/claims.d/CLAIM-101.md:32: annotation no longer applies — nothing in scope cites CLAIM-065
 - record/claims.d/CLAIM-102.md:33: annotation no longer applies — nothing in scope cites TERM-013, TERM-016
-- record/claims.d/CLAIM-106.md:39: annotation no longer applies — nothing in scope cites CLAIM-067
+- record/claims.d/CLAIM-106.md:40: annotation no longer applies — nothing in scope cites CLAIM-067
 - record/claims.d/CLAIM-108.md:35: annotation no longer applies — nothing in scope cites CLAIM-036
 - record/claims.d/CLAIM-109.md:31: annotation no longer applies — nothing in scope cites TERM-016
-- record/claims.d/CLAIM-113.md:36: annotation no longer applies — nothing in scope cites CLAIM-015
-- record/claims.d/CLAIM-115.md:41: annotation no longer applies — nothing in scope cites CLAIM-017
+- record/claims.d/CLAIM-113.md:39: annotation no longer applies — nothing in scope cites CLAIM-015
+- record/claims.d/CLAIM-115.md:45: annotation no longer applies — nothing in scope cites CLAIM-017
 - record/claims.d/CLAIM-117.md:37: annotation no longer applies — nothing in scope cites CLAIM-052
 - record/claims.d/CLAIM-121.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
@@ -2052,15 +2052,15 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-602.md:30: annotation no longer applies — nothing in scope cites LIT-785, LIT-811, LIT-826
 - record/notes.d/NOTE-617.md:34: annotation no longer applies — nothing in scope cites LIT-811
 - record/terms.d/TERM-005.md:22: annotation no longer applies — nothing in scope cites TERM-029, TERM-035
-- record/terms.d/TERM-008.md:43: annotation no longer applies — nothing in scope cites CLAIM-101
-- record/terms.d/TERM-008.md:44: annotation no longer applies — nothing in scope cites CLAIM-106
+- record/terms.d/TERM-008.md:45: annotation no longer applies — nothing in scope cites CLAIM-101
+- record/terms.d/TERM-008.md:46: annotation no longer applies — nothing in scope cites CLAIM-106
 - record/terms.d/TERM-009.md:23: annotation no longer applies — nothing in scope cites TERM-032
 - record/terms.d/TERM-011.md:21: annotation no longer applies — nothing in scope cites CLAIM-111
 - record/terms.d/TERM-016.md:30: annotation no longer applies — nothing in scope cites TERM-035
 - record/terms.d/TERM-021.md:22: annotation no longer applies — nothing in scope cites TERM-013
 - record/terms.d/TERM-024.md:39: annotation no longer applies — nothing in scope cites CLAIM-052, CLAIM-063
-- record/terms.d/TERM-026.md:25: annotation no longer applies — nothing in scope cites TERM-016
+- record/terms.d/TERM-026.md:26: annotation no longer applies — nothing in scope cites TERM-016
 - record/terms.d/TERM-028.md:23: annotation no longer applies — nothing in scope cites CLAIM-026
 - record/terms.d/TERM-031.md:26: annotation no longer applies — nothing in scope cites TERM-016
 - record/theory.d/THEORY-013.md:31: annotation no longer applies — LIT-264 is Active now
-- record/theory.d/THEORY-167.md:35: annotation no longer applies — nothing in scope cites LIT-775
+- record/theory.d/THEORY-167.md:38: annotation no longer applies — nothing in scope cites LIT-775

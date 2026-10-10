@@ -6,8 +6,9 @@
 
 **Contextuality** — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics.
 
-1 of 9 ARG documents. Back to the [full index](../README.md).
+2 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ARG-002](../../../record/arguments.d/ARG-002.md) | Interpretive framings change a reader's state as non-commuting measurements do, so the frame participates in determining which meaning becomes actual | U10: "feels like our conversation is headed towards quantum cognition". A21 read framings as projectors on an interpretive state and concluded that translation actualizes latent meaning. Undercut at A24, A27 and A30: context sensitivity and order effects have classical models. | Rejected |
+| [ARG-010](../../../record/arguments.d/ARG-010.md) | Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation | The owner's inference, made twice and declined twice: at U46 from the paradoxes of closed timelike curves, at U47 from "who crossed the meeting point first?". A161 and A164 refused it. Filed because two claims undercut it, and because the relativity analogy has now returned, through the owner, after [ARG-004](../../../record/arguments.d/ARG-004.md). | Rejected |

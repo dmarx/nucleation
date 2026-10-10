@@ -6,10 +6,11 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-3 of 37 TERM documents. Back to the [full index](../README.md).
+4 of 43 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [TERM-010](../../../record/terms.d/TERM-010.md) | fidelity, as a weighted three-term directed distortion | A100's "mathematical centerpiece": minimize observational, decision and structural distortion subject to a rate budget I(U;V) ≤ R. The manuscript §6 keeps the three terms, drops the rate constraint, swaps the weights and demotes it to "a flexible directed fidelity functional". | Active |
+| [TERM-010](../../../record/terms.d/TERM-010.md) | fidelity, as a weighted three-term directed distortion | A100's "mathematical centerpiece": minimize observational, decision and structural distortion subject to a rate budget I(U;V) ≤ R. The manuscript §6 keeps the three terms, drops the rate constraint, swaps the weights and demotes it to "a flexible directed fidelity functional". | Active — by [TERM-043](../../../record/terms.d/TERM-043.md) |
 | [TERM-028](../../../record/terms.d/TERM-028.md) | fidelity, as inferential sufficiency | A86 §3, set against fidelity as representational similarity: a rendering is faithful to the extent that it preserves the information needed to make the relevant distinctions about the communicative situation. Made operational by Blackwell's order; the manuscript's decision term (§5, §6). | Active |
 | [TERM-034](../../../record/terms.d/TERM-034.md) | fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter | The crystallized argument's one-sentence definition (A108 §12, "Fourth conclusion"). The manuscript never defines fidelity in a sentence: §6 gives a "flexible directed fidelity functional" and §5 the decision comparison. | Active |
+| [TERM-043](../../../record/terms.d/TERM-043.md) | fidelity, as a profile of directed distortions compared component by component | The owner agreed at U41 to unify the record's fidelity lineages, and A129 §3 made one transport with several tests. The profile had four components at A129, five at A151, A178 and A218, and an optional sixth at A203. Transports are compared componentwise; a scalar exists only once a task fixes weights. Supersedes [TERM-010](../../../record/terms.d/TERM-010.md)'s weighted scalar as the foundation; [TERM-015](../../../record/terms.d/TERM-015.md) and [TERM-021](../../../record/terms.d/TERM-021.md) stay in force as what the components measure. | Active |

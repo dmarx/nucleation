@@ -6,8 +6,9 @@
 
 **Metaphysics** — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
 
-0 of 26 QUESTION documents. Back to the [full index](../README.md).
+2 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-028](../../../record/questions.d/QUESTION-028.md) | When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy? | A218's RQ7, in these words, after A187 §8, A191 §7, A203 §X and A214 §13. It asks what evidence licenses the step from a useful category to a real one. The record's reading of real patterns ([THEORY-036](../../../record/theory.d/THEORY-036.md)) says compressibility alone admits almost every non-random pattern, so the work falls on the question's own qualifiers. No criterion has been given. | Open |
+| [QUESTION-029](../../../record/questions.d/QUESTION-029.md) | What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist? | The question the assistant put in place of "what does a translation preserve?" at A203 X (U56), and restated as the closing question of the October proposal (A218, U60). Filed so that the October thesis ([CLAIM-139](../../../record/claims.d/CLAIM-139.md)) has a question to answer while [CLAIM-115](../../../record/claims.d/CLAIM-115.md) goes on answering [QUESTION-002](../../../record/questions.d/QUESTION-002.md). Scoped to communicative acts; the exchange states it about "objects" and never argues the general version. | Open |

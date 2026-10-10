@@ -18,7 +18,7 @@ summary: >-
   manuscript's Case I (§10).
 variants:
 - CASE-029
-- CASE-tmpmv9pi
+- CASE-040
 ---
 <!-- inactive-ok-file: CLAIM-005 CLAIM-009 CLAIM-052 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

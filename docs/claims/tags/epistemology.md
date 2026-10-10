@@ -6,8 +6,8 @@
 
 **Epistemology** — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
 
-0 of 127 CLAIM documents. Back to the [full index](../README.md).
+1 of 151 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-142](../../../record/claims.d/CLAIM-142.md) | Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved | It began at the owner's U45 pointer to Yoneda, and A158 §5 gave it its first form. A173, A178 §3.2, A184 §2, A203 §§8 and 14, A214 §3 and A218 Ch7 restate it; A203 calls it "our central epistemic distinction". The mathematical half is elementary and exact. The substantive half is the realist commitment that communicative identity is not exhausted by any probe profile. It makes [TERM-014](../../../record/terms.d/TERM-014.md)'s equivalence class probe-relative, and puts a realist reading over [CLAIM-046](../../../record/claims.d/CLAIM-046.md)'s methodological ordering. | Proposed |

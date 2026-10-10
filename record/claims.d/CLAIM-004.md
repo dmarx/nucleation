@@ -28,13 +28,13 @@ summary: >-
   manuscript omits, not by refutation. The manuscript's four-way split
   (§4) names structural reorganization but gives no criterion.
 supports:
-- CLAIM-tmp1xaiq
-- CLAIM-tmpe2csg
-- CLAIM-tmpw83rc
+- CLAIM-129
+- CLAIM-143
+- CLAIM-151
 ---
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-006 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-tmpe2csg CLAIM-tmpw83rc CLAIM-tmp1xaiq — Proposed; later re-derivations of this distinction, cited as open -->
+<!-- inactive-ok-file: CLAIM-143 CLAIM-151 CLAIM-129 — Proposed; later re-derivations of this distinction, cited as open -->
 
 # CLAIM-004: Not every difference between translations is a difference of frame: some change the act being framed
 
@@ -84,13 +84,13 @@ The distinction kept being re-derived after the manuscript dropped it, each
 time as though new.
 
 - A164: a coordinate difference set against a structural transformation
-  ([CLAIM-tmpe2csg](CLAIM-tmpe2csg.md)).
+  ([CLAIM-143](CLAIM-143.md)).
 - A178's organizing question.
 - A187 §3: representational transformation against constitutive
   transformation, the latter "converting shared joking into a reprimand by
   changing speaker authority and expected uptake". A18's active example was
   "converting affectionate teasing into moral condemnation"
-  ([CLAIM-tmpw83rc](CLAIM-tmpw83rc.md), which rests on this claim).
-- A210 §5: the topic kept while the act changes ([CLAIM-tmp1xaiq](CLAIM-tmp1xaiq.md)).
+  ([CLAIM-151](CLAIM-151.md), which rests on this claim).
+- A210 §5: the topic kept while the act changes ([CLAIM-129](CLAIM-129.md)).
 
 None of these gives the criterion this claim lacks.

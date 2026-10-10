@@ -15,7 +15,7 @@ works:
 - what-survives-translation
 complements:
 - CLAIM-038
-- CLAIM-tmp3sn40
+- CLAIM-132
 summary: >-
   A86 §4. The manuscript §5 keeps its example: perfect correlation and
   perfect anticorrelation of two fair binary observables have equal

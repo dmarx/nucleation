@@ -2,7 +2,7 @@
 
 # How the terms changed
 
-6 lines, walked from `supersedes:` on TERM documents. Each step explains itself; this page is the order they came in.
+7 lines, walked from `supersedes:` on TERM documents. Each step explains itself; this page is the order they came in.
 
 ## From fidelity, as the number of preserved constraints
 
@@ -13,7 +13,8 @@
 ## From communicative object, as an intersection of constraint regions
 
 - [TERM-022](../record/terms.d/TERM-022.md) — communicative object, as an intersection of constraint regions *(Superseded)*
-  - [TERM-002](../record/terms.d/TERM-002.md) — communicative object, as a compatible family of local sections *(Active)*
+  - [TERM-002](../record/terms.d/TERM-002.md) — communicative object, as a compatible family of local sections *(Superseded)*
+    - [TERM-042](../record/terms.d/TERM-042.md) — communicative object, as a context-indexed system of empirical constraints over a cover *(Active)*
 
 ## From will, as a second- or higher-order attractor
 
@@ -35,6 +36,11 @@
 
 - [TERM-032](../record/terms.d/TERM-032.md) — levels, as a hierarchy of latent representations *(Superseded)*
   - [TERM-009](../record/terms.d/TERM-009.md) — levels, as levels at which observables exist *(Active)*
+
+## From fidelity, as a weighted three-term directed distortion
+
+- [TERM-010](../record/terms.d/TERM-010.md) — fidelity, as a weighted three-term directed distortion *(Active)*
+  - [TERM-043](../record/terms.d/TERM-043.md) — fidelity, as a profile of directed distortions compared component by component *(Active)*
 
 ## From fidelity, as observational equivalence over response trajectories
 

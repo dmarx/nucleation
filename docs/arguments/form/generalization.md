@@ -6,7 +6,7 @@
 
 **Generalization from cases** — several cases share a feature, so the kind has it. Critical questions: are the cases representative? Is there a counterexample? Is the feature constitutive, or merely common?.
 
-0 of 9 ARG documents. Back to the [full index](../README.md).
+0 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

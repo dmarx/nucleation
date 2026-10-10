@@ -6,8 +6,8 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-0 of 127 CLAIM documents. Back to the [full index](../README.md).
+1 of 151 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-144](../../../record/claims.d/CLAIM-144.md) | Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action | A164's correction of the owner's U47, which is standard special relativity, with two repairs. A164 left out the reading of the owner's scenario whose answer is invariant (two passings of one marker). And it described frames as patches glued by a cocycle, which they are not: each inertial frame charts all of spacetime, and the frames are related by the Poincaré group. | Active |

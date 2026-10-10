@@ -6,6 +6,10 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [10 Oct 04:04 — Session of 2026-10-10, 03:12–03:26 (U57–U60): factorization as a laboratory, the prior-art retraction, and the October proposal; the U40–U60 reconstruction closed](2026-10.md#session-of-2026-10-10-03120326-u57u60-factorization-as-a-laboratory-the-prior-art-retraction-and-the-october-proposal-the-u40u60-reconstruction-closed)
+- [10 Oct 04:04 — Session of 2026-10-10, 02:01–02:52 (U49–U56): outline v7, FID, structural realism and characters, and the second crystallized argument](2026-10.md#session-of-2026-10-10-02010252-u49u56-outline-v7-fid-structural-realism-and-characters-and-the-second-crystallized-argument)
+- [10 Oct 04:04 — Session of 2026-10-10, 00:37–01:15 (U43–U48): the state of the argument, tropes, Yoneda, relativity, and a filing proposal](2026-10.md#session-of-2026-10-10-00370115-u43u48-the-state-of-the-argument-tropes-yoneda-relativity-and-a-filing-proposal)
+- [10 Oct 04:04 — Session of 2026-10-09, morning (U40–U41): the record's views read back, and the causal layer](2026-10.md#session-of-2026-10-09-morning-u40u41-the-records-views-read-back-and-the-causal-layer)
 - [9 Oct 23:05 — A review of the record's new views, relayed by the owner: what the record already held, what it files, and what it leaves to the owner](2026-10.md#a-review-of-the-records-new-views-relayed-by-the-owner-what-the-record-already-held-what-it-files-and-what-it-leaves-to-the-owner)
 - [9 Oct 02:55 — Session of 2026-10-08, evening (U38–U39): the crystallized argument and draft C7, and the reconstruction closed](2026-10.md#session-of-2026-10-08-evening-u38u39-the-crystallized-argument-and-draft-c7-and-the-reconstruction-closed)
 - [9 Oct 02:46 — Session of 2026-10-08, evening (U33–U37): bibliography, diffusion, proposal v6, structuralism and symmetry](2026-10.md#session-of-2026-10-08-evening-u33u37-bibliography-diffusion-proposal-v6-structuralism-and-symmetry)
@@ -23,8 +27,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-14 entries across 1 book, newest first.
+18 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 14 | 2026-10-07 | 2026-10-09 |
+| [2026-10](2026-10.md) | 18 | 2026-10-07 | 2026-10-10 |

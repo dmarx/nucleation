@@ -6,8 +6,9 @@
 
 **Model comparison** — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
 
-0 of 127 CLAIM documents. Back to the [full index](../README.md).
+2 of 151 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-128](../../../record/claims.d/CLAIM-128.md) | Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks | A129 §3, after the owner's U41 "agreed." to unifying the fidelity lineages, and restated at A151 §5, A178 Ch9.7 and A203 §22. A translation that keeps social footing and loses rhyme is not ranked above or below one that does the opposite until a task says which matters. It does not say how the components are measured, nor that they are independent. | Proposed |
+| [CLAIM-149](../../../record/claims.d/CLAIM-149.md) | A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it | The owner set the frame at U51 ("a useful case study ... the projected GAN work"); A184 §§3–4 argued it, with its Experiment C and closing maxim, and A203 §30 and A218 Study 6 keep it. It carries [CLAIM-011](../../../record/claims.d/CLAIM-011.md)'s remedy from correspondences to training objectives. Kynkäänniemi et al. ([CASE-041](../../../record/cases.d/CASE-041.md)) is a documented instance, which the exchange did not know of. One case, in image generation, so Proposed. | Proposed |

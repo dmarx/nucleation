@@ -6,8 +6,8 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-0 of 36 CASE documents. Back to the [full index](../README.md).
+1 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-039](../../../record/cases.d/CASE-039.md) | Who crosses the meeting point first? Two craft near light speed, and the relativity of simultaneity | The owner's U47: two craft approach each other near light speed, and each frame is said to answer that it crosses the meeting point first, so the local interpretations cannot be glued. A164 corrected the physics. Read either way, the owner's own scenario has an invariant answer; only spacelike-separated events change order between frames, and there the frames are reconciled by a Lorentz transformation. Standard special relativity; the scenario is the owner's. | Active |

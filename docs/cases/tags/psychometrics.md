@@ -6,8 +6,8 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-0 of 36 CASE documents. Back to the [full index](../README.md).
+1 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-040](../../../record/cases.d/CASE-040.md) | Topic and act crossed: a factorial design that decorrelates what a text is about from what it does | A214 §8's design, which A218 names as the first experiment to run: topic (spending, relationships) crossed with act (teasing, reprimand), with lexical, judgement, uptake and intervention data, several factorizations, and four outcomes reported separately. A210 §5 gives a cross-corpus version. Proposed by the assistant; not run. | Active |

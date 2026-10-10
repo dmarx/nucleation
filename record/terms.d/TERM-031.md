@@ -49,4 +49,4 @@ of §3, framing operations in §9.
 [TERM-030](TERM-030.md) extended this situation tuple with norms and history. The index on
 judgement distributions survives as the manuscript's measurement contexts
 (§3). It is not the elicitation protocol that A125 read into its title;
-that sense is [TERM-tmp6ohuk](TERM-tmp6ohuk.md).
+that sense is [TERM-039](TERM-039.md).

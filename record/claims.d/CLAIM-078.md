@@ -67,7 +67,7 @@ The third marker is this entry's compositional half, which the manuscript
 dropped. The disclaimer survives too: "None of these requires discovering
 quantum contextuality in ordinary language. Nor does the theory need a
 universal Noether law for meaning." The owner quoted the bold question at U57
-and took collaborative filtering as the laboratory for it ([CASE-tmptm6yt](../cases.d/CASE-tmptm6yt.md)).
+and took collaborative filtering as the laboratory for it ([CASE-042](../cases.d/CASE-042.md)).
 A218's Chapter 15 core claim adds factorization baselines to the comparison:
 the theory earns support "only if its independently grounded relational
 measures predict persistence and transformation beyond standard lexical,

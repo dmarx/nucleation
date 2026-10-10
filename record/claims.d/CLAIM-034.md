@@ -20,9 +20,9 @@ summary: >-
   bisimulation section and the ethics discussion, apparently by
   inadvertence; the manuscript keeps only that transport is directed.
 complements:
-- CLAIM-tmpjzq22
+- CLAIM-147
 illustrated_by:
-- CASE-tmpibrot
+- CASE-038
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

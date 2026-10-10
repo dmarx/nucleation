@@ -68,7 +68,7 @@ extended_by:
 presupposed_by:
 - THEORY-019
 supports:
-- CLAIM-tmpro4wi
+- CLAIM-148
 ---
 
 <!-- inactive-ok-file: THEORY-008 — Proposed: cited for which comparison measures are the invariant ones, itself awaiting close readings; the directive lapses when its status changes -->

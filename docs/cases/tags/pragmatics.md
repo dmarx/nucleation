@@ -6,8 +6,9 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-0 of 36 CASE documents. Back to the [full index](../README.md).
+2 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-038](../../../record/cases.d/CASE-038.md) | TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut | The owner proposed it at U44 as a reference case. A155 read a trope as a relational pattern recognized across changes of characters, medium and wording, and pointed to Gala et al.'s dataset as a large set of instances already annotated. A191 §8 added five manipulations of one trope, the Gilligan Cut. v7 (A178) makes it Study B, and A218 keeps it as Study 5. The first time the thing turns up in the record. The catalogue is documented; the experiments on it are proposals. | Active |
+| [CASE-040](../../../record/cases.d/CASE-040.md) | Topic and act crossed: a factorial design that decorrelates what a text is about from what it does | A214 §8's design, which A218 names as the first experiment to run: topic (spending, relationships) crossed with act (teasing, reprimand), with lexical, judgement, uptake and intervention data, several factorizations, and four outcomes reported separately. A210 §5 gives a cross-corpus version. Proposed by the assistant; not run. | Active |

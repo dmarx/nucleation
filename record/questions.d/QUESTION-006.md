@@ -19,7 +19,7 @@ summary: >-
   keeps the criterion (§4) and one sub-question, at what stage an
   invariant stops being conserved.
 refined_by:
-- QUESTION-tmp0p9xm
+- QUESTION-027
 ---
 <!-- inactive-ok-file: CLAIM-049 CLAIM-074 CLAIM-107 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

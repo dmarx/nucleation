@@ -2,7 +2,7 @@
 
 # How the claims changed
 
-13 lines, walked from `supersedes:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+14 lines, walked from `supersedes:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
 
@@ -77,3 +77,8 @@
 
 - [CLAIM-100](../record/claims.d/CLAIM-100.md) — Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem *(Superseded)*
   - [CLAIM-125](../record/claims.d/CLAIM-125.md) — Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data *(Proposed)*
+
+## From Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable
+
+- [CLAIM-133](../record/claims.d/CLAIM-133.md) — Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable *(Superseded)*
+  - [CLAIM-139](../record/claims.d/CLAIM-139.md) — A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist *(Proposed)*

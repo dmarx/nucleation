@@ -52,5 +52,5 @@ trajectories appear only in §8 ("how selected invariants ... evolve together").
 
 [TERM-015](TERM-015.md) replaced equivalence as the organizing concept, at the owner's
 U20. Matching over response trajectories survives as the zero-distortion
-limit of [TERM-015](TERM-015.md) and of [TERM-tmpz8i47](TERM-tmpz8i47.md) (A129 §3: "TERM-033 supplies the limiting
+limit of [TERM-015](TERM-015.md) and of [TERM-043](TERM-043.md) (A129 §3: "TERM-033 supplies the limiting
 case").

@@ -19,7 +19,7 @@ summary: >-
 used_by:
 - CLAIM-048
 superseded_by:
-- TERM-tmpz8i47
+- TERM-043
 ---
 
 # TERM-010: fidelity, as a weighted three-term directed distortion
@@ -50,7 +50,7 @@ the restriction defect of C6 Appendix B.
 
 ## Why it is still Active
 
-[TERM-tmpz8i47](TERM-tmpz8i47.md) replaced the weighted scalar as the foundation of fidelity on
+[TERM-043](TERM-043.md) replaced the weighted scalar as the foundation of fidelity on
 2026-10-10. Under it, transports are compared component by component, and a
 scalar exists only once a task fixes the weights. The weighted sum survives in
 that role, as the scalar a task-fixed weighting gives. It is also what the

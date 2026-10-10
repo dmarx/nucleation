@@ -6,7 +6,7 @@
 
 **Stipulated** — a real referent whose relevant facts are assumed rather than verified here — usable as a thought experiment, not as evidence about the referent.
 
-15 of 36 CASE documents. Back to the [full index](../README.md).
+17 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -25,3 +25,5 @@
 | [CASE-028](../../../record/cases.d/CASE-028.md) | Stability AI: well-intentioned founders, near-total churn, generic successor | The owner's case at U12: a company founded by researchers and open-source developers that churned almost its whole staff in a year and became a generic corporate entity. Replaced by the fictional [CASE-006](../../../record/cases.d/CASE-006.md). | Superseded — by [CASE-006](../../../record/cases.d/CASE-006.md) |
 | [CASE-029](../../../record/cases.d/CASE-029.md) | The dynamical-fidelity research programme of the outlines (A35, A38, A40) | The factorial study grown into a programme over three replies: initial state and three model classes (A35), matched and divergent stimulus pairs (A38), pilot validation, classical baselines first and five falsifiers (A40). Proposed, not run. | Active |
 | [CASE-035](../../../record/cases.d/CASE-035.md) | Solidarity, condemnation and humour: the parity obstruction | The manuscript's §3 version: S = M, M = H and H ≠ S are each satisfiable in its own context but admit no global assignment. Stated to demonstrate an obstruction, not to describe actual judgements. | Active |
+| [CASE-037](../../../record/cases.d/CASE-037.md) | The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues | [CASE-035](../../../record/cases.d/CASE-035.md)'s constraints given probabilities, at A129 §2, and set beside a deterministic family on the same cover that glues to (0, 1, 0). It shows that the obstruction is in the supports, not in the event sheaf. It appears three times (A129 §2, A161, A178's negative control), so it gets a code. | Active |
+| [CASE-040](../../../record/cases.d/CASE-040.md) | Topic and act crossed: a factorial design that decorrelates what a text is about from what it does | A214 §8's design, which A218 names as the first experiment to run: topic (spending, relationships) crossed with act (teasing, reprimand), with lexical, judgement, uptake and intervention data, several factorizations, and four outcomes reported separately. A210 §5 gives a cross-corpus version. Proposed by the assistant; not run. | Active |

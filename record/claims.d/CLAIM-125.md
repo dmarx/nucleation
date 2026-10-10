@@ -126,7 +126,7 @@ Later turns moved this entry aside without arguing against it.
 - A203 §36 gives the heading "The most important unresolved mathematical
   problem" to a different problem: a relational signature that is stable
   under transformations, sufficient for a family of decisions and
-  discriminating on designated contrasts ([QUESTION-tmp0p9xm](../questions.d/QUESTION-tmp0p9xm.md)).
+  discriminating on designated contrasts ([QUESTION-027](../questions.d/QUESTION-027.md)).
 - A218's October outline demotes this entry's two parts. In outline v7
   (A178) they were the first two research questions: RQ1,
   "Information-preserving transport across changing covers", and RQ2,
@@ -142,6 +142,6 @@ Later turns moved this entry aside without arguing against it.
   identifiability of the full latent model".
 
 No turn gives a reason for either move, and nothing in them answers either
-part. Both parts stay open. The narrowed form of [QUESTION-tmp0p9xm](../questions.d/QUESTION-tmp0p9xm.md), for
+part. Both parts stay open. The narrowed form of [QUESTION-027](../questions.d/QUESTION-027.md), for
 decisions outside the observed probes, is the factorization-side analogue
 of part 1.

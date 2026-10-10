@@ -35,7 +35,7 @@ summary: >-
   dilemma is sound, and it does not say eliminative OSR survives; the
   chapter itself leaves eliminative OSR untouched.
 supports:
-- CLAIM-tmp4xhdn
+- CLAIM-134
 ---
 
 # THEORY-034: Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings only Floridi's informational structural realism is of that kind
@@ -107,7 +107,7 @@ relations.
 
 The title says only Floridi's view, among the record's readings, keeps relata
 while denying them every intrinsic identity-fixing feature. Esfeld and Lam's
-moderate structural realism ([LIT-tmpme4lk](../literature.d/LIT-tmpme4lk.md), read in [NOTE-tmpmrrjk](../notes.d/NOTE-tmpmrrjk.md)) is a second.
+moderate structural realism ([LIT-895](../literature.d/LIT-895.md), read in [NOTE-695](../notes.d/NOTE-695.md)) is a second.
 It holds that relata have no fundamental intrinsic properties. Where nothing
 discerns them, it accepts "a numerical distinction (diversity)" as primitive,
 which it says is "not a primitive thisness" nor any other sort of identity

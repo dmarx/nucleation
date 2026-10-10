@@ -19,7 +19,7 @@ summary: >-
   interventions. Splits the A30 operator sense of frame.
 used_by:
 - CLAIM-127
-- CLAIM-tmp2i7yj
+- CLAIM-130
 ---
 
 # TERM-018: framing intervention

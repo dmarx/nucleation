@@ -6,10 +6,11 @@
 
 **Contextuality** — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics.
 
-3 of 36 CASE documents. Back to the [full index](../README.md).
+4 of 42 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-008](../../../record/cases.d/CASE-008.md) | Solidarity, condemnation and humour judged in pairs: the probabilistic version | A24: three judgements of Henley's poem, S (solidarity), M (condemnation), H (humour), elicited in pairwise contexts, asking whether the pairwise distributions are marginals of one global distribution. Replaced in the manuscript by a deterministic parity example. | Superseded — by [CASE-035](../../../record/cases.d/CASE-035.md) |
 | [CASE-021](../../../record/cases.d/CASE-021.md) | Wording, attributed speaker and judgement order: the proposed factorial study | Proposed at A21 and refined at A24, not run: Henley renderings × attributed speaker × order of judgement questions, with hierarchical, sequential state-update and quantum models compared. Becomes the manuscript's Case I (§10). | Active |
 | [CASE-035](../../../record/cases.d/CASE-035.md) | Solidarity, condemnation and humour: the parity obstruction | The manuscript's §3 version: S = M, M = H and H ≠ S are each satisfiable in its own context but admit no global assignment. Stated to demonstrate an obstruction, not to describe actual judgements. | Active |
+| [CASE-037](../../../record/cases.d/CASE-037.md) | The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues | [CASE-035](../../../record/cases.d/CASE-035.md)'s constraints given probabilities, at A129 §2, and set beside a deterministic family on the same cover that glues to (0, 1, 0). It shows that the obstruction is in the supports, not in the event sheaf. It appears three times (A129 §2, A161, A178's negative control), so it gets a code. | Active |

@@ -6,7 +6,7 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-7 of 127 CLAIM documents. Back to the [full index](../README.md).
+8 of 151 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,4 @@
 | [CLAIM-088](../../../record/claims.d/CLAIM-088.md) | Task-sensitive information preservation is established in semantic and goal-oriented communication; what is new is applying it to sheaf-structured pragmatic observations under sequential, context-dependent reconstruction | A86 §9's priority concession, recovered: "We should build on that rather than present task-sensitive information preservation as an entirely new invention." Dropped at C6 with the works it named (a survey, Chai et al., Zhao et al. 2025), apparently by inadvertence; none is in the record. | Active |
 | [CLAIM-092](../../../record/claims.d/CLAIM-092.md) | Translation can be posed as a context-indexed information bottleneck: compress the source while preserving information about the responses in each measurement context separately | A86 §2, kept in C6 Appendix C with a sharper caveat, recovered. The manuscript keeps the caveat (§5) and cites Tishby, Pereira and Bialek in its references, but states no bottleneck anywhere in its text. | Proposed |
 | [CLAIM-115](../../../record/claims.d/CLAIM-115.md) | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition | The manuscript's central thesis (Abstract, §1, §12). It does not say every relation must survive, or that there is one privileged set of observables: the choice of observables and decision tasks is stated to be normative and contestable (§11). | Proposed |
+| [CLAIM-140](../../../record/claims.d/CLAIM-140.md) | The October thesis replaces what a receiver can reconstruct with what the analyst's probe system can identify as the test of what survives, and no turn argues the change | [CLAIM-115](../../../record/claims.d/CLAIM-115.md) makes survival relative to "a receiving system". The October thesis (A218, U60) makes it relative to "independently identifiable" distinctions, and A218 defines identifiability on the analyst's probe system. The receiver is left in one sentence of A218 §8 and in Ch13.5. Filed by the record's reading of A218; no turn of the exchange says it. It objects to [CLAIM-139](../../../record/claims.d/CLAIM-139.md) as stated, not to its truth, and it is granted because it is a comparison of texts. | Active |

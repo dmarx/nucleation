@@ -16,7 +16,7 @@ summary: >-
   gives a "flexible directed fidelity functional" and §5 the decision
   comparison.
 used_by:
-- CLAIM-tmpbaexb
+- CLAIM-140
 ---
 
 # TERM-034: fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter

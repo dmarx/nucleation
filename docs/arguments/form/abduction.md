@@ -6,7 +6,7 @@
 
 **Best explanation** — this account explains the evidence better than its rivals. Critical questions: which rivals were considered? Does a rival explain as well? Would more evidence discriminate them?.
 
-0 of 9 ARG documents. Back to the [full index](../README.md).
+0 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -4,11 +4,12 @@
 
 **Superseded** — no longer in force because something replaced it; the successor is named in the field, not the prose.
 
-9 of 37 TERM documents. Back to the [full index](../README.md).
+10 of 43 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-001](../../../record/terms.d/TERM-001.md) | fidelity, as the number of preserved constraints | A4, reading Hofstadter: fidelity as preservation along several dimensions (semantic, formal, rhyme, tone, pragmatic), traded off on a Pareto frontier. Undercut in the same reply by the mother's translation. | Superseded — by [TERM-013](../../../record/terms.d/TERM-013.md) |
+| [TERM-002](../../../record/terms.d/TERM-002.md) | communicative object, as a compatible family of local sections | A78, after the owner's U29 pointer to the record: an object is a compatible family of local sections of the event presheaf over a cover of jointly accessible observables, with no global assignment presupposed. The manuscript §3. | Superseded — by [TERM-042](../../../record/terms.d/TERM-042.md) |
 | [TERM-003](../../../record/terms.d/TERM-003.md) | will, as a second- or higher-order attractor | Will defined dynamically: a higher-order attractor that stabilizes which first-order regimes govern action. The owner's operational definition at U34; replaced by will-organization once the account became agent-indexed. | Superseded — by [TERM-023](../../../record/terms.d/TERM-023.md) |
 | [TERM-005](../../../record/terms.d/TERM-005.md) | frame, as an interpretive lens on the original | A11: the frame through which the original is reconstructed, deciding "what kind of thing the original fundamentally is". A silent narrowing of the owner's sense, corrected at U7. | Superseded — by [TERM-035](../../../record/terms.d/TERM-035.md) |
 | [TERM-013](../../../record/terms.d/TERM-013.md) | fidelity, as matching pragmatic signatures | A18: a rendering is faithful when its pragmatic signature in the target frame matches the source's in its own frame, I_g(u_g) ≈ I_f(u_f). Replaced at A24 by distribution matching over contexts. | Superseded — by [TERM-021](../../../record/terms.d/TERM-021.md) |

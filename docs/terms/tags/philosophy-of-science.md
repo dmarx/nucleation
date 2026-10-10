@@ -6,8 +6,9 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-1 of 37 TERM documents. Back to the [full index](../README.md).
+2 of 43 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-037](../../../record/terms.d/TERM-037.md) | observable | Manuscript §2: "a reproducible elicitation or coding procedure that assigns outcomes to communicative realizations", some "constituted through contrasts with alternatives". New in C7; the crystallized argument spoke only of observational procedures. | Active |
+| [TERM-038](../../../record/terms.d/TERM-038.md) | descriptive, causal and constitutive relations of a communicative act | A three-way distinction drawn by the assistant at A191 §11: relations that are observed, relations that say what would happen under changed conditions, and relations that make an act the kind of act it is. It recurs at A203 §16 and A218 §2, and A191 §4 pairs it with three kinds of identification. None of the three entails the next. | Active |

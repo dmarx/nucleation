@@ -35,7 +35,7 @@ summary: >-
   paper in the debate names it. This does not refute radical OSR. It
   removes one argument for it, and Eva 2016's reply is unread.
 supports:
-- CLAIM-tmpvxrjv
+- CLAIM-150
 ---
 
 # THEORY-038: Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata

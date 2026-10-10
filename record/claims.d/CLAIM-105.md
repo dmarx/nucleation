@@ -32,7 +32,7 @@ summary: >-
   Abstract's last sentence but drops the measure and the worked examples
   (at C6, per the chunk-5 reader).
 illustrated_by:
-- CASE-tmpg6rwh
+- CASE-037
 ---
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
@@ -105,7 +105,7 @@ A173 asked the entry to acknowledge that classical transports preserve
 noncontextuality. It already does (Theorem 2 of [LIT-265](../literature.d/LIT-265.md); [THEORY-174](../theory.d/THEORY-174.md)). A173's
 "not merely to transport itself" holds only for increases. Coarse-graining
 or mixing can lower contextuality by transport alone. The lost worked pair
-is [CASE-tmpg6rwh](../cases.d/CASE-tmpg6rwh.md) with one context changed: two models that agree on two of
+is [CASE-037](../cases.d/CASE-037.md) with one context changed: two models that agree on two of
 three contexts and on every marginal, with contextual fraction 1 and 0. The
 headline thesis is still absent from v7 (A178), from the second
 crystallized argument (A203) and from the October outline (A218).

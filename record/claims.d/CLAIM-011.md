@@ -22,18 +22,18 @@ summary: >-
   inadvertence.
 supports:
 - CLAIM-077
-- CLAIM-tmp4epnc
-- CLAIM-tmpayhau
-- CLAIM-tmpd1aee
-- CLAIM-tmpe2csg
-- CLAIM-tmpgp40l
-- CLAIM-tmpslubp
+- CLAIM-133
+- CLAIM-138
+- CLAIM-142
+- CLAIM-143
+- CLAIM-145
+- CLAIM-149
 illustrated_by:
-- CASE-tmpp6j2b
+- CASE-041
 ---
 <!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-tmpslubp CLAIM-tmpayhau CLAIM-tmpe2csg — Proposed; open, and cited as the later uses of this claim, not as settled -->
+<!-- inactive-ok-file: CLAIM-149 CLAIM-138 CLAIM-143 — Proposed; open, and cited as the later uses of this claim, not as settled -->
 
 # CLAIM-011: Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on
 
@@ -79,12 +79,12 @@ commutators themselves." It is the last appearance before the manuscript, whose
 
 - Its remedy carried from correspondences to training objectives: a probe
   family that trains a transformation cannot certify it
-  ([CLAIM-tmpslubp](CLAIM-tmpslubp.md); A184 Experiment C).
+  ([CLAIM-149](CLAIM-149.md); A184 Experiment C).
 - Its metaphysical twin, the Newman objection
-  ([CLAIM-tmpayhau](CLAIM-tmpayhau.md); A187 §6, A191 §10, A203 §19, A218 Ch2.10).
+  ([CLAIM-138](CLAIM-138.md); A187 §6, A191 §10, A203 §19, A218 Ch2.10).
 - Correspondence before comparison: a disagreement is read as an
   obstruction only after an anchored correspondence is fixed
-  ([CLAIM-tmpe2csg](CLAIM-tmpe2csg.md)).
+  ([CLAIM-143](CLAIM-143.md)).
 - Restored to the plan as A218 Ch9.7–9.9: "Alignment ambiguity and
   trivial-collapse failure", "Independently anchored, nondegenerate maps"
   and "Correspondence estimation versus correspondence validation".

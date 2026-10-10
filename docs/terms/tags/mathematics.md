@@ -6,7 +6,7 @@
 
 **Mathematics** — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields.
 
-5 of 37 TERM documents. Back to the [full index](../README.md).
+6 of 43 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [TERM-008](../../../record/terms.d/TERM-008.md) v3 | transport | The owner's word at U20 for the map Φ from source to target communicative states: directed, possibly stochastic and non- invertible, required only to get within ε. Renames A48's "state correspondence" and A49's "admissible correspondence". The manuscript's central term (§6). | Active |
 | [TERM-015](../../../record/terms.d/TERM-015.md) | fidelity, as graded, directed transport distortion | U20 and A50: fidelity is how little a transport distorts selected structure, within ε, and need not be symmetric or transitive; equivalence is its zero-distortion limit. The manuscript's graded fidelity (§6, §12). | Active |
 | [TERM-036](../../../record/terms.d/TERM-036.md) | fidelity, as preservation of selected observables and structural symmetries | A105, after the owner's U37 objection: "Fidelity ≈ preservation of selected observables and structural symmetries", "a proposed operational criterion, relative to a selected class of observables, not a universal identity". The manuscript states it in §4, beside the §6 functional rather than in it. | Active |
+| [TERM-041](../../../record/terms.d/TERM-041.md) | character-like structural signature, as a realization-independent invariant of a communicative kind, called a character only when it is the trace of a specified representation | A proposed invariant χ_A of a communicative kind, the same across the kind's realizations and required to keep independently specified pragmatic and decision-relevant distinctions. A203 §36 fixed the usage: "character" literally only for the trace character of a specified representation, otherwise "character-like structural signature". None has yet been constructed for any communicative case. | Active |

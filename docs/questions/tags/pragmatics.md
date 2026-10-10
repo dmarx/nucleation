@@ -6,8 +6,8 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-0 of 26 QUESTION documents. Back to the [full index](../README.md).
+1 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-031](../../../record/questions.d/QUESTION-031.md) | When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones? | A173's secondary question ("When do restricted probes separate communicative realizations?"), v7's RQ3 (A178) and A214 §3. It is the open half of [CLAIM-142](../../../record/claims.d/CLAIM-142.md): observational equivalence is relative to the probes, so how rich must the probes be? The discrete case has exact answers, and so does a metric-enriched one. The stochastic, decision-relative version is open. | Open |

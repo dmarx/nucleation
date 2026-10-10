@@ -6,8 +6,8 @@
 
 **Causality** — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-0 of 9 ARG documents. Back to the [full index](../README.md).
+1 of 10 ARG documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ARG-010](../../../record/arguments.d/ARG-010.md) | Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation | The owner's inference, made twice and declined twice: at U46 from the paradoxes of closed timelike curves, at U47 from "who crossed the meeting point first?". A161 and A164 refused it. Filed because two claims undercut it, and because the relativity analogy has now returned, through the owner, after [ARG-004](../../../record/arguments.d/ARG-004.md). | Rejected |

@@ -6,7 +6,7 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-5 of 26 QUESTION documents. Back to the [full index](../README.md).
+6 of 31 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [QUESTION-013](../../../record/questions.d/QUESTION-013.md) | Under iterated transport, when do observational, structural and decision distortion converge together, diverge, or evolve independently? | The fifth of the five central questions (A110 §IX): the joint trajectory of (D_obs(n), D_struct(n), D_dec(n)), "including the possibility that a chain becomes conventionally interpretable while losing ancestral pragmatic structure". The manuscript says only that the trajectories "need not coincide" (§8). | Open |
 | [QUESTION-016](../../../record/questions.d/QUESTION-016.md) | Under what conditions does iterated reconstruction preserve, or progressively destroy, task-relative sufficiency? | A86 §10, the second of three "target results". Neither it nor the other two was proved or stated in C6 or the manuscript, which has the data-processing inequality for a fixed Markov chain and a drift bound, not a sufficiency result. | Open |
 | [QUESTION-020](../../../record/questions.d/QUESTION-020.md) | Can improving the interpreter substitute for information transmitted in the utterance, and at what rate–distortion trade-off? | A86 §6, "an experimental question we have not yet investigated". The manuscript narrows it to a distinction, improving the signal versus improving the interpreter (§5), and an implication (§11); the trade- off itself was dropped without critique. | Open |
+| [QUESTION-027](../../../record/questions.d/QUESTION-027.md) | Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot? | The assistant's "central construction problem" (A203 §36) joined to its question of sufficiency without full identification (A214 §7, A218 RQ3 and Part III). The exchange calls it the central unresolved problem twice. Its unrestricted form is answered by standard results, so it is filed narrowed: it has content only for decisions about unobserved probes, interventions and transported targets. As A203 states it, it is not well posed. | Open |

@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-16 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+19 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -91,3 +91,21 @@
 
 - [CLAIM-107](../record/claims.d/CLAIM-107.md) — A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion *(thesis, Proposed)*
   - [CLAIM-094](../record/claims.d/CLAIM-094.md) — A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry *(granted, Active)*
+
+## From Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity
+
+- [CLAIM-136](../record/claims.d/CLAIM-136.md) — Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity *(thesis, Proposed)*
+  - [CLAIM-132](../record/claims.d/CLAIM-132.md) — Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions *(granted, Active)* — also extends CLAIM-137
+  - [CLAIM-134](../record/claims.d/CLAIM-134.md) — A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity *(counter, Proposed)*
+  - [CLAIM-138](../record/claims.d/CLAIM-138.md) — The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity *(counter, Proposed)*
+- [CLAIM-137](../record/claims.d/CLAIM-137.md) — A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization *(thesis, Proposed)*
+
+## From A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist
+
+- [CLAIM-139](../record/claims.d/CLAIM-139.md) — A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist *(thesis, Proposed)*
+  - [CLAIM-140](../record/claims.d/CLAIM-140.md) — The October thesis replaces what a receiver can reconstruct with what the analyst's probe system can identify as the test of what survives, and no turn argues the change *(granted, Active)*
+
+## From A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation
+
+- [CLAIM-147](../record/claims.d/CLAIM-147.md) — A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation *(thesis, Proposed)*
+  - [CLAIM-145](../record/claims.d/CLAIM-145.md) — Trope analysis of this kind is Propp's and Lévi-Strauss's, and trope annotations are written to fit their examples, so agreement with TV Tropes labels cannot by itself validate a structural account *(counter, Proposed)*

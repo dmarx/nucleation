@@ -8,8 +8,8 @@ this directory, then run `luria index`.
 **[Quantum foundations](tags/quantum-foundations.md)** (1) — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics:
 [002](../../record/arguments.d/ARG-002.md)
 
-**[Contextuality](tags/contextuality.md)** (1) — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics:
-[002](../../record/arguments.d/ARG-002.md)
+**[Contextuality](tags/contextuality.md)** (2) — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics:
+[002](../../record/arguments.d/ARG-002.md) · [010](../../record/arguments.d/ARG-010.md)
 
 **[Mathematics](tags/mathematics.md)** (1) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
 [006](../../record/arguments.d/ARG-006.md)
@@ -52,7 +52,8 @@ this directory, then run `luria index`.
 
 **[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-**[Causality](tags/causality.md)** (0) — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
+**[Causality](tags/causality.md)** (1) — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035):
+[010](../../record/arguments.d/ARG-010.md)
 
 **[Pragmatics](tags/pragmatics.md)** (0) — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
@@ -136,11 +137,11 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [The current account](status/Active.md) (5) · [Offered](status/Proposed.md) (2) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (2) · [Replaced](status/Superseded.md) (0)
+**By status:** [The current account](status/Active.md) (5) · [Offered](status/Proposed.md) (2) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (3) · [Replaced](status/Superseded.md) (0)
 
-**By form:** [Analogy](form/analogy.md) (4) · [Controlled contrast](form/contrast.md) (2) · [Existence proof](form/existence.md) (2) · [Application of a formal result](form/formal-application.md) (1) · [Generalization from cases](form/generalization.md) (0) · [Best explanation](form/abduction.md) (0) · [Cause to effect](form/cause-to-effect.md) (0) · [Reductio](form/reductio.md) (0)
+**By form:** [Analogy](form/analogy.md) (5) · [Controlled contrast](form/contrast.md) (2) · [Existence proof](form/existence.md) (2) · [Application of a formal result](form/formal-application.md) (1) · [Generalization from cases](form/generalization.md) (0) · [Best explanation](form/abduction.md) (0) · [Cause to effect](form/cause-to-effect.md) (0) · [Reductio](form/reductio.md) (0)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (5) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (4)
+**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (5) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (5)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -163,4 +164,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [ARG-007](../../record/arguments.d/ARG-007.md) | Stability does not entail viability, and the emergency regime keeps its operation and its governance while its transformation capacity degrades, so effective action and the capacity to govern among regimes are different achievements | The argument for the paper's main result (Section 6.11). Linked: all three premises are needed. Canguilhem is not among them. | Active |
 | [ARG-008](../../record/arguments.d/ARG-008.md) | A language model's response to its context is functionally a parameterized frame, so context-conditioned models give a controlled setting in which to test the theory | The owner's U17 analogy, which A43 enlarged into "the primary formal example". Undercut by the assistant in its own outlines: a prompt is not a social situation, model behaviour need not match human inference, and judging with the generating model measures only its preferences. | Active |
 | [ARG-009](../../record/arguments.d/ARG-009.md) | Northstar-A and Northstar-B differ only in escalation authority and act differently, so escalation authority helps govern efficacy | The institutional line of support for [CLAIM-027](../../record/claims.d/CLAIM-027.md) (Sections 5.1–5.2), an interventionist contrast ([THEORY-138](../../record/theory.d/THEORY-138.md)). Conditional on the supposed agent. Two of its critical questions are unanswered. | Proposed |
+| [ARG-010](../../record/arguments.d/ARG-010.md) | Causality paradoxes in relativity show that locally consistent descriptions can lack a global realization, so local interpretations need not be fragments of one global interpretation | The owner's inference, made twice and declined twice: at U46 from the paradoxes of closed timelike curves, at U47 from "who crossed the meeting point first?". A161 and A164 refused it. Filed because two claims undercut it, and because the relativity analogy has now returned, through the owner, after [ARG-004](../../record/arguments.d/ARG-004.md). | Rejected |
 

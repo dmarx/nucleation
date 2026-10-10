@@ -20,9 +20,9 @@ summary: >-
   satisfiable in its own context but admit no global assignment. Stated
   to demonstrate an obstruction, not to describe actual judgements.
 supports:
-- CLAIM-tmpc4chg
+- CLAIM-141
 variants:
-- CASE-tmpg6rwh
+- CASE-037
 ---
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CASE-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->
@@ -57,9 +57,9 @@ kept apart.
 - **Over the supports.** Here no compatible family of support sections
   exists at all. That is strong contextuality, the grade this case has; the
   weaker possibilistic grade is a locally possible section that belongs to
-  no compatible family ([TERM-tmpgok7x](../terms.d/TERM-tmpgok7x.md)).
+  no compatible family ([TERM-042](../terms.d/TERM-042.md)).
 - **Over the distributions.** Here a compatible family of distributions
   has no global joint.
 
-The weighted version is [CASE-tmpg6rwh](CASE-tmpg6rwh.md) (A129 §2, A161, and A178's negative
+The weighted version is [CASE-037](CASE-037.md) (A129 §2, A161, and A178's negative
 control).
