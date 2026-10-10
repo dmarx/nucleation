@@ -191,7 +191,7 @@ Stengers 1984 ([LIT-534](LIT-534.md)). Not held: List 2021 on group agency and A
 (doi:10.1007/s11229-023-04083-9), Himma 2009 (doi:10.1007/s10676-008-9167-5),
 Dennett's *Kinds of Minds* (1996), Bandura 2006 (the record holds Bandura
 1977, [LIT-545](LIT-545.md)), Pearl & Mackenzie 2018 (the record holds Pearl's
-*Causality*, [LIT-tmph1v0q](LIT-tmph1v0q.md)), Floridi & Chiriatti 2020, Floridi & Nobre 2024 and
+*Causality*, [LIT-894](LIT-894.md)), Floridi & Chiriatti 2020, Floridi & Nobre 2024 and
 Floridi's *The Ethics of Artificial Intelligence* (2023). The paper
 surveys the rival accounts of artificial agency (§3) and does not engage
 any of them.
