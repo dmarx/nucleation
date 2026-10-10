@@ -1,0 +1,201 @@
+---
+status: Active
+status_note: 'read in full 2026-10-10 ([NOTE-tmpu5qjn](../notes.d/NOTE-tmpu5qjn.md)); worth reading for the fullest statement of Floridi''s position that AI is "agency without intelligence": the Multiple Realisability of Agency thesis set against the Artificial Realisability of Intelligence, Floridi & Sanders'' three criteria restated as graded, and a taxonomy that places AI as "a computational, goal-driven form of agency defined by human purposes" with Agentic AI as its collective form. Read it as a taxonomy, not an argument. The case for MRA over ARI is announced and not made, since the paper assumes AI is an agent and asks what kind. AI''s lack of intelligence is asserted. No level of abstraction is ever specified. Interactivity alone makes a river a natural agent, so the permissiveness objection is accepted rather than answered.'
+title: 'AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis'
+version: 2
+history:
+- version: 1
+  date: '2026-10-10'
+  note: >-
+    Registered at the owner's request, seeded from the abstract, not read.
+    Crossref (DOI 10.1007/s13347-025-00858-9) gives Luciano Floridi,
+    Philosophy & Technology 38(1), article 30, published online
+    2025-02-27 (print issue March 2025), with 59 references. OpenAlex
+    lists it as green open access, but the only open copy is the
+    submitted version on PhilArchive, and that copy could not be fetched.
+    The abstract below is reconstructed, not quoted. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone at commit
+    d8b5ba5, 2026-10-09) for "Floridi" and the DOI found nothing.
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Read in full from the published version of record, which the owner
+    supplied as a PDF (Springer, 27 pp., "© The Author(s), under
+    exclusive licence to Springer Nature B.V. 2025", an Editor Letter).
+    The text was extracted with `pdftotext -layout`. The PDF has no
+    figures or tables, and page 1 was rendered with `pdftoppm` to check
+    the placement of the unnumbered note that serves as its abstract. I
+    read §§1–14, footnotes 1–3, the acknowledgements and the 59
+    references. The reconstructed abstract is replaced by the paper's own
+    outline, quoted. Tags, keywords and relations were revised from the
+    reading: `extends` Floridi & Sanders 2004, whose criteria it takes,
+    and `rivals` the organisational account of minimal agency and the
+    account of large models as social technologies. Status set from the
+    reading: Active.
+tags:
+- agency
+- cognition
+- social-ontology
+- society-and-governance
+date: '2026-10-10'
+published: '2025-02-27'
+doi: '10.1007/s13347-025-00858-9'
+first_author: 'Floridi'
+keywords:
+- 'artificial agency'
+- 'multiple realisability of agency'
+- 'artificial realisability of intelligence'
+- 'agency without intelligence'
+- 'method of abstraction'
+- 'natural agency'
+- 'agentic AI'
+- 'interactivity, autonomy, adaptability'
+implementations: []
+summary: >-
+  Floridi (2025), DOI-10.1007/s13347-025-00858-9. An Editor Letter that
+  "grew so long". AI is better understood by widening agency to forms
+  without cognition, intelligence or mental states than by widening
+  intelligence to machines. Agency comes in kinds (natural, biological,
+  animal social, artefactual, human individual and social, artificial,
+  social artificial). All of them share interactivity, and the richer
+  ones add graded autonomy and adaptability. AI is computational,
+  data-adaptive agency serving goals set by humans, with no intelligence.
+  The thesis is assumed, and the paper characterises the kind rather than
+  arguing for it. The criteria do not separate AI from other artefacts,
+  and no level of abstraction is stated.
+extends:
+- LIT-tmp0pyws
+- LIT-tmpdg6qq
+rivals:
+- LIT-566
+- LIT-848
+---
+<!-- inactive-ok-file: THEORY-071 THEORY-173 — Proposed; rival accounts of agency and of large models, cited as rivals, not as settled -->
+<!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the open question this paper does not answer -->
+<!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection this paper accepts, not as standing -->
+<!-- inactive-ok-file: THEORY-tmpixb78 — Proposed; the record's statement of this paper's account, filed from its reading -->
+<!-- inactive-ok-file: LIT-545 LIT-534 — Deferred; cited only to say which related works the record holds, not for a reading -->
+
+# LIT-tmp6juhh: AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis
+
+Luciano Floridi (2025), *Philosophy & Technology* 38(1): 30 (Editor Letter) — DOI-10.1007/s13347-025-00858-9
+
+## Abstract
+
+The version of record has no section headed "Abstract". Its place is
+taken by an unnumbered note on page 1, "Apology to The Reader", which
+offers "a brief outline to the reader who rightly expects something
+brief". The outline, quoted:
+
+> When interpreting Artificial Intelligence (AI) systems, we face a clear
+> choice: either to expand our current conception of intelligence to
+> include artificial forms of it (the Artificial Realisability of
+> Intelligence or ARI thesis), or to expand our understanding of agency to
+> encompass multiple forms, including artificial ones that do not require
+> cognition, intelligence, intention, or mental states (the Multiple
+> Realisability of Agency or MRA thesis). In this article, I argue that
+> scientific evidence, common sense, Ockham's razor, and an increasing body
+> of scholarly research favour the MRA thesis over the ARI thesis.
+> Accordingly, AI is better understood as a new form of Agency without
+> Intelligence. By employing the Method of Abstraction, I provide a
+> comparative analysis of various forms of agency—natural, biological,
+> animal (individual and social), artefactual, and human (individual and
+> social)—to identify the defining characteristics of AI as a novel kind
+> of agency. This is the long part of the article. The good news is that
+> reconceptualising AI as Artificial Agency avoids biological and
+> anthropomorphic fallacies, improves our understanding of AI's distinct
+> features, and provides a stronger foundation for addressing the
+> challenges and opportunities posed by AI technologies, as well as their
+> future development and societal impact.
+
+## Key takeaways
+
+- **The thesis is assumed, not argued.** "The central question is not
+  whether AI can be considered a form of agency, but rather, assuming it
+  is, what its nature is" (p. 2). Of the four supports the outline
+  names, only the literature gets a section (§3, a survey). Ockham's
+  razor and common sense are not mentioned after p. 2.
+- **Floridi & Sanders' criteria return, loosened** ([LIT-tmpdg6qq](LIT-tmpdg6qq.md)).
+  Interactivity, autonomy and adaptability are restated as graded.
+  Interactivity is "the foundational criterion for all forms of agency"
+  (p. 8). Interactivity alone gives natural agency: rivers are agents
+  (p. 9). In 2004 all three were needed.
+- **A taxonomy of eight kinds of agency**, each with an example,
+  limitations and implications (§§5–13). The three criteria separate only
+  natural agency from the rest. The other kinds are told apart by origin,
+  mechanism, where the goals come from, and mental states.
+- **AI's place**: "a computational, goal-driven form of agency defined
+  by human purposes" (p. 18). It cannot "choose whether to choose"
+  (p. 19), and it is "a syntactic form of agency" (p. 20). Agentic AI is
+  its collective form (§13).
+- **The method of abstraction is introduced, not applied.** A thermostat
+  is described at four LoAs (p. 4), and comparison is said to need "a
+  stable LoA" (p. 5). The comparison never names its observables.
+
+## Standing in the record
+
+Filed on 2026-10-10 because the owner asked for it, with the line of
+Floridi's work it builds on: Floridi 2023 on ChatGPT ([LIT-tmp0pyws](LIT-tmp0pyws.md)), Floridi
+& Sanders 2004 on the morality of artificial agents ([LIT-tmpdg6qq](LIT-tmpdg6qq.md)), the
+method of levels of abstraction ([LIT-tmpqbvu8](LIT-tmpqbvu8.md)), distributed morality
+([LIT-tmpqgb1s](LIT-tmpqgb1s.md)) and faultless responsibility ([LIT-tmplkm3o](LIT-tmplkm3o.md)). No open copy could
+be reached from here when it was filed. The owner then supplied the
+published version, and [NOTE-tmpu5qjn](../notes.d/NOTE-tmpu5qjn.md) is the reading of it.
+
+**Active**, as the fullest statement of the position the record's agency
+line has to place, and as the clearest permissive data point it holds. On
+this account rivers, thermostats, ant colonies, corporations and LLMs are
+all agents, of different kinds. Read it as a taxonomy, not as an argument
+that AI is an agent or that it lacks intelligence. It assumes the first
+and asserts the second.
+
+Relations, from the reading:
+
+- `extends` Floridi 2023 ([LIT-tmp0pyws](LIT-tmp0pyws.md)): it takes that editorial's title and
+  thesis, and supplies the criteria the editorial lacked.
+- `extends` Floridi & Sanders 2004 ([LIT-tmpdg6qq](LIT-tmpdg6qq.md)): §4 takes its three
+  criteria "Following (Floridi & Sanders, 2004)" (p. 7). It changes them
+  without saying so. Agency no longer needs all three, and adaptability
+  is weakened from a change of transition rules to a change of behaviour
+  on input.
+- No `extends` to Floridi 2008 ([LIT-tmpqbvu8](LIT-tmpqbvu8.md)). The method is cited and
+  illustrated in §2, but nothing in the comparison depends on it.
+- `rivals` the organisational account of minimal agency ([LIT-566](LIT-566.md),
+  [THEORY-071](../theory.d/THEORY-071.md)). On that account a system serving a norm fixed from outside
+  is not acting, and that is how this paper describes AI.
+- `rivals` Farrell, Gopnik, Shalizi & Evans 2025 ([LIT-848](LIT-848.md), [THEORY-173](../theory.d/THEORY-173.md)).
+  It agrees that large models have no understanding and no goals of
+  their own, and from those facts denies them agency.
+
+The record's statement of the account is [THEORY-tmpixb78](../theory.d/THEORY-tmpixb78.md), Proposed.
+
+Where it meets the record ([NOTE-tmpu5qjn](../notes.d/NOTE-tmpu5qjn.md) has the detail):
+
+- **Permissiveness ([CLAIM-010](../claims.d/CLAIM-010.md)).** The bullet is bitten, not dodged. It
+  does not restrict the level of abstraction. It grades agency into kinds.
+- **[QUESTION-009](../questions.d/QUESTION-009.md).** Colonies, corporations and Agentic AI are collective
+  agents, and no criterion says when a group is one.
+- **[ADR-024](../decisions.d/ADR-024.md).** Agency is kept apart from intelligence and personhood.
+  The human kind of agency, though, absorbs identity, narrative
+  self-understanding and a sense of self (pp. 14–15).
+- **Distributed agency ([CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-045](../claims.d/CLAIM-045.md)).** It is compatible with
+  them and gives no evidence for either. Distributed morality is cited in
+  one sentence (p. 6) and is not connected to the taxonomy.
+- **Frankfurt 1971 ([LIT-692](LIT-692.md))** is cited only for the moral dimension of
+  human agency (p. 15).
+
+Cited works the record holds: Frankfurt 1971 ([LIT-692](LIT-692.md)) and Prigogine &
+Stengers 1984 ([LIT-534](LIT-534.md)). Not held: List 2021 on group agency and AI
+(doi:10.1007/s13347-021-00454-7), Dung 2024 (doi:10.1093/pq/pqae010), Popa
+2021 (doi:10.1007/s13347-021-00483-2), van Lier 2023
+(doi:10.1007/s11229-023-04083-9), Himma 2009 (doi:10.1007/s10676-008-9167-5),
+Dennett's *Kinds of Minds* (1996), Bandura 2006 (the record holds Bandura
+1977, [LIT-545](LIT-545.md)), Pearl & Mackenzie 2018 (the record holds Pearl's
+*Causality*, [LIT-894](LIT-894.md)), Floridi & Chiriatti 2020, Floridi & Nobre 2024 and
+Floridi's *The Ethics of Artificial Intelligence* (2023). The paper
+surveys the rival accounts of artificial agency (§3) and does not engage
+any of them.
+
+It carries no instruction for machine-learning practice. The anthology
+holds no work in this line, so it is held here. published: is the online
+date Crossref gives.

@@ -1,0 +1,156 @@
+---
+status: Active
+status_note: 'read in full 2026-10-10 ([NOTE-tmpiz7db](../notes.d/NOTE-tmpiz7db.md)); worth reading as the line''s only worked statement of distributed morality (morally loaded actions of a multiagent system arising from interactions each below a moral threshold) and as the source of "infraethics", the first-order framework of moral enablers that is not morally good in itself. Read pp. 729–734 for the threshold model and pp. 738–740 for infraethics. It argues by a model and four examples and proves nothing. Its analogy with distributed knowledge is not exact: every example sums like contributions past a threshold whose value is left unspecified. No criterion of agency is applied to its "supra-agents", and responsibility for distributed morality, which Floridi & Sanders 2004 promised, is still not given.'
+title: 'Distributed Morality in an Information Society'
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Read in full from the published version supplied by the owner (the
+    Springer PDF, Science and Engineering Ethics 19(3):727–743, 17 pp.):
+    abstract and keywords, introduction, six sections and conclusion,
+    acknowledgements, footnotes 1–10, Figures 1–4 and the 47 references,
+    which matches the count Crossref gives. Text extracted with `pdftotext
+    -layout`. It reported syntax errors in some drawing operators, so the
+    pages with figures (pp. 729, 730, 732, 733, 737) were rendered with
+    `pdftoppm` and read as images, which also gave the logical symbols the
+    extraction garbles. No open copy had been reachable when the work was
+    seeded (see version 1 and the access note below). Crossref rechecked
+    the same day: published online 2012-11-30, print issue September 2013.
+    The seeded abstract was replaced with the paper's own, the keywords
+    with the paper's own keyword list, and `social-ontology` was added to
+    the tags for its supra-agents and collective responsibility. The
+    `extends` to Floridi & Sanders 2004 is confirmed by the reading. No
+    relation to Floridi 2008 is written, since the method is cited twice
+    and not used. Status set from the reading: Active.
+- version: 1
+  date: '2026-10-10'
+  note: >-
+    Registered, seeded from the abstract as search results describe it,
+    not read. Crossref (DOI 10.1007/s11948-012-9413-4) gives Luciano
+    Floridi, Science and Engineering Ethics 19(3): 727–743, published
+    online 2012-11-30 (print issue September 2013), with 47 references,
+    among them Floridi & Sanders 2004 (LIT-tmpdg6qq) and the method of
+    levels of abstraction (LIT-tmpqbvu8). Not held in the Anthology of the
+    SOTA: a grep of its record/ (clone at commit d8b5ba5, 2026-10-09) for
+    "Floridi" and the DOI found nothing.
+tags:
+- agency
+- ethics
+- social-ontology
+- society-and-governance
+date: '2026-10-10'
+published: '2012-11-30'
+doi: '10.1007/s11948-012-9413-4'
+first_author: 'Floridi'
+keywords:
+- 'Distributed morality'
+- 'Information and communication technologies'
+- 'Information ethics'
+- 'Infraethics'
+- 'Moral enablers'
+- 'Multiagent systems'
+implementations: []
+summary: >-
+  Floridi (2013), DOI-10.1007/s11948-012-9413-4. Distributed morality is
+  the case where morally loaded actions of a human, artificial or hybrid
+  multiagent system result from interactions among its members that are
+  each morally neutral or negligible, modelled on distributed knowledge
+  (A knows P∨Q, B knows ¬P, only the "supra-agent" AB knows Q). Two moral
+  thresholds make environments fault-tolerant to small evils and inert to
+  small goods, so managing distributed morality means aggregating possible
+  goods and fragmenting possible evils. ICTs make it common. "Infraethics"
+  is the first-order framework of moral enablers (trust, privacy,
+  transparency …) that is not good in itself. The analogy is looser than
+  it looks: every example sums like contributions past a threshold whose
+  value is left open. Responsibility for distributed morality is not
+  addressed.
+extends:
+- LIT-tmpdg6qq
+extended_by:
+- LIT-tmplkm3o
+---
+<!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what the reading found for it -->
+
+# LIT-tmpqgb1s: Distributed Morality in an Information Society
+
+Luciano Floridi (2013), *Science and Engineering Ethics* 19(3): 727–743 — DOI-10.1007/s11948-012-9413-4
+
+## Key takeaways
+
+- Morally loaded actions can come from interactions that are each morally
+  neutral or negligible. A multiagent system can do good or evil that none
+  of its members does. Floridi calls this distributed morality (DM). It
+  covers only what does not reduce to "the sum of (some) human, individual,
+  and already morally-loaded actions" (p. 729).
+- The mechanism is a pair of moral thresholds. Possible evils below them
+  fail (the environment is "fault-tolerant"), and possible goods below them
+  stay neutral (it is "inert"). So the ethical task includes designing
+  aggregation of possible goods and fragmentation of possible evils
+  (p. 736).
+- "Infraethics" names the first-order framework of moral enablers, such as
+  trust, privacy, transparency and openness, which facilitate good or evil
+  and are "not necessarily morally good in itself" (pp. 738–739).
+
+The paper's own abstract:
+
+> The phenomenon of distributed knowledge is well-known in epistemic logic.
+> In this paper, a similar phenomenon in ethics, somewhat neglected so far,
+> is investigated, namely distributed morality. The article explains the
+> nature of distributed morality, as a feature of moral agency, and
+> explores the implications of its occurrence in advanced information
+> societies. In the course of the analysis, the concept of infraethics is
+> introduced, in order to refer to the ensemble of moral enablers, which,
+> although morally neutral per se, can significantly facilitate or hinder
+> both positive and negative moral behaviours.
+
+## Standing in the record
+
+Filed on 2026-10-10 with the paper the owner asked for, Floridi 2025
+([LIT-tmp6juhh](LIT-tmp6juhh.md)), which cites it once. It was filed `Deferred`, unread, because no
+open copy could be reached. The owner then supplied the published version,
+and [NOTE-tmpiz7db](../notes.d/NOTE-tmpiz7db.md) is the close reading of the same day. It placed the work:
+**Active**, for the reasons in the status note.
+
+It `extends` Floridi & Sanders 2004 ([LIT-tmpdg6qq](LIT-tmpdg6qq.md)): "I introduced the concept of
+distributed morality (DM) in (Floridi and Sanders 2004)" (p. 728). Its agents
+are that paper's mind-less agents, at a receiver-side level of abstraction.
+It delivers part of what that paper promised. It defines the phenomenon and
+gives it a mechanism. It does not deliver the payoff 2004 claimed, a way to
+stop looking for the responsible individual. None of the 2004 machinery
+(the three criteria, criterion (O), accountability against responsibility)
+is used, and responsibility for DM is left to faultless responsibility
+([LIT-tmplkm3o](LIT-tmplkm3o.md)), which `extends` it. The method of levels of abstraction
+([LIT-tmpqbvu8](LIT-tmpqbvu8.md)) is cited twice and not used, so no relation to it is written.
+
+What the reading found on the questions left at seeding:
+
+- **Distributed knowledge, not common knowledge.** The analogy uses
+  distributed knowledge (Halpern & Moses 1990; Fagin et al. 1995). It is
+  looser than it looks. The paper makes distributed knowledge depend on
+  interaction, which the cited semantics does not. Its examples sum like
+  contributions past a threshold, where distributed knowledge combines
+  different contents logically. Whether the 2016 paper's common knowledge is
+  a substantive change is for that paper's reading.
+- **The network is called an agent, without a test.** C = AB is a
+  "supra-agent" by stipulation, and corporations, the State and even moral
+  enablers are "agents" (pp. 729, 740–741). No criterion is applied. The
+  paper does not bear on [QUESTION-009](../questions.d/QUESTION-009.md) beyond showing how freely the line uses
+  the word.
+- **Infraethics is less neutral than the abstract says.** The body claims
+  only that it is not necessarily good. It concedes that separating it from
+  values "never occurs in reality" (p. 739), and it lists values (privacy,
+  transparency, freedom of expression) among its enablers.
+
+No THEORY is filed from it. The record files none for the comparable
+conceptual readings in this line.
+
+Access when seeded: Crossref gave the metadata and the reference list, with
+no abstract. The PhilArchive copy (philpapers.org/archive/FLODMI.pdf, green
+open access) returned a Cloudflare 403. The University of Hertfordshire
+record (uhra.herts.ac.uk/id/eprint/20632, to which the older handle
+2299/11843 redirects) has no file. The Springer version is not open access,
+and PubMed (23197312) has no free text. The owner supplied the published
+PDF on 2026-10-10; it is not held in the repository. published: is the
+online date Crossref gives.

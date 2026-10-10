@@ -30,6 +30,8 @@ summary: >-
   models worst on rare cases, which may homogenize culture). Proposed: no
   evidence is offered, and the paper gives no criterion by which the
   classification could fail.
+rivals:
+- THEORY-tmpixb78
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 
