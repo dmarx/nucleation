@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, on what it is standardly cited for. No NOTE is filed, and it stays Deferred until it is read, not on merit. No access to a full text was attempted.'
+status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, on what it is standardly cited for. No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for on 2026-10-11: Unpaywall reports no open-access copy for the DOI, and Europe PMC holds no full text, so no lawful full text was found.'
 title: 'Principles of Crystal Nucleation and Growth'
 version: 1
 history:
