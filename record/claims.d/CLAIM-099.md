@@ -41,4 +41,4 @@ organization governing practical efficacy."
 ## What it does not say
 
 What ought to persist ([CLAIM-075](CLAIM-075.md)), or that the agent owns its
-will-organization ([CLAIM-022](CLAIM-022.md)).
+will-organization ([TERM-023](../terms.d/TERM-023.md)) ([CLAIM-022](CLAIM-022.md)).

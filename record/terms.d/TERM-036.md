@@ -18,6 +18,7 @@ summary: >-
   §6 functional rather than in it.
 used_by:
 - CLAIM-108
+- CLAIM-103
 ---
 <!-- inactive-ok-file: CLAIM-107 CLAIM-113 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -35,6 +36,6 @@ repeated reconstruction" ([CLAIM-107](../claims.d/CLAIM-107.md)).
 ## What it is not
 
 Not a term of [TERM-010](TERM-010.md). The manuscript §4 separates exact preservation,
-equivariance, approximate preservation and reorganization ([CLAIM-113](../claims.d/CLAIM-113.md)), and §6 gives
+equivariance ([TERM-004](TERM-004.md)), approximate preservation and reorganization ([CLAIM-113](../claims.d/CLAIM-113.md)), and §6 gives
 the distortion functional. The two notions sit side by side and are never
 related: a transport can score well on L and break a symmetry, or the reverse.

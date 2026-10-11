@@ -1213,6 +1213,26 @@ remotes:
         dir: record/notes.d
       ADR:
         dir: record/decisions.d
+  MOM:
+    name: Mathematics of Meaning
+    repo: dmarx/mathematics-of-meaning
+    ref: main
+    dir: record/claims.d
+    schemes:
+      CLM:
+        dir: record/claims.d
+      ARG:
+        dir: record/arguments.d
+      POS:
+        dir: record/positions.d
+      CON:
+        dir: record/concepts.d
+      LIT:
+        dir: record/literature.d
+      ADR:
+        dir: record/decisions.d
+      DP:
+        dir: record/principles.d
   LU:
     name: luria
     repo: dmarx/luria

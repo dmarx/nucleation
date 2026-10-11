@@ -17,6 +17,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-011
+uses:
+- TERM-008
 summary: >-
   A49's answer to the collapse objection, recovered: d_O(s_1, s_2) > δ
   implies d_O(Φ(s_1), Φ(s_2)) > δ′. The owner's U19 strategy at work:

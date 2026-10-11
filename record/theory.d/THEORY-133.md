@@ -29,6 +29,8 @@ summary: >-
   Proposed: the formal result is proved, but the claim that higher-level
   relations are typically insensitive is an observation about scientific
   practice, and Pernu disputes the paper's main example.
+supports:
+- CLAIM-tmp99nuu
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->

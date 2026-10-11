@@ -19,6 +19,8 @@ works:
 - what-survives-translation
 grounds:
 - THEORY-158
+uses:
+- TERM-027
 summary: >-
   The manuscript's §4, citing Baez and Fong. [CLAIM-094](CLAIM-094.md) says what
   the cited theorem needs that the discrete-time criterion leaves out.

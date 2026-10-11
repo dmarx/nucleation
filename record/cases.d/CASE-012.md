@@ -25,10 +25,8 @@ summary: >-
 supports:
 - ARG-004
 ---
-<!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-036 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-006 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CASE-012: The modernized refrains of Henley's Villon
 
