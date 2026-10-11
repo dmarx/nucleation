@@ -20,6 +20,8 @@ answers:
 - QUESTION-tmpdj25c
 rests_on:
 - CLAIM-tmp4qgbo
+uses:
+- TERM-tmpeuuih
 summary: >-
   Luria's distinction between sources and generated views, carried over
   from files to argument. The evidence is the two "crystallized
@@ -55,10 +57,13 @@ draft:
   only insufficiency ([CLAIM-053](CLAIM-053.md));
 - dropped 24 items of the crystallized argument, none of them on request.
 
-The second crystallization (A203) announced its change of question, but
-still dropped Tannaka, two open problems and more. Each draft read as
-finished. None of the losses could be seen without a list of what came
-before it.
+The second crystallized argument (A203), the terminal state at U56
+([TERM-tmpeuuih](../terms.d/TERM-tmpeuuih.md)), announced its change of question. It also left out
+Tannaka, two open problems and more. Maturing can legitimately drop
+things, so some of these may have dissolved rather than been lost, but
+nothing in the exchange says which. Each draft read as finished. None of
+the omissions could be seen, let alone classified, without a list of what
+came before.
 
 The record supplies that list. A claim has a status (does the record
 believe it?) and a `works` membership (is it in the paper?), and [ADR-032](../decisions.d/ADR-032.md)

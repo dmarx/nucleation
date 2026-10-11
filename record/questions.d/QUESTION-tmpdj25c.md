@@ -36,8 +36,10 @@ The metaphor in the title is that a solution can be supersaturated and
 still not crystallize, because crystals need a site to form on. Read that
 way, a long exchange with a chat assistant holds more argument than it ever
 fixes. Its ideas keep coming back, each time a little redefined, and none
-of them settles. Asking for "the crystallized argument" gives a snapshot.
-The next snapshot has a different thesis.
+of them settles. Asking for "the crystallized argument" reads out the
+terminal state the argument has reached ([TERM-tmpeuuih](../terms.d/TERM-tmpeuuih.md)). The next readout
+had a different thesis, and nothing in the exchange said whether the
+earlier one had matured into it or been dropped.
 
 This record has been where that happened, twice
 ([ADR-032](../decisions.d/ADR-032.md), workbench 2026/10/07 and 2026/10/09–10). Luria was built

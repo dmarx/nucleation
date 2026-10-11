@@ -29,6 +29,8 @@ answers:
 - QUESTION-tmpdj25c
 rests_on:
 - CLAIM-tmp4qgbo
+uses:
+- TERM-tmpeuuih
 complements:
 - CLAIM-tmp2jolp
 grounds:
@@ -67,10 +69,11 @@ asked for. The translation exchange shows what the branching looks like:
   [CLAIM-139](CLAIM-139.md). At U50 a passing remark about FID was escalated into a
   THEORY, a new metric, three LITs, a CLAIM, a QUESTION and chapter
   placements, until the owner pulled it back at U51.
-- Each of the two "crystallized arguments" (U38, U56) came at the end of a
-  run of fast turns, and each lost material. The first lost it when it was
-  drafted into C7 ([CLAIM-tmp5o4dd](CLAIM-tmp5o4dd.md)). The second, A203, dropped Tannaka and
-  two open problems in the crystallization itself.
+- Each of the two crystallized arguments (U38, U56; [TERM-tmpeuuih](../terms.d/TERM-tmpeuuih.md)) came
+  at the end of a run of fast turns. The first lost material when it was
+  drafted into C7 ([CLAIM-tmp5o4dd](CLAIM-tmp5o4dd.md)). The second, A203, left out Tannaka and
+  two open problems, and nothing in the exchange says whether they
+  dissolved as the argument matured or were not carried forward.
 
 The record acts on growth by anchoring, not only by pausing. Under the
 owner's reframing ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), what lets structure grow in order is a
