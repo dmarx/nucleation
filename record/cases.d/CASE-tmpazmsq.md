@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -10,6 +10,12 @@ history:
     after the objection it was for (CLAIM-tmpw0mrc) was rejected
     (CLAIM-tmpl4ha3). A one-way coupling no longer counts against the
     pair. It says the pair is a hierarchy, lead driving follow.
+- version: 3
+  date: '2026-10-11'
+  note: >-
+    A drive-profile measurement is added (TERM-tmpuyzeb), so the study
+    can also ask whether "the dance leads": whether the pair's joint mode
+    shows causal decoupling, beyond the lead driving the follow.
 standing: stipulated
 tags:
 - embodied-cognition
@@ -56,6 +62,12 @@ A stipulated design, so that the criterion has a concrete test.
 - **Architecture.** Estimate the lead→follow and follow→lead couplings
   separately. Their ratio says whether the pair works as peers or as a
   hierarchy ([CLAIM-tmpl4ha3](../claims.d/CLAIM-tmpl4ha3.md)).
+- **Drive profile.** Take the pair's relative phase as the macro-variable
+  and estimate the information decomposition's downward-causation and
+  causal-decoupling terms ([LIT-025](../literature.d/LIT-025.md)) over windows ([TERM-tmpuyzeb](../terms.d/TERM-tmpuyzeb.md)). The
+  question is whether the dance has dynamics of its own that neither
+  dancer accounts for (decoupling), whether it constrains the dancers
+  (downward), or whether it is only their resultant.
 
 ## What it can show
 

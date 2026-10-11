@@ -46,6 +46,7 @@ summary: >-
   regulation.
 supports:
 - CLAIM-tmpf301t
+- CLAIM-tmpaf2e6
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-029 — Proposed; THEORY-056 is the account this one is weighed against, THEORY-029 is named to say this one does not bear on it -->
 <!-- inactive-ok-file: LIT-600 — Deferred, unread; Norman & Shallice named as the tradition EVC formalises, not leaned on -->
