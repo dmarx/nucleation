@@ -1,0 +1,74 @@
+---
+status: Proposed
+title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
+version: 1
+role: thesis
+defeated_if: >-
+  Drafts written straight from an exchange, checked against the exchange
+  itself, turn out to preserve its commitments and announce changes of
+  thesis about as often as drafts written against a record. Or a record
+  kept beside the draft catches nothing that a careful reread of the
+  draft would not.
+tags:
+- design-rationale
+- epistemology
+date: '2026-10-11'
+line: nucleating-argument
+works:
+- luria-nucleating-an-argument
+answers:
+- QUESTION-tmpdj25c
+rests_on:
+- CLAIM-tmp4qgbo
+summary: >-
+  Luria's distinction between sources and generated views, carried over
+  from files to argument. The evidence is the two "crystallized
+  arguments" of the What Survives Translation? exchange and the
+  manuscripts drafted from them (workbench 2026/10/09/025539,
+  2026/10/10/040457). Proposed: the record is kept beside the manuscript,
+  and nothing generates a manuscript from it.
+objected_by:
+- CLAIM-tmpas8q0
+supports:
+- CLAIM-tmpors2p
+---
+<!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
+<!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+
+# CLAIM-tmp5o4dd: A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately
+
+## The claim
+
+Luria's working agreement is "Never edit a generated file". A view is
+rebuilt from sources, and an edit made to the view is lost or drifts
+([LU-DP-003](https://github.com/dmarx/luria/blob/main/docs/design-principles.md#dp-3)). When an argument exists only in its manuscript, the manuscript
+is a view that is being edited as if it were the source.
+
+The translation exchange is the case. At U38 the owner asked for "the whole
+(crystallized) argument", and three minutes later for a manuscript. The
+draft:
+
+- changed the thesis from [CLAIM-017](CLAIM-017.md) to [CLAIM-115](CLAIM-115.md), with no turn arguing the
+  move;
+- added "necessary" to "not sufficient", supported by an example that shows
+  only insufficiency ([CLAIM-053](CLAIM-053.md));
+- dropped 24 items of the crystallized argument, none of them on request.
+
+The second crystallization (A203) announced its change of question, but
+still dropped Tannaka, two open problems and more. Each draft read as
+finished. None of the losses could be seen without a list of what came
+before it.
+
+The record supplies that list. A claim has a status (does the record
+believe it?) and a `works` membership (is it in the paper?), and [ADR-032](../decisions.d/ADR-032.md)
+keeps the two apart because they diverge. A manuscript is then one
+marshalling of claims whose status can be read, and a dropped commitment is
+a claim that is still Proposed and that the work no longer includes.
+
+## What it does not say
+
+- It does not say a manuscript can be generated from the record. The prose
+  is written, not assembled. "View" means that the record is the reference
+  the draft is checked against.
+- It does not say that every change of thesis made in a draft is wrong. It
+  says the change should be visible.
