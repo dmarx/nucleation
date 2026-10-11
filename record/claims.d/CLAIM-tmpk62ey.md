@@ -1,7 +1,18 @@
 ---
 status: Proposed
-title: 'Mutual entrainment makes a coupled system, not an extended self: two dancers in phase are one coordination and still two selves, and participatory sense-making requires that they stay so'
-version: 1
+title: 'A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Narrowed after the owner's reply (CLAIM-tmpygda8). Version 1 said
+    entrainment makes "a coupled system, not an extended self" and cited
+    De Jaegher & Di Paolo for the dancers staying autonomous. The same
+    paper calls the interaction itself "an emergent and autonomous
+    process", and Clark & Chalmers endorse socially extended cognition.
+    So version 1 failed against the combined form. What remains is the
+    subject sense of "self" only.
 role: counter
 tags:
 - self
@@ -14,40 +25,43 @@ objects_to:
 grounds:
 - LIT-571
 summary: >-
-  The record's own anticipated objection to [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md). De Jaegher &
-  Di Paolo's interaction has its own closure only while the agents
-  remain autonomous, so entrainment cannot be what makes one self of
-  two. Open: [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md) concedes the dancers and has no criterion
-  for when a coupled system is also a self.
+  The record's own objection to [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md), narrowed in version 2
+  after the owner's reply ([CLAIM-tmpygda8](CLAIM-tmpygda8.md)). It concedes that the dancing
+  pair is a combined form and an autonomous process. It holds only that
+  nothing in the coupling makes that form a subject, which [ADR-024](../decisions.d/ADR-024.md)
+  reserves "self" for. Open: whether that is the sense of "self" worth
+  asking about is itself in question.
 illustrated_by:
 - CASE-tmpk52n6
+objected_by:
+- CLAIM-tmpygda8
 ---
-<!-- inactive-ok-file: CLAIM-tmptsdgt — Proposed; the claim this objection targets, open -->
+<!-- inactive-ok-file: CLAIM-tmptsdgt CLAIM-tmpygda8 — Proposed; the claim this objection targets and the owner's reply that narrowed it, both open -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; named as a candidate further condition, not leaned on -->
 
-# CLAIM-tmpk62ey: Mutual entrainment makes a coupled system, not an extended self: two dancers in phase are one coordination and still two selves, and participatory sense-making requires that they stay so
+# CLAIM-tmpk62ey: A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects
 
 ## The claim
 
-Two dancers, or two people swinging pendulums ([LIT-571](../literature.d/LIT-571.md) reports phase-locking
-in such pairs), meet every condition [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md) sets. The entrainment
-is mutual, and the pair is best described by relative phase. Yet no one
-counts either dancer as part of the other's self. De Jaegher & Di Paolo
-make it a condition of social interaction that the interactors stay
-autonomous. When one is absorbed into the other, the interaction stops
-being social. So entrainment yields a third thing, the coordination, beside
-two selves. It does not yield one extended self.
+Two dancers in phase ([CASE-tmpbv3ts](../cases.d/CASE-tmpbv3ts.md)) meet every condition [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md)
+sets. Version 1 of this objection argued from that to "not one self",
+citing De Jaegher & Di Paolo's requirement that the interactors stay
+autonomous ([LIT-571](../literature.d/LIT-571.md)). The owner's reply ([CLAIM-tmpygda8](CLAIM-tmpygda8.md)) shows that
+version failed. The same paper calls the interaction "an emergent and
+autonomous process", and Clark & Chalmers allow socially extended
+cognition. The pair is a combined form.
+
+What is left: nothing in mutual entrainment gives that form a *subject*. It
+has no point of view or experience that is the pair's rather than one
+dancer's. [ADR-024](../decisions.d/ADR-024.md) reserves "self" for being a subject. In that sense the
+pair is not shown to be a self, however good the case for it as an
+extended cognitive system.
 
 ## Why it is still open
 
-The available reply concedes the case. [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md) says what belongs to
-a coupled system, not what makes that system a self. It would need a
-further condition, and there are candidates:
-
-- **Asymmetry.** One side sets the goals the coordination serves (Levin's
-  shared goal, [LIT-439](../literature.d/LIT-439.md); or an interactional asymmetry, [THEORY-071](../theory.d/THEORY-071.md)).
-- **Endorsement.** Clark & Chalmers' endorsement mark, returned as a
-  condition on the coupled system rather than on the resource.
-
-Neither is filed or argued. The dancers stay a counterexample to the claim
-read as a claim about selves.
+Whether the subject sense is the right one is in question. Clark &
+Chalmers' extended self ([NOTE-180](../notes.d/NOTE-180.md)) is dispositional, not experiential, and
+on that sense the pair may qualify. The owner's method is to name and
+characterize the combined form first and then ask which sense of "self", if
+any, it earns. Until that is done this objection is a marker for the
+subject sense, not a verdict.

@@ -1,7 +1,15 @@
 ---
 status: Proposed
-title: 'Mutual entrainment bounds an extended self better than reliable availability does: an external process belongs to the coupled system when each side adjusts the other''s timing and the pair carries a collective variable neither has alone'
-version: 1
+title: 'Mutual entrainment bounds a combined form better than reliable availability does: an external process or partner belongs to the coupled system when each side adjusts the other''s timing and the pair carries a collective variable neither has alone'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    "Extended self" in the title replaced by "combined form", and "or
+    partner" added, after the owner's method of the same day: name and
+    characterize the form first, then ask whether "self" applies. The
+    criterion is unchanged.
 role: thesis
 defeated_if: >-
   A mutually entrained pair whose collective variable can be eliminated
@@ -41,7 +49,7 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-tmpigdl0 CLAIM-tmpk62ey — Proposed; the earlier objection this bears on and the open objection to this claim -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
 
-# CLAIM-tmptsdgt: Mutual entrainment bounds an extended self better than reliable availability does: an external process belongs to the coupled system when each side adjusts the other's timing and the pair carries a collective variable neither has alone
+# CLAIM-tmptsdgt: Mutual entrainment bounds a combined form better than reliable availability does: an external process or partner belongs to the coupled system when each side adjusts the other's timing and the pair carries a collective variable neither has alone
 
 ## The claim
 
