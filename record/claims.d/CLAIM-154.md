@@ -43,7 +43,6 @@ supports:
 - CLAIM-157
 - CLAIM-174
 ---
-<!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 <!-- inactive-ok-file: CLAIM-175 — Proposed; the owner's claim this threshold makes decidable, open -->
 
 # CLAIM-154: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio

@@ -38,7 +38,6 @@ summary: >-
 supports:
 - CLAIM-157
 ---
-<!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 
 # CLAIM-152: Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal

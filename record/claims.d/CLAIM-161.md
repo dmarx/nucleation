@@ -37,7 +37,6 @@ summary: >-
   trajectory: γ is an approximate first integral, and the defect is a
   number. Proposed here because γ is unspecified.
 ---
-<!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 
 # CLAIM-161: A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states
 

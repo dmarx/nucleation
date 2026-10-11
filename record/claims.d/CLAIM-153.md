@@ -41,7 +41,6 @@ summary: >-
   finds the obstruction: its minimum is 0 exactly when Φ ≡ 0. Abelian
   case only; re-checked here.
 ---
-<!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this result partly answers -->
 
 # CLAIM-153: Failure of a self to hold together across contexts is a monodromy around a cycle of contexts: any two locally consistent contexts glue, and the minimal model of the obstruction needs three
