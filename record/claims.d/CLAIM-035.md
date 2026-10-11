@@ -13,6 +13,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 undercuts:
 - ARG-004
+uses:
+- TERM-004
 summary: >-
   A18's own limit on its analogy: "the physics analogy has a hard
   limit." Accepted at once. Its content reached the manuscript as the
@@ -58,7 +60,7 @@ transformation?—not a literal Lorentz geometry for discourse."
 
 Proposal v5 planned to "Recover the initial physical analogy" in a closing
 section (A84 §14.3; [CLAIM-004](CLAIM-004.md)). C6 dropped it, and the manuscript's §4
-replaces relativity with symmetry and equivariance.
+replaces relativity with symmetry and equivariance ([TERM-004](../terms.d/TERM-004.md)).
 
 ## What it changes
 

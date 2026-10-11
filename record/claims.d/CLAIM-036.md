@@ -21,6 +21,8 @@ supersedes:
 - CLAIM-048
 superseded_by:
 - CLAIM-108
+uses:
+- TERM-004
 summary: >-
   A102's thesis under U36 ("feels like there's a connection to
   structuralism here"). Structuralism became the philosophical
@@ -57,4 +59,4 @@ External evaluation", likened to a myth transformation.
 
 It came with a contrast between structuralist invariance and transport
 ([CLAIM-015](CLAIM-015.md)), which the owner objected to at U37 ([CLAIM-040](CLAIM-040.md)). A105 restated the
-thesis in terms of invariance and equivariance ([CLAIM-108](CLAIM-108.md)).
+thesis in terms of invariance and equivariance ([TERM-004](../terms.d/TERM-004.md)) ([CLAIM-108](CLAIM-108.md)).

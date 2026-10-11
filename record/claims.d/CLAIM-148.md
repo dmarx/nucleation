@@ -19,6 +19,8 @@ grounds:
 complements:
 - CLAIM-132
 - CLAIM-113
+uses:
+- TERM-040
 summary: >-
   Drawn by the assistant at A207 §3, made explicit at A214 §6 and kept in
   A218 (§4.2, Ch5.4–5.9). Granted, because it is elementary, and the
@@ -140,7 +142,7 @@ not reach the manuscript.
 
 - It does not say latent axes are meaningless. Constraints that break the
   gauge, such as nonnegativity under separability, can identify them.
-- It does not say the invariant quantities are the communicative kind.
+- It does not say the invariant quantities are the communicative kind ([TERM-040](../terms.d/TERM-040.md)).
   They are what the data and the rank-k model determine.
 - It does not say observed data have non-trivial automorphisms. Exact
   permutation symmetries PXQ = X almost never hold in a noisy real-valued

@@ -92,7 +92,7 @@ As the record states it:
   follow, each with its own organization. Neither factorization is wrong.
   They answer to different levels.
 - **The microbiome is inside the person's body but outside the person's
-  jurisdiction.** It is an input. Whether it is part of the combined form is
+  jurisdiction.** It is an input. Whether it is part of the combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)) is
   the threshold question, and whether it is an agent is a separate question
   at its own level.
 - **A firm is an agent to the extent its governance decides which teams'

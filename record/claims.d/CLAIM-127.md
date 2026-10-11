@@ -39,6 +39,8 @@ uses:
 - TERM-018
 - TERM-030
 - TERM-039
+- TERM-024
+- TERM-026
 complements:
 - CLAIM-125
 - CLAIM-130
@@ -117,7 +119,7 @@ context inside one of them.
 
 A129 also derives the framing kernel instead of positing it:
 K_a(r′ | r, z) = P(R′ = r′ | R = r, Z = z, do(I = a)). That gives [TERM-026](../terms.d/TERM-026.md)'s
-operators and [CLAIM-052](CLAIM-052.md)'s noncommutativity a causal reading. Its equations
+operators and [CLAIM-052](CLAIM-052.md)'s noncommutativity ([TERM-024](../terms.d/TERM-024.md)) a causal reading. Its equations
 have one step, so K_bK_a needs time-indexed states, which it does not write.
 
 ## Why it matters for the open problems

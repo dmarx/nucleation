@@ -104,7 +104,7 @@ one way. It said the same of a metronome, which entrains a musician without
 being entrained back: the fastest pacemaker "entrains the rest"
 ([NOTE-414](../notes.d/NOTE-414.md)). Version 3 withdraws that ([CLAIM-tmpl4ha3](CLAIM-tmpl4ha3.md)). By the same move that
 makes a new system and infers no parthood, a one-way-driven pair is also a
-combined form, relative to a target that needs both. What mutuality marks
+combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)), relative to a target that needs both. What mutuality marks
 is the *architecture*. Mutually entrained members are peers. A driven pair
 is a hierarchy, as a lead and follow are. Mutual entrainment is sufficient
 for a combined form, not necessary, and it says which kind.

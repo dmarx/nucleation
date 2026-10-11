@@ -111,7 +111,7 @@ That is the owner's thesis made testable ([CLAIM-tmptd6s2](CLAIM-tmptd6s2.md), [
   training process, not the frozen policy, the agent: "simple forms of
   agents often derive much of their goal-directedness from the process that
   creates them". This is the same structure.
-- **The microbiome** can pass (1) as part of the combined form. It fails to be
+- **The microbiome** can pass (1) as part of the combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)). It fails to be
   *the person's* agent, because nothing in the person's will-organization
   governs it ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)). Whether the community is an agent at its own
   level is a separate application of the test.

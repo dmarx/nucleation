@@ -42,7 +42,7 @@ It is the test case any admission test for agency must handle:
 - **The jurisdiction reading refuses it alone and agrees about its makers.**
   There is no organization *over* regimes, only one regime, so the bare
   thermostat governs nothing. Its regime does lie inside its designers'
-  will-organization ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)), so the agent is the designers'
+  will-organization ([TERM-023](../terms.d/TERM-023.md)) ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)), so the agent is the designers'
   jurisdiction, and the thermostat is part of it.
 
 On the will paper's terms, the permissiveness objection ([CLAIM-010](../claims.d/CLAIM-010.md)) said

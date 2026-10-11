@@ -51,7 +51,7 @@ time. Varied: whether they are dancing together.
 - **Nested autonomy.** Both dancers stay autonomous, and the dance is an
   autonomous process of its own ([LIT-571](../literature.d/LIT-571.md)'s interaction, "an emergent and
   autonomous process").
-- **Assembly and dissolution.** The combined form exists for the length of
+- **Assembly and dissolution.** The combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)) exists for the length of
   the dance. It is maintained, not given.
 
 It is stipulated, though the practice it describes is real. It shows what a

@@ -21,6 +21,7 @@ answers:
 uses:
 - TERM-tmpuyzeb
 - TERM-tmpg0hhr
+- TERM-tmpq5zvd
 grounds:
 - LIT-tmp4q9e8
 - LIT-tmpx9j92
@@ -89,7 +90,7 @@ accepts.
   profile may be diffuse.
 - **Its membership is disputable.** Whether the microbiome is part of the
   person is [QUESTION-tmpm56ps](../questions.d/QUESTION-tmpm56ps.md) again. On the threshold criterion it is part
-  of the combined form, relative to targets such as hunger, if host–microbe
+  of the combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)), relative to targets such as hunger, if host–microbe
   coupling clears the gap. This is the holobiont case.
 - **It reaches experience.** If felt affect reports the body's regulatory
   state ([THEORY-045](../theory.d/THEORY-045.md)), a microbial change in that state is a change in

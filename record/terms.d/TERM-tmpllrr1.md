@@ -28,7 +28,7 @@ used_by:
 A **willed agent**, at a level and for a target, is an agent ([TERM-tmp1913d](TERM-tmp1913d.md))
 that also passes a fourth test:
 
-4. **Will.** Its behaviour is better described with a will-organization than
+4. **Will.** Its behaviour is better described with a will-organization ([TERM-023](TERM-023.md)) than
    without one. That means a maintained organization over *more than one*
    action-generating regime ([TERM-019](TERM-019.md)), deciding which regime acts:
    accessibility, precedence, persistence, jurisdiction, suspension,

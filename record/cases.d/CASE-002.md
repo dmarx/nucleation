@@ -32,5 +32,5 @@ authorize deployment despite a freeze for a "business critical" release.
 
 ## What it can show
 
-That precedence, jurisdiction and suspension come apart: an existence proof,
+That precedence, jurisdiction and suspension ([TERM-017](../terms.d/TERM-017.md)) come apart: an existence proof,
 [ARG-001](../arguments.d/ARG-001.md).

@@ -16,6 +16,8 @@ grounds:
 complements:
 - CLAIM-019
 - CLAIM-023
+uses:
+- TERM-040
 summary: >-
   The owner's prior-art objection at U58 to A207's closing framing,
   conceded by A210 in its first sentence and extended by A214 to
@@ -105,6 +107,6 @@ two rows are in tension, because the "additional assumptions" are a
 privileged representation plus conditions on the data.
 
 It also does not say that topic modeling shows the identity of
-communicative kinds, or their persistence under translation or
+communicative kinds ([TERM-040](../terms.d/TERM-040.md)), or their persistence under translation or
 intervention. A210's table marks those "No" and "Not established by
 ordinary topic modeling".

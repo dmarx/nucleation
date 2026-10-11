@@ -46,7 +46,7 @@ The details and grades are in [NOTE-tmplvb3o](../notes.d/NOTE-tmplvb3o.md) and [
 ## What it can show
 
 - **Drive from below that is not a single part.** The source is a community
-  whose own drive profile is likely diffuse.
+  whose own drive profile ([TERM-tmpuyzeb](../terms.d/TERM-tmpuyzeb.md)) is likely diffuse.
 - **Drive that changes with time.** Hunger and mood vary, and the
   microbiome's contribution varies with diet and state.
 - **Membership in question.** The holobiont reading ([LIT-709](../literature.d/LIT-709.md)) and the

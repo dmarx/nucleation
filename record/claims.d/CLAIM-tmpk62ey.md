@@ -51,7 +51,7 @@ citing De Jaegher & Di Paolo's requirement that the interactors stay
 autonomous ([LIT-571](../literature.d/LIT-571.md)). The owner's reply ([CLAIM-tmpygda8](CLAIM-tmpygda8.md)) shows that
 version failed. The same paper calls the interaction "an emergent and
 autonomous process", and Clark & Chalmers allow socially extended
-cognition. The pair is a combined form.
+cognition. The pair is a combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)).
 
 What is left: nothing in mutual entrainment gives that form a *subject*. It
 has no point of view or experience that is the pair's rather than one

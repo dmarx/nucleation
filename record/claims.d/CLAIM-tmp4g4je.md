@@ -58,7 +58,7 @@ The tiers nest:
 
 ## Why this narrows the owner's earlier thesis
 
-[CLAIM-tmptd6s2](CLAIM-tmptd6s2.md) said agents are identified by their will-organization. The
+[CLAIM-tmptd6s2](CLAIM-tmptd6s2.md) said agents are identified by their will-organization ([TERM-023](../terms.d/TERM-023.md)). The
 readings show that agency is wider. Kenton et al.'s and Orseau et al.'s
 tests admit systems with no governance over several regimes. So:
 - **agents in general** are identified by adaptation and description;

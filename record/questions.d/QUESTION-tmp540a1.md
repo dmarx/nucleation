@@ -45,7 +45,7 @@ materials an answer needs:
 
 The owner then proposed ([CLAIM-tmptd6s2](../claims.d/CLAIM-tmptd6s2.md)) that agents are a factorization
 of a system at a level, and that each is individuated by its
-will-organization.
+will-organization ([TERM-023](../terms.d/TERM-023.md)).
 
 ## What would count as an answer
 

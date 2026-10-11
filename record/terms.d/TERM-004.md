@@ -20,6 +20,9 @@ used_by:
 - CLAIM-113
 - CLAIM-143
 - CLAIM-144
+- CLAIM-035
+- CLAIM-036
+- CLAIM-098
 ---
 <!-- inactive-ok-file: CLAIM-098 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
