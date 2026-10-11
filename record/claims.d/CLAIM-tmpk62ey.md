@@ -19,6 +19,8 @@ summary: >-
   remain autonomous, so entrainment cannot be what makes one self of
   two. Open: [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md) concedes the dancers and has no criterion
   for when a coupled system is also a self.
+illustrated_by:
+- CASE-tmpk52n6
 ---
 <!-- inactive-ok-file: CLAIM-tmptsdgt — Proposed; the claim this objection targets, open -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; named as a candidate further condition, not leaned on -->
