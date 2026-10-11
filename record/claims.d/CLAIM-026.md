@@ -27,6 +27,7 @@ summary: >-
   the manuscript's subtitle from C6 on. Superseded at U35 by proposal
   v6 (A100); the manuscript's closing sentence is its descendant.
 ---
+<!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-036 CLAIM-048 CLAIM-108 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-124 — Superseded; replaced, and cited as the history this entry answers or replaces -->

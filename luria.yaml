@@ -960,6 +960,7 @@ schemes:
         required: false
         many: true
         converse: used_by
+        explain: cited
       illustrated_by:
         label: Illustrated by
         blurb: the converse of a case's `illustrates`, written by `luria link --fix`.

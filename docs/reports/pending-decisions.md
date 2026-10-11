@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**577 document(s) awaiting a decision.**
+**575 document(s) awaiting a decision.**
 
 ## LITs
 
-283 of the 577.
+283 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -299,7 +299,7 @@
 
 ## THEORYs
 
-183 of the 577.
+183 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -487,18 +487,9 @@
 | 2026-10-10 | Proposed | [THEORY-208](../../record/theory.d/THEORY-208.md) | 4 | 0 | Agency is multiply realisable without cognition or mental states, and AI is a new kind of it |
 | 2026-10-10 | Proposed | [THEORY-207](../../record/theory.d/THEORY-207.md) | 2 | 0 | Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes |
 
-## ADRs
-
-2 of the 577.
-
-| Open since | Status | Code | Cited | Unack. | Title |
-|---|---|---|--:|--:|---|
-| 2026-10-11 | Proposed | [ADR-037](../../record/decisions.d/ADR-037.md) | 14 | 0 | Mathematics of Meaning is a remote, MOM, and what this record needs from it is dual-filed as its own reading |
-| 2026-10-11 | Proposed | [ADR-038](../../record/decisions.d/ADR-038.md) | 0 | 0 | A concept invoked as the record defines it is cited by its TERM code where it is used; a word used in another's sense is left unlinked |
-
 ## QUESTIONs
 
-4 of the 577.
+4 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -509,7 +500,7 @@
 
 ## CLAIMs
 
-100 of the 577.
+100 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -601,7 +592,7 @@
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 10 | 0 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-175](../../record/claims.d/CLAIM-175.md) | 10 | 0 | A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own |
 | 2026-10-11 | Proposed | [CLAIM-162](../../record/claims.d/CLAIM-162.md) | 9 | 0 | Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless |
-| 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 7 | 0 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
+| 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 8 | 0 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 7 | 0 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
 | 2026-10-11 | Proposed | [CLAIM-170](../../record/claims.d/CLAIM-170.md) | 7 | 0 | The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-161](../../record/claims.d/CLAIM-161.md) | 6 | 0 | A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states |
@@ -616,7 +607,7 @@
 
 ## CASEs
 
-1 of the 577.
+1 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -624,7 +615,7 @@
 
 ## TERMs
 
-2 of the 577.
+2 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -633,7 +624,7 @@
 
 ## ARGs
 
-2 of the 577.
+2 of the 575.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -644,4 +635,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (38): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [LIT-840](../../record/literature.d/LIT-840.md), [ADR-038](../../record/decisions.d/ADR-038.md), [LIT-904](../../record/literature.d/LIT-904.md), [LIT-907](../../record/literature.d/LIT-907.md), [LIT-913](../../record/literature.d/LIT-913.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (37): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [LIT-840](../../record/literature.d/LIT-840.md), [LIT-904](../../record/literature.d/LIT-904.md), [LIT-907](../../record/literature.d/LIT-907.md), [LIT-913](../../record/literature.d/LIT-913.md) — these are the cheapest to close, since nothing depends on the answer.

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 4523 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**172 documents cited without acknowledgement.** Not listed: 4520 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -912,7 +912,7 @@ Comparison of Statistical Experiments
 
 5 citations in 5 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:56`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:57`](../../record/claims.d/CLAIM-050.md)
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
 - [`record/literature.d/LIT-781.md:91`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
@@ -1379,7 +1379,7 @@ The rate-distortion function for source coding with side information at the deco
 
 2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:58`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:59`](../../record/claims.d/CLAIM-050.md)
 - [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
 
 ### [LIT-775](../../record/literature.d/LIT-775.md) — Deferred
@@ -1895,6 +1895,22 @@ Pattern formation outside of equilibrium
 
 - [`record/literature.d/LIT-527.md:6`](../../record/literature.d/LIT-527.md)
 
+### [TERM-002](../../record/terms.d/TERM-002.md) — Superseded
+
+communicative object, as a compatible family of local sections
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-124.md:31`](../../record/claims.d/CLAIM-124.md)
+
+### [TERM-003](../../record/terms.d/TERM-003.md) — Superseded
+
+will, as a second- or higher-order attractor
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-012.md:28`](../../record/claims.d/CLAIM-012.md)
+
 ### [THEORY-003](../../record/theory.d/THEORY-003.md) — Proposed
 
 Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem
@@ -2007,34 +2023,28 @@ None. Every scanned file is checked. ✅
 ## Directives that no longer apply
 
 - record/cases.d/CASE-031.md:25: annotation no longer applies — nothing in scope cites CLAIM-115
-- record/claims.d/CLAIM-008.md:31: annotation no longer applies — nothing in scope cites TERM-032
-- record/claims.d/CLAIM-009.md:28: annotation no longer applies — nothing in scope cites CLAIM-109
+- record/claims.d/CLAIM-009.md:29: annotation no longer applies — nothing in scope cites CLAIM-109
 - record/claims.d/CLAIM-017.md:30: annotation no longer applies — nothing in scope cites CLAIM-108
-- record/claims.d/CLAIM-020.md:26: annotation no longer applies — nothing in scope cites TERM-001
 - record/claims.d/CLAIM-033.md:30: annotation no longer applies — nothing in scope cites CLAIM-042
 - record/claims.d/CLAIM-040.md:24: annotation no longer applies — nothing in scope cites CLAIM-015
 - record/claims.d/CLAIM-041.md:38: annotation no longer applies — nothing in scope cites ARG-002
-- record/claims.d/CLAIM-042.md:37: annotation no longer applies — nothing in scope cites CLAIM-008, TERM-022
 - record/claims.d/CLAIM-043.md:24: annotation no longer applies — nothing in scope cites CLAIM-038
-- record/claims.d/CLAIM-050.md:46: annotation no longer applies — nothing in scope cites CLAIM-051
-- record/claims.d/CLAIM-052.md:32: annotation no longer applies — nothing in scope cites CLAIM-073
+- record/claims.d/CLAIM-050.md:47: annotation no longer applies — nothing in scope cites CLAIM-051
+- record/claims.d/CLAIM-052.md:33: annotation no longer applies — nothing in scope cites CLAIM-073
 - record/claims.d/CLAIM-054.md:30: annotation no longer applies — nothing in scope cites CLAIM-061, CLAIM-064
-- record/claims.d/CLAIM-064.md:29: annotation no longer applies — nothing in scope cites TERM-035
 - record/claims.d/CLAIM-070.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/claims.d/CLAIM-071.md:27: annotation no longer applies — nothing in scope cites CLAIM-120
-- record/claims.d/CLAIM-083.md:33: annotation no longer applies — nothing in scope cites CLAIM-055
+- record/claims.d/CLAIM-083.md:35: annotation no longer applies — nothing in scope cites CLAIM-055
 - record/claims.d/CLAIM-084.md:31: annotation no longer applies — nothing in scope cites CLAIM-061
 - record/claims.d/CLAIM-091.md:30: annotation no longer applies — nothing in scope cites CLAIM-061
 - record/claims.d/CLAIM-098.md:32: annotation no longer applies — nothing in scope cites CLAIM-102
 - record/claims.d/CLAIM-101.md:32: annotation no longer applies — nothing in scope cites CLAIM-065
-- record/claims.d/CLAIM-102.md:33: annotation no longer applies — nothing in scope cites TERM-013, TERM-016
-- record/claims.d/CLAIM-106.md:40: annotation no longer applies — nothing in scope cites CLAIM-067
-- record/claims.d/CLAIM-108.md:35: annotation no longer applies — nothing in scope cites CLAIM-036
-- record/claims.d/CLAIM-109.md:31: annotation no longer applies — nothing in scope cites TERM-016
-- record/claims.d/CLAIM-113.md:39: annotation no longer applies — nothing in scope cites CLAIM-015
+- record/claims.d/CLAIM-106.md:41: annotation no longer applies — nothing in scope cites CLAIM-067
+- record/claims.d/CLAIM-108.md:37: annotation no longer applies — nothing in scope cites CLAIM-036
+- record/claims.d/CLAIM-113.md:40: annotation no longer applies — nothing in scope cites CLAIM-015
 - record/claims.d/CLAIM-115.md:45: annotation no longer applies — nothing in scope cites CLAIM-017
 - record/claims.d/CLAIM-117.md:38: annotation no longer applies — nothing in scope cites CLAIM-052
-- record/claims.d/CLAIM-121.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-121.md:37: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
 - record/literature.d/LIT-777.md:59: annotation no longer applies — LIT-264 is Active now
 - record/literature.d/LIT-802.md:83: annotation no longer applies — LIT-837 is Active now

@@ -2,7 +2,7 @@
 number: 165
 status: Proposed
 formerly:
-- CLAIM-tmpk62ey
+- CLAIM-165
 title: 'A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects'
 version: 2
 history:
@@ -59,7 +59,7 @@ cognition. The pair is a combined form ([TERM-049](../terms.d/TERM-049.md)).
 What is left: nothing in mutual entrainment gives that form a *subject*. It
 has no point of view or experience that is the pair's rather than one
 dancer's. [ADR-024](../decisions.d/ADR-024.md) reserves "self" for being a subject. In that sense the
-pair is not shown to be a self, however good the case for it as an
+pair is not shown to be a self ([TERM-045](../terms.d/TERM-045.md)<!-- ref::uses: TERM-045 -->), however good the case for it as an
 extended cognitive system.
 
 ## Why it is still open

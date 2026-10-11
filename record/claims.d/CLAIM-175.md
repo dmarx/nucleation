@@ -65,7 +65,7 @@ The argument from the record's readings:
   the interaction "an emergent and autonomous process". Their picture is
   nested autonomy: two dancers and a dance. The objection cited the first
   half and not the second.
-- **Two selves remaining is no argument against one combined form ([TERM-049](../terms.d/TERM-049.md)).** Otto
+- **Two selves ([TERM-045](../terms.d/TERM-045.md)<!-- ref::uses: TERM-045 -->) remaining is no argument against one combined form ([TERM-049](../terms.d/TERM-049.md)).** Otto
   stays Otto, and the extended-mind thesis never needed the notebook to
   stop being a notebook.
 

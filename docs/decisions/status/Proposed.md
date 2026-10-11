@@ -4,9 +4,8 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-2 of 38 decisions. Back to the [full index](../README.md).
+0 of 38 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [ADR-037](../../../record/decisions.d/ADR-037.md) | Mathematics of Meaning is a remote, MOM, and what this record needs from it is dual-filed as its own reading | The owner's Mathematics of Meaning project keeps its own Luria record, whose claims (CLM), positions (POS), arguments, concepts and literature bear on questions this record is working: system boundaries, individuation, the unity of a self. It is registered as the remote MOM, so a document here can cite [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-160.md). What this record needs from it is dual-filed here: each needed entry gets an entry of this record's own, which names the MOM code, carries this record's own status from its own reading or re-check, and reports disagreement rather than fixing across the boundary. [ADR-013](../../../record/decisions.d/ADR-013.md) is extended from works to claims. | Proposed |
-| [ADR-038](../../../record/decisions.d/ADR-038.md) | A concept invoked as the record defines it is cited by its TERM code where it is used; a word used in another's sense is left unlinked | The owner's rule of 2026-10-11: "where we are invoking a concept specifically as its defined on the record, we can make that explicit by linking to the TERM". The code goes inline at the first use in an entry's body, and `uses:` lists the TERMs a claim is stated in. A word used in someone else's sense, such as the will paper's supposed "agent", is not linked, and the absence says so. Quotations are never altered. Applied the same day across the record's argument schemes: 25 inline citations and 13 `uses:` entries. | Proposed |
+

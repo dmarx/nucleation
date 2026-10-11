@@ -27,6 +27,7 @@ illustrated_by:
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
 ---
+<!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 
 # CLAIM-025: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
 

@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [11 Oct 09:00 — Session of 2026-10-11, continued: the uses: half of ADR-038 becomes configuration](2026-10.md#session-of-2026-10-11-continued-the-uses-half-of-adr-038-becomes-configuration)
 - [11 Oct 07:22 — Session of 2026-10-11, continued: citing TERMs where concepts are invoked](2026-10.md#session-of-2026-10-11-continued-citing-terms-where-concepts-are-invoked)
 - [11 Oct 06:53 — Session of 2026-10-11, continued: the concept sweep over the rest of the record](2026-10.md#session-of-2026-10-11-continued-the-concept-sweep-over-the-rest-of-the-record)
 - [11 Oct 06:20 — Session of 2026-10-11, continued: willed agents as a tier, and a concept pass over the day's vocabulary](2026-10.md#session-of-2026-10-11-continued-willed-agents-as-a-tier-and-a-concept-pass-over-the-days-vocabulary)
@@ -38,8 +39,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-29 entries across 1 book, newest first.
+30 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 29 | 2026-10-07 | 2026-10-11 |
+| [2026-10](2026-10.md) | 30 | 2026-10-07 | 2026-10-11 |

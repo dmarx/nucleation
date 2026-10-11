@@ -2,7 +2,7 @@
 number: 159
 status: Proposed
 formerly:
-- CLAIM-tmpaf2e6
+- CLAIM-159
 title: 'The record''s rival accounts of will are claims about drive profiles in different cells: Ainslie''s interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes'
 version: 1
 role: thesis
@@ -39,6 +39,7 @@ summary: >-
   drive profile's changes over time. That is the owner's point that "who
   drives" is not constant.
 ---
+<!-- ref::uses-file: TERM-048 — the claim places will-organization as the governance that makes a willed agent, and its third account is that kind -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 CLAIM-027 — Proposed; the three accounts this claim places, each with its own standing -->
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's non-constancy claim this one draws on, open -->
 

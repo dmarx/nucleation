@@ -79,7 +79,7 @@ The test A155 §5 proposes: "The central test is whether D_trope(W, W′)
 remains low even if lexical, visual, or surface-narrative similarity
 becomes small." For each source example it generates a surface-altered
 version, a relation-altered version, an explicit subversion and a
-cross-modal realization, and compares an embedding baseline with transport
+cross-modal realization, and compares an embedding baseline with transport ([TERM-008](../terms.d/TERM-008.md)<!-- ref::uses: TERM-008 -->)
 measures "on held-out trope families". "The crucial result would be whether
 the latter distinguish *same trope, different surface* from *same surface,
 different trope*." The distortion is read component by component

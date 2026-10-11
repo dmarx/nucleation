@@ -57,5 +57,5 @@ the nearest ancestor of the title question ([QUESTION-002](../questions.d/QUESTI
 
 Under U30, proposal v5 put observational structure first ([CLAIM-124](CLAIM-124.md)); under
 U31 the thesis became decision-relevant information ([CLAIM-026](CLAIM-026.md)). The manuscript keeps every part of it in §6 and §8 and moves the thesis to what
-transport preserves: observables and their relations ([CLAIM-115](CLAIM-115.md)). That move is
+transport ([TERM-008](../terms.d/TERM-008.md)<!-- ref::uses: TERM-008 -->) preserves: observables and their relations ([CLAIM-115](CLAIM-115.md)). That move is
 later than this chunk.

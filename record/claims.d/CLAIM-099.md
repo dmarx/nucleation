@@ -28,6 +28,7 @@ summary: >-
   argument". Canguilhem interprets it ([CLAIM-018](CLAIM-018.md)) and is deliberately
   not a premise.
 ---
+<!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-018 CLAIM-025 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-099: Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement
