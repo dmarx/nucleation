@@ -17,6 +17,7 @@ summary: >-
   structure that merely persists.
 answered_by:
 - CLAIM-tmpdj0qe
+- CLAIM-tmp7vmnc
 ---
 <!-- inactive-ok-file: CLAIM-tmpdj0qe CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 

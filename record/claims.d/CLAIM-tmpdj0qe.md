@@ -28,6 +28,8 @@ summary: >-
   were re-derived inside them anyway. Their moves became citable only
   when the workbench reconstructions gave each turn a label. Two
   exchanges, and the comparison is not controlled, so Proposed.
+supports:
+- CLAIM-tmp7vmnc
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-tmp5o4dd CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis, whose change is the point -->
