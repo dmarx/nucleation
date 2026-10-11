@@ -1,0 +1,60 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-11 from its bibliographic record, not read. Registered at the owner''s request for the nucleating-argument line, on what it is standardly cited for. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Sparse Distributed Memory and Related Models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-11'
+  note: >-
+    Filed, not read. Pentti Kanerva, "Sparse distributed memory and
+    related models", NASA Technical Reports Server 19920021480,
+    publication date 1 April 1992, distribution public, with a PDF and a
+    full text. The anthology's entry for the same work, ANTH-LIT-669,
+    gives the same URL and date and the 1993 book publication. Held in
+    the Anthology of the SOTA as ANTH-LIT-669. Filed here under ADR-013
+    for this record's own question, as LIT-tmpz8twi is.
+tags:
+- cognition
+- neuroscience
+- information-retrieval
+date: '2026-10-11'
+published: '1992-04-01'
+url: 'https://ntrs.nasa.gov/citations/19920021480'
+first_author: 'Kanerva'
+keywords:
+- 'sparse distributed memory'
+- 'associative memory'
+- 'correlation-matrix memory'
+- 'memory capacity'
+implementations: []
+summary: >-
+  Kanerva (1992), RIACS TR 92.10, in Hassoun (ed.) 1993. SDM restated as
+  a matrix memory and related to correlation-matrix memories, the
+  Hopfield net and the cerebellar model, with its capacity and signal-
+  to-noise analysis. Also held in the anthology as [ANTH-LIT-669](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-669.md). Not
+  read here; a public full text exists at NTRS.
+---
+<!-- inactive-ok-file: LIT-tmp64dfb LIT-tmpz8twi — Deferred, unread; named as a related work in this batch, not for a reading here -->
+
+# LIT-tmpcc2ij: Sparse Distributed Memory and Related Models
+
+Pentti Kanerva (1992), RIACS Technical Report 92.10, NASA Ames; published 1993 in M. H. Hassoun (ed.), *Associative Neural Memories*, Oxford University Press
+
+## Key takeaways
+
+*Filed, not read.* Known here by what it is standardly cited for.
+
+- SDM is restated as a matrix memory: a fixed random address matrix, a
+  wide layer of hard locations, and a contents matrix trained by an outer-
+  product rule.
+- It is set beside correlation-matrix memories, the Hopfield net and the
+  cerebellar model as related models.
+- It gives capacity and signal-to-noise analyses for the memory.
+
+## Standing in the record
+
+Filed on 2026-10-11 at the owner's request, under [ADR-013](../decisions.d/ADR-013.md) beside LIT-
+tmpz8twi; the anthology holds it as [ANTH-LIT-669](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-669.md). It is the shorter route
+into the model, and it relates SDM to the Hopfield net ([LIT-tmp64dfb](LIT-tmp64dfb.md)). A
+full text is public at NASA NTRS, so it can be read here next.

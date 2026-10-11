@@ -1,0 +1,62 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, on what it is standardly cited for. No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for on 2026-10-11: Unpaywall reports no open-access copy for the DOI, and Europe PMC holds no full text, so no lawful full text was found.'
+title: 'Instabilities and pattern formation in crystal growth'
+version: 1
+history:
+- version: 1
+  date: '2026-10-11'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-11
+    (doi:10.1103/RevModPhys.52.1): J. S. Langer, Reviews of Modern
+    Physics 52(1), pp. 1–28, January 1980, which is the `published:`
+    date; 51 references. Not held in the Anthology of the SOTA: a grep
+    of its record/ (clone of 2026-10-11, commit d8b5ba5) for the author
+    and the DOI found nothing, and no anthology topic holds crystal
+    growth or pattern formation, so ADR-013 does not apply.
+tags:
+- complex-systems
+- natural-sciences
+date: '2026-10-11'
+published: '1980-01-01'
+doi: '10.1103/RevModPhys.52.1'
+first_author: 'Langer'
+keywords:
+- 'morphological instability'
+- 'dendritic growth'
+- 'solidification'
+- 'pattern selection'
+implementations: []
+summary: >-
+  Langer (1980), Rev. Mod. Phys. 52, 1. The standard review of
+  morphological instability in crystal growth: why a growing front far
+  from equilibrium loses its flat shape and branches into dendrites, and
+  what selects the pattern that results. Not read.
+supports:
+- CLAIM-tmpvc1pj
+---
+<!-- inactive-ok-file: CLAIM-tmpvc1pj — Proposed; open, and cited as open: the claim this work is filed for is under test, not settled -->
+
+# LIT-tmpqiriw: Instabilities and pattern formation in crystal growth
+
+J. S. Langer (1980), *Reviews of Modern Physics* 52(1), 1–28 — DOI-10.1103/RevModPhys.52.1
+
+## Key takeaways
+
+*Filed, not read.* Known here by what it is standardly cited for.
+
+- A solidification front growing under diffusion-limited conditions is
+  unstable: a bump on it reaches further into the supersaturated region
+  and grows faster (the Mullins–Sekerka instability).
+- Surface tension stabilizes short wavelengths, so the instability sets a
+  characteristic length, and fast growth produces dendrites.
+- What selects a dendrite's tip speed and radius is posed as an open
+  problem of pattern selection.
+
+## Standing in the record
+
+Filed on 2026-10-11 to ground [CLAIM-tmpvc1pj](../claims.d/CLAIM-tmpvc1pj.md), which holds that how fast an
+argument grows sets how it grows. This review is where the physical half
+of that analogy comes from. A reading should check which control parameter
+governs the transition from faceted to branched growth, since the claim
+maps that parameter onto the pace of an exchange.

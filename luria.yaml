@@ -452,6 +452,10 @@ vocabularies:
         blurb: what survives when an utterance is translated, retold or rendered in another medium —
           communicative identity as relationally organized observables, and fidelity as directed, task-relative
           transport between observational systems
+      nucleating-argument:
+        label: Nucleating an argument
+        blurb: how an argument developed across stateless sessions settles into stable, addressable structure,
+          and what a project memory contributes — the record itself as the case
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
@@ -467,6 +471,12 @@ vocabularies:
         blurb: 'the owner''s working manuscript, drafted October 2026: contextual pragmatic information
           transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry,
           rate–distortion and Blackwell comparison, conditional diffusion and iterated learning'
+      luria-nucleating-an-argument:
+        label: 'luria: nucleating an argument'
+        blurb: 'the owner''s manuscript, proposed 2026-10-11: an argument developed with stateless collaborators
+          drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on,
+          and the manuscript becomes a view over the argument rather than its only copy. luria is the tool and
+          this record the case'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs

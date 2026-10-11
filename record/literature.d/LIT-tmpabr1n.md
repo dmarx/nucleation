@@ -1,0 +1,102 @@
+---
+status: Active
+status_note: 'read in full 2026-10-11 ([NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)), in German, from the public-domain scan of the volume at the Internet Archive; worth reading as the primary source of the rule later called the rule of stages, and of the metastable/labile distinction. Read §§26–41 (pp. 301–313): the definitions on p. 302, the rule on pp. 306–307 ("nicht der ... stabilste ..., sondern der nächstliegende"), and the conditional on p. 308 that a metastable intermediate stays until seeded unless it is labile with respect to the next form. Ostwald offers it "not as a law" but as "a frequently applicable rule" (p. 308), from a handful of cases and an analogy with the liquid–vapour isotherm, and absorbs exceptions by assuming unseen intermediates, a move he calls questionable (p. 309). Most of the paper measures seeds: only the solid or a strictly isomorphous solid seeds, down to about 10⁻⁹–10⁻¹² g. It supports the narrowed form of [CLAIM-tmpas8q0](../claims.d/CLAIM-tmpas8q0.md) within the metastable zone, gives [CLAIM-tmp2jolp](../claims.d/CLAIM-tmp2jolp.md) no support for a count threshold, and does not support reading the thesis sequence as successive metastable forms.'
+title: 'Studien über die Bildung und Umwandlung fester Körper. 1. Abhandlung: Übersättigung und Überkaltung'
+version: 2
+history:
+- version: 1
+  date: '2026-10-11'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-11
+    (doi:10.1515/zpch-1897-2233): W. Ostwald, Zeitschrift für
+    Physikalische Chemie 22, pp. 289–330, issue of February 1897, which
+    is the `published:` date. The paper is in German. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-11,
+    commit d8b5ba5) for the author and the DOI found nothing, and no
+    anthology topic holds crystal growth or pattern formation, so
+    ADR-013 does not apply.
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Read in full, in German, from the OCR text of the public-domain
+    volume 22 scanned by the Internet Archive (item
+    sim_zeitschrift_physikalische_chemie_1897_22): pp. 289–330, §§1–79
+    and all footnotes (NOTE-tmpn2e2e). The title now carries the paper's
+    subtitle, "1. Abhandlung: Übersättigung und Überkaltung", which
+    Crossref omits. The version-1 takeaways, written before the reading,
+    are corrected: the rule names the nearest form in free energy, not
+    the least stable; it covers spontaneous change only; a metastable
+    intermediate goes on only if labile with respect to the next form,
+    otherwise it waits for a seed; the paper records no exceptions but
+    explains them away; and the word "Stufenregel" does not appear. The
+    Standing section is rewritten from the reading. Status set from the
+    reading: Active.
+tags:
+- natural-sciences
+- thermodynamics
+date: '2026-10-11'
+published: '1897-02-01'
+doi: '10.1515/zpch-1897-2233'
+first_author: 'Ostwald'
+keywords:
+- 'rule of stages'
+- 'Übersättigung'
+- 'Überkaltung'
+- 'seeding'
+- 'metastability'
+- 'polymorphism'
+implementations: []
+summary: >-
+  Ostwald (1897), Z. Phys. Chem. 22, 289. Measures how small a seed can
+  be (about 10⁻⁹–10⁻¹² g) and shows that only the solid itself or a
+  strictly isomorphous solid seeds; separates metastable states (change
+  only on contact with the new phase) from labile ones (spontaneous
+  change); and states the rule later called the rule of stages: on
+  leaving a state spontaneously, the form reached is the nearest in free
+  energy, not the most stable. Offered as a frequent rule, not a law.
+supports:
+- CLAIM-tmpu984q
+- CLAIM-tmptw11r
+---
+<!-- inactive-ok-file: CLAIM-tmpas8q0 CLAIM-tmp2jolp — Proposed; open, and cited as open: the claims this reading bears on are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the claim this work is filed for is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
+
+# LIT-tmpabr1n: Studien über die Bildung und Umwandlung fester Körper. 1. Abhandlung: Übersättigung und Überkaltung
+
+Wilhelm Ostwald (1897), *Zeitschrift für Physikalische Chemie* 22, 289–330 — DOI-10.1515/zpch-1897-2233
+
+## Key takeaways
+
+*Read in full* ([NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)).
+
+- On leaving a state spontaneously, a system reaches "not the most stable
+  ... but the nearest" form (pp. 306–307), which Ostwald defines as the
+  form with the next-highest free energy (p. 307). He calls it a general
+  proposition and a "frequently applicable rule", explicitly not a law
+  (p. 308). He does not call it a Stufenregel.
+- A metastable form, once formed, goes on to a more stable one by itself
+  only if it is labile with respect to it. Otherwise it persists until a
+  seed of the more stable form touches it (p. 308).
+- Metastable states change only on contact with the new phase; labile
+  states form it spontaneously (p. 302). A seed decides the outcome only in
+  the metastable zone.
+- Only the solid substance or a strictly isomorphous solid seeds, down to
+  about 10⁻⁹–10⁻¹² g. Isomorphous seeds work to the same dilution as
+  identical ones (p. 323).
+- Apparent exceptions are absorbed by assuming unseen intermediates, which
+  Ostwald calls "somewhat questionable" (p. 309).
+
+## Standing in the record
+
+Read on 2026-10-11 ([NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)). It was filed for a possible reading
+of the translation exchange's thesis sequence ([CLAIM-017](../claims.d/CLAIM-017.md), [CLAIM-115](../claims.d/CLAIM-115.md),
+[CLAIM-133](../claims.d/CLAIM-133.md), [CLAIM-139](../claims.d/CLAIM-139.md)) as successive metastable forms. The reading does not
+support that use. The record has no measure of a thesis's stability, the
+sequence returns to earlier forms where Ostwald's stages do not, and each
+move came at the owner's request, which on the analogy is seeding rather
+than a spontaneous stage. What the paper does support is the narrowed
+counter, [CLAIM-tmpas8q0](../claims.d/CLAIM-tmpas8q0.md), within the metastable zone: a seed passes on its
+lattice, since isomorphous seeds work as well as identical ones. It gives
+no support to a count threshold ([CLAIM-tmp2jolp](../claims.d/CLAIM-tmp2jolp.md)). Its thresholds are a
+degree of supersaturation and a seed size.
