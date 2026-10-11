@@ -3,6 +3,14 @@ status: Active
 status_note: 'read in full 2026-10-11 ([NOTE-tmpi3yt0](../notes.d/NOTE-tmpi3yt0.md)) from the JSTOR PDF posted on a University of Washington course page (homes.cs.washington.edu/~ztatlock/599z-17sp/papers/complexity-simon-62.pdf; an identical copy is on pdodds.w3.uvm.edu). The record has read from a JSTOR PDF on a course page before (McAdams 2019). Worth reading for near-decomposability (fast dynamics inside subsystems, slow and aggregate between them) and for hierarchy defined by intensity of interaction rather than by space or by authority. The evolutionary-speed argument is an illustrative model whose numbers Simon says not to take seriously.'
 title: 'The Architecture of Complexity'
 version: 1
+history:
+- version: 1
+  date: '2026-10-11'
+  note: >-
+    Registered and read the same day (NOTE-tmpi3yt0). Held in both records
+    (ADR-013, ADR-037): Mathematics of Meaning holds it as MOM-LIT-018,
+    read there as the published form of its own corpus's δ/ε sector
+    criterion. Found after this entry was written, the same day.
 tags:
 - complex-systems
 - mereology
@@ -32,6 +40,7 @@ summary: >-
   social systems the higher levels have the slower dynamics and the longer
   intervals between interactions.
 ---
+<!-- inactive-ok-file: ADR-037 — Proposed; the decision under which the dual holding is named -->
 <!-- inactive-ok-file: CLAIM-tmpigdl0 CLAIM-tmptsdgt — Proposed; claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-056 THEORY-067 — Proposed; readings named as sharing the no-governor architecture -->
 
@@ -68,6 +77,14 @@ Herbert A. Simon (1962), "The Architecture of Complexity", *Proceedings of the A
   at lower levels". This is stated as probable, not measured.
 
 ## Standing in the record
+
+**Held in both records.** Mathematics of Meaning holds this paper as
+[MOM-LIT-018](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/literature.d/LIT-018.md) ("Near-decomposability is the delta-over-epsilon criterion,
+published in 1962"). There it is read as the criterion that corpus's spectral
+gap-to-clutter ratio rediscovered, with the theorems that corpus lacks. Here
+it is read for the boundary of a combined form and the cadence of a firm.
+The two readings agree, and each is its own ([ADR-013](../decisions.d/ADR-013.md), [ADR-037](../decisions.d/ADR-037.md)). The
+threshold MOM attaches to the ratio is filed here as [CLAIM-tmp45kkg](../claims.d/CLAIM-tmp45kkg.md).
 
 Filed on 2026-10-11 at the owner's request, among the readings suggested by
 the discussion of a name for a combined form (the dancing couple,

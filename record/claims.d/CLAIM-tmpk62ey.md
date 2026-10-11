@@ -37,7 +37,6 @@ objected_by:
 - CLAIM-tmpygda8
 ---
 <!-- inactive-ok-file: CLAIM-tmptsdgt CLAIM-tmpygda8 — Proposed; the claim this objection targets and the owner's reply that narrowed it, both open -->
-<!-- inactive-ok-file: THEORY-071 — Proposed; named as a candidate further condition, not leaned on -->
 
 # CLAIM-tmpk62ey: A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects
 

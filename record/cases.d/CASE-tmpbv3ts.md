@@ -19,7 +19,6 @@ summary: >-
 supports:
 - CLAIM-tmpygda8
 ---
-<!-- inactive-ok-file: CLAIM-tmpk62ey CLAIM-tmptsdgt — Proposed; the claim and objection this case was raised against, open -->
 
 # CASE-tmpbv3ts: A partner-dancing couple, lindy hop, tango or salsa, while they dance
 
