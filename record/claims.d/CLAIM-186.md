@@ -37,8 +37,8 @@ uses:
 complements:
 - CLAIM-176
 grounds:
-- LIT-tmpnkkua
-- LIT-tmpv21m0
+- LIT-931
+- LIT-932
 - LIT-927
 - LIT-925
 summary: >-
@@ -51,7 +51,7 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 ---
-<!-- inactive-ok-file: LIT-tmp0yq7w LIT-tmpnkkua LIT-tmpv21m0 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
+<!-- inactive-ok-file: LIT-929 LIT-931 LIT-932 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
@@ -110,8 +110,8 @@ the same stretch.
 
 ## Note of 2026-10-11 (later): settling does not rule out bursts
 
-Generalized stability theory ([LIT-tmpnkkua](../literature.d/LIT-tmpnkkua.md), [LIT-tmp0yq7w](../literature.d/LIT-tmp0yq7w.md), and Trefethen
-et al., [LIT-tmpv21m0](../literature.d/LIT-tmpv21m0.md), all unread here) adds a qualification. When a
+Generalized stability theory ([LIT-931](../literature.d/LIT-931.md), [LIT-929](../literature.d/LIT-929.md), and Trefethen
+et al., [LIT-932](../literature.d/LIT-932.md), all unread here) adds a qualification. When a
 system's operator is non-normal, it can be stable in every mode and still
 amplify a disturbance by a large factor for a while before the disturbance
 decays. Shear flows judged stable by their eigenvalues turn turbulent
@@ -127,7 +127,7 @@ before the argument settles. Two consequences for this claim:
 
 - Drift should be measured over the short run after a disturbance, not only
   as an average. An average can hide the burst.
-- An argument under development is the nonautonomous case ([LIT-tmp0yq7w](../literature.d/LIT-tmp0yq7w.md)).
+- An argument under development is the nonautonomous case ([LIT-929](../literature.d/LIT-929.md)).
   Its structure changes as it is worked on, so there are no fixed modes to
   appeal to even in principle.
 

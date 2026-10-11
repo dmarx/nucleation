@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [11 Oct 21:43 — Session of 2026-10-11, evening: stability theory and the persistence claim](2026-10.md#session-of-2026-10-11-evening-stability-theory-and-the-persistence-claim)
 - [11 Oct 09:00 — Session of 2026-10-11, continued: the uses: half of ADR-038 becomes configuration](2026-10.md#session-of-2026-10-11-continued-the-uses-half-of-adr-038-becomes-configuration)
 - [11 Oct 07:56 — Session of 2026-10-11: "luria: nucleating an argument", from a title to a first argument](2026-10.md#session-of-2026-10-11-luria-nucleating-an-argument-from-a-title-to-a-first-argument)
 - [11 Oct 07:22 — Session of 2026-10-11, continued: citing TERMs where concepts are invoked](2026-10.md#session-of-2026-10-11-continued-citing-terms-where-concepts-are-invoked)
@@ -40,8 +41,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-31 entries across 1 book, newest first.
+32 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 31 | 2026-10-07 | 2026-10-11 |
+| [2026-10](2026-10.md) | 32 | 2026-10-07 | 2026-10-11 |

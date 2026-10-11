@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**596 document(s) awaiting a decision.**
+**600 document(s) awaiting a decision.**
 
 ## LITs
 
-293 of the 596.
+297 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -290,6 +290,8 @@
 | 2026-10-11 | Deferred | [LIT-902](../../record/literature.d/LIT-902.md) | 4 | 0 | Functionally specific articulatory cooperation following jaw perturbations during speech: Evidence for coordinative structures |
 | 2026-10-11 | Deferred | [LIT-906](../../record/literature.d/LIT-906.md) | 4 | 0 | The effect of brief mindfulness training on momentary impulsivity |
 | 2026-10-11 | Deferred | [LIT-912](../../record/literature.d/LIT-912.md) | 3 | 0 | Neurocognitive mechanisms underlying the experience of flow |
+| 2026-10-11 | Deferred | [LIT-929](../../record/literature.d/LIT-929.md) | 3 | 0 | Generalized Stability Theory. Part II: Nonautonomous Operators |
+| 2026-10-11 | Deferred | [LIT-931](../../record/literature.d/LIT-931.md) | 3 | 0 | Generalized Stability Theory. Part I: Autonomous Operators |
 | 2026-10-11 | Deferred | [LIT-910](../../record/literature.d/LIT-910.md) | 2 | 0 | Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action |
 | 2026-10-11 | Deferred | [LIT-914](../../record/literature.d/LIT-914.md) | 2 | 0 | The Concept of Flow |
 | 2026-10-11 | Deferred | [LIT-916](../../record/literature.d/LIT-916.md) | 2 | 0 | Brief Online Training in Mindfulness Meditation Momentarily Reduces Some Impulsive Behaviors: A Randomized Controlled Trial |
@@ -300,6 +302,8 @@
 | 2026-10-11 | Deferred | [LIT-908](../../record/literature.d/LIT-908.md) | 1 | 0 | The Ghost in the Machine |
 | 2026-10-11 | Deferred | [LIT-921](../../record/literature.d/LIT-921.md) | 1 | 0 | Sparse Distributed Memory and Related Models |
 | 2026-10-11 | Deferred | [LIT-922](../../record/literature.d/LIT-922.md) | 1 | 0 | The Organization of Behavior: A Neuropsychological Theory |
+| 2026-10-11 | Deferred | [LIT-930](../../record/literature.d/LIT-930.md) | 1 | 0 | Will a Large Complex System be Stable? |
+| 2026-10-11 | Deferred | [LIT-932](../../record/literature.d/LIT-932.md) | 1 | 0 | Hydrodynamic Stability Without Eigenvalues |
 | 2026-10-11 | Deferred | [LIT-904](../../record/literature.d/LIT-904.md) | 0 | 0 | Preliminaries to a theory of action with reference to vision |
 | 2026-10-11 | Deferred | [LIT-907](../../record/literature.d/LIT-907.md) | 0 | 0 | The Co-ordination and Regulation of Movements |
 | 2026-10-11 | Deferred | [LIT-913](../../record/literature.d/LIT-913.md) | 0 | 0 | On the Concept of Coordinative Structures as Dissipative Structures: I. Theoretical Lines of Convergence |
@@ -309,7 +313,7 @@
 
 ## THEORYs
 
-183 of the 596.
+183 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -499,7 +503,7 @@
 
 ## QUESTIONs
 
-4 of the 596.
+4 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -510,7 +514,7 @@
 
 ## CLAIMs
 
-111 of the 596.
+111 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -595,32 +599,32 @@
 | 2026-10-10 | Proposed | [CLAIM-129](../../record/claims.d/CLAIM-129.md) | 2 | 0 | A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act |
 | 2026-10-10 | Proposed | [CLAIM-149](../../record/claims.d/CLAIM-149.md) | 2 | 0 | A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it |
 | 2026-10-10 | Proposed | [CLAIM-128](../../record/claims.d/CLAIM-128.md) | 1 | 0 | Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks |
+| 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 18 | 0 | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
 | 2026-10-11 | Proposed | [CLAIM-167](../../record/claims.d/CLAIM-167.md) | 17 | 0 | One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership |
-| 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 17 | 0 | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
-| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 16 | 0 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
+| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 17 | 0 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
 | 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 15 | 0 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 15 | 0 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-166](../../record/claims.d/CLAIM-166.md) | 10 | 0 | "Who drives" is not constant: a person's drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience |
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 10 | 0 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-175](../../record/claims.d/CLAIM-175.md) | 10 | 0 | A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own |
+| 2026-10-11 | Proposed | [CLAIM-186](../../record/claims.d/CLAIM-186.md) | 10 | 0 | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
 | 2026-10-11 | Proposed | [CLAIM-162](../../record/claims.d/CLAIM-162.md) | 9 | 0 | Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless |
+| 2026-10-11 | Proposed | [CLAIM-181](../../record/claims.d/CLAIM-181.md) | 9 | 0 | The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost |
 | 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 8 | 0 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
-| 2026-10-11 | Proposed | [CLAIM-181](../../record/claims.d/CLAIM-181.md) | 8 | 0 | The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost |
-| 2026-10-11 | Proposed | [CLAIM-186](../../record/claims.d/CLAIM-186.md) | 8 | 0 | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 7 | 0 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
 | 2026-10-11 | Proposed | [CLAIM-170](../../record/claims.d/CLAIM-170.md) | 7 | 0 | The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-161](../../record/claims.d/CLAIM-161.md) | 6 | 0 | A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states |
 | 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 6 | 0 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon |
+| 2026-10-11 | Proposed | [CLAIM-177](../../record/claims.d/CLAIM-177.md) | 6 | 0 | An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
 | 2026-10-11 | Proposed | [CLAIM-178](../../record/claims.d/CLAIM-178.md) | 6 | 0 | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
 | 2026-10-11 | Proposed | [CLAIM-160](../../record/claims.d/CLAIM-160.md) | 5 | 0 | Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored |
 | 2026-10-11 | Proposed | [CLAIM-165](../../record/claims.d/CLAIM-165.md) | 5 | 0 | A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects |
 | 2026-10-11 | Proposed | [CLAIM-168](../../record/claims.d/CLAIM-168.md) | 5 | 0 | Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find |
-| 2026-10-11 | Proposed | [CLAIM-177](../../record/claims.d/CLAIM-177.md) | 5 | 0 | An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
 | 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 4 | 0 | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were |
 | 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 4 | 0 | Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses |
+| 2026-10-11 | Proposed | [CLAIM-179](../../record/claims.d/CLAIM-179.md) | 3 | 0 | When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over |
 | 2026-10-11 | Proposed | [CLAIM-158](../../record/claims.d/CLAIM-158.md) | 2 | 0 | Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between |
 | 2026-10-11 | Proposed | [CLAIM-171](../../record/claims.d/CLAIM-171.md) | 2 | 0 | A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one |
-| 2026-10-11 | Proposed | [CLAIM-179](../../record/claims.d/CLAIM-179.md) | 2 | 0 | When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over |
 | 2026-10-11 | Proposed | [CLAIM-180](../../record/claims.d/CLAIM-180.md) | 2 | 0 | Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether |
 | 2026-10-11 | Proposed | [CLAIM-159](../../record/claims.d/CLAIM-159.md) | 1 | 0 | The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes |
 | 2026-10-11 | Proposed | [CLAIM-183](../../record/claims.d/CLAIM-183.md) | 0 | 0 | Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism |
@@ -628,7 +632,7 @@
 
 ## CASEs
 
-1 of the 596.
+1 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -636,7 +640,7 @@
 
 ## TERMs
 
-2 of the 596.
+2 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -645,7 +649,7 @@
 
 ## ARGs
 
-2 of the 596.
+2 of the 600.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
