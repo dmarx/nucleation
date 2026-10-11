@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [11 Oct 20:21 — Hebb, Kanerva and Hopfield for the nucleating-argument line: four works filed, none read](2026-10.md#hebb-kanerva-and-hopfield-for-the-nucleating-argument-line-four-works-filed-none-read)
+- [11 Oct 14:39 — Crystal growth and pattern formation for the nucleating-argument line: eight works filed, two read](2026-10.md#crystal-growth-and-pattern-formation-for-the-nucleating-argument-line-eight-works-filed-two-read)
 - [11 Oct 06:03 — Two formal definitions of agency, read for the agent-as-jurisdiction thesis](2026-10.md#two-formal-definitions-of-agency-read-for-the-agent-as-jurisdiction-thesis)
 - [11 Oct 05:31 — Two reviews on gut microbes, appetite and mood, read for the owner's microbiome example](2026-10.md#two-reviews-on-gut-microbes-appetite-and-mood-read-for-the-owners-microbiome-example)
 - [11 Oct 02:58 — Mathematics of Meaning registered as MOM; five entries dual-filed for system boundaries](2026-10.md#mathematics-of-meaning-registered-as-mom-five-entries-dual-filed-for-system-boundaries)
@@ -49,9 +51,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-87 entries across 2 books, newest first.
+89 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 40 | 2026-10-01 | 2026-10-11 |
+| [2026-10](2026-10.md) | 42 | 2026-10-01 | 2026-10-11 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

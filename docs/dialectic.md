@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-24 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+26 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -137,3 +137,14 @@
 - [CLAIM-170](../record/claims.d/CLAIM-170.md) — The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization *(thesis, Proposed)*
   - [CLAIM-168](../record/claims.d/CLAIM-168.md) — Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find *(counter, Proposed)*
     - [CLAIM-174](../record/claims.d/CLAIM-174.md) — A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization *(thesis, Proposed)*
+
+## From Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
+
+- [CLAIM-176](../record/claims.d/CLAIM-176.md) — Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record *(thesis, Proposed)*
+  - [CLAIM-181](../record/claims.d/CLAIM-181.md) — The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost *(counter, Proposed)* — also extends CLAIM-178
+- [CLAIM-178](../record/claims.d/CLAIM-178.md) — A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately *(thesis, Proposed)*
+
+## From The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
+
+- [CLAIM-185](../record/claims.d/CLAIM-185.md) — The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors *(thesis, Proposed)*
+  - [CLAIM-184](../record/claims.d/CLAIM-184.md) — Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure *(counter, Proposed)*

@@ -4,7 +4,7 @@
 
 **personhood**.
 
-18 of 707 NOTE documents. Back to the [full index](../README.md).
+18 of 709 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

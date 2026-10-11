@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**172 documents cited without acknowledgement.** Not listed: 4520 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**172 documents cited without acknowledgement.** Not listed: 4644 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -156,7 +156,7 @@ A representation is determined by its kernel up to an orthogonal transformation,
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/literature.d/LIT-269.md:81`](../../record/literature.d/LIT-269.md)
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-134.md:34`](../../record/notes.d/NOTE-134.md)
 - [`record/notes.d/NOTE-134.md:148`](../../record/notes.d/NOTE-134.md)
@@ -264,7 +264,7 @@ What a regularized linear readout can decode from a representation is a function
 
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
-- [`record/literature.d/LIT-269.md:79`](../../record/literature.d/LIT-269.md)
+- [`record/literature.d/LIT-269.md:81`](../../record/literature.d/LIT-269.md)
 - [`record/literature.d/LIT-302.md:26`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-239.md:95`](../../record/notes.d/NOTE-239.md)
 - [`record/notes.d/NOTE-240.md:153`](../../record/notes.d/NOTE-240.md)
@@ -1483,7 +1483,7 @@ Sheaf-theoretic contextuality has to be extended to directed transport between o
 
 What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
-1 citation in 1 file awaits a look; 32 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 37 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-002.md:41`](../../record/questions.d/QUESTION-002.md)
 
@@ -1899,7 +1899,7 @@ Pattern formation outside of equilibrium
 
 communicative object, as a compatible family of local sections
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-124.md:31`](../../record/claims.d/CLAIM-124.md)
 

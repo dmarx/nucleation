@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-10 lines, walked from `rests_on:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+11 lines, walked from `rests_on:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -23,6 +23,19 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-174](../record/claims.d/CLAIM-174.md) — A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization *(Proposed)* — also extends CLAIM-154
 - [CLAIM-154](../record/claims.d/CLAIM-154.md) — A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio *(Active)*
 - [CLAIM-164](../record/claims.d/CLAIM-164.md) — What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide *(Active)*
+
+## nucleating-argument
+
+### From An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
+
+- [CLAIM-177](../record/claims.d/CLAIM-177.md) — An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change *(Proposed)*
+  - [CLAIM-178](../record/claims.d/CLAIM-178.md) — A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately *(Proposed)*
+    - [CLAIM-183](../record/claims.d/CLAIM-183.md) — Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism *(Proposed)*
+  - [CLAIM-185](../record/claims.d/CLAIM-185.md) — The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors *(Proposed)*
+    - [CLAIM-176](../record/claims.d/CLAIM-176.md) — Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record *(Proposed)* — also extends CLAIM-177
+    - [CLAIM-182](../record/claims.d/CLAIM-182.md) — Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses *(Proposed)* — also extends CLAIM-177
+      - [CLAIM-180](../record/claims.d/CLAIM-180.md) — Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether *(Proposed)* — also extends CLAIM-177
+  - [CLAIM-186](../record/claims.d/CLAIM-186.md) — How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival *(Proposed)*
 
 ## pragmatic-transport
 

@@ -141,7 +141,7 @@ this directory, then run `luria index`.
 
 **By form:** [Analogy](form/analogy.md) (5) · [Controlled contrast](form/contrast.md) (2) · [Existence proof](form/existence.md) (2) · [Application of a formal result](form/formal-application.md) (1) · [Generalization from cases](form/generalization.md) (0) · [Best explanation](form/abduction.md) (0) · [Cause to effect](form/cause-to-effect.md) (0) · [Reductio](form/reductio.md) (0)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (5) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (5)
+**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (5) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (5) · [Nucleating an argument](line/nucleating-argument.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 

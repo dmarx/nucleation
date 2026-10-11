@@ -6,7 +6,7 @@
 
 **Superseded** — later work covers this better, and the note names it.
 
-4 of 916 LIT documents. Back to the [full index](../README.md).
+4 of 928 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

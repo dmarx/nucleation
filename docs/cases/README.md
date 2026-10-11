@@ -158,7 +158,7 @@ this directory, then run `luria index`.
 
 **By standing:** [Documented](standing/documented.md) (12) · [Stipulated](standing/stipulated.md) (24) · [Fictional](standing/fictional.md) (15)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (5) · [Will-organization](line/will-organization.md) (7) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (31)
+**By line:** [Distributed agency](line/distributed-agency.md) (5) · [Will-organization](line/will-organization.md) (7) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (31) · [Nucleating an argument](line/nucleating-argument.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**575 document(s) awaiting a decision.**
+**596 document(s) awaiting a decision.**
 
 ## LITs
 
-283 of the 575.
+293 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -206,13 +206,13 @@
 | 2026-10-03 | Deferred | [LIT-543](../../record/literature.d/LIT-543.md) | 10 | 0 | Examining Domains of Psychological Flexibility and Inflexibility as Treatment Mechanisms in Acceptance and Commitment Therapy: A Comprehensive Systematic and Meta-Analytic Review |
 | 2026-10-03 | Deferred | [LIT-548](../../record/literature.d/LIT-548.md) | 9 | 0 | The Need for a New Medical Model: A Challenge for Biomedicine |
 | 2026-10-03 | Deferred | [LIT-549](../../record/literature.d/LIT-549.md) | 9 | 0 | Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition |
+| 2026-10-03 | Deferred | [LIT-578](../../record/literature.d/LIT-578.md) | 9 | 0 | Dynamic Patterns: The Self-Organization of Brain and Behavior |
 | 2026-10-03 | Deferred | [LIT-596](../../record/literature.d/LIT-596.md) | 9 | 0 | Three Theories of Self-Governance |
 | 2026-10-03 | Deferred | [LIT-556](../../record/literature.d/LIT-556.md) | 8 | 0 | Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis |
-| 2026-10-03 | Deferred | [LIT-578](../../record/literature.d/LIT-578.md) | 8 | 0 | Dynamic Patterns: The Self-Organization of Brain and Behavior |
+| 2026-10-03 | Deferred | [LIT-588](../../record/literature.d/LIT-588.md) | 8 | 0 | A theoretical model of phase transitions in human hand movements |
 | 2026-10-03 | Deferred | [LIT-594](../../record/literature.d/LIT-594.md) | 8 | 0 | The Ethics of Authenticity |
 | 2026-10-03 | Deferred | [LIT-647](../../record/literature.d/LIT-647.md) | 8 | 0 | Neural traveling waves in cortex: Network mechanisms and potential roles in neural computation |
 | 2026-10-03 | Deferred | [LIT-574](../../record/literature.d/LIT-574.md) | 7 | 0 | A Multicomponent Conceptualization of Authenticity: Theory and Research |
-| 2026-10-03 | Deferred | [LIT-588](../../record/literature.d/LIT-588.md) | 7 | 0 | A theoretical model of phase transitions in human hand movements |
 | 2026-10-03 | Deferred | [LIT-583](../../record/literature.d/LIT-583.md) | 6 | 0 | Breakdown of Will |
 | 2026-10-03 | Deferred | [LIT-591](../../record/literature.d/LIT-591.md) | 6 | 0 | Internal Family Systems Therapy |
 | 2026-10-03 | Deferred | [LIT-572](../../record/literature.d/LIT-572.md) | 5 | 0 | Narrative Identity |
@@ -254,15 +254,15 @@
 | 2026-10-05 | Deferred | [LIT-746](../../record/literature.d/LIT-746.md) | 3 | 0 | Brain of the Firm |
 | 2026-10-05 | Deferred | [LIT-751](../../record/literature.d/LIT-751.md) | 3 | 0 | The Problem of Intransigently Biased Agents |
 | 2026-10-05 | Deferred | [LIT-753](../../record/literature.d/LIT-753.md) | 3 | 0 | Enshittification: Why Everything Suddenly Got Worse and What to Do About It |
+| 2026-10-06 | Deferred | [LIT-756](../../record/literature.d/LIT-756.md) | 3 | 0 | Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems |
+| 2026-10-06 | Deferred | [LIT-759](../../record/literature.d/LIT-759.md) | 3 | 0 | Why CSCW applications fail: problems in the design and evaluation of organizational interfaces |
 | 2026-10-06 | Deferred | [LIT-758](../../record/literature.d/LIT-758.md) | 2 | 0 | Issues as Elements of Information Systems |
-| 2026-10-06 | Deferred | [LIT-759](../../record/literature.d/LIT-759.md) | 2 | 0 | Why CSCW applications fail: problems in the design and evaluation of organizational interfaces |
-| 2026-10-06 | Deferred | [LIT-756](../../record/literature.d/LIT-756.md) | 1 | 0 | Formality Considered Harmful: Experiences, Emerging Themes, and Directions on the Use of Formal Representations in Interactive Systems |
-| 2026-10-06 | Deferred | [LIT-761](../../record/literature.d/LIT-761.md) | 1 | 0 | Argumentation-based design rationale: what use at what cost? |
+| 2026-10-06 | Deferred | [LIT-761](../../record/literature.d/LIT-761.md) | 2 | 0 | Argumentation-based design rationale: what use at what cost? |
+| 2026-10-06 | Deferred | [LIT-760](../../record/literature.d/LIT-760.md) | 1 | 0 | Design rationale systems: understanding the issues |
 | 2026-10-06 | Deferred | [LIT-762](../../record/literature.d/LIT-762.md) | 1 | 0 | gIBIS: a hypertext tool for exploratory policy discussion |
 | 2026-10-06 | Deferred | [LIT-763](../../record/literature.d/LIT-763.md) | 1 | 0 | Questions, Options, and Criteria: Elements of Design Space Analysis |
 | 2026-10-06 | Deferred | [LIT-755](../../record/literature.d/LIT-755.md) | 0 | 0 | A Process-Oriented Approach to Design Rationale |
 | 2026-10-06 | Deferred | [LIT-757](../../record/literature.d/LIT-757.md) | 0 | 0 | Groupware and social dynamics: eight challenges for developers |
-| 2026-10-06 | Deferred | [LIT-760](../../record/literature.d/LIT-760.md) | 0 | 0 | Design rationale systems: understanding the issues |
 | 2026-10-07 | Deferred | [LIT-832](../../record/literature.d/LIT-832.md) | 2 | 0 | Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience |
 | 2026-10-07 | Deferred | [LIT-805](../../record/literature.d/LIT-805.md) | 1 | 0 | The Dual State: A Contribution to the Theory of Dictatorship |
 | 2026-10-07 | Deferred | [LIT-817](../../record/literature.d/LIT-817.md) | 1 | 0 | On the Normal and the Pathological |
@@ -286,20 +286,30 @@
 | 2026-10-09 | Deferred | [LIT-840](../../record/literature.d/LIT-840.md) | 0 | 0 | Asymptotic Methods in Statistical Decision Theory |
 | 2026-10-10 | Deferred | [LIT-892](../../record/literature.d/LIT-892.md) | 1 | 0 | Quantum mechanics near closed timelike lines |
 | 2026-10-10 | Deferred | [LIT-893](../../record/literature.d/LIT-893.md) | 1 | 0 | Linear Representations of Finite Groups |
+| 2026-10-11 | Deferred | [LIT-926](../../record/literature.d/LIT-926.md) | 7 | 0 | The two-step mechanism of nucleation of crystals in solution |
 | 2026-10-11 | Deferred | [LIT-902](../../record/literature.d/LIT-902.md) | 4 | 0 | Functionally specific articulatory cooperation following jaw perturbations during speech: Evidence for coordinative structures |
 | 2026-10-11 | Deferred | [LIT-906](../../record/literature.d/LIT-906.md) | 4 | 0 | The effect of brief mindfulness training on momentary impulsivity |
 | 2026-10-11 | Deferred | [LIT-912](../../record/literature.d/LIT-912.md) | 3 | 0 | Neurocognitive mechanisms underlying the experience of flow |
 | 2026-10-11 | Deferred | [LIT-910](../../record/literature.d/LIT-910.md) | 2 | 0 | Effortless Attention: A New Perspective in the Cognitive Science of Attention and Action |
 | 2026-10-11 | Deferred | [LIT-914](../../record/literature.d/LIT-914.md) | 2 | 0 | The Concept of Flow |
 | 2026-10-11 | Deferred | [LIT-916](../../record/literature.d/LIT-916.md) | 2 | 0 | Brief Online Training in Mindfulness Meditation Momentarily Reduces Some Impulsive Behaviors: A Randomized Controlled Trial |
+| 2026-10-11 | Deferred | [LIT-917](../../record/literature.d/LIT-917.md) | 2 | 0 | Disappearing Polymorphs |
+| 2026-10-11 | Deferred | [LIT-918](../../record/literature.d/LIT-918.md) | 2 | 0 | Neural networks and physical systems with emergent collective computational abilities |
+| 2026-10-11 | Deferred | [LIT-924](../../record/literature.d/LIT-924.md) | 2 | 0 | Principles of Crystal Nucleation and Growth |
+| 2026-10-11 | Deferred | [LIT-928](../../record/literature.d/LIT-928.md) | 2 | 0 | Sparse Distributed Memory |
 | 2026-10-11 | Deferred | [LIT-908](../../record/literature.d/LIT-908.md) | 1 | 0 | The Ghost in the Machine |
+| 2026-10-11 | Deferred | [LIT-921](../../record/literature.d/LIT-921.md) | 1 | 0 | Sparse Distributed Memory and Related Models |
+| 2026-10-11 | Deferred | [LIT-922](../../record/literature.d/LIT-922.md) | 1 | 0 | The Organization of Behavior: A Neuropsychological Theory |
 | 2026-10-11 | Deferred | [LIT-904](../../record/literature.d/LIT-904.md) | 0 | 0 | Preliminaries to a theory of action with reference to vision |
 | 2026-10-11 | Deferred | [LIT-907](../../record/literature.d/LIT-907.md) | 0 | 0 | The Co-ordination and Regulation of Movements |
 | 2026-10-11 | Deferred | [LIT-913](../../record/literature.d/LIT-913.md) | 0 | 0 | On the Concept of Coordinative Structures as Dissipative Structures: I. Theoretical Lines of Convergence |
+| 2026-10-11 | Deferred | [LIT-923](../../record/literature.d/LIT-923.md) | 0 | 0 | Synergetics: An Introduction. Nonequilibrium Phase Transitions and Self-Organization in Physics, Chemistry and Biology |
+| 2026-10-11 | Deferred | [LIT-925](../../record/literature.d/LIT-925.md) | 0 | 0 | Diffusion-Limited Aggregation, a Kinetic Critical Phenomenon |
+| 2026-10-11 | Deferred | [LIT-927](../../record/literature.d/LIT-927.md) | 0 | 0 | Instabilities and pattern formation in crystal growth |
 
 ## THEORYs
 
-183 of the 575.
+183 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -489,7 +499,7 @@
 
 ## QUESTIONs
 
-4 of the 575.
+4 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -500,13 +510,13 @@
 
 ## CLAIMs
 
-100 of the 575.
+111 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-10-04 | Proposed | [CLAIM-027](../../record/claims.d/CLAIM-027.md) | 18 | 0 | Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes |
 | 2026-10-04 | Deferred | [CLAIM-016](../../record/claims.d/CLAIM-016.md) | 4 | 0 | An organized agent's will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization |
-| 2026-10-04 | Proposed | [CLAIM-024](../../record/claims.d/CLAIM-024.md) | 2 | 0 | Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names |
+| 2026-10-04 | Proposed | [CLAIM-024](../../record/claims.d/CLAIM-024.md) | 4 | 0 | Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names |
 | 2026-10-04 | Deferred | [CLAIM-003](../../record/claims.d/CLAIM-003.md) | 1 | 0 | A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it |
 | 2026-10-04 | Proposed | [CLAIM-018](../../record/claims.d/CLAIM-018.md) | 1 | 0 | Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity |
 | 2026-10-04 | Proposed | [CLAIM-025](../../record/claims.d/CLAIM-025.md) | 1 | 0 | An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately |
@@ -518,8 +528,8 @@
 | 2026-10-08 | Proposed | [CLAIM-119](../../record/claims.d/CLAIM-119.md) | 25 | 0 | Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints |
 | 2026-10-08 | Proposed | [CLAIM-038](../../record/claims.d/CLAIM-038.md) | 16 | 0 | A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation |
 | 2026-10-08 | Proposed | [CLAIM-061](../../record/claims.d/CLAIM-061.md) | 16 | 0 | Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event |
+| 2026-10-08 | Proposed | [CLAIM-004](../../record/claims.d/CLAIM-004.md) | 13 | 0 | Not every difference between translations is a difference of frame: some change the act being framed |
 | 2026-10-08 | Proposed | [CLAIM-009](../../record/claims.d/CLAIM-009.md) | 12 | 0 | Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for |
-| 2026-10-08 | Proposed | [CLAIM-004](../../record/claims.d/CLAIM-004.md) | 11 | 0 | Not every difference between translations is a difference of frame: some change the act being framed |
 | 2026-10-08 | Proposed | [CLAIM-077](../../record/claims.d/CLAIM-077.md) | 11 | 0 | A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction |
 | 2026-10-08 | Proposed | [CLAIM-056](../../record/claims.d/CLAIM-056.md) | 10 | 0 | Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift |
 | 2026-10-08 | Proposed | [CLAIM-105](../../record/claims.d/CLAIM-105.md) | 10 | 2 | Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility |
@@ -559,8 +569,8 @@
 | 2026-10-08 | Proposed | [CLAIM-007](../../record/claims.d/CLAIM-007.md) | 0 | 0 | In a bridge or chain of progressive reconstruction the path itself is observable: which constraints survive early, which are introduced late, and which relations emerge only through refinement |
 | 2026-10-08 | Proposed | [CLAIM-064](../../record/claims.d/CLAIM-064.md) | 0 | 0 | A translation reconstructs not only what is said but the situation of its saying |
 | 2026-10-08 | Proposed | [CLAIM-103](../../record/claims.d/CLAIM-103.md) | 0 | 0 | Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed |
-| 2026-10-09 | Proposed | [CLAIM-115](../../record/claims.d/CLAIM-115.md) | 33 | 1 | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition |
-| 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 22 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
+| 2026-10-09 | Proposed | [CLAIM-115](../../record/claims.d/CLAIM-115.md) | 38 | 1 | What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition |
+| 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 24 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
 | 2026-10-09 | Proposed | [CLAIM-127](../../record/claims.d/CLAIM-127.md) | 19 | 0 | Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context |
 | 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 14 | 0 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 11 | 0 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
@@ -570,12 +580,12 @@
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 3 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
 | 2026-10-09 | Proposed | [CLAIM-090](../../record/claims.d/CLAIM-090.md) | 1 | 0 | Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable |
 | 2026-10-09 | Proposed | [CLAIM-126](../../record/claims.d/CLAIM-126.md) | 0 | 0 | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency |
+| 2026-10-10 | Proposed | [CLAIM-139](../../record/claims.d/CLAIM-139.md) | 11 | 0 | A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist |
 | 2026-10-10 | Proposed | [CLAIM-142](../../record/claims.d/CLAIM-142.md) | 11 | 0 | Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved |
 | 2026-10-10 | Proposed | [CLAIM-130](../../record/claims.d/CLAIM-130.md) | 10 | 0 | Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed |
 | 2026-10-10 | Proposed | [CLAIM-151](../../record/claims.d/CLAIM-151.md) | 10 | 0 | Which communicative act an utterance performs is partly constituted by its relations to participants, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization |
 | 2026-10-10 | Proposed | [CLAIM-137](../../record/claims.d/CLAIM-137.md) | 9 | 0 | A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization |
 | 2026-10-10 | Proposed | [CLAIM-136](../../record/claims.d/CLAIM-136.md) | 8 | 0 | Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity |
-| 2026-10-10 | Proposed | [CLAIM-139](../../record/claims.d/CLAIM-139.md) | 7 | 0 | A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist |
 | 2026-10-10 | Proposed | [CLAIM-143](../../record/claims.d/CLAIM-143.md) | 6 | 0 | Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated |
 | 2026-10-10 | Proposed | [CLAIM-134](../../record/claims.d/CLAIM-134.md) | 5 | 0 | A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity |
 | 2026-10-10 | Proposed | [CLAIM-135](../../record/claims.d/CLAIM-135.md) | 5 | 0 | Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most |
@@ -586,6 +596,8 @@
 | 2026-10-10 | Proposed | [CLAIM-149](../../record/claims.d/CLAIM-149.md) | 2 | 0 | A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it |
 | 2026-10-10 | Proposed | [CLAIM-128](../../record/claims.d/CLAIM-128.md) | 1 | 0 | Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks |
 | 2026-10-11 | Proposed | [CLAIM-167](../../record/claims.d/CLAIM-167.md) | 17 | 0 | One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership |
+| 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 17 | 0 | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
+| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 16 | 0 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
 | 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 15 | 0 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 15 | 0 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-166](../../record/claims.d/CLAIM-166.md) | 10 | 0 | "Who drives" is not constant: a person's drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience |
@@ -593,21 +605,30 @@
 | 2026-10-11 | Proposed | [CLAIM-175](../../record/claims.d/CLAIM-175.md) | 10 | 0 | A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own |
 | 2026-10-11 | Proposed | [CLAIM-162](../../record/claims.d/CLAIM-162.md) | 9 | 0 | Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless |
 | 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 8 | 0 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
+| 2026-10-11 | Proposed | [CLAIM-181](../../record/claims.d/CLAIM-181.md) | 8 | 0 | The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost |
+| 2026-10-11 | Proposed | [CLAIM-186](../../record/claims.d/CLAIM-186.md) | 8 | 0 | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 7 | 0 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
 | 2026-10-11 | Proposed | [CLAIM-170](../../record/claims.d/CLAIM-170.md) | 7 | 0 | The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-161](../../record/claims.d/CLAIM-161.md) | 6 | 0 | A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states |
 | 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 6 | 0 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon |
+| 2026-10-11 | Proposed | [CLAIM-178](../../record/claims.d/CLAIM-178.md) | 6 | 0 | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
 | 2026-10-11 | Proposed | [CLAIM-160](../../record/claims.d/CLAIM-160.md) | 5 | 0 | Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored |
 | 2026-10-11 | Proposed | [CLAIM-165](../../record/claims.d/CLAIM-165.md) | 5 | 0 | A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects |
 | 2026-10-11 | Proposed | [CLAIM-168](../../record/claims.d/CLAIM-168.md) | 5 | 0 | Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find |
+| 2026-10-11 | Proposed | [CLAIM-177](../../record/claims.d/CLAIM-177.md) | 5 | 0 | An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change |
 | 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 4 | 0 | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were |
+| 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 4 | 0 | Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses |
 | 2026-10-11 | Proposed | [CLAIM-158](../../record/claims.d/CLAIM-158.md) | 2 | 0 | Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between |
 | 2026-10-11 | Proposed | [CLAIM-171](../../record/claims.d/CLAIM-171.md) | 2 | 0 | A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one |
+| 2026-10-11 | Proposed | [CLAIM-179](../../record/claims.d/CLAIM-179.md) | 2 | 0 | When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over |
+| 2026-10-11 | Proposed | [CLAIM-180](../../record/claims.d/CLAIM-180.md) | 2 | 0 | Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether |
 | 2026-10-11 | Proposed | [CLAIM-159](../../record/claims.d/CLAIM-159.md) | 1 | 0 | The record's rival accounts of will are claims about drive profiles in different cells: Ainslie's interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes |
+| 2026-10-11 | Proposed | [CLAIM-183](../../record/claims.d/CLAIM-183.md) | 0 | 0 | Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism |
+| 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 0 | 0 | Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure |
 
 ## CASEs
 
-1 of the 575.
+1 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -615,7 +636,7 @@
 
 ## TERMs
 
-2 of the 575.
+2 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -624,7 +645,7 @@
 
 ## ARGs
 
-2 of the 575.
+2 of the 596.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -635,4 +656,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (37): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-760](../../record/literature.d/LIT-760.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [LIT-840](../../record/literature.d/LIT-840.md), [LIT-904](../../record/literature.d/LIT-904.md), [LIT-907](../../record/literature.d/LIT-907.md), [LIT-913](../../record/literature.d/LIT-913.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (41): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-104](../../record/literature.d/LIT-104.md), [THEORY-005](../../record/theory.d/THEORY-005.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-021](../../record/theory.d/THEORY-021.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [LIT-417](../../record/literature.d/LIT-417.md), [LIT-420](../../record/literature.d/LIT-420.md), [LIT-449](../../record/literature.d/LIT-449.md), [LIT-470](../../record/literature.d/LIT-470.md), [THEORY-091](../../record/theory.d/THEORY-091.md), [THEORY-092](../../record/theory.d/THEORY-092.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [THEORY-104](../../record/theory.d/THEORY-104.md), [THEORY-108](../../record/theory.d/THEORY-108.md), [CLAIM-039](../../record/claims.d/CLAIM-039.md), [THEORY-124](../../record/theory.d/THEORY-124.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-103](../../record/claims.d/CLAIM-103.md), [CLAIM-126](../../record/claims.d/CLAIM-126.md), [LIT-840](../../record/literature.d/LIT-840.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-184](../../record/claims.d/CLAIM-184.md), [LIT-904](../../record/literature.d/LIT-904.md), [LIT-907](../../record/literature.d/LIT-907.md), [LIT-913](../../record/literature.d/LIT-913.md), [LIT-923](../../record/literature.d/LIT-923.md), [LIT-925](../../record/literature.d/LIT-925.md), [LIT-927](../../record/literature.d/LIT-927.md) — these are the cheapest to close, since nothing depends on the answer.

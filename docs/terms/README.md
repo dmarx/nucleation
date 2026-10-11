@@ -51,7 +51,8 @@ this directory, then run `luria index`.
 
 **[Information retrieval](tags/information-retrieval.md)** (0) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-**[Design rationale](tags/design-rationale.md)** (0) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
+**[Design rationale](tags/design-rationale.md)** (1) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030):
+[052](../../record/terms.d/TERM-052.md)
 
 **[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
@@ -136,7 +137,8 @@ this directory, then run `luria index`.
 **[Philosophy of science](tags/philosophy-of-science.md)** (2) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy):
 [037](../../record/terms.d/TERM-037.md) · [038](../../record/terms.d/TERM-038.md)
 
-**[Epistemology](tags/epistemology.md)** (0) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
+**[Epistemology](tags/epistemology.md)** (1) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy):
+[052](../../record/terms.d/TERM-052.md)
 
 **[Logic](tags/logic.md)** (0) — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
@@ -149,9 +151,9 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [Active](status/Active.md) (39) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (40) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (5) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36)
+**By line:** [Distributed agency](line/distributed-agency.md) (5) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36) · [Nucleating an argument](line/nucleating-argument.md) (1)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -216,4 +218,5 @@ What the status column means in this scheme — the words are luria's, the meani
 | [TERM-049](../../record/terms.d/TERM-049.md) | combined form | A candidate system drawn from more than one member (two dancers, a person and a tool, a firm's teams), counted as one system relative to a stated target while it clears the threshold criterion of [CLAIM-157](../../record/claims.d/CLAIM-157.md). The record's neutral word for what such a whole is, used before asking whether it is an agent or a self. | Active |
 | [TERM-050](../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |
 | [TERM-051](../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
+| [TERM-052](../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
 

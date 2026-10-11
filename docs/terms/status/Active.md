@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-39 of 51 TERM documents. Back to the [full index](../README.md).
+40 of 52 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -47,3 +47,4 @@
 | [TERM-049](../../../record/terms.d/TERM-049.md) | combined form | A candidate system drawn from more than one member (two dancers, a person and a tool, a firm's teams), counted as one system relative to a stated target while it clears the threshold criterion of [CLAIM-157](../../../record/claims.d/CLAIM-157.md). The record's neutral word for what such a whole is, used before asking whether it is an agent or a self. | Active |
 | [TERM-050](../../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |
 | [TERM-051](../../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
+| [TERM-052](../../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
