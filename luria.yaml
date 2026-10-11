@@ -467,6 +467,10 @@ vocabularies:
         blurb: 'the owner''s working manuscript, drafted October 2026: contextual pragmatic information
           transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry,
           rate–distortion and Blackwell comparison, conditional diffusion and iterated learning'
+      luria-nucleating-an-argument:
+        label: 'luria: nucleating an argument'
+        blurb: 'the owner''s manuscript idea, proposed 2026-10-11 as a title only: luria, and this record
+          as the case of an argument nucleating in a project memory (ADR-032)'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs
