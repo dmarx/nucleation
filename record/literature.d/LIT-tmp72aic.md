@@ -54,6 +54,8 @@ summary: >-
   vanishes, and by two-step nucleation inside metastable dense-liquid
   clusters, where ordering is the slow step. The mechanism is inferred
   from a fitted model for one protein.
+supports:
+- CLAIM-tmpu984q
 ---
 <!-- inactive-ok-file: LIT-tmpom5dr — Deferred, unread; named as this paper's companion, not for a reading here -->
 <!-- inactive-ok-file: CLAIM-tmp2jolp — Proposed; open, and cited as open: the claim this work is filed for is under test, not settled -->

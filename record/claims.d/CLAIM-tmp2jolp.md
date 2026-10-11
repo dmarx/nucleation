@@ -1,7 +1,16 @@
 ---
 status: Proposed
-title: 'Recurrence is the nucleation threshold: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
-version: 1
+title: 'Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Narrowed on the owner's reframing (CLAIM-tmpu984q). Version 1 called
+    recurrence the nucleation threshold. The threshold is whatever
+    triggers persistence, and recurrence is one trigger, the one this
+    record is built around. The claim keeps recurrence's particular
+    case: it catches exactly the drift and throttles capture.
 role: thesis
 defeated_if: >-
   A record that codes on first occurrence, or only on request, shows
@@ -18,12 +27,15 @@ works:
 answers:
 - QUESTION-tmpdj25c
 rests_on:
+- CLAIM-tmpu984q
 - CLAIM-tmp4qgbo
 grounds:
 - LIT-tmplhx5f
 summary: >-
   The filing rule of [ADR-032](../decisions.d/ADR-032.md) ("a thing gets a code the second time it
-  turns up"), read as the mechanism the manuscript's title names. The
+  turns up"), read as one trigger of persistence ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), and
+  the one this record is built around. Narrowed to that on 2026-10-11,
+  on the owner's reframing. The
   same threshold appears in three places in luria and was found
   independently each time. Proposed: the rule has been applied, but no
   other threshold has been compared with it.
@@ -33,12 +45,19 @@ complements:
 objected_by:
 - CLAIM-tmpas8q0
 ---
+<!-- inactive-ok-file: CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-tmp4qgbo CLAIM-tmpvc1pj — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
-# CLAIM-tmp2jolp: Recurrence is the nucleation threshold: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
+# CLAIM-tmp2jolp: Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
 
 ## The claim
+
+*Version 2.* What the title of the manuscript names is the threshold at
+which a structure persists and becomes an anchor ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)).
+Recurrence is the trigger this record is built around, and this claim is
+about why it is a good one for drift. Other triggers (a choice, a source, a
+request) make things persist too, without its throttle.
 
 [ADR-032](../decisions.d/ADR-032.md): "The drift the exchange shows is exactly the set of things that
 recurred. When an agent does the filing, the risk is no longer that capture
@@ -94,3 +113,7 @@ on how far the exchange is from settling, and at the fast end
 point of even odds of growth and decay, so a code at the threshold gives a
 thing an even chance of persisting, no more. None of this tests the
 filing rule itself. It narrows what the physics can be cited for.
+
+The owner's reframing the same day ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)) answers this by moving
+the threshold from the count to persistence, which is how the physics
+defines it. This claim was narrowed to match.
