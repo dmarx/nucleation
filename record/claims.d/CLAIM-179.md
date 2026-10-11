@@ -20,6 +20,7 @@ works:
 answers:
 - QUESTION-037
 grounds:
+- LIT-tmp2aj0y
 - LIT-759
 - LIT-761
 - LIT-760
@@ -33,6 +34,7 @@ summary: >-
   flooding. This claim states why. Proposed: the record has run for one
   week.
 ---
+<!-- inactive-ok-file: LIT-tmp2aj0y — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Deferred; cited for the argument ADR-030 summarises them for, not for a reading here -->
@@ -74,3 +76,16 @@ code that no later entry points at. That makes over-capture measurable as
 codes with no inbound references, beyond those that are new. Whether an
 anchor goes unused because it was filed too eagerly, or because it is not
 discoverable ([QUESTION-038](../questions.d/QUESTION-038.md)), the count alone cannot say.
+
+## Note of 2026-10-11 (later): a size limit on settling
+
+May ([LIT-tmp2aj0y](../literature.d/LIT-tmp2aj0y.md), unread here) is the classic result that a large system
+with random interactions is almost surely stable only below a threshold,
+s√(nC) < 1, in its size n, connectance C and interaction strength s. Past
+it, more components or more links destabilize. Read across, flooding has a
+second cost beyond unused anchors. A record that keeps adding entries and
+relations could pass a point past which it no longer settles. The record's
+structure is not random, and the debate after May is about which
+structures escape the bound, so this is a question to test, not a result
+to apply. It is also a further reason for the second-occurrence throttle
+([CLAIM-176](CLAIM-176.md)).

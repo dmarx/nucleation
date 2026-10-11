@@ -1,0 +1,67 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, filling a gap in the record''s coverage of stability theory. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Will a Large Complex System be Stable?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-11'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-11:
+    Robert M. May, Nature 238(5364), pp. 413–414, August 1972, which is
+    the `published:` date (Crossref gives the month). Unpaywall reports
+    no open copy. Not held in the Anthology of the SOTA: a grep of its
+    record/ (clone at commit d8b5ba5) for the author, the title and the
+    DOI found nothing.
+tags:
+- ecology
+- complex-systems
+- mathematics
+date: '2026-10-11'
+published: '1972-08-01'
+doi: '10.1038/238413a0'
+first_author: 'May'
+keywords:
+- 'complexity and stability'
+- 'random matrices'
+- 'connectance'
+- 'community matrix'
+implementations: []
+summary: >-
+  May (1972), Nature 238, 413. A large system of n components with
+  randomly signed interactions of strength s and connectance C is almost
+  surely stable when s√(nC) < 1 and unstable when it exceeds 1, with a
+  sharp transition: past a point, more components or more connections
+  destabilize. It challenged the view that diversity brings stability.
+  Not read.
+supports:
+- CLAIM-179
+---
+<!-- inactive-ok-file: CLAIM-179 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
+
+# LIT-tmp2aj0y: Will a Large Complex System be Stable?
+
+Robert M. May (1972), *Nature* 238(5364), 413–414 — DOI-10.1038/238413a0
+
+## Key takeaways
+
+*Filed, not read.* Known here by what it is standardly cited for.
+
+- For a random community matrix with n species, connectance C and
+  interaction strength s, the system is almost surely stable if s√(nC) < 1
+  and unstable if s√(nC) > 1.
+- The transition is sharp as n grows, so increasing size or connectance
+  past a threshold destabilizes the system.
+- It challenged the then-common view that ecological complexity confers
+  stability, and started a long debate over which structures escape the
+  bound.
+
+## Standing in the record
+
+Filed on 2026-10-11 at the owner's request. It bears on flooding
+([CLAIM-179](../claims.d/CLAIM-179.md)): if anchors are components and the relations between them are
+interactions, a record that keeps adding entries and links may pass a
+threshold past which it no longer settles. The record's structure is not
+random, and the debate after May is about exactly which structures escape
+the bound, so the analogy needs care. The record holds the ecological side
+of that debate (Holling, [LIT-741](LIT-741.md); [THEORY-132](../theory.d/THEORY-132.md)), not May himself until now.

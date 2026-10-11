@@ -1,0 +1,70 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, filling a gap in the record''s coverage of stability theory. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Generalized Stability Theory. Part I: Autonomous Operators'
+version: 1
+history:
+- version: 1
+  date: '2026-10-11'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-11:
+    Brian F. Farrell and Petros J. Ioannou, Journal of the Atmospheric
+    Sciences 53(14), pp. 2025–2040, July 1996, which is the `published:`
+    date (Crossref gives the month). Unpaywall reports a free copy from
+    the publisher (bronze), at journals.ametsoc.org. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone at commit
+    d8b5ba5) for the author, the title and the DOI found nothing.
+tags:
+- complex-systems
+- mathematics
+- natural-sciences
+date: '2026-10-11'
+published: '1996-07-01'
+doi: '10.1175/1520-0469(1996)053<2025:gstpia>2.0.co;2'
+first_author: 'Farrell'
+keywords:
+- 'generalized stability theory'
+- 'non-normal operators'
+- 'transient growth'
+- 'optimal perturbations'
+- 'pseudospectra'
+implementations: []
+summary: >-
+  Farrell & Ioannou (1996), J. Atmos. Sci. 53, 2025. For a linear system
+  whose operator is non-normal, the eigenvalues do not govern growth
+  over finite times: perturbations can grow by large factors before they
+  decay, even when every mode is stable. Stability is analysed through
+  the propagator and its optimal perturbations, not the modes. Not read;
+  free from the publisher.
+supports:
+- CLAIM-186
+---
+<!-- inactive-ok-file: CLAIM-186 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
+
+# LIT-tmpnkkua: Generalized Stability Theory. Part I: Autonomous Operators
+
+Brian F. Farrell and Petros J. Ioannou (1996), *Journal of the Atmospheric Sciences* 53(14), 2025–2040 — `doi:10.1175/1520-0469(1996)053<2025:gstpia>2.0.co;2`
+
+## Key takeaways
+
+*Filed, not read.* Known here by what it is standardly cited for.
+
+- When the dynamical operator is non-normal (its eigenvectors are not
+  orthogonal), modal stability analysis misleads: a system stable in every
+  mode can amplify perturbations transiently by large factors.
+- Growth over a finite time is given by the singular values of the
+  propagator, and the optimal perturbations by its singular vectors, not
+  by the eigenvectors.
+- The response to stochastic forcing is likewise governed by non-
+  normality, not by the least-damped mode.
+
+## Standing in the record
+
+Filed on 2026-10-11 at the owner's request, filling the gap the record had
+in generalized stability theory. It bears on [CLAIM-186](../claims.d/CLAIM-186.md): an argument that
+settles in the end can still amplify a disturbance for a while, so
+asymptotic settling does not rule out a burst of drift. A record's
+dependencies are directed (`rests_on`), and directed, asymmetric coupling
+is a standard source of non-normality, so a change to a claim many others
+rest on could be amplified transiently through them. That reading is the
+assistant's. A free copy exists, so it can be read here next.
