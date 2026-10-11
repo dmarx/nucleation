@@ -51,7 +51,7 @@ From [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/rec
 variance s² and a Laplace posterior with mean μ and variance σ², pruning w
 is a nested model. Its log Bayes factor is the Savage–Dickey ratio:
 
-ln BF(keep) = ½ μ²/σ² − ½ ln(s²/σ²) = ½ (d'² − Occam).
+ln BF(keep) = ½ μ²/σ² − ½ ln(s²/σ²) = ½ (d'² − Occam), in the notation of [TERM-tmpgthc0](../terms.d/TERM-tmpgthc0.md)<!-- ref::uses: TERM-tmpgthc0 -->.
 
 So the rule is: **keep (reify) w if and only if d'² > Occam**, that is
 δ/ε > τ with τ² = ln(s²/σ²). The threshold is not a taste parameter. It is

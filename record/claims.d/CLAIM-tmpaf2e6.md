@@ -36,6 +36,7 @@ summary: >-
   drive profile's changes over time. That is the owner's point that "who
   drives" is not constant.
 ---
+<!-- ref::uses-file: TERM-tmpllrr1 — the claim places will-organization as the governance that makes a willed agent, and its third account is that kind -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 CLAIM-027 — Proposed; the three accounts this claim places, each with its own standing -->
 <!-- inactive-ok-file: CLAIM-tmpkdc9t — Proposed; the owner's non-constancy claim this one draws on, open -->
 

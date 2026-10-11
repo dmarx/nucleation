@@ -38,6 +38,7 @@ summary: >-
 illustrated_by:
 - CASE-tmpcm951
 ---
+<!-- ref::uses-file: TERM-tmpg0hhr — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-tmpaf2e6 — Proposed; the will-line claims that give non-constancy its home, open -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
 

@@ -27,6 +27,7 @@ summary: >-
   two independent lines of support: the historical analogy and the
   constructed Northstar case. The audit's "strong conceptual refinement".
 ---
+<!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 
 # CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative
 

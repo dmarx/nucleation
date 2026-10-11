@@ -28,6 +28,8 @@ summary: >-
 argued_by:
 - ARG-004
 ---
+<!-- ref::uses-file: TERM-013 — stated in "fidelity, as matching pragmatic signatures", the definition current when this claim was written; it has since been superseded -->
+<!-- ref::uses-file: TERM-016 — stated in "frame, as a pragmatic frame of reference", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-098 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-013 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->

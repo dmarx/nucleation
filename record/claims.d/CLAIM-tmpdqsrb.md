@@ -43,9 +43,9 @@ summary: >-
 From [MOM-CLM-153](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-153.md). The condition "there exists φ with γ(S) ≈ γ(φ(S))" holds
 of my system at noon and yours at midnight, so it is no condition. Replace
 "some φ" with the system's own evolution: γ(Φ_Δt(S(t))) ≈ γ(S(t)) for Δt in
-the interval of interest. The self is then the region of state space on
+the interval of interest. The self ([TERM-tmpg0hhr](../terms.d/TERM-tmpg0hhr.md)<!-- ref::uses: TERM-tmpg0hhr -->) is then the region of state space on
 which γ stays level. The defect, sup over Δt of |γ(Φ_Δt(s)) − γ(s)|, is
-measurable.
+measurable (notation as in [TERM-tmpgthc0](../terms.d/TERM-tmpgthc0.md)<!-- ref::uses: TERM-tmpgthc0 -->).
 
 ## Why this record files it, and why Proposed
 

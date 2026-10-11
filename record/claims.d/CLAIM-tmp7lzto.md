@@ -40,6 +40,7 @@ summary: >-
   as summarised ([LIT-tmp8dmxy](../literature.d/LIT-tmp8dmxy.md)) points the other way, and the claim says
   so. It does not say mindfulness never changes valuation.
 ---
+<!-- ref::uses-file: TERM-tmpu28lt — stated in "intrapersonal synchronization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 CLAIM-tmpf301t CLAIM-tmpmf12z — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-591 — Deferred; IFS, named as the contrast with ACT's self as context, not leaned on -->
 <!-- inactive-ok-file: LIT-tmp8dmxy LIT-tmpz3v2y — Deferred, unread beyond abstract summaries; the direct evidence, cited as the weakest footing and as the fork the claim turns on -->

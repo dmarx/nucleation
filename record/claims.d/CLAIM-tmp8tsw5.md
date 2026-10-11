@@ -72,11 +72,11 @@ For the dancing couple it might be the next beat's positions. Model the
 joint dynamics of the candidate's members and their surroundings, for
 example as a linear model of their state variables. Then:
 
-1. **Block.** The candidate is one system when, with its members grouped,
+1. **Block.** The candidate is one system ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd.md)<!-- ref::uses: TERM-tmpq5zvd -->) when, with its members grouped,
    the interaction matrix is nearly decomposable ([LIT-tmp6qp14](../literature.d/LIT-tmp6qp14.md)). The
    couplings inside the group are strong and those across its edge are
    weak.
-2. **Threshold.** The gap that sets the block off clears the Occam factor
+2. **Threshold.** The gap that sets the block off clears the Occam factor ([TERM-tmpgthc0](../terms.d/TERM-tmpgthc0.md)<!-- ref::uses: TERM-tmpgthc0 -->)
    for that block: δ/ε > τ, with τ² the log prior-to-posterior variance
    ratio ([CLAIM-tmp45kkg](CLAIM-tmp45kkg.md)). Below it, the block is not worth naming.
 3. **Unit.** What is named is the gap-isolated block, the projector onto
@@ -113,7 +113,7 @@ test. The name is earned when the gap beats the cost of keeping it.
 
 - **That the verdict is target-free.** A different target can group the
   members differently.
-- **That a form clearing the threshold is an agent or a self.** Those are
+- **That a form clearing the threshold is an agent ([TERM-tmp1913d](../terms.d/TERM-tmp1913d.md)<!-- ref::uses: TERM-tmp1913d -->) or a self ([TERM-tmpg0hhr](../terms.d/TERM-tmpg0hhr.md)<!-- ref::uses: TERM-tmpg0hhr -->).** Those are
   [QUESTION-009](../questions.d/QUESTION-009.md) and the subject sense of [ADR-024](../decisions.d/ADR-024.md).
 - **That anything has been measured.** [CASE-tmpazmsq](../cases.d/CASE-tmpazmsq.md) is the study it would
   need.

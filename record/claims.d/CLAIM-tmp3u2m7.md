@@ -48,8 +48,8 @@ summary: >-
 From [MOM-CLM-165](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-165.md). Take the ways of being as a torsor under a group G, with
 α_ij ∈ G the offset that reconciles context i with context j. On a
 three-context cycle whose triple overlap is empty, the monodromy
-Φ = α₁₂ + α₂₃ + α₃₁ is the Čech H¹ class. A global section, one coherent
-self, exists if and only if Φ = 0. With a two-set cover the nerve is an
+Φ = α₁₂ + α₂₃ + α₃₁ ([TERM-tmpgthc0](../terms.d/TERM-tmpgthc0.md)<!-- ref::uses: TERM-tmpgthc0 -->) is the Čech H¹ class. A global section, one coherent
+self ([TERM-tmpg0hhr](../terms.d/TERM-tmpg0hhr.md)<!-- ref::uses: TERM-tmpg0hhr -->), exists if and only if Φ = 0. With a two-set cover the nerve is an
 edge, so H¹ vanishes, and two locally consistent personas that agree on
 their overlap always glue. Compartmentalization, where every pair is fine
 and no whole is consistent, is a loop phenomenon.

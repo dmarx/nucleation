@@ -36,6 +36,7 @@ supports:
 complements:
 - CLAIM-148
 ---
+<!-- ref::uses-file: TERM-004 — stated in "equivariance"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-015 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-098 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

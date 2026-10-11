@@ -56,7 +56,7 @@ cognition. The pair is a combined form ([TERM-tmpq5zvd](../terms.d/TERM-tmpq5zvd
 What is left: nothing in mutual entrainment gives that form a *subject*. It
 has no point of view or experience that is the pair's rather than one
 dancer's. [ADR-024](../decisions.d/ADR-024.md) reserves "self" for being a subject. In that sense the
-pair is not shown to be a self, however good the case for it as an
+pair is not shown to be a self ([TERM-tmpg0hhr](../terms.d/TERM-tmpg0hhr.md)<!-- ref::uses: TERM-tmpg0hhr -->), however good the case for it as an
 extended cognitive system.
 
 ## Why it is still open

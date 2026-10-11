@@ -26,6 +26,7 @@ summary: >-
   learned dispositions and language models to A40's observation-relative
   thesis. Superseded at A50–A52 by the transport thesis.
 ---
+<!-- ref::uses-file: TERM-033 — stated in "fidelity, as observational equivalence over response trajectories"; the body names fidelity only inside quotations and a manuscript title, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-083 CLAIM-101 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-106 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

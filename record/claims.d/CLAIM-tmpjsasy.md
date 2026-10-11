@@ -48,7 +48,7 @@ supports:
 ## The claim
 
 From [MOM-CLM-144](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-144.md). Let a cluster of singular values be separated from the
-rest of the spectrum by a gap δ. The invariant is the subspace V they span,
+rest of the spectrum by a gap δ ([TERM-tmpgthc0](../terms.d/TERM-tmpgthc0.md)<!-- ref::uses: TERM-tmpgthc0 -->). The invariant is the subspace V they span,
 or equivalently the projector P onto V. Under a perturbation δT, P moves by
 at most about ‖δT‖/δ, which is Davis–Kahan. A single vector is its own
 cluster only when its own gaps are wide. Where values are degenerate, "the
