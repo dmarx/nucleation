@@ -1,7 +1,15 @@
 ---
 status: Active
 title: 'Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    The direction measurement is reread as an architecture measurement,
+    after the objection it was for (CLAIM-tmpw0mrc) was rejected
+    (CLAIM-tmpl4ha3). A one-way coupling no longer counts against the
+    pair. It says the pair is a hierarchy, lead driving follow.
 standing: stipulated
 tags:
 - embodied-cognition
@@ -22,7 +30,8 @@ summary: >-
   and whether the coupling runs both ways.
 ---
 <!-- inactive-ok-file: LIT-tmp11x8k — Deferred, unread; the source of the compensation test the design borrows, not leaned on -->
-<!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmpw0mrc — Proposed; the claim the study would test and the objection it would also address -->
+<!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmpl4ha3 — Proposed; the claim the study would test and the reply that rereads its direction measurement -->
+<!-- inactive-ok-file: CLAIM-tmpw0mrc — Rejected; cited as the objection the measurement was first designed for -->
 
 # CASE-tmpazmsq: Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it?
 
@@ -44,8 +53,9 @@ A stipulated design, so that the criterion has a concrete test.
   condition.
 - **Perturbations.** A mild, unannounced resistance applied to one
   dancer's arm. Does the partner compensate within the beat ([LIT-tmp11x8k](../literature.d/LIT-tmp11x8k.md))?
-- **Direction.** Estimate the lead→follow and follow→lead couplings
-  separately, for the open objection [CLAIM-tmpw0mrc](../claims.d/CLAIM-tmpw0mrc.md).
+- **Architecture.** Estimate the lead→follow and follow→lead couplings
+  separately. Their ratio says whether the pair works as peers or as a
+  hierarchy ([CLAIM-tmpl4ha3](../claims.d/CLAIM-tmpl4ha3.md)).
 
 ## What it can show
 
@@ -53,9 +63,11 @@ A stipulated design, so that the criterion has a concrete test.
   owner's claim is a measured result, relative to this target.
 - **If the pair clears it but does not compensate,** that counts against
   [CLAIM-tmp8tsw5](../claims.d/CLAIM-tmp8tsw5.md).
-- **If the follow→lead coupling is near zero** while the pair still clears
-  the threshold, the objection's directional worry is real for the
-  record's own paradigm case.
+- **If the follow→lead coupling is near zero** while the pair clears the
+  threshold, the pair is one system with a hierarchical architecture: the
+  lead drives. That is a finding about its structure, not against its
+  unity. How far follows feed back, through styling and hijacking, is
+  then an empirical question about the dance.
 
 It is stipulated. Nothing here has been run, and the design's choices (the
 target, the linear model, the prior variances) are exactly what

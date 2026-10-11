@@ -1,7 +1,15 @@
 ---
 status: Open
 title: 'Relative to a stated target, when is a combined form one system, where does its boundary lie, and how long does it last?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    The adequacy condition on one-way drive is reversed after the owner's
+    challenge (CLAIM-tmpl4ha3). Version 1 required that the metronome and
+    the nerve and muscle come out not one system. That requirement was
+    an agency intuition, and it would have excluded the dancing couple.
 tags:
 - individuation
 - complex-systems
@@ -24,7 +32,8 @@ answered_by:
 <!-- inactive-ok-file: CLAIM-tmpdqsrb — Proposed; one of the candidate tests, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection an answer must avoid, not as standing -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens, set aside since the will paper -->
-<!-- inactive-ok-file: CLAIM-tmp3qyzh CLAIM-tmp8tsw5 CLAIM-tmpw0mrc CLAIM-tmptsdgt CLAIM-tmpygda8 — Proposed or new; the answers and objections filed against this question, open -->
+<!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmptsdgt CLAIM-tmpygda8 CLAIM-tmpl4ha3 — Proposed; the answers filed against this question, open -->
+<!-- inactive-ok-file: CLAIM-tmpw0mrc — Rejected; cited as the answered objection and the withdrawn adequacy condition -->
 
 # QUESTION-tmpm56ps: Relative to a stated target, when is a combined form one system, where does its boundary lie, and how long does it last?
 
@@ -54,10 +63,11 @@ question again, kept apart by [ADR-024](../decisions.d/ADR-024.md).
 A criterion that, given a stated target and measurements of a candidate,
 returns a verdict that can be wrong. It should say which variables are
 inside, from when to when, and with what margin. It must also handle the
-cases the record already holds: one-way drive (the metronome, the nerve and
-the muscle) must come out not one system, and the couple after the song
-must come out two. A criterion that every pair of interacting things
-satisfies is not an answer ([CLAIM-010](../claims.d/CLAIM-010.md)'s permissiveness, in another form).
+cases the record already holds: the couple after the song must come out
+two. One-way drive, such as the metronome or the nerve and the muscle, may
+come out one system with a hierarchical architecture. Version 1 required
+the opposite, and that requirement was withdrawn ([CLAIM-tmpl4ha3](../claims.d/CLAIM-tmpl4ha3.md)). A
+criterion that every pair of interacting things satisfies is not an answer ([CLAIM-010](../claims.d/CLAIM-010.md)'s permissiveness, in another form).
 
-The proposed answer is [CLAIM-tmp8tsw5](../claims.d/CLAIM-tmp8tsw5.md), and its open objection is
-[CLAIM-tmpw0mrc](../claims.d/CLAIM-tmpw0mrc.md).
+The proposed answer is [CLAIM-tmp8tsw5](../claims.d/CLAIM-tmp8tsw5.md). Its first objection, that one-way
+drive should not pass ([CLAIM-tmpw0mrc](../claims.d/CLAIM-tmpw0mrc.md)), was rejected by [CLAIM-tmpl4ha3](../claims.d/CLAIM-tmpl4ha3.md).

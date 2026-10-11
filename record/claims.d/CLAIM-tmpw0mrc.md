@@ -1,7 +1,17 @@
 ---
-status: Proposed
+status: Rejected
 title: 'The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Rejected after the owner's challenge, "and why shouldn't they?"
+    (CLAIM-tmpl4ha3). The objection repeated the coupling-constitution
+    worry that CLAIM-tmptsdgt had already set aside, and its intuitions
+    were about agency, not system-hood. Direction gives a system's
+    architecture, not its membership. The argument below is kept as
+    version 1 stated it.
 role: counter
 tags:
 - individuation
@@ -17,9 +27,13 @@ summary: >-
   Aizawa's coupling-constitution objection ([LIT-455](../literature.d/LIT-455.md)) aimed at the new
   criterion. Near-decomposability is about the size of couplings, not
   their direction. One-way drive can make a tightly coupled block. The
-  entrainment claim excludes exactly this case. Open: a directional
-  condition would answer it, and none is filed.
+  entrainment claim excluded exactly this case. Rejected on the owner's
+  challenge (CLAIM-tmpl4ha3): they should pass, and direction gives a
+  system's architecture, not its membership.
+objected_by:
+- CLAIM-tmpl4ha3
 ---
+<!-- inactive-ok-file: CLAIM-tmpl4ha3 — Proposed; the reply that rejected this objection -->
 <!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmptsdgt — Proposed; the target of this objection and the claim whose mutuality condition would answer it, open -->
 
 # CLAIM-tmpw0mrc: The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system
@@ -36,7 +50,22 @@ record's entrainment claim ([CLAIM-tmptsdgt](CLAIM-tmptsdgt.md)) counts neither,
 requires each side to adjust the other. A pacemaker that "entrains the
 rest" is not thereby one with them ([NOTE-414](../notes.d/NOTE-414.md)).
 
-## Why it is still open
+## Why it was rejected
+
+The owner asked: "and why shouldn't they?" [CLAIM-tmpl4ha3](CLAIM-tmpl4ha3.md) gives the
+answer:
+- **The criterion never claims parthood.** It says nerve and muscle *form* a
+  system, not that one is part of the other. [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md) had already
+  used that move to sidestep the coupling-constitution objection.
+- **The intuitions were about agents.** The sense that "they are not one
+  system" was a sense that they are not one agent or self.
+- **Inside or input is a choice.** Whether a one-way driver is inside the
+  block or an input to it depends on the target.
+
+The reply below, version 1's, is the one this objection anticipated. It is
+kept as history. It would have excluded the dancing couple.
+
+## The reply version 1 anticipated
 
 There is a direct reply, and it is not yet filed. Require the block to clear
 the threshold in *both* off-diagonal directions inside it: the musician must

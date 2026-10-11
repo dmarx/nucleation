@@ -1,7 +1,7 @@
 ---
 status: Proposed
-title: 'Mutual entrainment bounds a combined form better than reliable availability does: an external process or partner belongs to the coupled system when each side adjusts the other''s timing and the pair carries a collective variable neither has alone'
-version: 2
+title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -10,6 +10,15 @@ history:
     partner" added, after the owner's method of the same day: name and
     characterize the form first, then ask whether "self" applies. The
     criterion is unchanged.
+- version: 3
+  date: '2026-10-11'
+  note: >-
+    Mutuality demoted from a condition of membership to a mark of a
+    peer architecture, after the owner's challenge (CLAIM-tmpl4ha3).
+    Version 2 excluded the nerve and muscle and the metronome because
+    the drive runs one way. On the record's own move, which makes a new
+    system and infers no parthood, they form systems too, with a
+    hierarchical architecture.
 role: thesis
 defeated_if: >-
   A mutually entrained pair whose collective variable can be eliminated
@@ -48,10 +57,11 @@ illustrated_by:
 complements:
 - CLAIM-tmp8tsw5
 ---
+<!-- inactive-ok-file: CLAIM-tmpl4ha3 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-tmpigdl0 CLAIM-tmpk62ey — Proposed; the earlier objection this bears on and the open objection to this claim -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
 
-# CLAIM-tmptsdgt: Mutual entrainment bounds a combined form better than reliable availability does: an external process or partner belongs to the coupled system when each side adjusts the other's timing and the pair carries a collective variable neither has alone
+# CLAIM-tmptsdgt: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
 
 ## The claim
 
@@ -78,10 +88,17 @@ the entrainment is mutual (each side's timing shifts with the other's) and
 the pair's best description has a collective variable. That does not infer
 the process's parthood in the organism, which is what the
 coupling-constitution objection forbids. It individuates a new system by a
-variable that only the pair has. The nerve and the muscle fail it, because
-the drive runs one way. So does a metronome, which entrains a musician
-without being entrained back: the fastest pacemaker "entrains the rest"
-([NOTE-414](../notes.d/NOTE-414.md)), and is not thereby one with them.
+variable that only the pair has.
+
+**Version 2 said the nerve and the muscle fail it**, because the drive runs
+one way. It said the same of a metronome, which entrains a musician without
+being entrained back: the fastest pacemaker "entrains the rest"
+([NOTE-414](../notes.d/NOTE-414.md)). Version 3 withdraws that ([CLAIM-tmpl4ha3](CLAIM-tmpl4ha3.md)). By the same move that
+makes a new system and infers no parthood, a one-way-driven pair is also a
+combined form, relative to a target that needs both. What mutuality marks
+is the *architecture*. Mutually entrained members are peers. A driven pair
+is a hierarchy, as a lead and follow are. Mutual entrainment is sufficient
+for a combined form, not necessary, and it says which kind.
 
 ## What it does not say
 
