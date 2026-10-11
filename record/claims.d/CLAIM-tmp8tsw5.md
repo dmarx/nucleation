@@ -50,6 +50,8 @@ illustrated_by:
 - CASE-tmpazmsq
 objected_by:
 - CLAIM-tmpw0mrc
+supports:
+- CLAIM-tmpwv313
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-tmptsdgt CLAIM-tmpygda8 CLAIM-tmpdqsrb CLAIM-tmp3u2m7 CLAIM-tmpl4ha3 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->

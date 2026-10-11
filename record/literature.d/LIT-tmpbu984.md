@@ -1,0 +1,63 @@
+---
+status: Active
+status_note: 'read in full 2026-10-11 ([NOTE-tmpoybi6](../notes.d/NOTE-tmpoybi6.md)) from the arXiv PDF (v2). Worth reading for the interventional definition of agents, as systems that would adapt their policy if their actions influenced the world differently, and for its verdicts: a thermostat is not an agent, but the thermostat with its creation process is; the training process, not the frozen policy, is the agent. It is explicit that its labels are frame-dependent, relative to the chosen variables. Its proofs assume interventional data on mechanisms.'
+title: 'Discovering Agents'
+version: 1
+tags:
+- agency
+- causality
+- anthology-candidate
+date: '2026-10-11'
+published: '2022-08-17'
+arxiv: '2208.08345'
+first_author: 'Kenton'
+keywords:
+- 'agency'
+- 'causal discovery'
+- 'mechanised structural causal model'
+- 'causal games'
+- 'decision nodes'
+- 'utility nodes'
+- 'intentional stance'
+implementations: []
+summary: >-
+  Kenton, Kumar, Farquhar, Richens, MacDermott & Everitt (2022). Agents
+  are "systems that would adapt their policy if their actions influenced
+  the world in a different way". In mechanised causal models, which add
+  mechanism variables, decision and utility nodes are found from
+  interventions on mechanisms, with proofs of recovery under five
+  assumptions. Verdicts: a thermostat is not an agent, but the thermostat
+  with its creation process is; humans are agents; an actor-critic is two
+  agents. The labels are frame-dependent.
+supports:
+- CLAIM-tmpwv313
+---
+<!-- inactive-ok-file: CLAIM-tmptd6s2 CLAIM-tmpwv313 — Proposed; the claims this reading bears on, open -->
+
+# LIT-tmpbu984: Discovering Agents
+
+Zachary Kenton, Ramana Kumar, Sebastian Farquhar, Jonathan Richens, Matt MacDermott and Tom Everitt (2022) — [ARXIV-2208.08345](https://arxiv.org/abs/2208.08345)
+
+## Key takeaways
+
+*Read in full; see [NOTE-tmpoybi6](../notes.d/NOTE-tmpoybi6.md).*
+
+- **Agency is counterfactual adaptation.** "agents are systems that would
+  adapt their policy if their actions influenced the world in a different
+  way". The foil: "the rock would not adapt if the pipe was wider".
+- **The thermostat and its makers.** "An existing thermostat will not adapt
+  to this change, and is therefore not an agent by our account." But "the
+  thermostat with its creation process is an agent under our definition."
+- **Frame-dependence.** "what is a decision or a utility node is
+  frame-dependent".
+
+## Standing in the record
+
+Filed on 2026-10-11 as the adaptation half of the admission test
+([CLAIM-tmpwv313](../claims.d/CLAIM-tmpwv313.md)). Its thermostat-with-designers verdict is the outside
+support for individuating agents by the jurisdiction of a will-organization
+([CLAIM-tmptd6s2](../claims.d/CLAIM-tmptd6s2.md)). Tags: `agency` first; `causality` for the mechanised
+causal models. `anthology-candidate` comes last ([ADR-005](../decisions.d/ADR-005.md)): the anthology's
+`agents-and-environments` topic could hold it for RL and incentive analysis.
+It is read here for what makes a factor of a person, couple or firm an
+agent. Not held in the anthology.

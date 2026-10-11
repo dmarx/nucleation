@@ -36,6 +36,7 @@ summary: >-
   when its gap beats its Occam factor. Re-checked here in the conjugate case.
 supports:
 - CLAIM-tmp8tsw5
+- CLAIM-tmpwv313
 ---
 <!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 <!-- inactive-ok-file: CLAIM-tmpygda8 — Proposed; the owner's claim this threshold makes decidable, open -->
