@@ -2,7 +2,7 @@
 status: Deferred
 status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, on what it is standardly cited for. No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for on 2026-10-11: Unpaywall reports no open-access copy for the DOI, and Europe PMC holds no full text, so no lawful full text was found.'
 title: 'The two-step mechanism of nucleation of crystals in solution'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-11'
@@ -19,6 +19,15 @@ history:
     2026-10-11, commit d8b5ba5) for the author and the DOI found
     nothing, and no anthology topic holds crystal growth or pattern
     formation, so ADR-013 does not apply.
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Still unread. Two takeaways written from memory are corrected from
+    the companion reading of LIT-tmp72aic (NOTE-tmpmm4u0): the clusters
+    are long-lived relative to density fluctuations, not short-lived,
+    and the shortfall they account for is about nine of ten orders of
+    magnitude in the one system measured. The Standing section records
+    what the companion reading says about this paper's question.
 tags:
 - natural-sciences
 - complex-systems
@@ -51,10 +60,14 @@ Peter G. Vekilov (2010), *Nanoscale* 2(11), 2346 — DOI-10.1039/c0nr00628a
 - Nucleation from solution often goes in two steps. First, disordered
   clusters of dense liquid form. Then a crystalline nucleus forms inside
   one of them.
-- The clusters are metastable and short-lived, and the rate-limiting step
-  is ordering within a cluster, not assembly from the solution.
-- This accounts for nucleation rates many orders of magnitude below what
-  classical theory predicts.
+- The clusters are metastable, and the rate-limiting step is ordering
+  within a cluster, not assembly from the solution. (Corrected from the
+  companion reading, [NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md): there the clusters are long-lived
+  relative to density fluctuations, from over 15 ms to about 10 s, with
+  populations steady for hours. Version 1 said "short-lived".)
+- This accounts for nucleation rates far below what classical theory
+  predicts. (In the companion reading, [NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md), it accounts for about
+  nine of the ten orders of magnitude for lysozyme.)
 
 ## Standing in the record
 
@@ -66,3 +79,11 @@ within the cluster. If that is right, the second occurrence is not the
 threshold. The threshold is the moment the cluster is recognized. A
 reading should say whether the two steps are separable in the physics, as
 that reading needs.
+
+The companion perspective, [LIT-tmp72aic](LIT-tmp72aic.md), was read the same day
+([NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md)). It does not cite this paper. It answers the separability
+question for lysozyme: the two steps separate in order parameter and in
+rate, but early theory separated them only near a liquid–liquid critical
+point, and one theory it cites has the intermediate as a mere density
+fluctuation. It likely carries the argument this paper was filed for;
+whether this paper adds anything can be settled only by reading it.

@@ -66,3 +66,17 @@ is the nucleation threshold. This review is the physics behind the word
 the barrier. A reading should check whether the analogy holds where it
 matters most. In the record the threshold is a count of occurrences. In
 the physics it is a size that depends on supersaturation.
+
+Two readings of 2026-10-11 bear on this chapter. Vekilov 2010
+([LIT-tmp72aic](LIT-tmp72aic.md), [NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md)) confirms that the critical size moves with
+supersaturation, as Δμ⁻³, and reaches one molecule at a solution–crystal
+spinodal. It disputes one takeaway above: near the spinodal, it argues,
+sites act "not by lowering ΔG2*, but by assisting the growth of the
+ordered clusters". That is an inference without substrate data, and a
+reading of this chapter should note the disagreement. Ostwald 1897
+([LIT-tmpabr1n](LIT-tmpabr1n.md), [NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)) gives the qualitative ingredients of a
+critical nucleus (small fragments are more soluble; a fragment can dissolve
+at one supersaturation and grow at another) and thresholds that are a
+degree of supersaturation and a seed size. Neither reading supports a
+threshold that is a count, which bears on this work's link to
+[CLAIM-tmp2jolp](../claims.d/CLAIM-tmp2jolp.md).

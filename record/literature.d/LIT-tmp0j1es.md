@@ -63,3 +63,13 @@ form cannot be grown again. In the record, a framing that has been given a
 code is what later turns point at. A reading should check how strongly the
 paper states irreversibility, and whether it distinguishes seeding from a
 change in the material itself.
+
+Ostwald 1897 ([LIT-tmpabr1n](LIT-tmpabr1n.md), [NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)), read on 2026-10-11, bears on
+both checks. It shows seed power spreading through a laboratory as dust
+and surviving washing, which is the seeding explanation applied to a
+stable form seeding its own solution, not to one polymorph displacing
+another. It also shows seeds that do not last: volatile seeds evaporate,
+unstable ones decompose, heat sterilises. So irreversibility depends on the
+seed being stable, which limits how far "a form once coded seeds
+everything after it" can be pushed. Its salol experiment separates loss of
+seed power from change in the substance.

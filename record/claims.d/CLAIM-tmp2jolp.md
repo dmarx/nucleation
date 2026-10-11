@@ -34,7 +34,7 @@ objected_by:
 - CLAIM-tmpas8q0
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
-<!-- inactive-ok-file: CLAIM-115 CLAIM-tmp4qgbo — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-tmp4qgbo CLAIM-tmpvc1pj — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-tmp2jolp: Recurrence is the nucleation threshold: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
 
@@ -79,3 +79,18 @@ second occurrence across separate sessions, and this filing gives it a code.
   in for every instance of its argument.
 - Whether "second" is the right number, or only a convenient one, has not
   been tested.
+
+## Note of 2026-10-11: what the readings say about the threshold
+
+Two works the claim's analogy draws on were read the same day, and neither
+supports a threshold that is a count. In Ostwald 1897 ([NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)) the
+thresholds are a degree of supersaturation, past which the new phase forms
+without a seed, and a minimum seed size. In Vekilov 2010 ([NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md))
+the critical nucleus is a size, n* = 64Ω²α³/Δμ³, that falls as the driving
+force rises and reaches one molecule at a solution–crystal spinodal. If the
+analogy is kept, the number of occurrences that earns a code should depend
+on how far the exchange is from settling, and at the fast end
+([CLAIM-tmpvc1pj](CLAIM-tmpvc1pj.md)) a first occurrence may be enough. A nucleus is also only a
+point of even odds of growth and decay, so a code at the threshold gives a
+thing an even chance of persisting, no more. None of this tests the
+filing rule itself. It narrows what the physics can be cited for.

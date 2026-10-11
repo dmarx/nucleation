@@ -86,3 +86,14 @@ exchange and that the record could not hold, or could hold only by
 distorting it. The other runs the opposite way: every case of drift the
 record caught was drift by the exchange's own standards, and not only by
 the record's.
+
+## Note of 2026-10-11: what Ostwald's seeds say
+
+Ostwald 1897 ([NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)) supports the narrowed counter, within a
+limit it did not state. Only the solid itself or a strictly isomorphous
+solid seeds, and isomorphous seeds work to the same dilution as identical
+ones, so what a seed passes on is its lattice. But a seed decides only in
+the metastable zone. Past the labile limit the new phase forms without
+one, in the nearest form. Read across, the record's grammar would decide
+how an argument crystallizes only while the exchange is metastable. That is
+an analogy, and the paper does not license it.

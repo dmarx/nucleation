@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-11 from its Crossref record, not read. Registered at the owner''s request for the nucleating-argument line, as the companion of [LIT-tmpom5dr](LIT-tmpom5dr.md), on what it is standardly cited for. No NOTE is filed, and it stays Deferred until it is read, not on merit. No access to a full text was attempted.'
+status: Active
+status_note: 'read in full 2026-10-11 ([NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md)), from the NIHPA author manuscript at PMC2995260; worth reading as the line''s one clear statement, in a single paper, of classical nucleation theory (n* = 64Ω²α³/Δμ³, ΔG* = 32Ω²α³/Δμ²), of where it fails, and of the two things the author puts beside it: a solution–crystal spinodal, past which the nucleus is one molecule and there is no barrier, and the two-step mechanism, in which crystals nucleate inside metastable dense-liquid clusters that form fast, so that ordering inside them is the slow step. Read the sections on the nucleus size and spinodal, the two-step rate law, and the rate-determining step. The quantitative case is one protein, lysozyme. For metastable clusters the mechanism is inferred from a fitted kinetic model, not observed, and the claim that substrates act on the prefactor rather than the barrier is argued, not measured. It complicates [CLAIM-tmp2jolp](../claims.d/CLAIM-tmp2jolp.md): the physical threshold is a size that moves with supersaturation and vanishes near the spinodal, not a fixed count.'
 title: 'Nucleation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-11'
@@ -18,6 +18,20 @@ history:
     its record/ (clone of 2026-10-11, commit d8b5ba5) for "Vekilov" and
     the DOI found nothing, and no anthology topic holds crystal
     nucleation, so ADR-013 does not apply.
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Read in full from PMC2995260, an NIHPA author manuscript
+    (NIHMS252864); whether it is the text before or after peer review is
+    not stated, and the figures, which are images only, were not seen
+    (NOTE-tmpmm4u0). The version-1 takeaways and summary, written before
+    the reading, are corrected: the paper places CNT's error in the
+    prefactor, not in the barrier or the nucleus size, for one protein;
+    it keeps the classical barrier for the nucleus inside the cluster
+    rather than replacing the theory; it credits the two-step idea to
+    simulations of 1997–1999; and it introduces a solution–crystal
+    spinodal, which the version-1 takeaways omitted. Status set from the
+    reading: Active.
 tags:
 - natural-sciences
 - thermodynamics
@@ -29,12 +43,17 @@ keywords:
 - 'nucleation'
 - 'two-step nucleation'
 - 'classical nucleation theory'
+- 'solution–crystal spinodal'
+- 'lysozyme'
 implementations: []
 summary: >-
-  Vekilov (2010), Cryst. Growth Des. 10, 5007. A perspective on the
-  nucleation of crystals from solution: where classical nucleation theory
-  fails, and the two-step mechanism through dense liquid clusters that the
-  author proposes in its place. Not read.
+  Vekilov (2010), Cryst. Growth Des. 10, 5007. For lysozyme, nucleation
+  rates are about ten orders of magnitude below the classical
+  prediction, and the paper places the error in the prefactor. It
+  explains this by a solution–crystal spinodal, past which the barrier
+  vanishes, and by two-step nucleation inside metastable dense-liquid
+  clusters, where ordering is the slow step. The mechanism is inferred
+  from a fitted model for one protein.
 ---
 <!-- inactive-ok-file: LIT-tmpom5dr — Deferred, unread; named as this paper's companion, not for a reading here -->
 <!-- inactive-ok-file: CLAIM-tmp2jolp — Proposed; open, and cited as open: the claim this work is filed for is under test, not settled -->
@@ -45,23 +64,30 @@ Peter G. Vekilov (2010), *Crystal Growth & Design* 10(12), 5007–5019 — DOI-1
 
 ## Key takeaways
 
-*Filed, not read.* Known here by what it is standardly cited for.
+*Read in full* ([NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md)).
 
-- Classical nucleation theory predicts rates and critical sizes that, for
-  crystals from solution and above all for proteins, can be off by many
-  orders of magnitude.
-- The perspective sets out the evidence for nucleation in two steps: a
-  dense liquid cluster first, then a crystalline nucleus inside it.
-- It treats what controls nucleation rates in that picture, and what
-  follows for controlling crystallization.
+- For lysozyme, measured homogeneous nucleation rates are about ten orders
+  of magnitude below the classical estimate. The paper places the error in
+  the prefactor, not the barrier: the barrier is taken from the data.
+- A solution–crystal spinodal, defined kinetically as where the nucleus
+  shrinks to one molecule, explains why rates level off and then pass a
+  maximum as supersaturation and cooling increase.
+- Crystals nucleate inside metastable dense-liquid clusters, which form
+  fast and persist (milliseconds to seconds; populations steady for hours).
+  Ordering inside a cluster is the slow step, and accounts for about 10⁹ of
+  the 10¹⁰ shortfall. For metastable clusters this is inferred from a fitted
+  model, not observed.
+- Near the spinodal, heterogeneous substrates must act by helping clusters
+  order, not by lowering the barrier. Argued, not measured.
 
 ## Standing in the record
 
-Filed on 2026-10-11 beside [LIT-tmpom5dr](LIT-tmpom5dr.md), which states the two-step
-mechanism. This paper is the broader perspective that sets it against
-classical theory. Like its companion, it is not attached to a claim. It
-bears on [CLAIM-tmp2jolp](../claims.d/CLAIM-tmp2jolp.md) in the same way: if nucleation passes through a
-disordered cluster before it orders, the threshold for coding an idea may
-be the recognition of a cluster, not a count of occurrences. A reading
-should establish which of the two papers carries the argument, and whether
-both are needed.
+Read on 2026-10-11 ([NOTE-tmpmm4u0](../notes.d/NOTE-tmpmm4u0.md)), beside [LIT-tmpom5dr](LIT-tmpom5dr.md), which is unread
+and which this paper does not cite. It likely carries the argument that
+[LIT-tmpom5dr](LIT-tmpom5dr.md) was filed for. It complicates [CLAIM-tmp2jolp](../claims.d/CLAIM-tmp2jolp.md) without
+undercutting it: the physical threshold is a size, n* ∝ Δμ⁻³, that moves
+with the driving force and reaches one molecule at the spinodal, where most
+practical crystallization is said to run. A fixed count has no counterpart.
+The two-step reading floated for the line (an idea recurs first as a loose
+cluster, and ordering is the bottleneck) keeps its shape, but nothing in the
+physics corresponds to an outside agent recognizing the cluster.
