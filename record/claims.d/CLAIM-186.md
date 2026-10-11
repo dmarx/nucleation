@@ -37,6 +37,8 @@ uses:
 complements:
 - CLAIM-176
 grounds:
+- LIT-tmpnkkua
+- LIT-tmpv21m0
 - LIT-927
 - LIT-925
 summary: >-
@@ -49,6 +51,7 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 ---
+<!-- inactive-ok-file: LIT-tmp0yq7w LIT-tmpnkkua LIT-tmpv21m0 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
@@ -104,3 +107,28 @@ the same stretch.
   tested without the physics.
 - One exchange, and no slow one to compare it with. The comparison that
   would test it does not exist yet.
+
+## Note of 2026-10-11 (later): settling does not rule out bursts
+
+Generalized stability theory ([LIT-tmpnkkua](../literature.d/LIT-tmpnkkua.md), [LIT-tmp0yq7w](../literature.d/LIT-tmp0yq7w.md), and Trefethen
+et al., [LIT-tmpv21m0](../literature.d/LIT-tmpv21m0.md), all unread here) adds a qualification. When a
+system's operator is non-normal, it can be stable in every mode and still
+amplify a disturbance by a large factor for a while before the disturbance
+decays. Shear flows judged stable by their eigenvalues turn turbulent
+because a transient amplification hands the disturbance to nonlinear
+dynamics.
+
+Read across, an argument that settles in the end can still show a burst of
+drift after a disturbance, and asymptotic settling is not evidence against
+the bursts. A record's dependencies are directed: claims rest on claims.
+Directed, asymmetric coupling is a standard source of non-normality, so a
+change to a claim many others rest on could be amplified through them
+before the argument settles. Two consequences for this claim:
+
+- Drift should be measured over the short run after a disturbance, not only
+  as an average. An average can hide the burst.
+- An argument under development is the nonautonomous case ([LIT-tmp0yq7w](../literature.d/LIT-tmp0yq7w.md)).
+  Its structure changes as it is worked on, so there are no fixed modes to
+  appeal to even in principle.
+
+The bearing is the assistant's reading. Neither paper is about arguments.

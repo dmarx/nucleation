@@ -111,3 +111,13 @@ fits no scheme can still form in the exchange, as Ostwald's labile zone
 forms a phase with no seed, but it does not last and nothing grows on it.
 The record then shapes the argument by deciding what can anchor, not only
 what form a thing takes when it is filed.
+
+## Note of 2026-10-11 (later): the grammar as a constraint set
+
+Viability theory ([THEORY-134](../theory.d/THEORY-134.md)) gives this counter a precise form. Whether
+something persists is relative to a constraint set fixed independently of
+the dynamics, and the theory does not supply that set. For an argument, the
+record's schemes, codes and supersession rules are that set: they say what
+counts as the same claim persisting. [CLAIM-185](CLAIM-185.md)'s note draws the
+consequence. Persistence, and so anchoring, is always persistence as
+something, and the record's grammar decides what.

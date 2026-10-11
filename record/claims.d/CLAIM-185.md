@@ -25,6 +25,7 @@ answers:
 rests_on:
 - CLAIM-177
 grounds:
+- THEORY-134
 - LIT-919
 - LIT-920
 summary: >-
@@ -41,6 +42,7 @@ supports:
 objected_by:
 - CLAIM-184
 ---
+<!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # CLAIM-185: The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
@@ -102,3 +104,29 @@ from rotting silently: a reference to a code that no longer resolves fails.
   persistence is how the physical threshold is defined, which makes the
   analogy hold where a count did not. That is a better analogy, not
   evidence about arguments.
+
+## Note of 2026-10-11 (later): persistence as viability
+
+Read against [THEORY-134](../theory.d/THEORY-134.md) (Aubin's viability theory), persistence has a
+second input this claim did not name. A system persists relative to a
+constraint set K, the states it must stay within, and K is fixed
+independently of the dynamics. Viability is whether some evolution can
+stay in K. [THEORY-134](../theory.d/THEORY-134.md) is explicit that the theory does not supply K: "which
+constraints count as 'required' is the hard question, and viability theory
+takes the answer as given."
+
+For an argument, K is what counts as the same claim persisting: its
+identity criteria. The record supplies them. A code, a version that keeps
+the code, and supersession that names a successor all say what persisting
+means. So "whatever triggers persistence" presupposes a K, and the record
+is what fixes it. That is the same point as the counter [CLAIM-181](CLAIM-181.md) makes
+from the other side: the record's grammar decides what can anchor. On the
+viability reading, the grammar is the constraint set.
+
+[THEORY-134](../theory.d/THEORY-134.md) also separates viability from stability. A regime can return
+to its pattern without being able to keep satisfying what it needs. For an
+argument, a thesis that keeps coming back in some form is stable in that
+sense, but is viable only if it stays the same claim, which is what the
+drift claim ([CLAIM-177](CLAIM-177.md)) says fails without a record. Holling's distinction
+between stability and resilience ([THEORY-132](../theory.d/THEORY-132.md)) is the ecological version of
+the same split.
