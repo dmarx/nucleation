@@ -21,6 +21,8 @@ answers:
 - QUESTION-037
 rests_on:
 - CLAIM-178
+grounds:
+- THEORY-137
 summary: >-
   From U40 of the translation exchange, the first time a generated view
   went back into the conversation (workbench 2026/10/10/040455). The
@@ -28,6 +30,7 @@ summary: >-
   manuscript, and made five moves in reply. One of them was "Nucleation
   itself is a case study". One instance, so Proposed.
 ---
+<!-- inactive-ok-file: THEORY-137 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 
 # CLAIM-183: Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism
@@ -52,3 +55,11 @@ of the case the manuscript is about.
 - It does not say the moves A125 drew from the view were right. A125 also
   overclaimed a link to Noether-type conservation ([CLAIM-093](CLAIM-093.md)).
 - It is one instance.
+
+## Note of 2026-10-11 (later): ascription that shapes its target
+
+[THEORY-137](../theory.d/THEORY-137.md) (Tollefsen) is added as a ground, by analogy. Attributions of
+knowledge to an institution work largely by shaping the institution. "What
+the record holds", read back through its generated views, is such an
+ascription: it shapes the argument it describes. The analogy is the
+filer's; [THEORY-137](../theory.d/THEORY-137.md) is about corporate criminal law.

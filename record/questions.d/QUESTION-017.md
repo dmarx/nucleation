@@ -18,6 +18,7 @@ summary: >-
   tension was never resolved; the manuscript states its recursion "in
   the chosen metric".
 ---
+<!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 THEORY-161 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-017: What bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality?
@@ -46,3 +47,19 @@ inequality with a constant, or a statement that the recursion needs only a
 metric on the target state-distributions while the communicative distortion
 may be directed. Or a showing that no useful compositional bound survives
 without one.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [CLAIM-106](../claims.d/CLAIM-106.md): Pragmatic fidelity is a graded, potentially asymmetric
+  property of transport, not an equivalence relation;…
+- [CLAIM-059](../claims.d/CLAIM-059.md): Repeated reconstruction has three regimes, contracting toward
+  conventions, neutral accumulation and…
+- [CLAIM-186](../claims.d/CLAIM-186.md): How fast an argument grows sets how it grows: drift tracks
+  how fast new material arrives relative to how…
+- [THEORY-161](../theory.d/THEORY-161.md): In the semantic rate–distortion frameworks of 2021–2025,
+  meaning is a latent variable with a known joint…

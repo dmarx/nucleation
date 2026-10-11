@@ -18,6 +18,7 @@ summary: >-
   admonitory, alternating and random frames) would answer it; no data
   exists.
 ---
+<!-- inactive-ok-file: CLAIM-186 THEORY-155 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-068 CLAIM-084 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-014: Does a stable speaker footing measurably reduce pragmatic drift relative to shifting frames, even when both drift lexically?
@@ -36,3 +37,17 @@ Independently sampled chains under stable and shifting frames, scored for
 footing by raters blind to condition ([CLAIM-084](../claims.d/CLAIM-084.md)). The manuscript's §10 Case II is
 the design. A positive answer would bear on [CLAIM-068](../claims.d/CLAIM-068.md): a stable frame may hold a
 chain away from a conventional attractor.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-155](../theory.d/THEORY-155.md): Iterated learning by Bayesian agents who sample from the
+  posterior converges to the shared prior
+- [CLAIM-066](../claims.d/CLAIM-066.md): Kirby, Cornish and Smith show structure emerging under
+  transmission with an experimenter's filter, not…
+- [CLAIM-186](../claims.d/CLAIM-186.md): How fast an argument grows sets how it grows: drift tracks
+  how fast new material arrives relative to how…

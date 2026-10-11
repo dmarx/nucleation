@@ -42,6 +42,8 @@ summary: >-
 supports:
 - CLAIM-157
 - CLAIM-174
+objected_by:
+- CLAIM-tmpczjuu
 ---
 <!-- inactive-ok-file: CLAIM-175 — Proposed; the owner's claim this threshold makes decidable, open -->
 

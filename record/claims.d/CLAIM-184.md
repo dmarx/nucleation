@@ -16,6 +16,7 @@ works:
 objects_to:
 - CLAIM-185
 grounds:
+- THEORY-132
 - LIT-917
 - LIT-920
 summary: >-
@@ -26,6 +27,7 @@ summary: >-
   (unread) and Ostwald (read). The test: do Superseded entries keep
   drawing new citations?
 ---
+<!-- inactive-ok-file: CLAIM-tmptfikp — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-917 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
 
@@ -63,3 +65,12 @@ late in an argument costs no more to replace than one replaced early.
 The check can be run on this record now. Count the citations of each
 Superseded CLAIM and TERM made after its retirement date, and separate
 those acknowledged as history (`inactive-ok`) from the rest.
+
+## Note of 2026-10-11 (later): constancy against resilience
+
+[THEORY-132](../theory.d/THEORY-132.md) (Holling) is added as a ground. Managing a system for constancy
+can erode its resilience, its capacity to absorb change and persist within
+its domain. That is a stronger form of this counter. A record that enforces
+identity strictly maximizes constancy, and may reduce the argument's
+capacity to reframe. [CLAIM-tmptfikp](CLAIM-tmptfikp.md) draws the same point from the
+constraint-set side.

@@ -26,6 +26,9 @@ summary: >-
   synthetic construction are gone.
 illustrated_by:
 - CASE-017
+supports:
+- CLAIM-tmpkkx3m
+- CLAIM-tmpnf0d8
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

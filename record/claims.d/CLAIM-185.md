@@ -39,9 +39,11 @@ summary: >-
 supports:
 - CLAIM-176
 - CLAIM-182
+- CLAIM-tmptfikp
 objected_by:
 - CLAIM-184
 ---
+<!-- inactive-ok-file: CLAIM-tmptfikp — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
@@ -130,3 +132,10 @@ sense, but is viable only if it stays the same claim, which is what the
 drift claim ([CLAIM-177](CLAIM-177.md)) says fails without a record. Holling's distinction
 between stability and resilience ([THEORY-132](../theory.d/THEORY-132.md)) is the ecological version of
 the same split.
+
+## Note of 2026-10-11 (later): persistence is not correctness
+
+[CLAIM-075](CLAIM-075.md) bounds this claim. Viability does not establish what ought to
+persist, and neither does anchoring. A claim can persist, perfectly
+anchored, and be wrong. [CLAIM-tmptfikp](CLAIM-tmptfikp.md) files the constraint-set point
+these notes left open.
