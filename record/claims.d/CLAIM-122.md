@@ -20,6 +20,8 @@ grounds:
 - CASE-003
 objects_to:
 - CLAIM-089
+uses:
+- TERM-023
 summary: >-
   The reply to [CLAIM-089](CLAIM-089.md) (Section 3.5), by precommitment in a person
   and escalation authority in a firm.

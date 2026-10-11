@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'On Ainslie''s account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice''s horizon'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Concept sweep: "the multi-agent self" is marked as "self" in the
+    integrated sense (TERM-tmpg0hhr, sense 6), which this claim had left
+    to context. The claim is otherwise unchanged.
 role: thesis
 defeated_if: >-
   Stable, separately identifiable interests in intertemporal conflict
@@ -23,6 +30,7 @@ grounds:
 - THEORY-067
 uses:
 - TERM-tmpu28lt
+- TERM-tmpg0hhr
 summary: >-
   The record's reading of [THEORY-067](../theory.d/THEORY-067.md), made in answer to the owner's
   prompt of 2026-10-11. Interests are individuated by the delay at
@@ -58,7 +66,8 @@ desynchronization ([TERM-tmpu28lt](../terms.d/TERM-tmpu28lt.md)) comes first, an
 product.
 
 This is why the owner's prompt can treat temporal discounting as the source
-of the multi-agent self and synchronization as its cure. Anything that keeps
+of the multi-agent self, "self" here in the integrated sense
+([TERM-tmpg0hhr](../terms.d/TERM-tmpg0hhr.md), sense 6), and synchronization as its cure. Anything that keeps
 the curves from crossing, or that keeps a crossing from deciding action,
 makes the agent act as one. [CLAIM-tmpf301t](CLAIM-tmpf301t.md) and [CLAIM-tmp7lzto](CLAIM-tmp7lzto.md) are the two
 routes the prompt names.

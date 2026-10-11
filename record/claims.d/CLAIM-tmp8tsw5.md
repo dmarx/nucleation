@@ -38,6 +38,8 @@ complements:
 uses:
 - TERM-tmpq5zvd
 - TERM-tmpgthc0
+- TERM-tmp1913d
+- TERM-tmpg0hhr
 summary: >-
   The record's proposed answer to [QUESTION-tmpm56ps](../questions.d/QUESTION-tmpm56ps.md), joining the
   dual-filed MOM results. Simon's near-decomposability says what to

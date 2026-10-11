@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -19,6 +19,12 @@ history:
     the drive runs one way. On the record's own move, which makes a new
     system and infers no parthood, they form systems too, with a
     hierarchical architecture.
+- version: 4
+  date: '2026-10-11'
+  note: >-
+    Concept sweep: "that an entrained system is a self" is marked as the
+    subject sense (TERM-tmpg0hhr, sense 1), the sense its objection
+    CLAIM-tmpk62ey keeps. The claim is otherwise unchanged.
 role: thesis
 defeated_if: >-
   A mutually entrained pair whose collective variable can be eliminated
@@ -43,6 +49,7 @@ grounds:
 - LIT-571
 uses:
 - TERM-tmpq5zvd
+- TERM-tmpg0hhr
 summary: >-
   The record's reading in answer to the owner's prompt of 2026-10-11,
   "connect extended self to entrainment". Clark & Chalmers' marks of
@@ -109,7 +116,8 @@ for a combined form, not necessary, and it says which kind.
   and a later read, and its writer can be its own future receiver. That is
   the storage route, [CASE-tmp3lyh3](../cases.d/CASE-tmp3lyh3.md). This claim covers the synchronic route
   only.
-- **That an entrained system is a self.** The objection [CLAIM-tmpk62ey](CLAIM-tmpk62ey.md)
+- **That an entrained system is a self in the subject sense**
+  ([TERM-tmpg0hhr](../terms.d/TERM-tmpg0hhr.md), sense 1). The objection [CLAIM-tmpk62ey](CLAIM-tmpk62ey.md)
   presses this, and it is open. A coupled system is at most the extended
   agent's body in the sense the four unities keep apart ([ADR-024](../decisions.d/ADR-024.md)). Which
   unity entrainment supplies, if any, is not argued here.

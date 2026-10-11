@@ -1,7 +1,15 @@
 ---
 status: Active
 title: 'agent (at a level of description)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Concept sweep of the older claims. A "what it is not" entry records how
+    the will paper and the authenticity line use "agent": supposed, not
+    tested (CLAIM-080), and already relative to a level in CLAIM-104. The
+    definition is unchanged.
 tags:
 - agency
 date: '2026-10-11'
@@ -18,7 +26,10 @@ used_by:
 - CLAIM-tmpm5571
 - CLAIM-tmptd6s2
 - CLAIM-tmpwv313
+- CLAIM-tmp8tsw5
+- CLAIM-tmpl4ha3
 ---
+<!-- inactive-ok-file: CLAIM-104 — Deferred; the authenticity line's claim, cited for how it already makes agency level-relative, not leaned on -->
 <!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmpwv313 — Proposed; the criteria this term is defined by, open -->
 
 # TERM-tmp1913d: agent (at a level of description)
@@ -45,3 +56,10 @@ target, and can be wrong given them.
   regimes. A trained policy's training process is an agent on Kenton et
   al.'s account, and need not be willed. That is [TERM-tmpllrr1](TERM-tmpllrr1.md).
 - **Not a self** ([TERM-tmpg0hhr](TERM-tmpg0hhr.md)).
+- **Not the will paper's "agent".** The will paper and the authenticity line
+  use "agent" for an agent *supposed*, not tested ([CLAIM-080](../claims.d/CLAIM-080.md): "the account
+  asks how a given agent's practical efficacy is organized, not what makes
+  something an agent"). On the tiers those agents are willed agents
+  ([TERM-tmpllrr1](TERM-tmpllrr1.md)). The older claims are not rewritten. Their sense is
+  recorded here. [CLAIM-104](../claims.d/CLAIM-104.md)'s "an encompassing agent" and "agents at one
+  level" already make agency relative to a level, as this term does.
