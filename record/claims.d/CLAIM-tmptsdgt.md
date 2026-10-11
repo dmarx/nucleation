@@ -45,6 +45,8 @@ objected_by:
 - CLAIM-tmpk62ey
 illustrated_by:
 - CASE-tmpk52n6
+complements:
+- CLAIM-tmp8tsw5
 ---
 <!-- inactive-ok-file: CLAIM-tmpigdl0 CLAIM-tmpk62ey — Proposed; the earlier objection this bears on and the open objection to this claim -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->

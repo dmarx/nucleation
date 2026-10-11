@@ -30,6 +30,8 @@ summary: >-
   caution on every boundary criterion filed beside it ([CLAIM-tmp45kkg](CLAIM-tmp45kkg.md),
   [CLAIM-tmpdqsrb](CLAIM-tmpdqsrb.md)). It does not say boundaries are arbitrary, only that
   each is relative to a stated target.
+supports:
+- CLAIM-tmp8tsw5
 ---
 <!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 <!-- inactive-ok-file: CLAIM-tmpdqsrb CLAIM-tmpygda8 — Proposed; the boundary claims this caution disciplines, open -->

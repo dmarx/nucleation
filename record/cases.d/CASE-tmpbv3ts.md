@@ -18,6 +18,8 @@ summary: >-
   self.
 supports:
 - CLAIM-tmpygda8
+variants:
+- CASE-tmpazmsq
 ---
 
 # CASE-tmpbv3ts: A partner-dancing couple, lindy hop, tango or salsa, while they dance

@@ -39,6 +39,8 @@ summary: >-
   nearly independently, and interact slowly and only in aggregate. In
   social systems the higher levels have the slower dynamics and the longer
   intervals between interactions.
+supports:
+- CLAIM-tmp8tsw5
 ---
 <!-- inactive-ok-file: ADR-037 — Proposed; the decision under which the dual holding is named -->
 <!-- inactive-ok-file: CLAIM-tmpigdl0 CLAIM-tmptsdgt — Proposed; claims this reading bears on, open -->

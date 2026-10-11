@@ -34,6 +34,8 @@ summary: >-
   the data added about it. In this record it prices the boundary tests for
   a combined form: a near-decomposable block ([LIT-tmp6qp14](../literature.d/LIT-tmp6qp14.md)) earns a name
   when its gap beats its Occam factor. Re-checked here in the conjugate case.
+supports:
+- CLAIM-tmp8tsw5
 ---
 <!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 <!-- inactive-ok-file: CLAIM-tmpygda8 — Proposed; the owner's claim this threshold makes decidable, open -->

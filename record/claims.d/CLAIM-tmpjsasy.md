@@ -36,6 +36,8 @@ summary: >-
   enough.
 complements:
 - CLAIM-tmp45kkg
+supports:
+- CLAIM-tmp8tsw5
 ---
 <!-- inactive-ok-file: ADR-037 — Proposed; the decision this entry is filed under -->
 
