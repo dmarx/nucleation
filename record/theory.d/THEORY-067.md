@@ -50,6 +50,8 @@ summary: >-
   way is argued, and the précis concedes it is hard to test directly. It
   is a claim about how control is achieved, not about whose control is
   self-governance.
+supports:
+- CLAIM-tmpmf12z
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; the rival account, declared -->
 <!-- inactive-ok-file: LIT-583 LIT-573 — Deferred; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
