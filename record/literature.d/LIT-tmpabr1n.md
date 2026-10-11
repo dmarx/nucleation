@@ -56,6 +56,7 @@ summary: >-
   energy, not the most stable. Offered as a frequent rule, not a law.
 supports:
 - CLAIM-tmpu984q
+- CLAIM-tmptw11r
 ---
 <!-- inactive-ok-file: CLAIM-tmpas8q0 CLAIM-tmp2jolp — Proposed; open, and cited as open: the claims this reading bears on are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the claim this work is filed for is under test, not settled -->

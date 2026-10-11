@@ -1,0 +1,62 @@
+---
+status: Proposed
+title: 'Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record''s remedy only if superseded anchors stop attracting new structure'
+version: 1
+role: counter
+tags:
+- design-rationale
+- epistemology
+date: '2026-10-11'
+line: nucleating-argument
+works:
+- luria-nucleating-an-argument
+objects_to:
+- CLAIM-tmpu984q
+grounds:
+- LIT-tmp0j1es
+- LIT-tmpabr1n
+summary: >-
+  The cost side of the owner's reframing ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), proposed by
+  the assistant on 2026-10-11 and filed at the owner's request. If
+  persistence is what lets structure grow, it also lets early framings
+  grow structure that is costly to undo. Grounded on Dunitz & Bernstein
+  (unread) and Ostwald (read). The test: do Superseded entries keep
+  drawing new citations?
+---
+<!-- inactive-ok-file: CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
+<!-- inactive-ok-file: LIT-tmp0j1es — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
+
+# CLAIM-tmptw11r: Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
+
+## The claim
+
+If persistent structures are what more complex structure grows on
+([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), the first structures to persist get built on first. An
+early framing, given a code, gathers claims that rest on it, objections to
+it and terms defined against it. Replacing it later means re-anchoring all
+of that.
+
+The physics read for this line has the extreme case. Dunitz & Bernstein
+([LIT-tmp0j1es](../literature.d/LIT-tmp0j1es.md), unread) are cited for crystal forms that could no longer be
+made once a more stable form had appeared, because seeds of the new form
+were everywhere. Ostwald ([LIT-tmpabr1n](../literature.d/LIT-tmpabr1n.md), [NOTE-tmpn2e2e](../notes.d/NOTE-tmpn2e2e.md)) shows the mechanism
+at the bench: once a room has been used for alum, a supersaturated drop
+cannot be kept free of seeds, and a single stray seed revives a sterilized
+batch (pp. 291, 324). Luria names the same danger on the record side. It is
+named for a mnemonist whose total recall crowded out meaning ([LU-ADR-011](https://github.com/dmarx/luria/blob/main/record/decisions.d/ADR-011.md)).
+
+The record's remedy is retirement by status. A Superseded claim stays,
+with its successor named, so that what pointed at it still resolves, and a
+reader is sent on. That works only if new structure stops growing on the
+retired anchor.
+
+## What would answer it
+
+Two findings would. The first: Superseded entries draw almost no new
+citations after retirement, other than citations of them as history, so
+supersession does turn growth off. The second: a framing replaced
+late in an argument costs no more to replace than one replaced early.
+
+The check can be run on this record now. Count the citations of each
+Superseded CLAIM and TERM made after its retirement date, and separate
+those acknowledged as history (`inactive-ok`) from the rest.

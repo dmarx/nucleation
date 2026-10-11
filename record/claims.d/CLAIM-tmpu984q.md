@@ -34,6 +34,9 @@ summary: >-
   the generalization is stated, not tested.
 supports:
 - CLAIM-tmp2jolp
+- CLAIM-tmpdj0qe
+objected_by:
+- CLAIM-tmptw11r
 ---
 <!-- inactive-ok-file: CLAIM-tmp2jolp CLAIM-tmp4qgbo CLAIM-tmpvc1pj — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 

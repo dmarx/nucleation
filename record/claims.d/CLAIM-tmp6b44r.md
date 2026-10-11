@@ -30,6 +30,7 @@ summary: >-
   flooding. This claim states why. Proposed: the record has run for one
   week.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmp2jolp — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Deferred; cited for the argument ADR-030 summarises them for, not for a reading here -->
 
@@ -61,3 +62,12 @@ failure mode becomes flooding, and why the second-occurrence throttle
   to correct what an assistant said about the record.
 - It does not say the owner's review costs nothing. A week of operation is
   no evidence that the owner will keep reviewing.
+
+## Note of 2026-10-11: flooding as unused anchors
+
+Under the owner's reframing ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), the cost of capture is the
+cost of making things persist, and flooding is persistence without use: a
+code that no later entry points at. That makes over-capture measurable as
+codes with no inbound references, beyond those that are new. Whether an
+anchor goes unused because it was filed too eagerly, or because it is not
+discoverable ([QUESTION-tmpw6fmc](../questions.d/QUESTION-tmpw6fmc.md)), the count alone cannot say.

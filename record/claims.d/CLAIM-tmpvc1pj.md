@@ -1,13 +1,23 @@
 ---
 status: Proposed
-title: 'How fast an argument grows sets how it grows: a fast, prolific exchange branches and drifts, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument partly by slowing its growth, not only by supplying sites'
-version: 1
+title: 'How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Restated after the owner's reframing of the threshold as persistence
+    (CLAIM-tmpu984q). Version 1 put the variable in pace alone and
+    credited the second-occurrence rule with slowing growth. The
+    variable is now the rate of new material relative to the rate of
+    anchoring, which can be measured as turns per filed entry.
 role: thesis
 defeated_if: >-
-  Exchanges slowed down, by fewer turns per hour or by filing between
-  turns, show as much silent redefinition and unannounced change of
-  thesis per turn as fast ones. Or drift is found to track something
-  other than pace (topic, owner, model) once pace is held fixed.
+  Across stretches of exchanges, the rate of silent redefinition and
+  unannounced change of thesis does not track the ratio of new material
+  to filed entries (turns per anchor). Or slowing an exchange without
+  anchoring anything reduces drift as much as anchoring does at the same
+  pace, so that pace alone, not anchoring, is what matters.
 tags:
 - design-rationale
 - epistemology
@@ -34,10 +44,11 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 ---
+<!-- inactive-ok-file: CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-tmp2jolp CLAIM-tmp5o4dd CLAIM-tmpas8q0 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
-# CLAIM-tmpvc1pj: How fast an argument grows sets how it grows: a fast, prolific exchange branches and drifts, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument partly by slowing its growth, not only by supplying sites
+# CLAIM-tmpvc1pj: How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival
 
 ## The claim
 
@@ -61,11 +72,20 @@ asked for. The translation exchange shows what the branching looks like:
   drafted into C7 ([CLAIM-tmp5o4dd](CLAIM-tmp5o4dd.md)). The second, A203, dropped Tannaka and
   two open problems in the crystallization itself.
 
-The record acts on growth rate as well as on nucleation. Filing between
-turns is a pause. The second-occurrence rule ([CLAIM-tmp2jolp](CLAIM-tmp2jolp.md)) declines to
-grow anything that has not come back. Lint fails a filing whose
-references do not resolve. Each of these lowers the effective supersaturation,
-so the argument faces over instead of branching.
+The record acts on growth by anchoring, not only by pausing. Under the
+owner's reframing ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), what lets structure grow in order is a
+persistent anchor for it to grow on. Drift then happens where material
+arrives faster than it is anchored: proposals that are never coded have to
+be restated, and restating is where redefinition creeps in. Filing between
+turns, the second-occurrence rule ([CLAIM-tmp2jolp](CLAIM-tmp2jolp.md)), and the other triggers
+of persistence each raise the anchoring rate. Pace matters because it sets
+how fast material arrives, and the ratio is what decides whether the
+argument faces over or branches.
+
+The ratio can be measured. In a reconstructed exchange, count the turns in
+a stretch against the entries filed for it, and set that against the
+re-derivations and unannounced changes of thesis the workbench records for
+the same stretch.
 
 ## What it does not say
 

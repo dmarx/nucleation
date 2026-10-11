@@ -34,6 +34,7 @@ summary: >-
   seeding by stray nuclei of the new form. Not read.
 supports:
 - CLAIM-tmpas8q0
+- CLAIM-tmptw11r
 ---
 <!-- inactive-ok-file: CLAIM-tmpas8q0 — Proposed; open, and cited as open: the claim this work is filed for is under test, not settled -->
 

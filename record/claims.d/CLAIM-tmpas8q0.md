@@ -27,6 +27,7 @@ summary: >-
   declined to code, and the literature roles that "recurred" but stay in
   prose ([ADR-032](../decisions.d/ADR-032.md)).
 ---
+<!-- inactive-ok-file: CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-756 — Deferred; cited for the argument ADR-030 summarises it for, not for a reading here -->
 
 # CLAIM-tmpas8q0: The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost
@@ -97,3 +98,13 @@ the metastable zone. Past the labile limit the new phase forms without
 one, in the nearest form. Read across, the record's grammar would decide
 how an argument crystallizes only while the exchange is metastable. That is
 an analogy, and the paper does not license it.
+
+## Note of 2026-10-11: the grammar decides what can anchor
+
+The owner's reframing ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)) strengthens this counter. Only what
+fits one of the record's schemes can be given a code, so only that can
+persist as an anchor and have later structure grow on it. Structure that
+fits no scheme can still form in the exchange, as Ostwald's labile zone
+forms a phase with no seed, but it does not last and nothing grows on it.
+The record then shapes the argument by deciding what can anchor, not only
+what form a thing takes when it is filed.

@@ -32,6 +32,7 @@ objected_by:
 supports:
 - CLAIM-tmpors2p
 ---
+<!-- inactive-ok-file: CLAIM-tmpdj0qe CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
@@ -72,3 +73,12 @@ a claim that is still Proposed and that the work no longer includes.
   the draft is checked against.
 - It does not say that every change of thesis made in a draft is wrong. It
   says the change should be visible.
+
+## Note of 2026-10-11: why drafts lose material silently
+
+Under the owner's reframing ([CLAIM-tmpu984q](CLAIM-tmpu984q.md)), this claim gets a mechanism.
+A draft persists, but its claims are not addressable one by one, so nothing
+rests on them ([CLAIM-tmpdj0qe](CLAIM-tmpdj0qe.md)). When a draft drops one, no reference breaks
+and nothing reports the loss. A claim in the record is an anchor. Dropping
+it from a work leaves its inbound references standing and its `works`
+membership visibly gone.
