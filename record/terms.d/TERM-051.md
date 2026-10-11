@@ -4,7 +4,14 @@ status: Active
 formerly:
 - TERM-tmpuyzeb
 title: 'drive profile'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    The name is settled. The owner deferred the choice, and "drive
+    profile" is kept over the alternatives, for the reasons under "Why
+    this name". The definition is unchanged.
 tags:
 - agency
 - complex-systems
@@ -16,14 +23,14 @@ summary: >-
   member drives, the members drive each other, or the drive is diffuse.
   Across levels: aggregate, top-down, bidirectional or emergent, read
   from the information decomposition's downward-causation and
-  causal-decoupling terms. A profile is time-indexed. The name is
-  provisional.
+  causal-decoupling terms. A profile is time-indexed.
 used_by:
 - CLAIM-158
 - CLAIM-159
 - CLAIM-166
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the claim that made direction an architecture, open -->
+<!-- inactive-ok-file: CLAIM-155 — Proposed; its tier names are why one rejected name would blur, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question kept apart -->
 <!-- inactive-ok-file: THEORY-133 THEORY-069 — Proposed; readings the definition borrows its cases from, with their standing as it is -->
 
@@ -68,5 +75,18 @@ sequence of profiles is the system's drive history.
   [THEORY-133](../theory.d/THEORY-133.md), not settled once.
 - **Not free of choices.** The decomposition depends on the macro-variable
   and coordinates ([LIT-025](../literature.d/LIT-025.md) defends this), so profiles are relative to them.
-- **The name is provisional.** It was offered in chat on 2026-10-11 and is
-  not chosen by the owner.
+
+## Why this name
+
+The owner deferred the choice on 2026-10-11: "I'll defer too you on the
+nae question." The name is kept.
+
+- **"Drive"** is the question the term answers, "who drives?", in the
+  words the owner asked it in.
+- **"Profile"** says it is a reading across axes, at a time and for a
+  target, not a property the system has once and for all.
+- **"Control architecture"** was rejected. "Architecture" already names
+  the within-level axis, and "control system" is the lowest tier of
+  the nesting in [CLAIM-155](../claims.d/CLAIM-155.md). The name would blur both.
+- **"Causal regime"** was rejected. "Regime" is the will paper's
+  action-generating regime ([TERM-019](TERM-019.md)), a different thing.

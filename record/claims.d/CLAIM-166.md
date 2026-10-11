@@ -41,6 +41,7 @@ summary: >-
 illustrated_by:
 - CASE-047
 ---
+<!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
 

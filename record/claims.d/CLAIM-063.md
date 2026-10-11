@@ -26,6 +26,7 @@ summary: >-
 argued_by:
 - ARG-006
 ---
+<!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body applies the term without naming it -->
 
 # CLAIM-063: A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves
 

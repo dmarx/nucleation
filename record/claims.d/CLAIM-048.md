@@ -28,6 +28,7 @@ summary: >-
   conditional generation "part of the central theory, not merely an
   application at the end". Revised at A102 with structuralism.
 ---
+<!-- ref::uses-file: TERM-010 — stated in "fidelity, as a weighted three-term directed distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-026 CLAIM-036 CLAIM-120 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-048: Communication transports structures of observational constraints rather than invariant semantic objects, and translation, language-model reconstruction and conditional image generation are realizations of one process

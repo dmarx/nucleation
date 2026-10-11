@@ -46,7 +46,7 @@ It is the abstract form of what the mother's translation did to [CLAIM-020](CLAI
 
 ## Why it was replaced
 
-The manuscript sharpens "selected structure" into decision problems: fidelity
+The manuscript sharpens "selected structure" into decision problems: fidelity ([TERM-033](../terms.d/TERM-033.md)<!-- ref::uses: TERM-033 -->)
 relative to the decisions the receiver must make, compared by Blackwell's order
 ([CLAIM-050](CLAIM-050.md)), with "no universal choice of weights or observational tasks" (§6) and
 the choice "itself normative and empirically contestable" (§11).

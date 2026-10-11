@@ -2,7 +2,7 @@
 number: 168
 status: Proposed
 formerly:
-- CLAIM-tmpm5571
+- CLAIM-168
 title: 'Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find'
 version: 1
 role: counter
@@ -42,7 +42,7 @@ There are two presuppositions.
   agent already warranted as one". [CLAIM-080](CLAIM-080.md) makes the supposition
   explicit: "the account asks how a given agent's practical efficacy is
   organized, not what makes something an agent". The paper chose this
-  because every attempt to derive the agent produced the permissiveness
+  because every attempt to derive the agent ([TERM-044](../terms.d/TERM-044.md)<!-- ref::uses: TERM-044 -->) produced the permissiveness
   objection ([CLAIM-010](CLAIM-010.md); [QUESTION-009](../questions.d/QUESTION-009.md)'s history).
 - **The formal agent test also starts from a given system.** Orseau, McGill
   & Legg ([LIT-911](../literature.d/LIT-911.md)) compute the probability that a system is an agent

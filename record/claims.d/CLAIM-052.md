@@ -29,6 +29,7 @@ summary: >-
 supports:
 - CLAIM-117
 ---
+<!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -46,4 +47,4 @@ the reverse order."
 ## What it does not say
 
 Nothing about nonclassicality ([CLAIM-041](CLAIM-041.md)). It is untested; [CASE-021](../cases.d/CASE-021.md) and the
-manuscript's Case II (alternating frames) would test it. [CLAIM-117](CLAIM-117.md) rests on it.
+manuscript's Case II (alternating frames ([TERM-026](../terms.d/TERM-026.md)<!-- ref::uses: TERM-026 -->)) would test it. [CLAIM-117](CLAIM-117.md) rests on it.
