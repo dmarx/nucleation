@@ -23,6 +23,7 @@ summary: >-
   "objects" and never argues the general version.
 answered_by:
 - CLAIM-139
+- CLAIM-tmpdfqoo
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of the thesis, whose earlier changes went unannounced -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-151 CLAIM-136 CLAIM-134 CLAIM-138 CLAIM-137 CLAIM-142 CLAIM-135 — Proposed; open, and cited as open: the theses and objections that bear on this question are under test, not settled -->

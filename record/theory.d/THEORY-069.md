@@ -46,6 +46,7 @@ supports:
 - CLAIM-045
 - CLAIM-110
 - CLAIM-tmpigdl0
+- CLAIM-tmptsdgt
 ---
 <!-- inactive-ok-file: LIT-588 LIT-578 — Deferred; HKB 1985 and Dynamic Patterns, named as the unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->
