@@ -6,6 +6,11 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [11 Oct 06:03 — Two formal definitions of agency, read for the agent-as-jurisdiction thesis](2026-10.md#two-formal-definitions-of-agency-read-for-the-agent-as-jurisdiction-thesis)
+- [11 Oct 05:31 — Two reviews on gut microbes, appetite and mood, read for the owner's microbiome example](2026-10.md#two-reviews-on-gut-microbes-appetite-and-mood-read-for-the-owners-microbiome-example)
+- [11 Oct 02:58 — Mathematics of Meaning registered as MOM; five entries dual-filed for system boundaries](2026-10.md#mathematics-of-meaning-registered-as-mom-five-entries-dual-filed-for-system-boundaries)
+- [11 Oct 02:26 — Coordinative structures and the holon: six works filed, Simon read](2026-10.md#coordinative-structures-and-the-holon-six-works-filed-simon-read)
+- [11 Oct 00:33 — Flow and mindfulness-and-discounting: five works registered unread for the synchronization claims](2026-10.md#flow-and-mindfulness-and-discounting-five-works-registered-unread-for-the-synchronization-claims)
 - [10 Oct 05:46 — Floridi's line on artificial agency: six works filed, all read](2026-10.md#floridis-line-on-artificial-agency-six-works-filed-all-read)
 - [10 Oct 04:04 — Four works registered unread to ground claims from the U40–U60 reconstruction](2026-10.md#four-works-registered-unread-to-ground-claims-from-the-u40u60-reconstruction)
 - [9 Oct 20:36 — Thirteen works on hierarchy and hyperbolic geometry](2026-10.md#thirteen-works-on-hierarchy-and-hyperbolic-geometry)
@@ -44,9 +49,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-82 entries across 2 books, newest first.
+87 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 35 | 2026-10-01 | 2026-10-10 |
+| [2026-10](2026-10.md) | 40 | 2026-10-01 | 2026-10-11 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

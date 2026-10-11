@@ -6,8 +6,8 @@
 
 **Personhood** — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-0 of 151 CLAIM documents. Back to the [full index](../README.md).
+1 of 175 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-161](../../../record/claims.d/CLAIM-161.md) | A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states | Dual-filed from [MOM-CLM-153](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-153.md) ([ADR-037](../../../record/decisions.d/ADR-037.md)). The corpus's selfhood condition, that some map φ preserves a coherence score γ, is satisfied by any two systems with similar scores. Requiring the map to be the system's own evolution Φ_Δt makes selfhood approximate conservation of γ along the trajectory: γ is an approximate first integral, and the defect is a number. Proposed here because γ is unspecified. | Proposed |

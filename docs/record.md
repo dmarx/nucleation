@@ -191,6 +191,7 @@ A prefixed code reaches into another project's record, so a citation says whose 
 | `ARXIV-ADR-001` | arXiv | — | main |
 | `DOI-ADR-001` | DOI | — | main |
 | `ANTH-LIT-001` | Anthology of the SOTA | dmarx/anthology-of-the-sota | main |
+| `MOM-CLM-001` | Mathematics of Meaning | dmarx/mathematics-of-meaning | main |
 | `LU-DP-001` | luria | dmarx/luria | main |
 | `FX-ADR-001` | fixtures | — | main |
 

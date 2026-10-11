@@ -6,7 +6,7 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
 
-4 of 43 TERM documents. Back to the [full index](../README.md).
+5 of 51 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [TERM-022](../../../record/terms.d/TERM-022.md) | communicative object, as an intersection of constraint regions | The owner at U28 and A75: an observation o with value v picks out R(o, v) = {s : o(s) = v}, and an object is the intersection of such regions, generally a region rather than a point. Generalized at U29 to local sections; the manuscript keeps it as the special case with a shared ambient space (§2). | Superseded — by [TERM-002](../../../record/terms.d/TERM-002.md) |
 | [TERM-040](../../../record/terms.d/TERM-040.md) | communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position | A repeatable organization of relations among participants, norms, commitments and expected responses, which numerically distinct events (an utterance, its translation, a picture of it) can each realize. It recurs from A191 through A218, and it replaced "communicative object" in A218, which never uses the older phrase. A218 gives it no formal definition. | Active |
 | [TERM-041](../../../record/terms.d/TERM-041.md) | character-like structural signature, as a realization-independent invariant of a communicative kind, called a character only when it is the trace of a specified representation | A proposed invariant χ_A of a communicative kind, the same across the kind's realizations and required to keep independently specified pragmatic and decision-relevant distinctions. A203 §36 fixed the usage: "character" literally only for the trace character of a specified representation, otherwise "character-like structural signature". None has yet been constructed for any communicative case. | Active |
+| [TERM-049](../../../record/terms.d/TERM-049.md) | combined form | A candidate system drawn from more than one member (two dancers, a person and a tool, a firm's teams), counted as one system relative to a stated target while it clears the threshold criterion of [CLAIM-157](../../../record/claims.d/CLAIM-157.md). The record's neutral word for what such a whole is, used before asking whether it is an agent or a self. | Active |

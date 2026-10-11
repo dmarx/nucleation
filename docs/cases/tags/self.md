@@ -6,8 +6,8 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+1 of 51 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-046](../../../record/cases.d/CASE-046.md) | A partner-dancing couple, lindy hop, tango or salsa, while they dance | The owner's case (2026-10-11). Two social dancers improvise together. The lead proposes through the frame, the follow interprets and adds styling, and each corrects for the other's balance and timing. Neither alone decides where the next step lands. Used to ask what the pair is while dancing, and only after that whether it is a self. | Active |

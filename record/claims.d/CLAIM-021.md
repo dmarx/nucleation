@@ -14,6 +14,8 @@ works:
 - organization-of-will
 objects_to:
 - CLAIM-024
+uses:
+- TERM-023
 summary: >-
   Conceded to [CLAIM-024](CLAIM-024.md): the claimed novelty is a common explanatory
   role across realizers, not a mechanism (Sections 3.7, 7.1).

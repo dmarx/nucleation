@@ -6,8 +6,9 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+2 of 35 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-033](../../../record/questions.d/QUESTION-033.md) | In a system described at more than one level, does "who drives?" have an answer at a given level, and what kinds of answer are there? | The owner's agency question of 2026-10-11, which follows from the threshold criterion ([QUESTION-035](../../../record/questions.d/QUESTION-035.md)): once a combined form is one system, which part or level, if any, drives it? The owner proposes a spectrum of kinds (top-down, bidirectional, emergent) and holds that the answer changes over time. It sharpens [QUESTION-009](../../../record/questions.d/QUESTION-009.md) by asking about drive before asking about agency. | Open |
+| [QUESTION-034](../../../record/questions.d/QUESTION-034.md) | If an agent is a population of interests, what makes it act as one: bargaining among the interests, a change in which of them may act, or agreement among them? | The owner's prompt of 2026-10-11: the self as a multi-agent system, connected to synchronization through temporal discounting, mindfulness and flow. It sharpens [QUESTION-015](../../../record/questions.d/QUESTION-015.md) for the case the record already reads as a population ([THEORY-067](../../../record/theory.d/THEORY-067.md)) and asks whether the three are three routes to integration, distinguished by what each does to the crossing of the interests' valuations. Open: every answer filed is Proposed. | Open |

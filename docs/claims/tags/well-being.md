@@ -6,8 +6,8 @@
 
 **Well-being** — how well a life goes for the one living it, as psychology measures it — subjective and eudaimonic well-being, flourishing, vitality and meaning in life, and what predicts them (ADR-025).
 
-0 of 151 CLAIM documents. Back to the [full index](../README.md).
+1 of 175 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-162](../../../record/claims.d/CLAIM-162.md) | Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless | The record's own conjecture, made in answer to the owner's prompt of 2026-10-11. It is grounded only weakly: the effort-cost account is a reading, and the flow literature is registered unread. It says that in flow there is nothing for will to do. It does not say flow is the best or the normal way to act as one. | Proposed |

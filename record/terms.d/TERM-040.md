@@ -24,6 +24,9 @@ used_by:
 - CLAIM-137
 - CLAIM-139
 - CLAIM-151
+- CLAIM-129
+- CLAIM-146
+- CLAIM-148
 ---
 
 # TERM-040: communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position

@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-9 lines, walked from `rests_on:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+10 lines, walked from `rests_on:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -13,6 +13,16 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-016](../record/claims.d/CLAIM-016.md) — An organized agent's will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization *(Deferred)*
   - [CLAIM-096](../record/claims.d/CLAIM-096.md) — Where several agents share an environment, the realization of one agent's will changes the conditions under which others can realize theirs, and that interaction is itself a normative object *(Deferred)*
   - [CLAIM-104](../record/claims.d/CLAIM-104.md) — Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level *(Deferred)*
+
+## distributed-agency
+
+### From Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal
+
+- [CLAIM-152](../record/claims.d/CLAIM-152.md) — Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal *(Active)*
+  - [CLAIM-157](../record/claims.d/CLAIM-157.md) — Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member *(Proposed)* — also extends CLAIM-154, CLAIM-164
+    - [CLAIM-174](../record/claims.d/CLAIM-174.md) — A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization *(Proposed)* — also extends CLAIM-154
+- [CLAIM-154](../record/claims.d/CLAIM-154.md) — A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio *(Active)*
+- [CLAIM-164](../record/claims.d/CLAIM-164.md) — What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide *(Active)*
 
 ## pragmatic-transport
 
@@ -100,4 +110,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-047](../record/claims.d/CLAIM-047.md) — Possessing an action-generating regime is not the same as its being practically effective *(Active)*
   - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes *(Proposed)* — also extends CLAIM-080
+    - [CLAIM-156](../record/claims.d/CLAIM-156.md) — Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were *(Proposed)* — also extends CLAIM-169
 - [CLAIM-080](../record/claims.d/CLAIM-080.md) — The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent *(Active)*
+- [CLAIM-169](../record/claims.d/CLAIM-169.md) — On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon *(Proposed)*
+  - [CLAIM-162](../record/claims.d/CLAIM-162.md) — Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless *(Proposed)*

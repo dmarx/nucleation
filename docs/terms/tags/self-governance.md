@@ -6,10 +6,12 @@
 
 **Self-governance** — governing oneself by standards that are one's own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024).
 
-3 of 43 TERM documents. Back to the [full index](../README.md).
+5 of 51 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-006](../../../record/terms.d/TERM-006.md) | organizational authenticity | A graded property: how far an agent's operative commitments arise through, remain integrated with, and are answerable to its own constitutive organization (A252). Set aside with its line on 2026-10-05. | Deferred |
 | [TERM-012](../../../record/terms.d/TERM-012.md) | cross-scale concordance | A graded relational property of how an encompassing agent's governing organization stands to the capacities of its constituents and dependencies (A249). Defined at least five ways in the exchange; set aside as future work. | Deferred |
 | [TERM-023](../../../record/terms.d/TERM-023.md) v2 | will-organization | The maintained organization of relations governing the conditions under which an agent's available action-generating regimes acquire, retain, lose, or alter practical efficacy (Section 3.2). | Active |
+| [TERM-047](../../../record/terms.d/TERM-047.md) v2 | jurisdiction of a will-organization | The set of action-generating regimes whose practical efficacy a given will-organization governs: those for which it maintains the conditions under which they acquire, retain, lose or alter efficacy. Its outer reach, as distinct from [TERM-017](../../../record/terms.d/TERM-017.md)'s jurisdiction, which is one relation inside a will-organization. | Active |
+| [TERM-048](../../../record/terms.d/TERM-048.md) | willed agent | An agent ([TERM-044](../../../record/terms.d/TERM-044.md)) whose behaviour is governed by a will-organization ([TERM-023](../../../record/terms.d/TERM-023.md)) over several action-generating regimes, and which is individuated as that will-organization's jurisdiction ([TERM-047](../../../record/terms.d/TERM-047.md)). The middle tier between agency and selfhood; the owner's name, 2026-10-11. | Active |

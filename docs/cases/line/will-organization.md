@@ -6,7 +6,7 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious.
 
-6 of 42 CASE documents. Back to the [full index](../README.md).
+7 of 51 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -16,3 +16,4 @@
 | [CASE-016](../../../record/cases.d/CASE-016.md) | The Dual State: normative and prerogative authority in National Socialist Germany | Fraenkel's analysis: ordinary legal norms kept governing large domains while a prerogative order held authority over whether they bound at all. Used for one structural point only. | Active |
 | [CASE-023](../../../record/cases.d/CASE-023.md) | Northstar | A fictional software company whose stated policy gives reliability priority over release speed, and whose escalation and authority structures may make speed effective anyway. The paper's worked case, in several variants. | Active |
 | [CASE-036](../../../record/cases.d/CASE-036.md) | Northstar emergency governance that sustains itself | A service failure activates emergency governance whose restrictions defer maintenance, generating anomalies that satisfy the emergency criteria and keep the restrictions in place (Section 6.1). | Active |
+| [CASE-051](../../../record/cases.d/CASE-051.md) | The absorbed writer | The reluctant writer ([CASE-013](../../../record/cases.d/CASE-013.md)) on a third afternoon. The draft is going well and email stays open and unblocked, but it does not win, and no rule or device is invoked. A notification breaks the spell, and getting back in takes effort. It shows integration with nothing to integrate, beside the lapse and the precommitment. | Active |

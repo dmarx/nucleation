@@ -22,6 +22,7 @@ rests_on:
 - CLAIM-052
 uses:
 - TERM-007
+- TERM-024
 summary: >-
   A30's commuting diagram for pragmatic fidelity, developed in the
   manuscript §9 as intertwining defects and the commutator-distortion
@@ -50,6 +51,6 @@ static pragmatic judgment."
 
 ## What it does not say
 
-That noncommutativity is quantum ([CLAIM-041](CLAIM-041.md)). The identity is algebra (checked in the
+That noncommutativity ([TERM-024](../terms.d/TERM-024.md)) is quantum ([CLAIM-041](CLAIM-041.md)). The identity is algebra (checked in the
 workbench entry of 2026-10-09); the claim that the defects matter for fidelity
 is empirical and untested.
