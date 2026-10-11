@@ -64,7 +64,7 @@ Three reasons they should:
    musician "are not one system" is the sense that they are not one
    *agent* or *self*. [QUESTION-035](../questions.d/QUESTION-035.md) asks only whether they are one
    *system* relative to a target, and keeps agency ([QUESTION-009](../questions.d/QUESTION-009.md)) and
-   selfhood ([ADR-024](../decisions.d/ADR-024.md)) for later. Take the target "predict the musician's
+   selfhood ([TERM-045](../terms.d/TERM-045.md)<!-- ref::uses: TERM-045 -->) ([ADR-024](../decisions.d/ADR-024.md)) for later. Take the target "predict the musician's
    timing". Then the metronome belongs in the description: cutting it away
    loses the best predictor of the musician. Systems are cheap, and Simon
    expects complexity to be hierarchies of them everywhere ([LIT-905](../literature.d/LIT-905.md)).
@@ -80,11 +80,11 @@ driven, controller and plant, lead and follow. That asymmetry is normal,
 and requiring mutuality would have excluded the record's own paradigm case,
 the dancing couple with its lead and follow ([CLAIM-175](CLAIM-175.md)). It is also
 information the agency question will need: who drives is part of whether,
-and where, there is an agent.
+and where, there is an agent ([TERM-044](../terms.d/TERM-044.md)<!-- ref::uses: TERM-044 -->).
 
 ## What it does not say
 
-- **That everything strongly coupled is one system for every purpose.** The
+- **That everything strongly coupled is one system ([TERM-049](../terms.d/TERM-049.md)<!-- ref::uses: TERM-049 -->) for every purpose.** The
   verdict is relative to a target ([CLAIM-152](CLAIM-152.md)) and to the Occam
   threshold ([CLAIM-154](CLAIM-154.md)).
 - **That a driven system is an agent, or that the driver is one.** That is

@@ -78,7 +78,7 @@ system. It is an **agent at that level** when:
    ([CLAIM-157](CLAIM-157.md)). Its boundary comes from coupling, not from agency.
 2. **The intentional description wins.** A model in which the factor
    pursues goals predicts its behaviour better than a device model (an
-   input-output mapping), by more than the Occam cost of the richer model. This is Orseau et al.'s agent-versus-device
+   input-output mapping), by more than the Occam cost ([TERM-046](../terms.d/TERM-046.md)<!-- ref::uses: TERM-046 -->) of the richer model. This is Orseau et al.'s agent-versus-device
    comparison ([LIT-911](../literature.d/LIT-911.md)), priced in the record's terms
    ([CLAIM-154](CLAIM-154.md)).
 3. **Its governance would adapt.** Under an intervention on how its actions

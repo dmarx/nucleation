@@ -2,7 +2,7 @@
 number: 164
 status: Active
 formerly:
-- CLAIM-tmpjsasy
+- CLAIM-164
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
 version: 1
 history:
@@ -51,7 +51,7 @@ supports:
 ## The claim
 
 From [MOM-CLM-144](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-144.md). Let a cluster of singular values be separated from the
-rest of the spectrum by a gap δ. The invariant is the subspace V they span,
+rest of the spectrum by a gap δ ([TERM-046](../terms.d/TERM-046.md)<!-- ref::uses: TERM-046 -->). The invariant is the subspace V they span,
 or equivalently the projector P onto V. Under a perturbation δT, P moves by
 at most about ‖δT‖/δ, which is Davis–Kahan. A single vector is its own
 cluster only when its own gaps are wide. Where values are degenerate, "the

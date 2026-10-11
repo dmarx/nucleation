@@ -2,7 +2,7 @@
 number: 161
 status: Proposed
 formerly:
-- CLAIM-tmpdqsrb
+- CLAIM-161
 title: 'A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states'
 version: 1
 history:
@@ -46,9 +46,9 @@ summary: >-
 From [MOM-CLM-153](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-153.md). The condition "there exists φ with γ(S) ≈ γ(φ(S))" holds
 of my system at noon and yours at midnight, so it is no condition. Replace
 "some φ" with the system's own evolution: γ(Φ_Δt(S(t))) ≈ γ(S(t)) for Δt in
-the interval of interest. The self is then the region of state space on
+the interval of interest. The self ([TERM-045](../terms.d/TERM-045.md)<!-- ref::uses: TERM-045 -->) is then the region of state space on
 which γ stays level. The defect, sup over Δt of |γ(Φ_Δt(s)) − γ(s)|, is
-measurable.
+measurable (notation as in [TERM-046](../terms.d/TERM-046.md)<!-- ref::uses: TERM-046 -->).
 
 ## Why this record files it, and why Proposed
 

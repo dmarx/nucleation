@@ -51,7 +51,7 @@ and is a global extension of the transported model."
 ## What it does not say
 
 C6: "Without a common global kernel or a compatible target cover, preservation
-is not automatic." It gives a sufficient condition for a transport not to create
+is not automatic." It gives a sufficient condition for a transport ([TERM-008](../terms.d/TERM-008.md)<!-- ref::uses: TERM-008 -->) not to create
 contextuality. It says nothing about transports that destroy or create it, which
 is where [CLAIM-105](CLAIM-105.md) and [QUESTION-004](../questions.d/QUESTION-004.md) sit.
 

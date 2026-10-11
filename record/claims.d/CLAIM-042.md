@@ -34,6 +34,8 @@ supports:
 - CLAIM-038
 - CLAIM-119
 ---
+<!-- ref::uses-file: TERM-009 — stated in "levels, as levels at which observables exist"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
+<!-- ref::uses-file: TERM-022 — stated in "communicative object, as an intersection of constraint regions", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: CLAIM-008 TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

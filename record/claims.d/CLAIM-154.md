@@ -2,7 +2,7 @@
 number: 154
 status: Active
 formerly:
-- CLAIM-tmp45kkg
+- CLAIM-154
 title: 'A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d''² exceeds the log prior-to-posterior variance ratio'
 version: 1
 history:
@@ -54,7 +54,7 @@ From [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/rec
 variance s² and a Laplace posterior with mean μ and variance σ², pruning w
 is a nested model. Its log Bayes factor is the Savage–Dickey ratio:
 
-ln BF(keep) = ½ μ²/σ² − ½ ln(s²/σ²) = ½ (d'² − Occam).
+ln BF(keep) = ½ μ²/σ² − ½ ln(s²/σ²) = ½ (d'² − Occam), in the notation of [TERM-046](../terms.d/TERM-046.md)<!-- ref::uses: TERM-046 -->.
 
 So the rule is: **keep (reify) w if and only if d'² > Occam**, that is
 δ/ε > τ with τ² = ln(s²/σ²). The threshold is not a taste parameter. It is

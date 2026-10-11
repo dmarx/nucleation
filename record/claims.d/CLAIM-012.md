@@ -25,6 +25,7 @@ summary: >-
   operational definition at U34. Superseded by the agent-indexed
   [CLAIM-027](CLAIM-027.md).
 ---
+<!-- ref::uses-file: TERM-003 — stated in "will, as a second- or higher-order attractor", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 

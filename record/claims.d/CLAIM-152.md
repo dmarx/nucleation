@@ -61,7 +61,7 @@ it:
   prior from a model chosen for some purpose.
 - **The persistence test ([CLAIM-161](CLAIM-161.md))** depends on which γ.
 
-So a verdict that the dancing couple is one system ([CLAIM-175](CLAIM-175.md)) is a
+So a verdict that the dancing couple is one system ([TERM-049](../terms.d/TERM-049.md)<!-- ref::uses: TERM-049 -->) ([CLAIM-175](CLAIM-175.md)) is a
 verdict relative to a stated target, such as predicting the dance's next
 beat. [MOM-LIT-023](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/literature.d/LIT-023.md) and this record's [LIT-603](../literature.d/LIT-603.md) make the same point about
 Markov blankets: a blanket individuates nothing until the variables are
