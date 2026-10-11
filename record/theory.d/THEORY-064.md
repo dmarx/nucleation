@@ -46,6 +46,8 @@ summary: >-
   a prediction (a wholly opaque self-model would abolish selfhood) and an
   ontological stipulation. The précis adds no evidence; its case studies
   are in the book, unread.
+supports:
+- CLAIM-tmp7lzto
 ---
 <!-- inactive-ok-file: LIT-467 — Deferred; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-044 THEORY-045 THEORY-051 THEORY-063 THEORY-060 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->

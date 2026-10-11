@@ -51,6 +51,8 @@ summary: >-
   outright — credence and inclusion disagree, as they may.
 supersedes:
 - CLAIM-012
+supports:
+- CLAIM-tmp7lzto
 ---
 <!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
