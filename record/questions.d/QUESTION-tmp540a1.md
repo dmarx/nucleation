@@ -1,7 +1,13 @@
 ---
 status: Open
-title: 'Relative to a level of description and a target, what makes a factor of a system an agent?'
-version: 1
+title: 'Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    The question now asks for the willed tier too, after the owner
+    distinguished willed agents from agents (CLAIM-tmp4g4je).
 tags:
 - agency
 - individuation
@@ -18,12 +24,14 @@ summary: >-
 answered_by:
 - CLAIM-tmptd6s2
 - CLAIM-tmpwv313
+- CLAIM-tmp4g4je
 ---
+<!-- inactive-ok-file: CLAIM-tmp4g4je — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmpm5571 CLAIM-tmptd6s2 CLAIM-tmpwv313 — Proposed; the materials, answer and objection filed against this question, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens -->
 
-# QUESTION-tmp540a1: Relative to a level of description and a target, what makes a factor of a system an agent?
+# QUESTION-tmp540a1: Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?
 
 ## Why it is a question
 

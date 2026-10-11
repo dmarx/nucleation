@@ -35,6 +35,9 @@ grounds:
 complements:
 - CLAIM-tmptsdgt
 - CLAIM-tmpl4ha3
+uses:
+- TERM-tmpq5zvd
+- TERM-tmpgthc0
 summary: >-
   The record's proposed answer to [QUESTION-tmpm56ps](../questions.d/QUESTION-tmpm56ps.md), joining the
   dual-filed MOM results. Simon's near-decomposability says what to

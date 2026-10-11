@@ -24,6 +24,8 @@ grounds:
 - CASE-tmpifi9m
 complements:
 - CLAIM-151
+uses:
+- TERM-030
 summary: >-
   The owner's claim of 2026-10-11, in their words: "data is written with
   a potential future receiver in mind. even if the data is never read,

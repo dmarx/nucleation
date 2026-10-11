@@ -12,6 +12,8 @@ objects_to:
 - CLAIM-tmptd6s2
 grounds:
 - LIT-tmpq7txx
+uses:
+- TERM-tmp1913d
 summary: >-
   The record's anticipated objection to the owner's thesis. [TERM-023](../terms.d/TERM-023.md) is
   "agent-indexed": a role in an agent already warranted. The will paper

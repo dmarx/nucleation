@@ -27,6 +27,8 @@ date: '2026-10-11'
 line: distributed-agency
 complements:
 - CLAIM-tmpjsasy
+uses:
+- TERM-tmpgthc0
 summary: >-
   Dual-filed from [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-160.md) ([ADR-037](../decisions.d/ADR-037.md)). By the Savage–Dickey ratio,
   ln BF(keep) = ½(d'² − Occam), so a direction, block or sector is real

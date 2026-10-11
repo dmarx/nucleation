@@ -17,6 +17,7 @@ used_by:
 - CLAIM-tmp7lzto
 - CLAIM-tmpf301t
 - CLAIM-tmpmf12z
+- CLAIM-tmpigdl0
 ---
 <!-- inactive-ok-file: CLAIM-tmpigdl0 — Proposed; the open objection to the term's name -->
 <!-- inactive-ok-file: THEORY-062 THEORY-067 THEORY-070 — Proposed; the readings the term is distinguished from -->

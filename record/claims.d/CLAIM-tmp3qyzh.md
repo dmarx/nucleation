@@ -22,6 +22,8 @@ tags:
 - mathematical-statistics
 date: '2026-10-11'
 line: distributed-agency
+uses:
+- TERM-tmpq5zvd
 summary: >-
   Dual-filed from [MOM-POS-001](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/positions.d/POS-001.md) ([ADR-037](../decisions.d/ADR-037.md)). A sufficient statistic is
   sufficient for a target Y, so every partition chosen as minimal

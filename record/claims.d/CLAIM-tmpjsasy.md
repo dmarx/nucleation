@@ -26,6 +26,8 @@ tags:
 - complex-systems
 date: '2026-10-11'
 line: distributed-agency
+uses:
+- TERM-tmpgthc0
 summary: >-
   Dual-filed from [MOM-CLM-144](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-144.md) ([ADR-037](../decisions.d/ADR-037.md)). Under a perturbation δT, the
   subspace spanned by a cluster of singular values separated by a gap δ

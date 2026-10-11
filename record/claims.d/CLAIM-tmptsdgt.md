@@ -41,6 +41,8 @@ grounds:
 - LIT-455
 - LIT-439
 - LIT-571
+uses:
+- TERM-tmpq5zvd
 summary: >-
   The record's reading in answer to the owner's prompt of 2026-10-11,
   "connect extended self to entrainment". Clark & Chalmers' marks of

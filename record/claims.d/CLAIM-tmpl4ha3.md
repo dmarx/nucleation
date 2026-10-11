@@ -20,6 +20,8 @@ objects_to:
 - CLAIM-tmpw0mrc
 complements:
 - CLAIM-tmp8tsw5
+uses:
+- TERM-tmpq5zvd
 summary: >-
   The owner's challenge to the open objection, 2026-10-11: "a metronome
   driving a musician, or a nerve driving a muscle, passes — and why

@@ -26,6 +26,9 @@ tags:
 - phenomenal-unity
 date: '2026-10-11'
 line: distributed-agency
+uses:
+- TERM-tmpgthc0
+- TERM-tmpg0hhr
 summary: >-
   Dual-filed from [MOM-CLM-165](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-165.md) ([ADR-037](../decisions.d/ADR-037.md)). Model contexts (roles, personas,
   sub-agents) as a cover, and the offsets that reconcile neighbours as a

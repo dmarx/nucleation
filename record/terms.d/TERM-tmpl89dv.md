@@ -1,7 +1,14 @@
 ---
 status: Active
 title: 'jurisdiction of a will-organization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    The definition is unchanged. The sentence on what a jurisdiction
+    individuates now says *willed* agent (TERM-tmpllrr1), after the owner
+    distinguished willed agents from agents the same day.
 tags:
 - agency
 - self-governance
@@ -30,8 +37,9 @@ acquire, retain, lose or alter efficacy. A regime is inside the
 jurisdiction if changing W changes when that regime acts. It is outside if
 W's changes leave it untouched.
 
-On [CLAIM-tmptd6s2](../claims.d/CLAIM-tmptd6s2.md), an agent at a level *is* the jurisdiction of a
-will-organization. Its boundary is where governance stops.
+On [CLAIM-tmptd6s2](../claims.d/CLAIM-tmptd6s2.md) version 2, a *willed* agent ([TERM-tmpllrr1](TERM-tmpllrr1.md)) at a level
+is the jurisdiction of a will-organization. Its boundary is where governance
+stops. Agents in general are identified otherwise ([TERM-tmp1913d](TERM-tmp1913d.md)).
 
 ## What it is not
 

@@ -1,7 +1,18 @@
 ---
 status: Proposed
-title: 'A candidate factor is an agent at a level when it is one system there, when describing it as governing its own regimes beats describing it as a device by more than the Occam cost, and when its governance would adapt if its actions'' consequences changed; what passes is the jurisdiction of a will-organization'
-version: 1
+title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Split into an agent test (1–3) and a will test (4), after the owner
+    distinguished willed agents from agents (CLAIM-tmp4g4je). In version 1,
+    test 2 required governance over regimes. That requirement now belongs
+    to test 4, so test 2 asks only for a goal-directed description. The
+    thermostat verdicts are unchanged: alone it fails test 3; with its
+    designers it is an agent but not a willed one, its will being the
+    designers'.
 role: thesis
 defeated_if: >-
   A factor that passes all three tests at a level and target and is
@@ -27,6 +38,10 @@ complements:
 uses:
 - TERM-tmpl89dv
 - TERM-023
+- TERM-tmpq5zvd
+- TERM-tmp1913d
+- TERM-tmpllrr1
+- TERM-tmpgthc0
 grounds:
 - LIT-tmpq7txx
 - LIT-tmpbu984
@@ -45,10 +60,11 @@ summary: >-
 illustrated_by:
 - CASE-tmp6ve1p
 ---
+<!-- inactive-ok-file: CLAIM-tmp4g4je — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-tmp8tsw5 CLAIM-tmpm5571 CLAIM-tmptd6s2 — Proposed; the premise, the objection answered and the thesis made testable, open -->
 
-# CLAIM-tmpwv313: A candidate factor is an agent at a level when it is one system there, when describing it as governing its own regimes beats describing it as a device by more than the Occam cost, and when its governance would adapt if its actions' consequences changed; what passes is the jurisdiction of a will-organization
+# CLAIM-tmpwv313: A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
 
 ## The claim
 
@@ -58,21 +74,25 @@ system. It is an **agent at that level** when:
 1. **It is one system there.** It clears the threshold criterion
    ([CLAIM-tmp8tsw5](CLAIM-tmp8tsw5.md)). Its boundary comes from coupling, not from agency.
 2. **The intentional description wins.** A model in which the factor
-   *governs its own regimes for goals* predicts its behaviour better than
-   a device model (an input-output mapping), by more than the Occam cost
-   of the richer model. This is Orseau et al.'s agent-versus-device
+   pursues goals predicts its behaviour better than a device model (an
+   input-output mapping), by more than the Occam cost of the richer model. This is Orseau et al.'s agent-versus-device
    comparison ([LIT-tmpq7txx](../literature.d/LIT-tmpq7txx.md)), priced in the record's terms
-   ([CLAIM-tmp45kkg](CLAIM-tmp45kkg.md)). The intentional model must include governance over
-   regimes, a will-organization, not only a goal.
+   ([CLAIM-tmp45kkg](CLAIM-tmp45kkg.md)).
 3. **Its governance would adapt.** Under an intervention on how its actions
    affect the world, the factor's policy, or what governs its regimes,
    would change. This is Kenton et al.'s criterion ([LIT-tmpbu984](../literature.d/LIT-tmpbu984.md)): agents
    are "systems that would adapt their policy if their actions influenced
    the world in a different way".
 
-What passes is the jurisdiction of a will-organization ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)): the
-regimes whose efficacy the factor's maintained governance decides. That is
-the owner's thesis ([CLAIM-tmptd6s2](CLAIM-tmptd6s2.md)) made testable.
+What passes 1–3 is an **agent** ([TERM-tmp1913d](../terms.d/TERM-tmp1913d.md)). It is a **willed agent**
+([TERM-tmpllrr1](../terms.d/TERM-tmpllrr1.md)) when it also passes:
+
+4. **Will.** A model with a will-organization, a maintained governance over
+   *several* of its regimes deciding which acts, beats the agent model
+   without one, by more than its Occam cost.
+
+What passes 4 is the jurisdiction of a will-organization ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)).
+That is the owner's thesis made testable ([CLAIM-tmptd6s2](CLAIM-tmptd6s2.md), [CLAIM-tmp4g4je](CLAIM-tmp4g4je.md)).
 
 ## How it handles the cases
 

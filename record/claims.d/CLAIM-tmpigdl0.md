@@ -12,6 +12,8 @@ objects_to:
 - CLAIM-tmpf301t
 grounds:
 - THEORY-069
+uses:
+- TERM-tmpu28lt
 summary: >-
   The record's own anticipated objection to the owner's framing, and the
   kind [ADR-032](../decisions.d/ADR-032.md) found most often real: same structure, not the same

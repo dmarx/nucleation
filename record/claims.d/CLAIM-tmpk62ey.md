@@ -24,6 +24,9 @@ objects_to:
 - CLAIM-tmptsdgt
 grounds:
 - LIT-571
+uses:
+- TERM-tmpq5zvd
+- TERM-tmpg0hhr
 summary: >-
   The record's own objection to [CLAIM-tmptsdgt](CLAIM-tmptsdgt.md), narrowed in version 2
   after the owner's reply ([CLAIM-tmpygda8](CLAIM-tmpygda8.md)). It concedes that the dancing

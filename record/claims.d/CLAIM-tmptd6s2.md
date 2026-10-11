@@ -1,7 +1,17 @@
 ---
 status: Proposed
-title: 'The agents in a system are a factorization of it relative to a level of description and a target, and each agent is individuated by its will-organization: an agent is the jurisdiction of a will-organization'
-version: 1
+title: 'The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization'
+version: 2
+history:
+- version: 2
+  date: '2026-10-11'
+  note: >-
+    Narrowed the same day, after the owner's next proposal (CLAIM-tmp4g4je)
+    and the two readings. Agency is wider than will: a thermostat with its
+    designers, or a training process, passes the agent tests with no
+    governance over several regimes. Individuation by will-organization now
+    applies to willed agents (TERM-tmpllrr1). The factorization half is
+    unchanged.
 role: thesis
 defeated_if: >-
   A system that, at a fixed level and target, has two equally good
@@ -22,6 +32,9 @@ answers:
 uses:
 - TERM-tmpl89dv
 - TERM-023
+- TERM-tmpq5zvd
+- TERM-tmp1913d
+- TERM-tmpllrr1
 grounds:
 - LIT-398
 summary: >-
@@ -35,12 +48,14 @@ summary: >-
   maintained.
 complements:
 - CLAIM-tmpwv313
+- CLAIM-tmp4g4je
 objected_by:
 - CLAIM-tmpm5571
 ---
+<!-- inactive-ok-file: CLAIM-tmp4g4je — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-tmpkdc9t CLAIM-tmpm5571 CLAIM-tmpwv313 — Proposed; the owner's drive claim, the open objection and the admission test, open -->
 
-# CLAIM-tmptd6s2: The agents in a system are a factorization of it relative to a level of description and a target, and each agent is individuated by its will-organization: an agent is the jurisdiction of a will-organization
+# CLAIM-tmptd6s2: The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization
 
 ## The claim
 
@@ -57,9 +72,12 @@ As the record states it:
 1. **Relativity.** Fix a level of description and a target. The agents are
    a factorization of the system: a partition of its regimes into factors,
    each described as an agent, with coupling between them.
-2. **Individuation.** Each factor is the jurisdiction ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)) of
-   one will-organization ([TERM-023](../terms.d/TERM-023.md)), meaning the regimes whose efficacy one
-   maintained organization governs.
+2. **Individuation.** In version 1, every agent was a jurisdiction. In
+   version 2, agents in general are identified by the agent tests
+   ([TERM-tmp1913d](../terms.d/TERM-tmp1913d.md)). A *willed* agent ([TERM-tmpllrr1](../terms.d/TERM-tmpllrr1.md)) is the jurisdiction
+   ([TERM-tmpl89dv](../terms.d/TERM-tmpl89dv.md)) of one will-organization ([TERM-023](../terms.d/TERM-023.md)), meaning the regimes
+   whose efficacy one maintained organization governs. The owner drew the
+   distinction ([CLAIM-tmp4g4je](CLAIM-tmp4g4je.md)).
 3. **Operative will is not enough.** Operative will is whichever regime is
    acting now, and it changes as drive moves ([CLAIM-tmpkdc9t](CLAIM-tmpkdc9t.md)). If agents
    were identified by it, the microbiome would become an agent whenever it
