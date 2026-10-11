@@ -14,6 +14,7 @@ objects_to:
 - CLAIM-tmp2jolp
 - CLAIM-tmp5o4dd
 grounds:
+- LIT-tmp0j1es
 - LIT-756
 summary: >-
   Shipman and Marshall's objection to formal representation ([LIT-756](../literature.d/LIT-756.md)),

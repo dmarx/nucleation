@@ -21,6 +21,9 @@ rests_on:
 - CLAIM-tmp4qgbo
 complements:
 - CLAIM-tmp2jolp
+grounds:
+- LIT-tmpqiriw
+- LIT-tmpojehs
 summary: >-
   Proposed by the assistant on 2026-10-11, while correcting its own
   crystal analogy ([CLAIM-tmpas8q0](CLAIM-tmpas8q0.md)), and filed at the owner's request

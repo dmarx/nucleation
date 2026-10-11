@@ -19,6 +19,8 @@ answers:
 - QUESTION-tmpdj25c
 rests_on:
 - CLAIM-tmp4qgbo
+grounds:
+- LIT-tmplhx5f
 summary: >-
   The filing rule of [ADR-032](../decisions.d/ADR-032.md) ("a thing gets a code the second time it
   turns up"), read as the mechanism the manuscript's title names. The
