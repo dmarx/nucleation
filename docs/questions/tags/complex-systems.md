@@ -6,8 +6,10 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-1 of 31 QUESTION documents. Back to the [full index](../README.md).
+3 of 35 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-013](../../../record/questions.d/QUESTION-013.md) | Under iterated transport, when do observational, structural and decision distortion converge together, diverge, or evolve independently? | The fifth of the five central questions (A110 §IX): the joint trajectory of (D_obs(n), D_struct(n), D_dec(n)), "including the possibility that a chain becomes conventionally interpretable while losing ancestral pragmatic structure". The manuscript says only that the trajectories "need not coincide" (§8). | Open |
+| [QUESTION-033](../../../record/questions.d/QUESTION-033.md) | In a system described at more than one level, does "who drives?" have an answer at a given level, and what kinds of answer are there? | The owner's agency question of 2026-10-11, which follows from the threshold criterion ([QUESTION-035](../../../record/questions.d/QUESTION-035.md)): once a combined form is one system, which part or level, if any, drives it? The owner proposes a spectrum of kinds (top-down, bidirectional, emergent) and holds that the answer changes over time. It sharpens [QUESTION-009](../../../record/questions.d/QUESTION-009.md) by asking about drive before asking about agency. | Open |
+| [QUESTION-035](../../../record/questions.d/QUESTION-035.md) v2 | Relative to a stated target, when is a combined form one system, where does its boundary lie, and how long does it last? | The question the dancing couple, the person and notebook, and the firm at its all-hands have each raised on 2026-10-11, now given a code at its third appearance. It sharpens [QUESTION-009](../../../record/questions.d/QUESTION-009.md) (when does coordination constitute an additional agent) to the prior question of when it constitutes one system, and makes the target explicit, as [CLAIM-152](../../../record/claims.d/CLAIM-152.md) requires. | Open |

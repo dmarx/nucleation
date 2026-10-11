@@ -19,7 +19,7 @@ summary: >-
   governs the afternoon; who later blocks distracting websites. The
   individual-scale case (Sections 1, 3.5).
 variants:
-- CASE-tmpoun8b
+- CASE-051
 ---
 <!-- inactive-ok-file: ARG-005 CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

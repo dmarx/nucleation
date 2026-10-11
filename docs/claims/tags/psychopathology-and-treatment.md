@@ -6,8 +6,8 @@
 
 **Psychopathology and treatment** — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-0 of 151 CLAIM documents. Back to the [full index](../README.md).
+1 of 175 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-156](../../../record/claims.d/CLAIM-156.md) | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were | The record's own conjecture, made in answer to the owner's prompt of 2026-10-11. It places mindfulness among [CLAIM-027](../../../record/claims.d/CLAIM-027.md)'s conditions of efficacy (suspension, accessibility), so it is a second individual-scale instance of that thesis. The one direct study read as summarised ([LIT-906](../../../record/literature.d/LIT-906.md)) points the other way, and the claim says so. It does not say mindfulness never changes valuation. | Proposed |

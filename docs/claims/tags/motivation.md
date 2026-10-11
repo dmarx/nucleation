@@ -6,8 +6,9 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-0 of 151 CLAIM documents. Back to the [full index](../README.md).
+2 of 175 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-162](../../../record/claims.d/CLAIM-162.md) | Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless | The record's own conjecture, made in answer to the owner's prompt of 2026-10-11. It is grounded only weakly: the effort-cost account is a reading, and the flow literature is registered unread. It says that in flow there is nothing for will to do. It does not say flow is the best or the normal way to act as one. | Proposed |
+| [CLAIM-169](../../../record/claims.d/CLAIM-169.md) v2 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon | The record's reading of [THEORY-067](../../../record/theory.d/THEORY-067.md), made in answer to the owner's prompt of 2026-10-11. Interests are individuated by the delay at which each dominates, so where curves do not cross there is nothing to individuate them. The self's intertemporal multiplicity is then a variable, not a constant. It does not say that all multiplicity of self is intertemporal. | Proposed |

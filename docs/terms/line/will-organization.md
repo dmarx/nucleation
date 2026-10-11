@@ -6,7 +6,7 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious.
 
-5 of 43 TERM documents. Back to the [full index](../README.md).
+6 of 51 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [TERM-019](../../../record/terms.d/TERM-019.md) | action-generating regime | A relatively stable organization capable of producing a characteristic pattern of agent-level action under appropriate conditions — desires, habits, plans, policies, institutional operating modes (Section 1). | Active |
 | [TERM-020](../../../record/terms.d/TERM-020.md) | protective lock-in | A protective regime that, by reorganizing ordinary activity, generates the conditions that justify its own continuation and reduces the capacity to leave it (Section 6.1). | Active |
 | [TERM-023](../../../record/terms.d/TERM-023.md) v2 | will-organization | The maintained organization of relations governing the conditions under which an agent's available action-generating regimes acquire, retain, lose, or alter practical efficacy (Section 3.2). | Active |
+| [TERM-050](../../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |

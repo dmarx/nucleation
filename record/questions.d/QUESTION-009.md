@@ -15,12 +15,12 @@ summary: >-
   sets it aside by supposing its agent ([CLAIM-080](../claims.d/CLAIM-080.md)), which is what
   made the paper writable.
 answered_by:
-- CLAIM-tmptsdgt
-- CLAIM-tmptd6s2
+- CLAIM-172
+- CLAIM-170
 refined_by:
-- QUESTION-tmpm56ps
-- QUESTION-tmpdzrll
-- QUESTION-tmp540a1
+- QUESTION-035
+- QUESTION-033
+- QUESTION-032
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 

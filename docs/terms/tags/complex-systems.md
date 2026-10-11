@@ -6,9 +6,12 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-2 of 43 TERM documents. Back to the [full index](../README.md).
+5 of 51 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-003](../../../record/terms.d/TERM-003.md) | will, as a second- or higher-order attractor | Will defined dynamically: a higher-order attractor that stabilizes which first-order regimes govern action. The owner's operational definition at U34; replaced by will-organization once the account became agent-indexed. | Superseded — by [TERM-023](../../../record/terms.d/TERM-023.md) |
 | [TERM-020](../../../record/terms.d/TERM-020.md) | protective lock-in | A protective regime that, by reorganizing ordinary activity, generates the conditions that justify its own continuation and reduces the capacity to leave it (Section 6.1). | Active |
+| [TERM-046](../../../record/terms.d/TERM-046.md) | notation for the threshold, drive and unity criteria | One place for the symbols used across the threshold criterion, the drive profile and the unity and persistence claims of 2026-10-11: δ, ε, τ, d′, Occam, D, G, Φ and γ. It records that δ/ε is used in two senses, a spectral gap against off-block coupling and a posterior effect against its uncertainty, and that treating them as one is an assumption carried over from [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-160.md). | Active |
+| [TERM-049](../../../record/terms.d/TERM-049.md) | combined form | A candidate system drawn from more than one member (two dancers, a person and a tool, a firm's teams), counted as one system relative to a stated target while it clears the threshold criterion of [CLAIM-157](../../../record/claims.d/CLAIM-157.md). The record's neutral word for what such a whole is, used before asking whether it is an agent or a self. | Active |
+| [TERM-051](../../../record/terms.d/TERM-051.md) | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. The name is provisional. | Active |

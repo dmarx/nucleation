@@ -6,7 +6,7 @@
 
 **Fictional** — invented, usually to hold fixed what a real case cannot. Shows what is coherent, not what is common.
 
-14 of 42 CASE documents. Back to the [full index](../README.md).
+15 of 51 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -24,3 +24,4 @@
 | [CASE-033](../../../record/cases.d/CASE-033.md) | Driving home while daydreaming | The owner's case at U26: driving home with access to the road and to a daydream, arriving with no memory of the drive. Compartmented access, not unconsciousness. | Active |
 | [CASE-034](../../../record/cases.d/CASE-034.md) | The thermostat and the adaptive controller | Systems that regulate, and even alter their own regulatory parameters, without warranting attribution of an agent. The stock counterexample to will as regulation. | Active |
 | [CASE-036](../../../record/cases.d/CASE-036.md) | Northstar emergency governance that sustains itself | A service failure activates emergency governance whose restrictions defer maintenance, generating anomalies that satisfy the emergency criteria and keep the restrictions in place (Section 6.1). | Active |
+| [CASE-051](../../../record/cases.d/CASE-051.md) | The absorbed writer | The reluctant writer ([CASE-013](../../../record/cases.d/CASE-013.md)) on a third afternoon. The draft is going well and email stays open and unblocked, but it does not win, and no rule or device is invoked. A notification breaks the spell, and getting back in takes effort. It shows integration with nothing to integrate, beside the lapse and the precommitment. | Active |

@@ -21,7 +21,7 @@ used_by:
 - CLAIM-083
 - CLAIM-127
 - CLAIM-130
-- CLAIM-tmpdfqoo
+- CLAIM-160
 ---
 
 # TERM-030: frame, as a configuration of the communicative situation

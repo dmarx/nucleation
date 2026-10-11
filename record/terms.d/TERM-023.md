@@ -22,13 +22,13 @@ line: will-organization
 used_by:
 - CLAIM-027
 - CLAIM-099
-- CLAIM-tmpaf2e6
-- CLAIM-tmptd6s2
-- CLAIM-tmpwv313
-- CLAIM-tmp4g4je
+- CLAIM-159
+- CLAIM-170
+- CLAIM-174
+- CLAIM-155
 - CLAIM-021
 - CLAIM-122
-- CLAIM-tmpm5571
+- CLAIM-168
 summary: >-
   The maintained organization of relations governing the conditions under
   which an agent's available action-generating regimes acquire, retain,

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**170 documents cited without acknowledgement.** Not listed: 4251 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**170 documents cited without acknowledgement.** Not listed: 4523 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -936,7 +936,7 @@ Structuralism
 
 5 citations in 2 files await a look.
 
-- [`record/claims.d/CLAIM-098.md:61`](../../record/claims.d/CLAIM-098.md)
+- [`record/claims.d/CLAIM-098.md:63`](../../record/claims.d/CLAIM-098.md)
 - [`record/literature.d/LIT-837.md:6`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:46`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:110`](../../record/literature.d/LIT-837.md)
@@ -1422,7 +1422,7 @@ The later phases reported in neural-network training differ in kind: after the t
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
-2 citations in 1 file await a look; 156 other citations of it are acknowledged.
+2 citations in 1 file await a look; 158 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:22`](../../record/decisions.d/ADR-017.md)
 - [`record/decisions.d/ADR-017.md:82`](../../record/decisions.d/ADR-017.md)
@@ -1431,7 +1431,7 @@ A mind of mindless agents and a mind of minded agents are one functionalist move
 
 A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels
 
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-035.md:47`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:78`](../../record/decisions.d/ADR-035.md)
@@ -1483,7 +1483,7 @@ Sheaf-theoretic contextuality has to be extended to directed transport between o
 
 What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
 
-1 citation in 1 file awaits a look; 30 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 32 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-002.md:41`](../../record/questions.d/QUESTION-002.md)
 
@@ -2006,9 +2006,6 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-- record/arguments.d/ARG-006.md:25: annotation no longer applies — nothing in scope cites CLAIM-063, CLAIM-117
-- record/cases.d/CASE-012.md:28: annotation no longer applies — nothing in scope cites ARG-004
-- record/cases.d/CASE-012.md:31: annotation no longer applies — nothing in scope cites CLAIM-006
 - record/cases.d/CASE-031.md:25: annotation no longer applies — nothing in scope cites CLAIM-115
 - record/claims.d/CLAIM-008.md:31: annotation no longer applies — nothing in scope cites TERM-032
 - record/claims.d/CLAIM-009.md:28: annotation no longer applies — nothing in scope cites CLAIM-109
@@ -2028,7 +2025,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-083.md:33: annotation no longer applies — nothing in scope cites CLAIM-055
 - record/claims.d/CLAIM-084.md:31: annotation no longer applies — nothing in scope cites CLAIM-061
 - record/claims.d/CLAIM-091.md:30: annotation no longer applies — nothing in scope cites CLAIM-061
-- record/claims.d/CLAIM-098.md:30: annotation no longer applies — nothing in scope cites CLAIM-102
+- record/claims.d/CLAIM-098.md:32: annotation no longer applies — nothing in scope cites CLAIM-102
 - record/claims.d/CLAIM-101.md:32: annotation no longer applies — nothing in scope cites CLAIM-065
 - record/claims.d/CLAIM-102.md:33: annotation no longer applies — nothing in scope cites TERM-013, TERM-016
 - record/claims.d/CLAIM-106.md:40: annotation no longer applies — nothing in scope cites CLAIM-067
@@ -2036,7 +2033,7 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-109.md:31: annotation no longer applies — nothing in scope cites TERM-016
 - record/claims.d/CLAIM-113.md:39: annotation no longer applies — nothing in scope cites CLAIM-015
 - record/claims.d/CLAIM-115.md:45: annotation no longer applies — nothing in scope cites CLAIM-017
-- record/claims.d/CLAIM-117.md:37: annotation no longer applies — nothing in scope cites CLAIM-052
+- record/claims.d/CLAIM-117.md:38: annotation no longer applies — nothing in scope cites CLAIM-052
 - record/claims.d/CLAIM-121.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
 - record/literature.d/LIT-777.md:59: annotation no longer applies — LIT-264 is Active now
@@ -2052,14 +2049,14 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-602.md:30: annotation no longer applies — nothing in scope cites LIT-785, LIT-811, LIT-826
 - record/notes.d/NOTE-617.md:34: annotation no longer applies — nothing in scope cites LIT-811
 - record/terms.d/TERM-005.md:22: annotation no longer applies — nothing in scope cites TERM-029, TERM-035
-- record/terms.d/TERM-008.md:45: annotation no longer applies — nothing in scope cites CLAIM-101
-- record/terms.d/TERM-008.md:46: annotation no longer applies — nothing in scope cites CLAIM-106
+- record/terms.d/TERM-008.md:46: annotation no longer applies — nothing in scope cites CLAIM-101
+- record/terms.d/TERM-008.md:47: annotation no longer applies — nothing in scope cites CLAIM-106
 - record/terms.d/TERM-009.md:23: annotation no longer applies — nothing in scope cites TERM-032
 - record/terms.d/TERM-011.md:21: annotation no longer applies — nothing in scope cites CLAIM-111
 - record/terms.d/TERM-016.md:30: annotation no longer applies — nothing in scope cites TERM-035
 - record/terms.d/TERM-021.md:22: annotation no longer applies — nothing in scope cites TERM-013
-- record/terms.d/TERM-024.md:39: annotation no longer applies — nothing in scope cites CLAIM-052, CLAIM-063
-- record/terms.d/TERM-026.md:26: annotation no longer applies — nothing in scope cites TERM-016
+- record/terms.d/TERM-024.md:41: annotation no longer applies — nothing in scope cites CLAIM-052, CLAIM-063
+- record/terms.d/TERM-026.md:27: annotation no longer applies — nothing in scope cites TERM-016
 - record/terms.d/TERM-028.md:23: annotation no longer applies — nothing in scope cites CLAIM-026
 - record/terms.d/TERM-031.md:26: annotation no longer applies — nothing in scope cites TERM-016
 - record/theory.d/THEORY-013.md:31: annotation no longer applies — LIT-264 is Active now

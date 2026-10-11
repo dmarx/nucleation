@@ -55,7 +55,7 @@ summary: >-
 presupposes:
 - THEORY-050
 supports:
-- CLAIM-tmp7lzto
+- CLAIM-156
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this presupposes and the conceptual account of the self -->

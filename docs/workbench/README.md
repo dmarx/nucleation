@@ -6,6 +6,17 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [11 Oct 07:22 — Session of 2026-10-11, continued: citing TERMs where concepts are invoked](2026-10.md#session-of-2026-10-11-continued-citing-terms-where-concepts-are-invoked)
+- [11 Oct 06:53 — Session of 2026-10-11, continued: the concept sweep over the rest of the record](2026-10.md#session-of-2026-10-11-continued-the-concept-sweep-over-the-rest-of-the-record)
+- [11 Oct 06:20 — Session of 2026-10-11, continued: willed agents as a tier, and a concept pass over the day's vocabulary](2026-10.md#session-of-2026-10-11-continued-willed-agents-as-a-tier-and-a-concept-pass-over-the-days-vocabulary)
+- [11 Oct 06:03 — Session of 2026-10-11, continued: agents as the jurisdiction of a will-organization](2026-10.md#session-of-2026-10-11-continued-agents-as-the-jurisdiction-of-a-will-organization)
+- [11 Oct 05:31 — Session of 2026-10-11, continued: the agency question as drive profiles, and drive that changes and comes from below](2026-10.md#session-of-2026-10-11-continued-the-agency-question-as-drive-profiles-and-drive-that-changes-and-comes-from-below)
+- [11 Oct 04:15 — Session of 2026-10-11, continued: one-way drive passes, and direction is architecture](2026-10.md#session-of-2026-10-11-continued-one-way-drive-passes-and-direction-is-architecture)
+- [11 Oct 03:20 — Session of 2026-10-11, continued: a threshold criterion for one system, from Mathematics of Meaning](2026-10.md#session-of-2026-10-11-continued-a-threshold-criterion-for-one-system-from-mathematics-of-meaning)
+- [11 Oct 02:12 — Session of 2026-10-11, continued: vocabulary before "self", and the dancers objection fails](2026-10.md#session-of-2026-10-11-continued-vocabulary-before-self-and-the-dancers-objection-fails)
+- [11 Oct 01:31 — Session of 2026-10-11, continued: the corporate event as a synchronization mechanism](2026-10.md#session-of-2026-10-11-continued-the-corporate-event-as-a-synchronization-mechanism)
+- [11 Oct 00:55 — Session of 2026-10-11, continued: extended self and entrainment; storage as a variant of the tree in the woods; a joke over a life](2026-10.md#session-of-2026-10-11-continued-extended-self-and-entrainment-storage-as-a-variant-of-the-tree-in-the-woods-a-joke-over-a-life)
+- [11 Oct 00:33 — Session of 2026-10-11: the self as a multi-agent system, and synchronization through temporal discounting, mindfulness and flow](2026-10.md#session-of-2026-10-11-the-self-as-a-multi-agent-system-and-synchronization-through-temporal-discounting-mindfulness-and-flow)
 - [10 Oct 04:04 — Session of 2026-10-10, 03:12–03:26 (U57–U60): factorization as a laboratory, the prior-art retraction, and the October proposal; the U40–U60 reconstruction closed](2026-10.md#session-of-2026-10-10-03120326-u57u60-factorization-as-a-laboratory-the-prior-art-retraction-and-the-october-proposal-the-u40u60-reconstruction-closed)
 - [10 Oct 04:04 — Session of 2026-10-10, 02:01–02:52 (U49–U56): outline v7, FID, structural realism and characters, and the second crystallized argument](2026-10.md#session-of-2026-10-10-02010252-u49u56-outline-v7-fid-structural-realism-and-characters-and-the-second-crystallized-argument)
 - [10 Oct 04:04 — Session of 2026-10-10, 00:37–01:15 (U43–U48): the state of the argument, tropes, Yoneda, relativity, and a filing proposal](2026-10.md#session-of-2026-10-10-00370115-u43u48-the-state-of-the-argument-tropes-yoneda-relativity-and-a-filing-proposal)
@@ -27,8 +38,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-18 entries across 1 book, newest first.
+29 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 18 | 2026-10-07 | 2026-10-10 |
+| [2026-10](2026-10.md) | 29 | 2026-10-07 | 2026-10-11 |

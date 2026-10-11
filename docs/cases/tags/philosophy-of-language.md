@@ -6,7 +6,7 @@
 
 **Philosophy of language** — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy).
 
-19 of 42 CASE documents. Back to the [full index](../README.md).
+21 of 51 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -29,3 +29,5 @@
 | [CASE-030](../../../record/cases.d/CASE-030.md) | E2: assistant-authored reconstruction chains with content-word overlap (C4) | Run at U24 ("do it"): three four-generation chains written by the assistant from a modernized Villon seed, scored by content-word Jaccard against the seed. The texts are authored with their intended trajectories; the numbers are exact properties of those texts. | Active |
 | [CASE-031](../../../record/cases.d/CASE-031.md) | Marot's "A une Damoyselle malade" and Hofstadter's translations of it | A sixteenth-century get-well poem whose content is trivial and whose form is everything, translated dozens of ways by Hofstadter and others. The exchange's founding case, and the manuscript's opening one (§1). | Active |
 | [CASE-032](../../../record/cases.d/CASE-032.md) | E4: within-session chains, stable complicit against a shift to moral instruction | Run after the owner's U26 ("lol you ARE a text generation action. just delegate subtasks"): two three-generation chains written by the assistant in the same context. "The measured lexical similarities are near zero for both final texts"; one keeps complicity, the other becomes advice. | Active |
+| [CASE-048](../../../record/cases.d/CASE-048.md) | The same film joke, seen as a child and again as an adult | The owner's case (2026-10-11): one person watches a scene in a family film or show as a child and again as an adult, and the joke means something different the second time. The artefact is unchanged, and so is the person in the sense of numerical identity. Only the receiver's state has changed. It is a test for whether meaning is fixed at the write or made at the read. | Active |
+| [CASE-049](../../../record/cases.d/CASE-049.md) | A tree falls in the woods with no one to hear it | The old puzzle, filed so its variants have something to vary. A physical event happens with no perceiver. Whether it "made a sound" turns on whether sound means the vibration or the hearing. Nothing in it was made for anyone, and that is the respect the storage variant changes. | Active |

@@ -6,7 +6,7 @@
 
 **Social ontology** — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
 
-5 of 42 CASE documents. Back to the [full index](../README.md).
+6 of 51 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [CASE-014](../../../record/cases.d/CASE-014.md) | Microsoft, as the philosophical target | The real corporation the first framing asked about. Committed to as a recurring touchstone (A205) and then silently dropped from the drafts; retired here by status rather than left as a promise nobody kept. | Deferred |
 | [CASE-025](../../../record/cases.d/CASE-025.md) | Verdant Compute | A fictional compute company whose decarbonization-minded workforce operates an organization whose market position drives fossil-fuel demand (A31). Shows the whole's operative direction diverging from the average of its members' intentions. | Active |
 | [CASE-028](../../../record/cases.d/CASE-028.md) | Stability AI: well-intentioned founders, near-total churn, generic successor | The owner's case at U12: a company founded by researchers and open-source developers that churned almost its whole staff in a year and became a generic corporate entity. Replaced by the fictional [CASE-006](../../../record/cases.d/CASE-006.md). | Superseded — by [CASE-006](../../../record/cases.d/CASE-006.md) |
+| [CASE-050](../../../record/cases.d/CASE-050.md) | The all-hands: a corporate event as a synchronization mechanism for the firm | The owner's case (2026-10-11): a company all-hands or offsite as a mechanism that synchronizes a "corporate entity", a kind of self. The teams' priorities have drifted apart, and the event re-couples them. It is the firm-scale counterpart of the session's individual routes: entrainment by co-presence, a record written for later readers, and incentives realigned. Whether the firm so synchronized is a self is the open question, not something the case settles. | Active |
