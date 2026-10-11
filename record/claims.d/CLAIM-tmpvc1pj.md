@@ -46,6 +46,7 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 ---
+<!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->
 <!-- inactive-ok-file: CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-tmp2jolp CLAIM-tmp5o4dd CLAIM-tmpas8q0 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -71,8 +72,8 @@ asked for. The translation exchange shows what the branching looks like:
   placements, until the owner pulled it back at U51.
 - Each of the two crystallized arguments (U38, U56; [TERM-tmpeuuih](../terms.d/TERM-tmpeuuih.md)) came
   at the end of a run of fast turns. The first lost material when it was
-  drafted into C7 ([CLAIM-tmp5o4dd](CLAIM-tmp5o4dd.md)). The second, A203, left out Tannaka and
-  two open problems, and nothing in the exchange says whether they
+  drafted into C7 ([CLAIM-tmp5o4dd](CLAIM-tmp5o4dd.md)). The second, A203, left out Tannaka
+  reconstruction ([QUESTION-tmp8n1uh](../questions.d/QUESTION-tmp8n1uh.md)) and [CLAIM-125](CLAIM-125.md)'s two open problems, and nothing in the exchange says whether they
   dissolved as the argument matured or were not carried forward.
 
 The record acts on growth by anchoring, not only by pausing. Under the

@@ -34,6 +34,7 @@ objected_by:
 supports:
 - CLAIM-tmpors2p
 ---
+<!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->
 <!-- inactive-ok-file: CLAIM-tmpdj0qe CLAIM-tmpu984q — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -59,7 +60,9 @@ draft:
 
 The second crystallized argument (A203), the terminal state at U56
 ([TERM-tmpeuuih](../terms.d/TERM-tmpeuuih.md)), announced its change of question. It also left out
-Tannaka, two open problems and more. Maturing can legitimately drop
+Tannaka reconstruction, which A198 had offered as a model for rebuilding a
+communicative kind's symmetries from its realizations ([QUESTION-tmp8n1uh](../questions.d/QUESTION-tmp8n1uh.md)),
+[CLAIM-125](CLAIM-125.md)'s two open problems, and more. Maturing can legitimately drop
 things, so some of these may have dissolved rather than been lost, but
 nothing in the exchange says which. Each draft read as finished. None of
 the omissions could be seen, let alone classified, without a list of what
