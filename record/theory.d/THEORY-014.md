@@ -33,6 +33,8 @@ summary: >-
 extends:
 - THEORY-012
 - THEORY-016
+supports:
+- CLAIM-037
 ---
 
 # THEORY-014: In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical

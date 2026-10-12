@@ -28,6 +28,9 @@ summary: >-
   which the record has not read.
 extended_by:
 - THEORY-073
+supports:
+- CLAIM-152
+- CLAIM-tmprrjrd
 ---
 <!-- inactive-ok-file: THEORY-073 THEORY-072 THEORY-071 — Proposed; the wider claims this one supports or sits beside, not leaned on -->
 

@@ -24,6 +24,7 @@ answered_by:
 - THEORY-186
 - THEORY-195
 - THEORY-201
+- THEORY-117
 ---
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-195 THEORY-188 THEORY-189 THEORY-193 THEORY-191 THEORY-194 — Proposed; cited as partial evidence toward an answer, not as settled -->
@@ -161,3 +162,7 @@ above as partial evidence toward an answer, with no typed link. They are
 now linked as partial answers (`answered_by`): two derive linear attribute
 directions, and three show hierarchical structure learned level by level.
 The question stays Open.
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-117](../theory.d/THEORY-117.md) now carries an `answered_by` edge. In supervised models, features go from spurious, to decodable but entangled, to linearly factored as coverage of combinations grows. So correlated attributes at low coverage do not give factored directions.

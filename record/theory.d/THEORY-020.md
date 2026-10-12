@@ -26,6 +26,8 @@ summary: >-
   joining of the two, that non-classicality needs more than one context,
   is the record's. Neither Stone paper uses "ultrafilter" or states a
   duality of categories.
+supports:
+- CLAIM-037
 ---
 
 # THEORY-020: Every Boolean algebra is the clopen algebra of its Stone space of prime ideals, and a finite one is the power set of its atoms, so a single Boolean context always has two-valued valuations and the Kochen–Specker obstruction lies in how contexts overlap

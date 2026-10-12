@@ -15,6 +15,10 @@ summary: >-
   (the expected value of control is computed in a distinct specification
   system) asserts one. [CLAIM-025](../claims.d/CLAIM-025.md) and [CLAIM-099](../claims.d/CLAIM-099.md) speak of a governing
   organization among regimes, so the answer matters to this line.
+answered_by:
+- THEORY-056
+- THEORY-062
+- THEORY-153
 ---
 
 # QUESTION-tmpebtmy: Is there a governing level among an agent's regimes, a system that specifies control apart from the systems that carry it out, or is governance the interaction of the regimes themselves?
@@ -46,3 +50,7 @@ implementation that meets [THEORY-053](../theory.d/THEORY-053.md)'s standard, a 
 to the specification system that precedes the outcome. Or a showing that
 the line's claims need only a pattern of interaction, so that the
 question does not bear on them.
+
+## Note of 2026-10-12: typed partial answers
+
+The THEORYs this question cites now carry `answered_by` edges. [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-062](../theory.d/THEORY-062.md) answer on the interaction side, and [THEORY-153](../theory.d/THEORY-153.md) (Beer's distinct metasystem) on the distinct-level side, beside [THEORY-070](../theory.d/THEORY-070.md). Beer's metasystem may be distributed, which bears on [THEORY-149](../theory.d/THEORY-149.md)'s durable governance without central control.

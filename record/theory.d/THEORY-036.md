@@ -32,6 +32,8 @@ summary: >-
   Separating the two, and the claim that the added clauses carry the
   exclusions, is the record's reading. The definition that would confirm
   it (ETMG) is unread.
+answers:
+- QUESTION-028
 ---
 
 # THEORY-036: Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work

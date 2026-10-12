@@ -12,6 +12,7 @@ date: '2026-10-04'
 line: authenticity
 answered_by:
 - CLAIM-016
+- THEORY-121
 summary: >-
   The ownership question. The authenticity line was built to answer it and
   was set aside with it at the audit of 2026-10-05; the paper now
@@ -37,3 +38,7 @@ from self-determination theory), [THEORY-029](../theory.d/THEORY-029.md) (the re
 hierarchical accounts) and [THEORY-040](../theory.d/THEORY-040.md) (manipulation forces a historical
 condition). They are added as grounds to [CLAIM-016](../claims.d/CLAIM-016.md). The question stays
 Deferred, as its line is.
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-121](../theory.d/THEORY-121.md) now carries an `answered_by` edge: ownership through taking responsibility, the record's main historical condition. It ties to [THEORY-040](../theory.d/THEORY-040.md), which grounds [CLAIM-016](../claims.d/CLAIM-016.md).

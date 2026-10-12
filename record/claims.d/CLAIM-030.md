@@ -20,6 +20,7 @@ grounds:
 - THEORY-140
 - THEORY-144
 - THEORY-127
+- THEORY-139
 illustrated_by:
 - CASE-006
 - CASE-025
@@ -63,3 +64,7 @@ pressure, that no member intended. A synthesis review also noted a parallel
 in the nucleating-argument line: [CLAIM-177](CLAIM-177.md) records theses that moved
 "without a turn arguing either move". Whether that is a case of this claim,
 or the owner's unrecorded change of mind, is open.
+
+## Note of 2026-10-12: evidence now linked
+
+[THEORY-139](../theory.d/THEORY-139.md) now grounds this claim. The group's view corrects the inconsistency any mechanical aggregation of its members' views would produce. It partly duplicates [THEORY-127](../theory.d/THEORY-127.md).

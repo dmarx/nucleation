@@ -15,6 +15,8 @@ refines:
 summary: >-
   A100, Chapter 9: "The new question introduced by the sheaf-information
   synthesis." Gestured at in the manuscript (§8, §11), not posed.
+answered_by:
+- THEORY-199
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -54,3 +56,7 @@ says; none has yet been assessed as an answer, and none is linked by
 
 [CLAIM-177](../claims.d/CLAIM-177.md) is a documented case from the nucleating-argument line: a label
 ("will") kept while its definition changed five or more times.
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-199](../theory.d/THEORY-199.md) now carries an `answered_by` edge. Low-level features survive past the noise threshold at which the top-level class is lost: one task family is kept while another is destroyed. Limits: it is a single step, not a chain, and an ideal denoiser on a synthetic grammar.

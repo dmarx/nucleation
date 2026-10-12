@@ -49,6 +49,7 @@ grounds:
 - LIT-911
 - LIT-909
 - LIT-398
+- THEORY-092
 summary: >-
   The assistant's admission test for the owner's thesis, filed at the
   owner's request. It has three tests on a candidate factor, at a level
@@ -62,6 +63,8 @@ summary: >-
   without the will paper's supposition.
 illustrated_by:
 - CASE-044
+objected_by:
+- CLAIM-tmprrjrd
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
@@ -151,3 +154,7 @@ That is the owner's thesis made testable ([CLAIM-170](CLAIM-170.md), [CLAIM-155]
   "are only meaningful relative to the choice of which variables are included
   in the model". Both are the level and target relativity this record already
   states ([CLAIM-152](CLAIM-152.md)).
+
+## Note of 2026-10-12: evidence now linked
+
+[THEORY-092](../theory.d/THEORY-092.md) (Block) now grounds this claim's third test, weakly. Systems alike in all actual and counterfactual behaviour can differ through the processing, so a behavioural test alone admits a lookup table. Block's subject is intelligence, not agency.

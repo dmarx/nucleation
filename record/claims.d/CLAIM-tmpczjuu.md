@@ -14,6 +14,7 @@ grounds:
 - THEORY-087
 - THEORY-079
 - THEORY-031
+- THEORY-082
 summary: >-
   A narrowing of [CLAIM-154](CLAIM-154.md), filed on 2026-10-11 from a synthesis review
   that found the record already held the readings that limit it.
@@ -91,3 +92,7 @@ ratio" inherits that assumption.
 The rule and an exact or WBIC-estimated Bayes factor agree on keep or
 prune near the threshold, across n, in a family where removing the
 candidate makes the model singular.
+
+## Note of 2026-10-12: an Active ground for the premise
+
+[THEORY-082](../theory.d/THEORY-082.md) now grounds this claim. The Fisher of a multilayer perceptron "loses rank wherever an output weight is zero", and pruning a hidden unit is exactly that case. It supplies, from an Active THEORY, this claim's premise that the candidates are the singular kind.

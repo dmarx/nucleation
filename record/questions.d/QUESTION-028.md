@@ -19,6 +19,8 @@ summary: >-
   ([THEORY-036](../theory.d/THEORY-036.md)) says compressibility alone
   admits almost every non-random pattern, so the work falls on the
   question's own qualifiers. No criterion has been given.
+answered_by:
+- THEORY-036
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: THEORY-036 — Proposed; cited as the reading that locates the question's work, not as settled -->
@@ -111,3 +113,7 @@ says; none has yet been assessed as an answer, and none is linked by
   grouped by the perceiver's concepts, not natural…
 - [THEORY-036](../theory.d/THEORY-036.md): Dennett's real-pattern criterion, compressibility against
   the bit map, admits almost every non-random…
+
+## Note of 2026-10-12: edge for a prose citation
+
+[THEORY-036](../theory.d/THEORY-036.md), which this question already rests on in prose, now carries an `answered_by` edge.

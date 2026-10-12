@@ -14,7 +14,11 @@ summary: >-
   [THEORY-126](../theory.d/THEORY-126.md) (von Scheve and Ismer) makes collective emotion synchronous
   convergence with no group subject. The organizational-affect line
   ([CLAIM-039](../claims.d/CLAIM-039.md), Deferred) needs to know which it is claiming.
+answered_by:
+- THEORY-125
+- THEORY-126
 ---
+<!-- inactive-ok-file: CLAIM-039 — Deferred; the claim this question bears on, with its line set aside -->
 
 # QUESTION-tmpc59zj: Does organizational affect need a group subject, a state of the group not reducible to its members' states, or only the synchronized convergence of members' affect?
 
@@ -38,3 +42,7 @@ integration fails, or the reverse. [CASE-050](../cases.d/CASE-050.md), the all-h
 synchronization mechanism, is a candidate to extend: does the event
 produce only convergence, or a coordinated, action-oriented state of the
 firm?
+
+## Note of 2026-10-12: typed partial answers
+
+[THEORY-125](../theory.d/THEORY-125.md) (a group subject, possibly) and [THEORY-126](../theory.d/THEORY-126.md) (synchronized convergence, no group subject) now carry `answered_by` edges. They are the two sides this question names.

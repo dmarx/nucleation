@@ -34,6 +34,8 @@ summary: >-
   exact variational RG step leaves the coarse variables' meaning free. The
   restricted Boltzmann machine proper needs visible–visible terms for the
   second construction; that narrows the example, not the claim.
+supports:
+- CLAIM-152
 ---
 <!-- inactive-ok-file: THEORY-197 THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this one extends and is set beside, and the question it does not answer -->
 

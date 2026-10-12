@@ -46,6 +46,8 @@ summary: >-
   Agency" ([LIT-587](../literature.d/LIT-587.md)) later makes practical identity the content of
   maxims chosen under the formal norms. Argued, with the key steps flagged
   by their author as sketchy; the commentaries and reply are unread.
+answers:
+- QUESTION-007
 ---
 <!-- inactive-ok-file: LIT-599 — Deferred; the book version of the lectures, named as the unread work that would move this -->
 <!-- inactive-ok-file: THEORY-029 THEORY-047 THEORY-054 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->

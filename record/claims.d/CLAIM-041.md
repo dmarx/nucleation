@@ -19,6 +19,7 @@ grounds:
 - CASE-001
 - LIT-312
 - THEORY-166
+- THEORY-010
 objects_to:
 - CLAIM-073
 undercuts:
@@ -103,3 +104,6 @@ So the regularity the quantum model predicts ([THEORY-166](../theory.d/THEORY-16
 itself favour quantum over classical probability. This was the
 discriminating test A30 named, and the manuscript dropped it.
 
+## Note of 2026-10-12: evidence now linked
+
+[THEORY-010](../theory.d/THEORY-010.md) now grounds this claim. It shows that losing certainty about one question after asking an incompatible one is reproduced by Spekkens's epistemically restricted classical bit. So the order effect the pragmatic reading leans on needs no quantum model.

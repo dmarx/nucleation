@@ -19,6 +19,7 @@ works:
 grounds:
 - THEORY-134
 - THEORY-132
+- THEORY-142
 supports:
 - ARG-007
 - CLAIM-tmptfikp
@@ -39,3 +40,7 @@ trajectory that continues to satisfy them over the relevant horizon."
 That more options are better: "A narrow path can be viable. A large option set
 can be nonviable." (Section 6.4.) Who fixes the constraint set is the open
 mapping question on [ARG-007](../arguments.d/ARG-007.md).
+
+## Note of 2026-10-12: evidence now linked
+
+[THEORY-142](../theory.d/THEORY-142.md) (March) now grounds this claim: without turnover, "the converged beliefs stay put while reality moves, and knowledge falls to chance". The evidence is a stylized simulation only.

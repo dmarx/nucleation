@@ -16,7 +16,10 @@ summary: >-
   own. [THEORY-137](../theory.d/THEORY-137.md) (Tollefsen) says such attributions work largely by
   shaping the institution, whether or not it has a mind. It bears on
   whether a pattern of coordination is an additional agent ([QUESTION-009](QUESTION-009.md)).
+answered_by:
+- THEORY-139
 ---
+<!-- inactive-ok-file: QUESTION-009 — Deferred; the question this one refines -->
 
 # QUESTION-tmp6ondj: When a corporation is said to know or intend something no member does, is the attribution tracking a mind the corporation has, or shaping the corporation to meet it?
 
@@ -39,3 +42,7 @@ What would count as an answer: a case where corporate "knowledge" or
 intention persists, and guides action, without regulative uptake, which
 would favour [THEORY-139](../theory.d/THEORY-139.md). Or one where it appears only once a norm is
 imposed and lapses when the norm is lifted, which would favour [THEORY-137](../theory.d/THEORY-137.md).
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-139](../theory.d/THEORY-139.md) now carries an `answered_by` edge, for the tracking side.

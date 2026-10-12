@@ -32,6 +32,8 @@ summary: >-
   intervention test of both. Proposed from the synthesis review; the
   owner's memory and veto are the main reason to doubt it.
 ---
+<!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as stages of the translation exchange's thesis sequence, not as standing -->
+<!-- inactive-ok-file: QUESTION-009 — Deferred; named as the question this claim sets aside -->
 
 # CLAIM-tmppevte: A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions
 
