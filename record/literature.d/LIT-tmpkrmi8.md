@@ -1,0 +1,45 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from its Crossref record, not read. Registered at the owner''s request to fill a gap the record had no reading in (the cognitive neuroscience of the sense of agency). No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Sense of agency in the human brain'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-12:
+    Patrick Haggard, Nature Reviews Neuroscience 18(4), pp. 196–207,
+    published online 2 March 2017, which is the `published:` date. Unpaywall
+    reports no open copy. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone at commit d8b5ba5) for the author, the title and the
+    DOI found nothing, and none of its topics holds the subject.
+tags:
+- agency
+- neuroscience
+date: '2026-10-12'
+published: '2017-03-02'
+doi: '10.1038/nrn.2017.14'
+first_author: 'Haggard'
+keywords:
+- 'sense of agency'
+- 'intentional binding'
+- 'comparator model'
+- 'voluntary action'
+- 'authorship'
+implementations: []
+summary: >-
+  Haggard (2017). A review of the sense of agency, the experience of
+  controlling one's own actions and through them events in the world. It
+  sets prediction-based (comparator) accounts against retrospective,
+  inferential ones and reviews implicit measures such as intentional
+  binding, the compression of the perceived interval between an action and
+  its outcome. It discusses the frontal and parietal circuits implicated,
+  and what the sense of agency implies for responsibility. Held here for
+  what it is standardly cited for; not read.
+---
+
+# LIT-tmpkrmi8: Sense of agency in the human brain
+
+Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience* 18(4), 196–207. DOI 10.1038/nrn.2017.14.
+
+Not read. The summary is what the work is standardly cited for, and a reading should check it first. It was registered for the question on credibility in a project memory, filed in the same contribution.
