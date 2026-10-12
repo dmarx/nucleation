@@ -29,6 +29,7 @@ answers:
 illustrated_by:
 - CASE-013
 - CASE-051
+- CASE-tmp048av
 complements:
 - CLAIM-162
 - CLAIM-198

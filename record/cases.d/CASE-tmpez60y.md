@@ -18,6 +18,7 @@ summary: >-
   The record holds no source for the case yet.
 illustrates:
 - CLAIM-tmp6vyef
+- CLAIM-025
 variants:
 - CASE-tmp048av
 ---

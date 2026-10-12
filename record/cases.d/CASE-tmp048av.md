@@ -21,6 +21,9 @@ summary: >-
   toward winner-take-all.
 illustrates:
 - CLAIM-tmp6vyef
+- CLAIM-158
+- CLAIM-122
+- CLAIM-tmp5vc3p
 ---
 
 # CASE-tmp048av: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
