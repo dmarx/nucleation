@@ -53,6 +53,8 @@ summary: >-
   test on reduced-rank regression would settle it.
 presupposes:
 - THEORY-087
+supports:
+- CLAIM-188
 ---
 <!-- inactive-ok-file: THEORY-087 — Proposed; this account presupposes its singular half and is no firmer than it -->
 

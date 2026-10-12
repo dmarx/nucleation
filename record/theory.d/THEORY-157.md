@@ -31,6 +31,8 @@ summary: >-
   although it lacks regular conditionals. The match with the classical
   theorems is shown in FinStoch (Fisher–Neyman) and through bounded
   completeness in Stoch (Basu), not for measure-theoretic Fisher–Neyman.
+answers:
+- QUESTION-065
 ---
 
 # THEORY-157: The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions

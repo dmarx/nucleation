@@ -36,6 +36,8 @@ summary: >-
   and CNNs; the link between them is argued, not proved; and the
   real-text evidence, from two character-level corpora, tests the
   effective context window, not the hierarchy.
+answers:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-195 THEORY-182 THEORY-183 THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 

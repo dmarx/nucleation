@@ -6,8 +6,8 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+1 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-052](../../../record/cases.d/CASE-052.md) | Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast | As boyd (2008) reports it after Meyrowitz (1985: 43): the civil rights leader Stokely Carmichael used very different rhetorical styles with black and with white audiences. While the audiences were separate the two styles did not conflict. Television and radio put both audiences in front of one speech, there was no neutral style, and his choice of one alienated the other audience. The roles did not change. The cover did. | Active |

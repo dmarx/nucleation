@@ -48,6 +48,8 @@ summary: >-
   needed. Both papers argue from cited evidence and offer no new data,
   and neither has a marker that tells a felt alarm from an unfelt one.
   The function clause rests on ALARM alone, and Veit's account rivals it.
+answers:
+- QUESTION-059
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, named in prose, and this account's subcortical clause leans on its sources rather than on its status -->
 <!-- inactive-ok-file: THEORY-101 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
@@ -183,3 +185,7 @@ explains later features of consciousness, not its origin.
 - **It is not a claim about phenomenal character.** Like [THEORY-045](THEORY-045.md), it
   says where a felt affective state is realised and what it does, not why
   it is felt at all. ALARM sets epiphenomenalism aside without argument.
+
+## Note of 2026-10-12: scope against [THEORY-096](THEORY-096.md)
+
+[THEORY-096](THEORY-096.md) adopts Dehaene and Naccache's premise that global availability, carried by cortical hubs, "is what we subjectively experience as a conscious state". Taken generally, that premise leaves no room for the affective consciousness without cortex that this account describes. Taken as [THEORY-096](THEORY-096.md)'s own title states it, about perceptual consciousness, it leaves room. This account says it stays neutral among the workspace and its rivals as theories of general alertness, and [THEORY-096](THEORY-096.md) is about perceptual access. So the two can both be right if the premise is read narrowly. They cannot if it is read generally. No `rivals` is declared, because neither account commits to the general reading.

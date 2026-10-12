@@ -22,6 +22,13 @@ line: will-organization
 used_by:
 - CLAIM-027
 - CLAIM-099
+- CLAIM-159
+- CLAIM-170
+- CLAIM-174
+- CLAIM-155
+- CLAIM-021
+- CLAIM-122
+- CLAIM-168
 summary: >-
   The maintained organization of relations governing the conditions under
   which an agent's available action-generating regimes acquire, retain,

@@ -31,6 +31,8 @@ summary: >-
   predicts anything is the defeat condition. It does not say additions
   are distortions.
 ---
+<!-- ref::uses-file: TERM-021 — applied unnamed: the restated D_obs is context-indexed distribution matching over both covers -->
+<!-- ref::uses-file: TERM-043 — applied unnamed: the restated D_obs is the observational component of the profile -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-076 CLAIM-087 CLAIM-034 CLAIM-106 — Proposed; the measure restated, the claim that interpreters add relations, the improvement and adaptation claims, and the directed-fidelity thesis, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the cover-change form of the headline, cited as open -->
 

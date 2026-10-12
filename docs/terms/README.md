@@ -11,15 +11,15 @@ this directory, then run `luria index`.
 **[Contextuality](tags/contextuality.md)** (4) — whether outcomes can be explained without reference to the context of measurement — Kochen–Specker and Bell contextuality and their sheaf-theoretic form, generalized (Spekkens) contextuality, noncontextual models and their limits, and contextuality outside physics:
 [002](../../record/terms.d/TERM-002.md) · [026](../../record/terms.d/TERM-026.md) · [031](../../record/terms.d/TERM-031.md) · [042](../../record/terms.d/TERM-042.md)
 
-**[Mathematics](tags/mathematics.md)** (6) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
-[004](../../record/terms.d/TERM-004.md) · [007](../../record/terms.d/TERM-007.md) · [008](../../record/terms.d/TERM-008.md) · [015](../../record/terms.d/TERM-015.md) · [036](../../record/terms.d/TERM-036.md) · [041](../../record/terms.d/TERM-041.md)
+**[Mathematics](tags/mathematics.md)** (7) — mathematics read for itself — category theory, topoi and sheaves, spectral geometry, set and measure theory — including mathematical frameworks applied to other fields:
+[004](../../record/terms.d/TERM-004.md) · [007](../../record/terms.d/TERM-007.md) · [008](../../record/terms.d/TERM-008.md) · [015](../../record/terms.d/TERM-015.md) · [036](../../record/terms.d/TERM-036.md) · [041](../../record/terms.d/TERM-041.md) · [046](../../record/terms.d/TERM-046.md)
 
 **[Game theory](tags/game-theory.md)** (0) — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
 **[Network science](tags/network-science.md)** (0) — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-**[Complex systems](tags/complex-systems.md)** (2) — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts:
-[003](../../record/terms.d/TERM-003.md) · [020](../../record/terms.d/TERM-020.md)
+**[Complex systems](tags/complex-systems.md)** (5) — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts:
+[003](../../record/terms.d/TERM-003.md) · [020](../../record/terms.d/TERM-020.md) · [046](../../record/terms.d/TERM-046.md) · [049](../../record/terms.d/TERM-049.md) · [051](../../record/terms.d/TERM-051.md)
 
 **[Probabilistic modeling](tags/probabilistic-modeling.md)** (3) — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers:
 [021](../../record/terms.d/TERM-021.md) · [024](../../record/terms.d/TERM-024.md) · [033](../../record/terms.d/TERM-033.md)
@@ -51,7 +51,8 @@ this directory, then run `luria index`.
 
 **[Information retrieval](tags/information-retrieval.md)** (0) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-**[Design rationale](tags/design-rationale.md)** (0) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
+**[Design rationale](tags/design-rationale.md)** (1) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030):
+[052](../../record/terms.d/TERM-052.md)
 
 **[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
@@ -71,24 +72,26 @@ this directory, then run `luria index`.
 
 **[Mereology](tags/mereology.md)** (0) — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-**[Agency](tags/agency.md)** (5) — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy):
-[003](../../record/terms.d/TERM-003.md) · [017](../../record/terms.d/TERM-017.md) · [019](../../record/terms.d/TERM-019.md) · [020](../../record/terms.d/TERM-020.md) · [023](../../record/terms.d/TERM-023.md)
+**[Agency](tags/agency.md)** (9) — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy):
+[003](../../record/terms.d/TERM-003.md) · [017](../../record/terms.d/TERM-017.md) · [019](../../record/terms.d/TERM-019.md) · [020](../../record/terms.d/TERM-020.md) · [023](../../record/terms.d/TERM-023.md) · [044](../../record/terms.d/TERM-044.md) · [047](../../record/terms.d/TERM-047.md) · [048](../../record/terms.d/TERM-048.md) · [051](../../record/terms.d/TERM-051.md)
 
-**[Individuation](tags/individuation.md)** (4) — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024):
-[014](../../record/terms.d/TERM-014.md) · [022](../../record/terms.d/TERM-022.md) · [040](../../record/terms.d/TERM-040.md) · [041](../../record/terms.d/TERM-041.md)
+**[Individuation](tags/individuation.md)** (5) — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024):
+[014](../../record/terms.d/TERM-014.md) · [022](../../record/terms.d/TERM-022.md) · [040](../../record/terms.d/TERM-040.md) · [041](../../record/terms.d/TERM-041.md) · [049](../../record/terms.d/TERM-049.md)
 
-**[Self](tags/self.md)** (0) — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
+**[Self](tags/self.md)** (1) — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024):
+[045](../../record/terms.d/TERM-045.md)
 
 **[Personhood](tags/personhood.md)** (0) — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-**[Behavioral integration](tags/behavioral-integration.md)** (0) — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
+**[Behavioral integration](tags/behavioral-integration.md)** (1) — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024):
+[050](../../record/terms.d/TERM-050.md)
 
 **[Phenomenal unity](tags/phenomenal-unity.md)** (0) — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
 **[Narrative unity](tags/narrative-unity.md)** (0) — the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024).
 
-**[Self-governance](tags/self-governance.md)** (3) — governing oneself by standards that are one's own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024):
-[006](../../record/terms.d/TERM-006.md) · [012](../../record/terms.d/TERM-012.md) · [023](../../record/terms.d/TERM-023.md)
+**[Self-governance](tags/self-governance.md)** (5) — governing oneself by standards that are one's own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024):
+[006](../../record/terms.d/TERM-006.md) · [012](../../record/terms.d/TERM-012.md) · [023](../../record/terms.d/TERM-023.md) · [047](../../record/terms.d/TERM-047.md) · [048](../../record/terms.d/TERM-048.md)
 
 **[Phenomenology](tags/phenomenology.md)** (0) — the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016).
 
@@ -99,7 +102,8 @@ this directory, then run `luria index`.
 
 **[Psychopathology and treatment](tags/psychopathology-and-treatment.md)** (0) — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-**[Motivation](tags/motivation.md)** (0) — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
+**[Motivation](tags/motivation.md)** (1) — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023):
+[050](../../record/terms.d/TERM-050.md)
 
 **[Well-being](tags/well-being.md)** (0) — how well a life goes for the one living it, as psychology measures it — subjective and eudaimonic well-being, flourishing, vitality and meaning in life, and what predicts them (ADR-025).
 
@@ -133,7 +137,8 @@ this directory, then run `luria index`.
 **[Philosophy of science](tags/philosophy-of-science.md)** (2) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy):
 [037](../../record/terms.d/TERM-037.md) · [038](../../record/terms.d/TERM-038.md)
 
-**[Epistemology](tags/epistemology.md)** (0) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy).
+**[Epistemology](tags/epistemology.md)** (1) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy):
+[052](../../record/terms.d/TERM-052.md)
 
 **[Logic](tags/logic.md)** (0) — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
@@ -146,9 +151,9 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [Active](status/Active.md) (31) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (40) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (5) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36)
+**By line:** [Distributed agency](line/distributed-agency.md) (5) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36) · [Nucleating an argument](line/nucleating-argument.md) (1) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -205,4 +210,13 @@ What the status column means in this scheme — the words are luria's, the meani
 | [TERM-041](../../record/terms.d/TERM-041.md) | character-like structural signature, as a realization-independent invariant of a communicative kind, called a character only when it is the trace of a specified representation | A proposed invariant χ_A of a communicative kind, the same across the kind's realizations and required to keep independently specified pragmatic and decision-relevant distinctions. A203 §36 fixed the usage: "character" literally only for the trace character of a specified representation, otherwise "character-like structural signature". None has yet been constructed for any communicative case. | Active |
 | [TERM-042](../../record/terms.d/TERM-042.md) | communicative object, as a context-indexed system of empirical constraints over a cover | The assistant found [TERM-002](../../record/terms.d/TERM-002.md) vacuous at A125 §2. At the owner's U41 request ("double click on this") it rewrote the definition at A129 §2. The object is the empirical data over a cover, supports or distributions with their restrictions. Whether it is compatible on overlaps and whether it extends globally are things to find out, not part of the definition. | Active |
 | [TERM-043](../../record/terms.d/TERM-043.md) | fidelity, as a profile of directed distortions compared component by component | The owner agreed at U41 to unify the record's fidelity lineages, and A129 §3 made one transport with several tests. The profile had four components at A129, five at A151, A178 and A218, and an optional sixth at A203. Transports are compared componentwise; a scalar exists only once a task fixes weights. Supersedes [TERM-010](../../record/terms.d/TERM-010.md)'s weighted scalar as the foundation; [TERM-015](../../record/terms.d/TERM-015.md) and [TERM-021](../../record/terms.d/TERM-021.md) stay in force as what the components measure. | Active |
+| [TERM-044](../../record/terms.d/TERM-044.md) v2 | agent (at a level of description) | A factor of a system, at a stated level of description and for a stated target, that is one system there, whose behaviour is better described as pursuing goals than as an input-output device by more than the Occam cost, and whose policy would adapt if its actions' consequences changed. The general tier, wider than a willed agent and narrower than a control system. | Active |
+| [TERM-045](../../record/terms.d/TERM-045.md) v3 | self, and which sense | The record uses "self" in at least seven senses. [ADR-024](../../record/decisions.d/ADR-024.md) reserves the topic word for being a subject. This term lists the senses so that a claim using "self" says which: subject, dispositional (extended), persisting, narrative, self-governing, integrated and presented. A claim that leaves the sense open is stated in this term's words as "self (sense open)". | Active |
+| [TERM-046](../../record/terms.d/TERM-046.md) | notation for the threshold, drive and unity criteria | One place for the symbols used across the threshold criterion, the drive profile and the unity and persistence claims of 2026-10-11: δ, ε, τ, d′, Occam, D, G, Φ and γ. It records that δ/ε is used in two senses, a spectral gap against off-block coupling and a posterior effect against its uncertainty, and that treating them as one is an assumption carried over from [MOM-CLM-160](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-160.md). | Active |
+| [TERM-047](../../record/terms.d/TERM-047.md) v2 | jurisdiction of a will-organization | The set of action-generating regimes whose practical efficacy a given will-organization governs: those for which it maintains the conditions under which they acquire, retain, lose or alter efficacy. Its outer reach, as distinct from [TERM-017](../../record/terms.d/TERM-017.md)'s jurisdiction, which is one relation inside a will-organization. | Active |
+| [TERM-048](../../record/terms.d/TERM-048.md) | willed agent | An agent ([TERM-044](../../record/terms.d/TERM-044.md)) whose behaviour is governed by a will-organization ([TERM-023](../../record/terms.d/TERM-023.md)) over several action-generating regimes, and which is individuated as that will-organization's jurisdiction ([TERM-047](../../record/terms.d/TERM-047.md)). The middle tier between agency and selfhood; the owner's name, 2026-10-11. | Active |
+| [TERM-049](../../record/terms.d/TERM-049.md) | combined form | A candidate system drawn from more than one member (two dancers, a person and a tool, a firm's teams), counted as one system relative to a stated target while it clears the threshold criterion of [CLAIM-157](../../record/claims.d/CLAIM-157.md). The record's neutral word for what such a whole is, used before asking whether it is an agent or a self. | Active |
+| [TERM-050](../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |
+| [TERM-051](../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
+| [TERM-052](../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
 

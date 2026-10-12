@@ -18,6 +18,7 @@ summary: >-
   manuscript's stochastic framing operations (§9).
 used_by:
 - CLAIM-052
+- CLAIM-127
 superseded_by:
 - TERM-018
 ---

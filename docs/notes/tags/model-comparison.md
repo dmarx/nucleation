@@ -4,7 +4,7 @@
 
 **model-comparison**.
 
-7 of 702 NOTE documents. Back to the [full index](../README.md).
+8 of 710 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [NOTE-485](../../../record/notes.d/NOTE-485.md) | An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case | A partially observed MDP with spare hidden-state slots learns new animal concepts without feedback, refines coarse categories into fine ones, and generalises to an unseen animal in one shot. Bayesian model reduction on the learned state prior resets unneeded slots: right in 45–80% of runs for 4–7 true concepts, rarely for 2–3, and always when the likelihood is given. | Read |
 | [NOTE-487](../../../record/notes.d/NOTE-487.md) | Post hoc Bayesian model selection | Models that differ only in their priors can be scored from one fitted full model: reduced evidence is full evidence times the posterior expectation of the prior ratio. Savage–Dickey is the point-mass case, ARD the continuous one. Under Laplace the reduced free energy is closed-form. Simulations recover a sparse regression (4,096 models) and a three-edge brain network (64 models). | Read |
 | [NOTE-508](../../../record/notes.d/NOTE-508.md) | The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters | States the Savage–Dickey ratio in general, not only for normal models: for a sharp hypothesis η(θ) = η_H with positive prior mass, the Bayes factor L_D(H) equals the alternative's posterior density of η at η_H over its prior density there (3.9), provided the null's nuisance prior is the alternative's conditional prior at η_H (3.8). Dickey calls it Savage's density ratio and credits the proof to Dickey & Lientz. He then applies it to normal means, the Model-I F test and the univariate and multivariate Behrens–Fisher problems with conjugate priors. | Read |
+| [NOTE-705](../../../record/notes.d/NOTE-705.md) | Orseau, McGill & Legg — Agents and Devices | A formal counterpart of Dennett's physical and intentional stances. A device is a mixture of input-output mappings; an agent is a mixture of goal-optimizing ε-greedy policies, by inverse RL. Bayes' rule gives the posterior probability that a system is an agent. It is illustrated in a toy gridworld, with no human comparison. Agency is explicitly relative to the observer's prior. A clearly identified system is assumed. | Read |

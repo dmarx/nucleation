@@ -38,6 +38,8 @@ summary: >-
   suffices for a linear classifier to be right on all unseen pairs. Model
   selection was on the test set, by design, so the results bound what is
   possible. Synthetic data, two concepts, one from-scratch architecture.
+answers:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-004 — Proposed; named in Connections for representations fixed by their kernels, nothing here rests on it -->
 

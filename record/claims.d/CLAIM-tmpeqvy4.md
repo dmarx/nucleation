@@ -49,6 +49,8 @@ summary: >-
 objected_by:
 - CLAIM-tmp0stxa
 ---
+<!-- ref::uses-file: TERM-021 — applied unnamed: the D_obs this claim restates is context-indexed distribution matching -->
+<!-- ref::uses-file: TERM-043 — applied unnamed: D_obs is the computable component of the profile of directed distortions -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim whose measure this restates -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order the exact-fit condition becomes, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpyeik3 — Proposed; open, cited for its point that Blackwell's order needs a common parameter -->

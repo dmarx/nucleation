@@ -6,8 +6,8 @@
 
 **Emotion and affect** — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+1 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-047](../../../record/cases.d/CASE-047.md) | Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person | The owner's example (2026-10-11). The human gut microbiome is a community of other organisms inside the person. Through metabolites, mimics of host appetite peptides, the immune system and the vagus, it can change hunger and affect: robustly in rodents, modestly and inconsistently in humans so far. Documented, with the evidence graded in [LIT-903](../../../record/literature.d/LIT-903.md) and [LIT-915](../../../record/literature.d/LIT-915.md). Used as the case of drive from a lower level that is itself a collective. | Active |

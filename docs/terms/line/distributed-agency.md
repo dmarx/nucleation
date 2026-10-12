@@ -6,8 +6,12 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-0 of 43 TERM documents. Back to the [full index](../README.md).
+5 of 52 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-044](../../../record/terms.d/TERM-044.md) v2 | agent (at a level of description) | A factor of a system, at a stated level of description and for a stated target, that is one system there, whose behaviour is better described as pursuing goals than as an input-output device by more than the Occam cost, and whose policy would adapt if its actions' consequences changed. The general tier, wider than a willed agent and narrower than a control system. | Active |
+| [TERM-047](../../../record/terms.d/TERM-047.md) v2 | jurisdiction of a will-organization | The set of action-generating regimes whose practical efficacy a given will-organization governs: those for which it maintains the conditions under which they acquire, retain, lose or alter efficacy. Its outer reach, as distinct from [TERM-017](../../../record/terms.d/TERM-017.md)'s jurisdiction, which is one relation inside a will-organization. | Active |
+| [TERM-048](../../../record/terms.d/TERM-048.md) | willed agent | An agent ([TERM-044](../../../record/terms.d/TERM-044.md)) whose behaviour is governed by a will-organization ([TERM-023](../../../record/terms.d/TERM-023.md)) over several action-generating regimes, and which is individuated as that will-organization's jurisdiction ([TERM-047](../../../record/terms.d/TERM-047.md)). The middle tier between agency and selfhood; the owner's name, 2026-10-11. | Active |
+| [TERM-049](../../../record/terms.d/TERM-049.md) | combined form | A candidate system drawn from more than one member (two dancers, a person and a tool, a firm's teams), counted as one system relative to a stated target while it clears the threshold criterion of [CLAIM-157](../../../record/claims.d/CLAIM-157.md). The record's neutral word for what such a whole is, used before asking whether it is an agent or a self. | Active |
+| [TERM-051](../../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |

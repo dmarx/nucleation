@@ -4,7 +4,7 @@
 
 **motivation**.
 
-12 of 702 NOTE documents. Back to the [full index](../README.md).
+13 of 710 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [NOTE-454](../../../record/notes.d/NOTE-454.md) | Sophisticated Inference | Expected free energy evaluated recursively over the beliefs an agent would hold after each plausible outcome turns active inference into a pruned tree search over belief states, formally analogous to Bellman recursion. Small simulations show it planning through short-term costs (an aversive cue; a maze barrier needing horizon four) and exploring by novelty. Its scalability is argued from pruning, not demonstrated; its first-principles grounding is cited, not developed. | Read |
 | [NOTE-463](../../../record/notes.d/NOTE-463.md) | Model-based and model-free Pavlovian reward learning: Revaluation, revision, and revelation | The paper argues that Pavlovian prediction has a model-based form. A cue that predicted disgusting salt was instantly "wanted" in a novel salt appetite, before retasting, with mesolimbic activation. That needs identity-specific prediction revalued by current state, which no model-free cache provides. It proposes "defocusing" of the predicted outcome as a model-based source of apparent habit. It argues dopamine can carry model-based evaluations. A kappa-transformation model fits the data but is described as phenomenological, and no algorithm is offered. | Read |
 | [NOTE-587](../../../record/notes.d/NOTE-587.md) | Pervasive negative effects of rewards on intrinsic motivation: The myth continues | The authors of the 1994 rival meta-analysis re-analyse 145 studies. They accept several of Deci, Koestner and Ryan's corrections, and code reward contingencies by what participants were told rather than by cognitive evaluation theory's categories. Result: no overall effect on free choice; enhancement on low-interest tasks; on high-interest tasks, undermining only for expected tangible rewards loosely tied to performance, or earned at less than the maximum; neutral or positive effects for rewards tied to a standard or to beating others. All of it is small. | Read |
+| [NOTE-706](../../../record/notes.d/NOTE-706.md) | Han et al. — From gut microbiota to host appetite | A narrative review, not systematic, by animal-nutrition scientists, of how gut-microbe metabolites and proteins may regulate host appetite. The mechanisms are plausible and mostly shown in rodents. The human evidence is associations in eating disorders and obesity, and prebiotic or metabolite trials that conflict across populations and durations. The authors say so. The framing is mutualist: no microbe "interest" in host eating is argued. | Read |

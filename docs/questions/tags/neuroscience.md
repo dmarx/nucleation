@@ -6,8 +6,10 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+3 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-042](../../../record/questions.d/QUESTION-042.md) | In a recorded brain, where anatomy fixes the candidate units independently, do the blocks that clear an Occam-priced test fall at the anatomical boundaries, at which scale, and how long do short-range and long-range blocks last? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-157](../../../record/claims.d/CLAIM-157.md), [CLAIM-154](../../../record/claims.d/CLAIM-154.md) and [CLAIM-164](../../../record/claims.d/CLAIM-164.md). [THEORY-124](../../../record/theory.d/THEORY-124.md), [THEORY-097](../../../record/theory.d/THEORY-097.md) and [THEORY-088](../../../record/theory.d/THEORY-088.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-048](../../../record/questions.d/QUESTION-048.md) | What can report, no-report, deficit and architectural evidence each establish about experience as opposed to access, and does any of it survive in a system that lacks cortex or biology? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-039](../../../record/claims.d/CLAIM-039.md) and [CLAIM-003](../../../record/claims.d/CLAIM-003.md). [THEORY-091](../../../record/theory.d/THEORY-091.md), [THEORY-094](../../../record/theory.d/THEORY-094.md), [THEORY-100](../../../record/theory.d/THEORY-100.md) and [THEORY-023](../../../record/theory.d/THEORY-023.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-061](../../../record/questions.d/QUESTION-061.md) | In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-003](../../../record/claims.d/CLAIM-003.md). [THEORY-096](../../../record/theory.d/THEORY-096.md), [THEORY-098](../../../record/theory.d/THEORY-098.md), [THEORY-103](../../../record/theory.d/THEORY-103.md) and [THEORY-102](../../../record/theory.d/THEORY-102.md) answer it in part; the body gives each one's limit. Deferred with its line. | Deferred |

@@ -6,8 +6,9 @@
 
 **Embodied cognition** — cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025).
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+2 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-045](../../../record/cases.d/CASE-045.md) v3 | Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it? | A proposed study, not run. Motion-capture several couples dancing an improvised partner dance to recorded music, and record the same people standing and talking after the song. Fit a linear model to the joint kinematics, with the music's beat as an exogenous input. Then ask whether the pair is a block whose gap beats its Occam factor during the dance and not after, whether it compensates under a perturbation, and whether the coupling runs both ways. | Active |
+| [CASE-046](../../../record/cases.d/CASE-046.md) | A partner-dancing couple, lindy hop, tango or salsa, while they dance | The owner's case (2026-10-11). Two social dancers improvise together. The lead proposes through the frame, the follow interprets and adds styling, and each corrects for the other's balance and timing. Neither alone decides where the next step lands. Used to ask what the pair is while dancing, and only after that whether it is a self. | Active |

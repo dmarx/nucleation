@@ -6,8 +6,8 @@
 
 **Loss landscapes** — the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027).
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+1 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-069](../../../record/questions.d/QUESTION-069.md) | Is the connectedness of trained solutions a property of the solutions, or of the path family searched, the shared history that produced them and the regime they were trained in? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-187](../../../record/claims.d/CLAIM-187.md) and [CLAIM-142](../../../record/claims.d/CLAIM-142.md). [THEORY-105](../../../record/theory.d/THEORY-105.md), [THEORY-107](../../../record/theory.d/THEORY-107.md), [THEORY-108](../../../record/theory.d/THEORY-108.md), [THEORY-109](../../../record/theory.d/THEORY-109.md), [THEORY-110](../../../record/theory.d/THEORY-110.md) and [THEORY-114](../../../record/theory.d/THEORY-114.md) answer it in part; the body gives each one's limit. | Open |

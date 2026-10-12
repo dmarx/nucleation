@@ -22,6 +22,8 @@ summary: >-
   parallelogram law under a finite-chain assumption and uses the
   orthomodular identity as a step without naming it. Citing either paper
   for "the orthomodular lattice of quantum logic" misattributes it.
+answers:
+- QUESTION-055
 ---
 
 # THEORY-041: Birkhoff and von Neumann proposed the modular law, not orthomodularity, and proved it fails for closed subspaces in infinite dimension; Husimi used the orthomodular identity only as an unnamed proof step

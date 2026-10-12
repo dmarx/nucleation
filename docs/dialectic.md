@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-19 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+27 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -109,3 +109,53 @@
 
 - [CLAIM-147](../record/claims.d/CLAIM-147.md) — A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation *(thesis, Proposed)*
   - [CLAIM-145](../record/claims.d/CLAIM-145.md) — Trope analysis of this kind is Propp's and Lévi-Strauss's, and trope annotations are written to fit their examples, so agreement with TV Tropes labels cannot by itself validate a structural account *(counter, Proposed)*
+
+## From A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio
+
+- [CLAIM-154](../record/claims.d/CLAIM-154.md) — A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio *(thesis, Active)*
+  - [CLAIM-188](../record/claims.d/CLAIM-188.md) — For a candidate structure whose removal makes the remaining model singular, the reification rule's Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular *(counter, Proposed)*
+
+## From Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
+
+- [CLAIM-157](../record/claims.d/CLAIM-157.md) — Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member *(thesis, Proposed)*
+  - [CLAIM-173](../record/claims.d/CLAIM-173.md) — The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system *(counter, Rejected)*
+    - [CLAIM-167](../record/claims.d/CLAIM-167.md) — One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership *(thesis, Proposed)*
+- [CLAIM-170](../record/claims.d/CLAIM-170.md) — The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization *(thesis, Proposed)*
+  - [CLAIM-168](../record/claims.d/CLAIM-168.md) — Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find *(counter, Proposed)*
+    - [CLAIM-174](../record/claims.d/CLAIM-174.md) — A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization *(thesis, Proposed)*
+      - [CLAIM-194](../record/claims.d/CLAIM-194.md) — A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs *(counter, Proposed)* — also extends CLAIM-157
+
+## From Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored
+
+- [CLAIM-160](../record/claims.d/CLAIM-160.md) — Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored *(thesis, Proposed)*
+  - [CLAIM-171](../record/claims.d/CLAIM-171.md) — A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one *(counter, Proposed)*
+
+## From Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless
+
+- [CLAIM-162](../record/claims.d/CLAIM-162.md) — Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless *(thesis, Proposed)*
+  - [CLAIM-163](../record/claims.d/CLAIM-163.md) — "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" *(counter, Proposed)*
+    - [CLAIM-198](../record/claims.d/CLAIM-198.md) — Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates *(thesis, Proposed)*
+
+## From Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
+
+- [CLAIM-172](../record/claims.d/CLAIM-172.md) — Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture *(thesis, Proposed)*
+  - [CLAIM-165](../record/claims.d/CLAIM-165.md) — A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects *(counter, Proposed)*
+    - [CLAIM-175](../record/claims.d/CLAIM-175.md) — A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own *(thesis, Proposed)*
+
+## From Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record
+
+- [CLAIM-176](../record/claims.d/CLAIM-176.md) — Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record *(thesis, Proposed)*
+  - [CLAIM-181](../record/claims.d/CLAIM-181.md) — The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost *(counter, Proposed)* — also extends CLAIM-178
+- [CLAIM-178](../record/claims.d/CLAIM-178.md) — A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately *(thesis, Proposed)*
+
+## From The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors
+
+- [CLAIM-185](../record/claims.d/CLAIM-185.md) — The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors *(thesis, Proposed)*
+  - [CLAIM-184](../record/claims.d/CLAIM-184.md) — Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure *(counter, Proposed)*
+  - [CLAIM-190](../record/claims.d/CLAIM-190.md) — The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply *(counter, Proposed)* — also extends CLAIM-186
+- [CLAIM-186](../record/claims.d/CLAIM-186.md) — How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival *(thesis, Proposed)*
+
+## From Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
+
+- [CLAIM-191](../record/claims.d/CLAIM-191.md) — Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission *(thesis, Proposed)*
+  - [CLAIM-189](../record/claims.d/CLAIM-189.md) — Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation *(counter, Proposed)*

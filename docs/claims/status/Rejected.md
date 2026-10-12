@@ -6,7 +6,7 @@
 
 **Disbelieved** — tested and failed, or contradicted by later work — and the thing it explained may still work perfectly well.
 
-4 of 151 CLAIM documents. Back to the [full index](../README.md).
+5 of 198 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [CLAIM-020](../../../record/claims.d/CLAIM-020.md) | A translation's quality is the number of formal and semantic constraints it preserves | Hofstadter's starting criterion, as A4 reports it, and the Pareto- frontier picture of fidelity around it. Refuted in the same reply by the mother's translation. | Rejected |
 | [CLAIM-073](../../../record/claims.d/CLAIM-073.md) | Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution | The owner at U13, answering A24. Granted for projective measurements, refuted for operations by a classical counterexample (A30) that the owner never contested, so Rejected; what replaced it is pragmatic noncommutativity, which the manuscript keeps. | Rejected — by [CLAIM-052](../../../record/claims.d/CLAIM-052.md) |
 | [CLAIM-110](../../../record/claims.d/CLAIM-110.md) | Brooks's architecture, Kelso's coordination dynamics and Levin's bioelectric selves are three different ways of understanding what an organized whole is | The assistant's framing at A8: three accounts of distributed agency as three rival pictures of the whole. Rejected after the owner's objection at U7, which the assistant conceded at A10. | Rejected |
+| [CLAIM-173](../../../record/claims.d/CLAIM-173.md) v2 | The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system | The record's anticipated objection to [CLAIM-157](../../../record/claims.d/CLAIM-157.md), and Adams & Aizawa's coupling-constitution objection ([LIT-455](../../../record/literature.d/LIT-455.md)) aimed at the new criterion. Near-decomposability is about the size of couplings, not their direction. One-way drive can make a tightly coupled block. The entrainment claim excluded exactly this case. Rejected on the owner's challenge (CLAIM-167): they should pass, and direction gives a system's architecture, not its membership. | Rejected |

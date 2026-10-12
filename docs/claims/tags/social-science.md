@@ -6,8 +6,9 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-1 of 151 CLAIM documents. Back to the [full index](../README.md).
+2 of 198 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-019](../../../record/claims.d/CLAIM-019.md) | Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor | A102 §2, recovered: Lévi-Strauss treated myth variants as related by transformations, and "Recent computational work has explicitly modeled his analysis". The manuscript §2 mentions Lévi-Strauss's transformations but cites neither Descola nor the computational work. | Active |
+| [CLAIM-196](../../../record/claims.d/CLAIM-196.md) | A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create | The MoM manuscript models a person's roles ("daughter", "teacher", "friend") as sections over family, professional and social contexts, with identity as their global section, failing when the roles contradict. Roles in contexts that do not meet glue ([CLAIM-197](../../../record/claims.d/CLAIM-197.md)), so contradiction between them is not yet a failure. Conflict needs an overlap: an occasion on which two audiences are present at once. People manage the cover. They segregate audiences, which keeps the contexts disjoint, and they script the occasions where audiences must meet. Broadcast and networked media collapse contexts, which creates overlaps the person did not choose (boyd 2008, after Meyrowitz 1985). | Proposed |

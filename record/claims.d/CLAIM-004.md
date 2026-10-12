@@ -33,6 +33,7 @@ supports:
 - CLAIM-151
 - CLAIM-tmpcq79k
 ---
+<!-- ref::uses-file: TERM-016 — stated in "frame, as a pragmatic frame of reference", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-006 TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-143 CLAIM-151 CLAIM-129 — Proposed; later re-derivations of this distinction, cited as open -->

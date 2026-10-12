@@ -35,6 +35,8 @@ used_by:
 - CLAIM-052
 - CLAIM-073
 - CLAIM-063
+- CLAIM-117
+- CLAIM-127
 ---
 <!-- inactive-ok-file: CLAIM-052 CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->

@@ -6,8 +6,8 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-0 of 43 TERM documents. Back to the [full index](../README.md).
+1 of 52 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-045](../../../record/terms.d/TERM-045.md) v3 | self, and which sense | The record uses "self" in at least seven senses. [ADR-024](../../../record/decisions.d/ADR-024.md) reserves the topic word for being a subject. This term lists the senses so that a claim using "self" says which: subject, dispositional (extended), persisting, narrative, self-governing, integrated and presented. A claim that leaves the sense open is stated in this term's words as "self (sense open)". | Active |

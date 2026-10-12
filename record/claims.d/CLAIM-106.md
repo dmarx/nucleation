@@ -44,6 +44,7 @@ complements:
 - CLAIM-tmpon3g9
 - CLAIM-tmpz239h
 ---
+<!-- ref::uses-file: TERM-015 — stated in "fidelity, as graded, directed transport distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-067 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
@@ -61,7 +62,7 @@ relation.**"
 
 Two consequences A50 drew: "There is no requirement that the transport be
 invertible or symmetric", and "similarity is not transitive" ([CLAIM-056](CLAIM-056.md)).
-Manuscript §6: the transport "is intentionally directed: compression and
+Manuscript §6: the transport ([TERM-008](../terms.d/TERM-008.md)<!-- ref::uses: TERM-008 -->) "is intentionally directed: compression and
 interpretation need not be invertible"; §12: "stochastic transport generalizes
 exact equivalence to graded fidelity".
 

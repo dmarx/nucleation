@@ -18,6 +18,15 @@ summary: >-
   attributes that imply or exclude each other. Whether the linear
   directions survive that structure is not answered by anything the
   record holds.
+answered_by:
+- THEORY-183
+- THEORY-185
+- THEORY-186
+- THEORY-195
+- THEORY-201
+- THEORY-117
+- THEORY-196
+- THEORY-189
 ---
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-195 THEORY-188 THEORY-189 THEORY-193 THEORY-191 THEORY-194 — Proposed; cited as partial evidence toward an answer, not as settled -->
@@ -147,3 +156,19 @@ None of these answers it; together they narrow it.
   a single Euclidean view on the same features loses most of it. Run on a
   word co-occurrence graph and scored against WordNet hypernymy, it is one
   way to make the measurement asked for above.
+
+## Note of 2026-10-11: partial answers linked
+
+[THEORY-183](../theory.d/THEORY-183.md), [THEORY-185](../theory.d/THEORY-185.md), [THEORY-186](../theory.d/THEORY-186.md), [THEORY-195](../theory.d/THEORY-195.md) and [THEORY-201](../theory.d/THEORY-201.md) were cited
+above as partial evidence toward an answer, with no typed link. They are
+now linked as partial answers (`answered_by`): two derive linear attribute
+directions, and three show hierarchical structure learned level by level.
+The question stays Open.
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-117](../theory.d/THEORY-117.md) now carries an `answered_by` edge. In supervised models, features go from spurious, to decodable but entangled, to linearly factored as coverage of combinations grows. So correlated attributes at low coverage do not give factored directions.
+
+## Note of 2026-10-12: two prose citations typed
+
+[THEORY-196](../theory.d/THEORY-196.md) and [THEORY-189](../theory.d/THEORY-189.md), which this question's body already cites, now carry `answered_by` edges. [THEORY-196](../theory.d/THEORY-196.md) answers the branch on which hierarchy may live in distances rather than directions: a hyperbolic tree embedding is cheap for shallow, bushy trees and costs bits linear in depth. [THEORY-189](../theory.d/THEORY-189.md) answers the lattice half. Entailment cones encode a partial order, but the overlap of two cones is not a cone, so there are no meets or joins. Neither bears on linear directions.

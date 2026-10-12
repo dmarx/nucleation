@@ -452,6 +452,20 @@ vocabularies:
         blurb: what survives when an utterance is translated, retold or rendered in another medium —
           communicative identity as relationally organized observables, and fidelity as directed, task-relative
           transport between observational systems
+      nucleating-argument:
+        label: Nucleating an argument
+        blurb: how an argument developed across stateless sessions settles into stable, addressable structure,
+          and what a project memory contributes — the record itself as the case
+      evidence-for-experience:
+        label: Evidence for experience
+        blurb: what could show that a system, organized, non-biological or without a cortex, has experience
+          and not only access or function, and what each kind of evidence (report, deficit, architecture,
+          behaviour) can and cannot establish
+      learned-structure:
+        label: How training finds structure
+        blurb: why trained networks come to have the structure they have, which features, symmetries and
+          connected solution sets training reaches and why — understanding, not instruction for practice,
+          which belongs to the anthology
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
@@ -467,6 +481,12 @@ vocabularies:
         blurb: 'the owner''s working manuscript, drafted October 2026: contextual pragmatic information
           transport, combining structuralism, speech-act pragmatics, sheaf-theoretic contextuality, symmetry,
           rate–distortion and Blackwell comparison, conditional diffusion and iterated learning'
+      luria-nucleating-an-argument:
+        label: 'luria: nucleating an argument'
+        blurb: 'the owner''s manuscript, proposed 2026-10-11: an argument developed with stateless collaborators
+          drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on,
+          and the manuscript becomes a view over the argument rather than its only copy. luria is the tool and
+          this record the case'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs
@@ -950,6 +970,7 @@ schemes:
         required: false
         many: true
         converse: used_by
+        explain: cited
       illustrated_by:
         label: Illustrated by
         blurb: the converse of a case's `illustrates`, written by `luria link --fix`.
@@ -1213,6 +1234,26 @@ remotes:
         dir: record/notes.d
       ADR:
         dir: record/decisions.d
+  MOM:
+    name: Mathematics of Meaning
+    repo: dmarx/mathematics-of-meaning
+    ref: main
+    dir: record/claims.d
+    schemes:
+      CLM:
+        dir: record/claims.d
+      ARG:
+        dir: record/arguments.d
+      POS:
+        dir: record/positions.d
+      CON:
+        dir: record/concepts.d
+      LIT:
+        dir: record/literature.d
+      ADR:
+        dir: record/decisions.d
+      DP:
+        dir: record/principles.d
   LU:
     name: luria
     repo: dmarx/luria

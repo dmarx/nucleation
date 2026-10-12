@@ -23,7 +23,11 @@ summary: >-
   not well posed.
 answered_by:
 - CLAIM-tmp7gigk
+
+refined_by:
+- QUESTION-052
 ---
+<!-- inactive-ok-file: CLAIM-137 THEORY-112 THEORY-116 THEORY-191 THEORY-192 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-125 CLAIM-092 THEORY-175 CLAIM-135 — Proposed; open, and cited as the claims and reading this question is set beside, not as settled -->
 
 # QUESTION-027: Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?
@@ -138,3 +142,27 @@ its own right" overstates the novelty of the unrestricted version.
 - **It is not the question of whether the signature is the kind.** An
   identified, decision-sufficient signature is still at the second of
   [CLAIM-135](../claims.d/CLAIM-135.md)'s three steps.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [CASE-042](../cases.d/CASE-042.md): Collaborative filtering and topic models: latent relational
+  structure recovered from interaction matrices,…
+- [CLAIM-137](../claims.d/CLAIM-137.md): A communicative kind is identified by an invariant that does
+  not depend on any one realization, as a group…
+- [TERM-041](../terms.d/TERM-041.md): character-like structural signature, as a realization-
+  independent invariant of a communicative kind,…
+- [CLAIM-132](../claims.d/CLAIM-132.md): Characters classify finite-dimensional representations of a
+  finite or compact group up to isomorphism only…
+- [THEORY-191](../theory.d/THEORY-191.md): In natural odour sources, the rank order of correlations
+  between compound concentrations has the…
+- [THEORY-192](../theory.d/THEORY-192.md): Pairwise correlations among rat CA1 place cells have the
+  Betti-curve signature of points sampled uniformly…
+- [THEORY-112](../theory.d/THEORY-112.md): Once the architecture's symmetries are factored out, most of
+  the linear barrier between independently…
+- [THEORY-116](../theory.d/THEORY-116.md): A linear barrier between two minima that survives the
+  removal of symmetries marks a difference in the…

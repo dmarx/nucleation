@@ -6,8 +6,8 @@
 
 **Ecology** — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028).
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+1 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-063](../../../record/questions.d/QUESTION-063.md) | When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement tells which architecture produced it? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [QUESTION-035](../../../record/questions.d/QUESTION-035.md), [QUESTION-033](../../../record/questions.d/QUESTION-033.md), [CLAIM-172](../../../record/claims.d/CLAIM-172.md), [CLAIM-167](../../../record/claims.d/CLAIM-167.md) and [CLAIM-158](../../../record/claims.d/CLAIM-158.md). [THEORY-129](../../../record/theory.d/THEORY-129.md) and [THEORY-130](../../../record/theory.d/THEORY-130.md) answer it in part; the body gives each one's limit. | Open |

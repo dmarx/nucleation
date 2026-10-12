@@ -6,8 +6,8 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+1 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-045](../../../record/cases.d/CASE-045.md) v3 | Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it? | A proposed study, not run. Motion-capture several couples dancing an improvised partner dance to recorded music, and record the same people standing and talking after the song. Fit a linear model to the joint kinematics, with the music's beat as an exogenous input. Then ask whether the pair is a block whose gap beats its Occam factor during the dance and not after, whether it compensates under a perturbation, and whether the coupling runs both ways. | Active |

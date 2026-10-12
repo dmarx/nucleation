@@ -34,6 +34,8 @@ summary: >-
   not checked. Paper I ([LIT-343](../literature.d/LIT-343.md)) chooses intuitionistic deduction.
   Isham–Butterfield ([LIT-325](../literature.d/LIT-325.md)) state that the Heyting algebra is fixed by
   the base category.
+answers:
+- QUESTION-055
 ---
 
 # THEORY-037: In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail

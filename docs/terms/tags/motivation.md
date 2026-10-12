@@ -6,8 +6,8 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-0 of 43 TERM documents. Back to the [full index](../README.md).
+1 of 52 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-050](../../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |

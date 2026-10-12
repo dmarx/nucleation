@@ -52,6 +52,8 @@ summary: >-
   keeps the wrong variables. The free-energy part of the argument was
   derived independently here; Lin, Tegmark and Rolnick's v2 appendix makes
   it in substance (LIT-887).
+answers:
+- QUESTION-060
 ---
 <!-- inactive-ok-file: THEORY-194 — Proposed; cited as the empirical counterpart from LIT-873 -->
 

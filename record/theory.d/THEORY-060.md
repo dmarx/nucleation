@@ -46,6 +46,8 @@ summary: >-
   essay: every finding is cited, not shown, and it concedes that having a
   life story may be a modern cultural construction. Strawson's "Against
   Narrativity" ([LIT-452](../literature.d/LIT-452.md)) denies the first half for many people.
+answers:
+- QUESTION-043
 ---
 <!-- inactive-ok-file: LIT-572 — Deferred; McAdams and McLean 2013, named as the canonical review, not leaned on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-050 THEORY-051 THEORY-076 THEORY-064 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->

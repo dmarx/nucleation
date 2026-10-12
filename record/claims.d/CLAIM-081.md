@@ -28,6 +28,8 @@ illustrated_by:
 - CASE-017
 supports:
 - CLAIM-tmpdt857
+- CLAIM-189
+- CLAIM-191
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

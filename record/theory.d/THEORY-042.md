@@ -22,6 +22,8 @@ summary: >-
   lattice ([LIT-306](../literature.d/LIT-306.md)), a product of sector lattices with central sector
   projections, is the record's inference. The centre-of-the-algebra
   formulation belongs to Haag, who is not read.
+answers:
+- QUESTION-055
 ---
 
 # THEORY-042: Under a superselection rule a coherent superposition across sectors is operationally a mixture, because no observable connects the sectors; Wick, Wightman and Wigner proved such a rule for integer versus half-integer spin and only postulated it for charge

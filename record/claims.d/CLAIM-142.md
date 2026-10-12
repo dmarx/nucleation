@@ -59,6 +59,9 @@ supports:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-tmp3wo5j
+- CLAIM-187
+- CLAIM-190
+- CLAIM-193
 objected_by:
 - CLAIM-tmp6r6t6
 ---

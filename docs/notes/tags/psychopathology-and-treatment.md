@@ -4,7 +4,7 @@
 
 **psychopathology-and-treatment**.
 
-14 of 702 NOTE documents. Back to the [full index](../README.md).
+15 of 710 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -22,3 +22,4 @@
 | [NOTE-443](../../../record/notes.d/NOTE-443.md) | Précis of Breakdown of Will | Hyperbolic discounting makes preference reverse with delay alone, so a person is a population of interests that forestall one another. Will is the recursive bundling of choices by treating each as a precedent, which gives an intertemporal repeated prisoner's dilemma and makes Kavka's toxin rational to drink. The same recursion predicts legalism, "lapse districts", motivated misperception and compulsive over-control, and premature satiation of appetite limits what will can do for emotional reward. | Read |
 | [NOTE-453](../../../record/notes.d/NOTE-453.md) | Evolution of the Internal Family Systems Model | Schwartz's short statement of the IFS model. A person is "an ecology of relatively discrete minds", parts forced into managerial, exiled or firefighting roles by experience, which can return to valuable roles. At the core is a Self with leadership qualities (the eight Cs), reached when parts "step back", as in the founding case of "Diane". The Self is an active healer, not a witness. A practitioner's essay; its evidence is clinical experience. | Read |
 | [NOTE-457](../../../record/notes.d/NOTE-457.md) | Internal Family Systems Therapy | Chapter 1 only. Schwartz tells how IFS grew out of structural and strategic family therapy. Clients with bulimia described warring "parts". Coercing parts made matters worse, and curiosity revealed that they protected the client. When interfering parts were asked to "step back", a calm, compassionate "Self" appeared that needed no development. The chapter ends with eight essentials: ecological respect for protectors, Self-leadership, unblending, attention to polarizations, non-pathologizing burdens, movement between system levels, and innate self-healing. | Skimmed |
+| [NOTE-703](../../../record/notes.d/NOTE-703.md) | Forssten et al. — One Giant Leap from Mouse to Man | A narrative review, by employees of a probiotics manufacturer, of the microbiota–gut–brain axis in mood. The routes in rodents are well documented. Faecal transplant from depressed humans partly transfers the phenotype to rodents. Human trials are mixed: some reductions in subjective stress in healthy volunteers, and several clean nulls for strains with strong preclinical records. It documents its own translational failures and ends more optimistically than they warrant. | Read |

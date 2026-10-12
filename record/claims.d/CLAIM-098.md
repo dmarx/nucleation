@@ -21,6 +21,8 @@ rests_on:
 - CLAIM-035
 supersedes:
 - CLAIM-102
+uses:
+- TERM-004
 summary: >-
   Manuscript §4. The one trace the relativity analogy left: symmetry and
   equivariance for exact preservation, a semigroup of stochastic maps
@@ -46,7 +48,7 @@ preservation, and (iv) structural reorganization."
 
 ## What it does not say
 
-That no symmetry applies: equivariance is "often more apt than literal
+That no symmetry applies: equivariance ([TERM-004](../terms.d/TERM-004.md)) is "often more apt than literal
 invariance" (§4). Nor does it supply a criterion for telling (ii) from (iv);
 [CLAIM-004](CLAIM-004.md) was one.
 

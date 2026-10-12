@@ -42,6 +42,7 @@ complements:
 - CLAIM-115
 uses:
 - TERM-014
+- TERM-040
 summary: >-
   The assistant's, at A210 §5 after the owner's U58, and again at A214
   §3–§4. It recurs from U56 (A203 §37) to U60 (A218 H3), so it gets a
@@ -93,7 +94,7 @@ The record holds both halves already, in other terms.
   "relative to a chosen family of measurements", and that agreement on a
   restricted family is not structural identity is [CLAIM-142](CLAIM-142.md).
 
-What this claim adds is the consequence for method. A communicative kind
+What this claim adds is the consequence for method. A communicative kind ([TERM-040](../terms.d/TERM-040.md))
 must be tested against probe families chosen for their bearing on the
 act, not inferred from whichever matrix is to hand. A214 §4 names such
 families: document × word, realization × interpreter, realization ×

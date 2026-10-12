@@ -6,8 +6,9 @@
 
 **Psychopathology and treatment** — what a mental disorder is and how psychological treatment changes it — medical models of illness (biomedical, biopsychosocial, network), the philosophy of psychiatry, functional and transdiagnostic accounts of psychopathology such as experiential avoidance and psychological flexibility, and psychotherapies and their mechanisms of change (ADR-021).
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+2 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-045](../../../record/questions.d/QUESTION-045.md) | Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and what would show that the maintaining link, not the regime's content, is what keeps it in place? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-079](../../../record/claims.d/CLAIM-079.md), [CLAIM-025](../../../record/claims.d/CLAIM-025.md), [CLAIM-099](../../../record/claims.d/CLAIM-099.md) and [CLAIM-018](../../../record/claims.d/CLAIM-018.md). [THEORY-058](../../../record/theory.d/THEORY-058.md), [THEORY-050](../../../record/theory.d/THEORY-050.md), [THEORY-052](../../../record/theory.d/THEORY-052.md) and [THEORY-053](../../../record/theory.d/THEORY-053.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-056](../../../record/questions.d/QUESTION-056.md) | When the mechanisms composing a will-organization are described by control theory and executive-control research, does that description implement the will-organization account or replace it, and what result would show the agent-level description had become idle? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-024](../../../record/claims.d/CLAIM-024.md), [CLAIM-021](../../../record/claims.d/CLAIM-021.md), [CLAIM-122](../../../record/claims.d/CLAIM-122.md) and [CLAIM-174](../../../record/claims.d/CLAIM-174.md). [THEORY-048](../../../record/theory.d/THEORY-048.md) answers it in part; the body gives each one's limit. | Open |

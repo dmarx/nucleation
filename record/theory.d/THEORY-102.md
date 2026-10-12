@@ -43,6 +43,8 @@ summary: >-
   threshold images only, sparse right-lateralised frontal coverage, one
   frequency band; it does not show the code tracks experience rather than
   input.
+answers:
+- QUESTION-061
 ---
 <!-- inactive-ok-file: THEORY-097 — Proposed; filed in the same batch, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; the crow report-correlate account filed alongside, named in Connections for contrast, nothing here rests on it -->
@@ -179,3 +181,7 @@ question; nothing here tests their argument.
   here, without report, frontal content was only an onset burst. The two
   do not conflict; report may be what recruits sustained frontal coding.
   Neither tests that.
+
+## Note of 2026-10-12: bearing on [THEORY-096](THEORY-096.md)'s wording
+
+This finding meets the onset prediction the workspace's proponents made, and [THEORY-096](THEORY-096.md) states the workspace account. But [THEORY-096](THEORY-096.md)'s statement says ignition "sustains" the content. A sustained prefrontal code was not found here, and the proponents did not predict one. A note on [THEORY-096](THEORY-096.md) records the gap. No relation is declared.

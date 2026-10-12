@@ -106,7 +106,7 @@ ground truth for [QUESTION-027](../questions.d/QUESTION-027.md).
 
 It has not been run, and every cell is an example label, not a stimulus.
 Its "intervention responses" manipulate a described speaker or history. In
-a judgement study that is a framing intervention on the interpreter
+a judgement study that is a framing intervention ([TERM-018](../terms.d/TERM-018.md)) on the interpreter
 ([CLAIM-127](../claims.d/CLAIM-127.md), [CLAIM-130](../claims.d/CLAIM-130.md)), not a change to the performed act. So the
 design can show how interpretation responds to information about the
 situation, and not whether the act itself changed. Nor does a clean result

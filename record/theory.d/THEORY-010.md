@@ -25,6 +25,8 @@ summary: >-
   ([LIT-016](../literature.d/LIT-016.md), [LIT-003](../literature.d/LIT-003.md)) and against Spekkens's epistricted models ([LIT-007](../literature.d/LIT-007.md)). The
   placement is the record's, joining [NOTE-044](../notes.d/NOTE-044.md)'s reading with [LIT-007](../literature.d/LIT-007.md) and
   [LIT-016](../literature.d/LIT-016.md); Grangier's own derivations are not held.
+supports:
+- CLAIM-041
 ---
 
 # THEORY-010: Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model

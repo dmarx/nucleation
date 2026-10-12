@@ -6,8 +6,9 @@
 
 **Ecology** — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028).
 
-1 of 42 CASE documents. Back to the [full index](../README.md).
+2 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-024](../../../record/cases.d/CASE-024.md) | A coral reef | The owner's second holobiont direction (U30): a reef as a coordinated ecological whole. Its job changed four times in the exchange; filed once so that each change is visible. | Active |
+| [CASE-047](../../../record/cases.d/CASE-047.md) | Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person | The owner's example (2026-10-11). The human gut microbiome is a community of other organisms inside the person. Through metabolites, mimics of host appetite peptides, the immune system and the vagus, it can change hunger and affect: robustly in rodents, modestly and inconsistently in humans so far. Documented, with the evidence graded in [LIT-903](../../../record/literature.d/LIT-903.md) and [LIT-915](../../../record/literature.d/LIT-915.md). Used as the case of drive from a lower level that is itself a collective. | Active |

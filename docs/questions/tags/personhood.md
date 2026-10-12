@@ -6,8 +6,8 @@
 
 **Personhood** — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+1 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-043](../../../record/questions.d/QUESTION-043.md) | For a person, what coherence measure is conserved along the trajectory when the person persists as the same self, and is a life story, whose content is known to change, a candidate for it? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-161](../../../record/claims.d/CLAIM-161.md) and [CLAIM-152](../../../record/claims.d/CLAIM-152.md). [THEORY-060](../../../record/theory.d/THEORY-060.md) answers it in part; the body gives each one's limit. | Open |

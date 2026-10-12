@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-4 of 42 CASE documents. Back to the [full index](../README.md).
+5 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [CASE-003](../../../record/cases.d/CASE-003.md) | Northstar-A and Northstar-B: same policy, same evidence, different escalation authority | Two versions held constant in attitudes, policy, monitoring and evidence, differing only in whether a specialist's objection suspends deployment (Section 5.1). The paper's controlled contrast. | Active |
 | [CASE-016](../../../record/cases.d/CASE-016.md) | The Dual State: normative and prerogative authority in National Socialist Germany | Fraenkel's analysis: ordinary legal norms kept governing large domains while a prerogative order held authority over whether they bound at all. Used for one structural point only. | Active |
 | [CASE-023](../../../record/cases.d/CASE-023.md) | Northstar | A fictional software company whose stated policy gives reliability priority over release speed, and whose escalation and authority structures may make speed effective anyway. The paper's worked case, in several variants. | Active |
+| [CASE-050](../../../record/cases.d/CASE-050.md) | The all-hands: a corporate event as a synchronization mechanism for the firm | The owner's case (2026-10-11): a company all-hands or offsite as a mechanism that synchronizes a "corporate entity", a kind of self. The teams' priorities have drifted apart, and the event re-couples them. It is the firm-scale counterpart of the session's individual routes: entrainment by co-presence, a record written for later readers, and incentives realigned. Whether the firm so synchronized is a self is the open question, not something the case settles. | Active |

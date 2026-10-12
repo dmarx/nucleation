@@ -49,6 +49,8 @@ summary: >-
   general solution.
 presupposed_by:
 - THEORY-098
+answers:
+- QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-100 THEORY-102 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->
 <!-- inactive-ok-file: THEORY-098 THEORY-103 — Proposed; filed in the same batch and named in Connections -->

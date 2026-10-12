@@ -45,6 +45,9 @@ summary: >-
   weak-responsiveness origin. The view is compatible with causal
   determinism.
 
+answers:
+- QUESTION-071
+- QUESTION-011
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
 <!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->

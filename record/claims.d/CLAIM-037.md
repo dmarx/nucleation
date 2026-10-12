@@ -23,6 +23,8 @@ grounds:
 - LIT-777
 - LIT-842
 - LIT-844
+- THEORY-014
+- THEORY-020
 summary: >-
   The manuscript's §3 and §9. It separates three things: context
   dependence, stochastic noncommutativity, and contextuality as an
@@ -78,3 +80,10 @@ In Lo et al. ([LIT-844](../literature.d/LIT-844.md)) every instance signals unle
 ½. The two criteria that allow for signalling then diverge widely: 71.1%
 of instances are contextual by Contextuality-by-Default, 0.148% by the
 sheaf criterion. That supports this claim.
+
+## Note of 2026-10-12: evidence now linked
+
+Two THEORYs now ground this claim:
+
+- [THEORY-014](../theory.d/THEORY-014.md): in Contextuality-by-Default a signed maximally connected quasi-coupling always exists, signalling or not, and noncontextuality is the existence of a nonnegative one. This sharpens "global extension" here to mean nonnegative extension.
+- [THEORY-020](../theory.d/THEORY-020.md): the Kochen–Specker failure cannot sit in any one context, only in the agreement where contexts overlap. It is the deterministic case of [THEORY-012](../theory.d/THEORY-012.md), which already grounds this claim.

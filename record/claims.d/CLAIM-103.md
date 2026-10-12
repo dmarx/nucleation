@@ -16,6 +16,8 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-113
+uses:
+- TERM-036
 summary: >-
   A110 §25, recovered. The manuscript §4 keeps "invertible symmetry maps
   are special cases" and drops the nesting and the yardstick role,

@@ -6,8 +6,8 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+1 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-051](../../../record/cases.d/CASE-051.md) | The absorbed writer | The reluctant writer ([CASE-013](../../../record/cases.d/CASE-013.md)) on a third afternoon. The draft is going well and email stays open and unblocked, but it does not win, and no rule or device is invoked. A notification breaks the spell, and getting back in takes effort. It shows integration with nothing to integrate, beside the lapse and the precommitment. | Active |

@@ -16,6 +16,7 @@ summary: >-
   The fourth of the five central questions (A110 §IX). The manuscript
   states the failure (§7) and its benchmarks (§10) but not the question.
 ---
+<!-- inactive-ok-file: CLAIM-013 THEORY-117 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-123 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-018: When a generator receives several conditions, what determines whether it preserves their conjunction and relational bindings?
@@ -36,3 +37,17 @@ identity for arbitrary prompt embeddings or finite-step diffusion
 implementations", and that failures "may reflect estimator error, model
 misspecification, or sampling limitations". Which of these explains a given
 relational failure is the open part. [CASE-004](../cases.d/CASE-004.md) is the case.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-117](../theory.d/THEORY-117.md): Compositional generalization comes from diversity of
+  combinations, not data volume: in vision models…
+- [CLAIM-097](../claims.d/CLAIM-097.md): T2I-CompBench is not purely object-centered: its non-spatial
+  relation category already probes…
+- [CLAIM-013](../claims.d/CLAIM-013.md): Existing text-to-image benchmarks evaluate object presence
+  and attributes, and need extending to…

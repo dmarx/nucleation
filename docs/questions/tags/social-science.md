@@ -6,8 +6,9 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+2 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-041](../../../record/questions.d/QUESTION-041.md) | When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-030](../../../record/claims.d/CLAIM-030.md), [CLAIM-025](../../../record/claims.d/CLAIM-025.md) and [CLAIM-099](../../../record/claims.d/CLAIM-099.md). [THEORY-149](../../../record/theory.d/THEORY-149.md), [THEORY-152](../../../record/theory.d/THEORY-152.md) and [THEORY-207](../../../record/theory.d/THEORY-207.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-066](../../../record/questions.d/QUESTION-066.md) | Does the way a course of action is held, under felt external control or for the agent's own reasons, set how long it persists once outside support is removed, with the agent's valuation of the activity held fixed? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-027](../../../record/claims.d/CLAIM-027.md), [CLAIM-122](../../../record/claims.d/CLAIM-122.md) and [CLAIM-089](../../../record/claims.d/CLAIM-089.md). [THEORY-046](../../../record/theory.d/THEORY-046.md), [THEORY-049](../../../record/theory.d/THEORY-049.md), [THEORY-154](../../../record/theory.d/THEORY-154.md) and [THEORY-077](../../../record/theory.d/THEORY-077.md) answer it in part; the body gives each one's limit. | Open |

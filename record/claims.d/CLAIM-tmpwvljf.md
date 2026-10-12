@@ -26,6 +26,7 @@ summary: >-
   the definition. It does not say no other component could catch an
   addition, or that additions are distortions.
 ---
+<!-- ref::uses-file: TERM-021 — applied unnamed: the D_obs this objection examines is context-indexed distribution matching summed over source contexts -->
 <!-- inactive-ok-file: CLAIM-005 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-076 CLAIM-087 CLAIM-128 CLAIM-034 — Proposed; the claims on added relations, the profile and adaptive translation, cited as open -->
 

@@ -18,6 +18,7 @@ summary: >-
   improving the interpreter (§5), and an implication (§11); the trade-
   off itself was dropped without critique.
 ---
+<!-- inactive-ok-file: CLAIM-049 CLAIM-074 CLAIM-182 THEORY-169 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-767 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
@@ -51,3 +52,21 @@ improving the interpreter (test-time training) than by conditioning alone.
 That is direct evidence that adaptation can stand in for transmitted
 information. Min et al. ([LIT-814](../literature.d/LIT-814.md)) find that the correctness of the
 labels carries little of what a context transmits.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-169](../theory.d/THEORY-169.md): In attention layers, conditioning on a context is exactly
+  training a learner on it and predicting: linear…
+- [CLAIM-074](../claims.d/CLAIM-074.md): Fidelity is relative to the interpreter's learning history: a
+  frame given in context is transient while an…
+- [CLAIM-049](../claims.d/CLAIM-049.md): An adaptive interpreter's state includes its message, context
+  knowledge and learned parameters, and…
+- [CASE-005](../cases.d/CASE-005.md): The language-model experiments: frame commutator, trajectory-
+  preserving selection, ICL against TTT
+- [CLAIM-182](../claims.d/CLAIM-182.md): Storage is not anchoring, addressability is: a structure that
+  is kept but cannot be pointed at part by…

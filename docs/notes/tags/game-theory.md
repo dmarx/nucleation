@@ -4,7 +4,7 @@
 
 **game-theory**.
 
-11 of 702 NOTE documents. Back to the [full index](../README.md).
+11 of 710 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

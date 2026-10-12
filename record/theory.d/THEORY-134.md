@@ -21,6 +21,8 @@ summary: >-
   stability; that contrast is a further step.
 supports:
 - CLAIM-079
+- CLAIM-185
+- CLAIM-195
 ---
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for a parallel -->
 <!-- inactive-ok-file: LIT-738 — Deferred, unread; Aubin's monograph, named as the general theory the notes restrict -->

@@ -19,7 +19,10 @@ summary: >-
   relative to the probes, so how rich must the probes be? The discrete
   case has exact answers, and so does a metric-enriched one. The
   stochastic, decision-relative version is open.
+answered_by:
+- CLAIM-193
 ---
+<!-- inactive-ok-file: CLAIM-129 CLAIM-149 THEORY-008 THEORY-019 THEORY-175 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-077 CLAIM-050 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # QUESTION-031: When does a chosen family of observational probes separate the communicative realizations a task needs told apart, and when does it collapse distinct ones?
@@ -78,3 +81,24 @@ a weighted sum of per-probe distances, is not a Yoneda construction: it
 ignores composition. [QUESTION-022](QUESTION-022.md) asks the neighbouring question for
 transports: which stochastic maps carry compatible empirical models to
 compatible ones.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-175](../theory.d/THEORY-175.md): Cosine similarities to matched anchor points are invariant
+  exactly to the maps that preserve cosines, and…
+- [CLAIM-129](../claims.d/CLAIM-129.md): A factorization recovers only the structure visible in the
+  relations it is fitted to, so a topic can…
+- [CLAIM-149](../claims.d/CLAIM-149.md): A probe family that supplies a transformation's training
+  signal cannot also certify what the…
+- [THEORY-019](../theory.d/THEORY-019.md): Symmetry forces spectral degeneracy but degeneracy does not
+  identify a symmetry: an operator commuting…
+- [THEORY-008](../theory.d/THEORY-008.md): What a regularized linear readout can decode from a
+  representation is a function of its normalized kernel,…
+
+[THEORY-008](../theory.d/THEORY-008.md) gives half of an answer for linear probes: a regularized linear
+readout can decode only what is a function of the normalized kernel.

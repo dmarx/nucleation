@@ -6,8 +6,9 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-0 of 42 CASE documents. Back to the [full index](../README.md).
+2 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-046](../../../record/cases.d/CASE-046.md) | A partner-dancing couple, lindy hop, tango or salsa, while they dance | The owner's case (2026-10-11). Two social dancers improvise together. The lead proposes through the frame, the follow interprets and adds styling, and each corrects for the other's balance and timing. Neither alone decides where the next step lands. Used to ask what the pair is while dancing, and only after that whether it is a self. | Active |
+| [CASE-052](../../../record/cases.d/CASE-052.md) | Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast | As boyd (2008) reports it after Meyrowitz (1985: 43): the civil rights leader Stokely Carmichael used very different rhetorical styles with black and with white audiences. While the audiences were separate the two styles did not conflict. Television and radio put both audiences in front of one speech, there was no neutral style, and his choice of one alienated the other audience. The roles did not change. The cover did. | Active |

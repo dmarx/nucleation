@@ -38,6 +38,7 @@ summary: >-
   available measurement cover". A proposal; its test is the discriminating
   study.
 ---
+<!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the headline this claim narrows, open -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for its scenario-dependent constant, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpx3m7e — Proposed; the measure of a change of cover, cited as a companion proposal -->

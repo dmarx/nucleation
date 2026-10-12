@@ -50,6 +50,8 @@ summary: >-
   variants: dropout-trained generalisers are not Fourier-sparse. It is not
   evidence that a network discovered the group, which was given, or that the
   frequencies could be read off a spectrum.
+answers:
+- QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-183 — Proposed; cited as the data-side mechanism, not as settled -->
 

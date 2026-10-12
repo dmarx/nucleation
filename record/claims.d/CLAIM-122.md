@@ -20,10 +20,13 @@ grounds:
 - CASE-003
 objects_to:
 - CLAIM-089
+uses:
+- TERM-023
 summary: >-
   The reply to [CLAIM-089](CLAIM-089.md) (Section 3.5), by precommitment in a person
   and escalation authority in a firm.
 ---
+<!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-122: Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed

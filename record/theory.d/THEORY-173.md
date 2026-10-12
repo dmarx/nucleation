@@ -34,6 +34,7 @@ rivals:
 - THEORY-208
 supports:
 - CLAIM-tmpi6n8k
+- CLAIM-068
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 

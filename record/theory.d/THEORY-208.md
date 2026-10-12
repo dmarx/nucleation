@@ -42,6 +42,8 @@ summary: >-
   Proposed: the paper assumes that AI is an agent, does not argue for
   this thesis over its rival, asserts that AI lacks intelligence, and
   never states the level of abstraction its comparison uses.
+answers:
+- QUESTION-032
 ---
 <!-- inactive-ok-file: THEORY-071 THEORY-173 THEORY-043 — Proposed; rival and adjacent accounts, named as such -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection this account accepts -->

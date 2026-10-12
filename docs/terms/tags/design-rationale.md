@@ -6,8 +6,8 @@
 
 **Design rationale** — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-0 of 43 TERM documents. Back to the [full index](../README.md).
+1 of 52 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-052](../../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |

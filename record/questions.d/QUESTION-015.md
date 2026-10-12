@@ -14,9 +14,14 @@ answered_by:
 - CLAIM-027
 - CLAIM-047
 - CLAIM-080
+- THEORY-062
 summary: >-
   The question the will paper answers, in its own words (Section 2). Open:
   the paper's answer, [CLAIM-027](../claims.d/CLAIM-027.md), is Proposed.
+refined_by:
+- QUESTION-034
+- QUESTION-062
+- QUESTION-066
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
 <!-- inactive-ok-file: CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -36,3 +41,7 @@ whether a collective is one is [QUESTION-009](QUESTION-009.md), set aside.
 An organizational relation that, intervened on while the competing regimes are
 held fixed, changes which regime becomes effective, and does so across
 different realizers (the intervention criterion, Section 3.8).
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-062](../theory.d/THEORY-062.md) now carries an `answered_by` edge. Which controller governs follows the controllers' relative reliability, not a supervisor's preference. This is shown for one pair of controllers.

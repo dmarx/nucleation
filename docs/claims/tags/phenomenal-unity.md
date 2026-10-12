@@ -6,8 +6,8 @@
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-0 of 151 CLAIM documents. Back to the [full index](../README.md).
+1 of 198 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-153](../../../record/claims.d/CLAIM-153.md) | Failure of a self to hold together across contexts is a monodromy around a cycle of contexts: any two locally consistent contexts glue, and the minimal model of the obstruction needs three | Dual-filed from [MOM-CLM-165](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-165.md) ([ADR-037](../../../record/decisions.d/ADR-037.md)). Model contexts (roles, personas, sub-agents) as a cover, and the offsets that reconcile neighbours as a cochain. A global section, one coherent self, exists exactly when the monodromy Φ around a cycle vanishes. Two contexts always glue, so compartmentalization needs a loop. The frustrated XY or Kuramoto energy finds the obstruction: its minimum is 0 exactly when Φ ≡ 0. Abelian case only; re-checked here. | Active |

@@ -6,8 +6,8 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-0 of 31 QUESTION documents. Back to the [full index](../README.md).
+1 of 72 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-066](../../../record/questions.d/QUESTION-066.md) | Does the way a course of action is held, under felt external control or for the agent's own reasons, set how long it persists once outside support is removed, with the agent's valuation of the activity held fixed? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-027](../../../record/claims.d/CLAIM-027.md), [CLAIM-122](../../../record/claims.d/CLAIM-122.md) and [CLAIM-089](../../../record/claims.d/CLAIM-089.md). [THEORY-046](../../../record/theory.d/THEORY-046.md), [THEORY-049](../../../record/theory.d/THEORY-049.md), [THEORY-154](../../../record/theory.d/THEORY-154.md) and [THEORY-077](../../../record/theory.d/THEORY-077.md) answer it in part; the body gives each one's limit. | Open |

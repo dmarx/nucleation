@@ -21,6 +21,8 @@ summary: >-
   The theorem is settled. Whether pairwise decisiveness is what liberty is
   remains open, and the record reads the rights-as-game-forms literature
   only through Sen's reply to it.
+answers:
+- QUESTION-007
 ---
 
 # THEORY-027: Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow's theorem, the conflict is not removed by interpersonal comparability

@@ -28,17 +28,18 @@ this directory, then run `luria index`.
 **[Natural sciences](tags/natural-sciences.md)** (1) — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim:
 [039](../../record/cases.d/CASE-039.md)
 
-**[Ecology](tags/ecology.md)** (1) — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028):
-[024](../../record/cases.d/CASE-024.md)
+**[Ecology](tags/ecology.md)** (2) — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028):
+[024](../../record/cases.d/CASE-024.md) · [047](../../record/cases.d/CASE-047.md)
 
 **[Thermodynamics](tags/thermodynamics.md)** (0) — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
 **[Operations research](tags/operations-research.md)** (0) — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-**[Society and governance](tags/society-and-governance.md)** (4) — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations:
-[002](../../record/cases.d/CASE-002.md) · [003](../../record/cases.d/CASE-003.md) · [016](../../record/cases.d/CASE-016.md) · [023](../../record/cases.d/CASE-023.md)
+**[Society and governance](tags/society-and-governance.md)** (5) — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations:
+[002](../../record/cases.d/CASE-002.md) · [003](../../record/cases.d/CASE-003.md) · [016](../../record/cases.d/CASE-016.md) · [023](../../record/cases.d/CASE-023.md) · [050](../../record/cases.d/CASE-050.md)
 
-**[Information theory](tags/information-theory.md)** (0) — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
+**[Information theory](tags/information-theory.md)** (1) — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning:
+[043](../../record/cases.d/CASE-043.md)
 
 **[Representation learning](tags/representation-learning.md)** (4) — how learned systems come to represent their data — self-supervised and contrastive objectives, spectral embeddings, information bottlenecks, knowledge-graph embeddings, and whether representations converge:
 [005](../../record/cases.d/CASE-005.md) · [020](../../record/cases.d/CASE-020.md) · [041](../../record/cases.d/CASE-041.md) · [042](../../record/cases.d/CASE-042.md)
@@ -55,12 +56,13 @@ this directory, then run `luria index`.
 
 **[Design rationale](tags/design-rationale.md)** (0) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-**[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
+**[Social science](tags/social-science.md)** (1) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy:
+[052](../../record/cases.d/CASE-052.md)
 
 **[Causality](tags/causality.md)** (0) — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-**[Pragmatics](tags/pragmatics.md)** (2) — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034):
-[038](../../record/cases.d/CASE-038.md) · [040](../../record/cases.d/CASE-040.md)
+**[Pragmatics](tags/pragmatics.md)** (6) — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034):
+[038](../../record/cases.d/CASE-038.md) · [040](../../record/cases.d/CASE-040.md) · [043](../../record/cases.d/CASE-043.md) · [048](../../record/cases.d/CASE-048.md) · [049](../../record/cases.d/CASE-049.md) · [052](../../record/cases.d/CASE-052.md)
 
 **[Myth and folklore](tags/myth-and-folklore.md)** (0) — myths, folktales and their variants as objects of study — morphology of the folktale, structural and transformational analysis of myth, and the computational modelling of either (ADR-034).
 
@@ -74,16 +76,19 @@ this directory, then run `luria index`.
 
 **[Mereology](tags/mereology.md)** (0) — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-**[Agency](tags/agency.md)** (12) — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy):
-[002](../../record/cases.d/CASE-002.md) · [003](../../record/cases.d/CASE-003.md) · [006](../../record/cases.d/CASE-006.md) · [007](../../record/cases.d/CASE-007.md) · [013](../../record/cases.d/CASE-013.md) · [014](../../record/cases.d/CASE-014.md) · [023](../../record/cases.d/CASE-023.md) · [024](../../record/cases.d/CASE-024.md) · [025](../../record/cases.d/CASE-025.md) · [028](../../record/cases.d/CASE-028.md) · [034](../../record/cases.d/CASE-034.md) · [036](../../record/cases.d/CASE-036.md)
+**[Agency](tags/agency.md)** (17) — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy):
+[002](../../record/cases.d/CASE-002.md) · [003](../../record/cases.d/CASE-003.md) · [006](../../record/cases.d/CASE-006.md) · [007](../../record/cases.d/CASE-007.md) · [013](../../record/cases.d/CASE-013.md) · [014](../../record/cases.d/CASE-014.md) · [023](../../record/cases.d/CASE-023.md) · [024](../../record/cases.d/CASE-024.md) · [025](../../record/cases.d/CASE-025.md) · [028](../../record/cases.d/CASE-028.md) · [034](../../record/cases.d/CASE-034.md) · [036](../../record/cases.d/CASE-036.md) · [044](../../record/cases.d/CASE-044.md) · [046](../../record/cases.d/CASE-046.md) · [047](../../record/cases.d/CASE-047.md) · [050](../../record/cases.d/CASE-050.md) · [051](../../record/cases.d/CASE-051.md)
 
-**[Individuation](tags/individuation.md)** (0) — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
+**[Individuation](tags/individuation.md)** (1) — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024):
+[045](../../record/cases.d/CASE-045.md)
 
-**[Self](tags/self.md)** (0) — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
+**[Self](tags/self.md)** (2) — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024):
+[046](../../record/cases.d/CASE-046.md) · [052](../../record/cases.d/CASE-052.md)
 
 **[Personhood](tags/personhood.md)** (0) — what a person is and what makes one persist — personal identity over time, psychological continuity and what matters in survival, persons as bearers of reasons, rights and responsibility. Not the self, which is self (group: philosophy; ADR-024).
 
-**[Behavioral integration](tags/behavioral-integration.md)** (0) — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
+**[Behavioral integration](tags/behavioral-integration.md)** (1) — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024):
+[051](../../record/cases.d/CASE-051.md)
 
 **[Phenomenal unity](tags/phenomenal-unity.md)** (0) — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
@@ -94,8 +99,8 @@ this directory, then run `luria index`.
 
 **[Phenomenology](tags/phenomenology.md)** (0) — the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016).
 
-**[Social ontology](tags/social-ontology.md)** (5) — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017):
-[006](../../record/cases.d/CASE-006.md) · [007](../../record/cases.d/CASE-007.md) · [014](../../record/cases.d/CASE-014.md) · [025](../../record/cases.d/CASE-025.md) · [028](../../record/cases.d/CASE-028.md)
+**[Social ontology](tags/social-ontology.md)** (6) — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017):
+[006](../../record/cases.d/CASE-006.md) · [007](../../record/cases.d/CASE-007.md) · [014](../../record/cases.d/CASE-014.md) · [025](../../record/cases.d/CASE-025.md) · [028](../../record/cases.d/CASE-028.md) · [050](../../record/cases.d/CASE-050.md)
 
 **[Moral psychology](tags/moral-psychology.md)** (0) — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
@@ -112,7 +117,8 @@ this directory, then run `luria index`.
 
 **[Philosophy of biology](tags/philosophy-of-biology.md)** (0) — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-**[Embodied cognition](tags/embodied-cognition.md)** (0) — cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025).
+**[Embodied cognition](tags/embodied-cognition.md)** (2) — cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025):
+[045](../../record/cases.d/CASE-045.md) · [046](../../record/cases.d/CASE-046.md)
 
 **[Free will](tags/free-will.md)** (0) — free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025).
 
@@ -131,7 +137,8 @@ this directory, then run `luria index`.
 **[Cognition](tags/cognition.md)** (2) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy):
 [015](../../record/cases.d/CASE-015.md) · [033](../../record/cases.d/CASE-033.md)
 
-**[Emotion and affect](tags/emotion-and-affect.md)** (0) — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
+**[Emotion and affect](tags/emotion-and-affect.md)** (1) — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014):
+[047](../../record/cases.d/CASE-047.md)
 
 **[Philosophy of science](tags/philosophy-of-science.md)** (0) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
@@ -141,18 +148,18 @@ this directory, then run `luria index`.
 
 **[Philosophy of mathematics](tags/philosophy-of-mathematics.md)** (0) — what mathematics is about and how we know it — mathematical structuralism and ontology, the nature of proof and construction, and its history from Descartes to Kant and after (group: philosophy).
 
-**[Philosophy of language](tags/philosophy-of-language.md)** (19) — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy):
-[004](../../record/cases.d/CASE-004.md) · [005](../../record/cases.d/CASE-005.md) · [008](../../record/cases.d/CASE-008.md) · [009](../../record/cases.d/CASE-009.md) · [010](../../record/cases.d/CASE-010.md) · [011](../../record/cases.d/CASE-011.md) · [012](../../record/cases.d/CASE-012.md) · [015](../../record/cases.d/CASE-015.md) · [018](../../record/cases.d/CASE-018.md) · [019](../../record/cases.d/CASE-019.md) · [020](../../record/cases.d/CASE-020.md) · [021](../../record/cases.d/CASE-021.md) · [022](../../record/cases.d/CASE-022.md) · [026](../../record/cases.d/CASE-026.md) · [027](../../record/cases.d/CASE-027.md) · [029](../../record/cases.d/CASE-029.md) · [030](../../record/cases.d/CASE-030.md) · [031](../../record/cases.d/CASE-031.md) · [032](../../record/cases.d/CASE-032.md)
+**[Philosophy of language](tags/philosophy-of-language.md)** (21) — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy):
+[004](../../record/cases.d/CASE-004.md) · [005](../../record/cases.d/CASE-005.md) · [008](../../record/cases.d/CASE-008.md) · [009](../../record/cases.d/CASE-009.md) · [010](../../record/cases.d/CASE-010.md) · [011](../../record/cases.d/CASE-011.md) · [012](../../record/cases.d/CASE-012.md) · [015](../../record/cases.d/CASE-015.md) · [018](../../record/cases.d/CASE-018.md) · [019](../../record/cases.d/CASE-019.md) · [020](../../record/cases.d/CASE-020.md) · [021](../../record/cases.d/CASE-021.md) · [022](../../record/cases.d/CASE-022.md) · [026](../../record/cases.d/CASE-026.md) · [027](../../record/cases.d/CASE-027.md) · [029](../../record/cases.d/CASE-029.md) · [030](../../record/cases.d/CASE-030.md) · [031](../../record/cases.d/CASE-031.md) · [032](../../record/cases.d/CASE-032.md) · [048](../../record/cases.d/CASE-048.md) · [049](../../record/cases.d/CASE-049.md)
 
 **[Religion](tags/religion.md)** (0) — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [Active](status/Active.md) (38) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (1) · [Superseded](status/Superseded.md) (3) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (48) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (1) · [Superseded](status/Superseded.md) (3) · [Rejected](status/Rejected.md) (0)
 
-**By standing:** [Documented](standing/documented.md) (11) · [Stipulated](standing/stipulated.md) (17) · [Fictional](standing/fictional.md) (14)
+**By standing:** [Documented](standing/documented.md) (12) · [Stipulated](standing/stipulated.md) (25) · [Fictional](standing/fictional.md) (15)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (0) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (28)
+**By line:** [Distributed agency](line/distributed-agency.md) (6) · [Will-organization](line/will-organization.md) (7) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (31) · [Nucleating an argument](line/nucleating-argument.md) (0) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -208,4 +215,14 @@ What the status column means in this scheme — the words are luria's, the meani
 | [CASE-040](../../record/cases.d/CASE-040.md) | Topic and act crossed: a factorial design that decorrelates what a text is about from what it does | A214 §8's design, which A218 names as the first experiment to run: topic (spending, relationships) crossed with act (teasing, reprimand), with lexical, judgement, uptake and intervention data, several factorizations, and four outcomes reported separately. A210 §5 gives a cross-corpus version. Proposed by the assistant; not run. | Active |
 | [CASE-041](../../record/cases.d/CASE-041.md) | FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it | The owner pointed to FID at U50 and proposed FID with Projected GANs as a paired case study at U51. A184 framed the pair: FID evaluates a distribution through probes, and Projected GANs learn one under pressure from probes. The anthology's readings supply the fact the exchange lacked. The Projected GAN discriminator is ImageNet-trained, FID's features are ImageNet class evidence, and Kynkäänniemi et al. show that such a generator can match FID while doing worse in an independent feature space and with human judges. | Active |
 | [CASE-042](../../record/cases.d/CASE-042.md) | Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions | Proposed as a laboratory by the owner at U57 and conceded as prior art after the owner's U58. Collaborative filtering recovers a user–item matrix's predicted relations with latent coordinates fixed only up to an invertible change; topic models recover individual topics only under nonnegativity plus separability or anchor-word conditions. It shows that recovery is possible and limited, not that a recovered component is a communicative kind. | Active |
+| [CASE-043](../../record/cases.d/CASE-043.md) | Data written for a future reader and never read | The owner's variant of the tree in the woods (2026-10-11). Someone writes a record (a note, a log, a letter, a backup) for a reader they expect, and it is never read. Unlike the tree, the write was made for someone. Used to separate when a message's intended meaning is fixed from when its fidelity is measured. | Active |
+| [CASE-044](../../record/cases.d/CASE-044.md) | The thermostat: Dennett's knife edge between agent and device | An ordinary thermostat holding a room at a setpoint. Dennett calls it the simplest artifact that can sustain the intentional stance, and Orseau et al. place it "on the knife edge": "if temperature is below the command, start heating" and "make sure the temperature is close to the command" are descriptions of comparable simplicity. It is the permissiveness objection's standard case, here given a code at its second appearance after [CLAIM-010](../../record/claims.d/CLAIM-010.md). | Active |
+| [CASE-045](../../record/cases.d/CASE-045.md) v3 | Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it? | A proposed study, not run. Motion-capture several couples dancing an improvised partner dance to recorded music, and record the same people standing and talking after the song. Fit a linear model to the joint kinematics, with the music's beat as an exogenous input. Then ask whether the pair is a block whose gap beats its Occam factor during the dance and not after, whether it compensates under a perturbation, and whether the coupling runs both ways. | Active |
+| [CASE-046](../../record/cases.d/CASE-046.md) | A partner-dancing couple, lindy hop, tango or salsa, while they dance | The owner's case (2026-10-11). Two social dancers improvise together. The lead proposes through the frame, the follow interprets and adds styling, and each corrects for the other's balance and timing. Neither alone decides where the next step lands. Used to ask what the pair is while dancing, and only after that whether it is a self. | Active |
+| [CASE-047](../../record/cases.d/CASE-047.md) | Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person | The owner's example (2026-10-11). The human gut microbiome is a community of other organisms inside the person. Through metabolites, mimics of host appetite peptides, the immune system and the vagus, it can change hunger and affect: robustly in rodents, modestly and inconsistently in humans so far. Documented, with the evidence graded in [LIT-903](../../record/literature.d/LIT-903.md) and [LIT-915](../../record/literature.d/LIT-915.md). Used as the case of drive from a lower level that is itself a collective. | Active |
+| [CASE-048](../../record/cases.d/CASE-048.md) v2 | The same film joke, seen as a child and again as an adult | The owner's case (2026-10-11): one person watches a scene in a family film or show as a child and again as an adult, and the joke means something different the second time. The artefact is unchanged, and so is the person in the sense of numerical identity. Only the receiver's state has changed. It is a test for whether meaning is fixed at the write or made at the read. | Active |
+| [CASE-049](../../record/cases.d/CASE-049.md) | A tree falls in the woods with no one to hear it | The old puzzle, filed so its variants have something to vary. A physical event happens with no perceiver. Whether it "made a sound" turns on whether sound means the vibration or the hearing. Nothing in it was made for anyone, and that is the respect the storage variant changes. | Active |
+| [CASE-050](../../record/cases.d/CASE-050.md) | The all-hands: a corporate event as a synchronization mechanism for the firm | The owner's case (2026-10-11): a company all-hands or offsite as a mechanism that synchronizes a "corporate entity", a kind of self. The teams' priorities have drifted apart, and the event re-couples them. It is the firm-scale counterpart of the session's individual routes: entrainment by co-presence, a record written for later readers, and incentives realigned. Whether the firm so synchronized is a self is the open question, not something the case settles. | Active |
+| [CASE-051](../../record/cases.d/CASE-051.md) | The absorbed writer | The reluctant writer ([CASE-013](../../record/cases.d/CASE-013.md)) on a third afternoon. The draft is going well and email stays open and unblocked, but it does not win, and no rule or device is invoked. A notification breaks the spell, and getting back in takes effort. It shows integration with nothing to integrate, beside the lapse and the precommitment. | Active |
+| [CASE-052](../../record/cases.d/CASE-052.md) | Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast | As boyd (2008) reports it after Meyrowitz (1985: 43): the civil rights leader Stokely Carmichael used very different rhetorical styles with black and with white audiences. While the audiences were separate the two styles did not conflict. Television and radio put both audiences in front of one speech, there was no neutral style, and his choice of one alienated the other audience. The roles did not change. The cover did. | Active |
 

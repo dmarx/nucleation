@@ -31,6 +31,7 @@ objected_by:
 complements:
 - CLAIM-tmp9negs
 ---
+<!-- ref::uses-file: TERM-011 — stated in "frame, as inferred from evidence"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as a worked model of this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-046 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

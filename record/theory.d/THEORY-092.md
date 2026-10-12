@@ -46,6 +46,8 @@ summary: >-
   claim about constitution, not evidence: performance stays evidence for
   competence. It names no required kind of processing, and its machine is
   a lookup table, not a trained network.
+supports:
+- CLAIM-174
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; the account whose mimicry clause this one bears on, named in prose, nothing here rests on it -->
 

@@ -6,7 +6,7 @@
 
 **Agency** — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy).
 
-5 of 43 TERM documents. Back to the [full index](../README.md).
+9 of 52 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,7 @@
 | [TERM-019](../../../record/terms.d/TERM-019.md) | action-generating regime | A relatively stable organization capable of producing a characteristic pattern of agent-level action under appropriate conditions — desires, habits, plans, policies, institutional operating modes (Section 1). | Active |
 | [TERM-020](../../../record/terms.d/TERM-020.md) | protective lock-in | A protective regime that, by reorganizing ordinary activity, generates the conditions that justify its own continuation and reduces the capacity to leave it (Section 6.1). | Active |
 | [TERM-023](../../../record/terms.d/TERM-023.md) v2 | will-organization | The maintained organization of relations governing the conditions under which an agent's available action-generating regimes acquire, retain, lose, or alter practical efficacy (Section 3.2). | Active |
+| [TERM-044](../../../record/terms.d/TERM-044.md) v2 | agent (at a level of description) | A factor of a system, at a stated level of description and for a stated target, that is one system there, whose behaviour is better described as pursuing goals than as an input-output device by more than the Occam cost, and whose policy would adapt if its actions' consequences changed. The general tier, wider than a willed agent and narrower than a control system. | Active |
+| [TERM-047](../../../record/terms.d/TERM-047.md) v2 | jurisdiction of a will-organization | The set of action-generating regimes whose practical efficacy a given will-organization governs: those for which it maintains the conditions under which they acquire, retain, lose or alter efficacy. Its outer reach, as distinct from [TERM-017](../../../record/terms.d/TERM-017.md)'s jurisdiction, which is one relation inside a will-organization. | Active |
+| [TERM-048](../../../record/terms.d/TERM-048.md) | willed agent | An agent ([TERM-044](../../../record/terms.d/TERM-044.md)) whose behaviour is governed by a will-organization ([TERM-023](../../../record/terms.d/TERM-023.md)) over several action-generating regimes, and which is individuated as that will-organization's jurisdiction ([TERM-047](../../../record/terms.d/TERM-047.md)). The middle tier between agency and selfhood; the owner's name, 2026-10-11. | Active |
+| [TERM-051](../../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
