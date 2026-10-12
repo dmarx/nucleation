@@ -456,6 +456,16 @@ vocabularies:
         label: Nucleating an argument
         blurb: how an argument developed across stateless sessions settles into stable, addressable structure,
           and what a project memory contributes — the record itself as the case
+      evidence-for-experience:
+        label: Evidence for experience
+        blurb: what could show that a system, organized, non-biological or without a cortex, has experience
+          and not only access or function, and what each kind of evidence (report, deficit, architecture,
+          behaviour) can and cannot establish
+      learned-structure:
+        label: How training finds structure
+        blurb: why trained networks come to have the structure they have, which features, symmetries and
+          connected solution sets training reaches and why — understanding, not instruction for practice,
+          which belongs to the anthology
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;

@@ -49,6 +49,8 @@ summary: >-
   calls narrative unity less basic in one. A philosophical model argued
   from cases; the analogy is partial by its author's account and its
   terms come from a book the record has not read.
+answers:
+- QUESTION-034
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the rival account, declared -->
 <!-- inactive-ok-file: LIT-488 LIT-596 — Deferred; Shared Agency and "Three Theories of Self-Governance", the works this model presupposes, named and not leaned on -->

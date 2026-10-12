@@ -17,6 +17,8 @@ line: distributed-agency
 grounds:
 - THEORY-150
 - THEORY-025
+- THEORY-135
+- THEORY-141
 summary: >-
   The owner's thread at U37 and U39: corporations trample human wellbeing
   though made of humans; and cancer, autoimmunity and ecosystem collapse
@@ -43,3 +45,7 @@ relations among scales (Section 7.9). The owner's stronger U37 claim — that
 corporations are "substantively different kinds of things" — was narrowed to
 motivational alienness in the drafts without the narrowing being recorded;
 this entry holds the narrow version and names the strong one.
+
+## Note of 2026-10-12: evidence now linked
+
+Two THEORYs now ground this claim's converse, that constitutive dependence does not entail alignment of interests. [THEORY-135](../theory.d/THEORY-135.md): cancer-like cheating is found across the independent origins of complex multicellularity. [THEORY-141](../theory.d/THEORY-141.md): a collective is stable only if selection between collectives comes to trump selection among its units, through mechanisms such as policing.

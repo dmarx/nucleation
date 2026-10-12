@@ -47,6 +47,8 @@ summary: >-
   are the boundary.
 extended_by:
 - THEORY-110
+supports:
+- CLAIM-tmp82c4f
 ---
 <!-- inactive-ok-file: THEORY-109 THEORY-114 THEORY-110 — Proposed; the account this extends and the two filed with it, named in the body -->
 

@@ -33,6 +33,8 @@ summary: >-
   Proposed.
 illustrated_by:
 - CASE-041
+supports:
+- CLAIM-tmpkld6a
 ---
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

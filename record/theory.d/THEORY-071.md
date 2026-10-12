@@ -49,6 +49,10 @@ summary: >-
   asymmetry criterion its authors call incomplete.
 rivals:
 - THEORY-208
+answers:
+- QUESTION-032
+supports:
+- CLAIM-tmprrjrd
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-073 THEORY-043 THEORY-029 THEORY-054 THEORY-047 THEORY-056 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-536 — Deferred, no lawful full text; Biological Autonomy is named for its chapter on agency, not leaned on -->

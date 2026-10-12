@@ -33,6 +33,8 @@ summary: >-
   cannot mean.
 presupposes:
 - THEORY-004
+supports:
+- CLAIM-tmppqir6
 ---
 <!-- inactive-ok-file: THEORY-004 — Proposed; the kernel result this account presupposes, and this account is no firmer than it -->
 <!-- inactive-ok-file: LIT-253 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

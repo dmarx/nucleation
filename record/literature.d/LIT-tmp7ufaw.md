@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmpovbjd](../questions.d/QUESTION-tmpovbjd.md), where its information measures tell an external drive from coupling in two coupled colloids. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Unravelling the Flow of Information in a Nonequilibrium Process in the Presence of Hydrodynamic Interactions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity to
+    QUESTION-tmpovbjd and judged from the abstract. Citation checked against arXiv and Crossref on
+    2026-10-12: Biswajit Das, Sreekanth K. Manikandan and Ayan Banerjee, Physical Review Applied 24,
+    034039 (2025-09-16), whose full title adds "in the Presence of Hydrodynamic Interactions", dropped
+    by the feed; arXiv:2504.10124 v1, 2025-04-14, which is the `published:` date. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5) for the identifier and title
+    found nothing.
+tags:
+- thermodynamics
+- information-theory
+- natural-sciences
+- causality
+date: '2026-10-12'
+published: '2025-04-14'
+arxiv: '2504.10124'
+doi: '10.1103/dvb3-b2v8'
+first_author: 'Das'
+keywords:
+- 'nonequilibrium'
+- 'information flow'
+- 'colloidal particles'
+- 'hydrodynamic coupling'
+- 'transfer entropy'
+implementations: []
+summary: >-
+  Das et al. (2025). The paper uses mutual information and related directional measures on an
+  experiment with two hydrodynamically coupled colloidal particles, one driven by correlated noise. It
+  reports that the measures identify the driven particle and reconstruct the directional dependencies
+  between the two. It uses them to explain a counterintuitive trend of irreversibility with coupling
+  strength under coarse-graining. Not read.
+---
+
+# LIT-tmp7ufaw: Unravelling the Flow of Information in a Nonequilibrium Process in the Presence of Hydrodynamic Interactions
+
+Biswajit Das, Sreekanth K. Manikandan and Ayan Banerjee (2025), *Physical Review Applied* 24, 034039.
+
+Filed for [QUESTION-tmpovbjd](../questions.d/QUESTION-tmpovbjd.md): an experiment with two coupled colloids, one driven by noise, where information measures locate the origin of the nonequilibrium. It is a measurement that tells drive from coupling.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

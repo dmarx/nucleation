@@ -23,6 +23,8 @@ summary: >-
   own derivation, [ANTH-LIT-589](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-589.md), passes through an approximation). Tschannen et
   al. ([LIT-247](../literature.d/LIT-247.md)) show that tightening the bound does not explain what
   makes the representations good.
+answers:
+- QUESTION-tmpb7zsv
 ---
 <!-- inactive-ok-file: LIT-247 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-256 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

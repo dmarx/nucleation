@@ -42,6 +42,8 @@ summary: >-
   (Δ_c − Δ̄), so the two coincide when one factor's per-class
   statistics do not vary with class. The evidence is one MLP, spectra
   only, judged by eye.
+answers:
+- QUESTION-tmp84iod
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; this account extends it per layer and is no firmer than it -->
 

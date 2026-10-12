@@ -1,0 +1,43 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmp0dy29](../questions.d/QUESTION-tmp0dy29.md), where it reports that skills are acquired in sequence and gives three models of the order. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Physics of Skill Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity to
+    QUESTION-tmp0dy29 and judged from the abstract. Citation checked against arXiv on 2026-10-12: Ziming
+    Liu, Yizhou Liu, Eric J. Michaud et al., arXiv:2501.12391, 2025-01-21, which is the `published:`
+    date. Not held in the Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5) for the
+    identifier and title found nothing.
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-10-12'
+published: '2025-01-21'
+arxiv: '2501.12391'
+first_author: 'Liu'
+keywords:
+- 'skill learning'
+- 'Domino effect'
+- 'training dynamics'
+- 'toy models'
+- 'scaling laws'
+implementations: []
+summary: >-
+  Liu et al. (2025). The paper observes a Domino effect in training: skills are learned in sequence,
+  and some start right after others finish. It proposes three models at different levels of
+  abstraction, the Geometry, Resource and Domino models, to explain this. It reports that the Geometry
+  model reproduces Chinchilla scaling laws and that changes suggested by the models speed up training.
+  Not read.
+---
+
+# LIT-tmp8zh4d: Physics of Skill Learning
+
+Ziming Liu, Yizhou Liu, Eric J. Michaud, Jeff Gore and Max Tegmark (2025), *arXiv:2501.12391*.
+
+Filed for [QUESTION-tmp0dy29](../questions.d/QUESTION-tmp0dy29.md): the Domino effect, where skills are acquired in sequence, and three models (Geometry, Resource, Domino) that explain the order. It is a direct mechanism for the order and moment at which structure is acquired.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

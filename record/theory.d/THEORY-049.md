@@ -61,6 +61,8 @@ summary: >-
   rival, Cameron, Banko and Pierce's account (LIT-562), finds rewards tied
   to a score or to beating others do not undermine. Neither side has
   tested mediation.
+answers:
+- QUESTION-tmprxh41
 ---
 <!-- inactive-ok-file: LIT-545 — Deferred; Bandura, named for the rival side's self-efficacy, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-154 — Proposed; a neighbour named in Connections, and the rival account -->

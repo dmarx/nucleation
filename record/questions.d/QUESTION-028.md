@@ -19,7 +19,10 @@ summary: >-
   ([THEORY-036](../theory.d/THEORY-036.md)) says compressibility alone
   admits almost every non-random pattern, so the work falls on the
   question's own qualifiers. No criterion has been given.
+answered_by:
+- THEORY-036
 ---
+<!-- inactive-ok-file: THEORY-036 THEORY-057 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: THEORY-036 — Proposed; cited as the reading that locates the question's work, not as settled -->
 <!-- inactive-ok-file: LIT-301 — Deferred; unread, named as the text that would settle THEORY-036 -->
 <!-- inactive-ok-file: CLAIM-078 — Proposed; cited because A191's four criteria restate it -->
@@ -98,3 +101,19 @@ predicts well within the data used to define it would not count.
 Not the question of which relations constitute an act and which only
 accompany it ([QUESTION-030](QUESTION-030.md)). A category could be a real effective kind
 with its constitutive relations still unknown, and the converse.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-057](../theory.d/THEORY-057.md): Emotion categories are populations of variable instances
+  grouped by the perceiver's concepts, not natural…
+- [THEORY-036](../theory.d/THEORY-036.md): Dennett's real-pattern criterion, compressibility against
+  the bit map, admits almost every non-random…
+
+## Note of 2026-10-12: edge for a prose citation
+
+[THEORY-036](../theory.d/THEORY-036.md), which this question already rests on in prose, now carries an `answered_by` edge.

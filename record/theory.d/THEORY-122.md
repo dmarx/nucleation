@@ -48,6 +48,8 @@ extended_by:
 - THEORY-118
 rivals:
 - THEORY-120
+answers:
+- QUESTION-tmpvu7vk
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on JoJo -->
 <!-- inactive-ok-file: LIT-690 LIT-685 LIT-688 — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->

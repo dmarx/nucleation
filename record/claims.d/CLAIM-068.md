@@ -23,6 +23,7 @@ uses:
 - TERM-027
 grounds:
 - THEORY-164
+- THEORY-173
 summary: >-
   A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps
   the stable conventional endpoint and one stance-drift example, but not
@@ -104,3 +105,7 @@ mechanism for contraction when a large model takes part in transmission. A
 model fitted to reproduce text well on average is least accurate on rare
 material, so it "might" homogenize culture. The paper states this but does
 not test it, so it is weak support.
+
+## Note of 2026-10-12: edge for a prose citation
+
+[THEORY-173](../theory.d/THEORY-173.md) was already cited in this claim's body as weak support. It is now a typed ground.

@@ -31,6 +31,8 @@ summary: >-
   multicellularity finds cancer-like cheating widely, division-of-labour
   cheating in every form. Proposed: a literature review whose survey is
   limited by what has been studied, with no model or new data.
+supports:
+- CLAIM-060
 ---
 <!-- inactive-ok-file: THEORY-141 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 

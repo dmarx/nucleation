@@ -20,6 +20,7 @@ summary: >-
 refined_by:
 - QUESTION-010
 ---
+<!-- inactive-ok-file: CLAIM-081 CLAIM-182 THEORY-155 THEORY-157 THEORY-194 THEORY-198 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-050 CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-016: Under what conditions does iterated reconstruction preserve, or progressively destroy, task-relative sufficiency?
@@ -40,3 +41,26 @@ family Q of communicative decisions ([CLAIM-050](../claims.d/CLAIM-050.md)). A g
 garbling, so sufficiency for Q can only decline along a pure chain. The open
 part is the case the manuscript flags, interpreters with side information, where
 a retelling "can then improve an audience's task performance" (A86 §3).
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-157](../theory.d/THEORY-157.md): The classical theorems on sufficient statistics need only
+  the copy/discard structure of Markov kernels:…
+- [CLAIM-081](../claims.d/CLAIM-081.md): Retaining information about the ancestor and drifting in the
+  population's distribution are different…
+- [THEORY-155](../theory.d/THEORY-155.md): Iterated learning by Bayesian agents who sample from the
+  posterior converges to the shared prior
+- [CLAIM-182](../claims.d/CLAIM-182.md): Storage is not anchoring, addressability is: a structure that
+  is kept but cannot be pointed at part by…
+- [THEORY-194](../theory.d/THEORY-194.md): For the 1D and 2D Ising and 2D dimer models, the block
+  coarse-graining that maximizes mutual information…
+- [THEORY-198](../theory.d/THEORY-198.md): For a finite-range lattice Hamiltonian, a block coarse-
+  graining that keeps all the mutual information the…
+
+[CLAIM-182](../claims.d/CLAIM-182.md) bears from the other end: side information that is stored is not
+thereby used unless it is addressable.

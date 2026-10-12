@@ -36,6 +36,8 @@ summary: >-
   ([LIT-341](../literature.d/LIT-341.md)). It is shown for one size, 1D embeddings and an operation built
   into the architecture. It is not shown that larger networks generalise
   by this mechanism, and for S₃ the networks generalise beyond it.
+answers:
+- QUESTION-tmpli6go
 ---
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->
