@@ -24,6 +24,7 @@ summary: >-
   whether a defeasible standard re-opens the horn [CLAIM-tmpawn12](CLAIM-tmpawn12.md) closed.
   It does not say uptake is not a standard.
 ---
+<!-- inactive-ok-file: CLAIM-tmpwi9o5 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-tmpawn12 — Proposed; the claim this objection is to, open -->
 <!-- inactive-ok-file: CLAIM-tmpa9usi — Proposed; the ontological thesis split out at A240, cited because its qualification states this objection's position -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, cited as the premise of partial constitution the inference starts from -->
@@ -130,3 +131,7 @@ the standings and norms in play; or a version of [CLAIM-tmpawn12](CLAIM-tmpawn12
 the class of acts and the rule for divided verdicts, and says which test
 still has a criterion when the standard is wrong. [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) and
 [QUESTION-tmppstva](../questions.d/QUESTION-tmppstva.md) bear on both.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12, relayed by the owner, makes this entry's point a second time: "constitutive dependence is not the same as epistemic authority. Participants can collectively constitute a practice without individually possessing infallible access to its structure." It accepts competent uptake only "as a locally privileged criterion, conditional on a specified practice and population". It adds a case: "A formal notice may acquire legal force upon issuance, even if unread." Recorded as advice; the record does not take it. [CLAIM-tmpwi9o5](CLAIM-tmpwi9o5.md) files the reading's three-way split.

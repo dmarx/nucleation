@@ -19,6 +19,8 @@ summary: >-
   here. An answer would read them and find a case in which the speaker's
   intention is held fixed and the act verdicts of informed participants
   change with the parties' standing or uptake.
+answered_by:
+- CLAIM-tmpwi9o5
 ---
 <!-- inactive-ok-file: CLAIM-tmpc25sn CLAIM-tmpcq79k — Proposed; the objections that raise this question, open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution claim whose scope this question holds open -->

@@ -22,6 +22,7 @@ complements:
 - CLAIM-142
 - CLAIM-148
 - CLAIM-193
+- CLAIM-tmp9fsmf
 summary: >-
   The assistant's second thesis at U62 (A240 T2), the positive answer to
   [QUESTION-027](../questions.d/QUESTION-027.md). It has now been asserted four times: A214 §7, A218 (RQ3

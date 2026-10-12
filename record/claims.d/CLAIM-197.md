@@ -50,6 +50,7 @@ supports:
 - CLAIM-198
 - CLAIM-196
 ---
+<!-- inactive-ok-file: CLAIM-tmpu534h — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-143 — Proposed; the general point this claim gives the simplest instance of -->
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the consequence drawn from this claim, cited forward -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-tmp1rlu5 CLAIM-tmpx3m7e — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -127,3 +128,7 @@ cover is not thereby contextuality: it has "changed which questions can be
 asked, not shown that the answers cannot be glued". The record does not
 say whether this claim's coverage and PR [#121](https://github.com/dmarx/nucleation/issues/121)'s operational cover are one
 notion, and the entries are not related; that is left to the owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 says this claim "supplies an essential mathematical correction, but it does not necessarily defeat the transport proposal", and that the operational notion of [CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md) should get "a different formal name until an explicit functorial or sheaf-theoretic relationship is established". Filed as the counter [CLAIM-tmpu534h](CLAIM-tmpu534h.md). Recorded as advice.

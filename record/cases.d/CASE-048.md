@@ -34,6 +34,7 @@ supports:
 - CLAIM-160
 - CLAIM-171
 ---
+<!-- inactive-ok-file: CLAIM-tmpu534h — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-074 CLAIM-160 CLAIM-171 — Proposed; the claims this case tests, open -->
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the parallel the case draws, not leaned on -->
 <!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -99,3 +100,7 @@ reader's state with the artefact fixed. [CASE-tmpa82q4](CASE-tmpa82q4.md), where
 audience, not that the audience's role constitutes the act". Which sense
 of cover this case uses, and whether a designed dual address can tell
 [CLAIM-160](../claims.d/CLAIM-160.md) from [CLAIM-171](../claims.d/CLAIM-171.md), is left to the owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 separates "Changing the measurement domain, changing the empirical response distribution, and changing the compatibility structure", and says only the third engages gluing. Filed as the counter [CLAIM-tmpu534h](../claims.d/CLAIM-tmpu534h.md). Which sense of cover this case uses is still the owner's.

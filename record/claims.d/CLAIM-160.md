@@ -27,6 +27,7 @@ grounds:
 - CASE-048
 complements:
 - CLAIM-151
+- CLAIM-tmpwi9o5
 uses:
 - TERM-030
 summary: >-
@@ -42,6 +43,7 @@ illustrated_by:
 objected_by:
 - CLAIM-171
 ---
+<!-- inactive-ok-file: CLAIM-tmpwi9o5 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-074 CLAIM-115 CLAIM-151 — Proposed; the line's receiver-side claims this one is placed beside, open -->
 <!-- inactive-ok-file: CLAIM-171 — Proposed; the open objection to this claim -->
 <!-- inactive-ok-file: CLAIM-tmp3wo5j CLAIM-tmpawn12 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -107,3 +109,7 @@ claim and [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md) are both filed as answers to [QUES
 relation joins them. If "identity" here means intended meaning only, the
 two need not conflict; if it means the act, they do. Which reading holds,
 and what follows for this claim's `answers` edge, is left to the owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 recommends to "Retain CLAIM-160 for intended meaning, retain [CLAIM-151](CLAIM-151.md) for socially constituted act identity", on its distinction between "intending to perform an act, performing that act, and being recognized as having performed it" ([CLAIM-tmpwi9o5](CLAIM-tmpwi9o5.md)). Recorded as advice. Whether this claim narrows to intended meaning, and what follows for its answer to [QUESTION-029](../questions.d/QUESTION-029.md), is still the owner's.

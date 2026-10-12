@@ -28,7 +28,10 @@ summary: >-
   maturing drops things legitimately. A fidelity profile would score
   legitimate dissolution as distortion. What the record secures is that
   change is announced and located: traceability.
+complements:
+- CLAIM-tmptwfru
 ---
+<!-- inactive-ok-file: CLAIM-tmptwfru — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-034 CLAIM-081 CLAIM-178 CLAIM-191 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-tmpz239h — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
@@ -77,3 +80,7 @@ never changed", which reads the transport line's measure as a norm.
 [CLAIM-tmpvh0gc](CLAIM-tmpvh0gc.md) disclaims that norm for the account. Whether this claim's
 point survives the disclaimer, or narrows to the measure, is left to the
 owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 calls the tension with [CLAIM-tmpvh0gc](CLAIM-tmpvh0gc.md) "substantially less contradictory than the PR's framing suggests", and recommends to "Preserve CLAIM-189 as a counter to naïve propositional fidelity, but revise its broader objection to distinguish semantic preservation from preservation of justificatory and provenance relations." [CLAIM-tmptwfru](CLAIM-tmptwfru.md) files its candidate fidelity object, the argument's accountability structure. Recorded as advice; whether to narrow this claim is the owner's.

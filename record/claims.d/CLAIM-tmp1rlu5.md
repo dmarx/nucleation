@@ -37,6 +37,8 @@ summary: >-
   and manuscript §11's "A transport may preserve overlaps but change the
   available measurement cover". A proposal; its test is the discriminating
   study.
+objected_by:
+- CLAIM-tmpu534h
 ---
 <!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the headline this claim narrows, open -->

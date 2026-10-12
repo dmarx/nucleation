@@ -38,7 +38,10 @@ summary: >-
   the functionalist rivals are wrong.
 illustrated_by:
 - CASE-tmp1uzfn
+objected_by:
+- CLAIM-tmp6gb7c
 ---
+<!-- inactive-ok-file: CLAIM-tmp6gb7c — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-tmpc1o4m CLAIM-tmpeqvy4 CLAIM-tmpz239h — Proposed; the record's other replies of 2026-10-10, open, cited for the revised thesis and the measures this one tests -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier thesis whose body first noticed the weak baseline -->
 <!-- inactive-ok-file: LIT-784 — Deferred; unread here, cited as the rival CLAIM-023 names and not leaned on -->
@@ -112,3 +115,7 @@ functionalist would also pass.
   static profile is what predicts recovery, and that is a finding for the
   functional accounts.
 - It does not fix the margin. That is the owner's, in the preregistration.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 favours "making this the principal empirical thesis, with one qualification": the rival set should include a strong contextual baseline. Filed as the counter [CLAIM-tmp6gb7c](CLAIM-tmp6gb7c.md), with the test it calls distinctive, prediction under an unobserved composition, as [QUESTION-tmpg57wu](../questions.d/QUESTION-tmpg57wu.md). Whether this entry becomes the principal thesis is still among the owner's decisions on PR [#121](https://github.com/dmarx/nucleation/issues/121).

@@ -43,6 +43,7 @@ supports:
 objected_by:
 - CLAIM-tmpohczg
 ---
+<!-- inactive-ok-file: CLAIM-tmpwi9o5 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-046 CLAIM-135 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp6r6t6 — Proposed; the objection this entry answers, left open until the owner decides on the revised October thesis -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-tmp3wo5j — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -158,3 +159,7 @@ participants". It grounds the standard in the partial constitution of the
 act by uptake ([CLAIM-151](CLAIM-151.md)), and neither entry says whether that is an
 independent argument in [CLAIM-152](CLAIM-152.md)'s sense. Whether the charge applies here
 is left to the owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 recommends to "weaken CLAIM-tmpawn12's implication that competent uptake directly fixes all relevant act identity", and judges that [CLAIM-152](CLAIM-152.md) "has the stronger argument as currently formulated": this entry "risks solving an epistemological problem by stipulating an ontological relationship". Recorded as advice, with [CLAIM-tmpwi9o5](CLAIM-tmpwi9o5.md) and the note on [CLAIM-tmpohczg](CLAIM-tmpohczg.md). The two open tensions on this entry are still the owner's.

@@ -25,6 +25,7 @@ summary: >-
   Purpose-relative translation norms (skopos theory) are the tradition
   that states the normative part; they are not held in the record.
 ---
+<!-- inactive-ok-file: CLAIM-tmptwfru — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-050 — Proposed; open, cited for the manuscript's wording and for the family Q, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpc1o4m — Proposed; the record's revised thesis of 2026-10-10, open, which this disclaimer bounds -->
 <!-- inactive-ok-file: CLAIM-189 CLAIM-191 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -87,3 +88,7 @@ by the translation's purpose. [CLAIM-189](CLAIM-189.md) does not cite this entry
 entry does not consider a developing argument. [CLAIM-189](CLAIM-189.md)'s own "What would
 answer it" asks for a fidelity, "suitably defined", that measures what the
 record secures. Whether the two conflict is left to the owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 reads this entry and [CLAIM-189](CLAIM-189.md) as compatible: "A transformation loses some previously available distinctions. The loss was epistemically or pragmatically desirable." [CLAIM-tmptwfru](CLAIM-tmptwfru.md) files its proposal for what a developing argument should preserve. Recorded as advice.
