@@ -6,9 +6,11 @@
 
 **Authenticity and concordance** — what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work.
 
-2 of 38 QUESTION documents. Back to the [full index](../README.md).
+4 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-007](../../../record/questions.d/QUESTION-007.md) | What grounds normativity across agents that share an environment and a level of organization? | The owner's question at U75: authenticity, if it gives normativity at all, gives it downward from an agent to its constituents, and not sideways between peers. Set aside with the authenticity line. | Deferred |
 | [QUESTION-011](../../../record/questions.d/QUESTION-011.md) | What makes a will-organization the agent's own, rather than merely effective within it? | The ownership question. The authenticity line was built to answer it and was set aside with it at the audit of 2026-10-05; the paper now disclaims it ([CLAIM-022](../../../record/claims.d/CLAIM-022.md)). | Deferred |
+| [QUESTION-057](../../../record/questions.d/QUESTION-057.md) | Can the integration that marks a will-organization as the agent's own be detected apart from the agent's own avowal that her commitments are hers? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-016](../../../record/claims.d/CLAIM-016.md) and [QUESTION-011](../../../record/questions.d/QUESTION-011.md). [THEORY-074](../../../record/theory.d/THEORY-074.md) answers it in part; the body gives each one's limit. Deferred with its line. | Deferred |
+| [QUESTION-068](../../../record/questions.d/QUESTION-068.md) | Would settling whose a will-organization is settle the agent's accountability for what it does, or does accountability need conditions, such as normative competence and avoidability, that ownership does not supply? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [QUESTION-011](../../../record/questions.d/QUESTION-011.md), [CLAIM-022](../../../record/claims.d/CLAIM-022.md) and [CLAIM-016](../../../record/claims.d/CLAIM-016.md). [THEORY-118](../../../record/theory.d/THEORY-118.md), [THEORY-119](../../../record/theory.d/THEORY-119.md), [THEORY-122](../../../record/theory.d/THEORY-122.md) and [THEORY-147](../../../record/theory.d/THEORY-147.md) answer it in part; the body gives each one's limit. Deferred with its line. | Deferred |

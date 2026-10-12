@@ -23,7 +23,7 @@ summary: >-
   when I is bounded by counting bits. It is tight only for Gaussian argmax
   and threshold selection.
 answers:
-- QUESTION-tmp0gx60
+- QUESTION-040
 ---
 
 # THEORY-028: The expected bias of any data-dependent choice, and the expected generalisation error of any learning algorithm, is at most √(2σ²·I) for σ-subgaussian losses, where I is the information the output carries about the data

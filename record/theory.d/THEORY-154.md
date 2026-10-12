@@ -37,7 +37,7 @@ summary: >-
   theory: rewards tied to success carry competence. Proposed: the paper
   measures no mediator and pools control groups that differ in feedback.
 answers:
-- QUESTION-tmprxh41
+- QUESTION-066
 ---
 <!-- inactive-ok-file: LIT-754 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
 <!-- inactive-ok-file: THEORY-049 — Proposed; the rival account -->

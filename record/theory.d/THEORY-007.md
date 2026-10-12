@@ -32,7 +32,7 @@ extended_by:
 - THEORY-005
 - THEORY-009
 answers:
-- QUESTION-tmpb7zsv
+- QUESTION-052
 ---
 <!-- inactive-ok-file: LIT-252 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-258 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

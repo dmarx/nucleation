@@ -54,7 +54,7 @@ summary: >-
 presupposes:
 - THEORY-087
 supports:
-- CLAIM-tmpczjuu
+- CLAIM-188
 ---
 <!-- inactive-ok-file: THEORY-087 — Proposed; this account presupposes its singular half and is no firmer than it -->
 

@@ -38,7 +38,7 @@ summary: >-
   disjoint mean matter more than election, and conflicts are as frequent
   among checkpoints of one task as across tasks.
 answers:
-- QUESTION-tmpzj6fs
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-113 THEORY-105 — Proposed; accounts named in Connections, nothing here rests on them -->
 

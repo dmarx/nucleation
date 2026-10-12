@@ -57,7 +57,7 @@ extended_by:
 presupposes:
 - THEORY-114
 supports:
-- CLAIM-tmp82c4f
+- CLAIM-187
 ---
 <!-- inactive-ok-file: LIT-676 — Proposed; Li et al. on GNNs, named as a limit on scope, not leaned on -->
 <!-- inactive-ok-file: THEORY-105 THEORY-114 — Proposed; an account that carries this one further, and the account of the stable start this one presupposes and is no firmer than -->

@@ -50,7 +50,7 @@ summary: >-
 extended_by:
 - THEORY-121
 answers:
-- QUESTION-tmpvu7vk
+- QUESTION-068
 ---
 <!-- inactive-ok-file: THEORY-118 THEORY-121 THEORY-120 THEORY-040 — Proposed; the rival declared here and the accounts named in prose -->
 <!-- inactive-ok-file: LIT-684 LIT-687 LIT-688 LIT-686 — Deferred, unread; Fischer's and Wolf's primary texts and Frankfurt's 1982 essay, named as what would move this -->

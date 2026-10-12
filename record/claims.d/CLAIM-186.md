@@ -51,7 +51,7 @@ summary: >-
   drift has not been measured against pace. There is no slow exchange to
   compare it with, so the claim is Proposed and untested.
 objected_by:
-- CLAIM-tmpkld6a
+- CLAIM-190
 ---
 <!-- inactive-ok-file: LIT-929 LIT-931 LIT-932 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->

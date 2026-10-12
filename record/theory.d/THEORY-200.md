@@ -38,7 +38,7 @@ summary: >-
   not that the invariances could not separate, and the extension to
   images is an analogy.
 answers:
-- QUESTION-tmp0dy29
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-195 THEORY-186 QUESTION-025 — Proposed or open; cited as the account this one extends and those it is set beside -->
 

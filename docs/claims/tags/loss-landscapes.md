@@ -6,8 +6,8 @@
 
 **Loss landscapes** — the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027).
 
-0 of 186 CLAIM documents. Back to the [full index](../README.md).
+1 of 195 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-187](../../../record/claims.d/CLAIM-187.md) | Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison | The record's one fully measured case of "factor out the admissible symmetries, then test what survives", which the pragmatic-transport line's questions about invariants under admissible transformation ([QUESTION-027](../../../record/questions.d/QUESTION-027.md), [QUESTION-029](../../../record/questions.d/QUESTION-029.md), [QUESTION-036](../../../record/questions.d/QUESTION-036.md)) ask for in the abstract. From five mode-connectivity THEORYs held without links to the line. The carry-over from trained networks to communicative kinds is the filer's, and is the claim's weak point. | Proposed |

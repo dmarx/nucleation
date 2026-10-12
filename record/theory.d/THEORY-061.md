@@ -47,7 +47,7 @@ summary: >-
   convergence is real; the evidence is group fits on a few paradigms, so
   Proposed. It does not say who sets the parameters, or how.
 answers:
-- QUESTION-tmpnw6kj
+- QUESTION-062
 ---
 <!-- inactive-ok-file: LIT-600 LIT-604 — Deferred, unread; Norman & Shallice and Carver & Scheier named as the older traditions, not leaned on -->
 <!-- inactive-ok-file: THEORY-059 THEORY-070 — Proposed; companion accounts in this batch, named for what each adds -->

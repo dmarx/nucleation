@@ -6,8 +6,10 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-1 of 38 QUESTION documents. Back to the [full index](../README.md).
+3 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-007](../../../record/questions.d/QUESTION-007.md) | What grounds normativity across agents that share an environment and a level of organization? | The owner's question at U75: authenticity, if it gives normativity at all, gives it downward from an agent to its constituents, and not sideways between peers. Set aside with the authenticity line. | Deferred |
+| [QUESTION-041](../../../record/questions.d/QUESTION-041.md) | When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-030](../../../record/claims.d/CLAIM-030.md), [CLAIM-025](../../../record/claims.d/CLAIM-025.md) and [CLAIM-099](../../../record/claims.d/CLAIM-099.md). [THEORY-149](../../../record/theory.d/THEORY-149.md), [THEORY-152](../../../record/theory.d/THEORY-152.md) and [THEORY-207](../../../record/theory.d/THEORY-207.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-068](../../../record/questions.d/QUESTION-068.md) | Would settling whose a will-organization is settle the agent's accountability for what it does, or does accountability need conditions, such as normative competence and avoidability, that ownership does not supply? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [QUESTION-011](../../../record/questions.d/QUESTION-011.md), [CLAIM-022](../../../record/claims.d/CLAIM-022.md) and [CLAIM-016](../../../record/claims.d/CLAIM-016.md). [THEORY-118](../../../record/theory.d/THEORY-118.md), [THEORY-119](../../../record/theory.d/THEORY-119.md), [THEORY-122](../../../record/theory.d/THEORY-122.md) and [THEORY-147](../../../record/theory.d/THEORY-147.md) answer it in part; the body gives each one's limit. Deferred with its line. | Deferred |

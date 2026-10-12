@@ -25,7 +25,7 @@ summary: >-
   are equal. The separation of sensitivity from bias is a property of the
   model, not of the data.
 supports:
-- CLAIM-tmpczjuu
+- CLAIM-188
 ---
 
 # THEORY-031: The likelihood-ratio detector is optimal under the payoff, Neyman–Pearson and posterior criteria, which differ only in its threshold, so performance is an ROC and the criterion a point on it; d′ is criterion-free only for equal-variance normal signal and noise

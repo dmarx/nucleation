@@ -46,7 +46,7 @@ summary: >-
   never perturbed. The kinship with Belousov–Zhabotinsky spirals and
   pattern-formation defects is the record's analogy, not the paper's.
 answers:
-- QUESTION-tmp1pc70
+- QUESTION-042
 ---
 <!-- inactive-ok-file: LIT-647 — Deferred, unread (paywalled); named as the electrophysiological review that could bear on this, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named in Connections as the record's other phase-dynamics account of coordination, no relation claimed -->

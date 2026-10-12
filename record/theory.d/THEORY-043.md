@@ -75,7 +75,7 @@ summary: >-
   against a nation. Proposed: an account of where a dispute stands, from
   philosophical argument and no measurement.
 answers:
-- QUESTION-tmp4ltsz
+- QUESTION-046
 ---
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->

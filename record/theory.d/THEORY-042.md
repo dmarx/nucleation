@@ -23,7 +23,7 @@ summary: >-
   projections, is the record's inference. The centre-of-the-algebra
   formulation belongs to Haag, who is not read.
 answers:
-- QUESTION-tmpgy8la
+- QUESTION-055
 ---
 
 # THEORY-042: Under a superselection rule a coherent superposition across sectors is operationally a mixture, because no observable connects the sectors; Wick, Wightman and Wigner proved such a rule for integer versus half-integer spin and only postulated it for charge

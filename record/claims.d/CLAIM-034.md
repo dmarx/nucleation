@@ -24,7 +24,7 @@ complements:
 illustrated_by:
 - CASE-038
 supports:
-- CLAIM-tmpkkx3m
+- CLAIM-189
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 

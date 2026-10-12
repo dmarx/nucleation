@@ -37,7 +37,7 @@ summary: >-
   into the architecture. It is not shown that larger networks generalise
   by this mechanism, and for S₃ the networks generalise beyond it.
 answers:
-- QUESTION-tmpli6go
+- QUESTION-058
 ---
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->

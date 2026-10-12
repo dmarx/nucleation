@@ -32,7 +32,7 @@ summary: >-
   the limit, or that any scale-dependent shape of the neuron cloud is
   preserved.
 answers:
-- QUESTION-tmpli6go
+- QUESTION-058
 ---
 
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, named for what this does not settle -->

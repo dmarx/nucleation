@@ -31,7 +31,7 @@ summary: >-
   "equivalence" of IB and RG relevance, and [LIT-878](../literature.d/LIT-878.md)'s use of it for RSMI
   filters on planar blocks, go beyond it.
 answers:
-- QUESTION-tmprg4fj
+- QUESTION-065
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-198 THEORY-161 QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
 

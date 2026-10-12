@@ -6,8 +6,8 @@
 
 **Narrative unity** — the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024).
 
-0 of 38 QUESTION documents. Back to the [full index](../README.md).
+1 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-043](../../../record/questions.d/QUESTION-043.md) | For a person, what coherence measure is conserved along the trajectory when the person persists as the same self, and is a life story, whose content is known to change, a candidate for it? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-161](../../../record/claims.d/CLAIM-161.md) and [CLAIM-152](../../../record/claims.d/CLAIM-152.md). [THEORY-060](../../../record/theory.d/THEORY-060.md) answers it in part; the body gives each one's limit. | Open |

@@ -40,7 +40,7 @@ summary: >-
   and find centres for five trained image classifiers with no permutation.
   Proposed: reduced, not zero, and no held-out test without alignment.
 answers:
-- QUESTION-tmpzj6fs
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-112 THEORY-109 — Proposed; the accounts this one extends, filed with it -->
 

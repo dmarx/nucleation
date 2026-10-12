@@ -32,7 +32,7 @@ summary: >-
   information is kept is shown perturbatively for two-spin blocks of 1D
   chains only, and is monotonic only locally.
 answers:
-- QUESTION-tmprg4fj
+- QUESTION-065
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-073 QUESTION-025 — Proposed or open; cited as the account this one underpins, a neighbour, and the question it does not answer -->
 

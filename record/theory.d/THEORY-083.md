@@ -42,7 +42,7 @@ summary: >-
   class outliers are a symptom of collapse, is argued and not measured,
   and is left to [THEORY-078](THEORY-078.md).
 answers:
-- QUESTION-tmp84iod
+- QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 

@@ -24,7 +24,7 @@ summary: >-
   al. ([LIT-247](../literature.d/LIT-247.md)) show that tightening the bound does not explain what
   makes the representations good.
 answers:
-- QUESTION-tmpb7zsv
+- QUESTION-052
 ---
 <!-- inactive-ok-file: LIT-247 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-256 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

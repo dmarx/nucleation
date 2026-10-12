@@ -30,7 +30,7 @@ summary: >-
   result that is robust across the models they test. Proposed: shown only
   in simulation.
 answers:
-- QUESTION-tmp519kx
+- QUESTION-047
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 
