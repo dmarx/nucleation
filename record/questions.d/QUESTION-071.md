@@ -1,5 +1,8 @@
 ---
+number: 71
 status: Open
+formerly:
+- QUESTION-tmpdewd4
 title: 'Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?'
 version: 1
 tags:
@@ -22,16 +25,16 @@ summary: >-
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
-<!-- inactive-ok-file: LIT-tmpa238g LIT-tmpb2z9y LIT-tmp4ihbb LIT-tmp5elg6 — Deferred, unread; the readings filed with this question -->
+<!-- inactive-ok-file: LIT-1006 LIT-1007 LIT-1002 LIT-1003 — Deferred, unread; the readings filed with this question -->
 
-# QUESTION-tmpdewd4: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
+# QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 
 ## The question
 
 The will line describes an agent's practical efficacy by how its regimes
 are organized now. [CLAIM-022](../claims.d/CLAIM-022.md) already says that such an explanation does not
 settle whose the will is. Manipulation is the sharpest case. In Pereboom's
-four cases ([LIT-tmpa238g](../literature.d/LIT-tmpa238g.md)), an agent's present structure is produced by
+four cases ([LIT-1006](../literature.d/LIT-1006.md)), an agent's present structure is produced by
 someone else and matches an unmanipulated agent's in every respect the
 account names.
 
@@ -59,9 +62,9 @@ The question has two parts:
 - **[CLAIM-016](../claims.d/CLAIM-016.md)** (Deferred) is defeated by "a manipulation case that
   satisfies every condition of integration and answerability". This
   question asks for that case's structure on a line that is active.
-- The analyses of manipulation now filed unread, Noggle ([LIT-tmpb2z9y](../literature.d/LIT-tmpb2z9y.md)),
-  Susser, Roessler and Nissenbaum ([LIT-tmp4ihbb](../literature.d/LIT-tmp4ihbb.md)) and Coons and Weber
-  ([LIT-tmp5elg6](../literature.d/LIT-tmp5elg6.md)), say what makes an influence manipulation, as against
+- The analyses of manipulation now filed unread, Noggle ([LIT-1007](../literature.d/LIT-1007.md)),
+  Susser, Roessler and Nissenbaum ([LIT-1002](../literature.d/LIT-1002.md)) and Coons and Weber
+  ([LIT-1003](../literature.d/LIT-1003.md)), say what makes an influence manipulation, as against
   persuasion or coercion. The four-case argument assumes that, and the
   record has not stated it.
 

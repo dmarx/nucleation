@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**316 documents cited without acknowledgement.** Not listed: 4863 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**318 documents cited without acknowledgement.** Not listed: 4874 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -863,6 +863,20 @@ Analysis of Boolean Functions
 - [`record/theory.d/THEORY-019.md:98`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:101`](../../record/theory.d/THEORY-019.md)
 
+### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
+
+A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
+
+7 citations in 4 files await a look; 56 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-016.md:73`](../../record/claims.d/CLAIM-016.md)
+- [`record/questions.d/QUESTION-011.md:40`](../../record/questions.d/QUESTION-011.md)
+- [`record/questions.d/QUESTION-011.md:46`](../../record/questions.d/QUESTION-011.md)
+- [`record/questions.d/QUESTION-057.md:42`](../../record/questions.d/QUESTION-057.md)
+- [`record/questions.d/QUESTION-071.md:20`](../../record/questions.d/QUESTION-071.md)
+- [`record/questions.d/QUESTION-071.md:43`](../../record/questions.d/QUESTION-071.md)
+- [`record/questions.d/QUESTION-071.md:73`](../../record/questions.d/QUESTION-071.md)
+
 ### [THEORY-096](../../record/theory.d/THEORY-096.md) — Proposed
 
 Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced
@@ -876,6 +890,20 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-090.md:191`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
+
+### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
+
+A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
+
+7 citations in 3 files await a look; 20 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-030.md:70`](../../record/claims.d/CLAIM-030.md)
+- [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:31`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:46`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:51`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-070.md:53`](../../record/questions.d/QUESTION-070.md)
+- [`record/questions.d/QUESTION-070.md:67`](../../record/questions.d/QUESTION-070.md)
 
 ### [CLAIM-115](../../record/claims.d/CLAIM-115.md) — Proposed
 
@@ -993,6 +1021,18 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 - [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
+
+### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
+
+The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost
+
+5 citations in 2 files await a look; 11 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-190.md:25`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:52`](../../record/claims.d/CLAIM-190.md)
+- [`record/questions.d/QUESTION-072.md:20`](../../record/questions.d/QUESTION-072.md)
+- [`record/questions.d/QUESTION-072.md:34`](../../record/questions.d/QUESTION-072.md)
+- [`record/questions.d/QUESTION-072.md:61`](../../record/questions.d/QUESTION-072.md)
 
 ### [LIT-228](../../record/literature.d/LIT-228.md) — Deferred
 
@@ -1150,18 +1190,6 @@ A collective emotion is the synchronous convergence of individuals' affective re
 - [`record/questions.d/QUESTION-053.md:52`](../../record/questions.d/QUESTION-053.md)
 - [`record/questions.d/QUESTION-053.md:56`](../../record/questions.d/QUESTION-053.md)
 
-### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
-
-A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
-
-5 citations in 2 files await a look; 20 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-030.md:70`](../../record/claims.d/CLAIM-030.md)
-- [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:31`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:46`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:51`](../../record/questions.d/QUESTION-049.md)
-
 ### [CLAIM-024](../../record/claims.d/CLAIM-024.md) — Proposed
 
 Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names
@@ -1216,6 +1244,17 @@ Mutual entrainment is a sufficient mark of a combined form, and marks it as one 
 - [`record/questions.d/QUESTION-063.md:20`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:28`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:32`](../../record/questions.d/QUESTION-063.md)
+
+### [CLAIM-177](../../record/claims.d/CLAIM-177.md) — Proposed
+
+An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
+
+4 citations in 2 files await a look; 12 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-192.md:31`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:47`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:75`](../../record/claims.d/CLAIM-192.md)
+- [`record/questions.d/QUESTION-072.md:43`](../../record/questions.d/QUESTION-072.md)
 
 ### [CLAIM-193](../../record/claims.d/CLAIM-193.md) — Proposed
 
@@ -1382,17 +1421,6 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/questions.d/QUESTION-039.md:23`](../../record/questions.d/QUESTION-039.md)
 - [`record/questions.d/QUESTION-039.md:43`](../../record/questions.d/QUESTION-039.md)
 
-### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
-
-A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
-
-4 citations in 3 files await a look; 56 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-016.md:73`](../../record/claims.d/CLAIM-016.md)
-- [`record/questions.d/QUESTION-011.md:40`](../../record/questions.d/QUESTION-011.md)
-- [`record/questions.d/QUESTION-011.md:46`](../../record/questions.d/QUESTION-011.md)
-- [`record/questions.d/QUESTION-057.md:42`](../../record/questions.d/QUESTION-057.md)
-
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
 A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
@@ -1509,16 +1537,6 @@ A combined form constituted by mutual entrainment is not thereby a self in the s
 - [`record/questions.d/QUESTION-046.md:19`](../../record/questions.d/QUESTION-046.md)
 - [`record/questions.d/QUESTION-046.md:34`](../../record/questions.d/QUESTION-046.md)
 - [`record/questions.d/QUESTION-048.md:36`](../../record/questions.d/QUESTION-048.md)
-
-### [CLAIM-177](../../record/claims.d/CLAIM-177.md) — Proposed
-
-An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
-
-3 citations in 1 file await a look; 12 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-192.md:31`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:47`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:75`](../../record/claims.d/CLAIM-192.md)
 
 ### [CLAIM-186](../../record/claims.d/CLAIM-186.md) — Proposed
 
@@ -1679,6 +1697,16 @@ For a system driven without feedback, the work dissipated equals the memory that
 - [`record/notes.d/NOTE-321.md:156`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
 - [`record/theory.d/THEORY-030.md:82`](../../record/theory.d/THEORY-030.md)
+
+### [THEORY-047](../../record/theory.d/THEORY-047.md) — Proposed
+
+A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is
+
+3 citations in 2 files await a look; 19 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-011.md:38`](../../record/questions.d/QUESTION-011.md)
+- [`record/questions.d/QUESTION-071.md:48`](../../record/questions.d/QUESTION-071.md)
+- [`record/questions.d/QUESTION-071.md:75`](../../record/questions.d/QUESTION-071.md)
 
 ### [THEORY-063](../../record/theory.d/THEORY-063.md) — Proposed
 
@@ -1867,14 +1895,23 @@ One-way drive rightly passes the threshold criterion: a metronome and its musici
 - [`record/questions.d/QUESTION-063.md:20`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:28`](../../record/questions.d/QUESTION-063.md)
 
-### [CLAIM-181](../../record/claims.d/CLAIM-181.md) — Proposed
+### [CLAIM-179](../../record/claims.d/CLAIM-179.md) — Proposed
 
-The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost
+When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
 
-2 citations in 1 file await a look; 11 other citations of it are acknowledged.
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-190.md:25`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-190.md:52`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:38`](../../record/claims.d/CLAIM-190.md)
+- [`record/questions.d/QUESTION-072.md:58`](../../record/questions.d/QUESTION-072.md)
+
+### [CLAIM-182](../../record/claims.d/CLAIM-182.md) — Proposed
+
+Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses
+
+2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-072.md:19`](../../record/questions.d/QUESTION-072.md)
+- [`record/questions.d/QUESTION-072.md:32`](../../record/questions.d/QUESTION-072.md)
 
 ### [CLAIM-192](../../record/claims.d/CLAIM-192.md) — Proposed
 
@@ -2690,14 +2727,6 @@ Systems differ in whether "who drives?" has an answer at a given level of descri
 
 - [`record/questions.d/QUESTION-063.md:20`](../../record/questions.d/QUESTION-063.md)
 
-### [CLAIM-179](../../record/claims.d/CLAIM-179.md) — Proposed
-
-When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
-
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-190.md:38`](../../record/claims.d/CLAIM-190.md)
-
 ### [CLAIM-180](../../record/claims.d/CLAIM-180.md) — Proposed
 
 Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
@@ -3018,6 +3047,14 @@ Morality as Cooperation: A Problem-Centred Approach
 
 - [`record/decisions.d/ADR-019.md:54`](../../record/decisions.d/ADR-019.md)
 
+### [LIT-684](../../record/literature.d/LIT-684.md) — Deferred
+
+Responsibility and Control: A Theory of Moral Responsibility
+
+1 citation in 1 file awaits a look; 26 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1006.md:42`](../../record/literature.d/LIT-1006.md)
+
 ### [LIT-765](../../record/literature.d/LIT-765.md) — Deferred
 
 Elements of Information Theory
@@ -3177,14 +3214,6 @@ In relational frame theory the self is verbal behaviour's content, its process a
 1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-034.md:96`](../../record/questions.d/QUESTION-034.md)
-
-### [THEORY-047](../../record/theory.d/THEORY-047.md) — Proposed
-
-A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is
-
-1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-011.md:38`](../../record/questions.d/QUESTION-011.md)
 
 ### [THEORY-075](../../record/theory.d/THEORY-075.md) — Proposed
 

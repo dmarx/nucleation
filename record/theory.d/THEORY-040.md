@@ -52,7 +52,7 @@ summary: >-
   record. The claim says what the account must choose between, not which
   choice is wrong.
 answers:
-- QUESTION-tmpdewd4
+- QUESTION-071
 supports:
 - CLAIM-016
 ---

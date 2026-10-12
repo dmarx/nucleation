@@ -1,5 +1,8 @@
 ---
+number: 72
 status: Open
+formerly:
+- QUESTION-tmpihzdz
 title: 'Does a project memory distribute credibility among an argument''s contributors, by making some contributors'' moves addressable and leaving others'' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?'
 version: 1
 tags:
@@ -12,7 +15,7 @@ works:
 - luria-nucleating-an-argument
 summary: >-
   Filed at the owner's request, ahead of its readings: Fricker's account of
-  testimonial and hermeneutical injustice ([LIT-tmp6eyxb](../literature.d/LIT-tmp6eyxb.md)) is registered
+  testimonial and hermeneutical injustice ([LIT-1004](../literature.d/LIT-1004.md)) is registered
   unread in the same contribution. [CLAIM-182](../claims.d/CLAIM-182.md) says addressability is what
   makes an anchor, and [CLAIM-181](../claims.d/CLAIM-181.md) says the record's grammar decides what can
   be filed. Together they imply that a contributor whose moves are filed
@@ -20,9 +23,9 @@ summary: >-
   The question asks whether that happens, and whether it is a wrong in
   Fricker's sense or only a bias in what persists.
 ---
-<!-- inactive-ok-file: LIT-tmp6eyxb — Deferred, unread; the reading this question was filed ahead of -->
+<!-- inactive-ok-file: LIT-1004 — Deferred, unread; the reading this question was filed ahead of -->
 
-# QUESTION-tmpihzdz: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
+# QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
 ## The question
 
@@ -40,7 +43,7 @@ The question has two parts:
    once its content is held fixed? [CLAIM-177](../claims.d/CLAIM-177.md) records one case where
    attribution mattered: the owner, not the assistant, reintroduced an
    analogy that had been rejected.
-2. **If it occurs, is it a wrong or only a bias?** Fricker ([LIT-tmp6eyxb](../literature.d/LIT-tmp6eyxb.md))
+2. **If it occurs, is it a wrong or only a bias?** Fricker ([LIT-1004](../literature.d/LIT-1004.md))
    defines testimonial injustice as a credibility deficit caused by
    identity prejudice. She defines hermeneutical injustice as a gap in
    shared interpretive resources that traces to marginalisation. A

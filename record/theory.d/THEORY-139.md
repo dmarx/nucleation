@@ -38,7 +38,7 @@ summary: >-
   Proposed: it is an argument, and its empirical premise about corporate
   procedure is asserted rather than shown.
 answers:
-- QUESTION-tmp9psjx
+- QUESTION-070
 - QUESTION-049
 supports:
 - CLAIM-030

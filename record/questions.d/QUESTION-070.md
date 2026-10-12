@@ -1,5 +1,8 @@
 ---
+number: 70
 status: Open
+formerly:
+- QUESTION-tmp9psjx
 title: 'When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?'
 version: 1
 tags:
@@ -20,16 +23,16 @@ summary: >-
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
 ---
-<!-- inactive-ok-file: LIT-tmp4ihbb LIT-tmpb2z9y LIT-tmp5elg6 — Deferred, unread; the analyses of manipulation filed with this question -->
+<!-- inactive-ok-file: LIT-1002 LIT-1007 LIT-1003 — Deferred, unread; the analyses of manipulation filed with this question -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
 
-# QUESTION-tmp9psjx: When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?
+# QUESTION-070: When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?
 
 ## The question
 
-Susser, Roessler and Nissenbaum ([LIT-tmp4ihbb](../literature.d/LIT-tmp4ihbb.md)) define manipulation as
+Susser, Roessler and Nissenbaum ([LIT-1002](../literature.d/LIT-1002.md)) define manipulation as
 *intentionally* and covertly influencing someone's decisions by exploiting
-their vulnerabilities. Most of the accounts Noggle surveys ([LIT-tmpb2z9y](../literature.d/LIT-tmpb2z9y.md))
+their vulnerabilities. Most of the accounts Noggle surveys ([LIT-1007](../literature.d/LIT-1007.md))
 also locate it in a manipulator's aim. The record holds two read cases
 where that aim is hard to place:
 
