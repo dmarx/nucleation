@@ -29,6 +29,7 @@ answered_by:
 - CLAIM-174
 - CLAIM-155
 - THEORY-071
+- THEORY-208
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
@@ -67,3 +68,7 @@ The proposed answer is [CLAIM-174](../claims.d/CLAIM-174.md).
 ## Note of 2026-10-12: a typed partial answer
 
 [THEORY-071](../theory.d/THEORY-071.md) now carries an `answered_by` edge. Its criteria (individuality, interactional asymmetry, self-generated normativity) refuse a thermostat. They are not relative to level or target, which is the tension the counter [CLAIM-tmprrjrd](../claims.d/CLAIM-tmprrjrd.md) takes up.
+
+## Note of 2026-10-12: a permissive answer
+
+[THEORY-208](../theory.d/THEORY-208.md) (Floridi) now carries an `answered_by` edge. Interactivity is necessary for agency, and autonomy and adaptability are graded, which is close to [CLAIM-170](../claims.d/CLAIM-170.md)'s "identified by adaptation". It is permissive: thermostats and rivers pass, by splitting agency into kinds. It is not relative to level or target, and it gives no test that could fail.

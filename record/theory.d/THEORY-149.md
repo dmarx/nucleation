@@ -19,6 +19,8 @@ summary: >-
   Long-surviving institutions share eight design principles that failed
   ones lack. The principles are correlates of survival, not tested
   causes, and their reach beyond common-pool resources is not shown.
+answers:
+- QUESTION-tmp11ze3
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for a contrast, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-737 — Deferred, unread; Governing the Commons, named as the book whose principles the lecture restates -->

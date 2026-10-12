@@ -59,6 +59,8 @@ summary: >-
   perfect functional duplicate on another substrate we lack even a
   conception of the evidence; Block (2009, LIT-632) states the
   biological premise from the other side.
+answers:
+- QUESTION-tmp5bnsn
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 

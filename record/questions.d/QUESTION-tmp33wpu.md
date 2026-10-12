@@ -1,0 +1,38 @@
+---
+status: Deferred
+title: 'When an organization is said to be angry or afraid, is the emotion fixed by a mode of action readiness the organization has, or by the attributor''s emotion concept grouping variable states?'
+version: 1
+tags:
+- emotion-and-affect
+- cognition
+date: '2026-10-12'
+line: 'organizational-affect'
+answered_by:
+- THEORY-057
+- THEORY-055
+summary: >-
+  Filed in the fourth synthesis pass to give readings no question asked
+  for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and QUESTION-
+  tmpc59zj. [THEORY-057](../theory.d/THEORY-057.md) and [THEORY-055](../theory.d/THEORY-055.md) answer it in part; the body gives
+  each one's limit. Deferred with its line.
+---
+<!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
+
+# QUESTION-tmp33wpu: When an organization is said to be angry or afraid, is the emotion fixed by a mode of action readiness the organization has, or by the attributor's emotion concept grouping variable states?
+
+## The question
+
+[CLAIM-039](../claims.d/CLAIM-039.md) maps Frijda's characterization onto an organization: an emotion is a mode of action readiness. The record holds a rival account of what makes instances one emotion: the perceiver's concept, grouping variable instances. Applied to organizations, the two give different answers about what an attribution of corporate anger tracks. On the first, it tracks a state of the firm. On the second, it partly constitutes the category. The question asks which, for organizations.
+
+## Why the record needs it
+
+[CLAIM-039](../claims.d/CLAIM-039.md) rests on [THEORY-055](../theory.d/THEORY-055.md) for its characterization. If [THEORY-057](../theory.d/THEORY-057.md) is right about emotion categories in general, [CLAIM-039](../claims.d/CLAIM-039.md) inherits a perceiver-relativity it does not state. "The firm is angry" would then be true by a community's concept, as weeds are weeds. [QUESTION-tmp6ondj](QUESTION-tmp6ondj.md) raises the same tracking-or-shaping split for corporate knowledge and intention. This raises it for affect, where the record already holds the two sides.
+
+## What the record holds
+
+- [THEORY-057](../theory.d/THEORY-057.md): emotion categories are "populations of variable instances grouped by the perceiver's concepts". The two accounts differ on "whose function does the grouping". Limit: one theoretical paper, with no test of appraisal predictions.
+- [THEORY-055](../theory.d/THEORY-055.md): an appraisal "elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness". That puts the grouping in the agent. Limit: argued, not tested. It already grounds [CLAIM-039](../claims.d/CLAIM-039.md).
+
+## What would answer it
+
+A mode of action readiness, defined for organizations, that is present across firms called angry in varied contexts and absent in others. That would favour [THEORY-055](../theory.d/THEORY-055.md). Or attributions of corporate emotion that shift with the attributors' concepts while the firm's readiness is held fixed, which would favour [THEORY-057](../theory.d/THEORY-057.md).

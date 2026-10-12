@@ -13,6 +13,7 @@ line: authenticity
 answered_by:
 - CLAIM-096
 - THEORY-075
+- THEORY-027
 summary: >-
   The owner's question at U75: authenticity, if it gives normativity at
   all, gives it downward from an agent to its constituents, and not
@@ -33,3 +34,7 @@ needing "independent moral argument".
 ## Note of 2026-10-12: a typed partial answer
 
 [THEORY-075](../theory.d/THEORY-075.md) (Korsgaard) now carries an `answered_by` edge: only the humanity step gives obligations every agent has.
+
+## Note of 2026-10-12: a constraint on answers
+
+[THEORY-027](../theory.d/THEORY-027.md) (Sen's liberal paradox) now carries an `answered_by` edge. No rule over an open domain respects each agent's control of its own sphere together with unanimity, so any grounding of normativity across agents at one level must weaken one of them. It narrows the answers and does not supply one. It is the structure [CLAIM-096](../claims.d/CLAIM-096.md) points at.

@@ -17,6 +17,7 @@ summary: >-
 answered_by:
 - THEORY-125
 - THEORY-126
+- THEORY-123
 ---
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the claim this question bears on, with its line set aside -->
 
@@ -46,3 +47,7 @@ firm?
 ## Note of 2026-10-12: typed partial answers
 
 [THEORY-125](../theory.d/THEORY-125.md) (a group subject, possibly) and [THEORY-126](../theory.d/THEORY-126.md) (synchronized convergence, no group subject) now carry `answered_by` edges. They are the two sides this question names.
+
+## Note of 2026-10-12: the convergence side, evidenced
+
+[THEORY-123](../theory.d/THEORY-123.md) (Barsade) now carries an `answered_by` edge. Mood convergence is shown experimentally, and the paper calls it "a group phenomenon". That is evidence for the convergence side with no group subject. [THEORY-126](../theory.d/THEORY-126.md), already on this question, extends it.

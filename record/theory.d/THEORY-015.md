@@ -26,6 +26,8 @@ summary: >-
 extends:
 - THEORY-012
 - THEORY-016
+answers:
+- QUESTION-tmpsbq58
 ---
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-266 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->

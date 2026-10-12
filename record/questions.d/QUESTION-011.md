@@ -17,6 +17,8 @@ summary: >-
   The ownership question. The authenticity line was built to answer it and
   was set aside with it at the audit of 2026-10-05; the paper now
   disclaims it ([CLAIM-022](../claims.d/CLAIM-022.md)).
+refined_by:
+- QUESTION-tmpjq32e
 ---
 <!-- inactive-ok-file: CLAIM-016 — Deferred; set aside, and cited to say what was set aside with it -->
 

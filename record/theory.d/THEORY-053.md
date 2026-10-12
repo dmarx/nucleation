@@ -24,6 +24,8 @@ summary: >-
   untested. Active because it is close to a logical point and both state
   it. What it does not say is that mediation proves a mechanism; both
   sources deny that.
+answers:
+- QUESTION-tmp4hwnm
 ---
 <!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis of ACT's processes as mediators, named as the test this account calls for, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-058 THEORY-050 THEORY-048 — Proposed; a parallel case of evidence that cannot discriminate, and the batch's theories of change and of explanation, named as the accounts this standard applies to -->

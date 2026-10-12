@@ -57,6 +57,8 @@ summary: >-
   without access untested; that premise, not the access data, is where it
   rivals overflow and the sensory account. Single source, second-hand
   evidence, and the P3 question conceded open.
+answers:
+- QUESTION-tmpn1400
 ---
 <!-- inactive-ok-file: THEORY-103 THEORY-098 — Proposed; the rival accounts, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-102 THEORY-094 THEORY-093 THEORY-023 — Proposed; named in prose for their bearing, nothing here rests on them -->
