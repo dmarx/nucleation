@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpifi9m
 title: 'The same film joke, seen as a child and again as an adult'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-12'
+  note: >-
+    Adds what the case shows about gluing (CLAIM-tmpk4fd7): the child's
+    and the adult's readings sit in contexts that do not overlap, so they
+    do not conflict until memory brings the first into the second. The
+    case as stated is unchanged.
 standing: stipulated
 tags:
 - pragmatics
@@ -14,6 +22,7 @@ line: pragmatic-transport
 illustrates:
 - CLAIM-160
 - CLAIM-171
+- CLAIM-tmpk4fd7
 summary: >-
   The owner's case (2026-10-11): one person watches a scene in a family
   film or show as a child and again as an adult, and the joke means
@@ -26,6 +35,7 @@ supports:
 - CLAIM-171
 ---
 <!-- inactive-ok-file: CLAIM-074 CLAIM-160 CLAIM-171 — Proposed; the claims this case tests, open -->
+<!-- inactive-ok-file: CLAIM-tmpr8n6u — Proposed; the parallel the case draws, not leaned on -->
 
 # CASE-048: The same film joke, seen as a child and again as an adult
 
@@ -60,6 +70,15 @@ The case also ties this line to the self lines. The same receiver at two
 ages is one person with two common grounds. The child's reading is the
 child's layer, not a failed adult reading. That bears on [QUESTION-023](../questions.d/QUESTION-023.md)'s
 overhearer, who misses insider meaning by design.
+
+**Two readings that do not meet.** The child's reading and the adult's
+are sections over two contexts, twenty years apart, that do not overlap.
+By [CLAIM-tmpk4fd7](../claims.d/CLAIM-tmpk4fd7.md) they glue, and the person holds no contradiction in
+having laughed at different jokes at different ages. They meet only when
+the adult remembers the child's reading while having the adult's. Memory
+makes the overlap here, as self-prediction does for interests in
+[CLAIM-tmpr8n6u](../claims.d/CLAIM-tmpr8n6u.md). That overlap is where the experience the case trades on
+happens: the moment of seeing what the line meant all along.
 
 It is stipulated. The *Shrek* line is named as an instance and not
 analysed. Whether real viewers report the shift this way is not documented
