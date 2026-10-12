@@ -34,6 +34,7 @@ used_by:
 - CLAIM-169
 - CLAIM-172
 - CLAIM-175
+- CLAIM-tmpr8n6u
 ---
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-153 CLAIM-155 — Proposed; claims named as using particular senses, open -->

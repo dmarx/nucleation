@@ -40,6 +40,9 @@ summary: >-
   compartmentalization needs a loop. The frustrated XY or Kuramoto energy
   finds the obstruction: its minimum is 0 exactly when Φ ≡ 0. Abelian
   case only; re-checked here.
+complements:
+- CLAIM-tmpk4fd7
+- CLAIM-tmpr8n6u
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this result partly answers -->
 

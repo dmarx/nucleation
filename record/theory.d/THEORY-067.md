@@ -53,6 +53,7 @@ summary: >-
 supports:
 - CLAIM-169
 - CLAIM-159
+- CLAIM-tmpr8n6u
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; the rival account, declared -->
 <!-- inactive-ok-file: LIT-583 LIT-573 — Deferred; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
