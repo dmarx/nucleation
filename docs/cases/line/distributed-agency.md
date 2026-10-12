@@ -6,7 +6,7 @@
 
 **Distributed agency** — what an organized whole is, and how its operative direction relates to its members' — where the essay started.
 
-5 of 51 CASE documents. Back to the [full index](../README.md).
+6 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [CASE-046](../../../record/cases.d/CASE-046.md) | A partner-dancing couple, lindy hop, tango or salsa, while they dance | The owner's case (2026-10-11). Two social dancers improvise together. The lead proposes through the frame, the follow interprets and adds styling, and each corrects for the other's balance and timing. Neither alone decides where the next step lands. Used to ask what the pair is while dancing, and only after that whether it is a self. | Active |
 | [CASE-047](../../../record/cases.d/CASE-047.md) | Gut microbes and the host's hunger and mood: a lower-level collective that can drive the person | The owner's example (2026-10-11). The human gut microbiome is a community of other organisms inside the person. Through metabolites, mimics of host appetite peptides, the immune system and the vagus, it can change hunger and affect: robustly in rodents, modestly and inconsistently in humans so far. Documented, with the evidence graded in [LIT-903](../../../record/literature.d/LIT-903.md) and [LIT-915](../../../record/literature.d/LIT-915.md). Used as the case of drive from a lower level that is itself a collective. | Active |
 | [CASE-050](../../../record/cases.d/CASE-050.md) | The all-hands: a corporate event as a synchronization mechanism for the firm | The owner's case (2026-10-11): a company all-hands or offsite as a mechanism that synchronizes a "corporate entity", a kind of self. The teams' priorities have drifted apart, and the event re-couples them. It is the firm-scale counterpart of the session's individual routes: entrainment by co-presence, a record written for later readers, and incentives realigned. Whether the firm so synchronized is a self is the open question, not something the case settles. | Active |
+| [CASE-052](../../../record/cases.d/CASE-052.md) | Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast | As boyd (2008) reports it after Meyrowitz (1985: 43): the civil rights leader Stokely Carmichael used very different rhetorical styles with black and with white audiences. While the audiences were separate the two styles did not conflict. Television and radio put both audiences in front of one speech, there was no neutral style, and his choice of one alienated the other audience. The roles did not change. The cover did. | Active |

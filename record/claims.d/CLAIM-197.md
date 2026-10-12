@@ -1,5 +1,8 @@
 ---
+number: 197
 status: Active
+formerly:
+- CLAIM-tmpk4fd7
 title: 'Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues'
 version: 1
 history:
@@ -42,15 +45,15 @@ summary: >-
   of meaning that does not state it has decided nothing.
 illustrated_by:
 - CASE-048
-- CASE-tmpdat4f
+- CASE-052
 supports:
-- CLAIM-tmpr8n6u
-- CLAIM-tmp37bdg
+- CLAIM-198
+- CLAIM-196
 ---
 <!-- inactive-ok-file: CLAIM-143 — Proposed; the general point this claim gives the simplest instance of -->
-<!-- inactive-ok-file: CLAIM-tmpr8n6u — Proposed; the consequence drawn from this claim, cited forward -->
+<!-- inactive-ok-file: CLAIM-198 — Proposed; the consequence drawn from this claim, cited forward -->
 
-# CLAIM-tmpk4fd7: Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues
+# CLAIM-197: Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues
 
 ## The claim
 
@@ -99,7 +102,7 @@ family, professional and social contexts, and identity as their global
 section. Read as written, roles in contexts that do not meet cannot
 contradict each other. [CLAIM-153](CLAIM-153.md) already works with contexts that overlap
 in pairs. The consequence for interests over time is drawn in
-[CLAIM-tmpr8n6u](CLAIM-tmpr8n6u.md).
+[CLAIM-198](CLAIM-198.md).
 
 ## What it does not say
 

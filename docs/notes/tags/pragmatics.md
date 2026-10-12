@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-11 of 709 NOTE documents. Back to the [full index](../README.md).
+12 of 710 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -19,3 +19,4 @@
 | [NOTE-634](../../../record/notes.d/NOTE-634.md) | Predicting pragmatic reasoning in language games | A listener who inverts, by Bayes' rule, a speaker choosing words by informativeness to a literal listener, combined with an empirically measured salience prior, predicts mean listener bets in simple three-object reference games at r = .99 with no fitted parameters, and the speaker model predicts speaker bets at r = .98. | Read |
 | [NOTE-644](../../../record/notes.d/NOTE-644.md) | Semantic Unification | Puts basic DRT into sheaf form: a DRS is a section of a presheaf of consistent literals, an anaphoric resolution is a cover by variable maps, and the discourse's meaning is the gluing, unique if it exists (Proposition 1). All the interpretive work is in choosing the cover; the only obstruction to gluing shown is inconsistency, so the paper models context dependence and ambiguity, not contextuality in the Abramsky–Brandenburger sense. Its probabilistic section ranks covers by summed corpus counts, not by gluing distributions. | Read |
 | [NOTE-648](../../../record/notes.d/NOTE-648.md) | Quantum-Like Contextuality in Large Language Models | Builds a three-sentence anaphora schema with the support of the PR prism, instantiates it 51,966,480 times from Simple English Wikipedia, and takes one referent probability per sentence from BERT: 0.148% of the models pass a signalling-corrected sheaf test and 71.1% the CbD test. Because the schema fixes the support, both verdicts depend only on how uncertain BERT is in the three sentences; the tie to embedding distance is a softmax identity with weak correlations. | Read |
+| [NOTE-710](../../../record/notes.d/NOTE-710.md) | boyd (2008), Taken Out of Context: collapsed contexts | Networked publics remove the boundaries that kept a person's social contexts apart. Self-presentations that differ by audience coexist while the audiences are segmented, and collide when the medium brings them together. People manage the collision by scripting it (a wedding), by noticing it (meeting the boss while out with friends), or by rebuilding walls (privacy settings, false details). Online, the collision often goes unseen by the person it happens to. | Skimmed |

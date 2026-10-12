@@ -25,7 +25,7 @@ summary: >-
   word is only a name. The body says what would turn the analogy into a
   mechanism.
 objected_by:
-- CLAIM-tmpr8n6u
+- CLAIM-198
 ---
 <!-- inactive-ok-file: CLAIM-162 — Proposed; the claim this objection targets, open -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading that sets the standard the analogy is held to -->

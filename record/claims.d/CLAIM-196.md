@@ -1,5 +1,8 @@
 ---
+number: 196
 status: Proposed
+formerly:
+- CLAIM-tmp37bdg
 title: 'A person''s roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create'
 version: 1
 history:
@@ -9,7 +12,7 @@ history:
     Ported from the Mathematics of Meaning manuscript, v1 "Sheaf
     Semantics of Context" §11.5, which MOM holds no claim on, at the
     owner's request to port it "if it's interesting and defensible". As
-    written the passage is not defensible: it makes CLAIM-tmpk4fd7's
+    written the passage is not defensible: it makes CLAIM-197's
     error for the self. This is the defensible version, with outside
     evidence from boyd (2008).
 role: thesis
@@ -26,17 +29,17 @@ tags:
 date: '2026-10-12'
 line: distributed-agency
 rests_on:
-- CLAIM-tmpk4fd7
+- CLAIM-197
 grounds:
-- LIT-tmpviq1w
+- LIT-1001
 complements:
 - CLAIM-153
-- CLAIM-tmpr8n6u
+- CLAIM-198
 summary: >-
   The MoM manuscript models a person's roles ("daughter", "teacher",
   "friend") as sections over family, professional and social contexts,
   with identity as their global section, failing when the roles
-  contradict. Roles in contexts that do not meet glue ([CLAIM-tmpk4fd7](CLAIM-tmpk4fd7.md)),
+  contradict. Roles in contexts that do not meet glue ([CLAIM-197](CLAIM-197.md)),
   so contradiction between them is not yet a failure. Conflict needs an
   overlap: an occasion on which two audiences are present at once. People
   manage the cover. They segregate audiences, which keeps the contexts
@@ -44,13 +47,13 @@ summary: >-
   Broadcast and networked media collapse contexts, which creates overlaps
   the person did not choose (boyd 2008, after Meyrowitz 1985).
 illustrated_by:
-- CASE-tmpdat4f
+- CASE-052
 uses:
 - TERM-045
 ---
-<!-- inactive-ok-file: CLAIM-tmpr8n6u — Proposed; the diachronic partner of this claim, open -->
+<!-- inactive-ok-file: CLAIM-198 — Proposed; the diachronic partner of this claim, open -->
 
-# CLAIM-tmp37bdg: A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create
+# CLAIM-196: A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create
 
 ## The claim
 
@@ -61,7 +64,7 @@ continues: "If these local identities glue coherently, the sheaf has a
 global section: a stable self. If they do not (contradictory roles,
 fractured coherence), identity fails to unify."
 
-**As written it is wrong, in the way [CLAIM-tmpk4fd7](CLAIM-tmpk4fd7.md) identifies.** If the
+**As written it is wrong, in the way [CLAIM-197](CLAIM-197.md) identifies.** If the
 family context and the professional context do not meet, the roles agree
 on every overlap because there is none, and they glue. A person who is
 deferential at home and authoritative at work holds no contradiction by
@@ -76,12 +79,12 @@ maintain it.
   for different groups do no harm while the groups are kept apart.
 - **Scripting manages the overlaps that must happen.** Weddings, "in which
   context collisions are common, are frequently scripted to make everyone
-  comfortable" ([LIT-tmpviq1w](../literature.d/LIT-tmpviq1w.md), p. 38).
+  comfortable" ([LIT-1001](../literature.d/LIT-1001.md), p. 38).
 - **Collapse creates overlaps nobody chose.** Broadcast and networked
   media bring the audiences together. Carmichael "was able to maintain
   distinct styles as long as he was able to segment social groups, he ran
   into trouble when electronic media collapsed those social groups"
-  ([LIT-tmpviq1w](../literature.d/LIT-tmpviq1w.md), pp. 36–37; [CASE-tmpdat4f](../cases.d/CASE-tmpdat4f.md)).
+  ([LIT-1001](../literature.d/LIT-1001.md), pp. 36–37; [CASE-052](../cases.d/CASE-052.md)).
 
 So a presented self ([TERM-045](../terms.d/TERM-045.md)<!-- ref::uses: TERM-045 -->) is a global section relative
 to a cover the person partly controls. Integrity of presentation can be achieved two
@@ -91,7 +94,7 @@ distinct contexts are how people "properly locate their performances".
 
 ## Why this record holds it
 
-It is the synchronic partner of [CLAIM-tmpr8n6u](CLAIM-tmpr8n6u.md). There, interests over time
+It is the synchronic partner of [CLAIM-198](CLAIM-198.md). There, interests over time
 conflict only where self-prediction makes an overlap. Here, roles across
 audiences conflict only where audiences meet. [CLAIM-153](CLAIM-153.md) supplies the
 mathematics once overlaps exist: with pairwise overlaps, two contexts

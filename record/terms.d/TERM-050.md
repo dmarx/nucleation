@@ -21,7 +21,7 @@ used_by:
 - CLAIM-162
 - CLAIM-169
 - CLAIM-163
-- CLAIM-tmpr8n6u
+- CLAIM-198
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection to the term's name -->
 <!-- inactive-ok-file: THEORY-062 THEORY-067 THEORY-070 — Proposed; the readings the term is distinguished from -->

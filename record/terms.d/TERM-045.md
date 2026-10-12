@@ -18,7 +18,7 @@ history:
   date: '2026-10-12'
   note: >-
     A seventh sense is added: presented, the self a person gives to
-    audiences. CLAIM-tmp37bdg, porting MoM's "identity as global
+    audiences. CLAIM-196, porting MoM's "identity as global
     section", needed it and found none of the six fit. Added at the
     owner's request. Senses 1–6 are unchanged and keep their numbers.
 tags:
@@ -42,11 +42,11 @@ used_by:
 - CLAIM-169
 - CLAIM-172
 - CLAIM-175
-- CLAIM-tmpr8n6u
-- CLAIM-tmp37bdg
+- CLAIM-198
+- CLAIM-196
 ---
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
-<!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-153 CLAIM-155 CLAIM-tmp37bdg — Proposed; claims named as using particular senses, open -->
+<!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-153 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
 
 # TERM-045: self, and which sense
 
@@ -76,8 +76,8 @@ which:
 7. **Presented.** The self a person gives to others: the presentations
    made to each audience, and whether they cohere where audiences meet.
    This is the self of impression management, Goffman's sense as boyd
-   uses it ([LIT-tmpviq1w](../literature.d/LIT-tmpviq1w.md)), and of MoM's roles as sections over family,
-   professional and social contexts ([CLAIM-tmp37bdg](../claims.d/CLAIM-tmp37bdg.md)). It is
+   uses it ([LIT-1001](../literature.d/LIT-1001.md)), and of MoM's roles as sections over family,
+   professional and social contexts ([CLAIM-196](../claims.d/CLAIM-196.md)). It is
    audience-relative and synchronic. It differs from 3, which is sameness
    over time, and from 4, which is a life's story told whole. A person can
    have it divided while 1 and 6 are intact. Added in version 3.
@@ -87,5 +87,5 @@ which:
 - **Not one property with several aspects.** The senses come apart. A firm may
   have 5 without 1. A dreamer may have 1 without 5. Otto's notebook bears on 2
   only. A speaker whose audiences are brought together may find 7 divided
-  with nothing else changed ([CASE-tmpdat4f](../cases.d/CASE-tmpdat4f.md)).
+  with nothing else changed ([CASE-052](../cases.d/CASE-052.md)).
 - **Not "person"** ([ADR-024](../decisions.d/ADR-024.md)'s `personhood`).

@@ -134,6 +134,7 @@
 
 - [CLAIM-162](../record/claims.d/CLAIM-162.md) — Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless *(thesis, Proposed)*
   - [CLAIM-163](../record/claims.d/CLAIM-163.md) — "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" *(counter, Proposed)*
+    - [CLAIM-198](../record/claims.d/CLAIM-198.md) — Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates *(thesis, Proposed)*
 
 ## From Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
 

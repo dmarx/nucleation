@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-12'
   note: >-
-    Adds what the case shows about gluing (CLAIM-tmpk4fd7): the child's
+    Adds what the case shows about gluing (CLAIM-197): the child's
     and the adult's readings sit in contexts that do not overlap, so they
     do not conflict until memory brings the first into the second. The
     case as stated is unchanged.
@@ -22,7 +22,7 @@ line: pragmatic-transport
 illustrates:
 - CLAIM-160
 - CLAIM-171
-- CLAIM-tmpk4fd7
+- CLAIM-197
 summary: >-
   The owner's case (2026-10-11): one person watches a scene in a family
   film or show as a child and again as an adult, and the joke means
@@ -35,7 +35,7 @@ supports:
 - CLAIM-171
 ---
 <!-- inactive-ok-file: CLAIM-074 CLAIM-160 CLAIM-171 — Proposed; the claims this case tests, open -->
-<!-- inactive-ok-file: CLAIM-tmpr8n6u — Proposed; the parallel the case draws, not leaned on -->
+<!-- inactive-ok-file: CLAIM-198 — Proposed; the parallel the case draws, not leaned on -->
 
 # CASE-048: The same film joke, seen as a child and again as an adult
 
@@ -73,11 +73,11 @@ overhearer, who misses insider meaning by design.
 
 **Two readings that do not meet.** The child's reading and the adult's
 are sections over two contexts, twenty years apart, that do not overlap.
-By [CLAIM-tmpk4fd7](../claims.d/CLAIM-tmpk4fd7.md) they glue, and the person holds no contradiction in
+By [CLAIM-197](../claims.d/CLAIM-197.md) they glue, and the person holds no contradiction in
 having laughed at different jokes at different ages. They meet only when
 the adult remembers the child's reading while having the adult's. Memory
 makes the overlap here, as self-prediction does for interests in
-[CLAIM-tmpr8n6u](../claims.d/CLAIM-tmpr8n6u.md). That overlap is where the experience the case trades on
+[CLAIM-198](../claims.d/CLAIM-198.md). That overlap is where the experience the case trades on
 happens: the moment of seeing what the line meant all along.
 
 It is stipulated. The *Shrek* line is named as an instance and not

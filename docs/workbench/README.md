@@ -8,6 +8,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 - [12 Oct 05:15 — Session of 2026-10-12: questions for the unlinked THEORYs, and two new lines](2026-10.md#session-of-2026-10-12-questions-for-the-unlinked-theorys-and-two-new-lines)
 - [12 Oct 04:22 — Session of 2026-10-12: the four unmarked THEORY tensions, filed](2026-10.md#session-of-2026-10-12-the-four-unmarked-theory-tensions-filed)
+- [12 Oct 02:01 — Session of 2026-10-12: MOM-CLM-088 and the overlap a divided self needs](2026-10.md#session-of-2026-10-12-mom-clm-088-and-the-overlap-a-divided-self-needs)
 - [12 Oct 01:27 — Session of 2026-10-12: synthesis round 3, a pass over the unlinked THEORYs](2026-10.md#session-of-2026-10-12-synthesis-round-3-a-pass-over-the-unlinked-theorys)
 - [12 Oct 00:26 — Session of 2026-10-12: synthesis round 2, the rest of the ranking](2026-10.md#session-of-2026-10-12-synthesis-round-2-the-rest-of-the-ranking)
 - [11 Oct 22:51 — Session of 2026-10-11, late: a synthesis review of the record, and its first round](2026-10.md#session-of-2026-10-11-late-a-synthesis-review-of-the-record-and-its-first-round)
@@ -46,8 +47,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-37 entries across 1 book, newest first.
+38 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 37 | 2026-10-07 | 2026-10-12 |
+| [2026-10](2026-10.md) | 38 | 2026-10-07 | 2026-10-12 |

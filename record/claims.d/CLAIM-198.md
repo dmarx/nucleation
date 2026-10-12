@@ -1,5 +1,8 @@
 ---
+number: 198
 status: Proposed
+formerly:
+- CLAIM-tmpr8n6u
 title: 'Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent''s prediction of its own later valuation creates'
 version: 1
 history:
@@ -26,7 +29,7 @@ line: will-organization
 answers:
 - QUESTION-034
 rests_on:
-- CLAIM-tmpk4fd7
+- CLAIM-197
 - CLAIM-169
 grounds:
 - THEORY-067
@@ -34,11 +37,11 @@ objects_to:
 - CLAIM-163
 complements:
 - CLAIM-153
-- CLAIM-tmp37bdg
+- CLAIM-196
 summary: >-
   Take an agent's interests as sections over contexts of choice, each
   governing the windows of time in which its valuation ranks first. If
-  the windows do not overlap, the sections glue ([CLAIM-tmpk4fd7](CLAIM-tmpk4fd7.md)): someone
+  the windows do not overlap, the sections glue ([CLAIM-197](CLAIM-197.md)): someone
   who prefers the diet in the morning and the cake at night is a
   time-indexed preference, not a divided self. Division needs an overlap,
   a choice on which both interests bear at once. On Ainslie's account
@@ -53,7 +56,7 @@ uses:
 <!-- inactive-ok-file: CLAIM-169 THEORY-067 — Proposed; the account of interests this claim builds on, with its standing as it is -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this claim answers in part -->
 
-# CLAIM-tmpr8n6u: Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates
+# CLAIM-198: Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates
 
 ## The claim
 
@@ -67,7 +70,7 @@ The question is whether these sections glue into one self
 **Without an overlap they glue.** Suppose the interest in the diet governs
 the mornings and the interest in the cake governs the evenings, and
 nothing in a morning bears on an evening. Then the windows are disjoint,
-and by [CLAIM-tmpk4fd7](CLAIM-tmpk4fd7.md) the sections glue: the global section is a
+and by [CLAIM-197](CLAIM-197.md) the sections glue: the global section is a
 preference indexed by time of day. This is the "tall" example over time.
 A reversal of preference, on its own, is no more a division of the self
 than "tall" is a division of English.
@@ -107,7 +110,7 @@ here. The objection is answered in part and stays open.
   division of the Ainslie kind needs self-prediction. It does not say
   that every conflict does.
 - **That the cover is settled.** Which contexts of choice count, and how
-  finely, is the open piece [CLAIM-tmpk4fd7](CLAIM-tmpk4fd7.md) names, and [CLAIM-153](CLAIM-153.md) leaves
+  finely, is the open piece [CLAIM-197](CLAIM-197.md) names, and [CLAIM-153](CLAIM-153.md) leaves
   cover-dependence open as well.
 - **That self-prediction is conscious.** It is the agent's forecasting of
   its own later valuations, however that is implemented.

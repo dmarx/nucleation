@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**316 documents cited without acknowledgement.** Not listed: 4848 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**316 documents cited without acknowledgement.** Not listed: 4863 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3176,7 +3176,7 @@ In relational frame theory the self is verbal behaviour's content, its process a
 
 1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-034.md:95`](../../record/questions.d/QUESTION-034.md)
+- [`record/questions.d/QUESTION-034.md:96`](../../record/questions.d/QUESTION-034.md)
 
 ### [THEORY-047](../../record/theory.d/THEORY-047.md) — Proposed
 

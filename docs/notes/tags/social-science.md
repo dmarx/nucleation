@@ -4,7 +4,7 @@
 
 **social-science**.
 
-83 of 709 NOTE documents. Back to the [full index](../README.md).
+84 of 710 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -91,3 +91,4 @@
 | [NOTE-642](../../../record/notes.d/NOTE-642.md) | Morphology of the Folktale | In chs. II–III of the 1968 English text, Propp's four theses and his 31 functions appear as in the Russian. The functions are named by nouns of action under capitalised headings, with Greek signs for the seven preparatory functions and Latin ones after. "Dramatis personae" and "characters" alternate for the same word, and the class studied is "fairy tales", under a title Dundes calls misleading. The second edition's additions are visible on the page: Wagner's notes correct about forty of Propp's tale references in two chapters and renumber the tales to the later Afanas'ev numbering. | Skimmed |
 | [NOTE-649](../../../record/notes.d/NOTE-649.md) | Large AI models are cultural and social technologies | Argues that large models are a cultural and social technology, not intelligent agents: lossy, uninvertible summaries of human-produced corpora that, like prices and bureaucratic categories, allow the information to be reorganized at scale. The argument is by analogy and classification; no evidence is offered that could have come out otherwise. It names one mechanism (fitting the training distribution on average makes models worst where data are rare, which may homogenize culture) and leaves both it and its remedy untested. | Read |
 | [NOTE-704](../../../record/notes.d/NOTE-704.md) | Simon — The Architecture of Complexity | Complexity usually takes the form of hierarchy, defined by intensity of interaction rather than subordination. Hierarchies evolve fast because stable intermediate forms survive interruption, and they are nearly decomposable: fast, nearly independent dynamics inside subsystems; slow, aggregate dynamics between them. The theorem is cited, not shown; the evolutionary numbers are illustrative; the social claims are asserted. | Read |
+| [NOTE-710](../../../record/notes.d/NOTE-710.md) | boyd (2008), Taken Out of Context: collapsed contexts | Networked publics remove the boundaries that kept a person's social contexts apart. Self-presentations that differ by audience coexist while the audiences are segmented, and collide when the medium brings them together. People manage the collision by scripting it (a wedding), by noticing it (meeting the boss while out with friends), or by rebuilding walls (privacy settings, false details). Online, the collision often goes unseen by the person it happens to. | Skimmed |

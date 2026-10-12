@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [TERM-045](../../../record/terms.d/TERM-045.md) v2 | self, and which sense | The record uses "self" in at least six senses. [ADR-024](../../../record/decisions.d/ADR-024.md) reserves the topic word for being a subject. This term lists the senses so that a claim using "self" says which: subject, dispositional (extended), persisting, narrative, self-governing and integrated. A claim that leaves the sense open is stated in this term's words as "self (sense open)". | Active |
+| [TERM-045](../../../record/terms.d/TERM-045.md) v3 | self, and which sense | The record uses "self" in at least seven senses. [ADR-024](../../../record/decisions.d/ADR-024.md) reserves the topic word for being a subject. This term lists the senses so that a claim using "self" says which: subject, dispositional (extended), persisting, narrative, self-governing, integrated and presented. A claim that leaves the sense open is stated in this term's words as "self (sense open)". | Active |

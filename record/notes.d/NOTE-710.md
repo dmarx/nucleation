@@ -1,6 +1,9 @@
 ---
+number: 710
 status: Skimmed
-paper: LIT-tmpviq1w
+formerly:
+- NOTE-tmp12jp1
+paper: LIT-1001
 title: 'boyd (2008), Taken Out of Context: collapsed contexts'
 version: 1
 history:
@@ -27,7 +30,7 @@ summary: >-
   collision often goes unseen by the person it happens to.
 ---
 
-# NOTE-tmp12jp1: boyd (2008), Taken Out of Context: collapsed contexts
+# NOTE-710: boyd (2008), Taken Out of Context: collapsed contexts
 
 ## Contribution
 

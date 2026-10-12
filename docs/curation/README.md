@@ -7,6 +7,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 ## Currently — [October 2026](2026-10.md)
 
 - [12 Oct 14:46 — Sixty-nine readings from the owner's papers-feed, matched to the record's questions by embedding and filed unread](2026-10.md#sixty-nine-readings-from-the-owners-papers-feed-matched-to-the-records-questions-by-embedding-and-filed-unread)
+- [12 Oct 02:01 — MOM-CLM-088 dual-filed: disjoint contexts glue, and where that leaves the divided self](2026-10.md#mom-clm-088-dual-filed-disjoint-contexts-glue-and-where-that-leaves-the-divided-self)
 - [11 Oct 21:43 — Stability theory for the nucleating-argument line: generalized stability theory and May, four works filed, none read](2026-10.md#stability-theory-for-the-nucleating-argument-line-generalized-stability-theory-and-may-four-works-filed-none-read)
 - [11 Oct 20:21 — Hebb, Kanerva and Hopfield for the nucleating-argument line: four works filed, none read](2026-10.md#hebb-kanerva-and-hopfield-for-the-nucleating-argument-line-four-works-filed-none-read)
 - [11 Oct 14:39 — Crystal growth and pattern formation for the nucleating-argument line: eight works filed, two read](2026-10.md#crystal-growth-and-pattern-formation-for-the-nucleating-argument-line-eight-works-filed-two-read)
@@ -53,9 +54,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-91 entries across 2 books, newest first.
+92 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 44 | 2026-10-01 | 2026-10-12 |
+| [2026-10](2026-10.md) | 45 | 2026-10-01 | 2026-10-12 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

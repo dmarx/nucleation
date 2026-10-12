@@ -57,17 +57,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-127](../record/claims.d/CLAIM-127.md) — Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context *(Proposed)*
   - [CLAIM-130](../record/claims.d/CLAIM-130.md) — Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed *(Proposed)*
 
-## will-organization
-
-### From Possessing an action-generating regime is not the same as its being practically effective
-
-- [CLAIM-047](../record/claims.d/CLAIM-047.md) — Possessing an action-generating regime is not the same as its being practically effective *(Active)*
-  - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes *(Proposed)* — also extends CLAIM-080
-    - [CLAIM-156](../record/claims.d/CLAIM-156.md) — Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were *(Proposed)* — also extends CLAIM-169
-- [CLAIM-080](../record/claims.d/CLAIM-080.md) — The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent *(Active)*
-- [CLAIM-169](../record/claims.d/CLAIM-169.md) — On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon *(Proposed)*
-  - [CLAIM-162](../record/claims.d/CLAIM-162.md) — Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless *(Proposed)*
-
 ## Sharing no `line`
 
 ### From A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles
@@ -136,3 +125,15 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-036](../record/claims.d/CLAIM-036.md) — Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure *(Superseded)*
 - [CLAIM-135](../record/claims.d/CLAIM-135.md) — Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most *(Proposed)*
 - [CLAIM-181](../record/claims.d/CLAIM-181.md) — The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost *(Proposed)*
+
+### From Possessing an action-generating regime is not the same as its being practically effective
+
+- [CLAIM-047](../record/claims.d/CLAIM-047.md) — Possessing an action-generating regime is not the same as its being practically effective *(Active)*
+  - [CLAIM-027](../record/claims.d/CLAIM-027.md) — Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes *(Proposed)* — also extends CLAIM-080
+    - [CLAIM-156](../record/claims.d/CLAIM-156.md) — Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were *(Proposed)* — also extends CLAIM-169
+- [CLAIM-080](../record/claims.d/CLAIM-080.md) — The agent is independently warranted: the account asks how a given agent's practical efficacy is organized, not what makes something an agent *(Active)*
+- [CLAIM-169](../record/claims.d/CLAIM-169.md) — On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon *(Proposed)*
+  - [CLAIM-162](../record/claims.d/CLAIM-162.md) — Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless *(Proposed)*
+  - [CLAIM-198](../record/claims.d/CLAIM-198.md) — Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates *(Proposed)* — also extends CLAIM-197
+- [CLAIM-197](../record/claims.d/CLAIM-197.md) — Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues *(Active)*
+  - [CLAIM-196](../record/claims.d/CLAIM-196.md) — A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create *(Proposed)*

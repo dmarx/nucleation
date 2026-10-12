@@ -6,7 +6,7 @@
 
 **Agency** — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy).
 
-17 of 51 CASE documents. Back to the [full index](../README.md).
+17 of 52 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

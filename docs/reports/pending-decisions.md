@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**682 document(s) awaiting a decision.**
+**684 document(s) awaiting a decision.**
 
 ## LITs
 
-365 of the 682.
+365 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -381,7 +381,7 @@
 
 ## THEORYs
 
-183 of the 682.
+183 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -420,7 +420,7 @@
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 41 | 2 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 41 | 2 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 23 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
-| 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 22 | 0 | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one |
+| 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 23 | 0 | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 22 | 2 | In human ventral temporal cortex the content of a clearly seen, unchanging image is carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-050](../../record/theory.d/THEORY-050.md) | 21 | 2 | Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-047](../../record/theory.d/THEORY-047.md) | 20 | 1 | A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is |
@@ -571,7 +571,7 @@
 
 ## QUESTIONs
 
-9 of the 682.
+9 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -587,7 +587,7 @@
 
 ## CLAIMs
 
-120 of the 682.
+122 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -663,8 +663,8 @@
 | 2026-10-10 | Proposed | [CLAIM-139](../../record/claims.d/CLAIM-139.md) | 11 | 0 | A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist |
 | 2026-10-10 | Proposed | [CLAIM-130](../../record/claims.d/CLAIM-130.md) | 10 | 0 | Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed |
 | 2026-10-10 | Proposed | [CLAIM-136](../../record/claims.d/CLAIM-136.md) | 8 | 0 | Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity |
+| 2026-10-10 | Proposed | [CLAIM-143](../../record/claims.d/CLAIM-143.md) | 8 | 0 | Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated |
 | 2026-10-10 | Proposed | [CLAIM-135](../../record/claims.d/CLAIM-135.md) | 7 | 2 | Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most |
-| 2026-10-10 | Proposed | [CLAIM-143](../../record/claims.d/CLAIM-143.md) | 7 | 0 | Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated |
 | 2026-10-10 | Proposed | [CLAIM-149](../../record/claims.d/CLAIM-149.md) | 6 | 2 | A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it |
 | 2026-10-10 | Proposed | [CLAIM-129](../../record/claims.d/CLAIM-129.md) | 5 | 1 | A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act |
 | 2026-10-10 | Proposed | [CLAIM-134](../../record/claims.d/CLAIM-134.md) | 5 | 0 | A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty's dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity |
@@ -686,12 +686,12 @@
 | 2026-10-11 | Proposed | [CLAIM-166](../../record/claims.d/CLAIM-166.md) | 10 | 0 | "Who drives" is not constant: a person's drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience |
 | 2026-10-11 | Proposed | [CLAIM-161](../../record/claims.d/CLAIM-161.md) | 9 | 3 | A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states |
 | 2026-10-11 | Proposed | [CLAIM-162](../../record/claims.d/CLAIM-162.md) | 9 | 0 | Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless |
+| 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 9 | 0 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
 | 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 9 | 0 | Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses |
 | 2026-10-11 | Proposed | [CLAIM-165](../../record/claims.d/CLAIM-165.md) | 8 | 3 | A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects |
+| 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 8 | 0 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon |
 | 2026-10-11 | Proposed | [CLAIM-170](../../record/claims.d/CLAIM-170.md) | 8 | 0 | The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-178](../../record/claims.d/CLAIM-178.md) | 8 | 0 | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
-| 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 7 | 0 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
-| 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 6 | 0 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon |
 | 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 5 | 0 | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were |
 | 2026-10-11 | Proposed | [CLAIM-160](../../record/claims.d/CLAIM-160.md) | 5 | 0 | Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored |
 | 2026-10-11 | Proposed | [CLAIM-168](../../record/claims.d/CLAIM-168.md) | 5 | 0 | Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find |
@@ -707,14 +707,16 @@
 | 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 1 | 0 | Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure |
 | 2026-10-11 | Proposed | [CLAIM-183](../../record/claims.d/CLAIM-183.md) | 0 | 0 | Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism |
 | 2026-10-12 | Proposed | [CLAIM-193](../../record/claims.d/CLAIM-193.md) | 4 | 4 | A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst |
+| 2026-10-12 | Proposed | [CLAIM-196](../../record/claims.d/CLAIM-196.md) | 4 | 0 | A person's roles in contexts that do not meet cannot contradict one another: role conflict needs an overlap, which segregating audiences prevents and collapsed contexts create |
 | 2026-10-12 | Proposed | [CLAIM-187](../../record/claims.d/CLAIM-187.md) | 3 | 3 | Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison |
+| 2026-10-12 | Proposed | [CLAIM-198](../../record/claims.d/CLAIM-198.md) | 3 | 0 | Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates |
 | 2026-10-12 | Proposed | [CLAIM-192](../../record/claims.d/CLAIM-192.md) | 2 | 2 | A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions |
 | 2026-10-12 | Proposed | [CLAIM-194](../../record/claims.d/CLAIM-194.md) | 1 | 1 | A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs |
 | 2026-10-12 | Proposed | [CLAIM-190](../../record/claims.d/CLAIM-190.md) | 0 | 0 | The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply |
 
 ## CASEs
 
-1 of the 682.
+1 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -722,7 +724,7 @@
 
 ## TERMs
 
-2 of the 682.
+2 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -731,7 +733,7 @@
 
 ## ARGs
 
-2 of the 682.
+2 of the 684.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
