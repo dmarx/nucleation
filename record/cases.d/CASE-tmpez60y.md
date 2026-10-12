@@ -18,6 +18,8 @@ summary: >-
   The record holds no source for the case yet.
 illustrates:
 - CLAIM-tmp6vyef
+variants:
+- CASE-tmp048av
 ---
 
 # CASE-tmpez60y: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs
@@ -57,6 +59,12 @@ An observation by the assistant, not the owner's: the same run also had
 a discrete switch. The anarchy/democracy meter changed the collective's
 constitution at a threshold. So one collective shows both forms,
 continuous reorganization inside a mode and a switch between modes.
+
+The owner later judged democracy mode the better demonstration of
+drift-diffusion dynamics, especially with the running tally visible as
+votes come in. That is filed as the stipulated variant [CASE-tmp048av](CASE-tmp048av.md).
+Anarchy mode shows a drifting walk, and democracy mode shows a decision
+by accumulation.
 
 ## What it cannot show
 

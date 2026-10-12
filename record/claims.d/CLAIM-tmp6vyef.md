@@ -9,7 +9,9 @@ history:
     The owner's answer to QUESTION-tmpqebvv, given on 2026-10-12, with
     Twitch Plays Pokémon as the example of the continuous case. The
     assistant wrote it up, chose the edges and drew the consequence for
-    CLAIM-163's test.
+    CLAIM-163's test. The owner then judged democracy mode, with the
+    tally visible as votes arrive, the better demonstration
+    (CASE-tmp048av), and the continuous case was rewritten around it.
 role: thesis
 defeated_if: >-
   One form fitting every kind of agent examined. That would be every
@@ -32,12 +34,13 @@ grounds:
 - THEORY-068
 illustrated_by:
 - CASE-tmpez60y
+- CASE-tmp048av
 summary: >-
   The owner's answer to [QUESTION-tmpqebvv](../questions.d/QUESTION-tmpqebvv.md): both forms are possible, and
   which one an agent shows depends on its constitution. An agent made of
   a population whose choices accumulate like a drift-diffusion process
-  reorganizes continuously; Twitch Plays Pokémon's navigation
-  approximates one. The consequence for [CLAIM-163](CLAIM-163.md)'s transition test is
+  reorganizes continuously. Twitch Plays Pokémon approximates one,
+  best in democracy mode with the tally visible as votes arrive. The consequence for [CLAIM-163](CLAIM-163.md)'s transition test is
   that it must be stated per constitution. A missing switch counts
   against coordination only in an agent built to switch.
 ---
@@ -57,9 +60,23 @@ agent-as-population-subject-to-drift-diffusion-decision-dynamics case."
 toward one option or another, and whose choice is the accumulated
 balance of the pushes. Its state is a drift-diffusion process. Under the
 conditions of [THEORY-068](../theory.d/THEORY-068.md), two competing leaky accumulators reduce to
-one when leak and inhibition balance. Such an agent's direction moves
-as the balance moves, and nothing in it is a switch between stable
-patterns. The crowd in [CASE-tmpez60y](../cases.d/CASE-tmpez60y.md) steers one avatar this way.
+one when leak and inhibition balance. Such an agent's state moves as the
+balance moves, and nothing in it is a switch between stable patterns
+until the choice is read out.
+
+The crowd of [CASE-tmpez60y](../cases.d/CASE-tmpez60y.md) steers one avatar this way. The owner
+judges democracy mode the better demonstration, especially with the
+running tally visible while the votes come in ([CASE-tmp048av](../cases.d/CASE-tmp048av.md)). There
+each move is a choice made by accumulating votes. In anarchy mode it is
+only the avatar's position that drifts.
+
+**A dial between the two.** Drawn by the assistant from [CASE-tmp048av](../cases.d/CASE-tmp048av.md):
+with the tally hidden, the counts are balanced integrators, the drift
+diffusion model itself for a two-way vote. With the tally visible, a
+leading count draws more votes, the net leak turns negative, and the
+process commits early, toward winner-take-all. One parameter of the
+crowd's constitution moves it from the continuous form toward the
+discrete one.
 
 **The discrete case.** An agent whose parts take control in turn, or
 whose interactions have several attractors, moves between metastable
