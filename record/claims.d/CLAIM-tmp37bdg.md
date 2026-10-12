@@ -45,6 +45,8 @@ summary: >-
   the person did not choose (boyd 2008, after Meyrowitz 1985).
 illustrated_by:
 - CASE-tmpdat4f
+uses:
+- TERM-045
 ---
 <!-- inactive-ok-file: CLAIM-tmpr8n6u — Proposed; the diachronic partner of this claim, open -->
 
@@ -81,8 +83,8 @@ maintain it.
   into trouble when electronic media collapsed those social groups"
   ([LIT-tmpviq1w](../literature.d/LIT-tmpviq1w.md), pp. 36–37; [CASE-tmpdat4f](../cases.d/CASE-tmpdat4f.md)).
 
-So a self in this sense is a global section relative to a cover the
-person partly controls. Integrity of presentation can be achieved two
+So a presented self ([TERM-045](../terms.d/TERM-045.md)<!-- ref::uses: TERM-045 -->) is a global section relative
+to a cover the person partly controls. Integrity of presentation can be achieved two
 ways: by sections that agree where contexts meet, or by keeping contexts
 from meeting. The second is not deception. boyd makes the point that
 distinct contexts are how people "properly locate their performances".
@@ -105,10 +107,10 @@ target the roles themselves.
 
 - **That role conflict is rare.** Overlaps are common, and for networked
   publics boyd describes them as constant.
-- **Which sense of "self" this is.** The manuscript's "identity" is the
-  self as presented across audiences. That is Goffman's sense, and none of
-  the six senses in [TERM-045](../terms.d/TERM-045.md) is quite it. The integrated sense is the
-  nearest. The record does not yet have a term for it.
+- **Anything about the other senses of "self".** The manuscript's
+  "identity" is the presented self, sense 7 of [TERM-045](../terms.d/TERM-045.md). A person whose
+  presentations collide is not thereby less a subject, less integrated or
+  less the same over time.
 - **That contradiction does no harm unseen.** A person may feel the
   contradiction while the audiences are apart, by remembering one audience
   in front of the other. That is an overlap made by memory, as for the
