@@ -14,6 +14,8 @@ summary: >-
   continuous reorganization, which decides what [CLAIM-163](../claims.d/CLAIM-163.md)'s transition
   test should look for. [LIT-638](../literature.d/LIT-638.md) and [LIT-080](../literature.d/LIT-080.md) are rivals on it. Filed as
   advice.
+answered_by:
+- CLAIM-tmp6vyef
 ---
 <!-- inactive-ok-file: CLAIM-163 THEORY-088 — Proposed; the objection whose test this question bears on and the reading it rests on, open -->
 

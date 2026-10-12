@@ -15,6 +15,8 @@ summary: >-
   the owner on 2026-10-12: whether integration of an agent's interests is
   synchronization or coordination of differentiated parts. It refines
   [QUESTION-034](QUESTION-034.md) and bears on [CLAIM-162](../claims.d/CLAIM-162.md) and [CLAIM-163](../claims.d/CLAIM-163.md). Filed as advice.
+answered_by:
+- CLAIM-tmp5vc3p
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-163 THEORY-088 — Proposed; the claims and reading this question is set beside, open -->
 

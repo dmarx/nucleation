@@ -20,6 +20,8 @@ summary: >-
   individual-scale case (Sections 1, 3.5).
 variants:
 - CASE-051
+illustrates:
+- CLAIM-tmp5vc3p
 ---
 <!-- inactive-ok-file: ARG-005 CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
