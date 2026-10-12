@@ -28,6 +28,8 @@ summary: >-
   exchange. List and Pettit's result that a rational group cannot judge
   proposition by proposition from its members' judgments ([THEORY-127](../theory.d/THEORY-127.md)) is
   its formal anchor; the fictional cases illustrate it.
+supports:
+- CLAIM-tmppevte
 ---
 <!-- inactive-ok-file: CLAIM-177 THEORY-140 THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->

@@ -28,3 +28,12 @@ own merely because it is higher-order — applies equally to a higher-order
 organization. The authenticity account ([CLAIM-016](../claims.d/CLAIM-016.md)) tried to meet it
 and the audit judged that its "ownership criteria remain insufficiently
 defended". Future work, Section 7.9.
+
+## Note of 2026-10-12: material now held
+
+The synthesis review of 2026-10-11 found four readings that bear on this
+question: [THEORY-054](../theory.d/THEORY-054.md) and [THEORY-047](../theory.d/THEORY-047.md) (integration and acquisition history,
+from self-determination theory), [THEORY-029](../theory.d/THEORY-029.md) (the regress against
+hierarchical accounts) and [THEORY-040](../theory.d/THEORY-040.md) (manipulation forces a historical
+condition). They are added as grounds to [CLAIM-016](../claims.d/CLAIM-016.md). The question stays
+Deferred, as its line is.

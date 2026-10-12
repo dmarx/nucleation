@@ -25,6 +25,7 @@ answers:
 rests_on:
 - CLAIM-177
 grounds:
+- THEORY-136
 - THEORY-134
 - LIT-919
 - LIT-920
@@ -42,6 +43,7 @@ supports:
 - CLAIM-tmptfikp
 objected_by:
 - CLAIM-184
+- CLAIM-tmpkld6a
 ---
 <!-- inactive-ok-file: CLAIM-tmptfikp — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
@@ -139,3 +141,14 @@ the same split.
 persist, and neither does anchoring. A claim can persist, perfectly
 anchored, and be wrong. [CLAIM-tmptfikp](CLAIM-tmptfikp.md) files the constraint-set point
 these notes left open.
+
+## Note of 2026-10-12: what would show a threshold
+
+[THEORY-136](../theory.d/THEORY-136.md) (Scheffer and Carpenter) is added as a ground, as a test. A
+persistent or abrupt change is not evidence of a threshold. Only
+hysteresis, dependence on the initial state, or "a lasting shift after a
+temporary disturbance, with slow return excluded" comes close. For this
+claim, the test is whether a single act of anchoring, such as filing a code
+in one session, produces a lasting change in how later sessions treat the
+idea (fewer re-derivations, more pointing), beyond what a slow return to
+old habits would explain.

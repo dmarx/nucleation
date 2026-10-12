@@ -19,6 +19,8 @@ summary: >-
   relative to the probes, so how rich must the probes be? The discrete
   case has exact answers, and so does a metric-enriched one. The
   stochastic, decision-relative version is open.
+answered_by:
+- CLAIM-tmppqir6
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-149 THEORY-008 THEORY-019 THEORY-175 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-077 CLAIM-050 — Proposed; open, and cited as open: the claim is under test, not settled -->

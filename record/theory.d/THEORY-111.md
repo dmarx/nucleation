@@ -43,6 +43,8 @@ summary: >-
   linear along the path. Measured on pairs at three interpolation points,
   image classification only. The step to many-model averages such as
   soups and SWA is not measured.
+supports:
+- CLAIM-tmp82c4f
 ---
 <!-- inactive-ok-file: THEORY-116 THEORY-105 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
 

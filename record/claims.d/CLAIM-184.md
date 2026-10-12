@@ -16,9 +16,13 @@ works:
 objects_to:
 - CLAIM-185
 grounds:
+- THEORY-136
+- THEORY-178
 - THEORY-132
 - LIT-917
 - LIT-920
+uses:
+- TERM-020
 summary: >-
   The cost side of the owner's reframing ([CLAIM-185](CLAIM-185.md)), proposed by
   the assistant on 2026-10-11 and filed at the owner's request. If
@@ -74,3 +78,17 @@ its domain. That is a stronger form of this counter. A record that enforces
 identity strictly maximizes constancy, and may reduce the argument's
 capacity to reframe. [CLAIM-tmptfikp](CLAIM-tmptfikp.md) draws the same point from the
 constraint-set side.
+
+## Note of 2026-10-12: the bar for lock-in
+
+The will-organization line's [TERM-020](../terms.d/TERM-020.md) (protective lock-in) sets the bar
+this counter has to clear: a regime that "generates the conditions that
+justify its own continuation and reduces the capacity to leave it". That
+needs a loop, and [TERM-020](../terms.d/TERM-020.md) excludes inertia and habit. Path dependence
+alone, Ostwald's ubiquitous seeds, does not qualify. [THEORY-178](../theory.d/THEORY-178.md) adds that,
+in the one regulatory network studied, a lasting state needs a positive
+circuit. [THEORY-136](../theory.d/THEORY-136.md) says what would show one: hysteresis or a lasting shift
+after a temporary push. This counter has not shown a loop. A candidate
+would be that forcing moves into the grammar miscodes them, the miscodes
+produce correction entries, and those entries feed more filing. That is
+unshown.

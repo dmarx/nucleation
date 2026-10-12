@@ -37,6 +37,8 @@ summary: >-
   are wide enough to hold redundant features. With full merging on
   ImageNet-1k, ZipIt! is no better than permutation (8.6%). No same-task
   control separates the effect of task difference from that of depth.
+supports:
+- CLAIM-tmp82c4f
 ---
 <!-- inactive-ok-file: THEORY-116 THEORY-107 THEORY-112 — Proposed; accounts named in Connections, nothing here rests on them -->
 
