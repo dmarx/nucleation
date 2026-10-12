@@ -17,6 +17,7 @@ rests_on:
 - CLAIM-011
 grounds:
 - LIT-045
+- CASE-tmpq8ynx
 summary: >-
   The exchange drew the parallel itself, four times (A187 §6, A191 §10,
   A203 §19, A218 Ch2.10). What it did not draw is the cost. The standard
@@ -25,6 +26,8 @@ summary: >-
   The objection presses on the owner's individuation thesis only if its
   relations are read extensionally, and it does not touch the "partly"
   of relational constitution.
+supports:
+- CLAIM-tmpcq79k
 ---
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition the exchange offered as the remedy, open -->
@@ -102,3 +105,23 @@ non-structural input. So the record now holds a defender of the position who
 accepts the remedy in that form. Whether "concrete, determinate" relations
 count as non-structural input is the point at issue between them and this
 claim. Their paper does not discuss it in those terms.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmpq8ynx](../cases.d/CASE-tmpq8ynx.md) gives this claim's point a documented instance at the level of
+acts. In Labov's sounding data Boot's reply is related to David's taunt "in
+exactly the way that one sound is related to another": each answers the
+last in kind, targets the other's father, before the group. Yet both are
+personal insults, denied and objected to. On those exchange relations alone
+the turns correspond and the acts differ. Labov's rule adds one relation,
+whether the untruth of the remark is shared knowledge before the audience,
+and under it structure and act line up again.
+
+What it supplies: a case where bare exchange structure does not fix the act
+and an independently specified relation does, which is the remedy this
+claim says concedes non-structural input. The specified relation is
+epistemic, not extensional, which fits the way out recorded in the first
+point of "What it does not say". What it does not supply: anything about
+which version of [CLAIM-136](CLAIM-136.md) the owner should hold, or a formal
+isomorphism. Labov states the correspondence in words, for turns in one
+session, not as a mapping between two systems.

@@ -25,6 +25,10 @@ summary: >-
   cross-corpus version. Proposed by the assistant; not run.
 supports:
 - CLAIM-129
+- CLAIM-tmp3lv11
+- CLAIM-tmpc3xwx
+- CLAIM-tmpflbi3
+- CLAIM-tmpgetbr
 ---
 <!-- inactive-ok-file: CLAIM-129 CLAIM-135 CLAIM-127 CLAIM-130 CLAIM-077 THEORY-175 — Proposed; open, and cited as claims and a reading the case bears on, not as settled -->
 
@@ -108,3 +112,11 @@ design can show how interpretation responds to information about the
 situation, and not whether the act itself changed. Nor does a clean result
 bear on the ontology. A218: "That doesn't prove OSR, but it establishes the
 kind of empirical result an OSR-inspired theory should explain."
+
+## Note of 2026-10-10: the replies
+
+After [CLAIM-tmp3lv11](../claims.d/CLAIM-tmp3lv11.md): the constructed critical items show possibility, which
+is what [CLAIM-129](../claims.d/CLAIM-129.md) claims; whether judges recover the act from naturally
+occurring text needs the naturally occurring items [CLAIM-129](../claims.d/CLAIM-129.md) v2 adds. A
+report of the models on items whose lexical cue is neutral should accompany
+the critical items.

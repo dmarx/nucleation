@@ -28,8 +28,12 @@ summary: >-
   maturing drops things legitimately. A fidelity profile would score
   legitimate dissolution as distortion. What the record secures is that
   change is announced and located: traceability.
+complements:
+- CLAIM-tmptwfru
 ---
+<!-- inactive-ok-file: CLAIM-tmptwfru — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-034 CLAIM-081 CLAIM-178 CLAIM-191 — Proposed; open, and cited as open: under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmpz239h — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-189: Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
 
@@ -64,3 +68,19 @@ A fidelity profile computed over the record's supersession chains that
 separates announced from unannounced change, so that fidelity, suitably
 defined, does measure what the record secures. Then the two claims would
 not be in tension.
+
+## Note of 2026-10-12: a disclaimer of the normative reading, left to the owner
+
+PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-tmpvh0gc](CLAIM-tmpvh0gc.md), Active, which says "The account does not say
+which distinctions a translation ought to keep", and that what ought to be
+kept "is set by the purpose the translation serves". [CLAIM-tmpz239h](CLAIM-tmpz239h.md),
+Proposed, restates the decision term so that it "counts no improvement as
+loss". This claim says a fidelity profile "would prefer an argument that
+never changed", which reads the transport line's measure as a norm.
+[CLAIM-tmpvh0gc](CLAIM-tmpvh0gc.md) disclaims that norm for the account. Whether this claim's
+point survives the disclaimer, or narrows to the measure, is left to the
+owner.
+
+## Note of 2026-10-12: the interlocutor's reading, as advice
+
+The interlocutor's reading of 2026-10-12 calls the tension with [CLAIM-tmpvh0gc](CLAIM-tmpvh0gc.md) "substantially less contradictory than the PR's framing suggests", and recommends to "Preserve CLAIM-189 as a counter to naïve propositional fidelity, but revise its broader objection to distinguish semantic preservation from preservation of justificatory and provenance relations." [CLAIM-tmptwfru](CLAIM-tmptwfru.md) files its candidate fidelity object, the argument's accountability structure. Recorded as advice; whether to narrow this claim is the owner's.

@@ -29,11 +29,14 @@ summary: >-
   Strauss. [CLAIM-072](CLAIM-072.md) corrects how it states Saussure.
 objected_by:
 - CLAIM-072
+- CLAIM-tmpwevyr
 supports:
 - CLAIM-115
 - CLAIM-036
 illustrated_by:
 - CASE-019
+complements:
+- CLAIM-tmpon3g9
 ---
 <!-- inactive-ok-file: THEORY-185 — Proposed; cited as a reading that bears on this claim, not as settled -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->

@@ -21,6 +21,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-049 CLAIM-074 CLAIM-182 THEORY-169 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-767 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
+<!-- inactive-ok-file: CLAIM-tmp0jq5k CLAIM-tmpyeik3 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-020: Can improving the interpreter substitute for information transmitted in the utterance, and at what rate–distortion trade-off?
 
@@ -70,3 +71,15 @@ says; none has yet been assessed as an answer, and none is linked by
   preserving selection, ICL against TTT
 - [CLAIM-182](../claims.d/CLAIM-182.md): Storage is not anchoring, addressability is: a structure that
   is kept but cannot be pointed at part by…
+
+## Note of 2026-10-12: a ceiling on what a better interpreter can gain
+
+PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-tmp0jq5k](../claims.d/CLAIM-tmp0jq5k.md), a proposal, which separates what a rendering
+makes possible, the best risk over all decision rules, from what a
+receiver can use, the best risk over the rules it can apply. On that
+account no receiver does better with a garbling than an ideal receiver
+does with the source. That bears on how far improving the interpreter can
+stand in for transmitted information. Its worked example has no side
+information at the decoder, which is A86's Wyner–Ziv case. [CLAIM-tmpyeik3](../claims.d/CLAIM-tmpyeik3.md)
+and [CLAIM-tmpkf8pe](../claims.d/CLAIM-tmpkf8pe.md), on side information and deficiency, bear here as on
+[QUESTION-016](QUESTION-016.md).

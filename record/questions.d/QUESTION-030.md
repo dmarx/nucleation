@@ -20,6 +20,8 @@ summary: >-
   that causal tests do not settle the second.
 answered_by:
 - CLAIM-130
+refined_by:
+- QUESTION-tmpcs4qg
 ---
 <!-- inactive-ok-file: LIT-485 — Deferred; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; a partial answer, cited as open -->

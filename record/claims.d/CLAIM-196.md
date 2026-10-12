@@ -48,6 +48,7 @@ summary: >-
   the person did not choose (boyd 2008, after Meyrowitz 1985).
 illustrated_by:
 - CASE-052
+- CASE-tmpgdy8a
 uses:
 - TERM-045
 ---
@@ -118,3 +119,15 @@ target the roles themselves.
   contradiction while the audiences are apart, by remembering one audience
   in front of the other. That is an overlap made by memory, as for the
   film joke in [CASE-048](../cases.d/CASE-048.md), and the defeat condition is written to allow it.
+
+## Note of 2026-10-12: documented cases of context collapse
+
+[CASE-tmpgdy8a](../cases.d/CASE-tmpgdy8a.md), filed in PR [#121](https://github.com/dmarx/nucleation/issues/121), now illustrates this claim. A photograph
+posted for friends who knew a running joke reached strangers four weeks
+later, who read it as contempt for the war dead, and Stone lost her job.
+It is a documented collapse of the kind this claim describes, where
+[CASE-052](../cases.d/CASE-052.md) is stipulated. [CASE-tmpa82q4](../cases.d/CASE-tmpa82q4.md) is a neighbouring documented case:
+one broadcast phrase heard as faith by an in-group and as boilerplate by
+others, with the split measured. It shows a speaker addressing two
+audiences at once in one wording, not a conflict between roles, so it is
+not linked here.

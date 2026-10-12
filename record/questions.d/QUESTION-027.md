@@ -21,11 +21,15 @@ summary: >-
   filed narrowed: it has content only for decisions about unobserved
   probes, interventions and transported targets. As A203 states it, it is
   not well posed.
+answered_by:
+- CLAIM-tmp7gigk
+
 refined_by:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: CLAIM-137 THEORY-112 THEORY-116 THEORY-191 THEORY-192 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-125 CLAIM-092 THEORY-175 CLAIM-135 — Proposed; open, and cited as the claims and reading this question is set beside, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmp7gigk — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-027: Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?
 
@@ -163,3 +167,13 @@ says; none has yet been assessed as an answer, and none is linked by
   the linear barrier between independently…
 - [THEORY-116](../theory.d/THEORY-116.md): A linear barrier between two minima that survives the
   removal of symmetries marks a difference in the…
+
+## Note of 2026-10-12: an answer and an assessment filed on 2026-10-10
+
+The note of 2026-10-11 says none of the listed entries is linked by
+`answers`. That holds of the listed entries only. PR [#121](https://github.com/dmarx/nucleation/issues/121) filed
+[CLAIM-tmp7gigk](../claims.d/CLAIM-tmp7gigk.md) as a proposed answer to this question, and the front matter
+carries it as `answered_by`. [CLAIM-tmpt76qw](../claims.d/CLAIM-tmpt76qw.md), granted and Active, assesses
+the character route of [CLAIM-137](../claims.d/CLAIM-137.md), [TERM-041](../terms.d/TERM-041.md) and [CLAIM-132](../claims.d/CLAIM-132.md): "the same
+character" is relative to a chosen correspondence. [CLAIM-tmpdwfva](../claims.d/CLAIM-tmpdwfva.md) cites
+[CASE-042](../cases.d/CASE-042.md) as a ground.

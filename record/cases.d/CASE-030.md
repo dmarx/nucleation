@@ -11,6 +11,8 @@ tags:
 - linguistics
 date: '2026-10-08'
 line: pragmatic-transport
+illustrates:
+- CLAIM-084
 variant_of:
 - CASE-015
 summary: >-
@@ -20,7 +22,7 @@ summary: >-
   trajectories; the numbers are exact properties of those texts.
 supports:
 - CLAIM-028
-- CLAIM-084
+- CLAIM-tmpfe37n
 variants:
 - CASE-032
 ---

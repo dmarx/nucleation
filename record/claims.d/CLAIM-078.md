@@ -4,13 +4,25 @@ status: Proposed
 formerly:
 - CLAIM-tmplxqew
 title: 'The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmp6zbr9: with true constants
+    the composition bound cannot be departed from, so version 1's
+    second disjunct, 'or their behaviour along reconstruction chains
+    departs from the composition bounds', could not be met. The first
+    disjunct, A110's comparison with text similarity, is unchanged;
+    CLAIM-tmp351uu carries the stronger rival.
 role: thesis
 defeated_if: >-
   Structural and decision-theoretic measures add no prediction of
-  communicative-identity changes beyond text similarity, or their
-  behaviour along reconstruction chains departs from the composition
-  bounds.
+  communicative-identity changes beyond text similarity, or end-to-end
+  drift predicted from step kernels estimated, in a metric fixed in
+  advance, from several independent retellers per generation on held-out
+  and perturbed inputs falls outside its stated prediction interval on
+  chains not used in the estimation.
 tags:
 - philosophy-of-science
 - philosophy-of-language
@@ -23,8 +35,15 @@ summary: >-
   to be shown, recovered. The manuscript keeps half (Case I: incremental
   prediction of held-out judgements) and drops the disclaimer and the
   compositional half.
+objected_by:
+- CLAIM-tmp6zbr9
+- CLAIM-tmphn6za
+- CLAIM-tmpqfgjl
+complements:
+- CLAIM-tmp351uu
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-059 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-tmp351uu — Proposed; the line's distinctive test, cited as carrying the stronger rival, open -->
 
 # CLAIM-078: The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws
 

@@ -4,12 +4,24 @@ status: Proposed
 formerly:
 - CLAIM-tmpa4al1
 title: 'A translation can broaden the region of possible readings along one dimension while narrowing it along another, so loss is not one-dimensional'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmplkh2i: version 1 was a
+    universal negative ('never gain'), which no study establishes; the
+    restatement is a claim of prevalence. Version 1's condition read:
+    "Renderings that lose distinctions along one dimension never gain
+    specificity along another, so that a single scalar of preserved
+    information orders them as judges do."
 role: thesis
 defeated_if: >-
-  Renderings that lose distinctions along one dimension never gain
-  specificity along another, so that a single scalar of preserved
-  information orders them as judges do.
+  In a sample of published translations drawn by a rule stated in
+  advance, renderings that lose distinctions on one dimension gain
+  specificity on another, as independent judges rate them, at a rate no
+  greater than one fixed in advance, so that a single scalar of
+  preserved information orders them as judges do.
 tags:
 - philosophy-of-language
 - linguistics
@@ -26,6 +38,9 @@ summary: >-
   sections, without critique.
 complements:
 - CLAIM-128
+- CLAIM-tmp9negs
+objected_by:
+- CLAIM-tmplkh2i
 ---
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->

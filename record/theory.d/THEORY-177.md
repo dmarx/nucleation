@@ -30,6 +30,7 @@ summary: >-
   particular causal model is identified.
 supports:
 - CLAIM-125
+- CLAIM-tmprwo1c
 ---
 
 <!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as the claim this finding bears on -->

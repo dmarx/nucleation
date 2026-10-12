@@ -29,10 +29,15 @@ summary: >-
   the stable conventional endpoint and one stance-drift example, but not
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
+objected_by:
+- CLAIM-tmpi6n8k
+illustrated_by:
+- CASE-tmpo33kl
 ---
 <!-- inactive-ok-file: THEORY-164 THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-056 CLAIM-090 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-173 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-068: Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission
 
@@ -106,6 +111,23 @@ model fitted to reproduce text well on average is least accurate on rare
 material, so it "might" homogenize culture. The paper states this but does
 not test it, so it is weak support.
 
+## Note of 2026-10-10: the replies
+
+[CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md) is conceded: no reading the record holds measures a stance or
+footing along a chain, so the stance extension has no study under it. The
+defeat condition is unchanged. Which transmission-chain studies of social
+and affective content to read is left to the owner.
+
 ## Note of 2026-10-12: edge for a prose citation
 
 [THEORY-173](../theory.d/THEORY-173.md) was already cited in this claim's body as weak support. It is now a typed ground.
+
+## Note of 2026-10-12: the scope of a ground added on 2026-10-12
+
+[THEORY-173](../theory.d/THEORY-173.md) became a typed ground of this claim on 2026-10-12, as the note
+above says. It also grounds [CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md), the granted objection to this
+claim, which calls it "a mechanism stated and not tested". The mechanism
+it gives is contraction: homogenization when a large model takes part in
+transmission. It bears on this claim's attraction toward conventional
+regions, not on the extension to footing, which [CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md) says "has
+no study under it".

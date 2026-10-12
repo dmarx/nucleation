@@ -35,6 +35,14 @@ supports:
 - CLAIM-056
 - CLAIM-101
 - CLAIM-128
+- CLAIM-tmpqfgjl
+- CLAIM-tmps7va1
+objected_by:
+- CLAIM-tmpbi9eb
+complements:
+- CLAIM-tmp7qr7y
+- CLAIM-tmpon3g9
+- CLAIM-tmpz239h
 ---
 <!-- ref::uses-file: TERM-015 — stated in "fidelity, as graded, directed transport distortion"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

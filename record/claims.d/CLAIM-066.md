@@ -24,6 +24,8 @@ summary: >-
   From the readings of Griffiths and Kalish ([NOTE-599](../notes.d/NOTE-599.md)) and Kirby,
   Cornish and Smith ([NOTE-596](../notes.d/NOTE-596.md), Skimmed). The manuscript cites them as
   showing one thing; they show different things.
+supports:
+- CLAIM-tmpi6n8k
 ---
 
 # CLAIM-066: Kirby, Cornish and Smith show structure emerging under transmission with an experimenter's filter, not filtering by measured inductive biases, and Griffiths and Kalish's convergence to the prior holds only for sampling learners

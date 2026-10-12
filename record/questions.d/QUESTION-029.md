@@ -23,6 +23,8 @@ summary: >-
   "objects" and never argues the general version.
 answered_by:
 - CLAIM-139
+- CLAIM-tmp3wo5j
+- CLAIM-tmpa9usi
 - CLAIM-160
 refined_by:
 - QUESTION-036

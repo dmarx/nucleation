@@ -27,6 +27,7 @@ rests_on:
 grounds:
 - THEORY-155
 - CASE-015
+- CASE-tmpo33kl
 summary: >-
   The first claim joining the nucleating-argument and pragmatic-transport
   lines, which shared no edges. A sequence of memoryless sessions
@@ -41,6 +42,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-002 CLAIM-056 CLAIM-081 CLAIM-090 CLAIM-115 CLAIM-177 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 THEORY-155 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
+<!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-191: Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission
 
@@ -90,3 +92,28 @@ storage does not anchor and addressability does ([CLAIM-182](CLAIM-182.md)).
   not; see the counter, [CLAIM-189](CLAIM-189.md).
 - The direction prediction is untested. [CLAIM-177](CLAIM-177.md)'s evidence was coded by
   readers from the same assistant family ([CLAIM-085](CLAIM-085.md)).
+
+## Note of 2026-10-12: a measured case for the direction of drift
+
+[CASE-tmpo33kl](../cases.d/CASE-tmpo33kl.md), filed in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now a ground of this claim. In two
+serial-reproduction studies of risk messages, the transmitters' measured
+risk perception predicts the direction in which the evaluative signal
+changes, and re-exposure to the balanced source did not undo the drift.
+That is a measured instance of drift toward the transmitters' bias, and of
+a return to the source failing to pull a chain back. Its limit is
+[CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md)'s: the record's chain evidence covers evaluative stance,
+not footing, and not the restatement of an argument. The chains are of
+human retellers, not memoryless sessions, and in one study the prior was
+measured after the experiment.
+
+## Note of 2026-10-12: the regimes this claim leans on
+
+The third point leans on [CLAIM-056](CLAIM-056.md)'s regimes. [CLAIM-056](CLAIM-056.md) carries an Active
+objection, [CLAIM-tmp6zbr9](CLAIM-tmp6zbr9.md), which says a sensitivity needs many retellings
+of each of several inputs at every generation, "where a chain gives one".
+The record conceded it for [CLAIM-059](CLAIM-059.md) and [CLAIM-078](CLAIM-078.md) and left [CLAIM-056](CLAIM-056.md)'s
+condition unchanged. [CLAIM-059](CLAIM-059.md) version 2 now asks for "several independent
+retellers per generation", in a metric other than total variation. A
+sequence of memoryless sessions gives one restatement per generation, so
+testing the third point in this claim's own setting would need that
+design.

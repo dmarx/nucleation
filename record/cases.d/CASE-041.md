@@ -26,6 +26,8 @@ summary: >-
   independent feature space and with human judges.
 supports:
 - CLAIM-149
+variants:
+- CASE-tmpt860v
 ---
 <!-- inactive-ok-file: CLAIM-149 CLAIM-142 CLAIM-005 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

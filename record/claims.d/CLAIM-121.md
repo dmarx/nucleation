@@ -31,6 +31,7 @@ summary: >-
 supports:
 - CLAIM-100
 - CLAIM-125
+- CLAIM-tmp6xxbf
 ---
 <!-- ref::uses-file: TERM-008 — stated in "transport"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited as the reading that generalises this proposition, not as settled -->

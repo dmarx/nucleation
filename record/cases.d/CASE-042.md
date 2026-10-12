@@ -26,6 +26,8 @@ summary: >-
 supports:
 - CLAIM-135
 - CLAIM-146
+- CLAIM-tmpdwfva
+- CLAIM-tmpflbi3
 ---
 <!-- inactive-ok-file: CLAIM-135 CLAIM-127 CLAIM-130 — Proposed; open, and cited as claims this case bears on, not as settled -->
 <!-- inactive-ok-file: LIT-677 THEORY-182 THEORY-156 THEORY-176 — Proposed; cited as readings the record already held that bear on the case -->

@@ -37,6 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading is its source and bears on it without settling its promote_when -->
 <!-- inactive-ok-file: THEORY-166 — Proposed; this reading is one of its sources -->
+<!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the narrowing that rests on this reading, cited as open -->
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
 
 # NOTE-235: Dzhafarov, Zhang & Kujala, contextuality in behaviour
@@ -186,3 +187,25 @@ physics is reviewed in [LIT-263](../literature.d/LIT-263.md).
   reported to find one; not held or read here.
 - Where does the Rose–Jackson row of S1 come from? It matches neither
   the §3 diagram nor the published proportions.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmp0st1e](../cases.d/CASE-tmp0st1e.md), found by a search the owner asked for, reads this paper's
+null beside the later tests of contextuality on elicited human judgements.
+It supplies a scope for the "Key insight" sentence "Behavioural data have
+plenty of the first and, so far, none of the second". That "none" is out of
+date for behavioural data in general: Cervantes and Dzhafarov (2018,
+doi:10.1037/dec0000095) report CbD-contextuality in an instructed choice
+task, with a 99.99% bootstrap interval excluding zero, and Basieva et al.
+(2019) in five of six more, though Yearsley and Halliwell (2019,
+arXiv:1905.12570) dispute that direct influences are excluded. This
+paper's open question about Cervantes and Dzhafarov is answered: yes, as
+reported, and disputed. The sentence should be read as "none in pragmatic
+or meaning data adequately tested". On that scope it still holds: Wang's
+thesis (2024) finds no Bell-type contextual model in human meaning
+judgements, and Lo, Sadrzadeh and Mansfield's Winograd schemas (2023), the
+one pragmatic test, violate by 0.192 ± 0.176. The case does not change this
+reading's results, which concern the paper's own data sets, and it does
+not show that pragmatic judgements are noncontextual: no adequately
+powered pragmatic test has been run. [CLAIM-tmp1rlu5](../claims.d/CLAIM-tmp1rlu5.md)'s concession rests on
+this sentence and survives the rescoping.

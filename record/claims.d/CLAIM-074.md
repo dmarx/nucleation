@@ -23,6 +23,9 @@ summary: >-
   consequence for fidelity. Apparently dropped by inadvertence.
 supports:
 - CLAIM-049
+- CLAIM-tmpdwfva
+- CLAIM-tmpqfgjl
+- CLAIM-tmpyeik3
 ---
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

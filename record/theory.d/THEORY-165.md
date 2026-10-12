@@ -28,6 +28,7 @@ summary: >-
   applies to signalling data, where CF is undefined.
 supports:
 - CLAIM-105
+- CLAIM-tmpji66i
 ---
 
 # THEORY-165: Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model's probability table

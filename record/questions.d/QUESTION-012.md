@@ -57,3 +57,15 @@ says; none has yet been assessed as an answer, and none is linked by
   actions: they form a category or semigroup of…
 - [CLAIM-178](../claims.d/CLAIM-178.md): A manuscript should be a view over the argument and not its
   only copy: a draft written straight from an…
+
+## Note of 2026-10-12: two listed titles were scoped on 2026-10-10
+
+PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 scoped two of the entries listed above.
+[CLAIM-tmpz7og0](../claims.d/CLAIM-tmpz7og0.md), granted, shows that [CLAIM-098](../claims.d/CLAIM-098.md)'s "category or semigroup"
+holds for approximate transports only if the distortion obeys a triangle
+inequality and later kernels are nonexpansive. [CLAIM-tmprwo1c](../claims.d/CLAIM-tmprwo1c.md), granted,
+shows that under Contextuality-by-Default a deterministic recoding can
+create or remove contextuality once the source signals. It notes that
+[THEORY-174](../theory.d/THEORY-174.md), whose title says simulations "never create contextuality", is
+about no-signalling models. Both bear on what a chain through an
+intermediate image can do to observational structure.

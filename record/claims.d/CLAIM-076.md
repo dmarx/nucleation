@@ -21,6 +21,9 @@ summary: >-
   A110 §21, recovered. The manuscript's Case III keeps the protocol and
   drops the reason for it; C7 Appendix D keeps a related control
   (captioners blind to the source).
+supports:
+- CLAIM-tmpwvljf
+- CLAIM-tmpx3m7e
 ---
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

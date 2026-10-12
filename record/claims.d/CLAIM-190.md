@@ -27,7 +27,10 @@ summary: >-
   turns per anchor are counted in the record's own grammar, so by
   [CLAIM-149](CLAIM-149.md) they cannot also certify that what they encourage reduced
   drift. Proposed from the synthesis review.
+grounds:
+- CASE-tmpt860v
 ---
+<!-- inactive-ok-file: CLAIM-149 CLAIM-tmp6r6t6 CLAIM-tmpawn12 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-190: The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
 
@@ -59,3 +62,15 @@ Inbound-reference counts and turns per anchor agree with drift judged
 blind, by raters using the exchange's own standards, on stretches held out
 from the grammar's influence: for example, re-derivations and unannounced
 changes of thesis coded before the record existed.
+
+## Note of 2026-10-12: a documented case, and an open dispute about raters
+
+[CASE-tmpt860v](../cases.d/CASE-tmpt860v.md), filed in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now a ground of this claim.
+Translations picked by a neural metric are rated better by that metric and
+its neighbours, and human raters find them no better. It is [CLAIM-149](CLAIM-149.md)'s
+point made by selection rather than training. Its limit: it is machine
+translation scored for accuracy, not an argument scored for drift. This
+claim's remedy, drift "judged blind, by raters using the exchange's own
+standards", treats raters as the criterion. That is [CLAIM-tmpawn12](CLAIM-tmpawn12.md)'s
+position, [CLAIM-tmp6r6t6](CLAIM-tmp6r6t6.md) holds that human judgements are one probe family
+among others, and the dispute is open.

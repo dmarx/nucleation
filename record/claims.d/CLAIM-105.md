@@ -4,13 +4,32 @@ status: Proposed
 formerly:
 - CLAIM-tmpukbg3
 title: 'Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-10'
+  note: >-
+    Restated on 2026-10-10 after CLAIM-tmplkh2i, CLAIM-tmpbvk4j and
+    CLAIM-tmprwo1c. Version 1's 'always carries' could not be
+    established by a study, and read of exact preservation it holds by
+    definition, since global compatibility is a function of the local
+    tables. The restatement concerns steps that keep most contexts, and
+    allows for signalling and for coding (CLAIM-tmprwo1c).
+    CLAIM-tmpbvk4j is conceded; CLAIM-tmp1rlu5 states the form the data
+    leave open. The manuscript's text quoted below is unchanged. Version
+    1's condition read: "Across reconstruction chains, preservation of
+    the context-wise judgement distributions always carries preservation
+    of their global compatibility (overlap consistency, global
+    extension, contextual fraction), so that the global structure adds
+    nothing to predict."
 role: thesis
 defeated_if: >-
-  Across reconstruction chains, preservation of the context-wise
-  judgement distributions always carries preservation of their global
-  compatibility (overlap consistency, global extension, contextual
-  fraction), so that the global structure adds nothing to predict.
+  In documented reconstruction chains, with signalling accounted for and
+  the coding of outcomes fixed in advance, steps that keep the judgement
+  distributions of most contexts within sampling error change neither
+  global extendability nor contextuality in the Contextuality-by-Default
+  sense beyond sampling error, except at a rate no greater than one
+  fixed in advance.
 tags:
 - contextuality
 - philosophy-of-language
@@ -33,7 +52,14 @@ summary: >-
   (at C6, per the chunk-5 reader).
 illustrated_by:
 - CASE-037
+objected_by:
+- CLAIM-tmpbvk4j
+- CLAIM-tmpji66i
+- CLAIM-tmplkh2i
+complements:
+- CLAIM-tmp1rlu5
 ---
+<!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -109,3 +135,32 @@ is [CASE-037](../cases.d/CASE-037.md) with one context changed: two models that 
 three contexts and on every marginal, with contextual fraction 1 and 0. The
 headline thesis is still absent from v7 (A178), from the second
 crystallized argument (A203) and from the October outline (A218).
+
+## Note of 2026-10-10: a documented case
+
+[CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md), this headline's narrowing to a change of cover, now has a
+documented case, [CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md): Hafez's "Shirazi Turk", whose ungendered
+beloved four English translators render as a maid, as God and as a boy.
+It shows a rendering deciding what the source left open, on the question
+of who is addressed. It supplies nothing for this entry's own form, a
+change of global compatibility at small local distortion within a fixed
+scenario: it has no contextual data and no measured distortion, and its
+evidence is translators' and scholars', not readers' agreement.
+
+## Note of 2026-10-10: a documented case
+
+[CASE-tmp0st1e](../cases.d/CASE-tmp0st1e.md), found by a search the owner asked for, collects the
+documented tests of contextuality on elicited human judgements. It supplies
+the evidence that this headline's fixed-scenario form still lacks a case:
+no study of pragmatic or meaning judgements finds contextuality proper at an
+adequate sample size. [LIT-264](../literature.d/LIT-264.md) and Wang's thesis (2024) find none;
+Lo, Sadrzadeh and Mansfield's Winograd schemas (2023), the one test with
+pragmatic content, find a violation of about one standard deviation, with
+no-signalling forced by the response format. The positive results that are
+reliable, Cervantes and Dzhafarov's "Snow Queen" and its follow-up, have
+instructed matching as content, not pragmatics, and are disputed. It does
+not supply a contextual model for this entry, and it does not show that
+none exists: what it documents is that the adequate test has not been
+run. A powered rerun of Lo et al.'s design, under CbD, is what would
+decide the fixed-scenario form, and could be the contextuality arm of
+[CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md).
