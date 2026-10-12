@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from its Crossref record, not read. Registered at the owner''s request to fill a gap the record had no reading in (relational autonomy). No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-12:
+    Catriona Mackenzie and Natalie Stoljar (eds.), Oxford University Press,
+    New York, 2000. Crossref lists no editors and gives 2000-01-27, which is
+    the `published:` date. Unpaywall reports no open copy. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5)
+    for the author, the title and the DOI found nothing, and none of its
+    topics holds the subject.
+tags:
+- self-governance
+- ethics
+- social-ontology
+date: '2026-10-12'
+published: '2000-01-27'
+doi: '10.1093/oso/9780195123333.001.0001'
+first_author: 'Mackenzie'
+keywords:
+- 'relational autonomy'
+- 'feminist philosophy'
+- 'social embeddedness'
+- 'procedural autonomy'
+- 'oppressive socialization'
+implementations: []
+summary: >-
+  Mackenzie and Stoljar, eds. (2000). The collection that gave "relational
+  autonomy" its name: an umbrella for views on which persons are socially
+  embedded, and their identities and capacities for self-government are
+  formed by social relations. The essays take up the feminist charge that
+  standard conceptions of autonomy are individualistic, and ask whether
+  oppressive socialisation undermines autonomy. They divide over whether
+  an account should be procedural or must make substantive normative
+  demands. Held here for what it is standardly cited for; not read.
+---
+
+# LIT-tmpqa78t: Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self
+
+Mackenzie, C. and Stoljar, N. (eds.) (2000). *Relational Autonomy: Feminist Perspectives on Autonomy, Agency, and the Social Self*. Oxford University Press. DOI 10.1093/oso/9780195123333.001.0001.
+
+Not read. The summary is what the work is standardly cited for, and a reading should check it first. It was registered for the question on credibility in a project memory, filed in the same contribution.

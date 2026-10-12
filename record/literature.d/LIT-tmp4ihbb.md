@@ -1,0 +1,46 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from its Crossref record, not read. Registered at the owner''s request for the question on manipulation and the will, filed in the same contribution. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Technology, autonomy, and manipulation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Checked against Crossref on 2026-10-12: Daniel Susser,
+    Beate Roessler and Helen Nissenbaum, Internet Policy Review 8(2), 30
+    June 2019, which is the `published:` date. Unpaywall reports an open
+    copy at the publisher. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone at commit d8b5ba5) for the author, the title and the
+    identifier found nothing, and none of its topics holds the subject.
+tags:
+- ethics
+- agency
+- society-and-governance
+date: '2026-10-12'
+published: '2019-06-30'
+doi: '10.14763/2019.2.1410'
+first_author: 'Susser'
+keywords:
+- 'online manipulation'
+- 'autonomy'
+- 'hidden influence'
+- 'decision-making vulnerabilities'
+- 'digital technology'
+implementations: []
+summary: >-
+  Susser, Roessler and Nissenbaum (2019). Defines manipulation as hidden
+  influence: intentionally and covertly influencing someone's decision-
+  making by targeting and exploiting their vulnerabilities. It argues that
+  digital technologies, with their surveillance, adaptivity and
+  personalization, make such influence easier and harder to notice. Its
+  wrong is placed in the threat to autonomy, the capacity to make one's
+  own decisions for one's own reasons. Held here for what it is standardly
+  cited for; not read.
+---
+
+# LIT-tmp4ihbb: Technology, autonomy, and manipulation
+
+Susser, D., Roessler, B. and Nissenbaum, H. (2019). Technology, autonomy, and manipulation. *Internet Policy Review* 8(2). DOI 10.14763/2019.2.1410.
+
+Not read. The summary is what the work is standardly cited for, and a reading should check it first.

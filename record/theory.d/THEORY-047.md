@@ -42,6 +42,8 @@ summary: >-
   is a historical condition on autonomy of the kind [THEORY-040](THEORY-040.md) asks
   about, with empirical support, but it has not been tested against
   matched present endorsement or applied to manipulation.
+answers:
+- QUESTION-tmpdewd4
 supports:
 - CLAIM-016
 ---
