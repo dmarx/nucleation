@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from its publisher''s page, not read. Registered at the owner''s request for the question on manipulation and the will, filed in the same contribution. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'The Ethics of Manipulation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Checked against the entry's page on 2026-10-12: Robert
+    Noggle, Stanford Encyclopedia of Philosophy, first published 30 March
+    2018, which is the `published:` date, with a substantive revision on 31
+    March 2026. The entry is open. Not held in the Anthology of the SOTA: a
+    grep of its record/ (clone at commit d8b5ba5) for the author, the title
+    and the identifier found nothing, and none of its topics holds the
+    subject.
+tags:
+- ethics
+- agency
+- epistemology
+date: '2026-10-12'
+published: '2018-03-30'
+url: 'https://plato.stanford.edu/entries/ethics-manipulation/'
+first_author: 'Noggle'
+keywords:
+- 'manipulation'
+- 'bypassing reason'
+- 'trickery'
+- 'pressure'
+- 'autonomy'
+- 'persuasion'
+implementations: []
+summary: >-
+  Noggle, SEP (2018, revised 2026). A survey of what manipulation is and
+  what makes it wrong. It sets out accounts on which manipulation bypasses
+  or subverts rational capacities, accounts on which it is a kind of
+  trickery that leads someone away from ideal norms of belief, desire or
+  emotion, and accounts that treat it as pressure. It discusses how
+  manipulation differs from persuasion and from coercion, and whether its
+  wrong lies in harm, in disrespect for autonomy, or in the character of
+  the manipulator. Held here for what it is standardly cited for; not
+  read.
+---
+
+# LIT-tmpb2z9y: The Ethics of Manipulation
+
+Noggle, R. (2018; substantive revision 2026). The Ethics of Manipulation. *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ethics-manipulation/>.
+
+Not read. The summary is what the work is standardly cited for, and a reading should check it first.
