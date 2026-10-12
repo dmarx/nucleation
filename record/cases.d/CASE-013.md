@@ -21,7 +21,7 @@ summary: >-
 variants:
 - CASE-051
 illustrates:
-- CLAIM-tmp5vc3p
+- CLAIM-261
 ---
 <!-- inactive-ok-file: ARG-005 CLAIM-027 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

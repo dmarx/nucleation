@@ -1,12 +1,15 @@
 ---
+number: 261
 status: Proposed
+formerly:
+- CLAIM-tmp5vc3p
 title: "Synchronization of an agent's interests is desirable, but not necessary for acting as one: internal conflict shows a human agent acting while its interests stay divided"
 version: 1
 history:
 - version: 1
   date: '2026-10-12'
   note: >-
-    The owner's answer to QUESTION-tmpakyaw, given on 2026-10-12 in reply
+    The owner's answer to QUESTION-078, given on 2026-10-12 in reply
     to the questions filed from the interlocutor's reading of LIT-638.
     The assistant wrote it up and chose the edges.
 role: thesis
@@ -25,18 +28,18 @@ tags:
 date: '2026-10-12'
 line: will-organization
 answers:
-- QUESTION-tmpakyaw
+- QUESTION-078
 illustrated_by:
 - CASE-013
 - CASE-051
-- CASE-tmp048av
+- CASE-074
 complements:
 - CLAIM-162
 - CLAIM-198
 uses:
 - TERM-050
 summary: >-
-  The owner's answer to [QUESTION-tmpakyaw](../questions.d/QUESTION-tmpakyaw.md). A human agent who acts against
+  The owner's answer to [QUESTION-078](../questions.d/QUESTION-078.md). A human agent who acts against
   a standing temptation acts as one agent while its interests stay
   divided, so synchronization is not what acting as one consists in.
   Synchronization is still better when it is available: nothing has to
@@ -44,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-198 — Proposed; the record's open claims on synchronization and division, set beside this one -->
 
-# CLAIM-tmp5vc3p: Synchronization of an agent's interests is desirable, but not necessary for acting as one: internal conflict shows a human agent acting while its interests stay divided
+# CLAIM-261: Synchronization of an agent's interests is desirable, but not necessary for acting as one: internal conflict shows a human agent acting while its interests stay divided
 
 ## The claim
 
@@ -60,7 +63,7 @@ interest. The reluctant writer ([CASE-013](../cases.d/CASE-013.md)) finishes the
 distractions blocked and the wish to look at them intact. Unity of
 action is achieved over a division that remains. That is the
 "differentiated interests in a coordinated organization" side of
-[QUESTION-tmpakyaw](../questions.d/QUESTION-tmpakyaw.md).
+[QUESTION-078](../questions.d/QUESTION-078.md).
 
 **It is desirable.** When the interests agree, as on the absorbed writer's
 afternoon ([CASE-051](../cases.d/CASE-051.md)), nothing has to be overridden or enforced.

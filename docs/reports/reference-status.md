@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**317 documents cited without acknowledgement.** Not listed: 6057 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**320 documents cited without acknowledgement.** Not listed: 6083 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1487,6 +1487,16 @@ A system persists as the same self over an interval when a coherence measure is 
 - [`record/questions.d/QUESTION-043.md:27`](../../record/questions.d/QUESTION-043.md)
 - [`record/questions.d/QUESTION-043.md:31`](../../record/questions.d/QUESTION-043.md)
 
+### [CLAIM-163](../../record/claims.d/CLAIM-163.md) — Proposed
+
+"Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"
+
+3 citations in 2 files await a look; 21 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-261.md:82`](../../record/claims.d/CLAIM-261.md)
+- [`record/questions.d/QUESTION-077.md:56`](../../record/questions.d/QUESTION-077.md)
+- [`record/questions.d/QUESTION-077.md:57`](../../record/questions.d/QUESTION-077.md)
+
 ### [CLAIM-165](../../record/claims.d/CLAIM-165.md) — Proposed
 
 A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects
@@ -1696,6 +1706,16 @@ Organisms differ from dissipative structures such as a candle flame not by far-f
 - [`record/claims.d/CLAIM-194.md:30`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:56`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:77`](../../record/claims.d/CLAIM-194.md)
+
+### [THEORY-088](../../record/theory.d/THEORY-088.md) — Proposed
+
+Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
+
+3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-163.md:69`](../../record/claims.d/CLAIM-163.md)
+- [`record/questions.d/QUESTION-042.md:23`](../../record/questions.d/QUESTION-042.md)
+- [`record/questions.d/QUESTION-042.md:41`](../../record/questions.d/QUESTION-042.md)
 
 ### [THEORY-118](../../record/theory.d/THEORY-118.md) — Proposed
 
@@ -2278,15 +2298,6 @@ A classifier's class-driven Fisher outliers pair each class's feature mean with 
 - [`record/questions.d/QUESTION-051.md:21`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:39`](../../record/questions.d/QUESTION-051.md)
 
-### [THEORY-088](../../record/theory.d/THEORY-088.md) — Proposed
-
-Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
-
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
-
-- [`record/questions.d/QUESTION-042.md:23`](../../record/questions.d/QUESTION-042.md)
-- [`record/questions.d/QUESTION-042.md:41`](../../record/questions.d/QUESTION-042.md)
-
 ### [THEORY-089](../../record/theory.d/THEORY-089.md) — Proposed
 
 The content of a mental representation has two factors, a narrow conceptual role inside the head and a referential factor relating it to the world, and a long-arm role theory that gets Twin Earth truth conditions right reduces to the same two
@@ -2711,6 +2722,14 @@ A gap or coupling criterion cannot tell a boundary a system produces from one im
 
 - [`record/questions.d/QUESTION-032.md:70`](../../record/questions.d/QUESTION-032.md)
 
+### [CLAIM-198](../../record/claims.d/CLAIM-198.md) — Proposed
+
+Preference reversal is not yet disunity: interests that govern a choice at disjoint times glue, and a self is divided over a choice only on an overlap, which the agent's prediction of its own later valuation creates
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-077.md:61`](../../record/questions.d/QUESTION-077.md)
+
 ### [CLAIM-241](../../record/claims.d/CLAIM-241.md) — Proposed
 
 Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not
@@ -2718,6 +2737,14 @@ Partial constitution by uptake makes competent participants' uptake a defeasible
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-217.md:168`](../../record/claims.d/CLAIM-217.md)
+
+### [CLAIM-262](../../record/claims.d/CLAIM-262.md) — Proposed
+
+Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur
+
+1 citation in 1 file awaits a look.
+
+- [`record/cases.d/CASE-074.md:75`](../../record/cases.d/CASE-074.md)
 
 ### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
 
@@ -3189,7 +3216,7 @@ In relational frame theory the self is verbal behaviour's content, its process a
 
 1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-034.md:96`](../../record/questions.d/QUESTION-034.md)
+- [`record/questions.d/QUESTION-034.md:98`](../../record/questions.d/QUESTION-034.md)
 
 ### [THEORY-075](../../record/theory.d/THEORY-075.md) — Proposed
 
@@ -3325,7 +3352,7 @@ Organizations that espouse revising their governing values characteristically fa
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-025.md:44`](../../record/claims.d/CLAIM-025.md)
+- [`record/claims.d/CLAIM-025.md:45`](../../record/claims.d/CLAIM-025.md)
 
 ### [THEORY-155](../../record/theory.d/THEORY-155.md) — Proposed
 

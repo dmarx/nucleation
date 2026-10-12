@@ -1,5 +1,8 @@
 ---
+number: 74
 status: Active
+formerly:
+- CASE-tmp048av
 title: "Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in"
 version: 1
 standing: stipulated
@@ -10,9 +13,9 @@ tags:
 date: '2026-10-12'
 line: will-organization
 variant_of:
-- CASE-tmpez60y
+- CASE-075
 summary: >-
-  The crowd of [CASE-tmpez60y](CASE-tmpez60y.md) in democracy mode. Each move is the button
+  The crowd of [CASE-075](CASE-075.md) in democracy mode. Each move is the button
   that collects the most votes in a short window, and the running tally
   is shown while the votes arrive, so the current majority can sway the
   votes still coming. The owner judges it a better demonstration of a
@@ -20,17 +23,17 @@ summary: >-
   Showing the tally adds feedback, and feedback moves the dynamics
   toward winner-take-all.
 illustrates:
-- CLAIM-tmp6vyef
+- CLAIM-262
 - CLAIM-158
 - CLAIM-122
-- CLAIM-tmp5vc3p
+- CLAIM-261
 ---
 
-# CASE-tmp048av: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
+# CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in
 
 ## The case
 
-This is the same crowd and the same game as [CASE-tmpez60y](CASE-tmpez60y.md), in democracy
+This is the same crowd and the same game as [CASE-075](CASE-075.md), in democracy
 mode. Votes for each button are counted over a short window, and when
 the window closes the button with the most votes is pressed. The owner
 stipulates one more feature, given on 2026-10-12: "a version where the
@@ -69,7 +72,7 @@ So the visible tally is a dial on the constitution. Without it the crowd
 is a balanced integrator. With it the crowd moves toward commitment
 early, the regime where switching between stable states looks like the
 better description. That is the dependence on constitution that
-[CLAIM-tmp6vyef](../claims.d/CLAIM-tmp6vyef.md) claims, in one system.
+[CLAIM-262](../claims.d/CLAIM-262.md) claims, in one system.
 
 ## What it cannot show
 

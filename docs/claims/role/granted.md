@@ -6,7 +6,7 @@
 
 **Granted** — a point that cuts against a thesis and that the record accepts; the thesis has to be stated so that it survives it. A granted claim that is not Active is incoherent.
 
-40 of 260 CLAIM documents. Back to the [full index](../README.md).
+40 of 262 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

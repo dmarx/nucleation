@@ -6,7 +6,7 @@
 
 **Will-organization** — what organizes practical efficacy in an agent, and how that organization becomes precarious.
 
-7 of 73 CASE documents. Back to the [full index](../README.md).
+9 of 75 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -17,3 +17,5 @@
 | [CASE-023](../../../record/cases.d/CASE-023.md) | Northstar | A fictional software company whose stated policy gives reliability priority over release speed, and whose escalation and authority structures may make speed effective anyway. The paper's worked case, in several variants. | Active |
 | [CASE-036](../../../record/cases.d/CASE-036.md) | Northstar emergency governance that sustains itself | A service failure activates emergency governance whose restrictions defer maintenance, generating anomalies that satisfy the emergency criteria and keep the restrictions in place (Section 6.1). | Active |
 | [CASE-051](../../../record/cases.d/CASE-051.md) | The absorbed writer | The reluctant writer ([CASE-013](../../../record/cases.d/CASE-013.md)) on a third afternoon. The draft is going well and email stays open and unblocked, but it does not win, and no rule or device is invoked. A notification breaks the spell, and getting back in takes effort. It shows integration with nothing to integrate, beside the lapse and the precommitment. | Active |
+| [CASE-074](../../../record/cases.d/CASE-074.md) | Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in | The crowd of [CASE-075](../../../record/cases.d/CASE-075.md) in democracy mode. Each move is the button that collects the most votes in a short window, and the running tally is shown while the votes arrive, so the current majority can sway the votes still coming. The owner judges it a better demonstration of a population with drift-diffusion decision dynamics than anarchy mode. Showing the tally adds feedback, and feedback moves the dynamics toward winner-take-all. | Active |
+| [CASE-075](../../../record/cases.d/CASE-075.md) | Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs | In February 2014 a stream let everyone in its chat play one copy of Pokémon Red at once, with every typed button press executed in turn. The owner offers its navigation as a working approximation of an agent made of a population whose decisions follow drift-diffusion dynamics. The crowd's direction reorganizes continuously and is not switched. The record holds no source for the case yet. | Active |

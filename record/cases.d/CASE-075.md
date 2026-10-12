@@ -1,5 +1,8 @@
 ---
+number: 75
 status: Active
+formerly:
+- CASE-tmpez60y
 title: "Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs"
 version: 1
 standing: documented
@@ -17,13 +20,13 @@ summary: >-
   The crowd's direction reorganizes continuously and is not switched.
   The record holds no source for the case yet.
 illustrates:
-- CLAIM-tmp6vyef
+- CLAIM-262
 - CLAIM-025
 variants:
-- CASE-tmp048av
+- CASE-074
 ---
 
-# CASE-tmpez60y: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs
+# CASE-075: Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs
 
 ## The case
 
@@ -52,9 +55,9 @@ kept stepping off, act as partly absorbing boundaries.
 That an agent made of a population can be coordinated continuously. The
 crowd's net direction shifts as its composition and attention shift,
 with no moment at which one state of the whole gives way to another. It
-is the continuous case of [QUESTION-tmpqebvv](../questions.d/QUESTION-tmpqebvv.md). It is also a case in which
+is the continuous case of [QUESTION-079](../questions.d/QUESTION-079.md). It is also a case in which
 the parts stay differentiated and keep disagreeing while the whole makes
-progress ([QUESTION-tmpakyaw](../questions.d/QUESTION-tmpakyaw.md)).
+progress ([QUESTION-078](../questions.d/QUESTION-078.md)).
 
 An observation by the assistant, not the owner's: the same run also had
 a discrete switch. The anarchy/democracy meter changed the collective's
@@ -63,7 +66,7 @@ continuous reorganization inside a mode and a switch between modes.
 
 The owner later judged democracy mode the better demonstration of
 drift-diffusion dynamics, especially with the running tally visible as
-votes come in. That is filed as the stipulated variant [CASE-tmp048av](CASE-tmp048av.md).
+votes come in. That is filed as the stipulated variant [CASE-074](CASE-074.md).
 Anarchy mode shows a drifting walk, and democracy mode shows a decision
 by accumulation.
 

@@ -70,14 +70,14 @@ An interlocutor's reading, relayed by the owner, takes [LIT-638](../literature.d
 
 - **Candidate collective variables.** Slow cortical activity is organized by interacting spiral defects, with phase singularities and their topological charge as collective descriptors ([NOTE-502](../notes.d/NOTE-502.md) C1–C2, moderate to strong). That widens what could fill this objection's second part beyond relative phase. It measures no valuations.
 - **Not transitions in this claim's sense.** Spiral configurations carry task information above chance (C3, moderate), and their routing role is read from averages and a model with no perturbation (C4, weak to moderate). Neither shows switches with hysteresis or critical slowing.
-- **The form of the transition test.** [LIT-638](../literature.d/LIT-638.md) claims transitions are continuous, not discrete switches between metastable states (C5, weak), against [LIT-080](../literature.d/LIT-080.md). This objection's transition test presupposes discrete switching. [QUESTION-tmpqebvv](../questions.d/QUESTION-tmpqebvv.md) asks which description holds.
+- **The form of the transition test.** [LIT-638](../literature.d/LIT-638.md) claims transitions are continuous, not discrete switches between metastable states (C5, weak), against [LIT-080](../literature.d/LIT-080.md). This objection's transition test presupposes discrete switching. [QUESTION-079](../questions.d/QUESTION-079.md) asks which description holds.
 
-The reading recommends recasting this objection so that "the absence of a specified dynamical mechanism", not of phase synchrony, is decisive. That is already its framing: its title calls the word "an analogy without a mechanism", and relative phase is its example of a collective variable, not a requirement. [QUESTION-tmpakyaw](../questions.d/QUESTION-tmpakyaw.md) files the reading's suggestion that coordination, not synchronization, is the organizing concept for the will line. Recorded as advice; the status is unchanged.
+The reading recommends recasting this objection so that "the absence of a specified dynamical mechanism", not of phase synchrony, is decisive. That is already its framing: its title calls the word "an analogy without a mechanism", and relative phase is its example of a collective variable, not a requirement. [QUESTION-078](../questions.d/QUESTION-078.md) files the reading's suggestion that coordination, not synchronization, is the organizing concept for the will line. Recorded as advice; the status is unchanged.
 
 
 ## Note of 2026-10-12: a stipulated crowd case with all three parts
 
-[CASE-tmp048av](../cases.d/CASE-tmp048av.md), the democracy-mode variant of Twitch Plays Pokémon with
+[CASE-074](../cases.d/CASE-074.md), the democracy-mode variant of Twitch Plays Pokémon with
 the running tally visible, has all three parts this objection asks for,
 in toy form:
 
@@ -94,7 +94,7 @@ This bears on the objection without grounding either side. The case is
 stipulated. Its parts are voters, not one person's interests, so it
 shows that a population of valuers can have the full mechanism, not
 that a will has it. No status change and no typed edge. The case also
-prompted [QUESTION-tmpa7vwm](../questions.d/QUESTION-tmpa7vwm.md): is agreement produced by coupling a
+prompted [QUESTION-077](../questions.d/QUESTION-077.md): is agreement produced by coupling a
 different kind of integration from agreement because valuations
 coincide? If it is, it may be where the mechanism lives.
 

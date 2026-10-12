@@ -25,7 +25,7 @@ supports:
 - ARG-007
 illustrated_by:
 - CASE-036
-- CASE-tmpez60y
+- CASE-075
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
 ---

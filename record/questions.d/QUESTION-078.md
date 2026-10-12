@@ -1,5 +1,8 @@
 ---
+number: 78
 status: Open
+formerly:
+- QUESTION-tmpakyaw
 title: 'If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?'
 version: 1
 tags:
@@ -16,13 +19,13 @@ summary: >-
   synchronization or coordination of differentiated parts. It refines
   [QUESTION-034](QUESTION-034.md) and bears on [CLAIM-162](../claims.d/CLAIM-162.md) and [CLAIM-163](../claims.d/CLAIM-163.md). Filed as advice.
 answered_by:
-- CLAIM-tmp5vc3p
+- CLAIM-261
 refined_by:
-- QUESTION-tmpa7vwm
+- QUESTION-077
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-163 THEORY-088 — Proposed; the claims and reading this question is set beside, open -->
 
-# QUESTION-tmpakyaw: If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?
+# QUESTION-078: If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?
 
 ## The question
 

@@ -15,7 +15,7 @@ variant_of:
 - CASE-013
 illustrates:
 - CLAIM-162
-- CLAIM-tmp5vc3p
+- CLAIM-261
 summary: >-
   The reluctant writer ([CASE-013](CASE-013.md)) on a third afternoon. The draft is
   going well and email stays open and unblocked, but it does not win, and

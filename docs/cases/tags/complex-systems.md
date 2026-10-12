@@ -6,9 +6,11 @@
 
 **Complex systems** — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts.
 
-2 of 73 CASE documents. Back to the [full index](../README.md).
+4 of 75 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-034](../../../record/cases.d/CASE-034.md) | The thermostat and the adaptive controller | Systems that regulate, and even alter their own regulatory parameters, without warranting attribution of an agent. The stock counterexample to will as regulation. | Active |
 | [CASE-036](../../../record/cases.d/CASE-036.md) | Northstar emergency governance that sustains itself | A service failure activates emergency governance whose restrictions defer maintenance, generating anomalies that satisfy the emergency criteria and keep the restrictions in place (Section 6.1). | Active |
+| [CASE-074](../../../record/cases.d/CASE-074.md) | Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in | The crowd of [CASE-075](../../../record/cases.d/CASE-075.md) in democracy mode. Each move is the button that collects the most votes in a short window, and the running tally is shown while the votes arrive, so the current majority can sway the votes still coming. The owner judges it a better demonstration of a population with drift-diffusion decision dynamics than anarchy mode. Showing the tally adds feedback, and feedback moves the dynamics toward winner-take-all. | Active |
+| [CASE-075](../../../record/cases.d/CASE-075.md) | Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs | In February 2014 a stream let everyone in its chat play one copy of Pokémon Red at once, with every typed button press executed in turn. The owner offers its navigation as a working approximation of an agent made of a population whose decisions follow drift-diffusion dynamics. The crowd's direction reorganizes continuously and is not switched. The record holds no source for the case yet. | Active |

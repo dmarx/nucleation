@@ -1,5 +1,8 @@
 ---
+number: 77
 status: Open
+formerly:
+- QUESTION-tmpa7vwm
 title: "Is agreement among an agent's interests produced by coupling, as when each sees and follows the current majority, a different kind of integration from agreement because their valuations coincide?"
 version: 1
 tags:
@@ -9,9 +12,9 @@ tags:
 date: '2026-10-12'
 line: will-organization
 refines:
-- QUESTION-tmpakyaw
+- QUESTION-078
 summary: >-
-  Drawn by the assistant from [CASE-tmp048av](../cases.d/CASE-tmp048av.md) and filed at the owner's
+  Drawn by the assistant from [CASE-074](../cases.d/CASE-074.md) and filed at the owner's
   request. A crowd that can see its running vote tally comes to agree
   by herding, and its members' preferences need not change. [CLAIM-162](../claims.d/CLAIM-162.md)
   defines synchronization as valuations that coincide. The question is
@@ -21,12 +24,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-156 CLAIM-162 — Proposed; the record's open accounts of the two routes this question sets a third beside -->
 
-# QUESTION-tmpa7vwm: Is agreement among an agent's interests produced by coupling, as when each sees and follows the current majority, a different kind of integration from agreement because their valuations coincide?
+# QUESTION-077: Is agreement among an agent's interests produced by coupling, as when each sees and follows the current majority, a different kind of integration from agreement because their valuations coincide?
 
 ## The question
 
 In the democracy-mode variant of Twitch Plays Pokémon with the tally
-visible ([CASE-tmp048av](../cases.d/CASE-tmp048av.md)), the voters can come to agree quickly. That is
+visible ([CASE-074](../cases.d/CASE-074.md)), the voters can come to agree quickly. That is
 not because they want the same thing. Each one sees where the majority
 is going and follows it. The agreement is in what the crowd does, and it
 is produced by the coupling. The voters' valuations need not move at all.

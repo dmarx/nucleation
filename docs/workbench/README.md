@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [12 Oct 21:10 — Session of 2026-10-12: an interlocutor reads LIT-638 against CLAIM-163, filed as advice](2026-10.md#session-of-2026-10-12-an-interlocutor-reads-lit-638-against-claim-163-filed-as-advice)
 - [12 Oct 20:35 — Session of 2026-10-12: the interlocutor reads PR #121's reconciliation, filed as advice](2026-10.md#session-of-2026-10-12-the-interlocutor-reads-pr-121s-reconciliation-filed-as-advice)
 - [12 Oct 20:06 — Session of 2026-10-12: reconciling PR #121 with the record after #122–#129](2026-10.md#session-of-2026-10-12-reconciling-pr-121-with-the-record-after-122129)
 - [12 Oct 05:15 — Session of 2026-10-12: questions for the unlinked THEORYs, and two new lines](2026-10.md#session-of-2026-10-12-questions-for-the-unlinked-theorys-and-two-new-lines)
@@ -51,8 +52,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-42 entries across 1 book, newest first.
+43 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 42 | 2026-10-07 | 2026-10-12 |
+| [2026-10](2026-10.md) | 43 | 2026-10-07 | 2026-10-12 |

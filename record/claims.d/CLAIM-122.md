@@ -26,7 +26,7 @@ summary: >-
   The reply to [CLAIM-089](CLAIM-089.md) (Section 3.5), by precommitment in a person
   and escalation authority in a firm.
 illustrated_by:
-- CASE-tmp048av
+- CASE-074
 ---
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

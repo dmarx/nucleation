@@ -6,7 +6,7 @@
 
 **Pragmatics** — language in use — speech acts and illocutionary force, assertion and common ground, presupposition, dynamic and update semantics, footing and stance in discourse, and probabilistic models of speakers and listeners (rational speech acts); what an utterance does, beyond what it says (ADR-034).
 
-3 of 76 QUESTION documents. Back to the [full index](../README.md).
+3 of 79 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

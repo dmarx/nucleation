@@ -38,7 +38,7 @@ objects_to:
 complements:
 - CLAIM-153
 - CLAIM-196
-- CLAIM-tmp5vc3p
+- CLAIM-261
 summary: >-
   Take an agent's interests as sections over contexts of choice, each
   governing the windows of time in which its valuation ranks first. If
@@ -119,7 +119,7 @@ here. The objection is answered in part and stays open.
 
 ## Note of 2026-10-12: a coupling by self-observation that unifies
 
-[CASE-tmp048av](../cases.d/CASE-tmp048av.md), the democracy-mode variant of Twitch Plays Pokémon,
+[CASE-074](../cases.d/CASE-074.md), the democracy-mode variant of Twitch Plays Pokémon,
 makes the claim's coupling concrete at crowd scale. With the tally
 hidden the crowd has no model of its own current state. With it visible
 the crowd has one, and the parts are coupled through it. That fits the
@@ -131,7 +131,7 @@ Two things in the case do not simply confirm the claim:
   the overlap on which interests contend. In the case, the self-observed
   aggregate makes the voters converge, by herding. So the coupling alone
   does not settle whether the result is conflict or lock-in. That
-  depends on what each part does with what it sees. [QUESTION-tmpa7vwm](../questions.d/QUESTION-tmpa7vwm.md)
+  depends on what each part does with what it sees. [QUESTION-077](../questions.d/QUESTION-077.md)
   asks whether the convergent outcome is a different kind of
   integration.
 - **A parallel to the precedent effect.** With the tally visible, early

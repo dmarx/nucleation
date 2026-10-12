@@ -1,17 +1,20 @@
 ---
+number: 262
 status: Proposed
+formerly:
+- CLAIM-tmp6vyef
 title: "Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur"
 version: 1
 history:
 - version: 1
   date: '2026-10-12'
   note: >-
-    The owner's answer to QUESTION-tmpqebvv, given on 2026-10-12, with
+    The owner's answer to QUESTION-079, given on 2026-10-12, with
     Twitch Plays Pokémon as the example of the continuous case. The
     assistant wrote it up, chose the edges and drew the consequence for
     CLAIM-163's test. The owner then judged democracy mode, with the
     tally visible as votes arrive, the better demonstration
-    (CASE-tmp048av), and the continuous case was rewritten around it.
+    (CASE-074), and the continuous case was rewritten around it.
 role: thesis
 defeated_if: >-
   One form fitting every kind of agent examined. That would be every
@@ -29,14 +32,14 @@ tags:
 date: '2026-10-12'
 line: will-organization
 answers:
-- QUESTION-tmpqebvv
+- QUESTION-079
 grounds:
 - THEORY-068
 illustrated_by:
-- CASE-tmpez60y
-- CASE-tmp048av
+- CASE-075
+- CASE-074
 summary: >-
-  The owner's answer to [QUESTION-tmpqebvv](../questions.d/QUESTION-tmpqebvv.md): both forms are possible, and
+  The owner's answer to [QUESTION-079](../questions.d/QUESTION-079.md): both forms are possible, and
   which one an agent shows depends on its constitution. An agent made of
   a population whose choices accumulate like a drift-diffusion process
   reorganizes continuously. Twitch Plays Pokémon approximates one,
@@ -46,7 +49,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection whose test this claim bears on -->
 
-# CLAIM-tmp6vyef: Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur
+# CLAIM-262: Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur
 
 ## The claim
 
@@ -64,13 +67,13 @@ one when leak and inhibition balance. Such an agent's state moves as the
 balance moves, and nothing in it is a switch between stable patterns
 until the choice is read out.
 
-The crowd of [CASE-tmpez60y](../cases.d/CASE-tmpez60y.md) steers one avatar this way. The owner
+The crowd of [CASE-075](../cases.d/CASE-075.md) steers one avatar this way. The owner
 judges democracy mode the better demonstration, especially with the
-running tally visible while the votes come in ([CASE-tmp048av](../cases.d/CASE-tmp048av.md)). There
+running tally visible while the votes come in ([CASE-074](../cases.d/CASE-074.md)). There
 each move is a choice made by accumulating votes. In anarchy mode it is
 only the avatar's position that drifts.
 
-**A dial between the two.** Drawn by the assistant from [CASE-tmp048av](../cases.d/CASE-tmp048av.md):
+**A dial between the two.** Drawn by the assistant from [CASE-074](../cases.d/CASE-074.md):
 with the tally hidden, the counts are balanced integrators, the drift
 diffusion model itself for a two-way vote. With the tally visible, a
 leading count draws more votes, the net leak turns negative, and the

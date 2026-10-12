@@ -1,5 +1,8 @@
 ---
+number: 79
 status: Open
+formerly:
+- QUESTION-tmpqebvv
 title: 'Is the coordination among an agent''s regimes better described by discrete switches between metastable states or by continuous reorganization, and does the answer change what would count as a transition in the test of the synchronization objection?'
 version: 1
 tags:
@@ -15,11 +18,11 @@ summary: >-
   test should look for. [LIT-638](../literature.d/LIT-638.md) and [LIT-080](../literature.d/LIT-080.md) are rivals on it. Filed as
   advice.
 answered_by:
-- CLAIM-tmp6vyef
+- CLAIM-262
 ---
 <!-- inactive-ok-file: CLAIM-163 THEORY-088 — Proposed; the objection whose test this question bears on and the reading it rests on, open -->
 
-# QUESTION-tmpqebvv: Is the coordination among an agent's regimes better described by discrete switches between metastable states or by continuous reorganization, and does the answer change what would count as a transition in the test of the synchronization objection?
+# QUESTION-079: Is the coordination among an agent's regimes better described by discrete switches between metastable states or by continuous reorganization, and does the answer change what would count as a transition in the test of the synchronization objection?
 
 ## The question
 
