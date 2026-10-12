@@ -24,7 +24,9 @@ tags:
 - epistemology
 - mathematical-statistics
 date: '2026-10-11'
-line: distributed-agency
+line:
+- distributed-agency
+- formal-apparatus
 uses:
 - TERM-049
 summary: >-

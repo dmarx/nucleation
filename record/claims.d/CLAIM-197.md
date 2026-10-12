@@ -29,7 +29,9 @@ tags:
 - contextuality
 - philosophy-of-language
 date: '2026-10-12'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 complements:
 - CLAIM-143
 - CLAIM-153

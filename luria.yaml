@@ -466,6 +466,12 @@ vocabularies:
         blurb: why trained networks come to have the structure they have, which features, symmetries and
           connected solution sets training reaches and why — understanding, not instruction for practice,
           which belongs to the anthology
+      formal-apparatus:
+        label: Formal apparatus
+        blurb: results that hold whatever any substantive line concludes — gluing and contextuality, comparison
+          of experiments and probes, identifiability, conservation, and thresholds for naming a unit; held
+          as a second line by the general results other lines borrow, so that setting a substantive line
+          aside does not retire them (ADR-040)
   works:
     label: Works
     blurb: A manuscript the record's claims are marshalled into. Membership says a claim is in the work;
@@ -1004,6 +1010,7 @@ schemes:
         closed: true
       line:
         vocabulary: lines
+        many: true
         required: true
       works:
         vocabulary: works
