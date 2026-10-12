@@ -1,0 +1,42 @@
+---
+status: Open
+title: 'If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?'
+version: 1
+tags:
+- behavioral-integration
+- agency
+- complex-systems
+date: '2026-10-12'
+line: 'will-organization'
+refines:
+- QUESTION-034
+summary: >-
+  From an interlocutor's reading of [LIT-638](../literature.d/LIT-638.md) against [CLAIM-163](../claims.d/CLAIM-163.md), relayed by
+  the owner on 2026-10-12: whether integration of an agent's interests is
+  synchronization or coordination of differentiated parts. It refines
+  [QUESTION-034](QUESTION-034.md) and bears on [CLAIM-162](../claims.d/CLAIM-162.md) and [CLAIM-163](../claims.d/CLAIM-163.md). Filed as advice.
+---
+<!-- inactive-ok-file: CLAIM-162 CLAIM-163 THEORY-088 — Proposed; the claims and reading this question is set beside, open -->
+
+# QUESTION-tmpakyaw: If an agent is a population of interests, does acting as one require that the interests synchronize, or can differentiated interests keep distinct roles, boundaries and pathways of influence within a stable or metastable pattern of coordination?
+
+## The question
+
+From an interlocutor's reading of [LIT-638](../literature.d/LIT-638.md) against [CLAIM-163](../claims.d/CLAIM-163.md), relayed by the owner on 2026-10-12. The reading: "coordination need not take the form of uniform synchronization. A system can exhibit coherent global organization through spatially differentiated, mobile, interacting structures." Applied to the will: "Instead of asking whether interests become synchronized in phase, ask whether their interactions create stable or metastable patterns of coordination, potentially involving distinct functional roles, boundaries, and pathways of influence." And: "Distinct interests might remain differentiated while participating in a coordinated organization. Integration need not mean homogeneity or consensus."
+
+It refines [QUESTION-034](QUESTION-034.md). That question's three candidates (bargaining, a change in which interest may act, agreement) all ask how many become one. This asks whether becoming one means becoming alike.
+
+## Why the record needs it
+
+[CLAIM-162](../claims.d/CLAIM-162.md) calls flow intrapersonal synchronization ([TERM-050](../terms.d/TERM-050.md)), and [CLAIM-163](../claims.d/CLAIM-163.md) objects that the word has no coupling, collective variable or transitions behind it. If integration is coordination of differentiated parts, the objection's standard can be met by collective variables other than relative phase, and [CLAIM-162](../claims.d/CLAIM-162.md)'s "no interest has to be overridden" may be the wrong mark of integration.
+
+## What the record holds
+
+- [THEORY-088](../theory.d/THEORY-088.md) ([LIT-638](../literature.d/LIT-638.md), read in [NOTE-502](../notes.d/NOTE-502.md)): slow cortical activity is organized by interacting spiral defects around phase singularities, not by uniform phase locking. It is a neural case of differentiated, interacting structures with global organization. It measures no interests or valuations.
+- [QUESTION-054](QUESTION-054.md)'s two sides, a separate governing level or governance as the interaction of regimes, bear on whether the coordination needs a coordinator.
+
+## What would answer it
+
+A collective variable for a population of interests that stays well defined while the interests stay distinct, with evidence that it predicts choices or lapses. Or an argument that integration of a will needs agreement among its interests.
+
+*Filed as advice from the interlocutor's reading; the record takes no position.*
