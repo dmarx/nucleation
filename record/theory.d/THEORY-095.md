@@ -49,6 +49,8 @@ summary: >-
   both rest on an externalist shift of content and on first-person
   sameness, and Block concedes that a short-arm functional theory of
   qualia would escape.
+answers:
+- QUESTION-059
 ---
 <!-- inactive-ok-file: THEORY-063 THEORY-064 THEORY-023 — Proposed; named in prose to say this account does not bear on them, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-089 — Proposed; the two-factor account filed alongside, named in Connections, nothing here rests on it -->

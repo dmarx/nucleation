@@ -26,6 +26,8 @@ summary: >-
   states the operator formulation with its integrability condition.
 extends:
 - THEORY-007
+answers:
+- QUESTION-052
 ---
 <!-- inactive-ok-file: LIT-259 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-251 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

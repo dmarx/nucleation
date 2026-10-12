@@ -43,6 +43,8 @@ summary: >-
   widths, which is why the two are consistent.
 presupposed_by:
 - THEORY-115
+answers:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: LIT-370 — Proposed; named as a re-measurement of the shared-state onset, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-109 THEORY-112 — Proposed; the account this extends, and the symmetry account filed with it, named in the body -->

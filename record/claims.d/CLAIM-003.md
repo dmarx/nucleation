@@ -36,3 +36,7 @@ as "evocative of a planned response over a sustained timescale".
 Not needed by the will paper. The assistant's caution (A78) stands: the
 driver case "does not, by itself, establish two simultaneously conscious
 workspaces".
+
+## Note of 2026-10-12: the rival accounts, not linked
+
+Two THEORYs bear against this claim, and neither is written as a ground, since a ground supports. [THEORY-096](../theory.d/THEORY-096.md) is the account this claim argues against: content "globally accessed by local processors". It asserts uniform broadcast rather than measuring it, and its remark that V1 neurons join the workspace in tasks needing fine detail partly helps this claim. [THEORY-063](../theory.d/THEORY-063.md) (Metzinger) holds that conscious contents form one functional cluster. It bears only on the experiential half of this claim, and his "typically" leaves room.

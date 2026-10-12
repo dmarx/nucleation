@@ -25,6 +25,7 @@ answers:
 rests_on:
 - CLAIM-177
 grounds:
+- THEORY-136
 - THEORY-134
 - LIT-919
 - LIT-920
@@ -39,9 +40,12 @@ summary: >-
 supports:
 - CLAIM-176
 - CLAIM-182
+- CLAIM-195
 objected_by:
 - CLAIM-184
+- CLAIM-190
 ---
+<!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
@@ -130,3 +134,21 @@ sense, but is viable only if it stays the same claim, which is what the
 drift claim ([CLAIM-177](CLAIM-177.md)) says fails without a record. Holling's distinction
 between stability and resilience ([THEORY-132](../theory.d/THEORY-132.md)) is the ecological version of
 the same split.
+
+## Note of 2026-10-11 (later): persistence is not correctness
+
+[CLAIM-075](CLAIM-075.md) bounds this claim. Viability does not establish what ought to
+persist, and neither does anchoring. A claim can persist, perfectly
+anchored, and be wrong. [CLAIM-195](CLAIM-195.md) files the constraint-set point
+these notes left open.
+
+## Note of 2026-10-12: what would show a threshold
+
+[THEORY-136](../theory.d/THEORY-136.md) (Scheffer and Carpenter) is added as a ground, as a test. A
+persistent or abrupt change is not evidence of a threshold. Only
+hysteresis, dependence on the initial state, or "a lasting shift after a
+temporary disturbance, with slow return excluded" comes close. For this
+claim, the test is whether a single act of anchoring, such as filing a code
+in one session, produces a lasting change in how later sessions treat the
+idea (fewer re-derivations, more pointing), beyond what a slow return to
+old habits would explain.

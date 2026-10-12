@@ -45,6 +45,8 @@ extended_by:
 - THEORY-110
 - THEORY-112
 - THEORY-114
+answers:
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-114 THEORY-112 THEORY-110 — Proposed; the accounts filed with this one that extend it, named in the body and in Connections -->
 
@@ -153,3 +155,14 @@ depth does the opposite, and that belongs to [THEORY-112](THEORY-112.md).
   nearly convex modulo symmetry.
 - **[THEORY-110](THEORY-110.md)** takes the weaker geometry: a centre linearly joined to
   the rest.
+
+## Note of 2026-10-12: a regime where the solutions SGD finds are not connected
+
+[THEORY-108](THEORY-108.md) reports a regime that limits this account's claim. In Yang et al.'s load and temperature grid, phase III is flat and poorly connected. There, independently trained solutions are not joined at low loss by a trained quadratic Bezier curve, which is Garipov et al.'s instrument and so this account's own evidence. So "the solutions SGD finds lie in one connected low-loss set" holds in some regions of the training grid, not across it. The phase III runs are trained to low loss and are what SGD finds there, so the exclusion this account already makes, of minima training does not reach, does not cover them.
+
+Two things leave the tension open rather than settled:
+
+- [THEORY-108](THEORY-108.md)'s own promote_when allows that the phase III barrier may be an artefact of one curve family, gone once the runs are permutation-aligned. That is the test that would settle it.
+- Yang et al. measure one architecture family at CIFAR scale.
+
+It is not declared as `rivals`. If the barrier survives alignment, this account narrows to the regions where training reaches connected solutions. Neither account then gives a different explanation of the same phenomenon.

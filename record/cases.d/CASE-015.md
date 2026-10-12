@@ -18,6 +18,7 @@ summary: >-
   outline v4's running case B, the manuscript's §8 and Case II).
 supports:
 - CLAIM-106
+- CLAIM-191
 variants:
 - CASE-020
 - CASE-030

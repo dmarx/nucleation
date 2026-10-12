@@ -23,6 +23,7 @@ rests_on:
 - CLAIM-127
 grounds:
 - LIT-894
+- THEORY-138
 complements:
 - CLAIM-151
 - CLAIM-127
@@ -132,3 +133,7 @@ itself.
   participants are told does that to I, and to I only. That supports the
   claim's "sharp edge". A do(S) needs the same cut made on the situation
   itself.
+
+## Note of 2026-10-12: evidence now linked
+
+[THEORY-138](../theory.d/THEORY-138.md) (Woodward) now grounds this claim. An intervention alone sets X and affects Y only through X, which is the principled reason do(I = a) differs from do(S = s).

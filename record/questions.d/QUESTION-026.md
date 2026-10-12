@@ -19,6 +19,7 @@ summary: >-
   DisCoCat composes is propositional and distributional meaning, which
   [CLAIM-061](../claims.d/CLAIM-061.md) says is not enough to preserve the act.
 ---
+<!-- inactive-ok-file: THEORY-017 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited as the open account this question joins -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited as the preservation result a construction would extend, not as settled -->
 <!-- inactive-ok-file: CLAIM-061 — Proposed; cited as the open claim that makes the second half of the question matter -->
@@ -87,3 +88,13 @@ sheaves are both categorical does not.
   Their corpus estimates are almost always signalling. So the data on which a
   compositional constraint would be checked are the data [CLAIM-125](../claims.d/CLAIM-125.md)'s
   second open problem is about.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-017](../theory.d/THEORY-017.md): In a Hilbert-space model only unitarily invariant structure
+  is intrinsic; a basis or tensor factorisation,…

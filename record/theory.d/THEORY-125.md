@@ -48,6 +48,10 @@ summary: >-
   response", and the replacement, the 2008 McCain–Palin campaign, is
   offered as "intuitively plausible" pending anthropological data.
   Proposed.
+answers:
+- QUESTION-053
+supports:
+- CLAIM-039
 ---
 <!-- inactive-ok-file: LIT-701 — Deferred, no lawful full text; Gilbert's plural-subject account, named as the other "need not be felt" view and known only through Huebner's report, not leaned on -->
 <!-- inactive-ok-file: LIT-697 — Deferred, no lawful full text; Schmid, named from his abstract as the view that groups can feel, not leaned on -->

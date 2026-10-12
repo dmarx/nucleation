@@ -44,6 +44,8 @@ summary: >-
   not measured.
 supports:
 - CLAIM-082
+answers:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-025 — Proposed or open; cited as what this result bears on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->

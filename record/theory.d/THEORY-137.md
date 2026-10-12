@@ -34,6 +34,8 @@ summary: >-
   then built systems to detect reportable deposits. Narratives regulate
   too. Proposed: the regulative view is assumed, and the effect on banks
   is asserted, not documented.
+supports:
+- CLAIM-183
 ---
 <!-- inactive-ok-file: LIT-483 — Deferred, unread; Groups as Agents, named as unread -->
 <!-- inactive-ok-file: THEORY-127 THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->

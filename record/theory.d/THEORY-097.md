@@ -38,6 +38,8 @@ summary: >-
   in 0.29% of cell-pair trials in co-ripples against 0.14% outside them.
   Correlational throughout: one task, two load levels, clinically placed
   electrodes, nothing perturbed.
+answers:
+- QUESTION-042
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; filed in the same batch, named for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-063 — Proposed; named in Connections as an account of integration this one does not test, no relation claimed -->

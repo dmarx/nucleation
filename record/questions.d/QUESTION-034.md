@@ -26,6 +26,8 @@ answered_by:
 - CLAIM-162
 - CLAIM-169
 - CLAIM-tmpr8n6u
+- THEORY-076
+- THEORY-044
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
 <!-- inactive-ok-file: THEORY-043 THEORY-051 THEORY-056 THEORY-067 THEORY-076 — Proposed; the readings the question is posed from, with their standing as it is -->
@@ -84,3 +86,11 @@ self-control: every route does that.
 - The record holds no reading on flow and no study of mindfulness and
   discounting. The works it would need are registered unread: [LIT-914](../literature.d/LIT-914.md),
   [LIT-912](../literature.d/LIT-912.md), [LIT-910](../literature.d/LIT-910.md), [LIT-906](../literature.d/LIT-906.md) and [LIT-916](../literature.d/LIT-916.md).
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-076](../theory.d/THEORY-076.md) (Bratman), which this question names as a rival to bargaining, now carries an `answered_by` edge.
+
+## Note of 2026-10-12: a typed partial answer
+
+[THEORY-044](../theory.d/THEORY-044.md) now carries an `answered_by` edge. In ACT's self-as-context perspective, content and process are both contacted but "neither obtain absolute control" over the decision. That supports this question's second option, a change in which interest may act. It is the reading [CLAIM-156](../claims.d/CLAIM-156.md) already relies on.

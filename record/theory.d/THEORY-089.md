@@ -48,6 +48,8 @@ summary: >-
   Social meaning is assigned to the referential factor or to a third,
   social factor, and is only sketched. Proposed: no identity conditions for
   roles, and narrow content is given room, not shown explanatory.
+answers:
+- QUESTION-050
 ---
 <!-- inactive-ok-file: THEORY-095 — Proposed; the Inverted Earth account filed alongside, named in prose, nothing here rests on it -->
 

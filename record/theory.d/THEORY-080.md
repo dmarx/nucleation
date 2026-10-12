@@ -52,6 +52,8 @@ summary: >-
   penalty.
 extends:
 - THEORY-087
+answers:
+- QUESTION-040
 ---
 <!-- inactive-ok-file: THEORY-087 THEORY-084 — Proposed; THEORY-087 is extended in its regular half, which is derived, and THEORY-084 is named in Connections -->
 

@@ -58,6 +58,7 @@ illustrated_by:
 - CASE-045
 objected_by:
 - CLAIM-173
+- CLAIM-194
 supports:
 - CLAIM-174
 ---

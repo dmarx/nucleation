@@ -40,6 +40,8 @@ summary: >-
   layer is chosen on out-of-distribution data throughout; ViT gains are
   small; the language-model evidence is one synthetic task; and Chang et
   al.'s information estimate is questioned in its NOTE.
+answers:
+- QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-083 — Proposed; named in Connections as the record's statement of neural collapse, nothing here rests on it -->
 

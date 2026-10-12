@@ -37,6 +37,11 @@ summary: >-
   each is relative to a stated target.
 supports:
 - CLAIM-157
+grounds:
+- THEORY-194
+- THEORY-202
+- THEORY-066
+- THEORY-073
 ---
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 
@@ -73,3 +78,14 @@ fixed.
 - **That MOM's further conclusion applies here.** MOM argues this costs its
   source corpus its Platonism about universals. This record makes no such
   realist commitment, so the position is a caution here, not a defeater.
+
+## Note of 2026-10-12: evidence now linked
+
+Four THEORYs now ground this claim:
+
+- [THEORY-194](../theory.d/THEORY-194.md): which variables a compression keeps is set by what it must stay informative about.
+- [THEORY-202](../theory.d/THEORY-202.md): the variables a renormalization keeps must be fixed by a stated target.
+- [THEORY-066](../theory.d/THEORY-066.md): the blanket formalism takes the internal set as input and never outputs it.
+- [THEORY-073](../theory.d/THEORY-073.md): where a blanket falls is fixed by modelling choices made before it is found.
+
+The body already made [THEORY-066](../theory.d/THEORY-066.md)'s point about Markov blankets through [LIT-603](../literature.d/LIT-603.md).

@@ -6,8 +6,8 @@
 
 **Model comparison** — choosing between models by their evidence — the marginal likelihood and Bayes factors, the Savage–Dickey density ratio for nested models, Occam factors and the evidence framework, Bayesian model reduction and structure learning, and information criteria and free energies for singular models (ADR-026).
 
-0 of 38 QUESTION documents. Back to the [full index](../README.md).
+1 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-040](../../../record/questions.d/QUESTION-040.md) | When the reification rule prices a candidate found in the same data, among many directions the data only partly determine, what must its Occam term count, and how far does the search inflate the candidate's d'? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-154](../../../record/claims.d/CLAIM-154.md), [CLAIM-188](../../../record/claims.d/CLAIM-188.md), [CLAIM-152](../../../record/claims.d/CLAIM-152.md) and [CLAIM-164](../../../record/claims.d/CLAIM-164.md). [THEORY-080](../../../record/theory.d/THEORY-080.md) and [THEORY-028](../../../record/theory.d/THEORY-028.md) answer it in part; the body gives each one's limit. | Open |

@@ -37,6 +37,10 @@ summary: >-
   to be held responsible under three conditions, which corporations meet.
   Proposed: it is an argument, and its empirical premise about corporate
   procedure is asserted rather than shown.
+answers:
+- QUESTION-049
+supports:
+- CLAIM-030
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: LIT-742 — Deferred, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->

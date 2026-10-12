@@ -6,8 +6,8 @@
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-0 of 38 QUESTION documents. Back to the [full index](../README.md).
+1 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-046](../../../record/questions.d/QUESTION-046.md) | What criterion, applied the same way to a modular mind and to an organized group, would say whether an organized whole is a subject of experience and not only an agent? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-165](../../../record/claims.d/CLAIM-165.md), [CLAIM-155](../../../record/claims.d/CLAIM-155.md), [CLAIM-003](../../../record/claims.d/CLAIM-003.md) and [QUESTION-032](../../../record/questions.d/QUESTION-032.md). [THEORY-043](../../../record/theory.d/THEORY-043.md) and [THEORY-063](../../../record/theory.d/THEORY-063.md) answer it in part; the body gives each one's limit. | Open |

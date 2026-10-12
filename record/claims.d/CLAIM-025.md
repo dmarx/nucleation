@@ -18,6 +18,7 @@ works:
 - organization-of-will
 grounds:
 - CASE-036
+- THEORY-145
 uses:
 - TERM-020
 supports:
@@ -37,3 +38,7 @@ summary: >-
 may become increasingly competent at operating inside the emergency regime
 while becoming less capable of changing the organization that keeps the regime
 in place."
+
+## Note of 2026-10-12: evidence now linked
+
+[THEORY-145](../theory.d/THEORY-145.md) (Argyris and Schön) now grounds this claim: errors are corrected within the governing values while the values themselves go unexamined. Two caveats. Argyris's "governing values" are not exactly this claim's governing organization among regimes. The evidence is from workshops.

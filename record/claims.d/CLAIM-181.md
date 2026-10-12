@@ -29,6 +29,8 @@ summary: >-
   hold. Some evidence for it is already in the record: the flourishes it
   declined to code, and the literature roles that "recurred" but stay in
   prose ([ADR-032](../decisions.d/ADR-032.md)).
+supports:
+- CLAIM-190
 ---
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-756 — Deferred; cited for the argument ADR-030 summarises it for, not for a reading here -->

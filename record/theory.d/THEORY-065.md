@@ -48,6 +48,8 @@ summary: >-
   ([LIT-564](../literature.d/LIT-564.md)) supply the reflective structure the chapter assumes.
   Argued, with the Kantian premise assumed and the collective mechanism
   stated in a paragraph.
+answers:
+- QUESTION-009
 ---
 <!-- inactive-ok-file: LIT-597 LIT-477 — Deferred; Self-Constitution and Gilbert, named as the unread works that would move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-043 THEORY-076 THEORY-075 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->

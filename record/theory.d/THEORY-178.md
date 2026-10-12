@@ -38,6 +38,8 @@ summary: >-
   without epigenetic marks. The evidence is a model ensemble; no transient
   perturbation has been shown to have a lasting effect in cells, so the
   account is Proposed.
+supports:
+- CLAIM-184
 ---
 
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
