@@ -34,6 +34,7 @@ objects_to:
 - CLAIM-163
 complements:
 - CLAIM-153
+- CLAIM-tmp37bdg
 summary: >-
   Take an agent's interests as sections over contexts of choice, each
   governing the windows of time in which its valuation ranks first. If

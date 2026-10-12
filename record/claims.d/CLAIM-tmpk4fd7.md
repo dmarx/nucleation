@@ -42,8 +42,10 @@ summary: >-
   of meaning that does not state it has decided nothing.
 illustrated_by:
 - CASE-048
+- CASE-tmpdat4f
 supports:
 - CLAIM-tmpr8n6u
+- CLAIM-tmp37bdg
 ---
 <!-- inactive-ok-file: CLAIM-143 — Proposed; the general point this claim gives the simplest instance of -->
 <!-- inactive-ok-file: CLAIM-tmpr8n6u — Proposed; the consequence drawn from this claim, cited forward -->
