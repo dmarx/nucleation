@@ -73,3 +73,7 @@ where the comparison cannot be made, not one where it fails.
   with measured examples.
 - It inherits [CLAIM-142](CLAIM-142.md)'s caution. A barrier is measured on probes, and
   what the probes cannot see they cannot separate ([CLAIM-tmppqir6](CLAIM-tmppqir6.md)).
+
+## Note of 2026-10-12: a case for the protocol
+
+[THEORY-108](../theory.d/THEORY-108.md)'s phase III is a ready case for this protocol. Independently trained solutions there are poorly connected on a fitted curve, and [THEORY-108](../theory.d/THEORY-108.md) itself asks whether the barrier survives permutation alignment. If it does, the protocol reads phase III as a different mechanism from the connected phases, which [THEORY-108](../theory.d/THEORY-108.md)'s accuracy and output-similarity differences would corroborate. If it does not, the barrier was a symmetry the curve family failed to quotient. Notes on [THEORY-108](../theory.d/THEORY-108.md) and [THEORY-109](../theory.d/THEORY-109.md) record the tension this would settle.

@@ -216,3 +216,7 @@ answer it. Each would be settled by the first kind of result in
 - **IIT ([LIT-445](../literature.d/LIT-445.md))** is the review's other named rival, a posterior "hot
   zone" sufficient for experience with prefrontal cortex "not essential";
   no theory in the record states it, so no relation is declared.
+
+## Note of 2026-10-12: "sustains" against its proponents' own prediction
+
+[THEORY-102](THEORY-102.md) reports that the workspace's proponents pre-registered transient prefrontal onset and offset representations with no sustained component for the COGITATE paradigm. Yet this account's statement says ignition "amplifies, sustains and broadcasts" the content. The body above already says the onset-only burst "sits uneasily with 'sustains'". The tension is between this account's wording and the theory's own prediction, not between this account and [THEORY-102](THEORY-102.md), which reports the GNW predictions as met except at offset. Whether "sustains" should read as sustained for maintenance and report, not for the duration of the experience, is a question for a reading of [LIT-631](../literature.d/LIT-631.md). It is not settled here, and the statement is unchanged. No relation is declared, since [THEORY-102](THEORY-102.md) is a finding that bears on two theories, not a rival account.

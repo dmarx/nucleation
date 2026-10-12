@@ -178,3 +178,7 @@ side: not a better local measure, but a global one.
   along the Hessian transition, read as double descent at a phase
   boundary. The exact accounts the paper says it corroborates are the
   random-feature and linear ones ([LIT-679](../literature.d/LIT-679.md), [LIT-683](../literature.d/LIT-683.md)).
+
+## Note of 2026-10-12: phase III against [THEORY-109](THEORY-109.md)
+
+Phase III bears directly on [THEORY-109](THEORY-109.md), which says the solutions SGD finds lie in one connected low-loss set. Phase III solutions are what training reaches at those settings, and the instrument that finds them poorly connected is the one [THEORY-109](THEORY-109.md)'s evidence uses. A note on [THEORY-109](THEORY-109.md) records the limit. Whether phase III's barrier survives permutation alignment, the check this account's promote_when already asks for, decides whether [THEORY-109](THEORY-109.md) must narrow.

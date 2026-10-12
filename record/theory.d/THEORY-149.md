@@ -85,3 +85,7 @@ evidence, and each of them could have gone the other way.
   attitudes of its own. Ostrom asks when a group's rules last. A commons
   regime can be durable without being a group agent, and the two accounts
   do not depend on each other.
+
+## Note of 2026-10-12: against [THEORY-153](THEORY-153.md)
+
+[THEORY-153](THEORY-153.md) (Beer) makes a distinct metasystem with a foresight function necessary for a system to keep its identity. This account's durable commons have no central control. They conflict only if Beer's metasystem must be a separate controller, not a set of functions the users' nested institutions can perform between them. A note on [THEORY-153](THEORY-153.md) states both readings. The bearing is on [QUESTION-tmpebtmy](../questions.d/QUESTION-tmpebtmy.md).
