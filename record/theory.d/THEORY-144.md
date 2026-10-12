@@ -28,6 +28,8 @@ summary: >-
   prepared by decision makers each optimising locally. Proposed: the
   account is built from accident reconstructions, which see only the cases
   that crossed.
+supports:
+- CLAIM-030
 ---
 
 # THEORY-144: Under steady cost and effort pressure, an organization's activity migrates toward the boundary of acceptable performance, and redundant defences erode unobserved because a breach of one shows no effect, so that major accidents arise from many locally reasonable decisions rather than from coincident errors

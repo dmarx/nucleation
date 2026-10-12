@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmpn1400](../questions.d/QUESTION-tmpn1400.md), where its preregistered multimodal data challenge the workspace theory''s ignition and broadcast predictions; it also bears on [QUESTION-tmp5bnsn](../questions.d/QUESTION-tmp5bnsn.md). No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Adversarial testing of global neuronal workspace and integrated information theories of consciousness'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding
+    similarity to QUESTION-tmpn1400 and judged from the abstract. Citation checked against
+    Crossref on 2026-10-12: Cogitate Consortium, Oscar Ferrante, Urszula Gorska-Klimowska, Simon
+    Henin et al., Nature 642(8066), 133–142, 2025-04-30, which is the `published:` date. Not
+    held in the Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5) for the
+    identifier and title found nothing.
+tags:
+- consciousness
+- neuroscience
+date: '2026-10-12'
+published: '2025-04-30'
+doi: '10.1038/s41586-025-08888-1'
+first_author: 'Cogitate Consortium'
+keywords:
+- 'adversarial collaboration'
+- 'integrated information theory'
+- 'global neuronal workspace'
+- 'preregistration'
+- 'visual consciousness'
+implementations: []
+summary: >-
+  Cogitate Consortium, Ferrante et al. (2025). The paper reports a preregistered adversarial
+  collaboration testing integrated information theory against global neuronal workspace theory,
+  with 256 participants measured by fMRI, MEG and intracranial EEG. It finds content information
+  in visual, ventrotemporal and inferior frontal cortex. It reports that the lack of sustained
+  posterior synchronization challenges IIT, and that the lack of ignition at stimulus offset and
+  limited prefrontal representation challenge GNWT. Not read.
+---
+<!-- inactive-ok-file: QUESTION-tmpn1400 — Deferred; the question this work was filed for, on a set-aside line -->
+
+# LIT-tmpjzzcf: Adversarial testing of global neuronal workspace and integrated information theories of consciousness
+
+Cogitate Consortium, Oscar Ferrante, Urszula Gorska-Klimowska, Simon Henin, Rony Hirschhorn, Aya Khalaf et al. (2025), *Nature 642(8066), 133–142*.
+
+Filed for [QUESTION-tmpn1400](../questions.d/QUESTION-tmpn1400.md): its data challenge the workspace theory's predictions of ignition and
+broadcast, which is direct evidence on whether access is one all-or-none broadcast. It also bears on
+[QUESTION-tmp5bnsn](../questions.d/QUESTION-tmp5bnsn.md), as a case of what a theory-testing design can establish.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

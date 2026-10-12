@@ -20,6 +20,7 @@ summary: >-
   text→image→caption chain as Case III but states no result about
   composition through a medium.
 ---
+<!-- inactive-ok-file: CLAIM-076 CLAIM-098 CLAIM-178 THEORY-174 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-087 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-012: When does reconstruction through an intermediate image preserve or degrade observational structure relative to direct text-to-text reconstruction?
@@ -40,3 +41,19 @@ distinctions as well as the one in which it loses them ([CLAIM-087](../claims.d/
 manuscript's Case III would measure it ("alternate text→image→caption→image and
 compare against text-only reconstruction chains"); its theory says nothing about
 it beyond Propositions 1 and 2, which assume a fixed correspondence of contexts.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [THEORY-174](../theory.d/THEORY-174.md): Classical simulations between empirical models on different
+  scenarios never create contextuality, and a…
+- [CLAIM-076](../claims.d/CLAIM-076.md): Cross-modal chains expose reconstruction because media differ
+  in expressive affordances, and each…
+- [CLAIM-098](../claims.d/CLAIM-098.md): Translation and cross-modal reconstruction need not be group
+  actions: they form a category or semigroup of…
+- [CLAIM-178](../claims.d/CLAIM-178.md): A manuscript should be a view over the argument and not its
+  only copy: a draft written straight from an…

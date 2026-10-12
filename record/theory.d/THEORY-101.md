@@ -44,6 +44,8 @@ summary: >-
   The source is a reply piece; the thesis is argued in a book the record
   has not read, and the mechanism is a sketch. ALARM ([THEORY-090](THEORY-090.md))
   rivals it on what the first consciousness did.
+answers:
+- QUESTION-tmplvh8e
 ---
 <!-- inactive-ok-file: THEORY-090 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the record's account of felt affect, named for comparison, with no relation claimed -->

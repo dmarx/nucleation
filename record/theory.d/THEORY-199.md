@@ -28,6 +28,8 @@ summary: >-
   points, checked against exact BP on single rule draws at s = 2, v = 32,
   L = 10. Not proved for quenched rules, a statement about an ideal
   denoiser that knows the grammar, not about a trained diffusion model.
+answers:
+- QUESTION-010
 ---
 <!-- inactive-ok-file: THEORY-195 THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 

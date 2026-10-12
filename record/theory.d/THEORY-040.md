@@ -53,6 +53,8 @@ summary: >-
   choice is wrong.
 answers:
 - QUESTION-tmpdewd4
+supports:
+- CLAIM-016
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->

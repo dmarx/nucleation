@@ -28,6 +28,8 @@ summary: >-
   fixed-point model, not of the information in the tree, and it says
   nothing about Euclidean or linear-direction representations of the same
   hierarchy.
+answers:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-185 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 

@@ -21,6 +21,7 @@ summary: >-
   what "sufficiently rich" means and what plays the role of the fibre
   functor, or shows that no such reconstruction can hold.
 ---
+<!-- inactive-ok-file: THEORY-002 THEORY-019 — listed as material that may bear on this question, not as settled -->
 
 # QUESTION-036: Can the admissible symmetries of a communicative kind be reconstructed from a sufficiently rich family of its observable realizations and transformations?
 
@@ -68,3 +69,21 @@ crystallized argument (A203, [TERM-052](../terms.d/TERM-052.md)) left out Tannak
 turn deciding to. Whether the question dissolved as the argument matured
 or was simply not carried forward, the exchange does not say. Filing it
 gives it a status, which is how the record can tell the two apart.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [CLAIM-132](../claims.d/CLAIM-132.md): Characters classify finite-dimensional representations of a
+  finite or compact group up to isomorphism only…
+- [THEORY-019](../theory.d/THEORY-019.md): Symmetry forces spectral degeneracy but degeneracy does not
+  identify a symmetry: an operator commuting…
+- [THEORY-002](../theory.d/THEORY-002.md): Convergence of representations, in the Platonic hypothesis's
+  sense, is convergence of kernels, which fixes…
+
+[CLAIM-132](../claims.d/CLAIM-132.md) and [THEORY-019](../theory.d/THEORY-019.md) both lean toward a negative answer: characters
+fix neither the group nor its action, and spectral degeneracy does not
+identify a symmetry.

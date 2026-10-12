@@ -26,6 +26,8 @@ summary: >-
   balanced, that the result carries to more than two options or to
   non-stationary evidence, or that the primacy and recency seen in six
   participants are explained by it.
+answers:
+- QUESTION-tmpnw6kj
 ---
 <!-- inactive-ok-file: THEORY-056 — Proposed; named as the record's account of competing motive states, with no relation claimed -->
 <!-- inactive-ok-file: THEORY-061 THEORY-059 — Proposed; companion accounts in this batch, named for what they borrow from this one -->

@@ -44,6 +44,8 @@ summary: >-
   matched present endorsement or applied to manipulation.
 answers:
 - QUESTION-tmpdewd4
+supports:
+- CLAIM-016
 ---
 <!-- inactive-ok-file: THEORY-054 THEORY-040 — Proposed; the relations are stated, nothing here rests on THEORY-040 -->
 

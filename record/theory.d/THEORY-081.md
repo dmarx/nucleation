@@ -39,6 +39,8 @@ summary: >-
   the same condition. The identity is exact. Its Laplace and variational
   forms are only as good as the full posterior, and with no constraint on
   the prior family the optimum is maximum likelihood.
+supports:
+- CLAIM-154
 ---
 <!-- inactive-ok-file: THEORY-073 THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 

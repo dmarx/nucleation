@@ -43,6 +43,9 @@ supports:
 - CLAIM-129
 - CLAIM-133
 - CLAIM-139
+- CLAIM-tmp82c4f
+- CLAIM-tmpkld6a
+- CLAIM-tmppqir6
 ---
 <!-- inactive-ok-file: CLAIM-046 CLAIM-050 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->

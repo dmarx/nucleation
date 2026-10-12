@@ -44,6 +44,8 @@ summary: >-
   than practice. So this is Proposed.
 extended_by:
 - THEORY-085
+supports:
+- CLAIM-164
 ---
 
 <!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-084 — Proposed; named in Connections, nothing here rests on them -->

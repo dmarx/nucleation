@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-030](../questions.d/QUESTION-030.md), where the interpretability-illusion dispute turns on whether an intervention finds the variable that constitutes a behaviour or one that only correlates with it. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'A Reply to Makelov et al. (2023)''s "Interpretability Illusion" Arguments'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding
+    similarity to QUESTION-030 and judged from the abstract. Citation checked against arXiv on
+    2026-10-12: Zhengxuan Wu, Atticus Geiger, Jing Huang et al., arXiv:2401.12631, 2024-01-23,
+    which is the `published:` date. Not held in the Anthology of the SOTA: a grep of its record/
+    (clone at commit d8b5ba5) for the identifier and title found nothing.
+tags:
+- causality
+- representation-learning
+- anthology-candidate
+date: '2026-10-12'
+published: '2024-01-23'
+arxiv: '2401.12631'
+first_author: 'Wu'
+keywords:
+- 'interpretability illusion'
+- 'distributed alignment search'
+- 'interchange intervention'
+- 'causal abstraction'
+- 'mechanistic interpretability'
+implementations: []
+summary: >-
+  Wu et al. (2024). The paper replies to Makelov et al. (2023), who argued that subspace
+  interchange interventions such as distributed alignment search can produce "interpretability
+  illusions". It argues that under Makelov et al.'s technical definition even intuitive, desirable
+  explanations count as illusions, so their test can reject explanations they themselves accept.
+  It argues that the illusions they found in practice come from their training and evaluation
+  set-up. Not read.
+---
+
+# LIT-tmpcd0w3: A Reply to Makelov et al. (2023)'s "Interpretability Illusion" Arguments
+
+Zhengxuan Wu, Atticus Geiger, Jing Huang, Aryaman Arora, Thomas Icard, Christopher Potts, Noah D. Goodman (2024), *arXiv:2401.12631*.
+
+Filed for [QUESTION-030](../questions.d/QUESTION-030.md): the dispute it answers is whether a subspace interchange intervention finds
+the variable that constitutes a behaviour or one that only correlates with it. That is the
+question's distinction, argued over a worked case.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

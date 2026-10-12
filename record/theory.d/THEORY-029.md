@@ -70,6 +70,8 @@ summary: >-
   higher-order structure is irrelevant to agency.
 rivals:
 - THEORY-120
+supports:
+- CLAIM-016
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account this one argues against, declared its rival -->
 <!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->

@@ -39,6 +39,8 @@ summary: >-
   inside the region is argued in its §8, not tested. Moving from the
   centroid towards the origin stays low-loss far past the members, which
   the authors cannot explain.
+answers:
+- QUESTION-tmpzj6fs
 ---
 <!-- inactive-ok-file: THEORY-115 THEORY-111 THEORY-107 THEORY-110 — Proposed; the account this one extends and siblings named in Connections, nothing here rests on their open parts -->
 

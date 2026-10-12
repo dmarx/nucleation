@@ -1,0 +1,41 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmp519kx](../questions.d/QUESTION-tmp519kx.md), where network structure and a few charismatic agents produce a spiral of silence that misrepresents the community''s beliefs. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Modeling opinion misperception and the emergence of silence in online social system'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity to
+    QUESTION-tmp519kx and judged from the abstract. Citation checked against Crossref on 2026-10-12: Daniele Vilone,
+    Eugenia Polizzi, PLOS ONE 19(1): e0296075, 2024-01-11, which is the `published:` date. Not held in the Anthology
+    of the SOTA: a grep of its record/ (clone at commit d8b5ba5) for the identifier and title found nothing.
+tags:
+- network-science
+- social-science
+- epistemology
+date: '2026-10-12'
+published: '2024-01-11'
+doi: '10.1371/journal.pone.0296075'
+first_author: 'Vilone'
+keywords:
+- 'opinion misperception'
+- 'spiral of silence'
+- 'social media'
+- 'agent-based simulation'
+implementations: []
+summary: >-
+  Vilone and Polizzi (2024). The paper uses numerical simulations to study how members of online groups come to
+  misjudge the distribution of opinions around them. It finds that network topology distorts perception, but only
+  indirectly. The main driver it reports is a spiral of silence started by a few well-connected, charismatic agents,
+  which leads most members to keep their belief to themselves and makes minority opinions look widespread. Not read.
+---
+
+# LIT-tmp5eb4k: Modeling opinion misperception and the emergence of silence in online social system
+
+Daniele Vilone and Eugenia Polizzi (2024), *PLOS ONE* 19(1): e0296075.
+
+Filed for [QUESTION-tmp519kx](../questions.d/QUESTION-tmp519kx.md): a model in which the community comes to appear to hold a belief that its members do not, through the structure of who speaks and who stays silent. The outcome is set by structure, not by any member's reasoning.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

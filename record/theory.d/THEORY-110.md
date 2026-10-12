@@ -39,6 +39,8 @@ summary: >-
   connectivity for wide two-layer teacher–student and deep linear networks,
   and find centres for five trained image classifiers with no permutation.
   Proposed: reduced, not zero, and no held-out test without alignment.
+answers:
+- QUESTION-tmpzj6fs
 ---
 <!-- inactive-ok-file: THEORY-112 THEORY-109 — Proposed; the accounts this one extends, filed with it -->
 

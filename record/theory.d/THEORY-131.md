@@ -29,6 +29,8 @@ summary: >-
   Proposed: the step from agency to moral personhood is asserted, and
   corporate intentionality is shown by licensed redescription, not by any
   test.
+answers:
+- QUESTION-009
 ---
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for comparison -->

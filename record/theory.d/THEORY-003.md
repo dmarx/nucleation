@@ -21,6 +21,8 @@ summary: >-
   Muandet et al. (2017), [LIT-260](../literature.d/LIT-260.md), Lemma 3.1 — the one place in this
   family where Riesz is invoked explicitly. InfoNCE ≈ HSIC holds only as a
   small-variance approximation.
+answers:
+- QUESTION-tmpb7zsv
 ---
 <!-- inactive-ok-file: LIT-248 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: LIT-260 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->

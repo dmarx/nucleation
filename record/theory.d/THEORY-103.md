@@ -49,6 +49,8 @@ rivals:
 - THEORY-096
 presupposed_by:
 - THEORY-098
+answers:
+- QUESTION-tmpn1400
 ---
 <!-- inactive-ok-file: THEORY-098 THEORY-094 — Proposed; filed in the same batch and named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-102 — Proposed; named in Connections for contrast, nothing here rests on it -->

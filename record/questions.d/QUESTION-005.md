@@ -18,6 +18,7 @@ summary: >-
   measurement cover (§10), neither of which says who fixes the
   correspondence of contexts.
 ---
+<!-- inactive-ok-file: CLAIM-143 CLAIM-149 THEORY-175 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-005: How can corresponding communicative environments and responses be operationalized without building the preferred notion of fidelity into the measurement procedure?
@@ -42,3 +43,19 @@ annotators (§10), and calls the choice of observables "itself normative and
 empirically contestable" (§11). That makes the choice explicit without saying
 how the correspondence of source and target contexts is fixed independently of
 the fidelity it is used to measure.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [CLAIM-011](../claims.d/CLAIM-011.md): Intertwining with an uninformative correspondence is vacuous
+  or lossy, so the source–target correspondence…
+- [CLAIM-143](../claims.d/CLAIM-143.md): Local descriptions that disagree are not thereby
+  incompatible: whether there is an obstruction can be…
+- [CLAIM-149](../claims.d/CLAIM-149.md): A probe family that supplies a transformation's training
+  signal cannot also certify what the…
+- [THEORY-175](../theory.d/THEORY-175.md): Cosine similarities to matched anchor points are invariant
+  exactly to the maps that preserve cosines, and…

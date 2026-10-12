@@ -39,6 +39,9 @@ summary: >-
   procedure is asserted rather than shown.
 answers:
 - QUESTION-tmp9psjx
+- QUESTION-tmp6ondj
+supports:
+- CLAIM-030
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: LIT-742 — Deferred, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->

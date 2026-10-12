@@ -41,6 +41,8 @@ summary: >-
   intervention, show a circuit forming while the loss is flat. Only one
   measures I(X;T), and there the later fall belongs to the estimator. This
   is the record's synthesis across the five, not a claim any of them makes.
+answers:
+- QUESTION-tmp0dy29
 ---
 
 # THEORY-039: The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T)

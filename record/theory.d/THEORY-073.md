@@ -52,6 +52,9 @@ summary: >-
   states make. So the blanket presupposes the boundary it is offered as
   the criterion of. Proposed: the argument is conceptual, and the later
   steady-state definitions have not been read.
+supports:
+- CLAIM-152
+- CLAIM-tmprrjrd
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 THEORY-043 — Proposed; named as the accounts this one bears on, not leaned on -->
 

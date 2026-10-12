@@ -43,6 +43,9 @@ complements:
 - CLAIM-154
 supports:
 - CLAIM-157
+grounds:
+- THEORY-078
+- THEORY-084
 ---
 
 # CLAIM-164: What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide
@@ -74,3 +77,7 @@ dancer's own. That application is this record's.
 - **How large the gap must be.** That is [CLAIM-154](CLAIM-154.md).
 - **That spectral subspaces are the only candidates for units.** It is a
   claim about what a gap makes definite in a linear description.
+
+## Note of 2026-10-12: evidence now linked
+
+Two THEORYs now ground this claim. [THEORY-084](../theory.d/THEORY-084.md): a spectral threshold on the lazy-regime Fisher is well posed only at gaps between blocks, with guarantees stated only for whole eigenspaces. [THEORY-078](../theory.d/THEORY-078.md), weaker because its attribution is made by eye: a cut at the bulk edge keeps the span of the class means, not C discriminative directions.

@@ -18,6 +18,7 @@ summary: >-
   audience lacking knowledge (§5), not as something a rendering might
   owe its reader.
 ---
+<!-- inactive-ok-file: CLAIM-034 CLAIM-091 — listed as material that may bear on this question, not as settled -->
 
 # QUESTION-023: Can the opacity of insider vocabulary be a preservation target in its own right?
 
@@ -46,3 +47,19 @@ A neighbouring distinction, also raised once and dropped (A7): "*what would
 Henley write today?* versus *what contemporary line produces the same effect
 Henley's produced on his audience?*" The second became the manuscript's notion
 of fidelity; the first, a counterfactual-author target, was never weighed.
+
+## Note of 2026-10-11: material in the record that may bear on this
+
+A synthesis review of 2026-10-11 found these entries bearing on this
+question without being linked to it. Each is listed for what its title
+says; none has yet been assessed as an answer, and none is linked by
+`answers`.
+
+- [CASE-026](../cases.d/CASE-026.md): Modern slang that makes the insider sound like an outsider
+  imitating the subculture
+- [CLAIM-091](../claims.d/CLAIM-091.md): A translation can reach pragmatic equivalence by compensating
+  for changed social coordinates with changed…
+- [CLAIM-034](../claims.d/CLAIM-034.md): Fidelity is one evaluative goal among adaptation, critique
+  and parody, and a deliberately adaptive…
+- [CASE-027](../cases.d/CASE-027.md): Henley translated perfectly in the voice of an academic
+  sociologist

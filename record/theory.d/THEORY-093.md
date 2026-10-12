@@ -57,6 +57,8 @@ summary: >-
   unmyelinated-fibre proposal. Proposed: the identification is a
   definition, the mechanism an interpretation of anatomy, and the clinical
   evidence does not separate this account from its rivals.
+answers:
+- QUESTION-tmplvh8e
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, declared and explained in prose -->

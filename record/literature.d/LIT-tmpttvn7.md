@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmp519kx](../questions.d/QUESTION-tmp519kx.md), where it models epistemic diversity as a community-level mechanism for what a scientific community settles on. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity
+    to QUESTION-tmp519kx and judged from the abstract. Citation checked against arXiv and Crossref
+    on 2026-10-12: Berna Devezer, Luis G. Nardin, Bert Baumgaertner et al., arXiv:1803.10118,
+    published in PLOS ONE 14(5), e0216125 on 2019-05-15; arXiv v1 is dated 2018-03-27, 2018-03-27,
+    which is the `published:` date. Not held in the Anthology of the SOTA: a grep of its record/
+    (clone at commit d8b5ba5) for the identifier and title found nothing.
+tags:
+- philosophy-of-science
+- epistemology
+- social-science
+date: '2026-10-12'
+published: '2018-03-27'
+arxiv: '1803.10118'
+doi: '10.1371/journal.pone.0216125'
+first_author: 'Devezer'
+keywords:
+- 'reproducibility'
+- 'scientific discovery'
+- 'epistemic diversity'
+- 'agent-based model'
+- 'Markov chain'
+implementations: []
+summary: >-
+  Devezer et al. (2019). The paper builds a mathematical model of scientific discovery in which
+  scientists search model space for the true data-generating model. Using Markov chain theory, Monte
+  Carlo methods and agent-based modelling, it argues that the process may not converge to truth even
+  when results are reproducible, and that irreproducible results need not be untrue. It finds that
+  the mix of research strategies in the population matters, and that epistemic diversity does best
+  across the properties studied. Not read.
+---
+
+# LIT-tmpttvn7: Scientific discovery in a model-centric framework: Reproducibility, innovation, and epistemic diversity
+
+Berna Devezer, Luis G. Nardin, Bert Baumgaertner and Erkan Ozge Buzbas (2019), *PLOS ONE* 14(5), e0216125.
+
+Filed for [QUESTION-tmp519kx](../questions.d/QUESTION-tmp519kx.md): it models a scientific community in which epistemic diversity, not the
+reproducibility of single results, sets whether the community finds the truth and stays on it. That
+is a community-level mechanism for what the group comes to believe.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

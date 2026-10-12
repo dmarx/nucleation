@@ -28,6 +28,8 @@ summary: >-
   derivation from the hyperbolic law of cosines. It says what a cone
   order on the ball can be, not which posets embed in it, and nothing
   about meets, joins or learned embeddings.
+answers:
+- QUESTION-025
 ---
 <!-- inactive-ok-file: THEORY-196 THEORY-185 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 

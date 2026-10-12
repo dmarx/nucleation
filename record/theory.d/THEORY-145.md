@@ -29,6 +29,8 @@ summary: >-
   undiscussable, and individual and organizational routines reinforce each
   other. Proposed: the evidence is the author's own workshops, and the
   universality claim is asserted from earlier work.
+supports:
+- CLAIM-025
 ---
 <!-- inactive-ok-file: LIT-739 — Deferred, unread; the 1977 article, named as unread -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for a contrast -->

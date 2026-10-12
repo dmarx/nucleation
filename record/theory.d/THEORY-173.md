@@ -32,6 +32,8 @@ summary: >-
   classification could fail.
 rivals:
 - THEORY-208
+supports:
+- CLAIM-068
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
 

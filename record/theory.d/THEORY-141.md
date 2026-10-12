@@ -31,6 +31,8 @@ summary: >-
   transitions make the hierarchy an explanandum. Proposed: a review
   stating general principles that Okasha himself says may explain any one
   transition only coarsely.
+supports:
+- CLAIM-060
 ---
 <!-- inactive-ok-file: LIT-721 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-135 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
