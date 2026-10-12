@@ -34,7 +34,7 @@ summary: >-
   Bansal, Nakkiran & Barak before it was filed: only reconstruction-fitted
   stitching certifies sufficiency, and only within the map class.
 objected_by:
-- CLAIM-tmpflbi3
+- CLAIM-230
 ---
 <!-- inactive-ok-file: CLAIM-050 CLAIM-125 THEORY-176 THEORY-156 THEORY-175 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -19,10 +19,10 @@ summary: >-
 used_by:
 - CLAIM-026
 - CLAIM-050
-- CLAIM-tmpbi9eb
-- CLAIM-tmpflbi3
-- CLAIM-tmpji66i
-- CLAIM-tmpz239h
+- CLAIM-218
+- CLAIM-230
+- CLAIM-235
+- CLAIM-259
 ---
 <!-- inactive-ok-file: CLAIM-026 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

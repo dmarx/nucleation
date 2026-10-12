@@ -20,9 +20,9 @@ used_by:
 - CLAIM-129
 - CLAIM-135
 - CLAIM-142
-- CLAIM-tmp6r6t6
-- CLAIM-tmpsxsr8
-- CLAIM-tmpawn12
+- CLAIM-206
+- CLAIM-247
+- CLAIM-217
 ---
 <!-- inactive-ok-file: TERM-022 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: TERM-002 — Superseded; the neighbouring definition this entry was contrasted with, cited as history -->

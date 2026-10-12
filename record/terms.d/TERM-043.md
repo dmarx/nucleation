@@ -25,19 +25,19 @@ used_by:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-147
-- CLAIM-tmpbi9eb
-- CLAIM-tmpwvljf
-- CLAIM-tmp1rlu5
-- CLAIM-tmp3wo5j
-- CLAIM-tmp7qr7y
-- CLAIM-tmpeqvy4
-- CLAIM-tmpfzcik
-- CLAIM-tmpnttsk
-- CLAIM-tmpx3m7e
-- CLAIM-tmpz239h
+- CLAIM-218
+- CLAIM-256
+- CLAIM-201
+- CLAIM-204
+- CLAIM-210
+- CLAIM-228
+- CLAIM-231
+- CLAIM-240
+- CLAIM-257
+- CLAIM-259
 ---
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-tmpeqvy4 CLAIM-tmpx3m7e CLAIM-tmpz239h — Proposed; the restatements of the components, cited as open -->
+<!-- inactive-ok-file: CLAIM-228 CLAIM-257 CLAIM-259 — Proposed; the restatements of the components, cited as open -->
 
 # TERM-043: fidelity, as a profile of directed distortions compared component by component
 
@@ -121,7 +121,7 @@ consequence for ranking translations is [CLAIM-128](../claims.d/CLAIM-128.md).
 ## Note of 2026-10-10: the replies
 
 After the audit: D_obs is restated over a class of items, with one kernel
-family fitted on some and scored on others ([CLAIM-tmpeqvy4](../claims.d/CLAIM-tmpeqvy4.md)), and over both
-covers ([CLAIM-tmpx3m7e](../claims.d/CLAIM-tmpx3m7e.md)); D_dec as the directed positive part of the risk
-increase on the same problem ([CLAIM-tmpz239h](../claims.d/CLAIM-tmpz239h.md)); D_dyn measured on observed
-order effects ([CLAIM-tmpfzcik](../claims.d/CLAIM-tmpfzcik.md)).
+family fitted on some and scored on others ([CLAIM-228](../claims.d/CLAIM-228.md)), and over both
+covers ([CLAIM-257](../claims.d/CLAIM-257.md)); D_dec as the directed positive part of the risk
+increase on the same problem ([CLAIM-259](../claims.d/CLAIM-259.md)); D_dyn measured on observed
+order effects ([CLAIM-231](../claims.d/CLAIM-231.md)).

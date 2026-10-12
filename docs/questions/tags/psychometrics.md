@@ -6,8 +6,10 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-1 of 72 QUESTION documents. Back to the [full index](../README.md).
+3 of 76 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-057](../../../record/questions.d/QUESTION-057.md) | Can the integration that marks a will-organization as the agent's own be detected apart from the agent's own avowal that her commitments are hers? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-016](../../../record/claims.d/CLAIM-016.md) and [QUESTION-011](../../../record/questions.d/QUESTION-011.md). [THEORY-074](../../../record/theory.d/THEORY-074.md) answers it in part; the body gives each one's limit. Deferred with its line. | Deferred |
+| [QUESTION-075](../../../record/questions.d/QUESTION-075.md) | Which tasks and which receivers fix the human criterion against which a measure of communicative fidelity is validated? | Raised by [CLAIM-244](../../../record/claims.d/CLAIM-244.md) and [CLAIM-226](../../../record/claims.d/CLAIM-226.md) on 2026-10-10. Every central defeat condition used a task-free judgement by unnamed judges. An answer names a task family and a receiver population for each claim, and says how fidelity for one population bears on another ([CLAIM-074](../../../record/claims.d/CLAIM-074.md)). | Open |
+| [QUESTION-076](../../../record/questions.d/QUESTION-076.md) | Can readers judge footing and stance reliably and validly in the categories the designs use? | Raised by [CLAIM-227](../../../record/claims.d/CLAIM-227.md) on 2026-10-10. The only footing judgement the record has made twice of the same texts, the analyst's own labelling of four refrains, changed between A38 and A39 ([CASE-012](../../../record/cases.d/CASE-012.md)). An answer reports reliability between judges and between passes against a target fixed in advance, and validity on renderings built to differ only in the attributed speaker. Stage 0 of [CASE-055](../../../record/cases.d/CASE-055.md) is the design. Goffman's "Footing" (in [LIT-780](../../../record/literature.d/LIT-780.md)) is the construct's source and is unread here. | Open |

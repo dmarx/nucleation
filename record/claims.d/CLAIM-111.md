@@ -27,9 +27,9 @@ summary: >-
   relativistic account and the later dynamical account". Dropped at
   outline v3 without critique.
 objected_by:
-- CLAIM-tmpjuqrl
+- CLAIM-236
 complements:
-- CLAIM-tmp9negs
+- CLAIM-214
 ---
 <!-- ref::uses-file: TERM-011 — stated in "frame, as inferred from evidence"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as a worked model of this claim, not as settled -->
@@ -80,7 +80,7 @@ saying.
 
 ## Note of 2026-10-10: the replies
 
-[CLAIM-tmp9negs](CLAIM-tmp9negs.md) (2026-10-10): the criterion compares each language's own
+[CLAIM-214](CLAIM-214.md) (2026-10-10): the criterion compares each language's own
 posterior and needs no correspondence of alternative sets. Two consequences:
 a rendering with the source's literal content can fail it, and a target
 language may admit no rendering that passes.

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmpt2k3r: version 1 fired only on
+    Restated on 2026-10-10 after CLAIM-248: version 1 fired only on
     a reversal of direction. Version 1's condition read: "Framing and
     order effects found in models fail to replicate, even in direction,
     in matched human studies, so that the models test nothing about the
@@ -35,7 +35,7 @@ summary: >-
 argued_by:
 - ARG-008
 objected_by:
-- CLAIM-tmpt2k3r
+- CLAIM-248
 ---
 
 # CLAIM-058: Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies

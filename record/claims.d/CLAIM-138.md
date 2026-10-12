@@ -17,7 +17,7 @@ rests_on:
 - CLAIM-011
 grounds:
 - LIT-045
-- CASE-tmpq8ynx
+- CASE-069
 summary: >-
   The exchange drew the parallel itself, four times (A187 §6, A191 §10,
   A203 §19, A218 Ch2.10). What it did not draw is the cost. The standard
@@ -27,7 +27,7 @@ summary: >-
   relations are read extensionally, and it does not touch the "partly"
   of relational constitution.
 supports:
-- CLAIM-tmpcq79k
+- CLAIM-224
 ---
 <!-- inactive-ok-file: CLAIM-136 CLAIM-151 — Proposed; the thesis this objection presses and the qualified claim it spares, both open -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition the exchange offered as the remedy, open -->
@@ -108,7 +108,7 @@ claim. Their paper does not discuss it in those terms.
 
 ## Note of 2026-10-10: a documented case
 
-[CASE-tmpq8ynx](../cases.d/CASE-tmpq8ynx.md) gives this claim's point a documented instance at the level of
+[CASE-069](../cases.d/CASE-069.md) gives this claim's point a documented instance at the level of
 acts. In Labov's sounding data Boot's reply is related to David's taunt "in
 exactly the way that one sound is related to another": each answers the
 last in kind, targets the other's father, before the group. Yet both are

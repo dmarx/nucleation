@@ -19,9 +19,9 @@ summary: >-
   a translation against human judgement, and prompt-only versus test-
   time-trained adaptation. Proposed, not run.
 supports:
-- CLAIM-tmpc3xwx
+- CLAIM-222
 variants:
-- CASE-tmp1uzfn
+- CASE-055
 ---
 <!-- inactive-ok-file: CLAIM-074 CLAIM-117 CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; replaced, and cited as the history this entry answers or replaces -->

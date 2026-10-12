@@ -24,9 +24,9 @@ summary: >-
   is distinct from signification, which the manuscript's "significance"
   blurs.
 objected_by:
-- CLAIM-tmpwevyr
+- CLAIM-254
 ---
-<!-- inactive-ok-file: CLAIM-tmpwevyr CLAIM-tmpon3g9 — Proposed; the open objection to this entry's last paragraph and the record's reply to it -->
+<!-- inactive-ok-file: CLAIM-254 CLAIM-242 — Proposed; the open objection to this entry's last paragraph and the record's reply to it -->
 
 # CLAIM-072: Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition
 
@@ -51,7 +51,7 @@ contrast, which is not Saussure's.
 
 ## Note of 2026-10-10: the replies
 
-The last paragraph overreaches ([CLAIM-tmpwevyr](CLAIM-tmpwevyr.md)). Value is fixed within one
+The last paragraph overreaches ([CLAIM-254](CLAIM-254.md)). Value is fixed within one
 language state and is a fact of *langue*, so the manuscript's observables,
-facts of use, track a use-level counterpart ([CLAIM-tmpon3g9](CLAIM-tmpon3g9.md)), not Saussure's
+facts of use, track a use-level counterpart ([CLAIM-242](CLAIM-242.md)), not Saussure's
 value. The correction above stands, and the paragraph is left as written.

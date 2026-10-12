@@ -31,8 +31,8 @@ summary: >-
 supports:
 - CLAIM-072
 - CLAIM-082
-- CLAIM-tmpwevyr
-- CLAIM-tmpon3g9
+- CLAIM-254
+- CLAIM-242
 ---
 
 # THEORY-159: In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value

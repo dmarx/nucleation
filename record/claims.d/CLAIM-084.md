@@ -25,8 +25,8 @@ summary: >-
   comparisons alone") and §10 keeps independent responses and split
   annotators; the blinding to condition is not stated.
 objected_by:
-- CLAIM-tmpelp3h
-- CLAIM-tmpfe37n
+- CLAIM-227
+- CLAIM-229
 illustrated_by:
 - CASE-030
 - CASE-032

@@ -23,7 +23,7 @@ grounds:
 - LIT-785
 - LIT-780
 - THEORY-162
-- CASE-tmp25bmx
+- CASE-056
 supersedes:
 - CLAIM-006
 uses:
@@ -46,11 +46,11 @@ supports:
 - CLAIM-115
 - CLAIM-129
 - CLAIM-151
-- CLAIM-tmpc1o4m
+- CLAIM-220
 objected_by:
 - CLAIM-053
-- CLAIM-tmpelp3h
-- CLAIM-tmpfe37n
+- CLAIM-227
+- CLAIM-229
 ---
 <!-- inactive-ok-file: LIT-766 — Deferred; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
 
@@ -102,7 +102,7 @@ None of the three addresses footing.
 
 ## Note of 2026-10-10: the replies
 
-Two corrections from the audit ([CLAIM-tmpfe37n](CLAIM-tmpfe37n.md)). [CASE-018](../cases.d/CASE-018.md) is a case of the
+Two corrections from the audit ([CLAIM-229](CLAIM-229.md)). [CASE-018](../cases.d/CASE-018.md) is a case of the
 same proposition with a different act, which refutes sufficiency; "necessity
 fails in [CASE-018](../cases.d/CASE-018.md), read in reverse" is mistaken, since reading it in reverse
 keeps the words. The necessity half has A12's sentence and one documented

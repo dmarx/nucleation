@@ -19,7 +19,7 @@ summary: >-
   insufficiency. The case against necessity is A12's asymmetry and A24's
   compensation hypothesis, neither in the manuscript.
 supports:
-- CLAIM-tmpfe37n
+- CLAIM-229
 ---
 <!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -47,7 +47,7 @@ may be true, but the manuscript does not support "necessary".
 
 ## Note of 2026-10-10: a documented case
 
-The necessity half now has a documented case, [CASE-tmp25bmx](../cases.d/CASE-tmp25bmx.md), found by a
+The necessity half now has a documented case, [CASE-056](../cases.d/CASE-056.md), found by a
 search the owner asked for. J. B. Phillips renders Paul's "greet one another
 with a holy kiss" (Rom 16:16 and four parallels) as "a hearty handshake all
 round". That changes what the congregation is told to do. Nida (1964, p.

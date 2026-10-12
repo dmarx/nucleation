@@ -9,20 +9,20 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmplkh2i and CLAIM-tmpvmzx9.
+    Restated on 2026-10-10 after CLAIM-238 and CLAIM-253.
     Version 1's condition read: 'Renderings that match on static
     judgement distributions never diverge in how later framings act on
     their readers, so intertwining defects add nothing to the
     prediction of fidelity judgements beyond distribution matching.'
     Its 'never diverge' was a universal negative, and its intertwining
     defects are not identified from data. Stated on observed responses
-    (CLAIM-tmpfzcik). The manuscript's §9 identity quoted below is
+    (CLAIM-231). The manuscript's §9 identity quoted below is
     unchanged.
 role: thesis
 defeated_if: >-
   Among renderings matched, within a margin fixed in advance, on static
   judgement distributions, differences in observed responses to later
-  framings (the order effects of sequence contexts, CLAIM-tmpfzcik) add
+  framings (the order effects of sequence contexts, CLAIM-231) add
   less than a margin fixed in advance to the prediction of receivers'
   task-indexed fidelity verdicts on held-out renderings.
 tags:
@@ -43,14 +43,14 @@ summary: >-
   identity.
 objected_by:
 - CLAIM-011
-- CLAIM-tmpvmzx9
+- CLAIM-253
 supports:
 - ARG-006
 illustrated_by:
 - CASE-022
 - CASE-017
 complements:
-- CLAIM-tmpfzcik
+- CLAIM-231
 ---
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

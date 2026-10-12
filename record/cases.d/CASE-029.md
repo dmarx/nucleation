@@ -21,7 +21,7 @@ summary: >-
 variants:
 - CASE-005
 supports:
-- CLAIM-tmplkh2i
+- CLAIM-238
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-052 CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

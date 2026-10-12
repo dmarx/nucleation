@@ -6,8 +6,9 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-1 of 52 CASE documents. Back to the [full index](../README.md).
+2 of 73 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-043](../../../record/cases.d/CASE-043.md) | Data written for a future reader and never read | The owner's variant of the tree in the woods (2026-10-11). Someone writes a record (a note, a log, a letter, a backup) for a reader they expect, and it is never read. Unlike the tree, the write was made for someone. Used to separate when a message's intended meaning is fixed from when its fidelity is measured. | Active |
+| [CASE-062](../../../record/cases.d/CASE-062.md) | Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings | A constructed study, built on documented halves. Simplified texts, made from the source alone, raised comprehension for named restricted readers (adults and adolescents with autism; weaker second-graders), and automatic simplifications lowered it for fluent native readers, but in different studies on different texts. Edited subtitles did not help deaf viewers, and text reduction in captions helped the more proficient readers more. The stipulated design puts both populations on the same renderings, with probe items fixed in advance as answerable from both versions or from the original only. | Active |

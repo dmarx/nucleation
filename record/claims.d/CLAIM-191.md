@@ -27,7 +27,7 @@ rests_on:
 grounds:
 - THEORY-155
 - CASE-015
-- CASE-tmpo33kl
+- CASE-068
 summary: >-
   The first claim joining the nucleating-argument and pragmatic-transport
   lines, which shared no edges. A sequence of memoryless sessions
@@ -95,13 +95,13 @@ storage does not anchor and addressability does ([CLAIM-182](CLAIM-182.md)).
 
 ## Note of 2026-10-12: a measured case for the direction of drift
 
-[CASE-tmpo33kl](../cases.d/CASE-tmpo33kl.md), filed in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now a ground of this claim. In two
+[CASE-068](../cases.d/CASE-068.md), filed in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now a ground of this claim. In two
 serial-reproduction studies of risk messages, the transmitters' measured
 risk perception predicts the direction in which the evaluative signal
 changes, and re-exposure to the balanced source did not undo the drift.
 That is a measured instance of drift toward the transmitters' bias, and of
 a return to the source failing to pull a chain back. Its limit is
-[CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md)'s: the record's chain evidence covers evaluative stance,
+[CLAIM-234](CLAIM-234.md)'s: the record's chain evidence covers evaluative stance,
 not footing, and not the restatement of an argument. The chains are of
 human retellers, not memoryless sessions, and in one study the prior was
 measured after the experiment.
@@ -109,7 +109,7 @@ measured after the experiment.
 ## Note of 2026-10-12: the regimes this claim leans on
 
 The third point leans on [CLAIM-056](CLAIM-056.md)'s regimes. [CLAIM-056](CLAIM-056.md) carries an Active
-objection, [CLAIM-tmp6zbr9](CLAIM-tmp6zbr9.md), which says a sensitivity needs many retellings
+objection, [CLAIM-208](CLAIM-208.md), which says a sensitivity needs many retellings
 of each of several inputs at every generation, "where a chain gives one".
 The record conceded it for [CLAIM-059](CLAIM-059.md) and [CLAIM-078](CLAIM-078.md) and left [CLAIM-056](CLAIM-056.md)'s
 condition unchanged. [CLAIM-059](CLAIM-059.md) version 2 now asks for "several independent

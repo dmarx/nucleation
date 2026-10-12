@@ -18,10 +18,10 @@ summary: >-
   The origin of the manuscript's L_obs (§6).
 used_by:
 - CLAIM-005
-- CLAIM-tmp6xxbf
-- CLAIM-tmpwvljf
-- CLAIM-tmpeqvy4
-- CLAIM-tmpx3m7e
+- CLAIM-207
+- CLAIM-256
+- CLAIM-228
+- CLAIM-257
 ---
 <!-- inactive-ok-file: TERM-013 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 

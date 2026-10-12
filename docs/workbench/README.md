@@ -6,6 +6,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [12 Oct 20:35 — Session of 2026-10-12: the interlocutor reads PR #121's reconciliation, filed as advice](2026-10.md#session-of-2026-10-12-the-interlocutor-reads-pr-121s-reconciliation-filed-as-advice)
+- [12 Oct 20:06 — Session of 2026-10-12: reconciling PR #121 with the record after #122–#129](2026-10.md#session-of-2026-10-12-reconciling-pr-121-with-the-record-after-122129)
 - [12 Oct 05:15 — Session of 2026-10-12: questions for the unlinked THEORYs, and two new lines](2026-10.md#session-of-2026-10-12-questions-for-the-unlinked-theorys-and-two-new-lines)
 - [12 Oct 04:22 — Session of 2026-10-12: the four unmarked THEORY tensions, filed](2026-10.md#session-of-2026-10-12-the-four-unmarked-theory-tensions-filed)
 - [12 Oct 02:01 — Session of 2026-10-12: MOM-CLM-088 and the overlap a divided self needs](2026-10.md#session-of-2026-10-12-mom-clm-088-and-the-overlap-a-divided-self-needs)
@@ -26,6 +28,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 - [11 Oct 01:31 — Session of 2026-10-11, continued: the corporate event as a synchronization mechanism](2026-10.md#session-of-2026-10-11-continued-the-corporate-event-as-a-synchronization-mechanism)
 - [11 Oct 00:55 — Session of 2026-10-11, continued: extended self and entrainment; storage as a variant of the tree in the woods; a joke over a life](2026-10.md#session-of-2026-10-11-continued-extended-self-and-entrainment-storage-as-a-variant-of-the-tree-in-the-woods-a-joke-over-a-life)
 - [11 Oct 00:33 — Session of 2026-10-11: the self as a multi-agent system, and synchronization through temporal discounting, mindfulness and flow](2026-10.md#session-of-2026-10-11-the-self-as-a-multi-agent-system-and-synchronization-through-temporal-discounting-mindfulness-and-flow)
+- [10 Oct 22:57 — Session of 2026-10-10, 22:33–22:39 (U61–U62): the interlocutor reads PR #121, a revised proposal and a hierarchy of theses](2026-10.md#session-of-2026-10-10-22332239-u61u62-the-interlocutor-reads-pr-121-a-revised-proposal-and-a-hierarchy-of-theses)
+- [10 Oct 16:01 — Session of 2026-10-10, the record's replies: the audit's 34 objections refuted, reconciled, repaired or conceded](2026-10.md#session-of-2026-10-10-the-records-replies-the-audits-34-objections-refuted-reconciled-repaired-or-conceded)
 - [10 Oct 04:04 — Session of 2026-10-10, 03:12–03:26 (U57–U60): factorization as a laboratory, the prior-art retraction, and the October proposal; the U40–U60 reconstruction closed](2026-10.md#session-of-2026-10-10-03120326-u57u60-factorization-as-a-laboratory-the-prior-art-retraction-and-the-october-proposal-the-u40u60-reconstruction-closed)
 - [10 Oct 04:04 — Session of 2026-10-10, 02:01–02:52 (U49–U56): outline v7, FID, structural realism and characters, and the second crystallized argument](2026-10.md#session-of-2026-10-10-02010252-u49u56-outline-v7-fid-structural-realism-and-characters-and-the-second-crystallized-argument)
 - [10 Oct 04:04 — Session of 2026-10-10, 00:37–01:15 (U43–U48): the state of the argument, tropes, Yoneda, relativity, and a filing proposal](2026-10.md#session-of-2026-10-10-00370115-u43u48-the-state-of-the-argument-tropes-yoneda-relativity-and-a-filing-proposal)
@@ -47,8 +51,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-38 entries across 1 book, newest first.
+42 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 38 | 2026-10-07 | 2026-10-12 |
+| [2026-10](2026-10.md) | 42 | 2026-10-07 | 2026-10-12 |

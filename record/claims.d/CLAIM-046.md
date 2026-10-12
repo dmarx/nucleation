@@ -27,11 +27,11 @@ summary: >-
   primitive, and latents are validated by prediction (§2–3).
 supports:
 - CLAIM-142
-- CLAIM-tmp6r6t6
-- CLAIM-tmpsxsr8
-- CLAIM-tmpvmzx9
+- CLAIM-206
+- CLAIM-247
+- CLAIM-253
 complements:
-- CLAIM-tmpawn12
+- CLAIM-217
 ---
 <!-- ref::uses-file: TERM-033 — stated in "fidelity, as observational equivalence over response trajectories"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-008 — Superseded; replaced, and cited as the history this entry answers or replaces -->

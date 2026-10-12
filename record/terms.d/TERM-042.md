@@ -24,7 +24,7 @@ used_by:
 - CLAIM-044
 - CLAIM-131
 - CLAIM-133
-- CLAIM-tmpsxsr8
+- CLAIM-247
 ---
 <!-- inactive-ok-file: TERM-002 — Superseded; replaced by this entry, and cited as the history it corrects -->
 <!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->

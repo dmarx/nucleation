@@ -9,13 +9,13 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmplkh2i, CLAIM-tmpbvk4j and
-    CLAIM-tmprwo1c. Version 1's 'always carries' could not be
+    Restated on 2026-10-10 after CLAIM-238, CLAIM-219 and
+    CLAIM-245. Version 1's 'always carries' could not be
     established by a study, and read of exact preservation it holds by
     definition, since global compatibility is a function of the local
     tables. The restatement concerns steps that keep most contexts, and
-    allows for signalling and for coding (CLAIM-tmprwo1c).
-    CLAIM-tmpbvk4j is conceded; CLAIM-tmp1rlu5 states the form the data
+    allows for signalling and for coding (CLAIM-245).
+    CLAIM-219 is conceded; CLAIM-201 states the form the data
     leave open. The manuscript's text quoted below is unchanged. Version
     1's condition read: "Across reconstruction chains, preservation of
     the context-wise judgement distributions always carries preservation
@@ -53,13 +53,13 @@ summary: >-
 illustrated_by:
 - CASE-037
 objected_by:
-- CLAIM-tmpbvk4j
-- CLAIM-tmpji66i
-- CLAIM-tmplkh2i
+- CLAIM-219
+- CLAIM-235
+- CLAIM-238
 complements:
-- CLAIM-tmp1rlu5
+- CLAIM-201
 ---
-<!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the narrowing of the headline after the audit, cited in the history -->
+<!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline after the audit, cited in the history -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -138,8 +138,8 @@ crystallized argument (A203) and from the October outline (A218).
 
 ## Note of 2026-10-10: a documented case
 
-[CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md), this headline's narrowing to a change of cover, now has a
-documented case, [CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md): Hafez's "Shirazi Turk", whose ungendered
+[CLAIM-201](CLAIM-201.md), this headline's narrowing to a change of cover, now has a
+documented case, [CASE-072](../cases.d/CASE-072.md): Hafez's "Shirazi Turk", whose ungendered
 beloved four English translators render as a maid, as God and as a boy.
 It shows a rendering deciding what the source left open, on the question
 of who is addressed. It supplies nothing for this entry's own form, a
@@ -149,7 +149,7 @@ evidence is translators' and scholars', not readers' agreement.
 
 ## Note of 2026-10-10: a documented case
 
-[CASE-tmp0st1e](../cases.d/CASE-tmp0st1e.md), found by a search the owner asked for, collects the
+[CASE-053](../cases.d/CASE-053.md), found by a search the owner asked for, collects the
 documented tests of contextuality on elicited human judgements. It supplies
 the evidence that this headline's fixed-scenario form still lacks a case:
 no study of pragmatic or meaning judgements finds contextuality proper at an
@@ -163,4 +163,4 @@ not supply a contextual model for this entry, and it does not show that
 none exists: what it documents is that the adequate test has not been
 run. A powered rerun of Lo et al.'s design, under CbD, is what would
 decide the fixed-scenario form, and could be the contextuality arm of
-[CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md).
+[CASE-055](../cases.d/CASE-055.md).

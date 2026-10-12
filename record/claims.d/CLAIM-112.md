@@ -17,7 +17,7 @@ summary: >-
   question is "neither whether a translation duplicates an invariant
   semantic substance nor whether all meanings are endlessly fluid".
 supports:
-- CLAIM-tmpsxsr8
+- CLAIM-247
 ---
 <!-- inactive-ok-file: CLAIM-046 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

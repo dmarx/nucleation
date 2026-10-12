@@ -18,7 +18,7 @@ summary: >-
 used_by:
 - CLAIM-117
 - CLAIM-055
-- CLAIM-tmpvmzx9
+- CLAIM-253
 ---
 
 # TERM-007: fidelity, as preserving the dynamics of interpretation

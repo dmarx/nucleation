@@ -37,7 +37,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading is its source and bears on it without settling its promote_when -->
 <!-- inactive-ok-file: THEORY-166 — Proposed; this reading is one of its sources -->
-<!-- inactive-ok-file: CLAIM-tmp1rlu5 — Proposed; the narrowing that rests on this reading, cited as open -->
+<!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing that rests on this reading, cited as open -->
 <!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
 
 # NOTE-235: Dzhafarov, Zhang & Kujala, contextuality in behaviour
@@ -190,7 +190,7 @@ physics is reviewed in [LIT-263](../literature.d/LIT-263.md).
 
 ## Note of 2026-10-10: a documented case
 
-[CASE-tmp0st1e](../cases.d/CASE-tmp0st1e.md), found by a search the owner asked for, reads this paper's
+[CASE-053](../cases.d/CASE-053.md), found by a search the owner asked for, reads this paper's
 null beside the later tests of contextuality on elicited human judgements.
 It supplies a scope for the "Key insight" sentence "Behavioural data have
 plenty of the first and, so far, none of the second". That "none" is out of
@@ -207,5 +207,5 @@ judgements, and Lo, Sadrzadeh and Mansfield's Winograd schemas (2023), the
 one pragmatic test, violate by 0.192 ± 0.176. The case does not change this
 reading's results, which concern the paper's own data sets, and it does
 not show that pragmatic judgements are noncontextual: no adequately
-powered pragmatic test has been run. [CLAIM-tmp1rlu5](../claims.d/CLAIM-tmp1rlu5.md)'s concession rests on
+powered pragmatic test has been run. [CLAIM-201](../claims.d/CLAIM-201.md)'s concession rests on
 this sentence and survives the rescoping.

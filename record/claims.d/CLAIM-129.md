@@ -9,11 +9,11 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmp3lv11: naturally occurring
+    Restated on 2026-10-10 after CLAIM-203: naturally occurring
     items added, so that the act is not only the item writers', and a
     margin. Topic-only factorization stays the comparator, since the
     claim is about factorizations of a relation family; the strong
-    text-model rival is in CLAIM-tmp3wo5j. Version 1's condition read:
+    text-model rival is in CLAIM-204. Version 1's condition read:
     "On held-out, correlation-breaking items of a design that crosses
     topic with act (CASE-040), a topic-only factorization of lexical
     co-occurrence recovers the act distinction as well as factorizations
@@ -54,9 +54,9 @@ summary: >-
 illustrated_by:
 - CASE-040
 objected_by:
-- CLAIM-tmp3lv11
+- CLAIM-203
 ---
-<!-- inactive-ok-file: CLAIM-tmp3wo5j — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
+<!-- inactive-ok-file: CLAIM-204 — Proposed; the revised October thesis, cited in the history as where the strong text-model rival is placed -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-142 — Proposed; open, and cited as the claims this one stands on, under test, not settled -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the thesis this claim complements -->
 

@@ -9,11 +9,11 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmp6r6t6: version 1 ("a finite
+    Restated on 2026-10-10 after CLAIM-206: version 1 ("a finite
     probe family fixed in advance separates every pair of realizations
     that judges distinguish, on held-out realizations") was met trivially
     by a one-probe family that asks the judges whether two realizations
-    are the same act. The judges are the criterion (CLAIM-tmpawn12), not
+    are the same act. The judges are the criterion (CLAIM-217), not
     a probe, so version 2 excludes probes that elicit or are fitted to
     their verdicts. The claim and its body are unchanged.
 role: thesis
@@ -35,15 +35,15 @@ rests_on:
 grounds:
 - THEORY-032
 - LIT-221
-- CASE-tmpt7tsv
+- CASE-070
 uses:
 - TERM-014
 complements:
 - CLAIM-050
 - CLAIM-149
-- CLAIM-tmpawn12
-- CLAIM-tmp7gigk
-- CLAIM-tmp9fsmf
+- CLAIM-217
+- CLAIM-209
+- CLAIM-213
 summary: >-
   It began at the owner's U45 pointer to Yoneda, and A158 §5 gave it
   its first form. A173, A178 §3.2, A184 §2, A203 §§8 and 14, A214 §3
@@ -59,16 +59,16 @@ supports:
 - CLAIM-129
 - CLAIM-133
 - CLAIM-139
-- CLAIM-tmp3wo5j
+- CLAIM-204
 - CLAIM-187
 - CLAIM-190
 - CLAIM-193
 objected_by:
-- CLAIM-tmp6r6t6
+- CLAIM-206
 ---
 <!-- inactive-ok-file: CLAIM-046 CLAIM-050 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->
-<!-- inactive-ok-file: CLAIM-tmp6r6t6 CLAIM-tmpawn12 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->
+<!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->
 
 # CLAIM-142: Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
 

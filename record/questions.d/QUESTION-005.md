@@ -20,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-143 CLAIM-149 THEORY-175 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-tmp95pjv CLAIM-tmpcq79k — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-212 CLAIM-224 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-005: How can corresponding communicative environments and responses be operationalized without building the preferred notion of fidelity into the measurement procedure?
 
@@ -65,10 +65,10 @@ says; none has yet been assessed as an answer, and none is linked by
 
 The note of 2026-10-11 lists material as unassessed and names none of PR
 [#121](https://github.com/dmarx/nucleation/issues/121)'s entries. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 engaged this question in
-several. [CLAIM-tmp95pjv](../claims.d/CLAIM-tmp95pjv.md), a proposal, says that for report tasks "the task
+several. [CLAIM-212](../claims.d/CLAIM-212.md), a proposal, says that for report tasks "the task
 correspondence is the identity", so the question stays open for
-re-performance. [CLAIM-tmpcq79k](../claims.d/CLAIM-tmpcq79k.md), an open objection, says that under
+re-performance. [CLAIM-224](../claims.d/CLAIM-224.md), an open objection, says that under
 [CLAIM-151](../claims.d/CLAIM-151.md) this question "changes kind": the correspondence becomes part of
-what the act is. [CASE-tmpbwzkh](../cases.d/CASE-tmpbwzkh.md) documents a correspondence of situations
-fixed by an adapter's fiat. [CLAIM-tmplycte](../claims.d/CLAIM-tmplycte.md) says that an argued negative
+what the act is. [CASE-063](../cases.d/CASE-063.md) documents a correspondence of situations
+fixed by an adapter's fiat. [CLAIM-239](../claims.d/CLAIM-239.md) says that an argued negative
 answer to this question would meet [CLAIM-143](../claims.d/CLAIM-143.md)'s second disjunct.

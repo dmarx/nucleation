@@ -6,8 +6,8 @@
 
 **Metaphysics** — what exists and what it is to exist — causation, emergence and levels, laws, time — as a philosophical question (group: philosophy).
 
-0 of 52 CASE documents. Back to the [full index](../README.md).
+1 of 73 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-060](../../../record/cases.d/CASE-060.md) | Two identical unnumbered ballots in one tally: two votes that no relation in the structure of the vote tells apart | Constructed: two voters each put a single cross for the same candidate on identical, unnumbered ballot papers in one box, and both are counted. Within the relations that make a paper a vote, each bears the same relations to everything and none to the other, so they are not even weakly discernible, yet the count is two. Anchored on a documented norm that voids any paper marked so that the voter can be identified (UK RPA 1983, Sch. 1, r. 47(1)(c)). It forces the choice between [CLAIM-136](../../../record/claims.d/CLAIM-136.md)'s strict and weak versions, and bears on [CLAIM-138](../../../record/claims.d/CLAIM-138.md). | Active |

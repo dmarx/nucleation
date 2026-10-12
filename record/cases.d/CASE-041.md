@@ -27,7 +27,7 @@ summary: >-
 supports:
 - CLAIM-149
 variants:
-- CASE-tmpt860v
+- CASE-071
 ---
 <!-- inactive-ok-file: CLAIM-149 CLAIM-142 CLAIM-005 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

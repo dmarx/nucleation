@@ -61,9 +61,9 @@ says; none has yet been assessed as an answer, and none is linked by
 ## Note of 2026-10-12: two listed titles were scoped on 2026-10-10
 
 PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 scoped two of the entries listed above.
-[CLAIM-tmpz7og0](../claims.d/CLAIM-tmpz7og0.md), granted, shows that [CLAIM-098](../claims.d/CLAIM-098.md)'s "category or semigroup"
+[CLAIM-260](../claims.d/CLAIM-260.md), granted, shows that [CLAIM-098](../claims.d/CLAIM-098.md)'s "category or semigroup"
 holds for approximate transports only if the distortion obeys a triangle
-inequality and later kernels are nonexpansive. [CLAIM-tmprwo1c](../claims.d/CLAIM-tmprwo1c.md), granted,
+inequality and later kernels are nonexpansive. [CLAIM-245](../claims.d/CLAIM-245.md), granted,
 shows that under Contextuality-by-Default a deterministic recoding can
 create or remove contextuality once the source signals. It notes that
 [THEORY-174](../theory.d/THEORY-174.md), whose title says simulations "never create contextuality", is

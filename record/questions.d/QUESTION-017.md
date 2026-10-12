@@ -18,9 +18,9 @@ summary: >-
   tension was never resolved; the manuscript states its recursion "in
   the chosen metric".
 answered_by:
-- CLAIM-tmpz7og0
+- CLAIM-260
 refined_by:
-- QUESTION-tmpg57wu
+- QUESTION-074
 ---
 <!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 THEORY-161 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -70,7 +70,7 @@ says; none has yet been assessed as an answer, and none is linked by
 
 ## Note of 2026-10-12: a partial answer filed on 2026-10-10
 
-[CLAIM-tmpz7og0](../claims.d/CLAIM-tmpz7og0.md), granted in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now linked as a partial answer. It
+[CLAIM-260](../claims.d/CLAIM-260.md), granted in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now linked as a partial answer. It
 shows that the composite of an ε₁-transport and an ε₂-transport is an (ε₁
 + ε₂)-transport when the distortion obeys a triangle inequality and the
 later kernel is nonexpansive, and that in total variation both hold.

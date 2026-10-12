@@ -28,8 +28,8 @@ supports:
 - CLAIM-143
 - CLAIM-145
 - CLAIM-149
-- CLAIM-tmpt76qw
-- CLAIM-tmpeqvy4
+- CLAIM-249
+- CLAIM-228
 illustrated_by:
 - CASE-041
 ---

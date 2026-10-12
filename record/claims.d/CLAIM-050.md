@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmpdt857 and CLAIM-tmpflbi3.
+    Restated on 2026-10-10 after CLAIM-225 and CLAIM-230.
     Version 1's condition read: 'A case where one rendering is a
     garbling of another yet is judged better on every communicative
     task the manuscript names, which would show the Blackwell order is
@@ -17,7 +17,7 @@ history:
     where one rendering is a garbling of another' is not well typed,
     since garbling relates procedures, not texts, and the case it
     describes is met by bounded receivers without touching the order
-    (CLAIM-tmp0jq5k). The scope is report fidelity (CLAIM-tmp95pjv).
+    (CLAIM-199). The scope is report fidelity (CLAIM-212).
     The manuscript's text quoted below is unchanged.
 role: thesis
 defeated_if: >-
@@ -56,23 +56,23 @@ supports:
 - CLAIM-126
 - CLAIM-133
 - CLAIM-139
-- CLAIM-tmp3wo5j
-- CLAIM-tmpc1o4m
+- CLAIM-204
+- CLAIM-220
 complements:
 - CLAIM-142
-- CLAIM-tmp0jq5k
-- CLAIM-tmp95pjv
-- CLAIM-tmpz239h
+- CLAIM-199
+- CLAIM-212
+- CLAIM-259
 objected_by:
-- CLAIM-tmpbi9eb
-- CLAIM-tmpdt857
-- CLAIM-tmpflbi3
-- CLAIM-tmpyeik3
+- CLAIM-218
+- CLAIM-225
+- CLAIM-230
+- CLAIM-258
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: THEORY-161 — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-051 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-tmp0jq5k CLAIM-tmp95pjv — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
+<!-- inactive-ok-file: CLAIM-199 CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
 # CLAIM-050: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
 

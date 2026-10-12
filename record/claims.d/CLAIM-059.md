@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmp6zbr9: the metric and the
+    Restated on 2026-10-10 after CLAIM-208: the metric and the
     estimation of the sensitivities are fixed before the data. Version
     1's condition read: 'Measured per-generation sensitivity of real
     reconstruction chains shows no difference between conditions that
@@ -34,7 +34,7 @@ summary: >-
   that κ ≤ 1 in total variation; the taxonomy and its third experiment's
   test were dropped.
 objected_by:
-- CLAIM-tmp6zbr9
+- CLAIM-208
 ---
 <!-- inactive-ok-file: CLAIM-049 CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

@@ -22,7 +22,7 @@ refined_by:
 ---
 <!-- inactive-ok-file: CLAIM-081 CLAIM-182 THEORY-155 THEORY-157 THEORY-194 THEORY-198 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-050 CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-tmp0jq5k CLAIM-tmpyeik3 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-199 CLAIM-258 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-016: Under what conditions does iterated reconstruction preserve, or progressively destroy, task-relative sufficiency?
 
@@ -70,12 +70,12 @@ thereby used unless it is addressable.
 
 The note of 2026-10-11 lists material as unassessed. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of
 2026-10-10 filed three entries on the part this question holds open,
-interpreters with side information. [CLAIM-tmp0jq5k](../claims.d/CLAIM-tmp0jq5k.md), a proposal, separates
+interpreters with side information. [CLAIM-199](../claims.d/CLAIM-199.md), a proposal, separates
 what a rendering makes possible from what a given receiver can use, and
 holds that a garbling can raise a receiver's usable information "but never
-above what the source makes possible". [CLAIM-tmpyeik3](../claims.d/CLAIM-tmpyeik3.md), an open counter,
+above what the source makes possible". [CLAIM-258](../claims.d/CLAIM-258.md), an open counter,
 says a translator with context knowledge yields a rendering that is not a
 garbling of the source, and suggests handling the side-information case by
 a measure such as deficiency rather than by Blackwell's order.
-[CLAIM-tmpkf8pe](../claims.d/CLAIM-tmpkf8pe.md), granted, says that for a contextual model what is open is
+[CLAIM-237](../claims.d/CLAIM-237.md), granted, says that for a contextual model what is open is
 the converse direction or a deficiency bound. None is linked by `answers`.

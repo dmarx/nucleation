@@ -24,11 +24,11 @@ summary: >-
   transformations but not the three relations.
 complements:
 - CLAIM-147
-- CLAIM-tmp7qr7y
+- CLAIM-210
 illustrated_by:
 - CASE-038
 supports:
-- CLAIM-tmps7va1
+- CLAIM-246
 - CLAIM-191
 ---
 

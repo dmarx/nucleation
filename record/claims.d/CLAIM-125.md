@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmprwo1c, CLAIM-tmpkf8pe and
-    CLAIM-tmpji66i: part 1 posed on menus of experiments, part 2 given
+    Restated on 2026-10-10 after CLAIM-245, CLAIM-237 and
+    CLAIM-235: part 1 posed on menus of experiments, part 2 given
     its monotone quantity, and the signalling evidence re-grounded.
     Version 1's condition read: 'An existing framework characterizes,
     for stochastic maps between empirical models with different
@@ -54,10 +54,10 @@ complements:
 - CLAIM-126
 - CLAIM-127
 objected_by:
-- CLAIM-tmp6xxbf
-- CLAIM-tmpji66i
-- CLAIM-tmpkf8pe
-- CLAIM-tmprwo1c
+- CLAIM-207
+- CLAIM-235
+- CLAIM-237
+- CLAIM-245
 ---
 <!-- inactive-ok-file: THEORY-174 THEORY-156 THEORY-177 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-001 — Proposed; open, and cited as the objection the superseded claim drew -->
@@ -100,7 +100,7 @@ Two parts remain open, and they are this claim:
    change of cover. When a classical or contextual transport preserves that
    order is not addressed.
 
-   Restated on 2026-10-10 ([CLAIM-tmpkf8pe](CLAIM-tmpkf8pe.md)): Decision-relevant information.
+   Restated on 2026-10-10 ([CLAIM-237](CLAIM-237.md)): Decision-relevant information.
    Posed for families of models indexed by situations, each context an
    experiment and the model a menu of them. Under the menu order the
    preservation direction holds automatically for state-independent
@@ -112,7 +112,7 @@ Two parts remain open, and they are this claim:
    inconsistently connected systems within one scenario, but not transport
    between scenarios.
 
-   Added on 2026-10-10 ([CLAIM-tmprwo1c](CLAIM-tmprwo1c.md)): Per-content signalling is not
+   Added on 2026-10-10 ([CLAIM-245](CLAIM-245.md)): Per-content signalling is not
    monotone under context-wise recodings, and CbD contextuality can be
    created or removed by them; the quantity a transport can be asked to
    bound is the joint overlap discrepancy, which one kernel cannot raise.
@@ -147,7 +147,7 @@ noun–verb systems from corpus data:
 The counts suggest that signalling is common in these corpus data.
 (Version 1 read: "So for language data signalling is the typical case, not
 an edge case, and an extension to signalling data is not optional.") The
-counts are weak evidence ([CLAIM-tmpji66i](CLAIM-tmpji66i.md)): 51 of the 90 systems have Δ of
+counts are weak evidence ([CLAIM-235](CLAIM-235.md)): 51 of the 90 systems have Δ of
 0, 2 or 4, and with one occurrence per context a system with no signalling
 gives Δ̂ of 0, 2 or 4 with expectation 2. The conclusion that an extension
 to signalling data is not optional rests instead on the reading of [LIT-264](../literature.d/LIT-264.md)

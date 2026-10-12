@@ -21,9 +21,9 @@ supports:
 - CLAIM-061
 - CLAIM-091
 - CLAIM-151
-- CLAIM-tmpc25sn
-- CLAIM-tmpcq79k
-- CLAIM-tmpfe37n
+- CLAIM-221
+- CLAIM-224
+- CLAIM-229
 ---
 <!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-091 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -61,18 +61,18 @@ this case with its literary source removed.
 
 ## Note of 2026-10-10: the replies
 
-"What it can show" is corrected ([CLAIM-tmpfe37n](../claims.d/CLAIM-tmpfe37n.md)): the same words with
+"What it can show" is corrected ([CLAIM-229](../claims.d/CLAIM-229.md)): the same words with
 different acts show that the proposition is not sufficient for the act, not
 that it is not necessary. The text above is unchanged.
 
 ## Note of 2026-10-10: a documented case
 
 The necessity half this case was filed for now has its own case,
-[CASE-tmp25bmx](CASE-tmp25bmx.md): Phillips's "hearty handshake all round" for Paul's "holy
+[CASE-056](CASE-056.md): Phillips's "hearty handshake all round" for Paul's "holy
 kiss", a published rendering that changes the proposition and that Nida
 judged to keep the greeting. It does not fill this case's role as
 corrected above: this case remains words held fixed, a sufficiency case.
-[CASE-tmp25bmx](CASE-tmp25bmx.md) gives the sufficiency half a documented companion from the
+[CASE-056](CASE-056.md) gives the sufficiency half a documented companion from the
 same handbooks: a literal "kiss" read where kissing is amorous. That is the
 same proposition with a different act, which this case shows only by
 invention. Neither case has reader evidence.

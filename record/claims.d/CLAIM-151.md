@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmpfe37n, CLAIM-tmpcq79k and
-    CLAIM-tmpc25sn. 'Participants' becomes 'participant roles',
+    Restated on 2026-10-10 after CLAIM-229, CLAIM-224 and
+    CLAIM-221. 'Participants' becomes 'participant roles',
     TERM-040's positions, so a new audience in the same role keeps the
     constituent. Version 1's condition asked a rival to predict
     CASE-018's invented variation and waited on 'a held account'. It is
@@ -45,13 +45,13 @@ rests_on:
 grounds:
 - CASE-018
 - LIT-482
-- CASE-tmpq8ynx
+- CASE-069
 complements:
 - CLAIM-130
 - CLAIM-150
-- CLAIM-tmpa9usi
+- CLAIM-215
 - CLAIM-160
-- CLAIM-tmpwi9o5
+- CLAIM-255
 uses:
 - TERM-038
 - TERM-040
@@ -66,15 +66,15 @@ summary: >-
 supports:
 - CLAIM-137
 - CLAIM-139
-- CLAIM-tmpdwfva
-- CLAIM-tmp3wo5j
-- CLAIM-tmpawn12
+- CLAIM-226
+- CLAIM-204
+- CLAIM-217
 objected_by:
-- CLAIM-tmpc25sn
-- CLAIM-tmpcq79k
-- CLAIM-tmpfe37n
+- CLAIM-221
+- CLAIM-224
+- CLAIM-229
 ---
-<!-- inactive-ok-file: CLAIM-tmpcq79k CLAIM-tmpc25sn — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
+<!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the open objections the version 2 restatement answers in part, cited in the history -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-061 CLAIM-130 CLAIM-115 — Proposed; the claims this one rests on, sits beside or leaves unrevised, cited as open, not settled -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the dilemma whose intrinsic horn "partly" takes, not as settled -->
 <!-- inactive-ok-file: CLAIM-055 — Superseded; cited as the earlier appearance of the wording "partly constituted" -->
@@ -122,7 +122,7 @@ manuscript already takes that position "without saying so".
 - It does not say every communicative property is relational. It says
   "partly".
 - It does not say that teasing is constituted by relations. That is
-  [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md), and until it is answered the claim's "can change the
+  [QUESTION-073](../questions.d/QUESTION-073.md), and until it is answered the claim's "can change the
   act" is carried by acts with standing conditions.
 - It does not say utterances, speakers or audiences do not exist. It is a
   thesis about social acts, not about fundamental ontology. A191 §2: "We do

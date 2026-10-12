@@ -43,7 +43,7 @@ summary: >-
   without a global hidden meaning state."
 supports:
 - CLAIM-105
-- CLAIM-tmpsxsr8
+- CLAIM-247
 complements:
 - CLAIM-043
 - CLAIM-131

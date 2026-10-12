@@ -29,7 +29,7 @@ grounds:
 complements:
 - CLAIM-136
 - CLAIM-150
-- CLAIM-tmp7qr7y
+- CLAIM-210
 uses:
 - TERM-041
 - TERM-040
@@ -43,10 +43,10 @@ summary: >-
   to "may be better guides to its kind".
 objected_by:
 - CLAIM-132
-- CLAIM-tmps7va1
-- CLAIM-tmpt76qw
+- CLAIM-246
+- CLAIM-249
 illustrated_by:
-- CASE-tmp4iy8h
+- CASE-057
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-136 — Proposed; the constitution claim this rests on and the individuation claim beside it, both open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; cited as the manuscript's thesis, which this does not replace -->
@@ -139,7 +139,7 @@ invariant, and the step from priority to "guides" is not argued.
 
 ## Note of 2026-10-10: the replies
 
-After [CLAIM-tmpt76qw](CLAIM-tmpt76qw.md): comparing characters across media needs one group G
+After [CLAIM-249](CLAIM-249.md): comparing characters across media needs one group G
 identified on both. G is anchored if it acts on the situation ([CLAIM-132](CLAIM-132.md)'s
 swap of participants) and each medium's action is induced from that
 action, so each g is named by what it does to the situation; this is

@@ -28,10 +28,10 @@ supports:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-147
-- CLAIM-tmp6xxbf
-- CLAIM-tmp3wo5j
+- CLAIM-207
+- CLAIM-204
 objected_by:
-- CLAIM-tmplkh2i
+- CLAIM-238
 ---
 <!-- inactive-ok-file: CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

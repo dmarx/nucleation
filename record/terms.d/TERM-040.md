@@ -10,10 +10,10 @@ history:
   date: '2026-10-10'
   note: >-
     The "What it is not" bullet on observational classes corrected on
-    2026-10-10 (CLAIM-tmp6r6t6, CLAIM-tmpsxsr8): version 1 read "Not an
+    2026-10-10 (CLAIM-206, CLAIM-247): version 1 read "Not an
     observational class (TERM-014). ... An equivalence class relative to
     a family of measurements cannot be", which holds only of the same
-    family. Version 2 says so, and points to CLAIM-tmpawn12 for the
+    family. Version 2 says so, and points to CLAIM-217 for the
     family that may be sufficient. The definition is unchanged, and
     A218's quoted words are kept as they were.
 tags:
@@ -35,19 +35,19 @@ used_by:
 - CLAIM-137
 - CLAIM-139
 - CLAIM-151
-- CLAIM-tmp6r6t6
-- CLAIM-tmpcq79k
-- CLAIM-tmpsxsr8
-- CLAIM-tmp3wo5j
-- CLAIM-tmp7qr7y
-- CLAIM-tmpawn12
-- CLAIM-tmpa9usi
+- CLAIM-206
+- CLAIM-224
+- CLAIM-247
+- CLAIM-204
+- CLAIM-210
+- CLAIM-217
+- CLAIM-215
 - CLAIM-129
 - CLAIM-146
 - CLAIM-148
 ---
-<!-- inactive-ok-file: CLAIM-tmpwi9o5 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
-<!-- inactive-ok-file: CLAIM-tmpawn12 CLAIM-tmp6r6t6 — Proposed; the record's reply of 2026-10-10 that this version points to, and the objection that prompted it, both open -->
+<!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
+<!-- inactive-ok-file: CLAIM-217 CLAIM-206 — Proposed; the record's reply of 2026-10-10 that this version points to, and the objection that prompted it, both open -->
 
 # TERM-040: communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position
 
@@ -90,7 +90,7 @@ single invariant signature to solve two different individuation problems."
   while remaining indistinguishable under an insufficient family of empirical
   probes." An equivalence class relative to a family cannot be unseparated by
   that same family. It can be by a coarser one, so a kind may coincide with
-  the observational class of a sufficient family; [CLAIM-tmpawn12](../claims.d/CLAIM-tmpawn12.md) proposes
+  the observational class of a sufficient family; [CLAIM-217](../claims.d/CLAIM-217.md) proposes
   competent participants' uptake as that family.
 - Not a position. A kind has positions; it is not one.
 - Not a token. A translation and its source are two events of one kind, not
@@ -103,4 +103,4 @@ makes two such systems the same kind is the open part.
 
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
-The interlocutor's reading of 2026-10-12 decomposes the communicative process into production, social constitution, interpretation and operational recovery, and says the record's vocabulary of identity "appears at every level, but with different referents". This term separates kind, position and token, and has no slot for intended meaning at production. [CLAIM-tmpwi9o5](../claims.d/CLAIM-tmpwi9o5.md) files the reading's split. Recorded as advice; the term is unchanged.
+The interlocutor's reading of 2026-10-12 decomposes the communicative process into production, social constitution, interpretation and operational recovery, and says the record's vocabulary of identity "appears at every level, but with different referents". This term separates kind, position and token, and has no slot for intended meaning at production. [CLAIM-255](../claims.d/CLAIM-255.md) files the reading's split. Recorded as advice; the term is unchanged.

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**318 documents cited without acknowledgement.** Not listed: 4874 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**317 documents cited without acknowledgement.** Not listed: 6057 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -263,7 +263,7 @@ What a regularized linear readout can decode from a representation is a function
 15 citations in 11 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-193.md:33`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:52`](../../record/claims.d/CLAIM-193.md)
+- [`record/claims.d/CLAIM-193.md:55`](../../record/claims.d/CLAIM-193.md)
 - [`record/literature.d/LIT-262.md:71`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-262.md:78`](../../record/literature.d/LIT-262.md)
 - [`record/literature.d/LIT-269.md:81`](../../record/literature.d/LIT-269.md)
@@ -384,7 +384,7 @@ Convergence of representations, in the Platonic hypothesis's sense, is convergen
 12 citations in 4 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-193.md:34`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:58`](../../record/claims.d/CLAIM-193.md)
+- [`record/claims.d/CLAIM-193.md:61`](../../record/claims.d/CLAIM-193.md)
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-286.md:133`](../../record/notes.d/NOTE-286.md)
@@ -595,38 +595,6 @@ Detection, Estimation, and Modulation Theory, Part I
 - [`record/notes.d/NOTE-315.md:147`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
-### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
-
-Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
-
-9 citations in 7 files await a look.
-
-- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:206`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-251.md:235`](../../record/notes.d/NOTE-251.md)
-- [`record/notes.d/NOTE-252.md:206`](../../record/notes.d/NOTE-252.md)
-- [`record/notes.d/NOTE-253.md:225`](../../record/notes.d/NOTE-253.md)
-- [`record/notes.d/NOTE-279.md:116`](../../record/notes.d/NOTE-279.md)
-- [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:39`](../../record/questions.d/QUESTION-067.md)
-
-### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
-
-Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
-
-9 citations in 5 files await a look; 27 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-193.md:36`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:63`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:78`](../../record/claims.d/CLAIM-193.md)
-- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
-- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
-- [`record/theory.d/THEORY-022.md:138`](../../record/theory.d/THEORY-022.md)
-
 ### [THEORY-030](../../record/theory.d/THEORY-030.md) — Proposed
 
 Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
@@ -642,21 +610,6 @@ Landauer's principle prices only logically irreversible steps, and prices them i
 - [`record/notes.d/NOTE-322.md:199`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
 - [`record/theory.d/THEORY-026.md:65`](../../record/theory.d/THEORY-026.md)
-
-### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
-
-Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
-
-8 citations in 5 files await a look; 11 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-187.md:77`](../../record/claims.d/CLAIM-187.md)
-- [`record/claims.d/CLAIM-190.md:49`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-193.md:46`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:68`](../../record/claims.d/CLAIM-193.md)
-- [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:34`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-069.md:23`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:36`](../../record/questions.d/QUESTION-069.md)
 
 ### [CLAIM-174](../../record/claims.d/CLAIM-174.md) — Proposed
 
@@ -785,13 +738,13 @@ Cumulative cultural evolution in the laboratory
 8 citations in 6 files await a look.
 
 - [`record/claims.d/CLAIM-066.md:25`](../../record/claims.d/CLAIM-066.md)
-- [`record/literature.d/LIT-768.md:85`](../../record/literature.d/LIT-768.md)
+- [`record/literature.d/LIT-768.md:86`](../../record/literature.d/LIT-768.md)
 - [`record/literature.d/LIT-769.md:90`](../../record/literature.d/LIT-769.md)
 - [`record/literature.d/LIT-771.md:6`](../../record/literature.d/LIT-771.md)
 - [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
 - [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
 - [`record/notes.d/NOTE-599.md:182`](../../record/notes.d/NOTE-599.md)
-- [`record/theory.d/THEORY-155.md:51`](../../record/theory.d/THEORY-155.md)
+- [`record/theory.d/THEORY-155.md:52`](../../record/theory.d/THEORY-155.md)
 
 ### [CLAIM-025](../../record/claims.d/CLAIM-025.md) — Proposed
 
@@ -813,7 +766,7 @@ Will-organization is not one more higher-order preference: changing the conditio
 
 7 citations in 4 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/claims.d/CLAIM-192.md:68`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:69`](../../record/claims.d/CLAIM-192.md)
 - [`record/questions.d/QUESTION-056.md:17`](../../record/questions.d/QUESTION-056.md)
 - [`record/questions.d/QUESTION-056.md:30`](../../record/questions.d/QUESTION-056.md)
 - [`record/questions.d/QUESTION-062.md:22`](../../record/questions.d/QUESTION-062.md)
@@ -863,6 +816,20 @@ Analysis of Boolean Functions
 - [`record/theory.d/THEORY-019.md:98`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:101`](../../record/theory.d/THEORY-019.md)
 
+### [THEORY-015](../../record/theory.d/THEORY-015.md) — Proposed
+
+Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
+
+7 citations in 6 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-250.md:206`](../../record/notes.d/NOTE-250.md)
+- [`record/notes.d/NOTE-251.md:235`](../../record/notes.d/NOTE-251.md)
+- [`record/notes.d/NOTE-252.md:206`](../../record/notes.d/NOTE-252.md)
+- [`record/notes.d/NOTE-253.md:225`](../../record/notes.d/NOTE-253.md)
+- [`record/notes.d/NOTE-279.md:116`](../../record/notes.d/NOTE-279.md)
+
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
 A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
@@ -905,18 +872,18 @@ A corporation that forms its judgments through authorised avowal and corrects th
 - [`record/questions.d/QUESTION-070.md:53`](../../record/questions.d/QUESTION-070.md)
 - [`record/questions.d/QUESTION-070.md:67`](../../record/questions.d/QUESTION-070.md)
 
-### [CLAIM-115](../../record/claims.d/CLAIM-115.md) — Proposed
+### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
 
-What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
+Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
 
-6 citations in 3 files await a look; 38 other citations of it are acknowledged.
+6 citations in 4 files await a look; 38 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-192.md:30`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:49`](../../record/claims.d/CLAIM-192.md)
-- [`record/questions.d/QUESTION-002.md:41`](../../record/questions.d/QUESTION-002.md)
-- [`record/questions.d/QUESTION-050.md:19`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:28`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:32`](../../record/questions.d/QUESTION-050.md)
+- [`record/claims.d/CLAIM-187.md:77`](../../record/claims.d/CLAIM-187.md)
+- [`record/claims.d/CLAIM-190.md:52`](../../record/claims.d/CLAIM-190.md)
+- [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:35`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-069.md:23`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:36`](../../record/questions.d/QUESTION-069.md)
 
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
@@ -1009,15 +976,28 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 - [`record/theory.d/THEORY-019.md:66`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:125`](../../record/theory.d/THEORY-019.md)
 
+### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
+
+Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+
+6 citations in 4 files await a look; 31 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
+- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
+- [`record/theory.d/THEORY-022.md:138`](../../record/theory.d/THEORY-022.md)
+
 ### [THEORY-159](../../record/theory.d/THEORY-159.md) — Proposed
 
 In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value
 
-6 citations in 5 files await a look; 3 other citations of it are acknowledged.
+6 citations in 5 files await a look; 7 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-072.md:38`](../../record/claims.d/CLAIM-072.md)
-- [`record/claims.d/CLAIM-082.md:95`](../../record/claims.d/CLAIM-082.md)
-- [`record/claims.d/CLAIM-082.md:113`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-072.md:41`](../../record/claims.d/CLAIM-072.md)
+- [`record/claims.d/CLAIM-082.md:98`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:116`](../../record/claims.d/CLAIM-082.md)
 - [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
@@ -1029,7 +1009,7 @@ The record fixes the grammar an argument is expressed in, though not its shape: 
 5 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-190.md:25`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-190.md:52`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:55`](../../record/claims.d/CLAIM-190.md)
 - [`record/questions.d/QUESTION-072.md:20`](../../record/questions.d/QUESTION-072.md)
 - [`record/questions.d/QUESTION-072.md:34`](../../record/questions.d/QUESTION-072.md)
 - [`record/questions.d/QUESTION-072.md:61`](../../record/questions.d/QUESTION-072.md)
@@ -1062,13 +1042,13 @@ Zur Theorie der hyperkomplexen Zahlen
 
 Comparison of Statistical Experiments
 
-5 citations in 5 files await a look; 2 other citations of it are acknowledged.
+5 citations in 5 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:57`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:85`](../../record/claims.d/CLAIM-050.md)
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
-- [`record/literature.d/LIT-781.md:91`](../../record/literature.d/LIT-781.md)
+- [`record/literature.d/LIT-781.md:92`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
-- [`record/theory.d/THEORY-156.md:73`](../../record/theory.d/THEORY-156.md)
+- [`record/theory.d/THEORY-156.md:81`](../../record/theory.d/THEORY-156.md)
 
 ### [NOTE-601](../../record/notes.d/NOTE-601.md) — Skimmed
 
@@ -1088,7 +1068,7 @@ Structuralism
 
 5 citations in 2 files await a look.
 
-- [`record/claims.d/CLAIM-098.md:63`](../../record/claims.d/CLAIM-098.md)
+- [`record/claims.d/CLAIM-098.md:67`](../../record/claims.d/CLAIM-098.md)
 - [`record/literature.d/LIT-837.md:6`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:46`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:110`](../../record/literature.d/LIT-837.md)
@@ -1216,23 +1196,34 @@ Which of an agent's available regimes becomes effective depends on maintained re
 
 Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none
 
-4 citations in 2 files await a look; 3 other citations of it are acknowledged.
+4 citations in 2 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-055.md:21`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-055.md:33`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:34`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:35`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-046](../../record/claims.d/CLAIM-046.md) — Proposed
 
 Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed
 
-4 citations in 2 files await a look; 7 other citations of it are acknowledged.
+4 citations in 2 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-050.md:20`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:32`](../../record/questions.d/QUESTION-050.md)
+- [`record/questions.d/QUESTION-050.md:33`](../../record/questions.d/QUESTION-050.md)
 - [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:34`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:35`](../../record/questions.d/QUESTION-067.md)
+
+### [CLAIM-115](../../record/claims.d/CLAIM-115.md) — Proposed
+
+What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition
+
+4 citations in 2 files await a look; 111 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-002.md:45`](../../record/questions.d/QUESTION-002.md)
+- [`record/questions.d/QUESTION-050.md:19`](../../record/questions.d/QUESTION-050.md)
+- [`record/questions.d/QUESTION-050.md:29`](../../record/questions.d/QUESTION-050.md)
+- [`record/questions.d/QUESTION-050.md:33`](../../record/questions.d/QUESTION-050.md)
 
 ### [CLAIM-172](../../record/claims.d/CLAIM-172.md) — Proposed
 
@@ -1252,20 +1243,9 @@ An argument developed with collaborators who keep no memory fails at identity, n
 4 citations in 2 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-192.md:31`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:47`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:75`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:48`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:76`](../../record/claims.d/CLAIM-192.md)
 - [`record/questions.d/QUESTION-072.md:43`](../../record/questions.d/QUESTION-072.md)
-
-### [CLAIM-193](../../record/claims.d/CLAIM-193.md) — Proposed
-
-A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
-
-4 citations in 4 files await a look.
-
-- [`record/claims.d/CLAIM-187.md:78`](../../record/claims.d/CLAIM-187.md)
-- [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
-- [`record/questions.d/QUESTION-052.md:39`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
 
 ### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
 
@@ -1388,17 +1368,6 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 - [`record/notes.d/NOTE-246.md:156`](../../record/notes.d/NOTE-246.md)
 - [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
 
-### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
-
-Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two
-
-4 citations in 3 files await a look.
-
-- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-279.md:117`](../../record/notes.d/NOTE-279.md)
-- [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:38`](../../record/questions.d/QUESTION-067.md)
-
 ### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
 The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
@@ -1502,21 +1471,11 @@ A system can keep its identity independently within a shared environment only if
 
 A communicative object is a context-indexed system of empirical constraints over a cover of contexts, and these need not extend to one globally realizable interpretation
 
-3 citations in 1 file await a look; 16 other citations of it are acknowledged.
+3 citations in 1 file await a look; 22 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-055.md:20`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-055.md:33`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-055.md:43`](../../record/questions.d/QUESTION-055.md)
-
-### [CLAIM-151](../../record/claims.d/CLAIM-151.md) — Proposed
-
-Which communicative act an utterance performs is partly constituted by its relations to participants, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization
-
-3 citations in 1 file await a look; 10 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-050.md:19`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:28`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:32`](../../record/questions.d/QUESTION-050.md)
 
 ### [CLAIM-161](../../record/claims.d/CLAIM-161.md) — Proposed
 
@@ -1544,9 +1503,9 @@ How fast an argument grows sets how it grows: drift tracks how fast new material
 
 3 citations in 2 files await a look; 13 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-190.md:39`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:42`](../../record/claims.d/CLAIM-190.md)
 - [`record/claims.d/CLAIM-192.md:34`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:63`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:64`](../../record/claims.d/CLAIM-192.md)
 
 ### [CLAIM-187](../../record/claims.d/CLAIM-187.md) — Proposed
 
@@ -1567,6 +1526,16 @@ For a candidate structure whose removal makes the remaining model singular, the 
 - [`record/claims.d/CLAIM-154.md:98`](../../record/claims.d/CLAIM-154.md)
 - [`record/questions.d/QUESTION-040.md:21`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-040.md:34`](../../record/questions.d/QUESTION-040.md)
+
+### [CLAIM-193](../../record/claims.d/CLAIM-193.md) — Proposed
+
+A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
+
+3 citations in 3 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-187.md:78`](../../record/claims.d/CLAIM-187.md)
+- [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
+- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
 
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
@@ -1666,7 +1635,7 @@ Maximizing HSIC between representations and image identity maximizes the average
 
 - [`record/notes.d/NOTE-289.md:84`](../../record/notes.d/NOTE-289.md)
 - [`record/questions.d/QUESTION-052.md:26`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:47`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:48`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-006](../../record/theory.d/THEORY-006.md) — Proposed
 
@@ -1676,17 +1645,17 @@ InfoNCE is a lower bound on mutual information for every critic and can never ex
 
 - [`record/notes.d/NOTE-591.md:227`](../../record/notes.d/NOTE-591.md)
 - [`record/questions.d/QUESTION-052.md:27`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:48`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:49`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-009](../../record/theory.d/THEORY-009.md) — Proposed
 
 Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
 
-3 citations in 2 files await a look; 3 other citations of it are acknowledged.
+3 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-289.md:84`](../../record/notes.d/NOTE-289.md)
 - [`record/questions.d/QUESTION-052.md:27`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:45`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:46`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-026](../../record/theory.d/THEORY-026.md) — Proposed
 
@@ -1785,7 +1754,7 @@ Pragmatic judgements may be formally contextual: their context-relative distribu
 2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-067.md:21`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:30`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:31`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-018](../../record/claims.d/CLAIM-018.md) — Proposed
 
@@ -1800,10 +1769,10 @@ Canguilhem's distinction between functioning under a norm and capacity for norm-
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
 
-2 citations in 1 file await a look; 11 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-067.md:21`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:30`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:31`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-089](../../record/claims.d/CLAIM-089.md) — Proposed
 
@@ -1818,16 +1787,16 @@ Northstar simply prefers speed: the governing relations are revealed preferences
 
 Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases
 
-2 citations in 1 file await a look; 7 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:25`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:39`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:40`](../../record/questions.d/QUESTION-052.md)
 
 ### [CLAIM-105](../../record/claims.d/CLAIM-105.md) — Proposed
 
 Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
 
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+2 citations in 1 file await a look; 40 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-236.md:172`](../../record/notes.d/NOTE-236.md)
 - [`record/notes.d/NOTE-236.md:186`](../../record/notes.d/NOTE-236.md)
@@ -1839,7 +1808,7 @@ Context and interpreter are separate sources of interpretive change: in-context 
 2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-050.md:20`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:32`](../../record/questions.d/QUESTION-050.md)
+- [`record/questions.d/QUESTION-050.md:33`](../../record/questions.d/QUESTION-050.md)
 
 ### [CLAIM-119](../../record/claims.d/CLAIM-119.md) — Proposed
 
@@ -1854,7 +1823,7 @@ Communicative categories form a concept lattice rather than a hierarchy: categor
 
 Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most
 
-2 citations in 1 file await a look; 5 other citations of it are acknowledged.
+2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
 - [`record/questions.d/QUESTION-058.md:35`](../../record/questions.d/QUESTION-058.md)
@@ -1863,19 +1832,10 @@ Recovering latent structure from relational data is three achievements, reconstr
 
 A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 30 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:21`](../../record/questions.d/QUESTION-058.md)
 - [`record/questions.d/QUESTION-058.md:35`](../../record/questions.d/QUESTION-058.md)
-
-### [CLAIM-149](../../record/claims.d/CLAIM-149.md) — Proposed
-
-A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it
-
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-190.md:28`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-190.md:42`](../../record/claims.d/CLAIM-190.md)
 
 ### [CLAIM-155](../../record/claims.d/CLAIM-155.md) — Proposed
 
@@ -1901,7 +1861,7 @@ When an agent does the filing, the cost of capturing argument falls on the party
 
 2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-190.md:38`](../../record/claims.d/CLAIM-190.md)
+- [`record/claims.d/CLAIM-190.md:41`](../../record/claims.d/CLAIM-190.md)
 - [`record/questions.d/QUESTION-072.md:58`](../../record/questions.d/QUESTION-072.md)
 
 ### [CLAIM-182](../../record/claims.d/CLAIM-182.md) — Proposed
@@ -2108,7 +2068,7 @@ The rate-distortion function for source coding with side information at the deco
 
 2 citations in 2 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:59`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:87`](../../record/claims.d/CLAIM-050.md)
 - [`record/literature.d/LIT-765.md:77`](../../record/literature.d/LIT-765.md)
 
 ### [LIT-775](../../record/literature.d/LIT-775.md) — Deferred
@@ -2117,7 +2077,7 @@ Structural Anthropology
 
 2 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-082.md:56`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:59`](../../record/claims.d/CLAIM-082.md)
 - [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
 
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
@@ -2127,25 +2087,34 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 2 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:26`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:46`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:47`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-005](../../record/theory.d/THEORY-005.md) — Proposed
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-2 citations in 1 file await a look.
+2 citations in 1 file await a look; 1 other citation of it is acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:26`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:44`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:45`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-007](../../record/theory.d/THEORY-007.md) — Proposed
 
 Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets
 
-2 citations in 1 file await a look; 1 other citation of it is acknowledged.
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:27`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:43`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:44`](../../record/questions.d/QUESTION-052.md)
+
+### [THEORY-011](../../record/theory.d/THEORY-011.md) — Proposed
+
+Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two
+
+2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
+- [`record/notes.d/NOTE-279.md:117`](../../record/notes.d/NOTE-279.md)
 
 ### [THEORY-021](../../record/theory.d/THEORY-021.md) — Proposed
 
@@ -2261,7 +2230,7 @@ A Markov blanket does not individuate a system: where it falls is fixed by model
 
 2 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-152.md:89`](../../record/claims.d/CLAIM-152.md)
+- [`record/claims.d/CLAIM-152.md:91`](../../record/claims.d/CLAIM-152.md)
 - [`record/claims.d/CLAIM-194.md:44`](../../record/claims.d/CLAIM-194.md)
 
 ### [THEORY-074](../../record/theory.d/THEORY-074.md) — Proposed
@@ -2325,7 +2294,7 @@ The content of a mental representation has two factors, a narrow conceptual role
 2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-050.md:20`](../../record/questions.d/QUESTION-050.md)
-- [`record/questions.d/QUESTION-050.md:36`](../../record/questions.d/QUESTION-050.md)
+- [`record/questions.d/QUESTION-050.md:37`](../../record/questions.d/QUESTION-050.md)
 
 ### [THEORY-090](../../record/theory.d/THEORY-090.md) — Proposed
 
@@ -2565,9 +2534,9 @@ Whether an expected tangible reward lowers or raises later intrinsic motivation 
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look; 18 other citations of it are acknowledged.
+2 citations in 2 files await a look; 33 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-781.md:89`](../../record/literature.d/LIT-781.md)
+- [`record/literature.d/LIT-781.md:90`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
 
 ### [THEORY-157](../../record/theory.d/THEORY-157.md) — Proposed
@@ -2596,15 +2565,6 @@ When the causal constraints on events depend on context, deterministic assignmen
 
 - [`record/decisions.d/ADR-035.md:34`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:71`](../../record/decisions.d/ADR-035.md)
-
-### [THEORY-173](../../record/theory.d/THEORY-173.md) — Proposed
-
-Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
-
-2 citations in 1 file await a look; 6 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-068.md:103`](../../record/claims.d/CLAIM-068.md)
-- [`record/claims.d/CLAIM-068.md:111`](../../record/claims.d/CLAIM-068.md)
 
 ### [THEORY-181](../../record/theory.d/THEORY-181.md) — Proposed
 
@@ -2699,7 +2659,7 @@ Affective states can be properties of organized systems, characterized functiona
 
 A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
 
@@ -2715,9 +2675,17 @@ Sheaf-theoretic contextuality has to be extended to directed transport between o
 
 A factorization recovers only the structure visible in the relations it is fitted to, so a topic can survive a transformation that changes the communicative act, and a kind must be tested against probe families chosen for their bearing on the act
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:66`](../../record/claims.d/CLAIM-187.md)
+
+### [CLAIM-139](../../record/claims.d/CLAIM-139.md) — Proposed
+
+A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist
+
+1 citation in 1 file awaits a look; 106 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-152.md:109`](../../record/claims.d/CLAIM-152.md)
 
 ### [CLAIM-158](../../record/claims.d/CLAIM-158.md) — Proposed
 
@@ -2742,6 +2710,14 @@ A gap or coupling criterion cannot tell a boundary a system produces from one im
 1 citation in 1 file awaits a look.
 
 - [`record/questions.d/QUESTION-032.md:70`](../../record/questions.d/QUESTION-032.md)
+
+### [CLAIM-241](../../record/claims.d/CLAIM-241.md) — Proposed
+
+Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-217.md:168`](../../record/claims.d/CLAIM-217.md)
 
 ### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
 
@@ -3067,7 +3043,7 @@ Elements of Information Theory
 
 Le Ton beau de Marot: In Praise of the Music of Language
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-033.md:24`](../../record/decisions.d/ADR-033.md)
 
@@ -3075,15 +3051,15 @@ Le Ton beau de Marot: In Praise of the Music of Language
 
 Remembering: A Study in Experimental and Social Psychology
 
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-090.md:50`](../../record/claims.d/CLAIM-090.md)
+- [`record/claims.d/CLAIM-090.md:52`](../../record/claims.d/CLAIM-090.md)
 
 ### [LIT-780](../../record/literature.d/LIT-780.md) — Deferred
 
 Forms of Talk
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-034.md:29`](../../record/decisions.d/ADR-034.md)
 
@@ -3091,7 +3067,7 @@ Forms of Talk
 
 Translation and Relevance: Cognition and Context
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-033.md:23`](../../record/decisions.d/ADR-033.md)
 
@@ -3099,7 +3075,7 @@ Translation and Relevance: Cognition and Context
 
 How to Do Things with Words
 
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-034.md:28`](../../record/decisions.d/ADR-034.md)
 
@@ -3107,7 +3083,7 @@ How to Do Things with Words
 
 Translation Quality Assessment: Past and Present
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-614.md:165`](../../record/notes.d/NOTE-614.md)
 
@@ -3115,7 +3091,7 @@ Translation Quality Assessment: Past and Present
 
 Toward a Science of Translating: With Special Reference to Principles and Procedures Involved in Bible Translating
 
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-614.md:165`](../../record/notes.d/NOTE-614.md)
 
@@ -3309,7 +3285,7 @@ A group whose judgments on interconnected propositions are robustly rational can
 
 1 citation in 1 file awaits a look; 23 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-192.md:58`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:59`](../../record/claims.d/CLAIM-192.md)
 
 ### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
 
@@ -3355,9 +3331,9 @@ Organizations that espouse revising their governing values characteristically fa
 
 Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior
 
-1 citation in 1 file awaits a look; 25 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 27 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-066.md:41`](../../record/claims.d/CLAIM-066.md)
+- [`record/claims.d/CLAIM-066.md:43`](../../record/claims.d/CLAIM-066.md)
 
 ### [THEORY-178](../../record/theory.d/THEORY-178.md) — Proposed
 
@@ -3381,7 +3357,7 @@ For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maxi
 
 1 citation in 1 file awaits a look; 41 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-152.md:86`](../../record/claims.d/CLAIM-152.md)
+- [`record/claims.d/CLAIM-152.md:88`](../../record/claims.d/CLAIM-152.md)
 
 ### [THEORY-199](../../record/theory.d/THEORY-199.md) — Proposed
 
@@ -3397,7 +3373,7 @@ In variational renormalization, neither a matched partition function nor Kadanof
 
 1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-152.md:87`](../../record/claims.d/CLAIM-152.md)
+- [`record/claims.d/CLAIM-152.md:89`](../../record/claims.d/CLAIM-152.md)
 
 ### [THEORY-203](../../record/theory.d/THEORY-203.md) — Proposed
 
@@ -3446,31 +3422,30 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-- record/cases.d/CASE-031.md:25: annotation no longer applies — nothing in scope cites CLAIM-115
 - record/claims.d/CLAIM-009.md:29: annotation no longer applies — nothing in scope cites CLAIM-109
 - record/claims.d/CLAIM-017.md:30: annotation no longer applies — nothing in scope cites CLAIM-108
-- record/claims.d/CLAIM-033.md:30: annotation no longer applies — nothing in scope cites CLAIM-042
+- record/claims.d/CLAIM-033.md:45: annotation no longer applies — nothing in scope cites CLAIM-042
 - record/claims.d/CLAIM-040.md:24: annotation no longer applies — nothing in scope cites CLAIM-015
 - record/claims.d/CLAIM-041.md:39: annotation no longer applies — nothing in scope cites ARG-002
 - record/claims.d/CLAIM-043.md:24: annotation no longer applies — nothing in scope cites CLAIM-038
-- record/claims.d/CLAIM-050.md:47: annotation no longer applies — nothing in scope cites CLAIM-051
+- record/claims.d/CLAIM-050.md:74: annotation no longer applies — nothing in scope cites CLAIM-051
 - record/claims.d/CLAIM-052.md:33: annotation no longer applies — nothing in scope cites CLAIM-073
 - record/claims.d/CLAIM-054.md:30: annotation no longer applies — nothing in scope cites CLAIM-061, CLAIM-064
-- record/claims.d/CLAIM-070.md:36: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-070.md:37: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/claims.d/CLAIM-071.md:27: annotation no longer applies — nothing in scope cites CLAIM-120
 - record/claims.d/CLAIM-083.md:35: annotation no longer applies — nothing in scope cites CLAIM-055
-- record/claims.d/CLAIM-084.md:31: annotation no longer applies — nothing in scope cites CLAIM-061
-- record/claims.d/CLAIM-091.md:30: annotation no longer applies — nothing in scope cites CLAIM-061
-- record/claims.d/CLAIM-098.md:32: annotation no longer applies — nothing in scope cites CLAIM-102
+- record/claims.d/CLAIM-084.md:34: annotation no longer applies — nothing in scope cites CLAIM-061
+- record/claims.d/CLAIM-091.md:35: annotation no longer applies — nothing in scope cites CLAIM-061
+- record/claims.d/CLAIM-098.md:36: annotation no longer applies — nothing in scope cites CLAIM-102
 - record/claims.d/CLAIM-101.md:32: annotation no longer applies — nothing in scope cites CLAIM-065
-- record/claims.d/CLAIM-106.md:41: annotation no longer applies — nothing in scope cites CLAIM-067
+- record/claims.d/CLAIM-106.md:49: annotation no longer applies — nothing in scope cites CLAIM-067
 - record/claims.d/CLAIM-108.md:37: annotation no longer applies — nothing in scope cites CLAIM-036
 - record/claims.d/CLAIM-113.md:40: annotation no longer applies — nothing in scope cites CLAIM-015
-- record/claims.d/CLAIM-115.md:45: annotation no longer applies — nothing in scope cites CLAIM-017
-- record/claims.d/CLAIM-117.md:38: annotation no longer applies — nothing in scope cites CLAIM-052
-- record/claims.d/CLAIM-121.md:37: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-115.md:55: annotation no longer applies — nothing in scope cites CLAIM-017
+- record/claims.d/CLAIM-117.md:55: annotation no longer applies — nothing in scope cites CLAIM-052
+- record/claims.d/CLAIM-121.md:38: annotation no longer applies — nothing in scope cites CLAIM-100
 - record/literature.d/LIT-406.md:68: annotation no longer applies — nothing in scope cites LIT-441
-- record/literature.d/LIT-777.md:59: annotation no longer applies — LIT-264 is Active now
+- record/literature.d/LIT-777.md:60: annotation no longer applies — LIT-264 is Active now
 - record/literature.d/LIT-802.md:83: annotation no longer applies — LIT-837 is Active now
 - record/literature.d/LIT-828.md:130: annotation no longer applies — LIT-830 is Active now
 - record/notes.d/NOTE-240.md:39: annotation no longer applies — LIT-264 is Active now
@@ -3484,15 +3459,15 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-617.md:34: annotation no longer applies — nothing in scope cites LIT-811
 - record/questions.d/QUESTION-028.md:26: annotation no longer applies — nothing in scope cites THEORY-036
 - record/terms.d/TERM-005.md:22: annotation no longer applies — nothing in scope cites TERM-029, TERM-035
-- record/terms.d/TERM-008.md:46: annotation no longer applies — nothing in scope cites CLAIM-101
-- record/terms.d/TERM-008.md:47: annotation no longer applies — nothing in scope cites CLAIM-106
+- record/terms.d/TERM-008.md:48: annotation no longer applies — nothing in scope cites CLAIM-101
+- record/terms.d/TERM-008.md:49: annotation no longer applies — nothing in scope cites CLAIM-106
 - record/terms.d/TERM-009.md:23: annotation no longer applies — nothing in scope cites TERM-032
 - record/terms.d/TERM-011.md:21: annotation no longer applies — nothing in scope cites CLAIM-111
 - record/terms.d/TERM-016.md:30: annotation no longer applies — nothing in scope cites TERM-035
-- record/terms.d/TERM-021.md:22: annotation no longer applies — nothing in scope cites TERM-013
+- record/terms.d/TERM-021.md:26: annotation no longer applies — nothing in scope cites TERM-013
 - record/terms.d/TERM-024.md:41: annotation no longer applies — nothing in scope cites CLAIM-052, CLAIM-063
 - record/terms.d/TERM-026.md:27: annotation no longer applies — nothing in scope cites TERM-016
-- record/terms.d/TERM-028.md:23: annotation no longer applies — nothing in scope cites CLAIM-026
+- record/terms.d/TERM-028.md:27: annotation no longer applies — nothing in scope cites CLAIM-026
 - record/terms.d/TERM-031.md:26: annotation no longer applies — nothing in scope cites TERM-016
 - record/theory.d/THEORY-013.md:31: annotation no longer applies — LIT-264 is Active now
-- record/theory.d/THEORY-167.md:38: annotation no longer applies — nothing in scope cites LIT-775
+- record/theory.d/THEORY-167.md:39: annotation no longer applies — nothing in scope cites LIT-775

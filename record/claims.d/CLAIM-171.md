@@ -66,8 +66,8 @@ at version 2, where the constituents are relations to participant roles,
 On version 2 the constituent is fixed by a role, not by any audience's
 reading. That is one filed candidate for identifying a projected receiver
 otherwise than by a reading; whether it identifies the writer's projected
-receiver, or only the addressee position, no entry argues. [CLAIM-tmpdwfva](CLAIM-tmpdwfva.md)
+receiver, or only the addressee position, no entry argues. [CLAIM-226](CLAIM-226.md)
 bears in this claim's direction on the measurement side: "for historical
-sources there is no source audience at all". [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) holds the
+sources there is no source audience at all". [QUESTION-073](../questions.d/QUESTION-073.md) holds the
 reception-side readings this claim says the record lacks, Austin on uptake
 and Goffman on keying, both unread.

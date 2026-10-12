@@ -26,9 +26,9 @@ summary: >-
 argued_by:
 - ARG-006
 objected_by:
-- CLAIM-tmpvmzx9
+- CLAIM-253
 complements:
-- CLAIM-tmpfzcik
+- CLAIM-231
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body applies the term without naming it -->
 
@@ -49,9 +49,9 @@ That the commutator *structure* is preserved: only its image under Φ ([CLAIM-01
 
 ## Note of 2026-10-10: the replies
 
-After [CLAIM-tmpvmzx9](CLAIM-tmpvmzx9.md): the intertwining defects are not identified from
+After [CLAIM-253](CLAIM-253.md): the intertwining defects are not identified from
 data, since two models with the same observations can carry defects 0 and
-1. [CLAIM-tmpfzcik](CLAIM-tmpfzcik.md) bounds the observed order effect by observational
+1. [CLAIM-231](CLAIM-231.md) bounds the observed order effect by observational
 distortions alone: if each order's response distribution is within ε of
 the source's under one outcome correspondence, the observed order effect
 is within 2ε. The identity explains that bound under a state model, and

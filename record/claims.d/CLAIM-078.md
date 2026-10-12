@@ -9,12 +9,12 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmp6zbr9: with true constants
+    Restated on 2026-10-10 after CLAIM-208: with true constants
     the composition bound cannot be departed from, so version 1's
     second disjunct, 'or their behaviour along reconstruction chains
     departs from the composition bounds', could not be met. The first
     disjunct, A110's comparison with text similarity, is unchanged;
-    CLAIM-tmp351uu carries the stronger rival.
+    CLAIM-202 carries the stronger rival.
 role: thesis
 defeated_if: >-
   Structural and decision-theoretic measures add no prediction of
@@ -36,14 +36,14 @@ summary: >-
   prediction of held-out judgements) and drops the disclaimer and the
   compositional half.
 objected_by:
-- CLAIM-tmp6zbr9
-- CLAIM-tmphn6za
-- CLAIM-tmpqfgjl
+- CLAIM-208
+- CLAIM-233
+- CLAIM-244
 complements:
-- CLAIM-tmp351uu
+- CLAIM-202
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-059 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-tmp351uu — Proposed; the line's distinctive test, cited as carrying the stronger rival, open -->
+<!-- inactive-ok-file: CLAIM-202 — Proposed; the line's distinctive test, cited as carrying the stronger rival, open -->
 
 # CLAIM-078: The theory succeeds if its observational and decision measures predict changes of communicative identity that text similarity misses and follow its compositional predictions across reconstructions; it needs neither quantum contextuality nor exact Noether laws
 

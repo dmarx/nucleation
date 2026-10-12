@@ -22,7 +22,7 @@ summary: >-
   [CLAIM-044](../claims.d/CLAIM-044.md), [CLAIM-046](../claims.d/CLAIM-046.md), [CLAIM-142](../claims.d/CLAIM-142.md) and [QUESTION-001](QUESTION-001.md). [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md)
   and [THEORY-016](../theory.d/THEORY-016.md) answer it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: CLAIM-105 CLAIM-tmp1rlu5 THEORY-011 THEORY-015 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-105 CLAIM-201 THEORY-011 THEORY-015 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-067: Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens's generalized kind, which also requires that renderings no probe can tell apart get the same representation?
 
@@ -48,9 +48,9 @@ A statement of the operational equivalences among renderings that a pragmatic ex
 
 "What the record holds" above lists [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md) and [THEORY-016](../theory.d/THEORY-016.md).
 PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 restated [CLAIM-105](../claims.d/CLAIM-105.md)'s condition in the
-Contextuality-by-Default sense. [CASE-tmp0st1e](../cases.d/CASE-tmp0st1e.md) reads the published tests on
+Contextuality-by-Default sense. [CASE-053](../cases.d/CASE-053.md) reads the published tests on
 human judgements under CbD and Bell-type criteria, and finds that "No
-contextual pragmatic data are documented". [CLAIM-tmp1rlu5](../claims.d/CLAIM-tmp1rlu5.md) concedes the
+contextual pragmatic data are documented". [CLAIM-201](../claims.d/CLAIM-201.md) concedes the
 fixed-scenario headline on that finding. CbD is a measurement-context
 notion built for systems that signal, and this question does not name it
 among the notions it compares. That null does not reach Spekkens's notion,

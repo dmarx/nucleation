@@ -20,9 +20,9 @@ summary: >-
   other a distinction between normative and descriptive fidelity. The
   manuscript keeps part of the remedy and neither argument.
 supports:
-- CLAIM-tmpp41ad
-- CLAIM-tmpt2k3r
-- CLAIM-tmpvh0gc
+- CLAIM-243
+- CLAIM-248
+- CLAIM-252
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

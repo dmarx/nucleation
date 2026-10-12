@@ -32,7 +32,7 @@ objected_by:
 supports:
 - CLAIM-068
 illustrated_by:
-- CASE-tmpo33kl
+- CASE-068
 ---
 
 # CLAIM-090: Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable

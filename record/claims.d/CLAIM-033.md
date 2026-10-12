@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-10'
   note: >-
-    Restated on 2026-10-10 after CLAIM-tmplkh2i: version 1 was a
+    Restated on 2026-10-10 after CLAIM-238: version 1 was a
     universal negative ('never gain'), which no study establishes; the
     restatement is a claim of prevalence. Version 1's condition read:
     "Renderings that lose distinctions along one dimension never gain
@@ -38,9 +38,9 @@ summary: >-
   sections, without critique.
 complements:
 - CLAIM-128
-- CLAIM-tmp9negs
+- CLAIM-214
 objected_by:
-- CLAIM-tmplkh2i
+- CLAIM-238
 ---
 <!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->

@@ -23,7 +23,7 @@ summary: >-
   becomes advice.
 supports:
 - CLAIM-028
-- CLAIM-tmpfe37n
+- CLAIM-229
 ---
 
 # CASE-032: E4: within-session chains, stable complicit against a shift to moral instruction

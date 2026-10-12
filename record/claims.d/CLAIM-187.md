@@ -84,7 +84,7 @@ where the comparison cannot be made, not one where it fails.
 ## Note of 2026-10-12: an assessed result on the first defeater
 
 "What it does not say" leaves open whether an admissible group can be
-defined for communicative realizations. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s [CLAIM-tmpt76qw](CLAIM-tmpt76qw.md), granted
+defined for communicative realizations. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s [CLAIM-249](CLAIM-249.md), granted
 and Active, assesses that point: "The transformations the line studies are
 not group elements", and among stochastic maps on finite observation
 spaces the invertible core is the relabellings. So the group "has to be a
@@ -92,6 +92,6 @@ symmetry group of the situation that the analyst chooses", with its action
 on each medium specified independently, and [TERM-008](../terms.d/TERM-008.md)'s transport is
 directed and need not be invertible. That does not show no group can be
 posed; it says the group is chosen, not read off the realizations.
-[CASE-tmp4iy8h](../cases.d/CASE-tmp4iy8h.md) is a ready case: a swap of the two persons of a dyad, a
-group of order 2, which [CLAIM-tmpt76qw](CLAIM-tmpt76qw.md) notes has no automorphism to move
+[CASE-057](../cases.d/CASE-057.md) is a ready case: a swap of the two persons of a dyad, a
+group of order 2, which [CLAIM-249](CLAIM-249.md) notes has no automorphism to move
 its characters.

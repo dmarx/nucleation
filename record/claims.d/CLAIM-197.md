@@ -50,10 +50,10 @@ supports:
 - CLAIM-198
 - CLAIM-196
 ---
-<!-- inactive-ok-file: CLAIM-tmpu534h — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
+<!-- inactive-ok-file: CLAIM-251 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-143 — Proposed; the general point this claim gives the simplest instance of -->
 <!-- inactive-ok-file: CLAIM-198 — Proposed; the consequence drawn from this claim, cited forward -->
-<!-- inactive-ok-file: CLAIM-105 CLAIM-tmp1rlu5 CLAIM-tmpx3m7e — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-105 CLAIM-201 CLAIM-257 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-197: Sections over contexts that do not overlap always glue, so a sense that differs between disjoint contexts is not a gluing failure: a failure needs an overlap carrying sections that disagree, and which families count as covers decides whether anything glues
 
@@ -118,12 +118,12 @@ in pairs. The consequence for interests over time is drawn in
 
 ## Note of 2026-10-12: a change of cover filed on 2026-10-10
 
-PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md) and [CLAIM-tmpx3m7e](CLAIM-tmpx3m7e.md), which make a change of
+PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-201](CLAIM-201.md) and [CLAIM-257](CLAIM-257.md), which make a change of
 cover the surviving form of [CLAIM-105](CLAIM-105.md)'s headline. There a context is "a
 question whose answers readers give determinately", and a rendering
 changes the cover when a question determinate for one side's readers is
 indeterminate for the other's. This claim says which families count as
-covers decides whether anything glues. [CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md) says a change of
+covers decides whether anything glues. [CLAIM-201](CLAIM-201.md) says a change of
 cover is not thereby contextuality: it has "changed which questions can be
 asked, not shown that the answers cannot be glued". The record does not
 say whether this claim's coverage and PR [#121](https://github.com/dmarx/nucleation/issues/121)'s operational cover are one
@@ -131,4 +131,4 @@ notion, and the entries are not related; that is left to the owner.
 
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
-The interlocutor's reading of 2026-10-12 says this claim "supplies an essential mathematical correction, but it does not necessarily defeat the transport proposal", and that the operational notion of [CLAIM-tmp1rlu5](CLAIM-tmp1rlu5.md) should get "a different formal name until an explicit functorial or sheaf-theoretic relationship is established". Filed as the counter [CLAIM-tmpu534h](CLAIM-tmpu534h.md). Recorded as advice.
+The interlocutor's reading of 2026-10-12 says this claim "supplies an essential mathematical correction, but it does not necessarily defeat the transport proposal", and that the operational notion of [CLAIM-201](CLAIM-201.md) should get "a different formal name until an explicit functorial or sheaf-theoretic relationship is established". Filed as the counter [CLAIM-251](CLAIM-251.md). Recorded as advice.

@@ -34,7 +34,7 @@ summary: >-
   rule for choosing it.
 supports:
 - CLAIM-069
-- CLAIM-tmpji66i
+- CLAIM-235
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; its scope is what this theory bears on -->

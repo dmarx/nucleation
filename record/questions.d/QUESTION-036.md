@@ -92,12 +92,12 @@ identify a symmetry.
 
 The note of 2026-10-11 says none of the listed material has been assessed.
 PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 filed one assessed result on the
-construction this question comes from. [CLAIM-tmpt76qw](../claims.d/CLAIM-tmpt76qw.md), granted and Active,
+construction this question comes from. [CLAIM-249](../claims.d/CLAIM-249.md), granted and Active,
 says "The transformations the line studies are not group elements", and
 that the group "has to be a symmetry group of the situation that the
 analyst chooses". It also shows that "the same character" across
 realizations is relative to a chosen correspondence. That leans toward the
 negative answer this question allows for, beside [CLAIM-132](../claims.d/CLAIM-132.md) and [THEORY-019](../theory.d/THEORY-019.md).
-[CASE-tmp4iy8h](../cases.d/CASE-tmp4iy8h.md) is a constructed case of such a chosen symmetry: swapping
+[CASE-057](../cases.d/CASE-057.md) is a constructed case of such a chosen symmetry: swapping
 the two persons of a dyad changes nonreciprocal T/V address and leaves
 reciprocal address fixed.

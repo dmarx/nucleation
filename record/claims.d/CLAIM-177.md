@@ -40,7 +40,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-024 CLAIM-115 CLAIM-139 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
-<!-- inactive-ok-file: CLAIM-tmpawn12 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-177: An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change
 
@@ -85,12 +85,12 @@ lost its identity between turns.
 ## Note of 2026-10-12: a filed instance on the translation line
 
 PR [#121](https://github.com/dmarx/nucleation/issues/121) filed a further instance of this claim's third failure, a change
-of thesis that no one argues. [CLAIM-tmpsxsr8](CLAIM-tmpsxsr8.md), granted and Active, finds
+of thesis that no one argues. [CLAIM-247](CLAIM-247.md), granted and Active, finds
 that "The bearer of communicative identity reversed", from an operational
 object defined on observed responses to a kind that can outrun
-observation, "and no turn argues the change". [CLAIM-tmp867uz](CLAIM-tmp867uz.md), also
+observation, "and no turn argues the change". [CLAIM-211](CLAIM-211.md), also
 granted, is a related finding: the manuscript's thesis and the October
 thesis give rival answers, yet the record links them by `complements`.
 Both are readings of the What Survives Translation? exchange, this claim's
-second source. [CLAIM-tmpawn12](CLAIM-tmpawn12.md) later supplied an argument for the reversal
-[CLAIM-tmpsxsr8](CLAIM-tmpsxsr8.md) records.
+second source. [CLAIM-217](CLAIM-217.md) later supplied an argument for the reversal
+[CLAIM-247](CLAIM-247.md) records.

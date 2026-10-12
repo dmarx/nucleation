@@ -6,7 +6,7 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-5 of 52 CASE documents. Back to the [full index](../README.md).
+6 of 73 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -15,3 +15,4 @@
 | [CASE-009](../../../record/cases.d/CASE-009.md) | Text → image → caption → image chains under four conditions | A97 §6: compare text-only, image-only, alternating, and alternating with explicit preservation of pragmatic constraints. The manuscript's Case III keeps alternating against text-only. Proposed, not run. | Active |
 | [CASE-017](../../../record/cases.d/CASE-017.md) | E1: synthetic three-state stochastic computations (C2–C3) | Run at U23 ("run it"): hand-chosen row-stochastic matrices on three abstract states, seed 20261008, "not fitted to text, pretrained models, or human measurements". Executed; results are exact properties of the chosen matrices. None reached a later draft. | Active |
 | [CASE-029](../../../record/cases.d/CASE-029.md) | The dynamical-fidelity research programme of the outlines (A35, A38, A40) | The factorial study grown into a programme over three replies: initial state and three model classes (A35), matched and divergent stimulus pairs (A38), pilot validation, classical baselines first and five falsifiers (A40). Proposed, not run. | Active |
+| [CASE-065](../../../record/cases.d/CASE-065.md) | Two satisfaction questions in German and in a back-translated Chinese version: an order effect that reverses across a rendering, with the Clinton–Gore poll as the scale of the 2ε bound | Haberstroh, Oyserman, Schwarz, Kühnen and Ji (2002), Experiment 2, asked German and Chinese students the same two satisfaction questions, in a back-translated Chinese version, in both orders. The part–whole correlation depends on order in the German administration and reverses in the Chinese one, and the authors explain it by a pragmatic mechanism. Only correlations are reported, so the case shows the bound's contrapositive in kind, not in number. Moore's Clinton–Gore poll, held through [LIT-834](../../../record/literature.d/LIT-834.md), supplies the number: an order effect of total variation about 0.095, against a sampling floor of about 0.03 per order at poll sizes, so 2ε is about as large as the effect it would certify. | Active |

@@ -43,9 +43,9 @@ grounds:
 - THEORY-066
 - THEORY-073
 ---
-<!-- inactive-ok-file: CLAIM-tmp9fsmf — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
+<!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
-<!-- inactive-ok-file: CLAIM-151 CLAIM-tmp3wo5j CLAIM-tmpawn12 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-152: Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal
 
@@ -94,16 +94,16 @@ The body already made [THEORY-066](../theory.d/THEORY-066.md)'s point about Mark
 
 ## Note of 2026-10-12: a competent-uptake standard on the pragmatic-transport line, left to the owner
 
-PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-tmpawn12](CLAIM-tmpawn12.md) (Proposed), which takes as its standard of
+PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-217](CLAIM-217.md) (Proposed), which takes as its standard of
 sufficiency "the uptake of competent participants who know the standings
 and norms in play". That is close to the candidate this claim's defeat
 condition names and calls circular, "what a competent user must predict".
-[TERM-040](../terms.d/TERM-040.md) version 2 and [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md) take up the same standard.
-[CLAIM-tmpawn12](CLAIM-tmpawn12.md) grounds it in [CLAIM-151](CLAIM-151.md)'s partial constitution of the act
+[TERM-040](../terms.d/TERM-040.md) version 2 and [CLAIM-204](CLAIM-204.md) take up the same standard.
+[CLAIM-217](CLAIM-217.md) grounds it in [CLAIM-151](CLAIM-151.md)'s partial constitution of the act
 by uptake. Neither entry says whether that grounding is an independent
 argument in this claim's sense or the circular case, and the question is
 left to the owner.
 
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
-The interlocutor's reading of 2026-10-12 sides with this claim against [CLAIM-tmpawn12](CLAIM-tmpawn12.md): choosing competent uptake "does not establish a uniquely privileged standard. It chooses a reference class and grounds that choice in a theory of social constitution." It would keep competent uptake as a practice-relative criterion, which "preserves CLAIM-152 instead of defeating it". Recorded as advice. [CLAIM-tmp9fsmf](CLAIM-tmp9fsmf.md) files the reading's middle position between this claim's lack of a realist commitment and [CLAIM-139](CLAIM-139.md)'s ontological clause.
+The interlocutor's reading of 2026-10-12 sides with this claim against [CLAIM-217](CLAIM-217.md): choosing competent uptake "does not establish a uniquely privileged standard. It chooses a reference class and grounds that choice in a theory of social constitution." It would keep competent uptake as a practice-relative criterion, which "preserves CLAIM-152 instead of defeating it". Recorded as advice. [CLAIM-213](CLAIM-213.md) files the reading's middle position between this claim's lack of a realist commitment and [CLAIM-139](CLAIM-139.md)'s ontological clause.

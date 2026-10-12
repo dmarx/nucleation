@@ -28,9 +28,9 @@ summary: >-
   equivariance for exact preservation, a semigroup of stochastic maps
   for the rest.
 objected_by:
-- CLAIM-tmpz7og0
+- CLAIM-260
 supports:
-- CLAIM-tmpt76qw
+- CLAIM-249
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-102 — Superseded; replaced, and cited as the history this entry answers or replaces -->
@@ -70,7 +70,7 @@ social transformations are "not entirely reversible".
 
 ## Note of 2026-10-10: the replies
 
-[CLAIM-tmpz7og0](CLAIM-tmpz7og0.md) scopes (iii). In total variation, with Markov kernels,
+[CLAIM-260](CLAIM-260.md) scopes (iii). In total variation, with Markov kernels,
 approximate transports compose with ε₁ + ε₂. If TV(K₁#e_A, e_B) ≤ ε₁ and
 TV(K₂#e_B, e_C) ≤ ε₂, then
 

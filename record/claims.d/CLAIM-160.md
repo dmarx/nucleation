@@ -27,7 +27,7 @@ grounds:
 - CASE-048
 complements:
 - CLAIM-151
-- CLAIM-tmpwi9o5
+- CLAIM-255
 uses:
 - TERM-030
 summary: >-
@@ -43,10 +43,10 @@ illustrated_by:
 objected_by:
 - CLAIM-171
 ---
-<!-- inactive-ok-file: CLAIM-tmpwi9o5 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
+<!-- inactive-ok-file: CLAIM-255 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-074 CLAIM-115 CLAIM-151 — Proposed; the line's receiver-side claims this one is placed beside, open -->
 <!-- inactive-ok-file: CLAIM-171 — Proposed; the open objection to this claim -->
-<!-- inactive-ok-file: CLAIM-tmp3wo5j CLAIM-tmpawn12 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-160: Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored
 
@@ -102,14 +102,14 @@ way.
 [CLAIM-151](CLAIM-151.md) version 2, restated in PR [#121](https://github.com/dmarx/nucleation/issues/121), is built to defeat accounts that
 fix the act by the utterance and the speaker's internal states alone, on
 cases in which the speaker's intention is held fixed and the audience's
-role changes. [CLAIM-tmpawn12](CLAIM-tmpawn12.md) makes competent participants' uptake "part of
-what makes the fact", and [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md) rests on it. This claim reads
+role changes. [CLAIM-217](CLAIM-217.md) makes competent participants' uptake "part of
+what makes the fact", and [CLAIM-204](CLAIM-204.md) rests on it. This claim reads
 [CLAIM-151](CLAIM-151.md)'s expected uptake as the writer's, fixed at the write. This
-claim and [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md) are both filed as answers to [QUESTION-029](../questions.d/QUESTION-029.md), and no
+claim and [CLAIM-204](CLAIM-204.md) are both filed as answers to [QUESTION-029](../questions.d/QUESTION-029.md), and no
 relation joins them. If "identity" here means intended meaning only, the
 two need not conflict; if it means the act, they do. Which reading holds,
 and what follows for this claim's `answers` edge, is left to the owner.
 
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
-The interlocutor's reading of 2026-10-12 recommends to "Retain CLAIM-160 for intended meaning, retain [CLAIM-151](CLAIM-151.md) for socially constituted act identity", on its distinction between "intending to perform an act, performing that act, and being recognized as having performed it" ([CLAIM-tmpwi9o5](CLAIM-tmpwi9o5.md)). Recorded as advice. Whether this claim narrows to intended meaning, and what follows for its answer to [QUESTION-029](../questions.d/QUESTION-029.md), is still the owner's.
+The interlocutor's reading of 2026-10-12 recommends to "Retain CLAIM-160 for intended meaning, retain [CLAIM-151](CLAIM-151.md) for socially constituted act identity", on its distinction between "intending to perform an act, performing that act, and being recognized as having performed it" ([CLAIM-255](CLAIM-255.md)). Recorded as advice. Whether this claim narrows to intended meaning, and what follows for its answer to [QUESTION-029](../questions.d/QUESTION-029.md), is still the owner's.

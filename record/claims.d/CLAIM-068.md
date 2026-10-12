@@ -30,9 +30,9 @@ summary: >-
   attraction, selection pressures or the extension of iterated learning
   to footing. Apparently dropped by inadvertence.
 objected_by:
-- CLAIM-tmpi6n8k
+- CLAIM-234
 illustrated_by:
-- CASE-tmpo33kl
+- CASE-068
 ---
 <!-- inactive-ok-file: THEORY-164 THEORY-167 — Proposed; cited as bearing on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-081 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -113,7 +113,7 @@ not test it, so it is weak support.
 
 ## Note of 2026-10-10: the replies
 
-[CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md) is conceded: no reading the record holds measures a stance or
+[CLAIM-234](CLAIM-234.md) is conceded: no reading the record holds measures a stance or
 footing along a chain, so the stance extension has no study under it. The
 defeat condition is unchanged. Which transmission-chain studies of social
 and affective content to read is left to the owner.
@@ -125,9 +125,9 @@ and affective content to read is left to the owner.
 ## Note of 2026-10-12: the scope of a ground added on 2026-10-12
 
 [THEORY-173](../theory.d/THEORY-173.md) became a typed ground of this claim on 2026-10-12, as the note
-above says. It also grounds [CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md), the granted objection to this
+above says. It also grounds [CLAIM-234](CLAIM-234.md), the granted objection to this
 claim, which calls it "a mechanism stated and not tested". The mechanism
 it gives is contraction: homogenization when a large model takes part in
 transmission. It bears on this claim's attraction toward conventional
-regions, not on the extension to footing, which [CLAIM-tmpi6n8k](CLAIM-tmpi6n8k.md) says "has
+regions, not on the extension to footing, which [CLAIM-234](CLAIM-234.md) says "has
 no study under it".

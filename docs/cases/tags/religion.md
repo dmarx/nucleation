@@ -6,8 +6,9 @@
 
 **Religion** — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
-0 of 52 CASE documents. Back to the [full index](../README.md).
+2 of 73 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-056](../../../record/cases.d/CASE-056.md) | J. B. Phillips's "hearty handshake all round" for Paul's "holy kiss", and Nida's judgement that it keeps the greeting | Phillips renders all five New Testament "holy kiss" directives (Romans 16:16 and four parallels) as handshakes, which changes what the congregation is told to do; Nida (1964, p. 160) holds this up as equivalent effect, and the UBS handbooks call it a brave attempt. The documented case for the necessity half of [CLAIM-061](../../../record/claims.d/CLAIM-061.md), on expert judgement rather than reader evidence. The same handbooks document the sufficiency half: where kissing is amorous, a literal "kiss" changes the act. | Active |
+| [CASE-061](../../../record/cases.d/CASE-061.md) | Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others | In the State of the Union of 28 January 2003 George W. Bush said "there's power, wonder-working power, in the goodness and idealism and faith of the American people", lifting the refrain of an 1899 gospel hymn verbatim. Churchgoers who knew the hymn heard the power of Christ; others heard boilerplate; an experiment with an ingroup and a religiously diverse outgroup measured the split. The same-wording variant of [CASE-064](../../../record/cases.d/CASE-064.md), illustrating [CLAIM-224](../../../record/claims.d/CLAIM-224.md) without translation. | Active |
