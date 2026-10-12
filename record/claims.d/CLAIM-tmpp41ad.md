@@ -37,6 +37,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-050 CLAIM-061 CLAIM-139 — Proposed; open, cited for the task family Q, the negative clause and the later thesis, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpc1o4m — Proposed; the record's revised thesis of 2026-10-10, open, cited in the history as the repair -->
+<!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-tmpp41ad: Read as description, the manuscript's thesis is close to true by definition; read as a criterion, it is a schema until the decision family Q is fixed, and its descriptive defeat condition can test neither reading
 
@@ -107,3 +108,14 @@ Either of these:
   argument about what a translation owes its readers) and a defeat condition
   of the matching kind, such as a case in which keeping the named distinctions
   is plainly the wrong thing for a translation to do.
+
+## Note of 2026-10-12: positions on which receiver, filed on main
+
+This claim says "nothing in the record fixes which receiver" [CLAIM-115](CLAIM-115.md)
+means. Since PR [#121](https://github.com/dmarx/nucleation/issues/121) branched, main has filed [CLAIM-160](CLAIM-160.md), which fixes
+intended meaning by the writer's projected receiver at the write and
+measures fidelity for the actual reader at each read. [CLAIM-171](CLAIM-171.md) objects
+that the projected receiver is itself one more reading. Neither binds
+[CLAIM-115](CLAIM-115.md)'s "receiving system" to a TERM, so neither settles which
+receiver [CLAIM-115](CLAIM-115.md) means. They are filed positions on a neighbouring
+question: whose receiver counts.

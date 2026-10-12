@@ -198,3 +198,15 @@ intimacy anyway, which leaves the return to вы as the cleaner item. The
 reader test in the case could be items in [CASE-tmp1uzfn](../cases.d/CASE-tmp1uzfn.md). With [CASE-tmpxnd3y](../cases.d/CASE-tmpxnd3y.md),
 the claim now has a documented candidate for each half of a change of
 cover, and measured reader agreement for neither.
+
+## Note of 2026-10-12: a second sense of "cover" on main, left to the owner
+
+[CLAIM-197](CLAIM-197.md), filed on main on 2026-10-12, uses "cover" in the sheaf sense: a
+rule saying which families of contexts count as covering. [CASE-048](../cases.d/CASE-048.md) version
+2 applies it to one viewer's readings as a child and as an adult, as
+sections over two contexts that do not overlap, so that they glue. This
+entry's operational sense makes a context a question readers answer
+determinately, and in that sense the two readings may share a context. The
+record does not say whether the two senses are one notion. Which sense the
+record uses, or whether it keeps both under separate names, is left to the
+owner.

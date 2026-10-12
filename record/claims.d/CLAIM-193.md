@@ -35,7 +35,10 @@ summary: >-
   stipulation ([THEORY-018](../theory.d/THEORY-018.md)); and spectral degeneracy does not identify the
   symmetry ([THEORY-019](../theory.d/THEORY-019.md)). Proved results for learned representations;
   the carry-over to communicative realizations is the filer's.
+complements:
+- CLAIM-tmp7gigk
 ---
+<!-- inactive-ok-file: CLAIM-142 CLAIM-tmp3wo5j CLAIM-tmp6r6t6 CLAIM-tmp7gigk CLAIM-tmpawn12 THEORY-019 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-193: A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
 
@@ -77,3 +80,19 @@ probes. That gives [CLAIM-142](CLAIM-142.md)'s relativity a precise form in this
   role is the filer's step.
 - [THEORY-019](../theory.d/THEORY-019.md) also bears on [QUESTION-036](../questions.d/QUESTION-036.md), toward a negative answer, as that
   question's note records.
+
+## Note of 2026-10-12: human judges, and related entries
+
+"What it does not say" counts human judges among the probes this result
+does not cover. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 contests that placing.
+[CLAIM-142](CLAIM-142.md) version 2, on which this claim rests, says "The judges are the
+criterion ([CLAIM-tmpawn12](CLAIM-tmpawn12.md)), not a probe", while [CLAIM-tmp6r6t6](CLAIM-tmp6r6t6.md) treats
+human same-kind judgements as "themselves one probe family"; that dispute
+is open. On the first reading this result bounds what an analyst's linear
+family can separate when tested against the judges' standard; on the
+second it leaves out one probe family among others. [CLAIM-tmpawn12](CLAIM-tmpawn12.md) also
+addresses [QUESTION-031](../questions.d/QUESTION-031.md): "[QUESTION-031](../questions.d/QUESTION-031.md) asks when a family is rich enough;
+this says rich enough relative to what." This claim's "comes from the
+analyst, not from the probes" is the linear-case form of [CLAIM-tmp7gigk](CLAIM-tmp7gigk.md)'s
+first clause, now related by `complements`, and of the part [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md)
+says the analyst can certify.

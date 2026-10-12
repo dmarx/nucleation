@@ -51,3 +51,15 @@ says; none has yet been assessed as an answer, and none is linked by
   transmission with an experimenter's filter, not…
 - [CLAIM-186](../claims.d/CLAIM-186.md): How fast an argument grows sets how it grows: drift tracks
   how fast new material arrives relative to how…
+
+## Note of 2026-10-12: the listed material was assessed on 2026-10-10
+
+The note of 2026-10-11 says none of the material listed above has been
+assessed. That is no longer so. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 assessed
+[THEORY-155](../theory.d/THEORY-155.md) and [CLAIM-066](../claims.d/CLAIM-066.md) in [CLAIM-tmpi6n8k](../claims.d/CLAIM-tmpi6n8k.md), which is granted and Active:
+"none measures stance, footing or speech-act function along a chain".
+[CLAIM-tmpelp3h](../claims.d/CLAIM-tmpelp3h.md), also granted, holds that no validated measure of footing
+exists in the record. [CASE-tmpo33kl](../cases.d/CASE-tmpo33kl.md) gives documented chain evidence for
+evaluative stance only, and [CLAIM-tmpi6n8k](../claims.d/CLAIM-tmpi6n8k.md)'s note of 2026-10-10 says that
+for footing "it still has none". A footing chain would first need the
+measurement [QUESTION-tmpt0ou9](QUESTION-tmpt0ou9.md) asks for.

@@ -19,6 +19,7 @@ summary: >-
   owe its reader.
 ---
 <!-- inactive-ok-file: CLAIM-034 CLAIM-091 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmp1rlu5 CLAIM-tmpx3m7e — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-023: Can the opacity of insider vocabulary be a preservation target in its own right?
 
@@ -63,3 +64,16 @@ says; none has yet been assessed as an answer, and none is linked by
   and parody, and a deliberately adaptive…
 - [CASE-027](../cases.d/CASE-027.md): Henley translated perfectly in the voice of an academic
   sociologist
+
+## Note of 2026-10-12: a change of cover filed on 2026-10-10
+
+The note of 2026-10-11 lists material as unassessed. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of
+2026-10-10 filed a proposal that bears on it. [CLAIM-tmp1rlu5](../claims.d/CLAIM-tmp1rlu5.md) treats
+insider vocabulary as a change of cover: "Readers inside such a milieu can
+answer an insider question, who among the speakers belongs, that readers
+outside it cannot." [CLAIM-tmpx3m7e](../claims.d/CLAIM-tmpx3m7e.md) proposes that questions only one side
+can decide be reported as a change of cover, apart from the distortion
+summed over shared questions. [CASE-tmpa82q4](../cases.d/CASE-tmpa82q4.md) is a documented insider
+reading: a hymn phrase heard as faith by those who sing the hymn and as
+boilerplate by others. Neither claim is linked by `answers`, and whether
+either answers this question is left to the owner.

@@ -80,3 +80,18 @@ where the comparison cannot be made, not one where it fails.
 ## Note of 2026-10-12: a case for the protocol
 
 [THEORY-108](../theory.d/THEORY-108.md)'s phase III is a ready case for this protocol. Independently trained solutions there are poorly connected on a fitted curve, and [THEORY-108](../theory.d/THEORY-108.md) itself asks whether the barrier survives permutation alignment. If it does, the protocol reads phase III as a different mechanism from the connected phases, which [THEORY-108](../theory.d/THEORY-108.md)'s accuracy and output-similarity differences would corroborate. If it does not, the barrier was a symmetry the curve family failed to quotient. Notes on [THEORY-108](../theory.d/THEORY-108.md) and [THEORY-109](../theory.d/THEORY-109.md) record the tension this would settle.
+
+## Note of 2026-10-12: an assessed result on the first defeater
+
+"What it does not say" leaves open whether an admissible group can be
+defined for communicative realizations. PR [#121](https://github.com/dmarx/nucleation/issues/121)'s [CLAIM-tmpt76qw](CLAIM-tmpt76qw.md), granted
+and Active, assesses that point: "The transformations the line studies are
+not group elements", and among stochastic maps on finite observation
+spaces the invertible core is the relabellings. So the group "has to be a
+symmetry group of the situation that the analyst chooses", with its action
+on each medium specified independently, and [TERM-008](../terms.d/TERM-008.md)'s transport is
+directed and need not be invertible. That does not show no group can be
+posed; it says the group is chosen, not read off the realizations.
+[CASE-tmp4iy8h](../cases.d/CASE-tmp4iy8h.md) is a ready case: a swap of the two persons of a dyad, a
+group of order 2, which [CLAIM-tmpt76qw](CLAIM-tmpt76qw.md) notes has no automorphism to move
+its characters.

@@ -19,6 +19,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-074 CLAIM-115 CLAIM-139 CLAIM-128 — Proposed; open, cited for the relativity of fidelity and the conditions that lacked an index, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpqfgjl — Proposed; the objection that raised this question, open -->
 <!-- inactive-ok-file: CLAIM-tmpc1o4m CLAIM-tmp3wo5j CLAIM-tmpnttsk CLAIM-tmpawn12 — Proposed; the record's replies of 2026-10-10 that answer part of it, open -->
+<!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-tmppstva: Which tasks and which receivers fix the human criterion against which a measure of communicative fidelity is validated?
 
@@ -62,3 +63,14 @@ general, as opposed to in one study. Three things are open.
 An answer names, for each central claim, a task family and a receiver
 population, and states how a result for one population is carried to
 another, or that it is not.
+
+## Note of 2026-10-12: filed positions on main
+
+Since PR [#121](https://github.com/dmarx/nucleation/issues/121) branched, main has filed two positions on whose receiver
+counts. [CLAIM-160](../claims.d/CLAIM-160.md) separates the writer's projected receiver, which fixes
+intended meaning at the write, from the actual reader, at whose read
+fidelity is measured. [CLAIM-171](../claims.d/CLAIM-171.md) objects that the projected receiver is one
+more reading. Neither names a task family or a receiver population, so
+neither answers this question as posed. [CLAIM-160](../claims.d/CLAIM-160.md)'s projected receiver is
+the source-side counterpart of "the translation's intended audience" named
+above.

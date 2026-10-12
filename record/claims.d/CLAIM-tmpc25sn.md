@@ -30,6 +30,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as the record's own intention-inferring model, not as settled -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-139 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Deferred; Goffman and Austin, unread here, cited as named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-tmpc25sn: The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one
 
@@ -156,3 +157,14 @@ the audience. So the case removes the multivocal-act escape that
 [CASE-tmpa82q4](../cases.d/CASE-tmpa82q4.md) left open, and moves the dispute to what the withdrawal shows.
 It does not settle it. The act is a naming, and part of the change is a
 lexical collision. The objection stays open.
+
+## Note of 2026-10-12: filed positions on main
+
+The title says the record "holds no counter" for intention-based accounts.
+Since PR [#121](https://github.com/dmarx/nucleation/issues/121) branched, main has filed two positions on the dispute.
+[CLAIM-160](CLAIM-160.md), the owner's claim, fixes intended meaning at the write,
+relative to the writer's projected receiver. [CLAIM-171](CLAIM-171.md) is its
+reception-side counter: "the writer's projected receiver is one more
+reading". Both are filed positions, not readings, and neither reads Grice,
+Strawson or Bach and Harnish. Whether [CLAIM-160](CLAIM-160.md) is an intention-based
+account of the act, or only of intended meaning, is left to the owner.

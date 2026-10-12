@@ -45,6 +45,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-151 CLAIM-142 CLAIM-046 CLAIM-135 CLAIM-139 CLAIM-129 — Proposed; open, and cited as the premises and neighbours this reconciles, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp6r6t6 — Proposed; the objection this entry answers, left open until the owner decides on the revised October thesis -->
+<!-- inactive-ok-file: CLAIM-160 CLAIM-tmp3wo5j — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-tmpawn12: For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play, so the judges are the criterion a probe family is tested against, and a kind outruns only the families coarser than that standard
 
@@ -132,3 +133,28 @@ class competent uptake fixes, because uptake partly constitutes the act.
 - It does not reach [CLAIM-139](CLAIM-139.md)'s ontological clause. A kind that outruns
   even competent uptake is not excluded by argument here; it is simply not
   what any test needs.
+
+## Note of 2026-10-12: a writer-side reading of expected uptake, left to the owner
+
+[CLAIM-160](CLAIM-160.md), the owner's claim filed on main on 2026-10-11, reads
+[CLAIM-151](CLAIM-151.md)'s expected uptake as "the writer's, fixed at the write", and
+says "A later read, or none, does not reach back and change it." This
+entry's step 3 reads the same phrase as competent participants' uptake,
+which is "part of what makes the fact". [CLAIM-160](CLAIM-160.md) and [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md),
+which rests on this entry, are both filed as answers to [QUESTION-029](../questions.d/QUESTION-029.md), with
+no relation between them. [CLAIM-160](CLAIM-160.md) speaks of intended meaning, and
+whether it also speaks of the act is not stated. The tension is left to
+the owner.
+
+## Note of 2026-10-12: a circularity charge, left to the owner
+
+[CLAIM-152](CLAIM-152.md), Active and dual-filed from [MOM-POS-001](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/positions.d/POS-001.md), says sufficiency is
+relative to a target, and that only a privileged target "argued for
+independently of the partition it selects" would defeat it. Its condition
+adds: "[MOM-POS-001](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/positions.d/POS-001.md) names the obvious candidate (what a competent user must
+predict) and calls it circular." This entry proposes a candidate of that
+kind: "the standard of sufficiency is the uptake of competent
+participants". It grounds the standard in the partial constitution of the
+act by uptake ([CLAIM-151](CLAIM-151.md)), and neither entry says whether that is an
+independent argument in [CLAIM-152](CLAIM-152.md)'s sense. Whether the charge applies here
+is left to the owner.

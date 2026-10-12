@@ -11,6 +11,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 supports:
 - CLAIM-149
+- CLAIM-190
 variant_of:
 - CASE-041
 summary: >-

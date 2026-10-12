@@ -18,6 +18,7 @@ summary: >-
   [CLAIM-tmpcq79k](../claims.d/CLAIM-tmpcq79k.md). Partial: the token is a photograph, not wording.
 illustrates:
 - CLAIM-tmpcq79k
+- CLAIM-196
 variants:
 - CASE-tmpa82q4
 - CASE-tmpzxkyj

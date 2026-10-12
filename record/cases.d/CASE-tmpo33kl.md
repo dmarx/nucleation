@@ -21,6 +21,8 @@ summary: >-
   did not undo the drift. The transmitters' own risk perception, measured
   by questionnaire, predicts the direction of the change. Documented
   chain evidence for evaluative stance; none for footing.
+supports:
+- CLAIM-191
 ---
 <!-- inactive-ok-file: CLAIM-068 CLAIM-090 — Proposed; the claims this case illustrates, open -->
 <!-- inactive-ok-file: LIT-768 — Deferred; Bartlett, unread here, named as the paradigm the studies follow and not leaned on -->

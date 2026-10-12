@@ -187,3 +187,15 @@ Not held, cited by identifier:
 
 The DOIs of Cervantes and Dzhafarov, Basieva et al. and Lo et al. 2023 were
 checked against Crossref by the search; the others were not.
+
+## Note of 2026-10-12: the null and the notion it is under
+
+[QUESTION-067](../questions.d/QUESTION-067.md), filed on main on 2026-10-12, separates contextuality over
+measurement contexts from Spekkens's generalized notion, which also
+constrains preparations. It says preparation contextuality "can show even
+with a single binary judgement. A sheaf test cannot see it". The tests
+this case reads are of the CbD and Bell type, and its finding that no
+contextual pragmatic data are documented holds under those notions. It
+says nothing about preparation contextuality, which none of the tests
+looks for. [CLAIM-tmp1rlu5](../claims.d/CLAIM-tmp1rlu5.md)'s concession and [CLAIM-tmpbvk4j](../claims.d/CLAIM-tmpbvk4j.md)'s "in no
+behavioural data set" are scoped the same way.

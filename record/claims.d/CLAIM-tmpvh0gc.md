@@ -27,6 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-115 CLAIM-050 — Proposed; open, cited for the manuscript's wording and for the family Q, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmpc1o4m — Proposed; the record's revised thesis of 2026-10-10, open, which this disclaimer bounds -->
+<!-- inactive-ok-file: CLAIM-189 CLAIM-191 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-tmpvh0gc: The account does not say which distinctions a translation ought to keep: it says how to tell which ones a rendering kept for stated tasks and receivers, and what ought to be kept is set by the purpose the translation serves
 
@@ -75,3 +76,14 @@ descriptive reading, is met by [CLAIM-tmpc1o4m](CLAIM-tmpc1o4m.md).
 - It does not say the record holds a normative theory. Skopos theory (Reiss
   and Vermeer) states purpose-relative norms for translation; it is not held
   here, and [CLAIM-023](CLAIM-023.md) records that it is absent.
+
+## Note of 2026-10-12: a counter on main that reads fidelity normatively, left to the owner
+
+[CLAIM-189](CLAIM-189.md), filed on main on 2026-10-11 as the counter to [CLAIM-191](CLAIM-191.md), says
+the transport line's "measures reward preservation" and that a fidelity
+profile "would prefer an argument that never changed". This entry
+disclaims the normative part for the account: what ought to be kept is set
+by the translation's purpose. [CLAIM-189](CLAIM-189.md) does not cite this entry, and this
+entry does not consider a developing argument. [CLAIM-189](CLAIM-189.md)'s own "What would
+answer it" asks for a fidelity, "suitably defined", that measures what the
+record secures. Whether the two conflict is left to the owner.

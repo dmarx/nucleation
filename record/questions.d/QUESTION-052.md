@@ -22,11 +22,12 @@ answered_by:
 - THEORY-009
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
-  for a place in the argument. It bears on [QUESTION-027](QUESTION-027.md), [CLAIM-098](../claims.d/CLAIM-098.md), CLAIM-
-  tmppqir6, [CLAIM-164](../claims.d/CLAIM-164.md) and [CLAIM-043](../claims.d/CLAIM-043.md). [THEORY-001](../theory.d/THEORY-001.md), [THEORY-003](../theory.d/THEORY-003.md), [THEORY-005](../theory.d/THEORY-005.md),
+  for a place in the argument. It bears on [QUESTION-027](QUESTION-027.md), [CLAIM-098](../claims.d/CLAIM-098.md), CLAIM-193,
+  [CLAIM-164](../claims.d/CLAIM-164.md) and [CLAIM-043](../claims.d/CLAIM-043.md). [THEORY-001](../theory.d/THEORY-001.md), [THEORY-003](../theory.d/THEORY-003.md), [THEORY-005](../theory.d/THEORY-005.md),
   [THEORY-006](../theory.d/THEORY-006.md), [THEORY-007](../theory.d/THEORY-007.md) and [THEORY-009](../theory.d/THEORY-009.md) answer it in part; the body gives
   each one's limit.
 ---
+<!-- inactive-ok-file: CLAIM-193 CLAIM-tmp7gigk — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-052: If a kind's admissible transformations are given as a distribution over pairs of its realizations, is its stable, decision-sufficient signature the top eigenspace of the pair operator, and what takes that role when the transformations are directed?
 
@@ -50,3 +51,16 @@ Treat "these two realizations are of the same kind" as a joint distribution over
 ## What would answer it
 
 A singular-function result for a non-symmetric pair operator, with its own sufficiency guarantee. Or a showing that directed transports admit no such signature.
+
+## Note of 2026-10-12: the thesis this candidate would instantiate
+
+PR [#121](https://github.com/dmarx/nucleation/issues/121) filed [CLAIM-tmp7gigk](../claims.d/CLAIM-tmp7gigk.md) as a proposed answer to [QUESTION-027](QUESTION-027.md), and it
+says "No signature is yet named". The top eigenspace asked about here is a
+named candidate for the signature that thesis needs. The directed case
+left open here is where that thesis has no construction, so a showing that
+directed transports admit no such signature would bear on its first defeat
+disjunct. [CLAIM-tmp7qr7y](../claims.d/CLAIM-tmp7qr7y.md), Active, holds that "kind-sharing is symmetric",
+while fidelity belongs to a transport from a given source. On that reading
+a distribution over same-kind pairs is symmetric and directedness enters
+with transport; whether that removes this question's second half or moves
+it to decisions about transported targets is not settled here.

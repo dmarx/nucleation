@@ -27,6 +27,7 @@ illustrated_by:
 - CASE-048
 ---
 <!-- inactive-ok-file: CLAIM-111 CLAIM-160 — Proposed; the support and the target, both open -->
+<!-- inactive-ok-file: CLAIM-151 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-171: A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one
 
@@ -55,3 +56,18 @@ receivers ([CLAIM-140](CLAIM-140.md), [QUESTION-031](../questions.d/QUESTION-031
 receiver is identified other than by a reading. No reader-response or
 reception theory is held, so the objection is stated here from the
 record's materials only.
+
+## Note of 2026-10-12: a non-reading identification of the receiver
+
+This claim says "Nothing filed says how a projected receiver is identified
+other than by a reading." PR [#121](https://github.com/dmarx/nucleation/issues/121)'s round of 2026-10-10 restated [CLAIM-151](CLAIM-151.md)
+at version 2, where the constituents are relations to participant roles,
+[TERM-040](../terms.d/TERM-040.md)'s positions, so that a new audience in the same role keeps them.
+On version 2 the constituent is fixed by a role, not by any audience's
+reading. That is one filed candidate for identifying a projected receiver
+otherwise than by a reading; whether it identifies the writer's projected
+receiver, or only the addressee position, no entry argues. [CLAIM-tmpdwfva](CLAIM-tmpdwfva.md)
+bears in this claim's direction on the measurement side: "for historical
+sources there is no source audience at all". [QUESTION-tmpcs4qg](../questions.d/QUESTION-tmpcs4qg.md) holds the
+reception-side readings this claim says the record lacks, Austin on uptake
+and Goffman on keying, both unread.

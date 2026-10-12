@@ -21,6 +21,7 @@ complements:
 - CLAIM-135
 - CLAIM-142
 - CLAIM-148
+- CLAIM-193
 summary: >-
   The assistant's second thesis at U62 (A240 T2), the positive answer to
   [QUESTION-027](../questions.d/QUESTION-027.md). It has now been asserted four times: A214 §7, A218 (RQ3
@@ -32,6 +33,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-135 CLAIM-142 CLAIM-129 — Proposed; open, and cited as the negative results and restatements this thesis sits beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-tmp3wo5j CLAIM-tmpattzh CLAIM-tmpa9usi — Proposed; the revised October thesis, and the entries filed with this one on 2026-10-10, open -->
+<!-- inactive-ok-file: CLAIM-193 THEORY-005 THEORY-007 THEORY-009 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-tmp7gigk: Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not
 
@@ -112,3 +114,14 @@ of [CLAIM-tmp3wo5j](CLAIM-tmp3wo5j.md)'s defeat condition. Here it is a test of 
 - It does not rest on the ontological thesis ([CLAIM-tmpa9usi](CLAIM-tmpa9usi.md)). A240: "the
   mathematical claims in T2 and T3 can remain useful independently of either
   empirical outcome" ([CLAIM-tmpattzh](CLAIM-tmpattzh.md)).
+
+## Note of 2026-10-12: a named candidate
+
+The summary says "No signature is yet named". [QUESTION-052](../questions.d/QUESTION-052.md), filed on main
+after PR [#121](https://github.com/dmarx/nucleation/issues/121) branched, names a first candidate: the top eigenspace of the
+operator defined by a distribution over same-kind pairs of realizations.
+It holds [THEORY-007](../theory.d/THEORY-007.md), [THEORY-005](../theory.d/THEORY-005.md) and four other THEORYs as partial answers,
+and leaves open the directed case, for which [THEORY-009](../theory.d/THEORY-009.md) found no account.
+[CLAIM-193](CLAIM-193.md) is the linear-case form of this thesis's first clause: a linear
+probe family separates only what the normalized kernel separates. The two
+are now related by `complements`.

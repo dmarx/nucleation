@@ -37,6 +37,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as stages of the translation exchange's thesis sequence, not as standing -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; named as the question this claim sets aside -->
+<!-- inactive-ok-file: CLAIM-115 CLAIM-tmpawn12 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-192: A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions
 
@@ -78,3 +79,11 @@ stay fixed.
   is [QUESTION-009](../questions.d/QUESTION-009.md), which is set aside. The members are unequal: one holds
   memory and veto, and the sessions couple only through the record and
   the owner.
+
+## Note of 2026-10-12: a second filed instance
+
+This claim's evidence is the move from [CLAIM-017](CLAIM-017.md) to [CLAIM-115](CLAIM-115.md) to
+[CLAIM-133](CLAIM-133.md). PR [#121](https://github.com/dmarx/nucleation/issues/121) filed a second instance on the same line:
+[CLAIM-tmpsxsr8](CLAIM-tmpsxsr8.md), granted and Active, finds that the bearer of communicative
+identity reversed "and no turn argues the change". [CLAIM-tmpawn12](CLAIM-tmpawn12.md) later
+supplied an argument for the reversal, after the fact.

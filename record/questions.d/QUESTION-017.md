@@ -17,6 +17,8 @@ summary: >-
   dropped symmetry and the triangle inequality for distortion. The
   tension was never resolved; the manuscript states its recursion "in
   the chosen metric".
+answered_by:
+- CLAIM-tmpz7og0
 ---
 <!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 THEORY-161 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -63,3 +65,14 @@ says; none has yet been assessed as an answer, and none is linked by
   how fast new material arrives relative to how…
 - [THEORY-161](../theory.d/THEORY-161.md): In the semantic rate–distortion frameworks of 2021–2025,
   meaning is a latent variable with a known joint…
+
+## Note of 2026-10-12: a partial answer filed on 2026-10-10
+
+[CLAIM-tmpz7og0](../claims.d/CLAIM-tmpz7og0.md), granted in PR [#121](https://github.com/dmarx/nucleation/issues/121), is now linked as a partial answer. It
+shows that the composite of an ε₁-transport and an ε₂-transport is an (ε₁
++ ε₂)-transport when the distortion obeys a triangle inequality and the
+later kernel is nonexpansive, and that in total variation both hold.
+Without a triangle inequality the additive bound can fail: under squared
+Hellinger distance two steps of about 0.29 compose to 1. It is partial: it
+says where the additive bound fails, not what weaker bound holds there,
+and it does not treat directed distortion.

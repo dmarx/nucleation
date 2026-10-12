@@ -23,6 +23,8 @@ summary: >-
   open and does not tie it to the category claim. Granted, because it is
   elementary. It does not say the category claim fails for exact
   transports or in total variation.
+answers:
+- QUESTION-017
 ---
 <!-- inactive-ok-file: CLAIM-098 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-106 CLAIM-059 — Proposed; the graded-fidelity and regimes claims, cited as open -->
