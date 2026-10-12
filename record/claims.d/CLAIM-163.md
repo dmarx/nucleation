@@ -63,3 +63,39 @@ The analogy would become a mechanism if the parts could be found:
   a lapse.
 
 None of this is in the record, so the objection stands, Proposed.
+
+## Note of 2026-10-12: [LIT-638](../literature.d/LIT-638.md), as an interlocutor reads it
+
+An interlocutor's reading, relayed by the owner, takes [LIT-638](../literature.d/LIT-638.md) (read in [NOTE-502](../notes.d/NOTE-502.md); [THEORY-088](../theory.d/THEORY-088.md)) as "a qualification of CLAIM-163, not a refutation". The record's reading of the paper supports part of that.
+
+- **Candidate collective variables.** Slow cortical activity is organized by interacting spiral defects, with phase singularities and their topological charge as collective descriptors ([NOTE-502](../notes.d/NOTE-502.md) C1–C2, moderate to strong). That widens what could fill this objection's second part beyond relative phase. It measures no valuations.
+- **Not transitions in this claim's sense.** Spiral configurations carry task information above chance (C3, moderate), and their routing role is read from averages and a model with no perturbation (C4, weak to moderate). Neither shows switches with hysteresis or critical slowing.
+- **The form of the transition test.** [LIT-638](../literature.d/LIT-638.md) claims transitions are continuous, not discrete switches between metastable states (C5, weak), against [LIT-080](../literature.d/LIT-080.md). This objection's transition test presupposes discrete switching. [QUESTION-tmpqebvv](../questions.d/QUESTION-tmpqebvv.md) asks which description holds.
+
+The reading recommends recasting this objection so that "the absence of a specified dynamical mechanism", not of phase synchrony, is decisive. That is already its framing: its title calls the word "an analogy without a mechanism", and relative phase is its example of a collective variable, not a requirement. [QUESTION-tmpakyaw](../questions.d/QUESTION-tmpakyaw.md) files the reading's suggestion that coordination, not synchronization, is the organizing concept for the will line. Recorded as advice; the status is unchanged.
+
+
+## Note of 2026-10-12: a stipulated crowd case with all three parts
+
+[CASE-tmp048av](../cases.d/CASE-tmp048av.md), the democracy-mode variant of Twitch Plays Pokémon with
+the running tally visible, has all three parts this objection asks for,
+in toy form:
+
+- **A coupling.** The visible tally ties each voter to the aggregate.
+- **A collective variable.** The vote share.
+- **Transitions.** With strong enough feedback the vote locks in early.
+  There are two stable outcomes, and probably hysteresis.
+
+With the tally hidden, the coupling is gone, and the counts are
+independent integrators. One design choice turns the mechanism on or
+off.
+
+This bears on the objection without grounding either side. The case is
+stipulated. Its parts are voters, not one person's interests, so it
+shows that a population of valuers can have the full mechanism, not
+that a will has it. No status change and no typed edge. The case also
+prompted [QUESTION-tmpa7vwm](../questions.d/QUESTION-tmpa7vwm.md): is agreement produced by coupling a
+different kind of integration from agreement because valuations
+coincide? If it is, it may be where the mechanism lives.
+
+*Drawn by the assistant and filed at the owner's request.*

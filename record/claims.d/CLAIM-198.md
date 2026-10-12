@@ -38,6 +38,7 @@ objects_to:
 complements:
 - CLAIM-153
 - CLAIM-196
+- CLAIM-tmp5vc3p
 summary: >-
   Take an agent's interests as sections over contexts of choice, each
   governing the windows of time in which its valuation ranks first. If
@@ -114,3 +115,32 @@ here. The objection is answered in part and stays open.
   cover-dependence open as well.
 - **That self-prediction is conscious.** It is the agent's forecasting of
   its own later valuations, however that is implemented.
+
+
+## Note of 2026-10-12: a coupling by self-observation that unifies
+
+[CASE-tmp048av](../cases.d/CASE-tmp048av.md), the democracy-mode variant of Twitch Plays Pokémon,
+makes the claim's coupling concrete at crowd scale. With the tally
+hidden the crowd has no model of its own current state. With it visible
+the crowd has one, and the parts are coupled through it. That fits the
+claim's view that self-modelling is what couples the parts.
+
+Two things in the case do not simply confirm the claim:
+
+- **The coupling unifies here.** The claim has self-prediction create
+  the overlap on which interests contend. In the case, the self-observed
+  aggregate makes the voters converge, by herding. So the coupling alone
+  does not settle whether the result is conflict or lock-in. That
+  depends on what each part does with what it sees. [QUESTION-tmpa7vwm](../questions.d/QUESTION-tmpa7vwm.md)
+  asks whether the convergent outcome is a different kind of
+  integration.
+- **A parallel to the precedent effect.** With the tally visible, early
+  votes weigh more than late ones. Ainslie's lapse that counts as a
+  precedent has the same shape. This is a parallel of form and is not
+  derived.
+
+The case is stipulated and its parts are voters, not interests. It
+bears on the claim without grounding it. No status change and no typed
+edge.
+
+*Drawn by the assistant and filed at the owner's request.*
