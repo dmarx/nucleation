@@ -23,7 +23,7 @@ extended_by:
 - THEORY-014
 - THEORY-015
 answers:
-- QUESTION-tmpsbq58
+- QUESTION-067
 ---
 
 # THEORY-016: An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension

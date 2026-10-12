@@ -67,7 +67,7 @@ The proposed answer is [CLAIM-174](../claims.d/CLAIM-174.md).
 
 ## Note of 2026-10-12: a typed partial answer
 
-[THEORY-071](../theory.d/THEORY-071.md) now carries an `answered_by` edge. Its criteria (individuality, interactional asymmetry, self-generated normativity) refuse a thermostat. They are not relative to level or target, which is the tension the counter [CLAIM-tmprrjrd](../claims.d/CLAIM-tmprrjrd.md) takes up.
+[THEORY-071](../theory.d/THEORY-071.md) now carries an `answered_by` edge. Its criteria (individuality, interactional asymmetry, self-generated normativity) refuse a thermostat. They are not relative to level or target, which is the tension the counter [CLAIM-194](../claims.d/CLAIM-194.md) takes up.
 
 ## Note of 2026-10-12: a permissive answer
 

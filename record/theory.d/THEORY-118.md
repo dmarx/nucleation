@@ -48,7 +48,7 @@ summary: >-
   holds that the ability needs only the falsity of psychological, not
   physical, determinism.
 answers:
-- QUESTION-tmpvu7vk
+- QUESTION-068
 ---
 <!-- inactive-ok-file: THEORY-119 — Proposed; the PAP-is-false claim, declared this one's rival on blame -->
 <!-- inactive-ok-file: LIT-688 LIT-685 LIT-690 — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->

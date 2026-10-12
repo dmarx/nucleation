@@ -54,7 +54,7 @@ summary: >-
   into closure. No paper analyses a flame under the 2015 definitions.
   Neither paper says closure defines an organism.
 supports:
-- CLAIM-tmprrjrd
+- CLAIM-194
 ---
 <!-- inactive-ok-file: LIT-536 LIT-529 LIT-524 — Deferred, no lawful full text; Biological Autonomy, Deacon and Nicolis & Prigogine are named as the unread works that would bear on this, not leaned on -->
 <!-- inactive-ok-file: THEORY-073 THEORY-071 THEORY-026 THEORY-030 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->

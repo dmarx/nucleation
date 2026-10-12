@@ -43,7 +43,7 @@ summary: >-
   statistics do not vary with class. The evidence is one MLP, spectra
   only, judged by eye.
 answers:
-- QUESTION-tmp84iod
+- QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; this account extends it per layer and is no firmer than it -->
 

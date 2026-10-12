@@ -6,8 +6,8 @@
 
 **Network science** — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-0 of 38 QUESTION documents. Back to the [full index](../README.md).
+1 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-047](../../../record/questions.d/QUESTION-047.md) | Can a community of individually sound inquirers settle on a belief none of them reasoned their way to, as an organized whole can settle on a course none of its members intends, and which community-level mechanisms set it? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-030](../../../record/claims.d/CLAIM-030.md), [CLAIM-060](../../../record/claims.d/CLAIM-060.md), CLAIM- tmppevte and [QUESTION-049](../../../record/questions.d/QUESTION-049.md). [THEORY-143](../../../record/theory.d/THEORY-143.md), [THEORY-148](../../../record/theory.d/THEORY-148.md), [THEORY-146](../../../record/theory.d/THEORY-146.md) and [THEORY-151](../../../record/theory.d/THEORY-151.md) answer it in part; the body gives each one's limit. | Open |

@@ -40,7 +40,7 @@ summary: >-
   centroid towards the origin stays low-loss far past the members, which
   the authors cannot explain.
 answers:
-- QUESTION-tmpzj6fs
+- QUESTION-069
 ---
 <!-- inactive-ok-file: THEORY-115 THEORY-111 THEORY-107 THEORY-110 — Proposed; the account this one extends and siblings named in Connections, nothing here rests on their open parts -->
 

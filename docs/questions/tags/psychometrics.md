@@ -6,8 +6,8 @@
 
 **Psychometrics** — measuring minds — scales, reliability and validity, latent-variable and network models of psychological constructs, and model-based estimation of cognitive parameters (ADR-025).
 
-0 of 38 QUESTION documents. Back to the [full index](../README.md).
+1 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-057](../../../record/questions.d/QUESTION-057.md) | Can the integration that marks a will-organization as the agent's own be detected apart from the agent's own avowal that her commitments are hers? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-016](../../../record/claims.d/CLAIM-016.md) and [QUESTION-011](../../../record/questions.d/QUESTION-011.md). [THEORY-074](../../../record/theory.d/THEORY-074.md) answers it in part; the body gives each one's limit. Deferred with its line. | Deferred |

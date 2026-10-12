@@ -39,7 +39,7 @@ summary: >-
   task lowered free choice, −0.35 across 57 studies. Active: both sides of
   the dispute find this effect.
 answers:
-- QUESTION-tmprxh41
+- QUESTION-066
 ---
 <!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->
 <!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-154 — Deferred or Proposed; named as neighbours, nothing here rests on them -->

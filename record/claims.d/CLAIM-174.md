@@ -64,7 +64,7 @@ summary: >-
 illustrated_by:
 - CASE-044
 objected_by:
-- CLAIM-tmprrjrd
+- CLAIM-194
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->

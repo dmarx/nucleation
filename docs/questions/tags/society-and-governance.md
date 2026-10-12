@@ -6,8 +6,8 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-0 of 38 QUESTION documents. Back to the [full index](../README.md).
+1 of 69 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-041](../../../record/questions.d/QUESTION-041.md) | When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-030](../../../record/claims.d/CLAIM-030.md), [CLAIM-025](../../../record/claims.d/CLAIM-025.md) and [CLAIM-099](../../../record/claims.d/CLAIM-099.md). [THEORY-149](../../../record/theory.d/THEORY-149.md), [THEORY-152](../../../record/theory.d/THEORY-152.md) and [THEORY-207](../../../record/theory.d/THEORY-207.md) answer it in part; the body gives each one's limit. | Open |

@@ -33,7 +33,7 @@ summary: >-
   WikiText-103, with transformers up to about 10^8 tokens and horizons of
   tens of tokens, with γ estimated from trained models' own n-gram losses.
 answers:
-- QUESTION-tmp0dy29
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-201 QUESTION-025 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->
 

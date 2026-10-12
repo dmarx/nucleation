@@ -29,7 +29,7 @@ summary: >-
   derived. It says nothing about nonlinear networks' learning time, and it
   is not advice on how to initialise.
 answers:
-- QUESTION-tmp0dy29
+- QUESTION-039
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->
 

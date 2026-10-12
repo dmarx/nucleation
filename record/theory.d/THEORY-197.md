@@ -53,7 +53,7 @@ summary: >-
   derived independently here; Lin, Tegmark and Rolnick's v2 appendix makes
   it in substance (LIT-887).
 answers:
-- QUESTION-tmplynfm
+- QUESTION-060
 ---
 <!-- inactive-ok-file: THEORY-194 — Proposed; cited as the empirical counterpart from LIT-873 -->
 

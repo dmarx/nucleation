@@ -34,7 +34,7 @@ summary: >-
   Fitness for reactive attitudes is, on Wolf's hunch, being an
   intelligent self. Proposed: the positive view is her hunch.
 answers:
-- QUESTION-tmpvu7vk
+- QUESTION-068
 ---
 <!-- inactive-ok-file: LIT-685 LIT-684 — Deferred, unread; Wolf's book and Fischer and Ravizza's book, named as unread, nothing is quoted from them -->
 <!-- inactive-ok-file: THEORY-122 THEORY-118 THEORY-121 — Proposed; Wolf's Reason View, her asymmetry and Fischer and Ravizza's account, named for how this account bears on them -->

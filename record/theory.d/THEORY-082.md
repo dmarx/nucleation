@@ -29,7 +29,7 @@ summary: >-
   texts. The claim that the Fisher is the only invariant metric is
   Chentsov's, cited and not held.
 supports:
-- CLAIM-tmpczjuu
+- CLAIM-188
 ---
 <!-- inactive-ok-file: LIT-354 THEORY-087 THEORY-078 — Deferred and Proposed; named in Connections, nothing here rests on them -->
 

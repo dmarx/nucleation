@@ -40,7 +40,7 @@ summary: >-
   and a cascade inferred from co-expression. It shows synchrony by a
   shared cue, not coupling between colonies.
 answers:
-- QUESTION-tmpovbjd
+- QUESTION-063
 ---
 <!-- inactive-ok-file: THEORY-126 THEORY-069 THEORY-128 — Proposed; the record's accounts of synchrony from a shared cause and from coupling, named for a parallel and a contrast, and the reef-recovery account filed in the same batch; nothing here rests on them -->
 

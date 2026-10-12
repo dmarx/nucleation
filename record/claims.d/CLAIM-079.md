@@ -22,7 +22,7 @@ grounds:
 - THEORY-142
 supports:
 - ARG-007
-- CLAIM-tmptfikp
+- CLAIM-195
 summary: >-
   Applied from viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience
   distinction ([THEORY-132](../theory.d/THEORY-132.md)) (Section 6.3).

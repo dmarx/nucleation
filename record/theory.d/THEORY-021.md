@@ -33,7 +33,7 @@ summary: >-
   It does not make superposition contextual or quantum, and it says nothing
   yet about trained real models.
 answers:
-- QUESTION-tmpli6go
+- QUESTION-058
 ---
 
 # THEORY-021: In the efficiently packed geometries of uniform superposition the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity

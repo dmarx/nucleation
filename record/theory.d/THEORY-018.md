@@ -23,7 +23,7 @@ summary: >-
   ruled out holds only once the true concept directions are known. Under
   superposition ([LIT-323](../literature.d/LIT-323.md)) no inner product can make all features orthogonal.
 supports:
-- CLAIM-tmppqir6
+- CLAIM-193
 ---
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation

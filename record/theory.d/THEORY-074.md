@@ -48,7 +48,7 @@ summary: >-
   separate authenticity from autonomy. Proposed: one sample for the
   correlations, method unresolved.
 answers:
-- QUESTION-tmpjq32e
+- QUESTION-057
 ---
 <!-- inactive-ok-file: LIT-574 LIT-592 LIT-594 — Deferred; Kernis and Goldman, Wood et al. and Taylor, named as the unread works on authenticity, none leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-029 THEORY-077 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->

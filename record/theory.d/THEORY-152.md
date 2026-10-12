@@ -27,7 +27,7 @@ summary: >-
   informative; managers manage both. Proposed: argued from examples, and
   loyalty's role is presupposed from the book rather than developed.
 answers:
-- QUESTION-tmp11ze3
+- QUESTION-041
 ---
 <!-- inactive-ok-file: LIT-748 — Deferred, unread; the 1970 book this essay extends -->
 <!-- inactive-ok-file: THEORY-140 — Proposed; the CAIB account, named for comparison -->

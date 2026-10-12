@@ -54,7 +54,7 @@ summary: >-
   steady-state definitions have not been read.
 supports:
 - CLAIM-152
-- CLAIM-tmprrjrd
+- CLAIM-194
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 THEORY-043 — Proposed; named as the accounts this one bears on, not leaned on -->
 

@@ -49,7 +49,7 @@ summary: >-
   and neither has a marker that tells a felt alarm from an unfelt one.
   The function clause rests on ALARM alone, and Veit's account rivals it.
 answers:
-- QUESTION-tmplvh8e
+- QUESTION-059
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, named in prose, and this account's subcortical clause leans on its sources rather than on its status -->
 <!-- inactive-ok-file: THEORY-101 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->

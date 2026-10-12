@@ -33,7 +33,7 @@ summary: >-
   the evidence is the author's consultancy, and no observation the model
   forbids is named.
 answers:
-- QUESTION-tmpebtmy
+- QUESTION-054
 supports:
 - CLAIM-099
 ---
@@ -113,4 +113,4 @@ the model in detail or to demonstrate its validity".
 
 ## Note of 2026-10-12: against [THEORY-149](THEORY-149.md)
 
-Beer makes a distinct metasystem, including a function for foresight, a necessary condition of a system keeping its identity. [THEORY-149](THEORY-149.md) (Ostrom) reports commons governed durably "without either privatisation or central control". Read strictly, a long-lived commons with no distinct governing system is a counterexample. Read as Beer allows, with the metasystem a set of functions that may be distributed among the users, the commons' nested and user-monitored rules may realise it. The two then agree on nesting, as the Connections above say. Neither source analyses the other's cases, so which reading holds is open. No `rivals` is declared. [QUESTION-tmpebtmy](../questions.d/QUESTION-tmpebtmy.md), on whether there is a governing level apart from the regimes, is where the difference matters.
+Beer makes a distinct metasystem, including a function for foresight, a necessary condition of a system keeping its identity. [THEORY-149](THEORY-149.md) (Ostrom) reports commons governed durably "without either privatisation or central control". Read strictly, a long-lived commons with no distinct governing system is a counterexample. Read as Beer allows, with the metasystem a set of functions that may be distributed among the users, the commons' nested and user-monitored rules may realise it. The two then agree on nesting, as the Connections above say. Neither source analyses the other's cases, so which reading holds is open. No `rivals` is declared. [QUESTION-054](../questions.d/QUESTION-054.md), on whether there is a governing level apart from the regimes, is where the difference matters.

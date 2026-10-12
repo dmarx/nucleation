@@ -47,7 +47,7 @@ summary: >-
 presupposed_by:
 - THEORY-051
 answers:
-- QUESTION-tmp4hwnm
+- QUESTION-045
 ---
 <!-- inactive-ok-file: LIT-543 LIT-551 LIT-549 — Deferred; the 2024 meta-analysis, the 1996 avoidance paper and the RFT book, named as unread sources of the model or tests of it, none leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-048 THEORY-044 — Proposed; the loop account, the implementation account and the account of the self, named as neighbours -->
