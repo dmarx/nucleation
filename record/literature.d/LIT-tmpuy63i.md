@@ -1,0 +1,47 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-035](../questions.d/QUESTION-035.md), where a minimal model shows phase alignment among components making a higher-level unit. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'An ability to respond begins with inner alignment: How phase synchronisation effects transitions to higher levels of agency'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding
+    similarity to QUESTION-035 and judged from the abstract. Citation checked against Crossref
+    on 2026-10-12: Tazzio Tissot, Mike Levin, Chris Buckley et al., bioRxiv preprint,
+    2024-02-21, which is the `published:` date. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone at commit d8b5ba5) for the identifier and title found nothing.
+tags:
+- agency
+- complex-systems
+- individuation
+date: '2026-10-12'
+published: '2024-02-21'
+doi: '10.1101/2024.02.16.580248'
+first_author: 'Tissot'
+keywords:
+- 'phase synchronisation'
+- 'higher-level agency'
+- 'major evolutionary transitions'
+- 'collective behaviour'
+- 'minimal agents'
+implementations: []
+summary: >-
+  Tissot et al. (2024). The paper models agents with a minimal competency: taking one of two
+  actions to reduce stress. It shows that positive feedback on the timing of the agents'
+  responses, like phase synchronisation in weakly coupled oscillators, makes the collective
+  suddenly able to respond to external stress in the same minimal sense. It reports a measurable
+  rise in problem-solving competency. It suggests this "waking up" of collectives may relate to
+  cell-cycle synchronisation in development and in evolutionary transitions. Not read.
+---
+
+# LIT-tmpuy63i: An ability to respond begins with inner alignment: How phase synchronisation effects transitions to higher levels of agency
+
+Tazzio Tissot, Mike Levin, Chris Buckley, Richard Watson (2024), *bioRxiv*.
+
+Filed for [QUESTION-035](../questions.d/QUESTION-035.md): it is a minimal model in which aligning the timing of components makes a
+higher-level unit that acts as one. It is a case for the mutual-entrainment test of [CLAIM-172](../claims.d/CLAIM-172.md) on
+when a combined form is one system.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmpsbq58](../questions.d/QUESTION-tmpsbq58.md), where it characterizes generalized noncontextuality process-theoretically and derives it from a principle of Leibnizianity. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Unscrambling the omelette of causation and inference: The framework of causal-inferential theories'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity to
+    QUESTION-tmpsbq58 and judged from the abstract. Citation checked against arXiv on 2026-10-12: David Schmid, John
+    H. Selby, Robert W. Spekkens, arXiv:2009.03297, submitted 2020-09-07, which is the `published:` date. Not held in
+    the Anthology of the SOTA: a grep of its record/ (clone at commit d8b5ba5) for the identifier and title found
+    nothing.
+tags:
+- contextuality
+- quantum-foundations
+- causality
+date: '2026-10-12'
+published: '2020-09-07'
+arxiv: '2009.03297'
+first_author: 'Schmid'
+keywords:
+- 'causal-inferential theories'
+- 'process theories'
+- 'generalized noncontextuality'
+- 'Leibnizianity'
+- 'Bell locality'
+implementations: []
+summary: >-
+  Schmid et al. (2020). The paper introduces causal-inferential theories, which pair a theory of causal influences
+  with a theory of inference and say how the two interact. In this frame it recasts operational and realist theories
+  and characterizes the assumptions behind no-go theorems based on Bell locality and on generalized noncontextuality.
+  It shows that its characterization of generalized noncontextuality follows from a principle it calls Leibnizianity.
+  Not read.
+---
+
+# LIT-tmp7kfdl: Unscrambling the omelette of causation and inference: The framework of causal-inferential theories
+
+David Schmid, John H. Selby and Robert W. Spekkens (2020), *arXiv:2009.03297*.
+
+Filed for [QUESTION-tmpsbq58](../questions.d/QUESTION-tmpsbq58.md): a process-theoretic statement of generalized noncontextuality, derived from Leibnizianity and set beside the Bell-type assumptions. It is the material for saying what refuting Spekkens's notion, as opposed to the Kochen–Specker or sheaf notion, would commit the record to.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

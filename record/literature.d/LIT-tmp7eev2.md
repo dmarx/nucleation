@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-024](../questions.d/QUESTION-024.md), where it tests whether a task induced from demonstrations and the same task given by instructions share an internal representation. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Do different prompting methods yield a common task representation in language models?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity to
+    QUESTION-024 and judged from the abstract. Citation checked against arXiv on 2026-10-12: Guy
+    Davidson, Todd M. Gureckis, Brenden M. Lake et al., arXiv:2505.12075 (comment: presented at NeurIPS
+    2025), 2025-05-17, which is the `published:` date. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone at commit d8b5ba5) for the identifier and title found nothing.
+tags:
+- representation-learning
+- pragmatics
+- anthology-candidate
+date: '2026-10-12'
+published: '2025-05-17'
+arxiv: '2505.12075'
+first_author: 'Davidson'
+keywords:
+- 'function vectors'
+- 'in-context learning'
+- 'task representation'
+- 'instructions'
+- 'demonstrations'
+implementations: []
+summary: >-
+  Davidson et al. (2025). The paper extends function vectors from few-shot demonstrations to short
+  instruction prompts and extracts instruction function vectors that improve zero-shot accuracy. It
+  finds that demonstration and instruction function vectors use different model components. It
+  concludes that the two prompting forms do not induce a common task representation but partly
+  overlapping mechanisms. Not read.
+---
+
+# LIT-tmp7eev2: Do different prompting methods yield a common task representation in language models?
+
+Guy Davidson, Todd M. Gureckis, Brenden M. Lake and Adina Williams (2025), *arXiv:2505.12075* (NeurIPS 2025).
+
+Filed for [QUESTION-024](../questions.d/QUESTION-024.md): a test of whether a task induced from demonstrations and the same task given by instructions yield the same internal task representation (function vectors), that is, whether an induced frame transfers across presentations.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*

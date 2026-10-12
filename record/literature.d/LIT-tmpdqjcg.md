@@ -1,0 +1,43 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-12 from the owner''s papers-feed, not read. Registered for [QUESTION-tmp519kx](../questions.d/QUESTION-tmp519kx.md), where it names a mechanism by which individually optimal debating gives a worse collective belief. No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+title: 'Cooperative Dilemmas in Rational Debate'
+version: 1
+history:
+- version: 1
+  date: '2026-10-12'
+  note: >-
+    Filed, not read. Found in the owner's papers-feed snapshot of 2026-10-11 by embedding similarity to
+    QUESTION-tmp519kx and judged from the abstract. Citation checked against arXiv on 2026-10-12: Toby
+    Handfield, Julián Garcia, Christian Hilbe et al., arXiv:2504.06485, 2025-04-08, which is the
+    `published:` date. Not held in the Anthology of the SOTA: a grep of its record/ (clone at commit
+    d8b5ba5) for the identifier and title found nothing.
+tags:
+- epistemology
+- game-theory
+- social-science
+date: '2026-10-12'
+published: '2025-04-08'
+arxiv: '2504.06485'
+first_author: 'Handfield'
+keywords:
+- 'rational debate'
+- 'social dilemma'
+- 'collective epistemics'
+- 'belief revision'
+- 'game theory'
+implementations: []
+summary: >-
+  Handfield et al. (2025). The paper models debaters who want both to find the truth and to avoid
+  revising their beliefs. It shows that this tension makes a social dilemma, where strategies optimal
+  for each debater undermine the collective search for truth. It also finds that raising the debaters'
+  motivation to seek truth can sometimes give equilibria with worse collective outcomes. Not read.
+---
+
+# LIT-tmpdqjcg: Cooperative Dilemmas in Rational Debate
+
+Toby Handfield, Julián Garcia, Christian Hilbe and Shang Long Yeo (2025), *arXiv:2504.06485*.
+
+Filed for [QUESTION-tmp519kx](../questions.d/QUESTION-tmp519kx.md): strategies that are optimal for each debater give a collectively worse belief outcome. That is a named mechanism by which a group settles on what no member reasoned to.
+
+*Seeded from the abstract, not a reading. A reading should check the claim above first.*
