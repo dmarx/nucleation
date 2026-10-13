@@ -22,7 +22,10 @@ summary: >-
   that conceded the rest. The manuscript §4 and §11: Noether-type
   results give "conservation criteria for particular stochastic
   processes, not a universal conservation law of meaning".
+grounds:
+- THEORY-211
 ---
+<!-- inactive-ok-file: THEORY-211 LIT-1012 LIT-1013 — Proposed; the learning-dynamics instance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: CLAIM-107 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-093: Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived
@@ -43,3 +46,23 @@ symmetries to conserved currents; its hypotheses do not hold automatically in
 communicative systems." §11: "Noether-type results supply conservation criteria
 for particular stochastic processes, not a universal conservation law of
 meaning."
+
+## Note of 2026-10-13: an instance in learning dynamics
+
+Two readings give this claim a worked instance outside communication.
+
+- **A derived law, with a condition.** In Neural Mechanics ([LIT-1012](../literature.d/LIT-1012.md)), a
+  differentiable symmetry of a network's loss gives a conserved quantity
+  under gradient flow only when a further condition holds,
+  ⟨θ, [∂_α ∂_θ ψ]g⟩ = 0 (Theorem 1). The conservation law is derived for
+  the dynamics; it does not come with the invariance alone.
+- **A symmetry with no conservation law.** Under SGD, a stochastic process
+  whose minibatch gradients share the symmetry exactly, the same quantity
+  is not conserved. For a rescaling symmetry, minibatch noise drives it
+  toward the point where the layers' gradient noise balances (Ziyin et
+  al., [LIT-1013](../literature.d/LIT-1013.md); [THEORY-211](../theory.d/THEORY-211.md)).
+
+[THEORY-211](../theory.d/THEORY-211.md) now grounds this claim. The instance supports the claim's
+point that a symmetry principle can be borrowed but its conservation
+analogue has to be derived, and shows the derivation can come out
+negative.

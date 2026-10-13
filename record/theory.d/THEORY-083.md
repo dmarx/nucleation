@@ -44,6 +44,7 @@ summary: >-
 answers:
 - QUESTION-051
 ---
+<!-- inactive-ok-file: THEORY-tmppei8o QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 
 # THEORY-083: Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
@@ -128,3 +129,16 @@ with this account and does not test it.
 - **Information theory.** Theorem 5 is a codebook result for a Gaussian
   channel in the large-deviations regime, which is why this account
   carries `information-theory`.
+
+## Note of 2026-10-13: a symmetry account of collapse
+
+Ziyin (2024), [LIT-tmp3ni7o](../literature.d/LIT-tmp3ni7o.md), read in [NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md), attributes neural
+collapse to symmetries of the loss ([THEORY-tmppei8o](THEORY-tmppei8o.md)). Symmetric subspaces
+are absorbing for gradient training, and favoured when weight decay is
+strong. This account's protocol uses weight decay. The paper offers a
+mapping, not a derivation: it describes neural collapse only as the
+penultimate representation becoming low-rank, and does not address NC1–NC4
+as this account defines them. Whether the symmetry account predicts the
+simplex equiangular geometry, or only low rank, is open. It bears on
+[QUESTION-080](../questions.d/QUESTION-080.md) too: an absorbing collapsed state would stay fixed while
+other parameters keep moving.

@@ -1,0 +1,71 @@
+---
+status: Active
+status_note: 'read 2026-10-13 ([NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md)): main text in full; the proofs in Appendix C and the experimental details in Appendix B not checked. Cited by [LIT-970](LIT-970.md) as Ziyin (2024). The source of [THEORY-tmppei8o](../theory.d/THEORY-tmppei8o.md).'
+title: 'Symmetry Induces Structure and Constraint of Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Read at the owner's request, as one of the follow-up readings after
+    the law of balance (THEORY-211), from arXiv v2 (1 June 2024, the ICML
+    2024 version), text extracted with pdftotext. `published:` is the v1
+    date, 29 September 2023. Not held in the Anthology of the SOTA: a grep
+    of its record for the identifier found nothing.
+tags:
+- learning-theory
+- loss-landscapes
+- anthology-candidate
+date: '2026-10-13'
+published: '2023-09-29'
+arxiv: '2309.16932'
+first_author: 'Ziyin'
+keywords:
+- 'mirror symmetry'
+- 'stationary condition'
+- 'absorbing state'
+- 'sparsity'
+- 'low rank'
+- 'neuron collapse'
+implementations: []
+summary: >-
+  Ziyin (2024), ICML. A loss has an O-mirror symmetry if it is invariant
+  under the reflection I − 2OOᵀ. Rescaling, rotation and permutation
+  symmetries all imply mirror symmetries. Every such symmetry makes
+  Oᵀθ = 0 a stationary condition: once there, (S)GD cannot leave. It also
+  splits the Hessian into blocks. Above a threshold weight decay, all
+  minima satisfy the constraint (Theorem 1). Strong gradient noise makes
+  it attractive even at a saddle (§2.4). As corollaries, rescaling gives
+  sparsity, rotation gives low rank, and permutation gives identical,
+  merged neurons. The paper ties these to collapse phenomena and to loss
+  of plasticity.
+---
+<!-- inactive-ok-file: THEORY-tmppei8o THEORY-184 THEORY-083 THEORY-211 — Proposed; the accounts this reading feeds or bears on, open -->
+
+# LIT-tmp3ni7o: Symmetry Induces Structure and Constraint of Learning
+
+Liu Ziyin (2024), *ICML 2024* — [ARXIV-2309.16932](https://arxiv.org/abs/2309.16932)
+
+## Key takeaways
+
+- **Mirror symmetries unify the common ones.** Rescaling, rotation and
+  permutation symmetries each imply reflection symmetries
+  ℓ(θ) = ℓ((I − 2OOᵀ)θ).
+- **Every mirror symmetry gives an absorbing constraint.** Once
+  Oᵀθ = 0, the gradient keeps it there for any minibatch and weight decay
+  (Theorem 1, part 1; Corollary 1).
+- **Weight decay and noise make it favoured.** Above a critical weight
+  decay, every minimum satisfies the constraint (part 4). With large
+  learning rate or noisy gradients, the symmetric set is attractive for
+  SGD even when it is a strict saddle for GD (§2.4, Eq. 5).
+- **Structure as a corollary.** Rescaling gives sparsity, rotation gives
+  low rank, permutation gives homogeneous neurons. The structures vanish
+  when the symmetry is removed (Fig. 3).
+
+## Standing in the record
+
+Read as a follow-up to the law of balance ([THEORY-211](../theory.d/THEORY-211.md)), for the discrete
+symmetries that law does not treat. The reading is [NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md), and the
+account filed from it is [THEORY-tmppei8o](../theory.d/THEORY-tmppei8o.md). It supplies the asymptotic half
+that [THEORY-184](../theory.d/THEORY-184.md) leaves open, and it offers a symmetry account of the
+collapse in [THEORY-083](../theory.d/THEORY-083.md).
