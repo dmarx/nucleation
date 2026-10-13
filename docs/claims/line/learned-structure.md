@@ -6,8 +6,8 @@
 
 **How training finds structure** — why trained networks come to have the structure they have, which features, symmetries and connected solution sets training reaches and why — understanding, not instruction for practice, which belongs to the anthology.
 
-0 of 262 CLAIM documents. Back to the [full index](../README.md).
+1 of 270 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-263](../../../record/claims.d/CLAIM-263.md) | Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart | The general content of [CLAIM-187](../../../record/claims.d/CLAIM-187.md), filed alone in learned-structure under [ADR-040](../../../record/decisions.d/ADR-040.md): a measured protocol for asking whether two trained solutions are the same solution. Quotient the full symmetry group, including the orthogonal map on a transformer's residual stream ([THEORY-112](../../../record/theory.d/THEORY-112.md)). Read a barrier that survives as a difference of mechanism ([THEORY-116](../../../record/theory.d/THEORY-116.md)). Inside a basin, every layer's features interpolate ([THEORY-111](../../../record/theory.d/THEORY-111.md)). The test cannot run where features have no counterpart ([THEORY-113](../../../record/theory.d/THEORY-113.md)) or the objectives share no structure ([THEORY-115](../../../record/theory.d/THEORY-115.md)). It is the first claim in the learned-structure line. | Proposed |

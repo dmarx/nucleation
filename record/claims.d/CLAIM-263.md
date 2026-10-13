@@ -1,5 +1,8 @@
 ---
+number: 263
 status: Proposed
+formerly:
+- CLAIM-tmp3uhl1
 title: "Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart"
 version: 1
 history:
@@ -45,7 +48,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-111 THEORY-112 THEORY-113 THEORY-115 THEORY-116 THEORY-108 CLAIM-187 — Proposed; the readings the protocol is assembled from, a case for it, and the claim that carries it further, open -->
 
-# CLAIM-tmp3uhl1: Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
+# CLAIM-263: Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
 
 ## The claim
 

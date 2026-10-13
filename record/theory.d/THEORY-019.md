@@ -51,7 +51,7 @@ presupposes:
 - THEORY-017
 supports:
 - CLAIM-193
-- CLAIM-tmpqe024
+- CLAIM-269
 ---
 <!-- inactive-ok-file: THEORY-017 — Proposed; the sense of intrinsic this account presupposes, and this account is no firmer than it -->
 

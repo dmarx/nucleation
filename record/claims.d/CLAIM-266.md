@@ -1,5 +1,8 @@
 ---
+number: 266
 status: Proposed
+formerly:
+- CLAIM-tmpbcck8
 title: 'A family of probes that supplies an optimized system''s training signal
   cannot also certify what the system preserves: optimization pushes toward
   whatever the probes reward, including what they cannot see, so preservation
@@ -39,7 +42,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-149 CLAIM-190 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-tmpbcck8: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
+# CLAIM-266: A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 
 ## The claim
 

@@ -39,7 +39,7 @@ summary: >-
   control separates the effect of task difference from that of depth.
 supports:
 - CLAIM-187
-- CLAIM-tmp3uhl1
+- CLAIM-263
 ---
 <!-- inactive-ok-file: THEORY-116 THEORY-107 THEORY-112 — Proposed; accounts named in Connections, nothing here rests on them -->
 

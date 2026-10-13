@@ -45,7 +45,7 @@ summary: >-
   soups and SWA is not measured.
 supports:
 - CLAIM-187
-- CLAIM-tmp3uhl1
+- CLAIM-263
 ---
 <!-- inactive-ok-file: THEORY-116 THEORY-105 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
 

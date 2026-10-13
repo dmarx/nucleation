@@ -30,7 +30,7 @@ supports:
 - CLAIM-137
 - CLAIM-142
 - CLAIM-150
-- CLAIM-tmp5bgh5
+- CLAIM-264
 ---
 
 # THEORY-032: The Yoneda lemma determines an object only up to isomorphism, from its whole hom-functor, among objects the category already has; as a formal version of "an object is determined by its relations" it presupposes the relata

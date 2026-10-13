@@ -1,5 +1,8 @@
 ---
+number: 268
 status: Proposed
+formerly:
+- CLAIM-tmpkyg0l
 title: 'Model stitching certifies an order of information only in its reconstruction
   form: a map fitted to reproduce the target layers shows the source representation
   is at least as informative for every decision on the label, task-loss stitching
@@ -43,7 +46,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-050 CLAIM-126 THEORY-176 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-tmpkyg0l: Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
+# CLAIM-268: Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
 
 ## The claim
 

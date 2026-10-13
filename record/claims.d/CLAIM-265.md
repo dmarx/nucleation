@@ -1,5 +1,8 @@
 ---
+number: 265
 status: Proposed
+formerly:
+- CLAIM-tmpavkxk
 title: 'Local descriptions that disagree are not thereby incompatible: whether
   they obstruct a joint description can be decided only once the correspondence
   between their observations is fixed, and a correspondence fitted to remove
@@ -38,7 +41,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-004 CLAIM-143 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-tmpavkxk: Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description can be decided only once the correspondence between their observations is fixed, and a correspondence fitted to remove the disagreement decides nothing
+# CLAIM-265: Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description can be decided only once the correspondence between their observations is fixed, and a correspondence fitted to remove the disagreement decides nothing
 
 ## The claim
 

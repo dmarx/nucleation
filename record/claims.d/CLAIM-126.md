@@ -20,7 +20,7 @@ date: '2026-10-09'
 line: pragmatic-transport
 rests_on:
 - CLAIM-050
-- CLAIM-tmpkyg0l
+- CLAIM-268
 complements:
 - CLAIM-125
 grounds:
@@ -37,7 +37,7 @@ summary: >-
 objected_by:
 - CLAIM-230
 ---
-<!-- inactive-ok-file: CLAIM-tmpkyg0l — Proposed; the general form of a premise, filed under ADR-040, open -->
+<!-- inactive-ok-file: CLAIM-268 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-050 CLAIM-125 THEORY-176 THEORY-156 THEORY-175 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-126: Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
@@ -96,8 +96,8 @@ says that the penalty is not, by itself, an order of information.
 
 ## Note of 2026-10-13: the general content is filed separately
 
-Under [ADR-040](../decisions.d/ADR-040.md), the result about the two forms of stitching is filed on its own as [CLAIM-tmpkyg0l](CLAIM-tmpkyg0l.md), in the
+Under [ADR-040](../decisions.d/ADR-040.md), the result about the two forms of stitching is filed on its own as [CLAIM-268](CLAIM-268.md), in the
 formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-050](CLAIM-050.md), for reading stitching as a test of decision-relevant transport. Claims in other lines that need
-only the general content cite [CLAIM-tmpkyg0l](CLAIM-tmpkyg0l.md), so setting pragmatic-transport aside
+only the general content cite [CLAIM-268](CLAIM-268.md), so setting pragmatic-transport aside
 does not take it from them.

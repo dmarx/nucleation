@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [13 Oct 01:14 — ADR-040: plural lines, the formal-apparatus line, group A and group B](2026-10.md#adr-040-plural-lines-the-formal-apparatus-line-group-a-and-group-b)
 - [12 Oct 21:10 — Session of 2026-10-12: an interlocutor reads LIT-638 against CLAIM-163, filed as advice](2026-10.md#session-of-2026-10-12-an-interlocutor-reads-lit-638-against-claim-163-filed-as-advice)
 - [12 Oct 20:35 — Session of 2026-10-12: the interlocutor reads PR #121's reconciliation, filed as advice](2026-10.md#session-of-2026-10-12-the-interlocutor-reads-pr-121s-reconciliation-filed-as-advice)
 - [12 Oct 20:06 — Session of 2026-10-12: reconciling PR #121 with the record after #122–#129](2026-10.md#session-of-2026-10-12-reconciling-pr-121-with-the-record-after-122129)
@@ -52,8 +53,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-43 entries across 1 book, newest first.
+44 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 43 | 2026-10-07 | 2026-10-12 |
+| [2026-10](2026-10.md) | 44 | 2026-10-07 | 2026-10-13 |

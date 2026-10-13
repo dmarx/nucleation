@@ -6,7 +6,7 @@
 
 **Disclaimed** — something the record explicitly does not claim — "X does not establish Y" — filed so that the boundary has an address and a recurring misreading has somewhere to be pointed.
 
-9 of 262 CLAIM documents. Back to the [full index](../README.md).
+9 of 270 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

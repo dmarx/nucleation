@@ -1,5 +1,8 @@
 ---
+number: 269
 status: Proposed
+formerly:
+- CLAIM-tmpqe024
 title: A regularized linear readout can tell apart only representations that
   differ in normalized kernel, and kernels fix a representation only up to
   the symmetry of what is observed, so any distinction beyond that is supplied
@@ -40,7 +43,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-142 CLAIM-193 THEORY-002 THEORY-008 THEORY-019 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-tmpqe024: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
+# CLAIM-269: A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
 
 ## The claim
 

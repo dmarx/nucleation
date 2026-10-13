@@ -32,7 +32,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-046
 - CLAIM-011
-- CLAIM-tmp5bgh5
+- CLAIM-264
 grounds:
 - THEORY-032
 - LIT-221
@@ -65,7 +65,7 @@ supports:
 objected_by:
 - CLAIM-206
 ---
-<!-- inactive-ok-file: CLAIM-tmp5bgh5 — Proposed; the general form of a premise, filed under ADR-040, open -->
+<!-- inactive-ok-file: CLAIM-264 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-046 CLAIM-050 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->
@@ -171,8 +171,8 @@ all one-dimensional linear projections determine a distribution
 
 ## Note of 2026-10-13: the general content is filed separately
 
-Under [ADR-040](../decisions.d/ADR-040.md), probe-relative equivalence and the evidential rule is filed on its own as [CLAIM-tmp5bgh5](CLAIM-tmp5bgh5.md), in the
+Under [ADR-040](../decisions.d/ADR-040.md), probe-relative equivalence and the evidential rule is filed on its own as [CLAIM-264](CLAIM-264.md), in the
 formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-046](CLAIM-046.md) and [CLAIM-011](CLAIM-011.md), for the realist reading of communicative identity and the anchored-correspondence remedy. Claims in other lines that need
-only the general content cite [CLAIM-tmp5bgh5](CLAIM-tmp5bgh5.md), so setting pragmatic-transport aside
+only the general content cite [CLAIM-264](CLAIM-264.md), so setting pragmatic-transport aside
 does not take it from them.

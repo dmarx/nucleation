@@ -18,8 +18,8 @@ tags:
 date: '2026-10-12'
 line: pragmatic-transport
 rests_on:
-- CLAIM-tmp3uhl1
-- CLAIM-tmp5bgh5
+- CLAIM-263
+- CLAIM-264
 grounds:
 - THEORY-112
 - THEORY-116
@@ -35,7 +35,7 @@ summary: >-
   carry-over from trained networks to communicative kinds is the
   filer's, and is the claim's weak point.
 ---
-<!-- inactive-ok-file: CLAIM-tmp3uhl1 CLAIM-tmp5bgh5 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
+<!-- inactive-ok-file: CLAIM-263 CLAIM-264 — Proposed; the general forms of this claim's premises, filed under ADR-040, open -->
 
 # CLAIM-187: Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison
 
@@ -101,9 +101,9 @@ its characters.
 ## Note of 2026-10-13: the protocol is filed separately, and the premise re-pointed
 
 Under [ADR-040](../decisions.d/ADR-040.md) the protocol for trained networks is filed on its own as
-[CLAIM-tmp3uhl1](CLAIM-tmp3uhl1.md), the first claim in the learned-structure line, and this
+[CLAIM-263](CLAIM-263.md), the first claim in the learned-structure line, and this
 claim now rests on it. What stays here is the carry-over to communicative
 realizations, which the summary already calls the claim's weak point. The
 claim also needed only the relativity of observational equivalence to
-probes, so its `rests_on` names [CLAIM-tmp5bgh5](CLAIM-tmp5bgh5.md), the general form, in place
+probes, so its `rests_on` names [CLAIM-264](CLAIM-264.md), the general form, in place
 of [CLAIM-142](CLAIM-142.md). The body's citation of [CLAIM-142](CLAIM-142.md) stands.
