@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-035](../questions.d/QUESTION-035.md) and [CLAIM-152](../claims.d/CLAIM-152.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. No lawful full text was looked for.'
+status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-035](../questions.d/QUESTION-035.md) and [CLAIM-152](../claims.d/CLAIM-152.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for a lawful full text on 2026-10-13 and found none: OpenAlex reports it closed (no open-access location, no repository full text); Semantic Scholar gives no openAccessPdf; the PhilPapers record (PETTPO-10) returned 403 and web searches found no PhilArchive upload; web searches found no author-posted or course-hosted copy (NYU hosts Unger''s later "The Mental Problems of the Many", not this paper, and as.nyu.edu returned 403 to direct requests, so the faculty page could not be checked); a third-party bibliography page (stafforini.com) lists it but is not an author, institutional or course copy, so it was not used. The Wiley version of record is paywalled.'
 title: 'The Problem of the Many'
 version: 1
 history:
