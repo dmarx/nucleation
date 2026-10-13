@@ -85,8 +85,8 @@ same selection that decides what remains.
 
 ## What it does not say
 
-- It has not been tested. The released logs (2017, 2022, 2023) would allow
-  a survival analysis: each participant's hazard of not returning, with the
+- It has not been tested. The proposed study is [CASE-tmp7b477](../cases.d/CASE-tmp7b477.md). The released
+  logs (2017, 2022, 2023) would allow a survival analysis: each participant's hazard of not returning, with the
   survival of the pixels they placed as a time-varying covariate, and the
   rate of placements fitting no artwork over time.
 - It does not say all decline is selective. Novelty wears off for everyone,
