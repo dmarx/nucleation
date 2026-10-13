@@ -1305,6 +1305,16 @@ lint:
   mute:
   - inert-status
   - acknowledged-uniformity
+patterns:
+  # A claim and the claims an argument draws it from. No field holds this:
+  # the conclusion is the ARG's `concludes`, the premises its `rests_on`. So
+  # the `argument` chain walks it beside `rests_on`, and each step it adds
+  # names the argument it went through. A Rejected argument draws no step.
+  argued_from:
+    match: >-
+      (c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM)
+      WHERE NOT (g {status: 'Rejected'})
+    blurb: A claim and the claims an argument that is not Rejected draws it from.
 chains:
   lineage:
     scheme: LIT
@@ -1329,6 +1339,7 @@ chains:
     scheme: CLAIM
     relation:
     - rests_on
+    - argued_from
     invariant: line
     output: docs/argument-lines.md
     title: Lines of argument
