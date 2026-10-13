@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-035](../questions.d/QUESTION-035.md) and [CLAIM-194](../claims.d/CLAIM-194.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for on 2026-10-13, none found: OpenAlex and Semantic Scholar report it closed, with no open-access or repository location; Crossref carries no licence or full-text link; it is not an open-access title on MIT Press Direct (the page refused automated access, and the MIT Press still sells it in print); a web search found only catalogue and retail records; Varzi''s Columbia page (columbia.edu/~av72) and the PhilArchive record (CASPAP) could not be opened from here (bot challenges), and the Wayback Machine holds no snapshot of the former, so an author-posted copy is not ruled out.'
+status: Unavailable
+status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-035](../questions.d/QUESTION-035.md) and [CLAIM-194](../claims.d/CLAIM-194.md). No NOTE is filed, and it stays Unavailable until it is read, not on merit. Looked for on 2026-10-13, none found: OpenAlex and Semantic Scholar report it closed, with no open-access or repository location; Crossref carries no licence or full-text link; it is not an open-access title on MIT Press Direct (the page refused automated access, and the MIT Press still sells it in print); a web search found only catalogue and retail records; Varzi''s Columbia page (columbia.edu/~av72) and the PhilArchive record (CASPAP) could not be opened from here (bot challenges), and the Wayback Machine holds no snapshot of the former, so an author-posted copy is not ruled out.'
 title: 'Parts and Places: The Structures of Spatial Representation'
 version: 1
 history:
@@ -17,6 +17,7 @@ history:
     and the DOI found nothing, and no anthology topic holds mereotopology, so
     ADR-013 does not apply. Named in MOM-LIT-016 with Smith & Varzi, as for
     that entry.
+    Set Unavailable the same day under ADR-041, the search having found no lawful copy.
 tags:
 - mereology
 - metaphysics

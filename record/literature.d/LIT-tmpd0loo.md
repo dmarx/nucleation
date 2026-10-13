@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [CLAIM-098](../claims.d/CLAIM-098.md), [CLAIM-011](../claims.d/CLAIM-011.md) and [QUESTION-005](../questions.d/QUESTION-005.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for on 2026-10-13, none found: OpenAlex reports it closed, with no open-access or repository location; Semantic Scholar has no record of the DOI; Crossref gives only Cambridge Core''s terms licence; Cambridge Core sells the chapters behind ''Get access''; a web search found no author-posted chapter or draft, and no personal page for Jerry (Jeremy) Seligman listing one; the PhilArchive record (BARIFT) could not be opened from here (bot challenge). Seligman''s later chapter on channels in Sommaruga (ed.), Formal Theories of Information (Springer 2009; Auckland ResearchSpace 2292/13632) is a separate work, not a chapter of this book, and was not read.'
+status: Unavailable
+status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [CLAIM-098](../claims.d/CLAIM-098.md), [CLAIM-011](../claims.d/CLAIM-011.md) and [QUESTION-005](../questions.d/QUESTION-005.md). No NOTE is filed, and it stays Unavailable until it is read, not on merit. Looked for on 2026-10-13, none found: OpenAlex reports it closed, with no open-access or repository location; Semantic Scholar has no record of the DOI; Crossref gives only Cambridge Core''s terms licence; Cambridge Core sells the chapters behind ''Get access''; a web search found no author-posted chapter or draft, and no personal page for Jerry (Jeremy) Seligman listing one; the PhilArchive record (BARIFT) could not be opened from here (bot challenge). Seligman''s later chapter on channels in Sommaruga (ed.), Formal Theories of Information (Springer 2009; Auckland ResearchSpace 2292/13632) is a separate work, not a chapter of this book, and was not read.'
 title: 'Information Flow: The Logic of Distributed Systems'
 version: 1
 history:
@@ -19,6 +19,7 @@ history:
     holds channel theory, so ADR-013 does not apply. Mathematics of Meaning
     names it in MOM-LIT-006, a survey entry noting its corpus listed the book
     and never used it.
+    Set Unavailable the same day under ADR-041, the search having found no lawful copy.
 tags:
 - logic
 - information-theory

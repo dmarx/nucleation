@@ -4,7 +4,10 @@
 # A note records why a paper is worth keeping. It is not a summary of the
 # paper; it is this project's reading of it.
 
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
+# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
+# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
+# whose lawful full text was looked for and not reached, with where in the
+# status note (ADR-041).
 # See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
 # by setting it, with the reason in the status note and the long version
 # under "Standing in the record" below. Never by deleting the file —

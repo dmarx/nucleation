@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-009](../questions.d/QUESTION-009.md) and [QUESTION-035](../questions.d/QUESTION-035.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. Looked for on 2026-10-13, none found: OpenAlex reports it closed, with no open-access or repository location; Semantic Scholar has no record of the DOI; Crossref links only De Gruyter''s Cornell University Press Archive, which is paid; Project MUSE (book 49506) marks it restricted; it is not on Cornell University Press''s Cornell Open list; a web search found only catalogue, retail and lending records, and one unofficial PDF host, which was not used.'
+status: Unavailable
+status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-009](../questions.d/QUESTION-009.md) and [QUESTION-035](../questions.d/QUESTION-035.md). No NOTE is filed, and it stays Unavailable until it is read, not on merit. Looked for on 2026-10-13, none found: OpenAlex reports it closed, with no open-access or repository location; Semantic Scholar has no record of the DOI; Crossref links only De Gruyter''s Cornell University Press Archive, which is paid; Project MUSE (book 49506) marks it restricted; it is not on Cornell University Press''s Cornell Open list; a web search found only catalogue, retail and lending records, and one unofficial PDF host, which was not used.'
 title: 'Material Beings'
 version: 1
 history:
@@ -22,6 +22,7 @@ history:
     title and the DOI found nothing, and no anthology topic holds composition,
     so ADR-013 does not apply. Named in MOM-LIT-015, a survey entry on the
     literature its corpus did not cite.
+    Set Unavailable the same day under ADR-041, the search having found no lawful copy.
 tags:
 - mereology
 - metaphysics
