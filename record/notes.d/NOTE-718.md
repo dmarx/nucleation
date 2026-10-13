@@ -1,6 +1,9 @@
 ---
+number: 718
 status: Read
-paper: LIT-tmpsvtig
+formerly:
+- NOTE-tmp7i51r
+paper: LIT-1023
 title: 'Gallego & Orús — Language Design as Information Renormalization'
 version: 1
 history:
@@ -35,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-098 CLAIM-061 CLAIM-163 — Proposed; open claims this reading tests or compares, cited as open -->
 <!-- inactive-ok-file: THEORY-197 THEORY-036 — Proposed; readings this one is set beside, not leaned on -->
 
-# NOTE-tmp7i51r: Gallego & Orús — Language Design as Information Renormalization
+# NOTE-718: Gallego & Orús — Language Design as Information Renormalization
 
 ## Contribution
 

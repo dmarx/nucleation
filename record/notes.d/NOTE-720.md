@@ -1,6 +1,9 @@
 ---
+number: 720
 status: Read
-paper: LIT-tmpbvcwm
+formerly:
+- NOTE-tmpqsjch
+paper: LIT-1018
 title: 'Weber & Varela — Life after Kant'
 version: 1
 history:
@@ -35,7 +38,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-194 CLAIM-157 CLAIM-174 — Proposed; the counter this reading was filed for and its targets, open -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 THEORY-073 — Proposed; the accounts the counter grounds on, named for what this reading adds to them -->
 
-# NOTE-tmpqsjch: Weber & Varela — Life after Kant
+# NOTE-720: Weber & Varela — Life after Kant
 
 ## Contribution
 
@@ -181,7 +184,7 @@ The paper has no theorems. These are its theses, in its order.
 
 ## Connections
 
-- **Di Paolo (2005; [LIT-tmpbttae](../literature.d/LIT-tmpbttae.md)).** Valence here follows from
+- **Di Paolo (2005; [LIT-1017](../literature.d/LIT-1017.md)).** Valence here follows from
   autopoiesis directly, "attraction or rejection", with no further
   condition. A system that only maintains itself or fails has no grades of
   better and worse, and that is the gap the LIT says Di Paolo's adaptivity
@@ -233,7 +236,7 @@ the clause. But four things limit what the counter can take from it.
   paper offers no observable that would carry it. [THEORY-071](../theory.d/THEORY-071.md) asks for the
   system to distinguish itself "and an observer does not do it for the
   system". This paper supports the idea and offers no measure of it.
-- **Not the fiat/bona fide distinction.** Smith and Varzi ([LIT-tmpxpy94](../literature.d/LIT-tmpxpy94.md))
+- **Not the fiat/bona fide distinction.** Smith and Varzi ([LIT-1024](../literature.d/LIT-1024.md))
   sort boundaries by whether they track a physical discontinuity. Here the
   test is who made the boundary. A beam's surface would, on the LIT's description, be bona fide in the
   first sense, and it is imposed in the second. The LIT's caution that the two differ is right.

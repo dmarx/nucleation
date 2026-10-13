@@ -1,6 +1,9 @@
 ---
+number: 721
 status: Read
-paper: LIT-tmpxpy94
+formerly:
+- NOTE-tmpu3hq9
+paper: LIT-1024
 title: 'Smith & Varzi — Fiat and Bona Fide Boundaries'
 version: 1
 history:
@@ -37,7 +40,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-174 — Proposed; the candidate answers this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 THEORY-073 — Proposed; the accounts CLAIM-194 grounds on, named as such -->
 
-# NOTE-tmpu3hq9: Smith & Varzi — Fiat and Bona Fide Boundaries
+# NOTE-721: Smith & Varzi — Fiat and Bona Fide Boundaries
 
 ## Contribution
 
@@ -236,7 +239,7 @@ near-decomposability gap as a "qualitative heterogeneity" that makes a
 block boundary bona fide would extend the paper, not apply it. Its
 dependence relation is ontological (a boundary needs some host), not the
 causal maintenance that [THEORY-072](../theory.d/THEORY-072.md)'s production and Weber & Varela's
-self-production ([LIT-tmpbvcwm](../literature.d/LIT-tmpbvcwm.md)) are about. Nothing in it bears on
+self-production ([LIT-1018](../literature.d/LIT-1018.md)) are about. Nothing in it bears on
 [CLAIM-174](../claims.d/CLAIM-174.md)'s agency conditions or on [THEORY-073](../theory.d/THEORY-073.md)'s Markov blankets
 beyond the point in check 1.
 

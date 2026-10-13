@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [13 Oct 17:34 — Six of the ten works read the same day; the readings correct three of the filings](2026-10.md#six-of-the-ten-works-read-the-same-day-the-readings-correct-three-of-the-filings)
+- [13 Oct 17:01 — Ten works the Mathematics of Meaning survey pointed to, filed unread](2026-10.md#ten-works-the-mathematics-of-meaning-survey-pointed-to-filed-unread)
 - [13 Oct 03:13 — Kunin et al., held in both records](2026-10.md#kunin-et-al-held-in-both-records)
 - [12 Oct 14:46 — Sixty-nine readings from the owner's papers-feed, matched to the record's questions by embedding and filed unread](2026-10.md#sixty-nine-readings-from-the-owners-papers-feed-matched-to-the-records-questions-by-embedding-and-filed-unread)
 - [12 Oct 05:51 — Four works on epistemic justice, personal agency, the sense of agency and relational autonomy, filed unread](2026-10.md#four-works-on-epistemic-justice-personal-agency-the-sense-of-agency-and-relational-autonomy-filed-unread)
@@ -56,9 +58,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-94 entries across 2 books, newest first.
+96 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 47 | 2026-10-01 | 2026-10-13 |
+| [2026-10](2026-10.md) | 49 | 2026-10-01 | 2026-10-13 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

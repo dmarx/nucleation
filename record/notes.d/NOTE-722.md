@@ -1,6 +1,9 @@
 ---
+number: 722
 status: Read
-paper: LIT-tmp0l1qi
+formerly:
+- NOTE-tmpyip0j
+paper: LIT-1015
 title: 'Lewis — Many, but almost one'
 version: 1
 history:
@@ -39,9 +42,9 @@ summary: >-
   substantially. Supervaluation then does the work.
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the record's answer whose duration clause this reading bears on, open -->
-<!-- inactive-ok-file: LIT-tmpddovi — Deferred, unread; Unger's paper, the problem Lewis answers, not leaned on -->
+<!-- inactive-ok-file: LIT-1020 — Deferred, unread; Unger's paper, the problem Lewis answers, not leaned on -->
 
-# NOTE-tmpyip0j: Lewis — Many, but almost one
+# NOTE-722: Lewis — Many, but almost one
 
 ## Contribution
 
@@ -198,7 +201,7 @@ super-true.
 
 ## Connections
 
-- **Unger (1980; [LIT-tmpddovi](../literature.d/LIT-tmpddovi.md))** is the problem's source. **Geach (1980)**
+- **Unger (1980; [LIT-1020](../literature.d/LIT-1020.md))** is the problem's source. **Geach (1980)**
   gives the cats and the relative-identity solution. **Lowe (1982)** gives
   the constituter solution. **Armstrong (1978)** gives the overlap
   spectrum, and the essay honours him.

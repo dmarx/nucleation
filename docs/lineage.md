@@ -17,15 +17,15 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ### From Shared Agency: A Planning Theory of Acting Together
 
-- [LIT-488](../record/literature.d/LIT-488.md) — Shared Agency: A Planning Theory of Acting Together *(Deferred)*
+- [LIT-488](../record/literature.d/LIT-488.md) — Shared Agency: A Planning Theory of Acting Together *(Unavailable)*
   - [LIT-567](../record/literature.d/LIT-567.md) — A Planning Agent's Self-Governance over Time *(Active)* — also carries further LIT-593, LIT-596
-- [LIT-593](../record/literature.d/LIT-593.md) — Intention, Plans, and Practical Reason *(Deferred)*
-- [LIT-596](../record/literature.d/LIT-596.md) — Three Theories of Self-Governance *(Deferred)*
+- [LIT-593](../record/literature.d/LIT-593.md) — Intention, Plans, and Practical Reason *(Unavailable)*
+- [LIT-596](../record/literature.d/LIT-596.md) — Three Theories of Self-Governance *(Unavailable)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
@@ -35,25 +35,25 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From The Sources of Normativity
 
 - [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
-  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Unavailable)*
 
 ### From Self-Constitution: Agency, Identity, and Integrity
 
-- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
+- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Unavailable)*
   - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
-- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
+- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Unavailable)*
 
 ### From Responsiveness and Moral Responsibility
 
 - [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Active)*
-  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
+  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Unavailable)*
     - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
 
 ### From Asymmetrical Freedom
 
-- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
-  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also carries further LIT-690
-- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Unavailable)*
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Unavailable)* — also carries further LIT-690
+- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Unavailable)*
 
 ### From Group Agency and Supervenience
 
@@ -62,7 +62,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Responsibility Incorporated
 
-- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Deferred)*
+- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Unavailable)*
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## anthology-candidate
@@ -79,7 +79,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
-- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
 
 ### From Understanding image representations by measuring their equivariance and equivalence
@@ -157,7 +157,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
@@ -178,7 +178,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A theoretical model of phase transitions in human hand movements
 
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## cognition
@@ -192,7 +192,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Psychological Predicates
 
-- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Deferred)*
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unavailable)*
   - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
 
 ### From A Framework for Representing Knowledge
@@ -204,12 +204,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
-- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Unavailable)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ### From The Emotions
@@ -249,12 +249,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A theoretical model of phase transitions in human hand movements
 
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ### From Catastrophic shifts in ecosystems
 
-- [LIT-720](../record/literature.d/LIT-720.md) — Catastrophic shifts in ecosystems *(Deferred)*
+- [LIT-720](../record/literature.d/LIT-720.md) — Catastrophic shifts in ecosystems *(Unavailable)*
   - [LIT-726](../record/literature.d/LIT-726.md) — Catastrophic regime shifts in ecosystems: linking theory to observation *(Active)*
 
 ### From Brain of the Firm
@@ -280,17 +280,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Psychological Predicates
 
-- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Deferred)*
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unavailable)*
   - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
-- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Unavailable)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ### From On a confusion about a function of consciousness
@@ -338,7 +338,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Catastrophic shifts in ecosystems
 
-- [LIT-720](../record/literature.d/LIT-720.md) — Catastrophic shifts in ecosystems *(Deferred)*
+- [LIT-720](../record/literature.d/LIT-720.md) — Catastrophic shifts in ecosystems *(Unavailable)*
   - [LIT-726](../record/literature.d/LIT-726.md) — Catastrophic regime shifts in ecosystems: linking theory to observation *(Active)*
 
 ## embodied-cognition
@@ -352,14 +352,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A theoretical model of phase transitions in human hand movements
 
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ## emotion-and-affect
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ### From The Emotions
@@ -391,51 +391,51 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From The Sources of Normativity
 
 - [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
-  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Unavailable)*
 
 ### From Responsiveness and Moral Responsibility
 
 - [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Active)*
-  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
+  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Unavailable)*
     - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
 
 ### From Asymmetrical Freedom
 
-- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
-  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also carries further LIT-690
-- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Unavailable)*
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Unavailable)* — also carries further LIT-690
+- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Unavailable)*
 
 ## free-will
 
 ### From Responsiveness and Moral Responsibility
 
 - [LIT-687](../record/literature.d/LIT-687.md) — Responsiveness and Moral Responsibility *(Active)*
-  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Deferred)*
+  - [LIT-684](../record/literature.d/LIT-684.md) — Responsibility and Control: A Theory of Moral Responsibility *(Unavailable)*
     - [LIT-689](../record/literature.d/LIT-689.md) — Stories and the Meaning of Life *(Active)*
 
 ### From Asymmetrical Freedom
 
-- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
-  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also carries further LIT-690
-- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
+- [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Unavailable)*
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Unavailable)* — also carries further LIT-690
+- [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Unavailable)*
 
 ### From Responsibility Incorporated
 
-- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Deferred)*
+- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Unavailable)*
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## game-theory
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
 
-- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Deferred)*
+- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Unavailable)*
   - [LIT-719](../record/literature.d/LIT-719.md) — Beyond Markets and States: Polycentric Governance of Complex Economic Systems *(Active)*
 
 ## individuation
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ### From Life as we know it
@@ -446,14 +446,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Multilevel Selection and the Major Transitions in Evolution
 
-- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Deferred)*
+- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Unavailable)*
   - [LIT-749](../record/literature.d/LIT-749.md) — The Major Transitions in Evolution—A Philosophy-of-Science Perspective *(Active)*
 
 ## information-geometry
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
-- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
 
 ### From Natural Gradient Works Efficiently in Learning
@@ -481,10 +481,10 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
 
-- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
+- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Unavailable)*
 - alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
 - alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Active)*
-- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Deferred)*
+- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Unavailable)*
 
 ### From Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control
 
@@ -505,7 +505,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
-- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
 
 ### From The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
@@ -546,14 +546,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
-- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
 
 ## mereology
 
 ### From The Society of Mind
 
-- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Deferred)*
+- [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
   - [LIT-432](../record/literature.d/LIT-432.md) — The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind *(Active)*
 
 ## metaphysics
@@ -572,17 +572,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Psychological Predicates
 
-- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Deferred)*
+- [LIT-396](../record/literature.d/LIT-396.md) — Psychological Predicates *(Unavailable)*
   - [LIT-641](../record/literature.d/LIT-641.md) — What Psychological States are Not *(Active)*
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
-- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Unavailable)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ### From Toward a Philosophical Structure for Psychiatry
 
-- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
+- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Unavailable)*
   - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
 
 ### From Group Agency and Supervenience
@@ -594,7 +594,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Algebraic Geometry and Statistical Learning Theory
 
-- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Deferred)*
+- [LIT-354](../record/literature.d/LIT-354.md) — Algebraic Geometry and Statistical Learning Theory *(Unavailable)*
   - [LIT-616](../record/literature.d/LIT-616.md) — A Widely Applicable Bayesian Information Criterion *(Active)*
 
 ### From The Weighted Likelihood Ratio, Linear Hypotheses on Normal Location Parameters
@@ -617,10 +617,10 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
 
-- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
+- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Unavailable)*
 - alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
 - alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Active)*
-- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Deferred)*
+- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Unavailable)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
@@ -631,7 +631,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Narrative Identity
 
-- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Unavailable)*
   - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
 
 ## natural-sciences
@@ -643,7 +643,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A theoretical model of phase transitions in human hand movements
 
-- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Deferred)*
+- [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
 ### From Mutual information, neural networks and the renormalization group
@@ -664,7 +664,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
-- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Unavailable)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
@@ -688,19 +688,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From The Sources of Normativity
 
 - [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
-  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Unavailable)*
 
 ### From Self-Constitution: Agency, Identity, and Integrity
 
-- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
+- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Unavailable)*
   - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
-- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
+- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Unavailable)*
 
 ## phenomenal-unity
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
-- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Unavailable)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ## philosophy-of-biology
@@ -712,7 +712,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Multilevel Selection and the Major Transitions in Evolution
 
-- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Deferred)*
+- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Unavailable)*
   - [LIT-749](../record/literature.d/LIT-749.md) — The Major Transitions in Evolution—A Philosophy-of-Science Perspective *(Active)*
 
 ## philosophy-of-language
@@ -743,7 +743,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Toward a Philosophical Structure for Psychiatry
 
-- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
+- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Unavailable)*
   - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
 
 ### From An Organizational Account of Biological Functions
@@ -753,7 +753,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Multilevel Selection and the Major Transitions in Evolution
 
-- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Deferred)*
+- [LIT-721](../record/literature.d/LIT-721.md) — Multilevel Selection and the Major Transitions in Evolution *(Unavailable)*
   - [LIT-749](../record/literature.d/LIT-749.md) — The Major Transitions in Evolution—A Philosophy-of-Science Perspective *(Active)*
 
 ### From The Communication Structure of Epistemic Communities
@@ -794,15 +794,15 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Toward a Philosophical Structure for Psychiatry
 
-- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Deferred)*
+- [LIT-552](../record/literature.d/LIT-552.md) — Toward a Philosophical Structure for Psychiatry *(Unavailable)*
   - [LIT-539](../record/literature.d/LIT-539.md) — Explanatory Models for Psychiatric Illness *(Active)*
 
 ### From Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition
 
-- [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Deferred)*
+- [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Unavailable)*
   - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
   - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also carries further LIT-551
-- [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
+- [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Unavailable)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
@@ -859,19 +859,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Being No One: The Self-Model Theory of Subjectivity
 
-- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Deferred)*
+- [LIT-467](../record/literature.d/LIT-467.md) — Being No One: The Self-Model Theory of Subjectivity *(Unavailable)*
   - [LIT-568](../record/literature.d/LIT-568.md) — Précis: Being No One *(Active)*
 
 ### From Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being
 
 - [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
   - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
-- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Deferred)*
+- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Unavailable)*
 - alongside: [LIT-606](../record/literature.d/LIT-606.md) — Thine Own Self: True Self-Concept Accessibility and Meaning in Life *(Active)*
 
 ### From Narrative Identity
 
-- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Unavailable)*
   - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
 
 ## self-governance
@@ -885,19 +885,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
   - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
-- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Deferred)*
+- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Unavailable)*
 - alongside: [LIT-606](../record/literature.d/LIT-606.md) — Thine Own Self: True Self-Concept Accessibility and Meaning in Life *(Active)*
 
 ### From The Sources of Normativity
 
 - [LIT-564](../record/literature.d/LIT-564.md) — The Sources of Normativity *(Active)*
-  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Deferred)*
+  - [LIT-599](../record/literature.d/LIT-599.md) — The Sources of Normativity *(Unavailable)*
 
 ### From Self-Constitution: Agency, Identity, and Integrity
 
-- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Deferred)*
+- [LIT-597](../record/literature.d/LIT-597.md) — Self-Constitution: Agency, Identity, and Integrity *(Unavailable)*
   - [LIT-587](../record/literature.d/LIT-587.md) — The Normative Constitution of Agency *(Active)*
-- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Deferred)*
+- alongside: [LIT-590](../record/literature.d/LIT-590.md) — Structures of Agency: Essays *(Unavailable)*
 
 ## social-ontology
 
@@ -908,7 +908,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Responsibility Incorporated
 
-- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Deferred)*
+- [LIT-742](../record/literature.d/LIT-742.md) — Responsibility Incorporated *(Unavailable)*
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## social-science
@@ -927,17 +927,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition
 
-- [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Deferred)*
+- [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Unavailable)*
   - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
   - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also carries further LIT-551
-- [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
+- [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Unavailable)*
 
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
 
-- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Deferred)*
+- alongside: [LIT-556](../record/literature.d/LIT-556.md) — Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis *(Unavailable)*
 - alongside: [LIT-557](../record/literature.d/LIT-557.md) — A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation *(Active)*
 - alongside: [LIT-562](../record/literature.d/LIT-562.md) — Pervasive negative effects of rewards on intrinsic motivation: The myth continues *(Active)*
-- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Deferred)*
+- alongside: [LIT-754](../record/literature.d/LIT-754.md) — Effects of reward on intrinsic motivation—Negative, neutral, and positive: Comment on Deci, Koestner, and Ryan (1999) *(Unavailable)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
 
@@ -948,12 +948,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-559](../record/literature.d/LIT-559.md) — Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being *(Active)*
   - [LIT-560](../record/literature.d/LIT-560.md) — Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will? *(Active)*
-- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Deferred)*
+- alongside: [LIT-574](../record/literature.d/LIT-574.md) — A Multicomponent Conceptualization of Authenticity: Theory and Research *(Unavailable)*
 - alongside: [LIT-606](../record/literature.d/LIT-606.md) — Thine Own Self: True Self-Concept Accessibility and Meaning in Life *(Active)*
 
 ### From Narrative Identity
 
-- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Unavailable)*
   - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
 
 ### From Group Agency and Supervenience
@@ -968,7 +968,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
 
-- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Deferred)*
+- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Unavailable)*
   - [LIT-719](../record/literature.d/LIT-719.md) — Beyond Markets and States: Polycentric Governance of Complex Economic Systems *(Active)*
 
 ### From Brain of the Firm
@@ -978,7 +978,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
 
-- [LIT-748](../record/literature.d/LIT-748.md) — Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States *(Deferred)*
+- [LIT-748](../record/literature.d/LIT-748.md) — Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States *(Unavailable)*
   - [LIT-750](../record/literature.d/LIT-750.md) — "Exit, Voice, and Loyalty": Further Reflections and a Survey of Recent Contributions *(Active)*
 
 ## society-and-governance
@@ -1001,7 +1001,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
 
-- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Deferred)*
+- [LIT-737](../record/literature.d/LIT-737.md) — Governing the Commons: The Evolution of Institutions for Collective Action *(Unavailable)*
   - [LIT-719](../record/literature.d/LIT-719.md) — Beyond Markets and States: Polycentric Governance of Complex Economic Systems *(Active)*
 
 ### From Brain of the Firm
@@ -1011,7 +1011,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
 
-- [LIT-748](../record/literature.d/LIT-748.md) — Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States *(Deferred)*
+- [LIT-748](../record/literature.d/LIT-748.md) — Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States *(Unavailable)*
   - [LIT-750](../record/literature.d/LIT-750.md) — "Exit, Voice, and Loyalty": Further Reflections and a Survey of Recent Contributions *(Active)*
 
 ## thermodynamics
@@ -1030,7 +1030,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Narrative Identity
 
-- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Deferred)*
+- [LIT-572](../record/literature.d/LIT-572.md) — Narrative Identity *(Unavailable)*
   - [LIT-595](../record/literature.d/LIT-595.md) — “First we invented stories, then they changed us”: The Evolution of Narrative Identity *(Active)*
 
 ## Sharing no `tags`

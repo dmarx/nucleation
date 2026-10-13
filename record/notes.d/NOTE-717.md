@@ -1,6 +1,9 @@
 ---
+number: 717
 status: Read
-paper: LIT-tmpjq6hq
+formerly:
+- NOTE-tmp7gxox
+paper: LIT-1021
 title: 'Kamenica & Gentzkow — Bayesian Persuasion'
 version: 1
 history:
@@ -38,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-040 — Proposed; the present-structure account QUESTION-071 holds, cited as open -->
 <!-- inactive-ok-file: LIT-1002 — Deferred, unread; the analysis of manipulation named, not leaned on -->
 
-# NOTE-tmp7gxox: Kamenica & Gentzkow — Bayesian Persuasion
+# NOTE-717: Kamenica & Gentzkow — Bayesian Persuasion
 
 ## Contribution
 

@@ -1,6 +1,9 @@
 ---
+number: 719
 status: Read
-paper: LIT-tmpbttae
+formerly:
+- NOTE-tmpq2ydf
+paper: LIT-1017
 title: 'Di Paolo — Autopoiesis, Adaptivity, Teleology, Agency'
 version: 1
 history:
@@ -15,7 +18,7 @@ history:
     Research Online entry says the file is not public. Text extracted with
     pdftotext; the extraction is clean, with only hyphenation lost at line
     ends. Read: the whole text, all nine notes and the reference list.
-    Nothing skipped. Weber & Varela (2002, LIT-tmpbvcwm), the paper this
+    Nothing skipped. Weber & Varela (2002, LIT-1018), the paper this
     one corrects, was not read, so what Di Paolo says it claims is his
     account of it. Every quotation below was checked against the
     extracted text by script, with whitespace and line-end hyphenation
@@ -35,9 +38,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-025 CLAIM-018 — Proposed; open, and cited as the claims this reading tests -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; the reading of the later paper that takes its agency definition from this one -->
-<!-- inactive-ok-file: LIT-117 LIT-tmpbvcwm LIT-817 — Deferred, unread; named as related works, not leaned on -->
+<!-- inactive-ok-file: LIT-117 LIT-1018 LIT-817 — Deferred, unread; named as related works, not leaned on -->
 
-# NOTE-tmpq2ydf: Di Paolo — Autopoiesis, Adaptivity, Teleology, Agency
+# NOTE-719: Di Paolo — Autopoiesis, Adaptivity, Teleology, Agency
 
 ## Contribution
 
@@ -211,7 +214,7 @@ anything mean anything to it.
 
 ## Connections
 
-It corrects Weber & Varela (2002; [LIT-tmpbvcwm](../literature.d/LIT-tmpbvcwm.md), not read) and builds on
+It corrects Weber & Varela (2002; [LIT-1018](../literature.d/LIT-1018.md), not read) and builds on
 Jonas's philosophy of the organism, Ashby (1960) for how adaptivity might
 arise, Canguilhem and Goldstein ([LIT-167](../literature.d/LIT-167.md)) on health, and Ruiz-Mirazo &
 Moreno (2000) for agency. Its definition of agency, its asymmetry argument

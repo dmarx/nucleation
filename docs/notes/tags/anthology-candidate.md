@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-137 of 716 NOTE documents. Back to the [full index](../README.md).
+138 of 722 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -145,3 +145,4 @@
 | [NOTE-714](../../../record/notes.d/NOTE-714.md) | Noise Balance and Stationary Distribution of Stochastic Gradient Descent | SDE: dθ = −∇L dt + √(T C(θ)) dW, with T = η/S. With ℓ(u, w) = ℓ(λu, w/λ), d(‖u‖² − ‖w‖²)/dt = −T(uᵀC₁u − wᵀC₂w) (Theorem 1). The stationary point is Tr C(w) = Tr C(u). With weight decay γ the rate is TC₀ + γ (Corollary 2.1). Diagonal linear network ℓ = (Σᵢ ∏ₖ u_i^{(k)} x − y)²: sign coherence and balance for depth D > 1 (Theorem 3), exact stationary distribution (Theorem 4), collapse above T_c = β₂/α₃ for D = 1, tail ∝ v^{−5+3/(D+1)} independent of data. | Read |
 | [NOTE-715](../../../record/notes.d/NOTE-715.md) | From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks | Two-layer linear network ŷ = W₂W₁x, MSE, full-batch gradient flow. Assumptions: whitened inputs (A1), λ-balanced start W₂ᵀW₂ − W₁W₁ᵀ = λI (A2), no bottleneck (A3). Then QQᵀ, with Q = [W₁ᵀ; W₂], obeys a matrix Riccati equation (Lemma 4.1), solved exactly (Theorem 4.3). For aligned starts, each singular value moves by a λ-dependent transition function: sigmoidal as λ → 0, exponential 1 − e^{−\|λ\|t/τ} as \|λ\| → ∞ (Theorem 5.1). | Read |
 | [NOTE-716](../../../record/notes.d/NOTE-716.md) | Symmetry Induces Structure and Constraint of Learning | ℓ_γ = ℓ₀(θ, x) + γ‖θ‖². O-mirror symmetry: ℓ₀(θ) = ℓ₀((I − 2OOᵀ)θ). Theorem 1: (1) Oᵀθ = 0 implies Oᵀ∇ℓ_γ = 0; (2) at symmetric points the Hessian splits into ker(Oᵀ) and im(OOᵀ) blocks; (3) above some γ₀ the projection (I − OOᵀ)θ has lower loss; (4) above some γ₁ all minima satisfy Oᵀθ = 0. SGD near the symmetric set: Pθ_{t+1} = Pθ_t − λH(x)Pθ_t, attractive when the Lyapunov exponent E log\|1 − λ(ξ + γ)\| < 0. Corollaries: sparsity, low rank, homogeneous neurons (Theorems 2–4). | Read |
+| [NOTE-718](../../../record/notes.d/NOTE-718.md) | Gallego & Orús — Language Design as Information Renormalization | Reads Chomsky's MERGE as a coarse-graining and builds sentence probabilities as mostly loop-free tensor networks of 3-index MERGE tensors, one per node of a given parse. Because MERGE's output is fixed by its input, a parsed sentence's probability is a product of local coefficients. Tree-shaped parses make correlations decay with tree distance, about log \|j − i\|, so polynomially in word separation. The averaging step that turns this into a claim about languages is asserted, and nothing is tested on data. Syntax only: semantics and context are set aside by the authors. | Read |
