@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [CLAIM-194](../claims.d/CLAIM-194.md) and [CLAIM-075](../claims.d/CLAIM-075.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. No lawful full text was looked for.'
+status: Active
+status_note: 'read in full 2026-10-13 ([NOTE-tmpqsjch](../notes.d/NOTE-tmpqsjch.md)) from the publisher''s PDF posted on the site of the IAS-Research Centre for Life, Mind and Society (ias-research.net/wp-content/uploads/2018/02/Weber_Varela_Life_after_Kant_2002.pdf), a research group''s page at the UPV/EHU; OpenAlex and Semantic Scholar report no open-access copy. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [CLAIM-194](../claims.d/CLAIM-194.md) and [CLAIM-075](../claims.d/CLAIM-075.md). Worth citing for the autopoiesis definition, whose second clause has the components constitute the system as a distinguishable unity, and for the cell making its membrane. It gives no test that tells a produced boundary from an imposed one, and it says a multicellular organism is not itself autopoietic. Its intrinsic teleology is value for the organism, though one paragraph runs on to a right to life.'
 title: 'Life after Kant: Natural purposes and the autopoietic foundations of biological individuality'
 version: 1
 history:
@@ -15,7 +15,7 @@ history:
     (clone of 2026-10-13, commit d1573d2) for Varela, the title and the DOI
     found nothing, and no anthology topic holds autopoiesis or biological
     individuality, so ADR-013 does not apply. Named in MOM-LIT-026 with Di
-    Paolo (2005), as for that entry.
+    Paolo (2005), as for that entry. Read the same day (NOTE-tmpqsjch).
 tags:
 - philosophy-of-biology
 - individuation
@@ -32,14 +32,17 @@ keywords:
 - 'Kant'
 implementations: []
 summary: >-
-  Weber & Varela (2002), Phenomenol. Cogn. Sci. 1(2): 97–125. Reads Kant's
-  natural purposes through autopoiesis and argues for an intrinsic teleology:
-  an organism's self-producing organisation gives it an identity of its own
-  and a stake in its continuation, which grounds biological individuality. Not
-  read.
+  Weber & Varela (2002), Phenomenol. Cogn. Sci. 1(2): 97–125. An essay
+  arguing that Kant's natural purposes, Jonas's metabolism and autopoiesis
+  converge on an intrinsic teleology: a self-producing system's
+  maintenance of its identity is its purpose, and gives it a point of view
+  and a world of value for it. Autopoiesis is defined for the cell, whose
+  components "constitute the system as a distinguishable unity"; a
+  multicellular organism is said not to be autopoietic itself. No test
+  tells a produced boundary from an imposed one.
 ---
 <!-- inactive-ok-file: CLAIM-194 — Proposed; the open counter this work is filed for, cited as under test -->
-<!-- inactive-ok-file: LIT-tmpbttae LIT-tmpxpy94 — Deferred, not read; filed beside this, named as neighbours, not leaned on -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-174 THEORY-071 THEORY-072 — Proposed; the counter's targets and grounds, named for what the reading adds to them -->
 
 # LIT-tmpbvcwm: Life after Kant: Natural purposes and the autopoietic foundations of biological individuality
 
@@ -47,23 +50,69 @@ Andreas Weber and Francisco J. Varela (2002), *Phenomenology and the Cognitive S
 
 ## Key takeaways
 
-*Filed, not read.* Known here by what it is standardly cited for.
+*Read in full; see [NOTE-tmpqsjch](../notes.d/NOTE-tmpqsjch.md).*
 
-- Kant's account of organisms as natural purposes, whose parts are both cause
-  and effect of the whole, is taken up and naturalised through autopoiesis.
-- Teleology is argued to be **intrinsic** to living systems, grounded in self-
-  production, rather than only a regulative way of judging them.
-- Biological individuality is the identity a self-producing system constitutes
-  for itself, including the boundary it makes.
+- **Kant as precursor.** Organisms are natural purposes, "both cause and
+  effect" of themselves, every part "an organ bringing forth the other
+  parts" (KdU §§ 64–65). The authors read the KdU as non-reductive and
+  credit Kant with the first modern use of "self-organization".
+- **Self-production is purpose.** "Bluntly stated self-production is
+  already and inevitably a self-affirmation that shows the organism as
+  involved in the fundamental purpose of maintaining its identity." This
+  is asserted, not argued.
+- **The definition.** Quoted from Varela (1997): components that
+  "continuously regenerate the network that is producing them" and
+  "constitute the system as a distinguishable unity in the domain in which
+  they exist". The key terms are "the cellular metabolism and the surface
+  membrane it produces".
+- **The cell only.** "A multicellular organism ... is not in itself an
+  autopoietic unit of second order". Its autonomy is inherited through a
+  "neural identity" the paper defers.
+- **Value for the organism.** Self-maintenance sets up a world, as distinct
+  from an environment, and a valence "dual at its basis: attraction or
+  rejection". Teleology is objective "not in an absolute sense, only
+  insofar as an organism is a center that organizes matter into a living
+  being and its Umwelt". One paragraph goes further, to a "right to the
+  pursuit of an undisturbed life", by way of Apel and Habermas.
 
 ## Standing in the record
 
-Filed for [CLAIM-194](../claims.d/CLAIM-194.md), whose distinction between a boundary a system produces
-and one imposed on it is the autopoietic distinction: a cell makes its
-membrane. This is the account in which "produced" is defined, which the
-counter needs if it is to say what the block test fails to supply. Smith & Varzi's fiat/bona fide distinction ([LIT-tmpxpy94](LIT-tmpxpy94.md)), filed beside it, is a different one.
+**For [CLAIM-194](../claims.d/CLAIM-194.md): a definition of "produced", without a test.** The
+counter distinguishes a boundary a system produces from one imposed on it.
+The definition's second clause is that distinction, and the cell making
+its membrane is the paper's example. Two pendulums do not make the beam,
+so they fail it. But the reading found three limits, set out in
+[NOTE-tmpqsjch](../notes.d/NOTE-tmpqsjch.md):
 
-Its intrinsic teleology bears on [CLAIM-075](../claims.d/CLAIM-075.md) as Di Paolo (2005; [LIT-tmpbttae](LIT-tmpbttae.md)) does, and Di
-Paolo's paper is in part a correction of it: autopoiesis alone gives no graded
-norms. Mossio's organisational account of functions ([LIT-570](LIT-570.md)) is the neighbour
-already held.
+- The paper gives no way to find out whether a boundary was produced,
+  except where biochemistry already says so. It does not answer the
+  counter's "What would answer it", and it does nothing toward
+  [THEORY-072](../theory.d/THEORY-072.md)'s promote_when.
+- On this source, not even a multicellular organism produces its own
+  boundary, so no combined form of the kind [CLAIM-157](../claims.d/CLAIM-157.md) and [CLAIM-174](../claims.d/CLAIM-174.md) test
+  can. That makes the counter stronger than it states, and it leaves the
+  record with no account of which combined forms come close.
+- The difference from dissipative structures is put in "concern" and a
+  "point of view", not in the dynamics. The authors grant that the circle
+  can be described "entirely from the outside". [THEORY-071](../theory.d/THEORY-071.md)'s individuality
+  condition can cite the idea from here, but not a measure of it.
+
+Smith and Varzi's fiat/bona fide distinction ([LIT-tmpxpy94](LIT-tmpxpy94.md)) is a
+different one, as this entry said before the reading.
+
+**For [CLAIM-075](../claims.d/CLAIM-075.md): mostly on the permitted side.** The value is value for
+the organism, and the paper quotes Jonas against persistence as the
+standard: "Not duration as such, but 'duration of what?' is the question."
+But one paragraph (§ 3.1) does make the move [CLAIM-075](../claims.d/CLAIM-075.md) disclaims. Life's
+"Yes!" to itself is "the mother-value of all values", and denying it would
+deny "a right to the pursuit of an undisturbed life". The step is made by
+assertion, and its development is left to Hösle. The account covers living
+things only, and says nothing about an institution's viability.
+
+Di Paolo (2005; [LIT-tmpbttae](LIT-tmpbttae.md)) is in part a correction of this paper.
+Valence here follows from autopoiesis with no further condition, and the
+LIT says adaptivity is what Di Paolo adds to supply it. Barandiaran, Di
+Paolo & Rohde ([LIT-566](LIT-566.md)) separate individuality from agency, which this
+paper does not. Mossio's organisational account ([LIT-570](LIT-570.md)) is the
+neighbour already held, and it faces the candle flame that this paper
+does not discuss.

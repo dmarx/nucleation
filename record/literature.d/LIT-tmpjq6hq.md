@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-070](../questions.d/QUESTION-070.md) and [QUESTION-071](../questions.d/QUESTION-071.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. No lawful full text was looked for.'
+status: Active
+status_note: 'read in full 2026-10-13 (NOTE-tmp7gxox) from the published AER PDF posted on Gentzkow''s Stanford faculty page (web.stanford.edu/~gentzkow/research/BayesianPersuasion.pdf); the online Appendix was not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-070](../questions.d/QUESTION-070.md) and [QUESTION-071](../questions.d/QUESTION-071.md). Worth reading for the result that an overt, committed choice of experiment moves a fully informed Bayesian receiver, and for the optimum''s signature: certainty when she takes the sender''s worst action, indifference otherwise. It does not analyse manipulation and does not cite Blackwell.'
 title: 'Bayesian Persuasion'
 version: 1
 history:
@@ -15,7 +15,8 @@ history:
     the DOI found nothing, and no anthology topic holds information design, so
     ADR-013 does not apply. The Mathematics of Meaning corpus does not cite
     it; its record frames reflexive control as information design (MOM-
-    CLM-132), which is how the survey came to it.
+    CLM-132), which is how the survey came to it. Read the same day
+    (NOTE-tmp7gxox).
 tags:
 - game-theory
 - information-theory
@@ -31,16 +32,22 @@ keywords:
 - 'concavification'
 - 'sender'
 - 'receiver'
+- 'Bayes plausibility'
+- 'commitment'
 implementations: []
 summary: >-
-  Kamenica & Gentzkow (2011), Am. Econ. Rev. 101(6): 2590–2615. A sender who
-  commits to how evidence will be generated can shift the actions of a fully
-  rational Bayesian receiver who knows the commitment. The sender gains
-  exactly when the concave closure of its value as a function of the
-  receiver's posterior exceeds its value at the prior, and the optimal signal
-  follows by concavification. Not read.
+  Kamenica & Gentzkow (2011), Am. Econ. Rev. 101(6): 2590–2615. With a
+  common prior and a signal the receiver observes and the sender commits
+  to, any distribution of posteriors that averages to the prior can be
+  induced. The sender's best value is the concave closure of its value over
+  posteriors, at the prior. A Bayesian judge who knows the investigation was
+  designed to convict convicts 60 percent of defendants when 70 percent are
+  innocent. At the optimum the receiver is certain when she takes the
+  sender's worst action and indifferent otherwise. Blackwell is not cited and
+  manipulation is not analysed.
 ---
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, cited as the claim this work sits beside -->
+<!-- inactive-ok-file: LIT-1002 — Deferred; Susser, Roessler & Nissenbaum, cited as QUESTION-070 summarises it, not leaned on -->
 
 # LIT-tmpjq6hq: Bayesian Persuasion
 
@@ -48,30 +55,59 @@ Emir Kamenica and Matthew Gentzkow (2011), *American Economic Review* 101(6), 25
 
 ## Key takeaways
 
-*Filed, not read.* Known here by what it is standardly cited for.
+*Read in full; see [NOTE-tmp7gxox](../notes.d/NOTE-tmp7gxox.md).* The online Appendix was not read.
 
-- **Influence without deception.** The receiver updates correctly and knows
-  how the signal is generated; the sender influences it only by choosing the
-  information structure.
-- **When it pays.** The sender benefits from persuasion if and only if the
-  concave closure of its value function, over the receiver's posteriors, lies
-  above the value at the prior.
-- It is the founding paper of information design, standardly illustrated by a
-  prosecutor choosing an investigation to raise a judge's conviction rate.
+- **Bayes plausibility is the only constraint.** Any distribution of
+  posteriors whose mean is the prior is induced by some signal (Proposition
+  1). The sender's optimal value is V(μ₀), the concave closure of its
+  posterior-value function at the prior, and it gains iff V(μ₀) > v̂(μ₀)
+  (Corollary 2).
+- **Overt design still works.** In the judge example the judge "is fully
+  aware that the investigation was designed to maximize the probability of
+  conviction", and convicts with probability 0.6 instead of 0.
+- **The optimum's signature.** When the receiver takes the sender's worst
+  action she is certain of the state; at an interior belief she is
+  indifferent between two actions (Propositions 4 and 5).
+- **Alignment is not monotone.** More aligned preferences can make the
+  optimal signal less informative (Section IV).
+- **Persuasion against incentives.** Incentives change marginal utility,
+  coercion included; persuasion is "anything which changes beliefs".
+  Systematic harm to receivers is read as a sign of limited rationality.
 
 ## Standing in the record
 
 Filed for [QUESTION-070](../questions.d/QUESTION-070.md) and [QUESTION-071](../questions.d/QUESTION-071.md), on manipulation by an organized whole
-and manipulation invisible in present structure. A persuaded receiver's
-inference is sound at every step, so nothing in its present reasoning shows
-the steering. What shows it is who chose the information structure and why,
-which is a fact about history ([QUESTION-071](../questions.d/QUESTION-071.md)'s second part).
+and manipulation invisible in present structure, and beside [CLAIM-050](../claims.d/CLAIM-050.md). The
+reading answered the three checks the entry set:
 
-**Whether this is manipulation at all is open, not settled by the paper.**
-Persuasion by committed, known signals is often argued not to be manipulation,
-because the receiver is not deceived. [QUESTION-070](../questions.d/QUESTION-070.md) is where that line would
-have to be drawn.
+- **[QUESTION-071](../questions.d/QUESTION-071.md): the case is not one of invisibility.** This entry said
+  that what shows the steering is who chose the information structure and
+  why, a fact about history. In the paper that fact is not hidden: the
+  receiver observes the signal and knows its purpose. The optimum also
+  leaves a trace in present belief, a posterior exactly on a decision
+  boundary. The case the paper gives the question is a different one:
+  influence that is fully visible and still effective because each step of
+  the receiver's inference is sound.
+- **[QUESTION-070](../questions.d/QUESTION-070.md): the paper does not say it is manipulation.** It uses the
+  word once, for the sender's aim, and its taxonomy has only incentives and
+  persuasion. The design is overt, so definitions that require covertness
+  ([LIT-1002](../literature.d/LIT-1002.md), as summarised in the question) would exclude it. The
+  reading adds a point the question would need: in the judge and product
+  examples the receiver does exactly as well as with no information and
+  loses all the value full information would have given her, so a harm
+  criterion depends on its baseline. That arithmetic is the record's. The
+  paper's sender is any optimiser of a payoff, and several of its examples
+  are institutional procedures; that a selected rather than intended
+  procedure would act the same is the record's inference.
+- **[CLAIM-050](../claims.d/CLAIM-050.md): related only through an unnamed garbling.** The paper never
+  cites Blackwell. It redefines the state as "the realization of the most
+  informative signal Sender can generate", so that every signal is a
+  garbling of that. This entry's earlier phrase "preferring a garbling of
+  full information" is therefore true of every signal and says nothing.
+  What bears on the claim is that the chooser of the experiment can
+  strictly prefer a less informative one, which Blackwell's theorem, a
+  ranking for the decider, does not forbid.
 
-It also sits beside [CLAIM-050](../claims.d/CLAIM-050.md). The sender chooses among experiments in the
-sense of Blackwell's order, preferring a garbling of full information, so the
-order the record uses for fidelity is the space a persuader optimises over.
+`game-theory` comes first, as the paper's subject. `information-theory` is
+for signals and garbling, and `epistemology` for Bayes plausibility and
+belief. No anthology topic holds it.

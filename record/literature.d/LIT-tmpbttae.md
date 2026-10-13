@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its Crossref record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-099](../claims.d/CLAIM-099.md) and [CLAIM-075](../claims.d/CLAIM-075.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. No lawful full text was looked for.'
+status: Active
+status_note: 'read in full 2026-10-13 ([NOTE-tmpq2ydf](../notes.d/NOTE-tmpq2ydf.md)) from the publisher''s typeset PDF that the author posts on his own site (ezequieldipaolo.net/wp-content/uploads/2011/10/autopoiesis_teleology_2005.pdf); the Sussex figshare record that OpenAlex and Semantic Scholar point to holds no file. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-099](../claims.d/CLAIM-099.md) and [CLAIM-075](../claims.d/CLAIM-075.md). Worth reading as the source of the robustness/adaptivity distinction and of the enactive definition of agency as regulation of coupling. Its norms are norms for the system, and it agrees with [CLAIM-075](../claims.d/CLAIM-075.md) that viability alone yields none the system can use; it does not separate adaptivity from the capacity to transform it, so it is not evidence for [CLAIM-025](../claims.d/CLAIM-025.md).'
 title: 'Autopoiesis, Adaptivity, Teleology, Agency'
 version: 1
 history:
@@ -16,7 +16,8 @@ history:
     commit d1573d2) for Di Paolo, the title and the DOI found nothing, and no
     anthology topic holds enactivism or autopoiesis, so ADR-013 does not
     apply. Mathematics of Meaning names it, with Weber & Varela (2002), in
-    MOM-LIT-026, a survey entry and not a reading of this work.
+    MOM-LIT-026, a survey entry and not a reading of this work. Read the
+    same day (NOTE-tmpq2ydf).
 tags:
 - philosophy-of-biology
 - agency
@@ -33,13 +34,14 @@ keywords:
 - 'sense-making'
 implementations: []
 summary: >-
-  Di Paolo (2005), Phenomenol. Cogn. Sci. 4(4): 429–452. Autopoiesis is all-
-  or-nothing, so it cannot ground graded norms or sense-making. Adaptivity, a
-  system's capacity to regulate its states with respect to the boundary of its
-  viability, is what makes some states better or worse for it while all of
-  them are viable. Not read.
+  Di Paolo (2005), Phenomenol. Cogn. Sci. 4(4): 429–452. Autopoiesis read
+  as conservation gives only an all-or-nothing norm that an observer can
+  see and the system cannot use. Adaptivity, a graded capacity to detect and
+  reverse tendencies toward the boundary of viability, gives good, neutral
+  and bad ways of staying alive, for the system. Behaviour is the regulation
+  of coupling, and agency is behaviour serving viability.
 ---
-<!-- inactive-ok-file: CLAIM-025 — Proposed; open, cited as the distinction a reading should test -->
+<!-- inactive-ok-file: CLAIM-025 CLAIM-018 — Proposed; open, and cited as the claims the reading tested -->
 <!-- inactive-ok-file: LIT-117 — Deferred, not read; Enoch, named as the standard reply to constitutivism, not leaned on -->
 
 # LIT-tmpbttae: Autopoiesis, Adaptivity, Teleology, Agency
@@ -48,34 +50,57 @@ Ezequiel A. Di Paolo (2005), *Phenomenology and the Cognitive Sciences* 4(4), 42
 
 ## Key takeaways
 
-*Filed, not read.* Known here by what it is standardly cited for.
+Read in full ([NOTE-tmpq2ydf](../notes.d/NOTE-tmpq2ydf.md)).
 
-- **Autopoiesis alone is not enough.** A system either maintains its
-  organisation or it does not, so autopoiesis cannot by itself say that one
-  viable state is better for the system than another.
-- **Adaptivity** is proposed as the missing condition: the system monitors and
-  regulates its trajectory with respect to the boundary of its viability, so
-  it can tell tendencies toward that boundary and act to reverse them.
-- Teleology, sense-making and agency are then grounded in adaptive
-  autopoiesis. It is the standard citation for adaptivity in the enactive
-  literature.
+- **Autopoiesis entails conservation, not homeostasis.** Allowing no
+  degrees, it admits fortuitous self-maintenance, and its only norm is
+  "organisms live as long as they don't die". That norm lets an observer
+  tell lethal from non-lethal encounters; the system cannot.
+- **Adaptivity is the missing condition.** It is defined as a capacity to
+  regulate states and environmental relations so that, near the viability
+  boundary, tendencies toward it are detected and turned back. It is
+  graded, has no optimum, and is recursive: regulation can be regulated,
+  and adaptive processes can themselves be "plastically adjusted or
+  transformed depending on their effectiveness".
+- **Robust is not adaptive.** Minimal autopoiesis models and synthetic
+  vesicles tolerate perturbations without monitoring them; the Chemoton
+  adapts. Illness, stress and fatigue are failures of adaptivity while the
+  system is still autopoietic.
+- **Behaviour is the regulation of coupling, not the coupling.** An agent
+  regulates its exchanges for its own viability. Agency comes in degrees
+  and is not implied by autopoiesis and adaptivity together.
+- **Speculative close:** self-sustaining behavioural and social forms may
+  generate values of their own, which can conflict with metabolism
+  (addiction).
 
 ## Standing in the record
 
-Filed for the will-organization line's viability claims. Adaptivity,
-regulating the distance to the viability boundary, is close to what [CLAIM-079](../claims.d/CLAIM-079.md)
-and [CLAIM-099](../claims.d/CLAIM-099.md) separate from stability: a system can be stable while losing
-access to viable trajectories, and keeping a regime is not keeping the
-capacity to govern among regimes. A reading should check whether Di Paolo's
-adaptivity is a capacity in the sense of [CLAIM-025](../claims.d/CLAIM-025.md)'s transformation capacity,
-or only regulation within one regime.
+Filed for the will-organization line's viability claims.
 
-**It is also the rival [CLAIM-075](../claims.d/CLAIM-075.md) has to face.** The record disclaims that
-viability establishes what ought to persist. Di Paolo's move is the standard
-enactive route from viability to norms, so a reading should say whether the
-norms he gets are norms for the system only, which [CLAIM-075](../claims.d/CLAIM-075.md) does not deny, or
-something stronger. Enoch's shmagency objection ([LIT-117](LIT-117.md), not read) is the
-standard reply to constitutivist moves of this kind.
+**Adaptivity is mostly not [CLAIM-025](../claims.d/CLAIM-025.md)'s transformation capacity.** As
+defined it is regulation against one fixed boundary, closer to an operative
+regime or its governing organization. Its plastic, second-order layer, and
+the cure that may "re-define rather than simply restore" a norm (the point
+of [CLAIM-018](../claims.d/CLAIM-018.md)), come close to transformation capacity, but Di Paolo treats
+them as aspects of one graded property and never shows them failing
+separately, so the paper is vocabulary for [CLAIM-025](../claims.d/CLAIM-025.md), not evidence for it.
+What it does separate is autopoiesis from adaptivity, a separation of the
+same shape as [CLAIM-099](../claims.d/CLAIM-099.md)'s one level down. Its bacterium, autopoietic now
+but on course to die, is [CLAIM-079](../claims.d/CLAIM-079.md)'s case; Di Paolo does not distinguish
+the viability set from the viability kernel ([THEORY-134](../theory.d/THEORY-134.md)). His speculative
+"adaptive closure" of non-metabolic forms is a lead, not an answer, on
+[ARG-007](../arguments.d/ARG-007.md)'s mapping premise.
 
-Barandiaran, Di Paolo & Rohde on defining agency ([LIT-566](LIT-566.md)) and De Jaegher & Di
-Paolo ([LIT-571](LIT-571.md)) are already held and build on this paper.
+**It is not a rival to [CLAIM-075](../claims.d/CLAIM-075.md).** Di Paolo argues that viability alone
+yields no norm the system has, which is [CLAIM-075](../claims.d/CLAIM-075.md)'s point made more
+strongly. The norm adaptivity adds is good or bad *for the organism*, and
+the paper never says that anything ought to persist. It makes no
+constitutivist argument about reasons, so Enoch's shmagency objection
+([LIT-117](LIT-117.md), not read) does not bite as the record describes it. One point
+for [CLAIM-075](../claims.d/CLAIM-075.md)'s wording: Di Paolo's norm is generated by and accessible to
+the system, not an observer's if-then, so "conditional functional
+judgment" should say which conditionality it means.
+
+Barandiaran, Di Paolo & Rohde on defining agency ([LIT-566](LIT-566.md)) take their
+agency definition from this paper, and De Jaegher & Di Paolo ([LIT-571](LIT-571.md))
+extend its sense-making to social interaction.

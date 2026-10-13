@@ -39,7 +39,6 @@ summary: >-
   relates objects to the regions they occupy. Not read.
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-194 — Proposed; open, cited as the questions a reading should bring -->
-<!-- inactive-ok-file: LIT-tmpxpy94 — Deferred, not read; filed beside this, not leaned on -->
 
 # LIT-tmps2dqw: Parts and Places: The Structures of Spatial Representation
 

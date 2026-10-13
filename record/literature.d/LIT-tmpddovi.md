@@ -38,7 +38,6 @@ summary: >-
   the second horn. Not read.
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the record's open boundary criterion, cited as what the problem bears on -->
-<!-- inactive-ok-file: LIT-tmp0l1qi — Deferred, not read; Lewis's reply, filed beside this, not leaned on -->
 
 # LIT-tmpddovi: The Problem of the Many
 

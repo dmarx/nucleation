@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from its arXiv record, not read. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-026](../questions.d/QUESTION-026.md). No NOTE is filed, and it stays Deferred until it is read, not on merit. No lawful full text was looked for.'
+status: Active
+status_note: 'read in full 2026-10-13 (NOTE-tmp7i51r) from arXiv v5 (6 February 2022, the latest version), downloaded from arxiv.org. Registered at the owner''s request from the survey of the Mathematics of Meaning corpus, for [QUESTION-026](../questions.d/QUESTION-026.md). Read, its bearing here is weak. It models syntax only, so it neither constructs nor separates what QUESTION-026 asks about, and its irreversibility is that of a parse, not of a translation, so it does not support CLAIM-098. It illustrates CLAIM-152 and states an architecture-only answer to QUESTION-060, both without argument. Active because it is read; the reader recommends the owner consider Rejected here, leaving it to the anthology (ANTH-LIT-695), whose question its substance answers.'
 title: 'Language Design as Information Renormalization'
 version: 1
 history:
@@ -15,7 +15,7 @@ history:
     abstract and read there for which network architectures suit language. It
     carries the `anthology-candidate` flag last (ADR-005). The Mathematics of
     Meaning corpus lists it in its bibliography; its record has no entry for
-    it.
+    it. Read the same day (NOTE-tmp7i51r).
 tags:
 - linguistics
 - information-theory
@@ -32,13 +32,16 @@ keywords:
 - 'perplexity'
 implementations: []
 summary: >-
-  Gallego & Orús (2017; SN Comput. Sci. 2022). Models Chomsky's MERGE as a
-  coarse-graining, so that combining syntactic objects is a renormalization
-  step and sentence probabilities form mostly loop-free stochastic tensor
-  networks; tree-like syntax then gives power-law correlations in language.
-  Not read.
+  Gallego & Orús (2017; SN Comput. Sci. 2022). Reads MERGE as a
+  coarse-graining, so a parsed sentence's probability is a mostly loop-free
+  tensor network of MERGE tensors. Because MERGE's output is fixed by its
+  input, that probability is a product of local coefficients. Balanced parses
+  make correlations decay polynomially in word separation; the step to a
+  language-wide power law is asserted and nothing is tested on data. Syntax
+  only: semantics and context are set aside.
 ---
-<!-- inactive-ok-file: CLAIM-098 — Proposed; open, cited as the claim a reading should test -->
+<!-- inactive-ok-file: CLAIM-098 — Proposed; open, cited as the claim the reading tested and does not support -->
+<!-- inactive-ok-file: THEORY-197 — Proposed; cited as the finding the paper's architecture claim runs against -->
 
 # LIT-tmpsvtig: Language Design as Information Renormalization
 
@@ -46,25 +49,63 @@ Angel J. Gallego and Román Orús (2022), *SN Computer Science* 3, 140 — [ARXI
 
 ## Key takeaways
 
-*Filed, not read.* Known here by what it is standardly cited for.
+*Read in full; see [NOTE-tmp7i51r](../notes.d/NOTE-tmp7i51r.md).*
 
-- MERGE, which combines two syntactic objects into one, is read as an
-  information coarse-graining, and so as a renormalization step.
-- In a language-model setting MERGE becomes a probability tensor, and the
-  probability vectors of well-formed sentences are tree tensor networks.
-- Power-law correlations in language follow from tree structure. The
-  conclusions about which neural networks fit language are the anthology's
-  reading, not this record's.
+- **Parse as coarse-graining.** Each MERGE discards its constituents'
+  identities and keeps one label for the next level. As a probability
+  model, each MERGE is a 3-index tensor and a parse is a tree tensor
+  network; with one tensor everywhere it is a PCFG.
+- **Correlated factorization.** MERGE's output is a function of its input
+  (the converse fails), so fixing the words fixes every internal index. A
+  parsed sentence's probability is a product of one coefficient per node,
+  computed in O(n).
+- **Correlations follow the tree.** Correlation decays exponentially in tree
+  distance. That is exponential in word separation for a sequential parse
+  and polynomial for a balanced one. The claim that languages on average
+  have power-law correlations rests on an asserted average over parse
+  shapes, and is close to Lin and Tegmark's earlier result, which the paper
+  cites but does not engage.
+- **Quantum state and perplexity bound.** Square roots of the coefficients
+  give a tree tensor-network state preparable by two-body gates. Its
+  entanglement gives a classical lower bound on a word block's perplexity.
+- **Renormalization in a thin sense.** No rescaling, fixed points or flows.
+  The authors themselves qualify irreversibility: speakers keep the
+  discarded detail for a while.
 
 ## Standing in the record
 
 **Each record reads it for its own question.** The anthology reads it for
-which architectures suit language. This record reads it for [QUESTION-026](../questions.d/QUESTION-026.md),
-whether how a whole utterance's observables are carried is fixed by how its
-parts' are: if composition is coarse-graining, what a composition keeps is
-what a renormalization step keeps, and a coarse-graining is not invertible,
-which is [CLAIM-098](../claims.d/CLAIM-098.md)'s point about translations.
+which architectures suit language. This record filed it for
+[QUESTION-026](../questions.d/QUESTION-026.md). Reading answered the three checks the filing set.
 
-A weak candidate: it was filed from a bibliography, and its link to the
-record's questions is by resemblance until it is read. The anthology notes it
-must be read against Lin & Tegmark on power-law correlations in LSTMs.
+- **[QUESTION-026](../questions.d/QUESTION-026.md).** The paper fixes a whole sentence's syntactic probability
+  from its parts and the parse, which has the shape the question asks
+  about. But its observable is syntactic, not semantic or context-indexed,
+  and the authors set semantics aside. It offers neither the construction
+  nor the separation the question names. If it leans either way, it leans
+  by omission to the second branch: its composition stops before the
+  proposition.
+- **[CLAIM-098](../claims.d/CLAIM-098.md).** The resemblance fails. MERGE is many-to-one, and Appendix A
+  ties phase impenetrability to RG irreversibility. That irreversibility
+  runs from parts to whole inside one structure, and the paper has no
+  transport between media. A deterministic many-to-one map is the trivial
+  case of the claim's semigroup. The authors also say the brain does not
+  fully erase what MERGE discards.
+- **Lin and Tegmark.** The anthology's caution holds. The power-law result
+  restates theirs less rigorously.
+
+Two nearer bearings turned up in reading. The coarse-graining keeps what the
+grammar's next step needs, a target in [CLAIM-152](../claims.d/CLAIM-152.md)'s sense, which the paper
+illustrates without saying. Its verdict on neural networks is an
+architecture-only answer to [QUESTION-060](../questions.d/QUESTION-060.md), of the kind [THEORY-197](../theory.d/THEORY-197.md) warns
+against; it is ML practice and the anthology's reading.
+
+**Recommendation.** The link to this record's questions was by resemblance,
+and reading does not make it more. Its substance is the anthology's question.
+The reader recommends the owner consider setting it Rejected here, with the
+reason "read; bears on no question here beyond illustration; held by the
+anthology as [ANTH-LIT-695](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-695.md)". It stays Active until the owner decides.
+
+`linguistics` comes first, as the paper's subject. `information-theory` is
+for its correlation, entropy and perplexity results. `anthology-candidate`
+is last, because an anthology topic holds it.
