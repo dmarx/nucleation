@@ -1,0 +1,117 @@
+---
+status: Active
+status_note: 'read in full 2026-10-13 ([NOTE-tmpyip0j](../notes.d/NOTE-tmpyip0j.md)) from a scan of the 1999 reprint posted on Andrew M. Bailey''s "Papers by David Lewis" page (andrewmbailey.com/dkl/Many_Almost_One.pdf), a scholar''s page, not the author''s or the publisher''s. The record read [LIT-446](LIT-446.md) from the same page. OpenAlex and Semantic Scholar report no open-access copy, and PhilArchive refused the download. Worth reading for two ways of counting a thing with many equally good boundaries. Supervaluation makes "one cat" super-true while no candidate is super-truly the cat. Almost-identity, which is mereological overlap, makes it true enough in most contexts. It also shows each way failing where the other works. For [QUESTION-035](../questions.d/QUESTION-035.md) and [CLAIM-164](../claims.d/CLAIM-164.md) it is a precedent for counting by something weaker than identity, not evidence: "almost one" fits perturbed copies of one gap-isolated subspace, not the vectors inside a degenerate one.'
+title: 'Many, but almost one'
+version: 1
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Filed, not read. Filed from Crossref's record of the reprint
+    (doi:10.1017/CBO9780511625343.010): "Many, but almost one", in Papers in
+    Metaphysics and Epistemology, Cambridge University Press, pp. 164–182,
+    issued 13 January 1999. The essay first appeared in 1993 in Keith
+    Campbell, John Bacon and Lloyd Reinhardt (eds.), Ontology, Causality and
+    Mind: Essays on the Philosophy of D. M. Armstrong (Cambridge University
+    Press), pp. 23–38. The editors, their order and the subtitle are from the
+    reprint's first-publication note. The note gives no pages, so the range is
+    from Bailey's listing and Weatherson's Lewis bibliography; the 1993 volume
+    was not seen. Earlier wording of this note gave the subtitle as "Essays in
+    Honour of D. M. Armstrong", which the reprint does not use. `published:`
+    is 1993, year only. No Crossref record for the 1993 volume was found. Not
+    held in the Anthology of the SOTA: a grep of its record/ (clone of
+    2026-10-13, commit d1573d2) for the title and the DOI found nothing, and
+    no anthology topic holds vagueness or ordinary objects, so ADR-013 does
+    not apply. Named in MOM-LIT-017 with Unger (1980). Read the same day
+    (NOTE-tmpyip0j).
+tags:
+- metaphysics
+- mereology
+- individuation
+date: '2026-10-13'
+published: '1993-01-01'
+doi: '10.1017/CBO9780511625343.010'
+first_author: 'Lewis'
+keywords:
+- 'problem of the many'
+- 'vagueness'
+- 'supervaluation'
+- 'partial identity'
+implementations: []
+summary: >-
+  Lewis (1993), in Ontology, Causality and Mind (CUP); reprinted in Papers in
+  Metaphysics and Epistemology (CUP 1999), 164–182. Two solutions to the
+  problem of the many, offered together. On supervaluation, "cat" is
+  undecided among the candidates, and "there is one cat" is true on every
+  precisification though no candidate is definitely the cat. On almost
+  identity, the candidates overlap almost completely, so counting by overlap
+  gives one, true enough for most contexts. Almost-identity is not
+  transitive and has no fixed threshold. It fails for candidates that differ
+  substantially, such as a house with and without its garage, and
+  supervaluation covers that case.
+---
+<!-- inactive-ok-file: LIT-tmpddovi — Deferred, not read; Unger's paper, filed beside this as the problem it answers, not leaned on -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the record's answer whose duration clause this reading bears on, open -->
+
+# LIT-tmp0l1qi: Many, but almost one
+
+David Lewis (1993), in Keith Campbell, John Bacon and Lloyd Reinhardt (eds.), *Ontology, Causality and Mind: Essays on the Philosophy of D. M. Armstrong* (Cambridge University Press), 23–38; reprinted in *Papers in Metaphysics and Epistemology* (Cambridge University Press, 1999), 164–182 — DOI-10.1017/CBO9780511625343.010
+
+## Key takeaways
+
+*Read in full; see [NOTE-tmpyip0j](../notes.d/NOTE-tmpyip0j.md).*
+
+- **Vagueness is semantic indecision.** We never decided which candidate
+  "cat" applies to. No vague objects are needed. Lewis rejects them, and
+  constituter dualism too, because the candidates stay "all too cat-like".
+- **Supervaluation.** Each intended interpretation puts exactly one
+  candidate in the extension of "cat", so "there is one cat" is super-true.
+  The cost is granted: "there is nothing such that it is super-true of it
+  that it is a cat on the mat." The rule is a defeasible presumption that
+  pragmatics suspends.
+- **Almost one.** For Lewis, "the real opposite of identity is
+  distinctness" in the sense of non-overlap. Candidates differing by a few hairs are almost
+  identical, so "The cats are many, but almost one". Almost-identity is
+  overlap, not similarity. It "is not in general an equivalence relation",
+  and its threshold is left undecided.
+- **Each needs the other.** Fred's house with and without the garage are
+  not almost one, so supervaluation must decide. Definite descriptions
+  ("The cat on the mat includes hair h17") get their truth-value gap only
+  from supervaluation. Supervaluation is natural only when the
+  interpretations differ little, which almost-identity secures.
+- **Footnote 6.** A more natural referent would win by default, but here
+  "no handy joint in nature picks out one of the c's".
+
+## Standing in the record
+
+Filed with Unger (1980; [LIT-tmpddovi](LIT-tmpddovi.md)), beside it, for [QUESTION-035](../questions.d/QUESTION-035.md). The check
+was whether Lewis's first reply fairly maps onto [CLAIM-164](../claims.d/CLAIM-164.md), which says that
+what a spectral gap makes definite is a subspace, not a single direction.
+The reading ([NOTE-tmpyip0j](../notes.d/NOTE-tmpyip0j.md)) finds the map partly fair.
+
+- **Fair for perturbed copies.** If the many are the slightly different
+  subspaces that noise or marginal partitions give, they are almost one,
+  within about ‖δT‖/δ of one subspace by Davis–Kahan. The gap supplies the
+  threshold Lewis leaves undecided, and it bounds the chain of
+  almost-identities that he warns can drift. Those additions are the
+  record's.
+- **Not fair for vectors inside a degenerate cluster.** These can be
+  orthogonal, so they are not almost identical. There [CLAIM-164](../claims.d/CLAIM-164.md) fits
+  Lewis's supervaluation better. "The top direction" refers indeterminately,
+  so the claim's "names nothing" is stronger than Lewis would put it.
+  Taking V itself as the referent is the disqualification route Lewis
+  rejects for other cases, and his objection to it does not transfer.
+- **Overlap is not angle.** Lewis's almost-identity is shared parts, and
+  nearby subspaces generically share none. The record can borrow his
+  counting move but not his relation.
+- **The closer point of contact is footnote 6.** A gap is the "handy joint"
+  whose absence makes the problem bite. It settles the boundary at the
+  level it isolates, and leaves the problem inside the cluster and wherever
+  the gap fails [CLAIM-154](../claims.d/CLAIM-154.md)'s threshold.
+- **For [CLAIM-157](../claims.d/CLAIM-157.md).** Lewis's temporal problem of the many applies to the
+  duration clause, because a block's clearing of τ has no sharp end. His
+  Fred's-house case is the nested-block case, where only supervaluation or
+  context decides. [CLAIM-152](../claims.d/CLAIM-152.md)'s target plays that role here.
+
+The essay is a philosophical precedent, not evidence. It has no metric, no
+dynamics and no threshold.
