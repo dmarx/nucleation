@@ -10,7 +10,9 @@ tags:
 - mathematics
 - representation-learning
 date: '2026-10-10'
-line: 'pragmatic-transport'
+line:
+- pragmatic-transport
+- formal-apparatus
 grounds:
 - THEORY-004
 - THEORY-017

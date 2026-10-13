@@ -10,7 +10,9 @@ tags:
 - mathematics
 - individuation
 date: '2026-10-10'
-line: 'pragmatic-transport'
+line:
+- pragmatic-transport
+- formal-apparatus
 objects_to:
 - CLAIM-137
 - CLAIM-136

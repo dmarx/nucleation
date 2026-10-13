@@ -27,7 +27,9 @@ tags:
 - complex-systems
 - individuation
 date: '2026-10-11'
-line: distributed-agency
+line:
+- distributed-agency
+- formal-apparatus
 complements:
 - CLAIM-164
 uses:

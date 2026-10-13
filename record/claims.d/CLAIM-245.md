@@ -10,7 +10,9 @@ tags:
 - contextuality
 - mathematics
 date: '2026-10-10'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 grounds:
 - THEORY-174
 - THEORY-177

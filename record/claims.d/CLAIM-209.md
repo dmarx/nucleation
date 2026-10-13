@@ -17,7 +17,9 @@ tags:
 - mathematical-statistics
 - philosophy-of-science
 date: '2026-10-10'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 answers:
 - QUESTION-027
 complements:

@@ -17,9 +17,9 @@ objects_to:
 - CLAIM-185
 - CLAIM-186
 rests_on:
-- CLAIM-149
 - CLAIM-181
-- CLAIM-142
+- CLAIM-tmp5bgh5
+- CLAIM-tmpbcck8
 summary: >-
   An evaluation counter to the persistence and growth-rate claims,
   distinct from [CLAIM-181](CLAIM-181.md). [CLAIM-181](CLAIM-181.md) says the record shapes the argument.
@@ -30,6 +30,7 @@ summary: >-
 grounds:
 - CASE-071
 ---
+<!-- inactive-ok-file: CLAIM-tmp5bgh5 CLAIM-tmpbcck8 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-149 CLAIM-206 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-190: The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
@@ -74,3 +75,12 @@ claim's remedy, drift "judged blind, by raters using the exchange's own
 standards", treats raters as the criterion. That is [CLAIM-217](CLAIM-217.md)'s
 position, [CLAIM-206](CLAIM-206.md) holds that human judgements are one probe family
 among others, and the dispute is open.
+
+## Note of 2026-10-13: premises re-pointed to their general forms
+
+This claim needed only probe-relative equivalence and the point that training probes cannot certify, not the account of translation it was
+filed under. Under [ADR-040](../decisions.d/ADR-040.md) that content is filed separately as [CLAIM-tmp5bgh5](CLAIM-tmp5bgh5.md) and [CLAIM-tmpbcck8](CLAIM-tmpbcck8.md), in
+the formal-apparatus line, and this claim's `rests_on` now names
+[CLAIM-tmp5bgh5](CLAIM-tmp5bgh5.md) and [CLAIM-tmpbcck8](CLAIM-tmpbcck8.md) in place of [CLAIM-142](CLAIM-142.md) and [CLAIM-149](CLAIM-149.md). The body's citations of [CLAIM-142](CLAIM-142.md) and [CLAIM-149](CLAIM-149.md) stand: they
+are where the record first argued the point. The change is that setting
+pragmatic-transport aside no longer takes this premise with it.

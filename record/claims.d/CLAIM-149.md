@@ -19,6 +19,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-011
+- CLAIM-tmpbcck8
 grounds:
 - CASE-041
 - CASE-071
@@ -34,9 +35,8 @@ summary: >-
   Proposed.
 illustrated_by:
 - CASE-041
-supports:
-- CLAIM-190
 ---
+<!-- inactive-ok-file: CLAIM-tmpbcck8 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-142 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
 # CLAIM-149: A probe family that supplies a transformation's training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it
@@ -84,3 +84,11 @@ measures the model's preferences.
 - It does not settle [QUESTION-005](../questions.d/QUESTION-005.md). It names one way the
   operationalization can build its verdict into the measurement.
 - The documented support is one case, in image generation. Hence Proposed.
+
+## Note of 2026-10-13: the general content is filed separately
+
+Under [ADR-040](../decisions.d/ADR-040.md), the point that training probes cannot certify is filed on its own as [CLAIM-tmpbcck8](CLAIM-tmpbcck8.md), in the
+formal-apparatus line, resting on no claim. This claim now rests on it for
+the general content, and keeps [CLAIM-011](CLAIM-011.md), for carrying the remedy from correspondences to training objectives. Claims in other lines that need
+only the general content cite [CLAIM-tmpbcck8](CLAIM-tmpbcck8.md), so setting pragmatic-transport aside
+does not take it from them.

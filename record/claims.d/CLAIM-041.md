@@ -11,7 +11,9 @@ tags:
 - quantum-foundations
 - probabilistic-modeling
 date: '2026-10-08'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 works:
 - what-survives-translation
 grounds:

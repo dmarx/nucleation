@@ -10,7 +10,9 @@ tags:
 - model-comparison
 - individuation
 date: '2026-10-11'
-line: distributed-agency
+line:
+- distributed-agency
+- formal-apparatus
 objects_to:
 - CLAIM-154
 grounds:

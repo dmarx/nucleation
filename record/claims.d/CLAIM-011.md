@@ -10,7 +10,9 @@ tags:
 - mathematics
 - probabilistic-modeling
 date: '2026-10-08'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 objects_to:
 - CLAIM-117
 undercuts:
@@ -90,3 +92,8 @@ commutators themselves." It is the last appearance before the manuscript, whose
 - Restored to the plan as A218 Ch9.7–9.9: "Alignment ambiguity and
   trivial-collapse failure", "Independently anchored, nondegenerate maps"
   and "Correspondence estimation versus correspondence validation".
+
+## Note of 2026-10-13: a second line
+
+Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this claim also holds
+`formal-apparatus`. It rests on no claim, and its two limits and remedy hold for any intertwining with a correspondence, so setting pragmatic-transport aside would leave it standing, without the dependents it has in that line.

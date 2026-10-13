@@ -48,6 +48,7 @@ extended_by:
 - THEORY-111
 supports:
 - CLAIM-187
+- CLAIM-tmp3uhl1
 ---
 <!-- inactive-ok-file: THEORY-111 THEORY-112 — Proposed; accounts this one is read beside, named in Connections, nothing here rests on them -->
 

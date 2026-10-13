@@ -14,7 +14,9 @@ tags:
 - mathematics
 - contextuality
 date: '2026-10-08'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 works:
 - what-survives-translation
 answers:

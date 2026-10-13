@@ -19,6 +19,7 @@ works:
 - what-survives-translation
 rests_on:
 - CLAIM-056
+- CLAIM-tmpxrn16
 summary: >-
   C1 Appendix D's two profiles and E1's two forgettings (A59). The
   manuscript §11 keeps it in one line ("converge in surface form while
@@ -28,9 +29,8 @@ illustrated_by:
 - CASE-017
 supports:
 - CLAIM-225
-- CLAIM-189
-- CLAIM-191
 ---
+<!-- inactive-ok-file: CLAIM-tmpxrn16 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-081: Retaining information about the ancestor and drifting in the population's distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation
@@ -74,3 +74,11 @@ within a community need not imply faithful retention of ancestral meaning.**" Th
 manuscript keeps the point and adds a caveat the argument lacked: "adding
 independent historical evidence to later interpreters changes the Markov graph
 and invalidates a naive application of the inequality" (§8).
+
+## Note of 2026-10-13: the general content is filed separately
+
+Under [ADR-040](../decisions.d/ADR-040.md), the distinction between retention and drift is filed on its own as [CLAIM-tmpxrn16](CLAIM-tmpxrn16.md), in the
+formal-apparatus line, resting on no claim. This claim now rests on it for
+the general content, and keeps [CLAIM-056](CLAIM-056.md), for reading the chain as a reconstruction chain. Claims in other lines that need
+only the general content cite [CLAIM-tmpxrn16](CLAIM-tmpxrn16.md), so setting pragmatic-transport aside
+does not take it from them.

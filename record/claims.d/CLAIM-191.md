@@ -21,9 +21,9 @@ works:
 rests_on:
 - CLAIM-177
 - CLAIM-182
-- CLAIM-081
-- CLAIM-056
 - CLAIM-002
+- CLAIM-tmpxrn16
+- CLAIM-tmpjp2tl
 grounds:
 - THEORY-155
 - CASE-015
@@ -40,6 +40,7 @@ summary: >-
 objected_by:
 - CLAIM-189
 ---
+<!-- inactive-ok-file: CLAIM-tmpxrn16 CLAIM-tmpjp2tl — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-002 CLAIM-056 CLAIM-081 CLAIM-090 CLAIM-115 CLAIM-177 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 THEORY-155 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-078 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -117,3 +118,12 @@ retellers per generation", in a metric other than total variation. A
 sequence of memoryless sessions gives one restatement per generation, so
 testing the third point in this claim's own setting would need that
 design.
+
+## Note of 2026-10-13: premises re-pointed to their general forms
+
+This claim needed only the distinction between retention and drift, and the error recursion with its regimes, not the account of translation it was
+filed under. Under [ADR-040](../decisions.d/ADR-040.md) that content is filed separately as [CLAIM-tmpxrn16](CLAIM-tmpxrn16.md) and [CLAIM-tmpjp2tl](CLAIM-tmpjp2tl.md), in
+the formal-apparatus line, and this claim's `rests_on` now names
+[CLAIM-tmpxrn16](CLAIM-tmpxrn16.md) and [CLAIM-tmpjp2tl](CLAIM-tmpjp2tl.md) in place of [CLAIM-081](CLAIM-081.md) and [CLAIM-056](CLAIM-056.md). The body's citations of [CLAIM-081](CLAIM-081.md) and [CLAIM-056](CLAIM-056.md) stand: they
+are where the record first argued the point. The change is that setting
+pragmatic-transport aside no longer takes this premise with it.

@@ -10,7 +10,9 @@ tags:
 - contextuality
 - mathematics
 date: '2026-10-09'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 works:
 - what-survives-translation
 grounds:

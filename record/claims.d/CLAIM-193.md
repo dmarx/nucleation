@@ -21,6 +21,7 @@ answers:
 - QUESTION-031
 rests_on:
 - CLAIM-142
+- CLAIM-tmpqe024
 grounds:
 - THEORY-008
 - THEORY-002
@@ -38,6 +39,7 @@ summary: >-
 complements:
 - CLAIM-209
 ---
+<!-- inactive-ok-file: CLAIM-tmpqe024 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-204 CLAIM-206 CLAIM-209 CLAIM-217 THEORY-019 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-193: A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
@@ -96,3 +98,11 @@ this says rich enough relative to what." This claim's "comes from the
 analyst, not from the probes" is the linear-case form of [CLAIM-209](CLAIM-209.md)'s
 first clause, now related by `complements`, and of the part [CLAIM-204](CLAIM-204.md)
 says the analyst can certify.
+
+## Note of 2026-10-13: the general content is filed separately
+
+Under [ADR-040](../decisions.d/ADR-040.md), the linear-readout result is filed on its own as [CLAIM-tmpqe024](CLAIM-tmpqe024.md), in the
+formal-apparatus line, resting on no claim. This claim now rests on it for
+the general content, and keeps [CLAIM-142](CLAIM-142.md), for carrying the result to communicative realizations. Claims in other lines that need
+only the general content cite [CLAIM-tmpqe024](CLAIM-tmpqe024.md), so setting pragmatic-transport aside
+does not take it from them.
