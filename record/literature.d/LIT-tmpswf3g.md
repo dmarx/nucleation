@@ -1,0 +1,88 @@
+---
+status: Deferred
+status_note: 'filed 2026-10-13 and read only in part: pp. 45–47, the Cooperative Principle and the maxims, from an excerpt on a Simon Fraser University course page ([NOTE-tmp1p65z](../notes.d/NOTE-tmp1p65z.md), Skimmed). The rest of the chapter, pp. 41–44 and 47–58, was not reachable from a lawful source: the other copies found are Scribd and PDF-aggregator uploads and a course-licensed reprint on a non-university site. The definition of conversational implicature, its tests and the worked examples are therefore not read here. It stays Deferred until a full copy is supplied. The third of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
+title: 'Logic and Conversation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Filed, partly read. Full-text attempts on 2026-10-13: an excerpt of
+    pp. 45–47 on a Simon Fraser University course page
+    (sfu.ca/~jeffpell/Cogs300/GriceLogicConvers75.pdf) was read. A UCL
+    study-pack URL (ucl.ac.uk/ls/studypacks/Grice-Logic.pdf) and a Penn
+    course URL returned 403. A University of Washington file titled as
+    this chapter (faculty.washington.edu/smcohen/453/GriceLogicDisplay.pdf)
+    is S. Marc Cohen's lecture notes on it, not the chapter, and was not
+    used as a source. A reprint marked as licensed for a UCL course,
+    hosted on lawandlogic.org, and Scribd, PDFCoffee and Docsity uploads
+    were not opened. Details checked against Crossref (in Cole and
+    Morgan (eds.), Speech Acts, Syntax and Semantics 3, pp. 41–58, now
+    Brill). `published:` is the full date Crossref gives. Reprinted in
+    Grice's Studies in the Way of Words (Harvard, 1989), not consulted.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone of
+    2026-10-13, commit d1573d2) for "Grice", "Logic and Conversation" and
+    "implicature" found nothing.
+tags:
+- pragmatics
+- philosophy-of-language
+- linguistics
+date: '2026-10-13'
+published: '1975-12-12'
+doi: '10.1163/9789004368811_003'
+first_author: 'Grice'
+keywords:
+- 'conversational implicature'
+- 'Cooperative Principle'
+- 'maxims of conversation'
+- 'what is said'
+implementations: []
+summary: >-
+  Grice (1975), in Cole and Morgan (eds.), Syntax and Semantics 3:
+  Speech Acts, pp. 41–58. What a speaker implicates is separated from what is said, and
+  conversational implicatures are derived from a Cooperative Principle
+  and the maxims of Quantity, Quality, Relation and Manner. Read here only
+  at pp. 45–47, where the principle and maxims are stated.
+---
+<!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this work was filed for, open -->
+<!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, the record's formal successor to this account, open -->
+
+# LIT-tmpswf3g: Logic and Conversation
+
+H. Paul Grice (1975), in Peter Cole and Jerry L. Morgan (eds.), *Syntax
+and Semantics 3: Speech Acts*, New York: Academic Press, pp. 41–58 —
+DOI-10.1163/9789004368811_003
+
+## Key takeaways
+
+*Read only at pp. 45–47* ([NOTE-tmp1p65z](../notes.d/NOTE-tmp1p65z.md)).
+
+- **The Cooperative Principle.** "Make your conversational contribution
+  such as is required, at the stage at which it occurs, by the accepted
+  purpose or direction of the talk exchange in which you are engaged."
+- **The maxims.**
+  - Quantity: as informative as required, and not more. Grice calls the
+    second maxim "disputable".
+  - Quality: do not say what you believe false, or that for which you
+    lack adequate evidence.
+  - Relation: "Be relevant", whose problems Grice hopes to take up "in a
+    later work".
+  - Manner: "Be perspicuous": avoid obscurity and ambiguity, be brief, be
+    orderly.
+- **Other maxims.** "Aesthetic, social, or moral" maxims such as "Be
+  polite" may also generate nonconventional implicatures. The scheme is
+  stated for "a maximally effective exchange of information", which Grice
+  calls "too narrow".
+- **Not read here.** The separation of what is said from what is
+  implicated (pp. 41–45), the definition of conversational implicature,
+  its calculability and cancellability, and the examples of flouting
+  (pp. 47–58). Known here only from their reception, in [LIT-816](LIT-816.md) and
+  [LIT-821](LIT-821.md).
+
+## Standing in the record
+
+Filed on 2026-10-13 at the owner's request, as one of the four works of
+the intention-based line that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing
+from the record. See the curation entry of that day. It is the text that
+the rational-speech-act papers ([LIT-816](LIT-816.md), [LIT-821](LIT-821.md), [LIT-809](LIT-809.md)) formalise, so
+a full reading would let [THEORY-172](../theory.d/THEORY-172.md) be checked against its source.
