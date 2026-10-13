@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**350 documents cited without acknowledgement.** Not listed: 6197 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**352 documents cited without acknowledgement.** Not listed: 6215 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -411,8 +411,8 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/decisions.d/ADR-040.md:201`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:35`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:38`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:39`](../../record/questions.d/QUESTION-069.md)
 
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
@@ -927,8 +927,8 @@ Whether two systems compute the same way can be tested by quotienting the full a
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:200`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:219`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:38`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:39`](../../record/questions.d/QUESTION-069.md)
 
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
@@ -1047,6 +1047,19 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
 
+### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
+
+A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
+
+6 citations in 3 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
+- [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
+- [`record/notes.d/NOTE-712.md:112`](../../record/notes.d/NOTE-712.md)
+- [`record/notes.d/NOTE-712.md:129`](../../record/notes.d/NOTE-712.md)
+- [`record/theory.d/THEORY-210.md:43`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:101`](../../record/theory.d/THEORY-210.md)
+
 ### [CLAIM-046](../../record/claims.d/CLAIM-046.md) — Proposed
 
 Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed
@@ -1081,7 +1094,7 @@ A linear probe family can tell apart only realizations whose representations dif
 - [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
 - [`record/decisions.d/ADR-040.md:174`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:220`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-196](../../record/claims.d/CLAIM-196.md) — Proposed
 
@@ -1210,8 +1223,8 @@ Across load and temperature, the connectivity and output similarity of independe
 5 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:84`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:48`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-109.md:161`](../../record/theory.d/THEORY-109.md)
 - [`record/theory.d/THEORY-109.md:165`](../../record/theory.d/THEORY-109.md)
 
@@ -1222,8 +1235,8 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 5 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:84`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:42`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:43`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
 - [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
 
@@ -1468,8 +1481,8 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
-- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:39`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:40`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
 
@@ -1558,6 +1571,17 @@ A system can keep its identity independently within a shared environment only if
 - [`record/questions.d/QUESTION-054.md:59`](../../record/questions.d/QUESTION-054.md)
 - [`record/theory.d/THEORY-149.md:91`](../../record/theory.d/THEORY-149.md)
 - [`record/theory.d/THEORY-149.md:93`](../../record/theory.d/THEORY-149.md)
+
+### [THEORY-184](../../record/theory.d/THEORY-184.md) — Proposed
+
+Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
+
+4 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-712.md:117`](../../record/notes.d/NOTE-712.md)
+- [`record/notes.d/NOTE-712.md:159`](../../record/notes.d/NOTE-712.md)
+- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-037](../../record/claims.d/CLAIM-037.md) — Proposed
 
@@ -1829,15 +1853,15 @@ Attributions of mental states to institutions, such as the knowledge that the co
 - [`record/questions.d/QUESTION-049.md:34`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:47`](../../record/questions.d/QUESTION-049.md)
 
-### [THEORY-184](../../record/theory.d/THEORY-184.md) — Proposed
+### [THEORY-210](../../record/theory.d/THEORY-210.md) — Proposed
 
-Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
+Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss
 
-3 citations in 2 files await a look; 2 other citations of it are acknowledged.
+3 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-970.md:45`](../../record/literature.d/LIT-970.md)
-- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:42`](../../record/questions.d/QUESTION-058.md)
+- [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
+- [`record/literature.d/LIT-970.md:82`](../../record/literature.d/LIT-970.md)
+- [`record/notes.d/NOTE-712.md:130`](../../record/notes.d/NOTE-712.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -1944,8 +1968,8 @@ Recovering latent structure from relational data is three achievements, reconstr
 
 2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:35`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:36`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-137](../../record/claims.d/CLAIM-137.md) — Proposed
 
@@ -1953,8 +1977,8 @@ A communicative kind is identified by an invariant that does not depend on any o
 
 2 citations in 1 file await a look; 30 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-058.md:21`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:35`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:36`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-155](../../record/claims.d/CLAIM-155.md) — Proposed
 
@@ -2027,6 +2051,15 @@ A proposed relational kind is a hypothesis about invariance across admissible ch
 
 - [`record/decisions.d/ADR-040.md:202`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:221`](../../record/decisions.d/ADR-040.md)
+
+### [CLAIM-263](../../record/claims.d/CLAIM-263.md) — Proposed
+
+Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
+- [`record/notes.d/NOTE-712.md:120`](../../record/notes.d/NOTE-712.md)
 
 ### [CLAIM-264](../../record/claims.d/CLAIM-264.md) — Proposed
 
@@ -2286,8 +2319,8 @@ In the efficiently packed geometries of uniform superposition the features form 
 
 2 citations in 1 file await a look.
 
-- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:41`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:42`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-023](../../record/theory.d/THEORY-023.md) — Proposed
 
@@ -2428,19 +2461,19 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 
 Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 15 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:21`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:37`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:39`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-085](../../record/theory.d/THEORY-085.md) — Proposed
 
 A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:21`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:39`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:41`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-089](../../record/theory.d/THEORY-089.md) — Proposed
 
@@ -2548,7 +2581,7 @@ Under distribution shift the best layer for a linear readout lies below the top:
 2 citations in 1 file await a look.
 
 - [`record/questions.d/QUESTION-051.md:21`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:38`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:40`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-105](../../record/theory.d/THEORY-105.md) — Proposed
 
@@ -2556,8 +2589,8 @@ Fine-tuning from one pretrained model lands near the edge of a task-specific low
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:45`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-107](../../record/theory.d/THEORY-107.md) — Proposed
 
@@ -2565,8 +2598,8 @@ Merging models fine-tuned from one pretrained start loses accuracy through inter
 
 2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
 
@@ -2574,8 +2607,17 @@ A set of trained solutions has a centre that is linearly connected, after alignm
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:45`](../../record/questions.d/QUESTION-069.md)
+
+### [THEORY-112](../../record/theory.d/THEORY-112.md) — Proposed
+
+Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth
+
+2 citations in 2 files await a look; 19 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-187.md:53`](../../record/claims.d/CLAIM-187.md)
+- [`record/notes.d/NOTE-712.md:120`](../../record/notes.d/NOTE-712.md)
 
 ### [THEORY-114](../../record/theory.d/THEORY-114.md) — Proposed
 
@@ -2583,8 +2625,8 @@ Linear mode connectivity emerges during training, not at initialization: copies 
 
 2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:43`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:27`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-122](../../record/theory.d/THEORY-122.md) — Proposed
 
@@ -2727,8 +2769,8 @@ In a model that decodes the sum of two learned embeddings, a training set fixes 
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:40`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:41`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-187](../../record/theory.d/THEORY-187.md) — Proposed
 
@@ -2977,14 +3019,6 @@ Whether an agent's regimes are coordinated by discrete switches or by continuous
 1 citation in 1 file awaits a look.
 
 - [`record/cases.d/CASE-074.md:75`](../../record/cases.d/CASE-074.md)
-
-### [CLAIM-263](../../record/claims.d/CLAIM-263.md) — Proposed
-
-Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
 
 ### [CLAIM-265](../../record/claims.d/CLAIM-265.md) — Proposed
 
@@ -3537,14 +3571,6 @@ Along a low-loss linear path between two networks, every layer's features are th
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:58`](../../record/claims.d/CLAIM-187.md)
-
-### [THEORY-112](../../record/theory.d/THEORY-112.md) — Proposed
-
-Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth
-
-1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-187.md:53`](../../record/claims.d/CLAIM-187.md)
 
 ### [THEORY-113](../../record/theory.d/THEORY-113.md) — Proposed
 

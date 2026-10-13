@@ -1,5 +1,8 @@
 ---
+number: 80
 status: Open
+formerly:
+- QUESTION-tmpexxzn
 title: 'When a trained network''s parameters keep moving after its loss has converged, what about the network stays fixed, and is the last-layer geometry of neural collapse among the things that do?'
 version: 1
 tags:
@@ -21,9 +24,9 @@ summary: >-
   Nothing in the record relates them. Drawn by the assistant from the
   reading of Kunin et al., and filed at the owner's request.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-085 THEORY-tmpvl6ed — Proposed; the two pictures of the end of training and the readings that bear on relating them, open -->
+<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-085 THEORY-210 — Proposed; the two pictures of the end of training and the readings that bear on relating them, open -->
 
-# QUESTION-tmpexxzn: When a trained network's parameters keep moving after its loss has converged, what about the network stays fixed, and is the last-layer geometry of neural collapse among the things that do?
+# QUESTION-080: When a trained network's parameters keep moving after its loss has converged, what about the network stays fixed, and is the last-layer geometry of neural collapse among the things that do?
 
 ## The question
 
@@ -62,7 +65,7 @@ measurements of it depend on when training was stopped.
 - **[THEORY-085](../theory.d/THEORY-085.md):** the Hessian's top eigenspace is made of class outliers
   tied to class means. That is where [THEORY-209](../theory.d/THEORY-209.md)'s isotropy was tested, and
   also where collapse lives.
-- **[THEORY-tmpvl6ed](../theory.d/THEORY-tmpvl6ed.md):** along symmetry directions, SGD drifts conserved
+- **[THEORY-210](../theory.d/THEORY-210.md):** along symmetry directions, SGD drifts conserved
   quantities toward balance. That is motion that need not change the
   features at all.
 

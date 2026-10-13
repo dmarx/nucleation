@@ -1,5 +1,8 @@
 ---
+number: 712
 status: Read
+formerly:
+- NOTE-tmpgyewi
 paper: LIT-970
 title: 'Symmetry in Neural Network Parameter Spaces'
 version: 1
@@ -24,7 +27,7 @@ summary: >-
   route to implicit bias (§7.2).
 ---
 
-# NOTE-tmpgyewi: Symmetry in Neural Network Parameter Spaces
+# NOTE-712: Symmetry in Neural Network Parameter Spaces
 
 ## Contribution
 
@@ -124,7 +127,7 @@ steps, noise or weight decay, moves it.
 ## Bearing on the record
 
 It fills [THEORY-209](../theory.d/THEORY-209.md)'s null-space gap with an account of its own, filed as
-[THEORY-tmpvl6ed](../theory.d/THEORY-tmpvl6ed.md), which answers [QUESTION-069](../questions.d/QUESTION-069.md) in part. Continuous symmetry is
+[THEORY-210](../theory.d/THEORY-210.md), which answers [QUESTION-069](../questions.d/QUESTION-069.md) in part. Continuous symmetry is
 one source of connectivity, and the position along a symmetry orbit is set
 by the initialization and the optimizer's symmetry breaking, not by the
 loss.

@@ -1,5 +1,8 @@
 ---
+number: 210
 status: Proposed
+formerly:
+- THEORY-tmpvl6ed
 promote_when: >-
   A first-hand reading of the dynamical results the survey reports,
   enough to say what SGD does along symmetry orbits: Kunin et al. (2021),
@@ -27,7 +30,7 @@ answers:
 - QUESTION-069
 - QUESTION-058
 summary: >-
-  Zhao, Walters & Yu (2025), [LIT-970](../literature.d/LIT-970.md), read in [NOTE-tmpgyewi](../notes.d/NOTE-tmpgyewi.md): a survey,
+  Zhao, Walters & Yu (2025), [LIT-970](../literature.d/LIT-970.md), read in [NOTE-712](../notes.d/NOTE-712.md): a survey,
   so the dynamical results are secondhand. Continuous parameter-space
   symmetries (GL, scaling, orthogonal, translation) make minima
   positive-dimensional and connected, which is one source of mode
@@ -41,11 +44,11 @@ summary: >-
   with the SGD results unread here.
 ---
 
-# THEORY-tmpvl6ed: Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss
+# THEORY-210: Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss
 
 ## Source
 
-Zhao, Walters & Yu (2025), [LIT-970](../literature.d/LIT-970.md), read in [NOTE-tmpgyewi](../notes.d/NOTE-tmpgyewi.md): §§1–5 and 7–8,
+Zhao, Walters & Yu (2025), [LIT-970](../literature.d/LIT-970.md), read in [NOTE-712](../notes.d/NOTE-712.md): §§1–5 and 7–8,
 and §6.1. It is a survey. The dynamical results below are the cited
 papers', reported by the survey and not read here.
 

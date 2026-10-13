@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-132 of 711 NOTE documents. Back to the [full index](../README.md).
+133 of 712 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -140,3 +140,4 @@
 | [NOTE-705](../../../record/notes.d/NOTE-705.md) | Orseau, McGill & Legg — Agents and Devices | A formal counterpart of Dennett's physical and intentional stances. A device is a mixture of input-output mappings; an agent is a mixture of goal-optimizing ε-greedy policies, by inverse RL. Bayes' rule gives the posterior probability that a system is an agent. It is illustrated in a toy gridworld, with no human comparison. Agency is explicitly relative to the observer's prior. A clearly identified system is assumed. | Read |
 | [NOTE-707](../../../record/notes.d/NOTE-707.md) | Kenton et al. — Discovering Agents | An interventional, causal definition of agents. Mechanised causal models add a mechanism variable for each object-level variable. Decision nodes are found as variables whose mechanisms respond to downstream mechanisms (terminal edges), and utility nodes as the targets of those responses. Recovery of the true game graph is proved under five assumptions, including interventional data on mechanisms. The verdicts are sensible. The labels are frame-dependent and granularity-sensitive, which the paper states but does not treat as a threat. | Read |
 | [NOTE-711](../../../record/notes.d/NOTE-711.md) | The Limiting Dynamics of SGD | SGD with momentum β, learning rate η, batch size S and weight decay λ is modelled as (η/2)(1 + β)θ̈ + (1 − β)θ̇ + λθ = −g(θ) + √(η/S) √Σ ξ(t). For linear regression with Σ = σ²H this is an OU process in phase space. Its stationary state is Gibbs on a modified loss, with inverse temperature κ = S(1 − β²), in broken detailed balance. Under a quadratic loss at the end of training the same holds for deep networks, and a ResNet-18 on ImageNet shows the predicted isotropy, velocity regularization, oscillations and speed. | Read |
+| [NOTE-712](../../../record/notes.d/NOTE-712.md) | Symmetry in Neural Network Parameter Spaces | A symmetry is a group action on parameters preserving the network function (Def. 2.4) or the loss (Def. 2.6), possibly only on given data or in expectation (Defs. 2.8–2.9). Common components have GL, scaling, sign-flip, orthogonal, translation and permutation symmetries (Table 1). Continuous symmetries make minima connected manifolds, and give gradient flow conserved quantities that label trajectories and endpoints (§5). SGD's finite steps, noise and weight decay break these, which is an open route to implicit bias (§7.2). | Read |

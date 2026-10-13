@@ -4,7 +4,7 @@
 
 **information-geometry**.
 
-10 of 711 NOTE documents. Back to the [full index](../README.md).
+10 of 712 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

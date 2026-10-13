@@ -21,7 +21,7 @@ summary: >-
   [THEORY-083](../theory.d/THEORY-083.md), [THEORY-104](../theory.d/THEORY-104.md) and [THEORY-085](../theory.d/THEORY-085.md) answer it in part; the body gives
   each one's limit.
 refined_by:
-- QUESTION-tmpexxzn
+- QUESTION-080
 ---
 
 # QUESTION-051: What structure does training for one classification task leave in a network's last layers, and what does that structure cost for decisions and distributions the network was not trained on?
