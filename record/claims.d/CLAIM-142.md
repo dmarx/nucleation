@@ -61,7 +61,6 @@ supports:
 - CLAIM-133
 - CLAIM-139
 - CLAIM-204
-- CLAIM-187
 - CLAIM-193
 objected_by:
 - CLAIM-206

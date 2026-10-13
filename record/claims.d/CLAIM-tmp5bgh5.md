@@ -41,6 +41,7 @@ summary: 'The general content of [CLAIM-142](CLAIM-142.md), filed alone under [A
 supports:
 - CLAIM-142
 - CLAIM-190
+- CLAIM-187
 ---
 <!-- inactive-ok-file: CLAIM-046 CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 QUESTION-031 — Proposed; cited for what each holds or applies, open, not settled -->
 

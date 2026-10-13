@@ -14,7 +14,9 @@ tags:
 - compositionality
 - probabilistic-modeling
 date: '2026-10-09'
-line: pragmatic-transport
+line:
+- pragmatic-transport
+- formal-apparatus
 works:
 - what-survives-translation
 grounds:
@@ -69,3 +71,8 @@ is a caveat on s₁₂ = s₁ + s₂ − s₀ beyond the conditional independenc
 claim states. Attend-and-Excite ([LIT-806](../literature.d/LIT-806.md)) documents conjunctions failing
 by omission ("catastrophic neglect"), and in T2I-CompBench++ ([LIT-798](../literature.d/LIT-798.md))
 Composable Diffusion is again the weakest method.
+
+## Note of 2026-10-13: a second line
+
+Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this claim also holds
+`formal-apparatus`. It rests on no claim, and the conditions on the score identity are mathematics about conditional generation, not about translation.
