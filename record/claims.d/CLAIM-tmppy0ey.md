@@ -7,6 +7,8 @@ tags:
 - self-governance
 - social-ontology
 date: '2026-10-13'
+works:
+- self-as-recursive-ecology
 line:
 - distributed-agency
 - formal-apparatus

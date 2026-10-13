@@ -14,6 +14,10 @@ tags:
 - self-governance
 - complex-systems
 date: '2026-10-13'
+answers:
+- QUESTION-tmp2y4xi
+works:
+- self-as-recursive-ecology
 line:
 - distributed-agency
 grounds:

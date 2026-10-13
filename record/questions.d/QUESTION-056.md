@@ -17,6 +17,8 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-024](../claims.d/CLAIM-024.md), [CLAIM-021](../claims.d/CLAIM-021.md), [CLAIM-122](../claims.d/CLAIM-122.md)
   and [CLAIM-174](../claims.d/CLAIM-174.md). [THEORY-048](../theory.d/THEORY-048.md) answers it in part; the body gives each one's
   limit.
+refined_by:
+- QUESTION-tmpkkobi
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

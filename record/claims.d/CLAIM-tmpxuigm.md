@@ -15,6 +15,10 @@ tags:
 - self-governance
 - social-ontology
 date: '2026-10-13'
+answers:
+- QUESTION-tmplstea
+works:
+- self-as-recursive-ecology
 line:
 - distributed-agency
 rests_on:

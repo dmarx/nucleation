@@ -17,6 +17,7 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
+- self-as-recursive-ecology
 uses:
 - TERM-017
 argued_by:

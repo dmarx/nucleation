@@ -14,6 +14,8 @@ tags:
 - individuation
 - complex-systems
 date: '2026-10-13'
+works:
+- self-as-recursive-ecology
 line:
 - distributed-agency
 grounds:

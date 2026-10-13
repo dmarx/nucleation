@@ -12,6 +12,8 @@ tags:
 - self-governance
 - agency
 date: '2026-10-13'
+works:
+- self-as-recursive-ecology
 line:
 - distributed-agency
 summary: >-

@@ -18,6 +18,10 @@ tags:
 - self-governance
 - self
 date: '2026-10-13'
+answers:
+- QUESTION-tmpt97t5
+works:
+- self-as-recursive-ecology
 line:
 - distributed-agency
 rests_on:
