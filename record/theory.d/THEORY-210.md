@@ -4,21 +4,38 @@ status: Proposed
 formerly:
 - THEORY-tmpvl6ed
 promote_when: >-
-  A first-hand reading of the dynamical results the survey reports,
-  enough to say what SGD does along symmetry orbits: Kunin et al. (2021),
-  Neural Mechanics, on the drift of conserved quantities under finite
-  steps and noise; Ziyin et al. (2023a), on SGD's stationary distribution
-  under a rescaling symmetry; or Marcotte et al. (2023), on the count of
-  independent conservation laws. What would promote: measured drift of
-  imbalance, or of another symmetry's conserved quantity, during the
-  limiting dynamics of a deep network, toward the balanced value these
-  results predict and away from where a Langevin model on the quadratic
-  loss would leave it. What would refute it: a trained deep network whose
-  position along a continuous symmetry orbit is determined by the loss
-  alone, the same across initializations and optimizers. More catalogues
-  of symmetries cannot settle it.
+  The SGD half measured in a deep network trained on real data. The
+  dynamical sources are now read first-hand: Neural Mechanics
+  (LIT-tmpxnix4) for the conservation laws and their breaking by weight
+  decay and finite steps, and Ziyin et al. (LIT-tmppdo96) for the law of
+  balance under minibatch noise. What would promote: drift of imbalance, or
+  of another symmetry's conserved quantity, during the limiting dynamics of
+  a deep network, toward the balanced value these results predict, at
+  rates set by weight decay and by learning rate over batch size. What
+  would refute it: a trained deep network whose position along a
+  continuous symmetry orbit is determined by the loss alone, the same
+  across initializations and optimizers. More catalogues of symmetries
+  cannot settle it.
 title: 'Continuous parameter symmetries stretch a network''s minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Filed from the reading of the LIT-970 survey, with its dynamical results
+    secondhand.
+- version: 2
+  date: '2026-10-13'
+  note: >-
+    After reading the two sources the survey reported. Neural Mechanics
+    (LIT-tmpxnix4) and Ziyin et al. (LIT-tmppdo96) added as sources. One
+    attribution corrected: the survey's "imbalance decays exponentially
+    with large learning rates" is not found in Neural Mechanics, whose main
+    text attributes the exponential decay of the norm difference to weight
+    decay large enough to dominate. The Langevin comparison is restated:
+    Ziyin et al. compare SGD with isotropic noise, not with THEORY-209's
+    model. The claim is unchanged. promote_when is rewritten, since the
+    reading it asked for is done.
 tags:
 - loss-landscapes
 - learning-theory
@@ -26,6 +43,8 @@ tags:
 date: '2026-10-13'
 source:
 - LIT-970
+- LIT-tmpxnix4
+- LIT-tmppdo96
 answers:
 - QUESTION-069
 - QUESTION-058
@@ -36,8 +55,11 @@ summary: >-
   positive-dimensional and connected, which is one source of mode
   connectivity. Under gradient flow each gives a conserved quantity, such
   as layer imbalance, that is fixed by initialization and locates the
-  endpoint on the manifold. Under SGD these are not conserved. The
-  results the survey cites find imbalance decaying with large learning
+  endpoint on the manifold. Under SGD these are not conserved. Read
+  first-hand (Neural Mechanics; Ziyin et al.), weight decay drives the
+  conserved quantities toward zero, and minibatch noise drives a rescaling
+  symmetry's toward the point where the layers' gradient noise balances.
+  The survey had reported this as imbalance decaying with large learning
   rates, and a stationary distribution biased toward balanced solutions
   that a Langevin model does not predict. This is the null-space half
   that [THEORY-209](THEORY-209.md)'s limiting dynamics leave out. Proposed: one survey,
@@ -72,15 +94,25 @@ equivalent minima (§5.2). So, under gradient flow, where training ends
 along a symmetry orbit is decided at initialization.
 
 **Under SGD it is not.** Finite steps, gradient noise and weight decay
-break the conservation laws. The survey reports three results:
+break the conservation laws. Read first-hand, there are three effects:
 
-- imbalance decays exponentially with large learning rates (Kunin et al.
-  2021, *Neural Mechanics*);
-- with a rescaling symmetry, SGD's stationary distribution is biased
-  toward balanced solutions, "different from predictions from a Langevin
-  model" (Ziyin et al. 2023a);
-- large weight decay or noise favours the constraints that mirror
-  symmetries impose (Ziyin 2024).
+- **Weight decay pulls toward zero.** In Neural Mechanics ([LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md))
+  each quantity decays as an exponential memory of its initial value. For
+  rescale symmetry, "for large enough weight decay", the norm difference
+  decays exponentially to zero.
+- **Finite steps push outward.** For scale symmetry, discretization
+  pushes the norm out, against weight decay's pull (Neural Mechanics,
+  Eq. 21).
+- **Minibatch noise balances.** The noise has no component along a
+  symmetry, but its dependence on the parameters drives ‖u‖² − ‖w‖²
+  toward the point where the two groups' gradient noise is equal, at a
+  rate proportional to η/S (Ziyin et al., [LIT-tmppdo96](../literature.d/LIT-tmppdo96.md); [THEORY-tmpdsy58](THEORY-tmpdsy58.md)).
+  The stationary distribution then differs from what gradient descent with
+  isotropic noise would give, which diffuses along the orbit.
+
+The survey's version of the first point, "imbalance decays exponentially
+with large learning rates", is not found in Neural Mechanics; see the
+history note.
 
 On this account, the position along a symmetry orbit at the end of
 training is set by the initialization and by how the optimizer breaks the
@@ -100,17 +132,21 @@ symmetry.
   two-layer ReLU networks (§6.1).
 - **[THEORY-209](THEORY-209.md)** models the end of training as Langevin dynamics on a
   quadratic loss, and is silent on the Hessian's null space. The flat
-  directions this account describes are in that null space. The result
-  reported from Ziyin et al. says that along them SGD's stationary
-  behaviour is not what a Langevin model predicts. So the two accounts
-  describe complementary halves of the limiting dynamics, and they may
-  disagree about the null-space half.
+  directions this account describes are in that null space. Read
+  first-hand, [THEORY-209](THEORY-209.md)'s model and the SGD results disagree there, for
+  an identified reason. [THEORY-209](THEORY-209.md)'s
+  noise covariance is independent of the parameters, which freezes the
+  coordinate along a symmetry. [THEORY-tmpdsy58](THEORY-tmpdsy58.md)'s balancing drift comes from
+  exactly that dependence.
 
 ## What this does not say
 
 - It does not say all connectivity is symmetry. The survey says
   otherwise.
-- It does not establish the SGD results. They are reported, not read.
+- It does not establish the SGD results in deep networks trained on real
+  data. They are now read first-hand, but the evidence is VGG-16 with
+  recorded gradients (Neural Mechanics) and small synthetic networks (Ziyin
+  et al.).
 - It does not cover hidden ReLU symmetries or global symmetries across
   non-adjacent layers, which the survey names as open (§§2.4, 7.1).
 - It does not instruct. Teleportation and symmetry-invariant optimizers
