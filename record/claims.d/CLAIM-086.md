@@ -40,3 +40,18 @@ continued force of another."
 Two arguments conclude it: [ARG-003](../arguments.d/ARG-003.md), an analogy from the Dual State, and
 [ARG-001](../arguments.d/ARG-001.md), an existence proof from Northstar. The analogy is
 undercut in part ([CLAIM-032](CLAIM-032.md)); the claim does not fall with it.
+
+## Note of 2026-10-13: re-derived as "constitutive influence"
+
+The exchange of 2026-10-13 re-derived this claim without citing it. A4 split
+an operator's "semantic influence", its capacity to change representations,
+from its "constitutive influence", its capacity to alter "the organization
+that determines which operations are permitted, how they are evaluated, and
+how authority is subsequently allocated". The owner, at U5: "this is a really
+good point, and also makes it more natural to separate local vs global
+responsibilities." A5 added one thing this claim does not say: the split is
+orthogonal to scope. "Either can be local or global." Its example was
+"constitutive authority over a tiny region—for instance, determining which
+processes are allowed to update a particular memory". The r/place template
+designer ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)) is a case of the governing kind with almost no
+direct share of the canvas. Workbench entry of 2026-10-13, 21:29.

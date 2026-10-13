@@ -44,6 +44,8 @@ grounds:
 - THEORY-202
 - THEORY-066
 - THEORY-073
+complements:
+- CLAIM-tmpgfyls
 ---
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
