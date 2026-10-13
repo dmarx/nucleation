@@ -20,6 +20,7 @@ line:
 grounds:
 - CASE-tmpd83bj
 - CASE-074
+- THEORY-tmpbrxww
 complements:
 - CLAIM-tmpxuigm
 - CLAIM-086
@@ -65,7 +66,13 @@ one vote, apart from herding on the visible tally.
 
 - It does not say the inequality is illegitimate. It came from others'
   choosing to follow.
-- The degree of inequality on r/place has not been measured here. The
-  placement log does not record who followed whom ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)), and
-  Litherland and Mørch ([LIT-tmprqknl](../literature.d/LIT-tmprqknl.md), unread) is the study to read first.
-  A8's mention of bots relies on a retrospective that was not read.
+- It does not say coordination is the only source of unequal influence.
+  Use of the equal cooldown was itself heavy-tailed. In 2017 the average
+  account placed 14 pixels and the most active 545, and 17% of 2023 actions
+  came from accounts exceeding the cap (Wu and Silva, [THEORY-tmp7w5tq](../theory.d/THEORY-tmp7w5tq.md)).
+  Influence was unequal before any plan.
+- The degree of inequality due to plans has not been measured. The
+  placement log does not record who followed whom ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)).
+  Litherland and Mørch ([THEORY-tmpbrxww](../theory.d/THEORY-tmpbrxww.md)) show from the forums that a few
+  central members admitted or refused additions to a design that placers
+  then carried out. That is the mechanism, observed, though not its size.

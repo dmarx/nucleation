@@ -50,7 +50,7 @@ What the record holds already:
   itself distinguish itself from its environment, with no observer doing it,
   and they reject statistical and energetic measures of asymmetry as
   sufficient.
-- Segura 2026 ([LIT-tmpjmzwi](../literature.d/LIT-tmpjmzwi.md), unread) is reported to say that agreement on
+- Segura 2026 ([LIT-tmpjmzwi](../literature.d/LIT-tmpjmzwi.md), unread) is reported, unconfirmed (its abstract does not say it), to say that agreement on
   a set of assays implies the same organization only for assay sets that are
   conservative for a class of candidate models. If so, any answer is
   relative to such a class.

@@ -9,6 +9,9 @@ grounds:
 - THEORY-071
 - LIT-1017
 - CASE-tmpxtzj0
+- THEORY-tmpbt4lq
+- THEORY-tmpidvlt
+- THEORY-tmppdy7n
 tags:
 - self-governance
 - agency

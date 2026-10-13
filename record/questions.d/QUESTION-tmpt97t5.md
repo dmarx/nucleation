@@ -15,6 +15,7 @@ summary: >-
   of regulation, does not establish a will.
 answered_by:
 - CLAIM-tmpspyay
+- THEORY-tmpbt4lq
 ---
 <!-- inactive-ok-file: CLAIM-116 CLAIM-tmpspyay CLAIM-tmpzn7l2 THEORY-071 LIT-tmplyjhe — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

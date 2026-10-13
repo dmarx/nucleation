@@ -25,7 +25,7 @@ summary: >-
   turns up in the record. The event and the data are documented. The
   readings of them are proposals.
 ---
-<!-- inactive-ok-file: CLAIM-tmpgfyls CLAIM-tmpjhd7t CLAIM-tmpxuigm LIT-tmp92m28 LIT-tmplgy5c LIT-tmpmc817 LIT-tmprqknl — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpgfyls CLAIM-tmpjhd7t CLAIM-tmpxuigm LIT-tmp92m28 LIT-tmplgy5c LIT-tmpmc817 LIT-tmprqknl THEORY-tmpbrxww — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpd83bj: r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities coordinated off the canvas to build, defend and overwrite images
 
@@ -86,8 +86,9 @@ aggregating form off the canvas. It also sits beside Open Horizon
 ([CASE-006](CASE-006.md)), an organization that persists through turnover. Here the product
 and the producer can be followed separately.
 
-The literature registered with it is unread: Litherland and Mørch 2021
-([LIT-tmprqknl](../literature.d/LIT-tmprqknl.md)) on instruction and emergence, Adams, Fernandez and Witkowski
+The literature registered with it, read the same day: Litherland and Mørch
+2021 ([LIT-tmprqknl](../literature.d/LIT-tmprqknl.md)) on Reddit's rules ("instruction") against the planning
+that arose among participants ("emergence"), Adams, Fernandez and Witkowski
 2022 ([LIT-tmpmc817](../literature.d/LIT-tmpmc817.md)) on locality, Wu and Silva 2024 ([LIT-tmplgy5c](../literature.d/LIT-tmplgy5c.md)) on
 coordination across the three editions, and Falmagne, Stephenson and Levin
 2026 ([LIT-tmp92m28](../literature.d/LIT-tmp92m28.md)) on early warnings of transitions.
@@ -106,3 +107,20 @@ agency.
 
 A8 said Reddit's engineering retrospective discusses automated-account
 clusters. That retrospective was not read, and it is not relied on here.
+
+## Note of 2026-10-13: what the readings add to the facts
+
+The four registered studies are now read. One fact above is incomplete.
+Reddit released placement logs for all three editions, not only 2022.
+Litherland and Mørch ([LIT-tmprqknl](../literature.d/LIT-tmprqknl.md)) used the official 2017 data set, "all
+16.5 million placed tiles" with hashed usernames, and Falmagne et al.
+([LIT-tmp92m28](../literature.d/LIT-tmp92m28.md)) and Wu and Silva ([LIT-tmplgy5c](../literature.d/LIT-tmplgy5c.md)) used the 2022 and 2023 logs
+from placedata.reddit.com. Automation can now be sourced without the
+unread engineering retrospective. Falmagne et al. put cooldown-breaking
+changes at under 1% of 2022 changes. Wu and Silva attribute 17.1% of 2023
+actions, and 0.3% of 2017 actions, to accounts exceeding one action per
+five minutes. Unverified accounts sometimes had 10- or 20-minute cooldowns
+(Falmagne et al., SI). The planning layer this case calls the influence
+canvas is observed directly for one artwork in [LIT-tmprqknl](../literature.d/LIT-tmprqknl.md). There the
+design was negotiated in a forum of 161 accounts while about 77,000 placed
+tiles ([THEORY-tmpbrxww](../theory.d/THEORY-tmpbrxww.md)).

@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13, not read. Registered from the 2026-10-13 exchange on meaning operators and selfhood (the workbench entry of 2026-10-13, 21:29). No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+status: Active
+status_note: 'read in full 2026-10-13 ([NOTE-tmp88qyc](../notes.d/NOTE-tmp88qyc.md)) from the publisher''s open-access PDF under CC BY (frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1806435/pdf). Registered from the 2026-10-13 exchange on meaning operators and selfhood (the workbench entry of 2026-10-13, 21:29). Worth reading as a map of what each notion of closure closes (information, operations, efficient causes, constraints, catalysts) and where each came from. Its thesis, closure as circular production of efficient causes that no state-determined syntactic description captures, supports [CLAIM-tmpzn7l2](../claims.d/CLAIM-tmpzn7l2.md) and goes beyond it: a system whose objectives its own processes revise is still, on this account, not closed. It gives no test for [QUESTION-tmpgjngk](../questions.d/QUESTION-tmpgjngk.md), and its non-computability claim rests on Rosen, unassessed.'
 title: 'Genealogies of organizational closure: from logical paradox to mind in life'
 version: 1
 history:
@@ -9,6 +9,7 @@ history:
   note: >-
     Filed, not read. Citation checked against Crossref on 2026-10-13: Crossref gives the online date 2026-08-27.
     Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-13, commit d1573d2) for the authors, the title and the DOI found nothing.
+    Read the same day (NOTE-tmp88qyc).
 tags:
 - philosophy-of-biology
 - embodied-cognition
@@ -24,16 +25,59 @@ keywords:
 - 'history of concepts'
 implementations: []
 summary: >-
-  Rubin, Roli, Stano and Damiano (2026), Frontiers in Artificial Intelligence 9. Traces the several notions of closure, operational, semantic, closure of constraints and others, to their roots in mathematical logic, so that closure is not confused with feedback or self-organization.
+  Rubin, Roli, Stano and Damiano (2026), Frontiers in Artificial Intelligence 9. A genealogy of the notions of closure from mathematical logic, cybernetics, systems theory, thermodynamics, relational biology and the biology of cognition, showing that each closes a different thing. It then argues that closure is a circular organization of efficient causes, distinct from feedback, self-organization and catalytic cycles and not exhaustively describable as a state-determined syntactic procedure, and that current AI approximates closure without instantiating it.
 ---
-<!-- inactive-ok-file: CLAIM-tmpspyay — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpspyay CLAIM-tmpzn7l2 THEORY-tmppdy7n — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpedw28: Genealogies of organizational closure: from logical paradox to mind in life
 
 Rubin, S., Roli, A., Stano, P., & Damiano, L. (2026). Genealogies of organizational closure: from logical paradox to mind in life. *Frontiers in Artificial Intelligence* 9. DOI 10.3389/frai.2026.1806435
 
-Not read. The summary is drawn from the abstract where one was seen, and otherwise from what the work is standardly cited for or from the exchange's description. A reading should check it first.
+## Key takeaways
+
+Read in full ([NOTE-tmp88qyc](../notes.d/NOTE-tmp88qyc.md)).
+
+- **"Closure" names different things.** Ashby closed information,
+  Maturana and Varela operations, Rosen efficient causes, Montévil and
+  Mossio constraints, Kauffman catalysts. Table 3 classifies the notions by
+  what is closed, the causal regime, materiality, computability and where
+  semantics sits.
+- **Closure is not feedback.** First-order cybernetics equated circular
+  causality with feedback loops; the BCL and Rosen each broke that
+  equation. For Maturana and Varela, regulation belonged to the observer.
+  Catalytic closure is not closure of efficient causes.
+- **The thesis.** Closure is "the circular entailment of efficient causes
+  that fabricate and regenerate one another while maintaining their own
+  boundary conditions", and it cannot be exhaustively characterized as a
+  state-determined syntactic procedure. The authors say this is not a claim
+  that life cannot be simulated in some respects.
+- **The non-computability argument is conditional.** A halting-problem
+  argument against a computable model of Rosen's closure (Mossio, Longo &
+  Stewart 2009, not [LIT-570](LIT-570.md)) holds "if and only if computability is defined
+  by halting algorithms", and the authors call it provisional.
+- **The AI verdict.** Agentic loops, memory and RLHF add circularity and
+  adaptive regulation, but "Their feedback loops do not regenerate the
+  constraints that make those loops possible". They are "engineered
+  approximations of closure", drawn from the definition, not from analysis
+  of any system.
 
 ## Why this is here
 
-A11 offered it as an adversary: computational systems may simulate cognition without the endogenous organization biological autonomy requires. It bears on [CLAIM-tmpspyay](../claims.d/CLAIM-tmpspyay.md), and on [CLAIM-116](../claims.d/CLAIM-116.md)'s point that regulation does not establish a will.
+A11 offered it as an adversary: computational systems may simulate
+cognition without the endogenous organization biological autonomy requires.
+That is what it says. [THEORY-tmppdy7n](../theory.d/THEORY-tmppdy7n.md) records the thesis.
+
+It supports [CLAIM-tmpzn7l2](../claims.d/CLAIM-tmpzn7l2.md) and goes further. Policy updates and revised
+objectives are still, on this account, recurring information flows, not
+production of efficient causes, so the answer that counter allows would not
+satisfy these authors. Whether [CLAIM-tmpspyay](../claims.d/CLAIM-tmpspyay.md) needs closure in this
+material sense is a choice the record has not made. On [CLAIM-116](../claims.d/CLAIM-116.md) it agrees
+that regulation is not closure, but it follows Maturana in equating life
+with mind, a claim about cognition, not a will. It offers no intervention
+for [QUESTION-tmpgjngk](../questions.d/QUESTION-tmpgjngk.md); note 35 says closure verdicts change with the level
+of description, which is [CASE-tmp2rlgl](../cases.d/CASE-tmp2rlgl.md)'s complication.
+
+The filing's summary, written before reading, was too narrow. The roots
+are in seven traditions, not mathematical logic alone, which the paper
+treats as a precursor ("not deductive"), and the summary left out the
+paper's second claim, the irreducibility thesis and the AI verdict.

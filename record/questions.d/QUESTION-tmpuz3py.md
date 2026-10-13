@@ -15,6 +15,8 @@ summary: >-
   ([CLAIM-154](../claims.d/CLAIM-154.md)) prices the first. [CLAIM-170](../claims.d/CLAIM-170.md) makes agents a factorization
   relative to a level. Neither says whether the four can come apart, and
   r/place ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)) offers coalitions on which to test it.
+answered_by:
+- THEORY-tmpuumxo
 ---
 <!-- inactive-ok-file: LIT-tmptmcvs CLAIM-170 CLAIM-194 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

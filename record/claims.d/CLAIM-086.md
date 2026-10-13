@@ -29,6 +29,8 @@ summary: >-
   constructed Northstar case. The audit's "strong conceptual refinement".
 complements:
 - CLAIM-tmp2cza3
+grounds:
+- THEORY-tmpvvsbc
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 

@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13, not read. Registered from the 2026-10-13 exchange on meaning operators and selfhood (the workbench entry of 2026-10-13, 21:29). No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+status: Unavailable
+status_note: 'filed 2026-10-13, not read. Registered from the 2026-10-13 exchange on meaning operators and selfhood (the workbench entry of 2026-10-13, 21:29), for [QUESTION-tmpgjngk](../questions.d/QUESTION-tmpgjngk.md). No NOTE is filed, and it stays Unavailable until it is read, not on merit. Looked for a lawful full text on 2026-10-13 and found none that could be fetched: the Elsevier version of record is paywalled; OpenAlex, Semantic Scholar and Unpaywall give one open copy, the SSRN preprint (doi:10.2139/ssrn.6864481, ssrn.com/abstract=6864481), but SSRN answered every request, the abstract page and the delivery links, with a Cloudflare challenge (HTTP 403, cf-mitigated: challenge) that needs a browser running JavaScript, so it was not tried further; Europe PMC (PMID 42637075) has no full text; arXiv, Zenodo and a web search for the title found no other copy; the author''s ORCID record lists the work by its two DOIs and links no other copy. A human reader can likely open the SSRN copy. The SSRN abstract, in its Crossref record, describes a Yoneda-lemma formalization in a topos: an organization is identified by its profile of admissible experimental probes, self-maintenance is invariance of that profile under a production functor, viability is an internal modality, and sheaf cohomology diagnoses whether local responses glue into a whole. The filing''s summary (model-relative assay sets, and the warning that resilience does not show closure) is not in that abstract and is unchecked.'
 title: 'Experimental probes of autopoietic self-maintenance'
 version: 1
 history:
@@ -9,6 +9,7 @@ history:
   note: >-
     Filed, not read. Citation checked against Crossref on 2026-10-13: Crossref gives the issue month only (October 2026), so `published:` is its first day; the exchange's online date of 24 August 2026 was not confirmed in Crossref.
     Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-13, commit d1573d2) for the authors, the title and the DOI found nothing.
+    Set Unavailable the same day under ADR-041, the search having found no lawful copy that could be fetched.
 tags:
 - philosophy-of-biology
 - philosophy-of-science
@@ -24,7 +25,7 @@ keywords:
 - 'model-relative assays'
 implementations: []
 summary: >-
-  Segura (2026), BioSystems 268. Separates a living system's organization, a formal model of it, and the profile of responses an experiment elicits; agreement on a set of assays implies the same organization only for assay sets that are conservative for a class of candidate models. The exchange took it as a warning that resilience alone does not show closure.
+  Segura (2026), BioSystems 268. Unread. The SSRN abstract recorded in Crossref describes a topos-theoretic formalization of probing an autopoietic system (Yoneda lemma, probe profiles, sheaf cohomology) that separates the system's organization from models of it and from the responses experiments elicit. An earlier description, that assay agreement fixes organization only for assay sets conservative for a class of models, and the exchange's gloss, that resilience does not show closure, are not in that abstract and are unconfirmed.
 ---
 
 # LIT-tmpjmzwi: Experimental probes of autopoietic self-maintenance

@@ -21,6 +21,8 @@ line:
 grounds:
 - CASE-tmpd83bj
 - CASE-006
+- THEORY-tmp07t7w
+- THEORY-tmp7w5tq
 summary: >-
   A8 §4 and §9, on the owner's r/place case. An artwork defended for days
   has its pixels repeatedly replaced, its defenders come and go, and its

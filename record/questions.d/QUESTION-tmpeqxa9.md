@@ -16,8 +16,9 @@ summary: >-
   A8 on r/place: from placements alone "endorsement remains a latent
   explanatory hypothesis". It refines [QUESTION-063](QUESTION-063.md), which asks the same
   about drive, coupling and internal routes for collective outcomes.
+answered_by:
+- THEORY-tmpbrxww
 ---
-<!-- inactive-ok-file: LIT-tmprqknl — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpeqxa9: Can endorsement between processes be inferred from their behaviour, or does telling authorization from incidental coupling and common cause need a record of the coordination itself?
 
@@ -41,6 +42,11 @@ drive from coupling or from different internal routes. Endorsement adds a
 fourth candidate, authorization, which is a kind of coupling that runs
 through the allocation of influence. On r/place a shared template is a common
 cause, and following it is authorization. The placements are the same either
-way. Litherland and Mørch 2021 ([LIT-tmprqknl](../literature.d/LIT-tmprqknl.md), unread) studied instruction
-against emergence there, and is the first place to look. An answer names the
+way. Litherland and Mørch 2021 ([LIT-tmprqknl](../literature.d/LIT-tmprqknl.md)) read the planning forums beside
+the placement record. In their terms "instruction" is Reddit's own rules,
+and the planners' design images fall under "emergence". They found the
+content decided off the canvas and carried out by placers who mostly never
+joined the discussion. So the placement record shows the outcome of
+coordination and not who directed it ([THEORY-tmpbrxww](../theory.d/THEORY-tmpbrxww.md)), which answers this
+question in part, for this case: the coordination record was needed. An answer names the
 data or intervention that separates the cases.

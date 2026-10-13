@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13, not read. Registered from the 2026-10-13 exchange on meaning operators and selfhood (the workbench entry of 2026-10-13, 21:29). No NOTE is filed, and it stays Deferred until it is read, not on merit.'
+status: Active
+status_note: 'read in full 2026-10-13 ([NOTE-tmp3i3lt](../notes.d/NOTE-tmp3i3lt.md)) from the arXiv PDF, v2 of 15 June 2022 (https://arxiv.org/pdf/2206.03563). A short, preliminary paper, worth reading only for its one suggestive contrast: on the 2017 canvas, a 3×3 local predictor recovers objects that spread by recolouring neighbours and misses designs coordinated off the canvas ([THEORY-tmpy8l36](../theory.d/THEORY-tmpy8l36.md)). It has no baselines, and it models no participants, so it does not do what the exchange filed it for, estimating participants'' reach. It is a pointer for [QUESTION-tmpeqxa9](../questions.d/QUESTION-tmpeqxa9.md) and [QUESTION-tmpuz3py](../questions.d/QUESTION-tmpuz3py.md), not evidence on them.'
 title: 'Two Ways of Understanding Social Dynamics: Analyzing the Predictability of Emergence of Objects in Reddit r/place Dependent on Locality in Space and Time'
 version: 1
 history:
@@ -9,6 +9,7 @@ history:
   note: >-
     Filed, not read. Citation checked against the arXiv API on 2026-10-13: arXiv gives first submission on 2022-06-02.
     Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-13, commit d1573d2) for the authors, the title and the arXiv id found nothing.
+    Read the same day (NOTE-tmp3i3lt).
 tags:
 - complex-systems
 - social-science
@@ -23,15 +24,44 @@ keywords:
 - 'emergence'
 implementations: []
 summary: >-
-  Adams, Fernandez and Witkowski (2022), arXiv:2206.03563. Compares rule-based and neural predictors of r/place canvas dynamics and finds that different objects depend differently on spatial and temporal context.
+  Adams, Fernandez and Witkowski (2022), arXiv:2206.03563. Using the 2017
+  canvas alone, it tallies local cellular-automaton-style rules between
+  10-minute snapshots and trains a CNN to predict each pixel from its 3×3
+  neighbourhood. Prediction worsens with horizon and dips mid-event. Objects
+  that spread by recolouring neighbours are predicted, and designs
+  coordinated off the canvas are missed. No baselines or participant data.
 ---
+<!-- inactive-ok-file: THEORY-tmpy8l36 — Proposed; this reading's account -->
 
 # LIT-tmpmc817: Two Ways of Understanding Social Dynamics: Analyzing the Predictability of Emergence of Objects in Reddit r/place Dependent on Locality in Space and Time
 
 Adams, A. M., Fernandez, J., & Witkowski, O. (2022). Two Ways of Understanding Social Dynamics: Analyzing the Predictability of Emergence of Objects in Reddit r/place Dependent on Locality in Space and Time. arXiv:2206.03563. [ARXIV-2206.03563](https://arxiv.org/abs/2206.03563)
 
-Not read. The summary is drawn from the abstract where one was seen, and otherwise from what the work is standardly cited for or from the exchange's description. A reading should check it first.
+## Key takeaways
+
+Read in full ([NOTE-tmp3i3lt](../notes.d/NOTE-tmp3i3lt.md)).
+
+- **Canvas-only.** No annotations and no participant data. The 2017 canvas
+  is treated as a 2D cellular automaton between 682 ten-minute snapshots.
+- **Local rules.** Radius-1 neighbourhood rules repeat more than radius-2
+  rules, possibly only because the space is smaller. No null model.
+- **CNN on 3×3 patches.** Prediction gets worse with horizon. It dips in
+  the middle of the event while activity stays high.
+- **Two kinds of object.** At six hours the Blue Corner and German flags
+  are partly recovered. The EU dove and the US flag, designs held off the
+  canvas, are missed.
+- **Thin evidence.** There is no copy-the-last-frame baseline, no error
+  bars, and the object contrast rests on one figure.
 
 ## Why this is here
 
-Registered for the r/place case ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)). The exchange (A8) proposed it as a start on estimating how far different participants' reach extends.
+Registered for the r/place case ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)). The exchange (A8) proposed
+it as a start on estimating how far different participants' reach extends.
+The reading found that it does not do that. Its "locality" is a pixel's
+spatial and temporal context on the canvas, and it models no participants.
+The filing summary ("different objects depend differently on spatial and
+temporal context") was fair as far as it went. What the paper adds for the
+record is the contrast in [THEORY-tmpy8l36](../theory.d/THEORY-tmpy8l36.md): spreading objects are visible in
+the canvas's own dynamics, and template-copied designs are not. That fits
+Litherland and Mørch ([LIT-tmprqknl](LIT-tmprqknl.md)) on planning off the canvas, but it is
+illustrated, not measured.
