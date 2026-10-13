@@ -23,7 +23,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Shared Agency: A Planning Theory of Acting Together
 
 - [LIT-488](../record/literature.d/LIT-488.md) — Shared Agency: A Planning Theory of Acting Together *(Deferred)*
-  - [LIT-567](../record/literature.d/LIT-567.md) — A Planning Agent's Self-Governance over Time *(Active)* — also extends LIT-593, LIT-596
+  - [LIT-567](../record/literature.d/LIT-567.md) — A Planning Agent's Self-Governance over Time *(Active)* — also carries further LIT-593, LIT-596
 - [LIT-593](../record/literature.d/LIT-593.md) — Intention, Plans, and Practical Reason *(Deferred)*
 - [LIT-596](../record/literature.d/LIT-596.md) — Three Theories of Self-Governance *(Deferred)*
 
@@ -52,7 +52,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Asymmetrical Freedom
 
 - [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
-  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also carries further LIT-690
 - [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
 
 ### From Group Agency and Supervenience
@@ -93,7 +93,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-622](../record/literature.d/LIT-622.md) — Optimizing Neural Networks with Kronecker-factored Approximate Curvature *(Active)*
 - [LIT-617](../record/literature.d/LIT-617.md) — The Full Spectrum of Deepnet Hessians at Scale: Dynamics with SGD Training and Sample Size *(Active)*
   - [LIT-619](../record/literature.d/LIT-619.md) — Measurements of Three-Level Hierarchical Structure in the Outliers in the Spectrum of Deepnet Hessians *(Active)*
-    - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also extends LIT-617
+    - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also carries further LIT-617
 
 ### From The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
 
@@ -103,22 +103,22 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Essentially No Barriers in Neural Network Energy Landscape
 
 - [LIT-653](../record/literature.d/LIT-653.md) — Essentially No Barriers in Neural Network Energy Landscape *(Active)*
-  - [LIT-654](../record/literature.d/LIT-654.md) — Linear Mode Connectivity and the Lottery Ticket Hypothesis *(Active)* — also extends LIT-673
+  - [LIT-654](../record/literature.d/LIT-654.md) — Linear Mode Connectivity and the Lottery Ticket Hypothesis *(Active)* — also carries further LIT-673
     - [LIT-651](../record/literature.d/LIT-651.md) — Linear Mode Connectivity in Multitask and Continual Learning *(Active)*
     - [LIT-652](../record/literature.d/LIT-652.md) — The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks *(Active)*
       - [LIT-661](../record/literature.d/LIT-661.md) — Git Re-Basin: Merging Models modulo Permutation Symmetries *(Active)*
-        - [LIT-659](../record/literature.d/LIT-659.md) — Do Deep Neural Network Solutions Form a Star Domain? *(Active)* — also extends LIT-652
+        - [LIT-659](../record/literature.d/LIT-659.md) — Do Deep Neural Network Solutions Form a Star Domain? *(Active)* — also carries further LIT-652
         - [LIT-662](../record/literature.d/LIT-662.md) — Geodesic Mode Connectivity *(Active)*
         - [LIT-664](../record/literature.d/LIT-664.md) — Generalized Linear Mode Connectivity for Transformers *(Active)*
         - [LIT-670](../record/literature.d/LIT-670.md) — On Linear Mode Connectivity of Mixture-of-Experts Architectures *(Active)*
-        - [LIT-674](../record/literature.d/LIT-674.md) — Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity *(Active)* — also extends LIT-654
+        - [LIT-674](../record/literature.d/LIT-674.md) — Going Beyond Linear Mode Connectivity: The Layerwise Linear Feature Connectivity *(Active)* — also carries further LIT-654
       - [LIT-665](../record/literature.d/LIT-665.md) — ZipIt! Merging Models from Different Tasks without Training *(Active)*
       - [LIT-680](../record/literature.d/LIT-680.md) — Proving Linear Mode Connectivity of Neural Networks via Optimal Transport *(Active)*
-    - [LIT-669](../record/literature.d/LIT-669.md) — Mechanistic Mode Connectivity *(Active)* — also extends LIT-673
-  - [LIT-671](../record/literature.d/LIT-671.md) — Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets *(Active)* — also extends LIT-673
+    - [LIT-669](../record/literature.d/LIT-669.md) — Mechanistic Mode Connectivity *(Active)* — also carries further LIT-673
+  - [LIT-671](../record/literature.d/LIT-671.md) — Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets *(Active)* — also carries further LIT-673
     - [LIT-666](../record/literature.d/LIT-666.md) — Mode Connectivity and Data Heterogeneity of Federated Learning *(Active)*
 - [LIT-672](../record/literature.d/LIT-672.md) — Rethinking generalization requires revisiting old ideas: statistical mechanics approaches and complex learning behavior *(Active)*
-  - [LIT-663](../record/literature.d/LIT-663.md) — Taxonomizing local versus global structure in neural network loss landscapes *(Active)* — also extends LIT-673
+  - [LIT-663](../record/literature.d/LIT-663.md) — Taxonomizing local versus global structure in neural network loss landscapes *(Active)* — also carries further LIT-673
   - [LIT-679](../record/literature.d/LIT-679.md) — A Random Matrix Analysis of Random Fourier Features: Beyond the Gaussian Kernel, a Precise Phase Transition, and the Corresponding Double Descent *(Active)*
 - [LIT-673](../record/literature.d/LIT-673.md) — Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs *(Active)*
   - [LIT-656](../record/literature.d/LIT-656.md) — Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling *(Active)*
@@ -143,13 +143,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A mathematical theory of semantic development in deep neural networks
 
 - [LIT-862](../record/literature.d/LIT-862.md) — A mathematical theory of semantic development in deep neural networks *(Active)*
-  - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
+  - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also carries further LIT-863
 - [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
 
 ### From An exact mapping between the Variational Renormalization Group and Deep Learning
 
 - [LIT-882](../record/literature.d/LIT-882.md) — An exact mapping between the Variational Renormalization Group and Deep Learning *(Active)*
-  - [LIT-891](../record/literature.d/LIT-891.md) — Comment on "Why does deep and cheap learning work so well?" *(Active)* — also extends LIT-887
+  - [LIT-891](../record/literature.d/LIT-891.md) — Comment on "Why does deep and cheap learning work so well?" *(Active)* — also corrects LIT-887
 - [LIT-887](../record/literature.d/LIT-887.md) — Why does deep and cheap learning work so well? *(Active)*
   - [LIT-890](../record/literature.d/LIT-890.md) — The power of deeper networks for expressing natural functions *(Active)*
 
@@ -188,7 +188,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-097](../record/literature.d/LIT-097.md) — The Extended Mind *(Active)*
   - [LIT-403](../record/literature.d/LIT-403.md) — Intrinsic content, active memory and the extended mind *(Active)*
   - [LIT-421](../record/literature.d/LIT-421.md) — Foreword *(Active)*
-    - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also extends LIT-097
+    - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also carries further LIT-097; also corrects LIT-097
 
 ### From Psychological Predicates
 
@@ -199,7 +199,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-410](../record/literature.d/LIT-410.md) — A Framework for Representing Knowledge *(Active)*
   - [LIT-399](../record/literature.d/LIT-399.md) — Plain Talk About Neurodevelopmental Epistemology *(Active)*
-    - [LIT-402](../record/literature.d/LIT-402.md) — K-Lines: A Theory of Memory *(Active)* — also extends LIT-410
+    - [LIT-402](../record/literature.d/LIT-402.md) — K-Lines: A Theory of Memory *(Active)* — also carries further LIT-410
   - [LIT-408](../record/literature.d/LIT-408.md) — Jokes and the Logic of the Cognitive Unconscious *(Active)*
 
 ### From The Society of Mind
@@ -312,17 +312,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-280](../record/literature.d/LIT-280.md) — Towards a complete cohomology invariant for non-locality and contextuality *(Active)*
         - [LIT-281](../record/literature.d/LIT-281.md) — Logical and Topological Contextuality in Quantum Mechanics and Beyond *(Active)*
   - [LIT-841](../record/literature.d/LIT-841.md) — Semantic Unification: A Sheaf Theoretic Approach to Natural Language *(Active)*
-  - [LIT-842](../record/literature.d/LIT-842.md) — On the Quantum-like Contextuality of Ambiguous Phrases *(Active)* — also extends LIT-777
-    - [LIT-851](../record/literature.d/LIT-851.md) — Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools *(Active)* — also extends LIT-777
-  - [LIT-843](../record/literature.d/LIT-843.md) — Combining contextuality and causality: a game semantics approach *(Active)* — also extends LIT-813
-  - [LIT-846](../record/literature.d/LIT-846.md) — Categories of Empirical Models *(Active)* — also extends LIT-265
-    - [LIT-847](../record/literature.d/LIT-847.md) — A comonadic view of simulation and quantum resources *(Active)* — also extends LIT-016, LIT-265
-      - [LIT-845](../record/literature.d/LIT-845.md) — Closing Bell: Boxing black box simulations in the resource theory of contextuality *(Active)* — also extends LIT-016, LIT-846
+  - [LIT-842](../record/literature.d/LIT-842.md) — On the Quantum-like Contextuality of Ambiguous Phrases *(Active)* — also carries further LIT-777
+    - [LIT-851](../record/literature.d/LIT-851.md) — Analysing Ambiguous Nouns and Verbs with Quantum Contextuality Tools *(Active)* — also carries further LIT-777
+  - [LIT-843](../record/literature.d/LIT-843.md) — Combining contextuality and causality: a game semantics approach *(Active)* — also carries further LIT-813
+  - [LIT-846](../record/literature.d/LIT-846.md) — Categories of Empirical Models *(Active)* — also carries further LIT-265
+    - [LIT-847](../record/literature.d/LIT-847.md) — A comonadic view of simulation and quantum resources *(Active)* — also carries further LIT-016, LIT-265
+      - [LIT-845](../record/literature.d/LIT-845.md) — Closing Bell: Boxing black box simulations in the resource theory of contextuality *(Active)* — also carries further LIT-016, LIT-846
 - [LIT-265](../record/literature.d/LIT-265.md) — The contextual fraction as a measure of contextuality *(Active)*
 - [LIT-777](../record/literature.d/LIT-777.md) — Context–content systems of random variables: The Contextuality-by-Default theory *(Active)*
   - [LIT-831](../record/literature.d/LIT-831.md) — Contextuality-by-Default 2.0: Systems with Binary Random Variables *(Active)*
     - [LIT-790](../record/literature.d/LIT-790.md) — Contextuality in Canonical Systems of Random Variables *(Active)*
-    - [LIT-844](../record/literature.d/LIT-844.md) — Quantum-Like Contextuality in Large Language Models *(Active)* — also extends LIT-016, LIT-265, LIT-842
+    - [LIT-844](../record/literature.d/LIT-844.md) — Quantum-Like Contextuality in Large Language Models *(Active)* — also carries further LIT-016, LIT-265, LIT-842
   - [LIT-836](../record/literature.d/LIT-836.md) — Probabilistic Foundations of Contextuality *(Active)*
 - [LIT-813](../record/literature.d/LIT-813.md) — The Sheaf-Theoretic Structure of Definite Causality *(Superseded)*
 
@@ -348,7 +348,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-097](../record/literature.d/LIT-097.md) — The Extended Mind *(Active)*
   - [LIT-403](../record/literature.d/LIT-403.md) — Intrinsic content, active memory and the extended mind *(Active)*
   - [LIT-421](../record/literature.d/LIT-421.md) — Foreword *(Active)*
-    - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also extends LIT-097
+    - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also carries further LIT-097; also corrects LIT-097
 
 ### From A theoretical model of phase transitions in human hand movements
 
@@ -373,7 +373,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
   - [LIT-735](../record/literature.d/LIT-735.md) — The Epistemic Benefit of Transient Diversity *(Active)*
-    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also extends LIT-724
+    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also corrects LIT-724
 
 ## ethics
 
@@ -402,7 +402,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Asymmetrical Freedom
 
 - [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
-  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also carries further LIT-690
 - [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
 
 ## free-will
@@ -416,7 +416,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Asymmetrical Freedom
 
 - [LIT-688](../record/literature.d/LIT-688.md) — Asymmetrical Freedom *(Deferred)*
-  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also extends LIT-690
+  - [LIT-685](../record/literature.d/LIT-685.md) — Freedom Within Reason *(Deferred)* — also carries further LIT-690
 - [LIT-690](../record/literature.d/LIT-690.md) — Sanity and the Metaphysics of Responsibility *(Deferred)*
 
 ### From Responsibility Incorporated
@@ -462,7 +462,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-622](../record/literature.d/LIT-622.md) — Optimizing Neural Networks with Kronecker-factored Approximate Curvature *(Active)*
 - [LIT-617](../record/literature.d/LIT-617.md) — The Full Spectrum of Deepnet Hessians at Scale: Dynamics with SGD Training and Sample Size *(Active)*
   - [LIT-619](../record/literature.d/LIT-619.md) — Measurements of Three-Level Hierarchical Structure in the Outliers in the Spectrum of Deepnet Hessians *(Active)*
-    - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also extends LIT-617
+    - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also carries further LIT-617
 
 ## information-theory
 
@@ -658,7 +658,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
   - [LIT-735](../record/literature.d/LIT-735.md) — The Epistemic Benefit of Transient Diversity *(Active)*
-    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also extends LIT-724
+    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also corrects LIT-724
 
 ## neuroscience
 
@@ -760,7 +760,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-724](../record/literature.d/LIT-724.md) — The Communication Structure of Epistemic Communities *(Active)*
   - [LIT-735](../record/literature.d/LIT-735.md) — The Epistemic Benefit of Transient Diversity *(Active)*
-    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also extends LIT-724
+    - [LIT-733](../record/literature.d/LIT-733.md) — In Epistemic Networks, Is Less Really More? *(Active)* — also corrects LIT-724
 
 ## probabilistic-modeling
 
@@ -801,7 +801,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Deferred)*
   - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
-  - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also extends LIT-551
+  - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also carries further LIT-551
 - [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
 
 ### From The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior
@@ -846,7 +846,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A mathematical theory of semantic development in deep neural networks
 
 - [LIT-862](../record/literature.d/LIT-862.md) — A mathematical theory of semantic development in deep neural networks *(Active)*
-  - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also extends LIT-863
+  - [LIT-860](../record/literature.d/LIT-860.md) — Symmetry in language statistics shapes the geometry of model representations *(Active)* — also carries further LIT-863
 - [LIT-863](../record/literature.d/LIT-863.md) — On the Emergence of Linear Analogies in Word Embeddings *(Active)*
 
 ### From Mutual information, neural networks and the renormalization group
@@ -929,7 +929,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-549](../record/literature.d/LIT-549.md) — Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition *(Deferred)*
   - [LIT-541](../record/literature.d/LIT-541.md) — Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology *(Active)*
-  - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also extends LIT-551
+  - [LIT-555](../record/literature.d/LIT-555.md) — Acceptance and Commitment Therapy: Model, Processes and Outcomes *(Active)* — also carries further LIT-551
 - [LIT-551](../record/literature.d/LIT-551.md) — Experiential Avoidance and Behavioral Disorders: A Functional Dimensional Approach to Diagnosis and Treatment *(Deferred)*
 
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
@@ -1038,7 +1038,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Computing Machinery and Intelligence
 
 - [LIT-394](../record/literature.d/LIT-394.md) — Computing Machinery and Intelligence *(Active)*
-  - [LIT-642](../record/literature.d/LIT-642.md) — Psychologism and Behaviorism *(Active)* — also extends LIT-407
+  - [LIT-642](../record/literature.d/LIT-642.md) — Psychologism and Behaviorism *(Active)* — also carries further LIT-407
 - [LIT-407](../record/literature.d/LIT-407.md) — Troubles with Functionalism *(Active)*
   - [LIT-634](../record/literature.d/LIT-634.md) — Inverted Earth *(Active)*
     - [LIT-635](../record/literature.d/LIT-635.md) — Mental Paint *(Active)*
@@ -1047,8 +1047,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models
 
 - [LIT-896](../record/literature.d/LIT-896.md) — AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models *(Active)*
-  - [LIT-897](../record/literature.d/LIT-897.md) — AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis *(Active)* — also extends LIT-898
+  - [LIT-897](../record/literature.d/LIT-897.md) — AI as Agency without Intelligence: On Artificial Intelligence as a New Form of Artificial Agency and the Multiple Realisability of Agency Thesis *(Active)* — also carries further LIT-898
 - [LIT-898](../record/literature.d/LIT-898.md) — On the Morality of Artificial Agents *(Active)*
   - [LIT-900](../record/literature.d/LIT-900.md) — The Method of Levels of Abstraction *(Active)*
   - [LIT-901](../record/literature.d/LIT-901.md) — Distributed Morality in an Information Society *(Active)*
-    - [LIT-899](../record/literature.d/LIT-899.md) — Faultless responsibility: on the nature and allocation of moral responsibility for distributed moral actions *(Active)* — also extends LIT-898
+    - [LIT-899](../record/literature.d/LIT-899.md) — Faultless responsibility: on the nature and allocation of moral responsibility for distributed moral actions *(Active)* — also carries further LIT-898

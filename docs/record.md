@@ -230,6 +230,7 @@ Everything not listed here is at Luria's default.
 | `chains.dialectic` | *6 keys set* | *unset* |
 | `chains.revisions` | *6 keys set* | *unset* |
 | `chains.term-revisions` | *6 keys set* | *unset* |
+| `patterns.argued_from` | *2 keys set* | *unset* |
 | `lint.fail_on` | `workflow-temp-codes`, `source-mismatch` | *empty* |
 | `lint.mute` | `inert-status`, `acknowledged-uniformity` | *empty* |
 | `vocabularies.topics` | *4 keys set* | *unset* |
