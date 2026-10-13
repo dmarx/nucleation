@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**350 documents cited without acknowledgement.** Not listed: 6191 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**350 documents cited without acknowledgement.** Not listed: 6197 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -411,8 +411,8 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/decisions.d/ADR-040.md:201`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:22`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:35`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-069.md:23`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:36`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:38`](../../record/questions.d/QUESTION-069.md)
 
 ### [LIT-243](../../record/literature.d/LIT-243.md) — Deferred
 
@@ -927,8 +927,8 @@ Whether two systems compute the same way can be tested by quotienting the full a
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:200`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:219`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-069.md:23`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:36`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:38`](../../record/questions.d/QUESTION-069.md)
 
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
@@ -1207,11 +1207,11 @@ Model-based and model-free predictions both operate in instrumental and in Pavlo
 
 Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature
 
-5 citations in 3 files await a look; 1 other citation of it is acknowledged.
+5 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:84`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:45`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-109.md:161`](../../record/theory.d/THEORY-109.md)
 - [`record/theory.d/THEORY-109.md:165`](../../record/theory.d/THEORY-109.md)
 
@@ -1222,8 +1222,8 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 5 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:84`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:40`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:42`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
 - [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
 
@@ -2556,8 +2556,8 @@ Fine-tuning from one pretrained model lands near the edge of a task-specific low
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:43`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:45`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-107](../../record/theory.d/THEORY-107.md) — Proposed
 
@@ -2565,8 +2565,8 @@ Merging models fine-tuned from one pretrained start loses accuracy through inter
 
 2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
 
@@ -2574,17 +2574,17 @@ A set of trained solutions has a centre that is linearly connected, after alignm
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:24`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:42`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-114](../../record/theory.d/THEORY-114.md) — Proposed
 
 Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually
 
-2 citations in 1 file await a look; 6 other citations of it are acknowledged.
+2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:25`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:41`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:43`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-122](../../record/theory.d/THEORY-122.md) — Proposed
 

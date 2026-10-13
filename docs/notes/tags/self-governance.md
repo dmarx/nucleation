@@ -4,7 +4,7 @@
 
 **self-governance**.
 
-18 of 710 NOTE documents. Back to the [full index](../README.md).
+18 of 711 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

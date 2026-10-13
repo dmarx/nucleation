@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [13 Oct 03:13 — Kunin et al., held in both records](2026-10.md#kunin-et-al-held-in-both-records)
 - [12 Oct 14:46 — Sixty-nine readings from the owner's papers-feed, matched to the record's questions by embedding and filed unread](2026-10.md#sixty-nine-readings-from-the-owners-papers-feed-matched-to-the-records-questions-by-embedding-and-filed-unread)
 - [12 Oct 05:51 — Four works on epistemic justice, personal agency, the sense of agency and relational autonomy, filed unread](2026-10.md#four-works-on-epistemic-justice-personal-agency-the-sense-of-agency-and-relational-autonomy-filed-unread)
 - [12 Oct 02:01 — MOM-CLM-088 dual-filed: disjoint contexts glue, and where that leaves the divided self](2026-10.md#mom-clm-088-dual-filed-disjoint-contexts-glue-and-where-that-leaves-the-divided-self)
@@ -55,9 +56,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-93 entries across 2 books, newest first.
+94 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 46 | 2026-10-01 | 2026-10-12 |
+| [2026-10](2026-10.md) | 47 | 2026-10-01 | 2026-10-13 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

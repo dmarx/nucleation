@@ -1,6 +1,9 @@
 ---
+number: 711
 status: Read
-paper: LIT-tmp0kjhc
+formerly:
+- NOTE-tmpq7q6s
+paper: LIT-1011
 title: 'The Limiting Dynamics of SGD'
 version: 1
 history:
@@ -23,9 +26,9 @@ summary: >-
   and a ResNet-18 on ImageNet shows the predicted isotropy, velocity
   regularization, oscillations and speed.
 ---
-<!-- inactive-ok-file: THEORY-108 THEORY-114 THEORY-tmp4lwrf — Proposed; readings this one connects to and the account filed from it, open -->
+<!-- inactive-ok-file: THEORY-108 THEORY-114 THEORY-209 — Proposed; readings this one connects to and the account filed from it, open -->
 
-# NOTE-tmpq7q6s: The Limiting Dynamics of SGD
+# NOTE-711: The Limiting Dynamics of SGD
 
 ## Contribution
 
@@ -147,7 +150,7 @@ stationary distribution, not a point, and its spread, shape and
 correlations depend on η, β and S. So a trained "solution" is partly a
 property of the regime that produced it. It says nothing about the
 connectivity between different runs. The account filed from it is
-[THEORY-tmp4lwrf](../theory.d/THEORY-tmp4lwrf.md).
+[THEORY-209](../theory.d/THEORY-209.md).
 
 ## Limitations
 

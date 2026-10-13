@@ -1,5 +1,8 @@
 ---
+number: 209
 status: Proposed
+formerly:
+- THEORY-tmp4lwrf
 promote_when: >-
   The two assumptions that carry the account, gradient-noise covariance
   proportional to the Hessian and a positive semidefinite quadratic loss,
@@ -22,11 +25,11 @@ tags:
 - anthology-candidate
 date: '2026-10-13'
 source:
-- LIT-tmp0kjhc
+- LIT-1011
 answers:
 - QUESTION-069
 summary: >-
-  Kunin et al. (2021), [LIT-tmp0kjhc](../literature.d/LIT-tmp0kjhc.md), read in [NOTE-tmpq7q6s](../notes.d/NOTE-tmpq7q6s.md). Modelled as an
+  Kunin et al. (2021), [LIT-1011](../literature.d/LIT-1011.md), read in [NOTE-711](../notes.d/NOTE-711.md). Modelled as an
   underdamped Langevin equation with noise covariance proportional to the
   Hessian, SGD at the end of training converges to a nonequilibrium
   stationary state: Gibbs on a modified loss whose curvature undoes the
@@ -40,12 +43,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-108 — Proposed; the reading whose temperature axis this account interprets, open -->
 
-# THEORY-tmp4lwrf: A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
+# THEORY-209: A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
 
 ## Source
 
 Kunin, Sagastuy-Brena, Gillespie, Margalit, Tanaka, Ganguli & Yamins (2021),
-[LIT-tmp0kjhc](../literature.d/LIT-tmp0kjhc.md), read in [NOTE-tmpq7q6s](../notes.d/NOTE-tmpq7q6s.md): §§1–9 and Appendices A–C and H. The
+[LIT-1011](../literature.d/LIT-1011.md), read in [NOTE-711](../notes.d/NOTE-711.md): §§1–9 and Appendices A–C and H. The
 derivations in Appendices D–G were not checked.
 
 ## The claim

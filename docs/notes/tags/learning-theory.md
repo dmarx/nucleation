@@ -4,7 +4,7 @@
 
 **learning-theory**.
 
-72 of 710 NOTE documents. Back to the [full index](../README.md).
+73 of 711 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -80,3 +80,4 @@
 | [NOTE-688](../../../record/notes.d/NOTE-688.md) v2 | Why does deep and cheap learning work so well? | Argues that cheap networks suffice because physical data have low-order, local, symmetric Hamiltonians, and that depth pays because inference must compose the sufficient statistics of a Markov generative hierarchy; proves that one hidden layer needs exactly 2^n neurons to multiply n inputs. On renormalization it is right that a coarse-graining needs a stated target, and its early appendix shows that neither a matched partition function nor the exact trace condition supplies one; it is wrong that the target must come from supervision. | Read |
 | [NOTE-689](../../../record/notes.d/NOTE-689.md) | Deriving neural scaling laws from language statistics | Predicts the data-limited scaling exponent of language-model test loss as γ/(2β), from two measured corpus statistics: the decay with lag of the top singular value of the token–token covariance (β), which sets the usable context n*(P) ~ P^(1/(2β)), and the decay of next-token conditional entropy with context (γ). The derivation rests on assumed scaling forms and a fast-learning condition; on TinyStories and WikiText-103 transformers match the predicted exponents up to about 10^8 tokens and horizons of a few tens of tokens. | Read |
 | [NOTE-693](../../../record/notes.d/NOTE-693.md) | The power of deeper networks for expressing natural functions | Proves that a single hidden layer of smooth, bias-free units needs exactly ∏(rᵢ+1) neurons to Taylor-approximate x₁^r₁⋯xₙ^rₙ while a deep network needs O(Σ log rᵢ), extends the gap to sparse and univariate polynomials, and bounds a product of n inputs at depth k by about 2^(n^(1/k)). Its uniform-approximation lower bounds rest on an unproved step, the depth-k tightness is a conjecture, and the gap is set by degree, so bounded-degree polynomials show none. | Read |
+| [NOTE-711](../../../record/notes.d/NOTE-711.md) | The Limiting Dynamics of SGD | SGD with momentum β, learning rate η, batch size S and weight decay λ is modelled as (η/2)(1 + β)θ̈ + (1 − β)θ̇ + λθ = −g(θ) + √(η/S) √Σ ξ(t). For linear regression with Σ = σ²H this is an OU process in phase space. Its stationary state is Gibbs on a modified loss, with inverse temperature κ = S(1 − β²), in broken detailed balance. Under a quadratic loss at the end of training the same holds for deep networks, and a ResNet-18 on ImageNet shows the predicted isotropy, velocity regularization, oscillations and speed. | Read |

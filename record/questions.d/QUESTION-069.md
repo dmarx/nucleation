@@ -18,14 +18,14 @@ answered_by:
 - THEORY-109
 - THEORY-110
 - THEORY-114
-- THEORY-tmp4lwrf
+- THEORY-209
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-187](../claims.d/CLAIM-187.md) and [CLAIM-142](../claims.d/CLAIM-142.md).
   [THEORY-105](../theory.d/THEORY-105.md), [THEORY-107](../theory.d/THEORY-107.md), [THEORY-108](../theory.d/THEORY-108.md), [THEORY-109](../theory.d/THEORY-109.md), [THEORY-110](../theory.d/THEORY-110.md) and
   [THEORY-114](../theory.d/THEORY-114.md) answer it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: THEORY-tmp4lwrf — Proposed; a reading that bears on the regime alternative, open -->
+<!-- inactive-ok-file: THEORY-209 — Proposed; a reading that bears on the regime alternative, open -->
 
 # QUESTION-069: Is the connectedness of trained solutions a property of the solutions, or of the path family searched, the shared history that produced them and the regime they were trained in?
 
@@ -45,7 +45,7 @@ Several results say that the solutions training reaches are joined at low loss. 
 - [THEORY-105](../theory.d/THEORY-105.md): from one start, the low-loss region "contains the convex hull" of same-task models, and it is graded by dataset and task family.
 - [THEORY-107](../theory.d/THEORY-107.md): sign conflicts are as frequent within one task as across tasks, yet cost far less within one. So disagreement in coordinates is not the residue.
 - [THEORY-108](../theory.d/THEORY-108.md): in phase III, flat solutions are "poorly connected" on one curve family without alignment. It is open whether this is a real barrier.
-- [THEORY-tmp4lwrf](../theory.d/THEORY-tmp4lwrf.md) (Kunin et al., filed 2026-10-13): a converged run trained with SGD is a nonequilibrium stationary distribution, not a point, whose spread and correlations are set by learning rate, momentum and batch size. It bears on the "regime" alternative. It measures no connectivity, and is silent on flat directions.
+- [THEORY-209](../theory.d/THEORY-209.md) (Kunin et al., filed 2026-10-13): a converged run trained with SGD is a nonequilibrium stationary distribution, not a point, whose spread and correlations are set by learning rate, momentum and batch size. It bears on the "regime" alternative. It measures no connectivity, and is silent on flat directions.
 
 ## What would answer it
 
