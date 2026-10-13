@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-13 (NOTE-tmpqe25w) in full; worth reading as the step from Grice''s speaker meaning to illocutionary force: an illocution not essentially conventional is an act of communication whose force is a wholly overt, audience-directed intention, while acts like a verdict or an umpire''s call exist only within rule-governed procedures. Read it knowing that its own scheme strains on orders and fails on institutional acts, and that it individuates request from entreaty by a recognised attitude of the speaker. The second of the four works that CLAIM-221 and QUESTION-073 name as missing.'
+status_note: 'read 2026-10-13 ([NOTE-tmpqe25w](../notes.d/NOTE-tmpqe25w.md)) in full; worth reading as the step from Grice''s speaker meaning to illocutionary force: an illocution not essentially conventional is an act of communication whose force is a wholly overt, audience-directed intention, while acts like a verdict or an umpire''s call exist only within rule-governed procedures. Read it knowing that its own scheme strains on orders and fails on institutional acts, and that it individuates request from entreaty by a recognised attitude of the speaker. The second of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
 title: 'Intention and Convention in Speech Acts'
 version: 1
 history:
@@ -82,8 +82,8 @@ DOI-10.2307/2183301
 ## Standing in the record
 
 Filed on 2026-10-13 at the owner's request, as one of the four works of
-the intention-based line that CLAIM-221 and QUESTION-073 name as missing
+the intention-based line that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing
 from the record. See the curation entry of that day. Read the same day in
-NOTE-tmpqe25w. It reads Austin's *How to Do Things with Words*
-(LIT-785), held here unread, and its quotations from Austin are the
+[NOTE-tmpqe25w](../notes.d/NOTE-tmpqe25w.md). It reads Austin's *How to Do Things with Words*
+([LIT-785](LIT-785.md)), held here unread, and its quotations from Austin are the
 record's only text from that book.
