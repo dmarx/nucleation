@@ -4,7 +4,7 @@
 
 **loss-landscapes**.
 
-34 of 714 NOTE documents. Back to the [full index](../README.md).
+35 of 716 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -42,3 +42,4 @@
 | [NOTE-712](../../../record/notes.d/NOTE-712.md) | Symmetry in Neural Network Parameter Spaces | A symmetry is a group action on parameters preserving the network function (Def. 2.4) or the loss (Def. 2.6), possibly only on given data or in expectation (Defs. 2.8–2.9). Common components have GL, scaling, sign-flip, orthogonal, translation and permutation symmetries (Table 1). Continuous symmetries make minima connected manifolds, and give gradient flow conserved quantities that label trajectories and endpoints (§5). SGD's finite steps, noise and weight decay break these, which is an open route to implicit bias (§7.2). | Read |
 | [NOTE-713](../../../record/notes.d/NOTE-713.md) | Neural Mechanics | A symmetry ψ of the loss gives ⟨∇L, ∂_α ψ⟩ = 0 and a Hessian constraint. Under gradient flow, Theorem 1 conserves ⟨θ, ∂_α ψ⟩: for translation ⟨θ_A, 1⟩, for scale \|θ_A\|², for rescale \|θ_A1\|² − \|θ_A2\|². With weight decay λ and the modified loss L + (η/4)\|∇L\|², these become exponentially decaying memories plus integrals of gradient norms (Eqs. 18–20), matched on VGG-16 with Tiny ImageNet. The noise covariance annihilates the generators (§5, App. F). | Read |
 | [NOTE-714](../../../record/notes.d/NOTE-714.md) | Noise Balance and Stationary Distribution of Stochastic Gradient Descent | SDE: dθ = −∇L dt + √(T C(θ)) dW, with T = η/S. With ℓ(u, w) = ℓ(λu, w/λ), d(‖u‖² − ‖w‖²)/dt = −T(uᵀC₁u − wᵀC₂w) (Theorem 1). The stationary point is Tr C(w) = Tr C(u). With weight decay γ the rate is TC₀ + γ (Corollary 2.1). Diagonal linear network ℓ = (Σᵢ ∏ₖ u_i^{(k)} x − y)²: sign coherence and balance for depth D > 1 (Theorem 3), exact stationary distribution (Theorem 4), collapse above T_c = β₂/α₃ for D = 1, tail ∝ v^{−5+3/(D+1)} independent of data. | Read |
+| [NOTE-716](../../../record/notes.d/NOTE-716.md) | Symmetry Induces Structure and Constraint of Learning | ℓ_γ = ℓ₀(θ, x) + γ‖θ‖². O-mirror symmetry: ℓ₀(θ) = ℓ₀((I − 2OOᵀ)θ). Theorem 1: (1) Oᵀθ = 0 implies Oᵀ∇ℓ_γ = 0; (2) at symmetric points the Hessian splits into ker(Oᵀ) and im(OOᵀ) blocks; (3) above some γ₀ the projection (I − OOᵀ)θ has lower loss; (4) above some γ₁ all minima satisfy Oᵀθ = 0. SGD near the symmetric set: Pθ_{t+1} = Pθ_t − λH(x)Pθ_t, attractive when the Lyapunov exponent E log\|1 − λ(ξ + γ)\| < 0. Corollaries: sparsity, low rank, homogeneous neurons (Theorems 2–4). | Read |

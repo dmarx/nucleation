@@ -34,7 +34,7 @@ summary: >-
 answers:
 - QUESTION-058
 ---
-<!-- inactive-ok-file: THEORY-tmppei8o — Proposed; the account of the asymptotic half, filed 2026-10-13, open -->
+<!-- inactive-ok-file: THEORY-213 — Proposed; the account of the asymptotic half, filed 2026-10-13, open -->
 
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, named for what this does not settle -->
 
@@ -102,8 +102,8 @@ out.
 ## Note of 2026-10-13: the asymptotic half
 
 "What this does not say" leaves open whether neurons merge in the limit.
-Ziyin (2024), [LIT-tmp3ni7o](../literature.d/LIT-tmp3ni7o.md), read in [NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md) and filed as
-[THEORY-tmppei8o](THEORY-tmppei8o.md), addresses it. Permutation symmetry implies a mirror
+Ziyin (2024), [LIT-1014](../literature.d/LIT-1014.md), read in [NOTE-716](../notes.d/NOTE-716.md) and filed as
+[THEORY-213](THEORY-213.md), addresses it. Permutation symmetry implies a mirror
 symmetry. The coincident subspace θ_a = θ_b is a stationary condition, as
 here. Above a threshold weight decay every minimum lies in it, and under
 strong gradient noise SGD is attracted to it even where it is a saddle.

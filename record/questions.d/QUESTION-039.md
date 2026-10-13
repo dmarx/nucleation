@@ -17,14 +17,14 @@ answered_by:
 - THEORY-200
 - THEORY-204
 - THEORY-039
-- THEORY-tmphyt3v
+- THEORY-212
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-086](../theory.d/THEORY-086.md),
   [THEORY-187](../theory.d/THEORY-187.md), [THEORY-200](../theory.d/THEORY-200.md), [THEORY-204](../theory.d/THEORY-204.md) and [THEORY-039](../theory.d/THEORY-039.md) answer it in part; the
   body gives each one's limit.
 refined_by:
-- QUESTION-tmp4j05x
+- QUESTION-081
 ---
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?

@@ -1,5 +1,8 @@
 ---
+number: 212
 status: Proposed
+formerly:
+- THEORY-tmphyt3v
 promote_when: >-
   The regime dependence found outside the solvable model. What would
   promote: in deep or nonlinear networks trained by gradient descent from
@@ -24,7 +27,7 @@ source:
 answers:
 - QUESTION-039
 summary: >-
-  Dominé et al. (2025), [LIT-943](../literature.d/LIT-943.md), read in [NOTE-tmpl050c](../notes.d/NOTE-tmpl050c.md). With whitened
+  Dominé et al. (2025), [LIT-943](../literature.d/LIT-943.md), read in [NOTE-715](../notes.d/NOTE-715.md). With whitened
   inputs and a λ-balanced start, W₂ᵀW₂ − W₁W₁ᵀ = λI, the full gradient flow
   is solved exactly. λ is conserved and sets the regime. As λ → 0,
   singular values are learned in sigmoidal stages, as in Saxe et al., and
@@ -32,16 +35,16 @@ summary: >-
   the NTK is static, and the larger layer stays near the identity while
   the smaller carries the task at scale ∝ 1/|λ|. The paper analyses
   gradient flow only. Under SGD the conserved quantity drifts
-  ([THEORY-211](THEORY-211.md)), which [QUESTION-tmp4j05x](../questions.d/QUESTION-tmp4j05x.md) takes up.
+  ([THEORY-211](THEORY-211.md)), which [QUESTION-081](../questions.d/QUESTION-081.md) takes up.
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-187 THEORY-211 QUESTION-tmp4j05x — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
+<!-- inactive-ok-file: THEORY-186 THEORY-187 THEORY-211 QUESTION-081 — Proposed or Open; the readings this account generalizes or is set beside, and the question it raises, open -->
 
-# THEORY-tmphyt3v: In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic
+# THEORY-212: In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic
 
 ## Source
 
 Dominé, Anguita, Proca, Braun, Kunin, Mediano & Saxe (2025), [LIT-943](../literature.d/LIT-943.md), read
-in [NOTE-tmpl050c](../notes.d/NOTE-tmpl050c.md): §§1–7, with the proofs unchecked.
+in [NOTE-715](../notes.d/NOTE-715.md): §§1–7, with the proofs unchecked.
 
 ## The claim
 
@@ -75,7 +78,7 @@ the whole trajectory:
 - **[THEORY-211](THEORY-211.md).** Under SGD λ is not conserved: minibatch noise drives
   it toward the point where the layers' gradient noise balances. This
   account's control parameter is therefore fixed only under gradient flow.
-  [QUESTION-tmp4j05x](../questions.d/QUESTION-tmp4j05x.md) asks what that does to the regimes.
+  [QUESTION-081](../questions.d/QUESTION-081.md) asks what that does to the regimes.
 
 ## What this does not say
 

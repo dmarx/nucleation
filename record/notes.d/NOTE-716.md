@@ -1,6 +1,9 @@
 ---
+number: 716
 status: Read
-paper: LIT-tmp3ni7o
+formerly:
+- NOTE-tmpxnmvt
+paper: LIT-1014
 title: 'Symmetry Induces Structure and Constraint of Learning'
 version: 1
 history:
@@ -21,9 +24,9 @@ summary: >-
   the Lyapunov exponent E log|1 − λ(ξ + γ)| < 0. Corollaries: sparsity,
   low rank, homogeneous neurons (Theorems 2–4).
 ---
-<!-- inactive-ok-file: THEORY-184 THEORY-083 THEORY-211 THEORY-210 THEORY-tmppei8o QUESTION-080 QUESTION-058 — Proposed or Open; the accounts and questions this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-184 THEORY-083 THEORY-211 THEORY-210 THEORY-213 QUESTION-080 QUESTION-058 — Proposed or Open; the accounts and questions this reading bears on, open -->
 
-# NOTE-tmpxnmvt: Symmetry Induces Structure and Constraint of Learning
+# NOTE-716: Symmetry Induces Structure and Constraint of Learning
 
 ## Contribution
 
@@ -122,7 +125,7 @@ where gradient descent would roll away.
 
 ## Bearing on the record
 
-It is filed as [THEORY-tmppei8o](../theory.d/THEORY-tmppei8o.md), answering [QUESTION-058](../questions.d/QUESTION-058.md) in part on how much
+It is filed as [THEORY-213](../theory.d/THEORY-213.md), answering [QUESTION-058](../questions.d/QUESTION-058.md) in part on how much
 learned structure comes from the update's symmetry. It completes
 [THEORY-184](../theory.d/THEORY-184.md)'s asymptotic half and bears on [QUESTION-080](../questions.d/QUESTION-080.md).
 

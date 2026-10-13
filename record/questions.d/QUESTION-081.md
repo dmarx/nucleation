@@ -1,5 +1,8 @@
 ---
+number: 81
 status: Open
+formerly:
+- QUESTION-tmp4j05x
 title: 'When the relative scale of a network''s layers sets its learning regime under gradient flow, does that regime survive SGD, whose minibatch noise drives the relative scale toward balance, and on what timescale compared with learning?'
 version: 1
 tags:
@@ -13,7 +16,7 @@ refines:
 summary: >-
   Two readings meet here. Under gradient flow, the relative scale of
   adjacent layers is conserved and sets whether learning is rich or lazy
-  ([THEORY-tmphyt3v](../theory.d/THEORY-tmphyt3v.md), Dominé et al.). Under SGD, that scale is not
+  ([THEORY-212](../theory.d/THEORY-212.md), Dominé et al.). Under SGD, that scale is not
   conserved: minibatch noise drives it toward the point where the layers'
   gradient noise balances, at a rate set by η/S ([THEORY-211](../theory.d/THEORY-211.md), Ziyin et al.).
   If the drift is fast compared with learning, an unbalanced start chosen
@@ -22,13 +25,13 @@ summary: >-
   Drawn by the assistant from reading both, and filed at the owner's
   request.
 ---
-<!-- inactive-ok-file: THEORY-tmphyt3v THEORY-211 THEORY-186 — Proposed; the two accounts this question sets against each other, and the balanced case, open -->
+<!-- inactive-ok-file: THEORY-212 THEORY-211 THEORY-186 — Proposed; the two accounts this question sets against each other, and the balanced case, open -->
 
-# QUESTION-tmp4j05x: When the relative scale of a network's layers sets its learning regime under gradient flow, does that regime survive SGD, whose minibatch noise drives the relative scale toward balance, and on what timescale compared with learning?
+# QUESTION-081: When the relative scale of a network's layers sets its learning regime under gradient flow, does that regime survive SGD, whose minibatch noise drives the relative scale toward balance, and on what timescale compared with learning?
 
 ## The question
 
-[THEORY-tmphyt3v](../theory.d/THEORY-tmphyt3v.md) (Dominé et al.) says that in a two-layer linear network
+[THEORY-212](../theory.d/THEORY-212.md) (Dominé et al.) says that in a two-layer linear network
 the relative scale λ of the layers decides between rich and lazy
 learning. That holds because gradient flow conserves λ. [THEORY-211](../theory.d/THEORY-211.md)
 (Ziyin et al.) says that under SGD the same quantity is driven toward
@@ -47,7 +50,7 @@ decay. The question is which wins.
 ## Why the record needs it
 
 [QUESTION-039](QUESTION-039.md) asks what sets when and how structure is acquired.
-[THEORY-tmphyt3v](../theory.d/THEORY-tmphyt3v.md) answers with the initialization. [THEORY-211](../theory.d/THEORY-211.md) implies that,
+[THEORY-212](../theory.d/THEORY-212.md) answers with the initialization. [THEORY-211](../theory.d/THEORY-211.md) implies that,
 under the optimizer actually used, the initialization's say may be
 temporary. Which is true decides whether "the initialization sets the
 regime" is a fact about networks trained with SGD, or only about gradient
@@ -55,7 +58,7 @@ flow.
 
 ## What the record holds
 
-- **[THEORY-tmphyt3v](../theory.d/THEORY-tmphyt3v.md):** the regime as a function of a conserved λ, under
+- **[THEORY-212](../theory.d/THEORY-212.md):** the regime as a function of a conserved λ, under
   gradient flow.
 - **[THEORY-211](../theory.d/THEORY-211.md):** the law of balance. Its two-layer linear example reaches
   uᵢ² = wᵢ² at stationarity. That is a statement about the end of

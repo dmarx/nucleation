@@ -4,7 +4,7 @@
 
 **philosophy-of-language**.
 
-37 of 714 NOTE documents. Back to the [full index](../README.md).
+37 of 716 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

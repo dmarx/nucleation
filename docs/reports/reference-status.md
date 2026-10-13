@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**353 documents cited without acknowledgement.** Not listed: 6240 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**354 documents cited without acknowledgement.** Not listed: 6281 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1110,7 +1110,7 @@ A linear probe family can tell apart only realizations whose representations dif
 - [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
 - [`record/decisions.d/ADR-040.md:174`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:220`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-196](../../record/claims.d/CLAIM-196.md) — Proposed
 
@@ -1241,8 +1241,8 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 - [`record/claims.d/CLAIM-187.md:84`](../../record/claims.d/CLAIM-187.md)
 - [`record/questions.d/QUESTION-069.md:27`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
-- [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
-- [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-108.md:185`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-108.md:187`](../../record/theory.d/THEORY-108.md)
 
 ### [THEORY-125](../../record/theory.d/THEORY-125.md) — Proposed
 
@@ -1485,8 +1485,8 @@ The reverse-engineered grokking network computes modular addition by multiplying
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
-- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:40`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:41`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
 
@@ -1496,8 +1496,8 @@ The later phases reported in neural-network training differ in kind: after the t
 
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
-- [`record/questions.d/QUESTION-039.md:23`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:43`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:24`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:46`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
@@ -1580,12 +1580,23 @@ A system can keep its identity independently within a shared environment only if
 
 Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
 
-4 citations in 2 files await a look; 2 other citations of it are acknowledged.
+4 citations in 2 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-712.md:118`](../../record/notes.d/NOTE-712.md)
 - [`record/notes.d/NOTE-712.md:160`](../../record/notes.d/NOTE-712.md)
-- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:25`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:44`](../../record/questions.d/QUESTION-058.md)
+
+### [THEORY-187](../../record/theory.d/THEORY-187.md) — Proposed
+
+In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
+
+4 citations in 3 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-715.md:110`](../../record/notes.d/NOTE-715.md)
+- [`record/questions.d/QUESTION-039.md:24`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:43`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-081.md:66`](../../record/questions.d/QUESTION-081.md)
 
 ### [CLAIM-037](../../record/claims.d/CLAIM-037.md) — Proposed
 
@@ -1861,11 +1872,21 @@ Attributions of mental states to institutions, such as the knowledge that the co
 
 Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss
 
-3 citations in 2 files await a look; 12 other citations of it are acknowledged.
+3 citations in 2 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
 - [`record/literature.d/LIT-970.md:82`](../../record/literature.d/LIT-970.md)
 - [`record/notes.d/NOTE-712.md:131`](../../record/notes.d/NOTE-712.md)
+
+### [THEORY-211](../../record/theory.d/THEORY-211.md) — Proposed
+
+Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise
+
+3 citations in 2 files await a look; 23 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-943.md:79`](../../record/literature.d/LIT-943.md)
+- [`record/theory.d/THEORY-210.md:109`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:139`](../../record/theory.d/THEORY-210.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -1972,8 +1993,8 @@ Recovering latent structure from relational data is three achievements, reconstr
 
 2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:36`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:37`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-137](../../record/claims.d/CLAIM-137.md) — Proposed
 
@@ -1981,8 +2002,8 @@ A communicative kind is identified by an invariant that does not depend on any o
 
 2 citations in 1 file await a look; 30 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-058.md:22`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:36`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:23`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:37`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-155](../../record/claims.d/CLAIM-155.md) — Proposed
 
@@ -2323,8 +2344,8 @@ In the efficiently packed geometries of uniform superposition the features form 
 
 2 citations in 1 file await a look.
 
-- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:42`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:25`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-023](../../record/theory.d/THEORY-023.md) — Proposed
 
@@ -2465,7 +2486,7 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 
 Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
 
-2 citations in 1 file await a look; 15 other citations of it are acknowledged.
+2 citations in 1 file await a look; 19 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:21`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:39`](../../record/questions.d/QUESTION-051.md)
@@ -2773,17 +2794,8 @@ In a model that decodes the sum of two learned embeddings, a training set fixes 
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-058.md:24`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:41`](../../record/questions.d/QUESTION-058.md)
-
-### [THEORY-187](../../record/theory.d/THEORY-187.md) — Proposed
-
-In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
-
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-039.md:23`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:40`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-058.md:25`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:42`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-197](../../record/theory.d/THEORY-197.md) — Proposed
 
@@ -2809,8 +2821,8 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-039.md:23`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:41`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:24`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:44`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
 
@@ -2818,8 +2830,8 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 
 2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-039.md:23`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:42`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:24`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:45`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-205](../../record/theory.d/THEORY-205.md) — Proposed
 
@@ -2848,14 +2860,14 @@ Responsibility for a morally loaded outcome that emerges from morally neutral in
 - [`record/questions.d/QUESTION-041.md:21`](../../record/questions.d/QUESTION-041.md)
 - [`record/questions.d/QUESTION-041.md:39`](../../record/questions.d/QUESTION-041.md)
 
-### [THEORY-211](../../record/theory.d/THEORY-211.md) — Proposed
+### [THEORY-212](../../record/theory.d/THEORY-212.md) — Proposed
 
-Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise
+In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic
 
-2 citations in 1 file await a look; 6 other citations of it are acknowledged.
+2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
-- [`record/theory.d/THEORY-210.md:109`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:139`](../../record/theory.d/THEORY-210.md)
+- [`record/literature.d/LIT-943.md:6`](../../record/literature.d/LIT-943.md)
+- [`record/literature.d/LIT-943.md:81`](../../record/literature.d/LIT-943.md)
 
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Deferred
 

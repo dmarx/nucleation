@@ -1,5 +1,8 @@
 ---
+number: 715
 status: Read
+formerly:
+- NOTE-tmpl050c
 paper: LIT-943
 title: 'From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks'
 version: 1
@@ -21,9 +24,9 @@ summary: >-
   starts, each singular value moves by a λ-dependent transition function:
   sigmoidal as λ → 0, exponential 1 − e^{−|λ|t/τ} as |λ| → ∞ (Theorem 5.1).
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-211 THEORY-tmphyt3v QUESTION-tmp4j05x — Proposed or Open; readings, the account filed from this one and the question it raises, open -->
+<!-- inactive-ok-file: THEORY-186 THEORY-211 THEORY-212 QUESTION-081 — Proposed or Open; readings, the account filed from this one and the question it raises, open -->
 
-# NOTE-tmpl050c: From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks
+# NOTE-715: From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks
 
 ## Contribution
 
@@ -111,14 +114,14 @@ regime.
 - **[THEORY-211](../theory.d/THEORY-211.md) (law of balance)** says that under SGD the same quantity is
   not conserved. It is driven toward the point where the layers' gradient
   noise balances, at a rate set by η/S. The paper does not mention SGD or
-  minibatch noise. [QUESTION-tmp4j05x](../questions.d/QUESTION-tmp4j05x.md) asks what that does to the regimes.
+  minibatch noise. [QUESTION-081](../questions.d/QUESTION-081.md) asks what that does to the regimes.
 
 ## Bearing on the record
 
 It gives [QUESTION-039](../questions.d/QUESTION-039.md) a named determinant of how structure is acquired:
 the relative scale of the layers, which decides between stage-like and
-exponential learning. It is filed as [THEORY-tmphyt3v](../theory.d/THEORY-tmphyt3v.md). Its dependence on a
-conserved quantity is what [QUESTION-tmp4j05x](../questions.d/QUESTION-tmp4j05x.md) puts in doubt under SGD.
+exponential learning. It is filed as [THEORY-212](../theory.d/THEORY-212.md). Its dependence on a
+conserved quantity is what [QUESTION-081](../questions.d/QUESTION-081.md) puts in doubt under SGD.
 
 ## Limitations
 
@@ -131,7 +134,7 @@ conserved quantity is what [QUESTION-tmp4j05x](../questions.d/QUESTION-tmp4j05x.
 
 ## Open questions
 
-- Does the regime set by λ survive SGD? ([QUESTION-tmp4j05x](../questions.d/QUESTION-tmp4j05x.md))
+- Does the regime set by λ survive SGD? ([QUESTION-081](../questions.d/QUESTION-081.md))
 
 ## Corrections
 

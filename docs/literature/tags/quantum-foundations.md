@@ -6,7 +6,7 @@
 
 **Quantum foundations** — what quantum theory says about the world — contextuality, epistemic restrictions, interference, reconstructions and toy theories, quantum thermodynamics.
 
-93 of 1013 LIT documents. Back to the [full index](../README.md).
+93 of 1014 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

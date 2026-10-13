@@ -1,5 +1,8 @@
 ---
+number: 213
 status: Proposed
+formerly:
+- THEORY-tmppei8o
 promote_when: >-
   The SGD half shown beyond the second-order, diagonal-Hessian argument,
   or measured in a trained network. What would promote: a network with a
@@ -21,11 +24,11 @@ tags:
 - anthology-candidate
 date: '2026-10-13'
 source:
-- LIT-tmp3ni7o
+- LIT-1014
 answers:
 - QUESTION-058
 summary: >-
-  Ziyin (2024), [LIT-tmp3ni7o](../literature.d/LIT-tmp3ni7o.md), read in [NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md). If a per-sample loss
+  Ziyin (2024), [LIT-1014](../literature.d/LIT-1014.md), read in [NOTE-716](../notes.d/NOTE-716.md). If a per-sample loss
   is invariant under the reflection I − 2OOᵀ, then Oᵀθ = 0 is a stationary
   condition for GD and SGD. The Hessian is block diagonal there. Above a
   critical weight decay all minima satisfy the constraint. Under SGD with
@@ -37,11 +40,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-184 THEORY-083 THEORY-211 THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
 
-# THEORY-tmppei8o: Every mirror symmetry of a network's loss makes its symmetric subspace absorbing for gradient-based training, and weight decay above a threshold or strong gradient noise makes that subspace favoured, so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged, identical neurons
+# THEORY-213: Every mirror symmetry of a network's loss makes its symmetric subspace absorbing for gradient-based training, and weight decay above a threshold or strong gradient noise makes that subspace favoured, so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged, identical neurons
 
 ## Source
 
-Ziyin (2024), [LIT-tmp3ni7o](../literature.d/LIT-tmp3ni7o.md), read in [NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md): §§1–5, with Appendix C's
+Ziyin (2024), [LIT-1014](../literature.d/LIT-1014.md), read in [NOTE-716](../notes.d/NOTE-716.md): §§1–5, with Appendix C's
 proofs unchecked.
 
 ## The claim
