@@ -25,6 +25,7 @@ summary: >-
 answered_by:
 - CLAIM-255
 ---
+<!-- inactive-ok-file: LIT-tmpswf3g LIT-tmp0vfgl — Deferred; Grice 1975 read only in part and Bach and Harnish unread, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-224 — Proposed; the objections that raise this question, open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution claim whose scope this question holds open -->
 <!-- inactive-ok-file: LIT-785 LIT-780 — Deferred; Austin and Goffman, unread here, named as the tradition's replies and not leaned on -->

@@ -29,6 +29,7 @@ summary: >-
   this family. The objection is open; it would narrow [CLAIM-151](CLAIM-151.md) to
   institutional acts unless an argument from uptake meets it.
 ---
+<!-- inactive-ok-file: LIT-tmpswf3g LIT-tmp0vfgl — Deferred; Grice 1975 read only in part and Bach and Harnish unread, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as the record's own intention-inferring model, not as settled -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-139 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->

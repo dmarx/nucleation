@@ -44,6 +44,7 @@ summary: >-
   and the maxims of Quantity, Quality, Relation and Manner. Read here only
   at pp. 45–47, where the principle and maxims are stated.
 ---
+<!-- inactive-ok-file: NOTE-tmp1p65z — Skimmed; this work's partial reading, pp. 45–47 only, cited as such -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this work was filed for, open -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, the record's formal successor to this account, open -->
 
