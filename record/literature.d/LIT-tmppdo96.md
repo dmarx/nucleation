@@ -1,0 +1,78 @@
+---
+status: Active
+status_note: 'read 2026-10-13 ([NOTE-tmpl70rd](../notes.d/NOTE-tmpl70rd.md)): §§I–IV in full; the proofs in Appendix A not checked. Cited by [LIT-970](LIT-970.md) as Ziyin et al. (2023a), "Law of balance and stationary distribution of stochastic gradient descent"; retitled in v2. The source of [THEORY-tmpdsy58](../theory.d/THEORY-tmpdsy58.md).'
+title: 'Noise Balance and Stationary Distribution of Stochastic Gradient Descent'
+version: 1
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Read at the owner's request ("read Neural Mechanics and Ziyin et al.
+    2023a"), from arXiv v2 (12 June 2025), text extracted with pdftotext.
+    v1 (13 August 2023, the `published:` date) was titled "Law of Balance
+    and Stationary Distribution of Stochastic Gradient Descent", which is
+    how LIT-970 cites it. Not held in the Anthology of the SOTA: a grep of
+    its record for the identifier found nothing.
+tags:
+- learning-theory
+- loss-landscapes
+- thermodynamics
+- anthology-candidate
+date: '2026-10-13'
+published: '2023-08-13'
+arxiv: '2308.06671'
+first_author: 'Ziyin'
+keywords:
+- 'law of balance'
+- 'rescaling symmetry'
+- 'stationary distribution'
+- 'stochastic gradient descent'
+- 'broken ergodicity'
+- 'phase transition'
+implementations: []
+summary: >-
+  Ziyin, Li & Ueda (2023; v2 2025). Under the SDE model of SGD with
+  temperature T = η/S, a rescaling symmetry between parameter groups u and
+  w gives d(‖u‖² − ‖w‖²)/dt = −T(uᵀC₁u − wᵀC₂w): the Brownian term
+  vanishes, and minibatch noise drives the quantity to the point where the
+  two groups' gradient noise balances. Gradient descent conserves it, and
+  gradient descent with isotropic noise diffuses along it. At stationarity
+  SGD therefore differs from gradient descent by a finite amount however
+  small T is, and is not ergodic. For a diagonal linear network of
+  arbitrary depth and width, the paper solves the stationary distribution
+  exactly. It finds a phase transition to the zero solution above a
+  critical T, sign coherence, fluctuation inversion and a tail set by depth
+  alone.
+---
+<!-- inactive-ok-file: THEORY-210 THEORY-tmpdsy58 THEORY-209 — Proposed; the accounts this reading feeds, open -->
+
+# LIT-tmppdo96: Noise Balance and Stationary Distribution of Stochastic Gradient Descent
+
+Liu Ziyin, Hongchao Li, Masahito Ueda (2023; revised 2025) — [ARXIV-2308.06671](https://arxiv.org/abs/2308.06671)
+
+## Key takeaways
+
+- **Law of balance.** With a rescaling symmetry, ‖u‖² − ‖w‖² evolves by an
+  ODE, not an SDE, at a rate proportional to T = η/S (Theorem 1). Its
+  stationary point balances the gradient noise of the two groups,
+  Tr C(w) = Tr C(u), and fixes a unique norm ratio. Weight decay γ adds to
+  the rate.
+- **Not a perturbation of gradient descent.** The t → ∞ and T → 0 limits
+  do not commute, so at stationarity SGD and GD differ by O(1). Solutions
+  of equal loss are not visited with equal probability.
+- **Depth changes the stationary distribution.** In the diagonal linear
+  network, depth 1 conserves ratios between subnetworks while depth above 1
+  balances them (Theorem 3). Above T_c = β₂/α₃ the distribution collapses
+  to zero. Variance falls as T rises. The tail exponent depends on depth
+  only.
+- **SGD is not a Bayesian sampler here.** Its stationary distribution lives
+  on a measure-zero set, so its KL divergence from the posterior is
+  infinite.
+
+## Standing in the record
+
+Read for the null space that [THEORY-209](../theory.d/THEORY-209.md) leaves out. The reading is
+[NOTE-tmpl70rd](../notes.d/NOTE-tmpl70rd.md), and the account filed from it is [THEORY-tmpdsy58](../theory.d/THEORY-tmpdsy58.md). It makes
+first-hand the result [LIT-970](LIT-970.md) reported as "different from predictions from
+a Langevin model". The Langevin model it means is gradient descent with
+isotropic noise.
