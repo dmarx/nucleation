@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**732 document(s) awaiting a decision.**
+**733 document(s) awaiting a decision.**
 
 ## LITs
 
-373 of the 732.
+373 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -389,7 +389,7 @@
 
 ## THEORYs
 
-185 of the 732.
+186 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -460,6 +460,7 @@
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 10 | 3 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
 | 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 10 | 4 | Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom |
 | 2026-10-03 | Proposed | [THEORY-061](../../record/theory.d/THEORY-061.md) | 9 | 2 | In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which |
+| 2026-10-03 | Proposed | [THEORY-108](../../record/theory.d/THEORY-108.md) | 9 | 6 | Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature |
 | 2026-10-03 | Proposed | [THEORY-109](../../record/theory.d/THEORY-109.md) | 9 | 5 | The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum |
 | 2026-10-03 | Proposed | [THEORY-114](../../record/theory.d/THEORY-114.md) | 9 | 2 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
 | 2026-10-03 | Proposed | [THEORY-116](../../record/theory.d/THEORY-116.md) | 9 | 1 | A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms |
@@ -468,7 +469,6 @@
 | 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 8 | 2 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-085](../../record/theory.d/THEORY-085.md) | 8 | 2 | A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors |
 | 2026-10-03 | Proposed | [THEORY-094](../../record/theory.d/THEORY-094.md) | 8 | 2 | Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does |
-| 2026-10-03 | Proposed | [THEORY-108](../../record/theory.d/THEORY-108.md) | 8 | 5 | Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 7 | 2 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
 | 2026-10-03 | Proposed | [THEORY-106](../../record/theory.d/THEORY-106.md) | 7 | 0 | In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form |
 | 2026-10-03 | Proposed | [THEORY-079](../../record/theory.d/THEORY-079.md) | 6 | 0 | Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n |
@@ -576,12 +576,13 @@
 | 2026-10-09 | Proposed | [THEORY-179](../../record/theory.d/THEORY-179.md) | 2 | 0 | In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch |
 | 2026-10-10 | Proposed | [THEORY-208](../../record/theory.d/THEORY-208.md) | 5 | 1 | Agency is multiply realisable without cognition or mental states, and AI is a new kind of it |
 | 2026-10-10 | Proposed | [THEORY-207](../../record/theory.d/THEORY-207.md) | 4 | 2 | Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes |
-| 2026-10-13 | Proposed | [THEORY-209](../../record/theory.d/THEORY-209.md) | 15 | 6 | A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size |
-| 2026-10-13 | Proposed | [THEORY-210](../../record/theory.d/THEORY-210.md) | 6 | 3 | Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss |
+| 2026-10-13 | Proposed | [THEORY-209](../../record/theory.d/THEORY-209.md) | 28 | 9 | A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size |
+| 2026-10-13 | Proposed | [THEORY-210](../../record/theory.d/THEORY-210.md) | 15 | 3 | Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss |
+| 2026-10-13 | Proposed | [THEORY-211](../../record/theory.d/THEORY-211.md) | 8 | 2 | Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise |
 
 ## QUESTIONs
 
-9 of the 732.
+9 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -597,7 +598,7 @@
 
 ## CLAIMs
 
-160 of the 732.
+160 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -764,7 +765,7 @@
 
 ## CASEs
 
-1 of the 732.
+1 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -772,7 +773,7 @@
 
 ## TERMs
 
-2 of the 732.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -781,7 +782,7 @@
 
 ## ARGs
 
-2 of the 732.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

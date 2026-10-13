@@ -4,7 +4,7 @@
 
 **complex-systems**.
 
-66 of 712 NOTE documents. Back to the [full index](../README.md).
+66 of 714 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-35 of 712 NOTE documents. Back to the [full index](../README.md).
+35 of 714 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

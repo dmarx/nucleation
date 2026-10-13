@@ -1,5 +1,8 @@
 ---
+number: 211
 status: Proposed
+formerly:
+- THEORY-tmpdsy58
 promote_when: >-
   The law of balance measured in a deep network trained on real data,
   during its limiting dynamics. What would promote: for parameter groups
@@ -22,14 +25,14 @@ tags:
 - anthology-candidate
 date: '2026-10-13'
 source:
-- LIT-tmppdo96
-- LIT-tmpxnix4
+- LIT-1012
+- LIT-1013
 answers:
 - QUESTION-069
 summary: >-
-  Ziyin, Li & Ueda ([LIT-tmppdo96](../literature.d/LIT-tmppdo96.md), read in [NOTE-tmpl70rd](../notes.d/NOTE-tmpl70rd.md)), with the gradient
+  Ziyin, Li & Ueda ([LIT-1012](../literature.d/LIT-1012.md), read in [NOTE-714](../notes.d/NOTE-714.md)), with the gradient
   flow conservation law and the Itô term from Neural Mechanics
-  ([LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md)). If ℓ(u, w) = ℓ(λu, w/λ) for every sample, then under the
+  ([LIT-1013](../literature.d/LIT-1013.md)). If ℓ(u, w) = ℓ(λu, w/λ) for every sample, then under the
   SDE model of SGD d(‖u‖² − ‖w‖²)/dt = −T(uᵀC₁u − wᵀC₂w), with T = η/S. The
   noise has no component along the symmetry, but its dependence on the
   parameters produces a deterministic drift through Itô's lemma. The drift
@@ -41,13 +44,13 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-108 QUESTION-080 — Proposed or Open; the accounts and question this one is set beside, open -->
 
-# THEORY-tmpdsy58: Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise
+# THEORY-211: Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise
 
 ## Source
 
-Ziyin, Li & Ueda (2023; v2 2025), [LIT-tmppdo96](../literature.d/LIT-tmppdo96.md), read in [NOTE-tmpl70rd](../notes.d/NOTE-tmpl70rd.md):
+Ziyin, Li & Ueda (2023; v2 2025), [LIT-1012](../literature.d/LIT-1012.md), read in [NOTE-714](../notes.d/NOTE-714.md):
 §§I–IV, with Appendix A's proofs unchecked. Kunin et al. (2021), *Neural
-Mechanics*, [LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md), read in [NOTE-tmp7y8us](../notes.d/NOTE-tmp7y8us.md), for the conservation law
+Mechanics*, [LIT-1013](../literature.d/LIT-1013.md), read in [NOTE-713](../notes.d/NOTE-713.md), for the conservation law
 under gradient flow and the noise's orthogonality to symmetry generators.
 
 ## The claim

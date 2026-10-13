@@ -1,6 +1,9 @@
 ---
+number: 714
 status: Read
-paper: LIT-tmppdo96
+formerly:
+- NOTE-tmpl70rd
+paper: LIT-1012
 title: 'Noise Balance and Stationary Distribution of Stochastic Gradient Descent'
 version: 1
 history:
@@ -20,9 +23,9 @@ summary: >-
   distribution (Theorem 4), collapse above T_c = β₂/α₃ for D = 1, tail
   ∝ v^{−5+3/(D+1)} independent of data.
 ---
-<!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-tmpdsy58 — Proposed; the accounts this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-211 — Proposed; the accounts this reading bears on, open -->
 
-# NOTE-tmpl70rd: Noise Balance and Stationary Distribution of Stochastic Gradient Descent
+# NOTE-714: Noise Balance and Stationary Distribution of Stochastic Gradient Descent
 
 ## Contribution
 
@@ -109,7 +112,7 @@ wanders off along it. SGD slides to one particular point.
 
 ## Connections
 
-- **[LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md) (Neural Mechanics)** derives the same conservation law
+- **[LIT-1013](../literature.d/LIT-1013.md) (Neural Mechanics)** derives the same conservation law
   for gradient flow and an Itô forcing term for scale symmetry. This paper
   carries the Itô treatment through for rescale symmetry and solves for
   the stationary point.
@@ -128,7 +131,7 @@ wanders off along it. SGD slides to one particular point.
 
 ## Bearing on the record
 
-It supports [THEORY-tmpdsy58](../theory.d/THEORY-tmpdsy58.md), filed from this reading. It also settles how
+It supports [THEORY-211](../theory.d/THEORY-211.md), filed from this reading. It also settles how
 [THEORY-209](../theory.d/THEORY-209.md) and [THEORY-210](../theory.d/THEORY-210.md) meet. Along symmetry directions, a converged
 network is neither frozen nor diffusing: it is driven to a noise-balanced
 point at a rate set by η/S, plus weight decay.

@@ -6,8 +6,8 @@ formerly:
 promote_when: >-
   The SGD half measured in a deep network trained on real data. The
   dynamical sources are now read first-hand: Neural Mechanics
-  (LIT-tmpxnix4) for the conservation laws and their breaking by weight
-  decay and finite steps, and Ziyin et al. (LIT-tmppdo96) for the law of
+  (LIT-1013) for the conservation laws and their breaking by weight
+  decay and finite steps, and Ziyin et al. (LIT-1012) for the law of
   balance under minibatch noise. What would promote: drift of imbalance, or
   of another symmetry's conserved quantity, during the limiting dynamics of
   a deep network, toward the balanced value these results predict, at
@@ -28,7 +28,7 @@ history:
   date: '2026-10-13'
   note: >-
     After reading the two sources the survey reported. Neural Mechanics
-    (LIT-tmpxnix4) and Ziyin et al. (LIT-tmppdo96) added as sources. One
+    (LIT-1013) and Ziyin et al. (LIT-1012) added as sources. One
     attribution corrected: the survey's "imbalance decays exponentially
     with large learning rates" is not found in Neural Mechanics, whose main
     text attributes the exponential decay of the norm difference to weight
@@ -43,8 +43,8 @@ tags:
 date: '2026-10-13'
 source:
 - LIT-970
-- LIT-tmpxnix4
-- LIT-tmppdo96
+- LIT-1013
+- LIT-1012
 answers:
 - QUESTION-069
 - QUESTION-058
@@ -96,7 +96,7 @@ along a symmetry orbit is decided at initialization.
 **Under SGD it is not.** Finite steps, gradient noise and weight decay
 break the conservation laws. Read first-hand, there are three effects:
 
-- **Weight decay pulls toward zero.** In Neural Mechanics ([LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md))
+- **Weight decay pulls toward zero.** In Neural Mechanics ([LIT-1013](../literature.d/LIT-1013.md))
   each quantity decays as an exponential memory of its initial value. For
   rescale symmetry, "for large enough weight decay", the norm difference
   decays exponentially to zero.
@@ -106,7 +106,7 @@ break the conservation laws. Read first-hand, there are three effects:
 - **Minibatch noise balances.** The noise has no component along a
   symmetry, but its dependence on the parameters drives ‖u‖² − ‖w‖²
   toward the point where the two groups' gradient noise is equal, at a
-  rate proportional to η/S (Ziyin et al., [LIT-tmppdo96](../literature.d/LIT-tmppdo96.md); [THEORY-tmpdsy58](THEORY-tmpdsy58.md)).
+  rate proportional to η/S (Ziyin et al., [LIT-1012](../literature.d/LIT-1012.md); [THEORY-211](THEORY-211.md)).
   The stationary distribution then differs from what gradient descent with
   isotropic noise would give, which diffuses along the orbit.
 
@@ -136,7 +136,7 @@ symmetry.
   first-hand, [THEORY-209](THEORY-209.md)'s model and the SGD results disagree there, for
   an identified reason. [THEORY-209](THEORY-209.md)'s
   noise covariance is independent of the parameters, which freezes the
-  coordinate along a symmetry. [THEORY-tmpdsy58](THEORY-tmpdsy58.md)'s balancing drift comes from
+  coordinate along a symmetry. [THEORY-211](THEORY-211.md)'s balancing drift comes from
   exactly that dependence.
 
 ## What this does not say

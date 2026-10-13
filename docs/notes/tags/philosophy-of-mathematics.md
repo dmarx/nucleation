@@ -4,7 +4,7 @@
 
 **philosophy-of-mathematics**.
 
-6 of 712 NOTE documents. Back to the [full index](../README.md).
+6 of 714 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -41,7 +41,7 @@ summary: >-
   of the regime that trained it. Proposed: the deep-learning evidence is
   one network, under assumptions the paper concedes are strained.
 ---
-<!-- inactive-ok-file: THEORY-tmpdsy58 — Proposed; the account of the law of balance set beside this one, open -->
+<!-- inactive-ok-file: THEORY-211 — Proposed; the account of the law of balance set beside this one, open -->
 <!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-210 QUESTION-080 — Proposed or Open; readings and a question set beside this account on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-108 — Proposed; the reading whose temperature axis this account interprets, open -->
 
@@ -144,8 +144,8 @@ move is filed as [QUESTION-080](../questions.d/QUESTION-080.md).
 ## Note of 2026-10-13: the null space, read first-hand
 
 The note above left open whether this account and [THEORY-210](THEORY-210.md) disagree on
-the Hessian's null space. Reading Neural Mechanics ([LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md)) and
-Ziyin et al. ([LIT-tmppdo96](../literature.d/LIT-tmppdo96.md)) settles where and why.
+the Hessian's null space. Reading Neural Mechanics ([LIT-1013](../literature.d/LIT-1013.md)) and
+Ziyin et al. ([LIT-1012](../literature.d/LIT-1012.md)) settles where and why.
 
 - **The shared property.** Minibatch noise has no component along a
   symmetry's generator (Neural Mechanics, §5). This account's assumption,
@@ -156,10 +156,10 @@ Ziyin et al. ([LIT-tmppdo96](../literature.d/LIT-tmppdo96.md)) settles where and
   frozen. With the covariance's real dependence on the parameters, a
   rescaling symmetry's coordinate is driven to the point where the two
   layers' gradient noise balances, at a rate proportional to η/S
-  ([THEORY-tmpdsy58](THEORY-tmpdsy58.md)).
+  ([THEORY-211](THEORY-211.md)).
 
 So the two accounts describe one stationary state from two sides. This
 account covers the Hessian's image, where the run oscillates
-isotropically on a modified loss. [THEORY-tmpdsy58](THEORY-tmpdsy58.md) covers the symmetry
+isotropically on a modified loss. [THEORY-211](THEORY-211.md) covers the symmetry
 directions, where the run is driven to a balance. The cost of
 Assumption 3 is that it misdescribes the second.

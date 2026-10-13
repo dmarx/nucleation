@@ -1,6 +1,9 @@
 ---
+number: 713
 status: Read
-paper: LIT-tmpxnix4
+formerly:
+- NOTE-tmp7y8us
+paper: LIT-1013
 title: 'Neural Mechanics'
 version: 1
 history:
@@ -21,9 +24,9 @@ summary: >-
   on VGG-16 with Tiny ImageNet. The noise covariance annihilates the
   generators (§5, App. F).
 ---
-<!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-tmpdsy58 — Proposed; the accounts this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-211 — Proposed; the accounts this reading bears on, open -->
 
-# NOTE-tmp7y8us: Neural Mechanics
+# NOTE-713: Neural Mechanics
 
 ## Contribution
 
@@ -106,7 +109,7 @@ step is tangent to a curved orbit.
   the property used here, zero noise along symmetry generators, but also
   makes the covariance independent of the parameters. That removes the Itô
   forcing term App. F derives.
-- **[LIT-tmppdo96](../literature.d/LIT-tmppdo96.md) (Ziyin et al.)** builds that Itô term into a law of
+- **[LIT-1012](../literature.d/LIT-1012.md) (Ziyin et al.)** builds that Itô term into a law of
   balance for rescale symmetry, where the noise drives the norm
   difference to a balanced value.
 

@@ -26,7 +26,7 @@ summary: >-
   SGD's finite steps, noise and weight decay break these, which is an open
   route to implicit bias (§7.2).
 ---
-<!-- inactive-ok-file: THEORY-tmpdsy58 — Proposed; the account filed from the cited paper, read on 2026-10-13, open -->
+<!-- inactive-ok-file: THEORY-211 — Proposed; the account filed from the cited paper, read on 2026-10-13, open -->
 
 # NOTE-712: Symmetry in Neural Network Parameter Spaces
 
@@ -165,7 +165,7 @@ The two SGD results in "Key results" were read first-hand on 2026-10-13.
 
 - **"Imbalance decreases exponentially with large learning rates (Kunin
   et al. 2021, Neural Mechanics)."** This was not found in Neural
-  Mechanics ([LIT-tmpxnix4](../literature.d/LIT-tmpxnix4.md), read in [NOTE-tmp7y8us](NOTE-tmp7y8us.md)): not in its main text,
+  Mechanics ([LIT-1013](../literature.d/LIT-1013.md), read in [NOTE-713](NOTE-713.md)): not in its main text,
   and not in Appendices F, I and J. Its main text attributes the
   exponential decay of the norm difference to weight decay "large enough"
   to dominate the gradient-norm term, whose sign for rescale symmetry is
@@ -173,7 +173,7 @@ The two SGD results in "Key results" were read first-hand on 2026-10-13.
   attribution until a passage supporting it is found.
 - **"A stationary distribution biased toward balanced solutions,
   different from predictions from a Langevin model" (Ziyin et al.
-  2023a).** Confirmed ([LIT-tmppdo96](../literature.d/LIT-tmppdo96.md), read in [NOTE-tmpl70rd](NOTE-tmpl70rd.md)), with one
+  2023a).** Confirmed ([LIT-1012](../literature.d/LIT-1012.md), read in [NOTE-714](NOTE-714.md)), with one
   clarification. The Langevin model compared is gradient descent with
   isotropic, full-rank noise, which diffuses along the symmetry. The
   balance is exact for the gradient noise, and approximate for the norms.

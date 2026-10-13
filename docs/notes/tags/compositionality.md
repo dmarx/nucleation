@@ -4,7 +4,7 @@
 
 **compositionality**.
 
-24 of 712 NOTE documents. Back to the [full index](../README.md).
+24 of 714 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
