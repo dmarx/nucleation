@@ -30,6 +30,8 @@ summary: >-
   outlast the coalition behind it, and a coalition can outlast the images
   it makes. The claim does not say that the pattern, or the coalition, is
   a self.
+complements:
+- CLAIM-tmpzkkx2
 ---
 <!-- inactive-ok-file: CLAIM-161 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

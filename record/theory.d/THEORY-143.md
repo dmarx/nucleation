@@ -34,6 +34,8 @@ extended_by:
 - THEORY-148
 answers:
 - QUESTION-047
+supports:
+- CLAIM-tmpejpqc
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; Longino's account filed in this batch -->

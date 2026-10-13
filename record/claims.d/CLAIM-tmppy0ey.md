@@ -26,6 +26,8 @@ complements:
 - CLAIM-tmpf1063
 supports:
 - CLAIM-tmpxuigm
+illustrated_by:
+- CASE-tmp3djxc
 ---
 <!-- inactive-ok-file: CLAIM-tmpf1063 CLAIM-tmpxuigm — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

@@ -16,6 +16,8 @@ summary: >-
   that can generate alternatives. It refines [QUESTION-041](QUESTION-041.md), which asks what
   channels keep a whole's course correctable. This asks when using such a
   channel helps.
+answered_by:
+- CLAIM-tmpny1e4
 ---
 <!-- inactive-ok-file: CLAIM-tmpgfyls THEORY-142 THEORY-151 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

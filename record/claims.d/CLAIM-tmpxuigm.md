@@ -37,6 +37,10 @@ summary: >-
   resist collusion, or that alignment makes delegation wise.
 illustrated_by:
 - CASE-tmpd83bj
+- CASE-tmpejqc0
+complements:
+- CLAIM-tmp2cza3
+- CLAIM-tmpny1e4
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
