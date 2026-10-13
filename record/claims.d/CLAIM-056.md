@@ -19,6 +19,7 @@ works:
 - what-survives-translation
 rests_on:
 - CLAIM-106
+- CLAIM-tmpjp2tl
 summary: >-
   A50 §2–3, kept nearly verbatim in outline v4 and the manuscript §8.
   The manuscript later restricts the expansive regime: for stochastic
@@ -29,11 +30,11 @@ supports:
 - CLAIM-081
 - CLAIM-114
 - CLAIM-059
-- CLAIM-191
 objected_by:
 - CLAIM-031
 - CLAIM-208
 ---
+<!-- inactive-ok-file: CLAIM-tmpjp2tl — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-068 CLAIM-106 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-056: Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift
@@ -60,3 +61,11 @@ that all communicative changes are errors."
 
 That drift is random: A50 went on to attraction ([CLAIM-068](CLAIM-068.md)). Nor that it holds
 for directed, non-metric distortion ([QUESTION-017](../questions.d/QUESTION-017.md)).
+
+## Note of 2026-10-13: the general content is filed separately
+
+Under [ADR-040](../decisions.d/ADR-040.md), the error recursion and its three regimes is filed on its own as [CLAIM-tmpjp2tl](CLAIM-tmpjp2tl.md), in the
+formal-apparatus line, resting on no claim. This claim now rests on it for
+the general content, and keeps [CLAIM-106](CLAIM-106.md)'s graded fidelity, which makes the discrepancy a transport error. Claims in other lines that need
+only the general content cite [CLAIM-tmpjp2tl](CLAIM-tmpjp2tl.md), so setting pragmatic-transport aside
+does not take it from them.

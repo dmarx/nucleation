@@ -26,6 +26,7 @@ summary: >-
   independent feature space and with human judges.
 supports:
 - CLAIM-149
+- CLAIM-tmpbcck8
 variants:
 - CASE-071
 ---

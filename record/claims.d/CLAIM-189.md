@@ -18,7 +18,7 @@ objects_to:
 rests_on:
 - CLAIM-178
 - CLAIM-034
-- CLAIM-081
+- CLAIM-tmpxrn16
 uses:
 - TERM-052
 summary: >-
@@ -31,6 +31,7 @@ summary: >-
 complements:
 - CLAIM-250
 ---
+<!-- inactive-ok-file: CLAIM-tmpxrn16 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-250 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-034 CLAIM-081 CLAIM-178 CLAIM-191 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-259 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -84,3 +85,12 @@ owner.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 calls the tension with [CLAIM-252](CLAIM-252.md) "substantially less contradictory than the PR's framing suggests", and recommends to "Preserve CLAIM-189 as a counter to naïve propositional fidelity, but revise its broader objection to distinguish semantic preservation from preservation of justificatory and provenance relations." [CLAIM-250](CLAIM-250.md) files its candidate fidelity object, the argument's accountability structure. Recorded as advice; whether to narrow this claim is the owner's.
+
+## Note of 2026-10-13: premises re-pointed to their general forms
+
+This claim needed only the distinction between convergence and preservation, not the account of translation it was
+filed under. Under [ADR-040](../decisions.d/ADR-040.md) that content is filed separately as [CLAIM-tmpxrn16](CLAIM-tmpxrn16.md), in
+the formal-apparatus line, and this claim's `rests_on` now names
+[CLAIM-tmpxrn16](CLAIM-tmpxrn16.md) in place of [CLAIM-081](CLAIM-081.md). The body's citations of [CLAIM-081](CLAIM-081.md) stand: they
+are where the record first argued the point. The change is that setting
+pragmatic-transport aside no longer takes this premise with it.

@@ -24,6 +24,7 @@ rests_on:
 - CLAIM-011
 - CLAIM-004
 - CLAIM-035
+- CLAIM-tmpavkxk
 grounds:
 - CASE-039
 complements:
@@ -48,6 +49,7 @@ supports:
 objected_by:
 - CLAIM-238
 ---
+<!-- inactive-ok-file: CLAIM-tmpavkxk — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-037 CLAIM-044 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the same analogy, which this claim does not revive -->
 
@@ -132,3 +134,11 @@ correspondence τ is the same object whose fit decides fidelity
 used to reach, the order of tests is empty. That is [QUESTION-005](../questions.d/QUESTION-005.md) for
 correspondences. A164's coordinate difference and structural transformation
 are also the two horns of [QUESTION-021](../questions.d/QUESTION-021.md), which the claim does not settle.
+
+## Note of 2026-10-13: the general content is filed separately
+
+Under [ADR-040](../decisions.d/ADR-040.md), the order of tests for disagreeing local descriptions is filed on its own as [CLAIM-tmpavkxk](CLAIM-tmpavkxk.md), in the
+formal-apparatus line, resting on no claim. This claim now rests on it for
+the general content, and keeps [CLAIM-011](CLAIM-011.md), [CLAIM-004](CLAIM-004.md) and [CLAIM-035](CLAIM-035.md), for applying the order of tests to translation. Claims in other lines that need
+only the general content cite [CLAIM-tmpavkxk](CLAIM-tmpavkxk.md), so setting pragmatic-transport aside
+does not take it from them.
