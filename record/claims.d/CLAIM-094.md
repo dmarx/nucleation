@@ -25,6 +25,7 @@ summary: >-
   is the mean-only condition, which the cited theorem's counterexample
   shows is weaker than commuting with the generator.
 ---
+<!-- inactive-ok-file: THEORY-211 — Proposed; the account the converse case comes from, open -->
 <!-- inactive-ok-file: THEORY-160 — Proposed; Baez's account of Noether, cited for why the Markov case differs, not as settled -->
 
 # CLAIM-094: A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry
@@ -55,3 +56,14 @@ groups. A Markov kernel has neither. The manuscript's setting is therefore
 the Baez–Fong case, where the mean alone is not enough, and not the
 Hamiltonian case where it would be. This is the record's connection; neither
 paper draws it.
+
+## Note of 2026-10-13: the converse case, in learning dynamics
+
+This claim says that conserving an observable's mean for every initial
+state does not make it a symmetry. The law of balance ([THEORY-211](../theory.d/THEORY-211.md)) gives
+the converse case. Under SGD on a loss with a rescaling symmetry, the
+symmetry holds exactly for every minibatch, yet the quantity it
+conserves under gradient flow, ‖u‖² − ‖w‖², is not conserved even in
+mean: it is driven toward a balanced value. A symmetry of a stochastic
+process need not give even a mean-conserved observable. No typed edge:
+the claim is about the other direction.

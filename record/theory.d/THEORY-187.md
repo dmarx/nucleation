@@ -31,6 +31,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
+<!-- inactive-ok-file: THEORY-211 LIT-1012 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->
 
 # THEORY-187: In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
@@ -111,3 +112,21 @@ the length of the plateaus. [THEORY-039](THEORY-039.md) holds plateaus and trans
 one kind of training phase; here their length depends on the initial scale
 in a way that changes with depth. [THEORY-182](THEORY-182.md)'s sigmoids are the
 one-hidden-layer case for a symmetric factorisation.
+
+## Note of 2026-10-13: the balanced-start condition, under gradient flow and SGD
+
+This account is exact for decoupled, balanced initial weights. Two
+readings filed on 2026-10-13 bear on that condition.
+
+- **Under gradient flow, balance is kept.** The difference of squared
+  norms between adjacent layers is conserved (Neural Mechanics, [LIT-1012](../literature.d/LIT-1012.md),
+  Theorem 1). A balanced start stays balanced, which the exact solution
+  relies on.
+- **Under SGD, balance is approached.** Minibatch noise drives the
+  difference toward balance ([THEORY-211](THEORY-211.md)). For a two-layer linear network,
+  Ziyin et al. find uᵢ² = wᵢ² at stationarity, with probability 1.
+
+So balance is less special under SGD than under gradient flow. But the
+attraction acts over the long run, at stationarity. It does not supply
+balance during the stage-like transitions this account describes, which
+still need the balanced start, or something close to it.

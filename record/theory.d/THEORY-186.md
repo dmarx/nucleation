@@ -41,6 +41,7 @@ summary: >-
 answers:
 - QUESTION-025
 ---
+<!-- inactive-ok-file: THEORY-211 LIT-1012 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-187 — Proposed; accounts this one underlies or is set beside -->
 
 # THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
@@ -119,3 +120,21 @@ than two layers. [THEORY-183](THEORY-183.md)'s Fourier geometry has the ring cas
 precedent. [THEORY-039](THEORY-039.md) gains a derived kind of phase. [THEORY-086](THEORY-086.md) is the
 contrast: in the kernel regime a network fits eigenspace by eigenspace at
 exponential rates, which is this account's shallow case.
+
+## Note of 2026-10-13: the balanced-start condition, under gradient flow and SGD
+
+This account is exact for decoupled, balanced initial weights. Two
+readings filed on 2026-10-13 bear on that condition.
+
+- **Under gradient flow, balance is kept.** The difference of squared
+  norms between adjacent layers is conserved (Neural Mechanics, [LIT-1012](../literature.d/LIT-1012.md),
+  Theorem 1). A balanced start stays balanced, which the exact solution
+  relies on.
+- **Under SGD, balance is approached.** Minibatch noise drives the
+  difference toward balance ([THEORY-211](THEORY-211.md)). For a two-layer linear network,
+  Ziyin et al. find uᵢ² = wᵢ² at stationarity, with probability 1.
+
+So balance is less special under SGD than under gradient flow. But the
+attraction acts over the long run, at stationarity. It does not supply
+balance during the stage-like transitions this account describes, which
+still need the balanced start, or something close to it.

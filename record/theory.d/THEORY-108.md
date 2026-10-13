@@ -46,6 +46,7 @@ summary: >-
 answers:
 - QUESTION-069
 ---
+<!-- inactive-ok-file: THEORY-211 — Proposed; the account whose minimal model has a temperature-driven transition, open -->
 <!-- inactive-ok-file: THEORY-087 THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
 # THEORY-108: Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature
@@ -184,3 +185,15 @@ side: not a better local measure, but a global one.
 ## Note of 2026-10-12: phase III against [THEORY-109](THEORY-109.md)
 
 Phase III bears directly on [THEORY-109](THEORY-109.md), which says the solutions SGD finds lie in one connected low-loss set. Phase III solutions are what training reaches at those settings, and the instrument that finds them poorly connected is the one [THEORY-109](THEORY-109.md)'s evidence uses. A note on [THEORY-109](THEORY-109.md) records the limit. Whether phase III's barrier survives permutation alignment, the check this account's promote_when already asks for, decides whether [THEORY-109](THEORY-109.md) must narrow.
+
+## Note of 2026-10-13: an exactly solved transition in temperature
+
+This account's phase diagram has a temperature-like axis: learning rate,
+batch size or weight decay. Ziyin et al. ([LIT-1013](../literature.d/LIT-1013.md), behind [THEORY-211](THEORY-211.md))
+solve one temperature-driven transition exactly, for a minimal deep
+linear model with temperature T = η/S. Above a critical T_c = β₂/α₃, or
+(β₂ − γ)/α₃ with weight decay, the stationary distribution collapses to
+the zero solution and nothing is learned. Below it the distribution has
+finite spread, which shrinks as T rises. It is a temperature-driven phase
+in an analytically solvable model, not a measurement in the networks
+this account studies. No typed edge.

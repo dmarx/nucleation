@@ -29,6 +29,7 @@ source:
 - LIT-1013
 answers:
 - QUESTION-069
+- QUESTION-080
 summary: >-
   Ziyin, Li & Ueda ([LIT-1012](../literature.d/LIT-1012.md), read in [NOTE-714](../notes.d/NOTE-714.md)), with the gradient
   flow conservation law and the Itô term from Neural Mechanics
@@ -41,6 +42,8 @@ summary: >-
   it is non-ergodic, has a memory of initialization, and collapses to zero
   above a critical temperature. Proposed: the theorem's proof was not
   checked here, and the tests are small synthetic networks.
+supports:
+- CLAIM-093
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-108 QUESTION-080 — Proposed or Open; the accounts and question this one is set beside, open -->
 

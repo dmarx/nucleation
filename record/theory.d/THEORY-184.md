@@ -34,6 +34,7 @@ summary: >-
 answers:
 - QUESTION-058
 ---
+<!-- inactive-ok-file: THEORY-tmppei8o — Proposed; the account of the asymptotic half, filed 2026-10-13, open -->
 
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, named for what this does not settle -->
 
@@ -97,3 +98,16 @@ out.
 - **Anything about the weights within a neuron.** The result constrains
   distances between neurons. It does not constrain how far each one
   travels, or the function the network computes.
+
+## Note of 2026-10-13: the asymptotic half
+
+"What this does not say" leaves open whether neurons merge in the limit.
+Ziyin (2024), [LIT-tmp3ni7o](../literature.d/LIT-tmp3ni7o.md), read in [NOTE-tmpxnmvt](../notes.d/NOTE-tmpxnmvt.md) and filed as
+[THEORY-tmppei8o](THEORY-tmppei8o.md), addresses it. Permutation symmetry implies a mirror
+symmetry. The coincident subspace θ_a = θ_b is a stationary condition, as
+here. Above a threshold weight decay every minimum lies in it, and under
+strong gradient noise SGD is attracted to it even where it is a saddle.
+So, on that account, distinct neurons approach each other asymptotically
+when weight decay or noise is strong, consistent with this result's bound
+that they cannot merge in finitely many small steps. The SGD half rests
+on a second-order, diagonal-Hessian argument.
