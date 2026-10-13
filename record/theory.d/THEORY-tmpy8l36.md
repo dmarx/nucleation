@@ -29,6 +29,8 @@ summary: >-
   mid-event. The evidence is one illustrated output and SSIM curves with no
   persistence baseline. The paper models no participants and does not
   measure anyone's reach.
+supports:
+- CLAIM-tmp4zg6p
 ---
 <!-- inactive-ok-file: THEORY-tmp7w5tq THEORY-tmpbrxww CLAIM-tmpgfyls — Proposed; sister readings of r/place studies and an open claim, cited for context, nothing here rests on them -->
 

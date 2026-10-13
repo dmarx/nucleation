@@ -34,6 +34,7 @@ summary: >-
   lifecycles are ten examples, and nothing here observes plans.
 supports:
 - CLAIM-tmpjhd7t
+- CLAIM-tmp4zg6p
 ---
 <!-- inactive-ok-file: CLAIM-tmpjhd7t CLAIM-tmp2cza3 THEORY-tmp07t7w — Proposed; open claims and a reading of a sister study, cited as what this bears on, nothing here rests on their being settled -->
 

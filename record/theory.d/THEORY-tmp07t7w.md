@@ -34,6 +34,7 @@ summary: >-
   authors' conjecture from SHAP curves; nothing here measures plans.
 supports:
 - CLAIM-tmpjhd7t
+- CLAIM-tmp4zg6p
 ---
 <!-- inactive-ok-file: CLAIM-tmpjhd7t CLAIM-tmpgfyls CLAIM-163 THEORY-069 THEORY-058 — Proposed; open claims and accounts, cited as what this bears on, nothing here rests on their being settled -->
 

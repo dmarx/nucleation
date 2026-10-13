@@ -14,6 +14,7 @@ supports:
 - CLAIM-tmpgfyls
 - CLAIM-tmpjhd7t
 - CLAIM-tmp2cza3
+- CLAIM-tmp4zg6p
 summary: >-
   The owner proposed it at U8 of the 2026-10-13 exchange: "every user can
   modify a single pixel once, and different subreddits coordinated to
