@@ -27,10 +27,13 @@ tags:
 
 date: '2026-01-01'
 
-# REQUIRED: the line of inquiry, from `lines` in luria.yaml. The claims index
-# is grouped by it, and the `argument` chain reports a `rests_on` step that
-# crosses from one line to another (ADR-032).
-line: will-organization
+# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
+# claims index is grouped by it, and the `argument` chain reports a
+# `rests_on` step that crosses from one line to another (ADR-032). A general
+# result that rests on no claim may also hold `formal-apparatus`, so that
+# setting its first line aside does not retire it (ADR-040).
+line:
+- will-organization
 
 # Optional. The manuscript(s) this claim is marshalled into.
 # works:
