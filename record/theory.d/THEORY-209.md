@@ -41,6 +41,7 @@ summary: >-
   of the regime that trained it. Proposed: the deep-learning evidence is
   one network, under assumptions the paper concedes are strained.
 ---
+<!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-tmpvl6ed QUESTION-tmpexxzn — Proposed or Open; readings and a question set beside this account on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-108 — Proposed; the reading whose temperature axis this account interprets, open -->
 
 # THEORY-209: A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
@@ -111,3 +112,30 @@ connectivity, and does not say how two runs' distributions relate.
 - **It does not instruct.** That the loss curve hides this motion, and
   what to do about it, is the anthology's reading ([ANTH-THEORY-031](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-031.md),
   [ANTH-SOTA-270](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-270.md)).
+
+## Note of 2026-10-13: what other readings say about the assumptions and the gap
+
+**On the noise-covariance assumption ([THEORY-085](THEORY-085.md)).** The account needs
+gradient-noise covariance proportional to the Hessian. At a minimum the
+gradient covariance is close to the Fisher. [THEORY-085](THEORY-085.md) (Papyan) reads the
+Fisher's top eigenspace as class outliers built from class means. That
+gives partial support for the assumption in the top eigenspace, and marks
+the limit of the test: the isotropy result projects onto Hessian
+eigenvectors 1 and 30 of a 1000-class ImageNet model, inside that outlier
+structure. The bulk, which the outlier structure leaves out, is untested.
+No typed edge: [THEORY-085](THEORY-085.md) neither grounds nor contradicts the account.
+
+**On the null space ([THEORY-tmpvl6ed](THEORY-tmpvl6ed.md), from [LIT-970](../literature.d/LIT-970.md)).** This account is
+silent on the Hessian's null space, where continuous parameter symmetries
+put the flat directions. [THEORY-tmpvl6ed](THEORY-tmpvl6ed.md) describes what happens there.
+Under gradient flow, position along a symmetry orbit is conserved. Under
+SGD, the results the survey reports find conserved quantities drifting
+toward balance. One of them (Ziyin et al. 2023a) finds a stationary
+distribution "different from predictions from a Langevin model". So the
+two accounts cover complementary halves of the limiting dynamics, and
+may disagree about the null-space half.
+
+**On neural collapse ([QUESTION-tmpexxzn](../questions.d/QUESTION-tmpexxzn.md)).** [THEORY-083](THEORY-083.md)'s terminal-phase
+convergence and this account's perpetual motion are both pictures of the
+end of training. The question of what stays fixed while the parameters
+move is filed as [QUESTION-tmpexxzn](../questions.d/QUESTION-tmpexxzn.md).

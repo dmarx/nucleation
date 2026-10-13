@@ -20,6 +20,8 @@ summary: >-
   for a place in the argument. It bears on [QUESTION-010](QUESTION-010.md) and [CLAIM-164](../claims.d/CLAIM-164.md).
   [THEORY-083](../theory.d/THEORY-083.md), [THEORY-104](../theory.d/THEORY-104.md) and [THEORY-085](../theory.d/THEORY-085.md) answer it in part; the body gives
   each one's limit.
+refined_by:
+- QUESTION-tmpexxzn
 ---
 
 # QUESTION-051: What structure does training for one classification task leave in a network's last layers, and what does that structure cost for decisions and distributions the network was not trained on?
