@@ -1,5 +1,8 @@
 ---
+number: 82
 status: Open
+formerly:
+- QUESTION-tmpuv3u3
 title: 'When a polity is steered by polling, whose reasons do its decisions carry: its members'', its own, or none?'
 version: 1
 tags:
@@ -18,10 +21,10 @@ summary: >-
   procedures, not sampled from its members. What would count as an answer is
   in the body.
 answered_by:
-- CLAIM-tmp09i1b
+- CLAIM-271
 ---
 
-# QUESTION-tmpuv3u3: When a polity is steered by polling, whose reasons do its decisions carry: its members', its own, or none?
+# QUESTION-082: When a polity is steered by polling, whose reasons do its decisions carry: its members', its own, or none?
 
 ## Why it is a question
 
@@ -29,7 +32,7 @@ answered_by:
 expectation of its members' intentions. The owner asked what that implies
 for a politics that steers by polls, and then put the point in terms of
 reasons rather than goods: the whole's reasons need not be its members'
-reasons. [CLAIM-tmp09i1b](../claims.d/CLAIM-tmp09i1b.md) carries that answer as a thesis. The question stays open
+reasons. [CLAIM-271](../claims.d/CLAIM-271.md) carries that answer as a thesis. The question stays open
 because three answers are live and the record cannot yet choose:
 
 - **Its members' reasons.** A poll majority is a sum of members' reasons, and

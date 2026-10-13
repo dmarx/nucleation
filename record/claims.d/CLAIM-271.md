@@ -1,5 +1,8 @@
 ---
+number: 271
 status: Proposed
+formerly:
+- CLAIM-tmp09i1b
 title: 'A collective''s reasons need not be any of its members'' reasons, so aggregating members'' conclusions, as polling does, can yield verdicts the collective''s own reasons do not support'
 version: 1
 role: thesis
@@ -18,7 +21,7 @@ tags:
 date: '2026-10-13'
 line: distributed-agency
 answers:
-- QUESTION-tmpuv3u3
+- QUESTION-082
 rests_on:
 - CLAIM-030
 grounds:
@@ -36,7 +39,7 @@ summary: >-
   members.
 ---
 
-# CLAIM-tmp09i1b: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
+# CLAIM-271: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
 
 ## The claim
 
@@ -85,5 +88,5 @@ reason, and a government that acts on the majority acts on neither.
   institution to fit.
 - It does not say that the discursive dilemma arises often in actual
   polities. [THEORY-127](../theory.d/THEORY-127.md) shows it is possible. How often it happens is the
-  empirical question [QUESTION-tmpuv3u3](../questions.d/QUESTION-tmpuv3u3.md) asks, and the record holds no evidence
+  empirical question [QUESTION-082](../questions.d/QUESTION-082.md) asks, and the record holds no evidence
   on it yet.

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**355 documents cited without acknowledgement.** Not listed: 6377 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**357 documents cited without acknowledgement.** Not listed: 6377 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -634,6 +634,24 @@ Irreversibility and Heat Generation in the Computing Process
 - [`record/theory.d/THEORY-030.md:12`](../../record/theory.d/THEORY-030.md)
 - [`record/theory.d/THEORY-030.md:76`](../../record/theory.d/THEORY-030.md)
 
+### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
+
+A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
+
+11 citations in 5 files await a look; 20 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-030.md:71`](../../record/claims.d/CLAIM-030.md)
+- [`record/claims.d/CLAIM-271.md:62`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:31`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:46`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:51`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-070.md:53`](../../record/questions.d/QUESTION-070.md)
+- [`record/questions.d/QUESTION-070.md:67`](../../record/questions.d/QUESTION-070.md)
+- [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:44`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:47`](../../record/questions.d/QUESTION-082.md)
+
 ### [LIT-276](../../record/literature.d/LIT-276.md) — Rejected
 
 Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
@@ -1090,19 +1108,19 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
 
-### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
+### [THEORY-127](../../record/theory.d/THEORY-127.md) — Proposed
 
-A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
+A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
 
-7 citations in 3 files await a look; 20 other citations of it are acknowledged.
+7 citations in 3 files await a look; 23 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-030.md:70`](../../record/claims.d/CLAIM-030.md)
-- [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:31`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:46`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:51`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-070.md:53`](../../record/questions.d/QUESTION-070.md)
-- [`record/questions.d/QUESTION-070.md:67`](../../record/questions.d/QUESTION-070.md)
+- [`record/claims.d/CLAIM-192.md:59`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-271.md:15`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:35`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:56`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:90`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-082.md:18`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:46`](../../record/questions.d/QUESTION-082.md)
 
 ### [CLAIM-044](../../record/claims.d/CLAIM-044.md) — Proposed
 
@@ -1749,6 +1767,28 @@ Consciousness began as hedonic valence, which evolved as a common currency for t
 - [`record/questions.d/QUESTION-059.md:37`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:41`](../../record/questions.d/QUESTION-059.md)
 
+### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
+
+A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
+
+4 citations in 3 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-271.md:62`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-009.md:42`](../../record/questions.d/QUESTION-009.md)
+- [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:43`](../../record/questions.d/QUESTION-082.md)
+
+### [THEORY-137](../../record/theory.d/THEORY-137.md) — Proposed
+
+Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds
+
+4 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-271.md:86`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-049.md:19`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:34`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:47`](../../record/questions.d/QUESTION-049.md)
+
 ### [THEORY-153](../../record/theory.d/THEORY-153.md) — Proposed
 
 A system can keep its identity independently within a shared environment only if it has five interacting subsystems, the first made of elements that are themselves viable systems, so that the structure recurs at every level of recursion; when one is missing or fails, the system degrades in characteristic ways, and without the subsystem for foresight the subsystems for operational control and for identity collapse into each other, leaving a system that can only react
@@ -2041,16 +2081,6 @@ Coral bleaching is the breakdown of a regulated host–symbiont exchange, reache
 - [`record/notes.d/NOTE-656.md:205`](../../record/notes.d/NOTE-656.md)
 - [`record/questions.d/QUESTION-063.md:20`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:37`](../../record/questions.d/QUESTION-063.md)
-
-### [THEORY-137](../../record/theory.d/THEORY-137.md) — Proposed
-
-Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds
-
-3 citations in 1 file await a look; 4 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-049.md:19`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:34`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:47`](../../record/questions.d/QUESTION-049.md)
 
 ### [THEORY-210](../../record/theory.d/THEORY-210.md) — Proposed
 
@@ -3269,6 +3299,14 @@ Retaining information about where a Markov chain started and staying close to th
 
 - [`record/decisions.d/ADR-040.md:187`](../../record/decisions.d/ADR-040.md)
 
+### [CLAIM-271](../../record/claims.d/CLAIM-271.md) — Proposed
+
+A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
+
+1 citation in 1 file awaits a look.
+
+- [`record/questions.d/QUESTION-082.md:35`](../../record/questions.d/QUESTION-082.md)
+
 ### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
 
 Rigorous renormalization group
@@ -3821,22 +3859,6 @@ In small work groups a member's displayed mood spreads to the others, and the mo
 
 - [`record/questions.d/QUESTION-053.md:56`](../../record/questions.d/QUESTION-053.md)
 
-### [THEORY-127](../../record/theory.d/THEORY-127.md) — Proposed
-
-A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
-
-1 citation in 1 file awaits a look; 23 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-192.md:59`](../../record/claims.d/CLAIM-192.md)
-
-### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
-
-A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
-
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-009.md:42`](../../record/questions.d/QUESTION-009.md)
-
 ### [THEORY-135](../../record/theory.d/THEORY-135.md) — Proposed
 
 Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters
@@ -3876,6 +3898,14 @@ Iterated learning by Bayesian agents who sample from the posterior converges to 
 1 citation in 1 file awaits a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-066.md:43`](../../record/claims.d/CLAIM-066.md)
+
+### [THEORY-166](../../record/theory.d/THEORY-166.md) — Proposed
+
+Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability
+
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-082.md:51`](../../record/questions.d/QUESTION-082.md)
 
 ### [THEORY-178](../../record/theory.d/THEORY-178.md) — Proposed
 
