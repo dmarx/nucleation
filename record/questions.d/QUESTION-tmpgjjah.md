@@ -15,8 +15,10 @@ summary: >-
   keeps it. A recursively self-maintaining one switches among ways of
   keeping itself going. An answer says which rung an artwork reaches, by a
   test that could fail on the placement and forum records.
+answered_by:
+- CLAIM-tmp6phbn
 ---
-<!-- inactive-ok-file: CLAIM-tmp4zg6p THEORY-072 THEORY-tmpidvlt THEORY-tmp07t7w THEORY-tmp7w5tq THEORY-tmpbrxww CLAIM-194 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp6phbn CLAIM-tmp4zg6p THEORY-072 THEORY-tmpidvlt THEORY-tmp07t7w THEORY-tmp7w5tq THEORY-tmpbrxww CLAIM-194 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpgjjah: Does a maintained r/place artwork feed back into the flow of repair that keeps it, so that it is self-maintaining like a candle flame, or is its defence supplied from outside like the heat under a convection cell, and does the answer change when its coalition starts switching strategies?
 
@@ -60,3 +62,16 @@ artwork and a twin held up by an outside crew would behave alike until the
 crew is withdrawn. [CLAIM-194](../claims.d/CLAIM-194.md)'s warning applies to drawing the artwork's
 boundary: the coupling between image and placers does not by itself say
 whose boundary it is.
+
+## Note of 2026-10-13: two routes of feedback, one observed
+
+The owner proposed selective retention: participants stay while their art
+survives, so surviving art keeps its maintainers ([CLAIM-tmp6phbn](../claims.d/CLAIM-tmp6phbn.md), which
+answers this question in part, untested). The readings already show the
+other route, recruitment. The Mona Lisa group wrote its forum's URL on the
+canvas, and within two hours newcomers said they had come because of it
+([THEORY-tmpbrxww](../theory.d/THEORY-tmpbrxww.md)). Both are the image acting on the flow that keeps it,
+which is the flame's rung, not the convection cell's. The test above now has
+two parts: recruitment after visible growth or damage, and retention as a
+function of the survival of one's own pixels.
+

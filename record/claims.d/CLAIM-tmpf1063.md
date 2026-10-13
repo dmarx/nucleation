@@ -21,6 +21,7 @@ line:
 - distributed-agency
 complements:
 - CLAIM-tmppy0ey
+- CLAIM-tmp6phbn
 summary: >-
   The owner's objection at U5 to A4's call to keep "persistent authority
   structures" distinct from "transient endorsement updates": "I'd expect
