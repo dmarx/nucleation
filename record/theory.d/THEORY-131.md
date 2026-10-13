@@ -31,6 +31,8 @@ summary: >-
   test.
 answers:
 - QUESTION-009
+supports:
+- CLAIM-tmp09i1b
 ---
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for comparison -->
