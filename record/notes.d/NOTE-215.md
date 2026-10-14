@@ -1,16 +1,23 @@
 ---
 number: 215
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpm9f7j
 paper: LIT-237
+superseded_by:
+- NOTE-tmp5cyxp
 title: 'Bra–ket notation (Wikipedia)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp5cyxp, a full reading of the work filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Dirac's bra–ket notation writes vectors as kets and continuous linear functionals as bras, and on a Hilbert space the Riesz representation theorem is what licenses treating every bra as the conjugate of a ket, so that ⟨φ|ψ⟩ is at once a functional applied to a vector and an inner product.
 ---
-<!-- inactive-ok-file: LIT-237 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-215: Bra–ket notation (Wikipedia)
 

@@ -1,16 +1,23 @@
 ---
 number: 206
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpaqx17
 paper: LIT-243
+superseded_by:
+- NOTE-tmp4c5up
 title: 'Adler — Hilbert spaces and the Riesz representation theorem'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp4c5up, a full reading of the work filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Every continuous linear functional on a Hilbert space is the inner product with a unique vector of equal norm, and the representer can be written explicitly as the sum of φ(e_k)e_k over any orthonormal basis, which in turn yields the Radon–Nikodym theorem.
 ---
-<!-- inactive-ok-file: LIT-243 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-206: Adler — Hilbert spaces and the Riesz representation theorem
 
