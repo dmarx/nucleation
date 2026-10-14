@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptsdgt
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-11'
@@ -40,14 +40,24 @@ history:
     so an observational direction test needs an intervention. The claim
     is otherwise unchanged; the defeated_if is met trivially by any
     complete micro simulation and is left for rewording.
+- version: 6
+  date: '2026-10-14'
+  note: >-
+    defeated_if reworded at the owner's request. As written it was met by
+    any complete micro simulation, since LIT-989's authors note that the
+    higher-level agent is in none of their equations of motion
+    (NOTE-tmp9ypte). The defeater now requires that a decomposed model no
+    more complex than the relative-phase model predict as well, so the
+    collective variable must buy no descriptive economy.
 role: thesis
 defeated_if: >-
-  A mutually entrained pair whose collective variable can be eliminated
-  from the explanation. A model of each side, taking the other as an
-  input, would then predict every perturbation response, critical
-  fluctuations and switch included, as well as a model of the pair
-  whose state is relative phase. A pair like that is two systems
-  driving each other, whatever their timing does.
+  A mutually entrained pair whose collective variable buys no descriptive
+  economy: a model of each side, taking the other as an input and no more
+  complex than the pair model whose state is relative phase, predicts
+  every perturbation response, critical fluctuations and switch included,
+  as well. A pair like that is two systems driving each other, whatever
+  their timing does. That a complete micro-level model predicts everything
+  does not count.
 tags:
 - self
 - embodied-cognition
