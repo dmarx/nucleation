@@ -40,7 +40,7 @@ summary: >-
   initial weights with white inputs; random initialisation is simulated.
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this reading produced -->
-<!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-004 THEORY-002 THEORY-019 — Proposed; accounts this reading bears on -->
+<!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-002 THEORY-019 — Proposed; accounts this reading bears on -->
 
 # NOTE-666: A mathematical theory of semantic development in deep neural networks
 

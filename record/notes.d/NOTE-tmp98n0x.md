@@ -24,7 +24,7 @@ summary: >-
   when the state is pure. The article says nothing about kernels.
 ---
 <!-- inactive-ok-file: NOTE-204 — Superseded; the seeded skim this reading replaces -->
-<!-- inactive-ok-file: THEORY-004 THEORY-017 — Proposed; the two accounts that cite this article, named for what it supports -->
+<!-- inactive-ok-file: THEORY-017 — Proposed; the two accounts that cite this article, named for what it supports -->
 
 # NOTE-tmp98n0x: Gelfand–Naimark–Segal construction (Wikipedia)
 

@@ -40,7 +40,7 @@ supports:
 - CLAIM-126
 - CLAIM-082
 ---
-<!-- inactive-ok-file: THEORY-004 THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
+<!-- inactive-ok-file: THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
 
 # THEORY-175: Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ
 

@@ -1,21 +1,10 @@
 ---
 number: 4
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpcawyi
-promote_when: >-
-  A close reading of Harvey, Larsen & Williams's Thm 1 proof (App. A.2) and of
-  Jorgensen & Tian's Cor. 1.35, which the book leaves partly as an exercise.
-  The first half is done: NOTE-753 read the proof of Lemma 2 in App.
-  A.2, from which Thm 1 follows, and found it correct. What remains is the
-  close reading of Jorgensen & Tian (LIT-259), which this record has so far
-  only skimmed. As of 2026-10-14 (NOTE-tmp8nk93) the close reading is done,
-  but the book does not confirm Cor. 1.35: its proof is left entirely as an
-  exercise. The uniqueness does follow from the book's proved argument for
-  Thm 4.35, transferred, which the NOTE writes out. Whether that meets the
-  clause is an open call for the owner; the status stays Proposed.
 title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -54,6 +43,25 @@ history:
   date: '2026-10-14'
   note: >-
     The citation of the GNS article (LIT-241, read in NOTE-tmp98n0x) narrowed to the C*-algebraic statement; the kernel form rests on LIT-259 alone.
+- version: 6
+  date: '2026-10-14'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction. Both clauses
+    of promote_when are met. The Harvey, Larsen & Williams clause: NOTE-753
+    (LIT-250, Read) read the proof of Lemma 2 in App. A.2, from which Thm 1
+    follows, and found it correct. The Jorgensen & Tian clause: NOTE-tmp8nk93
+    (LIT-259) read Remark 1.34 and Cor. 1.35 closely, and the book leaves
+    the corollary's proof entirely as an exercise, so the confirmation is
+    the record's own. The NOTE supplies the uniqueness argument, the book's
+    proved argument for Thm 4.35 transferred: U defined on finite sums by
+    Σc_xΦ₁(x) ↦ Σc_xΦ₂(x) preserves norms because both equal Σc̄_xc_yϕ(x,y),
+    so it is well defined and isometric, extends to H₁ by minimality, and
+    is onto because its range is closed and contains the dense span of the
+    Φ₂(x). Checked again for this promotion; the argument is unchanged over
+    real scalars. The body's caveat stands: applying the corollary to
+    representation matrices whose rows do not span R^d needs the isometry
+    extended across the complement, which LIT-250 §5.3 states as known.
+    The promote_when is removed. The claim is unchanged.
 tags:
 - representation-learning
 - mathematics

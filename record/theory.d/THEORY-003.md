@@ -1,19 +1,10 @@
 ---
 number: 3
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8uwye
-promote_when: >-
-  A close reading of Li et al. App. B.2 and of Muandet et al. Lemma 3.1
-  confirming the identity and the lemma with their integrability conditions.
-  Both are proved in the sources; this record has so far only skimmed them.
-  Both halves look met as of 2026-10-14: NOTE-tmp9jxqd confirms the B.2
-  identity, with the constant N/Δ_l and, for the bounded kernels the paper
-  uses, the integrability condition through Lemma 3.1; NOTE-tmpgvy79
-  confirms Lemma 3.1 with its condition E_P√k(X,X) < ∞. Promotion is the
-  owner's call.
 title: 'Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images'' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -26,6 +17,19 @@ history:
     records that both halves now look met; the status is unchanged, for
     the owner. THEORY-tmpijp65 cited in Connections. The Deferred comments
     on LIT-248 and LIT-260 removed.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction. Both clauses
+    of promote_when are met by Read NOTEs. The Li et al. clause: NOTE-tmp9jxqd
+    (LIT-248, read in full) confirms the App. B.2 identity,
+    (1/2N²)Σ_ij MMD²(i,j) = (N/Δ_l)·HSIC(Z,Y), as an exact derivation under
+    Theorem A.1's setting; the paper states no integrability condition, and
+    for the bounded kernels it uses the condition holds through Lemma 3.1,
+    since E√k(X,X) ≤ √k_max. The Muandet et al. clause: NOTE-tmpgvy79
+    (LIT-260, chs. 2–3 read closely) confirms Lemma 3.1, proved in the
+    review, with its condition E_P√k(X,X) < ∞. The promote_when is removed.
+    The claim is unchanged.
 tags:
 - representation-learning
 - mathematics

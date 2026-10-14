@@ -37,7 +37,7 @@ summary: >-
   envelope. The result is finite-dimensional and linear; the infinite
   limits are heuristic.
 ---
-<!-- inactive-ok-file: THEORY-002 THEORY-004 THEORY-008 CLAIM-193 — Proposed; the theories and claim this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-002 THEORY-008 CLAIM-193 — Proposed; the theories and claim this reading bears on, open -->
 
 # NOTE-753: Harvey, Larsen & Williams — Duality of Bures and Shape Distances
 
