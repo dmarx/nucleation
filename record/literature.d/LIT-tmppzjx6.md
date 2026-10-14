@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'unread, registered 2026-10-14 for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md) from Crossref metadata and the standard statement of its result. No attempt to read it is recorded.'
+status: Active
+status_note: 'read 2026-10-14 ([NOTE-tmp4oub5](../notes.d/NOTE-tmp4oub5.md)) in full, from a 2002 journal-submission draft, not the JCSS text; worth reading as the proof that a Johnson–Lindenstrauss embedding needs concentration, not spherical symmetry: independent ±1 entries, or √3·{+1, 0, −1} with probabilities 1/6, 2/3, 1/6, give k₀ = (4 + 2β)/(ε²/2 − ε³/3) · log n, the best Gaussian bound, by showing the all-equal vector is the worst case and its moments are dominated by the Gaussian ones. Read it knowing that the draft omits the proof of the sparse case of Lemma 6.3, that 2/3 zeros is stated without proof as the most that lemma allows, and that its ensembles are signed and zero-mean, which the fly''s {0, 1} matrix is not.'
 title: 'Database-friendly random projections: Johnson-Lindenstrauss with binary coins'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -10,6 +10,23 @@ history:
     Filed, not read, at the owner's request after a survey found the record
     meets random projections from three directions without holding the
     result they share. Citation checked against Crossref on 2026-10-14. Not held in the Anthology of the SOTA: a grep of its record/ (clone at commit d1573d2) for the title, the identifier and the result's name found nothing. Crossref gives June 2003 and no day, so `published:` is the first of the month; an earlier version appeared at PODS 2001.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Read in full (NOTE-tmp4oub5) from a 15-page manuscript, "Database-friendly
+    Random Projections", hosted at
+    infolab.usc.edu/csci599/Fall2002/paper/DR3_jl.pdf, because the Elsevier
+    copy of the JCSS text returned 403. The copy is set in the Academic
+    Press journal template (PDF created 3 April 2002), has no subtitle and
+    no journal details, and omits the proof of the sparse case of Lemma
+    6.3; it is a journal draft between PODS 2001 and JCSS 2003, and the
+    reading is of it. Theorem numbers below are the draft's. The
+    bibliography fields are kept from Crossref, since the draft can
+    neither confirm nor contradict them. The status moved from Deferred to
+    Active; the summary and takeaways are rewritten from the reading;
+    Standing in the record names the NOTE and corrects the claim that the
+    paper's ensembles are the fly's and SDM's. Keywords from the paper's
+    own terms were added.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -22,12 +39,20 @@ keywords:
 - 'sparse projection'
 - 'binary coins'
 - 'databases'
+- 'JL-embedding'
+- 'spherical symmetry'
+- 'moment generating function'
 extends:
 - LIT-tmp7skui
 implementations: []
 summary: >-
-  Achlioptas (2003), *Journal of Computer and System Sciences* 66(4): 671–687. The Johnson–Lindenstrauss guarantee holds, with no loss in dimension, when the projection's entries are ±1 at random, or are 0 with probability 2/3 and ±√3 otherwise. Unread.
+  Achlioptas (2003), *Journal of Computer and System Sciences* 66(4): 671–687. A random projection E = (1/√k)AR keeps
+  all pairwise squared distances of n points within 1 ± ε with probability at least 1 − n^−β when
+  k ≥ (4 + 2β)/(ε²/2 − ε³/3) · log n and R's entries are independent ±1, or √3 × {+1, 0, −1} with probabilities 1/6,
+  2/3, 1/6. That k₀ equals the best bound for Gaussian projections. The proof shows the all-equal unit vector has the
+  largest even moments of its projection, and that these are at most the Gaussian ones.
 ---
+<!-- inactive-ok-file: LIT-tmpokc0j — Unavailable; the fly paper, named for what this reading says about it -->
 
 # LIT-tmppzjx6: Database-friendly random projections: Johnson-Lindenstrauss with binary coins
 
@@ -35,19 +60,49 @@ Dimitris Achlioptas (2003), "Database-friendly random projections: Johnson-Linde
 
 ## Key takeaways
 
-*Unread. From the result as it is standardly stated, to be checked against the text.*
+*From the reading, [NOTE-tmp4oub5](../notes.d/NOTE-tmp4oub5.md), of a 2002 journal draft; theorem numbers are the draft's.*
 
-- **No Gaussians needed.** Entries drawn uniformly from {−1, +1}, or
-  from {−√3, 0, +√3} with probabilities 1/6, 2/3, 1/6, give the same
-  guarantee as a Gaussian matrix, with k₀ = (4 + 2β)/(ε²/2 − ε³/3) · log n
-  for success with probability 1 − n^−β.
-- **Sparse is enough.** The second distribution zeroes two thirds of the
-  matrix, so the projection costs a third of the additions.
+- **Theorem 1.1.** For ε, β > 0 and k ≥ k₀ = (4 + 2β)/(ε²/2 − ε³/3) ·
+  log n, with r_ij = ±1 each with probability 1/2, or r_ij = √3 × {+1, 0,
+  −1} with probabilities 1/6, 2/3, 1/6, the map to the rows of
+  E = (1/√k)AR satisfies (1 − ε)‖u − v‖² ≤ ‖f(u) − f(v)‖² ≤ (1 + ε)‖u −
+  v‖² for all pairs with probability at least 1 − n^−β.
+- **No loss against Gaussians (§2, Lemma 4.1).** The k₀ is "exactly the
+  same" as Dasgupta and Gupta's Gaussian bound. For each fixed d both
+  tail bounds are strict, so the bound is marginally better; the paper
+  does not say by how much.
+- **Concentration, not symmetry (§3, Eq. 3).** Any independent entries
+  with mean 0 and variance 1 make ‖f(α)‖² unbiased. A JL embedding then
+  needs only Pr[(1 − ε)‖α‖² ≤ ‖f(α)‖² ≤ (1 + ε)‖α‖²] ≥ 1 − 2/n^{2+β} per
+  vector, and a union bound over the pairs.
+- **Each tail < exp(−(k/2)(ε²/2 − ε³/3)) (Lemma 5.1),** from
+  E exp(hQ²) ≤ 1/√(1 − 2h/d) for h ∈ [0, d/2) and E Q⁴ ≤ 3/d² (Lemma 5.2).
+- **The worst vector is (1, …, 1)/√d (Lemma 6.1),** and its projection's
+  even moments are at most those of N(0, 1/d) (Lemma 6.2).
+- **The sparse case is limited.** It zeroes 2/3 of the matrix and gives a
+  threefold speedup, "a third of all attributes" per coordinate. The paper
+  states without proof that more than 2/3 zeros breaks its Lemma 6.3. The
+  draft omits that lemma's proof for the sparse case.
+- **Database recipe (§1.1).** Each new attribute is a difference of two
+  sums over a random partition of the kept attributes, so the projection
+  is one SQL aggregate per coordinate. No implementation is reported.
 
 ## Standing in the record
 
-Filed on 2026-10-14 with [LIT-tmp7skui](LIT-tmp7skui.md) for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md). It is the
-step from a rotation to a sparse random matrix of small integers, which is
-the form random projections take in the fly olfactory circuit ([LIT-tmpokc0j](LIT-tmpokc0j.md))
-and in sparse distributed memory ([NOTE-242](../notes.d/NOTE-242.md)), so it bears on whether
-those are the same object as the lemma.
+Filed on 2026-10-14 with [LIT-tmp7skui](LIT-tmp7skui.md) for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md), and
+read the same day in [NOTE-tmp4oub5](../notes.d/NOTE-tmp4oub5.md). Its step is from a spherically random
+projection to independent zero-mean, unit-variance entries with
+sub-Gaussian moments. For the question it is the cleanest case of a
+threshold that is the log of a family's size over a squared tolerance: one
+fixed vector's tail, then a union bound over the (n choose 2) pairs.
+
+The filing said it is the step to "a sparse random matrix of small
+integers, which is the form random projections take in the fly olfactory
+circuit ([LIT-tmpokc0j](LIT-tmpokc0j.md)) and in sparse distributed memory ([NOTE-242](../notes.d/NOTE-242.md))". The
+reading corrects that. Its sparse ensemble is signed, mean zero and only
+2/3 zeros, the most its lemma allows. The fly's matrix is {0, 1},
+nonnegative and sparser, so the theorem does not cover it. SDM's address
+matrix is dense ±1, the paper's first ensemble, but SDM keeps a thresholded
+neighbourhood, about which the paper says nothing. The paper bears on the
+question's first thread, and on the third only by marking what the fly and
+SDM would need beyond it.

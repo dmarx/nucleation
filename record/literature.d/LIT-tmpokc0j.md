@@ -66,7 +66,9 @@ Sanjoy Dasgupta, Charles F. Stevens and Saket Navlakha (2017), "A neural algorit
 Filed on 2026-10-14 for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md). The record mentions random
 projections into the mushroom body twice in passing ([NOTE-670](../notes.d/NOTE-670.md), [NOTE-165](../notes.d/NOTE-165.md)),
 and neither note cites this paper. This is the paper that makes the circuit
-an algorithm. Its circuit is also very close to the neuron view of sparse
-distributed memory ([NOTE-242](../notes.d/NOTE-242.md), [NOTE-779](../notes.d/NOTE-779.md)). `neuroscience` comes first
+an algorithm. Like the neuron view of sparse distributed memory, it
+expands and then thresholds, though SDM's addresses are dense ±1 and the
+fly's projection is a sparse {0, 1} matrix, outside Achlioptas's ensembles
+([NOTE-tmp4oub5](../notes.d/NOTE-tmp4oub5.md); [NOTE-242](../notes.d/NOTE-242.md), [NOTE-779](../notes.d/NOTE-779.md)). `neuroscience` comes first
 because the subject is a circuit; `information-retrieval` is for the
 nearest-neighbour search it is evaluated on.

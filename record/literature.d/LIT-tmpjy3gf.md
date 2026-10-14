@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'unread, registered 2026-10-14 for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md) from Crossref metadata and the standard statement of its result. No attempt to read it is recorded.'
+status: Active
+status_note: 'read 2026-10-14 ([NOTE-tmpve6z2](../notes.d/NOTE-tmpve6z2.md)) in full; worth reading as the shortest complete proof of the Johnson–Lindenstrauss lemma with an explicit dimension, k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n, and as a case in which that dimension is visibly the log of the number of pairs, about n², over a squared tolerance. Read it knowing that its map is a scaled projection onto a random subspace, not a Gaussian or ±1 matrix, which §3 only describes; that it keeps squared distances; that one draw succeeds with probability only 1/n; and that it treats k < d only, so it says nothing about maps that raise dimension.'
 title: 'An elementary proof of a theorem of Johnson and Lindenstrauss'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -10,6 +10,24 @@ history:
     Filed, not read, at the owner's request after a survey found the record
     meets random projections from three directions without holding the
     result they share. Citation checked against Crossref on 2026-10-14. Not held in the Anthology of the SOTA: a grep of its record/ (clone at commit d1573d2) for the title, the identifier and the result's name found nothing.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Read in full (NOTE-tmpve6z2) from the author-posted PDF on Sanjoy
+    Dasgupta's UCSD page, cseweb.ucsd.edu/~dasgupta/papers/jl.pdf, which
+    is the journal version as typeset by Wiley (Random Struct. Alg. 22:
+    60–65, DOI printed), not a preprint: the abstract, §§1–3 and the
+    references. The abstract-based takeaways are replaced with the
+    reading, the summary is rewritten from it and drops the χ² wording,
+    which the paper does not use, and the status moved from Deferred to
+    Active. The keyword "Gaussian random matrix" is replaced with "random
+    subspace projection", because the paper's map is a projection onto a
+    random subspace and the Gaussian matrix is Indyk and Motwani's
+    construction; "union bound" is added. Standing in the record is
+    corrected on the Baraniuk et al. step and names the NOTE. The copy's
+    own citation line reads "22: 60–65, 2002" beside "© 2003", and it
+    prints no issue number; the 2003 date and issue 1 are kept from
+    Crossref.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -19,13 +37,14 @@ first_author: 'Dasgupta'
 keywords:
 - 'Johnson-Lindenstrauss lemma'
 - 'random projection'
-- 'Gaussian random matrix'
+- 'random subspace projection'
 - 'concentration'
+- 'union bound'
 extends:
 - LIT-tmp7skui
 implementations: []
 summary: >-
-  Dasgupta & Gupta (2003), *Random Structures & Algorithms* 22(1): 60–65. A short proof of the Johnson–Lindenstrauss lemma from moment-generating-function bounds on a χ² variable, giving k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n. Unread.
+  Dasgupta & Gupta (2003), *Random Structures & Algorithms* 22(1): 60–65. For n points in ℝᵈ and 0 < ε < 1, projecting onto a random k-dimensional subspace and scaling by √(d/k) keeps every squared pairwise distance within 1 ± ε with probability at least 1/n once k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n (Theorem 2.1). Each tail of a random unit vector's squared length in k coordinates is at most exp((k/2)(1 − β + ln β)) (Lemma 2.2), proved by Markov's inequality on an exponential of Gaussian squares; a union bound over the pairs finishes it.
 ---
 
 # LIT-tmpjy3gf: An elementary proof of a theorem of Johnson and Lindenstrauss
@@ -34,17 +53,53 @@ Sanjoy Dasgupta and Anupam Gupta (2003), "An elementary proof of a theorem of Jo
 
 ## Key takeaways
 
-*Unread. From the result as it is standardly stated, to be checked against the text.*
+*From the reading, [NOTE-tmpve6z2](../notes.d/NOTE-tmpve6z2.md).*
 
-- **Elementary.** The proof needs only the length of a random unit vector's
-  projection onto k coordinates, bounded by Chernoff-style estimates on a
-  χ²-type variable; no measure concentration on the sphere is cited.
-- **Explicit constant.** k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n suffices, and the map
-  succeeds with probability at least 1/n, so repeating finds one quickly.
+- **Theorem 2.1.** For any 0 < ε < 1 and integer n, if
+  k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n, then any n points V ⊂ ℝᵈ have a map
+  f : ℝᵈ → ℝᵏ with (1 − ε)‖u − v‖² ≤ ‖f(u) − f(v)‖² ≤ (1 + ε)‖u − v‖²
+  for all u, v ∈ V, found in randomized polynomial time.
+- **The map.** Projection onto a random k-dimensional subspace, scaled by
+  √(d/k). Gaussians are used only to sample a uniform unit vector in the
+  analysis. If d ≤ k the theorem is called trivial.
+- **Lemma 2.2.** For k < d and L the squared length of the first k
+  coordinates of a uniform unit vector, Pr[L ≤ βk/d] for β < 1 and
+  Pr[L ≥ βk/d] for β > 1 are each at most
+  β^{k/2}(1 + (1 − β)k/(d − k))^{(d−k)/2} ≤ exp((k/2)(1 − β + ln β)).
+- **The proof.** Markov's inequality on
+  exp{t(kβ Σ_{i≤d}Xᵢ² − d Σ_{i≤k}Xᵢ²)}, with E[e^{sX²}] = 1/√(1 − 2s),
+  optimized at t₀ = (1 − β)/(2β(d − kβ)). The paper does not call the
+  variable χ².
+- **Where the constant comes from.** The lower tail is at most
+  exp(−kε²/4) and the upper tail at most exp(−k(ε²/2 − ε³/3)/2); the
+  upper tail sets (2.1). Each pair fails with probability at most 2/n², so
+  over C(n, 2) pairs the map works with probability at least 1/n, and
+  O(n) repetitions give a constant.
+- **Context the paper gives.** Frankl and Maehara needed
+  k = 9(ε² − 2ε³/3)⁻¹ ln n + 1. Indyk–Motwani's Gaussian matrix needs k
+  larger by roughly O(log log n); Achlioptas's ±1 matrix gets the same k
+  as Theorem 2.1. Alon's Ω(log n/(ε² log 1/ε)) makes the result
+  "essentially tight". These are reported, not proved.
 
 ## Standing in the record
 
-Filed on 2026-10-14 with [LIT-tmp7skui](LIT-tmp7skui.md) for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md). It is the
-version of the proof most later work quotes, and its concentration step is
-the one Baraniuk et al. ([LIT-tmpcfdvm](LIT-tmpcfdvm.md)) turn into the restricted isometry
-property.
+Filed on 2026-10-14 with [LIT-tmp7skui](LIT-tmp7skui.md) for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md), and read
+the same day in [NOTE-tmpve6z2](../notes.d/NOTE-tmpve6z2.md). It gives the lemma's explicit
+dimension, and its proof shows the shape the question proposes: a
+per-pair tail exponentially small in k, and a union bound over a family of
+about n² pairs, so k is about 2 ln(n²) over a squared tolerance.
+
+The registration said its concentration step is "the one Baraniuk et al.
+([LIT-tmpcfdvm](LIT-tmpcfdvm.md)) turn into the restricted isometry property". The
+reading makes that imprecise. This paper's step is for a projection onto
+a random subspace. The independent-entry matrices a RIP proof works with
+are the constructions it credits to Indyk and Motwani and to Achlioptas
+([LIT-tmppzjx6](LIT-tmppzjx6.md)). Whether Baraniuk et al. use this paper's exponent is
+for their reading. The registration also called it "the version of the
+proof most later work quotes"; the text cannot confirm that.
+
+For the question's other threads, it treats k < d only and says nothing
+about expand-and-threshold maps, and nothing about random features. The
+tightness it reports is Alon's, short of ε⁻² log n by log(1/ε); full
+tightness is [LIT-tmp8s1wj](LIT-tmp8s1wj.md)'s claim. It carries no instruction for
+machine-learning practice and belongs here.
