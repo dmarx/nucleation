@@ -1,16 +1,23 @@
 ---
 number: 202
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmp8jvr3
 paper: LIT-239
+superseded_by:
+- NOTE-tmpjcfop
 title: 'Kolmogorov''s structure functions and model selection'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpjcfop, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   The structure function of a single data string determines all of its stochastic properties: within any complexity-constrained model class it picks out the best-fitting model with certainty. Every admissible shape of that function occurs for some data, and neither it nor the minimal sufficient statistic is computable.
 ---
-<!-- inactive-ok-file: LIT-239 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-202: Kolmogorov's structure functions and model selection
 
