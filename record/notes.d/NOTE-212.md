@@ -1,16 +1,24 @@
 ---
 number: 212
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmplaa8p
 paper: LIT-229
+superseded_by:
+- NOTE-tmpjp0xd
 title: 'Meaningful information (sophistication)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpjp0xd, a full reading of the paper filed on
+    2026-10-14. This skim is kept as the record of what was known before
+    it.
 date: '2026-09-26'
 summary: >-
   With total recursive functions as the model class, the algorithmic minimal sufficient statistic ("sophistication") is a non-trivial measure of meaningful information. It matches the finite-set and probability-model versions up to additive terms, some objects are entirely meaningful with no residual randomness, and it is not computable.
 ---
-<!-- inactive-ok-file: LIT-229 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-212: Meaningful information (sophistication)
 
