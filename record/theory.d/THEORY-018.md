@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmp053xo
 title: 'Softmax training identifies a language model''s final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch''s causal inner product is fixed by a stipulation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the close reading NOTE-tmp6dvmv (LIT-253). The cross-reference
+    "LIT-253 starts from the same symmetry" was confirmed. The paper is
+    added as a further instance of the thesis: to compare models invariantly
+    under that symmetry it moves to log-odds coordinates against a pivot
+    label, and picks the pivot, left-out label and input set to minimize the
+    distance (Thm 4.7, App. E.3). LIT-253 added to the sources.
 tags:
 - representation-learning
 - mathematics
@@ -12,6 +22,7 @@ date: '2026-09-30'
 source:
 - LIT-304
 - LIT-323
+- LIT-253
 extends:
 - THEORY-017
 summary: >-
@@ -33,6 +44,7 @@ supports:
 
 - Park, Choe & Veitch (2023), [LIT-304](../literature.d/LIT-304.md): §3 (eq. 3.1), Def. 3.1, Thms 3.2 and 3.4, §3.2 and App. D.2, as read in [NOTE-302](../notes.d/NOTE-302.md).
 - Supporting: Elhage et al. (2022), [LIT-323](../literature.d/LIT-323.md), as read in [NOTE-278](../notes.d/NOTE-278.md), for the superposition limit.
+- Supporting: Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Defs. 4.5–4.6, Thm 4.7 and App. E.3, as read in [NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md), for a further instance of the same choice.
 
 ## What was actually shown
 
@@ -96,6 +108,16 @@ judgements and a stipulation.
 
 ## Connections
 
-[LIT-253](../literature.d/LIT-253.md) (Nielsen et al.) starts from the same symmetry. Engels et al.'s
+[LIT-253](../literature.d/LIT-253.md) (Nielsen et al.) starts from the same symmetry. It is also a further instance of
+this theory's thesis. To compare models in a way invariant to that
+symmetry, the authors move to the identified coordinates Lᵀf(x), the
+log-odds of each label against a pivot label y₀, and then standardize and
+compare them up to an orthogonal map (Defs. 4.5–4.6, Thm 4.7). Those
+coordinates depend on the pivot, the label set and the left-out label, and
+in the experiments these are chosen to make the distance smallest (App.
+E.3). So a usable geometry again comes from a choice, here of basis rather
+than of inner product ([NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md)).
+
+Engels et al.'s
 separability index and cosine clustering are Euclidean too, and so are
 relative to a choice this theory says is not given ([NOTE-273](../notes.d/NOTE-273.md)).
