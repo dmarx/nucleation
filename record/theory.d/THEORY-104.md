@@ -153,3 +153,9 @@ are the evidence here, not the estimate.
   performance separately, because one hyperparameter can move them in
   opposite directions ([ANTH-SOTA-196](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-196.md)), is the same trade seen across a
   training knob rather than across depth.
+- **Kornblith et al. (2021)** find that ImageNet networks with more collapse
+  transfer worse to other datasets. That is the same direction as this
+  account's mechanism: more collapse at the top, worse readout
+  off-distribution. The record holds it only second-hand, as reported in
+  the neural-collapse review [LIT-978](../literature.d/LIT-978.md) (read in [NOTE-tmp9j4pb](../notes.d/NOTE-tmp9j4pb.md)); the paper
+  itself is not held.

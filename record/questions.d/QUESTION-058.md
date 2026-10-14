@@ -25,6 +25,7 @@ summary: >-
   [THEORY-181](../theory.d/THEORY-181.md), [THEORY-021](../theory.d/THEORY-021.md) and [THEORY-184](../theory.d/THEORY-184.md) answer it in part; the body gives
   each one's limit.
 ---
+<!-- inactive-ok-file: THEORY-tmpsvlpi THEORY-tmpv0dw8 — Proposed; partial answers filed today, cited with their limits -->
 
 # QUESTION-058: When a trained network's representation carries a group's structure, how much of it comes from the task, the architecture, the training set's relations and the symmetry of the update, and how much can be read off the network without supplying the group?
 
@@ -42,6 +43,8 @@ Trained networks are found with characters of ℤ/p, with circles for months, an
 - [THEORY-181](../theory.d/THEORY-181.md): the training set's same-answer pairs fix the representation once they "leave only translation and scale free", with a critical training fraction. Limit: the sum is built into the architecture.
 - [THEORY-021](../theory.d/THEORY-021.md): the dimensionality-weighted projectors of the packed geometries sum to the identity. But the POVM "needs an inner product", and the feature basis is stipulated. Limit: toy geometry only.
 - [THEORY-184](../theory.d/THEORY-184.md): under a permutation-equivariant update "coincident neurons stay coincident", and below step size 1/K distinct ones cannot merge. The update preserves the symmetry it starts with. Limit: it says nothing about the function computed.
+- [THEORY-tmpsvlpi](../theory.d/THEORY-tmpsvlpi.md): if cosine similarity is locally a decreasing function of squared feature distance, on-manifold shortest paths recover the feature's intrinsic length metric up to one scale. Limit: it reads off topology and the length metric only, under hypotheses assumed and not derived, with the candidate metric supplied by hand; it recovers no group.
+- [THEORY-tmpv0dw8](../theory.d/THEORY-tmpv0dw8.md): elementwise tanh and Leaky-ReLU arrange autoencoder latents into beams by the activation's discrete group (B_n or S_n), and their radial counterparts do not. A group read off a network can be the network's own. Limit: small autoencoders, density plots with no statistic.
 
 ## What would answer it
 

@@ -17,7 +17,7 @@ promote_when: >-
   PMI spectrum, cannot settle it, because the model was built to match
   those shapes.
 title: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-09'
@@ -27,6 +27,13 @@ history:
     the hypothesis's premise and, by the same independence, makes its
     lattice Boolean. The open question is QUESTION-025. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Connections to THEORY-tmpkwsi6 (LIT-977), an additive-mixture rival,
+    prompted by NOTE-tmpe5owc, and to THEORY-tmpxmwzf (LIT-937), a
+    supervised counterpart of Appendix A5, prompted by NOTE-tmpw5s6c.
+    The claim is unchanged.
 tags:
 - representation-learning
 - compositionality
@@ -48,6 +55,7 @@ answers:
 - QUESTION-025
 ---
 <!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-025 — Proposed or open; cited as what this result bears on -->
+<!-- inactive-ok-file: THEORY-tmpkwsi6 THEORY-tmpxmwzf — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
 # THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
@@ -141,3 +149,22 @@ structure a concept lattice is for, attributes that imply or exclude each
 other as in [LIT-267](../literature.d/LIT-267.md)'s WordNet hierarchies or [CLAIM-119](../claims.d/CLAIM-119.md)'s categories that
 share attributes and differ in a few constraints, is what this model
 excludes. Whether the linear directions survive it is [QUESTION-025](../questions.d/QUESTION-025.md).
+
+**An additive rival.** [THEORY-tmpkwsi6](THEORY-tmpkwsi6.md) (Torii, Maeda and Hidaka, [LIT-977](../literature.d/LIT-977.md),
+read in [NOTE-tmpe5owc](../notes.d/NOTE-tmpe5owc.md)) gets an exact parallelepiped in a toy
+subject–verb–object corpus from a different premise. There aspects combine
+as a mixture over sentences, so counts add across aspects, and the shape is
+in the raw co-occurrence rows; the logarithm would break it. Here attributes
+multiply, and the shape is in the PMI. The two agree that parallelograms are
+in the data and disagree about which transform shows them, because they
+assume different ways for attributes to combine. It is a rival account for a
+different generative structure, not a second derivation of this one.
+
+**A supervised counterpart of Appendix A5.** With pairwise-correlated
+attributes, the affine eigenvectors here mix attributes (A5).
+[THEORY-tmpxmwzf](THEORY-tmpxmwzf.md) (Erogullari et al., [LIT-937](../literature.d/LIT-937.md), read in [NOTE-tmpw5s6c](../notes.d/NOTE-tmpw5s6c.md)) finds the
+same in CNN image classifiers for concept directions fitted one at a time,
+and adds that a joint fit finds orthogonal directions that still separate
+each concept. A direction found from one statistic at a time mixes
+correlated attributes; a joint fit can separate them again. The setting is
+labelled image attributes, not co-occurrence.

@@ -20,6 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-118 THEORY-169 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmpgub9t — Proposed; filed today, cited as a reading that does not answer this question -->
 
 # QUESTION-024: Can a pragmatic frame be induced from examples of communicative behaviour, and does the induced frame transfer across different wordings?
 
@@ -56,3 +57,14 @@ says; none has yet been assessed as an answer, and none is linked by
   Learning Work?
 - [CASE-005](../cases.d/CASE-005.md): The language-model experiments: frame commutator, trajectory-
   preserving selection, ICL against TTT
+
+## Note of 2026-10-14: two readings that do not answer it
+
+Neither [LIT-942](../literature.d/LIT-942.md) nor [LIT-946](../literature.d/LIT-946.md) answers this question. Both compare a task
+given as demonstrations with the same task given as an instruction, and
+find mostly different mechanisms ([THEORY-tmpgub9t](../theory.d/THEORY-tmpgub9t.md)). Neither varies the
+wording of an induced frame, and neither involves a stance or a pragmatic
+frame: the tasks are lexical mappings and classification. One detail bears
+on transfer across wordings: in [LIT-942](../literature.d/LIT-942.md) Fig. 3E–F, instructions of
+different wording give shared-head activations more alike to each other
+than either is to demonstrations.

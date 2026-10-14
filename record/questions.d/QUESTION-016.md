@@ -23,6 +23,7 @@ refined_by:
 <!-- inactive-ok-file: CLAIM-081 CLAIM-182 THEORY-155 THEORY-157 THEORY-194 THEORY-198 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-050 CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-258 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpv649w — Proposed; filed today, cited in a note as a bounded instance, not as an answer -->
 
 # QUESTION-016: Under what conditions does iterated reconstruction preserve, or progressively destroy, task-relative sufficiency?
 
@@ -79,3 +80,15 @@ garbling of the source, and suggests handling the side-information case by
 a measure such as deficiency rather than by Blackwell's order.
 [CLAIM-237](../claims.d/CLAIM-237.md), granted, says that for a contextual model what is open is
 the converse direction or a deficiency bound. None is linked by `answers`.
+
+## Note of 2026-10-14: a bounded-degradation instance
+
+[THEORY-tmpv649w](../theory.d/THEORY-tmpv649w.md), filed from [LIT-971](../literature.d/LIT-971.md), is an instance of a chain anchored to
+the source in which degradation is bounded. When each round of a linear
+regression is refit to labels from the previous fit and every earlier
+round's data is kept, test error is bounded at π²/6 times the first fit's;
+when the data are replaced, it grows linearly. The loss is bounded, not
+stopped: every round adds error. What is retained is the real sample, not
+an interpreter's side information, and every model is still a garbling of
+the real data, for one squared-error task rather than a family Q. It
+carries no `answers` edge.

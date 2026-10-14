@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp540a1
 title: 'Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -17,6 +17,11 @@ history:
     A note added on THEORY-232, Watson's comparative criterion of
     agency (LIT-990), filed today: relative to a decomposition, as this
     question asks, but it takes the parts' goals as given.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    A note added on THEORY-tmp8ntgq, the frame-relativity of agency
+    (LIT-969), prompted by NOTE-tmpk2s59.
 tags:
 - agency
 - individuation
@@ -42,6 +47,7 @@ answered_by:
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 CLAIM-174 — Proposed; the materials, answer and objection filed against this question, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens -->
 <!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparative criterion, named in a note and not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp8ntgq — Proposed; the frame-relativity of agency, named in a note and not leaned on -->
 
 # QUESTION-032: Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?
 
@@ -90,3 +96,13 @@ gives the goal-directedness test of [CLAIM-174](../claims.d/CLAIM-174.md) a beha
 delayed gratification. It does not supply the test asked for here: it
 takes the parts' goals as given, so it does not say which factors are
 agents, and it sets no threshold. It carries no `answers` edge.
+
+## Note of 2026-10-14: the frame a relativization must fix
+
+[THEORY-tmp8ntgq](../theory.d/THEORY-tmp8ntgq.md), filed from [LIT-969](../literature.d/LIT-969.md), supports this question's framing:
+whether a system has agency is settled only relative to a reference frame.
+It widens what the relativization must include. Beyond a level and a
+target, a frame fixes the causal variables, a principle for meaningful
+goals and a class of meaningful adaptations. It does not supply the test
+asked for here and gives no verdict on [CASE-044](../cases.d/CASE-044.md), so it carries no
+`answers` edge.

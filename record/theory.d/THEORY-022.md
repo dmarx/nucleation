@@ -16,7 +16,7 @@ promote_when: >-
   non-orthogonal cos and sin components would refute the character-product
   reading while leaving the Fourier-sparsity finding intact.
 title: 'The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-09'
@@ -27,6 +27,15 @@ history:
     et al. Its S₃ experiment noted under what this does not say. Karkada
     et al. 2026 (LIT-860, read in NOTE-664) added as a source for
     the data side of "the group comes from the task". The claim is
+    unchanged.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Two qualifications, prompted by NOTE-tmpp9pxe and NOTE-tmp4idzz.
+    Modell et al. (LIT-935, Fig. 2) show Engels et al.'s circles are not
+    planar, so "a single 2-D irreducible" is qualified. Bird (LIT-976,
+    THEORY-tmpv0dw8) shows a group imposed by the activation, so "the
+    group comes from the task" is not general. The claim is otherwise
     unchanged.
 tags:
 - representation-learning
@@ -54,6 +63,7 @@ answers:
 - QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-183 — Proposed; cited as the data-side mechanism, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpv0dw8 — Proposed; cited as the qualification of "not the network", not leaned on -->
 
 # THEORY-022: The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
@@ -94,7 +104,11 @@ W_L are plotted as norms but not reported ([NOTE-283](../notes.d/NOTE-283.md)).
 regression on Llama months adds frequency-2 and sign characters of ℤ/12
 ([NOTE-273](../notes.d/NOTE-273.md)). Patching the circle causally changes the answer in Mistral 7B and
 Llama 3 8B. Power et al. saw only a qualitative t-SNE "number line" in the
-output layer ([NOTE-287](../notes.d/NOTE-287.md)).
+output layer ([NOTE-287](../notes.d/NOTE-287.md)). The circles are not planar, though. Modell et
+al. ([LIT-935](../literature.d/LIT-935.md), Fig. 2, read in [NOTE-tmpp9pxe](../notes.d/NOTE-tmpp9pxe.md)) show the same Mistral 7B
+representations weaving through a third principal component. That is
+consistent with the extra frequency-2 and sign characters on Llama months,
+and not with a single real two-dimensional irreducible for each feature.
 
 **The earliest sighting.** Liu et al. ([LIT-858](../literature.d/LIT-858.md), v1 May 2022) saw the circle
 first: in the top two principal components of a transformer's embeddings
@@ -129,6 +143,13 @@ the circle could come from in a language model without showing that it does
   experiment ([LIT-858](../literature.d/LIT-858.md), App. H) does not test it: its embeddings are
   learnable 3 × 3 matrices multiplied by hand, so a matrix representation
   is imposed, not found ([NOTE-662](../notes.d/NOTE-662.md)).
+- **That the group always comes from the task.** Bird ([LIT-976](../literature.d/LIT-976.md), read in
+  [NOTE-tmp4idzz](../notes.d/NOTE-tmp4idzz.md); [THEORY-tmpv0dw8](THEORY-tmpv0dw8.md)) finds small autoencoders whose latents
+  are arranged by B_n or S_n, groups imposed by the elementwise
+  activation and absent from the task, which vanish when the activation is
+  made rotation-equivariant. That is discrete axis alignment, not
+  characters, so it is compatible with this account; but "not the
+  network" holds for these cases, not in general.
 - **That language models do modular arithmetic this way.** Both models get
   trivial accuracy on plain modular prompts. The downstream algorithm is only
   suggested ([NOTE-273](../notes.d/NOTE-273.md)).

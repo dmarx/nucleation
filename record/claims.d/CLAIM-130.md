@@ -41,6 +41,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
+<!-- inactive-ok-file: THEORY-tmps4hmc — Proposed; filed today, cited as a caution inside do(S), not leaned on -->
 
 # CLAIM-130: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed
 
@@ -137,3 +138,13 @@ itself.
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-138](../theory.d/THEORY-138.md) (Woodward) now grounds this claim. An intervention alone sets X and affects Y only through X, which is the principled reason do(I = a) differs from do(S = s).
+
+## Note of 2026-10-14: a caution inside do(S)
+
+[THEORY-tmps4hmc](../theory.d/THEORY-tmps4hmc.md), filed from [LIT-968](../literature.d/LIT-968.md) (read in [NOTE-tmpefcvd](../notes.d/NOTE-tmpefcvd.md)), adds a caution
+inside do(S), beside this claim's gap between telling an interpreter and
+changing the situation. A subspace intervention set to values off the data
+distribution can reproduce the output effect of changing a variable without
+localizing it, through a direction that cannot reach the output on the data.
+So a do(S) can create the very relation it is meant to detect, unless S is
+set to values S can actually take. It does not bear on do(I).
