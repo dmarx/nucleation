@@ -6,6 +6,7 @@ formerly:
 title: 'Tatiana''s letter in Eugene Onegin III: вы to ты and back, lost in Kline and half kept in Spalding'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - pragmatics

@@ -6,6 +6,7 @@ formerly:
 title: 'The language-model experiments: frame commutator, trajectory-preserving selection, ICL against TTT'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - philosophy-of-language
 - representation-learning

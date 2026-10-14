@@ -6,6 +6,7 @@ formerly:
 title: 'A coral reef'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - ecology
 - agency

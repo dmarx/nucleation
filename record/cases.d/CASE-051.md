@@ -6,6 +6,7 @@ formerly:
 title: 'The absorbed writer'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - behavioral-integration
 - agency

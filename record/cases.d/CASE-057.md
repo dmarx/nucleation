@@ -6,6 +6,7 @@ formerly:
 title: 'Swapping the two persons of a dyad: nonreciprocal T/V address is changed by the swap and reciprocal address is not, with a constructed French–English dyad and a three-person teasing round'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - individuation
 - mathematics

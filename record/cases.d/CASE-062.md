@@ -6,6 +6,7 @@ formerly:
 title: 'Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - translation
 - psychometrics

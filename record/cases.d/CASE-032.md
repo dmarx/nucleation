@@ -6,6 +6,7 @@ formerly:
 title: 'E4: within-session chains, stable complicit against a shift to moral instruction'
 version: 1
 standing: fictional
+kind: executed-study
 tags:
 - philosophy-of-language
 - linguistics

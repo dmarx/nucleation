@@ -6,6 +6,7 @@ formerly:
 title: 'A rendering that keeps the solidarity–criticism ambiguity open, and one that settles it'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - philosophy-of-language
 - linguistics

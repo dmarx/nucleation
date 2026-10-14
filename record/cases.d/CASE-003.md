@@ -6,6 +6,7 @@ formerly:
 title: 'Northstar-A and Northstar-B: same policy, same evidence, different escalation authority'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - agency
 - society-and-governance

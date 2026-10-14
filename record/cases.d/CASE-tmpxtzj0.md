@@ -3,6 +3,7 @@ status: Active
 title: 'Self-maintenance learned for a designer''s reward: a system that maintains itself because it was trained to, and later revises the policy and keeps maintaining itself without further instruction'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - self-governance
 - agency

@@ -3,6 +3,7 @@ status: Active
 title: 'The reciprocal pair: two processes that endorse only each other under recursive delegation, so that each one''s authority returns to it through the other'
 version: 1
 standing: stipulated
+kind: construction
 tags:
 - self-governance
 - social-ontology

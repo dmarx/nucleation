@@ -6,6 +6,7 @@ formerly:
 title: 'FID and Projected GANs: one ImageNet-trained probe family used both to train a generator and to evaluate it'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - representation-learning
 - model-comparison

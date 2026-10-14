@@ -6,6 +6,7 @@ formerly:
 title: 'Two identical unnumbered ballots in one tally: two votes that no relation in the structure of the vote tells apart'
 version: 1
 standing: stipulated
+kind: construction
 tags:
 - individuation
 - metaphysics

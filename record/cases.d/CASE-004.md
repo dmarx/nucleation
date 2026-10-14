@@ -6,6 +6,7 @@ formerly:
 title: 'Two people, an empty wallet: shared complicity, normative authority, and an underspecified relation'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - compositionality
 - probabilistic-modeling

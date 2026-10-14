@@ -6,6 +6,7 @@ formerly:
 title: 'Topic and act crossed: a factorial design that decorrelates what a text is about from what it does'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - pragmatics
 - psychometrics

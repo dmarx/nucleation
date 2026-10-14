@@ -6,6 +6,7 @@ formerly:
 title: 'The modernized refrains of Henley''s Villon'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - philosophy-of-language
 - linguistics

@@ -6,6 +6,7 @@ formerly:
 title: 'Wording, attributed speaker and judgement order: the proposed factorial study'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - contextuality
 - philosophy-of-language

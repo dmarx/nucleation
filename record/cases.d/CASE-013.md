@@ -6,6 +6,7 @@ formerly:
 title: 'The reluctant writer'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - agency
 - self-governance

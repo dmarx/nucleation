@@ -6,6 +6,7 @@ formerly:
 title: 'Contextuality tests on human meaning and judgement data: a held null, and positive results that miss pragmatic content or power'
 version: 1
 standing: documented
+kind: reported-study
 tags:
 - contextuality
 - pragmatics

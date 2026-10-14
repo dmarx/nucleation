@@ -6,6 +6,7 @@ formerly:
 title: 'Henley translated perfectly in the voice of an academic sociologist'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - philosophy-of-language
 - linguistics

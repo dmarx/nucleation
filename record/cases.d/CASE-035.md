@@ -6,6 +6,7 @@ formerly:
 title: 'Solidarity, condemnation and humour: the parity obstruction'
 version: 1
 standing: stipulated
+kind: construction
 tags:
 - contextuality
 - mathematics

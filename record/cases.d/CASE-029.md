@@ -6,6 +6,7 @@ formerly:
 title: 'The dynamical-fidelity research programme of the outlines (A35, A38, A40)'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - philosophy-of-language
 - probabilistic-modeling

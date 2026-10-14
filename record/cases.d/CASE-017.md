@@ -6,6 +6,7 @@ formerly:
 title: 'E1: synthetic three-state stochastic computations (C2–C3)'
 version: 1
 standing: stipulated
+kind: executed-study
 tags:
 - probabilistic-modeling
 - mathematics

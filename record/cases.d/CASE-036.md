@@ -6,6 +6,7 @@ formerly:
 title: 'Northstar emergency governance that sustains itself'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - agency
 - complex-systems

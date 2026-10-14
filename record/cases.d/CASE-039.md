@@ -6,6 +6,7 @@ formerly:
 title: 'Who crosses the meeting point first? Two craft near light speed, and the relativity of simultaneity'
 version: 1
 standing: documented
+kind: thought-experiment
 tags:
 - natural-sciences
 - mathematics

@@ -6,6 +6,7 @@ formerly:
 title: 'Risk messages passed down diffusion chains: the evaluative signal kept and amplified while the content decays (Moussaïd, Brighton and Gaissmaier; Jagiello and Hills)'
 version: 1
 standing: documented
+kind: reported-study
 tags:
 - social-science
 - pragmatics

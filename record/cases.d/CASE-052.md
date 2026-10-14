@@ -6,6 +6,7 @@ formerly:
 title: "Stokely Carmichael's two speaking styles, kept apart by audience and collapsed by broadcast"
 version: 1
 standing: stipulated
+kind: specimen
 tags:
 - social-science
 - self

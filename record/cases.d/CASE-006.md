@@ -6,6 +6,7 @@ formerly:
 title: 'Open Horizon'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - social-ontology
 - agency

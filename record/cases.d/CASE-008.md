@@ -6,6 +6,7 @@ formerly:
 title: 'Solidarity, condemnation and humour judged in pairs: the probabilistic version'
 version: 1
 standing: stipulated
+kind: construction
 tags:
 - contextuality
 - philosophy-of-language

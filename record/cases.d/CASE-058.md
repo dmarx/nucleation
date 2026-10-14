@@ -6,6 +6,7 @@ formerly:
 title: 'FactBank''s source-relative factuality labels and Kiesling et al.''s stance-triangle annotation: one stance construct annotated reliably, the interpersonal ones not'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - psychometrics
 - pragmatics

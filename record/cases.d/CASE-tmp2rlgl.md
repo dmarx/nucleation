@@ -3,6 +3,7 @@ status: Active
 title: 'Twin pattern-keepers: two systems keep the same pattern, one by its own responses and one through an external controller, and only removing the controller tells them apart'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - individuation
 - self-governance

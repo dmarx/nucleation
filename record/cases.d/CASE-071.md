@@ -6,6 +6,7 @@ formerly:
 title: 'Kovacs, Deutsch and Freitag''s metric bias in MBR decoding: translations a metric selects, that the metric and its neighbours rate better and human raters do not'
 version: 1
 standing: documented
+kind: reported-study
 tags:
 - model-comparison
 - translation

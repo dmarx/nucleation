@@ -6,6 +6,7 @@ formerly:
 title: 'A tree falls in the woods with no one to hear it'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - pragmatics
 - philosophy-of-language

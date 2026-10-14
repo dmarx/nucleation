@@ -6,6 +6,7 @@ formerly:
 title: 'Microsoft, as the philosophical target'
 version: 1
 standing: stipulated
+kind: specimen
 tags:
 - social-ontology
 - agency
