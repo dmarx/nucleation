@@ -30,7 +30,6 @@ summary: >-
   common-factor and non-definitional accounts, and it is about ordinary
   manipulation, not the global manipulation of the free-will literature.
 ---
-<!-- inactive-ok-file: QUESTION-070 QUESTION-071 — Open; the questions this work was filed for -->
 
 # THEORY-tmp2m1bc: No single-mechanism analysis of ordinary manipulation fits the clear cases: covert influence, covert intent, non-rational influence, trickery and pressure each misclassify a familiar tactic, so what unifies manipulation is unsettled
 

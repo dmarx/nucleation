@@ -43,7 +43,6 @@ summary: >-
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
 ---
-<!-- inactive-ok-file: LIT-1003 — Deferred, unread; an analysis of manipulation filed with this question -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
 <!-- inactive-ok-file: THEORY-tmppv6y2 THEORY-tmp2m1bc — Proposed; accounts filed today that bear on the question without answering it -->
 
