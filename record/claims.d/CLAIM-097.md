@@ -21,6 +21,7 @@ summary: >-
   interaction category is the nearest existing measurement of what Case
   III proposes, and its weaknesses are the manuscript's argument.
 ---
+<!-- inactive-ok-file: THEORY-tmp8v4zu — Proposed; filed today, cited for what LIT-938 measures, not leaned on -->
 
 # CLAIM-097: T2I-CompBench is not purely object-centered: its non-spatial relation category already probes interactions, but scores them with CLIPScore and near human ceiling
 
@@ -46,3 +47,8 @@ GPT-4V, which matches human rankings better than CLIPScore (Kendall τ 0.48
 against 0.25). The "scored by CLIPScore" half of this claim is true of the
 conference version only. Human scores on the category are still 0.95–0.99,
 so the near-ceiling half stands.
+
+Fu et al. ([LIT-938](../literature.d/LIT-938.md), read in [NOTE-tmpv2vga](../notes.d/NOTE-tmpv2vga.md); [THEORY-tmp8v4zu](../theory.d/THEORY-tmp8v4zu.md)) extend the
+point about automatic scoring to vision-language-model judges. In their
+App. A.6, VLM judges correlate with human ratings of relational images at
+r ≈ 0.43–0.56, against a human split-half reliability of 0.91.

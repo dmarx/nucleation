@@ -7,13 +7,18 @@ promote_when: >-
   Replication outside the protocol of LIT-618, read in the record.
   That protocol had balanced classes, no augmentation, dropout removed,
   one run per learning rate and the best run shown. Measurements of NC1
-  and NC2 through the terminal phase under augmentation, label noise,
-  class imbalance and several seeds per cell would promote this. So would
-  a held paper that derives collapse as the limit of gradient descent on
-  cross-entropy, which would turn the measured regularity into an
-  account. The claim is refuted if standard training run well past zero
-  error leaves within-class variability of last-layer features flat, or
-  leaves the centred class means far from equiangular. Further runs under
+  and NC2 through the terminal phase under augmentation, label noise
+  and several seeds per cell would promote this, and of NC1 under class
+  imbalance. NC2 is predicted for balanced classes only: under imbalance
+  the geometry to test is that of THEORY-tmptj5wo, not equiangularity.
+  So would a held paper that derives collapse as the limit of gradient
+  descent on cross-entropy, which would turn the measured regularity into
+  an account. No held paper meets that yet: LIT-974 derives collapse for
+  MSE under a re-whitened flow, and LIT-994 gives an endpoint, not a
+  gradient-descent derivation. The claim is refuted if standard training
+  run well past zero error leaves within-class variability of last-layer
+  features flat, or, with balanced classes, leaves the centred class
+  means far from equiangular. Further runs under
   the original protocol cannot settle it. Nor can the theorems, which
   assume the collapsed end state.
 title: 'Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean'
@@ -38,7 +43,10 @@ summary: >-
   classifiers, and that the simplex ETF is the unique error-exponent-optimal
   codebook. Papyan (2020), [LIT-613](../literature.d/LIT-613.md), sees class means separate and grow
   more orthogonal with depth. The measurements cover one protocol, and the
-  dynamics are unexplained. The paper's further claim, that the Hessian's
+  dynamics are unexplained outside free-features models. Within them,
+  THEORY-tmpqg4nq (LIT-974) derives collapse for MSE under a re-whitened
+  flow, and THEORY-tmptj5wo (LIT-994) gives the cross-entropy endpoint
+  under class imbalance. The paper's further claim, that the Hessian's
   class outliers are a symptom of collapse, is argued and not measured,
   and is left to [THEORY-078](THEORY-078.md).
 answers:
@@ -46,6 +54,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-213 QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpqg4nq THEORY-tmptj5wo — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
 
 # THEORY-083: Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
 
@@ -116,6 +125,10 @@ with this account and does not test it.
 - **It covers balanced classes, no augmentation and the last layer.**
   Whether collapse holds with augmentation, label noise, imbalance, or C
   larger than the feature dimension is an open question the paper names.
+  For imbalance the record now holds an answer in free-features models
+  ([THEORY-tmptj5wo](THEORY-tmptj5wo.md), from [LIT-994](../literature.d/LIT-994.md)): NC1 survives, but the equiangular NC2
+  holds for balanced or binary classes only. An imbalanced test of NC2
+  should be read against that geometry.
 
 ## Connections
 

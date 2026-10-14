@@ -26,7 +26,7 @@ summary: >-
 answered_by:
 - THEORY-211
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-085 THEORY-210 — Proposed; the two pictures of the end of training and the readings that bear on relating them, open -->
+<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-085 THEORY-210 THEORY-tmpqg4nq THEORY-tmptj5wo — Proposed; the two pictures of the end of training and the readings that bear on relating them, open -->
 
 # QUESTION-080: When a trained network's parameters keep moving after its loss has converged, what about the network stays fixed, and is the last-layer geometry of neural collapse among the things that do?
 
@@ -70,6 +70,16 @@ measurements of it depend on when training was stopped.
 - **[THEORY-210](../theory.d/THEORY-210.md):** along symmetry directions, SGD drifts conserved
   quantities toward balance. That is motion that need not change the
   features at all.
+- **[THEORY-tmpqg4nq](../theory.d/THEORY-tmpqg4nq.md):** under MSE with no weight decay, on the central
+  path, collapse is a limit approached at rate t^(1/4), not a fixed
+  point, and the orientation it approaches is set by the singular vectors
+  at the start of the path. The degree of collapse then depends on when
+  training stops, and the shape on where it started.
+- **[THEORY-tmptj5wo](../theory.d/THEORY-tmptj5wo.md):** under class imbalance and weight decay, the
+  last-layer geometry depends on the decay's strength, and the approach
+  to it is slow and slows with imbalance. So the geometry is not a
+  property of the task alone, and measurements of it depend on when
+  training stops.
 
 ## What would answer it
 

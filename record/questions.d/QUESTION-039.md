@@ -27,13 +27,13 @@ summary: >-
 refined_by:
 - QUESTION-081
 ---
-<!-- inactive-ok-file: THEORY-229 — Proposed; a partial answer filed today, cited with its limit -->
+<!-- inactive-ok-file: THEORY-229 THEORY-tmpqq175 THEORY-tmp99x1h THEORY-tmpsluko THEORY-tmpxwps9 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
 
 ## The question
 
-Networks acquire structure in an order and at thresholds. These include eigenspaces fitted at different rates, plateaus that end abruptly, invariances that appear at a training-set size, and correlations resolved out to a horizon. The question is what fixes when each structure arrives, whether that is data statistics, initial scale, depth or architecture, and whether the transitions reported under the name of "phases" are one phenomenon.
+Networks acquire structure in an order and at thresholds. These include eigenspaces fitted at different rates, plateaus that end abruptly, invariances that appear at a training-set size, and correlations resolved out to a horizon. The question is what fixes when each structure arrives, whether that is data statistics, initial scale, depth, architecture or the optimizer, and whether the transitions reported under the name of "phases" are one phenomenon.
 
 ## Why the record needs it
 
@@ -47,7 +47,13 @@ The learned-structure line asks which structure training reaches and why. When i
 - [THEORY-204](../theory.d/THEORY-204.md): P tokens resolve correlations out to a horizon n*(P) ~ P^(1/(2β)), and the loss is the entropy at that horizon. Limit: it rests on assumptions; P reaches about 10^8.
 - [THEORY-039](../theory.d/THEORY-039.md): the later phases "differ in kind", and none is a measured compression of I(X;T). This is the caution against reading every transition as one event.
 - [THEORY-229](../theory.d/THEORY-229.md): for a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' cross-correlation one at a time, in order of eigenvalue, each at a time set by its eigenvalue and the log of the initial scale. The self-supervised instance of the [THEORY-187](../theory.d/THEORY-187.md) mechanism. Limit: proved from aligned initialization only; stepwise growth in ResNets is an experiment.
+- [THEORY-tmpqq175](../theory.d/THEORY-tmpqq175.md): image classifiers and language models act on low-order statistics first, first-order before second-order, and later lose that sensitivity. Acquiring later structure can remove earlier behaviour. Limit: empirical, and the ordering is shown for first- before second-order only.
+- [THEORY-tmp99x1h](../theory.d/THEORY-tmp99x1h.md): in a toy model of independent skills, the order is frequency order whatever the optimizer, but whether onset is sequential is set by the optimizer: gradient descent learns orthogonal skills together, sign descent one after another (the Domino effect). Limit: toy-model simulation and one fitted ODE.
+- [THEORY-tmpsluko](../theory.d/THEORY-tmpsluko.md): for a two-layer network on a hierarchical multi-index target, direction k becomes recoverable at a sample count ∝ a_k^(−2), one at a time, through sharp spectral transitions. Limit: a theorem in sample size, not in training time; the network is a spectral first layer with a ridge readout.
+- [THEORY-tmpxwps9](../theory.d/THEORY-tmpxwps9.md): for a capacity-bounded learner on a mixture of random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio, and Pythia models show the same threshold. Limit: static, saying whether facts are learned and not when; it assumes an ideal learner.
+
+[LIT-954](../literature.d/LIT-954.md) files no theory and is not a single-event account: it puts thresholds and power laws in one vocabulary but treats them as two kinds of event, connectivity changes and waiting-time statistics.
 
 ## What would answer it
 
-One setting in which two of these mechanisms make different predictions about timing, measured with each work's own quantity. For example, a hierarchical task trained from small and from order-one initial scale.
+One setting in which two of these mechanisms make different predictions about timing, measured with each work's own quantity. For example, a hierarchical task trained from small and from order-one initial scale. Or the same skills trained by gradient descent and by sign descent: the steps of [THEORY-229](../theory.d/THEORY-229.md) are a property of gradient flow, while the Domino steps of [THEORY-tmp99x1h](../theory.d/THEORY-tmp99x1h.md) vanish under it, so swapping the optimizer separates the two mechanisms.

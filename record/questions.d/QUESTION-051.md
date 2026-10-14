@@ -23,6 +23,7 @@ summary: >-
 refined_by:
 - QUESTION-080
 ---
+<!-- inactive-ok-file: THEORY-tmpqg4nq THEORY-tmptj5wo THEORY-tmpye6gw — Proposed; partial answers filed today, cited with their limits -->
 
 # QUESTION-051: What structure does training for one classification task leave in a network's last layers, and what does that structure cost for decisions and distributions the network was not trained on?
 
@@ -39,6 +40,11 @@ Training a classifier past zero error drives its last layers toward a specific g
 - [THEORY-083](../theory.d/THEORY-083.md): features collapse "onto their class means", toward a simplex equiangular tight frame, and the decision becomes "nearest class mean". Limit: it does not say why; balanced classes, last layer.
 - [THEORY-104](../theory.d/THEORY-104.md): "in-distribution accuracy rises while out-of-distribution accuracy falls" across the last layers, so the best layer for a readout under shift "lies below the top". Limit: the layer is chosen on out-of-distribution data; the effect is weak for ViTs.
 - [THEORY-085](../theory.d/THEORY-085.md): class-driven Fisher outliers "pair each class's feature mean with that class's own error mean". The class is a shared cause, and a class-blind factorization misplaces it. Limit: spectra are judged by eye on one MLP.
+- [THEORY-tmpqg4nq](../theory.d/THEORY-tmpqg4nq.md): under MSE a trained classifier stays near the least-squares classifier for its features, and on that path a re-whitened gradient flow on unconstrained features drives the class-separation singular values to infinity at equal rates, which is collapse. Limit: MSE, unconstrained features and a modified flow, not gradient descent on cross-entropy.
+- [THEORY-tmptj5wo](../theory.d/THEORY-tmptj5wo.md): under class imbalance unregularized cross-entropy prefers simplex-encoded-label interpolation, not the simplex ETF, which it is only for balanced or binary data. Limit: an endpoint for unconstrained features; it does not show that gradient descent reaches it.
+- [THEORY-tmpye6gw](../theory.d/THEORY-tmpye6gw.md): lazy-regime training of a wide shallow network does not collapse its features, so collapse needs feature learning. Limit: proved for one-dimensional, two-class data; higher dimensions are measured.
+
+The derivation for cross-entropy asked for below is still open: the held derivations are for MSE or for an endpoint, and all remove the data. Kornblith et al. (2021), reported second-hand in [LIT-978](../literature.d/LIT-978.md), find that ImageNet networks with more collapse transfer worse. That is a direct measurement for the second half, not held, and worth filing.
 
 ## What would answer it
 

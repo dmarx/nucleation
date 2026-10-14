@@ -20,6 +20,7 @@ answered_by:
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmprhafq — Proposed; a partial answer filed today, cited with its limit -->
 
 # QUESTION-010: Can a reconstruction chain preserve information sufficient for one family of pragmatic tasks while progressively destroying the relations needed to support another?
 
@@ -60,3 +61,7 @@ says; none has yet been assessed as an answer, and none is linked by
 ## Note of 2026-10-12: a typed partial answer
 
 [THEORY-199](../theory.d/THEORY-199.md) now carries an `answered_by` edge. Low-level features survive past the noise threshold at which the top-level class is lost: one task family is kept while another is destroyed. Limits: it is a single step, not a chain, and an ideal denoiser on a synthetic grammar.
+
+## Note of 2026-10-14: a second one-step partial answer
+
+[THEORY-tmprhafq](../theory.d/THEORY-tmprhafq.md), filed from [LIT-963](../literature.d/LIT-963.md), answers the one-step, information-theoretic form for one categorical concept: perfect erasure of a concept A caps what a representation keeps about X at H(X|A). Everything about A can be destroyed while that much is kept, and no more. Limits: one step, not a chain, and task families defined only by a categorical concept.

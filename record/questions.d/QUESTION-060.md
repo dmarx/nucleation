@@ -20,6 +20,7 @@ summary: >-
   [THEORY-197](../theory.d/THEORY-197.md) and [THEORY-206](../theory.d/THEORY-206.md) answer it in part; the body gives each one's
   limit.
 ---
+<!-- inactive-ok-file: THEORY-tmp37j6t THEORY-tmpbx1ck THEORY-tmpn31af — Proposed; partial answers filed today, cited with their limits -->
 
 # QUESTION-060: When a network is trained on data from a structured system, are the variables it comes to represent fixed by its training objective or by what its architecture can represent cheaply, and when do they coincide with the system's own relevant variables?
 
@@ -33,8 +34,11 @@ Other lines lean on the answer. [CLAIM-152](../claims.d/CLAIM-152.md) says that 
 
 ## What the record holds
 
-- [THEORY-197](../theory.d/THEORY-197.md): the RBM–renormalization correspondence is "an identity of parametrizations". Away from an exact fit, it "does not make training by distribution fitting a renormalization". In the counterexample, a contrastive-divergence RBM spends its units on noise rather than on the relevant fields. The objective, not the formal match, fixes what is kept. Limit: one counterexample, Boltzmann machines only.
+- [THEORY-197](../theory.d/THEORY-197.md): the RBM–renormalization correspondence is "an identity of parametrizations". Away from an exact fit, it "does not make training by distribution fitting a renormalization". In the counterexample, a contrastive-divergence RBM spends its units on noise rather than on the relevant fields. The objective, not the formal match, constrains what is kept. Limit: one counterexample, Boltzmann machines only.
 - [THEORY-206](../theory.d/THEORY-206.md): one hidden layer needs "exactly ∏(rᵢ+1) neurons" for a monomial, against O(Σ log rᵢ) for a deep network. So the architecture makes products of many inputs costly, while "bounded-degree polynomials do not" separate depths. Limit: it concerns what networks can represent, not what training finds. It assumes bias-free smooth units, and the uniform lower bound is unproved.
+- [THEORY-tmp37j6t](../theory.d/THEORY-tmp37j6t.md): SGD fitting three Picbreeder images in the evolved networks' own architecture does not reproduce their reuse and factoring. With function and architecture both held fixed, the internal variables still differ. Limit: the contrast is between an objective-trained network and one found by target-free search, not between two objectives; qualitative, three images.
+- [THEORY-tmpbx1ck](../theory.d/THEORY-tmpbx1ck.md): when a generator's latent dynamics factor, small transformers trained by next-token prediction settle near the factored dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy. Limit: the objective is never varied, and architecture is not separated from training.
+- [THEORY-tmpn31af](../theory.d/THEORY-tmpn31af.md): models trained on a graph's edge bigrams store it as a global spectral geometry, although a lookup is representable, as cheap and faster to reach. It names training dynamics as a third determinant beside objective and architecture. Limit: empirical; the spectral analysis is informal and for a two-layer model only.
 
 ## What would answer it
 

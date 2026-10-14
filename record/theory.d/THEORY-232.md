@@ -39,6 +39,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
 <!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
+<!-- inactive-ok-file: THEORY-tmp8ntgq — Proposed; named in Connections as the general form of this account's frame-dependence, not leaned on -->
 
 # THEORY-232: A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification
 
@@ -142,3 +143,12 @@ No relations are declared: it answers a comparative version of
   organization sets. Watson's account sets no threshold and borrows its
   norm from a stipulated decomposition. They answer different questions
   and are not declared rivals.
+- **[THEORY-tmp8ntgq](THEORY-tmp8ntgq.md) (Abel et al., [LIT-969](../literature.d/LIT-969.md), read in [NOTE-tmpk2s59](../notes.d/NOTE-tmpk2s59.md)).**
+  It generalizes this account's frame-dependence. Watson's comparison is
+  relative to a chosen decomposition and stipulated goals for the parts,
+  which are two of Abel et al.'s frame components; Watson concedes that
+  relativity for one measure, and Abel et al. argue that every account of
+  agency has it. Watson's measure is comparative and stays meaningful
+  within a frame, which Abel et al. do not dispute. They predict no
+  ranking stable across decompositions in general, but show no instance
+  for this measure, so they do not settle its `promote_when`.

@@ -25,6 +25,7 @@ refined_by:
 ---
 <!-- inactive-ok-file: LIT-485 — Deferred; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; a partial answer, cited as open -->
+<!-- inactive-ok-file: THEORY-tmps4hmc THEORY-tmpuieof THEORY-tmp6lt8x — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
 
 # QUESTION-030: Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it?
 
@@ -73,3 +74,23 @@ restatement ([LIT-482](../literature.d/LIT-482.md)). Neither has been brought to
 An answer would not be a further finding that a cue changes a judgement.
 That is evidence for the empirical half only when the cue is an
 intervention on the relation and not a description of it.
+
+## Note of 2026-10-14: readings that bear on each half
+
+None of these speaks of constitution; each bears on one half.
+
+- **The empirical half.** [THEORY-tmps4hmc](../theory.d/THEORY-tmps4hmc.md) (from [LIT-968](../literature.d/LIT-968.md)): a subspace
+  intervention can reproduce the output effect of changing a variable
+  without localizing it, through a direction that cannot reach the output
+  on the data. An intervention that produces the predicted output is not
+  yet evidence that the intervened variable mediates. [THEORY-tmpuieof](../theory.d/THEORY-tmpuieof.md)
+  (from [LIT-987](../literature.d/LIT-987.md)): variables located by interchange intervention predict
+  behaviour under shifts that keep the mechanism better than features
+  chosen otherwise. That separates mediating from accompanying features in
+  a weaker form, and says nothing about constitution.
+- **The conceptual half.** [THEORY-tmp6lt8x](../theory.d/THEORY-tmp6lt8x.md) (from [LIT-961](../literature.d/LIT-961.md) and [LIT-968](../literature.d/LIT-968.md)):
+  interventions on a fixed set of variables can be satisfied equally by
+  alignments related by a change of basis, so which direction mediates is
+  fixed only relative to a chosen decomposition into units. The tests
+  alone do not supply that choice. Shown exactly for one constructed
+  network.

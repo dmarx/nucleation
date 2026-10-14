@@ -18,6 +18,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-013 THEORY-117 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-123 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-tmp8v4zu — Proposed; filed today, cited as evidence about the explanandum, not as an answer -->
 
 # QUESTION-018: When a generator receives several conditions, what determines whether it preserves their conjunction and relational bindings?
 
@@ -51,3 +52,13 @@ says; none has yet been assessed as an answer, and none is linked by
   relation category already probes…
 - [CLAIM-013](../claims.d/CLAIM-013.md): Existing text-to-image benchmarks evaluate object presence
   and attributes, and need extending to…
+
+## Note of 2026-10-14: a measurement of the failure
+
+[THEORY-tmp8v4zu](../theory.d/THEORY-tmp8v4zu.md), filed from [LIT-938](../literature.d/LIT-938.md), measures that DALL-E 3's relational
+bindings fail when an asymmetric relation is reversed and when relations
+are combined, and that the failures are mostly wrong or role-swapped
+relations, not missing objects. Low prior plausibility correlates only
+weakly (r = 0.09). It does not separate the candidate explanations above,
+so it is evidence about the explanandum, not an answer, and it carries no
+`answers` edge.

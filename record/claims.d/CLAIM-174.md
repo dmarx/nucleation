@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwv313
 title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -16,6 +16,12 @@ history:
     thermostat verdicts are unchanged: alone it fails test 3; with its
     designers it is an agent but not a willed one, its will being the
     designers'.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    What it does not say now adds that test 3's verdict also depends on
+    which changes count as adaptation (LIT-969, Claim 4), prompted by
+    NOTE-tmpk2s59. The tests are unchanged.
 role: thesis
 defeated_if: >-
   A factor that passes all three tests at a level and target and is
@@ -69,6 +75,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 — Proposed; the premise, the objection answered and the thesis made testable, open -->
+<!-- inactive-ok-file: THEORY-tmp8ntgq — Proposed; filed today, cited for the frame-dependence of test 3, not leaned on -->
 
 # CLAIM-174: A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
 
@@ -153,7 +160,10 @@ That is the owner's thesis made testable ([CLAIM-170](CLAIM-170.md), [CLAIM-155]
   prior, and test (3) inherits Kenton et al.'s frame-dependence: their labels
   "are only meaningful relative to the choice of which variables are included
   in the model". Both are the level and target relativity this record already
-  states ([CLAIM-152](CLAIM-152.md)).
+  states ([CLAIM-152](CLAIM-152.md)). Test (3) also depends on what counts as
+  adaptation (Abel et al., [LIT-969](../literature.d/LIT-969.md), Claim 4; [THEORY-tmp8ntgq](../theory.d/THEORY-tmp8ntgq.md)): Kenton et
+  al.'s intervention on how its actions affect the world is one choice of
+  meaningful adaptation, not the only one.
 
 ## Note of 2026-10-12: evidence now linked
 
