@@ -1,16 +1,23 @@
 ---
 number: 231
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpqtb5h
 paper: LIT-252
+superseded_by:
+- NOTE-tmp5aqd2
 title: 'Spectral Inference Networks (SpIN)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp5aqd2, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   The top-N eigenfunctions of a symmetric kernel operator K[f](x) = E_{x′}[k(x,x′)f(x′)] on L²(p) can be learned by a neural network that maximizes the generalized Rayleigh quotient Tr(Σ⁻¹Π), with Σ = E[u uᵀ] and Π = E[k(x,x′)u(x)u(x′)ᵀ]. Slow Feature Analysis is the special case where k is the graph Laplacian of adjacent video frames.
 ---
-<!-- inactive-ok-file: LIT-252 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-231: Spectral Inference Networks (SpIN)
 
