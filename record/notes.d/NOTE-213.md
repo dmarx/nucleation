@@ -1,16 +1,23 @@
 ---
 number: 213
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmplitpc
 paper: LIT-224
+superseded_by:
+- NOTE-tmpavenk
 title: 'Shannon information vs Kolmogorov complexity (survey)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpavenk, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Shannon's and Kolmogorov's theories line up concept by concept (entropy vs complexity, probabilistic vs algorithmic mutual information and sufficient statistics, rate-distortion vs structure function), and in each pair the Shannon notion is, up to additive terms, the expectation of the Kolmogorov one.
 ---
-<!-- inactive-ok-file: LIT-224 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-213: Shannon information vs Kolmogorov complexity (survey)
 

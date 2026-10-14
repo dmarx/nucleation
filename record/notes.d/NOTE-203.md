@@ -1,16 +1,23 @@
 ---
 number: 203
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmp8l29l
 paper: LIT-225
+superseded_by:
+- NOTE-tmpp6trb
 title: 'MDL induction, Bayesianism, and Kolmogorov complexity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpp6trb, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Ideal MDL, derived from Bayes's rule with the universal prior, coincides with Bayesian MAP selection exactly when the data are random with respect to the hypothesis and the hypothesis is random with respect to the prior (the "Fundamental Inequality"). For finite-set models it reduces to Kolmogorov's minimal sufficient statistic, so compression is almost always the best strategy for both identifying hypotheses and predicting.
 ---
-<!-- inactive-ok-file: LIT-225 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-203: MDL induction, Bayesianism, and Kolmogorov complexity
 

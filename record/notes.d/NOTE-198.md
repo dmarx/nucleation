@@ -1,16 +1,23 @@
 ---
 number: 198
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmp08fwe
 paper: LIT-238
+superseded_by:
+- NOTE-tmp582tx
 title: 'Minimum Description Length Revisited'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp582tx, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   MDL, reformulated around universal distributions and luckiness functions and presentable without coding theory, extends both penalized likelihood and Bayes, and unifies methods usually seen as rival — AIC vs BIC, cross-validation vs Bayes — within one worst-case framework.
 ---
-<!-- inactive-ok-file: LIT-238 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-198: Minimum Description Length Revisited
 
