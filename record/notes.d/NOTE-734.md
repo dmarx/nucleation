@@ -1,6 +1,9 @@
 ---
+number: 734
 status: Skimmed
-paper: LIT-tmpswf3g
+formerly:
+- NOTE-tmp1p65z
+paper: LIT-1041
 title: 'Grice — Logic and Conversation'
 version: 1
 history:
@@ -20,11 +23,11 @@ summary: >-
   Manner. Grice flags the second Quantity maxim as disputable, defers
   Relation, and calls the information-exchange framing too narrow.
 ---
-<!-- inactive-ok-file: LIT-tmpswf3g — Unavailable: read only in part, no full lawful copy reached, filed with this skim on 2026-10-13; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-1041 — Unavailable: read only in part, no full lawful copy reached, filed with this skim on 2026-10-13; the directive lapses when its status changes -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, the record's formal successor to this account, open -->
 
-# NOTE-tmp1p65z: Grice — Logic and Conversation
+# NOTE-734: Grice — Logic and Conversation
 
 ## Contribution
 
@@ -84,7 +87,7 @@ implicature exactly; a `Read` note replaces this one.*
   in common, which "may evolve". That is a jointly held frame, not a
   speaker-internal state. Grice's implicature therefore depends on a
   relation among the parties, even though his speaker meaning (1957,
-  [LIT-tmpvudnt](../literature.d/LIT-tmpvudnt.md)) is speaker-internal. Whether the full chapter keeps the
+  [LIT-1042](../literature.d/LIT-1042.md)) is speaker-internal. Whether the full chapter keeps the
   two apart cannot be said from these pages.
 - **"Be polite".** Grice allows social maxims to generate nonconventional
   implicatures, but excludes them from the conversational ones. A teasing

@@ -25,7 +25,7 @@ summary: >-
 answered_by:
 - CLAIM-255
 ---
-<!-- inactive-ok-file: LIT-tmpswf3g LIT-tmp0vfgl — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
+<!-- inactive-ok-file: LIT-1041 LIT-1040 — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-224 — Proposed; the objections that raise this question, open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution claim whose scope this question holds open -->
 <!-- inactive-ok-file: LIT-785 LIT-780 — Unavailable; Austin and Goffman, unread here, named as the tradition's replies and not leaned on -->
@@ -109,9 +109,9 @@ open.
 
 ## Note of 2026-10-13: the intention-based line, read
 
-Grice (1957, [LIT-tmpvudnt](../literature.d/LIT-tmpvudnt.md)) and Strawson (1964, [LIT-tmpyozog](../literature.d/LIT-tmpyozog.md)) are now read.
-Grice (1975, [LIT-tmpswf3g](../literature.d/LIT-tmpswf3g.md)) is read in part, and Bach and Harnish (1979,
-[LIT-tmp0vfgl](../literature.d/LIT-tmp0vfgl.md)) is filed unread. Three findings bear on the question as
+Grice (1957, [LIT-1042](../literature.d/LIT-1042.md)) and Strawson (1964, [LIT-1043](../literature.d/LIT-1043.md)) are now read.
+Grice (1975, [LIT-1041](../literature.d/LIT-1041.md)) is read in part, and Bach and Harnish (1979,
+[LIT-1040](../literature.d/LIT-1040.md)) is filed unread. Three findings bear on the question as
 posed.
 
 - **The rival makes a prediction.** For acts not essentially

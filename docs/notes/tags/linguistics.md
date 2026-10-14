@@ -4,7 +4,7 @@
 
 **linguistics**.
 
-36 of 733 NOTE documents. Back to the [full index](../README.md).
+37 of 736 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -44,3 +44,4 @@
 | [NOTE-687](../../../record/notes.d/NOTE-687.md) | How the structure of language is acquired | Extends the Random Hierarchy Model to predicting a masked last token. The correlation between two tokens shrinks by about a factor m per level of their common ancestor, a sample of P sequences resolves it only above a (v²P)^(−1/2) noise floor, and deep transformers and CNNs show loss steps at P_ℓ ≈ v m^(2ℓ−1), where their layers come to encode the level-ℓ hidden symbol. On character-level text, the correlation decay exponent predicts where the loss for a given context length levels off. The route from correlations to learned hidden variables is argued, not proved. | Read |
 | [NOTE-689](../../../record/notes.d/NOTE-689.md) | Deriving neural scaling laws from language statistics | Predicts the data-limited scaling exponent of language-model test loss as γ/(2β), from two measured corpus statistics: the decay with lag of the top singular value of the token–token covariance (β), which sets the usable context n*(P) ~ P^(1/(2β)), and the decay of next-token conditional entropy with context (γ). The derivation rests on assumed scaling forms and a fast-learning condition; on TinyStories and WikiText-103 transformers match the predicted exponents up to about 10^8 tokens and horizons of a few tens of tokens. | Read |
 | [NOTE-718](../../../record/notes.d/NOTE-718.md) | Gallego & Orús — Language Design as Information Renormalization | Reads Chomsky's MERGE as a coarse-graining and builds sentence probabilities as mostly loop-free tensor networks of 3-index MERGE tensors, one per node of a given parse. Because MERGE's output is fixed by its input, a parsed sentence's probability is a product of local coefficients. Tree-shaped parses make correlations decay with tree distance, about log \|j − i\|, so polynomially in word separation. The averaging step that turns this into a claim about languages is asserted, and nothing is tested on data. Syntax only: semantics and context are set aside by the authors. | Read |
+| [NOTE-734](../../../record/notes.d/NOTE-734.md) | Grice — Logic and Conversation | pp. 45–47 only: conversational implicatures are to be tied to a Cooperative Principle (contribute what the accepted purpose of the talk exchange requires) and to maxims of Quantity, Quality, Relation and Manner. Grice flags the second Quantity maxim as disputable, defers Relation, and calls the information-exchange framing too narrow. | Skimmed |

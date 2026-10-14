@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**363 documents cited without acknowledgement.** Not listed: 6688 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**363 documents cited without acknowledgement.** Not listed: 6725 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-181 citations in 181 files await a look.
+185 citations in 183 files await a look.
 
 - [`record/literature.d/LIT-1016.md:28`](../../record/literature.d/LIT-1016.md)
 - [`record/literature.d/LIT-1019.md:25`](../../record/literature.d/LIT-1019.md)
@@ -32,6 +32,10 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-1031.md:15`](../../record/literature.d/LIT-1031.md)
 - [`record/literature.d/LIT-1036.md:15`](../../record/literature.d/LIT-1036.md)
 - [`record/literature.d/LIT-104.md:21`](../../record/literature.d/LIT-104.md)
+- [`record/literature.d/LIT-1040.md:6`](../../record/literature.d/LIT-1040.md)
+- [`record/literature.d/LIT-1040.md:25`](../../record/literature.d/LIT-1040.md)
+- [`record/literature.d/LIT-1041.md:6`](../../record/literature.d/LIT-1041.md)
+- [`record/literature.d/LIT-1041.md:29`](../../record/literature.d/LIT-1041.md)
 - [`record/literature.d/LIT-106.md:13`](../../record/literature.d/LIT-106.md)
 - [`record/literature.d/LIT-108.md:17`](../../record/literature.d/LIT-108.md)
 - [`record/literature.d/LIT-117.md:17`](../../record/literature.d/LIT-117.md)
@@ -3702,7 +3706,7 @@ Translation and Relevance: Cognition and Context
 
 How to Do Things with Words
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-034.md:28`](../../record/decisions.d/ADR-034.md)
 

@@ -29,7 +29,7 @@ summary: >-
   this family. The objection is open; it would narrow [CLAIM-151](CLAIM-151.md) to
   institutional acts unless an argument from uptake meets it.
 ---
-<!-- inactive-ok-file: LIT-tmpswf3g LIT-tmp0vfgl — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
+<!-- inactive-ok-file: LIT-1041 LIT-1040 — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as the record's own intention-inferring model, not as settled -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-139 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->
@@ -176,10 +176,10 @@ account of the act, or only of intended meaning, is left to the owner.
 ## Note of 2026-10-13: the line is now held
 
 The four works this objection names are filed. Grice's "Meaning" (1957,
-[LIT-tmpvudnt](../literature.d/LIT-tmpvudnt.md), [NOTE-tmpijgfs](../notes.d/NOTE-tmpijgfs.md)) and Strawson's "Intention and Convention in
-Speech Acts" (1964, [LIT-tmpyozog](../literature.d/LIT-tmpyozog.md), [NOTE-tmpqe25w](../notes.d/NOTE-tmpqe25w.md)) are read in full. Grice's
-"Logic and Conversation" (1975, [LIT-tmpswf3g](../literature.d/LIT-tmpswf3g.md)) is read only at pp. 45–47.
-Bach and Harnish (1979, [LIT-tmp0vfgl](../literature.d/LIT-tmp0vfgl.md)) is unread, because no lawful copy
+[LIT-1042](../literature.d/LIT-1042.md), [NOTE-735](../notes.d/NOTE-735.md)) and Strawson's "Intention and Convention in
+Speech Acts" (1964, [LIT-1043](../literature.d/LIT-1043.md), [NOTE-736](../notes.d/NOTE-736.md)) are read in full. Grice's
+"Logic and Conversation" (1975, [LIT-1041](../literature.d/LIT-1041.md)) is read only at pp. 45–47.
+Bach and Harnish (1979, [LIT-1040](../literature.d/LIT-1040.md)) is unread, because no lawful copy
 was reachable. So the "held account" clause no longer blocks the defeat
 condition by default. Read, the line confirms the objection in substance
 and corrects it in two places.

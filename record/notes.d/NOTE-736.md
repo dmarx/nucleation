@@ -1,6 +1,9 @@
 ---
+number: 736
 status: Read
-paper: LIT-tmpyozog
+formerly:
+- NOTE-tmpqe25w
+paper: LIT-1043
 title: 'Strawson — Intention and Convention in Speech Acts'
 version: 1
 history:
@@ -26,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 CASE-018 CASE-069 — Proposed or Open; the objection, claim, question and cases this reading bears on, open -->
 <!-- inactive-ok-file: LIT-785 LIT-780 — Unavailable; Austin and Goffman, unread here, named and not leaned on -->
 
-# NOTE-tmpqe25w: Strawson — Intention and Convention in Speech Acts
+# NOTE-736: Strawson — Intention and Convention in Speech Acts
 
 ## Contribution
 
@@ -168,7 +171,7 @@ scale.
 ## Connections
 
 The paper reads Austin's *How to Do Things with Words* (1962, [LIT-785](../literature.d/LIT-785.md),
-held here unread) and amends Grice's "Meaning" (1957, [LIT-tmpvudnt](../literature.d/LIT-tmpvudnt.md)). It
+held here unread) and amends Grice's "Meaning" (1957, [LIT-1042](../literature.d/LIT-1042.md)). It
 thanks Hart for the objections about wills and gifts and McGuinness for
 the case of inviting someone to be impressed. Bach and Harnish's
 *Linguistic Communication and Speech Acts* (1979) builds its taxonomy
