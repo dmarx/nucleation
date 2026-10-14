@@ -19,7 +19,7 @@ summary: >-
   not answered.
 ---
 <!-- inactive-ok-file: CLAIM-034 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-tmp7x3wf THEORY-tmprft5t — Proposed; the action-free formal object, cited for what it does not supply -->
+<!-- inactive-ok-file: THEORY-247 THEORY-280 — Proposed; the action-free formal object, cited for what it does not supply -->
 
 # QUESTION-008: Is pragmatic fidelity a form of approximate bisimulation between communicative systems, and which parts of their update structure must it preserve?
 
@@ -49,8 +49,8 @@ An answer would name a judgement that finite-sequence observational equivalence
 [CLAIM-034](../claims.d/CLAIM-034.md).
 
 The record has since read the first formal object for it, and it does not
-reopen the question. [THEORY-tmp7x3wf](../theory.d/THEORY-tmp7x3wf.md) ([LIT-962](../literature.d/LIT-962.md)) identifies the discounted
-bisimulation metric with a bicausal transport distance, and [THEORY-tmprft5t](../theory.d/THEORY-tmprft5t.md)
+reopen the question. [THEORY-247](../theory.d/THEORY-247.md) ([LIT-962](../literature.d/LIT-962.md)) identifies the discounted
+bisimulation metric with a bicausal transport distance, and [THEORY-280](../theory.d/THEORY-280.md)
 ([LIT-948](../literature.d/LIT-948.md), [LIT-962](../literature.d/LIT-962.md)) estimates it from samples. Both are for chains without
 actions only. Neither supplies a judgement on which [TERM-033](../terms.d/TERM-033.md) and bisimulation
 disagree.

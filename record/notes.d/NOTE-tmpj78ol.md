@@ -24,7 +24,7 @@ summary: >-
   that is at most E[g*²] for bounded labels. Nothing requires the views
   to be exchangeable.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 THEORY-tmpqpbhy THEORY-tmp1iy33 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 THEORY-tmpqpbhy THEORY-239 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-tmpj78ol: Tosh, Krishnamurthy & Hsu — contrastive learning, multi-view redundancy and linear models
 
@@ -161,7 +161,7 @@ on reconstruction. It places the mutual-information reading of NCE below
 redundancy, citing Tschannen et al. and McAllester and Stratos. HaoChen
 et al. ([LIT-249](../literature.d/LIT-249.md)) later set themselves against its conditional-independence
 style of assumption ([NOTE-740](NOTE-740.md)). Johnson et al. ([LIT-258](../literature.d/LIT-258.md), App. B.2) take
-the logistic optimum from here. Zhai ([LIT-975](../literature.d/LIT-975.md), [THEORY-tmp1iy33](../theory.d/THEORY-tmp1iy33.md)) works with
+the logistic optimum from here. Zhai ([LIT-975](../literature.d/LIT-975.md), [THEORY-239](../theory.d/THEORY-239.md)) works with
 the same conditional-expectation operator between two spaces and gets the
 top singular functions as the minimax span. This paper does not take
 singular functions at all: it reads µ off the full ratio by random
@@ -229,7 +229,7 @@ landmarks.
 
 - Can the landmark bound be stated directly in terms of χ² of the joint
   against the product, and does the top-d singular truncation of g*
-  ([THEORY-tmp1iy33](../theory.d/THEORY-tmp1iy33.md)) give a dimension bound under redundancy that improves
+  ([THEORY-239](../theory.d/THEORY-239.md)) give a dimension bound under redundancy that improves
   on the random-landmark rate?
 - What replaces g_max in Theorems 10–11 when the ratio is unbounded but
   square-integrable?

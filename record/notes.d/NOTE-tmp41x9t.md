@@ -25,7 +25,7 @@ summary: >-
   100-eigenfunction basis, which beat Blended Intrinsic Maps on SCAPE and
   TOSCA.
 ---
-<!-- inactive-ok-file: THEORY-tmp11baf THEORY-009 THEORY-tmp1iy33 — Proposed; the account filed from this reading, and two accounts it bears on, open -->
+<!-- inactive-ok-file: THEORY-tmp11baf THEORY-009 THEORY-239 — Proposed; the account filed from this reading, and two accounts it bears on, open -->
 <!-- inactive-ok-file: CLAIM-098 — Proposed; the claim that translation is directed, which this reading bears on, open -->
 
 # NOTE-tmp41x9t: Ovsjanikov et al. — Functional maps
@@ -167,13 +167,13 @@ vector diffusion maps (Singer and Wu 2011) for map diffusion.
   support the question's eigenspace framing in one respect: what an
   isometry preserves is each Laplacian eigenspace, not each eigenvector,
   which is the point of [CLAIM-164](../claims.d/CLAIM-164.md).
-- **[THEORY-009](../theory.d/THEORY-009.md) and [THEORY-tmp1iy33](../theory.d/THEORY-tmp1iy33.md).** Functional maps are a case in which
+- **[THEORY-009](../theory.d/THEORY-009.md) and [THEORY-239](../theory.d/THEORY-239.md).** Functional maps are a case in which
   an operator between two different spaces is useful without being
   self-adjoint. Their structure comes from orthogonality (volume
   preservation) and commutation with the two Laplacians, not from a
   symmetric pair distribution. This neither supports nor contradicts
   [THEORY-009](../theory.d/THEORY-009.md), which concerns operators on one space; it is a worked
-  example of the two-space setting [THEORY-tmp1iy33](../theory.d/THEORY-tmp1iy33.md) covers.
+  example of the two-space setting [THEORY-239](../theory.d/THEORY-239.md) covers.
 - **[CLAIM-098](../claims.d/CLAIM-098.md)** holds that translation is directed and need not be
   invertible. Functional maps handle non-bijective input maps only by
   inverting a truncated matrix, a numerical step with no guarantee. So

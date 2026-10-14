@@ -26,7 +26,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    A dated correction under Open questions, prompted by NOTE-tmpsgugb
+    A dated correction under Open questions, prompted by NOTE-808
     (LIT-934, Aerts 2009, read in full): that paper tests a
     non-distributive lattice only in part, for its k-type items. The
     reading is otherwise unchanged.
@@ -151,7 +151,7 @@ The experiment is a rating questionnaire (7 contexts × 14 exemplars, and 7 × 1
 ## Open questions
 
 - **Is the context lattice of a real concept orthomodular, or non-distributive?** What data would test it? Examples are e ∧ (f ∨ g) ≠ (e ∧ f) ∨ (e ∧ g) for sentence contexts, and order effects between non-commuting contexts. Later quantum-cognition work on conjunction and disjunction interference (Aerts 2009; Busemeyer & Bruza, [LIT-316](../literature.d/LIT-316.md); neither read here) is where such tests are said to appear.
-  - *Correction, 2026-10-14 ([NOTE-tmpsgugb](NOTE-tmpsgugb.md)).* Aerts 2009 is now read as [LIT-934](../literature.d/LIT-934.md). It does so only in part: §2.2 needs non-commuting, non-distributive subspaces for its k-type items only, tests no distributive identity directly, and places the main effect outside the lattice.
+  - *Correction, 2026-10-14 ([NOTE-808](NOTE-808.md)).* Aerts 2009 is now read as [LIT-934](../literature.d/LIT-934.md). It does so only in part: §2.2 needs non-commuting, non-distributive subspaces for its k-type items only, tests no distributive identity directly, and places the main effect outside the lattice.
 - **Is the orthocomplement of a context well defined as a context at all?** "The pet does not run through the garden" has many instances. Why should it be the lattice complement of e3 rather than one of many pseudo-complements?
 - **Does the corrected Table 5 support the significance claims?** Only a re-analysis of the raw data would settle it, and the raw data are not published.
 

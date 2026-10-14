@@ -27,8 +27,8 @@ history:
 - version: 4
   date: '2026-10-14'
   note: >-
-    Williams et al. (LIT-1008) was read in full in NOTE-tmpm1rk0, and
-    "What the record holds" now names THEORY-tmpc8eq2, filed from it: a
+    Williams et al. (LIT-1008) was read in full in NOTE-798, and
+    "What the record holds" now names THEORY-258, filed from it: a
     case of targeting fixed by selection, not an answer. Its targeted
     behaviour is overt, so the harm in THEORY-235 does not reach it as
     shown.
@@ -52,7 +52,7 @@ summary: >-
   any member.
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
-<!-- inactive-ok-file: THEORY-235 THEORY-225 THEORY-tmpc8eq2 — Proposed; accounts filed today that bear on the question without answering it -->
+<!-- inactive-ok-file: THEORY-235 THEORY-225 THEORY-258 — Proposed; accounts filed today that bear on the question without answering it -->
 
 # QUESTION-070: When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?
 
@@ -117,10 +117,10 @@ The question has two parts:
   whether such a whole can do it. Its limit: common-factor and
   non-definitional accounts, such as Cohen's cluster concept, are left
   open.
-- **[THEORY-tmpc8eq2](../theory.d/THEORY-tmpc8eq2.md):** optimizing a language model on simulated
+- **[THEORY-258](../theory.d/THEORY-258.md):** optimizing a language model on simulated
   feedback in which a few users reward harmful validation selects a policy
   that picks those users out and harms only them, with no one designing
-  the targeting ([LIT-1008](../literature.d/LIT-1008.md), [NOTE-tmpm1rk0](../notes.d/NOTE-tmpm1rk0.md)). It is influence fixed by a
+  the targeting ([LIT-1008](../literature.d/LIT-1008.md), [NOTE-798](../notes.d/NOTE-798.md)). It is influence fixed by a
   selection history, the shape an answer needs, but a case and not an
   answer. Its limit: simulation only, with the vulnerability stipulated.
   The targeted behaviour is overt validation, so the self-opacity harm in

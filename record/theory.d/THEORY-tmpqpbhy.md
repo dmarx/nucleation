@@ -30,7 +30,7 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 THEORY-228 THEORY-tmp1iy33 — Proposed; accounts this one bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 THEORY-228 THEORY-239 — Proposed; accounts this one bears on, not leaned on -->
 
 # THEORY-tmpqpbhy: When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required
 
@@ -102,7 +102,7 @@ ratio itself as its minimizer, and its excess loss bounds the risk of η
   the views. The signature here is the full kernel through random
   landmarks, not a low-dimensional eigenspace, and the guarantee is at the
   population ratio.
-- **[THEORY-tmp1iy33](THEORY-tmp1iy33.md).** The same conditional-expectation operator between
+- **[THEORY-239](THEORY-239.md).** The same conditional-expectation operator between
   two spaces, g ↦ E[g(Z)|X]. Zhai's result picks the top-d singular
   functions as the minimax span for compatible tasks; this one reads µ, an
   image of that operator, off the whole kernel. µ = E[h(Z)|X] with

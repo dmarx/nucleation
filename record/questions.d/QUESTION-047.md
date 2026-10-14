@@ -30,7 +30,7 @@ summary: >-
   and [QUESTION-049](QUESTION-049.md). [THEORY-143](../theory.d/THEORY-143.md), [THEORY-148](../theory.d/THEORY-148.md), [THEORY-146](../theory.d/THEORY-146.md) and
   [THEORY-151](../theory.d/THEORY-151.md) answer it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: THEORY-tmp3gjfu THEORY-tmpicw5l THEORY-tmpvtupa THEORY-tmpz5itv THEORY-tmprmrt9 — Proposed; readings listed with their limits, none taken as an answer -->
+<!-- inactive-ok-file: THEORY-242 THEORY-267 THEORY-290 THEORY-295 THEORY-tmprmrt9 — Proposed; readings listed with their limits, none taken as an answer -->
 
 # QUESTION-047: Can a community of individually sound inquirers settle on a belief none of them reasoned their way to, as an organized whole can settle on a course none of its members intends, and which community-level mechanisms set it?
 
@@ -48,10 +48,10 @@ summary: >-
 - [THEORY-148](../theory.d/THEORY-148.md): what matters is "diversity in what its members pursue that lasts long enough", with permanent diversity meaning the group never settles. Limit: bandit models, and no measure of duration.
 - [THEORY-146](../theory.d/THEORY-146.md): industry can bias the community "without corrupting any individual", through funding and the training of newcomers. This is the clearest systemic mechanism. Limit: one case and a small simulation.
 - [THEORY-151](../theory.d/THEORY-151.md): objectivity "belongs to a community's critical practices rather than to individual method". Limit: read from a summary. Its source says it is "not a claim about action or governance".
-- [THEORY-tmp3gjfu](../theory.d/THEORY-tmp3gjfu.md) ([LIT-939](../literature.d/LIT-939.md)): a spiral of silence can make a small fixed minority look far more widespread "without any member changing belief". Limit: appearance only. Private beliefs never change, so the community does not come to believe the minority view.
-- [THEORY-tmpicw5l](../theory.d/THEORY-tmpicw5l.md) ([LIT-958](../literature.d/LIT-958.md)): a prediction-market price keeps most of an arbitrary shock for sixty days. Limit: it is a price, not a belief. The data cannot say whether any trader came to believe the shocked price.
-- [THEORY-tmpvtupa](../theory.d/THEORY-tmpvtupa.md) ([LIT-966](../literature.d/LIT-966.md)): when debaters dislike changing their minds, one free-rides on the other's arguments and equilibrium falls short of the truth-optimal profile. Limit: two debaters, and the measure is collective accuracy, not a belief the pair settles on.
-- [THEORY-tmpz5itv](../theory.d/THEORY-tmpz5itv.md) ([LIT-988](../literature.d/LIT-988.md)): which models get proposed can hold a sound comparison procedure's consensus on a false model while results reproduce. Limit: the consensus is a standing view held by no one. The scientists in the model hold no beliefs.
+- [THEORY-242](../theory.d/THEORY-242.md) ([LIT-939](../literature.d/LIT-939.md)): a spiral of silence can make a small fixed minority look far more widespread "without any member changing belief". Limit: appearance only. Private beliefs never change, so the community does not come to believe the minority view.
+- [THEORY-267](../theory.d/THEORY-267.md) ([LIT-958](../literature.d/LIT-958.md)): a prediction-market price keeps most of an arbitrary shock for sixty days. Limit: it is a price, not a belief. The data cannot say whether any trader came to believe the shocked price.
+- [THEORY-290](../theory.d/THEORY-290.md) ([LIT-966](../literature.d/LIT-966.md)): when debaters dislike changing their minds, one free-rides on the other's arguments and equilibrium falls short of the truth-optimal profile. Limit: two debaters, and the measure is collective accuracy, not a belief the pair settles on.
+- [THEORY-295](../theory.d/THEORY-295.md) ([LIT-988](../literature.d/LIT-988.md)): which models get proposed can hold a sound comparison procedure's consensus on a false model while results reproduce. Limit: the consensus is a standing view held by no one. The scientists in the model hold no beliefs.
 - [THEORY-tmprmrt9](../theory.d/THEORY-tmprmrt9.md) ([LIT-999](../literature.d/LIT-999.md)): under repeated DeGroot averaging, a large society's consensus is right if and only if the largest influence weight vanishes, so with the rule held fixed the network structure alone decides whether the group belief is the truth or a leader's signal. Limit: the agents are naïve by design. They ignore repeated and correlated information, and only the first round is Bayesian, so the case fits "individually sound inquirers" only if a fixed reasonable rule counts as sound. A model, not a real community.
 
 ## What would answer it

@@ -330,7 +330,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Issues as Elements of Information Systems
 
-- [LIT-758](../record/literature.d/LIT-758.md) — Issues as Elements of Information Systems *(Deferred)*
+- [LIT-758](../record/literature.d/LIT-758.md) — Issues as Elements of Information Systems *(Active)*
   - [LIT-762](../record/literature.d/LIT-762.md) — gIBIS: a hypertext tool for exploratory policy discussion *(Deferred)*
     - [LIT-755](../record/literature.d/LIT-755.md) — A Process-Oriented Approach to Design Rationale *(Deferred)*
 

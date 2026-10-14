@@ -41,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
-<!-- inactive-ok-file: THEORY-tmps4hmc — Proposed; filed today, cited as a caution inside do(S), not leaned on -->
+<!-- inactive-ok-file: THEORY-282 — Proposed; filed today, cited as a caution inside do(S), not leaned on -->
 
 # CLAIM-130: Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed
 
@@ -141,7 +141,7 @@ itself.
 
 ## Note of 2026-10-14: a caution inside do(S)
 
-[THEORY-tmps4hmc](../theory.d/THEORY-tmps4hmc.md), filed from [LIT-968](../literature.d/LIT-968.md) (read in [NOTE-tmpefcvd](../notes.d/NOTE-tmpefcvd.md)), adds a caution
+[THEORY-282](../theory.d/THEORY-282.md), filed from [LIT-968](../literature.d/LIT-968.md) (read in [NOTE-782](../notes.d/NOTE-782.md)), adds a caution
 inside do(S), beside this claim's gap between telling an interpreter and
 changing the situation. A subspace intervention set to values off the data
 distribution can reproduce the output effect of changing a variable without

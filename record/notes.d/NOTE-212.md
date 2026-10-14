@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmplaa8p
 paper: LIT-229
 superseded_by:
-- NOTE-tmpjp0xd
+- NOTE-790
 title: 'Meaningful information (sophistication)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpjp0xd, a full reading of the paper filed on
+    Superseded by NOTE-790, a full reading of the paper filed on
     2026-10-14. This skim is kept as the record of what was known before
     it.
 date: '2026-09-26'

@@ -32,7 +32,7 @@ answers:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-094 — Proposed; the evidential accounts this one sits beside, open -->
-<!-- inactive-ok-file: THEORY-tmp7j1bc — Proposed; the COGITATE reading, cited for the kind of evidence it is -->
+<!-- inactive-ok-file: THEORY-245 — Proposed; the COGITATE reading, cited for the kind of evidence it is -->
 
 # THEORY-tmp1d8wy: Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory
 
@@ -95,6 +95,6 @@ surveys the candidates and finds none accepted.
   is a limit on the report channel and on validating bypasses.
 - [THEORY-023](THEORY-023.md) makes the same evidential point for AI. Box 3 states it for
   any creature without report.
-- COGITATE ([THEORY-tmp7j1bc](THEORY-tmp7j1bc.md)) is the adversarial collaboration the review
+- COGITATE ([THEORY-245](THEORY-245.md)) is the adversarial collaboration the review
   points to; its own concession that it may track stimulus processing is
   an instance of the validation problem.

@@ -192,7 +192,7 @@ explains later features of consciousness, not its origin.
 
 ## Note of 2026-10-14: [LIT-965](../literature.d/LIT-965.md) is not a second source
 
-Emergence from anaesthesia ([LIT-965](../literature.d/LIT-965.md), read in [NOTE-tmplqobb](../notes.d/NOTE-tmplqobb.md)) is consistent
+Emergence from anaesthesia ([LIT-965](../literature.d/LIT-965.md), read in [NOTE-797](../notes.d/NOTE-797.md)) is consistent
 with the subcortical clause: the cited data have ancient structures with
 "only limited neocortical involvement" sufficing. It must not count as a
 second source for "before and without cortex". The authors keep "limited

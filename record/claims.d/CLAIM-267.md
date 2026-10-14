@@ -19,7 +19,7 @@ history:
   date: '2026-10-14'
   note: >-
     Where the record applies it now names LIT-971's closed-form case of
-    the bounded regime (THEORY-tmpv649w), prompted by NOTE-tmpw3u6o. The
+    the bounded regime (THEORY-289), prompted by NOTE-815. The
     claim is unchanged.
 role: thesis
 defeated_if: A chain of maps on a metric space, with per-step discrepancies
@@ -45,7 +45,7 @@ supports:
 - CLAIM-191
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-068 CLAIM-106 CLAIM-191 QUESTION-017 — Proposed; cited for what each holds or applies, open, not settled -->
-<!-- inactive-ok-file: THEORY-tmpv649w — Proposed; filed today, cited as a closed-form instance, not leaned on -->
+<!-- inactive-ok-file: THEORY-289 — Proposed; filed today, cited as a closed-form instance, not leaned on -->
 
 # CLAIM-267: Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence
 
@@ -76,7 +76,7 @@ transport, which rests on [CLAIM-106](CLAIM-106.md)'s graded fidelity. [CLAIM-19
 it to restatements of an argument across sessions. Both now rest on this
 claim for the recursion and keep their own premises for the application.
 
-[THEORY-tmpv649w](../theory.d/THEORY-tmpv649w.md), filed from [LIT-971](../literature.d/LIT-971.md) (read in [NOTE-tmpw3u6o](../notes.d/NOTE-tmpw3u6o.md)), is an exact
+[THEORY-289](../theory.d/THEORY-289.md), filed from [LIT-971](../literature.d/LIT-971.md) (read in [NOTE-815](../notes.d/NOTE-815.md)), is an exact
 closed-form case of the bounded regime. When each round of a linear
 regression is refit to labels from the previous fit and earlier rounds'
 data are kept, the per-round discrepancy is scaled by 1/i, the weighted sum

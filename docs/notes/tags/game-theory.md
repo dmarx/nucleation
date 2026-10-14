@@ -4,7 +4,7 @@
 
 **game-theory**.
 
-12 of 755 NOTE documents. Back to the [full index](../README.md).
+13 of 820 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -20,3 +20,4 @@
 | [NOTE-613](../../../record/notes.d/NOTE-613.md) | That's what she (could have) said | Recursive Bayesian speaker–listener reasoning yields specificity implicatures but cannot derive Horn's principle from utterance costs alone; letting the agents be uncertain about the lexicon breaks the symmetry, so costlier signals go to less likely meanings in one-shot games without equilibrium refinements, and two online games with novel symbols show people drawing both implicatures without prior conventions. | Read |
 | [NOTE-646](../../../record/notes.d/NOTE-646.md) | Combining contextuality and causality | Extends sheaf-theoretic contextuality to causal scenarios by an enabling relation on measurements and a game reading: Nature's deterministic strategies, which may depend on causal history, replace the event sheaf, and the Abramsky–Brandenburger definitions then go through. Recovers flat contextuality and causal Bell scenarios, and expresses adaptive MBQC by Experimenter strategies. The strategy presheaf is not a sheaf: compatible deterministic local strategies can have no gluing or several. | Read |
 | [NOTE-717](../../../record/notes.d/NOTE-717.md) | Kamenica & Gentzkow — Bayesian Persuasion | With a common prior and a sender who commits to a signal the receiver sees, any distribution of posteriors whose mean is the prior can be induced, so the sender's best value is the concave closure of its posterior-value function at the prior (Corollary 2). A fully informed, fully rational receiver can be moved; at the optimum she is indifferent whenever she acts for the sender. The paper never cites Blackwell, does not analyse manipulation, and has the receiver know the design. | Read |
+| [NOTE-795](../../../record/notes.d/NOTE-795.md) | Handfield et al. — Cooperative Dilemmas in Rational Debate | Two debaters move through a Betz-style space of truth assignments, each moving minimally when refuted, with payoff u = w·v − d (true beliefs against changes of mind). At moderate truth weights the truth-optimal equilibrium is asymmetric: one debater argues boldly and the other free-rides with a compromise strategy, a snowdrift dilemma. At low weights, or with error, both exit. In a narrow borderline region of mixed equilibria, raising the weight on truth lowers collective accuracy. A two-person model, n = 3 propositions, and every result is numerical. | Read |

@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp8jvr3
 paper: LIT-239
 superseded_by:
-- NOTE-tmpjcfop
+- NOTE-787
 title: 'Kolmogorov''s structure functions and model selection'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpjcfop, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-787, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

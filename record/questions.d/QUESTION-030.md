@@ -25,7 +25,7 @@ refined_by:
 ---
 <!-- inactive-ok-file: LIT-485 — Deferred; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; a partial answer, cited as open -->
-<!-- inactive-ok-file: THEORY-tmps4hmc THEORY-tmpuieof THEORY-tmp6lt8x — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
+<!-- inactive-ok-file: THEORY-282 THEORY-287 THEORY-243 — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
 
 # QUESTION-030: Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it?
 
@@ -79,16 +79,16 @@ intervention on the relation and not a description of it.
 
 None of these speaks of constitution; each bears on one half.
 
-- **The empirical half.** [THEORY-tmps4hmc](../theory.d/THEORY-tmps4hmc.md) (from [LIT-968](../literature.d/LIT-968.md)): a subspace
+- **The empirical half.** [THEORY-282](../theory.d/THEORY-282.md) (from [LIT-968](../literature.d/LIT-968.md)): a subspace
   intervention can reproduce the output effect of changing a variable
   without localizing it, through a direction that cannot reach the output
   on the data. An intervention that produces the predicted output is not
-  yet evidence that the intervened variable mediates. [THEORY-tmpuieof](../theory.d/THEORY-tmpuieof.md)
+  yet evidence that the intervened variable mediates. [THEORY-287](../theory.d/THEORY-287.md)
   (from [LIT-987](../literature.d/LIT-987.md)): variables located by interchange intervention predict
   behaviour under shifts that keep the mechanism better than features
   chosen otherwise. That separates mediating from accompanying features in
   a weaker form, and says nothing about constitution.
-- **The conceptual half.** [THEORY-tmp6lt8x](../theory.d/THEORY-tmp6lt8x.md) (from [LIT-961](../literature.d/LIT-961.md) and [LIT-968](../literature.d/LIT-968.md)):
+- **The conceptual half.** [THEORY-243](../theory.d/THEORY-243.md) (from [LIT-961](../literature.d/LIT-961.md) and [LIT-968](../literature.d/LIT-968.md)):
   interventions on a fixed set of variables can be satisfied equally by
   alignments related by a change of basis, so which direction mediates is
   fixed only relative to a chosen decomposition into units. The tests

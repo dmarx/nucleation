@@ -188,7 +188,7 @@ This finding meets the onset prediction the workspace's proponents made, and [TH
 
 ## Note of 2026-10-14: COGITATE replicates it for category, and narrows the title
 
-COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-tmpuu1fr](../notes.d/NOTE-tmpuu1fr.md)) is the multi-duration result the
+COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-812](../notes.d/NOTE-812.md)) is the multi-duration result the
 first kind of promote_when names: an independent intracranial cohort with
 576 prefrontal electrodes. It finds a sustained posterior category
 representation, and prefrontal category content confined to onset with

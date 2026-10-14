@@ -12,7 +12,7 @@ promote_when: >-
   CCA, but the objective is Barlow Twins, not an asymmetric objective of the
   BYOL kind, and the CCA identification is asserted, not derived; Simon et
   al. (NOTE-741) treat two-tower pairs, but with a symmetrized loss.
-  Zhai's thesis (LIT-975, NOTE-tmp7o2ar) is nearer than LIT-228: the
+  Zhai's thesis (LIT-975, NOTE-770) is nearer than LIT-228: the
   singular value decomposition is derived (Theorem 2.11) and holds for
   X ≠ A, but asymmetric objectives such as BYOL and SimSiam are named,
   not analysed. None meets it.
@@ -37,7 +37,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After NOTE-tmp7o2ar (LIT-975, THEORY-tmp1iy33). LIT-975 added to
+    After NOTE-770 (LIT-975, THEORY-239). LIT-975 added to
     promote_when's near misses, nearer than LIT-228 but not meeting it.
     The mechanism is restated: the thesis gets self-adjointness by
     composing the conditional-expectation operator with its adjoint, not
@@ -79,7 +79,7 @@ extends:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-tmp1iy33 — Proposed; the account filed from LIT-975, cited for the mechanism it sharpens, not leaned on -->
+<!-- inactive-ok-file: THEORY-239 — Proposed; the account filed from LIT-975, cited for the mechanism it sharpens, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpiw6t1 — Proposed; the representer-theorem account filed from LIT-261, cited as a parallel case, not leaned on -->
 
 # THEORY-009: Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
@@ -92,7 +92,7 @@ Johnson, El Hanchi & Maddison (2023), [LIT-258](../literature.d/LIT-258.md), App
 
 Every spectral result in these papers rests on a symmetric operator. Johnson et al. use the symmetry of P_(A,A) to make D^(−½)P D^(−½) orthogonally diagonalizable, which yields the orthonormality all their theorems use (App. C). They call M "the symmetric matrix" without argument; it is symmetric, and positive semidefinite, because the proof of Thm 3.2 writes it as a Gram matrix BᵀB, which holds because both views are drawn independently from the same p(A|Z). HaoChen et al. apply the spectral theorem to a square-integrable kernel k(u,v) = w(u,v)/√(w(u)w(v)) (App. F). They never write "symmetric": the symmetry follows from w(u,v) = w(v,u), which holds because both views come from the same A(·|x̄), and they use it throughout the finite case as well. Pfau et al. note that reversible dynamics make "the transition function … a symmetric operator" (§5.2), but that is an aside no derivation uses: in SpIN symmetry is a precondition placed on the kernel k (§3.2), which puts it nearer Simon et al. than the positive-pair papers. Simon et al. symmetrize by hand, Γ = (1/2n)Σ(x_i x_i′ᵀ + x_i′ x_iᵀ) (eq. 4); there the symmetry comes from symmetrizing the loss, not from the pair distribution, and they apply the same Γ to CLIP-like two-tower pairs (§5.2), where there is no single space and no symmetric pair distribution. Neither Johnson et al. nor HaoChen et al. mention Riesz. For finite matrices and integral operators the adjoint is the transpose, written down directly; Riesz is what defines the adjoint of a general bounded operator ([LIT-230](../literature.d/LIT-230.md)).
 
-**A sharper statement of the mechanism.** Zhai's thesis ([LIT-975](../literature.d/LIT-975.md), read in [NOTE-tmp7o2ar](../notes.d/NOTE-tmp7o2ar.md); [THEORY-tmp1iy33](THEORY-tmp1iy33.md)) obtains every self-adjoint operator by composing the conditional-expectation operator g ↦ E[g(A)|X], which runs between two different spaces and is never assumed symmetric, with its adjoint, given in closed form by Bayes' rule. So self-adjointness comes from that composition, not from the symmetry of the pair. The multi-view case is a special case: there (A, A⁺) is exchangeable because both are drawn from P⁺(·|x), which is the symmetry this account names, seen from the construction side. Riesz is not used here either.
+**A sharper statement of the mechanism.** Zhai's thesis ([LIT-975](../literature.d/LIT-975.md), read in [NOTE-770](../notes.d/NOTE-770.md); [THEORY-239](THEORY-239.md)) obtains every self-adjoint operator by composing the conditional-expectation operator g ↦ E[g(A)|X], which runs between two different spaces and is never assumed symmetric, with its adjoint, given in closed form by Bayes' rule. So self-adjointness comes from that composition, not from the symmetry of the pair. The multi-view case is a special case: there (A, A⁺) is exchangeable because both are drawn from P⁺(·|x), which is the symmetry this account names, seen from the construction side. Riesz is not used here either.
 
 The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof ([LIT-261](../literature.d/LIT-261.md), eqs. 18–24; [THEORY-tmpiw6t1](THEORY-tmpiw6t1.md)) uses the reproducing property and orthogonal projection, not Riesz; the word does not occur in the paper.
 

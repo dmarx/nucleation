@@ -116,7 +116,7 @@ Unavailable, so the bound is still cited unread.
 ## Note of 2026-10-14: what the founding paper and Hopfield's model say
 
 - **IBIS reports adoption, not abandonment** ([LIT-758](../literature.d/LIT-758.md), read in
-  [NOTE-tmptx0xy](../notes.d/NOTE-tmptx0xy.md)). The founding paper reports "eager acceptance by the
+  [NOTE-811](../notes.d/NOTE-811.md)). The founding paper reports "eager acceptance by the
   users" and gives no account of what keeping an IBIS costs. Its operating
   cycle has staff edit issues "in contact with" the participant who raised
   them, so filer and arguer were already separate in the original design,
@@ -124,7 +124,7 @@ Unavailable, so the bound is still cited unread.
   describes may depend on who the filer is. It is one sentence of design,
   not evidence.
 - **A capacity limit cuts the other way** ([LIT-918](../literature.d/LIT-918.md), read in
-  [NOTE-tmpyx2db](../notes.d/NOTE-tmpyx2db.md)). In Hopfield's model spurious states occur at low load
+  [NOTE-819](../notes.d/NOTE-819.md)). In Hopfield's model spurious states occur at low load
   too, and overload is total loss: it "makes all memory states
   irretrievable unless there is a provision for forgetting old memories".
   Read across, a record past its load would lose access to its old

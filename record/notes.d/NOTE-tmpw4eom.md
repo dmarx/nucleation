@@ -30,7 +30,7 @@ summary: >-
   theory.
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-094 — Proposed; the evidential accounts this reading bears on, open -->
-<!-- inactive-ok-file: THEORY-tmp1d8wy THEORY-091 THEORY-tmp7j1bc THEORY-tmpztbz7 — Proposed; the account filed from this reading, and readings it bears on, open -->
+<!-- inactive-ok-file: THEORY-tmp1d8wy THEORY-091 THEORY-245 THEORY-296 — Proposed; the account filed from this reading, and readings it bears on, open -->
 <!-- inactive-ok-file: CLAIM-003 CLAIM-039 — Deferred; claims QUESTION-048 bears on, not leaned on -->
 
 # NOTE-tmpw4eom: Seth & Bayne — Theories of consciousness
@@ -180,7 +180,7 @@ implicit throughout; Block is not cited.
 - **[THEORY-091](../theory.d/THEORY-091.md)** (deficits): the review's lesion and brain-injury evidence
   is presented as evidence for theories, without the access caveat.
   Nothing here disputes [THEORY-091](../theory.d/THEORY-091.md).
-- **COGITATE ([THEORY-tmp7j1bc](../theory.d/THEORY-tmp7j1bc.md), [THEORY-tmpztbz7](../theory.d/THEORY-tmpztbz7.md)).** The review predates it
+- **COGITATE ([THEORY-245](../theory.d/THEORY-245.md), [THEORY-296](../theory.d/THEORY-296.md)).** The review predates it
   and points to the adversarial collaboration that produced it.
 - **Second part of [QUESTION-048](../questions.d/QUESTION-048.md)** (systems without cortex or biology).
   The review notes IIT's implication of non-biological consciousness and

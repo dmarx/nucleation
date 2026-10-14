@@ -26,7 +26,7 @@ summary: >-
   own statement, and the paper never considers contrastive kernels or
   positive pairs.
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-tmp1iy33 — Proposed; the accounts this reading bears on -->
+<!-- inactive-ok-file: THEORY-009 THEORY-239 — Proposed; the accounts this reading bears on -->
 <!-- inactive-ok-file: NOTE-231 — Superseded; the seeded skim this reading replaces, named for a wording it corrects -->
 
 # NOTE-tmp5aqd2: Pfau et al. — Spectral Inference Networks
@@ -218,6 +218,6 @@ eigenfunctions of K⁺, and use NeuralEF ([NOTE-751](NOTE-751.md)).
 
 - What does the method compute when k is not symmetric, for example the
   transition kernel of non-reversible dynamics, where the natural object
-  is a singular value decomposition ([THEORY-009](../theory.d/THEORY-009.md), [THEORY-tmp1iy33](../theory.d/THEORY-tmp1iy33.md))?
+  is a singular value decomposition ([THEORY-009](../theory.d/THEORY-009.md), [THEORY-239](../theory.d/THEORY-239.md))?
 - Is there a rigorous version of Claim 2, under what conditions on the
   function class and the optimizer?

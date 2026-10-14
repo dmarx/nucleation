@@ -25,7 +25,7 @@ summary: >-
   structure for a non-invertible or one-way map, and the stability of
   truncated eigenspaces is cited to Kato, not shown.
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-tmp1iy33 — Proposed; accounts this one sits beside, open -->
+<!-- inactive-ok-file: THEORY-009 THEORY-239 — Proposed; accounts this one sits beside, open -->
 
 # THEORY-tmp11baf: A bijection between shapes is equivalent to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace
 
@@ -80,7 +80,7 @@ why the paper uses an unweighted Laplacian where it helps compactness.
   eigenspaces, as spaces, not as bases, which is [CLAIM-164](../claims.d/CLAIM-164.md)'s point. It
   gives nothing for the directed case the question asks about, so it is
   not filed as an answer.
-- [THEORY-tmp1iy33](THEORY-tmp1iy33.md) obtains singular functions of an operator between two
+- [THEORY-239](THEORY-239.md) obtains singular functions of an operator between two
   spaces from a joint law. Functional maps are another operator between
   two spaces, whose structure comes from a bijection and an intrinsic
   Laplacian, not from a pair distribution.

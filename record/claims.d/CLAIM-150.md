@@ -34,7 +34,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
-<!-- inactive-ok-file: THEORY-tmp6lt8x — Proposed; filed today, cited as an instance of this claim's premise, not leaned on -->
+<!-- inactive-ok-file: THEORY-243 — Proposed; filed today, cited as an instance of this claim's premise, not leaned on -->
 
 # CLAIM-150: Identification is not constitution: neither the Yoneda lemma, nor the invariance of a character, nor predictive or interventional success shows that relations constitute what a communicative act is, because an ontology of intrinsically individuated objects with relational properties can reproduce the same predictions
 
@@ -114,8 +114,8 @@ structural realism, and Yoneda does not supply the commitment.
 
 ## Note of 2026-10-14: a proved instance in networks
 
-[THEORY-tmp6lt8x](../theory.d/THEORY-tmp6lt8x.md), filed from [LIT-961](../literature.d/LIT-961.md) and [LIT-968](../literature.d/LIT-968.md) (read in [NOTE-tmptglsv](../notes.d/NOTE-tmptglsv.md) and
-[NOTE-tmpefcvd](../notes.d/NOTE-tmpefcvd.md)), is a proved instance of this claim's premise that
+[THEORY-243](../theory.d/THEORY-243.md), filed from [LIT-961](../literature.d/LIT-961.md) and [LIT-968](../literature.d/LIT-968.md) (read in [NOTE-809](../notes.d/NOTE-809.md) and
+[NOTE-782](../notes.d/NOTE-782.md)), is a proved instance of this claim's premise that
 operational identification does not give the third sense. In a constructed
 three-unit network, interchange interventions on a fixed set of variables
 are satisfied equally by alignments related by a change of basis, so success

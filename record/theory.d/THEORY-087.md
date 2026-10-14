@@ -64,7 +64,7 @@ supports:
 - Watanabe (2012; JMLR 2013), [LIT-616](../literature.d/LIT-616.md), read in [NOTE-473](../notes.d/NOTE-473.md): Eq. 14
   (regular and singular), Eqs. 18–19 (the RLCT), Lemma 3, Theorems 2, 4
   and 5, Table 3 and the remark in §7.1.
-- Grünwald & Roos (2019), [LIT-238](../literature.d/LIT-238.md), read in [NOTE-tmp582tx](../notes.d/NOTE-tmp582tx.md): eqs. (15)–(16),
+- Grünwald & Roos (2019), [LIT-238](../literature.d/LIT-238.md), read in [NOTE-760](../notes.d/NOTE-760.md): eqs. (15)–(16),
   a second source for the regular half only (added 2026-10-14).
 
 ## The claim, in two halves

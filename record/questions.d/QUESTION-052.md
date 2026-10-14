@@ -21,7 +21,7 @@ answered_by:
 - THEORY-007
 - THEORY-009
 - THEORY-228
-- THEORY-tmp1iy33
+- THEORY-239
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-027](QUESTION-027.md), [CLAIM-098](../claims.d/CLAIM-098.md), CLAIM-193,
@@ -30,7 +30,7 @@ summary: >-
   each one's limit.
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-228 THEORY-tmp1iy33 — Proposed; partial answers filed in the last two days, cited with their limits -->
+<!-- inactive-ok-file: THEORY-228 THEORY-239 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
 # QUESTION-052: If a kind's admissible transformations are given as a distribution over pairs of its realizations, is its stable, decision-sufficient signature the top eigenspace of the pair operator, and what takes that role when the transformations are directed?
 
@@ -51,7 +51,7 @@ Treat "these two realizations are of the same kind" as a joint distribution over
 - [THEORY-003](../theory.d/THEORY-003.md): HSIC maximizes the "average squared MMD" between kinds, which gives discrimination. Limit: it is injective only for a characteristic kernel.
 - [THEORY-006](../theory.d/THEORY-006.md): the information bound "can never exceed the log of the batch size" and does not track quality, so the signature is not an amount of information (compare [CLAIM-043](../claims.d/CLAIM-043.md)).
 - [THEORY-228](../theory.d/THEORY-228.md): at the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label over the squared sparsest-partition conductance of the augmentation graph. So the top eigenvectors are decision-sufficient for linear classification of any labelling that rarely crosses the graph's sparse cuts. Limit: finite augmentation spaces, symmetric pairs, the optimum of one loss; nothing about what training reaches.
-- [THEORY-tmp1iy33](../theory.d/THEORY-tmp1iy33.md): for any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique span minimizing worst-case linear-probe error over tasks of high compatibility. This is the singular-function result asked for below, for linear decisions, between two different spaces. Limit: population level and linear probes only; a directed kernel on a single space is never worked out.
+- [THEORY-239](../theory.d/THEORY-239.md): for any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique span minimizing worst-case linear-probe error over tasks of high compatibility. This is the singular-function result asked for below, for linear decisions, between two different spaces. Limit: population level and linear probes only; a directed kernel on a single space is never worked out.
 
 ## What would answer it
 

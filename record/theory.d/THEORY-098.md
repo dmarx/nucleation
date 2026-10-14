@@ -42,7 +42,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    A note added from NOTE-tmpuu1fr (LIT-973, COGITATE): the predicted
+    A note added from NOTE-812 (LIT-973, COGITATE): the predicted
     sustained posterior gamma coupling with early visual cortex was not
     found, so the data do not support sustained recurrent coupling as
     the carrier. The statement and status are unchanged.
@@ -80,7 +80,7 @@ answers:
 <!-- inactive-ok-file: THEORY-103 THEORY-094 — Proposed; filed in the same batch, the overflow account and the methodological account this one presupposes -->
 <!-- inactive-ok-file: THEORY-102 THEORY-100 — Proposed; named in Connections as data this account reads, no relation claimed -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
-<!-- inactive-ok-file: THEORY-tmpztbz7 — Proposed; the failed synchronization prediction, named in the note of 2026-10-14 -->
+<!-- inactive-ok-file: THEORY-296 — Proposed; the failed synchronization prediction, named in the note of 2026-10-14 -->
 
 # THEORY-098: The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex
 
@@ -228,13 +228,13 @@ with intracranial prefrontal recording would bear on both.
 
 ## Note of 2026-10-14: COGITATE and sustained recurrence
 
-COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-tmpuu1fr](../notes.d/NOTE-tmpuu1fr.md)) is consistent with this account
+COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-812](../notes.d/NOTE-812.md)) is consistent with this account
 in one respect: content in all three tested dimensions sat in posterior
 cortex, and prefrontal cortex added nothing decodable beyond category. But
 IIT's proponents predicted sustained gamma-band synchronization between
 category-selective cortex and V1/V2 throughout the percept, and it was not
 found. The coupling was brief, low-frequency and mostly evoked
-([THEORY-tmpztbz7](THEORY-tmpztbz7.md)). That prediction is about recurrence between high-level
+([THEORY-296](THEORY-296.md)). That prediction is about recurrence between high-level
 areas and early visual cortex, so the data do not support sustained
 recurrent coupling as the carrier of the experience. V1/V2 was sparsely
 sampled in iEEG, and the test was of one proposed implementation. The

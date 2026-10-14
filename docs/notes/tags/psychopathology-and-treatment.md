@@ -4,7 +4,7 @@
 
 **psychopathology-and-treatment**.
 
-15 of 755 NOTE documents. Back to the [full index](../README.md).
+16 of 820 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -23,3 +23,4 @@
 | [NOTE-453](../../../record/notes.d/NOTE-453.md) | Evolution of the Internal Family Systems Model | Schwartz's short statement of the IFS model. A person is "an ecology of relatively discrete minds", parts forced into managerial, exiled or firefighting roles by experience, which can return to valuable roles. At the core is a Self with leadership qualities (the eight Cs), reached when parts "step back", as in the founding case of "Diane". The Self is an active healer, not a witness. A practitioner's essay; its evidence is clinical experience. | Read |
 | [NOTE-457](../../../record/notes.d/NOTE-457.md) | Internal Family Systems Therapy | Chapter 1 only. Schwartz tells how IFS grew out of structural and strategic family therapy. Clients with bulimia described warring "parts". Coercing parts made matters worse, and curiosity revealed that they protected the client. When interfering parts were asked to "step back", a calm, compassionate "Self" appeared that needed no development. The chapter ends with eight essentials: ecological respect for protectors, Self-leadership, unblending, attention to polarizations, non-pathologizing burdens, movement between system levels, and innate self-healing. | Skimmed |
 | [NOTE-703](../../../record/notes.d/NOTE-703.md) | Forssten et al. — One Giant Leap from Mouse to Man | A narrative review, by employees of a probiotics manufacturer, of the microbiota–gut–brain axis in mood. The routes in rodents are well documented. Faecal transplant from depressed humans partly transfers the phenotype to rodents. Human trials are mixed: some reductions in subjective stress in healthy volunteers, and several clean nulls for strains with strong preclinical records. It documents its own translational failures and ends more optimistically than they warrant. | Read |
+| [NOTE-766](../../../record/notes.d/NOTE-766.md) | Linson et al. — Impaired context disambiguation in post-traumatic psychopathology | An active-inference model of PTSD as lost context disambiguation. An overly precise prior that one is in a harmful context makes the exploratory policy look uninformative. The agent attenuates its periphery, never gets the evidence that would correct the prior, and the belief sustains itself. Shown only in illustrative simulations, which also contrast exposure that restores context sensitivity with a precision-lowering drug that removes symptoms until it stops. | Read |

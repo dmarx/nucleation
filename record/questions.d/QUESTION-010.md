@@ -17,11 +17,11 @@ summary: >-
   synthesis." Gestured at in the manuscript (§8, §11), not posed.
 answered_by:
 - THEORY-199
-- THEORY-tmprhafq
+- THEORY-281
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-tmprhafq — Proposed; a partial answer filed today, cited with its limit -->
+<!-- inactive-ok-file: THEORY-281 — Proposed; a partial answer filed today, cited with its limit -->
 
 # QUESTION-010: Can a reconstruction chain preserve information sufficient for one family of pragmatic tasks while progressively destroying the relations needed to support another?
 
@@ -65,4 +65,4 @@ says; none has yet been assessed as an answer, and none is linked by
 
 ## Note of 2026-10-14: a second one-step partial answer
 
-[THEORY-tmprhafq](../theory.d/THEORY-tmprhafq.md), filed from [LIT-963](../literature.d/LIT-963.md), answers the one-step, information-theoretic form for one categorical concept: perfect erasure of a concept A caps what a representation keeps about X at H(X|A). Everything about A can be destroyed while that much is kept, and no more. Limits: one step, not a chain, and task families defined only by a categorical concept.
+[THEORY-281](../theory.d/THEORY-281.md), filed from [LIT-963](../literature.d/LIT-963.md), answers the one-step, information-theoretic form for one categorical concept: perfect erasure of a concept A caps what a representation keeps about X at H(X|A). Everything about A can be destroyed while that much is kept, and no more. Limits: one step, not a chain, and task families defined only by a categorical concept.
