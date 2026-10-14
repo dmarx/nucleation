@@ -20,7 +20,7 @@ summary: >-
   Manner. Grice flags the second Quantity maxim as disputable, defers
   Relation, and calls the information-exchange framing too narrow.
 ---
-<!-- inactive-ok-file: LIT-tmpswf3g — Deferred: read only in part, filed with this skim on 2026-10-13; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-tmpswf3g — Unavailable: read only in part, no full lawful copy reached, filed with this skim on 2026-10-13; the directive lapses when its status changes -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, the record's formal successor to this account, open -->
 

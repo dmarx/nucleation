@@ -41,7 +41,7 @@ summary: >-
   understood.
 ---
 <!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this work was filed for, open -->
-<!-- inactive-ok-file: LIT-785 — Deferred; Austin, unread here, the book this paper reads -->
+<!-- inactive-ok-file: LIT-785 — Unavailable; Austin, unread here, the book this paper reads -->
 
 # LIT-tmpyozog: Intention and Convention in Speech Acts
 

@@ -24,7 +24,7 @@ summary: >-
   overt intention meant to be understood.
 ---
 <!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 CASE-018 CASE-069 — Proposed or Open; the objection, claim, question and cases this reading bears on, open -->
-<!-- inactive-ok-file: LIT-785 LIT-780 — Deferred; Austin and Goffman, unread here, named and not leaned on -->
+<!-- inactive-ok-file: LIT-785 LIT-780 — Unavailable; Austin and Goffman, unread here, named and not leaned on -->
 
 # NOTE-tmpqe25w: Strawson — Intention and Convention in Speech Acts
 

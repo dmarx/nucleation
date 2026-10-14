@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 from catalogue records, not read: no lawful full text was reachable. The Internet Archive holds the 1979 and 1982 MIT Press printings only as controlled-lending items (access-restricted), and MIT Press offers no open access. No NOTE is filed. It stays Deferred until a copy is supplied. The last of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
+status: Unavailable
+status_note: 'filed 2026-10-13 from catalogue records, not read: no lawful full text was reachable. The Internet Archive holds the 1979 and 1982 MIT Press printings only as controlled-lending items (access-restricted), and MIT Press offers no open access. No NOTE is filed. It stays Unavailable until a copy is supplied: a lawful copy exists, as lending items, but this client could not borrow it (ADR-041). The last of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
 title: 'Linguistic Communication and Speech Acts'
 version: 1
 history:
@@ -18,7 +18,9 @@ history:
     that LCCN record. The book has no DOI. `published:` is the 1979
     first printing, year only. Not held in the Anthology of the SOTA: a
     grep of its record/ (clone of 2026-10-13, commit d1573d2) for
-    "Harnish" found nothing.
+    "Harnish" found nothing. Filed as Deferred while this contribution was
+    open; set Unavailable before merge under ADR-041, since its note records
+    a search and a copy that could not be obtained.
 tags:
 - pragmatics
 - philosophy-of-language

@@ -1,6 +1,6 @@
 ---
-status: Deferred
-status_note: 'filed 2026-10-13 and read only in part: pp. 45–47, the Cooperative Principle and the maxims, from an excerpt on a Simon Fraser University course page ([NOTE-tmp1p65z](../notes.d/NOTE-tmp1p65z.md), Skimmed). The rest of the chapter, pp. 41–44 and 47–58, was not reachable from a lawful source: the other copies found are Scribd and PDF-aggregator uploads and a course-licensed reprint on a non-university site. The definition of conversational implicature, its tests and the worked examples are therefore not read here. It stays Deferred until a full copy is supplied. The third of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
+status: Unavailable
+status_note: 'filed 2026-10-13 and read only in part: pp. 45–47, the Cooperative Principle and the maxims, from an excerpt on a Simon Fraser University course page ([NOTE-tmp1p65z](../notes.d/NOTE-tmp1p65z.md), Skimmed). The rest of the chapter, pp. 41–44 and 47–58, was not reachable from a lawful source: the other copies found are Scribd and PDF-aggregator uploads and a course-licensed reprint on a non-university site. The definition of conversational implicature, its tests and the worked examples are therefore not read here. It stays Unavailable until a full copy is supplied (ADR-041): the search for one is recorded, and only an excerpt was read. The third of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
 title: 'Logic and Conversation'
 version: 1
 history:
@@ -22,7 +22,9 @@ history:
     Grice's Studies in the Way of Words (Harvard, 1989), not consulted.
     Not held in the Anthology of the SOTA: a grep of its record/ (clone of
     2026-10-13, commit d1573d2) for "Grice", "Logic and Conversation" and
-    "implicature" found nothing.
+    "implicature" found nothing. Filed as Deferred while this contribution
+    was open; set Unavailable before merge under ADR-041, since its note
+    records a failed search for the full chapter.
 tags:
 - pragmatics
 - philosophy-of-language
