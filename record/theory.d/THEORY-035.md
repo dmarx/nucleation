@@ -22,6 +22,18 @@ promote_when: >-
 title: 'Deep networks generalise because the diffusion phase of SGD compresses each layer''s information about the input'
 version: 3
 history:
+- version: 2
+  date: '2026-09-30'
+  note: >-
+    Saxe et al. (LIT-372) filed and read (NOTE-320), and added to
+    source after LIT-324. The rejection now cites their evidence first-hand
+    in place of saying it was not in the record: the phases depend on
+    nonlinearity and estimator, compression and generalisation dissociate,
+    full-batch GD compresses as SGD does, and the drift-to-diffusion
+    transition is real but generic. The step I(X;T) = H(T) for a
+    deterministic network, formerly this document's own inference, is now
+    attributed to Saxe et al.'s eqs. 1–3 and App. C. The status stays
+    Rejected; the status note and promote_when are updated to match.
 - version: 3
   date: '2026-10-14'
   note: >-
@@ -36,18 +48,6 @@ history:
     infinite and bound generalisation by a divergence of the latents to a
     symmetric prior. That quantity is added under what this does not say.
     The status stays Rejected.
-- version: 2
-  date: '2026-09-30'
-  note: >-
-    Saxe et al. (LIT-372) filed and read (NOTE-320), and added to
-    source after LIT-324. The rejection now cites their evidence first-hand
-    in place of saying it was not in the record: the phases depend on
-    nonlinearity and estimator, compression and generalisation dissociate,
-    full-batch GD compresses as SGD does, and the drift-to-diffusion
-    transition is real but generic. The step I(X;T) = H(T) for a
-    deterministic network, formerly this document's own inference, is now
-    attributed to Saxe et al.'s eqs. 1–3 and App. C. The status stays
-    Rejected; the status note and promote_when are updated to match.
 tags:
 - learning-theory
 - information-theory
