@@ -1,11 +1,19 @@
 ---
 number: 232
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpv3qzd
 paper: LIT-247
+superseded_by:
+- NOTE-tmpqr9lw
 title: 'Tschannen et al., on MI maximization for representations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpqr9lw, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   The success of InfoNCE-style representation learning cannot be attributed to mutual information itself: MI is invariant under invertible reparametrizations, invertible encoders that maximize true MI can be worse than raw pixels, and tighter MI bounds from higher-capacity critics can give worse representations.
