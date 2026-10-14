@@ -20,7 +20,7 @@ date: '2026-10-14'
 source:
 - LIT-997
 summary: >-
-  Abdulhai et al. (2026), LIT-997, read in NOTE-tmpttbar, §4.2 and Figs.
+  Abdulhai et al. (2026), [LIT-997](../literature.d/LIT-997.md), read in [NOTE-tmpttbar](../notes.d/NOTE-tmpttbar.md), §4.2 and Figs.
   1, 5, 13–25. Three LLMs revising 86 ArgRewrite-v2 drafts under five
   prompts moved them further than the students' own 2021 revisions did,
   and in one common direction, under two embeddings. Shown in plots, with
@@ -35,7 +35,7 @@ summary: >-
 ## Source
 
 Abdulhai, White, Wan, Qureshi, Leibo, Kleiman-Weiner and Jaques (2026),
-LIT-997 (arXiv v2), read in full in NOTE-tmpttbar: §3.2 (the embedding
+[LIT-997](../literature.d/LIT-997.md) (arXiv v2), read in full in [NOTE-tmpttbar](../notes.d/NOTE-tmpttbar.md): §3.2 (the embedding
 measure), §4.2 (the counterfactual edits), Figs. 1 and 5, Appendix B.1
 (prompts) and B.2–B.7 (per-model plots, captions only).
 
@@ -92,27 +92,27 @@ change for human edits (§§4.5–4.7).
 - **It is not the user-study stance result.** That heavy LLM users' essays
   were judged neutral more often (66.7% against 39.5%) rests on one prompt,
   an unvalidated gpt-4o judge, a self-selected group and two discordant
-  p-values (NOTE-tmpttbar, C2). It is not part of this claim.
+  p-values ([NOTE-tmpttbar](../notes.d/NOTE-tmpttbar.md), C2). It is not part of this claim.
 - **It is not an instruction.** The authors' call for models that infer
   intended meaning is a research direction and is not filed here.
 
 ## Connections
 
 No relations are declared. The result is about an embedding measure that
-QUESTION-002 says an answer must beat, so it cannot answer the question.
+[QUESTION-002](../questions.d/QUESTION-002.md) says an answer must beat, so it cannot answer the question.
 
-- **QUESTION-002 (what survives a rendering).** A measured case of a
+- **[QUESTION-002](../questions.d/QUESTION-002.md) (what survives a rendering).** A measured case of a
   rewriting that keeps topic and genre and moves something else. What it
   shows moves is embedding position and lexical profile; that stance and
   voice move is shown only by examples and by the weaker user-study label.
-- **CLAIM-147 (Study B).** ArgRewrite-v2 under these five prompts, with
+- **[CLAIM-147](../claims.d/CLAIM-147.md) (Study B).** ArgRewrite-v2 under these five prompts, with
   each essay's human counterfactual, is a graded set of transformations of
   one source on which relational measures could be tested against the
   embedding measure used here.
-- **CLAIM-115.** The claim predicts that fidelity judgements track
+- **[CLAIM-115](../claims.d/CLAIM-115.md).** The claim predicts that fidelity judgements track
   preserved pragmatic relations better than embedding similarity. This
   paper supplies the embedding side only.
-- **THEORY-173 (large models as cultural technologies).** Its distinctive
+- **[THEORY-173](THEORY-173.md) (large models as cultural technologies).** Its distinctive
   prediction is that routing cultural production through large models
   narrows it toward what was common in training. A shared direction of
   displacement, into a region no human essay occupies, is consistent
