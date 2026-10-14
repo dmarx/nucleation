@@ -161,6 +161,8 @@ this directory, then run `luria index`.
 
 **By standing:** [Documented](standing/documented.md) (31) · [Stipulated](standing/stipulated.md) (35) · [Fictional](standing/fictional.md) (15)
 
+**By kind:** [Specimen](kind/specimen.md) (31) · [Thought experiment](kind/thought-experiment.md) (25) · [Construction](kind/construction.md) (6) · [Reported study](kind/reported-study.md) (5) · [Proposed study](kind/proposed-study.md) (10) · [Executed study](kind/executed-study.md) (4)
+
 **By line:** [Distributed agency](line/distributed-agency.md) (12) · [Will-organization](line/will-organization.md) (9) · [Organizational affect](line/organizational-affect.md) (2) · [Authenticity and concordance](line/authenticity.md) (0) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (52) · [Nucleating an argument](line/nucleating-argument.md) (0) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0) · [Formal apparatus](line/formal-apparatus.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.

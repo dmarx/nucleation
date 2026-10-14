@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [14 Oct 00:10 — A typology of cases: kind, beside standing (ADR-042, proposed)](2026-10.md#a-typology-of-cases-kind-beside-standing-adr-042-proposed)
 - [13 Oct 22:13 — The same audit for claims and cases: eight claims and four cases added from the meaning-operators exchange](2026-10.md#the-same-audit-for-claims-and-cases-eight-claims-and-four-cases-added-from-the-meaning-operators-exchange)
 - [13 Oct 22:04 — The first filing of the meaning-operators exchange under-filed its questions: ten added, and the manuscript registered](2026-10.md#the-first-filing-of-the-meaning-operators-exchange-under-filed-its-questions-ten-added-and-the-manuscript-registered)
 - [13 Oct 21:29 — Session of 2026-10-13, 19:43–21:12 (U1–U11): meaning operators, an influence canvas, r/place, and a constitutive theory of selfhood](2026-10.md#session-of-2026-10-13-19432112-u1u11-meaning-operators-an-influence-canvas-rplace-and-a-constitutive-theory-of-selfhood)
@@ -56,8 +57,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-47 entries across 1 book, newest first.
+48 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 47 | 2026-10-07 | 2026-10-13 |
+| [2026-10](2026-10.md) | 48 | 2026-10-07 | 2026-10-14 |

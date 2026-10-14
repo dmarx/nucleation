@@ -4,7 +4,7 @@
 
 *Case standings — How much of a CASE is fact. A case serves claims whatever its standing; what its standing changes is what it can show (ADR-032).*
 
-**Stipulated** — a real referent whose relevant facts are assumed rather than verified here — usable as a thought experiment, not as evidence about the referent.
+**Stipulated** — a real referent whose relevant facts are assumed rather than verified here — usable as a thought experiment, not as evidence about the referent. For a proposed study, its materials and setting, not results it does not yet have (ADR-042).
 
 35 of 81 CASE documents. Back to the [full index](../README.md).
 

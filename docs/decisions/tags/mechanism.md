@@ -6,7 +6,7 @@
 
 **Mechanism** — identifiers, generation, the lint.
 
-0 of 41 decisions. Back to the [full index](../README.md).
+0 of 42 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

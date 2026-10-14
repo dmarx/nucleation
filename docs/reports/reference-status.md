@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**363 documents cited without acknowledgement.** Not listed: 6725 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**365 documents cited without acknowledgement.** Not listed: 6730 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3284,7 +3284,7 @@ Whether an agent's regimes are coordinated by discrete switches or by continuous
 
 1 citation in 1 file awaits a look.
 
-- [`record/cases.d/CASE-074.md:77`](../../record/cases.d/CASE-074.md)
+- [`record/cases.d/CASE-074.md:78`](../../record/cases.d/CASE-074.md)
 
 ### [CLAIM-265](../../record/claims.d/CLAIM-265.md) — Proposed
 
@@ -3334,6 +3334,14 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 
 - [`record/questions.d/QUESTION-082.md:35`](../../record/questions.d/QUESTION-082.md)
 
+### [CLAIM-278](../../record/claims.d/CLAIM-278.md) — Proposed
+
+An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-042.md:114`](../../record/decisions.d/ADR-042.md)
+
 ### [CLAIM-279](../../record/claims.d/CLAIM-279.md) — Proposed
 
 Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator
@@ -3349,6 +3357,14 @@ A pattern can persist while every constituent is replaced and some constituents 
 1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-085.md:62`](../../record/questions.d/QUESTION-085.md)
+
+### [CLAIM-288](../../record/claims.d/CLAIM-288.md) — Proposed
+
+A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself
+
+1 citation in 1 file awaits a look; 22 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-042.md:114`](../../record/decisions.d/ADR-042.md)
 
 ### [LIT-039](../../record/literature.d/LIT-039.md) — Deferred
 
