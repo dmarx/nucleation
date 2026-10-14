@@ -1,16 +1,23 @@
 ---
 number: 230
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpprjax
 paper: LIT-261
+superseded_by:
+- NOTE-tmpe7ywm
 title: 'A Generalized Representer Theorem'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpe7ywm, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   For any strictly increasing regularizer g(‖f‖) and any (even non-convex, coupled) cost on the training outputs, every RKHS minimizer of c((x_i,y_i,f(x_i))_i) + g(‖f‖) is a finite kernel expansion f = Σ α_i k(·,x_i). The proof needs only the reproducing property and orthogonal decomposition onto span{k(·,x_i)}, not the Riesz theorem.
 ---
-<!-- inactive-ok-file: LIT-261 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-230: A Generalized Representer Theorem
 
