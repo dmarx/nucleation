@@ -75,13 +75,13 @@ Tschannen et al. show experimentally that representations can improve while the 
 
 ## Connections
 
-- **THEORY-tmpx4k5f** places this bound in its family. Poole et al.
-  (LIT-246) derive Donsker–Varadhan, NWJ, MINE's gradient and InfoNCE as
+- **[THEORY-tmpx4k5f](THEORY-tmpx4k5f.md)** places this bound in its family. Poole et al.
+  ([LIT-246](../literature.d/LIT-246.md)) derive Donsker–Varadhan, NWJ, MINE's gradient and InfoNCE as
   relaxations of one unnormalized Barber–Agakov bound. InfoNCE is NWJ
   applied to a K-sample problem with the batch mean as normalizer, and its
   optimal critic is the log density ratio up to a function of y.
-- **THEORY-tmp7q33x** states the estimator-free point beneath Tschannen et
-  al.'s experiments summarized above (LIT-247). Invertible encoders keep
+- **[THEORY-tmp7q33x](THEORY-tmp7q33x.md)** states the estimator-free point beneath Tschannen et
+  al.'s experiments summarized above ([LIT-247](../literature.d/LIT-247.md)). Invertible encoders keep
   the true MI exactly, yet under a linear probe some do better than the raw
   input and some worse. So it is MI itself, not only this bound on it, that
   does not fix the quality of a representation.
