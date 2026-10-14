@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdewd4
 title: 'Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -33,6 +33,16 @@ history:
     cases, was not read. LIT-1006 is noted as read only in part. The
     inactive-ok comment for LIT-1006 and LIT-1003 reworded from Deferred
     to Unavailable. The question stays open.
+- version: 5
+  date: '2026-10-14'
+  note: >-
+    After the readings of Caruso's SEP entry (LIT-tmpbbfpu,
+    NOTE-tmpvvxmy) and De Marco and Cyr (LIT-tmp4xovm, NOTE-tmp5wtbq),
+    filed as alternatives to LIT-1006. A dated note under "The question"
+    records that they confirm the description of the four cases in
+    outline, from two of them quoted in Pereboom's later wordings, and
+    what they bear on in part 2. THEORY-tmptedt7, the argument as filed
+    from them, is named. The question stays open.
 tags:
 - self-governance
 - agency
@@ -54,6 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
+<!-- inactive-ok-file: THEORY-tmptedt7 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
 <!-- inactive-ok-file: THEORY-tmpl5i65 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 
@@ -71,6 +82,19 @@ the compatibilist end is ordinary determination, where nobody else
 produces the structure. The book was read only in part ([NOTE-tmp46uej](../notes.d/NOTE-tmp46uej.md),
 Skimmed; [THEORY-tmpl5i65](../theory.d/THEORY-tmpl5i65.md)), and the reading stopped before Chapter 4, which
 holds the four cases, so this description is not confirmed first-hand.
+
+*Note of 2026-10-14, later.* Two surveys read in full as alternatives
+([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md)) confirm the
+description in outline, at survey strength ([THEORY-tmptedt7](../theory.d/THEORY-tmptedt7.md)). Case 1
+(mid-life intervention) and Case 2 (programming from the start of life)
+are quoted in Pereboom's 2024 and 2014 wordings, and each stipulates that
+Plum meets reasons-responsive and hierarchical conditions. Case 3 is an
+egoistic upbringing. Case 4 is ordinary determination. The 2001 text is
+still unread. For part 2 they report a difficulty. An original-design
+case (Mele's Ernie) leaves no bypassed capacity, so a history that
+records how capacities were formed, or whether they were bypassed, does
+not separate it from an ordinary agent. A natural-force case leaves no
+manipulator to record.
 
 The question has two parts:
 

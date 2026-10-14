@@ -1,0 +1,105 @@
+---
+status: Active
+status_note: 'read 2026-10-14 ([NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md)) in full; worth reading as Fricker''s first statement of testimonial injustice and of the virtue that corrects it: a hearer''s credibility judgements come from a socially trained testimonial sensibility, which stereotypes properly inform and prejudice can corrupt, so that a speaker gets "the wrong degree of credibility" through "unintended prejudice". It argues the corrective virtue is reflexive, and that whether a hearer can have it depends on the critical concepts available in their time. Filed as an alternative reading for [LIT-1004](LIT-1004.md), whose book is Unavailable here.'
+title: 'Epistemic Justice and a Role for Virtue in the Politics of Knowing'
+version: 1
+history:
+- version: 1
+  date: '2026-10-14'
+  note: >-
+    Filed at the owner's request as an alternative reading for LIT-1004
+    (Fricker, Epistemic Injustice, 2007), whose book was not reached.
+    Read in full the same day (NOTE-tmpieo7h) from the author-posted
+    manuscript on Fricker's own site
+    (mirandafricker.com/uploads/1/3/6/2/136236203/epistemic_injustice_and_a_role_for_virtue_in_the_politics_of_knowing.pdf,
+    23 pp., text extracted with pdftotext), headed "Metaphilosophy, Vol 34
+    Nos. 1/2, Jan 2003 pp154-173". Citations below are to the manuscript's
+    pages. The manuscript's title reads "Epistemic Injustice and A Role
+    for Virtue…", and Fricker's site lists it so. Crossref gives
+    "Epistemic Justice and a Role for Virtue in the Politics of Knowing",
+    Metaphilosophy 34(1–2), pp. 154–173, January 2003, and the title above
+    follows Crossref. `published:` is the first of the month, as Crossref
+    gives no day for the print issue (online 2004-01-09). Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-14,
+    commit d1573d2) for "Fricker" and "testimonial" found nothing, and
+    none of its topics holds the subject.
+tags:
+- epistemology
+- ethics
+- society-and-governance
+date: '2026-10-14'
+published: '2003-01-01'
+doi: '10.1111/1467-9973.00266'
+url: 'https://www.mirandafricker.com/uploads/1/3/6/2/136236203/epistemic_injustice_and_a_role_for_virtue_in_the_politics_of_knowing.pdf'
+first_author: 'Fricker'
+keywords:
+- 'testimony'
+- 'testimonial sensibility'
+- 'testimonial injustice'
+- 'credibility deficit'
+- 'reflexive critical openness'
+- 'virtue epistemology'
+implementations: []
+summary: >-
+  Fricker (2003), Metaphilosophy 34(1–2):154–173. A hearer can take
+  someone's word critically without inference, through a testimonial
+  sensibility: a socially trained, self-correcting capacity, like an
+  ethical sensibility, in which stereotypes of credibility are a
+  legitimate and needed heuristic. Where they carry prejudice, a speaker
+  receives the wrong degree of credibility "owing to a certain sort of
+  unintended prejudice on the hearer's part": testimonial injustice, shown
+  in Tom Robinson's trial and in Greenleaf's dismissal of Marge. The
+  corrective virtue, reflexive critical openness, corrects for the
+  relation between the hearer's and the speaker's social identities. Its
+  availability depends on the critical concepts of the hearer's time, so
+  a hearer may be at fault before he is culpable.
+---
+<!-- inactive-ok-file: LIT-1004 — Unavailable; the book this is an alternative reading for -->
+<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmpa9fyk — Proposed; the account from the précis, and the account filed from this reading with LIT-tmphrja4 -->
+
+# LIT-tmpo9j0c: Epistemic Justice and a Role for Virtue in the Politics of Knowing
+
+Fricker, M. (2003). "Epistemic Justice and a Role for Virtue in the
+Politics of Knowing". *Metaphilosophy* 34(1–2), 154–173. DOI
+10.1111/1467-9973.00266. Author-posted manuscript, titled there
+"Epistemic Injustice and A Role for Virtue in the Politics of Knowing".
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md).*
+
+- **Testimonial sensibility.** A hearer gains knowledge from testimony
+  neither by uncritical acceptance nor by inference, but through a
+  sensibility "learned and internalised through a process of epistemic
+  socialization" and corrected by experience, on the model of an ethical
+  sensibility.
+- **Stereotypes are needed, and prejudice rides on them.** Credibility is
+  judged through "common cultural stereotypes of intellectual authority".
+  Where they are empirically unfounded, the sensibility "will be both
+  epistemically and ethically defective".
+- **Testimonial injustice.** A speaker "receives the wrong degree of
+  credibility from his hearer owing to a certain sort of unintended
+  prejudice on the hearer's part". Prejudice may produce credibility
+  excess or deficit. The paper treats deficit, which more often raises or
+  lowers a degree of belief than flips belief into disbelief.
+- **Two cases.** Tom Robinson's jury is culpable. Herbert Greenleaf,
+  sidelining Marge as "female intuition", is plausibly non-culpable,
+  though Ripley has deliberately worked on his prejudice.
+- **Reflexive critical openness.** The corrective virtue adjusts for how
+  "the inter-relation of the hearer's social identity and the speaker's
+  social identity" affects the exchange.
+- **Historicism.** Where the critical concepts are not yet available, a
+  hearer cannot have the virtue: he is at fault, but "not culpably at
+  fault until they were in a position to know better". Systematic
+  testimonial injustice is "a distinctively epistemic kind of
+  oppression".
+
+## Standing in the record
+
+Filed on 2026-10-14 at the owner's request as an alternative reading for
+[LIT-1004](LIT-1004.md), whose book is Unavailable here, and read the same day in
+[NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md). It is the earliest of Fricker's three texts read here, and
+the one that argues testimonial injustice from the epistemology of
+testimony. [THEORY-tmpa9fyk](../theory.d/THEORY-tmpa9fyk.md) is filed from it with [LIT-tmphrja4](LIT-tmphrja4.md). It speaks
+of "prejudice" and of stereotypes of social types, and does not use the
+phrase "identity prejudice".

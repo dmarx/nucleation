@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmjijs
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -22,6 +22,15 @@ history:
     dated line under "What would refute it" records that the candidate
     refuter is still unread: Pereboom's rebuilt four-case argument is in
     Chapter 4, which the reading did not reach. Nothing else changed.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After the readings of Caruso's SEP entry (LIT-tmpbbfpu,
+    NOTE-tmpvvxmy) and De Marco and Cyr (LIT-tmp4xovm, NOTE-tmp5wtbq),
+    filed as alternatives to LIT-1006. A dated note under "What would
+    refute it" records that neither reports the rebuilt four-case
+    argument, and names two further candidate refuters they report.
+    Nothing else changed.
 tags:
 - free-will
 - agency
@@ -57,6 +66,7 @@ answers:
 - QUESTION-011
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
+<!-- inactive-ok-file: THEORY-tmptedt7 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
 <!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->
 <!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; Fischer and Ravizza's book, named as a source because the account is theirs; what is quoted comes from the précis -->
@@ -188,7 +198,17 @@ sources name ([LIT-291](../literature.d/LIT-291.md), supplement §B.2). It would
 first-hand and shown unanswered by Fischer's replies. As of 2026-10-14 it
 still has not been: Pereboom's book ([LIT-1006](../literature.d/LIT-1006.md)) was read only in part
 ([NOTE-tmp46uej](../notes.d/NOTE-tmp46uej.md)), and the rebuilt case is in Chapter 4 (p. 117 by the
-contents), which was not read. The
+contents), which was not read. Note of 2026-10-14, later: two surveys
+read in full as alternatives ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md),
+[NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md)) state the four-case argument ([THEORY-tmptedt7](THEORY-tmptedt7.md)) but do not
+report the rebuilt version, so the named refuter is still unread. They
+report two other candidates, both second-hand. One is Levy's luck
+argument: the acts by which an agent takes responsibility "either
+express that endowment … or reflect the agent's present luck"
+([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), §2.4). The other is original-design manipulation (Mele's
+Ernie), which De Marco and Cyr say defeats bypassing conditions, a class
+in which they list Fischer and Ravizza's ([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §4 and n. 15).
+The
 alternative-possibilities half is refuted only if both the Frankfurt-type
 cases and the other routes Fischer says lead to the same conclusion
 ([LIT-689](../literature.d/LIT-689.md), §I) fail. A failure of the Frankfurt cases alone does not

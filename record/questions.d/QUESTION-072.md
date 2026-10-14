@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpihzdz
 title: 'Does a project memory distribute credibility among an argument''s contributors, by making some contributors'' moves addressable and leaving others'' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -18,6 +18,17 @@ history:
     is replaced by the précis reading and THEORY-tmplo3ff. The inactive-ok
     comment for LIT-1004 reworded from Deferred to Unavailable. The
     question stays open.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    After the readings of three of Fricker's own papers, filed as
+    alternatives to LIT-1004 and read in full: LIT-tmpo9j0c
+    (NOTE-tmpieo7h), LIT-tmp71qsd (NOTE-tmpgy7n9) and LIT-tmphrja4
+    (NOTE-tmp3a0fd). A dated note under "The question" records that
+    the précis condition in part 2 is the systematic case only, that
+    an incidental case needs no powerless group, and that structural,
+    pre-emptive testimonial injustice bears on part 1. THEORY-tmpa9fyk
+    and THEORY-tmp0d8b5 are named. The question stays open.
 tags:
 - epistemology
 - design-rationale
@@ -37,6 +48,7 @@ summary: >-
   Fricker's sense or only a bias in what persists.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
+<!-- inactive-ok-file: THEORY-tmpa9fyk THEORY-tmp0d8b5 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
 <!-- inactive-ok-file: THEORY-tmplo3ff — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
@@ -72,6 +84,29 @@ The question has two parts:
    groups. Part 1, a filing that depends on who made the move once
    content is held fixed, is closer to testimonial injustice, with the
    filer as hearer, and is that only if the cause is prejudice.
+
+*Note of 2026-10-14, later.* Three of Fricker's own papers, read in full
+as alternatives to the book, change both parts. They are [LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0c.md)
+([NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md)), [LIT-tmp71qsd](../literature.d/LIT-tmp71qsd.md) ([NOTE-tmpgy7n9](../notes.d/NOTE-tmpgy7n9.md)) and [LIT-tmphrja4](../literature.d/LIT-tmphrja4.md)
+([NOTE-tmp3a0fd](../notes.d/NOTE-tmp3a0fd.md)).
+
+- **Part 2.** The précis condition, that the gap is owed to a social
+  group's powerlessness, is her *systematic* case only. Her generic
+  definition ([THEORY-tmp0d8b5](../theory.d/THEORY-tmp0d8b5.md)) needs "hermeneutical marginalization",
+  which may be "one-off" and "highly localized". Her incidental case is
+  a socially powerful man whose grievance must be "poured into the
+  available bureaucratic mould". So the owner and the assistant need not
+  be powerless groups. What remains is a socially coerced exclusion from
+  making the shared meanings that obscures a significant area of the
+  contributor's *social experience*. A gap with no marginalisation
+  behind it is bad luck.
+- **Part 1.** Testimonial injustice can be structural and pre-emptive
+  ([THEORY-tmpa9fyk](../theory.d/THEORY-tmpa9fyk.md)). Anderson's un-refreshed list of witnesses means
+  some views are never sought, "through no one's fault". A filing
+  practice that leaves some contributors' moves unfiled could be that,
+  but only if the difference comes from a prejudice, a misjudgement of
+  those contributors as epistemically lesser, and not from what kind of
+  move it is.
 
 ## Why the record needs it
 
