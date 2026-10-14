@@ -25,9 +25,10 @@ summary: >-
 answered_by:
 - CLAIM-255
 ---
+<!-- inactive-ok-file: LIT-tmpswf3g LIT-tmp0vfgl — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-224 — Proposed; the objections that raise this question, open -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution claim whose scope this question holds open -->
-<!-- inactive-ok-file: LIT-785 LIT-780 — Deferred; Austin and Goffman, unread here, named as the tradition's replies and not leaned on -->
+<!-- inactive-ok-file: LIT-785 LIT-780 — Unavailable; Austin and Goffman, unread here, named as the tradition's replies and not leaned on -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as the record's own intention-inferring model, not as settled -->
 <!-- inactive-ok-file: CLAIM-111 — Proposed; the distribution-over-situations thesis, cited as open -->
 
@@ -105,3 +106,33 @@ hearers misread a sound, is not answered by the transcripts. The case
 sketches the elicited test that would answer it. No reading of the
 intention-based line or of Goffman has been added, so the question stays
 open.
+
+## Note of 2026-10-13: the intention-based line, read
+
+Grice (1957, [LIT-tmpvudnt](../literature.d/LIT-tmpvudnt.md)) and Strawson (1964, [LIT-tmpyozog](../literature.d/LIT-tmpyozog.md)) are now read.
+Grice (1975, [LIT-tmpswf3g](../literature.d/LIT-tmpswf3g.md)) is read in part, and Bach and Harnish (1979,
+[LIT-tmp0vfgl](../literature.d/LIT-tmp0vfgl.md)) is filed unread. Three findings bear on the question as
+posed.
+
+- **The rival makes a prediction.** For acts not essentially
+  conventional, Strawson's scheme leaves no case in which the overt
+  intention is fixed and the act changes. The one such case it allows is
+  the institutional slip, a "redouble" let slip at bridge, which it calls
+  "essentially deviant or nonstandard". A documented case of the kind this
+  question asks for would therefore count against Strawson's account
+  directly. [CASE-069](../cases.d/CASE-069.md) is a candidate, if Labov's attribution of the aim is
+  accepted.
+- **Uptake does not separate the two sides.** The question lists Austin's
+  uptake as a reply to the intention-based accounts. Strawson takes uptake
+  into his account as the audience's recognition of the overt intention.
+  After Hart's objections he weakens it to "the aim, if not the
+  achievement". On this reading uptake is common ground, not a rival.
+- **The frame shows up on the Gricean side.** Grice's Cooperative
+  Principle (1975, p. 45) is indexed to "the accepted purpose or direction
+  of the talk exchange", which the participants recognise in common and
+  which "may evolve". This is close to Goffman's jointly sustained frame.
+  It is stated for implicature, not for the individuation of acts.
+
+Teasing itself is in none of the pages read. The question stays open. Its
+reading condition is now partly met: Goffman's *Frame Analysis* and Bach
+and Harnish remain unread.

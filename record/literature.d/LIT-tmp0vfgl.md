@@ -1,0 +1,71 @@
+---
+status: Unavailable
+status_note: 'filed 2026-10-13 from catalogue records, not read: no lawful full text was reachable. The Internet Archive holds the 1979 and 1982 MIT Press printings only as controlled-lending items (access-restricted), and MIT Press offers no open access. No NOTE is filed. It stays Unavailable until a copy is supplied: a lawful copy exists, as lending items, but this client could not borrow it (ADR-041). The last of the four works that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing.'
+title: 'Linguistic Communication and Speech Acts'
+version: 1
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Filed, not read. Full-text attempts on 2026-10-13: an Internet
+    Archive search found linguisticcommun0000bach (1979) and
+    linguisticcommun00kent (1982), both access-restricted lending items.
+    A web search found no copy on the authors' pages, a publisher's page
+    or a repository, only catalogue records and the paywalled reviews in
+    Applied Psycholinguistics and Language in Society. Citation checked
+    against Open Library (edition OL4412266M: Cambridge, Mass., MIT
+    Press, 1979, 327 pp., ISBN 0262021366, LCCN 79015892). The URL is
+    that LCCN record. The book has no DOI. `published:` is the 1979
+    first printing, year only. Not held in the Anthology of the SOTA: a
+    grep of its record/ (clone of 2026-10-13, commit d1573d2) for
+    "Harnish" found nothing. Filed as Deferred while this contribution was
+    open; set Unavailable before merge under ADR-041, since its note records
+    a search and a copy that could not be obtained.
+tags:
+- pragmatics
+- philosophy-of-language
+- linguistics
+date: '2026-10-13'
+published: '1979-01-01'
+url: 'https://lccn.loc.gov/79015892'
+first_author: 'Bach'
+keywords:
+- 'speech acts'
+- 'communicative intention'
+- 'speech act schema'
+- 'mutual contextual beliefs'
+- 'taxonomy of illocutionary acts'
+implementations: []
+summary: >-
+  Bach and Harnish (1979), MIT Press. A theory of speech acts built on
+  Grice's speaker meaning and Strawson's distinction between
+  communicative and conventional illocutions: the hearer infers the
+  speaker's communicative intention from what is said and mutually held
+  beliefs about the context. Not read: no lawful full text was reachable.
+---
+<!-- inactive-ok-file: CLAIM-221 CLAIM-151 QUESTION-073 — Proposed or Open; the objection, claim and question this work was filed for, open -->
+
+# LIT-tmp0vfgl: Linguistic Communication and Speech Acts
+
+Kent Bach and Robert M. Harnish (1979), Cambridge, Mass.: MIT Press,
+xvii + 327 pp. — https://lccn.loc.gov/79015892
+
+## Key takeaways
+
+*Filed, not read*: no lawful full text was reachable (see the history
+note). Known here only by its standard description: an inferential
+theory of communication in which the hearer reaches the speaker's
+illocutionary intent through a schema of inferences from the words, the
+literal content and mutual contextual beliefs. It gives a taxonomy of
+communicative illocutions (constatives, directives, commissives and
+acknowledgments) and treats conventional illocutions, in Strawson's
+sense, separately.
+
+## Standing in the record
+
+Filed on 2026-10-13 at the owner's request, as one of the four works of
+the intention-based line that [CLAIM-221](../claims.d/CLAIM-221.md) and [QUESTION-073](../questions.d/QUESTION-073.md) name as missing
+from the record. See the curation entry of that day. Of the four it is
+the one that applies the intention-based account to a full range of act
+types, so it is the reading most likely to say whether teasing and
+reproach can be told apart by intention alone.

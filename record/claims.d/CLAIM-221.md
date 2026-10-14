@@ -29,10 +29,11 @@ summary: >-
   this family. The objection is open; it would narrow [CLAIM-151](CLAIM-151.md) to
   institutional acts unless an argument from uptake meets it.
 ---
+<!-- inactive-ok-file: LIT-tmpswf3g LIT-tmp0vfgl — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as the record's own intention-inferring model, not as settled -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-139 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->
-<!-- inactive-ok-file: LIT-780 LIT-785 — Deferred; Goffman and Austin, unread here, cited as named and not leaned on -->
+<!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; Goffman and Austin, unread here, cited as named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-221: The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one
@@ -171,3 +172,44 @@ reception-side counter: "the writer's projected receiver is one more
 reading". Both are filed positions, not readings, and neither reads Grice,
 Strawson or Bach and Harnish. Whether [CLAIM-160](CLAIM-160.md) is an intention-based
 account of the act, or only of intended meaning, is left to the owner.
+
+## Note of 2026-10-13: the line is now held
+
+The four works this objection names are filed. Grice's "Meaning" (1957,
+[LIT-tmpvudnt](../literature.d/LIT-tmpvudnt.md), [NOTE-tmpijgfs](../notes.d/NOTE-tmpijgfs.md)) and Strawson's "Intention and Convention in
+Speech Acts" (1964, [LIT-tmpyozog](../literature.d/LIT-tmpyozog.md), [NOTE-tmpqe25w](../notes.d/NOTE-tmpqe25w.md)) are read in full. Grice's
+"Logic and Conversation" (1975, [LIT-tmpswf3g](../literature.d/LIT-tmpswf3g.md)) is read only at pp. 45–47.
+Bach and Harnish (1979, [LIT-tmp0vfgl](../literature.d/LIT-tmp0vfgl.md)) is unread, because no lawful copy
+was reachable. So the "held account" clause no longer blocks the defeat
+condition by default. Read, the line confirms the objection in substance
+and corrects it in two places.
+
+- **Confirmed.** Strawson individuates non-conventional illocutions by the
+  speaker's wholly overt intention. He separates request from entreaty,
+  said with the same words ("Don't go"), by the recognised attitude with
+  which the wish is held. That is [CASE-018](../cases.d/CASE-018.md)'s form. He concedes the
+  essentially conventional acts (verdict, sentence, the umpire's call) to
+  procedure, as this objection concedes the judge to Searle.
+- **Corrected: not "alone".** On Strawson, "the act of communication is
+  performed if uptake is secured", so the audience's recognition is a
+  condition of the act, not only evidence of it. [CLAIM-151](CLAIM-151.md)'s defeat
+  condition asks for individuation by speaker-internal states "alone",
+  and the line's central text does not supply it. The condition still
+  does not fire.
+- **Corrected: the reply is in the record.** "What it does not say" calls
+  the externalist reply, that the audience relation enters through the
+  content of the intention, absent. It is in Strawson's treatment of
+  orders. An order's overt intention includes that the utterance be
+  recognised as "issued in a certain social context such that certain
+  social rules or conventions apply". Strawson grants the scheme holds this
+  only "with some strain". A parent's reproach would sit there, between
+  the communicative and the institutional ends.
+- **Grice (1957)** is about meaning, not acts, and does not separate
+  teasing from reproach. Its one case near reproach, cutting someone in
+  the street, is speaker-internal in this objection's sense.
+
+The dispute now turns on whether standing that enters through the content
+of the speaker's intention counts as a relation in [CLAIM-151](CLAIM-151.md)'s sense.
+Neither text decides that. For teasing neither text says anything, and
+Bach and Harnish, the work most likely to, is unread. The objection stays
+open.
