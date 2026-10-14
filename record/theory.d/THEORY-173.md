@@ -13,7 +13,7 @@ promote_when: >-
   its distinctive prediction: that routing cultural production through
   such models narrows the distribution of what is produced, toward what
   was common in training, as the analogy with prices and bureaucratic
-  categories predicts. THEORY-tmp747tr is at most partial evidence for
+  categories predicts. THEORY-226 is at most partial evidence for
   that prediction, on one topic: LLM revisions of essays move in a
   direction shared across essays, models and prompts, but no dispersion
   of the outputs against the human revisions was measured, so narrowing
@@ -41,7 +41,7 @@ supports:
 - CLAIM-068
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as an adjacent account, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmp747tr — Proposed; named in promote_when as partial evidence, not leaned on -->
+<!-- inactive-ok-file: THEORY-226 — Proposed; named in promote_when as partial evidence, not leaned on -->
 
 # THEORY-173: Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale
 

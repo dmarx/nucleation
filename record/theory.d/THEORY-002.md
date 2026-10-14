@@ -11,9 +11,9 @@ promote_when: >-
   mutual-nearest-neighbour alignment also have high Bures alignment of their
   centred kernels. A result in CKA does not count by itself, since CKA and
   normalized Bures similarity bound each other only within a rank-dependent
-  factor (LIT-250 eq. 24; THEORY-tmpip5os). Nielsen et al.'s Thm 4.7 (LIT-253) is a proved
+  factor (LIT-250 eq. 24; THEORY-233). Nielsen et al.'s Thm 4.7 (LIT-253) is a proved
   stability result of this kind for softmax models, and by an identity
-  NOTE-tmp6dvmv derived and checked by script, but which the paper does not
+  NOTE-738 derived and checked by script, but which the paper does not
   state, its d_SVD is 1 − NBS. What remains: that kernel is of the
   per-coordinate standardized log-odds coordinates Lᵀf(x), which depend on
   a pivot label and label set, not of the embedding f(x) itself; the record
@@ -32,7 +32,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the close readings NOTE-tmp6dvmv (LIT-253) and NOTE-tmpx7mtu
+    After the close readings NOTE-738 (LIT-253) and NOTE-753
     (LIT-250). The title's last clause, "closeness in distribution does not
     imply closeness of representation", held only for KL divergence;
     LIT-253 proves the converse for its d_LLV distance (Thm 4.7) and
@@ -50,7 +50,7 @@ history:
   date: '2026-10-14'
   note: >-
     The promote_when's remark that a CKA result does not count by itself
-    now cites THEORY-tmpip5os, the account of LIT-250 eq. 24 filed today.
+    now cites THEORY-233, the account of LIT-250 eq. 24 filed today.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -70,13 +70,13 @@ supports:
 - CLAIM-269
 ---
 <!-- inactive-ok-file: THEORY-004 — Proposed; the kernel result this account presupposes, and this account is no firmer than it -->
-<!-- inactive-ok-file: THEORY-tmpip5os — Proposed; cited in promote_when as the reason a CKA result does not count, not leaned on -->
+<!-- inactive-ok-file: THEORY-233 — Proposed; cited in promote_when as the reason a CKA result does not count, not leaned on -->
 
 # THEORY-002: Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
 
 ## Source
 
-Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-tmpx7mtu](../notes.d/NOTE-tmpx7mtu.md). The hypothesis itself is Huh et al. (2024), [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md), §4.2 and App. A.
+Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-738](../notes.d/NOTE-738.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-753](../notes.d/NOTE-753.md). The hypothesis itself is Huh et al. (2024), [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md), §4.2 and App. A.
 
 ## What was actually shown
 

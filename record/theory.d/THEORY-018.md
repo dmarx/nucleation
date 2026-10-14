@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the close reading NOTE-tmp6dvmv (LIT-253). The cross-reference
+    After the close reading NOTE-738 (LIT-253). The cross-reference
     "LIT-253 starts from the same symmetry" was confirmed. The paper is
     added as a further instance of the thesis: to compare models invariantly
     under that symmetry it moves to log-odds coordinates against a pivot
@@ -19,9 +19,9 @@ history:
   date: '2026-10-14'
   note: >-
     Connections now names two accounts filed today that bear on the thesis
-    from the comparison side: THEORY-tmpuowt1 (LIT-254), that an index
+    from the comparison side: THEORY-236 (LIT-254), that an index
     invariant to every invertible linear map is degenerate at full rank,
-    and THEORY-tmpbbojk (LIT-936), a geometry of the output laws that no
+    and THEORY-230 (LIT-936), a geometry of the output laws that no
     output-preserving reparameterization changes.
 tags:
 - representation-learning
@@ -45,9 +45,9 @@ supports:
 - CLAIM-193
 - CLAIM-269
 extended_by:
-- THEORY-tmpoa03p
+- THEORY-234
 ---
-<!-- inactive-ok-file: THEORY-tmpuowt1 THEORY-tmpbbojk — Proposed; accounts filed today, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-236 THEORY-230 — Proposed; accounts filed today, named in Connections and not leaned on -->
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
 
@@ -55,7 +55,7 @@ extended_by:
 
 - Park, Choe & Veitch (2023), [LIT-304](../literature.d/LIT-304.md): §3 (eq. 3.1), Def. 3.1, Thms 3.2 and 3.4, §3.2 and App. D.2, as read in [NOTE-302](../notes.d/NOTE-302.md).
 - Supporting: Elhage et al. (2022), [LIT-323](../literature.d/LIT-323.md), as read in [NOTE-278](../notes.d/NOTE-278.md), for the superposition limit.
-- Supporting: Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Defs. 4.5–4.6, Thm 4.7 and App. E.3, as read in [NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md), for a further instance of the same choice.
+- Supporting: Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Defs. 4.5–4.6, Thm 4.7 and App. E.3, as read in [NOTE-738](../notes.d/NOTE-738.md), for a further instance of the same choice.
 
 ## What was actually shown
 
@@ -127,19 +127,19 @@ compare them up to an orthogonal map (Defs. 4.5–4.6, Thm 4.7). Those
 coordinates depend on the pivot, the label set and the left-out label, and
 in the experiments these are chosen to make the distance smallest (App.
 E.3). So a usable geometry again comes from a choice, here of basis rather
-than of inner product ([NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md)).
+than of inner product ([NOTE-738](../notes.d/NOTE-738.md)).
 
 Engels et al.'s
 separability index and cosine clustering are Euclidean too, and so are
 relative to a choice this theory says is not given ([NOTE-273](../notes.d/NOTE-273.md)).
 
 Two accounts filed on 2026-10-14 bear on the thesis from the comparison
-side. [THEORY-tmpuowt1](THEORY-tmpuowt1.md) (Kornblith et al., [LIT-254](../literature.d/LIT-254.md), Thm 1): an index
+side. [THEORY-236](THEORY-236.md) (Kornblith et al., [LIT-254](../literature.d/LIT-254.md), Thm 1): an index
 invariant to every invertible linear map takes one value on all
 representations whose rank equals the number of examples. So a comparison
 invariant to everything the softmax leaves free says nothing once the
 representation is wide enough. A usable one must fix a smaller group by
-stipulation, or compare in identified coordinates. [THEORY-tmpbbojk](THEORY-tmpbbojk.md) (Picozzi, [LIT-936](../literature.d/LIT-936.md)) moves the
+stipulation, or compare in identified coordinates. [THEORY-230](THEORY-230.md) (Picozzi, [LIT-936](../literature.d/LIT-936.md)) moves the
 comparison to the outputs: the Fisher–Rao geometry of the next-token laws
 is a function of the laws alone, so no output-preserving
 reparameterization, this account's GL(d) among them, changes it.

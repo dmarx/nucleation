@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpk93ea
 paper: LIT-258
 superseded_by:
-- NOTE-tmpu7m7r
+- NOTE-751
 title: 'Contrastive learning finds an optimal eigenbasis'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpu7m7r, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-751, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

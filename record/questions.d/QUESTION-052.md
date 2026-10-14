@@ -20,7 +20,7 @@ answered_by:
 - THEORY-006
 - THEORY-007
 - THEORY-009
-- THEORY-tmpakup2
+- THEORY-228
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-027](QUESTION-027.md), [CLAIM-098](../claims.d/CLAIM-098.md), CLAIM-193,
@@ -29,7 +29,7 @@ summary: >-
   each one's limit.
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-tmpakup2 — Proposed; a partial answer filed today, cited with its limit -->
+<!-- inactive-ok-file: THEORY-228 — Proposed; a partial answer filed today, cited with its limit -->
 
 # QUESTION-052: If a kind's admissible transformations are given as a distribution over pairs of its realizations, is its stable, decision-sufficient signature the top eigenspace of the pair operator, and what takes that role when the transformations are directed?
 
@@ -49,7 +49,7 @@ Treat "these two realizations are of the same kind" as a joint distribution over
 - [THEORY-001](../theory.d/THEORY-001.md): three losses "share one population optimum", so the candidate signature does not depend on the objective used. Limit: low-rank truncations differ.
 - [THEORY-003](../theory.d/THEORY-003.md): HSIC maximizes the "average squared MMD" between kinds, which gives discrimination. Limit: it is injective only for a characteristic kernel.
 - [THEORY-006](../theory.d/THEORY-006.md): the information bound "can never exceed the log of the batch size" and does not track quality, so the signature is not an amount of information (compare [CLAIM-043](../claims.d/CLAIM-043.md)).
-- [THEORY-tmpakup2](../theory.d/THEORY-tmpakup2.md): at the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label over the squared sparsest-partition conductance of the augmentation graph. So the top eigenvectors are decision-sufficient for linear classification of any labelling that rarely crosses the graph's sparse cuts. Limit: finite augmentation spaces, symmetric pairs, the optimum of one loss; nothing about what training reaches.
+- [THEORY-228](../theory.d/THEORY-228.md): at the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label over the squared sparsest-partition conductance of the augmentation graph. So the top eigenvectors are decision-sufficient for linear classification of any labelling that rarely crosses the graph's sparse cuts. Limit: finite augmentation spaces, symmetric pairs, the optimum of one loss; nothing about what training reaches.
 
 ## What would answer it
 

@@ -39,7 +39,7 @@ refined_by:
 - QUESTION-029
 - QUESTION-075
 ---
-<!-- inactive-ok-file: THEORY-tmp747tr — Proposed; a measured case held for this question, which it does not answer -->
+<!-- inactive-ok-file: THEORY-226 — Proposed; a measured case held for this question, which it does not answer -->
 
 # QUESTION-002: What survives when an utterance is translated, retold or rendered in another medium?
 
@@ -48,7 +48,7 @@ here is a specification of the preserved object that can be measured on real
 translations, retellings and cross-modal renderings, and that predicts human
 judgements of communicative fidelity better than semantic similarity does.
 
-The record holds a measured case: [THEORY-tmp747tr](../theory.d/THEORY-tmp747tr.md) (Abdulhai et al.,
+The record holds a measured case: [THEORY-226](../theory.d/THEORY-226.md) (Abdulhai et al.,
 [LIT-997](../literature.d/LIT-997.md)). LLM revisions of student essays keep topic and genre and move
 further in sentence-embedding space than the students' own revisions, in a
 direction shared across essays, models and prompts. It does not answer the

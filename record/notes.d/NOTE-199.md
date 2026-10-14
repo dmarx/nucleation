@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp2sfyq
 paper: LIT-228
 superseded_by:
-- NOTE-tmpwlhed
+- NOTE-752
 title: 'Balestriero & LeCun 2022 — SSL recovers spectral embedding'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpwlhed, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-752, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

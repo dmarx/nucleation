@@ -14,7 +14,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    A note added on THEORY-tmphw05b, Watson's comparative criterion of
+    A note added on THEORY-232, Watson's comparative criterion of
     agency (LIT-990), filed today: relative to a decomposition, as this
     question asks, but it takes the parts' goals as given.
 tags:
@@ -41,7 +41,7 @@ answered_by:
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 CLAIM-174 — Proposed; the materials, answer and objection filed against this question, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens -->
-<!-- inactive-ok-file: THEORY-tmphw05b — Proposed; Watson's comparative criterion, named in a note and not leaned on -->
+<!-- inactive-ok-file: THEORY-232 — Proposed; Watson's comparative criterion, named in a note and not leaned on -->
 
 # QUESTION-032: Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?
 
@@ -82,7 +82,7 @@ The proposed answer is [CLAIM-174](../claims.d/CLAIM-174.md).
 
 ## Note of 2026-10-14: a comparative criterion relative to a decomposition
 
-[THEORY-tmphw05b](../theory.d/THEORY-tmphw05b.md) (Watson, [LIT-990](../literature.d/LIT-990.md)) makes a whole more agential than its
+[THEORY-232](../theory.d/THEORY-232.md) (Watson, [LIT-990](../literature.d/LIT-990.md)) makes a whole more agential than its
 parts when its organization lets them resolve more of their mutual
 constraints than they do at the equilibrium of their former organization.
 It is relative to a chosen decomposition, as this question asks, and it

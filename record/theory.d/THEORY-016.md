@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Schmid, Selby and Spekkens (LIT-945) were read in full (NOTE-tmp5ey9r).
+    Schmid, Selby and Spekkens (LIT-945) were read in full (NOTE-737).
     They restate the equivalence of generalized noncontextuality,
     simplex-embeddability and a positive quasiprobability representation,
     citing LIT-003, and do not prove it independently. One sentence in
@@ -39,7 +39,7 @@ answers:
 
 ## Source
 
-Schmid et al. (2020), [LIT-003](../literature.d/LIT-003.md), Def. 3.1, Props 3.2 and 3.4, Cor 3.5, Thm 2.8, Thm 4.1 (proof in App. B), Cor 4.2, Prop 4.3, §5.2, App. A ([NOTE-017](../notes.d/NOTE-017.md)). Worked instance: Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.A. Background on GPTs: [LIT-073](../literature.d/LIT-073.md). Schmid, Selby and Spekkens, [LIT-945](../literature.d/LIT-945.md), restate the equivalence, citing [LIT-003](../literature.d/LIT-003.md); it is a restatement, not an independent proof ([NOTE-tmp5ey9r](../notes.d/NOTE-tmp5ey9r.md)).
+Schmid et al. (2020), [LIT-003](../literature.d/LIT-003.md), Def. 3.1, Props 3.2 and 3.4, Cor 3.5, Thm 2.8, Thm 4.1 (proof in App. B), Cor 4.2, Prop 4.3, §5.2, App. A ([NOTE-017](../notes.d/NOTE-017.md)). Worked instance: Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.A. Background on GPTs: [LIT-073](../literature.d/LIT-073.md). Schmid, Selby and Spekkens, [LIT-945](../literature.d/LIT-945.md), restate the equivalence, citing [LIT-003](../literature.d/LIT-003.md); it is a restatement, not an independent proof ([NOTE-737](../notes.d/NOTE-737.md)).
 
 ## What was actually shown
 

@@ -13,7 +13,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the close reading NOTE-tmph96lt (LIT-254). Kornblith et al. are
+    After the close reading NOTE-743 (LIT-254). Kornblith et al. are
     now cited only for what they show: that R²_CCA, linear regression and
     linear CKA are one family, differing in how eigen-directions are
     weighted, with canonical ridge interpolating among them (Eqs. 11–14,
@@ -23,7 +23,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    A Connections section added: THEORY-tmpuowt1 (LIT-254, Thm 1), filed
+    A Connections section added: THEORY-236 (LIT-254, Thm 1), filed
     today, says why the CCA member of the family, which is invariant to
     every invertible linear map, is degenerate at full rank.
 tags:
@@ -45,13 +45,13 @@ supports:
 - CLAIM-269
 ---
 <!-- inactive-ok-file: LIT-257 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
-<!-- inactive-ok-file: THEORY-tmpuowt1 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
+<!-- inactive-ok-file: THEORY-236 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
 
 # THEORY-008: What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
 ## Source
 
-Harvey, Lipshutz & Williams (2024), [LIT-257](../literature.d/LIT-257.md), eqs. 2, 7–8, 22–23, Prop. 2, Cor. 1, Table 1. Supporting, for the family structure only: Kornblith et al. (2019), [LIT-254](../literature.d/LIT-254.md), Eqs. 11–14 and App. D.1, as read in [NOTE-tmph96lt](../notes.d/NOTE-tmph96lt.md). The same point from the concept-direction side is [ANTH-LIT-606](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-606.md) (Park, Choe & Veitch), whose Thm 3.2 uses a Riesz isomorphism and whose §3 shows the inner product is not identified by training.
+Harvey, Lipshutz & Williams (2024), [LIT-257](../literature.d/LIT-257.md), eqs. 2, 7–8, 22–23, Prop. 2, Cor. 1, Table 1. Supporting, for the family structure only: Kornblith et al. (2019), [LIT-254](../literature.d/LIT-254.md), Eqs. 11–14 and App. D.1, as read in [NOTE-743](../notes.d/NOTE-743.md). The same point from the concept-direction side is [ANTH-LIT-606](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-606.md) (Park, Choe & Veitch), whose Thm 3.2 uses a Riesz isomorphism and whose §3 shows the inner product is not identified by training.
 
 ## What was actually shown
 
@@ -65,7 +65,7 @@ For readouts w maximizing zᵀXw/M − ½wᵀG(X)w, the decoded signal is K_X z 
 
 ## Connections
 
-- **[THEORY-tmpuowt1](THEORY-tmpuowt1.md).** Mean squared CCA, one of the averages above, is
+- **[THEORY-236](THEORY-236.md).** Mean squared CCA, one of the averages above, is
   invariant to every invertible linear map: it is an orthogonally invariant
   index applied to orthonormalized columns ([LIT-254](../literature.d/LIT-254.md), Prop. 1). Kornblith et
   al.'s Theorem 1 then makes it constant on all representations whose rank

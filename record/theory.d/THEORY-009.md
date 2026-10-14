@@ -8,10 +8,10 @@ promote_when: >-
   either that the eigenfunction characterization fails, or that it is replaced
   by singular functions of a non-self-adjoint operator. A further symmetric
   example cannot settle it. Near misses found on 2026-10-14: Balestriero &
-  LeCun's Theorem 7 (NOTE-tmpwlhed) handles a non-symmetric pair structure by
+  LeCun's Theorem 7 (NOTE-752) handles a non-symmetric pair structure by
   CCA, but the objective is Barlow Twins, not an asymmetric objective of the
   BYOL kind, and the CCA identification is asserted, not derived; Simon et
-  al. (NOTE-tmpdlxl6) treat two-tower pairs, but with a symmetrized loss.
+  al. (NOTE-741) treat two-tower pairs, but with a symmetrized loss.
   Neither meets it.
 title: 'Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem'
 version: 2
@@ -19,8 +19,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-258 (NOTE-tmpu7m7r), LIT-249
-    (NOTE-tmpbkfrz), LIT-242 (NOTE-tmpdlxl6) and LIT-228 (NOTE-tmpwlhed).
+    After close readings of LIT-258 (NOTE-751), LIT-249
+    (NOTE-740), LIT-242 (NOTE-741) and LIT-228 (NOTE-752).
     LIT-228's Theorem 7 is now cited as the nearest published case of a
     non-symmetric pair structure handled by a singular value decomposition,
     with its two caveats. LIT-242 is now said to get its symmetry from

@@ -4,8 +4,9 @@
 
 **translation**.
 
-1 of 736 NOTE documents. Back to the [full index](../README.md).
+2 of 755 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-614](../../../record/notes.d/NOTE-614.md) | On Linguistic Aspects of Translation | Names the three kinds of translation (intralingual, interlingual, intersemiotic) and argues that interlingual translation renders whole messages, since code-units rarely have full equivalents; that every cognitive content can be conveyed in any language; and that languages differ in what their grammar obliges a speaker to say, so translation adds and drops information and a chain of translations can erode a message. Poetry, where grammar and sound carry meaning, allows only creative transposition. | Read |
+| [NOTE-750](../../../record/notes.d/NOTE-750.md) | Abdulhai et al. — How LLMs Distort Our Written Language | Three studies of LLM-assisted writing. Heavy LLM use in an essay task made judge-labelled neutral stances 68.9% more common. LLM revisions of 2021 student essays moved them further, and all in one direction, in sentence-embedding space than the students' own revisions did. LLM-written ICLR 2026 reviews named clarity and relevance less often. "Meaning" is measured by embedding position and by an LLM judge, never by the writers. | Read |

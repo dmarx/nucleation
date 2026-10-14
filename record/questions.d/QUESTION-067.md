@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Spekkens 2005 (LIT-266, NOTE-tmpqr65v) and Schmid, Selby and Spekkens
-    (LIT-945, NOTE-tmp5ey9r) were read in full. "Why the record needs it"
+    Spekkens 2005 (LIT-266, NOTE-748) and Schmid, Selby and Spekkens
+    (LIT-945, NOTE-737) were read in full. "Why the record needs it"
     no longer says that the probe-relative equivalence of CLAIM-142 and
     CLAIM-046 is the very relation Spekkens's notion is built on: his
     relation quantifies over every measurement the theory allows.
@@ -28,7 +28,7 @@ answered_by:
 - THEORY-011
 - THEORY-015
 - THEORY-016
-- THEORY-tmpecylf
+- THEORY-231
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-009](../claims.d/CLAIM-009.md), [CLAIM-037](../claims.d/CLAIM-037.md),
@@ -49,8 +49,8 @@ The mechanism is direct, not an analogy. Renderings and contexts are preparation
 
 ## What the record holds
 
-- [THEORY-011](../theory.d/THEORY-011.md): the generalized notion is strictly broader. "a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two". Limit: the proof assumes exact operational equivalence and perfectly distinguishable pairs ([NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)).
-- [THEORY-015](../theory.d/THEORY-015.md): every Kochen–Specker proof refutes universal noncontextuality, while "measurement noncontextuality alone is consistent with quantum theory". So a sheaf result would carry over, given the full preparation set. Limit: the record makes the join to the sheaf form itself, fragments must be re-checked, and what the old proofs refute is preparation plus measurement noncontextuality, not preparation noncontextuality alone ([NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)).
+- [THEORY-011](../theory.d/THEORY-011.md): the generalized notion is strictly broader. "a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two". Limit: the proof assumes exact operational equivalence and perfectly distinguishable pairs ([NOTE-748](../notes.d/NOTE-748.md)).
+- [THEORY-015](../theory.d/THEORY-015.md): every Kochen–Specker proof refutes universal noncontextuality, while "measurement noncontextuality alone is consistent with quantum theory". So a sheaf result would carry over, given the full preparation set. Limit: the record makes the join to the sheaf form itself, fragments must be re-checked, and what the old proofs refute is preparation plus measurement noncontextuality, not preparation noncontextuality alone ([NOTE-748](../notes.d/NOTE-748.md)).
 - [THEORY-016](../theory.d/THEORY-016.md): a noncontextual model exists "exactly when its GPT admits a positive quasiprobability representation". That gives the test a concrete target. Limit: it gives "no test for whether a positive representation exists".
 
 ## What would answer it
@@ -71,8 +71,8 @@ since none of the tests read looks for preparation contextuality.
 
 ## Note of 2026-10-14: conditions from the readings
 
-Spekkens 2005 ([LIT-266](../literature.d/LIT-266.md), [NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)) and Schmid, Selby and Spekkens
-([LIT-945](../literature.d/LIT-945.md), [NOTE-tmp5ey9r](../notes.d/NOTE-tmp5ey9r.md)) were read in full. Both support the question's
+Spekkens 2005 ([LIT-266](../literature.d/LIT-266.md), [NOTE-748](../notes.d/NOTE-748.md)) and Schmid, Selby and Spekkens
+([LIT-945](../literature.d/LIT-945.md), [NOTE-737](../notes.d/NOTE-737.md)) were read in full. Both support the question's
 premise: preparation contextuality can show where there are no
 overlapping measurement contexts, and for a prepare-measure structure
 there is no Bell-like test while a noncontextuality test can exist. They

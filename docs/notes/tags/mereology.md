@@ -4,7 +4,7 @@
 
 **mereology**.
 
-52 of 736 NOTE documents. Back to the [full index](../README.md).
+53 of 755 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -60,3 +60,4 @@
 | [NOTE-704](../../../record/notes.d/NOTE-704.md) | Simon — The Architecture of Complexity | Complexity usually takes the form of hierarchy, defined by intensity of interaction rather than subordination. Hierarchies evolve fast because stable intermediate forms survive interruption, and they are nearly decomposable: fast, nearly independent dynamics inside subsystems; slow, aggregate dynamics between them. The theorem is cited, not shown; the evolutionary numbers are illustrative; the social claims are asserted. | Read |
 | [NOTE-721](../../../record/notes.d/NOTE-721.md) | Smith & Varzi — Fiat and Bona Fide Boundaries | Spatial boundaries are bona fide where there is a physical discontinuity or qualitative heterogeneity, and fiat where there is not and the boundary owes its existence to demarcation by cognition, language, law or mathematics. Bona fide boundaries get ordinary (Bolzanian) topology, in which a boundary belongs to one side only; fiat boundaries get a Brentanian theory, in which each side has its own and the two coincide. The distinction is about whether a discontinuity is there, not about who made it, so it does not map onto [CLAIM-194](../../../record/claims.d/CLAIM-194.md)'s produced/imposed. | Read |
 | [NOTE-722](../../../record/notes.d/NOTE-722.md) | Lewis — Many, but almost one | Lewis gives two solutions to Unger's problem of the many and combines them. Supervaluation: "cat" is undecided among the candidates, each precisification picks one, so "there is one cat" is super-true. Almost identity: the candidates are cats, but they overlap almost completely, and counting by that overlap gives one, true enough in most contexts. Almost-identity is overlap, not similarity. It is not transitive, its threshold is left undecided, and it fails when the candidates differ substantially. Supervaluation then does the work. | Read |
+| [NOTE-747](../../../record/notes.d/NOTE-747.md) | Watson — Agency, Goal-Directed Behavior, and Part-Whole Relationships | A comparative, scale-relative notion of agency. Given a decomposition into parts with goals of their own, a whole is more agential than its parts when its organization lets them resolve more of their mutual constraints than they would at the equilibrium of the old organization. It shows this as delayed gratification. The essay argues this, and shows in cited models that unsupervised, bottom-up learning can produce such organization. It gives no threshold for an additional agent and no formula beyond comparing total frustration. | Read |

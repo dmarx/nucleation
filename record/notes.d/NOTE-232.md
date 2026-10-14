@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpv3qzd
 paper: LIT-247
 superseded_by:
-- NOTE-tmpqr9lw
+- NOTE-749
 title: 'Tschannen et al., on MI maximization for representations'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpqr9lw, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-749, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

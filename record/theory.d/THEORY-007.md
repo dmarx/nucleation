@@ -5,9 +5,9 @@ formerly:
 - THEORY-tmpqoglm
 promote_when: >-
   Met on 2026-10-14. A close reading of Johnson, El Hanchi & Maddison
-  (NOTE-tmpu7m7r) confirms Thm 3.2, Prop. 3.1 and Thm 4.1 with their
+  (NOTE-751) confirms Thm 3.2, Prop. 3.1 and Thm 4.1 with their
   conditions (Thm 4.1 needs d ≥ d*), and one of HaoChen et al.
-  (NOTE-tmpbkfrz) confirms Lemmas 3.1–3.2.
+  (NOTE-740) confirms Lemmas 3.1–3.2.
 title: 'Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets'
 version: 3
 history:
@@ -15,15 +15,15 @@ history:
   date: '2026-10-14'
   note: >-
     Proposed to Active: promote_when is met by the close readings of LIT-258
-    (NOTE-tmpu7m7r) and LIT-249 (NOTE-tmpbkfrz). Thm 4.1 now carries its
+    (NOTE-751) and LIT-249 (NOTE-740). Thm 4.1 now carries its
     condition d ≥ d* and the shared p(A); HaoChen et al.'s right factor is
     diag(√γ)R. Johnson et al. App. E.2 is said to apply NeuralEF, not SpIN,
     to K⁺. The "does not say" line on trained networks now cites Johnson et
-    al.'s failures on real data (E.1, F.5). From NOTE-tmpdlxl6: Simon et
+    al.'s failures on real data (E.1, F.5). From NOTE-741: Simon et
     al.'s "differ from ours" remark is now attributed to its real targets
     (Balestriero & LeCun, Kiani et al., Cabannes et al.), with their claim
     to complete HaoChen et al.'s account, and LIT-242 is marked as support
-    by analogy. From NOTE-tmpwlhed: LIT-228 is described as giving one
+    by analogy. From NOTE-752: LIT-228 is described as giving one
     dictionary per method, all selecting the eigenvectors of G under
     constant degree, which supports the eigenvector identification on a
     finite sample only. The stale Deferred comments on LIT-249 and LIT-258
@@ -32,8 +32,8 @@ history:
   date: '2026-10-14'
   note: >-
     A Connections section added for two accounts filed today:
-    THEORY-tmpbaoyn (LIT-242), the dynamical counterpart, and
-    THEORY-tmpakup2 (LIT-249), a second, cluster-based guarantee on the
+    THEORY-229 (LIT-242), the dynamical counterpart, and
+    THEORY-228 (LIT-249), a second, cluster-based guarantee on the
     same eigenvectors.
 tags:
 - representation-learning
@@ -61,7 +61,7 @@ answers:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: LIT-252 — Deferred: filed and skimmed on 2026-09-26; cited as supporting only, for what Spectral Inference Networks learn, and nothing promoted here rests on it -->
-<!-- inactive-ok-file: THEORY-tmpbaoyn THEORY-tmpakup2 — Proposed; the accounts filed from LIT-242 and LIT-249, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-229 THEORY-228 — Proposed; the accounts filed from LIT-242 and LIT-249, named in Connections and not leaned on -->
 
 # THEORY-007: Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets
 
@@ -86,14 +86,14 @@ On a finite sample, Balestriero & LeCun ([LIT-228](../literature.d/LIT-228.md)) 
 
 ## Connections
 
-- **[THEORY-tmpbaoyn](THEORY-tmpbaoyn.md)** is the dynamical counterpart. This account says which
+- **[THEORY-229](THEORY-229.md)** is the dynamical counterpart. This account says which
   subspace is optimal. Simon et al. ([LIT-242](../literature.d/LIT-242.md)) show which of the degenerate
   zero-loss optima a linearized model reaches under gradient flow on a
   symmetrized Barlow Twins loss, and in what order: the top eigenvectors,
   one at a time, in order of eigenvalue. Their operator is built from the
   model's kernel and the sample pairs, not from K⁺, so the correspondence
   is by analogy, as the Source section says.
-- **[THEORY-tmpakup2](THEORY-tmpakup2.md)** is a second guarantee on the same eigenvectors. At the
+- **[THEORY-228](THEORY-228.md)** is a second guarantee on the same eigenvectors. At the
   population optimum of the spectral contrastive loss, HaoChen et al.
   ([LIT-249](../literature.d/LIT-249.md), Thm 3.8) bound linear-probe error by the probability that
   augmentation changes the label over the squared sparsest-partition

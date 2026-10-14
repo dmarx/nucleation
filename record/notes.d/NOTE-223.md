@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp94vj6
 paper: LIT-254
 superseded_by:
-- NOTE-tmph96lt
+- NOTE-743
 title: 'Similarity of NN Representations Revisited (CKA)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmph96lt, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-743, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Noggle's entry (LIT-1007, NOTE-tmphtua8) and Susser, Roessler and
-    Nissenbaum (LIT-1002, NOTE-tmpijdk1) were read in full. Both are about
+    Noggle's entry (LIT-1007, NOTE-744) and Susser, Roessler and
+    Nissenbaum (LIT-1002, NOTE-745) were read in full. Both are about
     ordinary manipulation of single decisions, not the global manipulation
     the four-case argument uses, and Noggle says the relation between the
     two has rarely been examined (§1.1). "Why the record needs it" no
@@ -21,7 +21,7 @@ history:
   date: '2026-10-14'
   note: >-
     "What the record holds" now names the two accounts filed today from
-    those readings, THEORY-tmppv6y2 (LIT-1002) and THEORY-tmp2m1bc
+    those readings, THEORY-235 (LIT-1002) and THEORY-225
     (LIT-1007). Neither answers the question.
 tags:
 - self-governance
@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Deferred, unread; readings filed with this question -->
-<!-- inactive-ok-file: THEORY-tmppv6y2 THEORY-tmp2m1bc — Proposed; accounts filed today that bear on the question without answering it -->
+<!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 
@@ -75,7 +75,7 @@ The question has two parts:
    and Nissenbaum ([LIT-1002](../literature.d/LIT-1002.md)) give a candidate of another kind: whether
    an influence manipulated depends on whether the agent was, or could
    easily have become, aware of it, a fact about her access to the causal
-   history of her state ([NOTE-tmpijdk1](../notes.d/NOTE-tmpijdk1.md)). They argue it for single
+   history of her state ([NOTE-745](../notes.d/NOTE-745.md)). They argue it for single
    decisions, not for global manipulation.
 
 ## Why the record needs it
@@ -94,7 +94,7 @@ The question has two parts:
   The two read so far do not supply it: both treat ordinary manipulation
   of single decisions, not the installing of a whole character, and
   Noggle says the relation between the two has rarely been examined
-  (§1.1; [NOTE-tmphtua8](../notes.d/NOTE-tmphtua8.md), [NOTE-tmpijdk1](../notes.d/NOTE-tmpijdk1.md)).
+  (§1.1; [NOTE-744](../notes.d/NOTE-744.md), [NOTE-745](../notes.d/NOTE-745.md)).
 
 ## What the record holds
 
@@ -104,12 +104,12 @@ The question has two parts:
   introjection. This is empirical, from self-determination theory.
 - **[THEORY-121](../theory.d/THEORY-121.md):** ownership of the mechanism through taking
   responsibility, a historical condition the four-case argument targets.
-- **[THEORY-tmppv6y2](../theory.d/THEORY-tmppv6y2.md):** covert, vulnerability-exploiting influence harms
+- **[THEORY-235](../theory.d/THEORY-235.md):** covert, vulnerability-exploiting influence harms
   autonomy by making the agent opaque to herself. Its criterion is
   historical and epistemic: whether she was, and could easily have become,
   aware of what shaped her decision. Its limit: argued for single
   decisions, not for the installed character of the four-case argument.
-- **[THEORY-tmp2m1bc](../theory.d/THEORY-tmp2m1bc.md):** no single-mechanism analysis of ordinary
+- **[THEORY-225](../theory.d/THEORY-225.md):** no single-mechanism analysis of ordinary
   manipulation fits the clear cases. Its limit: it is about ordinary
   manipulation, so it does not supply the account of global manipulation
   the four-case argument assumes.

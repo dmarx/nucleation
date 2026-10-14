@@ -6,7 +6,7 @@ formerly:
 promote_when: >-
   A close reading of Harvey, Larsen & Williams's Thm 1 proof (App. A.2) and of
   Jorgensen & Tian's Cor. 1.35, which the book leaves partly as an exercise.
-  The first half is done: NOTE-tmpx7mtu read the proof of Lemma 2 in App.
+  The first half is done: NOTE-753 read the proof of Lemma 2 in App.
   A.2, from which Thm 1 follows, and found it correct. What remains is the
   close reading of Jorgensen & Tian (LIT-259), which this record has so far
   only skimmed.
@@ -16,7 +16,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the close readings NOTE-tmpx7mtu (LIT-250) and NOTE-tmph96lt
+    After the close readings NOTE-753 (LIT-250) and NOTE-743
     (LIT-254). The title and body now say that a centred kernel fixes the
     representation up to a translation as well as an orthogonal map. "NBS
     is the cosine of the Riemannian shape distance" is re-credited from
@@ -31,7 +31,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    A Connections section added: THEORY-tmpuowt1 (LIT-254, Thm 1), filed
+    A Connections section added: THEORY-236 (LIT-254, Thm 1), filed
     today, says why the invariant is not taken under the general linear
     group, where comparison is degenerate.
 tags:
@@ -58,13 +58,13 @@ supports:
 - CLAIM-148
 ---
 <!-- inactive-ok-file: LIT-259 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
-<!-- inactive-ok-file: THEORY-tmpuowt1 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
+<!-- inactive-ok-file: THEORY-236 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
 
 # THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
 ## Source
 
-Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), §2.2, §5.3, Thm 1 (eqs. 14–15), Lemma 2, eq. 25, as read in [NOTE-tmpx7mtu](../notes.d/NOTE-tmpx7mtu.md). Jorgensen & Tian, [LIT-259](../literature.d/LIT-259.md), Remark 1.34, Cor. 1.35, Ex. 4.28. Supporting: Kornblith et al. (2019), [LIT-254](../literature.d/LIT-254.md), as read in [NOTE-tmph96lt](../notes.d/NOTE-tmph96lt.md): App. D.2 (the Procrustes optimum is ‖YᵀX‖_*) and §2.2 (an argument, not a theorem, for orthogonal invariance); the GNS statement, [LIT-241](../literature.d/LIT-241.md).
+Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), §2.2, §5.3, Thm 1 (eqs. 14–15), Lemma 2, eq. 25, as read in [NOTE-753](../notes.d/NOTE-753.md). Jorgensen & Tian, [LIT-259](../literature.d/LIT-259.md), Remark 1.34, Cor. 1.35, Ex. 4.28. Supporting: Kornblith et al. (2019), [LIT-254](../literature.d/LIT-254.md), as read in [NOTE-743](../notes.d/NOTE-743.md): App. D.2 (the Procrustes optimum is ‖YᵀX‖_*) and §2.2 (an argument, not a theorem, for orthogonal invariance); the GNS statement, [LIT-241](../literature.d/LIT-241.md).
 
 ## What was actually shown
 
@@ -80,7 +80,7 @@ So the kernel is the invariant and the representation is one realization of it �
 
 ## Connections
 
-- **[THEORY-tmpuowt1](THEORY-tmpuowt1.md).** Why the orthogonal group, and not the general linear
+- **[THEORY-236](THEORY-236.md).** Why the orthogonal group, and not the general linear
   group. Kornblith et al. ([LIT-254](../literature.d/LIT-254.md), Thm 1) prove that a similarity index
   invariant to every invertible linear map takes the same value on all
   representations whose rank equals the number of examples. A comparison

@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpmviuo
 paper: LIT-266
 superseded_by:
-- NOTE-tmpqr65v
+- NOTE-748
 title: 'Spekkens, generalized contextuality (2005)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpqr65v, a full reading of the paper filed on
+    Superseded by NOTE-748, a full reading of the paper filed on
     2026-10-14, which answers the three checks under Open questions below.
     This skim is kept as the record of what was known before it.
 date: '2026-09-27'

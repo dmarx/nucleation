@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - THEORY-tmp34v8v
 promote_when: >-
-  Done (NOTE-tmpu7m7r): a close reading of Johnson, El Hanchi & Maddison
+  Done (NOTE-751): a close reading of Johnson, El Hanchi & Maddison
   confirms the spectral and logistic derivations (App. B.2–B.3) with their
   finite-space and unconstrained-function conditions. Remaining: a read
   derivation of the InfoNCE/NT-Xent minimizer. Johnson et al. take its form
@@ -17,8 +17,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-258 (NOTE-tmpu7m7r), LIT-249
-    (NOTE-tmpbkfrz) and LIT-246 (NOTE-tmpapyks). The InfoNCE/NT-Xent
+    After close readings of LIT-258 (NOTE-751), LIT-249
+    (NOTE-740) and LIT-246 (NOTE-739). The InfoNCE/NT-Xent
     minimizer is now said to be taken from van den Oord et al. rather than
     derived, over symmetric functions only, with negatives drawn i.i.d. from
     the marginal, and not unique. HaoChen et al.'s Lemma 3.2 is credited

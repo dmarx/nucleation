@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpjc9ai
 paper: LIT-249
 superseded_by:
-- NOTE-tmpbkfrz
+- NOTE-740
 title: 'Spectral contrastive loss (HaoChen et al.)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpbkfrz, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-740, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

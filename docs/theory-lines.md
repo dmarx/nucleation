@@ -65,9 +65,9 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
 
 - [THEORY-012](../record/theory.d/THEORY-012.md) — An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality *(Active)*
-  - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two *(Proposed)*
+  - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two *(Active)*
   - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also carries further THEORY-016
-  - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also carries further THEORY-016
+  - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Active)* — also carries further THEORY-016
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
 
 ## emotion-and-affect
@@ -166,12 +166,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## mathematics
 
-### From A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+### From A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
+- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
   - [THEORY-008](../record/theory.d/THEORY-008.md) — What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Proposed)*
   - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
+      - [THEORY-234](../record/theory.d/THEORY-234.md) — Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces *(Proposed)*
 
 ### From Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
@@ -231,9 +232,9 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
 
 - [THEORY-012](../record/theory.d/THEORY-012.md) — An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality *(Active)*
-  - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two *(Proposed)*
+  - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two *(Active)*
   - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also carries further THEORY-016
-  - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Proposed)* — also carries further THEORY-016
+  - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Active)* — also carries further THEORY-016
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
 
 ## representation-learning
@@ -241,16 +242,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio
 
 - [THEORY-001](../record/theory.d/THEORY-001.md) — On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio *(Proposed)*
-  - [THEORY-007](../record/theory.d/THEORY-007.md) — Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets *(Proposed)*
+  - [THEORY-007](../record/theory.d/THEORY-007.md) — Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets *(Active)*
     - [THEORY-005](../record/theory.d/THEORY-005.md) — The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite *(Proposed)*
     - [THEORY-009](../record/theory.d/THEORY-009.md) — Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem *(Proposed)*
 
-### From A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
+### From A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its kernel up to an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
+- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
   - [THEORY-008](../record/theory.d/THEORY-008.md) — What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Proposed)*
   - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
+      - [THEORY-234](../record/theory.d/THEORY-234.md) — Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces *(Proposed)*
 
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 

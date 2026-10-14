@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp5kviu
 paper: LIT-250
 superseded_by:
-- NOTE-tmpx7mtu
+- NOTE-753
 title: 'Duality of Bures and Shape Distances'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpx7mtu, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-753, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

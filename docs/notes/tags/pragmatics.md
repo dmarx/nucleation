@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-15 of 736 NOTE documents. Back to the [full index](../README.md).
+16 of 755 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -23,3 +23,4 @@
 | [NOTE-734](../../../record/notes.d/NOTE-734.md) | Grice — Logic and Conversation | pp. 45–47 only: conversational implicatures are to be tied to a Cooperative Principle (contribute what the accepted purpose of the talk exchange requires) and to maxims of Quantity, Quality, Relation and Manner. Grice flags the second Quantity maxim as disputable, defers Relation, and calls the information-exchange framing too narrow. | Skimmed |
 | [NOTE-735](../../../record/notes.d/NOTE-735.md) | Grice — Meaning | Speaker meaning is analysed as an intention to produce an effect in an audience by means of the audience's recognition of that intention; the effect must be one recognition can give a reason for, not merely cause. Timeless meaning is to be explained from occasion meaning. It is an analysis of meaning, offered "roughly", not of illocutionary acts. | Read |
 | [NOTE-736](../../../record/notes.d/NOTE-736.md) | Strawson — Intention and Convention in Speech Acts | Austin's thesis that illocutions are conventional fails for warnings, entreaties and objections. Their force is a wholly overt, audience-directed intention: Grice's three intentions plus a fourth, with uptake as the audience's grasp of it. The scheme strains on orders and fails on institutional acts. What all illocutions share is an overt intention meant to be understood. | Read |
+| [NOTE-750](../../../record/notes.d/NOTE-750.md) | Abdulhai et al. — How LLMs Distort Our Written Language | Three studies of LLM-assisted writing. Heavy LLM use in an essay task made judge-labelled neutral stances 68.9% more common. LLM revisions of 2021 student essays moved them further, and all in one direction, in sentence-embedding space than the students' own revisions did. LLM-written ICLR 2026 reviews named clarity and relevance less often. "Meaning" is measured by embedding position and by an LLM judge, never by the writers. | Read |

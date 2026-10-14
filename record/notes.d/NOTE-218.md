@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpu1tza
 paper: LIT-242
 superseded_by:
-- NOTE-tmpdlxl6
+- NOTE-741
 title: 'Simon et al. 2023 — stepwise nature of SSL'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpdlxl6, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-741, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

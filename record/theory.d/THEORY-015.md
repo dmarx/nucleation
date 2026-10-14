@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    LIT-266 was read in full (NOTE-tmpqr65v), and the §VIII.A proof was
+    LIT-266 was read in full (NOTE-748), and the §VIII.A proof was
     checked step by step. It holds, and it needs quantum theory's full
     preparation set: Ω is defined through every density operator (Eq. 85),
     and Eq. 86 holds only because every ρ appears in some decomposition of
@@ -32,7 +32,7 @@ source:
 summary: >-
   Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A (Eqs. 77–88), §VIII.B, §IX —
   the bridge between the record's two contextuality threads, which no held
-  work states. Read in full in NOTE-tmpqr65v, which confirmed the §VIII.A proof and its
+  work states. Read in full in NOTE-748, which confirmed the §VIII.A proof and its
   need for the full preparation set. Joining it to the sheaf form
   ([LIT-016](../literature.d/LIT-016.md)) is the record's inference.
 extends:
@@ -47,7 +47,7 @@ answers:
 
 ## Source
 
-Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX ([NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)). Supporting: Budroni et al. ([LIT-263](../literature.d/LIT-263.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
+Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX ([NOTE-748](../notes.d/NOTE-748.md)). Supporting: Budroni et al. ([LIT-263](../literature.d/LIT-263.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
 
 ## What was actually shown
 

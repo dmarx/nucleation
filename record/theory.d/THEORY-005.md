@@ -4,9 +4,9 @@ status: Proposed
 formerly:
 - THEORY-tmpfit2t
 promote_when: >-
-  Not met by the readings of 2026-10-14. Johnson et al. (NOTE-tmpu7m7r)
+  Not met by the readings of 2026-10-14. Johnson et al. (NOTE-751)
   write the operator formulation without an integrability condition and on a
-  finite space only; HaoChen et al. (NOTE-tmpbkfrz) extend to infinite
+  finite space only; HaoChen et al. (NOTE-740) extend to infinite
   spaces under a uniform bound on K⁺, stronger than finite χ², and prove
   only the existence of the eigenbasis there; both show the spectral
   population minimizer, not trained features, spanning the top
@@ -21,8 +21,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-249 (NOTE-tmpbkfrz) and LIT-258
-    (NOTE-tmpu7m7r). HaoChen et al.'s Assumption F.1 is now described as
+    After close readings of LIT-249 (NOTE-740) and LIT-258
+    (NOTE-751). HaoChen et al.'s Assumption F.1 is now described as
     what it is, a uniform bound K⁺ ≤ B, from which they derive the
     Hilbert–Schmidt property (eq. 70); it is not the finite-χ² condition,
     and equating Hilbert–Schmidt with finite χ² is marked as the record's

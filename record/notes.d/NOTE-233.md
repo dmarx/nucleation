@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpxfay2
 paper: LIT-246
 superseded_by:
-- NOTE-tmpapyks
+- NOTE-739
 title: 'Poole et al., variational bounds of mutual information'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpapyks, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-739, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

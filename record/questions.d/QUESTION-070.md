@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Noggle's entry (LIT-1007, NOTE-tmphtua8) and Susser, Roessler and
-    Nissenbaum (LIT-1002, NOTE-tmpijdk1) were read in full. The summary
+    Noggle's entry (LIT-1007, NOTE-744) and Susser, Roessler and
+    Nissenbaum (LIT-1002, NOTE-745) were read in full. The summary
     and "The question" understated Noggle: its §4.2 treats the intent
     requirement as contested, asks this question's first part of a
     selecting algorithm, and lists five answers without endorsing one.
@@ -22,7 +22,7 @@ history:
   date: '2026-10-14'
   note: >-
     "What the record holds" now names the two accounts filed today from
-    those readings, THEORY-tmppv6y2 (LIT-1002) and THEORY-tmp2m1bc
+    those readings, THEORY-235 (LIT-1002) and THEORY-225
     (LIT-1007). Neither answers the question.
 tags:
 - social-ontology
@@ -44,7 +44,7 @@ summary: >-
   any member.
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
-<!-- inactive-ok-file: THEORY-tmppv6y2 THEORY-tmp2m1bc — Proposed; accounts filed today that bear on the question without answering it -->
+<!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 
 # QUESTION-070: When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?
 
@@ -55,14 +55,14 @@ Susser, Roessler and Nissenbaum ([LIT-1002](../literature.d/LIT-1002.md)) define
 their vulnerabilities. The paper never examines that requirement, and it
 sets aside manipulation of institutions and systems (p. 3), so it is no
 evidence either way on whether an organized whole can manipulate
-([NOTE-tmpijdk1](../notes.d/NOTE-tmpijdk1.md)). Many of the definitions Noggle surveys ([LIT-1007](../literature.d/LIT-1007.md))
+([NOTE-745](../notes.d/NOTE-745.md)). Many of the definitions Noggle surveys ([LIT-1007](../literature.d/LIT-1007.md))
 also build in intent. But the entry treats the requirement as contested
 (§4.2): it asks whether an algorithm that selects interface variants
 manipulates without a human's intent, and lists five answers without
 endorsing one. Among them are that manipulation needs no intention or
 state of mind, and that it needs intent, so such cases are not
 manipulation. None is stated in terms of a function or a selection
-history ([NOTE-tmphtua8](../notes.d/NOTE-tmphtua8.md)). Its case is a single designed system,
+history ([NOTE-744](../notes.d/NOTE-744.md)). Its case is a single designed system,
 like [LIT-179](../literature.d/LIT-179.md), not a network like [LIT-084](../literature.d/LIT-084.md). The record holds two read cases
 where the aim is hard to place:
 
@@ -97,14 +97,14 @@ The question has two parts:
 - **[THEORY-139](../theory.d/THEORY-139.md):** a group that forms judgments by authorised avowal, and
   corrects its members' inconsistent views, is fit to be held responsible.
   Its limit: neither case above has authorised avowal.
-- **[THEORY-tmppv6y2](../theory.d/THEORY-tmppv6y2.md):** covert influence that exploits a person's
+- **[THEORY-235](../theory.d/THEORY-235.md):** covert influence that exploits a person's
   decision-making vulnerabilities harms her autonomy by making her opaque
   to herself. The harm runs through the target's access to the influence,
   not through the influencer's mind, so it is one route on which a whole
   with no intending member could do the harm. Its limit: it claims a harm,
   not a wrong, and is filed of covert influence, not of manipulation as
   such.
-- **[THEORY-tmp2m1bc](../theory.d/THEORY-tmp2m1bc.md):** no single-mechanism analysis of manipulation fits
+- **[THEORY-225](../theory.d/THEORY-225.md):** no single-mechanism analysis of manipulation fits
   the clear cases. An answer must say what manipulation is before asking
   whether such a whole can do it. Its limit: common-factor and
   non-definitional accounts, such as Cohen's cluster concept, are left

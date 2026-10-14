@@ -10,7 +10,7 @@ history:
   date: '2026-10-14'
   note: >-
     Watson's essay (LIT-990), filed as a candidate criterion for this
-    question, was read in full (NOTE-tmpo6vec). A note says that its
+    question, was read in full (NOTE-747). A note says that its
     criterion is comparative and scale-relative and refuses a threshold,
     so it bears on the question without answering it. The status stays
     Deferred.
@@ -18,7 +18,7 @@ history:
   date: '2026-10-14'
   note: >-
     The note of 2026-10-14 now names the account filed from Watson's
-    essay, THEORY-tmphw05b.
+    essay, THEORY-232.
 tags:
 - agency
 - social-ontology
@@ -41,7 +41,7 @@ refined_by:
 - QUESTION-093
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: THEORY-tmphw05b — Proposed; the comparative criterion filed today, which bears on this question without answering it -->
+<!-- inactive-ok-file: THEORY-232 — Proposed; the comparative criterion filed today, which bears on this question without answering it -->
 
 # QUESTION-009: When does a pattern of coordination constitute an additional agent?
 
@@ -59,7 +59,7 @@ Two THEORYs now carry `answered_by` edges. [THEORY-065](../theory.d/THEORY-065.m
 
 ## Note of 2026-10-14: a comparative criterion, not a threshold
 
-Watson ([LIT-990](../literature.d/LIT-990.md)), read in [NOTE-tmpo6vec](../notes.d/NOTE-tmpo6vec.md), gives a criterion of a different
+Watson ([LIT-990](../literature.d/LIT-990.md)), read in [NOTE-747](../notes.d/NOTE-747.md), gives a criterion of a different
 shape. Coordination counts when it lets the parts resolve more of their
 mutual constraints than they would without it. That says when a whole is
 *more agential than its parts*, relative to a chosen decomposition into
@@ -67,5 +67,5 @@ parts with given goals. It declines any absolute line "regardless of
 whether the parts, or the system as a whole, are considered to pass some
 absolute threshold". So it is not a criterion for when there is an
 additional agent, and read as one it changes the question rather than
-answering it. The criterion is filed as [THEORY-tmphw05b](../theory.d/THEORY-tmphw05b.md), which declares no
+answering it. The criterion is filed as [THEORY-232](../theory.d/THEORY-232.md), which declares no
 relation to this question for that reason.
