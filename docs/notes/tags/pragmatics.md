@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-17 of 851 NOTE documents. Back to the [full index](../README.md).
+17 of 862 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

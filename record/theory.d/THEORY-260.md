@@ -35,7 +35,7 @@ history:
     The record's own step named in version 2, carrying LIT-239's
     non-stochastic strings to total recursive functions through
     Propositions B.1(b)–B.2(b) and Remark B.3, is filed with its argument as
-    CLAIM-tmp75182 and cited in the body. That claim also corrects the
+    CLAIM-289 and cited in the body. That claim also corrects the
     threshold: Corollary IV.9 gives deficiency about √n only for models of
     complexity below n − √n − O(log n), not below n − O(log n) as LIT-239
     §VI-D words it and version 2 repeated. The clause is still met. The
@@ -90,7 +90,7 @@ and the identity function (Theorem 6.5(ii)). For every n some x of
 length n has soph(x) >⁺ n − log n − 2 log log n (Theorem 6.5(iv)): such
 strings are almost all structure. [LIT-239](../literature.d/LIT-239.md) gives an independent route at
 O(log n) precision, its non-stochastic strings carried to total
-functions in [CLAIM-tmp75182](../claims.d/CLAIM-tmp75182.md). A model class could have failed at
+functions in [CLAIM-289](../claims.d/CLAIM-289.md). A model class could have failed at
 either end, by trivialising every string or by leaving no string with a
 short model. Both ends are proved to be reached.
 

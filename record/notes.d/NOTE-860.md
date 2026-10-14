@@ -1,6 +1,9 @@
 ---
+number: 860
 status: Read
-paper: LIT-tmpo9j0c
+formerly:
+- NOTE-tmpieo7h
+paper: LIT-1049
 title: 'Fricker — Epistemic Injustice and a Role for Virtue in the Politics of Knowing'
 version: 1
 history:
@@ -26,9 +29,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis -->
 <!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis -->
-<!-- inactive-ok-file: THEORY-317 THEORY-tmpa9fyk — Proposed; the account from the précis and the account filed from this batch -->
+<!-- inactive-ok-file: THEORY-317 THEORY-327 — Proposed; the account from the précis and the account filed from this batch -->
 
-# NOTE-tmpieo7h: Fricker — Epistemic Injustice and a Role for Virtue in the Politics of Knowing
+# NOTE-860: Fricker — Epistemic Injustice and a Role for Virtue in the Politics of Knowing
 
 ## Contribution
 
@@ -130,7 +133,7 @@ The paper responds to McDowell's "Knowledge by Hearsay", Coady's
 *Testimony* and Elizabeth Fricker's anti-reductionism debate. It draws on
 MacIntyre, Zagzebski, Hookway, Karen Jones ("distrust their own
 distrust") and Williams. Its two cases are reused in the book and in
-the 2017 chapter ([NOTE-tmp3a0fd](NOTE-tmp3a0fd.md)), where Ripley's part is reclassified as
+the 2017 chapter ([NOTE-853](NOTE-853.md)), where Ripley's part is reclassified as
 "intentional gaslighting".
 
 ## Bearing on the record
@@ -149,7 +152,7 @@ the 2017 chapter ([NOTE-tmp3a0fd](NOTE-tmp3a0fd.md)), where Ripley's part is rec
   filing, and that it cause a deficit for a speaker. The historicism
   result bears on blame, not on whether the wrong occurs. A filer can do
   the injustice before anyone "is in a position to know better".
-  [THEORY-tmpa9fyk](../theory.d/THEORY-tmpa9fyk.md) states the condition.
+  [THEORY-327](../theory.d/THEORY-327.md) states the condition.
 - **Nothing here is ML practice.**
 
 ## Limitations

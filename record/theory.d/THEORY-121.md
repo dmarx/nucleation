@@ -25,8 +25,8 @@ history:
 - version: 4
   date: '2026-10-14'
   note: >-
-    After the readings of Caruso's SEP entry (LIT-tmpbbfpu,
-    NOTE-tmpvvxmy) and De Marco and Cyr (LIT-tmp4xovm, NOTE-tmp5wtbq),
+    After the readings of Caruso's SEP entry (LIT-1047,
+    NOTE-862) and De Marco and Cyr (LIT-1045, NOTE-856),
     filed as alternatives to LIT-1006. A dated note under "What would
     refute it" records that neither reports the rebuilt four-case
     argument, and names two further candidate refuters they report.
@@ -66,7 +66,7 @@ answers:
 - QUESTION-011
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
-<!-- inactive-ok-file: THEORY-tmptedt7 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
+<!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
 <!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->
 <!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; Fischer and Ravizza's book, named as a source because the account is theirs; what is quoted comes from the précis -->
@@ -199,15 +199,15 @@ first-hand and shown unanswered by Fischer's replies. As of 2026-10-14 it
 still has not been: Pereboom's book ([LIT-1006](../literature.d/LIT-1006.md)) was read only in part
 ([NOTE-823](../notes.d/NOTE-823.md)), and the rebuilt case is in Chapter 4 (p. 117 by the
 contents), which was not read. Note of 2026-10-14, later: two surveys
-read in full as alternatives ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md),
-[NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md)) state the four-case argument ([THEORY-tmptedt7](THEORY-tmptedt7.md)) but do not
+read in full as alternatives ([LIT-1047](../literature.d/LIT-1047.md), [NOTE-862](../notes.d/NOTE-862.md); [LIT-1045](../literature.d/LIT-1045.md),
+[NOTE-856](../notes.d/NOTE-856.md)) state the four-case argument ([THEORY-328](THEORY-328.md)) but do not
 report the rebuilt version, so the named refuter is still unread. They
 report two other candidates, both second-hand. One is Levy's luck
 argument: the acts by which an agent takes responsibility "either
 express that endowment … or reflect the agent's present luck"
-([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), §2.4). The other is original-design manipulation (Mele's
+([LIT-1047](../literature.d/LIT-1047.md), §2.4). The other is original-design manipulation (Mele's
 Ernie), which De Marco and Cyr say defeats bypassing conditions, a class
-in which they list Fischer and Ravizza's ([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §4 and n. 15).
+in which they list Fischer and Ravizza's ([LIT-1045](../literature.d/LIT-1045.md), §4 and n. 15).
 The
 alternative-possibilities half is refuted only if both the Frankfurt-type
 cases and the other routes Fischer says lead to the same conclusion

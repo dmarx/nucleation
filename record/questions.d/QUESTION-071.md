@@ -36,12 +36,12 @@ history:
 - version: 5
   date: '2026-10-14'
   note: >-
-    After the readings of Caruso's SEP entry (LIT-tmpbbfpu,
-    NOTE-tmpvvxmy) and De Marco and Cyr (LIT-tmp4xovm, NOTE-tmp5wtbq),
+    After the readings of Caruso's SEP entry (LIT-1047,
+    NOTE-862) and De Marco and Cyr (LIT-1045, NOTE-856),
     filed as alternatives to LIT-1006. A dated note under "The question"
     records that they confirm the description of the four cases in
     outline, from two of them quoted in Pereboom's later wordings, and
-    what they bear on in part 2. THEORY-tmptedt7, the argument as filed
+    what they bear on in part 2. THEORY-328, the argument as filed
     from them, is named. The question stays open.
 tags:
 - self-governance
@@ -64,7 +64,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
-<!-- inactive-ok-file: THEORY-tmptedt7 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
+<!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
 <!-- inactive-ok-file: THEORY-316 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 
@@ -84,8 +84,8 @@ Skimmed; [THEORY-316](../theory.d/THEORY-316.md)), and the reading stopped befor
 holds the four cases, so this description is not confirmed first-hand.
 
 *Note of 2026-10-14, later.* Two surveys read in full as alternatives
-([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md)) confirm the
-description in outline, at survey strength ([THEORY-tmptedt7](../theory.d/THEORY-tmptedt7.md)). Case 1
+([LIT-1047](../literature.d/LIT-1047.md), [NOTE-862](../notes.d/NOTE-862.md); [LIT-1045](../literature.d/LIT-1045.md), [NOTE-856](../notes.d/NOTE-856.md)) confirm the
+description in outline, at survey strength ([THEORY-328](../theory.d/THEORY-328.md)). Case 1
 (mid-life intervention) and Case 2 (programming from the start of life)
 are quoted in Pereboom's 2024 and 2014 wordings, and each stipulates that
 Plum meets reasons-responsive and hierarchical conditions. Case 3 is an

@@ -1,5 +1,8 @@
 ---
+number: 858
 status: Read
+formerly:
+- NOTE-tmpgezie
 paper: LIT-029
 title: 'McAllister & McCrea — Long-term consequences of repetitive concussion'
 version: 1
@@ -26,7 +29,7 @@ summary: >-
   prospective cohorts with controls.
 ---
 
-# NOTE-tmpgezie: McAllister & McCrea — Long-term consequences of repetitive concussion
+# NOTE-858: McAllister & McCrea — Long-term consequences of repetitive concussion
 
 ## Contribution
 

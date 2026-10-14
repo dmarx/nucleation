@@ -1,5 +1,8 @@
 ---
+number: 291
 status: Active
+formerly:
+- CLAIM-tmpl246t
 title: 'The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel'
 version: 1
 role: thesis
@@ -30,7 +33,7 @@ summary: >-
   claimed for kernels that are not square-integrable.
 ---
 
-# CLAIM-tmpl246t: The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel
+# CLAIM-291: The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel
 
 ## The claim
 

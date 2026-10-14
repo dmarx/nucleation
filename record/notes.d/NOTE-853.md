@@ -1,6 +1,9 @@
 ---
+number: 853
 status: Read
-paper: LIT-tmphrja4
+formerly:
+- NOTE-tmp3a0fd
+paper: LIT-1048
 title: 'Fricker — Evolving Concepts of Epistemic Injustice'
 version: 1
 history:
@@ -26,9 +29,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis -->
 <!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis -->
-<!-- inactive-ok-file: THEORY-317 THEORY-tmpa9fyk THEORY-tmp0d8b5 — Proposed; the account from the précis and the accounts filed from this batch -->
+<!-- inactive-ok-file: THEORY-317 THEORY-327 THEORY-326 — Proposed; the account from the précis and the accounts filed from this batch -->
 
-# NOTE-tmp3a0fd: Fricker — Evolving Concepts of Epistemic Injustice
+# NOTE-853: Fricker — Evolving Concepts of Epistemic Injustice
 
 ## Contribution
 
@@ -141,7 +144,7 @@ Fricker cites her own 2007 book throughout, and her 2016 paper on Mills's
 She follows Anderson (2012) on structural injustice and Coady (2010) on
 distributive injustice, and accepts Medina, Pohlhaus, Dotson and Mason on
 how hearers sustain these injustices. Her two earlier papers, read here
-in [NOTE-tmpieo7h](NOTE-tmpieo7h.md) ([LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0c.md), 2003) and [NOTE-tmpgy7n9](NOTE-tmpgy7n9.md) ([LIT-tmp71qsd](../literature.d/LIT-tmp71qsd.md),
+in [NOTE-860](NOTE-860.md) ([LIT-1049](../literature.d/LIT-1049.md), 2003) and [NOTE-859](NOTE-859.md) ([LIT-1046](../literature.d/LIT-1046.md),
 2006), are the first statements of the two concepts.
 
 ## Bearing on the record
@@ -155,7 +158,7 @@ in [NOTE-tmpieo7h](NOTE-tmpieo7h.md) ([LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0
   but does not state. It also gives the cause of hermeneutical injustice
   as "hermeneutical marginalisation in relation to some area of social
   experience", which is less tied to a social group than the précis's
-  "relative powerlessness of a social group". [NOTE-tmpgy7n9](NOTE-tmpgy7n9.md) makes the
+  "relative powerlessness of a social group". [NOTE-859](NOTE-859.md) makes the
   difference explicit.
 - **[QUESTION-072](../questions.d/QUESTION-072.md), part 1.** Anderson's un-refreshed list is close in form
   to the question's case: a standing arrangement decides whose word is
@@ -164,7 +167,7 @@ in [NOTE-tmpieo7h](NOTE-tmpieo7h.md) ([LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0
   pre-emptive testimonial injustice. That holds only if the arrangement
   embodies a *prejudice*, a misjudgement of those contributors as
   epistemically lesser. A filing grammar that leaves out a kind of move
-  regardless of who makes it is not such a prejudice. [THEORY-tmpa9fyk](../theory.d/THEORY-tmpa9fyk.md)
+  regardless of who makes it is not such a prejudice. [THEORY-327](../theory.d/THEORY-327.md)
   states the condition.
 - **[QUESTION-072](../questions.d/QUESTION-072.md), part 2.** "Not deliberate" cuts both ways. The record's
   grammar was chosen deliberately, but leaving out a contributor's moves

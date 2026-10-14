@@ -214,7 +214,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Emotions
 
-- [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Deferred)*
+- [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Unavailable)*
   - [LIT-540](../record/literature.d/LIT-540.md) — Impulsive action: emotional impulses and their control *(Active)*
 
 ### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
@@ -259,7 +259,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Brain of the Firm
 
-- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
+- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Unavailable)*
   - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
 
 ## compositionality
@@ -364,7 +364,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Emotions
 
-- [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Deferred)*
+- [LIT-546](../record/literature.d/LIT-546.md) — The Emotions *(Unavailable)*
   - [LIT-540](../record/literature.d/LIT-540.md) — Impulsive action: emotional impulses and their control *(Active)*
 
 ## epistemology
@@ -963,7 +963,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
 
-- [LIT-715](../record/literature.d/LIT-715.md) — The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA *(Deferred)*
+- [LIT-715](../record/literature.d/LIT-715.md) — The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA *(Unavailable)*
   - [LIT-734](../record/literature.d/LIT-734.md) — History As Cause: Columbia and Challenger *(Active)*
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
@@ -973,7 +973,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Brain of the Firm
 
-- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
+- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Unavailable)*
   - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
 
 ### From Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States
@@ -996,7 +996,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA
 
-- [LIT-715](../record/literature.d/LIT-715.md) — The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA *(Deferred)*
+- [LIT-715](../record/literature.d/LIT-715.md) — The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA *(Unavailable)*
   - [LIT-734](../record/literature.d/LIT-734.md) — History As Cause: Columbia and Challenger *(Active)*
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
@@ -1006,7 +1006,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From Brain of the Firm
 
-- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Deferred)*
+- [LIT-746](../record/literature.d/LIT-746.md) — Brain of the Firm *(Unavailable)*
   - [LIT-752](../record/literature.d/LIT-752.md) — The Viable System Model: Its Provenance, Development, Methodology and Pathology *(Active)*
 
 ### From Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States

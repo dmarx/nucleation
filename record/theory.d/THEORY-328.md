@@ -1,5 +1,8 @@
 ---
+number: 328
 status: Proposed
+formerly:
+- THEORY-tmptedt7
 promote_when: >-
   Two kinds of result. First, a first-hand reading of Pereboom's own
   statement of the four cases and his argument from them: Living without
@@ -24,15 +27,15 @@ tags:
 - metaphysics
 date: '2026-10-14'
 source:
-- LIT-tmpbbfpu
-- LIT-tmp4xovm
+- LIT-1047
+- LIT-1045
 - LIT-1006
 rivals:
 - THEORY-121
 summary: >-
   Pereboom's four-case argument, as two surveys report it: Caruso's SEP
-  entry ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md)), which quotes Case 2, and De Marco
-  and Cyr ([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md)), which quote Case 1 and state the
+  entry ([LIT-1047](../literature.d/LIT-1047.md), [NOTE-862](../notes.d/NOTE-862.md)), which quotes Case 2, and De Marco
+  and Cyr ([LIT-1045](../literature.d/LIT-1045.md), [NOTE-856](../notes.d/NOTE-856.md)), which quote Case 1 and state the
   best-explanation conclusion. Pereboom's book ([LIT-1006](../literature.d/LIT-1006.md)) is a source for
   the thesis it states in its Introduction and Chapter 1, not for the
   cases, which are in the unread Chapter 4. It does not say that
@@ -44,15 +47,15 @@ summary: >-
 <!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-316 — Proposed; the manipulation account this bears on, and Pereboom's condition (3) that this argument would show true -->
 
-# THEORY-tmptedt7: An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible
+# THEORY-328: An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible
 
 ## Source
 
 - Caruso (2018), SEP "Skepticism About Moral Responsibility",
-  [LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), §2.2, read in full in [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md). Case 2 is quoted
+  [LIT-1047](../literature.d/LIT-1047.md), §2.2, read in full in [NOTE-862](../notes.d/NOTE-862.md). Case 2 is quoted
   there from Pereboom 2014a: 77.
-- De Marco and Cyr (2024), *Philosophy Compass*, [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §§2, 5 and
-  n. 23, read in full in [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md). Case 1 is quoted there from
+- De Marco and Cyr (2024), *Philosophy Compass*, [LIT-1045](../literature.d/LIT-1045.md), §§2, 5 and
+  n. 23, read in full in [NOTE-856](../notes.d/NOTE-856.md). Case 1 is quoted there from
   Fischer et al. 2024: 98.
 - Pereboom (2001), [LIT-1006](../literature.d/LIT-1006.md), read in part in [NOTE-823](../notes.d/NOTE-823.md). The
   Introduction says that "causal determination presents in principle no
@@ -68,14 +71,14 @@ four cases in Pereboom's words.
 neuroscientists press a button "just before he begins to reason about
 his situation", producing "a strongly egoistic reasoning process, which
 they know will deterministically result in his decision to kill White"
-([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §2). He is "stipulated to satisfy various compatibilist
+([LIT-1045](../literature.d/LIT-1045.md), §2). He is "stipulated to satisfy various compatibilist
 conditions": reasons-responsiveness and conformity to higher-order
 attitudes. In Case 2, Plum is "programmed … at the beginning on his
 life". He engages in "the egoistic reasons-responsive process of
 deliberation", has "the set of first and second-order desires that
 result in his decision", and has "the general ability to regulate his
 actions by moral reasons". He does not decide "because of an irresistible
-desire" ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), §2.2). Case 1 features "the most radical sort of
+desire" ([LIT-1047](../literature.d/LIT-1047.md), §2.2). Case 1 features "the most radical sort of
 manipulation consistent with all the leading compatibilist conditions".
 The premise is an intuition: Plum is not responsible in the
 basic-desert sense.
@@ -83,22 +86,22 @@ basic-desert sense.
 **Step 2: no relevant difference (No-Diff).** In Case 3 an egoistic
 society "instills in him the very same tendencies". Case 4 is an
 ordinary deterministic world "without any manipulators in the picture"
-([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §5). Pereboom argues "there is no relevant difference
+([LIT-1045](../literature.d/LIT-1045.md), §5). Pereboom argues "there is no relevant difference
 between any two adjacent cases". "It is simply irrelevant whether Plum's
 psychological states ultimately trace back to intentional agents or
-non-intentional causes" ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), §2.2).
+non-intentional causes" ([LIT-1047](../literature.d/LIT-1047.md), §2.2).
 
 **Step 3: best explanation.** "The best explanation of the Plums' lack
 of responsibility for their decisions is that the decisions were
 causally determined by factors outside of the Plums' control"
-([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), n. 23).
+([LIT-1045](../literature.d/LIT-1045.md), n. 23).
 
 **The dialectic it creates.** A compatibilist must either accept that
 Plum in Case 1 is responsible (a hard line) or name a difference (a soft
 line). Any difference named so far has been met by a revised case.
 Original design (Mele's Ernie, and Pereboom's Case 2) defeats bypassing conditions. A natural
-force (Natalie) defeats manipulator conditions ([LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §§4–5;
-[LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), §2.2).
+force (Natalie) defeats manipulator conditions ([LIT-1045](../literature.d/LIT-1045.md), §§4–5;
+[LIT-1047](../literature.d/LIT-1047.md), §2.2).
 
 What could have come out otherwise: Step 1 rests on an intuition that
 hard-liners reject (Frankfurt, McKenna's reversal from Case 4). De Marco

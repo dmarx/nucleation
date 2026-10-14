@@ -1,5 +1,8 @@
 ---
+number: 852
 status: Read
+formerly:
+- NOTE-tmp382zf
 paper: LIT-379
 title: 'Chuai & Zhao — Anger makes fake news viral online'
 version: 1
@@ -26,9 +29,9 @@ summary: >-
   anxiety-management and information-sharing motive than joy-dominated
   ones. The paper calls this causal; the design is observational.
 ---
-<!-- inactive-ok-file: LIT-083 THEORY-tmpzojtc — Proposed; the neighbouring work, not leaned on, and the account filed from this reading -->
+<!-- inactive-ok-file: LIT-083 THEORY-329 — Proposed; the neighbouring work, not leaned on, and the account filed from this reading -->
 
-# NOTE-tmp382zf: Chuai & Zhao — Anger makes fake news viral online
+# NOTE-852: Chuai & Zhao — Anger makes fake news viral online
 
 ## Contribution
 
@@ -172,7 +175,7 @@ incidents among defenders, not about spread.
 ## Bearing on the record
 
 - **No THEORY, QUESTION or CLAIM cites this paper.** The reading supports
-  one new account, filed as [THEORY-tmpzojtc](../theory.d/THEORY-tmpzojtc.md), held at the strength of an
+  one new account, filed as [THEORY-329](../theory.d/THEORY-329.md), held at the strength of an
   association.
 - **The LIT's triage summary is right in outline, with three
   corrections.**

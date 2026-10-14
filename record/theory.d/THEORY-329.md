@@ -1,5 +1,8 @@
 ---
+number: 329
 status: Proposed
+formerly:
+- THEORY-tmpzojtc
 promote_when: >-
   A randomized or quasi-experimental study in which the anger expressed in
   a post is varied while its claim, source and topic are held fixed, and
@@ -21,7 +24,7 @@ date: '2026-10-14'
 source:
 - LIT-379
 summary: >-
-  Chuai & Zhao (2020), [LIT-379](../literature.d/LIT-379.md), read in [NOTE-tmp382zf](../notes.d/NOTE-tmp382zf.md). In 32,479 Weibo
+  Chuai & Zhao (2020), [LIT-379](../literature.d/LIT-379.md), read in [NOTE-852](../notes.d/NOTE-852.md). In 32,479 Weibo
   posts from 2011–2016, lexicon-scored anger share is higher and joy
   share lower in fake than in true news, and in highly than in lowly
   retweeted news, under three scoring methods. With content, author and
@@ -31,12 +34,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-083 THEORY-055 THEORY-057 THEORY-123 — Proposed; named in Connections to mark what this account is not about, not leaned on -->
 
-# THEORY-tmpzojtc: On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown
+# THEORY-329: On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown
 
 ## Source
 
 Chuai & Zhao (2020), [LIT-379](../literature.d/LIT-379.md) (arXiv 2004.10399v3), read in
-[NOTE-tmp382zf](../notes.d/NOTE-tmp382zf.md): Fig. 1 and Tables S2–S14 (distributions), Table 1 and
+[NOTE-852](../notes.d/NOTE-852.md): Fig. 1 and Tables S2–S14 (distributions), Table 1 and
 Table S17 (regressions), S10 and Table S18 (English data), S13 and Table
 S26 (survey), S14 and Table S27 (the 20% threshold).
 

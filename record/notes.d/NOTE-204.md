@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpa772s
 paper: LIT-241
 superseded_by:
-- NOTE-tmp98n0x
+- NOTE-857
 title: 'GNS construction (Wikipedia)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmp98n0x, a full reading of the work filed on 2026-10-14.
+    Superseded by NOTE-857, a full reading of the work filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

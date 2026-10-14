@@ -25,7 +25,7 @@ history:
   note: >-
     The paper's §VI-D threshold for non-stochastic strings, quoted under
     Key results, is annotated with the bound Corollary IV.9 actually gives
-    (n − √n − O(log n)), with a pointer to CLAIM-tmp75182.
+    (n − √n − O(log n)), with a pointer to CLAIM-289.
 date: '2026-10-14'
 summary: >-
   For a string x of length n and every complexity bound α, the minimal
@@ -130,7 +130,7 @@ h_x(α) = min{log |S| : S ∋ x, K(S) ≤ α};
   n − √n ± O(log n) with deficiency about √n relative to every set of
   complexity below n − O(log n). (The paper's phrase. Corollary IV.9
   gives it only below n − √n − O(log n), since {x} has complexity about
-  n − √n and deficiency O(1); see [CLAIM-tmp75182](../claims.d/CLAIM-tmp75182.md).)
+  n − √n and deficiency O(1); see [CLAIM-289](../claims.d/CLAIM-289.md).)
 - **Snooping curves (Lemma V.1).** The least cumulative log loss
   L_x(α) of a predictor of complexity at most α equals h_x(α) within
   O(log n) in argument and value. A smallest set is a best predictor.

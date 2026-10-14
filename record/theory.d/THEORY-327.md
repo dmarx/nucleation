@@ -1,5 +1,8 @@
 ---
+number: 327
 status: Proposed
+formerly:
+- THEORY-tmpa9fyk
 promote_when: >-
   A first-hand reading of the book's chapters on testimonial injustice
   (LIT-1004, chs. 1–2, with ch. 6 on pre-emptive testimonial injustice)
@@ -22,12 +25,12 @@ tags:
 - society-and-governance
 date: '2026-10-14'
 source:
-- LIT-tmphrja4
-- LIT-tmpo9j0c
+- LIT-1048
+- LIT-1049
 summary: >-
   Fricker, in her own words, in two papers read in full: the paper that
-  introduced testimonial injustice (2003, [LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0c.md), [NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md)),
-  and her retrospective chapter (2017, [LIT-tmphrja4](../literature.d/LIT-tmphrja4.md), [NOTE-tmp3a0fd](../notes.d/NOTE-tmp3a0fd.md)). A
+  introduced testimonial injustice (2003, [LIT-1049](../literature.d/LIT-1049.md), [NOTE-860](../notes.d/NOTE-860.md)),
+  and her retrospective chapter (2017, [LIT-1048](../literature.d/LIT-1048.md), [NOTE-853](../notes.d/NOTE-853.md)). A
   speaker receives the wrong degree of credibility "owing to a certain
   sort of unintended prejudice on the hearer's part". Deliberate
   manipulation of credibility is "a closely related but distinct
@@ -38,17 +41,17 @@ summary: >-
   omission from a list, is an injustice: a prejudice must cause it.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
-<!-- inactive-ok-file: THEORY-317 THEORY-tmp0d8b5 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
+<!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
 
-# THEORY-tmpa9fyk: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
+# THEORY-327: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
 
 ## Source
 
 - Fricker (2003), "Epistemic Justice and a Role for Virtue in the
-  Politics of Knowing", *Metaphilosophy* 34, [LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0c.md), read in full
-  in [NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md), from the author-posted manuscript.
+  Politics of Knowing", *Metaphilosophy* 34, [LIT-1049](../literature.d/LIT-1049.md), read in full
+  in [NOTE-860](../notes.d/NOTE-860.md), from the author-posted manuscript.
 - Fricker (2017), "Evolving Concepts of Epistemic Injustice", Routledge
-  Handbook, [LIT-tmphrja4](../literature.d/LIT-tmphrja4.md), read in full in [NOTE-tmp3a0fd](../notes.d/NOTE-tmp3a0fd.md), from the
+  Handbook, [LIT-1048](../literature.d/LIT-1048.md), read in full in [NOTE-853](../notes.d/NOTE-853.md), from the
   author-posted manuscript.
 
 The book ([LIT-1004](../literature.d/LIT-1004.md)) was not read. Page references are to the
@@ -107,7 +110,7 @@ and keeps that use for a "related but distinct" wrong.
 - **Not a claim about the book.** It is held at the strength of two of
   her papers, one of which is a short retrospective.
 - **The virtue is not filed.** Reflexive critical openness and its
-  historically contingent availability are in [NOTE-tmpieo7h](../notes.d/NOTE-tmpieo7h.md). No question
+  historically contingent availability are in [NOTE-860](../notes.d/NOTE-860.md). No question
   in the record asks for them.
 
 ## Connections
@@ -124,6 +127,6 @@ and keeps that use for a "related but distinct" wrong.
   contributors as epistemically lesser. That includes a prejudice built
   into the arrangement, as in the un-refreshed list, when no one means
   it. A filing grammar that leaves out a kind of move whoever makes it is
-  not covered. It may be the hermeneutical kind ([THEORY-tmp0d8b5](THEORY-tmp0d8b5.md)). No
+  not covered. It may be the hermeneutical kind ([THEORY-326](THEORY-326.md)). No
   `answers:` is declared, because whether the record's practice meets
   the condition is [QUESTION-072](../questions.d/QUESTION-072.md)'s empirical part.

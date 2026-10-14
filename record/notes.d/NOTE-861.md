@@ -1,5 +1,8 @@
 ---
+number: 861
 status: Read
+formerly:
+- NOTE-tmprvqbi
 paper: LIT-230
 title: 'Riesz representation theorem (Wikipedia)'
 version: 1
@@ -25,7 +28,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-214 — Superseded; the seeded skim this reading replaces -->
 <!-- inactive-ok-file: THEORY-009 — Proposed; the account that cites this article, named for what the article does and does not support -->
 
-# NOTE-tmprvqbi: Riesz representation theorem (Wikipedia)
+# NOTE-861: Riesz representation theorem (Wikipedia)
 
 ## Contribution
 

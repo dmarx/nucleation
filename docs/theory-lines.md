@@ -168,7 +168,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
+- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Active)*
   - [THEORY-008](../record/theory.d/THEORY-008.md) — What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Proposed)*
   - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
@@ -248,7 +248,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
-- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Proposed)*
+- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Active)*
   - [THEORY-008](../record/theory.d/THEORY-008.md) — What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Proposed)*
   - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*

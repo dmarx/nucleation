@@ -19,9 +19,9 @@ promote_when: >-
   Still unmet as of 2026-10-14: Pereboom's book (LIT-1006) was read only
   in part (NOTE-823), and the four-case argument is in Chapter 4,
   which was not read. Note of 2026-10-14, later: two surveys read in
-  full as alternatives (LIT-tmpbbfpu, NOTE-tmpvvxmy; LIT-tmp4xovm,
-  NOTE-tmp5wtbq) quote Pereboom's Cases 1 and 2 and state the argument
-  (THEORY-tmptedt7). Neither clause is met by them. They are surveys,
+  full as alternatives (LIT-1047, NOTE-862; LIT-1045,
+  NOTE-856) quote Pereboom's Cases 1 and 2 and state the argument
+  (THEORY-328). Neither clause is met by them. They are surveys,
   and the cases quoted stipulate only structural conditions
   (reasons-responsiveness, hierarchical desires), not a named historical
   one.
@@ -49,8 +49,8 @@ history:
 - version: 4
   date: '2026-10-14'
   note: >-
-    After the readings of Caruso's SEP entry (LIT-tmpbbfpu,
-    NOTE-tmpvvxmy) and De Marco and Cyr (LIT-tmp4xovm, NOTE-tmp5wtbq),
+    After the readings of Caruso's SEP entry (LIT-1047,
+    NOTE-862) and De Marco and Cyr (LIT-1045, NOTE-856),
     filed as alternatives to LIT-1006. A dated note in promote_when
     records that neither clause is met. A dated paragraph in Connections
     records what they bear on. The claim and status are unchanged.
@@ -84,7 +84,7 @@ supports:
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-065 THEORY-076 — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmptedt7 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
+<!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
 
 # THEORY-040: A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
 
@@ -170,8 +170,8 @@ The first half of the claim follows from the form of a snapshot condition, and a
   Demetrius's case, and Korsgaard leaves that case puzzling rather than
   settled.
 - **Note of 2026-10-14, after two surveys of the four-case argument**
-  ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md);
-  [THEORY-tmptedt7](THEORY-tmptedt7.md)). They bear on both halves. Neither is a first-hand
+  ([LIT-1047](../literature.d/LIT-1047.md), [NOTE-862](../notes.d/NOTE-862.md); [LIT-1045](../literature.d/LIT-1045.md), [NOTE-856](../notes.d/NOTE-856.md);
+  [THEORY-328](THEORY-328.md)). They bear on both halves. Neither is a first-hand
   reading of Pereboom or Mele.
   - *First half.* Pereboom's Cases 1 and 2, quoted, stipulate a
     manipulated agent who meets reasons-responsiveness, first- and

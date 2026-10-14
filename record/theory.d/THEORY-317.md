@@ -21,11 +21,11 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Fricker's 2006 Episteme paper (LIT-tmp71qsd, read in NOTE-tmpgy7n9),
+    Fricker's 2006 Episteme paper (LIT-1046, read in NOTE-859),
     drawn from the book's last chapter, gives a generic definition of
     hermeneutical injustice that admits incidental, one-off and localized
     marginalization, which this account excludes. Recorded as a rival
-    (THEORY-tmp0d8b5) rather than a correction, because the book itself is
+    (THEORY-326) rather than a correction, because the book itself is
     still unread. Its promote_when names this as the refuting case, so
     this account most likely holds only for Fricker's systematic case.
 tags:
@@ -38,7 +38,7 @@ source:
 answers:
 - QUESTION-072
 rivals:
-- THEORY-tmp0d8b5
+- THEORY-326
 summary: >-
   Fricker (2007), [LIT-1004](../literature.d/LIT-1004.md), known here only through her own three-page
   précis (Theoria 2008), read in [NOTE-832](../notes.d/NOTE-832.md), Skimmed. The two
@@ -94,11 +94,11 @@ conceptual account with two examples, offered in summary.
 ## What this does not say
 
 > **2026-10-14, against a later source.** Fricker's 2006 paper
-> [LIT-tmp71qsd](../literature.d/LIT-tmp71qsd.md) ([NOTE-tmpgy7n9](../notes.d/NOTE-tmpgy7n9.md)), which says it is drawn from the book's
+> [LIT-1046](../literature.d/LIT-1046.md) ([NOTE-859](../notes.d/NOTE-859.md)), which says it is drawn from the book's
 > last chapter, defines hermeneutical injustice generically through
 > "hermeneutical marginalization", systematic or incidental. On that
 > text the first bullet below describes only the systematic case, and
-> [THEORY-tmp0d8b5](THEORY-tmp0d8b5.md) is the rival statement. The book would settle which is
+> [THEORY-326](THEORY-326.md) is the rival statement. The book would settle which is
 > Fricker's definition.
 
 - **Not that every conceptual gap is an injustice.** The gap must be owed

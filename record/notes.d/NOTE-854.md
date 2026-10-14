@@ -1,5 +1,8 @@
 ---
+number: 854
 status: Read
+formerly:
+- NOTE-tmp4c5up
 paper: LIT-243
 title: 'Adler — Hilbert spaces and the Riesz representation theorem'
 version: 1
@@ -25,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-206 — Superseded; the seeded skim this reading replaces -->
 
-# NOTE-tmp4c5up: Adler — Hilbert spaces and the Riesz representation theorem
+# NOTE-854: Adler — Hilbert spaces and the Riesz representation theorem
 
 ## Contribution
 

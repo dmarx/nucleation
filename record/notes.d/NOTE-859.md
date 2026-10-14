@@ -1,6 +1,9 @@
 ---
+number: 859
 status: Read
-paper: LIT-tmp71qsd
+formerly:
+- NOTE-tmpgy7n9
+paper: LIT-1046
 title: 'Fricker — Powerlessness and Social Interpretation'
 version: 1
 history:
@@ -30,9 +33,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, whose final chapter this paper is drawn from -->
 <!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis -->
-<!-- inactive-ok-file: THEORY-317 THEORY-tmp0d8b5 — Proposed; the account from the précis and the account filed from this reading -->
+<!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the account from the précis and the account filed from this reading -->
 
-# NOTE-tmpgy7n9: Fricker — Powerlessness and Social Interpretation
+# NOTE-859: Fricker — Powerlessness and Social Interpretation
 
 ## Contribution
 
@@ -158,7 +161,7 @@ patch of experience is enough for the incidental kind.
 The examples come from Brownmiller's memoir (Wood), McEwan (Joe) and
 Edmund White. The paper draws on Montmarquet for intellectual courage, on
 Lehrer for self-trust, and on Langton and Haslanger for social
-construction. Fricker's later chapter ([NOTE-tmp3a0fd](NOTE-tmp3a0fd.md)) restates the cause
+construction. Fricker's later chapter ([NOTE-853](NOTE-853.md)) restates the cause
 as "hermeneutical marginalisation in relation to some area of social
 experience" and adds that the injustice survives good-faith listening.
 
@@ -179,7 +182,7 @@ experience" and adds that the injustice survives good-faith listening.
   as one that would refute it as a statement of Fricker's account. This
   paper, drawn from the book's final chapter, meets that refuting
   condition for the 2006 text. Whether the book keeps it is unread.
-  [THEORY-tmp0d8b5](../theory.d/THEORY-tmp0d8b5.md) states the wider definition.
+  [THEORY-326](../theory.d/THEORY-326.md) states the wider definition.
 - **[QUESTION-072](../questions.d/QUESTION-072.md), part 2.** Its present text follows the précis: the gap
   "must be owed to the relative powerlessness of a social group". On the
   generic definition, the question becomes whether a contributor whose

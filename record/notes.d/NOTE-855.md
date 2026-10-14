@@ -1,5 +1,8 @@
 ---
+number: 855
 status: Read
+formerly:
+- NOTE-tmp5cyxp
 paper: LIT-237
 title: 'Bra–ket notation (Wikipedia)'
 version: 1
@@ -26,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-215 — Superseded; the seeded skim this reading replaces -->
 
-# NOTE-tmp5cyxp: Bra–ket notation (Wikipedia)
+# NOTE-855: Bra–ket notation (Wikipedia)
 
 ## Contribution
 

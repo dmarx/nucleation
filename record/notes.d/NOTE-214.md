@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpm09fm
 paper: LIT-230
 superseded_by:
-- NOTE-tmprvqbi
+- NOTE-861
 title: 'Riesz representation theorem (Wikipedia)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmprvqbi, a full reading of the work filed on 2026-10-14.
+    Superseded by NOTE-861, a full reading of the work filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

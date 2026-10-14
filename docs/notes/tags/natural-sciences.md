@@ -4,7 +4,7 @@
 
 **natural-sciences**.
 
-86 of 851 NOTE documents. Back to the [full index](../README.md).
+87 of 862 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -94,3 +94,4 @@
 | [NOTE-831](../../../record/notes.d/NOTE-831.md) | Farrell & Ioannou — Generalized Stability Theory I | For a linear system du/dt = Au with A non-normal, the eigenvalues fix only the t → ∞ behaviour. Growth over a finite time t is the largest singular value of e^{At}, bounded below by the fastest mode and at t → 0 set by the numerical abscissa, the top eigenvalue of (A + A†)/2. A system with every mode damped can amplify a perturbation a hundredfold, and its forced and stochastic responses exceed those of the normal system with the same spectrum. | Read |
 | [NOTE-839](../../../record/notes.d/NOTE-839.md) | Trefethen et al. — Hydrodynamic Stability Without Eigenvalues | The linearized operators of plane Couette and Poiseuille flow are far from normal. With every eigenmode decaying, perturbations can grow transiently by O(R) and resonate by O(R²), and an operator perturbation of norm O(R⁻²) makes the flow eigenvalue-unstable, all read off the pseudospectra. That transition to turbulence then follows from linear growth plus energy-neutral nonlinear mixing is a conjecture, from a 2 × 2 model. | Read |
 | [NOTE-842](../../../record/notes.d/NOTE-842.md) | Farrell & Ioannou — Generalized Stability Theory II | For du/dt = A(t)u there are no modes, but the propagator's singular vectors and the Lyapunov exponents and vectors carry generalized stability theory over. A time-dependent operator that is stable, or neutral, at every instant can be asymptotically unstable, and only if it is non-normal. Random variation of the operator destabilizes generically, with less variation needed the more non-normal and the less damped the mean operator. | Read |
+| [NOTE-858](../../../record/notes.d/NOTE-858.md) | McAllister & McCrea — Long-term consequences of repetitive concussion | A narrative review: almost all athletes recover clinically within 1–2 weeks of a sport concussion, but when it was written (published March 2017) no prospective longitudinal study had measured the long-term cognitive, psychiatric or neurodegenerative risk of repeated concussion or of non-concussive head impacts. The evidence for such risk, CTE included, is retrospective, case-based or survey-based and mixed, and the authors call for large prospective cohorts with controls. | Read |

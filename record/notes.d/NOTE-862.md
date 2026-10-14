@@ -1,6 +1,9 @@
 ---
+number: 862
 status: Read
-paper: LIT-tmpbbfpu
+formerly:
+- NOTE-tmpvvxmy
+paper: LIT-1047
 title: 'Caruso — Skepticism About Moral Responsibility (SEP)'
 version: 1
 history:
@@ -30,9 +33,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part -->
 <!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
-<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-316 THEORY-tmptedt7 — Proposed; the accounts this reading bears on, and the account filed from it -->
+<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-316 THEORY-328 — Proposed; the accounts this reading bears on, and the account filed from it -->
 
-# NOTE-tmpvvxmy: Caruso — Skepticism About Moral Responsibility (SEP)
+# NOTE-862: Caruso — Skepticism About Moral Responsibility (SEP)
 
 ## Contribution
 
@@ -158,7 +161,7 @@ for the hard-line and soft-line division, Levy 2009a and 2011 for luck,
 and Strawson 1986, 1994 and 2011 for the Basic Argument. The compatibilist
 side is in SEP *Compatibilism* ([LIT-291](../literature.d/LIT-291.md)), which the record already holds,
 including its supplement on manipulation. De Marco and Cyr
-([NOTE-tmp5wtbq](NOTE-tmp5wtbq.md)) give Case 1 and the later literature.
+([NOTE-856](NOTE-856.md)) give Case 1 and the later literature.
 
 ## Bearing on the record
 
@@ -195,7 +198,7 @@ including its supplement on manipulation. De Marco and Cyr
   pointer to Chapter 4, at survey strength.
 - **[THEORY-119](../theory.d/THEORY-119.md).** Not addressed. The entry does not discuss Frankfurt
   cases or Pereboom's buffer case.
-- [THEORY-tmptedt7](../theory.d/THEORY-tmptedt7.md) is filed from this reading and [NOTE-tmp5wtbq](NOTE-tmp5wtbq.md).
+- [THEORY-328](../theory.d/THEORY-328.md) is filed from this reading and [NOTE-856](NOTE-856.md).
 - **Nothing here is ML practice.**
 
 ## Limitations
@@ -207,7 +210,7 @@ including its supplement on manipulation. De Marco and Cyr
 - Levy's argument is a paragraph-length report, and the replies (Talbert,
   Hartman, Hales) are only named.
 - Published 2018, so it does not cover the 2020s literature on
-  manipulation that [NOTE-tmp5wtbq](NOTE-tmp5wtbq.md) does.
+  manipulation that [NOTE-856](NOTE-856.md) does.
 
 ## Open questions
 

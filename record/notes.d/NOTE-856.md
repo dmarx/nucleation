@@ -1,6 +1,9 @@
 ---
+number: 856
 status: Read
-paper: LIT-tmp4xovm
+formerly:
+- NOTE-tmp5wtbq
+paper: LIT-1045
 title: 'De Marco and Cyr — Manipulation Cases, Part 1'
 version: 1
 history:
@@ -26,9 +29,9 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part -->
 <!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
-<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-tmptedt7 — Proposed; the accounts this reading bears on or leaves untouched, and the account filed from it -->
+<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-328 — Proposed; the accounts this reading bears on or leaves untouched, and the account filed from it -->
 
-# NOTE-tmp5wtbq: De Marco and Cyr — Manipulation Cases, Part 1
+# NOTE-856: De Marco and Cyr — Manipulation Cases, Part 1
 
 ## Contribution
 
@@ -147,7 +150,7 @@ bypassing views, were not read. It builds on McKenna 2008 for the
 dialectic and on Mele 2006 and 2019 for the cases. Fischer and Ravizza
 1998, chapters 7–8, are listed among bypassing views (n. 15), which is
 where their taking-responsibility condition belongs. SEP *Compatibilism*
-([LIT-291](../literature.d/LIT-291.md)) and Caruso's SEP entry ([NOTE-tmpvvxmy](NOTE-tmpvvxmy.md)) cover the same ground
+([LIT-291](../literature.d/LIT-291.md)) and Caruso's SEP entry ([NOTE-862](NOTE-862.md)) cover the same ground
 from the compatibilist and the skeptic's side.
 
 ## Bearing on the record
@@ -185,7 +188,7 @@ from the compatibilist and the skeptic's side.
     agent.
 - **[THEORY-119](../theory.d/THEORY-119.md).** Not addressed. Frankfurt cases appear only as the
   source of "hard line" Frankfurt.
-- [THEORY-tmptedt7](../theory.d/THEORY-tmptedt7.md) is filed from this reading and [NOTE-tmpvvxmy](NOTE-tmpvvxmy.md).
+- [THEORY-328](../theory.d/THEORY-328.md) is filed from this reading and [NOTE-862](NOTE-862.md).
 - **Nothing here is ML practice.**
 
 ## Limitations

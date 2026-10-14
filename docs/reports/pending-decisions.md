@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**533 document(s) awaiting a decision.**
+**520 document(s) awaiting a decision.**
 
 ## LITs
 
-46 of the 533.
+32 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -18,68 +18,52 @@
 | 2026-09-25 | Proposed | [LIT-049](../../record/literature.d/LIT-049.md) | 31 | 0 | A coarse-graining account of individuality: how the emergence of individuals represents a summary of lower-level evolutionary processes |
 | 2026-09-25 | Proposed | [LIT-046](../../record/literature.d/LIT-046.md) | 17 | 0 | The Computational Foundations of Collective Intelligence |
 | 2026-09-25 | Proposed | [LIT-031](../../record/literature.d/LIT-031.md) | 9 | 0 | Moving away from lexicalism in psycho- and neuro-linguistics |
+| 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 5 | 0 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-017](../../record/literature.d/LIT-017.md) | 4 | 2 | Spectral Networks and Betti Lagrangians |
 | 2026-09-25 | Proposed | [LIT-079](../../record/literature.d/LIT-079.md) | 4 | 3 | Causal Claims in Economics |
-| 2026-09-25 | Proposed | [LIT-083](../../record/literature.d/LIT-083.md) | 3 | 1 | Toward interoperable representation and sharing of disinformation incidents in cyber threat intelligence |
 | 2026-09-25 | Proposed | [LIT-009](../../record/literature.d/LIT-009.md) | 1 | 0 | An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body |
 | 2026-09-25 | Proposed | [LIT-057](../../record/literature.d/LIT-057.md) | 1 | 0 | Effect of delay on the emergent stability patterns in generalized Lotka–Volterra ecological dynamics |
 | 2026-09-25 | Proposed | [LIT-059](../../record/literature.d/LIT-059.md) | 1 | 0 | The Strongest El Niño Ever |
 | 2026-09-25 | Proposed | [LIT-060](../../record/literature.d/LIT-060.md) | 1 | 0 | The Mothership Vortex: An Investigation Into the Firm at the Heart of the Democratic Spam Machine |
 | 2026-09-25 | Proposed | [LIT-069](../../record/literature.d/LIT-069.md) | 1 | 0 | Surface optimization governs the local design of physical networks |
-| 2026-09-25 | Deferred | [LIT-070](../../record/literature.d/LIT-070.md) | 1 | 1 | Dynamics of collectives with opinionated agents: The case of scrambling connectivity |
-| 2026-09-25 | Deferred | [LIT-026](../../record/literature.d/LIT-026.md) | 0 | 0 | Comparative proteomic analysis of two wasps venom, Vespa tropica and Vespa affinis |
-| 2026-09-25 | Deferred | [LIT-029](../../record/literature.d/LIT-029.md) | 0 | 0 | Long-Term Cognitive and Neuropsychiatric Consequences of Repetitive Concussion and Head-Impact Exposure |
-| 2026-09-25 | Deferred | [LIT-043](../../record/literature.d/LIT-043.md) | 0 | 0 | This Secret Math Equation let the US Government Spy on Anyone |
-| 2026-09-25 | Deferred | [LIT-074](../../record/literature.d/LIT-074.md) | 0 | 0 | What is polycrystalline water? |
 | 2026-09-26 | Proposed | [LIT-188](../../record/literature.d/LIT-188.md) | 24 | 2 | Scaffolding individuality: coordination, cooperation, collaboration and community |
 | 2026-09-26 | Proposed | [LIT-200](../../record/literature.d/LIT-200.md) | 18 | 0 | Wave-functionalism |
-| 2026-09-26 | Deferred | [LIT-241](../../record/literature.d/LIT-241.md) | 14 | 12 | Gelfand–Naimark–Segal construction (Wikipedia) |
 | 2026-09-26 | Proposed | [LIT-208](../../record/literature.d/LIT-208.md) | 12 | 6 | Distributional Semantics, Holism, and the Instability of Meaning |
-| 2026-09-26 | Deferred | [LIT-243](../../record/literature.d/LIT-243.md) | 12 | 10 | Hilbert Spaces and the Riesz Representation Theorem |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 11 | 2 | Better to be a Pig Dissatisfied than a Plant Satisfied |
-| 2026-09-26 | Deferred | [LIT-230](../../record/literature.d/LIT-230.md) | 11 | 9 | Riesz representation theorem (Wikipedia) |
 | 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 10 | 8 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
-| 2026-09-26 | Deferred | [LIT-237](../../record/literature.d/LIT-237.md) | 4 | 3 | Bra–ket notation (Wikipedia) |
 | 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 24 | 9 | The Lattice Representation Hypothesis of Large Language Models |
 | 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 17 | 17 | A topos foundation for theories of physics: IV. Categories of systems |
 | 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 17 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
 | 2026-09-30 | Proposed | [LIT-369](../../record/literature.d/LIT-369.md) | 15 | 12 | Grokking and Generalization Collapse: Insights from HTSR theory |
 | 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 41 | 41 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
-| 2026-10-01 | Deferred | [LIT-379](../../record/literature.d/LIT-379.md) | 2 | 2 | Anger makes fake news viral online |
 | 2026-10-01 | Proposed | [LIT-375](../../record/literature.d/LIT-375.md) | 1 | 1 | Structural Learning Theory: A Metric-Topology Factorization Approach |
 | 2026-10-01 | Proposed | [LIT-376](../../record/literature.d/LIT-376.md) | 1 | 1 | Local Urysohn Width: A Topological Complexity Measure for Classification |
 | 2026-10-02 | Proposed | [LIT-503](../../record/literature.d/LIT-503.md) | 25 | 1 | Morality as Cooperation: A Problem-Centred Approach |
 | 2026-10-02 | Proposed | [LIT-496](../../record/literature.d/LIT-496.md) | 18 | 0 | Mapping morality with a compass: Testing the theory of ‘morality-as-cooperation’ with a new questionnaire |
 | 2026-10-02 | Proposed | [LIT-509](../../record/literature.d/LIT-509.md) | 6 | 0 | Moral Molecules: Morality as a Combinatorial System |
 | 2026-10-02 | Proposed | [LIT-512](../../record/literature.d/LIT-512.md) | 5 | 0 | Moral universals: A machine-reading analysis of 256 societies |
-| 2026-10-03 | Deferred | [LIT-546](../../record/literature.d/LIT-546.md) | 15 | 0 | The Emotions |
 | 2026-10-03 | Proposed | [LIT-676](../../record/literature.d/LIT-676.md) | 5 | 0 | Unveiling Mode Connectivity in Graph Neural Networks |
 | 2026-10-03 | Proposed | [LIT-677](../../record/literature.d/LIT-677.md) | 5 | 0 | Unveiling mode-connectivity of the ELBO landscape |
 | 2026-10-03 | Proposed | [LIT-660](../../record/literature.d/LIT-660.md) | 4 | 0 | Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models |
-| 2026-10-05 | Deferred | [LIT-715](../../record/literature.d/LIT-715.md) | 6 | 0 | The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA |
-| 2026-10-05 | Deferred | [LIT-746](../../record/literature.d/LIT-746.md) | 4 | 0 | Brain of the Firm |
-| 2026-10-05 | Deferred | [LIT-753](../../record/literature.d/LIT-753.md) | 4 | 0 | Enshittification: Why Everything Suddenly Got Worse and What to Do About It |
 
 ## THEORYs
 
-295 of the 533.
+296 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-26 | Proposed | [THEORY-004](../../record/theory.d/THEORY-004.md) | 72 | 26 | A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels |
-| 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 58 | 3 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
+| 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 68 | 9 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 46 | 21 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 45 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 43 | 12 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 34 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
-| 2026-09-26 | Proposed | [THEORY-003](../../record/theory.d/THEORY-003.md) | 22 | 3 | Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem |
-| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 66 | 28 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
+| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 70 | 28 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
 | 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 63 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 18 | 10 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 6 | 4 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 123 | 3 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 100 | 1 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
-| 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 76 | 7 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
+| 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 82 | 7 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
 | 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 40 | 6 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-026](../../record/theory.d/THEORY-026.md) | 37 | 3 | For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 31 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
@@ -103,8 +87,8 @@
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 29 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
 | 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 28 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-047](../../record/theory.d/THEORY-047.md) | 25 | 3 | A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is |
-| 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 23 | 5 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
-| 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 23 | 4 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
+| 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 24 | 5 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
+| 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 24 | 4 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 23 | 0 | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 23 | 7 | Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced |
 | 2026-10-03 | Proposed | [THEORY-112](../../record/theory.d/THEORY-112.md) | 23 | 2 | Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth |
@@ -163,14 +147,14 @@
 | 2026-10-03 | Proposed | [THEORY-115](../../record/theory.d/THEORY-115.md) | 4 | 1 | Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed |
 | 2026-10-03 | Proposed | [THEORY-099](../../record/theory.d/THEORY-099.md) | 0 | 0 | Tryptophan networks in microtubule architectures support collective superradiant excitonic states, and their thermal quantum yield rises with network size and survives static disorder of room-temperature size |
 | 2026-10-04 | Proposed | [THEORY-127](../../record/theory.d/THEORY-127.md) | 32 | 7 | A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them |
-| 2026-10-04 | Proposed | [THEORY-119](../../record/theory.d/THEORY-119.md) | 23 | 3 | An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false |
+| 2026-10-04 | Proposed | [THEORY-119](../../record/theory.d/THEORY-119.md) | 25 | 3 | An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false |
 | 2026-10-04 | Proposed | [THEORY-120](../../record/theory.d/THEORY-120.md) | 17 | 1 | A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order |
 | 2026-10-04 | Proposed | [THEORY-126](../../record/theory.d/THEORY-126.md) | 13 | 6 | A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states |
 | 2026-10-04 | Proposed | [THEORY-125](../../record/theory.d/THEORY-125.md) | 9 | 5 | A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown |
 | 2026-10-04 | Proposed | [THEORY-129](../../record/theory.d/THEORY-129.md) | 6 | 2 | In Acropora millepora the natural night-light regime is necessary for spawning on the expected night, and displacing it delays or abolishes both release and a spawning-night programme of G-protein-coupled signalling genes |
 | 2026-10-04 | Proposed | [THEORY-128](../../record/theory.d/THEORY-128.md) | 5 | 0 | After mass bleaching, coral recovery on a reef crest depends on large herbivorous fishes keeping macroalgae down, because recovery runs through recruitment and survival that macroalgae suppress, not through the persistence of surviving colonies alone |
 | 2026-10-04 | Proposed | [THEORY-130](../../record/theory.d/THEORY-130.md) | 5 | 3 | Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss |
-| 2026-10-04 | Proposed | [THEORY-123](../../record/theory.d/THEORY-123.md) | 3 | 1 | In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves |
+| 2026-10-04 | Proposed | [THEORY-123](../../record/theory.d/THEORY-123.md) | 4 | 1 | In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves |
 | 2026-10-04 | Proposed | [THEORY-124](../../record/theory.d/THEORY-124.md) | 2 | 2 | During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way |
 | 2026-10-05 | Proposed | [THEORY-139](../../record/theory.d/THEORY-139.md) | 34 | 11 | A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment |
 | 2026-10-05 | Proposed | [THEORY-133](../../record/theory.d/THEORY-133.md) | 21 | 2 | A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels |
@@ -265,6 +249,7 @@
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 19 | 1 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 18 | 0 | A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification |
 | 2026-10-14 | Proposed | [THEORY-233](../../record/theory.d/THEORY-233.md) | 16 | 0 | CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant |
+| 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 15 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
 | 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 14 | 0 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
 | 2026-10-14 | Proposed | [THEORY-239](../../record/theory.d/THEORY-239.md) | 13 | 0 | For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique d-dimensional span minimizing worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, with error (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) |
 | 2026-10-14 | Proposed | [THEORY-278](../../record/theory.d/THEORY-278.md) | 13 | 0 | Under MSE loss a trained classifier stays near the least-squares classifier for its own features, and on that central path, for unconstrained features continually renormalized to identity within-class covariance, gradient flow drives the class-separation singular values to infinity at equal rates, which is neural collapse |
@@ -275,13 +260,16 @@
 | 2026-10-14 | Proposed | [THEORY-265](../../record/theory.d/THEORY-265.md) | 11 | 0 | In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not |
 | 2026-10-14 | Proposed | [THEORY-282](../../record/theory.d/THEORY-282.md) | 11 | 0 | A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data |
 | 2026-10-14 | Proposed | [THEORY-307](../../record/theory.d/THEORY-307.md) | 11 | 0 | Adaptation by trial and error in a large system finishes in a practicable time only if partial adaptations are retained, and retention requires that the system not be fully joined: parts must be separated, at least temporarily, by constancies, and where later learning shares parts with earlier learning it destroys it |
+| 2026-10-14 | Proposed | [THEORY-328](../../record/theory.d/THEORY-328.md) | 11 | 0 | An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible |
 | 2026-10-14 | Proposed | [THEORY-245](../../record/theory.d/THEORY-245.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset |
 | 2026-10-14 | Proposed | [THEORY-246](../../record/theory.d/THEORY-246.md) | 10 | 0 | Training objectives that tighten the class clusters of a classifier's last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it |
+| 2026-10-14 | Proposed | [THEORY-326](../../record/theory.d/THEORY-326.md) | 10 | 2 | Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group |
 | 2026-10-14 | Proposed | [THEORY-225](../../record/theory.d/THEORY-225.md) | 9 | 0 | No single-mechanism analysis of ordinary manipulation fits the clear cases: covert influence, covert intent, non-rational influence, trickery and pressure each misclassify a familiar tactic, so what unifies manipulation is unsettled |
 | 2026-10-14 | Proposed | [THEORY-264](../../record/theory.d/THEORY-264.md) | 9 | 0 | A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations |
 | 2026-10-14 | Proposed | [THEORY-268](../../record/theory.d/THEORY-268.md) | 9 | 0 | An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment |
 | 2026-10-14 | Proposed | [THEORY-277](../../record/theory.d/THEORY-277.md) | 9 | 0 | For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated |
 | 2026-10-14 | Proposed | [THEORY-296](../../record/theory.d/THEORY-296.md) | 9 | 0 | In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked |
+| 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 9 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
 | 2026-10-14 | Proposed | [THEORY-230](../../record/theory.d/THEORY-230.md) | 8 | 0 | The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply |
 | 2026-10-14 | Proposed | [THEORY-236](../../record/theory.d/THEORY-236.md) | 8 | 0 | A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples |
 | 2026-10-14 | Proposed | [THEORY-247](../../record/theory.d/THEORY-247.md) | 8 | 0 | For finite labelled Markov chains, the discounted bisimulation metric is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings |
@@ -291,6 +279,7 @@
 | 2026-10-14 | Proposed | [THEORY-305](../../record/theory.d/THEORY-305.md) | 8 | 0 | SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors |
 | 2026-10-14 | Proposed | [THEORY-324](../../record/theory.d/THEORY-324.md) | 8 | 0 | A system adapts by trial and error to an environment unknown to it only if a second feedback, through its essential variables, changes the parameters of its primary feedback when those variables leave their limits; with that feedback every equilibrium the whole can reach is an adapted one |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 8 | 0 | Time dependence can destabilize a non-normal linear system that is stable at every instant; non-normality is necessary for this, and random variation of the operator destabilizes generically, needing less variation the more non-normal and less damped the mean operator |
+| 2026-10-14 | Proposed | [THEORY-327](../../record/theory.d/THEORY-327.md) | 8 | 0 | Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault |
 | 2026-10-14 | Proposed | [THEORY-254](../../record/theory.d/THEORY-254.md) | 7 | 0 | Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do |
 | 2026-10-14 | Proposed | [THEORY-271](../../record/theory.d/THEORY-271.md) | 7 | 0 | In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it |
 | 2026-10-14 | Proposed | [THEORY-275](../../record/theory.d/THEORY-275.md) | 7 | 0 | Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive |
@@ -310,8 +299,6 @@
 | 2026-10-14 | Proposed | [THEORY-276](../../record/theory.d/THEORY-276.md) | 6 | 0 | In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-289](../../record/theory.d/THEORY-289.md) | 6 | 0 | When each round of a fixed-design linear regression is refit to labels generated by the previous fit, keeping every earlier round's data bounds the test error at π²/6 times the first fit's, where replacing the data makes it grow linearly in the number of rounds |
-| 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 6 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
-| 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 6 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
 | 2026-10-14 | Proposed | [THEORY-234](../../record/theory.d/THEORY-234.md) | 5 | 0 | Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-248](../../record/theory.d/THEORY-248.md) | 5 | 0 | The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and the lossy bound stays finite where I(S;W) is infinite |
@@ -350,6 +337,7 @@
 | 2026-10-14 | Proposed | [THEORY-310](../../record/theory.d/THEORY-310.md) | 4 | 0 | On a forward-looking justification of blame, a counterfactual capacity condition calibrated to what makes blaming effective is redundant: fixing its parameters presupposes that blaming such agents is good policy, so freedom is ascribed because of blameworthiness rather than grounding it |
 | 2026-10-14 | Proposed | [THEORY-311](../../record/theory.d/THEORY-311.md) | 4 | 0 | Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 4 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
+| 2026-10-14 | Proposed | [THEORY-329](../../record/theory.d/THEORY-329.md) | 4 | 0 | On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 3 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
 | 2026-10-14 | Proposed | [THEORY-294](../../record/theory.d/THEORY-294.md) | 3 | 0 | Lazy-regime training of a wide shallow network does not collapse its features: on two-class Gaussian data the expected within-class variability of the NTK features is that of the NNGP features at initialization |
 | 2026-10-14 | Proposed | [THEORY-297](../../record/theory.d/THEORY-297.md) | 3 | 0 | A bijection between shapes is equivalent to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace |
@@ -358,21 +346,20 @@
 | 2026-10-14 | Proposed | [THEORY-309](../../record/theory.d/THEORY-309.md) | 3 | 0 | If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context |
 | 2026-10-14 | Proposed | [THEORY-313](../../record/theory.d/THEORY-313.md) | 3 | 0 | With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks |
 | 2026-10-14 | Proposed | [THEORY-319](../../record/theory.d/THEORY-319.md) | 3 | 0 | When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required |
-| 2026-10-14 | Proposed | [THEORY-260](../../record/theory.d/THEORY-260.md) | 2 | 0 | An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
 | 2026-10-14 | Proposed | [THEORY-308](../../record/theory.d/THEORY-308.md) | 2 | 0 | The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over a compact family of critics, and its uniform deviation from the population bound is controlled by the parameter count, not the data dimension |
 
 ## ADRs
 
-1 of the 533.
+1 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 253 | 253 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
+| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 264 | 264 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
 
 ## QUESTIONs
 
-9 of the 533.
+9 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -388,7 +375,7 @@
 
 ## CLAIMs
 
-177 of the 533.
+177 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -572,7 +559,7 @@
 
 ## CASEs
 
-1 of the 533.
+1 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -580,7 +567,7 @@
 
 ## TERMs
 
-2 of the 533.
+2 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -589,7 +576,7 @@
 
 ## ARGs
 
-2 of the 533.
+2 of the 520.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -600,4 +587,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (16): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-275](../../record/claims.d/CLAIM-275.md), [CLAIM-276](../../record/claims.d/CLAIM-276.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (12): [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-275](../../record/claims.d/CLAIM-275.md), [CLAIM-276](../../record/claims.d/CLAIM-276.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md) — these are the cheapest to close, since nothing depends on the answer.

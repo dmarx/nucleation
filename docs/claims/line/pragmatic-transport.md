@@ -6,7 +6,7 @@
 
 **Contextual pragmatic information transport** — what survives when an utterance is translated, retold or rendered in another medium — communicative identity as relationally organized observables, and fidelity as directed, task-relative transport between observational systems.
 
-188 of 288 CLAIM documents. Back to the [full index](../README.md).
+188 of 291 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

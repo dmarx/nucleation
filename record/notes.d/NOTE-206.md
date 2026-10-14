@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpaqx17
 paper: LIT-243
 superseded_by:
-- NOTE-tmp4c5up
+- NOTE-854
 title: 'Adler — Hilbert spaces and the Riesz representation theorem'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmp4c5up, a full reading of the work filed on 2026-10-14.
+    Superseded by NOTE-854, a full reading of the work filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

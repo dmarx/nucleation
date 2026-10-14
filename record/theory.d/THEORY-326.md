@@ -1,5 +1,8 @@
 ---
+number: 326
 status: Proposed
+formerly:
+- THEORY-tmp0d8b5
 promote_when: >-
   A first-hand reading of the book's chapter on hermeneutical injustice
   (LIT-1004, ch. 7) that confirms the generic definition and the
@@ -20,14 +23,14 @@ tags:
 - society-and-governance
 date: '2026-10-14'
 source:
-- LIT-tmp71qsd
-- LIT-tmphrja4
+- LIT-1046
+- LIT-1048
 rivals:
 - THEORY-317
 summary: >-
-  Fricker (2006), "Powerlessness and Social Interpretation" ([LIT-tmp71qsd](../literature.d/LIT-tmp71qsd.md),
-  [NOTE-tmpgy7n9](../notes.d/NOTE-tmpgy7n9.md)), drawn by her own note from the book's final chapter,
-  with her 2017 restatement ([LIT-tmphrja4](../literature.d/LIT-tmphrja4.md), [NOTE-tmp3a0fd](../notes.d/NOTE-tmp3a0fd.md)). The generic
+  Fricker (2006), "Powerlessness and Social Interpretation" ([LIT-1046](../literature.d/LIT-1046.md),
+  [NOTE-859](../notes.d/NOTE-859.md)), drawn by her own note from the book's final chapter,
+  with her 2017 restatement ([LIT-1048](../literature.d/LIT-1048.md), [NOTE-853](../notes.d/NOTE-853.md)). The generic
   definition covers a systematic case, where marginalisation is
   persistent and wide-ranging, and an incidental case, a "one-off moment
   of powerlessness" in a "highly localized patch" of experience, which a
@@ -39,16 +42,16 @@ summary: >-
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the précis-based account whose group condition this one shows is the systematic case only -->
 
-# THEORY-tmp0d8b5: Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group
+# THEORY-326: Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group
 
 ## Source
 
 - Fricker (2006), "Powerlessness and Social Interpretation", *Episteme*
-  3(1–2), [LIT-tmp71qsd](../literature.d/LIT-tmp71qsd.md), read in full in [NOTE-tmpgy7n9](../notes.d/NOTE-tmpgy7n9.md), from the
+  3(1–2), [LIT-1046](../literature.d/LIT-1046.md), read in full in [NOTE-859](../notes.d/NOTE-859.md), from the
   author-posted manuscript. Its first note says it "is drawn from the
   final chapter" of the book.
-- Fricker (2017), "Evolving Concepts of Epistemic Injustice", [LIT-tmphrja4](../literature.d/LIT-tmphrja4.md),
-  read in full in [NOTE-tmp3a0fd](../notes.d/NOTE-tmp3a0fd.md).
+- Fricker (2017), "Evolving Concepts of Epistemic Injustice", [LIT-1048](../literature.d/LIT-1048.md),
+  read in full in [NOTE-853](../notes.d/NOTE-853.md).
 
 The book ([LIT-1004](../literature.d/LIT-1004.md)) was not read. Page references are to the
 manuscripts.

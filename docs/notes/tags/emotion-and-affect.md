@@ -4,7 +4,7 @@
 
 **emotion-and-affect**.
 
-26 of 851 NOTE documents. Back to the [full index](../README.md).
+27 of 862 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -34,3 +34,4 @@
 | [NOTE-703](../../../record/notes.d/NOTE-703.md) | Forssten et al. — One Giant Leap from Mouse to Man | A narrative review, by employees of a probiotics manufacturer, of the microbiota–gut–brain axis in mood. The routes in rodents are well documented. Faecal transplant from depressed humans partly transfers the phenotype to rodents. Human trials are mixed: some reductions in subjective stress in healthy volunteers, and several clean nulls for strains with strong preclinical records. It documents its own translational failures and ends more optimistically than they warrant. | Read |
 | [NOTE-761](../../../record/notes.d/NOTE-761.md) | Theriault et al. — Allostasis at the core of brain function | A review arguing that the brain's core function is allostasis, the predictive regulation of the body. Its evidence is an intrinsic allostatic system of visceromotor and interoceptive regions that matches tract-tracing and contains the default-mode and salience hubs; a limbic-to-sensory cytoarchitectural gradient read as a prediction hierarchy; and interoceptive effects on brain-wide signalling. It proposes that cognitive decline in Alzheimer's disease may be an allostatic trade-off. The authors say they do not claim the hypothesis is correct. | Read |
 | [NOTE-785](../../../record/notes.d/NOTE-785.md) | Brouillet and Friston — Relative fluency (unfelt vs felt) in active inference | A perspective essay with no model and no new data. Unfelt fluency is the subpersonal recognition of a change in precision, which orients attention; felt fluency is a hierarchically deeper inference about it, reached by mental action. Because its cause is internal, felt fluency is misattributed to the stimulus, which the discrepancy-attribution experiments it reviews are read to show. "Felt" here means attended and reportable; the paper does not separate felt from unfelt in any further sense. | Read |
+| [NOTE-852](../../../record/notes.d/NOTE-852.md) | Chuai & Zhao — Anger makes fake news viral online | On Weibo 2011–2016, lexicon-scored fake news carries more anger and less joy than true news, and in regressions with content, author and topic controls a post's share of anger words goes with more retweets and its share of joy words with fewer; the R² of the retweet models is 0.08–0.13. Two anger-dominated items in a 1,291-response survey drew slightly more anxiety-management and information-sharing motive than joy-dominated ones. The paper calls this causal; the design is observational. | Read |

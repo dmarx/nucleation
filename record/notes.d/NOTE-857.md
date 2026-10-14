@@ -1,5 +1,8 @@
 ---
+number: 857
 status: Read
+formerly:
+- NOTE-tmp98n0x
 paper: LIT-241
 title: 'Gelfand–Naimark–Segal construction (Wikipedia)'
 version: 1
@@ -26,7 +29,7 @@ summary: >-
 <!-- inactive-ok-file: NOTE-204 — Superseded; the seeded skim this reading replaces -->
 <!-- inactive-ok-file: THEORY-017 — Proposed; the two accounts that cite this article, named for what it supports -->
 
-# NOTE-tmp98n0x: Gelfand–Naimark–Segal construction (Wikipedia)
+# NOTE-857: Gelfand–Naimark–Segal construction (Wikipedia)
 
 ## Contribution
 
