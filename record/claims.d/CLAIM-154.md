@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-154
 title: 'A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d''² exceeds the log prior-to-posterior variance ratio'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-11'
@@ -15,6 +15,14 @@ history:
     the rule agreed to 9e-16 in eight settings (MOM's six and two new
     ones). MOM's non-conjugate logistic check (decision 16 of 16,
     magnitude not) was not re-run, and is taken as MOM reports it.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Two cautions added under What it does not say, from NOTE-tmp582tx
+    (LIT-238 §6.3: Bayes and MDL can be inconsistent under
+    misspecification) and NOTE-tmpp6trb (THEORY-tmpetzzi, LIT-225: a
+    modeller's prior gives the description-length penalty only for
+    hypotheses random under it). The rule and its status are unchanged.
 role: thesis
 defeated_if: >-
   A model family in which the rule and the Bayes factor disagree on the
@@ -50,6 +58,7 @@ grounds:
 - THEORY-081
 ---
 <!-- inactive-ok-file: CLAIM-175 — Proposed; the owner's claim this threshold makes decidable, open -->
+<!-- inactive-ok-file: THEORY-tmpetzzi — Proposed; the reading that limits the description-length reading of the threshold, not leaned on -->
 
 # CLAIM-154: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio
 
@@ -94,6 +103,18 @@ its own spectral sectors.
   case). It is a decision rule.
 - **That any couple, firm or person has been measured.** Nothing here applies
   it to a real system.
+- **That the threshold survives misspecification.** When every candidate
+  model is misspecified, which a block or coupling model of a real system
+  is, Bayes and MDL can prefer the wrong model for large n, and the remedy
+  (Safe Bayes, η < 1) changes the effective Occam cost ([LIT-238](../literature.d/LIT-238.md) §6.3,
+  [NOTE-tmp582tx](../notes.d/NOTE-tmp582tx.md)). The review cites that result and does not prove it.
+  [CLAIM-188](CLAIM-188.md)'s singularity is one ground for caution; this is a second,
+  independent one.
+- **That the Occam term is a description length.** Under a modeller's
+  prior, the evidence penalty matches the description-length penalty only
+  for hypotheses that are random under that prior ([THEORY-tmpetzzi](../theory.d/THEORY-tmpetzzi.md),
+  [LIT-225](../literature.d/LIT-225.md), [NOTE-tmpp6trb](../notes.d/NOTE-tmpp6trb.md)). A hypothesis the prior treats as special is where
+  the two rankings diverge.
 
 ## Note of 2026-10-12: evidence now linked
 

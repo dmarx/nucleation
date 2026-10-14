@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptsdgt
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -28,6 +28,18 @@ history:
     Concept sweep: "that an entrained system is a self" is marked as the
     subject sense (TERM-045, sense 1), the sense its objection
     CLAIM-165 keeps. The claim is otherwise unchanged.
+- version: 5
+  date: '2026-10-14'
+  note: >-
+    Two readings of the day. NOTE-tmp9ypte (LIT-989, THEORY-tmph3haa)
+    supports the claim and sharpens it: global synchrony makes no unit,
+    synchrony matched to the modules does, and its entrainment is a
+    payoff-gradient rule on phase, not HKB-style output coupling.
+    THEORY-tmph3haa is added to grounds. NOTE-tmpjexhc (LIT-947) shows a
+    symmetric pair reading as hierarchical under strong one-sided drive,
+    so an observational direction test needs an intervention. The claim
+    is otherwise unchanged; the defeated_if is met trivially by any
+    complete micro simulation and is left for rewording.
 role: thesis
 defeated_if: >-
   A mutually entrained pair whose collective variable can be eliminated
@@ -50,6 +62,7 @@ grounds:
 - LIT-455
 - LIT-439
 - LIT-571
+- THEORY-tmph3haa
 uses:
 - TERM-049
 - TERM-045
@@ -71,6 +84,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
+<!-- inactive-ok-file: THEORY-tmph3haa THEORY-tmpo4fgq — Proposed; the model case that supports and sharpens the criterion, and the reading that limits observational tests of direction -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
 
 # CLAIM-172: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
@@ -112,6 +126,16 @@ is the *architecture*. Mutually entrained members are peers. A driven pair
 is a hierarchy, as a lead and follow are. Mutual entrainment is sufficient
 for a combined form, not necessary, and it says which kind.
 
+**A model case, 2026-10-14** ([THEORY-tmph3haa](../theory.d/THEORY-tmph3haa.md), [LIT-989](../literature.d/LIT-989.md), [NOTE-tmp9ypte](../notes.d/NOTE-tmp9ypte.md)).
+In a modular coordination game, phase synchrony within strongly coupled
+modules makes each module respond to the others as a single unit, and the
+control with imposed global synchrony makes no unit. That supports the
+claim and sharpens it: shared timing alone is not the mark, synchrony
+matched to the strong couplings is. Its entrainment is a payoff-gradient
+rule on phase, not timing pulled by the partner's output as in HKB
+([THEORY-069](../theory.d/THEORY-069.md)), so it is a case of the criterion by a different
+mechanism.
+
 ## What it does not say
 
 - **That entrainment is the only route to extension.** Otto's notebook does
@@ -128,3 +152,8 @@ for a combined form, not necessary, and it says which kind.
   ([CLAIM-163](CLAIM-163.md)) is answered.** Entrainment between a person and a process
   has the coupling and the order parameter that objection asks for.
   Interests over time, on Ainslie's reading, still have neither.
+- **That direction can be read from observation alone.** A symmetrically
+  coupled pair reads as "hierarchical" once one member is strongly driven
+  ([THEORY-tmpo4fgq](../theory.d/THEORY-tmpo4fgq.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-tmpjexhc](../notes.d/NOTE-tmpjexhc.md)). The criterion "each side's
+  timing shifts with the other's" therefore needs an intervention on one
+  member ([QUESTION-063](../questions.d/QUESTION-063.md)), not observed flow, to tell peers from a hierarchy.

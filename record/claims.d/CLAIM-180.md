@@ -28,17 +28,19 @@ grounds:
 - LIT-269
 - LIT-928
 - LIT-918
+- LIT-921
 summary: >-
   Proposed by the assistant on 2026-10-11, when the owner raised sparse
   distributed memory and Hebbian learning after [CLAIM-182](CLAIM-182.md), and filed
   at the owner's request. It reads the drift of [CLAIM-177](CLAIM-177.md) through
   SDM's critical distance (read in [NOTE-242](../notes.d/NOTE-242.md)) and Hopfield's basins of
-  attraction (unread). The analogy is the claim; whether restatement
+  attraction (unread when filed; read 2026-10-14 in NOTE-tmpyx2db). The analogy is the claim; whether restatement
   distance predicts re-derivation has not been measured.
 ---
 <!-- inactive-ok-file: CLAIM-024 CLAIM-177 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
-<!-- inactive-ok-file: LIT-918 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
+<!-- inactive-ok-file: LIT-928 — Deferred, unread; Kanerva's book, named as where the critical distance comes from, not leaned on beyond that -->
+<!-- inactive-ok-file: THEORY-tmplenr2 — Proposed; the Hopfield account filed from LIT-918, cited for its corrections -->
 
 # CLAIM-180: Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
 
@@ -47,7 +49,10 @@ summary: >-
 In sparse distributed memory a cue retrieves a stored pattern only from
 within a critical distance: "the largest query–target distance from which
 iterated reads still converge to the target" ([NOTE-242](../notes.d/NOTE-242.md), reading
-[LIT-269](../literature.d/LIT-269.md)). Hopfield's network ([LIT-918](../literature.d/LIT-918.md), unread) has the same shape in
+[LIT-269](../literature.d/LIT-269.md)). The critical distance comes from Kanerva's book ([LIT-928](../literature.d/LIT-928.md),
+unread), not from Hopfield or from Kanerva's report ([LIT-921](../literature.d/LIT-921.md)), which has
+only the signal-to-noise optimum ([NOTE-tmpda9q6](../notes.d/NOTE-tmpda9q6.md), 2026-10-14). Hopfield's
+network ([LIT-918](../literature.d/LIT-918.md), read in [NOTE-tmpyx2db](../notes.d/NOTE-tmpyx2db.md)) has the same shape in
 dynamical form. A cue inside a memory's basin of attraction settles into
 it, and one outside settles elsewhere, possibly into a spurious state.
 
@@ -64,7 +69,10 @@ retrieved.
 A code changes the retrieval. Pointing at [CLAIM-024](CLAIM-024.md) or [ARG-004](../arguments.d/ARG-004.md) does not
 depend on rewording the idea closely enough to be recognized; the address
 names it. That is why addressability, not storage, makes an anchor
-([CLAIM-182](CLAIM-182.md)). Stored content can be reached only by a cue near it. An
+([CLAIM-182](CLAIM-182.md)). Hopfield's model has no addresses. The contrast is in
+Kanerva's report ([LIT-921](../literature.d/LIT-921.md), [NOTE-tmpda9q6](../notes.d/NOTE-tmpda9q6.md)): an SDM with radius zero and
+complete addresses is an ordinary RAM, which returns exactly what was
+written at an exact address and nothing for any other cue. Stored content can be reached only by a cue near it. An
 addressed item can be reached by its name from anywhere.
 
 Two further points follow from the models, both untested here:
@@ -73,6 +81,12 @@ Two further points follow from the models, both untested here:
   and loses retrieval. A record that leans on content alone, with many
   near-duplicate statements, should show the same: merged and confused
   ideas. That bears on flooding ([CLAIM-179](CLAIM-179.md)).
+  *Corrected 2026-10-14 ([NOTE-tmpyx2db](../notes.d/NOTE-tmpyx2db.md), [THEORY-tmplenr2](../theory.d/THEORY-tmplenr2.md)).* In Hopfield's
+  model, fusion comes from two memories being close, closer than about a
+  tenth of N, at any load. Overload does not merge memories: it loses
+  every memory at once, unless old ones are forgotten. Spurious states
+  occur far below capacity too. "Many near-duplicate statements" names
+  the closeness failure, not the load one.
 - **Silent redefinition.** A cue just outside one memory's basin can
   settle into a neighbouring memory. Read across, a restated term can be
   taken for a nearby, different term, and the argument continues on the
@@ -83,6 +97,11 @@ Two further points follow from the models, both untested here:
 - It does not say a collaborator's memory is an SDM or a Hopfield network.
   The models give a precise picture of retrieval by content and its limit,
   and the claim uses that picture.
+- "Taken for new" has no Hopfield analogue ([NOTE-tmpyx2db](../notes.d/NOTE-tmpyx2db.md)). The network
+  never treats a cue as new: a cue far from every memory settles
+  elsewhere, or, with a threshold, into a state that signals
+  unfamiliarity. The nearest analogue of re-derivation is failing to
+  recognise. Whether a duplicate is then written is outside the model.
 - It does not say codes make retrieval free. A code must itself be
   remembered or found ([QUESTION-038](../questions.d/QUESTION-038.md)), and luria's generated views and
   indexes are how it is found.

@@ -189,3 +189,13 @@ explains later features of consciousness, not its origin.
 ## Note of 2026-10-12: scope against [THEORY-096](THEORY-096.md)
 
 [THEORY-096](THEORY-096.md) adopts Dehaene and Naccache's premise that global availability, carried by cortical hubs, "is what we subjectively experience as a conscious state". Taken generally, that premise leaves no room for the affective consciousness without cortex that this account describes. Taken as [THEORY-096](THEORY-096.md)'s own title states it, about perceptual consciousness, it leaves room. This account says it stays neutral among the workspace and its rivals as theories of general alertness, and [THEORY-096](THEORY-096.md) is about perceptual access. So the two can both be right if the premise is read narrowly. They cannot if it is read generally. No `rivals` is declared, because neither account commits to the general reading.
+
+## Note of 2026-10-14: [LIT-965](../literature.d/LIT-965.md) is not a second source
+
+Emergence from anaesthesia ([LIT-965](../literature.d/LIT-965.md), read in [NOTE-tmplqobb](../notes.d/NOTE-tmplqobb.md)) is consistent
+with the subcortical clause: the cited data have ancient structures with
+"only limited neocortical involvement" sufficing. It must not count as a
+second source for "before and without cortex". The authors keep "limited
+neocortical connectivity and recurrent processing" in the core, and their
+marker of returning consciousness is command-following, a marker of access,
+not of felt alarm. The statement is unchanged.

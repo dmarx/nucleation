@@ -54,3 +54,11 @@ things: the drift, the sites that stop it, and the shape the sites impose.
 
 The candidate answer is [CLAIM-177](../claims.d/CLAIM-177.md), [CLAIM-185](../claims.d/CLAIM-185.md) and [CLAIM-178](../claims.d/CLAIM-178.md) taken
 together, with [CLAIM-176](../claims.d/CLAIM-176.md) as the record's own trigger of persistence. The objection to watch is [CLAIM-181](../claims.d/CLAIM-181.md).
+
+## Note of 2026-10-14: IBIS on settling
+
+IBIS's founding paper ([LIT-758](../literature.d/LIT-758.md), read in [NOTE-tmptx0xy](../notes.d/NOTE-tmptx0xy.md)) answers "what makes
+it settle" procedurally only: an issue is settled "by convincing the
+opponents or decided by a formal decision procedure", or dodged, or
+substituted. It offers no account of an argument's structure stabilising
+over time, which is what this question asks.

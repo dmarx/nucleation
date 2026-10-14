@@ -54,3 +54,7 @@ firm?
 ## Note of 2026-10-12: the convergence side, evidenced
 
 [THEORY-123](../theory.d/THEORY-123.md) (Barsade) now carries an `answered_by` edge. Mood convergence is shown experimentally, and the paper calls it "a group phenomenon". That is evidence for the convergence side with no group subject. [THEORY-126](../theory.d/THEORY-126.md), already on this question, extends it.
+
+## Note of 2026-10-14: a third option, not the convergence side
+
+[LIT-933](../literature.d/LIT-933.md) (Nowak et al.) was registered here as stating the synchronized-convergence option. Read in [NOTE-tmp7kzgo](../notes.d/NOTE-tmp7kzgo.md), it does not. Its synchronization is any binding of dynamics, including compensatory dynamics and complementary roles, not [THEORY-126](../theory.d/THEORY-126.md)'s synchronous convergence. Its functional unit, a coordinated configuration that performs a task, is neither aggregate convergence nor a group subject. That is a third option this question does not list. The paper never asks whether a functional unit is a subject of states, and it offers no case, so it answers neither side.

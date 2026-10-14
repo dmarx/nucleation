@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-161
 title: 'A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-11'
@@ -14,6 +14,13 @@ history:
     everything satisfies into one that can fail), but the coherence
     measure γ is left unspecified in MOM's source, and nothing has been
     measured. There was nothing to re-run.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    NOTE-tmp0o608 (LIT-953): averaged and local verdicts of an
+    information measure can disagree, so "approximately conserved" needs
+    a window and a tolerance. Added under What it does not say. The
+    claim is unchanged.
 role: thesis
 defeated_if: >-
   A system whose coherence measure is conserved under its own dynamics
@@ -39,6 +46,7 @@ summary: >-
 complements:
 - CLAIM-287
 ---
+<!-- inactive-ok-file: THEORY-tmpjvv0j — Proposed; the reading that sets the window question, open -->
 
 # CLAIM-161: A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states
 
@@ -71,3 +79,9 @@ must take, not which one is right.
   condition, in the sense [ADR-024](../decisions.d/ADR-024.md) keeps apart from being a subject.
 - **Which γ.** Different choices give different selves. [CLAIM-152](CLAIM-152.md)'s
   target-relativity applies.
+- **Over what window, and with what tolerance.** If γ is an information
+  quantity, its value averaged over an interval and its value at a moment
+  can disagree in sign ([THEORY-tmpjvv0j](../theory.d/THEORY-tmpjvv0j.md), [LIT-953](../literature.d/LIT-953.md), [NOTE-tmp0o608](../notes.d/NOTE-tmp0o608.md)).
+  "Approximately conserved" then needs a window and a tolerance for
+  negative local values that average out. That is this record's
+  application, not the paper's claim.

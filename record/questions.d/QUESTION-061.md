@@ -16,6 +16,7 @@ answered_by:
 - THEORY-098
 - THEORY-103
 - THEORY-102
+- THEORY-tmp7j1bc
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-003](../claims.d/CLAIM-003.md). [THEORY-096](../theory.d/THEORY-096.md),
@@ -23,6 +24,7 @@ summary: >-
   each one's limit. Deferred with its line.
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
+<!-- inactive-ok-file: THEORY-tmp7j1bc THEORY-tmpztbz7 THEORY-tmp2cqie — Proposed; readings listed with their limits, one an answer in part -->
 
 # QUESTION-061: In a brain, is conscious access one exclusive broadcast that reaches every specialised processor at once, or can a content be accessed by some consumers and not others?
 
@@ -40,6 +42,9 @@ summary: >-
 - [THEORY-098](../theory.d/THEORY-098.md) makes access a winner-take-all competition in which a recurrent sensory representation "can lose that competition and stay unaccessed". Limit: inference to the best explanation.
 - [THEORY-103](../theory.d/THEORY-103.md): in partial report, items are "accessible, not accessed": held, but not in working memory. Limit: second-hand data.
 - [THEORY-102](../theory.d/THEORY-102.md): content is sustained in ventral temporal cortex while prefrontal content is "a transient event at onset". So a content can be held in one system without lasting in the hub. Limit: every image was seen.
+- [THEORY-tmp7j1bc](../theory.d/THEORY-tmp7j1bc.md) ([LIT-973](../literature.d/LIT-973.md), COGITATE): with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three. It answers this question in part: the hub did not receive every dimension of a conscious content. Limit: [LIT-973](../literature.d/LIT-973.md) was filed as "direct evidence on whether access is one all-or-none broadcast", and it is not direct. No dimension's access was measured, and there was no report on identity or orientation.
+- [THEORY-tmpztbz7](../theory.d/THEORY-tmpztbz7.md) ([LIT-973](../literature.d/LIT-973.md)): no sustained content-specific synchronization between category-selective posterior cortex and early visual cortex. Limit: it tests IIT's proposed implementation, not access.
+- [THEORY-tmp2cqie](../theory.d/THEORY-tmp2cqie.md) ([LIT-949](../literature.d/LIT-949.md)): loss of consciousness goes with reduced integration between default-mode gateways of a synergy-defined workspace. Limit: it concerns the state of consciousness, at rest, not access to a content. There is no stimulus, no report and no consumer-by-consumer measurement.
 
 ## What would answer it
 

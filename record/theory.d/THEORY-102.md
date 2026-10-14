@@ -20,7 +20,7 @@ promote_when: >-
   bands or sites this study did not sample (low-frequency activity, other
   prefrontal regions). More onset-locked decoding cannot settle it, since
   the claim is about what happens after onset.
-title: 'In human ventral temporal cortex the content of a clearly seen, unchanging image is carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset'
+title: 'In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset'
 version: 1
 tags:
 - consciousness
@@ -50,7 +50,7 @@ answers:
 <!-- inactive-ok-file: THEORY-100 — Proposed; the crow report-correlate account filed alongside, named in Connections for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account of what consciousness evidence can settle that this result bears on, not tested by it -->
 
-# THEORY-102: In human ventral temporal cortex the content of a clearly seen, unchanging image is carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset
+# THEORY-102: In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset
 
 ## Source
 
@@ -185,3 +185,20 @@ question; nothing here tests their argument.
 ## Note of 2026-10-12: bearing on [THEORY-096](THEORY-096.md)'s wording
 
 This finding meets the onset prediction the workspace's proponents made, and [THEORY-096](THEORY-096.md) states the workspace account. But [THEORY-096](THEORY-096.md)'s statement says ignition "sustains" the content. A sustained prefrontal code was not found here, and the proponents did not predict one. A note on [THEORY-096](THEORY-096.md) records the gap. No relation is declared.
+
+## Note of 2026-10-14: COGITATE replicates it for category, and narrows the title
+
+COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-tmpuu1fr](../notes.d/NOTE-tmpuu1fr.md)) is the multi-duration result the
+first kind of promote_when names: an independent intracranial cohort with
+576 prefrontal electrodes. It finds a sustained posterior category
+representation, and prefrontal category content confined to onset with
+nothing at offset. It does not hold for every dimension. Face identity was
+not sustained in posterior cortex, and face orientation decayed after about
+0.5 s though the image stayed on. The title said "the content" of the image;
+it now says "the category and object identity", which is what both
+cohorts show. The first kind of promote_when is partly met: replicated for
+category, not for every dimension. The second kind, percept and input
+apart, is untouched, since every image was seen. Only 15% of
+face-selective electrodes were sustained, which fits "amplitude decays",
+but COGITATE did not test a stable population code against decaying
+amplitude as Vishne et al. did.

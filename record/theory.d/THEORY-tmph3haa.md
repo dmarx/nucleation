@@ -31,6 +31,8 @@ summary: >-
   synchrony does not help. It is one clean game, one parameter setting,
   and a postulated phase rule; the modules are built in, and timing finds
   them rather than drawing them.
+supports:
+- CLAIM-172
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-157 THEORY-232 THEORY-069 — Proposed; the entrainment mark, block answer and accounts this bears on, open -->
 

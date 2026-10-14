@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpwmbz4
 paper: LIT-347
 title: 'Information-theoretic analysis of generalization capability of learning algorithms'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-09-29'
@@ -24,6 +24,14 @@ history:
   note: >-
     Correction added: the Russo–Zou quantity is stated in this paper's
     notation, not theirs, per the reading of Russo & Zou.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Two dated correction lines, prompted by NOTE-tmpdhrvi (LIT-236) and
+    NOTE-tmps2bys (LIT-233). LIT-236's lossy rates are of the final
+    output's law, not per-step information; the trajectory version is
+    LIT-233 Thm 7. LIT-233's "data-dependent rather than μ-dependent"
+    holds only in part. The reading is otherwise unchanged.
 date: '2026-09-29'
 summary: >-
   If the loss ℓ(w,Z) is σ-subgaussian for every w, then the expected
@@ -116,6 +124,7 @@ The paper uses information-theoretic decoupling: Donsker–Varadhan's variationa
 - **Earlier work.** Russo & Zou 2016 (extended here), Bassily et al. 2016 (the monitor technique), Raginsky et al. 2016 (the Gibbs gen ≤ β/(2n) bound), and differential privacy (Dwork et al.).
 - **[LIT-236](../literature.d/LIT-236.md) (Sefidgaran et al. 2022).** It reinterprets the bound as a lossless compression rate and replaces it with lossy, rate–distortion bounds that stay finite where I(S;W) is infinite. §4.1 of this paper already has that move in embryo: I(S;W) ≤ H(W), and quantising W to a covering (eq. 20).
 - **[LIT-233](../literature.d/LIT-233.md) (Sefidgaran & Zaidi 2023).** It makes such bounds data-dependent (empirical measure) rather than μ-dependent. This paper's (ε,μ)-stability is distribution-dependent but not computable from the sample.
+  - *Correction, 2026-10-14 ([NOTE-tmps2bys](NOTE-tmps2bys.md)).* That holds only in part: it is true of [LIT-233](../literature.d/LIT-233.md)'s Theorems 1, 4 and 7's rate term and of Proposition 1, but Theorem 6, the fast-rate constant C, and Theorem 7's coupling term M still depend on μ.
 - **[LIT-240](../literature.d/LIT-240.md) (Vera et al.).** It is the representation-level analogue: I(X;U) in place of I(S;W). [LIT-245](../literature.d/LIT-245.md) criticises that step, and its |U|-dependent vacuity parallels the vacuity of I(S;W) for deterministic W.
 
 ## Bearing on the record
@@ -132,6 +141,8 @@ The paper uses information-theoretic decoupling: Donsker–Varadhan's variationa
     |gen| ≤ √((2σ²/n)·Σ_t S_grad,t)
 
 This follows from Theorem 1 plus eq. (36) plus H ≤ bits, and is my composition, not in the paper. With S_grad,t = m·b bits per step (m parameters, b bits each) it is vacuous for any real network, since m·b·T ≫ n. That is the honest version of the "floors, not predictions" caveat already in the owner's document. The informative per-step quantity would be the conditional information actually transmitted, which is what [LIT-236](../literature.d/LIT-236.md)'s lossy rates try to estimate.
+
+*Correction, 2026-10-14 ([NOTE-tmpdhrvi](NOTE-tmpdhrvi.md)).* The last sentence is wrong. [LIT-236](../literature.d/LIT-236.md)'s lossy rates are rates of the final output's law, P_{S,W} or P_W; it treats no trajectory and estimates nothing. The trajectory version is [LIT-233](../literature.d/LIT-233.md)'s Theorem 7, which puts the trajectory's dependence on the sample into its coupling term M.
 
 **Temperature and free energy.** The Gibbs algorithm minimises E L_S + (1/β)·KL, a free energy with β an inverse temperature (Theorem 5). This is the third distinct "temperature" in this batch.
 - Here, β is the inverse temperature of the Gibbs posterior.
