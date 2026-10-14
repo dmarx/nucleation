@@ -4,7 +4,16 @@ status: Active
 formerly:
 - THEORY-tmpw2brf
 title: 'An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT''s dimension'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Schmid, Selby and Spekkens (LIT-945) were read in full (NOTE-tmp5ey9r).
+    They restate the equivalence of generalized noncontextuality,
+    simplex-embeddability and a positive quasiprobability representation,
+    citing LIT-003, and do not prove it independently. One sentence in
+    the Source section says so. Nothing else changed.
 tags:
 - contextuality
 - quantum-foundations
@@ -30,7 +39,7 @@ answers:
 
 ## Source
 
-Schmid et al. (2020), [LIT-003](../literature.d/LIT-003.md), Def. 3.1, Props 3.2 and 3.4, Cor 3.5, Thm 2.8, Thm 4.1 (proof in App. B), Cor 4.2, Prop 4.3, §5.2, App. A ([NOTE-017](../notes.d/NOTE-017.md)). Worked instance: Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.A. Background on GPTs: [LIT-073](../literature.d/LIT-073.md).
+Schmid et al. (2020), [LIT-003](../literature.d/LIT-003.md), Def. 3.1, Props 3.2 and 3.4, Cor 3.5, Thm 2.8, Thm 4.1 (proof in App. B), Cor 4.2, Prop 4.3, §5.2, App. A ([NOTE-017](../notes.d/NOTE-017.md)). Worked instance: Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.A. Background on GPTs: [LIT-073](../literature.d/LIT-073.md). Schmid, Selby and Spekkens, [LIT-945](../literature.d/LIT-945.md), restate the equivalence, citing [LIT-003](../literature.d/LIT-003.md); it is a restatement, not an independent proof ([NOTE-tmp5ey9r](../notes.d/NOTE-tmp5ey9r.md)).
 
 ## What was actually shown
 

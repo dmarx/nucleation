@@ -4,7 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmpsbq58
 title: 'Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens''s generalized kind, which also requires that renderings no probe can tell apart get the same representation?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Spekkens 2005 (LIT-266, NOTE-tmpqr65v) and Schmid, Selby and Spekkens
+    (LIT-945, NOTE-tmp5ey9r) were read in full. "Why the record needs it"
+    no longer says that the probe-relative equivalence of CLAIM-142 and
+    CLAIM-046 is the very relation Spekkens's notion is built on: his
+    relation quantifies over every measurement the theory allows.
+    "What the record holds" quotes THEORY-011's corrected title and gives
+    each THEORY's limit after the reading. A note lists four conditions
+    the readings put on any test. The question stays open.
 tags:
 - contextuality
 - quantum-foundations
@@ -22,7 +34,7 @@ summary: >-
   [CLAIM-044](../claims.d/CLAIM-044.md), [CLAIM-046](../claims.d/CLAIM-046.md), [CLAIM-142](../claims.d/CLAIM-142.md) and [QUESTION-001](QUESTION-001.md). [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md)
   and [THEORY-016](../theory.d/THEORY-016.md) answer it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: CLAIM-105 CLAIM-201 THEORY-011 THEORY-015 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-067: Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens's generalized kind, which also requires that renderings no probe can tell apart get the same representation?
 
@@ -32,12 +44,12 @@ summary: >-
 
 ## Why the record needs it
 
-The mechanism is direct, not an analogy. Renderings and contexts are preparations, and probes are measurements. [CLAIM-142](../claims.d/CLAIM-142.md) and [CLAIM-046](../claims.d/CLAIM-046.md) already define observational equivalence over a probe family. That is the very relation Spekkens's notion is built on. An ambiguous utterance read as a mixture of readings in several ways is a mixed preparation with several decompositions ([CLAIM-044](../claims.d/CLAIM-044.md)). This is where preparation contextuality can show even with a single binary judgement. A sheaf test cannot see it, because it needs a cover with overlapping contexts. [QUESTION-001](QUESTION-001.md) asks what fails when reconstruction is impossible. The answer differs with the notion.
+The mechanism is direct, not an analogy. Renderings and contexts are preparations, and probes are measurements. [CLAIM-142](../claims.d/CLAIM-142.md) and [CLAIM-046](../claims.d/CLAIM-046.md) already define observational equivalence over a probe family. Spekkens's notion is built on a relation of that kind, taken over every measurement the theory allows ([LIT-266](../literature.d/LIT-266.md), Eq. 1), so a probe-relative equivalence is his relation only under a condition stated in the note of 2026-10-14 below. An ambiguous utterance read as a mixture of readings in several ways is a mixed preparation with several decompositions ([CLAIM-044](../claims.d/CLAIM-044.md)). This is where preparation contextuality can show even with a single binary judgement. A sheaf test cannot see it, because it needs a cover with overlapping contexts. [QUESTION-001](QUESTION-001.md) asks what fails when reconstruction is impossible. The answer differs with the notion.
 
 ## What the record holds
 
-- [THEORY-011](../theory.d/THEORY-011.md): the generalized notion is strictly broader. "a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument exists in dimension two". Limit: seeded from Spekkens 2005, not read closely.
-- [THEORY-015](../theory.d/THEORY-015.md): every Kochen–Specker proof refutes universal noncontextuality, while "measurement noncontextuality alone is consistent with quantum theory". So a sheaf result would carry over, given the full preparation set. Limit: the record makes the join to the sheaf form itself, and fragments must be re-checked.
+- [THEORY-011](../theory.d/THEORY-011.md): the generalized notion is strictly broader. "a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two". Limit: the proof assumes exact operational equivalence and perfectly distinguishable pairs ([NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)).
+- [THEORY-015](../theory.d/THEORY-015.md): every Kochen–Specker proof refutes universal noncontextuality, while "measurement noncontextuality alone is consistent with quantum theory". So a sheaf result would carry over, given the full preparation set. Limit: the record makes the join to the sheaf form itself, fragments must be re-checked, and what the old proofs refute is preparation plus measurement noncontextuality, not preparation noncontextuality alone ([NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)).
 - [THEORY-016](../theory.d/THEORY-016.md): a noncontextual model exists "exactly when its GPT admits a positive quasiprobability representation". That gives the test a concrete target. Limit: it gives "no test for whether a positive representation exists".
 
 ## What would answer it
@@ -55,3 +67,38 @@ fixed-scenario headline on that finding. CbD is a measurement-context
 notion built for systems that signal, and this question does not name it
 among the notions it compares. That null does not reach Spekkens's notion,
 since none of the tests read looks for preparation contextuality.
+
+## Note of 2026-10-14: conditions from the readings
+
+Spekkens 2005 ([LIT-266](../literature.d/LIT-266.md), [NOTE-tmpqr65v](../notes.d/NOTE-tmpqr65v.md)) and Schmid, Selby and Spekkens
+([LIT-945](../literature.d/LIT-945.md), [NOTE-tmp5ey9r](../notes.d/NOTE-tmp5ey9r.md)) were read in full. Both support the question's
+premise: preparation contextuality can show where there are no
+overlapping measurement contexts, and for a prepare-measure structure
+there is no Bell-like test while a noncontextuality test can exist. They
+also put four conditions on any test the question has in view. These do
+not answer it.
+
+- **Equivalence over every probe.** Spekkens's operational equivalence
+  quantifies over every measurement the theory allows ([LIT-266](../literature.d/LIT-266.md), Eq. 1),
+  and [LIT-945](../literature.d/LIT-945.md)'s inferential equivalence over every tester. The
+  probe-relative equivalence of [CLAIM-142](../claims.d/CLAIM-142.md) and [CLAIM-046](../claims.d/CLAIM-046.md) is that relation
+  only if the probe family is tomographically complete for the
+  renderings. Otherwise two renderings the probes cannot separate may
+  still be operationally inequivalent, and the assumption does not apply.
+- **The unquotiented description.** A model that already identifies
+  equivalent renderings "is not the sort of thing that can be either
+  generalized-noncontextual or generalized-contextual" ([LIT-945](../literature.d/LIT-945.md)). The
+  test must keep distinct renderings distinct and state their
+  equivalences separately, which is the form "What would answer it" asks
+  for.
+- **Exact equivalence.** The definitions apply only to exactly
+  equivalent procedures. [LIT-266](../literature.d/LIT-266.md) §IX concedes that finite precision
+  "might imply that in practice no two experimental procedures are found
+  to be operationally equivalent", and leaves the replacement, similar
+  representations for similar procedures, without a measure.
+- **Perfectly distinguishable decompositions.** The §IV proof needs the
+  two members of each two-element decomposition of the mixed preparation
+  to be perfectly distinguishable. Readings of an ambiguous utterance
+  ([CLAIM-044](../claims.d/CLAIM-044.md)) that are only probably distinguishable do not give its
+  constraints. A pragmatic version needs such pairs or a noise-robust
+  inequality, which neither reading supplies.

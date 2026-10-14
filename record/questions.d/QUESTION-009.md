@@ -4,7 +4,16 @@ status: Deferred
 formerly:
 - QUESTION-tmp9w0qe
 title: 'When does a pattern of coordination constitute an additional agent?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Watson's essay (LIT-990), filed as a candidate criterion for this
+    question, was read in full (NOTE-tmpo6vec). A note says that its
+    criterion is comparative and scale-relative and refuses a threshold,
+    so it bears on the question without answering it. The status stays
+    Deferred.
 tags:
 - agency
 - social-ontology
@@ -41,3 +50,15 @@ apart (constitutive, explanatory, agentive) say what an answer would need.
 ## Note of 2026-10-12: typed partial answers
 
 Two THEORYs now carry `answered_by` edges. [THEORY-065](../theory.d/THEORY-065.md) (Korsgaard): we constitute ourselves joint agents by observing the rules of normative unification together, though how a group does so is not worked out. [THEORY-131](../theory.d/THEORY-131.md) (French): a CID Structure makes a corporation a non-eliminable agent, unlike a mob.
+
+## Note of 2026-10-14: a comparative criterion, not a threshold
+
+Watson ([LIT-990](../literature.d/LIT-990.md)), read in [NOTE-tmpo6vec](../notes.d/NOTE-tmpo6vec.md), gives a criterion of a different
+shape. Coordination counts when it lets the parts resolve more of their
+mutual constraints than they would without it. That says when a whole is
+*more agential than its parts*, relative to a chosen decomposition into
+parts with given goals. It declines any absolute line "regardless of
+whether the parts, or the system as a whole, are considered to pass some
+absolute threshold". So it is not a criterion for when there is an
+additional agent, and read as one it changes the question rather than
+answering it.

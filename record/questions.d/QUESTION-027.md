@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmp0p9xm
 title: 'Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    LIT-950 (NOTE-tmpo5k5s) and LIT-936 (NOTE-tmpzfpxp), filed for this
+    question, were read in full. A note says that both bear on the
+    unrestricted, in-probe form only, which "What is already known" calls
+    answered, and not on the restricted form the question is filed as.
+    The question stays open.
 tags:
 - mathematical-statistics
 - information-theory
@@ -177,3 +186,24 @@ carries it as `answered_by`. [CLAIM-249](../claims.d/CLAIM-249.md), granted and 
 the character route of [CLAIM-137](../claims.d/CLAIM-137.md), [TERM-041](../terms.d/TERM-041.md) and [CLAIM-132](../claims.d/CLAIM-132.md): "the same
 character" is relative to a chosen correspondence. [CLAIM-226](../claims.d/CLAIM-226.md) cites
 [CASE-042](../cases.d/CASE-042.md) as a ground.
+
+## Note of 2026-10-14: two readings that bear on the unrestricted form only
+
+[LIT-950](../literature.d/LIT-950.md) and [LIT-936](../literature.d/LIT-936.md), filed for this question, were read in full. Each
+bears on the unrestricted, in-probe form only, the form "What is already
+known" calls answered, and not on decisions outside the observed probes.
+
+- **[LIT-950](../literature.d/LIT-950.md)** ([NOTE-tmpo5k5s](../notes.d/NOTE-tmpo5k5s.md)) proves which linear properties of a
+  next-token predictor are shared by every model inducing the same
+  distribution (Theorems 5 and 14), under its stated conditions and as
+  sufficient conditions. The observation there is the whole conditional
+  distribution on every sequence, so there are no unobserved probes. It
+  is a proved instance of a signature identified when the latent model is
+  not, in the case the question already counts as automatic.
+- **[LIT-936](../literature.d/LIT-936.md)** ([NOTE-tmpzfpxp](../notes.d/NOTE-tmpzfpxp.md)) measures a relational geometry that is
+  invariant under every output-preserving reparameterisation and is
+  identified from a context battery. Both hold because the signature is a
+  function of the observed laws. Its two results that reach outside the
+  probes, a transfer probe across models and a risk relation applied to
+  unseen model families, are empirical and narrow, and neither is a
+  theorem.

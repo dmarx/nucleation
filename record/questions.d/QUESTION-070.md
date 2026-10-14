@@ -4,7 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmp9psjx
 title: 'When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Noggle's entry (LIT-1007, NOTE-tmphtua8) and Susser, Roessler and
+    Nissenbaum (LIT-1002, NOTE-tmpijdk1) were read in full. The summary
+    and "The question" understated Noggle: its §4.2 treats the intent
+    requirement as contested, asks this question's first part of a
+    selecting algorithm, and lists five answers without endorsing one.
+    Susser et al.'s definition is quoted correctly, but the paper never
+    examines the intent requirement and sets aside manipulation of
+    institutions and systems. Both points are now stated. The question
+    stays open.
 tags:
 - social-ontology
 - ethics
@@ -14,8 +27,9 @@ line: 'distributed-agency'
 answered_by:
 - THEORY-139
 summary: >-
-  The accounts of manipulation now filed analyse it as one agent
-  intentionally influencing another. The record holds two read cases in
+  Most definitions of manipulation now filed build in a manipulator's
+  intent, though Noggle's survey treats that requirement as contested and
+  asks this question's first part of a selecting algorithm. The record holds two read cases in
   which the influencer is an organized system: an AI agent that learned to
   exploit biases ([LIT-179](../literature.d/LIT-179.md)) and a state's tiered network of information
   channels ([LIT-084](../literature.d/LIT-084.md)). [CLAIM-030](../claims.d/CLAIM-030.md) says an organized whole's operative
@@ -23,7 +37,7 @@ summary: >-
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
 ---
-<!-- inactive-ok-file: LIT-1002 LIT-1007 LIT-1003 — Deferred, unread; the analyses of manipulation filed with this question -->
+<!-- inactive-ok-file: LIT-1003 — Deferred, unread; an analysis of manipulation filed with this question -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
 
 # QUESTION-070: When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?
@@ -32,9 +46,19 @@ summary: >-
 
 Susser, Roessler and Nissenbaum ([LIT-1002](../literature.d/LIT-1002.md)) define manipulation as
 *intentionally* and covertly influencing someone's decisions by exploiting
-their vulnerabilities. Most of the accounts Noggle surveys ([LIT-1007](../literature.d/LIT-1007.md))
-also locate it in a manipulator's aim. The record holds two read cases
-where that aim is hard to place:
+their vulnerabilities. The paper never examines that requirement, and it
+sets aside manipulation of institutions and systems (p. 3), so it is no
+evidence either way on whether an organized whole can manipulate
+([NOTE-tmpijdk1](../notes.d/NOTE-tmpijdk1.md)). Many of the definitions Noggle surveys ([LIT-1007](../literature.d/LIT-1007.md))
+also build in intent. But the entry treats the requirement as contested
+(§4.2): it asks whether an algorithm that selects interface variants
+manipulates without a human's intent, and lists five answers without
+endorsing one. Among them are that manipulation needs no intention or
+state of mind, and that it needs intent, so such cases are not
+manipulation. None is stated in terms of a function or a selection
+history ([NOTE-tmphtua8](../notes.d/NOTE-tmphtua8.md)). Its case is a single designed system,
+like [LIT-179](../literature.d/LIT-179.md), not a network like [LIT-084](../literature.d/LIT-084.md). The record holds two read cases
+where the aim is hard to place:
 
 - **[LIT-179](../literature.d/LIT-179.md)** ([NOTE-171](../notes.d/NOTE-171.md)): an RL agent learned to move a target's lottery
   choices from 50% to 70% by exploiting documented biases. The authors add
