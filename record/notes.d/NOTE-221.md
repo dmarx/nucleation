@@ -1,11 +1,19 @@
 ---
 number: 221
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmp6dakr
 paper: LIT-253
+superseded_by:
+- NOTE-tmp6dvmv
 title: 'Closeness in Distribution vs Representational Similarity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp6dvmv, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   For softmax models p(y|x) ∝ exp(f(x)ᵀg(y)) under a diversity condition, the model distribution determines the embeddings and unembeddings up to an invertible linear map (f = Af′, g₀ = A⁻ᵀg′₀). The determination is not stable under KL divergence, though: two models can be ε-close in KL, even both near maximum likelihood, while their embeddings are far from linearly equivalent.

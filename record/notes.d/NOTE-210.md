@@ -1,11 +1,19 @@
 ---
 number: 210
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpcwmss
 paper: LIT-226
+superseded_by:
+- NOTE-tmpxn4hq
 title: 'The Conditional Entropy Bottleneck'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpxn4hq, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Training a representation to minimize I(X;Z|Y) while maximizing I(Y;Z) — the Conditional Entropy Bottleneck, targeting the "Minimum Necessary Information" point I(X;Y)=I(X;Z)=I(Y;Z) — empirically improves accuracy, adversarial robustness, OoD detection and calibration and refuses to memorize random labels.

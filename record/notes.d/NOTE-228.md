@@ -1,11 +1,19 @@
 ---
 number: 228
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpk93ea
 paper: LIT-258
+superseded_by:
+- NOTE-tmpu7m7r
 title: 'Contrastive learning finds an optimal eigenbasis'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpu7m7r, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   The InfoNCE, NT-Logistic and spectral contrastive losses all have the same population minimizer, the positive-pair kernel K⁺(a₁,a₂) = p⁺(a₁,a₂)/(p(a₁)p(a₂)). Kernel PCA under K⁺ returns exactly the eigenfunctions of the positive-pair Markov chain, and the top-d of those span the linear-predictor subspace that minimizes worst-case approximation error over approximately view-invariant targets.

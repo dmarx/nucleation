@@ -1,11 +1,19 @@
 ---
 number: 227
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpjc9ai
 paper: LIT-249
+superseded_by:
+- NOTE-tmpbkfrz
 title: 'Spectral contrastive loss (HaoChen et al.)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpbkfrz, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Minimizing the population spectral contrastive loss L(f) = −2E[f(x)ᵀf(x⁺)] + E[(f(x)ᵀf(x⁻))²] is, up to a constant, a rank-k factorization of the normalized adjacency matrix of the augmentation graph, so its minimizers are the top-k eigenvectors (eigenfunctions, in the infinite case) of that graph up to a row scaling and an invertible linear map — neither of which changes linear-probe accuracy.
