@@ -6,6 +6,7 @@ formerly:
 title: 'Text → image → caption → image chains under four conditions'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - compositionality
 - probabilistic-modeling

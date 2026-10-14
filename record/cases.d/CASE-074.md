@@ -6,6 +6,7 @@ formerly:
 title: "Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in"
 version: 1
 standing: stipulated
+kind: specimen
 tags:
 - agency
 - complex-systems

@@ -6,6 +6,7 @@ formerly:
 title: 'Voita, Sennrich and Titov''s BLEU-tied translation systems that differ on keeping ты or вы across sentences'
 version: 1
 standing: documented
+kind: reported-study
 tags:
 - translation
 - model-comparison

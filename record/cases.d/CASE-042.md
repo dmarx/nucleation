@@ -6,6 +6,7 @@ formerly:
 title: 'Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - representation-learning
 - mathematical-statistics

@@ -6,6 +6,7 @@ formerly:
 title: "Twitch Plays Pokémon in anarchy mode: one avatar steered through the map by the running aggregate of a crowd's inputs"
 version: 1
 standing: documented
+kind: specimen
 tags:
 - agency
 - complex-systems

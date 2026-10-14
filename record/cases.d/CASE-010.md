@@ -6,6 +6,7 @@ formerly:
 title: 'Henley''s rendering of Villon, "Booze and the blowens cop the lot"'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - philosophy-of-language
 - linguistics

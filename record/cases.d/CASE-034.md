@@ -6,6 +6,7 @@ formerly:
 title: 'The thermostat and the adaptive controller'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - agency
 - complex-systems

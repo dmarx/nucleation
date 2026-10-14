@@ -6,6 +6,7 @@ formerly:
 title: 'The Dual State: normative and prerogative authority in National Socialist Germany'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - society-and-governance
 date: '2026-10-04'

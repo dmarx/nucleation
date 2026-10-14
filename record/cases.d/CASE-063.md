@@ -6,6 +6,7 @@ formerly:
 title: 'The English localization of Ace Attorney: a Japanese courtroom game moved to an alternate Los Angeles, with "textually accurate" set against "emotionally accurate" by its localizer'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - pragmatics

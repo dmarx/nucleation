@@ -6,6 +6,7 @@ formerly:
 title: 'The skeptic who delegates: a critic that cannot overturn an emerging consensus gives its authority to a process that can generate alternatives'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - self-governance
 - social-ontology

@@ -6,6 +6,7 @@ formerly:
 title: 'The reception of Deborah Smith''s The Vegetarian: the Booker judges'' task, the Korean critics'' task, and one critic''s two verdicts'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - psychometrics

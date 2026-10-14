@@ -364,11 +364,41 @@ vocabularies:
       stipulated:
         label: Stipulated
         blurb: a real referent whose relevant facts are assumed rather than verified here — usable as
-          a thought experiment, not as evidence about the referent
+          a thought experiment, not as evidence about the referent. For a proposed study, its materials and
+          setting, not results it does not yet have (ADR-042)
       fictional:
         label: Fictional
         blurb: invented, usually to hold fixed what a real case cannot. Shows what is coherent, not what
           is common
+  case-kinds:
+    label: Case kinds
+    blurb: What kind of thing a CASE is, beside how much of it is fact (standing). The two are orthogonal
+      (ADR-042).
+    alert: Closed. A steel-man is a voice, held as a CLAIM with role counter; analogy and counterexample are
+      relations. None of them is a kind.
+    terms:
+      specimen:
+        label: Specimen
+        blurb: a real instance, artefact, event or kind of thing, examined as it is
+      thought-experiment:
+        label: Thought experiment
+        blurb: an imagined scenario, usually a contrast that holds everything fixed but one thing, used to
+          test an intuition or a concept
+      construction:
+        label: Construction
+        blurb: a formal or mathematical object built to exhibit or refute a property, whose facts are its
+          definition
+      reported-study:
+        label: Reported study
+        blurb: an empirical study others ran and published, used as a case
+      proposed-study:
+        label: Proposed study
+        blurb: an empirical design not yet run; the body says what would be measured, the main threat to
+          inference, and what each outcome would show
+      executed-study:
+        label: Executed study
+        blurb: a study the record's collaborators ran in session, whose results the record itself produced,
+          with its provenance and limits stated
   arg-forms:
     label: Argument forms
     blurb: The form of inference an ARG makes, and with it the critical questions that inference has to
@@ -1105,6 +1135,9 @@ schemes:
         vocabulary: statuses
       standing:
         vocabulary: case-standing
+        required: true
+      kind:
+        vocabulary: case-kinds
         required: true
       tags:
         vocabulary: topics

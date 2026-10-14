@@ -6,6 +6,7 @@ formerly:
 title: 'J. B. Phillips''s "hearty handshake all round" for Paul''s "holy kiss", and Nida''s judgement that it keeps the greeting'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - pragmatics

@@ -6,6 +6,7 @@ formerly:
 title: 'Gut microbes and the host''s hunger and mood: a lower-level collective that can drive the person'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - ecology
 - agency

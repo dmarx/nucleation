@@ -6,6 +6,7 @@ formerly:
 title: 'Northstar'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - agency
 - society-and-governance

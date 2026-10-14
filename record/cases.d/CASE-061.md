@@ -6,6 +6,7 @@ formerly:
 title: 'Wonder-working power: one hymn phrase in a national address, heard as faith by those who sing it and as boilerplate by others'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - pragmatics
 - religion

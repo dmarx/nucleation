@@ -6,6 +6,7 @@ formerly:
 title: 'TV Tropes: a community-curated catalogue of narrative tropes and their instances, such as the Gilligan Cut'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - pragmatics

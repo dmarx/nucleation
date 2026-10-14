@@ -6,6 +6,7 @@ formerly:
 title: 'Hafez''s "Shirazi Turk" in English: one ungendered beloved rendered as a maid, as God and as a boy'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - pragmatics

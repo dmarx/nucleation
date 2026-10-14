@@ -6,6 +6,7 @@ formerly:
 title: 'Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - complex-systems
 - social-science

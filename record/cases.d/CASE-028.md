@@ -6,6 +6,7 @@ formerly:
 title: 'Stability AI: well-intentioned founders, near-total churn, generic successor'
 version: 1
 standing: stipulated
+kind: specimen
 tags:
 - social-ontology
 - agency

@@ -6,6 +6,7 @@ formerly:
 title: 'Two satisfaction questions in German and in a back-translated Chinese version: an order effect that reverses across a rendering, with the Clinton–Gore poll as the scale of the 2ε bound'
 version: 1
 standing: documented
+kind: reported-study
 tags:
 - probabilistic-modeling
 - pragmatics

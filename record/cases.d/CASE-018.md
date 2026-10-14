@@ -6,6 +6,7 @@ formerly:
 title: '"You blow it all on sex and booze", said by a friend, a parent, a judge, a comedian'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - philosophy-of-language
 - linguistics

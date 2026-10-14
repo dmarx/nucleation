@@ -6,6 +6,7 @@ formerly:
 title: 'The discriminating fidelity study: renderings built to dissociate wording, proposition, static stance and transport structure, judged by named populations in two languages on stated tasks'
 version: 1
 standing: stipulated
+kind: proposed-study
 tags:
 - psychometrics
 - translation

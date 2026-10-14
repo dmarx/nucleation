@@ -14,6 +14,12 @@ version: 1
 # documented | stipulated | fictional — how much of it is fact.
 standing: fictional
 
+# specimen | thought-experiment | construction | reported-study |
+# proposed-study | executed-study — what kind of thing it is (ADR-042).
+# Orthogonal to standing. A steel-man is not a kind: it is a CLAIM with
+# role counter, and the case relates to it.
+kind: thought-experiment
+
 tags:
 - agency
 date: '2026-01-01'
