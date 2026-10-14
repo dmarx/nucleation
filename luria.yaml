@@ -499,6 +499,13 @@ vocabularies:
           drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on,
           and the manuscript becomes a view over the argument rather than its only copy. luria is the tool and
           this record the case'
+      self-as-recursive-ecology:
+        label: The Self as a Recursive Ecology of Meaning and Influence
+        blurb: 'the owner''s manuscript idea, proposed 2026-10-13 from an exchange on meaning operators: a self
+          as a metastable, recursively composed organization of processes that transform shared meaning and allocate
+          authority to one another by endorsement, with trust, specialization and higher-level agency emerging rather
+          than imposed; r/place as the observable case, and a constitutive question kept apart from the explanatory
+          one'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs

@@ -1,0 +1,75 @@
+---
+status: Active
+status_note: 'read in full 2026-10-13 ([NOTE-tmp286fw](../notes.d/NOTE-tmp286fw.md)) from the arXiv PDF, v3 of 13 July 2026 (https://arxiv.org/pdf/2408.13236). Worth reading for the only reconstruction of failed as well as lasting r/place coalitions, and for cross-edition statistics. It supports [CLAIM-tmpjhd7t](../claims.d/CLAIM-tmpjhd7t.md) weakly ([THEORY-tmp7w5tq](../theory.d/THEORY-tmp7w5tq.md)): lasting artworks are those whose coalitions keep working under overwriting. Its heavy-tailed use of the uniform cooldown qualifies [CLAIM-tmp2cza3](../claims.d/CLAIM-tmp2cza3.md), because unequal influence begins before any plan directs anyone. It concedes the interaction-level data that [QUESTION-tmpeqxa9](../questions.d/QUESTION-tmpeqxa9.md) asks about were not observed.'
+title: 'How Millions Coordinate at Scale: Engagement, Collaboration, and Conflict in Three Editions of Reddit r/place'
+version: 1
+history:
+- version: 1
+  date: '2026-10-13'
+  note: >-
+    Filed, not read. Citation checked against the arXiv API on 2026-10-13: arXiv gives first submission on 2024-08-23. The exchange cited the v1 title, 'Large-scale Collective Dynamics in the Three Iterations of the Reddit r/place Experiment'; the current version is retitled as above.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-13, commit d1573d2) for the authors, the title and the arXiv id found nothing.
+    Read the same day (NOTE-tmp286fw).
+tags:
+- complex-systems
+- social-science
+date: '2026-10-13'
+published: '2024-08-23'
+arxiv: '2408.13236'
+first_author: 'Wu'
+keywords:
+- 'r/place'
+- 'collective dynamics'
+- 'artwork clustering'
+- 'coordination'
+implementations: []
+summary: >-
+  Wu and Silva (2024; v3 2026), arXiv:2408.13236. Cross-edition statistics
+  for 2017, 2022 and 2023 and a method that recovers coalitions, failed ones
+  included, from the 2017 placement log. Participation stays heavy-tailed
+  under the uniform cooldown. Larger coalitions repaint more redundantly and
+  have less active members. Participants consolidate into large coalitions
+  over the event. Survival is barely predictable from coalition size, area,
+  start time and colour entropy until late.
+---
+<!-- inactive-ok-file: CLAIM-tmpjhd7t CLAIM-tmp2cza3 THEORY-tmp7w5tq — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+
+# LIT-tmplgy5c: How Millions Coordinate at Scale: Engagement, Collaboration, and Conflict in Three Editions of Reddit r/place
+
+Wu, Y., & Silva, A. (2024). How Millions Coordinate at Scale: Engagement, Collaboration, and Conflict in Three Editions of Reddit r/place. arXiv:2408.13236. [ARXIV-2408.13236](https://arxiv.org/abs/2408.13236)
+
+## Key takeaways
+
+Read in full ([NOTE-tmp286fw](../notes.d/NOTE-tmp286fw.md)).
+
+- **Survivorship.** Under 7% of pixel updates survive to the final canvas,
+  so atlases of final artworks miss most of the collective work.
+- **A cap is not equality.** Under the same five-minute cooldown,
+  activity is heavy-tailed in every edition. In 2017 the mean account
+  placed 14 pixels and the top one 545. In 2023, 17% of actions came from
+  accounts exceeding the cap.
+- **Scale costs.** Larger coalitions have a higher share of
+  repaint-same-colour actions and lower median activity per member. The
+  cost falls across editions as external tooling spreads.
+- **Consolidation and unpredictability (2017).** Recovered coalition sizes
+  shift toward large over the event. Survival is predicted at F1 0.09 in
+  the first 48 hours and 0.67 later from four state features.
+- **Persistence under fire.** Illustrated successful coalitions work
+  against overwriting throughout. Some failures look like successes until
+  a late collapse.
+
+## Why this is here
+
+Registered for the r/place case ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)): it could supply the units,
+the artworks, whose maintenance [CLAIM-tmpjhd7t](../claims.d/CLAIM-tmpjhd7t.md) is about. It does. Its
+recovered coalitions are behavioural units for artworks over time, failed
+ones included, and its lifecycles show persistence under continual
+overwriting ([THEORY-tmp7w5tq](../theory.d/THEORY-tmp7w5tq.md)). The evidence for that is ten illustrated
+cases, and the coalitions are validated only against final artworks. The
+filing summary was close. The paper does not cluster 2022 and 2023, only
+2017, and what it relates to lasting or failing is coalition state, not
+"factors" in general. Read with Falmagne et al. ([LIT-tmp92m28](LIT-tmp92m28.md)), it suggests
+that imminent overthrows are predictable from fine dynamics while final
+survival is not predictable early from coarse features. Its Table 1 entries
+for 2022 participants (108 million) and the 2017 duration (89 hours)
+conflict with other sources and with its own text, and are not relied on.
