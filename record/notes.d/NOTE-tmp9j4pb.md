@@ -2,7 +2,7 @@
 status: Skimmed
 paper: LIT-978
 title: 'Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalization'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -16,6 +16,14 @@ history:
     term by term. Appendices A.2–A.4 were skimmed and the reference list
     scanned. Nothing in the review was checked against the papers it
     reviews, except Han et al., which is read in its own NOTE the same day.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Kornblith et al. (2021), reported here second-hand and called unheld,
+    was filed the same day as LIT-tmpuf3sf and read in full in
+    NOTE-tmp6f398. Parenthetical pointers are added to the two Bearing
+    bullets and the open question that name it; the reading above is
+    otherwise unchanged.
 date: '2026-10-14'
 summary: >-
   A survey, not a source of results. It sorts accounts of neural collapse
@@ -136,7 +144,9 @@ first author. Thrampoulidis et al. ([LIT-994](../literature.d/LIT-994.md)) post-
   second half it reports evidence the record does not hold: more collapse
   on ImageNet goes with worse transfer (Kornblith et al. 2021). That is a
   direct measurement of what collapse costs for other distributions. It
-  would be worth registering for [QUESTION-051](../questions.d/QUESTION-051.md) in its own right.
+  would be worth registering for [QUESTION-051](../questions.d/QUESTION-051.md) in its own right. (It
+  has since been filed as [LIT-tmpuf3sf](../literature.d/LIT-tmpuf3sf.md) and read in [NOTE-tmp6f398](NOTE-tmp6f398.md); see
+  the version 2 history note.)
 - **[THEORY-083](../theory.d/THEORY-083.md).** Its summary says "the dynamics are unexplained". That
   is true of [LIT-618](../literature.d/LIT-618.md) itself. As a description of the field it is out of
   date: the review lists gradient-flow and landscape results, all in the
@@ -145,7 +155,9 @@ first author. Thrampoulidis et al. ([LIT-994](../literature.d/LIT-994.md)) post-
   derivations the record now holds.
 - **[THEORY-104](../theory.d/THEORY-104.md).** Kornblith et al.'s transfer result, as reported here, is
   the same direction as [THEORY-104](../theory.d/THEORY-104.md)'s mechanism: more collapse at the top,
-  worse readout off-distribution. It is second-hand here.
+  worse readout off-distribution. It is second-hand here. (Read in full
+  in [NOTE-tmp6f398](NOTE-tmp6f398.md), the paper is narrower: new-class transfer across
+  losses at one layer, not same-class shift across depth.)
 - **[THEORY-213](../theory.d/THEORY-213.md).** The review mentions "rank collapse" (Martin & Mahoney)
   as an unexplored connection. It does not bear on the symmetry account.
 - No instruction for machine-learning practice is relied on. The review
@@ -167,4 +179,6 @@ first author. Thrampoulidis et al. ([LIT-994](../literature.d/LIT-994.md)) post-
 - Whether collapse measured on training data says anything about test
   error. The review shows the published bounds and measurements disagree.
 - Whether more collapse costs transfer generally, or only under the shift
-  between ImageNet and the downstream sets Kornblith et al. used.
+  between ImageNet and the downstream sets Kornblith et al. used. (The full paper, [NOTE-tmp6f398](NOTE-tmp6f398.md), measures new-class transfer only;
+  for the same classes under shift its more separated losses do slightly
+  better.)

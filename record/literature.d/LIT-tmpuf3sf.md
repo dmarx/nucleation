@@ -1,0 +1,113 @@
+---
+status: Active
+status_note: 'read 2026-10-14 ([NOTE-tmp6f398](../notes.d/NOTE-tmp6f398.md)) in full; worth reading as the record''s one direct measurement of what class separation in the last layers costs off the trained task. Across nine objectives for ResNet-50 on ImageNet, those that beat softmax cross-entropy all raise penultimate-layer class separation (R² 0.349 → up to 0.845), and mean linear transfer to eight new-class datasets falls with it (Spearman ρ = −0.93; 75.9% for softmax, 48.3% for squared error). Cosine-softmax temperature moves both on one knob. The losses differ only in the last third of the network, and full fine-tuning erases the transfer gap. Read it knowing that the networks are early-stopped at 91.6–93.6% training accuracy, so this is relative within-class variance and not terminal-phase neural collapse; that the cost is for new classes, while on shifted ImageNet test sets with the same classes the more separated losses do slightly better (Table C.2); and that it is one dataset, two architectures and a correlation across losses, with one within-loss sweep. Filed as [THEORY-tmp7kkpe](../theory.d/THEORY-tmp7kkpe.md).'
+title: 'Why Do Better Loss Functions Lead to Less Transferable Features?'
+version: 2
+history:
+- version: 1
+  date: '2026-10-14'
+  note: >-
+    Filed at the owner's request for QUESTION-051 (its second half: what
+    collapse costs off the trained task) and THEORY-104, which held the
+    result only second-hand through the review LIT-978. Citation checked
+    against the arXiv API on 2026-10-14: Simon Kornblith, Ting Chen, Honglak
+    Lee, Mohammad Norouzi, arXiv:2010.16402, v1 submitted 2020-10-30, which
+    is the `published:` date; the arXiv comment and the PDF give the venue
+    as NeurIPS 2021. Not held in the Anthology of the SOTA: a grep of its
+    record/ (clone of 2026-10-14, commit d1573d2) for the identifier, the
+    title and "Kornblith" found only author-list mentions in two other
+    works (ANTH-LIT-674, ANTH-LIT-675). It is about ML transfer, so it
+    carries `anthology-candidate` (ADR-005).
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Read in full (NOTE-tmp6f398) from the arXiv PDF, v2 of 3 November 2021
+    (the NeurIPS 2021 version, 33 pages), text extracted with pdftotext,
+    plain and -layout: the main text (§§1–6) and Appendices A–F. Status set
+    to Active, takeaways and a Standing section written from the reading,
+    and THEORY-tmp7kkpe filed from it.
+tags:
+- representation-learning
+- learning-theory
+- anthology-candidate
+date: '2026-10-14'
+published: '2020-10-30'
+arxiv: '2010.16402'
+first_author: 'Kornblith'
+keywords:
+- 'transfer learning'
+- 'loss functions'
+- 'class separation'
+- 'centered kernel alignment'
+- 'fixed feature extractors'
+- 'neural collapse'
+implementations: []
+summary: >-
+  Kornblith, Chen, Lee & Norouzi (2020; NeurIPS 2021). Nine training
+  objectives for ResNet-50 on ImageNet: seven beat softmax cross-entropy
+  significantly, by up to 0.9 points top-1, and all eight alternatives
+  yield fixed
+  penultimate features that transfer worse to eight new-class datasets,
+  by linear and k-NN readout. Each raises penultimate-layer class
+  separation R² (one minus within-class over total cosine distance), and
+  mean linear transfer falls with R² across losses (Spearman ρ = −0.93)
+  and along a cosine-softmax temperature sweep. The losses differ only in
+  the last third of the network, and full fine-tuning removes the gap.
+---
+<!-- inactive-ok-file: THEORY-tmp7kkpe THEORY-104 THEORY-083 — Proposed; the account filed from this reading, and the layer-wise account and the statement of collapse it bears on -->
+
+# LIT-tmpuf3sf: Why Do Better Loss Functions Lead to Less Transferable Features?
+
+Simon Kornblith, Ting Chen, Honglak Lee, Mohammad Norouzi (2020),
+*NeurIPS 2021; arXiv:2010.16402*.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp6f398](../notes.d/NOTE-tmp6f398.md).*
+
+- **Better on ImageNet, worse as fixed features (Table 1).** Seven
+  objectives beat softmax cross-entropy's 77.0% top-1 significantly (label smoothing,
+  sigmoid, extra final-layer L2, penultimate dropout, logit penalty,
+  logit normalization, cosine softmax; squared error ties at 77.2%). On
+  eight new-class datasets their penultimate features are worse by
+  linear and k-NN readout. Mean linear transfer is 75.9% for softmax,
+  65.8% for cosine softmax and 48.3% for squared error.
+- **Class separation tracks the cost (§3.3–3.4).** R² = 1 − d̄_within/d̄_total
+  in cosine distance, on the ImageNet training set, is 0.349 for softmax
+  and 0.420–0.845 for the rest (Table 3). Across losses it rank-correlates
+  with mean linear transfer at ρ = −0.93 (p = 0.002). Collapse in
+  Papyan's metric, Tr(Σ_W Σ_B†)/C, runs from 21.2 for softmax to 0.33 for
+  squared error (Table E.2).
+- **One knob moves both (Table 4).** Cosine-softmax temperature τ from 0.01
+  to 0.08 raises R² from 0.236 to 0.770 and lowers mean linear transfer
+  from 76.0% to 58.9%. Top-1 saturates at 77.5–77.6% from τ = 0.03.
+- **Same classes, the other way (Figure 6, Table C.2, Appendix F).**
+  Relearning the 1000 ImageNet classes from 40,000 held-out images, more
+  separated features do better. Oxford Pets, with 25 of 37 classes in
+  ImageNet, is the one dataset where they tie or win. On ImageNet-V2, -A,
+  -Sketch, -R and -C, alternative losses are slightly better than softmax.
+- **Only the last layers differ (§3.2).** CKA between networks trained
+  with different losses is high up to about block 13 of 16 and diverges
+  after. Fine-tuning changes exactly those layers, and fine-tuned transfer
+  is flat across losses (Table 2: 85.1–86.4% mean).
+- **Separation is not needed for accuracy.** AutoAugment adds 0.4–0.7
+  points without raising R² (Table E.3).
+- **Regime.** ResNet-50 (and Inception v3, Table B.1), ImageNet only,
+  early-stopped at 91.6–93.6% training accuracy (Table C.1), not trained
+  to zero error.
+
+## Standing in the record
+
+Filed on 2026-10-14 at the owner's request for [QUESTION-051](../questions.d/QUESTION-051.md) and
+[THEORY-104](../theory.d/THEORY-104.md), and read the same day in [NOTE-tmp6f398](../notes.d/NOTE-tmp6f398.md). Until now the record
+held this result only as reported in the neural-collapse review [LIT-978](LIT-978.md).
+The reading narrows that report in two ways. The networks are not in the
+terminal phase, so the measured quantity is relative within-class
+variance, of which [THEORY-083](../theory.d/THEORY-083.md)'s collapse is the limit. And "transfer
+worse" holds for new classes; for the same classes under input shift the
+more separated losses are slightly better. It is held as the measured
+cost for [QUESTION-051](../questions.d/QUESTION-051.md)'s second half, filed as [THEORY-tmp7kkpe](../theory.d/THEORY-tmp7kkpe.md) at that
+strength. It does not test [THEORY-104](../theory.d/THEORY-104.md), which compares layers of one
+network under a same-class shift; it compares losses at one layer, on new
+classes. The anthology does not hold it; it is about ML transfer and
+carries the candidate flag.
