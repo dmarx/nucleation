@@ -6,10 +6,11 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-3 of 52 TERM documents. Back to the [full index](../README.md).
+4 of 54 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-021](../../../record/terms.d/TERM-021.md) | fidelity, as context-indexed distribution matching | A24: D(τ) = Σ_C w_C d(e_C^source, e_τ(C)^target), the weighted distance between judgement distributions in corresponding contexts. The origin of the manuscript's L_obs (§6). | Active |
 | [TERM-024](../../../record/terms.d/TERM-024.md) v3 | noncommutativity, of events and of operations | A30's disambiguation: noncommuting events or projectors (P_A P_B ≠ P_B P_A), which rule out a joint distribution for sharp measurements, versus noncommuting operations on probability states, which classical stochastic maps also show. | Active |
 | [TERM-033](../../../record/terms.d/TERM-033.md) | fidelity, as observational equivalence over response trajectories | A35 §8 and A39 §5.3: two systems are faithful when corresponding intervention sequences yield matching distributions of observed responses, P_o(Y_1:k \| a_1:k) ≈ P_t(Y'_1:k \| a'_1:k), with no shared latent state required. Put "at the center of the formal theory" at A39. | Active — by [TERM-015](../../../record/terms.d/TERM-015.md) |
+| [TERM-054](../../../record/terms.d/TERM-054.md) | canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents | The owner's proposal: treat unaffiliated participation on r/place as a property of the canvas, a noise field T(x, t) that corrupts any pattern left unmaintained, instead of as a population of operators. That makes the need for maintenance explicit. T falls over the event as uninvested participants leave. Which placements count as unaffiliated is relative to the plans in play, so the field is defined against a set of plans. | Active |

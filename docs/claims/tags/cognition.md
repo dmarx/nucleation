@@ -6,7 +6,7 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-4 of 271 CLAIM documents. Back to the [full index](../README.md).
+5 of 288 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [CLAIM-066](../../../record/claims.d/CLAIM-066.md) | Kirby, Cornish and Smith show structure emerging under transmission with an experimenter's filter, not filtering by measured inductive biases, and Griffiths and Kalish's convergence to the prior holds only for sampling learners | From the readings of Griffiths and Kalish ([NOTE-599](../../../record/notes.d/NOTE-599.md)) and Kirby, Cornish and Smith ([NOTE-596](../../../record/notes.d/NOTE-596.md), Skimmed). The manuscript cites them as showing one thing; they show different things. | Active |
 | [CLAIM-068](../../../record/claims.d/CLAIM-068.md) | Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission | A50 §3 and §6, A52 §5.5 and §7.4–7.5, recovered. The manuscript keeps the stable conventional endpoint and one stance-drift example, but not attraction, selection pressures or the extension of iterated learning to footing. Apparently dropped by inadvertence. | Proposed |
 | [CLAIM-090](../../../record/claims.d/CLAIM-090.md) | Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable | The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby, Cornish and Smith together as showing the same thing. [CLAIM-066](../../../record/claims.d/CLAIM-066.md) separates what each shows. | Proposed |
+| [CLAIM-275](../../../record/claims.d/CLAIM-275.md) | An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others | A4 §6, on the record's two accounts of emotion, Frijda's appraisal upstream of action readiness and Barrett's construction, and the owner's two replies at U5: "yes, exactly" to "meaning, policy, and influence can co-evolve", and "so much yes" to "An operator may act not because it already possesses an interpretation, but because its intervention creates the conditions under which a particular interpretation becomes available." The first filing left both out. It does not say interpretation never comes first. | Proposed |

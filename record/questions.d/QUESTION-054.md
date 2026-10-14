@@ -23,7 +23,7 @@ answered_by:
 - THEORY-062
 - THEORY-153
 ---
-<!-- inactive-ok-file: CLAIM-tmpxuigm — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-054: Is there a governing level among an agent's regimes, a system that specifies control apart from the systems that carry it out, or is governance the interaction of the regimes themselves?
 
@@ -63,12 +63,12 @@ The THEORYs this question cites now carry `answered_by` edges. [THEORY-056](../t
 
 The exchange of 2026-10-13 built a model in which governance is the
 interaction of the processes themselves. Each process endorses others,
-and authority is computed from the endorsements ([CLAIM-tmpxuigm](../claims.d/CLAIM-tmpxuigm.md)). A4 took
+and authority is computed from the endorsements ([CLAIM-285](../claims.d/CLAIM-285.md)). A4 took
 it as Daw, Niv and Dayan's arbitration ([THEORY-062](../theory.d/THEORY-062.md)) generalized "from two
 controllers to a population", and as Frijda's one motive checking another
 ([THEORY-056](../theory.d/THEORY-056.md)). The residue is the aggregation rule. Keeping processes from
 controlling their own authority needs a rule that no process controls
-([CLAIM-tmppy0ey](../claims.d/CLAIM-tmppy0ey.md)). A3 §8: "operators may propose endorsement changes, but
+([CLAIM-282](../claims.d/CLAIM-282.md)). A3 §8: "operators may propose endorsement changes, but
 their proposals should not give them unilateral control over their own
 authority. A separate aggregation rule enforces the constraint." Whether
 that rule is a governing level in this question's sense is open. Workbench

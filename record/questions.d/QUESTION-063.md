@@ -20,7 +20,7 @@ summary: >-
   [CLAIM-172](../claims.d/CLAIM-172.md), [CLAIM-167](../claims.d/CLAIM-167.md) and [CLAIM-158](../claims.d/CLAIM-158.md). [THEORY-129](../theory.d/THEORY-129.md) and [THEORY-130](../theory.d/THEORY-130.md) answer it
   in part; the body gives each one's limit.
 refined_by:
-- QUESTION-tmpeqxa9
+- QUESTION-084
 ---
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement tells which architecture produced it?

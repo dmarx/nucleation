@@ -23,7 +23,7 @@ uses:
 - TERM-020
 supports:
 - ARG-007
-- CLAIM-tmpspyay
+- CLAIM-284
 illustrated_by:
 - CASE-036
 - CASE-075

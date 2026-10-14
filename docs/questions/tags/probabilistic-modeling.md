@@ -6,9 +6,10 @@
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 
-2 of 82 QUESTION documents. Back to the [full index](../README.md).
+3 of 94 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-012](../../../record/questions.d/QUESTION-012.md) | When does reconstruction through an intermediate image preserve or degrade observational structure relative to direct text-to-text reconstruction? | Proposal v6's Result 5 (A100), "especially interesting as a proposition that connects the formal theory to a novel empirical setting". Dropped from the manuscript, which keeps the text→image→caption chain as Case III but states no result about composition through a medium. | Open |
 | [QUESTION-018](../../../record/questions.d/QUESTION-018.md) | When a generator receives several conditions, what determines whether it preserves their conjunction and relational bindings? | The fourth of the five central questions (A110 §IX). The manuscript states the failure (§7) and its benchmarks (§10) but not the question. | Open |
+| [QUESTION-091](../../../record/questions.d/QUESTION-091.md) | Does the allocation of influence among an organization's processes regulate how far cascades of activity propagate, holding different subsystems at different distances from criticality, as a branching ratio would show? | The owner proposed Hawkes processes at U6. A6 turned them into a hypothesis: "the influence canvas dynamically regulates the branching structure". The record had no point-process material. Of the three sources registered, only Brémaud and Massoulié could be read. A Hawkes network supplies a coupling, its kernels, which [CLAIM-163](../../../record/claims.d/CLAIM-163.md) found missing from talk of "synchronization". Its spectral radius is a control parameter and, outside the linear excitatory case, only a sufficient bound, not an order parameter (see the note of 2026-10-13). | Open |

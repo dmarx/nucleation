@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [13 Oct 21:29 — Fifteen works registered unread from the exchange on meaning operators and selfhood](2026-10.md#fifteen-works-registered-unread-from-the-exchange-on-meaning-operators-and-selfhood)
 - [13 Oct 17:34 — Six of the ten works read the same day; the readings correct three of the filings](2026-10.md#six-of-the-ten-works-read-the-same-day-the-readings-correct-three-of-the-filings)
 - [13 Oct 17:01 — Ten works the Mathematics of Meaning survey pointed to, filed unread](2026-10.md#ten-works-the-mathematics-of-meaning-survey-pointed-to-filed-unread)
 - [13 Oct 03:13 — Kunin et al., held in both records](2026-10.md#kunin-et-al-held-in-both-records)
@@ -58,9 +59,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-96 entries across 2 books, newest first.
+97 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 49 | 2026-10-01 | 2026-10-13 |
+| [2026-10](2026-10.md) | 50 | 2026-10-01 | 2026-10-13 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

@@ -22,7 +22,7 @@ answers:
 complements:
 - CLAIM-160
 - CLAIM-151
-- CLAIM-tmpbkp1k
+- CLAIM-275
 summary: >-
   From the interlocutor's reading of PR [#121](https://github.com/dmarx/nucleation/issues/121) and its reconciliation,
   relayed by the owner on 2026-10-12, on the first open tension ([CLAIM-160](CLAIM-160.md)

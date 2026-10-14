@@ -14,7 +14,7 @@ refines:
 - QUESTION-035
 answered_by:
 - THEORY-060
-- CLAIM-tmpzkkx2
+- CLAIM-287
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-161](../claims.d/CLAIM-161.md) and [CLAIM-152](../claims.d/CLAIM-152.md).

@@ -28,7 +28,7 @@ illustrates:
 - CLAIM-122
 - CLAIM-261
 supports:
-- CLAIM-tmp2cza3
+- CLAIM-272
 ---
 
 # CASE-074: Twitch Plays Pokémon in democracy mode, with the running tally shown while the votes come in

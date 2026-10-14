@@ -6,10 +6,11 @@
 
 **Social ontology** — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
 
-3 of 52 TERM documents. Back to the [full index](../README.md).
+4 of 54 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-006](../../../record/terms.d/TERM-006.md) | organizational authenticity | A graded property: how far an agent's operative commitments arise through, remain integrated with, and are answerable to its own constitutive organization (A252). Set aside with its line on 2026-10-05. | Deferred |
 | [TERM-038](../../../record/terms.d/TERM-038.md) | descriptive, causal and constitutive relations of a communicative act | A three-way distinction drawn by the assistant at A191 §11: relations that are observed, relations that say what would happen under changed conditions, and relations that make an act the kind of act it is. It recurs at A203 §16 and A218 §2, and A191 §4 pairs it with three kinds of identification. None of the three entails the next. | Active |
 | [TERM-040](../../../record/terms.d/TERM-040.md) v2 | communicative kind, as a repeatable relational organization that numerically distinct events realize, distinct from a token and from a structural position | A repeatable organization of relations among participants, norms, commitments and expected responses, which numerically distinct events (an utterance, its translation, a picture of it) can each realize. It recurs from A191 through A218, and it replaced "communicative object" in A218, which never uses the older phrase. A218 gives it no formal definition. | Active |
+| [TERM-053](../../../record/terms.d/TERM-053.md) | endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case | The owner's "vote" at U2, generalized at A5 §7 to an effective causal relation. Process i endorses process j in region x to the extent that an intervention of i raises j's chance of acquiring influence there. Opposition is negative endorsement. Attending to j's output, keeping it active, passing it resources and suppressing its rivals are all endorsement. The term is about authority among processes. It is not Frankfurt's identification with a desire. | Active |

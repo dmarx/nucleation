@@ -18,7 +18,7 @@ summary: >-
   and [CLAIM-174](../claims.d/CLAIM-174.md). [THEORY-048](../theory.d/THEORY-048.md) answers it in part; the body gives each one's
   limit.
 refined_by:
-- QUESTION-tmpkkobi
+- QUESTION-088
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

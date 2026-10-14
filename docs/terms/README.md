@@ -18,11 +18,11 @@ this directory, then run `luria index`.
 
 **[Network science](tags/network-science.md)** (0) — the structure and dynamics of networks — dimension, curvature and Ricci flow, community detection, consensus and synchronization.
 
-**[Complex systems](tags/complex-systems.md)** (5) — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts:
-[003](../../record/terms.d/TERM-003.md) · [020](../../record/terms.d/TERM-020.md) · [046](../../record/terms.d/TERM-046.md) · [049](../../record/terms.d/TERM-049.md) · [051](../../record/terms.d/TERM-051.md)
+**[Complex systems](tags/complex-systems.md)** (6) — emergence, information decomposition, individuality, self-organization — how collective behaviour arises from parts:
+[003](../../record/terms.d/TERM-003.md) · [020](../../record/terms.d/TERM-020.md) · [046](../../record/terms.d/TERM-046.md) · [049](../../record/terms.d/TERM-049.md) · [051](../../record/terms.d/TERM-051.md) · [054](../../record/terms.d/TERM-054.md)
 
-**[Probabilistic modeling](tags/probabilistic-modeling.md)** (3) — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers:
-[021](../../record/terms.d/TERM-021.md) · [024](../../record/terms.d/TERM-024.md) · [033](../../record/terms.d/TERM-033.md)
+**[Probabilistic modeling](tags/probabilistic-modeling.md)** (4) — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers:
+[021](../../record/terms.d/TERM-021.md) · [024](../../record/terms.d/TERM-024.md) · [033](../../record/terms.d/TERM-033.md) · [054](../../record/terms.d/TERM-054.md)
 
 **[Neuroscience](tags/neuroscience.md)** (0) — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
@@ -90,13 +90,13 @@ this directory, then run `luria index`.
 
 **[Narrative unity](tags/narrative-unity.md)** (0) — the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024).
 
-**[Self-governance](tags/self-governance.md)** (5) — governing oneself by standards that are one's own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024):
-[006](../../record/terms.d/TERM-006.md) · [012](../../record/terms.d/TERM-012.md) · [023](../../record/terms.d/TERM-023.md) · [047](../../record/terms.d/TERM-047.md) · [048](../../record/terms.d/TERM-048.md)
+**[Self-governance](tags/self-governance.md)** (6) — governing oneself by standards that are one's own — identification and wholeheartedness, planning agency and policies, self-constitution, autonomy and authenticity, and the empirical psychology of self-endorsed motives. One of four unities kept apart (group: philosophy; ADR-024):
+[006](../../record/terms.d/TERM-006.md) · [012](../../record/terms.d/TERM-012.md) · [023](../../record/terms.d/TERM-023.md) · [047](../../record/terms.d/TERM-047.md) · [048](../../record/terms.d/TERM-048.md) · [053](../../record/terms.d/TERM-053.md)
 
 **[Phenomenology](tags/phenomenology.md)** (0) — the first-person description of experience as a method — the philosophical tradition (Husserl, Heidegger, Merleau-Ponty), its use in the sciences of mind, and the theories that take their data from it (group: philosophy; ADR-016).
 
-**[Social ontology](tags/social-ontology.md)** (3) — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017):
-[006](../../record/terms.d/TERM-006.md) · [038](../../record/terms.d/TERM-038.md) · [040](../../record/terms.d/TERM-040.md)
+**[Social ontology](tags/social-ontology.md)** (4) — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017):
+[006](../../record/terms.d/TERM-006.md) · [038](../../record/terms.d/TERM-038.md) · [040](../../record/terms.d/TERM-040.md) · [053](../../record/terms.d/TERM-053.md)
 
 **[Moral psychology](tags/moral-psychology.md)** (0) — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
@@ -151,9 +151,9 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [Active](status/Active.md) (40) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (42) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (5) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36) · [Nucleating an argument](line/nucleating-argument.md) (1) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0) · [Formal apparatus](line/formal-apparatus.md) (0)
+**By line:** [Distributed agency](line/distributed-agency.md) (7) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36) · [Nucleating an argument](line/nucleating-argument.md) (1) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0) · [Formal apparatus](line/formal-apparatus.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -219,4 +219,6 @@ What the status column means in this scheme — the words are luria's, the meani
 | [TERM-050](../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |
 | [TERM-051](../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
 | [TERM-052](../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
+| [TERM-053](../../record/terms.d/TERM-053.md) | endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case | The owner's "vote" at U2, generalized at A5 §7 to an effective causal relation. Process i endorses process j in region x to the extent that an intervention of i raises j's chance of acquiring influence there. Opposition is negative endorsement. Attending to j's output, keeping it active, passing it resources and suppressing its rivals are all endorsement. The term is about authority among processes. It is not Frankfurt's identification with a desire. | Active |
+| [TERM-054](../../record/terms.d/TERM-054.md) | canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents | The owner's proposal: treat unaffiliated participation on r/place as a property of the canvas, a noise field T(x, t) that corrupts any pattern left unmaintained, instead of as a population of operators. That makes the need for maintenance explicit. T falls over the event as uninvested participants leave. Which placements count as unaffiliated is relative to the plans in play, so the field is defined against a set of plans. | Active |
 

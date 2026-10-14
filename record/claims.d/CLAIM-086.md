@@ -28,9 +28,9 @@ summary: >-
   two independent lines of support: the historical analogy and the
   constructed Northstar case. The audit's "strong conceptual refinement".
 complements:
-- CLAIM-tmp2cza3
+- CLAIM-272
 grounds:
-- THEORY-tmpvvsbc
+- THEORY-223
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
 
@@ -58,5 +58,5 @@ responsibilities." A5 added one thing this claim does not say: the split is
 orthogonal to scope. "Either can be local or global." Its example was
 "constitutive authority over a tiny region—for instance, determining which
 processes are allowed to update a particular memory". The r/place template
-designer ([CASE-tmpd83bj](../cases.d/CASE-tmpd83bj.md)) is a case of the governing kind with almost no
+designer ([CASE-079](../cases.d/CASE-079.md)) is a case of the governing kind with almost no
 direct share of the canvas. Workbench entry of 2026-10-13, 21:29.

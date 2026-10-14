@@ -4,7 +4,7 @@
 
 **Active** — in force — the current answer, and what a citation should normally point at.
 
-40 of 52 TERM documents. Back to the [full index](../README.md).
+42 of 54 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -48,3 +48,5 @@
 | [TERM-050](../../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |
 | [TERM-051](../../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
 | [TERM-052](../../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
+| [TERM-053](../../../record/terms.d/TERM-053.md) | endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case | The owner's "vote" at U2, generalized at A5 §7 to an effective causal relation. Process i endorses process j in region x to the extent that an intervention of i raises j's chance of acquiring influence there. Opposition is negative endorsement. Attending to j's output, keeping it active, passing it resources and suppressing its rivals are all endorsement. The term is about authority among processes. It is not Frankfurt's identification with a desire. | Active |
+| [TERM-054](../../../record/terms.d/TERM-054.md) | canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents | The owner's proposal: treat unaffiliated participation on r/place as a property of the canvas, a noise field T(x, t) that corrupts any pattern left unmaintained, instead of as a population of operators. That makes the need for maintenance explicit. T falls over the event as uninvested participants leave. Which placements count as unaffiliated is relative to the plans in play, so the field is defined against a set of plans. | Active |
