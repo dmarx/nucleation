@@ -1,16 +1,23 @@
 ---
 number: 224
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpamfos
 paper: LIT-256
+superseded_by:
+- NOTE-tmp8mfe9
 title: 'Belghazi et al., MINE'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp8mfe9, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Mutual information is stated measure-theoretically as the expectation under the joint of log dP_XZ/d(P_X⊗P_Z), and its Donsker–Varadhan dual is tight exactly at T* = log dP/dQ + C, so a neural critic trained on the dual is a log Radon–Nikodym-derivative estimator.
 ---
-<!-- inactive-ok-file: LIT-256 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-224: Belghazi et al., MINE
 
