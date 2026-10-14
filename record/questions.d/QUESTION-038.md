@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpw6fmc
 title: 'What turns a structure that persists into an anchor that later structure can be built on?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-787 (NOTE-tmpzvsw5). A note cites Ashby's
+    Chapters 10–11 as a direct ancestor, with his isolation-by-constancies
+    condition and his situation-keyed access, and THEORY-tmp9yigf and
+    THEORY-tmpxwn52. The question stays open.
 tags:
 - design-rationale
 - epistemology
@@ -24,6 +32,7 @@ answered_by:
 refined_by:
 - QUESTION-064
 ---
+<!-- inactive-ok-file: THEORY-tmp9yigf THEORY-tmpxwn52 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # QUESTION-038: What turns a structure that persists into an anchor that later structure can be built on?
@@ -50,3 +59,17 @@ What would count as an answer: a case where a structure had one or two of
 these and was still not built on, which would show what the missing one
 contributes. A measure would also help. Inbound references per code tell
 an anchor from a structure that only persists.
+
+## Note of 2026-10-14: Ashby's answer
+
+Ashby ([LIT-787](../literature.d/LIT-787.md), read in [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md); [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), [THEORY-tmpxwn52](../theory.d/THEORY-tmpxwn52.md))
+is a direct ancestor of the owner's statement, down to the crystal
+(Ch. 11). His condition for a kept structure to stay kept is isolation: a
+retained part must be cut off by constancies from what is still changing
+(Ss. 11/10, 12/17). His condition for it to be usable again is access: a
+store closed to new trials and re-opened when its own situation recurs
+(Ss. 10/8–10/9). In record terms, an entry that new filing cannot
+overwrite, and a way to reach it by its situation. That is a fourth
+candidate beside the three above, or a sharper form of stable identity
+and discoverability together. It is analogy, and does not answer the
+question.

@@ -16,7 +16,14 @@ promote_when: >-
   accuracies of regularizers built from the bound, such as CDVIB, since a
   better regularizer does not show that the bound holds or is tight.
 title: "The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder, and the bound stays finite for deterministic continuous encoders under lossy compression"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    LIT-240 is now Unavailable, not Deferred (its status change of
+    2026-10-14, under ADR-041); the inactive-ok comment says so. Nothing
+    else changed.
 tags:
 - learning-theory
 - information-theory
@@ -35,7 +42,7 @@ summary: >-
   unseen ghost data, and a 2√((K+2)/n) floor remains. It does not prove that
   I(X;U) cannot bound generalization.
 ---
-<!-- inactive-ok-file: THEORY-035 LIT-240 — Rejected or Deferred; the account this one sits beside, and the IB bound it argues against, cited for context -->
+<!-- inactive-ok-file: THEORY-035 LIT-240 — Rejected or Unavailable; the account this one sits beside, and the IB bound it argues against, cited for context -->
 
 # THEORY-238: The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder, and the bound stays finite for deterministic continuous encoders under lossy compression
 

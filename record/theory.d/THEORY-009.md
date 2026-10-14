@@ -17,7 +17,7 @@ promote_when: >-
   X ≠ A, but asymmetric objectives such as BYOL and SimSiam are named,
   not analysed. None meets it.
 title: 'Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -43,6 +43,18 @@ history:
     composing the conditional-expectation operator with its adjoint, not
     from symmetry of the pair, and the multi-view case is a special case
     of that. promote_when is not met.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After close readings of LIT-252 (NOTE-tmp5aqd2), LIT-260
+    (NOTE-tmpgvy79) and LIT-261 (NOTE-tmpe7ywm). The summary no longer
+    groups SpIN with the positive-pair distribution: there symmetry is a
+    precondition on k, which puts it nearer Simon et al. "Riesz is what
+    makes a kernel mean embedding exist" now reads that the review obtains
+    it by Riesz; a Bochner integral also works. The eqs. 18–24 reading of
+    LIT-261 is confirmed and its account, THEORY-tmpiw6t1, cited. The
+    Deferred comments on LIT-252, LIT-260 and LIT-261 removed.
+    promote_when is not met.
 tags:
 - representation-learning
 - mathematics
@@ -58,7 +70,8 @@ summary: >-
   An inference from how the spectral SSL papers ([LIT-258](../literature.d/LIT-258.md), [LIT-249](../literature.d/LIT-249.md),
   [LIT-252](../literature.d/LIT-252.md), [LIT-242](../literature.d/LIT-242.md)) obtain their eigenbases: each uses a symmetric pair
   matrix or kernel, and none invokes Riesz. In all but Simon et al., whose
-  loss is symmetrized by hand, that symmetry is the symmetry of the
+  loss is symmetrized by hand, and Pfau et al., whose SpIN takes symmetry
+  as a precondition on the kernel k, that symmetry is the symmetry of the
   positive-pair distribution. Answers the owner's "do we even need Riesz?"
   for this family of results.
 extends:
@@ -66,10 +79,8 @@ extends:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: LIT-261 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
-<!-- inactive-ok-file: LIT-260 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: THEORY-tmp1iy33 — Proposed; the account filed from LIT-975, cited for the mechanism it sharpens, not leaned on -->
-<!-- inactive-ok-file: LIT-252 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: THEORY-tmpiw6t1 — Proposed; the representer-theorem account filed from LIT-261, cited as a parallel case, not leaned on -->
 
 # THEORY-009: Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
 
@@ -79,13 +90,13 @@ Johnson, El Hanchi & Maddison (2023), [LIT-258](../literature.d/LIT-258.md), App
 
 ## What was actually shown
 
-Every spectral result in these papers rests on a symmetric operator. Johnson et al. use the symmetry of P_(A,A) to make D^(−½)P D^(−½) orthogonally diagonalizable, which yields the orthonormality all their theorems use (App. C). They call M "the symmetric matrix" without argument; it is symmetric, and positive semidefinite, because the proof of Thm 3.2 writes it as a Gram matrix BᵀB, which holds because both views are drawn independently from the same p(A|Z). HaoChen et al. apply the spectral theorem to a square-integrable kernel k(u,v) = w(u,v)/√(w(u)w(v)) (App. F). They never write "symmetric": the symmetry follows from w(u,v) = w(v,u), which holds because both views come from the same A(·|x̄), and they use it throughout the finite case as well. Pfau et al. note that reversible dynamics make "the transition function … a symmetric operator" (§5.2). Simon et al. symmetrize by hand, Γ = (1/2n)Σ(x_i x_i′ᵀ + x_i′ x_iᵀ) (eq. 4); there the symmetry comes from symmetrizing the loss, not from the pair distribution, and they apply the same Γ to CLIP-like two-tower pairs (§5.2), where there is no single space and no symmetric pair distribution. Neither Johnson et al. nor HaoChen et al. mention Riesz. For finite matrices and integral operators the adjoint is the transpose, written down directly; Riesz is what defines the adjoint of a general bounded operator ([LIT-230](../literature.d/LIT-230.md)).
+Every spectral result in these papers rests on a symmetric operator. Johnson et al. use the symmetry of P_(A,A) to make D^(−½)P D^(−½) orthogonally diagonalizable, which yields the orthonormality all their theorems use (App. C). They call M "the symmetric matrix" without argument; it is symmetric, and positive semidefinite, because the proof of Thm 3.2 writes it as a Gram matrix BᵀB, which holds because both views are drawn independently from the same p(A|Z). HaoChen et al. apply the spectral theorem to a square-integrable kernel k(u,v) = w(u,v)/√(w(u)w(v)) (App. F). They never write "symmetric": the symmetry follows from w(u,v) = w(v,u), which holds because both views come from the same A(·|x̄), and they use it throughout the finite case as well. Pfau et al. note that reversible dynamics make "the transition function … a symmetric operator" (§5.2), but that is an aside no derivation uses: in SpIN symmetry is a precondition placed on the kernel k (§3.2), which puts it nearer Simon et al. than the positive-pair papers. Simon et al. symmetrize by hand, Γ = (1/2n)Σ(x_i x_i′ᵀ + x_i′ x_iᵀ) (eq. 4); there the symmetry comes from symmetrizing the loss, not from the pair distribution, and they apply the same Γ to CLIP-like two-tower pairs (§5.2), where there is no single space and no symmetric pair distribution. Neither Johnson et al. nor HaoChen et al. mention Riesz. For finite matrices and integral operators the adjoint is the transpose, written down directly; Riesz is what defines the adjoint of a general bounded operator ([LIT-230](../literature.d/LIT-230.md)).
 
 **A sharper statement of the mechanism.** Zhai's thesis ([LIT-975](../literature.d/LIT-975.md), read in [NOTE-tmp7o2ar](../notes.d/NOTE-tmp7o2ar.md); [THEORY-tmp1iy33](THEORY-tmp1iy33.md)) obtains every self-adjoint operator by composing the conditional-expectation operator g ↦ E[g(A)|X], which runs between two different spaces and is never assumed symmetric, with its adjoint, given in closed form by Bayes' rule. So self-adjointness comes from that composition, not from the symmetry of the pair. The multi-view case is a special case: there (A, A⁺) is exchangeable because both are drawn from P⁺(·|x), which is the symmetry this account names, seen from the construction side. Riesz is not used here either.
 
-The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof ([LIT-261](../literature.d/LIT-261.md), eqs. 18–24) uses the reproducing property and orthogonal projection, not Riesz.
+The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof ([LIT-261](../literature.d/LIT-261.md), eqs. 18–24; [THEORY-tmpiw6t1](THEORY-tmpiw6t1.md)) uses the reproducing property and orthogonal projection, not Riesz; the word does not occur in the paper.
 
 ## What this does not say
 
-- That Riesz is irrelevant. It is what makes an abstract space of functions with bounded evaluation into an RKHS, and it is what makes a kernel mean embedding exist (see the mean-embedding claim, from Muandet et al., [LIT-260](../literature.d/LIT-260.md), Lemma 3.1).
+- That Riesz is irrelevant. It is what makes an abstract space of functions with bounded evaluation into an RKHS, and the review obtains the kernel mean embedding by Riesz (see the mean-embedding claim, from Muandet et al., [LIT-260](../literature.d/LIT-260.md), Lemma 3.1). A Bochner integral, which the review also uses to define it, gives it too; that second route is the record's inference.
 - What happens for non-reversible pair structures: predictors and stop-gradient (BYOL, SimSiam), directed augmentations, cross-modal pairs. There the natural object would be the singular value decomposition of a non-self-adjoint operator, which needs the adjoint in earnest. No account for an asymmetric objective was found. The nearest is Balestriero & LeCun's Theorem 7 ([LIT-228](../literature.d/LIT-228.md)): in the linear regime Barlow Twins recovers CCA, the singular value decomposition of the non-self-adjoint whitened cross-covariance, and a symmetric pair matrix G is what yields weight sharing; the paper says G's symmetry "is often not required". But the objective is Barlow Twins, not a BYOL-type asymmetric one, and the identification with CCA is asserted rather than derived. In Simon et al.'s two-tower case the symmetric Γ is block off-diagonal in the cross-covariance, so its eigenvalues are ± that matrix's singular values; that reading (the Jordan–Wielandt construction) is the record's, not the paper's.

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpwlhed
 paper: LIT-228
 title: 'Balestriero & LeCun — SSL Recovers Global and Local Spectral Embedding Methods'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -18,6 +18,11 @@ history:
     and the surrounding text. This is the arXiv version; the NeurIPS 2022
     proceedings version was not compared with it. Replaces the seeded
     skim, NOTE-199.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-252 (NOTE-tmp5aqd2): the inactive-ok comments
+    trimmed of codes now Active or Open. The reading is unchanged.
 date: '2026-10-14'
 summary: >-
   On a finite sample with a positive-pair graph G, idealized forms of
@@ -29,8 +34,7 @@ summary: >-
   while VICReg can stay full rank. Several proofs are sketches, and the
   experiments are small and synthetic.
 ---
-<!-- inactive-ok-file: THEORY-007 THEORY-009 QUESTION-052 — Proposed or Open; the theory that cites this paper, the theory it bears on, and the question both answer -->
-<!-- inactive-ok-file: LIT-249 LIT-252 LIT-258 — Deferred; HaoChen et al., Pfau et al. and Johnson et al., named as the accounts this paper parallels -->
+<!-- inactive-ok-file: THEORY-009 — Proposed; the theory this paper bears on -->
 
 # NOTE-752: Balestriero & LeCun — SSL Recovers Global and Local Spectral Embedding Methods
 

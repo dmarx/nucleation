@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpx7mtu
 paper: LIT-250
 title: 'Harvey, Larsen & Williams — Duality of Bures and Shape Distances'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -20,6 +20,12 @@ history:
     were not seen; their content is taken from captions and text.
     Theorem 1 was checked numerically by script (Procrustes and Bures
     distances agree to about 10⁻⁵ on random 200 × 6 data).
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-259 (NOTE-tmp8nk93): the inactive-ok comment
+    for LIT-259 and LIT-254, both now Active, removed. The reading is
+    unchanged.
 date: '2026-10-14'
 summary: >-
   For centred linear kernels K_X = CXXᵀC, the Bures distance equals the
@@ -32,7 +38,6 @@ summary: >-
   limits are heuristic.
 ---
 <!-- inactive-ok-file: THEORY-002 THEORY-004 THEORY-008 CLAIM-193 — Proposed; the theories and claim this reading bears on, open -->
-<!-- inactive-ok-file: LIT-259 LIT-254 — Deferred; named for where the record's GNS reading and the case for orthogonal invariance come from, not leaned on -->
 
 # NOTE-753: Harvey, Larsen & Williams — Duality of Bures and Shape Distances
 

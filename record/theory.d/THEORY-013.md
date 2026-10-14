@@ -10,7 +10,16 @@ promote_when: >-
   contextuality. A CHSH-type violation computed without accounting for unequal
   marginals cannot settle it either way.
 title: 'Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-263 (NOTE-tmpmru91). The physics
+    citation is confirmed for binary cyclic systems, with the review's own
+    framing: Kujala et al.'s models are one noise model among four,
+    Contextuality-by-Default is not named, and behavioural data are not
+    discussed. The Deferred comments on LIT-263 and LIT-264 removed.
 tags:
 - contextuality
 - cognition
@@ -28,8 +37,6 @@ summary: >-
 supports:
 - CLAIM-041
 ---
-<!-- inactive-ok-file: LIT-264 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
-<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 
 # THEORY-013: Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none
 
@@ -39,7 +46,7 @@ Dzhafarov, Zhang & Kujala (2015), [LIT-264](../literature.d/LIT-264.md), §§1�
 
 ## What was actually shown
 
-Contextuality-by-Default gives each object a separate random variable in each context and calls a system noncontextual when some coupling makes those variables coincide as often as each pair's own marginals allow (§1, Eq. 7). With consistent marginals its cyclic criterion reduces to the Leggett–Garg, CHSH and KCBS inequalities (§2). Applied to 73 poll question-order pairs (§3), Schröder-staircase judgements (§4), the Aerts–Gabora–Sozzo animal/sound choices (§5), 23 primed ambiguous word combinations from Bruza et al. (§6) and psychophysical matching (§7), the criterion finds no contextuality, apart from one poll pair the authors discount for multiple comparisons. The reported CHSH violation in §5 assumed consistent marginals; once inconsistent marginals are accounted for, it disappears. The Hilbert-space model of question-order effects predicts noncontextuality (§3). In physics the same criterion still finds KCBS data contextual ([LIT-263](../literature.d/LIT-263.md) §IV.C.5).
+Contextuality-by-Default gives each object a separate random variable in each context and calls a system noncontextual when some coupling makes those variables coincide as often as each pair's own marginals allow (§1, Eq. 7). With consistent marginals its cyclic criterion reduces to the Leggett–Garg, CHSH and KCBS inequalities (§2). Applied to 73 poll question-order pairs (§3), Schröder-staircase judgements (§4), the Aerts–Gabora–Sozzo animal/sound choices (§5), 23 primed ambiguous word combinations from Bruza et al. (§6) and psychophysical matching (§7), the criterion finds no contextuality, apart from one poll pair the authors discount for multiple comparisons. The reported CHSH violation in §5 assumed consistent marginals; once inconsistent marginals are accounted for, it disappears. The Hilbert-space model of question-order effects predicts noncontextuality (§3). In physics the same criterion still finds KCBS data contextual ([LIT-263](../literature.d/LIT-263.md) §IV.C.5). "The same criterion" holds for binary cyclic systems. The review presents Kujala et al.'s maximally noncontextual models as one noise model among four, does not name Contextuality-by-Default, and says nothing about behavioural data ([NOTE-tmpmru91](../notes.d/NOTE-tmpmru91.md)).
 
 ## What this does not say
 

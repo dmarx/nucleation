@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpu0mur
 paper: 'LIT-889'
 title: 'Symmetries and phase diagrams with real-space mutual information neural estimation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -29,6 +29,12 @@ history:
     not read. LIT-878 and NOTE-681 were read first, so this note records
     what the companion adds. The cited optimality theorem (Gordon et al.,
     Phys. Rev. Lett. 126, 240601) was not read.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-256 (NOTE-tmp8mfe9): the inactive-ok
+    comment trimmed of codes now Active or Open (LIT-256 among them). The
+    reading is unchanged.
 date: '2026-10-09'
 summary: >-
   The long companion of [LIT-878](../literature.d/LIT-878.md). Derives the RSMI-NE estimator and shows
@@ -40,7 +46,7 @@ summary: >-
   dimers' emergent U(1). All the models' answers were known; the
   non-equilibrium example is one figure.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-019 THEORY-002 THEORY-036 QUESTION-025 THEORY-185 LIT-246 LIT-256 THEORY-198 — Proposed, Deferred or open; cited as accounts this reading is set beside and the estimator papers it rests on -->
+<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-019 THEORY-002 THEORY-036 THEORY-185 THEORY-198 — Proposed; cited as accounts this reading is set beside -->
 
 # NOTE-692: Symmetries and phase diagrams with real-space mutual information neural estimation
 

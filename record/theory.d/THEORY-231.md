@@ -16,7 +16,16 @@ promote_when: >-
   account, not test the part filed; or further restatements of the
   implication by the same authors.
 title: 'Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality is proved'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-980 (NOTE-tmp5bnaz). Connections said LIT-945
+    supports the premise that a single binary judgement could show
+    preparation contextuality; it shows only that a prepare-measure
+    scenario has no Bell-like test. Reworded to "two binary judgements
+    never made together", after LIT-980's witness.
 tags:
 - contextuality
 - quantum-foundations
@@ -135,8 +144,11 @@ unquotiented description in which equivalent procedures stay distinct.
   the test must use the unquotiented description, keeping distinct
   renderings distinct and stating their equivalences separately. That
   prepare-measure structures admit noncontextuality no-goes and no
-  Bell-like ones supports the question's premise that a single binary
-  judgement could show preparation contextuality.
+  Bell-like ones supports the question's premise that preparation
+  contextuality can show where there are no overlapping measurement
+  contexts. It does not support a single binary judgement: [LIT-980](../literature.d/LIT-980.md)'s
+  witness needs two binary judgements never made together and four
+  preparations ([NOTE-tmp5bnaz](../notes.d/NOTE-tmp5bnaz.md)).
 - **[THEORY-011](THEORY-011.md).** That account's choice-of-notion caveat cites this paper
   for the Leibnizian principle. This account states what the principle
   does in the no-go: it is the assumption a noncontextuality refutation

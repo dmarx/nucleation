@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpszumj
 title: 'Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -20,6 +20,13 @@ history:
     preparation plus measurement noncontextuality, not preparation
     noncontextuality alone. The join to the sheaf form is still the
     record's own.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-263 (NOTE-tmpmru91). The review never
+    states the decomposition of Kochen–Specker noncontextuality or the
+    implication; it is now cited only for §IV.B.3, §IV.E.1 and §IV.E.4.
+    The Deferred comment on LIT-263 removed.
 tags:
 - contextuality
 - quantum-foundations
@@ -41,13 +48,12 @@ extends:
 answers:
 - QUESTION-067
 ---
-<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27; a supporting restatement of LIT-266, which was read in full, and not leaned on -->
 
 # THEORY-015: Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory
 
 ## Source
 
-Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX ([NOTE-748](../notes.d/NOTE-748.md)). Supporting: Budroni et al. ([LIT-263](../literature.d/LIT-263.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
+Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX ([NOTE-748](../notes.d/NOTE-748.md)). Supporting, thinly: Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.B.3 on unsharp response functions under measurement noncontextuality, §IV.E.1 for the definitions, and §IV.E.4 on the preparation contextuality of Bell's and Kochen & Specker's qubit models; the review does not state the decomposition or the implication, [NOTE-tmpmru91](../notes.d/NOTE-tmpmru91.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
 
 ## What was actually shown
 

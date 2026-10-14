@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp28873
 title: 'Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -29,6 +29,14 @@ history:
     from LIT-945, for what the Leibnizian principle does in a no-go. A
     sentence added that LIT-266 also proves transformation contextuality
     for a qubit (§VI), as read in NOTE-748.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-263 (NOTE-tmpmru91). The experiment
+    Budroni et al. cite is now said to violate an inequality derived from
+    preparation and measurement noncontextuality together, so it refutes
+    both together, and to rely on tomographic completeness. LIT-263 is no
+    longer called unread, and its Deferred comment is removed.
 tags:
 - contextuality
 - quantum-foundations
@@ -39,7 +47,7 @@ source:
 - LIT-945
 summary: >-
   Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III and §IV, read in full in NOTE-748;
-  restated in Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.E, unread). Corrects the
+  restated in Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.E, read in NOTE-tmpmru91). Corrects the
   reading that contextuality needs dimension three. The dimension-two
   limit holds for sharp measurements only.
 extends:
@@ -47,7 +55,6 @@ extends:
 answers:
 - QUESTION-067
 ---
-<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27; cited as a restatement of LIT-266, which was read in full, and not leaned on -->
 <!-- inactive-ok-file: THEORY-231 — Proposed; named in the choice-of-notion caveat, not leaned on -->
 
 # THEORY-011: Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two
@@ -58,7 +65,7 @@ Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §IV (Eqs. 13–3
 
 ## What was actually shown
 
-Six pure qubit states give five decompositions of the maximally mixed state; distinguishable preparations cannot overlap in their ontic supports, and preparation noncontextuality then forces every distribution to vanish (§IV). Traditional Kochen–Specker proofs need dimension at least three, because a two-dimensional projective measurement has no non-trivial fine-grainings (§III). Budroni et al. restate the proof and note that Bell's and Kochen & Specker's own qubit models are preparation contextual (§IV.E.1, §IV.E.4; [LIT-266](../literature.d/LIT-266.md) §IX already deems them contextual under its definition), and cite an experiment reporting a violation of the noncontextual bound (§IV.E.2–3).
+Six pure qubit states give five decompositions of the maximally mixed state; distinguishable preparations cannot overlap in their ontic supports, and preparation noncontextuality then forces every distribution to vanish (§IV). Traditional Kochen–Specker proofs need dimension at least three, because a two-dimensional projective measurement has no non-trivial fine-grainings (§III). Budroni et al. restate the proof and note that Bell's and Kochen & Specker's own qubit models are preparation contextual (§IV.E.1, §IV.E.4; [LIT-266](../literature.d/LIT-266.md) §IX already deems them contextual under its definition), and cite an experiment reporting a violation of the noncontextual bound (§IV.E.2–3). That bound, Mazurek et al.'s inequality, is derived from preparation and measurement noncontextuality together (§IV.E.2), so its violation refutes their conjunction, not preparation noncontextuality alone, and it rests on secondary procedures inferred in a GPT that assumes tomographic completeness.
 
 Spekkens ([LIT-266](../literature.d/LIT-266.md)) also proves transformation contextuality for a qubit (§VI, App. A): six rotations about one axis give five convex decompositions of one map, and transformation noncontextuality then reproduces the §IV constraints ([NOTE-748](../notes.d/NOTE-748.md)).
 

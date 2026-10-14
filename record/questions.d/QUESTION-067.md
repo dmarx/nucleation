@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpsbq58
 title: 'Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens''s generalized kind, which also requires that renderings no probe can tell apart get the same representation?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -17,6 +17,17 @@ history:
     "What the record holds" quotes THEORY-011's corrected title and gives
     each THEORY's limit after the reading. A note lists four conditions
     the readings put on any test. The question stays open.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-980 (NOTE-tmp5bnaz). "Why the record needs
+    it" no longer says preparation contextuality can show with a single
+    binary judgement: no paper says so, and LIT-980's witness needs two
+    binary measurements and four preparations. It now reads "two binary
+    judgements never made together". The fourth condition of the note of
+    2026-10-14 names THEORY-tmpkfnig as a test with no distinguishability
+    condition, whose noise robustness is only asserted. The question stays
+    open.
 tags:
 - contextuality
 - quantum-foundations
@@ -36,6 +47,7 @@ summary: >-
   and [THEORY-016](../theory.d/THEORY-016.md) answer it in part; the body gives each one's limit.
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpkfnig — Proposed; the account filed from LIT-980, cited as a test with no distinguishability condition, not as settled -->
 
 # QUESTION-067: Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens's generalized kind, which also requires that renderings no probe can tell apart get the same representation?
 
@@ -45,7 +57,7 @@ summary: >-
 
 ## Why the record needs it
 
-The mechanism is direct, not an analogy. Renderings and contexts are preparations, and probes are measurements. [CLAIM-142](../claims.d/CLAIM-142.md) and [CLAIM-046](../claims.d/CLAIM-046.md) already define observational equivalence over a probe family. Spekkens's notion is built on a relation of that kind, taken over every measurement the theory allows ([LIT-266](../literature.d/LIT-266.md), Eq. 1), so a probe-relative equivalence is his relation only under a condition stated in the note of 2026-10-14 below. An ambiguous utterance read as a mixture of readings in several ways is a mixed preparation with several decompositions ([CLAIM-044](../claims.d/CLAIM-044.md)). This is where preparation contextuality can show even with a single binary judgement. A sheaf test cannot see it, because it needs a cover with overlapping contexts. [QUESTION-001](QUESTION-001.md) asks what fails when reconstruction is impossible. The answer differs with the notion.
+The mechanism is direct, not an analogy. Renderings and contexts are preparations, and probes are measurements. [CLAIM-142](../claims.d/CLAIM-142.md) and [CLAIM-046](../claims.d/CLAIM-046.md) already define observational equivalence over a probe family. Spekkens's notion is built on a relation of that kind, taken over every measurement the theory allows ([LIT-266](../literature.d/LIT-266.md), Eq. 1), so a probe-relative equivalence is his relation only under a condition stated in the note of 2026-10-14 below. An ambiguous utterance read as a mixture of readings in several ways is a mixed preparation with several decompositions ([CLAIM-044](../claims.d/CLAIM-044.md)). This is where preparation contextuality can show with two binary judgements never made together ([LIT-980](../literature.d/LIT-980.md), [THEORY-tmpkfnig](../theory.d/THEORY-tmpkfnig.md)). A sheaf test cannot see it, because it needs a cover with overlapping contexts. [QUESTION-001](QUESTION-001.md) asks what fails when reconstruction is impossible. The answer differs with the notion.
 
 ## What the record holds
 
@@ -102,4 +114,10 @@ not answer it.
   to be perfectly distinguishable. Readings of an ambiguous utterance
   ([CLAIM-044](../claims.d/CLAIM-044.md)) that are only probably distinguishable do not give its
   constraints. A pragmatic version needs such pairs or a noise-robust
-  inequality, which neither reading supplies.
+  inequality, which neither reading supplies. *Added later on 2026-10-14
+  ([NOTE-tmp5bnaz](../notes.d/NOTE-tmp5bnaz.md)):* Catani et al. ([LIT-980](../literature.d/LIT-980.md), [THEORY-tmpkfnig](../theory.d/THEORY-tmpkfnig.md)) supply a test
+  with no distinguishability condition: four preparations with equal
+  predictabilities and flipped signs on two binary probes, plus one
+  equivalence of equal mixtures, give |⟨X⟩| + |⟨Z⟩| ≤ 1. It still needs
+  exact equivalence over every probe, and its noise robustness is only
+  asserted.

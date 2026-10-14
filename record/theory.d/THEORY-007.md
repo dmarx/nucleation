@@ -9,7 +9,7 @@ promote_when: >-
   conditions (Thm 4.1 needs d ≥ d*), and one of HaoChen et al.
   (NOTE-740) confirms Lemmas 3.1–3.2.
 title: 'Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -35,6 +35,14 @@ history:
     THEORY-229 (LIT-242), the dynamical counterpart, and
     THEORY-228 (LIT-249), a second, cluster-based guarantee on the
     same eigenvectors.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After a close reading of LIT-252 (NOTE-tmp5aqd2). "Pfau et al.'s SpIN
+    learn the same objects directly" overstated the paper: eqs. 6–7 are for
+    a generic symmetric kernel, applying them to K⁺ is the record's step,
+    recovery is shown only on the hydrogen atom, and the ordering argument
+    is informal. The Deferred comment on LIT-252 removed.
 tags:
 - representation-learning
 - mathematics
@@ -60,7 +68,6 @@ extended_by:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: LIT-252 — Deferred: filed and skimmed on 2026-09-26; cited as supporting only, for what Spectral Inference Networks learn, and nothing promoted here rests on it -->
 <!-- inactive-ok-file: THEORY-229 THEORY-228 — Proposed; the accounts filed from LIT-242 and LIT-249, named in Connections and not leaned on -->
 
 # THEORY-007: Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets
@@ -73,7 +80,7 @@ Johnson, El Hanchi & Maddison (2023), [LIT-258](../literature.d/LIT-258.md), Def
 
 K⁺ is a Mercer kernel with an explicit feature map ([LIT-258](../literature.d/LIT-258.md) Def. 2.1). Population kernel PCA under K⁺ returns exactly the L²(p)-orthonormal eigenfunctions f_i of the positive-pair chain p⁺(a′|a), with h_i = λ_i^½ f_i (Thm 3.2). E_p⁺(g(a₁) − g(a₂))² = Σ(2 − 2λ_i)c_i² (Prop. 3.1), so the top eigenfunctions are the most view-invariant directions, and their span is minimax-optimal for linear prediction of approximately view-invariant targets (Thm 4.1). The optimality is for squared L²(p) error, with one p(A) shared between pretraining and the downstream task, and needs d ≥ d*, the multiplicity of eigenvalue 1 (one per communicating class); below d* every representation has unbounded worst-case error, and above it the minimax value is ε/(2(1 − λ_(d+1))) (App. D).
 
-HaoChen et al. show the spectral contrastive loss equals ‖D^(−1/2)AD^(−1/2) − FFᵀ‖²_F plus a constant (Lemma 3.2), so its minimizers are the top eigenvectors up to a positive row scaling and a right factor diag(√γ)R with R orthonormal, invertible while γ_k > 0; Lemma 3.1 says no invertible right factor or positive row scaling changes linear-probe predictions. Johnson et al. identify these eigenvectors with their eigenfunctions scaled by p(a)^½ (§5, App. C.3). Pfau et al.'s Spectral Inference Networks learn the same objects directly (eqs. 6–7). Johnson et al. App. E.2 names SpIN and NeuralEF as ways to extract them, and applies NeuralEF, not SpIN, to K⁺.
+HaoChen et al. show the spectral contrastive loss equals ‖D^(−1/2)AD^(−1/2) − FFᵀ‖²_F plus a constant (Lemma 3.2), so its minimizers are the top eigenvectors up to a positive row scaling and a right factor diag(√γ)R with R orthonormal, invertible while γ_k > 0; Lemma 3.1 says no invertible right factor or positive row scaling changes linear-probe predictions. Johnson et al. identify these eigenvectors with their eigenfunctions scaled by p(a)^½ (§5, App. C.3). Pfau et al.'s Spectral Inference Networks would learn these eigenfunctions if given K⁺: their eqs. 6–7 are for a generic symmetric kernel, and applying them to K⁺, estimated from positive pairs, is the record's step. They show recovery only for the two-dimensional hydrogen atom, and their argument for recovering the eigenfunctions in order is informal. Johnson et al. App. E.2 names SpIN and NeuralEF as ways to extract them, and applies NeuralEF, not SpIN, to K⁺.
 
 On a finite sample, Balestriero & LeCun ([LIT-228](../literature.d/LIT-228.md)) give one spectral method per SSL loss (VICReg as Laplacian eigenmaps, SimCLR as generalized MDS, Barlow Twins as CCA) and say that all of them learn representations whose top singular vectors align with those of the pair matrix G. Under the paper's constant-degree assumption D = cI, G/c is the transition matrix of the positive-pair chain on the sample and equals HaoChen et al.'s normalized adjacency, so the three select the same eigenvectors and differ in scaling and rank. That reconciliation is the record's; the paper does not mention K⁺ or the Markov chain.
 

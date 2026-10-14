@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpmjijs
 title: "Moral responsibility requires guidance control, moderate reasons-responsiveness of the agent's own actual-sequence mechanism, and not regulative control over alternative possibilities, so responsibility is compatible with causal determinism"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -15,6 +15,13 @@ history:
     the encyclopedia reports gave it, which is the reading this account's
     promotion condition named, so the status moved from Proposed to Active.
     The condition's refutation clauses are kept in the body.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). A
+    dated line under "What would refute it" records that the candidate
+    refuter is still unread: Pereboom's rebuilt four-case argument is in
+    Chapter 4, which the reading did not reach. Nothing else changed.
 tags:
 - free-will
 - agency
@@ -49,6 +56,7 @@ answers:
 - QUESTION-071
 - QUESTION-011
 ---
+<!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
 <!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->
 <!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; Fischer and Ravizza's book, named as a source because the account is theirs; what is quoted comes from the précis -->
@@ -177,7 +185,10 @@ responsibility for it by an ordinary, unmanipulated route, and is still
 not responsible. Pereboom's four-case argument, rebuilt so that the
 manipulation includes the taking of responsibility, is the candidate the
 sources name ([LIT-291](../literature.d/LIT-291.md), supplement §B.2). It would have to be read
-first-hand and shown unanswered by Fischer's replies. The
+first-hand and shown unanswered by Fischer's replies. As of 2026-10-14 it
+still has not been: Pereboom's book ([LIT-1006](../literature.d/LIT-1006.md)) was read only in part
+([NOTE-tmp46uej](../notes.d/NOTE-tmp46uej.md)), and the rebuilt case is in Chapter 4 (p. 117 by the
+contents), which was not read. The
 alternative-possibilities half is refuted only if both the Frankfurt-type
 cases and the other routes Fischer says lead to the same conclusion
 ([LIT-689](../literature.d/LIT-689.md), §I) fail. A failure of the Frankfurt cases alone does not

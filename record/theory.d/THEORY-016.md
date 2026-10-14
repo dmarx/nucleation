@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpw2brf
 title: 'An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT''s dimension'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -14,6 +14,13 @@ history:
     simplex-embeddability and a positive quasiprobability representation,
     citing LIT-003, and do not prove it independently. One sentence in
     the Source section says so. Nothing else changed.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Correction to the version 2 entry, which is left as written: it says
+    LIT-945 was "read in full (NOTE-737)", but NOTE-737 is Skimmed.
+    §§II–IV and the proofs in Appendices C–G were not read. The
+    restatement it records stands; nothing else changed.
 tags:
 - contextuality
 - quantum-foundations

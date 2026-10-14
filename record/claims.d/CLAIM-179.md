@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmp6b44r
 title: 'When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the readings of LIT-757 (NOTE-tmpdnj1q) and LIT-787
+    (NOTE-tmpzvsw5). LIT-757 added to grounds beside the unread LIT-759. A
+    note records Grudin's two qualifications: removing the disparity does
+    not guarantee use, though the defeater names only the disparity, and
+    his issue-based system was abandoned for political reasons (challenge
+    3, not 1). Ashby's S. 20/10 added to the note on May as an earlier
+    empirical version. LIT-760's seven issues remain unknown, the paper
+    being Unavailable. The inactive-ok comments for LIT-930 and
+    LIT-759–761 reworded from Deferred to Unavailable. The claim and its
+    status are unchanged.
 role: thesis
 defeated_if: >-
   Agent-filed argument records are abandoned at rates like those of
@@ -21,6 +35,7 @@ answers:
 - QUESTION-037
 grounds:
 - LIT-930
+- LIT-757
 - LIT-759
 - LIT-761
 - LIT-760
@@ -34,17 +49,18 @@ summary: >-
   flooding. This claim states why. Proposed: the record has run for one
   week.
 ---
-<!-- inactive-ok-file: LIT-930 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
+<!-- inactive-ok-file: LIT-930 — Unavailable; no copy could be obtained, cited for what it is standardly cited for, and marked unread in the text -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
-<!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Deferred; cited for the argument ADR-030 summarises them for, not for a reading here -->
+<!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Unavailable; no copy could be obtained, cited for the argument ADR-030 summarises them for, not for a reading here -->
+<!-- inactive-ok-file: THEORY-tmpefpin — Proposed; the disparity account filed from the reading of LIT-757, cited in a note and not leaned on -->
 
 # CLAIM-179: When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
 
 ## The claim
 
 The design-rationale literature ([ADR-030](../decisions.d/ADR-030.md)) is largely an account of
-why capture systems went unused. Grudin ([LIT-759](../literature.d/LIT-759.md)) identified the disparity:
+why capture systems went unused. Grudin ([LIT-759](../literature.d/LIT-759.md), unread; [LIT-757](../literature.d/LIT-757.md), read) identified the disparity:
 the work of capture falls on one person and the benefit goes to another.
 Buckingham Shum and Hammond ([LIT-761](../literature.d/LIT-761.md)) and Lee ([LIT-760](../literature.d/LIT-760.md)) ask when capture
 repays its cost.
@@ -90,6 +106,13 @@ structures escape the bound, so this is a question to test, not a result
 to apply. It is also a further reason for the second-occurrence throttle
 ([CLAIM-176](CLAIM-176.md)).
 
+*Added 2026-10-14 ([NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md)):* Ashby ([LIT-787](../literature.d/LIT-787.md), S. 20/10) is an
+earlier, empirical version of May's result. Of random linear systems
+sampled up to 4 × 4, the fraction stable fell roughly as 1/2ⁿ, and "large
+linear systems should be assumed to be unstable". He also names the
+escape: weak joining and many constancies. May ([LIT-930](../literature.d/LIT-930.md)) is now
+Unavailable, so the bound is still cited unread.
+
 ## Note of 2026-10-14: what the founding paper and Hopfield's model say
 
 - **IBIS reports adoption, not abandonment** ([LIT-758](../literature.d/LIT-758.md), read in
@@ -107,3 +130,26 @@ to apply. It is also a further reason for the second-occurrence throttle
   Read across, a record past its load would lose access to its old
   entries rather than blur them. The record's rule, retire by status and
   never delete, is a provision against forgetting. This is analogy only.
+
+## Note of 2026-10-14: what Grudin's read article adds
+
+Grudin's 1994 article ([LIT-757](../literature.d/LIT-757.md), read in [NOTE-tmpdnj1q](../notes.d/NOTE-tmpdnj1q.md); [THEORY-tmpefpin](../theory.d/THEORY-tmpefpin.md))
+states the disparity as the first of eight challenges, so the premise can
+rest on a read paper and not only on the unread 1988 one ([LIT-759](../literature.d/LIT-759.md)). It
+qualifies the claim twice.
+
+- **Removing the disparity is not enough.** "Even a net benefit with equal
+  costs and benefits for all users will not guarantee groupware success"
+  (pp. 96–97): critical mass and freeloading, among others, can sink a
+  system the disparity does not. The defeater above names only the
+  disparity, so a record abandoned for another of Grudin's reasons would
+  not defeat this claim, and would not be explained by it either.
+- **The one issue-based system he cites failed for another reason.** It
+  was abandoned before use because "the explicit record of opposing
+  positions that the application would immortalize was politically
+  unacceptable" (p. 97). That is challenge 3, social disruption, not
+  challenge 1. It bears on a record that retires by status and never
+  deletes.
+
+What Lee's seven issues are ([LIT-760](../literature.d/LIT-760.md)) remains unknown here: the paper is
+Unavailable.

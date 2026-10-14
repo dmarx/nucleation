@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpu984q
 title: 'The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-787 (NOTE-tmpzvsw5). A note cites Ashby's
+    Chapter 11 as a direct ancestor, crystal example included, and the
+    condition it adds: a retained part must be cut off by constancies from
+    what is still changing. THEORY-tmp9yigf and THEORY-tmpxwn52 cited. The
+    claim is unchanged.
 role: thesis
 defeated_if: >-
   Complex structure (claims resting on claims, objection threads,
@@ -45,6 +54,7 @@ objected_by:
 - CLAIM-184
 - CLAIM-190
 ---
+<!-- inactive-ok-file: THEORY-tmp9yigf THEORY-tmpxwn52 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -152,3 +162,17 @@ claim, the test is whether a single act of anchoring, such as filing a code
 in one session, produces a lasting change in how later sessions treat the
 idea (fewer re-derivations, more pointing), beyond what a slow return to
 old habits would explain.
+
+## Note of 2026-10-14: a direct ancestor in Ashby
+
+Ashby's Chapter 11 ([LIT-787](../literature.d/LIT-787.md), read in [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md); [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), with
+[THEORY-tmpxwn52](../theory.d/THEORY-tmpxwn52.md)) is a direct ancestor of this claim. Adaptation finishes
+in practicable time only if "partial successes … can be conserved and
+accumulated" (S. 11/6): trials grow as (1/p)ᴺ if every success must come
+at once, and roughly as N/p if each is kept once found. His own example
+is the crystal, impossible if every molecule must fall into place at
+once and routine by succession (S. 11/8). He adds a condition this claim
+does not state: a retained part must be cut off, by constancies, from
+what is still changing (Ss. 11/10, 12/17). A persistent structure that
+later change can still reach is not retained. The transfer to arguments
+is analogy.

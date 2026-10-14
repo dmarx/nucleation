@@ -9,9 +9,13 @@ promote_when: >-
   The first half is done: NOTE-753 read the proof of Lemma 2 in App.
   A.2, from which Thm 1 follows, and found it correct. What remains is the
   close reading of Jorgensen & Tian (LIT-259), which this record has so far
-  only skimmed.
+  only skimmed. As of 2026-10-14 (NOTE-tmp8nk93) the close reading is done,
+  but the book does not confirm Cor. 1.35: its proof is left entirely as an
+  exercise. The uniqueness does follow from the book's proved argument for
+  Thm 4.35, transferred, which the NOTE writes out. Whether that meets the
+  clause is an open call for the owner; the status stays Proposed.
 title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -34,6 +38,18 @@ history:
     A Connections section added: THEORY-236 (LIT-254, Thm 1), filed
     today, says why the invariant is not taken under the general linear
     group, where comparison is degenerate.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-259 (NOTE-tmp8nk93). The book states,
+    not proves, Cor. 1.35 (proof left as an exercise); summary and body
+    corrected. The (1.24) typo noted, and that the corollary is complex
+    and unitary, so the real or non-spanning case needs an unstated step.
+    promote_when records the LIT-259 reading as done and the Cor. 1.35
+    clause as not met by the book but met by Thm 4.35's argument
+    transferred; whether that suffices is left as an open call for the
+    owner, and the status stays Proposed. The Deferred comment on LIT-259
+    removed.
 tags:
 - representation-learning
 - mathematics
@@ -46,8 +62,8 @@ source:
 summary: >-
   Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1; Jorgensen & Tian,
   [LIT-259](../literature.d/LIT-259.md), Remark 1.34 and Cor. 1.35, which name the
-  kernel-to-Hilbert-space construction as GNS and prove its minimal
-  realizations unique up to a unitary. This is the GNS connection the owner
+  kernel-to-Hilbert-space construction as GNS and state its minimal
+  realizations unique up to a unitary (proof left as an exercise). This is the GNS connection the owner
   asked about, stated.
 extended_by:
 - THEORY-008
@@ -57,7 +73,6 @@ presupposed_by:
 supports:
 - CLAIM-148
 ---
-<!-- inactive-ok-file: LIT-259 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
 <!-- inactive-ok-file: THEORY-236 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
 
 # THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
@@ -68,7 +83,7 @@ Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), §2.2, 
 
 ## What was actually shown
 
-Jorgensen & Tian call the construction of a Hilbert space from a positive-definite kernel "the GNS construction" (Remark 1.34) and prove that a kernel's minimal realizations k(x,y) = ⟨Φ(x), Φ(y)⟩ are unique up to a unitary (Cor. 1.35); they also note that commutative states are measures (Ex. 4.28). On a finite sample, two representation matrices with the same number of columns and the same Gram matrix differ by an orthogonal transformation ([LIT-250](../literature.d/LIT-250.md) §5.3, stated there as known, without proof). Since the centring removes column means, two representations with the same centred kernel differ by a translation and an orthogonal transformation. Harvey, Larsen & Williams prove that the Procrustes distance equals the Bures distance between the centred linear kernels (Thm 1, eq. 14), and that normalized Bures similarity is the cosine of the Riemannian shape distance (Thm 1, eq. 15); both follow from Lemma 2, F(K_X, K_Y) = ‖Σ_XY‖_*. So centred kernels are equal iff the Procrustes distance is zero, by Thm 1 and the metric property of B; §2.2 says the like of RDMs, not of kernels. Kornblith et al. had already noted that the orthogonal Procrustes optimum is ‖YᵀX‖_* (App. D.2), without linking it to the Bures fidelity. Their §2.2 case that a similarity index should be invariant to orthogonal maps (and isotropic scaling) is argued from training dynamics and symmetry, not proved. Their eq. 25 applies Uhlmann's theorem: the fidelity is the maximal overlap over all representations consistent with the kernels.
+Jorgensen & Tian call the construction of a Hilbert space from a positive-definite kernel "the GNS construction" (Remark 1.34) and state that a kernel's minimal realizations k(x,y) = ⟨Φ(x), Φ(y)⟩ are unique up to a unitary (Cor. 1.35). The proof is "left as an exercise"; the argument the book proves for Thm 4.35 transfers to it ([NOTE-tmp8nk93](../notes.d/NOTE-tmp8nk93.md)). Eq. (1.24) as printed, "UΦ₁(x) = Φ₂(x) U", is a typo for UΦ₁(x) = Φ₂(x). The corollary is over complex Hilbert spaces with a unitary; applying it to real representation matrices with an orthogonal map, or to representations whose rows do not span R^d and so are not minimal, needs a step the book does not state. They also note that commutative states are measures (Ex. 4.28). On a finite sample, two representation matrices with the same number of columns and the same Gram matrix differ by an orthogonal transformation ([LIT-250](../literature.d/LIT-250.md) §5.3, stated there as known, without proof). Since the centring removes column means, two representations with the same centred kernel differ by a translation and an orthogonal transformation. Harvey, Larsen & Williams prove that the Procrustes distance equals the Bures distance between the centred linear kernels (Thm 1, eq. 14), and that normalized Bures similarity is the cosine of the Riemannian shape distance (Thm 1, eq. 15); both follow from Lemma 2, F(K_X, K_Y) = ‖Σ_XY‖_*. So centred kernels are equal iff the Procrustes distance is zero, by Thm 1 and the metric property of B; §2.2 says the like of RDMs, not of kernels. Kornblith et al. had already noted that the orthogonal Procrustes optimum is ‖YᵀX‖_* (App. D.2), without linking it to the Bures fidelity. Their §2.2 case that a similarity index should be invariant to orthogonal maps (and isotropic scaling) is argued from training dynamics and symmetry, not proved. Their eq. 25 applies Uhlmann's theorem: the fidelity is the maximal overlap over all representations consistent with the kernels.
 
 So the kernel is the invariant and the representation is one realization of it — the GNS picture, stated for representations.
 

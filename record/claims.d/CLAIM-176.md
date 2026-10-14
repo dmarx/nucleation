@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp2jolp
 title: 'Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -14,6 +14,13 @@ history:
     triggers persistence, and recurrence is one trigger, the one this
     record is built around. The claim keeps recurrence's particular
     case: it catches exactly the drift and throttles capture.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-787 (NOTE-tmpzvsw5). A Connections line adds
+    Ashby's recurrent-situation chapter: separate stores keyed to the
+    situation, with interference growing with similarity. The claim is
+    unchanged.
 role: thesis
 defeated_if: >-
   A record that codes on first occurrence, or only on request, shows
@@ -48,6 +55,7 @@ complements:
 objected_by:
 - CLAIM-181
 ---
+<!-- inactive-ok-file: THEORY-tmp9yigf — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -120,3 +128,13 @@ filing rule itself. It narrows what the physics can be cited for.
 The owner's reframing the same day ([CLAIM-185](CLAIM-185.md)) answers this by moving
 the threshold from the count to persistence, which is how the physics
 defines it. This claim was narrowed to match.
+
+## Connections
+
+- Ashby ([LIT-787](../literature.d/LIT-787.md), Ch. 10; [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), read in [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md)): the
+  benefit of a recurrent situation is that the second response can be
+  immediate, and that needs a separate store for the situation, selected
+  by the situation itself; interference between stores grows with the
+  similarity of the situations. Ashby does not say recurrence should
+  trigger capture. He says what a system must have for recurrence to be
+  exploited. Analogy only.

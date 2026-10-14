@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp0zdr4
 paper: 'LIT-878'
 title: 'Statistical Physics through the Lens of Real-Space Mutual Information'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -24,6 +24,12 @@ history:
     was not read; small differences from v3 cannot be ruled out. The
     companion paper (arXiv:2103.16887) and the cited optimality theorem
     (Gordon et al., Phys. Rev. Lett. 126, 240601) were not read.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-256 (NOTE-tmp8mfe9): the inactive-ok
+    comment trimmed of codes now Active or Open (LIT-256 among them). The
+    reading is unchanged.
 date: '2026-10-09'
 summary: >-
   Makes the real-space mutual-information principle a single-shot
@@ -35,7 +41,7 @@ summary: >-
   phase and decays algebraically with the buffer in the critical one.
   The model's operators were known; the optimality theorem is cited.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-036 QUESTION-025 THEORY-185 LIT-246 LIT-256 LIT-247 — Proposed, Deferred or open; cited as accounts this reading is set beside and the estimator papers it rests on -->
+<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-036 THEORY-185 — Proposed; cited as accounts this reading is set beside -->
 
 # NOTE-681: Statistical Physics through the Lens of Real-Space Mutual Information
 
