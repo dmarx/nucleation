@@ -1,16 +1,23 @@
 ---
 number: 208
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpbnnv6
 paper: LIT-235
+superseded_by:
+- NOTE-tmpc8ts7
 title: 'Sun et al. 2023 — spectral theory of novel class discovery'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpc8ts7, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   For novel class discovery, a spectral contrastive loss over a graph of labeled and unlabeled data (NSCL) is equivalent to factorizing its adjacency matrix, and the resulting linear-probe error on novel classes is bounded — down to zero — by how far the known classes' feature span covers the unlabeled data's "ignorance space".
 ---
-<!-- inactive-ok-file: LIT-235 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-208: Sun et al. 2023 — spectral theory of novel class discovery
 
