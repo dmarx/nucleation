@@ -89,3 +89,21 @@ structure is not random, and the debate after May is about which
 structures escape the bound, so this is a question to test, not a result
 to apply. It is also a further reason for the second-occurrence throttle
 ([CLAIM-176](CLAIM-176.md)).
+
+## Note of 2026-10-14: what the founding paper and Hopfield's model say
+
+- **IBIS reports adoption, not abandonment** ([LIT-758](../literature.d/LIT-758.md), read in
+  [NOTE-tmptx0xy](../notes.d/NOTE-tmptx0xy.md)). The founding paper reports "eager acceptance by the
+  users" and gives no account of what keeping an IBIS costs. Its operating
+  cycle has staff edit issues "in contact with" the participant who raised
+  them, so filer and arguer were already separate in the original design,
+  as they are with an agent filer. That suggests the disparity Grudin
+  describes may depend on who the filer is. It is one sentence of design,
+  not evidence.
+- **A capacity limit cuts the other way** ([LIT-918](../literature.d/LIT-918.md), read in
+  [NOTE-tmpyx2db](../notes.d/NOTE-tmpyx2db.md)). In Hopfield's model spurious states occur at low load
+  too, and overload is total loss: it "makes all memory states
+  irretrievable unless there is a provision for forgetting old memories".
+  Read across, a record past its load would lose access to its old
+  entries rather than blur them. The record's rule, retire by status and
+  never delete, is a provision against forgetting. This is analogy only.

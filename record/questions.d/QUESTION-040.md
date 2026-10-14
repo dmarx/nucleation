@@ -37,6 +37,7 @@ summary: >-
 
 - [THEORY-080](../theory.d/THEORY-080.md): in a linearised Gaussian model "the Occam factor is a sum over the NTK's eigenvalues". Each direction pays ½ log(1 + βλ/α), and directions the data do not determine cost nothing. So the count is the number of well-determined directions, not the number of parameters. Limit: the model is linearised. The THEORY says this "removes that question", meaning singularity, "rather than answering it".
 - [THEORY-028](../theory.d/THEORY-028.md): the bias of "any data-dependent choice" is at most √(2σ²·I), where I is the information the choice carries about the data. A stable search, one that strong signal settles, biases little. Limit: the bound holds in expectation, for subgaussian statistics.
+- NML's parametric complexity comp(M; v) ([LIT-238](../literature.d/LIT-238.md), read in [NOTE-tmp582tx](../notes.d/NOTE-tmp582tx.md)): the log of the number of distinguishable distributions, (k/2) log(n/2π) + log ∫ √|I|. It is a candidate Occam count. Like [THEORY-080](../theory.d/THEORY-080.md)'s spectral count, it weights directions by Fisher information rather than counting parameters, and models with equal parameter counts differ in it. Limit: it does not address the selection-bias half of the question.
 
 ## What would answer it
 

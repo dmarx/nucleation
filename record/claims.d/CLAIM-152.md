@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3qyzh
 title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-11'
@@ -13,6 +13,13 @@ history:
     re-derived seven times on MOM's own material. Active here because it
     follows from the definition of sufficiency: a statistic is sufficient
     for a stated target. Nothing was re-run because nothing needs to be.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    A qualification from NOTE-tmpjcfop (LIT-239) and NOTE-tmpavenk
+    (LIT-224): the algorithmic sufficient statistic is a sufficiency
+    with no target, but it still gives no unique boundary, because
+    independent sets can tie. Added as a note; the claim is unchanged.
 role: thesis
 defeated_if: >-
   A privileged target, argued for independently of the partition it
@@ -47,6 +54,7 @@ grounds:
 complements:
 - CLAIM-279
 ---
+<!-- inactive-ok-file: THEORY-tmppce05 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -111,3 +119,15 @@ left to the owner.
 ## Note of 2026-10-12: the interlocutor's reading, as advice
 
 The interlocutor's reading of 2026-10-12 sides with this claim against [CLAIM-217](CLAIM-217.md): choosing competent uptake "does not establish a uniquely privileged standard. It chooses a reference class and grounds that choice in a theory of social constitution." It would keep competent uptake as a practice-relative criterion, which "preserves CLAIM-152 instead of defeating it". Recorded as advice. [CLAIM-213](CLAIM-213.md) files the reading's middle position between this claim's lack of a realist commitment and [CLAIM-139](CLAIM-139.md)'s ontological clause.
+
+## Note of 2026-10-14: a sufficiency with no target
+
+The algorithmic sufficient statistic ([THEORY-tmppce05](../theory.d/THEORY-tmppce05.md), from [LIT-239](../literature.d/LIT-239.md) and
+[LIT-224](../literature.d/LIT-224.md), read in [NOTE-tmpjcfop](../notes.d/NOTE-tmpjcfop.md) and [NOTE-tmpavenk](../notes.d/NOTE-tmpavenk.md)) is a sufficiency with no
+outcome variable: it is sufficient for the data string itself, relative
+only to the reference machine. That qualifies "any individuation built on
+sufficiency". It is not a counterexample to the claim's point. It still
+gives no unique boundary: at non-critical complexities, distinct and
+independent sets witness the same code length (for a random string, the
+prefix set and the suffix set), and the minimal sufficient statistic is
+defined only to logarithmic precision and cannot be computed.

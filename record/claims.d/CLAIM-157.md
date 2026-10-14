@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -13,6 +13,18 @@ history:
     (CLAIM-167), so the passages that called it open are revised.
     One-way drive passes rightly, and direction is read as the system's
     architecture. The criterion is unchanged.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Four readings of the day, set beside the criterion without changing
+    it. NOTE-tmpjuj7z (LIT-979): dynamical independence allows outgoing
+    coupling but not incoming, which differs from a near-decomposable
+    block. NOTE-tmp9ypte (LIT-989): a case where the block verdict stays
+    the same while the module's ability to act as a unit changes.
+    NOTE-tmp0o608 (LIT-953): the duration clause needs a window and a
+    tolerance, since averaged and local verdicts can disagree.
+    NOTE-tmpv7vus (LIT-955): one global threshold fits some regions and
+    not others.
 role: thesis
 defeated_if: >-
   Measured cases in which the block criterion and independent marks of
@@ -64,6 +76,7 @@ supports:
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-153 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
+<!-- inactive-ok-file: THEORY-tmpc7h4d THEORY-tmph3haa THEORY-tmpjvv0j THEORY-tmpaf2sz — Proposed; readings of 2026-10-14 set beside the criterion, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection, not as standing -->
 <!-- inactive-ok-file: LIT-902 LIT-097 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
 
@@ -112,6 +125,20 @@ test. The name is earned when the gap beats the cost of keeping it.
   and a later read, and a block test on synchronous dynamics will not see
   it. The storage route ([CASE-043](../cases.d/CASE-043.md)) needs a time-lagged version of
   the criterion, which is not built.
+- **Dynamical independence** ([THEORY-tmpc7h4d](../theory.d/THEORY-tmpc7h4d.md), [LIT-979](../literature.d/LIT-979.md), [NOTE-tmpjuj7z](../notes.d/NOTE-tmpjuj7z.md))
+  asks only that no information flow into the coarse variable from the
+  rest. It allows outgoing coupling and forbids incoming. Near-decomposability
+  asks for weak coupling across the edge in both directions. A module that
+  drives the rest and receives nothing is dynamically independent; one that
+  is driven never is. The two pick different blocks whenever coupling is
+  one-way.
+- **Acting as a unit** ([THEORY-tmph3haa](../theory.d/THEORY-tmph3haa.md), [LIT-989](../literature.d/LIT-989.md), [NOTE-tmp9ypte](../notes.d/NOTE-tmp9ypte.md)). In a
+  modular coordination game the interaction matrix is nearly decomposable
+  throughout, so the block verdict is the same before and after
+  entrainment. What changes is timing, and with it whether the module
+  responds to the others as one. So a block that clears the threshold need
+  not behave as a unit. That is consistent with this claim, which
+  disclaims agency, but it shows the two come apart in a concrete case.
 
 ## What it does not say
 
@@ -121,3 +148,14 @@ test. The name is earned when the gap beats the cost of keeping it.
   [QUESTION-009](../questions.d/QUESTION-009.md) and the subject sense of [ADR-024](../decisions.d/ADR-024.md).
 - **That anything has been measured.** [CASE-045](../cases.d/CASE-045.md) is the study it would
   need.
+- **When the block stops persisting.** The duration clause is stated over
+  joint dynamics, which are estimated over an interval. For information
+  measures the averaged verdict and the verdict at a moment can disagree
+  in sign ([THEORY-tmpjvv0j](../theory.d/THEORY-tmpjvv0j.md), [LIT-953](../literature.d/LIT-953.md), [NOTE-tmp0o608](../notes.d/NOTE-tmp0o608.md)), so the clause needs a
+  window and a tolerance for how many failing moments end the form. Neither
+  is set.
+- **That one threshold serves the whole system.** On tangles, each region
+  of a network has its own best order, and one global threshold splits
+  some forms and misses others ([THEORY-tmpaf2sz](../theory.d/THEORY-tmpaf2sz.md), [LIT-955](../literature.d/LIT-955.md), [NOTE-tmpv7vus](../notes.d/NOTE-tmpv7vus.md)).
+  The Occam factor here is set per block, which is the kind of per-region
+  setting a global threshold lacks.

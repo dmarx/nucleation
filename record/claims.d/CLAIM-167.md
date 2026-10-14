@@ -40,6 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question this reply keeps apart from system-hood -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected by this reply; cited as the objection answered -->
+<!-- inactive-ok-file: THEORY-tmpo4fgq — Proposed; the reading that sets a limit on observational tests of direction -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 — Proposed; the criterion this defends, the entrainment claim it revises and the owner's couple claim, open -->
 
 # CLAIM-167: One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
@@ -89,3 +90,9 @@ and where, there is an agent ([TERM-044](../terms.d/TERM-044.md)<!-- ref::uses: 
   threshold ([CLAIM-154](CLAIM-154.md)).
 - **That a driven system is an agent, or that the driver is one.** That is
   the next question.
+- **That direction can be read from observation alone.** A symmetrically
+  coupled pair reads as "hierarchical" once one member is strongly driven
+  ([THEORY-tmpo4fgq](../theory.d/THEORY-tmpo4fgq.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-tmpjexhc](../notes.d/NOTE-tmpjexhc.md), 2026-10-14). Information
+  flow follows where the drive enters, not the coupling. So telling peers
+  from hierarchy needs an intervention on one member, as [QUESTION-063](../questions.d/QUESTION-063.md)
+  asks.

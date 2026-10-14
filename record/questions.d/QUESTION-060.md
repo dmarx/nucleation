@@ -14,6 +14,9 @@ line: 'learned-structure'
 answered_by:
 - THEORY-197
 - THEORY-206
+- THEORY-tmp37j6t
+- THEORY-tmpbx1ck
+- THEORY-tmpn31af
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md) and [QUESTION-025](QUESTION-025.md).

@@ -23,6 +23,7 @@ summary: >-
   [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-124](../theory.d/THEORY-124.md), [THEORY-097](../theory.d/THEORY-097.md) and [THEORY-088](../theory.d/THEORY-088.md) answer it in part; the
   body gives each one's limit.
 ---
+<!-- inactive-ok-file: THEORY-tmpficjv — Proposed; a reading listed with its limit, not an answer -->
 
 # QUESTION-042: In a recorded brain, where anatomy fixes the candidate units independently, do the blocks that clear an Occam-priced test fall at the anatomical boundaries, at which scale, and how long do short-range and long-range blocks last?
 
@@ -39,6 +40,7 @@ summary: >-
 - [THEORY-124](../theory.d/THEORY-124.md) runs a test of the same form as [CLAIM-154](../claims.d/CLAIM-154.md), structure against a covariance-matched null. Within one area neurons "rarely form discrete functional types", but types appear "when regions are pooled, aligned with anatomy". So units earn a name at the area scale and not below, and the area's conditions stay separable without member types. Limit: selectivity profiles, not joint dynamics.
 - [THEORY-097](../theory.d/THEORY-097.md): during brief co-ripples, neurons "co-fire more whatever the distance between them". That is a long-range block lasting about 70 ms, which bears on how long a block lasts. Limit: correlational; 5% co-occurrence.
 - [THEORY-088](../theory.d/THEORY-088.md): phase singularities "sit on boundaries between functional regions", so boundaries show up in the dynamics. Limit: BOLD only, scale chosen on the outcome.
+- [THEORY-tmpficjv](../theory.d/THEORY-tmpficjv.md) ([LIT-998](../literature.d/LIT-998.md), [NOTE-tmp7fp7t](../notes.d/NOTE-tmp7fp7t.md)): neural complexity C_N is low when parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated, and patchy wiring raises it. [LIT-998](../literature.d/LIT-998.md) was filed as the rival measure to the Occam-priced block test. It is not a rival: C_N is one number for a whole system over fixed components, and it finds no units, boundaries or scale. The point of contact is its oneness condition, that no bipartition yields two independent subsets (zero mutual information), which is [CLAIM-157](../claims.d/CLAIM-157.md)'s gap test at threshold zero, with no Occam factor. Limit: simulation only, and stationary, so it cannot see blocks that last about 70 ms.
 
 ## What would answer it
 

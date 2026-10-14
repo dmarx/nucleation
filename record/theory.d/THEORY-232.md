@@ -40,6 +40,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
 <!-- inactive-ok-file: THEORY-tmp8ntgq — Proposed; named in Connections as the general form of this account's frame-dependence, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmph3haa — Proposed; the timing result this reading reported, now held and read, named and not leaned on -->
 
 # THEORY-232: A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification
 
@@ -133,10 +134,12 @@ No relations are declared: it answers a comparative version of
 - **[CLAIM-010](../claims.d/CLAIM-010.md) (permissiveness).** The essay bites the bullet at the low end
   (a ball with momentum is barely, not zero, agential), and because the
   account is comparative the bullet costs little.
-- **[CLAIM-172](../claims.d/CLAIM-172.md).** The reported timing result (Tissot et al., under
-  submission, not held) has learned relationships pick out groups that
-  "work together", close to a collective variable carried by mutual
-  entrainment.
+- **[CLAIM-172](../claims.d/CLAIM-172.md).** The reported timing result (Tissot et al., then under
+  submission, now held as [LIT-989](../literature.d/LIT-989.md) and read in [NOTE-tmp9ypte](../notes.d/NOTE-tmp9ypte.md)) has learned
+  relationships pick out groups that "work together", close to a
+  collective variable carried by mutual entrainment. The learned
+  relationship there is phase timing, not coupling weight, and the groups
+  it finds are modules the couplings already define ([THEORY-tmph3haa](THEORY-tmph3haa.md)).
 - **[THEORY-071](THEORY-071.md) (minimal agency).** A different kind of account. Barandiaran
   et al. set absolute conditions, including individuality with no
   observer doing the distinguishing and norms the system's own

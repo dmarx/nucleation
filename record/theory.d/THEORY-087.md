@@ -32,6 +32,7 @@ date: '2026-10-03'
 source:
 - LIT-623
 - LIT-616
+- LIT-238
 summary: >-
   MacKay (1992), [LIT-623](../literature.d/LIT-623.md), writes the evidence as best-fit likelihood
   times an Occam factor, the ratio of posterior to prior accessible volume,
@@ -63,6 +64,8 @@ supports:
 - Watanabe (2012; JMLR 2013), [LIT-616](../literature.d/LIT-616.md), read in [NOTE-473](../notes.d/NOTE-473.md): Eq. 14
   (regular and singular), Eqs. 18–19 (the RLCT), Lemma 3, Theorems 2, 4
   and 5, Table 3 and the remark in §7.1.
+- Grünwald & Roos (2019), [LIT-238](../literature.d/LIT-238.md), read in [NOTE-tmp582tx](../notes.d/NOTE-tmp582tx.md): eqs. (15)–(16),
+  a second source for the regular half only (added 2026-10-14).
 
 ## The claim, in two halves
 
@@ -80,6 +83,12 @@ observes this scaling directly in his polynomial models: the right side of
 the Occam hill falls as "k log N" ([LIT-623](../literature.d/LIT-623.md), §6). This is BIC's
 penalty, and it is set by curvature. The determinant of the Fisher measures
 how fast the posterior shrinks in each direction.
+Grünwald & Roos give the same (k/2) log n penalty, with the Fisher-volume
+constant, for NML as well as Bayes, and show that NML and Bayes under the
+generalised Jeffreys prior become asymptotically indistinguishable
+([LIT-238](../literature.d/LIT-238.md), eqs. 15–16). So the regular penalty is the
+description-length penalty too. Their WBIC form (eq. 31) is cited, not
+derived, and adds nothing to the singular half.
 
 Watanabe reaches the same place from the other side. The truth is
 *regular* for a model if the optimal parameter set is a single point and

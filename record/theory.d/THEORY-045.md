@@ -185,3 +185,14 @@ independent lines agree.
 - **"Is the experience of" is not an identity claim about phenomenal
   character.** The account says what felt affect is about and what varies
   with it. It does not say why it is felt at all.
+
+## Note of 2026-10-14: a later, consistent restatement
+
+Theriault et al. ([LIT-996](../literature.d/LIT-996.md), read in [NOTE-tmp5s3k4](../notes.d/NOTE-tmp5s3k4.md)), Box 1, restate from the
+Barrett group's earlier papers that "affective experience, or mood,
+functions as a low-dimensional allostatic barometer". That is consistent
+with this account's Barrett half and is a later statement of it, not
+independent evidence: the claim is restated, not argued, and the paper
+places allostatic generation in limbic cortex and brainstem nuclei together,
+which neither settles nor sharpens the disagreement with Damasio recorded
+above. It is not added to `source:`. The statement is unchanged.

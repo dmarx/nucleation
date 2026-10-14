@@ -17,12 +17,14 @@ answered_by:
 - THEORY-198
 - THEORY-205
 - THEORY-157
+- THEORY-tmpc7h4d
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-154](../claims.d/CLAIM-154.md),
   [CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-164](../claims.d/CLAIM-164.md) and [QUESTION-035](QUESTION-035.md). [THEORY-198](../theory.d/THEORY-198.md), [THEORY-205](../theory.d/THEORY-205.md) and
   [THEORY-157](../theory.d/THEORY-157.md) answer it in part; the body gives each one's limit.
 ---
+<!-- inactive-ok-file: THEORY-tmpc7h4d — Proposed; a reading listed with its limits, an answer in part -->
 
 # QUESTION-065: Can the target that a sufficiency-based boundary is relative to be supplied by the system's own locality, as informativeness about its far environment across a buffer, so that the coarse variables kept no longer depend on the analyst, and is the partition that wins for a given target unique?
 
@@ -39,6 +41,7 @@ The mechanism is locality. What crosses a buffer is carried by the leading modes
 - [THEORY-198](../theory.d/THEORY-198.md): a coarse-graining that keeps all information about the far environment "makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range". The coarse description stays local. Limit: actual maximizers fall short of full capture, and the partition is fixed in advance.
 - [THEORY-205](../theory.d/THEORY-205.md): the first feature of the information bottleneck is "the boundary weak value of the leading transfer-matrix eigenvector". Under degeneracy it is a subspace, as [CLAIM-164](../claims.d/CLAIM-164.md) says. Limit: shown for slabs of a cylinder only.
 - [THEORY-157](../theory.d/THEORY-157.md): given a target, a complete sufficient statistic is minimal (Bahadur), and it is independent of what is ancillary to that target (Basu). That bears on uniqueness. Limit: it needs completeness and says nothing about locality.
+- [THEORY-tmpc7h4d](../theory.d/THEORY-tmpc7h4d.md) ([LIT-979](../literature.d/LIT-979.md), [NOTE-tmpjuj7z](../notes.d/NOTE-tmpjuj7z.md)): dynamical independence, zero information flow from the micro history into a coarse-graining given its own history, fixes emergent variables by the dynamics. The target is the coarse variable's own future, so no outside query is chosen. It answers both parts in part. Limits: the system/environment boundary is assumed, the scale is chosen, and the optima are not unique (the cost is multimodal, and exact independence is generically absent). Its criterion is closure, not informativeness about a far environment across a buffer, so it is not this question's target.
 
 ## What would answer it
 

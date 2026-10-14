@@ -23,7 +23,13 @@ promote_when: >-
   more directly by any method that establishes experience of a content
   that never ignites the network. The account would also need a first-hand
   reading of the studies the review leans on (van Vugt et al. 2018;
-  Panagiotaropoulos et al. 2012), none held, and the COGITATE results.
+  Panagiotaropoulos et al. 2012), none held. The COGITATE results, now
+  read (LIT-973, 2026-10-14), count against two clauses as stated:
+  broadcasting the one whole content (prefrontal cortex held a seen
+  image's category but not its identity, and orientation at most weakly)
+  and ignition at every change of content (no prefrontal site responded
+  at offset). A restatement that survives them must say which dimensions
+  are broadcast and why the offset does not ignite.
   What cannot settle it: more seen-versus-unseen contrasts with report,
   more no-report decoding in prefrontal cortex, which leaves thought about
   the percept in place, and anaesthesia or sleep data, which the review
@@ -62,6 +68,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-103 THEORY-098 — Proposed; the rival accounts, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-102 THEORY-094 THEORY-093 THEORY-023 — Proposed; named in prose for their bearing, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp7j1bc — Proposed; the COGITATE prefrontal finding, named in the note of 2026-10-14, nothing here rests on it -->
 
 # THEORY-096: Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced
 
@@ -222,3 +229,16 @@ answer it. Each would be settled by the first kind of result in
 ## Note of 2026-10-12: "sustains" against its proponents' own prediction
 
 [THEORY-102](THEORY-102.md) reports that the workspace's proponents pre-registered transient prefrontal onset and offset representations with no sustained component for the COGITATE paradigm. Yet this account's statement says ignition "amplifies, sustains and broadcasts" the content. The body above already says the onset-only burst "sits uneasily with 'sustains'". The tension is between this account's wording and the theory's own prediction, not between this account and [THEORY-102](THEORY-102.md), which reports the GNW predictions as met except at offset. Whether "sustains" should read as sustained for maintenance and report, not for the duration of the experience, is a question for a reading of [LIT-631](../literature.d/LIT-631.md). It is not settled here, and the statement is unchanged. No relation is declared, since [THEORY-102](THEORY-102.md) is a finding that bears on two theories, not a rival account.
+
+## Note of 2026-10-14: the COGITATE results, read
+
+COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-tmpuu1fr](../notes.d/NOTE-tmpuu1fr.md); [THEORY-tmp7j1bc](THEORY-tmp7j1bc.md)) counts against
+two clauses of this account as stated. Against "broadcasts that one
+content": prefrontal cortex held the category of a clearly seen image but
+not its identity, and orientation at most weakly. Against ignition at a
+change of content: none of 655 prefrontal electrodes responded at offset,
+though the experience changed there. It also confirms the "sustains"
+tension of 2026-10-12: no sustained prefrontal content was found. None of
+this tests ignition without differential post-perceptual cognition, the
+result the promote_when asks for first, since every stimulus was seen. The
+promote_when is updated to say so. The status is unchanged.

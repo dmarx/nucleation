@@ -30,6 +30,7 @@ summary: >-
   (d/2) log n, and [THEORY-079](../theory.d/THEORY-079.md) says the Laplace form errs by a term that
   grows with log n. Both THEORYs are Proposed, so this is too.
 ---
+<!-- inactive-ok-file: THEORY-tmpetzzi — Proposed; the reading named in the note of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-175 THEORY-079 THEORY-087 — Proposed; open, and cited as open: under test, not settled -->
 
 # CLAIM-188: For a candidate structure whose removal makes the remaining model singular, the reification rule's Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular
@@ -101,3 +102,14 @@ candidate makes the model singular.
 ## Note of 2026-10-12: an Active ground for the premise
 
 [THEORY-082](../theory.d/THEORY-082.md) now grounds this claim. The Fisher of a multilayer perceptron "loses rank wherever an output weight is zero", and pruning a hidden unit is exactly that case. It supplies, from an Active THEORY, this claim's premise that the candidates are the singular kind.
+
+## Note of 2026-10-14: a second ground for caution
+
+Grünwald & Roos ([LIT-238](../literature.d/LIT-238.md) §6.3, read in [NOTE-tmp582tx](../notes.d/NOTE-tmp582tx.md)) give a second,
+independent ground for the same caution. When every candidate model is
+misspecified, as a block or coupling model of a real system is, Bayes and
+MDL can prefer the wrong model for large n, and the remedy (Safe Bayes,
+η < 1) changes the effective Occam cost. The review cites the result and
+does not prove it. [THEORY-tmpetzzi](../theory.d/THEORY-tmpetzzi.md) ([LIT-225](../literature.d/LIT-225.md), [NOTE-tmpp6trb](../notes.d/NOTE-tmpp6trb.md)) adds that a
+modeller's prior gives the description-length penalty only for hypotheses
+that are random under that prior.

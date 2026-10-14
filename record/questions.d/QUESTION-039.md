@@ -19,6 +19,10 @@ answered_by:
 - THEORY-039
 - THEORY-212
 - THEORY-229
+- THEORY-tmp99x1h
+- THEORY-tmpqq175
+- THEORY-tmpsluko
+- THEORY-tmpxwps9
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-086](../theory.d/THEORY-086.md),
