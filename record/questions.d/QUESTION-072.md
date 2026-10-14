@@ -9,13 +9,13 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of Fricker's précis (LIT-1004, NOTE-tmpaz74m,
+    After the reading of Fricker's précis (LIT-1004, NOTE-832,
     Skimmed). "Identity prejudice" now reads "prejudice", as in the
     précis. Part 2 notes that hermeneutical injustice needs a gap owed to
     a social group's powerlessness and concerning a social experience,
     which the owner and the assistant are not obviously, and that part 1
     is closer to testimonial injustice. "That reading has not been done"
-    is replaced by the précis reading and THEORY-tmplo3ff. The inactive-ok
+    is replaced by the précis reading and THEORY-317. The inactive-ok
     comment for LIT-1004 reworded from Deferred to Unavailable. The
     question stays open.
 tags:
@@ -37,7 +37,7 @@ summary: >-
   Fricker's sense or only a bias in what persists.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
-<!-- inactive-ok-file: THEORY-tmplo3ff — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
+<!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
@@ -95,8 +95,8 @@ Two kinds of evidence would bear on it:
   merit.
 
 A reading of Fricker would say whether the second case meets her
-definition. Her précis has been read ([NOTE-tmpaz74m](../notes.d/NOTE-tmpaz74m.md), Skimmed), and
-[THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md) states the definitions at that strength: the case meets
+definition. Her précis has been read ([NOTE-832](../notes.d/NOTE-832.md), Skimmed), and
+[THEORY-317](../theory.d/THEORY-317.md) states the definitions at that strength: the case meets
 hermeneutical injustice only if the misfit traces to a group's exclusion
 from making the scheme. Whether any case in the record meets it is still
 open.

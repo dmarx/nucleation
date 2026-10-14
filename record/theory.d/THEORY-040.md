@@ -17,7 +17,7 @@ promote_when: >-
   notion of free agency it is meant to analyse. More surveys asserting the
   circularity worry cannot settle it: LIT-296 gives it one sentence.
   Still unmet as of 2026-10-14: Pereboom's book (LIT-1006) was read only
-  in part (NOTE-tmp46uej), and the four-case argument is in Chapter 4,
+  in part (NOTE-823), and the four-case argument is in Chapter 4,
   which was not read.
 title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
 version: 3
@@ -36,7 +36,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). A
+    After the partial reading of LIT-1006 (NOTE-823, Skimmed). A
     dated line in promote_when records that it is still unmet: the
     four-case argument is in Chapter 4, which was not read. The claim is
     unchanged.

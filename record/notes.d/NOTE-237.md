@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpkjjf0
 paper: LIT-263
 superseded_by:
-- NOTE-tmpmru91
+- NOTE-844
 title: 'Budroni et al., Kochen–Specker contextuality (RMP review)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpmru91, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-844, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-27'
 summary: >-

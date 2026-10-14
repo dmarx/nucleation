@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp6deys
 paper: LIT-251
 superseded_by:
-- NOTE-tmpj78ol
+- NOTE-841
 title: 'Tosh et al., contrastive learning and multi-view redundancy'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpj78ol, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-841, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

@@ -9,10 +9,10 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-787 (NOTE-tmpzvsw5). A note cites Ashby's
+    After the reading of LIT-787 (NOTE-851). A note cites Ashby's
     Chapters 10–11 as a direct ancestor, with his isolation-by-constancies
-    condition and his situation-keyed access, and THEORY-tmp9yigf and
-    THEORY-tmpxwn52. The question stays open.
+    condition and his situation-keyed access, and THEORY-307 and
+    THEORY-324. The question stays open.
 tags:
 - design-rationale
 - epistemology
@@ -32,7 +32,7 @@ answered_by:
 refined_by:
 - QUESTION-064
 ---
-<!-- inactive-ok-file: THEORY-tmp9yigf THEORY-tmpxwn52 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
+<!-- inactive-ok-file: THEORY-307 THEORY-324 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # QUESTION-038: What turns a structure that persists into an anchor that later structure can be built on?
@@ -62,7 +62,7 @@ an anchor from a structure that only persists.
 
 ## Note of 2026-10-14: Ashby's answer
 
-Ashby ([LIT-787](../literature.d/LIT-787.md), read in [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md); [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), [THEORY-tmpxwn52](../theory.d/THEORY-tmpxwn52.md))
+Ashby ([LIT-787](../literature.d/LIT-787.md), read in [NOTE-851](../notes.d/NOTE-851.md); [THEORY-307](../theory.d/THEORY-307.md), [THEORY-324](../theory.d/THEORY-324.md))
 is a direct ancestor of the owner's statement, down to the crystal
 (Ch. 11). His condition for a kept structure to stay kept is isolation: a
 retained part must be cut off by constancies from what is still changing

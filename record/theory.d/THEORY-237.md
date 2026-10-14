@@ -18,7 +18,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the close reading of LIT-256 (NOTE-tmp8mfe9). The Source now
+    After the close reading of LIT-256 (NOTE-828). The Source now
     says that DV tightness "only" at the log derivative is the converse of
     the paper's "whenever", and holds only under mutual absolute
     continuity. The Deferred comment on LIT-256 removed.
@@ -53,7 +53,7 @@ Radon–Nikodym derivative plus a constant. Belghazi et al. say
 "whenever"; that it is tight only there is the converse, which follows
 from their Eq. 25 but is not stated, and the supremum is attained only
 when the joint and the product of marginals are mutually absolutely
-continuous, otherwise it is approached in the limit ([NOTE-tmp8mfe9](../notes.d/NOTE-tmp8mfe9.md)).
+continuous, otherwise it is approached in the limit ([NOTE-828](../notes.d/NOTE-828.md)).
 
 ## What was actually shown
 

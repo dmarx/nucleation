@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpbnnv6
 paper: LIT-235
 superseded_by:
-- NOTE-tmpc8ts7
+- NOTE-833
 title: 'Sun et al. 2023 — spectral theory of novel class discovery'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpc8ts7, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-833, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

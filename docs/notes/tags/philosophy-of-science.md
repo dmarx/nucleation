@@ -4,7 +4,7 @@
 
 **philosophy-of-science**.
 
-132 of 820 NOTE documents. Back to the [full index](../README.md).
+133 of 851 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -140,3 +140,4 @@
 | [NOTE-769](../../../record/notes.d/NOTE-769.md) | Bird & Tobin — Natural Kinds (SEP) | A survey that maps positions rather than arguing for one. Its firmest conclusions are negative: shared natural properties, support for induction and a role in laws are each necessary but not sufficient for a natural kind, and the Kripke–Putnam semantics yields only partial essences, or essences only on assumptions it does not argue. It reports a turn to pluralist, cluster and epistemology-first accounts, against which a purely epistemic criterion is said not to separate natural from conventional kinds. | Read |
 | [NOTE-792](../../../record/notes.d/NOTE-792.md) | Devezer et al. — Scientific discovery in a model-centric framework | A population of scientists, chosen at random each step, tests a proposed linear model against the current consensus model by AIC or SC, and the winner becomes the consensus. Which models get proposed (the strategy mix) decides where the consensus spends its time. A population of boundary testers reproduces results almost perfectly while spending little time at the true model. Replication does not change the transition matrix, so reproducibility cannot cause convergence. A population with all four strategies equally represented is never the worst and has low variance. | Read |
 | [NOTE-793](../../../record/notes.d/NOTE-793.md) | Abel et al. — Agency Is Frame-Dependent | A four-page position paper. It argues, informally, that each of four conditions of agency (a boundary, being the source of action, goal-directedness and adaptivity) can be settled only after a choice of commitments it calls a reference frame, so agency attributions are frame-relative. Each step is adapted from a cited result. It gives no definition of a frame, no proof and no principle for choosing one. | Read |
+| [NOTE-849](../../../record/notes.d/NOTE-849.md) | Seth & Bayne — Theories of consciousness | A review of four families: higher-order, global workspace, integrated information, and reentry and predictive processing theories. Each is sorted by which aspect it explains (global states, local contents, phenomenal character, function), its anatomical commitment, and its evidence. The front-versus-back dispute is at heart a dispute over consciousness and cognitive access. Posterior-sufficiency predictions cannot now be tested because verification relies on report, which needs anterior activity, and no marker of consciousness has a validation that rests neither on introspection nor on a contested theory. | Read |

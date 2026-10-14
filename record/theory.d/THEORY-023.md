@@ -36,9 +36,9 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-982 (NOTE-tmpw4eom). A Connections line cites
+    After the reading of LIT-982 (NOTE-849). A Connections line cites
     its Box 3, the measurement problem for creatures, as the general form
-    of this account's evidential point, with THEORY-tmp1d8wy. The claim is
+    of this account's evidential point, with THEORY-298. The claim is
     unchanged.
 tags:
 - consciousness
@@ -70,7 +70,7 @@ answers:
 - QUESTION-048
 ---
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
-<!-- inactive-ok-file: THEORY-tmp1d8wy — Proposed; the account filed from LIT-982, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-298 — Proposed; the account filed from LIT-982, named in Connections and not leaned on -->
 
 # THEORY-023: Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer
 
@@ -168,7 +168,7 @@ of the dispute and not for its answer.
 - [LIT-159](../literature.d/LIT-159.md) and [LIT-216](../literature.d/LIT-216.md) (Schwitzgebel): the same liberality pressure from the materialist side. Any criterion generous enough for rabbits and aliens credits the United States.
 - [LIT-185](../literature.d/LIT-185.md): a defence of IIT against the expander-grid objection, which Schwitzgebel cites against IIT's application to AI.
 - [LIT-096](../literature.d/LIT-096.md) (Nagel): the definition of consciousness that Birch and Seth share.
-- [LIT-982](../literature.d/LIT-982.md) (Seth & Bayne, Box 3; [THEORY-tmp1d8wy](THEORY-tmp1d8wy.md)): the general form of this account's evidential point. For infants, patients, animals and organoids as for AI, what counts as evidence is itself disputed, the measurement problem for creatures.
+- [LIT-982](../literature.d/LIT-982.md) (Seth & Bayne, Box 3; [THEORY-298](THEORY-298.md)): the general form of this account's evidential point. For infants, patients, animals and organoids as for AI, what counts as evidence is itself disputed, the measurement problem for creatures.
 
 [THEORY-045](THEORY-045.md) locates this deadlock for affect. On Barrett's
 computational version, a system that predicts and regulates a body would

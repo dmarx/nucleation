@@ -32,7 +32,7 @@ history:
 - version: 4
   date: '2026-10-14'
   note: >-
-    After the close reading of LIT-263 (NOTE-tmpmru91). The experiment
+    After the close reading of LIT-263 (NOTE-844). The experiment
     Budroni et al. cite is now said to violate an inequality derived from
     preparation and measurement noncontextuality together, so it refutes
     both together, and to rely on tomographic completeness. LIT-263 is no
@@ -47,7 +47,7 @@ source:
 - LIT-945
 summary: >-
   Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III and §IV, read in full in NOTE-748;
-  restated in Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.E, read in NOTE-tmpmru91). Corrects the
+  restated in Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.E, read in NOTE-844). Corrects the
   reading that contextuality needs dimension three. The dimension-two
   limit holds for sharp measurements only.
 extends:

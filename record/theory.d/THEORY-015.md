@@ -23,7 +23,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the close reading of LIT-263 (NOTE-tmpmru91). The review never
+    After the close reading of LIT-263 (NOTE-844). The review never
     states the decomposition of Kochen–Specker noncontextuality or the
     implication; it is now cited only for §IV.B.3, §IV.E.1 and §IV.E.4.
     The Deferred comment on LIT-263 removed.
@@ -53,7 +53,7 @@ answers:
 
 ## Source
 
-Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX ([NOTE-748](../notes.d/NOTE-748.md)). Supporting, thinly: Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.B.3 on unsharp response functions under measurement noncontextuality, §IV.E.1 for the definitions, and §IV.E.4 on the preparation contextuality of Bell's and Kochen & Specker's qubit models; the review does not state the decomposition or the implication, [NOTE-tmpmru91](../notes.d/NOTE-tmpmru91.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
+Spekkens (2005), [LIT-266](../literature.d/LIT-266.md), §III, §VIII.A–B, §IX ([NOTE-748](../notes.d/NOTE-748.md)). Supporting, thinly: Budroni et al. ([LIT-263](../literature.d/LIT-263.md), §IV.B.3 on unsharp response functions under measurement noncontextuality, §IV.E.1 for the definitions, and §IV.E.4 on the preparation contextuality of Bell's and Kochen & Specker's qubit models; the review does not state the decomposition or the implication, [NOTE-844](../notes.d/NOTE-844.md)); Abramsky & Brandenburger, [LIT-016](../literature.d/LIT-016.md), Thm 8.1 and Prop 3.1; Spekkens (2014), [LIT-007](../literature.d/LIT-007.md), §IV.B.
 
 ## What was actually shown
 

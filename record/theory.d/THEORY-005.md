@@ -14,7 +14,7 @@ promote_when: >-
   formulation for continuous views under the square-integrability (finite
   χ²) condition, or a proof that features trained with a standard
   contrastive loss span the top eigenfunctions of T. A restatement of the
-  finite-space results cannot settle it. Tosh et al. (NOTE-tmpj78ol) use
+  finite-space results cannot settle it. Tosh et al. (NOTE-841) use
   finite E[g*²] = 1 + χ² as the operative condition for landmark
   features, but their Theorems 10–11 need a uniform g_max like HaoChen
   et al.'s F.1, and they have no operator or eigenfunctions; this does
@@ -40,8 +40,8 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-251 (NOTE-tmpj78ol) and LIT-259
-    (NOTE-tmp8nk93). µ is no longer called the Bayes predictor: it is the
+    After close readings of LIT-251 (NOTE-841) and LIT-259
+    (NOTE-829). µ is no longer called the Bayes predictor: it is the
     infer-then-predict function, within εX + 2√(εXεZ) + εZ of it (Lemma
     1). Tosh et al.'s landmark bound is noted as controlled by
     E[g*²] = 1 + χ², with their Theorems 10–11 needing a uniform g_max;

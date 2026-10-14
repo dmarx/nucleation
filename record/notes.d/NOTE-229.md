@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpl1ann
 paper: LIT-255
 superseded_by:
-- NOTE-tmpeh5ik
+- NOTE-837
 title: 'Information Theory with Kernel Methods'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpeh5ik, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-837, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

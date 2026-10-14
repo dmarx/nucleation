@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-982 (NOTE-tmpw4eom). "What the record holds"
-    adds THEORY-tmp1d8wy, with its limit. The question stays open.
+    After the reading of LIT-982 (NOTE-849). "What the record holds"
+    adds THEORY-298, with its limit. The question stays open.
 tags:
 - consciousness
 - philosophy-of-science
@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
 <!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim this question bears on, with its line set aside -->
-<!-- inactive-ok-file: THEORY-245 THEORY-296 THEORY-tmp1d8wy — Proposed; the COGITATE readings, cited for the kind of evidence they are -->
+<!-- inactive-ok-file: THEORY-245 THEORY-296 THEORY-298 — Proposed; the COGITATE readings, cited for the kind of evidence they are -->
 
 # QUESTION-048: What can report, no-report, deficit and architectural evidence each establish about experience as opposed to access, and does any of it survive in a system that lacks cortex or biology?
 
@@ -50,7 +50,7 @@ Two claims on the organizational-affect line depend on the answer. [CLAIM-039](.
 - [THEORY-023](../theory.d/THEORY-023.md) (architecture and behaviour): mimicry undercuts behavioural evidence, and architectural indicators "presuppose the disputed computational functionalism". So the dispute is "over what counts as evidence as well as the answer". Limit: about AI. The architectural half applies to any non-biological system; the mimicry half needs training on human output.
 - COGITATE ([LIT-973](../literature.d/LIT-973.md), [NOTE-812](../notes.d/NOTE-812.md); [THEORY-245](../theory.d/THEORY-245.md), [THEORY-296](../theory.d/THEORY-296.md)) is task-based no-report evidence. Percept and stimulus never came apart, and the authors concede that "some might argue our approach tracks stimulus processing rather than consciousness", so nothing in it separates experience from processing, which is [THEORY-094](../theory.d/THEORY-094.md)'s limit. Its own view, that theory tests reach implementations and not cores, supports [THEORY-023](../theory.d/THEORY-023.md)'s evidential point.
 - [LIT-965](../literature.d/LIT-965.md) ([NOTE-797](../notes.d/NOTE-797.md)), on emergence from anaesthesia, is deficit-and-recovery evidence of the kind this question asks about, and it confirms [THEORY-091](../theory.d/THEORY-091.md)'s limit: its marker of returning consciousness, response to command, is a marker of access. Limit: it uses human emergence data only. Birds and early mammals are reached by homology of anatomy, not by anaesthesia evidence from them.
-- [THEORY-tmp1d8wy](../theory.d/THEORY-tmp1d8wy.md) ([LIT-982](../literature.d/LIT-982.md), [NOTE-tmpw4eom](../notes.d/NOTE-tmpw4eom.md)): report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory. Its Box 3 extends the problem to infants, patients, animals and organoids. Limit: an argument in a review, not a result, and it says the methods are lacking "at present"; it offers no evidence that carries over to systems without cortex.
+- [THEORY-298](../theory.d/THEORY-298.md) ([LIT-982](../literature.d/LIT-982.md), [NOTE-849](../notes.d/NOTE-849.md)): report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory. Its Box 3 extends the problem to infants, patients, animals and organoids. Limit: an argument in a review, not a result, and it says the methods are lacking "at present"; it offers no evidence that carries over to systems without cortex.
 
 ## What would answer it
 

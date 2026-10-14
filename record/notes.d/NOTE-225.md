@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpfq8cv
 paper: LIT-257
 superseded_by:
-- NOTE-tmpcc47a
+- NOTE-834
 title: 'What Similarity Measures Imply about Decodability'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpcc47a, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-834, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

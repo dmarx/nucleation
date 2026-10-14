@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp6l5l9
 paper: LIT-231
 superseded_by:
-- NOTE-tmpyexl4
+- NOTE-850
 title: 'Assran et al. 2022 — hidden uniform cluster prior in SSL'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpyexl4, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-850, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

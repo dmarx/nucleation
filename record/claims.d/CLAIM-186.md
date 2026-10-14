@@ -17,8 +17,8 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the readings of LIT-929 (NOTE-tmpkn9jn), LIT-931 (NOTE-tmp9vrtb)
-    and LIT-932 (NOTE-tmphb8jp). In the note of 2026-10-11: the shear-flow
+    After the readings of LIT-929 (NOTE-842), LIT-931 (NOTE-831)
+    and LIT-932 (NOTE-839). In the note of 2026-10-11: the shear-flow
     transition is now Trefethen et al.'s conjecture from a 2 × 2 model;
     directed coupling as a source of non-normality is attributed to the
     record, not the papers; the nonautonomous bullet says time variation
@@ -66,7 +66,7 @@ summary: >-
 objected_by:
 - CLAIM-190
 ---
-<!-- inactive-ok-file: THEORY-tmpwdx4q THEORY-tmpyhatw THEORY-tmp62hye — Proposed; the accounts filed from the readings of LIT-931, LIT-929 and LIT-932, cited in the note of 2026-10-11 and not leaned on -->
+<!-- inactive-ok-file: THEORY-323 THEORY-325 THEORY-304 — Proposed; the accounts filed from the readings of LIT-931, LIT-929 and LIT-932, cited in the note of 2026-10-11 and not leaned on -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; cited for the two open problems the second crystallized argument left out -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as the history of a thesis or term, whose change is the point -->
@@ -126,8 +126,8 @@ the same stretch.
 ## Note of 2026-10-11 (later): settling does not rule out bursts
 
 Generalized stability theory ([LIT-931](../literature.d/LIT-931.md), [LIT-929](../literature.d/LIT-929.md), and Trefethen
-et al., [LIT-932](../literature.d/LIT-932.md), read on 2026-10-14 in [NOTE-tmp9vrtb](../notes.d/NOTE-tmp9vrtb.md), [NOTE-tmpkn9jn](../notes.d/NOTE-tmpkn9jn.md)
-and [NOTE-tmphb8jp](../notes.d/NOTE-tmphb8jp.md); [THEORY-tmpwdx4q](../theory.d/THEORY-tmpwdx4q.md), [THEORY-tmpyhatw](../theory.d/THEORY-tmpyhatw.md), [THEORY-tmp62hye](../theory.d/THEORY-tmp62hye.md))
+et al., [LIT-932](../literature.d/LIT-932.md), read on 2026-10-14 in [NOTE-831](../notes.d/NOTE-831.md), [NOTE-842](../notes.d/NOTE-842.md)
+and [NOTE-839](../notes.d/NOTE-839.md); [THEORY-323](../theory.d/THEORY-323.md), [THEORY-325](../theory.d/THEORY-325.md), [THEORY-304](../theory.d/THEORY-304.md))
 adds a qualification. When a
 system's operator is non-normal, it can be stable in every mode and still
 amplify a disturbance by a large factor for a while before the disturbance

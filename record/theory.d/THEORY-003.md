@@ -7,9 +7,9 @@ promote_when: >-
   A close reading of Li et al. App. B.2 and of Muandet et al. Lemma 3.1
   confirming the identity and the lemma with their integrability conditions.
   Both are proved in the sources; this record has so far only skimmed them.
-  Both halves look met as of 2026-10-14: NOTE-tmp9jxqd confirms the B.2
+  Both halves look met as of 2026-10-14: NOTE-830 confirms the B.2
   identity, with the constant N/Δ_l and, for the bounded kernels the paper
-  uses, the integrability condition through Lemma 3.1; NOTE-tmpgvy79
+  uses, the integrability condition through Lemma 3.1; NOTE-838
   confirms Lemma 3.1 with its condition E_P√k(X,X) < ∞. Promotion is the
   owner's call.
 title: 'Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images'' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem'
@@ -18,13 +18,13 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-248 (NOTE-tmp9jxqd) and LIT-260 (NOTE-tmpgvy79). The MMD–HSIC constant corrected to N/Δ_l, and the citation
+    After close readings of LIT-248 (NOTE-830) and LIT-260 (NOTE-838). The MMD–HSIC constant corrected to N/Δ_l, and the citation
     to the unnumbered B.2 identity rather than eq. 5. The InfoNCE–HSIC
     link is no longer called only a small-variance approximation: eq. 28
     is exact and Theorem B.1 a bound; the disclaimer that InfoNCE is HSIC
     is kept. MMD is a metric only for characteristic kernels. promote_when
     records that both halves now look met; the status is unchanged, for
-    the owner. THEORY-tmpijp65 cited in Connections. The Deferred comments
+    the owner. THEORY-312 cited in Connections. The Deferred comments
     on LIT-248 and LIT-260 removed.
 tags:
 - representation-learning
@@ -42,7 +42,7 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-tmpijp65 — Proposed; the account of eq. 28 and Theorem B.1 filed from LIT-248, named in Connections -->
+<!-- inactive-ok-file: THEORY-312 — Proposed; the account of eq. 28 and Theorem B.1 filed from LIT-248, named in Connections -->
 
 # THEORY-003: Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem
 
@@ -64,4 +64,4 @@ Li et al. show that with one-hot image-identity labels, (1/2N²)Σ_ij MMD²(i,j)
 
 ## Connections
 
-- [THEORY-tmpijp65](THEORY-tmpijp65.md), filed from the close reading of [LIT-248](../literature.d/LIT-248.md), holds eq. 28 and Theorem B.1 at the strength they are established: the large-batch InfoNCE loss is −HSIC(Z,Y) plus a nonnegative term, so it bounds a kernel dependence loss from above.
+- [THEORY-312](THEORY-312.md), filed from the close reading of [LIT-248](../literature.d/LIT-248.md), holds eq. 28 and Theorem B.1 at the strength they are established: the large-batch InfoNCE loss is −HSIC(Z,Y) plus a nonnegative term, so it bounds a kernel dependence loss from above.

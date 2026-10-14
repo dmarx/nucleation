@@ -28,7 +28,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the close reading of LIT-263 (NOTE-tmpmru91): a dated line
+    After the close reading of LIT-263 (NOTE-844): a dated line
     records that the review does not discuss the cohomological witness,
     answering this note's open point. The reading is unchanged.
 date: '2026-09-27'
@@ -206,7 +206,7 @@ The class has to be *relative* to the context of the section. The paper builds t
   - *The difference.* AMB's relaxation is integral, possibilistic and confined to the support. It still leaves an obstruction in the PR box, GHZ, Kochen–Specker and Peres–Mermin cases, where the real unrestricted relaxation of Thm 5.9 always succeeds.
   - *What follows.* Which coefficient relaxations keep discriminating power is a question the two results pose together, not one either answers. It does not change [THEORY-014](../theory.d/THEORY-014.md)'s statement, which is about real, probabilistic sections.
 - **[LIT-265](../literature.d/LIT-265.md) (contextual fraction; Deferred, seeded not read).** Strong contextuality is non-contextual fraction 0 ([LIT-016](../literature.d/LIT-016.md) Prop 6.3), i.e. CF = 1. So γ ≠ 0 on every section certifies CF = 1 for PR, GHZ, Kochen–Specker and Peres–Mermin. The obstruction is qualitative and cannot grade models with CF < 1. The Hardy model has CF < 1, and there γ gives nothing at all. The two tools are complementary.
-- **[LIT-263](../literature.d/LIT-263.md) (Budroni et al. review; Deferred, skimmed).** The record's skim lists "logical and strong contextuality" (§IV.A.4) and the sheaf formulation among equivalent definitions. Whether the review discusses the cohomological witness is unverified. *Answered 2026-10-14 ([NOTE-tmpmru91](NOTE-tmpmru91.md)):* it does not; §IV.A.4 names topological and cohomological follow-ups in one sentence. This paper's possibilistic non-extendability is what that literature calls logical contextuality.
+- **[LIT-263](../literature.d/LIT-263.md) (Budroni et al. review; Deferred, skimmed).** The record's skim lists "logical and strong contextuality" (§IV.A.4) and the sheaf formulation among equivalent definitions. Whether the review discusses the cohomological witness is unverified. *Answered 2026-10-14 ([NOTE-844](NOTE-844.md)):* it does not; §IV.A.4 names topological and cohomological follow-ups in one sentence. This paper's possibilistic non-extendability is what that literature calls logical contextuality.
 - **[THEORY-013](../theory.d/THEORY-013.md), [THEORY-015](../theory.d/THEORY-015.md), [THEORY-016](../theory.d/THEORY-016.md).** There is no bearing, only a boundary.
   - *[THEORY-013](../theory.d/THEORY-013.md).* The construction presupposes no-signalling (consistent connectedness), so it says nothing about the context-dependent marginals Contextuality-by-Default handles.
   - *[THEORY-015](../theory.d/THEORY-015.md) and [THEORY-016](../theory.d/THEORY-016.md).* The notion is Kochen–Specker/sheaf contextuality only. Spekkens's generalized contextuality does not appear.

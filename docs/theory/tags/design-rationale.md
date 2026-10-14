@@ -6,8 +6,8 @@
 
 **Design rationale** — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-0 of 296 THEORY documents. Back to the [full index](../README.md).
+1 of 325 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-311](../../../record/theory.d/THEORY-311.md) | Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own | Grudin (1994), [LIT-757](../../../record/literature.d/LIT-757.md), read in [NOTE-835](../../../record/notes.d/NOTE-835.md). The first of his eight challenges for groupware, argued from cases (meeting schedulers, voice annotation, project management) and from email's success, where the sender does a little more work and also wants the message read. An argued review, not a measurement, and Grudin himself says that removing the disparity does not guarantee use. | Proposed |

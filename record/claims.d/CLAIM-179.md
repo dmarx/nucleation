@@ -9,8 +9,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the readings of LIT-757 (NOTE-tmpdnj1q) and LIT-787
-    (NOTE-tmpzvsw5). LIT-757 added to grounds beside the unread LIT-759. A
+    After the readings of LIT-757 (NOTE-835) and LIT-787
+    (NOTE-851). LIT-757 added to grounds beside the unread LIT-759. A
     note records Grudin's two qualifications: removing the disparity does
     not guarantee use, though the defeater names only the disparity, and
     his issue-based system was abandoned for political reasons (challenge
@@ -53,7 +53,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-759 LIT-760 LIT-761 — Unavailable; no copy could be obtained, cited for the argument ADR-030 summarises them for, not for a reading here -->
-<!-- inactive-ok-file: THEORY-tmpefpin — Proposed; the disparity account filed from the reading of LIT-757, cited in a note and not leaned on -->
+<!-- inactive-ok-file: THEORY-311 — Proposed; the disparity account filed from the reading of LIT-757, cited in a note and not leaned on -->
 
 # CLAIM-179: When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over
 
@@ -106,7 +106,7 @@ structures escape the bound, so this is a question to test, not a result
 to apply. It is also a further reason for the second-occurrence throttle
 ([CLAIM-176](CLAIM-176.md)).
 
-*Added 2026-10-14 ([NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md)):* Ashby ([LIT-787](../literature.d/LIT-787.md), S. 20/10) is an
+*Added 2026-10-14 ([NOTE-851](../notes.d/NOTE-851.md)):* Ashby ([LIT-787](../literature.d/LIT-787.md), S. 20/10) is an
 earlier, empirical version of May's result. Of random linear systems
 sampled up to 4 × 4, the fraction stable fell roughly as 1/2ⁿ, and "large
 linear systems should be assumed to be unstable". He also names the
@@ -133,7 +133,7 @@ Unavailable, so the bound is still cited unread.
 
 ## Note of 2026-10-14: what Grudin's read article adds
 
-Grudin's 1994 article ([LIT-757](../literature.d/LIT-757.md), read in [NOTE-tmpdnj1q](../notes.d/NOTE-tmpdnj1q.md); [THEORY-tmpefpin](../theory.d/THEORY-tmpefpin.md))
+Grudin's 1994 article ([LIT-757](../literature.d/LIT-757.md), read in [NOTE-835](../notes.d/NOTE-835.md); [THEORY-311](../theory.d/THEORY-311.md))
 states the disparity as the first of eight challenges, so the premise can
 rest on a read paper and not only on the unread 1988 one ([LIT-759](../literature.d/LIT-759.md)). It
 qualifies the claim twice.

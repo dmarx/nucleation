@@ -30,8 +30,8 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-227 (NOTE-tmpohlyt) and LIT-251
-    (NOTE-tmpj78ol). Tan et al. removed from Source: they name no optimum
+    After close readings of LIT-227 (NOTE-846) and LIT-251
+    (NOTE-841). Tan et al. removed from Source: they name no optimum
     and no density ratio; their objective identity is now under
     Connections. The §2.4 quotation from Tosh et al. replaced with the
     paper's own words, and their §5 cited for the log-versus-ratio
@@ -59,7 +59,7 @@ extended_by:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-tmp7rs2e — Proposed; Tan et al.'s objective identity, cited under Connections as a different statement -->
+<!-- inactive-ok-file: THEORY-305 — Proposed; Tan et al.'s objective identity, cited under Connections as a different statement -->
 
 # THEORY-001: On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio
 
@@ -83,4 +83,4 @@ The derivation could have come out otherwise: a loss whose optimum depended on t
 
 ## Connections
 
-- Tan et al. ([LIT-227](../literature.d/LIT-227.md), [THEORY-tmp7rs2e](THEORY-tmp7rs2e.md)) show a different statement: InfoNCE equals a Laplacian form on the positive-pair graph plus log normalizers, at every embedding. They name no optimum and no density ratio.
+- Tan et al. ([LIT-227](../literature.d/LIT-227.md), [THEORY-305](THEORY-305.md)) show a different statement: InfoNCE equals a Laplacian form on the positive-pair graph plus log normalizers, at every embedding. They name no optimum and no density ratio.

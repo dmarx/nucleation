@@ -17,7 +17,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-787 (NOTE-tmpzvsw5). A Connections line adds
+    After the reading of LIT-787 (NOTE-851). A Connections line adds
     Ashby's recurrent-situation chapter: separate stores keyed to the
     situation, with interference growing with similarity. The claim is
     unchanged.
@@ -55,7 +55,7 @@ complements:
 objected_by:
 - CLAIM-181
 ---
-<!-- inactive-ok-file: THEORY-tmp9yigf — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of a thesis or term, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -131,7 +131,7 @@ defines it. This claim was narrowed to match.
 
 ## Connections
 
-- Ashby ([LIT-787](../literature.d/LIT-787.md), Ch. 10; [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), read in [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md)): the
+- Ashby ([LIT-787](../literature.d/LIT-787.md), Ch. 10; [THEORY-307](../theory.d/THEORY-307.md), read in [NOTE-851](../notes.d/NOTE-851.md)): the
   benefit of a recurrent situation is that the second response can be
   immediate, and that needs a separate store for the situation, selected
   by the situation itself; interference between stores grows with the
