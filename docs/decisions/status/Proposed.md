@@ -4,8 +4,8 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-0 of 40 decisions. Back to the [full index](../README.md).
+1 of 41 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [ADR-041](../../../record/decisions.d/ADR-041.md) | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred | `Deferred` on a LIT held two different situations: a work nobody has yet tried to read, and a work whose lawful full text was looked for and not reached. The owner asked for the two to be told apart. The lit-statuses vocabulary gains `Unavailable` ("No copy reached"), and `Deferred` keeps "no attempt recorded". 177 of the 345 Deferred LITs had a status note recording a failed search, and they move. Among them are 8 where a lawful copy exists but this client could not fetch it. Three were left Deferred because their notes record no search. The other 168 stay Deferred. | Proposed |

@@ -6,8 +6,9 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-1 of 81 QUESTION documents. Back to the [full index](../README.md).
+2 of 94 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-034](../../../record/questions.d/QUESTION-034.md) | If an agent is a population of interests, what makes it act as one: bargaining among the interests, a change in which of them may act, or agreement among them? | The owner's prompt of 2026-10-11: the self as a multi-agent system, connected to synchronization through temporal discounting, mindfulness and flow. It sharpens [QUESTION-015](../../../record/questions.d/QUESTION-015.md) for the case the record already reads as a population ([THEORY-067](../../../record/theory.d/THEORY-067.md)) and asks whether the three are three routes to integration, distinguished by what each does to the crossing of the interests' valuations. Open: every answer filed is Proposed. | Open |
+| [QUESTION-092](../../../record/questions.d/QUESTION-092.md) | Is endogenous governance part of what makes a system self-governing: can an organization that allocates authority among its own processes be self-governing in a stronger sense than a behaviourally equivalent one whose allocation an external scheduler sets? | A11's Q1, which it asked be kept apart from Q4 ([QUESTION-086](../../../record/questions.d/QUESTION-086.md)). Q4 asks whether the difference can be detected. This asks whether there is a difference that matters to self-governance at all. The record's thesis answers yes ([CLAIM-284](../../../record/claims.d/CLAIM-284.md)), and [CLAIM-116](../../../record/claims.d/CLAIM-116.md) warns that regulation, even of regulation, does not establish a will. | Open |

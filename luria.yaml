@@ -228,7 +228,13 @@ vocabularies:
         blurb: promising and unproven; the note says what would settle it
       Deferred:
         label: Unreviewed
-        blurb: in the corpus, not yet read closely enough to place
+        blurb: in the corpus, not yet read closely enough to place, and no failed search for a copy is
+          recorded — nobody has tried yet, or reading stopped at the abstract or a skim
+      Unavailable:
+        label: No copy reached
+        blurb: a lawful full text was looked for and none could be obtained — none was found, or one was
+          found that this client could not fetch; the status note says where and when. Not a judgement
+          on merit, and a supplied copy returns it to reading (ADR-041)
       Superseded:
         label: Superseded
         blurb: later work covers this better, and the note names it
@@ -493,6 +499,13 @@ vocabularies:
           drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on,
           and the manuscript becomes a view over the argument rather than its only copy. luria is the tool and
           this record the case'
+      self-as-recursive-ecology:
+        label: The Self as a Recursive Ecology of Meaning and Influence
+        blurb: 'the owner''s manuscript idea, proposed 2026-10-13 from an exchange on meaning operators: a self
+          as a metastable, recursively composed organization of processes that transform shared meaning and allocate
+          authority to one another by endorsement, with trust, specialization and higher-level agency emerging rather
+          than imposed; r/place as the observable case, and a constitutive question kept apart from the explanatory
+          one'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs

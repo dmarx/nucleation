@@ -20,6 +20,8 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-025](../claims.d/CLAIM-025.md) and
   [CLAIM-099](../claims.d/CLAIM-099.md). [THEORY-149](../theory.d/THEORY-149.md), [THEORY-152](../theory.d/THEORY-152.md) and [THEORY-207](../theory.d/THEORY-207.md) answer it in part; the
   body gives each one's limit.
+refined_by:
+- QUESTION-089
 ---
 
 # QUESTION-041: When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization?

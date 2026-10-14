@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-33 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+35 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -251,3 +251,13 @@
 
 - [CLAIM-202](../record/claims.d/CLAIM-202.md) — What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings *(thesis, Proposed)*
   - [CLAIM-205](../record/claims.d/CLAIM-205.md) — A win over the static pragmatic profile shows that context matters, not that the transport formalism contributes: functional and relevance-theoretic accounts need not fix one context, so the rival the incremental thesis must beat is a strong contextual baseline of rich context-response profiles and supervised prediction *(counter, Proposed)*
+
+## From Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed
+
+- [CLAIM-286](../record/claims.d/CLAIM-286.md) — Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed *(thesis, Proposed)*
+  - [CLAIM-278](../record/claims.d/CLAIM-278.md) — An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids *(counter, Proposed)*
+
+## From A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
+
+- [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(thesis, Proposed)*
+  - [CLAIM-288](../record/claims.d/CLAIM-288.md) — A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself *(counter, Proposed)*

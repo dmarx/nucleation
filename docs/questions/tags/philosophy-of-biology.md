@@ -6,8 +6,9 @@
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 
-0 of 81 QUESTION documents. Back to the [full index](../README.md).
+2 of 94 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-085](../../../record/questions.d/QUESTION-085.md) | Does a maintained r/place artwork feed back into the flow of repair that keeps it, so that it is self-maintaining like a candle flame, or is its defence supplied from outside like the heat under a convection cell, and does the answer change when its coalition starts switching strategies? | The question [CLAIM-273](../../../record/claims.d/CLAIM-273.md) leaves open, set on the ladder the record's readings already hold. An inert pattern needs no flow. A dissipative structure is held by a flow supplied from outside. A self-maintaining one, Bickhard's and Mossio et al.'s candle flame, contributes to the flow that keeps it. A recursively self-maintaining one switches among ways of keeping itself going. An answer says which rung an artwork reaches, by a test that could fail on the placement and forum records. | Open |
+| [QUESTION-087](../../../record/questions.d/QUESTION-087.md) | Can an authority structure that reproduces itself be pathological by a standard grounded in the organization's own organization, and not in goals assigned to it from outside? | A11's Q2. The record has the phenomenon, protective lock-in ([TERM-020](../../../record/terms.d/TERM-020.md)): a regime that generates the conditions that justify its continuation. And it has a disclaimer: viability does not establish what ought to persist ([CLAIM-075](../../../record/claims.d/CLAIM-075.md)). It does not have the question of whether a standard intrinsic to the organization could tell entrenched authority from merited trust. Organizational accounts of malfunction are the nearest literature. | Open |

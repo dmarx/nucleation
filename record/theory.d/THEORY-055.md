@@ -50,6 +50,8 @@ presupposed_by:
 - THEORY-126
 supports:
 - CLAIM-039
+- CLAIM-275
+- CLAIM-283
 answers:
 - QUESTION-044
 ---

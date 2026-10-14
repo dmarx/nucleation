@@ -6,8 +6,9 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-1 of 81 QUESTION documents. Back to the [full index](../README.md).
+2 of 94 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-041](../../../record/questions.d/QUESTION-041.md) | When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-030](../../../record/claims.d/CLAIM-030.md), [CLAIM-025](../../../record/claims.d/CLAIM-025.md) and [CLAIM-099](../../../record/claims.d/CLAIM-099.md). [THEORY-149](../../../record/theory.d/THEORY-149.md), [THEORY-152](../../../record/theory.d/THEORY-152.md) and [THEORY-207](../../../record/theory.d/THEORY-207.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-082](../../../record/questions.d/QUESTION-082.md) | When a polity is steered by polling, whose reasons do its decisions carry: its members', its own, or none? | Raised by the owner on 2026-10-13, in conversation, as an implication of [CLAIM-030](../../../record/claims.d/CLAIM-030.md) for "how modern politics leans so heavily on polling data", and sharpened by the owner from a whole's good to a whole's reasons. A poll aggregates members' conclusions one question at a time. On [THEORY-127](../../../record/theory.d/THEORY-127.md) that cannot in general yield a collective whose verdicts its own reasons support, and on [THEORY-131](../../../record/theory.d/THEORY-131.md) and [THEORY-139](../../../record/theory.d/THEORY-139.md) a collective's reasons are made by its procedures, not sampled from its members. What would count as an answer is in the body. | Open |

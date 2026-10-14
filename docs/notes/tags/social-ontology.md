@@ -4,7 +4,7 @@
 
 **social-ontology**.
 
-29 of 716 NOTE documents. Back to the [full index](../README.md).
+29 of 733 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,8 +6,8 @@
 
 **Thermodynamics** — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
-0 of 270 CLAIM documents. Back to the [full index](../README.md).
+1 of 288 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-273](../../../record/claims.d/CLAIM-273.md) v2 | A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability | The owner, on reading Wu and Silva's finding that lasting artworks are those whose coalitions keep working under continual overwriting: "sounds like there's likely a connection to dissipative structure here". It holds for half of Prigogine's criterion ([NOTE-424](../../../record/notes.d/NOTE-424.md)): an open system kept from the state it would drift to by a sustained flow, here of placements. The flow works against two sources of corruption. One is rival coalitions. The other is unaffiliated placement, a real decay whose rate falls over the event (version 2, the owner's correction, [CLAIM-274](../../../record/claims.d/CLAIM-274.md)). It fails for the other half, since an artwork's order comes from a template, not from an instability (Adams et al.). No thermodynamic quantity is defined. | Proposed |

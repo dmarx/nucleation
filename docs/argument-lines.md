@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-12 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+13 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -23,6 +23,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
     - [CLAIM-174](../record/claims.d/CLAIM-174.md) — A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization *(Proposed)* — also rests on CLAIM-154
 - [CLAIM-154](../record/claims.d/CLAIM-154.md) — A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio *(Active)*
 - [CLAIM-164](../record/claims.d/CLAIM-164.md) — What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide *(Active)*
+
+### From Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements
+
+- [CLAIM-282](../record/claims.d/CLAIM-282.md) — Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements *(Active)*
+  - [CLAIM-285](../record/claims.d/CLAIM-285.md) — An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities *(Proposed)*
 
 ## pragmatic-transport
 
@@ -100,8 +105,10 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-019](../record/claims.d/CLAIM-019.md) — Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor *(Active)*
 - [CLAIM-025](../record/claims.d/CLAIM-025.md) — An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately *(Proposed)*
   - [CLAIM-099](../record/claims.d/CLAIM-099.md) — Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement *(Active)* — through [ARG-007](../record/arguments.d/ARG-007.md) — also argued from CLAIM-079
+  - [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(Proposed)*
 - [CLAIM-030](../record/claims.d/CLAIM-030.md) — An organized whole's operative intention is not the expectation of its members' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend *(Active)*
   - [CLAIM-192](../record/claims.d/CLAIM-192.md) — A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions *(Proposed)* — also rests on CLAIM-177
+  - [CLAIM-271](../record/claims.d/CLAIM-271.md) — A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support *(Proposed)*
 - [CLAIM-034](../record/claims.d/CLAIM-034.md) — Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source's relevant possibilities rather than equivalence *(Proposed)*
 - [CLAIM-035](../record/claims.d/CLAIM-035.md) — Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme *(Active)*
   - [CLAIM-098](../record/claims.d/CLAIM-098.md) — Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases *(Proposed)*

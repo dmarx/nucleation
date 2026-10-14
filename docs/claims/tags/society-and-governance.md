@@ -6,7 +6,7 @@
 
 **Society and governance** — law, politics, policy, security and institutions — court records, doctrine, democratic theory, information operations.
 
-4 of 270 CLAIM documents. Back to the [full index](../README.md).
+5 of 288 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [CLAIM-057](../../../record/claims.d/CLAIM-057.md) | Precedence, jurisdiction and suspension can vary independently | Shown by the classification variants of Northstar (Sections 5.3–5.5): a formally absolute rule can be weak because another process controls entry into its domain. | Active |
 | [CLAIM-086](../../../record/claims.d/CLAIM-086.md) | A constraint may govern conduct without governing the conditions under which it remains authoritative | The structural lesson the paper takes from Fraenkel (Section 5.6), with two independent lines of support: the historical analogy and the constructed Northstar case. The audit's "strong conceptual refinement". | Active |
 | [CLAIM-089](../../../record/claims.d/CLAIM-089.md) | Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy | The redescription objection (Sections 1, 3.5). The paper answers the individual-attitude version; the aggregate revealed-preference version is still open, so this counter stays Proposed. | Proposed |
+| [CLAIM-271](../../../record/claims.d/CLAIM-271.md) | A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support | The owner's thesis of 2026-10-13, given in conversation by refining "the good of a higher level agent need not align with the respective goods of the parts" to reasons. The assistant drew the polling consequence. On [THEORY-127](../../../record/theory.d/THEORY-127.md) a group that judges linked propositions must choose between aggregating premises and aggregating conclusions, and the two can disagree. A poll aggregates conclusions. It does not say that polling is illegitimate, nor that the collective knows better than its members. | Proposed |

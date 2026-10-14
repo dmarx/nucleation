@@ -51,6 +51,8 @@ summary: >-
   independent test, and the reply unread.
 answers:
 - QUESTION-044
+supports:
+- CLAIM-275
 ---
 <!-- inactive-ok-file: LIT-550 — Deferred, no lawful full text; named as the reply that could move this account, not leaned on -->
 <!-- inactive-ok-file: THEORY-055 THEORY-045 THEORY-036 — Proposed; the rival and the neighbours, stated as such -->

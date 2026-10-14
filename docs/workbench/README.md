@@ -6,6 +6,9 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [13 Oct 22:13 — The same audit for claims and cases: eight claims and four cases added from the meaning-operators exchange](2026-10.md#the-same-audit-for-claims-and-cases-eight-claims-and-four-cases-added-from-the-meaning-operators-exchange)
+- [13 Oct 22:04 — The first filing of the meaning-operators exchange under-filed its questions: ten added, and the manuscript registered](2026-10.md#the-first-filing-of-the-meaning-operators-exchange-under-filed-its-questions-ten-added-and-the-manuscript-registered)
+- [13 Oct 21:29 — Session of 2026-10-13, 19:43–21:12 (U1–U11): meaning operators, an influence canvas, r/place, and a constitutive theory of selfhood](2026-10.md#session-of-2026-10-13-19432112-u1u11-meaning-operators-an-influence-canvas-rplace-and-a-constitutive-theory-of-selfhood)
 - [13 Oct 01:14 — ADR-040: plural lines, the formal-apparatus line, group A and group B](2026-10.md#adr-040-plural-lines-the-formal-apparatus-line-group-a-and-group-b)
 - [12 Oct 21:10 — Session of 2026-10-12: an interlocutor reads LIT-638 against CLAIM-163, filed as advice](2026-10.md#session-of-2026-10-12-an-interlocutor-reads-lit-638-against-claim-163-filed-as-advice)
 - [12 Oct 20:35 — Session of 2026-10-12: the interlocutor reads PR #121's reconciliation, filed as advice](2026-10.md#session-of-2026-10-12-the-interlocutor-reads-pr-121s-reconciliation-filed-as-advice)
@@ -53,8 +56,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-44 entries across 1 book, newest first.
+47 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 44 | 2026-10-07 | 2026-10-13 |
+| [2026-10](2026-10.md) | 47 | 2026-10-07 | 2026-10-13 |
