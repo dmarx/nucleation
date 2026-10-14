@@ -4,8 +4,9 @@
 
 **design-rationale**.
 
-1 of 820 NOTE documents. Back to the [full index](../README.md).
+2 of 851 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-811](../../../record/notes.d/NOTE-811.md) | Kunz & Rittel — Issues as Elements of Information Systems | A short design statement, not a study. IBIS treats planning as an argumentative process whose atoms are issues, questions put because positions differ; arguments for and against positions run until an issue is settled, and a challenge to a supporting statement becomes a new issue. Every item is numbered for reference, issues are filed as living, settled or latent, and three manual systems are reported in use with "eager acceptance". It says nothing about what keeping one costs. | Read |
+| [NOTE-835](../../../record/notes.d/NOTE-835.md) | Grudin — Groupware and social dynamics | An argued review, not a study. Groupware fails less from technical problems than from eight social challenges, first among them that it asks extra work of members who get no direct benefit. The evidence is cases and the literature: meeting schedulers, voice annotation, project management, an abandoned issue-based system. Email succeeds because the sender who does the work is also the one who wants the message read. | Read |

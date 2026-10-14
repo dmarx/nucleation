@@ -21,7 +21,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-252 (NOTE-tmp5aqd2): the inactive-ok comments
+    After the reading of LIT-252 (NOTE-824): the inactive-ok comments
     trimmed of codes now Active or Open. The reading is unchanged.
 date: '2026-10-14'
 summary: >-

@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpagj8n
 paper: LIT-234
 superseded_by:
-- NOTE-tmpnt803
+- NOTE-845
 title: 'Balestriero, Bottou & LeCun 2022 — regularization is class-dependent'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpnt803, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-845, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

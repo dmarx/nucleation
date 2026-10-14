@@ -46,13 +46,13 @@ history:
 - version: 4
   date: '2026-10-14'
   note: >-
-    After close readings of LIT-252 (NOTE-tmp5aqd2), LIT-260
-    (NOTE-tmpgvy79) and LIT-261 (NOTE-tmpe7ywm). The summary no longer
+    After close readings of LIT-252 (NOTE-824), LIT-260
+    (NOTE-838) and LIT-261 (NOTE-836). The summary no longer
     groups SpIN with the positive-pair distribution: there symmetry is a
     precondition on k, which puts it nearer Simon et al. "Riesz is what
     makes a kernel mean embedding exist" now reads that the review obtains
     it by Riesz; a Bochner integral also works. The eqs. 18–24 reading of
-    LIT-261 is confirmed and its account, THEORY-tmpiw6t1, cited. The
+    LIT-261 is confirmed and its account, THEORY-314, cited. The
     Deferred comments on LIT-252, LIT-260 and LIT-261 removed.
     promote_when is not met.
 - version: 5
@@ -84,7 +84,7 @@ answers:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: THEORY-239 — Proposed; the account filed from LIT-975, cited for the mechanism it sharpens, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpiw6t1 — Proposed; the representer-theorem account filed from LIT-261, cited as a parallel case, not leaned on -->
+<!-- inactive-ok-file: THEORY-314 — Proposed; the representer-theorem account filed from LIT-261, cited as a parallel case, not leaned on -->
 
 # THEORY-009: Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
 
@@ -98,7 +98,7 @@ Every spectral result in these papers rests on a symmetric operator. Johnson et 
 
 **A sharper statement of the mechanism.** Zhai's thesis ([LIT-975](../literature.d/LIT-975.md), read in [NOTE-770](../notes.d/NOTE-770.md); [THEORY-239](THEORY-239.md)) obtains every self-adjoint operator by composing the conditional-expectation operator g ↦ E[g(A)|X], which runs between two different spaces and is never assumed symmetric, with its adjoint, given in closed form by Bayes' rule. So self-adjointness comes from that composition, not from the symmetry of the pair. The multi-view case is a special case: there (A, A⁺) is exchangeable because both are drawn from P⁺(·|x), which is the symmetry this account names, seen from the construction side. Riesz is not used here either.
 
-The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof ([LIT-261](../literature.d/LIT-261.md), eqs. 18–24; [THEORY-tmpiw6t1](THEORY-tmpiw6t1.md)) uses the reproducing property and orthogonal projection, not Riesz; the word does not occur in the paper.
+The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof ([LIT-261](../literature.d/LIT-261.md), eqs. 18–24; [THEORY-314](THEORY-314.md)) uses the reproducing property and orthogonal projection, not Riesz; the word does not occur in the paper.
 
 ## What this does not say
 

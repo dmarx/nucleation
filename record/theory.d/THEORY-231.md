@@ -21,7 +21,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-980 (NOTE-tmp5bnaz). Connections said LIT-945
+    After the reading of LIT-980 (NOTE-825). Connections said LIT-945
     supports the premise that a single binary judgement could show
     preparation contextuality; it shows only that a prepare-measure
     scenario has no Bell-like test. Reworded to "two binary judgements
@@ -148,7 +148,7 @@ unquotiented description in which equivalent procedures stay distinct.
   contextuality can show where there are no overlapping measurement
   contexts. It does not support a single binary judgement: [LIT-980](../literature.d/LIT-980.md)'s
   witness needs two binary judgements never made together and four
-  preparations ([NOTE-tmp5bnaz](../notes.d/NOTE-tmp5bnaz.md)).
+  preparations ([NOTE-825](../notes.d/NOTE-825.md)).
 - **[THEORY-011](THEORY-011.md).** That account's choice-of-notion caveat cites this paper
   for the Leibnizian principle. This account states what the principle
   does in the no-go: it is the assumption a noncontextuality refutation

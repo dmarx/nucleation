@@ -23,7 +23,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Correction after the reading of LIT-227 (NOTE-tmpohlyt): Connections
+    Correction after the reading of LIT-227 (NOTE-846): Connections
     said Tan et al. restate the eigenvector correspondence for
     InfoNCE-type losses; they prove an identity between objectives and
     make no eigenvector statement. A correction line added; the reading is
@@ -189,7 +189,7 @@ its eigenfunctions are this paper's eigenvectors divided by p(a)^(1/2).
 Tan et al. ([LIT-227](../literature.d/LIT-227.md)) and Balestriero and LeCun ([LIT-228](../literature.d/LIT-228.md)) restate the
 correspondence for InfoNCE-type losses.
 
-*Correction (2026-10-14, [NOTE-tmpohlyt](NOTE-tmpohlyt.md)):* Tan et al. do not restate the
+*Correction (2026-10-14, [NOTE-846](NOTE-846.md)):* Tan et al. do not restate the
 correspondence. They prove an identity between objectives, InfoNCE as a
 Laplacian form plus log normalizers, and make no eigenvector statement.
 

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-787 (NOTE-tmpzvsw5) and the copy hunt that
+    After the reading of LIT-787 (NOTE-851) and the copy hunt that
     left LIT-928 Unavailable. A Connections line adds Ashby's separate
     stores and similarity-driven interference. The text and inactive-ok
     comment note that Kanerva's book is Unavailable, so the
@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-024 CLAIM-177 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, no copy obtainable, named as where the critical distance comes from, not leaned on beyond that -->
-<!-- inactive-ok-file: THEORY-tmp9yigf — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-307 — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-272 — Proposed; the Hopfield account filed from LIT-918, cited for its corrections -->
 
 # CLAIM-180: Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
@@ -123,8 +123,8 @@ Two further points follow from the models, both untested here:
 
 ## Connections
 
-- Ashby ([LIT-787](../literature.d/LIT-787.md), Ch. 16, S. 16/14; [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), read in
-  [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md)): separate stores for separate situations, with
+- Ashby ([LIT-787](../literature.d/LIT-787.md), Ch. 16, S. 16/14; [THEORY-307](../theory.d/THEORY-307.md), read in
+  [NOTE-851](../notes.d/NOTE-851.md)): separate stores for separate situations, with
   interference that grows with the similarity of the situations, because
   similar inputs use the same parts. Read across, a close restatement is
   the one most likely to overwrite its earlier form, the converse of this

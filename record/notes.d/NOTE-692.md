@@ -32,7 +32,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the close reading of LIT-256 (NOTE-tmp8mfe9): the inactive-ok
+    After the close reading of LIT-256 (NOTE-828): the inactive-ok
     comment trimmed of codes now Active or Open (LIT-256 among them). The
     reading is unchanged.
 date: '2026-10-09'

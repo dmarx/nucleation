@@ -18,7 +18,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). A
+    After the partial reading of LIT-1006 (NOTE-823, Skimmed). A
     dated line under "What would refute it" records that the candidate
     refuter is still unread: Pereboom's rebuilt four-case argument is in
     Chapter 4, which the reading did not reach. Nothing else changed.
@@ -197,7 +197,7 @@ manipulation includes the taking of responsibility, is the candidate the
 sources name ([LIT-291](../literature.d/LIT-291.md), supplement §B.2). It would have to be read
 first-hand and shown unanswered by Fischer's replies. As of 2026-10-14 it
 still has not been: Pereboom's book ([LIT-1006](../literature.d/LIT-1006.md)) was read only in part
-([NOTE-tmp46uej](../notes.d/NOTE-tmp46uej.md)), and the rebuilt case is in Chapter 4 (p. 117 by the
+([NOTE-823](../notes.d/NOTE-823.md)), and the rebuilt case is in Chapter 4 (p. 117 by the
 contents), which was not read. Note of 2026-10-14, later: two surveys
 read in full as alternatives ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md),
 [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md)) state the four-case argument ([THEORY-tmptedt7](THEORY-tmptedt7.md)) but do not

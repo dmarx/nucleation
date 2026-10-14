@@ -110,13 +110,13 @@ dual-basis computation of §3.
 The Wikipedia article ([LIT-230](../literature.d/LIT-230.md)) gives the same theorem, the same
 orthonormal-basis formula and a different convention. The Radon–Nikodym
 derivative proved here is the object MINE's Donsker–Varadhan dual is tight
-at ([NOTE-tmp8mfe9](NOTE-tmp8mfe9.md), [LIT-256](../literature.d/LIT-256.md)); this paper's proof is von Neumann's.
+at ([NOTE-828](NOTE-828.md), [LIT-256](../literature.d/LIT-256.md)); this paper's proof is von Neumann's.
 
 ## Bearing on the record
 
 - **No THEORY, QUESTION or CLAIM cites this paper.** Readings name it as
   the record's secondary account of Riesz ([NOTE-289](NOTE-289.md), [NOTE-239](NOTE-239.md),
-  [NOTE-tmp8mfe9](NOTE-tmp8mfe9.md)).
+  [NOTE-828](NOTE-828.md)).
 - **The seed's summary needs one correction.** [LIT-243](../literature.d/LIT-243.md) and the skim say
   the representer is "the sum of φ(e_k)e_k". The paper writes
   Σ_k conj φ(e_k) e_k (p. 12; the bar is lost in the text layer). The two

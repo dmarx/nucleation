@@ -29,8 +29,8 @@ summary: >-
   social construction of identity.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, whose final chapter this paper is drawn from -->
-<!-- inactive-ok-file: NOTE-tmpaz74m — Skimmed; the reading of the précis -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmp0d8b5 — Proposed; the account from the précis and the account filed from this reading -->
+<!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmp0d8b5 — Proposed; the account from the précis and the account filed from this reading -->
 
 # NOTE-tmpgy7n9: Fricker — Powerlessness and Social Interpretation
 
@@ -41,7 +41,7 @@ book that defines it. The paper separates a hermeneutical disadvantage
 that is unjust from one that is bad luck. It gives a definition that
 grows from a systematic case to a generic one that also covers
 incidental cases. It sets out the wrong, both primary and secondary. The
-précis ([NOTE-tmpaz74m](NOTE-tmpaz74m.md)) gave only the systematic definition.
+précis ([NOTE-832](NOTE-832.md)) gave only the systematic definition.
 
 ## Key insight
 
@@ -164,7 +164,7 @@ experience" and adds that the injustice survives good-faith listening.
 
 ## Bearing on the record
 
-- **[THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md) states the systematic case as if it were the whole.**
+- **[THEORY-317](../theory.d/THEORY-317.md) states the systematic case as if it were the whole.**
   Its title and "What this does not say" make the gap's being "owed to
   the relative powerlessness of a social group to which the subject
   belongs" necessary. It also says a gap owed to "an individual's
@@ -174,7 +174,7 @@ experience" and adds that the injustice survives good-faith listening.
   "fleeting" and "highly localized", and its Joe case is a socially
   powerful man. Two parts of the précis-based account survive: a gap
   with no marginalisation behind it is still excluded, as bad luck, and
-  the domain is still "social experience". [THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md)'s
+  the domain is still "social experience". [THEORY-317](../theory.d/THEORY-317.md)'s
   promote_when names this point ("admits local and institutional gaps")
   as one that would refute it as a statement of Fricker's account. This
   paper, drawn from the book's final chapter, meets that refuting

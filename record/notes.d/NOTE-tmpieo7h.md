@@ -25,8 +25,8 @@ summary: >-
   concepts of the time allow it.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis -->
-<!-- inactive-ok-file: NOTE-tmpaz74m — Skimmed; the reading of the précis -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmpa9fyk — Proposed; the account from the précis and the account filed from this batch -->
+<!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmpa9fyk — Proposed; the account from the précis and the account filed from this batch -->
 
 # NOTE-tmpieo7h: Fricker — Epistemic Injustice and a Role for Virtue in the Politics of Knowing
 
@@ -135,7 +135,7 @@ the 2017 chapter ([NOTE-tmp3a0fd](NOTE-tmp3a0fd.md)), where Ripley's part is rec
 
 ## Bearing on the record
 
-- **[THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md).** This paper confirms its testimonial definition,
+- **[THEORY-317](../theory.d/THEORY-317.md).** This paper confirms its testimonial definition,
   "prejudice on the hearer's part", and adds "unintended". It speaks of
   stereotypes of social types and of social identity, but does not use
   "identity prejudice". It also allows credibility *excess* as prejudicial

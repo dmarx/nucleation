@@ -27,7 +27,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Correction after the reading of LIT-980 (NOTE-tmp5bnaz): the bullet on
+    Correction after the reading of LIT-980 (NOTE-825): the bullet on
     the question's premise said the paper supports a single binary
     judgement showing preparation contextuality. It shows only that a
     prepare-measure scenario has no Bell-like test. A correction line
@@ -262,7 +262,7 @@ sheaf-theoretic contextuality.
   speaks of Bell-like and causal-compatibility constraints, not of sheaf
   covers. The step to the sheaf notion still rests on [LIT-266](../literature.d/LIT-266.md) and the
   record's own join in [THEORY-015](../theory.d/THEORY-015.md).
-  *Correction (2026-10-14, [NOTE-tmp5bnaz](NOTE-tmp5bnaz.md)):* the paper shows only that a
+  *Correction (2026-10-14, [NOTE-825](NOTE-825.md)):* the paper shows only that a
   prepare-measure scenario has no Bell-like test, not that a single
   binary judgement suffices. Catani et al.'s witness ([LIT-980](../literature.d/LIT-980.md)) needs two
   binary judgements never made together and four preparations.

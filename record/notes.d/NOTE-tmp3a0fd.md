@@ -25,8 +25,8 @@ summary: >-
   pre-emptive, as with an un-refreshed list of expert witnesses.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis -->
-<!-- inactive-ok-file: NOTE-tmpaz74m — Skimmed; the reading of the précis -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmpa9fyk THEORY-tmp0d8b5 — Proposed; the account from the précis and the accounts filed from this batch -->
+<!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmpa9fyk THEORY-tmp0d8b5 — Proposed; the account from the précis and the accounts filed from this batch -->
 
 # NOTE-tmp3a0fd: Fricker — Evolving Concepts of Epistemic Injustice
 
@@ -146,7 +146,7 @@ in [NOTE-tmpieo7h](NOTE-tmpieo7h.md) ([LIT-tmpo9j0c](../literature.d/LIT-tmpo9j0
 
 ## Bearing on the record
 
-- **[THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md) is confirmed on the generic wrong and the two causes,
+- **[THEORY-317](../theory.d/THEORY-317.md) is confirmed on the generic wrong and the two causes,
   and two things are added.** This chapter says "a prejudice", not
   "identity prejudice", like the précis. So the précis's wording is the
   author's settled usage in 2017, though the book's own wording is still

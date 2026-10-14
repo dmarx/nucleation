@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-904 (NOTE-tmp735qu). Reciprocal compensation
+    After the reading of LIT-904 (NOTE-826). Reciprocal compensation
     as the signature of a coordinative structure is attributed to Kelso et
     al. 1984 (LIT-902), not Turvey, and applying the within-body notion to
     a couple is marked as the record's own widening. The case is
@@ -62,7 +62,7 @@ time. Varied: whether they are dancing together.
 - **Reciprocal compensation.** Perturb one dancer and the other adjusts to
   preserve the dance, not their own trajectory. That is the signature of a
   coordinative structure in motor control, as Kelso et al. 1984 ([LIT-902](../literature.d/LIT-902.md),
-  unread) give it; it is not Turvey's ([LIT-904](../literature.d/LIT-904.md), [NOTE-tmp735qu](../notes.d/NOTE-tmp735qu.md)), whose
+  unread) give it; it is not Turvey's ([LIT-904](../literature.d/LIT-904.md), [NOTE-826](../notes.d/NOTE-826.md)), whose
   nearest evidence is equifinality. Turvey's coordinative structure is
   built from reflexes within one body, so applying it to a couple is the
   record's own widening, as Turvey's was a widening of Easton's.

@@ -22,7 +22,7 @@ promote_when: >-
   confirmed with an answer to the Frankfurt-style wrongdoer. More surveys
   cannot settle it: Robb reports "not much consensus". Note of
   2026-10-14: Pereboom's book (LIT-1006) was read only in part
-  (NOTE-tmp46uej), and the reading stopped at p. 10, before his buffer
+  (NOTE-823), and the reading stopped at p. 10, before his buffer
   case on pp. 18–23, so that clause is not met by it.
 title: "An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false"
 version: 2
@@ -30,7 +30,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). A
+    After the partial reading of LIT-1006 (NOTE-823, Skimmed). A
     dated note in promote_when records that the reading stopped at p. 10,
     before Pereboom's buffer case (pp. 18–23). The claim is unchanged.
 tags:

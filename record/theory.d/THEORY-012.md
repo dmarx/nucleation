@@ -49,7 +49,7 @@ history:
 - version: 8
   date: '2026-10-14'
   note: >-
-    After the close reading of LIT-263 (NOTE-tmpmru91), which confirms
+    After the close reading of LIT-263 (NOTE-844), which confirms
     §IV.A.1 in the words cited. The review is no longer called seeded, not
     read; the Source and summary add that it asserts the formulations'
     equivalence without showing it. The Deferred comment on LIT-263
@@ -67,7 +67,7 @@ summary: >-
   built into the definition. The graded version, the contextual fraction
   (LIT-265), is read (NOTE-236): CF = 0 exactly when this criterion holds.
   The review that places this formulation among its equivalents is read
-  (NOTE-tmpmru91); it asserts the equivalence with citations and does not
+  (NOTE-844); it asserts the equivalence with citations and does not
   show it.
 extended_by:
 - THEORY-011
@@ -84,7 +84,7 @@ supports:
 
 ## Source
 
-Abramsky & Brandenburger (2011), [LIT-016](../literature.d/LIT-016.md), §§2.2–2.5, Prop 3.1, Props 4.2–4.4, Thms 5.4 and 5.9, Props 6.1 and 6.3, Thm 8.1 ([NOTE-016](../notes.d/NOTE-016.md)). The graded version: Abramsky, Barbosa & Mansfield's contextual fraction ([LIT-265](../literature.d/LIT-265.md), Eq. 3 and Theorem 1, read in [NOTE-236](../notes.d/NOTE-236.md)). Budroni et al.'s review ([LIT-263](../literature.d/LIT-263.md), §IV.A.1, read in [NOTE-tmpmru91](../notes.d/NOTE-tmpmru91.md), which calls local consistency "the sheaf condition" and lists the sheaf, marginal-problem, polytope and graph formulations as substantially equivalent; it asserts that equivalence with citations and does not show it).
+Abramsky & Brandenburger (2011), [LIT-016](../literature.d/LIT-016.md), §§2.2–2.5, Prop 3.1, Props 4.2–4.4, Thms 5.4 and 5.9, Props 6.1 and 6.3, Thm 8.1 ([NOTE-016](../notes.d/NOTE-016.md)). The graded version: Abramsky, Barbosa & Mansfield's contextual fraction ([LIT-265](../literature.d/LIT-265.md), Eq. 3 and Theorem 1, read in [NOTE-236](../notes.d/NOTE-236.md)). Budroni et al.'s review ([LIT-263](../literature.d/LIT-263.md), §IV.A.1, read in [NOTE-844](../notes.d/NOTE-844.md), which calls local consistency "the sheaf condition" and lists the sheaf, marginal-problem, polytope and graph formulations as substantially equivalent; it asserts that equivalence with citations and does not show it).
 
 ## What was actually shown
 

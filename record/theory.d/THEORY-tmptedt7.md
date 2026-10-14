@@ -41,8 +41,8 @@ summary: >-
   factors, and that the manipulator is irrelevant.
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part, where the thesis is announced and Chapter 4 holds the cases -->
-<!-- inactive-ok-file: NOTE-tmp46uej — Skimmed; the partial reading of LIT-1006 -->
-<!-- inactive-ok-file: THEORY-040 THEORY-tmpl5i65 — Proposed; the manipulation account this bears on, and Pereboom's condition (3) that this argument would show true -->
+<!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
+<!-- inactive-ok-file: THEORY-040 THEORY-316 — Proposed; the manipulation account this bears on, and Pereboom's condition (3) that this argument would show true -->
 
 # THEORY-tmptedt7: An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible
 
@@ -54,7 +54,7 @@ summary: >-
 - De Marco and Cyr (2024), *Philosophy Compass*, [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), §§2, 5 and
   n. 23, read in full in [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md). Case 1 is quoted there from
   Fischer et al. 2024: 98.
-- Pereboom (2001), [LIT-1006](../literature.d/LIT-1006.md), read in part in [NOTE-tmp46uej](../notes.d/NOTE-tmp46uej.md). The
+- Pereboom (2001), [LIT-1006](../literature.d/LIT-1006.md), read in part in [NOTE-823](../notes.d/NOTE-823.md). The
   Introduction says that "causal determination presents in principle no
   less of a threat to moral responsibility than does covert
   manipulation". The cases are in Chapter 4, not read.
@@ -141,7 +141,7 @@ attempts (Deery and Nahmias 2017) without assessing them.
   neutral between biting the bullet and adding history. This account
   takes neither option: it argues that, given No-Diff, the bullet bites
   every determined agent.
-- **[THEORY-tmpl5i65](THEORY-tmpl5i65.md)** (Pereboom's condition (3), causal history) is the
+- **[THEORY-316](THEORY-316.md)** (Pereboom's condition (3), causal history) is the
   conclusion of Step 3. That account says its truth is argued in Chapter
   4. This account is that argument, as reported.
 - **[QUESTION-071](../questions.d/QUESTION-071.md)** asks whether manipulation is visible in present

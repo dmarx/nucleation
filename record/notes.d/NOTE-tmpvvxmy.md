@@ -29,8 +29,8 @@ summary: >-
   their constitutive luck.
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part -->
-<!-- inactive-ok-file: NOTE-tmp46uej — Skimmed; the partial reading of LIT-1006 -->
-<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-tmpl5i65 THEORY-tmptedt7 — Proposed; the accounts this reading bears on, and the account filed from it -->
+<!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
+<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-316 THEORY-tmptedt7 — Proposed; the accounts this reading bears on, and the account filed from it -->
 
 # NOTE-tmpvvxmy: Caruso — Skepticism About Moral Responsibility (SEP)
 
@@ -188,10 +188,10 @@ including its supplement on manipulation. De Marco and Cyr
   for Case 2, which meets reasons-responsive and hierarchical conditions
   by stipulation. Levy's dilemma is a reason to doubt that a recorded
   history of taking responsibility would separate the cases.
-- **[THEORY-tmpl5i65](../theory.d/THEORY-tmpl5i65.md)** (Pereboom's condition (3)). The entry's "what
+- **[THEORY-316](../theory.d/THEORY-316.md)** (Pereboom's condition (3)). The entry's "what
   matters … is that in all four cases the agent's actions are ultimately
   the result of factors beyond their control" is condition (3) as the
-  four-case argument's conclusion. That confirms [THEORY-tmpl5i65](../theory.d/THEORY-tmpl5i65.md)'s
+  four-case argument's conclusion. That confirms [THEORY-316](../theory.d/THEORY-316.md)'s
   pointer to Chapter 4, at survey strength.
 - **[THEORY-119](../theory.d/THEORY-119.md).** Not addressed. The entry does not discuss Frankfurt
   cases or Pereboom's buffer case.

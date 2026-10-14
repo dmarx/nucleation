@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpg6ntg
 paper: LIT-260
 superseded_by:
-- NOTE-tmpgvy79
+- NOTE-838
 title: 'Kernel mean embedding of distributions (review)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpgvy79, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-838, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

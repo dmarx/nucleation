@@ -53,7 +53,7 @@ summary: >-
   worst, the social construction of who the subject is.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book this is an alternative reading for, whose last chapter this paper is drawn from -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmp0d8b5 — Proposed; the account from the précis that this reading widens, and the account filed from it -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmp0d8b5 — Proposed; the account from the précis that this reading widens, and the account filed from it -->
 
 # LIT-tmp71qsd: Powerlessness and Social Interpretation
 
@@ -99,7 +99,7 @@ Filed on 2026-10-14 at the owner's request as an alternative reading for
 [LIT-1004](LIT-1004.md), whose book is Unavailable here, and read the same day in
 [NOTE-tmpgy7n9](../notes.d/NOTE-tmpgy7n9.md). By the author's own note it is drawn from the book's final
 chapter on hermeneutical injustice. It is read for [QUESTION-072](../questions.d/QUESTION-072.md), part 2.
-[THEORY-tmp0d8b5](../theory.d/THEORY-tmp0d8b5.md) is filed from it. It widens [THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md), which from
+[THEORY-tmp0d8b5](../theory.d/THEORY-tmp0d8b5.md) is filed from it. It widens [THEORY-317](../theory.d/THEORY-317.md), which from
 the précis makes a group's powerlessness necessary. Here that is the
 systematic case only, and an incidental case needs no such group. Whether
 the book's chapter keeps the incidental case is not checked, since the

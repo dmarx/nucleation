@@ -25,7 +25,7 @@ summary: >-
   and Todd's mitigation version are set out.
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part -->
-<!-- inactive-ok-file: NOTE-tmp46uej — Skimmed; the partial reading of LIT-1006 -->
+<!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-tmptedt7 — Proposed; the accounts this reading bears on or leaves untouched, and the account filed from it -->
 
 # NOTE-tmp5wtbq: De Marco and Cyr — Manipulation Cases, Part 1

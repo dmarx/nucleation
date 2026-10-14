@@ -55,7 +55,7 @@ summary: >-
   a hearer may be at fault before he is culpable.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book this is an alternative reading for -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmpa9fyk — Proposed; the account from the précis, and the account filed from this reading with LIT-tmphrja4 -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmpa9fyk — Proposed; the account from the précis, and the account filed from this reading with LIT-tmphrja4 -->
 
 # LIT-tmpo9j0c: Epistemic Justice and a Role for Virtue in the Politics of Knowing
 

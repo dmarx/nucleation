@@ -8,7 +8,7 @@ promote_when: >-
   refuted, as a statement of Fricker's account, if the book drops the
   incidental case or requires the subject's membership of a group in a
   general position of powerlessness. That would vindicate the précis
-  reading in THEORY-tmplo3ff. It is refuted as an account of the wrong by
+  reading in THEORY-317. It is refuted as an account of the wrong by
   a case in which a significant area of someone's social experience is
   obscured by an unequal share in making shared meanings and yet no
   injustice is done. More secondary summaries cannot settle it.
@@ -23,7 +23,7 @@ source:
 - LIT-tmp71qsd
 - LIT-tmphrja4
 rivals:
-- THEORY-tmplo3ff
+- THEORY-317
 summary: >-
   Fricker (2006), "Powerlessness and Social Interpretation" ([LIT-tmp71qsd](../literature.d/LIT-tmp71qsd.md),
   [NOTE-tmpgy7n9](../notes.d/NOTE-tmpgy7n9.md)), drawn by her own note from the book's final chapter,
@@ -37,7 +37,7 @@ summary: >-
   obscured area must be of the subject's social experience.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
-<!-- inactive-ok-file: THEORY-tmplo3ff — Proposed; the précis-based account whose group condition this one shows is the systematic case only -->
+<!-- inactive-ok-file: THEORY-317 — Proposed; the précis-based account whose group condition this one shows is the systematic case only -->
 
 # THEORY-tmp0d8b5: Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group
 
@@ -117,13 +117,13 @@ systematic case "central".
 
 ## Connections
 
-- **[THEORY-tmplo3ff](THEORY-tmplo3ff.md)** states, from the précis, that the lacuna must be
+- **[THEORY-317](THEORY-317.md)** states, from the précis, that the lacuna must be
   "owed to the relative powerlessness of a social group to which the
   subject belongs". Its "What this does not say" excludes a gap owed to
   "an individual's idiosyncrasy" or to "a design choice that falls on no
   group". On this account that is the systematic case only. The generic
   definition admits one-off, local marginalisation without a powerless
-  group. [THEORY-tmplo3ff](THEORY-tmplo3ff.md)'s own promote_when names this, "admits local and
+  group. [THEORY-317](THEORY-317.md)'s own promote_when names this, "admits local and
   institutional gaps", as a point that would refute it as a statement of
   Fricker's account. No `rivals:` is declared, because the précis
   account is right about the case Fricker calls central, and the book

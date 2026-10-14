@@ -38,7 +38,7 @@ history:
 - version: 4
   date: '2026-10-14'
   note: >-
-    After a close reading of LIT-252 (NOTE-tmp5aqd2). "Pfau et al.'s SpIN
+    After a close reading of LIT-252 (NOTE-824). "Pfau et al.'s SpIN
     learn the same objects directly" overstated the paper: eqs. 6–7 are for
     a generic symmetric kernel, applying them to K⁺ is the record's step,
     recovery is shown only on the hydrogen atom, and the ordering argument

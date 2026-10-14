@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpka1mm
 paper: LIT-232
 superseded_by:
-- NOTE-tmplbng9
+- NOTE-843
 title: 'Knowledge Sheaves (sheaf-theoretic KG embedding)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmplbng9, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-843, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

@@ -38,7 +38,7 @@ summary: >-
   omission from a list, is an injustice: a prejudice must cause it.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmp0d8b5 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmp0d8b5 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->
 
 # THEORY-tmpa9fyk: Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault
 
@@ -112,7 +112,7 @@ and keeps that use for a "related but distinct" wrong.
 
 ## Connections
 
-- **[THEORY-tmplo3ff](THEORY-tmplo3ff.md)** holds the précis's two definitions. This account
+- **[THEORY-317](THEORY-317.md)** holds the précis's two definitions. This account
   refines its testimonial half: "prejudice on the hearer's part"
   becomes unintended prejudice that causes a misjudgement, and a
   structural, pre-emptive form is added. They do not conflict, so no

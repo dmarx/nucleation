@@ -23,7 +23,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-259 (NOTE-tmp8nk93): the inactive-ok comment
+    After the reading of LIT-259 (NOTE-829): the inactive-ok comment
     for LIT-259 and LIT-254, both now Active, removed. The reading is
     unchanged.
 date: '2026-10-14'

@@ -22,8 +22,8 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the readings of LIT-259 (NOTE-tmp8nk93) and LIT-257
-    (NOTE-tmpcc47a): the inactive-ok comment for LIT-250, LIT-257 and
+    After the readings of LIT-259 (NOTE-829) and LIT-257
+    (NOTE-834): the inactive-ok comment for LIT-250, LIT-257 and
     LIT-259, all now Active, removed. The reading is unchanged.
 date: '2026-10-14'
 summary: >-

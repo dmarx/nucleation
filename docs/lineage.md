@@ -69,7 +69,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
-- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Unavailable)*
 - alongside: [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Active)*
 
 ### From On the Stepwise Nature of Self-Supervised Learning
@@ -331,8 +331,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From Issues as Elements of Information Systems
 
 - [LIT-758](../record/literature.d/LIT-758.md) — Issues as Elements of Information Systems *(Active)*
-  - [LIT-762](../record/literature.d/LIT-762.md) — gIBIS: a hypertext tool for exploratory policy discussion *(Deferred)*
-    - [LIT-755](../record/literature.d/LIT-755.md) — A Process-Oriented Approach to Design Rationale *(Deferred)*
+  - [LIT-762](../record/literature.d/LIT-762.md) — gIBIS: a hypertext tool for exploratory policy discussion *(Unavailable)*
+    - [LIT-755](../record/literature.d/LIT-755.md) — A Process-Oriented Approach to Design Rationale *(Unavailable)*
 
 ## ecology
 
@@ -468,7 +468,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
-- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Unavailable)*
 - alongside: [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Active)*
 
 ### From Mutual information, neural networks and the renormalization group
@@ -495,7 +495,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
-- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Unavailable)*
 - alongside: [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Active)*
 
 ### From On the Stepwise Nature of Self-Supervised Learning
@@ -820,7 +820,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ### From The Role of the Information Bottleneck in Representation Learning
 
-- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Deferred)*
+- alongside: [LIT-240](../record/literature.d/LIT-240.md) — The Role of the Information Bottleneck in Representation Learning *(Unavailable)*
 - alongside: [LIT-245](../record/literature.d/LIT-245.md) — Minimum Description Length and Generalization Guarantees for Representation Learning *(Active)*
 
 ### From On the Stepwise Nature of Self-Supervised Learning

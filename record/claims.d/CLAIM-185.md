@@ -9,10 +9,10 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    After the reading of LIT-787 (NOTE-tmpzvsw5). A note cites Ashby's
+    After the reading of LIT-787 (NOTE-851). A note cites Ashby's
     Chapter 11 as a direct ancestor, crystal example included, and the
     condition it adds: a retained part must be cut off by constancies from
-    what is still changing. THEORY-tmp9yigf and THEORY-tmpxwn52 cited. The
+    what is still changing. THEORY-307 and THEORY-324 cited. The
     claim is unchanged.
 role: thesis
 defeated_if: >-
@@ -54,7 +54,7 @@ objected_by:
 - CLAIM-184
 - CLAIM-190
 ---
-<!-- inactive-ok-file: THEORY-tmp9yigf THEORY-tmpxwn52 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
+<!-- inactive-ok-file: THEORY-307 THEORY-324 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-181 — Proposed; open, and cited as open: the claims of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-177 CLAIM-186 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
@@ -165,8 +165,8 @@ old habits would explain.
 
 ## Note of 2026-10-14: a direct ancestor in Ashby
 
-Ashby's Chapter 11 ([LIT-787](../literature.d/LIT-787.md), read in [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md); [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), with
-[THEORY-tmpxwn52](../theory.d/THEORY-tmpxwn52.md)) is a direct ancestor of this claim. Adaptation finishes
+Ashby's Chapter 11 ([LIT-787](../literature.d/LIT-787.md), read in [NOTE-851](../notes.d/NOTE-851.md); [THEORY-307](../theory.d/THEORY-307.md), with
+[THEORY-324](../theory.d/THEORY-324.md)) is a direct ancestor of this claim. Adaptation finishes
 in practicable time only if "partial successes … can be conserved and
 accumulated" (S. 11/6): trials grow as (1/p)ᴺ if every success must come
 at once, and roughly as N/p if each is kept once found. His own example

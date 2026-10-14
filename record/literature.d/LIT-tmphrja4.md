@@ -51,7 +51,7 @@ summary: >-
   expert witnesses means some speakers are never asked.
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book this is an alternative reading for -->
-<!-- inactive-ok-file: THEORY-tmplo3ff THEORY-tmp0d8b5 THEORY-tmpa9fyk — Proposed; the accounts of Fricker's concepts this reading bears on -->
+<!-- inactive-ok-file: THEORY-317 THEORY-tmp0d8b5 THEORY-tmpa9fyk — Proposed; the accounts of Fricker's concepts this reading bears on -->
 
 # LIT-tmphrja4: Evolving Concepts of Epistemic Injustice
 

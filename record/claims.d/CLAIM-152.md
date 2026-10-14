@@ -23,7 +23,7 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    A formal instance from NOTE-tmpc8ts7 (LIT-235): THEORY-tmpr8y66, where
+    A formal instance from NOTE-833 (LIT-235): THEORY-320, where
     the auxiliary labelled data decides which partition of the same
     unlabelled data wins. Added as a note; the claim is unchanged.
 role: thesis
@@ -61,7 +61,7 @@ complements:
 - CLAIM-279
 ---
 <!-- inactive-ok-file: THEORY-277 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpr8y66 — Proposed; cited in a note of 2026-10-14 as a formal instance, not leaned on -->
+<!-- inactive-ok-file: THEORY-320 — Proposed; cited in a note of 2026-10-14 as a formal instance, not leaned on -->
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -141,7 +141,7 @@ defined only to logarithmic precision and cannot be computed.
 
 ## Note of 2026-10-14: a formal instance
 
-Sun et al. ([LIT-235](../literature.d/LIT-235.md), read in [NOTE-tmpc8ts7](../notes.d/NOTE-tmpc8ts7.md); [THEORY-tmpr8y66](../theory.d/THEORY-tmpr8y66.md)) give a formal
+Sun et al. ([LIT-235](../literature.d/LIT-235.md), read in [NOTE-833](../notes.d/NOTE-833.md); [THEORY-320](../theory.d/THEORY-320.md)) give a formal
 instance. In their spectral analysis the same unlabelled data is
 partitioned by colour or by shape depending on which auxiliary labelled
 classes are present (Theorem 5.2 against Lemma 5.4). What the top
