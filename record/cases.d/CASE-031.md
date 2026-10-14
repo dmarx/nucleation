@@ -6,6 +6,7 @@ formerly:
 title: 'Marot''s "A une Damoyselle malade" and Hofstadter''s translations of it'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - philosophy-of-language
 - linguistics

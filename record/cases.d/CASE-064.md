@@ -6,6 +6,7 @@ formerly:
 title: 'Lindsey Stone''s Arlington photograph: one post, taken by friends as a tasteless in-joke and by strangers as contempt'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - pragmatics
 - social-ontology

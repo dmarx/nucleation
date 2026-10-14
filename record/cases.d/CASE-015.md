@@ -6,6 +6,7 @@ formerly:
 title: 'The telephone game'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - philosophy-of-language
 - cognition

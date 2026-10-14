@@ -6,6 +6,7 @@ formerly:
 title: 'The thermostat: Dennett''s knife edge between agent and device'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - agency
 date: '2026-10-11'

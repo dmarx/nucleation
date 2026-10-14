@@ -6,6 +6,7 @@ formerly:
 title: 'Dolly''s slip into ты in Anna Karenina I.4, and three English translations that carry it three ways'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - translation
 - pragmatics

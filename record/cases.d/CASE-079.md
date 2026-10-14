@@ -6,6 +6,7 @@ formerly:
 title: 'r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities coordinated off the canvas to build, defend and overwrite images'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - social-ontology
 - complex-systems

@@ -6,6 +6,7 @@ formerly:
 title: 'A partner-dancing couple, lindy hop, tango or salsa, while they dance'
 version: 1
 standing: stipulated
+kind: specimen
 tags:
 - embodied-cognition
 - self

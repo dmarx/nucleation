@@ -6,6 +6,7 @@ formerly:
 title: 'Two reset matrices: noncommuting and classical'
 version: 1
 standing: stipulated
+kind: construction
 tags:
 - probabilistic-modeling
 - mathematics

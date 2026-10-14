@@ -6,6 +6,7 @@ formerly:
 title: 'Verdant Compute'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - social-ontology
 - agency

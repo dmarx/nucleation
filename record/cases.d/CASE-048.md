@@ -14,6 +14,7 @@ history:
     do not conflict until memory brings the first into the second. The
     case as stated is unchanged.
 standing: stipulated
+kind: thought-experiment
 tags:
 - pragmatics
 - philosophy-of-language

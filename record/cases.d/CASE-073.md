@@ -6,6 +6,7 @@ formerly:
 title: 'The Kia Provo: one concept-car name, a blank coinage to the motor press and taken as honouring the IRA in Northern Ireland'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - pragmatics
 - social-ontology

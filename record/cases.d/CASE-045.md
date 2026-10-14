@@ -20,6 +20,7 @@ history:
     can also ask whether "the dance leads": whether the pair's joint mode
     shows causal decoupling, beyond the lead driving the follow.
 standing: stipulated
+kind: proposed-study
 tags:
 - embodied-cognition
 - individuation

@@ -6,6 +6,7 @@ formerly:
 title: 'Modern slang that makes the insider sound like an outsider imitating the subculture'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - philosophy-of-language
 - linguistics

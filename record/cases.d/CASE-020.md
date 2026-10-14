@@ -6,6 +6,7 @@ formerly:
 title: 'E3: the controlled inference harness, dry run only (C5)'
 version: 1
 standing: stipulated
+kind: executed-study
 tags:
 - philosophy-of-language
 - representation-learning

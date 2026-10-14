@@ -6,6 +6,7 @@ formerly:
 title: 'CoreWeave: a climate-concerned workforce building fossil-powered datacenters'
 version: 1
 standing: stipulated
+kind: specimen
 tags:
 - social-ontology
 - agency

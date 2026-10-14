@@ -6,6 +6,7 @@ formerly:
 title: 'The parity triangle with uniform weights: a no-signalling, strongly contextual model beside a family of point sections that glues'
 version: 1
 standing: stipulated
+kind: construction
 tags:
 - contextuality
 - mathematics

@@ -6,6 +6,7 @@ formerly:
 title: 'Data written for a future reader and never read'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - pragmatics
 - information-theory

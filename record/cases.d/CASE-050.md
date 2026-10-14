@@ -6,6 +6,7 @@ formerly:
 title: 'The all-hands: a corporate event as a synchronization mechanism for the firm'
 version: 1
 standing: stipulated
+kind: thought-experiment
 tags:
 - social-ontology
 - agency

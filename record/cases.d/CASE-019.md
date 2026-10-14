@@ -6,6 +6,7 @@ formerly:
 title: '"Hug from Doug"'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - philosophy-of-language
 - linguistics

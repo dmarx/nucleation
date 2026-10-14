@@ -6,6 +6,7 @@ formerly:
 title: 'Joking relationships: one kind among the Crow and in Africa with no route between them, descended between Crow and Hidatsa, and a transported tale beside them'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - social-science
 - individuation

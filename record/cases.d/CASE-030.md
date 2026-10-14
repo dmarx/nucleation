@@ -6,6 +6,7 @@ formerly:
 title: 'E2: assistant-authored reconstruction chains with content-word overlap (C4)'
 version: 1
 standing: fictional
+kind: executed-study
 tags:
 - philosophy-of-language
 - linguistics

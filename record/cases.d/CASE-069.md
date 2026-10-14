@@ -6,6 +6,7 @@ formerly:
 title: 'Labov''s recorded sounding sessions: ritual insult turning personal, with the same exchange shape and a different act'
 version: 1
 standing: documented
+kind: specimen
 tags:
 - pragmatics
 - linguistics

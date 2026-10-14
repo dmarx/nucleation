@@ -6,6 +6,7 @@ formerly:
 title: 'Driving home while daydreaming'
 version: 1
 standing: fictional
+kind: thought-experiment
 tags:
 - consciousness
 - cognition
