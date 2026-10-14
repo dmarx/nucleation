@@ -70,7 +70,7 @@ supports:
 
 ## Source
 
-Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in NOTE-tmp6dvmv; Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in NOTE-tmpx7mtu. The hypothesis itself is Huh et al. (2024), [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md), §4.2 and App. A.
+Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-tmpx7mtu](../notes.d/NOTE-tmpx7mtu.md). The hypothesis itself is Huh et al. (2024), [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md), §4.2 and App. A.
 
 ## What was actually shown
 
@@ -85,7 +85,7 @@ Read together: the defensible formal content of "representations converge" is th
 - That the Platonic hypothesis is false.
 - That trained models do, or do not, converge in kernel.
 - That any one metric (Bures, CKA, mutual nearest neighbours) is the right one.
-- That closeness in distribution never bounds representational dissimilarity. It fails for KL in the saturation regime and holds for d_LLV (LIT-253, Thm 4.7).
+- That closeness in distribution never bounds representational dissimilarity. It fails for KL in the saturation regime and holds for d_LLV ([LIT-253](../literature.d/LIT-253.md), Thm 4.7).
 
 ## Connections
 
