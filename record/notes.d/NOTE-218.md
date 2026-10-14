@@ -1,11 +1,19 @@
 ---
 number: 218
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpu1tza
 paper: LIT-242
+superseded_by:
+- NOTE-tmpdlxl6
 title: 'Simon et al. 2023 — stepwise nature of SSL'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpdlxl6, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Joint-embedding SSL learns its embedding one dimension at a time in discrete, well-separated steps — in a linearized Barlow Twins model it provably learns the top eigenmodes of a contrastive kernel in order, so SSL is to kernel PCA what supervised learning is to kernel regression — and the same stepwise rank growth appears in ResNets trained with Barlow Twins, SimCLR and VICReg.

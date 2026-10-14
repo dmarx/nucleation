@@ -1,11 +1,20 @@
 ---
 number: 238
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpmviuo
 paper: LIT-266
+superseded_by:
+- NOTE-tmpqr65v
 title: 'Spekkens, generalized contextuality (2005)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpqr65v, a full reading of the paper filed on
+    2026-10-14, which answers the three checks under Open questions below.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-27'
 summary: >-
   Defines a noncontextual ontological model as one in which operationally equivalent procedures (preparations, measurements, transformations) get identical representations; shows the traditional Kochen–Specker notion is the special case of measurement noncontextuality for sharp measurements plus outcome determinism, proves that preparation noncontextuality implies that outcome determinism, and proves preparation contextuality already for a qubit.
