@@ -4,9 +4,10 @@
 
 **translation**.
 
-2 of 755 NOTE documents. Back to the [full index](../README.md).
+3 of 820 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [NOTE-614](../../../record/notes.d/NOTE-614.md) | On Linguistic Aspects of Translation | Names the three kinds of translation (intralingual, interlingual, intersemiotic) and argues that interlingual translation renders whole messages, since code-units rarely have full equivalents; that every cognitive content can be conveyed in any language; and that languages differ in what their grammar obliges a speaker to say, so translation adds and drops information and a chain of translations can erode a message. Poetry, where grammar and sound carry meaning, allows only creative transposition. | Read |
 | [NOTE-750](../../../record/notes.d/NOTE-750.md) | Abdulhai et al. — How LLMs Distort Our Written Language | Three studies of LLM-assisted writing. Heavy LLM use in an essay task made judge-labelled neutral stances 68.9% more common. LLM revisions of 2021 student essays moved them further, and all in one direction, in sentence-embedding space than the students' own revisions did. LLM-written ICLR 2026 reviews named clarity and relevance less often. "Meaning" is measured by embedding position and by an LLM judge, never by the writers. | Read |
+| [NOTE-804](../../../record/notes.d/NOTE-804.md) | Goldwasser et al. — A Theory of Unsupervised Translation Motivated by Animal Communication | With a plausibility prior over the target language and no parallel data, maximum likelihood learns a translator whose error is bounded like a supervised Occam bound divided by the common ground. In the common-nonsense model err = O(log\|Θ\| / (α·min(m,\|T\|))), tight up to a constant; in the knowledge-graph model more knowledge per node needs less agreement. Information-theoretic only, lossless, uniform languages. | Read |

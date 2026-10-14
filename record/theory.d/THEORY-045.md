@@ -188,7 +188,7 @@ independent lines agree.
 
 ## Note of 2026-10-14: a later, consistent restatement
 
-Theriault et al. ([LIT-996](../literature.d/LIT-996.md), read in [NOTE-tmp5s3k4](../notes.d/NOTE-tmp5s3k4.md)), Box 1, restate from the
+Theriault et al. ([LIT-996](../literature.d/LIT-996.md), read in [NOTE-761](../notes.d/NOTE-761.md)), Box 1, restate from the
 Barrett group's earlier papers that "affective experience, or mood,
 functions as a low-dimensional allostatic barometer". That is consistent
 with this account's Barrett half and is a later statement of it, not

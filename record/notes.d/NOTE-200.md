@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp6768d
 paper: LIT-236
 superseded_by:
-- NOTE-tmpdhrvi
+- NOTE-780
 title: 'Rate-distortion generalization bounds'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpdhrvi, a full reading of the paper filed on
+    Superseded by NOTE-780, a full reading of the paper filed on
     2026-10-14. This skim is kept as the record of what was known before
     it.
 date: '2026-09-26'

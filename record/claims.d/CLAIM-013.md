@@ -29,7 +29,7 @@ objected_by:
 illustrated_by:
 - CASE-004
 ---
-<!-- inactive-ok-file: THEORY-tmp8v4zu — Proposed; filed today, cited for what LIT-938 measures, not leaned on -->
+<!-- inactive-ok-file: THEORY-250 — Proposed; filed today, cited for what LIT-938 measures, not leaned on -->
 
 # CLAIM-013: Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake
 
@@ -52,7 +52,7 @@ per-pair checks.
 T2I-CompBench++ ([LIT-798](../literature.d/LIT-798.md)) adds numeracy and 3D spatial relations, and
 nothing social or pragmatic. The gap this claim names is still open.
 
-Fu et al. ([LIT-938](../literature.d/LIT-938.md), read in [NOTE-tmpv2vga](../notes.d/NOTE-tmpv2vga.md); [THEORY-tmp8v4zu](../theory.d/THEORY-tmp8v4zu.md)) qualify it as
+Fu et al. ([LIT-938](../literature.d/LIT-938.md), read in [NOTE-813](../notes.d/NOTE-813.md); [THEORY-250](../theory.d/THEORY-250.md)) qualify it as
 [CLAIM-097](CLAIM-097.md) does. Theirs is a relational benchmark scored by human raters,
 including agentic relations (helping, hindering, chasing), so not every
 existing benchmark is object-centered. It does not reach the pragmatic

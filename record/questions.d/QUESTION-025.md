@@ -27,12 +27,12 @@ answered_by:
 - THEORY-117
 - THEORY-196
 - THEORY-189
-- THEORY-tmpxmwzf
+- THEORY-292
 ---
 <!-- inactive-ok-file: THEORY-201 — Proposed; cited as partial evidence, not as settled -->
 <!-- inactive-ok-file: THEORY-186 THEORY-196 THEORY-195 THEORY-188 THEORY-189 THEORY-193 THEORY-191 THEORY-194 — Proposed; cited as partial evidence toward an answer, not as settled -->
 <!-- inactive-ok-file: THEORY-185 THEORY-183 CLAIM-119 LIT-267 — Proposed; cited as the open accounts this question joins -->
-<!-- inactive-ok-file: THEORY-tmpxmwzf THEORY-tmpk5car THEORY-tmpkwsi6 — Proposed; filed today, cited as partial evidence toward an answer, not as settled -->
+<!-- inactive-ok-file: THEORY-292 THEORY-269 THEORY-271 — Proposed; filed today, cited as partial evidence toward an answer, not as settled -->
 
 # QUESTION-025: Do correlated or hierarchical attributes in co-occurrence statistics still give linear attribute directions in an embedding, and with them a concept lattice that is not Boolean?
 
@@ -159,7 +159,7 @@ None of these answers it; together they narrow it.
   word co-occurrence graph and scored against WordNet hypernymy, it is one
   way to make the measurement asked for above.
 - **On the correlated branch, a joint fit separates what single fits
-  entangle.** Erogullari et al. ([LIT-937](../literature.d/LIT-937.md), [THEORY-tmpxmwzf](../theory.d/THEORY-tmpxmwzf.md)) find that
+  entangle.** Erogullari et al. ([LIT-937](../literature.d/LIT-937.md), [THEORY-292](../theory.d/THEORY-292.md)) find that
   concept directions fitted one at a time in CNN classifiers align for
   co-occurring attributes, while a joint fit finds orthogonal directions
   that still separate each. So correlated attributes still have linear
@@ -167,13 +167,13 @@ None of these answers it; together they narrow it.
   not a co-occurrence embedding, and implications among the labels are
   not analysed.
 - **Linearity is graded by exposure.** Merullo et al. ([LIT-972](../literature.d/LIT-972.md),
-  [THEORY-tmpk5car](../theory.d/THEORY-tmpk5car.md)) find that whether a factual relation is computed by an
+  [THEORY-269](../theory.d/THEORY-269.md)) find that whether a factual relation is computed by an
   affine map tracks how often its subjects and objects co-occur in
   pretraining. The maps are per-relation maps between hidden states, not
   attribute directions, and the result is a correlation. A probe that
   finds no direction for a rare attribute may be finding low counts.
 - **A rival premise: attributes that add, not multiply.** Torii, Maeda and
-  Hidaka ([LIT-977](../literature.d/LIT-977.md), [THEORY-tmpkwsi6](../theory.d/THEORY-tmpkwsi6.md)) get an exact parallelepiped in
+  Hidaka ([LIT-977](../literature.d/LIT-977.md), [THEORY-271](../theory.d/THEORY-271.md)) get an exact parallelepiped in
   raw counts when aspects combine as a mixture over sentences, and show
   that any non-uniform sentence distribution breaks it. The incidence is
   the full hypercube, so its lattice is Boolean; it touches only the case

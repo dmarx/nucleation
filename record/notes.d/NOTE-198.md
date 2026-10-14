@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp08fwe
 paper: LIT-238
 superseded_by:
-- NOTE-tmp582tx
+- NOTE-760
 title: 'Minimum Description Length Revisited'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmp582tx, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-760, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

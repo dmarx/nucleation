@@ -20,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-118 THEORY-169 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-tmpgub9t — Proposed; filed today, cited as a reading that does not answer this question -->
+<!-- inactive-ok-file: THEORY-264 — Proposed; filed today, cited as a reading that does not answer this question -->
 
 # QUESTION-024: Can a pragmatic frame be induced from examples of communicative behaviour, and does the induced frame transfer across different wordings?
 
@@ -62,7 +62,7 @@ says; none has yet been assessed as an answer, and none is linked by
 
 Neither [LIT-942](../literature.d/LIT-942.md) nor [LIT-946](../literature.d/LIT-946.md) answers this question. Both compare a task
 given as demonstrations with the same task given as an instruction, and
-find mostly different mechanisms ([THEORY-tmpgub9t](../theory.d/THEORY-tmpgub9t.md)). Neither varies the
+find mostly different mechanisms ([THEORY-264](../theory.d/THEORY-264.md)). Neither varies the
 wording of an induced frame, and neither involves a stance or a pragmatic
 frame: the tasks are lexical mappings and classification. One detail bears
 on transfer across wordings: in [LIT-942](../literature.d/LIT-942.md) Fig. 3E–F, instructions of

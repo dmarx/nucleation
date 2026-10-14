@@ -49,7 +49,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-090 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the record's account of felt affect, named for comparison, with no relation claimed -->
-<!-- inactive-ok-file: THEORY-tmp97p4x — Proposed; the counterfactual-eraser account, named in the note of 2026-10-14 as the dilemma this identity inherits -->
+<!-- inactive-ok-file: THEORY-252 — Proposed; the counterfactual-eraser account, named in the note of 2026-10-14 as the dilemma this identity inherits -->
 
 # THEORY-101: Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
 
@@ -156,8 +156,8 @@ prediction-first ([NOTE-187](../notes.d/NOTE-187.md), Corrections). No relation 
 
 Veit's identity of feeling with occupying "a coordinated regulatory state"
 is a functional identity if that state is a functional role, and then it
-inherits the counterfactual eraser of [THEORY-tmp97p4x](THEORY-tmp97p4x.md) ([LIT-1000](../literature.d/LIT-1000.md), read in
-[NOTE-tmpxxz74](../notes.d/NOTE-tmpxxz74.md)). The same regulatory activity, with its unused alternatives
+inherits the counterfactual eraser of [THEORY-252](THEORY-252.md) ([LIT-1000](../literature.d/LIT-1000.md), read in
+[NOTE-818](../notes.d/NOTE-818.md)). The same regulatory activity, with its unused alternatives
 removed by a clamp that never acts, would have to be a different feeling or
 none. Veit would need to say either that the state is individuated by
 actual causal activity, in which case the identity is not with a functional

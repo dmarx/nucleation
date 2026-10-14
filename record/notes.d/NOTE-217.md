@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpr0lv7
 paper: LIT-244
 superseded_by:
-- NOTE-tmp7mv59
+- NOTE-769
 title: 'Natural Kinds (SEP)'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmp7mv59, a full reading of the entry filed on
+    Superseded by NOTE-769, a full reading of the entry filed on
     2026-10-14. This skim is kept as the record of what was known before
     it.
 date: '2026-09-26'

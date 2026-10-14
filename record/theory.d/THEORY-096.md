@@ -68,7 +68,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-103 THEORY-098 — Proposed; the rival accounts, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-102 THEORY-094 THEORY-093 THEORY-023 — Proposed; named in prose for their bearing, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-tmp7j1bc — Proposed; the COGITATE prefrontal finding, named in the note of 2026-10-14, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-245 — Proposed; the COGITATE prefrontal finding, named in the note of 2026-10-14, nothing here rests on it -->
 
 # THEORY-096: Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced
 
@@ -232,7 +232,7 @@ answer it. Each would be settled by the first kind of result in
 
 ## Note of 2026-10-14: the COGITATE results, read
 
-COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-tmpuu1fr](../notes.d/NOTE-tmpuu1fr.md); [THEORY-tmp7j1bc](THEORY-tmp7j1bc.md)) counts against
+COGITATE ([LIT-973](../literature.d/LIT-973.md), read in [NOTE-812](../notes.d/NOTE-812.md); [THEORY-245](THEORY-245.md)) counts against
 two clauses of this account as stated. Against "broadcasts that one
 content": prefrontal cortex held the category of a clearly seen image but
 not its identity, and orientation at most weakly. Against ignition at a

@@ -16,7 +16,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    A qualification from NOTE-tmpjcfop (LIT-239) and NOTE-tmpavenk
+    A qualification from NOTE-787 (LIT-239) and NOTE-776
     (LIT-224): the algorithmic sufficient statistic is a sufficiency
     with no target, but it still gives no unique boundary, because
     independent sets can tie. Added as a note; the claim is unchanged.
@@ -54,7 +54,7 @@ grounds:
 complements:
 - CLAIM-279
 ---
-<!-- inactive-ok-file: THEORY-tmppce05 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
+<!-- inactive-ok-file: THEORY-277 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -122,8 +122,8 @@ The interlocutor's reading of 2026-10-12 sides with this claim against [CLAIM-21
 
 ## Note of 2026-10-14: a sufficiency with no target
 
-The algorithmic sufficient statistic ([THEORY-tmppce05](../theory.d/THEORY-tmppce05.md), from [LIT-239](../literature.d/LIT-239.md) and
-[LIT-224](../literature.d/LIT-224.md), read in [NOTE-tmpjcfop](../notes.d/NOTE-tmpjcfop.md) and [NOTE-tmpavenk](../notes.d/NOTE-tmpavenk.md)) is a sufficiency with no
+The algorithmic sufficient statistic ([THEORY-277](../theory.d/THEORY-277.md), from [LIT-239](../literature.d/LIT-239.md) and
+[LIT-224](../literature.d/LIT-224.md), read in [NOTE-787](../notes.d/NOTE-787.md) and [NOTE-776](../notes.d/NOTE-776.md)) is a sufficiency with no
 outcome variable: it is sufficient for the data string itself, relative
 only to the reference machine. That qualifies "any individuation built on
 sufficiency". It is not a counterexample to the claim's point. It still

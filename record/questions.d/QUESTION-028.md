@@ -26,7 +26,7 @@ answered_by:
 <!-- inactive-ok-file: THEORY-036 — Proposed; cited as the reading that locates the question's work, not as settled -->
 <!-- inactive-ok-file: LIT-301 — Deferred; unread, named as the text that would settle THEORY-036 -->
 <!-- inactive-ok-file: CLAIM-078 — Proposed; cited because A191's four criteria restate it -->
-<!-- inactive-ok-file: THEORY-tmpm8qjr — Proposed; the necessary-not-sufficient reading named in the note of 2026-10-14, not as settled -->
+<!-- inactive-ok-file: THEORY-273 — Proposed; the necessary-not-sufficient reading named in the note of 2026-10-14, not as settled -->
 
 # QUESTION-028: When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy?
 
@@ -121,8 +121,8 @@ says; none has yet been assessed as an answer, and none is linked by
 
 ## Note of 2026-10-14: the natural-kinds entry, read
 
-Bird and Tobin's SEP entry ([LIT-244](../literature.d/LIT-244.md), read in [NOTE-tmp7mv59](../notes.d/NOTE-tmp7mv59.md)) sharpens the
-question and does not answer it. [THEORY-tmpm8qjr](../theory.d/THEORY-tmpm8qjr.md), filed from it, holds
+Bird and Tobin's SEP entry ([LIT-244](../literature.d/LIT-244.md), read in [NOTE-769](../notes.d/NOTE-769.md)) sharpens the
+question and does not answer it. [THEORY-273](../theory.d/THEORY-273.md), filed from it, holds
 that inductive and explanatory usefulness is necessary but not sufficient
 for a natural kind: it holds of classes that share any natural property,
 and it cannot tell a natural kind from a conventional or pragmatic one. So

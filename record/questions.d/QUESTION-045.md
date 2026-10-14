@@ -16,14 +16,14 @@ answered_by:
 - THEORY-050
 - THEORY-052
 - THEORY-053
-- THEORY-tmpta57o
+- THEORY-285
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-099](../claims.d/CLAIM-099.md)
   and [CLAIM-018](../claims.d/CLAIM-018.md). [THEORY-058](../theory.d/THEORY-058.md), [THEORY-050](../theory.d/THEORY-050.md), [THEORY-052](../theory.d/THEORY-052.md) and [THEORY-053](../theory.d/THEORY-053.md) answer
   it in part; the body gives each one's limit.
 ---
-<!-- inactive-ok-file: THEORY-tmpta57o — Proposed; a model-level reading listed with its limit, an answer in part -->
+<!-- inactive-ok-file: THEORY-285 — Proposed; a model-level reading listed with its limit, an answer in part -->
 
 # QUESTION-045: Is a mental disorder that outlasts its trigger a protective lock-in at the individual scale, a regime kept stable by behaviour that blocks its own disconfirmation while the capacity to leave it degrades, and what would show that the maintaining link, not the regime's content, is what keeps it in place?
 
@@ -41,7 +41,7 @@ An individual case would be a second realizer of [CLAIM-099](../claims.d/CLAIM-0
 - [THEORY-050](../theory.d/THEORY-050.md): experiential avoidance becomes "a general strategy" and "behaviour narrows". That is a loss of the capacity to leave the regime. Limit: correlational, mostly self-report.
 - [THEORY-052](../theory.d/THEORY-052.md): thwarting yields "rigid behavior patterns" that "persist into new situations in which they are not needed". Limit: direction unknown.
 - [THEORY-053](../theory.d/THEORY-053.md) says what evidence counts: change in the theorised process that is "specific and comes before the outcome". Cutting a link while holding exposure fixed is the will line's intervention criterion ([QUESTION-015](QUESTION-015.md)) in clinical form.
-- [THEORY-tmpta57o](../theory.d/THEORY-tmpta57o.md) ([LIT-983](../literature.d/LIT-983.md), [NOTE-tmp75pvf](../notes.d/NOTE-tmp75pvf.md)): in an active-inference model, an overly precise prior that one is in a harmful context makes exploration look uninformative, so the agent withholds the evidence that would correct it. Restoring exploratory sampling rebalances the prior; lowering precision only removes symptoms. It answers the question in part, at the model level only. Limit: illustrative simulation with no individual data, and the two intervention arms differ in environment, so exposure is not held fixed while the link is cut.
+- [THEORY-285](../theory.d/THEORY-285.md) ([LIT-983](../literature.d/LIT-983.md), [NOTE-766](../notes.d/NOTE-766.md)): in an active-inference model, an overly precise prior that one is in a harmful context makes exploration look uninformative, so the agent withholds the evidence that would correct it. Restoring exploratory sampling rebalances the prior; lowering precision only removes symptoms. It answers the question in part, at the model level only. Limit: illustrative simulation with no individual data, and the two intervention arms differ in environment, so exposure is not held fixed while the link is cut.
 
 ## What would answer it
 

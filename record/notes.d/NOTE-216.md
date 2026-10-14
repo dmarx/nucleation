@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmpn1fcu
 paper: LIT-233
 superseded_by:
-- NOTE-tmps2bys
+- NOTE-806
 title: 'Variable-size compressibility generalization bounds'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmps2bys, a full reading of the paper filed on
+    Superseded by NOTE-806, a full reading of the paper filed on
     2026-10-14. This skim is kept as the record of what was known before
     it.
 date: '2026-09-26'

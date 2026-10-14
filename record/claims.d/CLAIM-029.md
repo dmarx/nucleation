@@ -29,7 +29,7 @@ supports:
 - ARG-008
 ---
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-tmp94b56 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->
+<!-- inactive-ok-file: THEORY-251 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->
 
 # CLAIM-029: A language model's response to a context is functionally a parameterized pragmatic frame
 
@@ -66,7 +66,7 @@ definitions", and the notation P_θ(y | c, u) is gone from the manuscript.
   the art. Good orders do not transfer across model sizes, so the "frame"
   is sensitive to surface form.
 - **A qualification of that defeater.** Kirsanov et al. ([LIT-946](../literature.d/LIT-946.md), read in
-  [NOTE-tmpjl88t](../notes.d/NOTE-tmpjl88t.md); [THEORY-tmp94b56](../theory.d/THEORY-tmp94b56.md)) find that across draws of examples the
+  [NOTE-789](../notes.d/NOTE-789.md); [THEORY-251](../theory.d/THEORY-251.md)) find that across draws of examples the
   class representations barely move while accuracy swings widely: the
   sensitivity to example selection sits in the vocabulary readout. If the
   frame is the representation a context sets, it is more stable than the

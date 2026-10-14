@@ -17,8 +17,8 @@ history:
   date: '2026-10-14'
   note: >-
     Three readings of the day are named beside the candidate tests:
-    THEORY-tmpjvv0j (LIT-953, NOTE-tmp0o608), THEORY-tmpaf2sz (LIT-955,
-    NOTE-tmpv7vus) and THEORY-tmph3haa (LIT-989, NOTE-tmp9ypte). None
+    THEORY-268 (LIT-953, NOTE-756), THEORY-254 (LIT-955,
+    NOTE-814) and THEORY-265 (LIT-989, NOTE-773). None
     answers the question. Its status is unchanged.
 tags:
 - individuation
@@ -49,7 +49,7 @@ refined_by:
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens, set aside since the will paper -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 CLAIM-167 — Proposed; the answers filed against this question, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection and the withdrawn adequacy condition -->
-<!-- inactive-ok-file: THEORY-tmpjvv0j THEORY-tmpaf2sz THEORY-tmph3haa — Proposed; readings of 2026-10-14 named beside the candidate tests, open -->
+<!-- inactive-ok-file: THEORY-268 THEORY-254 THEORY-265 — Proposed; readings of 2026-10-14 named beside the candidate tests, open -->
 
 # QUESTION-035: Relative to a stated target, when is a combined form one system, where does its boundary lie, and how long does it last?
 
@@ -75,17 +75,17 @@ the prior question: when it makes one *system*. Selfhood stays a further
 question again, kept apart by [ADR-024](../decisions.d/ADR-024.md).
 
 Readings of 2026-10-14 bear on all three parts, and none answers it:
-- **How long.** [THEORY-tmpjvv0j](../theory.d/THEORY-tmpjvv0j.md) ([LIT-953](../literature.d/LIT-953.md), [NOTE-tmp0o608](../notes.d/NOTE-tmp0o608.md)): an emergence
+- **How long.** [THEORY-268](../theory.d/THEORY-268.md) ([LIT-953](../literature.d/LIT-953.md), [NOTE-756](../notes.d/NOTE-756.md)): an emergence
   measure averaged over transitions can be positive while it is negative at
   particular ones. A criterion of unity computed as an average gives no
   verdict about a moment, so "how long" needs a window and a rule for how
   many failing moments end the form.
-- **One system, and where.** [THEORY-tmpaf2sz](../theory.d/THEORY-tmpaf2sz.md) ([LIT-955](../literature.d/LIT-955.md), [NOTE-tmpv7vus](../notes.d/NOTE-tmpv7vus.md)):
+- **One system, and where.** [THEORY-254](../theory.d/THEORY-254.md) ([LIT-955](../literature.d/LIT-955.md), [NOTE-814](../notes.d/NOTE-814.md)):
   tangles make "cannot be pulled apart" two-sided and relative to an order
   k, and they match communities only where structure is strongly
   delineated. Each region has its own best order, so one global threshold
   splits some forms and misses others.
-- **Boundary found by timing.** [THEORY-tmph3haa](../theory.d/THEORY-tmph3haa.md) ([LIT-989](../literature.d/LIT-989.md), [NOTE-tmp9ypte](../notes.d/NOTE-tmp9ypte.md)):
+- **Boundary found by timing.** [THEORY-265](../theory.d/THEORY-265.md) ([LIT-989](../literature.d/LIT-989.md), [NOTE-773](../notes.d/NOTE-773.md)):
   phase synchrony within strongly coupled modules makes each respond as a
   unit, and global synchrony does not. "Who is synchronised with whom"
   defines the collective, but the boundary is built in by the couplings,

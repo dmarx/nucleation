@@ -31,11 +31,11 @@ history:
 - version: 5
   date: '2026-10-14'
   note: >-
-    Two readings of the day. NOTE-tmp9ypte (LIT-989, THEORY-tmph3haa)
+    Two readings of the day. NOTE-773 (LIT-989, THEORY-265)
     supports the claim and sharpens it: global synchrony makes no unit,
     synchrony matched to the modules does, and its entrainment is a
     payoff-gradient rule on phase, not HKB-style output coupling.
-    THEORY-tmph3haa is added to grounds. NOTE-tmpjexhc (LIT-947) shows a
+    THEORY-265 is added to grounds. NOTE-788 (LIT-947) shows a
     symmetric pair reading as hierarchical under strong one-sided drive,
     so an observational direction test needs an intervention. The claim
     is otherwise unchanged; the defeated_if is met trivially by any
@@ -46,7 +46,7 @@ history:
     defeated_if reworded at the owner's request. As written it was met by
     any complete micro simulation, since LIT-989's authors note that the
     higher-level agent is in none of their equations of motion
-    (NOTE-tmp9ypte). The defeater now requires that a decomposed model no
+    (NOTE-773). The defeater now requires that a decomposed model no
     more complex than the relative-phase model predict as well, so the
     collective variable must buy no descriptive economy.
 role: thesis
@@ -72,7 +72,7 @@ grounds:
 - LIT-455
 - LIT-439
 - LIT-571
-- THEORY-tmph3haa
+- THEORY-265
 uses:
 - TERM-049
 - TERM-045
@@ -94,7 +94,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
-<!-- inactive-ok-file: THEORY-tmph3haa THEORY-tmpo4fgq — Proposed; the model case that supports and sharpens the criterion, and the reading that limits observational tests of direction -->
+<!-- inactive-ok-file: THEORY-265 THEORY-275 — Proposed; the model case that supports and sharpens the criterion, and the reading that limits observational tests of direction -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
 
 # CLAIM-172: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
@@ -136,7 +136,7 @@ is the *architecture*. Mutually entrained members are peers. A driven pair
 is a hierarchy, as a lead and follow are. Mutual entrainment is sufficient
 for a combined form, not necessary, and it says which kind.
 
-**A model case, 2026-10-14** ([THEORY-tmph3haa](../theory.d/THEORY-tmph3haa.md), [LIT-989](../literature.d/LIT-989.md), [NOTE-tmp9ypte](../notes.d/NOTE-tmp9ypte.md)).
+**A model case, 2026-10-14** ([THEORY-265](../theory.d/THEORY-265.md), [LIT-989](../literature.d/LIT-989.md), [NOTE-773](../notes.d/NOTE-773.md)).
 In a modular coordination game, phase synchrony within strongly coupled
 modules makes each module respond to the others as a single unit, and the
 control with imposed global synchrony makes no unit. That supports the
@@ -164,6 +164,6 @@ mechanism.
   Interests over time, on Ainslie's reading, still have neither.
 - **That direction can be read from observation alone.** A symmetrically
   coupled pair reads as "hierarchical" once one member is strongly driven
-  ([THEORY-tmpo4fgq](../theory.d/THEORY-tmpo4fgq.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-tmpjexhc](../notes.d/NOTE-tmpjexhc.md)). The criterion "each side's
+  ([THEORY-275](../theory.d/THEORY-275.md), [LIT-947](../literature.d/LIT-947.md), [NOTE-788](../notes.d/NOTE-788.md)). The criterion "each side's
   timing shifts with the other's" therefore needs an intervention on one
   member ([QUESTION-063](../questions.d/QUESTION-063.md)), not observed flow, to tell peers from a hierarchy.

@@ -5,14 +5,14 @@ formerly:
 - NOTE-tmp8l29l
 paper: LIT-225
 superseded_by:
-- NOTE-tmpp6trb
+- NOTE-801
 title: 'MDL induction, Bayesianism, and Kolmogorov complexity'
 version: 2
 history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    Superseded by NOTE-tmpp6trb, a full reading of the paper filed on 2026-10-14.
+    Superseded by NOTE-801, a full reading of the paper filed on 2026-10-14.
     This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-

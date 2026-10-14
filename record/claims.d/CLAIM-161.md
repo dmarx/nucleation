@@ -17,7 +17,7 @@ history:
 - version: 2
   date: '2026-10-14'
   note: >-
-    NOTE-tmp0o608 (LIT-953): averaged and local verdicts of an
+    NOTE-756 (LIT-953): averaged and local verdicts of an
     information measure can disagree, so "approximately conserved" needs
     a window and a tolerance. Added under What it does not say. The
     claim is unchanged.
@@ -46,7 +46,7 @@ summary: >-
 complements:
 - CLAIM-287
 ---
-<!-- inactive-ok-file: THEORY-tmpjvv0j — Proposed; the reading that sets the window question, open -->
+<!-- inactive-ok-file: THEORY-268 — Proposed; the reading that sets the window question, open -->
 
 # CLAIM-161: A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states
 
@@ -81,7 +81,7 @@ must take, not which one is right.
   target-relativity applies.
 - **Over what window, and with what tolerance.** If γ is an information
   quantity, its value averaged over an interval and its value at a moment
-  can disagree in sign ([THEORY-tmpjvv0j](../theory.d/THEORY-tmpjvv0j.md), [LIT-953](../literature.d/LIT-953.md), [NOTE-tmp0o608](../notes.d/NOTE-tmp0o608.md)).
+  can disagree in sign ([THEORY-268](../theory.d/THEORY-268.md), [LIT-953](../literature.d/LIT-953.md), [NOTE-756](../notes.d/NOTE-756.md)).
   "Approximately conserved" then needs a window and a tolerance for
   negative local values that average out. That is this record's
   application, not the paper's claim.

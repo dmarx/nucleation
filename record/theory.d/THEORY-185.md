@@ -30,9 +30,9 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    Connections to THEORY-tmpkwsi6 (LIT-977), an additive-mixture rival,
-    prompted by NOTE-tmpe5owc, and to THEORY-tmpxmwzf (LIT-937), a
-    supervised counterpart of Appendix A5, prompted by NOTE-tmpw5s6c.
+    Connections to THEORY-271 (LIT-977), an additive-mixture rival,
+    prompted by NOTE-781, and to THEORY-292 (LIT-937), a
+    supervised counterpart of Appendix A5, prompted by NOTE-816.
     The claim is unchanged.
 tags:
 - representation-learning
@@ -55,7 +55,7 @@ answers:
 - QUESTION-025
 ---
 <!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-025 — Proposed or open; cited as what this result bears on -->
-<!-- inactive-ok-file: THEORY-tmpkwsi6 THEORY-tmpxmwzf — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
+<!-- inactive-ok-file: THEORY-271 THEORY-292 — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
 # THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
@@ -150,8 +150,8 @@ other as in [LIT-267](../literature.d/LIT-267.md)'s WordNet hierarchies or [CLAI
 share attributes and differ in a few constraints, is what this model
 excludes. Whether the linear directions survive it is [QUESTION-025](../questions.d/QUESTION-025.md).
 
-**An additive rival.** [THEORY-tmpkwsi6](THEORY-tmpkwsi6.md) (Torii, Maeda and Hidaka, [LIT-977](../literature.d/LIT-977.md),
-read in [NOTE-tmpe5owc](../notes.d/NOTE-tmpe5owc.md)) gets an exact parallelepiped in a toy
+**An additive rival.** [THEORY-271](THEORY-271.md) (Torii, Maeda and Hidaka, [LIT-977](../literature.d/LIT-977.md),
+read in [NOTE-781](../notes.d/NOTE-781.md)) gets an exact parallelepiped in a toy
 subject–verb–object corpus from a different premise. There aspects combine
 as a mixture over sentences, so counts add across aspects, and the shape is
 in the raw co-occurrence rows; the logarithm would break it. Here attributes
@@ -162,7 +162,7 @@ different generative structure, not a second derivation of this one.
 
 **A supervised counterpart of Appendix A5.** With pairwise-correlated
 attributes, the affine eigenvectors here mix attributes (A5).
-[THEORY-tmpxmwzf](THEORY-tmpxmwzf.md) (Erogullari et al., [LIT-937](../literature.d/LIT-937.md), read in [NOTE-tmpw5s6c](../notes.d/NOTE-tmpw5s6c.md)) finds the
+[THEORY-292](THEORY-292.md) (Erogullari et al., [LIT-937](../literature.d/LIT-937.md), read in [NOTE-816](../notes.d/NOTE-816.md)) finds the
 same in CNN image classifiers for concept directions fitted one at a time,
 and adds that a joint fit finds orthogonal directions that still separate
 each concept. A direction found from one statistic at a time mixes

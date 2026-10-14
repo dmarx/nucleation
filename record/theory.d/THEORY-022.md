@@ -31,10 +31,10 @@ history:
 - version: 3
   date: '2026-10-14'
   note: >-
-    Two qualifications, prompted by NOTE-tmpp9pxe and NOTE-tmp4idzz.
+    Two qualifications, prompted by NOTE-802 and NOTE-759.
     Modell et al. (LIT-935, Fig. 2) show Engels et al.'s circles are not
     planar, so "a single 2-D irreducible" is qualified. Bird (LIT-976,
-    THEORY-tmpv0dw8) shows a group imposed by the activation, so "the
+    THEORY-288) shows a group imposed by the activation, so "the
     group comes from the task" is not general. The claim is otherwise
     unchanged.
 tags:
@@ -63,7 +63,7 @@ answers:
 - QUESTION-058
 ---
 <!-- inactive-ok-file: THEORY-183 — Proposed; cited as the data-side mechanism, not as settled -->
-<!-- inactive-ok-file: THEORY-tmpv0dw8 — Proposed; cited as the qualification of "not the network", not leaned on -->
+<!-- inactive-ok-file: THEORY-288 — Proposed; cited as the qualification of "not the network", not leaned on -->
 
 # THEORY-022: The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
 
@@ -105,7 +105,7 @@ regression on Llama months adds frequency-2 and sign characters of ℤ/12
 ([NOTE-273](../notes.d/NOTE-273.md)). Patching the circle causally changes the answer in Mistral 7B and
 Llama 3 8B. Power et al. saw only a qualitative t-SNE "number line" in the
 output layer ([NOTE-287](../notes.d/NOTE-287.md)). The circles are not planar, though. Modell et
-al. ([LIT-935](../literature.d/LIT-935.md), Fig. 2, read in [NOTE-tmpp9pxe](../notes.d/NOTE-tmpp9pxe.md)) show the same Mistral 7B
+al. ([LIT-935](../literature.d/LIT-935.md), Fig. 2, read in [NOTE-802](../notes.d/NOTE-802.md)) show the same Mistral 7B
 representations weaving through a third principal component. That is
 consistent with the extra frequency-2 and sign characters on Llama months,
 and not with a single real two-dimensional irreducible for each feature.
@@ -144,7 +144,7 @@ the circle could come from in a language model without showing that it does
   learnable 3 × 3 matrices multiplied by hand, so a matrix representation
   is imposed, not found ([NOTE-662](../notes.d/NOTE-662.md)).
 - **That the group always comes from the task.** Bird ([LIT-976](../literature.d/LIT-976.md), read in
-  [NOTE-tmp4idzz](../notes.d/NOTE-tmp4idzz.md); [THEORY-tmpv0dw8](THEORY-tmpv0dw8.md)) finds small autoencoders whose latents
+  [NOTE-759](../notes.d/NOTE-759.md); [THEORY-288](THEORY-288.md)) finds small autoencoders whose latents
   are arranged by B_n or S_n, groups imposed by the elementwise
   activation and absent from the task, which vanish when the activation is
   made rotation-equivariant. That is discrete axis alignment, not

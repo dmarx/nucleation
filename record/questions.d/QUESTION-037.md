@@ -57,7 +57,7 @@ together, with [CLAIM-176](../claims.d/CLAIM-176.md) as the record's own trigger
 
 ## Note of 2026-10-14: IBIS on settling
 
-IBIS's founding paper ([LIT-758](../literature.d/LIT-758.md), read in [NOTE-tmptx0xy](../notes.d/NOTE-tmptx0xy.md)) answers "what makes
+IBIS's founding paper ([LIT-758](../literature.d/LIT-758.md), read in [NOTE-811](../notes.d/NOTE-811.md)) answers "what makes
 it settle" procedurally only: an issue is settled "by convincing the
 opponents or decided by a formal decision procedure", or dodged, or
 substituted. It offers no account of an argument's structure stabilising
