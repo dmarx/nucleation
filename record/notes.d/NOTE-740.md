@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpbkfrz
 paper: LIT-249
 title: 'HaoChen et al. — Spectral Contrastive Loss'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -20,6 +20,14 @@ history:
     on; their Rademacher and Gaussian-isoperimetry arithmetic was not
     re-derived. The references were not read. A grep of the extracted
     text finds no occurrence of "symmetric", "self-adjoint" or "Riesz".
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Correction after the reading of LIT-227 (NOTE-tmpohlyt): Connections
+    said Tan et al. restate the eigenvector correspondence for
+    InfoNCE-type losses; they prove an identity between objectives and
+    make no eigenvector statement. A correction line added; the reading is
+    unchanged. Inactive-ok comments trimmed of codes now Active or Open.
 date: '2026-10-14'
 summary: >-
   On a finite augmentation space, the spectral contrastive loss
@@ -30,8 +38,7 @@ summary: >-
   linear probe on them has error Õ(α/ρ²_⌊k/2⌋), where α is the label
   noise of augmentations and ρ the sparsest-partition conductance.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-007 THEORY-009 QUESTION-052 — Proposed or Open; the theories and question that cite this paper, open until it and its companions are read -->
-<!-- inactive-ok-file: LIT-258 LIT-227 LIT-228 LIT-235 LIT-251 — Deferred or newly read; the companion papers of the spectral reading of self-supervised learning -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 — Proposed; the theories that cite this paper, open until it and its companions are read -->
 
 # NOTE-740: HaoChen et al. — Spectral Contrastive Loss
 
@@ -181,6 +188,10 @@ Maddison ([LIT-258](../literature.d/LIT-258.md)) take that chain as their centra
 its eigenfunctions are this paper's eigenvectors divided by p(a)^(1/2).
 Tan et al. ([LIT-227](../literature.d/LIT-227.md)) and Balestriero and LeCun ([LIT-228](../literature.d/LIT-228.md)) restate the
 correspondence for InfoNCE-type losses.
+
+*Correction (2026-10-14, [NOTE-tmpohlyt](NOTE-tmpohlyt.md)):* Tan et al. do not restate the
+correspondence. They prove an identity between objectives, InfoNCE as a
+Laplacian form plus log normalizers, and make no eigenvector statement.
 
 ## Bearing on the record
 

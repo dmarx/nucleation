@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp4zg6p
 title: 'A maintained r/place artwork is a dissipative structure in Prigogine''s structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-13'
@@ -16,6 +16,12 @@ history:
     dissipative only while contested. That is withdrawn: low past activity
     protects a composition because it means low local temperature, not no
     decay. The origin half stands.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    LIT-913 is now Unavailable, not Deferred (its own status change of
+    2026-10-14, under ADR-041): its inactive-ok comment and the text marking it unread
+    reworded. The claim is unchanged.
 role: thesis
 defeated_if: >-
   Evidence that contested artworks on r/place keep their form without a
@@ -57,7 +63,8 @@ summary: >-
   template, not from an instability (Adams et al.). No thermodynamic
   quantity is defined.
 ---
-<!-- inactive-ok-file: CLAIM-274 THEORY-214 THEORY-216 THEORY-224 CLAIM-280 CLAIM-163 LIT-913 THEORY-072 THEORY-220 — Proposed or Deferred; readings and claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-274 THEORY-214 THEORY-216 THEORY-224 CLAIM-280 CLAIM-163 THEORY-072 THEORY-220 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-913 — Unavailable; no copy could be obtained, cited as the precedent still to read and marked unread in the text -->
 
 # CLAIM-273: A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability
 
@@ -119,6 +126,6 @@ One feature first looked like a break and is not. The other is one:
   back into the flow that keeps it is the next rung of the ladder
   ([THEORY-072](../theory.d/THEORY-072.md), [THEORY-220](../theory.d/THEORY-220.md)), and it is open: [QUESTION-085](../questions.d/QUESTION-085.md).
 - Kugler, Kelso and Turvey made the same move for coordinative structures in
-  action ([LIT-913](../literature.d/LIT-913.md), unread), and the coordination-dynamics line that followed
+  action ([LIT-913](../literature.d/LIT-913.md), unread; no copy could be obtained), and the coordination-dynamics line that followed
   is [THEORY-069](../theory.d/THEORY-069.md). Their reception is the precedent to read before this claim
   is pressed further.

@@ -1,16 +1,23 @@
 ---
 number: 226
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpg6ntg
 paper: LIT-260
+superseded_by:
+- NOTE-tmpgvy79
 title: 'Kernel mean embedding of distributions (review)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpgvy79, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Point evaluation is bounded on an RKHS, so the Riesz theorem gives the reproducing kernel k_x. Likewise, when E√k(X,X) < ∞ the expectation functional f ↦ E_P f is bounded, so Riesz gives a unique mean embedding μ_P with E_P f = ⟨f, μ_P⟩. MMD is then the RKHS distance ‖μ_P − μ_Q‖, and it separates distributions exactly when the kernel is characteristic.
 ---
-<!-- inactive-ok-file: LIT-260 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-226: Kernel mean embedding of distributions (review)
 

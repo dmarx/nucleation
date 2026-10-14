@@ -1,16 +1,23 @@
 ---
 number: 237
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpkjjf0
 paper: LIT-263
+superseded_by:
+- NOTE-tmpmru91
 title: 'Budroni et al., Kochen–Specker contextuality (RMP review)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpmru91, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-27'
 summary: >-
   A review that fixes a minimal definition of Kochen–Specker contextuality as the impossibility of a global joint distribution whose marginals are the context distributions (Fine's theorem; the sheaf-theoretic framework is one of several equivalent formulations), and that treats Spekkens's generalized contextuality as a different notion, covered only to mark the difference.
 ---
-<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together; the theories citing it are Proposed until it is read closely -->
 
 # NOTE-237: Budroni et al., Kochen–Specker contextuality (RMP review)
 

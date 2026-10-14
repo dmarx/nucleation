@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdewd4
 title: 'Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -23,6 +23,16 @@ history:
     "What the record holds" now names the two accounts filed today from
     those readings, THEORY-235 (LIT-1002) and THEORY-225
     (LIT-1007). Neither answers the question.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). The
+    description of Pereboom's four cases is qualified: "produced by
+    someone else" fits the manipulation cases, not the ordinary
+    determination at the compatibilist end, and Chapter 4, which holds the
+    cases, was not read. LIT-1006 is noted as read only in part. The
+    inactive-ok comment for LIT-1006 and LIT-1003 reworded from Deferred
+    to Unavailable. The question stays open.
 tags:
 - self-governance
 - agency
@@ -43,7 +53,8 @@ summary: >-
   [CLAIM-016](../claims.d/CLAIM-016.md)'s manipulation defeater sits.
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
-<!-- inactive-ok-file: LIT-1006 LIT-1003 — Deferred, unread; readings filed with this question -->
+<!-- inactive-ok-file: LIT-1006 LIT-1003 — Unavailable; readings filed with this question, LIT-1006 read only in part and LIT-1003 not reached -->
+<!-- inactive-ok-file: THEORY-tmpl5i65 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
@@ -53,9 +64,13 @@ summary: >-
 The will line describes an agent's practical efficacy by how its regimes
 are organized now. [CLAIM-022](../claims.d/CLAIM-022.md) already says that such an explanation does not
 settle whose the will is. Manipulation is the sharpest case. In Pereboom's
-four cases ([LIT-1006](../literature.d/LIT-1006.md)), an agent's present structure is produced by
+manipulation cases ([LIT-1006](../literature.d/LIT-1006.md)), an agent's present structure is produced by
 someone else and matches an unmanipulated agent's in every respect the
-account names.
+account names. That fits the manipulation cases, not all four: the case at
+the compatibilist end is ordinary determination, where nobody else
+produces the structure. The book was read only in part ([NOTE-tmp46uej](../notes.d/NOTE-tmp46uej.md),
+Skimmed; [THEORY-tmpl5i65](../theory.d/THEORY-tmpl5i65.md)), and the reading stopped before Chapter 4, which
+holds the four cases, so this description is not confirmed first-hand.
 
 The question has two parts:
 

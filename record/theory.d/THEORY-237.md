@@ -13,7 +13,15 @@ promote_when: >-
   stated free term, the log density ratio. What cannot settle it: estimator
   benchmarks on Gaussian toys, which test bias and variance, not tightness.
 title: "The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-256 (NOTE-tmp8mfe9). The Source now
+    says that DV tightness "only" at the log derivative is the converse of
+    the paper's "whenever", and holds only under mutual absolute
+    continuity. The Deferred comment on LIT-256 removed.
 tags:
 - information-theory
 - representation-learning
@@ -32,7 +40,7 @@ summary: >-
   estimate is neither an upper nor a lower bound. The InfoNCE optimum is
   cited, not derived, and the bias–variance comparisons are on toys.
 ---
-<!-- inactive-ok-file: LIT-256 THEORY-001 — Deferred or Proposed; Belghazi et al. is supporting for the DV identity only, and the others are cited for context -->
+<!-- inactive-ok-file: THEORY-001 — Proposed; cited for context -->
 
 # THEORY-237: The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free
 
@@ -41,7 +49,11 @@ summary: >-
 Poole et al. (2019), [LIT-246](../literature.d/LIT-246.md), read in [NOTE-739](../notes.d/NOTE-739.md): §2.1–2.4, Eqs. 1–11,
 Table 1. Supporting: Belghazi et al. (2018), [LIT-256](../literature.d/LIT-256.md), Eqs. 1, 3–4 and
 App. 8.2.1, for the Donsker–Varadhan bound's tightness at the log
-Radon–Nikodym derivative plus a constant.
+Radon–Nikodym derivative plus a constant. Belghazi et al. say
+"whenever"; that it is tight only there is the converse, which follows
+from their Eq. 25 but is not stated, and the supremum is attained only
+when the joint and the product of marginals are mutually absolutely
+continuous, otherwise it is approached in the limit ([NOTE-tmp8mfe9](../notes.d/NOTE-tmp8mfe9.md)).
 
 ## What was actually shown
 

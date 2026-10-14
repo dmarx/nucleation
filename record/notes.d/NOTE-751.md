@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpu7m7r
 paper: LIT-258
 title: 'Johnson, El Hanchi & Maddison — Contrastive Learning Can Find an Optimal Basis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -20,6 +20,11 @@ history:
     (F.1–F.5). The figures were read from their captions and axis labels
     only, because their plotted values have no text layer. The references
     were not read.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the readings of LIT-251 (NOTE-tmpj78ol) and LIT-252 (NOTE-tmp5aqd2): the inactive-ok comments trimmed of codes now Active or
+    Open. The reading is unchanged.
 date: '2026-10-14'
 summary: >-
   On a finite augmentation space, the NT-Logistic and spectral losses are
@@ -30,8 +35,7 @@ summary: >-
   minimizes worst-case L²(p) approximation error over targets with
   E_p⁺[(g(a₁) − g(a₂))²] ≤ ε; that error is ε/(2(1 − λ_(d+1))).
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-007 THEORY-009 QUESTION-052 — Proposed or Open; the theories and question that cite this paper, open until it and its companions are read -->
-<!-- inactive-ok-file: LIT-249 LIT-228 LIT-246 LIT-251 LIT-252 LIT-242 — Deferred or newly read; the companion papers of the spectral reading of self-supervised learning -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 — Proposed; the theories that cite this paper, open until it and its companions are read -->
 
 # NOTE-751: Johnson, El Hanchi & Maddison — Contrastive Learning Can Find an Optimal Basis
 

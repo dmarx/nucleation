@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp7vmnc
 title: 'Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-787 (NOTE-tmpzvsw5) and the copy hunt that
+    left LIT-928 Unavailable. A Connections line adds Ashby's separate
+    stores and similarity-driven interference. The text and inactive-ok
+    comment note that Kanerva's book is Unavailable, so the
+    critical-distance point stays unchecked against it. The claim is
+    unchanged.
 role: thesis
 defeated_if: >-
   In the reconstructed exchanges, re-derivations "as though new" turn
@@ -39,7 +49,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-024 CLAIM-177 CLAIM-179 CLAIM-182 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as an analogy that came back after it was rejected, which is the point -->
-<!-- inactive-ok-file: LIT-928 — Deferred, unread; Kanerva's book, named as where the critical distance comes from, not leaned on beyond that -->
+<!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, no copy obtainable, named as where the critical distance comes from, not leaned on beyond that -->
+<!-- inactive-ok-file: THEORY-tmp9yigf — Proposed; the account filed from LIT-787, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-272 — Proposed; the Hopfield account filed from LIT-918, cited for its corrections -->
 
 # CLAIM-180: Drift is retrieval failure outside a critical distance: a restatement close enough to an idea retrieves it, one that has drifted too far is taken for new, and a code bypasses retrieval by content altogether
@@ -50,7 +61,8 @@ In sparse distributed memory a cue retrieves a stored pattern only from
 within a critical distance: "the largest query–target distance from which
 iterated reads still converge to the target" ([NOTE-242](../notes.d/NOTE-242.md), reading
 [LIT-269](../literature.d/LIT-269.md)). The critical distance comes from Kanerva's book ([LIT-928](../literature.d/LIT-928.md),
-unread), not from Hopfield or from Kanerva's report ([LIT-921](../literature.d/LIT-921.md)), which has
+unread, and now Unavailable, so the point stays unchecked against the
+book), not from Hopfield or from Kanerva's report ([LIT-921](../literature.d/LIT-921.md)), which has
 only the signal-to-noise optimum ([NOTE-779](../notes.d/NOTE-779.md), 2026-10-14). Hopfield's
 network ([LIT-918](../literature.d/LIT-918.md), read in [NOTE-819](../notes.d/NOTE-819.md)) has the same shape in
 dynamical form. A cue inside a memory's basin of attraction settles into
@@ -108,3 +120,13 @@ Two further points follow from the models, both untested here:
 - The test it proposes is not run. It needs a measure of how far a
   restatement is from its original, and the reconstructed exchanges
   give the cases to measure.
+
+## Connections
+
+- Ashby ([LIT-787](../literature.d/LIT-787.md), Ch. 16, S. 16/14; [THEORY-tmp9yigf](../theory.d/THEORY-tmp9yigf.md), read in
+  [NOTE-tmpzvsw5](../notes.d/NOTE-tmpzvsw5.md)): separate stores for separate situations, with
+  interference that grows with the similarity of the situations, because
+  similar inputs use the same parts. Read across, a close restatement is
+  the one most likely to overwrite its earlier form, the converse of this
+  claim's concern that a distant one is taken for new. Both follow from
+  retrieval by content, and a code avoids both. Analogy only.

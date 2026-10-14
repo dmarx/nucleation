@@ -1,16 +1,23 @@
 ---
 number: 201
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmp6l5l9
 paper: LIT-231
+superseded_by:
+- NOTE-tmpyexl4
 title: 'Assran et al. 2022 — hidden uniform cluster prior in SSL'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpyexl4, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Joint-embedding SSL methods that rely on mini-batch volume maximization (SimCLR, VICReg, SwAV, MSN) implicitly impose a prior toward features that cluster the data into equal-sized groups, which hurts on class-imbalanced data; replacing it with a power-law prior (PMSN) improves representations on long-tailed data.
 ---
-<!-- inactive-ok-file: LIT-231 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-201: Assran et al. 2022 — hidden uniform cluster prior in SSL
 

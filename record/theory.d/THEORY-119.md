@@ -20,9 +20,19 @@ promote_when: >-
   sign, and no other route shows responsibility without alternatives; it
   is refuted for blame alone if Wolf's asymmetry (THEORY-118) is
   confirmed with an answer to the Frankfurt-style wrongdoer. More surveys
-  cannot settle it: Robb reports "not much consensus".
+  cannot settle it: Robb reports "not much consensus". Note of
+  2026-10-14: Pereboom's book (LIT-1006) was read only in part
+  (NOTE-tmp46uej), and the reading stopped at p. 10, before his buffer
+  case on pp. 18–23, so that clause is not met by it.
 title: "An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). A
+    dated note in promote_when records that the reading stopped at p. 10,
+    before Pereboom's buffer case (pp. 18–23). The claim is unchanged.
 tags:
 - free-will
 - ethics
@@ -52,6 +62,7 @@ extended_by:
 answers:
 - QUESTION-068
 ---
+<!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-118 THEORY-121 THEORY-120 THEORY-040 — Proposed; the rival declared here and the accounts named in prose -->
 <!-- inactive-ok-file: LIT-684 LIT-687 LIT-688 LIT-686 — Deferred, unread; Fischer's and Wolf's primary texts and Frankfurt's 1982 essay, named as what would move this -->
 

@@ -1,16 +1,23 @@
 ---
 number: 229
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpl1ann
 paper: LIT-255
+superseded_by:
+- NOTE-tmpeh5ik
 title: 'Information Theory with Kernel Methods'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpeh5ik, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   With a kernel normalised to k(x,x) = 1, the covariance operator Σ_p = E_p[ϕ(x)ϕ(x)*] is a density operator (PSD, unit trace), injective in p when k² is universal. Its von Neumann entropy and relative entropy behave like Shannon quantities, with D(Σ_p‖Σ_q) ≤ D(p‖q), and the empirical versions are computed from the normalised Gram matrix K/n.
 ---
-<!-- inactive-ok-file: LIT-255 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-229: Information Theory with Kernel Methods
 

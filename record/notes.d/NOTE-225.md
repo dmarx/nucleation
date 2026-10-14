@@ -1,16 +1,23 @@
 ---
 number: 225
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpfq8cv
 paper: LIT-257
+superseded_by:
+- NOTE-tmpcc47a
 title: 'What Similarity Measures Imply about Decodability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpcc47a, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   For linear readouts regularised by w ↦ wᵀG(X)w, the optimal decoded signal is K_X z with K_X = X G(X)⁻¹ Xᵀ / M. The expected alignment of two networks' optimal readouts is therefore Tr(K_X K_z K_Y), which recovers linear CKA, CCA, GULP and ENSD as average decoding similarities. Procrustes distance bounds the average decoding distance from both sides, with constants set by a participation ratio.
 ---
-<!-- inactive-ok-file: LIT-257 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-225: What Similarity Measures Imply about Decodability
 

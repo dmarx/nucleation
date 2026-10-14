@@ -1,16 +1,23 @@
 ---
 number: 234
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpy1qgp
 paper: LIT-248
+superseded_by:
+- NOTE-tmp9jxqd
 title: 'SSL-HSIC (kernel dependence maximization)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp9jxqd, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   With image identity as the label, the SSL-HSIC loss −HSIC(Z,Y) + γ√HSIC(Z,Z) has a dependence term that is proportional to the average squared MMD between the per-image distributions of augmented-view representations (App. B.2). InfoNCE approximates the same term plus a variance penalty (eq. 7), so contrastive SSL separates the kernel mean embeddings of each image's view distribution.
 ---
-<!-- inactive-ok-file: LIT-248 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-234: SSL-HSIC (kernel dependence maximization)
 

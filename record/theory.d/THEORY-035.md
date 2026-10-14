@@ -20,7 +20,7 @@ promote_when: >-
   with no fall in I(X;T) (ReLU, deep linear) and a network that compresses
   while overfitting (tanh on 30% of the data).
 title: 'Deep networks generalise because the diffusion phase of SGD compresses each layer''s information about the input'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-09-30'
@@ -54,6 +54,12 @@ history:
     The "does not say" item on Sefidgaran et al. (LIT-245) now cites
     THEORY-238, the account of their Theorem 4 filed today. The
     status stays Rejected.
+- version: 5
+  date: '2026-10-14'
+  note: >-
+    LIT-240 is now Unavailable, not Deferred (its status change of
+    2026-10-14, under ADR-041); the Connections line says so. Nothing else
+    changed.
 tags:
 - learning-theory
 - information-theory
@@ -109,5 +115,5 @@ summary: >-
 ## Connections
 
 - [LIT-226](../literature.d/LIT-226.md) (CEB) inherits the IB programme. [NOTE-300](../notes.d/NOTE-300.md) shows algebraically that its objective is eq. (15) of [LIT-338](../literature.d/LIT-338.md) reparametrised. Fischer's §4 argues that compressed models generalise better, citing Shamir et al.'s bound, but measures compression by its own variational bounds on a stochastic encoder, not by binning a deterministic network, and makes no claim about a compression phase of SGD ([NOTE-754](../notes.d/NOTE-754.md)). It neither supports nor bears on the account rejected here.
-- [LIT-240](../literature.d/LIT-240.md) (Vera et al.) takes up "the IB term controls generalisation" formally, with a bound in I(X;U) that holds for finite alphabets. It is Deferred. [LIT-245](../literature.d/LIT-245.md) (Sefidgaran et al.) takes the claim up to replace it. It argues that the existing I(X;U) bounds, Vera et al.'s among them, are vacuous or restricted to finite alphabets, and that I(X;U) is infinite for deterministic continuous encoders, which agrees with [LIT-372](../literature.d/LIT-372.md), App. C. It does not prove that I(X;U) cannot bound generalisation ([NOTE-742](../notes.d/NOTE-742.md)).
+- [LIT-240](../literature.d/LIT-240.md) (Vera et al.) takes up "the IB term controls generalisation" formally, with a bound in I(X;U) that holds for finite alphabets. It is Unavailable: no copy could be obtained, so it is unread. [LIT-245](../literature.d/LIT-245.md) (Sefidgaran et al.) takes the claim up to replace it. It argues that the existing I(X;U) bounds, Vera et al.'s among them, are vacuous or restricted to finite alphabets, and that I(X;U) is infinite for deterministic continuous encoders, which agrees with [LIT-372](../literature.d/LIT-372.md), App. C. It does not prove that I(X;U) cannot bound generalisation ([NOTE-742](../notes.d/NOTE-742.md)).
 - None of the later phases of training reported elsewhere in the record is a measured fall in I(X;T). See [LIT-345](../literature.d/LIT-345.md) ([NOTE-283](../notes.d/NOTE-283.md)), [LIT-371](../literature.d/LIT-371.md) ([NOTE-319](../notes.d/NOTE-319.md)), [LIT-369](../literature.d/LIT-369.md) ([NOTE-317](../notes.d/NOTE-317.md)) and [LIT-370](../literature.d/LIT-370.md) ([NOTE-318](../notes.d/NOTE-318.md)).

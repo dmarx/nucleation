@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmph96lt
 paper: LIT-254
 title: 'Kornblith et al. — Similarity of Neural Network Representations Revisited'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -19,6 +19,12 @@ history:
     within-class CKA, other indexes across architectures). Figure contents
     were read from captions and the text, since the plots have no text
     layer. The skim note filed with the paper is NOTE-223.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the readings of LIT-259 (NOTE-tmp8nk93) and LIT-257
+    (NOTE-tmpcc47a): the inactive-ok comment for LIT-250, LIT-257 and
+    LIT-259, all now Active, removed. The reading is unchanged.
 date: '2026-10-14'
 summary: >-
   Any similarity index invariant to invertible linear maps is constant
@@ -31,7 +37,6 @@ summary: >-
   at most 45.4% for the other linear indexes).
 ---
 <!-- inactive-ok-file: THEORY-004 THEORY-008 — Proposed; the theories that cite this paper as supporting -->
-<!-- inactive-ok-file: LIT-250 LIT-257 LIT-259 — Deferred; Harvey et al. and Jorgensen & Tian, the sources of THEORY-004 and THEORY-008 -->
 
 # NOTE-743: Kornblith et al. — Similarity of Neural Network Representations Revisited
 

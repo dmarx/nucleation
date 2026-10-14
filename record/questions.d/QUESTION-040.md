@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmp0gx60
 title: 'When the reification rule prices a candidate found in the same data, among many directions the data only partly determine, what must its Occam term count, and how far does the search inflate the candidate''s d''?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-964's Supplementary Material (NOTE-tmpq7lva).
+    "What the record holds" adds THEORY-tmpqnhih for the selection-bias
+    half, with its limit. The question stays open.
 tags:
 - model-comparison
 - information-geometry
@@ -22,6 +29,7 @@ summary: >-
   [CLAIM-152](../claims.d/CLAIM-152.md) and [CLAIM-164](../claims.d/CLAIM-164.md). [THEORY-080](../theory.d/THEORY-080.md) and [THEORY-028](../theory.d/THEORY-028.md) answer it in part;
   the body gives each one's limit.
 ---
+<!-- inactive-ok-file: THEORY-tmpqnhih — Proposed; a reading listed with its limit, not taken as an answer -->
 
 # QUESTION-040: When the reification rule prices a candidate found in the same data, among many directions the data only partly determine, what must its Occam term count, and how far does the search inflate the candidate's d'?
 
@@ -38,6 +46,7 @@ summary: >-
 - [THEORY-080](../theory.d/THEORY-080.md): in a linearised Gaussian model "the Occam factor is a sum over the NTK's eigenvalues". Each direction pays ½ log(1 + βλ/α), and directions the data do not determine cost nothing. So the count is the number of well-determined directions, not the number of parameters. Limit: the model is linearised. The THEORY says this "removes that question", meaning singularity, "rather than answering it".
 - [THEORY-028](../theory.d/THEORY-028.md): the bias of "any data-dependent choice" is at most √(2σ²·I), where I is the information the choice carries about the data. A stable search, one that strong signal settles, biases little. Limit: the bound holds in expectation, for subgaussian statistics.
 - NML's parametric complexity comp(M; v) ([LIT-238](../literature.d/LIT-238.md), read in [NOTE-760](../notes.d/NOTE-760.md)): the log of the number of distinguishable distributions, (k/2) log(n/2π) + log ∫ √|I|. It is a candidate Occam count. Like [THEORY-080](../theory.d/THEORY-080.md)'s spectral count, it weights directions by Fisher information rather than counting parameters, and models with equal parameter counts differ in it. Limit: it does not address the selection-bias half of the question.
+- [THEORY-tmpqnhih](../theory.d/THEORY-tmpqnhih.md) ([LIT-964](../literature.d/LIT-964.md), Supplementary Material only): a bound on the max-information between a dataset and the functions an analyst chooses bounds the probability that an adaptively chosen statistic overfits, and differential privacy supplies the bound, so a holdout can validate many adaptively chosen statistics. Limit: statistical queries on a discrete universe, and a procedure that prevents inflation, not a correction that says how far a search already run inflated its result.
 
 ## What would answer it
 

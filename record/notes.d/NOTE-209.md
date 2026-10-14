@@ -1,16 +1,23 @@
 ---
 number: 209
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpctvbf
 paper: LIT-227
+superseded_by:
+- NOTE-tmpohlyt
 title: 'Tan et al. 2023 — contrastive learning is spectral clustering'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpohlyt, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   SimCLR's unmodified InfoNCE loss is equivalent to spectral clustering on the augmentation-defined similarity graph (min tr(Zᵀ L(π) Z) + log R(Z)), CLIP does generalized spectral clustering on the image–text pair graph, and mixtures of exponential kernels (Kernel-InfoNCE) beat the Gaussian kernel.
 ---
-<!-- inactive-ok-file: LIT-227 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-209: Tan et al. 2023 — contrastive learning is spectral clustering
 

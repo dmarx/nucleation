@@ -1,16 +1,23 @@
 ---
 number: 205
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpagj8n
 paper: LIT-234
+superseded_by:
+- NOTE-tmpnt803
 title: 'Balestriero, Bottou & LeCun 2022 — regularization is class-dependent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpnt803, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Regularizers tuned by cross-validation for average accuracy — random-crop augmentation and even uninformed weight decay — raise mean test accuracy while sharply lowering it on particular classes (e.g. ImageNet "barn spider" 68%→46% with random crop), and this class-dependent bias carries over to transfer tasks.
 ---
-<!-- inactive-ok-file: LIT-234 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-205: Balestriero, Bottou & LeCun 2022 — regularization is class-dependent
 

@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CASE-tmpbv3ts
 title: 'A partner-dancing couple, lindy hop, tango or salsa, while they dance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of LIT-904 (NOTE-tmp735qu). Reciprocal compensation
+    as the signature of a coordinative structure is attributed to Kelso et
+    al. 1984 (LIT-902), not Turvey, and applying the within-body notion to
+    a couple is marked as the record's own widening. The case is
+    unchanged.
 standing: stipulated
 kind: specimen
 tags:
@@ -25,6 +34,7 @@ supports:
 variants:
 - CASE-045
 ---
+<!-- inactive-ok-file: LIT-902 — Unavailable; Kelso et al. 1984, named as the source of the signature, unread and not leaned on -->
 
 # CASE-046: A partner-dancing couple, lindy hop, tango or salsa, while they dance
 
@@ -51,7 +61,11 @@ time. Varied: whether they are dancing together.
   is continuous.
 - **Reciprocal compensation.** Perturb one dancer and the other adjusts to
   preserve the dance, not their own trajectory. That is the signature of a
-  coordinative structure in motor control.
+  coordinative structure in motor control, as Kelso et al. 1984 ([LIT-902](../literature.d/LIT-902.md),
+  unread) give it; it is not Turvey's ([LIT-904](../literature.d/LIT-904.md), [NOTE-tmp735qu](../notes.d/NOTE-tmp735qu.md)), whose
+  nearest evidence is equifinality. Turvey's coordinative structure is
+  built from reflexes within one body, so applying it to a couple is the
+  record's own widening, as Turvey's was a widening of Easton's.
 - **Nested autonomy.** Both dancers stay autonomous, and the dance is an
   autonomous process of its own ([LIT-571](../literature.d/LIT-571.md)'s interaction, "an emergent and
   autonomous process").

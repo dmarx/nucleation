@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3qyzh
 title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-11'
@@ -20,6 +20,12 @@ history:
     (LIT-224): the algorithmic sufficient statistic is a sufficiency
     with no target, but it still gives no unique boundary, because
     independent sets can tie. Added as a note; the claim is unchanged.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    A formal instance from NOTE-tmpc8ts7 (LIT-235): THEORY-tmpr8y66, where
+    the auxiliary labelled data decides which partition of the same
+    unlabelled data wins. Added as a note; the claim is unchanged.
 role: thesis
 defeated_if: >-
   A privileged target, argued for independently of the partition it
@@ -55,6 +61,7 @@ complements:
 - CLAIM-279
 ---
 <!-- inactive-ok-file: THEORY-277 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpr8y66 — Proposed; cited in a note of 2026-10-14 as a formal instance, not leaned on -->
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
@@ -131,3 +138,12 @@ gives no unique boundary: at non-critical complexities, distinct and
 independent sets witness the same code length (for a random string, the
 prefix set and the suffix set), and the minimal sufficient statistic is
 defined only to logarithmic precision and cannot be computed.
+
+## Note of 2026-10-14: a formal instance
+
+Sun et al. ([LIT-235](../literature.d/LIT-235.md), read in [NOTE-tmpc8ts7](../notes.d/NOTE-tmpc8ts7.md); [THEORY-tmpr8y66](../theory.d/THEORY-tmpr8y66.md)) give a formal
+instance. In their spectral analysis the same unlabelled data is
+partitioned by colour or by shape depending on which auxiliary labelled
+classes are present (Theorem 5.2 against Lemma 5.4). What the top
+eigenspace picks out is relative to what else the operator connects.
+Recorded as support; the claim is unchanged.

@@ -16,8 +16,11 @@ promote_when: >-
   condition that rules out the manipulation cases without relying on the
   notion of free agency it is meant to analyse. More surveys asserting the
   circularity worry cannot settle it: LIT-296 gives it one sentence.
+  Still unmet as of 2026-10-14: Pereboom's book (LIT-1006) was read only
+  in part (NOTE-tmp46uej), and the four-case argument is in Chapter 4,
+  which was not read.
 title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-03'
@@ -29,6 +32,13 @@ history:
     agent's own, her durability point, and Bratman's structural model of
     self-governance over time. The tag `free-will` (ADR-025) is added; the
     `self-governance` tag of ADR-024 was already here. The claim is
+    unchanged.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    After the partial reading of LIT-1006 (NOTE-tmp46uej, Skimmed). A
+    dated line in promote_when records that it is still unmet: the
+    four-case argument is in Chapter 4, which was not read. The claim is
     unchanged.
 tags:
 - agency
@@ -57,6 +67,7 @@ supports:
 - CLAIM-016
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-065 THEORY-076 — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
 

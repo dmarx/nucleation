@@ -1,16 +1,23 @@
 ---
 number: 222
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmp6deys
 paper: LIT-251
+superseded_by:
+- NOTE-tmpj78ol
 title: 'Tosh et al., contrastive learning and multi-view redundancy'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpj78ol, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   The logistic contrastive problem of telling a same-datum pair of views from an independent pair is solved over all functions by the pointwise mutual information f*(x,z) = log p(x,z)/(p(x)p(z)), whose exponential g* is the change of measure from p(z) to p(z|x), and linear functions of the landmark embedding (g*(x,Z_1),…,g*(x,Z_m)) are near-optimal predictors whenever the two views are redundant for the label.
 ---
-<!-- inactive-ok-file: LIT-251 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-222: Tosh et al., contrastive learning and multi-view redundancy
 

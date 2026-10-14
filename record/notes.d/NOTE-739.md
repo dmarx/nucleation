@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpapyks
 paper: LIT-246
 title: 'Poole et al. — On Variational Bounds of Mutual Information'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -19,6 +19,12 @@ history:
     were checked there and against Table 2 and Eq. 12. The figures are
     plots without a text layer and were read from their captions and the
     text that describes them. Replaces the seeded skim NOTE-233.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the close reading of LIT-256 (NOTE-tmp8mfe9): the inactive-ok
+    comment trimmed of codes now Active or Open (LIT-256 among them). The
+    reading is unchanged.
 date: '2026-10-14'
 summary: >-
   The common variational lower bounds on mutual information (Barber–Agakov,
@@ -29,7 +35,7 @@ summary: >-
   family I_α trades InfoNCE's bias against NWJ's variance, and none of them
   gives low bias and low variance when MI is large and the batch small.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-006 LIT-226 LIT-256 LIT-258 NOTE-233 — Proposed, Deferred or Skimmed; the theories that cite this paper, the work that relies on its §2.5, the papers set beside it, and the skim this reading replaces -->
+<!-- inactive-ok-file: THEORY-001 NOTE-233 — Proposed or Superseded; a theory that cites this paper, and the skim this reading replaces -->
 
 # NOTE-739: Poole et al. — On Variational Bounds of Mutual Information
 

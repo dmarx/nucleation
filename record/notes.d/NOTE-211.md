@@ -1,16 +1,23 @@
 ---
 number: 211
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpka1mm
 paper: LIT-232
+superseded_by:
+- NOTE-tmplbng9
 title: 'Knowledge Sheaves (sheaf-theoretic KG embedding)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmplbng9, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Knowledge-graph embedding can be recast as learning an approximate global section of a cellular sheaf on the schema graph, which subsumes Structured Embedding and TransE/TransR-style models and yields, via harmonic extension, a training-free way to answer composite multi-hop queries.
 ---
-<!-- inactive-ok-file: LIT-232 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-211: Knowledge Sheaves (sheaf-theoretic KG embedding)
 

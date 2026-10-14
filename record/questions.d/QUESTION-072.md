@@ -4,7 +4,20 @@ status: Open
 formerly:
 - QUESTION-tmpihzdz
 title: 'Does a project memory distribute credibility among an argument''s contributors, by making some contributors'' moves addressable and leaving others'' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    After the reading of Fricker's précis (LIT-1004, NOTE-tmpaz74m,
+    Skimmed). "Identity prejudice" now reads "prejudice", as in the
+    précis. Part 2 notes that hermeneutical injustice needs a gap owed to
+    a social group's powerlessness and concerning a social experience,
+    which the owner and the assistant are not obviously, and that part 1
+    is closer to testimonial injustice. "That reading has not been done"
+    is replaced by the précis reading and THEORY-tmplo3ff. The inactive-ok
+    comment for LIT-1004 reworded from Deferred to Unavailable. The
+    question stays open.
 tags:
 - epistemology
 - design-rationale
@@ -23,7 +36,8 @@ summary: >-
   The question asks whether that happens, and whether it is a wrong in
   Fricker's sense or only a bias in what persists.
 ---
-<!-- inactive-ok-file: LIT-1004 — Deferred, unread; the reading this question was filed ahead of -->
+<!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
+<!-- inactive-ok-file: THEORY-tmplo3ff — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
@@ -45,13 +59,19 @@ The question has two parts:
    analogy that had been rejected.
 2. **If it occurs, is it a wrong or only a bias?** Fricker ([LIT-1004](../literature.d/LIT-1004.md))
    defines testimonial injustice as a credibility deficit caused by
-   identity prejudice. She defines hermeneutical injustice as a gap in
+   prejudice. She defines hermeneutical injustice as a gap in
    shared interpretive resources that traces to marginalisation. A
-   contributor whose kind of move fits no scheme is in the second
+   contributor whose kind of move fits no scheme looks like the second
    position: the move is not disbelieved but cannot be expressed in the
    record's terms. Whether that is injustice, or a design cost that falls
    on no one in particular, depends on whether the gap tracks who the
-   contributor is.
+   contributor is. On Fricker's précis the condition is narrower: the gap
+   must be owed to the relative powerlessness of a social group the
+   subject belongs to, and must concern making sense of a social
+   experience. The owner and the assistant are not obviously such
+   groups. Part 1, a filing that depends on who made the move once
+   content is held fixed, is closer to testimonial injustice, with the
+   filer as hearer, and is that only if the cause is prejudice.
 
 ## Why the record needs it
 
@@ -75,4 +95,8 @@ Two kinds of evidence would bear on it:
   merit.
 
 A reading of Fricker would say whether the second case meets her
-definition. That reading has not been done.
+definition. Her précis has been read ([NOTE-tmpaz74m](../notes.d/NOTE-tmpaz74m.md), Skimmed), and
+[THEORY-tmplo3ff](../theory.d/THEORY-tmplo3ff.md) states the definitions at that strength: the case meets
+hermeneutical injustice only if the misfit traces to a group's exclusion
+from making the scheme. Whether any case in the record meets it is still
+open.
