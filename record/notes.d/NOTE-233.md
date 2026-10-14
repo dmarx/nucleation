@@ -1,11 +1,19 @@
 ---
 number: 233
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpxfay2
 paper: LIT-246
+superseded_by:
+- NOTE-tmpapyks
 title: 'Poole et al., variational bounds of mutual information'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmpapyks, a full reading of the paper filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Every variational lower bound on mutual information in use — Barber–Agakov, Donsker–Varadhan/MINE, NWJ/f-GAN-KL, InfoNCE — is one family, tight at a critic that is a function of the log density ratio log p(y|x)/p(y), and InfoNCE is the multi-sample member that trades variance for a hard ceiling of log K.
