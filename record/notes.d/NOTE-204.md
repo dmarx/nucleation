@@ -1,16 +1,23 @@
 ---
 number: 204
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpa772s
 paper: LIT-241
+superseded_by:
+- NOTE-tmp98n0x
 title: 'GNS construction (Wikipedia)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp98n0x, a full reading of the work filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   Any state (positive normalized linear functional) on a C*-algebra determines, essentially uniquely, a Hilbert space and a cyclic *-representation in which that state becomes a vector expectation ρ(a)=⟨π(a)ξ,ξ⟩, and the representation is irreducible exactly when the state is pure.
 ---
-<!-- inactive-ok-file: LIT-241 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-204: GNS construction (Wikipedia)
 

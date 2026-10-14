@@ -1,16 +1,23 @@
 ---
 number: 214
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpm09fm
 paper: LIT-230
+superseded_by:
+- NOTE-tmprvqbi
 title: 'Riesz representation theorem (Wikipedia)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmprvqbi, a full reading of the work filed on 2026-10-14.
+    This skim is kept as the record of what was known before it.
 date: '2026-09-26'
 summary: >-
   A Hilbert space is isometrically (anti-)isomorphic to its continuous dual — every continuous linear functional φ is x ↦ ⟨x, f_φ⟩ for a unique f_φ with ‖f_φ‖ = ‖φ‖ — and this identification is what defines adjoints and the bra–ket correspondence.
 ---
-<!-- inactive-ok-file: LIT-230 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-214: Riesz representation theorem (Wikipedia)
 

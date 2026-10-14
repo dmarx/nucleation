@@ -18,9 +18,15 @@ promote_when: >-
   circularity worry cannot settle it: LIT-296 gives it one sentence.
   Still unmet as of 2026-10-14: Pereboom's book (LIT-1006) was read only
   in part (NOTE-823), and the four-case argument is in Chapter 4,
-  which was not read.
+  which was not read. Note of 2026-10-14, later: two surveys read in
+  full as alternatives (LIT-tmpbbfpu, NOTE-tmpvvxmy; LIT-tmp4xovm,
+  NOTE-tmp5wtbq) quote Pereboom's Cases 1 and 2 and state the argument
+  (THEORY-tmptedt7). Neither clause is met by them. They are surveys,
+  and the cases quoted stipulate only structural conditions
+  (reasons-responsiveness, hierarchical desires), not a named historical
+  one.
 title: 'A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record''s readings is shown to escape'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-03'
@@ -40,6 +46,14 @@ history:
     dated line in promote_when records that it is still unmet: the
     four-case argument is in Chapter 4, which was not read. The claim is
     unchanged.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    After the readings of Caruso's SEP entry (LIT-tmpbbfpu,
+    NOTE-tmpvvxmy) and De Marco and Cyr (LIT-tmp4xovm, NOTE-tmp5wtbq),
+    filed as alternatives to LIT-1006. A dated note in promote_when
+    records that neither clause is met. A dated paragraph in Connections
+    records what they bear on. The claim and status are unchanged.
 tags:
 - agency
 - ethics
@@ -70,6 +84,7 @@ supports:
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; the SDT historical account named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-065 THEORY-076 — Proposed; Korsgaard's and Bratman's accounts, named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmptedt7 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
 
 # THEORY-040: A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
 
@@ -154,3 +169,22 @@ The first half of the claim follows from the form of a snapshot condition, and a
   this account: a manipulator can install a durable state, which is
   Demetrius's case, and Korsgaard leaves that case puzzling rather than
   settled.
+- **Note of 2026-10-14, after two surveys of the four-case argument**
+  ([LIT-tmpbbfpu](../literature.d/LIT-tmpbbfpu.md), [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md); [LIT-tmp4xovm](../literature.d/LIT-tmp4xovm.md), [NOTE-tmp5wtbq](../notes.d/NOTE-tmp5wtbq.md);
+  [THEORY-tmptedt7](THEORY-tmptedt7.md)). They bear on both halves. Neither is a first-hand
+  reading of Pereboom or Mele.
+  - *First half.* Pereboom's Cases 1 and 2, quoted, stipulate a
+    manipulated agent who meets reasons-responsiveness, first- and
+    second-order desires and a general ability to respond to moral
+    reasons. De Marco and Cyr quote Frankfurt's hard line, that freedom
+    does "not depend on the origin of the conditions" (1988, 45–6).
+  - *Second half.* Both surveys state it as the field's main worry about
+    soft-line replies: any condition named invites a revised case. Mele's
+    original-design case (Ernie) defeats bypassing conditions, among
+    which De Marco and Cyr list Fischer and Ravizza's (n. 15). A
+    natural-force case defeats conditions that turn on the manipulator.
+    Caruso reports Levy's luck argument: the acts by which an agent takes
+    responsibility for her endowment "either express that endowment …
+    or reflect the agent's present luck". That is an argument against a
+    named historical condition, not the one-sentence circularity worry,
+    but it is reported, not read.

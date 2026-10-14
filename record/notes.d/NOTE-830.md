@@ -27,7 +27,7 @@ summary: >-
   remainder of second order in the critic's variance (Thm B.1, whose
   printed remainder has the wrong sign).
 ---
-<!-- inactive-ok-file: THEORY-003 THEORY-227 — Proposed; the account this paper was filed for, and the mutual-information account its Figure 3 repeats -->
+<!-- inactive-ok-file: THEORY-227 — Proposed; the account this paper was filed for, and the mutual-information account its Figure 3 repeats -->
 <!-- inactive-ok-file: THEORY-312 — Proposed; the account filed from this reading -->
 
 # NOTE-830: Li et al. — Self-Supervised Learning with Kernel Dependence Maximization

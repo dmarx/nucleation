@@ -41,7 +41,6 @@ summary: >-
 answers:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: THEORY-004 — Proposed; named in Connections for representations fixed by their kernels, nothing here rests on it -->
 
 # THEORY-117: Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one
 

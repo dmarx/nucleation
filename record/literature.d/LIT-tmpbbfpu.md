@@ -1,0 +1,110 @@
+---
+status: Active
+status_note: 'read 2026-10-14 ([NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md)) in full; worth reading as the standard survey of free will skepticism and the best open statement of hard incompatibilism: Pereboom''s definition of basic-desert responsibility, the argument against compatibilism by manipulation, against event-causal libertarianism by luck, and against agent-causal libertarianism by physics. It quotes Pereboom''s Case 2 verbatim (2014 wording), and sets out the hard-line and soft-line replies and the soft-liner''s difficulty. It also reports Levy''s luck argument against historical compatibilism, which targets the taking of responsibility. Survey strength: the four-case argument is summarised, not reproduced. Filed as an alternative reading for [LIT-1006](LIT-1006.md), whose book is Unavailable here.'
+title: 'Skepticism About Moral Responsibility'
+version: 1
+history:
+- version: 1
+  date: '2026-10-14'
+  note: >-
+    Filed at the owner's request as an alternative reading for LIT-1006
+    (Pereboom, Living without Free Will, 2001), whose book was not
+    reached. Read in full the same day (NOTE-tmpvvxmy) from the Stanford
+    Encyclopedia of Philosophy (plato.stanford.edu/entries/skepticism-moral-responsibility/,
+    fetched 2026-10-14; the page gives "First published Thu Jan 18, 2018"
+    and no later revision, which is the `published:` date). Every section
+    was read; the bibliography was used only to check citations. Not held
+    in the Anthology of the SOTA: a grep of its record/ (clone of
+    2026-10-14, commit d1573d2) for "Caruso", "Pereboom" and "manipulation
+    argument" found nothing, and none of its topics holds the subject.
+tags:
+- free-will
+- ethics
+- agency
+date: '2026-10-14'
+published: '2018-01-18'
+url: 'https://plato.stanford.edu/entries/skepticism-moral-responsibility/'
+first_author: 'Caruso'
+keywords:
+- 'moral responsibility skepticism'
+- 'basic desert'
+- 'hard incompatibilism'
+- 'manipulation argument'
+- 'four-case argument'
+- 'luck pincer'
+- 'quarantine model'
+implementations: []
+summary: >-
+  Caruso (2018), Stanford Encyclopedia of Philosophy. Moral responsibility
+  skepticism denies or doubts basic-desert responsibility, which Pereboom
+  defines as deserving blame or praise just because one acted, not on
+  consequentialist or contractualist grounds. Hard incompatibilism
+  rejects compatibilism by the manipulation argument, event-causal and
+  non-causal libertarianism by the luck objection, and agent-causal
+  libertarianism as unreconciled with physics. The entry quotes
+  Pereboom's Case 2 and gives the four-case argument's structure, the
+  hard-line and soft-line replies, and the difficulty for soft lines that
+  a revised vignette can meet any condition they name. It reports
+  Strawson's Basic Argument and Levy's Luck Pincer, which argues that
+  historical compatibilism cannot let agents take responsibility for
+  constitutive luck. Its section 3 sets out optimistic skepticism.
+---
+<!-- inactive-ok-file: LIT-1006 — Unavailable; the book this is an alternative reading for -->
+<!-- inactive-ok-file: THEORY-tmptedt7 THEORY-040 — Proposed; the account filed from this reading with LIT-tmp4xovm, and the account whose second half it bears on -->
+
+# LIT-tmpbbfpu: Skepticism About Moral Responsibility
+
+Caruso, G. D. (2018). "Skepticism About Moral Responsibility". In E. N.
+Zalta (ed.), *The Stanford Encyclopedia of Philosophy*. First published
+18 January 2018.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md).*
+
+- **Basic desert.** Pereboom's definition (2014a: 2): an agent who did
+  wrong knowingly "would deserve to be blamed … just because she has
+  performed the action", not for consequentialist or contractualist
+  reasons. Attributability, answerability and "take-charge"
+  responsibility survive skepticism.
+- **Hard incompatibilism** holds that we lack basic-desert responsibility
+  whether or not determinism is true. Against compatibilism: "no relevant
+  difference" between natural determination and determination by
+  manipulators. Against event-causal libertarianism: the luck or
+  disappearing-agent objection. Agent-causal libertarianism could supply
+  the control but "cannot be reconciled with our best physical theories".
+- **The four-case argument, by structure.** Three manipulation cases,
+  the first "the most radical sort of manipulation consistent with all
+  the leading compatibilist conditions", each more like the fourth, an
+  ordinary determined action. Case 2 is quoted from Pereboom 2014a: 77.
+  Plum is "programmed … at the beginning of his life" so that he is
+  "causally determined to engage in the egoistic reasons-responsive
+  process of deliberation", with "the general ability to regulate his
+  actions by moral reasons".
+- **The replies.** Hard-line replies accept that Plum is responsible.
+  Soft-line replies find a difference between the cases. The soft-liner's
+  problem is that any difference found "may only serve as an invitation …
+  to revise the vignette", so the challenge is a condition that
+  manipulated agents cannot satisfy "in principle".
+- **Luck against historical compatibilism.** On Levy's report, the
+  actions by which agents take responsibility for their endowments
+  "either express that endowment … or reflect the agent's present luck,
+  or both", so "we cannot undo the effects of luck with more luck".
+- **Optimistic skepticism.** Resentment and indignation give way to
+  concern, sorrow and resolve. Axiological morality survives.
+  Incapacitation is justified by self-defence, on the model of
+  quarantine.
+
+## Standing in the record
+
+Filed on 2026-10-14 at the owner's request as an alternative reading for
+[LIT-1006](LIT-1006.md), whose book is Unavailable here, and read the same day in
+[NOTE-tmpvvxmy](../notes.d/NOTE-tmpvvxmy.md). With [LIT-tmp4xovm](LIT-tmp4xovm.md) it is the record's statement of
+Pereboom's four-case argument, and [THEORY-tmptedt7](../theory.d/THEORY-tmptedt7.md) is filed from the
+two. It is a survey written by a co-author and ally of Pereboom's. It
+gives one case in his words and the others by description, so the
+first-hand reading of Chapter 4 that [THEORY-040](../theory.d/THEORY-040.md), [THEORY-121](../theory.d/THEORY-121.md) and
+[QUESTION-071](../questions.d/QUESTION-071.md) call for is still not done. Its report of Levy's luck
+argument is the record's first argument, rather than an assertion,
+against the taking-responsibility condition of [THEORY-121](../theory.d/THEORY-121.md). It is
+second-hand.

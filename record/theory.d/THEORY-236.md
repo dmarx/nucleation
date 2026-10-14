@@ -31,7 +31,7 @@ summary: >-
   the paper's case for orthogonal invariance plus isotropic scaling is an
   argument from training dynamics, not a consequence of it.
 ---
-<!-- inactive-ok-file: THEORY-002 THEORY-004 THEORY-008 CLAIM-193 — Proposed; cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-002 THEORY-008 CLAIM-193 — Proposed; cited for context, nothing here rests on them -->
 
 # THEORY-236: A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples
 

@@ -31,7 +31,7 @@ summary: >-
   only, and the discrepancy is illustrated on Wishart samples, not trained
   networks.
 ---
-<!-- inactive-ok-file: THEORY-002 THEORY-004 THEORY-008 — Proposed; cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-002 THEORY-008 — Proposed; cited for context, nothing here rests on them -->
 
 # THEORY-233: CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant
 

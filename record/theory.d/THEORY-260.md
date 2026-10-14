@@ -1,28 +1,52 @@
 ---
 number: 260
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpevdge
-promote_when: >-
-  A second source proves the same correspondence of minimal sufficient
-  statistics across finite sets, computable distributions and total
-  recursive functions, with explicit error terms, and the existence of
-  strings whose sophistication is near their length. The
-  structure-function paper LIT-239, read in parallel, or the Li–Vitányi
-  textbook could supply it. The account is refuted by a string whose
-  minimal sufficient statistic in one of the three classes differs from
-  that in another by more than a logarithmic term, or by a total-function
-  class in which some string's two-part split can be shifted to a model
-  of constant complexity. Estimates of how compressible real data are
-  cannot settle it, since sophistication is not computable.
 title: "An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms"
-version: 1
+version: 3
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction. The
+    promotion condition asked for a second source proving two things, and
+    named LIT-239 as one that could. LIT-239 was read in full in NOTE-787,
+    a reading separate from NOTE-790, which filed this account. Clause by
+    clause: (1) The correspondence across finite sets, computable
+    distributions and total recursive functions, with its error terms, is
+    LIT-239's Appendix B. NOTE-787 read Propositions B.1–B.2 step by step,
+    and they give equivalence to finite sets within O(log n) for computable
+    mass functions (cost −log P(x)) and for total recursive functions (cost
+    l_x(p), the same cost as LIT-229's). The restriction to
+    K(P) ≤ n + O(log n) costs no more than O(log n) (Remark B.3). This is
+    the precision the account claims. (2) The existence of strings whose
+    sophistication is near their length is LIT-239 §V-E and §VI-D, as read
+    in NOTE-787. For complexity n − √n ± O(log n), some strings have
+    deficiency about √n relative to every set of complexity below
+    n − O(log n), so they have no sufficient statistic below that
+    complexity. Corollary IV.9, whose constructive proof NOTE-787 read,
+    realises every admissible shape. These results are stated for finite
+    sets. Carrying them to total recursive functions through Proposition
+    B.2, at O(log n), is the record's own step. LIT-239 added as a source.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    The record's own step named in version 2, carrying LIT-239's
+    non-stochastic strings to total recursive functions through
+    Propositions B.1(b)–B.2(b) and Remark B.3, is filed with its argument as
+    CLAIM-tmp75182 and cited in the body. That claim also corrects the
+    threshold: Corollary IV.9 gives deficiency about √n only for models of
+    complexity below n − √n − O(log n), not below n − O(log n) as LIT-239
+    §VI-D words it and version 2 repeated. The clause is still met. The
+    claim is unchanged.
 tags:
 - information-theory
 - mathematics
 date: '2026-10-14'
 source:
 - LIT-229
+- LIT-239
 summary: >-
   Vitányi (2001/2006), [LIT-229](../literature.d/LIT-229.md), read in [NOTE-790](../notes.d/NOTE-790.md). Sophistication,
   the shortest model that completes an optimal two-part code, is =⁺ 0 for
@@ -34,7 +58,7 @@ summary: >-
   sufficient-statistic oracle would compute K (Theorems 8.1, 8.3). It
   says nothing about any computable or learned model.
 ---
-<!-- inactive-ok-file: LIT-239 THEORY-036 THEORY-157 — Deferred or Proposed; the structure-function paper named as a second source, the real-patterns account this bears on, and the probabilistic sufficiency account it is set beside -->
+<!-- inactive-ok-file: THEORY-036 THEORY-157 — Proposed; the real-patterns account this bears on, and the probabilistic sufficiency account it is set beside -->
 
 # THEORY-260: An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms
 
@@ -64,7 +88,9 @@ accidental information."
 (Lemma 6.4). liminf soph(x) =⁺ 0, witnessed by maximally random strings
 and the identity function (Theorem 6.5(ii)). For every n some x of
 length n has soph(x) >⁺ n − log n − 2 log log n (Theorem 6.5(iv)): such
-strings are almost all structure. A model class could have failed at
+strings are almost all structure. [LIT-239](../literature.d/LIT-239.md) gives an independent route at
+O(log n) precision, its non-stochastic strings carried to total
+functions in [CLAIM-tmp75182](../claims.d/CLAIM-tmp75182.md). A model class could have failed at
 either end, by trivialising every string or by leaving no string with a
 short model. Both ends are proved to be reached.
 
