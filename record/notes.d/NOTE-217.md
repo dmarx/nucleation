@@ -1,16 +1,24 @@
 ---
 number: 217
-status: Skimmed
+status: Superseded
 formerly:
 - NOTE-tmpr0lv7
 paper: LIT-244
+superseded_by:
+- NOTE-tmp7mv59
 title: 'Natural Kinds (SEP)'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Superseded by NOTE-tmp7mv59, a full reading of the entry filed on
+    2026-10-14. This skim is kept as the record of what was known before
+    it.
 date: '2026-09-26'
 summary: >-
   Whether scientific kinds are natural breaks into four questions (are the classifications natural, are they into kinds, what the kinds are, and do they have essences). The entry maps the positions from conventionalism to essentialist strong realism, notes a recent turn toward pluralist and epistemology-first views and even eliminativism, and questions whether Kripke–Putnam semantics can deliver essences.
 ---
-<!-- inactive-ok-file: LIT-244 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-217: Natural Kinds (SEP)
 
