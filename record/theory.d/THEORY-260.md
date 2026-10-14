@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpevdge
 title: "An individual string's information splits non-trivially into structure and noise only in a model class without a universal member: with partial recursive models every string's minimal sufficient statistic is trivial, while with total recursive functions it is not, and the finite-set, computable-distribution and total-function classes agree to within logarithmic terms"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -29,6 +29,17 @@ history:
     realises every admissible shape. These results are stated for finite
     sets. Carrying them to total recursive functions through Proposition
     B.2, at O(log n), is the record's own step. LIT-239 added as a source.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    The record's own step named in version 2, carrying LIT-239's
+    non-stochastic strings to total recursive functions through
+    Propositions B.1(b)–B.2(b) and Remark B.3, is filed with its argument as
+    CLAIM-tmp75182 and cited in the body. That claim also corrects the
+    threshold: Corollary IV.9 gives deficiency about √n only for models of
+    complexity below n − √n − O(log n), not below n − O(log n) as LIT-239
+    §VI-D words it and version 2 repeated. The clause is still met. The
+    claim is unchanged.
 tags:
 - information-theory
 - mathematics
@@ -77,7 +88,9 @@ accidental information."
 (Lemma 6.4). liminf soph(x) =⁺ 0, witnessed by maximally random strings
 and the identity function (Theorem 6.5(ii)). For every n some x of
 length n has soph(x) >⁺ n − log n − 2 log log n (Theorem 6.5(iv)): such
-strings are almost all structure. A model class could have failed at
+strings are almost all structure. [LIT-239](../literature.d/LIT-239.md) gives an independent route at
+O(log n) precision, its non-stochastic strings carried to total
+functions in [CLAIM-tmp75182](../claims.d/CLAIM-tmp75182.md). A model class could have failed at
 either end, by trivialising every string or by leaving no string with a
 short model. Both ends are proved to be reached.
 
