@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-185 citations in 183 files await a look.
+229 citations in 205 files await a look.
 
 - [`record/literature.d/LIT-1016.md:28`](../../record/literature.d/LIT-1016.md)
 - [`record/literature.d/LIT-1019.md:25`](../../record/literature.d/LIT-1019.md)
@@ -56,9 +56,53 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-201.md:13`](../../record/literature.d/LIT-201.md)
 - [`record/literature.d/LIT-203.md:13`](../../record/literature.d/LIT-203.md)
 - [`record/literature.d/LIT-214.md:13`](../../record/literature.d/LIT-214.md)
+- [`record/literature.d/LIT-301.md:18`](../../record/literature.d/LIT-301.md)
+- [`record/literature.d/LIT-301.md:19`](../../record/literature.d/LIT-301.md)
+- [`record/literature.d/LIT-303.md:18`](../../record/literature.d/LIT-303.md)
+- [`record/literature.d/LIT-303.md:19`](../../record/literature.d/LIT-303.md)
+- [`record/literature.d/LIT-307.md:18`](../../record/literature.d/LIT-307.md)
+- [`record/literature.d/LIT-307.md:19`](../../record/literature.d/LIT-307.md)
+- [`record/literature.d/LIT-311.md:18`](../../record/literature.d/LIT-311.md)
+- [`record/literature.d/LIT-311.md:19`](../../record/literature.d/LIT-311.md)
 - [`record/literature.d/LIT-316.md:37`](../../record/literature.d/LIT-316.md)
+- [`record/literature.d/LIT-317.md:18`](../../record/literature.d/LIT-317.md)
+- [`record/literature.d/LIT-317.md:19`](../../record/literature.d/LIT-317.md)
+- [`record/literature.d/LIT-318.md:18`](../../record/literature.d/LIT-318.md)
+- [`record/literature.d/LIT-318.md:19`](../../record/literature.d/LIT-318.md)
+- [`record/literature.d/LIT-320.md:18`](../../record/literature.d/LIT-320.md)
+- [`record/literature.d/LIT-320.md:19`](../../record/literature.d/LIT-320.md)
+- [`record/literature.d/LIT-321.md:18`](../../record/literature.d/LIT-321.md)
+- [`record/literature.d/LIT-321.md:19`](../../record/literature.d/LIT-321.md)
+- [`record/literature.d/LIT-328.md:18`](../../record/literature.d/LIT-328.md)
+- [`record/literature.d/LIT-328.md:19`](../../record/literature.d/LIT-328.md)
+- [`record/literature.d/LIT-331.md:18`](../../record/literature.d/LIT-331.md)
+- [`record/literature.d/LIT-331.md:19`](../../record/literature.d/LIT-331.md)
+- [`record/literature.d/LIT-332.md:18`](../../record/literature.d/LIT-332.md)
+- [`record/literature.d/LIT-332.md:19`](../../record/literature.d/LIT-332.md)
+- [`record/literature.d/LIT-334.md:18`](../../record/literature.d/LIT-334.md)
+- [`record/literature.d/LIT-334.md:19`](../../record/literature.d/LIT-334.md)
+- [`record/literature.d/LIT-336.md:18`](../../record/literature.d/LIT-336.md)
+- [`record/literature.d/LIT-336.md:19`](../../record/literature.d/LIT-336.md)
+- [`record/literature.d/LIT-337.md:18`](../../record/literature.d/LIT-337.md)
+- [`record/literature.d/LIT-337.md:19`](../../record/literature.d/LIT-337.md)
+- [`record/literature.d/LIT-342.md:18`](../../record/literature.d/LIT-342.md)
+- [`record/literature.d/LIT-342.md:19`](../../record/literature.d/LIT-342.md)
 - [`record/literature.d/LIT-344.md:41`](../../record/literature.d/LIT-344.md)
+- [`record/literature.d/LIT-349.md:18`](../../record/literature.d/LIT-349.md)
+- [`record/literature.d/LIT-349.md:19`](../../record/literature.d/LIT-349.md)
+- [`record/literature.d/LIT-350.md:18`](../../record/literature.d/LIT-350.md)
+- [`record/literature.d/LIT-350.md:19`](../../record/literature.d/LIT-350.md)
+- [`record/literature.d/LIT-351.md:23`](../../record/literature.d/LIT-351.md)
+- [`record/literature.d/LIT-351.md:24`](../../record/literature.d/LIT-351.md)
 - [`record/literature.d/LIT-354.md:25`](../../record/literature.d/LIT-354.md)
+- [`record/literature.d/LIT-359.md:13`](../../record/literature.d/LIT-359.md)
+- [`record/literature.d/LIT-359.md:14`](../../record/literature.d/LIT-359.md)
+- [`record/literature.d/LIT-361.md:13`](../../record/literature.d/LIT-361.md)
+- [`record/literature.d/LIT-361.md:14`](../../record/literature.d/LIT-361.md)
+- [`record/literature.d/LIT-365.md:13`](../../record/literature.d/LIT-365.md)
+- [`record/literature.d/LIT-365.md:14`](../../record/literature.d/LIT-365.md)
+- [`record/literature.d/LIT-366.md:13`](../../record/literature.d/LIT-366.md)
+- [`record/literature.d/LIT-366.md:14`](../../record/literature.d/LIT-366.md)
 - [`record/literature.d/LIT-385.md:26`](../../record/literature.d/LIT-385.md)
 - [`record/literature.d/LIT-386.md:23`](../../record/literature.d/LIT-386.md)
 - [`record/literature.d/LIT-387.md:26`](../../record/literature.d/LIT-387.md)
@@ -624,7 +668,7 @@ Hilbert Spaces and the Riesz Representation Theorem
 - [`record/notes.d/NOTE-289.md:88`](../../record/notes.d/NOTE-289.md)
 - [`record/notes.d/NOTE-289.md:89`](../../record/notes.d/NOTE-289.md)
 
-### [LIT-328](../../record/literature.d/LIT-328.md) — Deferred
+### [LIT-328](../../record/literature.d/LIT-328.md) — Unavailable
 
 Irreversibility and Heat Generation in the Computing Process
 
@@ -791,13 +835,13 @@ The Lattice Representation Hypothesis of Large Language Models
 - [`record/notes.d/NOTE-302.md:124`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-302.md:137`](../../record/notes.d/NOTE-302.md)
 
-### [LIT-332](../../record/literature.d/LIT-332.md) — Deferred
+### [LIT-332](../../record/literature.d/LIT-332.md) — Unavailable
 
 Facing up to arrangements: face-count formulas for partitions of space by hyperplanes
 
 9 citations in 5 files await a look.
 
-- [`record/literature.d/LIT-359.md:25`](../../record/literature.d/LIT-359.md)
+- [`record/literature.d/LIT-359.md:33`](../../record/literature.d/LIT-359.md)
 - [`record/notes.d/NOTE-272.md:123`](../../record/notes.d/NOTE-272.md)
 - [`record/notes.d/NOTE-272.md:134`](../../record/notes.d/NOTE-272.md)
 - [`record/notes.d/NOTE-279.md:127`](../../record/notes.d/NOTE-279.md)
@@ -807,15 +851,15 @@ Facing up to arrangements: face-count formulas for partitions of space by hyperp
 - [`record/notes.d/NOTE-313.md:122`](../../record/notes.d/NOTE-313.md)
 - [`record/notes.d/NOTE-313.md:147`](../../record/notes.d/NOTE-313.md)
 
-### [LIT-351](../../record/literature.d/LIT-351.md) — Deferred
+### [LIT-351](../../record/literature.d/LIT-351.md) — Unavailable
 
 Detection, Estimation, and Modulation Theory, Part I
 
 9 citations in 9 files await a look.
 
 - [`record/literature.d/LIT-364.md:80`](../../record/literature.d/LIT-364.md)
-- [`record/literature.d/LIT-365.md:31`](../../record/literature.d/LIT-365.md)
-- [`record/literature.d/LIT-366.md:30`](../../record/literature.d/LIT-366.md)
+- [`record/literature.d/LIT-365.md:39`](../../record/literature.d/LIT-365.md)
+- [`record/literature.d/LIT-366.md:38`](../../record/literature.d/LIT-366.md)
 - [`record/literature.d/LIT-367.md:65`](../../record/literature.d/LIT-367.md)
 - [`record/literature.d/LIT-368.md:70`](../../record/literature.d/LIT-368.md)
 - [`record/notes.d/NOTE-281.md:101`](../../record/notes.d/NOTE-281.md)
@@ -915,7 +959,7 @@ Data-Dependent Generalization Bounds via Variable-Size Compressibility
 - [`record/notes.d/NOTE-308.md:119`](../../record/notes.d/NOTE-308.md)
 - [`record/theory.d/THEORY-028.md:49`](../../record/theory.d/THEORY-028.md)
 
-### [LIT-317](../../record/literature.d/LIT-317.md) — Deferred
+### [LIT-317](../../record/literature.d/LIT-317.md) — Unavailable
 
 Communication in the Presence of Noise
 
@@ -930,7 +974,7 @@ Communication in the Presence of Noise
 - [`record/notes.d/NOTE-591.md:213`](../../record/notes.d/NOTE-591.md)
 - [`record/notes.d/NOTE-591.md:219`](../../record/notes.d/NOTE-591.md)
 
-### [LIT-321](../../record/literature.d/LIT-321.md) — Deferred
+### [LIT-321](../../record/literature.d/LIT-321.md) — Unavailable
 
 Local Quantum Physics: Fields, Particles, Algebras (2nd ed.)
 
@@ -1032,7 +1076,7 @@ Preference reversal is not yet disunity: interests that govern a choice at disjo
 - [`record/decisions.d/ADR-040.md:260`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-077.md:61`](../../record/questions.d/QUESTION-077.md)
 
-### [LIT-349](../../record/literature.d/LIT-349.md) — Deferred
+### [LIT-349](../../record/literature.d/LIT-349.md) — Unavailable
 
 Information and the Accuracy Attainable in the Estimation of Statistical Parameters
 
@@ -1040,7 +1084,7 @@ Information and the Accuracy Attainable in the Estimation of Statistical Paramet
 
 - [`record/decisions.d/ADR-031.md:47`](../../record/decisions.d/ADR-031.md)
 - [`record/decisions.d/ADR-031.md:84`](../../record/decisions.d/ADR-031.md)
-- [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
+- [`record/literature.d/LIT-351.md:60`](../../record/literature.d/LIT-351.md)
 - [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
 - [`record/notes.d/NOTE-315.md:148`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-315.md:160`](../../record/notes.d/NOTE-315.md)
@@ -1194,13 +1238,13 @@ Identifying Quantum Structure in AI Language: Evidence for Evolutionary Converge
 - [`record/notes.d/NOTE-294.md:153`](../../record/notes.d/NOTE-294.md)
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 
-### [LIT-311](../../record/literature.d/LIT-311.md) — Deferred
+### [LIT-311](../../record/literature.d/LIT-311.md) — Unavailable
 
 Mathematical Methods of Statistics
 
 6 citations in 4 files await a look.
 
-- [`record/literature.d/LIT-351.md:53`](../../record/literature.d/LIT-351.md)
+- [`record/literature.d/LIT-351.md:60`](../../record/literature.d/LIT-351.md)
 - [`record/notes.d/NOTE-314.md:110`](../../record/notes.d/NOTE-314.md)
 - [`record/notes.d/NOTE-315.md:144`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-315.md:148`](../../record/notes.d/NOTE-315.md)
@@ -1369,7 +1413,7 @@ Contrastive and Non-Contrastive Self-Supervised Learning Recover Global and Loca
 - [`record/theory.d/THEORY-007.md:45`](../../record/theory.d/THEORY-007.md)
 - [`record/theory.d/THEORY-007.md:58`](../../record/theory.d/THEORY-007.md)
 
-### [LIT-331](../../record/literature.d/LIT-331.md) — Deferred
+### [LIT-331](../../record/literature.d/LIT-331.md) — Unavailable
 
 Zur Theorie der hyperkomplexen Zahlen
 
@@ -1644,7 +1688,7 @@ When Does Closeness in Distribution Imply Representational Similarity? An Identi
 - [`record/notes.d/NOTE-302.md:154`](../../record/notes.d/NOTE-302.md)
 - [`record/theory.d/THEORY-018.md:99`](../../record/theory.d/THEORY-018.md)
 
-### [LIT-301](../../record/literature.d/LIT-301.md) — Deferred
+### [LIT-301](../../record/literature.d/LIT-301.md) — Unavailable
 
 Every Thing Must Go: Metaphysics Naturalized
 
@@ -1927,7 +1971,7 @@ Shannon Information and Kolmogorov Complexity
 
 3 citations in 3 files await a look; 1 other citation of it is acknowledged.
 
-- [`record/literature.d/LIT-317.md:44`](../../record/literature.d/LIT-317.md)
+- [`record/literature.d/LIT-317.md:51`](../../record/literature.d/LIT-317.md)
 - [`record/notes.d/NOTE-241.md:167`](../../record/notes.d/NOTE-241.md)
 - [`record/notes.d/NOTE-300.md:123`](../../record/notes.d/NOTE-300.md)
 
@@ -1951,7 +1995,7 @@ Similarity of Neural Network Representations Revisited
 - [`record/notes.d/NOTE-286.md:142`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-301.md:90`](../../record/notes.d/NOTE-301.md)
 
-### [LIT-342](../../record/literature.d/LIT-342.md) — Deferred
+### [LIT-342](../../record/literature.d/LIT-342.md) — Unavailable
 
 What is Structural Realism?
 
@@ -3534,7 +3578,7 @@ Contextuality for preparations, transformations, and unsharp measurements
 
 - [`record/notes.d/NOTE-249.md:173`](../../record/notes.d/NOTE-249.md)
 
-### [LIT-337](../../record/literature.d/LIT-337.md) — Deferred
+### [LIT-337](../../record/literature.d/LIT-337.md) — Unavailable
 
 Boolean Concept Logic
 
@@ -3550,7 +3594,7 @@ Formal Concept Analysis: Mathematical Foundations
 
 - [`record/notes.d/NOTE-272.md:124`](../../record/notes.d/NOTE-272.md)
 
-### [LIT-359](../../record/literature.d/LIT-359.md) — Deferred
+### [LIT-359](../../record/literature.d/LIT-359.md) — Unavailable
 
 Counting the faces of cut-up spaces
 
@@ -3558,7 +3602,7 @@ Counting the faces of cut-up spaces
 
 - [`record/notes.d/NOTE-313.md:113`](../../record/notes.d/NOTE-313.md)
 
-### [LIT-365](../../record/literature.d/LIT-365.md) — Deferred
+### [LIT-365](../../record/literature.d/LIT-365.md) — Unavailable
 
 On the Problem of the Most Efficient Tests of Statistical Hypotheses
 
@@ -3566,7 +3610,7 @@ On the Problem of the Most Efficient Tests of Statistical Hypotheses
 
 - [`record/theory.d/THEORY-031.md:49`](../../record/theory.d/THEORY-031.md)
 
-### [LIT-366](../../record/literature.d/LIT-366.md) — Deferred
+### [LIT-366](../../record/literature.d/LIT-366.md) — Unavailable
 
 Signal Detection Theory and Psychophysics
 

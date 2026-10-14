@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [14 Oct 01:23 — Triage of the 167 Deferred works: what to read next, and where a copy can be had](2026-10.md#triage-of-the-167-deferred-works-what-to-read-next-and-where-a-copy-can-be-had)
 - [13 Oct 21:29 — Fifteen works registered unread from the exchange on meaning operators and selfhood](2026-10.md#fifteen-works-registered-unread-from-the-exchange-on-meaning-operators-and-selfhood)
 - [13 Oct 18:44 — The intention-based line of illocution filed: Grice (1957, 1975), Strawson (1964), Bach and Harnish (1979)](2026-10.md#the-intention-based-line-of-illocution-filed-grice-1957-1975-strawson-1964-bach-and-harnish-1979)
 - [13 Oct 17:34 — Six of the ten works read the same day; the readings correct three of the filings](2026-10.md#six-of-the-ten-works-read-the-same-day-the-readings-correct-three-of-the-filings)
@@ -60,9 +61,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-98 entries across 2 books, newest first.
+99 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 51 | 2026-10-01 | 2026-10-13 |
+| [2026-10](2026-10.md) | 52 | 2026-10-01 | 2026-10-14 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

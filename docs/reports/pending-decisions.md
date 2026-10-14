@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**589 document(s) awaiting a decision.**
+**567 document(s) awaiting a decision.**
 
 ## LITs
 
-199 of the 589.
+177 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -79,30 +79,8 @@
 | 2026-09-27 | Deferred | [LIT-263](../../record/literature.d/LIT-263.md) | 23 | 9 | Kochen-Specker contextuality |
 | 2026-09-27 | Deferred | [LIT-266](../../record/literature.d/LIT-266.md) | 8 | 1 | Contextuality for preparations, transformations, and unsharp measurements |
 | 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 17 | 17 | A topos foundation for theories of physics: IV. Categories of systems |
-| 2026-09-29 | Deferred | [LIT-328](../../record/literature.d/LIT-328.md) | 17 | 11 | Irreversibility and Heat Generation in the Computing Process |
-| 2026-09-29 | Deferred | [LIT-332](../../record/literature.d/LIT-332.md) | 9 | 9 | Facing up to arrangements: face-count formulas for partitions of space by hyperplanes |
-| 2026-09-29 | Deferred | [LIT-349](../../record/literature.d/LIT-349.md) | 9 | 7 | Information and the Accuracy Attainable in the Estimation of Statistical Parameters |
-| 2026-09-29 | Deferred | [LIT-351](../../record/literature.d/LIT-351.md) | 9 | 9 | Detection, Estimation, and Modulation Theory, Part I |
-| 2026-09-29 | Deferred | [LIT-317](../../record/literature.d/LIT-317.md) | 8 | 8 | Communication in the Presence of Noise |
-| 2026-09-29 | Deferred | [LIT-321](../../record/literature.d/LIT-321.md) | 8 | 8 | Local Quantum Physics: Fields, Particles, Algebras (2nd ed.) |
-| 2026-09-29 | Deferred | [LIT-301](../../record/literature.d/LIT-301.md) | 7 | 4 | Every Thing Must Go: Metaphysics Naturalized |
-| 2026-09-29 | Deferred | [LIT-311](../../record/literature.d/LIT-311.md) | 6 | 6 | Mathematical Methods of Statistics |
-| 2026-09-29 | Deferred | [LIT-331](../../record/literature.d/LIT-331.md) | 5 | 5 | Zur Theorie der hyperkomplexen Zahlen |
-| 2026-09-29 | Deferred | [LIT-318](../../record/literature.d/LIT-318.md) | 3 | 0 | The Concept of Mind |
-| 2026-09-29 | Deferred | [LIT-342](../../record/literature.d/LIT-342.md) | 3 | 3 | What is Structural Realism? |
-| 2026-09-29 | Deferred | [LIT-334](../../record/literature.d/LIT-334.md) | 1 | 0 | Conceptual Spaces: The Geometry of Thought |
-| 2026-09-29 | Deferred | [LIT-337](../../record/literature.d/LIT-337.md) | 1 | 1 | Boolean Concept Logic |
-| 2026-09-29 | Deferred | [LIT-359](../../record/literature.d/LIT-359.md) | 1 | 1 | Counting the faces of cut-up spaces |
-| 2026-09-29 | Deferred | [LIT-303](../../record/literature.d/LIT-303.md) | 0 | 0 | Types and Ontology |
-| 2026-09-29 | Deferred | [LIT-307](../../record/literature.d/LIT-307.md) | 0 | 0 | Semantics, Volume 1 |
-| 2026-09-29 | Deferred | [LIT-320](../../record/literature.d/LIT-320.md) | 0 | 0 | Resemblance Nominalism: A Solution to the Problem of Universals |
-| 2026-09-29 | Deferred | [LIT-336](../../record/literature.d/LIT-336.md) | 0 | 0 | Universals and Scientific Realism (Vol. I: Nominalism and Realism; Vol. II: A Theory of Universals) |
-| 2026-09-29 | Deferred | [LIT-350](../../record/literature.d/LIT-350.md) | 0 | 0 | Categories and De Interpretatione (Clarendon Aristotle Series, trans. and notes J. L. Ackrill) |
-| 2026-09-29 | Deferred | [LIT-361](../../record/literature.d/LIT-361.md) | 0 | 0 | Superselection Rules for Philosophers |
 | 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 17 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
 | 2026-09-30 | Proposed | [LIT-369](../../record/literature.d/LIT-369.md) | 15 | 12 | Grokking and Generalization Collapse: Insights from HTSR theory |
-| 2026-09-30 | Deferred | [LIT-365](../../record/literature.d/LIT-365.md) | 1 | 1 | On the Problem of the Most Efficient Tests of Statistical Hypotheses |
-| 2026-09-30 | Deferred | [LIT-366](../../record/literature.d/LIT-366.md) | 1 | 1 | Signal Detection Theory and Psychophysics |
 | 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 41 | 41 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
 | 2026-10-01 | Deferred | [LIT-379](../../record/literature.d/LIT-379.md) | 2 | 2 | Anger makes fake news viral online |
 | 2026-10-01 | Proposed | [LIT-375](../../record/literature.d/LIT-375.md) | 1 | 1 | Structural Learning Theory: A Metric-Topology Factorization Approach |
@@ -215,7 +193,7 @@
 
 ## THEORYs
 
-198 of the 589.
+198 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -420,15 +398,15 @@
 
 ## ADRs
 
-1 of the 589.
+1 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 185 | 185 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
+| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 229 | 229 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
 
 ## QUESTIONs
 
-9 of the 589.
+9 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -444,7 +422,7 @@
 
 ## CLAIMs
 
-177 of the 589.
+177 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -628,7 +606,7 @@
 
 ## CASEs
 
-1 of the 589.
+1 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -636,7 +614,7 @@
 
 ## TERMs
 
-2 of the 589.
+2 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -645,7 +623,7 @@
 
 ## ARGs
 
-2 of the 589.
+2 of the 567.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -656,4 +634,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (96): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [LIT-303](../../record/literature.d/LIT-303.md), [LIT-307](../../record/literature.d/LIT-307.md), [LIT-320](../../record/literature.d/LIT-320.md), [LIT-336](../../record/literature.d/LIT-336.md), [LIT-350](../../record/literature.d/LIT-350.md), [LIT-361](../../record/literature.d/LIT-361.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [LIT-904](../../record/literature.d/LIT-904.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [LIT-1000](../../record/literature.d/LIT-1000.md), [LIT-1005](../../record/literature.d/LIT-1005.md), [LIT-1008](../../record/literature.d/LIT-1008.md), [LIT-1009](../../record/literature.d/LIT-1009.md), [LIT-1010](../../record/literature.d/LIT-1010.md), [LIT-933](../../record/literature.d/LIT-933.md), [LIT-934](../../record/literature.d/LIT-934.md), [LIT-935](../../record/literature.d/LIT-935.md), [LIT-936](../../record/literature.d/LIT-936.md), [LIT-937](../../record/literature.d/LIT-937.md), [LIT-938](../../record/literature.d/LIT-938.md), [LIT-939](../../record/literature.d/LIT-939.md), [LIT-940](../../record/literature.d/LIT-940.md), [LIT-941](../../record/literature.d/LIT-941.md), [LIT-942](../../record/literature.d/LIT-942.md), [LIT-944](../../record/literature.d/LIT-944.md), [LIT-945](../../record/literature.d/LIT-945.md), [LIT-946](../../record/literature.d/LIT-946.md), [LIT-947](../../record/literature.d/LIT-947.md), [LIT-948](../../record/literature.d/LIT-948.md), [LIT-949](../../record/literature.d/LIT-949.md), [LIT-950](../../record/literature.d/LIT-950.md), [LIT-951](../../record/literature.d/LIT-951.md), [LIT-952](../../record/literature.d/LIT-952.md), [LIT-953](../../record/literature.d/LIT-953.md), [LIT-954](../../record/literature.d/LIT-954.md), [LIT-955](../../record/literature.d/LIT-955.md), [LIT-956](../../record/literature.d/LIT-956.md), [LIT-957](../../record/literature.d/LIT-957.md), [LIT-958](../../record/literature.d/LIT-958.md), [LIT-959](../../record/literature.d/LIT-959.md), [LIT-960](../../record/literature.d/LIT-960.md), [LIT-961](../../record/literature.d/LIT-961.md), [LIT-962](../../record/literature.d/LIT-962.md), [LIT-963](../../record/literature.d/LIT-963.md), [LIT-964](../../record/literature.d/LIT-964.md), [LIT-965](../../record/literature.d/LIT-965.md), [LIT-966](../../record/literature.d/LIT-966.md), [LIT-967](../../record/literature.d/LIT-967.md), [LIT-968](../../record/literature.d/LIT-968.md), [LIT-969](../../record/literature.d/LIT-969.md), [LIT-971](../../record/literature.d/LIT-971.md), [LIT-972](../../record/literature.d/LIT-972.md), [LIT-973](../../record/literature.d/LIT-973.md), [LIT-974](../../record/literature.d/LIT-974.md), [LIT-975](../../record/literature.d/LIT-975.md), [LIT-976](../../record/literature.d/LIT-976.md), [LIT-977](../../record/literature.d/LIT-977.md), [LIT-978](../../record/literature.d/LIT-978.md), [LIT-979](../../record/literature.d/LIT-979.md), [LIT-980](../../record/literature.d/LIT-980.md), [LIT-981](../../record/literature.d/LIT-981.md), [LIT-982](../../record/literature.d/LIT-982.md), [LIT-983](../../record/literature.d/LIT-983.md), [LIT-984](../../record/literature.d/LIT-984.md), [LIT-985](../../record/literature.d/LIT-985.md), [LIT-986](../../record/literature.d/LIT-986.md), [LIT-987](../../record/literature.d/LIT-987.md), [LIT-988](../../record/literature.d/LIT-988.md), [LIT-989](../../record/literature.d/LIT-989.md), [LIT-990](../../record/literature.d/LIT-990.md), [LIT-991](../../record/literature.d/LIT-991.md), [LIT-992](../../record/literature.d/LIT-992.md), [LIT-993](../../record/literature.d/LIT-993.md), [LIT-994](../../record/literature.d/LIT-994.md), [LIT-995](../../record/literature.d/LIT-995.md), [LIT-996](../../record/literature.d/LIT-996.md), [LIT-997](../../record/literature.d/LIT-997.md), [LIT-998](../../record/literature.d/LIT-998.md), [LIT-999](../../record/literature.d/LIT-999.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-275](../../record/claims.d/CLAIM-275.md), [CLAIM-276](../../record/claims.d/CLAIM-276.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (90): [LIT-026](../../record/literature.d/LIT-026.md), [LIT-029](../../record/literature.d/LIT-029.md), [LIT-043](../../record/literature.d/LIT-043.md), [LIT-074](../../record/literature.d/LIT-074.md), [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [LIT-755](../../record/literature.d/LIT-755.md), [LIT-757](../../record/literature.d/LIT-757.md), [LIT-787](../../record/literature.d/LIT-787.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [LIT-904](../../record/literature.d/LIT-904.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [LIT-1000](../../record/literature.d/LIT-1000.md), [LIT-1005](../../record/literature.d/LIT-1005.md), [LIT-1008](../../record/literature.d/LIT-1008.md), [LIT-1009](../../record/literature.d/LIT-1009.md), [LIT-1010](../../record/literature.d/LIT-1010.md), [LIT-933](../../record/literature.d/LIT-933.md), [LIT-934](../../record/literature.d/LIT-934.md), [LIT-935](../../record/literature.d/LIT-935.md), [LIT-936](../../record/literature.d/LIT-936.md), [LIT-937](../../record/literature.d/LIT-937.md), [LIT-938](../../record/literature.d/LIT-938.md), [LIT-939](../../record/literature.d/LIT-939.md), [LIT-940](../../record/literature.d/LIT-940.md), [LIT-941](../../record/literature.d/LIT-941.md), [LIT-942](../../record/literature.d/LIT-942.md), [LIT-944](../../record/literature.d/LIT-944.md), [LIT-945](../../record/literature.d/LIT-945.md), [LIT-946](../../record/literature.d/LIT-946.md), [LIT-947](../../record/literature.d/LIT-947.md), [LIT-948](../../record/literature.d/LIT-948.md), [LIT-949](../../record/literature.d/LIT-949.md), [LIT-950](../../record/literature.d/LIT-950.md), [LIT-951](../../record/literature.d/LIT-951.md), [LIT-952](../../record/literature.d/LIT-952.md), [LIT-953](../../record/literature.d/LIT-953.md), [LIT-954](../../record/literature.d/LIT-954.md), [LIT-955](../../record/literature.d/LIT-955.md), [LIT-956](../../record/literature.d/LIT-956.md), [LIT-957](../../record/literature.d/LIT-957.md), [LIT-958](../../record/literature.d/LIT-958.md), [LIT-959](../../record/literature.d/LIT-959.md), [LIT-960](../../record/literature.d/LIT-960.md), [LIT-961](../../record/literature.d/LIT-961.md), [LIT-962](../../record/literature.d/LIT-962.md), [LIT-963](../../record/literature.d/LIT-963.md), [LIT-964](../../record/literature.d/LIT-964.md), [LIT-965](../../record/literature.d/LIT-965.md), [LIT-966](../../record/literature.d/LIT-966.md), [LIT-967](../../record/literature.d/LIT-967.md), [LIT-968](../../record/literature.d/LIT-968.md), [LIT-969](../../record/literature.d/LIT-969.md), [LIT-971](../../record/literature.d/LIT-971.md), [LIT-972](../../record/literature.d/LIT-972.md), [LIT-973](../../record/literature.d/LIT-973.md), [LIT-974](../../record/literature.d/LIT-974.md), [LIT-975](../../record/literature.d/LIT-975.md), [LIT-976](../../record/literature.d/LIT-976.md), [LIT-977](../../record/literature.d/LIT-977.md), [LIT-978](../../record/literature.d/LIT-978.md), [LIT-979](../../record/literature.d/LIT-979.md), [LIT-980](../../record/literature.d/LIT-980.md), [LIT-981](../../record/literature.d/LIT-981.md), [LIT-982](../../record/literature.d/LIT-982.md), [LIT-983](../../record/literature.d/LIT-983.md), [LIT-984](../../record/literature.d/LIT-984.md), [LIT-985](../../record/literature.d/LIT-985.md), [LIT-986](../../record/literature.d/LIT-986.md), [LIT-987](../../record/literature.d/LIT-987.md), [LIT-988](../../record/literature.d/LIT-988.md), [LIT-989](../../record/literature.d/LIT-989.md), [LIT-990](../../record/literature.d/LIT-990.md), [LIT-991](../../record/literature.d/LIT-991.md), [LIT-992](../../record/literature.d/LIT-992.md), [LIT-993](../../record/literature.d/LIT-993.md), [LIT-994](../../record/literature.d/LIT-994.md), [LIT-995](../../record/literature.d/LIT-995.md), [LIT-996](../../record/literature.d/LIT-996.md), [LIT-997](../../record/literature.d/LIT-997.md), [LIT-998](../../record/literature.d/LIT-998.md), [LIT-999](../../record/literature.d/LIT-999.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-275](../../record/claims.d/CLAIM-275.md), [CLAIM-276](../../record/claims.d/CLAIM-276.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md) — these are the cheapest to close, since nothing depends on the answer.
