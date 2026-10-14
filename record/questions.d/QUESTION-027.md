@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp0p9xm
 title: 'Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -14,6 +14,12 @@ history:
     unrestricted, in-probe form only, which "What is already known" calls
     answered, and not on the restricted form the question is filed as.
     The question stays open.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    The note of 2026-10-14 now points to the accounts filed from the two
+    readings: THEORY-tmpoa03p (LIT-950) and THEORY-tmpbbojk (LIT-936).
+    Neither answers the question; both are in-probe cases.
 tags:
 - mathematical-statistics
 - information-theory
@@ -39,6 +45,7 @@ refined_by:
 <!-- inactive-ok-file: CLAIM-137 THEORY-112 THEORY-116 THEORY-191 THEORY-192 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-125 CLAIM-092 THEORY-175 CLAIM-135 — Proposed; open, and cited as the claims and reading this question is set beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-tmpoa03p THEORY-tmpbbojk — Proposed; the accounts filed from the readings in the note of 2026-10-14, not leaned on -->
 
 # QUESTION-027: Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?
 
@@ -199,11 +206,12 @@ known" calls answered, and not on decisions outside the observed probes.
   sufficient conditions. The observation there is the whole conditional
   distribution on every sequence, so there are no unobserved probes. It
   is a proved instance of a signature identified when the latent model is
-  not, in the case the question already counts as automatic.
+  not, in the case the question already counts as automatic. The account
+  is filed as [THEORY-tmpoa03p](../theory.d/THEORY-tmpoa03p.md).
 - **[LIT-936](../literature.d/LIT-936.md)** ([NOTE-tmpzfpxp](../notes.d/NOTE-tmpzfpxp.md)) measures a relational geometry that is
   invariant under every output-preserving reparameterisation and is
   identified from a context battery. Both hold because the signature is a
   function of the observed laws. Its two results that reach outside the
   probes, a transfer probe across models and a risk relation applied to
   unseen model families, are empirical and narrow, and neither is a
-  theorem.
+  theorem. The account is filed as [THEORY-tmpbbojk](../theory.d/THEORY-tmpbbojk.md).

@@ -28,7 +28,6 @@ summary: >-
   Euclidean steering it predicts.
 ---
 <!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-209 CLAIM-193 CLAIM-142 THEORY-175 — Open or Proposed; the question this work was registered for and the entries it is set beside, open -->
-<!-- inactive-ok-file: LIT-253 LIT-254 — Deferred; unread here, named as works the paper cites -->
 
 # NOTE-tmpzfpxp: Picozzi — The information geometry of large language models is shared, learned, and controllable
 

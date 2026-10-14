@@ -11,7 +11,7 @@ promote_when: >-
   mutual-nearest-neighbour alignment also have high Bures alignment of their
   centred kernels. A result in CKA does not count by itself, since CKA and
   normalized Bures similarity bound each other only within a rank-dependent
-  factor (LIT-250 eq. 24). Nielsen et al.'s Thm 4.7 (LIT-253) is a proved
+  factor (LIT-250 eq. 24; THEORY-tmpip5os). Nielsen et al.'s Thm 4.7 (LIT-253) is a proved
   stability result of this kind for softmax models, and by an identity
   NOTE-tmp6dvmv derived and checked by script, but which the paper does not
   state, its d_SVD is 1 − NBS. What remains: that kernel is of the
@@ -20,7 +20,7 @@ promote_when: >-
   has not decided that a Bures-type quantity on those coordinates counts;
   and the identity is the reader's, not a proved statement of the source.
 title: 'Convergence of representations, in the Platonic hypothesis''s sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-05'
@@ -46,6 +46,11 @@ history:
     (LIT-250 eq. 24), and records that Thm 4.7 meets it only in part, so
     the status stays Proposed. Stale Deferred comments for LIT-253 and
     LIT-250 removed.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    The promote_when's remark that a CKA result does not count by itself
+    now cites THEORY-tmpip5os, the account of LIT-250 eq. 24 filed today.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -65,6 +70,7 @@ supports:
 - CLAIM-269
 ---
 <!-- inactive-ok-file: THEORY-004 — Proposed; the kernel result this account presupposes, and this account is no firmer than it -->
+<!-- inactive-ok-file: THEORY-tmpip5os — Proposed; cited in promote_when as the reason a CKA result does not count, not leaned on -->
 
 # THEORY-002: Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
 

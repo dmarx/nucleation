@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   Generalization of representation learning is bounded not by I(X;U) but by the minimum description length of the latent variables (or predicted labels) under a symmetric prior — a multi-letter relative entropy that reflects the encoder's structure and is non-vacuous for deterministic encoders.
 ---
-<!-- inactive-ok-file: LIT-245 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-207: MDL generalization guarantees for representation learning
 

@@ -4,13 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmp540a1
 title: 'Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
   note: >-
     The question now asks for the willed tier too, after the owner
     distinguished willed agents from agents (CLAIM-155).
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    A note added on THEORY-tmphw05b, Watson's comparative criterion of
+    agency (LIT-990), filed today: relative to a decomposition, as this
+    question asks, but it takes the parts' goals as given.
 tags:
 - agency
 - individuation
@@ -35,6 +41,7 @@ answered_by:
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 CLAIM-174 — Proposed; the materials, answer and objection filed against this question, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens -->
+<!-- inactive-ok-file: THEORY-tmphw05b — Proposed; Watson's comparative criterion, named in a note and not leaned on -->
 
 # QUESTION-032: Relative to a level of description and a target, what makes a factor of a system an agent, and what further makes it a willed agent?
 
@@ -72,3 +79,14 @@ The proposed answer is [CLAIM-174](../claims.d/CLAIM-174.md).
 ## Note of 2026-10-12: a permissive answer
 
 [THEORY-208](../theory.d/THEORY-208.md) (Floridi) now carries an `answered_by` edge. Interactivity is necessary for agency, and autonomy and adaptability are graded, which is close to [CLAIM-170](../claims.d/CLAIM-170.md)'s "identified by adaptation". It is permissive: thermostats and rivers pass, by splitting agency into kinds. It is not relative to level or target, and it gives no test that could fail.
+
+## Note of 2026-10-14: a comparative criterion relative to a decomposition
+
+[THEORY-tmphw05b](../theory.d/THEORY-tmphw05b.md) (Watson, [LIT-990](../literature.d/LIT-990.md)) makes a whole more agential than its
+parts when its organization lets them resolve more of their mutual
+constraints than they do at the equilibrium of their former organization.
+It is relative to a chosen decomposition, as this question asks, and it
+gives the goal-directedness test of [CLAIM-174](../claims.d/CLAIM-174.md) a behavioural mark in
+delayed gratification. It does not supply the test asked for here: it
+takes the parts' goals as given, so it does not say which factors are
+agents, and it sets no threshold. It carries no `answers` edge.

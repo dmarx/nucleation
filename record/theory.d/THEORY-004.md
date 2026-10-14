@@ -11,7 +11,7 @@ promote_when: >-
   close reading of Jorgensen & Tian (LIT-259), which this record has so far
   only skimmed.
 title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -28,6 +28,12 @@ history:
     records the Harvey half as done and the Jorgensen & Tian half as
     outstanding, so the status stays Proposed. Stale Deferred comments for
     LIT-250 and LIT-254 removed.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    A Connections section added: THEORY-tmpuowt1 (LIT-254, Thm 1), filed
+    today, says why the invariant is not taken under the general linear
+    group, where comparison is degenerate.
 tags:
 - representation-learning
 - mathematics
@@ -52,6 +58,7 @@ supports:
 - CLAIM-148
 ---
 <!-- inactive-ok-file: LIT-259 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: THEORY-tmpuowt1 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
 
 # THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
 
@@ -70,3 +77,12 @@ So the kernel is the invariant and the representation is one realization of it �
 - That orthogonal equivalence is the right notion of sameness for learned models (see the Platonic-convergence claim, which disputes it).
 - Anything for nonlinear kernels on the representation, where what is determined is the kernel's feature map, not the representation itself.
 - That a model's kernel is determined by anything short of the model; the uniqueness is of realizations of a given kernel.
+
+## Connections
+
+- **[THEORY-tmpuowt1](THEORY-tmpuowt1.md).** Why the orthogonal group, and not the general linear
+  group. Kornblith et al. ([LIT-254](../literature.d/LIT-254.md), Thm 1) prove that a similarity index
+  invariant to every invertible linear map takes the same value on all
+  representations whose rank equals the number of examples. A comparison
+  under that larger group is degenerate once the representation is wide
+  enough, so the kernel is not traded for an invertible-linear invariant.

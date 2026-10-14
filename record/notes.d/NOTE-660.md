@@ -35,7 +35,6 @@ summary: >-
   scores better than truncated PMI or PPMI. Its account of analogies is an
   empirical spiked-random-matrix fit.
 ---
-<!-- inactive-ok-file: LIT-242 — Deferred; the stepwise SSL paper this one extends, cited for lineage -->
 <!-- inactive-ok-file: THEORY-001 — Proposed; named for the bearing of this reading on its caveat -->
 <!-- inactive-ok-file: THEORY-002 — Proposed; named for a bearing, not as settled -->
 <!-- inactive-ok-file: THEORY-009 — Proposed; named for a bearing, not as settled -->

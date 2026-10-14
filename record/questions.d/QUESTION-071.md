@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdewd4
 title: 'Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -17,6 +17,12 @@ history:
     longer says these analyses supply what the four-case argument
     assumes. Part 2 notes that Susser et al.'s test of manipulation is
     historical and epistemic. The question stays open.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    "What the record holds" now names the two accounts filed today from
+    those readings, THEORY-tmppv6y2 (LIT-1002) and THEORY-tmp2m1bc
+    (LIT-1007). Neither answers the question.
 tags:
 - self-governance
 - agency
@@ -38,6 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-016 QUESTION-011 — Deferred; named as where the problem sits on the set-aside authenticity line, not leaned on -->
 <!-- inactive-ok-file: LIT-1006 LIT-1003 — Deferred, unread; readings filed with this question -->
+<!-- inactive-ok-file: THEORY-tmppv6y2 THEORY-tmp2m1bc — Proposed; accounts filed today that bear on the question without answering it -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 
@@ -97,6 +104,15 @@ The question has two parts:
   introjection. This is empirical, from self-determination theory.
 - **[THEORY-121](../theory.d/THEORY-121.md):** ownership of the mechanism through taking
   responsibility, a historical condition the four-case argument targets.
+- **[THEORY-tmppv6y2](../theory.d/THEORY-tmppv6y2.md):** covert, vulnerability-exploiting influence harms
+  autonomy by making the agent opaque to herself. Its criterion is
+  historical and epistemic: whether she was, and could easily have become,
+  aware of what shaped her decision. Its limit: argued for single
+  decisions, not for the installed character of the four-case argument.
+- **[THEORY-tmp2m1bc](../theory.d/THEORY-tmp2m1bc.md):** no single-mechanism analysis of ordinary
+  manipulation fits the clear cases. Its limit: it is about ordinary
+  manipulation, so it does not supply the account of global manipulation
+  the four-case argument assumes.
 
 ## What would answer it
 

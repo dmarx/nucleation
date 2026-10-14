@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   Training a representation to minimize I(X;Z|Y) while maximizing I(Y;Z) — the Conditional Entropy Bottleneck, targeting the "Minimum Necessary Information" point I(X;Y)=I(X;Z)=I(Y;Z) — empirically improves accuracy, adversarial robustness, OoD detection and calibration and refuses to memorize random labels.
 ---
-<!-- inactive-ok-file: LIT-226 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-210: The Conditional Entropy Bottleneck
 

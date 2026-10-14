@@ -24,10 +24,7 @@ summary: >-
   robustness failures is a hypothesis, supported only by these
   experiments.
 ---
-<!-- inactive-ok-file: THEORY-006 — Proposed; the bound this paper uses in §6.3 -->
 <!-- inactive-ok-file: THEORY-035 — Rejected; the IB-and-generalisation account that names this paper in its Connections -->
-<!-- inactive-ok-file: LIT-246 — Deferred; Poole et al., whose proof §6.3 uses -->
-<!-- inactive-ok-file: LIT-245 — read alongside; its critique applies to the Shamir et al. bound quoted in §4 -->
 
 # NOTE-tmpxn4hq: Fischer — The Conditional Entropy Bottleneck
 

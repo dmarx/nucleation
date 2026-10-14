@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   VICReg, SimCLR and Barlow Twins each solve, in closed form, a classical spectral embedding problem on the positive-pair graph G (Laplacian Eigenmaps, a generalized MDS/ISOMAP, and CCA respectively), so contrastive vs non-contrastive SSL is global vs local spectral embedding, and when G matches the downstream task any of them is optimal.
 ---
-<!-- inactive-ok-file: LIT-228 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-199: Balestriero & LeCun 2022 — SSL recovers spectral embedding
 

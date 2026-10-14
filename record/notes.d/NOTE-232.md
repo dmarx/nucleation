@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   The success of InfoNCE-style representation learning cannot be attributed to mutual information itself: MI is invariant under invertible reparametrizations, invertible encoders that maximize true MI can be worse than raw pixels, and tighter MI bounds from higher-capacity critics can give worse representations.
 ---
-<!-- inactive-ok-file: LIT-247 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-232: Tschannen et al., on MI maximization for representations
 

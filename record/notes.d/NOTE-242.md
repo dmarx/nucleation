@@ -43,7 +43,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-004 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-008 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-001 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
-<!-- inactive-ok-file: THEORY-007 — Proposed: cited as the record's current account or reading, for comparison; the directive lapses when its status changes -->
 # NOTE-242: Attention Approximates Sparse Distributed Memory
 
 ## Contribution

@@ -28,7 +28,6 @@ summary: >-
   degrees 1, 2, 4 in that order, also on three non-uniform densities.
 ---
 
-<!-- inactive-ok-file: LIT-242 — Deferred; cited as the self-supervised counterpart of stepwise eigenmode learning, with no relation claimed -->
 
 # NOTE-483: Towards Understanding the Spectral Bias of Deep Learning
 

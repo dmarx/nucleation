@@ -27,6 +27,7 @@ summary: >-
 refined_by:
 - QUESTION-081
 ---
+<!-- inactive-ok-file: THEORY-tmpbaoyn — Proposed; a partial answer filed today, cited with its limit -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
 
@@ -45,6 +46,7 @@ The learned-structure line asks which structure training reaches and why. When i
 - [THEORY-200](../theory.d/THEORY-200.md): invariance to synonyms and to displacements arrives "at the training-set size at which they learn the task". Limit: the model builds both invariances on shared statistics.
 - [THEORY-204](../theory.d/THEORY-204.md): P tokens resolve correlations out to a horizon n*(P) ~ P^(1/(2β)), and the loss is the entropy at that horizon. Limit: it rests on assumptions; P reaches about 10^8.
 - [THEORY-039](../theory.d/THEORY-039.md): the later phases "differ in kind", and none is a measured compression of I(X;T). This is the caution against reading every transition as one event.
+- [THEORY-tmpbaoyn](../theory.d/THEORY-tmpbaoyn.md): for a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' cross-correlation one at a time, in order of eigenvalue, each at a time set by its eigenvalue and the log of the initial scale. The self-supervised instance of the [THEORY-187](../theory.d/THEORY-187.md) mechanism. Limit: proved from aligned initialization only; stepwise growth in ResNets is an experiment.
 
 ## What would answer it
 
