@@ -19,7 +19,17 @@ promote_when: >-
   matrix-based information estimate cannot settle it, since what that
   estimate measures is in question.
 title: 'Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    The Connections bullet on Kornblith et al. (2021), which said the
+    record held it only second-hand through LIT-978, now cites the paper
+    itself, LIT-tmpuf3sf, read in NOTE-tmp6f398 and filed as
+    THEORY-tmp7kkpe. The reading finds it measures new-class transfer
+    across losses at one layer, not same-class shift across depth, so the
+    bullet no longer calls it the same direction as this account.
 tags:
 - representation-learning
 - learning-theory
@@ -44,6 +54,7 @@ answers:
 - QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-083 — Proposed; named in Connections as the record's statement of neural collapse, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmp7kkpe — Proposed; the new-class transfer account, named in Connections to say it does not test this one -->
 
 # THEORY-104: Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls
 
@@ -153,9 +164,15 @@ are the evidence here, not the estimate.
   performance separately, because one hyperparameter can move them in
   opposite directions ([ANTH-SOTA-196](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-196.md)), is the same trade seen across a
   training knob rather than across depth.
-- **Kornblith et al. (2021)** find that ImageNet networks with more collapse
-  transfer worse to other datasets. That is the same direction as this
-  account's mechanism: more collapse at the top, worse readout
-  off-distribution. The record holds it only second-hand, as reported in
-  the neural-collapse review [LIT-978](../literature.d/LIT-978.md) (read in [NOTE-tmp9j4pb](../notes.d/NOTE-tmp9j4pb.md)); the paper
-  itself is not held.
+- **Kornblith et al. (2021)**, [LIT-tmpuf3sf](../literature.d/LIT-tmpuf3sf.md), read in full in [NOTE-tmp6f398](../notes.d/NOTE-tmp6f398.md)
+  and filed as [THEORY-tmp7kkpe](THEORY-tmp7kkpe.md). As the review [LIT-978](../literature.d/LIT-978.md) reports it, more
+  collapsed ImageNet networks transfer worse, which reads as this
+  account's mechanism. The paper is narrower. It compares nine losses at
+  the penultimate layer of early-stopped ResNet-50s, and its cost is for
+  datasets with other classes (Spearman ρ = −0.93 between class
+  separation and mean linear transfer). For the same classes under input
+  shift (ImageNet-V2, -A, -Sketch, -R, -C), the more separated losses are
+  slightly better (its Table C.2, own heads, not probes). So it neither
+  supports nor tests this account's same-class, across-depth claim. What
+  the two share is the location: the training objective changes only the
+  last few blocks (its CKA, Figure 2).

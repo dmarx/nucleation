@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmp84iod
 title: 'What structure does training for one classification task leave in a network''s last layers, and what does that structure cost for decisions and distributions the network was not trained on?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Kornblith et al. (2021), which the body named as unheld and worth
+    filing, is filed as LIT-tmpuf3sf and read in full (NOTE-tmp6f398). The
+    account filed from it, THEORY-tmp7kkpe, is added to answered_by and to
+    the list of what the record holds, with its limit, and the sentence
+    calling the work unheld is replaced.
 tags:
 - representation-learning
 - learning-theory
@@ -18,6 +27,7 @@ answered_by:
 - THEORY-tmpqg4nq
 - THEORY-tmptj5wo
 - THEORY-tmpye6gw
+- THEORY-tmp7kkpe
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-010](QUESTION-010.md) and [CLAIM-164](../claims.d/CLAIM-164.md).
@@ -27,6 +37,7 @@ refined_by:
 - QUESTION-080
 ---
 <!-- inactive-ok-file: THEORY-tmpqg4nq THEORY-tmptj5wo THEORY-tmpye6gw — Proposed; partial answers filed today, cited with their limits -->
+<!-- inactive-ok-file: THEORY-tmp7kkpe — Proposed; the measured cost of class separation for new tasks, a partial answer to the second half, cited with its limit -->
 
 # QUESTION-051: What structure does training for one classification task leave in a network's last layers, and what does that structure cost for decisions and distributions the network was not trained on?
 
@@ -46,8 +57,9 @@ Training a classifier past zero error drives its last layers toward a specific g
 - [THEORY-tmpqg4nq](../theory.d/THEORY-tmpqg4nq.md): under MSE a trained classifier stays near the least-squares classifier for its features, and on that path a re-whitened gradient flow on unconstrained features drives the class-separation singular values to infinity at equal rates, which is collapse. Limit: MSE, unconstrained features and a modified flow, not gradient descent on cross-entropy.
 - [THEORY-tmptj5wo](../theory.d/THEORY-tmptj5wo.md): under class imbalance unregularized cross-entropy prefers simplex-encoded-label interpolation, not the simplex ETF, which it is only for balanced or binary data. Limit: an endpoint for unconstrained features; it does not show that gradient descent reaches it.
 - [THEORY-tmpye6gw](../theory.d/THEORY-tmpye6gw.md): lazy-regime training of a wide shallow network does not collapse its features, so collapse needs feature learning. Limit: proved for one-dimensional, two-class data; higher dimensions are measured.
+- [THEORY-tmp7kkpe](../theory.d/THEORY-tmp7kkpe.md): among ImageNet-trained ResNet-50s, objectives that raise penultimate class separation (R² 0.349 for softmax to 0.845 for squared error) give fixed features that transfer worse to datasets with other classes (Spearman ρ = −0.93 over nine losses; mean linear transfer 75.9% to 48.3%), and the differences lie in the last few blocks, which fine-tuning rebuilds. Limit: networks early-stopped near 92% training accuracy, not in the terminal phase; one dataset and a correlation across losses, with one temperature sweep; transfer read only at the penultimate layer; for the same classes under input shift the more separated losses do slightly better, so the cost is for new classes.
 
-The derivation for cross-entropy asked for below is still open: the held derivations are for MSE or for an endpoint, and all remove the data. Kornblith et al. (2021), reported second-hand in [LIT-978](../literature.d/LIT-978.md), find that ImageNet networks with more collapse transfer worse. That is a direct measurement for the second half, not held, and worth filing.
+The derivation for cross-entropy asked for below is still open: the held derivations are for MSE or for an endpoint, and all remove the data. For the second half the record now holds a direct measurement: Kornblith et al. (2021), [LIT-tmpuf3sf](../literature.d/LIT-tmpuf3sf.md), read in [NOTE-tmp6f398](../notes.d/NOTE-tmp6f398.md) and filed as [THEORY-tmp7kkpe](../theory.d/THEORY-tmp7kkpe.md). It measures the cost at the penultimate layer for new class partitions only, short of the terminal phase, and does not read the earlier layers, so the layer-by-layer half of what would answer it is still open.
 
 ## What would answer it
 
