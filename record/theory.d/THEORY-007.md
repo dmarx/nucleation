@@ -9,7 +9,7 @@ promote_when: >-
   conditions (Thm 4.1 needs d ≥ d*), and one of HaoChen et al.
   (NOTE-tmpbkfrz) confirms Lemmas 3.1–3.2.
 title: 'Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -28,6 +28,13 @@ history:
     constant degree, which supports the eigenvector identification on a
     finite sample only. The stale Deferred comments on LIT-249 and LIT-258
     removed, and the one on LIT-252 reworded.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    A Connections section added for two accounts filed today:
+    THEORY-tmpbaoyn (LIT-242), the dynamical counterpart, and
+    THEORY-tmpakup2 (LIT-249), a second, cluster-based guarantee on the
+    same eigenvectors.
 tags:
 - representation-learning
 - mathematics
@@ -54,6 +61,7 @@ answers:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: LIT-252 — Deferred: filed and skimmed on 2026-09-26; cited as supporting only, for what Spectral Inference Networks learn, and nothing promoted here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpbaoyn THEORY-tmpakup2 — Proposed; the accounts filed from LIT-242 and LIT-249, named in Connections and not leaned on -->
 
 # THEORY-007: Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets
 
@@ -75,3 +83,20 @@ On a finite sample, Balestriero & LeCun ([LIT-228](../literature.d/LIT-228.md)) 
 - Anything for asymmetric methods (BYOL, SimSiam, cross-modal pairs), which fall outside the self-adjoint setting.
 - How this relates to Simon et al.'s kernel ([LIT-242](../literature.d/LIT-242.md)), which is built from the network's NTK and the pair structure, not from K⁺, so it supports this account by analogy only. Simon et al. say their final representations differ from those of Balestriero & LeCun, Kiani et al. and Cabannes et al.; of HaoChen et al. they say they complete the account, by identifying which of its degenerate optima training reaches in linearized models.
 - Anything about population eigenfunctions or minimax optimality from Balestriero & LeCun ([LIT-228](../literature.d/LIT-228.md)). Their support is for the eigenvector identification on a finite sample, for idealized losses, and their downstream result (Theorem 9) concerns zero training-set probe loss only. Johnson et al. note an ISOMAP link without reconciling it with K⁺.
+
+## Connections
+
+- **[THEORY-tmpbaoyn](THEORY-tmpbaoyn.md)** is the dynamical counterpart. This account says which
+  subspace is optimal. Simon et al. ([LIT-242](../literature.d/LIT-242.md)) show which of the degenerate
+  zero-loss optima a linearized model reaches under gradient flow on a
+  symmetrized Barlow Twins loss, and in what order: the top eigenvectors,
+  one at a time, in order of eigenvalue. Their operator is built from the
+  model's kernel and the sample pairs, not from K⁺, so the correspondence
+  is by analogy, as the Source section says.
+- **[THEORY-tmpakup2](THEORY-tmpakup2.md)** is a second guarantee on the same eigenvectors. At the
+  population optimum of the spectral contrastive loss, HaoChen et al.
+  ([LIT-249](../literature.d/LIT-249.md), Thm 3.8) bound linear-probe error by the probability that
+  augmentation changes the label over the squared sparsest-partition
+  conductance of the augmentation graph. The assumptions on the target
+  differ: label recoverability and conductance there, approximate view
+  invariance here.

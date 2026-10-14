@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   For softmax models p(y|x) ∝ exp(f(x)ᵀg(y)) under a diversity condition, the model distribution determines the embeddings and unembeddings up to an invertible linear map (f = Af′, g₀ = A⁻ᵀg′₀). The determination is not stable under KL divergence, though: two models can be ε-close in KL, even both near maximum likelihood, while their embeddings are far from linearly equivalent.
 ---
-<!-- inactive-ok-file: LIT-253 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-221: Closeness in Distribution vs Representational Similarity
 

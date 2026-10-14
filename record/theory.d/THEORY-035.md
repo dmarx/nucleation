@@ -20,7 +20,7 @@ promote_when: >-
   with no fall in I(X;T) (ReLU, deep linear) and a network that compresses
   while overfitting (tanh on 30% of the data).
 title: 'Deep networks generalise because the diffusion phase of SGD compresses each layer''s information about the input'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-09-30'
@@ -48,6 +48,12 @@ history:
     infinite and bound generalisation by a divergence of the latents to a
     symmetric prior. That quantity is added under what this does not say.
     The status stays Rejected.
+- version: 4
+  date: '2026-10-14'
+  note: >-
+    The "does not say" item on Sefidgaran et al. (LIT-245) now cites
+    THEORY-tmpxydgv, the account of their Theorem 4 filed today. The
+    status stays Rejected.
 tags:
 - learning-theory
 - information-theory
@@ -69,6 +75,7 @@ summary: >-
   [LIT-338](../literature.d/LIT-338.md), the tanh two-phase observation and the gradient-SNR transition
   are not.
 ---
+<!-- inactive-ok-file: THEORY-tmpxydgv — Proposed; the account of LIT-245's bound, cited under what this does not say, not leaned on -->
 
 # THEORY-035: Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
 
@@ -96,7 +103,7 @@ summary: >-
 - **That the tanh two-phase observation is false.** With tanh units and this binning, the information paths are what [LIT-324](../literature.d/LIT-324.md) reports, consistent across 50 runs. [LIT-372](../literature.d/LIT-372.md) reproduces them with the original code. What fails is their generality and their reading.
 - **That the gradient-SNR transition is spurious.** The drift-to-diffusion change is measured from gradient statistics, not from information estimates, and [LIT-372](../literature.d/LIT-372.md) confirms it. It also shows the change is generic (App. I, Figs. 9–10, 20–21). It occurs in ReLU nets, on MNIST, under full-batch GD, and in a 1-1-1 linear network that cannot compress. Its explanation is elementary: the mean gradient goes to zero near a minimum while the per-example spread stays finite. Earlier work described the same two phases (Murata 1998; Chee & Toulis 2017). It is also the precursor of McCandlish's noise scale ([LIT-348](../literature.d/LIT-348.md)), which cites [LIT-324](../literature.d/LIT-324.md). It survives this rejection as a property of approaching a minimum, not as evidence for compression.
 - **That no representation discards input information.** In a linear network with task-irrelevant inputs, information about the irrelevant subspace rises and then falls, while total I(X;T) rises ([LIT-372](../literature.d/LIT-372.md), §5, Fig. 6). That happens during fitting, not in a later phase. It is measured under an imposed noise σ²_MI = 1.
-- **That no information quantity bears on generalisation.** Input–output information does bound expected generalisation error ([LIT-347](../literature.d/LIT-347.md)), but that quantity is I(S;W), not I(X;T). Sefidgaran et al. ([LIT-245](../literature.d/LIT-245.md), Theorem 4) bound the generalisation error of an encoder–decoder learner by a third quantity, the KL divergence of the encoder's train-and-ghost latents to a prior symmetric under label-preserving permutations ([NOTE-tmpftody](../notes.d/NOTE-tmpftody.md)). That too is not I(X;T).
+- **That no information quantity bears on generalisation.** Input–output information does bound expected generalisation error ([LIT-347](../literature.d/LIT-347.md)), but that quantity is I(S;W), not I(X;T). Sefidgaran et al. ([LIT-245](../literature.d/LIT-245.md), Theorem 4) bound the generalisation error of an encoder–decoder learner by a third quantity, the KL divergence of the encoder's train-and-ghost latents to a prior symmetric under label-preserving permutations ([NOTE-tmpftody](../notes.d/NOTE-tmpftody.md)), filed as [THEORY-tmpxydgv](THEORY-tmpxydgv.md). That too is not I(X;T).
 - **Anything beyond small settings.** [LIT-372](../literature.d/LIT-372.md) tests the 12-bit task, one MNIST MLP and linear networks. It does not test convolutional or transformer networks. Nor does it test anisotropic inputs, which its authors flag as open ([NOTE-320](../notes.d/NOTE-320.md)).
 
 ## Connections

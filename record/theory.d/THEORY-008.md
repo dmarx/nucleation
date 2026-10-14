@@ -8,7 +8,7 @@ promote_when: >-
   1, including the population version in App. A.3. The identities are proved
   in the source; this record has so far only skimmed it.
 title: 'What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -20,6 +20,12 @@ history:
     App. D.1). They say nothing about readouts, decoding, averaging over
     tasks or GULP. The Deferred comment for LIT-254 removed; LIT-257 is
     still Deferred and the promote_when, which concerns it, is unchanged.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    A Connections section added: THEORY-tmpuowt1 (LIT-254, Thm 1), filed
+    today, says why the CCA member of the family, which is invariant to
+    every invertible linear map, is degenerate at full rank.
 tags:
 - representation-learning
 - mathematics
@@ -39,6 +45,7 @@ supports:
 - CLAIM-269
 ---
 <!-- inactive-ok-file: LIT-257 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; the theories citing it are Proposed until it is read closely -->
+<!-- inactive-ok-file: THEORY-tmpuowt1 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
 
 # THEORY-008: What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
@@ -55,3 +62,12 @@ For readouts w maximizing zᵀXw/M − ½wᵀG(X)w, the decoded signal is K_X z 
 - Anything about nonlinear readouts or classifiers (named as future work in the source's §5).
 - Which task distribution K_z is the right one to average over.
 - The source's Proposition 3 (bounds via Procrustes distance) is a separate, weaker result, and its proof was not read.
+
+## Connections
+
+- **[THEORY-tmpuowt1](THEORY-tmpuowt1.md).** Mean squared CCA, one of the averages above, is
+  invariant to every invertible linear map: it is an orthogonally invariant
+  index applied to orthonormalized columns ([LIT-254](../literature.d/LIT-254.md), Prop. 1). Kornblith et
+  al.'s Theorem 1 then makes it constant on all representations whose rank
+  equals the number of examples. Linear CKA, invariant only to orthogonal
+  maps and isotropic scaling, escapes that degeneracy.

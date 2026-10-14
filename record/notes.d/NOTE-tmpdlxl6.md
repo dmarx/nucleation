@@ -29,7 +29,6 @@ summary: >-
   which is an empirical finding, not a consequence of the theory.
 ---
 <!-- inactive-ok-file: THEORY-007 THEORY-009 QUESTION-052 — Proposed or Open; the theories that cite this paper and the question they answer -->
-<!-- inactive-ok-file: LIT-249 LIT-258 — Deferred; HaoChen et al. and Johnson et al., named as the optimum-based accounts this paper sets itself beside -->
 
 # NOTE-tmpdlxl6: Simon et al. — On the Stepwise Nature of Self-Supervised Learning
 

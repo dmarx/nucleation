@@ -29,6 +29,7 @@ supports:
 - CLAIM-082
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
+<!-- inactive-ok-file: THEORY-tmpbaoyn — Proposed; the self-supervised account this one shares a mechanism with, named in Connections -->
 
 # THEORY-182: A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum
 
@@ -81,3 +82,14 @@ comes from the reweighting condition, not from the quartic approximation.
   it.
 - **Not an instruction.** It says what a trained model contains, not how to
   train one.
+
+## Connections
+
+- **[THEORY-tmpbaoyn](THEORY-tmpbaoyn.md).** The same mechanism in self-supervised learning, from
+  Simon et al. ([LIT-242](../literature.d/LIT-242.md)), with Simon an author of both papers. For a
+  symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient
+  flow from small initialization learns the top eigenvectors of the pairs'
+  cross-correlation one at a time, in order of eigenvalue. [LIT-855](../literature.d/LIT-855.md) carries
+  that analysis to the word2vec proxy. No relation is declared: the two
+  accounts share a mechanism and an author, and neither extends or rivals
+  the other.

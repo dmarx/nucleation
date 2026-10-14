@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp053xo
 title: 'Softmax training identifies a language model''s final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch''s causal inner product is fixed by a stipulation'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -15,6 +15,14 @@ history:
     under that symmetry it moves to log-odds coordinates against a pivot
     label, and picks the pivot, left-out label and input set to minimize the
     distance (Thm 4.7, App. E.3). LIT-253 added to the sources.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    Connections now names two accounts filed today that bear on the thesis
+    from the comparison side: THEORY-tmpuowt1 (LIT-254), that an index
+    invariant to every invertible linear map is degenerate at full rank,
+    and THEORY-tmpbbojk (LIT-936), a geometry of the output laws that no
+    output-preserving reparameterization changes.
 tags:
 - representation-learning
 - mathematics
@@ -39,6 +47,7 @@ supports:
 extended_by:
 - THEORY-tmpoa03p
 ---
+<!-- inactive-ok-file: THEORY-tmpuowt1 THEORY-tmpbbojk — Proposed; accounts filed today, named in Connections and not leaned on -->
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
 
@@ -123,3 +132,14 @@ than of inner product ([NOTE-tmp6dvmv](../notes.d/NOTE-tmp6dvmv.md)).
 Engels et al.'s
 separability index and cosine clustering are Euclidean too, and so are
 relative to a choice this theory says is not given ([NOTE-273](../notes.d/NOTE-273.md)).
+
+Two accounts filed on 2026-10-14 bear on the thesis from the comparison
+side. [THEORY-tmpuowt1](THEORY-tmpuowt1.md) (Kornblith et al., [LIT-254](../literature.d/LIT-254.md), Thm 1): an index
+invariant to every invertible linear map takes one value on all
+representations whose rank equals the number of examples. So a comparison
+invariant to everything the softmax leaves free says nothing once the
+representation is wide enough. A usable one must fix a smaller group by
+stipulation, or compare in identified coordinates. [THEORY-tmpbbojk](THEORY-tmpbbojk.md) (Picozzi, [LIT-936](../literature.d/LIT-936.md)) moves the
+comparison to the outputs: the Fisher–Rao geometry of the next-token laws
+is a function of the laws alone, so no output-preserving
+reparameterization, this account's GL(d) among them, changes it.

@@ -27,7 +27,6 @@ summary: >-
   without being wrong in every case.
 ---
 <!-- inactive-ok-file: QUESTION-070 QUESTION-071 THEORY-040 THEORY-139 THEORY-047 THEORY-121 CLAIM-016 CLAIM-022 CLAIM-030 — Open, Proposed or Deferred; the questions and claims this reading bears on, named and not leaned on -->
-<!-- inactive-ok-file: LIT-1007 — read in the same batch; the survey this paper takes its three-way division from -->
 
 # NOTE-tmpijdk1: Susser, Roessler and Nissenbaum — Technology, autonomy, and manipulation
 

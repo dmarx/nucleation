@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp9psjx
 title: 'When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -18,6 +18,12 @@ history:
     examines the intent requirement and sets aside manipulation of
     institutions and systems. Both points are now stated. The question
     stays open.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    "What the record holds" now names the two accounts filed today from
+    those readings, THEORY-tmppv6y2 (LIT-1002) and THEORY-tmp2m1bc
+    (LIT-1007). Neither answers the question.
 tags:
 - social-ontology
 - ethics
@@ -39,6 +45,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1003 — Deferred, unread; an analysis of manipulation filed with this question -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
+<!-- inactive-ok-file: THEORY-tmppv6y2 THEORY-tmp2m1bc — Proposed; accounts filed today that bear on the question without answering it -->
 
 # QUESTION-070: When an organized whole manipulates, as a learning system exploiting documented biases or a network of state channels does, is it the same wrong when no member intends to manipulate, and whose agency does the wrong run through?
 
@@ -91,6 +98,18 @@ The question has two parts:
 - **[THEORY-139](../theory.d/THEORY-139.md):** a group that forms judgments by authorised avowal, and
   corrects its members' inconsistent views, is fit to be held responsible.
   Its limit: neither case above has authorised avowal.
+- **[THEORY-tmppv6y2](../theory.d/THEORY-tmppv6y2.md):** covert influence that exploits a person's
+  decision-making vulnerabilities harms her autonomy by making her opaque
+  to herself. The harm runs through the target's access to the influence,
+  not through the influencer's mind, so it is one route on which a whole
+  with no intending member could do the harm. Its limit: it claims a harm,
+  not a wrong, and is filed of covert influence, not of manipulation as
+  such.
+- **[THEORY-tmp2m1bc](../theory.d/THEORY-tmp2m1bc.md):** no single-mechanism analysis of manipulation fits
+  the clear cases. An answer must say what manipulation is before asking
+  whether such a whole can do it. Its limit: common-factor and
+  non-definitional accounts, such as Cohen's cluster concept, are left
+  open.
 
 ## What would answer it
 

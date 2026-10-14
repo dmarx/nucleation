@@ -4,7 +4,7 @@ status: Deferred
 formerly:
 - QUESTION-tmp9w0qe
 title: 'When does a pattern of coordination constitute an additional agent?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -14,6 +14,11 @@ history:
     criterion is comparative and scale-relative and refuses a threshold,
     so it bears on the question without answering it. The status stays
     Deferred.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    The note of 2026-10-14 now names the account filed from Watson's
+    essay, THEORY-tmphw05b.
 tags:
 - agency
 - social-ontology
@@ -36,6 +41,7 @@ refined_by:
 - QUESTION-093
 ---
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
+<!-- inactive-ok-file: THEORY-tmphw05b — Proposed; the comparative criterion filed today, which bears on this question without answering it -->
 
 # QUESTION-009: When does a pattern of coordination constitute an additional agent?
 
@@ -61,4 +67,5 @@ parts with given goals. It declines any absolute line "regardless of
 whether the parts, or the system as a whole, are considered to pass some
 absolute threshold". So it is not a criterion for when there is an
 additional agent, and read as one it changes the question rather than
-answering it.
+answering it. The criterion is filed as [THEORY-tmphw05b](../theory.d/THEORY-tmphw05b.md), which declares no
+relation to this question for that reason.

@@ -28,7 +28,6 @@ summary: >-
   is used.
 ---
 <!-- inactive-ok-file: THEORY-002 QUESTION-027 CLAIM-193 — Proposed or Open; the theory, claim and question this reading bears on, open -->
-<!-- inactive-ok-file: LIT-254 — Deferred; Kornblith et al., named as a work the paper cites, not leaned on -->
 
 # NOTE-tmp6dvmv: Nielsen et al. — When Does Closeness in Distribution Imply Representational Similarity?
 

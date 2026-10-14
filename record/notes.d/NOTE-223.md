@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   A similarity index for neural representations should be invariant to orthogonal transformation and isotropic scaling but not to arbitrary invertible linear maps, and comparing the example-by-example Gram matrices (linear or kernel CKA) achieves exactly that, while any index invariant to invertible linear maps becomes uninformative once width reaches the number of examples.
 ---
-<!-- inactive-ok-file: LIT-254 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-223: Similarity of NN Representations Revisited (CKA)
 

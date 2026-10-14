@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpl293u
 title: 'InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -26,6 +26,14 @@ history:
     limited to I_NWJ with an MLP critic. From NOTE-tmpxn4hq, CEB's CatGen
     is noted to take its negatives from the same minibatch. Stale
     inactive-ok comments for LIT-246 and LIT-247 removed.
+- version: 3
+  date: '2026-10-14'
+  note: >-
+    A Connections section added for two accounts filed today:
+    THEORY-tmpx4k5f, the family of critic-based MI bounds from Poole et
+    al. (LIT-246) of which this bound is the InfoNCE member, and
+    THEORY-tmp7q33x, Tschannen et al.'s (LIT-247) estimator-free point
+    that the true MI does not fix representation quality.
 tags:
 - information-theory
 - representation-learning
@@ -44,6 +52,7 @@ answers:
 - QUESTION-052
 ---
 <!-- inactive-ok-file: LIT-256 — Deferred: filed and skimmed on 2026-09-26 while pursuing the owner's Riesz/Radon–Nikodym/GNS question; cited here only as supporting, for the identity, while the bound rests on LIT-246 -->
+<!-- inactive-ok-file: THEORY-tmpx4k5f THEORY-tmp7q33x — Proposed; the accounts filed from LIT-246 and LIT-247, named in Connections and not leaned on -->
 
 # THEORY-006: InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size
 
@@ -63,3 +72,16 @@ Tschannen et al. show experimentally that representations can improve while the 
 - That maximizing I_NCE maximizes the representation's information in a useful sense (Tschannen et al. argue against this reading).
 - Anything for batches whose pairs are not i.i.d. With identically distributed but dependent pairs, I_NCE is neither a lower nor an upper bound on MI (Tschannen et al., [LIT-247](../literature.d/LIT-247.md), App. D); Hénaff et al.'s CPC, with negatives from the same image, is their example.
 - Anything for symmetric or two-sided losses, such as NT-Xent, that also draw negatives from the same view. Johnson et al. ([LIT-258](../literature.d/LIT-258.md)) App. B.1 treats NT-Xent with negatives drawn i.i.d. from the marginal; whether the bound extends to the two-sided loss is not checked here.
+
+## Connections
+
+- **THEORY-tmpx4k5f** places this bound in its family. Poole et al.
+  (LIT-246) derive Donsker–Varadhan, NWJ, MINE's gradient and InfoNCE as
+  relaxations of one unnormalized Barber–Agakov bound. InfoNCE is NWJ
+  applied to a K-sample problem with the batch mean as normalizer, and its
+  optimal critic is the log density ratio up to a function of y.
+- **THEORY-tmp7q33x** states the estimator-free point beneath Tschannen et
+  al.'s experiments summarized above (LIT-247). Invertible encoders keep
+  the true MI exactly, yet under a linear probe some do better than the raw
+  input and some worse. So it is MI itself, not only this bound on it, that
+  does not fix the quality of a representation.

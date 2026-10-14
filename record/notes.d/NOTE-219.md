@@ -18,7 +18,6 @@ date: '2026-09-26'
 summary: >-
   The Procrustes shape distance between two representations (optimal rotational alignment of units) equals the Bures distance between their centred linear kernel matrices, so the rotation-invariant geometry of a representation is exactly the geometry of its kernel, and through Uhlmann's theorem the fidelity of two kernels is the maximum overlap over all representations consistent with them.
 ---
-<!-- inactive-ok-file: LIT-250 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-219: Duality of Bures and Shape Distances
 
