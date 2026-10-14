@@ -1,8 +1,8 @@
 ---
-status: Deferred
-status_note: 'unread, registered 2026-10-14 for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md) from Crossref metadata and the standard statement of its result. No attempt to read it is recorded.'
+status: Unavailable
+status_note: 'unread, registered 2026-10-14 for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md). A reading was attempted on 2026-10-14 and failed on access, not availability: the bioRxiv preprint (10.1101/180471, CC BY-NC-ND) returned HTTP 429 to this client on six tries over twenty minutes, Europe PMC''s full text for it (PPR21674) returned 500, and the Science author referrer link on Dasgupta''s UCSD page returned 403. Science itself is paywalled and OpenAlex lists no other open copy. A browser fetch of the bioRxiv PDF would unblock it.'
 title: 'A neural algorithm for a fundamental computing problem'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -10,6 +10,18 @@ history:
     Filed, not read, at the owner's request after a survey found the record
     meets random projections from three directions without holding the
     result they share. Citation checked against Crossref on 2026-10-14. Not held in the Anthology of the SOTA: a grep of its record/ (clone at commit d1573d2) for the title, the identifier and the result's name found nothing.
+- version: 2
+  date: '2026-10-14'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a lawful copy exists (the
+    bioRxiv preprint) but this client could not fetch it; the places tried
+    are in the status note. A summary of the preprint returned through a
+    web-fetch tool agreed with the takeaways below (50 projection neurons to
+    about 2,000 Kenyon cells, about six inputs each, top 5% kept) and added
+    that the paper proves the first two steps preserve ℓ2 distances in
+    expectation. It names the benchmarks as SIFT, GloVe and MNIST, so the
+    filing's "GIST" is corrected. A summary is not a reading, so the
+    takeaways stay marked unread.
 tags:
 - neuroscience
 - information-retrieval
@@ -46,7 +58,7 @@ Sanjoy Dasgupta, Charles F. Stevens and Saket Navlakha (2017), "A neural algorit
   setting, the random projection goes up in dimension, and sparsification
   does the work that dimension reduction does in standard LSH.
 - **A similarity-preserving hash.** Similar odours get overlapping tags. On
-  SIFT, GIST and MNIST nearest-neighbour search the fly's scheme beats
+  SIFT, GloVe and MNIST nearest-neighbour search the fly's scheme beats
   random-projection LSH at the same tag length.
 
 ## Standing in the record
