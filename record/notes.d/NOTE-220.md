@@ -10,7 +10,6 @@ date: '2026-09-26'
 summary: >-
   The textbook puts the kernel construction and the GNS construction in one frame. It calls building a Hilbert space from a positive definite function "the GNS construction", and proves (Cor. 1.35) that the feature map realising a kernel as inner products is unique up to a unitary among minimal realisations. It also states that in the abelian case states are exactly probability measures, so that "the GNS construction is non-commutative measure theory".
 ---
-<!-- inactive-ok-file: LIT-259 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-220: Jorgensen & Tian, Noncommutative Analysis (GNS, RKHS)
 
