@@ -15,7 +15,7 @@ promote_when: >-
   Thm 4.35, transferred, which the NOTE writes out. Whether that meets the
   clause is an open call for the owner; the status stays Proposed.
 title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -50,6 +50,10 @@ history:
     transferred; whether that suffices is left as an open call for the
     owner, and the status stays Proposed. The Deferred comment on LIT-259
     removed.
+- version: 5
+  date: '2026-10-14'
+  note: >-
+    The citation of the GNS article (LIT-241, read in NOTE-tmp98n0x) narrowed to the C*-algebraic statement; the kernel form rests on LIT-259 alone.
 tags:
 - representation-learning
 - mathematics
@@ -79,7 +83,7 @@ supports:
 
 ## Source
 
-Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), §2.2, §5.3, Thm 1 (eqs. 14–15), Lemma 2, eq. 25, as read in [NOTE-753](../notes.d/NOTE-753.md). Jorgensen & Tian, [LIT-259](../literature.d/LIT-259.md), Remark 1.34, Cor. 1.35, Ex. 4.28. Supporting: Kornblith et al. (2019), [LIT-254](../literature.d/LIT-254.md), as read in [NOTE-743](../notes.d/NOTE-743.md): App. D.2 (the Procrustes optimum is ‖YᵀX‖_*) and §2.2 (an argument, not a theorem, for orthogonal invariance); the GNS statement, [LIT-241](../literature.d/LIT-241.md).
+Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), §2.2, §5.3, Thm 1 (eqs. 14–15), Lemma 2, eq. 25, as read in [NOTE-753](../notes.d/NOTE-753.md). Jorgensen & Tian, [LIT-259](../literature.d/LIT-259.md), Remark 1.34, Cor. 1.35, Ex. 4.28. Supporting: Kornblith et al. (2019), [LIT-254](../literature.d/LIT-254.md), as read in [NOTE-743](../notes.d/NOTE-743.md): App. D.2 (the Procrustes optimum is ‖YᵀX‖_*) and §2.2 (an argument, not a theorem, for orthogonal invariance); the C*-algebraic GNS statement, [LIT-241](../literature.d/LIT-241.md), of which [LIT-259](../literature.d/LIT-259.md)'s kernel form is the analogue; the article says nothing about kernels, real scalars or orthogonal maps.
 
 ## What was actually shown
 
