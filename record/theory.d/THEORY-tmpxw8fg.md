@@ -24,6 +24,7 @@ summary: >-
   practice, and they do not cover contained (partial) rewritings.
 supports:
 - CLAIM-303
+- CLAIM-tmpze74h
 ---
 <!-- inactive-ok-file: LIT-tmpkq8zv LIT-tmpu418n CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 

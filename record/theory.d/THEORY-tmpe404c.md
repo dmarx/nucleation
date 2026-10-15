@@ -19,6 +19,8 @@ summary: >-
   does not state that containment or equivalence is NP-complete; those are
   corollaries later work attributes to it. Nothing here reaches queries
   with equality, comparisons, negation or union.
+supports:
+- CLAIM-tmpze74h
 ---
 <!-- inactive-ok-file: LIT-tmp3l2ha LIT-tmpu418n CLAIM-303 CLAIM-308 — read the same day or Proposed; named as works and claims this account bears on, not leaned on -->
 

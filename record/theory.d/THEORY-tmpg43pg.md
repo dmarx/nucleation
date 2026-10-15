@@ -30,6 +30,8 @@ summary: >-
   data. Proposed because the last two parts rest on the survey's account.
   None of it prices recognition for definitions outside conjunctive queries
   and datalog, or says how costly recognition is on typical queries.
+supports:
+- CLAIM-tmpze74h
 ---
 <!-- inactive-ok-file: LIT-tmp3l2ha LIT-tmpkq8zv CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 
