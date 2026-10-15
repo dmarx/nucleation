@@ -19,6 +19,7 @@ grounds:
 complements:
 - CLAIM-037
 - CLAIM-038
+- CLAIM-tmpjmtw0
 uses:
 - TERM-042
 summary: >-
@@ -29,6 +30,7 @@ summary: >-
   version 2 restates to agree with it.
 illustrated_by:
 - CASE-037
+- CASE-tmpjgubn
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-171 — Proposed; the non-gluing of causal scenarios, cited for the limit it sets on this claim, not as settled -->

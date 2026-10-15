@@ -19,8 +19,9 @@ summary: >-
   distributed cognition ([LIT-1060](../literature.d/LIT-1060.md), unread) is the tradition that asks this.
 answered_by:
 - CLAIM-296
+- THEORY-tmpp4dqy
 ---
-<!-- inactive-ok-file: LIT-1060 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited for what it would be read for, not leaned on -->
 
 # QUESTION-101: When does whether a resource is available for an action depend on the organization of an agent–environment system rather than on what any one member knows or can do?
 

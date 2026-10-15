@@ -23,6 +23,8 @@ answers:
 - QUESTION-105
 grounds:
 - CASE-093
+- THEORY-tmpl85iv
+- THEORY-tmpr0fcd
 summary: >-
   A5's central claim, made exact by A8's construction ([CASE-093](../cases.d/CASE-093.md)) and checked
   here. Two joint distributions over a hypothesis H and a condition C share P(H)

@@ -87,6 +87,9 @@ vocabularies:
       information-retrieval:
         label: Information retrieval
         blurb: 'finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval'
+      databases:
+        label: Databases and data structures
+        blurb: 'how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045)'
       design-rationale:
         label: Design rationale
         blurb: 'recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030)'
@@ -1012,6 +1015,22 @@ schemes:
         required: false
         many: true
         converse: complements
+      corroborates:
+        label: Corroborates
+        blurb: a claim of the record's own that this one gives independent evidence for, without that
+          claim depending on it. If this one is retired, the other loses support, not its footing. Not
+          walked by the `argument` chain or by retraction; a dependency is `rests_on` (ADR-044)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: corroborated_by
+      corroborated_by:
+        label: Corroborated by
+        blurb: the converse of `corroborates`, written by `luria link --fix`.
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: corroborates
       uses:
         label: Uses the term
         blurb: the TERM this claim is stated in, so that a term's revision finds the claims built on it

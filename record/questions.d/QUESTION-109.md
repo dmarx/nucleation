@@ -17,8 +17,10 @@ summary: >-
   sees depend on where it started.
 refined_by:
 - QUESTION-107
+answered_by:
+- THEORY-tmp9h2k0
 ---
-<!-- inactive-ok-file: LIT-1078 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited for what it would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-109: When does cue-dependent retrieval make bounded reasoning better, and when does it produce anchoring, path dependence or entrenchment?

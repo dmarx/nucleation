@@ -25,6 +25,9 @@ answers:
 - QUESTION-101
 uses:
 - TERM-055
+grounds:
+- THEORY-tmpp4dqy
+- THEORY-tmpkxugz
 summary: >-
   A18's first candidate, from the owner's EMT case ([CASE-085](../cases.d/CASE-085.md)): the drug was
   stocked, the EMT knew it, and it could not be found before the medic moved on.
@@ -33,8 +36,13 @@ summary: >-
   under a different request may retrieve it.
 illustrated_by:
 - CASE-085
+- CASE-tmpd5exw
+complements:
+- CLAIM-tmp3ejtf
+corroborated_by:
+- CLAIM-tmpjmtw0
 ---
-<!-- inactive-ok-file: LIT-1060 LIT-1065 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 
 # CLAIM-296: What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
 
