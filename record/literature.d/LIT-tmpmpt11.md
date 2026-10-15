@@ -1,26 +1,53 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered 2026-10-15 at the owner's request, one of 22 works at the
-  intersection of database theory and semantic search; not read yet.
-title: 'Semantic Data Caching and Replacement'
+  read in full 2026-10-15 from the VLDB Endowment's copy of the proceedings paper
+  (www.vldb.org/conf/1996/P330.PDF, pp. 330–341, a scan with an OCR layer; tables,
+  formulas and figures read from page images). Worth reading as the source of semantic
+  caching: a cache described by the predicates of past queries answers a new selection
+  query partly from storage (probe, Q ∧ V) and fetches only the remainder (Q ∧ ¬V),
+  and evicts whole query-shaped regions ranked by recency or by distance from the
+  current query ([THEORY-tmpgvxim](../theory.d/THEORY-tmpgvxim.md), [THEORY-tmpghhhx](../theory.d/THEORY-tmpghhhx.md)). All results are from one simulator
+  with one client, one server, read-only selection queries on one relation, and
+  no charge for reasoning about the cache. For [CLAIM-303](../claims.d/CLAIM-303.md) it shows that reuse of
+  a stored answer can be partial, with savings set by the overlap with the new question,
+  and that the access term c_a takes the form of a containment test the paper does
+  not cost; it says nothing on staleness. For [CLAIM-308](../claims.d/CLAIM-308.md) and [THEORY-348](../theory.d/THEORY-348.md) its replacement
+  rules are forecasts, not break-even rules, and none dominates: distance beat LRU
+  where queries had semantic locality, MRU beat both on regular cycles, and no rule
+  weighs refetch cost.
+title: Semantic Data Caching and Replacement
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
   note: >-
-    Filed, not read. Citation checked on 2026-10-15: VLDB 1996. Not in Crossref (VLDB 1996 has no DOIs); the VLDB Endowment's copy is the source. VLDB 1996 opened in Bombay on 3 September 1996, which `published:` uses. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for the title and authors found nothing.
+    Filed, not read. Citation checked on 2026-10-15: VLDB 1996. Not in Crossref
+    (VLDB 1996 has no DOIs); the VLDB Endowment's copy is the source. VLDB 1996
+    opened in Bombay on 3 September 1996, which `published:` uses. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2)
+    for the title and authors found nothing. Read the same day (NOTE-tmp256om).
 tags:
 - databases
 - information-retrieval
 date: '2026-10-15'
 published: '1996-09-03'
-url: 'https://www.vldb.org/conf/1996/P330.PDF'
+url: https://www.vldb.org/conf/1996/P330.PDF
 first_author: Dar
 keywords: []
 implementations: []
 summary: >-
-  Dar et al. (1996), VLDB 1996. Not read yet.
+  Dar et al. (1996), VLDB 1996. A client cache described by the selection predicates
+  of past queries can answer a new selection query partly from cache (the probe
+  query, Q ∧ V) and fetch only the rest from the server (the remainder query, Q
+  ∧ ¬V), and can evict by semantic region rather than by page or tuple. In one simulator,
+  one client and one server, read-only selection queries on a single 10,000-tuple
+  relation, this matched page caching on a clustered index, beat it heavily when
+  clustering was bad, answered over 60% of small queries on an unindexed attribute
+  with no server contact, and let a value function based on semantic distance beat
+  LRU on a skewed workload. No replacement rule won everywhere: on regular cyclic
+  paths MRU was best. Everything is measured, nothing is proved; updates, joins,
+  and the CPU cost of reasoning about cache contents were not modelled.
 ---
 
 # LIT-tmpmpt11: Semantic Data Caching and Replacement
@@ -29,8 +56,8 @@ Dar, S., Franklin, M. J., Jónsson, B. Þ., Srivastava, D. and Tan, M. (1996). S
 
 ## Key takeaways
 
-Not read yet.
+Read in full ([NOTE-tmp256om](../notes.d/NOTE-tmp256om.md)). A client cache described by the selection predicates of past queries can answer a new selection query partly from cache (the probe query, Q ∧ V) and fetch only the rest from the server (the remainder query, Q ∧ ¬V), and can evict by semantic region rather than by page or tuple. In one simulator, one client and one server, read-only selection queries on a single 10,000-tuple relation, this matched page caching on a clustered index, beat it heavily when clustering was bad, answered over 60% of small queries on an unindexed attribute with no server contact, and let a value function based on semantic distance beat LRU on a skewed workload. No replacement rule won everywhere: on regular cyclic paths MRU was best. Everything is measured, nothing is proved; updates, joins, and the CPU cost of reasoning about cache contents were not modelled.
 
 ## Why this is here
 
-[CLAIM-303](../claims.d/CLAIM-303.md): a cache keyed by the predicates of past queries, answering a new query partly from cache with a remainder query. The database form of partial reuse of a filed argument.
+[CLAIM-303](../claims.d/CLAIM-303.md): a cache keyed by the predicates of past queries answers a new query partly from cache and sends only the remainder to the server. Partial reuse depends on stored answers carrying a description in the same language as the questions, which a filed argument lacks. Simulation only.

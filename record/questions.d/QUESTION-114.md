@@ -34,6 +34,19 @@ answered_by:
 - THEORY-348
 - THEORY-350
 - THEORY-356
+- THEORY-tmp3ren6
+- THEORY-tmp4ezx1
+- THEORY-tmp4zwbu
+- THEORY-tmpc74vc
+- THEORY-tmpehk94
+- THEORY-tmpg43pg
+- THEORY-tmph9339
+- THEORY-tmphvzb7
+- THEORY-tmpnbhb3
+- THEORY-tmpqvlyg
+- THEORY-tmprwm4f
+- THEORY-tmpsvwtz
+- THEORY-tmpxw8fg
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; open claims cited as open, nothing here rests on their being settled -->
 
@@ -284,3 +297,57 @@ pop-out are all outside it. An unsorted pile, one labelled bin per kind,
 and a tray of new bricks left to sort later map onto its three extreme
 designs. Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
 The learned-index line (Kraska et al. 2018) belongs in the anthology.
+
+## Database theory and semantic search, read 2026-10-15
+
+At the owner's request, 23 works at the intersection of database theory
+and similarity search were registered and read (two Unavailable). What
+they give the question, by the gap each was chosen for:
+
+**Staleness, priced.** Cho and Garcia-Molina 2000 ([LIT-tmpxjwsp](../literature.d/LIT-tmpxjwsp.md), [NOTE-tmp4d27w](../notes.d/NOTE-tmp4d27w.md)) is the
+first reading that prices staleness instead of forbidding it: freshness
+or age of a local copy under a fixed refresh budget, with Poisson changes
+at known rates. Uniform refresh beats refresh in proportion to change
+rate, and the optimum is neither; items that change too fast get no
+refresh ([THEORY-tmphvzb7](../theory.d/THEORY-tmphvzb7.md)). Staleness is the objective, not a cost weighed against
+reads or build. Olston, Loo and Widom 2001 ([LIT-tmpgbn1t](../literature.d/LIT-tmpgbn1t.md), [NOTE-tmparaq2](../notes.d/NOTE-tmparaq2.md)) put upkeep and
+tolerated imprecision in one objective with an optimum between them
+([THEORY-tmpsvwtz](../theory.d/THEORY-tmpsvwtz.md)), but staleness there is message traffic, and a source must see
+every change. Olston and Widom 2000 ([LIT-tmpuohnv](../literature.d/LIT-tmpuohnv.md), [NOTE-tmpxqtc4](../notes.d/NOTE-tmpxqtc4.md)) make it a hard bound per
+query ([THEORY-tmp4ezx1](../theory.d/THEORY-tmp4ezx1.md)). The journal paper of Cho and Garcia-Molina ([LIT-tmp580ot](../literature.d/LIT-tmp580ot.md)) is
+Unavailable.
+
+**Not the joint model.** Labrinidis and Roussopoulos 2003 ([LIT-tmp9g81t](../literature.d/LIT-tmp9g81t.md), [NOTE-tmpam1do](../notes.d/NOTE-tmpam1do.md)),
+named as the nearest candidate, puts query savings, upkeep and measured
+staleness on one online schedule, but staleness is a threshold, not a
+price, and there is no build cost and no guarantee ([THEORY-tmpqvlyg](../theory.d/THEORY-tmpqvlyg.md)). It
+complements [THEORY-332](../theory.d/THEORY-332.md) rather than beating it. Their 2000 paper
+([LIT-tmpv6qcw](../literature.d/LIT-tmpv6qcw.md), [NOTE-tmp6f7qy](../notes.d/NOTE-tmp6f7qy.md)) forbids staleness, and on its testbed a stored result lost to
+recomputing because reading it cost as much as rebuilding it ([THEORY-tmprwm4f](../theory.d/THEORY-tmprwm4f.md)).
+The question stays Open: no reading prices build, upkeep, staleness and
+savings together.
+
+**Recognition is a cost.** Every stored-answer model above assumes that
+knowing a stored answer serves a new query is free. Levy, Mendelzon,
+Sagiv and Srivastava 1995 ([LIT-tmp3l2ha](../literature.d/LIT-tmp3l2ha.md), [NOTE-tmp7vihx](../notes.d/NOTE-tmp7vihx.md)), Chandra and Merlin 1977
+([LIT-tmpkq8zv](../literature.d/LIT-tmpkq8zv.md), [NOTE-tmp5wypo](../notes.d/NOTE-tmp5wypo.md)) and Halevy's survey ([LIT-tmpu418n](../literature.d/LIT-tmpu418n.md), [NOTE-tmpxpujb](../notes.d/NOTE-tmpxpujb.md)) show it is not: certifying an
+exact rewriting with views is NP-complete for conjunctive queries, in the
+size of the definitions, not the data ([THEORY-tmpxw8fg](../theory.d/THEORY-tmpxw8fg.md), [THEORY-tmpe404c](../theory.d/THEORY-tmpe404c.md), [THEORY-tmpg43pg](../theory.d/THEORY-tmpg43pg.md)), while
+a maximally contained rewriting is polynomial. A joint model would need a
+recognition term. Dar et al. 1996 ([LIT-tmpmpt11](../literature.d/LIT-tmpmpt11.md), [NOTE-tmp256om](../notes.d/NOTE-tmp256om.md)) show partial reuse by
+remainder queries in simulation, and no eviction rule won everywhere
+([THEORY-tmpgvxim](../theory.d/THEORY-tmpgvxim.md), [THEORY-tmpghhhx](../theory.d/THEORY-tmpghhhx.md)).
+
+**Organizing for similarity.** Andoni, Laarhoven, Razenshteyn and
+Waingarten 2017 ([LIT-tmpxroug](../literature.d/LIT-tmpxroug.md), [NOTE-tmptdi3z](../notes.d/NOTE-tmptdi3z.md)) give the exact curve between space spent
+organizing and query time for hashing-based approximate search
+([THEORY-tmpehk94](../theory.d/THEORY-tmpehk94.md)), building on Indyk and Motwani 1998 ([LIT-tmpa1ovj](../literature.d/LIT-tmpa1ovj.md), [NOTE-tmp3up5l](../notes.d/NOTE-tmp3up5l.md), [THEORY-tmpvi601](../theory.d/THEORY-tmpvi601.md)), with
+cell-probe floors from Panigrahy, Talwar and Wieder 2010 ([LIT-tmp7a48f](../literature.d/LIT-tmp7a48f.md), [NOTE-tmpc6udp](../notes.d/NOTE-tmpc6udp.md),
+[THEORY-tmpnbhb3](../theory.d/THEORY-tmpnbhb3.md)): the similarity counterpart of [THEORY-340](../theory.d/THEORY-340.md). Where organizing stops
+paying is in Weber, Schek and Blott 1998 ([LIT-tmpb8ql6](../literature.d/LIT-tmpb8ql6.md), [NOTE-tmpvtj3f](../notes.d/NOTE-tmpvtj3f.md), [THEORY-tmpc74vc](../theory.d/THEORY-tmpc74vc.md)) and Beyer
+et al. 1999 ([LIT-tmp0cvca](../literature.d/LIT-tmp0cvca.md), [NOTE-tmps473y](../notes.d/NOTE-tmps473y.md), [THEORY-tmpazpbe](../theory.d/THEORY-tmpazpbe.md)). Graph indexes are guaranteed only for a
+cubic-time build (Indyk and Xu 2023, [LIT-tmpllfsb](../literature.d/LIT-tmpllfsb.md), [NOTE-tmpak6ah](../notes.d/NOTE-tmpak6ah.md), [THEORY-tmpry4qh](../theory.d/THEORY-tmpry4qh.md)); HNSW's
+logarithmic search is measured, not proved ([LIT-tmp08vve](../literature.d/LIT-tmp08vve.md), [NOTE-tmpkpp45](../notes.d/NOTE-tmpkpp45.md), [THEORY-tmp4zwbu](../theory.d/THEORY-tmp4zwbu.md)).
+Fagin, Lotem and Naor ([LIT-tmpqp9aa](../literature.d/LIT-tmpqp9aa.md), [NOTE-tmpzuj15](../notes.d/NOTE-tmpzuj15.md)) price a conjunctive query over
+feature-sorted lists ([THEORY-tmp3ren6](../theory.d/THEORY-tmp3ren6.md), [THEORY-tmp095vr](../theory.d/THEORY-tmp095vr.md)); Fagin 1996 ([LIT-tmpem2ov](../literature.d/LIT-tmpem2ov.md)) is
+Unavailable.

@@ -1,27 +1,58 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  registered 2026-10-15 at the owner's request, one of 22 works at the
-  intersection of database theory and semantic search; not read yet.
+  read in full 2026-10-15 from the authors' expanded "preliminary version" of December
+  30, 1999, served from Indyk's MIT directory (people.csail.mit.edu/indyk/nndraft.ps),
+  with its statements compared against the STOC 1998 printed text (pp. 604–613)
+  as posted on a Princeton course page (cs.princeton.edu/courses/archive/spr04/cos598B/bib/IndykM-curse.pdf);
+  the ACM copy refused requests and Unpaywall and OpenAlex list no open copy. The
+  2012 Theory of Computing journal version (with Har-Peled) was not read. Worth
+  reading as the origin of locality-sensitive hashing and of the reduction from
+  approximate nearest neighbour to its decision version: hash functions that make
+  near pairs collide more often than far ones give n^ρ tables, O(dn + n^{1+ρ}) space
+  and O(n^ρ) hash evaluations per query, ρ = ln(1/p1)/ln(1/p2), which for Hamming
+  bit sampling is at most 1/(1+ε) in the 1999 text (1/ε, for ε > 1, in STOC), with
+  constant success probability; bucketing gives Õ(d) queries for n·O(1/ε)^d preprocessing.
+  Upper bounds only, approximate only, and preprocessing is counted as space. For
+  [QUESTION-114](../questions.d/QUESTION-114.md) it is the first price list for organizing a collection for similarity
+  queries, space paid once against hash evaluations per query, with no amortization
+  over queries and no workload; for [CLAIM-310](../claims.d/CLAIM-310.md) it shows the single-arrangement constraint
+  escaped by keeping many random partitions and storing every point in each, paid
+  for in space; it neither extends nor narrows [THEORY-340](../theory.d/THEORY-340.md) and has no bearing on
+  [THEORY-345](../theory.d/THEORY-345.md) or [CLAIM-309](../claims.d/CLAIM-309.md).
 title: 'Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality'
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
   note: >-
-    Filed, not read. Citation checked on 2026-10-15: STOC 1998. Crossref gives 1998 for the item and 24 May 1998 as the symposium's start, which `published:` uses. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for the title and authors found nothing.
+    Filed, not read. Citation checked on 2026-10-15: STOC 1998. Crossref gives 1998
+    for the item and 24 May 1998 as the symposium's start, which `published:` uses.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15,
+    commit d1573d2) for the title and authors found nothing. Read the same day (NOTE-tmp3up5l).
 tags:
 - databases
 - information-retrieval
 - mathematics
 date: '2026-10-15'
 published: '1998-05-24'
-doi: '10.1145/276698.276876'
+doi: 10.1145/276698.276876
 first_author: Indyk
 keywords: []
 implementations: []
 summary: >-
-  Indyk and Motwani (1998), STOC 1998. Not read yet.
+  Indyk and Motwani (1998), STOC 1998. Approximate nearest-neighbour search in d
+  dimensions reduces, with small overhead, to a decision problem (is there a point
+  within r, or none within (1+ε)r), and that decision problem is solved by locality-sensitive
+  hashing: if hash functions make near pairs collide with probability at least p1
+  and far pairs with at most p2, then n^ρ random hash tables with ρ = ln(1/p1)/ln(1/p2)
+  answer queries with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, with constant
+  success probability. For Hamming space by bit sampling, and for ℓ_p with p in
+  [1, 2] by embedding, ρ ≤ 1/(1+ε) in the 1999 text (1/ε, for ε > 1, in STOC). The
+  paper also gives the other end of the trade: Õ(d) query time for n·O(1/ε)^d or
+  (nd)^{O(1)} preprocessing. It is an upper bound only: it proves no lower bound,
+  does not claim its exponents are best, solves only the approximate problem with
+  constant probability, and counts preprocessing as space.
 ---
 
 # LIT-tmpa1ovj: Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality
@@ -30,8 +61,8 @@ Indyk, P. and Motwani, R. (1998). Approximate nearest neighbors: towards removin
 
 ## Key takeaways
 
-Not read yet.
+Read in full ([NOTE-tmp3up5l](../notes.d/NOTE-tmp3up5l.md)). Approximate nearest-neighbour search in d dimensions reduces, with small overhead, to a decision problem (is there a point within r, or none within (1+ε)r), and that decision problem is solved by locality-sensitive hashing: if hash functions make near pairs collide with probability at least p1 and far pairs with at most p2, then n^ρ random hash tables with ρ = ln(1/p1)/ln(1/p2) answer queries with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, with constant success probability. For Hamming space by bit sampling, and for ℓ_p with p in [1, 2] by embedding, ρ ≤ 1/(1+ε) in the 1999 text (1/ε, for ε > 1, in STOC). The paper also gives the other end of the trade: Õ(d) query time for n·O(1/ε)^d or (nd)^{O(1)} preprocessing. It is an upper bound only: it proves no lower bound, does not claim its exponents are best, solves only the approximate problem with constant probability, and counts preprocessing as space.
 
 ## Why this is here
 
-[QUESTION-114](../questions.d/QUESTION-114.md): locality-sensitive hashing, the first organization for similarity queries with sublinear query time in high dimension, paid for in preprocessing and space.
+[QUESTION-114](../questions.d/QUESTION-114.md): locality-sensitive hashing, the first organization for similarity queries with sublinear query time in high dimension, paid for in space. The STOC text claims sublinear queries only for approximation factors above 2; the authors' later draft improves the exponent.

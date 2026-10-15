@@ -24,6 +24,9 @@ answered_by:
 - CLAIM-294
 - THEORY-347
 - THEORY-353
+- THEORY-tmp2ber8
+- THEORY-tmpeqxfa
+- THEORY-tmptzp8y
 ---
 
 # QUESTION-105: What is the least an evolving inquiry must retain to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?
@@ -61,3 +64,18 @@ are what this question asks about, and both results concern single
 revisions. For iterated revision Hansson reports that "opinions differ
 widely". The structures the question names are nearer to Doyle's truth
 maintenance systems, which the survey mentions only historically.
+
+**Database readings, 2026-10-15.** Three readings answer the question for
+revisions given as changes to base facts under a fixed program. For
+acyclic support, one count of derivations per conclusion suffices
+(Gupta, Mumick and Subrahmanian 1993, [LIT-tmpoi6js](../literature.d/LIT-tmpoi6js.md), [NOTE-tmpgv5ap](../notes.d/NOTE-tmpgv5ap.md), [THEORY-tmp2ber8](../theory.d/THEORY-tmp2ber8.md)); for cyclic
+support, nothing beyond base, rules and stored results is kept, and
+support is rechecked at revision time ([THEORY-tmptzp8y](../theory.d/THEORY-tmptzp8y.md)). Provenance polynomials
+(Green, Karvounarakis and Tannen 2007, [LIT-tmpjckak](../literature.d/LIT-tmpjckak.md), [NOTE-tmpc5ict](../notes.d/NOTE-tmpc5ict.md)) suffice for every
+revision that re-scores existing inputs in a commutative semiring, for
+positive queries ([THEORY-tmpeqxfa](../theory.d/THEORY-tmpeqxfa.md), [THEORY-tmplwy86](../theory.d/THEORY-tmplwy86.md)); why-provenance as a witness basis
+(Buneman, Khanna and Tan 2001, [LIT-tmp8m5l3](../literature.d/LIT-tmp8m5l3.md), [NOTE-tmpxim6c](../notes.d/NOTE-tmpxim6c.md), [THEORY-tmpbyiv8](../theory.d/THEORY-tmpbyiv8.md)) keeps one witness per
+derivation. None covers added facts, defeat or contraction, and none
+proves minimality, so the question's optimum is still open. The
+retained structures are provenance and dependencies, not defeated
+alternatives.
