@@ -2,7 +2,8 @@
 status: Open
 title: Is sorting a collection amortized search, and does physical database design,
   where a table is stored in one order and every further index is paid for in space
-  and upkeep, give QUESTION-095 the joint cost model it lacks?
+  and upkeep, give the joint cost
+  model that the question on amortized retrieval lacks?
 version: 1
 tags:
 - information-retrieval
@@ -23,7 +24,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-tmp6u639 CLAIM-tmpjmtw0 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
-# QUESTION-tmplg07t: Is sorting a collection amortized search, and does physical database design, where a table is stored in one order and every further index is paid for in space and upkeep, give [QUESTION-095](QUESTION-095.md) the joint cost model it lacks?
+# QUESTION-tmplg07t: Is sorting a collection amortized search, and does physical database design, where a table is stored in one order and every further index is paid for in space and upkeep, give the joint cost model that the question on amortized retrieval lacks?
 
 ## Why it is a question
 

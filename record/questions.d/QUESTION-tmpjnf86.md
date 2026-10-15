@@ -19,7 +19,6 @@ summary: >-
   built on it and kept the observation as measurable, and [CLAIM-164](../claims.d/CLAIM-164.md) says what a
   persistent spectral mode picks out. This asks how the three relate.
 ---
-<!-- inactive-ok-file: CLAIM-tmp6u639 — new; the claim this question builds on -->
 
 # QUESTION-tmpjnf86: When a system names a category, which criterion is it meeting: that the data supports the distinction, that a deadline forces it, or that it survives refinement and compression, and do the three ever pick the same categories?
 
