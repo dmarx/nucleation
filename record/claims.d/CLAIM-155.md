@@ -77,7 +77,7 @@ individuation half to willed agents.
 
 A will-organization gives a system standards that decide among its own
 regimes, and with them the persistence of that governance through changes
-in what drives ([CLAIM-166](CLAIM-166.md)). That is near [ADR-024](../decisions.d/ADR-024.md)'s self-governance
+in what drives ([CLAIM-tmp2gewd](CLAIM-tmp2gewd.md)). That is near [ADR-024](../decisions.d/ADR-024.md)'s self-governance
 unity ([TERM-045](../terms.d/TERM-045.md) sense 5) and supports persistence (sense 3). It gives
 no point of view (sense 1). That is why the firm is the hard case: it may be
 willed and self-governing without being a subject. And it is why the

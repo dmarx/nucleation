@@ -68,7 +68,7 @@ condition tests it.
 
 - **What a rendering makes possible** is the best risk over all decision
   rules that read it. Blackwell's order compares renderings by this
-  ([THEORY-156](../theory.d/THEORY-156.md)), and by it a garbling is never better ([CLAIM-259](CLAIM-259.md), step
+  ([THEORY-156](../theory.d/THEORY-156.md)), and by it a garbling is never better ([CLAIM-tmpz6mng](CLAIM-tmpz6mng.md), step
   (a)).
 - **What a receiver can use** is the best risk over the rules in a class
   the receiver can apply. [TERM-034](../terms.d/TERM-034.md) makes fidelity "relative to an

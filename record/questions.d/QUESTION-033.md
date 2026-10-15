@@ -42,7 +42,7 @@ higher level can constrain its parts, the parts can produce the higher
 level, both can happen, or the dynamics can live at the higher level with no
 part in charge.
 
-The owner's framing ([CLAIM-158](../claims.d/CLAIM-158.md), [CLAIM-166](../claims.d/CLAIM-166.md)): "who drives" may or
+The owner's framing ([CLAIM-158](../claims.d/CLAIM-158.md), [CLAIM-tmp2gewd](../claims.d/CLAIM-tmp2gewd.md)): "who drives" may or
 may not have an answer with respect to a particular level of description.
 The kinds form a spectrum, and the answer is not constant.
 
