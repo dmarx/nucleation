@@ -39,12 +39,12 @@ and so that agreement under feasible tests does not imply identity of
 the distributions. A15: "This is conditional on the existence of a
 secure generator, not an unconditional theorem that a specific practical
 generator is secure." The conditional attaches to this samplable witness;
-the separation itself holds unconditionally (CLAIM-tmpvdl53).
+the separation itself holds unconditionally ([CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md)).
 
 ## What the source says (note of 2026-10-15)
 
 Read against Goldreich's 1995 draft of *Foundations of Cryptography*
-(LIT-tmpfy61e): the indistinguishability and generator definitions are its
+([LIT-tmpfy61e](../literature.d/LIT-tmpfy61e.md)): the indistinguishability and generator definitions are its
 Definitions 3.2 and 3.9 (with l(n) = 2n). Three qualifications.
 
 - **The objects are ensembles**, indexed by n. "Negligible" has no meaning

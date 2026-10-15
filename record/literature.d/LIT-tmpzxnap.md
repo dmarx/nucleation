@@ -21,7 +21,7 @@ status_note: >-
   Cologne, Würzburg), no course-hosted copy and no preprint. A ResearchGate entry
   (publication 253136010) advertises a full text, but ResearchGate refused the request
   (403) and who uploaded it could not be confirmed, so it was not used. The 1997
-  companion paper (LIT-tmpkn9x0) and the later "Comparing is believing" review (European
+  companion paper ([LIT-tmpkn9x0](LIT-tmpkn9x0.md)) and the later "Comparing is believing" review (European
   Review of Social Psychology 10, 1999) are different works.
 title: 'Hypothesis-Consistent Testing and Semantic Priming in the Anchoring Paradigm:
   A Selective Accessibility Model'

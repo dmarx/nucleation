@@ -32,7 +32,7 @@ status_note: >-
   uses the term query drift and places its cause in blind (pseudo-relevance) expansion;
   that the mechanism is non-relevant documents in the top-ranked feedback set, the
   collections used and the sizes of the gains are not confirmed and need the full
-  text. Nothing seen contradicts the entry's summary or what TERM-tmpywff6 and CLAIM-tmps7uw8
+  text. Nothing seen contradicts the entry's summary or what [TERM-tmpywff6](../terms.d/TERM-tmpywff6.md) and [CLAIM-tmps7uw8](../claims.d/CLAIM-tmps7uw8.md)
   cite it for: query drift with the information need held fixed.
 title: Improving automatic query expansion
 version: 1

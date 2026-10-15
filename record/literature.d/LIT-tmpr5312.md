@@ -8,10 +8,10 @@ status_note: >-
   base is not its closure: two bases with the same consequences are "statically
   equivalent" but not "dynamically equivalent", bases escape the Recovery postulate,
   and they keep inconsistent states apart where every closed set collapses to one.
-  For QUESTION-tmpga1fv and CLAIM-tmp2rwpl it shows the full-belief form of the
+  For [QUESTION-tmpga1fv](../questions.d/QUESTION-tmpga1fv.md) and [CLAIM-tmp2rwpl](../claims.d/CLAIM-tmp2rwpl.md) it shows the full-belief form of the
   claim that current conclusions are not a sufficient state for revision (the Abe
   and Bob example), and also that belief-set models carry the missing difference
-  in a selection mechanism or entrenchment ordering instead of a base; for CLAIM-tmp7t44x
+  in a selection mechanism or entrenchment ordering instead of a base; for [CLAIM-tmp7t44x](../claims.d/CLAIM-tmp7t44x.md)
   its bases widen the operations that stay well defined but record only which beliefs
   are basic, not reasons, sources or defeated alternatives. Truth maintenance appears
   once, as history. The phrases "between belief states represented as closed sets"
@@ -53,18 +53,18 @@ Hansson, S. O. (2006, substantively revised 29 July 2026). Logic of Belief Revis
 
 ## Key takeaways
 
-Read in full (NOTE-tmp689da). The entry separates two ways of representing what an agent believes: a logically closed belief set, and a belief base whose elements are the beliefs "held independently of any other belief", with everything else "merely derived". Two bases with the same closure can respond differently to the same input (its Abe and Bob example), so the closure is not a sufficient state for revision; belief-set models recover the difference only by attaching a different selection mechanism to the same set. Bases avoid the Recovery postulate, keep distinct inconsistent states apart, and permit operations (external revision, semi-revision by consolidation) that collapse on closed sets. The entry does not discuss keeping reasons, sources or justification records: its only mention of truth maintenance systems is historical, and a base records which beliefs are basic, not why they are held. Iterated revision is treated as an open area in which most proposals carry an ordering of worlds or an entrenchment relation as the state, not a base.
+Read in full ([NOTE-tmp689da](../notes.d/NOTE-tmp689da.md)). The entry separates two ways of representing what an agent believes: a logically closed belief set, and a belief base whose elements are the beliefs "held independently of any other belief", with everything else "merely derived". Two bases with the same closure can respond differently to the same input (its Abe and Bob example), so the closure is not a sufficient state for revision; belief-set models recover the difference only by attaching a different selection mechanism to the same set. Bases avoid the Recovery postulate, keep distinct inconsistent states apart, and permit operations (external revision, semi-revision by consolidation) that collapse on closed sets. The entry does not discuss keeping reasons, sources or justification records: its only mention of truth maintenance systems is historical, and a base records which beliefs are basic, not why they are held. Iterated revision is treated as an open area in which most proposals carry an ordering of worlds or an entrenchment relation as the state, not a base.
 
 ## Why this is here
 
 A10 cited this entry for the distinction between closed belief sets and
 belief bases. The phrases first quoted here as the entry's ("closed sets",
 "retaining additional structure") are A10's paraphrase and do not occur in
-the revision of 29 July 2026 (NOTE-tmp689da). The entry's own terms are
+the revision of 29 July 2026 ([NOTE-tmp689da](../notes.d/NOTE-tmp689da.md)). The entry's own terms are
 "statically" versus "dynamically equivalent", and beliefs "held
 independently" versus "merely derived". Its Abe-and-Bob example is the
-full-belief analogue of CLAIM-tmp2rwpl: same beliefs, opposite revisions.
-It also narrows QUESTION-tmpga1fv. A base records only which beliefs are
+full-belief analogue of [CLAIM-tmp2rwpl](../claims.d/CLAIM-tmp2rwpl.md): same beliefs, opposite revisions.
+It also narrows [QUESTION-tmpga1fv](../questions.d/QUESTION-tmpga1fv.md). A base records only which beliefs are
 basic, not provenance, dependencies or defeated alternatives, and the same
 revision behaviour can be carried instead by an ordering attached to the
 closed set.

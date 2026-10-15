@@ -48,9 +48,9 @@ missing crucial information. Either outcome would advance the theory."
 The belief-revision literature has a one-step answer for full belief, and
 it narrows the question rather than starting it. A closed belief set does
 not fix its own revision: AGM adds a selection function or ordering
-(LIT-tmp0f102, read in NOTE-tmpo6kr8), and Hansson's survey shows two bases
-with the same closure revising to opposite conclusions (LIT-tmpr5312, read
-in NOTE-tmp689da). Two retained states do the job there, a base marking
+([LIT-tmp0f102](../literature.d/LIT-tmp0f102.md), read in [NOTE-tmpo6kr8](../notes.d/NOTE-tmpo6kr8.md)), and Hansson's survey shows two bases
+with the same closure revising to opposite conclusions ([LIT-tmpr5312](../literature.d/LIT-tmpr5312.md), read
+in [NOTE-tmp689da](../notes.d/NOTE-tmp689da.md)). Two retained states do the job there, a base marking
 which beliefs are held in their own right, or an ordering on the closed
 set. Neither is provenance, dependencies or defeated alternatives, which
 are what this question asks about, and both results concern single

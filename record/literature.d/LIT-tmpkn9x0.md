@@ -15,13 +15,13 @@ status_note: >-
   on the dimension compared, or on another one (Study 1). Representativeness came
   from the object: the estimate was about the same object, or about a very different
   one, where the effect turned to contrast (Study 2). With plausible anchors the
-  comparison was slower and the later estimate faster (Study 3). For CLAIM-tmp9snb1
+  comparison was slower and the later estimate faster (Study 3). For [CLAIM-tmp9snb1](../claims.d/CLAIM-tmp9snb1.md)
   it argues against numeric priming of a response, and supports the claim's psychological
   form for plausible anchors. It infers accessibility rather than measuring it;
-  the direct test is in LIT-tmpzxnap. It does not rule out adjustment, and assigns
+  the direct test is in [LIT-tmpzxnap](LIT-tmpzxnap.md). It does not rule out adjustment, and assigns
   adjustment to implausible anchors, which anchored at least as strongly. Its model
   holds that accessibility does not fix the direction of the judgment, so evaluation
-  matters as well as retrieval. For QUESTION-tmpq93du it states, without testing,
+  matters as well as retrieval. For [QUESTION-tmpq93du](../questions.d/QUESTION-tmpq93du.md) it states, without testing,
   that hypothesis-consistent retrieval "improves the validity of comparative judgments
   but distorts subsequent judgments for which no specific hypothesis has been provided".
 title: 'Explaining the enigmatic anchoring effect: Mechanisms of selective accessibility'
@@ -62,7 +62,7 @@ Strack, F. and Mussweiler, T. (1997). Explaining the enigmatic anchoring effect:
 
 ## Key takeaways
 
-Read in full (NOTE-tmpqnzey). In three small between- and within-subjects studies (N = 32, 32 and 67), the anchor's effect on a later estimate depended on what the comparison task brought to mind, not on the number alone. With the anchor number held fixed, the effect was large when the estimate was on the dimension compared (Study 1). It reversed to contrast when the estimate was about a very different object (Study 2). After plausible anchors, the comparison took longer and the estimate came faster (Study 3). Accessibility is inferred from these moderations and from latencies. No study measures what knowledge was retrieved. The paper also keeps an adjustment-like route for implausible anchors, which anchored at least as strongly.
+Read in full ([NOTE-tmpqnzey](../notes.d/NOTE-tmpqnzey.md)). In three small between- and within-subjects studies (N = 32, 32 and 67), the anchor's effect on a later estimate depended on what the comparison task brought to mind, not on the number alone. With the anchor number held fixed, the effect was large when the estimate was on the dimension compared (Study 1). It reversed to contrast when the estimate was about a very different object (Study 2). After plausible anchors, the comparison took longer and the estimate came faster (Study 3). Accessibility is inferred from these moderations and from latencies. No study measures what knowledge was retrieved. The paper also keeps an adjustment-like route for implausible anchors, which anchored at least as strongly.
 
 ## Why this is here
 

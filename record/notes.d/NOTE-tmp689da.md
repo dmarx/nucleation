@@ -227,7 +227,7 @@ what a revision yields. The entry's term for this is that two bases can be
 ## Bearing on the record
 
 **The words the record attributes to the entry are not in it.** The LIT
-entry LIT-tmpr5312 says A10 cited it for the distinction "between belief
+entry [LIT-tmpr5312](../literature.d/LIT-tmpr5312.md) says A10 cited it for the distinction "between belief
 states represented as closed sets" and "belief bases retaining additional
 structure". Neither phrase occurs in the revision of 29 July 2026. They are
 A10's paraphrase, and a fair one. The entry's own words are "statically
@@ -235,7 +235,7 @@ equivalent" versus "dynamically equivalent", and beliefs "held
 independently" versus "merely derived". The LIT summary ("keep the beliefs
 held in their own right apart from their consequences") matches the entry.
 
-**On QUESTION-tmpga1fv: the entry gives the logical starting point the
+**On [QUESTION-tmpga1fv](../questions.d/QUESTION-tmpga1fv.md): the entry gives the logical starting point the
 question expects, and narrows what that point is.**
 
 - It confirms that current conclusions underdetermine revision and names
@@ -262,17 +262,17 @@ question expects, and narrows what that point is.**
   revise (p′(¬s) = 0, the dyadic case), which is the probabilistic face of
   the same problem.
 
-**On CLAIM-tmp2rwpl: the entry gives a qualitative analogue, not support for
+**On [CLAIM-tmp2rwpl](../claims.d/CLAIM-tmp2rwpl.md): the entry gives a qualitative analogue, not support for
 the probabilistic construction.** Abe and Bob agree on every belief and
 revise by ¬p to opposite conclusions about q. That is the same
 non-implication in full-belief logic, in a survey that attributes it to
-standard belief-base theory. It does not check or bear on CASE-tmpziral's
+standard belief-base theory. It does not check or bear on [CASE-tmpziral](../cases.d/CASE-tmpziral.md)'s
 arithmetic, which is about marginals and conditionals. The entry's
 parenthetical, that a belief-set model handles the case by a different
 selection mechanism on the same set, parallels the claim's own caveat: a
 richer current state (there the joint, here the ordering) suffices.
 
-**On CLAIM-tmp7t44x: consistent with the first half, silent on the
+**On [CLAIM-tmp7t44x](../claims.d/CLAIM-tmp7t44x.md): consistent with the first half, silent on the
 second.**
 
 - Read with the parenthetical and 5.5, base structure is information a
