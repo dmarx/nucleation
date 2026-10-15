@@ -21,3 +21,9 @@
 - Treisman and Gelade 1980, read ([LIT-tmp9g55n](record/literature.d/LIT-tmp9g55n.md)); Duncan and Humphreys 1989,
   Unavailable ([LIT-tmp95pcw](record/literature.d/LIT-tmp95pcw.md)); Reiter 1978 and Clark 1978, registered unread ([LIT-tmpj4tnh](record/literature.d/LIT-tmpj4tnh.md),
   [LIT-tmpix3rp](record/literature.d/LIT-tmpix3rp.md)).
+- Four works on database physical design and amortized organization,
+  registered and read for [QUESTION-tmplg07t](record/questions.d/QUESTION-tmplg07t.md): Finkelstein et al. 1988
+  ([LIT-tmpbs1gh](record/literature.d/LIT-tmpbs1gh.md)), Yao 1981 ([LIT-tmpxy7er](record/literature.d/LIT-tmpxy7er.md)), Idreos et al. 2007
+  ([LIT-tmpmqtpm](record/literature.d/LIT-tmpmqtpm.md)), Sleator and Tarjan 1985 ([LIT-tmpt85t0](record/literature.d/LIT-tmpt85t0.md)).
+- [ADR-044](record/decisions.d/ADR-044.md), proposed: a `corroborates` relation between claims, for
+  evidence that is not a dependency. Not applied.
