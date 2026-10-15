@@ -6,6 +6,7 @@ formerly:
 title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out'
 version: 1
 role: counter
+warrant: demonstrated
 tags:
 - design-rationale
 - epistemology

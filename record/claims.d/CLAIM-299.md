@@ -7,6 +7,7 @@ title: Decision sufficiency, historical accountability and correctness are three
   properties of a record of inquiry, and each can hold while the other two fail
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   An incoherence in one of the three constructions, so that the pair it separates
   cannot in fact come apart.

@@ -9,6 +9,7 @@ title: 'A rendering can keep a distinction recoverable in principle and make it
   at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   An error in the reduction from a receiver with advantage to a distinguisher, or
   the non-existence of secure pseudorandom generators.

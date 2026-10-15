@@ -9,6 +9,7 @@ title: 'Equivalence under feasible tests can be much coarser than statistical eq
   pseudorandom generators do'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   An error in Goldreich's counting argument (Proposition 3.3 of the 1995 draft)
   or in the record's bound for a generator's image. The non-existence of secure

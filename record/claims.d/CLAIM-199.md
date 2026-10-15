@@ -6,6 +6,7 @@ formerly:
 title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   On renderings made without the situation (garblings of their sources),
   the named receivers never do better than with the source on any task in

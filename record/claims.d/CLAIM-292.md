@@ -8,6 +8,7 @@ title: 'Retrieval that depends on current belief is not a bias in itself: adapti
   and calling a search biased needs a standard outside the search'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - epistemology
 - information-retrieval

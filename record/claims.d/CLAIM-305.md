@@ -10,6 +10,7 @@ title: 'Resolving a singularity by blow-up reparametrizes the states and adds no
   and so the learning coefficient'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A blow-up π of a parameter space and a model p(x | w) such that two points u ≠
   u′ with π(u) = π(u′) give different distributions p(x | π(u)) ≠ p(x | π(u′)).

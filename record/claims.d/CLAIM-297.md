@@ -9,6 +9,7 @@ title: When an operator's authority is updated by how well it performs on the in
   independent evidence
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An analysis of a model of the kind in CASE-092 showing that, for every update
   rule that scores operators against the current dominant interpretation, small

@@ -18,6 +18,7 @@ history:
     §10.4), the "tall" example (§10.6) and the opposite diagnosis in
     "Epistemic Drift and Semantic Simulation" (§11.3.3) are verbatim.
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A phenomenon modelled as a sheaf over a stated coverage in which
   sections over disjoint members of a cover fail to glue. That would show

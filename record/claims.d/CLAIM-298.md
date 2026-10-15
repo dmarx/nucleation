@@ -8,6 +8,7 @@ title: A frame can change a judgement by changing which of an interpreter's stor
   judged
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A design whose measure of retrieval is first shown sensitive (it detects direct
   priming), which holds memory and evidence fixed, varies a frame, and finds judgements
@@ -23,6 +24,8 @@ date: '2026-10-15'
 line: pragmatic-transport
 answers:
 - QUESTION-096
+rests_on:
+- CLAIM-tmp3bdbx
 grounds:
 - LIT-269
 - THEORY-335
@@ -113,3 +116,13 @@ Three readings bear on the psychological form this claim cites.
 
 The claim stays Proposed. Its psychological form is a theory with
 indirect support, and the communicative extension rests on it.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s pilot found this claim compound: an empirical claim about
+anchoring in judgement tasks, and the record's interpretive extension to
+communication in general. The empirical half is now [CLAIM-tmp3bdbx](CLAIM-tmp3bdbx.md), on
+which this claim rests, and this claim is marked interpretive. Its title
+already states the general form, so it was kept; what changed is that its
+psychological support is a separate claim with its own warrant and
+standing.

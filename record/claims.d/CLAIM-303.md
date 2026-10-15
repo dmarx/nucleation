@@ -9,6 +9,7 @@ title: 'Filing an argument moves work across time: it is paid for now, in filing
   is evidence of reuse, not the criterion'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A record in which the second-occurrence rule is shown to file at least as well
   as any rule using estimates of reconstruction cost and staleness, so that recurrence

@@ -9,6 +9,7 @@ title: 'A record of an inquiry''s justifications adds nothing for decisions its
   otherwise could not'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A10's condition: across well-specified families of source-reappraisal, model-revision
   and audit tasks, representations that keep source and inferential history give

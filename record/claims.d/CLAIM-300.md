@@ -8,6 +8,7 @@ title: A state sufficient for a family of decisions under a model makes the rest
   when a source is discredited, the model is revised or the decisions change
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   An error in either construction: a sufficient statistic under a fixed model whose
   history improves the Bayes risk of a decision in the same family, or two samples
