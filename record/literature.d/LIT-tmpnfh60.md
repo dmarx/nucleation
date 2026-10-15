@@ -1,11 +1,25 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-15, not yet read. Registered while reading Strack and Mussweiler
-  1997 (LIT-tmpkn9x0), whose search turned it up as a failed replication of the
-  selective accessibility theory. OpenAlex lists a green open-access copy on UCL
-  Discovery (discovery.ucl.ac.uk/10074759/1/HarrisEtAl_2019_anchoring.pdf); a reading
-  is under way.
+  read in full 2026-10-15 from the authors' manuscript on UCL Discovery (discovery.ucl.ac.uk/10074759/1/HarrisEtAl_2019_anchoring.pdf,
+  eprint 10074759; 76 pp. with appendices and supplementary experiments). It is
+  a Word-generated manuscript dated 23 May 2019, which Unpaywall and OpenAlex label
+  submittedVersion. Its abstract is worded differently from the published one, so
+  it is not the APA version of record (JEP: General 148(9), e30–e50), which returned
+  403 from this environment. Worth reading as the preregistered, high-powered test
+  of the lexical-decision evidence for selective accessibility (Mussweiler & Strack
+  2000a, Studies 1 and 2). In five experiments of N = 128, anchoring was large every
+  time (d ≈ 0.85–1.39) and anchor-consistent word recognition never moved (η²G ≤
+  .004). An exploratory meta-analytic Bayes factor favours the null by 21 to 1.
+  Validation studies show the same tasks also miss direct picture priming. For CLAIM-tmp9snb1
+  it shows that the most direct published measure of "anchors change what is reachable"
+  does not replicate and cannot detect priming. The claim's psychological form therefore
+  rests on inferred, not measured, accessibility, and the theory is neither refuted
+  nor confirmed. The authors' leading explanation of durable anchoring is a provisional
+  answer formed at the comparison, which is neutral between retrieval and evaluation.
+  For QUESTION-tmpq93du it bears only indirectly. It also corrects the record's
+  attribution: by this paper's account the lexical-decision studies are Mussweiler
+  & Strack 2000a, not 1999 (LIT-tmpzxnap).
 title: Failures to replicate a key result of the selective accessibility theory
   of anchoring
 version: 1
@@ -17,7 +31,10 @@ history:
     Crossref gives September 2019 for the issue (148(9), e30–e50), OpenAlex gives
     11 July 2019 as the publication date, which `published:` uses. Not held in the
     Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2)
-    for the authors and the title found nothing.
+    for the authors and the title found nothing. The copy read is the authors' submitted
+    manuscript on UCL Discovery, not the version of record; the paper's own keywords
+    could not be confirmed, so `keywords:` are terms from its text. Read the same
+    day (NOTE-tmpodfzg).
 tags:
 - cognition
 - social-science
@@ -33,9 +50,15 @@ keywords:
 implementations: []
 summary: >-
   Harris, Blower, Rodgers, Lagator, Page, Burton, Urlichich and Speekenbrink (2019),
-  Journal of Experimental Psychology: General 148(9). Reports failures to replicate
-  a key result of the selective accessibility theory of anchoring. Not yet read;
-  the summary is from the title.
+  JEP: General 148(9), e30–e50. Five preregistered experiments (N = 128 each) repeated
+  Mussweiler and Strack's (2000a) test of selective accessibility, which asks whether
+  a high or low anchor speeds recognition of anchor-consistent words. Four used
+  lexical decision and one used continuous identification. Anchoring was large in
+  all five, the accessibility effect was absent in all five, and an exploratory
+  meta-analytic Bayes factor favoured the null about 21 to 1. Because the same tasks
+  also failed to detect direct picture priming, the authors conclude that the method
+  is unfit as a test, not that the theory is false, and that the earlier evidence
+  from it "is not a strong part of the evidence base".
 ---
 <!-- inactive-ok-file: CLAIM-tmp9snb1 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmpzxnap — Unavailable; held without a reading, cited as such -->
@@ -50,5 +73,7 @@ Not read. A reading should replace this note.
 
 CLAIM-tmp9snb1 grounds its psychological form in the selective
 accessibility account of anchoring (LIT-tmpkn9x0, LIT-tmpzxnap). This paper
-reports that a key result of that account did not replicate. The claim
-cannot lean on the account without weighing it.
+shows that the most direct published measure of the accessibility step
+does not replicate, and that the measure could not detect priming at all
+(NOTE-tmpodfzg). The account survives as theory; its retrieval step is
+inferred, not measured.

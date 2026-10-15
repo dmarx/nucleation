@@ -30,3 +30,15 @@
 ### Documentation
 
 - Dated notes on [CLAIM-029](record/claims.d/CLAIM-029.md), [CLAIM-199](record/claims.d/CLAIM-199.md), [CLAIM-250](record/claims.d/CLAIM-250.md) and [CLAIM-264](record/claims.d/CLAIM-264.md).
+- Readings of the registered works: Strack & Mussweiler 1997, AGM 1985,
+  Hansson's survey and Harris et al. 2019 read; Goldreich's 1995 draft
+  skimmed (chapters 1–3); Mussweiler & Strack 1999, Gibson, Hutchins and
+  Mitra et al. Unavailable. Harris et al. 2019 and Goldreich 1990
+  registered.
+
+### Changed
+
+- From the readings: the feasible-test separation claim (unconditional;
+  only samplability needs generators), the hidden-bit claim and the
+  generator case, the anchoring claim (retrieval step inferred, not
+  measured), and the question on retained state (narrowed).
