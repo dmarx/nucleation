@@ -35,6 +35,8 @@ summary: >-
   creates the conditions under which a particular interpretation becomes
   available." The first filing left both out. It does not say
   interpretation never comes first.
+supports:
+- CLAIM-tmp9muwf
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 CLAIM-255 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

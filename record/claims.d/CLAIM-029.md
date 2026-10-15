@@ -78,3 +78,22 @@ definitions", and the notation P_θ(y | c, u) is gone from the manuscript.
 Shanahan, McDonell and Reynolds's role play ([LIT-460](../literature.d/LIT-460.md), read in [NOTE-370](../notes.d/NOTE-370.md))
 states this idea most clearly before the manuscript. The prompt selects a
 role from a superposition of characters, and each reply narrows the set.
+
+## Note of 2026-10-15: three observations the defeater runs together
+
+A3 of the exchange of 2026-10-14 (workbench entry of 2026-10-15) found
+this claim and separated three observations: a prompt changes the output
+distribution; a prompt changes an internal task or interpretive
+representation; two prompts, or a prompt and an activation intervention,
+induce equivalent pragmatic behaviour over a stated family of contexts.
+"The first does not entail the second, and neither entails the third."
+
+Its point about `defeated_if` is right. Failure of paraphrase invariance
+and transfer would defeat a stronger hypothesis, that the model's
+representation is invariant to surface form, not the reading of a
+model's response as a parameterized frame. Kirsanov et al.'s stable class
+representations, above, already pull the two apart. The defeater is left
+as it stands; restating it is the owner's call. A3's prompt-equivalence
+claim, equivalence over decision consequences, is [CLAIM-050](CLAIM-050.md) applied to
+prompts and is not filed. Its question about activation steering is
+[QUESTION-tmpgjibj](../questions.d/QUESTION-tmpgjibj.md).
