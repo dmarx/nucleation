@@ -45,8 +45,10 @@ formal results on bounded observers are statements about the gap between
 the ideal ROC and the best ROC in a class.
 
 **The empirical side.** Vision science measures that gap: efficiency, the
-squared ratio of human to ideal d′, says how much of the information a real
-observer uses (Geisler 2011, [LIT-1055](../literature.d/LIT-1055.md)). If the link holds, the bounded-
+squared ratio of human to ideal d′ (Burgess et al. 1981; Pelli and Farell
+1999, neither held), says how much of the information a real observer uses;
+Geisler 2011 ([LIT-1055](../literature.d/LIT-1055.md)) reviews the ideal-observer method without giving
+the formula. If the link holds, the bounded-
 observer questions ([QUESTION-111](QUESTION-111.md), [QUESTION-104](QUESTION-104.md)) have a measure
 that can be taken on people and models, not only constructed.
 

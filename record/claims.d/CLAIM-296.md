@@ -39,7 +39,7 @@ complements:
 corroborated_by:
 - CLAIM-tmpjmtw0
 ---
-<!-- inactive-ok-file: LIT-1060 LIT-1065 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 
 # CLAIM-296: What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
 

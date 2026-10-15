@@ -109,7 +109,7 @@ them.
   a cost model "is needed".
 - **Sleator and Tarjan 1985** ([LIT-tmpt85t0](../literature.d/LIT-tmpt85t0.md), [NOTE-tmpy8giy](../notes.d/NOTE-tmpy8giy.md)). For one list
   searched from the front, move-to-front costs at most twice what any
-  rule costs on the same sequence, **including rules that know the future
+  rule for that one list costs on the same sequence, **including rules that know the future
   and rearrange as they go**. A fixed order by access frequency is within
   no constant factor. Their Theorem 3: paying to rearrange ahead of need
   never beats moving the found item for free. In that model sorting ahead
