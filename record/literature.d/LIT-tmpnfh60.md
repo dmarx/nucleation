@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-15, not yet read. Registered while reading Strack and Mussweiler
-  1997 (LIT-tmpkn9x0), whose search turned it up as a failed replication of the
+  1997 ([LIT-tmpkn9x0](LIT-tmpkn9x0.md)), whose search turned it up as a failed replication of the
   selective accessibility theory. OpenAlex lists a green open-access copy on UCL
   Discovery (discovery.ucl.ac.uk/10074759/1/HarrisEtAl_2019_anchoring.pdf); a reading
   is under way.
@@ -48,7 +48,7 @@ Not read. A reading should replace this note.
 
 ## Why this is here
 
-CLAIM-tmp9snb1 grounds its psychological form in the selective
-accessibility account of anchoring (LIT-tmpkn9x0, LIT-tmpzxnap). This paper
+[CLAIM-tmp9snb1](../claims.d/CLAIM-tmp9snb1.md) grounds its psychological form in the selective
+accessibility account of anchoring ([LIT-tmpkn9x0](LIT-tmpkn9x0.md), [LIT-tmpzxnap](LIT-tmpzxnap.md)). This paper
 reports that a key result of that account did not replicate. The claim
 cannot lean on the account without weighing it.

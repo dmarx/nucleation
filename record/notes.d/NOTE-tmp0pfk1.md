@@ -98,7 +98,7 @@ Equivalence is fixed by the class of tests allowed. If the class is all tests, t
 
 ## Bearing on the record
 
-For CASE-tmp51hxx, all four things the record leans on are in the book, in the fragments' numbering.
+For [CASE-tmp51hxx](../cases.d/CASE-tmp51hxx.md), all four things the record leans on are in the book, in the fragments' numbering.
 
 1. **Indistinguishability.** Computational indistinguishability is Definition 3.2.
 2. **The generator.** A secure generator G: {0,1}ⁿ → {0,1}²ⁿ with negligible advantage for every probabilistic polynomial-time distinguisher is Definition 3.9 with l(n) = 2n, read through Definitions 3.2 and 3.7.
@@ -107,19 +107,19 @@ For CASE-tmp51hxx, all four things the record leans on are in the book, in the f
 
 The record's TV is the usual one, half the book's Δ. In the book's convention the bound reads Δ ≥ 2(1 − 2⁻ⁿ). The record's statement is correct as written, but a reader moving between the two should know they differ by a factor of 2.
 
-This reading narrows CLAIM-tmpvdl53 in two places, and in one place strengthens it.
+This reading narrows [CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md) in two places, and in one place strengthens it.
 
 - **Strengthens: the separation does not need pseudorandom generators.** Proposition 3.3 proves without any assumption that there are ensembles almost disjoint from uniform that no polynomial-time test, or even any circuit of size 2^(n/8), tells apart. X_n is supported on at most 2^(n/2) strings, so in the record's convention TV ≥ 1 − 2^(−n/2). What needs an assumption is that the far-but-indistinguishable pair be efficiently samplable. That holds if and only if one-way functions exist (G90, cited in §3.8.2). So the claim's headline, "equivalence under feasible tests can be much coarser than statistical equivalence", is unconditional. Its `defeated_if` overstates what the non-existence of secure generators would do. That would remove only the efficiently constructible witness. Proposition 3.3's witness would remain.
-- **Narrows: the objects are ensembles, not pairs.** The claim speaks of "pairs of distributions … that no efficient test tells apart". In the book, "efficient" and "negligible" have meaning only for a sequence indexed by n. For any fixed n, the test "is y in G's image" is a finite circuit, of size exponential in n, that separates G(Uₙ) from U₂ₙ almost perfectly. CASE-tmp51hxx writes "≤ negl(n)", which is right. The claim's wording should read "families of pairs indexed by n" or "ensembles".
-- **Narrows: the generator is not exhibited.** The book does not show that any particular G is secure. Theorem 3.29 gives existence from any one-way function, and the existence of one-way functions is itself an assumption that implies P ≠ NP (Chapter 2, Exercise 2). This matches the claim's own conditional, and CASE-tmp51hxx's quotation of A15 says the same.
+- **Narrows: the objects are ensembles, not pairs.** The claim speaks of "pairs of distributions … that no efficient test tells apart". In the book, "efficient" and "negligible" have meaning only for a sequence indexed by n. For any fixed n, the test "is y in G's image" is a finite circuit, of size exponential in n, that separates G(Uₙ) from U₂ₙ almost perfectly. [CASE-tmp51hxx](../cases.d/CASE-tmp51hxx.md) writes "≤ negl(n)", which is right. The claim's wording should read "families of pairs indexed by n" or "ensembles".
+- **Narrows: the generator is not exhibited.** The book does not show that any particular G is secure. Theorem 3.29 gives existence from any one-way function, and the existence of one-way functions is itself an assumption that implies P ≠ NP (Chapter 2, Exercise 2). This matches the claim's own conditional, and [CASE-tmp51hxx](../cases.d/CASE-tmp51hxx.md)'s quotation of A15 says the same.
 
-For CLAIM-tmpzk2fj, the book supplies the ingredients but not the construction. The rendering of a bit as G(Uₙ) or U₂ₙ is the record's own. The reduction is sound by Definition 3.2: a receiver that guesses a uniform b with probability ½ + ε is a distinguisher with gap 2ε. The book makes the same kind of predictor-to-distinguisher conversion in the proof of Theorem 3.14 and in Exercises 14–15.
+For [CLAIM-tmpzk2fj](../claims.d/CLAIM-tmpzk2fj.md), the book supplies the ingredients but not the construction. The rendering of a bit as G(Uₙ) or U₂ₙ is the record's own. The reduction is sound by Definition 3.2: a receiver that guesses a uniform b with probability ½ + ε is a distinguisher with gap 2ε. The book makes the same kind of predictor-to-distinguisher conversion in the proof of Theorem 3.14 and in Exercises 14–15.
 
 Two cautions on wording:
 
 - **"Than chance".** "No efficient receiver does better than chance" should read "no efficient receiver does non-negligibly better than chance". The guarantee is asymptotic.
 - **"Error at most 2⁻ⁿ".** The unbounded receiver's error is conditional on b = 0. With a uniform prior on b, its overall error is at most 2⁻ⁿ⁻¹.
 
-The caveat in CLAIM-tmpvdl53 that the gap depends on the representation, since an expensively computed label makes the pair separable, is close to Exercise 11 of §3.8.4. That exercise asks whether a generator stays a generator under a permutation that is not efficiently computable. The book's position is the claim's: the equivalence is relative to what can be computed, and the separating statistic after Proposition 3.3 is "(necessarily) impossible to compute in polynomial-time".
+The caveat in [CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md) that the gap depends on the representation, since an expensively computed label makes the pair separable, is close to Exercise 11 of §3.8.4. That exercise asks whether a generator stays a generator under a permutation that is not efficiently computable. The book's position is the claim's: the equivalence is relative to what can be computed, and the separating statistic after Proposition 3.3 is "(necessarily) impossible to compute in polynomial-time".
 
 The LIT entry's summary describes the printed volume correctly as to topics. Its claim that the book supplies the definitions the record codes rest on is confirmed. All of this is from the 1995 draft. The printed 2001 text expands each chapter by roughly a half to three quarters in pages. It may state these results with different numbering (the printed chapter is pp. 101–183) and possibly a different statistical-difference convention. That was not checked.

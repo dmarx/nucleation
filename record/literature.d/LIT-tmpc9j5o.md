@@ -34,7 +34,7 @@ status_note: >-
   2026-10-15), and Unpaywall, OpenAlex and Semantic Scholar list Wiley's free publisher
   PDF (bronze; onlinelibrary.wiley.com/doi/pdfdirect/10.1207/s15516709cog1903_1,
   which returned 403 to this environment). It is not registered, and it is the reading
-  available now for QUESTION-tmp9q4d1.
+  available now for [QUESTION-tmp9q4d1](../questions.d/QUESTION-tmp9q4d1.md).
 title: Cognition in the Wild
 version: 1
 history:

@@ -79,13 +79,13 @@ revision competence this way, is [CLAIM-tmp7t44x](CLAIM-tmp7t44x.md) and stays P
 ## The same point in belief-revision logic (note of 2026-10-15)
 
 Two readings filed the same day give the full-belief form of this claim.
-Hansson's survey (LIT-tmpr5312, read in NOTE-tmp689da): bases {p, q} and
+Hansson's survey ([LIT-tmpr5312](../literature.d/LIT-tmpr5312.md), read in [NOTE-tmp689da](../notes.d/NOTE-tmp689da.md)): bases {p, q} and
 {p, p ↔ q} have the same closure, yet after revision by ¬p one agent
 believes q and the other ¬q. The bases are "statically equivalent" and not
-"dynamically equivalent". In AGM (LIT-tmp0f102, read in NOTE-tmpo6kr8) the
+"dynamically equivalent". In AGM ([LIT-tmp0f102](../literature.d/LIT-tmp0f102.md), read in [NOTE-tmpo6kr8](../notes.d/NOTE-tmpo6kr8.md)) the
 closed theory alone does not determine a revision; a selection function
 over its remainders must be added. Both match this claim's caveat: a
 richer current state, a base or an ordering, suffices for one revision.
 Neither is a record of what a belief depended on, so neither supports
-reading this claim as an argument for keeping justifications (CLAIM-tmp7t44x's
+reading this claim as an argument for keeping justifications ([CLAIM-tmp7t44x](CLAIM-tmp7t44x.md)'s
 question, not this one's).

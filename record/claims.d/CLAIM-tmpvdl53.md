@@ -26,7 +26,7 @@ complements:
 summary: >-
   A15's witness for "Complexity changes what we mean by an observable", which the
   owner asked to have developed at U15, corrected by the reading of Goldreich (NOTE
-  of 2026-10-15). CLAIM-264 says agreement on a restricted probe family is coarser
+  of 2026-10-15). [CLAIM-264](CLAIM-264.md) says agreement on a restricted probe family is coarser
   than identity; feasibility gives a restriction that is forced, not chosen. The
   separation itself is unconditional: a counting argument gives ensembles supported
   on at most 2^(n/2) strings that no circuit of size 2^(n/8) tells from uniform.
@@ -63,7 +63,7 @@ compute in polynomial-time." That X cannot be sampled efficiently: "One of
 the two ensembles is not constructible in polynomial-time."
 
 **Efficiently samplable, if pseudorandom generators exist.** The witness A15
-gave (CASE-tmp51hxx). Let G: {0,1}ⁿ → {0,1}²ⁿ be a secure pseudorandom generator
+gave ([CASE-tmp51hxx](../cases.d/CASE-tmp51hxx.md)). Let G: {0,1}ⁿ → {0,1}²ⁿ be a secure pseudorandom generator
 (Goldreich's Definition 3.9 with l(n) = 2n), P_n = G(Uₙ), Q_n = U₂ₙ. G has at
 most 2ⁿ outputs, so TV(P_n, Q_n) ≥ 1 − 2⁻ⁿ, checked here (the book states the
 bound only as ½, and its "statistical difference" omits the factor ½ of
@@ -81,7 +81,7 @@ exercise (§3.8.4, Exercise 1), and the one-line composition is its proof.
 ## Why it is Active
 
 The unconditional half is a theorem of the source, read in the author's
-1995 draft (LIT-tmpfy61e); the samplable half is the definition of a secure
+1995 draft ([LIT-tmpfy61e](../literature.d/LIT-tmpfy61e.md)); the samplable half is the definition of a secure
 generator plus a counting bound checked here, and is conditional, as the
 title says. Neither was checked against the printed 2001 volume.
 
