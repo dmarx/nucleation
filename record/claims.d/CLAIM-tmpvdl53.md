@@ -35,7 +35,6 @@ summary: >-
 supports:
 - CLAIM-tmpzk2fj
 ---
-<!-- inactive-ok-file: LIT-tmpfy61e — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-264 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmpvdl53: Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do

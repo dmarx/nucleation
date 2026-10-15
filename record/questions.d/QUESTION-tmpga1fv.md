@@ -20,7 +20,6 @@ summary: >-
 answered_by:
 - CLAIM-tmp2rwpl
 ---
-<!-- inactive-ok-file: LIT-tmpr5312 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 
 # QUESTION-tmpga1fv: What is the least an evolving inquiry must retain to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?
 

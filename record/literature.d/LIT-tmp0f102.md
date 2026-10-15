@@ -47,8 +47,6 @@ summary: >-
   for contracting and revising a logically closed belief set, and their characterization
   by partial meet contraction.
 ---
-<!-- inactive-ok-file: LIT-tmpr5312 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
-<!-- inactive-ok-file: CLAIM-tmp7t44x — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp0f102: On the logic of theory change: Partial meet contraction and revision functions
 

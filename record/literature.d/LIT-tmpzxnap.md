@@ -56,7 +56,6 @@ summary: >-
 supports:
 - CLAIM-tmp9snb1
 ---
-<!-- inactive-ok-file: LIT-tmpkn9x0 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-tmp9snb1 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpzxnap: Hypothesis-Consistent Testing and Semantic Priming in the Anchoring Paradigm: A Selective Accessibility Model

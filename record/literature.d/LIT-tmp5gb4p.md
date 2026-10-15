@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-15, not yet read. Registered at the owner's request after the reading
-  of Goldreich's Foundations of Cryptography (LIT-tmpfy61e) found that the book
+  of Goldreich's Foundations of Cryptography ([LIT-tmpfy61e](LIT-tmpfy61e.md)) found that the book
   states, and cites this note for, the equivalence between efficiently samplable
   statistically-far indistinguishable ensembles and one-way functions, without proving
   it. A reading is under way.
@@ -45,7 +45,7 @@ Not read. A reading should replace this note.
 
 ## Why this is here
 
-CLAIM-tmpvdl53 says efficiently samplable ensembles that are statistically
+[CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md) says efficiently samplable ensembles that are statistically
 far yet computationally indistinguishable exist if pseudorandom generators
 do, and cites the book's statement that they exist exactly when one-way
 functions do. The book does not prove that equivalence; it cites this

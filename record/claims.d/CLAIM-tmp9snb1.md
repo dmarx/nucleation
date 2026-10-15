@@ -36,7 +36,7 @@ summary: >-
   way; Harris et al. (2019, read) find the most direct measure of the accessibility
   step does not replicate and cannot detect priming at all. The retrieval step is
   inferred, not shown. The mechanism the record holds, attention as sparse distributed
-  memory (LIT-269), is a model, not evidence about judges. The extension to communication
+  memory ([LIT-269](../literature.d/LIT-269.md)), is a model, not evidence about judges. The extension to communication
   in general is the record's and is not shown.
 ---
 <!-- inactive-ok-file: LIT-tmpkn9x0 LIT-tmpzxnap — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
@@ -87,7 +87,7 @@ they need not exclude one another.
 
 Three readings bear on the psychological form this claim cites.
 
-- **Strack and Mussweiler 1997** (LIT-tmpkn9x0, NOTE-tmpqnzey). With the
+- **Strack and Mussweiler 1997** ([LIT-tmpkn9x0](../literature.d/LIT-tmpkn9x0.md), [NOTE-tmpqnzey](../notes.d/NOTE-tmpqnzey.md)). With the
   anchor number fixed, the anchor's effect depended on what the comparison
   made available and whether it applied to the later judgement. But no
   study measures retrieval. And their model has two stages: accessibility
@@ -96,7 +96,7 @@ Three readings bear on the psychological form this claim cites.
   contrast. So a frame acts on retrieval and on evaluation, and these
   designs do not separate the two. The defeat condition is restated so
   that it does not assume they can be.
-- **Harris et al. 2019** (LIT-tmpnfh60, NOTE-tmpodfzg). Five preregistered
+- **Harris et al. 2019** ([LIT-tmpnfh60](../literature.d/LIT-tmpnfh60.md), [NOTE-tmpodfzg](../notes.d/NOTE-tmpodfzg.md)). Five preregistered
   replications (N = 128 each) of Mussweiler and Strack's lexical-decision
   test of accessibility found large anchoring and no accessibility effect,
   and the same tasks failed to detect direct picture priming. The authors
@@ -107,7 +107,7 @@ Three readings bear on the psychological form this claim cites.
   sits exactly on this claim's unresolved split: if the carrier is a
   recalled number, the frame acts on what is answered, not on what is
   reachable.
-- **Mussweiler and Strack 1999** (LIT-tmpzxnap) could not be fetched.
+- **Mussweiler and Strack 1999** ([LIT-tmpzxnap](../literature.d/LIT-tmpzxnap.md)) could not be fetched.
 
 The claim stays Proposed. Its psychological form is a theory with
 indirect support, and the communicative extension rests on it.
