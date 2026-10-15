@@ -22,6 +22,8 @@ summary: >-
   maintaining a copy. Prices are fixed and known, the guarantee is worst
   case only, stale reads are forbidden rather than priced, and the
   authors call the practical significance "unclear".
+supports:
+- CLAIM-tmpc3sk7
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; named as a claim this account bears on, not leaned on -->
 

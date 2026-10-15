@@ -51,3 +51,5 @@
 - Thirty-one THEORYs for the readings of this contribution and of PR [#148](https://github.com/dmarx/nucleation/issues/148),
   which filed none; claims that grounded read works as bare LITs now ground
   the accounts. Errors found while drafting are corrected.
+- [CLAIM-tmpc3sk7](record/claims.d/CLAIM-tmpc3sk7.md) objects to [CLAIM-303](record/claims.d/CLAIM-303.md) from the rent-or-buy result: where
+  reuse cannot be forecast, cost-weighted recurrence is the filing criterion.
