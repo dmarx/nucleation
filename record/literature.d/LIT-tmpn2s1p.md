@@ -2,7 +2,7 @@
 status: Deferred
 status_note: >-
   filed 2026-10-15, not yet read. Registered at the owner's request after the search
-  for Hutchins's Cognition in the Wild (LIT-tmpc9j5o) found this paper posted by
+  for Hutchins's Cognition in the Wild ([LIT-tmpc9j5o](LIT-tmpc9j5o.md)) found this paper posted by
   Hutchins himself (pages.ucsd.edu/~ehutchins/documents/CockpitSpeeds.pdf). A reading
   is under way.
 title: How a Cockpit Remembers Its Speeds
@@ -47,8 +47,8 @@ Not read. A reading should replace this note.
 
 ## Why this is here
 
-The owner's EMT case (CASE-tmp9qlz6) is a team failing to deploy a resource
+The owner's EMT case ([CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md)) is a team failing to deploy a resource
 in time though its presence was known. This paper is the classic study of
 a crew and its artifacts holding what no member holds alone, which is
-QUESTION-tmp9q4d1's subject and bears on CLAIM-tmp9gt89 and TERM-tmp5f7cu.
+[QUESTION-tmp9q4d1](../questions.d/QUESTION-tmp9q4d1.md)'s subject and bears on [CLAIM-tmp9gt89](../claims.d/CLAIM-tmp9gt89.md) and [TERM-tmp5f7cu](../terms.d/TERM-tmp5f7cu.md).
 Closer to the case than *Cognition in the Wild*, which is Unavailable.
