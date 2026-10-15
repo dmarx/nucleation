@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A178's H2 fails: independently anchored observational, structural and
   decision measures, combined, predict communicative fidelity on held-out

@@ -6,6 +6,7 @@ formerly:
 title: 'Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory''s open mathematical problem'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An existing framework already characterizes stochastic maps between
   empirical models with different covers, including when they preserve

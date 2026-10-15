@@ -6,6 +6,7 @@ formerly:
 title: 'An organized whole''s operative intention is not the expectation of its members'' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A collective whose operative direction is reliably predicted by
   aggregating its members' intentions across changes in its decision

@@ -15,6 +15,7 @@ history:
     in matched human studies, so that the models test nothing about the
     theory's claims on pragmatic interpretation."
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Across several model families and sizes, and on stimuli written after
   the models' training cut-offs as well as the famous ones, the pattern

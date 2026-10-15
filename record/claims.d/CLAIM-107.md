@@ -6,6 +6,7 @@ formerly:
 title: 'A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A Markov reconstruction model in which an observable satisfies the
   manuscript's criterion yet its distribution, not only its mean, drifts

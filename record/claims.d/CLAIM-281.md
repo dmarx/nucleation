@@ -6,6 +6,7 @@ formerly:
 title: 'Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A population model in which role-indexed endorsement sorts into factions
   of mutually endorsing, policy-aligned processes as readily as scalar

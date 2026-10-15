@@ -6,6 +6,7 @@ formerly:
 title: 'The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - compositionality
 - probabilistic-modeling

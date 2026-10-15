@@ -6,6 +6,7 @@ formerly:
 title: 'The central theses'' defeat conditions pit them only against embedding, propositional or surface similarity, which no rival account holds, so surviving them would not tell the thesis from the functional and relevance-theoretic accounts the record says it must be told apart from'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-language
 - translation

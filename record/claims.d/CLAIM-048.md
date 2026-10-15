@@ -6,6 +6,7 @@ formerly:
 title: 'Communication transports structures of observational constraints rather than invariant semantic objects, and translation, language-model reconstruction and conditional image generation are realizations of one process'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Fidelity in text-to-image generation and in translation turn out to
   depend on different structures, so that no single transport account

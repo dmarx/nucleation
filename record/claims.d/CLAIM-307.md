@@ -9,6 +9,7 @@ title: 'Retrieval pressure and evidence are different criteria for carving a cat
   bins a deadline forces are often the ones the data least supports'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A search model in which the expected cost of finding one of c copies among m similar
   items does not fall as c grows, or an evidence model in which a distinction's

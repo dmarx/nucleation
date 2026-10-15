@@ -6,6 +6,7 @@ formerly:
 title: 'Demonstrating that interpretive framings do not commute establishes that the judgements cannot be described by one ordinary joint probability distribution'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A classical model with a single joint distribution and state-dependent
   updates reproduces the noncommuting framings.

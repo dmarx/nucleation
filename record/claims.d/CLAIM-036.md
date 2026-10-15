@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative meaning is constituted through systems of distinctions and relations, and translation transports these systems, selectively preserving or transforming their differential, probabilistic and interactional structure'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Judgements of communicative fidelity track the preservation of
   individual features, with no added prediction from the contrasts among

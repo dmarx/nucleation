@@ -6,6 +6,7 @@ formerly:
 title: 'Symmetry is a kind of invariance, and Noether''s theorem is the point: invariance under transformation yields conservation'
 version: 1
 role: counter
+warrant: demonstrated
 tags:
 - mathematics
 - philosophy-of-language

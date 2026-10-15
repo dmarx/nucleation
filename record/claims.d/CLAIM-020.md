@@ -6,6 +6,7 @@ formerly:
 title: 'A translation''s quality is the number of formal and semantic constraints it preserves'
 version: 1
 role: supposed
+warrant: interpretive
 tags:
 - philosophy-of-language
 - linguistics

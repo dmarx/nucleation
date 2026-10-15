@@ -6,6 +6,7 @@ formerly:
 title: 'Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell''s order compares a rendering with its source as evidence about the source''s situation, which both readers decide about, while a rendering that re-performs the act in the target''s situation is compared only through a correspondence of situations'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   Receivers' fidelity verdicts on the same renderings do not differ
   between a report task (what was the source's speaker doing?) and a

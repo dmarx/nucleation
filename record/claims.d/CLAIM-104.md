@@ -6,6 +6,7 @@ formerly:
 title: 'Authenticity grounds normativity downward, from an encompassing agent to its constituents, but not across agents at one level'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An authenticity-based standard that applies between peers as naturally
   as from a whole to its parts.

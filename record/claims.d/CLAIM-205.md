@@ -6,6 +6,7 @@ formerly:
 title: 'A win over the static pragmatic profile shows that context matters, not that the transport formalism contributes: functional and relevance-theoretic accounts need not fix one context, so the rival the incremental thesis must beat is a strong contextual baseline of rich context-response profiles and supervised prediction'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-science
 - translation

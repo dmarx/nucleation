@@ -6,6 +6,7 @@ formerly:
 title: 'An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A result showing that, for every aggregation rule that lets endorsement
   carry authority further than one hop, an operator that delegates in order

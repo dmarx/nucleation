@@ -6,6 +6,7 @@ formerly:
 title: 'The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - design-rationale
 - epistemology

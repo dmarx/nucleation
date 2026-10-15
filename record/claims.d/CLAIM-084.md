@@ -6,6 +6,7 @@ formerly:
 title: 'Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Along reconstruction chains, content-word overlap with the source
   predicts independently judged retention of footing and stance as well

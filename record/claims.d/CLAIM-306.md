@@ -11,6 +11,7 @@ title: 'Under a deadline, search can establish presence by finding one item but
   deadline'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A search procedure, under a deadline shorter than an exhaustive pass, whose failure
   to find an item licenses its absence with no assumption that the unsearched part

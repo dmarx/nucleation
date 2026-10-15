@@ -6,6 +6,7 @@ formerly:
 title: 'What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers'' recovery beyond the similarity of static stance and footing ratings'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In the discriminating study (CASE-055), on renderings chosen to
   match the source on static stance and footing ratings while differing

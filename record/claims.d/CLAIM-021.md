@@ -6,6 +6,7 @@ formerly:
 title: 'The mechanisms composing a will-organization are not novel'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - agency
 date: '2026-10-05'

@@ -6,6 +6,7 @@ formerly:
 title: 'A multi-session argument''s thesis can move without any participant arguing for the move, which is a case of an organized whole''s course coming apart from its members'' intentions'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Every unannounced change of thesis in the reconstructed exchanges is
   traced to one participant's unrecorded intention, most likely the

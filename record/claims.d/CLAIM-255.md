@@ -6,6 +6,7 @@ formerly:
 title: 'Intending to perform an act, performing it and being recognized as having performed it are distinct, coupled variables: intended meaning is fixed at production, the act partly by roles, standing and norms, and recognition by uptake, so competent uptake is constitutive for some acts, evidential for others and irrelevant to the existence of still others'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An act whose identity cannot be stated without fixing intention, act and
   recognition together, or a class of acts for which competent uptake is

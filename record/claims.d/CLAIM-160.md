@@ -6,6 +6,7 @@ formerly:
 title: 'Data written for a potential future receiver has its intended meaning fixed by the write: even if it is never read, what it was meant to say was settled when it was stored'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A stored message whose intended meaning, by the line's own observables,
   turns out to depend on who eventually reads it, where no fact about

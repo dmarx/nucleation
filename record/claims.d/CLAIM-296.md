@@ -9,6 +9,7 @@ title: What a system has, what it knows it has, and what it can deploy within a
   of any one of them
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A18's condition: for a stated model of agency, an independently justified criterion
   of capability that depends only on what is possessed, with no contribution from

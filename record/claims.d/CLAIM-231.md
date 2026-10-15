@@ -6,6 +6,7 @@ formerly:
 title: 'On observed responses, a rendering that keeps the response distribution of each order of two framings within ε of the source''s, under an outcome correspondence, keeps the observed order effect within 2ε, a bound identified from data, while the intertwining identity bounds it only through defects of an unidentified state model'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A pair of order-contexts on which the inequality fails, which would show
   the derivation wrong; or the order effects the line studies are shown

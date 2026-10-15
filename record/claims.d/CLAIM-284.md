@@ -6,6 +6,7 @@ formerly:
 title: 'A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A system whose constituent processes demonstrably generate and revise the
   allocation of authority among themselves, and maintain and transform the

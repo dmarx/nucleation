@@ -6,6 +6,7 @@ formerly:
 title: 'Brooks''s architecture, Kelso''s coordination dynamics and Levin''s bioelectric selves are three different ways of understanding what an organized whole is'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - agency
 - complex-systems

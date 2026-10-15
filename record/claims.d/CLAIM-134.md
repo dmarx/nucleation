@@ -6,6 +6,7 @@ formerly:
 title: 'A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty''s dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - metaphysics
 - individuation

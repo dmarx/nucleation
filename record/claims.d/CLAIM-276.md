@@ -6,6 +6,7 @@ formerly:
 title: 'A shared interpretation''s coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation''s stability is no evidence of its truth'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A demonstration that in populations which aggregate interpretations,
   rising coherence and stability reliably track rising fidelity to

@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative acts and their participants exist as relata but have no identity beyond what their relations differentiate: non-eliminative structural realism without primitive identity'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Chakravartty's dilemma (THEORY-034) is shown sound against it: a
   relatum with no intrinsic identity-fixing feature collapses into

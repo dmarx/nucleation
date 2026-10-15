@@ -6,6 +6,7 @@ formerly:
 title: 'Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member''s plan direct other members'' actions, so a cap on self-allocation constrains action and not authority'
 version: 1
 role: thesis
+warrant: empirical
 defeated_if: >-
   Evidence from r/place, or a comparable event, that influence over the
   canvas was spread about as evenly as the placement budget, with planners

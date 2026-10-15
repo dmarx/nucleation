@@ -6,6 +6,7 @@ formerly:
 title: 'Transport induced by one global stochastic kernel carries a global extension of the source model to a global extension of the target model'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A source model with a global extension, transported by restrictions of
   one global kernel, yields a target model with no global extension.

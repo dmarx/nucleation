@@ -19,6 +19,7 @@ history:
     CLAIM-202 and CLAIM-204 and by the restated conditions of
     CLAIM-033, CLAIM-087, CLAIM-105 and CLAIM-117. Status unchanged.
 role: granted
+warrant: demonstrated
 tags:
 - philosophy-of-science
 - mathematical-statistics

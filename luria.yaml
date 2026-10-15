@@ -355,6 +355,25 @@ vocabularies:
         label: Supposed
         blurb: assumed for the sake of the argument, so everything resting on it is conditional on it.
           May scope a whole work, as an independently warranted agent scopes the will paper
+  claim-warrants:
+    label: Warrants
+    blurb: How a CLAIM as stated is supported, apart from whether the record accepts it (status) and
+      in whose voice (role). Attached to the claim, never inherited along `rests_on` or `corroborates`
+      (ADR-043).
+    alert: Closed. A claim whose parts are warranted differently is split, not given two warrants. How
+      firmly the record holds it is the status, not the warrant.
+    terms:
+      demonstrated:
+        label: Demonstrated
+        blurb: follows from stated premises, definitions or a construction, and licenses the conclusion
+          under them. A theorem whose interpretation is disputed is demonstrated and Proposed
+      empirical:
+        label: Empirical
+        blurb: supported by observation or experiment, and scoped to that evidence
+      interpretive:
+        label: Interpretive
+        blurb: supported by conceptual argument, analogy or synthesis, and settled neither way by proof
+          or by data
   case-standing:
     label: Case standings
     blurb: How much of a CASE is fact. A case serves claims whatever its standing; what its standing changes
@@ -1059,6 +1078,10 @@ schemes:
       role:
         vocabulary: claim-roles
         required: true
+      warrant:
+        vocabulary: claim-warrants
+        required: true
+        blurb: how the claim as stated is supported (ADR-043)
       defeated_if:
         required_when:
           role:

@@ -6,6 +6,7 @@ formerly:
 title: 'Trope analysis of this kind is Propp''s and Lévi-Strauss''s, and trope annotations are written to fit their examples, so agreement with TV Tropes labels cannot by itself validate a structural account'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - translation
 - philosophy-of-science

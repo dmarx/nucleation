@@ -6,6 +6,7 @@ formerly:
 title: 'A text supports a distribution over possible communicative situations, and a translation can be faithful by preserving that distribution and its response to further evidence'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings whose inferred-situation posteriors match those of the
   source, including after added evidence, are judged no more faithful

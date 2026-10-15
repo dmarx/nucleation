@@ -6,6 +6,7 @@ formerly:
 title: 'A constraint may govern conduct without governing the conditions under which it remains authoritative'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An account of institutional action that reconstructs every such case
   from the contents of the rules alone, without modelling who controls

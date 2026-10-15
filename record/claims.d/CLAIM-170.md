@@ -16,6 +16,7 @@ history:
     applies to willed agents (TERM-048). The factorization half is
     unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A system that, at a fixed level and target, has two equally good
   factorizations into agents that disagree on which regimes each agent's

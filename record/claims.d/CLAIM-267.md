@@ -22,6 +22,7 @@ history:
     the bounded regime (THEORY-289), prompted by NOTE-815. The
     claim is unchanged.
 role: thesis
+warrant: demonstrated
 defeated_if: A chain of maps on a metric space, with per-step discrepancies
   ε_i from a reference chain and later maps with Lipschitz constants L_i,
   whose end-to-end error exceeds Σ ε_i ∏_(j>i) L_j plus the propagated initial

@@ -18,6 +18,7 @@ history:
     gets wrong. On two contexts (one edge) the minimum was 0 for every
     random offset tried.
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   Two locally consistent contexts that agree on their overlap and still
   fail to glue (in the abelian setting), or a three-context cycle with

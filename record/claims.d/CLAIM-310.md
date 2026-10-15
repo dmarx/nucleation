@@ -9,6 +9,7 @@ title: Sorting schemes over objects with determinate properties never conflict a
   costs least depends on what is searched for and on what stands out within a bin
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A cost model of retrieval from a sorted collection in which the cheapest arrangement
   for a fixed number of bins does not depend on the query mix, or does not depend

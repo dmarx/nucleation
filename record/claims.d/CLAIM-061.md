@@ -6,6 +6,7 @@ formerly:
 title: 'Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Human judgements of stance, footing and force track propositional
   sameness: renderings that keep the proposition reliably keep them, and

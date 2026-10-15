@@ -27,6 +27,7 @@ history:
     the auxiliary labelled data decides which partition of the same
     unlabelled data wins. Added as a note; the claim is unchanged.
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A privileged target, argued for independently of the partition it
   selects, under which one individuation is sufficient for every query

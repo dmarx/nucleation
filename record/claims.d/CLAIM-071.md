@@ -6,6 +6,7 @@ formerly:
 title: 'Conditional generation shares a mathematical vocabulary with translation, not a mechanism: denoising time is not telephone-game time, and a generative failure is not a proof of sheaf contextuality'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - compositionality
 - probabilistic-modeling

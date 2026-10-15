@@ -6,6 +6,7 @@ formerly:
 title: 'What fundamentally distinguishes variations of a translation is the frame from which it is delivered'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings delivered from the same frame differ as much, in kind and
   degree, as renderings delivered from different frames, so that frame

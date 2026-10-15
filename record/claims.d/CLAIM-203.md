@@ -18,6 +18,7 @@ history:
     since CLAIM-129 concerns what factorizations of a relation family
     show.
 role: counter
+warrant: demonstrated
 tags:
 - philosophy-of-science
 - representation-learning

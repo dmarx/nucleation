@@ -6,6 +6,7 @@ formerly:
 title: 'In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A text-to-image model whose per-condition satisfaction predicts its
   joint binding accuracy, or a proof that score addition composes

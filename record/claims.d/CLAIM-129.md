@@ -19,6 +19,7 @@ history:
     co-occurrence recovers the act distinction as well as factorizations
     fitted to interpretive-judgement or uptake data do."
 role: thesis
+warrant: interpretive
 defeated_if: >-
   On held-out, correlation-breaking items of a design that crosses topic
   with act (CASE-040), and on naturally occurring items whose act is

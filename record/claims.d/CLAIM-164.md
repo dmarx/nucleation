@@ -19,6 +19,7 @@ history:
     stable object (2.1° against 4.7°). The exact angles differ from
     MOM's with the random draw.
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A perturbation regime in which a subspace bounded by a wide gap rotates
   by more than Davis–Kahan's ‖δT‖/δ, or a degenerate cluster whose

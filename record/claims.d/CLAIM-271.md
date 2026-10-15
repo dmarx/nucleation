@@ -6,6 +6,7 @@ formerly:
 title: 'A collective''s reasons need not be any of its members'' reasons, so aggregating members'' conclusions, as polling does, can yield verdicts the collective''s own reasons do not support'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A collective that settles linked questions by its members' majority
   conclusions on each, as a polity steered by polls does, whose verdicts

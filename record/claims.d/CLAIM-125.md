@@ -20,6 +20,7 @@ history:
     classification of classical transports, to signalling data.' The
     title is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An existing framework characterizes, for stochastic maps between
   families of empirical models indexed by situations and with different

@@ -6,6 +6,7 @@ formerly:
 title: 'The account does not say which distinctions a translation ought to keep: it says how to tell which ones a rendering kept for stated tasks and receivers, and what ought to be kept is set by the purpose the translation serves'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - philosophy-of-language
 - translation

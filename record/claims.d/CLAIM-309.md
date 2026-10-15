@@ -10,6 +10,7 @@ title: 'How good a mixture is and how discriminable it is from its diluent come
   line reverses one of its directions'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A model of taste in which adding the diluent first increases the mixture's discriminability
   from the diluent alone, with the other ingredients fixed: that is, the distance

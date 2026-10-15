@@ -6,6 +6,7 @@ formerly:
 title: 'Recovering latent relational structure from an interaction matrix, with no privileged latent coordinates, is decades-old prior art, so the manuscript''s contribution cannot be that recovery'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - representation-learning
 - philosophy-of-science

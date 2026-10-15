@@ -6,6 +6,7 @@ formerly:
 title: 'Stability does not entail viability: a system can occupy a stable regime while losing access to trajectories that keep satisfying its constraints'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A notion of viability on which present constraint satisfaction under a
   stable regime guarantees viable trajectories over the relevant horizon.

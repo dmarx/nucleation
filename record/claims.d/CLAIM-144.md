@@ -6,6 +6,7 @@ formerly:
 title: 'Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - natural-sciences
 - mathematics

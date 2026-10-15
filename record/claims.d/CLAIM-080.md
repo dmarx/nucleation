@@ -6,6 +6,7 @@ formerly:
 title: 'The agent is independently warranted: the account asks how a given agent''s practical efficacy is organized, not what makes something an agent'
 version: 1
 role: supposed
+warrant: interpretive
 tags:
 - agency
 date: '2026-10-05'

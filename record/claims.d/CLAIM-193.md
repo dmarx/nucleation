@@ -6,6 +6,7 @@ formerly:
 title: 'A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A regularized linear readout is shown to separate two representations
   with the same normalized kernel. Or, for communicative realizations, a

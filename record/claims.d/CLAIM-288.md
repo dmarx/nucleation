@@ -6,6 +6,7 @@ formerly:
 title: 'A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller''s, not set by the organization itself'
 version: 1
 role: counter
+warrant: interpretive
 objects_to:
 - CLAIM-284
 grounds:

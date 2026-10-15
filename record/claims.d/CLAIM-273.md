@@ -23,6 +23,7 @@ history:
     2026-10-14, under ADR-041): its inactive-ok comment and the text marking it unread
     reworded. The claim is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that contested artworks on r/place keep their form without a
   sustained flow of repair, so that the pattern under attack behaves like

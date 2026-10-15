@@ -8,6 +8,7 @@ title: Two inquiry histories can agree on every current conclusion and still cal
   state for updating on evidence about what it depended on
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   An error in the construction: two distributions with the stated conditionals whose
   marginals for H differ, or whose updates on C = 1 coincide. Nothing empirical

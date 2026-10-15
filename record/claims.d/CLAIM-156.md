@@ -6,6 +6,7 @@ formerly:
 title: 'Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The effect of mindfulness practice on self-control is fully mediated by
   a change in measured discounting, so that the valuations themselves

@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative categories form a concept lattice rather than a hierarchy: categories such as affectionate teasing and sarcastic condemnation share attributes and differ in a few social-relational constraints'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Judged communicative categories are not closed under the
   attribute–object correspondence of formal concept analysis, or their

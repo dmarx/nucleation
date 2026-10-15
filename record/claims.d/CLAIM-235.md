@@ -14,6 +14,7 @@ history:
     and on CLAIM-127's routes. CLAIM-228 makes deficiency a
     finite computation over judgement outcomes.
 role: counter
+warrant: demonstrated
 tags:
 - mathematical-statistics
 - contextuality

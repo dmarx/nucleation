@@ -6,6 +6,7 @@ formerly:
 title: 'For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In the discriminating study (CASE-055), whose renderings are built
   to dissociate the pragmatic observables from wording and proposition,

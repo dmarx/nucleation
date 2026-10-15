@@ -6,6 +6,7 @@ formerly:
 title: 'A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   No family of observable distinctions can be fixed independently of the
   transports being compared, so that the admissibility condition cannot

@@ -15,6 +15,7 @@ history:
     readings, without CLAIM-187's carry-over to communicative kinds.
     CLAIM-187 now rests on this claim.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Pairs of trained networks that share a mechanism by an independent test
   (the same input attributes relied on, the same features up to

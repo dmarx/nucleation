@@ -6,6 +6,7 @@ formerly:
 title: 'A stored text means only what its readings make of it: the writer''s projected receiver is one more reading, so an unread text has possible meanings and no fixed one'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - pragmatics
 - philosophy-of-language

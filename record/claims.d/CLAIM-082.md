@@ -6,6 +6,7 @@ formerly:
 title: 'A sign''s communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A reading of Saussure or of the structuralist tradition that shows
   value to be fixed by reference, or a case where a term's communicative

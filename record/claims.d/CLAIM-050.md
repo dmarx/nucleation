@@ -20,6 +20,7 @@ history:
     (CLAIM-199). The scope is report fidelity (CLAIM-212).
     The manuscript's text quoted below is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Receivers' task-indexed fidelity verdicts rank the same rendering
   procedures the same way whatever task in Q is named, so that fidelity

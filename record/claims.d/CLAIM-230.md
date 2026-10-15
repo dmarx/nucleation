@@ -14,6 +14,7 @@ history:
     states its condition over procedures and a designed distribution
     of situations.
 role: counter
+warrant: demonstrated
 tags:
 - mathematical-statistics
 - philosophy-of-science

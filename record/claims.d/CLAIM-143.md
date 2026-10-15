@@ -6,6 +6,7 @@ formerly:
 title: 'Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Either of two findings. In the pragmatic data the theory is applied
   to, every disagreement between source and target judgements that a

@@ -6,6 +6,7 @@ formerly:
 title: 'A translation reconstructs not only what is said but the situation of its saying'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Readers judge renderings faithful when the implied speaker, audience
   and attitude of the source cannot be recovered from them, as often as

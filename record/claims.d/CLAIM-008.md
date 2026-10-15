@@ -6,6 +6,7 @@ formerly:
 title: 'The abstract similarity between renderings is similarity of higher-order latents, which can survive large differences in lower-order ones'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   No latent representation learned from independently testable
   communicative contrasts places renderings judged pragmatically similar

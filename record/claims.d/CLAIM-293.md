@@ -8,6 +8,7 @@ title: 'The topology of a support graph does not fix how a conclusion should be
   evidence of different strength and call for different revisions'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - epistemology
 - probabilistic-modeling

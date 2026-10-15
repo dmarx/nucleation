@@ -17,6 +17,7 @@ history:
     contextual model. CLAIM-201 states the form the data leave
     open, a change of cover, and CLAIM-105 v2 restates its condition.
 role: counter
+warrant: empirical
 tags:
 - contextuality
 - philosophy-of-language

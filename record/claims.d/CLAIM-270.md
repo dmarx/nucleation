@@ -17,6 +17,7 @@ history:
     without the premises about translation that CLAIM-081 rests on; CLAIM-081
     now rests on this claim.
 role: thesis
+warrant: demonstrated
 defeated_if: A proof that, for Markov chains in general, the mutual information
   between the initial state and the n-th state and the divergence of the n-th
   marginal from the initial distribution are monotone functions of one another.

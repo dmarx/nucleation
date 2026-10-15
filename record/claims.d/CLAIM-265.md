@@ -16,6 +16,7 @@ history:
     without the premises about translation that CLAIM-143 rests on; CLAIM-143
     now rests on this claim.
 role: thesis
+warrant: interpretive
 defeated_if: A case in which two local descriptions are shown to obstruct
   a joint description, or shown to be compatible, without any correspondence
   between their observations being fixed. Or an argument that a correspondence

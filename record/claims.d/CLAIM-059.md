@@ -15,6 +15,7 @@ history:
     reconstruction chains shows no difference between conditions that
     the theory assigns to different regimes.'
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   Per-generation sensitivities, estimated in a metric fixed in advance
   (not total variation, in which no Markov step amplifies) from several

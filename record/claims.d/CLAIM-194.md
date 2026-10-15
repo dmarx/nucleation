@@ -6,6 +6,7 @@ formerly:
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - individuation
 - agency

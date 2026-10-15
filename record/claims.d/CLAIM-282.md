@@ -6,6 +6,7 @@ formerly:
 title: 'Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator''s authority independent of its own endorsements'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - self-governance
 - social-ontology

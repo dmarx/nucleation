@@ -6,6 +6,7 @@ formerly:
 title: 'Classical structuralism studies relations within a system, whereas this theory makes the transport of relational systems its object and does not require structure to remain invariant'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Every transformation of interest is characterized by what it leaves
   invariant, so that studying transport adds nothing to studying

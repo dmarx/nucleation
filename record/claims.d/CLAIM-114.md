@@ -6,6 +6,7 @@ formerly:
 title: 'Drift along a reconstruction chain can be marked by a pragmatic phase change, the first generation at which a different communicative configuration dominates, which per-step error does not show'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Along chains that end in a different speech act, the dominant
   communicative configuration changes gradually, with no generation at

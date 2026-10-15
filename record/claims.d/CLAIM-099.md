@@ -6,6 +6,7 @@ formerly:
 title: 'Maintaining a regime of effective action and maintaining the capacity to govern among regimes are not the same achievement'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A case where an agent's success at sustaining its operative regime
   always preserves its capacity to transition or transform, so that the

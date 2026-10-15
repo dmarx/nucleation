@@ -6,6 +6,7 @@ formerly:
 title: 'Regulation, even higher-order regulation, does not establish a will'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - agency
 - complex-systems

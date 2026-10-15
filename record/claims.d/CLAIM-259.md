@@ -6,6 +6,7 @@ formerly:
 title: 'The decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   Receivers' task-indexed fidelity verdicts, on renderings that improve
   some tasks and worsen others, track the symmetric distance D_Q better

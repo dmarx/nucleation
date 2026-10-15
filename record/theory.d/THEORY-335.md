@@ -41,6 +41,7 @@ summary: >-
   refuted nor shown. Mussweiler & Strack 1999 ([LIT-1078](../literature.d/LIT-1078.md)) is Unavailable.
 supports:
 - CLAIM-298
+- CLAIM-tmp3bdbx
 ---
 <!-- inactive-ok-file: LIT-1078 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->

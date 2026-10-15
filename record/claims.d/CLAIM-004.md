@@ -6,6 +6,7 @@ formerly:
 title: 'Not every difference between translations is a difference of frame: some change the act being framed'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   No reliable criterion separates a rendering that reframes a
   communicative act from one that changes the act, so that judges cannot

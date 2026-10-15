@@ -6,6 +6,7 @@ formerly:
 title: 'A compatible family of sections of the event sheaf always glues, so where a communicative object lacks a global realization the obstruction lies in its supports or distributions, not in the event sheaf'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - contextuality
 - mathematics

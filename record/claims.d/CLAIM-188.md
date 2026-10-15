@@ -6,6 +6,7 @@ formerly:
 title: 'For a candidate structure whose removal makes the remaining model singular, the reification rule''s Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular'
 version: 1
 role: counter
+warrant: demonstrated
 tags:
 - model-comparison
 - individuation

@@ -6,6 +6,7 @@ formerly:
 title: 'Retaining information about the ancestor and drifting in the population''s distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   In serial reconstruction, ancestral information retention and
   distributional drift from the source always move together, so that one

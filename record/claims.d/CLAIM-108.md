@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   No class of transformations relevant to translation leaves any judged
   communicative relation invariant or equivariant, so that identity

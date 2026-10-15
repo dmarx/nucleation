@@ -18,6 +18,7 @@ history:
     rendering that loses a scalar implicature. The body below is
     unchanged.
 role: granted
+warrant: demonstrated
 tags:
 - pragmatics
 - translation

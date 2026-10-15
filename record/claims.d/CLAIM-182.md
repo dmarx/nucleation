@@ -6,6 +6,7 @@ formerly:
 title: 'Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses'
 version: 1
 role: thesis
+warrant: empirical
 defeated_if: >-
   A record whose content is stored but not addressable at the level of
   its parts (a transcript, a draft) is found to suppress re-derivation

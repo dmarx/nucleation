@@ -6,6 +6,7 @@ formerly:
 title: 'A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that the long-lived artworks of r/place persisted mainly because
   they went unattacked, so that their placements were sparse and repair was

@@ -23,6 +23,7 @@ history:
     which changes count as adaptation (LIT-969, Claim 4), prompted by
     NOTE-793. The tests are unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A factor that passes all three tests at a level and target and is
   nonetheless, by independent marks, not an agent there. Or a clear agent,

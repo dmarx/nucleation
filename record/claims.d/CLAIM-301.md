@@ -8,6 +8,7 @@ title: 'Iterative retrieval can turn a provisional interpretation into a premise
   and the question being investigated drifts as well as the queries'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A21 §7's design run at matched budgets, finding that adaptive single trajectories
   convert conjectures into unstated premises no more often than fixed queries or

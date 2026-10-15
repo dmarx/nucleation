@@ -6,6 +6,7 @@ formerly:
 title: 'The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - philosophy-of-language
 - linguistics

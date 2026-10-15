@@ -19,6 +19,7 @@ history:
     (CLAIM-231). The manuscript's §9 identity quoted below is
     unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Among renderings matched, within a margin fixed in advance, on static
   judgement distributions, differences in observed responses to later

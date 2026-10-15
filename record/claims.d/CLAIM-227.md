@@ -6,6 +6,7 @@ formerly:
 title: 'No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst''s own, changed between passes'
 version: 1
 role: granted
+warrant: empirical
 tags:
 - psychometrics
 - pragmatics

@@ -6,6 +6,7 @@ formerly:
 title: 'Under Contextuality-by-Default, a deterministic context-wise recoding can make a noncontextual signalling source maximally contextual, or turn a contextual source into pure signalling, so per-content signalling is not monotone under such maps and the quantity to bound is joint overlap discrepancy'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - contextuality
 - mathematics

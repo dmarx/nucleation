@@ -6,6 +6,7 @@ formerly:
 title: 'A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries'
 version: 1
 role: counter
+warrant: demonstrated
 tags:
 - databases
 - information-retrieval

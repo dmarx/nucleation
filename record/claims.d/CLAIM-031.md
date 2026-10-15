@@ -6,6 +6,7 @@ formerly:
 title: 'A reconstruction chain reorganizes observational constraints rather than only accumulating metric error: a text can change greatly while keeping a few consequential constraints, and one changed constraint can change the act'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-language
 - complex-systems

@@ -17,6 +17,7 @@ history:
     CLAIM-204. CLAIM-115's and CLAIM-139's own conditions are
     unchanged. Status Proposed to Active.
 role: counter
+warrant: interpretive
 tags:
 - psychometrics
 - philosophy-of-science

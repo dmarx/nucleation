@@ -6,6 +6,7 @@ formerly:
 title: 'A global workspace need not give every subsystem the same access: access is compartmented in brains as in organizations, so "global" overstates it'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that conscious access in the workspace sense is uniform across
   subsystems whenever it occurs, so that compartmented access is always

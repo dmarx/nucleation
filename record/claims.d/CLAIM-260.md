@@ -6,6 +6,7 @@ formerly:
 title: 'Approximate transports compose into a category only if the distortion obeys a triangle inequality and later kernels are nonexpansive, so the semigroup claim''s "category or semigroup" holds for exact kernels, and for approximate ones only under those conditions'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 - probabilistic-modeling

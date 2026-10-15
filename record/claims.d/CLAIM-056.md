@@ -6,6 +6,7 @@ formerly:
 title: 'Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   In serial reconstruction chains, end-to-end drift is not predicted by
   per-step discrepancies combined with the measured sensitivity of later

@@ -26,6 +26,7 @@ history:
     NOTE-814 (LIT-955): one global threshold fits some regions and
     not others.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Measured cases in which the block criterion and independent marks of
   unity come apart systematically, for the same target: blocks that clear
