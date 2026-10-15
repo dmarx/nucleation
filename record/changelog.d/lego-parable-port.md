@@ -38,3 +38,6 @@
   Manasse, Rudolph and Sleator 1988, read ([LIT-tmpwhdfd](record/literature.d/LIT-tmpwhdfd.md)), rent-or-buy.
 - Chaudhuri and Narasayya 1997, read ([LIT-tmpb43n3](record/literature.d/LIT-tmpb43n3.md)): workload-driven index
   selection in practice.
+- Bruno and Chaudhuri 2007, read ([LIT-tmpu5ktj](record/literature.d/LIT-tmpu5ktj.md)): online index tuning, the
+  nearest the record has to the joint cost model; Athanassoulis et al. 2016,
+  read ([LIT-tmpeweya](record/literature.d/LIT-tmpeweya.md)): the RUM conjecture.

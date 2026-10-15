@@ -195,6 +195,41 @@ statistics-gathering: the cost of deciding, not of organizing. Its k counts
 secondary orders kept, not the parts of one partition, so it does not match
 [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md)'s bin budget.
 
-**Not read.** Bruno and Chaudhuri 2007 (rent-or-buy, applied to indexes)
-and Athanassoulis et al. 2016 (the RUM conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
+**The nearest to a joint model.** Bruno and Chaudhuri 2007 ([LIT-tmpu5ktj](../literature.d/LIT-tmpu5ktj.md),
+[NOTE-tmpcs92s](../notes.d/NOTE-tmpcs92s.md)), read at the owner's request from the accepted version on
+Microsoft Research's page. It is the first work the record has read that
+puts one-time organizing cost, per-query savings, upkeep, space and an
+unknown, changing workload on one schedule. Each index has a build cost
+B_I; dropping is free. The tuner keeps a running sum of the savings an
+index would have given. It creates the index once that sum has risen by
+B_I above its last low point, and drops it once it has fallen by B_I below
+its last high. That is rent-or-buy in both directions, with hysteresis,
+though the paper cites no competitive-analysis work and the survey's
+"rent-or-buy framing" is the record's reading. Its "three-competitive"
+result covers one index with no storage limit, and the proof shows only
+that the ratio can approach 3. A simulation done for this reading found
+the ratio exceeding 3 when a single statement's saving is large relative
+to B_I, so the guarantee needs a small-step condition the paper does not
+state. The general case is heuristic. It falls short of the question's
+model in four ways: dropping is free, there is no staleness or deferred
+upkeep, builds take no time, and it covers access paths, not precomputed
+answers. For a LEGO bin: make it once the extra search already spent on
+the brick, net of the bin's other costs, equals the bin's cost, and
+remove it by the mirror rule. With a near-free bin, that says set the
+brick aside at the first retrieval it would have sped up ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)),
+but one search through a large pile of similar bricks can cost more than
+the bin, which is outside the small-step condition.
+
+**A vocabulary, not a model.** Athanassoulis et al. 2016 ([LIT-tmpeweya](../literature.d/LIT-tmpeweya.md),
+[NOTE-tmp4jlib](../notes.d/NOTE-tmp4jlib.md)), the RUM conjecture, read from the open EDBT proceedings. It defines
+read, update and memory overhead as ratios to the base data, each at least
+1, and conjectures that bounding two forces a lower bound on the third. It
+is unproved, and as worded nearly empty, since each overhead is already at
+least 1. In its terms, sorting with no auxiliary structure is an upkeep
+trade, not a space trade: a sorted column reads in O(log N) and updates in
+O(N). The extremes are not symmetric: the space-minimal design (an
+unsorted pile) is also update-minimal. Build cost, workload, deadlines and
+pop-out are all outside it. An unsorted pile, one labelled bin per kind,
+and a tray of new bricks left to sort later map onto its three extreme
+designs. Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
 The learned-index line (Kraska et al. 2018) belongs in the anthology.
