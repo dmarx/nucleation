@@ -32,3 +32,7 @@
   for the same question: which answers to precompute.
 - [ADR-045](record/decisions.d/ADR-045.md): `databases` (Databases and data structures) joins the topics,
   on the five works above.
+- Three more for the sorting question, at the owner's request: Comer 1978,
+  Unavailable ([LIT-tmpij5df](record/literature.d/LIT-tmpij5df.md)); Piatetsky-Shapiro 1983, read ([LIT-tmpkl6wl](record/literature.d/LIT-tmpkl6wl.md)),
+  now cited for workload-based index selection being NP-hard; Karlin,
+  Manasse, Rudolph and Sleator 1988, read ([LIT-tmpwhdfd](record/literature.d/LIT-tmpwhdfd.md)), rent-or-buy.

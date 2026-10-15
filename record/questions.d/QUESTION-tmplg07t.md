@@ -163,7 +163,24 @@ of an exact O(2^√M log M) algorithm for M domains suggests. So the trade
 can be stated exactly and is hard in general, but not at the size of a LEGO
 collection's sorting choices.
 
-**Not read.** Chaudhuri and Narasayya 1997, Karlin et al. 1988 (being read)
-and Bruno and Chaudhuri 2007 (rent-or-buy, applied to indexes), and
-Athanassoulis et al. 2016 (the RUM conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
+**When to stop paying per use.** Karlin, Manasse, Rudolph and Sleator 1988
+([LIT-tmpwhdfd](../literature.d/LIT-tmpwhdfd.md), [NOTE-tmp6n3s5](../notes.d/NOTE-tmp6n3s5.md)), read at the owner's request, give the first
+competitive analysis of rent-or-buy without the name. A cache holding a
+shared block pays 1 per write to keep it current, or drops it and pays p
+to fetch it again on a later read. Dropping once the writes since the last
+read have cost p is within 2 of the offline optimum on every sequence, and
+no deterministic online rule does better. In their words, "the change from
+a state A to a state A' is made when the cost of making the change equals
+the extra cost incurred due to being in state A instead of A'". For a LEGO
+bin, the mirror case: make the bin once the extra search already spent on
+a brick equals the bin's cost. Setting a brick aside when it is found costs
+almost nothing, so the rule says do it at once, as [CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md) does. For
+filing ([CLAIM-303](../claims.d/CLAIM-303.md)), counting uses weighted by what each reconstruction cost
+is a criterion that stays within 2 in the worst case, with no forecast of
+reuse. The guarantee assumes fixed prices and exactly two options, and the
+paper prices no staleness: it forbids stale reads instead.
+
+**Not read.** Chaudhuri and Narasayya 1997, Bruno and Chaudhuri 2007
+(rent-or-buy, applied to indexes), and Athanassoulis et al. 2016 (the RUM
+conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
 The learned-index line (Kraska et al. 2018) belongs in the anthology.
