@@ -41,3 +41,5 @@
 - Bruno and Chaudhuri 2007, read ([LIT-tmpu5ktj](record/literature.d/LIT-tmpu5ktj.md)): online index tuning, the
   nearest the record has to the joint cost model; Athanassoulis et al. 2016,
   read ([LIT-tmpeweya](record/literature.d/LIT-tmpeweya.md)): the RUM conjecture.
+- Gupta 1997, read ([LIT-tmpn0tsb](record/literature.d/LIT-tmpn0tsb.md)): view selection with maintenance cost,
+  the follow-up the owner asked for as Harinarayan's.

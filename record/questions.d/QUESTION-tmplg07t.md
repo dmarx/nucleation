@@ -195,6 +195,22 @@ statistics-gathering: the cost of deciding, not of organizing. Its k counts
 secondary orders kept, not the parts of one partition, so it does not match
 [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md)'s bin budget.
 
+**Upkeep for stored answers.** Gupta 1997 ([LIT-tmpn0tsb](../literature.d/LIT-tmpn0tsb.md), [NOTE-tmp4p0w6](../notes.d/NOTE-tmp4p0w6.md)), read at the
+owner's request as the follow-up to Harinarayan et al. with maintenance:
+Harinarayan himself wrote none. It minimizes query frequency × lookup cost
+plus update frequency × upkeep over the stored views, under a space
+budget: the shape of the joint model this question lacks. But maintenance
+enters one result only, AND graphs where each view is updated less often
+than it is queried. For the data cube the paper assumes no updates, so it
+does not add upkeep to Harinarayan's problem. Its greedy reaches 1 − 1/e
+of the best benefit while using up to twice the space. It has no build
+cost and no experiments. It prices keeping a stored answer current, not
+acting on one gone stale: speed bugs are reset each approach, and a filed
+argument goes stale without anyone propagating updates to it. Its
+condition that a stored item is read more often than its source changes
+sits close to [CLAIM-303](../claims.d/CLAIM-303.md)'s "worth its cost only when expected reuse covers
+it", but in the paper it is only what the proof needs.
+
 **The nearest to a joint model.** Bruno and Chaudhuri 2007 ([LIT-tmpu5ktj](../literature.d/LIT-tmpu5ktj.md),
 [NOTE-tmpcs92s](../notes.d/NOTE-tmpcs92s.md)), read at the owner's request from the accepted version on
 Microsoft Research's page. It is the first work the record has read that
