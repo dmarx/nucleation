@@ -29,7 +29,7 @@ history:
     record/ (clone of 2026-10-15, commit d1573d2) for the authors and the title
     found nothing. Read the same day (NOTE-tmp6iazx).
 tags:
-- information-retrieval
+- databases
 date: '2026-10-15'
 published: '2007-01-07'
 url: https://cidrdb.org/cidr2007/papers/cidr07p07.pdf

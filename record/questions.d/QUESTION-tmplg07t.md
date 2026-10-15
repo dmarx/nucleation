@@ -7,6 +7,7 @@ title: Is sorting a collection amortized search, and does physical database desi
 version: 1
 tags:
 - information-retrieval
+- databases
 - cognition
 - operations-research
 date: '2026-10-15'

@@ -29,7 +29,8 @@ history:
     a grep of its record/ (clone of 2026-10-15, commit d1573d2) for the authors
     and the title found nothing. Read the same day (NOTE-tmphbty9).
 tags:
-- information-retrieval
+- databases
+- operations-research
 date: '2026-10-15'
 published: '1988-03-01'
 doi: 10.1145/42201.42205

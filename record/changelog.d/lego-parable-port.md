@@ -27,3 +27,7 @@
   ([LIT-tmpmqtpm](record/literature.d/LIT-tmpmqtpm.md)), Sleator and Tarjan 1985 ([LIT-tmpt85t0](record/literature.d/LIT-tmpt85t0.md)).
 - [ADR-044](record/decisions.d/ADR-044.md), proposed: a `corroborates` relation between claims, for
   evidence that is not a dependency. Not applied.
+- Harinarayan, Rajaraman and Ullman 1996 ([LIT-tmptn63k](record/literature.d/LIT-tmptn63k.md)), registered and read
+  for the same question: which answers to precompute.
+- [ADR-045](record/decisions.d/ADR-045.md): `databases` (Databases and data structures) joins the topics,
+  on the five works above.
