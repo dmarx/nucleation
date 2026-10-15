@@ -42,3 +42,8 @@
   only samplability needs generators), the hidden-bit claim and the
   generator case, the anchoring claim (retrieval step inferred, not
   measured), and the question on retained state (narrowed).
+- A question on amortized retrieval as amortized computation, from the
+  cockpit reading, with eight works on offloading and amortization
+  registered and read (Kirsh & Maglio, Kirsh, Ballard et al., Risko &
+  Gilbert, Gray & Fu, Dasgupta et al., Lieder & Griffiths, Gershman &
+  Goodman) and a citation search for prior joint treatments.

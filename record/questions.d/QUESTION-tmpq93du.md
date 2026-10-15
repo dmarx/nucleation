@@ -15,7 +15,7 @@ summary: >-
 refined_by:
 - QUESTION-tmph2dsr
 ---
-<!-- inactive-ok-file: LIT-tmpkn9x0 LIT-tmpzxnap — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpzxnap — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-182 CLAIM-184 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpq93du: When does cue-dependent retrieval make bounded reasoning better, and when does it produce anchoring, path dependence or entrenchment?

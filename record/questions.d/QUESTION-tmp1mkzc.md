@@ -21,7 +21,6 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 ---
-<!-- inactive-ok-file: LIT-tmp5hdul LIT-tmpbbd7f LIT-tmpbhj79 LIT-tmppqntw LIT-tmpt2ql7 LIT-tmptejau LIT-tmpvpm24 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-tmp7t44x CLAIM-tmpygqjz — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmp1mkzc: Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences?
@@ -53,12 +52,13 @@ the two parts [CLAIM-tmp7t44x](../claims.d/CLAIM-tmp7t44x.md) separates, informa
 and computational (a cheap operation replaces an expensive one). What it
 costs is staleness: a reused result can be wrong for the query at hand.
 
-Literatures that may already hold it, registered unread for this question:
+Literatures that may already hold it, registered for this question and read the same day (note below):
 
 - **Amortized inference.** Dasgupta, Schulz, Goodman and Gershman 2018
-  ([LIT-tmpt2ql7](../literature.d/LIT-tmpt2ql7.md)), with Gershman and Goodman 2014 to be registered once its
-  citation is confirmed: reasoners reuse past inferences on related
-  queries, faster and biased toward earlier answers.
+  ([LIT-tmpt2ql7](../literature.d/LIT-tmpt2ql7.md)) and Gershman and Goodman 2014 ([LIT-tmp6dcov](../literature.d/LIT-tmp6dcov.md)): reasoners reuse
+  past inferences on related queries. The 2014 paper shows reuse faster
+  and dependent on the earlier answer; the 2018 paper shows the earlier
+  computation's error carried over, at a cost in bias.
 - **Offloading into the world.** Kirsh and Maglio 1994 ([LIT-tmp5hdul](../literature.d/LIT-tmp5hdul.md)),
   Kirsh 1995 ([LIT-tmpvpm24](../literature.d/LIT-tmpvpm24.md)), Ballard et al. 1997 ([LIT-tmptejau](../literature.d/LIT-tmptejau.md)), Risko and
   Gilbert 2016 ([LIT-tmpbhj79](../literature.d/LIT-tmpbhj79.md)).
@@ -75,3 +75,66 @@ and the retrieval costs and failure modes differ. It would also say
 whether anyone has already joined the distributed-cognition and
 amortized-inference literatures, which is checked as part of this
 reading pass.
+
+## Note of 2026-10-15: what the eight readings found
+
+All eight were read (NOTEs filed the same day). None of them joins the
+two literatures with a cost model, and they split the proposed single
+trade into four strategies, separated by when the work is done and what
+is left behind:
+
+| strategy | example | work done | what is left |
+|---|---|---|---|
+| precompute and leave a result | the cockpit's speed bugs ([LIT-tmpn2s1p](../literature.d/LIT-tmpn2s1p.md)) | before the request | a computed result |
+| maintain structure that makes search cheap | Kirsh 1995's grouping, O(N) to O(log N) ([LIT-tmpvpm24](../literature.d/LIT-tmpvpm24.md)) | over the task | an arrangement |
+| offload at the moment of use | Tetris rotation ([LIT-tmp5hdul](../literature.d/LIT-tmp5hdul.md)) | during the task, once | nothing |
+| defer and re-read | Ballard et al.'s block copying ([LIT-tmptejau](../literature.d/LIT-tmptejau.md)) | when needed | the raw input |
+
+Amortized inference ([LIT-tmp6dcov](../literature.d/LIT-tmp6dcov.md), [LIT-tmpt2ql7](../literature.d/LIT-tmpt2ql7.md)) is the first strategy
+with the store inside the head, and its models give retrieval no cost.
+Kirsh comes closest to the owner's point, citing Tarjan's amortized
+analysis for workspace structuring, but says the savings cannot "in
+general" be quantified. Lieder and Griffiths' objective ([LIT-tmppqntw](../literature.d/LIT-tmppqntw.md)) could
+host the trade but is per episode, with no terms for precomputation,
+storage, retrieval or staleness; it treats the cost of finding a strategy
+as already paid, itself an amortization. Gray and Fu ([LIT-tmpbbd7f](../literature.d/LIT-tmpbbd7f.md)) price
+only read-back: people take the cheaper route, and check finished work
+from memory, even when the display is perfect. Risko and Gilbert
+([LIT-tmpbhj79](../literature.d/LIT-tmpbhj79.md)) add that offloading erodes the internal route over time,
+a cost [CLAIM-tmpygqjz](../claims.d/CLAIM-tmpygqjz.md)'s fixed reconstruction cost leaves out.
+
+What a single account would need, from these: a term for how predictable
+the later query is (the cockpit's is fixed and known; Ballard's
+"cannot" be precomputed), a retrieval cost that includes search, a
+staleness or bias cost on reuse, and a term for the erosion of the
+alternative. The four strategies would then be regimes of one trade,
+which is the owner's conjecture, stated so that it can fail.
+
+## Note of 2026-10-15: has anyone joined them? A citation search
+
+Citation data (OpenCitations, fourteen seed works, both literatures) found
+no indexed work that cites Dasgupta et al. 2018, or Dasgupta and Gershman
+2021, together with any offloading or distributed-cognition source. The
+bridges that exist run through resource rationality and price cognitive
+effort, not the reuse of a result. Pieces, none registered here yet:
+
+- Gray, Sims, Fu and Schoelles 2006 (Psychological Review 113, 461–482,
+  doi:10.1037/0033-295X.113.3.461): the nearest formal head-or-world cost
+  model, deciding each access separately, with no precompute, reuse or
+  staleness term.
+- Kirsh 1996, "Adapting the environment instead of oneself" (Adaptive
+  Behavior 4, 415–452, doi:10.1177/105971239600400307): the owner's
+  intuition from inside distributed cognition, leaving tools in place to
+  "amortize the cost of search", named and not modelled.
+- Dasgupta and Gershman 2021, "Memory as a computational resource" (Trends
+  in Cognitive Sciences 25, 240–251, doi:10.1016/j.tics.2020.12.008):
+  memoization and amortization across domains, internal memory only, and
+  none of its references is an offloading source.
+- Also: Gilbert et al. 2020 on optimal reminders (single use), Russell et
+  al. 1993 on the cost structure of sensemaking, and Anderson and Milson
+  1989, whose need probability is the formal "expected reuse" for internal
+  memory.
+
+The search could not reach OpenAlex or Semantic Scholar, so Gershman and
+Goodman 2014's citers were not checked. On what it could check, the answer
+to whether this has been formalized is: in parts, not as one trade.

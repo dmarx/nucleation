@@ -39,7 +39,7 @@ summary: >-
   memory ([LIT-269](../literature.d/LIT-269.md)), is a model, not evidence about judges. The extension to communication
   in general is the record's and is not shown.
 ---
-<!-- inactive-ok-file: LIT-tmpkn9x0 LIT-tmpzxnap — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpzxnap — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-117 CLAIM-184 CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmp9snb1: A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged

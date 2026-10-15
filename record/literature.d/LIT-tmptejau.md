@@ -1,18 +1,35 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-15, not yet read. Registered at the owner's request with the amortization
-  and offloading literature (curation entry of 2026-10-15). A reading is under way.
+  read in full 2026-10-15 (the target article, pp. 723–742; the open peer commentaries
+  and the authors' response, pp. 742–767, not read) from the typeset BBS PDF posted
+  on Dana Ballard's University of Texas page (www.cs.utexas.edu/~dana/bbs.pdf; the
+  same file is on Rajesh Rao's University of Washington page). Unpaywall and OpenAlex
+  report the DOI closed. Worth reading as the founding statement of fixation as
+  a pointer that binds a program variable to a place in the world at about a third
+  of a second, and for the block-copying evidence that people re-look rather than
+  memorize: about 1.3 looks at the model per block, the slowest lowest-memory strategy
+  (about 3 s a block, against 1.5 s from memory) chosen most often under instructions
+  to be fast, falling to 1.0 when looking is made dearer (70° separation) and 0.7
+  when patterns can be chunked. For [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) it shows the trade stated
+  as a cost comparison ("carrying cost" of working memory against on-line acquisition)
+  that moves with both costs, but the cost is inferred from choice, not measured
+  or modelled, what is left in the world is raw input rather than a computed result,
+  and the authors argue against precomputing where needs are unpredictable, so it
+  is the deferral policy opposite to the cockpit's, not amortization; for [TERM-tmp5f7cu](../terms.d/TERM-tmp5f7cu.md)
+  it shows people choosing between internal and external sources by their relative
+  retrieval cost, and moving retrieval later, not earlier; for [CLAIM-tmp9snb1](../claims.d/CLAIM-tmp9snb1.md) it
+  offers only an analogy (cue-driven matching, the same image read differently by
+  task step) and no test of framing or judgement.
 title: Deictic codes for the embodiment of cognition
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: >-
-    Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref gives
-    December 1997, so `published:` is the first of the month. Not held in the Anthology
-    of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for
-    the authors and the title found nothing.
+  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
+    gives December 1997, so `published:` is the first of the month. Not held in
+    the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit
+    d1573d2) for the authors and the title found nothing. Read the same day (NOTE-tmpv6kkr).'
 tags:
 - cognition
 - embodied-cognition
@@ -28,16 +45,31 @@ keywords:
 - working memory
 implementations: []
 summary: >-
-  Ballard, Hayhoe, Pook and Rao (1997), BBS 20(4). Pointing (fixation) binds variables
-  to the world, so that cognition keeps minimal state and re-reads the world just
-  in time instead of memorizing it. As standardly cited; not yet read.
+  Ballard, Hayhoe, Pook and Rao (1997), BBS 20(4). At about a third of a second,
+  the time scale of a saccade, the article models fixation as a pointer that binds
+  a variable in a behavioural program to a place in the world, so that what is bound
+  is only the task-relevant feature, fetched just before use. In a block-copying
+  task subjects looked back at the model about 1.3 times per block on average, the
+  commonest cycle being two looks per block (one apparently for colour, one for
+  position), and chose this slowest, lowest-memory strategy (about 3 s a block,
+  against about 1.5 s for copying from memory) though told to be fast; separating
+  model and copy by 70° cut looks to 1.0 per block, and one-colour patterns that
+  could be chunked cut them to 0.7. The authors read this as working memory having
+  a "carrying cost" that exceeds the cost of re-acquiring from the world, but that
+  cost is inferred from the choices and never measured or modelled, and the evidence
+  is one task with small samples (seven subjects for the main data, three for the
+  colour-change experiment) and no statistics reported in the article. What is left
+  in the world is unprocessed input, not a computed result, and the article argues
+  against precomputation where the needed products cannot be foreseen.
 ---
 
 # LIT-tmptejau: Deictic codes for the embodiment of cognition
 
 Ballard, D. H., Hayhoe, M. M., Pook, P. K. and Rao, R. P. N. (1997). Deictic codes for the embodiment of cognition. *Behavioral and Brain Sciences* 20(4), 723–742. DOI 10.1017/S0140525X97001611
 
-Not read. A reading should replace this note.
+## Key takeaways
+
+Read in full ([NOTE-tmpv6kkr](../notes.d/NOTE-tmpv6kkr.md)). At about a third of a second, the time scale of a saccade, the article models fixation as a pointer that binds a variable in a behavioural program to a place in the world, so that what is bound is only the task-relevant feature, fetched just before use. In a block-copying task subjects looked back at the model about 1.3 times per block on average, the commonest cycle being two looks per block (one apparently for colour, one for position), and chose this slowest, lowest-memory strategy (about 3 s a block, against about 1.5 s for copying from memory) though told to be fast; separating model and copy by 70° cut looks to 1.0 per block, and one-colour patterns that could be chunked cut them to 0.7. The authors read this as working memory having a "carrying cost" that exceeds the cost of re-acquiring from the world, but that cost is inferred from the choices and never measured or modelled, and the evidence is one task with small samples (seven subjects for the main data, three for the colour-change experiment) and no statistics reported in the article. What is left in the world is unprocessed input, not a computed result, and the article argues against precomputation where the needed products cannot be foreseen.
 
 ## Why this is here
 

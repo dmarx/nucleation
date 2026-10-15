@@ -61,3 +61,13 @@ the environment term e. That is worth making explicit if the term is
 revised. The study is a task analysis, with no measurements and no
 failures, for an anticipated and invariant task, not a search for one item
 under a deadline as in [CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md).
+
+## Note of 2026-10-15: the procedure chosen is not the best one
+
+α takes the supremum over the procedures available. Gray and Fu
+([LIT-tmpbbd7f](../literature.d/LIT-tmpbbd7f.md), read in [NOTE-tmp0wp7e](../notes.d/NOTE-tmp0wp7e.md)) show that people do not pick the best
+procedure: they pick the cheapest, and a few hundred milliseconds of
+extra access cost was enough to shift them from perfect information on a
+display to memory. Realized deployment can therefore fall below α, as in
+[CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md), where recall was tried before search.
+
