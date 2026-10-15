@@ -22,6 +22,9 @@ summary: >-
   algorithms under an access-cost model. It does not say that top-k queries
   are cheap: the absolute cost depends on the data, and is linear in N for
   some conjunctive queries.
+supports:
+- CLAIM-tmp28lab
+- CLAIM-tmpfpvgq
 ---
 <!-- inactive-ok-file: LIT-tmpem2ov — Unavailable or unread; Fagin's Algorithm's bound, cited as this paper reports it -->
 

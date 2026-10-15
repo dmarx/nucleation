@@ -21,6 +21,9 @@ summary: >-
   with one extra cell holding any value two probes suffice for
   m ≥ 2^{16n²} (Theorem 3). Building the table is free, so the paper prices
   lookup only and says nothing about whether sorting pays for itself.
+supports:
+- CLAIM-tmp28lab
+- CLAIM-tmpfpvgq
 ---
 
 # THEORY-340: For answering membership in a static set of n keys with the fewest worst-case cell reads, sorted order with binary search is optimal only when the key universe exceeds a Ramsey-number threshold and table cells may hold nothing but stored keys or pointer symbols; it is beaten for small universes, and by two probes once one cell may hold an encoded value

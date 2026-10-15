@@ -92,3 +92,6 @@ optimum off the crossing.
 - [CLAIM-308](../claims.d/CLAIM-308.md): once staleness is admitted, the two-state choice of [THEORY-348](THEORY-348.md)
   becomes a continuum of widths, and the best choice is an interior balance;
   the cache-or-not choice is the endpoint case.
+- [THEORY-348](THEORY-348.md): the rent-or-buy rule is the endpoint of this model, with
+  intervals of zero width; the adaptive rule here has no competitive
+  guarantee.

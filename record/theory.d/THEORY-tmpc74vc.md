@@ -32,6 +32,8 @@ summary: >-
   per-vector approximations, is the paper's alternative. Nothing is shown
   for data of low intrinsic dimension, and the lower bounds are not
   rigorous as stated.
+supports:
+- CLAIM-tmp28lab
 ---
 
 # THEORY-tmpc74vc: Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10

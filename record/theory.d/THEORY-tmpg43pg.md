@@ -32,6 +32,7 @@ summary: >-
   and datalog, or says how costly recognition is on typical queries.
 supports:
 - CLAIM-tmpze74h
+- CLAIM-tmpfpvgq
 ---
 <!-- inactive-ok-file: LIT-tmp3l2ha LIT-tmpkq8zv CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 
@@ -103,3 +104,6 @@ conjunctive views, would put an NP-complete problem in P.
   step the record's view-selection readings ([LIT-1094](../literature.d/LIT-1094.md), [LIT-1091](../literature.d/LIT-1091.md)) assume.
 - [THEORY-tmpxw8fg](THEORY-tmpxw8fg.md) (exact rewriting) and [THEORY-tmpe404c](THEORY-tmpe404c.md) (containment) are the
   proved parts underneath.
+- [THEORY-341](THEORY-341.md) (Reiter): the closed-world certain-answer result is the
+  stored-views counterpart of Reiter's assumption, and the cost runs the
+  other way from the complete-database case.

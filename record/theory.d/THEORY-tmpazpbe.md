@@ -22,6 +22,7 @@ summary: >-
   real high-dimensional data loses contrast, or that indexes fail.
 supports:
 - CLAIM-310
+- CLAIM-tmp28lab
 ---
 
 # THEORY-tmpazpbe: With a fixed number of data points and a query drawn independently of them, if the variance of the p-th power of the query-to-point distance divided by its mean tends to zero, the farthest point comes within any factor 1 + ε of the nearest with probability tending to one; independent coordinates meet this condition, while data on a low-dimensional subspace, or queries that fall inside well-separated clusters, escape it
