@@ -36,3 +36,5 @@
   Unavailable ([LIT-tmpij5df](record/literature.d/LIT-tmpij5df.md)); Piatetsky-Shapiro 1983, read ([LIT-tmpkl6wl](record/literature.d/LIT-tmpkl6wl.md)),
   now cited for workload-based index selection being NP-hard; Karlin,
   Manasse, Rudolph and Sleator 1988, read ([LIT-tmpwhdfd](record/literature.d/LIT-tmpwhdfd.md)), rent-or-buy.
+- Chaudhuri and Narasayya 1997, read ([LIT-tmpb43n3](record/literature.d/LIT-tmpb43n3.md)): workload-driven index
+  selection in practice.

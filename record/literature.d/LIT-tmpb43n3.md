@@ -1,18 +1,37 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-15, not read. Registered at the owner's request for [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md),
-  from the survey of database physical design recorded there. A reading is in progress.
+  read in full 2026-10-15 from the VLDB Endowment's proceedings PDF (www.vldb.org/conf/1997/P146.PDF,
+  pp. 146–155, a scan with an OCR layer; tables and figures read from page images),
+  which refuses plain requests from this environment (HTTP 403) and was served when
+  the request carried a browser User-Agent. Worth reading as the founding paper
+  of optimizer-driven ("what-if") index selection in practice: at most k indexes
+  chosen for a fixed workload of SQL statements to minimise the unweighted sum of
+  the optimizer's estimated costs, made affordable by per-query candidate selection,
+  Greedy(m, k) enumeration with an exhaustive seed, derived costs from atomic configurations,
+  and two-column indexes grown from single-column winners (4–10 times faster than
+  a baseline, 0–7% worse by estimated cost, on five TPC-D workloads). For [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md)
+  it prices organizing ahead no differently from Finkelstein et al. ([LIT-tmpbs1gh](LIT-tmpbs1gh.md)),
+  and in fewer terms: upkeep through the workload's update statements, but no build
+  cost, no storage term, no frequency weights and no changing workload, so "paid
+  once" and staleness stay unpriced; what it adds is that deciding the arrangement
+  has its own cost, and evidence (not a bound) that greedy choice works when index
+  interactions are few and local. For [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md) it is consistent with the dependence
+  on the query mix by construction and says nothing about what stands out within
+  a bin; its heuristics (consider only sortings best for some search, choose the
+  first carefully and add the rest greedily) carry over to a builder's bins only
+  by analogy.
 title: An Efficient, Cost-Driven Index Selection Tool for Microsoft SQL Server
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: 'Filed, not read. VLDB ''97 (Athens, 25–29 August 1997), pp. 146–155, which
-    has no DOI; `published:` is the conference''s first day, and the source is the
-    VLDB Endowment''s proceedings URL. Not held in the Anthology of the SOTA: a
-    grep of its record/ (clone of 2026-10-15, commit d1573d2) for the title found
-    nothing.'
+  note: >-
+    Filed, not read. VLDB '97 (Athens, 25–29 August 1997), pp. 146–155, which has
+    no DOI; `published:` is the conference's first day, and the source is the VLDB
+    Endowment's proceedings URL. Not held in the Anthology of the SOTA: a grep of
+    its record/ (clone of 2026-10-15, commit d1573d2) for the title found nothing.
+    Read the same day (NOTE-tmpjno31).
 tags:
 - databases
 - operations-research
@@ -23,10 +42,21 @@ first_author: Chaudhuri
 keywords: []
 implementations: []
 summary: >-
-  Chaudhuri and Narasayya (1997), VLDB '97. Registered for [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md) as
-  the workload-driven index selection tool of Microsoft's AutoAdmin project, which
-  costs candidate indexes by asking the optimizer about indexes that do not yet
-  exist.
+  Chaudhuri and Narasayya (1997), VLDB '97. The AutoAdmin tool picks at most k indexes
+  (single- or two-column, clustered or not) for a given workload of SQL statements,
+  minimising the unweighted sum of the optimizer's estimated costs of those statements,
+  with hypothetical ("what-if") indexes made visible to the optimizer by loading
+  their statistics into the catalog. Its contribution is search efficiency: candidates
+  are restricted to indexes in some single query's best configuration, enumeration
+  is Greedy(m, k) (an exhaustive seed of m indexes, then greedy additions), costs
+  of most configurations are derived from a few "atomic" ones, and two-column indexes
+  are generated only from winning single columns. On five TPC-D workloads this cut
+  running time to 10–24% of a baseline, with estimated-cost quality 0–7% worse,
+  and Greedy(2, 4) matched the exhaustive optimum on four of five workloads and
+  was within 1% on the fifth. The cost model has no build cost, no storage term
+  and no frequency weights, the budget is a count of indexes, the workload is fixed,
+  there is no guarantee for the greedy step, and quality is never measured by executing
+  anything.
 ---
 
 # LIT-tmpb43n3: An Efficient, Cost-Driven Index Selection Tool for Microsoft SQL Server
@@ -35,7 +65,7 @@ Chaudhuri, S. and Narasayya, V. (1997). An efficient, cost-driven index selectio
 
 ## Key takeaways
 
-Not read yet.
+Read in full ([NOTE-tmpjno31](../notes.d/NOTE-tmpjno31.md)). The AutoAdmin tool picks at most k indexes (single- or two-column, clustered or not) for a given workload of SQL statements, minimising the unweighted sum of the optimizer's estimated costs of those statements, with hypothetical ("what-if") indexes made visible to the optimizer by loading their statistics into the catalog. Its contribution is search efficiency: candidates are restricted to indexes in some single query's best configuration, enumeration is Greedy(m, k) (an exhaustive seed of m indexes, then greedy additions), costs of most configurations are derived from a few "atomic" ones, and two-column indexes are generated only from winning single columns. On five TPC-D workloads this cut running time to 10–24% of a baseline, with estimated-cost quality 0–7% worse, and Greedy(2, 4) matched the exhaustive optimum on four of five workloads and was within 1% on the fifth. The cost model has no build cost, no storage term and no frequency weights, the budget is a count of indexes, the workload is fixed, there is no guarantee for the greedy step, and quality is never measured by executing anything.
 
 ## Why this is here
 

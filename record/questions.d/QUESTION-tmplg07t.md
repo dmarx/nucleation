@@ -180,7 +180,21 @@ is a criterion that stays within 2 in the worst case, with no forecast of
 reuse. The guarantee assumes fixed prices and exactly two options, and the
 paper prices no staleness: it forbids stale reads instead.
 
-**Not read.** Chaudhuri and Narasayya 1997, Bruno and Chaudhuri 2007
-(rent-or-buy, applied to indexes), and Athanassoulis et al. 2016 (the RUM
-conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
+**The practice.** Chaudhuri and Narasayya 1997 ([LIT-tmpb43n3](../literature.d/LIT-tmpb43n3.md), [NOTE-tmpjno31](../notes.d/NOTE-tmpjno31.md)),
+read at the owner's request, is Microsoft's AutoAdmin index tool. It
+minimizes the optimizer's estimated cost summed over a fixed workload of
+SQL statements, with no frequency weights, under a cap of k indexes. It
+asks the optimizer about indexes that do not yet exist ("what-if"). Upkeep
+enters only through the workload's update statements. There is no build
+cost and no storage term, so of this question's title "space and upkeep",
+only upkeep is priced, while Finkelstein et al. price storage too. Greedy
+search seeded with an exhaustive pair found the optimum on four of five
+TPC-D workloads and was within 1% on the fifth, by estimated cost only. No
+guarantee is proved. Its own amortization is of the tool's
+statistics-gathering: the cost of deciding, not of organizing. Its k counts
+secondary orders kept, not the parts of one partition, so it does not match
+[CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md)'s bin budget.
+
+**Not read.** Bruno and Chaudhuri 2007 (rent-or-buy, applied to indexes)
+and Athanassoulis et al. 2016 (the RUM conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
 The learned-index line (Kraska et al. 2018) belongs in the anthology.
