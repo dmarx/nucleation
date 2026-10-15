@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-17 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+18 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -101,6 +101,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-127](../record/claims.d/CLAIM-127.md) — Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context *(Proposed)*
   - [CLAIM-130](../record/claims.d/CLAIM-130.md) — Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed *(Proposed)*
+
+### From In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured
+
+- [CLAIM-315](../record/claims.d/CLAIM-315.md) — In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured *(Proposed)*
+  - [CLAIM-298](../record/claims.d/CLAIM-298.md) — A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged *(Proposed)*
 
 ## Sharing no `line`
 

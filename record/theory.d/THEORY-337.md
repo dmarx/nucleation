@@ -23,7 +23,7 @@ summary: >-
   to the estimate. This is the effect, not its mechanism: why the estimate
   moves is [THEORY-335](THEORY-335.md)'s question and is not settled.
 supports:
-- CLAIM-tmp3bdbx
+- CLAIM-315
 ---
 <!-- inactive-ok-file: CLAIM-184 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

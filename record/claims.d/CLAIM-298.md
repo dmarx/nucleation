@@ -25,7 +25,7 @@ line: pragmatic-transport
 answers:
 - QUESTION-096
 rests_on:
-- CLAIM-tmp3bdbx
+- CLAIM-315
 grounds:
 - LIT-269
 - THEORY-335
@@ -121,7 +121,7 @@ indirect support, and the communicative extension rests on it.
 
 [ADR-043](../decisions.d/ADR-043.md)'s pilot found this claim compound: an empirical claim about
 anchoring in judgement tasks, and the record's interpretive extension to
-communication in general. The empirical half is now [CLAIM-tmp3bdbx](CLAIM-tmp3bdbx.md), on
+communication in general. The empirical half is now [CLAIM-315](CLAIM-315.md), on
 which this claim rests, and this claim is marked interpretive. Its title
 already states the general form, so it was kept; what changed is that its
 psychological support is a separate claim with its own warrant and
