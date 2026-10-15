@@ -1,11 +1,39 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-15, not yet read. Registered at the owner's request after the reading
-  of Goldreich's Foundations of Cryptography ([LIT-tmpfy61e](LIT-tmpfy61e.md)) found that the book
-  states, and cites this note for, the equivalence between efficiently samplable
-  statistically-far indistinguishable ensembles and one-way functions, without proving
-  it. A reading is under way.
+  filed 2026-10-15, not read. A lawful full text exists but could not be fetched
+  from this environment on 2026-10-15: found but could not be fetched. Goldreich
+  posts the paper on his Weizmann pages as www.wisdom.weizmann.ac.il/~oded/PSX/iplnote.pdf,
+  linked from his list of papers (~oded/papers.html, where it is dated 1989) and
+  from his annotated bibliography (~oded/annot/node47.html). Web search indexes
+  that PDF; the search tool's summary of it, which was not checked against the text,
+  says it began as a Technion technical report of January 1990 and that it states
+  the existence of pseudorandom generators to be equivalent to the existence of
+  efficiently constructible distributions that are computationally indistinguishable
+  yet statistically far apart. That differs from the book's paraphrase, which says
+  one-way functions. It cannot be settled without the text. Places looked, and what
+  each gave: Unpaywall reports the DOI closed, with no OA location and no repository
+  copy; OpenAlex reports it closed, with no repository full text, listing only the
+  DOI and two CiteSeerX records (10.1.1.145.7487, 10.1.1.39.458); Semantic Scholar
+  gives openAccessPdf status CLOSED; the Elsevier article API reports openaccess
+  0 and openArchiveArticle false, and ScienceDirect returned 403, so IPL 34(6) is
+  not in Elsevier's open archive; Crossref lists only text-mining links under Elsevier's
+  TDM licence; DBLP served a bot challenge. Goldreich's PDF itself was requested
+  22 times over about 20 minutes: https://www.wisdom.weizmann.ac.il gave an empty
+  reply every time, http://www.wisdom.weizmann.ac.il gave 503 every time ("upstream
+  connect error … connection termination"), and https://wisdom.weizmann.ac.il was
+  refused by the proxy (502). WebFetch also got 503 for the PDF. The Internet Archive's
+  availability API reports a capture of the PDF dated 2026-01-23 (web.archive.org/web/20260123154034/https://www.wisdom.weizmann.ac.il/~oded/PSX/iplnote.pdf).
+  web.archive.org and wayback.archive.org reset every connection from here, about
+  25 attempts in all; plain http to web.archive.org gave 403; WebFetch refuses web.archive.org;
+  archive.ph also reset. The availability API has no capture of papers.html or of
+  a .ps version. CiteSeerX's download links now redirect to the Internet Archive,
+  so they failed in the same way. The ECCC hosts (eccc.weizmann.ac.il, eccc.uni-trier.de)
+  do not mirror Goldreich's ~oded pages; they return their generic HTML page. The
+  paper can probably be read once the Weizmann server or web.archive.org can be
+  reached from this environment, or from any ordinary browser. What it says is known
+  here only through Goldreich's Foundations of Cryptography ([LIT-tmpfy61e](LIT-tmpfy61e.md), §3.8.2),
+  which cites it for the equivalence with one-way functions without proving it.
 title: A note on computational indistinguishability
 version: 1
 history:
@@ -15,7 +43,8 @@ history:
     Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref gives
     May 1990, so `published:` is the first of the month. Not held in the Anthology
     of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for
-    "computational indistinguishability" found nothing.
+    "computational indistinguishability" found nothing. Set Unavailable the same
+    day under ADR-041, the search having found no lawful copy that could be fetched.
 tags:
 - mathematics
 - information-theory

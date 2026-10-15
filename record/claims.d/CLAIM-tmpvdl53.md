@@ -69,7 +69,12 @@ bound only as ½, and its "statistical difference" omits the factor ½ of
 total variation). Every probabilistic polynomial-time test has negligible
 advantage, by definition. The book cites Goldreich (1990) for the sharper
 fact, not read here, that an efficiently samplable pair of this kind exists
-if and only if one-way functions do.
+if and only if one-way functions do. That note ([LIT-tmp5gb4p](../literature.d/LIT-tmp5gb4p.md)) could not
+be fetched. A search summary of it, unchecked, says it states the
+equivalence with pseudorandom generators; if so, "one-way functions" in
+the book's paraphrase combines it with the later theorem that one-way
+functions yield generators. Neither reading changes this claim, which
+needs only the generator direction.
 
 **Postprocessing.** A15 added the invariance that keeps this from being
 arbitrary: an efficient transformation applied to both ensembles preserves
