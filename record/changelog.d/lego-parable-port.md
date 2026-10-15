@@ -46,3 +46,5 @@
 - Gupta and Mumick 1999, read ([LIT-tmpppd6p](record/literature.d/LIT-tmpppd6p.md)): view selection under a
   maintenance-time budget; upkeep is not additive, and staleness is not
   priced.
+- Gupta and Mumick 2005, read ([LIT-tmp28bff](record/literature.d/LIT-tmp28bff.md)): the journal version of both
+  ICDT papers; it adds proofs, not new results.

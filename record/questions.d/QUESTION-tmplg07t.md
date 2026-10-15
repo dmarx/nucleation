@@ -225,6 +225,13 @@ constraint, not a cost weighed against savings; every view is refreshed in
 a nightly batch, so staleness is not priced, and nor are build cost or
 storage. It does not give the joint model, and comes no closer than
 Bruno and Chaudhuri below.
+The journal version, Gupta and Mumick 2005 ([LIT-tmp28bff](../literature.d/LIT-tmp28bff.md), [NOTE-tmpuaboe](../notes.d/NOTE-tmpuaboe.md)),
+also read at the owner's request, merges the 1997 and 1999 papers and
+proves the maintenance-budget greedy and the A* search, but adds no new
+problem: the space and maintenance constraints are never combined, the
+guarantee still covers OR graphs only, and a new footnote says the 1997
+lemma behind the only upkeep-in-the-objective result fails for OR graphs.
+It changes nothing here.
 
 **The nearest to a joint model.** Bruno and Chaudhuri 2007 ([LIT-tmpu5ktj](../literature.d/LIT-tmpu5ktj.md),
 [NOTE-tmpcs92s](../notes.d/NOTE-tmpcs92s.md)), read at the owner's request from the accepted version on
