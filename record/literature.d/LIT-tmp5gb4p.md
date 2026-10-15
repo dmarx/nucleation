@@ -79,3 +79,12 @@ far yet computationally indistinguishable exist if pseudorandom generators
 do, and cites the book's statement that they exist exactly when one-way
 functions do. The book does not prove that equivalence; it cites this
 note. The owner asked for it to be filed and read.
+
+Still not read. Håstad, Impagliazzo, Levin and Luby ([LIT-tmp10av1](LIT-tmp10av1.md), read in
+[NOTE-tmpscadg](../notes.d/NOTE-tmpscadg.md)) describe this note as showing "that the existence of
+pseudorandom generators is equivalent to the existence of a pair of
+P-samplable distributions which are computationally indistinguishable but
+statistically very different", and cite it as ICSI Technical Report
+TR-89-051 (July 1989). That supports the search summary over the book's
+"one-way functions" paraphrase, which combines this note with their own
+theorem.

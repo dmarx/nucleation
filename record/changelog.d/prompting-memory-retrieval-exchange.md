@@ -47,3 +47,7 @@
   registered and read (Kirsh & Maglio, Kirsh, Ballard et al., Risko &
   Gilbert, Gray & Fu, Dasgupta et al., Lieder & Griffiths, Gershman &
   Goodman) and a citation search for prior joint treatments.
+- A question on signal detection and computational indistinguishability,
+  with Geisler 2011, Håstad et al. 1999, Dwork et al. 2021 and
+  Hébert-Johnson et al. 2018 registered and read; and Kirsh 1996, Gray et
+  al. 2006 and Dasgupta & Gershman 2021 read for the amortization question.

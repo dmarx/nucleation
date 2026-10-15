@@ -20,7 +20,6 @@ summary: >-
   the chance diagonal. Ideal-observer analysis measures how far real observers fall
   short of the ideal. This asks whether the two are one framework.
 ---
-<!-- inactive-ok-file: LIT-tmp10av1 LIT-tmp1vdb9 LIT-tmp5yjyp LIT-tmpoyjmt — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-tmp9snb1 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpadry4: Is computational indistinguishability the bounded-observer form of signal detection's chance ROC, and is ideal-observer efficiency its empirical measure, so that the record's formal results on bounded observers can be tested on real ones?
@@ -69,3 +68,32 @@ efficiency. A possible use for [CLAIM-tmp9snb1](../claims.d/CLAIM-tmp9snb1.md), 
 a change in the evidence (d′) from a change in criterion (bias), which
 may be the split that claim needs between what is retrieved and how it
 is weighed.
+
+## Note of 2026-10-15: what the four readings found
+
+All four were read the same day. The bridge is narrower than first stated.
+
+- **Ideal-observer analysis bounds a different observer.** Geisler
+  ([LIT-tmp5yjyp](../literature.d/LIT-tmp5yjyp.md), [NOTE-tmph7b4n](../notes.d/NOTE-tmph7b4n.md)) constrains the ideal observer by degrading
+  its input, a garbling that loses information. [CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md) keeps the
+  input and restricts the class of tests. These are the two receivers
+  [CLAIM-199](../claims.d/CLAIM-199.md) already separates, Blackwell's ceiling and a rule class. So
+  efficiency measures the first gap, and computational indistinguishability
+  describes the second; a measure of the second on real observers is still
+  wanting. The review also gives no formula for efficiency: the squared
+  ratio of d′ above is from Burgess et al. 1981 and Pelli and Farell 1999,
+  neither held.
+- **Pseudoentropy** ([LIT-tmp10av1](../literature.d/LIT-tmp10av1.md), [NOTE-tmpscadg](../notes.d/NOTE-tmpscadg.md)). Håstad et al. define
+  computational entropy with Shannon entropy and call indistinguishability
+  "the computationally restricted adversary definition of statistical
+  distance". The claims' G(Uₙ) is, in their terms, a false entropy
+  generator. Their time–success ratio is a worked recovery-cost measure
+  for [QUESTION-tmprdpkh](QUESTION-tmprdpkh.md).
+- **Outcome indistinguishability** ([LIT-tmpoyjmt](../literature.d/LIT-tmpoyjmt.md), [NOTE-tmpvwapz](../notes.d/NOTE-tmpvwapz.md)) is the
+  paper that frames adequacy as indistinguishability to a class, not
+  multicalibration ([LIT-tmp1vdb9](../literature.d/LIT-tmp1vdb9.md), [NOTE-tmprrwdk](../notes.d/NOTE-tmprrwdk.md)), as first attributed above.
+  Its finding for [QUESTION-tmpdzpy2](QUESTION-tmpdzpy2.md): the observer's access matters as much
+  as its budget, and with oracle or code access a cheap observer can force
+  a model as complex as nature.
+- None of the four mentions signal detection. The link to ROC and d′ is
+  the record's, and the criterion question is open.

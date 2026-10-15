@@ -138,3 +138,23 @@ effort, not the reuse of a result. Pieces, none registered here yet:
 The search could not reach OpenAlex or Semantic Scholar, so Gershman and
 Goodman 2014's citers were not checked. On what it could check, the answer
 to whether this has been formalized is: in parts, not as one trade.
+
+## Note of 2026-10-15: the three works the search found, read
+
+- Gray, Sims, Fu and Schoelles 2006 ([LIT-tmpras8t](../literature.d/LIT-tmpras8t.md), [NOTE-tmpc26wx](../notes.d/NOTE-tmpc26wx.md)). The search
+  note above says the model decides "each access separately". Each look is
+  one decision, but it is valued against the whole trial, so the cost of
+  forgetting and looking again is priced in ahead. It has no term for
+  precomputation, reuse across trials or staleness; the paper uses
+  "amortized" twice, unmodelled.
+- Kirsh 1996 ([LIT-tmp87x38](../literature.d/LIT-tmp87x38.md), [NOTE-tmpmcwoo](../notes.d/NOTE-tmpmcwoo.md)). "Amortize" occurs once, in an
+  aside; the paper's economics is a verbal rule with an "interest factor"
+  for risk, one risk being that a stored change is not "still present
+  later". It fits the maintained-structure strategy, not the precomputed
+  result. The citation of Tarjan's amortized analysis is Kirsh 1995's.
+- Dasgupta and Gershman 2021 ([LIT-tmpyg066](../literature.d/LIT-tmpyg066.md), [NOTE-tmp4doe6](../notes.d/NOTE-tmp4doe6.md)). A vocabulary for
+  the first strategy with the store inside the head, retrieval nearly free.
+  It adds staleness proper, values "not yet updated" after the world
+  changes, beside the bias from a similar earlier query, so a cost model
+  needs both.
+
