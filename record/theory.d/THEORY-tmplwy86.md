@@ -7,7 +7,7 @@ promote_when: >-
   factorization through formal power series for commutative ω-continuous
   semirings. Worked examples and the paper's algorithms cannot settle it;
   they presuppose the theorems.
-title: "For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞[[X]] in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules"
+title: "For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules"
 version: 1
 tags:
 - databases
@@ -22,7 +22,7 @@ summary: >-
   Green, Karvounarakis and Tannen (2007), [LIT-tmpjckak](../literature.d/LIT-tmpjckak.md), read in [NOTE-tmpc5ict](../notes.d/NOTE-tmpc5ict.md).
   A recursive query can derive a tuple in infinitely many ways, so
   polynomials do not suffice and the semiring needs infinite sums. With
-  ω-continuous semirings and the provenance semiring N∞[[X]] the paper
+  ω-continuous semirings and the provenance semiring N∞⟦X⟧ the paper
   states the analogues of the relational results: a fixed-point
   characterization (Theorem 5.6), factorization (Theorem 6.4), and a test
   for infinite coefficients (Theorem 6.5), with algorithms that decide
@@ -31,7 +31,7 @@ summary: >-
   equations, and negation remains outside.
 ---
 
-# THEORY-tmplwy86: For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞[[X]] in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules
+# THEORY-tmplwy86: For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules
 
 ## Source
 
@@ -53,7 +53,7 @@ agrees with the relational semantics (Propositions 5.3, 6.2).
 
 **The theorems, as stated.** Each nonzero tag is the corresponding
 component of the least fixed point of the finite algebraic system built
-from the immediate consequence operator (Theorem 5.6). With N∞[[X]] as the
+from the immediate consequence operator (Theorem 5.6). With N∞⟦X⟧ as the
 provenance semiring, "The semantics of datalog on K-relations for any
 commutative ω-continuous semiring K factors through the semantics of the
 same in provenance semirings (of formal power series)" (Theorem 6.4). A
