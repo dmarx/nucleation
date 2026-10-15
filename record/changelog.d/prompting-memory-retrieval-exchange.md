@@ -51,3 +51,6 @@
   with Geisler 2011, Håstad et al. 1999, Dwork et al. 2021 and
   Hébert-Johnson et al. 2018 registered and read; and Kirsh 1996, Gray et
   al. 2006 and Dasgupta & Gershman 2021 read for the amortization question.
+- Three scaling-law works on training against inference compute (Jones
+  2021, Sardana et al. 2024, Snell et al. 2024) registered and read for
+  the amortization question.

@@ -158,3 +158,35 @@ to whether this has been formalized is: in parts, not as one trade.
   changes, beside the bias from a similar earlier query, so a cost model
   needs both.
 
+
+## Note of 2026-10-15: scaling laws price two of the terms
+
+The owner pointed to "valuation of pre-training investment (amortized
+compute) vs inference time search/compute". Three works were read; the
+anthology holds Kaplan et al. ([ANTH-LIT-028](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-028.md)), Hoffmann et al.
+([ANTH-LIT-068](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-068.md)) and Noise Hypernetworks ([ANTH-LIT-491](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-491.md)), which are not
+refiled here.
+
+- **Jones 2021** ([LIT-tmpp5yji](../literature.d/LIT-tmpp5yji.md), [NOTE-tmpvgf21](../notes.d/NOTE-tmpvgf21.md)) measures the exchange
+  rate within one system: on 9×9 Hex, each extra 10× of training compute
+  removes about 15× of test-time search at fixed strength, down to a
+  one-node search. Precomputing into the weights and computing at the
+  moment of use lie on one straight log–log curve, the shape the owner's
+  conjecture predicts for those two strategies. It counts no games played.
+- **Sardana et al. 2024** ([LIT-tmppelbm](../literature.d/LIT-tmppelbm.md), [NOTE-tmpshw57](../notes.d/NOTE-tmpshw57.md)) adds expected reuse
+  explicitly: minimize training plus lifetime inference compute at fixed
+  quality, and with enough demand a smaller model trained longer wins (28%
+  less compute at 30B quality and 10¹³ inference tokens; 34–58% in
+  dollars). The dial is continuous, not file-or-not, which narrows
+  [CLAIM-tmpygqjz](../claims.d/CLAIM-tmpygqjz.md)'s break-even. Demand is assumed known in advance.
+- **Snell et al. 2024** ([LIT-tmpk7x9f](../literature.d/LIT-tmpk7x9f.md), [NOTE-tmpeazah](../notes.d/NOTE-tmpeazah.md)) spreads a larger
+  model's extra pretraining over the ratio of inference to pretraining
+  tokens; test-time compute wins only when that ratio is low and on
+  easier questions. The larger model also pays more per inference token,
+  a retrieval cost the amortized-inference readings lacked.
+
+Of the terms listed above, these price expected reuse and per-use
+(retrieval) cost. None has staleness, uncertainty about future demand or
+erosion of the alternative. In all three the precomputed thing is a
+cheaper computation, not a stored answer, so they are the
+maintained-capacity case more than the memo-table case.
