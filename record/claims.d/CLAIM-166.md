@@ -3,17 +3,15 @@ number: 166
 status: Proposed
 formerly:
 - CLAIM-tmpkdc9t
-title: '"Who drives" is not constant: a person''s drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience'
+title: 'A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest'
 version: 1
 role: thesis
 warrant: empirical
 defeated_if: >-
-  Evidence that in humans the microbiome's influence on hunger and affect
-  runs only through states the higher level already sets, such as diet
-  chosen, stress already present, so that the microbiome mediates but
-  never originates a change in drive. Or evidence that drive profiles
-  estimated over successive windows in one person are stable, so that
-  apparent changes are noise.
+  Evidence that in humans the microbiome's influence on hunger and affect runs
+  only through states the higher level already sets, such as diet chosen, stress
+  already present, so that the microbiome mediates but never originates a change
+  in drive.
 tags:
 - agency
 - self
@@ -30,6 +28,8 @@ grounds:
 - LIT-903
 - LIT-915
 - CASE-047
+complements:
+- CLAIM-tmp2gewd
 summary: >-
   The owner's thesis of 2026-10-11: "'who drives' isn't a constant.
   Considering myself as a multi-level agent, part of my composition is my
@@ -46,7 +46,7 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-027 CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->
 
-# CLAIM-166: "Who drives" is not constant: a person's drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience
+# CLAIM-166: A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest
 
 ## The claim
 
@@ -106,3 +106,17 @@ accepts.
 - **That the microbiome is an agent.**
 - **That its influence is against the host's interest.** The appetite review's
   framing is mutualist.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: its first part,
+that a person's drive profile is time-indexed, is the owner's thesis,
+argued from the drive-profile term and the will line and supported by no
+observation the record holds (interpretive), while its second part,
+that the microbiome can drive hunger and affect, rests on two reviews
+(empirical). The first part is now [CLAIM-tmp2gewd](CLAIM-tmp2gewd.md), which this claim complements.
+This claim keeps the microbiome part and stays empirical. Its title,
+which led with "'Who drives' is not constant", was changed to state the
+microbiome part with the scope the evidence gives it; the second
+disjunct of its defeat condition, stable drive profiles over successive
+windows, is [CLAIM-tmp2gewd](CLAIM-tmp2gewd.md)'s.

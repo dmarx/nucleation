@@ -3,11 +3,7 @@ number: 264
 status: Proposed
 formerly:
 - CLAIM-tmp5bgh5
-title: Two objects can agree on every probe in a restricted family without
-  being isomorphic, so equivalence under a probe family is coarser than identity
-  unless the family is rich enough, and only probes chosen independently of
-  the comparison and evaluated on held-out cases are evidence that structure
-  was preserved
+title: 'Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough'
 version: 1
 history:
 - version: 1
@@ -18,12 +14,10 @@ history:
     now rests on this claim.
 role: thesis
 warrant: demonstrated
-defeated_if: A probe family fixed in advance, not chosen for the comparison
-  at hand and not dense or strongly generating, that is shown to separate
-  every pair of non-isomorphic objects in a class of interest. Or an argument
-  that agreement under probes chosen to make two objects agree is as good
-  evidence of shared structure as agreement under independently chosen, held-out
-  probes.
+defeated_if: >-
+  A probe family fixed in advance, not chosen for the comparison at hand and not
+  dense or strongly generating, that is shown to separate every pair of non-
+  isomorphic objects in a class of interest.
 tags:
 - mathematics
 - epistemology
@@ -46,12 +40,13 @@ supports:
 - CLAIM-142
 - CLAIM-190
 - CLAIM-187
+- CLAIM-tmpumwtu
 complements:
 - CLAIM-302
 ---
 <!-- inactive-ok-file: CLAIM-046 CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 QUESTION-031 — Proposed; cited for what each holds or applies, open, not settled -->
 
-# CLAIM-264: Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough, and only probes chosen independently of the comparison and evaluated on held-out cases are evidence that structure was preserved
+# CLAIM-264: Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough
 
 ## The claim
 
@@ -114,3 +109,15 @@ includes a computation." The term is not revised. Equivalence under
 feasible probes is relative to the encoding and to any auxiliary
 information, as this claim's evidential half would predict. The status is
 unchanged.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound: its exact half
+(the restricted Yoneda functor, Cramér–Wold, marginals) is demonstrated,
+and its evidential half, that only probes chosen independently of the
+comparison and evaluated on held-out cases are evidence that structure was
+preserved, is interpretive. The evidential half is now [CLAIM-tmpumwtu](CLAIM-tmpumwtu.md) (interpretive),
+which rests on this claim. This claim keeps the exact half and stays
+demonstrated. Its title, which stated the evidential half, is shortened to
+the exact half, and the second disjunct of its defeat condition, about
+chosen probes, moves to [CLAIM-tmpumwtu](CLAIM-tmpumwtu.md).

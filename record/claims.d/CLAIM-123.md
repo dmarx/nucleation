@@ -3,14 +3,13 @@ number: 123
 status: Proposed
 formerly:
 - CLAIM-tmpzkhdr
-title: 'In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state'
+title: 'In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state'
 version: 1
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  A text-to-image model whose per-condition satisfaction predicts its
-  joint binding accuracy, or a proof that score addition composes
-  conditions without the conditional-independence assumption.
+  A proof that score addition composes conditions without the conditional-
+  independence assumption.
 tags:
 - compositionality
 - probabilistic-modeling
@@ -31,9 +30,11 @@ summary: >-
   more careful than the paper it cites.
 illustrated_by:
 - CASE-004
+corroborated_by:
+- CLAIM-tmpjni98
 ---
 
-# CLAIM-123: In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state
+# CLAIM-123: In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state
 
 ## The claim
 
@@ -77,3 +78,16 @@ Composable Diffusion is again the weakest method.
 
 Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this claim also holds
 `formal-apparatus`. It rests on no claim, and the conditions on the score identity are mathematics about conditional generation, not about translation.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: that adding scores
+composes conditions only under conditional independence at the noisy
+state is a derivation (demonstrated), while that each condition can be
+met while their conjunction or relational binding fails is documented by
+benchmarks and method papers (empirical). The empirical part is now [CLAIM-tmpjni98](CLAIM-tmpjni98.md),
+which corroborates this claim. This claim keeps the derivation and its
+conditions, and stays demonstrated. Its title, which led with the
+empirical part, was changed to state only the derivation; the first
+disjunct of its defeat condition, a model whose per-condition
+satisfaction predicts its joint binding accuracy, is [CLAIM-tmpjni98](CLAIM-tmpjni98.md)'s.

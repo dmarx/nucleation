@@ -53,6 +53,7 @@ illustrated_by:
 complements:
 - CLAIM-231
 - CLAIM-298
+- CLAIM-063
 ---
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -73,3 +74,18 @@ static pragmatic judgment."
 That noncommutativity ([TERM-024](../terms.d/TERM-024.md)) is quantum ([CLAIM-041](CLAIM-041.md)). The identity is algebra (checked in the
 workbench entry of 2026-10-09); the claim that the defects matter for fidelity
 is empirical and untested.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: the
+commutator-distortion identity quoted from the manuscript's §9,
+Φ[A,B] − [A',B']Φ = E_A B + A'E_B − E_B A − B'E_A, is algebra and
+demonstrated, while the claim that intertwining matters for pragmatic
+fidelity is untested and, with no observation under it, interpretive.
+The identity is already filed on its own as [CLAIM-063](CLAIM-063.md) (demonstrated), so
+no new claim was drafted; this claim now complements it. This claim keeps
+the rest, its main conclusion, that pragmatic fidelity requires
+preserving the dynamics of interpretation and that a good transport
+approximately intertwines framing operations, and stays interpretive.
+The identity is quoted above as what the claim was developed into, not
+as part of what it states. Its title is unchanged.
