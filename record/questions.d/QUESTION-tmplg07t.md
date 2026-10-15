@@ -146,8 +146,24 @@ what will be wanted, reorganizing at the moment of use is within a
 constant of the best possible, so "sorting is amortized search" may be
 the wrong framing of what a good collector does.
 
-**Not read.** Comer 1978 (optimal index selection is NP-complete),
-Chaudhuri and Narasayya 1997, Karlin et al. 1988 and Bruno and Chaudhuri
-2007 (rent-or-buy, applied to indexes), and Athanassoulis et al. 2016
-(the RUM conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
+**Hardness of the trade.** The survey cited Comer 1978 ([LIT-tmpij5df](../literature.d/LIT-tmpij5df.md)) for
+"optimal index selection is NP-complete". Comer could not be obtained
+(Unavailable), and a secondary account says it proves something else:
+choosing a few attributes that tell every pair of records apart, with no
+workload. The workload-based result is Piatetsky-Shapiro 1983
+([LIT-tmpkl6wl](../literature.d/LIT-tmpkl6wl.md), [NOTE-tmpxc25d](../notes.d/NOTE-tmpxc25d.md)), read at the owner's request. One relation,
+known frequencies of equality queries and updates, and single-attribute
+indexes. A query costs a full scan without an index and one access with
+one, and each index adds a fixed upkeep charge on updates. Choosing the
+cheapest index set is NP-hard by reduction from set cover. Index cost here
+is upkeep only, with no storage, build cost or physical order. The hardness
+grows with the number of attributes and query types, so a handful of brick
+attributes stays trivially enumerable. That is what the paper's own report
+of an exact O(2^√M log M) algorithm for M domains suggests. So the trade
+can be stated exactly and is hard in general, but not at the size of a LEGO
+collection's sorting choices.
+
+**Not read.** Chaudhuri and Narasayya 1997, Karlin et al. 1988 (being read)
+and Bruno and Chaudhuri 2007 (rent-or-buy, applied to indexes), and
+Athanassoulis et al. 2016 (the RUM conjecture). Kirsh 1995 ([LIT-1076](../literature.d/LIT-1076.md), [NOTE-871](../notes.d/NOTE-871.md)) is already held.
 The learned-index line (Kraska et al. 2018) belongs in the anthology.
