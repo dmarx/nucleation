@@ -2,8 +2,9 @@
 
 - `warrant` on CLAIM ([ADR-043](record/decisions.d/ADR-043.md), now Active): demonstrated, empirical or
   interpretive, how a claim as stated is supported, apart from status and
-  role. Optional in the schema; the template sets it for new claims.
-  Twenty-six claims classified in the pilot.
+  role. Required on every CLAIM; all 315 are classified (87 demonstrated,
+  12 empirical, 216 interpretive). Nineteen compound claims are listed in
+  ADR-043 for splitting.
 
 ### Changed
 
