@@ -190,3 +190,13 @@ Of the terms listed above, these price expected reuse and per-use
 erosion of the alternative. In all three the precomputed thing is a
 cheaper computation, not a stored answer, so they are the
 maintained-capacity case more than the memo-table case.
+
+## Note of 2026-10-15: Howes et al. 2016, read
+
+Lieder and Griffiths cited Howes et al. ([LIT-tmpjg8mc](../literature.d/LIT-tmpjg8mc.md), [NOTE-tmpsjfyh](../notes.d/NOTE-tmpsjfyh.md)) as a
+memorize-or-look-up trade. It is not one: there is no look-up option, and
+the choice is how many items to hold per trial against the reward rate.
+People mostly chose the length that paid best for them (55% and 46% of
+choices, against 8–17% for the neighbouring lengths). It adds a priced error cost,
+which did not move behaviour, and none of the question's other terms.
+

@@ -54,3 +54,5 @@
 - Three scaling-law works on training against inference compute (Jones
   2021, Sardana et al. 2024, Snell et al. 2024) registered and read for
   the amortization question.
+- Howes et al. 2016 registered and read; the description of it as a
+  memorize-or-look-up trade, from Lieder & Griffiths, corrected.

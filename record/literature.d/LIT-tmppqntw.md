@@ -71,3 +71,7 @@ Read in full ([NOTE-tmpmd0yp](../notes.d/NOTE-tmpmd0yp.md)). Resource rationalit
 The owner, after the cockpit reading ([LIT-tmpn2s1p](LIT-tmpn2s1p.md)): "amortized retrieval is actually a kind of amortized computation. there's probably a clearer relationship here that I imagine has likely been clarified/formalized at some point in the 30 years since the cockpit essay was published." Registered with six others for [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md).
 
 The framework in which computation is chosen against its cost. The reading ([NOTE-tmpmd0yp](../notes.d/NOTE-tmpmd0yp.md)) narrows this: the objective is per episode, with no terms for precomputation, storage, retrieval or staleness, and offloading is formalized only in a commentary, as [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) asks.
+
+## Note of 2026-10-15: Howes et al. 2016, read
+
+This reading called Howes et al. 2016 ([LIT-tmpjg8mc](LIT-tmpjg8mc.md)) "the head-versus-world trade", following the source's description. The task has no look-up: names are seen once and cannot be revisited, and the choice is how long a list to take per trial. There is no parametric model; the prediction for each person is the list length with the best reward rate in their own measured data. Capacity and look-up time are not parameters, and raising the cost of misremembering did not change choices. It is a trade of memory load against reward rate, not of memory against the world.
