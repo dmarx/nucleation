@@ -25,6 +25,9 @@ answers:
 - QUESTION-101
 uses:
 - TERM-055
+grounds:
+- THEORY-tmpp4dqy
+- THEORY-tmpkxugz
 summary: >-
   A18's first candidate, from the owner's EMT case ([CASE-085](../cases.d/CASE-085.md)): the drug was
   stocked, the EMT knew it, and it could not be found before the medic moved on.

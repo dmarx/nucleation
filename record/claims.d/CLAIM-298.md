@@ -24,9 +24,8 @@ line: pragmatic-transport
 answers:
 - QUESTION-096
 grounds:
-- LIT-1064
-- LIT-1078
 - LIT-269
+- THEORY-tmp9h2k0
 complements:
 - CLAIM-199
 - CLAIM-117

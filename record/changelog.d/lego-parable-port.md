@@ -48,3 +48,6 @@
   priced.
 - Gupta and Mumick 2005, read ([LIT-tmp28bff](record/literature.d/LIT-tmp28bff.md)): the journal version of both
   ICDT papers; it adds proofs, not new results.
+- Thirty-one THEORYs for the readings of this contribution and of PR [#148](https://github.com/dmarx/nucleation/issues/148),
+  which filed none; claims that grounded read works as bare LITs now ground
+  the accounts. Errors found while drafting are corrected.

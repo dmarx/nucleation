@@ -52,8 +52,6 @@ summary: >-
   The evaluator is in general incomplete (non-ground negation, a single evaluation
   tree, no case analysis); it is complete for allowed queries on hierarchical data
   bases (Theorem 4).
-supports:
-- CLAIM-tmp3ejtf
 ---
 
 # LIT-tmpix3rp: Negation as Failure

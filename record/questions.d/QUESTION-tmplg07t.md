@@ -22,6 +22,15 @@ summary: >-
   in one physical order, and every further index costs space and work on every insert.
   Choosing indexes for a workload is a studied problem with explicit cost models.
   This asks whether that model is the one [QUESTION-095](QUESTION-095.md) is looking for.
+answered_by:
+- THEORY-tmp326zp
+- THEORY-tmp6l5jj
+- THEORY-tmpb49hk
+- THEORY-tmpipw5a
+- THEORY-tmpktrsb
+- THEORY-tmplx6hr
+- THEORY-tmpntty3
+- THEORY-tmpxfpa7
 ---
 <!-- inactive-ok-file: CLAIM-303 — Proposed; open claims cited as open, nothing here rests on their being settled -->
 
@@ -219,7 +228,8 @@ additive, because storing one view can make another cheaper to keep
 current, so the value of a stored answer depends on what else is stored
 and one-at-a-time greedy can fail arbitrarily. Their guarantee covers OR
 view graphs only (1 − 1/e of an optimum's benefit at up to twice the
-budget, under an assumption on the optimum), is stated without proof, and
+budget, under an assumption on the optimum), is stated without proof there (the 2005
+journal version below proves it), and
 needs greedy stages that are exponential in general. Upkeep is a
 constraint, not a cost weighed against savings; every view is refreshed in
 a nightly batch, so staleness is not priced, and nor are build cost or

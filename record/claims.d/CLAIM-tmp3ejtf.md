@@ -24,8 +24,7 @@ uses:
 grounds:
 - CASE-085
 - CASE-tmpd5exw
-- LIT-tmpj4tnh
-- LIT-tmpix3rp
+- THEORY-tmpd0cwf
 complements:
 - CLAIM-296
 summary: >-

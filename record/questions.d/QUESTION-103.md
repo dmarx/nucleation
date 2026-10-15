@@ -22,6 +22,10 @@ summary: >-
   Computational indistinguishability says every efficient observer's ROC stays near
   the chance diagonal. Ideal-observer analysis measures how far real observers fall
   short of the ideal. This asks whether the two are one framework.
+answered_by:
+- THEORY-tmpabyf2
+- THEORY-tmpn4mcl
+- THEORY-tmpxr7yk
 ---
 <!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

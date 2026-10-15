@@ -15,7 +15,7 @@ status_note: >-
   only for AND view graphs in which every view is queried more often than it is
   updated. For the data cube of [LIT-tmptn63k](LIT-tmptn63k.md) it assumes no updates, so it does not
   add upkeep to that problem. That came in Gupta and Mumick's maintenance-time-constrained
-  follow-up (ICDT 1999), which was not read.
+  follow-up (ICDT 1999), read afterwards as LIT-tmpppd6p.
 title: Selection of views to materialize in a data warehouse
 version: 1
 history:
