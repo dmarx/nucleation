@@ -11,15 +11,15 @@ status_note: >-
   2000a, Studies 1 and 2). In five experiments of N = 128, anchoring was large every
   time (d ≈ 0.85–1.39) and anchor-consistent word recognition never moved (η²G ≤
   .004). An exploratory meta-analytic Bayes factor favours the null by 21 to 1.
-  Validation studies show the same tasks also miss direct picture priming. For CLAIM-tmp9snb1
+  Validation studies show the same tasks also miss direct picture priming. For [CLAIM-tmp9snb1](../claims.d/CLAIM-tmp9snb1.md)
   it shows that the most direct published measure of "anchors change what is reachable"
   does not replicate and cannot detect priming. The claim's psychological form therefore
   rests on inferred, not measured, accessibility, and the theory is neither refuted
   nor confirmed. The authors' leading explanation of durable anchoring is a provisional
   answer formed at the comparison, which is neutral between retrieval and evaluation.
-  For QUESTION-tmpq93du it bears only indirectly. It also corrects the record's
+  For [QUESTION-tmpq93du](../questions.d/QUESTION-tmpq93du.md) it bears only indirectly. It also corrects the record's
   attribution: by this paper's account the lexical-decision studies are Mussweiler
-  & Strack 2000a, not 1999 (LIT-tmpzxnap).
+  & Strack 2000a, not 1999 ([LIT-tmpzxnap](LIT-tmpzxnap.md)).
 title: Failures to replicate a key result of the selective accessibility theory
   of anchoring
 version: 1
@@ -71,9 +71,9 @@ Not read. A reading should replace this note.
 
 ## Why this is here
 
-CLAIM-tmp9snb1 grounds its psychological form in the selective
-accessibility account of anchoring (LIT-tmpkn9x0, LIT-tmpzxnap). This paper
+[CLAIM-tmp9snb1](../claims.d/CLAIM-tmp9snb1.md) grounds its psychological form in the selective
+accessibility account of anchoring ([LIT-tmpkn9x0](LIT-tmpkn9x0.md), [LIT-tmpzxnap](LIT-tmpzxnap.md)). This paper
 shows that the most direct published measure of the accessibility step
 does not replicate, and that the measure could not detect priming at all
-(NOTE-tmpodfzg). The account survives as theory; its retrieval step is
+([NOTE-tmpodfzg](../notes.d/NOTE-tmpodfzg.md)). The account survives as theory; its retrieval step is
 inferred, not measured.
