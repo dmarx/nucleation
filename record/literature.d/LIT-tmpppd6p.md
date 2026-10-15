@@ -1,19 +1,34 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-15, not read. Registered at the owner's request for [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md),
-  as the paper that took up the open problem of [LIT-tmpn0tsb](LIT-tmpn0tsb.md): query benefit under
-  a budget of maintenance time. A reading is in progress.
+  read in full 2026-10-15 from the authors' PostScript copy on Stanford InfoLab's
+  papers server (infolab.stanford.edu/pub/papers/update.ps, 18 pages, dated 8 October
+  1998, the ICDT '99 camera-ready, not the 2005 TKDE journal version; not compared
+  with Springer's typeset pages). Worth reading as the first view-selection result
+  that budgets maintenance time instead of space, and for its demonstration that
+  upkeep is not additive: storing one view can make others cheaper to maintain,
+  so benefit per unit of maintenance is not monotone and single-view greedy can
+  be arbitrarily bad. For [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md) it shows upkeep priced as a budget,
+  U(M) = Σ update frequency × per-update maintenance cost given the other stored
+  views, with query cost the only objective; build cost, storage and staleness are
+  not modelled (every view is refreshed in a nightly batch). Its guarantee answers
+  the open problem of [LIT-tmpn0tsb](LIT-tmpn0tsb.md) only for OR view graphs: 1 − 1/e of an optimum's
+  benefit while using up to twice the budget, under an assumption on the optimum,
+  or half the optimum's benefit per unit of maintenance without it, with the theorems
+  stated but not proved and a greedy whose stages are exponential in general (including
+  on data cubes). General AND-OR graphs get only an exact A* search. It does not
+  close the question, and comes no closer to a joint cost model than [LIT-tmpu5ktj](LIT-tmpu5ktj.md).
 title: Selection of Views to Materialize Under a Maintenance Cost Constraint
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: ICDT
-    ''99, LNCS 1540, pp. 453–470; Crossref gives 1999 only. ICDT ''99 opened in
-    Jerusalem on 10 January 1999, which `published:` uses. Not held in the Anthology
-    of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for
-    the title found nothing.'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-15: ICDT '99,
+    LNCS 1540, pp. 453–470; Crossref gives 1999 only. ICDT '99 opened in Jerusalem
+    on 10 January 1999, which `published:` uses. Not held in the Anthology of the
+    SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for the title
+    found nothing. Read the same day (NOTE-tmp5yp6e).
 tags:
 - databases
 - operations-research
@@ -24,9 +39,22 @@ first_author: Gupta
 keywords: []
 implementations: []
 summary: >-
-  Gupta and Mumick (1999), ICDT '99. Registered for [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md) as view selection
-  that maximizes query benefit while capping the total time spent keeping the stored
-  views current.
+  Gupta and Mumick (1999), ICDT '99. Gupta and Mumick choose views to materialize
+  so as to minimize frequency-weighted query cost subject to a cap S on total maintenance
+  time, the sum over chosen views of update frequency times a per-update maintenance
+  cost that depends on which other views are stored. Because storing one view can
+  make another cheaper to maintain, benefit per unit of maintenance is not monotone
+  and the single-view greedy of earlier work can be arbitrarily bad. For OR view
+  graphs (each view computed from one other, as in data cubes) a greedy that adds
+  whole "inverted tree sets" gets at least 1 − 1/e (63%) of the benefit of an optimal
+  solution that may use as much maintenance as the greedy did, the greedy using
+  up to 2S, assuming no inverted-tree piece of the optimum alone exceeds S (Theorem
+  1, unproved here); without that assumption it gets half the optimum's benefit
+  per unit of maintenance (Theorem 2). Each greedy stage enumerates exponentially
+  many sets in general; for general AND-OR graphs there is only an exact A* search
+  with exponential worst case. Upkeep is a budget, not a term traded against query
+  savings; build cost, storage and staleness are not modelled, and the experiments
+  are on random graphs of 10 to 25 nodes.
 ---
 
 # LIT-tmpppd6p: Selection of Views to Materialize Under a Maintenance Cost Constraint
@@ -35,7 +63,7 @@ Gupta, H. and Mumick, I. S. (1999). Selection of views to materialize under a ma
 
 ## Key takeaways
 
-Not read yet.
+Read in full ([NOTE-tmp5yp6e](../notes.d/NOTE-tmp5yp6e.md)), from the authors' camera-ready on Stanford InfoLab's papers server. The paper minimizes frequency-weighted query cost subject to a cap on total maintenance time. Maintenance is not additive: storing one view can make another cheaper to keep current, so single-view greedy can be arbitrarily bad. For OR view graphs, a greedy over "inverted tree sets" reaches 1 − 1/e of an optimum's benefit while using up to twice the budget, or half the optimum's benefit per unit of maintenance; the theorems are stated without proof. General AND-OR graphs get only an exact A* search. Upkeep is a constraint, not a cost traded against savings, and staleness, build cost and storage are not modelled.
 
 ## Why this is here
 

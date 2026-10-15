@@ -43,3 +43,6 @@
   read ([LIT-tmpeweya](record/literature.d/LIT-tmpeweya.md)): the RUM conjecture.
 - Gupta 1997, read ([LIT-tmpn0tsb](record/literature.d/LIT-tmpn0tsb.md)): view selection with maintenance cost,
   the follow-up the owner asked for as Harinarayan's.
+- Gupta and Mumick 1999, read ([LIT-tmpppd6p](record/literature.d/LIT-tmpppd6p.md)): view selection under a
+  maintenance-time budget; upkeep is not additive, and staleness is not
+  priced.

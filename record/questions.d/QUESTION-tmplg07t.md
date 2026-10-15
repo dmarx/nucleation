@@ -211,6 +211,21 @@ condition that a stored item is read more often than its source changes
 sits close to [CLAIM-303](../claims.d/CLAIM-303.md)'s "worth its cost only when expected reuse covers
 it", but in the paper it is only what the proof needs.
 
+**Upkeep as a budget.** Gupta and Mumick 1999 ([LIT-tmpppd6p](../literature.d/LIT-tmpppd6p.md), [NOTE-tmp5yp6e](../notes.d/NOTE-tmp5yp6e.md)),
+read at the owner's request, take up Gupta 1997's open problem. They
+minimize query cost subject to a cap on total maintenance time, not a cap
+on space. Their main finding bears on this question: upkeep is not
+additive, because storing one view can make another cheaper to keep
+current, so the value of a stored answer depends on what else is stored
+and one-at-a-time greedy can fail arbitrarily. Their guarantee covers OR
+view graphs only (1 − 1/e of an optimum's benefit at up to twice the
+budget, under an assumption on the optimum), is stated without proof, and
+needs greedy stages that are exponential in general. Upkeep is a
+constraint, not a cost weighed against savings; every view is refreshed in
+a nightly batch, so staleness is not priced, and nor are build cost or
+storage. It does not give the joint model, and comes no closer than
+Bruno and Chaudhuri below.
+
 **The nearest to a joint model.** Bruno and Chaudhuri 2007 ([LIT-tmpu5ktj](../literature.d/LIT-tmpu5ktj.md),
 [NOTE-tmpcs92s](../notes.d/NOTE-tmpcs92s.md)), read at the owner's request from the accepted version on
 Microsoft Research's page. It is the first work the record has read that
