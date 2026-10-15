@@ -22,8 +22,7 @@ role: thesis
 # argument and synthesis. Independent of status and role: a theorem whose
 # reading is disputed is demonstrated and Proposed. Never inherited: a claim
 # resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. Optional in the
-# schema, but set it on every new claim.
+# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
 
 # REQUIRED for a thesis: what would defeat it. A kind of result or argument,

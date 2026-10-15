@@ -1080,7 +1080,8 @@ schemes:
         required: true
       warrant:
         vocabulary: claim-warrants
-        blurb: how the claim as stated is supported (ADR-043); optional, set on every new claim
+        required: true
+        blurb: how the claim as stated is supported (ADR-043)
       defeated_if:
         required_when:
           role:
