@@ -45,3 +45,19 @@ time can be the wrong one.
 - **Existence.** The medic's "If I can't find it, it isn't there" is
   α ≈ 0 read as absence. A16: "literally false as a claim about inventory,
   but potentially correct as an operational equivalence."
+
+## Note of 2026-10-15: retrieval done before the request
+
+Hutchins's cockpit study ([LIT-tmpn2s1p](../literature.d/LIT-tmpn2s1p.md), read in [NOTE-tmpav8gn](../notes.d/NOTE-tmpav8gn.md)) shows a
+factor this definition does not carry. The crew computes approach speeds
+25–30 minutes before landing, at low workload, and sets bugs on the
+airspeed indicators; when the speeds are needed, reading them is "a
+judgment of spatial adjacency". The environment supplies the cue (the
+displayed weight selects the card; the needle nearing a bug), and the
+work of retrieval is moved ahead of the deadline. α as defined starts the
+clock at the request. A system can raise α by doing retrieval earlier and
+leaving its result in the world, which the definition counts only through
+the environment term e. That is worth making explicit if the term is
+revised. The study is a task analysis, with no measurements and no
+failures, for an anticipated and invariant task, not a search for one item
+under a deadline as in [CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md).

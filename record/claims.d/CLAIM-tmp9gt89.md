@@ -78,3 +78,18 @@ traditions, both registered unread.
   system as merely a failure of an individual."
 - Not why retrieval failed in [CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md), or why the medic changed the
   request.
+
+## Note of 2026-10-15: the cockpit, where arrangement alone changes capacity
+
+Hutchins's "How a cockpit remembers its speeds" ([LIT-tmpn2s1p](../literature.d/LIT-tmpn2s1p.md), read in
+[NOTE-tmpav8gn](../notes.d/NOTE-tmpav8gn.md)) is the closest the record now holds to a case for this
+claim. "Individual pilot memory has not been enhanced; rather, the memory
+function has now become a property of a larger system." The pilots are
+unchanged; the speed card and the bugs change which processes are
+assembled, so what the crew can deploy in time changes with the
+arrangement alone, as [QUESTION-tmp9q4d1](../questions.d/QUESTION-tmp9q4d1.md) asks. Two limits. It is a stylized
+task analysis with no measurements and no failure cases, and its task is
+anticipated, mandated and invariant, about information and not about
+locating an object. And it adds a factor this claim does not list: work
+done before the request, by leaving the result in the environment (see
+the note of the same date on [TERM-tmp5f7cu](../terms.d/TERM-tmp5f7cu.md)).
