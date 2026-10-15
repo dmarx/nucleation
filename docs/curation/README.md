@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [15 Oct 01:45 — Reading pass: the eight works from the 2026-10-14 exchange, and two they led to](2026-10.md#reading-pass-the-eight-works-from-the-2026-10-14-exchange-and-two-they-led-to)
+- [15 Oct 00:41 — Eight works registered unread from the exchange on prompting, epistemic memory and retrieval](2026-10.md#eight-works-registered-unread-from-the-exchange-on-prompting-epistemic-memory-and-retrieval)
 - [14 Oct 01:23 — Triage of the 167 Deferred works: what to read next, and where a copy can be had](2026-10.md#triage-of-the-167-deferred-works-what-to-read-next-and-where-a-copy-can-be-had)
 - [13 Oct 21:29 — Fifteen works registered unread from the exchange on meaning operators and selfhood](2026-10.md#fifteen-works-registered-unread-from-the-exchange-on-meaning-operators-and-selfhood)
 - [13 Oct 18:44 — The intention-based line of illocution filed: Grice (1957, 1975), Strawson (1964), Bach and Harnish (1979)](2026-10.md#the-intention-based-line-of-illocution-filed-grice-1957-1975-strawson-1964-bach-and-harnish-1979)
@@ -61,9 +63,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-99 entries across 2 books, newest first.
+101 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 52 | 2026-10-01 | 2026-10-14 |
+| [2026-10](2026-10.md) | 54 | 2026-10-01 | 2026-10-15 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

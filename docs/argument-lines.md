@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-13 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+16 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -24,10 +24,31 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-154](../record/claims.d/CLAIM-154.md) — A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio *(Active)*
 - [CLAIM-164](../record/claims.d/CLAIM-164.md) — What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide *(Active)*
 
+### From An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others
+
+- [CLAIM-275](../record/claims.d/CLAIM-275.md) — An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others *(Proposed)*
+  - [CLAIM-297](../record/claims.d/CLAIM-297.md) — When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence *(Proposed)* — also rests on CLAIM-277
+- [CLAIM-277](../record/claims.d/CLAIM-277.md) — Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early *(Proposed)*
+
 ### From Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements
 
 - [CLAIM-282](../record/claims.d/CLAIM-282.md) — Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements *(Active)*
   - [CLAIM-285](../record/claims.d/CLAIM-285.md) — An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities *(Proposed)*
+
+## formal-apparatus
+
+### From Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do
+
+- [CLAIM-302](../record/claims.d/CLAIM-302.md) — Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do *(Active)*
+  - [CLAIM-304](../record/claims.d/CLAIM-304.md) — A rendering can keep a distinction recoverable in principle and make it infeasible to recover: if pseudorandom generators exist, a uniformly random bit can be encoded so that an unbounded receiver recovers it except with probability at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance *(Active)*
+
+## nucleating-argument
+
+### From Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on
+
+- [CLAIM-294](../record/claims.d/CLAIM-294.md) — Two inquiry histories can agree on every current conclusion and still call for different revisions of it, so a current marginal belief is not a sufficient state for updating on evidence about what it depended on *(Active)*
+  - [CLAIM-295](../record/claims.d/CLAIM-295.md) — A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not *(Proposed)* — also rests on CLAIM-300
+- [CLAIM-300](../record/claims.d/CLAIM-300.md) — A state sufficient for a family of decisions under a model makes the rest of an inquiry's history worthless for those decisions, and it can stop being sufficient when a source is discredited, the model is revised or the decisions change *(Active)*
 
 ## pragmatic-transport
 

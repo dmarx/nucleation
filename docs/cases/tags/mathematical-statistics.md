@@ -6,8 +6,9 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-1 of 81 CASE documents. Back to the [full index](../README.md).
+2 of 93 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-042](../../../record/cases.d/CASE-042.md) | Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions | Proposed as a laboratory by the owner at U57 and conceded as prior art after the owner's U58. Collaborative filtering recovers a user–item matrix's predicted relations with latent coordinates fixed only up to an invertible change; topic models recover individual topics only under nonnegativity plus separability or anchor-word conditions. It shows that recovery is possible and limited, not that a recovered component is a communicative kind. | Active |
+| [CASE-087](../../../record/cases.d/CASE-087.md) | The discredited instrument and the second population: two pairs of readings with the same mean that the mean cannot tell apart once one instrument is discredited or a mixture is considered | A10 §2's paired construction, which A10 recommended filing ("That single paired construction makes the dependence of sufficiency on the task and model very easy to see"). It grounds the relativity half of [CLAIM-300](../../../record/claims.d/CLAIM-300.md). | Active |

@@ -35,7 +35,7 @@ summary: >-
   the converse: the same loop turns an early lead into durable authority.
   The claim does not say which of the two a given organization does.
 supports:
-- CLAIM-tmp9muwf
+- CLAIM-297
 ---
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 

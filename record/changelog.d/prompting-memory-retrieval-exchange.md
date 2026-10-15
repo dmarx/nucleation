@@ -4,23 +4,23 @@
   (chatgpt.com/share/6ad01c63-…), filed as a workbench reconstruction of
   U1–U23.
   - Thirteen claims:
-    - current conclusions are not a sufficient state for revision, Active, [CLAIM-tmp2rwpl](record/claims.d/CLAIM-tmp2rwpl.md);
-    - sufficiency is relative to model and decisions, Active, [CLAIM-tmpp7a8x](record/claims.d/CLAIM-tmpp7a8x.md);
-    - support topology does not fix revision, granted, [CLAIM-tmp2deky](record/claims.d/CLAIM-tmp2deky.md);
-    - what keeping justifications can buy, [CLAIM-tmp7t44x](record/claims.d/CLAIM-tmp7t44x.md);
-    - sufficiency, accountability and correctness come apart, Active, [CLAIM-tmpb7qd9](record/claims.d/CLAIM-tmpb7qd9.md);
-    - filing moves work across time, [CLAIM-tmpygqjz](record/claims.d/CLAIM-tmpygqjz.md);
+    - current conclusions are not a sufficient state for revision, Active, [CLAIM-294](record/claims.d/CLAIM-294.md);
+    - sufficiency is relative to model and decisions, Active, [CLAIM-300](record/claims.d/CLAIM-300.md);
+    - support topology does not fix revision, granted, [CLAIM-293](record/claims.d/CLAIM-293.md);
+    - what keeping justifications can buy, [CLAIM-295](record/claims.d/CLAIM-295.md);
+    - sufficiency, accountability and correctness come apart, Active, [CLAIM-299](record/claims.d/CLAIM-299.md);
+    - filing moves work across time, [CLAIM-303](record/claims.d/CLAIM-303.md);
     - feasible tests can be far coarser than statistical ones, Active and
-      conditional, [CLAIM-tmpvdl53](record/claims.d/CLAIM-tmpvdl53.md), and a rendering can keep a distinction and make it
-      infeasible to recover, [CLAIM-tmpzk2fj](record/claims.d/CLAIM-tmpzk2fj.md);
-    - possession, knowledge and deployability differ, [CLAIM-tmp9gt89](record/claims.d/CLAIM-tmp9gt89.md);
-    - a frame can act on what is reachable, [CLAIM-tmp9snb1](record/claims.d/CLAIM-tmp9snb1.md);
-    - iterative retrieval can turn a guess into a premise, [CLAIM-tmps7uw8](record/claims.d/CLAIM-tmps7uw8.md), with the
-      granted limit [CLAIM-tmp23r9z](record/claims.d/CLAIM-tmp23r9z.md);
-    - coupled meaning and influence can capture an interpretation, [CLAIM-tmp9muwf](record/claims.d/CLAIM-tmp9muwf.md).
-  - Sixteen questions, from [QUESTION-tmpga1fv](record/questions.d/QUESTION-tmpga1fv.md) to [QUESTION-tmp8ixku](record/questions.d/QUESTION-tmp8ixku.md).
-  - Twelve cases, among them the owner's EMT case, [CASE-tmp9qlz6](record/cases.d/CASE-tmp9qlz6.md).
-  - Two terms: operational availability, [TERM-tmp5f7cu](record/terms.d/TERM-tmp5f7cu.md); question drift, [TERM-tmpywff6](record/terms.d/TERM-tmpywff6.md).
+      conditional, [CLAIM-302](record/claims.d/CLAIM-302.md), and a rendering can keep a distinction and make it
+      infeasible to recover, [CLAIM-304](record/claims.d/CLAIM-304.md);
+    - possession, knowledge and deployability differ, [CLAIM-296](record/claims.d/CLAIM-296.md);
+    - a frame can act on what is reachable, [CLAIM-298](record/claims.d/CLAIM-298.md);
+    - iterative retrieval can turn a guess into a premise, [CLAIM-301](record/claims.d/CLAIM-301.md), with the
+      granted limit [CLAIM-292](record/claims.d/CLAIM-292.md);
+    - coupled meaning and influence can capture an interpretation, [CLAIM-297](record/claims.d/CLAIM-297.md).
+  - Sixteen questions, from [QUESTION-105](record/questions.d/QUESTION-105.md) to [QUESTION-100](record/questions.d/QUESTION-100.md).
+  - Twelve cases, among them the owner's EMT case, [CASE-085](record/cases.d/CASE-085.md).
+  - Two terms: operational availability, [TERM-055](record/terms.d/TERM-055.md); question drift, [TERM-056](record/terms.d/TERM-056.md).
 - Eight works registered unread: selective accessibility (Strack and
   Mussweiler, two papers), Goldreich, Gibson, Hutchins, query drift (Mitra
   et al.), AGM and Hansson's survey of belief revision.

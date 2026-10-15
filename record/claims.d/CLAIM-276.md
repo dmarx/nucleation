@@ -35,7 +35,7 @@ summary: >-
   Bruner's industrial selection ([THEORY-146](../theory.d/THEORY-146.md)) are the record's readings
   that bear on it. It does not say coherence is bad.
 complements:
-- CLAIM-tmp9muwf
+- CLAIM-297
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-146 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

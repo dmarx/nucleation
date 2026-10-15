@@ -31,7 +31,7 @@ summary: >-
   (unread) and Ostwald (read). The test: do Superseded entries keep
   drawing new citations?
 complements:
-- CLAIM-tmps7uw8
+- CLAIM-301
 ---
 <!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->

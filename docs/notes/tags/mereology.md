@@ -4,7 +4,7 @@
 
 **mereology**.
 
-53 of 862 NOTE documents. Back to the [full index](../README.md).
+53 of 887 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

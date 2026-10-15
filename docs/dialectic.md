@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-35 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+37 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -261,3 +261,13 @@
 
 - [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(thesis, Proposed)*
   - [CLAIM-288](../record/claims.d/CLAIM-288.md) — A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself *(counter, Proposed)*
+
+## From Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries
+
+- [CLAIM-301](../record/claims.d/CLAIM-301.md) — Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries *(thesis, Proposed)*
+  - [CLAIM-292](../record/claims.d/CLAIM-292.md) — Retrieval that depends on current belief is not a bias in itself: adaptive search can be rational when inference accounts for how the evidence was selected, and calling a search biased needs a standard outside the search *(granted, Active)*
+
+## From A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
+
+- [CLAIM-295](../record/claims.d/CLAIM-295.md) — A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not *(thesis, Proposed)*
+  - [CLAIM-293](../record/claims.d/CLAIM-293.md) — The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions *(granted, Active)*

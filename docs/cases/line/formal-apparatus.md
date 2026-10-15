@@ -6,8 +6,9 @@
 
 **Formal apparatus** — results that hold whatever any substantive line concludes — gluing and contextuality, comparison of experiments and probes, identifiability, conservation, and thresholds for naming a unit; held as a second line by the general results other lines borrow, so that setting a substantive line aside does not retire them (ADR-040).
 
-0 of 81 CASE documents. Back to the [full index](../README.md).
+2 of 93 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-083](../../../record/cases.d/CASE-083.md) | A pseudorandom generator's output against uniform strings: almost disjoint in total variation, indistinguishable to every efficient test if the generator is secure | A15 §2's witness, which A15 recommended filing "with its cryptographic assumption explicitly stated". It grounds [CLAIM-302](../../../record/claims.d/CLAIM-302.md) and, by the record's own reduction, [CLAIM-304](../../../record/claims.d/CLAIM-304.md). Checked against Goldreich (note of 2026-10-15): the definitions match, and the separation needs the generator only for samplability. | Active |
+| [CASE-087](../../../record/cases.d/CASE-087.md) | The discredited instrument and the second population: two pairs of readings with the same mean that the mean cannot tell apart once one instrument is discredited or a mixture is considered | A10 §2's paired construction, which A10 recommended filing ("That single paired construction makes the dependence of sufficiency on the task and model very easy to see"). It grounds the relativity half of [CLAIM-300](../../../record/claims.d/CLAIM-300.md). | Active |

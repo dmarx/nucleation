@@ -6,8 +6,9 @@
 
 **Formal apparatus** — results that hold whatever any substantive line concludes — gluing and contextuality, comparison of experiments and probes, identifiability, conservation, and thresholds for naming a unit; held as a second line by the general results other lines borrow, so that setting a substantive line aside does not retire them (ADR-040).
 
-0 of 94 QUESTION documents. Back to the [full index](../README.md).
+2 of 112 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-103](../../../record/questions.d/QUESTION-103.md) | Is computational indistinguishability the bounded-observer form of signal detection's chance ROC, and is ideal-observer efficiency its empirical measure, so that the record's formal results on bounded observers can be tested on real ones? | The owner asked whether material downstream of computational indistinguishability, or the signal detection literature, would help. A test's distinguishing advantage is its hit rate minus its false-alarm rate, a point on its ROC; the best over all tests is total variation, reached by the likelihood-ratio detector ([THEORY-031](../../../record/theory.d/THEORY-031.md)). Computational indistinguishability says every efficient observer's ROC stays near the chance diagonal. Ideal-observer analysis measures how far real observers fall short of the ideal. This asks whether the two are one framework. | Open |
+| [QUESTION-110](../../../record/questions.d/QUESTION-110.md) | How should the cost of recovering a distinction from a representation be defined, relative to an encoding, a class of procedures and a success criterion? | A18's sixth candidate, "recovery complexity", filed as a question at A18's own suggestion rather than as a term. The exchange used the idea under five names and never fixed one. | Open |

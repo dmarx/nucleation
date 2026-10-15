@@ -59,7 +59,7 @@ grounds:
 - THEORY-073
 complements:
 - CLAIM-279
-- CLAIM-tmpp7a8x
+- CLAIM-300
 ---
 <!-- inactive-ok-file: THEORY-277 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: THEORY-320 — Proposed; cited in a note of 2026-10-14 as a formal instance, not leaned on -->

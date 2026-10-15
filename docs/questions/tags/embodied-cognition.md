@@ -6,8 +6,8 @@
 
 **Embodied cognition** — cognition as embodied, embedded, enacted or extended — enactivism and sense-making, coordination dynamics, situated robotics, and mind as organism–environment coupling (group: philosophy; ADR-025).
 
-0 of 94 QUESTION documents. Back to the [full index](../README.md).
+1 of 112 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-095](../../../record/questions.d/QUESTION-095.md) | Is leaving the result of a computation where it can be cheaply retrieved the same trade as amortizing the computation, and does one account of when it pays cover a crew's speed bugs, a record's filed arguments and a reasoner's reused inferences? | The owner, after reading Hutchins's cockpit paper: "amortized retrieval is actually a kind of amortized computation". The speed bugs are computed once at low load and read back as a judgement of spatial adjacency. [CLAIM-303](../../../record/claims.d/CLAIM-303.md) said filing moves work across time; [TERM-055](../../../record/terms.d/TERM-055.md)'s note said retrieval can be done before the request. This asks whether those are one trade, and which literature has formalized it. | Open |

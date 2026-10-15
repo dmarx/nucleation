@@ -96,4 +96,4 @@ representations, above, already pull the two apart. The defeater is left
 as it stands; restating it is the owner's call. A3's prompt-equivalence
 claim, equivalence over decision consequences, is [CLAIM-050](CLAIM-050.md) applied to
 prompts and is not filed. Its question about activation steering is
-[QUESTION-tmpgjibj](../questions.d/QUESTION-tmpgjibj.md).
+[QUESTION-106](../questions.d/QUESTION-106.md).

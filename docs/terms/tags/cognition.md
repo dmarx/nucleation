@@ -6,8 +6,9 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-1 of 54 TERM documents. Back to the [full index](../README.md).
+2 of 56 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-027](../../../record/terms.d/TERM-027.md) | cultural attractor | A stable endpoint of repeated reconstruction, read as "a shared decoding convention rather than a preserved historical object" (A110 §20). Used from A82 to C6 (whose §8 heading has it); the word does not appear in the manuscript. | Active |
+| [TERM-055](../../../record/terms.d/TERM-055.md) | operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline | A17 §3's α, with A19's cue added. Named because the exchange used it in five turns (A16 to A19, and A23 §II) under "available", "accessible" and "deployable". The term separates the deployability of a resource from its presence and from knowing it is present ([CLAIM-296](../../../record/claims.d/CLAIM-296.md)). | Active |

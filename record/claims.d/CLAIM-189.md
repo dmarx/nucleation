@@ -30,7 +30,7 @@ summary: >-
   change is announced and located: traceability.
 complements:
 - CLAIM-250
-- CLAIM-tmpb7qd9
+- CLAIM-299
 ---
 <!-- inactive-ok-file: CLAIM-270 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-250 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->

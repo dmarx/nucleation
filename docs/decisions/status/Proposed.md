@@ -4,8 +4,9 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-1 of 42 decisions. Back to the [full index](../README.md).
+2 of 43 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ADR-041](../../../record/decisions.d/ADR-041.md) | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred | `Deferred` on a LIT held two different situations: a work nobody has yet tried to read, and a work whose lawful full text was looked for and not reached. The owner asked for the two to be told apart. The lit-statuses vocabulary gains `Unavailable` ("No copy reached"), and `Deferred` keeps "no attempt recorded". 177 of the 345 Deferred LITs had a status note recording a failed search, and they move. Among them are 8 where a lawful copy exists but this client could not fetch it. Three were left Deferred because their notes record no search. The other 168 stay Deferred. | Proposed |
+| [ADR-043](../../../record/decisions.d/ADR-043.md) | A warrant field on CLAIM, saying how a claim is supported (demonstrated, empirical, interpretive) apart from whether the record accepts it and in whose voice, piloted before it is required | The owner, at U9 of the exchange of 2026-10-14, on the assistant's line "what we've demonstrated by construction, what we've made plausible through examples, and what still requires empirical evidence": "do we have anything like this already segregating CLAIMs? if not, we should consider adding it." The record does not. `status` says whether the record accepts a claim, `role` whose voice it is in, and CASE has `standing` and `kind`, but nothing on a CLAIM says how it is warranted: an Active claim may be a theorem, an empirical generalization or an interpretation. Proposed: an optional `warrant` field from a closed vocabulary of three or four, attached to the claim as stated, never inherited along `rests_on`, piloted on the claims filed from that exchange before any decision to require it. Not applied. | Proposed |

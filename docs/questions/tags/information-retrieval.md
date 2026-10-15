@@ -6,8 +6,9 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-0 of 94 QUESTION documents. Back to the [full index](../README.md).
+2 of 112 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-096](../../../record/questions.d/QUESTION-096.md) | When does a communicative cue change what an interpreter can recover from an unchanged internal state, and how can such an addressing effect be told apart from new information, added computation or a changed policy? | A19's question, after the owner tied the represented / recoverable / actionable distinction to QKV attention and Kanerva's sparse distributed memory at U19. The record already holds that attention approximates SDM ([LIT-269](../../../record/literature.d/LIT-269.md)). | Open |
+| [QUESTION-107](../../../record/questions.d/QUESTION-107.md) | When does iterative query reformulation improve access to relevant evidence, and when does it entrench an initial interpretation by narrowing what is encountered next? | A21's question. The owner suspected at U21 that agent harnesses rediscover old information retrieval: query expansion, relevance feedback, intent classification and slot filling. Classical IR named query drift ([LIT-1079](../../../record/literature.d/LIT-1079.md), unread). An agent that rewrites its own task adds [TERM-056](../../../record/terms.d/TERM-056.md). | Open |

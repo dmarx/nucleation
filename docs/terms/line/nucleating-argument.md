@@ -6,8 +6,9 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure, and what a project memory contributes — the record itself as the case.
 
-1 of 54 TERM documents. Back to the [full index](../README.md).
+2 of 56 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-052](../../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
+| [TERM-056](../../../record/terms.d/TERM-056.md) | question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed | A21 §3's distinction, used again at A23 VI.C. Classical retrieval names query drift ([LIT-1079](../../../record/literature.d/LIT-1079.md)). An agent that rewrites its own task can drift in the question. The nucleating-argument line studies drift in concepts ([CLAIM-177](../../../record/claims.d/CLAIM-177.md)); this is drift in what is being asked. | Active |

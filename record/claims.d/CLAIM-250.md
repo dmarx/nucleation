@@ -20,8 +20,8 @@ works:
 - luria-nucleating-an-argument
 complements:
 - CLAIM-189
-- CLAIM-tmp7t44x
-- CLAIM-tmpb7qd9
+- CLAIM-295
+- CLAIM-299
 summary: >-
   From the interlocutor's reading of PR [#121](https://github.com/dmarx/nucleation/issues/121) and its reconciliation,
   relayed by the owner on 2026-10-12, on the third open tension ([CLAIM-189](CLAIM-189.md)
@@ -29,8 +29,8 @@ summary: >-
   moves the fidelity object from propositions to justificatory relations.
   Proposed and not adopted.
 illustrated_by:
-- CASE-tmpccqh1
-- CASE-tmpohd6m
+- CASE-086
+- CASE-090
 ---
 <!-- inactive-ok-file: CLAIM-189 — Proposed; cited as open positions and readings the interlocutor's reading addresses, not as settled -->
 # CLAIM-250: What a developing argument should preserve through legitimate revision is its accountability structure, what was asserted, why, how it was challenged and what justified its revision, not its propositions, so fidelity is defined over justificatory and provenance relations while propositional content changes
@@ -61,19 +61,19 @@ current conclusions lack) and architectural (explicit graphs help bounded
 agents). This claim is the first. The exchange filed results bearing on
 the other two:
 
-- [CLAIM-tmp2rwpl](CLAIM-tmp2rwpl.md): current conclusions are not a sufficient state for revision.
-- [CLAIM-tmpp7a8x](CLAIM-tmpp7a8x.md): a sufficient state makes history redundant for its decisions,
+- [CLAIM-294](CLAIM-294.md): current conclusions are not a sufficient state for revision.
+- [CLAIM-300](CLAIM-300.md): a sufficient state makes history redundant for its decisions,
   and sufficiency lapses when the model or decisions change.
-- [CLAIM-tmp2deky](CLAIM-tmp2deky.md), granted: support topology does not fix revision.
-- [CLAIM-tmpb7qd9](CLAIM-tmpb7qd9.md): sufficiency, accountability and correctness come apart.
-- [CLAIM-tmp7t44x](CLAIM-tmp7t44x.md), Proposed: what keeping justifications can buy is a wider family
+- [CLAIM-293](CLAIM-293.md), granted: support topology does not fix revision.
+- [CLAIM-299](CLAIM-299.md): sufficiency, accountability and correctness come apart.
+- [CLAIM-295](CLAIM-295.md), Proposed: what keeping justifications can buy is a wider family
   of decisions for which the retained state suffices, and decisions a
   bounded agent can afford.
 
 None of these settles this claim. A10 §7: it is "a proposal about what
 accountable inquiry ought to preserve", and a normative argument for
 accountability should not be "mistaken for a statistical theorem", though
-[CLAIM-tmp7t44x](CLAIM-tmp7t44x.md) gives it a possible instrumental justification. A13 added that an
+[CLAIM-295](CLAIM-295.md) gives it a possible instrumental justification. A13 added that an
 accountability structure need not store each derivation separately: a
 factored representation can hold exponentially many alternative
 derivations compactly. The status is unchanged.

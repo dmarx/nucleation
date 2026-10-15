@@ -6,7 +6,7 @@
 
 **Agency** — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy).
 
-9 of 54 TERM documents. Back to the [full index](../README.md).
+10 of 56 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -19,3 +19,4 @@
 | [TERM-047](../../../record/terms.d/TERM-047.md) v2 | jurisdiction of a will-organization | The set of action-generating regimes whose practical efficacy a given will-organization governs: those for which it maintains the conditions under which they acquire, retain, lose or alter efficacy. Its outer reach, as distinct from [TERM-017](../../../record/terms.d/TERM-017.md)'s jurisdiction, which is one relation inside a will-organization. | Active |
 | [TERM-048](../../../record/terms.d/TERM-048.md) | willed agent | An agent ([TERM-044](../../../record/terms.d/TERM-044.md)) whose behaviour is governed by a will-organization ([TERM-023](../../../record/terms.d/TERM-023.md)) over several action-generating regimes, and which is individuated as that will-organization's jurisdiction ([TERM-047](../../../record/terms.d/TERM-047.md)). The middle tier between agency and selfhood; the owner's name, 2026-10-11. | Active |
 | [TERM-051](../../../record/terms.d/TERM-051.md) v2 | drive profile | How the drive of a described system is apportioned, at a time and for a stated macro-variable and target, along two axes. Within a level: one member drives, the members drive each other, or the drive is diffuse. Across levels: aggregate, top-down, bidirectional or emergent, read from the information decomposition's downward-causation and causal-decoupling terms. A profile is time-indexed. | Active |
+| [TERM-055](../../../record/terms.d/TERM-055.md) | operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline | A17 §3's α, with A19's cue added. Named because the exchange used it in five turns (A16 to A19, and A23 §II) under "available", "accessible" and "deployable". The term separates the deployability of a resource from its presence and from knowing it is present ([CLAIM-296](../../../record/claims.d/CLAIM-296.md)). | Active |

@@ -49,7 +49,8 @@ this directory, then run `luria index`.
 
 **[Mathematical statistics](tags/mathematical-statistics.md)** (0) — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-**[Information retrieval](tags/information-retrieval.md)** (0) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
+**[Information retrieval](tags/information-retrieval.md)** (1) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval:
+[056](../../record/terms.d/TERM-056.md)
 
 **[Design rationale](tags/design-rationale.md)** (1) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030):
 [052](../../record/terms.d/TERM-052.md)
@@ -72,8 +73,8 @@ this directory, then run `luria index`.
 
 **[Mereology](tags/mereology.md)** (0) — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-**[Agency](tags/agency.md)** (9) — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy):
-[003](../../record/terms.d/TERM-003.md) · [017](../../record/terms.d/TERM-017.md) · [019](../../record/terms.d/TERM-019.md) · [020](../../record/terms.d/TERM-020.md) · [023](../../record/terms.d/TERM-023.md) · [044](../../record/terms.d/TERM-044.md) · [047](../../record/terms.d/TERM-047.md) · [048](../../record/terms.d/TERM-048.md) · [051](../../record/terms.d/TERM-051.md)
+**[Agency](tags/agency.md)** (10) — what it is to be an agent — goals, action, control and the capacity to act — in organisms, collectives or machines. An agent is not thereby an individual, a self or a person (ADR-024); how an agent's behaviour is integrated is behavioral-integration, and governing oneself by one's own standards is self-governance (group: philosophy):
+[003](../../record/terms.d/TERM-003.md) · [017](../../record/terms.d/TERM-017.md) · [019](../../record/terms.d/TERM-019.md) · [020](../../record/terms.d/TERM-020.md) · [023](../../record/terms.d/TERM-023.md) · [044](../../record/terms.d/TERM-044.md) · [047](../../record/terms.d/TERM-047.md) · [048](../../record/terms.d/TERM-048.md) · [051](../../record/terms.d/TERM-051.md) · [055](../../record/terms.d/TERM-055.md)
 
 **[Individuation](tags/individuation.md)** (5) — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024):
 [014](../../record/terms.d/TERM-014.md) · [022](../../record/terms.d/TERM-022.md) · [040](../../record/terms.d/TERM-040.md) · [041](../../record/terms.d/TERM-041.md) · [049](../../record/terms.d/TERM-049.md)
@@ -129,16 +130,16 @@ this directory, then run `luria index`.
 
 **[Consciousness](tags/consciousness.md)** (0) — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy).
 
-**[Cognition](tags/cognition.md)** (1) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy):
-[027](../../record/terms.d/TERM-027.md)
+**[Cognition](tags/cognition.md)** (2) — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy):
+[027](../../record/terms.d/TERM-027.md) · [055](../../record/terms.d/TERM-055.md)
 
 **[Emotion and affect](tags/emotion-and-affect.md)** (0) — emotions, feelings and affect — what they are, their bodily and neural basis (including the homeostatic and interoceptive states feelings are said to report), their role in decision, memory and behaviour, and whether they ground consciousness (group: philosophy; ADR-014).
 
 **[Philosophy of science](tags/philosophy-of-science.md)** (2) — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy):
 [037](../../record/terms.d/TERM-037.md) · [038](../../record/terms.d/TERM-038.md)
 
-**[Epistemology](tags/epistemology.md)** (1) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy):
-[052](../../record/terms.d/TERM-052.md)
+**[Epistemology](tags/epistemology.md)** (2) — knowledge, belief and evidence — justification and rational credence, the value of knowledge, testimony, trust and expertise, and social and inductive-risk questions about evidence (group: philosophy):
+[052](../../record/terms.d/TERM-052.md) · [056](../../record/terms.d/TERM-056.md)
 
 **[Logic](tags/logic.md)** (0) — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
@@ -151,9 +152,9 @@ this directory, then run `luria index`.
 
 **[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-**By status:** [Active](status/Active.md) (42) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
+**By status:** [Active](status/Active.md) (44) · [Proposed](status/Proposed.md) (0) · [Deferred](status/Deferred.md) (2) · [Superseded](status/Superseded.md) (10) · [Rejected](status/Rejected.md) (0)
 
-**By line:** [Distributed agency](line/distributed-agency.md) (7) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36) · [Nucleating an argument](line/nucleating-argument.md) (1) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0) · [Formal apparatus](line/formal-apparatus.md) (0)
+**By line:** [Distributed agency](line/distributed-agency.md) (8) · [Will-organization](line/will-organization.md) (6) · [Organizational affect](line/organizational-affect.md) (0) · [Authenticity and concordance](line/authenticity.md) (2) · [Contextual pragmatic information transport](line/pragmatic-transport.md) (36) · [Nucleating an argument](line/nucleating-argument.md) (2) · [Evidence for experience](line/evidence-for-experience.md) (0) · [How training finds structure](line/learned-structure.md) (0) · [Formal apparatus](line/formal-apparatus.md) (0)
 
 What the status column means in this scheme — the words are luria's, the meanings are this project's.
 
@@ -221,4 +222,6 @@ What the status column means in this scheme — the words are luria's, the meani
 | [TERM-052](../../record/terms.d/TERM-052.md) | crystallized argument | The owner's term: the argument in its terminal state at a given point in a discussion, as matured as it has yet become. "Crystallization" is that maturing. Asking for the crystallized argument asks for a readout of the current terminal state, not for a new act of formation. | Active |
 | [TERM-053](../../record/terms.d/TERM-053.md) | endorsement, between an organization's processes: any effect one process has on another's share of future influence, of which an explicit vote is one case | The owner's "vote" at U2, generalized at A5 §7 to an effective causal relation. Process i endorses process j in region x to the extent that an intervention of i raises j's chance of acquiring influence there. Opposition is negative endorsement. Attending to j's output, keeping it active, passing it resources and suppressing its rivals are all endorsement. The term is about authority among processes. It is not Frankfurt's identification with a desire. | Active |
 | [TERM-054](../../record/terms.d/TERM-054.md) | canvas temperature: the rate and spatial spread of placements that follow no coalition's plan, modelled as a stochastic field on the canvas rather than as agents | The owner's proposal: treat unaffiliated participation on r/place as a property of the canvas, a noise field T(x, t) that corrupts any pattern left unmaintained, instead of as a population of operators. That makes the need for maintenance explicit. T falls over the event as uninvested participants leave. Which placements count as unaffiliated is relative to the plans in play, so the field is defined against a set of plans. | Active |
+| [TERM-055](../../record/terms.d/TERM-055.md) | operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline | A17 §3's α, with A19's cue added. Named because the exchange used it in five turns (A16 to A19, and A23 §II) under "available", "accessible" and "deployable". The term separates the deployability of a resource from its presence and from knowing it is present ([CLAIM-296](../../record/claims.d/CLAIM-296.md)). | Active |
+| [TERM-056](../../record/terms.d/TERM-056.md) | question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed | A21 §3's distinction, used again at A23 VI.C. Classical retrieval names query drift ([LIT-1079](../../record/literature.d/LIT-1079.md)). An agent that rewrites its own task can drift in the question. The nucleating-argument line studies drift in concepts ([CLAIM-177](../../record/claims.d/CLAIM-177.md)); this is drift in what is being asked. | Active |
 

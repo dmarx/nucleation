@@ -6,9 +6,10 @@
 
 **Information theory** — entropy, channels, coding and capacity read for themselves — including information-theoretic accounts of work, memory and inference outside machine learning.
 
-2 of 81 CASE documents. Back to the [full index](../README.md).
+3 of 93 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-043](../../../record/cases.d/CASE-043.md) | Data written for a future reader and never read | The owner's variant of the tree in the woods (2026-10-11). Someone writes a record (a note, a log, a letter, a backup) for a reader they expect, and it is never read. Unlike the tree, the write was made for someone. Used to separate when a message's intended meaning is fixed from when its fidelity is measured. | Active |
 | [CASE-062](../../../record/cases.d/CASE-062.md) | Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings | A constructed study, built on documented halves. Simplified texts, made from the source alone, raised comprehension for named restricted readers (adults and adolescents with autism; weaker second-graders), and automatic simplifications lowered it for fluent native readers, but in different studies on different texts. Edited subtitles did not help deaf viewers, and text reduction in captions helped the more proficient readers more. The stipulated design puts both populations on the same renderings, with probe items fixed in advance as answerable from both versions or from the original only. | Active |
+| [CASE-083](../../../record/cases.d/CASE-083.md) | A pseudorandom generator's output against uniform strings: almost disjoint in total variation, indistinguishable to every efficient test if the generator is secure | A15 §2's witness, which A15 recommended filing "with its cryptographic assumption explicitly stated". It grounds [CLAIM-302](../../../record/claims.d/CLAIM-302.md) and, by the record's own reduction, [CLAIM-304](../../../record/claims.d/CLAIM-304.md). Checked against Goldreich (note of 2026-10-15): the definitions match, and the separation needs the generator only for samplability. | Active |
