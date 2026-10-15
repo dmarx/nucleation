@@ -24,6 +24,7 @@ answers:
 - QUESTION-037
 rests_on:
 - CLAIM-177
+- CLAIM-tmpwkbsy
 uses:
 - TERM-052
 summary: >-
@@ -95,3 +96,16 @@ rests on them ([CLAIM-182](CLAIM-182.md)). When a draft drops one, no reference 
 and nothing reports the loss. A claim in the record is an anchor. Dropping
 it from a work leaves its inbound references standing and its `works`
 membership visibly gone.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: that a manuscript
+should be a view over the argument is interpretive, while that the
+drafts of the What Survives Translation? exchange dropped commitments
+and changed the thesis without saying so is empirical, from one
+exchange. The empirical part, scoped to that exchange, is now [CLAIM-tmpwkbsy](CLAIM-tmpwkbsy.md), on
+which this claim rests, as it already rests on [CLAIM-177](CLAIM-177.md). This claim
+keeps the rest and stays interpretive: the general form, that a draft
+written straight from an exchange behaves this way, generalizes from
+one case, and the remedy is a proposal. Its title already states the
+general form, so it was kept.

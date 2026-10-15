@@ -17,6 +17,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-113
+- CLAIM-tmp6eegl
 uses:
 - TERM-036
 summary: >-
@@ -70,3 +71,18 @@ while still being related by isomorphisms." That is false. An invertible
 u : A → B induces an isomorphism Aut(A) ≅ Aut(B), by g ↦ ugu⁻¹. Objects with
 non-isomorphic automorphism groups lie in different connected components of a
 groupoid and are joined by no arrow.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound: the nesting of
+exact symmetries inside the stochastic transports, and its narrow
+invertible core (a stochastic matrix with a stochastic inverse is a
+permutation matrix), are demonstrated, while the main use this claim
+gives symmetry, supplying the invariants against which non-symmetric
+transports are assessed, is interpretive, and it is what the defeat
+condition tests. The nesting, the invertible core and the correction of
+A198 §8 in the note of 2026-10-10 are now [CLAIM-tmp6eegl](CLAIM-tmp6eegl.md) (demonstrated), on which
+this claim rests. This claim keeps the yardstick role and the reading
+that symmetry is not opposed to transport. Its title states the nesting
+as the premise of that reading and is kept; its warrant stays
+interpretive.

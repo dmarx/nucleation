@@ -29,6 +29,8 @@ summary: >-
 supports:
 - CLAIM-105
 - CLAIM-235
+- CLAIM-tmp9fgji
+- CLAIM-tmpbogw2
 ---
 
 # THEORY-165: Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model's probability table

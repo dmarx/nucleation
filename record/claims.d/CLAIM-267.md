@@ -44,6 +44,7 @@ summary: 'The general content of [CLAIM-056](CLAIM-056.md), filed alone under [A
 supports:
 - CLAIM-056
 - CLAIM-191
+- CLAIM-059
 ---
 <!-- inactive-ok-file: CLAIM-056 CLAIM-068 CLAIM-106 CLAIM-191 QUESTION-017 — Proposed; cited for what each holds or applies, open, not settled -->
 <!-- inactive-ok-file: THEORY-289 — Proposed; filed today, cited as a closed-form instance, not leaned on -->

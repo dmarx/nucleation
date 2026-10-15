@@ -6,7 +6,7 @@ formerly:
 title: 'The decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order'
 version: 1
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   Receivers' task-indexed fidelity verdicts, on renderings that improve
   some tasks and worsen others, track the symmetric distance D_Q better
@@ -26,6 +26,8 @@ complements:
 uses:
 - TERM-028
 - TERM-043
+rests_on:
+- CLAIM-tmpz6mng
 summary: >-
   The record's repair, on 2026-10-10, of A86's D_Q after [CLAIM-218](CLAIM-218.md).
   Define D⁺_Q(U → V; π) = sup over q in Q of [r_q,π(V) − r_q,π(U)]⁺, with
@@ -135,3 +137,14 @@ read, so it is not stated here.
   other direction, D⁺(V → U), as [CLAIM-106](CLAIM-106.md)'s asymmetry asks.
 - It does not supply a correspondence of tasks for re-performance
   fidelity. That stays [QUESTION-005](../questions.d/QUESTION-005.md).
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound: the properties of
+D⁺_Q, steps (a) to (d), are demonstrated, and that it should be the
+decision term is a proposal whose defeat condition is empirical and
+untested. The properties are now [CLAIM-tmpz6mng](CLAIM-tmpz6mng.md) (demonstrated), on which this claim
+rests. This claim keeps the proposal, and its defeat condition, and is
+marked interpretive. Its title is kept: it leads with "should be", and its
+second half names the properties the proposal relies on, which [CLAIM-tmpz6mng](CLAIM-tmpz6mng.md) now
+carries.

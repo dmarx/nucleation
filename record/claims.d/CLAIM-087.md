@@ -64,3 +64,21 @@ indispensable" and a generator can fail "precisely the higher-order
 communicative constraint". The opposite possibility is not stated. It bears on
 [QUESTION-012](../questions.d/QUESTION-012.md), and it is the cross-modal case of [CLAIM-105](CLAIM-105.md)'s reverse: a transport that
 adds a distinction.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound: the
+improvement of a receiver's access through an image is a hypothetical
+example with an empirical test proposed and none run, which is
+interpretive, while the bound in its last clause, that a rendering made
+without the situation is a garbling and cannot improve what an ideal
+receiver could do, is demonstrated. That bound is already stated and
+derived in [CLAIM-225](CLAIM-225.md) (Active, demonstrated): with a generator whose
+channel T(v | u) does not depend on the situation z, P(V | Z) is T
+applied to P(U | Z), so by Blackwell's theorem the image is no better
+than the text for any bounded decision problem about the situation. No
+new claim was drafted. No relation was added either: [CLAIM-225](CLAIM-225.md) already
+rests on this claim, so this claim cannot rest on it without a cycle,
+and the two are already linked. This claim keeps the improvement for a
+given receiver as its conclusion, with the bound as the condition that
+scopes it, and its warrant stays interpretive. The title is kept.

@@ -31,6 +31,7 @@ date: '2026-10-12'
 line: distributed-agency
 rests_on:
 - CLAIM-197
+- CLAIM-tmp2zbbq
 grounds:
 - LIT-1001
 complements:
@@ -132,3 +133,17 @@ one broadcast phrase heard as faith by an in-group and as boilerplate by
 others, with the split measured. It shows a speaker addressing two
 audiences at once in one wording, not a conflict between roles, so it is
 not linked here.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: an interpretive
+reading of a person's roles as sections over contexts, which locates role
+conflict on an overlap, and the empirical sociology of audiences it draws
+on, from boyd (2008) and [CASE-064](../cases.d/CASE-064.md). The empirical part, that presentations
+which differ by audience do no harm while the audiences are kept apart,
+that people keep them apart and script their meetings, and that broadcast
+and networked media bring them together, is now [CLAIM-tmp2zbbq](CLAIM-tmp2zbbq.md), on which this claim
+rests. Its formal part was already [CLAIM-197](CLAIM-197.md). This claim keeps the rest,
+the sheaf reading and its prediction that segregation strategies target
+the overlaps, and stays interpretive. Its title states the sociology only
+as what keeps or creates an overlap, so it was kept.

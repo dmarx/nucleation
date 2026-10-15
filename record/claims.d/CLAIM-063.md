@@ -30,6 +30,7 @@ objected_by:
 - CLAIM-253
 complements:
 - CLAIM-231
+- CLAIM-117
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body applies the term without naming it -->
 
