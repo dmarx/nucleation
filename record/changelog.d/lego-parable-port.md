@@ -13,13 +13,13 @@
   - the castle topic persists as no eigenmode, a construction, [CASE-tmpliavq](record/cases.d/CASE-tmpliavq.md);
   - the owner's smoothie line, [CASE-tmpjuth9](record/cases.d/CASE-tmpjuth9.md), and goodness against discriminability,
     Active, [CLAIM-tmpd7v8w](record/claims.d/CLAIM-tmpd7v8w.md);
-  - "If I can't find it, it isn't there" as negation as failure under a
-    deadline, [CLAIM-tmp3ejtf](record/claims.d/CLAIM-tmp3ejtf.md);
+  - "If I can't find it, it isn't there" as a default stronger than
+    negation as failure, Active, [CLAIM-tmp3ejtf](record/claims.d/CLAIM-tmp3ejtf.md);
   - two questions: sorting as amortized search, [QUESTION-tmplg07t](record/questions.d/QUESTION-tmplg07t.md), refining
     [QUESTION-095](record/questions.d/QUESTION-095.md), with a survey of database physical design; and three
     criteria for naming a category, [QUESTION-tmpjnf86](record/questions.d/QUESTION-tmpjnf86.md).
 - Treisman and Gelade 1980, read ([LIT-tmp9g55n](record/literature.d/LIT-tmp9g55n.md)); Duncan and Humphreys 1989,
-  Unavailable ([LIT-tmp95pcw](record/literature.d/LIT-tmp95pcw.md)); Reiter 1978 and Clark 1978, registered unread ([LIT-tmpj4tnh](record/literature.d/LIT-tmpj4tnh.md),
+  Unavailable ([LIT-tmp95pcw](record/literature.d/LIT-tmp95pcw.md)); Reiter 1978 and Clark 1978, read ([LIT-tmpj4tnh](record/literature.d/LIT-tmpj4tnh.md),
   [LIT-tmpix3rp](record/literature.d/LIT-tmpix3rp.md)).
 - Four works on database physical design and amortized organization,
   registered and read for [QUESTION-tmplg07t](record/questions.d/QUESTION-tmplg07t.md): Finkelstein et al. 1988

@@ -51,8 +51,9 @@ summary: >-
   in the paper concerns how long a search takes: non-entailment is a fixed logical
   relation, and the CWA's justification is stated as an assumption of total knowledge
   of the domain, not proved as a soundness condition.
+supports:
+- CLAIM-tmp3ejtf
 ---
-<!-- inactive-ok-file: CLAIM-tmp3ejtf — Proposed; the claim this work is registered for, cited as open -->
 
 # LIT-tmpj4tnh: On Closed World Data Bases
 

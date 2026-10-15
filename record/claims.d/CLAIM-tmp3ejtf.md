@@ -1,20 +1,21 @@
 ---
-status: Proposed
-title: 'Under a deadline, search can establish that an item is present by finding
-  one, but can establish absence only by exhausting the collection, so "If I can''t
-  find it, it isn''t there" is negation as failure, a closed-world assumption taken
-  on a time bound: a default that is safe exactly when the arrangement makes retrieval
-  complete within the deadline'
+status: Active
+title: 'Under a deadline, search can establish presence by finding one item but
+  absence only by exhausting the collection, so "If I can''t find it, it isn''t
+  there" acts on an unfinished search as negation as failure acts on a finished
+  one: a default stronger than either the closed-world assumption or negation as
+  failure, safe only when the arrangement makes the full search finish within the
+  deadline'
 version: 1
 role: thesis
 defeated_if: >-
   A search procedure, under a deadline shorter than an exhaustive pass, whose failure
-  to find an item entails its absence without a completeness assumption about the
-  arrangement. Or a case in which the medic's rule was applied and no assumption
-  that a present item would have been found was in play.
+  to find an item licenses its absence with no assumption that the unsearched part
+  would also have failed. Or a reading of Clark's soundness theorem on which a search
+  cut off before every branch has failed counts as a failure.
 tags:
 - logic
-- information-retrieval
+- databases
 - cognition
 date: '2026-10-15'
 line: distributed-agency
@@ -23,24 +24,28 @@ uses:
 grounds:
 - CASE-085
 - CASE-tmpd5exw
+- LIT-tmpj4tnh
+- LIT-tmpix3rp
 complements:
 - CLAIM-296
 summary: >-
   The medic's "If I can't find it, it isn't there" ([CASE-085](../cases.d/CASE-085.md)) and the owner's "if
-  I can't find it quickly enough, it may as well not be there" ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)) both
-  act on a failed search as if it showed absence. One find shows presence. Absence
-  can be shown only by checking everything, which a deadline forbids. Treisman and
-  Gelade's target-absent scans are the cost of that asymmetry in the lab. Acting
-  on failure to find is what database theory calls the closed-world assumption (Reiter
-  1978) and logic programming negation as failure (Clark 1978). Both are sound only
-  relative to a completeness assumption. So the rule is a default, and what makes
-  it safe is an arrangement in which a present item would have been found in time.
-  Proposed: Reiter and Clark are registered unread.
+  I can't find it quickly enough, it may as well not be there" ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)) act
+  on a failed search as if it showed absence. One find shows presence, but absence
+  needs a check of everything, which a deadline forbids. First filed as negation
+  as failure on a time bound, with Reiter and Clark unread. Both readings corrected
+  it. The two assumptions are separate. Reiter's closed-world assumption is that
+  the database is complete about the world. Clark's negation as failure is licensed
+  only by finite failure: "the exhaustive but unsuccessful search for a proof".
+  A search cut off by a deadline meets neither, so the rule is stronger than both.
+  It assumes a closed world and that the unsearched part would have failed. It is
+  safe when the full pass finishes in time. In [CASE-085](../cases.d/CASE-085.md) the EMT knew the drug was
+  stocked, which is exactly where Reiter shows the closed-world assumption inconsistent.
+  So there it was a decision to stop, not an inference.
 ---
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: LIT-tmpj4tnh LIT-tmpix3rp — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 
-# CLAIM-tmp3ejtf: Under a deadline, search can establish that an item is present by finding one, but can establish absence only by exhausting the collection, so "If I can't find it, it isn't there" is negation as failure, a closed-world assumption taken on a time bound: a default that is safe exactly when the arrangement makes retrieval complete within the deadline
+# CLAIM-tmp3ejtf: Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
 
 ## The claim
 
@@ -55,34 +60,58 @@ of target-present trials, 67.1 against 28.7 ms per item, and even when a
 present target popped out, absent responses grew with display size (25.1
 against 3.1 ms per item).
 
-**The rule acts on failure as if on absence.** The medic's "If I can't
-find it, it isn't there" ([CASE-085](../cases.d/CASE-085.md)) is false of the inventory ([CLAIM-296](CLAIM-296.md))
-and right of the decision ([TERM-055](../terms.d/TERM-055.md)). In database theory, treating what
-cannot be derived as false is the closed-world assumption. In logic
-programming, inferring not-p from a failed attempt to prove p is negation
-as failure. Both are standardly described as sound only relative to a
-completeness assumption: that whatever is true would have been found, the
-database or program being complete for the relevant facts (Reiter 1978,
-[LIT-tmpj4tnh](../literature.d/LIT-tmpj4tnh.md); Clark 1978, [LIT-tmpix3rp](../literature.d/LIT-tmpix3rp.md); registered here unread).
+**Two assumptions, which the rule makes together.** Reiter's closed-world
+assumption ([LIT-tmpj4tnh](../literature.d/LIT-tmpj4tnh.md), read in [NOTE-tmpjk9xt](../notes.d/NOTE-tmpjk9xt.md), from his 1977 workshop report)
+adds the negation of every ground atom the database does not entail. The
+convention "presumes total knowledge about the domain being represented".
+His own illustration is close to the medic's: "If I fail to find an entry
+indicating that Air Canada flight 103 connects Vancouver with Toulouse I
+will conclude that it does not." Clark's negation as failure ([LIT-tmpix3rp](../literature.d/LIT-tmpix3rp.md), read in
+[NOTE-tmpa2jg6](../notes.d/NOTE-tmpa2jg6.md), from the author's posted scan) takes not-P as a lemma only
+after "the exhaustive but unsuccessful search for a proof of P". His
+soundness theorem makes that a consequence of the completed database:
+every branch must end in failure, and a branch that never ends licenses
+nothing. So there are two assumptions:
 
-**So the rule is a default whose safety is a property of the
-arrangement.** Let π be the prior that the item is present and h the
+1. **The world is closed.** What is there would be in the database.
+   Reiter's.
+2. **The search finished.** Every place has been tried and failed.
+   Clark's, required outright, not assumed.
+
+A search cut off by a deadline satisfies neither. "If I can't find it, it
+isn't there" acts on an unfinished search as negation as failure acts on a
+finished one. It assumes both a closed world and that the part not
+searched would have failed too. It is therefore stronger than either
+inference, not one of them on a time bound, as first filed.
+
+**When it is safe.** Let π be the prior that the item is present and h the
 chance a search finds a present item within τ. Then, by Bayes,
 
 P(present | not found by τ) = π(1 − h) / (π(1 − h) + 1 − π).
 
-As h → 1 this goes to 0, and the closed-world inference becomes safe. An
-arrangement that makes retrieval complete within the deadline (a labelled
-compartment, a bin of one's own, [CLAIM-tmp6u639](CLAIM-tmp6u639.md)'s carve) is what turns a failed
-search into evidence of absence. In [CASE-085](../cases.d/CASE-085.md) the unit was stocked and the
-EMT knew it, so π was near 1 and h low. The posterior stayed high, and
-"it isn't there" was a decision to stop searching, not a finding.
+As h → 1 this goes to 0. An arrangement in which the full search finishes
+within the deadline turns the second assumption from a gamble into a fact,
+and the rule becomes Clark's: a labelled compartment, a bin of one's own,
+or [CLAIM-tmp6u639](CLAIM-tmp6u639.md)'s carve. That is the time-bounded counterpart of Clark's conditions
+under which evaluation terminates.
 
-## Why it is Proposed
+**Where it is not an inference at all.** In [CASE-085](../cases.d/CASE-085.md) the unit had been
+checked: the EMT knew the drug was stocked, somewhere among the
+compartments. That is a disjunction, and Reiter's Example 5.1 shows the
+closed-world assumption made inconsistent by one (from Pa ∨ Pb it adds
+both ¬Pa and ¬Pb). With that knowledge in the database, a proof of
+presence succeeds and negation as failure refuses "it isn't there". So in
+[CASE-085](../cases.d/CASE-085.md), with π near 1 and h low, the rule was a decision to stop
+searching and change the request, not a conclusion about the drug.
 
-The asymmetry and the formula are elementary. The reading of the medic's
-rule as the closed-world assumption is the record's. The two sources it
-names for soundness conditions are registered and not read.
+## Why it is Active
+
+The asymmetry and the formula are elementary. The two sources are read,
+and the reading of the rule against them is now theirs: Reiter's
+definition and his Example 5.1, and Clark's soundness theorem and its
+finite-failure condition. That the medic's rule is a decision under a
+deadline, not an inference, is [CLAIM-296](CLAIM-296.md)'s reading, which this claim
+complements.
 
 ## What it does not say
 
@@ -90,3 +119,6 @@ names for soundness conditions are registered and not read.
   of using a resource ([CLAIM-296](CLAIM-296.md); A17 §4 in [CASE-085](../cases.d/CASE-085.md)).
 - That absence can never be established. A complete arrangement, or an
   exhaustive pass in time, establishes it.
+- That Reiter or Clark considered deadlines. Neither did. For Reiter,
+  whether the database entails an atom does not depend on time, and the
+  extension to search under a deadline is the record's.
