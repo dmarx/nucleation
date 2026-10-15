@@ -1015,6 +1015,22 @@ schemes:
         required: false
         many: true
         converse: complements
+      corroborates:
+        label: Corroborates
+        blurb: a claim of the record's own that this one gives independent evidence for, without that
+          claim depending on it. If this one is retired, the other loses support, not its footing. Not
+          walked by the `argument` chain or by retraction; a dependency is `rests_on` (ADR-044)
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: corroborated_by
+      corroborated_by:
+        label: Corroborated by
+        blurb: the converse of `corroborates`, written by `luria link --fix`.
+        scheme: CLAIM
+        required: false
+        many: true
+        converse: corroborates
       uses:
         label: Uses the term
         blurb: the TERM this claim is stated in, so that a term's revision finds the claims built on it

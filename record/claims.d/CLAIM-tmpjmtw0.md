@@ -26,6 +26,8 @@ grounds:
 complements:
 - CLAIM-131
 - CLAIM-037
+corroborates:
+- CLAIM-296
 summary: >-
   What is directionally right in the owner's LEGO monograph, as Mathematics of Meaning
   graded it. Its contextuality claim is empty: any sortings of bricks share a joint
@@ -119,6 +121,7 @@ collection.
   partial functions on context-dependent domains. LEGO bricks are not
   among them.
 - Not that arrangement changes what is true of the collection. It changes
-  what can be found in time, which is [CLAIM-296](CLAIM-296.md)'s subject, and this claim
-  supports that one: changing the arrangement alone changes the cost of
-  retrieval.
+  what can be found in time, which is [CLAIM-296](CLAIM-296.md)'s subject. This claim
+  corroborates that one ([ADR-044](../decisions.d/ADR-044.md)): changing the arrangement alone changes
+  the cost of retrieval, which meets [CLAIM-296](CLAIM-296.md)'s defeat condition head-on.
+  [CLAIM-296](CLAIM-296.md) does not rest on it.

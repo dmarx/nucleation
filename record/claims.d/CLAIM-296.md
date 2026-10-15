@@ -36,6 +36,8 @@ illustrated_by:
 - CASE-tmpd5exw
 complements:
 - CLAIM-tmp3ejtf
+corroborated_by:
+- CLAIM-tmpjmtw0
 ---
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 
