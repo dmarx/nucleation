@@ -34,6 +34,7 @@ summary: >-
   non-trivial automorphisms.
 illustrated_by:
 - CASE-042
+- CASE-tmpliavq
 ---
 <!-- inactive-ok-file: THEORY-017 THEORY-180 — Proposed; cited as readings the claim stands on, not as settled -->
 <!-- inactive-ok-file: CLAIM-113 — Proposed; open, and cited as the claim whose automorphism direction this one supplies -->

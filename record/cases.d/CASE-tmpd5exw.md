@@ -18,7 +18,7 @@ illustrates:
 - CLAIM-tmpjmtw0
 summary: >-
   The owner's own parable, told on 2026-07-02 and kept verbatim in Mathematics of
-  Meaning, where he paired it with the EMT case this record holds as [CASE-085](CASE-085.md). It
+  Meaning, where the owner paired it with the EMT case this record holds as [CASE-085](CASE-085.md). It
   is the second time that case's pattern has turned up, so it gets a code. It adds
   three things the EMT case lacks: similarity to binmates as the cause of the failure,
   copy count and frequency of use as what decides whether a bin is worth making,
@@ -27,9 +27,10 @@ summary: >-
 supports:
 - CLAIM-tmp6u639
 - CLAIM-tmpjmtw0
+- CLAIM-tmp3ejtf
 ---
-<!-- inactive-ok-file: LIT-tmp9g55n LIT-tmp95pcw — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
-<!-- inactive-ok-file: CLAIM-296 CLAIM-tmp6u639 CLAIM-tmpjmtw0 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmp95pcw — Unavailable; held without a reading, cited as such -->
+<!-- inactive-ok-file: CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpd5exw: The LEGO bin: a brick owned in one copy and buried among hundreds of similar ones may as well not be owned, a black brick among white ones needs no bin of its own, and every brick can be found by going through the whole collection
 
@@ -62,7 +63,7 @@ time–space trade", at MOM commit d987e2a):
 > single brick. but life is short and my time is limited, so if I can't
 > find it *quickly enough*, it may as well not be there.
 
-In the same passage he tells the EMT story this record holds as
+In the same passage the owner tells the EMT story this record holds as
 [CASE-085](CASE-085.md), and ends it on the same line: "if you can't find it, it isn't
 there".
 
@@ -88,8 +89,13 @@ there".
 
 - How long any search took, how often the brick was wanted, or how the
   owner's bins are in fact arranged. None of it was measured.
-- That similarity slows search in general. That is a finding of the
-  visual-search literature ([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md), [LIT-tmp95pcw](../literature.d/LIT-tmp95pcw.md)), registered here unread.
+- Why a similar brick is hard to find. Treisman and Gelade ([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md),
+  read) put serial search down to conjunctions of features, not
+  similarity. A lone brick of a unique colour is their easiest case, found
+  almost regardless of numbers. A difference on one dimension only, like
+  size, made search slow but not item by item. The similarity account the
+  owner's words fit, Duncan and Humphreys ([LIT-tmp95pcw](../literature.d/LIT-tmp95pcw.md)), could not be
+  obtained.
 - That the owner's bins are a good arrangement. [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md) argues that which
   arrangement is good depends on what a builder searches for.
 

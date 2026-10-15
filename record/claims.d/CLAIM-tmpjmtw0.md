@@ -1,5 +1,5 @@
 ---
-status: Proposed
+status: Active
 title: Sorting schemes over objects with determinate properties never conflict as
   descriptions, since the product of any sortings refines them all; they conflict
   as arrangements, since a fixed number of bins realizes one partition, and which
@@ -34,12 +34,14 @@ summary: >-
   set of bins realizes one partition, the product may need more bins than there
   are, and the cheapest choice depends on what each builder searches for and on
   what stands out within a bin ([CASE-tmpjgubn](../cases.d/CASE-tmpjgubn.md)). The disagreement is a trade, not
-  a failure of global truth. Proposed: the cost model is the record's, and the visual-search
-  finding it uses is unread.
+  a failure of global truth. Sorting on one attribute also turns a search for a combination
+  of features into a search for one feature within each bin, which Treisman and Gelade
+  (LIT-tmp9g55n, read) show is the difference between a serial scan and one found
+  at a glance.
 illustrated_by:
 - CASE-tmpd5exw
 ---
-<!-- inactive-ok-file: LIT-tmp9g55n LIT-tmp95pcw — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-tmp95pcw — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-037 CLAIM-296 CASE-tmpd5exw CASE-tmpjgubn — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmpjmtw0: Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition, and which costs least depends on what is searched for and on what stands out within a bin
@@ -67,11 +69,24 @@ serves a builder, and none of them is a fact about any brick ([CASE-tmpjgubn](..
 2. **The query mix.** A query that names the sorted attribute opens one
    bin, and a query that leaves it open opens all of them. Builders who
    ask for different things are best served by different partitions.
-3. **What stands out within a bin.** If the attribute left unsorted pops
-   out, search within the bin is nearly free. If it is similar across
-   binmates, search is serial and slow ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)). So sort by what does not
-   stand out and search by what does. Which attributes those are depends
-   on the collection and on the searcher.
+3. **What the wanted item still has to be told apart by.** Treisman and
+   Gelade ([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md), read in [NOTE-tmpe7gfj](../notes.d/NOTE-tmpe7gfj.md)) found that a target with
+   one feature no distractor shares is found almost regardless of how many
+   items there are: 3.8 ms per item for a colour, 2.5 for a shape part, up
+   to 30 items. A target that differs from each distractor only in a
+   combination of features the distractors carry separately needs a
+   serial scan: 28.7 ms per item when present, 67.1 when absent. Practice
+   did not change this. In an unsorted pile, "the red 2×4" is such a
+   conjunction, among red bricks of other shapes and 2×4s of other
+   colours. Within a bin sorted on one attribute, it differs from its
+   binmates in one attribute only. So sorting on either attribute turns a
+   conjunction search into a feature search. The arrangements then differ
+   in whether that one remaining attribute is a feature the eye picks out
+   at once. A distinct colour is ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)'s black brick is the
+   paper's easiest case). A difference only in size or proportion, which
+   is what separates many bricks of one colour, was slow in the paper's
+   ellipse experiment, though not item by item. Which attributes pop out
+   depends on the collection and on the searcher.
 
 **What survives of the monograph's "Sheafification as Descriptive Compromise".**
 Builders who must share one set of bins can take the common refinement
@@ -81,12 +96,21 @@ partition lattice is where the non-distributivity the monograph looked
 for lives ([MOM-ARG-047](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/arguments.d/ARG-047.md)). It is a lattice of schemes, not of events, and
 the compromise is priced in bins and lost distinctions, not in truth.
 
-## Why it is Proposed
+## Why it is Active
 
-Part 1 is elementary. Part 2 is a definition. Part 3 rests on the
-similarity effect in visual search, which the record has registered
-([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md), [LIT-tmp95pcw](../literature.d/LIT-tmp95pcw.md)) and not read. The claim as a whole is a cost model nobody
-has fitted to anyone's collection.
+Part 1 is elementary, and part 2 is a definition. Part 3 now rests on a
+read source, though in a narrower form than first filed. That version said
+similarity across binmates makes search serial. Treisman and Gelade argue
+against exactly that: their serial search comes from conjunctions, and
+similarity on one dimension made search slow without making it serial.
+The similarity account, Duncan and Humphreys ([LIT-tmp95pcw](../literature.d/LIT-tmp95pcw.md)), could not be
+obtained (Unavailable), so the record holds the disagreement with one side
+read. What is Active is the dependence: the cheapest arrangement turns on
+the bin budget, the query mix and what the wanted item must still be told
+apart by. The magnitudes are not Active. The paper's displays were at most
+30 to 36 well-spaced items with few, distinct colours, not bins of
+hundreds of overlapping bricks, and no one has fitted the model to a
+collection.
 
 ## What it does not say
 

@@ -1,18 +1,35 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-15, not read. Registered for the LEGO parable ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)) and
-  the claims built on it ([CLAIM-tmp6u639](../claims.d/CLAIM-tmp6u639.md), [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md)). No search for a lawful
-  copy has been made yet.
+  filed 2026-10-15, not read. Looked for a lawful full text on 2026-10-15. OpenAlex
+  reports it closed (oa_status closed, no repository full text; locations are the
+  APA DOI landing page and PubMed 2756067), and the publisher is APA PsycNET, which
+  is subscription-only. The one copy found is a course copy on a University of Iowa
+  psychology proseminar page (www2.psychology.uiowa.edu/faculty/hollingworth/prosem/Duncan_Humphreys_89_PR_VisualSearchStimulus.pdf).
+  It now returns HTTP 404. The Internet Archive's availability API reports a capture
+  of it (2026-02-09), but web.archive.org reset every connection from this environment
+  (three attempts by curl, one by a web-fetch tool). Web searches found no author-posted
+  or institutional copy; the MRC Cognition and Brain Sciences Unit bibliography
+  (mrc-cbu.cam.ac.uk/bibliography/articles/2331) gives the abstract only. So it
+  is Unavailable because a copy was found and could not be fetched, not on merit.
+  What was seen is that abstract: search difficulty "increases with increased similarity
+  of targets to nontargets and decreased similarity between nontargets, producing
+  a continuum of search efficiency", with results that "support neither a distinction
+  between serial and parallel search nor between search for features and conjunctions".
+  That is the similarity account [CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md) and [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md) cite it for. Treisman
+  and Gelade ([LIT-tmp9g55n](LIT-tmp9g55n.md), read) argue the opposite on the cause of serial search,
+  so the record holds the disagreement without having read this side.
 title: Visual search and stimulus similarity
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
-    gives 1989 with no month or day, so `published:` is the first of January. Not
-    held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15,
-    commit d1573d2) for the authors and the title found nothing.'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref gives
+    1989 with no month or day, so `published:` is the first of January. Not held
+    in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit
+    d1573d2) for the authors and the title found nothing. Set Unavailable the same
+    day under ADR-041, the search having found no lawful copy that could be fetched.
 tags:
 - cognition
 date: '2026-10-15'
@@ -29,7 +46,6 @@ summary: >-
   to the other bricks though, the difficulty to locate it manifests an imperative
   to set it aside".
 ---
-<!-- inactive-ok-file: CLAIM-tmpjmtw0 — Proposed; the claim this work is registered for, cited as open -->
 
 # LIT-tmp95pcw: Visual search and stimulus similarity
 
@@ -37,12 +53,12 @@ Duncan, J. and Humphreys, G. W. (1989). Visual search and stimulus similarity. *
 
 ## Key takeaways
 
-Not read. Cited for the similarity account of search difficulty: target–distractor similarity makes search harder, and distractor–distractor similarity makes it easier, as the work is standardly described. Read it
-before anything leans on it.
+Not read: no lawful copy could be fetched (status note). Its abstract states the similarity account: search difficulty grows with target–nontarget similarity and falls with nontarget–nontarget similarity, along a continuum, with no sharp serial/parallel or feature/conjunction divide. Treisman and Gelade ([LIT-tmp9g55n](LIT-tmp9g55n.md), read) argue that conjunctions, not similarity, make search serial, so the record holds this disagreement having read only one side.
 
 ## Why this is here
 
 The owner's LEGO parable ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)): "if it's a single black brick in a box
-of white bricks: ok, it's buried but its' still detectable." [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md) turns
-that into a rule for arranging a collection: sort by what does not stand
-out within a bin, and search by what does.
+of white bricks: ok, it's buried but its' still detectable." [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md) uses
+the feature/conjunction distinction to say what an arrangement buys:
+sorting on one attribute leaves the wanted brick to be told from its
+binmates by one feature only.

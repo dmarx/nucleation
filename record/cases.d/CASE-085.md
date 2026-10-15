@@ -21,6 +21,8 @@ summary: >-
   [CLAIM-296](../claims.d/CLAIM-296.md) and is the source of [TERM-055](../terms.d/TERM-055.md). Stipulated, not documented:
   the event is real, and the only source is the owner's retrospective account, which
   a reader cannot check.
+supports:
+- CLAIM-tmp3ejtf
 ---
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

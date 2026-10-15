@@ -24,6 +24,7 @@ grounds:
 - CASE-tmpd5exw
 complements:
 - CLAIM-154
+- CLAIM-tmpd7v8w
 illustrated_by:
 - CASE-tmpd5exw
 summary: >-
@@ -35,8 +36,8 @@ summary: >-
   "is it there?" and "can it be reached in time?", and come apart in both directions.
   MOM's table was re-run here and reproduced, and a simulation of the search agrees.
 ---
-<!-- inactive-ok-file: LIT-tmp9g55n LIT-tmp95pcw — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
-<!-- inactive-ok-file: CLAIM-296 CASE-tmpd5exw — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmp95pcw — Unavailable; held without a reading, cited as such -->
+<!-- inactive-ok-file: CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmp6u639: Retrieval pressure and evidence are different criteria for carving a category, and they move in opposite directions with copy count: evidence that a distinction exists grows with its copies, the search a bin saves shrinks with them, so the bins a deadline forces are often the ones the data least supports
 
@@ -105,9 +106,13 @@ real person searches.
   alone would make bins for distinctions that are not there. [MOM-CLM-166](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-166.md):
   a system "carves a category when the second fails, and it is
   *entitled* to carve one when the first succeeds."
-- **Not that search is serial.** m/(c+1) is linear search through items
-  that must each be checked. An item that pops out ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)'s black brick;
-  [LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md), [LIT-tmp95pcw](../literature.d/LIT-tmp95pcw.md)) is found without it. That is the case in which retrieval
-  says no bin is needed.
+- **Not that search is always serial.** m/(c+1) is a scan through items
+  that must each be checked. Treisman and Gelade ([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md)) found such
+  scans where the wanted item differs from the others only in a
+  combination of features. An item with a feature none of the others has
+  ([CASE-tmpd5exw](../cases.d/CASE-tmpd5exw.md)'s black brick) was found almost regardless of their
+  number. That is the case in which retrieval says no bin is needed. Their
+  absent-target scans, about twice the per-item time of present-target
+  ones, also make a failed search expensive to complete.
 - **Not a psychological claim.** The parameters are MOM's, chosen to
   show the opposition, and nothing was measured.

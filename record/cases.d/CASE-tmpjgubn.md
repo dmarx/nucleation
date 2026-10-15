@@ -25,8 +25,7 @@ summary: >-
   number of bins, they compete, and which wins depends on the queries made and on
   what stands out within a bin. Fictional: the builders and the collection are invented.
 ---
-<!-- inactive-ok-file: LIT-tmp9g55n LIT-tmp95pcw — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
-<!-- inactive-ok-file: CLAIM-037 CLAIM-tmpjmtw0 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-037 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpjgubn: Two builders sorting one collection: the brick that one bins as red and two-wide and the other as a curved connector has a bin that respects both, and what the builders cannot share is an arrangement, not a description
 
@@ -67,20 +66,30 @@ m/(c+1) for m distractors and c copies in random order, and the record
 re-checked it by simulation ([CLAIM-tmp6u639](../claims.d/CLAIM-tmp6u639.md)). The arrangements come apart in two
 ways the count leaves out:
 
-1. **What stands out in the bin.** Ten distinct colours in a shape bin
-   can be told apart at a glance. Ten similar shapes in a colour bin
-   cannot. That is the owner's black brick ([CASE-tmpd5exw](CASE-tmpd5exw.md)), and the
-   visual-search literature's similarity effect ([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md), [LIT-tmp95pcw](../literature.d/LIT-tmp95pcw.md), unread).
-   Then sorting by shape leaves the easy search for search time.
-   Collections with near-identical colours reverse this. LEGO's two
-   greys, the older and the bluish ones, are the familiar instance.
+1. **What the wanted brick must still be told apart by.** In the
+   unsorted pile, a red 2×4 is a conjunction: it shares its colour with
+   red bricks of other shapes and its shape with 2×4s of other colours.
+   Treisman and Gelade ([LIT-tmp9g55n](../literature.d/LIT-tmp9g55n.md), read) found such targets need a
+   serial scan, about twice as slow when the target is absent. In either
+   sort, the brick differs from its binmates in one attribute only, a
+   feature search. In the shape sort that attribute is colour, which the
+   paper found picked out at a glance when the colours are distinct
+   (3.8 ms per item). In the colour sort it is shape, and whether a shape
+   difference pops out depends on which feature differs. A difference
+   only in size or proportion, like stud count, was slow in the paper's
+   ellipse experiment. So for many collections the shape sort leaves the
+   easier search. Collections with near-identical colours narrow or
+   reverse this: LEGO's two greys, the older and the bluish ones, are the
+   familiar instance. The paper's displays were at most 36 well-spaced
+   items with few colours, so this extrapolates to bins.
 2. **What the builder asks for.** A builder who wants *any red piece
    that fits* opens one bin under the colour sort and ten under the
    shape sort. A builder who wants *any 2×4* has the opposite costs. A
    hundred bins would serve both, at ten times the bins. Finding the
    bin then becomes a search of its own: if bins are found by scanning
    their labels, the expected cost is about k/2 + N/(2k) for N bricks
-   in k bins, least near k = √N. Labelled bins in a fixed place, which
+   in k bins, least near k = √N. Kirsh's hierarchical grouping ([LIT-1076](../literature.d/LIT-1076.md),
+   [NOTE-871](../notes.d/NOTE-871.md)) brings visual search from O(N) to O(log N). Labelled bins in a fixed place, which
    spatial memory finds at once, take most of that cost away.
 
 ## What it can show

@@ -52,6 +52,21 @@ tried and the threshold chosen (0.25 in the example), which evidence is
 not. And a persistent category can still fail retrieval, if its members
 are similar to one another and the one wanted is rare.
 
+## The owner's objection, in the source
+
+The owner pressed the monograph's drafting on this point twice, in its
+Part III ("Eigenmodes, Archetypes, Platonics, Stable Cores"). The first
+objection is not quoted there, but the draft's reply concedes it: "acts
+like an object" risks triviality, since any valid descriptor persists and
+is shareable. The second is quoted: "our definition of "object like"
+needs to apply to objects as well." A
+criterion for when a description earns a name has to separate
+descriptions from one another and to apply to particulars too. Evidence
+and retrieval (criteria 1 and 2) already apply to both: a particular brick
+is worth a bin of its own for the same reasons a kind is. Whether
+persistence does is part of this question. [CASE-tmpliavq](../cases.d/CASE-tmpliavq.md) shows that, stated
+for eigenvectors, persistence fails even in the monograph's own example.
+
 ## What would answer it
 
 A derivation, or a counterexample, relating a mode's persistence across a

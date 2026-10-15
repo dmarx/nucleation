@@ -1,14 +1,23 @@
 ### Added
 
 - The LEGO material from Mathematics of Meaning, ported at the owner's
-  request (curation entry of 2026-10-15 03:31):
+  request, with the whole monograph read (curation entry of 2026-10-15 03:31):
   - the owner's LEGO parable, a case, [CASE-tmpd5exw](record/cases.d/CASE-tmpd5exw.md);
   - retrieval and evidence as opposed criteria for a category, Active,
     [CLAIM-tmp6u639](record/claims.d/CLAIM-tmp6u639.md), from [MOM-CLM-166](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-166.md), re-checked;
-  - sortings conflict as arrangements, not as descriptions, [CLAIM-tmpjmtw0](record/claims.d/CLAIM-tmpjmtw0.md), with
-    the construction [CASE-tmpjgubn](record/cases.d/CASE-tmpjgubn.md); the monograph's contextuality, rebuilt on
+  - sortings conflict as arrangements, not as descriptions, Active, [CLAIM-tmpjmtw0](record/claims.d/CLAIM-tmpjmtw0.md),
+    with the construction [CASE-tmpjgubn](record/cases.d/CASE-tmpjgubn.md); the monograph's contextuality, rebuilt on
     [MOM-CLM-137](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-137.md);
+  - blow-up adds no observation, Active, [CLAIM-tmp0pdrg](record/claims.d/CLAIM-tmp0pdrg.md), against the monograph's
+    "resolution restores identifiability";
+  - the castle topic persists as no eigenmode, a construction, [CASE-tmpliavq](record/cases.d/CASE-tmpliavq.md);
+  - the owner's smoothie line, [CASE-tmpjuth9](record/cases.d/CASE-tmpjuth9.md), and goodness against discriminability,
+    Active, [CLAIM-tmpd7v8w](record/claims.d/CLAIM-tmpd7v8w.md);
+  - "If I can't find it, it isn't there" as negation as failure under a
+    deadline, [CLAIM-tmp3ejtf](record/claims.d/CLAIM-tmp3ejtf.md);
   - two questions: sorting as amortized search, [QUESTION-tmplg07t](record/questions.d/QUESTION-tmplg07t.md), refining
-    [QUESTION-095](record/questions.d/QUESTION-095.md); and three criteria for naming a category, [QUESTION-tmpjnf86](record/questions.d/QUESTION-tmpjnf86.md);
-  - two works registered unread on similarity in visual search: Treisman
-    and Gelade 1980, [LIT-tmp9g55n](record/literature.d/LIT-tmp9g55n.md); Duncan and Humphreys 1989, [LIT-tmp95pcw](record/literature.d/LIT-tmp95pcw.md).
+    [QUESTION-095](record/questions.d/QUESTION-095.md), with a survey of database physical design; and three
+    criteria for naming a category, [QUESTION-tmpjnf86](record/questions.d/QUESTION-tmpjnf86.md).
+- Treisman and Gelade 1980, read ([LIT-tmp9g55n](record/literature.d/LIT-tmp9g55n.md)); Duncan and Humphreys 1989,
+  Unavailable ([LIT-tmp95pcw](record/literature.d/LIT-tmp95pcw.md)); Reiter 1978 and Clark 1978, registered unread ([LIT-tmpj4tnh](record/literature.d/LIT-tmpj4tnh.md),
+  [LIT-tmpix3rp](record/literature.d/LIT-tmpix3rp.md)).
