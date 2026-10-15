@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-37 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+38 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -271,3 +271,8 @@
 
 - [CLAIM-295](../record/claims.d/CLAIM-295.md) — A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not *(thesis, Proposed)*
   - [CLAIM-293](../record/claims.d/CLAIM-293.md) — The topology of a support graph does not fix how a conclusion should be revised when one of its supports fails: two records with the same edges can carry evidence of different strength and call for different revisions *(granted, Active)*
+
+## From Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
+
+- [CLAIM-303](../record/claims.d/CLAIM-303.md) — Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion *(thesis, Proposed)*
+  - [CLAIM-308](../record/claims.d/CLAIM-308.md) — Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out *(counter, Proposed)*

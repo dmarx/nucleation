@@ -40,12 +40,12 @@ complements:
 - CLAIM-131
 - CLAIM-141
 - CLAIM-143
-- CLAIM-tmpjmtw0
+- CLAIM-310
 illustrated_by:
 - CASE-008
 - CASE-035
 - CASE-037
-- CASE-tmpjgubn
+- CASE-095
 ---
 
 # CLAIM-037: Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context

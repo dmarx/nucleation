@@ -6,8 +6,8 @@
 
 **Logic** — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
-0 of 304 CLAIM documents. Back to the [full index](../README.md).
+1 of 310 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-306](../../../record/claims.d/CLAIM-306.md) | Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline | The medic's "If I can't find it, it isn't there" ([CASE-085](../../../record/cases.d/CASE-085.md)) and the owner's "if I can't find it quickly enough, it may as well not be there" ([CASE-094](../../../record/cases.d/CASE-094.md)) act on a failed search as if it showed absence. One find shows presence, but absence needs a check of everything, which a deadline forbids. First filed as negation as failure on a time bound, with Reiter and Clark unread. Both readings corrected it. The two assumptions are separate. Reiter's closed-world assumption is that the database is complete about the world. Clark's negation as failure is licensed only by finite failure: "the exhaustive but unsuccessful search for a proof". A search cut off by a deadline meets neither, so the rule is stronger than both. It assumes a closed world and that the unsearched part would have failed. It is safe when the full pass finishes in time. In [CASE-085](../../../record/cases.d/CASE-085.md) the EMT knew the drug was stocked, which is exactly where Reiter shows the closed-world assumption inconsistent. So there it was a decision to stop, not an inference. | Active |

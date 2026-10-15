@@ -35,7 +35,7 @@ summary: >-
 illustrated_by:
 - CASE-088
 objected_by:
-- CLAIM-tmpc3sk7
+- CLAIM-308
 ---
 <!-- inactive-ok-file: CLAIM-182 CLAIM-185 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

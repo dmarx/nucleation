@@ -23,8 +23,8 @@ line:
 - formal-apparatus
 grounds:
 - CASE-083
-- THEORY-tmpxr7yk
-- THEORY-tmppgbfq
+- THEORY-357
+- THEORY-352
 complements:
 - CLAIM-264
 summary: >-

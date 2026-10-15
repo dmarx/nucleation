@@ -6,8 +6,8 @@
 
 **Operations research** — optimization of real systems — routing, scheduling, facility location, combinatorial algorithms.
 
-0 of 112 QUESTION documents. Back to the [full index](../README.md).
+1 of 114 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-114](../../../record/questions.d/QUESTION-114.md) | Is sorting a collection amortized search, and does physical database design, where a table is stored in one order and every further index is paid for in space and upkeep, give the joint cost model that the question on amortized retrieval lacks? | The LEGO parable ([CASE-094](../../../record/cases.d/CASE-094.md)) is [QUESTION-095](../../../record/questions.d/QUESTION-095.md)'s trade in its plainest form. Sorting spends search once, against retrievals later, and leaves the result in the world, as the cockpit's speed bugs do. [CLAIM-310](../../../record/claims.d/CLAIM-310.md) adds that one set of bins realizes one partition, chosen against a query mix. A database table is stored in one physical order, and every further index costs space and work on every insert. Choosing indexes for a workload is a studied problem with explicit cost models. This asks whether that model is the one [QUESTION-095](../../../record/questions.d/QUESTION-095.md) is looking for. | Open |

@@ -22,7 +22,7 @@ summary: >-
   the event is real, and the only source is the owner's retrospective account, which
   a reader cannot check.
 supports:
-- CLAIM-tmp3ejtf
+- CLAIM-306
 ---
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

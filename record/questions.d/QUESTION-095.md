@@ -24,18 +24,18 @@ summary: >-
   the request. This asks whether those are one trade, and which literature has formalized
   it.
 refined_by:
-- QUESTION-tmplg07t
+- QUESTION-114
 answered_by:
-- THEORY-tmp1spba
-- THEORY-tmp2qsfa
-- THEORY-tmp6oz2d
-- THEORY-tmpcy2pz
-- THEORY-tmpf8c2p
-- THEORY-tmphiesp
-- THEORY-tmpkxugz
-- THEORY-tmpwrpnk
-- THEORY-tmpyd8k7
-- THEORY-tmpzye1b
+- THEORY-330
+- THEORY-331
+- THEORY-334
+- THEORY-339
+- THEORY-342
+- THEORY-343
+- THEORY-346
+- THEORY-355
+- THEORY-359
+- THEORY-360
 ---
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

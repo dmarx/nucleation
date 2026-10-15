@@ -48,6 +48,8 @@ this directory, then run `luria index`.
 
 **[Information retrieval](tags/information-retrieval.md)** (0) — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
+**[Databases and data structures](tags/databases.md)** (0) — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
+
 **[Design rationale](tags/design-rationale.md)** (0) — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
 **[Social science](tags/social-science.md)** (0) — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.

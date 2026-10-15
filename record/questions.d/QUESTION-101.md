@@ -19,7 +19,7 @@ summary: >-
   distributed cognition ([LIT-1060](../literature.d/LIT-1060.md), unread) is the tradition that asks this.
 answered_by:
 - CLAIM-296
-- THEORY-tmpp4dqy
+- THEORY-351
 ---
 <!-- inactive-ok-file: LIT-1060 — Unavailable; held without a reading, cited for what it would be read for, not leaned on -->
 

@@ -22,8 +22,8 @@ summary: >-
   decisions are revisions.
 answered_by:
 - CLAIM-294
-- THEORY-tmpl85iv
-- THEORY-tmpr0fcd
+- THEORY-347
+- THEORY-353
 ---
 
 # QUESTION-105: What is the least an evolving inquiry must retain to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?

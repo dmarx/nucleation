@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**527 document(s) awaiting a decision.**
+**543 document(s) awaiting a decision.**
 
 ## LITs
 
-32 of the 527.
+32 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -48,7 +48,7 @@
 
 ## THEORYs
 
-296 of the 527.
+311 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -84,8 +84,8 @@
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 41 | 2 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 34 | 2 | In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 33 | 3 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
+| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 30 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 29 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
-| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 28 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-047](../../record/theory.d/THEORY-047.md) | 25 | 3 | A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is |
 | 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 24 | 5 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 24 | 4 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
@@ -348,19 +348,34 @@
 | 2026-10-14 | Proposed | [THEORY-319](../../record/theory.d/THEORY-319.md) | 3 | 0 | When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
 | 2026-10-14 | Proposed | [THEORY-308](../../record/theory.d/THEORY-308.md) | 2 | 0 | The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over a compact family of critics, and its uniform deviation from the population bound is controlled by the parameter count, not the data dimension |
+| 2026-10-15 | Proposed | [THEORY-331](../../record/theory.d/THEORY-331.md) | 3 | 3 | Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved |
+| 2026-10-15 | Proposed | [THEORY-335](../../record/theory.d/THEORY-335.md) | 3 | 3 | Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming |
+| 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 2 | 2 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
+| 2026-10-15 | Proposed | [THEORY-333](../../record/theory.d/THEORY-333.md) | 2 | 2 | Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested |
+| 2026-10-15 | Proposed | [THEORY-334](../../record/theory.d/THEORY-334.md) | 2 | 2 | In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics |
+| 2026-10-15 | Proposed | [THEORY-342](../../record/theory.d/THEORY-342.md) | 2 | 2 | In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played |
+| 2026-10-15 | Proposed | [THEORY-355](../../record/theory.d/THEORY-355.md) | 2 | 2 | Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured |
+| 2026-10-15 | Proposed | [THEORY-360](../../record/theory.d/THEORY-360.md) | 2 | 2 | Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured |
+| 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 1 | 1 | After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load |
+| 2026-10-15 | Proposed | [THEORY-339](../../record/theory.d/THEORY-339.md) | 1 | 1 | People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result |
+| 2026-10-15 | Proposed | [THEORY-343](../../record/theory.d/THEORY-343.md) | 1 | 1 | In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded |
+| 2026-10-15 | Proposed | [THEORY-344](../../record/theory.d/THEORY-344.md) | 1 | 1 | An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade |
+| 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 1 | 1 | Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode |
+| 2026-10-15 | Proposed | [THEORY-336](../../record/theory.d/THEORY-336.md) | 0 | 0 | An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it |
+| 2026-10-15 | Proposed | [THEORY-351](../../record/theory.d/THEORY-351.md) | 0 | 0 | In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured |
 
 ## ADRs
 
-2 of the 527.
+2 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 269 | 269 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
+| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 271 | 271 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
 | 2026-10-15 | Proposed | [ADR-043](../../record/decisions.d/ADR-043.md) | 0 | 0 | A warrant field on CLAIM, saying how a claim is supported (demonstrated, empirical, interpretive) apart from whether the record accepts it and in whose voice, piloted before it is required |
 
 ## QUESTIONs
 
-9 of the 527.
+9 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -376,7 +391,7 @@
 
 ## CLAIMs
 
-183 of the 527.
+184 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -440,12 +455,12 @@
 | 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 41 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
 | 2026-10-09 | Proposed | [CLAIM-127](../../record/claims.d/CLAIM-127.md) | 26 | 0 | Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context |
 | 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 21 | 1 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
-| 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 17 | 3 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
+| 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 20 | 3 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
 | 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 11 | 2 | In conditional generation each condition can be met while their conjunction or relational binding fails, and adding scores composes conditions only under conditional independence at the noisy state |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 10 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
+| 2026-10-09 | Proposed | [CLAIM-126](../../record/claims.d/CLAIM-126.md) | 7 | 2 | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency |
 | 2026-10-09 | Proposed | [CLAIM-090](../../record/claims.d/CLAIM-090.md) | 6 | 0 | Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable |
 | 2026-10-09 | Proposed | [CLAIM-107](../../record/claims.d/CLAIM-107.md) | 6 | 1 | A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion |
-| 2026-10-09 | Proposed | [CLAIM-126](../../record/claims.d/CLAIM-126.md) | 6 | 1 | Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency |
 | 2026-10-10 | Proposed | [CLAIM-139](../../record/claims.d/CLAIM-139.md) | 107 | 1 | A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist |
 | 2026-10-10 | Proposed | [CLAIM-151](../../record/claims.d/CLAIM-151.md) | 86 | 0 | Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization |
 | 2026-10-10 | Proposed | [CLAIM-142](../../record/claims.d/CLAIM-142.md) | 65 | 13 | Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved |
@@ -454,8 +469,8 @@
 | 2026-10-10 | Proposed | [CLAIM-204](../../record/claims.d/CLAIM-204.md) | 30 | 0 | A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part |
 | 2026-10-10 | Proposed | [CLAIM-201](../../record/claims.d/CLAIM-201.md) | 29 | 0 | Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open |
 | 2026-10-10 | Proposed | [CLAIM-221](../../record/claims.d/CLAIM-221.md) | 27 | 0 | The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one |
+| 2026-10-10 | Proposed | [CLAIM-199](../../record/claims.d/CLAIM-199.md) | 25 | 3 | Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible |
 | 2026-10-10 | Proposed | [CLAIM-128](../../record/claims.d/CLAIM-128.md) | 24 | 0 | Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks |
-| 2026-10-10 | Proposed | [CLAIM-199](../../record/claims.d/CLAIM-199.md) | 24 | 2 | Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible |
 | 2026-10-10 | Proposed | [CLAIM-202](../../record/claims.d/CLAIM-202.md) | 22 | 1 | What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings |
 | 2026-10-10 | Proposed | [CLAIM-143](../../record/claims.d/CLAIM-143.md) | 20 | 1 | Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated |
 | 2026-10-10 | Proposed | [CLAIM-220](../../record/claims.d/CLAIM-220.md) | 20 | 0 | For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force |
@@ -490,7 +505,7 @@
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 32 | 8 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-186](../../record/claims.d/CLAIM-186.md) | 32 | 3 | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
 | 2026-10-11 | Proposed | [CLAIM-167](../../record/claims.d/CLAIM-167.md) | 27 | 2 | One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership |
-| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 25 | 0 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
+| 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 26 | 0 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
 | 2026-10-11 | Proposed | [CLAIM-179](../../record/claims.d/CLAIM-179.md) | 23 | 2 | When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over |
 | 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 22 | 0 | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
 | 2026-10-11 | Proposed | [CLAIM-182](../../record/claims.d/CLAIM-182.md) | 21 | 2 | Storage is not anchoring, addressability is: a structure that is kept but cannot be pointed at part by part does not stop re-derivation, and the same content becomes an anchor once its parts get addresses |
@@ -507,8 +522,8 @@
 | 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 10 | 2 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
 | 2026-10-11 | Proposed | [CLAIM-165](../../record/claims.d/CLAIM-165.md) | 10 | 3 | A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects |
 | 2026-10-11 | Proposed | [CLAIM-166](../../record/claims.d/CLAIM-166.md) | 10 | 0 | "Who drives" is not constant: a person's drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience |
+| 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 10 | 0 | Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure |
 | 2026-10-11 | Proposed | [CLAIM-188](../../record/claims.d/CLAIM-188.md) | 10 | 5 | For a candidate structure whose removal makes the remaining model singular, the reification rule's Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular |
-| 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 9 | 0 | Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure |
 | 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 8 | 0 | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were |
 | 2026-10-11 | Proposed | [CLAIM-168](../../record/claims.d/CLAIM-168.md) | 8 | 0 | Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find |
 | 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 8 | 0 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon |
@@ -557,16 +572,17 @@
 | 2026-10-13 | Proposed | [CLAIM-275](../../record/claims.d/CLAIM-275.md) | 2 | 0 | An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others |
 | 2026-10-13 | Proposed | [CLAIM-283](../../record/claims.d/CLAIM-283.md) | 0 | 0 | The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them |
 | 2026-10-13 | Proposed | [CLAIM-287](../../record/claims.d/CLAIM-287.md) | 0 | 0 | What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation |
-| 2026-10-15 | Proposed | [CLAIM-303](../../record/claims.d/CLAIM-303.md) | 23 | 5 | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
-| 2026-10-15 | Proposed | [CLAIM-295](../../record/claims.d/CLAIM-295.md) | 19 | 4 | A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not |
-| 2026-10-15 | Proposed | [CLAIM-298](../../record/claims.d/CLAIM-298.md) | 15 | 2 | A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged |
-| 2026-10-15 | Proposed | [CLAIM-296](../../record/claims.d/CLAIM-296.md) | 9 | 1 | What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them |
+| 2026-10-15 | Proposed | [CLAIM-303](../../record/claims.d/CLAIM-303.md) | 51 | 18 | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
+| 2026-10-15 | Proposed | [CLAIM-296](../../record/claims.d/CLAIM-296.md) | 32 | 3 | What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them |
+| 2026-10-15 | Proposed | [CLAIM-295](../../record/claims.d/CLAIM-295.md) | 22 | 6 | A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not |
+| 2026-10-15 | Proposed | [CLAIM-298](../../record/claims.d/CLAIM-298.md) | 16 | 2 | A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged |
 | 2026-10-15 | Proposed | [CLAIM-301](../../record/claims.d/CLAIM-301.md) | 6 | 0 | Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries |
 | 2026-10-15 | Proposed | [CLAIM-297](../../record/claims.d/CLAIM-297.md) | 4 | 0 | When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence |
+| 2026-10-15 | Proposed | [CLAIM-308](../../record/claims.d/CLAIM-308.md) | 0 | 0 | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out |
 
 ## CASEs
 
-1 of the 527.
+1 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -574,7 +590,7 @@
 
 ## TERMs
 
-2 of the 527.
+2 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -583,7 +599,7 @@
 
 ## ARGs
 
-2 of the 527.
+2 of the 543.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -594,4 +610,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (11): [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md), [ADR-043](../../record/decisions.d/ADR-043.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (14): [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md), [ADR-043](../../record/decisions.d/ADR-043.md), [CLAIM-308](../../record/claims.d/CLAIM-308.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md) — these are the cheapest to close, since nothing depends on the answer.

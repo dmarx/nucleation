@@ -26,7 +26,7 @@ rests_on:
 - CLAIM-302
 grounds:
 - CASE-083
-- THEORY-tmppgbfq
+- THEORY-352
 complements:
 - CLAIM-199
 summary: >-

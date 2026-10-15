@@ -6,8 +6,8 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-0 of 304 CLAIM documents. Back to the [full index](../README.md).
+1 of 310 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-305](../../../record/claims.d/CLAIM-305.md) | Resolving a singularity by blow-up reparametrizes the states and adds no observation, so it cannot make indistinguishable states distinguishable: every point over a singular point gives the same distribution, and the Fisher information can stay degenerate there; what the resolution buys is a normal form for the divergence, and so the learning coefficient | The owner's LEGO monograph says, in Part I (chapters 4, 6, 7, 9, the Overview and "Definitions and Theorems"), that blow-up "restores identifiability", "introduces new observables" and makes the Fisher information non-degenerate, and maps it onto splitting a LEGO bin. The pulled-back model is p(x \| π(u)), a function of u only through π(u), so every point of the exceptional divisor gives the distribution of the singular point. In p(x \| a, b) = N(ab, 1), the chart a = u, b = uv gives mean u²v and a Fisher matrix of zero all along u = 0. Splitting a bin is refining the observable, which can separate states. [MOM-CLM-099](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-099.md) records that the monograph uses "blow-up" in three senses; this records why the analogy cannot hold in any of them. | Active |

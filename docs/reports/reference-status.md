@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**361 documents cited without acknowledgement.** Not listed: 8505 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**374 documents cited without acknowledgement.** Not listed: 8560 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-269 citations in 240 files await a look.
+271 citations in 242 files await a look.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -55,6 +55,8 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-1078.md:40`](../../record/literature.d/LIT-1078.md)
 - [`record/literature.d/LIT-1079.md:50`](../../record/literature.d/LIT-1079.md)
 - [`record/literature.d/LIT-108.md:17`](../../record/literature.d/LIT-108.md)
+- [`record/literature.d/LIT-1081.md:35`](../../record/literature.d/LIT-1081.md)
+- [`record/literature.d/LIT-1086.md:44`](../../record/literature.d/LIT-1086.md)
 - [`record/literature.d/LIT-117.md:17`](../../record/literature.d/LIT-117.md)
 - [`record/literature.d/LIT-119.md:13`](../../record/literature.d/LIT-119.md)
 - [`record/literature.d/LIT-128.md:13`](../../record/literature.d/LIT-128.md)
@@ -479,6 +481,31 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/theory.d/THEORY-039.md:72`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:84`](../../record/theory.d/THEORY-039.md)
 
+### [CLAIM-303](../../record/claims.d/CLAIM-303.md) — Proposed
+
+Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
+
+18 citations in 15 files await a look; 33 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1054.md:20`](../../record/literature.d/LIT-1054.md)
+- [`record/literature.d/LIT-1059.md:20`](../../record/literature.d/LIT-1059.md)
+- [`record/literature.d/LIT-1070.md:21`](../../record/literature.d/LIT-1070.md)
+- [`record/literature.d/LIT-1071.md:21`](../../record/literature.d/LIT-1071.md)
+- [`record/literature.d/LIT-1074.md:23`](../../record/literature.d/LIT-1074.md)
+- [`record/literature.d/LIT-1094.md:19`](../../record/literature.d/LIT-1094.md)
+- [`record/literature.d/LIT-1096.md:22`](../../record/literature.d/LIT-1096.md)
+- [`record/notes.d/NOTE-889.md:99`](../../record/notes.d/NOTE-889.md)
+- [`record/notes.d/NOTE-892.md:335`](../../record/notes.d/NOTE-892.md)
+- [`record/notes.d/NOTE-893.md:276`](../../record/notes.d/NOTE-893.md)
+- [`record/notes.d/NOTE-895.md:36`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-895.md:92`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-895.md:94`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-895.md:101`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-898.md:111`](../../record/notes.d/NOTE-898.md)
+- [`record/theory.d/THEORY-339.md:120`](../../record/theory.d/THEORY-339.md)
+- [`record/theory.d/THEORY-355.md:123`](../../record/theory.d/THEORY-355.md)
+- [`record/theory.d/THEORY-356.md:111`](../../record/theory.d/THEORY-356.md)
+
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
 A topos foundation for theories of physics: IV. Categories of systems
@@ -726,7 +753,7 @@ In both formalisms of contextuality, classicality is the existence of a nonnegat
 
 10 citations in 7 files await a look; 8 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-037.md:90`](../../record/claims.d/CLAIM-037.md)
+- [`record/claims.d/CLAIM-037.md:92`](../../record/claims.d/CLAIM-037.md)
 - [`record/notes.d/NOTE-249.md:183`](../../record/notes.d/NOTE-249.md)
 - [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-250.md:205`](../../record/notes.d/NOTE-250.md)
@@ -1154,6 +1181,19 @@ Whether two systems compute the same way can be tested by quotienting the full a
 - [`record/questions.d/QUESTION-069.md:26`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:40`](../../record/questions.d/QUESTION-069.md)
 
+### [CLAIM-295](../../record/claims.d/CLAIM-295.md) — Proposed
+
+A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
+
+6 citations in 5 files await a look; 16 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-250.md:69`](../../record/claims.d/CLAIM-250.md)
+- [`record/claims.d/CLAIM-250.md:76`](../../record/claims.d/CLAIM-250.md)
+- [`record/literature.d/LIT-1072.md:17`](../../record/literature.d/LIT-1072.md)
+- [`record/literature.d/LIT-1074.md:24`](../../record/literature.d/LIT-1074.md)
+- [`record/theory.d/THEORY-339.md:123`](../../record/theory.d/THEORY-339.md)
+- [`record/theory.d/THEORY-347.md:101`](../../record/theory.d/THEORY-347.md)
+
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
 Distributional Semantics, Holism, and the Instability of Meaning
@@ -1218,6 +1258,19 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 - [`record/notes.d/NOTE-309.md:115`](../../record/notes.d/NOTE-309.md)
 - [`record/theory.d/THEORY-019.md:67`](../../record/theory.d/THEORY-019.md)
 - [`record/theory.d/THEORY-019.md:126`](../../record/theory.d/THEORY-019.md)
+
+### [NOTE-863](../../record/notes.d/NOTE-863.md) — Skimmed
+
+Goldreich — Foundations of Cryptography, Vol. 1 (1995 fragments): computational indistinguishability and pseudorandom generators
+
+6 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1061.md:40`](../../record/literature.d/LIT-1061.md)
+- [`record/literature.d/LIT-1061.md:66`](../../record/literature.d/LIT-1061.md)
+- [`record/theory.d/THEORY-352.md:17`](../../record/theory.d/THEORY-352.md)
+- [`record/theory.d/THEORY-352.md:38`](../../record/theory.d/THEORY-352.md)
+- [`record/theory.d/THEORY-357.md:18`](../../record/theory.d/THEORY-357.md)
+- [`record/theory.d/THEORY-357.md:35`](../../record/theory.d/THEORY-357.md)
 
 ### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
 
@@ -1339,8 +1392,8 @@ For a candidate structure whose removal makes the remaining model singular, the 
 
 5 citations in 3 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-154.md:111`](../../record/claims.d/CLAIM-154.md)
-- [`record/claims.d/CLAIM-154.md:121`](../../record/claims.d/CLAIM-154.md)
+- [`record/claims.d/CLAIM-154.md:112`](../../record/claims.d/CLAIM-154.md)
+- [`record/claims.d/CLAIM-154.md:122`](../../record/claims.d/CLAIM-154.md)
 - [`record/decisions.d/ADR-040.md:152`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-040.md:29`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-040.md:43`](../../record/questions.d/QUESTION-040.md)
@@ -1368,18 +1421,6 @@ A person's roles in contexts that do not meet cannot contradict one another: rol
 - [`record/decisions.d/ADR-040.md:59`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:138`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:255`](../../record/decisions.d/ADR-040.md)
-
-### [CLAIM-303](../../record/claims.d/CLAIM-303.md) — Proposed
-
-Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
-
-5 citations in 5 files await a look; 18 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1054.md:20`](../../record/literature.d/LIT-1054.md)
-- [`record/literature.d/LIT-1059.md:20`](../../record/literature.d/LIT-1059.md)
-- [`record/literature.d/LIT-1070.md:21`](../../record/literature.d/LIT-1070.md)
-- [`record/literature.d/LIT-1071.md:21`](../../record/literature.d/LIT-1071.md)
-- [`record/literature.d/LIT-1074.md:23`](../../record/literature.d/LIT-1074.md)
 
 ### [LIT-331](../../record/literature.d/LIT-331.md) — Unavailable
 
@@ -1555,17 +1596,6 @@ Fidelity is the wrong measure of a developing argument: maturing drops and chang
 - [`record/decisions.d/ADR-040.md:52`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:183`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:190`](../../record/decisions.d/ADR-040.md)
-
-### [CLAIM-295](../../record/claims.d/CLAIM-295.md) — Proposed
-
-A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
-
-4 citations in 3 files await a look; 15 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-250.md:69`](../../record/claims.d/CLAIM-250.md)
-- [`record/claims.d/CLAIM-250.md:76`](../../record/claims.d/CLAIM-250.md)
-- [`record/literature.d/LIT-1072.md:17`](../../record/literature.d/LIT-1072.md)
-- [`record/literature.d/LIT-1074.md:24`](../../record/literature.d/LIT-1074.md)
 
 ### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
 
@@ -1824,7 +1854,7 @@ A network of threshold units with symmetric Hebbian couplings is a content-addre
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
 
-3 citations in 2 files await a look; 14 other citations of it are acknowledged.
+3 citations in 2 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:113`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:46`](../../record/questions.d/QUESTION-067.md)
@@ -1900,6 +1930,26 @@ A multi-session argument's thesis can move without any participant arguing for t
 - [`record/questions.d/QUESTION-047.md:44`](../../record/questions.d/QUESTION-047.md)
 - [`record/questions.d/QUESTION-047.md:60`](../../record/questions.d/QUESTION-047.md)
 
+### [CLAIM-199](../../record/claims.d/CLAIM-199.md) — Proposed
+
+Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
+
+3 citations in 3 files await a look; 22 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1055.md:81`](../../record/literature.d/LIT-1055.md)
+- [`record/questions.d/QUESTION-103.md:89`](../../record/questions.d/QUESTION-103.md)
+- [`record/theory.d/THEORY-336.md:114`](../../record/theory.d/THEORY-336.md)
+
+### [CLAIM-296](../../record/claims.d/CLAIM-296.md) — Proposed
+
+What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
+
+3 citations in 3 files await a look; 29 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1058.md:23`](../../record/literature.d/LIT-1058.md)
+- [`record/theory.d/THEORY-346.md:108`](../../record/theory.d/THEORY-346.md)
+- [`record/theory.d/THEORY-355.md:125`](../../record/theory.d/THEORY-355.md)
+
 ### [LIT-005](../../record/literature.d/LIT-005.md) — Proposed
 
 Adding causality to the information-theoretic perspective on individuality
@@ -1929,6 +1979,16 @@ Brandom's Inferentialist Theory and the Meaning Entitlement Connection
 - [`record/decisions.d/ADR-009.md:35`](../../record/decisions.d/ADR-009.md)
 - [`record/notes.d/NOTE-158.md:105`](../../record/notes.d/NOTE-158.md)
 - [`record/notes.d/NOTE-158.md:136`](../../record/notes.d/NOTE-158.md)
+
+### [LIT-1086](../../record/literature.d/LIT-1086.md) — Unavailable
+
+The difficulty of optimum index selection
+
+3 citations in 3 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
+- [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
+- [`record/questions.d/QUESTION-114.md:161`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-342](../../record/literature.d/LIT-342.md) — Unavailable
 
@@ -2150,6 +2210,26 @@ Inductive and explanatory usefulness is necessary but not sufficient for a natur
 - [`record/literature.d/LIT-244.md:97`](../../record/literature.d/LIT-244.md)
 - [`record/notes.d/NOTE-769.md:233`](../../record/notes.d/NOTE-769.md)
 
+### [THEORY-331](../../record/theory.d/THEORY-331.md) — Proposed
+
+Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved
+
+3 citations in 3 files await a look.
+
+- [`record/theory.d/THEORY-342.md:112`](../../record/theory.d/THEORY-342.md)
+- [`record/theory.d/THEORY-351.md:128`](../../record/theory.d/THEORY-351.md)
+- [`record/theory.d/THEORY-359.md:127`](../../record/theory.d/THEORY-359.md)
+
+### [THEORY-335](../../record/theory.d/THEORY-335.md) — Proposed
+
+Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming
+
+3 citations in 1 file await a look.
+
+- [`record/theory.d/THEORY-337.md:24`](../../record/theory.d/THEORY-337.md)
+- [`record/theory.d/THEORY-337.md:70`](../../record/theory.d/THEORY-337.md)
+- [`record/theory.d/THEORY-337.md:91`](../../record/theory.d/THEORY-337.md)
+
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
 A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles
@@ -2258,6 +2338,15 @@ In conditional generation each condition can be met while their conjunction or r
 - [`record/decisions.d/ADR-040.md:197`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:217`](../../record/decisions.d/ADR-040.md)
 
+### [CLAIM-126](../../record/claims.d/CLAIM-126.md) — Proposed
+
+Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
+
+2 citations in 2 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-305.md:81`](../../record/claims.d/CLAIM-305.md)
+- [`record/decisions.d/ADR-040.md:176`](../../record/decisions.d/ADR-040.md)
+
 ### [CLAIM-135](../../record/claims.d/CLAIM-135.md) — Proposed
 
 Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most
@@ -2330,15 +2419,6 @@ For an argument, the constraint set that persistence is relative to is fixed by 
 - [`record/claims.d/CLAIM-079.md:53`](../../record/claims.d/CLAIM-079.md)
 - [`record/decisions.d/ADR-040.md:216`](../../record/decisions.d/ADR-040.md)
 
-### [CLAIM-199](../../record/claims.d/CLAIM-199.md) — Proposed
-
-Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
-
-2 citations in 2 files await a look; 22 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1055.md:81`](../../record/literature.d/LIT-1055.md)
-- [`record/questions.d/QUESTION-103.md:83`](../../record/questions.d/QUESTION-103.md)
-
 ### [CLAIM-213](../../record/claims.d/CLAIM-213.md) — Proposed
 
 A proposed relational kind is a hypothesis about invariance across admissible changes of measurement and context, not an equivalence class under the measurements now available, so realism about kinds gains empirical content as extrapolation to probe families, populations and environments not used to construct them
@@ -2379,7 +2459,7 @@ Per-step discrepancies between a chain of maps and a reference chain compound th
 
 A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged
 
-2 citations in 2 files await a look; 13 other citations of it are acknowledged.
+2 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-199.md:161`](../../record/claims.d/CLAIM-199.md)
 - [`record/literature.d/LIT-1075.md:24`](../../record/literature.d/LIT-1075.md)
@@ -2419,6 +2499,15 @@ Logic and Conversation
 
 - [`record/literature.d/LIT-1004.md:27`](../../record/literature.d/LIT-1004.md)
 - [`record/literature.d/LIT-1006.md:26`](../../record/literature.d/LIT-1006.md)
+
+### [LIT-1053](../../record/literature.d/LIT-1053.md) — Unavailable
+
+A note on computational indistinguishability
+
+2 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-302.md:76`](../../record/claims.d/CLAIM-302.md)
+- [`record/theory.d/THEORY-352.md:105`](../../record/theory.d/THEORY-352.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -2590,15 +2679,6 @@ Dwork et al. — The reusable holdout (supplementary material)
 
 - [`record/questions.d/QUESTION-040.md:12`](../../record/questions.d/QUESTION-040.md)
 - [`record/theory.d/THEORY-028.md:12`](../../record/theory.d/THEORY-028.md)
-
-### [NOTE-863](../../record/notes.d/NOTE-863.md) — Skimmed
-
-Goldreich — Foundations of Cryptography, Vol. 1 (1995 fragments): computational indistinguishability and pseudorandom generators
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1061.md:40`](../../record/literature.d/LIT-1061.md)
-- [`record/literature.d/LIT-1061.md:68`](../../record/literature.d/LIT-1061.md)
 
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
 
@@ -3140,6 +3220,60 @@ Hermeneutical injustice is having a significant area of one's social experience 
 - [`record/theory.d/THEORY-317.md:28`](../../record/theory.d/THEORY-317.md)
 - [`record/theory.d/THEORY-317.md:101`](../../record/theory.d/THEORY-317.md)
 
+### [THEORY-332](../../record/theory.d/THEORY-332.md) — Proposed
+
+For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-333.md:108`](../../record/theory.d/THEORY-333.md)
+- [`record/theory.d/THEORY-350.md:104`](../../record/theory.d/THEORY-350.md)
+
+### [THEORY-333](../../record/theory.d/THEORY-333.md) — Proposed
+
+Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-332.md:100`](../../record/theory.d/THEORY-332.md)
+- [`record/theory.d/THEORY-344.md:99`](../../record/theory.d/THEORY-344.md)
+
+### [THEORY-334](../../record/theory.d/THEORY-334.md) — Proposed
+
+In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-346.md:103`](../../record/theory.d/THEORY-346.md)
+- [`record/theory.d/THEORY-360.md:117`](../../record/theory.d/THEORY-360.md)
+
+### [THEORY-342](../../record/theory.d/THEORY-342.md) — Proposed
+
+In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-331.md:131`](../../record/theory.d/THEORY-331.md)
+- [`record/theory.d/THEORY-351.md:128`](../../record/theory.d/THEORY-351.md)
+
+### [THEORY-355](../../record/theory.d/THEORY-355.md) — Proposed
+
+Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-339.md:125`](../../record/theory.d/THEORY-339.md)
+- [`record/theory.d/THEORY-360.md:116`](../../record/theory.d/THEORY-360.md)
+
+### [THEORY-360](../../record/theory.d/THEORY-360.md) — Proposed
+
+Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-334.md:112`](../../record/theory.d/THEORY-334.md)
+- [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
+
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Deferred
 
 Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
@@ -3187,14 +3321,6 @@ A pragmatic observable is conserved under a Markov reconstruction process when i
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:126`](../../record/decisions.d/ADR-040.md)
-
-### [CLAIM-126](../../record/claims.d/CLAIM-126.md) — Proposed
-
-Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
-
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:176`](../../record/decisions.d/ADR-040.md)
 
 ### [CLAIM-129](../../record/claims.d/CLAIM-129.md) — Proposed
 
@@ -3396,14 +3522,6 @@ A simulation whose operators each maximize an objective the modeller fixed canno
 
 - [`record/decisions.d/ADR-042.md:114`](../../record/decisions.d/ADR-042.md)
 
-### [CLAIM-296](../../record/claims.d/CLAIM-296.md) — Proposed
-
-What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
-
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1058.md:23`](../../record/literature.d/LIT-1058.md)
-
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
 Dynamics of collectives with opinionated agents: The case of scrambling connectivity
@@ -3419,22 +3537,6 @@ Manipulation: Theory and Practice
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-745.md:188`](../../record/notes.d/NOTE-745.md)
-
-### [LIT-1053](../../record/literature.d/LIT-1053.md) — Unavailable
-
-A note on computational indistinguishability
-
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-302.md:75`](../../record/claims.d/CLAIM-302.md)
-
-### [LIT-1078](../../record/literature.d/LIT-1078.md) — Unavailable
-
-Hypothesis-Consistent Testing and Semantic Priming in the Anchoring Paradigm: A Selective Accessibility Model
-
-1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1064.md:24`](../../record/literature.d/LIT-1064.md)
 
 ### [LIT-108](../../record/literature.d/LIT-108.md) — Unavailable
 
@@ -4052,6 +4154,46 @@ Covert influence that exploits a person's decision-making vulnerabilities harms 
 
 - [`record/theory.d/THEORY-225.md:104`](../../record/theory.d/THEORY-225.md)
 
+### [THEORY-330](../../record/theory.d/THEORY-330.md) — Proposed
+
+After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-346.md:106`](../../record/theory.d/THEORY-346.md)
+
+### [THEORY-339](../../record/theory.d/THEORY-339.md) — Proposed
+
+People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
+
+### [THEORY-343](../../record/theory.d/THEORY-343.md) — Proposed
+
+In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-359.md:123`](../../record/theory.d/THEORY-359.md)
+
+### [THEORY-344](../../record/theory.d/THEORY-344.md) — Proposed
+
+An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-333.md:106`](../../record/theory.d/THEORY-333.md)
+
+### [THEORY-359](../../record/theory.d/THEORY-359.md) — Proposed
+
+Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode
+
+1 citation in 1 file awaits a look.
+
+- [`record/theory.d/THEORY-343.md:132`](../../record/theory.d/THEORY-343.md)
+
 ## Codes that resolve to no document
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
@@ -4083,6 +4225,7 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/cases.d/CASE-097.md:31: annotation no longer applies — QUESTION-113 is Active now
 - record/claims.d/CLAIM-009.md:29: annotation no longer applies — nothing in scope cites CLAIM-109
 - record/claims.d/CLAIM-017.md:30: annotation no longer applies — nothing in scope cites CLAIM-108
 - record/claims.d/CLAIM-033.md:45: annotation no longer applies — nothing in scope cites CLAIM-042
@@ -4105,6 +4248,8 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-115.md:55: annotation no longer applies — nothing in scope cites CLAIM-017
 - record/claims.d/CLAIM-117.md:56: annotation no longer applies — nothing in scope cites CLAIM-052
 - record/claims.d/CLAIM-121.md:40: annotation no longer applies — nothing in scope cites CLAIM-100
+- record/claims.d/CLAIM-307.md:42: annotation no longer applies — nothing in scope cites LIT-1081
+- record/claims.d/CLAIM-307.md:43: annotation no longer applies — nothing in scope cites CLAIM-296
 - record/literature.d/LIT-1066.md:57: annotation no longer applies — nothing in scope cites LIT-1060
 - record/literature.d/LIT-250.md:58: annotation no longer applies — LIT-259 is Active now
 - record/literature.d/LIT-264.md:57: annotation no longer applies — LIT-263 is Active now

@@ -26,8 +26,8 @@ answers:
 uses:
 - TERM-055
 grounds:
-- THEORY-tmpp4dqy
-- THEORY-tmpkxugz
+- THEORY-351
+- THEORY-346
 summary: >-
   A18's first candidate, from the owner's EMT case ([CASE-085](../cases.d/CASE-085.md)): the drug was
   stocked, the EMT knew it, and it could not be found before the medic moved on.
@@ -36,11 +36,11 @@ summary: >-
   under a different request may retrieve it.
 illustrated_by:
 - CASE-085
-- CASE-tmpd5exw
+- CASE-094
 complements:
-- CLAIM-tmp3ejtf
+- CLAIM-306
 corroborated_by:
-- CLAIM-tmpjmtw0
+- CLAIM-310
 ---
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Unavailable; held without a reading, cited for what they would be read for, not leaned on -->
 
