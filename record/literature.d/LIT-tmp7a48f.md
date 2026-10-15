@@ -1,0 +1,65 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the authors' arXiv preprint (arXiv:1005.0418v1, 3
+  May 2010, 29 pp.); the FOCS 2010 text was not seen and has no open copy. Worth
+  reading as the framework that turns the expansion of a metric's neighbourhood
+  graph into cell-probe lower bounds for approximate near-neighbour search: (mwt/n)^t
+  ≥ vertex expansion for deterministic t-probe structures, m^t w/n ≥ robust expansion
+  at measure 1/m^t for randomized ones, on random data with weakly overlapping neighbourhoods,
+  giving for the hypercube space n^{1+Ω(1/(ct))} at approximation c and n^{Ω(1/(tε²))}
+  at 1 + ε, a matching one-probe upper bound on Cayley graphs, and an update-time
+  lower bound for dynamic low-contention structures. The bounds are average case,
+  approximate, and fall off exponentially in the number of probes, so they are tight
+  only for constant t. For [THEORY-340](../theory.d/THEORY-340.md) it is the similarity analogue of Yao's lookup
+  floor, holding with arbitrary cell encoding where Yao's sorted-order optimality
+  did not; for [QUESTION-114](../questions.d/QUESTION-114.md) it puts a floor under fast per-query search priced in
+  space, and the only lower bound on upkeep among the readings, in a restricted
+  class, with no workload, amortization or build time; for [CLAIM-310](../claims.d/CLAIM-310.md) its dependence
+  on expansion is consistent with attribute bins working for discrete lookup (the
+  record's reading); no bearing on [THEORY-345](../theory.d/THEORY-345.md) or [CLAIM-309](../claims.d/CLAIM-309.md).
+title: Lower Bounds on Near Neighbor Search via Metric Expansion
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: >-
+    Filed, not read. Citation checked on 2026-10-15: FOCS 2010. arXiv v1 submitted
+    3 May 2010. Not held in the Anthology of the SOTA: a grep of its record/ (clone
+    of 2026-10-15, commit d1573d2) for the title and authors found nothing. Read
+    the same day (NOTE-tmpc6udp).
+tags:
+- databases
+- mathematics
+date: '2026-10-15'
+published: '2010-05-03'
+arxiv: '1005.0418'
+first_author: Panigrahy
+keywords: []
+implementations: []
+summary: >-
+  Panigrahy et al. (2010), FOCS 2010. Cell-probe lower bounds for near-neighbour
+  search follow from the expansion of the graph joining points within distance r:
+  a deterministic t-probe structure with m cells of w bits must have (mwt/n)^t at
+  least the vertex expansion, and a randomized one must have m^t w/n at least the
+  robust expansion at measure 1/m^t, on random data sets with weakly overlapping
+  neighbourhoods. For the hypercube this recovers known bounds and gives, for example,
+  space n^{1+Ω(1/(ct))} for approximation c and n^{Ω(1/(tε²))} for 1 + ε; for symmetric
+  (Cayley) graphs a one-probe structure matches the bound, and for dynamic low-contention
+  structures the update time must be at least the robust expansion over poly(t).
+  The bounds are average case, for approximate decision search, and weak in t: they
+  fall off exponentially in the number of probes, so they are tight only for a constant
+  number of probes and say little about structures that probe n^ρ cells.
+---
+
+# LIT-tmp7a48f: Lower Bounds on Near Neighbor Search via Metric Expansion
+
+Panigrahy, R., Talwar, K. and Wieder, U. (2010). Lower bounds on near neighbor search via metric expansion. In *Proc. FOCS 2010*, pp. 805–814. DOI 10.1109/FOCS.2010.82
+
+## Key takeaways
+
+Read in full ([NOTE-tmpc6udp](../notes.d/NOTE-tmpc6udp.md)). Cell-probe lower bounds for near-neighbour search follow from the expansion of the graph joining points within distance r: a deterministic t-probe structure with m cells of w bits must have (mwt/n)^t at least the vertex expansion, and a randomized one must have m^t w/n at least the robust expansion at measure 1/m^t, on random data sets with weakly overlapping neighbourhoods. For the hypercube this recovers known bounds and gives, for example, space n^{1+Ω(1/(ct))} for approximation c and n^{Ω(1/(tε²))} for 1 + ε; for symmetric (Cayley) graphs a one-probe structure matches the bound, and for dynamic low-contention structures the update time must be at least the robust expansion over poly(t). The bounds are average case, for approximate decision search, and weak in t: they fall off exponentially in the number of probes, so they are tight only for a constant number of probes and say little about structures that probe n^ρ cells.
+
+## Why this is here
+
+[QUESTION-114](../questions.d/QUESTION-114.md) and [THEORY-340](../theory.d/THEORY-340.md): cell-probe lower bounds for near-neighbour search from the expansion of the metric, the similarity analogue of Yao's lower bound. Unlike Yao's, it allows any cell encoding; it is average case on random data and approximate, where Yao's is worst case and exact.

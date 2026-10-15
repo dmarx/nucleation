@@ -1,0 +1,68 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 ([NOTE-tmpc5ict](../notes.d/NOTE-tmpc5ict.md)) from the authors' postprint in the University
+  of Pennsylvania's ScholarlyCommons repository (repository.upenn.edu/handle/20.500.14332/8764,
+  file pods07.pdf, 10 pp., posted by permission of ACM), found through Unpaywall
+  and OpenAlex (green, submittedVersion) and fetched through the repository's API
+  because the landing page is script-only. Worth reading as the source of semiring
+  provenance: for positive relational algebra over any commutative semiring the
+  annotated answer is the provenance polynomial in N[X] evaluated at the input annotations,
+  and for datalog over ω-continuous semirings the same holds with formal power series
+  in N∞⟦X⟧ ([THEORY-tmpeqxfa](../theory.d/THEORY-tmpeqxfa.md), [THEORY-tmplwy86](../theory.d/THEORY-tmplwy86.md)). For [QUESTION-105](../questions.d/QUESTION-105.md) it shows that retaining
+  one polynomial per output suffices for every revision that re-annotates input
+  facts in a commutative semiring, deletion included, without rerunning the query;
+  it proves no minimality, and it excludes added facts, negation and contraction.
+  Its "why-provenance" is one set of contributing tuples per output, coarser than
+  the witness basis of [LIT-tmp8m5l3](LIT-tmp8m5l3.md) that it cites as the same notion, and its structure
+  for it fails its own semiring axioms. Deletion propagation and trust are not in
+  the paper; deletion follows from Theorem 4.3 as the record's application. For
+  [CLAIM-293](../claims.d/CLAIM-293.md) the polynomial separates joint from alternative support but, like topology,
+  leaves the strengths to the valuation; for [CLAIM-306](../claims.d/CLAIM-306.md) it has no account of absence.
+title: Provenance Semirings
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: >-
+    Filed, not read. Citation checked on 2026-10-15: PODS 2007. Crossref gives 11
+    June 2007. Not held in the Anthology of the SOTA: a grep of its record/ (clone
+    of 2026-10-15, commit d1573d2) for the title and authors found nothing. Read
+    the same day (NOTE-tmpc5ict).
+tags:
+- databases
+- logic
+- mathematics
+date: '2026-10-15'
+published: '2007-06-11'
+doi: 10.1145/1265530.1265535
+first_author: Green
+keywords: []
+implementations: []
+summary: >-
+  Green et al. (2007), PODS 2007. Annotating each input tuple with an element of
+  a commutative semiring, and computing union and projection with + and join with
+  ·, gives one positive relational algebra (RA+) that is set semantics over the
+  Booleans, bag semantics over the naturals, c-tables over positive Boolean expressions,
+  event tables over sets of outcomes, and lineage over sets of tuple ids. The polynomials
+  N[X] in the tuple ids are the most general such annotation: for any RA+ query
+  and any commutative semiring K, the K-annotated answer is the provenance polynomial
+  evaluated at the input's K-annotations (Theorem 4.3). For datalog the paper needs
+  ω-continuous semirings and formal power series N∞⟦X⟧, with the analogous factorization
+  (Theorem 6.4) and a criterion for infinite coefficients (Theorem 6.5). Everything
+  is positive: no negation, difference or aggregation, and revaluing inputs can
+  only remove output tuples, never add them; trust and deletion propagation are
+  not treated.
+---
+
+# LIT-tmpjckak: Provenance Semirings
+
+Green, T. J., Karvounarakis, G. and Tannen, V. (2007). Provenance semirings. In *Proc. PODS 2007*, pp. 31–40. DOI 10.1145/1265530.1265535
+
+## Key takeaways
+
+Read in full ([NOTE-tmpc5ict](../notes.d/NOTE-tmpc5ict.md)). Annotating each input tuple with an element of a commutative semiring, and computing union and projection with + and join with ·, gives one positive relational algebra (RA+) that is set semantics over the Booleans, bag semantics over the naturals, c-tables over positive Boolean expressions, event tables over sets of outcomes, and lineage over sets of tuple ids. The polynomials N[X] in the tuple ids are the most general such annotation: for any RA+ query and any commutative semiring K, the K-annotated answer is the provenance polynomial evaluated at the input's K-annotations (Theorem 4.3). For datalog the paper needs ω-continuous semirings and formal power series N∞⟦X⟧, with the analogous factorization (Theorem 6.4) and a criterion for infinite coefficients (Theorem 6.5). Everything is positive: no negation, difference or aggregation, and revaluing inputs can only remove output tuples, never add them; trust and deletion propagation are not treated.
+
+## Why this is here
+
+[QUESTION-105](../questions.d/QUESTION-105.md) and [CLAIM-303](../claims.d/CLAIM-303.md): for positive relational queries, annotation by provenance polynomials is the most general, and set, bag, probabilistic and lineage answers are its evaluations. Deletion propagation follows by setting a deleted fact's annotation to zero; that is the record's application, not the paper's statement.

@@ -1,6 +1,6 @@
 ---
 number: 306
-status: Active
+status: Superseded
 formerly:
 - CLAIM-tmp3ejtf
 title: 'Under a deadline, search can establish presence by finding one item but
@@ -30,6 +30,8 @@ grounds:
 - THEORY-341
 complements:
 - CLAIM-296
+superseded_by:
+- CLAIM-tmpfpvgq
 summary: >-
   The medic's "If I can't find it, it isn't there" ([CASE-085](../cases.d/CASE-085.md)) and the owner's "if
   I can't find it quickly enough, it may as well not be there" ([CASE-094](../cases.d/CASE-094.md)) act
@@ -44,10 +46,19 @@ summary: >-
   safe when the full pass finishes in time. In [CASE-085](../cases.d/CASE-085.md) the EMT knew the drug was
   stocked, which is exactly where Reiter shows the closed-world assumption inconsistent.
   So there it was a decision to stop, not an inference.
+objected_by:
+- CLAIM-tmp28lab
 ---
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims cited as open, nothing here rests on their being settled -->
 
 # CLAIM-306: Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
+
+
+**Superseded 2026-10-15 by [CLAIM-tmpfpvgq](CLAIM-tmpfpvgq.md).** [CLAIM-tmp28lab](CLAIM-tmp28lab.md) showed absence
+established without exhausting a collection, which meets this claim's
+defeat condition. The restatement reads the rule as operational
+unavailability and keeps the analysis below as the account of its literal
+reading.
 
 ## The claim
 

@@ -1,0 +1,63 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 ([NOTE-tmp6f7qy](../notes.d/NOTE-tmp6f7qy.md)) from the authors' camera-ready copy on the
+  University of Maryland Opsis project page (www.cs.umd.edu/projects/opsis/papers/2000/webviews.pdf,
+  12 pp., dated 1 March 2000); the ACM Digital Library copy returned 403. Worth
+  reading as the first cost model for choosing, per database-generated web page,
+  between computing it on request, storing the query result in the DBMS, and storing
+  the finished page at the web server, with every stored copy refreshed on each
+  update; on one Apache/Informix testbed the page stored at the web server answered
+  10 to 230 times faster, and the result stored in the DBMS lost to recomputation
+  whenever there were updates, because reading it cost about as much as rebuilding
+  it. For [QUESTION-114](../questions.d/QUESTION-114.md) it prices access and upkeep by frequency and adds where the
+  copy is stored, but forbids staleness, has no build cost or storage term, and
+  states the selection problem without an algorithm; for [CLAIM-303](../claims.d/CLAIM-303.md) it shows filing
+  failing through access cost alone, and upkeep slowing the unfiled reads that share
+  its resource (by 236% in its model check).
+title: WebView Materialization
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: >-
+    Filed, not read. Citation checked on 2026-10-15: SIGMOD 2000. Crossref gives
+    16 May 2000 for the proceedings. Not held in the Anthology of the SOTA: a grep
+    of its record/ (clone of 2026-10-15, commit d1573d2) for the title and authors
+    found nothing. Read the same day (NOTE-tmp6f7qy).
+tags:
+- databases
+- operations-research
+date: '2026-10-15'
+published: '2000-05-16'
+doi: 10.1145/342009.335430
+first_author: Labrinidis
+keywords: []
+implementations: []
+summary: >-
+  Labrinidis and Roussopoulos (2000), SIGMOD 2000. For a page built from database
+  queries, the paper compares three ways to serve it on a server with online updates:
+  compute it on each request (virt), store the query result in the DBMS and refresh
+  it on every update (matdb), or store the finished page as a file at the web server
+  and rewrite it on every update (matweb). It gives a cost model summing access
+  and update costs by their frequencies and states the selection problem (choose
+  a policy per page to minimize mean response time, no space limit, no staleness
+  allowed), but gives no algorithm for it. On one Apache/Informix testbed with cheap
+  indexed queries, matweb answered 10 to 230 times faster than the other two at
+  all loads tried, and matdb was slower than virt whenever there were updates, because
+  reading the stored result cost about as much as recomputing it. Staleness is defined
+  as the delay from update to reply, sketched, and never measured; build cost and
+  storage are outside the model.
+---
+
+# LIT-tmpv6qcw: WebView Materialization
+
+Labrinidis, A. and Roussopoulos, N. (2000). WebView materialization. In *Proc. ACM SIGMOD 2000*, pp. 367–378. DOI 10.1145/342009.335430
+
+## Key takeaways
+
+Read in full ([NOTE-tmp6f7qy](../notes.d/NOTE-tmp6f7qy.md)). For a page built from database queries, the paper compares three ways to serve it on a server with online updates: compute it on each request (virt), store the query result in the DBMS and refresh it on every update (matdb), or store the finished page as a file at the web server and rewrite it on every update (matweb). It gives a cost model summing access and update costs by their frequencies and states the selection problem (choose a policy per page to minimize mean response time, no space limit, no staleness allowed), but gives no algorithm for it. On one Apache/Informix testbed with cheap indexed queries, matweb answered 10 to 230 times faster than the other two at all loads tried, and matdb was slower than virt whenever there were updates, because reading the stored result cost about as much as recomputing it. Staleness is defined as the delay from update to reply, sketched, and never measured; build cost and storage are outside the model.
+
+## Why this is here
+
+[QUESTION-114](../questions.d/QUESTION-114.md) and [CLAIM-303](../claims.d/CLAIM-303.md): compares computing a derived page on request, storing the query result, and storing the finished page, with a cost model of access and update workloads. It forbids staleness and gives no selection algorithm. On its testbed a stored query result lost to recomputing because reading it cost about as much as rebuilding it, and refreshing stored pages slowed the pages not stored.

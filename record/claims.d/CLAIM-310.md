@@ -27,6 +27,11 @@ grounds:
 - CASE-095
 - CASE-094
 - THEORY-358
+- THEORY-tmpdllj7
+- THEORY-tmpry4qh
+- THEORY-tmp095vr
+- THEORY-tmpehk94
+- THEORY-tmpazpbe
 complements:
 - CLAIM-131
 - CLAIM-037
@@ -46,6 +51,8 @@ summary: >-
   at a glance.
 illustrated_by:
 - CASE-094
+objected_by:
+- CLAIM-tmpie11s
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-037 CLAIM-296 CASE-094 CASE-095 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->

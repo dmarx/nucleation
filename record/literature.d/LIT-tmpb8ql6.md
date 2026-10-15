@@ -1,0 +1,69 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the VLDB Endowment's open copy of the proceedings
+  paper (www.vldb.org/conf/1998/p194.pdf, pp. 194–205, a scan with an OCR text layer,
+  fetched with a browser User-Agent header). Worth reading as the standard average-case
+  analysis of why partitioned indexes for nearest-neighbour search lose to a sequential
+  scan as dimension grows, and as the source of the VA-file. Under uniform, independent
+  data in the unit cube with Euclidean distance, an assumed five-fold sequential
+  advantage and a 20% line, the fraction of blocks an optimal search reads crosses
+  that line at about 15–20 dimensions for rectangular bounding regions, 26 for spherical
+  ones, and below a crude 610 for any partition into convex clusters of two or more
+  points. The "around 10" usually cited is the measured crossover for an R*-tree
+  and an X-tree on 50,000 uniform points and 45-dimensional image features. The
+  bounds substitute the expected nearest-neighbour distance for each query's own,
+  and they are evaluated by Monte Carlo. Data of low intrinsic dimension are outside
+  the analysis except by an untested fractal-dimension conjecture. For [QUESTION-114](../questions.d/QUESTION-114.md)
+  it shows a regime where organizing into bins does not pay even with building free,
+  and where the remedy is a scanned file of compact per-item approximations, not
+  a better partition. For [CLAIM-310](../claims.d/CLAIM-310.md) it marks where arrangement stops doing work:
+  similarity over many coordinates the query does not name, unlike LEGO bins, where
+  queries name a few discrete attributes. It has no bearing on [CLAIM-309](../claims.d/CLAIM-309.md).
+title: A Quantitative Analysis and Performance Study for Similarity-Search Methods
+  in High-Dimensional Spaces
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: >-
+    Filed, not read. Citation checked on 2026-10-15: VLDB 1998. Not in Crossref
+    (VLDB 1998 has no DOIs); the VLDB Endowment's copy is the source. VLDB 1998
+    opened in New York on 24 August 1998, which `published:` uses. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2)
+    for the title and authors found nothing. Read the same day (NOTE-tmpvtj3f).
+tags:
+- databases
+- information-retrieval
+date: '2026-10-15'
+published: '1998-08-24'
+url: https://www.vldb.org/conf/1998/p194.pdf
+first_author: Weber
+keywords: []
+implementations: []
+summary: >-
+  Weber et al. (1998), VLDB 1998. Under uniformly distributed, independent data
+  and queries in the unit cube with Euclidean distance, the paper estimates the
+  average fraction of blocks that an optimal nearest-neighbour search must read
+  in a partitioned or clustered index. That fraction reaches the 20% at which a
+  sequential scan wins, given an assumed five-fold sequential advantage, at about
+  15–20 dimensions for rectangular regions, 26 for spherical ones, and below a crude
+  610 for any partitioning into convex clusters of two or more points. The "around
+  10" in the abstract is the measured crossover for an R*-tree and an X-tree on
+  50,000 uniform points and on 45-dimensional image features. As an alternative
+  it proposes the VA-file, a scanned file of compact per-vector approximations that
+  filters out all but a few vectors. The analysis says nothing about data with low
+  intrinsic dimension; that the results carry over by fractal dimension is a conjecture.
+---
+
+# LIT-tmpb8ql6: A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces
+
+Weber, R., Schek, H.-J. and Blott, S. (1998). A quantitative analysis and performance study for similarity-search methods in high-dimensional spaces. In *Proc. VLDB 1998*, pp. 194–205.
+
+## Key takeaways
+
+Read in full ([NOTE-tmpvtj3f](../notes.d/NOTE-tmpvtj3f.md)). Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, the paper estimates the average fraction of blocks that an optimal nearest-neighbour search must read in a partitioned or clustered index. That fraction reaches the 20% at which a sequential scan wins, given an assumed five-fold sequential advantage, at about 15–20 dimensions for rectangular regions, 26 for spherical ones, and below a crude 610 for any partitioning into convex clusters of two or more points. The "around 10" in the abstract is the measured crossover for an R*-tree and an X-tree on 50,000 uniform points and on 45-dimensional image features. As an alternative it proposes the VA-file, a scanned file of compact per-vector approximations that filters out all but a few vectors. The analysis says nothing about data with low intrinsic dimension; that the results carry over by fractal dimension is a conjecture.
+
+## Why this is here
+
+[QUESTION-114](../questions.d/QUESTION-114.md) and [CLAIM-310](../claims.d/CLAIM-310.md): under uniform independent data, partitioning and clustering indexes for similarity read nearly every block past some dimension, between about 15 and 60 by the analysis, even with building free. The often-quoted "about 10" is the measured crossover for two tree indexes, not the analytical threshold.
