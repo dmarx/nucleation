@@ -6,6 +6,7 @@ formerly:
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A population model with endogenous, performance-sensitive endorsement and
   no authority primitive in which durable, differentiated authority never

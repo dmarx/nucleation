@@ -6,6 +6,7 @@ formerly:
 title: 'What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that self-continuity is lost whenever the organizing activity
   stops, as in dreamless sleep, anaesthesia or dormancy, even when it

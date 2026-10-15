@@ -6,6 +6,7 @@ formerly:
 title: '"Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross"'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - behavioral-integration
 - complex-systems

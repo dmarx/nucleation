@@ -6,6 +6,7 @@ formerly:
 title: 'A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   Renderings whose framing operations are each well intertwined
   nevertheless differ from the source in measured order effects by more

@@ -6,6 +6,7 @@ formerly:
 title: 'Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A reductive result showing that drive cannot be apportioned between
   levels at all. That would mean that wherever a higher level is well

@@ -6,6 +6,7 @@ formerly:
 title: 'Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   The transformations that matter for communicative fidelity are well
   modelled as invertible maps with exact invariants, so that directed,

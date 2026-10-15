@@ -6,6 +6,7 @@ formerly:
 title: 'The footing, compensation and constitution theses ground on invented cases whose readings the assistant assigned, and the case filed for the proposition''s non-necessity holds the words fixed, so it shows only insufficiency'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - philosophy-of-language
 - philosophy-of-science

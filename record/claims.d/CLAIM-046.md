@@ -6,6 +6,7 @@ formerly:
 title: 'Different hidden-state models can produce identical observations, so pragmatic identity and fidelity should be defined on observable responses before any equivalence of internal states is assumed'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Internal interpretive states prove identifiable from the responses
   used, and fidelity defined on them predicts judgements of

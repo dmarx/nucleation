@@ -6,6 +6,7 @@ formerly:
 title: 'Explaining practical efficacy does not settle whose the will is'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - self-governance
 - agency

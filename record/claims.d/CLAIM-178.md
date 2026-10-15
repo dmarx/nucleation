@@ -6,6 +6,7 @@ formerly:
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Drafts written straight from an exchange, checked against the exchange
   itself, turn out to preserve its commitments and announce changes of

@@ -6,6 +6,7 @@ formerly:
 title: 'Pragmatic fidelity is approximate preservation of the ways an utterance conditions, transforms and constrains later interpretation and interaction, across transient framing and learned interpretive dispositions'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings that match on static judgements are never judged to differ
   in fidelity across framing sequences or across interpreters with

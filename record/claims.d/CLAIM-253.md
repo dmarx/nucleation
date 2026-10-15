@@ -13,6 +13,7 @@ history:
     effect by observational distortions alone, and CLAIM-117 v2 is
     stated on observed responses.
 role: counter
+warrant: demonstrated
 tags:
 - mathematics
 - philosophy-of-science

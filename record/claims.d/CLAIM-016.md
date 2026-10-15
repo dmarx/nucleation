@@ -6,6 +6,7 @@ formerly:
 title: 'An organized agent''s will is its own to the degree that its operative commitments arise through, remain integrated with, and are answerable to its constitutive organization'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A manipulation case that satisfies every condition of integration and
   answerability while the will is plainly not the agent's own.

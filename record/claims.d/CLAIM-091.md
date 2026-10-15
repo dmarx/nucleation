@@ -6,6 +6,7 @@ formerly:
 title: 'A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In matched designs, renderings that keep the source wording while the
   speaker context changes preserve judged stance and force as well as

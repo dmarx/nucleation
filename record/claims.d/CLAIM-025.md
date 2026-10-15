@@ -6,6 +6,7 @@ formerly:
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A case of degraded transformation capacity that always shows up as a
   failure of the operative regime or of its governing organization.

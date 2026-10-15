@@ -6,6 +6,7 @@ formerly:
 title: "A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another"
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-science
 - philosophy-of-language

@@ -6,6 +6,7 @@ formerly:
 title: 'Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Every pattern of pragmatic judgements that fails to have a global
   extension can be redescribed, without loss of prediction, as a mixture

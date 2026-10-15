@@ -6,6 +6,7 @@ formerly:
 title: 'Translation operations are not invertible, need not compose by a fixed rule, and preserve no structure given in advance, so the relativity analogy holds only as a research programme'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-language
 - mathematics

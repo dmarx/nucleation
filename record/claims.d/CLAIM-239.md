@@ -6,6 +6,7 @@ formerly:
 title: 'A defeat condition that says something cannot be done is met by an argument that it cannot, not by a record of failures, so the admissibility and correspondence theses can fail by their own conditions, though no study the programme runs can make them fail'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   The record's rule for `defeated_if` admits only observed results; or no
   argument of the kind is possible, because any argument that a

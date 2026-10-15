@@ -6,6 +6,7 @@ formerly:
 title: 'The manuscript''s thesis and the October thesis give rival answers to what survives, which come apart in both directions on the cases of the receiver objection, yet the record links them by `complements` and scopes the October thesis to a question its fidelity clause does not stay inside'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - philosophy-of-language
 - translation

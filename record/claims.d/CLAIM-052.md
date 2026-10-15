@@ -6,6 +6,7 @@ formerly:
 title: 'Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In controlled designs the order of framing prompts makes no
   difference, beyond noise, to the distribution of later pragmatic

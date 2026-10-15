@@ -6,6 +6,7 @@ formerly:
 title: '"Who drives" is not constant: a person''s drive profile changes over time, and a lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience'
 version: 1
 role: thesis
+warrant: empirical
 defeated_if: >-
   Evidence that in humans the microbiome's influence on hunger and affect
   runs only through states the higher level already sets, such as diet

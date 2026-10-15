@@ -6,6 +6,7 @@ formerly:
 title: 'The operational account does not say that meaning is nothing but observable behaviour, nor that no stable content exists because interpretation is context-dependent'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - philosophy-of-language
 date: '2026-10-08'

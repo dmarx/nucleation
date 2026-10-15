@@ -6,6 +6,7 @@ formerly:
 title: 'Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived'
 version: 1
 role: disclaimed
+warrant: demonstrated
 tags:
 - mathematics
 - philosophy-of-language

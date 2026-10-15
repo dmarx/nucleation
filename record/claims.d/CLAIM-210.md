@@ -6,6 +6,7 @@ formerly:
 title: 'Sharing a kind and being a rendering are different relations: kind-sharing is symmetric and says what is to be preserved, while fidelity belongs to a transport from a given source, so an utterance of the same kind made independently of the source shares its kind and has no fidelity to it'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   The October thesis's fidelity clause, or the fidelity profile it is
   measured by, is shown to apply to pairs of realizations that no

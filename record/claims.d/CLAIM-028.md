@@ -6,6 +6,7 @@ formerly:
 title: 'No result from the exchange''s four experiments reached a later draft: the authored chains were excluded by rule, and the synthetic constructions were dropped without a stated reason'
 version: 1
 role: granted
+warrant: empirical
 tags:
 - philosophy-of-science
 - philosophy-of-language

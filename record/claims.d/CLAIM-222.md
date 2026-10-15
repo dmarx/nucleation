@@ -13,6 +13,7 @@ history:
     arm, and by CLAIM-220 and CLAIM-204, whose conditions are
     decisive in that arm. Status Proposed to Active.
 role: counter
+warrant: demonstrated
 tags:
 - translation
 - linguistics

@@ -6,6 +6,7 @@ formerly:
 title: 'Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Judgements of translation fidelity behave as an equivalence: symmetric
   between source and target and transitive along chains, so that a

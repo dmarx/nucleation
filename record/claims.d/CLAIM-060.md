@@ -6,6 +6,7 @@ formerly:
 title: 'An encompassing organization''s success does not establish the well-being, viability or autonomy of its constituents — and the converse holds too'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A general reason why an organization's continued success must preserve
   its constituents' capacities, or theirs its.

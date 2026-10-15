@@ -6,6 +6,7 @@ formerly:
 title: 'Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another''s influence, with trust, specialization and higher-level agency arising from its history and not imposed'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Phenomenon-specific models, or a central-executive model, predict held-
   out behaviour in these phenomena, or the effects of interventions on

@@ -15,6 +15,7 @@ history:
     estimation. CLAIM-056's condition asks for prediction, which a
     loose bound fails, so it can fail as stated and is unchanged.
 role: counter
+warrant: demonstrated
 tags:
 - probabilistic-modeling
 - philosophy-of-science

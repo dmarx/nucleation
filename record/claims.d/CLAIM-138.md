@@ -6,6 +6,7 @@ formerly:
 title: 'The Newman objection is the collapse objection at the level of ontology, and the remedy offered for both, independently specified relations, concedes that relational structure alone does not fix communicative identity'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - metaphysics
 - philosophy-of-science

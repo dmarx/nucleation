@@ -17,6 +17,7 @@ history:
     met by CLAIM-204's transfer disjunct and CLAIM-106's own
     condition.
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-language
 - individuation

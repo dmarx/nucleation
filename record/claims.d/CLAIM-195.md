@@ -6,6 +6,7 @@ formerly:
 title: 'For an argument, the constraint set that persistence is relative to is fixed by an amendable decision, not discovered: the record stipulates what counts as the same claim persisting, which makes the choice explicit without making it non-arbitrary'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The record's identity criteria turn out not to be decided at all but
   forced, so that no workable alternative scheme of codes, versions and

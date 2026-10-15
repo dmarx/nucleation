@@ -6,6 +6,7 @@ formerly:
 title: 'A language model''s response to a context is functionally a parameterized pragmatic frame'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Prompt effects on a model's interpretations fail paraphrase invariance
   and transfer, so that what a context does to the model is not a

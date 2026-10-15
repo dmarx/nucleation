@@ -6,6 +6,7 @@ formerly:
 title: 'The record''s rival accounts of will are claims about drive profiles in different cells: Ainslie''s interests are aggregate or emergent, the expected value of control is top-down, and will-organization is the maintained organization that governs how the drive profile changes'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A showing that THEORY-067, THEORY-070 and CLAIM-027 predict the same
   drive profile for an agent resisting a temptation, the same downward

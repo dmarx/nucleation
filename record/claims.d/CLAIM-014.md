@@ -6,6 +6,7 @@ formerly:
 title: 'Krifka''s performative updates fix which changes in conversational standing count, and Blackwell comparison tests whether a rendering preserves the information needed to recover them'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Performative updates (commitments, obligations, permissions) cannot be
   elicited as observables with stable response distributions, so that no

@@ -6,6 +6,7 @@ formerly:
 title: 'Whether a distinction survived is fixed by what the receivers can recover, and whether it can be shown to have survived is fixed by what the analyst''s probes can identify, so the manuscript''s thesis and the October fidelity clause, read so, answer different parts of one question'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A218 uses "independently identifiable" to exclude from what persists
   distinctions that receivers recover, so that the evidential reading is

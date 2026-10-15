@@ -6,6 +6,7 @@ formerly:
 title: 'A communicative kind''s identity is grounded in its relational organization, for which competent participants'' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Any of three findings, in a design with named receivers, stated tasks,
   an interlingual arm and margins fixed in advance (CASE-055).

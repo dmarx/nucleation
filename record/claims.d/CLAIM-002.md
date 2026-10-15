@@ -6,6 +6,7 @@ formerly:
 title: 'A text''s identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Judgements that a retelling descends from an original are fully
   predicted by its present similarity to the original, with no

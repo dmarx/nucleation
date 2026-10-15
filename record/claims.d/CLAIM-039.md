@@ -6,6 +6,7 @@ formerly:
 title: 'Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A Frijda-style functional characterization that cannot be satisfied by
   an organization without importing a phenomenal condition.

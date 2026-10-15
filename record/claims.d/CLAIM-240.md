@@ -6,6 +6,7 @@ formerly:
 title: 'A holistic fidelity judgement is fidelity under the judges'' default task, a weighting of the profile''s components that can be estimated on some renderings and tested on others, so it is well defined and consistent with task-relativity, and a defeat condition that uses it must name the population and fix the weighting before the test'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   No weighting of the fidelity profile's components fitted on one set of
   renderings and judges predicts the holistic judgements of the same

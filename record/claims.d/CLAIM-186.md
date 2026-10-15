@@ -27,6 +27,7 @@ history:
     longer marked unread, LIT-929 is added to grounds, and the Deferred
     comment removed. The claim and its status are unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Across stretches of exchanges, the rate of silent redefinition and
   unannounced change of thesis does not track the ratio of new material

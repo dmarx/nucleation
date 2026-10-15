@@ -6,6 +6,7 @@ formerly:
 title: 'An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that in the cases at issue, exploratory disruption and
   emotional action alike, an interpretation was always already formed when

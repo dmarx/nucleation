@@ -6,6 +6,7 @@ formerly:
 title: 'If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record''s term for a kind says it is not'
 version: 1
 role: counter
+warrant: demonstrated
 tags:
 - philosophy-of-science
 - individuation

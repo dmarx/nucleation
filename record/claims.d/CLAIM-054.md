@@ -6,6 +6,7 @@ formerly:
 title: 'A translation can preserve interpretive content while failing as a social act: interpretive and performative fidelity come apart'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings that readers understand as the source is understood are
   reliably also taken up as the same social act (the same complicity,

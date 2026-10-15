@@ -6,6 +6,7 @@ formerly:
 title: 'Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   For the tasks studied, the components of the fidelity profile D(T)
   order all compared transports the same way, so that no trade-offs

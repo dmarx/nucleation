@@ -6,6 +6,7 @@ formerly:
 title: 'Fidelity is relative to the interpreter''s learning history: a frame given in context is transient while an adaptation to it persists, so fidelity under a fixed interpreter, across interpreters and across states of adaptation are different quantities'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Measured fidelity of the same rendering is the same for interpreters
   with different exposure to the source genre, so that adaptation

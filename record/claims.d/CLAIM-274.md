@@ -6,6 +6,7 @@ formerly:
 title: 'Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In the released r/place logs, whether a participant keeps placing is
   independent of whether the art they placed into is still standing, once

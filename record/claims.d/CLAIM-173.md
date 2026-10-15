@@ -16,6 +16,7 @@ history:
     architecture, not its membership. The argument below is kept as
     version 1 stated it.
 role: counter
+warrant: interpretive
 tags:
 - individuation
 - embodied-cognition

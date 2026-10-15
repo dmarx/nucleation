@@ -6,6 +6,7 @@ formerly:
 title: 'An adaptive interpreter''s state includes its message, context knowledge and learned parameters, and learning can make some relational invariants more stable and others less'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Adapted and unadapted interpreters conserve the same relational
   observables at the same rates along reconstruction chains.

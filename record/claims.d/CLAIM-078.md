@@ -16,6 +16,7 @@ history:
     disjunct, A110's comparison with text similarity, is unchanged;
     CLAIM-202 carries the stronger rival.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Structural and decision-theoretic measures add no prediction of
   communicative-identity changes beyond text similarity, or end-to-end

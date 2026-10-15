@@ -6,6 +6,7 @@ formerly:
 title: 'Repeated reconstruction is attraction toward conventional regions of communicative possibility: pragmatic stances, not only lexicon and grammar, can be stabilized by transmission'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Serial reconstruction chains started from different stances do not
   converge toward a small set of conventional stances, and the stance of

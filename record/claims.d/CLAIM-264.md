@@ -17,6 +17,7 @@ history:
     without the premises about translation that CLAIM-142 rests on; CLAIM-142
     now rests on this claim.
 role: thesis
+warrant: demonstrated
 defeated_if: A probe family fixed in advance, not chosen for the comparison
   at hand and not dense or strongly generating, that is shown to separate
   every pair of non-isomorphic objects in a class of interest. Or an argument

@@ -6,6 +6,7 @@ formerly:
 title: 'Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for'
 version: 1
 role: supposed
+warrant: interpretive
 tags:
 - contextuality
 - philosophy-of-language

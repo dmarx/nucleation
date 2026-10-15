@@ -13,6 +13,7 @@ history:
     to the questions filed from the interlocutor's reading of LIT-638.
     The assistant wrote it up and chose the edges.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   For "not necessary": evidence or argument that in every act done under
   internal conflict, the conflict is settled before the act, so that the

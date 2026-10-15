@@ -6,6 +6,7 @@ formerly:
 title: 'Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-language
 - social-ontology

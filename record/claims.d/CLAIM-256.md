@@ -6,6 +6,7 @@ formerly:
 title: 'D_obs sums over source contexts only, so a target context outside the image of τ appears in no term: a rendering that adds a relation pays nothing, and a change of cover registers only as loss'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 - philosophy-of-language

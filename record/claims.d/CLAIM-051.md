@@ -6,6 +6,7 @@ formerly:
 title: 'Fidelity is always fidelity with respect to some selected structure: a specified family of communicative observations, interventions and permitted continuations'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   One equivalence relation serves every translation purpose, so that
   choosing the observations and interventions changes no verdict of

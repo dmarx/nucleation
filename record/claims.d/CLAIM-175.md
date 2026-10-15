@@ -6,6 +6,7 @@ formerly:
 title: 'A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis''s own terms, more clearly than Otto and his notebook, and merits a name of its own'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Perturbation studies of improvising couples in which each dancer's next
   step is predicted as well by a model of that dancer taking the

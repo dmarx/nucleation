@@ -6,6 +6,7 @@ formerly:
 title: 'Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A population model in which operators that share one general update rule
   and differ only in parameters and history never differentiate into

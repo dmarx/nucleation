@@ -6,6 +6,7 @@ formerly:
 title: 'Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   For the cues the manuscript's experiments use,
   P(Y | do(I = "S is s")) = P(Y | do(S = s)) for every situation feature

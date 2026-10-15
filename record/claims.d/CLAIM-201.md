@@ -6,6 +6,7 @@ formerly:
 title: 'Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source''s questions undecidable for its readers and decides others the source left open'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In the interlingual and retelling arms of the discriminating study
   (CASE-055), the contexts on which readers' judgements are

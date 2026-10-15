@@ -6,6 +6,7 @@ formerly:
 title: 'A change in which questions a receiver population can answer determinately is not by itself a change of cover in the sheaf sense: changing the measurement domain, the response distribution and the compatibility structure are three operations, and only the third engages gluing, so the operational notion needs its own name until a functorial link is shown'
 version: 1
 role: counter
+warrant: demonstrated
 tags:
 - contextuality
 - mathematics

@@ -6,6 +6,7 @@ formerly:
 title: 'Symmetry is not opposed to transport: exact symmetries are the invertible core of a nested family of transports, and their main use is to supply the invariants against which non-symmetric transports are assessed'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The invariants of exact symmetries of a scenario fail to discriminate
   between good and bad lossy transports of it as judges rank them.

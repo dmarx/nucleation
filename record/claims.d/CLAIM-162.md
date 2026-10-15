@@ -6,6 +6,7 @@ formerly:
 title: 'Flow is intrapersonal synchronization: when an activity''s immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Flow that continues, effortless as reported, while a competing sooner
   reward is shown still to overtake the activity at short delay (measured

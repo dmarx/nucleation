@@ -6,6 +6,7 @@ formerly:
 title: 'A probe family that supplies a transformation''s training signal cannot also certify what the transformation preserves: preservation must be shown under probes that were not used to train it'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Across documented generators trained against a pretrained feature
   family, metrics computed in that family rank and score them no

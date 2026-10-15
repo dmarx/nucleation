@@ -6,6 +6,7 @@ formerly:
 title: 'Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A willed agent, by TERM-048's tests, that shares no more with
   selves than an ordinary agent does on any of ADR-024's unities, so that

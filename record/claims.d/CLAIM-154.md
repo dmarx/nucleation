@@ -24,6 +24,7 @@ history:
     modeller's prior gives the description-length penalty only for
     hypotheses random under it). The rule and its status are unchanged.
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A model family in which the rule and the Bayes factor disagree on the
   keep-or-prune decision near the threshold, where the decision is

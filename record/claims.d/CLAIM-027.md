@@ -14,6 +14,7 @@ history:
     claimed will is a higher-order organization of constraints without the
     agent index.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Interventions on the proposed relations that, holding the competing
   regimes fixed, fail to change which regime becomes effective; or a

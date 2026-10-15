@@ -6,6 +6,7 @@ formerly:
 title: 'Conditional generative systems realize stochastic transports between constrained distributions, and their compositional fidelity depends on preserving the compatibility and relational structure of constraints across media'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The compositional failures of conditional generators are explained by
   score estimation or sampling error alone, with no role for the

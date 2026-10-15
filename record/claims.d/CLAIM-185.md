@@ -15,6 +15,7 @@ history:
     what is still changing. THEORY-307 and THEORY-324 cited. The
     claim is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Complex structure (claims resting on claims, objection threads,
   revision chains) is found to form as readily on content that never

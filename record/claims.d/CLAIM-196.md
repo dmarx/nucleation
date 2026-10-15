@@ -16,6 +16,7 @@ history:
     error for the self. This is the defensible version, with outside
     evidence from boyd (2008).
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that a person's role presentations which differ by audience
   produce conflict, felt or social, while the audiences are reliably kept

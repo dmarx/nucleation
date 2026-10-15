@@ -6,6 +6,7 @@ formerly:
 title: 'On this account every control system has a will'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - agency
 - complex-systems

@@ -6,6 +6,7 @@ formerly:
 title: 'The pragmatic identity of an utterance is partly constituted by the context-dependent transformations it induces, so pragmatic fidelity is an approximate structure-preserving correspondence between source and target dynamics'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings that match on static pragmatic judgements are never judged
   to differ in fidelity, so that the transformations an utterance

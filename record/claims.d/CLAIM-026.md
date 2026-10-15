@@ -6,6 +6,7 @@ formerly:
 title: 'Translation is not the transmission of an invariant semantic object but the selective preservation of decision-relevant information across changing observational and interpretive structures'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings that preserve the same decision-relevant information for
   the same receivers are judged to differ in fidelity, so that something

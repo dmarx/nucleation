@@ -6,6 +6,7 @@ formerly:
 title: "The procedure-level fidelity thesis's title says observational fidelity is not defined for a single rendering of a single item, which is more than it shows: one source–target pair does not identify the procedure-level score, and a single rendering can still be judged, as a sample of its procedure or by another measure stated as such, as its own body says"
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - probabilistic-modeling
 - translation

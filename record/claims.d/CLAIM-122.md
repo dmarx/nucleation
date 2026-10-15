@@ -6,6 +6,7 @@ formerly:
 title: 'Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A case where every change in which regime becomes effective is matched
   by a change in some preference that predicts it.

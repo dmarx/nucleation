@@ -6,6 +6,7 @@ formerly:
 title: 'Possessing an action-generating regime is not the same as its being practically effective'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An account on which a regime's availability fixes its efficacy, so that
   every case of an available but ineffective regime turns out to be a case

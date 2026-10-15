@@ -6,6 +6,7 @@ formerly:
 title: 'The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-language
 - linguistics

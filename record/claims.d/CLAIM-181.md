@@ -6,6 +6,7 @@ formerly:
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - design-rationale
 - epistemology

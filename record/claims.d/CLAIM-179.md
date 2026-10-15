@@ -20,6 +20,7 @@ history:
     LIT-759–761 reworded from Deferred to Unavailable. The claim and its
     status are unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Agent-filed argument records are abandoned at rates like those of
   IBIS-era systems, for the reason Grudin gives: the people who must

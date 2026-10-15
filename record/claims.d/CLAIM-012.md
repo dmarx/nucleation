@@ -6,6 +6,7 @@ formerly:
 title: 'Will is a second- or higher-order attractor in an agent''s dynamics'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A system with a higher-order attractor that by every other criterion
   lacks a will, where the attractor reading cannot say what is missing.

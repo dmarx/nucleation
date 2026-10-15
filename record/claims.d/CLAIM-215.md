@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative kinds are repeatable organizations of relations among participants, norms, commitments and possible consequences, which concrete events realize without being one another, and which kind an event realizes is not exhausted by the intrinsic properties of the expression token'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Either of two findings. For the kinds the line studies (teasing,
   reproach, reprimand), the intrinsic properties of the expression token

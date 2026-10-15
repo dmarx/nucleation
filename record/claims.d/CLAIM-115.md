@@ -6,6 +6,7 @@ formerly:
 title: 'What survives translation is the set of communicative distinctions and relations a receiving system can still reconstruct and act upon, not the wording or the proposition'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Human judgements of communicative fidelity on translations, retellings
   or cross-modal renderings are predicted as well by propositional or

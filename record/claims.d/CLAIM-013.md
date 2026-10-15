@@ -6,6 +6,7 @@ formerly:
 title: 'Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An existing benchmark that already measures social alignment, stance
   or uptake in generated images with metrics validated against human

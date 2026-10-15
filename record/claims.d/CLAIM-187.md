@@ -6,6 +6,7 @@ formerly:
 title: 'Whether two systems compute the same way can be tested by quotienting the full admissible symmetry group and measuring what remains: a residual barrier marks a different mechanism, and a feature with no counterpart blocks the comparison'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Systems that share a mechanism, by an independent test, are found
   separated by a barrier that survives full symmetry alignment, or

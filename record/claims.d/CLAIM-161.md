@@ -22,6 +22,7 @@ history:
     a window and a tolerance. Added under What it does not say. The
     claim is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A system whose coherence measure is conserved under its own dynamics
   over an interval and which, by every other mark, is not the same self

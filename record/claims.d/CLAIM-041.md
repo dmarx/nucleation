@@ -6,6 +6,7 @@ formerly:
 title: 'Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - contextuality
 - quantum-foundations

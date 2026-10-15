@@ -6,6 +6,7 @@ formerly:
 title: 'Generated views of the record, fed back into the exchange, become instruments of the argument: they show where its terms evolved faster than its formalism'
 version: 1
 role: thesis
+warrant: empirical
 defeated_if: >-
   Over further exchanges, views fed back produce nothing the
   participants act on, or what they produce could equally have come from

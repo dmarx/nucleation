@@ -6,6 +6,7 @@ formerly:
 title: 'Variations in translation are transformations between pragmatic frames of reference that preserve selected invariants of the communicative act'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The variations between renderings cannot be described as one act
   realized under different frames, because the act itself changes with

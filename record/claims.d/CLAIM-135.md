@@ -6,6 +6,7 @@ formerly:
 title: 'Recovering latent structure from relational data is three achievements, reconstruction, identification up to stated ambiguities, and constitution of a communicative kind, and identifiability theory reaches the second at most'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   For the communicative kinds at issue, factors identified from one
   observation family, such as lexical co-occurrence, are shown to coincide

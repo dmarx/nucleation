@@ -6,6 +6,7 @@ formerly:
 title: 'Observational distortion should be summed over the contexts both covers can host, with the target''s new questions asked of the source too, and the questions only one side can decide reported as a separate change of cover, so that a rendering that adds a relation pays for it'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings that agree on the source's contexts and differ only on added
   ones are judged alike by the named receivers on the stated tasks, so

@@ -6,6 +6,7 @@ formerly:
 title: 'Communicative objects are characterized through overlapping constraints on observables at partially ordered levels; translation transports these locally constrained structures, and repeated reconstruction changes both local interpretations and their global compatibility'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Communicative fidelity judgements are explained by a single global
   representation of each utterance, with no role for which local

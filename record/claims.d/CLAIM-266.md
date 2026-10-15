@@ -16,6 +16,7 @@ history:
     without the premises about translation that CLAIM-149 rests on; CLAIM-149
     now rests on this claim.
 role: thesis
+warrant: interpretive
 defeated_if: Across systems optimized against a probe family, evaluation in
   that family is found to rank and score them no differently from evaluation
   under independent probes and from independent human judgement, so that the

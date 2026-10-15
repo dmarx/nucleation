@@ -23,6 +23,7 @@ history:
     extension, contextual fraction), so that the global structure adds
     nothing to predict."
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In documented reconstruction chains, with signalling accounted for and
   the coding of outcomes fixed in advance, steps that keep the judgement

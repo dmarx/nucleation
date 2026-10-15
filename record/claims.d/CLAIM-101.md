@@ -6,6 +6,7 @@ formerly:
 title: 'Translation is a context-conditioned transport process that preserves selected structures of communicative meaning to varying degrees while introducing distortions that may accumulate, attenuate or amplify under composition'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Distortion along chains of reconstruction is unstructured: neither
   predicted by local discrepancies and the dynamics of later steps, nor

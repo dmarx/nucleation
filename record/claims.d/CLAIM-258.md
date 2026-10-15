@@ -6,6 +6,7 @@ formerly:
 title: 'Blackwell''s order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - mathematical-statistics
 - information-theory

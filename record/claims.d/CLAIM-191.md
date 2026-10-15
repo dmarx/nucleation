@@ -6,6 +6,7 @@ formerly:
 title: 'Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators'' own framings rather than at random, and a code restores continuity of transmission'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Raters blind to the hypothesis find that re-derivations in the
   reconstructed exchanges move in no consistent direction, or in a

@@ -22,6 +22,7 @@ history:
     situation, with interference growing with similarity. The claim is
     unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A record that codes on first occurrence, or only on request, shows
   less drift for the same filing cost. Or the drift turns out to sit

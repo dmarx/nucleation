@@ -19,6 +19,7 @@ history:
     a receiver's usable information (CLAIM-199); version 1's
     'never rises … at any stage' was a universal negative.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In text→image→text chains whose captioners are blind to the source's
   situation, the share of items on which receivers' task-indexed access

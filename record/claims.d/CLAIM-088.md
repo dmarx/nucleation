@@ -6,6 +6,7 @@ formerly:
 title: 'Task-sensitive information preservation is established in semantic and goal-oriented communication; what is new is applying it to sheaf-structured pragmatic observations under sequential, context-dependent reconstruction'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - information-theory
 - philosophy-of-language

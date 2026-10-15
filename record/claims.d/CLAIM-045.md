@@ -6,6 +6,7 @@ formerly:
 title: 'Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A case in which the architectural, dynamical and goal-directed
   descriptions of one system make incompatible predictions about it, so

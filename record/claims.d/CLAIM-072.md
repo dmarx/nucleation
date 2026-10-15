@@ -6,6 +6,7 @@ formerly:
 title: 'Saussure says purely differential only of signifier and signified taken apart; the sign as a whole is a positive fact, and signs stand in opposition'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - linguistics
 - philosophy-of-language

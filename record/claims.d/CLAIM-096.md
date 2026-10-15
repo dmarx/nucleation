@@ -6,6 +6,7 @@ formerly:
 title: 'Where several agents share an environment, the realization of one agent''s will changes the conditions under which others can realize theirs, and that interaction is itself a normative object'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A case where agents' interaction is fully evaluated by evaluating each
   agent's own self-governance separately.

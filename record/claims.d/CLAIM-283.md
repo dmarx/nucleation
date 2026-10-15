@@ -6,6 +6,7 @@ formerly:
 title: 'The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that in emotional episodes the precedence a state claims
   (urgency, interruption, persistence) always fixes its control of action,

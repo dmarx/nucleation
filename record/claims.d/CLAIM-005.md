@@ -6,6 +6,7 @@ formerly:
 title: 'Pragmatic fidelity is the match between distributions of context-indexed communicative judgements across a correspondence of source and target contexts, not the similarity of one canonical meaning vector'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Embedding or propositional similarity between source and rendering
   predicts held-out human communicative-fidelity judgements as well as

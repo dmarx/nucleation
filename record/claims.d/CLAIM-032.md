@@ -6,6 +6,7 @@ formerly:
 title: 'Northstar''s procedures are not morally or historically analogous to the regime Fraenkel described; the Dual State supplies one structural point and nothing more'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - society-and-governance
 - ethics

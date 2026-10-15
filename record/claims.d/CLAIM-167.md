@@ -6,6 +6,7 @@ formerly:
 title: 'One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system''s internal architecture, not its membership'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A one-way-driven block that clears the threshold for a stated target,
   and yet whose best description for that target is the driven part
