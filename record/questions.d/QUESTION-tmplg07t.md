@@ -124,9 +124,23 @@ terms: steady-state upkeep against per-query savings (Finkelstein), the
 cost of the lookup alone (Yao), a measured break-even between organizing
 up front and organizing as a by-product of search (cracking), and the price
 of not knowing future requests (Sleator and Tarjan). The cockpit's case,
-a precomputed answer, is not in any of them. The survey's pointer for it
-is Harinarayan, Rajaraman and Ullman 1996 on choosing which answers to
-precompute (SIGMOD, 10.1145/233269.233333), not yet read. The finding that
+a precomputed answer, is not in any of them.
+
+**A fifth, for precomputed answers.** Harinarayan, Rajaraman and Ullman
+1996 ([LIT-tmptn63k](../literature.d/LIT-tmptn63k.md), [NOTE-tmpb6yin](../notes.d/NOTE-tmpb6yin.md)), read at the owner's request. A stored answer is
+worth the saving on every query that can be answered from it, less what the
+answers already stored save. Choosing which to store is NP-complete. The
+greedy choice of k views gets at least 1 − ((k−1)/k)^k ≥ (e−1)/e ≈ 63% of
+the best benefit, with or without query weights, and the bound is tight. Under
+a space budget it holds only less the largest view's share of the space.
+The benefit is measured against storing only the top view, not against
+total query cost. It has no build cost (size stands in for it), no upkeep
+or staleness, no phases and no uncertain workload. So it names the
+cockpit's category, a precomputed answer read back cheaply, but not what
+makes the bugs pay: moving the work to a low-workload phase before the
+deadline. For filing ([CLAIM-303](../claims.d/CLAIM-303.md)) it adds one usable term: coverage with
+diminishing returns. A filed argument's worth depends on what is filed
+already, so judging each item alone can misjudge it. The finding that
 most changes this question is Sleator and Tarjan's: under uncertainty about
 what will be wanted, reorganizing at the moment of use is within a
 constant of the best possible, so "sorting is amortized search" may be
