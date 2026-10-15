@@ -45,6 +45,8 @@ supports:
 - CLAIM-142
 - CLAIM-190
 - CLAIM-187
+complements:
+- CLAIM-tmpvdl53
 ---
 <!-- inactive-ok-file: CLAIM-046 CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 QUESTION-031 — Proposed; cited for what each holds or applies, open, not settled -->
 
@@ -92,3 +94,22 @@ representations. Each keeps its own premises for the application.
   for a task ([QUESTION-031](../questions.d/QUESTION-031.md)).
 - It says nothing about contextuality: being representable and having a
   global section are independent.
+
+## Note of 2026-10-15: a restriction forced by feasibility
+
+A15 of the exchange of 2026-10-14 (workbench entry of 2026-10-15)
+recommended amending this claim with computationally bounded probes. The
+result is filed apart, as [CLAIM-tmpvdl53](CLAIM-tmpvdl53.md), because it is conditional on an assumption
+this claim does not need: if pseudorandom generators exist, there are
+distributions almost disjoint in total variation that no efficient test
+tells apart. "Computational indistinguishability gives it a non-arbitrary
+source of restricted observational families: feasibility." This claim's
+restricted families are chosen; [CLAIM-tmpvdl53](CLAIM-tmpvdl53.md)'s is imposed by the observer's
+resources.
+
+It bears on [TERM-037](../terms.d/TERM-037.md), an observable as "a reproducible elicitation or
+coding procedure". A15: "For computational observers, the procedure
+includes a computation." The term is not revised. Equivalence under
+feasible probes is relative to the encoding and to any auxiliary
+information, as this claim's evidential half would predict. The status is
+unchanged.

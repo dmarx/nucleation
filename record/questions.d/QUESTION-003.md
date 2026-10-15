@@ -16,6 +16,8 @@ summary: >-
   The second of the five central questions (A110 §IX), "a context-
   indexed pragmatic rate–distortion problem", and A86's target result
   (a). The manuscript §5 sets up the problem and does not state it.
+refined_by:
+- QUESTION-tmpga1fv
 ---
 <!-- inactive-ok-file: CLAIM-092 THEORY-161 THEORY-163 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

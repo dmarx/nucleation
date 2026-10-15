@@ -1,0 +1,70 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the publisher's typeset PDF of the version of record
+  (TICS 25(3), 240–251), posted on the Gershman lab's publication page (gershmanlab.com/pubs/DasguptaGershman21.pdf);
+  Unpaywall lists only the publisher's bronze copy. Worth reading as the short computer-science-to-cognition
+  statement of memoization as a cognitive mechanism: Michie's memo-table, the space–time
+  trade-off, top-down (whole outputs, Logan) versus bottom-up (subproblem solutions,
+  Kalman filter, Bellman backups) reuse, and amortized inference and deep Q-networks
+  as "distributed" memo-tables that generalize to new inputs, illustrated in arithmetic,
+  mental rotation, inference and planning. For [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) it shows the first
+  strategy with the store in the head and no cost model: its equations are illustrative,
+  when caching pays is listed as an outstanding question, retrieval cost is mentioned
+  once (production systems' "onerous demands on storage and retrieval") and search
+  not at all, and nothing concerns external memory, offloading or tools. It does
+  supply both failure terms qualitatively, staleness in the strict sense (cached
+  values not yet updated after devaluation, with offline updating as the remedy)
+  and bias from overlap between queries, and treats query frequency as what a capacity-limited
+  learned cache spends its capacity on. "Amortization" here means amortized inference,
+  not amortized analysis, and the paper does not say that retrieval is computation.
+title: Memory as a Computational Resource
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
+    gives March 2021, so `published:` is the first of the month. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2)
+    for the authors, title and identifier found nothing. Read the same day (NOTE-tmp4doe6).'
+tags:
+- cognition
+- probabilistic-modeling
+date: '2026-10-15'
+published: '2021-03-01'
+doi: 10.1016/j.tics.2020.12.008
+first_author: Dasgupta
+keywords:
+- memory
+- memoization
+- amortization
+- computational resource
+implementations: []
+summary: >-
+  Dasgupta and Gershman (2021), Trends in Cognitive Sciences 25(3). A short review
+  arguing that memory is used to avoid redundant computation: results are stored
+  and reused (memoization), either whole ("top-down") or as solutions to subproblems
+  ("bottom-up"), and amortized inference and deep Q-networks are "distributed" memo-tables
+  that generalize to new inputs. It illustrates this in mental arithmetic, mental
+  imagery, probabilistic inference and planning, mostly with response times that
+  flatten with practice and with biases that a cache explains (reuse of earlier
+  inferences, choices based on stale cached values, reuse of policy fragments).
+  It has equations for its examples but no cost model: the space–time trade-off
+  is named, and when caching pays is listed as an outstanding question. Memory is
+  internal throughout; retrieval cost is mentioned once, and offloading or external
+  stores not at all.
+---
+
+# LIT-tmpyg066: Memory as a Computational Resource
+
+Dasgupta, I. and Gershman, S. J. (2021). Memory as a computational resource. *Trends in Cognitive Sciences* 25(3), 240–251. DOI 10.1016/j.tics.2020.12.008
+
+## Key takeaways
+
+Read in full ([NOTE-tmp4doe6](../notes.d/NOTE-tmp4doe6.md)). A short review arguing that memory is used to avoid redundant computation: results are stored and reused (memoization), either whole ("top-down") or as solutions to subproblems ("bottom-up"), and amortized inference and deep Q-networks are "distributed" memo-tables that generalize to new inputs. It illustrates this in mental arithmetic, mental imagery, probabilistic inference and planning, mostly with response times that flatten with practice and with biases that a cache explains (reuse of earlier inferences, choices based on stale cached values, reuse of policy fragments). It has equations for its examples but no cost model: the space–time trade-off is named, and when caching pays is listed as an outstanding question. Memory is internal throughout; retrieval cost is mentioned once, and offloading or external stores not at all.
+
+## Why this is here
+
+Turned up by the citation search on [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) (amortized retrieval as amortized computation) and registered at the owner's request. It states that retrieval is computation, for internal memory, and by the search cites no offloading work.
+
+The reading ([NOTE-tmp4doe6](../notes.d/NOTE-tmp4doe6.md)) corrects this. The paper does not say retrieval is computation; it says memory replaces computation and treats retrieval as nearly free. What it adds is staleness in the strict sense: cached values "not yet updated" after the world changes.

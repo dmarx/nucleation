@@ -23,6 +23,8 @@ grounds:
 complements:
 - CLAIM-050
 - CLAIM-087
+- CLAIM-tmp9snb1
+- CLAIM-tmpzk2fj
 uses:
 - TERM-034
 summary: >-
@@ -142,3 +144,23 @@ cannot" as a prediction that the most restricted gain most. Szarkowska et
 al. 2016 found no benefit of edited subtitles for deaf viewers. All the
 documented probes are content questions, none the interpersonal relation
 of [CLAIM-087](CLAIM-087.md).
+
+## Note of 2026-10-15: a budget instead of a rule class, and the cue
+
+The exchange of 2026-10-14 (workbench entry of 2026-10-15) came back to
+this claim four times. Two results are filed beside it rather than in it.
+
+- **The other direction.** This claim's receivers are restricted by a
+  rule class, and a garbling can help them. [CLAIM-tmpzk2fj](CLAIM-tmpzk2fj.md) restricts them by a
+  computational budget, and shows a nearly lossless rendering can defeat
+  all of them: if pseudorandom generators exist, a bit can be rendered so
+  that it is determined up to 2⁻ⁿ and no efficient receiver recovers it.
+  A15: fidelity "isn't generally monotonic in either representation size
+  or computational effort."
+- **The cue.** A19 distinguished the existence of a decoding rule that
+  works from whether the cue actually given invokes it. [QUESTION-tmp26umv](../questions.d/QUESTION-tmp26umv.md) and [CLAIM-tmp9snb1](CLAIM-tmp9snb1.md)
+  hold that, with the record's own SDM readings ([LIT-269](../literature.d/LIT-269.md)).
+
+A18 asked for a definition of the cost of recovery that would put this
+claim's rule-class case and [CLAIM-tmpzk2fj](CLAIM-tmpzk2fj.md)'s budget case on one scale. That is
+[QUESTION-tmprdpkh](../questions.d/QUESTION-tmprdpkh.md). The status is unchanged.

@@ -1,0 +1,70 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the publisher's typeset PDF (Psychological Review
+  113(3), pp. 461–482) as posted on a University of Colorado course page (home.cs.colorado.edu/~mozer/Teaching/syllabi/3702/readings/GraySimsSchoellesFu2006.pdf),
+  a course's copy of the typeset article; the authors' RPI pages, CiteSeerX, DTIC
+  and the Internet Archive could not be reached. Worth reading as the quantitative
+  sequel to Gray and Fu 2004 ([LIT-tmpbbd7f](LIT-tmpbbd7f.md)): in a Blocks World copying task with
+  the pattern behind a lockout of 0 to 3,200 ms, people look less and memorize more
+  as looking gets dearer, and a Q-learning Ideal Performer that minimizes only time,
+  with ACT-R's activation, threshold and latency equations for memory, fits four
+  measures with four parameters. The case against the minimum memory hypothesis
+  is argued, not tested, since no minimum-memory model was built. For [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md)
+  it shows that head and world can be priced in one currency, with encoding, rehearsal,
+  retrieval time and forgetting on the head side and a fixed access cost on the
+  world side, and that the choice of how much to read per look is valued against
+  the whole trial; it has no term for precomputation, for reuse across trials (each
+  pattern is new; only the learned policy carries over, which the paper calls amortized
+  and does not price), for search in the world, or for staleness, since the target
+  never changes and a retrieval cannot be wrong.
+title: 'The soft constraints hypothesis: A rational analysis approach to resource
+  allocation for interactive behavior'
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
+    gives the year only, so `published:` is the first of January. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2)
+    for the authors, title and identifier found nothing. Read the same day (NOTE-tmpc26wx).'
+tags:
+- cognition
+date: '2026-10-15'
+published: '2006-01-01'
+doi: 10.1037/0033-295X.113.3.461
+first_author: Gray
+keywords:
+- soft constraints
+- rational analysis
+- interactive behavior
+- ACT-R
+implementations: []
+summary: >-
+  Gray, Sims, Fu and Schoelles (2006), Psychological Review 113(3). In a Blocks
+  World copying task where the model pattern was hidden and opening it cost a lockout
+  of 0 to 3,200 ms, people opened it less often, kept it open longer, and placed
+  more blocks after the first look as the lockout rose, and the trend was graded
+  down to differences of tens of milliseconds. An Ideal Performer Model that chooses
+  how many blocks to encode per look (ENCODE-1 to ENCODE-8) by Q-learning, with
+  the only reward being negative time and memory given by ACT-R's base-level activation,
+  retrieval-threshold and latency equations, fits four measures from Experiment
+  3 with three memory parameters and one softmax noise parameter fitted on one of
+  them. The authors read this as support for choosing between head and world by
+  time alone, against a minimum memory hypothesis, which they concede no one has
+  stated precisely enough to model. The model's only memory costs are encoding time,
+  retrieval time and forgetting; it has no term for anything carried across trials,
+  for a retrieved item being wrong, or for the world changing.
+---
+
+# LIT-tmpras8t: The soft constraints hypothesis: A rational analysis approach to resource allocation for interactive behavior
+
+Gray, W. D., Sims, C. R., Fu, W.-T. and Schoelles, M. J. (2006). The soft constraints hypothesis: A rational analysis approach to resource allocation for interactive behavior. *Psychological Review* 113(3), 461–482. DOI 10.1037/0033-295X.113.3.461
+
+## Key takeaways
+
+Read in full ([NOTE-tmpc26wx](../notes.d/NOTE-tmpc26wx.md)). In a Blocks World copying task where the model pattern was hidden and opening it cost a lockout of 0 to 3,200 ms, people opened it less often, kept it open longer, and placed more blocks after the first look as the lockout rose, and the trend was graded down to differences of tens of milliseconds. An Ideal Performer Model that chooses how many blocks to encode per look (ENCODE-1 to ENCODE-8) by Q-learning, with the only reward being negative time and memory given by ACT-R's base-level activation, retrieval-threshold and latency equations, fits four measures from Experiment 3 with three memory parameters and one softmax noise parameter fitted on one of them. The authors read this as support for choosing between head and world by time alone, against a minimum memory hypothesis, which they concede no one has stated precisely enough to model. The model's only memory costs are encoding time, retrieval time and forgetting; it has no term for anything carried across trials, for a retrieved item being wrong, or for the world changing.
+
+## Why this is here
+
+Turned up by the citation search on [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) (amortized retrieval as amortized computation) and registered at the owner's request. The nearest formal cost model for head versus world, extending Gray and Fu 2004 ([LIT-tmpbbd7f](LIT-tmpbbd7f.md)).

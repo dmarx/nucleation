@@ -1,0 +1,74 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the publisher's typeset PDF (Cognitive Science 28(3),
+  pp. 359–382), as posted on a Drexel University course page (www.cs.drexel.edu/~dds26/courses/cs680-s11/BK/readings/Gray-CS04.pdf).
+  The authors' own copy on Gray's RPI page, and the Internet Archive's 2004 capture
+  of it, could not be reached from this environment. Unpaywall and OpenAlex list
+  the work closed, and Wiley, ScienceDirect and DTIC refused direct requests. Worth
+  reading as the standard experimental case that people choose between recalling
+  information and looking it up by a non-deliberate comparison of effort, in which
+  memory time and perceptual-motor time count alike. In a simulated VCR task, adding
+  a click (an estimated 1,000–1,500 ms against 500 ms for an eye movement) cut look-ups
+  of perfect on-screen information, and checks of finished settings rested on memory.
+  The group that memorized the information first made the fewest errors. The millisecond
+  costs are model estimates, the error difference between the two on-screen conditions
+  was not significant, and the ACT-R models only estimate effort; none models the
+  choice. For [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) it prices only the read-back side of the trade,
+  setting aside encoding and search, and it shows that a result left in the world
+  goes unused once recall is cheaper; it says nothing of amortized inference. For
+  [CLAIM-tmp9gt89](../claims.d/CLAIM-tmp9gt89.md) and [TERM-tmp5f7cu](../terms.d/TERM-tmp5f7cu.md) it shows a change of arrangement alone changing
+  use of the information, and that the procedure actually chosen is the cheapest,
+  not the best available. It bears on [CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md) only by analogy, because its
+  task removes search, which is where the EMT case failed.
+title: 'Soft constraints in interactive behavior: the case of ignoring perfect knowledge
+  in-the-world for imperfect knowledge in-the-head'
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
+    gives May 2004, so `published:` is the first of the month. Not held in the Anthology
+    of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for
+    the authors and the title found nothing. Read the same day (NOTE-tmp0wp7e).'
+tags:
+- cognition
+date: '2026-10-15'
+published: '2004-05-01'
+doi: 10.1207/s15516709cog2803_3
+first_author: Gray
+keywords:
+- soft constraints
+- interactive behavior
+- knowledge in-the-world
+- knowledge in-the-head
+implementations: []
+summary: >-
+  Gray and Fu (2004), Cognitive Science 28(3). In a simulated VCR-programming task,
+  people with show information always available on screen still made errors that
+  comparing against the display would have prevented. Making that information cost
+  a mouse move and click instead of an eye movement (an estimated 1,000–1,500 ms
+  against 500 ms) cut how often they looked it up, and most checks came right before
+  a setting, almost none while or after setting it. The group made to memorize the
+  information first made the fewest errors. Gray and Fu read this as non-deliberate
+  least-effort choice among microstrategies, with memory time and perceptual-motor
+  time weighed alike ("milliseconds matter"). The access costs are model estimates,
+  not measured or varied parametrically. The error difference between the two on-screen
+  conditions was not significant, the free-access look-up data come from a separate
+  eye-tracking study of eight people, and the Memory-Test condition differed from
+  the others in more than retrieval cost.
+---
+
+# LIT-tmpbbd7f: Soft constraints in interactive behavior: the case of ignoring perfect knowledge in-the-world for imperfect knowledge in-the-head
+
+Gray, W. D. and Fu, W.-T. (2004). Soft constraints in interactive behavior: the case of ignoring perfect knowledge in-the-world for imperfect knowledge in-the-head. *Cognitive Science* 28(3), 359–382. DOI 10.1207/s15516709cog2803_3
+
+## Key takeaways
+
+Read in full ([NOTE-tmp0wp7e](../notes.d/NOTE-tmp0wp7e.md)). In a simulated VCR-programming task, people with show information always available on screen still made errors that comparing against the display would have prevented. Making that information cost a mouse move and click instead of an eye movement (an estimated 1,000–1,500 ms against 500 ms) cut how often they looked it up, and most checks came right before a setting, almost none while or after setting it. The group made to memorize the information first made the fewest errors. Gray and Fu read this as non-deliberate least-effort choice among microstrategies, with memory time and perceptual-motor time weighed alike ("milliseconds matter"). The access costs are model estimates, not measured or varied parametrically. The error difference between the two on-screen conditions was not significant, the free-access look-up data come from a separate eye-tracking study of eight people, and the Memory-Test condition differed from the others in more than retrieval cost.
+
+## Why this is here
+
+The owner, after the cockpit reading ([LIT-tmpn2s1p](LIT-tmpn2s1p.md)): "amortized retrieval is actually a kind of amortized computation. there's probably a clearer relationship here that I imagine has likely been clarified/formalized at some point in the 30 years since the cockpit essay was published." Registered with six others for [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md).
+
+The tradeoff the EMT case ([CASE-tmp9qlz6](../cases.d/CASE-tmp9qlz6.md)) shows failing: the cheaper route was recall, and it failed. Gray and Fu make the choice between head and world a cost comparison.

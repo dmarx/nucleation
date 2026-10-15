@@ -51,6 +51,7 @@ extends:
 rivals:
 - THEORY-118
 - THEORY-120
+- THEORY-328
 summary: >-
   Fischer and Ravizza, in their own précis ([LIT-728](../literature.d/LIT-728.md), read): moral
   responsibility requires guidance control, not regulative control over

@@ -1,0 +1,72 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the author's arXiv preprint, version 2 of 2021-04-15,
+  the latest (arxiv.org/pdf/2104.03113v2; v1 diffed against it, same methods and
+  numbers). Worth reading as a clean small-scale scaling law in problem size as
+  well as compute: AlphaZero on Hex, boards 3×3 to 9×9, one change-point frontier
+  of about 500 Elo per tenfold of training compute, with the compute for perfect
+  play rising about 7× per added board row and fits on small boards predicting larger
+  ones. For [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) it shows that, on 9×9 at fixed Elo, training and tree-search
+  compute substitute along a straight log–log line, about 15× less search per 10×
+  more training (fit: log test = −1.2·log train + 0.004·Elo + 29), over roughly
+  1e14–1e16 FLOPS-seconds of training and down to a one-node search; it does not
+  count the games or moves the trained agent will play, or define the unit of test-time
+  compute, so it prices the iso-performance substitution but not amortization, and
+  has no terms for query shift, staleness or erosion of search.
+title: Scaling Scaling Laws with Board Games
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: 'Filed, not read. Identifier checked on arXiv on 2026-10-15: v1 submitted
+    2021-04-07. Not held in the Anthology of the SOTA: a grep of its record/ (clone
+    of 2026-10-15, commit d1573d2) for the arXiv id and the title found nothing.
+    The anthology holds Kaplan et al. (ANTH-LIT-028), Hoffmann et al. (ANTH-LIT-068)
+    and "Noise Hypernetworks: Amortizing Test-Time Compute in Diffusion Models"
+    (ANTH-LIT-491). Read the same day (NOTE-tmpvgf21).'
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-10-15'
+published: '2021-04-07'
+arxiv: '2104.03113'
+first_author: Jones
+keywords:
+- scaling laws
+- AlphaZero
+- Hex
+- train-time compute
+- test-time compute
+implementations: []
+summary: >-
+  Jones (2021), arXiv 2104.03113. Training AlphaZero on Hex at board sizes 3×3 to
+  9×9, the best Elo reachable for a given training compute follows one change-point
+  curve across sizes: an incline of about 500 Elo per tenfold of training compute,
+  with the compute for perfect play rising about 7× and the compute to leave random
+  play about 4× per added board row, and fits on small boards predicting larger
+  ones. On 9×9 only, train-time and test-time (tree-search) compute substitute at
+  a fixed rate: at equal Elo, each 10× of train-time compute removes about 15× of
+  test-time compute (fit: log test = −1.2·log train + 0.004·Elo + 29), down to a
+  one-node search, over roughly 1e14–1e16 FLOPS-seconds of training. The trade is
+  an iso-performance curve for a single search; the paper never counts how many
+  games or moves the trained agent will play, so it does not price amortization,
+  and it does not state the unit of test-time compute. One game, small boards, Elo
+  anchored to a perfect player, and no uncertainty on the fitted trade-off coefficients.
+---
+
+# LIT-tmpp5yji: Scaling Scaling Laws with Board Games
+
+Jones, A. L. (2021). Scaling scaling laws with board games. [ARXIV-2104.03113](https://arxiv.org/abs/2104.03113)
+
+## Key takeaways
+
+Read in full ([NOTE-tmpvgf21](../notes.d/NOTE-tmpvgf21.md)). Training AlphaZero on Hex at board sizes 3×3 to 9×9, the best Elo reachable for a given training compute follows one change-point curve across sizes: an incline of about 500 Elo per tenfold of training compute, with the compute for perfect play rising about 7× and the compute to leave random play about 4× per added board row, and fits on small boards predicting larger ones. On 9×9 only, train-time and test-time (tree-search) compute substitute at a fixed rate: at equal Elo, each 10× of train-time compute removes about 15× of test-time compute (fit: log test = −1.2·log train + 0.004·Elo + 29), down to a one-node search, over roughly 1e14–1e16 FLOPS-seconds of training. The trade is an iso-performance curve for a single search; the paper never counts how many games or moves the trained agent will play, so it does not price amortization, and it does not state the unit of test-time compute. One game, small boards, Elo anchored to a perfect player, and no uncertainty on the fitted trade-off coefficients.
+
+## Why this is here
+
+The owner, 2026-10-15: "there might also be something useful in the scaling law literature, regarding valuation of pre-training investment (amortized compute) vs inference time search/compute." Read for [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md): compute spent once in training is amortized over every later query, against compute spent at inference per query. Machine learning, filed here for that question with the anthology flag ([ADR-005](../decisions.d/ADR-005.md), [ADR-013](../decisions.d/ADR-013.md)); the anthology may hold its own reading.
+
+The cleanest measured exchange rate between amortized (training) and per-query (search) compute.
+
+The reading ([NOTE-tmpvgf21](../notes.d/NOTE-tmpvgf21.md)) narrows the line above. The paper measures the exchange rate within one system (about 15× less search per 10× more training, at fixed Elo, 9×9 Hex) but prices neither the number of games played nor a per-query unit; the expected-reuse term must be added from outside.

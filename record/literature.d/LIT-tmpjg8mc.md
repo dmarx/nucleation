@@ -1,0 +1,77 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-15 from the text of the publisher's typeset article as deposited
+  in the University of Michigan's Deep Blue repository (hdl.handle.net/2027.42/133633),
+  served as extracted full text by CORE's reader page for that record (core.ac.uk/reader/86638046);
+  Wiley, the Birmingham and Deep Blue PDFs, and the Internet Archive's captures
+  could not be fetched from this environment, so figures were not viewed. Worth
+  reading as the individual-level test of bounded optimality in short-term remembering:
+  after a forced phase measures each person's copying rate at every list length
+  from 3 to 9, the length with the highest measured rate predicts that person's
+  later choice better than one fewer or one more (55% vs 8% and 17% of choices,
+  N = 40; 46% vs 12% and 14%, N = 20), an exponential reward for long lists raises
+  the chosen length, and doubling the cost of an error does not. The prediction
+  is each person's empirical argmax, not a model: there is no capacity or look-up-time
+  parameter, and the task has no look-up at all, since names are shown once and
+  cannot be consulted again, so the alternative to holding more is more, shorter
+  trials. For [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md) it shows people can find the best point of a memory-versus-overhead
+  trade by rate, and adds one term Gray et al. 2006 ([LIT-tmpras8t](LIT-tmpras8t.md)) lacked, a time
+  cost for a wrongly remembered item; it has no term for query predictability, external
+  retrieval or search, staleness, reuse across trials or erosion of the alternative,
+  and it corrects the description of it, from Lieder and Griffiths ([LIT-tmppqntw](LIT-tmppqntw.md)),
+  as a memorize-or-look-up trade priced by look-up time.
+title: Predicting Short-Term Remembering as Boundedly Optimal Strategy Choice
+version: 1
+history:
+- version: 1
+  date: '2026-10-15'
+  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
+    gives 21 August 2015, the online date; the issue is 2016, 40(5), 1192–1223.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15,
+    commit d1573d2) for the title found nothing. Read the same day (NOTE-tmpsjfyh).'
+tags:
+- cognition
+date: '2026-10-15'
+published: '2015-08-21'
+doi: 10.1111/cogs.12271
+first_author: Howes
+keywords:
+- bounded optimality
+- short-term memory
+- strategy choice
+- information look-up
+implementations: []
+summary: >-
+  Howes, Duggan, Kalidindi, Tseng and Lewis (2016; online 2015), Cognitive Science
+  40(5). Participants copied names one at a time from a mock email to a mock calendar
+  and, after a forced phase that measured their own copying rate at every list length
+  from 3 to 9, chose how many names to take per trial; the list length that had
+  given each person the highest rate in their own data predicted their choice better
+  than one item fewer or one more (55% vs 8% and 17% of choices in Experiment 1,
+  N = 40; 46% vs 12% and 14% in Experiment 2, N = 20). An exponential points schedule
+  raised chosen list length (6.99 vs 5.07), but doubling the cost of an error (whole
+  trial forfeited) did not (5.00 vs 5.05). The "boundedly optimal" prediction is
+  the argmax of each participant's measured rate, not a model with capacity, error
+  or look-up parameters, and the task has no look-up: names are shown once, in sequence,
+  and cannot be consulted again. 13 of 60 participants persistently chose a non-optimal
+  length, 10 of them one item more.
+---
+
+# LIT-tmpjg8mc: Predicting Short-Term Remembering as Boundedly Optimal Strategy Choice
+
+Howes, A., Duggan, G. B., Kalidindi, K., Tseng, Y.-C. and Lewis, R. L. (2016). Predicting short-term remembering as boundedly optimal strategy choice. *Cognitive Science* 40(5), 1192–1223. DOI 10.1111/cogs.12271
+
+## Key takeaways
+
+Read in full ([NOTE-tmpsjfyh](../notes.d/NOTE-tmpsjfyh.md)). Participants copied names one at a time from a mock email to a mock calendar and, after a forced phase that measured their own copying rate at every list length from 3 to 9, chose how many names to take per trial; the list length that had given each person the highest rate in their own data predicted their choice better than one item fewer or one more (55% vs 8% and 17% of choices in Experiment 1, N = 40; 46% vs 12% and 14% in Experiment 2, N = 20). An exponential points schedule raised chosen list length (6.99 vs 5.07), but doubling the cost of an error (whole trial forfeited) did not (5.00 vs 5.05). The "boundedly optimal" prediction is the argmax of each participant's measured rate, not a model with capacity, error or look-up parameters, and the task has no look-up: names are shown once, in sequence, and cannot be consulted again. 13 of 60 participants persistently chose a non-optimal length, 10 of them one item more.
+
+## Why this is here
+
+Lieder and Griffiths ([LIT-tmppqntw](LIT-tmppqntw.md), [NOTE-tmpmd0yp](../notes.d/NOTE-tmpmd0yp.md)) name it as the one place
+their review sets internal storage against retrieval from the environment.
+Registered at the owner's request for [QUESTION-tmp1mkzc](../questions.d/QUESTION-tmp1mkzc.md), where it is a
+candidate cost model for the choice between remembering and looking up,
+beside Gray and Fu 2004 ([LIT-tmpbbd7f](LIT-tmpbbd7f.md)) and Gray et al. 2006 ([LIT-tmpras8t](LIT-tmpras8t.md)).
+
+The reading ([NOTE-tmpsjfyh](../notes.d/NOTE-tmpsjfyh.md)) corrects the description above, which followed Lieder and Griffiths. The task has no look-up: names are seen once and cannot be revisited, and the choice is how long a list to take per trial. There is no parametric model; the prediction for each person is the list length with the best reward rate in their own measured data. Capacity and look-up time are not parameters, and raising the cost of misremembering did not change choices. It is a trade of memory load against reward rate, not of memory against the world.

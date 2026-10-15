@@ -40,6 +40,7 @@ answered_by:
 - THEORY-015
 - THEORY-016
 - THEORY-231
+- THEORY-315
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-009](../claims.d/CLAIM-009.md), [CLAIM-037](../claims.d/CLAIM-037.md),
