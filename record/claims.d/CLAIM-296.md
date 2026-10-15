@@ -33,6 +33,7 @@ summary: >-
   under a different request may retrieve it.
 illustrated_by:
 - CASE-085
+- CASE-tmpd5exw
 ---
 <!-- inactive-ok-file: LIT-1060 LIT-1065 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
 

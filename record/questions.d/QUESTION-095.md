@@ -23,6 +23,8 @@ summary: >-
   moves work across time; [TERM-055](../terms.d/TERM-055.md)'s note said retrieval can be done before
   the request. This asks whether those are one trade, and which literature has formalized
   it.
+refined_by:
+- QUESTION-tmplg07t
 ---
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
