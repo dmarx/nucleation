@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [15 Oct 10:11 — Database theory and semantic search: 23 works read for the sorting question, the cost of reuse and revision](2026-10.md#database-theory-and-semantic-search-23-works-read-for-the-sorting-question-the-cost-of-reuse-and-revision)
 - [15 Oct 03:31 — The LEGO parable ported from Mathematics of Meaning: what was kept, what was rebuilt, what was left](2026-10.md#the-lego-parable-ported-from-mathematics-of-meaning-what-was-kept-what-was-rebuilt-what-was-left)
 - [15 Oct 01:45 — Reading pass: the eight works from the 2026-10-14 exchange, and two they led to](2026-10.md#reading-pass-the-eight-works-from-the-2026-10-14-exchange-and-two-they-led-to)
 - [15 Oct 00:41 — Eight works registered unread from the exchange on prompting, epistemic memory and retrieval](2026-10.md#eight-works-registered-unread-from-the-exchange-on-prompting-epistemic-memory-and-retrieval)
@@ -64,9 +65,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-102 entries across 2 books, newest first.
+103 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 55 | 2026-10-01 | 2026-10-15 |
+| [2026-10](2026-10.md) | 56 | 2026-10-01 | 2026-10-15 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

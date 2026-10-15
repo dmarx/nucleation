@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-16 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+17 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -34,6 +34,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-282](../record/claims.d/CLAIM-282.md) — Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements *(Active)*
   - [CLAIM-285](../record/claims.d/CLAIM-285.md) — An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities *(Proposed)*
+
+### From A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists
+
+- [CLAIM-311](../record/claims.d/CLAIM-311.md) — A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists *(Active)*
+  - [CLAIM-312](../record/claims.d/CLAIM-312.md) — "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default *(Active)*
 
 ## formal-apparatus
 

@@ -23,7 +23,7 @@ summary: >-
   a reader cannot check.
 supports:
 - CLAIM-306
-- CLAIM-tmpfpvgq
+- CLAIM-312
 ---
 <!-- inactive-ok-file: CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

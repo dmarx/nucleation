@@ -41,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpsdhw2 — Proposed; one set of the authors' own tests, cited as a related case -->
+<!-- inactive-ok-file: THEORY-385 — Proposed; one set of the authors' own tests, cited as a related case -->
 
 # CLAIM-307: Retrieval pressure and evidence are different criteria for carving a category, and they move in opposite directions with copy count: evidence that a distinction exists grows with its copies, the search a bin saves shrinks with them, so the bins a deadline forces are often the ones the data least supports
 
@@ -126,7 +126,7 @@ real person searches.
 In a proximity-graph index over clustered data, items in small isolated
 clusters became unfindable when each new item was linked only to its
 nearest neighbours, and findable when the linking rule kept links between
-clusters ([THEORY-tmpsdhw2](../theory.d/THEORY-tmpsdhw2.md), Proposed: one set of the authors' own tests).
+clusters ([THEORY-385](../theory.d/THEORY-385.md), Proposed: one set of the authors' own tests).
 An arrangement fitted to the common case loses rare items that resemble
 their neighbours, which is this claim's opposition in another medium. It
 concerns links, not copy counts, and it was not built as a test of the

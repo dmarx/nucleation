@@ -111,7 +111,7 @@ below 2 would refute Theorem 3.1.
   clause where no distribution over reuse is available.
 - Bruno and Chaudhuri 2007 ([LIT-1095](../literature.d/LIT-1095.md)) build and drop indexes by a
   rule of this shape without citing it.
-- [THEORY-tmpsvwtz](THEORY-tmpsvwtz.md) (Olston, Loo and Widom 2001): once staleness is
+- [THEORY-386](THEORY-386.md) (Olston, Loo and Widom 2001): once staleness is
   tolerated, the two-state choice becomes a continuum of interval widths
   with an interior optimum, and keeping or dropping a copy is its endpoint.
   Their adaptive width rule, like the break-even rule, needs no forecast,

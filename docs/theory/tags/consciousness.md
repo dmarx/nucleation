@@ -6,7 +6,7 @@
 
 **Consciousness** — experience and its theories — phenomenal consciousness, its measures and its attribution to animals or machines (group: philosophy).
 
-24 of 360 THEORY documents. Back to the [full index](../README.md).
+24 of 389 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

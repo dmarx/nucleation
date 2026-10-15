@@ -39,7 +39,7 @@ illustrated_by:
 - CASE-094
 complements:
 - CLAIM-306
-- CLAIM-tmpfpvgq
+- CLAIM-312
 corroborated_by:
 - CLAIM-310
 ---

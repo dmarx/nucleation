@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**543 document(s) awaiting a decision.**
+**560 document(s) awaiting a decision.**
 
 ## LITs
 
-32 of the 543.
+32 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -48,7 +48,7 @@
 
 ## THEORYs
 
-311 of the 543.
+326 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -348,14 +348,29 @@
 | 2026-10-14 | Proposed | [THEORY-319](../../record/theory.d/THEORY-319.md) | 3 | 0 | When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
 | 2026-10-14 | Proposed | [THEORY-308](../../record/theory.d/THEORY-308.md) | 2 | 0 | The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over a compact family of critics, and its uniform deviation from the population bound is controlled by the parameter count, not the data dimension |
+| 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 15 | 15 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
+| 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
 | 2026-10-15 | Proposed | [THEORY-331](../../record/theory.d/THEORY-331.md) | 3 | 3 | Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved |
 | 2026-10-15 | Proposed | [THEORY-335](../../record/theory.d/THEORY-335.md) | 3 | 3 | Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming |
-| 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 2 | 2 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
+| 2026-10-15 | Proposed | [THEORY-362](../../record/theory.d/THEORY-362.md) | 3 | 3 | For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations is stated to suffice to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and counting is set aside for recursive views because counts can be infinite |
+| 2026-10-15 | Proposed | [THEORY-367](../../record/theory.d/THEORY-367.md) | 3 | 3 | For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries |
+| 2026-10-15 | Proposed | [THEORY-368](../../record/theory.d/THEORY-368.md) | 3 | 3 | On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms |
+| 2026-10-15 | Proposed | [THEORY-369](../../record/theory.d/THEORY-369.md) | 3 | 2 | Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10 |
+| 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 3 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
+| 2026-10-15 | Proposed | [THEORY-376](../../record/theory.d/THEORY-376.md) | 3 | 3 | In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged |
+| 2026-10-15 | Proposed | [THEORY-377](../../record/theory.d/THEORY-377.md) | 3 | 3 | A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved |
+| 2026-10-15 | Proposed | [THEORY-387](../../record/theory.d/THEORY-387.md) | 3 | 3 | For recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from the remaining relations, then adding what insertions derive, is stated to leave exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the proof and the extension to stratified negation and aggregation are referred to an unpublished report, and the size of the overestimate is not measured |
 | 2026-10-15 | Proposed | [THEORY-333](../../record/theory.d/THEORY-333.md) | 2 | 2 | Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested |
 | 2026-10-15 | Proposed | [THEORY-334](../../record/theory.d/THEORY-334.md) | 2 | 2 | In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics |
 | 2026-10-15 | Proposed | [THEORY-342](../../record/theory.d/THEORY-342.md) | 2 | 2 | In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played |
 | 2026-10-15 | Proposed | [THEORY-355](../../record/theory.d/THEORY-355.md) | 2 | 2 | Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured |
 | 2026-10-15 | Proposed | [THEORY-360](../../record/theory.d/THEORY-360.md) | 2 | 2 | Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured |
+| 2026-10-15 | Proposed | [THEORY-365](../../record/theory.d/THEORY-365.md) | 2 | 2 | A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, makes greedy search cost grow about logarithmically with the number of items on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it |
+| 2026-10-15 | Proposed | [THEORY-379](../../record/theory.d/THEORY-379.md) | 2 | 2 | When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed |
+| 2026-10-15 | Proposed | [THEORY-380](../../record/theory.d/THEORY-380.md) | 2 | 2 | For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules |
+| 2026-10-15 | Proposed | [THEORY-382](../../record/theory.d/THEORY-382.md) | 2 | 2 | When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, held freshness near the threshold, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown |
+| 2026-10-15 | Proposed | [THEORY-383](../../record/theory.d/THEORY-383.md) | 2 | 2 | On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either |
+| 2026-10-15 | Proposed | [THEORY-385](../../record/theory.d/THEORY-385.md) | 2 | 1 | In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data |
 | 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 1 | 1 | After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load |
 | 2026-10-15 | Proposed | [THEORY-339](../../record/theory.d/THEORY-339.md) | 1 | 1 | People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result |
 | 2026-10-15 | Proposed | [THEORY-343](../../record/theory.d/THEORY-343.md) | 1 | 1 | In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded |
@@ -366,16 +381,16 @@
 
 ## ADRs
 
-2 of the 543.
+2 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 271 | 271 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
+| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 273 | 273 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
 | 2026-10-15 | Proposed | [ADR-043](../../record/decisions.d/ADR-043.md) | 0 | 0 | A warrant field on CLAIM, saying how a claim is supported (demonstrated, empirical, interpretive) apart from whether the record accepts it and in whose voice, piloted before it is required |
 
 ## QUESTIONs
 
-9 of the 543.
+9 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -391,7 +406,7 @@
 
 ## CLAIMs
 
-184 of the 543.
+186 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -572,17 +587,19 @@
 | 2026-10-13 | Proposed | [CLAIM-275](../../record/claims.d/CLAIM-275.md) | 2 | 0 | An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others |
 | 2026-10-13 | Proposed | [CLAIM-283](../../record/claims.d/CLAIM-283.md) | 0 | 0 | The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them |
 | 2026-10-13 | Proposed | [CLAIM-287](../../record/claims.d/CLAIM-287.md) | 0 | 0 | What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation |
-| 2026-10-15 | Proposed | [CLAIM-303](../../record/claims.d/CLAIM-303.md) | 51 | 18 | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
-| 2026-10-15 | Proposed | [CLAIM-296](../../record/claims.d/CLAIM-296.md) | 32 | 3 | What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them |
+| 2026-10-15 | Proposed | [CLAIM-303](../../record/claims.d/CLAIM-303.md) | 120 | 81 | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
+| 2026-10-15 | Proposed | [CLAIM-308](../../record/claims.d/CLAIM-308.md) | 42 | 30 | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out |
+| 2026-10-15 | Proposed | [CLAIM-296](../../record/claims.d/CLAIM-296.md) | 33 | 3 | What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them |
 | 2026-10-15 | Proposed | [CLAIM-295](../../record/claims.d/CLAIM-295.md) | 22 | 6 | A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not |
 | 2026-10-15 | Proposed | [CLAIM-298](../../record/claims.d/CLAIM-298.md) | 16 | 2 | A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged |
 | 2026-10-15 | Proposed | [CLAIM-301](../../record/claims.d/CLAIM-301.md) | 6 | 0 | Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries |
 | 2026-10-15 | Proposed | [CLAIM-297](../../record/claims.d/CLAIM-297.md) | 4 | 0 | When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence |
-| 2026-10-15 | Proposed | [CLAIM-308](../../record/claims.d/CLAIM-308.md) | 0 | 0 | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out |
+| 2026-10-15 | Proposed | [CLAIM-313](../../record/claims.d/CLAIM-313.md) | 0 | 0 | A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries |
+| 2026-10-15 | Proposed | [CLAIM-314](../../record/claims.d/CLAIM-314.md) | 0 | 0 | Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent |
 
 ## CASEs
 
-1 of the 543.
+1 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -590,7 +607,7 @@
 
 ## TERMs
 
-2 of the 543.
+2 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -599,7 +616,7 @@
 
 ## ARGs
 
-2 of the 543.
+2 of the 560.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -610,4 +627,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (14): [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md), [ADR-043](../../record/decisions.d/ADR-043.md), [CLAIM-308](../../record/claims.d/CLAIM-308.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (15): [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [CLAIM-261](../../record/claims.d/CLAIM-261.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [CLAIM-283](../../record/claims.d/CLAIM-283.md), [CLAIM-287](../../record/claims.d/CLAIM-287.md), [ADR-043](../../record/decisions.d/ADR-043.md), [CLAIM-313](../../record/claims.d/CLAIM-313.md), [CLAIM-314](../../record/claims.d/CLAIM-314.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md) — these are the cheapest to close, since nothing depends on the answer.

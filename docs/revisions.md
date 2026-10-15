@@ -2,7 +2,7 @@
 
 # How the claims changed
 
-14 lines, walked from `supersedes:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+15 lines, walked from `supersedes:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From What fundamentally distinguishes variations of a translation is the frame from which it is delivered
 
@@ -82,3 +82,8 @@
 
 - [CLAIM-133](../record/claims.d/CLAIM-133.md) — Communicative identity is relational continuity under admissible transformation: translation transports relationally organized observational structure, correspondence fixes what can be compared, admissibility which transformations count, and fidelity which communicatively consequential distinctions remain recoverable *(Superseded)*
   - [CLAIM-139](../record/claims.d/CLAIM-139.md) — A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist *(Proposed)*
+
+## From Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
+
+- [CLAIM-306](../record/claims.d/CLAIM-306.md) — Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline *(Superseded)*
+  - [CLAIM-312](../record/claims.d/CLAIM-312.md) — "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default *(Active)*

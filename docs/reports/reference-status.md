@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**374 documents cited without acknowledgement.** Not listed: 8560 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**394 documents cited without acknowledgement.** Not listed: 8590 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-271 citations in 242 files await a look.
+273 citations in 244 files await a look.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -57,6 +57,8 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-108.md:17`](../../record/literature.d/LIT-108.md)
 - [`record/literature.d/LIT-1081.md:35`](../../record/literature.d/LIT-1081.md)
 - [`record/literature.d/LIT-1086.md:44`](../../record/literature.d/LIT-1086.md)
+- [`record/literature.d/LIT-1101.md:37`](../../record/literature.d/LIT-1101.md)
+- [`record/literature.d/LIT-1108.md:41`](../../record/literature.d/LIT-1108.md)
 - [`record/literature.d/LIT-117.md:17`](../../record/literature.d/LIT-117.md)
 - [`record/literature.d/LIT-119.md:13`](../../record/literature.d/LIT-119.md)
 - [`record/literature.d/LIT-128.md:13`](../../record/literature.d/LIT-128.md)
@@ -295,6 +297,94 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/theory.d/THEORY-035.md:61`](../../record/theory.d/THEORY-035.md)
 - [`record/theory.d/THEORY-238.md:25`](../../record/theory.d/THEORY-238.md)
 
+### [CLAIM-303](../../record/claims.d/CLAIM-303.md) — Proposed
+
+Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
+
+81 citations in 50 files await a look; 39 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1054.md:20`](../../record/literature.d/LIT-1054.md)
+- [`record/literature.d/LIT-1059.md:20`](../../record/literature.d/LIT-1059.md)
+- [`record/literature.d/LIT-1070.md:21`](../../record/literature.d/LIT-1070.md)
+- [`record/literature.d/LIT-1071.md:21`](../../record/literature.d/LIT-1071.md)
+- [`record/literature.d/LIT-1074.md:23`](../../record/literature.d/LIT-1074.md)
+- [`record/literature.d/LIT-1094.md:19`](../../record/literature.d/LIT-1094.md)
+- [`record/literature.d/LIT-1096.md:22`](../../record/literature.d/LIT-1096.md)
+- [`record/literature.d/LIT-1100.md:16`](../../record/literature.d/LIT-1100.md)
+- [`record/literature.d/LIT-1100.md:68`](../../record/literature.d/LIT-1100.md)
+- [`record/literature.d/LIT-1104.md:22`](../../record/literature.d/LIT-1104.md)
+- [`record/literature.d/LIT-1105.md:19`](../../record/literature.d/LIT-1105.md)
+- [`record/literature.d/LIT-1109.md:19`](../../record/literature.d/LIT-1109.md)
+- [`record/literature.d/LIT-1109.md:67`](../../record/literature.d/LIT-1109.md)
+- [`record/literature.d/LIT-1110.md:71`](../../record/literature.d/LIT-1110.md)
+- [`record/literature.d/LIT-1111.md:17`](../../record/literature.d/LIT-1111.md)
+- [`record/literature.d/LIT-1113.md:15`](../../record/literature.d/LIT-1113.md)
+- [`record/literature.d/LIT-1113.md:66`](../../record/literature.d/LIT-1113.md)
+- [`record/literature.d/LIT-1114.md:23`](../../record/literature.d/LIT-1114.md)
+- [`record/literature.d/LIT-1114.md:71`](../../record/literature.d/LIT-1114.md)
+- [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
+- [`record/literature.d/LIT-1116.md:68`](../../record/literature.d/LIT-1116.md)
+- [`record/literature.d/LIT-1117.md:17`](../../record/literature.d/LIT-1117.md)
+- [`record/literature.d/LIT-1118.md:18`](../../record/literature.d/LIT-1118.md)
+- [`record/literature.d/LIT-1118.md:66`](../../record/literature.d/LIT-1118.md)
+- [`record/literature.d/LIT-1119.md:18`](../../record/literature.d/LIT-1119.md)
+- [`record/notes.d/NOTE-889.md:99`](../../record/notes.d/NOTE-889.md)
+- [`record/notes.d/NOTE-892.md:335`](../../record/notes.d/NOTE-892.md)
+- [`record/notes.d/NOTE-893.md:276`](../../record/notes.d/NOTE-893.md)
+- [`record/notes.d/NOTE-895.md:36`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-895.md:92`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-895.md:94`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-895.md:101`](../../record/notes.d/NOTE-895.md)
+- [`record/notes.d/NOTE-898.md:111`](../../record/notes.d/NOTE-898.md)
+- [`record/notes.d/NOTE-904.md:31`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:94`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:96`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:97`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:98`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:105`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-906.md:41`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-906.md:220`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-906.md:223`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-906.md:230`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-906.md:240`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-907.md:151`](../../record/notes.d/NOTE-907.md)
+- [`record/notes.d/NOTE-907.md:154`](../../record/notes.d/NOTE-907.md)
+- [`record/notes.d/NOTE-907.md:168`](../../record/notes.d/NOTE-907.md)
+- [`record/notes.d/NOTE-908.md:195`](../../record/notes.d/NOTE-908.md)
+- [`record/notes.d/NOTE-908.md:198`](../../record/notes.d/NOTE-908.md)
+- [`record/notes.d/NOTE-909.md:158`](../../record/notes.d/NOTE-909.md)
+- [`record/notes.d/NOTE-909.md:160`](../../record/notes.d/NOTE-909.md)
+- [`record/notes.d/NOTE-911.md:209`](../../record/notes.d/NOTE-911.md)
+- [`record/notes.d/NOTE-911.md:212`](../../record/notes.d/NOTE-911.md)
+- [`record/notes.d/NOTE-912.md:176`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-913.md:95`](../../record/notes.d/NOTE-913.md)
+- [`record/notes.d/NOTE-915.md:112`](../../record/notes.d/NOTE-915.md)
+- [`record/notes.d/NOTE-915.md:114`](../../record/notes.d/NOTE-915.md)
+- [`record/notes.d/NOTE-915.md:115`](../../record/notes.d/NOTE-915.md)
+- [`record/notes.d/NOTE-915.md:116`](../../record/notes.d/NOTE-915.md)
+- [`record/notes.d/NOTE-920.md:84`](../../record/notes.d/NOTE-920.md)
+- [`record/notes.d/NOTE-921.md:173`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-921.md:184`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-921.md:194`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-921.md:216`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-922.md:173`](../../record/notes.d/NOTE-922.md)
+- [`record/notes.d/NOTE-922.md:182`](../../record/notes.d/NOTE-922.md)
+- [`record/theory.d/THEORY-339.md:120`](../../record/theory.d/THEORY-339.md)
+- [`record/theory.d/THEORY-355.md:123`](../../record/theory.d/THEORY-355.md)
+- [`record/theory.d/THEORY-356.md:111`](../../record/theory.d/THEORY-356.md)
+- [`record/theory.d/THEORY-362.md:89`](../../record/theory.d/THEORY-362.md)
+- [`record/theory.d/THEORY-364.md:101`](../../record/theory.d/THEORY-364.md)
+- [`record/theory.d/THEORY-367.md:110`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-367.md:111`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-373.md:102`](../../record/theory.d/THEORY-373.md)
+- [`record/theory.d/THEORY-376.md:88`](../../record/theory.d/THEORY-376.md)
+- [`record/theory.d/THEORY-377.md:104`](../../record/theory.d/THEORY-377.md)
+- [`record/theory.d/THEORY-380.md:93`](../../record/theory.d/THEORY-380.md)
+- [`record/theory.d/THEORY-382.md:104`](../../record/theory.d/THEORY-382.md)
+- [`record/theory.d/THEORY-383.md:95`](../../record/theory.d/THEORY-383.md)
+- [`record/theory.d/THEORY-386.md:92`](../../record/theory.d/THEORY-386.md)
+- [`record/theory.d/THEORY-387.md:87`](../../record/theory.d/THEORY-387.md)
+
 ### [LIT-373](../../record/literature.d/LIT-373.md) — Rejected
 
 The two dragons of cognition: recursive condensation for predictive processing
@@ -391,6 +481,43 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 - [`record/notes.d/NOTE-324.md:205`](../../record/notes.d/NOTE-324.md)
 - [`record/notes.d/NOTE-324.md:206`](../../record/notes.d/NOTE-324.md)
 
+### [CLAIM-308](../../record/claims.d/CLAIM-308.md) — Proposed
+
+Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out
+
+30 citations in 15 files await a look; 12 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1100.md:16`](../../record/literature.d/LIT-1100.md)
+- [`record/literature.d/LIT-1100.md:68`](../../record/literature.d/LIT-1100.md)
+- [`record/literature.d/LIT-1109.md:20`](../../record/literature.d/LIT-1109.md)
+- [`record/literature.d/LIT-1113.md:18`](../../record/literature.d/LIT-1113.md)
+- [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
+- [`record/literature.d/LIT-1117.md:20`](../../record/literature.d/LIT-1117.md)
+- [`record/notes.d/NOTE-904.md:31`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:101`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:103`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-904.md:104`](../../record/notes.d/NOTE-904.md)
+- [`record/notes.d/NOTE-906.md:244`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-906.md:245`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-907.md:151`](../../record/notes.d/NOTE-907.md)
+- [`record/notes.d/NOTE-907.md:178`](../../record/notes.d/NOTE-907.md)
+- [`record/notes.d/NOTE-907.md:180`](../../record/notes.d/NOTE-907.md)
+- [`record/notes.d/NOTE-909.md:158`](../../record/notes.d/NOTE-909.md)
+- [`record/notes.d/NOTE-909.md:188`](../../record/notes.d/NOTE-909.md)
+- [`record/notes.d/NOTE-909.md:189`](../../record/notes.d/NOTE-909.md)
+- [`record/notes.d/NOTE-912.md:192`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-912.md:197`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-912.md:198`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-912.md:201`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-921.md:173`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-921.md:202`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-921.md:205`](../../record/notes.d/NOTE-921.md)
+- [`record/notes.d/NOTE-922.md:189`](../../record/notes.d/NOTE-922.md)
+- [`record/notes.d/NOTE-922.md:191`](../../record/notes.d/NOTE-922.md)
+- [`record/theory.d/THEORY-375.md:81`](../../record/theory.d/THEORY-375.md)
+- [`record/theory.d/THEORY-377.md:97`](../../record/theory.d/THEORY-377.md)
+- [`record/theory.d/THEORY-386.md:95`](../../record/theory.d/THEORY-386.md)
+
 ### [THEORY-017](../../record/theory.d/THEORY-017.md) — Proposed
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
@@ -425,6 +552,40 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/theory.d/THEORY-032.md:112`](../../record/theory.d/THEORY-032.md)
 - [`record/theory.d/THEORY-041.md:52`](../../record/theory.d/THEORY-041.md)
 - [`record/theory.d/THEORY-042.md:54`](../../record/theory.d/THEORY-042.md)
+
+### [CLAIM-306](../../record/claims.d/CLAIM-306.md) — Superseded
+
+Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
+
+27 citations in 14 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-311.md:24`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-311.md:27`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-311.md:29`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-311.md:39`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-311.md:67`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-312.md:39`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:43`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:46`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:95`](../../record/claims.d/CLAIM-312.md)
+- [`record/claims.d/CLAIM-312.md:126`](../../record/claims.d/CLAIM-312.md)
+- [`record/literature.d/LIT-1087.md:19`](../../record/literature.d/LIT-1087.md)
+- [`record/literature.d/LIT-1087.md:70`](../../record/literature.d/LIT-1087.md)
+- [`record/literature.d/LIT-1087.md:72`](../../record/literature.d/LIT-1087.md)
+- [`record/literature.d/LIT-1088.md:18`](../../record/literature.d/LIT-1088.md)
+- [`record/literature.d/LIT-1088.md:69`](../../record/literature.d/LIT-1088.md)
+- [`record/literature.d/LIT-1088.md:71`](../../record/literature.d/LIT-1088.md)
+- [`record/literature.d/LIT-1104.md:23`](../../record/literature.d/LIT-1104.md)
+- [`record/literature.d/LIT-1110.md:24`](../../record/literature.d/LIT-1110.md)
+- [`record/notes.d/NOTE-894.md:85`](../../record/notes.d/NOTE-894.md)
+- [`record/notes.d/NOTE-894.md:92`](../../record/notes.d/NOTE-894.md)
+- [`record/notes.d/NOTE-899.md:165`](../../record/notes.d/NOTE-899.md)
+- [`record/notes.d/NOTE-913.md:97`](../../record/notes.d/NOTE-913.md)
+- [`record/notes.d/NOTE-920.md:86`](../../record/notes.d/NOTE-920.md)
+- [`record/theory.d/THEORY-341.md:113`](../../record/theory.d/THEORY-341.md)
+- [`record/theory.d/THEORY-358.md:113`](../../record/theory.d/THEORY-358.md)
+- [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-373.md:105`](../../record/theory.d/THEORY-373.md)
 
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
@@ -480,31 +641,6 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/theory.d/THEORY-033.md:66`](../../record/theory.d/THEORY-033.md)
 - [`record/theory.d/THEORY-039.md:72`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:84`](../../record/theory.d/THEORY-039.md)
-
-### [CLAIM-303](../../record/claims.d/CLAIM-303.md) — Proposed
-
-Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
-
-18 citations in 15 files await a look; 33 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1054.md:20`](../../record/literature.d/LIT-1054.md)
-- [`record/literature.d/LIT-1059.md:20`](../../record/literature.d/LIT-1059.md)
-- [`record/literature.d/LIT-1070.md:21`](../../record/literature.d/LIT-1070.md)
-- [`record/literature.d/LIT-1071.md:21`](../../record/literature.d/LIT-1071.md)
-- [`record/literature.d/LIT-1074.md:23`](../../record/literature.d/LIT-1074.md)
-- [`record/literature.d/LIT-1094.md:19`](../../record/literature.d/LIT-1094.md)
-- [`record/literature.d/LIT-1096.md:22`](../../record/literature.d/LIT-1096.md)
-- [`record/notes.d/NOTE-889.md:99`](../../record/notes.d/NOTE-889.md)
-- [`record/notes.d/NOTE-892.md:335`](../../record/notes.d/NOTE-892.md)
-- [`record/notes.d/NOTE-893.md:276`](../../record/notes.d/NOTE-893.md)
-- [`record/notes.d/NOTE-895.md:36`](../../record/notes.d/NOTE-895.md)
-- [`record/notes.d/NOTE-895.md:92`](../../record/notes.d/NOTE-895.md)
-- [`record/notes.d/NOTE-895.md:94`](../../record/notes.d/NOTE-895.md)
-- [`record/notes.d/NOTE-895.md:101`](../../record/notes.d/NOTE-895.md)
-- [`record/notes.d/NOTE-898.md:111`](../../record/notes.d/NOTE-898.md)
-- [`record/theory.d/THEORY-339.md:120`](../../record/theory.d/THEORY-339.md)
-- [`record/theory.d/THEORY-355.md:123`](../../record/theory.d/THEORY-355.md)
-- [`record/theory.d/THEORY-356.md:111`](../../record/theory.d/THEORY-356.md)
 
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
@@ -575,6 +711,28 @@ In the topos programme quantum propositions form a distributive Heyting algebra,
 - [`record/notes.d/NOTE-334.md:147`](../../record/notes.d/NOTE-334.md)
 - [`record/questions.d/QUESTION-055.md:21`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-055.md:37`](../../record/questions.d/QUESTION-055.md)
+
+### [THEORY-332](../../record/theory.d/THEORY-332.md) — Proposed
+
+For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
+
+15 citations in 14 files await a look.
+
+- [`record/literature.d/LIT-1105.md:18`](../../record/literature.d/LIT-1105.md)
+- [`record/notes.d/NOTE-906.md:193`](../../record/notes.d/NOTE-906.md)
+- [`record/notes.d/NOTE-908.md:188`](../../record/notes.d/NOTE-908.md)
+- [`record/notes.d/NOTE-911.md:191`](../../record/notes.d/NOTE-911.md)
+- [`record/notes.d/NOTE-912.md:162`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-912.md:164`](../../record/notes.d/NOTE-912.md)
+- [`record/notes.d/NOTE-922.md:169`](../../record/notes.d/NOTE-922.md)
+- [`record/questions.d/QUESTION-114.md:324`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-333.md:108`](../../record/theory.d/THEORY-333.md)
+- [`record/theory.d/THEORY-350.md:104`](../../record/theory.d/THEORY-350.md)
+- [`record/theory.d/THEORY-377.md:101`](../../record/theory.d/THEORY-377.md)
+- [`record/theory.d/THEORY-378.md:114`](../../record/theory.d/THEORY-378.md)
+- [`record/theory.d/THEORY-382.md:97`](../../record/theory.d/THEORY-382.md)
+- [`record/theory.d/THEORY-383.md:92`](../../record/theory.d/THEORY-383.md)
+- [`record/theory.d/THEORY-386.md:88`](../../record/theory.d/THEORY-386.md)
 
 ### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
 
@@ -1850,6 +2008,17 @@ A network of threshold units with symmetric Hebbian couplings is a content-addre
 - [`record/notes.d/NOTE-819.md:242`](../../record/notes.d/NOTE-819.md)
 - [`record/theory.d/THEORY-261.md:85`](../../record/theory.d/THEORY-261.md)
 
+### [THEORY-374](../../record/theory.d/THEORY-374.md) — Proposed
+
+Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
+
+4 citations in 3 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
+- [`record/questions.d/QUESTION-114.md:335`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
+- [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
+
 ### [CLAIM-037](../../record/claims.d/CLAIM-037.md) — Proposed
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
@@ -1944,7 +2113,7 @@ Blackwell's order bounds what a rendering makes possible for any receiver, and a
 
 What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them
 
-3 citations in 3 files await a look; 29 other citations of it are acknowledged.
+3 citations in 3 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1058.md:23`](../../record/literature.d/LIT-1058.md)
 - [`record/theory.d/THEORY-346.md:108`](../../record/theory.d/THEORY-346.md)
@@ -1988,7 +2157,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:161`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:174`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-342](../../record/literature.d/LIT-342.md) — Unavailable
 
@@ -2229,6 +2398,76 @@ Selective accessibility, the account that comparing a target with a plausible an
 - [`record/theory.d/THEORY-337.md:24`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:70`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:91`](../../record/theory.d/THEORY-337.md)
+
+### [THEORY-362](../../record/theory.d/THEORY-362.md) — Proposed
+
+For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations is stated to suffice to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and counting is set aside for recursive views because counts can be infinite
+
+3 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1114.md:15`](../../record/literature.d/LIT-1114.md)
+- [`record/questions.d/QUESTION-105.md:71`](../../record/questions.d/QUESTION-105.md)
+- [`record/theory.d/THEORY-387.md:83`](../../record/theory.d/THEORY-387.md)
+
+### [THEORY-367](../../record/theory.d/THEORY-367.md) — Proposed
+
+For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries
+
+3 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1104.md:17`](../../record/literature.d/LIT-1104.md)
+- [`record/questions.d/QUESTION-105.md:77`](../../record/questions.d/QUESTION-105.md)
+- [`record/theory.d/THEORY-373.md:107`](../../record/theory.d/THEORY-373.md)
+
+### [THEORY-368](../../record/theory.d/THEORY-368.md) — Proposed
+
+On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
+
+3 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-370.md:101`](../../record/theory.d/THEORY-370.md)
+- [`record/theory.d/THEORY-384.md:64`](../../record/theory.d/THEORY-384.md)
+- [`record/theory.d/THEORY-384.md:82`](../../record/theory.d/THEORY-384.md)
+
+### [THEORY-375](../../record/theory.d/THEORY-375.md) — Proposed
+
+In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved
+
+3 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
+- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
+
+### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
+
+In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged
+
+3 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
+- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
+
+### [THEORY-377](../../record/theory.d/THEORY-377.md) — Proposed
+
+A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved
+
+3 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1109.md:16`](../../record/literature.d/LIT-1109.md)
+- [`record/theory.d/THEORY-364.md:97`](../../record/theory.d/THEORY-364.md)
+- [`record/theory.d/THEORY-386.md:90`](../../record/theory.d/THEORY-386.md)
+
+### [THEORY-387](../../record/theory.d/THEORY-387.md) — Proposed
+
+For recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from the remaining relations, then adding what insertions derive, is stated to leave exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the proof and the extension to stratified negation and aggregation are referred to an unpublished report, and the size of the overestimate is not measured
+
+3 citations in 3 files await a look.
+
+- [`record/literature.d/LIT-1114.md:17`](../../record/literature.d/LIT-1114.md)
+- [`record/questions.d/QUESTION-105.md:73`](../../record/questions.d/QUESTION-105.md)
+- [`record/theory.d/THEORY-362.md:91`](../../record/theory.d/THEORY-362.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -2508,6 +2747,24 @@ A note on computational indistinguishability
 
 - [`record/claims.d/CLAIM-302.md:76`](../../record/claims.d/CLAIM-302.md)
 - [`record/theory.d/THEORY-352.md:105`](../../record/theory.d/THEORY-352.md)
+
+### [LIT-1101](../../record/literature.d/LIT-1101.md) — Unavailable
+
+Effective Page Refresh Policies for Web Crawlers
+
+2 citations in 2 files await a look.
+
+- [`record/questions.d/QUESTION-114.md:317`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
+
+### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
+
+Combining Fuzzy Information from Multiple Systems
+
+2 citations in 2 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
+- [`record/questions.d/QUESTION-114.md:352`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -3220,15 +3477,6 @@ Hermeneutical injustice is having a significant area of one's social experience 
 - [`record/theory.d/THEORY-317.md:28`](../../record/theory.d/THEORY-317.md)
 - [`record/theory.d/THEORY-317.md:101`](../../record/theory.d/THEORY-317.md)
 
-### [THEORY-332](../../record/theory.d/THEORY-332.md) — Proposed
-
-For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-333.md:108`](../../record/theory.d/THEORY-333.md)
-- [`record/theory.d/THEORY-350.md:104`](../../record/theory.d/THEORY-350.md)
-
 ### [THEORY-333](../../record/theory.d/THEORY-333.md) — Proposed
 
 Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested
@@ -3273,6 +3521,60 @@ Tetris players rotate pieces more often and earlier than planning a placement an
 
 - [`record/theory.d/THEORY-334.md:112`](../../record/theory.d/THEORY-334.md)
 - [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
+
+### [THEORY-365](../../record/theory.d/THEORY-365.md) — Proposed
+
+A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, makes greedy search cost grow about logarithmically with the number of items on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
+
+2 citations in 2 files await a look.
+
+- [`record/questions.d/QUESTION-114.md:350`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-385.md:95`](../../record/theory.d/THEORY-385.md)
+
+### [THEORY-369](../../record/theory.d/THEORY-369.md) — Proposed
+
+Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/questions.d/QUESTION-114.md:347`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-366.md:111`](../../record/theory.d/THEORY-366.md)
+
+### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
+
+When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed
+
+2 citations in 2 files await a look.
+
+- [`record/theory.d/THEORY-361.md:84`](../../record/theory.d/THEORY-361.md)
+- [`record/theory.d/THEORY-363.md:105`](../../record/theory.d/THEORY-363.md)
+
+### [THEORY-380](../../record/theory.d/THEORY-380.md) — Proposed
+
+For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules
+
+2 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1110.md:15`](../../record/literature.d/LIT-1110.md)
+- [`record/questions.d/QUESTION-105.md:76`](../../record/questions.d/QUESTION-105.md)
+
+### [THEORY-382](../../record/theory.d/THEORY-382.md) — Proposed
+
+When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, held freshness near the threshold, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown
+
+2 citations in 2 files await a look.
+
+- [`record/questions.d/QUESTION-114.md:323`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-383.md:97`](../../record/theory.d/THEORY-383.md)
+
+### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
+
+On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either
+
+2 citations in 2 files await a look.
+
+- [`record/questions.d/QUESTION-114.md:326`](../../record/questions.d/QUESTION-114.md)
+- [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Deferred
 
@@ -3545,6 +3847,14 @@ Philosophy of Mathematics and Natural Science
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-329.md:62`](../../record/literature.d/LIT-329.md)
+
+### [LIT-1081](../../record/literature.d/LIT-1081.md) — Unavailable
+
+Visual search and stimulus similarity
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-924.md:274`](../../record/notes.d/NOTE-924.md)
 
 ### [LIT-128](../../record/literature.d/LIT-128.md) — Unavailable
 
@@ -4194,6 +4504,14 @@ Cognitive mechanisms can be derived as the one, among those a brain can execute,
 
 - [`record/theory.d/THEORY-343.md:132`](../../record/theory.d/THEORY-343.md)
 
+### [THEORY-385](../../record/theory.d/THEORY-385.md) — Proposed
+
+In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/theory.d/THEORY-365.md:119`](../../record/theory.d/THEORY-365.md)
+
 ## Codes that resolve to no document
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
@@ -4294,3 +4612,6 @@ None. Every scanned file is checked. ✅
 - record/terms.d/TERM-028.md:27: annotation no longer applies — nothing in scope cites CLAIM-026
 - record/terms.d/TERM-031.md:26: annotation no longer applies — nothing in scope cites TERM-016
 - record/theory.d/THEORY-167.md:39: annotation no longer applies — nothing in scope cites LIT-775
+- record/theory.d/THEORY-363.md:32: annotation no longer applies — nothing in scope cites LIT-1108
+- record/theory.d/THEORY-365.md:40: annotation no longer applies — LIT-1098, LIT-1103, LIT-1112 is Active now
+- record/theory.d/THEORY-385.md:34: annotation no longer applies — LIT-1098 is Active now

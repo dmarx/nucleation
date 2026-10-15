@@ -24,9 +24,9 @@ answered_by:
 - CLAIM-294
 - THEORY-347
 - THEORY-353
-- THEORY-tmp2ber8
-- THEORY-tmpeqxfa
-- THEORY-tmptzp8y
+- THEORY-362
+- THEORY-373
+- THEORY-387
 ---
 
 # QUESTION-105: What is the least an evolving inquiry must retain to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?
@@ -68,13 +68,13 @@ maintenance systems, which the survey mentions only historically.
 **Database readings, 2026-10-15.** Three readings answer the question for
 revisions given as changes to base facts under a fixed program. For
 acyclic support, one count of derivations per conclusion suffices
-(Gupta, Mumick and Subrahmanian 1993, [LIT-tmpoi6js](../literature.d/LIT-tmpoi6js.md), [NOTE-tmpgv5ap](../notes.d/NOTE-tmpgv5ap.md), [THEORY-tmp2ber8](../theory.d/THEORY-tmp2ber8.md)); for cyclic
+(Gupta, Mumick and Subrahmanian 1993, [LIT-1114](../literature.d/LIT-1114.md), [NOTE-915](../notes.d/NOTE-915.md), [THEORY-362](../theory.d/THEORY-362.md)); for cyclic
 support, nothing beyond base, rules and stored results is kept, and
-support is rechecked at revision time ([THEORY-tmptzp8y](../theory.d/THEORY-tmptzp8y.md)). Provenance polynomials
-(Green, Karvounarakis and Tannen 2007, [LIT-tmpjckak](../literature.d/LIT-tmpjckak.md), [NOTE-tmpc5ict](../notes.d/NOTE-tmpc5ict.md)) suffice for every
+support is rechecked at revision time ([THEORY-387](../theory.d/THEORY-387.md)). Provenance polynomials
+(Green, Karvounarakis and Tannen 2007, [LIT-1110](../literature.d/LIT-1110.md), [NOTE-913](../notes.d/NOTE-913.md)) suffice for every
 revision that re-scores existing inputs in a commutative semiring, for
-positive queries ([THEORY-tmpeqxfa](../theory.d/THEORY-tmpeqxfa.md), [THEORY-tmplwy86](../theory.d/THEORY-tmplwy86.md)); why-provenance as a witness basis
-(Buneman, Khanna and Tan 2001, [LIT-tmp8m5l3](../literature.d/LIT-tmp8m5l3.md), [NOTE-tmpxim6c](../notes.d/NOTE-tmpxim6c.md), [THEORY-tmpbyiv8](../theory.d/THEORY-tmpbyiv8.md)) keeps one witness per
+positive queries ([THEORY-373](../theory.d/THEORY-373.md), [THEORY-380](../theory.d/THEORY-380.md)); why-provenance as a witness basis
+(Buneman, Khanna and Tan 2001, [LIT-1104](../literature.d/LIT-1104.md), [NOTE-920](../notes.d/NOTE-920.md), [THEORY-367](../theory.d/THEORY-367.md)) keeps one witness per
 derivation. None covers added facts, defeat or contraction, and none
 proves minimality, so the question's optimum is still open. The
 retained structures are provenance and dependencies, not defeated

@@ -27,9 +27,9 @@ summary: >-
   time.
 supports:
 - CLAIM-306
-- CLAIM-tmpfpvgq
+- CLAIM-312
 ---
-<!-- inactive-ok-file: THEORY-tmpg43pg — Proposed; a survey's report of unread work, cited as such -->
+<!-- inactive-ok-file: THEORY-374 — Proposed; a survey's report of unread work, cited as such -->
 
 # THEORY-341: Inferring not-P from failure to prove P is a deduction only under two separate conditions: Clark shows that when every branch of the search for a proof of P ends in failure, not-P is a theorem of the completed database, and a search that does not finish licenses nothing; Reiter's closed-world assumption, adding the negation of every ground atom the database does not entail, keeps a consistent Horn database consistent and can make a disjunctive one inconsistent
 
@@ -118,9 +118,9 @@ seen).
   not a closed-world inference.
 - The search-time asymmetry the claim adds is [THEORY-358](THEORY-358.md)'s absent-trial
   result, not these papers'.
-- [THEORY-tmpg43pg](THEORY-tmpg43pg.md) (Halevy's survey, reporting Abiteboul and Duschka 1998,
+- [THEORY-374](THEORY-374.md) (Halevy's survey, reporting Abiteboul and Duschka 1998,
   unread): answering a query from stored partial views is co-NP-hard under
   the closed-world assumption even for conjunctive views, where it is often
   polynomial under the open-world one. The assumption that makes negation
   cheap in a complete database makes answering from incomplete stored
-  answers harder. [CLAIM-tmpfpvgq](../claims.d/CLAIM-tmpfpvgq.md) uses this.
+  answers harder. [CLAIM-312](../claims.d/CLAIM-312.md) uses this.

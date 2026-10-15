@@ -26,8 +26,8 @@ complements:
 - CLAIM-185
 - CLAIM-182
 grounds:
-- THEORY-tmpsvwtz
-- THEORY-tmpxw8fg
+- THEORY-386
+- THEORY-389
 summary: >-
   A11, at the owner's request for "content to the effect of computation-storage
   tradeoffs". A11's four expenditures (materialization, indexing, dependency tracking,

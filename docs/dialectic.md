@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-38 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+40 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -276,3 +276,14 @@
 
 - [CLAIM-303](../record/claims.d/CLAIM-303.md) — Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion *(thesis, Proposed)*
   - [CLAIM-308](../record/claims.d/CLAIM-308.md) — Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out *(counter, Proposed)*
+    - [CLAIM-314](../record/claims.d/CLAIM-314.md) — Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent *(counter, Proposed)*
+
+## From Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline
+
+- [CLAIM-306](../record/claims.d/CLAIM-306.md) — Under a deadline, search can establish presence by finding one item but absence only by exhausting the collection, so "If I can't find it, it isn't there" acts on an unfinished search as negation as failure acts on a finished one: a default stronger than either the closed-world assumption or negation as failure, safe only when the arrangement makes the full search finish within the deadline *(thesis, Superseded)*
+  - [CLAIM-311](../record/claims.d/CLAIM-311.md) — A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists *(counter, Active)*
+
+## From Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition, and which costs least depends on what is searched for and on what stands out within a bin
+
+- [CLAIM-310](../record/claims.d/CLAIM-310.md) — Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition, and which costs least depends on what is searched for and on what stands out within a bin *(thesis, Active)*
+  - [CLAIM-313](../record/claims.d/CLAIM-313.md) — A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries *(counter, Proposed)*
