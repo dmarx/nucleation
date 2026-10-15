@@ -1,19 +1,40 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
   filed 2026-10-15, not read. Registered from the exchange of 2026-10-14 on prompting,
   epistemic memory and retrieval (the workbench entry of 2026-10-15). No NOTE is
-  filed and no search for a copy has been made.
+  filed, and it stays Unavailable until it is read, not on merit. Looked for a lawful
+  full text on 2026-10-15 and found none that could be fetched: Unpaywall reports
+  it closed (no open-access location, no repository copy) and OpenAlex likewise
+  (closed, no repository full text); the Semantic Scholar API gives no openAccessPdf
+  (status CLOSED, abstract elided by the publisher); Crossref lists only Elsevier
+  text-mining links (api.elsevier.com, PII S0022103198913646) under Elsevier's TDM
+  user licence, which refused an unkeyed request, and ScienceDirect refused direct
+  requests from this environment (403), so whether the article sits in Elsevier's
+  open archive could not be checked there, though Unpaywall and OpenAlex, which
+  track that archive, record no free copy; London Business School Research Online,
+  Mussweiler's institutional repository, holds other anchoring papers of his (eprint
+  620, "Anchoring: accessibility as a cause of judgmental assimilation") but not
+  this one, and the London Business School publication page for it returns 404,
+  with its Internet Archive capture (2023-09-26) unreachable from this environment;
+  web searches found no copy on Mussweiler's or Strack's institutional pages (London,
+  Cologne, Würzburg), no course-hosted copy and no preprint. A ResearchGate entry
+  (publication 253136010) advertises a full text, but ResearchGate refused the request
+  (403) and who uploaded it could not be confirmed, so it was not used. The 1997
+  companion paper (LIT-tmpkn9x0) and the later "Comparing is believing" review (European
+  Review of Social Psychology 10, 1999) are different works.
 title: 'Hypothesis-Consistent Testing and Semantic Priming in the Anchoring Paradigm:
   A Selective Accessibility Model'
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref
-    gives March 1999, so `published:` is the first of the month. Not held in the
-    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2)
-    for the authors and the title found nothing.'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-15: Crossref gives
+    March 1999, so `published:` is the first of the month. Not held in the Anthology
+    of the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for
+    the authors and the title found nothing. Set Unavailable the same day under
+    ADR-041, the search having found no lawful copy that could be fetched.
 tags:
 - cognition
 - social-science

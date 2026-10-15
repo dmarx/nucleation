@@ -75,3 +75,17 @@ revision competence this way, is [CLAIM-tmp7t44x](CLAIM-tmp7t44x.md) and stays P
   another. A18: "Showing that a conclusion-only summary fails on a
   revision task does not establish that a justification graph
   succeeds."
+
+## The same point in belief-revision logic (note of 2026-10-15)
+
+Two readings filed the same day give the full-belief form of this claim.
+Hansson's survey (LIT-tmpr5312, read in NOTE-tmp689da): bases {p, q} and
+{p, p ↔ q} have the same closure, yet after revision by ¬p one agent
+believes q and the other ¬q. The bases are "statically equivalent" and not
+"dynamically equivalent". In AGM (LIT-tmp0f102, read in NOTE-tmpo6kr8) the
+closed theory alone does not determine a revision; a selection function
+over its remainders must be added. Both match this claim's caveat: a
+richer current state, a base or an ordering, suffices for one revision.
+Neither is a record of what a belief depended on, so neither supports
+reading this claim as an argument for keeping justifications (CLAIM-tmp7t44x's
+question, not this one's).

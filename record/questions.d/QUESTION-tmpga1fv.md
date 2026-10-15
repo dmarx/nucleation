@@ -45,5 +45,15 @@ family of synthetic inquiries and compares it with explicit record
 formats. A5: "The interesting result might be that justification graphs
 are sometimes approximately sufficient—or that they are systematically
 missing crucial information. Either outcome would advance the theory."
-The belief-revision literature's distinction between belief sets and
-belief bases ([LIT-tmpr5312](../literature.d/LIT-tmpr5312.md), unread) is where an answer would start.
+The belief-revision literature has a one-step answer for full belief, and
+it narrows the question rather than starting it. A closed belief set does
+not fix its own revision: AGM adds a selection function or ordering
+(LIT-tmp0f102, read in NOTE-tmpo6kr8), and Hansson's survey shows two bases
+with the same closure revising to opposite conclusions (LIT-tmpr5312, read
+in NOTE-tmp689da). Two retained states do the job there, a base marking
+which beliefs are held in their own right, or an ordering on the closed
+set. Neither is provenance, dependencies or defeated alternatives, which
+are what this question asks about, and both results concern single
+revisions. For iterated revision Hansson reports that "opinions differ
+widely". The structures the question names are nearer to Doyle's truth
+maintenance systems, which the survey mentions only historically.

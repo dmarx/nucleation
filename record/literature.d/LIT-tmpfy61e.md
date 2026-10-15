@@ -1,17 +1,40 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-15, not read. Registered from the exchange of 2026-10-14 on prompting,
-  epistemic memory and retrieval (the workbench entry of 2026-10-15). No NOTE is
-  filed and no search for a copy has been made.
+  read in part 2026-10-15 (Skimmed), and not in its printed form. The text read
+  is the author's 1995 draft, "Foundations of Cryptography (Fragments of a Book)"
+  (23 February 1995, with the "Additional Fragment (Nr. 1)" of 9 February 1996),
+  which Goldreich posted through ECCC (eccc.weizmann.ac.il/static/books/Foundations_of_Cryptography_Fragments_of_a_Book/;
+  PDF at eccc.weizmann.ac.il/resources/pdf/foc.pdf, 305 pp.). The draft's Chapters
+  1–3 were read in full; its zero-knowledge chapter, the 1989 annotated references
+  and the 1996 addendum were not. The 2001 Cambridge text (DOI 10.1017/CBO9780511546891)
+  is closed: Unpaywall and OpenAlex list no open location. The author's own pages
+  (wisdom.weizmann.ac.il/~oded/foc-book.html and related) and the Internet Archive's
+  capture of foc-book.html could not be reached from this environment. Worth reading
+  as the standard source of the definitions of computational indistinguishability
+  (Def. 3.2) and of a pseudorandom generator (Def. 3.9), and for the result that
+  the first is strictly coarser than statistical closeness. For CASE-tmp51hxx it
+  confirms each ingredient: the generator definition, the 2⁻ⁿ image count (§3.3.1,
+  stated there only as Δ ≥ ½ with Δ the unhalved sum; the count reappears in the
+  proof of Prop. 3.13), and closure under efficient post-processing, which is set
+  as Exercise 1 of §3.8.4 rather than proved. For CLAIM-tmpvdl53 it shows that the
+  separation itself needs no assumption: Prop. 3.3 gives, by counting, an ensemble
+  on at most 2^(n/2) strings that no polynomial-time test tells from uniform. Generators,
+  or equivalently one-way functions, are needed only for an efficiently samplable
+  pair (Goldreich 1990, cited in §3.8.2). Indistinguishability is defined only for
+  ensembles indexed by n, never for a single pair of distributions. For CLAIM-tmpzk2fj
+  it supplies the definitions; the encoding is the record's own. Section numbers
+  are the draft's; the printed volume (Ch. 3 at pp. 101–183) was not checked.
 title: Foundations of Cryptography
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: 'Filed, not read. Citation checked against Crossref on 2026-10-15, which
-    gives 6 August 2001. Not held in the Anthology of the SOTA: a grep of its record/
-    (clone of 2026-10-15, commit d1573d2) for the authors and the title found nothing.'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-15, which gives
+    6 August 2001. Not held in the Anthology of the SOTA: a grep of its record/
+    (clone of 2026-10-15, commit d1573d2) for the authors and the title found nothing.
+    Skimmed the same day (NOTE-tmp0pfk1).
 tags:
 - mathematics
 - information-theory
@@ -37,8 +60,9 @@ supports:
 
 Goldreich, O. (2001). *Foundations of Cryptography*, Volume 1: Basic Tools. Cambridge University Press. DOI 10.1017/CBO9780511546891
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+Skimmed (NOTE-tmp0pfk1). In the 1995 draft of Volume 1, computational indistinguishability is a strictly coarser equivalence than statistical closeness, and the book proves this two ways. Proposition 3.3 does it unconditionally: a counting argument shows there are ensembles supported on at most 2^(n/2) strings that no circuit of size 2^(n/8) tells from uniform with gap 2^(−n/8) or more, but such an ensemble cannot be sampled efficiently. §3.3.1 shows that the output of any pseudorandom generator is statistically far from uniform yet, by definition, indistinguishable from it. That witness is efficiently samplable, and it needs pseudorandom generators, which exist if and only if one-way functions do (Theorem 3.29, stated without proof). That efficient post-processing preserves indistinguishability is set as Exercise 1 of §3.8.4, not proved in the text. All of this is asymptotic, about ensembles indexed by n, not about single pairs of distributions.
 
 ## Why this is here
 

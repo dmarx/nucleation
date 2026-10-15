@@ -13,8 +13,10 @@ date: '2026-10-15'
 line: formal-apparatus
 summary: >-
   A15 §2's witness, which A15 recommended filing "with its cryptographic assumption
-  explicitly stated". It grounds [CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md) and, by the record's own reduction,
-  [CLAIM-tmpzk2fj](../claims.d/CLAIM-tmpzk2fj.md).
+  explicitly stated". It grounds [CLAIM-tmpvdl53](../claims.d/CLAIM-tmpvdl53.md)
+  and, by the record's own reduction, [CLAIM-tmpzk2fj](../claims.d/CLAIM-tmpzk2fj.md).
+  Checked against Goldreich (note of 2026-10-15): the definitions match, and the
+  separation needs the generator only for samplability.
 supports:
 - CLAIM-tmpvdl53
 - CLAIM-tmpzk2fj
@@ -36,7 +38,28 @@ That statistical difference does not imply efficient distinguishability,
 and so that agreement under feasible tests does not imply identity of
 the distributions. A15: "This is conditional on the existence of a
 secure generator, not an unconditional theorem that a specific practical
-generator is secure."
+generator is secure." The conditional attaches to this samplable witness;
+the separation itself holds unconditionally (CLAIM-tmpvdl53).
+
+## What the source says (note of 2026-10-15)
+
+Read against Goldreich's 1995 draft of *Foundations of Cryptography*
+(LIT-tmpfy61e): the indistinguishability and generator definitions are its
+Definitions 3.2 and 3.9 (with l(n) = 2n). Three qualifications.
+
+- **The objects are ensembles**, indexed by n. "Negligible" has no meaning
+  for one pair.
+- **The book's bound is weaker and its convention different.** §3.3.1
+  states only that a generator's output is at least ½ away from uniform,
+  in a "statistical difference" without the factor ½ of total variation.
+  The 1 − 2⁻ⁿ above follows from the same counting with stretch 2n.
+- **Postprocessing** preserving indistinguishability is set as an
+  exercise (§3.8.4, Exercise 1), not proved in the text.
+
+The book also has the stronger fact this case does not need: Proposition
+3.3 gives, with no assumption, an ensemble far from uniform that no
+polynomial-size test separates. That ensemble cannot be sampled
+efficiently. What the generator adds is a witness that can.
 
 ## What it cannot show
 
