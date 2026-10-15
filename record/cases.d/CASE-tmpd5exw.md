@@ -83,7 +83,12 @@ there".
 - **A bin is made when the item is found.** The practice described is
   setting a hard-to-find brick aside once it has been found, so the
   extra cost of the new bin is small. That bears on [QUESTION-095](../questions.d/QUESTION-095.md):
-  sorting spends search once against later retrievals ([QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md)).
+  sorting spends search once against later retrievals ([QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md)). Sleator and
+  Tarjan ([LIT-tmpt85t0](../literature.d/LIT-tmpt85t0.md), read) give the practice a bound. For one pile
+  searched from the top, moving each found item to the top costs at most
+  twice what any rule costs on the same requests, even one that knows them
+  in advance. Paying to rearrange ahead of need never beats it. Bins are
+  outside their model.
 
 ## What it cannot show
 

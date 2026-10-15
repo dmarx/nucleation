@@ -1,17 +1,33 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-15, not read. Registered at the owner's request for [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md),
-  from the survey of database physical design recorded there. A reading is in progress.
+  read in full 2026-10-15 from the publisher's typeset PDF (ACM TODS 13(1), pp.
+  91–128), which ACM serves free at dl.acm.org/doi/pdf/10.1145/42201.42205 (bronze)
+  but which refused requests from this environment (HTTP 403; the Internet Archive
+  capture could not be fetched), so the copy was the same ACM PDF as posted by the
+  University of Crete course CS-460 (www.csd.uoc.gr/~hy460/pdf/p91-finkelstein.pdf).
+  Worth reading as the classic statement of index selection as a workload-weighted
+  cost model: one clustered order per table ("records can be ordered only one way")
+  plus secondary indices, chosen to minimise the weighted sum of access, tuple-update
+  and index-maintenance costs plus weighted storage under a page limit, with every
+  cost taken from the optimizer's own estimates; exact over atomic configurations
+  and optimal only relative to those estimates, with heuristic pruning and no measurement
+  of actual execution. For [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md) it supplies the joint model for standing
+  arrangements (bins, filed items), but it has no term for the one-time cost of
+  sorting or building an index and does not cover precomputed answers (speed bugs,
+  reused inferences); for [CLAIM-tmpjmtw0](../claims.d/CLAIM-tmpjmtw0.md) it is an instance of "one arrangement"
+  and of dependence on the query mix, has no analogue of a bin budget k, and nothing
+  corresponding to pop-out within a bin.
 title: Physical database design for relational databases
 version: 1
 history:
 - version: 1
   date: '2026-10-15'
-  note: 'Filed, not read. Citation checked against Crossref (or the proceedings
-    page) on 2026-10-15: Crossref gives March 1988. Not held in the Anthology of
-    the SOTA: a grep of its record/ (clone of 2026-10-15, commit d1573d2) for the
-    authors and the title found nothing.'
+  note: >-
+    Filed, not read. Citation checked against Crossref (or the proceedings page)
+    on 2026-10-15: Crossref gives March 1988. Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-15, commit d1573d2) for the authors
+    and the title found nothing. Read the same day (NOTE-tmphbty9).
 tags:
 - information-retrieval
 date: '2026-10-15'
@@ -21,10 +37,21 @@ first_author: Finkelstein
 keywords: []
 implementations: []
 summary: >-
-  Finkelstein, Schkolnick and Tiberio (1988), ACM TODS 13(1). Registered for [QUESTION-tmplg07t](../questions.d/QUESTION-tmplg07t.md)
-  as the standard cost model of physical database design: choosing indexes and one
-  clustered order per table against a query workload, weighing query benefit against
-  update and storage cost.
+  Finkelstein, Schkolnick and Tiberio (1988), ACM TODS 13(1). DBDSGN chooses, for
+  each table, one clustered (ordering) index and a set of nonclustered indices to
+  minimise a frequency-weighted sum of per-statement costs (access, tuple update,
+  index maintenance) plus a weighted storage term, under an optional page limit,
+  taking every cost from the System R optimizer's own estimates rather than an external
+  model. Statement costs for any configuration are computed exactly from "atomic"
+  configurations with at most one index per table (Propositions 1 and 2), so the
+  optimizer is consulted a linear rather than exponential number of times per table;
+  with no elimination heuristics and a full search the tool finds the optimum, but
+  only with respect to the optimizer's estimates. The paper gives one worked example
+  and no measurement of actual execution, and its claims that the heuristics usually
+  find the best solutions are not backed by reported data. The model is steady-state
+  over a period: it has no term for the one-time cost of building an index or sorting
+  a table, so it prices upkeep against retrieval, not a one-off sort against later
+  retrievals.
 ---
 
 # LIT-tmpbs1gh: Physical database design for relational databases
@@ -33,7 +60,7 @@ Finkelstein, S., Schkolnick, M. and Tiberio, P. (1988). Physical database design
 
 ## Key takeaways
 
-Not read yet.
+Read in full ([NOTE-tmphbty9](../notes.d/NOTE-tmphbty9.md)). DBDSGN chooses, for each table, one clustered (ordering) index and a set of nonclustered indices to minimise a frequency-weighted sum of per-statement costs (access, tuple update, index maintenance) plus a weighted storage term, under an optional page limit, taking every cost from the System R optimizer's own estimates rather than an external model. Statement costs for any configuration are computed exactly from "atomic" configurations with at most one index per table (Propositions 1 and 2), so the optimizer is consulted a linear rather than exponential number of times per table; with no elimination heuristics and a full search the tool finds the optimum, but only with respect to the optimizer's estimates. The paper gives one worked example and no measurement of actual execution, and its claims that the heuristics usually find the best solutions are not backed by reported data. The model is steady-state over a period: it has no term for the one-time cost of building an index or sorting a table, so it prices upkeep against retrieval, not a one-off sort against later retrievals.
 
 ## Why this is here
 
