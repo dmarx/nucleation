@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-22 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+23 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -239,6 +239,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-373](../record/theory.d/THEORY-373.md) — For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation *(Active)*
   - [THEORY-380](../record/theory.d/THEORY-380.md) — For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules *(Proposed)*
+
+### From A random linear map into k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n dimensions keeps every pairwise squared distance of a fixed set of n points in ℓ₂ within 1 ± ε, because each difference vector's squared length concentrates with tails exp(−(k/2)(ε²/2 − ε³/3)) and a union bound over the pairs costs only ln n; the proofs cover a random subspace, Gaussian entries and independent zero-mean ±1 or √3·{+1, 0, −1} entries, and no matrix with nonnegative entries
+
+- [THEORY-397](../record/theory.d/THEORY-397.md) — A random linear map into k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n dimensions keeps every pairwise squared distance of a fixed set of n points in ℓ₂ within 1 ± ε, because each difference vector's squared length concentrates with tails exp(−(k/2)(ε²/2 − ε³/3)) and a union bound over the pairs costs only ln n; the proofs cover a random subspace, Gaussian entries and independent zero-mean ±1 or √3·{+1, 0, −1} entries, and no matrix with nonnegative entries *(Active)*
+  - [THEORY-395](../record/theory.d/THEORY-395.md) — For ε between about lg^0.5001 n/√min{n, d} and 1, some n-point set in ℝ^d needs Ω(ε⁻² lg(ε²n)) dimensions under any map, linear or not, that keeps its pairwise squared distances within 1 ± ε, so a random projection with a union bound is optimal up to a constant for the worst set; nearly orthogonal sets can need fewer, and the bound says nothing about typical data *(Active)*
+    - [THEORY-399](../record/theory.d/THEORY-399.md) — Storing every inner product of n points of the unit ball of R^k to additive error ε takes Θ(n log n/ε²) bits once k ≥ log n/ε² and Θ(nk log(2 + log n/(ε²k))) below, for 1/n^0.49 ≤ ε ≤ 0.1, and comparing these counts across dimensions shows that some n such points cannot be mapped into fewer than Ω(min{k, log(2 + ε²n)/ε²}) dimensions with additive error ε for every ε ≥ 2/√n; this is a worst-case lower bound with unstated constants, the small-ε bit count is open for k above that dimension, and no one-family embedding that small is proved *(Active)*
 
 ## model-comparison
 

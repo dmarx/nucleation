@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**429 documents cited without acknowledgement.** Not listed: 8711 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**430 documents cited without acknowledgement.** Not listed: 8730 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-273 citations in 244 files await a look.
+274 citations in 245 files await a look.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -59,6 +59,7 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-1086.md:44`](../../record/literature.d/LIT-1086.md)
 - [`record/literature.d/LIT-1101.md:37`](../../record/literature.d/LIT-1101.md)
 - [`record/literature.d/LIT-1108.md:41`](../../record/literature.d/LIT-1108.md)
+- [`record/literature.d/LIT-1158.md:19`](../../record/literature.d/LIT-1158.md)
 - [`record/literature.d/LIT-117.md:17`](../../record/literature.d/LIT-117.md)
 - [`record/literature.d/LIT-119.md:13`](../../record/literature.d/LIT-119.md)
 - [`record/literature.d/LIT-128.md:13`](../../record/literature.d/LIT-128.md)
@@ -2251,7 +2252,7 @@ Under a permutation-equivariant update whose map is K-Lipschitz, coincident neur
 
 In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length
 
-4 citations in 3 files await a look; 1 other citation of it is acknowledged.
+4 citations in 3 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-921.md:28`](../../record/literature.d/LIT-921.md)
 - [`record/literature.d/LIT-921.md:96`](../../record/literature.d/LIT-921.md)
@@ -3538,6 +3539,15 @@ Fine-tuning from one pretrained model lands near the edge of a task-specific low
 
 - [`record/questions.d/QUESTION-069.md:27`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
+
+### [THEORY-106](../../record/theory.d/THEORY-106.md) — Proposed
+
+In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form
+
+2 citations in 2 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1153.md:106`](../../record/literature.d/LIT-1153.md)
+- [`record/theory.d/THEORY-397.md:100`](../../record/theory.d/THEORY-397.md)
 
 ### [THEORY-107](../../record/theory.d/THEORY-107.md) — Proposed
 

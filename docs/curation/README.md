@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [16 Oct 04:22 — Later works on dimension reduction and Lipschitz extension: four filed, three read](2026-10.md#later-works-on-dimension-reduction-and-lipschitz-extension-four-filed-three-read)
 - [16 Oct 01:54 — Five candidates registered for the two works from the sports-fandom exchange that could not be identified](2026-10.md#five-candidates-registered-for-the-two-works-from-the-sports-fandom-exchange-that-could-not-be-identified)
 - [16 Oct 01:24 — Twenty-five works registered unread from the exchange on sports fandom and individuality; seven it cited were already held](2026-10.md#twenty-five-works-registered-unread-from-the-exchange-on-sports-fandom-and-individuality-seven-it-cited-were-already-held)
 - [15 Oct 21:06 — After the ADR-043 splits: citations repointed, one suspected dependency cleared](2026-10.md#after-the-adr-043-splits-citations-repointed-one-suspected-dependency-cleared)
@@ -15,6 +16,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 - [15 Oct 03:31 — The LEGO parable ported from Mathematics of Meaning: what was kept, what was rebuilt, what was left](2026-10.md#the-lego-parable-ported-from-mathematics-of-meaning-what-was-kept-what-was-rebuilt-what-was-left)
 - [15 Oct 01:45 — Reading pass: the eight works from the 2026-10-14 exchange, and two they led to](2026-10.md#reading-pass-the-eight-works-from-the-2026-10-14-exchange-and-two-they-led-to)
 - [15 Oct 00:41 — Eight works registered unread from the exchange on prompting, epistemic memory and retrieval](2026-10.md#eight-works-registered-unread-from-the-exchange-on-prompting-epistemic-memory-and-retrieval)
+- [14 Oct 21:06 — Random projections: seven works registered unread, and a question tying the record's three uses together](2026-10.md#random-projections-seven-works-registered-unread-and-a-question-tying-the-records-three-uses-together)
 - [14 Oct 01:23 — Triage of the 167 Deferred works: what to read next, and where a copy can be had](2026-10.md#triage-of-the-167-deferred-works-what-to-read-next-and-where-a-copy-can-be-had)
 - [13 Oct 21:29 — Fifteen works registered unread from the exchange on meaning operators and selfhood](2026-10.md#fifteen-works-registered-unread-from-the-exchange-on-meaning-operators-and-selfhood)
 - [13 Oct 18:44 — The intention-based line of illocution filed: Grice (1957, 1975), Strawson (1964), Bach and Harnish (1979)](2026-10.md#the-intention-based-line-of-illocution-filed-grice-1957-1975-strawson-1964-bach-and-harnish-1979)
@@ -70,9 +72,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-108 entries across 2 books, newest first.
+110 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 61 | 2026-10-01 | 2026-10-16 |
+| [2026-10](2026-10.md) | 63 | 2026-10-01 | 2026-10-16 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

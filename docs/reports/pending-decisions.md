@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**601 document(s) awaiting a decision.**
+**602 document(s) awaiting a decision.**
 
 ## LITs
 
-62 of the 601.
+62 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -78,7 +78,7 @@
 
 ## THEORYs
 
-326 of the 601.
+327 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -146,6 +146,7 @@
 | 2026-10-03 | Proposed | [THEORY-091](../../record/theory.d/THEORY-091.md) | 11 | 3 | A deficit in which consciousness and a capacity are lost together does not show that the capacity is a function of phenomenal consciousness, since access is lost too and the capacity is one the machinery of access has |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 11 | 2 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
 | 2026-10-03 | Proposed | [THEORY-104](../../record/theory.d/THEORY-104.md) | 11 | 2 | Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls |
+| 2026-10-03 | Proposed | [THEORY-106](../../record/theory.d/THEORY-106.md) | 11 | 2 | In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form |
 | 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 10 | 3 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-061](../../record/theory.d/THEORY-061.md) | 9 | 2 | In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which |
 | 2026-10-03 | Proposed | [THEORY-108](../../record/theory.d/THEORY-108.md) | 9 | 6 | Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature |
@@ -156,7 +157,6 @@
 | 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 8 | 2 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
 | 2026-10-03 | Proposed | [THEORY-085](../../record/theory.d/THEORY-085.md) | 8 | 2 | A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors |
 | 2026-10-03 | Proposed | [THEORY-093](../../record/theory.d/THEORY-093.md) | 8 | 2 | A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it |
-| 2026-10-03 | Proposed | [THEORY-106](../../record/theory.d/THEORY-106.md) | 7 | 0 | In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form |
 | 2026-10-03 | Proposed | [THEORY-079](../../record/theory.d/THEORY-079.md) | 6 | 0 | Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n |
 | 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 5 | 2 | Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-059](../../record/theory.d/THEORY-059.md) | 5 | 2 | The readiness potential does not show that a neural decision to act precedes awareness of the urge to act |
@@ -307,6 +307,7 @@
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 8 | 0 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
 | 2026-10-14 | Proposed | [THEORY-250](../../record/theory.d/THEORY-250.md) | 8 | 0 | DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects |
 | 2026-10-14 | Proposed | [THEORY-259](../../record/theory.d/THEORY-259.md) | 8 | 0 | Ideal MDL and Bayesian MAP selection under the universal prior agree only to within the complexity of the hypothesis's likelihood, and only among hypotheses for which the data are individually random |
+| 2026-10-14 | Proposed | [THEORY-261](../../record/theory.d/THEORY-261.md) | 8 | 4 | In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length |
 | 2026-10-14 | Proposed | [THEORY-305](../../record/theory.d/THEORY-305.md) | 8 | 0 | SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors |
 | 2026-10-14 | Proposed | [THEORY-324](../../record/theory.d/THEORY-324.md) | 8 | 0 | A system adapts by trial and error to an environment unknown to it only if a second feedback, through its essential variables, changes the parameters of its primary feedback when those variables leave their limits; with that feedback every equilibrium the whole can reach is an adapted one |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 8 | 0 | Time dependence can destabilize a non-normal linear system that is stable at every instant; non-normality is necessary for this, and random variation of the operator destabilizes generically, needing less variation the more non-normal and less damped the mean operator |
@@ -334,7 +335,6 @@
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-248](../../record/theory.d/THEORY-248.md) | 5 | 0 | The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and the lossy bound stays finite where I(S;W) is infinite |
 | 2026-10-14 | Proposed | [THEORY-256](../../record/theory.d/THEORY-256.md) | 5 | 0 | When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); small transformers trained by next-token prediction on such processes settle near that dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy |
-| 2026-10-14 | Proposed | [THEORY-261](../../record/theory.d/THEORY-261.md) | 5 | 4 | In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length |
 | 2026-10-14 | Proposed | [THEORY-262](../../record/theory.d/THEORY-262.md) | 5 | 0 | Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density |
 | 2026-10-14 | Proposed | [THEORY-263](../../record/theory.d/THEORY-263.md) | 5 | 0 | A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound |
 | 2026-10-14 | Proposed | [THEORY-267](../../record/theory.d/THEORY-267.md) | 5 | 0 | A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly |
@@ -408,18 +408,19 @@
 | 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 1 | 1 | Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode |
 | 2026-10-15 | Proposed | [THEORY-336](../../record/theory.d/THEORY-336.md) | 0 | 0 | An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it |
 | 2026-10-15 | Proposed | [THEORY-351](../../record/theory.d/THEORY-351.md) | 0 | 0 | In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured |
+| 2026-10-16 | Proposed | [THEORY-391](../../record/theory.d/THEORY-391.md) | 3 | 0 | Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that face counts of randomly projected polytopes fix for Gaussian matrices; eight non-Gaussian ensembles were observed to approach the same curve, with gaps shrinking as N^(−1/2), while at finite N the location depends on the ensemble |
 
 ## ADRs
 
-1 of the 601.
+1 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 273 | 273 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
+| 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 274 | 274 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
 
 ## QUESTIONs
 
-9 of the 601.
+9 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -435,7 +436,7 @@
 
 ## CLAIMs
 
-198 of the 601.
+198 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -640,7 +641,7 @@
 
 ## CASEs
 
-1 of the 601.
+1 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -648,7 +649,7 @@
 
 ## TERMs
 
-2 of the 601.
+2 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -657,7 +658,7 @@
 
 ## ARGs
 
-2 of the 601.
+2 of the 602.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

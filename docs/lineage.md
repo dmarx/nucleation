@@ -2,7 +2,7 @@
 
 # Lines of work
 
-58 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+60 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -533,6 +533,21 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-272](../record/literature.d/LIT-272.md) — Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras *(Active)*
 
 ## mathematics
+
+### From Extensions of Lipschitz mappings into a Hilbert space
+
+- [LIT-1153](../record/literature.d/LIT-1153.md) — Extensions of Lipschitz mappings into a Hilbert space *(Active)*
+  - [LIT-1152](../record/literature.d/LIT-1152.md) — Extending Lipschitz functions via random metric partitions *(Active)*
+  - [LIT-1154](../record/literature.d/LIT-1154.md) — Optimality of the Johnson-Lindenstrauss Lemma *(Active)*
+    - [LIT-1151](../record/literature.d/LIT-1151.md) — Optimal compression of approximate inner products and dimension reduction *(Active)*
+  - [LIT-1156](../record/literature.d/LIT-1156.md) — A Simple Proof of the Restricted Isometry Property for Random Matrices *(Active)*
+  - [LIT-1157](../record/literature.d/LIT-1157.md) — An elementary proof of a theorem of Johnson and Lindenstrauss *(Active)*
+  - [LIT-1159](../record/literature.d/LIT-1159.md) — Database-friendly random projections: Johnson-Lindenstrauss with binary coins *(Active)*
+
+### From On Lipschitz embedding of finite metric spaces in Hilbert space
+
+- [LIT-1161](../record/literature.d/LIT-1161.md) — On Lipschitz embedding of finite metric spaces in Hilbert space *(Unavailable)*
+  - [LIT-1155](../record/literature.d/LIT-1155.md) — The geometry of graphs and some of its algorithmic applications *(Active)*
 
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 

@@ -29,7 +29,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Annotated after Linial, London and Rabinovich were read (NOTE-tmpetxcq):
+    Annotated after Linial, London and Rabinovich were read (NOTE-928):
     the Euclidean-impossibility citation to them is wrong, as Limitations
     now says.
 date: '2026-10-09'
@@ -277,7 +277,7 @@ routing in the hyperbolic plane.
   edges. The tradeoff is about coordinates, not about information.
 - **The Euclidean impossibility is cited, not proved**, and is attributed
   to Bourgain through Linial et al. (Annotated 2026-10-16: the citation is
-  wrong. Linial, London and Rabinovich, read in [NOTE-tmpetxcq](NOTE-tmpetxcq.md), state
+  wrong. Linial, London and Rabinovich, read in [NOTE-928](NOTE-928.md), state
   Bourgain's theorem as an upper bound, O(log n) distortion for every
   n-point metric. Their only Euclidean lower bound is for expanders, and
   their only tree result is an isometric embedding into ℓ∞^{O(log n)}. The
