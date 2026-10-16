@@ -4,7 +4,15 @@ status: Open
 formerly:
 - QUESTION-tmpgy8la
 title: 'If communicative categories form a non-Boolean lattice, what is the negation of a category, an orthocomplement, a Heyting pseudo-complement over contexts, or a complement within sectors that no probe connects, and does the context-indexed form of the communicative object settle which?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    THEORY-tmpevmkz, filed from Butterfield and Isham's part II, answers it
+    in part and is added to "What the record holds": over a presheaf of
+    contexts the truth values are sieves whose negation the base category
+    fixes.
 tags:
 - logic
 - quantum-foundations
@@ -15,6 +23,7 @@ answered_by:
 - THEORY-037
 - THEORY-041
 - THEORY-042
+- THEORY-tmpevmkz
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-119](../claims.d/CLAIM-119.md), [CLAIM-038](../claims.d/CLAIM-038.md),
@@ -37,6 +46,7 @@ The mechanism is structural identity, not analogy. [CLAIM-038](../claims.d/CLAIM
 - [THEORY-037](../theory.d/THEORY-037.md): over contexts, propositions form "a distributive Heyting algebra, not an orthocomplemented lattice", and "the negation of δ(P) is not δ(1 − P)". Limit: the Heyting laws are sketched, not checked, in the source.
 - [THEORY-041](../theory.d/THEORY-041.md): the order does not fix the complement. Birkhoff and von Neumann proposed modularity from a probability-like dimension function, and it fails in infinite dimension. Limit: it is mainly an attribution, and orthomodularity is unsourced.
 - [THEORY-042](../theory.d/THEORY-042.md): under a superselection rule "a coherent superposition across sectors is operationally a mixture", and the lattice becomes a product of sector lattices. Limit: proved for one case only, and it is an idealisation.
+- [THEORY-tmpevmkz](../theory.d/THEORY-tmpevmkz.md): for any presheaf of propositions over a category of contexts, valuations obeying functional composition are sieve-valued subobjects, and the logic of the truth values, negation included, is fixed by the base category, not by global sections. Limit: it says which negation once a base is chosen, not which base the communicative object has.
 
 ## What would answer it
 

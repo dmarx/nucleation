@@ -22,6 +22,8 @@ summary: >-
   fluctuations of order k_BT.
 presupposed_by:
 - THEORY-tmp1lcfx
+extended_by:
+- THEORY-tmpagav0
 ---
 
 <!-- inactive-ok-file: THEORY-026 THEORY-030 THEORY-tmp1lcfx THEORY-tmpxjvy1 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->
