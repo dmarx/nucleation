@@ -37,6 +37,8 @@ summary: >-
   environment as well as mechanism.
 answers:
 - QUESTION-045
+supports:
+- CLAIM-tmpki5gp
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the loop account this model gives a mechanism for -->
 

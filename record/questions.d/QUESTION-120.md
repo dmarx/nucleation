@@ -6,12 +6,13 @@ formerly:
 title: 'When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?'
 version: 4
 history:
-- version: 4
-  date: '2026-10-16'
+- version: 2
+  date: '2026-10-14'
   note: >-
-    Alon and Klartag read (NOTE-929): the distances thread now says
-    how far the lower bound reaches and how their bit count realizes the
-    proposed shape. The question itself stands.
+    Six of the seven anchor works were read the same day (the fly paper is
+    Unavailable). The readings corrected five statements in version 1,
+    listed under "Corrections"; a section on what the readings found was
+    added and "What would answer it" rewritten. The question itself stands.
 - version: 3
   date: '2026-10-16'
   note: >-
@@ -22,13 +23,12 @@ history:
     thread, which nothing read for this question had, and "What would answer
     it" now names the fly hash's collision probabilities as the quantity to
     find. The question itself stands.
-- version: 2
-  date: '2026-10-14'
+- version: 4
+  date: '2026-10-16'
   note: >-
-    Six of the seven anchor works were read the same day (the fly paper is
-    Unavailable). The readings corrected five statements in version 1,
-    listed under "Corrections"; a section on what the readings found was
-    added and "What would answer it" rewritten. The question itself stands.
+    Alon and Klartag read (NOTE-929): the distances thread now says
+    how far the lower bound reaches and how their bit count realizes the
+    proposed shape. The question itself stands.
 tags:
 - mathematics
 - learning-theory

@@ -24,6 +24,8 @@ summary: >-
   A24's "contextuality hypothesis, which remains open", and A30's H2.
   The manuscript keeps it as a possibility its empirical programme tests
   (§3, §9, §10) and disclaims any presumption that it holds.
+supports:
+- CLAIM-tmpq9do8
 ---
 <!-- ref::uses-file: TERM-031 — stated in "frame, as a measurement context"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-115 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
