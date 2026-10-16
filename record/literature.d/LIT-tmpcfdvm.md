@@ -109,3 +109,5 @@ hypothesis once n is of order k log(N/k). What makes k log(N/k) necessary
 it takes from Gelfand widths, not from concentration. So for the question,
 the sufficient side has the proposed shape, the log of a family's size over
 a squared tolerance, and the necessary side is still open.
+
+Filed as [THEORY-tmp4mezl](../theory.d/THEORY-tmp4mezl.md).

@@ -96,3 +96,5 @@ It also states that almost-orthogonal sets fit in fewer dimensions than
 ε⁻² lg n for small ε, so the JL lower bound is not a bound on superposition
 capacity. It says nothing on random features or on maps that go up in
 dimension.
+
+Filed as [THEORY-tmpfo89o](../theory.d/THEORY-tmpfo89o.md).

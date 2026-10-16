@@ -111,3 +111,5 @@ about expand-and-threshold maps, and nothing about random features. The
 tightness it reports is Alon's, short of ε⁻² log n by log(1/ε); full
 tightness is [LIT-tmp8s1wj](LIT-tmp8s1wj.md)'s claim. It carries no instruction for
 machine-learning practice and belongs here.
+
+Filed, with [LIT-tmp7skui](LIT-tmp7skui.md) and [LIT-tmppzjx6](LIT-tmppzjx6.md), as [THEORY-tmpns5kz](../theory.d/THEORY-tmpns5kz.md).

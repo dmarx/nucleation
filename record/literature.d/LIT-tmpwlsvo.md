@@ -44,6 +44,7 @@ implementations: []
 summary: >-
   Donoho & Tanner (2009), *Phil. Trans. R. Soc. A* 367: 4273–4293, [ARXIV-0906.2530](https://arxiv.org/abs/0906.2530). For Gaussian matrices, recovery of a k-sparse vector from n measurements in dimension N by ℓ1 minimization, or by its nonnegative LP form, succeeds with probability tending to 1 below a curve ρ(δ; Q) in δ = n/N, ρ = k/n and to 0 above it, a result proved earlier and restated here. In 2,948,000 linear programs over eight non-Gaussian ensembles at N up to 1600, the 50% success points fall on the same curves. Exact agreement at finite N is rejected; the differences decay as N^(-1/2), so the paper supports an asymptotic universality, observed and not proved.
 ---
+<!-- inactive-ok-file: THEORY-tmp644mk — Proposed; the ℓ₁ transition account, named for what it adds beside this one -->
 
 # LIT-tmpwlsvo: Observed universality of phase transitions in high-dimensional geometry, with implications for modern data analysis and signal processing
 
@@ -107,3 +108,5 @@ and SDM's maps were the ones that failed at small size. The
 `mathematical-statistics` tag is for its reading of the transition as a
 hard limit on what can be inferred from undersampled data, which the
 abstract states.
+
+Filed as [THEORY-tmp644mk](../theory.d/THEORY-tmp644mk.md), Proposed, because the universality it reports is observed at three problem sizes.

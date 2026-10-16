@@ -106,3 +106,5 @@ matrix is dense ±1, the paper's first ensemble, but SDM keeps a thresholded
 neighbourhood, about which the paper says nothing. The paper bears on the
 question's first thread, and on the third only by marking what the fly and
 SDM would need beyond it.
+
+Filed, with [LIT-tmpjy3gf](LIT-tmpjy3gf.md) and [LIT-tmp7skui](LIT-tmp7skui.md), as [THEORY-tmpns5kz](../theory.d/THEORY-tmpns5kz.md).

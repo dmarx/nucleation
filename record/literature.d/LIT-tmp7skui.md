@@ -120,3 +120,5 @@ improved, and does not state the ε⁻².
 In the anthology the lemma appears without a LIT of its own, inside
 Linformer's low-rank argument ([ANTH-LIT-529](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-529.md)). The subject is
 mathematics, which no anthology topic holds.
+
+Filed, with [LIT-tmpjy3gf](LIT-tmpjy3gf.md) and [LIT-tmppzjx6](LIT-tmppzjx6.md), as [THEORY-tmpns5kz](../theory.d/THEORY-tmpns5kz.md).

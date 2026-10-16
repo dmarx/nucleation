@@ -37,6 +37,11 @@ summary: >-
   but not a necessity proof, and give nothing that reaches the other two
   uses. For SDM and the fly, the record's SDM recall account and its LSH
   account offer candidate thresholds of a different shape.
+answered_by:
+- THEORY-tmp4mezl
+- THEORY-tmp644mk
+- THEORY-tmpfo89o
+- THEORY-tmpns5kz
 ---
 <!-- inactive-ok-file: LIT-tmpokc0j — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
 <!-- inactive-ok-file: THEORY-106 THEORY-261 — Proposed; the accounts the random-features and SDM threads are set against -->
