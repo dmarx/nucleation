@@ -22,7 +22,7 @@ supports:
 - CLAIM-090
 - CLAIM-234
 ---
-<!-- inactive-ok-file: LIT-768 — Deferred; Bartlett's serial reproduction, named as the experimental lineage, not leaned on -->
+<!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett's serial reproduction, named as the experimental lineage, not leaned on -->
 <!-- inactive-ok-file: THEORY-155 CLAIM-090 — Proposed; the theorem this result is offered for and a claim that cites it, named in Connections, not leaned on -->
 
 # THEORY-tmpaw5e2: Chains of human function learners, each trained on the previous learner's responses, forget their starting function and in 28 of 32 families converge within a few generations to a positive linear function, the bias earlier studies report, whatever function trained the first learner; this is convergence to the learners' favoured function, not shown to be convergence to their prior

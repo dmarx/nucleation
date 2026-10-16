@@ -32,7 +32,7 @@ summary: >-
   experiment is run.
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; this entry says how the work bears on those accounts, and does not lean on them -->
-<!-- inactive-ok-file: LIT-429 LIT-443 LIT-385 — Deferred: filed unread; named as works the paper cites or previews, not leaned on -->
+<!-- inactive-ok-file: LIT-429 LIT-443 LIT-385 — Unavailable: filed unread; named as works the paper cites or previews, not leaned on -->
 
 # NOTE-367: Dennett & Kinsbourne — Time and the Observer
 

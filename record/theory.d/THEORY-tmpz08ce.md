@@ -37,7 +37,7 @@ summary: >-
   proposals built on the gap, not part of it.
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-091 THEORY-094 THEORY-tmpdz76a THEORY-tmpltl13 THEORY-tmpspj51 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
-<!-- inactive-ok-file: LIT-441 — Deferred: the book is not lawfully readable online; named as where the decisive premise is defended, not leaned on -->
+<!-- inactive-ok-file: LIT-441 — Unavailable: the book is not lawfully readable online; named as where the decisive premise is defended, not leaned on -->
 
 # THEORY-tmpz08ce: After every function associated with consciousness is explained (discrimination, integration, report, access, attention, control), why these functions are accompanied by experience remains open, because those phenomena are defined by their functions and experience, what it is like for the subject, is not; so experience cannot be reductively explained by any mechanism, though it may be related to the physical by further laws
 

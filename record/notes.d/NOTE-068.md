@@ -38,7 +38,7 @@ summary: >-
   experiment behind it anywhere in the paper.
 ---
 
-<!-- inactive-ok-file: LIT-050 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-050 — Rejected: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-068: Tembine et al., mean-field-type games with Rosenblatt noise
 

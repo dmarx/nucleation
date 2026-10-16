@@ -43,7 +43,6 @@ complements:
 objected_by:
 - CLAIM-238
 ---
-<!-- inactive-ok-file: CLAIM-042 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->
 
 # CLAIM-033: A translation can broaden the region of possible readings along one dimension while narrowing it along another, so loss is not one-dimensional

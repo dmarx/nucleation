@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-135 CLAIM-142 CLAIM-129 — Proposed; open, and cited as the negative results and restatements this thesis sits beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-204 CLAIM-216 CLAIM-215 — Proposed; the revised October thesis, and the entries filed with this one on 2026-10-10, open -->
-<!-- inactive-ok-file: CLAIM-193 THEORY-005 THEORY-007 THEORY-009 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-193 THEORY-005 THEORY-009 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # CLAIM-209: Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not
 

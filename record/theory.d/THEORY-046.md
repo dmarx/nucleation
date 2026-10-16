@@ -41,8 +41,8 @@ summary: >-
 answers:
 - QUESTION-066
 ---
-<!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->
-<!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-154 — Deferred or Proposed; named as neighbours, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-556 — Unavailable: Cameron & Pierce (1994) is unread; described from the two meta-analyses that report it -->
+<!-- inactive-ok-file: LIT-545 THEORY-049 THEORY-154 — Proposed or Unavailable; named as neighbours, nothing here rests on them -->
 
 # THEORY-046: Expected tangible rewards for merely engaging in an interesting task lower later free-choice engagement with it
 

@@ -30,7 +30,7 @@ summary: >-
   batch pairs are dependent, and recasts it as a multi-class K-pair metric
   learning loss.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-006 NOTE-232 — Proposed or Skimmed; the theories that cite or point to this paper, and the skim this reading replaces -->
+<!-- inactive-ok-file: THEORY-001 NOTE-232 — Proposed or Superseded; the theories that cite or point to this paper, and the skim this reading replaces -->
 
 # NOTE-749: Tschannen et al. — On Mutual Information Maximization for Representation Learning
 

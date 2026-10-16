@@ -60,8 +60,8 @@ supports:
 - CLAIM-271
 ---
 <!-- inactive-ok-file: THEORY-tmphb1dj — Proposed; the authors' replies, named in Connections, not leaned on -->
-<!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->
-<!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->
+<!-- inactive-ok-file: LIT-707 — Unavailable, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->
 <!-- inactive-ok-file: THEORY-125 — Proposed; filed in the same batch, Huebner's genuinely collective emotion, named for the parallel, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-065 — Proposed; named in Connections for how this bears on group agency, nothing here rests on them -->
 

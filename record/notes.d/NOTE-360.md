@@ -32,7 +32,7 @@ summary: >-
   subdemon was right 90% of the time.
 ---
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the decomposition side of the bridge, not leaned on -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the decomposition side of the bridge, not leaned on -->
 
 # NOTE-360: Selfridge — Pandemonium
 

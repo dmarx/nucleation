@@ -22,7 +22,7 @@ summary: >-
 answered_by:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: LIT-1079 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1079 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-301 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-107: When does iterative query reformulation improve access to relevant evidence, and when does it entrench an initial interpretation by narrowing what is encountered next?

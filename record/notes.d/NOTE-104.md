@@ -35,7 +35,7 @@ summary: >-
   conscious AIs will be person-like, and the question will then be settled
   socially rather than scientifically (the "Social Semi-Solution").
 ---
-<!-- inactive-ok-file: LIT-636 — Deferred; the book the cited "Block 2023" names, not leaned on -->
+<!-- inactive-ok-file: LIT-636 — Unavailable; the book the cited "Block 2023" names, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-104: Schwitzgebel — AI and Consciousness

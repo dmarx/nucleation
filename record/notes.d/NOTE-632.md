@@ -32,7 +32,7 @@ summary: >-
   them.
 ---
 
-<!-- inactive-ok-file: LIT-775 — Deferred; named as the source of the method modelled, not leaned on -->
+<!-- inactive-ok-file: LIT-775 — Unavailable; named as the source of the method modelled, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmp48ml1 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-632: Discrete-event simulation of Lévi-Strauss's myth analysis

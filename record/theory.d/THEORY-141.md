@@ -36,7 +36,7 @@ supports:
 rivals:
 - THEORY-tmppkom6
 ---
-<!-- inactive-ok-file: LIT-721 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-721 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-135 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # THEORY-141: In a major evolutionary transition, where formerly free-living units come to form a higher-level unit, the collective is stable only if selection between collectives comes to trump selection among the units within them, typically through mechanisms such as policing, kinship and division of labour that align the interests of the units; the levels at which selection acts are then a product of evolution, to be explained rather than assumed

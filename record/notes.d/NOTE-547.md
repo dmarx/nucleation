@@ -30,7 +30,7 @@ summary: >-
   aesthetic nature does not fix how the life is evaluated.
 ---
 
-<!-- inactive-ok-file: LIT-684 — Deferred, unread; the book this paper summarises, named as what its first section rests on -->
+<!-- inactive-ok-file: LIT-684 — Unavailable, unread; the book this paper summarises, named as what its first section rests on -->
 <!-- inactive-ok-file: THEORY-060 THEORY-040 — Proposed; the narrative-identity and manipulation accounts, named in prose, no relation claimed -->
 
 # NOTE-547: Stories and the Meaning of Life

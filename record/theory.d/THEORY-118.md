@@ -51,9 +51,9 @@ answers:
 - QUESTION-068
 ---
 <!-- inactive-ok-file: THEORY-119 — Proposed; the PAP-is-false claim, declared this one's rival on blame -->
-<!-- inactive-ok-file: LIT-688 LIT-685 LIT-690 — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
-<!-- inactive-ok-file: LIT-684 — Deferred, unread; Fischer and Ravizza's book, named as the rival account's source -->
-<!-- inactive-ok-file: THEORY-122 THEORY-121 — Proposed; the Reason View this extends and Fischer and Ravizza's rival account, filed in the same batch -->
+<!-- inactive-ok-file: LIT-688 LIT-685 LIT-690 — Unavailable, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
+<!-- inactive-ok-file: LIT-684 — Unavailable, unread; Fischer and Ravizza's book, named as the rival account's source -->
+<!-- inactive-ok-file: THEORY-122 — Proposed; the Reason View this extends and Fischer and Ravizza's rival account, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; named as the account of manipulation this view is exposed to, nothing here rests on it -->
 
 # THEORY-118: Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons

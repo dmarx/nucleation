@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the question this paper sidesteps -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited because the paper's causal criterion meets its form again -->
-<!-- inactive-ok-file: LIT-742 LIT-391 LIT-698 — Deferred, unread; named as group-agency and collective-responsibility work the record holds but has not read -->
+<!-- inactive-ok-file: LIT-742 LIT-391 LIT-698 — Unavailable, unread; named as group-agency and collective-responsibility work the record holds but has not read -->
 <!-- inactive-ok-file: THEORY-131 THEORY-139 THEORY-147 THEORY-118 THEORY-122 — Proposed; named as the record's corporate-responsibility and responsibility accounts this one is set beside -->
 <!-- inactive-ok-file: THEORY-208 THEORY-207 — Proposed; the line's agency account, and the record's statement of this paper's account, filed from this reading -->
 

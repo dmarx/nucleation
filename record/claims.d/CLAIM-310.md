@@ -56,7 +56,7 @@ objected_by:
 - CLAIM-313
 ---
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
-<!-- inactive-ok-file: CLAIM-037 CLAIM-296 CASE-094 CASE-095 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-037 CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
 # CLAIM-310: Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition, and which costs least depends on what is searched for and on what stands out within a bin
 

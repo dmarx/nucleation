@@ -46,7 +46,7 @@ summary: >-
   failures. The 1971 hierarchy gets one sentence, and Frankfurt's later
   replies (decisive commitment, then "satisfaction") get one footnote.
 ---
-<!-- inactive-ok-file: LIT-197 LIT-117 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: LIT-197 LIT-117 — Unavailable; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-047 THEORY-054 — Proposed; the SDT accounts named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-120 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 

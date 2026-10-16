@@ -24,7 +24,7 @@ summary: >-
   everything else in K leaves in finite time. Stability in the Lyapunov
   sense is not discussed.
 ---
-<!-- inactive-ok-file: LIT-738 — Deferred, unread; Aubin's monograph, named as the book these notes summarise -->
+<!-- inactive-ok-file: LIT-738 — Unavailable, unread; Aubin's monograph, named as the book these notes summarise -->
 
 # NOTE-576: The Method of Characteristics Revisited: A Viability Approach
 

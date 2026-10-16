@@ -34,7 +34,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for the definition of Blackwell's order, which the construction only applies -->
 <!-- inactive-ok-file: CLAIM-258 CLAIM-212 CLAIM-091 — Proposed; the objection this case was split from, the reply that reads it as a report case, and the compensation claim the objection applies it through, cited as open -->
-<!-- inactive-ok-file: LIT-778 — Deferred; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
+<!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
 
 # CLAIM-323: Where source and rendering are experiments about one common situation, a rendering that depends on the situation other than through the source is not a garbling of it and can be incomparable with it in Blackwell's order: with Z uniform on {1, 2, 3}, a source that tells whether Z = 1 and a rendering that tells whether Z = 3 each have the lower 0–1 risk on one of the problems of saying whether Z = 1 and whether Z = 3, so neither dominates
 

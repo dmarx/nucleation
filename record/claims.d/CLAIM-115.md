@@ -53,7 +53,6 @@ objected_by:
 - CLAIM-243
 - CLAIM-244
 ---
-<!-- inactive-ok-file: CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited as a later restatement of this thesis, itself replaced -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-082 — Proposed; open, and cited as open: a later thesis of the exchange and a premise of this one, neither settled -->
 

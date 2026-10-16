@@ -31,7 +31,7 @@ summary: >-
   reading gives it.
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-043 THEORY-103 THEORY-tmp26rh2 THEORY-tmpspj51 THEORY-tmpyw2hy — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
-<!-- inactive-ok-file: LIT-443 LIT-424 — Deferred: the two Dennett books the paper interprets, filed unread; quotations from them are Taylor's, not leaned on beyond that -->
+<!-- inactive-ok-file: LIT-443 LIT-424 — Unavailable: the two Dennett books the paper interprets, filed unread; quotations from them are Taylor's, not leaned on beyond that -->
 
 # THEORY-tmpk5k3c: Consciousness is a real pattern in the brain's content-bearing states, a description that trades predictive accuracy for compression, and so coarse that describing the brain through it is metaphor; on that reading there is no Cartesian theatre, whether a given content was conscious can lack an answer when two descriptions compress and predict equally, and first-person reports are fallible as literal descriptions of the brain but authoritative as an author's
 

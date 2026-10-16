@@ -27,7 +27,7 @@ summary: >-
   structural comparison the fairest symmetrization anthropology has.
 ---
 
-<!-- inactive-ok-file: LIT-775 — Deferred; the work the lecture reads, unread here -->
+<!-- inactive-ok-file: LIT-775 — Unavailable; the work the lecture reads, unread here -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; named for comparison, not settled here -->
 <!-- inactive-ok-file: THEORY-tmp48ml1 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 

@@ -27,7 +27,7 @@ summary: >-
   times, and estimated RLCTs within about 0.5 of theory.
 ---
 
-<!-- inactive-ok-file: LIT-354 — Deferred: the book is unread; named as the source of Theorems 1 and 2, which this paper restates -->
+<!-- inactive-ok-file: LIT-354 — Unavailable: the book is unread; named as the source of Theorems 1 and 2, which this paper restates -->
 
 # NOTE-473: A Widely Applicable Bayesian Information Criterion
 

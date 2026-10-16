@@ -29,9 +29,9 @@ summary: >-
   domain's relevant relations, and the symbol-grounding objection to SME
   applies to it equally. Nothing is measured in either text.
 ---
-<!-- inactive-ok-file: LIT-435 — Deferred; the Copycat paper, cited by LIT-414 for the program's details, not leaned on -->
-<!-- inactive-ok-file: LIT-428 — Deferred; the book Burns reviews, named and not leaned on -->
-<!-- inactive-ok-file: LIT-416 — Deferred; Hofstadter's later essay, named as a neighbour, not leaned on -->
+<!-- inactive-ok-file: LIT-435 — Unavailable; the Copycat paper, cited by LIT-414 for the program's details, not leaned on -->
+<!-- inactive-ok-file: LIT-428 — Unavailable; the book Burns reviews, named and not leaned on -->
+<!-- inactive-ok-file: LIT-416 — Unavailable; Hofstadter's later essay, named as a neighbour, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmp8bxd9 THEORY-tmp6rcgc — Proposed; neighbouring accounts of representation and of perception, named in Connections, not leaned on -->
 
 # THEORY-tmphgz0f: A model of discovery or analogy that is given representations built with the answer in view has been given most of the answer, as BACON was with Kepler's data and SME with its solar system and atom, and representation-building cannot be postponed to a separate module, because which representation is right depends on the task and on the analogy being made

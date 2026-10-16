@@ -40,7 +40,7 @@ summary: >-
   of functional activity".
 ---
 
-<!-- inactive-ok-file: LIT-802 — Deferred; the French original, named not leaned on -->
+<!-- inactive-ok-file: LIT-802 — Unavailable; the French original, named not leaned on -->
 
 # NOTE-618: Structuralism
 

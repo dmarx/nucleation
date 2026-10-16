@@ -31,9 +31,9 @@ summary: >-
   proposes, against Dennett, that the narrative self is the sum of its
   narratives. Evidence is cited, not shown.
 ---
-<!-- inactive-ok-file: LIT-387 — Deferred; named as Damasio's later statement of the core/autobiographical relation, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Unavailable; named as Damasio's later statement of the core/autobiographical relation, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the question the robot self does not bear on, not leaned on -->
-<!-- inactive-ok-file: LIT-468 — Deferred, no lawful full text; named as the narrative view not cited by this paper -->
+<!-- inactive-ok-file: LIT-468 — Unavailable, no lawful full text; named as the narrative view not cited by this paper -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the bridge this reading bears on, not leaned on -->
 
 # NOTE-377: Philosophical conceptions of the self: implications for cognitive science

@@ -29,7 +29,7 @@ summary: >-
   substitutes and rigid defences when needs are thwarted. Autonomy is
   self-organization, defended as an evolved, domain-general design feature.
 ---
-<!-- inactive-ok-file: LIT-545 — Deferred: Bandura (1977) is unread; the paper argues with self-efficacy theory, which is named here, not leaned on -->
+<!-- inactive-ok-file: LIT-545 — Unavailable: Bandura (1977) is unread; the paper argues with self-efficacy theory, which is named here, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-056 THEORY-050 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
 # NOTE-439: The "What" and "Why" of Goal Pursuits: Human Needs and the Self-Determination of Behavior

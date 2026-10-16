@@ -59,8 +59,8 @@ supports:
 - CLAIM-022
 - CLAIM-047
 ---
-<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-121 THEORY-119 — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
-<!-- inactive-ok-file: LIT-575 LIT-695 LIT-693 LIT-690 LIT-684 — Deferred, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-119 — Proposed; the rival accounts declared here, the manipulation account named in prose, and the PAP account filed in the same batch -->
+<!-- inactive-ok-file: LIT-575 LIT-695 LIT-693 LIT-690 LIT-684 — Unavailable, unread; Frankfurt's later replies and collection, and the critics' primary texts, named in prose -->
 
 # THEORY-120: A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order
 

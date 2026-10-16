@@ -109,8 +109,8 @@ answers:
 <!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
-<!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
+<!-- inactive-ok-file: LIT-393 — Unavailable, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
+<!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Proposed or Unavailable; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
 <!-- inactive-ok-file: THEORY-tmpegs18 THEORY-tmpnzxy2 — Proposed; accounts filed for readings this one cites, named in Connections, not leaned on -->
 

@@ -38,10 +38,10 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-045 THEORY-056 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
-<!-- inactive-ok-file: LIT-318 — Deferred; named as a neighbour, not leaned on -->
-<!-- inactive-ok-file: LIT-385 — Deferred; Damasio's retroactivation proposal, named as a parallel the reader drew, not leaned on -->
-<!-- inactive-ok-file: LIT-387 — Deferred; Damasio's feelings-as-source-of-consciousness paper, named as the contrasting position, not leaned on -->
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the book this work belongs to or answers, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-318 — Unavailable; named as a neighbour, not leaned on -->
+<!-- inactive-ok-file: LIT-385 — Unavailable; Damasio's retroactivation proposal, named as a parallel the reader drew, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Unavailable; Damasio's feelings-as-source-of-consciousness paper, named as the contrasting position, not leaned on -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the book this work belongs to or answers, not leaned on for its content -->
 
 # NOTE-348: The Emotion Machine
 

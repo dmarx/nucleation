@@ -30,7 +30,7 @@ summary: >-
   The evidence is three layers on one robot, described, not measured, and
   the broad hypothesis about representation is flagged as a hypothesis.
 ---
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named because this paper cites it, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named because this paper cites it, not leaned on for its content -->
 
 # NOTE-351: Intelligence without representation
 

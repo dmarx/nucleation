@@ -38,7 +38,6 @@ used_by:
 - CLAIM-117
 - CLAIM-127
 ---
-<!-- inactive-ok-file: CLAIM-052 CLAIM-063 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 
 # TERM-024: noncommutativity, of events and of operations

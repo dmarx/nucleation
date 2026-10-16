@@ -39,7 +39,7 @@ summary: >-
   theory rather than predicate logic for the sameness questions dualities
   raise.
 ---
-<!-- inactive-ok-file: LIT-108 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-108 — Unavailable: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
 
 # NOTE-141: Corfield — Duality as a category-theoretic concept
 

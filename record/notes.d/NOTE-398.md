@@ -33,7 +33,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-496 — Proposed: the MAC-Q, filed in the same batch, the questionnaire this one would be compared with -->
 
-<!-- inactive-ok-file: LIT-494 — Deferred, unread: dyadic morality, which this paper classes as harm monism -->
+<!-- inactive-ok-file: LIT-494 — Unavailable, unread: dyadic morality, which this paper classes as harm monism -->
 
 # NOTE-398: Atari et al. 2023, the MFQ-2
 

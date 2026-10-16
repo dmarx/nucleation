@@ -48,7 +48,7 @@ supports:
 - CLAIM-163
 - CLAIM-172
 ---
-<!-- inactive-ok-file: LIT-588 LIT-578 — Deferred; HKB 1985 and Dynamic Patterns, named as the unread originals, not leaned on -->
+<!-- inactive-ok-file: LIT-588 LIT-578 — Unavailable; HKB 1985 and Dynamic Patterns, named as the unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-056 — Proposed; the record's account of disorder as an alternative stable state, and its account of control without a regulator, named for their bearing -->
 
 # THEORY-069: Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning

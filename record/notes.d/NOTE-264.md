@@ -41,7 +41,7 @@ summary: >-
   (p. 201). The 1971 wanton/person taxonomy is gestured at in a single
   phrase and its apparatus is not restated.
 ---
-<!-- inactive-ok-file: LIT-117 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: LIT-117 — Unavailable; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-029 THEORY-120 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 

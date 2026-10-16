@@ -41,7 +41,7 @@ summary: >-
   one-variable toy model.
 ---
 <!-- inactive-ok-file: LIT-536 — Unavailable; Moreno & Mossio's book, the source of the definitions criticized, cited as Barandiaran quotes it -->
-<!-- inactive-ok-file: CLAIM-277 CLAIM-079 — Proposed; open claims this reading bears on, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-277 — Proposed; open claims this reading bears on, nothing here rests on them -->
 
 # NOTE-730: Barandiaran — Organizational Accounts of Malfunction
 

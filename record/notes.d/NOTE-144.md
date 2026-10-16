@@ -33,7 +33,7 @@ summary: >-
   whether received consent is effective is "ubiquitous and quotidian" (p.
   10).
 ---
-<!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-117 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-144: Consent and the formation of preferences

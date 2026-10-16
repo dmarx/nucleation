@@ -29,7 +29,7 @@ summary: >-
   (226 relevant uses of 'disposed to', none ascribing a philosophers'
   disposition to an inanimate object).
 ---
-<!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: THEORY-tmpxey3n — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-125: Dispositions without conditionals

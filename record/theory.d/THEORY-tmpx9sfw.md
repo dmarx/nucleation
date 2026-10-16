@@ -32,7 +32,7 @@ summary: >-
   and not a claim that every female is a woman in its sense.
 ---
 <!-- inactive-ok-file: THEORY-tmpll6jt THEORY-tmpavyju THEORY-tmpv1zbf — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
-<!-- inactive-ok-file: LIT-491 — Deferred, no lawful full text; Ásta's Categories We Live By, named as the rival account of the same categories, not leaned on -->
+<!-- inactive-ok-file: LIT-491 — Unavailable, no lawful full text; Ásta's Categories We Live By, named as the rival account of the same categories, not leaned on -->
 
 # THEORY-tmpx9sfw: Gender and race, defined as a feminist and antiracist theory needs them, are hierarchical social positions: a woman is someone subordinated in part because she is taken to have bodily features presumed to show a female's reproductive role, a racialized group is one subordinated or privileged in part because its members are taken to have features presumed to show ancestry from a region, and on these definitions both are real, social and contingent
 

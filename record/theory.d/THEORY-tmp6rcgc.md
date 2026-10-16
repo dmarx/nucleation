@@ -29,7 +29,7 @@ summary: >-
   workspace as conceptualisation rather than consciousness is asserted,
   not argued against the consciousness reading.
 ---
-<!-- inactive-ok-file: LIT-636 — Deferred; Block's book, the unread source of the main thesis's arguments, named and not leaned on -->
+<!-- inactive-ok-file: LIT-636 — Unavailable; Block's book, the unread source of the main thesis's arguments, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-096 THEORY-102 THEORY-103 — Proposed; neighbouring accounts of the workspace and of perceptual consciousness, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmphgz0f — Proposed; a neighbouring account of concepts in perception, named in Connections, not leaned on -->
 

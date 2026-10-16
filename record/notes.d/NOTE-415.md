@@ -35,7 +35,7 @@ summary: >-
   satellite correlations, one of whose tables is internally inconsistent.
 ---
 
-<!-- inactive-ok-file: LIT-530 — Deferred: Schrödinger is unread; named because this paper presents itself as taking up his task, not leaned on -->
+<!-- inactive-ok-file: LIT-530 — Unavailable: Schrödinger is unread; named because this paper presents itself as taking up his task, not leaned on -->
 <!-- inactive-ok-file: THEORY-026 THEORY-030 — Proposed; named only to say they do not overlap this paper -->
 <!-- inactive-ok-file: THEORY-tmph2xbv — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 

@@ -39,7 +39,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this paper offers an answer to -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as the objection this paper's criteria meet -->
 <!-- inactive-ok-file: LIT-126 — Rejected on its close reading; cited for the sentientist premise this paper is the standard alternative to -->
-<!-- inactive-ok-file: LIT-742 — Deferred, unread; Pettit's case for corporate responsibility, named as the contrast -->
+<!-- inactive-ok-file: LIT-742 — Unavailable, unread; Pettit's case for corporate responsibility, named as the contrast -->
 <!-- inactive-ok-file: THEORY-208 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-701: Floridi & Sanders — On the morality of artificial agents

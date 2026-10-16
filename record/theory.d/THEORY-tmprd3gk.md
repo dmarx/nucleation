@@ -38,8 +38,8 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmpavyju — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named to say why no answers edge is filed -->
 <!-- inactive-ok-file: THEORY-043 THEORY-057 — Proposed; accounts that use this paper in their bodies, named and not leaned on -->
-<!-- inactive-ok-file: LIT-485 — Deferred, no lawful full text; Searle's 1995 book, which this paper restates; nothing here is taken from the book itself -->
-<!-- inactive-ok-file: LIT-490 — Deferred, no lawful full text; Searle's 1990 paper, cited by this paper for collective intentionality and not read -->
+<!-- inactive-ok-file: LIT-485 — Unavailable, no lawful full text; Searle's 1995 book, which this paper restates; nothing here is taken from the book itself -->
+<!-- inactive-ok-file: LIT-490 — Unavailable, no lawful full text; Searle's 1990 paper, cited by this paper for collective intentionality and not read -->
 
 # THEORY-tmprd3gk: Institutional facts are status functions, imposed by collective acceptance on things that cannot perform the function by their physical structure alone; the status carries deontic powers that give desire-independent reasons for action, and it exists only as represented, so institutions require language; 'X counts as Y in C' is the common case of the more general 'We accept (S has power (S does A))'
 

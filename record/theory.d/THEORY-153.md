@@ -37,7 +37,7 @@ answers:
 supports:
 - CLAIM-099
 ---
-<!-- inactive-ok-file: LIT-746 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-746 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # THEORY-153: A system can keep its identity independently within a shared environment only if it has five interacting subsystems, the first made of elements that are themselves viable systems, so that the structure recurs at every level of recursion; when one is missing or fails, the system degrades in characteristic ways, and without the subsystem for foresight the subsystems for operational control and for identity collapse into each other, leaving a system that can only react

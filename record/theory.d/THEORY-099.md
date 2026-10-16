@@ -43,7 +43,7 @@ summary: >-
   10.6 ± 0.6% in tubulin dimers. No lifetimes were measured. This is not
   evidence for Orch OR or for any claim about consciousness.
 ---
-<!-- inactive-ok-file: LIT-627 — Deferred; Derakhshani et al., unread, named only as the collapse-side test of Orch OR this account does not touch -->
+<!-- inactive-ok-file: LIT-627 — Unavailable; Derakhshani et al., unread, named only as the collapse-side test of Orch OR this account does not touch -->
 
 # THEORY-099: Tryptophan networks in microtubule architectures support collective superradiant excitonic states, and their thermal quantum yield rises with network size and survives static disorder of room-temperature size
 

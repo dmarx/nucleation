@@ -25,7 +25,7 @@ summary: >-
 supports:
 - CLAIM-314
 ---
-<!-- inactive-ok-file: LIT-1100 LIT-1116 CLAIM-303 CLAIM-308 — read the same day or Proposed; named as works and claims this account bears on, not leaned on -->
+<!-- inactive-ok-file: CLAIM-303 CLAIM-308 — read the same day or Proposed; named as works and claims this account bears on, not leaned on -->
 
 # THEORY-371: For conjunctive queries without equality or comparisons, two queries are equivalent exactly when homomorphisms run both ways between the queries read as small databases, every such query has a minimal equivalent query unique up to isomorphism obtained by deleting atoms, and evaluating one against a database is NP-complete when the query is part of the input
 

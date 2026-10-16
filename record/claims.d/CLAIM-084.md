@@ -32,7 +32,6 @@ illustrated_by:
 - CASE-030
 - CASE-032
 ---
-<!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-084: Lexical similarity cannot distinguish preservation of communicative footing from a change of speech-act function, so the primary outcome of a reconstruction study is pragmatic-frame retention judged blind to condition
 

@@ -61,7 +61,7 @@ answers:
 rivals:
 - THEORY-tmpl3tly
 ---
-<!-- inactive-ok-file: LIT-386 LIT-387 — Deferred; named as the unread works that would extend this account to consciousness and to machines, not leaned on -->
+<!-- inactive-ok-file: LIT-386 LIT-387 — Unavailable; named as the unread works that would extend this account to consciousness and to machines, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-tmpl3tly — Proposed; the rival account of feeling, named as the dissent, not leaned on -->
 

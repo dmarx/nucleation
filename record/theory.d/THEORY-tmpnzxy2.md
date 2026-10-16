@@ -31,7 +31,7 @@ summary: >-
   evolution by assertion; no data. It is a claim about what ascription
   requires, not about what is in heads.
 ---
-<!-- inactive-ok-file: LIT-393 LIT-430 — Deferred; named as where Dennett continues the argument, not leaned on -->
+<!-- inactive-ok-file: LIT-393 LIT-430 — Unavailable; named as where Dennett continues the argument, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-092 — Proposed; accounts that draw on the same papers, named in Connections, not leaned on -->
 
 # THEORY-tmpnzxy2: To ascribe beliefs and desires is to predict a system by assuming it is rational and its beliefs mostly true, so a wholly false belief system has no coherent intentional description and contradictory beliefs no stable one, and the believer, like the person built on that notion, is an idealisation that real creatures only approximate

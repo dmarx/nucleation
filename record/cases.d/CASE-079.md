@@ -31,7 +31,7 @@ summary: >-
   turns up in the record. The event and the data are documented. The
   readings of them are proposals.
 ---
-<!-- inactive-ok-file: CLAIM-279 CLAIM-280 CLAIM-285 LIT-1025 LIT-1032 LIT-1034 LIT-1037 THEORY-218 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-279 CLAIM-280 CLAIM-285 THEORY-218 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-079: r/place: a shared pixel canvas on which each Reddit user could place one pixel at a time under a cooldown, and communities coordinated off the canvas to build, defend and overwrite images
 

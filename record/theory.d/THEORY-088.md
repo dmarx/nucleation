@@ -56,7 +56,7 @@ summary: >-
 answers:
 - QUESTION-042
 ---
-<!-- inactive-ok-file: LIT-647 — Deferred, unread (paywalled); named as the electrophysiological review that could bear on this, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-647 — Unavailable, unread (paywalled); named as the electrophysiological review that could bear on this, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-tmpl8vgb — Proposed; named as the discrete-substate description, weighed against this account and not leaned on -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named in Connections as the record's other phase-dynamics account of coordination, no relation claimed -->
 

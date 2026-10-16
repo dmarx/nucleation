@@ -34,7 +34,7 @@ summary: >-
   clause (1) is empty, since everything is a probabilistic automaton under
   some Description.
 ---
-<!-- inactive-ok-file: LIT-396 — Deferred: this note's own paper, read only in a reprint excerpt; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-396 — Unavailable: this note's own paper, read only in a reprint excerpt; the directive lapses when its status changes -->
 
 # NOTE-335: Putnam — Psychological Predicates
 

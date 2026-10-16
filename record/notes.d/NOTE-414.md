@@ -29,7 +29,7 @@ summary: >-
   targets, spirals, scrolls; in microemulsion, Turing structures. The
   Oregonator is qualitative only.
 ---
-<!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, cited only as the review's source for the far-from-equilibrium condition, not leaned on -->
+<!-- inactive-ok-file: LIT-524 — Unavailable, no lawful full text; Nicolis & Prigogine, cited only as the review's source for the far-from-equilibrium condition, not leaned on -->
 
 # NOTE-414: Belousov-Zhabotinsky reaction
 

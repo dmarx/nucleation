@@ -32,7 +32,7 @@ summary: >-
   chaotic and quantum physics; primary vs secondary causation; chance and
   providence).
 ---
-<!-- inactive-ok-file: LIT-129 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-129 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-107: Religion and Science (SEP)
 

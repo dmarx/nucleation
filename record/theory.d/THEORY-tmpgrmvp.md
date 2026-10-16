@@ -32,7 +32,7 @@ summary: >-
   external store is run or cited. The step from "different fine-grained
   kinds" to "no useful coarse kind" is a challenge plus conservatism.
 ---
-<!-- inactive-ok-file: LIT-412 — Deferred; Clark's book, named for its chapter answering this paper, not leaned on -->
+<!-- inactive-ok-file: LIT-412 — Unavailable; Clark's book, named for its chapter answering this paper, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpegs18 THEORY-tmpnnu03 — Proposed; the rival account and a neighbouring critic, named in Connections, not leaned on -->
 
 # THEORY-tmpgrmvp: The cases offered for extended cognition are explained at least as well by embedded cognition, on which the organism leans heavily on external props, and memory research finds that external stores lack the interference, generation effect and power-law learning and forgetting of internal memory, so a kind spanning both does no explanatory work and conservatism favours the embedded account

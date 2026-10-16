@@ -32,7 +32,7 @@ summary: >-
   interaction, not a deck difference, so "before knowing" is better
   supported for articulated strategy than for any awareness at all.
 ---
-<!-- inactive-ok-file: LIT-385 — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
+<!-- inactive-ok-file: LIT-385 — Unavailable, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
 
 # NOTE-331: Bechara, Damasio, Tranel & Damasio — Deciding advantageously before knowing the advantageous strategy
 

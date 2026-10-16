@@ -26,7 +26,7 @@ supports:
 presupposed_by:
 - THEORY-tmpqeezl
 ---
-<!-- inactive-ok-file: LIT-723 — Deferred, unread; Making Things Happen, named as the unread book -->
+<!-- inactive-ok-file: LIT-723 — Unavailable, unread; Making Things Happen, named as the unread book -->
 <!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named as an application -->
 <!-- inactive-ok-file: THEORY-131 — Proposed; French, named for a contrast -->
 

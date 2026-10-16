@@ -58,7 +58,7 @@ rivals:
 - THEORY-tmpyhvde
 ---
 <!-- inactive-ok-file: THEORY-tmpyhvde — Proposed; Strawson's account, a rival, named as open -->
-<!-- inactive-ok-file: LIT-572 — Deferred; McAdams and McLean 2013, named as the canonical review, not leaned on -->
+<!-- inactive-ok-file: LIT-572 — Unavailable; McAdams and McLean 2013, named as the canonical review, not leaned on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-050 THEORY-051 THEORY-076 THEORY-064 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-060: A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being

@@ -43,7 +43,7 @@ summary: >-
   earlier correlate of consciousness, not an argument made here.
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; accounts the directness criterion bears on, named in Connections, not leaned on -->
-<!-- inactive-ok-file: LIT-412 — Deferred; Clark's book, which the foreword introduces, named and not leaned on -->
+<!-- inactive-ok-file: LIT-412 — Unavailable; Clark's book, which the foreword introduces, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpgrmvp THEORY-tmpnnu03 THEORY-tmpheyet — Proposed; the rival accounts and a neighbouring account of implants, named in Connections, not leaned on -->
 
 # THEORY-tmpegs18: The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect

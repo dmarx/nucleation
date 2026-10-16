@@ -29,7 +29,7 @@ summary: >-
   nomological and dispositional readings.
 ---
 <!-- inactive-ok-file: LIT-200 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
-<!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: THEORY-tmpalevk — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-112: Poltorak — Wave-function realism and causal closure

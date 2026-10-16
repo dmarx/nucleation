@@ -38,7 +38,7 @@ summary: >-
   on average the model's projectiles are too small to make Copernicus.
 ---
 
-<!-- inactive-ok-file: LIT-009 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-009 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-tmpd9dko — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-002: Eulalia impact shower

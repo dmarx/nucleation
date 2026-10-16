@@ -83,10 +83,10 @@ supports:
 - CLAIM-174
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
-<!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-153 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
+<!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
 <!-- inactive-ok-file: THEORY-257 THEORY-265 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection, not as standing -->
-<!-- inactive-ok-file: LIT-902 LIT-097 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
+<!-- inactive-ok-file: LIT-902 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
 
 # CLAIM-157: Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 

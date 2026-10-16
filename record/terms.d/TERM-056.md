@@ -20,7 +20,7 @@ summary: >-
 used_by:
 - CLAIM-301
 ---
-<!-- inactive-ok-file: LIT-1079 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1079 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-177 CLAIM-189 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # TERM-056: question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed

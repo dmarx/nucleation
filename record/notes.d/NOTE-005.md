@@ -185,6 +185,8 @@ It is also built on the CREF group's Laplacian Renormalization Group (Villegas e
 
 This is [LIT-028](../literature.d/LIT-028.md); the existing skim is NOTE-005, which this reading replaces. The nucleation record has no THEORY documents yet. A theory this paper could source would be: "A Laplacian's gap exponent and its density-of-states exponent are distinct invariants, and they coincide only in homogeneous geometries." It would be restricted, as the paper's proof is, to bundled graphs in the base-controlled regime.
 
+*Note of 2026-10-16:* the record now holds THEORY documents, and [THEORY-tmplo7ui](../theory.d/THEORY-tmplo7ui.md) states this candidate: the gap exponent and spectral dimension come apart in bundled networks.
+
 **For ML practice: nothing.**
 - The paper makes no ML claim, and no instruction for practice follows from it.
 - The closest anthology material uses a spectral gap to set a mixing timescale ([ANTH-THEORY-056](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-056.md), on statistics of long random sequences). This paper's message is consistent with that: the gap sets terminal equilibration, not intermediate-time decay. But it neither supports nor bears on that document.

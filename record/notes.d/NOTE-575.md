@@ -24,7 +24,7 @@ summary: >-
   historical matter of dispositional self-beliefs acquired in appropriate
   ways. The result is compatible with causal determinism.
 ---
-<!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; the book this précis summarises -->
+<!-- inactive-ok-file: LIT-684 — Unavailable, unread beyond chapter 1; the book this précis summarises -->
 <!-- inactive-ok-file: THEORY-127 — Proposed; List and Pettit on group judgment, named for an open question -->
 
 # NOTE-575: Précis of Responsibility and Control: A Theory of Moral Responsibility

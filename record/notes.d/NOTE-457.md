@@ -27,7 +27,7 @@ summary: >-
   unblending, attention to polarizations, non-pathologizing burdens,
   movement between system levels, and innate self-healing.
 ---
-<!-- inactive-ok-file: LIT-591 — Deferred; the book this note reads one chapter of -->
+<!-- inactive-ok-file: LIT-591 — Unavailable; the book this note reads one chapter of -->
 <!-- inactive-ok-file: THEORY-044 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-050 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-051 — Proposed; named in Bearing on the record -->

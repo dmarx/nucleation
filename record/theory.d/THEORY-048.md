@@ -43,7 +43,7 @@ summary: >-
 answers:
 - QUESTION-056
 ---
-<!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, named as the paper Kendler 2008 develops, not leaned on -->
+<!-- inactive-ok-file: LIT-552 — Unavailable, no lawful full text; Kendler 2005, named as the paper Kendler 2008 develops, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-036 THEORY-058 — Proposed; named as neighbouring accounts, no relation declared -->
 
 # THEORY-048: In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them

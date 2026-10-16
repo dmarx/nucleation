@@ -33,7 +33,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-051 THEORY-044 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-050 THEORY-052 — Proposed; named in Connections as compatible transdiagnostic accounts -->
 
-<!-- inactive-ok-file: LIT-543 LIT-549 LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-543 LIT-549 LIT-551 — Unavailable, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
 # NOTE-431: Acceptance and Commitment Therapy: Model, Processes and Outcomes
 

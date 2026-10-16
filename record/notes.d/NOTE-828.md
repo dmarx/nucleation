@@ -32,7 +32,7 @@ summary: >-
   in the parameter count d. The mini-batch gradient is biased; a moving
   average is offered as a heuristic fix without proof.
 ---
-<!-- inactive-ok-file: THEORY-237 THEORY-001 THEORY-308 LIT-243 NOTE-224 — Proposed, Deferred or Superseded; the family account that cites this paper, the account set beside it, the consistency account filed from this reading, Adler's coda named in the skim, and the skim this reading replaces -->
+<!-- inactive-ok-file: THEORY-237 THEORY-001 THEORY-308 NOTE-224 — Proposed, Deferred or Superseded; the family account that cites this paper, the account set beside it, the consistency account filed from this reading, Adler's coda named in the skim, and the skim this reading replaces -->
 
 # NOTE-828: Belghazi et al. — Mutual Information Neural Estimation
 

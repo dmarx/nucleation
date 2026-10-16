@@ -32,7 +32,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-055 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-056 — Proposed; named in Connections -->
 
-<!-- inactive-ok-file: LIT-546 LIT-550 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-546 LIT-550 — Unavailable, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
 # NOTE-433: Impulsive action: emotional impulses and their control
 

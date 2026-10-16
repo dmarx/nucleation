@@ -28,7 +28,6 @@ summary: >-
   instead, and "performative" does not occur in the manuscript.
   Apparently dropped by inadvertence, never argued against.
 ---
-<!-- inactive-ok-file: CLAIM-061 CLAIM-064 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-054: A translation can preserve interpretive content while failing as a social act: interpretive and performative fidelity come apart
 

@@ -39,8 +39,8 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-043 — Proposed; the account that cites this reading, named in Bearing on the record, not leaned on -->
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
-<!-- inactive-ok-file: LIT-418 — Deferred, closed access; named as Minsky's reply to the reviews of the book, not leaned on -->
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the book this work belongs to or answers, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-418 — Unavailable, closed access; named as Minsky's reply to the reviews of the book, not leaned on -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the book this work belongs to or answers, not leaned on for its content -->
 
 # NOTE-339: Examining the Society of Mind
 

@@ -37,7 +37,6 @@ summary: >-
   paper gives no worst-case bound and no recall guarantee. Construction is
   argued to cost about N searches.
 ---
-<!-- inactive-ok-file: LIT-1098 LIT-1103 LIT-1112 — new filings, the source and two companion readings in progress -->
 
 # THEORY-365: A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, makes greedy search cost grow about logarithmically with the number of items on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
 

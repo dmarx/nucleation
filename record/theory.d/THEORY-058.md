@@ -57,7 +57,7 @@ summary: >-
 answers:
 - QUESTION-045
 ---
-<!-- inactive-ok-file: LIT-548 LIT-552 — Deferred; Engel and Kendler 2005 named as the unread background, not leaned on -->
+<!-- inactive-ok-file: LIT-548 LIT-552 — Unavailable; Engel and Kendler 2005 named as the unread background, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-048 — Proposed; the inflexibility account, named to say the two are compatible, and the implementation account, named for the cross-level loops -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named as the record's measured case of a transition with hysteresis and critical slowing, not leaned on -->
 

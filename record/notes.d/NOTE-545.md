@@ -31,7 +31,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 THEORY-122 THEORY-120 — Proposed; the theories this reading bears on, named in prose -->
-<!-- inactive-ok-file: LIT-575 LIT-690 — Deferred, unread; Frankfurt's 1987/88 essay and Wolf's "Sanity", named in Connections -->
+<!-- inactive-ok-file: LIT-575 LIT-690 — Unavailable, unread; Frankfurt's 1987/88 essay and Wolf's "Sanity", named in Connections -->
 
 # NOTE-545: Freedom of the Will and the Concept of a Person
 

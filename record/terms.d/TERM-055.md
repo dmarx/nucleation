@@ -22,7 +22,7 @@ used_by:
 - CLAIM-306
 - CLAIM-312
 ---
-<!-- inactive-ok-file: LIT-1065 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1065 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-296 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # TERM-055: operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline

@@ -18,7 +18,6 @@ summary: >-
 used_by:
 - CLAIM-111
 ---
-<!-- inactive-ok-file: CLAIM-111 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-011: frame, as inferred from evidence
 

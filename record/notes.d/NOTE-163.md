@@ -36,7 +36,7 @@ summary: >-
   influential Simons (1987) pairing, Supplementation + Unrestricted Sum3,
   which the entry's own 2003 edition also used, does not yield GEM.
 ---
-<!-- inactive-ok-file: LIT-188 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-188 — Proposed since its reading in NOTE-173: a related seed named by a 2026-09-26 close reading on the mereology tag -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: THEORY-tmpnan16 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->

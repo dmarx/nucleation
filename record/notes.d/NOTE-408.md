@@ -35,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, whose verdict this reading bears on -->
 
-<!-- inactive-ok-file: LIT-473 — Deferred: Lewis's Convention, cited by the chapter as the model of coordination; lapses when it is read -->
+<!-- inactive-ok-file: LIT-473 — Unavailable: Lewis's Convention, cited by the chapter as the model of coordination; lapses when it is read -->
 
 <!-- inactive-ok-file: LIT-496 — Proposed: the MAC-Q, filed in the same batch -->
 

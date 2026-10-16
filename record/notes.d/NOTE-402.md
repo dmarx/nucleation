@@ -28,7 +28,7 @@ summary: >-
   psychology, not tested.
 ---
 
-<!-- inactive-ok-file: LIT-495 — Deferred, no lawful full text: Alexander 1987, filed in the same batch; named as a neighbour, its content attributed to its publisher and to Nowak -->
+<!-- inactive-ok-file: LIT-495 — Unavailable, no lawful full text: Alexander 1987, filed in the same batch; named as a neighbour, its content attributed to its publisher and to Nowak -->
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation filed in the same batch; cited for which sources it credits for each domain -->
 <!-- inactive-ok-file: THEORY-tmpx3n05 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 

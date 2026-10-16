@@ -50,7 +50,7 @@ summary: >-
 answers:
 - QUESTION-046
 ---
-<!-- inactive-ok-file: LIT-467 — Deferred; Being No One, named as the unread book that could move this, not leaned on -->
+<!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-064 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-063: The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model

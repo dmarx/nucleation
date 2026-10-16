@@ -28,7 +28,7 @@ summary: >-
   account takes from it only the half that holds by definition and marks
   the rest as the memo's claim.
 ---
-<!-- inactive-ok-file: LIT-334 — Deferred; Gärdenfors's conceptual spaces, named as a neighbouring account, not leaned on -->
+<!-- inactive-ok-file: LIT-334 — Unavailable; Gärdenfors's conceptual spaces, named as a neighbouring account, not leaned on -->
 <!-- inactive-ok-file: THEORY-057 THEORY-tmphgz0f — Proposed; accounts that cite the same memo, named in Connections, not leaned on -->
 
 # THEORY-tmp8bxd9: If commonsense knowledge includes defaults that later evidence displaces, a monotonic logic, in which an added axiom can never remove a theorem, cannot represent that displacement as it stands; Minsky's further claim, that no consistency-seeking logical system can carry commonsense knowledge, is asserted, not shown

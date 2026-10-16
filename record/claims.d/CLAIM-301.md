@@ -36,7 +36,7 @@ summary: >-
 objected_by:
 - CLAIM-292
 ---
-<!-- inactive-ok-file: LIT-1079 — Deferred; works registered unread, cited for what they would be read for, not leaned on -->
+<!-- inactive-ok-file: LIT-1079 — Unavailable; works registered unread, cited for what they would be read for, not leaned on -->
 <!-- inactive-ok-file: CLAIM-184 CLAIM-191 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CLAIM-301: Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries

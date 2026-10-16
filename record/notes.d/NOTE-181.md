@@ -41,9 +41,9 @@ summary: >-
   relational and empathy-based approaches that reject argument from
   capacities altogether (§3).
 ---
-<!-- inactive-ok-file: LIT-126 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-126 — Rejected since its reading in NOTE-128: a related work named by a 2026-09-26 close reading on the agency tag -->
 <!-- inactive-ok-file: LIT-193 — Proposed since its reading in NOTE-120: a related work named by a 2026-09-26 close reading on the agency tag -->
-<!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-117 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-181: The Moral Status of Animals (SEP)
 

@@ -33,9 +33,9 @@ summary: >-
   bibliography, and Schwitzgebel 2015 is listed with critics of group
   phenomenal states.
 ---
-<!-- inactive-ok-file: LIT-478 — Deferred, only its introduction is lawfully readable; The Ant Trap, whose framework this reading states from the entry and the précis -->
-<!-- inactive-ok-file: LIT-473 — Deferred, no lawful full text; Lewis's Convention, named as the entry surveys it -->
-<!-- inactive-ok-file: LIT-493 — Deferred, no lawful full text; Bicchieri, named as the entry lists her -->
+<!-- inactive-ok-file: LIT-478 — Unavailable, only its introduction is lawfully readable; The Ant Trap, whose framework this reading states from the entry and the précis -->
+<!-- inactive-ok-file: LIT-473 — Unavailable, no lawful full text; Lewis's Convention, named as the entry surveys it -->
+<!-- inactive-ok-file: LIT-493 — Unavailable, no lawful full text; Bicchieri, named as the entry lists her -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; this reading says how the framework bears on that account, and does not lean on it -->
 <!-- inactive-ok-file: LIT-188 — Proposed; Griesemer & Shavit, named as a neighbouring typology of collectives, not leaned on -->
 

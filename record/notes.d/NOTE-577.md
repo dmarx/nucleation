@@ -33,7 +33,7 @@ summary: >-
   chiefly the collapse of Three and Five when Four is missing. Evidence is
   the author's recollected consultancy.
 ---
-<!-- inactive-ok-file: LIT-746 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-746 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-153 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 

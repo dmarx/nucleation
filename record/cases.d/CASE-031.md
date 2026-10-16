@@ -25,7 +25,7 @@ variants:
 ---
 <!-- inactive-ok-file: CLAIM-061 — Proposed; the claim whose necessity half this case is a candidate for, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: LIT-766 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
+<!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
 # CASE-031: Marot's "A une Damoyselle malade" and Hofstadter's translations of it
 

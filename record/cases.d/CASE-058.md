@@ -24,7 +24,7 @@ summary: >-
   answer to [QUESTION-076](../questions.d/QUESTION-076.md): commitment relative to a source is
   annotatable when defined by tests, interpersonal stance only moderately.
 ---
-<!-- inactive-ok-file: LIT-780 — Deferred; Goffman, unread here, named as the source of the footing construct and not leaned on -->
+<!-- inactive-ok-file: LIT-780 — Unavailable; Goffman, unread here, named as the source of the footing construct and not leaned on -->
 
 # CASE-058: FactBank's source-relative factuality labels and Kiesling et al.'s stance-triangle annotation: one stance construct annotated reliably, the interpersonal ones not
 

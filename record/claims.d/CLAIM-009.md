@@ -27,7 +27,6 @@ summary: >-
 ---
 <!-- ref::uses-file: TERM-031 — stated in "frame, as a measurement context"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-115 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-109 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-009: Pragmatic judgements may be formally contextual: their context-relative distributions may admit no global extension once direct context effects are accounted for
 

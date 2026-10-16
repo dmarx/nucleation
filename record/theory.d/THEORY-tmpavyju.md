@@ -29,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmprd3gk THEORY-tmp22bpm THEORY-tmpinjtf — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-057 — Proposed; accounts that use this survey in their bodies, named and not leaned on -->
-<!-- inactive-ok-file: LIT-478 — Deferred, only its introduction is lawfully readable; The Ant Trap, whose framework this account states from the entry and the précis -->
+<!-- inactive-ok-file: LIT-478 — Unavailable, only its introduction is lawfully readable; The Ant Trap, whose framework this account states from the entry and the précis -->
 
 # THEORY-tmpavyju: Social ontology asks two separable questions about a social category: what grounds a fact of that kind, the conditions something must meet, and what anchors those conditions, the facts that put them in place; theories of the field, such as convention, collective acceptance and practice, answer the second, and a theory can be individualist about one and not the other
 

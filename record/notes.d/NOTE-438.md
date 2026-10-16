@@ -36,7 +36,7 @@ summary: >-
   cognitive evaluation theory and contradicts Eisenberger and Cameron's
   helplessness and learned-industriousness account.
 ---
-<!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; its results are reported as this paper states them -->
+<!-- inactive-ok-file: LIT-556 — Unavailable: Cameron & Pierce (1994) is unread; its results are reported as this paper states them -->
 
 # NOTE-438: A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation
 

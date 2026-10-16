@@ -23,9 +23,9 @@ summary: >-
   a fit target of reactive attitudes is offered as a hunch: an intelligent
   self that perceives, understands and appreciates the world as we do.
 ---
-<!-- inactive-ok-file: LIT-685 LIT-684 — Deferred, unread; Wolf's book and Fischer and Ravizza's book, named as unread neighbours, nothing is quoted from them -->
+<!-- inactive-ok-file: LIT-685 LIT-684 — Unavailable, unread; Wolf's book and Fischer and Ravizza's book, named as unread neighbours, nothing is quoted from them -->
 <!-- inactive-ok-file: THEORY-147 — Proposed; the account filed from this reading -->
-<!-- inactive-ok-file: THEORY-122 THEORY-121 THEORY-118 — Proposed; Wolf's Reason View, Fischer and Ravizza's account and Wolf's asymmetry, named for how the lecture bears on them -->
+<!-- inactive-ok-file: THEORY-122 THEORY-118 — Proposed; Wolf's Reason View, Fischer and Ravizza's account and Wolf's asymmetry, named for how the lecture bears on them -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit on corporate responsibility, named for a contrast -->
 
 # NOTE-565: Responsibility, Moral and Otherwise

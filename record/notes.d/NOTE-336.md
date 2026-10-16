@@ -30,7 +30,7 @@ summary: >-
   Nothing is measured; the invariance argument is a one-page sketch.
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 — Proposed; this entry says how the work bears on those accounts, and does not lean on them -->
-<!-- inactive-ok-file: LIT-441 — Deferred: the book is not lawfully readable online; named as where the paper says its arguments are given at length, not leaned on -->
+<!-- inactive-ok-file: LIT-441 — Unavailable: the book is not lawfully readable online; named as where the paper says its arguments are given at length, not leaned on -->
 
 # NOTE-336: Chalmers — Facing Up to the Problem of Consciousness
 

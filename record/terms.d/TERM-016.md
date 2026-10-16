@@ -27,7 +27,6 @@ used_by:
 - CLAIM-109
 ---
 <!-- inactive-ok-file: ARG-004 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-016: frame, as a pragmatic frame of reference
 

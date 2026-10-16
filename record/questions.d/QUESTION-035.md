@@ -49,7 +49,7 @@ refined_by:
 - QUESTION-116
 - QUESTION-118
 ---
-<!-- inactive-ok-file: LIT-902 — Deferred, unread; named as the source of the compensation test -->
+<!-- inactive-ok-file: LIT-902 — Unavailable, unread; named as the source of the compensation test -->
 <!-- inactive-ok-file: CLAIM-161 — Proposed; one of the candidate tests, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection an answer must avoid, not as standing -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question this sharpens, set aside since the will paper -->

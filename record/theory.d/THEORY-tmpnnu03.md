@@ -37,7 +37,7 @@ summary: >-
   tool use" half is offered as a bet. Rupert, the other critic, rejects
   the derived-content argument as question-begging.
 ---
-<!-- inactive-ok-file: LIT-412 — Deferred; Clark's book, named as one of the replies, not leaned on -->
+<!-- inactive-ok-file: LIT-412 — Unavailable; Clark's book, named as one of the replies, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpgrmvp THEORY-tmpegs18 — Proposed; the rival account and a neighbouring critic, named in Connections, not leaned on -->
 
 # THEORY-tmpnnu03: Cognition has two necessary marks, involving non-derived content and a distinctive kind of causal processing, and as a contingent fact only processes in the brain have both, so notebooks, screens and tools coupled to a thinker are not parts of cognition, and human-plus-tool systems will support no science of their own

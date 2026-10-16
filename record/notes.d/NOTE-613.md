@@ -30,7 +30,7 @@ summary: >-
   symbols show people drawing both implicatures without prior conventions.
 ---
 <!-- inactive-ok-file: THEORY-172 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: LIT-473 — Deferred; filed, not read, and cited only as the source of the signalling-game framing -->
+<!-- inactive-ok-file: LIT-473 — Unavailable; filed, not read, and cited only as the source of the signalling-game framing -->
 
 # NOTE-613: That's what she (could have) said
 

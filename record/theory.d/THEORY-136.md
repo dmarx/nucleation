@@ -31,7 +31,7 @@ supports:
 - CLAIM-184
 - CLAIM-185
 ---
-<!-- inactive-ok-file: LIT-720 — Deferred, unread; the 2001 Nature paper, named as what the 2003 review restates -->
+<!-- inactive-ok-file: LIT-720 — Unavailable, unread; the 2001 Nature paper, named as what the 2003 review restates -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a case the evidential standard bears on -->
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for the Hughes case -->
 

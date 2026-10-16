@@ -37,8 +37,8 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmpinjtf — Proposed; the account this one extends, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-tmpx9sfw THEORY-tmpv1zbf — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-139 — Proposed; the group-agency accounts this distinction scopes, not leaned on -->
-<!-- inactive-ok-file: LIT-491 — Deferred, no lawful full text; Ásta's Categories We Live By, named because Ritchie reinterprets conferralism from earlier papers, not leaned on -->
-<!-- inactive-ok-file: LIT-391 — Deferred, paywalled; List & Pettit's Group Agency, named for which side of the distinction its group agents fall on, not leaned on -->
+<!-- inactive-ok-file: LIT-491 — Unavailable, no lawful full text; Ásta's Categories We Live By, named because Ritchie reinterprets conferralism from earlier papers, not leaned on -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, paywalled; List & Pettit's Group Agency, named for which side of the distinction its group agents fall on, not leaned on -->
 
 # THEORY-tmpll6jt: 'Social group' names two kinds of thing: organized social groups, such as teams, courts and families, are structured wholes whose people occupy the nodes of an internal social structure, while feature social groups, such as women, racial groups and classes, are social kinds, nodes in external social structures, and are not concrete wholes
 

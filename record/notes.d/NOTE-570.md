@@ -22,8 +22,8 @@ summary: >-
   and corporate narratives and counter-narratives. The paper is agnostic
   about whether institutions have minds.
 ---
-<!-- inactive-ok-file: LIT-483 — Deferred, unread; Groups as Agents, the book this article restates in one section -->
-<!-- inactive-ok-file: LIT-391 LIT-430 — Deferred, unread; Group Agency and Dennett's The Intentional Stance, both cited by the article, named as unread -->
+<!-- inactive-ok-file: LIT-483 — Unavailable, unread; Groups as Agents, the book this article restates in one section -->
+<!-- inactive-ok-file: LIT-391 LIT-430 — Unavailable, unread; Group Agency and Dennett's The Intentional Stance, both cited by the article, named as unread -->
 <!-- inactive-ok-file: THEORY-137 — Proposed; the account filed from this reading -->
 <!-- inactive-ok-file: THEORY-127 THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->
 

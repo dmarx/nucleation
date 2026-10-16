@@ -31,8 +31,8 @@ summary: >-
   group is judged unintelligible (§6).
 ---
 
-<!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit's Group Agency, the book this paper substitutes for -->
-<!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt's aggregativity, compared from his later summary, not leaned on -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; List & Pettit's Group Agency, the book this paper substitutes for -->
+<!-- inactive-ok-file: LIT-707 — Unavailable, no lawful full text; Wimsatt's aggregativity, compared from his later summary, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; the record's account of composed and decomposed minds, named for what this paper bears on -->
 
 # NOTE-550: List & Pettit — Group Agency and Supervenience

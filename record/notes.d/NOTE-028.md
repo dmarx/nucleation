@@ -36,7 +36,7 @@ summary: >-
   usefulness or scale.
 ---
 
-<!-- inactive-ok-file: LIT-083 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-083 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-028: Disinformation incidents as cyber threat intelligence (DISINFOX)
 

@@ -26,7 +26,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-677 — Proposed by this reading; the note is the reading that placed it -->
 <!-- inactive-ok-file: LIT-660 — Proposed: named as the other paper a degeneracy candidate would draw on -->
-<!-- inactive-ok-file: LIT-354 — Deferred: Watanabe's book is unread; named as the record's holding on singular models, with no relation claimed -->
+<!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as the record's holding on singular models, with no relation claimed -->
 
 # NOTE-522: Unveiling mode-connectivity of the ELBO landscape
 

@@ -31,13 +31,13 @@ summary: >-
   individual commitments.
 ---
 
-<!-- inactive-ok-file: LIT-701 — Deferred, no lawful full text; Gilbert's account, reported as Huebner states it -->
-<!-- inactive-ok-file: LIT-697 — Deferred, no lawful full text; Schmid's account, compared from its abstract, not leaned on -->
-<!-- inactive-ok-file: LIT-426 — Deferred, no lawful full text; Huebner's Macrocognition, named as the book-length programme -->
-<!-- inactive-ok-file: LIT-546 — Deferred, unread; Frijda's The Emotions, cited by the paper -->
+<!-- inactive-ok-file: LIT-701 — Unavailable, no lawful full text; Gilbert's account, reported as Huebner states it -->
+<!-- inactive-ok-file: LIT-697 — Unavailable, no lawful full text; Schmid's account, compared from its abstract, not leaned on -->
+<!-- inactive-ok-file: LIT-426 — Unavailable, no lawful full text; Huebner's Macrocognition, named as the book-length programme -->
+<!-- inactive-ok-file: LIT-546 — Unavailable, unread; Frijda's The Emotions, cited by the paper -->
 <!-- inactive-ok-file: THEORY-057 — Proposed; the record's constructionist account of emotion categories, named for contrast -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; the record's account of composed and decomposed minds, named as the nearest THEORY -->
-<!-- inactive-ok-file: LIT-492 LIT-477 — Deferred, unread; Gilbert's earlier works, named as held, not leaned on -->
+<!-- inactive-ok-file: LIT-492 LIT-477 — Unavailable, unread; Gilbert's earlier works, named as held, not leaned on -->
 
 # NOTE-553: Huebner — Genuinely collective emotions
 

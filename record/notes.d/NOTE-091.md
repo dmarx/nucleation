@@ -31,7 +31,7 @@ summary: >-
   supports mental causation only by identifying M with N, not nonreductive
   physicalism.
 ---
-<!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: THEORY-tmp1iff3 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-091: Pernu — Mental causation via neuroprosthetics?

@@ -44,7 +44,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-157 — Proposed; filed from this reading -->
 <!-- inactive-ok-file: THEORY-017 — Proposed; named for bases as extra structure, a parallel the reader draws, with no relation claimed -->
-<!-- inactive-ok-file: LIT-778 — Deferred; Torgersen's comparison of experiments, named as a neighbour, not cited by the paper -->
+<!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen's comparison of experiments, named as a neighbour, not cited by the paper -->
 
 # NOTE-588: Fritz — A synthetic approach to Markov kernels
 

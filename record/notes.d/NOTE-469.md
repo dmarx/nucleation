@@ -30,7 +30,7 @@ summary: >-
   with disliked true-self traits as effective as liked ones.
 ---
 <!-- inactive-ok-file: THEORY-074 — Proposed; named as the THEORY filed from this note, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-574 LIT-594 LIT-183 — Deferred; named for what this paper measures against or for contrast, not leaned on -->
+<!-- inactive-ok-file: LIT-574 LIT-594 LIT-183 — Unavailable; named for what this paper measures against or for contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-029 — Proposed; named as accounts this reading bears on, from the file statuses, nothing here rests on them -->
 
 # NOTE-469: Thine Own Self: True Self-Concept Accessibility and Meaning in Life

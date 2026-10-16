@@ -57,7 +57,7 @@ presupposes:
 supports:
 - CLAIM-156
 ---
-<!-- inactive-ok-file: LIT-543 — Deferred, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
+<!-- inactive-ok-file: LIT-543 — Unavailable, abstract only; the 2024 meta-analysis, named as the test that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-050 THEORY-044 — Proposed; the model this presupposes and the conceptual account of the self -->
 <!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast -->

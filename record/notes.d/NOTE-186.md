@@ -34,9 +34,9 @@ summary: >-
   is mitigated when the celebrity's self-presentation is misleading or
   ambiguous.
 ---
-<!-- inactive-ok-file: LIT-174 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-137 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-126 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-174 — Unavailable: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-137 — Unavailable: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-126 — Rejected since its reading in NOTE-128: a related work named by a 2026-09-26 close reading on the identity tag -->
 
 # NOTE-186: Ethics of Parasocial Relationships
 

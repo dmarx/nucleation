@@ -35,7 +35,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-tmpc6rib — Proposed; Tomasello's account, named beside his book, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmprd3gk — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-tmpavyju — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
-<!-- inactive-ok-file: LIT-473 — Deferred, no lawful full text; Lewis's Convention, named as the account this paper extends, as the paper states it -->
+<!-- inactive-ok-file: LIT-473 — Unavailable, no lawful full text; Lewis's Convention, named as the account this paper extends, as the paper states it -->
 
 # THEORY-tmp22bpm: Institutions are rules in equilibrium, correlated equilibria of coordination games with several equilibria that the players represent to themselves as rules, and a constitutive rule 'X counts as Y in C' is a regulative rule split by a coined term into a base rule and a status rule, so the term adds a name and cognitive economy but no new kind of fact
 

@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; read only in part, filed with that skim on 2026-10-14 -->
 <!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading this account rests on -->
-<!-- inactive-ok-file: THEORY-119 THEORY-121 THEORY-040 — Proposed; the accounts this one stands beside, open -->
+<!-- inactive-ok-file: THEORY-119 THEORY-040 — Proposed; the accounts this one stands beside, open -->
 
 # THEORY-316: Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one
 

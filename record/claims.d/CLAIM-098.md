@@ -36,7 +36,6 @@ complements:
 - CLAIM-318
 ---
 <!-- inactive-ok-file: CLAIM-004 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: CLAIM-102 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-098: Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases
 

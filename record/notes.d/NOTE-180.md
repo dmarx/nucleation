@@ -51,7 +51,7 @@ summary: >-
   are offered as the features that make the paradigm case clear. The paper
   explicitly says they are not necessary and sufficient conditions.
 ---
-<!-- inactive-ok-file: LIT-212 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-212 — Rejected since its reading in NOTE-176: a related seed named by a 2026-09-26 close reading on the mereology tag -->
 <!-- inactive-ok-file: LIT-046 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 
 # NOTE-180: Clark & Chalmers — The Extended Mind

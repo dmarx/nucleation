@@ -32,8 +32,8 @@ summary: >-
   otherwise", and Frankfurt says it is compatible with determinism.
 ---
 
-<!-- inactive-ok-file: THEORY-118 THEORY-121 THEORY-119 THEORY-040 — Proposed; the theories this reading bears on, named in prose -->
-<!-- inactive-ok-file: LIT-687 LIT-684 LIT-688 — Deferred, unread; the later works named in Connections -->
+<!-- inactive-ok-file: THEORY-118 THEORY-119 THEORY-040 — Proposed; the theories this reading bears on, named in prose -->
+<!-- inactive-ok-file: LIT-684 LIT-688 — Unavailable, unread; the later works named in Connections -->
 
 # NOTE-546: Alternate Possibilities and Moral Responsibility
 

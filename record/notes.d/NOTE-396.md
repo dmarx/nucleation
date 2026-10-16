@@ -35,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-496 — Proposed: the MAC-Q, filed in the same batch, whose MFQ studies bear on the purity point -->
 
-<!-- inactive-ok-file: LIT-494 — Deferred, unread: dyadic morality, the harm-monist theory this chapter argues against in an earlier form -->
+<!-- inactive-ok-file: LIT-494 — Unavailable, unread: dyadic morality, the harm-monist theory this chapter argues against in an earlier form -->
 
 # NOTE-396: Graham et al. 2013, Moral Foundations Theory
 

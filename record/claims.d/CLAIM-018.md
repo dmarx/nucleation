@@ -25,7 +25,7 @@ summary: >-
   theory." Its absence from the premises of [ARG-007](../arguments.d/ARG-007.md) is how the record
   says so.
 ---
-<!-- inactive-ok-file: LIT-817 — Deferred; set aside, and cited to say what was set aside with it -->
+<!-- inactive-ok-file: LIT-817 — Unavailable; set aside, and cited to say what was set aside with it -->
 
 # CLAIM-018: Canguilhem's distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity
 

@@ -32,7 +32,7 @@ summary: >-
   without verificationism: the two readings compress and predict equally,
   so neither better describes the pattern.
 ---
-<!-- inactive-ok-file: LIT-434 LIT-301 — Deferred, filed unread; named as Dennett's 2016 reply to Frankish and as a work Taylor cites, not leaned on -->
+<!-- inactive-ok-file: LIT-434 LIT-301 — Unavailable, filed unread; named as Dennett's 2016 reply to Frankish and as a work Taylor cites, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; named as accounts the reading may bear on, not leaned on -->
 
 # NOTE-379: Taylor — Consciousness interpreted

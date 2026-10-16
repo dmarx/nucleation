@@ -80,7 +80,6 @@ objected_by:
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: THEORY-161 — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
-<!-- inactive-ok-file: CLAIM-051 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
 # CLAIM-050: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise

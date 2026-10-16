@@ -33,8 +33,8 @@ summary: >-
   argument and an abductive one from anomalousness. Objections are
   answered by agreeing to weakened versions of their intuitions.
 ---
-<!-- inactive-ok-file: LIT-434 — Deferred, no readable full text; Dennett's reply in the same issue, named as the response this article drew, not leaned on -->
-<!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi, known through Stich's summary, named for comparison, not leaned on -->
+<!-- inactive-ok-file: LIT-434 — Unavailable, no readable full text; Dennett's reply in the same issue, named as the response this article drew, not leaned on -->
+<!-- inactive-ok-file: LIT-393 — Unavailable, no lawful full text; Dennett's discharge of homunculi, known through Stich's summary, named for comparison, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; named as accounts the reading may bear on, not leaned on -->
 
 # NOTE-384: Frankish — Illusionism as a Theory of Consciousness

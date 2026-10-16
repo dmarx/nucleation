@@ -49,7 +49,7 @@ summary: >-
 answers:
 - QUESTION-007
 ---
-<!-- inactive-ok-file: LIT-599 — Deferred; the book version of the lectures, named as the unread work that would move this -->
+<!-- inactive-ok-file: LIT-599 — Unavailable; the book version of the lectures, named as the unread work that would move this -->
 <!-- inactive-ok-file: THEORY-029 THEORY-047 THEORY-054 THEORY-065 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-075: Obligation is the reflective rejection of what would violate the agent's practical identity, and moral obligation follows only because valuing any practical identity commits the agent to valuing her humanity

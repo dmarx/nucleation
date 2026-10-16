@@ -24,7 +24,6 @@ summary: >-
   perfect anticorrelation of two fair binary observables have equal
   entropy and reverse a fundamental relationship.
 ---
-<!-- inactive-ok-file: CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-043: Equal entropy does not entail equal relational structure, and a collection of local entropies need not characterize global compatibility
 

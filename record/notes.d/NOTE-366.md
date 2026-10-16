@@ -31,9 +31,9 @@ summary: >-
   perhaps not qualia, and no account of inputs and outputs avoids both
   liberalism and chauvinism.
 ---
-<!-- inactive-ok-file: LIT-396 — Deferred: Putnam's original is closed and was read only in a reprint excerpt; cited for the wording of condition (3), which the excerpt carries verbatim -->
-<!-- inactive-ok-file: LIT-419 — Deferred, closed access; named as the reply Schwitzgebel points to, not leaned on -->
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the decomposition side of the bridge, not leaned on -->
+<!-- inactive-ok-file: LIT-396 — Unavailable: Putnam's original is closed and was read only in a reprint excerpt; cited for the wording of condition (3), which the excerpt carries verbatim -->
+<!-- inactive-ok-file: LIT-419 — Unavailable, closed access; named as the reply Schwitzgebel points to, not leaned on -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the decomposition side of the bridge, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed: an excerpt of the 1975 reprint was read; cited only for the verbatim wording of condition (3); the directive lapses when its status changes -->
 
 # NOTE-366: Block — Troubles with Functionalism

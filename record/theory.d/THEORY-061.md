@@ -49,7 +49,7 @@ summary: >-
 answers:
 - QUESTION-062
 ---
-<!-- inactive-ok-file: LIT-600 LIT-604 — Deferred, unread; Norman & Shallice and Carver & Scheier named as the older traditions, not leaned on -->
+<!-- inactive-ok-file: LIT-600 LIT-604 — Unavailable, unread; Norman & Shallice and Carver & Scheier named as the older traditions, not leaned on -->
 <!-- inactive-ok-file: THEORY-059 THEORY-070 — Proposed; companion accounts in this batch, named for what each adds -->
 
 # THEORY-061: In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which

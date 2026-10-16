@@ -25,7 +25,7 @@ answered_by:
 refined_by:
 - QUESTION-100
 ---
-<!-- inactive-ok-file: CLAIM-277 LIT-1026 LIT-570 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-277 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-087: Can an authority structure that reproduces itself be pathological by a standard grounded in the organization's own organization, and not in goals assigned to it from outside?
 

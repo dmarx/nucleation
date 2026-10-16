@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-068 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: THEORY-155 THEORY-164 THEORY-167 THEORY-173 — Proposed; the readings whose scope is described, cited for what they measure, not as settled -->
-<!-- inactive-ok-file: LIT-768 — Deferred; Bartlett, unread here for want of a lawful copy, cited as absent support and not leaned on -->
+<!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, unread here for want of a lawful copy, cited as absent support and not leaned on -->
 <!-- inactive-ok-file: CLAIM-059 CLAIM-115 CLAIM-139 — Proposed; cited as the claim CLAIM-068 feeds and the central theses it does not, not as settled -->
 <!-- inactive-ok-file: CLAIM-090 QUESTION-076 — Proposed or open; cited in the note of 2026-10-10 for what the documented case bears on, not as settled -->
 

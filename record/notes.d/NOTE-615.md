@@ -37,7 +37,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-167 — Proposed; filed from this reading -->
-<!-- inactive-ok-file: LIT-775 — Deferred; named for contrast, not leaned on -->
+<!-- inactive-ok-file: LIT-775 — Unavailable; named for contrast, not leaned on -->
 
 # NOTE-615: Морфология сказки
 
