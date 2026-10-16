@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmppvvyq
 title: 'Serial transmission is reconstructive and filtered by the transmitters'' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    THEORY-tmpaw5e2 added to grounds. The section on evidence from human
+    chains argues from the Kalish, Griffiths and Lewandowsky result, which
+    that THEORY now states with its limits. The claim is unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -24,6 +31,7 @@ grounds:
 - LIT-769
 - LIT-771
 - LIT-768
+- THEORY-tmpaw5e2
 summary: >-
   The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby,
   Cornish and Smith together as showing the same thing. [CLAIM-066](CLAIM-066.md)
@@ -35,6 +43,7 @@ supports:
 illustrated_by:
 - CASE-068
 ---
+<!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, cited from the manuscript and said to be unread -->
 
 # CLAIM-090: Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable
 

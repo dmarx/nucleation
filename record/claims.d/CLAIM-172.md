@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmptsdgt
 title: 'Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other''s timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-11'
@@ -49,6 +49,15 @@ history:
     (NOTE-773). The defeater now requires that a decomposed model no
     more complex than the relative-phase model predict as well, so the
     collective variable must buy no descriptive economy.
+- version: 7
+  date: '2026-10-16'
+  note: >-
+    Grounds now point at THEORY-tmpma6ht, which states the
+    coupling-constitution objection from its readings (NOTE-368,
+    NOTE-380), in place of the bare LIT-455. That THEORY says the
+    objection shows coupling does not entail parthood, not that coupling
+    never makes it, which is weaker than this claim's summary puts it.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -70,7 +79,7 @@ answers:
 grounds:
 - THEORY-069
 - LIT-097
-- LIT-455
+- THEORY-tmpma6ht
 - LIT-439
 - LIT-571
 - THEORY-265
