@@ -1,0 +1,42 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'Linking fast and slow: The case for generative models'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against arXiv and Crossref
+    on 2026-10-16. arXiv v1 (2023-08-21) precedes the journal (2024-04-01). Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- neuroscience
+- complex-systems
+date: '2026-10-16'
+published: '2023-08-21'
+arxiv: '2308.10618'
+first_author: 'Medrano'
+keywords:
+- 'neuronal connectivity'
+- 'multiple timescales'
+- 'generative models'
+- 'dynamic causal modelling'
+implementations: []
+summary: >-
+  Medrano (2024). A review arguing that changes in neuronal connectivity over slow timescales are best tested with generative models that link fast neuronal dynamics to slow changes in their parameters.
+---
+
+# LIT-tmpt0gem: Linking fast and slow: The case for generative models
+
+Medrano, J., Friston, K. J. & Zeidman, P. (2024). *Network Neuroscience* 8(1):24–43. doi:10.1162/netn_a_00343.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+Registered as a candidate for the "2024" paper A8 of the exchange of 2026-10-16 cited, on slow–fast decomposition, Haken's slaving principle and the Haken–Kelso–Bunz model. That paper could not be identified uniquely (curation entries of 2026-10-16); the owner asked for every candidate to be filed. The likeliest of the candidates found, though a review rather than a mathematical paper, and its treatment of the slaving principle and HKB was not confirmed in its text. For [CLAIM-tmpufacs](../claims.d/CLAIM-tmpufacs.md).

@@ -1,0 +1,41 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'The Oral History of ''I''m the Juggernaut, Bitch!'''
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref, arXiv and OpenAlex
+    on 2026-10-16. The date the article carries. Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- social-science
+date: '2026-10-16'
+published: '2024-03-20'
+url: 'https://www.theringer.com/2024/03/20/oral-history/x-men-juggernaut-viral-video-oral-history'
+first_author: 'Siegel'
+keywords:
+- 'Juggernaut'
+- 'fan dub'
+- 'X-Men: The Last Stand'
+- 'viral video'
+implementations: []
+summary: >-
+  Siegel (2024). Journalism: interviews with the makers of the 2006 "Juggernaut, Bitch!!" redub and others, and Simon Kinberg's quoted remark, via Polygon, that the film's line "was a reshoot Ratner line".
+---
+
+# LIT-tmppx2y0: The Oral History of 'I'm the Juggernaut, Bitch!'
+
+Siegel, A. (2024-03-20). The Ringer.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The source for [CASE-tmpj323r](../cases.d/CASE-tmpj323r.md), from A7 of the exchange of 2026-10-16. A journalistic history, not theory. The Kinberg quote is second-hand; the Polygon original was not found.

@@ -21,6 +21,8 @@ summary: >-
 answered_by:
 - THEORY-222
 ---
+
+<!-- inactive-ok-file: THEORY-222 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1038 CLAIM-170 CLAIM-194 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-093: Which of predictive autonomy, interventional autonomy, organizational closure and self-individuation must a coalition of processes have before it is a higher-level agent and not a convenient aggregate, and can it have the first without the others?
@@ -57,3 +59,11 @@ predicts held-out behaviour, "especially after leadership changes, territorial
 attacks, or alliance shifts", better than a flat model with complexity
 controlled. An answer says which criteria are necessary and whether any is
 sufficient, with a case where they come apart.
+
+## Note of 2026-10-16: Hoel et al. 2013 is read
+
+The list above calls [LIT-1038](../literature.d/LIT-1038.md) unread. It was read on 2026-10-13
+([NOTE-726](../notes.d/NOTE-726.md)) and has a reading, [THEORY-222](../theory.d/THEORY-222.md). Its status note places it
+here as an interventional criterion met with no closure and no
+self-individuation. [QUESTION-tmp1bt6j](QUESTION-tmp1bt6j.md) asks the parallel question for
+individuation rather than agency.
