@@ -88,5 +88,9 @@ first loop, that the first loop's behaviour does not set ([THEORY-324](../theory
 - [CLAIM-330](CLAIM-330.md) is a linearization at symmetry. It shows what independent
   scoring removes near that point, not that it prevents every form of
   lock-in.
-- The record does not yet say what in a single mind plays the part of
-  Regime B's independent scoring.
+- It does not say what in a single mind plays the part of Regime B's
+  independent scoring. [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md) asks, with five candidates from
+  the record: unselected input, the body, commitment before evidence,
+  processing signals and other people. A paralysed person keeps the first,
+  the second and the fifth inbound, so losing action need not mean losing
+  the anchor.

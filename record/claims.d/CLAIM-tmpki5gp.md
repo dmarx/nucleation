@@ -82,5 +82,12 @@ both make it the source that grounds the system's norms.
 - It does not show that the world can reach the loop only through action.
   [CLAIM-tmpt568z](CLAIM-tmpt568z.md) names other sources: a source the agent does not select,
   and scoring fixed independently of the interpretation.
+- It runs together two things that paralysis takes apart: evidence the
+  loop did not select, which a paralysed person still receives through
+  the senses, and contingency between intention and outcome, which they
+  lose. Kübler and Birbaumer's hypothesis concerns the second. The
+  anchor of [CLAIM-tmpt568z](CLAIM-tmpt568z.md) needs only the first ([QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md)). So
+  even if the hypothesis holds, what extinguishes goal-directed thinking
+  would not be the loss of an anchor.
 - The extinction hypothesis is a hypothesis. Chaudhary et al. report a CLIS
   patient who communicated ([LIT-tmpzuemc](../literature.d/LIT-tmpzuemc.md)), with cautions the case states.
