@@ -21,6 +21,8 @@ summary: >-
 answered_by:
 - THEORY-222
 ---
+
+<!-- inactive-ok-file: THEORY-222 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1038 CLAIM-170 CLAIM-194 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-093: Which of predictive autonomy, interventional autonomy, organizational closure and self-individuation must a coalition of processes have before it is a higher-level agent and not a convenient aggregate, and can it have the first without the others?

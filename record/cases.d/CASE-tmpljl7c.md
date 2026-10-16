@@ -9,10 +9,6 @@ tags:
 - social-ontology
 date: '2026-10-16'
 line: distributed-agency
-illustrates:
-- CLAIM-tmpdhfze
-- CLAIM-tmp11auq
-- CLAIM-tmpufacs
 summary: >-
   The owner's case, U3 of the exchange of 2026-10-16: "the team
   composition experiences extremely fast churn, and yet in spite of this
@@ -29,8 +25,7 @@ supports:
 - CLAIM-tmpufacs
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpdhfze CLAIM-tmp11auq CLAIM-tmpufacs CLAIM-280 CLAIM-194 — Proposed; the claims this case makes vivid or bears on, open -->
-
+<!-- inactive-ok-file: LIT-005 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmpljl7c: A college program stays good, or bad, at a sport for decades while its whole roster turns over every four or five years
 
 ## The case

@@ -30,6 +30,7 @@ summary: >-
   DeMarzo (2003). Agents who fail to discount repeated information converge to a consensus weighted by network position rather than accuracy, and their multidimensional opinions collapse onto one dimension first.
 ---
 
+<!-- inactive-ok-file: CLAIM-297 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmpgwpml: Persuasion Bias, Social Influence, and Unidimensional Opinions
 
 DeMarzo, P. M., Vayanos, D. & Zwiebel, J. (2003). *Quarterly Journal of Economics* 118(3):909–968.

@@ -30,6 +30,7 @@ summary: >-
   Shalizi (2001). Causal states, the classes of pasts with the same conditional distribution over futures, are the unique minimal maximally predictive representation of a process; their entropy is its statistical complexity.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmp11auq — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmp7zubf: Computational Mechanics: Pattern and Prediction, Structure and Simplicity
 
 Shalizi, C. R. & Crutchfield, J. P. (2001). *Journal of Statistical Physics* 104(3–4):817–879. doi:10.1023/A:1010388907793.

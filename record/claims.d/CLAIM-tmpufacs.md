@@ -34,12 +34,9 @@ summary: >-
   a slow variable is thereby a level, a system or an individual.
 complements:
 - CLAIM-tmp11auq
-illustrated_by:
-- CASE-tmpljl7c
 ---
 
-<!-- inactive-ok-file: CLAIM-157 CLAIM-tmp11auq — Proposed; the neighbouring criterion and claim, open -->
-
+<!-- inactive-ok-file: LIT-923 — Unavailable; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-tmpufacs: A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
 ## The claim

@@ -30,6 +30,7 @@ summary: >-
   Škorić (2016). An evidence-based discounting operator for subjective logic that computes reputation with explicit uncertainty on arbitrary trust networks, separating trust in an agent's function from trust in its recommendations.
 ---
 
+<!-- inactive-ok-file: CLAIM-281 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmpe2g57: Flow-based reputation with uncertainty: evidence-based subjective logic
 
 Škorić, B., de Hoogh, S. J. A. & Zannone, N. (2016). *International Journal of Information Security* 15(4):381–402. doi:10.1007/s10207-015-0298-5.

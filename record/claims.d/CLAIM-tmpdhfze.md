@@ -37,13 +37,9 @@ summary: >-
   record meets "causal-organizational continuity": [CLAIM-280](CLAIM-280.md) noted A10
   §4.3's of 2026-10-13 and did not file it. It does not say what must be
   transmitted, or settle branching successors.
-illustrated_by:
-- CASE-tmp3dw7j
-- CASE-tmpljl7c
 ---
 
-<!-- inactive-ok-file: CLAIM-161 CLAIM-280 CLAIM-002 QUESTION-043 — Proposed or Open; the neighbouring persistence claims and the question they share, open -->
-
+<!-- inactive-ok-file: LIT-tmp43amb — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-tmpdhfze: A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it
 
 ## The claim

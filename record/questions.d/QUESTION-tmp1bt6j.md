@@ -22,8 +22,7 @@ summary: >-
   controlled models and reports where the criteria part.
 ---
 
-<!-- inactive-ok-file: QUESTION-065 QUESTION-035 QUESTION-093 CLAIM-157 THEORY-257 THEORY-222 LIT-005 — Open or Proposed; the questions this refines and the criteria it would compare, open -->
-
+<!-- inactive-ok-file: CLAIM-tmpufacs LIT-tmpjc38b — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-tmp1bt6j: Can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree, which of persistence, integration and causal level does each track?
 
 ## Why it is a question

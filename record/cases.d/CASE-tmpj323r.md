@@ -19,8 +19,7 @@ summary: >-
   X-Men fans or the internet at large, is not.
 ---
 
-<!-- inactive-ok-file: QUESTION-tmpxrbo1 — Open; the question the case poses -->
-
+<!-- inactive-ok-file: LIT-tmppx2y0 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmpj323r: A fan redub of an X-Men cartoon, circulated online in 2006, put "I'm the Juggernaut, bitch!" into X-Men: The Last Stand three months later
 
 ## The case

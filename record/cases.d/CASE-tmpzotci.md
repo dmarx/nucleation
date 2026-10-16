@@ -17,10 +17,11 @@ summary: >-
   designate the successor fandom. The lineages are documented; how
   supporters actually distributed their loyalties is not, and the case
   does not show that a fandom's identity branched.
+supports:
+- CLAIM-tmpdhfze
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpdhfze CLAIM-002 QUESTION-tmpn78rt — Proposed or Open; the claim and question the case tests -->
-
+<!-- inactive-ok-file: LIT-tmpkp0gw — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmpzotci: The Washington Senators: the original club became the Minnesota Twins in 1961, an expansion club took its name in Washington and became the Texas Rangers in 1972, and the Montreal Expos became the Washington Nationals in 2005, so franchise, city and supporters each have a different successor
 
 ## The case

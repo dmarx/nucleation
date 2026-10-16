@@ -10,7 +10,6 @@ tags:
 date: '2026-10-16'
 line: distributed-agency
 illustrates:
-- CLAIM-tmpdhfze
 - CLAIM-tmp11auq
 summary: >-
   From U2 of the exchange of 2026-10-16 on sports fandom (the owner's
@@ -25,8 +24,7 @@ supports:
 - CLAIM-tmpufacs
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpdhfze CLAIM-tmp11auq — Proposed; the claims this case makes vivid, open -->
-
+<!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 LIT-tmpuzvc9 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmp3dw7j: A long rivalry between two teams outlives every player, owner and supporter who first carried it: new fans inherit the antagonism, its history and its practices before they know why the game matters
 
 ## The case

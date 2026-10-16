@@ -31,6 +31,7 @@ summary: >-
   Krakauer (2020). Individuals as aggregates that propagate information from their past into their future, found by decomposing I(S_t, E_t; S_{t+1}) into organismal (A*), colonial (A) and environmentally determined (nC) parts rather than assumed in advance.
 ---
 
+<!-- inactive-ok-file: LIT-005 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmpjc38b: The information theory of individuality
 
 Krakauer, D., Bertschinger, N., Olbrich, E., Flack, J. C. & Ay, N. (2020). *Theory in Biosciences* 139(2):209–223. doi:10.1007/s12064-020-00313-7. arXiv preprint of 2014 (author order there ends Ay, Flack).

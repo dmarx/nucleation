@@ -34,12 +34,9 @@ summary: >-
   slow variables sharing a referent may be five processes.
 illustrated_by:
 - CASE-tmp3dw7j
-- CASE-tmpljl7c
-- CASE-tmpothd4
 ---
 
-<!-- inactive-ok-file: CLAIM-277 CLAIM-tmpufacs QUESTION-065 — Proposed or Open; the claims it complements and the question it bears on, open -->
-
+<!-- inactive-ok-file: LIT-tmp27zu4 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-tmp11auq: A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
 ## The claim

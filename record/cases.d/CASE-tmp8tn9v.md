@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'CASE-092 linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)'
+title: 'The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)'
 version: 1
 standing: fictional
 kind: construction
@@ -24,7 +24,7 @@ supports:
 
 <!-- inactive-ok-file: CLAIM-297 CLAIM-tmpgnqqb — Proposed; the thesis this construction bears on and the claim it grounds -->
 
-# CASE-tmp8tn9v: [CASE-092](CASE-092.md) linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)
+# CASE-tmp8tn9v: The two-hypothesis coupled meaning–influence model linearized at its symmetric state: a meaning bias m and an authority bias a, each stable alone, coupled by authority shaping interpretation (β) and interpretation shaping endorsement (γ)
 
 ## The construction
 

@@ -19,8 +19,7 @@ summary: >-
   cite. Not run.
 ---
 
-<!-- inactive-ok-file: CLAIM-157 THEORY-257 THEORY-222 LIT-005 CLAIM-194 — Proposed; the criteria the study would compare, open -->
-
+<!-- inactive-ok-file: LIT-tmpjc38b — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmpl1tu6: Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members
 
 ## The case

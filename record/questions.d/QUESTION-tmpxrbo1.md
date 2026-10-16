@@ -20,8 +20,7 @@ summary: >-
   orientation" is weaker than [CLAIM-030](../claims.d/CLAIM-030.md)'s operative intention.
 ---
 
-<!-- inactive-ok-file: QUESTION-049 CLAIM-271 THEORY-137 — Open or Proposed; the question this refines and the neighbouring claim and reading, open -->
-
+<!-- inactive-ok-file: CLAIM-192 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-tmpxrbo1: When a diffusely organized population with no procedure for collective judgment is credited with a stance, or with an effect on an outside institution, when is the credit due to the population as organized, and when is it a biased sample of what some members said or did?
 
 ## Why it is a question

@@ -30,6 +30,7 @@ summary: >-
   Marquis (2013). Imprinting is a process in which, during brief sensitive periods, an entity takes on characteristics reflecting its environment that persist despite later environmental change; the review separates it from path dependence and cohort effects.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpdhfze — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmpr346c: Imprinting: Toward a Multilevel Theory
 
 Marquis, C. & Tilcsik, A. (2013). *Academy of Management Annals* 7(1):195–245.

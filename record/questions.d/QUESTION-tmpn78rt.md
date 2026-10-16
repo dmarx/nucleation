@@ -19,8 +19,7 @@ summary: >-
   reconstitution, and returns verdicts on the Senators lineages.
 ---
 
-<!-- inactive-ok-file: QUESTION-035 QUESTION-043 CLAIM-tmpdhfze CLAIM-002 CLAIM-161 — Open or Proposed; the questions this refines and the claims it would test, open -->
-
+<!-- inactive-ok-file: LIT-tmp43amb LIT-tmpnvksw LIT-tmpr346c THEORY-221 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-tmpn78rt: When a collective reproduces its organization through the replacement of all its members, what must stay causally continuous for the later organization to be the earlier one persisting, and not a similar one produced anew, and how is the question settled when several later collectives each continue it in a different respect?
 
 ## Why it is a question

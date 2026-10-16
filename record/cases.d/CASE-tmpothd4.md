@@ -9,8 +9,6 @@ tags:
 - social-science
 date: '2026-10-16'
 line: distributed-agency
-illustrates:
-- CLAIM-tmp11auq
 summary: >-
   From U2 of the exchange of 2026-10-16. A2 separated three things that
   vary independently: many members have the trait; others believe the
@@ -23,8 +21,7 @@ supports:
 - CLAIM-tmp11auq
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp11auq THEORY-137 — Proposed; the claim this case makes vivid and the reading it extends, open -->
-
+<!-- inactive-ok-file: LIT-tmph6x5q — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmpothd4: A fanbase keeps a reputation, for hostility or loyalty or knowledge, after the behaviour that earned it has changed, and outsiders and members both act on it
 
 ## The case

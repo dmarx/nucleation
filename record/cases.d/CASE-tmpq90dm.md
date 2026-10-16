@@ -19,8 +19,7 @@ summary: >-
   reject. The case for [QUESTION-tmpxrbo1](../questions.d/QUESTION-tmpxrbo1.md). Stipulated.
 ---
 
-<!-- inactive-ok-file: THEORY-126 THEORY-127 CLAIM-271 — Proposed; the readings and claim the case is set against, open -->
-
+<!-- inactive-ok-file: THEORY-125 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CASE-tmpq90dm: A fanbase is said to hate its owner or general manager, though it has no procedure for forming a view, some fans approve of the person, and nobody has counted
 
 ## The case

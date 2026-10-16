@@ -20,8 +20,7 @@ summary: >-
   they forbid and it allows.
 ---
 
-<!-- inactive-ok-file: QUESTION-100 CLAIM-297 CLAIM-278 CLAIM-277 CLAIM-281 CLAIM-276 CASE-092 THEORY-321 — Open or Proposed; the question this refines and the claims it would test, open -->
-
+<!-- inactive-ok-file: LIT-tmpbeyy6 LIT-tmpgwpml LIT-tmpk2dio LIT-tmpu3dwr THEORY-143 THEORY-146 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-tmpamn8i: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
 
 ## Why it is a question

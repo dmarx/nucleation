@@ -30,6 +30,7 @@ summary: >-
   Feldman (2003). A routine has an ostensive aspect, the abstract pattern, and a performative aspect, its particular enactments; their interplay makes routines a source of change as well as of stability.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpdhfze — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmp43amb: Reconceptualizing Organizational Routines as a Source of Flexibility and Change
 
 Feldman, M. S. & Pentland, B. T. (2003). *Administrative Science Quarterly* 48(1):94–118.

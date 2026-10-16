@@ -30,6 +30,7 @@ summary: >-
   Flack (2012). In pigtailed macaques, slowly changing coarse-grained variables built from interaction histories, such as the power structure, predict the system better than individual interactions, and individuals use them, so they found a new level of organization.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmp11auq CLAIM-tmpufacs — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # LIT-tmp27zu4: Multiple time-scales and the developmental dynamics of social systems
 
 Flack, J. C. (2012). *Philosophical Transactions of the Royal Society B* 367(1597):1802–1810.
