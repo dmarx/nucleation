@@ -28,6 +28,8 @@ source:
 rivals:
 - THEORY-tmpnnu03
 - THEORY-tmpgrmvp
+extends:
+- THEORY-tmplw3dq
 summary: >-
   Chalmers (2019), [LIT-415](../literature.d/LIT-415.md), read in [NOTE-356](../notes.d/NOTE-356.md), and his foreword to Clark's
   book (2008), [LIT-421](../literature.d/LIT-421.md), read in [NOTE-369](../notes.d/NOTE-369.md). The 1998 thesis is satisfied by

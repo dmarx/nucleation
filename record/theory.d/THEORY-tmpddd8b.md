@@ -105,6 +105,10 @@ well without them. Neither happened in these samples.
 
 ## Connections
 
+- THEORY-tmpoxf3p states what the 1997 Iowa gambling study showed, with
+  its limits: anticipatory SCRs in controls and not in patients, and no
+  advantageous choice or deck-specific signal shown before awareness. The
+  covert half of this account gets no support from it.
 - Damasio's later account, in which feelings are hybrid, partly the body
   state itself, is [THEORY-093](THEORY-093.md). Barrett's felt affect as a prediction about
   the body is [THEORY-045](THEORY-045.md). This account puts body-state signals at the

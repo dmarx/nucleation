@@ -24,7 +24,16 @@ promote_when: >-
   neither can more reports that subjects see everything, since both sides
   accept those data and dispute only whether the surplus is experienced.
 title: 'Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    The rival accounts section said the record held Dennett's position
+    only as works. It now names the THEORYs filed for Quining Qualia
+    (THEORY-tmp26rh2), Taylor's reading (THEORY-tmpk5k3c) and
+    illusionism (THEORY-tmpspj51), and says why none is declared a rival:
+    none states LIT-431's timing argument. The claim is unchanged.
 tags:
 - consciousness
 - cognition
@@ -132,10 +141,14 @@ did neither.
 The sparse or illusion view, that subjects mistake potential access for
 actual experience (Dehaene's "refrigerator light"), or a generic image
 for a specific one (Kouider et al.; Cohen and Dennett), is the account
-this one excludes. The record holds no theory stating it. It holds
-Dennett's position only as works: Dennett and Kinsbourne's "Time and the
-Observer" ([LIT-431](../literature.d/LIT-431.md)) and "Quining Qualia" ([LIT-433](../literature.d/LIT-433.md)). Block's 2007 paper
-rivals both at the level of the work. [LIT-431](../literature.d/LIT-431.md) argues that whether a content
+this one excludes. The record holds no theory stating it as such. Parts
+of Dennett's position are now stated: "Quining Qualia" ([LIT-433](../literature.d/LIT-433.md)) as
+THEORY-tmp26rh2, and Taylor's real-pattern reading, with the
+Orwell/Stalin indeterminacy, as THEORY-tmpk5k3c; Frankish's illusionism
+is THEORY-tmpspj51. None states the timing argument of Dennett and
+Kinsbourne's "Time and the Observer" ([LIT-431](../literature.d/LIT-431.md)), which is the one this
+account answers, so no rival is declared. Block's 2007 paper rivals
+LIT-431 and LIT-433 at the level of the work. [LIT-431](../literature.d/LIT-431.md) argues that whether a content
 was experienced and then revised, or revised before it was experienced,
 has no answer, because every datum fits both. Block argues that the
 parallel question for Sperling, whether the uncued letters were seen

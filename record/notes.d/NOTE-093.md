@@ -34,7 +34,7 @@ summary: >-
   not generate agent-neutral reasons at all, and if it does, the reasons
   concerning non-conscious subjects are "extremely weak" (Bradford 2023).
 ---
-<!-- inactive-ok-file: LIT-193 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-193 — Proposed since its reading in NOTE-120: a related work named by a 2026-09-26 close reading on the agency tag -->
 
 # NOTE-093: Bruckner — Welfare Subjects and Autopoiesis
 
@@ -110,7 +110,7 @@ Conceptual analysis with inference to the best explanation. The data are the agr
 - **[LIT-192](../literature.d/LIT-192.md) (Nahas & Sachs), read.** They report that autopoiesis (Thompson 2007) is criticised by Deacon and Cashman 2013 precisely for lacking the tools to demarcate living teleology from dissipative self-organisation, and that closure-of-constraints accounts face the candle-flame problem (their §4.1). Bruckner's demarcation from thermostats is behavioural and comparative, and does not engage that literature. By Nahas and Sachs's lights his use of teleology serves a third, normative project, whose success criteria (fit with considered welfare judgements) differ from both of theirs.
 - **[LIT-167](../literature.d/LIT-167.md) (Baedke, *The Organism*), read.** Baedke argues that self-maintenance ("persister") criteria are too permissive to individuate organisms, and that they carry a "preservation teleology" that reduces organismal agency to self-maintenance ([NOTE-148](NOTE-148.md)). Bruckner's criterion is exactly such a persister criterion, used for a normative purpose. Baedke's permissiveness worry transfers: colonies, holobionts and ecosystems would plausibly qualify as welfare subjects, and Bruckner does not address that.
 - **[LIT-168](../literature.d/LIT-168.md) (SEP, Biological Individuals), read.** Its §6.3 autonomy-and-agency material (Moreno and Mossio 2015) is the organisational tradition that Bruckner's "autopoiesis" gestures at without adopting.
-- **[LIT-193](../literature.d/LIT-193.md) (Terrill et al., plants and degrees of moral status), Deferred.** It is a rival route to partial plant status, through degrees of sentience ("quasi-sentience"). Bruckner routes around sentience instead. Not cross-checked.
+- **[LIT-193](../literature.d/LIT-193.md) (Terrill et al., plants and degrees of moral status), Deferred when this was written; since read in NOTE-120.** It is a rival route to partial plant status, through degrees of sentience ("quasi-sentience"). Bruckner routes around sentience instead. Not cross-checked.
 - **[LIT-111](../literature.d/LIT-111.md) (Birch) and [LIT-135](../literature.d/LIT-135.md) (Seth), both Deferred.** The dossier contrasts these as consciousness- or life-based views. Not checked against their texts here.
 - Other works it depends on, none held in the record: Maher 2017, *Plant Minds*; Bradford 2023, *Noûs* 57: 905–921; Basl and Sandler 2013; Rosati 2009 and 2020; Thompson 2007; Lin 2018.
 

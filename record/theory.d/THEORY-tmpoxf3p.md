@@ -87,6 +87,10 @@ have been significant, and was not.
 
 ## Connections
 
+- THEORY-tmpddd8b states the somatic marker hypothesis this study was
+  offered for, with LIT-383 as a second source. The caveats above bound
+  what that account can take from this experiment: its covert-bias clause
+  is not shown here.
 - **The hypothesis it is cited for.** Damasio's 1996 statement of the
   somatic marker hypothesis ([LIT-384](../literature.d/LIT-384.md), [NOTE-332](../notes.d/NOTE-332.md)) previews this result in a
   sentence ("long before they have … any notion whatsoever"); this report

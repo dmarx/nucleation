@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpxaqo4
 paper: 'LIT-615'
 title: 'An Active Inference Approach to Modeling Structure Learning: Concept Learning as an Example Case'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-03'
@@ -16,13 +16,20 @@ history:
     layer, which had lost the bolding. The supplementary Matlab script was
     not run. Results the paper takes from earlier active-inference work
     (Friston et al. 2017a,b) are taken as it reports them.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Summary corrected from "rarely" to "never" for 2–3 true concepts: in
+    the transcription of Table 1 below, the true model wins in no run for
+    either (with three presented, two were retained in 89 runs; with two
+    presented, five or four were retained in every run).
 date: '2026-10-03'
 summary: >-
   A partially observed MDP with spare hidden-state slots learns new
   animal concepts without feedback, refines coarse categories into fine
   ones, and generalises to an unseen animal in one shot. Bayesian model
   reduction on the learned state prior resets unneeded slots: right in
-  45–80% of runs for 4–7 true concepts, rarely for 2–3, and always when
+  45–80% of runs for 4–7 true concepts, never for 2–3, and always when
   the likelihood is given.
 ---
 

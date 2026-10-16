@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcawyi
 title: 'A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels'
-version: 7
+version: 8
 history:
 - version: 2
   date: '2026-10-14'
@@ -70,6 +70,13 @@ history:
     the finite case LIT-250 §5.3 states as known, including the extension
     across the complement that version 6 flagged. Cited where the finite
     step is made. The claim is unchanged.
+- version: 8
+  date: '2026-10-16'
+  note: >-
+    The "does not say" parenthetical claimed the Platonic-convergence
+    claim disputes orthogonal equivalence. NOTE-286 shows LIT-302 adopts
+    it by defining a representation by its kernel; corrected. The claim is
+    unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -109,7 +116,7 @@ So the kernel is the invariant and the representation is one realization of it �
 
 ## What this does not say
 
-- That orthogonal equivalence is the right notion of sameness for learned models (see the Platonic-convergence claim, which disputes it).
+- That orthogonal equivalence is the right notion of sameness for learned models. The Platonic-convergence paper (LIT-302, NOTE-286) adopts it rather than disputing it, by defining a representation by its kernel (§2), and its alignment metric is invariant to more; adopting a notion is not an argument that it is right.
 - Anything for nonlinear kernels on the representation, where what is determined is the kernel's feature map, not the representation itself.
 - That a model's kernel is determined by anything short of the model; the uniqueness is of realizations of a given kernel.
 

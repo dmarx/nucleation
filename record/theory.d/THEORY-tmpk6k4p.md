@@ -26,7 +26,7 @@ summary: >-
   [NOTE-485](../notes.d/NOTE-485.md). Expansion works in the toy domain over eight runs per
   condition, and only for novel stimuli. Reduction is the weak half: over
   100 runs, the true number of concepts won in 45–80% of runs for four to
-  seven, rarely for two or three, and in every run when the likelihood was
+  seven, never for two or three, and in every run when the likelihood was
   given. Table 1 is the record's only measurement of how often reduction
   picks the generating structure when the parent model was itself
   learned. One initialisation; eight concepts, six binary features.
@@ -65,8 +65,8 @@ true number of concepts in 56 runs of 100 with seven presented, 69 with
 six, 80 with five and 45 with four. With three presented, a two-concept
 model won in 89 runs and the true model was second-best in 55; with two
 presented, five-concept and four-concept models won (57 and 43). As
-[NOTE-485](../notes.d/NOTE-485.md) transcribes the table, the true count never won for two or three,
-which its summary calls "rarely". Wrong winners usually learned a coarser
+[NOTE-485](../notes.d/NOTE-485.md) transcribes the table, the true count never won for two or three
+(its summary, which said "rarely", is corrected in its version 2). Wrong winners usually learned a coarser
 concept, with a small evidence gap. With
 the likelihood given and only D learned, the correct model won in every
 run.

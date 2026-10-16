@@ -22,6 +22,7 @@ source:
 - LIT-422
 rivals:
 - THEORY-tmpegs18
+- THEORY-tmplw3dq
 summary: >-
   Rupert (2004), [LIT-422](../literature.d/LIT-422.md), read in [NOTE-343](../notes.d/NOTE-343.md). The past-endorsement dilemma is
   strong: without it, directory assistance makes Otto believe every listed

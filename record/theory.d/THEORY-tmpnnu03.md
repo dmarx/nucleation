@@ -27,6 +27,7 @@ presupposes:
 - THEORY-tmpma6ht
 rivals:
 - THEORY-tmpegs18
+- THEORY-tmplw3dq
 summary: >-
   Adams & Aizawa (2001), [LIT-438](../literature.d/LIT-438.md), read in [NOTE-368](../notes.d/NOTE-368.md), restated against Clark
   in 2010, [LIT-455](../literature.d/LIT-455.md), read in [NOTE-380](../notes.d/NOTE-380.md) from a draft. Both marks are assumed:
