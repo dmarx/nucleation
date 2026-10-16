@@ -54,6 +54,7 @@ summary: >-
 supports:
 - CLAIM-157
 - CLAIM-174
+- CLAIM-tmpuk7tx
 objected_by:
 - CLAIM-188
 grounds:

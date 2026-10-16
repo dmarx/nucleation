@@ -17,6 +17,8 @@ summary: >-
   since "any causal descendant" is too much. An answer gives a criterion
   that separates continuation, branching descent and independent
   reconstitution, and returns verdicts on the Senators lineages.
+answered_by:
+- CLAIM-tmp6gp8d
 ---
 
 <!-- inactive-ok-file: LIT-tmp43amb LIT-tmpnvksw LIT-tmpr346c THEORY-221 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -46,36 +48,12 @@ defensible claim concerns plural successor relations." [CLAIM-002](../claims.d/C
 the textual analogue, identity across retellings as a family of relations
 (artifact, transmission, function).
 
-## A candidate answer for the branching part, not filed as a claim
+## A candidate answer for the branching part
 
-A4's H5, in its weak form: "When a collective's institutional,
-geographical, genealogical, and cultural continuity relations diverge,
-multiple later collectives can possess genuine but different relations of
-succession to the earlier collective, without all being numerically
-identical to it."
-
-- **Limit (A4).** "Multiple successors do not imply that numerical
-  identity itself branches. The weaker and more defensible claim concerns
-  plural successor relations."
-- **Defeated if (A4).** The respects "either consistently select the same
-  successor in relevant cases, or the account cannot give a non-arbitrary
-  explanation of what each relation preserves."
-- **The respects, from the Senators case** ([CASE-tmpzotci](../cases.d/CASE-tmpzotci.md)):
-
-  | respect | what carries it | successor of the original Senators |
-  |---|---|---|
-  | franchise | the league's legal succession | the Minnesota Twins |
-  | civic role | the city's place in the league | the expansion Senators |
-  | interpersonal transmission | supporters, families, the press | divided, unknown |
-  | narrative and place | the city's baseball history | the 2005 Nationals, by claim |
-
-- **An asymmetry (A2).** A league can designate the franchise successor by
-  convention, but "No comparable authority can compel all supporters to
-  adopt an authorized successor allegiance": franchise succession is
-  official, fandom succession "distributed and negotiated".
-- **Why not a claim.** A5 §6 advised "Case first". The record has one
-  documented case and no data on how supporters divided. It becomes a
-  claim when a second case is filed, or when the owner says so.
+[CLAIM-tmp6gp8d](../claims.d/CLAIM-tmp6gp8d.md), A4's weak form of plural succession, promoted at the
+owner's word: when the respects are separated, several later collectives
+can each be a successor in a different respect without identity
+branching.
 
 ## What would count as an answer
 

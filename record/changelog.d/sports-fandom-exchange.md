@@ -3,7 +3,7 @@
 - The 2026-10-16 exchange on what kind of thing a sports fandom is
   (chatgpt.com/share/6ad17889-…), filed as a workbench reconstruction of
   U1–U15.
-  - Four claims:
+  - Six claims:
     - persistence through total turnover is causal transmission of the
       producing organization, not resemblance, [CLAIM-tmpdhfze](record/claims.d/CLAIM-tmpdhfze.md);
     - the owner's timescale facet of a level of organization, [CLAIM-tmpufacs](record/claims.d/CLAIM-tmpufacs.md);
@@ -11,7 +11,11 @@
       it and so regenerate it, [CLAIM-tmp11auq](record/claims.d/CLAIM-tmp11auq.md);
     - the dual canvases linearized: only the loop destabilizes symmetry,
       at βγ > (1 − α)(1 − δ), along a mixed direction, Active and
-      demonstrated, [CLAIM-tmpgnqqb](record/claims.d/CLAIM-tmpgnqqb.md), a partial answer to [QUESTION-100](record/questions.d/QUESTION-100.md).
+      demonstrated, [CLAIM-tmpgnqqb](record/claims.d/CLAIM-tmpgnqqb.md), a partial answer to [QUESTION-100](record/questions.d/QUESTION-100.md);
+    - plural succession: separated continuities give several successors
+      without identity branching, [CLAIM-tmp6gp8d](record/claims.d/CLAIM-tmp6gp8d.md);
+    - distributed cultural uptake: a loose population can change an
+      outside institution without a collective intention, [CLAIM-tmpuk7tx](record/claims.d/CLAIM-tmpuk7tx.md).
   - Five questions: what must be transmitted for a collective to persist
     ([QUESTION-tmpn78rt](record/questions.d/QUESTION-tmpn78rt.md)); a time-lagged block criterion ([QUESTION-tmp6neu8](record/questions.d/QUESTION-tmp6neu8.md));
     joint individuation by information, closure, effective information and
@@ -30,10 +34,6 @@
   (curation entry of 2026-10-16, 01:54).
 
 ### Documentation
-
-- The two theses held back from claims, plural succession and
-  distributed cultural uptake, written out with their defeaters in
-  [QUESTION-tmpn78rt](record/questions.d/QUESTION-tmpn78rt.md) and [QUESTION-tmpxrbo1](record/questions.d/QUESTION-tmpxrbo1.md).
 
 - Dated notes on [CASE-092](record/cases.d/CASE-092.md) (the linearization and the analyses proposed for
   it) and [QUESTION-093](record/questions.d/QUESTION-093.md) (Hoel et al. 2013 is read, not unread).

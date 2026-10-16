@@ -19,6 +19,7 @@ summary: >-
   does not show that a fandom's identity branched.
 supports:
 - CLAIM-tmpdhfze
+- CLAIM-tmp6gp8d
 ---
 
 <!-- inactive-ok-file: LIT-tmpkp0gw — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

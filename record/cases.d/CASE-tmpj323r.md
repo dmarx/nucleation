@@ -17,6 +17,8 @@ summary: >-
   and no procedure behind it. Documented as to the sequence; the route by
   which the parody reached the decision, and whether the spreaders were
   X-Men fans or the internet at large, is not.
+supports:
+- CLAIM-tmpuk7tx
 ---
 
 <!-- inactive-ok-file: LIT-tmppx2y0 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
