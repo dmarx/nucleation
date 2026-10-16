@@ -101,7 +101,7 @@ does.
   borrows in §6 and contrasts with the inter-theoretic use in §5.
 - De Haro & Butterfield ([LIT-199](../literature.d/LIT-199.md)) give the common-core construction the
   paper assumes (fn. 13).
-- THEORY-tmpyus6z files their verdict for the stronger notion: in the cases
+- [THEORY-tmpyus6z](THEORY-tmpyus6z.md) files their verdict for the stronger notion: in the cases
   they examine, inequivalent duals are not empirically equivalent, and a
   cautious realist commits to the common core. That is not a rival to this
   account, which is conditional on empirical equivalence and naive reading.
