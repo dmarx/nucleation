@@ -89,5 +89,10 @@ both make it the source that grounds the system's norms.
   anchor of [CLAIM-tmpt568z](CLAIM-tmpt568z.md) needs only the first ([QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md)). So
   even if the hypothesis holds, what extinguishes goal-directed thinking
   would not be the loss of an anchor.
-- The extinction hypothesis is a hypothesis. Chaudhary et al. report a CLIS
-  patient who communicated ([LIT-tmpzuemc](../literature.d/LIT-tmpzuemc.md)), with cautions the case states.
+- The extinction hypothesis is a hypothesis, stated as what "might be
+  responsible", from seven patients already in CLIS when training began
+  and an analogy with curarized rats (NOTE-tmp24z3z). Its authors say
+  passive sensory processing is intact in CLIS, and they predict that a
+  contingency learned before CLIS should carry over. Chaudhary et al.'s
+  patient, who communicated, had done exactly that (NOTE-tmp4xxvp), so he
+  fits the hypothesis rather than refuting it.

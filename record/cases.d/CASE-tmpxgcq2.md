@@ -32,9 +32,9 @@ supports:
 Locked-in syndrome "consists of anarthria and quadriplegia while
 consciousness is preserved. Classically, vertical eye movements or blinking
 allow coded communication. Given appropriate medical care, patients can
-survive for decades" (Bruno et al. 2011, [LIT-tmp8g2to](../literature.d/LIT-tmp8g2to.md)). The literature
-distinguishes classic, incomplete and total forms (Laureys et al. 2005,
-[LIT-tmpx97h7](../literature.d/LIT-tmpx97h7.md), not read). In the completely locked-in state (CLIS),
+survive for decades" (Bruno et al. 2011, [LIT-tmp8g2to](../literature.d/LIT-tmp8g2to.md)). The classic, incomplete and total forms are Bauer et al.'s (1979), as
+Bruno et al. cite them (NOTE-tmpojcai). Laureys et al. 2005 (LIT-tmpx97h7)
+reviews them but could not be read. In the completely locked-in state (CLIS),
 usually reached through ALS, no motor channel remains.
 
 - **Lucid life on one eyelid.** Bauby dictated *Le scaphandre et le
@@ -42,18 +42,32 @@ usually reached through ALS, no motor channel remains.
   read out an alphabet.
 - **Lucid over years.** Of 65 chronic patients with usable answers in
   Bruno et al.'s survey, 47 reported happiness, and a longer time in LIS
-  correlated with happiness. The survey was self-selected and answered
-  through the spared channels.
-- **The completely locked-in state.** Kübler and Birbaumer
-  ([LIT-tmpxcw33](../literature.d/LIT-tmpxcw33.md)): none of seven CLIS patients regained yes/no
-  communication by BCI. They proposed that goal-directed thinking is
-  extinguished when contingency between intention and outcome is lost, and
-  that "a single CLIS patient who learns to communicate with a BCI or any
-  other communication method will disprove our hypothesis". Chaudhary et
-  al. ([LIT-tmpzuemc](../literature.d/LIT-tmpzuemc.md)) report such a patient, who spelled phrases with
-  intracortical signals after auditory neurofeedback training. The
-  authors' earlier CLIS papers were retracted after a DFG misconduct
-  finding, and outside researchers urged caution about this one.
+  correlated with happiness (NOTE-tmpojcai). But most of the sample was
+  not on one eyelid: 55% had recovered some speech and 70% some limb
+  movement, answers were given "aided by the patient's proxy", and
+  recovered speech was the strongest correlate of happiness (OR 20.47).
+  The survey shows lucid lives with restricted action, not without it.
+- **The completely locked-in state.** Kübler and Birbaumer (LIT-tmpxcw33,
+  read in NOTE-tmp24z3z): none of seven CLIS patients regained yes/no
+  communication by BCI. All seven were already in CLIS when training
+  began. They proposed that patients "may loose the perception of the
+  contingency" between the required brain response and its consequences,
+  and that "passive sensory information processing is intact in CLIS even
+  at the most complex semantic processing levels". The hypothesis is
+  about contingency, not evidence. It also predicts its own exception:
+  "learning BCI-control or any other contingency before onset of CLIS,
+  which can be transferred from LIS to CLIS should prevent extinction in
+  CLIS". It is stated as what "might be responsible", from seven patients
+  and an analogy with curarized rats.
+- **Chaudhary et al.'s patient fits that exception** (LIT-tmpzuemc, read in
+  NOTE-tmp4xxvp). He had used an eye-movement BCI in LIS, and his speller
+  was "identical to the one used previously", the one he had used while he
+  still controlled his eye movements. He had been in CLIS only "a few weeks before and also
+  after implantation", and he produced intelligible output on 44 of 107
+  days. So he does not refute the extinction hypothesis. He is the case
+  it predicts. The article carries no editor's note or correction as of
+  2026-10-16. The authors' earlier CLIS papers were retracted after a DFG
+  misconduct finding (STAT, 2022-03-22, not rechecked).
 
 ## What it can show
 
@@ -119,8 +133,8 @@ usually reached through ALS, no motor channel remains.
 - **Extinguished or dormant.** A coalition that falls silent can remain
   available for reactivation ([CLAIM-287](../claims.d/CLAIM-287.md)). Kübler and Birbaumer's patients
   may have lost the capacity for goal-directed thinking, or only the
-  channel that would show it. Chaudhary et al.'s patient fits the second
-  reading, though with the cautions above.
+  channel that would show it. Chaudhary et al.'s patient does not decide
+  between these, since he carried a contingency over from LIS.
 - **What it cannot show.** Every patient here built their model while
   acting. The case bears on the loop that keeps a model in touch, not on
   the one that builds it.

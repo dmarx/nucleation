@@ -36,7 +36,6 @@ grounds:
 - THEORY-tmp6rcgc
 - THEORY-tmp2k3a9
 - LIT-tmpuamcv
-- LIT-tmpgo33i
 complements:
 - CLAIM-tmp84z6h
 - CLAIM-tmpt568z
@@ -241,10 +240,22 @@ outcome, is not part of this claim:
   "match" is "automatically ensured". It is the synchronic form this claim
   does not claim. Powers adds the anchor problem in the same passage: the
   hierarchy "could not perform very reliably" if its actions were
-  "completely 'short-circuited'" by it. The claim differs in two ways. Its
-  loop reshapes the observer rather than standing in for perception, and
-  Powers's sensors are assumed constant ("If the properties of the sensor
-  remain constant, as we may usually assume").
+  "completely 'short-circuited'" by it, and Part II lists switching a
+  system "entirely to the imagination-connection" as one of the ego's
+  defences (LIT-tmpuh84t). Unlike the 1973 paper, 1960 does reshape the
+  observer. The reorganizing system's first act is to build new perceptual
+  input functions, "tentative definitions of new variables", driven by
+  error in bodily intrinsic signals, "measures of a set of physiological
+  states" (NOTE-tmpf65in). And Part II tests a change to the observer by
+  imagining: a golfer drops a new idea because "a moment spent imagining
+  doing so would reveal" the conflicts it makes (NOTE-tmplcbcz). So
+  perceptual control theory has both of the claim's ingredients. The
+  imagination loop changes nothing in the perceiver. Reorganization
+  changes the perceiver, but is driven by bodily error, not by judgement.
+  The claim's loop, judgement reshaping the observer, falls between them.
+  The reorganizing system's inputs may include "mean error signal in the
+  hierarchy", a scoring signal the learned hierarchy does not set, which
+  is QUESTION-tmpr5tck's candidates 2 and 4.
 - **The epistemic cut.** Pattee ([LIT-tmpo5atc](../literature.d/LIT-tmpo5atc.md), read in [NOTE-tmp7d44m](../notes.d/NOTE-tmp7d44m.md)) does
   not put measurement first. Measurement and control are converses:
   "measurement transforms physical states to symbols in memory, while
