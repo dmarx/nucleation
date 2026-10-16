@@ -1,8 +1,18 @@
 ---
 status: Open
 title: 'When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    After main moved. The record now holds Indyk and Motwani (LIT-1106,
+    NOTE-905), with a Gaussian JL-type proof and the LSH guarantee filed
+    as THEORY-388, and it already held THEORY-261 on SDM recall, which the
+    first survey missed. Both THEORY documents reach the expand-and-threshold
+    thread, which nothing read for this question had, and "What would answer
+    it" now names the fly hash's collision probabilities as the quantity to
+    find. The question itself stands.
 - version: 2
   date: '2026-10-14'
   note: >-
@@ -25,9 +35,11 @@ summary: >-
   phenomena that share a tool. Six anchor works are now read. They show
   the distance and sparse-recovery thresholds share a sufficiency proof,
   but not a necessity proof, and give nothing that reaches the other two
-  uses.
+  uses. For SDM and the fly, the record's SDM recall account and its LSH
+  account offer candidate thresholds of a different shape.
 ---
 <!-- inactive-ok-file: LIT-tmpokc0j — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
+<!-- inactive-ok-file: THEORY-106 THEORY-261 — Proposed; the accounts the random-features and SDM threads are set against -->
 
 # QUESTION-tmpa0dq9: When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?
 
@@ -79,7 +91,11 @@ its median by Lévy's isoperimetric inequality. Dasgupta and Gupta
 k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n for squared distances: a per-pair tail of 2/n²
 and a union bound over the pairs. Larsen and Nelson ([LIT-tmp8s1wj](../literature.d/LIT-tmp8s1wj.md),
 [NOTE-tmp4mti8](../notes.d/NOTE-tmp4mti8.md)) show Ω(ε⁻² lg(ε²n)) is needed for some n-point set,
-for any map, when ε is above about 1/√min{n, d}. So for distances the
+for any map, when ε is above about 1/√min{n, d}. Indyk and Motwani
+also prove a JL-type lemma with Gaussian projections ([LIT-1106](../literature.d/LIT-1106.md), [NOTE-905](../notes.d/NOTE-905.md),
+Appendix A), read for nearest-neighbour search. [NOTE-905](../notes.d/NOTE-905.md) does not give
+its constants, so it is not compared here. Their STOC text also shows the
+lemma fails for ℓ∞. So for distances the
 proposed shape holds on both sides, up to a constant, for the worst set.
 It is not a sharp threshold in the Donoho–Tanner sense.
 
@@ -118,6 +134,18 @@ dense ±1, which is inside, but no paper read says anything about the
 threshold that follows the projection. Larsen and Nelson's bound is
 vacuous once the map goes up in dimension.
 
+Two accounts the record already holds do reach this thread, though
+neither came from these readings. [THEORY-261](../theory.d/THEORY-261.md) treats SDM recall as a
+signal-to-noise problem: the optimum activates about (2MT)^(−1/3) of the
+hard locations, and capacity grows with their number, not with the word
+length. That is a threshold for an expand-and-threshold map, and it is not
+of the proposed shape. [THEORY-388](../theory.d/THEORY-388.md), filed upstream from Indyk and Motwani,
+gives locality-sensitive hashing's guarantee as query cost n^ρ, with
+ρ = ln(1/p₁)/ln(1/p₂) set by the collision probabilities of near and far
+pairs. If the fly's tag is a hash family, as its paper claims, its guarantee
+would take that form. That too is a ratio of logs, but of probabilities,
+not of a family's size.
+
 ## Corrections
 
 Version 1 said five things the readings do not support.
@@ -149,12 +177,15 @@ Version 1 said five things the readings do not support.
   matrix converges entrywise but not in spectral norm ([LIT-679](../literature.d/LIT-679.md)). Or a
   derivation of the 2N = n transition that goes through concentration, if
   one exists. Nothing read supplies either.
-- **For expand-and-threshold.** A guarantee for a nonnegative sparse
-  {0, 1} matrix followed by top-k, in a form that can be set beside
-  ε⁻² log n. The fly paper is said to prove that the first two steps keep
-  ℓ₂ distances in expectation, and it is the next reading once a copy is
-  supplied. The record should also check whether SDM's critical distance is
-  the same quantity.
+- **For expand-and-threshold.** The collision probabilities p₁ and p₂ of
+  the fly's hash, a nonnegative sparse {0, 1} projection followed by top-k,
+  so that its ρ can be set beside [THEORY-388](../theory.d/THEORY-388.md)'s for random-projection LSH.
+  The fly paper is said to prove that the first two steps keep ℓ₂ distances
+  in expectation, and it is the next reading once a copy is supplied. Then
+  ask whether [THEORY-261](../theory.d/THEORY-261.md)'s activation optimum and ρ measure the same
+  thing for SDM.
 
 The readings so far answer the question for the first two uses only, and
-only on the side of sufficiency.
+only on the side of sufficiency. For the third, the record holds two
+candidate forms, an SDM signal-to-noise optimum and an LSH exponent, and
+neither is the proposed shape.

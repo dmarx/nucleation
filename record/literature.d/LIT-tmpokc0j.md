@@ -2,7 +2,7 @@
 status: Unavailable
 status_note: 'unread, registered 2026-10-14 for [QUESTION-tmpa0dq9](../questions.d/QUESTION-tmpa0dq9.md). A reading was attempted on 2026-10-14 and failed on access, not availability: the bioRxiv preprint (10.1101/180471, CC BY-NC-ND) returned HTTP 429 to this client on six tries over twenty minutes, Europe PMC''s full text for it (PPR21674) returned 500, and the Science author referrer link on Dasgupta''s UCSD page returned 403. Science itself is paywalled and OpenAlex lists no other open copy. A browser fetch of the bioRxiv PDF would unblock it.'
 title: 'A neural algorithm for a fundamental computing problem'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-14'
@@ -22,8 +22,16 @@ history:
     expectation. It names the benchmarks as SIFT, GloVe and MNIST, so the
     filing's "GIST" is corrected. A summary is not a reading, so the
     takeaways stay marked unread.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Tagged `databases`, the topic ADR-045 added on 2026-10-15, beside
+    `information-retrieval`, as LIT-1106 is tagged for the same search
+    problem. Standing in the record names the LSH this paper is measured
+    against (LIT-1106, THEORY-388), both new since filing.
 tags:
 - neuroscience
+- databases
 - information-retrieval
 date: '2026-10-14'
 published: '2017-11-10'
@@ -69,6 +77,14 @@ and neither note cites this paper. This is the paper that makes the circuit
 an algorithm. Like the neuron view of sparse distributed memory, it
 expands and then thresholds, though SDM's addresses are dense ±1 and the
 fly's projection is a sparse {0, 1} matrix, outside Achlioptas's ensembles
-([NOTE-tmp4oub5](../notes.d/NOTE-tmp4oub5.md); [NOTE-242](../notes.d/NOTE-242.md), [NOTE-779](../notes.d/NOTE-779.md)). `neuroscience` comes first
-because the subject is a circuit; `information-retrieval` is for the
-nearest-neighbour search it is evaluated on.
+([NOTE-tmp4oub5](../notes.d/NOTE-tmp4oub5.md); [NOTE-242](../notes.d/NOTE-242.md), [NOTE-779](../notes.d/NOTE-779.md)). The hashing it is measured against is
+Indyk and Motwani's locality-sensitive hashing ([LIT-1106](LIT-1106.md)), whose guarantee
+the record holds as [THEORY-388](../theory.d/THEORY-388.md): query cost n^ρ with ρ = ln(1/p₁)/ln(1/p₂).
+Read in those terms, the fly's tag is a hash family, and the guarantee the
+question wants for it would be its collision probabilities p₁ and p₂.
+That framing is the record's, not the paper's, until the paper is read.
+
+`neuroscience` comes first because the subject is a circuit. `databases`
+and `information-retrieval` are for the nearest-neighbour search it is
+evaluated on, tagged as the record tags Indyk and Motwani
+([ADR-045](../decisions.d/ADR-045.md)).

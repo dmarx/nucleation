@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-10-14 ([NOTE-tmpve6z2](../notes.d/NOTE-tmpve6z2.md)) in full; worth reading as the shortest complete proof of the Johnson–Lindenstrauss lemma with an explicit dimension, k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n, and as a case in which that dimension is visibly the log of the number of pairs, about n², over a squared tolerance. Read it knowing that its map is a scaled projection onto a random subspace, not a Gaussian or ±1 matrix, which §3 only describes; that it keeps squared distances; that one draw succeeds with probability only 1/n; and that it treats k < d only, so it says nothing about maps that raise dimension.'
 title: 'An elementary proof of a theorem of Johnson and Lindenstrauss'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-14'
@@ -28,6 +28,12 @@ history:
     own citation line reads "22: 60–65, 2002" beside "© 2003", and it
     prints no issue number; the 2003 date and issue 1 are kept from
     Crossref.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Standing in the record links the Indyk–Motwani construction to
+    LIT-1106, held since 2026-10-15, and records what the reading of
+    Baraniuk et al. settled about the exponent, which v2 left open.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -93,9 +99,11 @@ The registration said its concentration step is "the one Baraniuk et al.
 ([LIT-tmpcfdvm](LIT-tmpcfdvm.md)) turn into the restricted isometry property". The
 reading makes that imprecise. This paper's step is for a projection onto
 a random subspace. The independent-entry matrices a RIP proof works with
-are the constructions it credits to Indyk and Motwani and to Achlioptas
-([LIT-tmppzjx6](LIT-tmppzjx6.md)). Whether Baraniuk et al. use this paper's exponent is
-for their reading. The registration also called it "the version of the
+are the constructions it credits to Indyk and Motwani ([LIT-1106](LIT-1106.md), whose
+Gaussian proof is read in [NOTE-905](../notes.d/NOTE-905.md), Appendix A) and to Achlioptas
+([LIT-tmppzjx6](LIT-tmppzjx6.md)). The reading of Baraniuk et al. settles which exponent
+they use: Achlioptas's, c₀(ε) = ε²/4 − ε³/6, not this paper's
+([NOTE-tmppltl7](../notes.d/NOTE-tmppltl7.md)). The registration also called it "the version of the
 proof most later work quotes"; the text cannot confirm that.
 
 For the question's other threads, it treats k < d only and says nothing

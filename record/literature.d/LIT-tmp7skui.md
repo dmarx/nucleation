@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-10-14 ([NOTE-tmpmv42v](../notes.d/NOTE-tmpmv42v.md)) in full; worth reading as the source of the dimension-reduction lemma, in the form its authors gave it: n points of ℓ₂ⁿ go into [K(τ) log n] dimensions with Lipschitz distortion (1+τ)/(1−τ), by a Haar-random orthogonal projection, proved by concentrating one projected norm about its median and taking a union bound over the normalized differences. Read it knowing that the τ⁻² dependence is in the proof (K ≥ (10/τ)²), not the statement; that the paper shows only that log n cannot be improved, not the τ-dependence; and that the lemma is a tool for the paper''s real subject, L(X, n) ≤ C(log n)^{1/2} for extending Lipschitz maps into ℓ₂.'
 title: 'Extensions of Lipschitz mappings into a Hilbert space'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-14'
@@ -28,6 +28,12 @@ history:
     Lévy's isoperimetric inequality, not the squared length about its
     mean. Standing in the record names the NOTE and qualifies the
     tightness claim. Keywords from the paper's own terms were added.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Standing in the record names Indyk and Motwani's JL-type proof, which
+    the record has held since 2026-10-15 (LIT-1106, NOTE-905), and no
+    longer calls Larsen and Nelson unread.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -104,8 +110,11 @@ over a squared tolerance, here τ⁻² log n from a union bound over point
 pairs. It says nothing about random features or expand-and-threshold maps.
 Its Lemma 3 net is the other ingredient a union bound over sparse supports
 needs, which bears on the superposition thread. Its later proofs are
-[LIT-tmpjy3gf](LIT-tmpjy3gf.md) and [LIT-tmppzjx6](LIT-tmppzjx6.md). Its bound, ε⁻² log n, is shown tight in
-[LIT-tmp8s1wj](LIT-tmp8s1wj.md), unread. This paper proves only that the log n cannot be
+[LIT-tmpjy3gf](LIT-tmpjy3gf.md) and [LIT-tmppzjx6](LIT-tmppzjx6.md), and Indyk and Motwani's Gaussian proof of
+a JL-type lemma, read for nearest-neighbour search ([LIT-1106](LIT-1106.md), [NOTE-905](../notes.d/NOTE-905.md),
+Appendix A). The order ε⁻² log n is shown necessary for some point set,
+up to a constant and for ε above about 1/√min{n, d}, in [LIT-tmp8s1wj](LIT-tmp8s1wj.md)
+([NOTE-tmp4mti8](../notes.d/NOTE-tmp4mti8.md)). This paper proves only that the log n cannot be
 improved, and does not state the ε⁻².
 
 In the anthology the lemma appears without a LIT of its own, inside
