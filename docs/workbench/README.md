@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [16 Oct 01:24 — Session of 2026-10-16, 00:07–01:02 (U1–U15): what kind of thing a sports fandom is, persistence through turnover, timescale as a facet of level, information theories of individuality, and the dual canvases linearized](2026-10.md#session-of-2026-10-16-00070102-u1u15-what-kind-of-thing-a-sports-fandom-is-persistence-through-turnover-timescale-as-a-facet-of-level-information-theories-of-individuality-and-the-dual-canvases-linearized)
 - [15 Oct 00:41 — Session of 2026-10-14, 21:36–00:05 (U1–U23): what an inquiry must keep to revise itself, bounded observers, the medication in the ambulance, and retrieval-mediated anchoring in the dual canvases](2026-10.md#session-of-2026-10-14-21360005-u1u23-what-an-inquiry-must-keep-to-revise-itself-bounded-observers-the-medication-in-the-ambulance-and-retrieval-mediated-anchoring-in-the-dual-canvases)
 - [14 Oct 00:10 — A typology of cases: kind, beside standing (ADR-042, proposed)](2026-10.md#a-typology-of-cases-kind-beside-standing-adr-042-proposed)
 - [13 Oct 22:13 — The same audit for claims and cases: eight claims and four cases added from the meaning-operators exchange](2026-10.md#the-same-audit-for-claims-and-cases-eight-claims-and-four-cases-added-from-the-meaning-operators-exchange)
@@ -58,8 +59,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-49 entries across 1 book, newest first.
+50 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 49 | 2026-10-07 | 2026-10-15 |
+| [2026-10](2026-10.md) | 50 | 2026-10-07 | 2026-10-16 |

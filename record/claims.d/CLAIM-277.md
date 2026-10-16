@@ -26,7 +26,7 @@ line:
 complements:
 - CLAIM-282
 - CLAIM-274
-- CLAIM-tmp11auq
+- CLAIM-327
 summary: >-
   The owner's objection at U5 to A4's call to keep "persistent authority
   structures" distinct from "transient endorsement updates": "I'd expect

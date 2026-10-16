@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [16 Oct 01:54 — Five candidates registered for the two works from the sports-fandom exchange that could not be identified](2026-10.md#five-candidates-registered-for-the-two-works-from-the-sports-fandom-exchange-that-could-not-be-identified)
+- [16 Oct 01:24 — Twenty-five works registered unread from the exchange on sports fandom and individuality; seven it cited were already held](2026-10.md#twenty-five-works-registered-unread-from-the-exchange-on-sports-fandom-and-individuality-seven-it-cited-were-already-held)
 - [15 Oct 21:06 — After the ADR-043 splits: citations repointed, one suspected dependency cleared](2026-10.md#after-the-adr-043-splits-citations-repointed-one-suspected-dependency-cleared)
 - [15 Oct 19:46 — Splitting the claims ADR-043 found compound](2026-10.md#splitting-the-claims-adr-043-found-compound)
 - [15 Oct 19:05 — ADR-043 accepted: a required warrant field on CLAIM, every claim classified, nineteen compounds flagged](2026-10.md#adr-043-accepted-a-required-warrant-field-on-claim-every-claim-classified-nineteen-compounds-flagged)
@@ -68,9 +70,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-106 entries across 2 books, newest first.
+108 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 59 | 2026-10-01 | 2026-10-15 |
+| [2026-10](2026-10.md) | 61 | 2026-10-01 | 2026-10-16 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

@@ -6,7 +6,7 @@
 
 **Formal apparatus** — results that hold whatever any substantive line concludes — gluing and contextuality, comparison of experiments and probes, identifiability, conservation, and thresholds for naming a unit; held as a second line by the general results other lines borrow, so that setting a substantive line aside does not retire them (ADR-040).
 
-3 of 114 QUESTION documents. Back to the [full index](../README.md).
+3 of 119 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

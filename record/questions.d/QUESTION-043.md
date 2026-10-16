@@ -20,7 +20,7 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-161](../claims.d/CLAIM-161.md) and [CLAIM-152](../claims.d/CLAIM-152.md).
   [THEORY-060](../theory.d/THEORY-060.md) answers it in part; the body gives each one's limit.
 refined_by:
-- QUESTION-tmpn78rt
+- QUESTION-118
 ---
 
 # QUESTION-043: For a person, what coherence measure is conserved along the trajectory when the person persists as the same self, and is a life story, whose content is known to change, a candidate for it?

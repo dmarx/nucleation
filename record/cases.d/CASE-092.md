@@ -19,7 +19,7 @@ summary: >-
   be answered and [CLAIM-297](../claims.d/CLAIM-297.md) tested, and what [CLAIM-278](../claims.d/CLAIM-278.md) asks of the operator
   framework: a prediction a simpler model does not make.
 variants:
-- CASE-tmp8tn9v
+- CASE-099
 ---
 
 <!-- inactive-ok-file: THEORY-222 THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -66,7 +66,7 @@ ordinary adaptive retrieval.
 
 A14 of the exchange of 2026-10-16 on sports fandom (workbench entry of
 2026-10-16) read this case correctly and linearized it at the symmetric
-state. The checked result is [CASE-tmp8tn9v](CASE-tmp8tn9v.md) and [CLAIM-tmpgnqqb](../claims.d/CLAIM-tmpgnqqb.md): with each
+state. The checked result is [CASE-099](CASE-099.md) and [CLAIM-330](../claims.d/CLAIM-330.md): with each
 field stable alone, only the two-way loop can destabilize symmetry, at
 βγ > (1 − α)(1 − δ), and the growing direction mixes meaning and
 authority. Regime B, which sets γ near zero, removes that instability.
@@ -79,5 +79,5 @@ closure ([THEORY-257](../theory.d/THEORY-257.md)); persistence under periodic re
 role-indexed against scalar endorsement ([CLAIM-281](../claims.d/CLAIM-281.md)); and ablation against
 simpler models ([CLAIM-278](../claims.d/CLAIM-278.md)). A15 named the simpler models: reflected
 appraisal (DeGroot–Friedkin), adaptive networks and persuasion bias, as
-the baseline before any claim of novelty ([QUESTION-tmpamn8i](../questions.d/QUESTION-tmpamn8i.md)). They are
+the baseline before any claim of novelty ([QUESTION-117](../questions.d/QUESTION-117.md)). They are
 recorded here as proposals; the case is unchanged.

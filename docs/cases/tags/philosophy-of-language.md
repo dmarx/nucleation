@@ -6,7 +6,7 @@
 
 **Philosophy of language** — meaning, content and reference as philosophy poses them — theories of meaning, meaning holism, assertion and whether machines assert, and conceptual change (group: philosophy).
 
-23 of 97 CASE documents. Back to the [full index](../README.md).
+23 of 105 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

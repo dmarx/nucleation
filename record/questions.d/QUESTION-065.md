@@ -24,7 +24,7 @@ summary: >-
   [CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-164](../claims.d/CLAIM-164.md) and [QUESTION-035](QUESTION-035.md). [THEORY-198](../theory.d/THEORY-198.md), [THEORY-205](../theory.d/THEORY-205.md) and
   [THEORY-157](../theory.d/THEORY-157.md) answer it in part; the body gives each one's limit.
 refined_by:
-- QUESTION-tmp1bt6j
+- QUESTION-115
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; a reading listed with its limits, an answer in part -->
 

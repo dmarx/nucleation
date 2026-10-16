@@ -4,7 +4,7 @@
 
 **Rejected** — no longer in force and nothing replaced it — kept because a rejection is worth being able to point at.
 
-0 of 97 CASE documents. Back to the [full index](../README.md).
+0 of 105 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
