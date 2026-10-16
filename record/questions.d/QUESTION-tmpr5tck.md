@@ -78,10 +78,12 @@ than an anchor is lost with action.
    cause is attributed to "the most salient external source", which
    brings the interpretation back in.
 5. **Other people.** Testimony, correction and reports. QBism treats
-   another's report as one more measurement outcome entering one's own
-   experience ([LIT-tmp7kgwz](../literature.d/LIT-tmp7kgwz.md)). For a locked-in person this channel stays
-   open inbound. Against: it is the same as candidate 1, socially
-   structured, and it can be selected (choosing whom to believe).
+   another's answer as a measurement outcome entering one's own experience,
+   but one the agent elicits: "When Alice elicits an answer from Bob, she
+   treats this as she treats any other quantum measurement" ([NOTE-tmpfpjq8](../notes.d/NOTE-tmpfpjq8.md)).
+   On that reading it is action again. For a locked-in person, reports that
+   arrive unasked stay open inbound, and those are candidate 1, socially
+   structured. Against: whom to believe can still be selected.
 
 ## What would count as an answer
 
@@ -95,7 +97,12 @@ than an anchor is lost with action.
   question was: a formal result in the style of [CLAIM-330](../claims.d/CLAIM-330.md): in the
   operator model, is scoring against predictions committed before the
   evidence equivalent to Regime B (γ ≈ 0)?
-- **The empirical counterpart:** mere-measurement effects that weaken with
-  prior experience of the thing judged ([LIT-tmpj2lkz](../literature.d/LIT-tmpj2lkz.md)) suggest that
-  experience the judgement did not produce damps judgement's
-  self-reinforcement. That is the shape candidate 1 predicts.
+- **The empirical counterpart, read.** Feldman and Lynch ([NOTE-tmpj9jxh](../notes.d/NOTE-tmpj9jxh.md))
+  find that measurement effects shrink with expertise, direct experience
+  and involvement. The reason is that the person already holds formed,
+  rehearsed judgements, which form where the environment mediates "strong,
+  frequent, positive or negative outcomes". That favours candidate 3
+  (commitment before evidence) over candidate 1, and it locates the source
+  of the commitments in experience with outcomes, which leans toward
+  [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md). Morwitz et al.'s report that mere measurement weakens
+  with prior experience ([LIT-tmpj2lkz](../literature.d/LIT-tmpj2lkz.md)) is known only from its abstract.

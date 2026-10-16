@@ -20,3 +20,11 @@
   mind, with five candidates, [QUESTION-tmpr5tck](record/questions.d/QUESTION-tmpr5tck.md).
 - Nine more works registered unread, for covert awareness, measurement
   effects, Pattee's epistemic cut, QBism and perceptual control theory.
+- A demonstrated answer to the formal part of that question: in the
+  linearized operator model, scoring committed predictions gives a
+  coupling with the sign of κ′ − κ̄, so commitment before evidence is not
+  by itself independent scoring, [CLAIM-tmpkss5r](record/claims.d/CLAIM-tmpkss5r.md), with its construction,
+  [CASE-tmp1gf2k](record/cases.d/CASE-tmp1gf2k.md).
+- Readings of six of the registered works (Owen et al., Monti et al.,
+  Feldman & Lynch, Slovic, QBism, Pattee, Powers 1973), two marked
+  Unavailable, and Powers, Clark & McFarland (1960) registered.

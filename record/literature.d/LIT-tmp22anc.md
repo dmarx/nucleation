@@ -1,14 +1,24 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-16, not read (abstract only). Registered from the exchange of 2026-10-16 on active inference and locked-in syndrome (the workbench entry of 2026-10-16). No NOTE is filed.
+  read 2026-10-16 ([NOTE-tmpx40wa](../notes.d/NOTE-tmpx40wa.md)) in full, the one-page Brevia; the Supporting Online Material was not reached. Worth reading as the first showing that a patient diagnosed vegetative can respond to command by a mental act with no motor output, read from the brain. Read it knowing that no question was asked and no answer decoded, that the comparison with controls is qualitative in the main text, and that "confirmed beyond any doubt" is the authors' assertion.
 title: 'Detecting Awareness in the Vegetative State'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-16'
   note: >-
     Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read in full (NOTE-tmpx40wa) from the copy of the published page in
+    ORBi, the University of Liège repository. The Supporting Online
+    Material was not reached: science.org and the Owen lab's copy returned
+    bot checks. Status moved from Deferred to Active; the summary is
+    rewritten from the reading; the abstract-only caveat is replaced by
+    takeaways; "Why this is here" now says what the paper does and does not
+    show for CASE-tmpxgcq2.
 tags:
 - consciousness
 - neuroscience
@@ -24,16 +34,32 @@ keywords:
 - 'command following'
 implementations: []
 summary: >-
-  Owen, Coleman, Boly, Davis, Laureys & Pickard (2006). A patient who met the criteria for the vegetative state, asked to imagine playing tennis or moving around her home, activated the predicted cortical areas in a manner indistinguishable from healthy volunteers.
+  Owen, Coleman, Boly, Davis, Laureys & Pickard (2006). A 23-year-old woman who met the clinical criteria for the vegetative state five months after a traumatic brain injury, told in the scanner to imagine playing tennis or walking through her house, activated the supplementary motor area for the first and parahippocampal, posterior parietal and lateral premotor cortex for the second, as 12 healthy volunteers did. The authors take her compliance as "a clear act of intention" showing awareness; her intact speech responses they set aside as not evidence of it. No question was asked or answered.
 ---
 
 # LIT-tmp22anc: Detecting Awareness in the Vegetative State
 
 Owen, A. M., Coleman, M. R., Boly, M., Davis, M. H., Laureys, S. & Pickard, J. D. (2006). *Science* 313(5792):1402. doi:10.1126/science.1130197.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, [NOTE-tmpx40wa](../notes.d/NOTE-tmpx40wa.md).*
+
+- **The response.** She understood spoken commands and responded "through
+  her brain activity, rather than through speech or movement" (p. 1402):
+  tennis imagery activated the supplementary motor area; imagining visiting
+  the rooms of her house activated parahippocampal gyrus, posterior parietal
+  and lateral premotor cortex, "indistinguishable" from 12 controls.
+- **The inference.** "Her decision to cooperate ... represents a clear act
+  of intention, which confirmed beyond any doubt that she was consciously
+  aware of herself and her surroundings." Asserted, not argued.
+- **What does not count.** Intact speech and ambiguity responses are
+  "suggestive" but "not unequivocal evidence" of awareness; negative
+  findings cannot show its absence.
+- **Not communication.** No question was asked; the paper proposes the
+  method for communication without attempting it. Monti et al.
+  ([LIT-tmpp8ob6](LIT-tmpp8ob6.md)) did.
 
 ## Why this is here
 
-For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md). The record held this result only through Block ([NOTE-497](../notes.d/NOTE-497.md)): an intentional act without report. The response is mental imagery to command, so the patient's only output channel is a mental act. Whether that is judgement without action, or action moved inward ([CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md)), is what the case asks.
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md). The record held this result only through Block ([NOTE-497](../notes.d/NOTE-497.md)): an intentional act without report, which the reading confirms is what the paper shows. The output channel is a mental act with no motor output. But the act is motor imagery read from the supplementary motor area, so it fits [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md)'s "action moved inward" literally, while acting on nothing outside the patient. It shows compliance with an instruction, not judgement about a question, so for judgement without action on the world ([CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)) Monti et al. are the stronger citation. The patient was five months from injury and had built her model while acting.

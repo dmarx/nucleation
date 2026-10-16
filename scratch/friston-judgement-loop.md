@@ -508,3 +508,11 @@ Nothing was registered for them.
   CASE-tmpxgcq2. QBism quote checked in the arXiv text: "It is an action on
   the world by an agent that results in the creation of an outcome."
 - Remaining: reading the nine; the owner's verdict on the mapping.
+
+## Still-not-done items (owner, U7)
+
+- Formal: CLAIM-tmpkss5r / CASE-tmp1gf2k, γ = 4ηs(κ′ − κ̄); script
+  scratch/formal/check.py.
+- Readings: six read with NOTEs, two Unavailable, Powers 1960 registered.
+  Corrections applied to CASE-tmpxgcq2 and CLAIM-tmpq9do8.
+- Mapping (CLAIM-tmp84z6h): put to the owner.

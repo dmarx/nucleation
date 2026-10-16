@@ -77,21 +77,35 @@ usually reached through ALS, no motor channel remains.
   Command-following, the usual marker, marks access, not experience
   ([THEORY-090](../theory.d/THEORY-090.md)). No-report markers still have to be validated through
   report or executive control ([THEORY-298](../theory.d/THEORY-298.md)).
-- **Command-following by brain imaging.** Owen et al. ([LIT-tmp22anc](../literature.d/LIT-tmp22anc.md)): a
-  patient who met the criteria for the vegetative state, asked to imagine
-  playing tennis or moving around her home, activated the predicted
-  cortical areas "in a manner indistinguishable from that of healthy
-  volunteers". Monti et al. ([LIT-tmpp8ob6](../literature.d/LIT-tmpp8ob6.md)): 5 of 54 patients with
-  disorders of consciousness could modulate their brain activity at will,
-  two of them with no voluntary behaviour detectable at the bedside, and
-  the imagery could be used to answer yes or no. Block reads the first as
-  "an intentional act without report" ([NOTE-497](../notes.d/NOTE-497.md)). Here the output channel
-  is mental action alone, with no action on the world. That is the
-  strongest evidence the record holds of judgement running without action
-  on the world, and it is what [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) needs. It does not escape
-  the asymmetry: the imagery is a channel the patient drives, so
-  [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md) can call it action moved inward, and the thesis answers
-  that it acts on the patient's own state, not on the world.
+- **Command-following by brain imaging.** Owen et al. ([LIT-tmp22anc](../literature.d/LIT-tmp22anc.md), read
+  in [NOTE-tmpx40wa](../notes.d/NOTE-tmpx40wa.md)): a patient who met the criteria for the vegetative
+  state, five months after injury, imagined playing tennis or moving
+  around her home on request, and responded "through her brain activity,
+  rather than through speech or movement". Monti et al. ([LIT-tmpp8ob6](../literature.d/LIT-tmpp8ob6.md), read
+  in [NOTE-tmpy3j64](../notes.d/NOTE-tmpy3j64.md)): 5 of 54 patients with disorders of consciousness
+  modulated their brain activity at will. Two "remained behaviorally
+  unresponsive at the bedside, even after the functional MRI results were
+  known", but they were not asked questions. The one patient who answered
+  yes/no questions, 5 of 6 correctly, showed on retesting "reproducible,
+  but inconsistent, responses indicative of a minimally conscious state".
+  So what this shows is narrower than it first looked:
+  - **The answers left with no action on the world**, but the patient who
+    gave them kept some motor contingency. The questions (his father's
+    name, for example) were about his life before the injury, so they test
+    a model built while acting, not one kept in touch without it.
+    Defeater (b) of [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) is not tested.
+  - **The channel is imagined action** ("imagine standing still on a tennis
+    court and to swing an arm"), read from a motor region. That fits
+    [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md)'s "action moved inward" literally, though the answer it
+    carries is a judgement, put into imagery by a code the investigators
+    set.
+  - **Negative results are uninterpretable.** When a question got no
+    signal, "Whether the patient fell asleep ... or lost consciousness
+    cannot be determined". The asymmetry above holds.
+  - **The scoring was blind**: "the investigators would not know the correct
+    answers before judging the functional MRI data". That is
+    [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md)'s anchor, but for the observers' reading, not for the
+    patient, who got no feedback.
 - **Not every contingency goes.** Paralysis removes action on the world.
   It does not remove the body's regulation of itself. Barrett's action is
   visceromotor ([NOTE-434](../notes.d/NOTE-434.md)), and on Damasio's account feelings may need the

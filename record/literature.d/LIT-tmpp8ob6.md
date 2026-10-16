@@ -1,14 +1,26 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-16, not read (abstract only). Registered from the exchange of 2026-10-16 on active inference and locked-in syndrome (the workbench entry of 2026-10-16). No NOTE is filed.
+  read 2026-10-16 ([NOTE-tmpy3j64](../notes.d/NOTE-tmpy3j64.md)) in full, without the Supplementary Appendix. Worth reading as the study that made imagery-to-command a yes/no channel and found command-following in 5 of 54 patients diagnosed by behaviour. Read it knowing that only one patient was asked questions, that he showed inconsistent signs of a minimally conscious state on retesting, and that the two responders with no bedside behaviour were not asked questions.
 title: 'Willful Modulation of Brain Activity in Disorders of Consciousness'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-16'
   note: >-
     Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read in full (NOTE-tmpy3j64) from the publisher's PDF posted on the
+    Monti lab's site at UCLA; nejm.org returned a bot check, ORBi's deposit
+    is restricted and the paper is not in PMC. The Supplementary Appendix
+    was not reached. Status moved from Deferred to Active; the summary is
+    rewritten from the reading. "Why this is here" is corrected: it said
+    answers were given "by patients with no detectable voluntary
+    behaviour", but the one patient who answered had inconsistent bedside
+    signs of a minimally conscious state, and the two without bedside
+    behaviour were not asked questions.
 tags:
 - consciousness
 - neuroscience
@@ -25,16 +37,36 @@ keywords:
 - 'yes/no communication'
 implementations: []
 summary: >-
-  Monti et al. (2010). Of 54 patients with disorders of consciousness, 5 could willfully modulate brain activity in two mental-imagery tasks; in two of them no voluntary behaviour could be detected at the bedside. The imagery was used to answer yes-or-no questions.
+  Monti et al. (2010). Of 54 patients diagnosed vegetative (23) or minimally conscious (31), 5, all with traumatic injury, produced task-specific fMRI activity to motor and spatial imagery commands; 4 had been admitted as vegetative, and 2 of those showed no behavioural sign of awareness at the bedside even after the scans were known. Using one imagery for yes and the other for no, 16 controls answered 48 of 48 questions correctly, and one patient, 5 years after injury, answered 5 of 6 autobiographical questions correctly, scored blind, the sixth giving no signal. That patient showed inconsistent signs of a minimally conscious state on retesting but could not communicate at the bedside.
 ---
 
 # LIT-tmpp8ob6: Willful Modulation of Brain Activity in Disorders of Consciousness
 
 Monti, M. M., Vanhaudenhuyse, A., Coleman, M. R., Boly, M., Pickard, J. D., Tshibanda, L. et al. (2010). *New England Journal of Medicine* 362(7):579–589. doi:10.1056/NEJMoa0905370.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, [NOTE-tmpy3j64](../notes.d/NOTE-tmpy3j64.md).*
+
+- **Prevalence.** 5 of 54 patients, 4 of 23 admitted as vegetative, could
+  "willfully modulate their brain activity"; all five had traumatic
+  injuries, and no patient with a non-traumatic injury responded.
+- **Undetectable at the bedside.** Of the four admitted vegetative, two
+  "remained behaviorally unresponsive at the bedside, even after the
+  functional MRI results were known" (p. 585).
+- **The code.** Tennis imagery for one answer, spatial navigation for the
+  other, cued by the neutral word "answer". Questions were chosen so "the
+  investigators would not know the correct answers before judging the
+  functional MRI data" (p. 581). Controls: 48 of 48 correct.
+- **Patient 23.** Diagnosed vegetative at 17 months and 3.5 years, scanned
+  at 5 years; on retesting, "reproducible, but inconsistent, responses
+  indicative of a minimally conscious state", but no bedside
+  communication. Five of six questions answered correctly; the last gave
+  no signal, and why "cannot be determined".
+- **Unknown history.** Whether he was aware at the earlier diagnoses is
+  "indistinguishable" from later recovery, all earlier assessments being
+  behavioural (p. 588).
 
 ## Why this is here
 
-For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): judgement shown, and answers given, through mental imagery by patients with no detectable voluntary behaviour. It is the strongest evidence the record now holds of judgement running with no action on the world. It still crosses a channel the patient drives, so the case's asymmetry holds.
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): judgement shown, as correct yes/no answers to questions the investigators could not answer, through mental imagery with no action on the world in the channel that carried it. It is the strongest evidence the record holds of judgement running without action on the world, but not of judgement with every contingency removed: the patient who answered still had inconsistent voluntary motor responses, and the two with no bedside behaviour were not asked questions. The questions were about his life before the injury, so they test a model built while acting, not one kept in touch since. The channel is motor imagery read from the supplementary motor area ([CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md)'s action moved inward), and the case's asymmetry shows twice: negatives in 49 patients and the silent sixth answer are uninterpretable.

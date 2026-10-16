@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'CASE-099''s linearization with endorsement scored on committed predictions: when the shared meaning bends the specialists'' predictions with weight κ and the reading of the evidence with weight κ′, the coupling of interpretation to endorsement is γ = 4ηs(κ′ − κ̄)'
+title: 'The two-hypothesis linearization with endorsement scored on committed predictions: when the shared meaning bends the specialists'' predictions with weight κ and the reading of the evidence with weight κ′, the coupling of interpretation to endorsement is γ = 4ηs(κ′ − κ̄)'
 version: 1
 standing: fictional
 kind: construction
@@ -25,7 +25,7 @@ supports:
 - CLAIM-tmpkss5r
 ---
 
-# CASE-tmp1gf2k: [CASE-099](CASE-099.md)'s linearization with endorsement scored on committed predictions: when the shared meaning bends the specialists' predictions with weight κ and the reading of the evidence with weight κ′, the coupling of interpretation to endorsement is γ = 4ηs(κ′ − κ̄)
+# CASE-tmp1gf2k: The two-hypothesis linearization with endorsement scored on committed predictions: when the shared meaning bends the specialists' predictions with weight κ and the reading of the evidence with weight κ′, the coupling of interpretation to endorsement is γ = 4ηs(κ′ − κ̄)
 
 ## The construction
 

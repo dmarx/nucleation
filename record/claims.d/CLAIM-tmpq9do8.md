@@ -36,8 +36,7 @@ grounds:
 - THEORY-tmp6rcgc
 - THEORY-tmp2k3a9
 - LIT-tmpuamcv
-- LIT-tmpj2lkz
-- LIT-tmpetez2
+- LIT-tmpgo33i
 complements:
 - CLAIM-tmp84z6h
 - CLAIM-tmpt568z
@@ -120,32 +119,52 @@ canvas and the retrieval policy ([TERM-026](../terms.d/TERM-026.md), [CLAIM-275]
 What separates them is their target, and the claim is that the loop that
 keeps a model in touch closes through the second.
 
-QBism is the sharpest test of the distinction, because it agrees with U1
-about measurement and disagrees about its target. "A measurement does not
-... reveal a pre-existing state of affairs. It is an action on the world by
-an agent that results in the creation of an outcome — a new experience for
-that agent" ([LIT-tmp7kgwz](../literature.d/LIT-tmp7kgwz.md)). The claim takes the first half and denies the
-second. A judgement creates its outcome by changing the judge, not the
-world.
+QBism is the sharpest contrast ([LIT-tmp7kgwz](../literature.d/LIT-tmp7kgwz.md), read in [NOTE-tmpfpjq8](../notes.d/NOTE-tmpfpjq8.md)). It
+agrees that a measurement creates its outcome rather than revealing it: "A
+measurement does not, as the term unfortunately suggests, reveal a
+pre-existing state of affairs. It is an action on the world by an agent
+that results in the creation of an outcome — a new experience for that
+agent." But QBism keeps judgement and measurement apart. A judgement is the
+agent's state assignment ("a quantum state assignment is also a personal
+judgment"). A measurement is "any action an agent takes to elicit a set of
+possible experiences", and the agent's "own direct internal awareness of
+her own private experience" is the one thing it does not model. Its loop is
+judgement, action, experience, update: the action–perception shape this
+claim rejects, with the self left out of the measurement. This claim makes
+the judgement itself the measurement, and the judge the thing it changes.
 
 ## Evidence that judging changes the judge
 
 The record had none from outside its own exchanges until it registered
-three works (not yet read beyond their abstracts):
+three works. Two have been read.
 
-- **Feldman and Lynch:** an attitude or intention "can be created by
-  measurement if the measured constructs do not already exist in long-term
-  memory", and an earlier answer is used as a basis for a later one when
-  it is accessible and diagnostic ([LIT-tmpuamcv](../literature.d/LIT-tmpuamcv.md)). The second finding is
-  the diachronic form.
-- **Morwitz, Johnson and Schmittlein:** merely asking purchase intent
-  changes later purchasing, and the effect weakens with prior experience
-  of the product ([LIT-tmpj2lkz](../literature.d/LIT-tmpj2lkz.md)).
-- **Slovic:** preferences are "constructed — not merely revealed — in the
-  process of elicitation" ([LIT-tmpetez2](../literature.d/LIT-tmpetez2.md)).
+- **Feldman and Lynch** ([LIT-tmpuamcv](../literature.d/LIT-tmpuamcv.md), read in [NOTE-tmpj9jxh](../notes.d/NOTE-tmpj9jxh.md)). Measurement
+  creates state, not only a response: "If the researcher asks a question
+  about attitude (or belief, intention, etc.), and no such cognition
+  already exists, the measure creates one". And the diachronic form is
+  explicit: "Once the answer has been computed, it can be retrieved to
+  answer subsequent questions". This is the route [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md)
+  leave open, an arrow from the context into the interpreter's state,
+  argued in classical terms. Three limits:
+  - the paper has no data of its own and calls its account speculative;
+  - it values the created state mainly for its effect on behaviour;
+  - it gives judgement no special place: "all real-world experiences with
+    an object have the potential to shape subsequent responses to it".
+- **Slovic** ([LIT-tmpetez2](../literature.d/LIT-tmpetez2.md), read in [NOTE-tmp38ooy](../notes.d/NOTE-tmp38ooy.md)): preferences are
+  "constructed—not merely revealed—in the elicitation process". Every
+  result compares elicitation procedures. That shows the measurement
+  context entering the response, which is the route A129's graph already
+  has. It never follows a constructed preference into a later judgement,
+  so it supports the synchronic reading this claim sets aside, not the
+  diachronic one it holds. Construction is claimed only for "important,
+  complex, and perhaps unfamiliar" options.
+- **Morwitz, Johnson and Schmittlein** ([LIT-tmpj2lkz](../literature.d/LIT-tmpj2lkz.md), Unavailable): merely
+  asking purchase intent changes later purchasing. Known from the abstract
+  only.
 
-All three are classical in mechanism: retrieval, accessibility,
-construction. They support the claim and do not bear on contextuality.
+All three are classical in mechanism (retrieval, accessibility,
+construction) and do not bear on contextuality. Feldman and Lynch is the
+one that supports the claim as held.
 
 ## What keeps the loop honest
 
@@ -212,12 +231,27 @@ outcome, is not part of this claim:
   agent. The claim is about a lucid judge, not about agency.
 - **Perceptual control.** Powers: "behavior is the control of input, not
   output", and above the lowest level a system's output "is not a muscle
-  force, but a reference level" for the level below ([LIT-tmp626gh](../literature.d/LIT-tmp626gh.md),
-  [LIT-tmp44sbd](../literature.d/LIT-tmp44sbd.md)). Most of a control hierarchy is then an internal loop,
-  which the claim shares. But every loop bottoms out in action that
-  controls a sensed quantity, which the claim denies is needed to keep a
-  built model in touch.
-- **The epistemic cut.** For Pattee the act that separates a living
-  system's records from its dynamics is measurement ([LIT-tmpo5atc](../literature.d/LIT-tmpo5atc.md), not
-  read). That is measurement-first prior art, to be read before the claim
-  cites it for more.
+  force, but a reference level" for the level below ([LIT-tmp626gh](../literature.d/LIT-tmp626gh.md), read in
+  [NOTE-tmpxdsyb](../notes.d/NOTE-tmpxdsyb.md)). In that paper every loop closes through the environment,
+  down to the spinal systems that control muscle effort. But the theory's
+  first statement has a loop with no action: an "imagination connection"
+  by which a reference signal returns as the system's own perception, so
+  that the system can "plan an action 'mentally' without actually
+  performing it" ([LIT-tmpgo33i](../literature.d/LIT-tmpgo33i.md)). That loop is self-satisfying, since the
+  "match" is "automatically ensured". It is the synchronic form this claim
+  does not claim. Powers adds the anchor problem in the same passage: the
+  hierarchy "could not perform very reliably" if its actions were
+  "completely 'short-circuited'" by it. The claim differs in two ways. Its
+  loop reshapes the observer rather than standing in for perception, and
+  Powers's sensors are assumed constant ("If the properties of the sensor
+  remain constant, as we may usually assume").
+- **The epistemic cut.** Pattee ([LIT-tmpo5atc](../literature.d/LIT-tmpo5atc.md), read in [NOTE-tmp7d44m](../notes.d/NOTE-tmp7d44m.md)) does
+  not put measurement first. Measurement and control are converses:
+  "measurement transforms physical states to symbols in memory, while
+  memory-stored controls transform symbols to physical states", and "control
+  of construction came first". So he belongs with the rivals that keep
+  action, here control, in the loop. Two of his points still bear. Semantic
+  closure, in which the reader of the symbols is built from them, has the
+  shape of this claim's diachronic loop. And his condition for objectivity,
+  that measurement must not influence the laws it measures, is close to
+  [CLAIM-tmpt568z](CLAIM-tmpt568z.md)'s anchor.
