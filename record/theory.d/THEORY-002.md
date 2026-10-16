@@ -20,7 +20,7 @@ promote_when: >-
   has not decided that a Bures-type quantity on those coordinates counts;
   and the identity is the reader's, not a proved statement of the source.
 title: 'Convergence of representations, in the Platonic hypothesis''s sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-05'
@@ -51,6 +51,14 @@ history:
   note: >-
     The promote_when's remark that a CKA result does not count by itself
     now cites THEORY-233, the account of LIT-250 eq. 24 filed today.
+- version: 5
+  date: '2026-10-16'
+  note: >-
+    Huh et al. is now held here as LIT-302, read in NOTE-286, and joins
+    the sources: the account argues from its §4.2 proof and App. A
+    metric. The Source section cites it beside ANTH-LIT-458. The
+    measured half of the hypothesis is filed separately as
+    THEORY-tmptjbe9. The claim is unchanged.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -58,6 +66,7 @@ date: '2026-09-26'
 source:
 - LIT-253
 - LIT-250
+- LIT-302
 summary: >-
   An inference joining Huh et al.'s Platonic hypothesis ([ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md)) to
   Nielsen et al. ([LIT-253](../literature.d/LIT-253.md)) and Harvey, Larsen & Williams ([LIT-250](../literature.d/LIT-250.md)).
@@ -75,7 +84,7 @@ supports:
 
 ## Source
 
-Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-738](../notes.d/NOTE-738.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-753](../notes.d/NOTE-753.md). The hypothesis itself is Huh et al. (2024), [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md), §4.2 and App. A.
+Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-738](../notes.d/NOTE-738.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-753](../notes.d/NOTE-753.md). The hypothesis itself is Huh et al. (2024), [LIT-302](../literature.d/LIT-302.md) (held in the anthology as [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md)), §4.2 and App. A, as read in [NOTE-286](../notes.d/NOTE-286.md); its measurements are stated in [THEORY-tmptjbe9](THEORY-tmptjbe9.md).
 
 ## What was actually shown
 

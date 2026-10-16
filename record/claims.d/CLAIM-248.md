@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpt2k3r
 title: 'A language model agreeing with humans in direction is weak evidence, because models are trained on human text about teasing and reproach and the founding stimuli are famous, and the language-model test bed''s defeat condition fires only on a reversal'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -12,6 +12,12 @@ history:
     Conceded on 2026-10-10. CLAIM-058 v2 tests the pattern of effects
     across conditions, across model families, on stimuli written after
     the training cut-offs.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Grounds now also name THEORY-tmpyh9bm, the account of LIT-833's
+    measurement this claim relies on: good orders do not transfer across
+    model sizes. The claim is unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -23,6 +29,7 @@ rests_on:
 - CLAIM-085
 grounds:
 - LIT-833
+- THEORY-tmpyh9bm
 objects_to:
 - CLAIM-058
 summary: >-

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmptm6yt
 title: 'Collaborative filtering and topic models: latent relational structure recovered from interaction matrices, up to gauge, or uniquely under anchor conditions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Corrected: Zhang and Blei (LIT-677) claim flat paths between LDA's
+    optima but report no results (NOTE-522), so "find" is now "claim,
+    without reported results". Found in the THEORY backfill.
 standing: documented
 kind: specimen
 tags:
@@ -64,8 +71,9 @@ relations, with no feature of any row or column given in advance.
   topic could hold.
 
 The record already held readings that bear on the case, and the exchange
-cited none of them. Zhang and Blei ([LIT-677](../literature.d/LIT-677.md)) find LDA's optima joined by
-flat paths, a practical form of topic-model non-identifiability. Word
+cited none of them. Zhang and Blei ([LIT-677](../literature.d/LIT-677.md)) claim, without reported results, that
+LDA's optima are joined by flat paths, a practical form of topic-model
+non-identifiability. Word
 embeddings learned contrastively factorize a co-occurrence matrix's
 deviation from independence ([THEORY-182](../theory.d/THEORY-182.md), [LIT-855](../literature.d/LIT-855.md); also [LIT-863](../literature.d/LIT-863.md)), and
 [QUESTION-025](../questions.d/QUESTION-025.md) asks what such factorizations do with correlated attributes.
