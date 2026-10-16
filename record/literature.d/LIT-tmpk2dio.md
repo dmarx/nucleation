@@ -1,0 +1,42 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'Adaptive coevolutionary networks: a review'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref, arXiv and OpenAlex
+    on 2026-10-16. arXiv v1 (2007-09-12) precedes the journal's online date (2007-10-30). Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- network-science
+- complex-systems
+date: '2026-10-16'
+published: '2007-09-12'
+arxiv: '0709.1858'
+first_author: 'Gross'
+keywords:
+- 'adaptive networks'
+- 'coevolution'
+- 'network topology'
+- 'self-organization'
+implementations: []
+summary: >-
+  Gross (2008). Reviews networks whose topology and node states coevolve, and the dynamics this produces: self-organization toward criticality, complex topologies, fragmentation and new transitions.
+---
+
+# LIT-tmpk2dio: Adaptive coevolutionary networks: a review
+
+Gross, T. & Blasius, B. (2008). *Journal of the Royal Society Interface* 5(20):259–271. doi:10.1098/rsif.2007.1229.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A15 of the exchange of 2026-10-16: the general tools for the endorsement canvas read as a directed weighted adaptive network ([QUESTION-tmpamn8i](../questions.d/QUESTION-tmpamn8i.md)).

@@ -21,6 +21,8 @@ summary: >-
   whether a pattern of coordination is an additional agent ([QUESTION-009](QUESTION-009.md)).
 answered_by:
 - THEORY-139
+refined_by:
+- QUESTION-tmpxrbo1
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this one refines -->
 
