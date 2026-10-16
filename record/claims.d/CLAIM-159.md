@@ -65,7 +65,7 @@ regimes) and a higher level (resolve, control, the will):
   alter practical efficacy." These are the conditions under which the
   driver changes. Will-organization is a claim about the system's
   *drive history*: what governs which regime drives, and when. That is the
-  owner's point that "who drives" is not constant ([CLAIM-tmp2gewd](CLAIM-tmp2gewd.md)), given
+  owner's point that "who drives" is not constant ([CLAIM-316](CLAIM-316.md)), given
   a home in the will line.
 
 If this holds, part of the dispute among the three is a dispute about

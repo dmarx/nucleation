@@ -31,7 +31,7 @@ contexts."
 
 ## Where it stands
 
-The manuscript §7 says each condition can be met while the conjunction fails ([CLAIM-tmpjni98](../claims.d/CLAIM-tmpjni98.md)), and
+The manuscript §7 says each condition can be met while the conjunction fails ([CLAIM-321](../claims.d/CLAIM-321.md)), and
 that score addition composes conditions only under conditional independence at
 the noisy state ([CLAIM-123](../claims.d/CLAIM-123.md)). C7 Appendix D adds that the identity "is not a generic
 identity for arbitrary prompt embeddings or finite-step diffusion

@@ -1,5 +1,8 @@
 ---
+number: 320
 status: Active
+formerly:
+- CLAIM-tmpbogw2
 title: 'Within one fixed measurement scenario, two no-signalling empirical models can agree on all but one of their contexts and on every single-observable marginal while their contextual fractions are 1 and 0, so keeping most local judgement distributions does not fix their global compatibility'
 version: 1
 role: thesis
@@ -34,7 +37,7 @@ summary: >-
   interpretive, and the context that changes moves by a total-variation
   distance of 1.
 complements:
-- CLAIM-tmp9fgji
+- CLAIM-319
 supports:
 - CLAIM-105
 ---
@@ -42,7 +45,7 @@ supports:
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of CLAIM-105's headline, cited as open -->
 
-# CLAIM-tmpbogw2: Within one fixed measurement scenario, two no-signalling empirical models can agree on all but one of their contexts and on every single-observable marginal while their contextual fractions are 1 and 0, so keeping most local judgement distributions does not fix their global compatibility
+# CLAIM-320: Within one fixed measurement scenario, two no-signalling empirical models can agree on all but one of their contexts and on every single-observable marginal while their contextual fractions are 1 and 0, so keeping most local judgement distributions does not fix their global compatibility
 
 ## The claim
 

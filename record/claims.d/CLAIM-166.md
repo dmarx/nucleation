@@ -29,7 +29,7 @@ grounds:
 - LIT-915
 - CASE-047
 complements:
-- CLAIM-tmp2gewd
+- CLAIM-316
 summary: >-
   The owner's thesis of 2026-10-11: "'who drives' isn't a constant.
   Considering myself as a multi-level agent, part of my composition is my
@@ -114,9 +114,9 @@ that a person's drive profile is time-indexed, is the owner's thesis,
 argued from the drive-profile term and the will line and supported by no
 observation the record holds (interpretive), while its second part,
 that the microbiome can drive hunger and affect, rests on two reviews
-(empirical). The first part is now [CLAIM-tmp2gewd](CLAIM-tmp2gewd.md), which this claim complements.
+(empirical). The first part is now [CLAIM-316](CLAIM-316.md), which this claim complements.
 This claim keeps the microbiome part and stays empirical. Its title,
 which led with "'Who drives' is not constant", was changed to state the
 microbiome part with the scope the evidence gives it; the second
 disjunct of its defeat condition, stable drive profiles over successive
-windows, is [CLAIM-tmp2gewd](CLAIM-tmp2gewd.md)'s.
+windows, is [CLAIM-316](CLAIM-316.md)'s.

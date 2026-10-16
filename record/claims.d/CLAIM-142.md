@@ -34,7 +34,7 @@ rests_on:
 - CLAIM-046
 - CLAIM-011
 - CLAIM-264
-- CLAIM-tmpumwtu
+- CLAIM-322
 grounds:
 - THEORY-032
 - LIT-221

@@ -1,5 +1,8 @@
 ---
+number: 326
 status: Proposed
+formerly:
+- CLAIM-tmpz6mng
 title: 'With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order over finitely many states, and has A86''s D_Q, with the identity on tasks, as its symmetrization'
 version: 1
 role: thesis
@@ -36,7 +39,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-259 CLAIM-258 CLAIM-106 — Proposed; the proposal this was split from, the objection whose worked case it measures, and the directed-fidelity thesis, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Deferred; Torgersen, unread here, named for the constants and not leaned on -->
 
-# CLAIM-tmpz6mng: With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization
+# CLAIM-326: With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization
 
 ## The claim
 

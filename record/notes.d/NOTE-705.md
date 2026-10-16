@@ -96,7 +96,7 @@ whichever description compresses the behaviour better, for this observer.
 - **The circularity objection** ([CLAIM-168](../claims.d/CLAIM-168.md)). The identified-system
   assumption is the presupposition that the threshold criterion
   ([CLAIM-157](../claims.d/CLAIM-157.md)) would discharge.
-- **Time-varying drive** ([CLAIM-166](../claims.d/CLAIM-166.md), now [CLAIM-tmp2gewd](../claims.d/CLAIM-tmp2gewd.md)). C4 says an agent can change what
+- **Time-varying drive** ([CLAIM-166](../claims.d/CLAIM-166.md), now [CLAIM-316](../claims.d/CLAIM-316.md)). C4 says an agent can change what
   drives it, rarely, and stay an agent. That is the owner's non-constancy,
   bounded.
 - **C5 is the permissiveness objection ([CLAIM-010](../claims.d/CLAIM-010.md)) in formal dress.** Whether

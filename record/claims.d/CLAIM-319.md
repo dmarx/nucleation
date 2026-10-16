@@ -1,5 +1,8 @@
 ---
+number: 319
 status: Active
+formerly:
+- CLAIM-tmp9fgji
 title: 'Over a scenario of n contexts in an odd cycle, changing the support of one context takes the contextual fraction from 1 to 0 while the other n − 1 contexts and every marginal are kept exactly, at a weighted observational distortion of 1/n, so within a scenario the fraction''s Lipschitz constant against that distortion is at least n; and any change of global extension needs a contextual model on one side'
 version: 1
 role: thesis
@@ -23,7 +26,7 @@ grounds:
 uses:
 - TERM-043
 complements:
-- CLAIM-tmpbogw2
+- CLAIM-320
 summary: >-
   Split from [CLAIM-201](CLAIM-201.md) under [ADR-043](../decisions.d/ADR-043.md): the derivation that claim called
   "decisive and checkable", stated on its own. For odd n, an n-cycle of
@@ -41,7 +44,7 @@ supports:
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for its scenario-dependent constant, not as settled -->
 <!-- inactive-ok-file: CLAIM-201 CLAIM-105 — Proposed; the narrowing that rests on this and the headline it bears on, cited as open -->
 
-# CLAIM-tmp9fgji: Over a scenario of n contexts in an odd cycle, changing the support of one context takes the contextual fraction from 1 to 0 while the other n − 1 contexts and every marginal are kept exactly, at a weighted observational distortion of 1/n, so within a scenario the fraction's Lipschitz constant against that distortion is at least n; and any change of global extension needs a contextual model on one side
+# CLAIM-319: Over a scenario of n contexts in an odd cycle, changing the support of one context takes the contextual fraction from 1 to 0 while the other n − 1 contexts and every marginal are kept exactly, at a weighted observational distortion of 1/n, so within a scenario the fraction's Lipschitz constant against that distortion is at least n; and any change of global extension needs a contextual model on one side
 
 ## The claim
 
@@ -76,7 +79,7 @@ i = 1, …, n, indices mod n, so that C_n = {a_n, a_1}. Weight every context
   weights the weighted observational distortion is D_obs = (1/n) · 1 = 1/n.
 
 For n = 3 this is [CASE-037](../cases.d/CASE-037.md) with the outcomes of one observable relabelled,
-the pair [CLAIM-tmpbogw2](CLAIM-tmpbogw2.md) states for one scenario; this claim is its general
+the pair [CLAIM-320](CLAIM-320.md) states for one scenario; this claim is its general
 form.
 So within a fixed scenario the contextual fraction can fall from 1 to 0 at a
 weighted local distortion of 1/n, which is as small as one likes for large
@@ -95,7 +98,7 @@ models had a global extension, global extension would not have changed.
 ## What it does not say
 
 - That any data are contextual, or that a rendering does this. Whether
-  behavioural data supply the contextual side is [CLAIM-tmpxrlyo](CLAIM-tmpxrlyo.md), and what
+  behavioural data supply the contextual side is [CLAIM-325](CLAIM-325.md), and what
   follows for [CLAIM-105](CLAIM-105.md)'s headline is [CLAIM-201](CLAIM-201.md)'s, which rests on this claim.
 - Anything across scenarios. The construction keeps the scenario fixed; a
   change of scenario, where the fraction can jump, is a different case.

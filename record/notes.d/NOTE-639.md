@@ -143,7 +143,7 @@ Its benchmark templates (12 animals, 12 objects, 11 colours) are the
 
 ## Bearing on the record
 
-- **[CLAIM-123](../claims.d/CLAIM-123.md) (the binding failures are now [CLAIM-tmpjni98](../claims.d/CLAIM-tmpjni98.md))** (each condition can be met while their conjunction
+- **[CLAIM-123](../claims.d/CLAIM-123.md) (the binding failures are now [CLAIM-321](../claims.d/CLAIM-321.md))** (each condition can be met while their conjunction
   or binding fails). This paper documents the failure before binding:
   under a single text-conditioned model, a two-subject prompt often yields
   one subject. That bears on the claim as an instance of a conjunction

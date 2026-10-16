@@ -1,5 +1,8 @@
 ---
+number: 322
 status: Proposed
+formerly:
+- CLAIM-tmpumwtu
 title: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
 version: 1
 role: thesis
@@ -28,7 +31,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-264 CLAIM-142 CLAIM-011 — Proposed; the exact half this rests on, the application that first drew the rule, and the anchored-correspondence remedy, cited as open -->
 
-# CLAIM-tmpumwtu: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
+# CLAIM-322: Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected
 
 ## The claim
 

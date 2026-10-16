@@ -16,7 +16,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-091
 - CLAIM-074
-- CLAIM-tmpw35n1
+- CLAIM-323
 grounds:
 - THEORY-156
 - LIT-781
@@ -156,7 +156,7 @@ line's central cases are reports or re-performances is open, and
 [ADR-043](../decisions.d/ADR-043.md)'s full classification found this objection compound: its worked
 case is demonstrated, and its reading that the case is the normal
 translation case, through [CLAIM-091](CLAIM-091.md)'s compensation, is interpretive. The
-worked case is now [CLAIM-tmpw35n1](CLAIM-tmpw35n1.md) (demonstrated), on which this objection rests. This
+worked case is now [CLAIM-323](CLAIM-323.md) (demonstrated), on which this objection rests. This
 claim keeps the rest: that Blackwell's order, comparing experiments about
 one parameter, does not reach the line's translations, and that the
 direction the manuscript uses is silent about them. Its title states that

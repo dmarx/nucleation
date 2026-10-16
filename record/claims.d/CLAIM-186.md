@@ -94,7 +94,7 @@ asked for. The translation exchange shows what the branching looks like:
   placements, until the owner pulled it back at U51.
 - Each of the two crystallized arguments (U38, U56; [TERM-052](../terms.d/TERM-052.md)) came
   at the end of a run of fast turns. The first lost material when it was
-  drafted into C7 ([CLAIM-tmpwkbsy](CLAIM-tmpwkbsy.md)). The second, A203, left out Tannaka
+  drafted into C7 ([CLAIM-324](CLAIM-324.md)). The second, A203, left out Tannaka
   reconstruction ([QUESTION-036](../questions.d/QUESTION-036.md)) and [CLAIM-125](CLAIM-125.md)'s two open problems, and nothing in the exchange says whether they
   dissolved as the argument matured or were not carried forward.
 

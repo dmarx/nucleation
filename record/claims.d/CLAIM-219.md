@@ -30,7 +30,7 @@ grounds:
 objects_to:
 - CLAIM-105
 rests_on:
-- CLAIM-tmpxrlyo
+- CLAIM-325
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure lens);
   no turn of the exchange raises it. Dzhafarov, Zhang and Kujala ([LIT-264](../literature.d/LIT-264.md))
@@ -144,13 +144,13 @@ scenario, is either unsupported or not distinctive.
 [ADR-043](../decisions.d/ADR-043.md)'s classification found this objection compound: an empirical
 premise, that the behavioural data the record has read show no
 contextuality proper ([LIT-264](../literature.d/LIT-264.md), [LIT-851](../literature.d/LIT-851.md)), and a dilemma drawn from it, whose
-second horn is the 2ε bound on overlap discrepancy. The premise is now [CLAIM-tmpxrlyo](CLAIM-tmpxrlyo.md),
+second horn is the 2ε bound on overlap discrepancy. The premise is now [CLAIM-325](CLAIM-325.md),
 scoped by [CASE-053](../cases.d/CASE-053.md) to data the record has read and to pragmatic or meaning
 judgements, and this claim rests on it. [CLAIM-201](CLAIM-201.md) relies on the same
 premise. This claim keeps the dilemma: the two readings of "global
 compatibility" come from [CLAIM-105](CLAIM-105.md)'s own defeat condition, the first horn
 follows from the premise, and the second is derived, so it is now marked
-demonstrated, conditional on [CLAIM-tmpxrlyo](CLAIM-tmpxrlyo.md). The title changed, because the old one
+demonstrated, conditional on [CLAIM-325](CLAIM-325.md). The title changed, because the old one
 led with the empirical finding: it was "The record's own reading finds
 contextuality proper in no behavioural data set, so the headline that
 translation changes global structure is either about contextuality, for

@@ -1,5 +1,8 @@
 ---
+number: 321
 status: Proposed
+formerly:
+- CLAIM-tmpjni98
 title: 'In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations'
 version: 1
 role: thesis
@@ -35,7 +38,7 @@ summary: >-
   say what causes the failures.
 ---
 
-# CLAIM-tmpjni98: In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations
+# CLAIM-321: In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations
 
 ## The claim
 

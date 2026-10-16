@@ -27,8 +27,8 @@ summary: >-
 supports:
 - CLAIM-219
 - CLAIM-201
-- CLAIM-tmp9fgji
-- CLAIM-tmpbogw2
+- CLAIM-319
+- CLAIM-320
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-105 CLAIM-009 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->

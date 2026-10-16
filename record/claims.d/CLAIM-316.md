@@ -1,5 +1,8 @@
 ---
+number: 316
 status: Proposed
+formerly:
+- CLAIM-tmp2gewd
 title: 'A person''s drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime'
 version: 1
 role: thesis
@@ -29,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
 
-# CLAIM-tmp2gewd: A person's drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime
+# CLAIM-316: A person's drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime
 
 ## The claim
 

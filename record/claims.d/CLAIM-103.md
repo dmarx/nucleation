@@ -17,7 +17,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-113
-- CLAIM-tmp6eegl
+- CLAIM-318
 uses:
 - TERM-036
 summary: >-
@@ -81,7 +81,7 @@ permutation matrix), are demonstrated, while the main use this claim
 gives symmetry, supplying the invariants against which non-symmetric
 transports are assessed, is interpretive, and it is what the defeat
 condition tests. The nesting, the invertible core and the correction of
-A198 §8 in the note of 2026-10-10 are now [CLAIM-tmp6eegl](CLAIM-tmp6eegl.md) (demonstrated), on which
+A198 §8 in the note of 2026-10-10 are now [CLAIM-318](CLAIM-318.md) (demonstrated), on which
 this claim rests. This claim keeps the yardstick role and the reading
 that symmetry is not opposed to transport. Its title states the nesting
 as the premise of that reading and is kept; its warrant stays

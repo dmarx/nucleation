@@ -31,7 +31,7 @@ summary: >-
 illustrated_by:
 - CASE-004
 corroborated_by:
-- CLAIM-tmpjni98
+- CLAIM-321
 ---
 
 # CLAIM-123: In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state
@@ -85,9 +85,9 @@ Under [ADR-040](../decisions.d/ADR-040.md) (group C, decided by the owner) this 
 composes conditions only under conditional independence at the noisy
 state is a derivation (demonstrated), while that each condition can be
 met while their conjunction or relational binding fails is documented by
-benchmarks and method papers (empirical). The empirical part is now [CLAIM-tmpjni98](CLAIM-tmpjni98.md),
+benchmarks and method papers (empirical). The empirical part is now [CLAIM-321](CLAIM-321.md),
 which corroborates this claim. This claim keeps the derivation and its
 conditions, and stays demonstrated. Its title, which led with the
 empirical part, was changed to state only the derivation; the first
 disjunct of its defeat condition, a model whose per-condition
-satisfaction predicts its joint binding accuracy, is [CLAIM-tmpjni98](CLAIM-tmpjni98.md)'s.
+satisfaction predicts its joint binding accuracy, is [CLAIM-321](CLAIM-321.md)'s.

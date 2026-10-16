@@ -83,7 +83,7 @@ U, so V is not a garbling of U. The order still compares the two. The
 direction the manuscript uses (garbling implies no worse) is silent, and
 the order's verdict is often incomparability.
 
-[CLAIM-tmpw35n1](CLAIM-tmpw35n1.md)'s worked case, read as a report case. Let Z be uniform on
+[CLAIM-323](CLAIM-323.md)'s worked case, read as a report case. Let Z be uniform on
 {1, 2, 3}. The source tells its reader whether Z = 1 (U = 1 if Z = 1, else
 U = 0). The rendering tells its reader whether Z = 3 (V = 1 if Z = 3, else
 V = 0). Take 0–1 loss.

@@ -27,7 +27,7 @@ variants:
 - CASE-061
 - CASE-073
 supports:
-- CLAIM-tmp2zbbq
+- CLAIM-317
 ---
 <!-- inactive-ok-file: CLAIM-224 CLAIM-221 — Proposed; the objection this case illustrates, and the intention-based objection whose reply it meets, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-130 CLAIM-091 — Proposed; the thesis the objection is to, the do(S)/do(I) distinction, and the model that holds the audience fixed, cited as open -->

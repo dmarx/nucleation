@@ -40,7 +40,7 @@ supports:
 - CLAIM-142
 - CLAIM-190
 - CLAIM-187
-- CLAIM-tmpumwtu
+- CLAIM-322
 complements:
 - CLAIM-302
 ---
@@ -116,8 +116,8 @@ unchanged.
 (the restricted Yoneda functor, Cramér–Wold, marginals) is demonstrated,
 and its evidential half, that only probes chosen independently of the
 comparison and evaluated on held-out cases are evidence that structure was
-preserved, is interpretive. The evidential half is now [CLAIM-tmpumwtu](CLAIM-tmpumwtu.md) (interpretive),
+preserved, is interpretive. The evidential half is now [CLAIM-322](CLAIM-322.md) (interpretive),
 which rests on this claim. This claim keeps the exact half and stays
 demonstrated. Its title, which stated the evidential half, is shortened to
 the exact half, and the second disjunct of its defeat condition, about
-chosen probes, moves to [CLAIM-tmpumwtu](CLAIM-tmpumwtu.md).
+chosen probes, moves to [CLAIM-322](CLAIM-322.md).

@@ -24,7 +24,7 @@ answers:
 - QUESTION-037
 rests_on:
 - CLAIM-177
-- CLAIM-tmpwkbsy
+- CLAIM-324
 uses:
 - TERM-052
 summary: >-
@@ -103,7 +103,7 @@ membership visibly gone.
 should be a view over the argument is interpretive, while that the
 drafts of the What Survives Translation? exchange dropped commitments
 and changed the thesis without saying so is empirical, from one
-exchange. The empirical part, scoped to that exchange, is now [CLAIM-tmpwkbsy](CLAIM-tmpwkbsy.md), on
+exchange. The empirical part, scoped to that exchange, is now [CLAIM-324](CLAIM-324.md), on
 which this claim rests, as it already rests on [CLAIM-177](CLAIM-177.md). This claim
 keeps the rest and stays interpretive: the general form, that a draft
 written straight from an exchange behaves this way, generalizes from

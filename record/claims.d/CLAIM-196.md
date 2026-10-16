@@ -31,7 +31,7 @@ date: '2026-10-12'
 line: distributed-agency
 rests_on:
 - CLAIM-197
-- CLAIM-tmp2zbbq
+- CLAIM-317
 grounds:
 - LIT-1001
 complements:
@@ -142,7 +142,7 @@ conflict on an overlap, and the empirical sociology of audiences it draws
 on, from boyd (2008) and [CASE-064](../cases.d/CASE-064.md). The empirical part, that presentations
 which differ by audience do no harm while the audiences are kept apart,
 that people keep them apart and script their meetings, and that broadcast
-and networked media bring them together, is now [CLAIM-tmp2zbbq](CLAIM-tmp2zbbq.md), on which this claim
+and networked media bring them together, is now [CLAIM-317](CLAIM-317.md), on which this claim
 rests. Its formal part was already [CLAIM-197](CLAIM-197.md). This claim keeps the rest,
 the sheaf reading and its prediction that segregation strategies target
 the overlaps, and stays interpretive. Its title states the sociology only

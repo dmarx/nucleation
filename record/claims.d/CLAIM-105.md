@@ -42,7 +42,7 @@ answers:
 - QUESTION-004
 rests_on:
 - CLAIM-038
-- CLAIM-tmpbogw2
+- CLAIM-320
 grounds:
 - LIT-265
 - THEORY-165
@@ -175,7 +175,7 @@ compatibility is shown possible by a constructed pair, [CASE-037](../cases.d/CAS
 context changed, which is demonstrated, while that documented
 reconstruction chains do this, which is what the defeat condition
 tests, has no observation under it, so it is interpretive. The
-constructed possibility is now [CLAIM-tmpbogw2](CLAIM-tmpbogw2.md) (demonstrated), on which this claim
+constructed possibility is now [CLAIM-320](CLAIM-320.md) (demonstrated), on which this claim
 rests. This claim keeps the thesis about translation and reconstruction
 chains, and its measures. Its title states that thesis and is kept; its
 warrant stays interpretive.

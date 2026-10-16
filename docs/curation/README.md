@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [15 Oct 21:06 — After the ADR-043 splits: citations repointed, one suspected dependency cleared](2026-10.md#after-the-adr-043-splits-citations-repointed-one-suspected-dependency-cleared)
+- [15 Oct 19:46 — Splitting the claims ADR-043 found compound](2026-10.md#splitting-the-claims-adr-043-found-compound)
 - [15 Oct 19:05 — ADR-043 accepted: a required warrant field on CLAIM, every claim classified, nineteen compounds flagged](2026-10.md#adr-043-accepted-a-required-warrant-field-on-claim-every-claim-classified-nineteen-compounds-flagged)
 - [15 Oct 10:11 — Database theory and semantic search: 23 works read for the sorting question, the cost of reuse and revision](2026-10.md#database-theory-and-semantic-search-23-works-read-for-the-sorting-question-the-cost-of-reuse-and-revision)
 - [15 Oct 03:31 — The LEGO parable ported from Mathematics of Meaning: what was kept, what was rebuilt, what was left](2026-10.md#the-lego-parable-ported-from-mathematics-of-meaning-what-was-kept-what-was-rebuilt-what-was-left)
@@ -66,9 +68,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-104 entries across 2 books, newest first.
+106 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 57 | 2026-10-01 | 2026-10-15 |
+| [2026-10](2026-10.md) | 59 | 2026-10-01 | 2026-10-15 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

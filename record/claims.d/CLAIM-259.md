@@ -27,7 +27,7 @@ uses:
 - TERM-028
 - TERM-043
 rests_on:
-- CLAIM-tmpz6mng
+- CLAIM-326
 summary: >-
   The record's repair, on 2026-10-10, of A86's D_Q after [CLAIM-218](CLAIM-218.md).
   Define D⁺_Q(U → V; π) = sup over q in Q of [r_q,π(V) − r_q,π(U)]⁺, with
@@ -143,8 +143,8 @@ read, so it is not stated here.
 [ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound: the properties of
 D⁺_Q, steps (a) to (d), are demonstrated, and that it should be the
 decision term is a proposal whose defeat condition is empirical and
-untested. The properties are now [CLAIM-tmpz6mng](CLAIM-tmpz6mng.md) (demonstrated), on which this claim
+untested. The properties are now [CLAIM-326](CLAIM-326.md) (demonstrated), on which this claim
 rests. This claim keeps the proposal, and its defeat condition, and is
 marked interpretive. Its title is kept: it leads with "should be", and its
-second half names the properties the proposal relies on, which [CLAIM-tmpz6mng](CLAIM-tmpz6mng.md) now
+second half names the properties the proposal relies on, which [CLAIM-326](CLAIM-326.md) now
 carries.
