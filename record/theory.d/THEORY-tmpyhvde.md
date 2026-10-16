@@ -21,6 +21,8 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-452
+rivals:
+- THEORY-060
 answers:
 - QUESTION-043
 summary: >-
@@ -114,7 +116,7 @@ already a narrative. The cases for each combination show they do not.
   identity takes". That is the psychological Narrativity thesis in
   developmental form, and the two cannot both hold in general. [THEORY-060](THEORY-060.md)
   calls universality its weakest point and cites this paper against it.
-  The rivalry is not declared in this filing.
+  The two are rivals.
 - **Dennett** ([THEORY-tmpyw2hy](THEORY-tmpyw2hy.md)) is this paper's main example of the
   psychological thesis. **Gallagher** ([THEORY-tmp7ez72](THEORY-tmp7ez72.md)), as [NOTE-377](../notes.d/NOTE-377.md)
   reports, builds self-deception into the narrative self by design, which is

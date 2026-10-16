@@ -22,6 +22,8 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-156
+presupposes:
+- THEORY-138
 answers:
 - QUESTION-033
 summary: >-
@@ -36,6 +38,7 @@ summary: >-
   organisms and environments affect each other, is granted as
   unobjectionable.
 ---
+<!-- inactive-ok-file: THEORY-tmp5nujr — Proposed; the unrolled model named under what this account does not say, not leaned on -->
 <!-- inactive-ok-file: THEORY-048 THEORY-058 THEORY-133 — Proposed; accounts that cite this paper or answer the same interlevel question, named as neighbours, not leaned on -->
 
 # THEORY-tmpqeezl: Natural selection cannot be both a cause and an effect of a process such as niche construction: if selection is an emergent population-level process, niche construction partly composes it, and a whole and its parts are not independently fixable and so not causally related; if selection is not emergent, it is either no cause at all or incoherently individual-level. Niche construction can still cause the product of selection
@@ -105,7 +108,9 @@ setting the other. The argument is that composition rules this out.
 - **That a diachronic loop is excluded.** Niche construction at one time may
   change selection at a later one, which changes its frequency later still.
   The reply that the diachronic arrow reaches only the product is asserted,
-  and an unrolled model could press it.
+  and an unrolled model could press it. Baedke and colleagues' unrolled
+  organism–environment model ([THEORY-tmp5nujr](THEORY-tmp5nujr.md)) is of that kind, but it does
+  not make selection a relatum.
 - **That it targets Baedke et al.** [LIT-110](../literature.d/LIT-110.md) is cited twice in passing, and its
   organism–environment model falls under the weak sense ([NOTE-137](../notes.d/NOTE-137.md)).
 
@@ -115,11 +120,15 @@ setting the other. The argument is that composition rules this out.
   levels: a level and the parts that compose it at the same time cannot be one
   another's causes, because they are not independently fixable. A part can
   make a difference to a later product of the whole.
-- **Interventions and proportionality.** The independent-fixability condition
-  is Woodward's, the account the record holds as [THEORY-138](THEORY-138.md). List and
-  Menzies's proportional causation ([THEORY-133](THEORY-133.md)) is another answer to when a
-  higher level is a cause. Neither is linked here as presupposed, so this
-  filing leaves those documents unedited.
+- **Interventions and proportionality.** The paper takes causation to be
+  Woodward's interventionism, the account the record holds as [THEORY-138](THEORY-138.md),
+  and this account presupposes it: the step from composition to "not causally
+  related" runs through the interventionist requirement, which the paper
+  takes from Woodward, that cause and effect be independently fixable.
+  [THEORY-138](THEORY-138.md) states the definition (M1–M4) and not that requirement in
+  so many words. List and Menzies's proportional
+  causation ([THEORY-133](THEORY-133.md)) is another answer to when a higher level is a
+  cause; it is not a premise here.
 - **Psychopathology.** [THEORY-048](THEORY-048.md) and [THEORY-058](THEORY-058.md) already cite this paper in
   their text, for the same composition-versus-causation point.
 - **Emergence in physics and in information measures.** [NOTE-137](../notes.d/NOTE-137.md) reads the

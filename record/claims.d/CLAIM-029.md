@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp98mw2
 title: 'A language model''s response to a context is functionally a parameterized pragmatic frame'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounded also on THEORY-tmpb08ha, which states the role-play account of
+    LIT-460 (a prompt selects a character from a superposition, and each
+    reply narrows it). LIT-460 is kept, because that THEORY's thesis is
+    about what an agent's "I" refers to, and the claim leans on the
+    role-play framing, not on that thesis.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -20,6 +29,7 @@ uses:
 - TERM-025
 grounds:
 - LIT-460
+- THEORY-tmpb08ha
 summary: >-
   The owner at U17, offered as a motivating example "maybe even just for
   notational purposes". The assistant made it the primary formal example
@@ -29,6 +39,8 @@ summary: >-
 supports:
 - ARG-008
 ---
+<!-- inactive-ok-file: CLAIM-050 — Proposed; named as the claim A3's prompt-equivalence applies, cited as open -->
+<!-- inactive-ok-file: THEORY-tmpb08ha — Proposed; the role-play framing's statement, a ground of this Proposed claim, cited as open -->
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-251 — Proposed; filed today, cited as a qualification of the defeater, not leaned on -->
 
@@ -79,6 +91,8 @@ definitions", and the notation P_θ(y | c, u) is gone from the manuscript.
 Shanahan, McDonell and Reynolds's role play ([LIT-460](../literature.d/LIT-460.md), read in [NOTE-370](../notes.d/NOTE-370.md))
 states this idea most clearly before the manuscript. The prompt selects a
 role from a superposition of characters, and each reply narrows the set.
+[THEORY-tmpb08ha](../theory.d/THEORY-tmpb08ha.md) states that framing as part of its account of what a chat
+agent's "I" refers to.
 
 ## Note of 2026-10-15: three observations the defeater runs together
 

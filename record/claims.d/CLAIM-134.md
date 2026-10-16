@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp4xhdn
 title: 'A non-eliminative structural realism that keeps relata but denies them any intrinsic identity-fixing feature is the position Chakravartty''s dilemma targets, and granting numerical plurality without relational differentiation, as A194 and A198 do, concedes a non-relational ground of identity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    The census sentence follows THEORY-034's corrected title: its dilemma
+    reaches two of the record's readings, Floridi's and Esfeld and Lam's
+    (LIT-895, THEORY-tmp6p1ed), not Floridi's only.
 role: counter
 warrant: interpretive
 tags:
@@ -28,6 +35,7 @@ summary: >-
   exchange's examples avoid. The owner's character move answers the
   dilemma for kinds and not for identity.
 ---
+<!-- inactive-ok-file: THEORY-tmp6p1ed — Proposed; the second position THEORY-034's census finds, cited as open -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the held dilemma this objection applies, not as sound -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-137 — Proposed; the owner's theses this objection presses, both open -->
 
@@ -44,8 +52,10 @@ of identity" (p. 200). An object with no intrinsic features "is not an object
 at all" (p. 197), so a view that strips every intrinsic feature away is
 eliminativism under another name. [THEORY-034](../theory.d/THEORY-034.md) reads the dilemma as well aimed
 only at structural realisms that keep relata but deny them every intrinsic
-identity-fixing feature, and finds only Floridi's among the record's readings.
-The owner's thesis would be the second.
+identity-fixing feature, and finds two among the record's readings:
+Floridi's, and Esfeld and Lam's moderate structural realism ([THEORY-tmp6p1ed](../theory.d/THEORY-tmp6p1ed.md)),
+which grants primitive numerical diversity much as A194 and A198 grant
+plurality. The owner's thesis would be the third.
 
 The exchange placed the thesis next to the very view the dilemma names.
 A194: "close to the non-eliminative OSR developed by Esfeld and Lam"

@@ -33,6 +33,8 @@ summary: >-
   It does not say that there is "no-one at home" or that no candidate is a
   self, which the papers assert without a criterion, and its subject is a
   2024-vintage chat agent without tools or memory across conversations.
+supports:
+- CLAIM-029
 ---
 <!-- inactive-ok-file: THEORY-tmp60gbs THEORY-tmp9v34q THEORY-tmpv3v56 THEORY-tmpyw2hy — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-173 CLAIM-029 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -135,7 +137,7 @@ behaves so is untested.
   intuitions about integrity fail, not to decide what matters.
 - **The record's own claim.** [CLAIM-029](../claims.d/CLAIM-029.md) holds that a language model's
   response to a context is functionally a parameterized pragmatic frame,
-  and grounds directly on [LIT-460](../literature.d/LIT-460.md), a reading cited without a THEORY until
-  this one.
+  and grounds on [LIT-460](../literature.d/LIT-460.md) and on this account, for the role-play
+  framing stated above.
 - **[THEORY-173](THEORY-173.md)** treats large models as a cultural technology rather than
   agents and calls the simulator account compatible from the other side.

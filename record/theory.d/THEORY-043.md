@@ -22,7 +22,7 @@ promote_when: >-
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-02'
@@ -46,6 +46,15 @@ history:
     for thin, functionalist agency, and how organisational minimal agency
     (THEORY-071) and Korsgaard's normative constitution of agency
     (THEORY-065) bear on it from two sides.
+- version: 5
+  date: '2026-10-16'
+  note: >-
+    Levin (LIT-439) added to the source: he is one of the three readings
+    the account's agreement on agency rests on, beside Block and List,
+    which were already listed. The THEORYs now filed for Levin
+    (THEORY-tmpmblxg), Ritchie (THEORY-tmpinjtf) and Epstein's survey
+    (THEORY-tmpavyju) are named in Connections. Ritchie and Epstein stay
+    out of the source, since they only constrain a criterion.
 tags:
 - consciousness
 - mereology
@@ -60,6 +69,7 @@ source:
 - LIT-401
 - LIT-409
 - LIT-445
+- LIT-439
 summary: >-
   Minsky's society of mind builds a mind downward, out of agents that are
   not minds. Schwitzgebel ([LIT-159](../literature.d/LIT-159.md)) builds a candidate mind upward, out of
@@ -77,6 +87,8 @@ summary: >-
 answers:
 - QUESTION-046
 ---
+<!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
 <!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
 <!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
@@ -99,6 +111,9 @@ answers:
   anti-nesting principle.
 - Oizumi, Albantakis & Tononi (2014), [LIT-445](../literature.d/LIT-445.md), read in [NOTE-365](../notes.d/NOTE-365.md):
   the exclusion postulate in formal statement.
+- Levin (2019), [LIT-439](../literature.d/LIT-439.md), read in [NOTE-341](../notes.d/NOTE-341.md): nested goal-pursuing
+  collectives, one of the three readings that grant agency under
+  composition. His account is stated in [THEORY-tmpmblxg](THEORY-tmpmblxg.md).
 
 ## The two directions
 
@@ -324,6 +339,10 @@ needed.
     architectural criterion computed over the members alone is computed
     over too small a system. This adds a constraint on any criterion that
     would meet `promote_when`; it does not change what would.
+  - Both readings are now stated as accounts: Ritchie's in [THEORY-tmpinjtf](THEORY-tmpinjtf.md)
+    (coincident groups and groups as realized structures), and the
+    survey's grounding/anchoring split in [THEORY-tmpavyju](THEORY-tmpavyju.md). Neither is a
+    premise here.
 - **The agreement on agency is about thin agency.** That agency survives
   composition holds for thin, functionalist agency, and two accounts bear
   on it from opposite sides: organisational minimal agency
@@ -335,6 +354,10 @@ needed.
   individuals, but because a group can achieve the unity of agency by
   conformity to its constitutive norms, a reason that does not turn on
   architecture and says nothing about experience.
+- **Levin's account of nested agents** ([THEORY-tmpmblxg](THEORY-tmpmblxg.md)) states the
+  composition-side view of agency this account cites from [LIT-439](../literature.d/LIT-439.md). It is
+  the cheap end of the scale [THEORY-071](THEORY-071.md) makes dear: on it any homeostat is
+  a Self.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).

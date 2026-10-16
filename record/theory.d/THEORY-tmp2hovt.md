@@ -31,6 +31,7 @@ summary: >-
   inheritance at the new level evolves "in tandem", is hedged and in
   tension with §2.
 ---
+<!-- inactive-ok-file: THEORY-tmpmblxg — Proposed; a neighbouring account of goal-sharing wholes, named for contrast -->
 <!-- inactive-ok-file: THEORY-071 THEORY-232 — Proposed; named as accounts that start from an individual already given, not leaned on -->
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full; the sketch this account states, filed as Proposed for the same reason -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed: read in full and unproven; named as rival emphases on individuality, not leaned on -->
@@ -114,6 +115,17 @@ why the account is Proposed.
 - [QUESTION-093](../questions.d/QUESTION-093.md) asks whether organizational closure is needed before a
   coalition is a higher-level agent. This account makes closure the mark of
   a new *individual*, not of an agent, so it does not answer that either.
+- Levin's nested agents ([THEORY-tmpmblxg](THEORY-tmpmblxg.md)) also put a shared goal at the
+  centre of a higher-level whole, but for Levin any set of parts that
+  pursue a goal together is already a larger agent. This sketch asks
+  more: collaboration rather than coordination, entrenchment and closure,
+  and what it yields is an individual, not an agent.
+- [QUESTION-118](../questions.d/QUESTION-118.md) asks what must be transmitted for a collective to persist
+  through the replacement of all its members. This sketch's claim that
+  such a community is reproduced only by exporting an organized sample of
+  its roles and interactions bears on it, though it concerns reproduction,
+  not persistence, and gives no criterion separating continuation from
+  reconstitution.
 - [THEORY-071](THEORY-071.md) makes individuality a necessary but insufficient condition of
   minimal agency; [THEORY-232](THEORY-232.md) compares a whole's agency with its parts'.
   Both start where this account ends, from an individual already given.

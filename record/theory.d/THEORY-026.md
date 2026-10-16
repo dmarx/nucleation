@@ -15,7 +15,16 @@ promote_when: >-
   refute it. Results on systems with feedback (LIT-041) bear on the scope
   of the claim, not on its truth.
 title: 'For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Connections names the stochastic-thermodynamics review LIT-523 (read in
+    NOTE-420) as the framework in which the protocol-level nonnegativity of
+    this account's dissipation is a reported result, and the
+    fluctuation-theorem account THEORY-tmp3uu1d as background. Neither is a
+    source, as NOTE-420 recommends.
 tags:
 - information-theory
 - thermodynamics
@@ -35,6 +44,7 @@ summary: >-
   ensemble average, not a per-operation floor. It needs a Markov drive to be
   nonnegative, and the prediction-is-necessary slogan fails under feedback.
 ---
+<!-- inactive-ok-file: THEORY-030 — Proposed; the Landauer account, named in Connections, not leaned on -->
 
 # THEORY-026: For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
 
@@ -63,3 +73,12 @@ Read together, the two papers bound the claim. Predictive memory is what thermod
 
 - [LIT-338](../literature.d/LIT-338.md) (IB) is the ancestor, through Still 2009, of the "maximise predictive power at fixed memory" objective that [LIT-327](../literature.d/LIT-327.md)'s Discussion recommends.
 - [LIT-308](../literature.d/LIT-308.md) bounds information *acquired* by entropy production, and [LIT-327](../literature.d/LIT-327.md) bounds information *kept but useless* by dissipation. The Landauer term they share is the subject of [THEORY-030](THEORY-030.md).
+- [LIT-523](../literature.d/LIT-523.md) (Seifert's review, read in [NOTE-420](../notes.d/NOTE-420.md)) is the framework, not a
+  source. For one protocol started in equilibrium, [LIT-327](../literature.d/LIT-327.md)'s dissipation
+  equals ⟨W⟩ − ΔF − k_BT·D_KL(p_τ‖p_eq), and the review's Eq. 150 says that
+  is nonnegative. That is a protocol total for continuous Langevin
+  dynamics; it does not settle the sign of the per-step nostalgia this
+  account's `promote_when` asks about.
+- [THEORY-tmp3uu1d](THEORY-tmp3uu1d.md) (Crooks and Jarzynski's fluctuation theorems) is the
+  trajectory-level background. This account rests on an average-level
+  identity for a discrete Markov chain and uses no fluctuation theorem.

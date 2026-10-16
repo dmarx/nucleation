@@ -27,6 +27,7 @@ summary: >-
   stop probing, is handed to context, and the four grades of warrant are
   admitted to be arbitrary.
 ---
+<!-- inactive-ok-file: THEORY-tmpbjwll THEORY-tmp69w82 — Proposed; neighbouring accounts of trial evidence, named in Connections -->
 <!-- inactive-ok-file: THEORY-tmp5dktv — Proposed; the parallel account of values in inquiry, filed in the same batch -->
 
 # THEORY-tmphbudc: Warrant for a type-level causal claim in biomedical and social science comes from eliminating the relevant alternative accounts of its support, not from the kind of study that produced the data, so a randomised trial earns its standing only by eliminating many alternatives at once
@@ -101,7 +102,11 @@ matter for future research" (§7, p. 35).
 - Worrall ([LIT-175](../literature.d/LIT-175.md)) reaches an overlapping conclusion from inside the
   randomised-trial debate: telling evidence tells against plausible rivals,
   and randomisation has no special standing beyond that ([NOTE-197](../notes.d/NOTE-197.md),
-  Connections).
+  Connections). His account is [THEORY-tmpbjwll](THEORY-tmpbjwll.md).
+- Cartwright's account of singular causal claims ([THEORY-tmp69w82](THEORY-tmp69w82.md)) is the
+  population-to-setting step this account leaves aside: a well-run trial
+  secures at most its study population's average effect, and warrant for
+  another setting needs evidence on the causal process there.
 - The value-laden rejection of alternatives is the indirect role of values
   that Douglas argues for ([LIT-139](../literature.d/LIT-139.md); [THEORY-tmp5dktv](THEORY-tmp5dktv.md)). Reiss does not cite her.
   Whether "values lower the bar" licenses the direct role she forbids is open.

@@ -33,6 +33,7 @@ summary: >-
   rules-in-equilibrium account is its rival on what a constitutive rule
   adds.
 ---
+<!-- inactive-ok-file: THEORY-tmpc6rib — Proposed; Tomasello's account, named beside his book, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmp22bpm — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-tmpavyju — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named to say why no answers edge is filed -->
@@ -121,7 +122,7 @@ failed for corporations and ledger money.
 - **Epstein's survey** ([LIT-487](../literature.d/LIT-487.md), [THEORY-tmpavyju](THEORY-tmpavyju.md)) reports collective
   acceptance as one theory of anchoring and "X counts as Y in C" as a frame
   principle of one narrow form.
-- **Tomasello** ([LIT-125](../literature.d/LIT-125.md), [NOTE-185](../notes.d/NOTE-185.md)) locates the first felt obligation in
+- **Tomasello** ([LIT-125](../literature.d/LIT-125.md), [NOTE-185](../notes.d/NOTE-185.md); [THEORY-tmpc6rib](THEORY-tmpc6rib.md)) locates the first felt obligation in
   children's joint commitments from about age three. That is the empirical
   side of the human/animal line Searle draws by analysis, but Searle's
   collective intentionality includes hunting wolves and Tomasello's shared

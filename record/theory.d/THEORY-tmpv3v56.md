@@ -32,6 +32,7 @@ summary: >-
   of personal identity, and its positive answer to the synchronic question,
   the three-membranes model, is "somewhat figurative" by its author's word.
 ---
+<!-- inactive-ok-file: THEORY-tmp6p1ed — Proposed; named in THEORY-034's corrected census, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmp60gbs THEORY-tmpb08ha THEORY-tmpgxi0r THEORY-tmpidotl THEORY-tmpyf0hd — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; named as a parallel the reading draws, not leaned on -->
@@ -122,7 +123,13 @@ all ones where it does not, which is why they cannot test it.
   coarse-graining accounts ([LIT-005](../literature.d/LIT-005.md), [LIT-049](../literature.d/LIT-049.md)) are formal versions of the
   idea that mutual information marks off an individual, which the cognitive
   membrane asserts informally.
-- **[THEORY-034](THEORY-034.md)** finds that among the record's structural realisms only
-  Floridi's informational structural realism is of the kind Chakravartty's
-  dilemma reaches. That is the ontology this paper assumes for its closing
-  claim.
+- **[THEORY-034](THEORY-034.md)** finds that among the record's structural realisms two
+  are of the kind Chakravartty's dilemma reaches: Floridi's informational
+  structural realism, which is the ontology this paper assumes for its
+  closing claim, and Esfeld and Lam's moderate structural realism
+  ([THEORY-tmp6p1ed](THEORY-tmp6p1ed.md)).
+- **[QUESTION-043](../questions.d/QUESTION-043.md)** asks what coherence measure is conserved along a
+  person's trajectory when the person persists as the same self. On this
+  account that question has an answer only once a level of abstraction is
+  fixed by the purpose of asking, so an answer to it would have to say
+  which purpose its measure serves.

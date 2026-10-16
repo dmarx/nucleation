@@ -38,6 +38,8 @@ summary: >-
   is left "(whatever that is)".
 presupposed_by:
 - THEORY-tmp8fvw1
+supports:
+- CLAIM-287
 ---
 <!-- inactive-ok-file: THEORY-tmp8fvw1 THEORY-tmp9v34q THEORY-tmpgxi0r THEORY-tmpidotl — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 CLAIM-287 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
@@ -147,8 +149,8 @@ argument uses.
   division without reunion.
 - **The record's own claim.** [CLAIM-287](../claims.d/CLAIM-287.md) holds that organizational continuity
   "can branch and merge, so it is not an identity relation". That is this
-  account's inference made for selves that persist through inactivity. The
-  claim does not ground on it.
+  account's inference made for selves that persist through inactivity, and
+  the claim grounds on it.
 - **AI consciousness.** [THEORY-023](THEORY-023.md) draws on Birch's Challenge One, which
   argues from Parfit's later Relation R that a chatbot character has no
   persisting bearer. This paper is where the relations and their branching

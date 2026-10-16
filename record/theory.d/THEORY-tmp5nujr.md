@@ -29,6 +29,7 @@ summary: >-
   stronger than the argument, which shows only that the model can draw one
   usefully.
 ---
+<!-- inactive-ok-file: THEORY-tmpqeezl — Proposed; Hazelwood's account, named in Connections -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; named for a parallel, nothing here rests on it -->
 
 # THEORY-tmp5nujr: Organism–environment reciprocal causation, taken diachronically, unrolls into an acyclic sequence of organism, environment and experienced-environment states joined by interventionist arrows; on that representation each niche-construction type has a characteristic causal pattern, and multi-species cases come apart only if organism and environment are kept distinct
@@ -98,7 +99,7 @@ not look for such cases systematically.
 
 ## Connections
 
-- Hazelwood ([LIT-156](../literature.d/LIT-156.md)) calls organism–environment reciprocal causation
+- Hazelwood ([LIT-156](../literature.d/LIT-156.md), [THEORY-tmpqeezl](THEORY-tmpqeezl.md)) calls organism–environment reciprocal causation
   "unobjectionable" and targets selection-involving reciprocity. Read
   together, the two papers suggest a division: organism–environment
   reciprocity, unrolled, is tractable; the metaphysical trouble lies where

@@ -19,7 +19,15 @@ promote_when: >-
   that kind of attitude. More cases of the discursive dilemma in courts or
   committees cannot settle either part.
 title: "A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Connections names the authors' replies in the Episteme symposium
+    (LIT-730, read in NOTE-582), now stated as THEORY-tmphb1dj: they add,
+    on the authors' word, that relaxing the conditions leaves
+    proposition-wise rules extremely limited. promote_when is unchanged.
 tags:
 - social-ontology
 - agency
@@ -51,6 +59,7 @@ supports:
 - CLAIM-192
 - CLAIM-271
 ---
+<!-- inactive-ok-file: THEORY-tmphb1dj — Proposed; the authors' replies, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->
 <!-- inactive-ok-file: LIT-707 — Deferred, no lawful full text; Wimsatt on aggregativity, named for a conjecture kept out of the claim -->
 <!-- inactive-ok-file: THEORY-125 — Proposed; filed in the same batch, Huebner's genuinely collective emotion, named for the parallel, no relation declared -->
@@ -177,6 +186,16 @@ any member's nor commonly known (§5).
 
 ## Connections
 
+- **The authors' replies ([LIT-730](../literature.d/LIT-730.md), [NOTE-582](../notes.d/NOTE-582.md); [THEORY-tmphb1dj](THEORY-tmphb1dj.md)).** List and
+  Pettit say that weakening universal domain or completeness complicates
+  the formal arguments, but that rules meeting proposition-wise
+  supervenience stay "extremely limited" and exclude "some of the most
+  natural methods of aggregation" (p. 4). That supports this account beyond
+  the strict conditions its title states, on the authors' word and not by
+  proof, so `promote_when` is unchanged. The replies also confirm that the
+  premise-based procedure is one illustration, not a recommendation.
+  [THEORY-tmphb1dj](THEORY-tmphb1dj.md), their account of group attitudes as real and
+  non-redundant, is compatible with this supervenience.
 - **Genuinely collective emotion.** Huebner's test for a group's own
   emotion, a state "that could not be exhaustively characterized in terms
   of intentional states of individuals in aggregation", is the informal

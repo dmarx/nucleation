@@ -20,6 +20,7 @@ summary: >-
   or rare group splitting. Every mechanism is modelled with the donation
   game, so mutualism, coordination and conflict are outside it.
 ---
+<!-- inactive-ok-file: THEORY-tmpwdh1f — Proposed; Hamilton's generalization, named beside the threshold this account restates -->
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for listing this review as incomplete -->
 <!-- inactive-ok-file: LIT-495 — Unavailable: Alexander 1987, The Biology of Moral Systems; cited as the source of the review's one sentence on morality -->
@@ -82,7 +83,8 @@ reduction to a single threshold. None of the five does.
 
 ## Connections
 
-- It extends Hamilton's threshold ([THEORY-tmp15rjw](THEORY-tmp15rjw.md)), restated as r > c/b,
+- It extends Hamilton's threshold ([THEORY-tmp15rjw](THEORY-tmp15rjw.md); its generalization in
+  Hamilton's Part II is [THEORY-tmpwdh1f](THEORY-tmpwdh1f.md)), restated as r > c/b,
   and Axelrod & Hamilton's stability condition ([THEORY-tmpxorvn](THEORY-tmpxorvn.md)),
   specialized to the donation game as w > c/b.
 - Network reciprocity and group selection are routes to altruism. They do

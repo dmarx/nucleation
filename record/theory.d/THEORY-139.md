@@ -12,7 +12,7 @@ promote_when: >-
   changes corporate conduct in the way a regulative practice should. A
   philosophical consensus for or against would not settle either.
 title: 'A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members'' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -20,6 +20,13 @@ history:
     `extends: THEORY-127` re-filed as `presupposes: THEORY-127` (ADR-029).
     This account takes List and Pettit's aggregation result as a premise
     for a claim about responsibility; it does not refine that mechanism.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Connections names List and Pettit's replies in the Episteme symposium
+    (LIT-730, read in NOTE-582), now stated as THEORY-tmphb1dj, for the
+    book's verdict on group responsibility and the three things it adds
+    that this account does not yet say.
 tags:
 - social-ontology
 - agency
@@ -44,6 +51,7 @@ supports:
 - CLAIM-030
 - CLAIM-271
 ---
+<!-- inactive-ok-file: THEORY-tmphb1dj THEORY-133 — Proposed; the authors' replies and the realization-insensitivity account, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: LIT-742 — Deferred, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->
 
@@ -99,6 +107,14 @@ judgments, it can give itself those means, so the excuse expires.
   premise for a corporation having a mind of its own, and argues from there
   to responsibility. If that result fell, the argument would need another
   route to corporate agency ([ADR-029](../decisions.d/ADR-029.md)).
+- **List and Pettit's replies ([LIT-730](../literature.d/LIT-730.md), [NOTE-582](../notes.d/NOTE-582.md); [THEORY-tmphb1dj](THEORY-tmphb1dj.md)).** They
+  give the book's verdict (GA 182, quoted p. 16): group agents are fit to be
+  held responsible "in their own right". They add three things this
+  account does not yet say. Fitness is assigned "only in the domain where
+  it is equipped to form and act on attitudes" (p. 16). The book does not
+  address the range of a group's responsibilities (p. 15). And the control
+  objection has two answers, programme explanation in the book and List
+  and Menzies' realization-insensitivity, in Briggs's proposal ([THEORY-133](THEORY-133.md)).
 - **Wolf's normative competence.** Condition (2), a position to judge
   options normatively, is what the record's Reason View theories ask of an
   individual. Pettit attributes it to a corporation; Wolf's own texts do
