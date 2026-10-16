@@ -350,3 +350,119 @@ of 2026-10-16. Earlier mentions are all in readings (NOTE-169, 421, 434,
   - cite NOTE-497 for Owen;
   - add that visceromotor contingency survives LIS (NOTE-434, QUESTION-059);
   - add CLAIM-287's dormancy reading of CLIS.
+
+## Second pass, after merging main (56 commits, 2026-10-16)
+
+Main's new content is a THEORY backfill: 299 new THEORY documents from
+readings already held, and edits that ground existing claims on them. No
+new claims, questions, terms or notes. None of the entries the notes above
+rely on changed in substance. CLAIM-127 now grounds on Pearl (below),
+CLAIM-041 on Aerts & Gabora's THEORY, and NOTE-485's summary was corrected
+("never" for 2–3 concepts). No new THEORY from NOTE-121, 434, 450, 497,
+729, 766 or 878.
+
+### New THEORYs that bear on the thesis (summaries read, codes temporary)
+
+- **THEORY-tmpddd8b** (Damasio, somatic markers; NOTE-332). **The best new
+  support.** Body states are re-enacted when an option is *imagined*, and
+  mark it "overtly as a feeling or covertly as a bias". NOTE-332:111 and
+  :180 (C6): the "as if body loop" "has largely superseded the body loop
+  in adults". That is asserted, "I believe", with no evidence. Still, it
+  is an established account in which an internal simulation stands in for
+  the action loop. **For CASE-tmpxgcq2:** the as-if loop is what would keep
+  judgement working in locked-in syndrome. It needs no movement, only the
+  body maps.
+- **THEORY-tmpns74h** (Ivy & Mroczko-Wąsowicz, perceptual frames; NOTE-150).
+  Perceptual learning installs frames that change which objects are
+  individuated from the same input. So "cognition can shape the perceptual
+  system over time while leaving open whether any single percept is
+  cognitively penetrated". **A third reading of "judgement generates
+  observation": diachronic.** Judgement need not produce each observation.
+  It reshapes the observer that produces later ones. This matches
+  CLAIM-297's "→ future retrieval policy" exactly, and it escapes
+  THEORY-010's single-system problem, since it does not need
+  contextuality. The paper "shows different weightings, not different
+  objects", per the summary.
+- **THEORY-tmp6rcgc** (Block, *The Border*; NOTE-498): percepts are used
+  only inside a "cognitive envelope", where working memory holds
+  "recoded, task-dependent abstractions rather than the percepts
+  themselves". The *observation* the judgement loop runs on is already a
+  task-dependent recoding. That supports the loop as internal.
+- **THEORY-tmp2k3a9** (Pearl; NOTE-696, skimmed): intervention as surgery,
+  observation as conditioning, and models that agree on every
+  observational distribution can disagree on interventions. **This is the
+  vocabulary for the precise complaint:** active inference conditions on
+  observations; the thesis says a judgement intervenes in the interpreter.
+  It is also why the complaint can't be settled from response data alone
+  (compare CLAIM-253 / CLAIM-046). CLAIM-127 now grounds on it.
+- **THEORY-tmpyncg4** (Fong & Spivak, generative effects; NOTE-601,
+  skimmed). An observation Φ has a *generative effect* when Φ(a) ∨ Φ(b) <
+  Φ(a ∨ b). Out of a preorder with all joins, the observations without one
+  are exactly the left adjoints. **A possible formal handle on "measurement
+  that generates interpretations"**, distinct from contextuality: a
+  judgement generates when it is not join-preserving. Speculative. Not
+  checked whether it fits the record's empirical models.
+- **THEORY-tmpjwpuk** (Dzhafarov & Kujala; NOTE-623, read in full):
+  representing a measurement by one random variable in every context
+  already puts everything on one probability space. CbD's default, a new
+  variable per context, builds "the context enters the outcome" into the
+  representation. **The weak form is CbD's starting point, not a
+  finding.** Only contextuality beyond that is news (compare CLAIM-325).
+- **THEORY-tmpr96be** (Active): the two language-data contextuality tests
+  the record has read put the contextuality in by design or don't secure
+  it, and "neither uses human judgements". Strengthens CLAIM-325: no
+  behavioural contextuality in the record.
+- **THEORY-tmpx1so9** (Brouillet & Friston) and **THEORY-tmpk6k4p** (Smith
+  et al., structure learning). THEORY forms of NOTE-785 and NOTE-485, so
+  cite these rather than the notes. THEORY-tmpk6k4p: "no machinery beyond
+  inference and learning", a model that grows its own structure without
+  action.
+- **THEORY-tmp38ky3** (Sophisticated Inference): the THEORY form of LIT-577.
+- **THEORY-tmpgjsxj** (Kenton et al., discovering agents): **a rival
+  definition.** Agents are "the systems that would adapt their policy were
+  their actions to affect the world differently". Agency is defined by
+  action counterfactuals, so a locked-in person who judges but cannot act
+  has no policy whose effects could differ. On this definition the agent
+  would be wherever the adaptation is.
+- **THEORY-tmprt7jm** (Di Paolo, adaptivity; NOTE-719): a graded norm "the
+  system itself has" needs adaptivity, "to detect tendencies toward the
+  boundary of its viability and to act so as to reverse them". The
+  enactive answer to the anchor question is action again. The rival to
+  cite in CLAIM-tmpki5gp.
+- **THEORY-tmpmblxg** (Levin): an agent is "bounded by the farthest events
+  it can sense and try to regulate". Action-bounded selfhood.
+- **THEORY-tmpltl13** (Chalmers, the meta-problem): "Our judgments that
+  consciousness poses a hard problem are behaviour". **A sharp form of
+  CLAIM-tmp9cjyo:** if judgements are behaviour, then cutting action and
+  keeping judgement relabels the action rather than removing it. The
+  thesis needs to say in what sense a judgement is *not* an action. The
+  candidate answer: it acts on the judge's own state (canvas), not on the
+  world.
+- **THEORY-tmpegs18** (Chalmers on the extended mind): the perception–action
+  boundary is the strongest objection to constitution by external
+  entities. Indirectly relevant: the thesis draws the loop's boundary
+  inside that perception–action boundary.
+- **THEORY-tmpy7zr4** (Gross, emotion regulation): attentional deployment
+  and cognitive change (reappraisal) as regulation without action on the
+  world. Will-organization operations of the CLAIM-156 kind.
+
+### What the second pass changes
+
+1. **The diachronic reading (THEORY-tmpns74h + CLAIM-297) may be the
+   thesis's best form.** Judgement reshapes the observer, so later
+   observations are generated by earlier judgements. It needs no
+   contextuality, and THEORY-010 does not touch it. Its defeater is
+   empirical: perceptual learning that changes what is individuated, on a
+   schedule driven by judgement and not by action. It still faces
+   CLAIM-tmp9cjyo, since structure learning in active inference
+   (THEORY-tmpk6k4p) does the same inside one generative model, but now
+   with a *learned* likelihood. So defeater (a)'s "fixed likelihood" is
+   wrong as stated: active inference does not keep its likelihood fixed.
+   **Fix defeater (a).**
+2. **For the locked-in case:** Damasio's as-if body loop is the
+   mechanism to name.
+3. **Two new rivals to engage:** agency defined by action counterfactuals
+   (THEORY-tmpgjsxj) and judgements as behaviour (THEORY-tmpltl13). The
+   second is the stronger: it says "cut action out" cannot be done while
+   judgement remains.
+4. **Cite THEORYs, not notes,** for Brouillet & Friston and Smith et al.
