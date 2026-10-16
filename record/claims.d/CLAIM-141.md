@@ -34,6 +34,8 @@ summary: >-
   contextual support tables, which the record holds and has read
   ([NOTE-251](../notes.d/NOTE-251.md)). A173 and A178 kept the three kinds of global consistency
   apart; A218 Ch10.9 keeps the feedback case.
+supports:
+- CLAIM-tmpt568z
 ---
 <!-- inactive-ok-file: LIT-892 — Unavailable; registered unread, cited only for its fixed-point condition -->
 <!-- inactive-ok-file: ARG-010 — Rejected; cited as the inference this claim undercuts -->

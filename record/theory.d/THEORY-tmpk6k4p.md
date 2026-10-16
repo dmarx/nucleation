@@ -30,6 +30,8 @@ summary: >-
   given. Table 1 is the record's only measurement of how often reduction
   picks the generating structure when the parent model was itself
   learned. One initialisation; eight concepts, six binary features.
+supports:
+- CLAIM-tmp9cjyo
 ---
 <!-- inactive-ok-file: THEORY-079 — Proposed; named as a caution about model reduction, not leaned on -->
 

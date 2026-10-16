@@ -31,6 +31,8 @@ summary: >-
   "bottom-up" means once priors sit in early processing, calls a frame "a
   specific top-down prediction" in §3.iii, and shows different weightings,
   not different objects.
+supports:
+- CLAIM-tmpq9do8
 ---
 <!-- inactive-ok-file: LIT-190 THEORY-tmpgshxz — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 

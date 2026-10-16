@@ -36,6 +36,7 @@ summary: >-
   sentence. Proposed.
 supports:
 - CLAIM-288
+- CLAIM-tmpki5gp
 ---
 <!-- inactive-ok-file: THEORY-tmpx8cpz — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-071 THEORY-217 THEORY-220 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->

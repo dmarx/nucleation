@@ -1,36 +1,40 @@
 ---
 status: Proposed
-title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement, a measurement whose context enters the interpretation it yields, and observation; action on the world is not part of it, so active inference''s action–perception cycle misplaces where the agent is active'
+title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference''s action–perception cycle misplaces where the agent is active'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  Either of two results. (a) Judgement data in which, once direct context
-  effects are accounted for, every measurement context's outcomes are
-  reproduced by one generative model with a fixed likelihood, the
-  judgement acting only on the precision of observations or on which of
-  them are sampled: the loop is then active inference's own, one Markov
-  blanket inward, and the complaint is about bookkeeping (CLAIM-tmp9cjyo).
-  (b) Lucid judgement shown to fail when every contingency between
-  intention and outcome is removed while consciousness is otherwise
-  preserved, by evidence that does not itself restore such a contingency
-  (CASE-tmpxgcq2). A showing that action matters for building the model,
-  or that agents usually act, does not defeat it.
+  Either of two results. (a) Perceptual or retrieval learning that changes
+  what an agent individuates or can retrieve shown to need contingency
+  between action and outcome: with action and its outcomes held fixed,
+  the agent's own judgements, made without feedback, leave the observer
+  unchanged. (b) Lucid judgement shown to fail when every contingency
+  between intention and outcome is removed while consciousness is
+  otherwise preserved, by evidence that does not itself restore such a
+  contingency (CASE-tmpxgcq2). Not defeated by a redescription of the loop
+  as mental action and structure learning inside one generative model
+  (CLAIM-tmp9cjyo), which concedes that action on the world is not part
+  of it and contests only where the boundary is drawn. Not defeated by a
+  showing that action matters for building the model, or that agents
+  usually act.
 tags:
 - cognition
 - agency
 - probabilistic-modeling
-- contextuality
 date: '2026-10-16'
 line:
 - distributed-agency
 - pragmatic-transport
 - will-organization
 rests_on:
-- CLAIM-009
+- CLAIM-297
 - CLAIM-275
 grounds:
 - LIT-tmp670rc
+- THEORY-tmpns74h
+- THEORY-tmp6rcgc
+- THEORY-tmp2k3a9
 uses:
 - TERM-026
 - TERM-039
@@ -40,20 +44,19 @@ summary: >-
   action can be cut out of the loop, which decomposes into "Judgement (qua
   measurement that generates interpretations) <--> Observation". At U2 the
   owner held that the pragmatic-transport and will-organization models are
-  "both manifestations of the same underlying model", so the claim is
-  filed on both lines and on distributed agency, where that model's
-  operators act on a meaning canvas. The sharp edge: the claim is
-  distinct from active inference only where a judgement produces its
-  observation rather than weighting one, and that part rests on
-  [CLAIM-009](CLAIM-009.md), which the record only supposes.
-illustrated_by:
-- CASE-tmpxgcq2
-objected_by:
-- CLAIM-tmp9cjyo
-- CLAIM-tmpki5gp
+  "both manifestations of the same underlying model". The claim is stated
+  in that model's terms, as [CLAIM-297](CLAIM-297.md)'s circuit, and in the diachronic
+  form A4 proposed and the owner asked to be filed at U5 ("make the
+  revisions"): a judgement need not produce the observation it judges,
+  but it reshapes the observer that produces the next one. The sharp edge: the synchronic form, in which each judgement
+  produces its own outcome, is not claimed. That is the open route of
+  [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md), and the record demoted it once before
+  ([CLAIM-109](CLAIM-109.md)).
+complements:
+- CLAIM-tmpt568z
 ---
 
-# CLAIM-tmpq9do8: The loop that keeps a lucid agent's model in touch with what it models runs between judgement, a measurement whose context enters the interpretation it yields, and observation; action on the world is not part of it, so active inference's action–perception cycle misplaces where the agent is active
+# CLAIM-tmpq9do8: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
 
 ## The claim
 
@@ -62,60 +65,117 @@ but the cybernetic model is wrong. Rather than cycling between `Action <-->
 Perception`, we can cut 'Action' out of the loop completely and constrain
 attention to the internal feedback loop, which decomposes nicely into
 `Judgement (qua measurement that generates interpretations) <-->
-Observation`."
+Observation`, which connects us back to our model and also makes our
+complaint with Friston's formulation precise."
 
-In active inference ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md)), perception infers the causes of
-sensations that arrive fixed at the blanket's sensory states. Action is the
-agent's only influence on what it observes: it samples the data so as to
-minimize the bound. The claim puts the agent's activity earlier. A
-judgement is a measurement. Its context, the elicitation protocol in
-[TERM-039](../terms.d/TERM-039.md)'s sense, enters the outcome. The outcome is the interpretation,
-which is the observation the model updates on. The updated model poses
-the next judgement. Stated in the record's terms, active inference
-conditions on observations, and the claim holds that the measurement
-context intervenes in them ([CLAIM-127](CLAIM-127.md)'s distinction between
-conditioning and intervening).
+The record's model already has this loop. [CLAIM-297](CLAIM-297.md) writes the operator
+model as a circuit, "frame → retrieval → interpretation → endorsement →
+future retrieval policy". It is two coupled processes over a meaning state
+x, operator weights w and queries q:
 
-[CLAIM-275](CLAIM-275.md) already holds the half of this that concerns order: an
-operator can intervene on the meaning canvas before it has the
-interpretation that its intervention makes available. The intervention
-there is on the canvas, not on the world, and this claim generalizes it:
-the loop that matters is the one between such interventions and what they
-make observable.
+- meaning: x_{t+1} = Σᵢ w_{i,t} P_i(q_t)ᵀ x_t;
+- influence: w_{t+1} = G(w_t, x_t, o_t, E_t);
+- queries: q_{t+1} = Q(x_{t+1}, w_{t+1}, g).
 
-What makes the claim more than active inference with the blanket drawn
-further in is the strong reading of "generates". A judgement that only
-changes an interpretive state ([TERM-026](../terms.d/TERM-026.md)) has classical models
-([CLAIM-041](CLAIM-041.md)), and a deep generative model can represent it as a higher
-level acting on a lower one ([CLAIM-tmp9cjyo](CLAIM-tmp9cjyo.md)). The claim differs only if
-there are outcomes that exist relative to a measurement context and no
-single likelihood generates them all. That is the contextuality [CLAIM-009](CLAIM-009.md)
-supposes. So the precise complaint is conditional on it: if pragmatic
-judgements are contextual, no fixed generative model of the kind active
-inference requires can hold them, and the action–perception cycle has no
-place for the step at which the observation is made.
+Read with the owner's terms, the query is the judgement's measurement
+context, the operators applied under it are the judgement, and x is the
+interpretation it yields. The interpretation, through endorsement and the
+next query, fixes what will be retrieved and so what the next judgement
+observes. Nothing in the circuit acts on the world. The world enters only
+as evidence o_t in the update of influence. [CLAIM-275](CLAIM-275.md) holds the half that
+concerns order: an operator can intervene on the meaning canvas before it
+has the interpretation its intervention makes available.
 
-## The world, without action
+"Generates" is read diachronically. A judgement need not produce the
+observation it judges. It changes the observer, which produces the later
+observations. The record holds this for perception: perceptual learning
+can install frames that change which objects a perceiver individuates from
+the same input, so "cognition can shape the perceptual system over time
+while leaving open whether any single percept is cognitively penetrated"
+([THEORY-tmpns74h](../theory.d/THEORY-tmpns74h.md)). And for cognition: percepts are used only inside a
+"cognitive envelope", where working memory holds "recoded, task-dependent
+abstractions rather than the percepts themselves" ([THEORY-tmp6rcgc](../theory.d/THEORY-tmp6rcgc.md)). The
+observation the loop runs on is already a product of earlier judgement.
 
-[CLAIM-tmpki5gp](CLAIM-tmpki5gp.md) objects that, once action is gone, nothing anchors the
-loop. The assistant proposed an answer at A1. It is not yet the
-owner's: the world enters as what fixes the distribution of outcomes for
-each measurement context, and the judgement chooses the context. That is
-an empirical model in the sense the pragmatic-transport line already uses.
-On that reading, action is not removed. It is demoted: it changes which
-measurements are available, and the world's constraint arrives through
-what each measurement can return.
+The complaint against active inference is then precise in Pearl's terms
+([THEORY-tmp2k3a9](../theory.d/THEORY-tmp2k3a9.md)). Active inference treats perception as conditioning on
+observations that arrive at the blanket's sensory states, and places all
+of the agent's influence on what it observes in action, which samples the
+data ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md)). The claim holds that the agent's main influence on
+what it observes is an intervention on itself, the observer, made by
+judging. Action on the world is one further influence. It is not part of
+the loop.
+
+## Judgement is not action
+
+The objection that a judgement is itself behaviour ([THEORY-tmpltl13](../theory.d/THEORY-tmpltl13.md)), and
+so action relabelled ([CLAIM-tmp9cjyo](CLAIM-tmp9cjyo.md)), is answered by where the judgement
+acts. Action, in the active-inference sense, changes external states, which
+then change sensory states. A judgement changes the judge's own state, the
+canvas and the retrieval policy ([TERM-026](../terms.d/TERM-026.md), [CLAIM-275](CLAIM-275.md)). Both are operations.
+What separates them is their target, and the claim is that the loop that
+keeps a model in touch closes through the second.
+
+## What keeps the loop honest
+
+[CLAIM-tmpki5gp](CLAIM-tmpki5gp.md) objects that, without action, the loop confirms itself.
+[CLAIM-tmpt568z](CLAIM-tmpt568z.md) answers from the model: what anchors the loop is evidence
+whose arrival or scoring does not pass through the interpretation it
+tests ([CLAIM-330](CLAIM-330.md), [CLAIM-141](CLAIM-141.md)). Action is one source of such evidence, not a
+necessary one.
+
+## The synchronic form, not claimed
+
+The stronger reading of U1, in which each judgement produces its own
+outcome, is not part of this claim:
+
+- **It is open.** Whether eliciting a judgement changes the interpreter,
+  and not only the response, is the route [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md) leave
+  open, to be settled by sequential designs.
+- **The record demoted it once before.** [CLAIM-109](CLAIM-109.md) said a frame
+  "participates in determining which meaning becomes actual", and it was
+  demoted to [CLAIM-009](CLAIM-009.md) when its argument ([ARG-002](../arguments.d/ARG-002.md)) was undercut by
+  [CLAIM-041](CLAIM-041.md).
+- **Contextuality may not help.** If the synchronic form is to differ from
+  classical state change, it needs contextuality. The weak sense is the
+  starting point of Contextuality-by-Default, not a finding
+  ([THEORY-tmpjwpuk](../theory.d/THEORY-tmpjwpuk.md)). The sheaf sense cannot arise for one system judged
+  context after context ([THEORY-010](../theory.d/THEORY-010.md)). Spekkens's sense can ([QUESTION-067](../questions.d/QUESTION-067.md)).
+  The record holds no behavioural evidence of contextuality proper
+  ([CLAIM-325](CLAIM-325.md), [THEORY-tmpr96be](../theory.d/THEORY-tmpr96be.md)).
 
 ## What it does not say
 
-- It does not say action is idle. Every lucid locked-in patient built
-  their model while acting ([CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md)), and the claim is about the
-  loop that keeps a built model in touch, not the one that built it.
+- It does not say action is idle. Every lucid locked-in patient built their
+  model while acting ([CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md)), and the claim is about the loop that
+  keeps a built model in touch, not the one that built it.
 - It does not reject free-energy minimization. The owner's complaint is
-  with the cybernetic diagram, not the bound.
-- It does not say judgements are quantum measurements. [ARG-002](../arguments.d/ARG-002.md) made
-  that inference and was undercut by [CLAIM-041](CLAIM-041.md).
-- It does not file the owner's U2 statement that the pragmatic-transport
-  and will-organization models are one model. It records the statement as
-  the reason for the claim's lines. Filing it as a claim needs the
-  underlying model stated.
+  with the cybernetic diagram, not with the bound. Three readings already
+  make the complaint that active-inference models assume perception and
+  action rather than deriving them ([NOTE-450](../notes.d/NOTE-450.md), [LIT-598](../literature.d/LIT-598.md), [LIT-615](../literature.d/LIT-615.md)).
+- It does not say judgements are quantum measurements ([ARG-002](../arguments.d/ARG-002.md), [CLAIM-041](CLAIM-041.md)).
+- It does not deny that active inference can redescribe the loop, as
+  mental action on precision together with structure learning, and no
+  action on the world ([CLAIM-tmp9cjyo](CLAIM-tmp9cjyo.md)). That redescription concedes the
+  point about action and keeps the disagreement about the diagram.
+- It does not file the owner's U2 statement that the two lines are one
+  model. It follows that statement in choosing [CLAIM-297](CLAIM-297.md) as the model's
+  statement of the loop.
+
+## Rivals
+
+- **Observation and control as one loop through the environment.** [NOTE-121](../notes.d/NOTE-121.md)
+  defines an observer by feedback closure, "the observer's outputs must
+  alter the environment, which then alters later inputs". The claim denies
+  that condition.
+- **Meaning from action.** Barrett: "meaning does not trigger action, but
+  results from it" ([NOTE-434](../notes.d/NOTE-434.md)). [CLAIM-275](CLAIM-275.md) refuses to fix either order. This
+  claim holds that the order through the world is not the one that keeps
+  the model in touch.
+- **Sense-making from regulation.** Di Paolo: a norm the system itself has
+  needs adaptivity, which detects tendencies toward the viability boundary
+  "and acts so as to reverse them" ([THEORY-tmprt7jm](../theory.d/THEORY-tmprt7jm.md)).
+- **Agency defined by action.** Agents are "the systems that would adapt
+  their policy were their actions to affect the world differently"
+  ([THEORY-tmpgjsxj](../theory.d/THEORY-tmpgjsxj.md)). On that definition a judge that cannot act is not an
+  agent. The claim is about a lucid judge, not about agency.

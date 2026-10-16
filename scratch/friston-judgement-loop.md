@@ -466,3 +466,33 @@ CLAIM-041 on Aerts & Gabora's THEORY, and NOTE-485's summary was corrected
    second is the stronger: it says "cut action out" cannot be done while
    judgement remains.
 4. **Cite THEORYs, not notes,** for Brouillet & Friston and Smith et al.
+
+## Revisions made (owner, U5: "make the revisions")
+
+All made in the commit after this note. Lint is clean.
+
+- CLAIM-tmpq9do8, restated:
+  - in the diachronic form;
+  - rests on CLAIM-297 and CLAIM-275 (CLAIM-009 dropped);
+  - synchronic form set aside, with CLAIM-109, TERM-039/CLAIM-127,
+    THEORY-010, QUESTION-067, CLAIM-325, THEORY-tmpjwpuk and
+    THEORY-tmpr96be;
+  - defeater (a) rewritten (the fixed-likelihood error fixed);
+  - "judgement is not action" section answers THEORY-tmpltl13;
+  - rivals named.
+- CLAIM-tmpt568z (new thesis): the anchor is evidence not routed through
+  the interpretation. Rests on CLAIM-330 and CLAIM-141, grounds on
+  THEORY-285 and THEORY-324, objects to CLAIM-tmpki5gp.
+- CLAIM-tmpki5gp: narrowed, with a "Conceded" section after NOTE-766.
+  Grounds add THEORY-tmprt7jm (Di Paolo) and THEORY-324 (Ashby).
+- CLAIM-tmp9cjyo: adds THEORY-tmpx1so9, THEORY-tmpk6k4p and
+  THEORY-tmpltl13. Concedes the diagram, and notes NOTE-447's point that
+  relocating the blanket is always available.
+- CASE-tmpxgcq2: adds QUESTION-048, THEORY-090 and THEORY-298 (the
+  asymmetry), NOTE-497 (Owen), NOTE-434 / QUESTION-059 / THEORY-tmpddd8b
+  (bodily contingency and the as-if loop) and CLAIM-287 (dormancy).
+- Workbench entry 2026-10-16 21:39 records U3–U5. Changelog fragment
+  updated.
+
+Still open: the gaps listed under thread 4 and in the workbench entry.
+Nothing was registered for them.

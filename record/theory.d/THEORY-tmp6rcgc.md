@@ -28,6 +28,8 @@ summary: >-
   and are task-dependent abstractions (moderate). The rereading of the
   workspace as conceptualisation rather than consciousness is asserted,
   not argued against the consciousness reading.
+supports:
+- CLAIM-tmpq9do8
 ---
 <!-- inactive-ok-file: LIT-636 — Unavailable; Block's book, the unread source of the main thesis's arguments, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-096 THEORY-102 THEORY-103 — Proposed; neighbouring accounts of the workspace and of perceptual consciousness, named in Connections, not leaned on -->

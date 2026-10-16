@@ -32,6 +32,9 @@ summary: >-
   every part is. The Homeostat shows it in a four-unit linear machine.
   The parameter changes are blind, and the account says nothing about how
   long the search takes, which is the subject of [THEORY-307](THEORY-307.md).
+supports:
+- CLAIM-tmpki5gp
+- CLAIM-tmpt568z
 ---
 <!-- inactive-ok-file: THEORY-307 THEORY-217 THEORY-153 — Proposed; the companion account and the accounts that use Ashby's terms, open -->
 
