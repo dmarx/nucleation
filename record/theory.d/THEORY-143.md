@@ -32,6 +32,7 @@ summary: >-
   simulation, and real communities' place in parameter space is unknown.
 extended_by:
 - THEORY-148
+- THEORY-tmp2psod
 answers:
 - QUESTION-047
 supports:

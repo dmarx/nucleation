@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp2i7yj
 title: 'Telling an interpreter about a communicative situation, do(I = a), is a different intervention from changing the situation, do(S = s), so the effect of a cue is evidence about interpretation under instruction, not about whether the act changed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    THEORY-tmp2k3a9 now states, from the skim of LIT-894, the surgery
+    this claim relies on: do() replaces a variable's own equation and
+    leaves the rest. It is added to the grounds. The claim is unchanged.
+
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,6 +33,7 @@ rests_on:
 grounds:
 - LIT-894
 - THEORY-138
+- THEORY-tmp2k3a9
 complements:
 - CLAIM-151
 - CLAIM-127
@@ -39,6 +48,7 @@ summary: >-
   an experiment manipulates. The sharp edge: in a vignette or rating
   study every manipulation is a do(I).
 ---
+<!-- inactive-ok-file: THEORY-tmp2k3a9 — Proposed on a skim; the account of do() this claim relied on, added to its grounds -->
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->
