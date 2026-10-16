@@ -41,7 +41,7 @@ summary: >-
   written proof.
 ---
 
-<!-- inactive-ok-file: LIT-017 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-017 — Proposed: placed there by this reading, as an unrefereed preprint whose analytic core is not independently checked -->
 
 # NOTE-022: Spectral Networks and Betti Lagrangians
 
