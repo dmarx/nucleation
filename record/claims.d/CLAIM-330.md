@@ -34,6 +34,7 @@ summary: >-
   nonlinear attractors or about fidelity.
 supports:
 - CLAIM-tmpt568z
+- CLAIM-tmpkss5r
 ---
 
 <!-- inactive-ok-file: CLAIM-297 QUESTION-100 — Proposed, Open or a proposed study; the thesis and question this partly answers -->

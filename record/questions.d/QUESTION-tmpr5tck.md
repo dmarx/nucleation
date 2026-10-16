@@ -20,6 +20,8 @@ summary: >-
   It separates two things the locked-in case runs together: evidence the
   loop did not select, which a paralysed person still receives, and
   contingency between intention and outcome, which they lose.
+answered_by:
+- CLAIM-tmpkss5r
 ---
 
 # QUESTION-tmpr5tck: Within a single mind, what plays the part of the operator model's independent scoring: what evidence reaches a judgement–observation loop, or what scores it, without passing through the interpretation it tests, and does any of it survive the loss of all action?
@@ -86,7 +88,11 @@ than an anchor is lost with action.
 - **Which candidate works.** A loop that does not lock in, with action held
   fixed, and a demonstration that removing a given candidate makes it lock
   in.
-- **For candidate 3,** a formal result in the style of [CLAIM-330](../claims.d/CLAIM-330.md): in the
+- **For candidate 3, answered in the linearization by [CLAIM-tmpkss5r](../claims.d/CLAIM-tmpkss5r.md):**
+  commitment is not equivalent to Regime B. The coupling has the sign of
+  κ′ − κ̄, where κ′ is how far the interpretation bends the reading of the
+  evidence and κ̄ how far it bends the committed predictions. The original
+  question was: a formal result in the style of [CLAIM-330](../claims.d/CLAIM-330.md): in the
   operator model, is scoring against predictions committed before the
   evidence equivalent to Regime B (γ ≈ 0)?
 - **The empirical counterpart:** mere-measurement effects that weaken with

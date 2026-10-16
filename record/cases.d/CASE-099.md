@@ -23,6 +23,8 @@ summary: >-
   construction about a linearization, not a fitted or simulated result.
 supports:
 - CLAIM-330
+variants:
+- CASE-tmp1gf2k
 ---
 
 <!-- inactive-ok-file: CLAIM-297 — Proposed; the thesis this construction bears on and the claim it grounds -->
