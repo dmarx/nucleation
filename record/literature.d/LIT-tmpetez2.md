@@ -24,6 +24,8 @@ keywords:
 implementations: []
 summary: >-
   Slovic (1995). Preferences are often constructed, not merely revealed, in the process of elicitation: normatively equivalent elicitation methods give systematically different responses, violating procedure invariance.
+supports:
+- CLAIM-tmpq9do8
 ---
 
 # LIT-tmpetez2: The construction of preference.

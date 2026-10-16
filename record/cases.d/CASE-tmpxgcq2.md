@@ -77,12 +77,21 @@ usually reached through ALS, no motor channel remains.
   Command-following, the usual marker, marks access, not experience
   ([THEORY-090](../theory.d/THEORY-090.md)). No-report markers still have to be validated through
   report or executive control ([THEORY-298](../theory.d/THEORY-298.md)).
-- **Command-following by brain imaging.** The record holds Owen et al.'s
-  result only through Block ([NOTE-497](../notes.d/NOTE-497.md)): a "'vegetative' patient who
-  imagines tennis on request shows an intentional act without report".
-  That would make the patient's output channel mental action alone.
-  Whether that escapes the asymmetry, or only moves the action inward as
-  [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md) says, is open. No LIT for Owen et al. is registered.
+- **Command-following by brain imaging.** Owen et al. ([LIT-tmp22anc](../literature.d/LIT-tmp22anc.md)): a
+  patient who met the criteria for the vegetative state, asked to imagine
+  playing tennis or moving around her home, activated the predicted
+  cortical areas "in a manner indistinguishable from that of healthy
+  volunteers". Monti et al. ([LIT-tmpp8ob6](../literature.d/LIT-tmpp8ob6.md)): 5 of 54 patients with
+  disorders of consciousness could modulate their brain activity at will,
+  two of them with no voluntary behaviour detectable at the bedside, and
+  the imagery could be used to answer yes or no. Block reads the first as
+  "an intentional act without report" ([NOTE-497](../notes.d/NOTE-497.md)). Here the output channel
+  is mental action alone, with no action on the world. That is the
+  strongest evidence the record holds of judgement running without action
+  on the world, and it is what [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) needs. It does not escape
+  the asymmetry: the imagery is a channel the patient drives, so
+  [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md) can call it action moved inward, and the thesis answers
+  that it acts on the patient's own state, not on the world.
 - **Not every contingency goes.** Paralysis removes action on the world.
   It does not remove the body's regulation of itself. Barrett's action is
   visceromotor ([NOTE-434](../notes.d/NOTE-434.md)), and on Damasio's account feelings may need the

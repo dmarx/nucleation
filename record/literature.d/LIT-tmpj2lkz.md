@@ -23,6 +23,8 @@ keywords:
 implementations: []
 summary: >-
   Morwitz, Johnson & Schmittlein (1993). Merely asking purchase intent once raised the later purchase rate; asking repeatedly made those with low intent less likely to buy. Both effects were weaker with prior experience of the product.
+supports:
+- CLAIM-tmpq9do8
 ---
 
 # LIT-tmpj2lkz: Does Measuring Intent Change Behavior?

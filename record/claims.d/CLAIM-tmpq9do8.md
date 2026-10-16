@@ -35,6 +35,11 @@ grounds:
 - THEORY-tmpns74h
 - THEORY-tmp6rcgc
 - THEORY-tmp2k3a9
+- LIT-tmpuamcv
+- LIT-tmpj2lkz
+- LIT-tmpetez2
+complements:
+- CLAIM-tmp84z6h
 uses:
 - TERM-026
 - TERM-039
@@ -116,6 +121,33 @@ canvas and the retrieval policy ([TERM-026](../terms.d/TERM-026.md), [CLAIM-275]
 What separates them is their target, and the claim is that the loop that
 keeps a model in touch closes through the second.
 
+QBism is the sharpest test of the distinction, because it agrees with U1
+about measurement and disagrees about its target. "A measurement does not
+... reveal a pre-existing state of affairs. It is an action on the world by
+an agent that results in the creation of an outcome — a new experience for
+that agent" ([LIT-tmp7kgwz](../literature.d/LIT-tmp7kgwz.md)). The claim takes the first half and denies the
+second. A judgement creates its outcome by changing the judge, not the
+world.
+
+## Evidence that judging changes the judge
+
+The record had none from outside its own exchanges until it registered
+three works (not yet read beyond their abstracts):
+
+- **Feldman and Lynch:** an attitude or intention "can be created by
+  measurement if the measured constructs do not already exist in long-term
+  memory", and an earlier answer is used as a basis for a later one when
+  it is accessible and diagnostic ([LIT-tmpuamcv](../literature.d/LIT-tmpuamcv.md)). The second finding is
+  the diachronic form.
+- **Morwitz, Johnson and Schmittlein:** merely asking purchase intent
+  changes later purchasing, and the effect weakens with prior experience
+  of the product ([LIT-tmpj2lkz](../literature.d/LIT-tmpj2lkz.md)).
+- **Slovic:** preferences are "constructed — not merely revealed — in the
+  process of elicitation" ([LIT-tmpetez2](../literature.d/LIT-tmpetez2.md)).
+
+All three are classical in mechanism: retrieval, accessibility,
+construction. They support the claim and do not bear on contextuality.
+
 ## What keeps the loop honest
 
 [CLAIM-tmpki5gp](CLAIM-tmpki5gp.md) objects that, without action, the loop confirms itself.
@@ -179,3 +211,14 @@ outcome, is not part of this claim:
   their policy were their actions to affect the world differently"
   ([THEORY-tmpgjsxj](../theory.d/THEORY-tmpgjsxj.md)). On that definition a judge that cannot act is not an
   agent. The claim is about a lucid judge, not about agency.
+- **Perceptual control.** Powers: "behavior is the control of input, not
+  output", and above the lowest level a system's output "is not a muscle
+  force, but a reference level" for the level below ([LIT-tmp626gh](../literature.d/LIT-tmp626gh.md),
+  [LIT-tmp44sbd](../literature.d/LIT-tmp44sbd.md)). Most of a control hierarchy is then an internal loop,
+  which the claim shares. But every loop bottoms out in action that
+  controls a sensed quantity, which the claim denies is needed to keep a
+  built model in touch.
+- **The epistemic cut.** For Pattee the act that separates a living
+  system's records from its dynamics is measurement ([LIT-tmpo5atc](../literature.d/LIT-tmpo5atc.md), not
+  read). That is measurement-first prior art, to be read before the claim
+  cites it for more.

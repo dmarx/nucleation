@@ -25,6 +25,8 @@ keywords:
 implementations: []
 summary: >-
   Feldman & Lynch (1988). Belief, attitude or intention can be created by measurement when the construct does not already exist in long-term memory, and an earlier answer is used as the basis for a later one when it is accessible and seen as more diagnostic than other inputs.
+supports:
+- CLAIM-tmpq9do8
 ---
 
 # LIT-tmpuamcv: Self-generated validity and other effects of measurement on belief, attitude, intention, and behavior
