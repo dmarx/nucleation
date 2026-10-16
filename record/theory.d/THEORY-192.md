@@ -28,6 +28,8 @@ summary: >-
   rose with log exploration time from seconds to days. It does not show
   that the metric, as opposed to the distribution of field scales, is
   hyperbolic, nor that a tree is represented.
+extended_by:
+- THEORY-tmpquk4a
 ---
 
 # THEORY-192: Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time

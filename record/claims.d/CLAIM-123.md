@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounds add THEORY-tmp0iif2, the account of Composable Diffusion filed
+    from LIT-770 in the THEORY backfill, which states the conditions under
+    which summed scores are a product. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -24,6 +31,7 @@ grounds:
 - LIT-776
 - LIT-783
 - LIT-782
+- THEORY-tmp0iif2
 summary: >-
   The manuscript's §7, citing Composable Diffusion, T2I-CompBench and
   Schrödinger bridges. The readings support it, and the manuscript is

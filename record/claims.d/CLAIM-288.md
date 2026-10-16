@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpzn7l2
 title: 'A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller''s, not set by the organization itself'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounds add THEORY-tmprt7jm, Di Paolo's account of adaptivity filed from
+    LIT-1017 in the THEORY backfill; it states the norm-for-the-system this
+    claim cites him for. The claim is unchanged.
 role: counter
 warrant: interpretive
 objects_to:
@@ -16,6 +23,7 @@ grounds:
 - THEORY-219
 - THEORY-220
 - THEORY-221
+- THEORY-tmprt7jm
 tags:
 - self-governance
 - agency
@@ -35,6 +43,7 @@ summary: >-
   answered if the operators' objectives are themselves produced and
   revised by the organization.
 ---
+<!-- inactive-ok-file: THEORY-tmprt7jm — Proposed; Di Paolo's account, the reading this claim cites him for, open like the claim -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-288: A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself
