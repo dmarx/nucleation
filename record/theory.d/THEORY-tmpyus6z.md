@@ -98,6 +98,11 @@ have been too thin to interpret. In the examples neither happened.
 
 ## Connections
 
+- THEORY-tmpyo9a6 (Le Bihan & Read, LIT-113) reaches the opposite verdict on
+  the common core, but for empirically equivalent duals read naively, a
+  weaker notion than the isomorphism used here. The two are not rivals: each
+  states its condition.
+
 - Le Bihan & Read, [LIT-113](../literature.d/LIT-113.md), define duality by empirical equivalence alone
   and set structural realism aside. The book eliminates two of their six
   options by the entailment argument.
