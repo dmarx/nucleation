@@ -203,4 +203,4 @@ this case reads are of the CbD and Bell type, and its finding that no
 contextual pragmatic data are documented holds under those notions. It
 says nothing about preparation contextuality, which none of the tests
 looks for. [CLAIM-201](../claims.d/CLAIM-201.md)'s concession and [CLAIM-219](../claims.d/CLAIM-219.md)'s "in no
-behavioural data set" are scoped the same way.
+behavioural data set" (now held as [CLAIM-tmpxrlyo](../claims.d/CLAIM-tmpxrlyo.md)) are scoped the same way.

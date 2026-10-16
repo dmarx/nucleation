@@ -68,10 +68,10 @@ obeys the triangle inequality and L ≤ 1. Without either, it need not be.
   then only a (2ε₁ + ε₂)-transport.
 
 In total variation both conditions hold. It is a metric, and every Markov
-kernel is nonexpansive in it, which is [CLAIM-059](CLAIM-059.md)'s point: "For Markov
+kernel is nonexpansive in it, which is [CLAIM-059](CLAIM-059.md)'s point, now held as [CLAIM-267](CLAIM-267.md): "For Markov
 kernels acting on probability measures under total variation distance, the
 contraction coefficient is at most one." So the gap is for the other
-distortions, and [CLAIM-059](CLAIM-059.md) says amplification needs one: "Amplification
+distortions, and [CLAIM-059](CLAIM-059.md) says amplification needs one, now held as [CLAIM-267](CLAIM-267.md): "Amplification
 requires a different metric, an expanded state model, or an appropriate
 state-dependent dynamics." [QUESTION-017](../questions.d/QUESTION-017.md) holds the triangle inequality open,
 quoting C6 Appendix B that the distortion "does not obey a triangle

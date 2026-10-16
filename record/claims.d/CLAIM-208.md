@@ -35,7 +35,7 @@ summary: >-
   sensitivity κ_i belongs to a reteller's kernel and needs many retellings
   of each of several inputs at every generation, where a chain gives one.
   And [CLAIM-059](CLAIM-059.md) says amplification "needs a metric other than total
-  variation", so the regime depends on a metric chosen afterwards.
+  variation" (now held as CLAIM-267), so the regime depends on a metric chosen afterwards.
   [CLAIM-078](CLAIM-078.md) records that the compositional half was dropped from the
   manuscript, not that it cannot fail as stated. It does not say error
   propagation is unimportant.
@@ -88,7 +88,7 @@ input per generation.
 
 **The metric.** No design fixes the metric d in which κ_i is computed.
 [CLAIM-059](CLAIM-059.md) itself says amplification "needs a metric other than total
-variation": for a Markov kernel acting on distributions, the contraction
+variation" (now held as [CLAIM-267](CLAIM-267.md)): for a Markov kernel acting on distributions, the contraction
 coefficient in total variation is at most one, so in that metric no chain is
 amplifying. A chain counted as amplifying is so only in some other metric,
 chosen afterwards. Which regime a chain is in therefore depends on a choice

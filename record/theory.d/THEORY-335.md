@@ -133,6 +133,6 @@ support from the method "is not a strong part of the evidence base".
   representative of the target. Harris et al.'s durability result fits the
   question's path-dependence worry: the carrier outlasts brief lexical
   activation.
-- [CLAIM-298](../claims.d/CLAIM-298.md) cites this account as the psychological form of its thesis and
+- [CLAIM-298](../claims.d/CLAIM-298.md) (whose psychological form is now [CLAIM-315](../claims.d/CLAIM-315.md)) cites this account as the psychological form of its thesis and
   restates its defeat condition on the same terms as promote_when here: a
   measure first shown sensitive to direct priming.
