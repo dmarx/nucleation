@@ -39,7 +39,7 @@ summary: >-
   human labels.
 ---
 
-<!-- inactive-ok-file: LIT-079 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-079 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-083: Garg & Fetzer, causal claims in economics
 

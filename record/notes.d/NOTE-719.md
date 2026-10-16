@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpq2ydf
 paper: LIT-1017
 title: 'Di Paolo — Autopoiesis, Adaptivity, Teleology, Agency'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-13'
@@ -25,6 +25,12 @@ history:
     normalised; one
     ("it does not imply any kind of optimal or ideal state") spans the
     page break at p. 440 and was checked by eye.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    The Connections line called Weber & Varela (LIT-1018) unread. It was
+    read the same day (NOTE-720), and the line now says so. The two
+    accounts are filed as rival THEORYs in the THEORY backfill.
 date: '2026-10-13'
 summary: >-
   Autopoiesis, read as conservation, gives only an all-or-nothing norm that
@@ -214,7 +220,7 @@ anything mean anything to it.
 
 ## Connections
 
-It corrects Weber & Varela (2002; [LIT-1018](../literature.d/LIT-1018.md), not read) and builds on
+It corrects Weber & Varela (2002; [LIT-1018](../literature.d/LIT-1018.md), read the same day in [NOTE-720](NOTE-720.md)) and builds on
 Jonas's philosophy of the organism, Ashby (1960) for how adaptivity might
 arise, Canguilhem and Goldstein ([LIT-167](../literature.d/LIT-167.md)) on health, and Ruiz-Mirazo &
 Moreno (2000) for agency. Its definition of agency, its asymmetry argument
