@@ -30,6 +30,8 @@ summary: >-
   "the same consciousness" is never defined.
 ---
 
+<!-- inactive-ok-file: THEORY-tmpidotl — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-385: Of Identity and Diversity
 
 ## Contribution
@@ -202,6 +204,8 @@ Birch's persisting-interlocutor argument ([LIT-111](../literature.d/LIT-111.md),
 Parfit's Relation R, which is Locke's criterion with quasi-memory in place
 of memory and with causal continuity added. The chapter carries no
 instruction for machine-learning practice.
+
+*Note of 2026-10-16:* [THEORY-tmpidotl](../theory.d/THEORY-tmpidotl.md) now cites [LIT-464](../literature.d/LIT-464.md) as a source.
 
 ## Limitations
 

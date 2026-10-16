@@ -34,7 +34,6 @@ summary: >-
   throughout, and the author says so.
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; this entry says how the work bears on those accounts, and does not lean on them -->
-<!-- inactive-ok-file: LIT-443 LIT-434 — Deferred: no readable full text; named as where the argument continues, not leaned on -->
 
 # NOTE-357: Dennett — Quining Qualia
 

@@ -42,6 +42,8 @@ summary: >-
   control as the two replacement accounts.
 ---
 
+<!-- inactive-ok-file: THEORY-119 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-269: Moral Responsibility and the Principle of Alternative Possibilities
 
 ## Contribution
@@ -182,6 +184,8 @@ What the entry argues or reports.
 - **No THEORY in the record bears on this.** If one is written on hierarchical agency, this entry supports only the claim that Frankfurt's 1969 argument motivated an *actual-sequence* account of responsibility, with identification (1971) as one such account. It is the record's source for the FSC literature (dilemma, flickers, buffers, blockage) up to 2020.
 - **No ML-practice content.** Nothing belongs in the Anthology. The one distant echo is the actual-sequence versus counterfactual contrast, which parallels actual versus counterfactual causation in attribution work. The entry says nothing of machines, and that is an analogy only.
 - **For filing.** `agency` first (control, ability to do otherwise, action); `ethics` (moral responsibility, blame, praise); `metaphysics` (determinism, abilities, agent causation, the Consequence and Direct Arguments). `religion` is not justified: divine foreknowledge is one subsection (§3.4.1) used as a test case.
+
+*Note of 2026-10-16:* [THEORY-119](../theory.d/THEORY-119.md) and [THEORY-121](../theory.d/THEORY-121.md) now cite [LIT-294](../literature.d/LIT-294.md) as a source.
 
 ## Limitations
 

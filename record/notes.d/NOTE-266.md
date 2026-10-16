@@ -40,6 +40,7 @@ summary: >-
   Agency* 2007, p. 5).
 ---
 <!-- inactive-ok-file: THEORY-047 THEORY-054 — Proposed; the SDT accounts named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-120 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 
 # NOTE-266: Autonomy
 
@@ -172,6 +173,8 @@ Section numbers are the entry's; page numbers are the entry's citations to *The 
 - **No THEORY in the record bears on this.** If one is written on hierarchical agency, this article is the most convenient second-hand source for the *names* of the objections (Manipulation, Regress/Incompleteness, Ab Initio) and for the 1987 reply with page references. Frankfurt's later view, Watson's positive view and Bratman's views need other sources.
 - **No ML-practice content.** §4.b's informed-consent and respect-for-autonomy material is bioethics, not ML practice. Nothing belongs in the Anthology.
 - **For filing.** `agency` first (personal autonomy as self-governance); `ethics` (moral autonomy, bioethics); `society-and-governance` (§4: liberalism, paternalism, political autonomy, Belmont Report). `identity` is not justified: "true self" and Bratman's plan-constituted identity get a sentence each.
+
+*Note of 2026-10-16:* [THEORY-029](../theory.d/THEORY-029.md), [THEORY-040](../theory.d/THEORY-040.md) and [THEORY-120](../theory.d/THEORY-120.md) now cite [LIT-297](../literature.d/LIT-297.md) as a source.
 
 ## Limitations
 

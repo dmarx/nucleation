@@ -100,6 +100,8 @@ b/c.
 - **Hawk, dove, division, possession:** absent; Curry 2016 ([LIT-503](../literature.d/LIT-503.md), Table 3) makes the same observation.
 - **No THEORY is indicated.** No instruction for ML practice.
 
+*Note of 2026-10-16:* [THEORY-tmpkifk7](../theory.d/THEORY-tmpkifk7.md) now cites [LIT-501](../literature.d/LIT-501.md) as a source.
+
 ## Limitations
 
 - A review: proofs and parameter regimes are in cited papers and the supplement.

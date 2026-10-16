@@ -185,8 +185,7 @@ studies, not results the paper establishes.
   experimental evidence it cites would have to be read for status Active.
   See the batch report.
 - **No ML instruction.** Nothing here belongs in the anthology.
-- The three selves are compared with the record's self holdings in THEORY-
-  tmp0b06z. The clinical claim is [THEORY-051](../theory.d/THEORY-051.md).
+- The three selves are compared with the record's self holdings in [THEORY-044](../theory.d/THEORY-044.md). The clinical claim is [THEORY-051](../theory.d/THEORY-051.md).
 
 ## Limitations
 

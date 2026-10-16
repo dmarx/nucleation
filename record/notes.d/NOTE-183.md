@@ -48,6 +48,8 @@ summary: >-
   (§12, Fig. 4).
 ---
 
+<!-- inactive-ok-file: THEORY-023 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-183: Birch — AI Consciousness: A Centrist Manifesto
 
 ## Contribution
@@ -133,6 +135,8 @@ They agree on the Nagel definition, the role-play framing of LLMs (both cite Sha
 ## Bearing on the record
 
 It supports no THEORY document, because nucleation's theory.d holds none on consciousness. It could anchor one on the epistemics of AI-consciousness attribution: gaming, Janus, two-level deadlock, and the comparative route out. For ML practice it carries no training instruction. §7's proposals are product-design and policy suggestions for chatbot deployment (user training, trait reviews, breaking character). They are untested and do not belong in the Anthology of the SOTA as practice. The footnoted technical claims (MoE serving, KV-cache retention across turns) are explicitly unverified by the author and should not be cited from here as facts about deployed systems.
+
+*Note of 2026-10-16:* [THEORY-023](../theory.d/THEORY-023.md) now cites [LIT-111](../literature.d/LIT-111.md) as a source.
 
 ## Limitations
 

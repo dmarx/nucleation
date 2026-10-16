@@ -29,6 +29,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-775 — Deferred; the work the lecture reads, unread here -->
 <!-- inactive-ok-file: THEORY-159 — Proposed; named for comparison, not settled here -->
+<!-- inactive-ok-file: THEORY-tmp48ml1 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-641: Transformation transformed
 
@@ -152,6 +153,8 @@ dimension of Lévi-Strauss's approach.
 - No THEORY is filed: the lecture argues a method and reports a reading;
   it establishes no finding of its own.
 - No instruction for machine-learning practice; nothing for the anthology.
+
+*Note of 2026-10-16:* [THEORY-tmp48ml1](../theory.d/THEORY-tmp48ml1.md) now cites [LIT-822](../literature.d/LIT-822.md) as a source.
 
 ## Limitations
 

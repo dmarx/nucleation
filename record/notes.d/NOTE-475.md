@@ -31,6 +31,8 @@ summary: >-
   accuracy is flat in depth from L = 2 to 5 (Table 1).
 ---
 
+<!-- inactive-ok-file: THEORY-080 THEORY-084 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
+
 # NOTE-475: Deep Equals Shallow for ReLU Networks in Kernel Regimes
 
 ## Contribution
@@ -189,6 +191,8 @@ The paper says none of it.
   not here.
 - **ML practice.** None. The paper is a theory of kernels; it carries
   `anthology-candidate` for its subject only.
+
+*Note of 2026-10-16:* [THEORY-080](../theory.d/THEORY-080.md), [THEORY-084](../theory.d/THEORY-084.md) and [THEORY-086](../theory.d/THEORY-086.md) now cite [LIT-608](../literature.d/LIT-608.md) as a source.
 
 ## Limitations
 

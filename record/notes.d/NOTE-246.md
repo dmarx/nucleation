@@ -48,6 +48,8 @@ summary: >-
   and the definition numbers are the same data re-reported.
 ---
 
+<!-- inactive-ok-file: THEORY-017 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-246: Reasoning about Meaning in Natural Language with Compact Closed Categories and Frobenius Algebras
 
 ## Contribution
@@ -171,6 +173,8 @@ I checked each of the following numerically.
 - **For filing.**
   - *Tags proposed.* `linguistics` first: compositional semantics of natural language. `mathematics` for the category theory. `representation-learning` because it builds and compares sentence representations, though count-based and not learned. `logic` for type-logical (pregroup) grammar. `philosophy-of-language` for the meaning-as-use and Montague-style predicative framing.
   - *Tags not proposed.* `quantum-foundations`: the paper borrows the categorical quantum-mechanics formalism and is not about quantum theory. `anthology-candidate`.
+
+*Note of 2026-10-16:* [THEORY-017](../theory.d/THEORY-017.md) now cites [LIT-272](../literature.d/LIT-272.md) as a source.
 
 ## Limitations
 

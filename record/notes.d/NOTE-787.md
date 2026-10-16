@@ -37,7 +37,7 @@ summary: >-
   extension to computable distributions costs O(log n).
 ---
 <!-- inactive-ok-file: THEORY-277 THEORY-036 THEORY-087 CLAIM-188 — Proposed; the theory filed from this reading and the entries it bears on, open -->
-<!-- inactive-ok-file: LIT-229 — Deferred; Vitányi's "Meaningful information", the paper's reference for total-recursive-function models, unread here -->
+<!-- inactive-ok-file: THEORY-244 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-787: Vereshchagin & Vitányi — Kolmogorov's structure functions and model selection
 
@@ -254,6 +254,8 @@ on [LIT-229](../literature.d/LIT-229.md)'s total-recursive-function models (cite
   O(log n) throughout, the same order as those penalties, so its results
   cannot distinguish them.
 - No instruction for machine-learning practice; nothing for the anthology.
+
+*Note of 2026-10-16:* [THEORY-244](../theory.d/THEORY-244.md), [THEORY-260](../theory.d/THEORY-260.md) and [THEORY-277](../theory.d/THEORY-277.md) now cite [LIT-239](../literature.d/LIT-239.md) as a source.
 
 ## Limitations
 

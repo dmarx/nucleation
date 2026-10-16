@@ -195,8 +195,7 @@ Supporting points in the body:
   regulation is a distinct process or emotions regulating one another. Gross
   (1998) and this paper take the two positions.
 - No instruction for machine-learning practice.
-- It is the source of [THEORY-055](../theory.d/THEORY-055.md) and, with [LIT-542](../literature.d/LIT-542.md), of THEORY-
-  tmppzrsd.
+- It is the source of [THEORY-055](../theory.d/THEORY-055.md) and, with [LIT-542](../literature.d/LIT-542.md), of [THEORY-056](../theory.d/THEORY-056.md).
 
 ## Limitations
 

@@ -237,8 +237,7 @@ There are no formal results. The article's claims, by section:
   Metzinger's terms; the article says nothing about learned models
   generally, and nothing here belongs in the anthology.
 - ACT's cognitive fusion is read as a thought functioning transparently,
-  and defusion as making it opaque, in [THEORY-050](../theory.d/THEORY-050.md) and THEORY-
-  tmp0b06z. The mapping is the record's; neither source cites the other.
+  and defusion as making it opaque, in [THEORY-050](../theory.d/THEORY-050.md) and [THEORY-044](../theory.d/THEORY-044.md). The mapping is the record's; neither source cites the other.
 
 ## Limitations
 

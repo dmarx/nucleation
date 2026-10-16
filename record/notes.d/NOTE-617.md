@@ -31,7 +31,6 @@ summary: >-
   applicability conditions, with predictions that differ from Reiter's,
   Delgrande's, Asher and Morreau's and inheritance-net theories.
 ---
-<!-- inactive-ok-file: LIT-811 — Deferred, no lawful full text; named as the origin of the dynamic view the paper credits -->
 <!-- inactive-ok-file: THEORY-162 — Proposed; filed from this reading with two others -->
 <!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

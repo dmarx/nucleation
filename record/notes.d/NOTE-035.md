@@ -132,6 +132,8 @@ For [LIT-037](../literature.d/LIT-037.md) (Cuffaro & Hartmann), §6.5 makes a po
 
 It carries no ML-practice instruction. The one transferable tool is the base-norm characterisation of optimal binary discrimination (Thm 3.43), which in the classical case reduces to total-variation distance. That is textbook material, not a practice source. Within this record, the review should be what THEORY documents on the Spekkens/GPT cluster cite for definitions (GPT dimension, local tomography, simplex = classical, measure-and-prepare), in preference to re-deriving them. It should not be cited for Thm 5.21 or Thm 7.11 as proofs, since it defers both. It should not be cited for anything about restricted theories.
 
+*Note of 2026-10-16:* [THEORY-016](../theory.d/THEORY-016.md) now cites [LIT-073](../literature.d/LIT-073.md) as a source.
+
 ## Limitations
 
 - It is finite-dimensional only (S5). Nothing covers infinite-dimensional or continuous-variable theories. That matters for [LIT-007](../literature.d/LIT-007.md)'s R^{2n} case.

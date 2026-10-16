@@ -29,7 +29,6 @@ summary: >-
   quantum theory.
 ---
 <!-- inactive-ok-file: THEORY-011 THEORY-015 QUESTION-067 CLAIM-044 CLAIM-046 CLAIM-142 — Proposed or Open; the theories, question and claims this reading bears on, open -->
-<!-- inactive-ok-file: LIT-263 — Deferred; Budroni et al., the review THEORY-011 and THEORY-015 also cite, unread here -->
 <!-- inactive-ok-file: NOTE-238 — Superseded; the seeding skim this reading replaces -->
 
 # NOTE-748: Spekkens — Contextuality for preparations, transformations, and unsharp measurements

@@ -40,6 +40,8 @@ summary: >-
   Under its own Definition 5.1 they are 0.949, 0.316 and 0.6.
 ---
 
+<!-- inactive-ok-file: THEORY-017 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-245: Mathematical Foundations for a Compositional Distributional Model of Meaning
 
 ## Contribution
@@ -184,6 +186,8 @@ All computation in the paper is by hand, on toy truth-valued spaces.
     - `information-retrieval`: named only as a future application.
     - `quantum-foundations`.
     - `anthology-candidate`.
+
+*Note of 2026-10-16:* [THEORY-017](../theory.d/THEORY-017.md) now cites [LIT-273](../literature.d/LIT-273.md) as a source.
 
 ## Limitations
 

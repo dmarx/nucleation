@@ -46,6 +46,7 @@ summary: >-
   anything the body shows.
 ---
 
+<!-- inactive-ok-file: THEORY-023 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-052: Consciousness in AI: indicator properties
 
@@ -193,6 +194,8 @@ Two aging notes for whoever files it in the anthology:
 The TiCS 2026 version should be checked as the anthology's citable source.
 
 For nucleation THEORY documents: none exist to support or contradict.
+
+*Note of 2026-10-16:* [THEORY-023](../theory.d/THEORY-023.md) now cites [LIT-056](../literature.d/LIT-056.md) as a source.
 
 ## Limitations
 

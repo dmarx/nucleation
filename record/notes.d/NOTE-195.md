@@ -35,6 +35,8 @@ summary: >-
   pointwise in bijection need not be isomorphic.
 ---
 
+<!-- inactive-ok-file: THEORY-038 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-195: Yoneda lemma
 
 ## Contribution
@@ -98,6 +100,8 @@ The page credits the name to Mac Lane, from a 1954 conversation with Nobuo Yoned
 - **Identity.** The criterion is up to isomorphism. For objects with non-trivial automorphisms, or distinct isomorphic copies, it is silent on numerical identity. This matches the limit [LIT-154](../literature.d/LIT-154.md) found for weak discernibility, and it is the precise place where a structuralist must either adopt identity = isomorphism (univalence) or grant relata a primitive identity.
 - **No THEORY in nucleation depends on the page.** If one is written (for example "Yoneda formalises structuralism"), cite C3 and C4 for the mathematics and C6 for the caveat, and flag C9 as a gloss.
 - **ML practice:** none. The lemma has been invoked in ML-adjacent category-theory papers (for example arXiv:2207.02917 on causal inference), but this page carries no instruction for ML practice.
+
+*Note of 2026-10-16:* [THEORY-032](../theory.d/THEORY-032.md) and [THEORY-038](../theory.d/THEORY-038.md) now cite [LIT-221](../literature.d/LIT-221.md) as a source.
 
 ## Limitations
 

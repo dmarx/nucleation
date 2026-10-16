@@ -126,6 +126,8 @@ A direct constructive proof. For any assignment of two individuals' decisive pai
 - **No ML-practice content.** There is a structural echo in preference aggregation for alignment, where unanimity plus individual vetoes can cycle, but the paper does not discuss it and it should not be carried to the Anthology.
 - **For filing.** File under `society-and-governance` first (liberty, collective decision). `mathematics` is justified, because the paper is a theorem with a proof and a reader browsing formal results should find it. `ethics` fits because of the liberty-versus-Pareto conflict. `logic` is not proposed: the result is combinatorial, not about logic.
 
+*Note of 2026-10-16:* [THEORY-027](../theory.d/THEORY-027.md) now cites [LIT-285](../literature.d/LIT-285.md) as a source.
+
 ## Limitations
 
 - **Pairwise decisiveness may not model liberty.** The model of liberty is decisiveness over pairs of complete social states. Whether that captures rights is the main point the later literature (Nozick 1974, Gärdenfors 1981, Sugden 1985, Gaertner et al. 1992, all cited in the 1998 lecture) disputes. The paper argues for its formalisation only by examples.

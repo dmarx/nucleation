@@ -36,7 +36,6 @@ summary: >-
   openings and summaries.
 ---
 
-<!-- inactive-ok-file: LIT-344 — Deferred; named as the monograph whose order theory this overlaps, not leaned on -->
 <!-- inactive-ok-file: CLAIM-119 — Proposed; named for the bearing reported, not edited -->
 
 # NOTE-601: Seven Sketches in Compositionality

@@ -35,7 +35,8 @@ summary: >-
   residual instability, they argue, is a virtue.
 ---
 
-<!-- inactive-ok-file: LIT-208 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-208 — Proposed: the paper this reading placed -->
+<!-- inactive-ok-file: THEORY-tmpf5mlz — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-158: Grindrod et al. — Distributional semantics & holism
 
@@ -109,6 +110,8 @@ In this record it sits beside [LIT-106](../literature.d/LIT-106.md) (Brandom's i
 ## Bearing on the record
 
 No THEORY document in this record is sourced to it. For the Anthology of the SOTA, it restates, without testing, a practice the ML literature already holds: compare embedding spaces by neighbour sets or after orthogonal alignment, not by raw coordinates or raw similarity values, and expect low-frequency words to be unstable. The operational source for that practice is Antoniak & Mimno (2018), which the paper cites, and which the anthology would file directly if it wanted the practice. This paper adds no measurement to it. Nothing here warrants a transfer, and an `anthology-candidate` flag is not recommended.
+
+*Note of 2026-10-16:* [THEORY-tmpf5mlz](../theory.d/THEORY-tmpf5mlz.md) now cites [LIT-208](../literature.d/LIT-208.md) as a source.
 
 ## Limitations
 

@@ -39,6 +39,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Deferred: a related seed named by a 2026-09-26 close reading on the mereology tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven as a formal criterion; cited as a related account, not as an established result -->
+<!-- inactive-ok-file: THEORY-tmpnan16 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-163: SEP — Mereology
 
@@ -144,6 +145,8 @@ It is the reference text for the `mereology` topic. That topic's blurb is "parts
 - **[LIT-025](../literature.d/LIT-025.md) and [LIT-027](../literature.d/LIT-027.md) (ΦID causal emergence).** Tagged `mereology` in the systems sense, which is the sense note 1 excludes. The entry's only point of contact is §3.2 on structured wholes ("more than the sum of its parts") and note 43 on Composition as Identity versus strong emergence (McDaniel 2008). Those tags are justified by the topic blurb, not by this entry.
 
 Recommended correction for [LIT-124](../literature.d/LIT-124.md) and its note summary: drop "uncontroversial core"; see the first item under corrections.
+
+*Note of 2026-10-16:* the statement above that no THEORY document cites mereology is no longer true. [THEORY-tmpbrxt2](../theory.d/THEORY-tmpbrxt2.md) and [THEORY-tmpnan16](../theory.d/THEORY-tmpnan16.md) now cite this entry as a source, and other THEORY documents now discuss mereology.
 
 ## Limitations
 

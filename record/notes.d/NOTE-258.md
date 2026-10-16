@@ -43,6 +43,8 @@ summary: >-
   constructive proposal (p. 220).
 ---
 
+<!-- inactive-ok-file: THEORY-025 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-258: Equality of What?
 
 ## Contribution
@@ -132,6 +134,8 @@ What the lecture argues, section by section (page numbers are the Tanner paginat
 - **No THEORY in the record bears on this.** The record's theories are on representation learning and contextuality. If the record acquires a THEORY about the informational basis of well-being comparisons ("utility and resource metrics each omit conversion variation"), this lecture is its primary source for the negative claim, with the capability proposal as a weaker, separate claim — Sen himself separates them (p. 220).
 - **No ML-practice content.** The one distant bearing is on fairness metrics ("equality of what" is often cited in ML fairness writing), but the lecture itself says nothing about measurement practice beyond the indexing problem.
 - **For filing.** `ethics` first (a theory of distributive equality), then `society-and-governance` (Rawls, justice, social policy) and `social-science` (welfare economics). `agency` is not justified: agency does not appear in this text.
+
+*Note of 2026-10-16:* [THEORY-025](../theory.d/THEORY-025.md) now cites [LIT-289](../literature.d/LIT-289.md) as a source.
 
 ## Limitations
 

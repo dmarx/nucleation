@@ -36,6 +36,7 @@ summary: >-
   independent support.
 ---
 <!-- inactive-ok-file: LIT-215 — Rejected on its 2026-09-26 close reading: cited as a related or contrasting view, not as a result -->
+<!-- inactive-ok-file: THEORY-tmpyo9a6 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-152: Le Bihan & Read — Duality and ontology
 
@@ -103,6 +104,8 @@ The metaphysical thesis it presupposes is realism about a unique actual world de
 ## Bearing on the record
 
 It supports no THEORY document directly and would be a good citation for any record entry that needs a map of interpretive options for dualities or symmetry-related models. The dossier's link to [LIT-215](../literature.d/LIT-215.md) (Karpenko's use of dualities for informational structural realism) should be read with the caveat that this paper sets structuralism aside and so offers ISR no support either way. It carries nothing for ML practice, and nothing here belongs in the Anthology of the SOTA.
+
+*Note of 2026-10-16:* [THEORY-tmpyo9a6](../theory.d/THEORY-tmpyo9a6.md) now cites [LIT-113](../literature.d/LIT-113.md) as a source.
 
 ## Limitations
 

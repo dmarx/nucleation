@@ -48,6 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-197 LIT-117 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-047 THEORY-054 — Proposed; the SDT accounts named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-120 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 
 # NOTE-267: Personal Autonomy
 
@@ -156,6 +157,8 @@ All attributions are the entry's own; section or note numbers are given.
 - **No THEORY in the record bears on this.** If the record acquires a THEORY on hierarchical agency, this entry is the source for the *objections*: C3, C5, C6 and C7, especially the claim that identification cannot be higher-order approval. It is not a source for what Frankfurt 1971 says.
 - **No ML-practice content.** The entry says nothing about machines. The one distant bearing is conceptual: "autonomy" as used of AI agents is usually the political or operational sense this entry sets aside in §1. Nothing belongs in the Anthology.
 - **For filing.** Tags: `agency` first (self-government, identification); then `metaphysics` (§4 determinism, agent causation, incompatibilism); then `ethics` (accountability, moral responsibility, nn. 16–17, 22). `identity` is not justified. Identity appears only in passing: diachronic unity in §2, and Buss 2012's "identity as a representative human being" in note 18.
+
+*Note of 2026-10-16:* [THEORY-029](../theory.d/THEORY-029.md), [THEORY-040](../theory.d/THEORY-040.md) and [THEORY-120](../theory.d/THEORY-120.md) now cite [LIT-296](../literature.d/LIT-296.md) as a source.
 
 ## Limitations
 

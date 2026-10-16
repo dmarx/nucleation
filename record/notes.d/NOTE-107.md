@@ -99,6 +99,8 @@ The metaphysical theses the entry *reports* rather than defends are ontological 
 
 It carries nothing for ML practice, and saying so is the answer. There is no instruction for the Anthology of the SOTA and no THEORY document here to support or contradict. Its main use to this record is as a reference map for the naturalism and divine-action literature if the record takes that up. It is also a data point that the topic vocabulary cannot yet say "religion".
 
+*Note of 2026-10-16:* the vocabulary can now say it. [ADR-007](../decisions.d/ADR-007.md) added the `religion` topic, and [LIT-194](../literature.d/LIT-194.md) is tagged with it first.
+
 ## Limitations
 
 - It is a survey. Characterisations of scholarly consensus (C2, C5) are the author's, with no systematic evidence.

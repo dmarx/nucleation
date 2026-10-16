@@ -26,7 +26,6 @@ summary: >-
   SGD's finite steps, noise and weight decay break these, which is an open
   route to implicit bias (§7.2).
 ---
-<!-- inactive-ok-file: THEORY-211 — Proposed; the account filed from the cited paper, read on 2026-10-13, open -->
 
 # NOTE-712: Symmetry in Neural Network Parameter Spaces
 

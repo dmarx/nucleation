@@ -189,8 +189,7 @@ There are no new results; the review's moves, in order:
   third option between decomposition and nesting; Gallagher does not
   discuss groups. The pairing is mine.
 - **No ML instruction.** Nothing here belongs in the anthology.
-- RFT's self as context is set against the minimal self in THEORY-
-  tmp0b06z.
+- RFT's self as context is set against the minimal self in [THEORY-044](../theory.d/THEORY-044.md).
 
 ## Limitations
 

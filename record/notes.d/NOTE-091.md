@@ -32,6 +32,7 @@ summary: >-
   physicalism.
 ---
 <!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: THEORY-tmp1iff3 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-091: Pernu — Mental causation via neuroprosthetics?
 
@@ -97,6 +98,8 @@ Pernu's own earlier work on exclusion is held as [LIT-144](../literature.d/LIT-1
 ## Bearing on the record
 
 It supports any THEORY note on levels of causal description or mental causation. It would cut against a note that cites BCIs as evidence for nonreductive physicalism; I know of no such note in the record. For ML practice it carries no instruction. By analogy, it cautions against inferring that a model has a distinct higher-level "intention" from the fact that many activation patterns decode to the same coarse variable. That caution would need its own source in the Anthology, and it does not belong there from this paper.
+
+*Note of 2026-10-16:* [THEORY-tmp1iff3](../theory.d/THEORY-tmp1iff3.md) now cites [LIT-147](../literature.d/LIT-147.md) as a source.
 
 ## Limitations
 
