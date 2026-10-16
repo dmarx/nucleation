@@ -1,3 +1,4 @@
 ### Changed
 
 - After the THEORY backfill, existing documents are brought into line with it: [THEORY-034](record/theory.d/THEORY-034.md)'s title and sources corrected, rivals and presupposes edges and grounds drawn to the new accounts ([THEORY-043](record/theory.d/THEORY-043.md), -060, -071, -138, -172, [CLAIM-029](record/claims.d/CLAIM-029.md), -287), wrong key takeaways in [LIT-124](record/literature.d/LIT-124.md), [LIT-165](record/literature.d/LIT-165.md), [LIT-175](record/literature.d/LIT-175.md) and [LIT-188](record/literature.d/LIT-188.md) corrected, skim-era text in 187 read LITs marked as preceding its reading, dated notes added to 82 NOTEs now cited by a THEORY, and stale directives fixed.
+- Every `inactive-ok-file` directive now names the status its cited works hold: 877 corrected (most said "Deferred" of works now Unavailable), codes now Active dropped, and 40 obsolete directives removed.
