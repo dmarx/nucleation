@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmprdxf9
 paper: 'LIT-874'
 title: 'Representation Tradeoffs for Hyperbolic Embeddings'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -26,6 +26,12 @@ history:
     same sections and results without the appendices, plus a Table 4
     (WordNet relation triples) that v2 lacks. The authors' code was not
     inspected, and Sarkar's paper, on which §3.1 rests, was not read.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Annotated after Linial, London and Rabinovich were read (NOTE-tmpetxcq):
+    the Euclidean-impossibility citation to them is wrong, as Limitations
+    now says.
 date: '2026-10-09'
 summary: >-
   Trees embed in the hyperbolic plane with worst-case distortion 1 + ε, but
@@ -270,7 +276,12 @@ routing in the hyperbolic plane.
   embedding does, and a tree itself takes O(n log n) bits as a list of
   edges. The tradeoff is about coordinates, not about information.
 - **The Euclidean impossibility is cited, not proved**, and is attributed
-  to Bourgain through Linial et al.
+  to Bourgain through Linial et al. (Annotated 2026-10-16: the citation is
+  wrong. Linial, London and Rabinovich, read in [NOTE-tmpetxcq](NOTE-tmpetxcq.md), state
+  Bourgain's theorem as an upper bound, O(log n) distortion for every
+  n-point metric. Their only Euclidean lower bound is for expanders, and
+  their only tree result is an isometric embedding into ℓ∞^{O(log n)}. The
+  tree lower bound the paper means is not in that work.)
 - **Lemma 4.3's statement and proof are stated in different quantities**:
   the statement bounds acosh²(1 + d_E²), while the proof's condition is on
   d_E² itself. The statement appears to be the stronger, so it still

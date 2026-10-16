@@ -1,0 +1,51 @@
+---
+status: Unavailable
+status_note: 'unread, registered 2026-10-16. A lawful copy was sought and not reached: OpenAlex lists only the closed Springer version, and web searches found no author-posted or course-hosted copy. Its theorem is restated and its proof scheme used by Linial, London and Rabinovich ([LIT-tmp9g20z](LIT-tmp9g20z.md)), which is how the record reads it until a copy is supplied.'
+title: 'On Lipschitz embedding of finite metric spaces in Hilbert space'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed at the owner's request as later work flagged by the reading of
+    Johnson and Lindenstrauss (NOTE-tmpmv42v), whose Connections name it as
+    unchecked. Citation checked against Crossref on 2026-10-16.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-16) for the authors' names and the identifiers found nothing. Crossref gives March 1985 and no day.
+tags:
+- mathematics
+date: '2026-10-16'
+published: '1985-03-01'
+doi: '10.1007/BF02776078'
+first_author: 'Bourgain'
+keywords:
+- 'finite metric spaces'
+- 'Lipschitz embedding'
+- 'Hilbert space'
+- 'distortion'
+implementations: []
+summary: >-
+  Bourgain (1985), *Israel Journal of Mathematics* 52(1–2): 46–52. Every n-point metric space embeds in Hilbert space with distortion O(log n), by a random construction. Unread; known through Linial, London and Rabinovich.
+extended_by:
+- LIT-tmp9g20z
+---
+
+# LIT-tmpwy0he: On Lipschitz embedding of finite metric spaces in Hilbert space
+
+Jean Bourgain (1985), "On Lipschitz embedding of finite metric spaces in Hilbert space", *Israel Journal of Mathematics* 52(1–2): 46–52 — doi:[10.1007/BF02776078](https://doi.org/10.1007/BF02776078)
+
+## Key takeaways
+
+*Unread. From citing works, to be checked against the text.*
+
+- **O(log n) distortion.** Every n-point metric space embeds into ℓ₂ with
+  distortion O(log n), as citing works state it. The abstract, as search
+  results quote it, also gives an example showing a matching lower bound
+  of a weaker order, and calls the methods probabilistic.
+
+## Standing in the record
+
+Filed on 2026-10-16 as the result Johnson and Lindenstrauss's Problem 4
+asked about ([NOTE-tmpmv42v](../notes.d/NOTE-tmpmv42v.md)), and as the source of "Bourgain's theorem",
+which the hyperbolic-embeddings reading cites through Linial, London and
+Rabinovich ([NOTE-679](../notes.d/NOTE-679.md)). Read through [LIT-tmp9g20z](LIT-tmp9g20z.md) until a copy is
+supplied.
