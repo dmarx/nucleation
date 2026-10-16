@@ -65,6 +65,12 @@ history:
     functionalism (THEORY-tmp91cqx), Putnam (THEORY-tmp4k9ec), Dennett's
     intentional strategy (THEORY-tmphcjj0), Searle (THEORY-tmpted1p) and
     Chalmers on implementation (THEORY-tmppylq2). None is a premise here.
+    Schwitzgebel's reply to Kammerer (LIT-459) added to the source: the
+    Kammerer bullet, the invariance bullet and promote_when argue from
+    its condition-A gap, its Leo case and its simplicity dilemma. The
+    THEORYs now filed for the Chalmers and Dennett readings named in
+    "What the Chalmers and Dennett readings add" are listed in
+    Connections. The claim is unchanged.
 tags:
 - consciousness
 - mereology
@@ -80,6 +86,7 @@ source:
 - LIT-409
 - LIT-445
 - LIT-439
+- LIT-459
 summary: >-
   Minsky's society of mind builds a mind downward, out of agents that are
   not minds. Schwitzgebel ([LIT-159](../literature.d/LIT-159.md)) builds a candidate mind upward, out of
@@ -98,6 +105,7 @@ answers:
 - QUESTION-046
 ---
 <!-- inactive-ok-file: THEORY-tmp4k9ec THEORY-tmphcjj0 THEORY-tmpted1p — Proposed; the accounts now filed from readings this one draws on, named in Connections, none a premise -->
+<!-- inactive-ok-file: THEORY-tmp26rh2 THEORY-tmpdz76a THEORY-tmpltl13 THEORY-tmpspj51 THEORY-tmpuo0qe — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
@@ -126,6 +134,8 @@ answers:
 - Levin (2019), [LIT-439](../literature.d/LIT-439.md), read in [NOTE-341](../notes.d/NOTE-341.md): nested goal-pursuing
   collectives, one of the three readings that grant agency under
   composition. His account is stated in [THEORY-tmpmblxg](THEORY-tmpmblxg.md).
+- Schwitzgebel (2016), [LIT-459](../literature.d/LIT-459.md), read in [NOTE-381](../notes.d/NOTE-381.md): the reply to Kammerer,
+  for the condition-A gap, the Leo case and the simplicity dilemma.
 
 ## The two directions
 
@@ -383,6 +393,11 @@ needed.
   causal-powers argument [THEORY-tmpted1p](THEORY-tmpted1p.md), and Chalmers's implementation
   conditions [THEORY-tmppylq2](THEORY-tmppylq2.md). None is a premise here; they state on their
   own what this account cites them for.
+- **The Chalmers and Dennett readings as accounts.** Organisational
+  invariance is [THEORY-tmpdz76a](THEORY-tmpdz76a.md), the combination problem [THEORY-tmpuo0qe](THEORY-tmpuo0qe.md),
+  the meta-problem challenge [THEORY-tmpltl13](THEORY-tmpltl13.md), "Quining Qualia"
+  [THEORY-tmp26rh2](THEORY-tmp26rh2.md) and Frankish's illusionism [THEORY-tmpspj51](THEORY-tmpspj51.md). None is a
+  premise here; each is cited above from its reading.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).
