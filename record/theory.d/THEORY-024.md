@@ -32,6 +32,8 @@ summary: >-
   presheaf has a section (Isham–Butterfield, [LIT-325](../literature.d/LIT-325.md), §6). Sheaf toposes
   such as Sh(ℝ) are not Boolean ([NOTE-249](../notes.d/NOTE-249.md)). The contextuality criterion
   itself is untouched.
+corrected_by:
+- THEORY-tmpevmkz
 ---
 
 # THEORY-024: Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified

@@ -14,7 +14,17 @@ promote_when: >-
   Sub_cl(Σ), or by a proof that daseinisation sends the orthocomplement to
   the Heyting negation.
 title: 'In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Presupposes THEORY-tmpqv891, Butterfield and Isham's proof that
+    coarse-graining is the direct image of clopen spectral regions, which
+    is what makes each daseinised projector a clopen sub-object. Two later
+    readings, LIT-378 and LIT-382, are named in Connections: neither writes
+    out the implication or checks the Heyting laws, so the promotion
+    condition is still unmet.
 tags:
 - logic
 - quantum-foundations
@@ -36,6 +46,8 @@ summary: >-
   the base category.
 answers:
 - QUESTION-055
+presupposes:
+- THEORY-tmpqv891
 ---
 
 # THEORY-037: In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail
@@ -64,3 +76,4 @@ Isham and Butterfield already have sieve-valued truth, and failures of strong co
 - [LIT-306](../literature.d/LIT-306.md) (Birkhoff–von Neumann) and the modular-law claim in this group: the orthocomplemented, non-distributive alternative that this programme replaces.
 - [LIT-357](../literature.d/LIT-357.md) (Husimi) also keeps logic two-valued over states and rejects many-valued logics. It is a different answer to the same question ([NOTE-312](../notes.d/NOTE-312.md)).
 - [LIT-276](../literature.d/LIT-276.md): a claim that the logic turns Boolean when a presheaf has a global section. It is rejected in this group.
+- Two later readings leave the promotion condition unmet. Döring and Isham's merged text, [LIT-378](../literature.d/LIT-378.md) ([NOTE-326](../notes.d/NOTE-326.md)), restates Sub_cl(Σ) as Heyting (its Thm 16.1) with ⇒ again left to "a straightforward extension" (p. 188), and with negation redefined by an interior, so Sub_cl(Σ) is not a Heyting subalgebra of Sub(Σ). Butterfield and Isham's part IV, [LIT-382](../literature.d/LIT-382.md) ([NOTE-328](../notes.d/NOTE-328.md)), proves that coarse-graining is the direct image of clopen regions ([THEORY-tmpqv891](THEORY-tmpqv891.md)), which this account presupposes, and builds no Heyting operations.
