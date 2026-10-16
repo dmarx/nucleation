@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The empirical literature CLAIM-tmpq9do8 lacked. Its two findings are the claim's two forms: a judgement created by the measurement (the synchronic form, which the claim sets aside) and an earlier answer becoming input to a later one (the diachronic form, which it holds). Both are stated in classical terms, as retrieval and construction, so they support the claim without bearing on contextuality.
+The empirical literature [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) lacked. Its two findings are the claim's two forms: a judgement created by the measurement (the synchronic form, which the claim sets aside) and an earlier answer becoming input to a later one (the diachronic form, which it holds). Both are stated in classical terms, as retrieval and construction, so they support the claim without bearing on contextuality.

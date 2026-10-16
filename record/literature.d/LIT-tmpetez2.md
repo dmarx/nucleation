@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-For CLAIM-tmpq9do8: the decision-research form of "a measurement that generates interpretations". The elicitation procedure enters the response, which is TERM-039's measurement context. Whether it also changes the judge, and not only the response, the abstract does not say.
+For [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md): the decision-research form of "a measurement that generates interpretations". The elicitation procedure enters the response, which is [TERM-039](../terms.d/TERM-039.md)'s measurement context. Whether it also changes the judge, and not only the response, the abstract does not say.

@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Measurement-first prior art for CLAIM-tmpq9do8. For Pattee the act that makes a record of the world, measurement, is what separates a living system from its dynamics, not action. Not read; whether he treats measurement as an action on the world, as QBism does (LIT-tmp7kgwz), a reading should check.
+Measurement-first prior art for [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md). For Pattee the act that makes a record of the world, measurement, is what separates a living system from its dynamics, not action. Not read; whether he treats measurement as an action on the world, as QBism does ([LIT-tmp7kgwz](LIT-tmp7kgwz.md)), a reading should check.

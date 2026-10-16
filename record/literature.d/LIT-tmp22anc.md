@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-For CASE-tmpxgcq2. The record held this result only through Block (NOTE-497): an intentional act without report. The response is mental imagery to command, so the patient's only output channel is a mental act. Whether that is judgement without action, or action moved inward (CLAIM-tmp9cjyo), is what the case asks.
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md). The record held this result only through Block ([NOTE-497](../notes.d/NOTE-497.md)): an intentional act without report. The response is mental imagery to command, so the patient's only output channel is a mental act. Whether that is judgement without action, or action moved inward ([CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md)), is what the case asks.

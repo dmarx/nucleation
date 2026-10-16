@@ -34,4 +34,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The mere-measurement effect: a judgement, once elicited, changes later behaviour. Evidence that eliciting a judgement changes the judge (TERM-039's open route), on a time scale that fits CLAIM-tmpq9do8's diachronic form. The effect weakens with prior experience, which is what CLAIM-tmpt568z's anchor predicts.
+The mere-measurement effect: a judgement, once elicited, changes later behaviour. Evidence that eliciting a judgement changes the judge ([TERM-039](../terms.d/TERM-039.md)'s open route), on a time scale that fits [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s diachronic form. The effect weakens with prior experience, which is what [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md)'s anchor predicts.

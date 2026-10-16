@@ -37,4 +37,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-For CASE-tmpxgcq2: judgement shown, and answers given, through mental imagery by patients with no detectable voluntary behaviour. It is the strongest evidence the record now holds of judgement running with no action on the world. It still crosses a channel the patient drives, so the case's asymmetry holds.
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): judgement shown, and answers given, through mental imagery by patients with no detectable voluntary behaviour. It is the strongest evidence the record now holds of judgement running with no action on the world. It still crosses a channel the patient drives, so the case's asymmetry holds.

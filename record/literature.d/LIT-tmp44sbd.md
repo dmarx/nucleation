@@ -34,4 +34,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The full statement of LIT-tmp626gh's theory, for CLAIM-tmpq9do8's rivals. Registered so that a reading of perceptual control theory has its source.
+The full statement of [LIT-tmp626gh](LIT-tmp626gh.md)'s theory, for [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s rivals. Registered so that a reading of perceptual control theory has its source.

@@ -37,4 +37,4 @@ A full reading should check the rest.
 
 ## Why this is here
 
-The closest prior art to the owner's wording, and a rival. QBism: "A measurement does not, as the term unfortunately suggests, reveal a pre-existing state of affairs. It is an action on the world by an agent that results in the creation of an outcome — a new experience for that agent. 'Intervention' might be a better term." A measurement that generates its outcome, as U1 has it, but QBism makes that measurement an action on the world. CLAIM-tmpq9do8 has to say why a judgement is not one (its section "Judgement is not action").
+The closest prior art to the owner's wording, and a rival. QBism: "A measurement does not, as the term unfortunately suggests, reveal a pre-existing state of affairs. It is an action on the world by an agent that results in the creation of an outcome — a new experience for that agent. 'Intervention' might be a better term." A measurement that generates its outcome, as U1 has it, but QBism makes that measurement an action on the world. [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) has to say why a judgement is not one (its section "Judgement is not action").

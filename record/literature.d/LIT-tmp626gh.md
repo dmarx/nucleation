@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-Perceptual control theory, the cybernetic account closest to U1's wording. Two points bear on CLAIM-tmpq9do8. Action serves perception, the reverse of active inference's emphasis on sampling. And above the lowest level, a system's output is a reference for another system's perception, not action on the world, so most of the hierarchy is an internal loop. Unlike the thesis, PCT keeps action at the bottom of every loop.
+Perceptual control theory, the cybernetic account closest to U1's wording. Two points bear on [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md). Action serves perception, the reverse of active inference's emphasis on sampling. And above the lowest level, a system's output is a reference for another system's perception, not action on the world, so most of the hierarchy is an internal loop. Unlike the thesis, PCT keeps action at the bottom of every loop.
