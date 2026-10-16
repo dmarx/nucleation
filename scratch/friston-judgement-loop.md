@@ -230,3 +230,123 @@ of 2026-10-16. Earlier mentions are all in readings (NOTE-169, 421, 434,
   distinguish itself from. Perceptual control theory ("behavior is the
   control of perception") is the cybernetic rival closest to the owner's
   wording.
+
+## Thread 1: active inference, beyond the known list
+
+- **NOTE-766** (Linson et al., read; the reading behind THEORY-285). **This
+  undercuts CLAIM-tmpki5gp as filed.** The self-confirming minimum arises
+  *with action available*: "As long as the sensory attenuation policy is
+  selected, no amount of observations will render prior beliefs obsolete"
+  (:58). The policy "withholds the only observations that could lower that
+  precision" (:182). And the attenuated periphery is "sensory or cognitive"
+  (:151). So lock-in is not what happens when action is removed. It is
+  what happens when the loop's own policy, attentional, decides what gets
+  observed. Active inference has the problem CLAIM-tmpki5gp charges the
+  thesis with. **Action:** CLAIM-tmpki5gp should concede that the minimum
+  is a hazard for any loop whose policy selects its own evidence, action
+  or not. What it can still claim is narrower: action is one route by
+  which unsolicited evidence arrives.
+- **NOTE-785** (Brouillet & Friston, read): "Precision is attention"
+  (:63). Felt fluency's cause "is the precision of internal processing,
+  not anything in the world" (:52), "with no body in the loop" (:207). The
+  surprise is then attributed to "the most salient candidate" (:54). This
+  is an active-inference model in which an internal judgement fixes what
+  is observed (familiarity, liking, nearness), with no action. It helps
+  both CLAIM-tmp9cjyo (the loop already exists in FEP terms) and the
+  thesis (the content observed is fixed by the attribution).
+- **NOTE-485** (on LIT-615, concept learning, read): during learning,
+  "reporting policies are disabled, so there is no feedback" (:61-62).
+  Even in active inference, a model is built here without action. But
+  the report, i.e. the judgement, is coded as a policy factor (:52-56).
+  That is exactly CLAIM-tmp9cjyo's bookkeeping.
+- **NOTE-434** (Barrett): "meaning does not trigger action, but results
+  from it" (:122). The record's strongest statement of the opposite order.
+  Its action is visceromotor (allostatic), and that survives locked-in
+  syndrome. **Bears on CASE-tmpxgcq2:** LIS never removes every contingency
+  between intention and outcome, because the body is still regulated.
+  Same point from NOTE-761 / THEORY-291 (allostasis) and QUESTION-059.
+- **NOTE-433** (Frijda et al.): appraisal "generates" readiness, against
+  Barrett's meaning "results from" action (:175). The record holds both
+  orders (CLAIM-275 refuses to choose). The thesis sides with Frijda.
+- **NOTE-421** (Life as we know it): active inference is defined by
+  "feedback (active states change external states)" (:183). For
+  CLAIM-tmpki5gp: in the canonical text, action is definitional.
+- **NOTE-450 / LIT-598:52-53 / LIT-615:124 / LIT-577:123**: three readings
+  already note that active-inference models presuppose perception and
+  action. The record's standing complaint is that FEP stipulates the
+  diagram. That is the owner's complaint, already made three times in
+  readings and never in the record's own voice.
+- **NOTE-447**: an external intervention has "exactly the same formal
+  properties" as an internal cause. Relocating the blanket is always
+  available, so CLAIM-tmp9cjyo is cheap, and close to unfalsifiable as
+  stated.
+- **THEORY-322** (Haggard): sense of agency draws on prospective signals
+  from action selection, not only outcome comparison. An internal,
+  judgement-like signal that works without outcome feedback.
+- **THEORY-334** (Ballard, block-copying) / **THEORY-360** (Kirsh &
+  Maglio): gaze and epistemic action fetch observations for the judgement.
+  Action as a servant of the judgement loop. Removing it costs
+  computation, not lucidity, which bears on defeater (b).
+- Minor: NOTE-150 (perceptual frames: same input, different objects),
+  NOTE-169 (Birch's "inverse dark room", abstract only), NOTE-325 (CCUP;
+  weak), NOTE-446 (expected value of control: cognitive control as action
+  without FEP).
+
+## Synthesis
+
+1. **The model already has the loop.** CLAIM-297's circuit (frame →
+   retrieval → interpretation → endorsement → future retrieval policy) is
+   the owner's Judgement ↔ Observation loop written in the operator model,
+   with no action on the world. That is the strongest support for "connects
+   us back to our model", and the first filing missed it.
+2. **The anchor question has a demonstrated answer in the record, and it
+   isn't action.** CLAIM-330: capture needs both arrows of the loop, and
+   scoring operators independently of the dominant interpretation removes
+   it. CLAIM-141: self-consistent solutions always exist, so what anchors a
+   loop is a constraint that fixes marginals. NOTE-766: active inference
+   locks in *with* action, through its own sampling policy. Together:
+   **what keeps a loop honest is evidence whose arrival or scoring does
+   not pass through the interpretation it tests.** Action is one source of
+   such evidence, not a necessary one. That is a better answer to
+   CLAIM-tmpki5gp than A1's, and it is the owner's model's own.
+3. **The strong form needs restating.** "The context generates the
+   interpretation" is the route TERM-039 and CLAIM-127 mark as open, to be
+   settled by sequential designs. For a single agent judging in sequence,
+   the sheaf sense of contextuality (CLAIM-009) cannot apply (THEORY-010).
+   The Spekkens sense can (QUESTION-067). And the record has no behavioural
+   contextuality yet (CLAIM-325). CLAIM-109 is the earlier statement, and
+   it was demoted.
+4. **Rivals to name.** NOTE-121 (observation and control as one loop,
+   requiring feedback closure through the environment); Di Paolo
+   (discrimination depends on regulating coupling); Barrett (meaning
+   results from action); Ashby (adaptation needs a channel from the
+   essential variables). Allies already in readings: NOTE-450, NOTE-785,
+   NOTE-485.
+5. **Gaps worth filling** (not filed): Owen et al. 2006 and covert
+   command-following; constructed preference / mere measurement; Pattee's
+   epistemic cut; QBism; Powers's perceptual control theory.
+
+## Proposed revisions (not yet made; for the owner)
+
+- CLAIM-tmpq9do8:
+  - rest on CLAIM-297 as well as CLAIM-275;
+  - cite CLAIM-109 as its history;
+  - restate the strong form on the open route of TERM-039 and CLAIM-127,
+    with Spekkens's notion (QUESTION-067) in defeater (a) rather than the
+    sheaf sense;
+  - name sequential designs as the test;
+  - stop citing TERM-039 as support.
+- CLAIM-tmpki5gp: concede, after NOTE-766, that lock-in does not need the
+  absence of action. Restate it as: action is one route for evidence that
+  does not pass through the interpretation.
+- A reply to CLAIM-tmpki5gp grounded on CLAIM-330 and CLAIM-141: the
+  anchor is independent scoring or fixed marginals, not action. Possibly
+  a new thesis claim.
+- CLAIM-tmp9cjyo: add NOTE-785 and NOTE-485 as support. Add NOTE-447's
+  point that relocating the blanket is always available, which makes the
+  counter cheap.
+- CASE-tmpxgcq2:
+  - cite QUESTION-048, THEORY-298 and THEORY-090 for the asymmetry;
+  - cite NOTE-497 for Owen;
+  - add that visceromotor contingency survives LIS (NOTE-434, QUESTION-059);
+  - add CLAIM-287's dormancy reading of CLIS.
