@@ -23,6 +23,8 @@ summary: >-
   interventional critique of those measures ([LIT-005](../literature.d/LIT-005.md)), which the exchange
   did not cite. An answer recovers known boundaries and timescales in
   controlled models and reports where the criteria part.
+answered_by:
+- THEORY-tmp343c3
 ---
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -25,6 +25,12 @@ history:
     tolerance, since averaged and local verdicts can disagree.
     NOTE-814 (LIT-955): one global threshold fits some regions and
     not others.
+- version: 4
+  date: '2026-10-16'
+  note: >-
+    grounds gains THEORY-tmpx1n2e, which states Simon's
+    near-decomposability result that the criterion relies on. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +54,7 @@ rests_on:
 - CLAIM-152
 grounds:
 - LIT-905
+- THEORY-tmpx1n2e
 complements:
 - CLAIM-172
 - CLAIM-167
