@@ -29,6 +29,8 @@ summary: >-
   answer, as a risk.
 ---
 
+<!-- inactive-ok-file: THEORY-tmpgxi0r — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-387: The Self and the Future
 
 ## Contribution
@@ -184,6 +186,8 @@ now holds for the view that what a subject should expect follows the body,
 and so bears on any future THEORY that treats copying or re-instantiating an
 agent as its persistence. It carries no instruction for machine-learning
 practice.
+
+*Note of 2026-10-16:* [THEORY-tmpgxi0r](../theory.d/THEORY-tmpgxi0r.md) now cites [LIT-462](../literature.d/LIT-462.md) as a source.
 
 ## Limitations
 

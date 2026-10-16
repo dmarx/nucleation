@@ -6,7 +6,14 @@ formerly:
 title: A frame can change a judgement by changing which of an interpreter's stored
   distinctions are reachable, without supplying any evidence about what is being
   judged
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounds add THEORY-tmpzar1j, the SDM–attention correspondence filed from
+    LIT-269 in the THEORY backfill, with its local window and fitted
+    temperature. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,6 +36,7 @@ rests_on:
 grounds:
 - LIT-269
 - THEORY-335
+- THEORY-tmpzar1j
 complements:
 - CLAIM-199
 - CLAIM-117

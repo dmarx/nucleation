@@ -30,7 +30,7 @@ summary: >-
   sense each have uses, and Dennett stays with "there are no such things
   as pains, although of course people do feel pain".
 ---
-<!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; the AI essay, whose recorded account is checked here against Stich, not leaned on -->
+<!-- inactive-ok-file: LIT-393 — Unavailable, no lawful full text; the AI essay, whose recorded account is checked here against Stich, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the account this reading may bear on, not leaned on -->
 
 # NOTE-371: Dennett — Reply to Professor Stich

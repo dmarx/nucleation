@@ -36,7 +36,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
-<!-- inactive-ok-file: LIT-917 — Deferred, unread; cited for what it is standardly cited for, and marked unread in the text -->
+<!-- inactive-ok-file: LIT-917 — Unavailable, unread; cited for what it is standardly cited for, and marked unread in the text -->
 
 # CLAIM-184: Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 

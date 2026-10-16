@@ -33,8 +33,6 @@ summary: >-
   variation minus 1 measures the degree of contextuality.
 ---
 
-<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
-<!-- inactive-ok-file: LIT-264 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading bears on it without settling its promote_when -->
 <!-- inactive-ok-file: THEORY-014 — Proposed; this reading adds a third instance of its pattern -->
 

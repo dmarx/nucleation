@@ -29,7 +29,8 @@ summary: >-
   (226 relevant uses of 'disposed to', none ascribing a philosophers'
   disposition to an inanimate object).
 ---
-<!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: THEORY-tmpxey3n — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-125: Dispositions without conditionals
 
@@ -102,6 +103,8 @@ Among held works, the nearest is [LIT-144](../literature.d/LIT-144.md) (Pernu, c
 ## Bearing on the record
 
 It carries nothing for ML practice. There is one conceptual point of contact that the anthology might want by name, not as a practice. Talk of model "capabilities" and "propensities" is dispositional talk. Vetter's distinction bears on how capability claims are evaluated: 'breakable'-type, where one exhibition suffices, versus 'fragile'-type, which needs a sufficient proportion of *varied* circumstances. The distinction and her insistence on variation across external circumstances over raw frequency map onto the difference between "the model can do X" (one elicitation) and "the model reliably does X" (robust across varied prompts). This is an analogy, and the paper does not draw it. No THEORY document is supported or contradicted.
+
+*Note of 2026-10-16:* [THEORY-tmpxey3n](../theory.d/THEORY-tmpxey3n.md) now cites [LIT-109](../literature.d/LIT-109.md) as a source.
 
 ## Limitations
 

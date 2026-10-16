@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    grounds gains THEORY-tmpx1n2e, which states the near-decomposability
+    result (slow, aggregate dynamics between weakly coupled blocks) this
+    claim cites Simon for. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -23,6 +30,7 @@ line:
 - distributed-agency
 grounds:
 - LIT-905
+- THEORY-tmpx1n2e
 - CASE-102
 - CASE-098
 summary: >-

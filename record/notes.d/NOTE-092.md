@@ -41,7 +41,7 @@ summary: >-
   the buttons work (interaction F(1, 423) = 32). In the morally neutral
   Kraemer vignette, intentionality and causation came apart.
 ---
-<!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-092: Quillien — Luck and intentional action
 

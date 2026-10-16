@@ -25,7 +25,7 @@ summary: >-
   C outliers, C(C−2) mini-bulk and a bulk (Theorem 8.1).
 ---
 
-<!-- inactive-ok-file: LIT-354 — Deferred: Watanabe's book is unread; named in the bearing section, with no relation claimed -->
+<!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named in the bearing section, with no relation claimed -->
 
 # NOTE-474: Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra
 

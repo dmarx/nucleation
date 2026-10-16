@@ -60,6 +60,8 @@ answers:
 - QUESTION-054
 supports:
 - CLAIM-283
+rivals:
+- THEORY-tmpy7zr4
 ---
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-067 THEORY-062 THEORY-070 — Proposed; accounts filed since this one, placed against its clause about no regulator above, nothing here rests on them -->

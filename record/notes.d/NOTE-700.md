@@ -34,7 +34,7 @@ summary: >-
   "pluralism without relativism" ranks LoAs only once a purpose is fixed.
 ---
 <!-- inactive-ok-file: LIT-215 — Rejected on its 2026-09-26 close reading: cited for its misreading of LoAs, which this paper contradicts -->
-<!-- inactive-ok-file: LIT-430 LIT-832 — Deferred, unread: named as works this paper cites, not leaned on -->
+<!-- inactive-ok-file: LIT-430 LIT-832 — Unavailable, unread: named as works this paper cites, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what this method would and would not supply for it -->
 <!-- inactive-ok-file: CLAIM-010 CLAIM-110 — Rejected; cited as the history the comparison is about -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; open, and cited to say this reading does not bear on it -->

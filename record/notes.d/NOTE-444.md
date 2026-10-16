@@ -25,7 +25,7 @@ summary: >-
   "second-order" self-maintaining systems.
 ---
 <!-- inactive-ok-file: THEORY-072 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-536 — Deferred, unread; named as the book two of the authors later wrote, not leaned on -->
+<!-- inactive-ok-file: LIT-536 — Unavailable, unread; named as the book two of the authors later wrote, not leaned on -->
 
 # NOTE-444: An Organizational Account of Biological Functions
 

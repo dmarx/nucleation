@@ -40,8 +40,6 @@ summary: >-
   "is it there?" and "can it be reached in time?", and come apart in both directions.
   MOM's table was re-run here and reproduced, and a simulation of the search agrees.
 ---
-<!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
-<!-- inactive-ok-file: CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-385 — Proposed; one set of the authors' own tests, cited as a related case -->
 
 # CLAIM-307: Retrieval pressure and evidence are different criteria for carving a category, and they move in opposite directions with copy count: evidence that a distinction exists grows with its copies, the search a bin saves shrinks with them, so the bins a deadline forces are often the ones the data least supports

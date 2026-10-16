@@ -37,7 +37,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-077 — Proposed; cited as the admissibility condition that would exclude the constant kernel, which the manuscript lacks -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for the Blackwell condition the uniform reading becomes, not as settled -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; cited only for the parallel with CLAIM-011 -->
-<!-- inactive-ok-file: CLAIM-258 CLAIM-230 — Proposed; companion objections from the same audit, cited for their neighbouring points -->
+<!-- inactive-ok-file: CLAIM-258 — Proposed; companion objections from the same audit, cited for their neighbouring points -->
 
 # CLAIM-207: The transports of Propositions 1–2 and of D_obs act on judgement outcomes, not texts, and for any one source–target pair a constant kernel transports any overlap-consistent target, so they constrain a translation only once one kernel family is fixed across many utterances and derived from the text channel
 

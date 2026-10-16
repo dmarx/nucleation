@@ -48,7 +48,7 @@ summary: >-
   undecided between three readings: US consciousness, a challenge to
   materialists, or grounds to distrust universal metaphysics of mind.
 ---
-<!-- inactive-ok-file: LIT-396 NOTE-335 — Putnam's paper, Deferred and only skimmed from an excerpt; cited for the wording of his condition (3) and its 1967 first printing, which the excerpt does show -->
+<!-- inactive-ok-file: LIT-396 NOTE-335 — Putnam's paper, Unavailable and only skimmed from an excerpt; cited for the wording of his condition (3) and its 1967 first printing, which the excerpt does show -->
 
 # NOTE-131: Schwitzgebel — If materialism is true, the US is conscious
 

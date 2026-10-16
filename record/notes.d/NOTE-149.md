@@ -35,6 +35,8 @@ summary: >-
   eliminative OSR untouched.
 ---
 
+<!-- inactive-ok-file: THEORY-034 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-149: Chakravartty — Ontological Priority and non-eliminative OSR
 
 ## Contribution
@@ -100,6 +102,8 @@ Its argument against the graph analogy bears directly on Leitgeb & Ladyman ([LIT
 ## Bearing on the record
 
 It supplies a precise objection that any THEORY or reading in this record endorsing non-eliminative or no-priority OSR must answer. It does not bear on eliminative OSR or on math-first OSR. Nothing here carries over to ML practice or to the Anthology of the SOTA.
+
+*Note of 2026-10-16:* [THEORY-034](../theory.d/THEORY-034.md) now cites [LIT-196](../literature.d/LIT-196.md) as a source.
 
 ## Limitations
 

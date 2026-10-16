@@ -38,6 +38,8 @@ summary: >-
   answered in the author's own voice (§5).
 ---
 
+<!-- inactive-ok-file: THEORY-036 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-038: Structural Realism (Stanford Encyclopedia of Philosophy)
 
 ## Contribution
@@ -129,6 +131,8 @@ The entry's only contact with the GPT/operational-theories programme is its poin
 It carries nothing for ML practice. It holds no instruction, and it has no argument about learned representations (see corrections). A THEORY document that wanted to say "what transfers across model changes is relational structure" could cite §2 for the philosophical form of that claim. It would have to supply the ML argument itself.
 
 For filing: the entry's primary subject is philosophy of science (scientific realism, theory change, the Ramsey-sentence view of theories). `philosophy-of-science` ([ADR-004](../decisions.d/ADR-004.md)) is its primary topic; `metaphysics` fits §4 and §6, and `quantum-foundations` fits §4 theses (2)–(5) and §4.2. `identity` would be justified by thesis (5) and the PII discussion. [LIT-045](../literature.d/LIT-045.md) should not be cited as support for OSR, since it is a survey with an authorial stance. It should be cited for the taxonomy and the Newman result.
+
+*Note of 2026-10-16:* [THEORY-036](../theory.d/THEORY-036.md) now cites [LIT-045](../literature.d/LIT-045.md) as a source.
 
 ## Limitations
 

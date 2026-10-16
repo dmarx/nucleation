@@ -33,15 +33,15 @@ summary: >-
   the more general form. Collective
   intentionality is assumed, not argued for.
 ---
-<!-- inactive-ok-file: LIT-485 — Deferred, no lawful full text; Searle's 1995 book, which this paper restates; nothing here is taken from the book itself -->
-<!-- inactive-ok-file: LIT-490 — Deferred, no lawful full text; Searle's 1990 paper, cited by this paper for collective intentionality and not read -->
-<!-- inactive-ok-file: LIT-391 — Deferred; List & Pettit, named as a contrasting account of corporations, not leaned on -->
+<!-- inactive-ok-file: LIT-485 — Unavailable, no lawful full text; Searle's 1995 book, which this paper restates; nothing here is taken from the book itself -->
+<!-- inactive-ok-file: LIT-490 — Unavailable, no lawful full text; Searle's 1990 paper, cited by this paper for collective intentionality and not read -->
+<!-- inactive-ok-file: LIT-391 — Unavailable; List & Pettit, named as a contrasting account of corporations, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named for an indirect bearing, which this NOTE says is the reader's inference -->
-<!-- inactive-ok-file: LIT-471 — Deferred, no lawful full text; Bratman 1992, named as a rival account, not leaned on -->
-<!-- inactive-ok-file: LIT-476 — Deferred, no lawful full text; Tuomela & Miller, named as a rival account, not leaned on -->
-<!-- inactive-ok-file: LIT-477 — Deferred, no lawful full text; Gilbert 1990, named as a rival account, not leaned on -->
-<!-- inactive-ok-file: LIT-488 — Deferred, no lawful full text of the book; Bratman 2014, named as a rival account; its author's précis is reported there -->
-<!-- inactive-ok-file: LIT-492 — Deferred, no lawful full text; Gilbert's On Social Facts, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-471 — Unavailable, no lawful full text; Bratman 1992, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-476 — Unavailable, no lawful full text; Tuomela & Miller, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-477 — Unavailable, no lawful full text; Gilbert 1990, named as a rival account, not leaned on -->
+<!-- inactive-ok-file: LIT-488 — Unavailable, no lawful full text of the book; Bratman 2014, named as a rival account; its author's précis is reported there -->
+<!-- inactive-ok-file: LIT-492 — Unavailable, no lawful full text; Gilbert's On Social Facts, named as a rival account, not leaned on -->
 
 # NOTE-388: Social ontology: Some basic principles
 

@@ -31,7 +31,7 @@ summary: >-
 supports:
 - CLAIM-188
 ---
-<!-- inactive-ok-file: LIT-354 THEORY-087 THEORY-078 — Deferred and Proposed; named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-354 THEORY-087 THEORY-078 — Proposed or Unavailable; named in Connections, nothing here rests on them -->
 
 # THEORY-082: Steepest descent is defined only relative to a metric, and Amari's proof that natural-gradient learning is Fisher efficient needs the Fisher information at the optimum to be invertible, the condition whose failure WBIC calls singular; in a multilayer perceptron it fails wherever an output weight is zero
 

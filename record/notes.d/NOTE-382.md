@@ -27,7 +27,7 @@ summary: >-
   distribution of roles. Argued by method and scenario; nothing is measured.
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account this reading bears on, not leaned on -->
-<!-- inactive-ok-file: LIT-416 — Deferred; named as the unread paper this reading bears on, not leaned on -->
+<!-- inactive-ok-file: LIT-416 — Unavailable; named as the unread paper this reading bears on, not leaned on -->
 
 # NOTE-382: Shanahan — Simulacra as Conscious Exotica
 

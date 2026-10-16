@@ -25,7 +25,7 @@ summary: >-
   of mechanism would do otherwise in some world with sufficient reason to.
   The result is semicompatibilism.
 ---
-<!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; the later book, named as the successor -->
+<!-- inactive-ok-file: LIT-684 — Unavailable, unread beyond chapter 1; the later book, named as the successor -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; the manipulation account this paper bears on -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account this paper argues against -->
 

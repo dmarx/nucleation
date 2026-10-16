@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -25,6 +25,12 @@ history:
     tolerance, since averaged and local verdicts can disagree.
     NOTE-814 (LIT-955): one global threshold fits some regions and
     not others.
+- version: 4
+  date: '2026-10-16'
+  note: >-
+    grounds gains THEORY-tmpx1n2e, which states Simon's
+    near-decomposability result that the criterion relies on. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +54,7 @@ rests_on:
 - CLAIM-152
 grounds:
 - LIT-905
+- THEORY-tmpx1n2e
 complements:
 - CLAIM-172
 - CLAIM-167
@@ -76,10 +83,10 @@ supports:
 - CLAIM-174
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
-<!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-153 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
+<!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
 <!-- inactive-ok-file: THEORY-257 THEORY-265 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the answered objection, not as standing -->
-<!-- inactive-ok-file: LIT-902 LIT-097 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
+<!-- inactive-ok-file: LIT-902 — cited for the compensation test (unread) and the extended-mind case; not leaned on beyond what is said -->
 
 # CLAIM-157: Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 

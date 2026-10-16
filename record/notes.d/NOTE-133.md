@@ -98,6 +98,8 @@ Among held works, Chakravartty's chapter ([LIT-196](../literature.d/LIT-196.md),
 
 It supports any THEORY-level claim in this record that structuralism about mathematics can accept indiscernible but distinct places. It does not support the corresponding claim for physics: the authors explicitly withhold it. It carries nothing for ML practice, and nothing here belongs in the Anthology of the SOTA.
 
+*Note of 2026-10-16:* [THEORY-032](../theory.d/THEORY-032.md) now cites [LIT-154](../literature.d/LIT-154.md) as a source.
+
 ## Limitations
 
 - The central inference, from what graph theorists do to what places in a structure are, rests on a methodological premise that the authors themselves say cannot be *derived* from practice.

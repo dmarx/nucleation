@@ -29,7 +29,8 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: NOTE-418 — Skimmed; the reading of Cross & Hohenberg, cited only for its statement that defects of broken phase symmetry are established in laboratory systems -->
-<!-- inactive-ok-file: LIT-647 — Deferred, paywalled; named as the companion review, not leaned on -->
+<!-- inactive-ok-file: LIT-647 — Unavailable, paywalled; named as the companion review, not leaned on -->
+<!-- inactive-ok-file: THEORY-088 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-502: Interacting spiral wave patterns underlie complex brain dynamics
 
@@ -178,6 +179,8 @@ traffic, bottom-up or top-down, by re-signing its defects.
 - Bears on [LIT-080](../literature.d/LIT-080.md)'s landscape picture as a rival (C5); no THEORY in the
   record yet states either side.
 - **No ML instruction.** Nothing here belongs in the anthology.
+
+*Note of 2026-10-16:* [THEORY-088](../theory.d/THEORY-088.md) now cites [LIT-638](../literature.d/LIT-638.md) as a source.
 
 ## Limitations
 

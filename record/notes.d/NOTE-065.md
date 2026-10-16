@@ -43,6 +43,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-031 — Proposed; Krauska & Lau, named in Connections as the psycholinguistic arm of the anti-lexicalist case -->
+<!-- inactive-ok-file: THEORY-tmpts7sl — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-065: Bruening 2018, lexicalism: wrong and superfluous
 
@@ -149,6 +150,8 @@ The abstract says the hypothesis is "wrong" and "superfluous" without qualificat
 - **Anthology.** There is no instruction for ML practice here, and nothing belongs in the Anthology of the SOTA.
   - **[ANTH-THEORY-022](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-022.md)** (from [ANTH-LIT-410](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-410.md), Goldberg & Shirtz 2025, *Language* 101(2)) describes the same construction as §2.1: a phrase, up to a whole sentence, in a slot reserved for a word (*an 'I'm not a witch' moment*). [ANTH-THEORY-022](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-022.md) gets from it that the lexical unit is delimited by construction rather than frequency. Bruening supplies the linguistic-theory context: the construction is productive and obeys phrasal syntax internally ((3)). It is not a listed or "lexicalized" unit, contra Bresnan & Mchombo (p. 3). Its contents stay accessible to discourse anaphora ((12)).
   - That is consistent with [ANTH-THEORY-022](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-022.md) and could be cited there as background for "productive, not listed". Bruening says nothing about frequency or comprehension, so it is not evidence for [ANTH-THEORY-022](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-022.md)'s actual claim. Whether Goldberg & Shirtz cite Bruening is unverified.
+
+*Note of 2026-10-16:* [THEORY-tmpts7sl](../theory.d/THEORY-tmpts7sl.md) now cites [LIT-071](../literature.d/LIT-071.md) as a source.
 
 ## Limitations
 

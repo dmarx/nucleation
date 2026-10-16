@@ -28,10 +28,10 @@ summary: >-
   near-independence; Table 2 summarises.
 ---
 
-<!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit's Group Agency, cited by the paper throughout, named as held -->
-<!-- inactive-ok-file: LIT-701 — Deferred, no lawful full text; Gilbert on collective guilt feelings, placed in the taxonomy by the record -->
-<!-- inactive-ok-file: LIT-697 — Deferred, no lawful full text; Schmid's corporate emotions, placed in the taxonomy from its abstract -->
-<!-- inactive-ok-file: LIT-492 LIT-490 — Deferred, unread; Gilbert's and Searle's accounts, discussed in §3.4 -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; List & Pettit's Group Agency, cited by the paper throughout, named as held -->
+<!-- inactive-ok-file: LIT-701 — Unavailable, no lawful full text; Gilbert on collective guilt feelings, placed in the taxonomy by the record -->
+<!-- inactive-ok-file: LIT-697 — Unavailable, no lawful full text; Schmid's corporate emotions, placed in the taxonomy from its abstract -->
+<!-- inactive-ok-file: LIT-492 LIT-490 — Unavailable, unread; Gilbert's and Searle's accounts, discussed in §3.4 -->
 
 # NOTE-554: List — Three kinds of collective attitudes
 

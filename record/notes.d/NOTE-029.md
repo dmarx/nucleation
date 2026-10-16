@@ -37,7 +37,8 @@ summary: >-
   and no implementation.
 ---
 
-<!-- inactive-ok-file: LIT-031 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-031 — Proposed: the paper this reading placed -->
+<!-- inactive-ok-file: THEORY-tmpn6aoc — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-029: Krauska & Lau 2023, moving away from lexicalism
 
@@ -159,6 +160,8 @@ The abstract says the non-lexicalist model "provides better cross-linguistic cov
 - **Anthology.** There is no instruction for ML practice, and nothing belongs in the Anthology of the SOTA. Some parallels, all extrapolation and not the paper's claims:
   - The model's syntax→form mapping is "probabilistic" and "sensitive to linear transition probabilities". Its storage of frequent units of any size, crossing word boundaries, resembles how learned subword and multiword vocabularies behave. The paper says nothing about ML or tokenization. Its one computational pointer is Krauska & Feldman (2022), an RNN model of the aphasic regular/irregular dissociation, cited only for the frequency/predictability explanation.
   - [ANTH-THEORY-021](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-021.md) (a model's latent units are not its tokenizer's) and [ANTH-THEORY-022](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/theory.d/THEORY-022.md) (a phrase in a word slot is read as a lemma, from [ANTH-LIT-410](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-410.md)) touch the same "unit of storage is not the orthographic word" theme. This paper is not evidence for either.
+
+*Note of 2026-10-16:* [THEORY-tmpn6aoc](../theory.d/THEORY-tmpn6aoc.md) now cites [LIT-031](../literature.d/LIT-031.md) as a source.
 
 ## Limitations
 

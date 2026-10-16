@@ -40,7 +40,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-091 CLAIM-074 CLAIM-034 — Proposed; the compensation, interpreter and adaptive-translation claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-125 CLAIM-128 — Proposed; the theses that rest on CLAIM-050, the open problem beside this one and the profile claim, cited as open -->
 <!-- inactive-ok-file: THEORY-156 THEORY-161 — Proposed; cited as the readings of Blackwell and of the decision bound, not as settled -->
-<!-- inactive-ok-file: LIT-778 — Deferred; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
+<!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named as where the quantitative question lies and not leaned on -->
 <!-- inactive-ok-file: CLAIM-212 CLAIM-259 — Proposed; the record's reply to this objection and the directed decision term, cited as open -->
 
 # CLAIM-258: Blackwell's order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent

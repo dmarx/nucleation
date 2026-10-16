@@ -32,7 +32,7 @@ summary: >-
 supports:
 - CLAIM-025
 ---
-<!-- inactive-ok-file: LIT-739 — Deferred, unread; the 1977 article, named as unread -->
+<!-- inactive-ok-file: LIT-739 — Unavailable, unread; the 1977 article, named as unread -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for a contrast -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; Longino, named for a contrast -->
 

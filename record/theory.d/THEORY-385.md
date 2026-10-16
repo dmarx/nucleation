@@ -31,7 +31,6 @@ summary: >-
   high-dimensional data. These are the authors' benchmarks: one clustered
   dataset, synthetic, with no independent replication in this reading.
 ---
-<!-- inactive-ok-file: LIT-1098 — new filing, the source of this account -->
 
 # THEORY-385: In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data
 

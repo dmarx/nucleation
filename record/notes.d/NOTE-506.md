@@ -25,7 +25,7 @@ summary: >-
   not require our kind of processing, only processing that is not of the
   most elementary sort.
 ---
-<!-- inactive-ok-file: LIT-419 — Deferred: Lycan's paper is unread; cited only for Block's own report of it -->
+<!-- inactive-ok-file: LIT-419 — Unavailable: Lycan's paper is unread; cited only for Block's own report of it -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account this bears on, no relation claimed -->
 
 # NOTE-506: Block — Psychologism and Behaviorism

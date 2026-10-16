@@ -27,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-043 — Proposed; named for the premise this reading narrows, no relation claimed -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed: cited only as where Putnam's excerpt is read -->
-<!-- inactive-ok-file: LIT-396 — Deferred: Putnam's paper is held only through a reprint excerpt; named as FSIT's source as this paper cites it -->
+<!-- inactive-ok-file: LIT-396 — Unavailable: Putnam's paper is held only through a reprint excerpt; named as FSIT's source as this paper cites it -->
 
 # NOTE-491: Block & Fodor — What Psychological States are Not
 

@@ -36,7 +36,8 @@ summary: >-
   his own lab, on WEIRD children versus chimpanzees; the paper runs no new
   experiment.
 ---
-<!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-117 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: THEORY-tmpc6rib — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-185: The moral psychology of obligation
 
@@ -105,6 +106,8 @@ Among the commentaries, Bratman (e62) and Pettit (e81) give the strongest philos
 It supports no THEORY document in this record and contradicts none. With [LIT-117](../literature.d/LIT-117.md) it could anchor a future theory note on whether normativity can be grounded in (plural) agency. Tomasello is the naturalist, "sense-of" side; Enoch and Darwall mark why that does not settle the normative question.
 
 For ML practice it carries nothing actionable. The dossier's suggestion that it bears on "whether obligation could arise in artificial collaborators" is the reader's extrapolation. The paper's criteria are useful for framing such a question (joint commitment, protest and leave-taking, equality over generosity, and guilt as "we"-evaluation), but the paper makes no claim about machines. Nothing belongs in the Anthology.
+
+*Note of 2026-10-16:* [THEORY-tmpc6rib](../theory.d/THEORY-tmpc6rib.md) now cites [LIT-125](../literature.d/LIT-125.md) as a source.
 
 ## Limitations
 

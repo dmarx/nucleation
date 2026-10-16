@@ -48,7 +48,7 @@ summary: >-
   is an informal argument layered on others' technical results; the paper
   proves nothing itself.
 ---
-<!-- inactive-ok-file: LIT-180 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-180 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag, not leaned on -->
 
 # NOTE-162: French — Unitary inequivalence and structural realism
 

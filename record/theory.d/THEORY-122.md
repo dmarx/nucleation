@@ -52,8 +52,8 @@ answers:
 - QUESTION-068
 ---
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on JoJo -->
-<!-- inactive-ok-file: LIT-690 LIT-685 LIT-688 — Deferred, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
-<!-- inactive-ok-file: THEORY-118 THEORY-121 — Proposed; the asymmetry and Fischer and Ravizza's account, filed in the same batch -->
+<!-- inactive-ok-file: LIT-690 LIT-685 LIT-688 — Unavailable, unread; Wolf's own works, named as sources because the account is theirs, and nothing is quoted from them -->
+<!-- inactive-ok-file: THEORY-118 — Proposed; the asymmetry and Fischer and Ravizza's account, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-054 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-122: Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply

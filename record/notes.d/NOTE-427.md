@@ -30,7 +30,7 @@ summary: >-
   instability if d√(μ′/ν′)/√(−bc) − a√(ν′/μ′)/√(−bc) > 2 (9.4b). These
   cannot both hold when μ′ = ν′. A computed 20-cell ring gives three lobes.
 ---
-<!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, named as where the Brusselator's Turing bifurcation is worked out, not leaned on -->
+<!-- inactive-ok-file: LIT-524 — Unavailable, no lawful full text; Nicolis & Prigogine, named as where the Brusselator's Turing bifurcation is worked out, not leaned on -->
 
 # NOTE-427: The Chemical Basis of Morphogenesis
 

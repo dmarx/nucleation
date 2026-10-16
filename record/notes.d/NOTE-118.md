@@ -39,7 +39,7 @@ summary: >-
   theories. A parameterized "geometric time", such as CMC, restores change
   and, in the CMC case, a time-dependent Hamiltonian flow.
 ---
-<!-- inactive-ok-file: LIT-180 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-180 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-118: Belot — Time and change in mechanics
 

@@ -37,6 +37,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-001 — Rejected; named in Connections only to say no specific link holds -->
+<!-- inactive-ok-file: THEORY-010 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-044: Grangier & Auffèves, What is quantum in quantum randomness?
 
@@ -119,6 +120,8 @@ In CSM, quantum randomness is not ignorance of a hidden state. It is what happen
 - The nucleation record has no THEORY documents yet (theory.d holds only the README stub). This paper would not support one alone: its one argued claim (C1) is informal and N = 2 only, and its main claim (C3) is cited. Any THEORY on "Born-rule probabilities from continuity of context" should source Auffèves & Grangier 2017 (arXiv:1610.06164) after that is read. It should not cite this paper.
 - [LIT-077](../literature.d/LIT-077.md)'s summary says adding the continuity condition "yields Born-rule, unistochastic probabilities". That is what the paper *asserts*, with the proof elsewhere. The summary should say the derivation is cited, not given.
 - **ML practice: nothing for the Anthology of the SOTA.** The paper contains no method, model or experiment bearing on machine learning. The tag `probabilistic-modeling` on [LIT-077](../literature.d/LIT-077.md) reflects the subject ("randomness"), not any modelling content.
+
+*Note of 2026-10-16:* [THEORY-010](../theory.d/THEORY-010.md) now cites [LIT-077](../literature.d/LIT-077.md) as a source.
 
 ## Limitations
 

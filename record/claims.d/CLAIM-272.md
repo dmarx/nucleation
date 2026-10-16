@@ -38,7 +38,7 @@ summary: >-
   qualifies [CLAIM-285](CLAIM-285.md): the budget constrains moves, and endorsement
   moves authority. It does not say the inequality is illegitimate.
 ---
-<!-- inactive-ok-file: CLAIM-285 LIT-1037 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-272: Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority
 

@@ -36,7 +36,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-026 THEORY-043 — Proposed; named as the accounts this reading is placed against, not as support -->
 
-<!-- inactive-ok-file: LIT-530 — Deferred: Schrödinger is unread; named because the paper takes its epigraph and question from it, not leaned on -->
+<!-- inactive-ok-file: LIT-530 — Unavailable: Schrödinger is unread; named because the paper takes its epigraph and question from it, not leaned on -->
 
 # NOTE-421: Life as we know it
 

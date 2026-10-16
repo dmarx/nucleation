@@ -35,6 +35,8 @@ summary: >-
   only partial dependence symmetric.
 ---
 
+<!-- inactive-ok-file: THEORY-034 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-095: Morganti — From OSR to metaphysical coherentism
 
 ## Contribution
@@ -98,6 +100,8 @@ Metaphysics: the work defends a thesis about the global form of fundamentality (
 ## Bearing on the record
 
 It carries nothing for ML practice. In this record it is the anchor for a dependence and grounding reading of structuralism, and a natural source for any THEORY-level entry comparing relation-first OSR ([LIT-045](../literature.d/LIT-045.md), [LIT-184](../literature.d/LIT-184.md)), informational SR ([LIT-152](../literature.d/LIT-152.md)) and object-based coherentism. Where the record cites this paper for "symmetric dependence", it should say *partial* dependence.
+
+*Note of 2026-10-16:* [THEORY-034](../theory.d/THEORY-034.md) now cites [LIT-173](../literature.d/LIT-173.md) as a source.
 
 ## Limitations
 

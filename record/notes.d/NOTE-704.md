@@ -32,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-160 CLAIM-163 CLAIM-172 — Proposed; claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-056 THEORY-067 — Proposed; readings named as sharing the no-governor architecture -->
-<!-- inactive-ok-file: LIT-902 LIT-908 — Deferred, unread; named as related works, not leaned on -->
+<!-- inactive-ok-file: LIT-902 LIT-908 — Unavailable, unread; named as related works, not leaned on -->
 
 # NOTE-704: Simon — The Architecture of Complexity
 

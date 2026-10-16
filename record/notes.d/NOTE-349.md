@@ -31,7 +31,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed: named as the account this reading bears on, not as support -->
 <!-- inactive-ok-file: THEORY-043 — Proposed: named as the account this reading bears on, not as support -->
-<!-- inactive-ok-file: LIT-413 — Deferred: the anthology that reprints this paper; named, not leaned on -->
 
 # NOTE-349: Searle — Minds, brains, and programs
 

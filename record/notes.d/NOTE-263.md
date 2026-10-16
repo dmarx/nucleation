@@ -47,6 +47,8 @@ summary: >-
   and desire-fulfilment (pp. 199–200).
 ---
 
+<!-- inactive-ok-file: THEORY-025 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-263: The Possibility of Social Choice
 
 ## Contribution
@@ -136,6 +138,8 @@ What the lecture argues, by section (pages are the Nobel volume's).
 - **No THEORY bears on it.** If the record files a THEORY on the informational basis of social evaluation, this lecture is the natural secondary source. The primary sources would be Sen 1970a and 1977c, which are not held. It should not be cited as a proof of C2–C4.
 - **No ML-practice content.** Social choice with interpersonal comparisons has a distant analogue in aggregating human preferences for model alignment, but the lecture says nothing about it, and nothing here should be carried to the Anthology.
 - **For filing.** `society-and-governance` first (social choice, democracy, famine, poverty policy), then `social-science` (welfare economics, poverty measurement) and `ethics` (interpersonal comparison, liberty). `mathematics` is not proposed, because the lecture contains no formal statement or proof.
+
+*Note of 2026-10-16:* [THEORY-025](../theory.d/THEORY-025.md) and [THEORY-027](../theory.d/THEORY-027.md) now cite [LIT-282](../literature.d/LIT-282.md) as a source.
 
 ## Limitations
 

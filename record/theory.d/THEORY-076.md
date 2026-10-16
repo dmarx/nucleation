@@ -53,7 +53,7 @@ answers:
 - QUESTION-034
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; the rival account, declared -->
-<!-- inactive-ok-file: LIT-488 LIT-596 — Deferred; Shared Agency and "Three Theories of Self-Governance", the works this model presupposes, named and not leaned on -->
+<!-- inactive-ok-file: LIT-488 LIT-596 — Unavailable; Shared Agency and "Three Theories of Self-Governance", the works this model presupposes, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-065 THEORY-060 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-076: Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining

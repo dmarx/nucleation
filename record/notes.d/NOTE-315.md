@@ -161,6 +161,8 @@ The method is measure-theoretic and Neyman–Pearson in style. Part I compares a
 - **No THEORY in the record bears on this.** It carries no instruction for ML practice. The one ML-adjacent thread is that ROC analysis and threshold choice by payoff (Eq. 1.6) are the origin of ROC/AUC evaluation. The anthology has no LIT for this work, and the report is a historical source rather than a practice source, so no dual holding is proposed.
 - **For filing.** `information-theory` first: Trans. IRE PGIT, radar and communication detection, and the Woodward–Davies information framing. `probabilistic-modeling` covers likelihood-ratio tests and Gaussian noise models. `mathematics` covers the measure-theoretic proofs in Part I and App. B–C. `cognition` is justified only as SDT's topic home, since browsers of signal detection theory would expect its founding source; the report itself has no human observer, so drop `cognition` if the record reads tags strictly as the document's own subject.
 
+*Note of 2026-10-16:* [THEORY-031](../theory.d/THEORY-031.md) now cites [LIT-364](../literature.d/LIT-364.md) as a source.
+
 ## Limitations
 
 - **Scan quality.** Several Part II pages, and the Part I errata sheet, are partly illegible. Part II §4.4–4.9 and Appendices D–F were skimmed, not verified equation by equation. Hence `note_status: Skimmed`.

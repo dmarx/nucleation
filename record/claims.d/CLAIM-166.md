@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpkdc9t
 title: 'A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    THEORY-tmpjwqva now states, from LIT-915, what this claim relied on
+    for affect: the routes and the causal effects in rodents, and the
+    modest, partly null human evidence. It is added to the grounds. The
+    claim is unchanged.
+
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -28,6 +37,7 @@ grounds:
 - LIT-903
 - LIT-915
 - CASE-047
+- THEORY-tmpjwqva
 complements:
 - CLAIM-316
 summary: >-
@@ -42,6 +52,7 @@ summary: >-
 illustrated_by:
 - CASE-047
 ---
+<!-- inactive-ok-file: THEORY-tmpjwqva — Proposed; the account of the gut–brain evidence this claim relied on, added to its grounds -->
 <!-- ref::uses-file: TERM-045 — stated in "self, and which sense"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-159 — Proposed; the will-line claims that give non-constancy its home, open -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading through which microbial influence reaches experience, untested -->

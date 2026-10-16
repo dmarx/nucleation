@@ -30,11 +30,11 @@ summary: >-
   text has editing slips and reference gaps.
 ---
 <!-- inactive-ok-file: THEORY-050 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
-<!-- inactive-ok-file: LIT-467 — Deferred, no lawful full text; named as the book this article summarises, not leaned on -->
+<!-- inactive-ok-file: LIT-467 — Unavailable, no lawful full text; named as the book this article summarises, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question the article bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the bridge this reading bears on, not leaned on -->
-<!-- inactive-ok-file: LIT-387 — Deferred; named as Damasio's account of consciousness as feeling, compared from its summary only -->
-<!-- inactive-ok-file: LIT-463 — Deferred, no lawful full text; named as the phenomenological reply to no-self views, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Unavailable; named as Damasio's account of consciousness as feeling, compared from its summary only -->
+<!-- inactive-ok-file: LIT-463 — Unavailable, no lawful full text; named as the phenomenological reply to no-self views, not leaned on -->
 
 # NOTE-372: Self models
 
@@ -237,8 +237,7 @@ There are no formal results. The article's claims, by section:
   Metzinger's terms; the article says nothing about learned models
   generally, and nothing here belongs in the anthology.
 - ACT's cognitive fusion is read as a thought functioning transparently,
-  and defusion as making it opaque, in [THEORY-050](../theory.d/THEORY-050.md) and THEORY-
-  tmp0b06z. The mapping is the record's; neither source cites the other.
+  and defusion as making it opaque, in [THEORY-050](../theory.d/THEORY-050.md) and [THEORY-044](../theory.d/THEORY-044.md). The mapping is the record's; neither source cites the other.
 
 ## Limitations
 

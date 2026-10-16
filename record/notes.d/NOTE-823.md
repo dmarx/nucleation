@@ -38,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; read only in part, no full lawful copy reached, filed with this skim on 2026-10-14; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-316 — Proposed; the account filed from this reading -->
-<!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-121 — Proposed; the accounts this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-040 THEORY-119 — Proposed; the accounts this reading bears on, open -->
 
 # NOTE-823: Pereboom — Living without Free Will
 

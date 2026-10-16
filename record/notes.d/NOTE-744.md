@@ -29,8 +29,8 @@ summary: >-
   names the question of manipulation without intent, including by a
   selecting algorithm, as open and lists five possible answers.
 ---
-<!-- inactive-ok-file: QUESTION-070 QUESTION-071 THEORY-040 THEORY-139 THEORY-047 THEORY-121 CLAIM-016 CLAIM-022 CLAIM-030 — Open, Proposed or Deferred; the questions and claims this reading bears on, named and not leaned on -->
-<!-- inactive-ok-file: LIT-1002 LIT-1003 LIT-1006 — Deferred, unread or read in the same batch; named as related analyses -->
+<!-- inactive-ok-file: QUESTION-070 QUESTION-071 THEORY-040 THEORY-139 THEORY-047 CLAIM-016 — Open, Proposed or Deferred; the questions and claims this reading bears on, named and not leaned on -->
+<!-- inactive-ok-file: LIT-1003 LIT-1006 — Unavailable, unread or read in the same batch; named as related analyses -->
 
 # NOTE-744: Noggle — The Ethics of Manipulation
 

@@ -32,7 +32,7 @@ summary: >-
   reward.
 ---
 <!-- inactive-ok-file: THEORY-067 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-583 THEORY-029 THEORY-047 THEORY-049 THEORY-054 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
+<!-- inactive-ok-file: LIT-583 THEORY-029 THEORY-047 THEORY-049 THEORY-054 THEORY-056 — Proposed theories and Unavailable works, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-443: Précis of Breakdown of Will
 

@@ -26,7 +26,7 @@ summary: >-
   general answer to which self is authentic. It estimates the stakes at
   "on the order of a trillion dollars" for the current population.
 ---
-<!-- inactive-ok-file: LIT-573 THEORY-029 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
+<!-- inactive-ok-file: LIT-573 THEORY-029 THEORY-056 — Proposed theories and Unavailable works, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-452: The Intimate Contest for Self-Command
 

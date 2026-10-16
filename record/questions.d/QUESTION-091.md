@@ -22,7 +22,7 @@ summary: >-
 answered_by:
 - THEORY-215
 ---
-<!-- inactive-ok-file: CLAIM-163 LIT-1036 LIT-1028 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-163 LIT-1036 LIT-1028 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-091: Does the allocation of influence among an organization's processes regulate how far cascades of activity propagate, holding different subsystems at different distances from criticality, as a branching ratio would show?
 

@@ -29,7 +29,7 @@ summary: >-
 answers:
 - QUESTION-041
 ---
-<!-- inactive-ok-file: LIT-748 — Deferred, unread; the 1970 book this essay extends -->
+<!-- inactive-ok-file: LIT-748 — Unavailable, unread; the 1970 book this essay extends -->
 <!-- inactive-ok-file: THEORY-140 — Proposed; the CAIB account, named for comparison -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
 

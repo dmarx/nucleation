@@ -32,7 +32,7 @@ summary: >-
   sometimes attributed to it.
 ---
 <!-- inactive-ok-file: CLAIM-180 — Proposed; open, and cited as open: a thesis of the nucleating-argument line under test -->
-<!-- inactive-ok-file: LIT-928 — Deferred, unread; Kanerva's book, named as where the critical distance is derived, not leaned on -->
+<!-- inactive-ok-file: LIT-928 — Unavailable, unread; Kanerva's book, named as where the critical distance is derived, not leaned on -->
 
 # THEORY-261: In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length
 

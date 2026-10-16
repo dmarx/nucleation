@@ -29,7 +29,6 @@ supports:
 - CLAIM-311
 - CLAIM-312
 ---
-<!-- inactive-ok-file: LIT-1108 — Unavailable or unread; Fagin's Algorithm's bound, cited as this paper reports it -->
 
 # THEORY-363: For finding the top k objects under a monotone combining function from m lists each sorted by one attribute, with sorted and random accesses the only costs, the threshold algorithm is correct and on every database costs at most a constant times what any correct algorithm that makes no wild guesses costs; the constant is m + m(m−1)c_R/c_S, no deterministic algorithm does better when the function is strict, and once wild guesses are allowed no algorithm has such a guarantee on databases with ties
 

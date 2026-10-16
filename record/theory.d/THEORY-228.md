@@ -36,7 +36,7 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-005 THEORY-007 THEORY-009 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
+<!-- inactive-ok-file: THEORY-005 THEORY-009 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
 # THEORY-228: At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph
 

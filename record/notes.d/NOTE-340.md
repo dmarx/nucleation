@@ -32,8 +32,8 @@ summary: >-
   agents have only derivative rights.
 ---
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
-<!-- inactive-ok-file: LIT-391 — Deferred, paywalled; List & Pettit's Group Agency, named for the group-agency premise it is the standard source of, not leaned on -->
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; Minsky's The Society of Mind, named as the decomposition-side account, not leaned on -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, paywalled; List & Pettit's Group Agency, named for the group-agency premise it is the standard source of, not leaned on -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; Minsky's The Society of Mind, named as the decomposition-side account, not leaned on -->
 
 # NOTE-340: List — What is it like to be a group agent?
 

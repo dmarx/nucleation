@@ -30,7 +30,7 @@ summary: >-
   into abstraction; learning needs a third, goal-holding net. A programme
   statement: no simulation, and the P→K link is left unspecified.
 ---
-<!-- inactive-ok-file: LIT-385 — Deferred; Damasio's retroactivation proposal, named as a parallel the reader drew, not leaned on -->
+<!-- inactive-ok-file: LIT-385 — Unavailable; Damasio's retroactivation proposal, named as a parallel the reader drew, not leaned on -->
 
 # NOTE-352: K-Lines: A Theory of Memory
 

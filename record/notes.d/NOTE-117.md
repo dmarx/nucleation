@@ -36,9 +36,9 @@ summary: >-
   identify S with the belief and so to be a realist rather than a
   fictionalist.
 ---
-<!-- inactive-ok-file: LIT-148 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-128 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-144 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-148 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-128 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 <!-- inactive-ok-file: THEORY-089 — Proposed; named as where the record now states the two-factor reply -->
 
 # NOTE-117: Drayson — What motivates mental fictionalism?

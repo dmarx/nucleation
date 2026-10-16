@@ -27,7 +27,6 @@ summary: >-
   same declarative sentence can be either. Argued from linguistic evidence,
   not tested.
 ---
-<!-- inactive-ok-file: LIT-785 LIT-826 LIT-811 — Deferred; unread here, named as the works this paper builds on and not leaned on -->
 <!-- inactive-ok-file: THEORY-162 — Proposed; filed from this reading with two others -->
 <!-- inactive-ok-file: CLAIM-054 CLAIM-061 CLAIM-014 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

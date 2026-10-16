@@ -33,7 +33,7 @@ summary: >-
   fitness has the same equilibrium.
 ---
 
-<!-- inactive-ok-file: LIT-768 — Deferred, no lawful full text; named as the ancestor of the method, not leaned on -->
+<!-- inactive-ok-file: LIT-768 — Unavailable, no lawful full text; named as the ancestor of the method, not leaned on -->
 <!-- inactive-ok-file: THEORY-155 — Proposed; the account this reading produced or bears on -->
 
 # NOTE-599: Language Evolution by Iterated Learning With Bayesian Agents

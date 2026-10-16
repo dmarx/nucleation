@@ -44,7 +44,7 @@ summary: >-
   inverse categories with a definition of univalent (∞,1)-category.
 ---
 
-<!-- inactive-ok-file: LIT-040 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-040 — Superseded by LIT-095: the page is placed by this reading, which recommends citing the paper instead -->
 
 # NOTE-047: nLab, two-level type theory
 

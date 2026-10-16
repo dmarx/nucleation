@@ -49,7 +49,7 @@ presupposed_by:
 answers:
 - QUESTION-045
 ---
-<!-- inactive-ok-file: LIT-543 LIT-551 LIT-549 — Deferred; the 2024 meta-analysis, the 1996 avoidance paper and the RFT book, named as unread sources of the model or tests of it, none leaned on -->
+<!-- inactive-ok-file: LIT-543 LIT-551 LIT-549 — Unavailable; the 2024 meta-analysis, the 1996 avoidance paper and the RFT book, named as unread sources of the model or tests of it, none leaned on -->
 <!-- inactive-ok-file: THEORY-058 THEORY-048 THEORY-044 — Proposed; the loop account, the implementation account and the account of the self, named as neighbours -->
 
 # THEORY-050: Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology

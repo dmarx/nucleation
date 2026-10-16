@@ -28,7 +28,7 @@ summary: >-
   that self-narration risks falsification. The argument is testimony and
   distinction-drawing; the empirical claims are asserted.
 ---
-<!-- inactive-ok-file: LIT-468 — Deferred, no lawful full text; quoted only through this paper -->
+<!-- inactive-ok-file: LIT-468 — Unavailable, no lawful full text; quoted only through this paper -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the question the paper does not bear on, not leaned on -->
 
 # NOTE-383: Against Narrativity

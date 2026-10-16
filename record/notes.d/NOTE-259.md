@@ -52,6 +52,8 @@ summary: >-
   theory, not a rival version of the approach.
 ---
 
+<!-- inactive-ok-file: THEORY-025 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-259: Wellbeing, Freedom and Social Justice: The Capability Approach Re-Examined
 
 ## Contribution
@@ -219,6 +221,8 @@ She warns: "There is no point in pretending that the capability approach can do 
   - **Status.** Active.
   - **Citing Sen through this book.** Attribute to Robeyns, not to Sen, the definition ("value-neutral" functionings), the A/B/C modules, "hybrid", and the Nussbaum-as-a-theory verdict. Sen's own definition includes the "reason to value" clause, which Robeyns rejects as a general requirement.
 - **No ML-practice content.** The book carries no instruction for machine-learning practice. A reader might ask whether "capabilities" in ML evaluation borrows anything; Robeyns expressly excludes non-person senses of "capabilities" (p. 9 n. 4), so nothing here licenses that link.
+
+*Note of 2026-10-16:* [THEORY-025](../theory.d/THEORY-025.md) now cites [LIT-287](../literature.d/LIT-287.md) as a source.
 
 ## Limitations
 

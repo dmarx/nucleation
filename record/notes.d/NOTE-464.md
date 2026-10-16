@@ -29,10 +29,10 @@ summary: >-
   excludes the toxin case. Argued by cases, not tested.
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-590 — Deferred; Structures of Agency, the collection the cited essays are in -->
-<!-- inactive-ok-file: LIT-593 — Deferred; Bratman 1987, the planning theory this essay presupposes -->
-<!-- inactive-ok-file: LIT-596 — Deferred, unread; Bratman 2004, the essay cited for synchronic self-governance -->
-<!-- inactive-ok-file: LIT-488 — Deferred; Shared Agency, the source of conditions (A)–(E) -->
+<!-- inactive-ok-file: LIT-590 — Unavailable; Structures of Agency, the collection the cited essays are in -->
+<!-- inactive-ok-file: LIT-593 — Unavailable; Bratman 1987, the planning theory this essay presupposes -->
+<!-- inactive-ok-file: LIT-596 — Unavailable, unread; Bratman 2004, the essay cited for synchronic self-governance -->
+<!-- inactive-ok-file: LIT-488 — Unavailable; Shared Agency, the source of conditions (A)–(E) -->
 <!-- inactive-ok-file: THEORY-029 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; named in Bearing on the record -->
 

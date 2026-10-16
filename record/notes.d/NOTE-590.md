@@ -34,9 +34,10 @@ summary: >-
   Barbara Corpus excerpts; no counts are reported.
 ---
 
-<!-- inactive-ok-file: LIT-780 — Deferred, no lawful full text; Goffman's book, named as what the chapter sets aside, not leaned on -->
-<!-- inactive-ok-file: LIT-504 — Deferred; Tomasello, named as a neighbouring account of shared orientation, no relation claimed -->
-<!-- inactive-ok-file: LIT-477 — Deferred; Gilbert, named as a neighbouring account of shared activity, no relation claimed -->
+<!-- inactive-ok-file: LIT-780 — Unavailable, no lawful full text; Goffman's book, named as what the chapter sets aside, not leaned on -->
+<!-- inactive-ok-file: LIT-504 — Unavailable; Tomasello, named as a neighbouring account of shared orientation, no relation claimed -->
+<!-- inactive-ok-file: LIT-477 — Unavailable; Gilbert, named as a neighbouring account of shared activity, no relation claimed -->
+<!-- inactive-ok-file: THEORY-tmpywcsr — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-590: The stance triangle
 
@@ -210,6 +211,8 @@ Together", [LIT-477](../literature.d/LIT-477.md)), both Deferred and unread; the
   and alignment is scalar, covering divergence, not just alignment versus
   disalignment.
 - **No instruction for machine-learning practice.**
+
+*Note of 2026-10-16:* [THEORY-tmpywcsr](../theory.d/THEORY-tmpywcsr.md) now cites [LIT-779](../literature.d/LIT-779.md) as a source.
 
 ## Limitations
 

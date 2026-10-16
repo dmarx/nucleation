@@ -41,8 +41,9 @@ summary: >-
   (p. 201). The 1971 wanton/person taxonomy is gestured at in a single
   phrase and its apparatus is not restated.
 ---
-<!-- inactive-ok-file: LIT-117 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
+<!-- inactive-ok-file: LIT-117 — Unavailable; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-029 THEORY-120 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 
 # NOTE-264: I. Taking Ourselves Seriously; II. Getting It Right
 
@@ -145,6 +146,8 @@ What the lectures argue, in Frankfurt's section order. Page numbers are the prin
 - **First-hand anchor for the late Frankfurt.** This is the record's only text by Frankfurt on the will. It can be cited first-hand for: identification as willing acceptance, including resignation (p. 173); desires as problems rather than reasons (p. 175); free will as volitional unanimity plus wholeheartedness (pp. 177–178); caring as second-order commitment (p. 180); love and volitional necessity (pp. 194–198); and normativity grounded in the will (pp. 190, 201–202). It cannot be cited for the 1971 taxonomy (wanton/person, second-order volitions, effective desire), the 1969 cases, "decisive identification", or 1992 "satisfaction". Those must go through the secondary sources, attributed as such.
 - **No THEORY in the record bears on this.** No ML-practice content. A distant interest is AI "agency" talk: Frankfurt's structural criterion (a system with preferences over its own motivating preferences) is sometimes invoked there, but the lectures say nothing about artificial agents.
 - **For filing.** `agency` first (identification, free will, self-governance). `ethics` (the grounding of morality and practical normativity). `metaphysics` (free will and determinism, p. 178). `identity` is justified by love's necessities defining "what … we most intimately and essentially are" and shaping "personal identities" (p. 196), but in the practical, self-constitution sense, not persistence. `epistemology` is not justified.
+
+*Note of 2026-10-16:* [THEORY-029](../theory.d/THEORY-029.md) and [THEORY-120](../theory.d/THEORY-120.md) now cite [LIT-293](../literature.d/LIT-293.md) as a source.
 
 ## Limitations
 

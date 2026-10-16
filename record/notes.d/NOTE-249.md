@@ -49,6 +49,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-276 — Rejected: the paper this note reads, placed by this reading; the directive lapses when its status changes -->
 <!-- inactive-ok-file: THEORY-017 — Proposed: named only to warn against reading this paper as support for it; the directive lapses when its status changes -->
+<!-- inactive-ok-file: THEORY-024 — Rejected; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-249: Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 
@@ -192,6 +193,8 @@ A conceptual essay. It reads the history of the measurement problem (Kant, Bohr,
   - *Tags proposed.* `quantum-foundations` first. `contextuality` second. `logic` third, for the intuitionistic and multi-valued-logic claims and Birkhoff–von Neumann. `philosophy-of-science` for the Kantian and Bohrian interpretive argument. `mathematics` last, since the formal apparatus is presheaves, sheaves and Čech cohomology, even though it is not used correctly.
   - *Tags not proposed.* `religion` and `metaphysics`: the Jaina section (§9) is about *saptabhaṅgī* as a logic and is one page. `epistemology`: arguable, not chosen.
   - *Status.* Rejected, following [LIT-102](../literature.d/LIT-102.md)'s precedent.
+
+*Note of 2026-10-16:* [THEORY-024](../theory.d/THEORY-024.md) now cites [LIT-276](../literature.d/LIT-276.md) as a source.
 
 ## Limitations
 

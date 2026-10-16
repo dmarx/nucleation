@@ -29,9 +29,9 @@ summary: >-
   versus 0.23% for fast versus slow load 3 responses.
 ---
 
-<!-- inactive-ok-file: LIT-385 — Deferred: Damasio's convergence-zone proposal is unread; named as an analogy, no relation claimed -->
+<!-- inactive-ok-file: LIT-385 — Unavailable: Damasio's convergence-zone proposal is unread; named as an analogy, no relation claimed -->
 <!-- inactive-ok-file: THEORY-063 — Proposed; named as an account this reading bears on only weakly, no support claimed -->
-<!-- inactive-ok-file: LIT-647 — Deferred, paywalled; named for contrast as the traveling-wave review in the same batch -->
+<!-- inactive-ok-file: LIT-647 — Unavailable, paywalled; named for contrast as the traveling-wave review in the same batch -->
 
 # NOTE-494: Cross-region neuron co-firing mediated by ripple oscillations
 

@@ -29,7 +29,7 @@ supports:
 - CLAIM-303
 - CLAIM-314
 ---
-<!-- inactive-ok-file: LIT-1111 LIT-1116 CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
+<!-- inactive-ok-file: CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 
 # THEORY-389: For conjunctive queries and views without comparison predicates, a stored view can be used in an equivalent rewriting of a query exactly when the view's body maps homomorphically into the query's, a minimal rewriting needs no more literals than the query, and deciding whether a rewriting shorter than the query or one using only the views exists is NP-complete in the size of the query and view definitions; with comparisons in both, deciding whether any rewriting uses the views is Π2p-complete
 

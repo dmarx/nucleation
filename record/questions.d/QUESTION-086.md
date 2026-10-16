@@ -20,7 +20,7 @@ summary: >-
   that separates the pair, or an argument that none can short of the
   removal.
 ---
-<!-- inactive-ok-file: CLAIM-194 CLAIM-284 LIT-1030 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-194 CLAIM-284 LIT-1030 THEORY-071 — Proposed or Unavailable; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-086: Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?
 

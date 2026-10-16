@@ -49,7 +49,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-156 CLAIM-162 — Proposed; the two routes that rest on this claim, open -->
 <!-- inactive-ok-file: THEORY-056 THEORY-062 — Proposed; named as the second axis of multiplicity this claim sets aside -->
-<!-- inactive-ok-file: LIT-591 — Deferred; IFS, named as simultaneous parts, not leaned on -->
+<!-- inactive-ok-file: LIT-591 — Unavailable; IFS, named as simultaneous parts, not leaned on -->
 <!-- inactive-ok-file: THEORY-067 — Proposed; the reading this claim is drawn from, with its untested mechanism stated -->
 
 # CLAIM-169: On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon

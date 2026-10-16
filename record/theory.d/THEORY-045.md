@@ -24,7 +24,13 @@ promote_when: >-
   papers read herpes-encephalitis survivors as support), or behaviour
   "consistent with" feeling in animals.
 title: "Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Minsky's dissent is now filed as THEORY-tmpl3tly (LIT-432, NOTE-348)
+    and named as a rival. The account is unchanged.
 tags:
 - emotion-and-affect
 - consciousness
@@ -52,9 +58,12 @@ extended_by:
 - THEORY-093
 answers:
 - QUESTION-059
+rivals:
+- THEORY-tmpl3tly
 ---
-<!-- inactive-ok-file: LIT-386 LIT-387 — Deferred; named as the unread works that would extend this account to consciousness and to machines, not leaned on -->
+<!-- inactive-ok-file: LIT-386 LIT-387 — Unavailable; named as the unread works that would extend this account to consciousness and to machines, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-057 THEORY-055 — Proposed; the account's bearing on them is stated, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpl3tly — Proposed; the rival account of feeling, named as the dissent, not leaned on -->
 
 # THEORY-045: Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
 
@@ -182,6 +191,7 @@ independent lines agree.
   self-models. If he is right, what is felt is the brain's state and not
   the body's, and this account is false. He argues by example and offers
   no data, which is why it stays Proposed and does not count as refuted.
+  His account is now stated as [THEORY-tmpl3tly](THEORY-tmpl3tly.md), a rival of this one.
 - **"Is the experience of" is not an identity claim about phenomenal
   character.** The account says what felt affect is about and what varies
   with it. It does not say why it is felt at all.

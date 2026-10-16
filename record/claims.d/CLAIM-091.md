@@ -33,7 +33,6 @@ objected_by:
 supports:
 - CLAIM-258
 ---
-<!-- inactive-ok-file: CLAIM-061 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-091: A translation can reach pragmatic equivalence by compensating for changed social coordinates with changed linguistic ones, so lexical infidelity can be required for pragmatic fidelity
 

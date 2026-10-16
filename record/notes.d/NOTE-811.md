@@ -29,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 CLAIM-182 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-759 — Unavailable; Grudin, named for the argument ADR-030 summarises him for, not leaned on -->
-<!-- inactive-ok-file: LIT-762 — Deferred, unread; gIBIS, named as the implementation, not leaned on -->
+<!-- inactive-ok-file: LIT-762 — Unavailable, unread; gIBIS, named as the implementation, not leaned on -->
 
 # NOTE-811: Kunz & Rittel — Issues as Elements of Information Systems
 

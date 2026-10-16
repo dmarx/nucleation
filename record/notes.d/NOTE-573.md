@@ -26,7 +26,7 @@ summary: >-
   it, and users' breaking point limits it. Argued from Amazon, Facebook,
   Twitter and TikTok; the remedy is end-to-end and freedom of exit.
 ---
-<!-- inactive-ok-file: LIT-753 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-753 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-150 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # NOTE-573: Tiktok's enshittification

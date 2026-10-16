@@ -23,7 +23,6 @@ used_by:
 superseded_by:
 - TERM-030
 ---
-<!-- inactive-ok-file: TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-031: frame, as a measurement context
 

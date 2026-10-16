@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpqsjch
 paper: LIT-1018
 title: 'Weber & Varela — Life after Kant'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-13'
@@ -23,6 +23,12 @@ history:
     extracted text by script, with whitespace and line-end hyphenation
     normalised. The original's misspellings ("autopoeisis") are not
     corrected in quotation.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    The Connections line on Di Paolo said he had not been read. He was
+    read the same day (NOTE-719); the line now says so and names the two
+    rival THEORYs filed from the readings in the THEORY backfill.
 date: '2026-10-13'
 summary: >-
   An argument, not a model: Kant's natural purposes (§§ 64–65), Jonas's
@@ -35,6 +41,7 @@ summary: >-
   "objective" only relative to the organism, though one passage reaches a
   right to life.
 ---
+<!-- inactive-ok-file: THEORY-tmpx8cpz THEORY-tmprt7jm — Proposed; the rival accounts filed from this reading and Di Paolo's, named in Connections -->
 <!-- inactive-ok-file: CLAIM-194 CLAIM-157 CLAIM-174 — Proposed; the counter this reading was filed for and its targets, open -->
 <!-- inactive-ok-file: THEORY-071 THEORY-072 THEORY-073 — Proposed; the accounts the counter grounds on, named for what this reading adds to them -->
 
@@ -188,8 +195,10 @@ The paper has no theorems. These are its theses, in its order.
   autopoiesis directly, "attraction or rejection", with no further
   condition. A system that only maintains itself or fails has no grades of
   better and worse, and that is the gap the LIT says Di Paolo's adaptivity
-  fills. On this reading, the paper is the target of that correction. Not
-  checked against Di Paolo, who has not been read.
+  fills. On this reading, the paper is the target of that correction.
+  Di Paolo was read the same day in [NOTE-719](NOTE-719.md), and his account of this
+  paper fits this reading; the two accounts are filed as rival THEORYs,
+  [THEORY-tmpx8cpz](../theory.d/THEORY-tmpx8cpz.md) and [THEORY-tmprt7jm](../theory.d/THEORY-tmprt7jm.md).
 - **Barandiaran, Di Paolo & Rohde (2009; [LIT-566](../literature.d/LIT-566.md), read in [NOTE-458](NOTE-458.md)).** Their
   individuality condition, and their use of Jonas's identity "owned by, not
   loaned to its subject", come from this tradition. They separate

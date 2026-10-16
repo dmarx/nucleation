@@ -30,7 +30,6 @@ summary: >-
   systems that are not isomorphs.
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 — Proposed; this entry says how the work bears on those accounts, and does not lean on them -->
-<!-- inactive-ok-file: LIT-441 — Deferred: the book is not lawfully readable online; named as where the argument reappears, not leaned on -->
 
 # NOTE-347: Chalmers — Absent Qualia, Fading Qualia, Dancing Qualia
 

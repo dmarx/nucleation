@@ -24,7 +24,7 @@ summary: >-
   beyond ceilings; managers may favour the response least threatening to
   them.
 ---
-<!-- inactive-ok-file: LIT-748 — Deferred, unread; the 1970 book this essay extends -->
+<!-- inactive-ok-file: LIT-748 — Unavailable, unread; the 1970 book this essay extends -->
 <!-- inactive-ok-file: THEORY-152 — Proposed; filed in this batch -->
 <!-- inactive-ok-file: THEORY-151 — Proposed; Longino, named for a parallel -->
 

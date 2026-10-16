@@ -27,8 +27,8 @@ summary: >-
   schematic examples; closure is not claimed to define organisms.
 ---
 <!-- inactive-ok-file: THEORY-072 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-536 — Deferred, unread; the book whose central claim this paper states, not leaned on -->
-<!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, named only as a reference the paper cites -->
+<!-- inactive-ok-file: LIT-536 — Unavailable, unread; the book whose central claim this paper states, not leaned on -->
+<!-- inactive-ok-file: LIT-524 — Unavailable, no lawful full text; Nicolis & Prigogine, named only as a reference the paper cites -->
 
 # NOTE-468: Biological organisation as closure of constraints
 

@@ -30,7 +30,6 @@ summary: >-
   U30 by the observational-structure thesis of proposal v5 (A81–A83).
 ---
 <!-- inactive-ok-file: CLAIM-026 CLAIM-124 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-065 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-106 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-101: Translation is a context-conditioned transport process that preserves selected structures of communicative meaning to varying degrees while introducing distortions that may accumulate, attenuate or amplify under composition

@@ -34,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-077 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-054 THEORY-047 THEORY-029 THEORY-052 — Proposed; named as the accounts this reading bears on, from the file statuses, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-594 LIT-574 — Deferred, unread; named as related accounts of authenticity, not leaned on -->
+<!-- inactive-ok-file: LIT-594 LIT-574 — Unavailable, unread; named as related accounts of authenticity, not leaned on -->
 
 # NOTE-448: Goal Striving, Need Satisfaction, and Longitudinal Well-Being: The Self-Concordance Model
 

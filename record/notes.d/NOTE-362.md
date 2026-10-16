@@ -40,8 +40,8 @@ summary: >-
   rule against ascribing consciousness where other subjects' states
   explain the behaviour, plus a tu quoque on residual arbitrariness.
 ---
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; Minsky's The Society of Mind, named as the decomposition-side account, not leaned on -->
-<!-- inactive-ok-file: LIT-437 — Deferred, no lawful full text; Hofstadter's GEB, named for the Ant Fugue's colony-as-mind, not leaned on -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; Minsky's The Society of Mind, named as the decomposition-side account, not leaned on -->
+<!-- inactive-ok-file: LIT-437 — Unavailable, no lawful full text; Hofstadter's GEB, named for the Ant Fugue's colony-as-mind, not leaned on -->
 
 # NOTE-362: Kammerer — How a materialist can deny that the US is probably conscious
 

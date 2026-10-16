@@ -29,7 +29,7 @@ supports:
 - CLAIM-191
 ---
 <!-- inactive-ok-file: CLAIM-068 CLAIM-090 — Proposed; the claims this case illustrates, open -->
-<!-- inactive-ok-file: LIT-768 — Deferred; Bartlett, unread here, named as the paradigm the studies follow and not leaned on -->
+<!-- inactive-ok-file: LIT-768 — Unavailable; Bartlett, unread here, named as the paradigm the studies follow and not leaned on -->
 
 # CASE-068: Risk messages passed down diffusion chains: the evaluative signal kept and amplified while the content decays (Moussaïd, Brighton and Gaissmaier; Jagiello and Hills)
 

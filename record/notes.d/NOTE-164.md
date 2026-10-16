@@ -36,7 +36,7 @@ summary: >-
   a widely imitated bodily expression of patriotism. The paper is
   interpretive; it reports no data and states no formal thesis.
 ---
-<!-- inactive-ok-file: LIT-174 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-174 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-164: Kaepernick as Confucian sage: ritual resistance
 

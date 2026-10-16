@@ -43,8 +43,9 @@ summary: >-
   the unconstrained minimal-area problem. The SI says the implemented
   method yields surfaces that are only locally area-minimising (§5).
 ---
+<!-- inactive-ok-file: THEORY-tmpwyqo3 — Proposed; the account now filed from this reading, named in a dated note -->
 
-<!-- inactive-ok-file: LIT-069 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-069 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-075: Surface optimization in physical networks
 
@@ -179,6 +180,8 @@ Any nucleation document that cites it for the following claims would be citing i
 - for trifurcation prevalence as a measured fact independent of analysis choices (C1, C7, C13).
 
 No nucleation THEORY document exists yet to support or contradict. The natural one this could seed is a claim about the scale at which material-cost optimisation stops predicting morphology: local junction geometry versus global layout, the ≈ 25% excess length. It should be seeded only as a conjecture.
+
+*Note of 2026-10-16:* [THEORY-tmpwyqo3](../theory.d/THEORY-tmpwyqo3.md) now states the surface-minimisation account from this reading, as Proposed.
 
 For ML practice: nothing. The paper uses no learning method, and no ANTH- document is warranted.
 

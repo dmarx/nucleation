@@ -32,7 +32,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-051 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 
-<!-- inactive-ok-file: LIT-545 LIT-549 LIT-551 — Deferred, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
+<!-- inactive-ok-file: LIT-545 LIT-549 LIT-551 — Unavailable, no lawful full text; filed in the same batch as seeds and cited as the works this one builds on or answers -->
 
 # NOTE-430: Relational Frame Theory: Some Implications for Understanding and Treating Human Psychopathology
 
@@ -185,8 +185,7 @@ studies, not results the paper establishes.
   experimental evidence it cites would have to be read for status Active.
   See the batch report.
 - **No ML instruction.** Nothing here belongs in the anthology.
-- The three selves are compared with the record's self holdings in THEORY-
-  tmp0b06z. The clinical claim is [THEORY-051](../theory.d/THEORY-051.md).
+- The three selves are compared with the record's self holdings in [THEORY-044](../theory.d/THEORY-044.md). The clinical claim is [THEORY-051](../theory.d/THEORY-051.md).
 
 ## Limitations
 

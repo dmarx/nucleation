@@ -41,9 +41,9 @@ summary: >-
   relational and empathy-based approaches that reject argument from
   capacities altogether (§3).
 ---
-<!-- inactive-ok-file: LIT-126 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-193 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-126 — Rejected since its reading in NOTE-128: a related work named by a 2026-09-26 close reading on the agency tag -->
+<!-- inactive-ok-file: LIT-193 — Proposed since its reading in NOTE-120: a related work named by a 2026-09-26 close reading on the agency tag -->
+<!-- inactive-ok-file: LIT-117 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
 
 # NOTE-181: The Moral Status of Animals (SEP)
 
@@ -105,8 +105,8 @@ What it argues or reports:
 ## Connections
 
 - **[LIT-120](../literature.d/LIT-120.md) (Bruckner, Welfare Subjects and Autopoiesis), read.** It extends the entry's sentience-based considerability down to insentient autopoietic entities, and the entry never discusses plants or machines. Bruckner's §8 schema has the same shape as Wood's move reported in §1.3.1, and he relies on the considerability/weight split of the entry's §2.2. The entry cites Bruckner 2021 in §2.1 on animal autonomy.
-- **[LIT-166](../literature.d/LIT-166.md) (Schwitzgebel et al., review of Birch, Sebo and Keane), Deferred.** It concerns the aggregation worry that §2.1 touches through Sebo 2023 (priority for large numbers of small sentient animals).
-- **[LIT-193](../literature.d/LIT-193.md) (Terrill et al., degrees of moral status for plants), Deferred.** It works in the weight dimension (§2.2) with degrees of sentience.
+- **[LIT-166](../literature.d/LIT-166.md) (Schwitzgebel et al., review of Birch, Sebo and Keane), Deferred when this was written; since read in [NOTE-116](NOTE-116.md).** It concerns the aggregation worry that §2.1 touches through Sebo 2023 (priority for large numbers of small sentient animals).
+- **[LIT-193](../literature.d/LIT-193.md) (Terrill et al., degrees of moral status for plants), Deferred when this was written; since read in [NOTE-120](NOTE-120.md).** It works in the weight dimension (§2.2) with degrees of sentience.
 - **[LIT-126](../literature.d/LIT-126.md) (Vieira), Deferred.** It denies AI moral patienthood on phenomenal-consciousness grounds, consistent with the entry's experiential reading of both sentience and agency.
 - **[LIT-117](../literature.d/LIT-117.md) (Enoch, "Agency, Shmagency"), Deferred.** It is a critique of constitutivist grounding of normativity in agency, the Korsgaardian line the entry uses in §1.3.
 

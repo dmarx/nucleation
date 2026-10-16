@@ -27,8 +27,8 @@ summary: >-
   (1997).
 ---
 
-<!-- inactive-ok-file: LIT-349 — Deferred: Rao 1945 is unread; named as the cited source of the Fisher metric, with no relation claimed -->
-<!-- inactive-ok-file: LIT-354 — Deferred: Watanabe's book is unread; named for the singular-model caveat, with no relation claimed -->
+<!-- inactive-ok-file: LIT-349 — Unavailable: Rao 1945 is unread; named as the cited source of the Fisher metric, with no relation claimed -->
+<!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named for the singular-model caveat, with no relation claimed -->
 
 # NOTE-472: Natural Gradient Works Efficiently in Learning
 

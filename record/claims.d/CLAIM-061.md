@@ -53,13 +53,13 @@ objected_by:
 - CLAIM-227
 - CLAIM-229
 ---
-<!-- inactive-ok-file: LIT-766 — Deferred; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
+<!-- inactive-ok-file: LIT-766 — Unavailable; Hofstadter, unread here, named as the reading the necessity candidate waits on -->
 
 <!-- ref::uses-file: TERM-035 — stated in "frame, as the delivery frame: interpretive, enunciative and performative", the definition current when this claim was written; it has since been superseded -->
 <!-- inactive-ok-file: THEORY-162 — Proposed; context change as part of meaning, cited as support, not as settled -->
 <!-- inactive-ok-file: CLAIM-006 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: LIT-780 LIT-785 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
+<!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
 # CLAIM-061: Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event
 

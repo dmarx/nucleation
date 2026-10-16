@@ -17,7 +17,7 @@ promote_when: >-
   another credence assigned under an assumed theory, cannot settle it,
   because both are conditional on the premise in dispute.
 title: 'Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-03'
@@ -40,6 +40,14 @@ history:
     its Box 3, the measurement problem for creatures, as the general form
     of this account's evidential point, with THEORY-298. The claim is
     unchanged.
+- version: 4
+  date: '2026-10-16'
+  note: >-
+    Chalmers (2023), LIT-411, added to the source, as NOTE-345
+    recommended: it makes the behaviour argument independently and is an
+    instance of the architecture half. A section on what it adds is new,
+    and Connections names the THEORYs filed for it, for Shanahan
+    (LIT-465) and for the meta-problem (LIT-425). The claim is unchanged.
 tags:
 - consciousness
 - philosophy-of-science
@@ -53,6 +61,7 @@ source:
 - LIT-056
 - LIT-639
 - LIT-632
+- LIT-411
 summary: >-
   Birch (2025), [LIT-111](../literature.d/LIT-111.md): behavioural markers are "gamed", and architectural
   markers are "Janus-faced", giving a two-level deadlock. Schwitzgebel
@@ -69,6 +78,7 @@ summary: >-
 answers:
 - QUESTION-048
 ---
+<!-- inactive-ok-file: THEORY-tmp7xef7 THEORY-tmpltl13 THEORY-tmppj0ht — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-298 — Proposed; the account filed from LIT-982, named in Connections and not leaned on -->
 
@@ -82,6 +92,7 @@ answers:
 - Butlin et al. (2023), [LIT-056](../literature.d/LIT-056.md), §§1.2, 2, 3, as read in [NOTE-052](../notes.d/NOTE-052.md).
 - Block (2002), *The Harder Problem of Consciousness*, [LIT-639](../literature.d/LIT-639.md), §§IV–X and XIII, as read in [NOTE-501](../notes.d/NOTE-501.md).
 - Block (2009), *Comparing the Major Theories of Consciousness*, [LIT-632](../literature.d/LIT-632.md), the sections on the workspace, the biological theory and machine consciousness (pp. 1111–1113, 1119), as read in [NOTE-505](../notes.d/NOTE-505.md).
+- Chalmers (2023), *Could a Large Language Model be Conscious?*, [LIT-411](../literature.d/LIT-411.md), §§2–4 and fn 30, as read in [NOTE-345](../notes.d/NOTE-345.md).
 
 ## What was actually shown
 
@@ -152,6 +163,28 @@ the biological theory ("it is hard to avoid the impression that the
 biology of the brain is what matters"), so it is a source for the shape
 of the dispute and not for its answer.
 
+## What Chalmers adds
+
+**Behaviour, independently and earlier.** Chalmers's 2022 talk, [LIT-411](../literature.d/LIT-411.md),
+holds that a model's self-reports are fragile and that it "has learned to
+imitate those claims" from people talking about consciousness, so "the
+evidence is much weaker" (§2). That is the undercutting move of Birch's
+gaming problem and Schwitzgebel's Mimicry Argument, made before either.
+His tenth challenge, a model that describes features of consciousness it
+was not trained on, is a proposal for the training-immune marker this
+account names as a refuter, not an instance of one.
+
+**Architecture, as an instance.** The obstacles that do the work in §3
+(recurrence, a global workspace, unified agency) are theory-derived, and
+building them into extended models is treated as progress. That is the
+functionalist face of the Janus problem. Biology is set aside with a
+reference to earlier work, though it enters the credences at 1/3. The
+resulting figures, under 10% for current models and 25% or more for
+conscious extended models within a decade, are credences under assumed
+theories, which `promote_when` says cannot settle the question. They add
+a fifth position on the prior. The classification of objections as
+temporary is stated as [THEORY-tmp7xef7](THEORY-tmp7xef7.md).
+
 ## What this does not say
 
 - **It does not say AI is or is not conscious, nor which way the prior should lean.** The readings contest exactly this:
@@ -169,6 +202,15 @@ of the dispute and not for its answer.
 - [LIT-185](../literature.d/LIT-185.md): a defence of IIT against the expander-grid objection, which Schwitzgebel cites against IIT's application to AI.
 - [LIT-096](../literature.d/LIT-096.md) (Nagel): the definition of consciousness that Birch and Seth share.
 - [LIT-982](../literature.d/LIT-982.md) (Seth & Bayne, Box 3; [THEORY-298](THEORY-298.md)): the general form of this account's evidential point. For infants, patients, animals and organoids as for AI, what counts as evidence is itself disputed, the measurement problem for creatures.
+
+- [THEORY-tmppj0ht](THEORY-tmppj0ht.md) (Shanahan, [LIT-465](../literature.d/LIT-465.md)) denies this account's presupposition
+  rather than taking a side: if consciousness words mean only what is
+  public, there is no fact beyond an informed consensus, and a disembodied
+  chat agent is not even a candidate.
+- [THEORY-tmpltl13](THEORY-tmpltl13.md) (the meta-problem challenge, [LIT-425](../literature.d/LIT-425.md)) extends the mimicry
+  point to puzzled phenomenal reports, which a simple theorem-prover agent
+  mirrors in part (fn 26), and asks of any theory whose indicators are used
+  that its basis explain the reports.
 
 [THEORY-045](THEORY-045.md) locates this deadlock for affect. On Barrett's
 computational version, a system that predicts and regulates a body would

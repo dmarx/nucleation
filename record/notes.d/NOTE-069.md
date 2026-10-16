@@ -38,7 +38,7 @@ summary: >-
   A.21, A.25), and soundness is not proved in full.
 ---
 
-<!-- inactive-ok-file: LIT-040 — Deferred; the nLab two-level type theory page, named in Connections -->
+<!-- inactive-ok-file: LIT-040 — Superseded by LIT-095; the nLab two-level type theory page, named in Connections -->
 
 # NOTE-069: Riehl & Shulman, type theory for synthetic ∞-categories
 

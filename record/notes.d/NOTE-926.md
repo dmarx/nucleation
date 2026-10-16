@@ -263,6 +263,8 @@ sparse supports. This copy does not cite Baraniuk et al., who came later.
 No THEORY is filed from this reading. It carries no instruction for
 machine-learning practice; its database recipe is practice for databases.
 
+*Note of 2026-10-16:* [THEORY-397](../theory.d/THEORY-397.md) now cites [LIT-1159](../literature.d/LIT-1159.md) as a source.
+
 ## Limitations
 
 - This copy is a pre-publication draft. The JCSS text may differ in

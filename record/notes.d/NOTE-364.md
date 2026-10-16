@@ -35,11 +35,11 @@ summary: >-
   analogy and thought experiment. Its evolutionary account of self-talk is
   speculation, and its evidence is cited.
 ---
-<!-- inactive-ok-file: LIT-423 — Deferred, no lawful full text; named as the neighbouring account of the "I", compared from its description only -->
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the decomposition this essay's selves sit downstream of, not leaned on -->
+<!-- inactive-ok-file: LIT-423 — Unavailable, no lawful full text; named as the neighbouring account of the "I", compared from its description only -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the decomposition this essay's selves sit downstream of, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the bridge this reading bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the open question the essay's robot bears on, not leaned on -->
-<!-- inactive-ok-file: LIT-318 — Deferred; named to separate it from the Ryle book this essay cites, not leaned on -->
+<!-- inactive-ok-file: LIT-318 — Unavailable; named to separate it from the Ryle book this essay cites, not leaned on -->
 
 # NOTE-364: The Self as a Center of Narrative Gravity
 

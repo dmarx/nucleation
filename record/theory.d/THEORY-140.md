@@ -31,7 +31,7 @@ summary: >-
 supports:
 - CLAIM-030
 ---
-<!-- inactive-ok-file: LIT-715 — Deferred, unread; Vaughan's book, which the chapter applies -->
+<!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
 <!-- inactive-ok-file: THEORY-142 — Proposed; March, named for comparison -->

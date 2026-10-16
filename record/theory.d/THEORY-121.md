@@ -70,8 +70,8 @@ answers:
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, cited in a dated note -->
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account, declared this one's rival on the designed addict -->
 <!-- inactive-ok-file: THEORY-119 — Proposed; the Frankfurt-case claim this account extends -->
-<!-- inactive-ok-file: LIT-684 — Deferred, unread beyond chapter 1; Fischer and Ravizza's book, named as a source because the account is theirs; what is quoted comes from the précis -->
-<!-- inactive-ok-file: LIT-688 — Deferred, unread; Wolf's article, named as the source of the rival account -->
+<!-- inactive-ok-file: LIT-684 — Unavailable, unread beyond chapter 1; Fischer and Ravizza's book, named as a source because the account is theirs; what is quoted comes from the précis -->
+<!-- inactive-ok-file: LIT-688 — Unavailable, unread; Wolf's article, named as the source of the rival account -->
 <!-- inactive-ok-file: THEORY-118 THEORY-122 — Proposed; Wolf's asymmetry (the rival) and her Reason View, filed in the same batch -->
 <!-- inactive-ok-file: THEORY-040 THEORY-029 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 

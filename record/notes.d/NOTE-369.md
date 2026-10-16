@@ -24,7 +24,6 @@ summary: >-
   because no twin case for it can be built. The thesis needs only a weak
   parity-style functionalism.
 ---
-<!-- inactive-ok-file: LIT-412 — Deferred: the book this foreword introduces, filed unread in the same batch -->
 <!-- inactive-ok-file: THEORY-043 — Proposed: an account this reading bears on, cited for where it stands, not as settled -->
 
 # NOTE-369: Chalmers — Foreword to Supersizing the Mind

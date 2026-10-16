@@ -37,7 +37,7 @@ summary: >-
   without numbers. The mechanism is argued, not shown, and the paper says
   it is not a theory of prefrontal cortex as a whole.
 ---
-<!-- inactive-ok-file: LIT-385 — Deferred, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
+<!-- inactive-ok-file: LIT-385 — Unavailable, unread for want of a full text; named as the source this work cites for the dispositional, convergence-zone framework, not leaned on -->
 
 # NOTE-332: Damasio — The somatic marker hypothesis and the possible functions of the prefrontal cortex
 

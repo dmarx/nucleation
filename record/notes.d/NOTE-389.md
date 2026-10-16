@@ -29,8 +29,8 @@ summary: >-
   that intuitively exist or figure in explanations keeps arbitrary
   collections out. Motivated, not proved; nothing on agency or minds.
 ---
-<!-- inactive-ok-file: LIT-391 — Deferred, paywalled; List & Pettit's Group Agency, named for which side of Ritchie's distinction its group agents fall on, not leaned on -->
-<!-- inactive-ok-file: LIT-491 — Deferred, no lawful full text; Ásta's Categories We Live By, named because Ritchie reinterprets Ásta's conferralism (from earlier papers), not leaned on -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, paywalled; List & Pettit's Group Agency, named for which side of Ritchie's distinction its group agents fall on, not leaned on -->
+<!-- inactive-ok-file: LIT-491 — Unavailable, no lawful full text; Ásta's Categories We Live By, named because Ritchie reinterprets Ásta's conferralism (from earlier papers), not leaned on -->
 <!-- inactive-ok-file: LIT-188 — Proposed; Griesemer & Shavit, named as a neighbour, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this paper does not move it -->
 

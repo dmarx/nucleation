@@ -28,7 +28,7 @@ summary: >-
   to within logarithmic terms. Some strings of every length are almost all
   structure, and sophistication is not computable.
 ---
-<!-- inactive-ok-file: THEORY-036 LIT-239 — Proposed or Deferred; the real-patterns account this reading bears on, and the structure-function paper it names as its sequel, read in parallel -->
+<!-- inactive-ok-file: THEORY-036 — Proposed or Deferred; the real-patterns account this reading bears on, and the structure-function paper it names as its sequel, read in parallel -->
 
 # NOTE-790: Vitányi — Meaningful Information
 

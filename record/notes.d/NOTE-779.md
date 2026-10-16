@@ -28,7 +28,7 @@ summary: >-
   capacity tends to 1/[Φ⁻¹(φ)]² of the hard locations, about 0.1 at
   fidelity 0.999. An ordinary RAM is the special case of radius zero.
 ---
-<!-- inactive-ok-file: LIT-928 — Deferred, unread; Kanerva's book, named as where the critical distance is derived, not leaned on -->
+<!-- inactive-ok-file: LIT-928 — Unavailable, unread; Kanerva's book, named as where the critical distance is derived, not leaned on -->
 <!-- inactive-ok-file: CLAIM-180 CLAIM-182 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
 
 # NOTE-779: Kanerva — Sparse Distributed Memory and Related Models

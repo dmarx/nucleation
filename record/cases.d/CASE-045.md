@@ -39,7 +39,7 @@ summary: >-
   the dance and not after, whether it compensates under a perturbation,
   and whether the coupling runs both ways.
 ---
-<!-- inactive-ok-file: LIT-902 — Deferred, unread; the source of the compensation test the design borrows, not leaned on -->
+<!-- inactive-ok-file: LIT-902 — Unavailable, unread; the source of the compensation test the design borrows, not leaned on -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-167 — Proposed; the claim the study would test and the reply that rereads its direction measurement -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; cited as the objection the measurement was first designed for -->
 

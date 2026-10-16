@@ -42,6 +42,7 @@ summary: >-
   does not test.
 ---
 <!-- inactive-ok-file: THEORY-133 THEORY-071 — Proposed; compared, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-222 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-726: Hoel, Albantakis & Tononi — Quantifying causal emergence shows that macro can beat micro
 
@@ -255,6 +256,8 @@ already records the review's claim that the two are compatible. They can
 disagree on a given system, and the record holds no case that tests them
 together. No rivalry is declared, since the record holds no THEORY for
 either.
+
+*Note of 2026-10-16:* [THEORY-222](../theory.d/THEORY-222.md) now cites [LIT-1038](../literature.d/LIT-1038.md) as a source.
 
 ## Limitations
 

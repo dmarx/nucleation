@@ -51,6 +51,8 @@ summary: >-
   agent's contribution (pp. 117–122).
 ---
 
+<!-- inactive-ok-file: THEORY-029 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-265: What Happens When Someone Acts?
 
 ## Contribution
@@ -157,6 +159,8 @@ Conceptual analysis in the philosophy of action. There are case-based counterexa
 - **No THEORY in the record bears on this.** If the record acquires a THEORY on hierarchical agency ("identification with higher-order desires constitutes the agent's participation"), this chapter is a primary source for the *against* side: the Watson regress, as Velleman reports it, and the begging-or-not-answering dilemma. It is not a source for Frankfurt's own claims, which it reports at second hand. Cite those as "per Velleman".
 - **No ML-practice content.** The one distant bearing is on talk of "agents" in AI. The chapter's functionalist move, that the agent is whatever subsystem plays the reason-weighing role, is a clean philosophical model of an "agent" as a control subsystem. But the chapter makes no claim about artificial systems, and nothing here should be filed as practice.
 - **For filing.** `agency` first, since this is the paper's subject: action, autonomy, control. `metaphysics` second, since it is about agent-causation, reduction, supervenience and event-causation. Two tags are left out. `identity` is not justified, because personal identity is not discussed; that belongs to the 2002 essay. `ethics` is not justified either, since responsibility appears only in n. 13.
+
+*Note of 2026-10-16:* [THEORY-029](../theory.d/THEORY-029.md) now cites [LIT-295](../literature.d/LIT-295.md) as a source.
 
 ## Limitations
 

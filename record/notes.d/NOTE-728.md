@@ -38,7 +38,7 @@ summary: >-
   cascade sizes or about what happens past the threshold.
 ---
 <!-- inactive-ok-file: LIT-1036 LIT-1028 — Unavailable, no lawful full text found; the linear results this paper generalizes, described as it describes them -->
-<!-- inactive-ok-file: QUESTION-091 CLAIM-163 CLAIM-286 — open; the codes this reading was filed for, tested and not settled -->
+<!-- inactive-ok-file: QUESTION-091 CLAIM-163 CLAIM-286 — Proposed or open; the codes this reading was filed for, tested and not settled -->
 
 # NOTE-728: Brémaud & Massoulié — Stability of nonlinear Hawkes processes
 

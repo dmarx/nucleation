@@ -64,7 +64,7 @@ summary: >-
 answers:
 - QUESTION-066
 ---
-<!-- inactive-ok-file: LIT-545 — Deferred; Bandura, named for the rival side's self-efficacy, not leaned on -->
+<!-- inactive-ok-file: LIT-545 — Unavailable; Bandura, named for the rival side's self-efficacy, not leaned on -->
 <!-- inactive-ok-file: THEORY-054 THEORY-154 — Proposed; a neighbour named in Connections, and the rival account -->
 
 # THEORY-049: Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence

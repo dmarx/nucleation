@@ -30,7 +30,7 @@ summary: >-
   intelligence. A theory statement: no new evidence.
 ---
 <!-- inactive-ok-file: THEORY-063 THEORY-064 — Proposed; named as the THEORY documents filed for this note's candidates, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-467 — Deferred, no lawful full text; the book the précis summarises -->
+<!-- inactive-ok-file: LIT-467 — Unavailable, no lawful full text; the book the précis summarises -->
 <!-- inactive-ok-file: THEORY-044 — Proposed; named in Bearing on the record as the account this reading bears on -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; named in Bearing on the record as the account this reading bears on -->
 

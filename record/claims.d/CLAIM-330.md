@@ -34,7 +34,7 @@ summary: >-
   nonlinear attractors or about fidelity.
 ---
 
-<!-- inactive-ok-file: CLAIM-297 QUESTION-100 CASE-092 — Proposed, Open or a proposed study; the thesis and question this partly answers -->
+<!-- inactive-ok-file: CLAIM-297 QUESTION-100 — Proposed, Open or a proposed study; the thesis and question this partly answers -->
 
 # CLAIM-330: In the coupled meaning–influence model linearized at its symmetric state, with each field stable alone and nonnegative couplings, the coupling destabilizes symmetry exactly when βγ > (1 − α)(1 − δ): only the loop can do it, and the direction that grows mixes meaning and authority
 

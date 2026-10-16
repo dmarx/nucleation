@@ -25,7 +25,6 @@ superseded_by:
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: TERM-016 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-026: frame, as an operation on an interpretive state
 

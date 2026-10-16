@@ -20,7 +20,7 @@ answered_by:
 - CLAIM-070
 - CLAIM-121
 ---
-<!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-022: Which stochastic transports carry compatible empirical models to compatible ones, and which preserve global extendability?
 

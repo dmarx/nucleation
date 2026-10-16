@@ -35,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn causal sheaf paper this one builds on and claims to recover -->
 <!-- inactive-ok-file: THEORY-171 — Proposed; cited for the result this reading gives a second instance of -->
-<!-- inactive-ok-file: CLAIM-037 CLAIM-038 CLAIM-100 — Proposed; open, and cited as open: the claims this reading bears on -->
+<!-- inactive-ok-file: CLAIM-037 CLAIM-038 CLAIM-100 — Proposed or Superseded; open, and cited as open: the claims this reading bears on -->
 
 # NOTE-646: Combining contextuality and causality
 

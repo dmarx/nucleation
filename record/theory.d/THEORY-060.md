@@ -24,7 +24,13 @@ promote_when: >-
   lacks. More correlations between redemptive stories and generativity in
   the same interview cannot settle either half.
 title: "A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Strawson's account is now filed as THEORY-tmpyhvde and set as a rival.
+    The Connections bullet that said no THEORY stated it is updated.
 tags:
 - narrative-unity
 - personhood
@@ -48,8 +54,11 @@ summary: >-
   Narrativity" ([LIT-452](../literature.d/LIT-452.md)) denies the first half for many people.
 answers:
 - QUESTION-043
+rivals:
+- THEORY-tmpyhvde
 ---
-<!-- inactive-ok-file: LIT-572 — Deferred; McAdams and McLean 2013, named as the canonical review, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpyhvde — Proposed; Strawson's account, a rival, named as open -->
+<!-- inactive-ok-file: LIT-572 — Unavailable; McAdams and McLean 2013, named as the canonical review, not leaned on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-050 THEORY-051 THEORY-076 THEORY-064 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-060: A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being
@@ -137,8 +146,8 @@ correlational.
   they do not experience as theirs, or lack the identity it constitutes. If
   the second is true, they should fare worse unless their story-less lives
   are offset otherwise. The two works already `rival` each other in the LIT
-  scheme. No THEORY states Strawson's account, so no `rivals` is declared
-  here. Strawson's evidence is testimony, and McAdams does not cite him;
+  scheme, and Strawson's account, now stated in [THEORY-tmpyhvde](THEORY-tmpyhvde.md), rivals
+  this one. Strawson's evidence is testimony, and McAdams does not cite him;
   the ANIQ comparison in `promote_when` is where they would meet.
 - **Bratman's self-governance over time ([THEORY-076](THEORY-076.md)).** Bratman grants
   that narrative unity "may apply to many cases" and holds that the "more

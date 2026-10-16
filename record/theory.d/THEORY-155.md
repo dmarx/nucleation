@@ -39,7 +39,7 @@ supports:
 - CLAIM-191
 ---
 
-<!-- inactive-ok-file: LIT-768 — Deferred, no lawful full text; named as the classical case the claim would have to meet, not leaned on -->
+<!-- inactive-ok-file: LIT-768 — Unavailable, no lawful full text; named as the classical case the claim would have to meet, not leaned on -->
 
 # THEORY-155: Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior
 

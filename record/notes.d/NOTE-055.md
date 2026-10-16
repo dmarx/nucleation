@@ -33,7 +33,7 @@ summary: >-
   three animal case studies are retold in these terms.
 ---
 
-<!-- inactive-ok-file: LIT-046 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-046 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-055: Pilgrim et al. 2025, foundations of collective intelligence
 

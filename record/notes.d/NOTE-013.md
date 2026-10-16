@@ -33,6 +33,7 @@ summary: >-
   subtheory is contextual (§IV.B).
 ---
 
+<!-- inactive-ok-file: THEORY-010 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-013: Quasi-quantization
 
@@ -148,6 +149,8 @@ This paper supports these links only as antecedents. It gives no general definit
 - **[LIT-019](../literature.d/LIT-019.md)** (2111.13727) and **[LIT-003](../literature.d/LIT-003.md)** (2005.07161) can cite this paper as the source of the weak/strong nonclassicality classification and of the odd-d stabilizer ontological model. They should not cite it as demonstrating any Table II phenomenon.
 - **THEORY documents.** None exist in this record yet (theory.d holds only the template). If one is filed, the natural candidate is: "the odd-prime stabilizer subtheory and the CV quadrature subtheory admit noncontextual ontological models given by their Wigner representations; the qubit stabilizer subtheory does not". Its source would be this paper, §IV, together with Gross 2006 and Spekkens 2008.
 - **ML practice:** none. It carries no instruction for machine-learning practice and nothing for the Anthology of the SOTA. The dossier's loose analogy (a restriction on admissible distributions generating rich structure) is only an analogy, and this reading gives no reason to strengthen it.
+
+*Note of 2026-10-16:* [THEORY-010](../theory.d/THEORY-010.md), [THEORY-015](../theory.d/THEORY-015.md) and [THEORY-016](../theory.d/THEORY-016.md) now cite [LIT-007](../literature.d/LIT-007.md) as a source.
 
 ## Limitations
 

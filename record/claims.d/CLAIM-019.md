@@ -24,7 +24,7 @@ complements:
 supports:
 - CLAIM-145
 ---
-<!-- inactive-ok-file: LIT-775 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
+<!-- inactive-ok-file: LIT-775 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-019: Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor
 

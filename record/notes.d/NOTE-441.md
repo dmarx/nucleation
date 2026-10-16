@@ -29,7 +29,7 @@ summary: >-
   critiques. Autonomy lies not in being an uncaused cause but in the
   capacity to "reflectively endorse or reject prompted actions" (p. 1573).
 ---
-<!-- inactive-ok-file: LIT-545 — Deferred: Bandura (1977) is unread; this paper argues with Bandura (1989), named here, not leaned on -->
+<!-- inactive-ok-file: LIT-545 — Unavailable: Bandura (1977) is unread; this paper argues with Bandura (1989), named here, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 — Proposed; this reading's bearing on them is stated, nothing here rests on them -->
 
 # NOTE-441: Self-Regulation and the Problem of Human Autonomy: Does Psychology Need Choice, Self-Determination, and Will?

@@ -24,7 +24,7 @@ countered_by:
 - CASE-011
 ---
 <!-- ref::uses-file: TERM-001 — stated in "fidelity, as the number of preserved constraints", the definition current when this claim was written; it has since been superseded -->
-<!-- inactive-ok-file: LIT-766 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
+<!-- inactive-ok-file: LIT-766 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 <!-- inactive-ok-file: TERM-001 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # CLAIM-020: A translation's quality is the number of formal and semantic constraints it preserves

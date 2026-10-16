@@ -27,8 +27,8 @@ summary: >-
   and no data.
 ---
 <!-- inactive-ok-file: THEORY-073 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-536 — Deferred, unread; named for the autonomy tradition it systematises, not leaned on -->
-<!-- inactive-ok-file: LIT-578 LIT-588 — Deferred; cited by this paper for coupled oscillators measured by relative phase, not leaned on -->
+<!-- inactive-ok-file: LIT-536 — Unavailable, unread; named for the autonomy tradition it systematises, not leaned on -->
+<!-- inactive-ok-file: LIT-578 LIT-588 — Unavailable; cited by this paper for coupled oscillators measured by relative phase, not leaned on -->
 
 # NOTE-450: The Markov blanket trick: On the scope of the free energy principle and active inference
 

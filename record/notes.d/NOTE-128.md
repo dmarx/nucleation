@@ -48,7 +48,7 @@ summary: >-
   would be.
 ---
 
-<!-- inactive-ok-file: LIT-126 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-126 — Rejected: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-128: Category error in AI safety: non-sentient moral machines
 

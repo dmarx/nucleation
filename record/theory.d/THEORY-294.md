@@ -36,7 +36,7 @@ summary: >-
   suggestive generalization. The inference that collapse requires feature
   learning is the reading's, not proved.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-086 THEORY-278 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
+<!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-278 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
 
 # THEORY-294: Lazy-regime training of a wide shallow network does not collapse its features: on two-class Gaussian data the expected within-class variability of the NTK features is that of the NNGP features at initialization
 

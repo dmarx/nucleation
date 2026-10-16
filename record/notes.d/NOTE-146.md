@@ -36,7 +36,7 @@ summary: >-
   is causal (p. 2).
 ---
 
-<!-- inactive-ok-file: LIT-190 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-190 — Proposed: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-146: Winkielman et al. — The coherent and fluent mind
 

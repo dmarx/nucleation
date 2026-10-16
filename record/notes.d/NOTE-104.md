@@ -35,7 +35,8 @@ summary: >-
   conscious AIs will be person-like, and the question will then be settled
   socially rather than scientifically (the "Social Semi-Solution").
 ---
-<!-- inactive-ok-file: LIT-636 — Deferred; the book the cited "Block 2023" names, not leaned on -->
+<!-- inactive-ok-file: LIT-636 — Unavailable; the book the cited "Block 2023" names, not leaned on -->
+<!-- inactive-ok-file: THEORY-023 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-104: Schwitzgebel — AI and Consciousness
 
@@ -127,6 +128,8 @@ The most citable line is the book's headline, that we "will not know". It is the
 - **Hub work for the `consciousness` tag.** It is the most complete current survey. [LIT-056](../literature.d/LIT-056.md), [LIT-135](../literature.d/LIT-135.md), [LIT-111](../literature.d/LIT-111.md) and [LIT-185](../literature.d/LIT-185.md) each correspond to a chapter-level position the book assesses. The ten possibly essential features and the two named problems (Minimal Instantiation, Narrow Evidence Base) give a shared vocabulary for comparing those notes.
 - **No THEORY documents exist here to support or contradict.** If the record wants one, the candidate is "A system trained to reproduce human text is a consciousness mimic, so its self-reports do not by themselves evidence consciousness" (ch. 7), with Schwitzgebel & Pober as the fuller source.
 - **ML practice.** Nothing for training practice. There are two points of contact, neither an Anthology practice as the book stands. (i) The Mimicry Argument implies that an LLM's reports about its own experience are not evidence of consciousness, and that RL toward real-world success is what would weaken that conclusion (pp. 57–58). This bears on model-welfare evaluation, not on training. (ii) The design recommendation (p. 106) is to avoid systems that are debatably conscious and interfaces that "seem to suggest otherwise" (p. 105; Schwitzgebel 2023a). That is design ethics, supported here only by assertion. The anthology holds nothing on AI consciousness or welfare.
+
+*Note of 2026-10-16:* [THEORY-023](../theory.d/THEORY-023.md) now cites [LIT-191](../literature.d/LIT-191.md) as a source.
 
 ## Limitations
 

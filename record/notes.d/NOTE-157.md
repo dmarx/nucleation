@@ -34,7 +34,7 @@ summary: >-
   blended with the real world. He argues that this fictionalist stance
   escapes the epistemic norms that bind realist belief.
 ---
-<!-- inactive-ok-file: LIT-212 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-212 — Rejected since its reading in NOTE-176: a related work named by a 2026-09-26 close reading on the agency tag -->
 
 # NOTE-157: Roberts — Talkative AI and the fiction of artificial minds
 

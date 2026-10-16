@@ -33,6 +33,8 @@ summary: >-
   microbes–ruminant host).
 ---
 
+<!-- inactive-ok-file: THEORY-tmp5nujr — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-111: Baedke et al. — Unknotting reciprocal causation
 
 ## Contribution
@@ -110,6 +112,8 @@ The paper builds on Aaby & Ramsey (2019) and Chiu (2019) for its NC taxonomy, an
 ## Bearing on the record
 
 It supports reading [LIT-156](../literature.d/LIT-156.md) as a critique of selection-involving reciprocity, not of organism–environment reciprocity. NOTE-111's Open questions should drop "the main pro-reciprocal-causation paper that Hazelwood argues against", as [LIT-110](../literature.d/LIT-110.md) v2 already did. No THEORY codes are affected in nucleation. For ML practice: nothing. The O/E unrolling is structurally the same move as unrolling a recurrent system into a DAG, but the paper carries no instruction for machine-learning practice, and none belongs in the Anthology of the SOTA.
+
+*Note of 2026-10-16:* [THEORY-tmp5nujr](../theory.d/THEORY-tmp5nujr.md) now cites [LIT-110](../literature.d/LIT-110.md) as a source.
 
 ## Limitations
 

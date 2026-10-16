@@ -28,7 +28,7 @@ summary: >-
   obligate us. Argued, but "sketchy" by its own account.
 ---
 <!-- inactive-ok-file: THEORY-075 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-599 — Deferred; the book version of these lectures -->
+<!-- inactive-ok-file: LIT-599 — Unavailable; the book version of these lectures -->
 <!-- inactive-ok-file: THEORY-029 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-047 — Proposed; named in Bearing on the record -->
 

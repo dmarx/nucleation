@@ -28,6 +28,7 @@ summary: >-
   degrees 1, 2, 4 in that order, also on three non-uniform densities.
 ---
 
+<!-- inactive-ok-file: THEORY-084 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-483: Towards Understanding the Spectral Bias of Deep Learning
 
@@ -166,6 +167,8 @@ thresholds or evidence.
   out, not directions with weak evidence.
 - **No THEORY is filed.** A candidate is in the report to the owner.
 - **ML practice.** None directly; `anthology-candidate` is for subject.
+
+*Note of 2026-10-16:* [THEORY-084](../theory.d/THEORY-084.md) and [THEORY-086](../theory.d/THEORY-086.md) now cite [LIT-624](../literature.d/LIT-624.md) as a source.
 
 ## Limitations
 

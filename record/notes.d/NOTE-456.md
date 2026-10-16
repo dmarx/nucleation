@@ -23,7 +23,7 @@ summary: >-
   Conceptual throughout; evidence is illustrative (corridor, charades,
   mother–infant timing, perceptual crossing).
 ---
-<!-- inactive-ok-file: LIT-578 — Deferred, no lawful full text; Kelso's book, cited by this paper for relative coordination, not leaned on -->
+<!-- inactive-ok-file: LIT-578 — Unavailable, no lawful full text; Kelso's book, cited by this paper for relative coordination, not leaned on -->
 
 # NOTE-456: Participatory sense-making: An enactive approach to social cognition
 

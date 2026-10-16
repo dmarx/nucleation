@@ -31,7 +31,6 @@ supports:
 - CLAIM-117
 ---
 <!-- ref::uses-file: TERM-024 — stated in "noncommutativity, of events and of operations"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
-<!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-117 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-052: Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability

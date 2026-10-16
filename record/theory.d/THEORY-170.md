@@ -35,8 +35,8 @@ supports:
 - CLAIM-033
 ---
 
-<!-- inactive-ok-file: LIT-791 — Deferred; filed, not read, named as later work on the same question -->
-<!-- inactive-ok-file: LIT-789 — Deferred; filed, not read, named as later work on the same question -->
+<!-- inactive-ok-file: LIT-791 — Unavailable; filed, not read, named as later work on the same question -->
+<!-- inactive-ok-file: LIT-789 — Unavailable; filed, not read, named as later work on the same question -->
 
 # THEORY-170: Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message
 

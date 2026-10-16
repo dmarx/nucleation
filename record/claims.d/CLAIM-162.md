@@ -46,7 +46,7 @@ objected_by:
 - CLAIM-163
 ---
 <!-- inactive-ok-file: CLAIM-169 CLAIM-163 — Proposed; the premise and the open objection, cited as open -->
-<!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Deferred, unread; the flow literature, cited without a reading and named as the weakest footing -->
+<!-- inactive-ok-file: LIT-914 LIT-910 LIT-912 — Unavailable, unread; the flow literature, cited without a reading and named as the weakest footing -->
 <!-- inactive-ok-file: THEORY-067 THEORY-070 — Proposed; the readings this conjecture is set against, with their untested standing stated -->
 
 # CLAIM-162: Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless

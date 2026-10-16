@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpjni98
 title: 'In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounds add the three THEORYs filed from these readings in the THEORY
+    backfill: the benchmark pattern (THEORY-tmpfbdiq, from LIT-782, LIT-783
+    and LIT-798), Composable Diffusion (THEORY-tmp0iif2, from LIT-770) and
+    Attend-and-Excite (THEORY-tmpy5vxl, from LIT-806). The claim is
+    unchanged.
 role: thesis
 warrant: empirical
 defeated_if: >-
@@ -26,6 +35,9 @@ grounds:
 - LIT-806
 - LIT-798
 - LIT-770
+- THEORY-tmpfbdiq
+- THEORY-tmp0iif2
+- THEORY-tmpy5vxl
 corroborates:
 - CLAIM-123
 summary: >-
@@ -37,6 +49,7 @@ summary: >-
   corroborates [CLAIM-123](CLAIM-123.md)'s derivation without carrying it, and does not
   say what causes the failures.
 ---
+<!-- inactive-ok-file: THEORY-tmpy5vxl — Proposed; the Attend-and-Excite account, one of the readings this claim grounds in -->
 
 # CLAIM-321: In text-to-image diffusion models each condition of a prompt can be met while their conjunction or relational binding fails: benchmarks find single objects rendered almost always and attribute binding and relations failing most, and composing by adding scores does worst on relations
 

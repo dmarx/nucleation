@@ -38,7 +38,7 @@ summary: >-
   can bear the weight the paper puts on it.
 ---
 
-<!-- inactive-ok-file: LIT-212 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-212 — Rejected: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-176: Šekrst — Do LLMs Hallucinate Electric Fata Morganas?
 

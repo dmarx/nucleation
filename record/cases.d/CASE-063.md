@@ -29,7 +29,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-212 CLAIM-258 — Proposed; the reply this case is filed for and the objection it answers, both open and cited as open -->
 <!-- inactive-ok-file: CLAIM-091 CLAIM-240 CLAIM-201 — Proposed; the compensation claim, the weighting claim and the change-of-cover claim, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's order, not as settled -->
-<!-- inactive-ok-file: LIT-789 LIT-791 — Deferred; House and Nida, unread here, named as context and not leaned on -->
+<!-- inactive-ok-file: LIT-789 LIT-791 — Unavailable; House and Nida, unread here, named as context and not leaned on -->
 
 # CASE-063: The English localization of Ace Attorney: a Japanese courtroom game moved to an alternate Los Angeles, with "textually accurate" set against "emotionally accurate" by its localizer
 

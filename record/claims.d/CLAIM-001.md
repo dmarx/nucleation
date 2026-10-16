@@ -23,7 +23,7 @@ summary: >-
 objected_by:
 - CLAIM-071
 ---
-<!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-001: The conditional-diffusion literature already covers directed transport between observational scenarios, including changing covers
 

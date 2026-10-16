@@ -35,7 +35,6 @@ summary: >-
 <!-- ref::uses-file: TERM-004 — stated in "equivariance"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-036 — stated in "fidelity, as preservation of selected observables and structural symmetries"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-017 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-036 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-113 CLAIM-115 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-108: Communicative identity is characterized by the observational structures and relations invariant or equivariant under specified classes of transformation, and fidelity by their preservation, deformation or loss

@@ -39,7 +39,7 @@ summary: >-
   contested plant-behaviour findings.
 ---
 
-<!-- inactive-ok-file: LIT-193 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-193 — Proposed: the paper this note reads, placed by it -->
 
 # NOTE-120: Better to be a pig dissatisfied than a plant satisfied
 
@@ -100,7 +100,7 @@ The account of consciousness is **gradualist and evolutionary about sentience**,
 - [LIT-120](../literature.d/LIT-120.md) (Bruckner, welfare subjects and autopoiesis) grounds welfare subjecthood in adaptive self-maintenance rather than sentience. That is the kind of non-sentience ground this paper sets aside in footnote 2, and it would reach plants by a different route.
 - [LIT-105](../literature.d/LIT-105.md) (Veit 2025): the second author later declines to count *Paramecium* or *Chlamydomonas* as conscious. He objects to extending cognition arguments to bacterial sentience, calls plant 'experiences' predictive control that would make prediction-based criteria "implausibly liberal", and cites his own forthcoming "a case against plant consciousness". That is a clear tension with this paper's openness to plant quasi-sentience.
 - [LIT-159](../literature.d/LIT-159.md) (Schwitzgebel, over-generation from liberal materialist criteria) bears on A2. Any criterion liberal enough to include plants on behavioural and information-processing grounds invites the same over-generation worry. The paper does not address it.
-- [LIT-166](../literature.d/LIT-166.md) (Schwitzgebel's review of Birch, Sebo and Keane; seeded only) concerns the precautionary moral-circle arguments that this paper borrows in its "non-negligible chance ⇒ pro tanto obligation" step (Sebo & Schukraft 2021). I have not read that review, so I note the topical link only.
+- [LIT-166](../literature.d/LIT-166.md) (Schwitzgebel's review of Birch, Sebo and Keane; seeded only when this was written, since read in [NOTE-116](NOTE-116.md)) concerns the precautionary moral-circle arguments that this paper borrows in its "non-negligible chance ⇒ pro tanto obligation" step (Sebo & Schukraft 2021). I have not read that review, so I note the topical link only.
 
 **Consciousness tag: justified.** The paper's central variable, sentience in the S_BROAD sense, is phenomenal consciousness. Primary topic `ethics` is correct.
 

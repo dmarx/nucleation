@@ -27,8 +27,8 @@ summary: >-
   the work. It avoids the word "self". One in-text citation (Olson and Witt
   2020) has no matching bibliography entry.
 ---
-<!-- inactive-ok-file: LIT-448 — Deferred, no lawful full text; named as the book the entry's animalism comes from, not leaned on -->
-<!-- inactive-ok-file: LIT-468 — Deferred, no lawful full text; named as the source of the characterization question, not leaned on -->
+<!-- inactive-ok-file: LIT-448 — Unavailable, no lawful full text; named as the book the entry's animalism comes from, not leaned on -->
+<!-- inactive-ok-file: LIT-468 — Unavailable, no lawful full text; named as the source of the characterization question, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the bridge this reading bears on, not leaned on -->
 
 # NOTE-374: Personal Identity
