@@ -31,7 +31,7 @@ summary: >-
 
 # LIT-tmp9qqwl: Factorized embedding of goal and uncertainty in the lateral prefrontal cortex guides stably flexible learning
 
-Sung, J., Rigotti, M. & Lee, S. W. (2025). *Nature Communications* 16:11643. doi:10.1038/s41467-025-66677-w.
+Sung, Y., Rigotti, M. & Lee, S. W. (2025). *Nature Communications* 16:11643. doi:10.1038/s41467-025-66677-w.
 
 Not read. The summary is drawn from the abstract or from what the work is
 standardly cited for. A reading should check it first.
