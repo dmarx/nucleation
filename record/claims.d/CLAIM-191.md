@@ -6,6 +6,7 @@ formerly:
 title: 'Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators'' own framings rather than at random, and a code restores continuity of transmission'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Raters blind to the hypothesis find that re-derivations in the
   reconstructed exchanges move in no consistent direction, or in a
@@ -39,6 +40,8 @@ summary: >-
   review; the counter is [CLAIM-189](CLAIM-189.md).
 objected_by:
 - CLAIM-189
+complements:
+- CLAIM-301
 ---
 <!-- inactive-ok-file: CLAIM-270 CLAIM-267 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-002 CLAIM-056 CLAIM-081 CLAIM-090 CLAIM-115 CLAIM-177 CLAIM-180 CLAIM-182 CLAIM-186 CLAIM-189 THEORY-155 — Proposed; open, and cited as open: under test, not settled -->

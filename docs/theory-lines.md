@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-16 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+22 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -70,6 +70,28 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Active)* — also carries further THEORY-016
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
 
+## databases
+
+### From When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view
+
+- [THEORY-356](../record/theory.d/THEORY-356.md) — When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view *(Active)*
+  - [THEORY-350](../record/theory.d/THEORY-350.md) — Under a budget on maintenance time, a stored view's upkeep depends on which other views are stored, so upkeep is not additive and adding a view can lower it, and greedily adding the single view of best saving per unit of upkeep can be arbitrarily bad; on OR view graphs a greedy over inverted tree sets gets 1 − 1/e of the saving of an optimum given as much upkeep, using up to twice the budget, if no tree-piece of the optimum alone exceeds the budget *(Active)*
+
+### From Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy
+
+- [THEORY-388](../record/theory.d/THEORY-388.md) — Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy *(Active)*
+  - [THEORY-372](../record/theory.d/THEORY-372.md) — For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes *(Active)*
+
+### From For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation
+
+- [THEORY-373](../record/theory.d/THEORY-373.md) — For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation *(Active)*
+  - [THEORY-380](../record/theory.d/THEORY-380.md) — For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules *(Proposed)*
+
+### From When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch
+
+- [THEORY-386](../record/theory.d/THEORY-386.md) — When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch *(Active)*
+  - [THEORY-377](../record/theory.d/THEORY-377.md) — A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved *(Proposed)*
+
 ## emotion-and-affect
 
 ### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
@@ -89,6 +111,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-143](../record/theory.d/THEORY-143.md) — When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning *(Proposed)*
   - [THEORY-148](../record/theory.d/THEORY-148.md) — A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles *(Proposed)*
+
+### From For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory
+
+- [THEORY-353](../record/theory.d/THEORY-353.md) — For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory *(Active)*
+  - [THEORY-347](../record/theory.d/THEORY-347.md) — Belief bases with the same logical closure can revise to opposite conclusions on the same input, so a closed belief set does not fix its own revision; partial meet contraction of a base need not satisfy Recovery, and bases keep distinct inconsistent states apart, while a belief-set model reproduces the base difference only by attaching a different selection mechanism to the same set *(Active)*
 
 ## ethics
 
@@ -133,6 +160,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
   - [THEORY-080](../record/theory.d/THEORY-080.md) — In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies *(Proposed)*
 
+## information-retrieval
+
+### From Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy
+
+- [THEORY-388](../record/theory.d/THEORY-388.md) — Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy *(Active)*
+  - [THEORY-372](../record/theory.d/THEORY-372.md) — For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes *(Active)*
+
 ## learning-theory
 
 ### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
@@ -144,6 +178,23 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
   - [THEORY-080](../record/theory.d/THEORY-080.md) — In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies *(Proposed)*
+
+### From For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class
+
+- [THEORY-349](../record/theory.d/THEORY-349.md) — For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class *(Active)*
+  - [THEORY-354](../record/theory.d/THEORY-354.md) — An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own *(Active)*
+
+## logic
+
+### From For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory
+
+- [THEORY-353](../record/theory.d/THEORY-353.md) — For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory *(Active)*
+  - [THEORY-347](../record/theory.d/THEORY-347.md) — Belief bases with the same logical closure can revise to opposite conclusions on the same input, so a closed belief set does not fix its own revision; partial meet contraction of a base need not satisfy Recovery, and bases keep distinct inconsistent states apart, while a belief-set model reproduces the base difference only by attaching a different selection mechanism to the same set *(Active)*
+
+### From For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation
+
+- [THEORY-373](../record/theory.d/THEORY-373.md) — For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation *(Active)*
+  - [THEORY-380](../record/theory.d/THEORY-380.md) — For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules *(Proposed)*
 
 ## loss-landscapes
 
@@ -179,6 +230,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-019](../record/theory.d/THEORY-019.md) — Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet *(Proposed)*
   - [THEORY-084](../record/theory.d/THEORY-084.md) — Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks *(Proposed)*
 
+### From Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy
+
+- [THEORY-388](../record/theory.d/THEORY-388.md) — Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy *(Active)*
+  - [THEORY-372](../record/theory.d/THEORY-372.md) — For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes *(Active)*
+
+### From For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation
+
+- [THEORY-373](../record/theory.d/THEORY-373.md) — For positive relational algebra on relations whose tuples are annotated from a commutative semiring, every query's annotated answer equals its answer over provenance polynomials N[X] in the input tuple ids, evaluated at the input annotations, so set, bag, c-table and event-table semantics all factor through the polynomials; revaluing inputs can remove output tuples but never add them, and nothing is shown for negation, difference or aggregation *(Active)*
+  - [THEORY-380](../record/theory.d/THEORY-380.md) — For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules *(Proposed)*
+
 ## model-comparison
 
 ### From The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set
@@ -208,6 +269,18 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
 
+## operations-research
+
+### From When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view
+
+- [THEORY-356](../record/theory.d/THEORY-356.md) — When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view *(Active)*
+  - [THEORY-350](../record/theory.d/THEORY-350.md) — Under a budget on maintenance time, a stored view's upkeep depends on which other views are stored, so upkeep is not additive and adding a view can lower it, and greedily adding the single view of best saving per unit of upkeep can be arbitrarily bad; on OR view graphs a greedy over inverted tree sets gets 1 − 1/e of the saving of an optimum given as much upkeep, using up to twice the budget, if no tree-piece of the optimum alone exceeds the budget *(Active)*
+
+### From When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch
+
+- [THEORY-386](../record/theory.d/THEORY-386.md) — When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch *(Active)*
+  - [THEORY-377](../record/theory.d/THEORY-377.md) — A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved *(Proposed)*
+
 ## philosophy-of-science
 
 ### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
@@ -226,6 +299,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
   - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
+### From For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class
+
+- [THEORY-349](../record/theory.d/THEORY-349.md) — For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class *(Active)*
+  - [THEORY-354](../record/theory.d/THEORY-354.md) — An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own *(Active)*
 
 ## quantum-foundations
 

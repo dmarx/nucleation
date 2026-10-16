@@ -4,7 +4,7 @@
 
 **metaphysics**.
 
-123 of 862 NOTE documents. Back to the [full index](../README.md).
+123 of 924 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

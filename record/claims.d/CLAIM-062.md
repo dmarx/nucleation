@@ -6,6 +6,7 @@ formerly:
 title: 'That every regulator with a higher-order attractor counts as having a will is acceptable once agency is kept apart from phenomenal experience'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A use of 'will' in which attributing it to a simple regulator misleads,
   even with phenomenal experience bracketed.

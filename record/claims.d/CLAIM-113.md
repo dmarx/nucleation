@@ -6,6 +6,7 @@ formerly:
 title: 'Transformations and invariants define one another: translation preserves some structures exactly, carries some equivariantly, preserves some approximately and reorganizes others, and identity is studied through what a class of transformations leaves invariant'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The communicative relations judges use to recognize a rendering as the
   same act are not invariant or equivariant under any class of

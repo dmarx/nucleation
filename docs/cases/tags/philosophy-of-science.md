@@ -6,8 +6,10 @@
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 
-0 of 81 CASE documents. Back to the [full index](../README.md).
+3 of 97 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-084](../../../record/cases.d/CASE-084.md) | The perfectly accountable false theory: a community whose record traces every commitment and whose vocabulary leaves out the right explanation | A6's third case. Accountability without correctness, one of [CLAIM-299](../../../record/claims.d/CLAIM-299.md)'s three separations, and A6's "direct companion to [CLAIM-181](../../../record/claims.d/CLAIM-181.md) and [CLAIM-190](../../../record/claims.d/CLAIM-190.md)". | Active |
+| [CASE-086](../../../record/cases.d/CASE-086.md) | The retracted finding and its descendants: an experiment fails to replicate years after three conclusions were built on it | A7's sixth case, filed at the owner's U7 as an illustration and not a test ("one or two of those might be handy to keep on hand too"). Tracing descendants of a defeated premise, which [CLAIM-295](../../../record/claims.d/CLAIM-295.md) says a record of dependencies supports. | Active |
+| [CASE-090](../../../record/cases.d/CASE-090.md) | The rehabilitated hypothesis: an objection that displaced a hypothesis turns out to rest on a faulty measurement, and the hypothesis can be reopened because its defeat was recorded | A7's seventh case, the companion to [CASE-086](../../../record/cases.d/CASE-086.md) and filed with it. Reopening an alternative when its defeater is defeated. A12's "defeat of a defeater" is the same case and is held here, as A12 itself proposed. | Active |

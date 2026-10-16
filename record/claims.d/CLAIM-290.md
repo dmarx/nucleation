@@ -6,6 +6,7 @@ formerly:
 title: 'A positive-definite kernel''s minimal realizations are unique up to a unitary, and two finite representation matrices with the same centred Gram matrix differ by a translation and an orthogonal map'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A step of the argument below that fails under its stated hypotheses.
   Examples: a well-defined, isometric U whose range is not dense in a

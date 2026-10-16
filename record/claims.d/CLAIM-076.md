@@ -6,6 +6,7 @@ formerly:
 title: 'Cross-modal chains expose reconstruction because media differ in expressive affordances, and each interpreter, such as a captioner, may add motives and relations that were not present'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Text→image→text chains change interpersonal relations no more than
   text-only chains of the same length, and captions add no relations

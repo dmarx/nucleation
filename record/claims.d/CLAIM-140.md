@@ -6,6 +6,7 @@ formerly:
 title: 'The October thesis replaces what a receiver can reconstruct with what the analyst''s probe system can identify as the test of what survives, and no turn argues the change'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-language
 - information-theory

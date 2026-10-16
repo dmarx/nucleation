@@ -6,6 +6,7 @@ formerly:
 title: 'The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line''s own theses say fidelity is task-relative, interpreter-relative and not a single ranking'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-language
 - psychometrics

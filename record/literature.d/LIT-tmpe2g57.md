@@ -1,0 +1,43 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'Flow-based reputation with uncertainty: evidence-based subjective logic'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref, arXiv and OpenAlex
+    on 2026-10-16. arXiv v1 (2014-02-13, from the search listing; the abstract page was not opened) precedes the journal (2015-08-20). Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- network-science
+- probabilistic-modeling
+date: '2026-10-16'
+published: '2014-02-13'
+arxiv: '1402.3319'
+first_author: 'Škorić'
+keywords:
+- 'reputation systems'
+- 'subjective logic'
+- 'trust networks'
+- 'uncertainty'
+implementations: []
+summary: >-
+  Škorić (2016). An evidence-based discounting operator for subjective logic that computes reputation with explicit uncertainty on arbitrary trust networks, separating trust in an agent's function from trust in its recommendations.
+---
+
+<!-- inactive-ok-file: CLAIM-281 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+# LIT-tmpe2g57: Flow-based reputation with uncertainty: evidence-based subjective logic
+
+Škorić, B., de Hoogh, S. J. A. & Zannone, N. (2016). *International Journal of Information Security* 15(4):381–402. doi:10.1007/s10207-015-0298-5.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A15 of the exchange of 2026-10-16: functional against referral trust, for role-indexed endorsement ([CLAIM-281](../claims.d/CLAIM-281.md)) and recycled authority ([CLAIM-282](../claims.d/CLAIM-282.md)). A15: a trust algebra does not by itself keep an operator's influence independent of its own endorsements.

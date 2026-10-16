@@ -6,6 +6,7 @@ formerly:
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A population model with endogenous, performance-sensitive endorsement and
   no authority primitive in which durable, differentiated authority never
@@ -25,6 +26,7 @@ line:
 complements:
 - CLAIM-282
 - CLAIM-274
+- CLAIM-tmp11auq
 summary: >-
   The owner's objection at U5 to A4's call to keep "persistent authority
   structures" distinct from "transient endorsement updates": "I'd expect
@@ -34,8 +36,9 @@ summary: >-
   are regimes of one process, set by how slowly endorsers forget. A5 added
   the converse: the same loop turns an early lead into durable authority.
   The claim does not say which of the two a given organization does.
+supports:
+- CLAIM-297
 ---
-
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
 ## The claim

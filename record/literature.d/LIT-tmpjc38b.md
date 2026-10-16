@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'The information theory of individuality'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref, arXiv and OpenAlex
+    on 2026-10-16. `published:` is the arXiv v1 date (2014-12-08), earlier than the journal's online date (2020-03-24). Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- complex-systems
+- individuation
+- information-theory
+date: '2026-10-16'
+published: '2014-12-08'
+arxiv: '1412.2447'
+first_author: 'Krakauer'
+keywords:
+- 'individuality'
+- 'information theory'
+- 'temporal integrity'
+- 'partial information decomposition'
+implementations: []
+summary: >-
+  Krakauer (2020). Individuals as aggregates that propagate information from their past into their future, found by decomposing I(S_t, E_t; S_{t+1}) into organismal (A*), colonial (A) and environmentally determined (nC) parts rather than assumed in advance.
+---
+
+<!-- inactive-ok-file: LIT-005 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+# LIT-tmpjc38b: The information theory of individuality
+
+Krakauer, D., Bertschinger, N., Olbrich, E., Flack, J. C. & Ay, N. (2020). *Theory in Biosciences* 139(2):209–223. doi:10.1007/s12064-020-00313-7. arXiv preprint of 2014 (author order there ends Ay, Flack).
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A10 and A11 of the exchange of 2026-10-16 put it first for the individuation problem. The record held Bourrat's critique of its measures ([LIT-005](LIT-005.md), [NOTE-027](../notes.d/NOTE-027.md)) without the paper itself. Bears on [QUESTION-tmp1bt6j](../questions.d/QUESTION-tmp1bt6j.md) and [CASE-tmpl1tu6](../cases.d/CASE-tmpl1tu6.md). A reading should check A11's claim that A* and A do not decrease as the candidate is enlarged, and the size cost the paper says is needed.

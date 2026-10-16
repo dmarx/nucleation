@@ -6,6 +6,7 @@ formerly:
 title: 'The record''s iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain'
 version: 1
 role: granted
+warrant: empirical
 tags:
 - learning-and-conditioning
 - social-science

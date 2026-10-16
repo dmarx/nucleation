@@ -17,6 +17,14 @@ version: 1
 # in. Independent of status; the mismatched pairs are the information.
 role: thesis
 
+# demonstrated | empirical | interpretive — how the claim AS STATED is
+# supported (ADR-043): by proof or construction, by observation, or by
+# argument and synthesis. Independent of status and role: a theorem whose
+# reading is disputed is demonstrated and Proposed. Never inherited: a claim
+# resting on a demonstrated one is not demonstrated for that. If parts of the
+# claim are warranted differently, split it; do not pick one. REQUIRED.
+warrant: interpretive
+
 # REQUIRED for a thesis: what would defeat it. A kind of result or argument,
 # stated so that the wrong kind cannot satisfy it.
 defeated_if: >-

@@ -6,6 +6,7 @@ formerly:
 title: 'Non-stochastic strings stay non-stochastic under total recursive models: their minimal randomness deficiency agrees with the finite-set one to within O(log n) in argument and value'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A string x of length n and a total recursive function p with x in its
   range, K(p) ≤ α and δ(x | p) ≤ β_x(α + c log n) − c log n for every

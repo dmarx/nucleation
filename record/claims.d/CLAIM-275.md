@@ -6,6 +6,7 @@ formerly:
 title: 'An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Evidence that in the cases at issue, exploratory disruption and
   emotional action alike, an interpretation was always already formed when
@@ -35,6 +36,8 @@ summary: >-
   creates the conditions under which a particular interpretation becomes
   available." The first filing left both out. It does not say
   interpretation never comes first.
+supports:
+- CLAIM-297
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-057 CLAIM-255 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

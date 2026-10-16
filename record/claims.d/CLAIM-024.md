@@ -6,6 +6,7 @@ formerly:
 title: 'Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - agency
 - philosophy-of-science

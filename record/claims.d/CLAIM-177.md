@@ -6,6 +6,7 @@ formerly:
 title: 'An argument developed with collaborators who keep no memory fails at identity, not at structure: concepts are redefined silently, objections and readings come back as though new, and the thesis changes without anyone arguing for the change'
 version: 1
 role: thesis
+warrant: empirical
 defeated_if: >-
   A comparable exchange, read move by move as the will exchange was,
   in which most defects are missing structure: no premises stated,

@@ -6,8 +6,9 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-0 of 81 CASE documents. Back to the [full index](../README.md).
+2 of 97 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-094](../../../record/cases.d/CASE-094.md) | The LEGO bin: a brick owned in one copy and buried among hundreds of similar ones may as well not be owned, a black brick among white ones needs no bin of its own, and every brick can be found by going through the whole collection | The owner's own parable, told on 2026-07-02 and kept verbatim in Mathematics of Meaning, where the owner paired it with the EMT case this record holds as [CASE-085](../../../record/cases.d/CASE-085.md). It is the second time that case's pattern has turned up, so it gets a code. It adds three things the EMT case lacks: similarity to binmates as the cause of the failure, copy count and frequency of use as what decides whether a bin is worth making, and exhaustive search as the reason presence is never in doubt. Stipulated: the collection is real, and its facts are taken on the owner's account. | Active |
+| [CASE-095](../../../record/cases.d/CASE-095.md) | Two builders sorting one collection: the brick that one bins as red and two-wide and the other as a curved connector has a bin that respects both, and what the builders cannot share is an arrangement, not a description | The example the owner's LEGO monograph (Mathematics of Meaning, "The Lego Parable") uses for contextuality, rebuilt. As descriptions the two sortings always share a joint refinement, the product bin, as [MOM-CLM-137](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-137.md) shows, so they illustrate the non-contextual case of [CLAIM-037](../../../record/claims.d/CLAIM-037.md) and [CLAIM-131](../../../record/claims.d/CLAIM-131.md). As arrangements, with a fixed number of bins, they compete, and which wins depends on the queries made and on what stands out within a bin. Fictional: the builders and the collection are invented. | Active |

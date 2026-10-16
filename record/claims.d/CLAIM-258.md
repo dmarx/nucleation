@@ -6,6 +6,7 @@ formerly:
 title: 'Blackwell''s order compares experiments about one parameter, so it does not reach the normal translation case: source and target readers decide about situations with changed coordinates, and where the state is common a translator with context knowledge yields a rendering that is not a garbling of the source, which the order typically leaves incomparable with it and about which the direction the manuscript uses is silent'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - mathematical-statistics
 - information-theory
@@ -15,6 +16,7 @@ line: pragmatic-transport
 rests_on:
 - CLAIM-091
 - CLAIM-074
+- CLAIM-323
 grounds:
 - THEORY-156
 - LIT-781
@@ -148,3 +150,14 @@ each direction of it. The objection stands for re-performance fidelity,
 which needs a correspondence of situations ([QUESTION-005](../questions.d/QUESTION-005.md)). Whether the
 line's central cases are reports or re-performances is open, and
 [CLAIM-212](CLAIM-212.md)'s defeat condition says so. The objection stays Proposed.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this objection compound: its worked
+case is demonstrated, and its reading that the case is the normal
+translation case, through [CLAIM-091](CLAIM-091.md)'s compensation, is interpretive. The
+worked case is now [CLAIM-323](CLAIM-323.md) (demonstrated), on which this objection rests. This
+claim keeps the rest: that Blackwell's order, comparing experiments about
+one parameter, does not reach the line's translations, and that the
+direction the manuscript uses is silent about them. Its title states that
+reading and is kept, and its warrant stays interpretive.

@@ -6,6 +6,7 @@ formerly:
 title: 'Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell''s order compares a rendering with its source as evidence about the source''s situation, which both readers decide about, while a rendering that re-performs the act in the target''s situation is compared only through a correspondence of situations'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   Receivers' fidelity verdicts on the same renderings do not differ
   between a report task (what was the source's speaker doing?) and a
@@ -82,7 +83,7 @@ U, so V is not a garbling of U. The order still compares the two. The
 direction the manuscript uses (garbling implies no worse) is silent, and
 the order's verdict is often incomparability.
 
-[CLAIM-258](CLAIM-258.md)'s worked case, read as a report case. Let Z be uniform on
+[CLAIM-323](CLAIM-323.md)'s worked case, read as a report case. Let Z be uniform on
 {1, 2, 3}. The source tells its reader whether Z = 1 (U = 1 if Z = 1, else
 U = 0). The rendering tells its reader whether Z = 3 (V = 1 if Z = 3, else
 V = 0). Take 0–1 loss.

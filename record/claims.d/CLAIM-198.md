@@ -13,6 +13,7 @@ history:
     bears on to be filed. The assistant drew the consequence; the owner
     approved filing it.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Ainslie-type division, meaning bargaining, side bets or personal rules
   between interests, found in an agent that has no model of its own later

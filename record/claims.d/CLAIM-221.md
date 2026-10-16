@@ -6,6 +6,7 @@ formerly:
 title: 'The relational-constitution thesis''s defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-language
 - pragmatics

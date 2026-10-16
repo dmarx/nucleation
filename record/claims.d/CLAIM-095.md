@@ -6,6 +6,7 @@ formerly:
 title: 'Anticipated objections are better met by precise definitions, constructions and results than by hedges'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A sufficiently precise formalization still leaves objections that only
   an explicit statement of limits can meet, such as the generalization

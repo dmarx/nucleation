@@ -6,6 +6,7 @@ formerly:
 title: 'The distribution-over-situations criterion compares each language''s own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A case in which two target renderings induce the same target-listener
   posterior over situations, corresponding by τ_z to the source's, and are

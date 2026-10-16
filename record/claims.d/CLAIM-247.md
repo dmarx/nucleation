@@ -6,6 +6,7 @@ formerly:
 title: 'The bearer of communicative identity reversed, from an operational object defined on observed responses to a kind that can outrun observation, and no turn argues the change; both stances stand in the record'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-science
 - metaphysics

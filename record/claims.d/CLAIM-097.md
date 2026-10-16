@@ -6,6 +6,7 @@ formerly:
 title: 'T2I-CompBench is not purely object-centered: its non-spatial relation category already probes interactions, but scores them with CLIPScore and near human ceiling'
 version: 1
 role: granted
+warrant: empirical
 tags:
 - compositionality
 date: '2026-10-09'

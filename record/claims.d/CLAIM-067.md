@@ -6,6 +6,7 @@ formerly:
 title: 'If a transport exactly intertwines a generating set of communicative operations, it preserves every trajectory composed from them'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A transport intertwines each generator exactly yet fails to intertwine
   some composition of them.

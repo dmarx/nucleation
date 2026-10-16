@@ -6,6 +6,7 @@ formerly:
 title: 'In translation the pragmatic frame does not merely select a description of meaning but participates in determining which meaning becomes actual'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Every observed frame and order effect on pragmatic judgements is
   reproduced by a classical model in which the frame only selects among

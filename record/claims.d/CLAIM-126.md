@@ -6,6 +6,7 @@ formerly:
 title: 'Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A representation is exhibited that a map of the stitching class
   reproduces on the input distribution (s ∘ r = target layers) while some

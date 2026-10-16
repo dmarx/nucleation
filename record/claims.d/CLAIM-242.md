@@ -6,6 +6,7 @@ formerly:
 title: 'The use-level counterpart of Saussure''s value is an utterance''s contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Renderings that keep the source's contrast with its contextual
   alternatives keep the judged stance or footing no more often than

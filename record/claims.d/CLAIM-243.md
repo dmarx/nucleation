@@ -15,6 +15,7 @@ history:
     tasks) and CLAIM-252 (the normative reading disclaimed). Status
     Proposed to Active.
 role: counter
+warrant: interpretive
 tags:
 - philosophy-of-language
 - philosophy-of-science

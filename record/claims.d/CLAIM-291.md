@@ -6,6 +6,7 @@ formerly:
 title: 'The adjoint of a square-integrable integral operator is the integral operator with the conjugate-transposed kernel'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A step of the Fubini argument below that fails for a kernel in
   L²(μ⊗ν), for example a square-integrable kernel whose integrand

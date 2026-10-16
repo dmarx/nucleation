@@ -6,6 +6,7 @@ formerly:
 title: 'Levels organize observables, not objects: a communicative object is identified by the intersection of constraint regions picked out by observables at several levels'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Communicative categories such as teasing or reproach are fixed by
   observables at a single level, so that adding observables from other

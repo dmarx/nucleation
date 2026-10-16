@@ -23,6 +23,7 @@ history:
     extension, contextual fraction), so that the global structure adds
     nothing to predict."
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In documented reconstruction chains, with signalling accounted for and
   the coding of outcomes fixed in advance, steps that keep the judgement
@@ -41,6 +42,7 @@ answers:
 - QUESTION-004
 rests_on:
 - CLAIM-038
+- CLAIM-320
 grounds:
 - LIT-265
 - THEORY-165
@@ -164,3 +166,16 @@ none exists: what it documents is that the adequate test has not been
 run. A powered rerun of Lo et al.'s design, under CbD, is what would
 decide the fixed-scenario form, and could be the contextuality arm of
 [CASE-055](../cases.d/CASE-055.md).
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound: that a
+reconstruction can keep most local judgements and change their global
+compatibility is shown possible by a constructed pair, [CASE-037](../cases.d/CASE-037.md) with one
+context changed, which is demonstrated, while that documented
+reconstruction chains do this, which is what the defeat condition
+tests, has no observation under it, so it is interpretive. The
+constructed possibility is now [CLAIM-320](CLAIM-320.md) (demonstrated), on which this claim
+rests. This claim keeps the thesis about translation and reconstruction
+chains, and its measures. Its title states that thesis and is kept; its
+warrant stays interpretive.

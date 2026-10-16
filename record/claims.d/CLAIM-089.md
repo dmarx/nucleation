@@ -6,6 +6,7 @@ formerly:
 title: 'Northstar simply prefers speed: the governing relations are revealed preferences of the organization, not a separate organization of efficacy'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - agency
 - society-and-governance

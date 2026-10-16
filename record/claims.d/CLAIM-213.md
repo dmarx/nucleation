@@ -6,6 +6,7 @@ formerly:
 title: 'A proposed relational kind is a hypothesis about invariance across admissible changes of measurement and context, not an equivalence class under the measurements now available, so realism about kinds gains empirical content as extrapolation to probe families, populations and environments not used to construct them'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Kinds identified by invariance under the probes used to construct them
   that extrapolate to new probe families, populations and environments no

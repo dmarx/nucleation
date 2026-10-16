@@ -6,6 +6,7 @@ formerly:
 title: 'For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play, so the judges are the criterion a probe family is tested against, and a kind outruns only the families coarser than that standard'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Competent participants' same-act verdicts, elicited under stated
   conditions with the standings and norms in play made known to them,

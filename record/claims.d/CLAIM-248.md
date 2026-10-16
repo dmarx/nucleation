@@ -13,6 +13,7 @@ history:
     across conditions, across model families, on stimuli written after
     the training cut-offs.
 role: counter
+warrant: interpretive
 tags:
 - representation-learning
 - philosophy-of-science

@@ -6,6 +6,7 @@ formerly:
 title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   On renderings made without the situation (garblings of their sources),
   the named receivers never do better than with the source on any task in
@@ -23,6 +24,8 @@ grounds:
 complements:
 - CLAIM-050
 - CLAIM-087
+- CLAIM-298
+- CLAIM-304
 uses:
 - TERM-034
 summary: >-
@@ -65,7 +68,7 @@ condition tests it.
 
 - **What a rendering makes possible** is the best risk over all decision
   rules that read it. Blackwell's order compares renderings by this
-  ([THEORY-156](../theory.d/THEORY-156.md)), and by it a garbling is never better ([CLAIM-259](CLAIM-259.md), step
+  ([THEORY-156](../theory.d/THEORY-156.md)), and by it a garbling is never better ([CLAIM-326](CLAIM-326.md), step
   (a)).
 - **What a receiver can use** is the best risk over the rules in a class
   the receiver can apply. [TERM-034](../terms.d/TERM-034.md) makes fidelity "relative to an
@@ -142,3 +145,23 @@ cannot" as a prediction that the most restricted gain most. Szarkowska et
 al. 2016 found no benefit of edited subtitles for deaf viewers. All the
 documented probes are content questions, none the interpersonal relation
 of [CLAIM-087](CLAIM-087.md).
+
+## Note of 2026-10-15: a budget instead of a rule class, and the cue
+
+The exchange of 2026-10-14 (workbench entry of 2026-10-15) came back to
+this claim four times. Two results are filed beside it rather than in it.
+
+- **The other direction.** This claim's receivers are restricted by a
+  rule class, and a garbling can help them. [CLAIM-304](CLAIM-304.md) restricts them by a
+  computational budget, and shows a nearly lossless rendering can defeat
+  all of them: if pseudorandom generators exist, a bit can be rendered so
+  that it is determined up to 2⁻ⁿ and no efficient receiver recovers it.
+  A15: fidelity "isn't generally monotonic in either representation size
+  or computational effort."
+- **The cue.** A19 distinguished the existence of a decoding rule that
+  works from whether the cue actually given invokes it. [QUESTION-096](../questions.d/QUESTION-096.md) and [CLAIM-298](CLAIM-298.md)
+  hold that, with the record's own SDM readings ([LIT-269](../literature.d/LIT-269.md)).
+
+A18 asked for a definition of the cost of recovery that would put this
+claim's rule-class case and [CLAIM-304](CLAIM-304.md)'s budget case on one scale. That is
+[QUESTION-110](../questions.d/QUESTION-110.md). The status is unchanged.

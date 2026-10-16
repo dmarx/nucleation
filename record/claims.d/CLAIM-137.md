@@ -6,6 +6,7 @@ formerly:
 title: 'A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   For some communicative kind no invariant of its realizations is
   complete: two realizations agree on every independently anchored

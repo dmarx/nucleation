@@ -3,7 +3,7 @@ number: 219
 status: Active
 formerly:
 - CLAIM-tmpbvk4j
-title: 'The record''s own reading finds contextuality proper in no behavioural data set, so the headline that translation changes global structure is either about contextuality, for which there is no case but a constructed one, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond'
+title: 'The headline that translation changes global structure is either about contextuality, which has no case but a constructed one while the behavioural data show none, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond'
 version: 2
 history:
 - version: 2
@@ -17,6 +17,7 @@ history:
     contextual model. CLAIM-201 states the form the data leave
     open, a change of cover, and CLAIM-105 v2 restates its condition.
 role: counter
+warrant: demonstrated
 tags:
 - contextuality
 - philosophy-of-language
@@ -28,6 +29,8 @@ grounds:
 - CASE-037
 objects_to:
 - CLAIM-105
+rests_on:
+- CLAIM-325
 summary: >-
   Found in the record's audit of the line on 2026-10-10 (structure lens);
   no turn of the exchange raises it. Dzhafarov, Zhang and Kujala ([LIT-264](../literature.d/LIT-264.md))
@@ -47,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-038 CLAIM-044 CLAIM-125 CLAIM-078 — Proposed; cited for the distinction from context dependence, as a non-citer of LIT-264, for the signalling counts and for the success criterion, not as settled -->
 <!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited as CLAIM-105 cites it, not as settled -->
 
-# CLAIM-219: The record's own reading finds contextuality proper in no behavioural data set, so the headline that translation changes global structure is either about contextuality, for which there is no case but a constructed one, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond
+# CLAIM-219: The headline that translation changes global structure is either about contextuality, which has no case but a constructed one while the behavioural data show none, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond
 
 ## The objection
 
@@ -135,3 +138,22 @@ scenario, is either unsupported or not distinctive.
   the continuity results leave open.
 - Or a restatement about overlap consistency alone, conceding that it is
   context dependence and saying what the theory adds to it.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this objection compound: an empirical
+premise, that the behavioural data the record has read show no
+contextuality proper ([LIT-264](../literature.d/LIT-264.md), [LIT-851](../literature.d/LIT-851.md)), and a dilemma drawn from it, whose
+second horn is the 2ε bound on overlap discrepancy. The premise is now [CLAIM-325](CLAIM-325.md),
+scoped by [CASE-053](../cases.d/CASE-053.md) to data the record has read and to pragmatic or meaning
+judgements, and this claim rests on it. [CLAIM-201](CLAIM-201.md) relies on the same
+premise. This claim keeps the dilemma: the two readings of "global
+compatibility" come from [CLAIM-105](CLAIM-105.md)'s own defeat condition, the first horn
+follows from the premise, and the second is derived, so it is now marked
+demonstrated, conditional on [CLAIM-325](CLAIM-325.md). The title changed, because the old one
+led with the empirical finding: it was "The record's own reading finds
+contextuality proper in no behavioural data set, so the headline that
+translation changes global structure is either about contextuality, for
+which there is no case but a constructed one, or about inconsistent
+connectedness, the ordinary context dependence the line says it goes
+beyond". The new title states the premise as a condition.

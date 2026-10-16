@@ -50,6 +50,7 @@ history:
     more complex than the relative-phase model predict as well, so the
     collective variable must buy no descriptive economy.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A mutually entrained pair whose collective variable buys no descriptive
   economy: a model of each side, taking the other as an input and no more

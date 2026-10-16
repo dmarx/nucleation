@@ -17,6 +17,7 @@ history:
     a probe, so version 2 excludes probes that elicit or are fitted to
     their verdicts. The claim and its body are unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   For the communicative kinds studied, a finite family of relational
   probes fixed in advance, none of which elicits the judges' same-act
@@ -33,6 +34,7 @@ rests_on:
 - CLAIM-046
 - CLAIM-011
 - CLAIM-264
+- CLAIM-322
 grounds:
 - THEORY-032
 - LIT-221

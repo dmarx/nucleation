@@ -6,6 +6,7 @@ formerly:
 title: 'Comparing characters across realizations needs one group identified on both, which is fixed only up to automorphism, and automorphisms permute the irreducible characters, so "the same character" is relative to a chosen correspondence: the collapse problem again, at the level of the symmetry group'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 - individuation
@@ -73,7 +74,7 @@ conjugate, which differs from χ whenever χ takes a non-real value.
 elements. [CLAIM-098](CLAIM-098.md): "The more inclusive notion is a category or semigroup
 of stochastic transformations, within which invertible symmetry maps are
 special cases." [CLAIM-103](CLAIM-103.md)'s note adds that "A stochastic matrix whose
-inverse is also stochastic is a permutation matrix", so among stochastic
+inverse is also stochastic is a permutation matrix" (now held as [CLAIM-318](CLAIM-318.md)), so among stochastic
 maps on finite observation spaces the invertible core is the relabellings.
 So G has to be a symmetry group of the situation that the analyst chooses,
 such as [CLAIM-132](CLAIM-132.md)'s swap of the two participants, with its action on each

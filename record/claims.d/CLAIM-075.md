@@ -6,6 +6,7 @@ formerly:
 title: 'Viability does not establish what ought to persist'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - ethics
 - agency

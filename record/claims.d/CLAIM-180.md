@@ -16,6 +16,7 @@ history:
     critical-distance point stays unchecked against it. The claim is
     unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In the reconstructed exchanges, re-derivations "as though new" turn
   out not to be the restatements furthest from their originals: close

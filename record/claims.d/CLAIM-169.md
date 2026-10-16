@@ -13,6 +13,7 @@ history:
     integrated sense (TERM-045, sense 6), which this claim had left
     to context. The claim is otherwise unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Stable, separately identifiable interests in intertemporal conflict
   over a choice whose valuations are measured as not crossing within its

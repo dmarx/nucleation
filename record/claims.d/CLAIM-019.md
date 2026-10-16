@@ -6,6 +6,7 @@ formerly:
 title: 'Lévi-Straussian transformational analysis, as Descola reads it and as it has been modelled computationally, is direct prior art for structural transport, not only a philosophical precursor'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - linguistics
 - social-science

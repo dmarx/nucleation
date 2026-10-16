@@ -6,6 +6,7 @@ formerly:
 title: 'A compatible family of sections of the event sheaf always glues, so where a communicative object lacks a global realization the obstruction lies in its supports or distributions, not in the event sheaf'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - contextuality
 - mathematics
@@ -19,6 +20,7 @@ grounds:
 complements:
 - CLAIM-037
 - CLAIM-038
+- CLAIM-310
 uses:
 - TERM-042
 summary: >-
@@ -29,6 +31,7 @@ summary: >-
   version 2 restates to agree with it.
 illustrated_by:
 - CASE-037
+- CASE-095
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: THEORY-171 — Proposed; the non-gluing of causal scenarios, cited for the limit it sets on this claim, not as settled -->

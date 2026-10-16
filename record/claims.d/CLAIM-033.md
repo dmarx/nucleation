@@ -16,6 +16,7 @@ history:
     specificity along another, so that a single scalar of preserved
     information orders them as judges do."
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In a sample of published translations drawn by a rule stated in
   advance, renderings that lose distinctions on one dimension gain

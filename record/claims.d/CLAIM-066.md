@@ -6,6 +6,7 @@ formerly:
 title: 'Kirby, Cornish and Smith show structure emerging under transmission with an experimenter''s filter, not filtering by measured inductive biases, and Griffiths and Kalish''s convergence to the prior holds only for sampling learners'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - linguistics
 - cognition

@@ -6,6 +6,7 @@ formerly:
 title: 'Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source''s relevant possibilities rather than equivalence'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Readers judge deliberately adaptive renderings by the same two-way
   equivalence as close translations, penalizing what the target adds as

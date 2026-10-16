@@ -6,6 +6,7 @@ formerly:
 title: 'Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - design-rationale
 - epistemology
@@ -30,6 +31,7 @@ summary: >-
   change is announced and located: traceability.
 complements:
 - CLAIM-250
+- CLAIM-299
 ---
 <!-- inactive-ok-file: CLAIM-270 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-250 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->

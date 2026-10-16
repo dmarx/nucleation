@@ -16,6 +16,7 @@ history:
     A173 and A178 §4.2 restate it. The new wording drops "compatible",
     which also fits this entry's own finding that language data signal.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Every empirical model of pragmatic judgements, once direct context
   effects are accounted for, has a global extension, so that a single

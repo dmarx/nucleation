@@ -16,6 +16,7 @@ history:
     CLAIM-050 v2's condition no longer counts a bounded receiver's
     gain as a defeat of the order.
 role: counter
+warrant: demonstrated
 tags:
 - information-theory
 - philosophy-of-language

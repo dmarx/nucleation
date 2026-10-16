@@ -6,6 +6,7 @@ formerly:
 title: 'Intertwining with an uninformative correspondence is vacuous or lossy, so the source–target correspondence must be anchored to independently measured distinctions and evaluated on tasks other than those it was estimated on'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 - probabilistic-modeling

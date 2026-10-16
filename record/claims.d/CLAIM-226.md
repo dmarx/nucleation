@@ -15,6 +15,7 @@ history:
     reading; QUESTION-075 holds the open part. Status Proposed to
     Active.
 role: counter
+warrant: interpretive
 tags:
 - psychometrics
 - social-science

@@ -17,6 +17,7 @@ history:
     So version 1 failed against the combined form. What remains is the
     subject sense of "self" only.
 role: counter
+warrant: interpretive
 tags:
 - self
 - social-ontology

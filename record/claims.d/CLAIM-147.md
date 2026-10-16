@@ -6,6 +6,7 @@ formerly:
 title: 'A trope is a family of observational profiles joined by admissible transformations around a core of preserved relations, so trope instances can separate structural preservation from pragmatic preservation'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In recasts of trope instances, human judgements of trope identity are
   predicted as well by embedding or surface similarity as by measured

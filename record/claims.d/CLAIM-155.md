@@ -6,6 +6,7 @@ formerly:
 title: 'Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A willed agent, by TERM-048's tests, that shares no more with
   selves than an ordinary agent does on any of ADR-024's unities, so that
@@ -76,7 +77,7 @@ individuation half to willed agents.
 
 A will-organization gives a system standards that decide among its own
 regimes, and with them the persistence of that governance through changes
-in what drives ([CLAIM-166](CLAIM-166.md)). That is near [ADR-024](../decisions.d/ADR-024.md)'s self-governance
+in what drives ([CLAIM-316](CLAIM-316.md)). That is near [ADR-024](../decisions.d/ADR-024.md)'s self-governance
 unity ([TERM-045](../terms.d/TERM-045.md) sense 5) and supports persistence (sense 3). It gives
 no point of view (sense 1). That is why the firm is the hard case: it may be
 willed and self-governing without being a subject. And it is why the

@@ -6,6 +6,7 @@ formerly:
 title: 'A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 date: '2026-10-09'

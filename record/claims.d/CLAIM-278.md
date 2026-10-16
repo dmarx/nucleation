@@ -6,6 +6,7 @@ formerly:
 title: 'An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - self-governance
 - philosophy-of-science

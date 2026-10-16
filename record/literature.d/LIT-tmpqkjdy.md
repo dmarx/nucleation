@@ -1,0 +1,41 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'Spreadable Media: Creating Value and Meaning in a Networked Culture'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref, arXiv and OpenAlex
+    on 2026-10-16. The DOI's Crossref date (2020) is the platform's; `published:` is the 2013 print edition, to the year. Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- social-science
+date: '2026-10-16'
+published: '2013-01-01'
+doi: '10.18574/nyu/9780814743515.001.0001'
+first_author: 'Jenkins'
+keywords:
+- 'spreadability'
+- 'participatory culture'
+- 'circulation'
+- 'viral media'
+implementations: []
+summary: >-
+  Jenkins (2013). Rejects the "viral" metaphor for spreadability: content circulates because audiences actively choose to share and reshape it.
+---
+
+# LIT-tmpqkjdy: Spreadable Media: Creating Value and Meaning in a Networked Culture
+
+Jenkins, H., Ford, S. & Green, J. (2013). *Spreadable Media: Creating Value and Meaning in a Networked Culture*. NYU Press. The DOI is the Scholarship Online edition (2020).
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A7 of the exchange of 2026-10-16: circulation by many people for their own reasons, the middle stage of the Juggernaut case ([CASE-tmpj323r](../cases.d/CASE-tmpj323r.md)).

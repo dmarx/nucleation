@@ -6,6 +6,7 @@ formerly:
 title: 'Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   For the multi-view, context-indexed observation systems the line uses,
   it is shown that no signature sufficient for a stated family of

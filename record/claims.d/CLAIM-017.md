@@ -6,6 +6,7 @@ formerly:
 title: 'What survives translation is the invariants, and approximately preserved relations, of communicative transformation'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The relations judges use to recognize a rendering as preserving the
   act are not invariant, even approximately, under the transformations

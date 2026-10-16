@@ -17,6 +17,7 @@ history:
     without the premises about translation that CLAIM-126 rests on; CLAIM-126
     now rests on this claim.
 role: thesis
+warrant: demonstrated
 defeated_if: A representation that a map of the stitching class reproduces
   on the input distribution (s ∘ r equal to the target layers) while some
   decision problem on the label is solved worse from r than from the target

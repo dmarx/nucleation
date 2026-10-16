@@ -24,6 +24,7 @@ history:
     not constituents of it, and that account would predict the CASE-018
     variation as well."
 role: thesis
+warrant: interpretive
 defeated_if: >-
   An account that individuates acts by the utterance and the speaker's
   internal states alone classifies correctly the acts with standing

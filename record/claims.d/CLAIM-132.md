@@ -6,6 +6,7 @@ formerly:
 title: 'Characters classify finite-dimensional representations of a finite or compact group up to isomorphism only over a field of characteristic zero; they forget the isomorphisms, fix neither the group nor a permutation action, and classify kinds, not tokens or positions'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 - individuation

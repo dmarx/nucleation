@@ -16,6 +16,7 @@ history:
     applies to willed agents (TERM-048). The factorization half is
     unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A system that, at a fixed level and target, has two equally good
   factorizations into agents that disagree on which regimes each agent's
@@ -82,7 +83,7 @@ As the record states it:
    whose efficacy one maintained organization governs. The owner drew the
    distinction ([CLAIM-155](CLAIM-155.md)).
 3. **Operative will is not enough.** Operative will is whichever regime is
-   acting now, and it changes as drive moves ([CLAIM-166](CLAIM-166.md)). If agents
+   acting now, and it changes as drive moves ([CLAIM-316](CLAIM-316.md)). If agents
    were identified by it, the microbiome would become an agent whenever it
    drove hunger. A will-organization is maintained, so identity by
    jurisdiction is stable while drive moves within it.

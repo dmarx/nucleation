@@ -16,6 +16,7 @@ history:
     tally visible as votes arrive, the better demonstration
     (CASE-074), and the continuous case was rewritten around it.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   One form fitting every kind of agent examined. That would be every
   agent whose coordination has been compared on the same data,

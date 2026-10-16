@@ -6,6 +6,7 @@ formerly:
 title: 'Pragmatic translation fidelity is the preservation, under corresponding communicative conditions, of the ways an utterance transforms interpretation, interpersonal alignment and the possibilities for subsequent interaction'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Models that preserve the structure of communicative trajectories
   predict no translation-quality judgement that models restricted to

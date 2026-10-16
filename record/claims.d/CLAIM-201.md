@@ -6,6 +6,7 @@ formerly:
 title: 'Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source''s questions undecidable for its readers and decides others the source left open'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   In the interlingual and retelling arms of the discriminating study
   (CASE-055), the contexts on which readers' judgements are
@@ -29,6 +30,9 @@ complements:
 - CLAIM-257
 uses:
 - TERM-043
+rests_on:
+- CLAIM-319
+- CLAIM-325
 summary: >-
   The record's narrowing, on 2026-10-10, of [CLAIM-105](CLAIM-105.md) after
   [CLAIM-219](CLAIM-219.md). It concedes that the record's reading of [LIT-264](../literature.d/LIT-264.md) finds no
@@ -215,3 +219,17 @@ determinately, and in that sense the two readings may share a context. The
 record does not say whether the two senses are one notion. Which sense the
 record uses, or whether it keeps both under separate names, is left to the
 owner.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: a demonstrated
+odd-cycle construction, the empirical finding that the behavioural data the
+record has read have no contextuality proper, and the interpretive proposal
+that a change of cover is the form of [CLAIM-105](CLAIM-105.md)'s headline those data leave
+open. The construction, with its bound on the Lipschitz constant and the
+point that any change of global extension needs a contextual model, is now
+[CLAIM-319](CLAIM-319.md). The empirical finding is [CLAIM-325](CLAIM-325.md), split from [CLAIM-219](CLAIM-219.md), whose
+dilemma rests on the same premise. This claim rests on both and keeps the
+proposal and its operational definition of a change of cover; it stays
+interpretive. Its title names the two premises as what the proposal starts
+from, and its conclusion is the proposal, so it was kept.

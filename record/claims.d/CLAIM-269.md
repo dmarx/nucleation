@@ -16,6 +16,7 @@ history:
     without the premises about translation that CLAIM-193 rests on; CLAIM-193
     now rests on this claim.
 role: thesis
+warrant: demonstrated
 defeated_if: A regularized linear readout shown to separate two representations
   with the same normalized kernel. Or two representations with the same kernel
   shown to differ in some readout-decodable property not fixed by a symmetry

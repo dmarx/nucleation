@@ -6,6 +6,7 @@ formerly:
 title: 'A communicative kind''s identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Human judgements of shared communicative kind across translations,
   recastings and media are predicted as well by topic-factor, embedding or

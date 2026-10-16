@@ -6,6 +6,7 @@ formerly:
 title: 'Equal entropy does not entail equal relational structure, and a collection of local entropies need not characterize global compatibility'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - information-theory
 - philosophy-of-language

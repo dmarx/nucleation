@@ -6,6 +6,7 @@ formerly:
 title: 'A framing effect in a language model is a property of that model under those prompts: generating and judging with one model measures its preferences, and what a translation ought to preserve needs criteria the model cannot supply'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - philosophy-of-language
 - representation-learning

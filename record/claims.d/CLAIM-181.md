@@ -6,6 +6,7 @@ formerly:
 title: 'The record fixes the grammar an argument is expressed in, though not its shape: its closed vocabulary of schemes, roles and relations formalizes early, and a move that fits no CLAIM, TERM, ARG or declared relation is either forced into one or lost'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - design-rationale
 - epistemology
@@ -31,6 +32,8 @@ summary: >-
   prose ([ADR-032](../decisions.d/ADR-032.md)).
 supports:
 - CLAIM-190
+illustrated_by:
+- CASE-084
 ---
 <!-- inactive-ok-file: CLAIM-185 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 <!-- inactive-ok-file: LIT-756 — Deferred; cited for the argument ADR-030 summarises it for, not for a reading here -->

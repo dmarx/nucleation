@@ -6,6 +6,7 @@ formerly:
 title: 'An adaptive interpreter''s state includes its message, context knowledge and learned parameters, and learning can make some relational invariants more stable and others less'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Adapted and unadapted interpreters conserve the same relational
   observables at the same rates along reconstruction chains.
@@ -44,4 +45,4 @@ Manuscript §11: "an adapted receiver may recover an implicit relation without
 additional message bits", and §5's signal/interpreter distinction ([CLAIM-118](CLAIM-118.md)).
 The enlarged state, and the claim that adaptation changes which invariants are
 conserved, are not in it. It is the place where [CLAIM-074](CLAIM-074.md) meets [QUESTION-006](../questions.d/QUESTION-006.md), and where
-[CLAIM-059](CLAIM-059.md)'s amplifying regime becomes possible.
+[CLAIM-267](CLAIM-267.md)'s amplifying regime becomes possible.

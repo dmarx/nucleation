@@ -6,6 +6,7 @@ formerly:
 title: 'Precedence, jurisdiction and suspension can vary independently'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A change to one of the three relations that cannot be made without a
   matching change to another.

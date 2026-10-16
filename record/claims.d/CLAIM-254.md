@@ -6,6 +6,7 @@ formerly:
 title: 'Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes'
 version: 1
 role: counter
+warrant: interpretive
 tags:
 - linguistics
 - philosophy-of-language

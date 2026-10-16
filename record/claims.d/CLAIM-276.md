@@ -6,6 +6,7 @@ formerly:
 title: 'A shared interpretation''s coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation''s stability is no evidence of its truth'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A demonstration that in populations which aggregate interpretations,
   rising coherence and stability reliably track rising fidelity to
@@ -34,6 +35,8 @@ summary: >-
   community settle on the better option ([THEORY-143](../theory.d/THEORY-143.md)) and Holman and
   Bruner's industrial selection ([THEORY-146](../theory.d/THEORY-146.md)) are the record's readings
   that bear on it. It does not say coherence is bad.
+complements:
+- CLAIM-297
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-146 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

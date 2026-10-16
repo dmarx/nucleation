@@ -6,6 +6,7 @@ formerly:
 title: 'The first open problem of directed transport is not yet posed: a contextual model is a menu of incompatible experiments, and under the natural order on menus any state-independent classical simulation is dominated automatically, so what is open is only the converse or a deficiency bound'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematical-statistics
 - contextuality

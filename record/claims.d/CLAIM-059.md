@@ -3,7 +3,7 @@ number: 59
 status: Proposed
 formerly:
 - CLAIM-tmph3w8f
-title: 'Repeated reconstruction has three regimes, contracting toward conventions, neutral accumulation and amplification, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics'
+title: 'Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics'
 version: 2
 history:
 - version: 2
@@ -15,6 +15,7 @@ history:
     reconstruction chains shows no difference between conditions that
     the theory assigns to different regimes.'
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Per-generation sensitivities, estimated in a metric fixed in advance
   (not total variation, in which no Markov step amplifies) from several
@@ -28,6 +29,7 @@ date: '2026-10-08'
 line: pragmatic-transport
 rests_on:
 - CLAIM-056
+- CLAIM-267
 summary: >-
   A50 §3, A52 §5.3 and the crystallized argument §19, recovered. The
   manuscript and C7 Appendix B keep the corrected bound and the remark
@@ -38,7 +40,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-049 CLAIM-056 CLAIM-068 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-059: Repeated reconstruction has three regimes, contracting toward conventions, neutral accumulation and amplification, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics
+# CLAIM-059: Repeated reconstruction chains fall into different regimes under conditions assigned in advance, contracting toward conventions, accumulating neutrally or amplifying, and amplification needs a metric other than total variation, an enlarged state or state-dependent dynamics
 
 ## The claim
 
@@ -62,3 +64,21 @@ arise under other metrics or nonlinear, adaptive representations." C7 Appendix B
 bound." The regimes as a classification, and the experiment that would tell them
 apart, are gone. The contracting regime is [CLAIM-068](CLAIM-068.md); the amplifying one needs
 the enlarged state of [CLAIM-049](CLAIM-049.md).
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s full classification found this claim compound. The three
+regimes, as regimes of the error recursion e_(i+1) ≤ L_i e_i + ε_i, and
+the bound that a Markov kernel's contraction coefficient in total
+variation is at most one, are demonstrated. They are already held, in
+that general form, by [CLAIM-267](CLAIM-267.md), split from [CLAIM-056](CLAIM-056.md) under [ADR-040](../decisions.d/ADR-040.md), so
+no new claim was drafted; this claim now rests on [CLAIM-267](CLAIM-267.md) directly as
+well as through [CLAIM-056](CLAIM-056.md). What this claim keeps is the application:
+that real reconstruction chains fall into different regimes under
+conditions the theory assigns in advance, with contraction read as
+convergence toward conventions ([CLAIM-068](CLAIM-068.md)), which is what its defeat
+condition tests. No observation the record holds supports that, so its
+warrant is interpretive, not demonstrated. The title was changed,
+because version 2's "Repeated reconstruction has three regimes" read as
+the formal taxonomy, which is [CLAIM-267](CLAIM-267.md)'s. It now says the claim is
+about real chains and conditions fixed in advance.

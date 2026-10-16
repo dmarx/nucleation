@@ -6,6 +6,7 @@ formerly:
 title: 'The 2016 Contextuality-by-Default criterion was being replaced by multimaximal couplings as it appeared, and the change matters for observables in more than two contexts'
 version: 1
 role: granted
+warrant: interpretive
 tags:
 - contextuality
 - mathematics

@@ -6,6 +6,7 @@ formerly:
 title: 'The transports of Propositions 1–2 and of D_obs act on judgement outcomes, not texts, and for any one source–target pair a constant kernel transports any overlap-consistent target, so they constrain a translation only once one kernel family is fixed across many utterances and derived from the text channel'
 version: 1
 role: granted
+warrant: demonstrated
 tags:
 - mathematics
 - probabilistic-modeling

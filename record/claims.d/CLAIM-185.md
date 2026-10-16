@@ -15,6 +15,7 @@ history:
     what is still changing. THEORY-307 and THEORY-324 cited. The
     claim is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Complex structure (claims resting on claims, objection threads,
   revision chains) is found to form as readily on content that never
@@ -53,6 +54,8 @@ supports:
 objected_by:
 - CLAIM-184
 - CLAIM-190
+complements:
+- CLAIM-303
 ---
 <!-- inactive-ok-file: THEORY-307 THEORY-324 — Proposed; the accounts filed from LIT-787, cited as an ancestor and not leaned on -->
 <!-- inactive-ok-file: CLAIM-195 — Proposed; open, and cited as open: under test, not settled -->

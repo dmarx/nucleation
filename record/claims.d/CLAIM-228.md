@@ -16,6 +16,7 @@ history:
     be judged, only that this measure does not judge it.' The
     derivation, the defeat condition and the body are unchanged.
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   In the discriminating study (CASE-055), held-out observational
   distortion, with one kernel family fixed across a class of items, does

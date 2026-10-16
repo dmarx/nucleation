@@ -22,6 +22,7 @@ history:
     schematic structural model, which it says is not identified. The
     defeated_if stands.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Every framing intervention the manuscript's experiments use can be
   written as a measurement context in the cover, or as conditioning on

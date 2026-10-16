@@ -6,8 +6,8 @@
 
 **Information retrieval** — finding what is relevant to a need — document and query representation, relevance and aboutness, ranking and feedback, and the geometric, probabilistic and logical models of retrieval.
 
-0 of 54 TERM documents. Back to the [full index](../README.md).
+1 of 56 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-056](../../../record/terms.d/TERM-056.md) | question drift: a provisional answer becoming part of the question an inquiry is pursuing, as distinct from query drift, in which the queries move away from a question that stays fixed | A21 §3's distinction, used again at A23 VI.C. Classical retrieval names query drift ([LIT-1079](../../../record/literature.d/LIT-1079.md)). An agent that rewrites its own task can drift in the question. The nucleating-argument line studies drift in concepts ([CLAIM-177](../../../record/claims.d/CLAIM-177.md)); this is drift in what is being asked. | Active |

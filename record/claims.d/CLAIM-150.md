@@ -6,6 +6,7 @@ formerly:
 title: 'Identification is not constitution: neither the Yoneda lemma, nor the invariance of a character, nor predictive or interventional success shows that relations constitute what a communicative act is, because an ontology of intrinsically individuated objects with relational properties can reproduce the same predictions'
 version: 1
 role: disclaimed
+warrant: interpretive
 tags:
 - metaphysics
 - philosophy-of-science

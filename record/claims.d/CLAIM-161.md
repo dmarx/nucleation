@@ -22,6 +22,7 @@ history:
     a window and a tolerance. Added under What it does not say. The
     claim is unchanged.
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A system whose coherence measure is conserved under its own dynamics
   over an interval and which, by every other mark, is not the same self
@@ -45,6 +46,7 @@ summary: >-
   number. Proposed here because γ is unspecified.
 complements:
 - CLAIM-287
+- CLAIM-tmpdhfze
 ---
 <!-- inactive-ok-file: THEORY-268 — Proposed; the reading that sets the window question, open -->
 

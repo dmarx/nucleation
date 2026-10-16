@@ -6,6 +6,7 @@ formerly:
 title: 'Canguilhem''s distinction between functioning under a norm and capacity for norm-changing adaptation corresponds to transformation capacity'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   A reading of Canguilhem on which normativity in health is not a capacity
   to establish new norms under changed conditions.

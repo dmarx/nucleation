@@ -6,6 +6,7 @@ formerly:
 title: 'Translation can be posed as a context-indexed information bottleneck: compress the source while preserving information about the responses in each measurement context separately'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   The context-indexed objective selects the same renderings as a
   rate–distortion objective with a fixed pragmatic distortion, so that

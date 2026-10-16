@@ -20,7 +20,8 @@ file is wrong.
 - `record/questions.d/`, `record/claims.d/`, `record/cases.d/`,
   `record/terms.d/`, `record/arguments.d/` and `record/workbench.d/`: the
   record's OWN argument, as distinct from its readings of others'
-  ([ADR-032](record/decisions.d/ADR-032.md)). A CLAIM has a credence (`status`) and a voice (`role`);
+  ([ADR-032](record/decisions.d/ADR-032.md)). A CLAIM has a credence (`status`), a voice (`role`) and a warrant
+  (`warrant`: demonstrated, empirical or interpretive; [ADR-043](record/decisions.d/ADR-043.md));
   an objection is a claim; a thing gets a code the second time it turns up.
   `rests_on` is between claims and `grounds` points outside them, so the
   argument, its objection threads and its revisions render as chains.

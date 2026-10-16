@@ -6,6 +6,7 @@ formerly:
 title: 'A transport whose local kernels commute with restriction maps overlap-consistent source models to overlap-consistent target models'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A family of local kernels that commutes with restriction carries an
   overlap-consistent source model to a target model whose marginals

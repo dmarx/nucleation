@@ -6,8 +6,9 @@
 
 **Design rationale** — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-0 of 81 CASE documents. Back to the [full index](../README.md).
+2 of 97 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-088](../../../record/cases.d/CASE-088.md) | The repeated objection and the argument nobody reuses: filing pays for itself after a few recurrences in one case, and never in the other | A11's CASE B and CASE A, the arithmetic of [CLAIM-303](../../../record/claims.d/CLAIM-303.md). | Active |
+| [CASE-091](../../../record/cases.d/CASE-091.md) | A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately | A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../../../record/questions.d/QUESTION-108.md) asks for. Not run. | Active |

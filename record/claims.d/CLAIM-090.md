@@ -6,6 +6,7 @@ formerly:
 title: 'Serial transmission is reconstructive and filtered by the transmitters'' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable'
 version: 1
 role: thesis
+warrant: empirical
 defeated_if: >-
   A serial-reproduction or iterated-learning chain whose stationary
   output tracks the ancestral input rather than any measured prior of

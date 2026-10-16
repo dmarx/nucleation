@@ -6,6 +6,7 @@ formerly:
 title: 'Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Changes of interpretation produced by in-context conditioning and by
   adaptation of the interpreter are behaviourally indistinguishable:

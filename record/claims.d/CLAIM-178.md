@@ -6,6 +6,7 @@ formerly:
 title: 'A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Drafts written straight from an exchange, checked against the exchange
   itself, turn out to preserve its commitments and announce changes of
@@ -23,6 +24,7 @@ answers:
 - QUESTION-037
 rests_on:
 - CLAIM-177
+- CLAIM-324
 uses:
 - TERM-052
 summary: >-
@@ -94,3 +96,16 @@ rests on them ([CLAIM-182](CLAIM-182.md)). When a draft drops one, no reference 
 and nothing reports the loss. A claim in the record is an anchor. Dropping
 it from a work leaves its inbound references standing and its `works`
 membership visibly gone.
+
+## Note of 2026-10-15: split under [ADR-043](../decisions.d/ADR-043.md)
+
+[ADR-043](../decisions.d/ADR-043.md)'s classification found this claim compound: that a manuscript
+should be a view over the argument is interpretive, while that the
+drafts of the What Survives Translation? exchange dropped commitments
+and changed the thesis without saying so is empirical, from one
+exchange. The empirical part, scoped to that exchange, is now [CLAIM-324](CLAIM-324.md), on
+which this claim rests, as it already rests on [CLAIM-177](CLAIM-177.md). This claim
+keeps the rest and stays interpretive: the general form, that a draft
+written straight from an exchange behaves this way, generalizes from
+one case, and the remedy is a proposal. Its title already states the
+general form, so it was kept.

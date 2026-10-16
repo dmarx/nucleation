@@ -179,7 +179,7 @@ most, Composable Diffusion does worst. Table I lists earlier benchmarks
   counting, not social or communicative content. As of 2025 the claim's
   description of this benchmark still holds, with interactions as its one
   relational category beyond space.
-- **[CLAIM-123](../claims.d/CLAIM-123.md).** Composable Diffusion re-implemented on SD v2 is
+- **[CLAIM-123](../claims.d/CLAIM-123.md) (the binding failures are now [CLAIM-321](../claims.d/CLAIM-321.md)).** Composable Diffusion re-implemented on SD v2 is
   again the weakest method on most sub-categories (Table XIII) and the
   only one far below ceiling on interactions in human ratings (0.81). This
   is the same evidence as the conference version gave, with two more

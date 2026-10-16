@@ -6,6 +6,7 @@ formerly:
 title: 'Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context'
 version: 1
 role: thesis
+warrant: demonstrated
 defeated_if: >-
   A pragmatic data set in which inconsistent connectedness is handled by
   the sheaf-theoretic test without loss, or one where the CbD criterion
@@ -40,10 +41,12 @@ complements:
 - CLAIM-131
 - CLAIM-141
 - CLAIM-143
+- CLAIM-310
 illustrated_by:
 - CASE-008
 - CASE-035
 - CASE-037
+- CASE-095
 ---
 
 # CLAIM-037: Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context

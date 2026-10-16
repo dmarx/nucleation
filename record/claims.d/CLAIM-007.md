@@ -6,6 +6,7 @@ formerly:
 title: 'In a bridge or chain of progressive reconstruction the path itself is observable: which constraints survive early, which are introduced late, and which relations emerge only through refinement'
 version: 1
 role: thesis
+warrant: interpretive
 defeated_if: >-
   Intermediate states of guided reconstruction carry no information
   about the final relational content beyond what the endpoints carry.
