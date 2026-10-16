@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp262x5
 paper: LIT-444
 title: 'Examining the Society of Mind'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-01'
@@ -18,6 +18,13 @@ history:
     against the 2005 draft of that book. I could not check its quotations
     of *The Society of Mind* or of the 1976 "Brazil" drafts: the first is
     unread in this record, and the second is unpublished.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Bearing on the record corrected: THEORY-043 now cites this reading
+    (C3, agents communicating without shared symbols) in its architectural
+    route, so the line saying no THEORY bears on it was stale. The reading
+    is unchanged, and it still supports no THEORY of its own.
 date: '2026-10-01'
 summary: >-
   An exposition, read in full. Singh dates the Society of Mind to Minsky
@@ -30,6 +37,7 @@ summary: >-
   reasoning, blackboards, Cyc and Soar, and concludes that the theory has
   never been implemented. Its claims of lineage are asserted, not shown.
 ---
+<!-- inactive-ok-file: THEORY-043 — Proposed; the account that cites this reading, named in Bearing on the record, not leaned on -->
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
 <!-- inactive-ok-file: LIT-418 — Deferred, closed access; named as Minsky's reply to the reviews of the book, not leaned on -->
 <!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the book this work belongs to or answers, not leaned on for its content -->
@@ -217,7 +225,9 @@ every later system.
 
 ## Bearing on the record
 
-- No THEORY document in the record bears on it.
+- [THEORY-043](../theory.d/THEORY-043.md) cites C3 in its architectural route: a criterion that marks
+  a group down for loosely coupled units marks a society of mind down too.
+  The paper is an exposition and supports no THEORY of its own.
 - It is the source for this record's knowledge of *The Society of Mind*
   while that book is unread. Anything the record says about the book's
   mechanisms should name this paper as the source until the book is read.

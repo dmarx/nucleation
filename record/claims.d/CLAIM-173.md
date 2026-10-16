@@ -4,7 +4,7 @@ status: Rejected
 formerly:
 - CLAIM-tmpw0mrc
 title: 'The threshold criterion measures coupling strength, and coupling is not constitution: a metronome driving a musician, or a nerve driving a muscle, forms a strongly coupled block that clears the threshold without being one system'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-11'
@@ -15,6 +15,12 @@ history:
     were about agency, not system-hood. Direction gives a system's
     architecture, not its membership. The argument below is kept as
     version 1 stated it.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Grounds now point at THEORY-tmpma6ht, which states Adams and
+    Aizawa's coupling-constitution objection from its readings, in place
+    of the bare LIT-455. The claim and its status are unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -25,7 +31,7 @@ line: distributed-agency
 objects_to:
 - CLAIM-157
 grounds:
-- LIT-455
+- THEORY-tmpma6ht
 summary: >-
   The record's anticipated objection to [CLAIM-157](CLAIM-157.md), and Adams &
   Aizawa's coupling-constitution objection ([LIT-455](../literature.d/LIT-455.md)) aimed at the new

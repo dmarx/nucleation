@@ -22,7 +22,7 @@ promote_when: >-
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-02'
@@ -55,6 +55,15 @@ history:
     (THEORY-tmpmblxg), Ritchie (THEORY-tmpinjtf) and Epstein's survey
     (THEORY-tmpavyju) are named in Connections. Ritchie and Epstein stay
     out of the source, since they only constrain a criterion.
+- version: 6
+  date: '2026-10-16'
+  note: >-
+    Connections names the THEORYs now filed for the Chalmers, Dennett and
+    Block readings this account cites: the sensorimotor extended-mind
+    thesis with its directness criterion (THEORY-tmpegs18), the
+    rationality presupposition of belief ascription (THEORY-tmpnzxy2) and
+    the case against machine-table functionalism (THEORY-tmp91cqx). None
+    is a premise here.
 tags:
 - consciousness
 - mereology
@@ -93,6 +102,7 @@ answers:
 <!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
 <!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
+<!-- inactive-ok-file: THEORY-tmpegs18 THEORY-tmpnzxy2 — Proposed; accounts filed for readings this one cites, named in Connections, not leaned on -->
 
 # THEORY-043: A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
@@ -358,6 +368,13 @@ needed.
   composition-side view of agency this account cites from [LIT-439](../literature.d/LIT-439.md). It is
   the cheap end of the scale [THEORY-071](THEORY-071.md) makes dear: on it any homeostat is
   a Self.
+- **The cognition readings, now stated as accounts.** Chalmers's
+  directness criterion is part of [THEORY-tmpegs18](THEORY-tmpegs18.md), the sensorimotor
+  statement of the extended-mind thesis, which denies extended
+  consciousness through perception. Dennett's concession that the
+  intentional system is an idealisation is [THEORY-tmpnzxy2](THEORY-tmpnzxy2.md). Block and
+  Fodor's case that the organisation that makes a mind cannot be a machine
+  table is [THEORY-tmp91cqx](THEORY-tmp91cqx.md). None is a premise here.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).

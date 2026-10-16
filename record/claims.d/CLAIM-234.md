@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpi6n8k
 title: 'The record''s iterated-learning readings bear on lexical, structural and functional transmission, and none measures stance, footing or speech-act function along a chain'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounds now point at THEORY-tmpaw5e2, which states the Kalish,
+    Griffiths and Lewandowsky result from its reading (NOTE-616), in place
+    of the bare LIT-820. The claim is unchanged.
 role: granted
 warrant: empirical
 tags:
@@ -18,7 +25,7 @@ rests_on:
 grounds:
 - THEORY-155
 - LIT-771
-- LIT-820
+- THEORY-tmpaw5e2
 - LIT-825
 - THEORY-167
 - THEORY-173
