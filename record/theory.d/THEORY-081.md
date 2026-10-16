@@ -41,6 +41,8 @@ summary: >-
   the prior family the optimum is maximum likelihood.
 supports:
 - CLAIM-154
+presupposed_by:
+- THEORY-tmpk6k4p
 ---
 <!-- inactive-ok-file: THEORY-073 THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 
