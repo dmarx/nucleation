@@ -61,6 +61,7 @@ presupposed_by:
 answers:
 - QUESTION-061
 ---
+<!-- inactive-ok-file: THEORY-tmp26rh2 THEORY-tmpk5k3c THEORY-tmpspj51 — Proposed; the Dennett and illusionist accounts named in the rival accounts section to say why none is declared a rival, not leaned on -->
 <!-- inactive-ok-file: THEORY-098 THEORY-094 — Proposed; filed in the same batch and named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-102 — Proposed; named in Connections for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
@@ -143,12 +144,12 @@ actual experience (Dehaene's "refrigerator light"), or a generic image
 for a specific one (Kouider et al.; Cohen and Dennett), is the account
 this one excludes. The record holds no theory stating it as such. Parts
 of Dennett's position are now stated: "Quining Qualia" ([LIT-433](../literature.d/LIT-433.md)) as
-THEORY-tmp26rh2, and Taylor's real-pattern reading, with the
-Orwell/Stalin indeterminacy, as THEORY-tmpk5k3c; Frankish's illusionism
-is THEORY-tmpspj51. None states the timing argument of Dennett and
+[THEORY-tmp26rh2](THEORY-tmp26rh2.md), and Taylor's real-pattern reading, with the
+Orwell/Stalin indeterminacy, as [THEORY-tmpk5k3c](THEORY-tmpk5k3c.md); Frankish's illusionism
+is [THEORY-tmpspj51](THEORY-tmpspj51.md). None states the timing argument of Dennett and
 Kinsbourne's "Time and the Observer" ([LIT-431](../literature.d/LIT-431.md)), which is the one this
 account answers, so no rival is declared. Block's 2007 paper rivals
-LIT-431 and LIT-433 at the level of the work. [LIT-431](../literature.d/LIT-431.md) argues that whether a content
+[LIT-431](../literature.d/LIT-431.md) and [LIT-433](../literature.d/LIT-433.md) at the level of the work. [LIT-431](../literature.d/LIT-431.md) argues that whether a content
 was experienced and then revised, or revised before it was experienced,
 has no answer, because every datum fits both. Block argues that the
 parallel question for Sperling, whether the uncued letters were seen

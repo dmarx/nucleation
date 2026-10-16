@@ -105,7 +105,7 @@ well without them. Neither happened in these samples.
 
 ## Connections
 
-- THEORY-tmpoxf3p states what the 1997 Iowa gambling study showed, with
+- [THEORY-tmpoxf3p](THEORY-tmpoxf3p.md) states what the 1997 Iowa gambling study showed, with
   its limits: anticipatory SCRs in controls and not in patients, and no
   advantageous choice or deck-specific signal shown before awareness. The
   covert half of this account gets no support from it.

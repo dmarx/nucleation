@@ -57,6 +57,7 @@ summary: >-
   manipulation can then belong to the whole, with no manipulative intent in
   any member.
 ---
+<!-- inactive-ok-file: THEORY-tmprsxfe — Proposed; filed from the first case, named in What the record holds, not an answer -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader question whether coordination makes an agent, named and set aside -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 THEORY-258 — Proposed; accounts filed today that bear on the question without answering it -->
 
@@ -132,12 +133,12 @@ The question has two parts:
   The targeted behaviour is overt validation, so the self-opacity harm in
   [THEORY-235](../theory.d/THEORY-235.md), which needs covert influence, does not reach it as shown.
   The covert behaviours were not tested against a small minority.
-- **THEORY-tmprsxfe** (LIT-179): a nudge a learning system discovers
+- **[THEORY-tmprsxfe](../theory.d/THEORY-tmprsxfe.md)** ([LIT-179](../literature.d/LIT-179.md)): a nudge a learning system discovers
   comes with no theory of why it works, so judging it by outcomes cannot
   diagnose its side effects. It states the first case's design problem,
   not whether the system wrongs anyone. Its limit: proposed, and its
   oversight remedy is argued, not tested.
-- **THEORY-tmpwx87w** (LIT-084): in the EEAS's 2024 sample, three in four
+- **[THEORY-tmpwx87w](../theory.d/THEORY-tmpwx87w.md)** ([LIT-084](../literature.d/LIT-084.md)): in the EEAS's 2024 sample, three in four
   recurring channels are not attributed to any state. It fixes the shape
   of the second case, a network whose members need not know they serve a
   state, not an answer. Its limit: the sample is not representative and

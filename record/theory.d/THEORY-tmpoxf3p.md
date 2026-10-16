@@ -20,6 +20,7 @@ summary: >-
   effect reported is group × period, with no bad-versus-good deck test.
   Nothing here shows that the SCR, or what it indexes, causes the choice.
 ---
+<!-- inactive-ok-file: THEORY-tmpddd8b — Proposed; the account this study was offered for, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
 # THEORY-tmpoxf3p: In the Iowa gambling task, every one of ten controls and none of six patients with bilateral ventromedial prefrontal damage developed anticipatory skin-conductance responses, and three patients who could state the right strategy still did not switch to the good decks; the controls' preference for the good decks became significant only once they reported a hunch, so the study does not show advantageous choice or deck-specific bodily signals before any awareness
@@ -87,8 +88,8 @@ have been significant, and was not.
 
 ## Connections
 
-- THEORY-tmpddd8b states the somatic marker hypothesis this study was
-  offered for, with LIT-383 as a second source. The caveats above bound
+- [THEORY-tmpddd8b](THEORY-tmpddd8b.md) states the somatic marker hypothesis this study was
+  offered for, with [LIT-383](../literature.d/LIT-383.md) as a second source. The caveats above bound
   what that account can take from this experiment: its covert-bias clause
   is not shown here.
 - **The hypothesis it is cited for.** Damasio's 1996 statement of the

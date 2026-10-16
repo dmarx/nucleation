@@ -116,7 +116,7 @@ So the kernel is the invariant and the representation is one realization of it �
 
 ## What this does not say
 
-- That orthogonal equivalence is the right notion of sameness for learned models. The Platonic-convergence paper (LIT-302, NOTE-286) adopts it rather than disputing it, by defining a representation by its kernel (§2), and its alignment metric is invariant to more; adopting a notion is not an argument that it is right.
+- That orthogonal equivalence is the right notion of sameness for learned models. The Platonic-convergence paper ([LIT-302](../literature.d/LIT-302.md), [NOTE-286](../notes.d/NOTE-286.md)) adopts it rather than disputing it, by defining a representation by its kernel (§2), and its alignment metric is invariant to more; adopting a notion is not an argument that it is right.
 - Anything for nonlinear kernels on the representation, where what is determined is the kernel's feature map, not the representation itself.
 - That a model's kernel is determined by anything short of the model; the uniqueness is of realizations of a given kernel.
 

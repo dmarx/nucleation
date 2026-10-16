@@ -39,6 +39,11 @@ summary: >-
   standing beliefs, not about consciousness.
 supports:
 - CLAIM-175
+extended_by:
+- THEORY-tmpegs18
+rivals:
+- THEORY-tmpgrmvp
+- THEORY-tmpnnu03
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 THEORY-343 THEORY-tmpuq6y1 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
