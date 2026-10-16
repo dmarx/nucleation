@@ -25,9 +25,15 @@
 - Twenty-five works registered unread (curation entry of 2026-10-16),
   among them Krakauer et al. on the information theory of individuality,
   Flack on multiple time-scales, Feldman and Pentland on routines, and
-  Jia et al. on the DeGroot–Friedkin model.
+  Jia et al. on the DeGroot–Friedkin model; and five candidates for two
+  works the exchange cited that could not be identified uniquely
+  (curation entry of 2026-10-16, 01:54).
 
 ### Documentation
+
+- The two theses held back from claims, plural succession and
+  distributed cultural uptake, written out with their defeaters in
+  [QUESTION-tmpn78rt](record/questions.d/QUESTION-tmpn78rt.md) and [QUESTION-tmpxrbo1](record/questions.d/QUESTION-tmpxrbo1.md).
 
 - Dated notes on [CASE-092](record/cases.d/CASE-092.md) (the linearization and the analyses proposed for
   it) and [QUESTION-093](record/questions.d/QUESTION-093.md) (Hoel et al. 2013 is read, not unread).

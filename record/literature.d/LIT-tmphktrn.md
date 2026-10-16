@@ -1,0 +1,42 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on
+  sports fandom (the workbench entry of 2026-10-16). No NOTE is filed.
+title: 'Causal Emergence 2.0: Quantifying emergent complexity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against arXiv and Crossref
+    on 2026-10-16. arXiv v1. Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the
+    authors and the title found nothing.
+tags:
+- complex-systems
+- causality
+date: '2026-10-16'
+published: '2025-03-17'
+arxiv: '2503.13395'
+first_author: 'Hoel'
+keywords:
+- 'causal emergence'
+- 'emergent complexity'
+- 'multiscale structure'
+- 'causal contribution'
+implementations: []
+summary: >-
+  Hoel (2025). Treats a system's scales as slices of a higher-dimensional object and measures which coarse-grains make unique causal contributions, giving a measure of emergent complexity.
+---
+
+# LIT-tmphktrn: Causal Emergence 2.0: Quantifying emergent complexity
+
+Hoel, E. (2025). arXiv preprint.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+Registered as a candidate for the follow-up in Hoel's line that A10 of the exchange of 2026-10-16 cited ("2024/2025"), on searching for coarse-grainings rather than assuming them. That paper could not be identified uniquely (curation entries of 2026-10-16); the owner asked for every candidate to be filed. The framework Jansma and Hoel's "Engineering Emergence" builds on. For [QUESTION-tmp1bt6j](../questions.d/QUESTION-tmp1bt6j.md).
