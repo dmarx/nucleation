@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CLAIM-tmpce4jz
 title: 'Architectural, dynamical and goal-directed accounts of distributed agency are complementary components of one account, each answering a different sub-question'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Grounds point at THEORY-tmpytg92, which states the Brooks result this
+    claim relies on (coherent behaviour from competing layers with no
+    central executive), in place of the bare LIT-436.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -17,7 +24,7 @@ tags:
 date: '2026-10-04'
 line: distributed-agency
 grounds:
-- LIT-436
+- THEORY-tmpytg92
 - THEORY-069
 - LIT-439
 objects_to:

@@ -41,6 +41,9 @@ answered_by:
 - CLAIM-155
 - THEORY-071
 - THEORY-208
+- THEORY-tmpgjsxj
+- THEORY-tmpqr2ow
+- THEORY-tmpragh3
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
