@@ -36,7 +36,7 @@ summary: >-
   smoking–lung cancer case illustrates the theory; it does not test it.
 ---
 
-<!-- inactive-ok-file: THEORY-tmphbudc — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-537 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-197: A Pragmatist Theory of Evidence
 
@@ -121,7 +121,7 @@ In the record: Worrall ([LIT-175](../literature.d/LIT-175.md)) reaches an overla
 
 Nothing here is an ML practice, and nothing in the anthology is sourced from it. What it offers ML practice is a vocabulary, not an instruction. Warrant for a claim from observational comparisons, such as ablations on shared infrastructure or correlational scaling analyses, comes from explicitly listing and eliminating the relevant alternative explanations. Generic alternatives include selection effects and data leakage; case-specific ones include confounded hyperparameter budgets. Reiss's stopping rules (effect size, manner and timing, inferential distance, cost of further checking) map loosely onto how ML papers decide when a result needs more seeds or controls. That mapping is this reader's, not the paper's. If the anthology ever writes a THEORY document on what warrants claims from non-randomised comparisons, this paper and Worrall ([LIT-175](../literature.d/LIT-175.md)) are the two to cite together.
 
-*Note of 2026-10-16:* [THEORY-tmphbudc](../theory.d/THEORY-tmphbudc.md) now cites [LIT-118](../literature.d/LIT-118.md) as a source.
+*Note of 2026-10-16:* [THEORY-537](../theory.d/THEORY-537.md) now cites [LIT-118](../literature.d/LIT-118.md) as a source.
 
 ## Limitations
 

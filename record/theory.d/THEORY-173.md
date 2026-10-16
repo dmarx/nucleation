@@ -36,7 +36,7 @@ summary: >-
   classification could fail.
 rivals:
 - THEORY-208
-- THEORY-tmpqr2ow
+- THEORY-616
 supports:
 - CLAIM-234
 - CLAIM-068

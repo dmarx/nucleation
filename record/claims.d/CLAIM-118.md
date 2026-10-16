@@ -10,9 +10,9 @@ history:
   date: '2026-10-16'
   note: >-
     Grounds now also name the THEORYs filed from what the claim relies on:
-    THEORY-tmp4sei8 (LIT-796, the same demonstrations used as context and
+    THEORY-439 (LIT-796, the same demonstrations used as context and
     as a training signal are not interchangeable), cited in the body as
-    the case for at the level of the whole model, and THEORY-tmpaeic7
+    the case for at the level of the whole model, and THEORY-481
     (LIT-859, the outer training that produces the in-context learner).
     The claim is unchanged.
 role: thesis
@@ -32,8 +32,8 @@ works:
 grounds:
 - LIT-859
 - THEORY-169
-- THEORY-tmp4sei8
-- THEORY-tmpaeic7
+- THEORY-439
+- THEORY-481
 summary: >-
   A43's first point about the U17 proposal, developed at A44–A45 into
   three sources of change (evidence, transient computation, parameters).
@@ -42,7 +42,7 @@ supports:
 - CLAIM-074
 ---
 <!-- inactive-ok-file: THEORY-169 — Proposed; attention as an inner learner, cited as evidence on one side, not as settled -->
-<!-- inactive-ok-file: THEORY-tmpaeic7 — Proposed; the outer training of the in-context learner, cited as evidence on one side, not as settled -->
+<!-- inactive-ok-file: THEORY-481 — Proposed; the outer training of the in-context learner, cited as evidence on one side, not as settled -->
 <!-- inactive-ok-file: CLAIM-074 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-118: Context and interpreter are separate sources of interpretive change: in-context conditioning changes the effective decoding context, adaptation changes the decoder, and improving the signal differs from improving the interpreter

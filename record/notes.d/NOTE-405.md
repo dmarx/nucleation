@@ -28,7 +28,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, which cites this paper as an ally on the cooperative function of morality -->
-<!-- inactive-ok-file: THEORY-tmpreimy — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-626 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-405: Rai & Fiske 2011, relationship regulation
 
@@ -166,7 +166,7 @@ The four motives (pp. 61–64):
   sketched. It is no better tested.
 - No THEORY document cites it. No ML instruction.
 
-*Note of 2026-10-16:* [THEORY-tmpreimy](../theory.d/THEORY-tmpreimy.md) now cites [LIT-507](../literature.d/LIT-507.md) as a source.
+*Note of 2026-10-16:* [THEORY-626](../theory.d/THEORY-626.md) now cites [LIT-507](../literature.d/LIT-507.md) as a source.
 
 ## Limitations
 

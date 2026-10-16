@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Grounded on THEORY-tmp60gbs, Parfit's account that what matters can
+    Grounded on THEORY-447, Parfit's account that what matters can
     branch and so is not identity, which the claim's second half restates
     for organizational continuity.
 role: thesis
@@ -31,7 +31,7 @@ line:
 answers:
 - QUESTION-043
 grounds:
-- THEORY-tmp60gbs
+- THEORY-447
 complements:
 - CLAIM-161
 - CLAIM-280
@@ -44,11 +44,11 @@ summary: >-
   relation. Organizational histories can branch, merge, and partially
   overlap." It sits beside [CLAIM-161](CLAIM-161.md), which asks for a coherence measure
   conserved along a system's own trajectory, and qualifies it for gaps. Its
-  second half is Parfit's branching argument (THEORY-tmp60gbs) applied to
+  second half is Parfit's branching argument (THEORY-447) applied to
   organizational continuity. It
   uses [TERM-045](../terms.d/TERM-045.md)'s persisting sense.
 ---
-<!-- inactive-ok-file: THEORY-tmp60gbs — Proposed; Parfit's account, the ground this claim restates, cited as open -->
+<!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the ground this claim restates, cited as open -->
 <!-- inactive-ok-file: QUESTION-043 CLAIM-161 CLAIM-280 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-287: What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation

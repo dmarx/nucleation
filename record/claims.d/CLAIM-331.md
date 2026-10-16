@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    grounds gains THEORY-tmpx1n2e, which states the near-decomposability
+    grounds gains THEORY-661, which states the near-decomposability
     result (slow, aggregate dynamics between weakly coupled blocks) this
     claim cites Simon for. The claim is unchanged.
 role: thesis
@@ -30,7 +30,7 @@ line:
 - distributed-agency
 grounds:
 - LIT-905
-- THEORY-tmpx1n2e
+- THEORY-661
 - CASE-102
 - CASE-098
 summary: >-

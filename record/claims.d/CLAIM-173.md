@@ -18,7 +18,7 @@ history:
 - version: 3
   date: '2026-10-16'
   note: >-
-    Grounds now point at THEORY-tmpma6ht, which states Adams and
+    Grounds now point at THEORY-582, which states Adams and
     Aizawa's coupling-constitution objection from its readings, in place
     of the bare LIT-455. The claim and its status are unchanged.
 role: counter
@@ -31,7 +31,7 @@ line: distributed-agency
 objects_to:
 - CLAIM-157
 grounds:
-- THEORY-tmpma6ht
+- THEORY-582
 summary: >-
   The record's anticipated objection to [CLAIM-157](CLAIM-157.md), and Adams &
   Aizawa's coupling-constitution objection ([LIT-455](../literature.d/LIT-455.md)) aimed at the new

@@ -130,9 +130,9 @@ inference.
 Presupposes [THEORY-017](THEORY-017.md)'s sense of intrinsic: the multiplet is intrinsic, and the basis inside it is extra data.
 [LIT-322](../literature.d/LIT-322.md)'s weekday circles are real ℤ/7 irreducibles ([NOTE-273](../notes.d/NOTE-273.md)). A degeneracy
 test would see them as pairs only.
-Wedderburn's structure theorem ([THEORY-tmpvk1js](THEORY-tmpvk1js.md)) gives the algebra-side half
+Wedderburn's structure theorem ([THEORY-652](THEORY-652.md)) gives the algebra-side half
 of the real Schur corollary the `promote_when` asks for: each simple real
 block is a full matrix algebra over a real division algebra. It does not give
 the step from a representation's commutant to such a block. Pontryagin
-duality ([THEORY-tmpupzrd](THEORY-tmpupzrd.md)) is the abelian case, where the irreducibles over ℂ
+duality ([THEORY-645](THEORY-645.md)) is the abelian case, where the irreducibles over ℂ
 are characters.

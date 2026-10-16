@@ -58,7 +58,7 @@ history:
     the sources: the account argues from its §4.2 proof and App. A
     metric. The Source section cites it beside ANTH-LIT-458. The
     measured half of the hypothesis is filed separately as
-    THEORY-tmptjbe9. The claim is unchanged.
+    THEORY-640. The claim is unchanged.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -84,7 +84,7 @@ supports:
 
 ## Source
 
-Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-738](../notes.d/NOTE-738.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-753](../notes.d/NOTE-753.md). The hypothesis itself is Huh et al. (2024), [LIT-302](../literature.d/LIT-302.md) (held in the anthology as [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md)), §4.2 and App. A, as read in [NOTE-286](../notes.d/NOTE-286.md); its measurements are stated in [THEORY-tmptjbe9](THEORY-tmptjbe9.md).
+Nielsen et al. (2025), [LIT-253](../literature.d/LIT-253.md), Thm 2.2, Thm 3.1, Cor. 3.2, Thm 4.7, as read in [NOTE-738](../notes.d/NOTE-738.md); Harvey, Larsen & Williams (2023), [LIT-250](../literature.d/LIT-250.md), Thm 1 and eq. 24, as read in [NOTE-753](../notes.d/NOTE-753.md). The hypothesis itself is Huh et al. (2024), [LIT-302](../literature.d/LIT-302.md) (held in the anthology as [ANTH-LIT-458](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-458.md)), §4.2 and App. A, as read in [NOTE-286](../notes.d/NOTE-286.md); its measurements are stated in [THEORY-640](THEORY-640.md).
 
 ## What was actually shown
 

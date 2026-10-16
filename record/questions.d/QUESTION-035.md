@@ -37,9 +37,9 @@ summary: >-
   [CLAIM-152](../claims.d/CLAIM-152.md) requires.
 answered_by:
 - CLAIM-157
-- THEORY-tmp5hj3c
-- THEORY-tmp62rm0
-- THEORY-tmplw3dq
+- THEORY-443
+- THEORY-448
+- THEORY-579
 refined_by:
 - QUESTION-040
 - QUESTION-042

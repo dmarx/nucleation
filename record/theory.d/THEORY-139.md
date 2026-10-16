@@ -24,7 +24,7 @@ history:
   date: '2026-10-16'
   note: >-
     Connections names List and Pettit's replies in the Episteme symposium
-    (LIT-730, read in NOTE-582), now stated as THEORY-tmphb1dj, for the
+    (LIT-730, read in NOTE-582), now stated as THEORY-536, for the
     book's verdict on group responsibility and the three things it adds
     that this account does not yet say.
 tags:
@@ -51,7 +51,7 @@ supports:
 - CLAIM-030
 - CLAIM-271
 ---
-<!-- inactive-ok-file: THEORY-tmphb1dj THEORY-133 — Proposed; the authors' replies and the realization-insensitivity account, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-536 THEORY-133 — Proposed; the authors' replies and the realization-insensitivity account, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: LIT-742 — Unavailable, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->
 
@@ -107,7 +107,7 @@ judgments, it can give itself those means, so the excuse expires.
   premise for a corporation having a mind of its own, and argues from there
   to responsibility. If that result fell, the argument would need another
   route to corporate agency ([ADR-029](../decisions.d/ADR-029.md)).
-- **List and Pettit's replies ([LIT-730](../literature.d/LIT-730.md), [NOTE-582](../notes.d/NOTE-582.md); [THEORY-tmphb1dj](THEORY-tmphb1dj.md)).** They
+- **List and Pettit's replies ([LIT-730](../literature.d/LIT-730.md), [NOTE-582](../notes.d/NOTE-582.md); [THEORY-536](THEORY-536.md)).** They
   give the book's verdict (GA 182, quoted p. 16): group agents are fit to be
   held responsible "in their own right". They add three things this
   account does not yet say. Fitness is assigned "only in the domain where

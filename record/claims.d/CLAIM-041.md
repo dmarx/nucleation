@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    THEORY-tmpi5odg added to the grounds beside LIT-312. It states what
+    THEORY-545 added to the grounds beside LIT-312. It states what
     A24 relied on: Aerts and Gabora's model uses projectors diagonal in
     one basis, so its fits establish nothing beyond classical probability.
     The claim is unchanged.
@@ -29,7 +29,7 @@ grounds:
 - THEORY-013
 - CASE-001
 - LIT-312
-- THEORY-tmpi5odg
+- THEORY-545
 - THEORY-166
 - THEORY-010
 objects_to:

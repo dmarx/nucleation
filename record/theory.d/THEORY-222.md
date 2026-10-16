@@ -25,7 +25,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Connections: the ΦID account is now filed (THEORY-tmpcxkrx), so the
+    Connections: the ΦID account is now filed (THEORY-497), so the
     line saying the record holds none is replaced. No rivalry is declared,
     since whether the two disagree depends on the redundancy function.
 tags:
@@ -48,7 +48,7 @@ summary: >-
 answers:
 - QUESTION-093
 ---
-<!-- inactive-ok-file: THEORY-tmpcxkrx — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
+<!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-133 THEORY-071 — Proposed; compared, nothing here rests on them -->
 
 # THEORY-222: A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system's causal structure is most effective can be a macro scale
@@ -135,7 +135,7 @@ chosen to display it.
 - **[LIT-025](../literature.d/LIT-025.md) and [LIT-027](../literature.d/LIT-027.md) (information-decomposition emergence).** A
   different formal object under the same name: interventional and
   comparing two models here, observational and asking what a macro feature
-  predicts beyond the parts there. The ΦID account is [THEORY-tmpcxkrx](THEORY-tmpcxkrx.md).
+  predicts beyond the parts there. The ΦID account is [THEORY-497](THEORY-497.md).
   Its reading ([NOTE-010](../notes.d/NOTE-010.md)) gives a two-bit permutation with no EI gain at
   any macroscale that hosts an emergent feature under the minimum-MI
   redundancy and none under one with the identity property, so whether

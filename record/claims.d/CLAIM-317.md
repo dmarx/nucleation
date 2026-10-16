@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Grounds add THEORY-tmp0jlqw, the account of collapsed contexts filed
+    Grounds add THEORY-406, the account of collapsed contexts filed
     from LIT-1001 in the THEORY backfill; it states the reading this claim
     rests on. The claim is unchanged.
 role: thesis
@@ -28,7 +28,7 @@ line: distributed-agency
 grounds:
 - LIT-1001
 - CASE-064
-- THEORY-tmp0jlqw
+- THEORY-406
 uses:
 - TERM-045
 summary: >-
@@ -42,7 +42,7 @@ summary: >-
 supports:
 - CLAIM-196
 ---
-<!-- inactive-ok-file: THEORY-tmp0jlqw — Proposed; the reading of boyd this claim grounds in, resting on the same skim -->
+<!-- inactive-ok-file: THEORY-406 — Proposed; the reading of boyd this claim grounds in, resting on the same skim -->
 <!-- inactive-ok-file: CLAIM-196 — Proposed; the claim this was split from, which rests on it, cited as open -->
 
 # CLAIM-317: Self-presentations that differ by audience do no harm while the audiences are kept apart; people keep them apart and script the occasions where they must meet, and broadcast and networked media bring them together unchosen, which is when the presentations collide

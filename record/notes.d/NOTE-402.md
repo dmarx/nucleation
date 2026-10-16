@@ -30,7 +30,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-495 — Unavailable, no lawful full text: Alexander 1987, filed in the same batch; named as a neighbour, its content attributed to its publisher and to Nowak -->
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation filed in the same batch; cited for which sources it credits for each domain -->
-<!-- inactive-ok-file: THEORY-tmpx3n05 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-663 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-402: The Evolution of Reciprocal Altruism
 
@@ -108,7 +108,7 @@ moralistic aggression as a new form of cheating", and so on (p. 54).
 - **Group, hawk, dove, possession.** Not grounded. Dominance appears only as an obstacle to reciprocity, aid in combat as a reciprocated service.
 - **No THEORY is indicated now.** No instruction for ML practice.
 
-*Note of 2026-10-16:* [THEORY-tmpx3n05](../theory.d/THEORY-tmpx3n05.md) now cites [LIT-510](../literature.d/LIT-510.md) as a source.
+*Note of 2026-10-16:* [THEORY-663](../theory.d/THEORY-663.md) now cites [LIT-510](../literature.d/LIT-510.md) as a source.
 
 ## Limitations
 

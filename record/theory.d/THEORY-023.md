@@ -78,7 +78,7 @@ summary: >-
 answers:
 - QUESTION-048
 ---
-<!-- inactive-ok-file: THEORY-tmp7xef7 THEORY-tmpltl13 THEORY-tmppj0ht — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-460 THEORY-577 THEORY-606 — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-045 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-298 — Proposed; the account filed from LIT-982, named in Connections and not leaned on -->
 
@@ -183,7 +183,7 @@ resulting figures, under 10% for current models and 25% or more for
 conscious extended models within a decade, are credences under assumed
 theories, which `promote_when` says cannot settle the question. They add
 a fifth position on the prior. The classification of objections as
-temporary is stated as [THEORY-tmp7xef7](THEORY-tmp7xef7.md).
+temporary is stated as [THEORY-460](THEORY-460.md).
 
 ## What this does not say
 
@@ -203,11 +203,11 @@ temporary is stated as [THEORY-tmp7xef7](THEORY-tmp7xef7.md).
 - [LIT-096](../literature.d/LIT-096.md) (Nagel): the definition of consciousness that Birch and Seth share.
 - [LIT-982](../literature.d/LIT-982.md) (Seth & Bayne, Box 3; [THEORY-298](THEORY-298.md)): the general form of this account's evidential point. For infants, patients, animals and organoids as for AI, what counts as evidence is itself disputed, the measurement problem for creatures.
 
-- [THEORY-tmppj0ht](THEORY-tmppj0ht.md) (Shanahan, [LIT-465](../literature.d/LIT-465.md)) denies this account's presupposition
+- [THEORY-606](THEORY-606.md) (Shanahan, [LIT-465](../literature.d/LIT-465.md)) denies this account's presupposition
   rather than taking a side: if consciousness words mean only what is
   public, there is no fact beyond an informed consensus, and a disembodied
   chat agent is not even a candidate.
-- [THEORY-tmpltl13](THEORY-tmpltl13.md) (the meta-problem challenge, [LIT-425](../literature.d/LIT-425.md)) extends the mimicry
+- [THEORY-577](THEORY-577.md) (the meta-problem challenge, [LIT-425](../literature.d/LIT-425.md)) extends the mimicry
   point to puzzled phenomenal reports, which a simple theorem-prover agent
   mirrors in part (fn 26), and asks of any theory whose indicators are used
   that its basis explain the reports.

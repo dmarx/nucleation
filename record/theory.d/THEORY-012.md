@@ -73,7 +73,7 @@ extended_by:
 - THEORY-011
 - THEORY-014
 - THEORY-015
-- THEORY-tmpgg88t
+- THEORY-526
 supports:
 - CLAIM-037
 - CLAIM-038

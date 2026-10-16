@@ -32,7 +32,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, whose commentary set this reading's evidence bears on -->
-<!-- inactive-ok-file: THEORY-tmpjpjf8 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-558 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 <!-- inactive-ok-file: LIT-494 — Unavailable, unread: dyadic morality, named as the theory that denies the harmless wrongs reported here -->
 
@@ -184,7 +184,7 @@ by triggering new intuitions in them.
   moralized, not evidence about why.
 - No THEORY document cites it. No ML instruction.
 
-*Note of 2026-10-16:* [THEORY-tmpjpjf8](../theory.d/THEORY-tmpjpjf8.md) and [THEORY-tmps5brs](../theory.d/THEORY-tmps5brs.md) now cite [LIT-511](../literature.d/LIT-511.md) as a source.
+*Note of 2026-10-16:* [THEORY-558](../theory.d/THEORY-558.md) and [THEORY-632](../theory.d/THEORY-632.md) now cite [LIT-511](../literature.d/LIT-511.md) as a source.
 
 ## Limitations
 

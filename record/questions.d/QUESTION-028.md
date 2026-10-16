@@ -21,7 +21,7 @@ summary: >-
   question's own qualifiers. No criterion has been given.
 answered_by:
 - THEORY-036
-- THEORY-tmpjelp9
+- THEORY-556
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: LIT-301 — Unavailable; unread, named as the text that would settle THEORY-036 -->

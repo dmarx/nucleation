@@ -10,4 +10,4 @@
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CLAIM-041](../../../record/claims.d/CLAIM-041.md) | Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality | Built over A21–A30, against the assistant's quantum move and then the owner's U13. The manuscript §9 states it. Its strongest ground, the record's [THEORY-013](../../../record/theory.d/THEORY-013.md), is not cited in the manuscript. | Active |
+| [CLAIM-041](../../../record/claims.d/CLAIM-041.md) v2 | Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality | Built over A21–A30, against the assistant's quantum move and then the owner's U13. The manuscript §9 states it. Its strongest ground, the record's [THEORY-013](../../../record/theory.d/THEORY-013.md), is not cited in the manuscript. | Active |

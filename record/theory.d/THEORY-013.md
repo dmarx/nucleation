@@ -24,7 +24,7 @@ history:
   date: '2026-10-16'
   note: >-
     A Connections section names the two language studies (LIT-842,
-    LIT-844), filed as THEORY-tmpr96be. Neither meets the promote_when.
+    LIT-844), filed as THEORY-623. Neither meets the promote_when.
     The claim itself is unchanged.
 tags:
 - contextuality
@@ -63,7 +63,7 @@ Contextuality-by-Default gives each object a separate random variable in each co
 ## Connections
 
 - The two tests of contextuality in language data the record has read
-  ([LIT-842](../literature.d/LIT-842.md), [LIT-844](../literature.d/LIT-844.md)) are filed as [THEORY-tmpr96be](THEORY-tmpr96be.md). Corpus meaning-selection
+  ([LIT-842](../literature.d/LIT-842.md), [LIT-844](../literature.d/LIT-844.md)) are filed as [THEORY-623](THEORY-623.md). Corpus meaning-selection
   models are all signalling, their two Contextuality-by-Default verdicts
   are not secured by the paper's own bootstrap, and the BERT anaphora
   models have their support fixed by the schema. Neither is a robust

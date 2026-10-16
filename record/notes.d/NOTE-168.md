@@ -99,7 +99,7 @@ The paper replies to Roche & Sober (2023, Phil. Sci. 90:129–149) and Lange (20
 
 This is formal philosophy of science. It carries no instruction for ML practice. The seeded LIT's suggestion that a set-valued explanatory-power measure is relevant to the anthology's weighing of competing explanations is speculative. The measure needs a joint prior over the explanantia, which such comparisons do not have, so nothing here should go to the Anthology of the SOTA. It could matter to a THEORY-style comparison only as a formal metaphor. No THEORY document is supported or contradicted. The current primary topic, `philosophy-of-science`, is right.
 
-*Note of 2026-10-16:* [THEORY-tmpkyq9b](../theory.d/THEORY-tmpkyq9b.md) now cites [LIT-165](../literature.d/LIT-165.md) as a source.
+*Note of 2026-10-16:* [THEORY-569](../theory.d/THEORY-569.md) now cites [LIT-165](../literature.d/LIT-165.md) as a source.
 
 ## Limitations
 

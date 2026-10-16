@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-23 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+34 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -46,11 +46,24 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-112](../record/theory.d/THEORY-112.md) — Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth *(Proposed)*
     - [THEORY-110](../record/theory.d/THEORY-110.md) — A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex *(Proposed)* — also carries further THEORY-109
   - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
+  - [THEORY-557](../record/theory.d/THEORY-557.md) — Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints *(Proposed)*
 
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
 - [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
   - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
+
+## cognition
+
+### From A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly
+
+- [THEORY-472](../record/theory.d/THEORY-472.md) — A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly *(Proposed)*
+  - [THEORY-172](../record/theory.d/THEORY-172.md) — Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said *(Proposed)*
+
+### From If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue
+
+- [THEORY-579](../record/theory.d/THEORY-579.md) — If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue *(Proposed)*
+  - [THEORY-512](../record/theory.d/THEORY-512.md) — The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect *(Proposed)*
 
 ## consciousness
 
@@ -68,7 +81,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two *(Active)*
   - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also carries further THEORY-016
   - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Active)* — also carries further THEORY-016
+  - [THEORY-526](../record/theory.d/THEORY-526.md) — The Čech cohomology obstruction of a support section is a sound but incomplete witness of contextuality: it vanishes exactly when the section lies in a compatible family of integer combinations of support sections, so it is non-zero on every section of every All-vs-Nothing model, over any coefficient ring, on a connected cover, yet it misses the Hardy model entirely, part of a strongly contextual Kochen–Specker cover, and every section of a strongly contextual model on the fully symmetric (2,2,4) Bell cover *(Active)*
+    - [THEORY-524](../record/theory.d/THEORY-524.md) — On cyclic measurement scenarios, where the contexts' overlaps form one chordless N-cycle, the ℤ/2 Čech obstruction computed on the (N−1)-th iterated joint model is exact for logical and strong contextuality, the bound N − 1 being tight; beyond cycles no such result is established, the published extension is false on its own example, and the completeness conjecture fails on a Kochen–Specker cover that is never detected at any level *(Active)*
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
+
+### From Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified
+
+- [THEORY-024](../record/theory.d/THEORY-024.md) — Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified *(Rejected)*
+  - [THEORY-516](../record/theory.d/THEORY-516.md) — For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections *(Active)*
 
 ## databases
 
@@ -92,6 +112,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-386](../record/theory.d/THEORY-386.md) — When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch *(Active)*
   - [THEORY-377](../record/theory.d/THEORY-377.md) — A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved *(Proposed)*
 
+## embodied-cognition
+
+### From If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue
+
+- [THEORY-579](../record/theory.d/THEORY-579.md) — If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue *(Proposed)*
+  - [THEORY-512](../record/theory.d/THEORY-512.md) — The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect *(Proposed)*
+
 ## emotion-and-affect
 
 ### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
@@ -111,6 +138,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-143](../record/theory.d/THEORY-143.md) — When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning *(Proposed)*
   - [THEORY-148](../record/theory.d/THEORY-148.md) — A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles *(Proposed)*
+  - [THEORY-422](../record/theory.d/THEORY-422.md) — In the standard formal models of group learning, no communication network is best for every epistemic problem: costly transmission favours minimally connected or star networks, pooling of estimates by averaging favours regular networks, and learning by trying in bandit problems can favour sparse ones, so a group's network cannot be judged until its learning problem is known *(Active)*
 
 ### From For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory
 
@@ -148,6 +176,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
   - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
 
+### From A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can
+
+- [THEORY-549](../record/theory.d/THEORY-549.md) — A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can *(Proposed)*
+  - [THEORY-575](../record/theory.d/THEORY-575.md) — 'Social group' names two kinds of thing: organized social groups, such as teams, courts and families, are structured wholes whose people occupy the nodes of an internal social structure, while feature social groups, such as women, racial groups and classes, are social kinds, nodes in external social structures, and are not concrete wholes *(Proposed)*
+
 ## information-geometry
 
 ### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
@@ -179,12 +212,22 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
   - [THEORY-080](../record/theory.d/THEORY-080.md) — In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies *(Proposed)*
 
+### From A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
+
+- [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
+  - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, each input mode is learned on a logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator *(Proposed)*
+
 ### From For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class
 
 - [THEORY-349](../record/theory.d/THEORY-349.md) — For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class *(Active)*
   - [THEORY-354](../record/theory.d/THEORY-354.md) — An observer's power to refute a predictor depends on its access to the predictor as well as on its budget: against tests that see only the sampled prediction a predictor of size O(s/ε²) always passes, but if fine-grained clique counting is hard, or BPP ≠ PSPACE, some cheap tests that may query the predictor adaptively pass only predictors about as costly as nature's own *(Active)*
 
 ## logic
+
+### From Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified
+
+- [THEORY-024](../record/theory.d/THEORY-024.md) — Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified *(Rejected)*
+  - [THEORY-516](../record/theory.d/THEORY-516.md) — For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections *(Active)*
 
 ### From For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory
 
@@ -209,6 +252,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-112](../record/theory.d/THEORY-112.md) — Once the architecture's symmetries are factored out, most of the linear barrier between independently trained solutions disappears; the group that matters is the full one, permutations for MLPs and CNNs but for transformers also an orthogonal map on the residual stream, without which a barrier remains; and the barrier left after alignment falls with width and rises with depth *(Proposed)*
     - [THEORY-110](../record/theory.d/THEORY-110.md) — A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex *(Proposed)* — also carries further THEORY-109
   - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
+  - [THEORY-557](../record/theory.d/THEORY-557.md) — Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints *(Proposed)*
 
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
@@ -229,6 +273,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-019](../record/theory.d/THEORY-019.md) — Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet *(Proposed)*
   - [THEORY-084](../record/theory.d/THEORY-084.md) — Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks *(Proposed)*
+
+### From In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
+
+- [THEORY-191](../record/theory.d/THEORY-191.md) — In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball *(Proposed)*
+  - [THEORY-618](../record/theory.d/THEORY-618.md) — Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls *(Proposed)* — also carries further THEORY-192
+- [THEORY-192](../record/theory.d/THEORY-192.md) — Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time *(Proposed)*
 
 ### From Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy
 
@@ -253,6 +303,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-087](../record/theory.d/THEORY-087.md) — The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set *(Proposed)*
   - [THEORY-080](../record/theory.d/THEORY-080.md) — In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies *(Proposed)*
 
+## moral-psychology
+
+### From Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation
+
+- [THEORY-539](../record/theory.d/THEORY-539.md) — Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation *(Proposed)*
+  - [THEORY-613](../record/theory.d/THEORY-613.md) — The Moral Foundations Questionnaire-2's six factors, Care, Equality, Proportionality, Loyalty, Authority and Purity, fit across 19 nations, Equality and Proportionality are nearly uncorrelated in WEIRD nations, and the US split between individualizing and binding foundations appears in only three national networks *(Proposed)*
+
 ## motivation
 
 ### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
@@ -260,12 +317,22 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
 
+## natural-sciences
+
+### From In a one-locus model with non-overlapping generations, random mating and weak selection, gene frequencies change as if each individual maximized its inclusive fitness, so a trait that costs its bearer spreads only if its effect on relatives exceeds 1/r times the cost; the increase of mean inclusive fitness is proved only for traits whose total effect on others is not negative
+
+- [THEORY-408](../record/theory.d/THEORY-408.md) — In a one-locus model with non-overlapping generations, random mating and weak selection, gene frequencies change as if each individual maximized its inclusive fitness, so a trait that costs its bearer spreads only if its effect on relatives exceeds 1/r times the cost; the increase of mean inclusive fitness is proved only for traits whose total effect on others is not negative *(Active)*
+  - [THEORY-567](../record/theory.d/THEORY-567.md) — In the donation game, where a cooperator pays c for another to get b, defectors win in a well-mixed population, and each of five mechanisms makes cooperators evolutionarily stable above a benefit-to-cost threshold: kin selection r > c/b, direct reciprocity w > c/b, indirect reciprocity q > c/b, network reciprocity b/c > k and group selection b/c > 1 + n/m; the rules cover altruism only, not mutualism, coordination or conflict *(Active)* — also carries further THEORY-672
+  - [THEORY-655](../record/theory.d/THEORY-655.md) — Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism *(Proposed)*
+- [THEORY-672](../record/theory.d/THEORY-672.md) — In the iterated Prisoner's Dilemma with a probability w of meeting again, no strategy does better against an established TIT FOR TAT than TIT FOR TAT does against itself if and only if w ≥ (T−R)/(T−P) and w ≥ (T−R)/(R−S); always defecting is stable for every w, a cluster of reciprocators can invade it, and a nice stable strategy resists clusters, but the stability is only neutral, since always cooperating ties *(Active)*
+
 ## network-science
 
 ### From When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning
 
 - [THEORY-143](../record/theory.d/THEORY-143.md) — When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning *(Proposed)*
   - [THEORY-148](../record/theory.d/THEORY-148.md) — A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles *(Proposed)*
+  - [THEORY-422](../record/theory.d/THEORY-422.md) — In the standard formal models of group learning, no communication network is best for every epistemic problem: costly transmission favours minimally connected or star networks, pooling of estimates by averaging favours regular networks, and learning by trying in bandit problems can favour sparse ones, so a group's network cannot be judged until its learning problem is known *(Active)*
 
 ## neuroscience
 
@@ -274,6 +341,12 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
+
+- [THEORY-191](../record/theory.d/THEORY-191.md) — In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball *(Proposed)*
+  - [THEORY-618](../record/theory.d/THEORY-618.md) — Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls *(Proposed)* — also carries further THEORY-192
+- [THEORY-192](../record/theory.d/THEORY-192.md) — Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time *(Proposed)*
 
 ## operations-research
 
@@ -287,6 +360,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-386](../record/theory.d/THEORY-386.md) — When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch *(Active)*
   - [THEORY-377](../record/theory.d/THEORY-377.md) — A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved *(Proposed)*
 
+## philosophy-of-language
+
+### From To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
+
+- [THEORY-444](../record/theory.d/THEORY-444.md) — To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough *(Proposed)*
+  - [THEORY-511](../record/theory.d/THEORY-511.md) — Illocutionary acts that are not essentially conventional, such as warning, entreating and objecting, are individuated by a wholly overt, audience-directed intention, Grice's three intentions with a fourth that the audience recognise the second, and are performed when that intention is understood; acts such as verdicts and umpires' calls exist only within rule-governed procedures and fall outside the scheme *(Proposed)*
+
 ## philosophy-of-science
 
 ### From A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system
@@ -298,6 +378,19 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-143](../record/theory.d/THEORY-143.md) — When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning *(Proposed)*
   - [THEORY-148](../record/theory.d/THEORY-148.md) — A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles *(Proposed)*
+  - [THEORY-422](../record/theory.d/THEORY-422.md) — In the standard formal models of group learning, no communication network is best for every epistemic problem: costly transmission favours minimally connected or star networks, pooling of estimates by averaging favours regular networks, and learning by trying in bandit problems can favour sparse ones, so a group's network cannot be judged until its learning problem is known *(Active)*
+
+## pragmatics
+
+### From A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly
+
+- [THEORY-472](../record/theory.d/THEORY-472.md) — A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly *(Proposed)*
+  - [THEORY-172](../record/theory.d/THEORY-172.md) — Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said *(Proposed)*
+
+### From To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
+
+- [THEORY-444](../record/theory.d/THEORY-444.md) — To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough *(Proposed)*
+  - [THEORY-511](../record/theory.d/THEORY-511.md) — Illocutionary acts that are not essentially conventional, such as warning, entreating and objecting, are individuated by a wholly overt, audience-directed intention, Grice's three intentions with a fourth that the audience recognise the second, and are performed when that intention is understood; acts such as verdicts and umpires' calls exist only within rule-governed procedures and fall outside the scheme *(Proposed)*
 
 ## probabilistic-modeling
 
@@ -305,6 +398,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-066](../record/theory.d/THEORY-066.md) — A Markov-blanket partition is defined relative to a chosen internal set, so a graph has one around almost any set of nodes, and the formalism alone does not say which set is the system *(Active)*
   - [THEORY-073](../record/theory.d/THEORY-073.md) — A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces *(Proposed)*
+
+### From A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly
+
+- [THEORY-472](../record/theory.d/THEORY-472.md) — A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly *(Proposed)*
+  - [THEORY-172](../record/theory.d/THEORY-172.md) — Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said *(Proposed)*
 
 ### From For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class
 
@@ -319,7 +417,14 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-011](../record/theory.d/THEORY-011.md) — Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two *(Active)*
   - [THEORY-014](../record/theory.d/THEORY-014.md) — In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical *(Proposed)* — also carries further THEORY-016
   - [THEORY-015](../record/theory.d/THEORY-015.md) — Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory *(Active)* — also carries further THEORY-016
+  - [THEORY-526](../record/theory.d/THEORY-526.md) — The Čech cohomology obstruction of a support section is a sound but incomplete witness of contextuality: it vanishes exactly when the section lies in a compatible family of integer combinations of support sections, so it is non-zero on every section of every All-vs-Nothing model, over any coefficient ring, on a connected cover, yet it misses the Hardy model entirely, part of a strongly contextual Kochen–Specker cover, and every section of a strongly contextual model on the fully symmetric (2,2,4) Bell cover *(Active)*
+    - [THEORY-524](../record/theory.d/THEORY-524.md) — On cyclic measurement scenarios, where the contexts' overlaps form one chordless N-cycle, the ℤ/2 Čech obstruction computed on the (N−1)-th iterated joint model is exact for logical and strong contextuality, the bound N − 1 being tight; beyond cycles no such result is established, the published extension is false on its own example, and the completeness conjecture fails on a Kochen–Specker cover that is never detected at any level *(Active)*
 - [THEORY-016](../record/theory.d/THEORY-016.md) — An operational theory admits a generalized-noncontextual model exactly when its GPT admits a positive quasiprobability representation, and for a tomographically local theory any diagram-preserving such model is an exact frame with exactly as many ontic states as the GPT's dimension *(Active)*
+
+### From Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified
+
+- [THEORY-024](../record/theory.d/THEORY-024.md) — Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified *(Rejected)*
+  - [THEORY-516](../record/theory.d/THEORY-516.md) — For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections *(Active)*
 
 ## representation-learning
 
@@ -343,6 +448,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
   - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
 
+### From A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
+
+- [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
+  - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, each input mode is learned on a logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator *(Proposed)*
+
 ## self-governance
 
 ### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
@@ -350,9 +460,30 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-054](../record/theory.d/THEORY-054.md) — A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it *(Proposed)*
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
 
+## social-ontology
+
+### From A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can
+
+- [THEORY-549](../record/theory.d/THEORY-549.md) — A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can *(Proposed)*
+  - [THEORY-575](../record/theory.d/THEORY-575.md) — 'Social group' names two kinds of thing: organized social groups, such as teams, courts and families, are structured wholes whose people occupy the nodes of an internal social structure, while feature social groups, such as women, racial groups and classes, are social kinds, nodes in external social structures, and are not concrete wholes *(Proposed)*
+
 ## social-science
 
 ### From In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves
 
 - [THEORY-123](../record/theory.d/THEORY-123.md) — In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves *(Proposed)*
   - [THEORY-126](../record/theory.d/THEORY-126.md) — A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states *(Proposed)*
+
+## society-and-governance
+
+### From A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
+
+- [THEORY-150](../record/theory.d/THEORY-150.md) — A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy *(Proposed)*
+  - [THEORY-470](../record/theory.d/THEORY-470.md) — Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored *(Proposed)*
+
+## thermodynamics
+
+### From For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects
+
+- [THEORY-431](../record/theory.d/THEORY-431.md) — For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects *(Active)*
+  - [THEORY-482](../record/theory.d/THEORY-482.md) — For a closed quantum system that starts thermal and is measured projectively in energy before and after a unitary drive, the two-point-measurement work obeys the Jarzynski equality and the Tasaki–Crooks relation in exactly the classical form, because those energy measurements erase the coherences in which a quantum difference could appear *(Active)*

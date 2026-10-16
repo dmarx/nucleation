@@ -39,7 +39,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-009 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
-<!-- inactive-ok-file: THEORY-tmpd9dko — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-499 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-002: Eulalia impact shower
 
@@ -146,7 +146,7 @@ This paper extends Walsh et al. 2013 (the Eulalia/New Polana split) and Bottke e
 
 This paper carries nothing for ML practice. It is planetary dynamics and chronology, it produces no instruction for the Anthology of the SOTA, and it neither supports nor contradicts any THEORY document. The one transferable methodological observation is generic: a pipeline of multiplied factors, where the most favourable branch is propagated and one factor (F1) is tuned by eye, gives an existence argument, not an estimate. Nothing in the anthology needs that pointed out through this paper. It belongs in the catch-all record as an astronomy reading.
 
-*Note of 2026-10-16:* [THEORY-tmpd9dko](../theory.d/THEORY-tmpd9dko.md) now cites [LIT-009](../literature.d/LIT-009.md) as a source.
+*Note of 2026-10-16:* [THEORY-499](../theory.d/THEORY-499.md) now cites [LIT-009](../literature.d/LIT-009.md) as a source.
 
 ## Limitations
 

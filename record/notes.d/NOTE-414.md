@@ -186,7 +186,7 @@ What the review takes for granted:
   ([LIT-167](../literature.d/LIT-167.md)). BZ is a persister only while fed.
 - **No THEORY is indicated by this reading alone. No ML instruction.**
 
-*Note of 2026-10-16:* [THEORY-tmpe57v7](../theory.d/THEORY-tmpe57v7.md) now cites [LIT-531](../literature.d/LIT-531.md) as a source.
+*Note of 2026-10-16:* [THEORY-508](../theory.d/THEORY-508.md) now cites [LIT-531](../literature.d/LIT-531.md) as a source.
 
 ## Limitations
 

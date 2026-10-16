@@ -23,7 +23,7 @@ history:
     Connections names the stochastic-thermodynamics review LIT-523 (read in
     NOTE-420) as the framework in which the protocol-level nonnegativity of
     this account's dissipation is a reported result, and the
-    fluctuation-theorem account THEORY-tmp3uu1d as background. Neither is a
+    fluctuation-theorem account THEORY-431 as background. Neither is a
     source, as NOTE-420 recommends.
 tags:
 - information-theory
@@ -79,6 +79,6 @@ Read together, the two papers bound the claim. Predictive memory is what thermod
   is nonnegative. That is a protocol total for continuous Langevin
   dynamics; it does not settle the sign of the per-step nostalgia this
   account's `promote_when` asks about.
-- [THEORY-tmp3uu1d](THEORY-tmp3uu1d.md) (Crooks and Jarzynski's fluctuation theorems) is the
+- [THEORY-431](THEORY-431.md) (Crooks and Jarzynski's fluctuation theorems) is the
   trajectory-level background. This account rests on an average-level
   identity for a discrete Markov chain and uses no fluctuation theorem.

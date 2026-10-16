@@ -31,7 +31,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-491 — Unavailable, no lawful full text; Ásta's Categories We Live By, named as the rival account of the same categories, not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Unavailable, paywalled; List & Pettit's Group Agency, named to say there is no connection -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this paper does not bear on it -->
-<!-- inactive-ok-file: THEORY-tmpx9sfw — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-667 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-394: Haslanger — Gender and Race: (What) Are They?
 
@@ -184,7 +184,7 @@ Definitions, with the arguments for adopting them.
   category is, the topic blurb's "social kinds" and "social construction".
 - No ML instruction. Nothing belongs in the anthology.
 
-*Note of 2026-10-16:* [THEORY-tmpx9sfw](../theory.d/THEORY-tmpx9sfw.md) now cites [LIT-480](../literature.d/LIT-480.md) as a source.
+*Note of 2026-10-16:* [THEORY-667](../theory.d/THEORY-667.md) now cites [LIT-480](../literature.d/LIT-480.md) as a source.
 
 ## Limitations
 

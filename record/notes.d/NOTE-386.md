@@ -32,7 +32,7 @@ summary: >-
   real connexions, leave the unity of the mind unexplained.
 ---
 <!-- inactive-ok-file: THEORY-043 — Proposed; named as the question this reading does not bear on, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmpyf0hd — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-681 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-386: Of Personal Identity
 
@@ -226,7 +226,7 @@ is used for persistence, not for mentality, so it does not bear on whether a
 commonwealth could be a mind. It carries no instruction for machine-learning
 practice.
 
-*Note of 2026-10-16:* [THEORY-tmpyf0hd](../theory.d/THEORY-tmpyf0hd.md) now cites [LIT-451](../literature.d/LIT-451.md) as a source.
+*Note of 2026-10-16:* [THEORY-681](../theory.d/THEORY-681.md) now cites [LIT-451](../literature.d/LIT-451.md) as a source.
 
 ## Limitations
 

@@ -18,7 +18,7 @@ history:
   date: '2026-10-16'
   note: >-
     Its precursor, Frank, Goodman, Lai and Tenenbaum 2009 (LIT-824, read in
-    NOTE-627), is now filed as THEORY-tmp99ydy, and this account extends
+    NOTE-627), is now filed as THEORY-472, and this account extends
     it: the same inversion of an informative speaker, widened from
     inferring a word's meaning given its referent to inferring the
     referent. LIT-824 is not added to the source, because its Experiment 1
@@ -35,7 +35,7 @@ source:
 - LIT-809
 - LIT-816
 extends:
-- THEORY-tmp99ydy
+- THEORY-472
 summary: >-
   Frank & Goodman (2012), [LIT-821](../literature.d/LIT-821.md), read in [NOTE-634](../notes.d/NOTE-634.md): a
   parameter-free Bayesian listener inverting a size-principle speaker,
@@ -53,7 +53,7 @@ supports:
 - CLAIM-214
 - CLAIM-242
 ---
-<!-- inactive-ok-file: THEORY-tmp99ydy — Proposed; the precursor this account extends, cited as open -->
+<!-- inactive-ok-file: THEORY-472 — Proposed; the precursor this account extends, cited as open -->
 
 # THEORY-172: Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said
 
@@ -116,7 +116,7 @@ supplies.
 
 ## Connections
 
-- **The word-learning precursor ([THEORY-tmp99ydy](THEORY-tmp99ydy.md); [LIT-824](../literature.d/LIT-824.md), [NOTE-627](../notes.d/NOTE-627.md)).**
+- **The word-learning precursor ([THEORY-472](THEORY-472.md); [LIT-824](../literature.d/LIT-824.md), [NOTE-627](../notes.d/NOTE-627.md)).**
   Frank, Goodman, Lai and Tenenbaum (2009) derive the size-principle
   speaker this account's listener inverts from informative communication,
   and test the inversion in word learning: given the referent, learners

@@ -22,7 +22,7 @@ history:
 - version: 3
   date: '2026-10-16'
   note: >-
-    Grounded also on THEORY-tmpotoox, which states Shannon's coding
+    Grounded also on THEORY-602, which states Shannon's coding
     theorems, including the fidelity theorem (a source is reproducible at
     a fidelity iff its rate for it does not exceed capacity) that the
     claim takes rate–distortion from. LIT-764 is kept.
@@ -48,7 +48,7 @@ grounds:
 - LIT-781
 - LIT-778
 - LIT-764
-- THEORY-tmpotoox
+- THEORY-602
 - LIT-767
 supersedes:
 - CLAIM-051

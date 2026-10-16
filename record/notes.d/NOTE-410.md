@@ -32,7 +32,7 @@ summary: >-
   or misinterpretation.
 ---
 
-<!-- inactive-ok-file: THEORY-tmpwdh1f — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-655 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-410: The Genetical Evolution of Social Behaviour. II
 
@@ -105,7 +105,7 @@ to strangers.
 - **Contests.** §6 bears on restraint in fighting, not on display or deference. It gives MAC's hawk and dove domains nothing directly.
 - **No THEORY is indicated.** No instruction for ML practice.
 
-*Note of 2026-10-16:* [THEORY-tmpwdh1f](../theory.d/THEORY-tmpwdh1f.md) now cites [LIT-506](../literature.d/LIT-506.md) as a source.
+*Note of 2026-10-16:* [THEORY-655](../theory.d/THEORY-655.md) now cites [LIT-506](../literature.d/LIT-506.md) as a source.
 
 ## Limitations
 

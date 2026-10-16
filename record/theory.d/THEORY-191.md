@@ -31,7 +31,7 @@ summary: >-
   odour model is a thin shell, it does not separate a hyperbolic metric
   from a sphere in flat space.
 extended_by:
-- THEORY-tmpquk4a
+- THEORY-618
 ---
 
 

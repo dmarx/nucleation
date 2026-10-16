@@ -21,10 +21,10 @@ answered_by:
 - THEORY-209
 - THEORY-210
 - THEORY-211
-- THEORY-tmpe5k4b
-- THEORY-tmpjgtxb
-- THEORY-tmpltw3b
-- THEORY-tmpxxllh
+- THEORY-509
+- THEORY-557
+- THEORY-578
+- THEORY-675
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-187](../claims.d/CLAIM-187.md) and [CLAIM-142](../claims.d/CLAIM-142.md).

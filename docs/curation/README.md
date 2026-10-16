@@ -6,6 +6,27 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [16 Oct 18:32 — Social science, network science, compositionality, neuroscience and philosophy of biology: 22 THEORYs from 24 readings](2026-10.md#social-science-network-science-compositionality-neuroscience-and-philosophy-of-biology-22-theorys-from-24-readings)
+- [16 Oct 18:23 — Representation learning, learning theory and loss landscapes: 20 THEORYs from 26 readings](2026-10.md#representation-learning-learning-theory-and-loss-landscapes-20-theorys-from-26-readings)
+- [16 Oct 18:21 — Complex systems: thirteen THEORYs from fourteen of seventeen readings](2026-10.md#complex-systems-thirteen-theorys-from-fourteen-of-seventeen-readings)
+- [16 Oct 18:17 — Consciousness, in the THEORY backfill: thirteen accounts from eighteen readings](2026-10.md#consciousness-in-the-theory-backfill-thirteen-accounts-from-eighteen-readings)
+- [16 Oct 18:16 — Cognition, part 2: twelve THEORYs from seventeen readings](2026-10.md#cognition-part-2-twelve-theorys-from-seventeen-readings)
+- [16 Oct 18:09 — Quantum foundations: 20 THEORYs from 22 readings](2026-10.md#quantum-foundations-20-theorys-from-22-readings)
+- [16 Oct 18:06 — Probabilistic modeling, information theory and contextuality: 18 THEORYs from 23 of 25 readings](2026-10.md#probabilistic-modeling-information-theory-and-contextuality-18-theorys-from-23-of-25-readings)
+- [16 Oct 18:05 — Ethics and agency: 17 THEORYs from 20 readings](2026-10.md#ethics-and-agency-17-theorys-from-20-readings)
+- [16 Oct 18:05 — Small topics: 20 THEORYs from 16 readings](2026-10.md#small-topics-20-theorys-from-16-readings)
+- [16 Oct 18:05 — Cognition, part 1: thirteen THEORYs from eighteen readings](2026-10.md#cognition-part-1-thirteen-theorys-from-eighteen-readings)
+- [16 Oct 18:03 — Mathematics: eighteen THEORYs from twenty-one readings](2026-10.md#mathematics-eighteen-theorys-from-twenty-one-readings)
+- [16 Oct 18:01 — Society and governance: eleven THEORYs from eleven readings](2026-10.md#society-and-governance-eleven-theorys-from-eleven-readings)
+- [16 Oct 08:02 — natural-sciences: 10 THEORYs from 17 readings](2026-10.md#natural-sciences-10-theorys-from-17-readings)
+- [16 Oct 07:54 — Self, personhood and individuation, in the THEORY backfill: fourteen THEORYs from sixteen readings](2026-10.md#self-personhood-and-individuation-in-the-theory-backfill-fourteen-theorys-from-sixteen-readings)
+- [16 Oct 07:50 — Philosophy of science, part 1 of 2: 14 THEORYs from 13 readings](2026-10.md#philosophy-of-science-part-1-of-2-14-theorys-from-13-readings)
+- [16 Oct 07:50 — Metaphysics and mereology: 13 THEORYs from 12 readings](2026-10.md#metaphysics-and-mereology-13-theorys-from-12-readings)
+- [16 Oct 07:49 — Philosophy of science, part 2 of 2: eleven THEORYs from ten of fourteen readings](2026-10.md#philosophy-of-science-part-2-of-2-eleven-theorys-from-ten-of-fourteen-readings)
+- [16 Oct 07:38 — Thermodynamics: eight THEORYs from ten readings](2026-10.md#thermodynamics-eight-theorys-from-ten-readings)
+- [16 Oct 07:38 — Linguistics, pragmatics, philosophy of language and myth: ten THEORYs from eleven readings](2026-10.md#linguistics-pragmatics-philosophy-of-language-and-myth-ten-theorys-from-eleven-readings)
+- [16 Oct 07:38 — Social ontology, game theory, religion, design rationale: nine THEORYs from eleven readings](2026-10.md#social-ontology-game-theory-religion-design-rationale-nine-theorys-from-eleven-readings)
+- [16 Oct 07:14 — Moral psychology, the first topic in a THEORY backfill: twelve accounts from fourteen readings](2026-10.md#moral-psychology-the-first-topic-in-a-theory-backfill-twelve-accounts-from-fourteen-readings)
 - [16 Oct 04:22 — Later works on dimension reduction and Lipschitz extension: four filed, three read](2026-10.md#later-works-on-dimension-reduction-and-lipschitz-extension-four-filed-three-read)
 - [16 Oct 01:54 — Five candidates registered for the two works from the sports-fandom exchange that could not be identified](2026-10.md#five-candidates-registered-for-the-two-works-from-the-sports-fandom-exchange-that-could-not-be-identified)
 - [16 Oct 01:24 — Twenty-five works registered unread from the exchange on sports fandom and individuality; seven it cited were already held](2026-10.md#twenty-five-works-registered-unread-from-the-exchange-on-sports-fandom-and-individuality-seven-it-cited-were-already-held)
@@ -72,9 +93,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-110 entries across 2 books, newest first.
+131 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 63 | 2026-10-01 | 2026-10-16 |
+| [2026-10](2026-10.md) | 84 | 2026-10-01 | 2026-10-16 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

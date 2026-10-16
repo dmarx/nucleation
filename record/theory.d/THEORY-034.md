@@ -22,7 +22,7 @@ history:
     identity-fixing feature; the dated note of 2026-10-10 had already found
     Esfeld and Lam's moderate structural realism (LIT-895, NOTE-695) to be a
     second. LIT-895 added to the source and to the placement table, and
-    THEORY-tmp6p1ed, which states that account, named in Connections.
+    THEORY-453, which states that account, named in Connections.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -49,7 +49,7 @@ supports:
 - CLAIM-134
 ---
 <!-- inactive-ok-file: LIT-301 LIT-342 — Unavailable; founding texts named in promote_when and as unread, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmp6p1ed THEORY-038 — Proposed; the second position of the target kind, placed in the table and named, and the eliminative-horn account, named; nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-453 THEORY-038 — Proposed; the second position of the target kind, placed in the table and named, and the eliminative-horn account, named; nothing here rests on their being settled -->
 
 # THEORY-034: Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism
 
@@ -86,7 +86,7 @@ nothing in the chapter tells against eliminative OSR.
 | Morganti, [LIT-173](../literature.d/LIT-173.md) | Insisted on. State-independent kind properties are not structurally reducible. | Intrinsic horn, with symmetric *partial* dependence among objects ([NOTE-095](../notes.d/NOTE-095.md)). |
 | Floridi, [LIT-152](../literature.d/LIT-152.md) | Denied. Structural objects without intrinsic natures, and a "package" of relata and relations. | Target. This is the no-priority variant with no intrinsic features, the case pp. 200–201 argue is eliminativism. Floridi cites Chakravartty as an ally ([NOTE-099](../notes.d/NOTE-099.md)). |
 | Ross 2008, [LIT-218](../literature.d/LIT-218.md); Ladyman 2024, [LIT-219](../literature.d/LIT-219.md) | Beside the point. Individuals are "book-keeping devices" at the fundamental level, real at their own scales. | Eliminative only about fundamental individuals, scale-relative elsewhere. Neither horn as framed ([NOTE-189](../notes.d/NOTE-189.md), [NOTE-191](../notes.d/NOTE-191.md)). |
-| Esfeld & Lam, [LIT-895](../literature.d/LIT-895.md) | Denied for basic objects. Relata are "nothing but that what bears the relations" (p. 32); composites keep theirs. | Target, no-priority variant. Where relations do not discern, it accepts primitive numerical diversity, which it says is "not a primitive thisness" nor any sort of identity (p. 33). Whether that meets the dilemma is open ([NOTE-695](../notes.d/NOTE-695.md), [THEORY-tmp6p1ed](THEORY-tmp6p1ed.md)). |
+| Esfeld & Lam, [LIT-895](../literature.d/LIT-895.md) | Denied for basic objects. Relata are "nothing but that what bears the relations" (p. 32); composites keep theirs. | Target, no-priority variant. Where relations do not discern, it accepts primitive numerical diversity, which it says is "not a primitive thisness" nor any sort of identity (p. 33). Whether that meets the dilemma is open ([NOTE-695](../notes.d/NOTE-695.md), [THEORY-453](THEORY-453.md)). |
 | Wallace, [LIT-151](../literature.d/LIT-151.md) | Not asked. Objects are what the best precisification quantifies over. | Outside the framing. Math-first OSR makes no priority claim. On Wallace's terms the dilemma belongs to language-first metaphysics ([NOTE-142](../notes.d/NOTE-142.md)). |
 
 So the dilemma is well aimed at two held positions. The founding
@@ -117,7 +117,7 @@ relations.
 - [LIT-045](../literature.d/LIT-045.md): the Stanford Encyclopedia survey. Its collapse objection, that
   OSR reduces to standard realism, is what the intrinsic horn has to face
   next.
-- [THEORY-tmp6p1ed](THEORY-tmp6p1ed.md): Esfeld and Lam's moderate structural realism, the
+- [THEORY-453](THEORY-453.md): Esfeld and Lam's moderate structural realism, the
   second position of the target kind. Its primitive numerical diversity is
   the reply this entry's dilemma has to be tested against. Not a rival:
   the two accounts are of different things, a dilemma and a position it
