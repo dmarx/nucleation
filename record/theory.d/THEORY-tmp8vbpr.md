@@ -117,3 +117,10 @@ did not happen.
 - **The hawk–dove attribution.** The chapter credits hawk–dove contests to
   Maynard Smith & Price (1973). That paper ([LIT-505](../literature.d/LIT-505.md), [NOTE-404](../notes.d/NOTE-404.md)) has no
   Hawk–Dove game, so the display and deference domains need a later source.
+  What it does show is filed as [THEORY-tmp8lv8d](THEORY-tmp8lv8d.md).
+- **The games it borrows.** The kin, exchange and reciprocity domains rest on
+  results the record files separately: Hamilton's inclusive fitness
+  ([THEORY-tmp15rjw](THEORY-tmp15rjw.md)), Trivers' reciprocal altruism ([THEORY-tmpx3n05](THEORY-tmpx3n05.md)), the
+  stability of TIT FOR TAT ([THEORY-tmpxorvn](THEORY-tmpxorvn.md)) and Nowak's five mechanisms
+  ([THEORY-tmpkifk7](THEORY-tmpkifk7.md)). Each holds under its own conditions, which this account
+  does not restate.
