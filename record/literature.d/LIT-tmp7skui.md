@@ -121,4 +121,4 @@ In the anthology the lemma appears without a LIT of its own, inside
 Linformer's low-rank argument ([ANTH-LIT-529](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-529.md)). The subject is
 mathematics, which no anthology topic holds.
 
-Filed, with [LIT-tmpjy3gf](LIT-tmpjy3gf.md) and [LIT-tmppzjx6](LIT-tmppzjx6.md), as [THEORY-tmpns5kz](../theory.d/THEORY-tmpns5kz.md).
+Filed, with [LIT-tmpjy3gf](LIT-tmpjy3gf.md) and [LIT-tmppzjx6](LIT-tmppzjx6.md), as [THEORY-tmpns5kz](../theory.d/THEORY-tmpns5kz.md). Its own main results, the extension theorems, are filed as [THEORY-tmp7nqd6](../theory.d/THEORY-tmp7nqd6.md) and [THEORY-tmpub08y](../theory.d/THEORY-tmpub08y.md).
