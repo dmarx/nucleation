@@ -30,6 +30,8 @@ summary: >-
   essayistic thesis argued from cases, not a study.
 supports:
 - CLAIM-060
+extended_by:
+- THEORY-tmp91ahm
 ---
 <!-- inactive-ok-file: LIT-753 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
