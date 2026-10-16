@@ -1,19 +1,32 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-16, not read (abstract only). Registered from the exchange of 2026-10-16 on active inference and locked-in syndrome (the workbench entry of 2026-10-16). No NOTE is filed.
+  read 2026-10-16 (NOTE-tmpojcai) in full, from the open-access version in PubMed Central. Worth reading as the largest survey of chronic locked-in patients' own ratings of their lives: 47 of 65 rated their present life at or above the midpoint between their best period before LIS and their worst ever, and happiness rose with years in LIS, recovered speech and absence of anxiety. Read it knowing that it is a self-selected association sample (54% response, 26 more excluded) answering with a proxy's help, that most respondents had recovered some speech or limb movement, and that the authors expect its biases to overstate well-being.
 title: 'A survey on self-assessed well-being in a cohort of chronic locked-in syndrome patients: happy majority, miserable minority'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-16'
   note: >-
     Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Crossref and OpenAlex give the year only, so `published` is 2011-01-01. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read in full (NOTE-tmpojcai) from the open-access publisher version in
+    PubMed Central (PMC3191401), fetched as XML from Europe PMC because the
+    BMJ Open PDF returned a bot check. Status moved from Deferred to Active.
+    The summary is rewritten from the reading: it adds the sample's
+    recovery of speech (55%) and limb movement (70%), the proxy-aided
+    answers and the multivariate results, and no longer describes the
+    sample's communication by the definition of classic LIS. `published`
+    corrected to the e-publication date, 2011-02-23 (PMC). "Why this is
+    here" now notes that the three forms of LIS are cited in this paper
+    to Bauer et al. (1979).
 tags:
 - well-being
 - neuroscience
 date: '2026-10-16'
-published: '2011-01-01'
+published: '2011-02-23'
 doi: '10.1136/bmjopen-2010-000039'
 first_author: 'Bruno'
 keywords:
@@ -23,16 +36,32 @@ keywords:
 - 'end-of-life decisions'
 implementations: []
 summary: >-
-  Bruno et al. (2011). Of 65 chronic locked-in patients of the French LIS association with usable answers, 47 reported happiness and 18 unhappiness; a longer time in LIS correlated with happiness. Communication is classically by vertical eye movement or blinking.
+  Bruno et al. (2011). Of 168 members of the French LIS association invited, 91 replied and 65 gave usable answers, with a proxy's help: 47 (72%) rated their present life at or above the midpoint between their best period before LIS and their worst ever (median +3), 18 below (median −4). All had chronic LIS after a brainstem vascular accident, a median of 8 years before; 55% had recovered some speech and 70% some limb movement. Happiness was associated with years in LIS (OR 1.5 per year), recovered speech (OR 20.5) and absence of anxiety (OR 0.19). 58% did not wish to be resuscitated; 7% wished for euthanasia.
 ---
 
 # LIT-tmp8g2to: A survey on self-assessed well-being in a cohort of chronic locked-in syndrome patients: happy majority, miserable minority
 
-Bruno, M.-A., Bernheim, J. L., Ledoux, D., Pellas, F., Demertzi, A. & Laureys, S. (2011). *BMJ Open* 1(1):e000039. doi:10.1136/bmjopen-2010-000039.
+Bruno, M.-A., Bernheim, J. L., Ledoux, D., Pellas, F., Demertzi, A. & Laureys, S. (2011). *BMJ Open* 1(1):e000039. doi:10.1136/bmjopen-2010-000039. Open copy: PMC3191401.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmpojcai.*
+
+- **Definition and forms.** LIS is "quadriplegia (or quadriparesis) and
+  aphonia (or severe hypophonia) with a primary mode of communication by
+  eye movements or blinking". Classic, incomplete and total forms are
+  given with a citation to Bauer, Gerstenbrand and Rumpl (1979); "many
+  classic LIS patients may evolve to incomplete LIS".
+- **The sample.** 65 of 168 invited; vascular brainstem LIS only; median 8
+  years in LIS; speech recovery none 45%, words 19%, sentences 36%; some
+  limb mobility 70%.
+- **The result.** 72% happy on the biographically anchored ACSA scale;
+  correlates of unhappiness are shorter time in LIS, anxiety, no recovered
+  speech, and dissatisfaction with mobility and recreation.
+- **The caution.** Low response, association members, proxy-aided
+  answers; "most biases were likely to result in overestimations of SWB".
+  The time-in-LIS effect may be adaptation or "selection by attrition".
 
 ## Why this is here
 
-For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): documents that classic locked-in patients keep a lucid, evaluative life over years, and that communication runs through the eye movements and blinks the syndrome spares. A self-selected survey of association members, answered through those channels.
+For CASE-tmpxgcq2: it documents lucid, evaluative life over years in locked-in syndrome, judged by patients against their own remembered past. The reading qualifies the use the CASE makes of it. Most of the sample is not on one eyelid: over half had recovered some speech and most some limb movement, and recovered speech is the strongest correlate of happiness. So it shows lucid judgement kept up for years with world-directed action severely reduced, and partly restored, not with action reduced to vertical eye movement. It also gives the source of the three forms of LIS that the CASE attributes to Laureys et al. (LIT-tmpx97h7): Bauer et al. (1979).

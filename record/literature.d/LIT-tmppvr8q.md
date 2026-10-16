@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-16, not read; no copy sought. Registered from the exchange of 2026-10-16 on active inference and locked-in syndrome (the workbench entry of 2026-10-16). No NOTE is filed.
+  filed 2026-10-16, not read; a lawful full text was sought on 2026-10-16 and none exists to reach: the book is in copyright (Bauby died in 1997) and sold, not given, by Robert Laffont (laffont.fr product page, ISBN 978-2-221-08172-3). Looked at: the publisher's page (sale only); Open Library, whose one 1997 Laffont edition is an Internet Archive scan (lescaphandreetle0000baub) that is access-restricted, lending and print-disabled only, not usable here; HathiTrust (no record for ISBN 2-221-08172-2); Gallica and Google Books (refused or empty to this client; in copyright in any case). A publisher preview would not be a reading. Registered from the exchange of 2026-10-16 on active inference and locked-in syndrome (the workbench entry of 2026-10-16). No NOTE is filed. The publication date and the dictation method were checked against secondary sources (history, version 2).
 title: 'Le scaphandre et le papillon'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-16'
   note: >-
     Filed, not read. Citation checked on 2026-10-16. The work was checked against Open Library; it has no DOI. `published` is the French first edition's release by Robert Laffont, two days before Bauby's death, as secondary sources give it; a reading should confirm. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Sought a lawful full text and found none (status note); status Deferred → Unavailable under ADR-041. The two facts the summary and CASE-tmpxgcq2 rely on were checked against secondary sources, and both stand. Publication: Bauby "died suddenly on March 9, just two days after the French publication" (Thomas Mallon, "In the Blink of an Eye", New York Times Book Review, 15 June 1997); "Bauby died on March 9, 1997, two days after the French publication" (Penguin Random House author page, read 2026-10-16); "Bauby died Sunday" (Los Angeles Times, J.-T. Dahlburg, Saturday 15 March 1997), and Sunday was 9 March; "two days after its publication in March 1997, Bauby died" (The Guardian, Elizabeth Day, 27 January 2008). So `published` 1997-03-07 is kept. One community catalogue (livraddict.com) gives 3 March 1997; no primary source was found for either day, and the Libération reports of 6 and 11 March 1997 could not be fetched. Method: "he dictated by blinking his left eyelid"; the speech therapist recited "a hit parade of letters as they occur in French: from E, S, A, R and the other most frequent letters to the rarest", and Claude Mendibil, "an editorial assistant furnished by the publisher", took the dictation (Los Angeles Times, 15 March 1997); "His speech therapist developed a special alphabet, arranging the 26 letters according to frequency of use" (The Guardian, 2008); Mendibil read the letters aloud (Washington Post, A. Swardson, reprinted in the Spokesman-Review, 11 March 1997; paraphrased); "By moving his left eyelid in response to an alphabet rearranged according to the letters' frequency of use" (New York Times, 1997). The summary is made more exact: the partner was the publisher's editorial assistant, the alphabet was the speech therapist's.
 tags:
 - consciousness
 - phenomenology
@@ -22,15 +26,18 @@ keywords:
 - 'memoir'
 implementations: []
 summary: >-
-  Bauby (1997). A memoir of classic locked-in syndrome after a brainstem stroke, dictated letter by letter by blinking the left eyelid to a partner reading out an alphabet ordered by frequency. English: The Diving Bell and the Butterfly.
+  Bauby (1997). A memoir of classic locked-in syndrome after a brainstem stroke, dictated letter by letter by blinking the left eyelid as Claude Mendibil, sent by the publisher, read out an alphabet ordered by French letter frequency that his speech therapist had devised. Published two days before Bauby's death on 9 March 1997. English: The Diving Bell and the Butterfly.
 ---
 
 # LIT-tmppvr8q: Le scaphandre et le papillon
 
 Bauby, J.-D. (1997). *Le scaphandre et le papillon*. Paris: Robert Laffont. English translation by J. Leggatt, *The Diving Bell and the Butterfly* (Knopf, 1997).
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read: no lawful full text exists to reach (Unavailable). The summary's
+facts were checked against the New York Times, the Los Angeles Times, the
+Washington Post, The Guardian and the publisher's US page (history, version
+2); its account of the book's content is what the work is standardly cited
+for.
 
 ## Why this is here
 
