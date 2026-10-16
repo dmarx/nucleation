@@ -42,6 +42,8 @@ extends:
 implementations: []
 summary: >-
   Larsen & Nelson (2017), FOCS 2017, [ARXIV-1609.02094](https://arxiv.org/abs/1609.02094). For integers n, d ≥ 2 and lg^0.5001 n/√min{n, d} < ε < 1, some n points in R^d need m = Ω(ε⁻² lg(ε²n)) dimensions under any map, linear or not, that keeps all squared distances within 1 ± ε. For ε > 1/min{n, d}^0.4999 this is Ω(ε⁻² lg n), so the Johnson–Lindenstrauss bound is optimal up to a constant, and the distributional lemma with a union bound cannot be improved on. The proof is an encoding argument over k-sparse vectors with k = ε⁻²/256, ending in m = Ω(k lg(d/k)).
+extended_by:
+- LIT-tmp08fvg
 ---
 
 # LIT-tmp8s1wj: Optimality of the Johnson-Lindenstrauss Lemma

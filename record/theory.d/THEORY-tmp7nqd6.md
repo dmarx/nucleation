@@ -1,7 +1,14 @@
 ---
 status: Active
 title: 'Every map from an n-point subset of a metric space into Hilbert space extends to the whole space with Lipschitz constant at most K√(log n) times its own, by dimension reduction to K log n coordinates followed by Kirszbraun and the non-linear Hahn–Banach theorem; for L_p, 1 ≤ p < 2, the constant must be at least δ(Log n/Log Log n)^(1/p−1/2), so √(log n) is right up to a log log factor in the worst case'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Updated after reading the later works: sharpness still open per Lee and
+    Naor (NOTE-tmpd7vjw); Problem 4 answered by inference from Linial,
+    London and Rabinovich (NOTE-tmpetxcq), replacing "unchecked".
 tags:
 - mathematics
 date: '2026-10-16'
@@ -59,13 +66,20 @@ and Lemma 5, used only for Theorem 3, were followed in outline.
 ## What this does not say
 
 - **That √(log n) is sharp.** The gap to the lower bound is
-  (Log Log n)^(1/2), and the paper leaves sharpness open.
+  (Log Log n)^(1/2), and the paper leaves sharpness open. It is still open
+  in the record's later reading: Lee and Naor ([LIT-tmp2k8rj](../literature.d/LIT-tmp2k8rj.md), [NOTE-tmpd7vjw](../notes.d/NOTE-tmpd7vjw.md),
+  §1.4) say no known lower bound beats √(log n) for any target. Their
+  C log n/log log n ([THEORY-tmpi8kfq](THEORY-tmpi8kfq.md)) holds for every Banach target and is
+  weaker than this bound for Hilbert space.
 - **Anything about targets other than Hilbert space**, except through
   Theorem 3's L_p subspaces and [THEORY-tmpub08y](THEORY-tmpub08y.md)'s separated case.
 - **Anything about embedding the metric space itself.** The paper's
-  Problems 3 and 4 ask about that and leave it open. Later answers to
-  Problem 4 are outside the record: the NOTE flags Bourgain (1985) and
-  Linial, London and Rabinovich (1995) as unchecked.
+  Problems 3 and 4 ask about that and leave it open. Problem 4, distortion
+  K√(log n) into ℓ₂, is answered in the negative by the record's inference
+  from Linial, London and Rabinovich ([THEORY-tmpbseab](THEORY-tmpbseab.md)): every n-point
+  metric embeds with distortion O(log n), and constant-degree expanders
+  need Ω(log n). That paper cites neither Problem 4 nor this one; the
+  inference is the record's.
 - **Explicit constants.** K is shown to exist; the steps are loose
   (Theorem 1's last step needs K ≥ 1).
 

@@ -1,8 +1,14 @@
 ---
 status: Open
 title: 'When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?'
-version: 3
+version: 4
 history:
+- version: 4
+  date: '2026-10-16'
+  note: >-
+    Alon and Klartag read (NOTE-tmpfnjjj): the distances thread now says
+    how far the lower bound reaches and how their bit count realizes the
+    proposed shape. The question itself stands.
 - version: 3
   date: '2026-10-16'
   note: >-
@@ -42,6 +48,8 @@ answered_by:
 - THEORY-tmp644mk
 - THEORY-tmpfo89o
 - THEORY-tmpns5kz
+- THEORY-tmpbh0v2
+- THEORY-tmpup7x5
 ---
 <!-- inactive-ok-file: LIT-tmpokc0j — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
 <!-- inactive-ok-file: THEORY-106 THEORY-261 — Proposed; the accounts the random-features and SDM threads are set against -->
@@ -103,6 +111,17 @@ its constants, so it is not compared here. Their STOC text also shows the
 lemma fails for ℓ∞. So for distances the
 proposed shape holds on both sides, up to a constant, for the worst set.
 It is not a sharp threshold in the Donoho–Tanner sense.
+
+Alon and Klartag ([LIT-tmp08fvg](../literature.d/LIT-tmp08fvg.md), [NOTE-tmpfnjjj](../notes.d/NOTE-tmpfnjjj.md), [THEORY-tmpup7x5](../theory.d/THEORY-tmpup7x5.md)) carry the
+lower bound down to every ε ≥ 2/√n, as Ω(log(2 + ε²n)/ε²), for additive
+error on points of norm at most 1. Their proof makes the proposed shape
+literal: the bits needed are the log of the number of ε-separated Gram
+matrices, and the dimension is that count per point over O(1) bits per
+coordinate. For small ε the log is of 2 + ε²n, not of the n² pairs a
+union bound counts (the reader's observation in [NOTE-tmpfnjjj](../notes.d/NOTE-tmpfnjjj.md)). Their
+bipartite lemma ([THEORY-tmpbh0v2](../theory.d/THEORY-tmpbh0v2.md)) gives n nearly orthogonal pairs of
+write and read vectors in that many dimensions, but with unbounded norms,
+so it does not bound superposition as [NOTE-278](../notes.d/NOTE-278.md) defines it.
 
 **Sparse recovery.** Baraniuk et al. ([LIT-tmpcfdvm](../literature.d/LIT-tmpcfdvm.md), [NOTE-tmppltl7](../notes.d/NOTE-tmppltl7.md))
 derive the restricted isometry property from the JL concentration

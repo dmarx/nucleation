@@ -56,6 +56,7 @@ extended_by:
 - LIT-tmpcfdvm
 - LIT-tmpjy3gf
 - LIT-tmppzjx6
+- LIT-tmp2k8rj
 ---
 
 # LIT-tmp7skui: Extensions of Lipschitz mappings into a Hilbert space

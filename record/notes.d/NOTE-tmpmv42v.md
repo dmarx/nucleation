@@ -2,7 +2,7 @@
 status: Read
 paper: LIT-tmp7skui
 title: 'Johnson & Lindenstrauss — extensions of Lipschitz mappings into a Hilbert space'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -20,6 +20,11 @@ history:
     version of Theorem 2 and Lemma 6. The reference list was read. Only
     the proofs of Proposition 1 and Lemma 5 were followed in outline,
     step by step but without checking each inequality.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Annotated: the unchecked observation on Bourgain and on Linial, London
+    and Rabinovich is checked against NOTE-tmpetxcq.
 date: '2026-10-14'
 summary: >-
   Lemma 1: any n points in ℓ₂ⁿ map into ℓ₂ᵏ, k = [K(τ) log n], with
@@ -32,6 +37,7 @@ summary: >-
   to the whole space with Lipschitz constant at most C(log n)^{1/2} times
   the original.
 ---
+<!-- inactive-ok-file: LIT-tmpwy0he — Unavailable; Bourgain, named where the checked observation says so -->
 
 # NOTE-tmpmv42v: Johnson & Lindenstrauss — extensions of Lipschitz mappings into a Hilbert space
 
@@ -202,7 +208,11 @@ distortion K√(log n) into ℓ₂, and notes from Enflo that this would be best
 possible. My observation, from outside the paper and not checked in the
 record: Bourgain (1985) gave O(log n), and Linial, London and Rabinovich
 (1995) showed that order is needed for expanders, which would answer
-Problem 4 in the negative.
+Problem 4 in the negative. (Checked 2026-10-16 in [NOTE-tmpetxcq](NOTE-tmpetxcq.md): both
+hold as Linial, London and Rabinovich state them, Theorem 3.2(1) and
+Proposition 4.2, with the expander bound for ℓ_p, 1 ≤ p ≤ 2. They cite
+neither Problem 4 nor Enflo, so the negative answer is the record's
+inference. Bourgain's own paper is Unavailable, [LIT-tmpwy0he](../literature.d/LIT-tmpwy0he.md).)
 
 ## Bearing on the record
 

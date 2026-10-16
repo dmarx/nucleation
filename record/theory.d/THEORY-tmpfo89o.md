@@ -1,7 +1,13 @@
 ---
 status: Active
 title: 'For ε between about lg^0.5001 n/√min{n, d} and 1, some n-point set in ℝ^d needs Ω(ε⁻² lg(ε²n)) dimensions under any map, linear or not, that keeps its pairwise squared distances within 1 ± ε, so a random projection with a union bound is optimal up to a constant for the worst set; nearly orthogonal sets can need fewer, and the bound says nothing about typical data'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Alon and Klartag read (NOTE-tmpfnjjj): their report in What it closes is
+    qualified, and the small-ε limit now names how far their bound reaches.
 tags:
 - mathematics
 date: '2026-10-16'
@@ -19,6 +25,8 @@ summary: >-
   worst-case bound by existence with an untracked constant. It is not a
   phase transition, and the paper notes that ε-incoherent sets fit in
   o(ε⁻² lg n) dimensions for small enough ε.
+extended_by:
+- THEORY-tmpup7x5
 ---
 <!-- inactive-ok-file: THEORY-tmp644mk — Proposed; the ℓ₁ transition account, named for what it adds beside this one -->
 
@@ -49,8 +57,11 @@ determines every support S, because inner products survive to within 6ε
 Levenshtein, Alon) or held only for linear maps (the authors' own earlier
 paper). The paper concludes that the distributional lemma plus a union
 bound cannot be improved. It reports that Alon and Klartag later proved
-the lower bound of its Conjecture 1, Θ(min{n, d, ε⁻² lg(2 + ε²n)}), for all
-parameters.
+the lower bound of its Conjecture 1 for all parameters. Their reading
+([LIT-tmp08fvg](../literature.d/LIT-tmp08fvg.md), [NOTE-tmpfnjjj](../notes.d/NOTE-tmpfnjjj.md), [THEORY-tmpup7x5](THEORY-tmpup7x5.md)) qualifies that: the bound
+Ω(log(2 + ε²n)/ε²) is proved for every ε ≥ 2/√n, for additive error on
+points of norm at most 1, and only the lower half of the conjecture is
+proved.
 
 **What could have come out otherwise.** An embedding of the hard set into
 o(ε⁻² lg(ε²n)) dimensions would refute it. The counting step was read in
@@ -64,8 +75,13 @@ where.
   treated.
 - **The constant.** It is untracked, and k = ε⁻²/256 in the construction
   suggests it is small.
-- **Anything for small ε.** Below about 1/√min{n, d} the bound is
-  min{n, d}, and the conjectured form has lg(2 + ε²n) in place of lg n.
+- **Anything for small ε.** This paper's range stops near 1/√min{n, d}.
+  Alon and Klartag ([THEORY-tmpup7x5](THEORY-tmpup7x5.md)) carry the lower bound, as
+  Ω(log(2 + ε²n)/ε²), down to ε ≥ 2/√n, in additive form. Relative error ε
+  implies additive error 4ε on points of norm at most 1, so the relative
+  form follows (the reader's derivation, not stated by Alon and Klartag).
+  Whether every set embeds in O(log(2 + ε²n)/ε²) dimensions is not
+  proved.
 - **A sharp threshold.** There is no transition in the sense of
   [THEORY-tmp644mk](THEORY-tmp644mk.md), only matching orders.
 - **A bound on how many nearly orthogonal directions fit.** ε-incoherent

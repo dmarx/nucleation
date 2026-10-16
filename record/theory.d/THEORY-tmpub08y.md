@@ -1,7 +1,12 @@
 ---
 status: Active
 title: 'A Lipschitz map from a subset of a metric space whose points are at least ε apart and whose diameter is D extends to the whole space into Hilbert space with Lipschitz constant at most 6D/ε times its own, and, by Benyamini''s argument in the same paper, into any Banach space with at most 4D/ε, with no dependence on the number of points'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Connections name Lee and Naor's accounts, filed the same day.
 tags:
 - mathematics
 date: '2026-10-16'
@@ -51,6 +56,12 @@ appendix. Both proofs were read in the reading.
 
 ## Connections
 
+- [THEORY-tmpvy222](THEORY-tmpvy222.md) and [THEORY-tmpi8kfq](THEORY-tmpi8kfq.md): Lee and Naor's bounds in terms of
+  random partitions, doubling and the number of points. They do not cite
+  this theorem. Their reading observes that the bounds are incomparable
+  with 4D/ε, and that 4D/ε for every superspace and Banach target is
+  already an absolute extendability bound, which their §1.2 does not count
+  ([NOTE-tmpd7vjw](../notes.d/NOTE-tmpd7vjw.md), the reader's observation).
 - [THEORY-tmp7nqd6](THEORY-tmp7nqd6.md): the paper's bound in terms of the number of points.
   The two together say an extension constant can be paid for either by
   how many points there are or by how spread out they are.
