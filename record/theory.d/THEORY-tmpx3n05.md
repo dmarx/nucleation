@@ -31,6 +31,7 @@ summary: >-
   sham guilt" (p. 51). His "unfairness" is inequity in exchange, not the
   division of a disputed resource.
 ---
+<!-- inactive-ok-file: THEORY-tmpc6rib — Proposed; Tomasello's account, named beside his book as a disagreement, not leaned on -->
 
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation; cited for the exchange domain it takes from Trivers -->
 <!-- inactive-ok-file: LIT-495 — Unavailable: Alexander 1987, The Biology of Moral Systems; cited as building moral systems on the indirect reciprocity this paper anticipates -->
@@ -103,7 +104,7 @@ before the account and for other purposes.
 - The multiparty passage anticipates indirect reciprocity, which Alexander
   ([LIT-495](../literature.d/LIT-495.md)) made the basis of moral systems and Nowak ([LIT-501](../literature.d/LIT-501.md),
   [THEORY-tmpkifk7](THEORY-tmpkifk7.md)) gave a rule.
-- Tomasello ([LIT-125](../literature.d/LIT-125.md), [NOTE-185](../notes.d/NOTE-185.md)) argues that tit-for-tat reciprocity yields
+- Tomasello ([LIT-125](../literature.d/LIT-125.md), [NOTE-185](../notes.d/NOTE-185.md); [THEORY-tmpc6rib](THEORY-tmpc6rib.md)) argues that tit-for-tat reciprocity yields
   gratitude, not obligation. Here guilt is the regulating emotion of exactly
   that reciprocity. The two disagree on whether reciprocity can be a source
   of moral emotion beyond liking and gratitude.

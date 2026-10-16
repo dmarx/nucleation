@@ -32,6 +32,7 @@ summary: >-
   construction, and on extensional equivalence of behaviour. The reply
   adds that a right is a bundle of others' regulative obligations.
 ---
+<!-- inactive-ok-file: THEORY-tmpc6rib — Proposed; Tomasello's account, named beside his book, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmprd3gk — Proposed; the rival account, named as one end of the rivalry -->
 <!-- inactive-ok-file: THEORY-tmpavyju — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-473 — Deferred, no lawful full text; Lewis's Convention, named as the account this paper extends, as the paper states it -->
@@ -134,6 +135,6 @@ not. No harder case was tried.
 - **North** ([LIT-489](../literature.d/LIT-489.md), [NOTE-392](../notes.d/NOTE-392.md)) is the rules account's exemplar. The
   objection that rules alone cannot separate effective from nominal rules
   is one his essay leaves open.
-- **Tomasello** ([LIT-125](../literature.d/LIT-125.md)). The reply lists Gilbert's joint commitment as
+- **Tomasello** ([LIT-125](../literature.d/LIT-125.md), [THEORY-tmpc6rib](THEORY-tmpc6rib.md)). The reply lists Gilbert's joint commitment as
   one option among theories of normativity; Tomasello's "we" would be
   another. The paper takes no side.

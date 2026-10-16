@@ -127,6 +127,11 @@ design.
   a criterion of consciousness is applied to is not fixed by its members.
   [NOTE-390](../notes.d/NOTE-390.md) says it does not move [THEORY-043](THEORY-043.md)'s `promote_when`, since its
   structures are social roles, not causal architecture.
+- **[QUESTION-118](../questions.d/QUESTION-118.md)** asks what must stay causally continuous for a collective
+  to persist through the replacement of all its members. This account
+  allows a group to have different members at different times, but its
+  positive view has no persistence conditions, so it does not answer the
+  question.
 - **Schwitzgebel's United States** ([LIT-159](../literature.d/LIT-159.md), [NOTE-381](../notes.d/NOTE-381.md)). If one population
   realizes several structures, each a distinct group, there are several
   coincident candidates for what citizens represent. The application is

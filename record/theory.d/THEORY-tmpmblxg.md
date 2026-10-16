@@ -21,6 +21,8 @@ tags:
 date: '2026-10-16'
 source:
 - LIT-439
+rivals:
+- THEORY-071
 answers:
 - QUESTION-009
 summary: >-
@@ -33,6 +35,7 @@ summary: >-
   against IIT's single Self is a bracket, and the closing remarks on
   experience are labelled speculation.
 ---
+<!-- inactive-ok-file: THEORY-tmp2hovt — Proposed; a neighbouring account, named for contrast -->
 <!-- inactive-ok-file: THEORY-043 THEORY-071 THEORY-232 — Proposed; accounts of agency named as rival or neighbouring, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this account partly answers -->
 
@@ -110,11 +113,16 @@ left pattern and tumour outcomes unchanged. In the cited experiments it did not.
   a homeostat's included, is agency, and requires interactional asymmetry and
   self-generated normativity. Levin individuates by the goal, [THEORY-071](THEORY-071.md) needs
   the individual before the goal. The two disagree about what makes a goal-pursuing
-  collective an agent. No `rivals` edge is set, so that this filing leaves
-  [THEORY-071](THEORY-071.md) unedited.
+  collective an agent, and they cannot both be right about the homeostat:
+  here it is a Self, there its externally fixed norm makes it no agent. So
+  they are rivals.
 - **Minded parts and minded wholes ([THEORY-043](THEORY-043.md))** already uses this paper as the
   composition-side statement for agency, and [LIT-159](../literature.d/LIT-159.md) ([NOTE-131](../notes.d/NOTE-131.md)) is its
   counterpart for experience.
+- **Collaboration and closure ([THEORY-tmp2hovt](THEORY-tmp2hovt.md)).** That sketch also puts a
+  shared goal at the centre of a higher-level whole, but requires
+  collaboration, entrenchment and organizational closure, and makes the
+  whole an individual rather than an agent. Levin's criterion asks less.
 - **A comparative criterion.** [THEORY-232](THEORY-232.md) (Watson, [LIT-990](../literature.d/LIT-990.md)) says when a whole is
   more agential than its parts, without a threshold. Levin's criterion is a
   threshold of the kind [THEORY-232](THEORY-232.md) declines.

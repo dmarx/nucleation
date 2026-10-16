@@ -109,9 +109,9 @@ and whether that option is stable is what remains open.
 ## Connections
 
 - **Chakravartty's dilemma ([THEORY-034](THEORY-034.md)).** This paper takes the horn with no
-  intrinsic identity-fixing features. [THEORY-034](THEORY-034.md)'s title says only Floridi's
-  view, among the record's readings, is of that kind. With this reading that is
-  no longer true, as [THEORY-034](THEORY-034.md)'s own dated note already records. This account
+  intrinsic identity-fixing features. [THEORY-034](THEORY-034.md) now counts it, beside
+  Floridi's view, among the record's readings of that kind; its title said
+  only Floridi's until it was corrected for this reading. This account
   is not linked as its rival, because the two disagree about a census and about
   whether the reply works, not about one phenomenon.
 - **The owner's individuation thesis.** [NOTE-695](../notes.d/NOTE-695.md) finds that the paper holds the

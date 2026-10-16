@@ -19,6 +19,7 @@ summary: >-
   not a blind count of what societies moralize, and it does not say whether
   purity is cooperative.
 ---
+<!-- inactive-ok-file: LIT-496 LIT-503 THEORY-tmp8vbpr THEORY-tmphcyt1 THEORY-tmpbzrkk THEORY-tmpqgklr THEORY-tmpreimy THEORY-tmpjpjf8 — Proposed; the questionnaire studies this account reads results from, and the theories it sets against each other, each cited as open -->
 
 # THEORY-tmps5brs: Purity is moralized in self-report: in morality-as-cooperation's own questionnaire studies, purity items are rated about as morally relevant as loyalty and authority items, and harmless purity violations are condemned, so that theory's prediction that non-cooperative behaviour is morally neutral fails unless purity is itself cooperative
 
@@ -78,6 +79,10 @@ authority, which the theory counts as cooperative.
 
 - It is the observation that sets [THEORY-tmp8vbpr](THEORY-tmp8vbpr.md) against [THEORY-tmphcyt1](THEORY-tmphcyt1.md), and that [THEORY-tmpbzrkk](THEORY-tmpbzrkk.md) and Rai &
   Fiske ([THEORY-tmpreimy](THEORY-tmpreimy.md)) each try to bring inside cooperation.
+- The harmless-wrongs studies are reported in Haidt's social intuitionist
+  model ([THEORY-tmpjpjf8](THEORY-tmpjpjf8.md)) as evidence that affect, not perceived harm,
+  drives moral judgment. Here they serve only as evidence that purity
+  violations are condemned.
 - The Moral Foundations side's version of the same result is the MFQ-2's
   Purity factor ([THEORY-tmpqgklr](THEORY-tmpqgklr.md)), whose cross-national comparisons are its least
   secure.

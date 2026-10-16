@@ -30,6 +30,8 @@ summary: >-
   .02 for them. In these displays the informative-speaker learner and a
   plain size-principle learner coincide by construction, so the fit does
   not show that learners reason about the speaker.
+extended_by:
+- THEORY-172
 ---
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; the rational-speech-act account this one is set beside, not leaned on -->
@@ -102,10 +104,9 @@ terms.
   form's interpretation depends on the alternatives) is the later and
   wider account. This is its precursor, in the word-learning form: the
   lexicon is inferred given the referent. Experiment 1's evidence is of
-  the kind that THEORY's `promote_when` says cannot settle it. No
-  relation is declared from here, because [THEORY-172](THEORY-172.md) is the later account
-  and it does not cite this paper among its sources; whether it should
-  carry an `extends` edge to this one is a question for that document.
+  the kind that THEORY's `promote_when` says cannot settle it. [THEORY-172](THEORY-172.md)
+  `extends` this account: the same mechanism, widened from the lexicon to
+  the referent. It does not cite this paper among its sources.
 - Grice's maxim of Quantity ([LIT-1041](../literature.d/LIT-1041.md), read only at pp. 45–47) is the
   informal ancestor the paper names. Grice himself calls the second
   Quantity maxim "disputable".

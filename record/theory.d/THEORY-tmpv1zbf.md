@@ -31,6 +31,7 @@ summary: >-
   one feels it. It is a claim about the object of sociology, not a
   group-mind thesis.
 ---
+<!-- inactive-ok-file: THEORY-tmpc6rib — Proposed; Tomasello's account, named beside his book for contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmp22bpm THEORY-tmpll6jt THEORY-tmpx9sfw — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this chapter neither supports nor moves it -->
 <!-- inactive-ok-file: LIT-188 — Proposed; Griesemer & Shavit, named as a neighbour for consolidation of practice into structure, a pairing this record draws, not leaned on -->
@@ -116,7 +117,7 @@ the equivalence is asserted (C8, weak).
 
 ## Connections
 
-- **Tomasello** ([LIT-125](../literature.d/LIT-125.md), [NOTE-185](../notes.d/NOTE-185.md)) locates felt obligation in pressure
+- **Tomasello** ([LIT-125](../literature.d/LIT-125.md), [NOTE-185](../notes.d/NOTE-185.md); [THEORY-tmpc6rib](THEORY-tmpc6rib.md)) locates felt obligation in pressure
   from a "we" one helped make. Durkheim's pressure comes from a milieu one
   was born into, and education turns it into habit until it is not felt
   (pp. 10–11, 15). Neither cites the other; the contrast is the record's.
