@@ -35,8 +35,8 @@ summary: >-
   The owner's, U2 of the exchange of 2026-10-16: the pragmatic-transport
   model and the will-organization model are "both manifestations of the
   same underlying model". The mapping is the assistant's, A6, filed at the
-  owner's request ("address the still open stuff") and not yet endorsed
-  by the owner. It reads both lines into [CLAIM-297](CLAIM-297.md)'s operator model. The
+  owner's request ("address the still open stuff"). At U8 the owner
+  endorsed it as filed ("Yes, as filed"). It reads both lines into [CLAIM-297](CLAIM-297.md)'s operator model. The
   sharp edge: it says the lines share one model, not that either line's
   results transfer to the other unchanged. Each mapping is a hypothesis
   until a result on one line is shown to hold, through it, on the other.
@@ -98,4 +98,5 @@ endorsement changes w and so which operators act under the next context.
 - It does not decide [QUESTION-056](../questions.d/QUESTION-056.md), whether a mechanism-level description
   implements the will-organization account or replaces it. The operator
   model is one such description.
-- The mapping is not yet the owner's.
+- The mapping was proposed by the assistant and endorsed by the owner at
+  U8. The endorsement is of the mapping, not of any transfer of results.
