@@ -22,7 +22,7 @@ promote_when: >-
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-02'
@@ -55,6 +55,15 @@ history:
     (THEORY-tmpmblxg), Ritchie (THEORY-tmpinjtf) and Epstein's survey
     (THEORY-tmpavyju) are named in Connections. Ritchie and Epstein stay
     out of the source, since they only constrain a criterion.
+- version: 6
+  date: '2026-10-16'
+  note: >-
+    Schwitzgebel's reply to Kammerer (LIT-459) added to the source: the
+    Kammerer bullet, the invariance bullet and promote_when argue from
+    its condition-A gap, its Leo case and its simplicity dilemma. The
+    THEORYs now filed for the Chalmers and Dennett readings named in
+    "What the Chalmers and Dennett readings add" are listed in
+    Connections. The claim is unchanged.
 tags:
 - consciousness
 - mereology
@@ -70,6 +79,7 @@ source:
 - LIT-409
 - LIT-445
 - LIT-439
+- LIT-459
 summary: >-
   Minsky's society of mind builds a mind downward, out of agents that are
   not minds. Schwitzgebel ([LIT-159](../literature.d/LIT-159.md)) builds a candidate mind upward, out of
@@ -87,6 +97,7 @@ summary: >-
 answers:
 - QUESTION-046
 ---
+<!-- inactive-ok-file: THEORY-tmp26rh2 THEORY-tmpdz76a THEORY-tmpltl13 THEORY-tmpspj51 THEORY-tmpuo0qe — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
@@ -114,6 +125,8 @@ answers:
 - Levin (2019), [LIT-439](../literature.d/LIT-439.md), read in [NOTE-341](../notes.d/NOTE-341.md): nested goal-pursuing
   collectives, one of the three readings that grant agency under
   composition. His account is stated in [THEORY-tmpmblxg](THEORY-tmpmblxg.md).
+- Schwitzgebel (2016), [LIT-459](../literature.d/LIT-459.md), read in [NOTE-381](../notes.d/NOTE-381.md): the reply to Kammerer,
+  for the condition-A gap, the Leo case and the simplicity dilemma.
 
 ## The two directions
 
@@ -358,6 +371,11 @@ needed.
   composition-side view of agency this account cites from [LIT-439](../literature.d/LIT-439.md). It is
   the cheap end of the scale [THEORY-071](THEORY-071.md) makes dear: on it any homeostat is
   a Self.
+- **The Chalmers and Dennett readings as accounts.** Organisational
+  invariance is [THEORY-tmpdz76a](THEORY-tmpdz76a.md), the combination problem [THEORY-tmpuo0qe](THEORY-tmpuo0qe.md),
+  the meta-problem challenge [THEORY-tmpltl13](THEORY-tmpltl13.md), "Quining Qualia"
+  [THEORY-tmp26rh2](THEORY-tmp26rh2.md) and Frankish's illusionism [THEORY-tmpspj51](THEORY-tmpspj51.md). None is a
+  premise here; each is cited above from its reading.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).
