@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-16, not read (abstract only). Registered at the owner's request (U9 of the exchange of 2026-10-16 on active inference; the workbench entry of 2026-10-16). No NOTE is filed.
+  read 2026-10-16 (NOTE-tmp4ffuf) in full, from the publisher's open-access PDF, supplementary material not read; worth reading as a naturalistic-viewing fMRI dissociation in which hippocampus carries more about emotion categories and vmPFC more about positions in a two-dimensional affective space, lined up with the two layers of the Tolman–Eichenbaum Machine. Read it knowing that participants only watched; that the decoded emotions are an independent sample's consensus ratings; that the effects are small; that the "transitions" are a model's random-walk steps on a grid built from rating co-occurrence; and that no learning in people, and no effect of the map on later reading, is measured. The model that learns the map does so by acting.
 title: 'Map-like representations of emotion knowledge in hippocampal-prefrontal systems'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-16'
   note: >-
     Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read in full (NOTE-tmp4ffuf) from the publisher's open-access PDF at nature.com, supplementary material not read. Status Deferred to Active. The summary is corrected: the emotion labels are an independent sample's ratings, not the viewers'; the abstract's "statistical regularities of emotion transitions" are a TEM agent's random-walk steps on a grid built from rating correlations, not observed transitions; effect sizes are added. "Why this is here" is rewritten with the reading's answers.
 tags:
 - neuroscience
 - emotion-and-affect
@@ -26,16 +30,22 @@ keywords:
 - 'fMRI'
 implementations: []
 summary: >-
-  Ma & Kragel (2026). In fMRI of people viewing emotionally evocative film clips, hippocampal activity represented emotion concepts in a structured hierarchy and ventromedial prefrontal cortex tracked locations in a two-dimensional valence–arousal space; responses were predicted by the statistical regularities of emotion transitions across several time scales.
+  Ma & Kragel (2026). In fMRI of 29 people passively watching 14 emotional films (Emo-FilM), decoders predicted an independent online sample's consensus ratings of 13 emotion categories better from hippocampus than positions in a two-dimensional affective space (an MDS of rating co-occurrence), and vmPFC the reverse; posterior hippocampus carried finer distinctions. Brain patterns could also be decoded into a Tolman–Eichenbaum Machine that learned the emotion grid by random walk, hippocampus favouring its small-scale conjunctive layer and vmPFC its large-scale structural layer. Prediction–outcome correlations are about 0.04–0.10; no learning in the participants is measured.
 ---
 
 # LIT-tmpdoq2o: Map-like representations of emotion knowledge in hippocampal-prefrontal systems
 
 Ma, Y. & Kragel, P. A. (2026). *Nature Communications* 17:1518. doi:10.1038/s41467-025-68240-z.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmp4ffuf.*
+
+- **Design.** Reanalysis of the public Emo-FilM data: 29 viewers, 14 films, no task. Labels are consensus continuous ratings from 44 other people. PLS decoders, leave-one-film-out.
+- **Dissociation.** Hippocampus: categories z = 0.0525 against space z = 0.0428. vmPFC: space z = 0.0956 against categories z = 0.0838. Double dissociation p = .001. Entorhinal cortex shows neither.
+- **Model.** A Tolman–Eichenbaum Machine, which takes an observation and an action at each step, learns an 11 × 11 grid whose emotion nodes are placed by MDS of rating correlations, by random walk. Hippocampus decodes its conjunctive layer p at small scales, vmPFC its structural layer g at large scales (Δz = 0.0712, d = 2.67).
+- **Open, by the authors' account.** Whether the concepts reflect shared regularities or are "constructed more flexibly as ad hoc categories shaped by individual experience" (p. 7); the map may be learned "rather than being an innate structure" (p. 8).
 
 ## Why this is here
 
-Registered at the owner's request (U9). It bears on constructed emotion (NOTE-434, THEORY-057) and on CLAIM-tmpq9do8's diachronic form: emotion knowledge as a learned map over transitions is an observer shaped by its history, through which later emotional episodes are read. Whether the map is shaped by judgement, by passive exposure or by action, the abstract does not say.
+Registered at the owner's request (U9) for constructed emotion (NOTE-434, THEORY-057) and CLAIM-tmpq9do8's diachronic form: emotion knowledge as a learned map through which later episodes are read. The reading answers less than the registration hoped. Nothing is learned or measured as learned in the participants, who only watched; whether the map shapes how a later episode is read is not tested; and the labels are other people's judgements. The only learner is the model, and it learns by acting, so where the paper models map learning it uses an action–perception loop, not tested against an action-free one. For THEORY-057 it is within-study classifier evidence, which that theory's promote_when says cannot settle it; the authors leave the constructed-versus-shared question open. It neither supports nor undermines CLAIM-tmpq9do8, and gives CLAIM-tmp84z6h only an analogy: a structural code reused across contexts, bound to content.
