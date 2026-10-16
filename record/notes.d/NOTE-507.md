@@ -34,7 +34,7 @@ summary: >-
   at membrane-level sensing below feeling.
 ---
 
-<!-- inactive-ok-file: LIT-387 — Deferred; named as the unread parallel statement of this essay, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Unavailable; named as the unread parallel statement of this essay, not leaned on -->
 <!-- inactive-ok-file: THEORY-045 THEORY-090 THEORY-101 — Proposed; named as the theories this reading bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-093 — Proposed; the theory filed from this reading, named as filed -->
 

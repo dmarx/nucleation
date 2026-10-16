@@ -23,7 +23,7 @@ answered_by:
 refined_by:
 - QUESTION-073
 ---
-<!-- inactive-ok-file: LIT-485 — Deferred; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
+<!-- inactive-ok-file: LIT-485 — Unavailable; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; a partial answer, cited as open -->
 <!-- inactive-ok-file: THEORY-282 THEORY-287 THEORY-243 — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
 

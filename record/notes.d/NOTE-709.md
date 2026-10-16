@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-108 — Superseded; cited as the earlier thesis whose wording CLAIM-133 brings back -->
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as the history of a thesis, whose change is the point -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 CLAIM-181 CLAIM-176 CLAIM-186 — Proposed; open, and cited as open: the claims this reading bears on are under test, not settled -->
-<!-- inactive-ok-file: LIT-917 LIT-924 LIT-926 — Deferred, unread; named for what this paper bears on in them -->
+<!-- inactive-ok-file: LIT-917 LIT-924 LIT-926 — Unavailable, unread; named for what this paper bears on in them -->
 
 # NOTE-709: Ostwald — Studies on the formation and transformation of solids, I
 

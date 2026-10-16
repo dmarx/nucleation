@@ -27,8 +27,9 @@ summary: >-
   preserve: hardware, process or instance. The denial of a self follows from
   the framing; no argument rules out a conscious actor behind the roles.
 ---
-<!-- inactive-ok-file: LIT-416 — Deferred; named as the unread paper this reading bears on, not leaned on -->
+<!-- inactive-ok-file: LIT-416 — Unavailable; named as the unread paper this reading bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpb08ha — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-370: Shanahan, McDonell & Reynolds — Role play with large language models (read for the self)
 
@@ -191,6 +192,8 @@ fixed here.**
   account of the paper's content otherwise matches the Nature text.
 
 **No ML instruction.** The paper says it gives none.
+
+*Note of 2026-10-16:* [THEORY-tmpb08ha](../theory.d/THEORY-tmpb08ha.md) now cites [LIT-460](../literature.d/LIT-460.md) as a source.
 
 ## Limitations
 

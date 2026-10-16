@@ -48,7 +48,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-205 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-220 CLAIM-228 CLAIM-259 — Proposed; the record's other replies of 2026-10-10, open, cited for the revised thesis and the measures this one tests -->
 <!-- inactive-ok-file: CLAIM-083 — Superseded; cited as the earlier thesis whose body first noticed the weak baseline -->
-<!-- inactive-ok-file: LIT-784 — Deferred; unread here, cited as the rival CLAIM-023 names and not leaned on -->
+<!-- inactive-ok-file: LIT-784 — Unavailable; unread here, cited as the rival CLAIM-023 names and not leaned on -->
 
 # CLAIM-202: What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings
 

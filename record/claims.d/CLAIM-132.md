@@ -34,7 +34,7 @@ summary: >-
 supports:
 - CLAIM-249
 ---
-<!-- inactive-ok-file: LIT-893 — Deferred; registered unread as the standard source for results checked here by reasoning -->
+<!-- inactive-ok-file: LIT-893 — Unavailable; registered unread as the standard source for results checked here by reasoning -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-136 — Proposed; the owner's two theses this entry bounds, both open -->
 <!-- inactive-ok-file: CLAIM-063 — Proposed; cited as the parallel commutator bound, open -->
 

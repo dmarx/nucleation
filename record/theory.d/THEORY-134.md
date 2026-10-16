@@ -25,7 +25,7 @@ supports:
 - CLAIM-195
 ---
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for a parallel -->
-<!-- inactive-ok-file: LIT-738 — Deferred, unread; Aubin's monograph, named as the general theory the notes restrict -->
+<!-- inactive-ok-file: LIT-738 — Unavailable, unread; Aubin's monograph, named as the general theory the notes restrict -->
 
 # THEORY-134: Whether a system can persist is a question about a constraint set fixed independently of its dynamics: a set is viable when from each of its states some evolution can stay in it, and when it is not, its viability kernel is the largest part that is, from the rest of which every evolution leaves in finite time
 

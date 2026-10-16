@@ -31,10 +31,10 @@ summary: >-
   (.49) and conflict (−.49).
 ---
 
-<!-- inactive-ok-file: LIT-703 — Deferred, no lawful full text; Ashforth & Humphrey, cited by this paper and named -->
-<!-- inactive-ok-file: LIT-704 — Deferred, no lawful full text; Frijda 1988, cited by this paper and named -->
-<!-- inactive-ok-file: LIT-699 — Deferred, no lawful full text; Sanchez-Burks & Huy, named from their abstract -->
-<!-- inactive-ok-file: LIT-550 — Deferred, unread; Lazarus, named as the source of a definition this paper quotes -->
+<!-- inactive-ok-file: LIT-703 — Unavailable, no lawful full text; Ashforth & Humphrey, cited by this paper and named -->
+<!-- inactive-ok-file: LIT-704 — Unavailable, no lawful full text; Frijda 1988, cited by this paper and named -->
+<!-- inactive-ok-file: LIT-699 — Unavailable, no lawful full text; Sanchez-Burks & Huy, named from their abstract -->
+<!-- inactive-ok-file: LIT-550 — Unavailable, unread; Lazarus, named as the source of a definition this paper quotes -->
 
 # NOTE-551: The Ripple Effect: Emotional Contagion and its Influence on Group Behavior
 

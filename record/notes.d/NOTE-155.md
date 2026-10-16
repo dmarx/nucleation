@@ -95,6 +95,8 @@ The paper builds on Hutchinson (1957), Brandon (1990), OLF (2003) and Stotz (201
 
 No nucleation THEORY documents bear on it. For ML practice: nothing. The paper is a clean exemplar of detecting an equivocation between fields that share a term, which is useful for any future nucleation note on concept individuation, but it carries no instruction for machine-learning practice.
 
+*Note of 2026-10-16:* [THEORY-tmp8xp3z](../theory.d/THEORY-tmp8xp3z.md) now cites [LIT-169](../literature.d/LIT-169.md) as a source.
+
 ## Limitations
 
 - It analyses only OLF 2003. Whether later NCT niche concepts (Stotz 2017's selective and developmental niches; constitutive or relational NC) avoid the non-coincidences is untested. The author says so.

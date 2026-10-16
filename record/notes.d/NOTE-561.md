@@ -22,7 +22,7 @@ summary: >-
   routines. A CEO workshop transcript shows the pattern, and a
   quasi-experimental design to test it is proposed but not run.
 ---
-<!-- inactive-ok-file: LIT-739 — Deferred, unread; the 1977 article, named as unread -->
+<!-- inactive-ok-file: LIT-739 — Unavailable, unread; the 1977 article, named as unread -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; the account filed from this reading -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for a contrast -->
 

@@ -20,7 +20,6 @@ summary: >-
 used_by:
 - CLAIM-042
 ---
-<!-- inactive-ok-file: TERM-032 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-009: levels, as levels at which observables exist
 

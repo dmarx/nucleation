@@ -34,8 +34,8 @@ summary: >-
   earned at less than the maximum; neutral or positive effects for rewards
   tied to a standard or to beating others. All of it is small.
 ---
-<!-- inactive-ok-file: LIT-754 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
-<!-- inactive-ok-file: LIT-556 — Deferred: Cameron & Pierce (1994) is unread; described from this paper's account of it -->
+<!-- inactive-ok-file: LIT-754 — Unavailable: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
+<!-- inactive-ok-file: LIT-556 — Unavailable: Cameron & Pierce (1994) is unread; described from this paper's account of it -->
 <!-- inactive-ok-file: THEORY-049 THEORY-154 — Proposed; the accounts this reading bears on, named in Bearing on the record -->
 
 # NOTE-587: Pervasive negative effects of rewards on intrinsic motivation: The myth continues

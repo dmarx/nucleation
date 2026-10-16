@@ -29,10 +29,11 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, which this paper criticizes by name for leaving out purity -->
+<!-- inactive-ok-file: THEORY-tmphcyt1 THEORY-tmpqgklr — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 
 <!-- inactive-ok-file: LIT-496 — Proposed: the MAC-Q, filed in the same batch, the questionnaire this one would be compared with -->
 
-<!-- inactive-ok-file: LIT-494 — Deferred, unread: dyadic morality, which this paper classes as harm monism -->
+<!-- inactive-ok-file: LIT-494 — Unavailable, unread: dyadic morality, which this paper classes as harm monism -->
 
 # NOTE-398: Atari et al. 2023, the MFQ-2
 
@@ -171,6 +172,8 @@ pattern, not a universal one.
   more outside WEIRD populations, but its Purity means are the ones the
   authors say not to compare across groups without caution.
 - No THEORY document cites it. No ML instruction.
+
+*Note of 2026-10-16:* [THEORY-tmp4dj55](../theory.d/THEORY-tmp4dj55.md), [THEORY-tmphcyt1](../theory.d/THEORY-tmphcyt1.md) and [THEORY-tmpqgklr](../theory.d/THEORY-tmpqgklr.md) now cite [LIT-500](../literature.d/LIT-500.md) as a source.
 
 ## Limitations
 

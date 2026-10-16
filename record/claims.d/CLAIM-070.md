@@ -37,7 +37,6 @@ supports:
 - CLAIM-207
 ---
 <!-- inactive-ok-file: THEORY-174 — Proposed; cited as the reading that generalises this proposition, not as settled -->
-<!-- inactive-ok-file: CLAIM-100 — Superseded; narrowed, and cited as the history of the open problem -->
 <!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as open: the narrowed problem this proposition supports -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

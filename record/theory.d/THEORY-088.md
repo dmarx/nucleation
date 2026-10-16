@@ -25,7 +25,15 @@ promote_when: >-
   adds nothing. More decoding from the same HCP data, at the same scale,
   cannot settle it.
 title: 'Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    The discrete-substate view this account sets aside is now filed as
+    THEORY-tmpl8vgb (from LIT-080). A paragraph in "The rival description"
+    says so and why no rivals relation is declared. The account is
+    unchanged.
 tags:
 - neuroscience
 - complex-systems
@@ -48,7 +56,8 @@ summary: >-
 answers:
 - QUESTION-042
 ---
-<!-- inactive-ok-file: LIT-647 — Deferred, unread (paywalled); named as the electrophysiological review that could bear on this, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-647 — Unavailable, unread (paywalled); named as the electrophysiological review that could bear on this, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpl8vgb — Proposed; named as the discrete-substate description, weighed against this account and not leaned on -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; named in Connections as the record's other phase-dynamics account of coordination, no relation claimed -->
 
 # THEORY-088: Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
@@ -164,6 +173,13 @@ organisation as its claim and leaves the continuous-versus-discrete
 question open; if a discrete-substate theory is filed, it and this one
 should be weighed then, and they may turn out compatible descriptions at
 different grains rather than rivals.
+
+*Added 2026-10-16.* The discrete-substate view is now filed as
+[THEORY-tmpl8vgb](THEORY-tmpl8vgb.md), from [LIT-080](../literature.d/LIT-080.md). It is a framing from a review, not a tested
+account, and it does not claim that a continuous description fails. So
+it is not declared a rival here either; the comparison this account's
+promote_when names is what would decide between them, and [QUESTION-079](../questions.d/QUESTION-079.md)
+holds the open choice.
 
 ## What this does not say
 

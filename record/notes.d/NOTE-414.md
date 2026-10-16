@@ -29,7 +29,7 @@ summary: >-
   targets, spirals, scrolls; in microemulsion, Turing structures. The
   Oregonator is qualitative only.
 ---
-<!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, cited only as the review's source for the far-from-equilibrium condition, not leaned on -->
+<!-- inactive-ok-file: LIT-524 — Unavailable, no lawful full text; Nicolis & Prigogine, cited only as the review's source for the far-from-equilibrium condition, not leaned on -->
 
 # NOTE-414: Belousov-Zhabotinsky reaction
 
@@ -185,6 +185,8 @@ What the review takes for granted:
   definitions are "persister" criteria of the kind Baedke criticizes
   ([LIT-167](../literature.d/LIT-167.md)). BZ is a persister only while fed.
 - **No THEORY is indicated by this reading alone. No ML instruction.**
+
+*Note of 2026-10-16:* [THEORY-tmpe57v7](../theory.d/THEORY-tmpe57v7.md) now cites [LIT-531](../literature.d/LIT-531.md) as a source.
 
 ## Limitations
 

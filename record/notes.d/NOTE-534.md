@@ -27,7 +27,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-660 — Proposed by this reading; the note is the reading that placed it -->
 <!-- inactive-ok-file: LIT-676 — Proposed: named as a sibling test of connectivity outside image classifiers -->
 <!-- inactive-ok-file: LIT-677 — Proposed: named as a sibling test of connectivity outside image classifiers -->
-<!-- inactive-ok-file: LIT-354 — Deferred: Watanabe's book is unread; named as the source of the singular-learning-theory argument the paper cites, with no relation claimed -->
+<!-- inactive-ok-file: LIT-354 — Unavailable: Watanabe's book is unread; named as the source of the singular-learning-theory argument the paper cites, with no relation claimed -->
 
 # NOTE-534: Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models
 

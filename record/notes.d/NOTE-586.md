@@ -24,7 +24,7 @@ summary: >-
   make the hierarchy an explanandum and the highest occupied level the
   privileged level of organisms.
 ---
-<!-- inactive-ok-file: LIT-721 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-721 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-141 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # NOTE-586: The Major Transitions in Evolution—A Philosophy-of-Science Perspective

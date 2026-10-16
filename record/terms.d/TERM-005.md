@@ -19,7 +19,6 @@ summary: >-
   "what kind of thing the original fundamentally is". A silent narrowing
   of the owner's sense, corrected at U7.
 ---
-<!-- inactive-ok-file: TERM-029 TERM-035 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-005: frame, as an interpretive lens on the original
 

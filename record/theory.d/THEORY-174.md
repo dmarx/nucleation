@@ -41,7 +41,7 @@ supports:
 - CLAIM-245
 ---
 
-<!-- inactive-ok-file: CLAIM-100 — Proposed; open, and cited as open: the claim this theory bears on -->
+<!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim this theory bears on -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for what this theory does not say, not as settled -->
 
 # THEORY-174: Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it

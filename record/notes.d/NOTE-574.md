@@ -25,7 +25,7 @@ summary: >-
   industry-funded work counteracts it. Integrity safeguards do not touch
   the mechanism.
 ---
-<!-- inactive-ok-file: LIT-751 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-751 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-146 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->

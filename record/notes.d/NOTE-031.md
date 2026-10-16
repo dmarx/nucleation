@@ -37,7 +37,7 @@ summary: >-
   cannot yet be verified.
 ---
 
-<!-- inactive-ok-file: LIT-059 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-059 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-031: The Strongest El Niño Ever (Climate Brink)
 

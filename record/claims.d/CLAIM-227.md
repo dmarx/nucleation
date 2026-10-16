@@ -29,7 +29,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-061 CLAIM-084 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-014 — Proposed; open, cited for their defeat conditions, not as settled -->
-<!-- inactive-ok-file: LIT-780 LIT-785 — Deferred; the works are unread here, cited as the sources the line names for footing and force and not leaned on -->
+<!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; the works are unread here, cited as the sources the line names for footing and force and not leaned on -->
 
 # CLAIM-227: No validated measure of footing or stance exists in the record, and the one repeated assignment of footing, the analyst's own, changed between passes
 

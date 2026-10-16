@@ -27,7 +27,7 @@ summary: >-
   tested.
 ---
 
-<!-- inactive-ok-file: LIT-775 — Deferred; named as the work the paper models, not leaned on -->
+<!-- inactive-ok-file: LIT-775 — Unavailable; named as the work the paper models, not leaned on -->
 
 # NOTE-609: Computational challenges to Lévi-Strauss transformational methodology
 

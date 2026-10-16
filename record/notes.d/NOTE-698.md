@@ -41,7 +41,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what this paper does and does not supply for it -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as history the paper's usage bears on -->
 <!-- inactive-ok-file: THEORY-127 THEORY-208 — Proposed; open, and cited as open, not leaned on -->
-<!-- inactive-ok-file: LIT-391 LIT-737 — Deferred, unread; named as the group-agency and commons works this paper's cases touch, not leaned on -->
+<!-- inactive-ok-file: LIT-391 LIT-737 — Unavailable, unread; named as the group-agency and commons works this paper's cases touch, not leaned on -->
 
 # NOTE-698: Floridi — Distributed morality in an information society
 

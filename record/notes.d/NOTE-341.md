@@ -31,8 +31,8 @@ summary: >-
   It has no model, no measurement of the light cone and no new data, and
   it confines claims about experience to a closing speculation.
 ---
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the book whose decomposition this work is contrasted with, not leaned on for its content -->
-<!-- inactive-ok-file: LIT-437 — Deferred; named because this paper cites it, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the book whose decomposition this work is contrasted with, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-437 — Unavailable; named because this paper cites it, not leaned on for its content -->
 
 # NOTE-341: The Computational Boundary of a "Self"
 

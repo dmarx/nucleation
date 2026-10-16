@@ -30,8 +30,10 @@ summary: >-
   essayistic thesis argued from cases, not a study.
 supports:
 - CLAIM-060
+extended_by:
+- THEORY-tmp91ahm
 ---
-<!-- inactive-ok-file: LIT-753 — Deferred; cited for context or as the source of this reading, nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-753 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 
 # THEORY-150: A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
 

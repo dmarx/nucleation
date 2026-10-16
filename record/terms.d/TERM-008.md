@@ -45,8 +45,6 @@ used_by:
 - CLAIM-260
 - CLAIM-077
 ---
-<!-- inactive-ok-file: CLAIM-101 — Superseded; replaced, and cited as the history this entry answers or replaces -->
-<!-- inactive-ok-file: CLAIM-106 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-008: transport
 

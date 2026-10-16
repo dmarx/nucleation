@@ -31,6 +31,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, whose seven domains this paper's single-domain theory is compared with -->
+<!-- inactive-ok-file: THEORY-tmp7eb7s — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-407: Baumard, André & Sperber 2013, mutualistic morality
 
@@ -191,6 +192,8 @@ choice selects.
   proposes) would not settle it for these authors without a definition of
   "moral". Machery and Stich's commentary makes exactly that point.
 - No THEORY document cites it. No ML instruction.
+
+*Note of 2026-10-16:* [THEORY-tmp7eb7s](../theory.d/THEORY-tmp7eb7s.md) now cites [LIT-508](../literature.d/LIT-508.md) as a source.
 
 ## Limitations
 

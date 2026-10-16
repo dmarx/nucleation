@@ -39,7 +39,7 @@ summary: >-
   14).
 ---
 
-<!-- inactive-ok-file: LIT-182 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-182 — Rejected: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-156: Towards ethical evolution: responsible AI autonomy
 

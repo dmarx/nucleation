@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpek80j
 title: 'Fidelity is relative to the communicative decisions the receiver must make, and Blackwell''s order of experiments makes that comparison precise'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -19,6 +19,13 @@ history:
     describes is met by bounded receivers without touching the order
     (CLAIM-199). The scope is report fidelity (CLAIM-212).
     The manuscript's text quoted below is unchanged.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    Grounded also on THEORY-tmpotoox, which states Shannon's coding
+    theorems, including the fidelity theorem (a source is reproducible at
+    a fidelity iff its rate for it does not exceed capacity) that the
+    claim takes rate–distortion from. LIT-764 is kept.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,6 +48,7 @@ grounds:
 - LIT-781
 - LIT-778
 - LIT-764
+- THEORY-tmpotoox
 - LIT-767
 supersedes:
 - CLAIM-051
@@ -72,7 +80,6 @@ objected_by:
 ---
 <!-- ref::uses-file: TERM-028 — stated in "fidelity, as inferential sufficiency", which the claim restates through Blackwell's order of experiments; the body names fidelity only in its prior-art comparison -->
 <!-- inactive-ok-file: THEORY-161 — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
-<!-- inactive-ok-file: CLAIM-051 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-212 — Proposed; the record's replies that scope this claim's restated condition, cited as open -->
 
 # CLAIM-050: Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise

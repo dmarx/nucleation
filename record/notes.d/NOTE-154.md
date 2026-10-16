@@ -28,7 +28,7 @@ summary: >-
   ontic/epistemic distinction, not by engaging the theorem.
 ---
 
-<!-- inactive-ok-file: LIT-200 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-200 — Proposed: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-154: Allori — Wave-functionalism
 

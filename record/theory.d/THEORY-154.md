@@ -39,7 +39,7 @@ summary: >-
 answers:
 - QUESTION-066
 ---
-<!-- inactive-ok-file: LIT-754 — Deferred: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
+<!-- inactive-ok-file: LIT-754 — Unavailable: Eisenberger, Pierce & Cameron (1999) is unread; named as the source of the control-group comparison, described from LIT-562's account -->
 <!-- inactive-ok-file: THEORY-049 — Proposed; the rival account -->
 
 # THEORY-154: Whether an expected tangible reward lowers or raises later intrinsic motivation depends on how tightly its stated contingency ties it to performance and success

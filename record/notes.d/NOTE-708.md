@@ -44,7 +44,7 @@ summary: >-
   barrier is negligible, so heterogeneous substrates must act on the
   prefactor, not the barrier.
 ---
-<!-- inactive-ok-file: LIT-926 LIT-924 — Deferred, unread; named as companions and as works this reading bears on, not leaned on -->
+<!-- inactive-ok-file: LIT-926 LIT-924 — Unavailable, unread; named as companions and as works this reading bears on, not leaned on -->
 <!-- inactive-ok-file: CLAIM-176 CLAIM-186 CLAIM-181 — Proposed; open, and cited as open: the theses and objections of the nucleating-argument line are under test, not settled -->
 
 # NOTE-708: Vekilov — Nucleation

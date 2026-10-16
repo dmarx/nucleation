@@ -45,7 +45,7 @@ summary: >-
   several of its figures.
 ---
 
-<!-- inactive-ok-file: LIT-060 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-060 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-042: Bonica, "The Mothership Vortex" (Democratic spam PACs)
 

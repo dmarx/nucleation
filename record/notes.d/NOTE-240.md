@@ -34,7 +34,6 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed: cited as the record's current account of the behavioural data, for comparison; the directive lapses when its status changes -->
 <!-- inactive-ok-file: LIT-267 — Proposed: the paper this note reads; the directive lapses when its status changes -->
-<!-- inactive-ok-file: LIT-264 — Deferred: cited as context for the comparison with van Rijsbergen; the directive lapses when its status changes -->
 # NOTE-240: The Lattice Representation Hypothesis of Large Language Models
 
 ## Contribution

@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-026 — Proposed; named as the account this reading bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-030 — Proposed; named as the account this reading bears on, not leaned on -->
-<!-- inactive-ok-file: LIT-328 — Deferred; named as the Landauer bound the review reports on, not leaned on -->
+<!-- inactive-ok-file: LIT-328 — Unavailable; named as the Landauer bound the review reports on, not leaned on -->
 
 # NOTE-420: Stochastic thermodynamics, fluctuation theorems and molecular machines
 

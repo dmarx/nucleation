@@ -29,6 +29,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, whose quotations of this essay this reading checks -->
+<!-- inactive-ok-file: THEORY-tmphcyt1 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-400: Haidt & Joseph 2004, intuitive ethics
 
@@ -171,6 +172,8 @@ There are no empirical results. The tally and the table are the content.
   purity, which the seven cooperative domains leave out.
 - No THEORY document cites it. No ML instruction; nothing here belongs in
   the anthology.
+
+*Note of 2026-10-16:* [THEORY-tmphcyt1](../theory.d/THEORY-tmphcyt1.md) now cites [LIT-502](../literature.d/LIT-502.md) as a source.
 
 ## Limitations
 

@@ -22,7 +22,7 @@ promote_when: >-
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 4
+version: 6
 history:
 - version: 2
   date: '2026-10-02'
@@ -46,6 +46,31 @@ history:
     for thin, functionalist agency, and how organisational minimal agency
     (THEORY-071) and Korsgaard's normative constitution of agency
     (THEORY-065) bear on it from two sides.
+- version: 5
+  date: '2026-10-16'
+  note: >-
+    Levin (LIT-439) added to the source: he is one of the three readings
+    the account's agreement on agency rests on, beside Block and List,
+    which were already listed. The THEORYs now filed for Levin
+    (THEORY-tmpmblxg), Ritchie (THEORY-tmpinjtf) and Epstein's survey
+    (THEORY-tmpavyju) are named in Connections. Ritchie and Epstein stay
+    out of the source, since they only constrain a criterion.
+- version: 6
+  date: '2026-10-16'
+  note: >-
+    Connections names the THEORYs now filed for the cognition readings
+    this account cites: Chalmers's directness criterion in the sensorimotor
+    extended-mind thesis (THEORY-tmpegs18), the rationality presupposition
+    of belief ascription (THEORY-tmpnzxy2), the case against machine-table
+    functionalism (THEORY-tmp91cqx), Putnam (THEORY-tmp4k9ec), Dennett's
+    intentional strategy (THEORY-tmphcjj0), Searle (THEORY-tmpted1p) and
+    Chalmers on implementation (THEORY-tmppylq2). None is a premise here.
+    Schwitzgebel's reply to Kammerer (LIT-459) added to the source: the
+    Kammerer bullet, the invariance bullet and promote_when argue from
+    its condition-A gap, its Leo case and its simplicity dilemma. The
+    THEORYs now filed for the Chalmers and Dennett readings named in
+    "What the Chalmers and Dennett readings add" are listed in
+    Connections. The claim is unchanged.
 tags:
 - consciousness
 - mereology
@@ -60,6 +85,8 @@ source:
 - LIT-401
 - LIT-409
 - LIT-445
+- LIT-439
+- LIT-459
 summary: >-
   Minsky's society of mind builds a mind downward, out of agents that are
   not minds. Schwitzgebel ([LIT-159](../literature.d/LIT-159.md)) builds a candidate mind upward, out of
@@ -77,10 +104,15 @@ summary: >-
 answers:
 - QUESTION-046
 ---
+<!-- inactive-ok-file: THEORY-tmp4k9ec THEORY-tmphcjj0 THEORY-tmpted1p — Proposed; the accounts now filed from readings this one draws on, named in Connections, none a premise -->
+<!-- inactive-ok-file: THEORY-tmp26rh2 THEORY-tmpdz76a THEORY-tmpltl13 THEORY-tmpspj51 THEORY-tmpuo0qe — Proposed; the accounts filed on 2026-10-16 for readings this account cites, named in Connections and not leaned on -->
+<!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-393 — Deferred, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
-<!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Deferred or Proposed; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
+<!-- inactive-ok-file: LIT-393 — Unavailable, no lawful full text; Dennett's discharge of homunculi is cited as known through Stich's summary, which Dennett accepted, and the account says so -->
+<!-- inactive-ok-file: LIT-429 LIT-419 LIT-426 LIT-391 LIT-396 LIT-437 LIT-046 — Proposed or Unavailable; named as the unread or unsettled works this account says would move it, or as neighbours, not leaned on -->
 <!-- inactive-ok-file: NOTE-335 — Skimmed; Putnam's stipulation is cited from Block's and Kammerer's full readings, and the skim only confirms the wording -->
+<!-- inactive-ok-file: THEORY-tmpegs18 THEORY-tmpnzxy2 — Proposed; accounts filed for readings this one cites, named in Connections, not leaned on -->
 
 # THEORY-043: A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled
 
@@ -99,6 +131,11 @@ answers:
   anti-nesting principle.
 - Oizumi, Albantakis & Tononi (2014), [LIT-445](../literature.d/LIT-445.md), read in [NOTE-365](../notes.d/NOTE-365.md):
   the exclusion postulate in formal statement.
+- Levin (2019), [LIT-439](../literature.d/LIT-439.md), read in [NOTE-341](../notes.d/NOTE-341.md): nested goal-pursuing
+  collectives, one of the three readings that grant agency under
+  composition. His account is stated in [THEORY-tmpmblxg](THEORY-tmpmblxg.md).
+- Schwitzgebel (2016), [LIT-459](../literature.d/LIT-459.md), read in [NOTE-381](../notes.d/NOTE-381.md): the reply to Kammerer,
+  for the condition-A gap, the Leo case and the simplicity dilemma.
 
 ## The two directions
 
@@ -324,6 +361,10 @@ needed.
     architectural criterion computed over the members alone is computed
     over too small a system. This adds a constraint on any criterion that
     would meet `promote_when`; it does not change what would.
+  - Both readings are now stated as accounts: Ritchie's in [THEORY-tmpinjtf](THEORY-tmpinjtf.md)
+    (coincident groups and groups as realized structures), and the
+    survey's grounding/anchoring split in [THEORY-tmpavyju](THEORY-tmpavyju.md). Neither is a
+    premise here.
 - **The agreement on agency is about thin agency.** That agency survives
   composition holds for thin, functionalist agency, and two accounts bear
   on it from opposite sides: organisational minimal agency
@@ -335,6 +376,28 @@ needed.
   individuals, but because a group can achieve the unity of agency by
   conformity to its constitutive norms, a reason that does not turn on
   architecture and says nothing about experience.
+- **Levin's account of nested agents** ([THEORY-tmpmblxg](THEORY-tmpmblxg.md)) states the
+  composition-side view of agency this account cites from [LIT-439](../literature.d/LIT-439.md). It is
+  the cheap end of the scale [THEORY-071](THEORY-071.md) makes dear: on it any homeostat is
+  a Self.
+- **The cognition readings, now stated as accounts.** Chalmers's
+  directness criterion is part of [THEORY-tmpegs18](THEORY-tmpegs18.md), the sensorimotor
+  statement of the extended-mind thesis, which denies extended
+  consciousness through perception. Dennett's concession that the
+  intentional system is an idealisation is [THEORY-tmpnzxy2](THEORY-tmpnzxy2.md). Block and
+  Fodor's case that the organisation that makes a mind cannot be a machine
+  table is [THEORY-tmp91cqx](THEORY-tmp91cqx.md). None is a premise here.
+- **The readings stated as accounts.** Putnam's hypothesis with its
+  condition (3) is [THEORY-tmp4k9ec](THEORY-tmp4k9ec.md), resting on the excerpt in [NOTE-335](../notes.d/NOTE-335.md).
+  Dennett's intentional strategy is [THEORY-tmphcjj0](THEORY-tmphcjj0.md), Searle's
+  causal-powers argument [THEORY-tmpted1p](THEORY-tmpted1p.md), and Chalmers's implementation
+  conditions [THEORY-tmppylq2](THEORY-tmppylq2.md). None is a premise here; they state on their
+  own what this account cites them for.
+- **The Chalmers and Dennett readings as accounts.** Organisational
+  invariance is [THEORY-tmpdz76a](THEORY-tmpdz76a.md), the combination problem [THEORY-tmpuo0qe](THEORY-tmpuo0qe.md),
+  the meta-problem challenge [THEORY-tmpltl13](THEORY-tmpltl13.md), "Quining Qualia"
+  [THEORY-tmp26rh2](THEORY-tmp26rh2.md) and Frankish's illusionism [THEORY-tmpspj51](THEORY-tmpspj51.md). None is a
+  premise here; each is cited above from its reading.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).

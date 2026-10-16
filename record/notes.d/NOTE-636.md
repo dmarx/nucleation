@@ -35,7 +35,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading bears on it without settling its promote_when -->
 <!-- inactive-ok-file: THEORY-166 — Proposed; this reading is one of its sources -->
-<!-- inactive-ok-file: LIT-316 — Deferred; the book is unread here -->
+<!-- inactive-ok-file: LIT-316 — Unavailable; the book is unread here -->
 
 # NOTE-636: Wang & Busemeyer, the QQ model and QQ equality
 

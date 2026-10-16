@@ -38,7 +38,7 @@ summary: >-
   yields more qualifying clusters than any local-separator setting.
 ---
 
-<!-- inactive-ok-file: LIT-068 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-068 — Rejected: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-085: Local separators and community structure
 

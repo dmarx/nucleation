@@ -29,7 +29,7 @@ summary: >-
   kind, and a generic kind spanning both does no explanatory work.
 ---
 <!-- inactive-ok-file: THEORY-043 — Proposed: an account this reading bears on, cited for where it stands, not as settled -->
-<!-- inactive-ok-file: LIT-412 — Deferred: Clark's book, filed unread in the same batch, named for where it answers this paper -->
+<!-- inactive-ok-file: LIT-412 — Unavailable: Clark's book, filed unread in the same batch, named for where it answers this paper -->
 
 # NOTE-343: Rupert — Challenges to the Hypothesis of Extended Cognition
 

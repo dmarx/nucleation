@@ -60,7 +60,7 @@ summary: >-
   the Organizational Approach).
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; named as the accounts that now bear on this paper's questions, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-529 LIT-536 — Deferred, no lawful full text; named as the unread accounts that claim a line, not leaned on -->
+<!-- inactive-ok-file: LIT-529 LIT-536 — Unavailable, no lawful full text; named as the unread accounts that claim a line, not leaned on -->
 
 # NOTE-094: Nahas & Sachs — What's at stake in naturalizing teleology
 

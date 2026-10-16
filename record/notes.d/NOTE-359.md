@@ -33,8 +33,8 @@ summary: >-
   Copycat is described as an architecture that builds representations and
   mappings together. Argued well; nothing is measured in the paper.
 ---
-<!-- inactive-ok-file: LIT-416 — Deferred, unreachable full text; Hofstadter's "Is there an 'I' in AI?", named as a neighbour, not leaned on -->
-<!-- inactive-ok-file: LIT-435 — Deferred, closed access; Mitchell & Hofstadter's Copycat paper, named as the program's primary description, not leaned on -->
+<!-- inactive-ok-file: LIT-416 — Unavailable, unreachable full text; Hofstadter's "Is there an 'I' in AI?", named as a neighbour, not leaned on -->
+<!-- inactive-ok-file: LIT-435 — Unavailable, closed access; Mitchell & Hofstadter's Copycat paper, named as the program's primary description, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account a behavioural criterion for thought runs into, not leaned on -->
 
 # NOTE-359: High-level perception, representation, and analogy: A critique of artificial intelligence methodology

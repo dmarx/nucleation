@@ -38,7 +38,7 @@ summary: >-
   consistency does no work in them. There are no results about the sheaf.
 ---
 
-<!-- inactive-ok-file: LIT-038 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-038 — Rejected: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-050: The relativity of causal knowledge
 

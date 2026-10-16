@@ -30,7 +30,7 @@ summary: >-
   for a new nosology, and an idiographic, functional-analytic diagnosis.
   It offers predictions and cited examples, not new data.
 ---
-<!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only as the uncited source of the word "biopsychosocial" -->
+<!-- inactive-ok-file: LIT-548 — Unavailable, no lawful full text; Engel 1977, named only as the uncited source of the word "biopsychosocial" -->
 
 # NOTE-437: The Future of Intervention Science: Process-Based Therapy
 

@@ -29,7 +29,7 @@ summary: >-
   little man. Ends on belief's two norms, truth and accurate avowal.
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; named as accounts this reading bears on, not leaned on -->
-<!-- inactive-ok-file: LIT-393 — Deferred: no readable full text; named as where the homunculus argument continues, not leaned on -->
+<!-- inactive-ok-file: LIT-393 — Unavailable: no readable full text; named as where the homunculus argument continues, not leaned on -->
 
 # NOTE-350: Intentional Systems
 

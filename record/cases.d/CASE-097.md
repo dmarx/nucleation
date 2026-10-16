@@ -28,7 +28,6 @@ summary: >-
   of a generating factor does not show as persistence of an eigenvector, which is
   what [CLAIM-148](../claims.d/CLAIM-148.md)'s identifiability limits predict.
 ---
-<!-- inactive-ok-file: QUESTION-113 — new; the question this bears on -->
 
 # CASE-097: The monograph's castle topic, persistent across refinement by construction, persists as no eigenmode: in its rank-2 and rank-3 co-occurrence matrices the eigenvector nearest the castle topic changes rank and turns through about 51°, and every eigenvector mixes signs
 

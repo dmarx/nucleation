@@ -39,7 +39,7 @@ summary: >-
   (p. 9). Meaning comes from human connection "but maintaining some
   distance" (p. 10).
 ---
-<!-- inactive-ok-file: LIT-183 — Deferred: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-183 — Unavailable: a related work named by a 2026-09-26 close reading on the identity tag; lapses when the cited work is read -->
 
 # NOTE-119: Evangelion and the desperate search for meaning
 

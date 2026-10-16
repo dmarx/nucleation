@@ -56,7 +56,7 @@ supports:
 - CLAIM-198
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; the rival account, declared -->
-<!-- inactive-ok-file: LIT-583 LIT-573 — Deferred; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
+<!-- inactive-ok-file: LIT-583 LIT-573 — Unavailable; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
 <!-- inactive-ok-file: THEORY-056 THEORY-029 THEORY-047 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-062 — new in this batch; accounts this one is set against or beside -->
 

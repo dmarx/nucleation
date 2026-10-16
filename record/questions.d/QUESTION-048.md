@@ -23,6 +23,7 @@ answered_by:
 - THEORY-100
 - THEORY-023
 - THEORY-298
+- THEORY-tmpltl13
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-039](../claims.d/CLAIM-039.md) and [CLAIM-003](../claims.d/CLAIM-003.md).

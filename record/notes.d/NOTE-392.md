@@ -28,7 +28,7 @@ summary: >-
   the one number (the transaction sector's share of GNP) is cited, not
   derived.
 ---
-<!-- inactive-ok-file: LIT-472 — Deferred, no lawful full text; Guala's book, named as a later treatment of North's definition -->
+<!-- inactive-ok-file: LIT-472 — Unavailable, no lawful full text; Guala's book, named as a later treatment of North's definition -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this essay does not bear on it -->
 
 # NOTE-392: North — Institutions

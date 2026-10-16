@@ -28,7 +28,7 @@ summary: >-
   lifetimes were measured, so the radiative rate is inferred, not observed.
 ---
 
-<!-- inactive-ok-file: LIT-627 — Deferred; named for contrast as the collapse-side test of Orch OR, with no relation claimed -->
+<!-- inactive-ok-file: LIT-627 — Unavailable; named for contrast as the collapse-side test of Orch OR, with no relation claimed -->
 
 # NOTE-509: Ultraviolet Superradiance from Mega-Networks of Tryptophan in Biological Architectures
 

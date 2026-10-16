@@ -40,8 +40,10 @@ summary: >-
   correlated inputs, or about learning that starts from prior knowledge.
 answers:
 - QUESTION-025
+extended_by:
+- THEORY-tmpaeic7
 ---
-<!-- inactive-ok-file: THEORY-211 LIT-1012 — Proposed; readings on balance filed on 2026-10-13, open -->
+<!-- inactive-ok-file: THEORY-211 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-187 — Proposed; accounts this one underlies or is set beside -->
 
 # THEORY-186: A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity

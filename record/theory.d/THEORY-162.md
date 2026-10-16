@@ -39,7 +39,7 @@ summary: >-
 supports:
 - CLAIM-061
 ---
-<!-- inactive-ok-file: LIT-811 — Deferred, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
+<!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
 <!-- inactive-ok-file: CLAIM-061 — Proposed; open, cited as the manuscript claim this bears on -->
 
 # THEORY-162: What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about

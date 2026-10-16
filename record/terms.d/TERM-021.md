@@ -23,7 +23,6 @@ used_by:
 - CLAIM-228
 - CLAIM-257
 ---
-<!-- inactive-ok-file: TERM-013 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 
 # TERM-021: fidelity, as context-indexed distribution matching
 

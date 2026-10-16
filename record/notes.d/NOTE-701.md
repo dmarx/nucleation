@@ -39,7 +39,8 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this paper offers an answer to -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; the permissiveness objection, cited as the objection this paper's criteria meet -->
 <!-- inactive-ok-file: LIT-126 — Rejected on its close reading; cited for the sentientist premise this paper is the standard alternative to -->
-<!-- inactive-ok-file: LIT-742 — Deferred, unread; Pettit's case for corporate responsibility, named as the contrast -->
+<!-- inactive-ok-file: LIT-742 — Unavailable, unread; Pettit's case for corporate responsibility, named as the contrast -->
+<!-- inactive-ok-file: THEORY-208 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-701: Floridi & Sanders — On the morality of artificial agents
 
@@ -140,6 +141,8 @@ Within Floridi's own work, the LoA method here is the same one used in informati
 - **Distributed agency.** The organisation case is compatible with [CLAIM-030](../claims.d/CLAIM-030.md) and offers no evidence for it. The paper says nothing about how an organisation's direction relates to its members' intentions.
 - **No THEORY is filed from this reading alone.** If the record later states a THEORY that agency, or moral agency, is LoA-relative, this paper is its source and C4 is the strongest support in it. Any such THEORY should carry C10 as an open liability.
 - No instruction for ML practice. The "machine learning" in the paper (MENACE, Mitchell 1997) is an illustration of adaptability.
+
+*Note of 2026-10-16:* [THEORY-208](../theory.d/THEORY-208.md) now cites [LIT-898](../literature.d/LIT-898.md) as a source.
 
 ## Limitations
 

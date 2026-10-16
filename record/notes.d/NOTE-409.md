@@ -29,7 +29,7 @@ summary: >-
   unread supplement; the review itself proves nothing.
 ---
 
-<!-- inactive-ok-file: LIT-495 — Deferred, no lawful full text: Alexander 1987, filed in the same batch; named as a neighbour, its content attributed to its publisher and to Nowak -->
+<!-- inactive-ok-file: LIT-495 — Unavailable, no lawful full text: Alexander 1987, filed in the same batch; named as a neighbour, its content attributed to its publisher and to Nowak -->
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation filed in the same batch; cited for which sources it credits for each domain -->
 
 # NOTE-409: Five Rules for the Evolution of Cooperation
@@ -99,6 +99,8 @@ b/c.
 - **MAC group domain:** not grounded as MAC means it. MAC's group domain is coordination to mutual advantage; this paper's network reciprocity and group selection are routes to *altruism*. Group selection does support in-group cooperation and is often cited for loyalty, but the paper says nothing about coordination or loyalty.
 - **Hawk, dove, division, possession:** absent; Curry 2016 ([LIT-503](../literature.d/LIT-503.md), Table 3) makes the same observation.
 - **No THEORY is indicated.** No instruction for ML practice.
+
+*Note of 2026-10-16:* [THEORY-tmpkifk7](../theory.d/THEORY-tmpkifk7.md) now cites [LIT-501](../literature.d/LIT-501.md) as a source.
 
 ## Limitations
 

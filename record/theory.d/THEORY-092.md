@@ -24,7 +24,17 @@ promote_when: >-
   behaviour of trained models, which are neither Block's machine nor
   shown to be its opposite.
 title: 'Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    The behavioural criteria this account said it would answer are now
+    filed: Turing's replacement of the question (THEORY-tmp4c2lf) and
+    Dennett's intentional strategy (THEORY-tmphcjj0). Both are joined by
+    `rivals`, not `corrects`, because all three accounts are Proposed and
+    the lookup machine is the point in dispute. The Turing section says so.
+    The claim is unchanged.
 tags:
 - cognition
 - metaphysics
@@ -48,7 +58,11 @@ summary: >-
   a lookup table, not a trained network.
 supports:
 - CLAIM-174
+rivals:
+- THEORY-tmp4c2lf
+- THEORY-tmphcjj0
 ---
+<!-- inactive-ok-file: THEORY-tmp4c2lf THEORY-tmphcjj0 — Proposed; the behavioural criteria filed as rivals, named where this account said it would answer them -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; the account whose mimicry clause this one bears on, named in prose, nothing here rests on it -->
 
 # THEORY-092: Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced
@@ -159,6 +173,16 @@ But [LIT-394](../literature.d/LIT-394.md) is a work, and no theory in the record
 about intelligence or the Turing-test criterion. So there is nothing for
 this account to correct, and no relation is declared. If the record files
 a behavioural criterion as a theory, this account corrects it.
+
+Two are now filed. Turing's replacement of the question, with its
+other-minds parity argument, is [THEORY-tmp4c2lf](THEORY-tmp4c2lf.md); Dennett's criterion for
+belief, predictive success of the intentional strategy, is
+[THEORY-tmphcjj0](THEORY-tmphcjj0.md). Its reading, [NOTE-353](../notes.d/NOTE-353.md), does not take up the lookup
+machine, so the reading this account's `promote_when` asks for is still
+to be done. Each is declared a rival rather than corrected, since all three are
+Proposed and the lookup machine is the case in dispute: Turing's §2
+assumes answers produced as a man's are, and Dennett's essay never applies
+its baseline to such a machine.
 
 ## How it bears on the record
 

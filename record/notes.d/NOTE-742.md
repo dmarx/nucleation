@@ -30,7 +30,7 @@ summary: >-
   label-dependent learned priors gains about 2.5 points on CIFAR-10.
 ---
 <!-- inactive-ok-file: THEORY-035 — Rejected; the account whose Connections names this paper -->
-<!-- inactive-ok-file: LIT-240 — Deferred; Vera et al., whose bound this paper calls vacuous -->
+<!-- inactive-ok-file: LIT-240 — Unavailable; Vera et al., whose bound this paper calls vacuous -->
 
 # NOTE-742: Sefidgaran, Zaidi & Krasnowski — MDL and Generalization Guarantees for Representation Learning
 

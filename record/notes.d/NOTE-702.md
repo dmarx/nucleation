@@ -35,8 +35,8 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection the paper's criteria meet, not as standing -->
 <!-- inactive-ok-file: THEORY-071 THEORY-173 THEORY-043 THEORY-065 THEORY-075 — Proposed; named as rival or adjacent accounts, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-208 — Proposed; the record's statement of this paper's account, filed from this reading -->
-<!-- inactive-ok-file: LIT-117 — Deferred, unread; named for the constitutivist question, not leaned on -->
-<!-- inactive-ok-file: LIT-534 — Deferred, unread; named as a cited work the record holds -->
+<!-- inactive-ok-file: LIT-117 — Unavailable, unread; named for the constitutivist question, not leaned on -->
+<!-- inactive-ok-file: LIT-534 — Unavailable, unread; named as a cited work the record holds -->
 
 # NOTE-702: Floridi — AI as agency without intelligence and the MRA thesis
 

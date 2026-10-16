@@ -29,7 +29,7 @@ summary: >-
   logarithm has its argument inverted.
 ---
 
-<!-- inactive-ok-file: LIT-328 — Deferred: Landauer 1961 is unread; named because the paper compares its bound with it, not leaned on -->
+<!-- inactive-ok-file: LIT-328 — Unavailable: Landauer 1961 is unread; named because the paper compares its bound with it, not leaned on -->
 <!-- inactive-ok-file: THEORY-030 THEORY-026 — Proposed; named as the accounts this reading is checked against, not as support -->
 
 # NOTE-419: Statistical physics of self-replication

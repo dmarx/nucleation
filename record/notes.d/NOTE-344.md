@@ -31,6 +31,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-031 — Proposed; named as a neighbour, not leaned on -->
 <!-- inactive-ok-file: LIT-046 — Proposed; named as a neighbouring account of collective intelligence, not leaned on -->
+<!-- inactive-ok-file: THEORY-043 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-344: Plain Talk About Neurodevelopmental Epistemology
 
@@ -179,6 +180,8 @@ There are no theorems, data or programs. The results are proposals.
   order, not structure, and no THEORY here rests on it.
 - **Boundary.** No machine-learning practice instruction; no anthology
   topic holds it.
+
+*Note of 2026-10-16:* [THEORY-043](../theory.d/THEORY-043.md) now cites [LIT-399](../literature.d/LIT-399.md) as a source.
 
 ## Limitations
 

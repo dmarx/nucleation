@@ -21,10 +21,10 @@ summary: >-
   question's own qualifiers. No criterion has been given.
 answered_by:
 - THEORY-036
+- THEORY-tmpjelp9
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — listed as material that may bear on this question, not as settled -->
-<!-- inactive-ok-file: THEORY-036 — Proposed; cited as the reading that locates the question's work, not as settled -->
-<!-- inactive-ok-file: LIT-301 — Deferred; unread, named as the text that would settle THEORY-036 -->
+<!-- inactive-ok-file: LIT-301 — Unavailable; unread, named as the text that would settle THEORY-036 -->
 <!-- inactive-ok-file: CLAIM-078 — Proposed; cited because A191's four criteria restate it -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; the necessary-not-sufficient reading named in the note of 2026-10-14, not as settled -->
 

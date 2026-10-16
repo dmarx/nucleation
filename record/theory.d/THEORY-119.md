@@ -63,8 +63,8 @@ answers:
 - QUESTION-068
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part (Introduction and Ch. 1 pp. 1–10), cited for what that reading did not reach -->
-<!-- inactive-ok-file: THEORY-118 THEORY-121 THEORY-120 THEORY-040 — Proposed; the rival declared here and the accounts named in prose -->
-<!-- inactive-ok-file: LIT-684 LIT-687 LIT-688 LIT-686 — Deferred, unread; Fischer's and Wolf's primary texts and Frankfurt's 1982 essay, named as what would move this -->
+<!-- inactive-ok-file: THEORY-118 THEORY-120 THEORY-040 — Proposed; the rival declared here and the accounts named in prose -->
+<!-- inactive-ok-file: LIT-684 LIT-688 LIT-686 — Unavailable, unread; Fischer's and Wolf's primary texts and Frankfurt's 1982 essay, named as what would move this -->
 
 # THEORY-119: An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false
 

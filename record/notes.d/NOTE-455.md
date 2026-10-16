@@ -28,10 +28,10 @@ summary: >-
   a given".
 ---
 <!-- inactive-ok-file: THEORY-065 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-597 — Deferred; Self-Constitution, the book this chapter summarises -->
-<!-- inactive-ok-file: LIT-590 — Deferred; Structures of Agency, the Bratman essays the chapter cites -->
-<!-- inactive-ok-file: LIT-477 — Deferred; Gilbert, named as a related holding -->
-<!-- inactive-ok-file: LIT-593 — Deferred; Bratman 1987, as cited by the chapter -->
+<!-- inactive-ok-file: LIT-597 — Unavailable; Self-Constitution, the book this chapter summarises -->
+<!-- inactive-ok-file: LIT-590 — Unavailable; Structures of Agency, the Bratman essays the chapter cites -->
+<!-- inactive-ok-file: LIT-477 — Unavailable; Gilbert, named as a related holding -->
+<!-- inactive-ok-file: LIT-593 — Unavailable; Bratman 1987, as cited by the chapter -->
 <!-- inactive-ok-file: THEORY-029 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-040 — Proposed; named in Bearing on the record -->
 

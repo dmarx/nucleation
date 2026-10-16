@@ -30,7 +30,7 @@ summary: >-
   computed and what the cost function is.
 ---
 <!-- inactive-ok-file: THEORY-070 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-600 THEORY-029 THEORY-056 — Proposed theories and Deferred seeds, named as accounts this reading bears on; written from the lint report -->
+<!-- inactive-ok-file: LIT-600 THEORY-029 THEORY-056 — Proposed theories and Unavailable works, named as accounts this reading bears on; written from the lint report -->
 
 # NOTE-446: The Expected Value of Control: An Integrative Theory of Anterior Cingulate Cortex Function
 

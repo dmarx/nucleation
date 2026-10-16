@@ -38,7 +38,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading is its source and bears on it without settling its promote_when -->
 <!-- inactive-ok-file: THEORY-166 — Proposed; this reading is one of its sources -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing that rests on this reading, cited as open -->
-<!-- inactive-ok-file: LIT-263 — Deferred: filed and skimmed on 2026-09-27 while bringing the contextuality threads together -->
 
 # NOTE-235: Dzhafarov, Zhang & Kujala, contextuality in behaviour
 

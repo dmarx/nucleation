@@ -36,7 +36,7 @@ summary: >-
   assertion, with several errors.
 ---
 
-<!-- inactive-ok-file: LIT-215 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-215 — Rejected: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-096: Karpenko — Defending informational structural realism
 

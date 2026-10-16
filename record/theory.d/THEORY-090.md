@@ -54,7 +54,7 @@ answers:
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, named in prose, and this account's subcortical clause leans on its sources rather than on its status -->
 <!-- inactive-ok-file: THEORY-101 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; the avian account, named for its bearing on ALARM's cortical clause, which this account leaves out -->
-<!-- inactive-ok-file: LIT-387 — Deferred; Damasio & Damasio, named as an unread statement of the same affect-first origin, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Unavailable; Damasio & Damasio, named as an unread statement of the same affect-first origin, not leaned on -->
 
 # THEORY-090: A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options
 

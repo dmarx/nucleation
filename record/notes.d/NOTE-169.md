@@ -46,6 +46,8 @@ summary: >-
   "my case is not watertight" (§5.8).
 ---
 
+<!-- inactive-ok-file: THEORY-023 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-169: Seth — Conscious AI and biological naturalism
 
 ## Contribution
@@ -129,6 +131,8 @@ The paper gathers the case against conscious AI on current trajectories into one
 ## Bearing on the record
 
 No THEORY document in nucleation addresses this yet. The reading supports writing one on "conscious AI as a conjunction of computational functionalism and substrate flexibility", with [LIT-111](../literature.d/LIT-111.md) as its counterweight on testability. For ML practice there is no training instruction. §6.1's advice to steer development away from consciousness-associated functions, and §6.2's advice to restrict conscious-seeming systems to "well-justified use cases", are governance positions, not ML practice for the Anthology of the SOTA. The §3.4 remark that mortal computation trades software immortality for energy efficiency touches hardware research, but the paper makes no engineering claim.
+
+*Note of 2026-10-16:* [THEORY-023](../theory.d/THEORY-023.md) now cites [LIT-135](../literature.d/LIT-135.md) as a source.
 
 ## Limitations
 

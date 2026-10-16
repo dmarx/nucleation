@@ -76,7 +76,7 @@ supports:
 <!-- inactive-ok-file: THEORY-120 — Proposed; the hierarchical account this one argues against, declared its rival -->
 <!-- inactive-ok-file: THEORY-056 THEORY-040 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
 <!-- inactive-ok-file: THEORY-054 — Proposed; the SDT account named in Connections, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-575 LIT-596 — Deferred; Frankfurt's 1987/88 essay and Bratman's "Three Theories", named as the unread replies that would move this, not leaned on -->
+<!-- inactive-ok-file: LIT-575 LIT-596 — Unavailable; Frankfurt's 1987/88 essay and Bratman's "Three Theories", named as the unread replies that would move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-076 THEORY-065 THEORY-075 — Proposed; Bratman's and Korsgaard's accounts, named in Connections as candidate stopping points, nothing here rests on them -->
 
 # THEORY-029: A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain

@@ -30,7 +30,7 @@ summary: >-
   with one introspective premise.
 ---
 <!-- inactive-ok-file: THEORY-043 THEORY-023 — Proposed; this entry says how the work bears on those accounts, and does not lean on them -->
-<!-- inactive-ok-file: LIT-443 LIT-441 — Deferred: no readable full text; named as the source of a passage the paper quotes, not leaned on -->
+<!-- inactive-ok-file: LIT-443 LIT-441 — Unavailable: no readable full text; named as the source of a passage the paper quotes, not leaned on -->
 
 # NOTE-346: Dennett — Facing Backwards on the Problem of Consciousness
 

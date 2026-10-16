@@ -28,7 +28,6 @@ summary: >-
   makes every memory irretrievable unless old ones are forgotten.
 ---
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 CLAIM-182 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
-<!-- inactive-ok-file: LIT-928 — Deferred, unread; Kanerva's book, named for the critical distance, not leaned on -->
 
 # NOTE-819: Hopfield — Neural networks and physical systems with emergent collective computational abilities
 

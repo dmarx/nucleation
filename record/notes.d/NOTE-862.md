@@ -32,7 +32,6 @@ summary: >-
   their constitutive luck.
 ---
 <!-- inactive-ok-file: LIT-1006 — Unavailable; Pereboom's book, read only in part -->
-<!-- inactive-ok-file: NOTE-823 — Skimmed; the partial reading of LIT-1006 -->
 <!-- inactive-ok-file: THEORY-040 THEORY-119 THEORY-316 THEORY-328 — Proposed; the accounts this reading bears on, and the account filed from it -->
 
 # NOTE-862: Caruso — Skepticism About Moral Responsibility (SEP)

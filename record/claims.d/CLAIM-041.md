@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpbwst7
 title: 'Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    THEORY-tmpi5odg added to the grounds beside LIT-312. It states what
+    A24 relied on: Aerts and Gabora's model uses projectors diagonal in
+    one basis, so its fits establish nothing beyond classical probability.
+    The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -21,6 +29,7 @@ grounds:
 - THEORY-013
 - CASE-001
 - LIT-312
+- THEORY-tmpi5odg
 - THEORY-166
 - THEORY-010
 objects_to:
@@ -39,10 +48,9 @@ illustrated_by:
 - CASE-017
 ---
 <!-- inactive-ok-file: THEORY-166 — Proposed; the QQ equality, cited as the quantum-cognition evidence that bears on this claim, not as settled -->
-<!-- inactive-ok-file: ARG-002 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: LIT-316 — Deferred; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
+<!-- inactive-ok-file: LIT-316 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->
 
 # CLAIM-041: Context-sensitive interpretation, order effects and noncommuting framing operations do not by themselves establish nonclassical probability or quantum contextuality
 

@@ -44,6 +44,8 @@ summary: >-
   plays action 0 with probability 1/√2.
 ---
 
+<!-- inactive-ok-file: THEORY-026 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-032: Work capacity of channels with memory
 
 ## Contribution
@@ -179,6 +181,8 @@ This is a theory paper, with the proofs given in the supplement.
   - It fits information-theory (primary) with agency and natural-sciences. The existing [LIT-041](../literature.d/LIT-041.md) tags are right.
   - No THEORY document here is contradicted.
   - If the record ever carries a THEORY claim of the form "prediction is the organizing principle of adaptive agents", this paper is the counter-source. It shows that, for thermodynamic efficiency, maximal prediction can be strictly suboptimal once actions affect percepts.
+
+*Note of 2026-10-16:* [THEORY-026](../theory.d/THEORY-026.md) now cites [LIT-041](../literature.d/LIT-041.md) as a source.
 
 ## Limitations
 

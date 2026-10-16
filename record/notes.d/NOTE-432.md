@@ -34,8 +34,8 @@ summary: >-
   findings; it reports no data of its own.
 ---
 <!-- inactive-ok-file: THEORY-058 THEORY-048 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
-<!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, compared through its abstract and this paper's citation of it -->
-<!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only because this paper cites it -->
+<!-- inactive-ok-file: LIT-552 — Unavailable, no lawful full text; Kendler 2005, compared through its abstract and this paper's citation of it -->
+<!-- inactive-ok-file: LIT-548 — Unavailable, no lawful full text; Engel 1977, named only because this paper cites it -->
 
 # NOTE-432: Explanatory Models for Psychiatric Illness
 

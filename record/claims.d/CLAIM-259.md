@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the reading of Blackwell's theorem the derivation uses, not as settled -->
 <!-- inactive-ok-file: CLAIM-212 — Proposed; the report/re-performance distinction, cited as open -->
 <!-- inactive-ok-file: CLAIM-258 — Proposed; open, cited for its worked case -->
-<!-- inactive-ok-file: LIT-778 — Deferred; Torgersen, unread here, named for the constants and not leaned on -->
+<!-- inactive-ok-file: LIT-778 — Unavailable; Torgersen, unread here, named for the constants and not leaned on -->
 
 # CLAIM-259: The decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order
 

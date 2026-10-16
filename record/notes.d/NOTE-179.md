@@ -10,9 +10,9 @@ date: '2026-09-26'
 summary: >-
   Boghossian's objection to substantive, entitlement-based theories of meaning (drawn from pejoratives like "Boche") works against Dummett but not against Brandom. Brandom's material inferences are non-monotonic and ceteris paribus, so one can grasp a concept while refusing to endorse the inferences it licenses.
 ---
-<!-- inactive-ok-file: LIT-208 — Deferred: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-208 — Proposed since its reading in NOTE-158: a seed from the same 2026-09-26 philosophy sweep, cross-referenced by the citing work's dossier -->
 
-<!-- inactive-ok-file: LIT-106 — Deferred: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-106 — Unavailable: this is the seeded skim of the paper, filed with it on 2026-09-26; the directive lapses when its status changes -->
 
 # NOTE-179: Brandom, inferentialism and meaning entitlement
 

@@ -34,7 +34,7 @@ summary: >-
   m² should be.
 ---
 
-<!-- inactive-ok-file: LIT-001 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-001 — Rejected: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-003: QM as stochastic optimization on spacetimes
 

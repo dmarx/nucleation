@@ -36,8 +36,8 @@ summary: >-
 answers:
 - QUESTION-068
 ---
-<!-- inactive-ok-file: LIT-685 LIT-684 — Deferred, unread; Wolf's book and Fischer and Ravizza's book, named as unread, nothing is quoted from them -->
-<!-- inactive-ok-file: THEORY-122 THEORY-118 THEORY-121 — Proposed; Wolf's Reason View, her asymmetry and Fischer and Ravizza's account, named for how this account bears on them -->
+<!-- inactive-ok-file: LIT-685 LIT-684 — Unavailable, unread; Wolf's book and Fischer and Ravizza's book, named as unread, nothing is quoted from them -->
+<!-- inactive-ok-file: THEORY-122 THEORY-118 — Proposed; Wolf's Reason View, her asymmetry and Fischer and Ravizza's account, named for how this account bears on them -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit on corporate responsibility, named for the essay's use -->
 
 # THEORY-147: Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do

@@ -27,7 +27,7 @@ summary: >-
   are the occupiers, and two groups are identical at a time only with the
   same members in the same relations. A sketch of a view, silent on agency.
 ---
-<!-- inactive-ok-file: LIT-391 — Deferred, paywalled; List & Pettit's Group Agency, named for its "over and above" claim, which this paper bears on but does not discuss -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, paywalled; List & Pettit's Group Agency, named for its "over and above" claim, which this paper bears on but does not discuss -->
 <!-- inactive-ok-file: LIT-188 — Proposed; Griesemer & Shavit, named as a neighbour that also makes structure what a group is, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this paper does not move it -->
 

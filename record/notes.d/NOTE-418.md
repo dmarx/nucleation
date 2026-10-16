@@ -31,8 +31,8 @@ summary: >-
   patterns are transients or need pumping. No global minimization
   principle exists beyond a perturbative one near threshold.
 ---
-<!-- inactive-ok-file: LIT-537 — Deferred, no lawful full text; Glansdorff & Prigogine, cited for the sentence this review quotes from it -->
-<!-- inactive-ok-file: LIT-524 — Deferred, no lawful full text; Nicolis & Prigogine, cited as the review's source for the name "dissipative structures" -->
+<!-- inactive-ok-file: LIT-537 — Unavailable, no lawful full text; Glansdorff & Prigogine, cited for the sentence this review quotes from it -->
+<!-- inactive-ok-file: LIT-524 — Unavailable, no lawful full text; Nicolis & Prigogine, cited as the review's source for the name "dissipative structures" -->
 
 # NOTE-418: Pattern formation outside of equilibrium
 

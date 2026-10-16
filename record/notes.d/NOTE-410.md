@@ -32,6 +32,8 @@ summary: >-
   or misinterpretation.
 ---
 
+<!-- inactive-ok-file: THEORY-tmpwdh1f — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-410: The Genetical Evolution of Social Behaviour. II
 
 ## Contribution
@@ -102,6 +104,8 @@ to strangers.
 - **MAC's kin and group domains.** §4 supplies a reason for preferential treatment of those recognized as one's own and hostility to strangers. That fits morality-as-cooperation's family and in-group loyalty domains; but Hamilton's mechanism is relatedness, whereas MAC's group domain (coordination, mutualism) rests on shared payoffs among non-kin, which this paper treats only in the *Lasius* co-founding case.
 - **Contests.** §6 bears on restraint in fighting, not on display or deference. It gives MAC's hawk and dove domains nothing directly.
 - **No THEORY is indicated.** No instruction for ML practice.
+
+*Note of 2026-10-16:* [THEORY-tmpwdh1f](../theory.d/THEORY-tmpwdh1f.md) now cites [LIT-506](../literature.d/LIT-506.md) as a source.
 
 ## Limitations
 

@@ -32,6 +32,8 @@ summary: >-
   *product*.
 ---
 
+<!-- inactive-ok-file: THEORY-tmpqeezl — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-137: Hazelwood — Emerging dilemma for reciprocal causation
 
 ## Contribution
@@ -96,6 +98,8 @@ This is the other side of the reciprocal-causation debate the record holds throu
 - No THEORY and nothing for ML practice. The paper is about evolutionary theory. Its composition-versus-causation criterion is, however, the right check on any claim in either record that a macro-level variable "causes" its own micro-constituents' behaviour. Examples are "emergent" capabilities said to cause behaviour, or causal-emergence measures read as causal power.
 - [LIT-110](../literature.d/LIT-110.md)'s standing note and NOTE-137's "read the two together" should be corrected: Hazelwood's target is Laland et al., and [LIT-110](../literature.d/LIT-110.md) is cited only in passing.
 - Pairs naturally with [LIT-150](../literature.d/LIT-150.md) and [LIT-141](../literature.d/LIT-141.md) as the philosopher's constraint on the physicists' "downward causation without extra causes".
+
+*Note of 2026-10-16:* [THEORY-tmpqeezl](../theory.d/THEORY-tmpqeezl.md) now cites [LIT-156](../literature.d/LIT-156.md) as a source.
 
 ## Limitations
 

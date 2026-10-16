@@ -42,7 +42,7 @@ summary: >-
   comparison is a conjecture that the authors say needs further empirical
   work.
 ---
-<!-- inactive-ok-file: LIT-212 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-212 — Rejected since its reading in NOTE-176: a related work named by a 2026-09-26 close reading on the agency tag -->
 
 # NOTE-138: Goldstein & Lederman — What Does ChatGPT Want?
 

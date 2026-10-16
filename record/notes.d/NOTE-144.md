@@ -33,7 +33,8 @@ summary: >-
   whether received consent is effective is "ubiquitous and quotidian" (p.
   10).
 ---
-<!-- inactive-ok-file: LIT-117 — Deferred: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-117 — Unavailable: a related work named by a 2026-09-26 close reading on the agency tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: THEORY-040 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-144: Consent and the formation of preferences
 
@@ -103,6 +104,8 @@ It builds on Enoch's 2020 "False Consciousness for Liberals, Part I" (Philosophi
 It supports no THEORY document in this record and contradicts none. It is the natural home for a future theory note on the autonomy of shaped preferences.
 
 For ML practice it carries no instruction. It has conceptual relevance for anyone reasoning about whether preferences induced by recommender systems or persuasive AI can ground meaningful consent. On its criterion, systems that curate *exposure* (Attention) would be less damaging to consent than systems that manipulate the *evidence* a user sees (Beliefs) or exploit *default ordering* (Choice, via "first is best"). But the paper says nothing about machines, and that application would be an extrapolation. Nothing belongs in the Anthology.
+
+*Note of 2026-10-16:* [THEORY-040](../theory.d/THEORY-040.md) now cites [LIT-202](../literature.d/LIT-202.md) as a source.
 
 ## Limitations
 

@@ -26,7 +26,7 @@ summary: >-
   intuition and are not turned on Copycat. Its sharpest point is that the
   symbol-grounding charge against SME applies to Copycat too.
 ---
-<!-- inactive-ok-file: LIT-428 — Deferred, no lawful full text; the book this review is of, cited for what the review says about it, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-428 — Unavailable, no lawful full text; the book this review is of, cited for what the review says about it, not leaned on for its content -->
 
 # NOTE-375: Burns — Fluid Concepts and Creative Analogies: A Review
 

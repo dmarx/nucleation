@@ -25,7 +25,7 @@ used_by:
 - CLAIM-164
 - CLAIM-174
 ---
-<!-- inactive-ok-file: CLAIM-154 CLAIM-164 CLAIM-157 CLAIM-153 CLAIM-161 CLAIM-158 — claims whose symbols this term fixes, cited for their notation -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-161 CLAIM-158 — claims whose symbols this term fixes, cited for their notation -->
 
 # TERM-046: notation for the threshold, drive and unity criteria
 

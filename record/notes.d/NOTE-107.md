@@ -32,7 +32,7 @@ summary: >-
   chaotic and quantum physics; primary vs secondary causation; chance and
   providence).
 ---
-<!-- inactive-ok-file: LIT-129 — Deferred: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
+<!-- inactive-ok-file: LIT-129 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
 
 # NOTE-107: Religion and Science (SEP)
 
@@ -98,6 +98,8 @@ The metaphysical theses the entry *reports* rather than defends are ontological 
 ## Bearing on the record
 
 It carries nothing for ML practice, and saying so is the answer. There is no instruction for the Anthology of the SOTA and no THEORY document here to support or contradict. Its main use to this record is as a reference map for the naturalism and divine-action literature if the record takes that up. It is also a data point that the topic vocabulary cannot yet say "religion".
+
+*Note of 2026-10-16:* the vocabulary can now say it. [ADR-007](../decisions.d/ADR-007.md) added the `religion` topic, and [LIT-194](../literature.d/LIT-194.md) is tagged with it first.
 
 ## Limitations
 

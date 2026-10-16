@@ -22,7 +22,7 @@ summary: >-
   self-chosen sanctions sustain cooperation, and in the field local
   monitoring predicts outcomes. No single regime type is a panacea.
 ---
-<!-- inactive-ok-file: LIT-737 — Deferred, unread; Governing the Commons, named as the book whose principles the lecture updates -->
+<!-- inactive-ok-file: LIT-737 — Unavailable, unread; Governing the Commons, named as the book whose principles the lecture updates -->
 
 # NOTE-563: Beyond Markets and States: Polycentric Governance of Complex Economic Systems
 

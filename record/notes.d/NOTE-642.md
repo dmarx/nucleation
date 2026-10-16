@@ -54,7 +54,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-167 — Proposed; the record's theory from the Russian reading, compared here -->
-<!-- inactive-ok-file: LIT-775 — Deferred; named as Dundes names Lévi-Strauss, not leaned on -->
+<!-- inactive-ok-file: LIT-775 — Unavailable; named as Dundes names Lévi-Strauss, not leaned on -->
 
 # NOTE-642: Morphology of the Folktale
 

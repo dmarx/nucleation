@@ -34,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-133 — Rejected on its 2026-09-26 close reading: cited as a related or contrasting view, not as a result -->
 
-<!-- inactive-ok-file: LIT-102 — Deferred: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-102 — Rejected: the paper is placed by this reading; the directive lapses when its status changes; the directive lapses when its status changes -->
 
 # NOTE-182: Arsiwalla et al. — Pregeometry and formal language
 

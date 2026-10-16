@@ -29,6 +29,8 @@ summary: >-
   (Figs. 6–7).
 ---
 
+<!-- inactive-ok-file: THEORY-080 THEORY-084 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
+
 # NOTE-481: The Convergence Rate of Neural Networks for Learned Functions of Different Frequencies
 
 ## Contribution
@@ -159,6 +161,8 @@ parallel. What follows is my reading, not the paper's.
 - **No THEORY is filed.** A candidate is in the report to the owner.
 - **ML practice.** The early-stopping remark is an interpretation (C6), not
   an instruction; `anthology-candidate` is for subject.
+
+*Note of 2026-10-16:* [THEORY-080](../theory.d/THEORY-080.md), [THEORY-084](../theory.d/THEORY-084.md) and [THEORY-086](../theory.d/THEORY-086.md) now cite [LIT-612](../literature.d/LIT-612.md) as a source.
 
 ## Limitations
 

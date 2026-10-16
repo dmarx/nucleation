@@ -35,7 +35,7 @@ summary: >-
   relation but tests it against no averaging null.
 ---
 
-<!-- inactive-ok-file: LIT-057 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-057 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 # NOTE-061: Saeedian et al. 2021, delay in generalized Lotka–Volterra
 

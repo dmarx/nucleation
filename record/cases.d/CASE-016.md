@@ -18,7 +18,7 @@ summary: >-
   while a prerogative order held authority over whether they bound at all.
   Used for one structural point only.
 ---
-<!-- inactive-ok-file: LIT-805 — Deferred; set aside, and cited to say what was set aside with it -->
+<!-- inactive-ok-file: LIT-805 — Unavailable; set aside, and cited to say what was set aside with it -->
 
 # CASE-016: The Dual State: normative and prerogative authority in National Socialist Germany
 

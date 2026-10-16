@@ -55,7 +55,6 @@ complements:
 - CLAIM-298
 - CLAIM-063
 ---
-<!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-117: Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations
 

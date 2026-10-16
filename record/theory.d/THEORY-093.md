@@ -63,7 +63,7 @@ answers:
 <!-- inactive-ok-file: THEORY-045 — Proposed; the account this one extends, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-090 THEORY-101 THEORY-064 THEORY-023 — Proposed; named in prose for their bearing, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-387 — Deferred; the Damasios' parallel statement, unread, named as what could move this, not leaned on -->
+<!-- inactive-ok-file: LIT-387 — Unavailable; the Damasios' parallel statement, unread, named as what could move this, not leaned on -->
 <!-- inactive-ok-file: NOTE-507 — Skimmed; this account's own reading of its first source, cited for what was covered and how -->
 
 # THEORY-093: A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it

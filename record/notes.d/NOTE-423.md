@@ -33,8 +33,8 @@ summary: >-
   sediment ecology, and life is argued to push the planet toward MEP. The
   author concedes MEP is not established.
 ---
-<!-- inactive-ok-file: LIT-520 — Deferred, no lawful full text; named as the survey the review defers to, not leaned on -->
-<!-- inactive-ok-file: LIT-532 — Deferred, no lawful full text; Landauer 1975, named as the objection this reading could not check, not leaned on -->
+<!-- inactive-ok-file: LIT-520 — Unavailable, no lawful full text; named as the survey the review defers to, not leaned on -->
+<!-- inactive-ok-file: LIT-532 — Unavailable, no lawful full text; Landauer 1975, named as the objection this reading could not check, not leaned on -->
 
 # NOTE-423: Nonequilibrium thermodynamics and maximum entropy production in the Earth system
 

@@ -51,7 +51,7 @@ summary: >-
 answers:
 - QUESTION-009
 ---
-<!-- inactive-ok-file: LIT-597 LIT-477 — Deferred; Self-Constitution and Gilbert, named as the unread works that would move this, not leaned on -->
+<!-- inactive-ok-file: LIT-597 LIT-477 — Unavailable; Self-Constitution and Gilbert, named as the unread works that would move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-040 THEORY-043 THEORY-076 THEORY-075 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
 # THEORY-065: The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones

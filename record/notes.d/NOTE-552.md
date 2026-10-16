@@ -28,13 +28,13 @@ summary: >-
   lack evidence.
 ---
 
-<!-- inactive-ok-file: LIT-477 — Deferred, unread; Gilbert's "Walking Together", cited by the paper, named and not leaned on -->
-<!-- inactive-ok-file: LIT-471 — Deferred, unread; Bratman 1992, named as the record's nearest holding to the Bratman paper cited -->
-<!-- inactive-ok-file: LIT-426 — Deferred, unread; Huebner's Macrocognition, named as a neighbour, not the work the paper cites -->
-<!-- inactive-ok-file: LIT-550 — Deferred, unread; Lazarus, named as the appraisal theory the paper builds from -->
+<!-- inactive-ok-file: LIT-477 — Unavailable, unread; Gilbert's "Walking Together", cited by the paper, named and not leaned on -->
+<!-- inactive-ok-file: LIT-471 — Unavailable, unread; Bratman 1992, named as the record's nearest holding to the Bratman paper cited -->
+<!-- inactive-ok-file: LIT-426 — Unavailable, unread; Huebner's Macrocognition, named as a neighbour, not the work the paper cites -->
+<!-- inactive-ok-file: LIT-550 — Unavailable, unread; Lazarus, named as the appraisal theory the paper builds from -->
 <!-- inactive-ok-file: THEORY-055 — Proposed; the record's appraisal account, named because the paper presupposes one -->
 <!-- inactive-ok-file: THEORY-057 — Proposed; Barrett's population view, named as the rival explanation of convergence -->
-<!-- inactive-ok-file: LIT-699 — Deferred, no lawful full text; Sanchez-Burks & Huy, named as the perceiver-side complement -->
+<!-- inactive-ok-file: LIT-699 — Unavailable, no lawful full text; Sanchez-Burks & Huy, named as the perceiver-side complement -->
 
 # NOTE-552: Towards a Theory of Collective Emotions
 

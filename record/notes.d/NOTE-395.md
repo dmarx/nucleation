@@ -33,13 +33,13 @@ summary: >-
   normativity needs no constitutive rules, because a right is a bundle of
   other people's regulative obligations.
 ---
-<!-- inactive-ok-file: LIT-473 — Deferred, no lawful full text; Lewis's Convention, named as the account this paper extends, as the paper states it -->
-<!-- inactive-ok-file: LIT-493 — Deferred, no lawful full text; Bicchieri, named because the reply cites her for normativity from expectations, not leaned on -->
-<!-- inactive-ok-file: LIT-472 — Deferred, no lawful full text; Guala's book, named as this paper's book-length successor -->
-<!-- inactive-ok-file: LIT-478 — Deferred, only its introduction is lawfully readable; named as a rival account, as its author's précis and SEP entry state it -->
-<!-- inactive-ok-file: LIT-485 — Deferred; Searle's Construction of Social Reality, named as the paper's target -->
+<!-- inactive-ok-file: LIT-473 — Unavailable, no lawful full text; Lewis's Convention, named as the account this paper extends, as the paper states it -->
+<!-- inactive-ok-file: LIT-493 — Unavailable, no lawful full text; Bicchieri, named because the reply cites her for normativity from expectations, not leaned on -->
+<!-- inactive-ok-file: LIT-472 — Unavailable, no lawful full text; Guala's book, named as this paper's book-length successor -->
+<!-- inactive-ok-file: LIT-478 — Unavailable, only its introduction is lawfully readable; named as a rival account, as its author's précis and SEP entry state it -->
+<!-- inactive-ok-file: LIT-485 — Unavailable; Searle's Construction of Social Reality, named as the paper's target -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; this reading says how the paper bears on that account, and does not lean on it -->
-<!-- inactive-ok-file: LIT-391 — Deferred, no lawful full text; List & Pettit, named as the group-agency account this paper stays neutral about -->
+<!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; List & Pettit, named as the group-agency account this paper stays neutral about -->
 
 # NOTE-395: Hindriks & Guala — Institutions, rules, and equilibria
 

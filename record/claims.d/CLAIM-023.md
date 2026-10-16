@@ -29,7 +29,7 @@ supports:
 - CLAIM-202
 ---
 <!-- inactive-ok-file: CLAIM-095 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: LIT-784 — Deferred; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
+<!-- inactive-ok-file: LIT-784 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 
 # CLAIM-023: The contribution is not that translation is pragmatic or that speech acts change contexts, but a specified, testable account of which communicative distinctions a translation preserves
 

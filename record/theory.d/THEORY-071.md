@@ -22,7 +22,14 @@ promote_when: >-
   which is a different and thinner notion; or the bare assertion that
   some designed system is, or is not, an agent.
 title: 'Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Levin's account is now filed as THEORY-tmpmblxg and set as a rival:
+    it makes any homeostat an agent, which this account denies. The Levin
+    bullet in Connections names it.
 tags:
 - agency
 - individuation
@@ -49,6 +56,7 @@ summary: >-
   asymmetry criterion its authors call incomplete.
 rivals:
 - THEORY-208
+- THEORY-tmpmblxg
 answers:
 - QUESTION-032
 supports:
@@ -56,8 +64,9 @@ supports:
 - CLAIM-284
 - CLAIM-288
 ---
+<!-- inactive-ok-file: THEORY-tmpmblxg — Proposed; Levin's account, a rival, named for the case on which the two disagree -->
 <!-- inactive-ok-file: THEORY-072 THEORY-073 THEORY-043 THEORY-029 THEORY-054 THEORY-047 THEORY-056 — Proposed; the bearing of this account on them is stated, nothing here rests on them -->
-<!-- inactive-ok-file: LIT-536 — Deferred, no lawful full text; Biological Autonomy is named for its chapter on agency, not leaned on -->
+<!-- inactive-ok-file: LIT-536 — Unavailable, no lawful full text; Biological Autonomy is named for its chapter on agency, not leaned on -->
 
 # THEORY-071: Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency
 
@@ -187,7 +196,8 @@ constraints on the system."
   Levin individuates by the goal, and this account needs the individual
   first. [ADR-024](../decisions.d/ADR-024.md) already reads Levin's Selves as agents and individuals.
   This account says that on the organisational reading, many of them
-  would be neither.
+  would be neither. Levin's account is stated in [THEORY-tmpmblxg](THEORY-tmpmblxg.md), a rival:
+  the two cannot both be right about the homeostat.
 - **Participatory sense-making ([LIT-571](../literature.d/LIT-571.md)).** The same group extends
   "sense-making", a deviation from a self-generated norm becoming
   significant, to social interaction. It requires that the participants

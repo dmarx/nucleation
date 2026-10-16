@@ -43,6 +43,8 @@ summary: >-
   across the board.
 ---
 
+<!-- inactive-ok-file: THEORY-025 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+
 # NOTE-256: Capabilities as Fundamental Entitlements: Sen and Social Justice
 
 ## Contribution
@@ -194,6 +196,8 @@ What the paper argues, in order.
 - **Page references.** They are to the preprint. A THEORY citing specific pages should say so, or re-locate them in the version of record.
 - **No THEORY document** on capabilities exists in the record yet (per the scoping report). None is contradicted.
 - **ML practice.** It carries no instruction for ML practice. The list-versus-open-space debate is sometimes invoked in AI-alignment writing on "whose values", but nothing in this paper addresses that, and I note it only as a possible later link.
+
+*Note of 2026-10-16:* [THEORY-025](../theory.d/THEORY-025.md) now cites [LIT-288](../literature.d/LIT-288.md) as a source.
 
 ## Limitations
 

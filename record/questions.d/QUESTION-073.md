@@ -24,6 +24,7 @@ summary: >-
   change with the parties' standing or uptake.
 answered_by:
 - CLAIM-255
+- THEORY-tmpegbpd
 ---
 <!-- inactive-ok-file: LIT-1041 LIT-1040 — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-221 CLAIM-224 — Proposed; the objections that raise this question, open -->

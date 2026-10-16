@@ -31,8 +31,8 @@ summary: >-
 <!-- inactive-ok-file: THEORY-060 — Proposed; named as the THEORY filed for this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-044 — Proposed; named in Bearing on the record -->
 <!-- inactive-ok-file: THEORY-051 — Proposed; named in Bearing on the record -->
-<!-- inactive-ok-file: LIT-572 — Deferred, no lawful full text; the 2013 review this essay builds on -->
-<!-- inactive-ok-file: LIT-468 — Deferred; Schechtman, as cited by McAdams -->
+<!-- inactive-ok-file: LIT-572 — Unavailable, no lawful full text; the 2013 review this essay builds on -->
+<!-- inactive-ok-file: LIT-468 — Unavailable; Schechtman, as cited by McAdams -->
 
 # NOTE-470: “First we invented stories, then they changed us”: The Evolution of Narrative Identity
 

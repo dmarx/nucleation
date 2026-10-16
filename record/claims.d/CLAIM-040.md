@@ -24,7 +24,6 @@ summary: >-
 supports:
 - CLAIM-113
 ---
-<!-- inactive-ok-file: CLAIM-015 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-107 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-040: Symmetry is a kind of invariance, and Noether's theorem is the point: invariance under transformation yields conservation

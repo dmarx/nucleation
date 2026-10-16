@@ -32,8 +32,8 @@ summary: >-
   presented as an organizing framework, not a fitted model.
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed or Deferred; named as the theory or work this one bears on, from the lint report of 2026-10-03 -->
-<!-- inactive-ok-file: LIT-552 — Deferred, no lawful full text; Kendler 2005, named only as the pluralism Borsboom's premise belongs to -->
-<!-- inactive-ok-file: LIT-548 — Deferred, no lawful full text; Engel 1977, named only as the medical-model critique this paper does not cite -->
+<!-- inactive-ok-file: LIT-552 — Unavailable, no lawful full text; Kendler 2005, named only as the pluralism Borsboom's premise belongs to -->
+<!-- inactive-ok-file: LIT-548 — Unavailable, no lawful full text; Engel 1977, named only as the medical-model critique this paper does not cite -->
 
 # NOTE-435: A Network Theory of Mental Disorders
 

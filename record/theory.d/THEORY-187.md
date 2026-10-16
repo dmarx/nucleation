@@ -31,7 +31,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-211 LIT-1012 — Proposed; readings on balance filed on 2026-10-13, open -->
+<!-- inactive-ok-file: THEORY-211 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->
 
 # THEORY-187: In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth

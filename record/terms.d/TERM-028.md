@@ -24,7 +24,6 @@ used_by:
 - CLAIM-235
 - CLAIM-259
 ---
-<!-- inactive-ok-file: CLAIM-026 — Superseded; replaced, and cited as the history this entry answers or replaces -->
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-028: fidelity, as inferential sufficiency

@@ -31,7 +31,7 @@ summary: >-
   which binding, presupposition projection and, with accommodation,
   narrow-scope definites follow.
 ---
-<!-- inactive-ok-file: LIT-811 — Deferred, no lawful full text; Stalnaker's "Assertion", quoted at length in this work -->
+<!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", quoted at length in this work -->
 <!-- inactive-ok-file: THEORY-162 — Proposed; filed from this reading -->
 <!-- inactive-ok-file: CLAIM-061 CLAIM-054 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

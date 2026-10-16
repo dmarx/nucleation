@@ -26,7 +26,7 @@ summary: >-
   applied back to human selves. Examples are invented usages, not data.
 ---
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account this reading bears on, not leaned on -->
-<!-- inactive-ok-file: LIT-416 — Deferred; named as the unread paper this reading bears on, not leaned on -->
+<!-- inactive-ok-file: LIT-416 — Unavailable; named as the unread paper this reading bears on, not leaned on -->
 
 # NOTE-376: Shanahan — Palatable Conceptions of Disembodied Being
 

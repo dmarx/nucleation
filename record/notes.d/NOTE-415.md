@@ -35,8 +35,9 @@ summary: >-
   satellite correlations, one of whose tables is internally inconsistent.
 ---
 
-<!-- inactive-ok-file: LIT-530 — Deferred: Schrödinger is unread; named because this paper presents itself as taking up his task, not leaned on -->
+<!-- inactive-ok-file: LIT-530 — Unavailable: Schrödinger is unread; named because this paper presents itself as taking up his task, not leaned on -->
 <!-- inactive-ok-file: THEORY-026 THEORY-030 — Proposed; named only to say they do not overlap this paper -->
+<!-- inactive-ok-file: THEORY-tmph2xbv — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-415: Life as a manifestation of the second law of thermodynamics
 
@@ -167,6 +168,8 @@ bottle.
 - **No ML instruction.** Nothing here belongs in the anthology.
 - **No new THEORY is indicated.** C1 and C4 are programmatic and too weakly
   supported to source one.
+
+*Note of 2026-10-16:* [THEORY-tmph2xbv](../theory.d/THEORY-tmph2xbv.md) now cites [LIT-533](../literature.d/LIT-533.md) as a source.
 
 ## Limitations
 

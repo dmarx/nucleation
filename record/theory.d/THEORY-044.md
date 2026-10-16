@@ -69,7 +69,7 @@ summary: >-
 answers:
 - QUESTION-034
 ---
-<!-- inactive-ok-file: LIT-549 LIT-463 LIT-467 LIT-468 — Deferred; the RFT book, Zahavi, Being No One and Schechtman, named as unread works that bear on this, none leaned on -->
+<!-- inactive-ok-file: LIT-549 LIT-463 LIT-467 LIT-468 — Unavailable; the RFT book, Zahavi, Being No One and Schechtman, named as unread works that bear on this, none leaned on -->
 <!-- inactive-ok-file: THEORY-051 THEORY-050 THEORY-029 — Proposed; the clinical claim, the inflexibility account and the regress about the agent's standpoint, named as neighbours -->
 <!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account, named as the contrast, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-457 — Skimmed; the reading of the IFS book's first chapter, named for the IFS contrast beside the read essay -->

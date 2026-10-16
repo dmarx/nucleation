@@ -43,8 +43,8 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-088 — Proposed; filed in the same batch, named for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-063 — Proposed; named in Connections as an account of integration this one does not test, no relation claimed -->
-<!-- inactive-ok-file: LIT-385 — Deferred, unread; Damasio's convergence-zone proposal, named as the older idea the reinstatement result resembles, no relation claimed -->
-<!-- inactive-ok-file: LIT-647 — Deferred, unread; the traveling-wave review, named for contrast, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-385 — Unavailable, unread; Damasio's convergence-zone proposal, named as the older idea the reinstatement result resembles, no relation claimed -->
+<!-- inactive-ok-file: LIT-647 — Unavailable, unread; the traveling-wave review, named for contrast, nothing here rests on it -->
 
 # THEORY-097: Long-range coordination in the human forebrain is carried by brief ripples that co-occur at distant sites: during them neurons co-fire more whatever the distance between them, and at retrieval they carry stimulus-specific reinstatement of encoding co-firing
 

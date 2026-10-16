@@ -49,7 +49,7 @@ supports:
 - CLAIM-159
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-029 — Proposed; THEORY-056 is the account this one is weighed against, THEORY-029 is named to say this one does not bear on it -->
-<!-- inactive-ok-file: LIT-600 — Deferred, unread; Norman & Shallice named as the tradition EVC formalises, not leaned on -->
+<!-- inactive-ok-file: LIT-600 — Unavailable, unread; Norman & Shallice named as the tradition EVC formalises, not leaned on -->
 <!-- inactive-ok-file: THEORY-067 THEORY-062 THEORY-061 — new in this batch; accounts this one is set beside -->
 
 # THEORY-070: How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control

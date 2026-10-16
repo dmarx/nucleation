@@ -42,7 +42,7 @@ summary: >-
   substantially. Supervaluation then does the work.
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the record's answer whose duration clause this reading bears on, open -->
-<!-- inactive-ok-file: LIT-1020 — Deferred, unread; Unger's paper, the problem Lewis answers, not leaned on -->
+<!-- inactive-ok-file: LIT-1020 — Unavailable, unread; Unger's paper, the problem Lewis answers, not leaned on -->
 
 # NOTE-722: Lewis — Many, but almost one
 

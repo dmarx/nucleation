@@ -10,7 +10,7 @@ promote_when: >-
   contextuality. A CHSH-type violation computed without accounting for unequal
   marginals cannot settle it either way.
 title: 'Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -20,6 +20,12 @@ history:
     framing: Kujala et al.'s models are one noise model among four,
     Contextuality-by-Default is not named, and behavioural data are not
     discussed. The Deferred comments on LIT-263 and LIT-264 removed.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    A Connections section names the two language studies (LIT-842,
+    LIT-844), filed as THEORY-tmpr96be. Neither meets the promote_when.
+    The claim itself is unchanged.
 tags:
 - contextuality
 - cognition
@@ -53,3 +59,12 @@ Contextuality-by-Default gives each object a separate random variable in each co
 - That behavioural systems are never contextual; that is the authors' working hypothesis, and later Contextuality-by-Default work is reported to find behavioural contextuality (not held, not read).
 - That quantum-like models of cognition or retrieval (van Rijsbergen, [LIT-262](../literature.d/LIT-262.md)) are wrong; the paper says such a model predicts the absence of contextuality.
 - Anything about Kochen–Specker or Spekkens contextuality in physics.
+
+## Connections
+
+- The two tests of contextuality in language data the record has read
+  ([LIT-842](../literature.d/LIT-842.md), [LIT-844](../literature.d/LIT-844.md)) are filed as [THEORY-tmpr96be](THEORY-tmpr96be.md). Corpus meaning-selection
+  models are all signalling, their two Contextuality-by-Default verdicts
+  are not secured by the paper's own bootstrap, and the BERT anaphora
+  models have their support fixed by the schema. Neither is a robust
+  counterexample, and neither uses human judgements.

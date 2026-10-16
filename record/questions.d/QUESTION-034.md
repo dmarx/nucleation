@@ -28,13 +28,14 @@ answered_by:
 - CLAIM-198
 - THEORY-076
 - THEORY-044
+- THEORY-tmp16ugb
 refined_by:
 - QUESTION-078
 - QUESTION-090
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-156 CLAIM-162 CLAIM-163 CLAIM-169 — Proposed; the proposed answers and the open objection, cited as open -->
 <!-- inactive-ok-file: THEORY-043 THEORY-051 THEORY-056 THEORY-067 THEORY-076 — Proposed; the readings the question is posed from, with their standing as it is -->
-<!-- inactive-ok-file: LIT-591 LIT-906 LIT-910 LIT-912 LIT-914 LIT-916 — Deferred, unread; named as what the record holds and has not read -->
+<!-- inactive-ok-file: LIT-591 LIT-906 LIT-910 LIT-912 LIT-914 LIT-916 — Unavailable, unread; named as what the record holds and has not read -->
 
 # QUESTION-034: If an agent is a population of interests, what makes it act as one: bargaining among the interests, a change in which of them may act, or agreement among them?
 

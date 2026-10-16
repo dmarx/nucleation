@@ -34,7 +34,7 @@ summary: >-
   feed-forward zombie. Nothing larger than about a dozen elements is
   computable.
 ---
-<!-- inactive-ok-file: LIT-429 — Deferred, no lawful full text; named as the book whose agents fall under this paper's verdict, not leaned on for its content -->
+<!-- inactive-ok-file: LIT-429 — Unavailable, no lawful full text; named as the book whose agents fall under this paper's verdict, not leaned on for its content -->
 
 # NOTE-365: Integrated Information Theory 3.0
 

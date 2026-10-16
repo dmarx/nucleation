@@ -37,7 +37,7 @@ summary: >-
   and Kerr's fifth stage. Nothing is computed on any model.
 ---
 
-<!-- inactive-ok-file: LIT-049 — Deferred: the paper is placed by this reading; the directive lapses when its status changes -->
+<!-- inactive-ok-file: LIT-049 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
 
 <!-- inactive-ok-file: LIT-005 — Proposed; this reading is of the paper LIT-005 cites, read against it -->
 
