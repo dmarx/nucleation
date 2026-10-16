@@ -13,3 +13,10 @@
   interpretation it tests, after [CLAIM-330](record/claims.d/CLAIM-330.md) and [CLAIM-141](record/claims.d/CLAIM-141.md).
 - Locked-in syndrome as a documented case, [CASE-tmpxgcq2](record/cases.d/CASE-tmpxgcq2.md), and eight works
   registered unread for it and for the claims.
+- The owner's thesis that the pragmatic-transport and will-organization
+  lines describe one model, with a mapping of both into the operator model
+  that the owner has not yet endorsed, [CLAIM-tmp84z6h](record/claims.d/CLAIM-tmp84z6h.md).
+- A question on what plays the part of independent scoring in a single
+  mind, with five candidates, [QUESTION-tmpr5tck](record/questions.d/QUESTION-tmpr5tck.md).
+- Nine more works registered unread, for covert awareness, measurement
+  effects, Pattee's epistemic cut, QBism and perceptual control theory.

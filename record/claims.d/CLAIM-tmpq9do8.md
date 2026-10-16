@@ -40,6 +40,7 @@ grounds:
 - LIT-tmpetez2
 complements:
 - CLAIM-tmp84z6h
+- CLAIM-tmpt568z
 uses:
 - TERM-026
 - TERM-039
@@ -57,8 +58,6 @@ summary: >-
   produces its own outcome, is not claimed. That is the open route of
   [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md), and the record demoted it once before
   ([CLAIM-109](CLAIM-109.md)).
-complements:
-- CLAIM-tmpt568z
 ---
 
 # CLAIM-tmpq9do8: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active

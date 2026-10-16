@@ -496,3 +496,15 @@ All made in the commit after this note. Lint is clean.
 
 Still open: the gaps listed under thread 4 and in the workbench entry.
 Nothing was registered for them.
+
+## Open items addressed (owner, U6)
+
+- **Underlying model:** CLAIM-tmp84z6h (owner's thesis; A6's mapping into
+  CLAIM-297, not yet endorsed).
+- **Independent scoring:** QUESTION-tmpr5tck, five candidates. Separates
+  unselected evidence, which survives paralysis, from intention–outcome
+  contingency, which is lost.
+- **Gaps:** nine LITs registered, wired into CLAIM-tmpq9do8 and
+  CASE-tmpxgcq2. QBism quote checked in the arXiv text: "It is an action on
+  the world by an agent that results in the creation of an outcome."
+- Remaining: reading the nine; the owner's verdict on the mapping.
