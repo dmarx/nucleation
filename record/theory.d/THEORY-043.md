@@ -22,7 +22,7 @@ promote_when: >-
   Pettit and Tollefsen, which are filed unread, could also move it, since each is reported
   to bear on exactly this seam.
 title: 'A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-02'
@@ -55,6 +55,13 @@ history:
     (THEORY-tmpmblxg), Ritchie (THEORY-tmpinjtf) and Epstein's survey
     (THEORY-tmpavyju) are named in Connections. Ritchie and Epstein stay
     out of the source, since they only constrain a criterion.
+- version: 6
+  date: '2026-10-16'
+  note: >-
+    Connections names the accounts now filed from four readings this
+    account draws on: Putnam (THEORY-tmp4k9ec), Dennett (THEORY-tmphcjj0),
+    Searle (THEORY-tmpted1p) and Chalmers on implementation
+    (THEORY-tmppylq2). None becomes a premise.
 tags:
 - consciousness
 - mereology
@@ -87,6 +94,7 @@ summary: >-
 answers:
 - QUESTION-046
 ---
+<!-- inactive-ok-file: THEORY-tmp4k9ec THEORY-tmphcjj0 THEORY-tmpted1p — Proposed; the accounts now filed from readings this one draws on, named in Connections, none a premise -->
 <!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
@@ -358,6 +366,12 @@ needed.
   composition-side view of agency this account cites from [LIT-439](../literature.d/LIT-439.md). It is
   the cheap end of the scale [THEORY-071](THEORY-071.md) makes dear: on it any homeostat is
   a Self.
+- **The readings stated as accounts.** Putnam's hypothesis with its
+  condition (3) is [THEORY-tmp4k9ec](THEORY-tmp4k9ec.md), resting on the excerpt in [NOTE-335](../notes.d/NOTE-335.md).
+  Dennett's intentional strategy is [THEORY-tmphcjj0](THEORY-tmphcjj0.md), Searle's
+  causal-powers argument [THEORY-tmpted1p](THEORY-tmpted1p.md), and Chalmers's implementation
+  conditions [THEORY-tmppylq2](THEORY-tmppylq2.md). None is a premise here; they state on their
+  own what this account cites them for.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).
