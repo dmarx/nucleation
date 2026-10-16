@@ -58,12 +58,13 @@ history:
 - version: 6
   date: '2026-10-16'
   note: >-
-    Connections names the THEORYs now filed for the Chalmers, Dennett and
-    Block readings this account cites: the sensorimotor extended-mind
-    thesis with its directness criterion (THEORY-tmpegs18), the
-    rationality presupposition of belief ascription (THEORY-tmpnzxy2) and
-    the case against machine-table functionalism (THEORY-tmp91cqx). None
-    is a premise here.
+    Connections names the THEORYs now filed for the cognition readings
+    this account cites: Chalmers's directness criterion in the sensorimotor
+    extended-mind thesis (THEORY-tmpegs18), the rationality presupposition
+    of belief ascription (THEORY-tmpnzxy2), the case against machine-table
+    functionalism (THEORY-tmp91cqx), Putnam (THEORY-tmp4k9ec), Dennett's
+    intentional strategy (THEORY-tmphcjj0), Searle (THEORY-tmpted1p) and
+    Chalmers on implementation (THEORY-tmppylq2). None is a premise here.
 tags:
 - consciousness
 - mereology
@@ -96,6 +97,7 @@ summary: >-
 answers:
 - QUESTION-046
 ---
+<!-- inactive-ok-file: THEORY-tmp4k9ec THEORY-tmphcjj0 THEORY-tmpted1p — Proposed; the accounts now filed from readings this one draws on, named in Connections, none a premise -->
 <!-- inactive-ok-file: LIT-483 — Unavailable; Tollefsen's book, named as unread, not leaned on -->
 <!-- inactive-ok-file: THEORY-tmpmblxg THEORY-tmpinjtf THEORY-tmpavyju — Proposed; the accounts now filed for Levin, Ritchie and Epstein's survey, named in Connections; Levin's reading is a source, his account is not leaned on -->
 <!-- inactive-ok-file: THEORY-071 THEORY-065 — Proposed; named for how they bear on the agreement about agency, nothing here rests on them -->
@@ -375,6 +377,12 @@ needed.
   intentional system is an idealisation is [THEORY-tmpnzxy2](THEORY-tmpnzxy2.md). Block and
   Fodor's case that the organisation that makes a mind cannot be a machine
   table is [THEORY-tmp91cqx](THEORY-tmp91cqx.md). None is a premise here.
+- **The readings stated as accounts.** Putnam's hypothesis with its
+  condition (3) is [THEORY-tmp4k9ec](THEORY-tmp4k9ec.md), resting on the excerpt in [NOTE-335](../notes.d/NOTE-335.md).
+  Dennett's intentional strategy is [THEORY-tmphcjj0](THEORY-tmphcjj0.md), Searle's
+  causal-powers argument [THEORY-tmpted1p](THEORY-tmpted1p.md), and Chalmers's implementation
+  conditions [THEORY-tmppylq2](THEORY-tmppylq2.md). None is a premise here; they state on their
+  own what this account cites them for.
 - **Neighbours:** collective intelligence ([LIT-046](../literature.d/LIT-046.md)), "Real Patterns"
   ([LIT-220](../literature.d/LIT-220.md)), IIT's later statement ([LIT-185](../literature.d/LIT-185.md)) and Schwitzgebel's book
   version ([LIT-216](../literature.d/LIT-216.md)).
