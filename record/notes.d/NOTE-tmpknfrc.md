@@ -193,7 +193,7 @@ and its paraphrase is right in outline. Three things the reading changes.
   action" (Discussion).
 - *No structure learning.* Nothing in this model is learned. It cannot
   support the claim's second strand, the observer reshaped without action.
-  That strand rests on Smith et al. ([THEORY-tmpk6k4p](../theory.d/THEORY-tmpk6k4p.md)), not on this paper.
+  That strand rests on Smith et al. ([THEORY-564](../theory.d/THEORY-564.md)), not on this paper.
 
 **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) (the thesis).** This is exactly the line the thesis
 draws, and the paper falls on the side the thesis needs at the level of

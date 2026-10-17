@@ -61,10 +61,10 @@ than an anchor is lost with action.
 1. **Unselected input.** Events in the world that reach the senses
    whether or not the loop asked for them, together with exogenous
    attention capture. What is unselected is their arrival. How they are
-   read still runs through the interpretation ([THEORY-tmpns74h](../theory.d/THEORY-tmpns74h.md)), and a
+   read still runs through the interpretation ([THEORY-593](../theory.d/THEORY-593.md)), and a
    policy can attenuate them ([THEORY-285](../theory.d/THEORY-285.md), [NOTE-766](../notes.d/NOTE-766.md)).
 2. **The body.** Visceral and other bodily states the interpretation does
-   not set, mapped in the brain ([QUESTION-059](QUESTION-059.md); Damasio, [THEORY-tmpddd8b](../theory.d/THEORY-tmpddd8b.md)).
+   not set, mapped in the brain ([QUESTION-059](QUESTION-059.md); Damasio, [THEORY-500](../theory.d/THEORY-500.md)).
    Against: on constructed-emotion accounts, interoception is itself
    predicted ([NOTE-434](../notes.d/NOTE-434.md)), so its scoring runs through the model.
 3. **Commitment before evidence.** A prediction or judgement made, and
@@ -72,11 +72,11 @@ than an anchor is lost with action.
    time does the work the auditor does in Regime B: what is scored was
    fixed before the interpretation it might have bent towards. Damasio's
    anticipatory skin-conductance responses, which come before the choice
-   ([THEORY-tmpoxf3p](../theory.d/THEORY-tmpoxf3p.md)), have this shape. Against: an earlier answer's error
+   ([THEORY-603](../theory.d/THEORY-603.md)), have this shape. Against: an earlier answer's error
    carries into a later one when the two share a hypothesis space
    ([THEORY-339](../theory.d/THEORY-339.md)), so commitment can also propagate error.
 4. **Processing signals.** The felt ease or difficulty of processing,
-   inferred from precision rather than content ([THEORY-tmpx1so9](../theory.d/THEORY-tmpx1so9.md)). It
+   inferred from precision rather than content ([THEORY-662](../theory.d/THEORY-662.md)). It
    scores how the interpretation is going, not what it says. Against: its
    cause is attributed to "the most salient external source", which
    brings the interpretation back in.

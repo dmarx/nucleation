@@ -32,9 +32,9 @@ rests_on:
 - CLAIM-275
 grounds:
 - LIT-tmp670rc
-- THEORY-tmpns74h
-- THEORY-tmp6rcgc
-- THEORY-tmp2k3a9
+- THEORY-593
+- THEORY-454
+- THEORY-419
 - LIT-tmpuamcv
 - LIT-tmpgo33i
 complements:
@@ -96,13 +96,13 @@ observations. The record holds this for perception: perceptual learning
 can install frames that change which objects a perceiver individuates from
 the same input, so "cognition can shape the perceptual system over time
 while leaving open whether any single percept is cognitively penetrated"
-([THEORY-tmpns74h](../theory.d/THEORY-tmpns74h.md)). And for cognition: percepts are used only inside a
+([THEORY-593](../theory.d/THEORY-593.md)). And for cognition: percepts are used only inside a
 "cognitive envelope", where working memory holds "recoded, task-dependent
-abstractions rather than the percepts themselves" ([THEORY-tmp6rcgc](../theory.d/THEORY-tmp6rcgc.md)). The
+abstractions rather than the percepts themselves" ([THEORY-454](../theory.d/THEORY-454.md)). The
 observation the loop runs on is already a product of earlier judgement.
 
 The complaint against active inference is then precise in Pearl's terms
-([THEORY-tmp2k3a9](../theory.d/THEORY-tmp2k3a9.md)). Active inference treats perception as conditioning on
+([THEORY-419](../theory.d/THEORY-419.md)). Active inference treats perception as conditioning on
 observations that arrive at the blanket's sensory states, and places all
 of the agent's influence on what it observes in action, which samples the
 data ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md), read in [NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md)). The paper states the contrast
@@ -115,7 +115,7 @@ the loop.
 
 ## Judgement is not action
 
-The objection that a judgement is itself behaviour ([THEORY-tmpltl13](../theory.d/THEORY-tmpltl13.md)), and
+The objection that a judgement is itself behaviour ([THEORY-577](../theory.d/THEORY-577.md)), and
 so action relabelled ([CLAIM-tmp9cjyo](CLAIM-tmp9cjyo.md)), is answered by where the judgement
 acts. Action, in the active-inference sense, changes external states, which
 then change sensory states. A judgement changes the judge's own state, the
@@ -193,10 +193,10 @@ outcome, is not part of this claim:
 - **Contextuality may not help.** If the synchronic form is to differ from
   classical state change, it needs contextuality. The weak sense is the
   starting point of Contextuality-by-Default, not a finding
-  ([THEORY-tmpjwpuk](../theory.d/THEORY-tmpjwpuk.md)). The sheaf sense cannot arise for one system judged
+  ([THEORY-559](../theory.d/THEORY-559.md)). The sheaf sense cannot arise for one system judged
   context after context ([THEORY-010](../theory.d/THEORY-010.md)). Spekkens's sense can ([QUESTION-067](../questions.d/QUESTION-067.md)).
   The record holds no behavioural evidence of contextuality proper
-  ([CLAIM-325](CLAIM-325.md), [THEORY-tmpr96be](../theory.d/THEORY-tmpr96be.md)).
+  ([CLAIM-325](CLAIM-325.md), [THEORY-623](../theory.d/THEORY-623.md)).
 
 ## What it does not say
 
@@ -228,10 +228,10 @@ outcome, is not part of this claim:
   the model in touch.
 - **Sense-making from regulation.** Di Paolo: a norm the system itself has
   needs adaptivity, which detects tendencies toward the viability boundary
-  "and acts so as to reverse them" ([THEORY-tmprt7jm](../theory.d/THEORY-tmprt7jm.md)).
+  "and acts so as to reverse them" ([THEORY-628](../theory.d/THEORY-628.md)).
 - **Agency defined by action.** Agents are "the systems that would adapt
   their policy were their actions to affect the world differently"
-  ([THEORY-tmpgjsxj](../theory.d/THEORY-tmpgjsxj.md)). On that definition a judge that cannot act is not an
+  ([THEORY-527](../theory.d/THEORY-527.md)). On that definition a judge that cannot act is not an
   agent. The claim is about a lucid judge, not about agency.
 - **Perceptual control.** Powers: "behavior is the control of input, not
   output", and above the lowest level a system's output "is not a muscle

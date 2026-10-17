@@ -75,7 +75,7 @@ learning. It does not make the scoring independent.
 ## What it does not say
 
 - That a mind meets κ′ ≤ κ̄. On constructed-perception accounts the reading
-  of evidence is bent by the interpretation ([THEORY-tmpns74h](../theory.d/THEORY-tmpns74h.md); [NOTE-434](../notes.d/NOTE-434.md)),
+  of evidence is bent by the interpretation ([THEORY-593](../theory.d/THEORY-593.md); [NOTE-434](../notes.d/NOTE-434.md)),
   which pushes κ′ up. Whether it is bent more than the predictions are is
   empirical.
 - Anything beyond the linearization at symmetry, or for scores other than

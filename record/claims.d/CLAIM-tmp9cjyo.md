@@ -15,9 +15,9 @@ line:
 grounds:
 - LIT-tmpp54zu
 - LIT-tmpu6g9m
-- THEORY-tmpx1so9
-- THEORY-tmpk6k4p
-- THEORY-tmpltl13
+- THEORY-662
+- THEORY-564
+- THEORY-577
 summary: >-
   The assistant's, A1 of the exchange of 2026-10-16, on active inference's
   behalf, strengthened at A4. Sandved-Smith et al. cast mental action as
@@ -54,19 +54,19 @@ to the body.
   changes what is observed only by biasing "planning in favour of an
   overt saccade".
 - **Judgement fixing what is observed.** Brouillet and Friston
-  ([THEORY-tmpx1so9](../theory.d/THEORY-tmpx1so9.md)): the feeling of fluency is an inference about the
+  ([THEORY-662](../theory.d/THEORY-662.md)): the feeling of fluency is an inference about the
   precision of one's own processing, and because its cause is internal, a
   felt discrepancy is attributed to "the most salient external source", as
   familiarity, liking or a sense of error. No body is in that loop
   ([NOTE-785](../notes.d/NOTE-785.md)).
-- **The observer reshaped without action.** Smith et al. ([THEORY-tmpk6k4p](../theory.d/THEORY-tmpk6k4p.md)):
+- **The observer reshaped without action.** Smith et al. ([THEORY-564](../theory.d/THEORY-564.md)):
   a bounded generative model "can learn its own structure with no
   machinery beyond inference and learning". Spare hidden-state slots fill
   when an observation fits none of the learned causes. During that
   learning, reporting policies are disabled ([NOTE-485](../notes.d/NOTE-485.md)). Active inference
   thus has [CLAIM-tmpq9do8](CLAIM-tmpq9do8.md)'s diachronic loop, in which judgement reshapes
   the observer, inside one generative model whose likelihood is learned.
-- **Judgement is behaviour.** Chalmers ([THEORY-tmpltl13](../theory.d/THEORY-tmpltl13.md)): "Our judgments
+- **Judgement is behaviour.** Chalmers ([THEORY-577](../theory.d/THEORY-577.md)): "Our judgments
   that consciousness poses a hard problem are behaviour." If judgements
   are behaviour, keeping judgement while cutting action relabels the
   action rather than removing it.
@@ -93,6 +93,6 @@ what crosses it judgement.
 - The readings narrow the objection. In Sandved-Smith et al., mental
   action changes perceptual precision, not perceptual content, which is
   the line [CLAIM-tmpq9do8](CLAIM-tmpq9do8.md) draws. Nothing in that model is learned, so the
-  structure-learning strand rests on [THEORY-tmpk6k4p](../theory.d/THEORY-tmpk6k4p.md) alone. Parr and
+  structure-learning strand rests on [THEORY-564](../theory.d/THEORY-564.md) alone. Parr and
   Friston give attention no power to change content short of an overt
   saccade, which is action on the world.

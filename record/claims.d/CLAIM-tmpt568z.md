@@ -88,7 +88,7 @@ first loop, that the first loop's behaviour does not set ([THEORY-324](../theory
 
 - It does not say an agent without action has independent evidence. The
   locked-in case asks whether one does ([CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md)). Damasio's
-  re-enacted body states ([THEORY-tmpddd8b](../theory.d/THEORY-tmpddd8b.md)) and the visceromotor regulation
+  re-enacted body states ([THEORY-500](../theory.d/THEORY-500.md)) and the visceromotor regulation
   that survives paralysis ([NOTE-434](../notes.d/NOTE-434.md)) are candidates.
 - [CLAIM-330](CLAIM-330.md) is a linearization at symmetry. It shows what independent
   scoring removes near that point, not that it prevents every form of

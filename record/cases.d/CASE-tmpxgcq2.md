@@ -127,7 +127,7 @@ usually reached through ALS, no motor channel remains.
   body to act on the neurons that map it ([QUESTION-059](../questions.d/QUESTION-059.md)). Damasio also
   holds that an "as if body loop", in which body states are re-enacted
   when an option is imagined, has largely superseded the body loop in
-  adults ([THEORY-tmpddd8b](../theory.d/THEORY-tmpddd8b.md); asserted, not shown). If so, the mechanism
+  adults ([THEORY-500](../theory.d/THEORY-500.md); asserted, not shown). If so, the mechanism
   that would keep judgement working in locked-in syndrome is already
   internal, and the case cannot remove every contingency between
   intention and outcome, as [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s defeater (b) asks.
