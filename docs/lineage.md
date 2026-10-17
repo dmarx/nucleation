@@ -263,17 +263,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## complex-systems
 
-### From Nonnegative Decomposition of Multivariate Information
-
-- [LIT-1172](../record/literature.d/LIT-1172.md) — Nonnegative Decomposition of Multivariate Information *(Active)*
-  - [LIT-1168](../record/literature.d/LIT-1168.md) — A Bivariate Measure of Redundant Information *(Active)*
-  - [LIT-1176](../record/literature.d/LIT-1176.md) — Generalized Measures of Information Transfer *(Active)* — also carries further LIT-1177
-- [LIT-1177](../record/literature.d/LIT-1177.md) — Measuring Information Transfer *(Active)*
-  - [LIT-1165](../record/literature.d/LIT-1165.md) — Information Flows? A Critique of Transfer Entropies *(Active)*
-  - [LIT-1167](../record/literature.d/LIT-1167.md) — Information transfer in continuous processes *(Unavailable)*
-  - [LIT-1175](../record/literature.d/LIT-1175.md) — Local information transfer as a spatiotemporal filter for complex systems *(Active)*
-- alongside: [LIT-1162](../record/literature.d/LIT-1162.md) — Quantifying unique information *(Active)*
-
 ### From An Organizational Account of Biological Functions
 
 - [LIT-570](../record/literature.d/LIT-570.md) — An Organizational Account of Biological Functions *(Active)*
@@ -498,16 +487,20 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## information-theory
 
-### From Nonnegative Decomposition of Multivariate Information
+### From Quantifying unique information
 
+- [LIT-1162](../record/literature.d/LIT-1162.md) — Quantifying unique information *(Active)*
+  - [LIT-1202](../record/literature.d/LIT-1202.md) — Reconsidering unique information: Towards a multivariate information decomposition *(Active)*
 - [LIT-1172](../record/literature.d/LIT-1172.md) — Nonnegative Decomposition of Multivariate Information *(Active)*
   - [LIT-1168](../record/literature.d/LIT-1168.md) — A Bivariate Measure of Redundant Information *(Active)*
   - [LIT-1176](../record/literature.d/LIT-1176.md) — Generalized Measures of Information Transfer *(Active)* — also carries further LIT-1177
+  - [LIT-1201](../record/literature.d/LIT-1201.md) — Measuring multivariate redundant information with pointwise common change in surprisal *(Active)*
+  - [LIT-1203](../record/literature.d/LIT-1203.md) — Intersection Information Based on Common Randomness *(Active)*
+  - [LIT-1204](../record/literature.d/LIT-1204.md) — Quantifying synergistic mutual information *(Active)*
 - [LIT-1177](../record/literature.d/LIT-1177.md) — Measuring Information Transfer *(Active)*
   - [LIT-1165](../record/literature.d/LIT-1165.md) — Information Flows? A Critique of Transfer Entropies *(Active)*
   - [LIT-1167](../record/literature.d/LIT-1167.md) — Information transfer in continuous processes *(Unavailable)*
   - [LIT-1175](../record/literature.d/LIT-1175.md) — Local information transfer as a spatiotemporal filter for complex systems *(Active)*
-- alongside: [LIT-1162](../record/literature.d/LIT-1162.md) — Quantifying unique information *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 

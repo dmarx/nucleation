@@ -1,6 +1,9 @@
 ---
+number: 967
 status: Read
-paper: 'LIT-tmpk8n6l'
+formerly:
+- NOTE-tmpm0azr
+paper: 'LIT-1203'
 title: 'Griffith, Chong, James, Ellison and Crutchfield — Intersection information based on common randomness'
 version: 1
 history:
@@ -27,7 +30,7 @@ summary: >-
   negative too.
 ---
 
-# NOTE-tmpm0azr: Griffith, Chong, James, Ellison and Crutchfield — Intersection information based on common randomness
+# NOTE-967: Griffith, Chong, James, Ellison and Crutchfield — Intersection information based on common randomness
 
 ## Contribution
 
@@ -119,7 +122,7 @@ this much.
 - **Builds on** Williams and Beer's lattice ([LIT-1172](../literature.d/LIT-1172.md)), Gács and Körner
   (1973), and Li and Chong's information lattice. Compares itself with
   I_min and Harder, Salge and Polani's I_red ([LIT-1168](../literature.d/LIT-1168.md)).
-- **Griffith and Koch ([NOTE-tmp71sln](NOTE-tmp71sln.md)).** I_∧ formalises that paper's v1
+- **Griffith and Koch ([NOTE-966](NOTE-966.md)).** I_∧ formalises that paper's v1
   view: redundancy only where the sources share structure, I_∧ ≤ H(X_1 ∧
   X_2) ≤ I(X_1 : X_2). In AND it reproduces v1's answer exactly (0
   redundant, 0.311 unique each, 0.189 synergy), which v6 had withdrawn.
@@ -136,7 +139,7 @@ this much.
 
 ## Bearing on the record
 
-- Filed as [THEORY-tmp7uuzn](../theory.d/THEORY-tmp7uuzn.md).
+- Filed as [THEORY-715](../theory.d/THEORY-715.md).
 - On the gap "no held measure gives ΦID an identity-property redundancy
   for more than two sources": this measure is defined for any n and is
   nonnegative, but it has no Shannon identity property and gives negative

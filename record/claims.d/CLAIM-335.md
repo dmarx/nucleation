@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-17'
   note: >-
-    The robustness sentence extends to Ince's I_ccs (NOTE-tmprcqzl): both examples have the same values under a fourth measure. The claim is unchanged.
+    The robustness sentence extends to Ince's I_ccs (NOTE-968): both examples have the same values under a fourth measure. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -37,7 +37,7 @@ uses:
 - TERM-058
 complements:
 - CLAIM-333
-- CLAIM-tmpqjpx1
+- CLAIM-343
 summary: >-
   The record's position on whether transfer entropy measures information
   flow. James, Barnett and Crutchfield show it does not, if flow is
@@ -77,7 +77,7 @@ once per source.
 Both recomputed exactly on 2026-10-17 (a scratchpad script with an I_min
 PID; [NOTE-945](../notes.d/NOTE-945.md)), and again under Harder, Salge and Polani's I_red and
 Bertschinger et al.'s unique information, with the same values
-([NOTE-944](../notes.d/NOTE-944.md), [NOTE-937](../notes.d/NOTE-937.md)), and under Ince's I_ccs ([NOTE-tmprcqzl](../notes.d/NOTE-tmprcqzl.md)).
+([NOTE-944](../notes.d/NOTE-944.md), [NOTE-937](../notes.d/NOTE-937.md)), and under Ince's I_ccs ([NOTE-968](../notes.d/NOTE-968.md)).
 
 1. **Overstating flow.** X_t i.i.d. uniform bits, Y_t = X_{t−1} ⊕ Y_{t−1}.
    T_{X→Y} = I(Y_t; X_{t−1} | Y_{t−1}) = 1 bit. But I(Y_t; X_{t−1}) = 0 and

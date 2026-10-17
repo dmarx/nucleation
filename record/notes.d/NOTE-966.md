@@ -1,6 +1,9 @@
 ---
+number: 966
 status: Read
-paper: 'LIT-tmpx01yr'
+formerly:
+- NOTE-tmp71sln
+paper: 'LIT-1204'
 title: 'Griffith and Koch — Quantifying synergistic mutual information'
 version: 1
 history:
@@ -29,7 +32,7 @@ summary: >-
   is Bertschinger et al.'s optimisation, so S_VK is their CI.
 ---
 
-# NOTE-tmp71sln: Griffith and Koch — Quantifying synergistic mutual information
+# NOTE-966: Griffith and Koch — Quantifying synergistic mutual information
 
 ## Contribution
 
@@ -151,13 +154,13 @@ the actual whole carries beyond that is synergy.
 - **Bertschinger et al. ([NOTE-937](NOTE-937.md), [THEORY-705](../theory.d/THEORY-705.md)).** For two predictors their
   optimisation and this one are the same, so their proofs of nonnegativity
   and of the identity property cover S_VK there. My derivation.
-- **Griffith et al. ([NOTE-tmpm0azr](NOTE-tmpm0azr.md)).** The common-randomness measure is
+- **Griffith et al. ([NOTE-967](NOTE-967.md)).** The common-randomness measure is
   the formal version of v1's position: zero redundancy whenever the
   sources share no deterministic structure.
 
 ## Bearing on the record
 
-- Filed as [THEORY-tmpims74](../theory.d/THEORY-tmpims74.md).
+- Filed as [THEORY-716](../theory.d/THEORY-716.md).
 - [THEORY-708](../theory.d/THEORY-708.md) calls mechanistic redundancy "a position". It is the
   position that won between these two papers, by the opposing author's
   own revision, and under the identity-property measures the record holds
@@ -182,5 +185,5 @@ the actual whole carries beyond that is synergy.
 
 - Do I_VK's induced atoms stay nonnegative for three predictors? Rauh et
   al.'s result on identity and local positivity bears on it
-  ([LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md)).
+  ([LIT-1202](../literature.d/LIT-1202.md)).
 - S_VK for AndDuplicate, which needs a three-marginal optimisation.

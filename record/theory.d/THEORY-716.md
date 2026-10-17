@@ -1,5 +1,8 @@
 ---
+number: 716
 status: Active
+formerly:
+- THEORY-tmpims74
 title: "Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first"
 version: 1
 tags:
@@ -7,9 +10,9 @@ tags:
 - complex-systems
 date: '2026-10-17'
 source:
-- LIT-tmpx01yr
+- LIT-1204
 summary: >-
-  Griffith & Koch (2014), [LIT-tmpx01yr](../literature.d/LIT-tmpx01yr.md), read in full in [NOTE-tmp71sln](../notes.d/NOTE-tmp71sln.md), v6
+  Griffith & Koch (2014), [LIT-1204](../literature.d/LIT-1204.md), read in full in [NOTE-966](../notes.d/NOTE-966.md), v6
   with v1–v2 checked. The definitions, the criticisms of S_max, WMS and ΔI,
   and the properties proved in Appendix C are exact, and every Table 1
   value for two predictors was recomputed. The identification with
@@ -18,13 +21,13 @@ summary: >-
   a step the reading could not reconstruct.
 ---
 
-# THEORY-tmpims74: Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first
+# THEORY-716: Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first
 
 ## Source
 
 Griffith & Koch (2014), "Quantifying synergistic mutual information",
 arXiv 1205.4265v6 (Guided Self-Organization: Inception, Springer),
-[LIT-tmpx01yr](../literature.d/LIT-tmpx01yr.md), read in full in [NOTE-tmp71sln](../notes.d/NOTE-tmp71sln.md). v1 and v2 were read for the
+[LIT-1204](../literature.d/LIT-1204.md), read in full in [NOTE-966](../notes.d/NOTE-966.md). v1 and v2 were read for the
 passage v6 withdraws. The book chapter was not compared.
 
 ## What was actually shown
@@ -68,7 +71,7 @@ separate AND's synergy from WholeMinusSum's 0.189. It gives at least
   were blocked.
 - **That independent sources must share information.** v6 says they can
   under this measure; whether they should is the dispute between
-  [THEORY-708](THEORY-708.md) and [THEORY-tmp7uuzn](THEORY-tmp7uuzn.md).
+  [THEORY-708](THEORY-708.md) and [THEORY-715](THEORY-715.md).
 
 ## Connections
 
@@ -77,4 +80,4 @@ separate AND's synergy from WholeMinusSum's 0.189. It gives at least
 - It corrects the S_max built from Williams and Beer's I_max ([LIT-1172](../literature.d/LIT-1172.md))
   on unique information, as [THEORY-708](THEORY-708.md) corrects [THEORY-706](THEORY-706.md)'s I_min on
   shared information.
-- [THEORY-tmp7uuzn](THEORY-tmp7uuzn.md) formalises the v1 position this version withdraws.
+- [THEORY-715](THEORY-715.md) formalises the v1 position this version withdraws.

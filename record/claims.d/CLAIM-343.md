@@ -1,5 +1,8 @@
 ---
+number: 343
 status: Active
+formerly:
+- CLAIM-tmpqjpx1
 title: 'For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it'
 version: 1
 role: thesis
@@ -19,22 +22,22 @@ date: '2026-10-17'
 line:
 - formal-apparatus
 grounds:
-- THEORY-tmp06heo
-- THEORY-tmp65fz9
+- THEORY-713
+- THEORY-714
 complements:
 - CLAIM-335
 summary: >-
   The record's answer to the gap left by the PID filing: no held measure
   gave ΦID an identity-respecting redundancy for more than two sources.
   Rauh et al. show none can, on the lattice ΦID uses, without a negative
-  atom ([THEORY-tmp06heo](../theory.d/THEORY-tmp06heo.md)). The record's measures split the difference: I_min
+  atom ([THEORY-713](../theory.d/THEORY-713.md)). The record's measures split the difference: I_min
   keeps atoms nonnegative by calling independent copied bits redundant,
   and Ince's I_ccs keeps an independent-sources identity and reports a
-  −1-bit atom ([THEORY-tmp65fz9](../theory.d/THEORY-tmp65fz9.md)). Two-part ΦID is untouched.
+  −1-bit atom ([THEORY-714](../theory.d/THEORY-714.md)). Two-part ΦID is untouched.
 ---
-<!-- inactive-ok-file: THEORY-tmp65fz9 THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
+<!-- inactive-ok-file: THEORY-714 THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
 
-# CLAIM-tmpqjpx1: For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it
+# CLAIM-343: For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it
 
 ## The claim
 
@@ -45,11 +48,11 @@ parts, the source lattice is the three-source lattice or larger.
 
 On that lattice, Rauh et al.'s Theorem 2 rules out any redundancy function
 satisfying symmetry, self-redundancy, monotonicity, the identity axiom and
-nonnegative atoms together ([THEORY-tmp06heo](../theory.d/THEORY-tmp06heo.md)). The case is XORCOPY: Y₁, Y₂
+nonnegative atoms together ([THEORY-713](../theory.d/THEORY-713.md)). The case is XORCOPY: Y₁, Y₂
 independent bits, Y₃ = Y₁ ⊕ Y₂, target X = (Y₁, Y₂, Y₃). Each Yᵢ is a
 function of the other two, so identity gives each atom {i}{jk} 1 bit. The
 three come to 3 bits against I(X; Y₁Y₂Y₃) = 2, so {12}{13}{23} is at most
-−1. The arithmetic was checked on 2026-10-17 ([NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md)). The proof also
+−1. The arithmetic was checked on 2026-10-17 ([NOTE-965](../notes.d/NOTE-965.md)). The proof also
 uses two premises the paper does not list as axioms: invariance under
 relabelling the target, and identity applied with a pair of variables
 treated as one source.
@@ -60,10 +63,10 @@ So the deficit lands somewhere, and the record's measures show where:
   because it does not satisfy identity ([THEORY-706](../theory.d/THEORY-706.md), [THEORY-708](../theory.d/THEORY-708.md)).
 - **I_ccs** gives {i}{jk} = 1 each and {12}{13}{23} = −1, exactly at Rauh
   et al.'s bound, keeping only an identity for independent sources
-  ([THEORY-tmp65fz9](../theory.d/THEORY-tmp65fz9.md)).
+  ([THEORY-714](../theory.d/THEORY-714.md)).
 - **Griffith et al.'s I_∧** is defined for any number of sources and is
   nonnegative, but fails identity and has negative atoms already for two
-  ([THEORY-tmp7uuzn](../theory.d/THEORY-tmp7uuzn.md)).
+  ([THEORY-715](../theory.d/THEORY-715.md)).
 - **I_red and Bertschinger et al.'s measure** are bivariate and do not reach
   three parts ([THEORY-708](../theory.d/THEORY-708.md), [THEORY-705](../theory.d/THEORY-705.md)).
 

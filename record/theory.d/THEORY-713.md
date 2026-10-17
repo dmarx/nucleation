@@ -1,5 +1,8 @@
 ---
+number: 713
 status: Active
+formerly:
+- THEORY-tmp06heo
 title: "No redundancy measure on the Williams–Beer partial-information lattice can satisfy symmetry, self-redundancy, monotonicity, the identity axiom and non-negative atoms once there are three sources: for two independent bits, their XOR and a target that copies all three, identity forces three one-bit atoms under a two-bit total, so one atom is at most −1 bit, and a multivariate decomposition that keeps identity must give up non-negativity or the lattice"
 version: 1
 tags:
@@ -7,26 +10,26 @@ tags:
 - mathematics
 date: '2026-10-17'
 source:
-- LIT-tmpeurmb
+- LIT-1202
 summary: >-
-  Rauh, Bertschinger, Olbrich & Jost (2014), [LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md), read in full in
-  [NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md). A proved impossibility, checked by hand and by script. It
+  Rauh, Bertschinger, Olbrich & Jost (2014), [LIT-1202](../literature.d/LIT-1202.md), read in full in
+  [NOTE-965](../notes.d/NOTE-965.md). A proved impossibility, checked by hand and by script. It
   also uses invariance of redundancy under relabelling the target, which
   is not stated as an axiom. I_min escapes it by failing identity, Ince's
   I_ccs by accepting the −1-bit atom.
 supports:
-- CLAIM-tmpqjpx1
+- CLAIM-343
 ---
 
-<!-- inactive-ok-file: THEORY-497 THEORY-tmp65fz9 — Proposed; named as the account the theorem bears on and as one escape route, nothing here rests on either being settled -->
+<!-- inactive-ok-file: THEORY-497 THEORY-714 — Proposed; named as the account the theorem bears on and as one escape route, nothing here rests on either being settled -->
 
-# THEORY-tmp06heo: No redundancy measure on the Williams–Beer partial-information lattice can satisfy symmetry, self-redundancy, monotonicity, the identity axiom and non-negative atoms once there are three sources: for two independent bits, their XOR and a target that copies all three, identity forces three one-bit atoms under a two-bit total, so one atom is at most −1 bit, and a multivariate decomposition that keeps identity must give up non-negativity or the lattice
+# THEORY-713: No redundancy measure on the Williams–Beer partial-information lattice can satisfy symmetry, self-redundancy, monotonicity, the identity axiom and non-negative atoms once there are three sources: for two independent bits, their XOR and a target that copies all three, identity forces three one-bit atoms under a two-bit total, so one atom is at most −1 bit, and a multivariate decomposition that keeps identity must give up non-negativity or the lattice
 
 ## Source
 
 Rauh, Bertschinger, Olbrich & Jost (2014), "Reconsidering unique
 information: Towards a multivariate information decomposition", ISIT 2014,
-arXiv 1404.3146v1, [LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md), read in full in [NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md).
+arXiv 1404.3146v1, [LIT-1202](../literature.d/LIT-1202.md), read in full in [NOTE-965](../notes.d/NOTE-965.md).
 
 ## What was actually shown
 
@@ -47,7 +50,7 @@ relabelling of each pair.
   sits above all three {i}{jk}, so its atom is at most 2 − 3 = −1.
 
 Checked: every information value above, and the lattice order, by script
-([NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md)).
+([NOTE-965](../notes.d/NOTE-965.md)).
 
 **Bivariate side results.** Bertschinger et al.'s unique information is
 monotone in each argument (Lemma 3). Their shared information increases
@@ -73,14 +76,14 @@ deficit is exactly one bit.
 - **Which axiom to drop.** I_min drops identity and keeps non-negative
   atoms; on XORCOPY it gives {1}{2}{3} = {12}{13}{23} = 1. I_ccs drops
   monotonicity and local positivity; it gives {i}{jk} = 1 and
-  {12}{13}{23} = −1 ([THEORY-tmp65fz9](THEORY-tmp65fz9.md)). The theorem does not choose.
+  {12}{13}{23} = −1 ([THEORY-714](THEORY-714.md)). The theorem does not choose.
 
 ## Connections
 
 - [THEORY-497](THEORY-497.md): ΦID's lattice is a product of Williams–Beer lattices,
   so for three or more parts an identity-respecting redundancy function
   must produce negative atoms. That is the record's inference
-  ([NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md)).
+  ([NOTE-965](../notes.d/NOTE-965.md)).
 - [THEORY-568](THEORY-568.md) is the redundancy-measure-free route: its Shannon invariants
   are fixed by mutual informations once the atoms satisfy the consistency
   equations, so they do not depend on which axiom is dropped. That they

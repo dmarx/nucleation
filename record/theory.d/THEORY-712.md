@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-17'
   note: >-
-    Connections: the split under I_ccs (THEORY-tmp65fz9), unchanged for the coupled pair, a third value for the bystander example.
+    Connections: the split under I_ccs (THEORY-714), unchanged for the coupled pair, a third value for the bystander example.
 tags:
 - information-theory
 - complex-systems
@@ -27,7 +27,7 @@ supports:
 - CLAIM-335
 ---
 
-<!-- inactive-ok-file: THEORY-tmp65fz9 — Proposed; cited for the values I_ccs gives, not as settled -->
+<!-- inactive-ok-file: THEORY-714 — Proposed; cited for the values I_ccs gives, not as settled -->
 
 # THEORY-712: Under any partial information decomposition satisfying the consistency equations, a transfer entropy T_{Y→X} = I(X_{t+1}; Y_t | X_t) is the unique information of the source's past about the target's next state plus the synergy of source and target pasts, which Williams and Beer call state-independent and state-dependent transfer; time-delayed mutual information is the unique part plus redundancy; with the I_min redundancy the state-independent part alone suffices for perfect open-loop control, and a two-source transfer entropy splits into unique, redundant and synergistic transfer
 
@@ -72,10 +72,10 @@ none there.
 
 ## Connections
 
-- Under Ince's I_ccs ([THEORY-tmp65fz9](THEORY-tmp65fz9.md)) the coupled pair is again unchanged.
+- Under Ince's I_ccs ([THEORY-714](THEORY-714.md)) the coupled pair is again unchanged.
   Harder, Salge and Polani's bystander example gives a third value at
   d = 0.75, 0.392/0.157, and a negative state-independent part at
-  d = 0.25 ([NOTE-tmprcqzl](../notes.d/NOTE-tmprcqzl.md)).
+  d = 0.25 ([NOTE-968](../notes.d/NOTE-968.md)).
 
 - The coupled pair's split is the same under Harder, Salge and Polani's
   I_red ([THEORY-708](THEORY-708.md)) and Bertschinger et al.'s unique information

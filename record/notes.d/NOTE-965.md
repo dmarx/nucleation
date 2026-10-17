@@ -1,6 +1,9 @@
 ---
+number: 965
 status: Read
-paper: 'LIT-tmpeurmb'
+formerly:
+- NOTE-tmp0uphx
+paper: 'LIT-1202'
 title: 'Rauh, Bertschinger, Olbrich and Jost — Reconsidering unique information'
 version: 1
 history:
@@ -28,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-497 — Proposed; named as the account the theorem bears on, as the record's inference -->
 
-# NOTE-tmp0uphx: Rauh, Bertschinger, Olbrich and Jost — Reconsidering unique information
+# NOTE-965: Rauh, Bertschinger, Olbrich and Jost — Reconsidering unique information
 
 ## Contribution
 
@@ -102,7 +105,7 @@ has to pay the third bit back with a negative atom.
 - **Left monotonicity** — SI((X, X′): Y; Z) ≥ SI(X: Y; Z), shared information
   not decreasing as the target grows.
 - **XORCOPY** — the counterexample system; Ince calls it by that name
-  ([NOTE-tmprcqzl](NOTE-tmprcqzl.md), §6.2.2).
+  ([NOTE-968](NOTE-968.md), §6.2.2).
 
 ## Connections
 
@@ -128,7 +131,7 @@ has to pay the third bit back with a negative atom.
 
 ## Bearing on the record
 
-- Filed as [THEORY-tmp06heo](../theory.d/THEORY-tmp06heo.md).
+- Filed as [THEORY-713](../theory.d/THEORY-713.md).
 - The gap the PID filing named, a multivariate identity-property
   redundancy for ΦID, is shown impossible as stated, not merely unfilled.
   The record should say so in its own voice.

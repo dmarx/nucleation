@@ -89,10 +89,10 @@ non-negative.
 ## Connections
 
 - For two sources its synergy is Griffith and Koch's S_VK: the constraint
-  set is the same, and H(Y) is fixed on it ([THEORY-tmpims74](THEORY-tmpims74.md); the record's
+  set is the same, and H(Y) is fixed on it ([THEORY-716](THEORY-716.md); the record's
   derivation). Rauh et al. show its unique information is monotone and its
   shared and synergistic parts are not, and that no identity-respecting
-  extension to three sources keeps atoms nonnegative ([THEORY-tmp06heo](THEORY-tmp06heo.md)).
+  extension to three sources keeps atoms nonnegative ([THEORY-713](THEORY-713.md)).
 
 - It answers the flaw in Williams and Beer's I_min ([LIT-1172](../literature.d/LIT-1172.md)) that
   Harder, Salge and Polani identified ([LIT-1168](../literature.d/LIT-1168.md)), and is compared with

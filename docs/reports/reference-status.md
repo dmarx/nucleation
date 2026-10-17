@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**488 documents cited without acknowledgement.** Not listed: 9962 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**488 documents cited without acknowledgement.** Not listed: 9973 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -953,7 +953,7 @@ For one index with no space limit, Bruno and Chaudhuri's online tuner, which bui
 
 A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
 
-15 citations in 14 files await a look; 5 other citations of it are acknowledged.
+15 citations in 14 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-333.md:105`](../../record/claims.d/CLAIM-333.md)
 - [`record/claims.d/CLAIM-334.md:64`](../../record/claims.d/CLAIM-334.md)
@@ -967,9 +967,9 @@ A macro feature can supervene on a system's present state and still carry inform
 - [`record/notes.d/NOTE-945.md:132`](../../record/notes.d/NOTE-945.md)
 - [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
 - [`record/theory.d/THEORY-704.md:86`](../../record/theory.d/THEORY-704.md)
-- [`record/theory.d/THEORY-705.md:96`](../../record/theory.d/THEORY-705.md)
+- [`record/theory.d/THEORY-705.md:107`](../../record/theory.d/THEORY-705.md)
 - [`record/theory.d/THEORY-707.md:82`](../../record/theory.d/THEORY-707.md)
-- [`record/theory.d/THEORY-712.md:77`](../../record/theory.d/THEORY-712.md)
+- [`record/theory.d/THEORY-712.md:89`](../../record/theory.d/THEORY-712.md)
 
 ### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
 

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**792 document(s) awaiting a decision.**
+**793 document(s) awaiting a decision.**
 
 ## LITs
 
-62 of the 792.
+62 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -78,7 +78,7 @@
 
 ## THEORYs
 
-511 of the 792.
+512 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -408,7 +408,7 @@
 | 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 1 | 1 | Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode |
 | 2026-10-15 | Proposed | [THEORY-336](../../record/theory.d/THEORY-336.md) | 0 | 0 | An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it |
 | 2026-10-15 | Proposed | [THEORY-351](../../record/theory.d/THEORY-351.md) | 0 | 0 | In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured |
-| 2026-10-16 | Proposed | [THEORY-497](../../record/theory.d/THEORY-497.md) | 20 | 15 | A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function |
+| 2026-10-16 | Proposed | [THEORY-497](../../record/theory.d/THEORY-497.md) | 23 | 15 | A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function |
 | 2026-10-16 | Proposed | [THEORY-468](../../record/theory.d/THEORY-468.md) | 14 | 9 | Morality is the set of solutions to recurrent problems of cooperation, so each of the seven cooperation problems game theory identifies yields a moral domain valued in every culture, and behaviour unrelated to cooperation is morally neutral |
 | 2026-10-16 | Proposed | [THEORY-490](../../record/theory.d/THEORY-490.md) | 12 | 0 | What a chat agent's 'I' refers to is fixed by the context of use, not by the system: the agent role-plays characters that carry the self-conception the corpus and the conversation give them, and its uses of 'I' can pick out the model, present in many simultaneous instances, or the single conversation, none of them the self by nature |
 | 2026-10-16 | Proposed | [THEORY-447](../../record/theory.d/THEORY-447.md) | 11 | 0 | Granted that a person survives a brain transplant and that half a brain would do, each product of a division stands in all that matters in ordinary survival, so what matters is not identity, which is one-one and all-or-nothing, but psychological relations that can branch and come in degrees |
@@ -593,10 +593,11 @@
 | 2026-10-16 | Proposed | [THEORY-673](../../record/theory.d/THEORY-673.md) | 0 | 0 | The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply |
 | 2026-10-16 | Proposed | [THEORY-674](../../record/theory.d/THEORY-674.md) | 0 | 0 | In NBER and CEPR working papers from 1980 to 2023, the share of claims backed by a design-based identification strategy (difference-in-differences, instrumental variables, RCT, regression discontinuity or synthetic control) rose about fourfold, from 7.7% of a paper's extracted edges in 1990 to 31.7% in 2020, as measured by an LLM extraction whose edges were never checked against human labels |
 | 2026-10-16 | Proposed | [THEORY-682](../../record/theory.d/THEORY-682.md) | 0 | 0 | The time-average of a single threshold (Hill) response to a periodic signal is independent of the signal's period for a fixed waveform, so a frequency cannot be read by one sigmoidal stage; two cascaded stages can read it, because the first changes the waveform with period; and a delayed kinesin–dynein signalling loop whose period grows with axon length, read out this way and coupled to protrusion and contraction, can hold an axon at a stable length |
+| 2026-10-17 | Proposed | [THEORY-714](../../record/theory.d/THEORY-714.md) | 8 | 0 | Redundancy among any number of sources can be measured as the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals; this keeps symmetry, self-redundancy, subset equality and identity for independent sources, and gives up Harder et al.'s identity, monotonicity and non-negative atoms, which then read as local misinformation and mechanistic redundancy |
 
 ## ADRs
 
-1 of the 792.
+1 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -604,7 +605,7 @@
 
 ## QUESTIONs
 
-9 of the 792.
+9 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -620,7 +621,7 @@
 
 ## CLAIMs
 
-204 of the 792.
+204 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -831,7 +832,7 @@
 
 ## CASEs
 
-1 of the 792.
+1 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -839,7 +840,7 @@
 
 ## TERMs
 
-2 of the 792.
+2 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -848,7 +849,7 @@
 
 ## ARGs
 
-2 of the 792.
+2 of the 793.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

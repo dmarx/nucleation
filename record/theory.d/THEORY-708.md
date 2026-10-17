@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-17'
   note: >-
-    Connections: Griffith's view, now held (THEORY-tmpims74, THEORY-tmp7uuzn), and Rauh et al.'s three-source impossibility (THEORY-tmp06heo).
+    Connections: Griffith's view, now held (THEORY-716, THEORY-715), and Rauh et al.'s three-source impossibility (THEORY-713).
 tags:
 - information-theory
 - complex-systems
@@ -76,11 +76,11 @@ one does neither, for two sources.
 ## Connections
 
 - The view this paper opposes is now held. Griffith and Koch's later
-  version concedes mechanistic redundancy ([THEORY-tmpims74](THEORY-tmpims74.md)), so AND's
+  version concedes mechanistic redundancy ([THEORY-716](THEORY-716.md)), so AND's
   redundancy is 0.311 under I_min, I_red and Bertschinger et al.'s measure
-  alike. Griffith et al.'s I_∧ is the opposite pole, with 0 ([THEORY-tmp7uuzn](THEORY-tmp7uuzn.md)).
+  alike. Griffith et al.'s I_∧ is the opposite pole, with 0 ([THEORY-715](THEORY-715.md)).
   Neither I_red nor any identity-respecting measure extends to three
-  sources with nonnegative atoms ([THEORY-tmp06heo](THEORY-tmp06heo.md)).
+  sources with nonnegative atoms ([THEORY-713](THEORY-713.md)).
 
 - It corrects [THEORY-706](THEORY-706.md)'s I_min on shared information, and keeps its
   lattice and inversion.

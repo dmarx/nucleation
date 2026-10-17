@@ -1,5 +1,8 @@
 ---
+number: 715
 status: Active
+formerly:
+- THEORY-tmp7uuzn
 title: "The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources"
 version: 1
 tags:
@@ -7,22 +10,22 @@ tags:
 - complex-systems
 date: '2026-10-17'
 source:
-- LIT-tmpk8n6l
+- LIT-1203
 summary: >-
-  Griffith, Chong, James, Ellison & Crutchfield (2014), [LIT-tmpk8n6l](../literature.d/LIT-tmpk8n6l.md), read
-  in full in [NOTE-tmpm0azr](../notes.d/NOTE-tmpm0azr.md). The lemmas are short and exact, and every
+  Griffith, Chong, James, Ellison & Crutchfield (2014), [LIT-1203](../literature.d/LIT-1203.md), read
+  in full in [NOTE-967](../notes.d/NOTE-967.md). The lemmas are short and exact, and every
   example was recomputed, with Harder, Salge and Polani's copy family and
   a three-source copy added. It is the record's one redundancy defined for
   n > 2, and it does not have the identity property there or for n = 2.
 ---
 
-# THEORY-tmp7uuzn: The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources
+# THEORY-715: The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources
 
 ## Source
 
 Griffith, Chong, James, Ellison & Crutchfield (2014), "Intersection
 Information Based on Common Randomness", arXiv 1310.1538v3 (Entropy 16,
-1985–2000), [LIT-tmpk8n6l](../literature.d/LIT-tmpk8n6l.md), read in full in [NOTE-tmpm0azr](../notes.d/NOTE-tmpm0azr.md).
+1985–2000), [LIT-1203](../literature.d/LIT-1203.md), read in full in [NOTE-967](../notes.d/NOTE-967.md).
 
 ## What was actually shown
 
@@ -60,13 +63,13 @@ have captured ImperfectRdn's 0.99 bit of near-copy. It captures none.
 - **That a multivariate identity-property redundancy exists or does not.**
   This measure is multivariate and lacks identity. Whether any measure
   can have both with local positivity is a separate question
-  (Rauh et al., [LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md)).
+  (Rauh et al., [LIT-1202](../literature.d/LIT-1202.md)).
 - **Anything for noisy data.** It is zero there.
 
 ## Connections
 
 - It is the "only correlation makes redundancy" view of Griffith and
-  Koch's first version ([THEORY-tmpims74](THEORY-tmpims74.md)), made exact: in AND it gives
+  Koch's first version ([THEORY-716](THEORY-716.md)), made exact: in AND it gives
   their v1 answer, 0 redundant and 0.189 synergistic.
 - It lies below [THEORY-706](THEORY-706.md)'s I_min, and disagrees with [THEORY-708](THEORY-708.md) and
   [THEORY-705](THEORY-705.md) wherever the sources are noisily correlated.

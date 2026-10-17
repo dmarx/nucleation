@@ -1,6 +1,9 @@
 ---
+number: 968
 status: Read
-paper: 'LIT-tmpeucmj'
+formerly:
+- NOTE-tmprcqzl
+paper: 'LIT-1201'
 title: 'Ince — Measuring multivariate redundant information with pointwise common change in surprisal'
 version: 1
 history:
@@ -31,9 +34,9 @@ summary: >-
   against Bertschinger et al.
 ---
 
-<!-- inactive-ok-file: THEORY-tmp65fz9 — Proposed; the account filed from this reading -->
+<!-- inactive-ok-file: THEORY-714 — Proposed; the account filed from this reading -->
 
-# NOTE-tmprcqzl: Ince — Measuring multivariate redundant information with pointwise common change in surprisal
+# NOTE-968: Ince — Measuring multivariate redundant information with pointwise common change in surprisal
 
 ## Contribution
 
@@ -141,7 +144,7 @@ can carry local misinformation the other source does not.
 
 ## Connections
 
-- **[LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md) (Rauh et al.).** Their XORCOPY is Ince's §6.2.2, and Ince
+- **[LIT-1202](../literature.d/LIT-1202.md) (Rauh et al.).** Their XORCOPY is Ince's §6.2.2, and Ince
   cites them for it. Theorem 2 bounds the atom {12}{13}{23} at −1 for any
   measure with identity and non-negative atoms. I_ccs meets the bound
   exactly while keeping only independent identity. So it is an instance of
@@ -162,7 +165,7 @@ can carry local misinformation the other source does not.
 
 ## Bearing on the record
 
-- Filed as [THEORY-tmp65fz9](../theory.d/THEORY-tmp65fz9.md).
+- Filed as [THEORY-714](../theory.d/THEORY-714.md).
 - **[CLAIM-335](../claims.d/CLAIM-335.md)'s examples are unchanged under I_ccs.** Y_t = X_{t−1} ⊕ Y_{t−1}:
   redundancy 0, unique 0 and 0, synergy 1. Z_t = X_{t−1} ⊕ Y_{t−1}, pairwise
   sources (Z_{t−1}, X_{t−1}): every atom 0; joint sources (X_{t−1}, Y_{t−1}):

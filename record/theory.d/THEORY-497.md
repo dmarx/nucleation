@@ -21,7 +21,7 @@ history:
 - version: 2
   date: '2026-10-17'
   note: >-
-    A Connections line: for three or more parts no identity-respecting redundancy gives nonnegative atoms (THEORY-tmp06heo, CLAIM-tmpqjpx1). The account is unchanged.
+    A Connections line: for three or more parts no identity-respecting redundancy gives nonnegative atoms (THEORY-713, CLAIM-343). The account is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -106,8 +106,8 @@ general assumptions" without giving them.
 - **For three or more parts the redundancy function cannot be fully
   principled.** On the Williams–Beer lattice no redundancy function has
   both the identity property and nonnegative atoms from three sources up
-  ([THEORY-tmp06heo](THEORY-tmp06heo.md)), so a three-part verdict depends on which axiom is
-  dropped ([CLAIM-tmpqjpx1](../claims.d/CLAIM-tmpqjpx1.md)). For two parts the bivariate measures are
+  ([THEORY-713](THEORY-713.md)), so a three-part verdict depends on which axiom is
+  dropped ([CLAIM-343](../claims.d/CLAIM-343.md)). For two parts the bivariate measures are
   consistent.
 
 - **Effective-information emergence ([THEORY-222](THEORY-222.md))** is a different formal

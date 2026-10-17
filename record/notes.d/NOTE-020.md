@@ -25,7 +25,7 @@ history:
 - version: 4
   date: '2026-10-17'
   note: >-
-    The open question on other redundancy functions annotated with the held BROJA and I_ccs and with CLAIM-tmpqjpx1.
+    The open question on other redundancy functions annotated with the held BROJA and I_ccs and with CLAIM-343.
 date: '2026-09-25'
 summary: >-
   Varley and Hoel apply a PID, with the Williams–Beer I_min redundancy, to
@@ -164,7 +164,7 @@ Other lineage named in the paper: Hoel et al. 2013 (EI causal emergence), Hoel 2
 
 ## Open questions
 
-- Does the B_syn shift survive other redundancy functions (MMI, BROJA, I_ccs, I_sx) and ΦID's finer target decomposition? (Annotated 2026-10-17: BROJA and I_ccs are now held, [LIT-1162](../literature.d/LIT-1162.md) and [LIT-tmpeucmj](../literature.d/LIT-tmpeucmj.md). For more than two elements no identity-respecting function keeps atoms nonnegative, [CLAIM-tmpqjpx1](../claims.d/CLAIM-tmpqjpx1.md).)
+- Does the B_syn shift survive other redundancy functions (MMI, BROJA, I_ccs, I_sx) and ΦID's finer target decomposition? (Annotated 2026-10-17: BROJA and I_ccs are now held, [LIT-1162](../literature.d/LIT-1162.md) and [LIT-1201](../literature.d/LIT-1201.md). For more than two elements no identity-respecting function keeps atoms nonnegative, [CLAIM-343](../claims.d/CLAIM-343.md).)
 - Does it appear for coarse-grainings of real data or learned macroscales, rather than for constructed equivalence-class expansions?
 - At what scale does synergy peak? How can scales be found that maximise conversion while minimising MI loss? (The authors' own questions.)
 - Can "conversion" be localised with pointwise or local PID? (The authors' own suggestion, via Finn & Lizier.)

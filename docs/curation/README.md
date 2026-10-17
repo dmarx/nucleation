@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [17 Oct 02:53 — Multivariate redundancy: Griffith's view and the three-source impossibility, read; the record files why the gap cannot close as stated](2026-10.md#multivariate-redundancy-griffiths-view-and-the-three-source-impossibility-read-the-record-files-why-the-gap-cannot-close-as-stated)
 - [17 Oct 01:53 — Partial information decomposition: the I_min paper and two critiques, read, and the record's numbers checked under each](2026-10.md#partial-information-decomposition-the-i_min-paper-and-two-critiques-read-and-the-records-numbers-checked-under-each)
 - [17 Oct 00:25 — Transfer entropy: eight works filed, seven read, and whether it measures flow](2026-10.md#transfer-entropy-eight-works-filed-seven-read-and-whether-it-measures-flow)
 - [16 Oct 23:59 — Granger causality: five works filed, three read, and the record's own terms](2026-10.md#granger-causality-five-works-filed-three-read-and-the-records-own-terms)
@@ -100,9 +101,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-138 entries across 2 books, newest first.
+139 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 91 | 2026-10-01 | 2026-10-17 |
+| [2026-10](2026-10.md) | 92 | 2026-10-01 | 2026-10-17 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
