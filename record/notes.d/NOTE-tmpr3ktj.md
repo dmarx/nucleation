@@ -101,7 +101,7 @@ source was taken into account, given the destination's past.
 | C3 | Gliders and domain walls are the dominant information-transfer agents in ECAs | moderate | rules 110, 54, 18, 146, by inspection of profiles |
 | C4 | Apparent and complete TE can differ sharply, e.g. 0 against 1 bit in rule 18's domain | strong | §IV D; checked against the rule table |
 | C5 | Local TE gives insight the averages cannot | moderate | Fig. 7 against Figs. 3–6 |
-| C6 | The result "completes the establishment of transfer entropy as the appropriate measure for (predictive) information transfer" | weak | §V; a conclusion from one model class, later disputed (LIT-tmpa6og3) |
+| C6 | The result "completes the establishment of transfer entropy as the appropriate measure for (predictive) information transfer" | weak | §V; a conclusion from one model class, later disputed ([LIT-tmpa6og3](../literature.d/LIT-tmpa6og3.md)) |
 
 ## Method
 
@@ -125,9 +125,9 @@ source was taken into account, given the destination's past.
 
 ## Connections
 
-- **Builds on** Schreiber (2000, LIT-tmpz9o5z) for the measure and its k
+- **Builds on** Schreiber (2000, [LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md)) for the measure and its k
   and l, and computational mechanics for domains and particles. It names
-  Ay and Polani's perturbation-based information flow (LIT-tmpq33qh) as
+  Ay and Polani's perturbation-based information flow ([LIT-tmpq33qh](../literature.d/LIT-tmpq33qh.md)) as
   the causal alternative to compare against in future work.
 - **[NOTE-788](NOTE-788.md)** defines TE_{x→y}(τ) = I(y_{t+τ}; x_t | y_t), a single
   destination value. By this paper that is the k = 1 setting that failed
@@ -135,7 +135,7 @@ source was taken into account, given the destination's past.
   overdamped colloid pair, whose dynamics is close to first-order Markov,
   is a different question; the paper does not address continuous
   systems. My reading.
-- **Synergy (LIT-tmpa6og3, LIT-tmpsbhb4).** Rule 18's domain is XOR. Apparent TE
+- **Synergy ([LIT-tmpa6og3](../literature.d/LIT-tmpa6og3.md), [LIT-tmpsbhb4](../literature.d/LIT-tmpsbhb4.md)).** Rule 18's domain is XOR. Apparent TE
   misses what the two neighbours determine jointly; complete TE assigns
   it in full to each source in turn, 1 bit from each channel, so the
   summed complete profile counts the same bit twice. That is the
@@ -143,16 +143,16 @@ source was taken into account, given the destination's past.
   on other sources. My inference from the rule table; the paper reads the
   contrast as a difference between complex and chaotic dynamics.
 - **[THEORY-275](../theory.d/THEORY-275.md)** reads directional measures in a driven colloid pair. Local
-  TE would show where in time the drive's information enters; NOTE-788
+  TE would show where in time the drive's information enters; [NOTE-788](NOTE-788.md)
   reports averages only.
 
 ## Bearing on the record
 
-- Filed as THEORY-tmp22xor.
-- TERM-tmpj9z04 should state the history length k and l, the
+- Filed as [THEORY-tmp22xor](../theory.d/THEORY-tmp22xor.md).
+- [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md) should state the history length k and l, the
   apparent/complete distinction, and that the average is over a local
   quantity that can be negative.
-- CLAIM-tmpu9ivq can cite rule 18's domain as a worked case: TE conditioned
+- [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md) can cite rule 18's domain as a worked case: TE conditioned
   on the destination alone reports 0, conditioned on the other parent
   reports 1 bit from each source, and neither number is a flow from one
   source.

@@ -9,8 +9,8 @@ date: '2026-10-16'
 source:
 - LIT-tmps1x9k
 summary: >-
-  Lizier, Prokopenko & Zomaya (2008), LIT-tmps1x9k, read in full in
-  NOTE-tmpr3ktj. The local decomposition is an identity; the claims about
+  Lizier, Prokopenko & Zomaya (2008), [LIT-tmps1x9k](../literature.d/LIT-tmps1x9k.md), read in full in
+  [NOTE-tmpr3ktj](../notes.d/NOTE-tmpr3ktj.md). The local decomposition is an identity; the claims about
   k and about particles rest on elementary CAs judged by eye. Three worked
   local values and rule 18's XOR structure were checked.
 ---
@@ -21,7 +21,7 @@ summary: >-
 
 Lizier, Prokopenko & Zomaya (2008), "Local information transfer as a
 spatiotemporal filter for complex systems", arXiv 0809.3275v1 (Phys. Rev.
-E 77, 026110), LIT-tmps1x9k, read in full in NOTE-tmpr3ktj.
+E 77, 026110), [LIT-tmps1x9k](../literature.d/LIT-tmps1x9k.md), read in full in [NOTE-tmpr3ktj](../notes.d/NOTE-tmpr3ktj.md).
 
 ## What was actually shown
 
@@ -50,7 +50,7 @@ highlighted the background domain as much as the gliders, as k = 1 does.
 
 - **That transfer entropy measures a flow from one source.** Rule 18's
   domain has 1 bit determined jointly by two sources; apparent TE gives
-  it to neither and complete TE to each (CLAIM-tmpu9ivq).
+  it to neither and complete TE to each ([CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md)).
 - **That complete TE is available outside models.** It needs the causal
   parents.
 - **That a finite k is correct.** k is bounded by sample size, and the
@@ -63,7 +63,7 @@ highlighted the background domain as much as the gliders, as k = 1 does.
 
 ## Connections
 
-- Generalizes Schreiber's measure (LIT-tmpz9o5z) pointwise; its average is
+- Generalizes Schreiber's measure ([LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md)) pointwise; its average is
   [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)'s quantity.
-- NOTE-788's TE is the k = 1 case, which this paper finds structure-blind
+- [NOTE-788](../notes.d/NOTE-788.md)'s TE is the k = 1 case, which this paper finds structure-blind
   in rule 110.
