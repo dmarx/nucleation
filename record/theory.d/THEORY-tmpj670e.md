@@ -9,7 +9,7 @@ date: '2026-10-16'
 source:
 - LIT-tmp76vux
 summary: >-
-  Kraskov, Stögbauer & Grassberger (2004), LIT-tmp76vux, read in NOTE-tmpicuma
+  Kraskov, Stögbauer & Grassberger (2004), [LIT-tmp76vux](../literature.d/LIT-tmp76vux.md), read in [NOTE-tmpicuma](../notes.d/NOTE-tmpicuma.md)
   (formal sections in full, numerics at lower resolution). The estimators
   are derived up to one approximation and one neglected correction; the
   rest is numerical. Checked by simulation on correlated Gaussians.
@@ -20,8 +20,8 @@ summary: >-
 ## Source
 
 Kraskov, Stögbauer & Grassberger (2004), "Estimating Mutual Information",
-arXiv cond-mat/0305641v1 (Phys. Rev. E 69, 066138), LIT-tmp76vux, read in
-NOTE-tmpicuma.
+arXiv cond-mat/0305641v1 (Phys. Rev. E 69, 066138), [LIT-tmp76vux](../literature.d/LIT-tmp76vux.md), read in
+[NOTE-tmpicuma](../notes.d/NOTE-tmpicuma.md).
 
 ## What was actually shown
 
@@ -59,7 +59,7 @@ carried a k/N bias like the r ≠ 0 cases. In every case tested it did not.
 ## Connections
 
 - A transfer-entropy estimate built this way ([TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)) needs a
-  null other than THEORY-641's χ², which is for parametric and plug-in
+  null other than [THEORY-641](THEORY-641.md)'s χ², which is for parametric and plug-in
   estimators.
-- NOTE-788's mutual-information estimates use an implementation of this
+- [NOTE-788](../notes.d/NOTE-788.md)'s mutual-information estimates use an implementation of this
   estimator; its transfer entropy uses another.

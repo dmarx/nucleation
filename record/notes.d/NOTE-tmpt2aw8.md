@@ -107,17 +107,17 @@ prediction. It is not "how much of Y_t came from X".
 
 ## Connections
 
-- **Schreiber (2000, LIT-tmpz9o5z)** introduced transfer entropy as a
+- **Schreiber (2000, [LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md))** introduced transfer entropy as a
   measure of information transfer. This is the critique of that
   reading, not of the quantity. The authors "do not object to the transfer
   entropy as a measure of the reduction in uncertainty about one time
   series given another".
-- **Williams and Beer (2011, LIT-tmpsbhb4, NOTE-tmpr176u).** Example 1 is
+- **Williams and Beer (2011, [LIT-tmpsbhb4](../literature.d/LIT-tmpsbhb4.md), [NOTE-tmpr176u](NOTE-tmpr176u.md)).** Example 1 is
   their d = 1 process, the controlled-NOT, with the roles renamed. They
   call its 1 bit "state-dependent transfer entropy". This paper calls it
   synergy that is not flow. Both papers give the same decomposition; they
   disagree on what to call its synergistic part. The observation is mine.
-- **Barnett, Barrett and Seth (2009, LIT-tmpmi22s)** is cited for the
+- **Barnett, Barrett and Seth (2009, [LIT-tmpmi22s](../literature.d/LIT-tmpmi22s.md))** is cited for the
   identification of transfer entropy with Granger causality. With
   [THEORY-641](../theory.d/THEORY-641.md) that makes transfer entropy a predictive quantity, which
   this paper accepts. It denies the step from prediction to flow.
@@ -173,7 +173,7 @@ prediction. It is not "how much of Y_t came from X".
 
 - A measure of unique information that the field accepts, and whether it
   then behaves as flow should, for instance additively along chains.
-- Whether interventional flow (Ay and Polani, LIT-tmpq33qh) fails on
+- Whether interventional flow (Ay and Polani, [LIT-tmpq33qh](../literature.d/LIT-tmpq33qh.md)) fails on
   Example 1. Intervening on X_{t−1} alone moves Y_t, so an interventional
   measure would credit X with the bit. Whether that is a failure depends on
   which definition of flow one keeps.
