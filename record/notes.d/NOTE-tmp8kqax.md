@@ -102,7 +102,7 @@ follows by inclusion–exclusion on the lattice, not on sets.
 | C1 | Antichains of sources under ≼ form a lattice whose size is a Dedekind number | strong | Appendix C, citing Crampton and Loizou; sizes checked |
 | C2 | Any redundancy function on the lattice has a Möbius inverse that sums to the mutual informations | strong | Eqs. 6–9; standard order theory |
 | C3 | Under I_min every atom is nonnegative | strong | Theorems 2–5, proofs followed |
-| C4 | I_min measures redundancy in the intended sense: information common to all sources | weak | argued from its properties (§III); Harder, Salge and Polani give a counterexample (LIT-tmpgtytt) |
+| C4 | I_min measures redundancy in the intended sense: information common to all sources | weak | argued from its properties (§III); Harder, Salge and Polani give a counterexample ([LIT-tmpgtytt](../literature.d/LIT-tmpgtytt.md)) |
 | C5 | Interaction information confounds redundancy and synergy, and four-variable interaction information cannot tell pure synergy from pure redundancy | strong | Eqs. 14–15; checked on 3-parity and three copies |
 | C6 | Every atom has a "clear interpretation" as redundancy among synergies | interpretive | §IV; follows from the lattice, but what the atoms mean depends on the redundancy function |
 
@@ -146,7 +146,7 @@ follows by inclusion–exclusion on the lattice, not on sets.
   what is I_min's (C4).
 - [THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md) and [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md) rest on C2 only, as they say. The
   numbers past the two-term split rest on I_min; recomputed under
-  Harder, Salge and Polani's I_red they do not change (NOTE-tmpsow60).
+  Harder, Salge and Polani's I_red they do not change ([NOTE-tmpsow60](NOTE-tmpsow60.md)).
 - [NOTE-tmpr176u](NOTE-tmpr176u.md) and [LIT-tmpsbhb4](../literature.d/LIT-tmpsbhb4.md) say this paper is not held; now it is.
 - **For the Anthology of the SOTA:** no instruction for ML practice.
 
