@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'unread, registered 2026-10-17. A lawful copy was sought and not reached: Crossref lists only the Elsevier (ScienceDirect) copy, and web searches found no author-posted, repository or course-hosted copy. A 2002 Wuppertal dissertation by Andreas Kaiser on nonlinear coupling measures is openly hosted but is a different work, and was not read in its place. Known through Barnett, Barrett and Seth (LIT-tmpmi22s), which cite it for the conditional definition, for estimator problems and for a Gaussian formula, until a copy is supplied.'
+status_note: 'unread, registered 2026-10-17. A lawful copy was sought and not reached: Crossref lists only the Elsevier (ScienceDirect) copy, and web searches found no author-posted, repository or course-hosted copy. A 2002 Wuppertal dissertation by Andreas Kaiser on nonlinear coupling measures is openly hosted but is a different work, and was not read in its place. Known through Barnett, Barrett and Seth ([LIT-tmpmi22s](LIT-tmpmi22s.md)), which cite it for the conditional definition, for estimator problems and for a Gaussian formula, until a copy is supplied.'
 title: 'Information transfer in continuous processes'
 version: 1
 history:
@@ -42,7 +42,7 @@ Andreas Kaiser and Thomas Schreiber (2002), "Information transfer in continuous 
 
 - **Conditional transfer entropy.** Barnett, Barrett and Seth define
   T_{Y→X|Z} citing Schreiber (2000) and this paper together ([7, 18],
-  NOTE-tmp2veo7).
+  [NOTE-tmp2veo7](../notes.d/NOTE-tmp2veo7.md)).
 - **Estimation is hard.** They cite it for partition estimators that
   "frequently fail to converge to the correct result", and as "a good
   discussion" of the assumptions that kernel and nearest-neighbour
@@ -60,6 +60,6 @@ Andreas Kaiser and Thomas Schreiber (2002), "Information transfer in continuous 
 ## Standing in the record
 
 Filed on 2026-10-17 as the continuous-process sequel to Schreiber (2000,
-LIT-tmpz9o5z), whose ε → 0 claim it presumably develops. That is an
+[LIT-tmpz9o5z](LIT-tmpz9o5z.md)), whose ε → 0 claim it presumably develops. That is an
 inference from its title and the citations above, to be checked against
 the text when a copy is supplied.
