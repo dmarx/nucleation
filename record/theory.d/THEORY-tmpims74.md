@@ -1,73 +1,80 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpims74:` heading; the lint checks
-# that the two agree.
-title: 'x'
-
+status: Active
+title: "Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- information-theory
 - complex-systems
-
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpx01yr
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Griffith & Koch (2014), [LIT-tmpx01yr](../literature.d/LIT-tmpx01yr.md), read in full in [NOTE-tmp71sln](../notes.d/NOTE-tmp71sln.md), v6
+  with v1–v2 checked. The definitions, the criticisms of S_max, WMS and ΔI,
+  and the properties proved in Appendix C are exact, and every Table 1
+  value for two predictors was recomputed. The identification with
+  Bertschinger et al.'s CI for two sources is the record's derivation.
+  Monotonicity is claimed without proof, and the S_max bound's proof has
+  a step the reading could not reconstruct.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpims74: x
+# THEORY-tmpims74: Synergy can be measured as the whole minus the union of its parts, the union information being the least information the sources could jointly carry about the target with every source–target marginal held fixed; this synergy lies between WholeMinusSum and Williams and Beer's S_max, which respectively subtract redundancy and count unique information as synergy, and for two sources it is Bertschinger et al.'s synergy, so independent sources can share information about a target, as the authors' last version concedes against their first
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Griffith & Koch (2014), "Quantifying synergistic mutual information",
+arXiv 1205.4265v6 (Guided Self-Organization: Inception, Springer),
+[LIT-tmpx01yr](../literature.d/LIT-tmpx01yr.md), read in full in [NOTE-tmp71sln](../notes.d/NOTE-tmp71sln.md). v1 and v2 were read for the
+passage v6 withdraws. The book chapter was not compared.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**The measure.** I_VK = min I*(X_1…n : Y) over Pr* with every
+Pr*(X_i, Y) fixed; S_VK = I(X_1…n : Y) − I_VK (Eqs. 13–14). The product
+Pr(y)ΠPr(x_i|y) is feasible and bounds I_VK above.
+
+**Against the prior measures (Table 1, recomputed).** S_max gives Unq 1
+bit of synergy, where there are two unique bits. WholeMinusSum gives
+RdnXor 0, one bit of synergy minus one of redundancy. ΔI gives AND 0.104,
+below WholeMinusSum's 0.189, and AndDuplicate 0.038. S_VK gives the
+intended answer wherever one is stipulated.
+
+**Properties.** Proved: global positivity, self-redundancy, weak
+symmetry, weak local positivity for two sources, strong identity
+I_VK(X : X_1…n) = H(X_1…n). Claimed without proof: monotonicity, target
+monotonicity. Disproved: strong symmetry.
+
+**Two sources.** The constraint set is Bertschinger et al.'s Δ_P, and
+H(Y) is fixed on it, so minimising I*(X_1X_2 : Y) is their maximisation
+of H(Y | X_1X_2). S_VK is their CI. For AND that gives 0.5 bit of
+synergy and 0.311 of redundancy, the top of the paper's open interval
+[0.270, 0.5]. The record's derivation, checked numerically.
+
+**The reversal.** v1–v2 give AND zero redundancy "because X1 and X2 are
+independent". v6 calls that an error and bounds AND's redundancy below
+by 0.082.
+
+What could have come out otherwise: I_VK's bound could have failed to
+separate AND's synergy from WholeMinusSum's 0.189. It gives at least
+0.270.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That S_VK is the right synergy.** The test is stipulated intuition on
+  circuits, and AND's answer was left open.
+- **Anything settled for three or more predictors.** I_VK is defined for
+  any n and keeps strong identity, but nonnegativity of the induced
+  atoms and monotonicity are not proved there, and the authors say they
+  were blocked.
+- **That independent sources must share information.** v6 says they can
+  under this measure; whether they should is the dispute between
+  [THEORY-708](THEORY-708.md) and [THEORY-tmp7uuzn](THEORY-tmp7uuzn.md).
+
+## Connections
+
+- For two sources it coincides with [THEORY-705](THEORY-705.md), which supplies the
+  proofs of nonnegativity and identity this paper lacks there.
+- It corrects the S_max built from Williams and Beer's I_max ([LIT-1172](../literature.d/LIT-1172.md))
+  on unique information, as [THEORY-708](THEORY-708.md) corrects [THEORY-706](THEORY-706.md)'s I_min on
+  shared information.
+- [THEORY-tmp7uuzn](THEORY-tmp7uuzn.md) formalises the v1 position this version withdraws.

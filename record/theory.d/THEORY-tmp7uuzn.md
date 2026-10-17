@@ -1,73 +1,74 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp7uuzn:` heading; the lint checks
-# that the two agree.
-title: 'y'
-
+status: Active
+title: "The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- information-theory
 - complex-systems
-
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpk8n6l
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Griffith, Chong, James, Ellison & Crutchfield (2014), [LIT-tmpk8n6l](../literature.d/LIT-tmpk8n6l.md), read
+  in full in [NOTE-tmpm0azr](../notes.d/NOTE-tmpm0azr.md). The lemmas are short and exact, and every
+  example was recomputed, with Harder, Salge and Polani's copy family and
+  a three-source copy added. It is the record's one redundancy defined for
+  n > 2, and it does not have the identity property there or for n = 2.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmp7uuzn: y
+# THEORY-tmp7uuzn: The information about a target carried by the Gács–Körner common random variable of the sources is a redundancy defined for any number of sources that is nonnegative, target-monotone and no larger than I_min, and is a lower bound on any reasonable redundancy; but it counts only deterministic shared structure, so it is zero whenever the sources' joint distribution has full support, fails the identity property and continuity, and gives negative synergy already for two sources
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Griffith, Chong, James, Ellison & Crutchfield (2014), "Intersection
+Information Based on Common Randomness", arXiv 1310.1538v3 (Entropy 16,
+1985–2000), [LIT-tmpk8n6l](../literature.d/LIT-tmpk8n6l.md), read in full in [NOTE-tmpm0azr](../notes.d/NOTE-tmpm0azr.md).
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**The measure (Lemma 8).** I_∧(X_1, …, X_n : Y) = I(X_1 ∧ … ∧ X_n : Y),
+the most information about Y in any variable that is a function of every
+source.
+
+**Properties (Lemmas 4–6, 9).** Global positivity, equivalence-class
+invariance, target monotonicity, weak monotonicity, weak symmetry, lower
+bound, self-redundancy; I_∧ ≤ I_min. Not identity, local positivity,
+strong monotonicity or strong symmetry.
+
+**The failure.** Any noise between the sources makes their common random
+variable trivial. ImperfectRdn: I_∧ = 0 and synergy −0.99 bit
+(recomputed −0.9896). On Harder, Salge and Polani's copy family I_∧ is 0
+for every correlation short of perfect, against I(X : Y) up to 0.24 bit,
+so synergy is −I(X : Y).
+
+**The zero-error variant.** H(∧X_i ∧ Y) satisfies nine of eleven
+properties, identity for zero-error information among them, and still
+gives Subtle −0.252 bit (recomputed −0.2516).
+
+**More than two sources (recomputed).** For a target copying three
+equally correlated bits, I_∧ is 1 at full correlation and 0 at λ = 0.5,
+where each pairwise mutual information is 0.046.
+
+What could have come out otherwise: the common random variable could
+have captured ImperfectRdn's 0.99 bit of near-copy. It captures none.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That redundancy is only shared structure.** That is the measure's
+  premise, the source-redundancy pole of the dispute [THEORY-708](THEORY-708.md) takes
+  the other side of.
+- **That a multivariate identity-property redundancy exists or does not.**
+  This measure is multivariate and lacks identity. Whether any measure
+  can have both with local positivity is a separate question
+  (Rauh et al., [LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md)).
+- **Anything for noisy data.** It is zero there.
+
+## Connections
+
+- It is the "only correlation makes redundancy" view of Griffith and
+  Koch's first version ([THEORY-tmpims74](THEORY-tmpims74.md)), made exact: in AND it gives
+  their v1 answer, 0 redundant and 0.189 synergistic.
+- It lies below [THEORY-706](THEORY-706.md)'s I_min, and disagrees with [THEORY-708](THEORY-708.md) and
+  [THEORY-705](THEORY-705.md) wherever the sources are noisily correlated.
+- [THEORY-568](THEORY-568.md)'s Shannon invariants do not depend on it, since its atoms
+  satisfy the consistency equations.

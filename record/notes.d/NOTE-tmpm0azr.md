@@ -1,121 +1,162 @@
 ---
-# Don't copy this file by hand — run `luria new note`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A NOTE is a READING of a paper: what it contains, what it assumes, what it
-# proves, and how strongly. It is not the paper's standing in this record
-# — that is the LIT note's job, and the two are allowed to disagree
-# (ANTH-ADR-025).
-
-# Read | Skimmed | Unread | Superseded, from statuses.yaml beside this file.
-# This says HOW DEEPLY THE PAPER WAS READ, not whether it is any good.
-# Be honest here. `Skimmed` is a useful, respectable status and is
-# deliberately not in force: it is not enough to source a practice from,
-# and the whole scheme exists because the record could not previously tell
-# a read paper from an unread one.
-status: Skimmed
-
-# REQUIRED. The LIT code this is a reading of. The bibliography — title,
-# authors, year, arxiv — lives there and is NOT repeated here.
+status: Read
 paper: 'LIT-tmpk8n6l'
-
-# Repeat the paper's short name as the body's `# NOTE-xxx:` heading; the
-# lint checks that the two agree.
 title: 'Griffith, Chong, James, Ellison and Crutchfield — Intersection information based on common randomness'
-
 version: 1
-
-# There is deliberately no `tags:` line here either, for the same reason and a
-# stronger one. A reading's topics are DERIVED from the paper named in `paper:`
-# above — a note and its paper are the same paper, so a second copy of its
-# subject is a second copy free to disagree, and four of them were
-# (ANTH-ADR-038). Retag the LIT note; the reading follows.
-
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Read in full from arXiv 1310.1538v3 (10 June 2015), 14 pp.: §§1–7,
+    Figs. 1–4, Appendices A–C with all lemmas. Extracted with pdftotext;
+    Table 1's check marks did not survive, so the property list below is
+    taken from Lemmas 1–6. I recomputed every example, and the measure on
+    Harder, Salge and Polani's copy family and a three-source copy, with a
+    scratchpad script (griffith/gk_check.py), which finds the common
+    random variable as the connected components of the sources' support.
+    The Entropy version was not compared.
 date: '2026-10-17'
-
-# There is deliberately no `published:` line here. A reading's publication date
-# is DERIVED from the paper named in `paper:` above, and writing it down is a
-# lint violation — the value has one home and this is not it.
-
-# What the index table shows. One or two sentences: the finding, not the
-# subject area. Prose, so bare codes get linked by `luria link --fix`.
+summary: >-
+  The redundancy is the information about the target in the Gács–Körner
+  common random variable of the sources, I_∧ = I(X_1 ∧ … ∧ X_n : Y): the
+  largest I(Q : Y) for Q a function of every source. It is defined for any
+  n, satisfies target monotonicity, which no earlier measure did, and lies
+  below I_min. But it is zero whenever the sources have full support, so
+  it fails identity and continuity, and its synergy goes negative. A
+  zero-error variant satisfies identity in zero-error form and goes
+  negative too.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
-
-# NOTE-xxx: <paper short name>
+# NOTE-tmpm0azr: Griffith, Chong, James, Ellison and Crutchfield — Intersection information based on common randomness
 
 ## Contribution
 
-Two to four sentences. What did this add that did not exist before? Not what
-field it is in — what is true after it that was not true before.
+Before this paper the candidate redundancies (I_min, I_red, Bertschinger
+et al.'s, Griffith and Koch's) were all bivariate or unsatisfactory, and
+none had target monotonicity. This paper extends the list of desired
+properties to eleven, three of them new (a lower bound, strong
+monotonicity, equivalence-class invariance), and proposes the
+common-random-variable measure, which satisfies seven, target
+monotonicity among them, for any number of sources. It diagnoses its own
+main failure precisely.
 
 ## Key insight
 
-One paragraph. The single mental model this paper installs: the thing to
-remember if everything else is forgotten.
+What is certainly shared between sources is what each of them determines
+exactly: the finest variable that is a function of every source, the
+Gács–Körner common random variable. Its information about the target is
+uncontroversially redundant, so any reasonable redundancy is at least
+this much.
 
 ## Assumptions
 
-The formal conditions the main results require. State them as conditions,
-with the expressions where they have them.
-
-- `L`-smooth gradients: ‖∇f(x) − ∇f(y)‖ ≤ L‖x − y‖
-- Bounded stochastic variance: E[‖g − ∇f‖²] ≤ σ²
-- IID data across workers, or the heterogeneity bound if not
-
-Where a paper's setting is narrower than its title suggests, say so here
-rather than letting a reader assume it transfers.
+- **Finite variables**; X ≼ Y means X is a function of Y almost surely
+  (§2.1). The common random variable is computable for n variables by
+  the algorithm of Wolf and Wullschleger (§2.2).
+- **The intersection is relative to an information measure** I, Shannon
+  or zero-error (§2.3), with I(X : Y) = 0 for constant Y.
+- **Redundancy is deterministic shared structure.** This is the choice
+  that makes it zero under full support.
 
 ## Key results
 
-Theorem-level, with the **exact expressions**. `O(1/√(nK))` is more useful
-than "converges at the same rate as centralized". Give the regime each holds
-in.
+- **Lemma 8.** I_∧(X_1, …, X_n : Y) = I(X_1 ∧ … ∧ X_n : Y).
+- **Lemmas 4–6.** I_∧ satisfies GP, Eq, TM, M₀, S₀, LB and SR. It fails
+  LP₀ (ImperfectRdn), Id (Lemma 5: I_∧(X, Y : X ∨ Y) = H(X ∧ Y), not
+  I(X : Y)), M₁, S₁ and LP₁. The proof of Lemma 5 has "Y f Y" where
+  "X g Y" is meant, by its own argument.
+- **Lemmas 1–3.** The zero-error I₀∧ = H(X_1 ∧ … ∧ X_n ∧ Y) satisfies all
+  but LP₀ and LP₁, identity included in its zero-error form.
+- **Lemma 9.** 0 ≤ I₀∧ ≤ I_∧ ≤ I_min.
+- **Examples, recomputed** (bits; synergy derived through Eq. 7):
 
-- **Theorem 1** — statement. *Holds when:* the parameter regime.
+  | Example | I_∧ | synergy under I_∧ | I_min |
+  |---|---|---|---|
+  | Unq | 0 | 0 | 1 |
+  | RdnXor | 1 | 1 | 1 |
+  | ImperfectRdn | 0 | −0.9896 | 0.9896 |
+  | Subtle | 0 | −0.2516 | 0.5850 |
+  | Xor | 0 | 1 | 0 |
+  | And | 0 | 0.1887 | 0.3113 |
+  | Rdn | 1 | 0 | 1 |
+
+  The paper's −0.99 and −0.252 reproduce. The zero-error intersection
+  H(∧X_i ∧ Y) takes the same value as I_∧ in every example here; its
+  decomposition is of zero-error information, which I did not recompute.
+- **Copy family** (Harder, Salge and Polani's Z = (X, Y) with correlation
+  λ): I_∧ = 1 at λ = 0 and 0 for every λ in (0, 1], against I(X : Y) =
+  0.242, 0.046 and 0.003 at λ = 0.25, 0.5, 0.75. The identity property
+  fails everywhere strictly inside, and synergy is −I(X : Y) there.
+- **Three sources.** With Z = (X, Y, W) copying three correlated bits,
+  I_∧ is 1 at full correlation and 0 at λ = 0.5, where every pairwise
+  mutual information is 0.046. So for n > 2 it is nonnegative and defined,
+  but no closer to identity. My computation.
 
 ## Claims
 
-Only a `Read` note may fill this in. `strength` is about the *support*, not
-about how much you believe it.
-
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | plain English | strong / moderate / weak | Theorem 2 / experiment in §5 / informal argument |
-
-## Method
-
-*(Omit this section entirely for empirical or survey papers.)*
-
-The algorithm, its steps, and its components.
+| C1 | I_∧ = I(∧_i X_i : Y), and it is a lower bound on any reasonable redundancy | strong | Lemma 8; the bound is an argument from LB, which is a stipulated property |
+| C2 | I_∧ is the first intersection information to satisfy target monotonicity | moderate | Lemma 4 for I_∧; "first" against the four measures in Table 1 |
+| C3 | I_∧ fails identity and local positivity | strong | Lemma 5; ImperfectRdn −0.99, recomputed |
+| C4 | I_∧ is discontinuous: any noise between the sources sends it to zero | strong | §5.3; copy family recomputed |
+| C5 | The zero-error I₀∧ satisfies nine of eleven properties | strong | Lemmas 1–3 |
+| C6 | Negative synergy means the intersection is too small | moderate | §6, from Eq. 9 and the existence of functions f_1, f_2 with X_i = f_i(X_1 ∨ X_2) |
+| C7 | Within zero-error information, identity and local positivity are incompatible | moderate | Subtle (Fig. 4), and cited result of Bertschinger et al. [4] |
 
 ## Concepts
 
-Terms as *this paper* defines them, which is not always as the field uses
-them.
-
-- **term** — precise definition as used here.
+- **Common random variable X ∧ Y (meet)** — the informationally richest
+  variable that is a function of both (§2.2); its entropy is the
+  zero-error information.
+- **Join X ∨ Y** — the poorest variable both are functions of; the pair
+  (X, Y) is one instance.
+- **The eleven properties** — GP, Eq, TM, M₀, S₀, LB, Id, LP₀, M₁, S₁, LP₁
+  (§2.3).
 
 ## Connections
 
-How this builds on prior work, in prose. Machine-readable lineage —
-`extends:`, `corrects:`, `compared_against:` — is declared on the LIT and
-must not be duplicated here.
+- **Builds on** Williams and Beer's lattice ([LIT-1172](../literature.d/LIT-1172.md)), Gács and Körner
+  (1973), and Li and Chong's information lattice. Compares itself with
+  I_min and Harder, Salge and Polani's I_red ([LIT-1168](../literature.d/LIT-1168.md)).
+- **Griffith and Koch ([NOTE-tmp71sln](NOTE-tmp71sln.md)).** I_∧ formalises that paper's v1
+  view: redundancy only where the sources share structure, I_∧ ≤ H(X_1 ∧
+  X_2) ≤ I(X_1 : X_2). In AND it reproduces v1's answer exactly (0
+  redundant, 0.311 unique each, 0.189 synergy), which v6 had withdrawn.
+  My observation.
+- **Harder, Salge and Polani ([THEORY-708](../theory.d/THEORY-708.md)).** The two are the poles of the
+  mechanistic-redundancy dispute: I_red gives AND 0.311 bit redundant,
+  I_∧ gives 0.
+- **Bertschinger et al. ([THEORY-705](../theory.d/THEORY-705.md)).** Their measure satisfies identity
+  and local positivity for two sources. This one gives up both to reach
+  any n.
+- **[THEORY-568](../theory.d/THEORY-568.md).** The atoms here come from Eq. 7, so they satisfy the
+  consistency equations, and the Shannon invariants are unaffected; only
+  the individual atoms, which can be negative, change.
 
 ## Bearing on the record
 
-Which THEORY documents this reading supports, contradicts, or should
-produce. Name the codes. If a document cites this paper for something the
-paper does not say, this is where that gets written down. If the paper
-carries an instruction for machine-learning practice, it belongs in the
-Anthology of the SOTA, and this is where that is noted.
+- Filed as [THEORY-tmp7uuzn](../theory.d/THEORY-tmp7uuzn.md).
+- On the gap "no held measure gives ΦID an identity-property redundancy
+  for more than two sources": this measure is defined for any n and is
+  nonnegative, but it has no Shannon identity property and gives negative
+  atoms already for two sources. It does not close the gap. Its
+  zero-error variant has identity only for zero-error information.
+- [NOTE-010](NOTE-010.md)'s permutation (X¹, X²) → (X¹ ⊕ X², X¹): the sources share no
+  deterministic structure, so I_∧ = 0 and the synergy is 0, agreeing with
+  the identity-property measures there.
+- **For the Anthology of the SOTA:** no instruction for ML practice.
 
 ## Limitations
 
-What the paper does not establish, including what its own authors say it
-does not.
+- Zero under full support, so useless on noisy data, which the paper
+  says.
+- Negative synergy for two sources.
+- The eleven properties are a wish list. Some are argued for, not
+  derived, and Bertschinger et al. show some are jointly unsatisfiable.
 
 ## Open questions
 
-What it leaves open, and what result would close it.
+- A continuous measure with target monotonicity and local positivity
+  (the authors', §7.3).
+- What zero-error overlap I₀∧ misses in Subtle (§7.3).
