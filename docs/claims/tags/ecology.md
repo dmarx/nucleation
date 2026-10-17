@@ -6,8 +6,8 @@
 
 **Ecology** — how organisms interact with each other and their environment — symbiosis and host–microbe partnerships, competition, herbivory and trophic interactions, community structure, resilience and regime shifts in ecosystems (ADR-028).
 
-1 of 332 CLAIM documents. Back to the [full index](../README.md).
+1 of 335 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CLAIM-166](../../../record/claims.d/CLAIM-166.md) | A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest | The owner's thesis of 2026-10-11: "'who drives' isn't a constant. Considering myself as a multi-level agent, part of my composition is my microbiome ... that lower level collective is capable of influencing my higher level behavior and even phenomenological experience." The time claim is filed as the owner's. The microbiome claim is grounded in two reviews read the same day. The routes exist, and the effects are causal in rodents. The human evidence is modest: associations, small effects on subjective stress, and nulls. | Proposed |
+| [CLAIM-166](../../../record/claims.d/CLAIM-166.md) v2 | A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest | The owner's thesis of 2026-10-11: "'who drives' isn't a constant. Considering myself as a multi-level agent, part of my composition is my microbiome ... that lower level collective is capable of influencing my higher level behavior and even phenomenological experience." The time claim is filed as the owner's. The microbiome claim is grounded in two reviews read the same day. The routes exist, and the effects are causal in rodents. The human evidence is modest: associations, small effects on subjective stress, and nulls. | Proposed |

@@ -42,7 +42,7 @@ summary: >-
 supports:
 - CLAIM-154
 presupposed_by:
-- THEORY-tmpk6k4p
+- THEORY-564
 ---
 <!-- inactive-ok-file: THEORY-073 THEORY-079 — Proposed; named in Connections, no relation leans on them -->
 

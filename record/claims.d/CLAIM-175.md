@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    THEORY-tmplw3dq added to the grounds. It states the extended-mind
+    THEORY-579 added to the grounds. It states the extended-mind
     thesis whose "own terms" this claim argues on, with the point that the
     step from coupling to parthood is stated rather than argued. The claim
     is unchanged.
@@ -33,7 +33,7 @@ objects_to:
 - CLAIM-165
 grounds:
 - LIT-097
-- THEORY-tmplw3dq
+- THEORY-579
 - LIT-571
 - CASE-046
 uses:
@@ -49,7 +49,7 @@ summary: >-
   combined form and survives only as a question about selfhood. The name
   is not yet chosen.
 ---
-<!-- inactive-ok-file: THEORY-tmplw3dq — Proposed; the statement of the extended-mind thesis this claim argues on, cited as an open account -->
+<!-- inactive-ok-file: THEORY-579 — Proposed; the statement of the extended-mind thesis this claim argues on, cited as an open account -->
 <!-- inactive-ok-file: CLAIM-165 — Proposed; the objection this replies to, narrowed in answer -->
 
 # CLAIM-175: A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own

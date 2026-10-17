@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Grounds now point at THEORY-tmpaw5e2, which states the Kalish,
+    Grounds now point at THEORY-489, which states the Kalish,
     Griffiths and Lewandowsky result from its reading (NOTE-616), in place
     of the bare LIT-820. The claim is unchanged.
 role: granted
@@ -25,7 +25,7 @@ rests_on:
 grounds:
 - THEORY-155
 - LIT-771
-- THEORY-tmpaw5e2
+- THEORY-489
 - LIT-825
 - THEORY-167
 - THEORY-173

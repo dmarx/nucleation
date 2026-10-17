@@ -21,7 +21,7 @@ history:
     A Connections section added. It names the English translation (LIT-830,
     skimmed in NOTE-642), whose chapters II–III carry the same theses and
     functions as the Russian read here, with different signs, and the
-    Lévi-Strauss account (THEORY-tmp48ml1) that sets this morphology
+    Lévi-Strauss account (THEORY-432) that sets this morphology
     beside it as the syntagmatic contrast.
 tags:
 - myth-and-folklore
@@ -44,7 +44,7 @@ supports:
 - CLAIM-147
 - CLAIM-234
 ---
-<!-- inactive-ok-file: NOTE-642 THEORY-tmp48ml1 — Skimmed and Proposed; the English translation's skim and the Lévi-Strauss account, named in Connections, not leaned on -->
+<!-- inactive-ok-file: NOTE-642 THEORY-432 — Skimmed and Proposed; the English translation's skim and the Lévi-Strauss account, named in Connections, not leaned on -->
 
 # THEORY-167: The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how
 
@@ -114,7 +114,7 @@ reading did not check them, because the OCR garbles them.
   H–I and M–N in English, so symbols do not carry across without a table.
   The English title's "folktale" widens the class, which its own
   introducer calls misleading. The seven roles were not read in English.
-- **Lévi-Strauss's transformations ([THEORY-tmp48ml1](THEORY-tmp48ml1.md)).** Dundes, in the
+- **Lévi-Strauss's transformations ([THEORY-432](THEORY-432.md)).** Dundes, in the
   English edition's introduction, sets this morphology as the syntagmatic
   analysis, an order of functions read off the text, against Lévi-Strauss's
   paradigmatic regrouping.

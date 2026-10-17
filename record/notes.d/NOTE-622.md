@@ -32,7 +32,7 @@ summary: >-
   determined by its content's inferential role.
 ---
 <!-- inactive-ok-file: CLAIM-014 CLAIM-054 — Proposed; open, and cited as open: the claim is under test, not settled -->
-<!-- inactive-ok-file: THEORY-tmpx81wa — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-665 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-622: Making It Explicit
 
@@ -155,7 +155,7 @@ parasitic on it.
 - No THEORY is filed from a skim. No instruction for ML practice;
   nothing for the anthology.
 
-*Note of 2026-10-16:* [THEORY-tmpx81wa](../theory.d/THEORY-tmpx81wa.md) now cites [LIT-794](../literature.d/LIT-794.md) as a source.
+*Note of 2026-10-16:* [THEORY-665](../theory.d/THEORY-665.md) now cites [LIT-794](../literature.d/LIT-794.md) as a source.
 
 ## Limitations
 

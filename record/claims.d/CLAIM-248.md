@@ -15,7 +15,7 @@ history:
 - version: 3
   date: '2026-10-16'
   note: >-
-    Grounds now also name THEORY-tmpyh9bm, the account of LIT-833's
+    Grounds now also name THEORY-683, the account of LIT-833's
     measurement this claim relies on: good orders do not transfer across
     model sizes. The claim is unchanged.
 role: counter
@@ -29,7 +29,7 @@ rests_on:
 - CLAIM-085
 grounds:
 - LIT-833
-- THEORY-tmpyh9bm
+- THEORY-683
 objects_to:
 - CLAIM-058
 summary: >-

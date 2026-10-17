@@ -42,7 +42,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-188 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-049 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-005 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
-<!-- inactive-ok-file: THEORY-tmp8fvy7 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-465 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-100: Bourrat — Reproducees, reproducers, Darwinian individuals
 
@@ -202,7 +202,7 @@ The paper has no theorems, models or data. Its formal content is definitional.
 - **Across Bourrat's held papers,** the two formal weaknesses carry through all three: no computed measure, and conditioning on E in place of intervention with no stated distribution. This is the one of the three whose main contribution does not depend on its measures.
 - **No bearing on the Anthology of the SOTA.** The paper carries no instruction for ML practice and supports or contradicts no THEORY document. There are loose analogies, but they are the reader's own: heritable variation at fine grain as a condition for cumulative search (evolutionary algorithms, representation granularity), and the reproducer/reproducee split applied to self-replicating code. The paper makes no ML connection. Nothing here warrants an ANTH- document.
 
-*Note of 2026-10-16:* [THEORY-tmp8fvy7](../theory.d/THEORY-tmp8fvy7.md) now cites [LIT-157](../literature.d/LIT-157.md) as a source.
+*Note of 2026-10-16:* [THEORY-465](../theory.d/THEORY-465.md) now cites [LIT-157](../literature.d/LIT-157.md) as a source.
 
 ## Limitations
 

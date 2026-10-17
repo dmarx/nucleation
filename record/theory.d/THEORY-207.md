@@ -25,7 +25,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Adds `presupposes` THEORY-tmpjywiq. This account takes as its premise
+    Adds `presupposes` THEORY-561. This account takes as its premise
     that morally loaded outcomes arise from morally neutral interactions,
     which is the phenomenon Floridi 2013 (LIT-901) states and is now filed
     with its limits.
@@ -37,7 +37,7 @@ date: '2026-10-10'
 source:
 - LIT-899
 presupposes:
-- THEORY-tmpjywiq
+- THEORY-561
 summary: >-
   Floridi (2016), [LIT-899](../literature.d/LIT-899.md), read in [NOTE-699](../notes.d/NOTE-699.md). A distributed
   moral action is an outcome no one intended. Floridi proposes holding
@@ -51,7 +51,7 @@ summary: >-
 answers:
 - QUESTION-041
 ---
-<!-- inactive-ok-file: THEORY-tmpjywiq — Proposed; the account this one presupposes, filed in the same audit -->
+<!-- inactive-ok-file: THEORY-561 — Proposed; the account this one presupposes, filed in the same audit -->
 <!-- inactive-ok-file: THEORY-139 THEORY-147 — Proposed; named as adjacent accounts of responsibility, nothing here rests on them -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited as the question this account does not answer -->
 

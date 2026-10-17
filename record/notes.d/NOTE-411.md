@@ -101,7 +101,7 @@ a cluster of reciprocators who mostly meet each other.
 - **[LIT-101](../literature.d/LIT-101.md).** The w of condition (1) is the formal content of the "shadow of the future" behind the delay-of-gratification premise in moral disciplining ([NOTE-132](NOTE-132.md), A1).
 - **No THEORY is indicated.** No instruction for ML practice.
 
-*Note of 2026-10-16:* [THEORY-tmpxorvn](../theory.d/THEORY-tmpxorvn.md) now cites [LIT-498](../literature.d/LIT-498.md) as a source.
+*Note of 2026-10-16:* [THEORY-672](../theory.d/THEORY-672.md) now cites [LIT-498](../literature.d/LIT-498.md) as a source.
 
 ## Limitations
 

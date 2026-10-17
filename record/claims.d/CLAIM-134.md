@@ -11,7 +11,7 @@ history:
   note: >-
     The census sentence follows THEORY-034's corrected title: its dilemma
     reaches two of the record's readings, Floridi's and Esfeld and Lam's
-    (LIT-895, THEORY-tmp6p1ed), not Floridi's only.
+    (LIT-895, THEORY-453), not Floridi's only.
 role: counter
 warrant: interpretive
 tags:
@@ -35,7 +35,7 @@ summary: >-
   exchange's examples avoid. The owner's character move answers the
   dilemma for kinds and not for identity.
 ---
-<!-- inactive-ok-file: THEORY-tmp6p1ed — Proposed; the second position THEORY-034's census finds, cited as open -->
+<!-- inactive-ok-file: THEORY-453 — Proposed; the second position THEORY-034's census finds, cited as open -->
 <!-- inactive-ok-file: THEORY-034 — Proposed; cited as the held dilemma this objection applies, not as sound -->
 <!-- inactive-ok-file: CLAIM-136 CLAIM-137 — Proposed; the owner's theses this objection presses, both open -->
 
@@ -53,7 +53,7 @@ at all" (p. 197), so a view that strips every intrinsic feature away is
 eliminativism under another name. [THEORY-034](../theory.d/THEORY-034.md) reads the dilemma as well aimed
 only at structural realisms that keep relata but deny them every intrinsic
 identity-fixing feature, and finds two among the record's readings:
-Floridi's, and Esfeld and Lam's moderate structural realism ([THEORY-tmp6p1ed](../theory.d/THEORY-tmp6p1ed.md)),
+Floridi's, and Esfeld and Lam's moderate structural realism ([THEORY-453](../theory.d/THEORY-453.md)),
 which grants primitive numerical diversity much as A194 and A198 grant
 plurality. The owner's thesis would be the third.
 

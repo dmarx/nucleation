@@ -99,7 +99,7 @@ The paper builds on Hutchinson (1957, 1978), Roughgarden (1972: traits as proxie
 
 No nucleation THEORY documents are affected. It completes a small niche-concept cluster with [LIT-169](../literature.d/LIT-169.md) and [LIT-110](../literature.d/LIT-110.md). For ML practice: nothing. Its marginalization-across-individuals move is ordinary statistical estimation, and it carries no instruction for machine-learning practice.
 
-*Note of 2026-10-16:* [THEORY-tmp9fx7s](../theory.d/THEORY-tmp9fx7s.md) now cites [LIT-127](../literature.d/LIT-127.md) as a source.
+*Note of 2026-10-16:* [THEORY-473](../theory.d/THEORY-473.md) now cites [LIT-127](../literature.d/LIT-127.md) as a source.
 
 ## Limitations
 

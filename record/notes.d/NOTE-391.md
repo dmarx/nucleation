@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-188 — Proposed; Griesemer & Shavit, named as a neighbour for consolidation of practice into structure, a pairing this record draws, not leaned on -->
 <!-- inactive-ok-file: THEORY-043 — Proposed; named to say this chapter neither supports nor moves it -->
-<!-- inactive-ok-file: THEORY-tmpv1zbf — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-648 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-391: Durkheim — Qu'est-ce qu'un fait social ?
 
@@ -220,7 +220,7 @@ rates.
   for granted.
 - No ML instruction. Nothing belongs in the anthology.
 
-*Note of 2026-10-16:* [THEORY-tmpv1zbf](../theory.d/THEORY-tmpv1zbf.md) now cites [LIT-484](../literature.d/LIT-484.md) as a source.
+*Note of 2026-10-16:* [THEORY-648](../theory.d/THEORY-648.md) now cites [LIT-484](../literature.d/LIT-484.md) as a source.
 
 ## Limitations
 

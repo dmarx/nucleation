@@ -31,7 +31,7 @@ summary: >-
   persons, not three, take part in a fission.
 ---
 
-<!-- inactive-ok-file: THEORY-tmp9v34q — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-476 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-373: Survival and Identity
 
@@ -190,7 +190,7 @@ is the strongest case that the answer can be "many, counted as one until
 they diverge" without giving up identity. It carries no instruction for
 machine-learning practice.
 
-*Note of 2026-10-16:* [THEORY-tmp9v34q](../theory.d/THEORY-tmp9v34q.md) now cites [LIT-446](../literature.d/LIT-446.md) as a source.
+*Note of 2026-10-16:* [THEORY-476](../theory.d/THEORY-476.md) now cites [LIT-446](../literature.d/LIT-446.md) as a source.
 
 ## Limitations
 

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    THEORY-tmpaw5e2 added to grounds. The section on evidence from human
+    THEORY-489 added to grounds. The section on evidence from human
     chains argues from the Kalish, Griffiths and Lewandowsky result, which
     that THEORY now states with its limits. The claim is unchanged.
 role: thesis
@@ -31,7 +31,7 @@ grounds:
 - LIT-769
 - LIT-771
 - LIT-768
-- THEORY-tmpaw5e2
+- THEORY-489
 summary: >-
   The manuscript's §8, citing Bartlett, Griffiths and Kalish, and Kirby,
   Cornish and Smith together as showing the same thing. [CLAIM-066](CLAIM-066.md)

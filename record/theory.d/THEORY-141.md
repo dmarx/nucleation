@@ -34,7 +34,7 @@ summary: >-
 supports:
 - CLAIM-060
 rivals:
-- THEORY-tmppkom6
+- THEORY-607
 ---
 <!-- inactive-ok-file: LIT-721 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-135 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->

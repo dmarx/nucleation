@@ -40,7 +40,7 @@ summary: >-
 supports:
 - CLAIM-060
 ---
-<!-- inactive-ok-file: THEORY-tmp1lae7 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-411 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
 
 # THEORY-025: Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation
 
@@ -84,4 +84,4 @@ Robeyns ([LIT-287](../literature.d/LIT-287.md)) makes conversion one of the eigh
 - [LIT-284](../literature.d/LIT-284.md) (Wells) presents conversion variation and adaptive preferences as two of Sen's four motivating concerns. It softens the utilitarian argument by dropping its marginal-utility condition.
 - [LIT-202](../literature.d/LIT-202.md) (Pettigrew) discusses adaptive preferences in the context of consent. It cites Elster and Khader, not Sen, so the link is thematic.
 - [LIT-146](../literature.d/LIT-146.md) treats Nussbaum's capabilities as a value theory for animals.
-- [THEORY-tmp1lae7](THEORY-tmp1lae7.md) states what Sen puts in place of the metrics this account rejects: weights left to public reasoning, and a partial ordering where admissible weightings agree.
+- [THEORY-411](THEORY-411.md) states what Sen puts in place of the metrics this account rejects: weights left to public reasoning, and a partial ordering where admissible weightings agree.

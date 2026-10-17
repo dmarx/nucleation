@@ -32,7 +32,7 @@ summary: >-
 supports:
 - CLAIM-158
 presupposed_by:
-- THEORY-tmp1iff3
+- THEORY-410
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->

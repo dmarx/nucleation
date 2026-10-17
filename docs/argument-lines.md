@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-20 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+21 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -47,6 +47,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-302](../record/claims.d/CLAIM-302.md) — Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do *(Active)*
   - [CLAIM-304](../record/claims.d/CLAIM-304.md) — A rendering can keep a distinction recoverable in principle and make it infeasible to recover: if pseudorandom generators exist, a uniformly random bit can be encoded so that an unbounded receiver recovers it except with probability at most 2⁻⁽ⁿ⁺¹⁾, while no efficient receiver does non-negligibly better than chance *(Active)*
+
+### From Measuring every relevant variable is necessary but not sufficient for a Granger-causal analysis to say anything about interventions: the intervention must also be an isolated exogenous change and no influence may act within one sampling step, and then Granger noncausality implies no intervention effect and the effect is identified from the observational predictor, but a Granger-causal relation is still only potentially causal
+
+- [CLAIM-333](../record/claims.d/CLAIM-333.md) — Measuring every relevant variable is necessary but not sufficient for a Granger-causal analysis to say anything about interventions: the intervention must also be an isolated exogenous change and no influence may act within one sampling step, and then Granger noncausality implies no intervention effect and the effect is identified from the observational predictor, but a Granger-causal relation is still only potentially causal *(Active)*
+  - [CLAIM-334](../record/claims.d/CLAIM-334.md) — Granger causation from a macro variable to the micro variables it supervenes on, Seth's downward Granger causation, is not evidence of a macro-to-micro intervention effect, even with every micro variable measured: supervenience leaves no intervention on the macro variable that holds its micro base fixed at the same time *(Active)*
 
 ## nucleating-argument
 

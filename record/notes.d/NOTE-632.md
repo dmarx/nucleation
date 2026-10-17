@@ -33,7 +33,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-775 — Unavailable; named as the source of the method modelled, not leaned on -->
-<!-- inactive-ok-file: THEORY-tmp48ml1 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-432 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-632: Discrete-event simulation of Lévi-Strauss's myth analysis
 
@@ -194,7 +194,7 @@ not compare with any of them. Descola ([LIT-822](../literature.d/LIT-822.md)) is
 - No THEORY is filed: nothing here is a finding about myth. No
   instruction for machine-learning practice; nothing for the anthology.
 
-*Note of 2026-10-16:* [THEORY-tmp48ml1](../theory.d/THEORY-tmp48ml1.md) now cites [LIT-807](../literature.d/LIT-807.md) as a source.
+*Note of 2026-10-16:* [THEORY-432](../theory.d/THEORY-432.md) now cites [LIT-807](../literature.d/LIT-807.md) as a source.
 
 ## Limitations
 

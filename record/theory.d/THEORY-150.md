@@ -31,7 +31,7 @@ summary: >-
 supports:
 - CLAIM-060
 extended_by:
-- THEORY-tmp91ahm
+- THEORY-470
 ---
 <!-- inactive-ok-file: LIT-753 — Unavailable; cited for context or as the source of this reading, nothing here rests on its being settled -->
 

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpmri7d
 paper: LIT-027
 title: 'Emergence as the conversion of information'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-25'
@@ -18,6 +18,10 @@ history:
     made for publication, in particular to §5.1, are unverified.). Upgraded
     from `Skimmed` to `Read`: the claims table, assumptions and results are
     new, and the skim is corrected where the full text disagreed.
+- version: 3
+  date: '2026-10-17'
+  note: >-
+    The redundancy-function line annotated with the now-held critiques of I_min (LIT-1168, LIT-1162).
 date: '2026-09-25'
 summary: >-
   Varley and Hoel apply a PID, with the Williams–Beer I_min redundancy, to
@@ -50,7 +54,7 @@ Total information cannot rise under dimension reduction, since MI can only fall 
 - Discrete, Markovian Boolean networks given by a TPM.
 - For closed networks, P(X) is the stationary distribution, using the largest attractor, or networks built so that all states lie in one attractor (§2). The logic-gate examples are open systems and use maximum-entropy inputs at both scales (§3.1). The EI of §4 instead uses an interventional P(X) = H_max (Eq. 10).
 - PID with sources = past states of the individual elements and target = the *joint* future state (Eq. 7). This is the plain PID of TDMI, not ΦID.
-- Redundancy function: Williams–Beer I_min (Eq. 6), chosen because it is non-negative, works for more than two sources and is widely used. The authors acknowledge its critiques (§2.1). All results are conditional on it. No other measure was tried.
+- Redundancy function: Williams–Beer I_min (Eq. 6), chosen because it is non-negative, works for more than two sources and is widely used. The authors acknowledge its critiques (§2.1). All results are conditional on it. No other measure was tried. (Annotated 2026-10-17: the critiques are held, [LIT-1168](../literature.d/LIT-1168.md) and [LIT-1162](../literature.d/LIT-1162.md). I_min's error is on copied sources, where it overstates redundancy and synergy alike. These systems were not recomputed under another measure.)
 - PI-lattice "layers" are defined as sets of atoms at equal height (§2.3). The paper does not specify precisely how height is counted for n = 4 and 5 lattices ("we claim that these atoms comprise a 'layer'").
 - Expansion method: children of a split node form an equivalence class with "the same inputs and the same outputs". MI is exactly preserved and consistency is perfect. The precise splitting rule is in supplementary code I did not see. **If** the children behave as copies, part of the microscale's extra redundancy is put there by construction (unverified).
 - Generated systems: 200 "positive-Gaussian" TPMs (8×8, |N(0,1)| entries, rows normalised, fully connected 3-node binary). 185 "deterministic" systems (one successor with probability 0.99, the rest spread evenly for ergodicity). Each is expanded to a 4-node "mesoscale" and a 5-node "microscale".

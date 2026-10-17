@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpf6wkf
 paper: LIT-048
 title: 'Transfer entropy as a log-likelihood ratio'
-version: 2
+version: 4
 history:
 - version: 2
   date: '2026-09-25'
@@ -21,6 +21,17 @@ history:
     compare the PRL version (Phys. Rev. Lett. 109, 138105).). Upgraded from
     `Skimmed` to `Read`: the claims table, assumptions and results are new,
     and the skim is corrected where the full text disagreed.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    C7 checked against its source, Barnett, Barrett and Seth (2009), once
+    read (NOTE-934): exact, for population quantities under joint
+    Gaussianity.
+- version: 4
+  date: '2026-10-17'
+  note: >-
+    Connections names the now-held Schreiber (LIT-1177), Barnett,
+    Barrett and Seth (LIT-1171) and Geweke (LIT-1169).
 date: '2026-09-25'
 summary: >-
   For a parametric Markov model f(x_t | x^k_t, y^k_t; θ) of X, the
@@ -74,7 +85,7 @@ The average log-likelihood of a correctly specified Markov predictive model conv
 | C4 | Under T = 0, 2(n−k)T̂ is asymptotically χ²(d) | moderate | Theorem 1b; cited to Wald (1943), regularity not checked; Fig. 1A toy illustration |
 | C5 | Under T > 0 it is non-central χ²(d; 2(n−k)T) | weak | Theorem 1b; asserted from standard theory, and valid only as a local-alternative approximation (see corrections); Fig. 1B |
 | C6 | For finite-state chains the plug-in TE estimator is exactly the LR estimator, with d = (a−1)a^k(b^k−1) | strong | Eqs. 19–21; exact algebra |
-| C7 | For linear Gaussian VAR, T̂ = ½ × Granger causality | strong | p. 5; recovers the published result [3] |
+| C7 | For linear Gaussian VAR, T̂ = ½ × Granger causality | strong | p. 5; recovers the published result [3]. (Annotated 2026-10-16: checked against [3], [NOTE-934](NOTE-934.md), Eq. 13.) |
 | C8 | Theorem 1 extends to conditional TE | weak | assertion ("It may be verified", p. 5) |
 | C9 | The result removes the need for surrogate or subsampling tests | weak | concluding assertion (p. 8); holds only asymptotically and only under the model; no finite-sample comparison is given |
 | C10 | "Model transfer entropy" is the principled generalisation of Granger causality to nonlinear, GARCH or fractional-ARIMA models | weak | argument by analogy (p. 8); no such model is worked |
@@ -97,7 +108,7 @@ For discrete data the model is the saturated Markov chain, and steps 2–3 reduc
 
 ## Connections
 
-- **Builds on** Schreiber (2000) for the definition, Barnett, Barrett & Seth (2009) for the Gaussian TE–Granger equivalence, and Geweke (1982, 1984) for Granger causality and its conditional form. The χ² asymptotics come from Wald (1943). Amblard & Michel and Seghouane & Amari are cited as related work.
+- **Builds on** Schreiber (2000, [LIT-1177](../literature.d/LIT-1177.md)) for the definition, here with l = k, Barnett, Barrett & Seth (2009, [LIT-1171](../literature.d/LIT-1171.md)) for the Gaussian TE–Granger equivalence, and Geweke (1982 [LIT-1169](../literature.d/LIT-1169.md), 1984) for Granger causality and its conditional form. The χ² asymptotics come from Wald (1943). Amblard & Michel and Seghouane & Amari are cited as related work.
 - **[LIT-044](../literature.d/LIT-044.md) (Stigler, read in reads/c66.md).** This letter's inferential payload is Wald (1943) [30]. Stigler describes that paper as a form of completion of Fisher's 1922 argument (asymptotic sufficiency of ML), with conditions so restrictive that they excluded even estimating a normal standard deviation (Stigler §11–12). So Theorem 1b rests on exactly the regularity conditions Stigler says have always been hard to state. Stigler's Neyman–Scott warning, that ML fails when parameters grow with n, also bears on the finite-state case. There d = (a−1)a^k(b^k−1) grows exponentially in k, and the letter's own p. 7 flags the "curse of dimensionality" if k is allowed to grow. Neither text draws this connection; it is mine.
 - **[LIT-042](../literature.d/LIT-042.md) (Shannon invariants, read in reads/c35.md).** Take the sources to be the two pasts {X^k_t, Y^k_t} and the target X_t. Then T_{Y→X} = I(X_t ; Y^k_t | X^k_t) is exactly one summand, the j = Y term, of Σⱼ I(Xⱼ;Y|X₋ⱼ), the numerator of the "average degree of vulnerability" v̄ ([LIT-042](../literature.d/LIT-042.md), Prop. 2). So this letter supplies, under a parametric Markov model, a likelihood-ratio estimator with χ² asymptotics for one term of a Shannon invariant. The single-source terms I(Xᵢ;Y) of r̄ admit the same treatment. My inference is that r̄ and v̄ for time-series targets could be given model-based sampling distributions this way. Neither paper says so, and [LIT-042](../literature.d/LIT-042.md)'s networks are not Markov chains in this sense. The Shannon-invariant programme is redundancy-measure-free, and this letter is estimator-level. They meet only at the level of conditional mutual informations.
 - **[LIT-025](../literature.d/LIT-025.md) (ΦID causal-emergence review, read in reads/21.md).** [LIT-025](../literature.d/LIT-025.md) says its formalism is neutral between Granger and Pearl notions of causation. This letter is the precise statement of what "Granger-sense" information flow is: transfer entropy is a predictive, log-likelihood-ratio quantity, not an interventional one. [LIT-025](../literature.d/LIT-025.md)'s decomposition of past→future information I(X_t; X_t′) would include transfer-entropy-like terms. reads/21.md does not record [LIT-025](../literature.d/LIT-025.md) stating that transfer entropy is a sum of ΦID atoms, so I leave that unverified. Seth and Barrett, Barnett's 2009 co-authors on the Gaussian equivalence [3], are among [LIT-025](../literature.d/LIT-025.md)'s authors.

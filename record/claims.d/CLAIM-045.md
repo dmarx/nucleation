@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Grounds point at THEORY-tmpytg92, which states the Brooks result this
+    Grounds point at THEORY-689, which states the Brooks result this
     claim relies on (coherent behaviour from competing layers with no
     central executive), in place of the bare LIT-436.
 role: thesis
@@ -24,7 +24,7 @@ tags:
 date: '2026-10-04'
 line: distributed-agency
 grounds:
-- THEORY-tmpytg92
+- THEORY-689
 - THEORY-069
 - LIT-439
 objects_to:

@@ -28,7 +28,7 @@ history:
 - version: 4
   date: '2026-10-16'
   note: >-
-    grounds gains THEORY-tmpx1n2e, which states Simon's
+    grounds gains THEORY-661, which states Simon's
     near-decomposability result that the criterion relies on. The claim
     is unchanged.
 role: thesis
@@ -54,7 +54,7 @@ rests_on:
 - CLAIM-152
 grounds:
 - LIT-905
-- THEORY-tmpx1n2e
+- THEORY-661
 complements:
 - CLAIM-172
 - CLAIM-167

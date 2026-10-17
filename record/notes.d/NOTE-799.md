@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpo5gss
 paper: LIT-949
 title: 'Luppi et al. — A synergistic workspace for human consciousness'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -23,6 +23,11 @@ history:
     from their captions. The public reviews and author response linked
     from the article were not read. The reference list was checked only
     for the works named below.
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    The open question on a ΦID of transfer entropy annotated with
+    Williams and Beer's decomposition (THEORY-712) and CLAIM-335.
 date: '2026-10-14'
 summary: >-
   In resting-state fMRI, regions where synergistic interactions outrank
@@ -270,4 +275,9 @@ Deco et al.'s task-based, directed (transfer-entropy) workspace.
   stimulation) restore gateway ΦR? The paper proposes the test.
 - Would a directed decomposition (ΦID of transfer entropy) show
   broadcasting as directed redundancy from the FPN, rather than as
-  inferred from undirected participation?
+  inferred from undirected participation? (Annotated 2026-10-17: a PID of
+  transfer entropy exists, Williams and Beer's split into unique and
+  synergistic parts, [THEORY-712](../theory.d/THEORY-712.md). Since transfer entropy carries no
+  redundancy at all, directed redundancy would have to come from
+  time-delayed mutual information or a ΦID of the joint past, not from
+  transfer entropy itself; [CLAIM-335](../claims.d/CLAIM-335.md). That inference is the record's.)

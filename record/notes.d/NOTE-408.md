@@ -31,7 +31,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-503 — Proposed: the paper this note reads, placed by it -->
-<!-- inactive-ok-file: THEORY-tmp8vbpr — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-468 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, whose verdict this reading bears on -->
 
@@ -179,7 +179,7 @@ nothing outside cooperation is moralized in any culture. A THEORY document
 built on MAC should quote p. 40, and should say that no study in the record
 has tested it yet.
 
-*Note of 2026-10-16:* [THEORY-tmp8vbpr](../theory.d/THEORY-tmp8vbpr.md) and [THEORY-tmps5brs](../theory.d/THEORY-tmps5brs.md) now cite [LIT-503](../literature.d/LIT-503.md) as a source.
+*Note of 2026-10-16:* [THEORY-468](../theory.d/THEORY-468.md) and [THEORY-632](../theory.d/THEORY-632.md) now cite [LIT-503](../literature.d/LIT-503.md) as a source.
 
 ## Limitations
 

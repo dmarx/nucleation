@@ -29,7 +29,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test, which this paper criticizes by name for leaving out purity -->
-<!-- inactive-ok-file: THEORY-tmphcyt1 THEORY-tmpqgklr — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
+<!-- inactive-ok-file: THEORY-539 THEORY-613 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on them -->
 
 <!-- inactive-ok-file: LIT-496 — Proposed: the MAC-Q, filed in the same batch, the questionnaire this one would be compared with -->
 
@@ -173,7 +173,7 @@ pattern, not a universal one.
   authors say not to compare across groups without caution.
 - No THEORY document cites it. No ML instruction.
 
-*Note of 2026-10-16:* [THEORY-tmp4dj55](../theory.d/THEORY-tmp4dj55.md), [THEORY-tmphcyt1](../theory.d/THEORY-tmphcyt1.md) and [THEORY-tmpqgklr](../theory.d/THEORY-tmpqgklr.md) now cite [LIT-500](../literature.d/LIT-500.md) as a source.
+*Note of 2026-10-16:* [THEORY-435](../theory.d/THEORY-435.md), [THEORY-539](../theory.d/THEORY-539.md) and [THEORY-613](../theory.d/THEORY-613.md) now cite [LIT-500](../literature.d/LIT-500.md) as a source.
 
 ## Limitations
 

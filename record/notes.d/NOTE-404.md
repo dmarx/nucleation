@@ -99,7 +99,7 @@ unpredictability: any fixed persistence can be beaten by a little more.
 - **Division.** Not grounded: the war of attrition is about who gets the whole prize.
 - **No THEORY is indicated.** No instruction for ML practice.
 
-*Note of 2026-10-16:* [THEORY-tmp8lv8d](../theory.d/THEORY-tmp8lv8d.md) now cites [LIT-505](../literature.d/LIT-505.md) as a source.
+*Note of 2026-10-16:* [THEORY-466](../theory.d/THEORY-466.md) now cites [LIT-505](../literature.d/LIT-505.md) as a source.
 
 ## Limitations
 

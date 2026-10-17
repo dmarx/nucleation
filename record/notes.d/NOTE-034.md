@@ -49,7 +49,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the paper is placed by this reading; the directive lapses when its status changes -->
-<!-- inactive-ok-file: THEORY-tmp8vbpr — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-468 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 <!-- inactive-ok-file: LIT-046 — Proposed by its close reading; named in Connections -->
 <!-- inactive-ok-file: LIT-503 LIT-496 LIT-509 LIT-512 — Proposed (Watching): the programme papers, each named for what it does or does not test -->
@@ -150,7 +150,7 @@ If morals are solutions to recurrent cooperation problems, then each solution sh
 
 There is no instruction for ML practice. For this record's ethics and cooperation thread, it is the standard empirical citation for "cooperative behaviours are moralized positively across cultures". Any THEORY document citing it for universality should carry the caveat that the design could hardly find the opposite, and that fairness was seen in only 15% of societies. No anthology document is known to cite it.
 
-*Note of 2026-10-16:* [THEORY-tmp8vbpr](../theory.d/THEORY-tmp8vbpr.md) and [THEORY-tmpvm5mu](../theory.d/THEORY-tmpvm5mu.md) now cite [LIT-047](../literature.d/LIT-047.md) as a source.
+*Note of 2026-10-16:* [THEORY-468](../theory.d/THEORY-468.md) and [THEORY-653](../theory.d/THEORY-653.md) now cite [LIT-047](../literature.d/LIT-047.md) as a source.
 
 ## Limitations
 

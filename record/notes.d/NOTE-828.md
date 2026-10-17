@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp8mfe9
 paper: LIT-256
 title: 'Belghazi et al. — Mutual Information Neural Estimation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -21,6 +21,10 @@ history:
     a plot without a text layer and was read from the image and caption.
     The ICML version (PMLR 80:531–540) was not compared. Replaces the
     seeded skim NOTE-224.
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    Annotated with the now-held Kraskov et al. (LIT-1163) at the 20-dimension comparison.
 date: '2026-10-14'
 summary: >-
   Mutual information is the KL divergence of the joint from the product of
@@ -160,6 +164,12 @@ and its value at the optimum is the divergence.
     and Kraskov's k-NN estimator are "virtually indistinguishable" from the
     truth in 2 dimensions. In 20 dimensions MINE is much closer than
     Kraskov's, and, by the figure, still below the true MI at large |ρ|.
+    (Annotated 2026-10-17: Kraskov et al. is now held, [LIT-1163](../literature.d/LIT-1163.md), read in
+    [NOTE-938](NOTE-938.md). Its own Gaussian tests, Fig. 15 at N = 50 000, report
+    agreement "for all dimensions tested here"; the reading did not
+    recover the largest d tested, so whether d = 20 lies inside that range
+    is open. MINE's comparison may also differ in N and k, which this note
+    does not record.)
     MINE is tighter than MINE-f.
   - Y = f(X) + σ⊙ε with f ∈ {x, x³, sin x} (Fig. 2): the MINE estimate
     depends on σ, not on f, which the paper calls equitability.

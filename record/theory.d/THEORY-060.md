@@ -29,7 +29,7 @@ history:
 - version: 2
   date: '2026-10-16'
   note: >-
-    Strawson's account is now filed as THEORY-tmpyhvde and set as a rival.
+    Strawson's account is now filed as THEORY-684 and set as a rival.
     The Connections bullet that said no THEORY stated it is updated.
 tags:
 - narrative-unity
@@ -55,9 +55,9 @@ summary: >-
 answers:
 - QUESTION-043
 rivals:
-- THEORY-tmpyhvde
+- THEORY-684
 ---
-<!-- inactive-ok-file: THEORY-tmpyhvde — Proposed; Strawson's account, a rival, named as open -->
+<!-- inactive-ok-file: THEORY-684 — Proposed; Strawson's account, a rival, named as open -->
 <!-- inactive-ok-file: LIT-572 — Unavailable; McAdams and McLean 2013, named as the canonical review, not leaned on -->
 <!-- inactive-ok-file: THEORY-044 THEORY-050 THEORY-051 THEORY-076 THEORY-064 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
@@ -146,7 +146,7 @@ correlational.
   they do not experience as theirs, or lack the identity it constitutes. If
   the second is true, they should fare worse unless their story-less lives
   are offset otherwise. The two works already `rival` each other in the LIT
-  scheme, and Strawson's account, now stated in [THEORY-tmpyhvde](THEORY-tmpyhvde.md), rivals
+  scheme, and Strawson's account, now stated in [THEORY-684](THEORY-684.md), rivals
   this one. Strawson's evidence is testimony, and McAdams does not cite him;
   the ANIQ comparison in `promote_when` is where they would meet.
 - **Bratman's self-governance over time ([THEORY-076](THEORY-076.md)).** Bratman grants

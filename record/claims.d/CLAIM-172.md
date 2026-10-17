@@ -52,7 +52,7 @@ history:
 - version: 7
   date: '2026-10-16'
   note: >-
-    Grounds now point at THEORY-tmpma6ht, which states the
+    Grounds now point at THEORY-582, which states the
     coupling-constitution objection from its readings (NOTE-368,
     NOTE-380), in place of the bare LIT-455. That THEORY says the
     objection shows coupling does not entail parthood, not that coupling
@@ -61,7 +61,7 @@ history:
 - version: 8
   date: '2026-10-16'
   note: >-
-    Summary corrected to match NOTE-380 and THEORY-tmpma6ht: the
+    Summary corrected to match NOTE-380 and THEORY-582: the
     coupling-constitution objection says coupling does not entail
     parthood, not that it never makes it. The claim is unchanged.
 role: thesis
@@ -85,7 +85,7 @@ answers:
 grounds:
 - THEORY-069
 - LIT-097
-- THEORY-tmpma6ht
+- THEORY-582
 - LIT-439
 - LIT-571
 - THEORY-265

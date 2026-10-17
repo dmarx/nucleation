@@ -30,7 +30,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-200 — Proposed: read in full and unproven; cited by a close reading as a related account, not as an established result -->
 <!-- inactive-ok-file: LIT-144 — Unavailable: a related work named by a 2026-09-26 close reading on the metaphysics tag; lapses when the cited work is read -->
-<!-- inactive-ok-file: THEORY-tmpalevk — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-485 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-112: Poltorak — Wave-function realism and causal closure
 
@@ -94,7 +94,7 @@ Poltorak's test cases are Chen's taxonomy ([LIT-204](../literature.d/LIT-204.md)
 
 It bridges the wave-function cluster and the mental-causation and physicalism material ([LIT-144](../literature.d/LIT-144.md)). It supports no THEORY document. Nothing for ML practice.
 
-*Note of 2026-10-16:* [THEORY-tmpalevk](../theory.d/THEORY-tmpalevk.md) now cites [LIT-164](../literature.d/LIT-164.md) as a source.
+*Note of 2026-10-16:* [THEORY-485](../theory.d/THEORY-485.md) now cites [LIT-164](../literature.d/LIT-164.md) as a source.
 
 ## Limitations
 

@@ -31,7 +31,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test whose comparison with MFT this reading checks -->
-<!-- inactive-ok-file: THEORY-tmphcyt1 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-539 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 <!-- inactive-ok-file: LIT-496 — Proposed: the MAC-Q, filed in the same batch, whose MFQ studies bear on the purity point -->
 
@@ -211,7 +211,7 @@ pluralism is not.
   question is live.
 - No THEORY document cites it. No ML instruction.
 
-*Note of 2026-10-16:* [THEORY-tmp4dj55](../theory.d/THEORY-tmp4dj55.md) and [THEORY-tmphcyt1](../theory.d/THEORY-tmphcyt1.md) now cite [LIT-499](../literature.d/LIT-499.md) as a source.
+*Note of 2026-10-16:* [THEORY-435](../theory.d/THEORY-435.md) and [THEORY-539](../theory.d/THEORY-539.md) now cite [LIT-499](../literature.d/LIT-499.md) as a source.
 
 ## Limitations
 

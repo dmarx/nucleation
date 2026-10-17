@@ -31,7 +31,7 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-047 — Proposed: the sixty-society test of morality-as-cooperation, placed by NOTE-034; cited for the domains it coded -->
 <!-- inactive-ok-file: LIT-503 — Proposed: Curry 2016, the statement of morality-as-cooperation filed in the same batch; cited for which sources it credits for each domain -->
-<!-- inactive-ok-file: THEORY-tmpwdh1f — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-655 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-401: The Genetical Evolution of Social Behaviour. I
 
@@ -105,7 +105,7 @@ or four half-brothers, or eight first cousins" (§5).
 - **No other MAC domain** is grounded here. Contests, exchange and possession are absent; §4 mentions competition only as a case the model handles badly.
 - **No THEORY is indicated.** No instruction for ML practice.
 
-*Note of 2026-10-16:* [THEORY-tmp15rjw](../theory.d/THEORY-tmp15rjw.md) and [THEORY-tmpwdh1f](../theory.d/THEORY-tmpwdh1f.md) now cite [LIT-497](../literature.d/LIT-497.md) as a source.
+*Note of 2026-10-16:* [THEORY-408](../theory.d/THEORY-408.md) and [THEORY-655](../theory.d/THEORY-655.md) now cite [LIT-497](../literature.d/LIT-497.md) as a source.
 
 ## Limitations
 
