@@ -79,6 +79,11 @@ b(t + 1) on b(t), b(t − 1), a(t), a(t − 1) gives coefficients 0.601,
 which is the contemporaneous dependence. The intervention effect is
 ργ = 0.48.
 
+The process has zero full-history transfer entropy from a to b and
+positive directed information, all of it in the instantaneous term
+I(a(t); b(t) | past) ([THEORY-tmppkvwa](../theory.d/THEORY-tmppkvwa.md)). That term is what Granger causality and
+transfer entropy leave out.
+
 The example is a sampling problem, not a pathology. Any influence faster
 than the sampling interval, or any aggregation over time, puts the
 example's structure into the data.

@@ -86,3 +86,7 @@ because the bias cancels in the two-step predictor.
 - Supervenience rules out the intervention 2.3(i) requires for a macro
   variable, so macro-to-micro Granger causation is not an effect in this
   sense ([CLAIM-tmpa4kr6](../claims.d/CLAIM-tmpa4kr6.md)).
+- Ay and Polani's information flow ([THEORY-tmpkovi2](THEORY-tmpkovi2.md)) is the
+  information-theoretic measure of the same interventional notion. It
+  assumes the mechanisms are known; this paper supplies conditions for
+  identifying effects from observational data.

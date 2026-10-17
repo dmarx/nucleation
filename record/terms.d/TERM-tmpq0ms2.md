@@ -56,6 +56,13 @@ Three things are always relative and should be stated with it:
   ([THEORY-tmp0xaeq](../theory.d/THEORY-tmp0xaeq.md)). In general it is the likelihood-ratio limit of a
   well-specified model ([THEORY-641](../theory.d/THEORY-641.md)). Granger causality is the linear
   case, not an approximation to it, when the data are Gaussian.
+- **Directed information** (Massey). For Gaussian data Granger causality
+  corresponds to its lagged part, full-history transfer entropy; the
+  instantaneous part, which Geweke's measure of instantaneous feedback
+  tracks, is outside it ([THEORY-tmppkvwa](../theory.d/THEORY-tmppkvwa.md), [TERM-tmpj9z04](TERM-tmpj9z04.md)).
+- **Interventional information flow** (Ay and Polani), the
+  information-theoretic counterpart of an intervention effect
+  ([THEORY-tmpkovi2](../theory.d/THEORY-tmpkovi2.md)).
 - **Downward (Granger) causation** in Seth's sense: Granger causation from
   a macro variable to its micro variables. A use of the term, not a kind
   of causation ([CLAIM-tmpa4kr6](../claims.d/CLAIM-tmpa4kr6.md)).

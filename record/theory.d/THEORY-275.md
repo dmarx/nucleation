@@ -16,7 +16,14 @@ promote_when: >-
   further cases in the moderate regime alone, where flow is already
   two-way.
 title: "Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    A bullet added to What this does not say: "flow" is directed predictive
+    improvement, per CLAIM-tmpu9ivq, and the paper's transfer entropy uses a
+    single target value (TERM-tmpj9z04). The account is unchanged.
 tags:
 - information-theory
 - causality
@@ -92,6 +99,11 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
 - **It does not say that directional flow reveals the coupling.** It says
   the opposite. A symmetric coupling read as two-way at moderate drive
   and one-way at strong drive.
+- **It does not say information moves from one particle to the other.**
+  "Flow" here is the direction of predictive improvement. Transfer entropy
+  is unique plus synergistic information, not information attributable to
+  the source alone ([CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md)), and the paper's transfer entropy uses a
+  single target value ([TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)).
 - **It does not establish the strong-drive result experimentally.** θ ≫ 1
   is "beyond our experimental regime".
 - **It is one linear, Gaussian, two-body system** with an analytically
