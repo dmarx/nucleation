@@ -10,8 +10,8 @@ date: '2026-10-17'
 source:
 - LIT-tmpa6og3
 summary: >-
-  James, Barnett & Crutchfield (2016), LIT-tmpa6og3, read in full in
-  NOTE-tmpt2aw8. Both examples are exact and were recomputed. The
+  James, Barnett & Crutchfield (2016), [LIT-tmpa6og3](../literature.d/LIT-tmpa6og3.md), read in full in
+  [NOTE-tmpt2aw8](../notes.d/NOTE-tmpt2aw8.md). Both examples are exact and were recomputed. The
   decomposition holds for any PID satisfying the consistency equations.
   The conclusion is relative to the authors' definition of flow; transfer
   entropy as predictive improvement is untouched. The claims about
@@ -25,7 +25,7 @@ summary: >-
 
 James, Barnett & Crutchfield (2016), "Information Flows? A Critique of
 Transfer Entropies", arXiv 1512.06479v2 (Phys. Rev. Lett. 116, 238701),
-LIT-tmpa6og3, read in full in NOTE-tmpt2aw8.
+[LIT-tmpa6og3](../literature.d/LIT-tmpa6og3.md), read in full in [NOTE-tmpt2aw8](../notes.d/NOTE-tmpt2aw8.md).
 
 ## What was actually shown
 
@@ -56,11 +56,11 @@ measure.
 - **That transfer entropy is wrong as a measure of predictive
   improvement.** The authors say they "do not object" to it as the
   reduction in uncertainty about one series given another. [THEORY-641](THEORY-641.md)
-  and THEORY-tmp0xaeq stand.
+  and [THEORY-tmp0xaeq](THEORY-tmp0xaeq.md) stand.
 - **That X has no causal influence on Y in Example 1.** Intervening on
   X_{t−1} changes Y_t. The failure is in localizing the bit to X, not in
-  detecting X's influence. That is the record's observation (NOTE-tmpt2aw8),
-  and it is separate from CLAIM-tmp6nu4a's point about intervention.
+  detecting X's influence. That is the record's observation ([NOTE-tmpt2aw8](../notes.d/NOTE-tmpt2aw8.md)),
+  and it is separate from [CLAIM-tmp6nu4a](../claims.d/CLAIM-tmp6nu4a.md)'s point about intervention.
 - **How much of a transfer entropy is synergy outside the XOR case.** That
   depends on the redundancy measure, and none is agreed.
 - **That directed information or Ay and Polani's interventional flow fail
@@ -70,7 +70,7 @@ measure.
 
 ## Connections
 
-- Williams and Beer (2011, THEORY-tmpt4nh7) give the same decomposition
+- Williams and Beer (2011, [THEORY-tmpt4nh7](THEORY-tmpt4nh7.md)) give the same decomposition
   and call the synergistic part state-dependent transfer. The two accounts
   agree on the mathematics and disagree on whether that part is
   "transfer".
@@ -80,5 +80,5 @@ measure.
 - [THEORY-257](THEORY-257.md)'s dynamical independence uses transfer entropy from the whole
   micro history at once. Example 2 shows why the pairwise version would
   not do. The record's inference.
-- TERM-tmpj9z04 states transfer entropy in the record's words;
-  CLAIM-tmpu9ivq is the record's position.
+- [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md) states transfer entropy in the record's words;
+  [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md) is the record's position.

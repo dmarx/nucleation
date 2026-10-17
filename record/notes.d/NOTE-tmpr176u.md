@@ -121,12 +121,12 @@ own state.
 
 ## Connections
 
-- **Builds on** Schreiber (2000, LIT-tmpz9o5z) and Kaiser and Schreiber
-  (2002, LIT-tmpfgfsh) for transfer entropy and the physiological data,
+- **Builds on** Schreiber (2000, [LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md)) and Kaiser and Schreiber
+  (2002, [LIT-tmpfgfsh](../literature.d/LIT-tmpfgfsh.md)) for transfer entropy and the physiological data,
   Williams and Beer (2010) for PID, and Touchette and Lloyd for
-  controllability. Lizier et al. (2008, LIT-tmps1x9k) and Frenzel and
+  controllability. Lizier et al. (2008, [LIT-tmps1x9k](../literature.d/LIT-tmps1x9k.md)) and Frenzel and
   Pompe are named as conditioning-based multivariate transfer.
-- **James, Barnett and Crutchfield (2016, LIT-tmpa6og3, NOTE-tmpt2aw8)**
+- **James, Barnett and Crutchfield (2016, [LIT-tmpa6og3](../literature.d/LIT-tmpa6og3.md), [NOTE-tmpt2aw8](NOTE-tmpt2aw8.md))**
   cite this as [18] for associating flow with unique information. Their
   Example 1 is this paper's d = 1 process. Here its bit is
   "state-dependent transfer"; there it is synergy that is not flow. The

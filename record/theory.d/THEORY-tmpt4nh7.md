@@ -9,8 +9,8 @@ date: '2026-10-17'
 source:
 - LIT-tmpsbhb4
 summary: >-
-  Williams & Beer (2011), LIT-tmpsbhb4, an arXiv preprint, read in full in
-  NOTE-tmpr176u. The two-term split is an identity from the consistency
+  Williams & Beer (2011), [LIT-tmpsbhb4](../literature.d/LIT-tmpsbhb4.md), an arXiv preprint, read in full in
+  [NOTE-tmpr176u](../notes.d/NOTE-tmpr176u.md). The two-term split is an identity from the consistency
   equations; the sizes of the terms, the control theorem and the
   multivariate split use I_min, which the record has not read argued for.
   The one-parameter family and the three corners of the two-source family
@@ -22,7 +22,7 @@ summary: >-
 ## Source
 
 Williams & Beer (2011), "Generalized Measures of Information Transfer",
-arXiv 1102.1507v1, LIT-tmpsbhb4, read in full in NOTE-tmpr176u.
+arXiv 1102.1507v1, [LIT-tmpsbhb4](../literature.d/LIT-tmpsbhb4.md), read in full in [NOTE-tmpr176u](../notes.d/NOTE-tmpr176u.md).
 
 ## What was actually shown
 
@@ -52,7 +52,7 @@ none there.
   measure.** Only the split is measure-free. The numbers away from the
   corners are I_min's.
 - **That SDTE is information flow.** It is the synergistic term
-  THEORY-tmpijy6i says is not localizable to the source. "Transfer" is
+  [THEORY-tmpijy6i](THEORY-tmpijy6i.md) says is not localizable to the source. "Transfer" is
   the authors' word.
 - **That SITE and SDTE grade open- and closed-loop influence in
   general.** Theorem 1 is about perfect controllability.
@@ -60,9 +60,9 @@ none there.
 
 ## Connections
 
-- THEORY-tmpijy6i uses this decomposition against the flow reading.
+- [THEORY-tmpijy6i](THEORY-tmpijy6i.md) uses this decomposition against the flow reading.
 - [THEORY-568](THEORY-568.md)'s averages need only the consistency equations, the same
   property the split here needs.
 - [THEORY-497](THEORY-497.md) records that ΦID verdicts can turn on the redundancy function;
   so can SITE and SDTE.
-- TERM-tmpj9z04 states transfer entropy in the record's words.
+- [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md) states transfer entropy in the record's words.
