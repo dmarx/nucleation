@@ -1,73 +1,84 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpijy6i:` heading; the lint checks
-# that the two agree.
-title: 'x'
-
+status: Active
+title: "Transfer entropy is not a measure of information flow, if flow means information in the target attributable solely to the source's past: as a conditional mutual information it equals the source's unique information plus its synergy with the target's past, so it can credit a full bit to a source that carries none alone (Y_t = X_{t−1} ⊕ Y_{t−1}) and report zero from each of two sources that jointly fix the target (Z_t = X_{t−1} ⊕ Y_{t−1}); conditioning on further series, as causation entropy does, has the same fault"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- information-theory
 - complex-systems
-
+- causality
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpa6og3
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  James, Barnett & Crutchfield (2016), LIT-tmpa6og3, read in full in
+  NOTE-tmpt2aw8. Both examples are exact and were recomputed. The
+  decomposition holds for any PID satisfying the consistency equations.
+  The conclusion is relative to the authors' definition of flow; transfer
+  entropy as predictive improvement is untouched. The claims about
+  directed information, interventional flow and Gaussian systems are
+  cited or conjectured.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpijy6i: x
+# THEORY-tmpijy6i: Transfer entropy is not a measure of information flow, if flow means information in the target attributable solely to the source's past: as a conditional mutual information it equals the source's unique information plus its synergy with the target's past, so it can credit a full bit to a source that carries none alone (Y_t = X_{t−1} ⊕ Y_{t−1}) and report zero from each of two sources that jointly fix the target (Z_t = X_{t−1} ⊕ Y_{t−1}); conditioning on further series, as causation entropy does, has the same fault
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+James, Barnett & Crutchfield (2016), "Information Flows? A Critique of
+Transfer Entropies", arXiv 1512.06479v2 (Phys. Rev. Lett. 116, 238701),
+LIT-tmpa6og3, read in full in NOTE-tmpt2aw8.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**Flow, defined.** Information in Y_t whose cause "can be solely
+attributed to X's past" (p. 1).
+
+**Overestimate.** X_t, Y_0 fair bits, Y_t = X_{t−1} ⊕ Y_{t−1}:
+T_{X→Y} = 1 bit, while I[Y_t : X_{0:t}] = I[Y_t : Y_{0:t}] = 0 and
+I[Y_t : Y_{0:t} | X_{0:t}] = 1. Read one way X's past predicts Y_t, read
+the other way Y's past does. The co-information is −1. Recomputed: the
+I_min PID gives 1 bit of synergy and nothing else.
+
+**Underestimate.** X, Y fair bits, Z_t = X_{t−1} ⊕ Y_{t−1}:
+T_{X→Z} = T_{Y→Z} = 0 and every pairwise information is 0, while
+C_{X→Z|(Y,Z)} = C_{Y→Z|(X,Z)} = 1. Recomputed.
+
+**Why.** I[X₁ : Y | X₂] = U₁ + S. Transfer entropy, with the source's past
+as X₁ and the target's past as X₂, is unique plus synergistic information.
+Conditioning removes redundancy and adds synergy; it is not subtraction.
+
+What could have come out otherwise: Example 1's bit could have been
+attributable to one past. It is not, under any PID, because XOR with
+independent uniform inputs is pure synergy for every proposed redundancy
+measure.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That transfer entropy is wrong as a measure of predictive
+  improvement.** The authors say they "do not object" to it as the
+  reduction in uncertainty about one series given another. [THEORY-641](THEORY-641.md)
+  and THEORY-tmp0xaeq stand.
+- **That X has no causal influence on Y in Example 1.** Intervening on
+  X_{t−1} changes Y_t. The failure is in localizing the bit to X, not in
+  detecting X's influence. That is the record's observation (NOTE-tmpt2aw8),
+  and it is separate from CLAIM-tmp6nu4a's point about intervention.
+- **How much of a transfer entropy is synergy outside the XOR case.** That
+  depends on the redundancy measure, and none is agreed.
+- **That directed information or Ay and Polani's interventional flow fail
+  the same way.** The first is asserted from its being "essentially a sum
+  of transfer entropies"; the second is a conjecture.
+- **That unique information measures flow.** Proposed, not shown.
+
+## Connections
+
+- Williams and Beer (2011, THEORY-tmpt4nh7) give the same decomposition
+  and call the synergistic part state-dependent transfer. The two accounts
+  agree on the mathematics and disagree on whether that part is
+  "transfer".
+- [THEORY-497](THEORY-497.md)'s ΦID decomposes past→future information into source and
+  target atoms, which is the kind of tool that would separate the parts
+  this account says transfer entropy conflates.
+- [THEORY-257](THEORY-257.md)'s dynamical independence uses transfer entropy from the whole
+  micro history at once. Example 2 shows why the pairwise version would
+  not do. The record's inference.
+- TERM-tmpj9z04 states transfer entropy in the record's words;
+  CLAIM-tmpu9ivq is the record's position.
