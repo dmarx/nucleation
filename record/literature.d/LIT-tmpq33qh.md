@@ -36,7 +36,7 @@ keywords:
 - 'ud-separation'
 implementations: []
 summary: >-
-  Ay & Polani (2008), *Advances in Complex Systems* 11(1): 17–41. In a causal Bayesian network, X_B is causally independent of X_A imposing X_S if setting x_A after setting x_S does not change the post-interventional distribution of X_B; this holds for every model on a DAG iff every directed path from A to B meets S (ud-separation, Theorem 2). Information flow I(X_A → X_B | X̂_S) is conditional mutual information with every probability replaced by its interventional counterpart, and is zero iff causal independence holds (under positivity of p(x_S)). Examples show it differs from mutual information and from transfer entropy: two binary chains that swap states have zero transfer entropy and nonzero flow, and an observationally identical pair of independent inverters has zero of both.
+  Ay & Polani (2008), *Advances in Complex Systems* 11(1): 17–41. In a causal Bayesian network, X_B is causally independent of X_A imposing X_S if setting x_A after setting x_S does not change the post-interventional distribution of X_B; this holds for every model on a DAG iff every directed path from A to B meets S (ud-separation, Theorem 2). Information flow I(X_A → X_B | X̂_S) is conditional mutual information with every probability replaced by its interventional counterpart, and is zero iff causal independence holds (under positivity of p(x_S)). Examples show it differs from mutual information and from transfer entropy: two binary chains that swap states have zero transfer entropy and one bit of flow (at k = 1, by the record's check), and an observationally identical pair of independent inverters has zero of both.
 ---
 
 # LIT-tmpq33qh: Information Flows in Causal Networks

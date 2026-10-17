@@ -1,73 +1,86 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpkovi2:` heading; the lint checks
-# that the two agree.
-title: 'a'
-
+status: Active
+title: "In a finite causal Bayesian network, a set of nodes is causally independent of another, imposing a third, for every choice of mechanisms exactly when every directed path between them passes through the third; information flow, conditional mutual information computed from interventional instead of observational distributions, vanishes under causal independence, and it can differ from transfer entropy and conditional mutual information in either direction"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
-- complex-systems
-
+- causality
+- information-theory
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpq33qh
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Ay & Polani (2008), [LIT-tmpq33qh](../literature.d/LIT-tmpq33qh.md), read in full in [NOTE-tmpvo3m6](../notes.d/NOTE-tmpvo3m6.md) from the
+  2006 preprint. Theorem 2 and Prop. 3 are proved; Examples 3–6 were
+  recomputed. Example 6's one bit holds at k = 1 and fails for k ≥ 2 as
+  stated. The measure needs the mechanisms, and estimation and
+  identification are not addressed.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpkovi2: a
+# THEORY-tmpkovi2: In a finite causal Bayesian network, a set of nodes is causally independent of another, imposing a third, for every choice of mechanisms exactly when every directed path between them passes through the third; information flow, conditional mutual information computed from interventional instead of observational distributions, vanishes under causal independence, and it can differ from transfer entropy and conditional mutual information in either direction
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Ay & Polani (2008), "Information Flows in Causal Networks", *Advances in
+Complex Systems* 11(1): 17–41, [LIT-tmpq33qh](../literature.d/LIT-tmpq33qh.md), read in full in
+[NOTE-tmpvo3m6](../notes.d/NOTE-tmpvo3m6.md) from the authors' preprint of 12 May 2006. The journal version
+was not compared.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**Setting.** A DAG with finite state sets and known mechanisms
+p_v(x_v | x_pa(v)). Interventions by truncated factorization.
+
+**Causal independence (Eq. 4) and Theorem 2.** X_B ⫫ X_A | X̂_S if setting
+x_A after x_S leaves X_B's post-interventional distribution unchanged. For
+every model on the DAG, this holds iff B is ud-separated from A by S:
+every directed path from A to B meets S. d-separation implies
+ud-separation (Prop. 1).
+
+**Information flow (§5, Prop. 3).** I(X_A → X_B | X̂_S) is the conditional
+mutual information formula with interventional conditionals, averaged
+over the observational p(x_S). It is zero under causal independence, and
+only then if every x_S has positive probability. Positive flow implies an
+unblocked directed path (Corollary 2).
+
+**Divergence from correlational measures (Examples 3–6).**
+- Diamond, Z = X ⊕ Y: I(X:Y) = 1 but I(X → Y) = 0; I(W:Z | Y) = 0 but
+  I(W → Z | Ŷ) = 1.
+- Same joint distribution, two mechanisms: I(X → Z | Ŷ) = 1 or ≈ 0.311,
+  while I(X:Z | Y) = 0 in both.
+- Two chains copying each other against two independent inverters,
+  observationally identical: transfer entropy zero in both, flow one bit
+  against zero at k = 1.
+
+The reading recomputed every value. For Example 6 at k ≥ 2, imposing the
+whole past X_[1,k] gives zero flow in the copying case too, because it
+fixes Y_k = x_{k−1}. Imposing X_k alone restores one bit at every k. The
+paper does not state k.
+
+What could have come out otherwise: Theorem 2's "if" direction could have
+failed for some DAG, with an unblocked directed path but no model showing
+dependence. The copying construction shows one always exists.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **How to compute it from data.** It needs the mechanisms. Identification
+  from observational data is [THEORY-tmp4g68i](THEORY-tmp4g68i.md)'s kind of result, not this.
+- **That transfer entropy is always wrong about flow.** The two formulas
+  coincide term by term when conditioning on the pasts equals setting
+  them, for every value, and the observational distribution has full
+  support. That is the record's reading of the definitions
+  ([NOTE-tmpvo3m6](../notes.d/NOTE-tmpvo3m6.md)).
+- **Anything outside small deterministic examples.** Determinism is where
+  observational measures are degenerate.
+- **That flow is additive like matter flow.** Imposing a node can raise it
+  (diamond) or lower it (channel splitting).
+
+## Connections
+
+- [THEORY-tmp4g68i](THEORY-tmp4g68i.md): the time-series identification of interventional
+  effects. Together they say what an interventional information flow is
+  and when observational data can deliver one. My connection.
+- [CLAIM-tmp6nu4a](../claims.d/CLAIM-tmp6nu4a.md) and Example 6 show the same gap from opposite sides:
+  zero transfer entropy with a real effect.
+- [THEORY-tmppkvwa](THEORY-tmppkvwa.md) (directed information) and [THEORY-641](THEORY-641.md) (transfer entropy
+  as a likelihood ratio) are observational measures.
+- [TERM-tmpq0ms2](../terms.d/TERM-tmpq0ms2.md), [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md).
