@@ -1,74 +1,65 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpfgfsh:` heading.
+status: Unavailable
+status_note: 'unread, registered 2026-10-17. A lawful copy was sought and not reached: Crossref lists only the Elsevier (ScienceDirect) copy, and web searches found no author-posted, repository or course-hosted copy. A 2002 Wuppertal dissertation by Andreas Kaiser on nonlinear coupling measures is openly hosted but is a different work, and was not read in its place. Known through Barnett, Barrett and Seth (LIT-tmpmi22s), which cite it for the conditional definition, for estimator problems and for a Gaussian formula, until a copy is supplied.'
 title: 'Information transfer in continuous processes'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as the sequel that carries transfer
+    entropy to continuous-valued processes, cited by the Granger-causality
+    reading NOTE-tmp2veo7 as [18]. Citation checked against Crossref on
+    2026-10-17; Crossref gives June 2002 and no day. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone d1573d2) for
+    "Kaiser", "Schreiber" and the DOI found nothing.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2002-06-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+doi: '10.1016/S0167-2789(02)00432-3'
+first_author: 'Kaiser'
+keywords:
+- 'transfer entropy'
+- 'continuous processes'
+- 'information transfer'
+- 'estimation'
+extends:
+- LIT-tmpz9o5z
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Kaiser & Schreiber (2002), *Physica D* 166(1–2): 43–62. Carries transfer entropy from coarse-grained states to continuous-valued processes and discusses its estimation. Unread; known through Barnett, Barrett and Seth, who cite it for the conditional transfer entropy, for the failure of partition estimators to converge, for the assumptions hidden in kernel and nearest-neighbour estimators, for the invariance of information quantities under nonlinear transformations, and for a Gaussian formula (its Eq. 19).
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpfgfsh: Information transfer in continuous processes
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Andreas Kaiser and Thomas Schreiber (2002), "Information transfer in continuous processes", *Physica D* 166(1–2): 43–62 — doi:10.1016/S0167-2789(02)00432-3
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*Unread. From citing works, to be checked against the text.*
+
+- **Conditional transfer entropy.** Barnett, Barrett and Seth define
+  T_{Y→X|Z} citing Schreiber (2000) and this paper together ([7, 18],
+  NOTE-tmp2veo7).
+- **Estimation is hard.** They cite it for partition estimators that
+  "frequently fail to converge to the correct result", and as "a good
+  discussion" of the assumptions that kernel and nearest-neighbour
+  estimators bring (p. 7).
+- **Invariance.** Cited for the invariance of information-theoretic
+  quantities under general nonlinear transformations (p. 7).
+- **A Gaussian formula.** Their Eq. 12, the Gaussian transfer entropy as
+  half a log ratio of partial-covariance determinants, is "essentially a
+  multivariate, conditional version of the formula given in [18], eq.
+  (19)" (fn. 34).
+- **Continuous state spaces.** A citing source found by search says the
+  definition is generalized to real-valued states through the
+  Radon–Nikodym theorem, as this paper does. That source was not read.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 as the continuous-process sequel to Schreiber (2000,
+LIT-tmpz9o5z), whose ε → 0 claim it presumably develops. That is an
+inference from its title and the citations above, to be checked against
+the text when a copy is supplied.

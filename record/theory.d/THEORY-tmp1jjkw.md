@@ -1,73 +1,81 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp1jjkw:` heading; the lint checks
-# that the two agree.
-title: 'x'
-
+status: Active
+title: "Transfer entropy from J to I is the Kullback entropy of assuming that I's next state, given its last k states, does not depend on J's last l states, so it is zero exactly when J's past leaves I's transition law unchanged; unlike time-delayed mutual information it is directional and zero for static correlation, and it removes a common input only when that input is conditioned on"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- information-theory
 - complex-systems
-
+- causality
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpz9o5z
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Schreiber (2000), [LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md), read in full in [NOTE-tmplm3la](../notes.d/NOTE-tmplm3la.md). The
+  definition and its zero condition are exact. The comparison with
+  delayed mutual information rests on two coupled-map lattices built with
+  a known direction. The continuum-limit claim is asserted. The Letter's
+  tent-map coefficient appears to be twice what Eq. 4 gives.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmp1jjkw: x
+# THEORY-tmp1jjkw: Transfer entropy from J to I is the Kullback entropy of assuming that I's next state, given its last k states, does not depend on J's last l states, so it is zero exactly when J's past leaves I's transition law unchanged; unlike time-delayed mutual information it is directional and zero for static correlation, and it removes a common input only when that input is conditioned on
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Schreiber (2000), "Measuring Information Transfer", arXiv nlin/0001042v1
+(Phys. Rev. Lett. 85, 461), [LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md), read in full in [NOTE-tmplm3la](../notes.d/NOTE-tmplm3la.md).
+The PRL version was not compared.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**The definition (Eq. 4).**
+T_{J→I} = Σ p(i_{n+1}, i_n^{(k)}, j_n^{(l)}) log[p(i_{n+1} | i_n^{(k)},
+j_n^{(l)}) / p(i_{n+1} | i_n^{(k)})], with i_n^{(k)} = (i_n, …,
+i_{n−k+1}) and j_n^{(l)} likewise. It is the Kullback entropy (Eq. 1) of
+the generalized Markov property p(i_{n+1} | i_n^{(k)}) = p(i_{n+1} |
+i_n^{(k)}, j_n^{(l)}), so it is nonnegative and zero exactly when that
+property holds. k and l are free; l = k and l = 1 are "most natural".
+
+**Why it is directional.** Mutual information is symmetric, and the
+asymmetry of conditional entropy is H_I − H_J, not flow. Eq. 4 conditions
+on the target's own past, so correlation inherited from common history
+does not count.
+
+**Examples.** In a tent-map lattice with binary partition, T in the
+coupling direction is of order ε² while delayed MI is zero to the same
+order; against the coupling T is zero. In an Ulam-map lattice T stays
+consistent with zero against the coupling through every bifurcation,
+and is zero in a period-two window where delayed MI is 1 bit.
+
+What could have come out otherwise: in the Ulam lattice T against the
+coupling could have been nonzero in the windows where delayed MI was
+nearly symmetric. It was not.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That positive T is information moving from J to I.** The Letter
+  calls it "transfer" and "exchange" but defines nothing beyond Eq. 4,
+  a conditional dependence. Whether that is a flow is CLAIM-tmpu9ivq's
+  question.
+- **That unobserved common drivers are excluded.** Only a known driver Z,
+  conditioned on, is (p. 2). The heart–breath asymmetry is left open to a
+  common trigger by the author.
+- **That T is interventional.** Eq. 4 is observational; when it bears on
+  interventions is THEORY-tmp4g68i's and CLAIM-tmp6nu4a's question.
+- **Which k and l to use.** Results at k = l = 1 are not shown to survive
+  longer histories.
+- **Anything about estimation error.** No bias, variance or null
+  distribution is given; THEORY-641 supplies a χ² null under a
+  parametric model.
+- **The tent-map constant.** The reading's evaluation of Eq. 4 gives
+  α²ε²/(2 ln 2), half the Letter's α²ε²/ln 2. With α fitted, nothing
+  qualitative changes.
+
+## Connections
+
+- THEORY-641 and THEORY-tmp0xaeq are later results about this quantity:
+  a likelihood-ratio limit in general, half the Granger statistic for
+  Gaussians.
+- THEORY-275 uses a delayed variant, I(y_{t+τ}; x_t | y_t), which is Eq.
+  4 at k = l = 1 only for τ = 1.
+- THEORY-568 counts T as one summand of a Shannon invariant's numerator.
+- TERM-tmpj9z04 is the record's own statement of the term.
