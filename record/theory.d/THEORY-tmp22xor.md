@@ -1,73 +1,69 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp22xor:` heading; the lint checks
-# that the two agree.
-title: 'l1'
-
+status: Active
+title: "Transfer entropy is the average of a local transfer entropy, the log ratio at each observation of the destination's next-state probability with and without the source given the destination's past, which can be negative where the source misleads; the destination history must be long for it to exclude self-influence routed through the source; and conditioning also on the destination's other causal parents (complete) can differ sharply from conditioning on its past alone (apparent), as in elementary cellular automata, where long-history local transfer entropy picks out gliders and domain walls"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
 - complex-systems
-
-date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
+- information-theory
+date: '2026-10-16'
 source:
 - LIT-tmps1x9k
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Lizier, Prokopenko & Zomaya (2008), LIT-tmps1x9k, read in full in
+  NOTE-tmpr3ktj. The local decomposition is an identity; the claims about
+  k and about particles rest on elementary CAs judged by eye. Three worked
+  local values and rule 18's XOR structure were checked.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmp22xor: l1
+# THEORY-tmp22xor: Transfer entropy is the average of a local transfer entropy, the log ratio at each observation of the destination's next-state probability with and without the source given the destination's past, which can be negative where the source misleads; the destination history must be long for it to exclude self-influence routed through the source; and conditioning also on the destination's other causal parents (complete) can differ sharply from conditioning on its past alone (apparent), as in elementary cellular automata, where long-history local transfer entropy picks out gliders and domain walls
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Lizier, Prokopenko & Zomaya (2008), "Local information transfer as a
+spatiotemporal filter for complex systems", arXiv 0809.3275v1 (Phys. Rev.
+E 77, 026110), LIT-tmps1x9k, read in full in NOTE-tmpr3ktj.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**An identity.** T_{Y→X} = ⟨t_{Y→X}(n + 1, k, l)⟩, with
+t = log p(x_{n+1} | x⁽ᵏ⁾_n, y⁽ˡ⁾_n)/p(x_{n+1} | x⁽ᵏ⁾_n) (Eq. 9). The local
+value is unbounded above and can be negative.
+
+**History length.** With k = 1, local TE does not separate rule 110's
+gliders from the background (Fig. 2). With k ≥ 6 it does, and with k = 16
+it concentrates on the gliders' leading edges (Figs. 3, 5). For a periodic
+domain of period p, k ≥ p − 1 gives zero transfer there; with gliders no
+finite k is enough.
+
+**Apparent against complete.** Complete TE conditions on the destination's
+other neighbours (Eq. 14) and is nonnegative in deterministic systems. In
+rule 18's domain it is about 1 bit at alternate sites from each channel,
+where apparent TE is 0. Checked: there the rule is L ⊕ R.
+
+**Particles.** In rules 110, 54, 18 and 146, gliders and domain walls are
+where local TE is high, in their direction of motion.
+
+What could have come out otherwise: long-history local TE could have
+highlighted the background domain as much as the gliders, as k = 1 does.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That transfer entropy measures a flow from one source.** Rule 18's
+  domain has 1 bit determined jointly by two sources; apparent TE gives
+  it to neither and complete TE to each (CLAIM-tmpu9ivq).
+- **That complete TE is available outside models.** It needs the causal
+  parents.
+- **That a finite k is correct.** k is bounded by sample size, and the
+  averages have not converged at k = 16.
+- **Anything about continuous or stochastic systems**, which are asserted to
+  be within reach and not tested.
+- **That high local TE is causal influence.** The paper's own perspective is
+  "predictive or computational", and it defers comparison with Ay and
+  Polani's interventional flow.
+
+## Connections
+
+- Generalizes Schreiber's measure (LIT-tmpz9o5z) pointwise; its average is
+  [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)'s quantity.
+- NOTE-788's TE is the k = 1 case, which this paper finds structure-blind
+  in rule 110.
