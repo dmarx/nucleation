@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-40 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+41 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -287,3 +287,8 @@
 
 - [CLAIM-310](../record/claims.d/CLAIM-310.md) — Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition, and which costs least depends on what is searched for and on what stands out within a bin *(thesis, Active)*
   - [CLAIM-313](../record/claims.d/CLAIM-313.md) — A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries *(counter, Proposed)*
+
+## From A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too
+
+- [CLAIM-339](../record/claims.d/CLAIM-339.md) — A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too *(counter, Proposed)*
+  - [CLAIM-342](../record/claims.d/CLAIM-342.md) — What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available *(thesis, Proposed)*

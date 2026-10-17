@@ -38,8 +38,8 @@ summary: >-
 answers:
 - QUESTION-045
 supports:
-- CLAIM-tmpki5gp
-- CLAIM-tmpt568z
+- CLAIM-339
+- CLAIM-342
 ---
 <!-- inactive-ok-file: THEORY-058 — Proposed; the loop account this model gives a mechanism for -->
 

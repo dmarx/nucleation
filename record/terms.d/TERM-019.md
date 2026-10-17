@@ -12,7 +12,7 @@ line: will-organization
 used_by:
 - CLAIM-027
 - CLAIM-047
-- CLAIM-tmp84z6h
+- CLAIM-336
 summary: >-
   A relatively stable organization capable of producing a characteristic
   pattern of agent-level action under appropriate conditions — desires,

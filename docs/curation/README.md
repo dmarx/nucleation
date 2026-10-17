@@ -9,6 +9,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 - [17 Oct 01:53 — Partial information decomposition: the I_min paper and two critiques, read, and the record's numbers checked under each](2026-10.md#partial-information-decomposition-the-i_min-paper-and-two-critiques-read-and-the-records-numbers-checked-under-each)
 - [17 Oct 00:25 — Transfer entropy: eight works filed, seven read, and whether it measures flow](2026-10.md#transfer-entropy-eight-works-filed-seven-read-and-whether-it-measures-flow)
 - [16 Oct 23:59 — Granger causality: five works filed, three read, and the record's own terms](2026-10.md#granger-causality-five-works-filed-three-read-and-the-records-own-terms)
+- [16 Oct 23:51 — Readings for the active-inference thesis, second round: the four works the owner named and the eight registered at the start](2026-10.md#readings-for-the-active-inference-thesis-second-round-the-four-works-the-owner-named-and-the-eight-registered-at-the-start)
+- [16 Oct 23:02 — Readings for the active-inference thesis: six works read, two Unavailable, one registered from a reprint](2026-10.md#readings-for-the-active-inference-thesis-six-works-read-two-unavailable-one-registered-from-a-reprint)
+- [16 Oct 22:06 — Nine works registered unread for the gaps in the active-inference thesis: covert awareness, measurement effects, Pattee, QBism and perceptual control](2026-10.md#nine-works-registered-unread-for-the-gaps-in-the-active-inference-thesis-covert-awareness-measurement-effects-pattee-qbism-and-perceptual-control)
+- [16 Oct 20:08 — Eight works registered unread for the active-inference thesis and the locked-in case](2026-10.md#eight-works-registered-unread-for-the-active-inference-thesis-and-the-locked-in-case)
 - [16 Oct 18:32 — Social science, network science, compositionality, neuroscience and philosophy of biology: 22 THEORYs from 24 readings](2026-10.md#social-science-network-science-compositionality-neuroscience-and-philosophy-of-biology-22-theorys-from-24-readings)
 - [16 Oct 18:23 — Representation learning, learning theory and loss landscapes: 20 THEORYs from 26 readings](2026-10.md#representation-learning-learning-theory-and-loss-landscapes-20-theorys-from-26-readings)
 - [16 Oct 18:21 — Complex systems: thirteen THEORYs from fourteen of seventeen readings](2026-10.md#complex-systems-thirteen-theorys-from-fourteen-of-seventeen-readings)
@@ -96,9 +100,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-134 entries across 2 books, newest first.
+138 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 87 | 2026-10-01 | 2026-10-17 |
+| [2026-10](2026-10.md) | 91 | 2026-10-01 | 2026-10-17 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

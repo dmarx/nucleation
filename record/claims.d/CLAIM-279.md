@@ -39,7 +39,7 @@ summary: >-
   the group overwriting it. The claim does not say specialization always
   emerges.
 supports:
-- CLAIM-tmp84z6h
+- CLAIM-336
 ---
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

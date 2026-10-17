@@ -2,7 +2,7 @@
 
 # Lines of work
 
-62 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+63 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -155,6 +155,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## behavioral-integration
 
+### From A General Feedback Theory of Human Behavior: Part I
+
+- [LIT-1188](../record/literature.d/LIT-1188.md) — A General Feedback Theory of Human Behavior: Part I *(Active)*
+  - [LIT-1197](../record/literature.d/LIT-1197.md) — A General Feedback Theory of Human Behavior: Part II *(Active)*
+
 ### From The Society of Mind
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
@@ -200,6 +205,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-403](../record/literature.d/LIT-403.md) — Intrinsic content, active memory and the extended mind *(Active)*
   - [LIT-421](../record/literature.d/LIT-421.md) — Foreword *(Active)*
     - [LIT-415](../record/literature.d/LIT-415.md) — Extended Cognition and Extended Consciousness *(Active)* — also carries further LIT-097; also corrects LIT-097
+
+### From A General Feedback Theory of Human Behavior: Part I
+
+- [LIT-1188](../record/literature.d/LIT-1188.md) — A General Feedback Theory of Human Behavior: Part I *(Active)*
+  - [LIT-1197](../record/literature.d/LIT-1197.md) — A General Feedback Theory of Human Behavior: Part II *(Active)*
 
 ### From Psychological Predicates
 

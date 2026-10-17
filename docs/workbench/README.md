@@ -6,6 +6,12 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [17 Oct 00:29 — Session of 2026-10-17 (U10): Friston's selective sampling mapped to the authority space](2026-10.md#session-of-2026-10-17-u10-fristons-selective-sampling-mapped-to-the-authority-space)
+- [16 Oct 23:51 — Session of 2026-10-16, continued (U8–U9): the mapping endorsed; four named works and the remaining unread works read, and what they changed](2026-10.md#session-of-2026-10-16-continued-u8u9-the-mapping-endorsed-four-named-works-and-the-remaining-unread-works-read-and-what-they-changed)
+- [16 Oct 23:02 — Session of 2026-10-16, continued (U7): the readings done, the formal question answered, the mapping put to the owner](2026-10.md#session-of-2026-10-16-continued-u7-the-readings-done-the-formal-question-answered-the-mapping-put-to-the-owner)
+- [16 Oct 22:06 — Session of 2026-10-16, continued (U6): the open items addressed, the underlying model stated, the scoring question filed and the gaps registered](2026-10.md#session-of-2026-10-16-continued-u6-the-open-items-addressed-the-underlying-model-stated-the-scoring-question-filed-and-the-gaps-registered)
+- [16 Oct 21:39 — Session of 2026-10-16, continued (U3–U5): the record searched for the judgement–observation thesis, and the thesis restated diachronically](2026-10.md#session-of-2026-10-16-continued-u3u5-the-record-searched-for-the-judgementobservation-thesis-and-the-thesis-restated-diachronically)
+- [16 Oct 20:08 — Session of 2026-10-16 (U1–U2): judgement and observation as the loop active inference misplaces, and locked-in syndrome as its case](2026-10.md#session-of-2026-10-16-u1u2-judgement-and-observation-as-the-loop-active-inference-misplaces-and-locked-in-syndrome-as-its-case)
 - [16 Oct 01:24 — Session of 2026-10-16, 00:07–01:02 (U1–U15): what kind of thing a sports fandom is, persistence through turnover, timescale as a facet of level, information theories of individuality, and the dual canvases linearized](2026-10.md#session-of-2026-10-16-00070102-u1u15-what-kind-of-thing-a-sports-fandom-is-persistence-through-turnover-timescale-as-a-facet-of-level-information-theories-of-individuality-and-the-dual-canvases-linearized)
 - [15 Oct 00:41 — Session of 2026-10-14, 21:36–00:05 (U1–U23): what an inquiry must keep to revise itself, bounded observers, the medication in the ambulance, and retrieval-mediated anchoring in the dual canvases](2026-10.md#session-of-2026-10-14-21360005-u1u23-what-an-inquiry-must-keep-to-revise-itself-bounded-observers-the-medication-in-the-ambulance-and-retrieval-mediated-anchoring-in-the-dual-canvases)
 - [14 Oct 00:10 — A typology of cases: kind, beside standing (ADR-042, proposed)](2026-10.md#a-typology-of-cases-kind-beside-standing-adr-042-proposed)
@@ -59,8 +65,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-50 entries across 1 book, newest first.
+56 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 50 | 2026-10-07 | 2026-10-16 |
+| [2026-10](2026-10.md) | 56 | 2026-10-07 | 2026-10-17 |

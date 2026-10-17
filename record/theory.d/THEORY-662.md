@@ -32,7 +32,7 @@ summary: >-
   felt/unfelt levels are proposals. "Felt" here means attended and
   reportable, not phenomenal, and fluency is not offered as affect.
 supports:
-- CLAIM-tmp9cjyo
+- CLAIM-337
 ---
 <!-- inactive-ok-file: LIT-190 — Proposed; the other fluency reading, named in Connections -->
 <!-- inactive-ok-file: QUESTION-059 — Deferred; the question this reading weakens -->

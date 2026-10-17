@@ -38,9 +38,9 @@ summary: >-
   until a model ([CASE-092](../cases.d/CASE-092.md)) is analysed. If the influence field adds nothing
   to ordinary adaptive retrieval, [CLAIM-278](CLAIM-278.md) stands against it.
 supports:
-- CLAIM-tmpq9do8
-- CLAIM-tmp84z6h
-- CLAIM-tmpj10k0
+- CLAIM-341
+- CLAIM-336
+- CLAIM-338
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-280 CLAIM-281 CLAIM-285 CLAIM-288 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

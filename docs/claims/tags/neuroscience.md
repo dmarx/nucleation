@@ -6,8 +6,8 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-0 of 335 CLAIM documents. Back to the [full index](../README.md).
+1 of 342 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-337](../../../record/claims.d/CLAIM-337.md) | Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward | The assistant's, A1 of the exchange of 2026-10-16, on active inference's behalf, strengthened at A4. Sandved-Smith et al. cast mental action as policy selection over higher-level cognitive states; Brouillet and Friston make felt fluency an inference about the precision of one's own processing; Smith et al. let a generative model grow its own structure by inference and learning alone. With Chalmers's point that judgements are behaviour, the owner's judgement is active inference's action relocated. What it does not reach: the diagram. A redescription with no action on the world concedes that action on the world is not part of the loop. | Proposed |
