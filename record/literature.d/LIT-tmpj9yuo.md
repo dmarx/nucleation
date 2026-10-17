@@ -68,3 +68,10 @@ is stated for this measure, not for Granger's univariate one. Until a copy
 is supplied the record holds only what they and the abstract say. That
 includes the non-central χ² claim, which [NOTE-053](../notes.d/NOTE-053.md) argues can only be a
 local-alternative approximation.
+
+Its three-way split, two directed feedbacks and an instantaneous one,
+has the shape of the decomposition of Massey's directed information into
+full-history transfer entropy plus instantaneous terms ([THEORY-tmppkvwa](../theory.d/THEORY-tmppkvwa.md)).
+For Gaussian processes the directed parts are the Granger measures, twice
+the transfer entropies ([THEORY-tmp0xaeq](../theory.d/THEORY-tmp0xaeq.md)). That the correspondence is exact
+term by term is the record's inference, unchecked against the paper.
