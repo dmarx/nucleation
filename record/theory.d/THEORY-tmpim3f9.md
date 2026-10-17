@@ -1,73 +1,78 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpim3f9:` heading; the lint checks
-# that the two agree.
-title: 'y'
-
+status: Active
+title: "The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
+- information-theory
 - complex-systems
-
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpgtytt
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Harder, Salge & Polani (2013), [LIT-tmpgtytt](../literature.d/LIT-tmpgtytt.md), read in full in [NOTE-tmpsow60](../notes.d/NOTE-tmpsow60.md).
+  The counterexample, the axioms and the nonnegativity proof are exact;
+  every Table I value and both transfer-entropy examples were recomputed.
+  The identity axiom and "mechanistic redundancy" are positions, not
+  results, and the measure is bivariate only.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpim3f9: y
+# THEORY-tmpim3f9: The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Harder, Salge & Polani (2013), "A Bivariate Measure of Redundant
+Information", arXiv 1207.2080v3 (Phys. Rev. E 87, 012130), [LIT-tmpgtytt](../literature.d/LIT-tmpgtytt.md),
+read in full in [NOTE-tmpsow60](../notes.d/NOTE-tmpsow60.md). The PRE version was not compared.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**The counterexample.** For Z = (X, Y), X and Y independent uniform bits,
+I_min(Z; X, Y) = 1 bit. Recomputed: 1.0000, and I_min stays 1 as the
+correlation between X and Y varies, while I(X; Y) goes from 1 to 0.
+
+**The measure.** Project each p(z|x) by reverse KL onto
+conv{p(z|y)}; the projected information is
+Σ_x p(x)[D_KL(p(z|x) ‖ p(z)) − D_KL(p(z|x) ‖ projection)].
+I_red is the smaller of the two directions.
+
+**Its properties.** Symmetry, self-redundancy, monotonicity, identity
+(I_red((X,Y); X, Y) = I(X; Y)), and nonnegative synergy (Lemma 7), all
+proved.
+
+**Comparison.** Same as I_min on XOR (0), AND (0.311), RdnXor (1) and
+XorAnd (0.5); different on copying (I(X; Y) against 1) and RdnUnqXor (1
+against 2). All recomputed.
+
+**Transfer entropy.** Williams and Beer's coupled pair: same
+decomposition under both measures, at every d (recomputed at five
+values). A process with an independent bystander: at d = 1, all
+state-independent under I_red, all state-dependent under I_min
+(recomputed at d = 0.75 and 1).
+
+What could have come out otherwise: a measure satisfying the identity
+axiom could have broken monotonicity or produced negative synergy. This
+one does neither, for two sources.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That I_red is the right redundancy.** It is one measure that satisfies
+  four axioms. The identity axiom is argued for, not derived, and other
+  measures with it exist.
+- **That independent sources share nothing.** The paper says they can, by
+  the mechanism (AND keeps 0.311 bit). That is a position.
+- **Anything for three or more sources.** No multivariate I_red is given,
+  so it cannot replace I_min in ΦID or in the three-source lattice.
+- **That I_min always overstates.** Fig. 3's upper-bound pattern has
+  unexplained exceptions.
+
+## Connections
+
+- It corrects [THEORY-tmpeogx6](THEORY-tmpeogx6.md)'s I_min on shared information, and keeps its
+  lattice and inversion.
+- It leaves [THEORY-tmpt4nh7](THEORY-tmpt4nh7.md)'s two-term split and [THEORY-tmpijy6i](THEORY-tmpijy6i.md)'s examples
+  unchanged in value. It confirms that the SITE/SDTE amounts depend on
+  the redundancy measure.
+- [THEORY-581](THEORY-581.md)'s synergy bias is computed with I_min, the measure this
+  corrects.
+- [THEORY-568](THEORY-568.md)'s invariants hold for I_red too, since its atoms satisfy the
+  consistency equations.
