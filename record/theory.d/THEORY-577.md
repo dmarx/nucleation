@@ -34,6 +34,8 @@ summary: >-
   introspective models attributing primitive relations of acquaintance, is
   "closer to a fleshed-out explanandum" than an explanation, and the data
   the programme needs mostly do not exist.
+supports:
+- CLAIM-tmp9cjyo
 ---
 <!-- inactive-ok-file: THEORY-023 THEORY-043 THEORY-507 THEORY-523 THEORY-633 THEORY-694 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 

@@ -1,0 +1,94 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-16 ([NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md)) in full, from the publisher's open-access PDF; worth reading as the first full statement that action, like perception, minimizes a free-energy bound on sensory surprise, by fulfilling proprioceptive and visual predictions, with simulations of oculomotor stabilization and saccades, cued reaching, mountain-car and Lorenz trajectories. Read it knowing that the "ergodic arguments" of the abstract only equate entropy with time-averaged surprise, and that action is needed because the setup stipulates that action is the only way the agent changes the hidden states it senses; that action here pulls the sensed world toward a fixed model, sampling "what one expects to experience", and cancels unexpected perturbations so they are not perceived; and that the paper answers the worry about confirming a wrong model by appeal to existence ("agents who do not have the right priors cannot exist"). It has no mental or covert action.
+title: 'Action and behavior: a free-energy formulation'
+version: 2
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read (NOTE-tmpo4u0r) from the publisher's open-access PDF (Biol Cybern 102:227–260, CC BY-NC): every section's prose, figure captions and the appendices, with equations followed as far as the argument needs. Status Deferred to Active. The summary is rewritten from the reading: the ergodic step and the stipulation that only action changes hidden states are stated separately; the simulations beyond oculomotor control are named. "Why this is here" now says what the reading found for CLAIM-tmpki5gp (action selects evidence to fit the model and suppresses the unexpected) and adds CLAIM-tmpt568z, which the paper supports.
+tags:
+- neuroscience
+- probabilistic-modeling
+- embodied-cognition
+date: '2026-10-16'
+published: '2010-02-10'
+doi: '10.1007/s00422-010-0364-z'
+first_author: 'Friston'
+keywords:
+- 'free energy'
+- 'active inference'
+- 'motor control'
+- 'active sampling'
+- 'proprioception'
+implementations: []
+summary: >-
+  Friston, Daunizeau, Kilner & Kiebel (2010). If an agent's existence requires a low-entropy density over its states, an ergodic assumption makes that entropy the time-average of surprise, and the setup stipulates that only action changes the hidden states the agent senses; so action as well as perception must minimize a free-energy bound on surprise. Action is absent from the generative model and descends on sensory prediction error, so motor control is the fulfilment of proprioceptive (and visual) predictions. Simulations of oculomotor stabilization and prior-driven saccades, cued reaching, a mountain car learned passively in a designed environment, and Lorenz trajectories show unexpected perturbations cancelled by action and not perceived. The model is held fixed and the data re-sampled to fit it.
+supports:
+- CLAIM-tmpki5gp
+- CLAIM-tmpq9do8
+- CLAIM-tmpt568z
+- CLAIM-tmpj10k0
+---
+
+# LIT-tmp670rc: Action and behavior: a free-energy formulation
+
+Friston, K. J., Daunizeau, J., Kilner, J. & Kiebel, S. J. (2010). *Biological Cybernetics* 102(3):227–260. doi:10.1007/s00422-010-0364-z.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md).*
+
+- **The argument.** Existence requires low entropy; at equilibrium the
+  ensemble density is the sojourn time, so sensory entropy is the long-run
+  average of surprise (p. 230); free energy bounds surprise. Action must
+  minimize it too because "the only way that the agent can change hidden
+  states is through action" and agents "can only act by changing hidden
+  states, not the sensory mapping per se" (p. 230). The abstract's
+  "mandated by ergodic arguments based on the very existence of adaptive
+  agents" (p. 227) compresses these steps.
+- **Action fulfils predictions.** "there are no top-down motor commands;
+  just prior expectations about proprioceptive input that are fulfilled at
+  the spinal level" (p. 235). The generative model "has no notion of
+  action" (p. 233).
+- **Fixed model, re-sampled data.** "The free-energy principle turns this
+  optimization around and considers that the model (agent) is fixed and
+  the aim is to minimize surprise by re-sampling the data" (p. 232);
+  action amounts to "sampling selectively what one expects to experience"
+  (p. 232).
+- **Simulations.** Oculomotor (36 photoreceptor channels; tight priors
+  make action cancel a perturbing force so that "from the point of view of
+  the agent, the target is not moving", p. 239; a prior alone produces a
+  saccade), cued reaching with optimized multisensory precision, mountain
+  car learned with active inference "precluded" during training (p. 246),
+  and Lorenz trajectories.
+- **The anchor is existence.** Confirming a wrong model is answered by
+  "this weakness becomes the strength" (p. 232) and "agents who do not
+  have the right priors cannot exist" (p. 256).
+- **Scope.** No mental or covert action; precision is inferred, and "may
+  mediate attentional gain" (p. 248). All results are simulations.
+
+## Why this is here
+
+The canonical early statement of the action–perception cycle the owner's
+thesis rejects ([CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)). The reading confirms the thesis's
+description of it: all of the agent's influence on what it senses runs
+through action, and the paper states the contrast in so many words, a
+fixed model with re-sampled data against the thesis's changed observer.
+
+For [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) the quotation is exact and its use, that persistence
+needs action, matches the paper. But the paper's action does not bring in
+evidence the loop did not select. It selects evidence to fit the model and
+cancels the unexpected. The mandate rests on a stipulation about the setup
+more than on the ergodic step. For [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) the paper is a stronger
+case than [NOTE-766](../notes.d/NOTE-766.md): lock-in with action available is its design, and its
+external anchor is selection across agents.
+
+Its oculomotor simulations model the action classic locked-in syndrome
+spares ([CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md)). They are not its only simulations.

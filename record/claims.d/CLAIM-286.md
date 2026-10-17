@@ -37,6 +37,8 @@ summary: >-
   these processes are a self.
 objected_by:
 - CLAIM-278
+supports:
+- CLAIM-tmp84z6h
 ---
 <!-- inactive-ok-file: CLAIM-284 CLAIM-278 CLAIM-024 CLAIM-198 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

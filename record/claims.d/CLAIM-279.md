@@ -38,6 +38,8 @@ summary: >-
   pixel is denoising for the group whose image it is and destruction for
   the group overwriting it. The claim does not say specialization always
   emerges.
+supports:
+- CLAIM-tmp84z6h
 ---
 <!-- inactive-ok-file: THEORY-142 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

@@ -1,0 +1,49 @@
+---
+status: Unavailable
+status_note: >-
+  filed 2026-10-16; on 2026-10-16 a search for a lawful full text reached none, so it is not read and no NOTE is filed. ORBi, the University of Liège repository, holds the file (orbi.uliege.be/handle/2268/9572, 433.pdf) but in restricted access: the bitstream link returns a request-a-copy form ("not currently available on open access"). The Coma Science Group's publication page (coma.uliege.be) links only to that ORBi record. OpenAlex lists the work as closed with no repository full text; Unpaywall reports it closed; Europe PMC has no full text (PMID 16186044, not in PMC); ScienceDirect returned 403; the ULB DI-fusion record (dipot 2013/51666) offers no file; a web search found no author-posted copy. ORBi's request form could deliver a copy to a named requester, which the owner can use. It stays Unavailable until a copy is supplied.
+title: 'The locked-in syndrome: what is it like to be conscious but paralyzed and voiceless?'
+version: 2
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Crossref gives the year only. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, after a copy hunt: ORBi
+    (restricted, request only), the Coma Science Group site, OpenAlex,
+    Unpaywall, Europe PMC, ScienceDirect, ULB DI-fusion and a web search.
+    The page range is corrected from 495ff to 495–511, as PubMed, Europe
+    PMC and ORBi give it; the 495–611 in Crossref and OpenAlex is wrong
+    (the next chapter in the volume, Kübler and Neumann, begins at 513).
+    "Why this is here" notes that Bruno et al. (LIT-tmp8g2to) cite the three
+    forms of LIS to Bauer et al. (1979).
+tags:
+- neuroscience
+- consciousness
+date: '2026-10-16'
+published: '2005-01-01'
+doi: '10.1016/s0079-6123(05)50034-7'
+first_author: 'Laureys'
+keywords:
+- 'locked-in syndrome'
+- 'consciousness'
+- 'anarthria'
+- 'quadriplegia'
+implementations: []
+summary: >-
+  Laureys et al. (2005). A review of locked-in syndrome: its definition, its classic, incomplete and total forms, and what is known of patients' experience and cognition. Not read; from what the work is standardly cited for.
+---
+
+# LIT-tmpx97h7: The locked-in syndrome: what is it like to be conscious but paralyzed and voiceless?
+
+Laureys, S., Pellas, F., Van Eeckhout, P., Ghorbel, S., Schnakers, C., Perrin, F. et al. (2005). *Progress in Brain Research* 150:495–511. doi:10.1016/S0079-6123(05)50034-7.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): the standard review for the forms of locked-in syndrome the case distinguishes (classic, incomplete, total). Not read, and no lawful copy was reached. The forms do not depend on it: Bruno et al. ([LIT-tmp8g2to](LIT-tmp8g2to.md), read in [NOTE-tmpojcai](../notes.d/NOTE-tmpojcai.md)), with Laureys as senior author, define them ("'classic' LIS is characterised by quadriplegia and aphonia with coded communication by vertical eye movement or blinking; 'incomplete' LIS patients have remnants of voluntary motion other than vertical eye movement; and 'total' LIS is defined by complete immobility, including all eye movements") and cite them to Bauer, Gerstenbrand and Rumpl (1979), not to this review. What this review says of cognition in LIS is not known to the record.

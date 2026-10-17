@@ -19,6 +19,8 @@ summary: >-
   name collides with [TERM-031](TERM-031.md)'s.
 used_by:
 - CLAIM-127
+- CLAIM-tmpq9do8
+- CLAIM-tmp84z6h
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as open: the claim is under test, not settled -->
 

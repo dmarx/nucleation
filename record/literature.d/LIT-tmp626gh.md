@@ -1,0 +1,64 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-16 ([NOTE-tmpxdsyb](../notes.d/NOTE-tmpxdsyb.md)) in full, from the authorized reprint in Living Control Systems (1989), pp. 61–78; worth reading as the shortest statement of perceptual control: a control system produces whatever output keeps a sensed result at its reference, so behaviour is the control of input, and above the lowest level a system's output is a reference for the level below. Read it knowing that every loop it describes closes through the environment, down to muscle effort sensed kinesthetically; that it says nothing about imagination or memory, which Powers treated elsewhere; that its higher systems still sense quantities in the world and change only lower references, never the sensors; and that reorganization, driven by error in inherited intrinsic quantities, is one paragraph. It is a rival to [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) and gives [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) a scoring channel the learned hierarchy does not set.
+title: 'Feedback: Beyond Behaviorism'
+version: 2
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read in full (NOTE-tmpxdsyb) from the reprint in Living Control Systems: Selected Papers of William T. Powers (Control Systems Group, 1989), pp. 61–78, "Reprinted with permission of the publisher from Science", in the PDF hosted at livingcontrolsystems.com. Status Deferred → Active. The summary stands, checked against the text (reprint p. 77) and given page numbers; the "Not read" line is replaced with what the reading found; "Why this is here" is corrected: the paper keeps action at the bottom of every loop, but PCT as a whole does not, since Powers's imagination connection closes a loop without the environment (1960; 1988), neither of which is this work.
+tags:
+- cognition
+- behavioral-integration
+date: '2026-10-16'
+published: '1973-01-26'
+doi: '10.1126/science.179.4071.351'
+first_author: 'Powers'
+keywords:
+- 'perceptual control theory'
+- 'control systems'
+- 'reference signal'
+- 'hierarchy'
+- 'purpose'
+implementations: []
+summary: >-
+  Powers (1973). A control system produces whatever output keeps a sensed result constant despite disturbances, so behaviour is the control of input, not output (reprint p. 77); in a hierarchy, the output of a higher-order system is not a muscle force but a reference level for lower systems (p. 77). Every loop the paper describes closes through the environment, and its top level is inherited intrinsic reference levels whose error drives reorganization (p. 73).
+---
+
+# LIT-tmp626gh: Feedback: Beyond Behaviorism
+
+Powers, W. T. (1973). *Science* 179(4071):351–356. doi:10.1126/science.179.4071.351.
+
+Read in [NOTE-tmpxdsyb](../notes.d/NOTE-tmpxdsyb.md), from the reprint in *Living Control Systems:
+Selected Papers of William T. Powers* (Control Systems Group, 1989), pp.
+61–78.
+
+## Key takeaways
+
+- **Behaviour controls input.** A control system "will produce whatever
+  output is required in order to achieve a constant sensed result, even in
+  the presence of unpredictable disturbances" (reprint p. 77). Output is
+  determined mainly by the disturbance, so stimulus-response laws follow
+  from environmental physics once the controlled quantity is known.
+- **A test for controlled quantities.** Disturb a candidate quantity; if
+  the observed change is much smaller than physics predicts, it is
+  controlled (p. 69).
+- **Hierarchy by reference.** A higher system "opposes disturbances not by
+  direct activation of force outputs, but by altering the reference level"
+  of a lower one (p. 71). Its own input is still a quantity in the world.
+- **Intrinsic error and reorganization.** The top reference levels are
+  inherited; reorganization is "the error-driven 'output' of a basic
+  inherited control system" (p. 73), stated in one paragraph.
+- **No imagination.** Every loop in the paper closes through the
+  environment, down to "the effort in whole muscles, as sensed
+  kinesthetically" (p. 73).
+
+## Why this is here
+
+Perceptual control theory, the cybernetic account closest to U1's wording, and a rival to [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md). Action serves perception, the reverse of active inference's emphasis on sampling. Above the lowest level, a system's output is a reference for another system, not action on the world, so the hierarchy is internal on its output side. But in this paper each higher system still senses a quantity in the world, and every loop bottoms out in muscle effort: it has no loop that closes without the environment. That is this paper's position, not PCT's: Powers's "imagination connection", in which a reference signal is routed back as the system's own perception, appears in his 1960 paper and his 1988 outline, where "the control loop always (except for imagination) involves effects in the external world" (Living Control Systems, p. 279). Neither is held in the record, and the book ([LIT-tmp44sbd](LIT-tmp44sbd.md)) was not reached. For [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) and [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md), its top level of inherited intrinsic quantities, whose error drives reorganization, is a scoring channel the learned hierarchy does not set. It carries no instruction for machine-learning practice.
