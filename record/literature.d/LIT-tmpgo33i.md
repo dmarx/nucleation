@@ -32,6 +32,8 @@ summary: >-
   Powers, Clark & McFarland (1960). The first statement of the hierarchical feedback theory: each order perceives only the feedback signals of the order below and acts only by setting their references, which are replayed recordings of past perceptions. An imagination connection returns those references to the higher system's perception, so that every goal set for lower systems can appear "immediately satisfied-in imagination" (p. 20), letting the system remember, plan an action "mentally" without performing it, hallucinate and dream, under a "mixing control" the authors leave open. An inherited N-system reorganizes the network, perceptual input functions included, at a rate proportional to error in intrinsic physiological variables.
 extended_by:
 - LIT-tmpuh84t
+supports:
+- CLAIM-tmpq9do8
 ---
 
 # LIT-tmpgo33i: A General Feedback Theory of Human Behavior: Part I

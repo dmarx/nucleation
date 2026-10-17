@@ -34,3 +34,7 @@
   Powers et al. (1960, both parts) were read, and Laureys et al. and
   Bauby found Unavailable. The locked-in case, both counters and the
   thesis were corrected from the readings.
+- The owner's thesis that active inference's selective sampling is the
+  authority space of the coupled meaning–authority model, so that the
+  free-energy agent is a coupled loop without independent scoring,
+  [CLAIM-tmpj10k0](record/claims.d/CLAIM-tmpj10k0.md).
