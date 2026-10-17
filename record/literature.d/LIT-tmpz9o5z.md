@@ -34,6 +34,12 @@ keywords:
 implementations: []
 summary: >-
   Schreiber (2000), *Physical Review Letters* 85, 461, [ARXIV-nlin/0001042](https://arxiv.org/abs/nlin/0001042). Defines the transfer entropy T_{J→I} = Σ p(i_{n+1}, i_n^{(k)}, j_n^{(l)}) log[p(i_{n+1} | i_n^{(k)}, j_n^{(l)}) / p(i_{n+1} | i_n^{(k)})], the Kullback entropy of assuming that I's transitions do not depend on J's past, with history lengths k and l ("most natural" l = k or l = 1). Unlike time-delayed mutual information it is directional and zero for static correlation. In a tent-map lattice it is O(ε²) in the coupling while time-delayed MI is zero, and in an Ulam-map lattice it shows the coupling's direction where time-delayed MI does not.
+corrected_by:
+- LIT-tmpa6og3
+extended_by:
+- LIT-tmpfgfsh
+- LIT-tmps1x9k
+- LIT-tmpsbhb4
 ---
 
 # LIT-tmpz9o5z: Measuring Information Transfer

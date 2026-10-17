@@ -32,6 +32,8 @@ summary: >-
   changes the mean of b(t + 1) by ργ. Checked by hand and by simulation.
 supports:
 - CLAIM-tmpa4kr6
+complements:
+- CLAIM-tmpu9ivq
 ---
 
 # CLAIM-tmp6nu4a: Measuring every relevant variable is necessary but not sufficient for a Granger-causal analysis to say anything about interventions: the intervention must also be an isolated exogenous change and no influence may act within one sampling step, and then Granger noncausality implies no intervention effect and the effect is identified from the observational predictor, but a Granger-causal relation is still only potentially causal

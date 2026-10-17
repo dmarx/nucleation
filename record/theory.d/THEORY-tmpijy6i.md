@@ -17,6 +17,8 @@ summary: >-
   entropy as predictive improvement is untouched. The claims about
   directed information, interventional flow and Gaussian systems are
   cited or conjectured.
+supports:
+- CLAIM-tmpu9ivq
 ---
 
 # THEORY-tmpijy6i: Transfer entropy is not a measure of information flow, if flow means information in the target attributable solely to the source's past: as a conditional mutual information it equals the source's unique information plus its synergy with the target's past, so it can credit a full bit to a source that carries none alone (Y_t = X_{t−1} ⊕ Y_{t−1}) and report zero from each of two sources that jointly fix the target (Z_t = X_{t−1} ⊕ Y_{t−1}); conditioning on further series, as causation entropy does, has the same fault

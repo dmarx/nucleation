@@ -17,6 +17,7 @@ summary: >-
 used_by:
 - CLAIM-tmp6nu4a
 - CLAIM-tmpa4kr6
+- CLAIM-tmpu9ivq
 ---
 
 # TERM-tmpq0ms2: Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention

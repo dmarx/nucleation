@@ -15,6 +15,8 @@ summary: >-
   multivariate split use I_min, which the record has not read argued for.
   The one-parameter family and the three corners of the two-source family
   were recomputed. The text mislabels the synergistic corner.
+supports:
+- CLAIM-tmpu9ivq
 ---
 
 # THEORY-tmpt4nh7: Under any partial information decomposition satisfying the consistency equations, a transfer entropy T_{Y→X} = I(X_{t+1}; Y_t | X_t) is the unique information of the source's past about the target's next state plus the synergy of source and target pasts, which Williams and Beer call state-independent and state-dependent transfer; time-delayed mutual information is the unique part plus redundancy; with the I_min redundancy the state-independent part alone suffices for perfect open-loop control, and a two-source transfer entropy splits into unique, redundant and synergistic transfer

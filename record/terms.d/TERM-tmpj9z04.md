@@ -16,6 +16,8 @@ summary: >-
   what it must not be confused with: flow ([CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md)), directed
   information, time-delayed mutual information, interventional flow and
   Granger causality.
+used_by:
+- CLAIM-tmpu9ivq
 ---
 
 # TERM-tmpj9z04: transfer entropy: how much the last l values of a source reduce uncertainty about a target's next value beyond the target's own last k values, I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}), a directed predictive quantity that depends on k, l and any conditioning series, not a measure of information flow and not an intervention effect

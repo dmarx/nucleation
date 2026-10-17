@@ -13,6 +13,8 @@ summary: >-
   [NOTE-tmpr3ktj](../notes.d/NOTE-tmpr3ktj.md). The local decomposition is an identity; the claims about
   k and about particles rest on elementary CAs judged by eye. Three worked
   local values and rule 18's XOR structure were checked.
+supports:
+- CLAIM-tmpu9ivq
 ---
 
 # THEORY-tmp22xor: Transfer entropy is the average of a local transfer entropy, the log ratio at each observation of the destination's next-state probability with and without the source given the destination's past, which can be negative where the source misleads; the destination history must be long for it to exclude self-influence routed through the source; and conditioning also on the destination's other causal parents (complete) can differ sharply from conditioning on its past alone (apparent), as in elementary cellular automata, where long-history local transfer entropy picks out gliders and domain walls
