@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-17 (NOTE-tmpik4nc); worth reading as the short source of directed information, I(X^N→Y^N) = Σ I(X^n; Y_n | Y^{n−1}), and of the point that the usual definition of a memoryless channel silently forbids feedback because it confuses statistical with causal dependence. Read it knowing that "causal" here is a factorization condition on a system of sources and channels, not an interventional notion; that directed information conditions on the current input as well as the past, so it is not transfer entropy; and that the copy read is the author''s preprint, not the proceedings version. Filed as THEORY-tmppkvwa.'
+status_note: 'read in full 2026-10-17 ([NOTE-tmpik4nc](../notes.d/NOTE-tmpik4nc.md)); worth reading as the short source of directed information, I(X^N→Y^N) = Σ I(X^n; Y_n | Y^{n−1}), and of the point that the usual definition of a memoryless channel silently forbids feedback because it confuses statistical with causal dependence. Read it knowing that "causal" here is a factorization condition on a system of sources and channels, not an interventional notion; that directed information conditions on the current input as well as the past, so it is not transfer entropy; and that the copy read is the author''s preprint, not the proceedings version. Filed as [THEORY-tmppkvwa](../theory.d/THEORY-tmppkvwa.md).'
 title: 'Causality, Feedback and Directed Information'
 version: 1
 history:
