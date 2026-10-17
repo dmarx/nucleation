@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-17 (NOTE-tmpr176u); worth reading as the decomposition that the critique of transfer entropy (LIT-tmpa6og3) stands on: under the Williams–Beer partial information decomposition, transfer entropy is the source''s unique information about the target''s next state plus its synergy with the target''s past, which the authors call state-independent and state-dependent transfer, and a multivariate transfer entropy splits into unique, redundant and synergistic transfer. Read it knowing that every number depends on the I_min redundancy measure, that the PID it applies (arXiv 1004.2515) is not held here, that it is an unrefereed arXiv preprint, and that its text swaps two parameter settings in the three-process example. Filed as THEORY-tmpt4nh7.'
+status_note: 'read in full 2026-10-17 (NOTE-tmpr176u); worth reading as the decomposition that the critique of transfer entropy (LIT-tmpa6og3) stands on: under the Williams–Beer partial information decomposition, transfer entropy is the source''s unique information about the target''s next state plus its synergy with the target''s past, which the authors call state-independent and state-dependent transfer, and a multivariate transfer entropy splits into unique, redundant and synergistic transfer. Read it knowing that every number depends on the I_min redundancy measure, that the PID it applies is Williams and Beer 2010 (LIT-tmpmva6y), whose I_min is contested (LIT-tmpgtytt, LIT-tmp5b2vz), that it is an unrefereed arXiv preprint, and that its text swaps two parameter settings in the three-process example. Filed as THEORY-tmpt4nh7.'
 title: 'Generalized Measures of Information Transfer'
 version: 1
 history:
@@ -32,9 +32,12 @@ keywords:
 - 'controllability'
 extends:
 - LIT-tmpz9o5z
+- LIT-tmpmva6y
 implementations: []
 summary: >-
   Williams & Beer (2011), arXiv preprint, [ARXIV-1102.1507](https://arxiv.org/abs/1102.1507). With the I_min partial information decomposition, T_{Y→X} = I(X_{t+1}; Y_t | X_t) splits into the unique information from Y_t (state-independent transfer, SITE) and the synergy of X_t and Y_t (state-dependent transfer, SDTE). SITE alone gives perfect open-loop controllability (Theorem 1). Time-delayed mutual information adds the redundancy and omits SDTE. For two sources, transfer splits into unique, redundant and synergistic parts. Demonstrated on binary Markov processes and a sleep-apnoea recording, where heart→breath transfer is entirely state-dependent.
+compared_against:
+- LIT-tmpgtytt
 ---
 
 # LIT-tmpsbhb4: Generalized Measures of Information Transfer
@@ -65,9 +68,11 @@ Paul L. Williams and Randall D. Beer (2011), "Generalized Measures of Informatio
 ## Standing in the record
 
 Filed on 2026-10-17 and read the same day, as the decomposition behind
-[LIT-tmpa6og3](LIT-tmpa6og3.md)'s critique. Filed as [THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md). The record does not
-hold Williams and Beer's PID paper (arXiv 1004.2515) or the later
-critiques of I_min. [THEORY-497](../theory.d/THEORY-497.md) already records that a ΦID verdict can
+[LIT-tmpa6og3](LIT-tmpa6og3.md)'s critique. Filed as [THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md). The PID it applies,
+Williams and Beer 2010, is held ([LIT-tmpmva6y](LIT-tmpmva6y.md)), with two critiques of I_min
+([LIT-tmpgtytt](LIT-tmpgtytt.md), [LIT-tmp5b2vz](LIT-tmp5b2vz.md)). Under both alternative measures the coupled
+pair's split is unchanged; Harder, Salge and Polani's bystander example
+shows it can reverse elsewhere ([NOTE-tmpsow60](../notes.d/NOTE-tmpsow60.md)). [THEORY-497](../theory.d/THEORY-497.md) already records that a ΦID verdict can
 turn on the redundancy function, and the same holds for SITE and SDTE away
 from the XOR and copy corners. It carries no instruction for
 machine-learning practice.

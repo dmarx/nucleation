@@ -15,7 +15,11 @@ summary: >-
   1 rows reproduce, except two entries that conflict with the paper's own
   Proposition 18. Under this measure, the record's transfer-entropy
   examples split exactly as under I_min.
+supports:
+- CLAIM-tmpu9ivq
 ---
+
+<!-- inactive-ok-file: THEORY-156 — Proposed; cited for Blackwell's theorem as it states it, which Lemma 6 matches; nothing here rests on its being settled -->
 
 # THEORY-tmp8ox3d: For a target and two sources with finite alphabets, if unique information is to depend only on the two source–target pair marginals, then the minimum of the conditional mutual information over all joints with those marginals is an upper bound on every non-negative decomposition's unique information, and the shared and synergistic information it implies are lower bounds; this unique information vanishes exactly when the other source is Blackwell-sufficient, and the measures are non-negative, satisfy the bivariate partial-information axioms and the identity property, and do not extend to three sources on the partial-information lattice
 

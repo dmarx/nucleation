@@ -37,6 +37,15 @@ keywords:
 implementations: []
 summary: >-
   Williams & Beer (2010), arXiv preprint, [ARXIV-1004.2515](https://arxiv.org/abs/1004.2515). Defines redundancy as I_min(S; A₁…A_k) = Σ_s p(s) min_i I(S = s; A_i), the expected minimum specific information any source gives about each outcome. Restricted to antichains of sources and ordered by α ≼ β iff every source in β contains one in α, the collections form a redundancy lattice (18 nodes for three sources). The Möbius inverse of I_min on it gives partial-information atoms, proved nonnegative, that sum to I(S; R): for two sources, redundancy, two unique terms and synergy. Interaction information is shown to be synergy minus redundancy for three variables and a signed mixture of seven kinds of atom for four, which is why it can be negative and why it gives +1 bit both to 3-parity and to three copies.
+compared_against:
+- LIT-tmp5b2vz
+corrected_by:
+- LIT-tmpgtytt
+extended_by:
+- LIT-tmpgtytt
+- LIT-tmpsbhb4
+rivals:
+- LIT-tmp5b2vz
 ---
 
 # LIT-tmpmva6y: Nonnegative Decomposition of Multivariate Information

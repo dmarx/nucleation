@@ -66,7 +66,9 @@ once per source.
 ## The two examples
 
 Both recomputed exactly on 2026-10-17 (a scratchpad script with an I_min
-PID; [NOTE-tmpt2aw8](../notes.d/NOTE-tmpt2aw8.md)).
+PID; [NOTE-tmpt2aw8](../notes.d/NOTE-tmpt2aw8.md)), and again under Harder, Salge and Polani's I_red and
+Bertschinger et al.'s unique information, with the same values
+([NOTE-tmpsow60](../notes.d/NOTE-tmpsow60.md), [NOTE-tmp9awuq](../notes.d/NOTE-tmp9awuq.md)).
 
 1. **Overstating flow.** X_t i.i.d. uniform bits, Y_t = X_{t−1} ⊕ Y_{t−1}.
    T_{X→Y} = I(Y_t; X_{t−1} | Y_{t−1}) = 1 bit. But I(Y_t; X_{t−1}) = 0 and

@@ -62,6 +62,12 @@ none there.
 
 ## Connections
 
+- The coupled pair's split is the same under Harder, Salge and Polani's
+  I_red ([THEORY-tmpim3f9](THEORY-tmpim3f9.md)) and Bertschinger et al.'s unique information
+  ([THEORY-tmp8ox3d](THEORY-tmp8ox3d.md)), at every d checked. Elsewhere the split depends on
+  the measure: in Harder, Salge and Polani's bystander example at d = 0.75
+  it is 0/0.549 under I_min and 0.411/0.138 under I_red ([NOTE-tmpsow60](../notes.d/NOTE-tmpsow60.md)).
+
 - [THEORY-tmpijy6i](THEORY-tmpijy6i.md) uses this decomposition against the flow reading.
 - [THEORY-568](THEORY-568.md)'s averages need only the consistency equations, the same
   property the split here needs.

@@ -4,7 +4,14 @@ status: Active
 formerly:
 - THEORY-tmpm3bsn
 title: "Two exactly consistent descriptions of one system, at different scales and with equal past–future mutual information, can differ in how that information divides between redundancy and synergy; in small generated Boolean networks under the Williams–Beer redundancy measure the coarser scale was more synergy-biased in every random stochastic system, by at most about 0.07, and the direction mostly reversed for redundancy-biased deterministic ones"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    What-this-does-not-say on the redundancy measure points to the now-held
+    critiques of I_min (THEORY-tmpim3f9, THEORY-tmp8ox3d). The account is
+    unchanged; nothing was recomputed.
 tags:
 - complex-systems
 - information-theory
@@ -66,7 +73,11 @@ It was not, in either direction.
   ran the other way. The abstract and title do not say so.
 - **That the result holds for another redundancy measure.** Only I_min was
   used. The authors note that it is criticised and that PID redundancy has
-  no gold standard.
+  no gold standard. The critiques are now held: I_min credits independent
+  sources copied into the target with a full bit of redundancy, and so
+  overstates synergy by the same amount where sources are copied
+  ([THEORY-tmpim3f9](THEORY-tmpim3f9.md), [THEORY-tmp8ox3d](THEORY-tmp8ox3d.md)). Whether that touches these Gaussian
+  systems was not recomputed.
 - **That the conversion is a property of the system rather than of the
   construction.** Equivalence-class children share inputs and outputs. If
   they behave as copies, part of the microscale's extra redundancy is put

@@ -16,7 +16,7 @@ history:
     (te-checks/pid.py). I did not check the proof of Theorem 1 line by
     line, nor the sleep-apnoea analysis (Figs. 4–6), whose data and code
     are not given. The PID paper it applies (Williams and Beer 2010, arXiv
-    1004.2515) was not read.
+    1004.2515) was read later the same day, in NOTE-tmp8kqax.
 date: '2026-10-17'
 summary: >-
   With the I_min partial information decomposition, transfer entropy

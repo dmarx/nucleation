@@ -38,6 +38,7 @@ corrects:
 - LIT-tmpmva6y
 compared_against:
 - LIT-tmpsbhb4
+- LIT-tmp5b2vz
 implementations: []
 summary: >-
   Harder, Salge & Polani (2013), *Physical Review E* 87, 012130, [ARXIV-1207.2080](https://arxiv.org/abs/1207.2080). I_min gives 1 bit of redundancy when Z = (X, Y) copies two independent uniform bits, because it compares how much each source tells about an outcome and not what. The paper adds an identity axiom, I∩((X,Y); X, Y) = I(X; Y), and defines a bivariate I_red as the smaller of two projected informations, each source's specific information less what remains after projecting its posteriors onto the convex hull of the other's. I_red satisfies symmetry, self-redundancy, monotonicity and identity, and its PID is nonnegative. It agrees with I_min on XOR, AND, RdnXor and XorAnd, and differs on copying, where it tracks I(X; Y). On transfer entropy it agrees with I_min for Williams and Beer's coupled pair but reverses the state-independent/state-dependent split for a process with an independent bystander.
