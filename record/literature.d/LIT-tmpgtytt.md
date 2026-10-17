@@ -1,74 +1,85 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpgtytt:` heading.
+status_note: 'read in full 2026-10-17 (NOTE-tmpsow60); worth reading as the paper that shows I_min is not a measure of shared information, since it gives two independent bits copied into the target 1 bit of redundancy, and that replaces it, for two sources, with I_red, a redundancy built from reverse information projections that satisfies Williams''s three axioms plus an identity axiom, I_red((X,Y); X, Y) = I(X; Y). Read it knowing that the measure is bivariate only, that "mechanistic redundancy" lets independent sources share information (the AND gate keeps I_min''s 0.311 bit), that the Imin-upper-bound pattern is observed in random distributions with exceptions left unexplained, and that its transfer-entropy example shows the two measures can split the same transfer entropy oppositely. Filed as THEORY-tmpim3f9.'
 title: 'A Bivariate Measure of Redundant Information'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as a critique of the I_min redundancy
+    measure (LIT-tmpmva6y) that the record's PID numbers depend on.
+    Citation checked against the arXiv API on 2026-10-17 (Phys. Rev. E
+    87, 012130, doi 10.1103/PhysRevE.87.012130). Not held in the Anthology
+    of the SOTA: a grep of its record/ (clone of 2026-10-12, d1573d2) for
+    the identifiers and for "Salge" and "partial information
+    decomposition" found nothing. Read in full the same day from arXiv
+    1207.2080v3 (20 July 2012), 14 pp.: §§I–V, all proofs, Table I,
+    Figs. 1–15 from captions and prose. The PRE version was not compared.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2012-07-09'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+arxiv: '1207.2080'
+doi: '10.1103/PhysRevE.87.012130'
+first_author: 'Harder'
+keywords:
+- 'redundant information'
+- 'partial information decomposition'
+- 'information geometry'
+- 'information projection'
+- 'synergy'
+- 'transfer entropy'
+- 'open-loop controllability'
+extends:
+- LIT-tmpmva6y
+corrects:
+- LIT-tmpmva6y
+compared_against:
+- LIT-tmpsbhb4
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Harder, Salge & Polani (2013), *Physical Review E* 87, 012130, [ARXIV-1207.2080](https://arxiv.org/abs/1207.2080). I_min gives 1 bit of redundancy when Z = (X, Y) copies two independent uniform bits, because it compares how much each source tells about an outcome and not what. The paper adds an identity axiom, I∩((X,Y); X, Y) = I(X; Y), and defines a bivariate I_red as the smaller of two projected informations, each source's specific information less what remains after projecting its posteriors onto the convex hull of the other's. I_red satisfies symmetry, self-redundancy, monotonicity and identity, and its PID is nonnegative. It agrees with I_min on XOR, AND, RdnXor and XorAnd, and differs on copying, where it tracks I(X; Y). On transfer entropy it agrees with I_min for Williams and Beer's coupled pair but reverses the state-independent/state-dependent split for a process with an independent bystander.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpgtytt: A Bivariate Measure of Redundant Information
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Malte Harder, Christoph Salge and Daniel Polani (2013), "A Bivariate Measure of Redundant Information", *Physical Review E* 87: 012130 — [ARXIV-1207.2080](https://arxiv.org/abs/1207.2080)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmpsow60](../notes.d/NOTE-tmpsow60.md).*
+
+- **What is wrong with I_min (§II C).** For Z = (X, Y) with X, Y independent
+  uniform bits, I_min(Z; X, Y) = 1 bit, though the sources share nothing.
+  I_min takes the minimum of amounts per outcome, ignoring that X and Y
+  move p(z) in different directions.
+- **The identity axiom (Eq. 5).** I∩((X_A1, X_A2); A1, A2) = I(X_A1; X_A2):
+  when the mechanism copies its inputs, redundancy is the inputs' mutual
+  information.
+- **I_red (Eqs. 6–13).** Project each posterior p(z|x) onto the convex hull
+  of {p(z|y)} by reverse KL. The projected information is I(Z; X) minus
+  the average residual divergence. I_red is the smaller of the two
+  directions. All four axioms are proved, and so is nonnegative synergy
+  (Lemma 7).
+- **Examples (Table I).** Copy: I_red = I(X; Y), I_min = 1 at every
+  correlation. XOR 0, AND 0.311, RdnXor 1, XorAnd 0.5, matching I_min.
+  RdnUnqXor 1, where I_min gives 2. The AND result is "mechanistic
+  redundancy": independent sources sharing information because of the
+  mechanism.
+- **Transfer entropy (§IV D).** For Williams and Beer's coupled pair both
+  measures give the same split. With a bystander process X added and
+  T_{Z→(X,Y)} decomposed, at d = 1 I_red gives all of it as
+  state-independent and I_min all as state-dependent.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 as the critique of I_min that the record had named as
+missing, and read the same day. Filed as [THEORY-tmpim3f9](../theory.d/THEORY-tmpim3f9.md). It changes no
+number in the transfer-entropy filing: the worked examples behind
+[CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md) and [THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md) come out the same under I_red, as
+recomputed for this reading. It does bear on [THEORY-581](../theory.d/THEORY-581.md) and [NOTE-020](../notes.d/NOTE-020.md),
+whose synergy bias is computed with I_min, and supplies a second
+redundancy function with the identity property for [NOTE-010](../notes.d/NOTE-010.md)'s worked
+disagreement. It carries no instruction for machine-learning practice.

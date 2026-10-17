@@ -1,74 +1,91 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp5b2vz:` heading.
+status_note: 'read in full 2026-10-17 (NOTE-tmp9awuq); worth reading as the bivariate partial information decomposition that the redundancy-measure-dependent numbers in the record can be checked against: unique information is the minimum of the conditional mutual information over all joints with the same source–target pair marginals, so it vanishes exactly when Blackwell''s order says the other source knows everything this one does, and synergy is what the pair marginals cannot reveal. Read it knowing that it is bivariate only (it cannot be extended to the PI lattice for three sources, by its own §6), that its optimisation is ill-conditioned in practice (Example 31), and that Table 1''s Unq and Copy rows conflict with its own Proposition 18. Filed as THEORY-tmp8ox3d.'
 title: 'Quantifying unique information'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as the critique of Williams and Beer's
+    I_min (LIT-tmpmva6y) that also supplies the alternative most often used
+    since, and because NOTE-010 already leans on "Bertschinger et al.'s"
+    identity property without the record holding the paper. Citation
+    checked against the arXiv API on 2026-10-17 (journal ref Entropy 16(4):
+    2161–2183, 2014, doi:10.3390/e16042161, open access). Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-12,
+    d1573d2) for "Bertschinger", "unique information" and the identifiers
+    found nothing, and its topic vocabulary has no word for information
+    decomposition. Read in full the same day from arXiv 1311.2852v2 (16
+    January 2014, manuscript dated 22 October 2013), 25 pp.; the Entropy
+    version was not compared.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- mathematical-statistics
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2013-11-12'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+arxiv: '1311.2852'
+doi: '10.3390/e16042161'
+first_author: 'Bertschinger'
+keywords:
+- 'Shannon information'
+- 'mutual information'
+- 'information decomposition'
+- 'shared information'
+- 'synergy'
+- 'unique information'
+rivals:
+- LIT-tmpmva6y
+compared_against:
+- LIT-tmpmva6y
+- LIT-tmpgtytt
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Bertschinger, Rauh, Olbrich, Jost & Ay (2014), *Entropy* 16(4): 2161–2183, [ARXIV-1311.2852](https://arxiv.org/abs/1311.2852). For a target X and sources Y, Z, defines the unique information of Y as the minimum of MI_Q(X:Y|Z) over Δ_P, the joint distributions with the same (X,Y) and (X,Z) marginals as P; shared and synergistic information follow from the consistency equations. If unique information depends only on the pair marginals, these functions bound every other such measure (Lemma 3). The unique information is zero exactly when Z is Blackwell-sufficient for Y with respect to X (Lemma 6, Corollary 7). The three measures are non-negative, satisfy the bivariate PI axioms and the identity property, and are computed by a convex programme. They do not extend to three or more sources on the PI lattice.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp5b2vz: Quantifying unique information
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Nils Bertschinger, Johannes Rauh, Eckehard Olbrich, Jürgen Jost and Nihat Ay (2014), "Quantifying unique information", *Entropy* 16(4): 2161–2183 — [ARXIV-1311.2852](https://arxiv.org/abs/1311.2852)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmp9awuq](../notes.d/NOTE-tmp9awuq.md).*
+
+- **The definition.** UĨ(X : Y \ Z) = min over Q ∈ Δ_P of MI_Q(X : Y | Z),
+  where Δ_P holds the joints with P's (X,Y) and (X,Z) marginals.
+  SĨ = max CoI_Q, and CĨ = MI(X : (Y,Z)) − min MI_Q(X : (Y,Z)). One convex
+  programme gives all three (Lemma 4).
+- **The motivating property (∗).** Unique information should depend only on
+  p(x) and the two channels X → Y and X → Z. Under (∗), these measures are
+  upper bounds on unique information and lower bounds on shared and
+  synergistic information for any decomposition (Lemma 3). They are the
+  only ones for which the pair marginals cannot reveal synergy (∗∗).
+- **Operational meaning.** UĨ(X : Z \ Y) = 0 exactly when every decision
+  problem about X is solved at least as well from Y as from Z: Blackwell's
+  order (Lemma 6, Corollary 7).
+- **Properties.** Non-negativity, the bivariate PI axioms, the identity
+  property SĨ((Y,Z) : Y; Z) = MI(Y : Z) (Proposition 18), additivity over
+  independent subsystems, and unique information that cannot grow when
+  sources are added (Lemma 25).
+- **Against I_min.** I_min satisfies (∗), so I_min ≥ SĨ. It is
+  "unreasonably large" in examples such as Copy, where it gives 1 bit of
+  redundancy between independent sources.
+- **Limits.** Bivariate only. The identity property is incompatible with a
+  non-negative decomposition on the PI lattice for three sources (§6,
+  citing Bertschinger et al. 2013). The optimisation can be badly
+  conditioned (Example 31).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 as the bivariate decomposition the record's
+transfer-entropy accounts can be checked against. Every number in
+[THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md) and [THEORY-tmpijy6i](../theory.d/THEORY-tmpijy6i.md) that went past the two-term split was
+computed with I_min. Recomputed under this measure, the split for every
+transfer-entropy example the record uses is unchanged
+([NOTE-tmp9awuq](../notes.d/NOTE-tmp9awuq.md)). The split itself holds for any bivariate decomposition
+(Remark 14). [NOTE-010](../notes.d/NOTE-010.md)'s reliance on "Bertschinger et al.'s" identity property
+now has its source. `mathematical-statistics` is for the Blackwell order,
+`complex-systems` for its use in synergy and emergence. It carries no
+instruction for machine-learning practice.

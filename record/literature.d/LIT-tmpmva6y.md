@@ -1,74 +1,78 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpmva6y:` heading.
+status_note: 'read in full 2026-10-17 (NOTE-tmp8kqax); worth reading as the source of the partial information decomposition the record already leans on through Williams and Beer (2011), Varley and Hoel, the ΦID review and the Shannon-invariants paper: the redundancy lattice of antichains, the Möbius inversion that turns any redundancy function into nonnegative-by-construction atoms once that function is monotone on the lattice, and the I_min redundancy measure. Read it knowing that the lattice and the inversion are general while every number is I_min''s, that I_min credits independent sources with redundancy whenever they reduce surprise about the same outcomes (Harder, Salge and Polani, LIT-tmpgtytt), and that it is an unrefereed arXiv preprint. Filed as THEORY-tmpeogx6.'
 title: 'Nonnegative Decomposition of Multivariate Information'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as the source of I_min and of the
+    partial information decomposition (PID) that Williams and Beer (2011,
+    LIT-tmpsbhb4), Varley and Hoel (NOTE-020), the Shannon-invariants paper
+    (NOTE-045) and the readings of transfer entropy depend on. An arXiv
+    preprint only: Crossref finds no published version and OpenAlex lists
+    only the arXiv DOI 10.48550/arxiv.1004.2515, both checked on
+    2026-10-17. Not held in the Anthology of the SOTA: a grep of its
+    record/ (clone of 2026-10-12, d1573d2) for the identifier, "Williams
+    and Beer", "partial information decomposition" and I_min found
+    nothing. Read in full the same day from arXiv 1004.2515v1 (14 April
+    2010), 14 pp.: §§I–VI, Appendices A–D with the proofs followed step by
+    step through Theorem 5, Appendix E's figures from captions.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2010-04-14'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+arxiv: '1004.2515'
+first_author: 'Williams'
+keywords:
+- 'partial information decomposition'
+- 'redundancy'
+- 'synergy'
+- 'interaction information'
+- 'specific information'
+- 'redundancy lattice'
+- 'multivariate information'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Williams & Beer (2010), arXiv preprint, [ARXIV-1004.2515](https://arxiv.org/abs/1004.2515). Defines redundancy as I_min(S; A₁…A_k) = Σ_s p(s) min_i I(S = s; A_i), the expected minimum specific information any source gives about each outcome. Restricted to antichains of sources and ordered by α ≼ β iff every source in β contains one in α, the collections form a redundancy lattice (18 nodes for three sources). The Möbius inverse of I_min on it gives partial-information atoms, proved nonnegative, that sum to I(S; R): for two sources, redundancy, two unique terms and synergy. Interaction information is shown to be synergy minus redundancy for three variables and a signed mixture of seven kinds of atom for four, which is why it can be negative and why it gives +1 bit both to 3-parity and to three copies.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpmva6y: Nonnegative Decomposition of Multivariate Information
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Paul L. Williams and Randall D. Beer (2010), "Nonnegative Decomposition of Multivariate Information", arXiv preprint — [ARXIV-1004.2515](https://arxiv.org/abs/1004.2515)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmp8kqax](../notes.d/NOTE-tmp8kqax.md).*
+
+- **I_min (Eq. 3).** Redundancy is the expected minimum, over sources, of
+  the specific information I(S = s; A) = D_KL(p(a|s) ‖ p(a)) about each
+  outcome s. It is nonnegative, at most each source's mutual information,
+  and equal to it for one source.
+- **The lattice (Eqs. 4–5).** Collections of sources with no source a
+  superset of another (antichains), ordered by α ≼ β iff every B ∈ β
+  contains some A ∈ α. There are 4 nodes for two sources, 18 for three,
+  166 for four: the Dedekind numbers.
+- **The atoms (Eqs. 6–8).** Π is the Möbius inverse of I_min on the
+  lattice. Theorem 5 proves every atom nonnegative for I_min. The
+  inversion itself works for any redundancy function; nonnegativity has to
+  be shown for each.
+- **Interaction information (Eqs. 14–15).** For three variables it is
+  synergy minus redundancy. For four it is a signed sum of atoms, with one
+  atom counted twice, so pure synergy (3-parity) and pure redundancy
+  (three copies) both score +1 bit.
+- **Scope.** No estimator, no data, no application. The lattice grows
+  super-exponentially; for nine variables it has more than 5 × 10²² nodes.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 because the record used its decomposition in at
+least six documents without holding it, and read the same day. Filed as
+[THEORY-tmpeogx6](../theory.d/THEORY-tmpeogx6.md). The lattice and the inversion are what
+[THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md)'s two-term split and [THEORY-568](../theory.d/THEORY-568.md)'s redundancy-free
+invariants rest on. I_min itself is what [THEORY-581](../theory.d/THEORY-581.md)'s numbers rest on.
+Harder, Salge and Polani ([LIT-tmpgtytt](LIT-tmpgtytt.md)) show I_min gives 1 bit of
+redundancy to two independent bits copied into the target. It carries no
+instruction for machine-learning practice.
