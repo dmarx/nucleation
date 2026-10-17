@@ -146,33 +146,33 @@ extra bits I pay for coding I's next state as if J did not matter".
   correlation-integral estimators of Grassberger, Schreiber and
   Schaffrath; compares itself with time-delayed MI (Kaneko, Vastano and
   Swinney) and with synchronization measures [2].
-- **Barnett, Barrett and Seth (LIT-tmpmi22s, NOTE-tmp2veo7).** Their Eq.
+- **Barnett, Barrett and Seth ([LIT-tmpmi22s](../literature.d/LIT-tmpmi22s.md), [NOTE-tmp2veo7](NOTE-tmp2veo7.md)).** Their Eq.
   10 is Eq. 4 with Z conditioned on, multivariate and with lags p, q, r.
   Its Gaussian form equals half Geweke's Granger causality.
-- **Barnett and Bossomaier (LIT-048, NOTE-053).** Their T is Eq. 4 with
+- **Barnett and Bossomaier ([LIT-048](../literature.d/LIT-048.md), [NOTE-053](NOTE-053.md)).** Their T is Eq. 4 with
   l = k. Their plug-in estimator for finite states is Eq. 4 with
   empirical frequencies.
-- **Das, Manikandan and Banerjee (LIT-947, NOTE-788).** TE_{x→y}(τ) =
+- **Das, Manikandan and Banerjee ([LIT-947](../literature.d/LIT-947.md), [NOTE-788](NOTE-788.md)).** TE_{x→y}(τ) =
   I(y_{t+τ}; x_t | y_t) is Eq. 4 with k = l = 1 at τ = 1. For τ > 1 it
   conditions on y_t, not on y_{t+τ−1}, so it is a delayed variant the
   Letter does not define. My reading.
-- **Kaiser and Schreiber (LIT-tmpfgfsh)** carries the definition to
+- **Kaiser and Schreiber ([LIT-tmpfgfsh](../literature.d/LIT-tmpfgfsh.md))** carries the definition to
   continuous processes; not read.
-- **James, Barnett and Crutchfield (LIT-tmpa6og3)** argue that the
+- **James, Barnett and Crutchfield ([LIT-tmpa6og3](../literature.d/LIT-tmpa6og3.md))** argue that the
   quantity Eq. 4 measures is not a flow. The Letter supplies the
   vocabulary they object to: "transfer", "exchange", "transport".
 
 ## Bearing on the record
 
-- Filed as THEORY-tmp1jjkw.
+- Filed as [THEORY-tmp1jjkw](../theory.d/THEORY-tmp1jjkw.md).
 - The record's documents disagree on k and l only in the sense that
-  Schreiber leaves them open. NOTE-053 (l = k) and NOTE-788 (k = l = 1)
-  are both within Eq. 4. NOTE-788's τ > 1 form is not, and NOTE-788
+  Schreiber leaves them open. [NOTE-053](NOTE-053.md) (l = k) and [NOTE-788](NOTE-788.md) (k = l = 1)
+  are both within Eq. 4. [NOTE-788](NOTE-788.md)'s τ > 1 form is not, and [NOTE-788](NOTE-788.md)
   credits it to Schreiber; that is worth an annotation there.
-- TERM-tmpj9z04 should state the definition with k and l explicit, and
+- [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md) should state the definition with k and l explicit, and
   note that the Letter's guarantee of excluding common input holds only
   for an input that is conditioned on.
-- For CLAIM-tmpu9ivq: the Letter calls T "information transfer" without
+- For [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md): the Letter calls T "information transfer" without
   defining flow; C1 is all it shows. Positive T means J's past changes
   I's transition law given I's own past, nothing more localized than
   that.
@@ -186,7 +186,7 @@ extra bits I pay for coding I's next state as if J did not matter".
   survive longer histories, and nothing tests that.
 - No sampling distribution, bias analysis or significance test is given.
   Finite-sample bias appears only as the small-r deflection in Fig. 4.
-  Barnett and Bossomaier (NOTE-053) later supply a χ² null under a
+  Barnett and Bossomaier ([NOTE-053](NOTE-053.md)) later supply a χ² null under a
   parametric model.
 - The ε → 0 claim is by analogy; the kernel estimator works at a fixed r,
   so the results are resolution-dependent by construction.
