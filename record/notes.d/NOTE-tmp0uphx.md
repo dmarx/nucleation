@@ -26,6 +26,8 @@ summary: >-
   synergistic information violate left monotonicity.
 ---
 
+<!-- inactive-ok-file: THEORY-497 — Proposed; named as the account the theorem bears on, as the record's inference -->
+
 # NOTE-tmp0uphx: Rauh, Bertschinger, Olbrich and Jost — Reconsidering unique information
 
 ## Contribution

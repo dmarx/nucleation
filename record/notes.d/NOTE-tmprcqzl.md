@@ -31,6 +31,8 @@ summary: >-
   against Bertschinger et al.
 ---
 
+<!-- inactive-ok-file: THEORY-tmp65fz9 — Proposed; the account filed from this reading -->
+
 # NOTE-tmprcqzl: Ince — Measuring multivariate redundant information with pointwise common change in surprisal
 
 ## Contribution

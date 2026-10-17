@@ -46,6 +46,8 @@ summary: >-
   Ince (2017), *Entropy* 19(7): 318, [ARXIV-1602.05063](https://arxiv.org/abs/1602.05063). Defines I_ccs, a redundancy for any number of sources: under the maximum-entropy joint P̂ that matches every source–target marginal and the joint source marginal, take the expectation of the local co-information over only those events where every source's local information, the joint source's and the co-information have the same sign. It satisfies symmetry, self-redundancy, subset equality and an "independent identity" (independent sources copied into the target share nothing), but not Harder et al.'s identity, monotonicity or non-negative atoms; Table 7 has unique information −0.16 bit. Argues from a game-theoretic operational definition that unique information depends on the source–source marginal, against Bertschinger et al. On three sources it accepts the negative atoms of XORCOPY and DBLXOR as "mechanistic redundancy".
 ---
 
+<!-- inactive-ok-file: THEORY-tmp65fz9 — Proposed; the account filed from this reading -->
+
 # LIT-tmpeucmj: Measuring multivariate redundant information with pointwise common change in surprisal
 
 Robin A. A. Ince (2017), "Measuring multivariate redundant information with pointwise common change in surprisal", *Entropy* 19(7): 318 — [ARXIV-1602.05063](https://arxiv.org/abs/1602.05063)
