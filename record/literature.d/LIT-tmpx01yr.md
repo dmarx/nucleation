@@ -1,74 +1,87 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpx01yr:` heading.
+status_note: 'read in full 2026-10-17 (NOTE-tmp71sln), arXiv v6, with v1 and v2 checked for the passage that changed; worth reading as the "whole minus union" account of synergy, S_VK = I(X;Y) − I_VK, where the union information I_VK is the least I(X;Y) over joints with every source–target marginal fixed, and as the source of the early position, quoted by Harder, Salge and Polani, that independent sources carry no redundant information. Read it knowing that v6 withdraws that position (Fig. 11''s note), that for two sources I_VK is the same optimisation as Bertschinger et al.''s, so S_VK is their synergy CI and the paper''s open AND value is 0.5 bit, that several properties of the derived intersection measure are not proved, and that the bound S_VK ≤ S_max rests on a step the reading could not reconstruct. Filed as THEORY-tmpims74.'
 title: 'Quantifying synergistic mutual information'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as the Griffith position that Harder,
+    Salge and Polani (LIT-1168) quote and oppose ([15], [16] there), the
+    remaining PID gap after #158. Citation checked against Crossref and the
+    arXiv abstract page on 2026-10-17: v1 18 May 2012, v6 31 March 2014;
+    published in M. Prokopenko (ed.), Guided Self-Organization: Inception,
+    Emergence, Complexity and Computation 9, Springer 2014, pp. 159–190,
+    doi 10.1007/978-3-642-53734-9_6. Not held in the Anthology of the SOTA:
+    a grep of its record/ (clone of 2026-10-12, d1573d2) for "Griffith",
+    the identifiers and "intersection information" found nothing. Read in
+    full the same day from arXiv v6 (§§1–8, Appendices A–F); v1 and v2
+    were read for the AND example and the independent-predictors
+    passage only. The book chapter was not compared.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2012-05-18'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+arxiv: '1205.4265'
+doi: '10.1007/978-3-642-53734-9_6'
+first_author: 'Griffith'
+keywords:
+- 'synergy'
+- 'synergistic mutual information'
+- 'union information'
+- 'partial information decomposition'
+- 'redundancy'
+- 'correlational importance'
+extends:
+- LIT-1172
+compared_against:
+- LIT-1172
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Griffith & Koch (2014), in *Guided Self-Organization: Inception* (Springer), pp. 159–190, [ARXIV-1205.4265](https://arxiv.org/abs/1205.4265). Synergy is the whole minus the union of its parts: S_VK = I(X_1…n : Y) − I_VK, with I_VK the minimum of I*(X_1…n : Y) over joints that keep every Pr(X_i, Y). S_VK lies between max(0, WholeMinusSum) and Williams and Beer's S_max, and the paper shows on binary circuits that S_max counts two unique bits as synergy (Unq), WholeMinusSum subtracts redundancy (RdnXor), and correlational importance ΔI is not bounded by the mutual information and drops when a predictor is duplicated. Versions 1–2 held that independent predictors carry no redundant information; v6 withdraws this, showing redundancy at least 0.082 bit in AND.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpx01yr: Quantifying synergistic mutual information
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Virgil Griffith and Christof Koch (2014), "Quantifying synergistic mutual information", in M. Prokopenko (ed.), *Guided Self-Organization: Inception*, Springer: 159–190 — [ARXIV-1205.4265](https://arxiv.org/abs/1205.4265)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmp71sln](../notes.d/NOTE-tmp71sln.md).*
+
+- **Whole minus union (Eqs. 13–14).** I_VK(X : Y) = min I*(X_1…n : Y)
+  over Pr* with Pr*(X_i, Y) = Pr(X_i, Y) for every i, and
+  S_VK = I(X_1…n : Y) − I_VK. A minimum exists, since
+  Pr(y) Π Pr(x_i | y) satisfies the constraints, and that distribution
+  gives an analytic upper bound on I_VK (Appendix D).
+- **Bounds (Eq. 15).** max(0, WMS) ≤ S_VK ≤ S_max ≤ I(X_1…n : Y).
+- **Three prior measures criticised (§4, Table 1).** S_max (from I_max)
+  reports 1 bit of synergy in Unq, where two predictors each carry one
+  unique bit. WholeMinusSum is synergy minus redundancy, 0 in RdnXor. ΔI
+  exceeds the mutual information in one published case, is 0.104 bit in
+  AND, below the 0.189 lower bound, and falls to 0.038 when a predictor
+  is duplicated.
+- **Properties of I_VK (§6).** Global positivity, self-redundancy, weak
+  symmetry, weak local positivity for two sources, and strong identity,
+  I_VK(X : X_1…n) = H(X_1…n), are proved. Monotonicity and target
+  monotonicity are claimed, and strong symmetry is disproved.
+- **The reversal.** v1 and v2 assert that because X_1 and X_2 are
+  independent in AND there must be zero redundant information, and so
+  give 0.311 bit unique each and 0.189 synergy. v6 says this was wrong:
+  the analytic bound gives redundancy at least 0.082 bit.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 as the Griffith view Harder, Salge and Polani oppose
+([LIT-1168](LIT-1168.md)), and read the same day. Filed as [THEORY-tmpims74](../theory.d/THEORY-tmpims74.md). The
+reading finds the dispute resolved by the authors themselves. Harder,
+Salge and Polani quote v1's "independent … thus necessitating there is
+zero redundant information" accurately, and call what they defend
+against it "mechanistic redundancy". Version 6 concedes the point for
+its own measure. For two sources its union information is Bertschinger
+et al.'s optimisation ([LIT-1162](LIT-1162.md)), so S_VK is their CI, and AND's synergy
+is 0.5 bit with 0.311 bit redundant, the value Harder, Salge and Polani
+expected. That identification is the reading's, not the paper's. It
+carries no instruction for machine-learning practice.
