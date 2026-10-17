@@ -4,13 +4,22 @@ status: Active
 formerly:
 - THEORY-tmptk080
 title: "Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Declared `extends: THEORY-tmp0xaeq` once Barnett, Barrett and Seth
+    (2009) was read (NOTE-tmp2veo7): the Gaussian equivalence this account
+    recovers is now an account of its own. The claim is unchanged.
 tags:
 - information-theory
 - mathematical-statistics
 date: '2026-10-16'
 source:
 - LIT-048
+extends:
+- THEORY-tmp0xaeq
 summary: >-
   Barnett & Bossomaier (2012), [LIT-048](../literature.d/LIT-048.md), read in full in [NOTE-053](../notes.d/NOTE-053.md). The
   consistency result is a one-line consequence of Props. 1–2, and Prop. 2
@@ -56,7 +65,8 @@ large-sample theory" (Wald 1943) and is not proved in the letter.
   the parameters and their ML estimates are the empirical conditionals.
   So d = (a−1)a^k(b^k−1). The reading checked d = 2 at a = b = 2, k = 1.
 - *Linear Gaussian VAR (p. 5).* T̂ is half the Granger-causality
-  statistic, recovering Barnett, Barrett & Seth (2009).
+  statistic, recovering Barnett, Barrett & Seth (2009), [THEORY-tmp0xaeq](THEORY-tmp0xaeq.md),
+  read in [NOTE-tmp2veo7](../notes.d/NOTE-tmp2veo7.md).
 
 **Illustration (Fig. 1).** A binary bivariate chain, with T_{Y→X} =
 0.0823 nats at θ = 0.4 (checked), approaches the χ²(2) null at n = 20,

@@ -1,0 +1,76 @@
+---
+status: Active
+status_note: 'read in full 2026-10-16 (NOTE-tmpr3ktj); worth reading as the source of local transfer entropy, the pointwise log ratio whose average is Schreiber''s transfer entropy, and of the split between apparent transfer entropy (conditioned on the destination''s past only) and complete transfer entropy (conditioned also on the other causal parents). Read it knowing that its evidence is elementary cellular automata, where the causal parents are known by construction; that "complete" needs that knowledge; that the destination history k must be long (k ≥ 6 for rule 110, k = 16 used) and is limited by sample size; and that its closing claim to establish transfer entropy as the measure of information transfer predates the critique of James, Barnett and Crutchfield (LIT-tmpa6og3). Filed as THEORY-tmp22xor.'
+title: 'Local information transfer as a spatiotemporal filter for complex systems'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed at the owner's request as the source of local transfer entropy,
+    one of the transfer-entropy variants the record lacked. Citation
+    checked against Crossref on 2026-10-16: Phys. Rev. E 77, 026110,
+    published 15 February 2008, which is earlier than the arXiv v1
+    (0809.3275, 19 September 2008), so `published:` is the Crossref date.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone of
+    2026-10-12) for "Lizier", "transfer entropy" and the identifiers found
+    nothing. Read in full the same day from arXiv 0809.3275v1
+    (NOTE-tmpr3ktj); the PRE version was not compared.
+tags:
+- complex-systems
+- information-theory
+date: '2026-10-16'
+published: '2008-02-15'
+arxiv: '0809.3275'
+doi: '10.1103/PhysRevE.77.026110'
+first_author: 'Lizier'
+keywords:
+- 'information transfer'
+- 'local transfer entropy'
+- 'cellular automata'
+- 'particles'
+- 'gliders'
+- 'domain walls'
+- 'self-organization'
+extends:
+- LIT-tmpz9o5z
+implementations: []
+summary: >-
+  Lizier, Prokopenko & Zomaya (2008), *Physical Review E* 77, 026110, [ARXIV-0809.3275](https://arxiv.org/abs/0809.3275). Transfer entropy is the average of a local quantity t_{Y→X}(n+1) = log p(x_{n+1} | x⁽ᵏ⁾_n, y_n)/p(x_{n+1} | x⁽ᵏ⁾_n), which can be negative where the source misleads. Apparent transfer entropy conditions on the destination's past; complete transfer entropy also conditions on the destination's other causal parents. Applied to elementary cellular automata with long destination histories (k ≥ 6, up to 16), both highlight gliders (rule 110) and domain walls (rule 18) as the dominant information-transfer structures; in rule 18's domain, complete transfer entropy is about 1 bit at alternate sites where apparent transfer entropy is zero.
+---
+
+# LIT-tmps1x9k: Local information transfer as a spatiotemporal filter for complex systems
+
+Joseph T. Lizier, Mikhail Prokopenko and Albert Y. Zomaya (2008), "Local information transfer as a spatiotemporal filter for complex systems", *Physical Review E* 77: 026110 — [ARXIV-0809.3275](https://arxiv.org/abs/0809.3275)
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpr3ktj](../notes.d/NOTE-tmpr3ktj.md).*
+
+- **Local transfer entropy (Eq. 9).** T_{Y→X} = ⟨t_{Y→X}(n + 1, k, l)⟩ with
+  t = log p(x_{n+1} | x⁽ᵏ⁾_n, y⁽ˡ⁾_n)/p(x_{n+1} | x⁽ᵏ⁾_n). The local value can
+  exceed log b or be negative, where the source is "misleading".
+- **History length.** Conditioning on the destination's past removes
+  "non-traveling" self-influence routed through the source; the correct
+  setting is k → ∞ (Eq. 12). With k = 1 neither local MI nor local TE
+  separates gliders from the background; k ≥ 6 does for rule 110.
+- **Apparent against complete (Eqs. 13–14).** Complete transfer entropy
+  conditions also on the destination's other causal parents; in a
+  deterministic system it is nonnegative. In rule 18's domain apparent
+  TE is 0 where complete TE is about 1 bit.
+- **Particles carry the transfer.** Gliders (rules 110, 54) and domain
+  walls (rules 18, 146) are where local TE is high, in their direction of
+  motion; rule 22 shows transfer without coherent structure.
+- **Averages hide it.** Average TE against k for rule 110 does not reach
+  a limit by k = 16 and says nothing about gliders (Fig. 7).
+
+## Standing in the record
+
+Filed on 2026-10-16 and read the same day. It fixes two things the
+record's transfer-entropy readings left open: the destination history
+length, which [NOTE-788](../notes.d/NOTE-788.md)'s TE takes as a single value, and the difference
+between conditioning on the destination alone and on its other causes.
+Filed as [THEORY-tmp22xor](../theory.d/THEORY-tmp22xor.md). Its "apparent" against "complete" contrast is the
+synergy that [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md) turns on. `complex-systems` is primary for its
+question, information transfer by emergent structure; it carries no
+instruction for machine-learning practice.

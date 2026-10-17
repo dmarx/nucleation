@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpz37g5
 paper: LIT-372
 title: 'On the Information Bottleneck Theory of Deep Learning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-09-30'
@@ -36,6 +36,13 @@ history:
     and was not read here"; the anthology holds it for ML practice
     (information-plane measurement).). The first NOTE on this paper, which
     was seeded from its abstract alone.
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    The Kraskov line annotated: the estimator is Kozachenko–Leonenko's
+    entropy estimator as Kraskov et al. restate it (LIT-tmp76vux), checked
+    against Saxe et al.'s JSTAT 2019 Appendix B.3; the public code holds only
+    KDE and binning.
 date: '2026-09-30'
 summary: >-
   Replicating Shwartz-Ziv & Tishby with their own code, the paper shows
@@ -65,7 +72,7 @@ For a deterministic network, h = f(X) has H(h|X) = −∞, so the continuous I(h
 - **Replication setting (§2).** The SZT architecture 12-10-7-5-4-3-2 with tanh and a 2-unit sigmoid output layer, trained by SGD (batch 256 in the replication) on the 12-bit, 4,096-pattern task. Activity is binned into 30 equal bins in [−1, 1]. The ReLU version uses 100 equal bins between the minimum and maximum activity over all units and all epochs of the completed run (§2; App. C).
 - **Estimators (App. B).**
   - The KDE upper bound (eq. 7) assumes T = h + ε, ε ~ N(0, σ²I) with σ² = 0.1, over the empirical input distribution.
-  - The Kraskov k-NN estimator (k = 2, ε = 10⁻¹⁶) estimates H(T), which equals I(X;T) up to a constant only under homoscedastic noise.
+  - The Kraskov k-NN estimator (k = 2, ε = 10⁻¹⁶) estimates H(T), which equals I(X;T) up to a constant only under homoscedastic noise. (Annotated 2026-10-17: it is the Kozachenko–Leonenko entropy estimator in the form Kraskov et al. restate as their Eq. 20, Saxe et al.'s Eq. B.10 in the JSTAT 2019 version, not Kraskov et al.'s mutual-information estimators, [LIT-tmp76vux](../literature.d/LIT-tmp76vux.md). The public code, ibsgd at branch iclr2018, has only the KDE and binning estimators, so the k-NN result cannot be checked against it.)
 - **Linear student–teacher (§3).** X ~ N(0, I/Nᵢ), Y = W₀X + ε₀, teacher weights i.i.d. N(0, σ²_w), SNR = σ²_w/σ²₀. The student is a deep linear network trained by MSE. Its generalisation error is exact: E_g(t) = ‖W₀ − W_tot(t)‖²_F + σ²₀ (eq. 5). MI is computed exactly under an imposed per-layer noise σ²_MI = 1.0 (eq. 6).
 - **Isotropic inputs.** All input dimensions have equal variance, and teacher weights are drawn independently, so "there are no special directions in the input" (§3). The authors flag that real tasks may put the signal in high-variance directions and say they have not investigated it.
 - **Weight growth.** Weights start small and grow during training. App. D argues this is "a virtual necessity" for tanh networks to compute nonlinear functions, and shows it empirically (weight-norm lines in Figs. 9, 10, 20, 21).

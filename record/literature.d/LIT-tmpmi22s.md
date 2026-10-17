@@ -1,0 +1,76 @@
+---
+status: Active
+status_note: 'read in full 2026-10-16 (NOTE-tmp2veo7); worth reading as the short, exact source of the Gaussian equivalence the record already leans on through Barnett and Bossomaier (NOTE-053): for jointly Gaussian stationary processes, Geweke''s generalized-variance Granger causality is exactly twice the transfer entropy, conditional and multivariate. Read it knowing that the identity is about population quantities at fixed lags, that sample agreement depends on how the entropies are estimated, and that the remark that a stationary Gaussian AR process leaves nothing for nonlinear Granger causality cites unpublished work. Filed as THEORY-tmp0xaeq.'
+title: 'Granger causality and transfer entropy are equivalent for Gaussian variables'
+version: 1
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed at the owner's request: Barnett and Bossomaier (NOTE-053) and
+    THEORY-641 cite its result secondhand. Citation checked against
+    Crossref and the arXiv API on 2026-10-16 (PRL 103, 238701, published
+    4 December 2009). Not held in the Anthology of the SOTA: a grep of its
+    record/ (clone of 2026-10-12) for "Granger", "transfer entropy" and
+    the identifiers found nothing. Read in full the same day from arXiv
+    0910.4514v2 (NOTE-tmp2veo7); the PRL version was not compared.
+tags:
+- information-theory
+- causality
+date: '2026-10-16'
+published: '2009-10-23'
+arxiv: '0910.4514'
+doi: '10.1103/PhysRevLett.103.238701'
+first_author: 'Barnett'
+keywords:
+- 'Granger causality'
+- 'transfer entropy'
+- 'causal inference'
+- 'Gaussian processes'
+- 'partial covariance'
+extends:
+- LIT-tmppqyor
+- LIT-tmpj9yuo
+implementations: []
+summary: >-
+  Barnett, Barrett & Seth (2009), *Physical Review Letters* 103, 238701, [ARXIV-0910.4514](https://arxiv.org/abs/0910.4514). For jointly Gaussian stationary processes X, Y, Z, Geweke's Granger causality F_{Y→X|Z} = ln(|Σ(X|X⁻⊕Z⁻)|/|Σ(X|X⁻⊕Y⁻⊕Z⁻)|) equals 2T_{Y→X|Z}, twice the transfer entropy, for multivariate predictor, predictee and conditioning variables. The proof is two lines: Gaussian conditional entropy is ½ln|partial covariance| plus a constant, and OLS residual covariance is the partial covariance.
+extended_by:
+- LIT-Barnett-2012-048
+---
+
+# LIT-tmpmi22s: Granger causality and transfer entropy are equivalent for Gaussian variables
+
+Lionel Barnett, Adam B. Barrett and Anil K. Seth (2009), "Granger causality and transfer entropy are equivalent for Gaussian variables", *Physical Review Letters* 103: 238701 — [ARXIV-0910.4514](https://arxiv.org/abs/0910.4514)
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp2veo7](../notes.d/NOTE-tmp2veo7.md).*
+
+- **The identity (Eq. 13).** If X, Y and Z are jointly Gaussian and
+  stationary, F_{Y→X|Z} = 2T_{Y→X|Z}, with F in Geweke's
+  generalized-variance form (Eq. 9) and T the conditional transfer
+  entropy (Eq. 10). It holds for multivariate variables and reduces to the
+  standard univariate statistic (Eq. 8).
+- **Why.** The OLS residual covariance is the partial covariance
+  Σ(X|Y) = Σ(X) − Σ(X,Y)Σ(Y)⁻¹Σ(X,Y)ᵀ (Eq. 3), and a Gaussian's
+  conditional entropy is ½ln|Σ(X|Y)| + ½n ln(2πe) (Eq. 11), by the block
+  determinant identity.
+- **Prediction, not intervention.** The authors say a G-causality
+  interaction is not a physically instantiated causal interaction, which
+  "can only be unambiguously identified by perturbing a system" (p. 2).
+  The regressions are predictive models, not claims about the
+  data-generating process, and may omit latent or exogenous variables
+  (fn. 31).
+- **In sample.** Numerical agreement depends on the transfer-entropy
+  estimator. With covariance-based entropies it is guaranteed; with
+  partition, kernel or nearest-neighbour estimators it is not (p. 7).
+
+## Standing in the record
+
+Filed on 2026-10-16 as the paper [NOTE-053](../notes.d/NOTE-053.md) and [THEORY-641](../theory.d/THEORY-641.md) cite for
+"T̂ is half the Granger statistic", and read the same day. The reading
+confirms the citation. Filed as [THEORY-tmp0xaeq](../theory.d/THEORY-tmp0xaeq.md), which [THEORY-641](../theory.d/THEORY-641.md)
+generalizes beyond the Gaussian case. `causality` is for its subject,
+the Wiener–Granger notion of causal inference, which the authors
+themselves keep apart from intervention. It carries no instruction for
+machine-learning practice.
