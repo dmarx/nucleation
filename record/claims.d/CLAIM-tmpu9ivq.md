@@ -23,6 +23,7 @@ grounds:
 - THEORY-tmpijy6i
 - THEORY-tmpt4nh7
 - THEORY-tmp22xor
+- THEORY-tmp8ox3d
 uses:
 - TERM-tmpj9z04
 - TERM-tmpq0ms2
@@ -43,7 +44,9 @@ summary: >-
 
 ## The claim
 
-Transfer entropy is I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}) ([TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)). By the
+Transfer entropy is I(X_{t+1}; Y_t^{(l)} | X_t^{(k)}) ([TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)), and for
+Gaussian data it is half Granger causality ([TERM-tmpq0ms2](../terms.d/TERM-tmpq0ms2.md)), so what follows
+holds of the Granger measure there too. By the
 consistency equations of any partial information decomposition with the
 two sources Y's past and X's past, a conditional mutual information is the
 source's unique information plus the synergy of the two. The redundancy
@@ -97,8 +100,13 @@ transfer.
   flow credits X ([THEORY-tmpkovi2](../theory.d/THEORY-tmpkovi2.md)). What fails is localizing the bit to X
   alone, not the existence of an effect. Prediction against intervention is
   [CLAIM-tmp6nu4a](CLAIM-tmp6nu4a.md)'s separate question.
-- **What the unique part is.** It has no agreed measure. Every number
-  beyond the two-term split depends on a choice of redundancy function.
+- **What the unique part is.** It has no agreed measure. In general every
+  number beyond the two-term split depends on a choice of redundancy
+  function, though Bertschinger et al. prove the split itself for any
+  bivariate decomposition ([THEORY-tmp8ox3d](../theory.d/THEORY-tmp8ox3d.md), Remark 14). In the record's
+  examples the numbers are the same under I_min and under their measure,
+  because the target's own past says nothing about its next value there
+  ([NOTE-tmp9awuq](../notes.d/NOTE-tmp9awuq.md)).
 - **That directed information escapes this.** James, Barnett and Crutchfield
   say it inherits the flaw. Its lagged part is full-history transfer entropy
   ([THEORY-tmppkvwa](../theory.d/THEORY-tmppkvwa.md)), so it does at least that far.

@@ -40,7 +40,8 @@ complements:
 
 ## The claim
 
-[NOTE-010](../notes.d/NOTE-010.md) records the ΦID review's C5, §IV A: if all relevant variables
+Granger causality is meant as [TERM-tmpq0ms2](../terms.d/TERM-tmpq0ms2.md) defines it: predictive, relative
+to a stated information set. [NOTE-010](../notes.d/NOTE-010.md) records the ΦID review's C5, §IV A: if all relevant variables
 are measured, Granger- and Pearl-type analyses coincide. It has no
 citation and no conditions. The record holds instead:
 

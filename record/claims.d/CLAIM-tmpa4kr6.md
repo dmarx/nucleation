@@ -40,7 +40,8 @@ supervenience, any change to M(t) is a change to m(t). So σ_M(t) cannot
 satisfy (i), and "the effect of M on m" in their sense is undefined, not
 zero.
 
-What Granger causation from M to mᵢ does show is predictive: M's past
+What Granger causation from M to mᵢ does show is predictive, as
+[TERM-tmpq0ms2](../terms.d/TERM-tmpq0ms2.md) defines it: M's past
 improves the prediction of mᵢ beyond the past of the other variables in
 the regression. In a linear regression this can happen when f is
 nonlinear and the regression cannot form f(m(t − 1)) from the m's pasts.
