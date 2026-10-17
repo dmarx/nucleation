@@ -36,6 +36,7 @@ grounds:
 - THEORY-tmp6rcgc
 - THEORY-tmp2k3a9
 - LIT-tmpuamcv
+- LIT-tmpgo33i
 complements:
 - CLAIM-tmp84z6h
 - CLAIM-tmpt568z
@@ -103,7 +104,10 @@ The complaint against active inference is then precise in Pearl's terms
 ([THEORY-tmp2k3a9](../theory.d/THEORY-tmp2k3a9.md)). Active inference treats perception as conditioning on
 observations that arrive at the blanket's sensory states, and places all
 of the agent's influence on what it observes in action, which samples the
-data ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md)). The claim holds that the agent's main influence on
+data ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md), read in [NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md)). The paper states the contrast
+itself: "the model (agent) is fixed and the aim is to minimize surprise by
+re-sampling the data", and agents "can only act by changing hidden states,
+not the sensory mapping per se". The claim holds that the agent's main influence on
 what it observes is an intervention on itself, the observer, made by
 judging. Action on the world is one further influence. It is not part of
 the loop.
@@ -242,20 +246,20 @@ outcome, is not part of this claim:
   hierarchy "could not perform very reliably" if its actions were
   "completely 'short-circuited'" by it, and Part II lists switching a
   system "entirely to the imagination-connection" as one of the ego's
-  defences (LIT-tmpuh84t). Unlike the 1973 paper, 1960 does reshape the
+  defences ([LIT-tmpuh84t](../literature.d/LIT-tmpuh84t.md)). Unlike the 1973 paper, 1960 does reshape the
   observer. The reorganizing system's first act is to build new perceptual
   input functions, "tentative definitions of new variables", driven by
   error in bodily intrinsic signals, "measures of a set of physiological
-  states" (NOTE-tmpf65in). And Part II tests a change to the observer by
+  states" ([NOTE-tmpf65in](../notes.d/NOTE-tmpf65in.md)). And Part II tests a change to the observer by
   imagining: a golfer drops a new idea because "a moment spent imagining
-  doing so would reveal" the conflicts it makes (NOTE-tmplcbcz). So
+  doing so would reveal" the conflicts it makes ([NOTE-tmplcbcz](../notes.d/NOTE-tmplcbcz.md)). So
   perceptual control theory has both of the claim's ingredients. The
   imagination loop changes nothing in the perceiver. Reorganization
   changes the perceiver, but is driven by bodily error, not by judgement.
   The claim's loop, judgement reshaping the observer, falls between them.
   The reorganizing system's inputs may include "mean error signal in the
   hierarchy", a scoring signal the learned hierarchy does not set, which
-  is QUESTION-tmpr5tck's candidates 2 and 4.
+  is [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md)'s candidates 2 and 4.
 - **The epistemic cut.** Pattee ([LIT-tmpo5atc](../literature.d/LIT-tmpo5atc.md), read in [NOTE-tmp7d44m](../notes.d/NOTE-tmp7d44m.md)) does
   not put measurement first. Measurement and control are converses:
   "measurement transforms physical states to symbols in memory, while

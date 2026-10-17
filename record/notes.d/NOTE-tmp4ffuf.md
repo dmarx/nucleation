@@ -168,8 +168,8 @@ descends from Russell's circumplex (ref. 1). It cites Barrett's
 constructed-emotion work (refs. 3, 5, 74) and Lindquist and Satpute on the
 default network's role in conceptualising emotion (refs. 72–73). It
 names reinforcement-learning models of hippocampus as an untested
-alternative (p. 8). In the record, Barrett's theory is NOTE-434 and
-THEORY-057.
+alternative (p. 8). In the record, Barrett's theory is [NOTE-434](NOTE-434.md) and
+[THEORY-057](../theory.d/THEORY-057.md).
 
 ## Bearing on the record
 
@@ -188,7 +188,7 @@ THEORY-057.
   stimuli, not one that changes how the next film is read. The paper
   leaves the developmental question open: "longitudinal research is
   needed" (p. 7).
-- **Constructed emotion, NOTE-434 and THEORY-057.**
+- **Constructed emotion, [NOTE-434](NOTE-434.md) and [THEORY-057](../theory.d/THEORY-057.md).**
   - The paper puts the decisive question as open: whether the concepts
     "reflect the statistical regularities of important life events that
     are shared across individuals and cultures, or whether they are
@@ -200,7 +200,7 @@ THEORY-057.
     structure afforded by the human brain" (p. 8), is congenial to
     construction from experience, but it is about the valence–arousal
     structure, not about whether a concept constitutes the emotion.
-  - Under THEORY-057's own promote_when, this is the kind of evidence
+  - Under [THEORY-057](../theory.d/THEORY-057.md)'s own promote_when, this is the kind of evidence
     that "cannot settle it": classifiers within one study. Leave-one-film-out
     generalisation is still one dataset.
   - The cross-participant hierarchy (r = .978) looks like evidence of a
@@ -208,7 +208,7 @@ THEORY-057.
     decoder is fit to the same consensus ratings, so similar decoded
     category correlations are partly built in (my observation). It does
     not count against perceiver dependence.
-- **CLAIM-tmpq9do8.** The registration hoped for "an observer shaped by
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md).** The registration hoped for "an observer shaped by
   its history, through which later emotional episodes are read". The
   paper supplies a candidate substrate for such an observer, a learned
   relational structure separate from content, but no evidence that it is
@@ -217,13 +217,13 @@ THEORY-057.
   neither supports nor undermines the claim. If anything, it is a small
   reminder that the standard computational account of map learning is an
   action–perception one.
-- **CLAIM-tmp84z6h.** TEM's factorisation, a structural code g reused
+- **[CLAIM-tmp84z6h](../claims.d/CLAIM-tmp84z6h.md).** TEM's factorisation, a structural code g reused
   across environments and a content code p bound to it by Hebbian
   memory, is an analogue of a context (frame) under which content is
   interpreted, and of a structure that persists while content changes.
   That is analogy, not evidence: the paper has no influence allocation
   and no judgement.
-- **CLAIM-tmpt568z and QUESTION-tmpr5tck.** Nothing directly.
+- **[CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) and [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).** Nothing directly.
 - **Checks of the current LIT.**
   - "hippocampal activity represented emotion concepts in a structured
     hierarchy and ventromedial prefrontal cortex tracked locations in a
@@ -266,4 +266,4 @@ THEORY-057.
   same dissociation?
 - Does a map learned without action (for example by passive sequence
   exposure, as in successor-representation models) fit the data as well
-  as TEM's action-driven one? That would bear on CLAIM-tmpq9do8.
+  as TEM's action-driven one? That would bear on [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md).

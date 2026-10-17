@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-16 (NOTE-tmp4xxvp) in full, from the open-access article at nature.com; the Supplementary Information was not read. Worth reading as the one report of a patient classed as completely locked-in who spelled self-chosen sentences through a BCI, by learning to raise or lower motor-cortex firing rates against an auditory tone after attempted and imagined movements gave no usable signal. Read it knowing that he had used an eye-movement BCI with the same speller until weeks before CLIS, that he had been in CLIS for weeks rather than years, that control was intermittent (intelligible output on 44 of 107 days) and rated by the authors, and that the authors concede residual muscle control was not excluded. As published, the article carries no editor's note, correction, expression of concern or retraction (nature.com and Crossref, 2026-10-16).
+  read 2026-10-16 ([NOTE-tmp4xxvp](../notes.d/NOTE-tmp4xxvp.md)) in full, from the open-access article at nature.com; the Supplementary Information was not read. Worth reading as the one report of a patient classed as completely locked-in who spelled self-chosen sentences through a BCI, by learning to raise or lower motor-cortex firing rates against an auditory tone after attempted and imagined movements gave no usable signal. Read it knowing that he had used an eye-movement BCI with the same speller until weeks before CLIS, that he had been in CLIS for weeks rather than years, that control was intermittent (intelligible output on 44 of 107 days) and rated by the authors, and that the authors concede residual muscle control was not excluded. As published, the article carries no editor's note, correction, expression of concern or retraction (nature.com and Crossref, 2026-10-16).
 title: 'Spelling interface using intracortical signals in a completely locked-in patient enabled via auditory neurofeedback training'
 version: 2
 history:
@@ -46,7 +46,7 @@ Chaudhary, U., Vlachos, I., Zimmermann, J. B., Espinosa, A., Tonin, A., Jaramill
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp4xxvp.*
+*From the reading, [NOTE-tmp4xxvp](../notes.d/NOTE-tmp4xxvp.md).*
 
 - **History.** ALS diagnosed 2015, ventilated from 2016; eye-tracker until
   August 2017; EOG-based BCI with an auditory speller from February 2018
@@ -77,4 +77,4 @@ Chaudhary, U., Vlachos, I., Zimmermann, J. B., Espinosa, A., Tonin, A., Jaramill
 
 ## Why this is here
 
-For CASE-tmpxgcq2: the CLIS patient who communicated, offered by Kübler and Birbaumer's own group as refuting their extinction hypothesis (LIT-tmpxcw33). The reading changes how far it does. The patient learned a BCI and the speller while still in LIS and carried them into CLIS, which is the exception the 2008 paper predicted ("learning BCI-control or any other contingency before onset of CLIS ... should prevent extinction"), and he had been without communication for weeks, not the "longer time periods in CLIS" the hypothesis concerns. Communication came only once an operant contingency on motor-cortex firing was built, so it shows lucidity that a newly made action channel could reach, not judgement running with no action at all (CLAIM-tmpq9do8's defeater (b) stays untested). The other caution stands as filed: the authors' earlier CLIS papers were retracted after a DFG misconduct finding (reported by STAT, 2022-03-22), and outside researchers urged caution about this one; the article itself carries no notice, and those reports were not rechecked in this reading.
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): the CLIS patient who communicated, offered by Kübler and Birbaumer's own group as refuting their extinction hypothesis ([LIT-tmpxcw33](LIT-tmpxcw33.md)). The reading changes how far it does. The patient learned a BCI and the speller while still in LIS and carried them into CLIS, which is the exception the 2008 paper predicted ("learning BCI-control or any other contingency before onset of CLIS ... should prevent extinction"), and he had been without communication for weeks, not the "longer time periods in CLIS" the hypothesis concerns. Communication came only once an operant contingency on motor-cortex firing was built, so it shows lucidity that a newly made action channel could reach, not judgement running with no action at all ([CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s defeater (b) stays untested). The other caution stands as filed: the authors' earlier CLIS papers were retracted after a DFG misconduct finding (reported by STAT, 2022-03-22), and outside researchers urged caution about this one; the article itself carries no notice, and those reports were not rechecked in this reading.

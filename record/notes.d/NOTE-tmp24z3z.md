@@ -169,13 +169,13 @@ al.; Hill et al. 2006) and compares them with other groups' (Wolpaw,
 Pfurtscheller, Neuper, Sellers and Donchin, Piccione, Hoffmann). The
 extinction hypothesis is Birbaumer's (2006, "Breaking the silence"),
 resting on Miller (1969) and Dworkin and Miller (1986). The ERP battery is
-Kotchoubey et al. (2002–2005). Chaudhary et al. (LIT-tmpzuemc, read in
-NOTE-tmp4xxvp), with Birbaumer as senior author, cite it as the hypothesis
+Kotchoubey et al. (2002–2005). Chaudhary et al. ([LIT-tmpzuemc](../literature.d/LIT-tmpzuemc.md), read in
+[NOTE-tmp4xxvp](NOTE-tmp4xxvp.md)), with Birbaumer as senior author, cite it as the hypothesis
 their patient tests.
 
 ## Bearing on the record
 
-- **QUESTION-tmpr5tck: which of the two things does the hypothesis
+- **[QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md): which of the two things does the hypothesis
   concern?** Contingency between intention and outcome, as the question
   says, and the paper is explicit that the other one survives. What is
   lost is "the perception of the contingency between the required
@@ -191,7 +191,7 @@ their patient tests.
   "feedback" there plausibly includes the somatic and proprioceptive
   feedback of movement (the paper does not say). That is still feedback
   contingent on the patient's own output, not unselected input.
-- **CLAIM-tmpki5gp.** Its quotation is accurate, but it gives the
+- **[CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md).** Its quotation is accurate, but it gives the
   hypothesis as "the judgement loop, on this view, runs down when action is
   gone". The paper says less and something more specific. Less: it is
   "might be responsible", from seven patients, by analogy with a rat result
@@ -203,7 +203,7 @@ their patient tests.
   empirical paragraph: it is evidence that action carries the contingency
   that sustains goal-directed activity, not evidence that action is the
   route by which the loop receives unselected evidence.
-- **CLAIM-tmpq9do8, defeater (b).** The paper offers a candidate for (b):
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md), defeater (b).** The paper offers a candidate for (b):
   lucid goal-directed judgement failing when every contingency between
   intention and outcome is removed. But it does not establish it. The
   patients' consciousness was not shown to be otherwise preserved (one was
@@ -216,10 +216,10 @@ their patient tests.
   whether judgement about what is heard survives is exactly what the
   paradigm cannot see. So the paper leaves (b) untested, which is the
   CASE's asymmetry.
-- **CLAIM-tmpt568z.** No direct bearing. The paper's scoring of patient
+- **[CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md).** No direct bearing. The paper's scoring of patient
   performance is fixed (chance thresholds computed in advance), but that
   is the observers' anchor, not the patient's.
-- **CASE-tmpxgcq2.**
+- **[CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md).**
   - *Hearing intact; vision not tested.* All CLIS patients had the N1-P2
     auditory response, so primary auditory cortex was working. All stimuli
     were auditory; vision is not assessed. The SCP and SMR BCIs gave visual
@@ -238,7 +238,7 @@ their patient tests.
     equilibrium do not occur" and reward loses its homeostatic value. The
     visceral regulation the CASE counts as surviving paralysis is, in the
     ventilated and tube-fed CLIS patient, partly clamped from outside. That
-    bears on QUESTION-tmpr5tck's candidate 2 (the body) as well.
+    bears on [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md)'s candidate 2 (the body) as well.
 - **For the anthology.** No instruction for machine-learning practice.
 
 ## Limitations

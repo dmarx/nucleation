@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-16 (NOTE-tmp24z3z) in full, from the NIH author manuscript in PubMed Central. Worth reading as the source of the extinction hypothesis for the completely locked-in state: none of seven patients who began BCI training already in CLIS reached yes/no communication, and the authors propose that losing the perceived contingency between a response and its consequences, with reward blunted by artificially held homeostasis, extinguishes goal-directed thinking while passive sensory processing stays intact. Read it knowing that the hypothesis rests on seven heterogeneous patients and an analogy with curarized rats whose result failed to replicate, that it is stated as "might be responsible", and that it predicts its own exception: a contingency learned before CLIS and carried into it should prevent extinction.
+  read 2026-10-16 ([NOTE-tmp24z3z](../notes.d/NOTE-tmp24z3z.md)) in full, from the NIH author manuscript in PubMed Central. Worth reading as the source of the extinction hypothesis for the completely locked-in state: none of seven patients who began BCI training already in CLIS reached yes/no communication, and the authors propose that losing the perceived contingency between a response and its consequences, with reward blunted by artificially held homeostasis, extinguishes goal-directed thinking while passive sensory processing stays intact. Read it knowing that the hypothesis rests on seven heterogeneous patients and an analogy with curarized rats whose result failed to replicate, that it is stated as "might be responsible", and that it predicts its own exception: a contingency learned before CLIS and carried into it should prevent extinction.
 title: 'Brain–computer interfaces and communication in paralysis: Extinction of goal directed thinking in completely paralysed patients?'
 version: 2
 history:
@@ -51,7 +51,7 @@ Kübler, A. & Birbaumer, N. (2008). *Clinical Neurophysiology* 119(11):2658–26
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp24z3z.*
+*From the reading, [NOTE-tmp24z3z](../notes.d/NOTE-tmp24z3z.md).*
 
 - **The pattern.** Performance is flat from minor impairment to the
   locked-in state and collapses in CLIS: 5 of 7 CLIS patients at chance,
@@ -76,4 +76,4 @@ Kübler, A. & Birbaumer, N. (2008). *Clinical Neurophysiology* 119(11):2658–26
 
 ## Why this is here
 
-The empirical form of CLAIM-tmpki5gp and the hinge of CASE-tmpxgcq2. The reading confirms the split QUESTION-tmpr5tck draws: the hypothesis concerns contingency between a response and its outcome, and the authors say outright that passive sensory processing, the arrival of evidence the patient did not select, survives. So it is evidence that action carries the contingency that keeps goal-directed activity going, not that action is the loop's route to unselected evidence. It is weaker than CLAIM-tmpki5gp's paragraph suggests: a hypothesis ("might be responsible") from seven patients, one probably in a disorder of consciousness, by analogy with a curarized-rat result that failed to replicate. And it does not test CLAIM-tmpq9do8's defeater (b), since what failed was acquiring a new operant skill, with consciousness not shown to be otherwise preserved. Chaudhary et al. (LIT-tmpzuemc) is the case that answers it, but that patient had learned a BCI before CLIS, which is the exception this paper predicts.
+The empirical form of [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) and the hinge of [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md). The reading confirms the split [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md) draws: the hypothesis concerns contingency between a response and its outcome, and the authors say outright that passive sensory processing, the arrival of evidence the patient did not select, survives. So it is evidence that action carries the contingency that keeps goal-directed activity going, not that action is the loop's route to unselected evidence. It is weaker than [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md)'s paragraph suggests: a hypothesis ("might be responsible") from seven patients, one probably in a disorder of consciousness, by analogy with a curarized-rat result that failed to replicate. And it does not test [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s defeater (b), since what failed was acquiring a new operant skill, with consciousness not shown to be otherwise preserved. Chaudhary et al. ([LIT-tmpzuemc](LIT-tmpzuemc.md)) is the case that answers it, but that patient had learned a BCI before CLIS, which is the exception this paper predicts.

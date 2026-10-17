@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-16 (NOTE-tmpojcai) in full, from the open-access version in PubMed Central. Worth reading as the largest survey of chronic locked-in patients' own ratings of their lives: 47 of 65 rated their present life at or above the midpoint between their best period before LIS and their worst ever, and happiness rose with years in LIS, recovered speech and absence of anxiety. Read it knowing that it is a self-selected association sample (54% response, 26 more excluded) answering with a proxy's help, that most respondents had recovered some speech or limb movement, and that the authors expect its biases to overstate well-being.
+  read 2026-10-16 ([NOTE-tmpojcai](../notes.d/NOTE-tmpojcai.md)) in full, from the open-access version in PubMed Central. Worth reading as the largest survey of chronic locked-in patients' own ratings of their lives: 47 of 65 rated their present life at or above the midpoint between their best period before LIS and their worst ever, and happiness rose with years in LIS, recovered speech and absence of anxiety. Read it knowing that it is a self-selected association sample (54% response, 26 more excluded) answering with a proxy's help, that most respondents had recovered some speech or limb movement, and that the authors expect its biases to overstate well-being.
 title: 'A survey on self-assessed well-being in a cohort of chronic locked-in syndrome patients: happy majority, miserable minority'
 version: 2
 history:
@@ -45,7 +45,7 @@ Bruno, M.-A., Bernheim, J. L., Ledoux, D., Pellas, F., Demertzi, A. & Laureys, S
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpojcai.*
+*From the reading, [NOTE-tmpojcai](../notes.d/NOTE-tmpojcai.md).*
 
 - **Definition and forms.** LIS is "quadriplegia (or quadriparesis) and
   aphonia (or severe hypophonia) with a primary mode of communication by
@@ -64,4 +64,4 @@ Bruno, M.-A., Bernheim, J. L., Ledoux, D., Pellas, F., Demertzi, A. & Laureys, S
 
 ## Why this is here
 
-For CASE-tmpxgcq2: it documents lucid, evaluative life over years in locked-in syndrome, judged by patients against their own remembered past. The reading qualifies the use the CASE makes of it. Most of the sample is not on one eyelid: over half had recovered some speech and most some limb movement, and recovered speech is the strongest correlate of happiness. So it shows lucid judgement kept up for years with world-directed action severely reduced, and partly restored, not with action reduced to vertical eye movement. It also gives the source of the three forms of LIS that the CASE attributes to Laureys et al. (LIT-tmpx97h7): Bauer et al. (1979).
+For [CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md): it documents lucid, evaluative life over years in locked-in syndrome, judged by patients against their own remembered past. The reading qualifies the use the CASE makes of it. Most of the sample is not on one eyelid: over half had recovered some speech and most some limb movement, and recovered speech is the strongest correlate of happiness. So it shows lucid judgement kept up for years with world-directed action severely reduced, and partly restored, not with action reduced to vertical eye movement. It also gives the source of the three forms of LIS that the CASE attributes to Laureys et al. ([LIT-tmpx97h7](LIT-tmpx97h7.md)): Bauer et al. (1979).

@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-16, not read (abstract only). Registered from the exchange of 2026-10-16 on active inference and locked-in syndrome (the workbench entry of 2026-10-16). No NOTE is filed.
+  read 2026-10-16 ([NOTE-tmpknfrc](../notes.d/NOTE-tmpknfrc.md)) in full, from the PubMed Central deposit of the journal version; worth reading as the active-inference model of mental action: attentional states set the precision of the perceptual likelihood, meta-awareness states set the precision of the attentional likelihood, and the agent selects 'stay' or 'switch' over its own attentional state against a preference to observe itself 'focused', reproducing the cycle of focus, mind-wandering and refocusing. Read it knowing that action is defined at the attentional level only; that the agent's attentional state is modelled as a generative process the mental action acts on, so the loop is action and perception one level inward; that the perceptual observations are fixed in advance and mental action changes only their precision; that nothing is learned; and that the results are single illustrative simulations with no data fitted.
 title: 'Towards a computational phenomenology of mental action: modelling meta-awareness and attentional control with deep parametric active inference'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-16'
   note: >-
     Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-16. The PsyArXiv preprint (doi:10.31234/osf.io/5jh3c, 2020-06-10) precedes the journal (2021-08-26) and dates it. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-16, commit d1573d2) for the authors and the title found nothing.
+- version: 2
+  date: '2026-10-16'
+  note: >-
+    Read in full (NOTE-tmpknfrc) from the PMC deposit (PMC8396119, CC BY-NC), fetched as full-text XML through Europe PMC; the OUP and PMC PDFs were refused to this client. Status Deferred to Active. The summary is rewritten from the reading: action only at the second level, meta-awareness set by the simulation, observations fixed, no learning. "Why this is here" now answers the question the registration left: the first-level observation is fixed before and independently of the mental action, while the second-level self-observation is produced by it.
 tags:
 - neuroscience
 - phenomenology
@@ -27,7 +31,7 @@ keywords:
 - 'precision'
 implementations: []
 summary: >-
-  Sandved-Smith, Hesp, Mattout, Friston, Lutz & Ramstead (2021). Casts mental action as policy selection over higher-level cognitive states, with a meta-awareness level that modulates the precision of the mapping between observations and hidden cognitive states; simulates mind-wandering and its regulation.
+  Sandved-Smith, Hesp, Mattout, Friston, Lutz & Ramstead (2021). A three-level discrete active-inference model: attentional states (focused, distracted) set the precision of the perceptual likelihood, and meta-awareness states (high, low) set the precision with which the agent observes its own attentional state. Mental action is a policy, 'stay' or 'switch', over attentional states, defined at that level only and driven by a preference to observe oneself 'focused'. Single simulations of a passive oddball reproduce focus, mind-wandering, noticing and refocusing, with longer mind-wandering under low meta-awareness. Stimuli are fixed by the generative process, so mental action changes how strongly they update belief, not what they are; no likelihood is learned.
 supports:
 - CLAIM-tmp9cjyo
 ---
@@ -36,9 +40,48 @@ supports:
 
 Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A. & Ramstead, M. J. D. (2021). *Neuroscience of Consciousness* 2021(1):niab018. doi:10.1093/nc/niab018. Preprint: PsyArXiv, 2020, doi:10.31234/osf.io/5jh3c.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, [NOTE-tmpknfrc](../notes.d/NOTE-tmpknfrc.md).*
+
+- **Mental action as precision deployment.** Attentional states "condition
+  the precision of observations at the level below"; mental action
+  selects transitions between them, "two possible actions u(2), 'stay' and
+  'switch'", at the second level only (Fig. 6 caption).
+- **Only precision, not content.** The higher states "generate outcomes at
+  lower levels that speak—not to which state the world is in but—to the
+  precision of beliefs about which state the world is in" (Methods). The
+  stimulus sequence is "predetermined, with a deviant stimulus shown every
+  20th time step" (Results, Level 1); precision acts as a "rate constant"
+  on belief updating.
+- **Action one level inward.** The true attentional state is a generative
+  process with "a policy-dependent probability" of transition; the agent
+  observes it (o(2)) and acts to observe itself "focused" (Results,
+  Level 2).
+- **Meta-awareness and opacity.** Meta-awareness is the precision of A(2);
+  an attentional state is opaque when that precision is non-zero.
+  Meta-awareness is set by hand in the simulation, high then low.
+- **Scope.** No learning of any likelihood; single runs; no data fitted.
+  The extension to other precisions (B, C, D, E, G) is stated, and the
+  model "is not currently implemented to cover other kinds of mental
+  action".
 
 ## Why this is here
 
-The strongest form of [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md): active inference already has an internal loop, mental action, run as policy selection one level up. What the abstract states is that this action sets precision on a mapping from observations to hidden states. Whether the observation it weights is fixed before the mental action, which [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) needs, is what a reading should check.
+The strongest form of [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md): active inference already has an
+internal loop, mental action, run as policy selection one level up. The
+reading confirms it more literally than the claim says. The paper models
+the agent's attentional state as a generative process and has the agent
+act on it to fulfil a preferred self-observation, the action–perception
+cycle with the self in the place of the world. It narrows it too: one
+acting level, two actions, precision only, nothing learned. So it
+supplies none of the claim's structure-learning strand.
+
+For [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) the registration asked whether the observation the
+mental action weights is fixed before the action. At the perceptual level
+it is: the stimuli are predetermined and mental action changes only their
+precision. At the attentional level it is not: the mental action changes
+the attentional state and so the content of the self-observation that
+follows, which is the synchronic form the thesis does not claim. The
+paper has no mechanism by which a judgement reshapes the observer's
+likelihood.

@@ -47,7 +47,7 @@ first, the model without its psychological application. It defines a
 control unit (Feedback, Comparator and Output Functions plus an
 Environment Function), stacks such units so that a higher order's output
 is a lower order's reference, and adds three things the 1973 Science
-paper (NOTE-tmpxdsyb) leaves out: a recording function at every unit that
+paper ([NOTE-tmpxdsyb](NOTE-tmpxdsyb.md)) leaves out: a recording function at every unit that
 supplies references as replays of past perceptions (memory), an
 "imagination connection" by which those replays reach the higher order's
 perception without passing through the world, and an inherited
@@ -258,15 +258,15 @@ feedback signals ..., outgoing output signals, and imagination
 connections"; Shannon and Weaver and analogue-computing texts supply the
 signal language; a 1954 Air Force frequency-response report is "A good
 example of what we are not trying to accomplish." "Uncommitted neurones"
-is McCulloch's term (p. 13). The 1973 Science paper (LIT-tmp626gh, read in
-NOTE-tmpxdsyb) restates the hierarchy and the reorganizing top level and
+is McCulloch's term (p. 13). The 1973 Science paper ([LIT-tmp626gh](../literature.d/LIT-tmp626gh.md), read in
+[NOTE-tmpxdsyb](NOTE-tmpxdsyb.md)) restates the hierarchy and the reorganizing top level and
 drops the recording function, the imagination connection and the mixing
-control. Part II (LIT-tmpuh84t, NOTE-tmplcbcz) names the orders and works
+control. Part II ([LIT-tmpuh84t](../literature.d/LIT-tmpuh84t.md), [NOTE-tmplcbcz](NOTE-tmplcbcz.md)) names the orders and works
 out reorganization, consciousness and conflict.
 
 ## Bearing on the record
 
-- **CLAIM-tmpq9do8 (thesis).**
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) (thesis).**
   - *The Rivals bullet's quotations are accurate.* "plan an action
     'mentally' without actually performing it", "match", "automatically
     ensured", "could not perform very reliably" and "completely
@@ -298,7 +298,7 @@ out reorganization, consciousness and conflict.
       error" (pp. 15–16), in "the lower-order systems and the environment".
       So in Part I the selection of a new observer runs through action and
       the world. Part II qualifies this: a new organization can be vetoed
-      by "a moment spent imagining" (NOTE-tmplcbcz).
+      by "a moment spent imagining" ([NOTE-tmplcbcz](NOTE-tmplcbcz.md)).
     The claim's loop, judgement reshaping the observer, sits between the
     paper's two mechanisms. The imagination loop has judgement-like
     content but changes nothing. Reorganization changes the observer, but
@@ -308,16 +308,16 @@ out reorganization, consciousness and conflict.
     order "does not act directly on the external world, but on the only
     environment with which it is in immediate contact, the set of
     next-lower-order systems" (p. 22). This is a stronger statement of
-    CLAIM-tmp9cjyo's "the lower system is the higher one's proximal
+    [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md)'s "the lower system is the higher one's proximal
     environment" than the 1973 paper gives, where higher systems sense
     quantities in the world. Here they perceive only lower signals.
   - *`supports: CLAIM-tmpq9do8` on the LIT is doubtful.* The paper's
     hierarchy is "of the external-loop type" (p. 21); its one internal
-    loop is hedged for exactly the reason CLAIM-tmpki5gp gives; and its
+    loop is hedged for exactly the reason [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) gives; and its
     reshaping of the observer is selected through behaviour. It is a
     rival that contains the claim's ingredients, not support for it. The
     LIT's relation was left as filed, for the owner to decide.
-- **CLAIM-tmpki5gp (counter).** The paper states its worry in its own
+- **[CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) (counter).** The paper states its worry in its own
   terms: a hierarchy "completely 'short-circuited' by the imagination
   connections" could not "perform very reliably in a real and sometimes
   dangerous environment" (p. 20). Its remedy is not action as such but a
@@ -327,8 +327,8 @@ out reorganization, consciousness and conflict.
   stays in error in present-time perception, and the only place it can be
   satisfied is imagination (my observation; the paper does not discuss
   paralysis). Part II names a full switch to imagination as a defence
-  against conflict (NOTE-tmplcbcz).
-- **CASE-tmpxgcq2.**
+  against conflict ([NOTE-tmplcbcz](NOTE-tmplcbcz.md)).
+- **[CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md).**
   - *Sensory deprivation.* The paper says one sentence: under it the
     imagination connection "apparently provides a great deal of
     information" (p. 20). No source and no data are given. Locked-in
@@ -340,7 +340,7 @@ out reorganization, consciousness and conflict.
     firmly identified by external observations", since a system with
     internal feedback "could be simulated exactly by another system with
     no internal loops" (p. 6).
-- **QUESTION-tmpr5tck.**
+- **[QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).**
   - *Candidate 2, the body.* The N-system is a scoring channel the learned
     hierarchy does not set: its references "must be genetically determined,
     not determined by experience" (p. 14), and its inputs are physiological.
@@ -353,7 +353,7 @@ out reorganization, consciousness and conflict.
     attention in the Feedback Functions or the way outputs stimulate
     recordings, and add "We are open to suggestions" (p. 20). The paper
     has no answer to the question, and locates where it lies.
-- **Checks of LIT-tmpgo33i.** The summary is correct against pp. 19–20.
+- **Checks of [LIT-tmpgo33i](../literature.d/LIT-tmpgo33i.md).** The summary is correct against pp. 19–20.
   "Why this is here" is correct in what it quotes, and should add that the
   1960 theory reshapes perceptual input functions through reorganization,
   so the contrast with "constant sensors" holds for the 1973 paper only.
@@ -379,12 +379,12 @@ out reorganization, consciousness and conflict.
 
 - What the mixing control is, and whether anything other than intrinsic
   error or danger sets it. That is the place in this model where
-  QUESTION-tmpr5tck's answer would go.
+  [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md)'s answer would go.
 - Whether reorganization of input functions can be triggered by error in
   the learned hierarchy rather than only by intrinsic error. Part II
   allows "mean error signal in the hierarchy" as an intrinsic variable (p.
   35), which would make a failed judgement a cause of reorganization
-  (NOTE-tmplcbcz).
+  ([NOTE-tmplcbcz](NOTE-tmplcbcz.md)).
 - Whether, in output deprivation with input spared, the model predicts a
   shift of the mix toward imagination, and so the self-confirming regime
-  CLAIM-tmpki5gp fears.
+  [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) fears.

@@ -129,12 +129,12 @@ long-term cohort, and follows Cummins's homeostatic theory of subjective
 well-being in interpreting the result. The forms of LIS come from Bauer et
 al. (1979), and its cognitive claim from Schnakers et al. (2008). It points
 to brain–computer interfaces (Kübler and Neumann 2005, in the same Progress
-in Brain Research volume as Laureys et al. 2005, LIT-tmpx97h7) as expected
+in Brain Research volume as Laureys et al. 2005, [LIT-tmpx97h7](../literature.d/LIT-tmpx97h7.md)) as expected
 progress. Laureys is senior author here too.
 
 ## Bearing on the record
 
-- **CASE-tmpxgcq2.**
+- **[CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md).**
   - *The definition.* The CASE's quotation from the abstract is verbatim.
     The paper's own definition, in the Introduction, says LIS is
     quadriplegia "or quadriparesis" and aphonia "or severe hypophonia",
@@ -155,7 +155,7 @@ progress. Laureys is senior author here too.
     the questionnaire was filled in "aided by the patient's proxy" and
     adapted "Given the specific constraint of eye-coded communication";
     it does not report channels per patient.
-- **CLAIM-tmpq9do8.** The paper bears on the claim's "What it does not
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md).** The paper bears on the claim's "What it does not
   say" (the loop that keeps a built model in touch) only weakly. A
   biographically anchored self-rating is a judgement made against the
   person's own remembered past, maintained over a median of 8 years in a
@@ -166,7 +166,7 @@ progress. Laureys is senior author here too.
   speech recovery is the strongest correlate of happiness (OR 20.5): the
   data are equally read as action mattering to how well the life goes.
   Neither reading concerns whether the model stays in touch.
-- **CLAIM-tmpki5gp, QUESTION-tmpr5tck.** No direct bearing. The authors'
+- **[CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md), [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).** No direct bearing. The authors'
   explanation of the minority, those "who cannot shed the needs and values
   from their previous life", is a judgement-side account of adaptation
   (recalibrating and reprioritising), not an action-side one, but it is

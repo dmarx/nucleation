@@ -28,3 +28,9 @@
 - Readings of six of the registered works (Owen et al., Monti et al.,
   Feldman & Lynch, Slovic, QBism, Pattee, Powers 1973), two marked
   Unavailable, and Powers, Clark & McFarland (1960) registered.
+- Four works the owner named, on attempted out-of-body perception, goal
+  and uncertainty codes, emotion maps and auditory–prefrontal loops, read
+  or found Unavailable. The eight works registered at the start and
+  Powers et al. (1960, both parts) were read, and Laureys et al. and
+  Bauby found Unavailable. The locked-in case, both counters and the
+  thesis were corrected from the readings.

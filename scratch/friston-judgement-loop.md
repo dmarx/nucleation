@@ -516,3 +516,12 @@ Nothing was registered for them.
 - Readings: six read with NOTEs, two Unavailable, Powers 1960 registered.
   Corrections applied to CASE-tmpxgcq2 and CLAIM-tmpq9do8.
 - Mapping (CLAIM-tmp84z6h): put to the owner.
+
+## Second reading round (owner, U9)
+
+- Four named works plus the remaining unread works: see the curation and
+  workbench entries of this round.
+- Main changes: the locked-in evidence fits Kübler & Birbaumer's own
+  exception; Friston 2010 makes action self-confirming by design, so
+  CLAIM-tmpki5gp's premise rests on the enactive account and Ashby only;
+  Sandved-Smith supports the content/precision line.

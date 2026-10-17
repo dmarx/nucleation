@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-16 (NOTE-tmp4ffuf) in full, from the publisher's open-access PDF, supplementary material not read; worth reading as a naturalistic-viewing fMRI dissociation in which hippocampus carries more about emotion categories and vmPFC more about positions in a two-dimensional affective space, lined up with the two layers of the Tolman–Eichenbaum Machine. Read it knowing that participants only watched; that the decoded emotions are an independent sample's consensus ratings; that the effects are small; that the "transitions" are a model's random-walk steps on a grid built from rating co-occurrence; and that no learning in people, and no effect of the map on later reading, is measured. The model that learns the map does so by acting.
+  read 2026-10-16 ([NOTE-tmp4ffuf](../notes.d/NOTE-tmp4ffuf.md)) in full, from the publisher's open-access PDF, supplementary material not read; worth reading as a naturalistic-viewing fMRI dissociation in which hippocampus carries more about emotion categories and vmPFC more about positions in a two-dimensional affective space, lined up with the two layers of the Tolman–Eichenbaum Machine. Read it knowing that participants only watched; that the decoded emotions are an independent sample's consensus ratings; that the effects are small; that the "transitions" are a model's random-walk steps on a grid built from rating co-occurrence; and that no learning in people, and no effect of the map on later reading, is measured. The model that learns the map does so by acting.
 title: 'Map-like representations of emotion knowledge in hippocampal-prefrontal systems'
 version: 2
 history:
@@ -39,7 +39,7 @@ Ma, Y. & Kragel, P. A. (2026). *Nature Communications* 17:1518. doi:10.1038/s414
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp4ffuf.*
+*From the reading, [NOTE-tmp4ffuf](../notes.d/NOTE-tmp4ffuf.md).*
 
 - **Design.** Reanalysis of the public Emo-FilM data: 29 viewers, 14 films, no task. Labels are consensus continuous ratings from 44 other people. PLS decoders, leave-one-film-out.
 - **Dissociation.** Hippocampus: categories z = 0.0525 against space z = 0.0428. vmPFC: space z = 0.0956 against categories z = 0.0838. Double dissociation p = .001. Entorhinal cortex shows neither.
@@ -48,4 +48,4 @@ Ma, Y. & Kragel, P. A. (2026). *Nature Communications* 17:1518. doi:10.1038/s414
 
 ## Why this is here
 
-Registered at the owner's request (U9) for constructed emotion (NOTE-434, THEORY-057) and CLAIM-tmpq9do8's diachronic form: emotion knowledge as a learned map through which later episodes are read. The reading answers less than the registration hoped. Nothing is learned or measured as learned in the participants, who only watched; whether the map shapes how a later episode is read is not tested; and the labels are other people's judgements. The only learner is the model, and it learns by acting, so where the paper models map learning it uses an action–perception loop, not tested against an action-free one. For THEORY-057 it is within-study classifier evidence, which that theory's promote_when says cannot settle it; the authors leave the constructed-versus-shared question open. It neither supports nor undermines CLAIM-tmpq9do8, and gives CLAIM-tmp84z6h only an analogy: a structural code reused across contexts, bound to content.
+Registered at the owner's request (U9) for constructed emotion ([NOTE-434](../notes.d/NOTE-434.md), [THEORY-057](../theory.d/THEORY-057.md)) and [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s diachronic form: emotion knowledge as a learned map through which later episodes are read. The reading answers less than the registration hoped. Nothing is learned or measured as learned in the participants, who only watched; whether the map shapes how a later episode is read is not tested; and the labels are other people's judgements. The only learner is the model, and it learns by acting, so where the paper models map learning it uses an action–perception loop, not tested against an action-free one. For [THEORY-057](../theory.d/THEORY-057.md) it is within-study classifier evidence, which that theory's promote_when says cannot settle it; the authors leave the constructed-versus-shared question open. It neither supports nor undermines [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md), and gives [CLAIM-tmp84z6h](../claims.d/CLAIM-tmp84z6h.md) only an analogy: a structural code reused across contexts, bound to content.

@@ -144,7 +144,7 @@ into CLIS was a learned task, re-attached to a new output.
 ## Connections
 
 It is the test case for Kübler and Birbaumer's extinction hypothesis
-(LIT-tmpxcw33, read in NOTE-tmp24z3z), whose senior author is senior
+([LIT-tmpxcw33](../literature.d/LIT-tmpxcw33.md), read in [NOTE-tmp24z3z](NOTE-tmp24z3z.md)), whose senior author is senior
 author here. It continues the group's EOG-based communication work with the
 same patient (Tonin et al. 2020, cited as ref. 22; the Methods' "Tonin et
 al.21" appears to be a misnumbering, since ref. 21 is Kübler and Birbaumer)
@@ -187,7 +187,7 @@ Sitaram 2013).
   impede or extinguish the successful control" (p. 6), and they suggest
   "Lack of any somatic sensory feedback, especially that from muscles,
   might impede voluntary modulation of neural activity" (p. 7).
-- **CASE-tmpxgcq2.** "Chaudhary et al.'s patient communicated only once
+- **[CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md).** "Chaudhary et al.'s patient communicated only once
   neurofeedback restored a contingency between intention and outcome" is
   confirmed by the reading, with two additions: he had a prior BCI history
   in LIS (above), and the restored contingency was not with an intended
@@ -200,14 +200,14 @@ Sitaram 2013).
   correction, expression of concern or retraction (nature.com and Crossref,
   2026-10-16). The retractions and outside cautions the LIT reports are
   not mentioned in it and were not checked here.
-- **QUESTION-tmpr5tck.** It states that hearing survives in CLIS "since
+- **[QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).** It states that hearing survives in CLIS "since
   Chaudhary et al.'s patient was trained on auditory feedback". Right for
   this patient, and vision was failing (corneal drying, eyes closed). The
   question's two things do come apart here: the patient kept receiving
   unselected evidence (people talking to him, his son, music he asked for)
   through the period without communication, while the contingency was
   what had to be rebuilt.
-- **CLAIM-tmpt568z.** The patient's training loop is anchored the way the
+- **[CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md).** The patient's training loop is anchored the way the
   claim wants: target tones are set by the experimenter, so his attempt
   is scored against something he did not select. The observers' scoring of
   his spelling is weaker: intelligibility was rated by three authors, and
@@ -215,14 +215,14 @@ Sitaram 2013).
   identified and agreed upon their meaning" (p. 8). The question paradigm
   with known answers is mentioned in the Methods but its results are not
   reported in the main text.
-- **CLAIM-tmpki5gp and CLAIM-tmp9cjyo.** The channel that carried his
+- **[CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) and [CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md).** The channel that carried his
   judgements is an operant contingency on motor-cortex firing, reinforced
   by a reward tone. That is action in active inference's sense at its most
   inward: no movement, no imagined movement, but an output the patient
   drives and hears back. It supports the CASE's asymmetry: evidence of
   lucidity here could only arrive through a contingency the patient
   controls.
-- **CLAIM-tmpq9do8.** The content of what he wrote, a judgement about what
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md).** The content of what he wrote, a judgement about what
   he wants for his son and for supper, is lucid judgement after months
   without a working channel. It is not judgement with no action at all,
   since producing it required the rebuilt contingency. Defeater (b) is not

@@ -33,7 +33,7 @@ Locked-in syndrome "consists of anarthria and quadriplegia while
 consciousness is preserved. Classically, vertical eye movements or blinking
 allow coded communication. Given appropriate medical care, patients can
 survive for decades" (Bruno et al. 2011, [LIT-tmp8g2to](../literature.d/LIT-tmp8g2to.md)). The classic, incomplete and total forms are Bauer et al.'s (1979), as
-Bruno et al. cite them (NOTE-tmpojcai). Laureys et al. 2005 (LIT-tmpx97h7)
+Bruno et al. cite them ([NOTE-tmpojcai](../notes.d/NOTE-tmpojcai.md)). Laureys et al. 2005 ([LIT-tmpx97h7](../literature.d/LIT-tmpx97h7.md))
 reviews them but could not be read. In the completely locked-in state (CLIS),
 usually reached through ALS, no motor channel remains.
 
@@ -42,13 +42,13 @@ usually reached through ALS, no motor channel remains.
   read out an alphabet.
 - **Lucid over years.** Of 65 chronic patients with usable answers in
   Bruno et al.'s survey, 47 reported happiness, and a longer time in LIS
-  correlated with happiness (NOTE-tmpojcai). But most of the sample was
+  correlated with happiness ([NOTE-tmpojcai](../notes.d/NOTE-tmpojcai.md)). But most of the sample was
   not on one eyelid: 55% had recovered some speech and 70% some limb
   movement, answers were given "aided by the patient's proxy", and
   recovered speech was the strongest correlate of happiness (OR 20.47).
   The survey shows lucid lives with restricted action, not without it.
-- **The completely locked-in state.** Kübler and Birbaumer (LIT-tmpxcw33,
-  read in NOTE-tmp24z3z): none of seven CLIS patients regained yes/no
+- **The completely locked-in state.** Kübler and Birbaumer ([LIT-tmpxcw33](../literature.d/LIT-tmpxcw33.md),
+  read in [NOTE-tmp24z3z](../notes.d/NOTE-tmp24z3z.md)): none of seven CLIS patients regained yes/no
   communication by BCI. All seven were already in CLIS when training
   began. They proposed that patients "may loose the perception of the
   contingency" between the required brain response and its consequences,
@@ -59,8 +59,8 @@ usually reached through ALS, no motor channel remains.
   which can be transferred from LIS to CLIS should prevent extinction in
   CLIS". It is stated as what "might be responsible", from seven patients
   and an analogy with curarized rats.
-- **Chaudhary et al.'s patient fits that exception** (LIT-tmpzuemc, read in
-  NOTE-tmp4xxvp). He had used an eye-movement BCI in LIS, and his speller
+- **Chaudhary et al.'s patient fits that exception** ([LIT-tmpzuemc](../literature.d/LIT-tmpzuemc.md), read in
+  [NOTE-tmp4xxvp](../notes.d/NOTE-tmp4xxvp.md)). He had used an eye-movement BCI in LIS, and his speller
   was "identical to the one used previously", the one he had used while he
   still controlled his eye movements. He had been in CLIS only "a few weeks before and also
   after implantation", and he produced intelligible output on 44 of 107
@@ -72,8 +72,9 @@ usually reached through ALS, no motor channel remains.
 ## What it can show
 
 - **Classic LIS separates lucid judgement from limb and speech action,
-  not from action.** Friston et al.'s action is first of all eye movement:
-  their simulations are of oculomotor control ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md)). So
+  not from action.** Friston et al.'s simulations begin with oculomotor
+  control, and add a two-joint arm, a mountain car and Lorenz trajectories
+  ([NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md)). So
   classic LIS leaves active inference the action it models first, and
   cannot by itself decide [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) against it. It can show that
   judgement keeps a built model working, over years, with world-directed

@@ -218,7 +218,7 @@ of these.
     signal changes A1's cue or target coding on the next trial or later.
   - The "editing" and "biasing perception" readings are from the
     Discussion, citing ref. 56; the data do not test them.
-- **CLAIM-tmpq9do8.** The registration's reading, that "the decision
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md).** The registration's reading, that "the decision
   enters the area that produces the observation", holds in a narrow form:
   activity predictive of the report becomes predictable in A1 from PFC,
   and A1's activity then predicts PFC's. That is a within-trial,
@@ -231,11 +231,11 @@ of these.
   sharpest thing it offers is a design: a task in which the PFC-to-A1
   signal is measured before the next stimulus, with report and decision
   dissociated, would bear on the diachronic form.
-- **CLAIM-tmp9cjyo.** The authors' framing, hierarchical inference with
+- **[CLAIM-tmp9cjyo](../claims.d/CLAIM-tmp9cjyo.md).** The authors' framing, hierarchical inference with
   "active sensory-cognitive loops" (p. 8), is the kind of redescription
   that counter-claim uses. The data do not decide between it and the
   claim.
-- **CLAIM-tmpt568z and QUESTION-tmpr5tck.** Little. A1's return signal is
+- **[CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) and [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).** Little. A1's return signal is
   not evidence independent of the interpretation, since it carries the
   choice PFC sent. The cue period, in which A1 drives PFC and PFC does not
   drive A1, is the paper's case of input the loop did not select; it is

@@ -72,10 +72,23 @@ self-confirming minimum. That is true, but it is not specific to the
 absence of action. In the active-inference model of [THEORY-285](../theory.d/THEORY-285.md) the agent
 can act, and its own sampling policy "withholds the only observations that
 could lower that precision" ([NOTE-766](../notes.d/NOTE-766.md)). A loop that selects its own
-evidence can confirm itself with or without action ([CLAIM-tmpt568z](CLAIM-tmpt568z.md)). What
-survives is the narrower claim: action is one source of evidence the loop
-did not select, and the free-energy principle and the enactive account
-both make it the source that grounds the system's norms.
+evidence can confirm itself with or without action ([CLAIM-tmpt568z](CLAIM-tmpt568z.md)).
+
+The reading of Friston et al. ([NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md)) concedes more. In the
+free-energy formulation, action is not a source of evidence the loop did
+not select. It is "sampling selectively what one expects to experience",
+and unexpected perturbations "were explained away by action and not
+perceived". The paper sees the self-confirmation and embraces it: "this
+weakness becomes the strength". Its anchor is not action but existence:
+"agents who do not have the right priors cannot exist". And action is
+needed there by stipulation, since "the only way that the agent can change
+hidden states is through action".
+
+What survives is narrower again. The enactive account ([THEORY-tmprt7jm](../theory.d/THEORY-tmprt7jm.md))
+and Ashby's ultrastability ([THEORY-324](../theory.d/THEORY-324.md)) make action, or a channel through
+the essential variables, what grounds a system's norms. The free-energy
+formulation does not supply this counter's premise. On its own terms,
+action is one more way a loop selects its own evidence.
 
 ## What it does not say
 
@@ -91,8 +104,8 @@ both make it the source that grounds the system's norms.
   would not be the loss of an anchor.
 - The extinction hypothesis is a hypothesis, stated as what "might be
   responsible", from seven patients already in CLIS when training began
-  and an analogy with curarized rats (NOTE-tmp24z3z). Its authors say
+  and an analogy with curarized rats ([NOTE-tmp24z3z](../notes.d/NOTE-tmp24z3z.md)). Its authors say
   passive sensory processing is intact in CLIS, and they predict that a
   contingency learned before CLIS should carry over. Chaudhary et al.'s
-  patient, who communicated, had done exactly that (NOTE-tmp4xxvp), so he
+  patient, who communicated, had done exactly that ([NOTE-tmp4xxvp](../notes.d/NOTE-tmp4xxvp.md)), so he
   fits the hypothesis rather than refuting it.

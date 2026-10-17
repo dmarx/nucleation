@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-16 (NOTE-tmp0oiw4) in full, from the publisher's open-access PDF, supplementary material not read; worth reading as a within-trial measurement, from simultaneous A1 and dorsolateral PFC ensembles, that cue information flows A1 to PFC only while choice information flows PFC to A1 and then back. Read it knowing that the choice is the monkey's bar release or hold and the flow peaks near the response, so decision and motor preparation are not separated (the authors say so); that the flow measure is a Granger-style lagged regression on one-dimensional projections, correlational and with other areas unrecorded; that the PFC-to-A1 choice signal arrives after the 300 ms target has ended; and that nothing crosses trials, so it shows no reshaping of A1's later sensory coding.
+  read 2026-10-16 ([NOTE-tmp0oiw4](../notes.d/NOTE-tmp0oiw4.md)) in full, from the publisher's open-access PDF, supplementary material not read; worth reading as a within-trial measurement, from simultaneous A1 and dorsolateral PFC ensembles, that cue information flows A1 to PFC only while choice information flows PFC to A1 and then back. Read it knowing that the choice is the monkey's bar release or hold and the flow peaks near the response, so decision and motor preparation are not separated (the authors say so); that the flow measure is a Granger-style lagged regression on one-dimensional projections, correlational and with other areas unrecorded; that the PFC-to-A1 choice signal arrives after the 300 ms target has ended; and that nothing crosses trials, so it shows no reshaping of A1's later sensory coding.
 title: 'Neuronal dynamics, timing, and flow of sensory and choice-related information in auditory-prefrontal circuitry'
 version: 2
 history:
@@ -38,7 +38,7 @@ Giarrocco, F. & Averbeck, B. B. (2026). *Nature Communications* 17:8443. doi:10.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0oiw4.*
+*From the reading, [NOTE-tmp0oiw4](../notes.d/NOTE-tmp0oiw4.md).*
 
 - **Task.** Cue tone left or right (side blocked), delay of 1.0–1.8 s, target tone; release a bar within 700 ms on a match, keep holding on a non-match. Accuracy around 80%; match response times 564 and 601 ms.
 - **Sensory flow, one way.** Cue side is decoded first in A1 (25 ms against 71–87 ms in PFC) and is predictable in PFC from A1's past, never the reverse.
@@ -48,4 +48,4 @@ Giarrocco, F. & Averbeck, B. B. (2026). *Nature Communications* 17:8443. doi:10.
 
 ## Why this is here
 
-Registered at the owner's request (U9) for its bearing on CLAIM-tmpq9do8: choice-related information sent from prefrontal cortex into primary sensory cortex and returned. The reading answers the two questions the registration left. The exchange is within the trial, and nothing in the paper tests whether it reshapes later sensory processing, so it is evidence of a synchronic exchange, which the claim sets aside, not of the diachronic form. And the response is motor, with the flow measured in the window of its preparation, so the paper cannot separate a judgement–observation loop from an action–perception one. It neither supports nor undermines the claim. Its value is a design: the same analysis on a signal measured before the next stimulus, with decision and report dissociated, would bear on the diachronic form.
+Registered at the owner's request (U9) for its bearing on [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md): choice-related information sent from prefrontal cortex into primary sensory cortex and returned. The reading answers the two questions the registration left. The exchange is within the trial, and nothing in the paper tests whether it reshapes later sensory processing, so it is evidence of a synchronic exchange, which the claim sets aside, not of the diachronic form. And the response is motor, with the flow measured in the window of its preparation, so the paper cannot separate a judgement–observation loop from an action–perception one. It neither supports nor undermines the claim. Its value is a design: the same analysis on a signal measured before the next stimulus, with decision and report dissociated, would bear on the diachronic form.

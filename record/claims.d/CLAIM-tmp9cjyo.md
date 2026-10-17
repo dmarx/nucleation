@@ -42,9 +42,17 @@ to the body.
   as policy selection over higher-level cognitive states and add a further
   hierarchical level to model meta-awareness states that modulate the
   expected confidence (precision) in the mapping between observations and
-  hidden cognitive states". Parr and Friston ([LIT-tmpu6g9m](../literature.d/LIT-tmpu6g9m.md)), on the standard
-  reading, separate attention, the precision given to data, from salience,
-  the epistemic value of the action that samples them.
+  hidden cognitive states" (read in [NOTE-tmpknfrc](../notes.d/NOTE-tmpknfrc.md)). At the attentional
+  level, mental action changes the agent's true attentional state, and so
+  what it then observes of itself: action and perception one level
+  inward. At the perceptual level it does not change content. The stimuli
+  are "predetermined, with a deviant stimulus shown every 20th time step",
+  and mental action changes only their precision. Parr and Friston
+  ([LIT-tmpu6g9m](../literature.d/LIT-tmpu6g9m.md), read in [NOTE-tmpi40rc](../notes.d/NOTE-tmpi40rc.md)) separate attention, the precision
+  given to data, from salience, the epistemic value of an action that
+  samples them. They never call attention an action. Covert precision
+  changes what is observed only by biasing "planning in favour of an
+  overt saccade".
 - **Judgement fixing what is observed.** Brouillet and Friston
   ([THEORY-tmpx1so9](../theory.d/THEORY-tmpx1so9.md)): the feeling of fluency is an inference about the
   precision of one's own processing, and because its cause is internal, a
@@ -82,5 +90,9 @@ what crosses it judgement.
   same formal properties" as an internal cause). So "one blanket inward"
   is always available, and the objection costs little to make and says
   little.
-- Sandved-Smith et al. and Parr and Friston have not been read. Those two
-  readings are from the abstract or the standard citation.
+- The readings narrow the objection. In Sandved-Smith et al., mental
+  action changes perceptual precision, not perceptual content, which is
+  the line [CLAIM-tmpq9do8](CLAIM-tmpq9do8.md) draws. Nothing in that model is learned, so the
+  structure-learning strand rests on [THEORY-tmpk6k4p](../theory.d/THEORY-tmpk6k4p.md) alone. Parr and
+  Friston give attention no power to change content short of an overt
+  saccade, which is action on the world.

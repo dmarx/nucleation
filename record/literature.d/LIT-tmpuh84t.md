@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-16 (NOTE-tmplcbcz) in full, from the authorized reprint in Living Control Systems (1989), pp. 25–45; worth reading as the second half of the first statement of perceptual control: six named orders of perception with tabletop demonstrations of their reaction times, the N-system (reorganization) worked out as the source of insight and of consciousness, and a theory of conflict in which switching a system "entirely to the imagination-connection" is one of the ego's defences. Read it knowing that the orders are offered as the authors' working definitions, the demonstrations are informal and the one experiment is "still in process"; that the N-system reshapes perception ("changing the transformations applied to existing information") but is driven by intrinsic error, not by judgement; and that its intrinsic variables may include "mean error signal in the hierarchy", an internal scoring channel. It bears on CLAIM-tmpq9do8, CLAIM-tmpki5gp and QUESTION-tmpr5tck.
+  read 2026-10-16 ([NOTE-tmplcbcz](../notes.d/NOTE-tmplcbcz.md)) in full, from the authorized reprint in Living Control Systems (1989), pp. 25–45; worth reading as the second half of the first statement of perceptual control: six named orders of perception with tabletop demonstrations of their reaction times, the N-system (reorganization) worked out as the source of insight and of consciousness, and a theory of conflict in which switching a system "entirely to the imagination-connection" is one of the ego's defences. Read it knowing that the orders are offered as the authors' working definitions, the demonstrations are informal and the one experiment is "still in process"; that the N-system reshapes perception ("changing the transformations applied to existing information") but is driven by intrinsic error, not by judgement; and that its intrinsic variables may include "mean error signal in the hierarchy", an internal scoring channel. It bears on [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md), [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) and [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).
 title: 'A General Feedback Theory of Human Behavior: Part II'
 version: 1
 history:
@@ -36,7 +36,7 @@ summary: >-
 
 Powers, W. T., Clark, R. K. & McFarland, R. L. (1960). *Perceptual and Motor Skills* 11(3):309–323. doi:10.2466/pms.1960.11.3.309. Reprinted in *Living Control Systems: Selected Papers of William T. Powers* (Control Systems Group, 1989), pp. 25–45.
 
-Read in full in NOTE-tmplcbcz, from the reprint. Page numbers are the
+Read in full in [NOTE-tmplcbcz](../notes.d/NOTE-tmplcbcz.md), from the reprint. Page numbers are the
 reprint's.
 
 ## Key takeaways
@@ -67,14 +67,14 @@ reprint's.
 
 ## Standing in the record
 
-Filed with the reading of Part I (LIT-tmpgo33i, NOTE-tmpf65in), because Part
+Filed with the reading of Part I ([LIT-tmpgo33i](LIT-tmpgo33i.md), [NOTE-tmpf65in](../notes.d/NOTE-tmpf65in.md)), because Part
 I's question for the record, whether anything in the theory reshapes the
 perceptual functions, is answered mainly here. It does: the N-system alters
 the transformations that perceptual functions apply. But what drives it is
 error in inherited intrinsic variables, not a judgement: "insights which
 are not useful are quickly discarded because they create conflict or tend
-to increase intrinsic errors" (p. 36). So for CLAIM-tmpq9do8 it is a rival with the claim's shape (the
-observer reshaped) and a different engine. For QUESTION-tmpr5tck it offers
+to increase intrinsic errors" (p. 36). So for [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) it is a rival with the claim's shape (the
+observer reshaped) and a different engine. For [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md) it offers
 "mean error signal in the hierarchy" as an intrinsic variable, a scoring
 signal about how the hierarchy is doing that the hierarchy does not set.
 It carries no instruction for machine-learning practice.

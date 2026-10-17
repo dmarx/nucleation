@@ -25,6 +25,7 @@ rests_on:
 grounds:
 - THEORY-285
 - THEORY-324
+- LIT-tmp670rc
 objects_to:
 - CLAIM-tmpki5gp
 complements:
@@ -63,6 +64,9 @@ that bear on that minimum.
   observations that could lower that precision", and what it attenuates
   is a "sensory or cognitive periphery". Lock-in comes from the loop
   selecting its own evidence, and action is one of the ways it selects.
+  Friston et al. say so of action in general: it is "sampling selectively
+  what one expects to experience", and the weakness this brings "becomes
+  the strength" ([LIT-tmp670rc](../literature.d/LIT-tmp670rc.md), [NOTE-tmpo4u0r](../notes.d/NOTE-tmpo4u0r.md)).
 - **Independent scoring prevents it.** [CLAIM-330](CLAIM-330.md) (Active, demonstrated): in
   the linearized operator model, capture starting at symmetry needs both
   arrows of [CLAIM-297](CLAIM-297.md)'s circuit, authority shaping interpretation and

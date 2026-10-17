@@ -46,10 +46,10 @@ stands, and the anchor is action after all.
   on the person even when they cannot act on it.
 - **Contingency between intention and outcome.** This is what Kübler and
   Birbaumer say is lost, and what they say extinguishes goal-directed
-  thinking (LIT-tmpxcw33). The split is theirs: patients "may loose the
+  thinking ([LIT-tmpxcw33](../literature.d/LIT-tmpxcw33.md)). The split is theirs: patients "may loose the
   perception of the contingency", while "passive sensory information
   processing is intact in CLIS even at the most complex semantic
-  processing levels" (NOTE-tmp24z3z).
+  processing levels" ([NOTE-tmp24z3z](../notes.d/NOTE-tmp24z3z.md)).
 
 [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) needs only the first. [CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md)'s empirical form
 concerns the second. So the extinction hypothesis, even if true, would not

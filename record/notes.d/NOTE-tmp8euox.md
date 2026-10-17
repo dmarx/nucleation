@@ -215,7 +215,7 @@ flexibility as controlled by "independent mechanisms" (p. 8).
 
 ## Bearing on the record
 
-- **CLAIM-tmpq9do8 (the loop runs between judgement and observation,
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) (the loop runs between judgement and observation,
   without action).** Nothing for or against. The task is an
   action–outcome loop in the sense the claim sets aside: what the subject
   learns, transitions and coins, arrives only as consequences of its own
@@ -223,7 +223,7 @@ flexibility as controlled by "independent mechanisms" (p. 8).
   condition holds action and its outcomes fixed, so defeat condition (a)
   is not touched. The goals are cued by the experimenter each trial, not
   judgements the subject forms.
-- **CLAIM-tmpt568z and QUESTION-tmpr5tck (what scores evidence
+- **[CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md) and [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md) (what scores evidence
   independently of the interpretation it tests).** The LIT's "Why this is
   here" offers factorized goal and uncertainty codes as "a candidate for
   how a mind keeps its scoring of evidence apart from its current goal".
@@ -247,7 +247,7 @@ flexibility as controlled by "independent mechanisms" (p. 8).
     cortex" rests in LPFC on goal and linear dichotomies.
   - *Uncertainty is not evidence scoring.* It is a block-level estimate of
     how noisy transitions are, a precision-like context. It is closer to
-    QUESTION-tmpr5tck's candidate 4 (processing signals, scoring "how the
+    [QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md)'s candidate 4 (processing signals, scoring "how the
     interpretation is going, not what it says") than to Regime B's
     independent score of operators, and the paper does not show it
     regulating learning rates.
@@ -257,14 +257,14 @@ flexibility as controlled by "independent mechanisms" (p. 8).
     enters only afterwards, in BACKWARD planning. The MF agent's only
     error signal is the goal-defined reward, so its evidence is scored
     through what it currently wants, and it shows the trade-off
-    (flexibility–stability r = −0.964). That is CLAIM-tmpt568z's shape, an
+    (flexibility–stability r = −0.964). That is [CLAIM-tmpt568z](../claims.d/CLAIM-tmpt568z.md)'s shape, an
     anchor whose scoring does not pass through the current goal, in a
     two-parameter toy. Three cautions: the agents are not fitted to the
     humans; the goal here is a cued reward, not an interpretation under
     test; and the evidence that scores the MB model, the observed
     transition, arrives through the agent's own choice. So it illustrates
     separation of scoring from goal, not evidence free of action.
-- **CLAIM-tmpkss5r (commitment and κ′ against κ̄).** No bearing beyond
+- **[CLAIM-tmpkss5r](../claims.d/CLAIM-tmpkss5r.md) (commitment and κ′ against κ̄).** No bearing beyond
   analogy. In the MB agent the cued goal bends neither the committed
   transition predictions nor the reading of the observed transition, so
   in the claim's terms both weights are zero with respect to the goal,

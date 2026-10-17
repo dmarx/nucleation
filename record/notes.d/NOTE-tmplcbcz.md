@@ -201,17 +201,17 @@ filtered by imagined conflict as well as by behaviour.
 
 ## Connections
 
-Part II depends throughout on Part I (LIT-tmpgo33i, NOTE-tmpf65in), whose
+Part II depends throughout on Part I ([LIT-tmpgo33i](../literature.d/LIT-tmpgo33i.md), [NOTE-tmpf65in](NOTE-tmpf65in.md)), whose
 imagination connection it uses for closure, fantasy and the golfer's
 veto. The psychoanalytic defences, regression and resistance are
 reinterpreted, not cited. Learning-machine experiments are mentioned
 without citation (p. 36). The six orders became nine in Powers's 1973 book
-(LIT-tmp44sbd, not read) and later eleven (my knowledge, not this
+([LIT-tmp44sbd](../literature.d/LIT-tmp44sbd.md), not read) and later eleven (my knowledge, not this
 paper's).
 
 ## Bearing on the record
 
-- **CLAIM-tmpq9do8 (thesis).**
+- **[CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md) (thesis).**
   - *This is the closest the 1960 theory comes to the claim.* Two passages
     have the claim's loop, a judgement that changes what is perceived next,
     without action.
@@ -240,7 +240,7 @@ paper's).
     whose transformation is being changed. That fits the claim's "lucid
     agent" better than anything in the 1973 paper, though it is offered as
     a definition, without reasons.
-- **CLAIM-tmpki5gp (counter).** Part II supplies the counter's failure mode
+- **[CLAIM-tmpki5gp](../claims.d/CLAIM-tmpki5gp.md) (counter).** Part II supplies the counter's failure mode
   by name. Switching a system "entirely to the imagination-connection" is
   "the mechanism ... of fantasy, wish-fulfillment, and closure" and one of
   the ego's defences (p. 41), and an ideal held "sacred and untouchable"
@@ -248,7 +248,7 @@ paper's).
   (p. 44). The paper's cure is not action but consciousness: putting the
   conflicted systems into consciousness "is the only way to start the
   N-system to work changing them" (p. 42).
-- **QUESTION-tmpr5tck.**
+- **[QUESTION-tmpr5tck](../questions.d/QUESTION-tmpr5tck.md).**
   - *Candidate 4, processing signals.* "mean error signal in the
     hierarchy" (p. 35) is a signal about how the interpretation is going,
     not what it says, fed to a system the learned hierarchy does not set.
@@ -263,7 +263,7 @@ paper's).
     of first-order output removes higher perceptions. So on this model a
     locked-in person keeps all orders of perception, and loses only the
     control of them through movement (my observation).
-- **CASE-tmpxgcq2.** Nothing directly; the paper does not discuss
+- **[CASE-tmpxgcq2](../cases.d/CASE-tmpxgcq2.md).** Nothing directly; the paper does not discuss
   paralysis.
 - **For the anthology.** No instruction for machine-learning practice.
 
@@ -283,7 +283,7 @@ paper's).
 
 - Whether "mean error signal in the hierarchy" is an intrinsic variable.
   If it is, error in learned judgement reshapes perception through
-  reorganization, which would make CLAIM-tmpq9do8's loop a part of PCT.
+  reorganization, which would make [CLAIM-tmpq9do8](../claims.d/CLAIM-tmpq9do8.md)'s loop a part of PCT.
 - Whether the golfer's veto, imagined conflict selecting among new
   perceptual organizations, can keep a model in touch with the world, or
   only with the person's existing system concepts. In the example it
