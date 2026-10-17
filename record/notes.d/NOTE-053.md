@@ -5,8 +5,14 @@ formerly:
 - NOTE-tmpf6wkf
 paper: LIT-048
 title: 'Transfer entropy as a log-likelihood ratio'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    C7 checked against its source, Barnett, Barrett and Seth (2009), once
+    read (NOTE-tmp2veo7): exact, for population quantities under joint
+    Gaussianity.
 - version: 2
   date: '2026-09-25'
   note: >-
@@ -74,7 +80,7 @@ The average log-likelihood of a correctly specified Markov predictive model conv
 | C4 | Under T = 0, 2(n−k)T̂ is asymptotically χ²(d) | moderate | Theorem 1b; cited to Wald (1943), regularity not checked; Fig. 1A toy illustration |
 | C5 | Under T > 0 it is non-central χ²(d; 2(n−k)T) | weak | Theorem 1b; asserted from standard theory, and valid only as a local-alternative approximation (see corrections); Fig. 1B |
 | C6 | For finite-state chains the plug-in TE estimator is exactly the LR estimator, with d = (a−1)a^k(b^k−1) | strong | Eqs. 19–21; exact algebra |
-| C7 | For linear Gaussian VAR, T̂ = ½ × Granger causality | strong | p. 5; recovers the published result [3] |
+| C7 | For linear Gaussian VAR, T̂ = ½ × Granger causality | strong | p. 5; recovers the published result [3]. (Annotated 2026-10-16: checked against [3], [NOTE-tmp2veo7](NOTE-tmp2veo7.md), Eq. 13.) |
 | C8 | Theorem 1 extends to conditional TE | weak | assertion ("It may be verified", p. 5) |
 | C9 | The result removes the need for surrogate or subsampling tests | weak | concluding assertion (p. 8); holds only asymptotically and only under the model; no finite-sample comparison is given |
 | C10 | "Model transfer entropy" is the principled generalisation of Granger causality to nonlinear, GARCH or fractional-ARIMA models | weak | argument by analogy (p. 8); no such model is worked |

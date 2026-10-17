@@ -5,8 +5,15 @@ formerly:
 - NOTE-tmpbpcaw
 paper: LIT-025
 title: 'Greater than the parts'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    C5 annotated after Eichler and Didelez (2007) was read (NOTE-tmpm48uq):
+    measuring every relevant variable is necessary and not sufficient for
+    the Granger reading to be interventional. The record's statement is
+    CLAIM-tmp6nu4a, with a counterexample.
 - version: 2
   date: '2026-09-25'
   note: >-
@@ -83,7 +90,7 @@ All are restated from [7] (Rosas et al. 2020) or [26]. None is proved here.
 | C2 | Emergence capacity decomposes exactly and exhaustively as Syn⁽ᵏ⁾ = D⁽ᵏ⁾ + G⁽ᵏ⁾ | assertion here | Eq. 4, attributed to "further derivations" in [7]/[26] |
 | C3 | Redundancy-function-free sufficient criteria for emergence exist, use only low-order marginals, and avoid the curse of dimensionality | assertion here | §III, last paragraph; criteria not stated, deferred to [7] |
 | C4 | The quantities are neither Granger nor Pearl in themselves; they are interventional if p(X_t′|X_t) is a do()-distribution and faithfulness and causal Markov hold, and predictive otherwise | informal argument | §IV A |
-| C5 | If all relevant variables are measured, Granger- and Pearl-type analyses coincide | assertion | §IV A; no citation, no statement of conditions |
+| C5 | If all relevant variables are measured, Granger- and Pearl-type analyses coincide | assertion | §IV A; no citation, no statement of conditions. (Annotated 2026-10-16: false as stated. Eichler and Didelez, [NOTE-tmpm48uq](NOTE-tmpm48uq.md), also need interventions that are isolated exogenous changes and no influence within one sampling step; then Granger noncausality implies no effect, and a Granger-causal edge is only potentially causal. [CLAIM-tmp6nu4a](../claims.d/CLAIM-tmp6nu4a.md) has a counterexample with every variable measured.) |
 | C6 | Lack of invariance under a change of coordinates is a feature of a mereological theory, not a bug | informal (philosophical) argument | §IV B, appeal to Jaynes's epistemic probability |
 | C7 | The theory does compare macro with micro, via supervenient V, and dynamical synergy enabling emergent V is "not an assumption, but a consequence" | informal argument | §IV C, rebutting [8] = item 22 |
 | C8 | GoL particles and a flock's centre of mass are causally emergent | experiment (in [7]) | §V A; results summarised, no values given here |
@@ -148,7 +155,7 @@ Other named alternatives in the paper: Hoel et al. 2013 (EI causal emergence) an
 - The redundancy function is left open (footnote 2). The applications in §V B depend on one, and the review does not name it.
 - The practical criteria need a named candidate feature V, which may not exist in resting-state data (§VI). The capacity measure avoids that but "scales poorly with the system size", and computing it for large systems is "currently unfeasible" (§VI).
 - No efficient estimator of G⁽ᵏ⁾ exists for three or more time series (footnote 5). So the fMRI "causal emergence" results are pairwise G⁽¹⁾, a lower-order proxy.
-- C5 (Granger = Pearl when all variables are measured) is stated without its conditions.
+- C5 (Granger = Pearl when all variables are measured) is stated without its conditions. (Annotated 2026-10-16: the conditions are in [THEORY-tmp4g68i](../theory.d/THEORY-tmp4g68i.md), and complete measurement is not enough, [CLAIM-tmp6nu4a](../claims.d/CLAIM-tmp6nu4a.md).)
 - The "feature not bug" defence of coordinate dependence (C6) is a philosophical stance. It does not tell a user which partition to choose.
 - The brain results it cites were bioRxiv preprints at the time. The link to "complex, abstract reasoning" is speculative ("evidence suggesting that it may support").
 
