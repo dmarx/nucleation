@@ -1,74 +1,76 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmps1x9k:` heading.
+status_note: 'read in full 2026-10-16 (NOTE-tmpr3ktj); worth reading as the source of local transfer entropy, the pointwise log ratio whose average is Schreiber''s transfer entropy, and of the split between apparent transfer entropy (conditioned on the destination''s past only) and complete transfer entropy (conditioned also on the other causal parents). Read it knowing that its evidence is elementary cellular automata, where the causal parents are known by construction; that "complete" needs that knowledge; that the destination history k must be long (k ≥ 6 for rule 110, k = 16 used) and is limited by sample size; and that its closing claim to establish transfer entropy as the measure of information transfer predates the critique of James, Barnett and Crutchfield (LIT-tmpa6og3). Filed as THEORY-tmp22xor.'
 title: 'Local information transfer as a spatiotemporal filter for complex systems'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed at the owner's request as the source of local transfer entropy,
+    one of the transfer-entropy variants the record lacked. Citation
+    checked against Crossref on 2026-10-16: Phys. Rev. E 77, 026110,
+    published 15 February 2008, which is earlier than the arXiv v1
+    (0809.3275, 19 September 2008), so `published:` is the Crossref date.
+    Not held in the Anthology of the SOTA: a grep of its record/ (clone of
+    2026-10-12) for "Lizier", "transfer entropy" and the identifiers found
+    nothing. Read in full the same day from arXiv 0809.3275v1
+    (NOTE-tmpr3ktj); the PRE version was not compared.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
-date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2008-09-19'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+- complex-systems
+- information-theory
+date: '2026-10-16'
+published: '2008-02-15'
+arxiv: '0809.3275'
+doi: '10.1103/PhysRevE.77.026110'
+first_author: 'Lizier'
+keywords:
+- 'information transfer'
+- 'local transfer entropy'
+- 'cellular automata'
+- 'particles'
+- 'gliders'
+- 'domain walls'
+- 'self-organization'
+extends:
+- LIT-tmpz9o5z
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Lizier, Prokopenko & Zomaya (2008), *Physical Review E* 77, 026110, [ARXIV-0809.3275](https://arxiv.org/abs/0809.3275). Transfer entropy is the average of a local quantity t_{Y→X}(n+1) = log p(x_{n+1} | x⁽ᵏ⁾_n, y_n)/p(x_{n+1} | x⁽ᵏ⁾_n), which can be negative where the source misleads. Apparent transfer entropy conditions on the destination's past; complete transfer entropy also conditions on the destination's other causal parents. Applied to elementary cellular automata with long destination histories (k ≥ 6, up to 16), both highlight gliders (rule 110) and domain walls (rule 18) as the dominant information-transfer structures; in rule 18's domain, complete transfer entropy is about 1 bit at alternate sites where apparent transfer entropy is zero.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmps1x9k: Local information transfer as a spatiotemporal filter for complex systems
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Joseph T. Lizier, Mikhail Prokopenko and Albert Y. Zomaya (2008), "Local information transfer as a spatiotemporal filter for complex systems", *Physical Review E* 77: 026110 — [ARXIV-0809.3275](https://arxiv.org/abs/0809.3275)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmpr3ktj](../notes.d/NOTE-tmpr3ktj.md).*
+
+- **Local transfer entropy (Eq. 9).** T_{Y→X} = ⟨t_{Y→X}(n + 1, k, l)⟩ with
+  t = log p(x_{n+1} | x⁽ᵏ⁾_n, y⁽ˡ⁾_n)/p(x_{n+1} | x⁽ᵏ⁾_n). The local value can
+  exceed log b or be negative, where the source is "misleading".
+- **History length.** Conditioning on the destination's past removes
+  "non-traveling" self-influence routed through the source; the correct
+  setting is k → ∞ (Eq. 12). With k = 1 neither local MI nor local TE
+  separates gliders from the background; k ≥ 6 does for rule 110.
+- **Apparent against complete (Eqs. 13–14).** Complete transfer entropy
+  conditions also on the destination's other causal parents; in a
+  deterministic system it is nonnegative. In rule 18's domain apparent
+  TE is 0 where complete TE is about 1 bit.
+- **Particles carry the transfer.** Gliders (rules 110, 54) and domain
+  walls (rules 18, 146) are where local TE is high, in their direction of
+  motion; rule 22 shows transfer without coherent structure.
+- **Averages hide it.** Average TE against k for rule 110 does not reach
+  a limit by k = 16 and says nothing about gliders (Fig. 7).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-16 and read the same day. It fixes two things the
+record's transfer-entropy readings left open: the destination history
+length, which [NOTE-788](../notes.d/NOTE-788.md)'s TE takes as a single value, and the difference
+between conditioning on the destination alone and on its other causes.
+Filed as [THEORY-tmp22xor](../theory.d/THEORY-tmp22xor.md). Its "apparent" against "complete" contrast is the
+synergy that [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md) turns on. `complex-systems` is primary for its
+question, information transfer by emergent structure; it carries no
+instruction for machine-learning practice.

@@ -1,74 +1,80 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpq33qh:` heading.
+status_note: 'read in full 2026-10-17 (NOTE-tmpvo3m6), from the authors'' preprint dated 12 May 2006; worth reading as the interventional counterpart of transfer entropy: information flow I(X_A → X_B | X̂_S) is conditional mutual information computed from do()-distributions instead of observational ones, it vanishes exactly under a graphical condition (ud-separation), and examples show it differs from transfer entropy and conditional mutual information in both directions. Read it knowing that it needs the full causal Bayesian network and its mechanisms, not data; that the examples are deterministic binary networks; and that its Example 6 claim of one bit holds, by the record''s calculation, only for k = 1 or when imposing X_k alone. The published version (Advances in Complex Systems 11(1), 2008) was not compared. Filed as THEORY-tmpkovi2.'
 title: 'Information Flows in Causal Networks'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as the interventional counterpart of
+    transfer entropy, to pair with Eichler and Didelez (LIT-tmp7q0hf).
+    Citation checked against Crossref on 2026-10-17: Advances in Complex
+    Systems 11(1): 17–41, February 2008. Not held in the Anthology of the
+    SOTA: a grep of its record/ (clone of 2026-10-12, d1573d2) for "Ay",
+    "Polani" and the DOI found nothing. Read in full the same day
+    (NOTE-tmpvo3m6) from the copy in the University of Hertfordshire
+    repository (UHRA eprint 162, 902104.pdf), which is the authors'
+    preprint, 15 pp., dated 12 May 2006 (MPI MiS preprint 47/2006), not
+    the journal version. `published:` is that date: Crossref gives the
+    print issue only as February 2008 and its one full date, an online
+    posting of 20 November 2011, postdates print, so the earliest full
+    date the work carries is the preprint's.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- causality
+- information-theory
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2008-03-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2006-05-12'
+doi: '10.1142/S0219525908001465'
+first_author: 'Ay'
+keywords:
+- 'information flow'
+- 'causal networks'
+- 'causal independence'
+- 'intervention'
+- 'transfer entropy'
+- 'ud-separation'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Ay & Polani (2008), *Advances in Complex Systems* 11(1): 17–41. In a causal Bayesian network, X_B is causally independent of X_A imposing X_S if setting x_A after setting x_S does not change the post-interventional distribution of X_B; this holds for every model on a DAG iff every directed path from A to B meets S (ud-separation, Theorem 2). Information flow I(X_A → X_B | X̂_S) is conditional mutual information with every probability replaced by its interventional counterpart, and is zero iff causal independence holds (under positivity of p(x_S)). Examples show it differs from mutual information and from transfer entropy: two binary chains that swap states have zero transfer entropy and nonzero flow, and an observationally identical pair of independent inverters has zero of both.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpq33qh: Information Flows in Causal Networks
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Nihat Ay and Daniel Polani (2008), "Information Flows in Causal Networks", *Advances in Complex Systems* 11(1): 17–41 — doi:10.1142/S0219525908001465
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading of the 2006 preprint, [NOTE-tmpvo3m6](../notes.d/NOTE-tmpvo3m6.md).*
+
+- **Causal independence (Eq. 4).** X_B ⫫ X_A | X̂_S if
+  p(x_B | x̂_A, x̂_S) = Σ_{x′_A} p(x′_A | x̂_S) p(x_B | x̂′_A, x̂_S) for all
+  x_A, x_S. Defined through mechanisms, so for every configuration, not
+  only observed ones. Not symmetric.
+- **Theorem 2.** B is ud-separated from A by S (every directed path from A
+  to B meets S) iff X_B is causally independent of X_A imposing X_S for
+  every G-causal model. The interventional analogue of Verma and Pearl's
+  d-separation theorem. d-separation implies ud-separation (Prop. 1).
+- **Information flow (§5).** I(X_A → X_B | X̂_S) is the observational
+  conditional mutual information's formula with each conditional replaced
+  by its interventional counterpart, averaged over the observational
+  p(x_S). Zero under causal independence; the converse needs every x_S to
+  have positive probability (Prop. 3).
+- **It is not transfer entropy (Example 6).** Two binary chains that swap
+  states each step have zero transfer entropy and one bit of flow (at
+  k = 1; see below). Two
+  independent inverters started from the same distribution are
+  observationally identical and have zero of both. Imposing a node can
+  raise flow (Example 3) or lower it (Example 4).
+- **Markov chains (§6).** For a single chain, flow between time windows
+  equals their mutual information.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 and read the same day. Filed as [THEORY-tmpkovi2](../theory.d/THEORY-tmpkovi2.md).
+It is the information-theoretic form of the interventional notion Eichler
+and Didelez use ([THEORY-tmp4g68i](../theory.d/THEORY-tmp4g68i.md)). The reading's check of Example 6
+found the paper's one-bit flow holds for k = 1, and for any k only when the
+target's last value alone is imposed. Imposing the whole past X_[1,k]
+fixes Y_k = x_{k−1} and gives zero for k ≥ 2 by the paper's own definition.
+That is the record's calculation, not the authors'.

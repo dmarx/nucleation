@@ -1,73 +1,65 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpj670e:` heading; the lint checks
-# that the two agree.
-title: 'k1'
-
+status: Active
+title: "Mutual information between continuous variables can be estimated from k-nearest-neighbour statistics, with the joint k-th-neighbour distance in the maximum norm fixing the scale at which marginal neighbours are counted, so that the biases of the three entropy estimates largely cancel; the one approximation is a locally constant density, the systematic error scales with k/N, and exactness for independent variables is observed in every tested case but not proved"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
-- complex-systems
-
-date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
+- information-theory
+- mathematical-statistics
+date: '2026-10-16'
 source:
 - LIT-tmp76vux
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Kraskov, Stögbauer & Grassberger (2004), LIT-tmp76vux, read in NOTE-tmpicuma
+  (formal sections in full, numerics at lower resolution). The estimators
+  are derived up to one approximation and one neglected correction; the
+  rest is numerical. Checked by simulation on correlated Gaussians.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpj670e: k1
+# THEORY-tmpj670e: Mutual information between continuous variables can be estimated from k-nearest-neighbour statistics, with the joint k-th-neighbour distance in the maximum norm fixing the scale at which marginal neighbours are counted, so that the biases of the three entropy estimates largely cancel; the one approximation is a locally constant density, the systematic error scales with k/N, and exactness for independent variables is observed in every tested case but not proved
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Kraskov, Stögbauer & Grassberger (2004), "Estimating Mutual Information",
+arXiv cond-mat/0305641v1 (Phys. Rev. E 69, 066138), LIT-tmp76vux, read in
+NOTE-tmpicuma.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**Derived.** From E(log p_i) = ψ(k) − ψ(N) for the mass of the k-th
+neighbour ball (Eq. 17), and a constant density inside it (Eq. 18), the
+Kozachenko–Leonenko entropy estimate (Eq. 20). Counting marginal
+neighbours at the joint distance gives I⁽¹⁾ = ψ(k) − ⟨ψ(n_x + 1) +
+ψ(n_y + 1)⟩ + ψ(N) (Eq. 8); using rectangles gives I⁽²⁾ = ψ(k) − 1/k −
+⟨ψ(n_x) + ψ(n_y)⟩ + ψ(N) (Eq. 9), with one correction neglected.
+
+**Observed numerically.** Systematic errors scale as Φ(k/N) or
+Φ((k − ½)/N) (Eq. 32), are an order of magnitude below Darbellay–Vajda's
+on Gaussians, and vanish for every independent pair tested.
+
+**Checked.** I⁽¹⁾, k = 3, on unit Gaussians with r = 0, 0.3, 0.6, 0.9 at
+N = 200 and 2000: within one standard deviation of −½log(1 − r²)
+throughout, with a small positive bias at r = 0.9 (0.839 against 0.830 at
+N = 2000), as the paper's Fig. 4 shows.
+
+What could have come out otherwise: the estimate at r = 0 could have
+carried a k/N bias like the r ≠ 0 cases. In every case tested it did not.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That the estimator is unbiased or consistent with a known rate.** No
+  bound is proved; the rate is fitted (N^{−0.85} at r = 0.9).
+- **That exactness for independence is a theorem.** It is a conjecture, and
+  the stronger ratio conjecture fails for the ordered Weinman exponential.
+- **Anything about conditional mutual information or transfer entropy.**
+  The paper does not estimate them. Nearest-neighbour transfer-entropy
+  estimators are later extensions, not held.
+- **That it is invariant under reparametrization.** MI is; the estimates
+  are not, and the paper transforms variables case by case.
+
+## Connections
+
+- A transfer-entropy estimate built this way ([TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)) needs a
+  null other than THEORY-641's χ², which is for parametric and plug-in
+  estimators.
+- NOTE-788's mutual-information estimates use an implementation of this
+  estimator; its transfer entropy uses another.
