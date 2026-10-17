@@ -1,73 +1,84 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmp06heo:` heading; the lint checks
-# that the two agree.
-title: 'x'
-
+status: Active
+title: "No redundancy measure on the Williams–Beer partial-information lattice can satisfy symmetry, self-redundancy, monotonicity, the identity axiom and non-negative atoms once there are three sources: for two independent bits, their XOR and a target that copies all three, identity forces three one-bit atoms under a two-bit total, so one atom is at most −1 bit, and a multivariate decomposition that keeps identity must give up non-negativity or the lattice"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
-- complex-systems
-
+- information-theory
+- mathematics
 date: '2026-10-17'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
 - LIT-tmpeurmb
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+summary: >-
+  Rauh, Bertschinger, Olbrich & Jost (2014), [LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md), read in full in
+  [NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md). A proved impossibility, checked by hand and by script. It
+  also uses invariance of redundancy under relabelling the target, which
+  is not stated as an axiom. I_min escapes it by failing identity, Ince's
+  I_ccs by accepting the −1-bit atom.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmp06heo: x
+# THEORY-tmp06heo: No redundancy measure on the Williams–Beer partial-information lattice can satisfy symmetry, self-redundancy, monotonicity, the identity axiom and non-negative atoms once there are three sources: for two independent bits, their XOR and a target that copies all three, identity forces three one-bit atoms under a two-bit total, so one atom is at most −1 bit, and a multivariate decomposition that keeps identity must give up non-negativity or the lattice
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Rauh, Bertschinger, Olbrich & Jost (2014), "Reconsidering unique
+information: Towards a multivariate information decomposition", ISIT 2014,
+arXiv 1404.3146v1, [LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md), read in full in [NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md).
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**The axioms.** Williams and Beer's symmetry, self-redundancy and
+monotonicity with subset equality ([THEORY-706](THEORY-706.md)); local positivity,
+non-negative atoms after Möbius inversion; and Harder, Salge and Polani's
+identity, I∩((Y, Z): Y; Z) = MI(Y: Z) ([THEORY-708](THEORY-708.md)).
+
+**The counterexample (Theorem 2).** Y1, Y2 independent uniform bits,
+Y3 = Y1 ⊕ Y2, X = (Y1, Y2, Y3). Any pair determines the third, so X is a
+relabelling of each pair.
+
+- Identity and relabelling give I∩(X: Yi; Yj) = MI(Yi; Yj) = 0, so by
+  monotonicity the lattice's lower two levels are zero.
+- Identity with a pair as one source gives I∩(X: Yi; YjYk) = MI(Yi; YjYk)
+  = 1, so each of the three atoms {i}{jk} is 1 bit.
+- Monotonicity bounds I∩(X: {12}{13}{23}) by MI(X; Y1Y2Y3) = 2. That node
+  sits above all three {i}{jk}, so its atom is at most 2 − 3 = −1.
+
+Checked: every information value above, and the lattice order, by script
+([NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md)).
+
+**Bivariate side results.** Bertschinger et al.'s unique information is
+monotone in each argument (Lemma 3). Their shared information increases
+with a source (Lemma 4). Shared and synergistic information violate left
+monotonicity (AND, XOR), so neither has a chain rule in the target.
+
+What could have come out otherwise: XORCOPY could have admitted a
+non-negative assignment consistent with identity. It does not, and the
+deficit is exactly one bit.
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That no multivariate decomposition with identity exists.** Only that
+  it cannot be a non-negative decomposition on the Williams–Beer lattice.
+  The authors call for a different structure and do not give one.
+- **That the theorem binds a two-source analysis.** On the bivariate
+  lattice Bertschinger et al.'s measures satisfy every axiom
+  ([THEORY-705](THEORY-705.md)). The record's transfer-entropy examples are bivariate
+  ([CLAIM-335](../claims.d/CLAIM-335.md)).
+- **That it is free of further premises.** It uses invariance under
+  relabelling the target, and identity applied to a pair as one source.
+  A weaker identity on single variables only is not refuted by it.
+- **Which axiom to drop.** I_min drops identity and keeps non-negative
+  atoms; on XORCOPY it gives {1}{2}{3} = {12}{13}{23} = 1. I_ccs drops
+  monotonicity and local positivity; it gives {i}{jk} = 1 and
+  {12}{13}{23} = −1 ([THEORY-tmp65fz9](THEORY-tmp65fz9.md)). The theorem does not choose.
+
+## Connections
+
+- [THEORY-497](THEORY-497.md): ΦID's lattice is a product of Williams–Beer lattices,
+  so for three or more parts an identity-respecting redundancy function
+  must produce negative atoms. That is the record's inference
+  ([NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md)).
+- [THEORY-568](THEORY-568.md) is the redundancy-measure-free route: its Shannon invariants
+  are fixed by mutual informations once the atoms satisfy the consistency
+  equations, so they do not depend on which axiom is dropped. That they
+  survive negative atoms is the record's reading of that account, not
+  checked against its source.

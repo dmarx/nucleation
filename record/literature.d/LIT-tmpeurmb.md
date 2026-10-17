@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-17 (NOTE-tmpRAUH); worth reading as the short proof that the identity axiom and a non-negative decomposition on the Williams–Beer lattice cannot both hold once there are three sources: with Y1, Y2 independent bits, Y3 = Y1 ⊕ Y2 and the target their joint copy, identity, the Williams–Beer axioms and invariance under relabelling the target force the atom {12}{13}{23} to be at most −1 bit. So a multivariate extension of Bertschinger et al.''s unique information cannot be a partial information decomposition. Read it knowing that the theorem rests on the identity axiom applied to sources that are sets of variables and on an unstated invariance under relabelling the target, that its other results (monotonicity of unique information, failure of left monotonicity) are about the bivariate measures, and that the multivariate structure it calls for is left open. Filed as THEORY-tmpRAUHT.'
+status_note: 'read in full 2026-10-17 (NOTE-tmp0uphx); worth reading as the short proof that the identity axiom and a non-negative decomposition on the Williams–Beer lattice cannot both hold once there are three sources: with Y1, Y2 independent bits, Y3 = Y1 ⊕ Y2 and the target their joint copy, identity, the Williams–Beer axioms and invariance under relabelling the target force the atom {12}{13}{23} to be at most −1 bit. So a multivariate extension of Bertschinger et al.''s unique information cannot be a partial information decomposition. Read it knowing that the theorem rests on the identity axiom applied to sources that are sets of variables and on an unstated invariance under relabelling the target, that its other results (monotonicity of unique information, failure of left monotonicity) are about the bivariate measures, and that the multivariate structure it calls for is left open. Filed as THEORY-tmp06heo.'
 title: 'Reconsidering unique information: Towards a multivariate information decomposition'
 version: 1
 history:
@@ -46,7 +46,7 @@ Johannes Rauh, Nils Bertschinger, Eckehard Olbrich and Jürgen Jost (2014), "Rec
 
 ## Key takeaways
 
-*From the reading, [NOTE-tmpRAUH](../notes.d/NOTE-tmpRAUH.md).*
+*From the reading, [NOTE-tmp0uphx](../notes.d/NOTE-tmp0uphx.md).*
 
 - **The impossibility (Theorem 2).** No I∩ satisfies symmetry,
   self-redundancy, monotonicity (with subset equality), local positivity
@@ -78,8 +78,7 @@ same day. It changes the gap's shape. The record asked for a multivariate
 redundancy function with the identity property for ΦID. This paper proves
 that, on the lattice ΦID inherits, no such function also gives
 non-negative atoms. So the gap cannot be closed as stated. One of identity,
-non-negativity or the lattice has to go, and the record's position is
-[CLAIM-tmpGAP](../claims.d/CLAIM-tmpGAP.md). Ince's I_ccs ([LIT-tmpeucmj](LIT-tmpeucmj.md)) is one way of letting
-non-negativity go. Filed as [THEORY-tmpRAUHT](../theory.d/THEORY-tmpRAUHT.md). `mathematics` is for the
+non-negativity or the lattice has to go. Ince's I_ccs ([LIT-tmpeucmj](LIT-tmpeucmj.md)) is one way of letting
+non-negativity go. Filed as [THEORY-tmp06heo](../theory.d/THEORY-tmp06heo.md). `mathematics` is for the
 result's form, an impossibility theorem on a lattice. It carries no
 instruction for machine-learning practice.

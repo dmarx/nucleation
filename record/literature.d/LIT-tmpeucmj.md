@@ -1,74 +1,88 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpeucmj:` heading.
+status_note: 'read 2026-10-17 (NOTE-tmprcqzl): definitions, properties, the operational argument and every worked example in full, the Gaussian section and the discussion at lower resolution. Worth reading as the multivariate redundancy measure that gives up non-negativity rather than identity: I_ccs counts only the pointwise co-information terms where every source, the joint source and the overlap change the surprisal of the target in the same direction, under the maximum-entropy joint that preserves source–target and source–source marginals. It satisfies symmetry, self-redundancy, subset equality and an independent-sources identity, and not Harder et al.''s identity, monotonicity or non-negative atoms. Read it knowing that its game-theoretic case against Bertschinger et al. is an argument about what unique information should mean, not a proof that their measure is wrong; that continuity is conjectured; that the "correct" PIDs it reports are judged against intuition; and that it accepts the −1-bit atom Rauh et al. prove some measure must produce. Filed as THEORY-tmp65fz9.'
 title: 'Measuring multivariate redundant information with pointwise common change in surprisal'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request for the gap the PID filing left open: no
+    held work gave ΦID a multivariate redundancy function with the
+    identity property. Citation checked against Crossref on 2026-10-17
+    (Entropy 19(7): 318, doi 10.3390/e19070318, 29 June 2017);
+    `published:` is the arXiv v1 date, 16 February 2016. Not held in the
+    Anthology of the SOTA: a grep of its record/ (clone of 2026-10-12,
+    d1573d2) for "Ince", the identifiers, "common change in surprisal" and
+    "partial information decomposition" found nothing. Read the same day
+    from arXiv 1602.05063v3 (13 July 2017), 46 pp. (NOTE-tmprcqzl); the
+    Entropy version was not compared, and the Matlab code was not run.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2016-02-16'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+arxiv: '1602.05063'
+doi: '10.3390/e19070318'
+first_author: 'Ince'
+keywords:
+- 'redundancy'
+- 'partial information decomposition'
+- 'pointwise information'
+- 'surprisal'
+- 'co-information'
+- 'maximum entropy'
+- 'misinformation'
+extends:
+- LIT-1172
+rivals:
+- LIT-1162
+- LIT-1168
+compared_against:
+- LIT-1172
+- LIT-1162
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Ince (2017), *Entropy* 19(7): 318, [ARXIV-1602.05063](https://arxiv.org/abs/1602.05063). Defines I_ccs, a redundancy for any number of sources: under the maximum-entropy joint P̂ that matches every source–target marginal and the joint source marginal, take the expectation of the local co-information over only those events where every source's local information, the joint source's and the co-information have the same sign. It satisfies symmetry, self-redundancy, subset equality and an "independent identity" (independent sources copied into the target share nothing), but not Harder et al.'s identity, monotonicity or non-negative atoms; Table 7 has unique information −0.16 bit. Argues from a game-theoretic operational definition that unique information depends on the source–source marginal, against Bertschinger et al. On three sources it accepts the negative atoms of XORCOPY and DBLXOR as "mechanistic redundancy".
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpeucmj: Measuring multivariate redundant information with pointwise common change in surprisal
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Robin A. A. Ince (2017), "Measuring multivariate redundant information with pointwise common change in surprisal", *Entropy* 19(7): 318 — [ARXIV-1602.05063](https://arxiv.org/abs/1602.05063)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmprcqzl](../notes.d/NOTE-tmprcqzl.md).*
+
+- **The measure (Defs. 4.1–4.2).** I_ccs(S; A1…An) = Σ p̂ · c_p̂(a1…an, s)
+  over the events where sgn Δ_s h(ai) for every i, sgn Δ_s h(a1…an) and
+  sgn c agree; other events count zero. P̂ maximises entropy subject to
+  Q(Ai, S) = P(Ai, S) for each i and Q(A1…An) = P(A1…An).
+- **Axioms kept and dropped (§§3, 4.4).** Kept: symmetry, self-redundancy,
+  subset equality, and the independent identity property, I(A1; A2) = 0 ⇒
+  I∩((A1, A2); A1, A2) = 0. Dropped: Harder et al.'s identity, deliberately;
+  monotonicity, by the Table 7 counterexample (redundancy 0.77 bit against
+  I(S; X2) = 0.61); and so non-negative atoms.
+- **Against Bertschinger et al. (§4.3).** In REDUCEDOR a stake-setting,
+  simultaneous one-shot game gives each player an advantage, though no
+  decision problem does. Ince concludes unique information is not
+  invariant to P(X1, X2). I_broja reports 0.31 bit redundancy, I_ccs 0.31
+  bit unique to each source.
+- **Three sources (§6).** XORCOPY gives {i}{jk} = 1 and {12}{13}{23} = −1;
+  DBLXOR gives {12} = {13} = {23} = 1 and {123} = −1. Giant bit, parity and
+  XORUNQ come out as built.
+- **Gaussians (§7).** Unlike the minimum-MI redundancy, I_ccs moves with
+  the correlation between the predictors.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 for the gap left open by the PID filing, and read the
+same day. It is the held multivariate measure. It does not close the gap
+as the record stated it, a multivariate redundancy with the identity
+property and a non-negative decomposition, because Rauh et al. prove
+there can be none on this lattice ([LIT-tmpeurmb](LIT-tmpeurmb.md)). I_ccs keeps an
+independent-sources form of identity and gives up non-negativity. It is a
+rival to [LIT-1162](LIT-1162.md) and [LIT-1168](LIT-1168.md) on what unique information and identity
+should mean. ΦID work held here uses the minimum-mutual-information
+redundancy ([NOTE-799](../notes.d/NOTE-799.md)), not I_ccs. Filed as [THEORY-tmp65fz9](../theory.d/THEORY-tmp65fz9.md). It carries
+no instruction for machine-learning practice.
