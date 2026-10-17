@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpr5tck
 title: 'Within a single mind, what plays the part of the operator model''s independent scoring: what evidence reaches a judgement–observation loop, or what scores it, without passing through the interpretation it tests, and does any of it survive the loss of all action?'
-version: 1
+version: 2
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed.
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    Candidates 1 and 5 note that input the loop did not select, and other people's reports, can have been selected by someone who models it (CLAIM-tmpa2zsl).
 tags:
 - cognition
 - agency
@@ -65,7 +74,9 @@ than an anchor is lost with action.
    whether or not the loop asked for them, together with exogenous
    attention capture. What is unselected is their arrival. How they are
    read still runs through the interpretation ([THEORY-593](../theory.d/THEORY-593.md)), and a
-   policy can attenuate them ([THEORY-285](../theory.d/THEORY-285.md), [NOTE-766](../notes.d/NOTE-766.md)).
+   policy can attenuate them ([THEORY-285](../theory.d/THEORY-285.md), [NOTE-766](../notes.d/NOTE-766.md)). And input the loop did not select
+   can have been selected by someone who models it: reflexive control
+   works through this channel ([CLAIM-tmpa2zsl](../claims.d/CLAIM-tmpa2zsl.md)).
 2. **The body.** Visceral and other bodily states the interpretation does
    not set, mapped in the brain ([QUESTION-059](QUESTION-059.md); Damasio, [THEORY-500](../theory.d/THEORY-500.md)).
    Against: on constructed-emotion accounts, interoception is itself
@@ -89,7 +100,8 @@ than an anchor is lost with action.
    treats this as she treats any other quantum measurement" ([NOTE-955](../notes.d/NOTE-955.md)).
    On that reading it is action again. For a locked-in person, reports that
    arrive unasked stay open inbound, and those are candidate 1, socially
-   structured. Against: whom to believe can still be selected.
+   structured. Against: whom to believe can still be selected. And reports can be prepared for the
+   target by someone who models it ([CLAIM-tmpa2zsl](../claims.d/CLAIM-tmpa2zsl.md)).
 
 ## What would count as an answer
 

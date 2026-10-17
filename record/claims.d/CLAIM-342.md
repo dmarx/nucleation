@@ -3,8 +3,17 @@ number: 342
 status: Proposed
 formerly:
 - CLAIM-tmpt568z
-title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 1
+title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests, nor through anyone''s model of it; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
+version: 2
+history:
+- version: 1
+  date: '2026-10-16'
+  note: >-
+    Filed.
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    The condition is strengthened after reflexive control, granted in CLAIM-tmpa2zsl: the evidence's selection must be independent of the interpretation it tests by anyone, not only by the loop. The title gains "nor through anyone's model of it" and a section says why.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,9 +54,11 @@ summary: >-
   locks in with action available, because its own sampling policy
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
+objected_by:
+- CLAIM-tmpa2zsl
 ---
 
-# CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
+# CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests, nor through anyone's model of it; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
 
 ## The claim
 
@@ -86,6 +97,16 @@ probe or a body state, and a scoring rule fixed independently of the
 current interpretation. Ashby's ultrastability has the same structure: a
 second channel, from the essential variables to the parameters of the
 first loop, that the first loop's behaviour does not set ([THEORY-324](../theory.d/THEORY-324.md)).
+
+## Strengthened after reflexive control
+
+As first filed, the condition was that the evidence's arrival or scoring
+not pass through the interpretation it tests. [CLAIM-tmpa2zsl](CLAIM-tmpa2zsl.md), granted,
+shows that is too weak. Reflexive control supplies a target with evidence
+it did not select, chosen by someone who models its interpretation. The
+condition is now that the evidence's selection be independent of the
+interpretation, by anyone. In [CASE-106](../cases.d/CASE-106.md)'s terms, an adversary tracking the
+target's lean adds to κ′ just as the target's own bent reading does.
 
 ## What it does not say
 
