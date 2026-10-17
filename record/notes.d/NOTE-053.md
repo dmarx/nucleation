@@ -7,12 +7,6 @@ paper: LIT-048
 title: 'Transfer entropy as a log-likelihood ratio'
 version: 3
 history:
-- version: 3
-  date: '2026-10-16'
-  note: >-
-    C7 checked against its source, Barnett, Barrett and Seth (2009), once
-    read (NOTE-tmp2veo7): exact, for population quantities under joint
-    Gaussianity.
 - version: 2
   date: '2026-09-25'
   note: >-
@@ -27,6 +21,12 @@ history:
     compare the PRL version (Phys. Rev. Lett. 109, 138105).). Upgraded from
     `Skimmed` to `Read`: the claims table, assumptions and results are new,
     and the skim is corrected where the full text disagreed.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    C7 checked against its source, Barnett, Barrett and Seth (2009), once
+    read (NOTE-tmp2veo7): exact, for population quantities under joint
+    Gaussianity.
 date: '2026-09-25'
 summary: >-
   For a parametric Markov model f(x_t | x^k_t, y^k_t; θ) of X, the

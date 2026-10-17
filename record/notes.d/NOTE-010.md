@@ -7,13 +7,6 @@ paper: LIT-025
 title: 'Greater than the parts'
 version: 3
 history:
-- version: 3
-  date: '2026-10-16'
-  note: >-
-    C5 annotated after Eichler and Didelez (2007) was read (NOTE-tmpm48uq):
-    measuring every relevant variable is necessary and not sufficient for
-    the Granger reading to be interventional. The record's statement is
-    CLAIM-tmp6nu4a, with a counterexample.
 - version: 2
   date: '2026-09-25'
   note: >-
@@ -27,6 +20,13 @@ history:
     Upgraded from `Skimmed` to `Read`: the claims table, assumptions and
     results are new, and the skim is corrected where the full text
     disagreed.
+- version: 3
+  date: '2026-10-16'
+  note: >-
+    C5 annotated after Eichler and Didelez (2007) was read (NOTE-tmpm48uq):
+    measuring every relevant variable is necessary and not sufficient for
+    the Granger reading to be interventional. The record's statement is
+    CLAIM-tmp6nu4a, with a counterexample.
 date: '2026-09-25'
 summary: >-
   A review, with no new theorem, of the ΦID theory of causal emergence. A
