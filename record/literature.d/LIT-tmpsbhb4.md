@@ -1,74 +1,73 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpsbhb4:` heading.
+status_note: 'read in full 2026-10-17 (NOTE-tmpr176u); worth reading as the decomposition that the critique of transfer entropy (LIT-tmpa6og3) stands on: under the Williams–Beer partial information decomposition, transfer entropy is the source''s unique information about the target''s next state plus its synergy with the target''s past, which the authors call state-independent and state-dependent transfer, and a multivariate transfer entropy splits into unique, redundant and synergistic transfer. Read it knowing that every number depends on the I_min redundancy measure, that the PID it applies (arXiv 1004.2515) is not held here, that it is an unrefereed arXiv preprint, and that its text swaps two parameter settings in the three-process example. Filed as THEORY-tmpt4nh7.'
 title: 'Generalized Measures of Information Transfer'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request as the PID decomposition of transfer
+    entropy that James, Barnett and Crutchfield cite ([17], [18]). An
+    arXiv preprint only: Crossref has no published version and OpenAlex
+    lists only the arXiv DOI 10.48550/arxiv.1102.1507, both checked on
+    2026-10-17. Not held in the Anthology of the SOTA: a grep of its
+    record/ (clone of 2026-10-12) for the authors' names and the
+    identifier found nothing. Read in full the same day from arXiv
+    1102.1507v1 (8 February 2011), 6 pp. with Appendices A and B.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- information-theory
+- complex-systems
 date: '2026-10-17'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
 published: '2011-02-08'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+arxiv: '1102.1507'
+first_author: 'Williams'
+keywords:
+- 'transfer entropy'
+- 'partial information decomposition'
+- 'information transfer'
+- 'state-dependent transfer'
+- 'synergy'
+- 'redundancy'
+- 'controllability'
+extends:
+- LIT-tmpz9o5z
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Williams & Beer (2011), arXiv preprint, [ARXIV-1102.1507](https://arxiv.org/abs/1102.1507). With the I_min partial information decomposition, T_{Y→X} = I(X_{t+1}; Y_t | X_t) splits into the unique information from Y_t (state-independent transfer, SITE) and the synergy of X_t and Y_t (state-dependent transfer, SDTE). SITE alone gives perfect open-loop controllability (Theorem 1). Time-delayed mutual information adds the redundancy and omits SDTE. For two sources, transfer splits into unique, redundant and synergistic parts. Demonstrated on binary Markov processes and a sleep-apnoea recording, where heart→breath transfer is entirely state-dependent.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpsbhb4: Generalized Measures of Information Transfer
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Paul L. Williams and Randall D. Beer (2011), "Generalized Measures of Information Transfer", arXiv preprint — [ARXIV-1102.1507](https://arxiv.org/abs/1102.1507)
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the reading, [NOTE-tmpr176u](../notes.d/NOTE-tmpr176u.md).*
+
+- **The decomposition (Eq. 6, Eq. 8).** I(X; Y | Z) = Π(X; {Y}) +
+  Π(X; {Y, Z}): conditioning removes redundancy and adds synergy. So
+  T_{Y→X} = SITE + SDTE, the unique information of Y_t and the synergy of
+  (X_t, Y_t) about X_{t+1}.
+- **Control reading (Theorem 1).** A system is perfectly controllable by
+  open-loop control iff it is perfectly controllable with SITE alone.
+  SDTE is what closed-loop control adds.
+- **One-parameter family (Fig. 2).** x_{t+1} = y_t if x_t = 0; if x_t = 1,
+  flipped with probability d. d = 0 is pure SITE (1 bit), d = 1 is a
+  controlled-NOT and pure SDTE (1 bit). Checked: T = 1 − ½h(d), smallest
+  at d = ½ (0.5 bit).
+- **Against TDMI.** I(X_{t+1}; Y_t) = SITE + redundancy, so it misses
+  SDTE and includes shared history.
+- **Multivariate transfer.** Unique, redundant and synergistic transfer
+  from two sources, checked at three corners. Redundant transfer means
+  observation cannot tell which source drives the target.
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-17 and read the same day, as the decomposition behind
+[LIT-tmpa6og3](LIT-tmpa6og3.md)'s critique. Filed as [THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md). The record does not
+hold Williams and Beer's PID paper (arXiv 1004.2515) or the later
+critiques of I_min. [THEORY-497](../theory.d/THEORY-497.md) already records that a ΦID verdict can
+turn on the redundancy function, and the same holds for SITE and SDTE away
+from the XOR and copy corners. It carries no instruction for
+machine-learning practice.
