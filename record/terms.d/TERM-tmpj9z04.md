@@ -1,0 +1,29 @@
+---
+# Don't copy this file by hand — run `luria new term`. A TERM is a concept or
+# distinction the argument is stated in. It has no credence; it has a
+# definition, and when the definition changes, a new TERM supersedes the old
+# one so the claims stated in it can be found (ADR-032).
+
+# Active | Superseded | Rejected
+status: Active
+
+# The term itself.
+title: 'transfer entropy'
+
+version: 1
+tags:
+- agency
+date: '2026-10-17'
+# line: will-organization
+
+---
+
+# TERM-tmpj9z04: transfer entropy
+
+## Definition
+
+The definition, and the distinction it draws.
+
+## What it is not
+
+The neighbouring term it must not be confused with.
