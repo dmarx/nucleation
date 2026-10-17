@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpsow60
 paper: 'LIT-1168'
 title: 'Harder, Salge and Polani — A bivariate measure of redundant information'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-17'
@@ -20,6 +20,10 @@ history:
     (pid-checks/pid2.py). It computes the reverse information projections
     numerically (Nelder–Mead over the simplex), so its I_red values are
     good to about 10⁻³. The PRE version was not compared.
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    Limitations annotated: the cited [15]/[16] are Griffith and Koch's v1/v2, now held (LIT-tmpx01yr), whose v6 concedes the point.
 date: '2026-10-17'
 summary: >-
   I_min gives 1 bit of redundancy to two independent bits copied into the
@@ -175,6 +179,9 @@ each source moves p(z) for each outcome, not in which direction.
   more sources.
 - C2 and C5 are positions. The work it cites as [15] holds the opposite
   on C5: independent sources share nothing (§IV C 3, footnote 1).
+  (Annotated 2026-10-17: [15] and [16] are versions of Griffith and Koch,
+  now held as [LIT-tmpx01yr](../literature.d/LIT-tmpx01yr.md). The quotation is accurate to v1 and v2; v6
+  withdraws it and concedes mechanistic redundancy, [NOTE-tmp71sln](NOTE-tmp71sln.md).)
 - C4 rests on scatter plots of random distributions, with unexplained
   exceptions.
 - I_red needs a convex optimization per source value. The paper gives no

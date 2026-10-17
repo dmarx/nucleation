@@ -1,0 +1,85 @@
+---
+status: Active
+status_note: 'read in full 2026-10-17 (NOTE-tmpm0azr); worth reading as the measure of redundancy built from the Gács–Körner common random variable, I_∧(X_1, …, X_n : Y) = I(X_1 ∧ … ∧ X_n : Y), defined for any number of sources, the first to satisfy target monotonicity, and by construction a lower bound on any reasonable redundancy. Read it knowing that it is zero whenever the sources'' joint distribution has full support, so it is discontinuous and fails the identity property, that its synergy goes negative (−0.99 bit in ImperfectRdn, −0.252 in Subtle), and that its zero-error variant, which satisfies identity, goes negative too. It is the formal version of the view that only correlation between the sources makes redundancy. Filed as THEORY-tmp7uuzn.'
+title: 'Intersection Information Based on Common Randomness'
+version: 1
+history:
+- version: 1
+  date: '2026-10-17'
+  note: >-
+    Filed at the owner's request with Griffith and Koch (LIT-tmpx01yr), as
+    Griffith's later measure of redundancy and the one candidate in the
+    record defined for more than two sources. Citation checked against
+    Crossref and the arXiv abstract page on 2026-10-17: v1 6 October 2013,
+    Entropy 16(4): 1985–2000, published 4 April 2014, doi
+    10.3390/e16041985. Not held in the Anthology of the SOTA: a grep of its
+    record/ (clone of 2026-10-12, d1573d2) for "Griffith", "Gács", the
+    identifiers and "intersection information" found nothing. Read in full
+    the same day from arXiv v3 (10 June 2015), §§1–7 and Appendices A–C.
+    Table 1's check marks did not survive text extraction and were read
+    from the lemmas instead. The Entropy version was not compared.
+tags:
+- information-theory
+- complex-systems
+date: '2026-10-17'
+published: '2013-10-06'
+arxiv: '1310.1538'
+doi: '10.3390/e16041985'
+first_author: 'Griffith'
+keywords:
+- 'intersection information'
+- 'partial information decomposition'
+- 'Gács–Körner common information'
+- 'zero-error information'
+- 'redundancy'
+- 'synergy'
+extends:
+- LIT-1172
+compared_against:
+- LIT-1172
+- LIT-1168
+implementations: []
+summary: >-
+  Griffith, Chong, James, Ellison & Crutchfield (2014), *Entropy* 16(4): 1985–2000, [ARXIV-1310.1538](https://arxiv.org/abs/1310.1538). Proposes I_∧(X_1, …, X_n : Y) = I(X_1 ∧ … ∧ X_n : Y), the information about Y in the Gács–Körner common random variable of the sources, and a zero-error variant H(X_1 ∧ … ∧ X_n ∧ Y). I_∧ is defined for any n, satisfies global positivity, equivalence-class invariance, target monotonicity (the first measure to, by its own account), weak monotonicity, weak symmetry, a lower bound and self-redundancy, and lies below I_min. It fails identity and local positivity: it is zero whenever the sources have full support, so it gives −0.99 bit of synergy in ImperfectRdn. The zero-error variant satisfies identity but gives −0.252 bit of synergy in Subtle.
+---
+
+# LIT-tmpk8n6l: Intersection Information Based on Common Randomness
+
+Virgil Griffith, Edwin K. P. Chong, Ryan G. James, Christopher J. Ellison and James P. Crutchfield (2014), "Intersection Information Based on Common Randomness", *Entropy* 16(4): 1985–2000 — [ARXIV-1310.1538](https://arxiv.org/abs/1310.1538)
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpm0azr](../notes.d/NOTE-tmpm0azr.md).*
+
+- **The measure (Eqs. 4–5, Lemma 8).** The largest I(Q : Y) over Q that
+  is a function of every source is attained by the common random variable
+  X_1 ∧ … ∧ X_n, so I_∧ = I(X_1 ∧ … ∧ X_n : Y). It is defined for any
+  number of sources.
+- **Properties (Lemmas 4–6).** It satisfies global positivity,
+  equivalence-class invariance, target monotonicity, weak monotonicity,
+  weak symmetry, the lower bound and self-redundancy. It fails identity,
+  weak and strong local positivity, strong monotonicity and strong
+  symmetry. And 0 ≤ I_∧ ≤ I_min (Lemma 9).
+- **Its failure (§5.3).** It sees only deterministic shared structure.
+  With any noise between the sources, so that their joint distribution
+  has full support, it is zero, and the synergy goes negative:
+  ImperfectRdn gives −0.99 bit.
+- **The zero-error variant (§3).** H(X_1 ∧ … ∧ X_n ∧ Y) satisfies nine of
+  eleven properties, identity among them in its zero-error form, but not
+  local positivity. Subtle gives −0.252 bit.
+- **Diagnosis (§§6–7).** Negative synergy means the intersection is too
+  small. Identity and local positivity are incompatible within zero-error
+  information, as Bertschinger et al. show more generally.
+
+## Standing in the record
+
+Filed on 2026-10-17 with Griffith and Koch, and read the same day. Filed
+as [THEORY-tmp7uuzn](../theory.d/THEORY-tmp7uuzn.md). It is the one redundancy measure the record holds
+that is defined for any number of sources. It does not close the gap the
+record named, an identity-property redundancy for ΦID beyond two
+sources: it fails identity and goes negative already for two. It
+formalises "source redundancy only". In AND it gives 0 redundant,
+0.311 unique each and 0.189 synergy, which is exactly Griffith and Koch's
+v1 answer, and the opposite of Harder, Salge and Polani's mechanistic
+redundancy. That correspondence is the reading's. It carries no
+instruction for machine-learning practice.

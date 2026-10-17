@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpbpcaw
 paper: LIT-025
 title: 'Greater than the parts'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-09-25'
@@ -31,6 +31,10 @@ history:
   date: '2026-10-17'
   note: >-
     The permutation example's identity-property case checked under I_red (NOTE-944), and Bertschinger et al. named (LIT-1162).
+- version: 5
+  date: '2026-10-17'
+  note: >-
+    The permutation example's annotation extended: Rauh et al.'s impossibility (CLAIM-tmpqjpx1), Ince's I_ccs, and the permutation's values under I_ccs and I_∧.
 date: '2026-09-25'
 summary: >-
   A review, with no new theorem, of the ΦID theory of causal emergence. A
@@ -138,7 +142,7 @@ The most citable line, the abstract's "we … extend a recent formal theory", cl
   - (i) Take the two-bit system (X¹,X²) → (X¹⊕X², X¹) with uniform inputs. It is a deterministic permutation, so determinism is maximal and degeneracy minimal. Item 22 §4 states that EI "cannot increase at a macroscale" in exactly that case, so on item 22's EI reading this system has no emergent macroscale.
     - Here I(X_t;X_t′) = 2 bits and I(Xⁱ_t;X_t′) = 1 bit for each part. By Eq. 2 that gives Syn = Red.
     - Under the minimum-MI redundancy, Syn⁽¹⁾ = 1 bit > 0. By the theorem restated here, the system then hosts a causally emergent feature at a single scale.
-    - Under a redundancy function with the identity property (e.g. Bertschinger et al.'s), Syn = 0 and the two accounts agree. (Annotated 2026-10-17: checked. Under Harder, Salge and Polani's I_red the permutation has redundancy 0, synergy 0 and 1 bit unique to each source, [NOTE-944](NOTE-944.md); Bertschinger et al. is held as [LIT-1162](../literature.d/LIT-1162.md). Both are bivariate, so neither serves as ΦID's redundancy function as it stands; the record's inference.)
+    - Under a redundancy function with the identity property (e.g. Bertschinger et al.'s), Syn = 0 and the two accounts agree. (Annotated 2026-10-17: checked. Under Harder, Salge and Polani's I_red the permutation has redundancy 0, synergy 0 and 1 bit unique to each source, [NOTE-944](NOTE-944.md); Bertschinger et al. is held as [LIT-1162](../literature.d/LIT-1162.md). Both are bivariate, so neither serves as ΦID's redundancy function as it stands; the record's inference. Annotated again 2026-10-17: by Rauh et al. no measure with identity can, on the lattice, without negative atoms ([LIT-tmpeurmb](../literature.d/LIT-tmpeurmb.md), [CLAIM-tmpqjpx1](../claims.d/CLAIM-tmpqjpx1.md)), and Ince's I_ccs ([LIT-tmpeucmj](../literature.d/LIT-tmpeucmj.md)) is the multivariate option that accepts them. The permutation gives no synergy under I_ccs and Griffith et al.'s I_∧ too, so every held measure but I_min agrees here.)
     - My arithmetic, not either paper's. The disagreement is real, but whether it shows up depends on the redundancy function.
   - (ii) Conversely, item 22's XOR example (§3.1): a macroscale XOR gate compared with its NAND/AND/OR implementation, with B_syn rising from 0.52 to 0.833. Item 22 counts that as emergence because of the comparison across descriptions. The framework here would ask a different question: whether, within the micro network's own partition, some function of the gates predicts the future beyond any single gate. The two need not agree.
   - (iii) Footnote 4 here shows that a change of coordinates can move 1 bit from synergy to unique information. Item 22's dimension reductions are also changes of description. So what item 22 calls "conversion of information across scales", this framework would call a change of partition, under which its quantities are *expected* to change (§IV B) and which it does not treat as evidence of emergence.

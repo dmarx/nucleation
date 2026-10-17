@@ -16,7 +16,12 @@ promote_when: >-
   refute it as an account of those systems. More applications under one
   unnamed redundancy function cannot settle it.
 title: "A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    A Connections line: for three or more parts no identity-respecting redundancy gives nonnegative atoms (THEORY-tmp06heo, CLAIM-tmpqjpx1). The account is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -97,6 +102,13 @@ general assumptions" without giving them.
   preprints at the time.
 
 ## Connections
+
+- **For three or more parts the redundancy function cannot be fully
+  principled.** On the Williams–Beer lattice no redundancy function has
+  both the identity property and nonnegative atoms from three sources up
+  ([THEORY-tmp06heo](THEORY-tmp06heo.md)), so a three-part verdict depends on which axiom is
+  dropped ([CLAIM-tmpqjpx1](../claims.d/CLAIM-tmpqjpx1.md)). For two parts the bivariate measures are
+  consistent.
 
 - **Effective-information emergence ([THEORY-222](THEORY-222.md))** is a different formal
   object under the same name: interventional, and comparing two models of
