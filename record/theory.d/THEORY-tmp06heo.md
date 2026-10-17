@@ -14,6 +14,8 @@ summary: >-
   also uses invariance of redundancy under relabelling the target, which
   is not stated as an axiom. I_min escapes it by failing identity, Ince's
   I_ccs by accepting the −1-bit atom.
+supports:
+- CLAIM-tmpqjpx1
 ---
 
 <!-- inactive-ok-file: THEORY-497 THEORY-tmp65fz9 — Proposed; named as the account the theorem bears on and as one escape route, nothing here rests on either being settled -->

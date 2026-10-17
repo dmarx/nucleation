@@ -4,7 +4,12 @@ status: Active
 formerly:
 - THEORY-tmpim3f9
 title: "The I_min redundancy credits two independent sources with shared information whenever each reduces surprise about the same target outcomes, so it gives two independent bits copied into the target 1 bit of redundancy; a bivariate redundancy built from reverse information projections, each source's information less what is lost when its posteriors are replaced by mixtures of the other's, satisfies symmetry, self-redundancy, monotonicity and the identity property, gives a nonnegative decomposition, and agrees with I_min on XOR, AND and their compositions but can reverse the state-independent/state-dependent split of a transfer entropy"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    Connections: Griffith's view, now held (THEORY-tmpims74, THEORY-tmp7uuzn), and Rauh et al.'s three-source impossibility (THEORY-tmp06heo).
 tags:
 - information-theory
 - complex-systems
@@ -69,6 +74,13 @@ one does neither, for two sources.
   unexplained exceptions.
 
 ## Connections
+
+- The view this paper opposes is now held. Griffith and Koch's later
+  version concedes mechanistic redundancy ([THEORY-tmpims74](THEORY-tmpims74.md)), so AND's
+  redundancy is 0.311 under I_min, I_red and Bertschinger et al.'s measure
+  alike. Griffith et al.'s I_∧ is the opposite pole, with 0 ([THEORY-tmp7uuzn](THEORY-tmp7uuzn.md)).
+  Neither I_red nor any identity-respecting measure extends to three
+  sources with nonnegative atoms ([THEORY-tmp06heo](THEORY-tmp06heo.md)).
 
 - It corrects [THEORY-706](THEORY-706.md)'s I_min on shared information, and keeps its
   lattice and inversion.

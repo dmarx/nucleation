@@ -25,6 +25,8 @@ summary: >-
   depends on the source–source marginal, are argued, not proved. Proposed
   until one of those is settled. It meets Rauh et al.'s −1-bit bound
   exactly on XORCOPY.
+supports:
+- CLAIM-tmpqjpx1
 ---
 
 # THEORY-tmp65fz9: Redundancy among any number of sources can be measured as the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals; this keeps symmetry, self-redundancy, subset equality and identity for independent sources, and gives up Harder et al.'s identity, monotonicity and non-negative atoms, which then read as local misinformation and mechanistic redundancy

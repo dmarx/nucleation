@@ -4,7 +4,12 @@ status: Active
 formerly:
 - THEORY-tmp8ox3d
 title: "For a target and two sources with finite alphabets, if unique information is to depend only on the two source–target pair marginals, then the minimum of the conditional mutual information over all joints with those marginals is an upper bound on every non-negative decomposition's unique information, and the shared and synergistic information it implies are lower bounds; this unique information vanishes exactly when the other source is Blackwell-sufficient, and the measures are non-negative, satisfy the bivariate partial-information axioms and the identity property, and do not extend to three sources on the partial-information lattice"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-17'
+  note: >-
+    Connections: equivalence with Griffith and Koch's S_VK for two sources, and Rauh et al.'s monotonicity results and impossibility.
 tags:
 - information-theory
 - mathematical-statistics
@@ -82,6 +87,12 @@ non-negative.
   split.
 
 ## Connections
+
+- For two sources its synergy is Griffith and Koch's S_VK: the constraint
+  set is the same, and H(Y) is fixed on it ([THEORY-tmpims74](THEORY-tmpims74.md); the record's
+  derivation). Rauh et al. show its unique information is monotone and its
+  shared and synergistic parts are not, and that no identity-respecting
+  extension to three sources keeps atoms nonnegative ([THEORY-tmp06heo](THEORY-tmp06heo.md)).
 
 - It answers the flaw in Williams and Beer's I_min ([LIT-1172](../literature.d/LIT-1172.md)) that
   Harder, Salge and Polani identified ([LIT-1168](../literature.d/LIT-1168.md)), and is compared with
