@@ -23,14 +23,14 @@ history:
 - version: 3
   date: '2026-10-16'
   note: >-
-    C5 annotated after Eichler and Didelez (2007) was read (NOTE-tmpm48uq):
+    C5 annotated after Eichler and Didelez (2007) was read (NOTE-941):
     measuring every relevant variable is necessary and not sufficient for
     the Granger reading to be interventional. The record's statement is
-    CLAIM-tmp6nu4a, with a counterexample.
+    CLAIM-333, with a counterexample.
 - version: 4
   date: '2026-10-17'
   note: >-
-    The permutation example's identity-property case checked under I_red (NOTE-tmpsow60), and Bertschinger et al. named (LIT-tmp5b2vz).
+    The permutation example's identity-property case checked under I_red (NOTE-944), and Bertschinger et al. named (LIT-1162).
 date: '2026-09-25'
 summary: >-
   A review, with no new theorem, of the ΦID theory of causal emergence. A
@@ -94,7 +94,7 @@ All are restated from [7] (Rosas et al. 2020) or [26]. None is proved here.
 | C2 | Emergence capacity decomposes exactly and exhaustively as Syn⁽ᵏ⁾ = D⁽ᵏ⁾ + G⁽ᵏ⁾ | assertion here | Eq. 4, attributed to "further derivations" in [7]/[26] |
 | C3 | Redundancy-function-free sufficient criteria for emergence exist, use only low-order marginals, and avoid the curse of dimensionality | assertion here | §III, last paragraph; criteria not stated, deferred to [7] |
 | C4 | The quantities are neither Granger nor Pearl in themselves; they are interventional if p(X_t′|X_t) is a do()-distribution and faithfulness and causal Markov hold, and predictive otherwise | informal argument | §IV A |
-| C5 | If all relevant variables are measured, Granger- and Pearl-type analyses coincide | assertion | §IV A; no citation, no statement of conditions. (Annotated 2026-10-16: false as stated. Eichler and Didelez, [NOTE-tmpm48uq](NOTE-tmpm48uq.md), also need interventions that are isolated exogenous changes and no influence within one sampling step; then Granger noncausality implies no effect, and a Granger-causal edge is only potentially causal. [CLAIM-tmp6nu4a](../claims.d/CLAIM-tmp6nu4a.md) has a counterexample with every variable measured.) |
+| C5 | If all relevant variables are measured, Granger- and Pearl-type analyses coincide | assertion | §IV A; no citation, no statement of conditions. (Annotated 2026-10-16: false as stated. Eichler and Didelez, [NOTE-941](NOTE-941.md), also need interventions that are isolated exogenous changes and no influence within one sampling step; then Granger noncausality implies no effect, and a Granger-causal edge is only potentially causal. [CLAIM-333](../claims.d/CLAIM-333.md) has a counterexample with every variable measured.) |
 | C6 | Lack of invariance under a change of coordinates is a feature of a mereological theory, not a bug | informal (philosophical) argument | §IV B, appeal to Jaynes's epistemic probability |
 | C7 | The theory does compare macro with micro, via supervenient V, and dynamical synergy enabling emergent V is "not an assumption, but a consequence" | informal argument | §IV C, rebutting [8] = item 22 |
 | C8 | GoL particles and a flock's centre of mass are causally emergent | experiment (in [7]) | §V A; results summarised, no values given here |
@@ -138,7 +138,7 @@ The most citable line, the abstract's "we … extend a recent formal theory", cl
   - (i) Take the two-bit system (X¹,X²) → (X¹⊕X², X¹) with uniform inputs. It is a deterministic permutation, so determinism is maximal and degeneracy minimal. Item 22 §4 states that EI "cannot increase at a macroscale" in exactly that case, so on item 22's EI reading this system has no emergent macroscale.
     - Here I(X_t;X_t′) = 2 bits and I(Xⁱ_t;X_t′) = 1 bit for each part. By Eq. 2 that gives Syn = Red.
     - Under the minimum-MI redundancy, Syn⁽¹⁾ = 1 bit > 0. By the theorem restated here, the system then hosts a causally emergent feature at a single scale.
-    - Under a redundancy function with the identity property (e.g. Bertschinger et al.'s), Syn = 0 and the two accounts agree. (Annotated 2026-10-17: checked. Under Harder, Salge and Polani's I_red the permutation has redundancy 0, synergy 0 and 1 bit unique to each source, [NOTE-tmpsow60](NOTE-tmpsow60.md); Bertschinger et al. is held as [LIT-tmp5b2vz](../literature.d/LIT-tmp5b2vz.md). Both are bivariate, so neither serves as ΦID's redundancy function as it stands; the record's inference.)
+    - Under a redundancy function with the identity property (e.g. Bertschinger et al.'s), Syn = 0 and the two accounts agree. (Annotated 2026-10-17: checked. Under Harder, Salge and Polani's I_red the permutation has redundancy 0, synergy 0 and 1 bit unique to each source, [NOTE-944](NOTE-944.md); Bertschinger et al. is held as [LIT-1162](../literature.d/LIT-1162.md). Both are bivariate, so neither serves as ΦID's redundancy function as it stands; the record's inference.)
     - My arithmetic, not either paper's. The disagreement is real, but whether it shows up depends on the redundancy function.
   - (ii) Conversely, item 22's XOR example (§3.1): a macroscale XOR gate compared with its NAND/AND/OR implementation, with B_syn rising from 0.52 to 0.833. Item 22 counts that as emergence because of the comparison across descriptions. The framework here would ask a different question: whether, within the micro network's own partition, some function of the gates predicts the future beyond any single gate. The two need not agree.
   - (iii) Footnote 4 here shows that a change of coordinates can move 1 bit from synergy to unique information. Item 22's dimension reductions are also changes of description. So what item 22 calls "conversion of information across scales", this framework would call a change of partition, under which its quantities are *expected* to change (§IV B) and which it does not treat as evidence of emergence.
@@ -159,7 +159,7 @@ Other named alternatives in the paper: Hoel et al. 2013 (EI causal emergence) an
 - The redundancy function is left open (footnote 2). The applications in §V B depend on one, and the review does not name it.
 - The practical criteria need a named candidate feature V, which may not exist in resting-state data (§VI). The capacity measure avoids that but "scales poorly with the system size", and computing it for large systems is "currently unfeasible" (§VI).
 - No efficient estimator of G⁽ᵏ⁾ exists for three or more time series (footnote 5). So the fMRI "causal emergence" results are pairwise G⁽¹⁾, a lower-order proxy.
-- C5 (Granger = Pearl when all variables are measured) is stated without its conditions. (Annotated 2026-10-16: the conditions are in [THEORY-tmp4g68i](../theory.d/THEORY-tmp4g68i.md), and complete measurement is not enough, [CLAIM-tmp6nu4a](../claims.d/CLAIM-tmp6nu4a.md).)
+- C5 (Granger = Pearl when all variables are measured) is stated without its conditions. (Annotated 2026-10-16: the conditions are in [THEORY-704](../theory.d/THEORY-704.md), and complete measurement is not enough, [CLAIM-333](../claims.d/CLAIM-333.md).)
 - The "feature not bug" defence of coordinate dependence (C6) is a philosophical stance. It does not tell a user which partition to choose.
 - The brain results it cites were bioRxiv preprints at the time. The link to "complex, abstract reasoning" is speculative ("evidence suggesting that it may support").
 

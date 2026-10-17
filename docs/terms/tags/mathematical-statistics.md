@@ -6,8 +6,8 @@
 
 **Mathematical statistics** — the theory of statistical inference read for itself — comparison and sufficiency of experiments (Blackwell, Le Cam deficiency), statistical decision theory, the sufficiency theorems (Fisher–Neyman, Basu, Bahadur) and bounds on estimation. Bayesian modelling is probabilistic-modeling (ADR-031).
 
-0 of 56 TERM documents. Back to the [full index](../README.md).
+1 of 58 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-058](../../../record/terms.d/TERM-058.md) | Granger causality: the past of one series improving the prediction of another's next value beyond the past of everything else in a stated information set, a predictive relation relative to that set and its lags, and not by itself the effect of an intervention | The record names Granger causality in its readings of transfer entropy ([NOTE-053](../../../record/notes.d/NOTE-053.md)), causal emergence ([NOTE-010](../../../record/notes.d/NOTE-010.md), [NOTE-726](../../../record/notes.d/NOTE-726.md), [NOTE-791](../../../record/notes.d/NOTE-791.md)) and IIT ([NOTE-122](../../../record/notes.d/NOTE-122.md)), always through other authors. This fixes the word: relative to an information set, predictive, and interventional only under the conditions of [THEORY-704](../../../record/theory.d/THEORY-704.md). Defined from Barnett, Barrett and Seth, Seth, and Eichler and Didelez; Granger (1969) itself is Unavailable. | Active |

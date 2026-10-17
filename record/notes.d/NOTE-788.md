@@ -20,8 +20,8 @@ history:
   date: '2026-10-17'
   note: >-
     Annotated after the transfer-entropy works were read: the TE definition
-    is Schreiber's at k = l = 1 only for τ = 1 (NOTE-tmplm3la, TERM-tmpj9z04),
-    and "flow" here is directed predictive improvement (CLAIM-tmpu9ivq).
+    is Schreiber's at k = l = 1 only for τ = 1 (NOTE-940, TERM-057),
+    and "flow" here is directed predictive improvement (CLAIM-335).
 date: '2026-10-14'
 summary: >-
   Two colloids are symmetrically coupled by the fluid, and the trap of one
@@ -148,9 +148,9 @@ statistically independent particles and symmetric time-delayed measures.
   (Annotated 2026-10-17: this is Schreiber's definition with one past value
   of target and source, and only at τ = 1. For τ > 1 it conditions on y_t,
   not y_{t+τ−1}, a delayed variant Schreiber does not define
-  ([NOTE-tmplm3la](NOTE-tmplm3la.md), [TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)). With one target value it can credit the
+  ([NOTE-940](NOTE-940.md), [TERM-057](../terms.d/TERM-057.md)). With one target value it can credit the
   source with what the target's longer past predicts, Lizier et al.'s
-  point ([THEORY-tmp22xor](../theory.d/THEORY-tmp22xor.md)); for an overdamped, near-Markov colloid pair that
+  point ([THEORY-702](../theory.d/THEORY-702.md)); for an overdamped, near-Markov colloid pair that
   may matter little, which is the record's reading, not tested.)
 - **Driving node.** The variable whose fluctuations the others' futures
   carry. Here it is λ by construction, and x₁ relative to x₂.
@@ -162,10 +162,10 @@ statistically independent particles and symmetric time-delayed measures.
 
 The paper follows the same group's 2024 study of irreversibility under
 coarse-graining in this system (arXiv:2405.00800, not held). It uses
-Schreiber's transfer entropy ([LIT-tmpz9o5z](../literature.d/LIT-tmpz9o5z.md), in the variant noted under Concepts)
+Schreiber's transfer entropy ([LIT-1177](../literature.d/LIT-1177.md), in the variant noted under Concepts)
 and the time-delayed MI of Vastano and Swinney. "Flow" and "backflow" in
 this note mean the direction of predictive improvement, not information
-attributable to one particle alone ([CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md)); nothing here rests on
+attributable to one particle alone ([CLAIM-335](../claims.d/CLAIM-335.md)); nothing here rests on
 the stronger reading. It relies on Meiners and Quake's 1999 measurement of
 hydrodynamic cross-correlations for the independence of the undriven
 particles.

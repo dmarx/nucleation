@@ -22,8 +22,8 @@ history:
   date: '2026-10-17'
   note: >-
     A bullet added to What this does not say: "flow" is directed predictive
-    improvement, per CLAIM-tmpu9ivq, and the paper's transfer entropy uses a
-    single target value (TERM-tmpj9z04). The account is unchanged.
+    improvement, per CLAIM-335, and the paper's transfer entropy uses a
+    single target value (TERM-057). The account is unchanged.
 tags:
 - information-theory
 - causality
@@ -102,8 +102,8 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
 - **It does not say information moves from one particle to the other.**
   "Flow" here is the direction of predictive improvement. Transfer entropy
   is unique plus synergistic information, not information attributable to
-  the source alone ([CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md)), and the paper's transfer entropy uses a
-  single target value ([TERM-tmpj9z04](../terms.d/TERM-tmpj9z04.md)).
+  the source alone ([CLAIM-335](../claims.d/CLAIM-335.md)), and the paper's transfer entropy uses a
+  single target value ([TERM-057](../terms.d/TERM-057.md)).
 - **It does not establish the strong-drive result experimentally.** θ ≫ 1
   is "beyond our experimental regime".
 - **It is one linear, Gaussian, two-body system** with an analytically

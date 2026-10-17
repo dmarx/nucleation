@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-34 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+35 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -199,6 +199,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-388](../record/theory.d/THEORY-388.md) — Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy *(Active)*
   - [THEORY-372](../record/theory.d/THEORY-372.md) — For c-approximate near-neighbour search over n points in Euclidean space, space n^{1+ρu+o(1)} and query time n^{ρq+o(1)} are achievable on any data set whenever c²√ρq + (c²−1)√ρu ≥ √(2c²−1) (c√ρq + (c−1)√ρu ≥ √(2c−1) in Hamming space), and no list-of-points structure, the model of known data-independent hashing, does better on random instances; without that model the curve is matched only at query time n^{o(1)} by one or two cell probes *(Active)*
+
+## information-theory
+
+### From For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant
+
+- [THEORY-700](../record/theory.d/THEORY-700.md) — For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant *(Active)*
+  - [THEORY-641](../record/theory.d/THEORY-641.md) — Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom *(Active)*
 
 ## learning-theory
 

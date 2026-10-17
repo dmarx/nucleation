@@ -27,7 +27,7 @@ history:
   date: '2026-10-17'
   note: >-
     The open question on a ΦID of transfer entropy annotated with
-    Williams and Beer's decomposition (THEORY-tmpt4nh7) and CLAIM-tmpu9ivq.
+    Williams and Beer's decomposition (THEORY-712) and CLAIM-335.
 date: '2026-10-14'
 summary: >-
   In resting-state fMRI, regions where synergistic interactions outrank
@@ -277,7 +277,7 @@ Deco et al.'s task-based, directed (transfer-entropy) workspace.
   broadcasting as directed redundancy from the FPN, rather than as
   inferred from undirected participation? (Annotated 2026-10-17: a PID of
   transfer entropy exists, Williams and Beer's split into unique and
-  synergistic parts, [THEORY-tmpt4nh7](../theory.d/THEORY-tmpt4nh7.md). Since transfer entropy carries no
+  synergistic parts, [THEORY-712](../theory.d/THEORY-712.md). Since transfer entropy carries no
   redundancy at all, directed redundancy would have to come from
   time-delayed mutual information or a ΦID of the joint past, not from
-  transfer entropy itself; [CLAIM-tmpu9ivq](../claims.d/CLAIM-tmpu9ivq.md). That inference is the record's.)
+  transfer entropy itself; [CLAIM-335](../claims.d/CLAIM-335.md). That inference is the record's.)

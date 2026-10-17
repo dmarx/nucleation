@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**454 documents cited without acknowledgement.** Not listed: 9951 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**460 documents cited without acknowledgement.** Not listed: 9952 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -634,8 +634,8 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/notes.d/NOTE-319.md:150`](../../record/notes.d/NOTE-319.md)
 - [`record/notes.d/NOTE-319.md:167`](../../record/notes.d/NOTE-319.md)
 - [`record/notes.d/NOTE-320.md:35`](../../record/notes.d/NOTE-320.md)
-- [`record/notes.d/NOTE-320.md:140`](../../record/notes.d/NOTE-320.md)
-- [`record/notes.d/NOTE-320.md:155`](../../record/notes.d/NOTE-320.md)
+- [`record/notes.d/NOTE-320.md:147`](../../record/notes.d/NOTE-320.md)
+- [`record/notes.d/NOTE-320.md:162`](../../record/notes.d/NOTE-320.md)
 - [`record/notes.d/NOTE-321.md:157`](../../record/notes.d/NOTE-321.md)
 - [`record/notes.d/NOTE-322.md:185`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
@@ -757,6 +757,28 @@ For one index with no space limit, Bruno and Chaudhuri's online tuner, which bui
 - [`record/theory.d/THEORY-382.md:97`](../../record/theory.d/THEORY-382.md)
 - [`record/theory.d/THEORY-383.md:92`](../../record/theory.d/THEORY-383.md)
 - [`record/theory.d/THEORY-386.md:88`](../../record/theory.d/THEORY-386.md)
+
+### [THEORY-497](../../record/theory.d/THEORY-497.md) — Proposed
+
+A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
+
+15 citations in 14 files await a look; 5 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-333.md:105`](../../record/claims.d/CLAIM-333.md)
+- [`record/claims.d/CLAIM-334.md:64`](../../record/claims.d/CLAIM-334.md)
+- [`record/literature.d/LIT-1176.md:78`](../../record/literature.d/LIT-1176.md)
+- [`record/notes.d/NOTE-935.md:149`](../../record/notes.d/NOTE-935.md)
+- [`record/notes.d/NOTE-936.md:142`](../../record/notes.d/NOTE-936.md)
+- [`record/notes.d/NOTE-937.md:182`](../../record/notes.d/NOTE-937.md)
+- [`record/notes.d/NOTE-941.md:149`](../../record/notes.d/NOTE-941.md)
+- [`record/notes.d/NOTE-942.md:137`](../../record/notes.d/NOTE-942.md)
+- [`record/notes.d/NOTE-942.md:138`](../../record/notes.d/NOTE-942.md)
+- [`record/notes.d/NOTE-945.md:132`](../../record/notes.d/NOTE-945.md)
+- [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
+- [`record/theory.d/THEORY-704.md:86`](../../record/theory.d/THEORY-704.md)
+- [`record/theory.d/THEORY-705.md:96`](../../record/theory.d/THEORY-705.md)
+- [`record/theory.d/THEORY-707.md:82`](../../record/theory.d/THEORY-707.md)
+- [`record/theory.d/THEORY-712.md:77`](../../record/theory.d/THEORY-712.md)
 
 ### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
 
@@ -1457,6 +1479,20 @@ Adding causality to the information-theoretic perspective on individuality
 - [`record/questions.d/QUESTION-115.md:23`](../../record/questions.d/QUESTION-115.md)
 - [`record/questions.d/QUESTION-115.md:48`](../../record/questions.d/QUESTION-115.md)
 
+### [LIT-1169](../../record/literature.d/LIT-1169.md) — Unavailable
+
+Measurement of Linear Dependence and Feedback between Multiple Time Series
+
+7 citations in 5 files await a look.
+
+- [`record/notes.d/NOTE-053.md:34`](../../record/notes.d/NOTE-053.md)
+- [`record/notes.d/NOTE-053.md:111`](../../record/notes.d/NOTE-053.md)
+- [`record/notes.d/NOTE-934.md:19`](../../record/notes.d/NOTE-934.md)
+- [`record/notes.d/NOTE-934.md:106`](../../record/notes.d/NOTE-934.md)
+- [`record/notes.d/NOTE-939.md:123`](../../record/notes.d/NOTE-939.md)
+- [`record/theory.d/THEORY-700.md:73`](../../record/theory.d/THEORY-700.md)
+- [`record/theory.d/THEORY-711.md:73`](../../record/theory.d/THEORY-711.md)
+
 ### [LIT-349](../../record/literature.d/LIT-349.md) — Unavailable
 
 Information and the Accuracy Attainable in the Estimation of Statistical Parameters
@@ -1801,6 +1837,19 @@ In a deep linear network trained by gradient descent, depth slows learning throu
 - [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
 - [`record/questions.d/QUESTION-081.md:66`](../../record/questions.d/QUESTION-081.md)
 
+### [THEORY-275](../../record/theory.d/THEORY-275.md) — Proposed
+
+Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive
+
+6 citations in 4 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-1177.md:14`](../../record/literature.d/LIT-1177.md)
+- [`record/notes.d/NOTE-943.md:148`](../../record/notes.d/NOTE-943.md)
+- [`record/notes.d/NOTE-945.md:146`](../../record/notes.d/NOTE-945.md)
+- [`record/notes.d/NOTE-945.md:154`](../../record/notes.d/NOTE-945.md)
+- [`record/notes.d/NOTE-945.md:157`](../../record/notes.d/NOTE-945.md)
+- [`record/theory.d/THEORY-701.md:81`](../../record/theory.d/THEORY-701.md)
+
 ### [THEORY-539](../../record/theory.d/THEORY-539.md) — Proposed
 
 Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation
@@ -2030,6 +2079,18 @@ A group can itself be in an emotional state that is not its members' states in a
 - [`record/questions.d/QUESTION-053.md:41`](../../record/questions.d/QUESTION-053.md)
 - [`record/questions.d/QUESTION-053.md:52`](../../record/questions.d/QUESTION-053.md)
 
+### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
+
+Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many
+
+5 citations in 5 files await a look; 10 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
+- [`record/notes.d/NOTE-945.md:140`](../../record/notes.d/NOTE-945.md)
+- [`record/questions.d/QUESTION-115.md:52`](../../record/questions.d/QUESTION-115.md)
+- [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
+- [`record/theory.d/THEORY-707.md:85`](../../record/theory.d/THEORY-707.md)
+
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
 A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles
@@ -2117,6 +2178,17 @@ The Relativity of Causal Knowledge
 - [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
 - [`record/literature.d/LIT-772.md:100`](../../record/literature.d/LIT-772.md)
 - [`record/notes.d/NOTE-588.md:214`](../../record/notes.d/NOTE-588.md)
+
+### [LIT-1173](../../record/literature.d/LIT-1173.md) — Unavailable
+
+Investigating Causal Relations by Econometric Models and Cross-spectral Methods
+
+4 citations in 4 files await a look.
+
+- [`record/notes.d/NOTE-934.md:105`](../../record/notes.d/NOTE-934.md)
+- [`record/notes.d/NOTE-935.md:134`](../../record/notes.d/NOTE-935.md)
+- [`record/notes.d/NOTE-941.md:136`](../../record/notes.d/NOTE-941.md)
+- [`record/terms.d/TERM-058.md:73`](../../record/terms.d/TERM-058.md)
 
 ### [LIT-148](../../record/literature.d/LIT-148.md) — Unavailable
 
@@ -2415,6 +2487,17 @@ Altruism between non-relatives can be selected when each act costs the giver les
 - [`record/theory.d/THEORY-655.md:103`](../../record/theory.d/THEORY-655.md)
 - [`record/theory.d/THEORY-672.md:90`](../../record/theory.d/THEORY-672.md)
 
+### [THEORY-703](../../record/theory.d/THEORY-703.md) — Proposed
+
+Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included
+
+4 citations in 3 files await a look.
+
+- [`record/claims.d/CLAIM-334.md:26`](../../record/claims.d/CLAIM-334.md)
+- [`record/literature.d/LIT-1170.md:6`](../../record/literature.d/LIT-1170.md)
+- [`record/literature.d/LIT-1170.md:72`](../../record/literature.d/LIT-1170.md)
+- [`record/notes.d/NOTE-935.md:157`](../../record/notes.d/NOTE-935.md)
+
 ### [CLAIM-037](../../record/claims.d/CLAIM-037.md) — Proposed
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
@@ -2644,6 +2727,16 @@ The difficulty of optimum index selection
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
 - [`record/questions.d/QUESTION-114.md:174`](../../record/questions.d/QUESTION-114.md)
+
+### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
+
+Information transfer in continuous processes
+
+3 citations in 2 files await a look.
+
+- [`record/notes.d/NOTE-940.md:19`](../../record/notes.d/NOTE-940.md)
+- [`record/notes.d/NOTE-940.md:162`](../../record/notes.d/NOTE-940.md)
+- [`record/notes.d/NOTE-942.md:128`](../../record/notes.d/NOTE-942.md)
 
 ### [LIT-473](../../record/literature.d/LIT-473.md) — Unavailable
 
@@ -3833,7 +3926,7 @@ Whether an expected tangible reward lowers or raises later intrinsic motivation 
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-2 citations in 2 files await a look; 38 other citations of it are acknowledged.
+2 citations in 2 files await a look; 39 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-781.md:90`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:177`](../../record/notes.d/NOTE-595.md)
@@ -3990,15 +4083,6 @@ Covert influence that exploits a person's decision-making vulnerabilities harms 
 
 - [`record/theory.d/THEORY-225.md:104`](../../record/theory.d/THEORY-225.md)
 - [`record/theory.d/THEORY-627.md:107`](../../record/theory.d/THEORY-627.md)
-
-### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
-
-Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many
-
-2 citations in 2 files await a look; 10 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
-- [`record/questions.d/QUESTION-115.md:52`](../../record/questions.d/QUESTION-115.md)
 
 ### [THEORY-326](../../record/theory.d/THEORY-326.md) — Proposed
 

@@ -6,7 +6,7 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-15 of 332 CLAIM documents. Back to the [full index](../README.md).
+15 of 335 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -10,7 +10,7 @@ history:
   date: '2026-10-17'
   note: >-
     What-this-does-not-say on the redundancy measure points to the now-held
-    critiques of I_min (THEORY-tmpim3f9, THEORY-tmp8ox3d). The account is
+    critiques of I_min (THEORY-708, THEORY-705). The account is
     unchanged; nothing was recomputed.
 tags:
 - complex-systems
@@ -76,7 +76,7 @@ It was not, in either direction.
   no gold standard. The critiques are now held: I_min credits independent
   sources copied into the target with a full bit of redundancy, and so
   overstates synergy by the same amount where sources are copied
-  ([THEORY-tmpim3f9](THEORY-tmpim3f9.md), [THEORY-tmp8ox3d](THEORY-tmp8ox3d.md)). Whether that touches these Gaussian
+  ([THEORY-708](THEORY-708.md), [THEORY-705](THEORY-705.md)). Whether that touches these Gaussian
   systems was not recomputed.
 - **That the conversion is a property of the system rather than of the
   construction.** Equivalence-class children share inputs and outputs. If

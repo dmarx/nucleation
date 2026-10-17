@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**785 document(s) awaiting a decision.**
+**786 document(s) awaiting a decision.**
 
 ## LITs
 
-62 of the 785.
+62 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -78,7 +78,7 @@
 
 ## THEORYs
 
-510 of the 785.
+511 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -208,7 +208,7 @@
 | 2026-10-09 | Proposed | [THEORY-185](../../record/theory.d/THEORY-185.md) | 54 | 0 | When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike |
 | 2026-10-09 | Proposed | [THEORY-194](../../record/theory.d/THEORY-194.md) | 44 | 1 | For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about |
 | 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 42 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
-| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 40 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
+| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 41 | 2 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 35 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
 | 2026-10-09 | Proposed | [THEORY-155](../../record/theory.d/THEORY-155.md) | 33 | 1 | Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior |
 | 2026-10-09 | Proposed | [THEORY-197](../../record/theory.d/THEORY-197.md) | 33 | 2 | Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization |
@@ -281,11 +281,12 @@
 | 2026-10-14 | Proposed | [THEORY-233](../../record/theory.d/THEORY-233.md) | 16 | 0 | CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant |
 | 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 16 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
 | 2026-10-14 | Proposed | [THEORY-239](../../record/theory.d/THEORY-239.md) | 15 | 0 | For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique d-dimensional span minimizing worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, with error (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) |
+| 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 15 | 5 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many |
+| 2026-10-14 | Proposed | [THEORY-275](../../record/theory.d/THEORY-275.md) | 14 | 6 | Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive |
 | 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 14 | 0 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
 | 2026-10-14 | Proposed | [THEORY-278](../../record/theory.d/THEORY-278.md) | 13 | 0 | Under MSE loss a trained classifier stays near the least-squares classifier for its own features, and on that central path, for unconstrained features continually renormalized to identity within-class covariance, gradient flow drives the class-separation singular values to infinity at equal rates, which is neural collapse |
 | 2026-10-14 | Proposed | [THEORY-243](../../record/theory.d/THEORY-243.md) | 12 | 0 | Interchange interventions on a fixed set of variables can be satisfied equally by different alignments related by a change of basis, so which internal direction is the mediating variable is fixed only relative to a chosen decomposition into units |
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 12 | 0 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
-| 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 12 | 2 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many |
 | 2026-10-14 | Proposed | [THEORY-265](../../record/theory.d/THEORY-265.md) | 12 | 0 | In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not |
 | 2026-10-14 | Proposed | [THEORY-323](../../record/theory.d/THEORY-323.md) | 12 | 0 | For a non-normal linear operator the eigenvalues govern only the long-run limit: a system whose every mode decays can amplify perturbations over finite times, and hold more forced variance, by factors its spectrum does not predict |
 | 2026-10-14 | Proposed | [THEORY-237](../../record/theory.d/THEORY-237.md) | 11 | 0 | The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free |
@@ -310,7 +311,6 @@
 | 2026-10-14 | Proposed | [THEORY-236](../../record/theory.d/THEORY-236.md) | 8 | 0 | A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples |
 | 2026-10-14 | Proposed | [THEORY-247](../../record/theory.d/THEORY-247.md) | 8 | 0 | For finite labelled Markov chains, the discounted bisimulation metric is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings |
 | 2026-10-14 | Proposed | [THEORY-259](../../record/theory.d/THEORY-259.md) | 8 | 0 | Ideal MDL and Bayesian MAP selection under the universal prior agree only to within the complexity of the hypothesis's likelihood, and only among hypotheses for which the data are individually random |
-| 2026-10-14 | Proposed | [THEORY-275](../../record/theory.d/THEORY-275.md) | 8 | 0 | Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive |
 | 2026-10-14 | Proposed | [THEORY-305](../../record/theory.d/THEORY-305.md) | 8 | 0 | SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors |
 | 2026-10-14 | Proposed | [THEORY-324](../../record/theory.d/THEORY-324.md) | 8 | 0 | A system adapts by trial and error to an environment unknown to it only if a second feedback, through its essential variables, changes the parameters of its primary feedback when those variables leave their limits; with that feedback every equilibrium the whole can reach is an adapted one |
 | 2026-10-14 | Proposed | [THEORY-251](../../record/theory.d/THEORY-251.md) | 7 | 0 | In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout |
@@ -408,6 +408,7 @@
 | 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 1 | 1 | Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode |
 | 2026-10-15 | Proposed | [THEORY-336](../../record/theory.d/THEORY-336.md) | 0 | 0 | An ideal observer is optimal relative to the information it is given, so a constrained ideal is the optimal decoder of a degraded input, not a restricted decoder of the full one; comparing real observers with ideals taken at successive stages of the visual system places losses by stage, and in early-vision tasks human performance is reported to parallel the retinal-stage ideal across conditions while falling well below it |
 | 2026-10-15 | Proposed | [THEORY-351](../../record/theory.d/THEORY-351.md) | 0 | 0 | In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators, prepared 25 to 30 minutes ahead in a low-workload phase from a card selected by the displayed gross weight, turns recall and scale reading at the moment of use into a judgement of spatial proximity, so the cockpit system remembers the speeds without either pilot's memory being improved; this is argued by task analysis of mandated procedure, not measured |
+| 2026-10-16 | Proposed | [THEORY-497](../../record/theory.d/THEORY-497.md) | 20 | 15 | A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function |
 | 2026-10-16 | Proposed | [THEORY-468](../../record/theory.d/THEORY-468.md) | 14 | 9 | Morality is the set of solutions to recurrent problems of cooperation, so each of the seven cooperation problems game theory identifies yields a moral domain valued in every culture, and behaviour unrelated to cooperation is morally neutral |
 | 2026-10-16 | Proposed | [THEORY-490](../../record/theory.d/THEORY-490.md) | 12 | 0 | What a chat agent's 'I' refers to is fixed by the context of use, not by the system: the agent role-plays characters that carry the self-conception the corpus and the conversation give them, and its uses of 'I' can pick out the model, present in many simultaneous instances, or the single conversation, none of them the self by nature |
 | 2026-10-16 | Proposed | [THEORY-447](../../record/theory.d/THEORY-447.md) | 11 | 0 | Granted that a person survives a brain transplant and that half a brain would do, each product of a division stands in all that matters in ordinary survival, so what matters is not identity, which is one-one and all-or-nothing, but psychological relations that can branch and come in degrees |
@@ -437,7 +438,6 @@
 | 2026-10-16 | Proposed | [THEORY-464](../../record/theory.d/THEORY-464.md) | 5 | 0 | In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them |
 | 2026-10-16 | Proposed | [THEORY-487](../../record/theory.d/THEORY-487.md) | 5 | 0 | Social ontology asks two separable questions about a social category: what grounds a fact of that kind, the conditions something must meet, and what anchors those conditions, the facts that put them in place; theories of the field, such as convention, collective acceptance and practice, answer the second, and a theory can be individualist about one and not the other |
 | 2026-10-16 | Proposed | [THEORY-495](../../record/theory.d/THEORY-495.md) | 5 | 0 | The human sense of obligation is internalized pressure from a joint agent 'we' to do what 'we' expect of me; it appears around age three inside joint commitments, where children, unlike chimpanzees, protest, repair, take leave and share equally with a committed partner as they do not with others |
-| 2026-10-16 | Proposed | [THEORY-497](../../record/theory.d/THEORY-497.md) | 5 | 0 | A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function |
 | 2026-10-16 | Proposed | [THEORY-512](../../record/theory.d/THEORY-512.md) | 5 | 0 | The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect |
 | 2026-10-16 | Proposed | [THEORY-536](../../record/theory.d/THEORY-536.md) | 5 | 0 | A group agent's attitudes are real and non-redundant: each group belief needs members' role-based acceptance, by assent in the group's name or by acting on it in an executive role, but that acceptance does not explain or reduce the group belief, because which members' acceptance counts, and that it plays the role of belief, is fixed only from the group-level view |
 | 2026-10-16 | Proposed | [THEORY-549](../../record/theory.d/THEORY-549.md) | 5 | 0 | A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can |
@@ -466,6 +466,7 @@
 | 2026-10-16 | Proposed | [THEORY-681](../../record/theory.d/THEORY-681.md) | 4 | 0 | If every real idea derives from an impression, there is no idea of a simple self persisting through life; the mind is a bundle of perceptions, and the identity ascribed to it is produced by the imagination passing easily along resemblance and causation, as with a rebuilt ship or a growing oak, though Hume's Appendix concedes that this does not explain what unites the perceptions |
 | 2026-10-16 | Proposed | [THEORY-684](../../record/theory.d/THEORY-684.md) | 4 | 0 | Experiencing oneself as a self that was there in the further past, seeking pattern in one's life, fitting it to a story and falsifying it in the telling are separable, and fitting it to a story suffices for narrativity; on testimony that some normal people are Episodic and live good lives, neither the claim that people experience their lives as narratives nor the claim that a good life or full personhood needs it holds in general |
 | 2026-10-16 | Proposed | [THEORY-687](../../record/theory.d/THEORY-687.md) | 4 | 1 | For empirically equivalent dual theories read naively, adding the common core as a candidate world does not break the underdetermination, and neither do super-empirical virtues or an overarching theory: each route to a single actual world needs a further metaphysical principle, such as the identity of indiscernibles |
+| 2026-10-16 | Proposed | [THEORY-703](../../record/theory.d/THEORY-703.md) | 4 | 4 | Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included |
 | 2026-10-16 | Proposed | [THEORY-391](../../record/theory.d/THEORY-391.md) | 3 | 0 | Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that face counts of randomly projected polytopes fix for Gaussian matrices; eight non-Gaussian ensembles were observed to approach the same curve, with gaps shrinking as N^(−1/2), while at finite N the location depends on the ensemble |
 | 2026-10-16 | Proposed | [THEORY-411](../../record/theory.d/THEORY-411.md) | 3 | 0 | In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation can still guide action without agreement on weights: where every weighting in an agreed range, or every view by its own argument, ranks one option above another, that ranking holds, so the approach is deliberately incomplete and yields a partial ordering |
 | 2026-10-16 | Proposed | [THEORY-416](../../record/theory.d/THEORY-416.md) | 3 | 0 | Quantum thermodynamics has at least four inequivalent notions of work, the ensemble average, the two-point-measurement random variable, the ε-deterministic single-shot work content and the resource-theory work, which answer different operational questions; only the two single-shot optima coincide, by identification of formulas and for energy-diagonal states |
@@ -595,7 +596,7 @@
 
 ## ADRs
 
-1 of the 785.
+1 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -603,7 +604,7 @@
 
 ## QUESTIONs
 
-9 of the 785.
+9 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -619,7 +620,7 @@
 
 ## CLAIMs
 
-198 of the 785.
+198 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -824,7 +825,7 @@
 
 ## CASEs
 
-1 of the 785.
+1 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -832,7 +833,7 @@
 
 ## TERMs
 
-2 of the 785.
+2 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -841,7 +842,7 @@
 
 ## ARGs
 
-2 of the 785.
+2 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

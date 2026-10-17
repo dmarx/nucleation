@@ -24,7 +24,7 @@ history:
 - version: 2
   date: '2026-10-17'
   note: >-
-    Annotated with the now-held Kraskov et al. (LIT-tmp76vux) at the 20-dimension comparison.
+    Annotated with the now-held Kraskov et al. (LIT-1163) at the 20-dimension comparison.
 date: '2026-10-14'
 summary: >-
   Mutual information is the KL divergence of the joint from the product of
@@ -164,8 +164,8 @@ and its value at the optimum is the divergence.
     and Kraskov's k-NN estimator are "virtually indistinguishable" from the
     truth in 2 dimensions. In 20 dimensions MINE is much closer than
     Kraskov's, and, by the figure, still below the true MI at large |ρ|.
-    (Annotated 2026-10-17: Kraskov et al. is now held, [LIT-tmp76vux](../literature.d/LIT-tmp76vux.md), read in
-    [NOTE-tmpicuma](NOTE-tmpicuma.md). Its own Gaussian tests, Fig. 15 at N = 50 000, report
+    (Annotated 2026-10-17: Kraskov et al. is now held, [LIT-1163](../literature.d/LIT-1163.md), read in
+    [NOTE-938](NOTE-938.md). Its own Gaussian tests, Fig. 15 at N = 50 000, report
     agreement "for all dimensions tested here"; the reading did not
     recover the largest d tested, so whether d = 20 lies inside that range
     is open. MINE's comparison may also differ in N and k, which this note

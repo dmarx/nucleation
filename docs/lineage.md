@@ -2,7 +2,7 @@
 
 # Lines of work
 
-60 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+62 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -181,6 +181,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-588](../record/literature.d/LIT-588.md) — A theoretical model of phase transitions in human hand movements *(Unavailable)*
   - [LIT-601](../record/literature.d/LIT-601.md) — The Haken–Kelso–Bunz (HKB) model: from matter to movement to mind *(Active)*
 
+## causality
+
+### From Investigating Causal Relations by Econometric Models and Cross-spectral Methods
+
+- [LIT-1173](../record/literature.d/LIT-1173.md) — Investigating Causal Relations by Econometric Models and Cross-spectral Methods *(Unavailable)*
+  - [LIT-1164](../record/literature.d/LIT-1164.md) — Causal Reasoning in Graphical Time Series Models *(Active)*
+  - [LIT-1169](../record/literature.d/LIT-1169.md) — Measurement of Linear Dependence and Feedback between Multiple Time Series *(Unavailable)*
+    - [LIT-1171](../record/literature.d/LIT-1171.md) — Granger causality and transfer entropy are equivalent for Gaussian variables *(Active)* — also carries further LIT-1173
+      - [LIT-048](../record/literature.d/LIT-048.md) — Transfer Entropy as a Log-likelihood Ratio *(Active)*
+  - [LIT-1170](../record/literature.d/LIT-1170.md) — Measuring Autonomy and Emergence via Granger Causality *(Active)*
+
 ## cognition
 
 ### From The Extended Mind
@@ -241,6 +252,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-640](../record/literature.d/LIT-640.md) — Perceptual consciousness overflows cognitive access *(Active)*
 
 ## complex-systems
+
+### From Nonnegative Decomposition of Multivariate Information
+
+- [LIT-1172](../record/literature.d/LIT-1172.md) — Nonnegative Decomposition of Multivariate Information *(Active)*
+  - [LIT-1168](../record/literature.d/LIT-1168.md) — A Bivariate Measure of Redundant Information *(Active)*
+  - [LIT-1176](../record/literature.d/LIT-1176.md) — Generalized Measures of Information Transfer *(Active)* — also carries further LIT-1177
+- [LIT-1177](../record/literature.d/LIT-1177.md) — Measuring Information Transfer *(Active)*
+  - [LIT-1165](../record/literature.d/LIT-1165.md) — Information Flows? A Critique of Transfer Entropies *(Active)*
+  - [LIT-1167](../record/literature.d/LIT-1167.md) — Information transfer in continuous processes *(Unavailable)*
+  - [LIT-1175](../record/literature.d/LIT-1175.md) — Local information transfer as a spatiotemporal filter for complex systems *(Active)*
+- alongside: [LIT-1162](../record/literature.d/LIT-1162.md) — Quantifying unique information *(Active)*
 
 ### From An Organizational Account of Biological Functions
 
@@ -465,6 +487,17 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-613](../record/literature.d/LIT-613.md) — Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra *(Active)* — also carries further LIT-617
 
 ## information-theory
+
+### From Nonnegative Decomposition of Multivariate Information
+
+- [LIT-1172](../record/literature.d/LIT-1172.md) — Nonnegative Decomposition of Multivariate Information *(Active)*
+  - [LIT-1168](../record/literature.d/LIT-1168.md) — A Bivariate Measure of Redundant Information *(Active)*
+  - [LIT-1176](../record/literature.d/LIT-1176.md) — Generalized Measures of Information Transfer *(Active)* — also carries further LIT-1177
+- [LIT-1177](../record/literature.d/LIT-1177.md) — Measuring Information Transfer *(Active)*
+  - [LIT-1165](../record/literature.d/LIT-1165.md) — Information Flows? A Critique of Transfer Entropies *(Active)*
+  - [LIT-1167](../record/literature.d/LIT-1167.md) — Information transfer in continuous processes *(Unavailable)*
+  - [LIT-1175](../record/literature.d/LIT-1175.md) — Local information transfer as a spatiotemporal filter for complex systems *(Active)*
+- alongside: [LIT-1162](../record/literature.d/LIT-1162.md) — Quantifying unique information *(Active)*
 
 ### From The Role of the Information Bottleneck in Representation Learning
 

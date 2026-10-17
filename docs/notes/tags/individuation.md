@@ -4,7 +4,7 @@
 
 **individuation**.
 
-60 of 933 NOTE documents. Back to the [full index](../README.md).
+60 of 946 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
