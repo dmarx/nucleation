@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-18 (NOTE-tmptyehi), from the author's accepted manuscript on OSF, with the preregistration, the data, the JASP output, the questionnaire and the supplement; worth reading as the test of the rubber-hand illusion's standard controls for demand characteristics, by Orne's quasi-control method: 20 students who read about the procedure and watched a 62-second video, but were never stroked, expected the three "illusion" statements far more than the six "control" statements (1.7 against 0.0 on a −3 to +3 scale, dz 1.40) and expected the illusion more after synchronous than asynchronous stroking (1.7 against 0.4, dz 1.05). So the difference between those statements, and between those conditions, does not by itself rule out expectancy. Read it knowing that it measures expectancies, not reports after induction, and shows that the controls are not matched, not that the illusion is a suggestion effect, which the author says himself while the abstract and discussion lean further; that the expectancy pattern is not compared numerically with any induction data; that the illusion-minus-control difference is also larger for synchronous than asynchronous expectancies in the posted data (t(19) = 3.01), which the paper does not test; that 11 of the 20 had heard of the illusion; and that the preregistered prediction of a negative control-statement interval failed. Filed as THEORY-tmpa88hs.
+  read in full 2026-10-18 ([NOTE-tmptyehi](../notes.d/NOTE-tmptyehi.md)), from the author's accepted manuscript on OSF, with the preregistration, the data, the JASP output, the questionnaire and the supplement; worth reading as the test of the rubber-hand illusion's standard controls for demand characteristics, by Orne's quasi-control method: 20 students who read about the procedure and watched a 62-second video, but were never stroked, expected the three "illusion" statements far more than the six "control" statements (1.7 against 0.0 on a −3 to +3 scale, dz 1.40) and expected the illusion more after synchronous than asynchronous stroking (1.7 against 0.4, dz 1.05). So the difference between those statements, and between those conditions, does not by itself rule out expectancy. Read it knowing that it measures expectancies, not reports after induction, and shows that the controls are not matched, not that the illusion is a suggestion effect, which the author says himself while the abstract and discussion lean further; that the expectancy pattern is not compared numerically with any induction data; that the illusion-minus-control difference is also larger for synchronous than asynchronous expectancies in the posted data (t(19) = 3.01), which the paper does not test; that 11 of the 20 had heard of the illusion; and that the preregistered prediction of a negative control-statement interval failed. Filed as [THEORY-tmpa88hs](../theory.d/THEORY-tmpa88hs.md).
 title: 'Demand characteristics confound the rubber hand illusion'
 version: 1
 history:
@@ -50,7 +50,7 @@ Lush, P. (2020). *Collabra: Psychology* 6(1): 22. doi:10.1525/collabra.325. Prer
 
 ## Key takeaways
 
-*From the reading, NOTE-tmptyehi.*
+*From the reading, [NOTE-tmptyehi](../notes.d/NOTE-tmptyehi.md).*
 
 - **The assumption tested.** Rubber-hand studies treat higher agreement
   with "illusion" than "control" statements, or with synchronous than
@@ -79,14 +79,14 @@ Lush, P. (2020). *Collabra: Psychology* 6(1): 22. doi:10.1525/collabra.325. Prer
 ## Standing in the record
 
 Filed on 2026-10-18 with the two classics it criticises, Botvinick and
-Cohen (LIT-tmpe5zsa) and Tsakiris and Haggard (LIT-tmpz3i32), both
+Cohen ([LIT-tmpe5zsa](LIT-tmpe5zsa.md)) and Tsakiris and Haggard ([LIT-tmpz3i32](LIT-tmpz3i32.md)), both
 Unavailable. It is the record's check on the whole batch: every
 body-ownership result in it rests on questionnaire contrasts or on
 measures validated against them. Among them are the full-body illusion
-(LIT-tmpeggnf), body swapping (LIT-tmp4qdyy) and the premotor correlate
-(LIT-tmp9zqs4). It bears on NOTE-372's C6, that body ownership "can be
+([LIT-tmpeggnf](LIT-tmpeggnf.md)), body swapping ([LIT-tmp4qdyy](LIT-tmp4qdyy.md)) and the premotor correlate
+([LIT-tmp9zqs4](LIT-tmp9zqs4.md)). It bears on [NOTE-372](../notes.d/NOTE-372.md)'s C6, that body ownership "can be
 manipulated by multisensory conflict". The reading finds that the
 paradigm's standard evidence for this does not separate a multisensory
 effect from an expectancy effect. It does not find that there is no
-multisensory effect. Filed as THEORY-tmpa88hs. It carries no
+multisensory effect. Filed as [THEORY-tmpa88hs](../theory.d/THEORY-tmpa88hs.md). It carries no
 instruction for machine-learning practice.

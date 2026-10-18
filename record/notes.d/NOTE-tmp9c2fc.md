@@ -38,6 +38,9 @@ summary: >-
   self-identification score was near neutral. Ehrsson and Petkova's
   e-letter reading, self-recognition in a CCTV display, is not excluded.
 ---
+<!-- inactive-ok-file: LIT-467 — Unavailable, no lawful full text; Being No One, named as the theory the paper cites, not leaned on -->
+<!-- inactive-ok-file: THEORY-064 — Proposed; the self-model account this experiment bears on, named in prose, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1186 — Unavailable; named to say the full-body illusion is no evidence for it, not leaned on -->
 
 # NOTE-tmp9c2fc: Lenggenhager et al. — Video ergo sum: manipulating bodily self-consciousness
 

@@ -44,6 +44,8 @@ implementations: []
 summary: >-
   Apps & Tsakiris (2014), Neuroscience & Biobehavioral Reviews 41:85–97. A review that recasts self-recognition in the free-energy framework. One's body, face and voice are represented as probabilistically the most likely to be "me", a high-level multimodal empirical prior learned from congruence across the senses; that a "self" exists is "the most parsimonious and accurate explanation for sensory inputs". The rubber-hand, enfacement and rubber-voice illusions are read as synchronous stimulation creating unimodal surprise that multimodal areas explain away by raising the probability that the other object is "me", and lowering it for one's own body. Context sets the prior. No region is self-specific. The authors concede there is little direct evidence and that the account is hard to falsify.
 ---
+<!-- inactive-ok-file: LIT-tmp9zqs4 — Unavailable; named as a study this paper cites, from its abstract only -->
+<!-- inactive-ok-file: THEORY-tmpugoyc — Proposed; the account this reading files -->
 
 # LIT-tmpetw17: The free-energy self: a predictive coding account of self-recognition
 

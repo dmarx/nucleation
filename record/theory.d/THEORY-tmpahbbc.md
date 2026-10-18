@@ -19,6 +19,7 @@ summary: >-
   in the second study. Whether participants felt the body was theirs or
   recognised themselves on a display is not settled by these data.
 ---
+<!-- inactive-ok-file: THEORY-tmp6ib7r THEORY-064 — Proposed; the accounts this finding bears on, named in Connections, nothing here rests on them -->
 
 # THEORY-tmpahbbc: Seeing one's own back stroked on live video 2 m ahead, in time with felt strokes, raises agreement that the seen body felt like one's own and makes people walk back to a point some 17–25 cm toward it; the questionnaire separates a body from a box but the walking error does so only weakly, the error is not felt as drift, and nothing like leaving the body occurs
 

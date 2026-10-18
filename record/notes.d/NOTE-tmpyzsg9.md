@@ -34,6 +34,9 @@ summary: >-
   of self-consciousness" is a proposal. The sufficiency inference does not
   follow from illusions induced in people who are already agents.
 ---
+<!-- inactive-ok-file: LIT-467 — Unavailable, no lawful full text; Being No One, named as the theory the paper assumes, not leaned on -->
+<!-- inactive-ok-file: THEORY-064 THEORY-023 — Proposed; the accounts this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1186 — Unavailable; named to say the paper gives it no support, not leaned on -->
 
 # NOTE-tmpyzsg9: Blanke and Metzinger — Full-body illusions and minimal phenomenal selfhood
 

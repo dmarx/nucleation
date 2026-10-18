@@ -34,6 +34,8 @@ summary: >-
   until a fitted model or a connectivity result of the kind in
   promote_when exists.
 ---
+<!-- inactive-ok-file: CLAIM-342 — Proposed; named as the claim this account bears on, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-tmp9zqs4 — Unavailable; named for the phenomena this account redescribes, not leaned on -->
 
 # THEORY-tmpugoyc: Recognising one's body, face or voice as one's own is a probabilistic inference in which multimodal association cortex explains away unimodal prediction errors with a high-level prior that this object is "me", the most parsimonious cause of correlated signals across the senses; the rubber-hand, enfacement and rubber-voice illusions are that prior shifting toward another object under synchronous stimulation, by perception and learning without action, and context gates the shift
 

@@ -34,6 +34,8 @@ summary: >-
   after-effects. The evidence is graded mainly by questionnaire.
 ---
 
+<!-- inactive-ok-file: THEORY-tmp5h02h — Proposed; named as this batch's account of body ownership drawn from the review, not leaned on -->
+
 # NOTE-tmpy8fky: Kilteni, Maselli, Kording and Slater — Over my fake body
 
 ## Contribution

@@ -37,6 +37,7 @@ implementations: []
 summary: >-
   Ehrsson, Spence & Passingham (2004), from the PubMed abstract only. The rubber-hand illusion was used to manipulate the feeling of ownership of a rubber hand in front of healthy participants while brain activity was measured by fMRI. Activity in premotor cortex "reflected the feeling of ownership of the hand", and the authors conclude that multisensory integration in premotor cortex "provides a mechanism for bodily self-attribution". The abstract gives no sample size, no control conditions, no measure of ownership and no statistics, and calls ownership of one's limbs "a fundamental aspect of self-consciousness".
 ---
+<!-- inactive-ok-file: ADR-041 — Proposed; the rule this filing follows, cited as the reason for the status -->
 
 # LIT-tmp9zqs4: That's my hand! Activity in premotor cortex reflects feeling of ownership of a limb
 

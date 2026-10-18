@@ -36,6 +36,8 @@ summary: >-
   Kilteni, Maselli, Körding & Slater (2015), a review. Body ownership illusions need seen and felt (or seen and moved) events to agree in time, within about 300 ms for touch and below about 500 ms for movement, and at homologous places on the body; a realistic fake body seen in the real body's place can be owned with no such agreement. Spatial offsets are tolerated near the midline and attenuate further out; non-body shapes, implausible postures and a third-person view inhibit the illusion, while size, length, texture and number of limbs are partly tolerated. The authors propose that ownership is Bayesian causal inference: a posterior that one hand (C = 1) caused the visual, proprioceptive, tactile and semantic evidence, crossing a threshold. The model is qualitative and unfitted, and the evidence is graded mainly by questionnaire.
 ---
 
+<!-- inactive-ok-file: THEORY-tmp5h02h — Proposed; named as this batch's account of body ownership drawn from the review, not leaned on -->
+
 # LIT-tmpt4bij: Over my fake body: body ownership illusions for studying the multisensory basis of own-body perception
 
 Kilteni, K., Maselli, A., Kording, K. P. & Slater, M. (2015). *Frontiers in Human Neuroscience* 9:141. doi:10.3389/fnhum.2015.00141.

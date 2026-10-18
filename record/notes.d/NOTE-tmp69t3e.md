@@ -34,6 +34,9 @@ summary: >-
   offers redescription and three anatomical predictions, not a model or
   data, and its authors say the account is hard to falsify.
 ---
+<!-- inactive-ok-file: CLAIM-337 CLAIM-338 CLAIM-339 CLAIM-341 CLAIM-342 — Proposed; the record's own argument this reading bears on, named in prose, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmp9zqs4 — Unavailable, no lawful full text; named as a study this paper cites, compared from its abstract only -->
+<!-- inactive-ok-file: THEORY-tmpugoyc — Proposed; the account this reading files, not leaned on -->
 
 # NOTE-tmp69t3e: Apps and Tsakiris — The free-energy self: a predictive coding account of self-recognition
 

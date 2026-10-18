@@ -37,6 +37,7 @@ summary: >-
   one experiment it rests on for global ownership is weaker than the
   paper says.
 ---
+<!-- inactive-ok-file: THEORY-064 — Proposed; the account this one extends, named as its parent, and the dependence is stated in Connections -->
 
 # THEORY-tmp6ib7r: The minimal phenomenal self is global self-identification with the body, self-location and a weak, geometrical first-person perspective; body-part ownership leaves it untouched, autoscopic phenomena and full-body illusions displace its parts, and because those illusions are passive, agency only causally enables the minimal self and is not part of it
 

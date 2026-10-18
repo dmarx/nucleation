@@ -1,73 +1,83 @@
 ---
-# Don't copy this file by hand — run `luria new theory`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A theory is a claim about WHY something happens, or about what is true of
-# these systems. State it as a finding, not as an instruction: "Batch
-# normalization helps by smoothing the optimization landscape" rather than
-# "Use batch normalization". If what you are about to write tells the reader
-# what to do in machine learning, it is a practice, and it belongs in the
-# Anthology of the SOTA (ANTH-ADR-031).
-
-# Active | Proposed | Deferred | Superseded | Rejected, optionally " — note".
-# What each one means here is in luria.yaml, and it is NOT what the same word
-# means on a practice: this status says whether the record believes the
-# ACCOUNT, and an explanation can be `Rejected` while the thing it explained
-# goes on working exactly as well as it ever did.
-status: Proposed
-
-# REQUIRED while the status is Proposed or Deferred; delete it when the
-# explanation goes Active. What would settle it — a KIND of result, not a
-# quantity of them (ANTH-ADR-014). An explanation that cannot say what would show
-# it wrong is a story, and this field is where that shows up.
-promote_when: >-
-  The kind of result that would settle this, stated so that the wrong kind
-  of result cannot satisfy it.
-
-# The claim. Repeat it as the body's `# THEORY-tmpa88hs:` heading; the lint checks
-# that the two agree.
-title: 'placeholder'
-
+status: Active
+title: "People told about the rubber-hand procedure, but not given it, expect its illusion statements far more than its control statements and expect the illusion far more after synchronous than asynchronous stroking, so the two contrasts the paradigm uses as controls for suggestion are confounded by expectancy; this shows the controls unmatched, not the illusion a suggestion effect"
 version: 1
-
-# One or more topics from luria.yaml, primary first — the same table the
-# reading list uses. Take the topic of what the account is about.
 tags:
-- complex-systems
-
+- psychometrics
+- self
+- consciousness
 date: '2026-10-18'
-
-# There is deliberately no `published:` line. It is DERIVED from the first
-# entry in `source:` below, and writing it down is a lint violation, because
-# the value has one home and this is not it.
-
-# REQUIRED, and a LIST. The papers this account rests on, primary first. An
-# explanation with no paper behind it is a hunch, and the lint will say so.
 source:
-- LIT-000
-
-# What the index table shows. The title already carries the claim, so spend
-# this on provenance and on the sharp edge: who said it, and what it does not
-# say. Prose, so bare codes in it get linked by `luria link --fix`.
+- LIT-tmpozu5y
+summary: >-
+  Lush (2020), [LIT-tmpozu5y](../literature.d/LIT-tmpozu5y.md), read in full in [NOTE-tmptyehi](../notes.d/NOTE-tmptyehi.md) from the accepted
+  manuscript, with the preregistration and posted data. n = 20 (9 naïve),
+  preregistered; every mean, SD and t reproduced. The data also show the
+  statement-by-synchrony interaction in expectancy, which the paper does not
+  test. What it does not say: that the rubber-hand illusion is a suggestion
+  effect, or that visuotactile synchrony does nothing. The expectancies were
+  never set beside reports from the same people.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new document replaces -->
-
-# THEORY-tmpa88hs: placeholder
+# THEORY-tmpa88hs: People told about the rubber-hand procedure, but not given it, expect its illusion statements far more than its control statements and expect the illusion far more after synchronous than asynchronous stroking, so the two contrasts the paradigm uses as controls for suggestion are confounded by expectancy; this shows the controls unmatched, not the illusion a suggestion effect
 
 ## Source
 
-Author et al. (YEAR), LIT-000.
+Lush (2020), "Demand characteristics confound the rubber hand illusion",
+*Collabra: Psychology* 6(1): 22, [LIT-tmpozu5y](../literature.d/LIT-tmpozu5y.md), read in full in
+[NOTE-tmptyehi](../notes.d/NOTE-tmptyehi.md). The text was the accepted manuscript; the AsPredicted
+preregistration, the questionnaire, the data and the JASP output from OSF
+were also read. The typeset version was not compared.
 
 ## What was actually shown
 
-The experiment or argument, and its conditions. An explanation is only as
-good as what would have falsified it, so say what the paper did that could
-have come out the other way.
+**Design.** This is Orne's quasi-control. Students read a description of
+the procedure and watched a 62-second video of it, and were never stroked.
+They then rated, from −3 to +3, how certain they were to feel the effect
+of each of Botvinick and Cohen's nine statements under synchronous and
+under asynchronous stroking. Preregistered, with a Bayesian stopping rule
+met at the first look, n = 20 after exclusions.
+
+**Results** (reproduced from the posted data). Synchronous illusion
+expectancy 1.68, synchronous control −0.03: t(19) = 6.24, dz 1.40.
+Synchronous illusion 1.68, asynchronous 0.43: t(19) = 4.68, dz 1.05. In
+the 9 who had never heard of the illusion: dz 2.30 and 1.68. The posted
+data also give the interaction the paper does not test. The
+illusion-minus-control gap is 0.58 larger under synchronous stroking,
+t(19) = 3.01. So a factorial design that reads that interaction as the
+illusion is confounded too.
+
+**What could have come out otherwise.** Expectancies could have been flat
+across statements, as the controls require, or flat across conditions.
+They were neither. The preregistered prediction that control expectancy
+would be reliably negative did fail; its interval was [−0.64, 0.57].
 
 ## What this does not say
 
-The reading the result invites and does not support. This section is the one
-that earns the document — a finding filed without it becomes the stronger
-claim nobody checked, which is how "sharpness correlates with test error"
-gets cited as "flatten the minimum and it generalizes".
+- **That the illusion is a suggestion effect.** The author says the
+  results "do not provide evidence that the RHI is a suggestion effect".
+  The abstract's "may be, partially or entirely, a suggestion effect"
+  rests on a separate hypnotisability study, not read.
+- **That visuotactile synchrony has no effect of its own.** An expectancy
+  confound leaves room for both causes. Separating them needs controls
+  matched on expectancy (and, the author adds, on suggestion difficulty).
+- **That expectancies of this size produce reports of the published
+  size.** The paper sets no induction data beside these ratings. The
+  quasi-control assumes that expectations formed from a text and a video,
+  with both conditions on one page, match those of a participant in
+  separate blocks.
+- **That proprioceptive drift or skin conductance are confounded.** That
+  is argued, not tested. The one expectancy datum on drift, a statement
+  about felt drift, is higher for synchronous stroking. That is the
+  record's computation.
+
+## Connections
+
+- It qualifies the evidence for the multisensory manipulation in [NOTE-372](../notes.d/NOTE-372.md)'s
+  C6 (Metzinger, [LIT-450](../literature.d/LIT-450.md)). The rubber-hand and full-body results
+  ([LIT-tmpe5zsa](../literature.d/LIT-tmpe5zsa.md), [LIT-tmpz3i32](../literature.d/LIT-tmpz3i32.md), [LIT-tmpeggnf](../literature.d/LIT-tmpeggnf.md), [LIT-tmp4qdyy](../literature.d/LIT-tmp4qdyy.md)) use the
+  contrasts it shows confounded.
+- The accounts that take synchrony as the evidence a body inference
+  integrates, [THEORY-tmp5h02h](THEORY-tmp5h02h.md) and [THEORY-tmpugoyc](THEORY-tmpugoyc.md), are not contradicted. But
+  their empirical base cannot yet tell synchrony as evidence from synchrony
+  as a cue to expectation.

@@ -19,6 +19,8 @@ summary: >-
   third-person one, and self-location was not measured.
 ---
 
+<!-- inactive-ok-file: THEORY-tmp5h02h — Proposed; named as this batch's account of body ownership drawn from the review, not leaned on -->
+
 # THEORY-tmpvh682: Seeing a human-shaped body from the position of one's own eyes while it is touched or moves in time with one's own body makes people report that body as their own and respond to threats against it with more skin conductance than after out-of-time stimulation, even when the body is another person's and their own body is in view; that a first-person view is necessary, and that the illusion moves self-location, were not tested
 
 ## Source
