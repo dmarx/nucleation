@@ -10,8 +10,8 @@ line: distributed-agency
 summary: >-
   A6 §2 of the exchange of 2026-10-17, which the owner took up with
   "flesh this out further". The record identifies a unit by a gap in its
-  interaction structure (CLAIM-157, CLAIM-164) and finds regime changes
-  by stability (CLAIM-330). Both are spectral facts about a
+  interaction structure ([CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-164](../claims.d/CLAIM-164.md)) and finds regime changes
+  by stability ([CLAIM-330](../claims.d/CLAIM-330.md)). Both are spectral facts about a
   parameter-dependent system, but they are different facts, and nothing
   in the record pairs them. A6: "Their divergence may be just as
   revealing as their coincidence." An answer is a construction or a
@@ -35,24 +35,24 @@ coalition might undergo a major change in behavior while preserving its
 internal organization. Conversely, a structural boundary could change
 while observed collective behavior remains almost identical."
 
-The two are different events in one spectrum. CLAIM-157's boundary is a
+The two are different events in one spectrum. [CLAIM-157](../claims.d/CLAIM-157.md)'s boundary is a
 gap in the interaction matrix, strong couplings inside the block and weak
 ones across its edge, clearing the Occam factor (δ/ε > τ), and the form
-"lasts as long as that block persists". CLAIM-164 says what the gap makes
+"lasts as long as that block persists". [CLAIM-164](../claims.d/CLAIM-164.md) says what the gap makes
 definite: the block's subspace, and a single direction only when its own
 gap is wide. A bifurcation is an eigenvalue crossing the stability
-boundary, as in CLAIM-330, where the leading eigenvalue of the
+boundary, as in [CLAIM-330](../claims.d/CLAIM-330.md), where the leading eigenvalue of the
 meaning–authority map crosses +1 at βγ = (1 − α)(1 − δ). A gap can open
 far from any crossing, and a crossing can happen inside a block whose gap
 does not move.
 
-The record already holds one dissociation. THEORY-265, as CLAIM-157 reads
+The record already holds one dissociation. [THEORY-265](../theory.d/THEORY-265.md), as [CLAIM-157](../claims.d/CLAIM-157.md) reads
 it: in a modular coordination game "the block verdict is the same before
 and after entrainment. What changes is timing". That is a change of
 dynamical regime with the boundary unchanged. The other direction, a
 boundary that forms or dissolves with behaviour unchanged, has no case.
 
-QUESTION-079 is the neighbouring question for an agent's regimes: discrete
+[QUESTION-079](QUESTION-079.md) is the neighbouring question for an agent's regimes: discrete
 switches between metastable states or continuous reorganization, and what
 then counts as a transition. If reorganization is continuous, a boundary
 may change with no bifurcation at all.

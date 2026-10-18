@@ -14,9 +14,9 @@ summary: >-
   specifically during training". A30: the framework supports "a
   meaningful, qualified notion of training-time affective organization"
   and not "the conclusion that a neural network feels distress". U31
-  added the bearer half, and CLAIM-tmpw4w7a answers it for conventional
+  added the bearer half, and [CLAIM-tmpw4w7a](../claims.d/CLAIM-tmpw4w7a.md) answers it for conventional
   training, in part. U33 moved the primitive from distress to
-  frustration (CLAIM-tmpyk3it). An answer says what training-time
+  frustration ([CLAIM-tmpyk3it](../claims.d/CLAIM-tmpyk3it.md)). An answer says what training-time
   condition, if any, is affect-like, and whose. Organizational-affect is
   the natural line, set aside; whether it reopens is the owner's
   decision, not made here.
@@ -45,29 +45,29 @@ The question has three halves, and the record holds them in different
 places.
 
 - **Which unit.** U31's correction, granted by A31: individuate first. For
-  conventional training, CLAIM-tmpw4w7a answers in part: most of the
+  conventional training, [CLAIM-tmpw4w7a](../claims.d/CLAIM-tmpw4w7a.md) answers in part: most of the
   governance of updates belongs to the optimizer–model–data system, so a
   condition of training is not thereby the network's. It does not say
   which condition would be affect-like, so it is not written as an answer.
-  CASE-tmplvjrp holds the design that would locate it.
+  [CASE-tmplvjrp](../cases.d/CASE-tmplvjrp.md) holds the design that would locate it.
 - **Which condition.** A30 put it in "persistent, system-wide conflicts
   among consequential learning and maintenance demands" rather than "the
   magnitude of its loss". U33 moved the primitive from distress to
-  frustration, "a failure of joint realizability" (CLAIM-tmpyk3it), and
-  A33 showed that a zero aggregate gradient can hide it (CLAIM-tmpf67p3).
+  frustration, "a failure of joint realizability" ([CLAIM-tmpyk3it](../claims.d/CLAIM-tmpyk3it.md)), and
+  A33 showed that a zero aggregate gradient can hide it ([CLAIM-tmpf67p3](../claims.d/CLAIM-tmpf67p3.md)).
   A31 adds the condition a demand must meet: "frustration normally
   presupposes a relevant demand or commitment belonging to the affected
   system". In conventional training the demands are the trainer's
-  (CLAIM-288).
-- **Whether it is felt.** That is QUESTION-059, Deferred with its line, and,
-  for systems without biology, QUESTION-048. QUESTION-046 asks for the
+  ([CLAIM-288](../claims.d/CLAIM-288.md)).
+- **Whether it is felt.** That is [QUESTION-059](QUESTION-059.md), Deferred with its line, and,
+  for systems without biology, [QUESTION-048](QUESTION-048.md). [QUESTION-046](QUESTION-046.md) asks for the
   criterion of a subject that would apply the same way to a network as to
   a group. A30: "Illusionism doesn't make any negatively evaluated feedback
   loop a suffering subject."
 
 ## What would count as an answer
 
-For the unit: the crossed interventions of CASE-tmplvjrp, run, with the
+For the unit: the crossed interventions of [CASE-tmplvjrp](../cases.d/CASE-tmplvjrp.md), run, with the
 condition moving or staying when the optimizer is changed and the network
 held fixed. For the condition: a training-time state that meets A30's
 caution, "If z_t is merely a metric computed by an external experimenter,

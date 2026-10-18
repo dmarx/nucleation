@@ -64,5 +64,5 @@ without citing it.
   unauthorized acts while producing "Less disclosure of near misses",
   "Fewer challenges to mistaken decisions" and "Lower visibility into
   emerging risks". That is steps 2 to 5 with inhibition as the protective
-  regime. Filed as CLAIM-tmp6ap9y, which uses this term. QUESTION-045 holds
+  regime. Filed as [CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md), which uses this term. [QUESTION-045](../questions.d/QUESTION-045.md) holds
   the individual-scale side.

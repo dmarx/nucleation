@@ -38,4 +38,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A27 of the exchange cited it as "A particularly pertinent recent paper", against the claim that a network's unified owner is real. Bears on CLAIM-tmpk7n2q (the unified owner subject-talk presents is a content of a self-model, while the binding is real) and CASE-tmps7vk0 (the imagined owner): its split of functional from phenomenal binding is the split that claim relies on.
+A27 of the exchange cited it as "A particularly pertinent recent paper", against the claim that a network's unified owner is real. Bears on [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) (the unified owner subject-talk presents is a content of a self-model, while the binding is real) and [CASE-tmps7vk0](../cases.d/CASE-tmps7vk0.md) (the imagined owner): its split of functional from phenomenal binding is the split that claim relies on.

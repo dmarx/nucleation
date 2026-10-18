@@ -73,7 +73,7 @@ stake: a "Distributed but valid minority signal" is a "Productive difference
 that should not automatically be suppressed", and "A crude defense might
 suppress those updates as suspicious, improving some aggregate security
 measure while harming the organization's ability to learn from minority
-environments." Filed as CLAIM-tmpp9ox0 (robustness lives in the processes
+environments." Filed as [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) (robustness lives in the processes
 that allocate and audit authority, and trades off against revision) and
-CASE-tmp4nzjz (A41's proposed study). An answer here would say when that
+[CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md) (A41's proposed study). An answer here would say when that
 trade-off can be moved.

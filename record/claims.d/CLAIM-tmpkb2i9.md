@@ -41,10 +41,10 @@ summary: >-
   "Yes, in a qualified but important sense", and weakened the
   generalization half, since selection is for performance on "the
   encounters and feedback distribution actually used for updating". It
-  objects in part to CLAIM-288: it grants that a modeller-fixed objective
+  objects in part to [CLAIM-288](CLAIM-288.md): it grants that a modeller-fixed objective
   does not show self-constitution, and denies that exogenous origin bars
   a goal from becoming the training organization's own regulation. The
-  sharp edge: the goal belongs to the training organization (CLAIM-tmpw4w7a),
+  sharp edge: the goal belongs to the training organization ([CLAIM-tmpw4w7a](CLAIM-tmpw4w7a.md)),
   not to the network, and nothing here says the network endorses or
   governs it.
 ---
@@ -92,8 +92,8 @@ The claim holds those three apart:
 Exogenous provenance does not settle realization. The record already holds
 the human case: on self-determination theory a value taken in from outside
 can be introjected or integrated, and how it was taken in fixes which
-(THEORY-047); autonomy is then graded by integration, not by origin
-(THEORY-054). The owner's thesis is the training-time counterpart of the
+([THEORY-047](../theory.d/THEORY-047.md)); autonomy is then graded by integration, not by origin
+([THEORY-054](../theory.d/THEORY-054.md)). The owner's thesis is the training-time counterpart of the
 claim that external provenance can become internal regulation.
 
 ## The weakened half
@@ -129,20 +129,20 @@ see whether the endogenous dynamics reconstruct it, against a matched system
 whose recovery is "supplied exclusively by an external trainer".
 
 The claim needs selective retention. Regulated retention is what governance
-would need. The admission test for an agent at a level (CLAIM-174) is the
+would need. The admission test for an agent at a level ([CLAIM-174](CLAIM-174.md)) is the
 standard a goal attribution here must meet: the goal-directed description
 has to beat a device description of the update rule by more than its Occam
 cost.
 
-## Against CLAIM-288
+## Against [CLAIM-288](CLAIM-288.md)
 
-CLAIM-288 says a simulation whose operators maximize modeller-fixed
+[CLAIM-288](CLAIM-288.md) says a simulation whose operators maximize modeller-fixed
 objectives "cannot show self-constitution, because the norms the
 organization appears to maintain are then the modeller's". A30 §8 applied
 it to training without citing it: "the task loss is generally chosen by an
-experimenter". This claim grants CLAIM-288 for self-constitution, which is
+experimenter". This claim grants [CLAIM-288](CLAIM-288.md) for self-constitution, which is
 a claim about governance. It denies the further step, that a norm the
-modeller supplied cannot become the organization's regulation. CLAIM-288's
+modeller supplied cannot become the organization's regulation. [CLAIM-288](CLAIM-288.md)'s
 own answer condition, operators whose objectives are "produced and revised
 by the organization", is the governance grade, and it is not needed for a
 goal to be realized. A40 §2.3 and A47 §2 restate the split ("The origin,
@@ -152,17 +152,17 @@ questions").
 ## Whose goal
 
 The bearer is the training organization, the optimizer, model and data
-together, which is where CLAIM-tmpw4w7a puts training-time regulatory
+together, which is where [CLAIM-tmpw4w7a](CLAIM-tmpw4w7a.md) puts training-time regulatory
 conditions. Not the network alone: A37 said of a consolidation mechanism
 supplied by the training algorithm that it shows "resolve-like organization
 **of the training system**, not volition owned by the neural network alone".
 For a deployed language model, Goldstein and Lederman put the bearer of
-attitudes at the instance, not the model (THEORY-616). The attribution is
+attitudes at the instance, not the model ([THEORY-616](../theory.d/THEORY-616.md)). The attribution is
 relative to the unit, and the three units differ.
 
 The record's deferred claim that a will is its own to the degree its
 commitments "arise through, remain integrated with, and are answerable to"
-its organization (CLAIM-016, Deferred with the authenticity line) has the
+its organization ([CLAIM-016](CLAIM-016.md), Deferred with the authenticity line) has the
 same three parts as A35's provenance, realization and governance. Whether
 that line reopens is the owner's decision, not made here.
 
@@ -177,5 +177,5 @@ that line reopens is the owner's decision, not made here.
   does not physically threaten the network's continued existence". It is a
   disturbance relative to the training organization's maintained
   objective, not to its viability.
-- It does not answer CLAIM-288's objection to the constitutive thesis of
-  CLAIM-284. It denies only that the objection reaches goal realization.
+- It does not answer [CLAIM-288](CLAIM-288.md)'s objection to the constitutive thesis of
+  [CLAIM-284](CLAIM-284.md). It denies only that the objection reaches goal realization.

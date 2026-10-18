@@ -45,7 +45,7 @@ A25 of the exchange of 2026-10-17, asked for a fourth paper building on
 three, proposed this question as its centre: "How can distinct agents come
 to recognize, negotiate, and institute obligations that none can justify
 merely by invoking their own organization?" It cited this question and the
-deferral of CLAIM-096 correctly ("deferred because it lacked an independent
+deferral of [CLAIM-096](../claims.d/CLAIM-096.md) correctly ("deferred because it lacked an independent
 moral argument"), and it agreed with the deferral: "interdependence ⇏
 obligation", since interdependence "creates the circumstances for
 obligation, but not a complete justification of obligation." Its "decisive
@@ -54,13 +54,13 @@ recognize one another. Therefore their shared rules are legitimate. That
 fails."
 
 It cited neither of this question's two notes: Korsgaard's humanity step
-(THEORY-075) and Sen's liberal paradox (THEORY-027), which constrain any
+([THEORY-075](../theory.d/THEORY-075.md)) and Sen's liberal paradox ([THEORY-027](../theory.d/THEORY-027.md)), which constrain any
 answer to the question A25 posed. Material the record holds and has not
-linked here: THEORY-495 (Tomasello: obligation as internalized pressure
+linked here: [THEORY-495](../theory.d/THEORY-495.md) (Tomasello: obligation as internalized pressure
 from a joint "we"; its commentators include Darwall and Pettit, whom A25
-names as interlocutors) and THEORY-414 (Hindriks and Guala: institutions as
+names as interlocutors) and [THEORY-414](../theory.d/THEORY-414.md) (Hindriks and Guala: institutions as
 rules in equilibrium, a natural ground for A25's "coordination without
 reciprocal standing"). The owner did not take the fourth paper up. The
 question stays Deferred with the authenticity line; whether that line
 reopens is the owner's decision. Its adjudication form, for standpoints at
-any level, is QUESTION-tmpq5i0m.
+any level, is [QUESTION-tmpq5i0m](QUESTION-tmpq5i0m.md).

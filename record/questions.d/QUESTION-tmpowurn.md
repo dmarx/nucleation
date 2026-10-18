@@ -14,9 +14,9 @@ summary: >-
   normativity from first principles?" A16: "a plausible route from
   physical dynamics to system-relative norms of functioning and failure.
   It does not yet derive moral or rational authority from physical first
-  principles." The record holds the limit (CLAIM-075), the candidate
-  readings (THEORY-071, THEORY-220, THEORY-628, THEORY-217) and a narrower
-  question (QUESTION-087), but not the question. Filed in
+  principles." The record holds the limit ([CLAIM-075](../claims.d/CLAIM-075.md)), the candidate
+  readings ([THEORY-071](../theory.d/THEORY-071.md), [THEORY-220](../theory.d/THEORY-220.md), [THEORY-628](../theory.d/THEORY-628.md), [THEORY-217](../theory.d/THEORY-217.md)) and a narrower
+  question ([QUESTION-087](QUESTION-087.md)), but not the question. Filed in
   will-organization. Its cross-agent half is the authenticity line's,
   whose blurb names "normativity across the scales an agent spans" and
   which was set aside on 2026-10-05; whether that line reopens is the
@@ -66,51 +66,51 @@ remain separate**."
 
 ## What the record holds
 
-- **The limit.** CLAIM-075 (Active, disclaimed): viability does not
+- **The limit.** [CLAIM-075](../claims.d/CLAIM-075.md) (Active, disclaimed): viability does not
   establish what ought to persist; "An unjust institution may be highly
   viable." A16's virus, cancer and destructive institution are its cases,
-  and CLAIM-060's.
-- **Self-generated normativity as a condition of agency.** THEORY-071
+  and [CLAIM-060](../claims.d/CLAIM-060.md)'s.
+- **Self-generated normativity as a condition of agency.** [THEORY-071](../theory.d/THEORY-071.md)
   (Barandiaran, Di Paolo and Rohde): minimal agency requires individuality,
   interactional asymmetry and self-generated normativity.
-- **Function from present organization.** THEORY-220 (Bickhard). Its
+- **Function from present organization.** [THEORY-220](../theory.d/THEORY-220.md) (Bickhard). Its
   promote_when asks for the model A16 sketched, "contribution to
   self-maintenance ... defined from the dynamics alone", and names the
   test Δ_p has not met: "The account is in trouble if functions so defined
   cannot be told from mere causal contributions to persistence that no one
   counts as functional".
-- **The objection to the first step.** THEORY-628 (Di Paolo): self-production
+- **The objection to the first step.** [THEORY-628](../theory.d/THEORY-628.md) (Di Paolo): self-production
   alone gives only "an all-or-nothing norm, to go on or to die, and that
   distinction is available to an observer, not to the system"; a graded
   norm needs adaptivity. A16's step from self-maintenance to "endogenous
   conditions of success and failure" passes over this.
-- **A rival operationalization.** THEORY-217: malfunction as failure to
+- **A rival operationalization.** [THEORY-217](../theory.d/THEORY-217.md): malfunction as failure to
   correlate with a "normative field" computed from viability.
-- **Norms that are the modeller's.** CLAIM-288 (Proposed, counter): norms an
+- **Norms that are the modeller's.** [CLAIM-288](../claims.d/CLAIM-288.md) (Proposed, counter): norms an
   operator maximizes because the modeller fixed them are "the modeller's,
   not set by the organization itself". That is A16's "endogenous rather
   than simply assigned by an observer", already in use as an objection.
-- **A stipulated K.** CLAIM-195: for an argument, the constraint set that
+- **A stipulated K.** [CLAIM-195](../claims.d/CLAIM-195.md): for an argument, the constraint set that
   persistence is relative to "is fixed by an amendable decision, not
   discovered". The record's own case of a K it chose.
-- **A narrower question.** QUESTION-087 asks whether a self-reproducing
+- **A narrower question.** [QUESTION-087](QUESTION-087.md) asks whether a self-reproducing
   authority structure can be pathological by the organization's own
   standard. That is this question's second rung applied to authority. It
   is narrower, so this question does not refine it.
-- **The cross-agent half, set aside.** QUESTION-007 (Deferred, authenticity
+- **The cross-agent half, set aside.** [QUESTION-007](QUESTION-007.md) (Deferred, authenticity
   line) asks what grounds normativity between agents at one level. A16's
   fifth rung includes it.
 
 ## What would count as an answer
 
 For the first two rungs: a model in which function is defined from the
-dynamics, applied without tuning to cases THEORY-220 names, that separates
+dynamics, applied without tuning to cases [THEORY-220](../theory.d/THEORY-220.md) names, that separates
 functions from mere causal contributions to persistence, and meets
-THEORY-628's demand for a norm the system itself has. For the rest: an
+[THEORY-628](../theory.d/THEORY-628.md)'s demand for a norm the system itself has. For the rest: an
 argument that a standard so grounded has authority for anyone, or a showing
 that it cannot have it without a premise from outside the dynamics. A16:
 "If it means **deriving every normative truth from purely descriptive
 physical facts without any additional assumptions**, we do not have that
 derivation." The relational form of the judgments at every rung is
-CLAIM-tmpt75xe. Whether the standards themselves can be adjudicated is
-QUESTION-tmpq5i0m.
+[CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md). Whether the standards themselves can be adjudicated is
+[QUESTION-tmpq5i0m](QUESTION-tmpq5i0m.md).

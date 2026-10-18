@@ -54,10 +54,10 @@ may exceed the degree of information sharing actually present."
 
 A27 wrote that "the record correctly cautions that compartmentalized behavior
 does not establish multiple conscious workspaces", and credited it to the
-global workspace account, THEORY-096. The caution is this claim's own, A78's as its
+global workspace account, [THEORY-096](../theory.d/THEORY-096.md). The caution is this claim's own, A78's as its
 body records it: the driver case "does not, by itself, establish two
 simultaneously conscious workspaces".
 
-The third quantity is noted on QUESTION-061, and the unified owner it
-concerns is CLAIM-tmpk7n2q. The status stays Deferred; whether the line
+The third quantity is noted on [QUESTION-061](../questions.d/QUESTION-061.md), and the unified owner it
+concerns is [CLAIM-tmpk7n2q](CLAIM-tmpk7n2q.md). The status stays Deferred; whether the line
 reopens is the owner's decision.

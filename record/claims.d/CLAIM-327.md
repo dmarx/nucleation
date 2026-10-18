@@ -97,7 +97,7 @@ university's traditional rival").
 
 The exchange of 2026-10-17 re-derived this claim's separation of slowness
 from endogeneity without citing it (A1 §1, A3, A4), and built it as
-constructions (CASE-tmpxqgai). Arm A, a slow register no member reads, is
+constructions ([CASE-tmpxqgai](../cases.d/CASE-tmpxqgai.md)). Arm A, a slow register no member reads, is
 this claim's "timescale separation (τ_Z ≫ τ_X, not sufficient)" made a
 construction. Arm B is the converse, which the claim lacked. Members read a
 register and rewrite it (Z_{t+1} = Z_t ⊕ N₁, with N₁ ~ Bernoulli(0.4)).
@@ -109,5 +109,5 @@ maintenance. If maintenance is defined to require robust long-term
 persistence, this counterexample no longer establishes the separation."
 The claim is about slowly changing variables, so arm B does not cut
 against it. It says the test list should not read slowness as a
-requirement of endogeneity. CLAIM-331's "slowness is a mark of a level
+requirement of endogeneity. [CLAIM-331](CLAIM-331.md)'s "slowness is a mark of a level
 and not its definition" says the same for levels.

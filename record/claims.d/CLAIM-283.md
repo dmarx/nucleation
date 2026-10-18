@@ -78,6 +78,6 @@ correctly prevent an unreliable process from taking control." And it
 widened what frustration may depend on: "not merely on incompatible
 goals, but on a process's inability to acquire the authority needed to
 pursue a goal that remains consequential to the organization." The
-frustration account rests on this claim (CLAIM-tmpyk3it): a demand that
+frustration account rests on this claim ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)): a demand that
 is not jointly realizable is a precedence claimed and not granted. Whether
-grants follow the demands that bind is QUESTION-tmpkzu6g.
+grants follow the demands that bind is [QUESTION-tmpkzu6g](../questions.d/QUESTION-tmpkzu6g.md).

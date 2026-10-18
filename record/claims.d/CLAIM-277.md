@@ -110,7 +110,7 @@ It is this claim's entrenchment loop seen from the side that lost. A5's
 good chain, "good policy, then endorsement, then greater influence, then
 more chances to show competence", run downward for an operator whose
 competence shows only in rare contexts. The antecedent A46 did not cite
-is March (THEORY-142): exploitation's returns are surer and nearer, so
+is March ([THEORY-142](../theory.d/THEORY-142.md)): exploitation's returns are surer and nearer, so
 learning from experience crowds out exploration.
 
 A32 of the same exchange gave the other side, from this claim's
@@ -122,6 +122,6 @@ its competence estimate decays while it is not exposed, which is this
 claim's memory kernel. A slow kernel keeps latent authority; a fast one
 starves it.
 
-It bears on QUESTION-083 and on the owner's non-domination criterion
-(CLAIM-tmpqofon), whose test is whether a specialist can recover
+It bears on [QUESTION-083](../questions.d/QUESTION-083.md) and on the owner's non-domination criterion
+([CLAIM-tmpqofon](CLAIM-tmpqofon.md)), whose test is whether a specialist can recover
 influence. Not filed as a claim of its own. The status is unchanged.

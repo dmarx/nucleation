@@ -12,12 +12,12 @@ refines:
 summary: >-
   The realist half of the owner's U18 position, which A18 itself says is
   not established: "The second is plausible but requires a much stronger
-  argument." CLAIM-tmpt75xe holds the constitutive half; this asks
+  argument." [CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md) holds the constitutive half; this asks
   whether A18's third realist condition, constraints on admissible
-  perspectives, can be met. The record's nearest entries, QUESTION-007
-  and CLAIM-104, are Deferred with the authenticity line, set aside on
+  perspectives, can be met. The record's nearest entries, [QUESTION-007](QUESTION-007.md)
+  and [CLAIM-104](../claims.d/CLAIM-104.md), are Deferred with the authenticity line, set aside on
   2026-10-05; whether that line reopens is the owner's decision, not made
-  here. Opposed: Frankfurt (NOTE-264), and Wong's challenge as A18 put
+  here. Opposed: Frankfurt ([NOTE-264](../notes.d/NOTE-264.md)), and Wong's challenge as A18 put
   it. An answer is a principled constraint on which standpoints have
   authority that does not presuppose a normative standard.
 ---
@@ -30,11 +30,11 @@ summary: >-
 
 The owner named the position at U18: "so maybe something like a
 frame/order/scale/perspectival-relative normative realism?"
-(TERM-tmp9b3gk). A18 split it into two theses:
+([TERM-tmp9b3gk](../terms.d/TERM-tmp9b3gk.md)). A18 split it into two theses:
 
 - "**Constitutive thesis:** Many normative properties depend for their
   identity on relations among agents, organizations, actions, contexts, and
-  standards." That is held, as CLAIM-tmpt75xe.
+  standards." That is held, as [CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md).
 - "**Realist thesis:** Those relations can ground judgments that are correct
   or incorrect independently of an evaluator's present preferences, and some
   conflicts between perspectives admit objectively better resolutions."
@@ -49,8 +49,8 @@ difficult one."
 A18 §4's case: an institution that judges a policy by its own persistence
 finds suppressing dissent functional, and its members judge that the policy
 violates their autonomy. "We cannot settle the conflict merely by declaring
-both judgments true relative to their standpoints." CASE-tmpfusdm is the
-same conflict in its smallest form, and CLAIM-060 is the record's thesis
+both judgments true relative to their standpoints." [CASE-tmpfusdm](../cases.d/CASE-tmpfusdm.md) is the
+same conflict in its smallest form, and [CLAIM-060](../claims.d/CLAIM-060.md) is the record's thesis
 that the two goods come apart. A18's closing statement of the question:
 "whether we can derive principled constraints on which contexts and
 perspectives deserve authority, without simply presupposing the normativity
@@ -58,23 +58,23 @@ we hoped to explain."
 
 ## What the record holds
 
-- **Deferred.** QUESTION-007, "What grounds normativity across agents that
-  share an environment and a level of organization?", and CLAIM-104, that
+- **Deferred.** [QUESTION-007](QUESTION-007.md), "What grounds normativity across agents that
+  share an environment and a level of organization?", and [CLAIM-104](../claims.d/CLAIM-104.md), that
   authenticity grounds normativity downward but not across, are both
   Deferred with the authenticity line. They are this question for peers and
-  for a whole and its parts. QUESTION-007's two notes narrow it: Korsgaard
-  (THEORY-075) gives obligations every agent has only through the humanity
-  step, and Sen's liberal paradox (THEORY-027) says any grounding across
-  agents at one level must weaken sphere-control or unanimity. CLAIM-096,
+  for a whole and its parts. [QUESTION-007](QUESTION-007.md)'s two notes narrow it: Korsgaard
+  ([THEORY-075](../theory.d/THEORY-075.md)) gives obligations every agent has only through the humanity
+  step, and Sen's liberal paradox ([THEORY-027](../theory.d/THEORY-027.md)) says any grounding across
+  agents at one level must weaken sphere-control or unanimity. [CLAIM-096](../claims.d/CLAIM-096.md),
   the assistant's earlier answer, was deferred as needing "independent
-  moral argument". A25 of the same exchange re-raised QUESTION-007 as a
+  moral argument". A25 of the same exchange re-raised [QUESTION-007](QUESTION-007.md) as a
   fourth paper, and agreed with the deferral: interdependence "creates the
   circumstances for obligation, but not a complete justification of
   obligation."
-- **The limit.** CLAIM-075: viability does not establish what ought to
+- **The limit.** [CLAIM-075](../claims.d/CLAIM-075.md): viability does not establish what ought to
   persist. A conflict between an institution and its members is not settled
   by which of them is more viable.
-- **Opposed.** Frankfurt, in NOTE-264 ("Against normative realism", pp.
+- **Opposed.** Frankfurt, in [NOTE-264](../notes.d/NOTE-264.md) ("Against normative realism", pp.
   189–190): normative standards are "grounded only in what we cannot help
   caring about", and their objectivity "consists just in the fact that it is
   outside the scope of our voluntary control". On that view the third

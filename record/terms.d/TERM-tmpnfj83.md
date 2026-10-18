@@ -13,7 +13,7 @@ summary: >-
   this term"), defined from A45. Regimes are practically synchronized when
   their own coupling keeps their activity compatible without a higher
   level routinely settling their conflicts, though their rankings may
-  differ. TERM-050's sense, all regimes ranking the same course first, is
+  differ. [TERM-050](TERM-050.md)'s sense, all regimes ranking the same course first, is
   its valuational special case and stays Active beside it.
 ---
 <!-- inactive-ok-file: CLAIM-163 QUESTION-077 QUESTION-078 CLAIM-261 CLAIM-tmpmr1t8 CLAIM-tmptg7io CLAIM-tmpqofon — Proposed or Open; the objection, questions and claims this term is set beside -->
@@ -50,16 +50,16 @@ compatible joint policies across the relevant horizon while making h_t
 unnecessary in ordinary operation", where h_t is supervisory
 intervention.
 
-The term is new. The owner asked to generalize TERM-050, and the template
+The term is new. The owner asked to generalize [TERM-050](TERM-050.md), and the template
 says a changed definition is a new TERM, so that the claims stated in the
-old one can be found. Six claims are stated in TERM-050's sense (CLAIM-156,
-CLAIM-162, CLAIM-163, CLAIM-169, CLAIM-198, CLAIM-261). Whether this term
-should supersede TERM-050, taking the bare word for the broad sense, is
+old one can be found. Six claims are stated in [TERM-050](TERM-050.md)'s sense ([CLAIM-156](../claims.d/CLAIM-156.md),
+[CLAIM-162](../claims.d/CLAIM-162.md), [CLAIM-163](../claims.d/CLAIM-163.md), [CLAIM-169](../claims.d/CLAIM-169.md), [CLAIM-198](../claims.d/CLAIM-198.md), [CLAIM-261](../claims.d/CLAIM-261.md)). Whether this term
+should supersede [TERM-050](TERM-050.md), taking the bare word for the broad sense, is
 for the owner.
 
 ## What it is not
 
-- **Not TERM-050's intrapersonal synchronization.** That is the case in
+- **Not [TERM-050](TERM-050.md)'s intrapersonal synchronization.** That is the case in
   which every regime ranks the course first from every delay, so "there
   is no contest to win". A45 called it *valuational concordance*, "the
   special case captured by the previous definition". Practical
@@ -67,29 +67,29 @@ for the owner.
   settle it among themselves.
 - **Not supervisory integration.** A45: "coherent action is achieved
   through repeated higher-level intervention, rather than primarily
-  through local coordination". The agent acts as one, as CLAIM-261 says a
+  through local coordination". The agent acts as one, as [CLAIM-261](../claims.d/CLAIM-261.md) says a
   divided agent can, but its regimes are not synchronized in either
   sense.
 - **Not conditioned conformity.** A45: "Behavioral conformity under
   coercion can resemble synchronization." Regimes trained never to object
   also need no arbitration. The definition's "mutually compatible" and
   "their own interactions" exclude it, but the behaviour does not show
-  which one is present (CLAIM-tmptg7io).
+  which one is present ([CLAIM-tmptg7io](../claims.d/CLAIM-tmptg7io.md)).
 - **Not authentic integration.** A45 named a stronger condition, in which
   coordination is "also non-dominating, contestable, and maintained
   through the organization's own processes of mutual accommodation"; that
-  is the owner's criterion, CLAIM-tmpqofon. This term carries no claim
+  is the owner's criterion, [CLAIM-tmpqofon](../claims.d/CLAIM-tmpqofon.md). This term carries no claim
   about ownership.
 - **Not neural phase synchrony**, and not shown to be a mechanism.
-  CLAIM-163's objection stands: the term names a coupling, a candidate
+  [CLAIM-163](../claims.d/CLAIM-163.md)'s objection stands: the term names a coupling, a candidate
   collective variable (how often supervisory intervention is needed) and
   transitions, but the record has not shown them in a will.
 
 ## Where it comes from in the record
 
-QUESTION-077 anticipated it: if coupled agreement "turns out to be what
+[QUESTION-077](../questions.d/QUESTION-077.md) anticipated it: if coupled agreement "turns out to be what
 intrapersonal "synchronization" actually is, the word may earn its
-mechanism, though not in the sense TERM-050 gives it." QUESTION-078 is
+mechanism, though not in the sense [TERM-050](TERM-050.md) gives it." [QUESTION-078](../questions.d/QUESTION-078.md) is
 the question it serves: whether "differentiated interests keep distinct
 roles, boundaries and pathways of influence within a stable or metastable
-pattern of coordination". CLAIM-tmpmr1t8 is stated in it.
+pattern of coordination". [CLAIM-tmpmr1t8](../claims.d/CLAIM-tmpmr1t8.md) is stated in it.

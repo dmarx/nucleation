@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A36 of the exchange used the coordinated-attack result, without a source, for the epistemic obstruction it separated from feasibility and aggregation. This is the paper that proves common knowledge unattainable over unreliable channels. Bears on CLAIM-tmp442x9.
+A36 of the exchange used the coordinated-attack result, without a source, for the epistemic obstruction it separated from feasibility and aggregation. This is the paper that proves common knowledge unattainable over unreliable channels. Bears on [CLAIM-tmp442x9](../claims.d/CLAIM-tmp442x9.md).
