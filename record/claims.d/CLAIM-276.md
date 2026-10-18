@@ -37,6 +37,8 @@ summary: >-
   that bear on it. It does not say coherence is bad.
 complements:
 - CLAIM-297
+- CLAIM-tmpf67p3
+- CLAIM-tmpp9ox0
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-146 CLAIM-191 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -76,3 +78,19 @@ stable endpoint of reconstruction, and stability is all it claims.
   On contested meanings, Y may be the very thing in dispute.
 - Drift toward the collaborators' framings in this record's own sessions
   ([CLAIM-191](CLAIM-191.md)) is a case of the same kind, in the nucleating-argument line.
+
+## Note of 2026-10-18: productive disagreement
+
+A41 and A42 of the exchange of 2026-10-17 made this claim's plurality term a
+design goal under the name "productive disagreement", without citing it.
+A41's experiment measures "suppression of honest minorities" beside attack
+success, and its federated row warns that a defence "might suppress those
+updates as suspicious, improving some aggregate security measure". A42's
+organizational reading of overcontrol lists "Less disclosure of near
+misses", "Fewer challenges to mistaken decisions" and "Lower visibility into
+emerging risks": coherence raised by lowering the plurality of live
+challenges and, through it, fidelity to evidence. A42's revised thesis keeps
+"preserve productive disagreement" among the capacities of mature
+governance. Filed as [CLAIM-tmpp9ox0](CLAIM-tmpp9ox0.md), which complements this claim, and
+[CLAIM-tmp6ap9y](CLAIM-tmp6ap9y.md). Neither measures fidelity where there is no ground
+truth, the gap this claim names.

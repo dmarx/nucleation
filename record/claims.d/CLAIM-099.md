@@ -30,6 +30,10 @@ summary: >-
   not a premise.
 grounds:
 - THEORY-153
+illustrated_by:
+- CASE-tmpi1bt1
+supports:
+- CLAIM-tmp0wvwc
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
 <!-- inactive-ok-file: CLAIM-018 CLAIM-025 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

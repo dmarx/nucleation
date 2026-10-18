@@ -52,6 +52,7 @@ answers:
 - QUESTION-053
 supports:
 - CLAIM-039
+- CLAIM-tmpk7n2q
 ---
 <!-- inactive-ok-file: LIT-701 — Unavailable, no lawful full text; Gilbert's plural-subject account, named as the other "need not be felt" view and known only through Huebner's report, not leaned on -->
 <!-- inactive-ok-file: LIT-697 — Unavailable, no lawful full text; Schmid, named from his abstract as the view that groups can feel, not leaned on -->

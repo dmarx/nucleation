@@ -45,6 +45,8 @@ summary: >-
   divided, so synchronization is not what acting as one consists in.
   Synchronization is still better when it is available: nothing has to
   be overridden, and [CLAIM-162](CLAIM-162.md) says that is why flow is effortless.
+supports:
+- CLAIM-tmpmr1t8
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-198 — Proposed; the record's open claims on synchronization and division, set beside this one -->
 
@@ -94,3 +96,22 @@ agent acts as one, since some lapse. And it does not say that
 synchronization is desirable for every agent or in every respect. A
 population that never disagrees may also never notice what it is
 missing.
+
+## Note of 2026-10-18: what the divided agent pays for
+
+A44 of the exchange of 2026-10-17 proposed a correction on effort: "**An
+authentically maintained goal may demand more effort, not less.**" It was
+set against authenticity ("the simplistic assumption that authenticity
+reduces effort"), not against this claim, which is the record's effort
+claim and which A44 did not cite. The owner, at U45, said what the
+effortful case is: "The "more effortful" intrapersonal conflict case is
+the one in which the internal modules don't negotiate amongst themselves
+and instead require escalating to higher level processes to mediate."
+
+[CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md) refines this claim's "The divided agent pays for its unity
+in effort, devices and lapses". It pays for escalation. A divided agent
+whose regimes settle their disagreement among themselves pays less while
+staying divided, which is practical synchronization ([TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md))
+without synchronization in [TERM-050](../terms.d/TERM-050.md)'s sense. [CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md) rests on this
+claim. A45's Person A ([CASE-tmpffqbr](../cases.d/CASE-tmpffqbr.md)) is this claim's divided agent. The
+status is unchanged.

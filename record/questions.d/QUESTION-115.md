@@ -85,3 +85,22 @@ exchange proposed. A12's table of separate verdicts is the guard: high
 temporal information licenses a predictive relation, integration a
 module, effective information a causal coarse-graining, transmission a
 lineage, and none of them agency.
+
+## Note of 2026-10-18: macro-interventions, a second appearance
+
+A21 §4 of the exchange of 2026-10-17 came to this question's meaning
+problem for macro-interventions from causal emergence ([THEORY-222](../theory.d/THEORY-222.md)), with a
+person's commitment as the macrostate: "whether a manipulation of that
+macrostate represents an admissible intervention depends on what it means
+to change a commitment while holding other aspects of the agent fixed. We
+cannot simply impose arbitrary macro-interventions and assume they
+correspond to physically meaningful manipulations." It proposed: "**The
+explanatory standing of an organizational scale depends not only on what it
+compresses, but on which counterfactual interventions and outcomes the
+compressed description continues to represent faithfully.**" A21 §6 gave
+the condition C_*(P_ℓ^{do(a)}) = P_L^{do(ā)} for a declared family of
+interventions. That is A12's question and A14's realization defect again
+(do micro-states with one macrostate respond alike?), for a commitment
+instead of a fandom's resentment. A21 did not cite this question. Its
+judgment-preserving form is [CLAIM-tmpa1kmr](../claims.d/CLAIM-tmpa1kmr.md), whose causal version is
+recorded there as a definition, not a result.

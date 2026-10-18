@@ -33,6 +33,7 @@ summary: >-
   limited by what has been studied, with no model or new data.
 supports:
 - CLAIM-060
+- CLAIM-tmpp9ox0
 ---
 <!-- inactive-ok-file: THEORY-141 — Proposed; cited for context or as the source of this reading, nothing here rests on its being settled -->
 

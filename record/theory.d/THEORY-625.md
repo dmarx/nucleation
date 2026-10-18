@@ -35,6 +35,8 @@ summary: >-
   "We accept (S has power (S does A))". Hindriks & Guala's
   rules-in-equilibrium account is its rival on what a constitutive rule
   adds.
+supports:
+- CLAIM-tmpt75xe
 ---
 <!-- inactive-ok-file: THEORY-495 — Proposed; Tomasello's account, named beside his book, not leaned on -->
 <!-- inactive-ok-file: THEORY-414 — Proposed; the rival account, named as one end of the rivalry -->

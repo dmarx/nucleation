@@ -46,6 +46,7 @@ used_by:
 - CLAIM-196
 - CLAIM-284
 - CLAIM-317
+- CLAIM-tmpk7n2q
 ---
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
@@ -91,3 +92,22 @@ which:
   only. A speaker whose audiences are brought together may find 7 divided
   with nothing else changed ([CASE-052](../cases.d/CASE-052.md)).
 - **Not "person"** ([ADR-024](../decisions.d/ADR-024.md)'s `personhood`).
+
+## Note of 2026-10-18: a missing "modeled" sense
+
+A26 of the exchange of 2026-10-17 argued for "a selective fictionalism about
+the substantial ego": what is fictional is "the imagined substantial owner,
+not the organized agent". The self that argument turns on is in none of the
+seven senses. It is the self as the content of a self-model, which the
+system does not recognise as a model: Metzinger's transparent self-model
+([THEORY-064](../theory.d/THEORY-064.md)) and Dennett's centre of narrative gravity ([THEORY-691](../theory.d/THEORY-691.md)). Call it
+"modeled". It differs from 4, narrative, in being a representation the
+system uses in governing itself rather than the unity of a life told whole,
+and from 1, subject, in that a claim about it says nothing about whether
+there is experience.
+
+[CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md), filed from that exchange, is stated in senses 1 and 6 and
+names the modeled sense in its body. Adding an eighth sense is a new version
+of this term by its own rule. It is flagged here and not done.
+
+<!-- inactive-ok-file: CLAIM-tmpk7n2q THEORY-064 THEORY-691 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

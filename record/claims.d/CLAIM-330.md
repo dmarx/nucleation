@@ -24,6 +24,7 @@ grounds:
 - CASE-099
 complements:
 - CLAIM-297
+- CLAIM-tmpl8vsy
 summary: >-
   A14 §2 of the exchange of 2026-10-16, checked. For J = [[α, β], [γ, δ]]
   with nonnegative entries and α, δ < 1, the leading eigenvalue exceeds 1

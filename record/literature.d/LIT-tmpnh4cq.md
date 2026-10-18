@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the exchange of 2026-10-17, "Synthesis opportunities analysis" (workbench entries of 2026-10-18). No NOTE is filed.
+title: 'Psychological Safety and Learning Behavior in Work Teams'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-18. Crossref gives the issue month (1999-06) and a JSTOR online date of 2016-06-24; `published:` is the issue month's first day. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- social-science
+- society-and-governance
+date: '2026-10-18'
+published: '1999-06-01'
+doi: '10.2307/2666999'
+first_author: 'Edmondson'
+keywords:
+- 'psychological safety'
+- 'team learning'
+- 'team efficacy'
+- 'work teams'
+implementations: []
+summary: >-
+  Edmondson (1999). In a field study of 51 work teams in a manufacturing company, team psychological safety, a shared belief that the team is safe for interpersonal risk-taking, was associated with learning behavior while team efficacy was not, and learning behavior mediated between psychological safety and team performance.
+---
+
+<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed; cited as what this unread work bears on, nothing here rests on their being settled -->
+# LIT-tmpnh4cq: Psychological Safety and Learning Behavior in Work Teams
+
+Edmondson, A. (1999). Psychological Safety and Learning Behavior in Work Teams. *Administrative Science Quarterly* 44(2): 350–383. doi:10.2307/2666999.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A41 of the exchange cited it as "an important complementary result" for robust governance under internal compromise: the capacity to challenge has to be protected, or the audit that robustness depends on goes quiet. Bears on [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) (robustness to compromised constituents is a property of the processes that allocate and audit authority) and [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md).

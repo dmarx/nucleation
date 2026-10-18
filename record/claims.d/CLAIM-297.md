@@ -31,6 +31,7 @@ complements:
 - CLAIM-276
 - CLAIM-281
 - CLAIM-330
+- CLAIM-tmpl8vsy
 summary: >-
   A22's narrow claim and A23 VIII.E's central hypothesis, from the owner's U22:
   connect retrieval-mediated anchoring to the record's distributed agent as dual
@@ -87,3 +88,26 @@ which it fails [CLAIM-276](CLAIM-276.md)'s fidelity.
   might exhibit expertise, habit, and lock-in without satisfying any
   stronger criterion of agency or selfhood." [CLAIM-288](CLAIM-288.md)'s objection to
   modeller-fixed objectives applies to [CASE-092](../cases.d/CASE-092.md) as built.
+
+## Note of 2026-10-18: the loop again, applied to affect
+
+A32 of the exchange of 2026-10-17 applied this claim's circuit to a learner
+with an internal monitor. If the monitor's threat interpretation "increases
+the monitor's authority, it may gain greater influence over which future
+signals are inspected", and "The resulting distress-like regime could
+persist even if the external difficulty has diminished." It split two
+mechanisms: "**Evidence-tracking distress:** Endorsement changes because a
+regulator accurately identifies consequential difficulties." "**Self-confirming
+distress:** Endorsement changes because an existing interpretation selects
+evidence favoring its own continuation." And: "The observable behavior might
+look similar. Only independent feedback, counterfactual interventions, and
+tests of evidence selection can distinguish the mechanisms."
+
+This is the second appearance of the self-confirming loop, applied to affect.
+The self-confirming kind is this claim's amplification without fidelity, run
+on a regulatory interpretation; the evidence-tracking kind is the case this
+claim's "Not that concentration is error" leaves open. The record's lock-in,
+[TERM-020](../terms.d/TERM-020.md), is the regime the self-confirming kind would keep in place. U33
+later made frustration, not distress, the primitive ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)).
+
+<!-- inactive-ok-file: CLAIM-tmpyk3it — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -42,6 +42,10 @@ summary: >-
   undermines the evidence route; it does not refute the thesis. It is
   answered if the operators' objectives are themselves produced and
   revised by the organization.
+complements:
+- CLAIM-tmpw4w7a
+objected_by:
+- CLAIM-tmpkb2i9
 ---
 <!-- inactive-ok-file: THEORY-628 — Proposed; Di Paolo's account, the reading this claim cites him for, open like the claim -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-284 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
@@ -93,3 +97,35 @@ behavior."
 
 It does not say the simulations are worthless. They can test
 [CLAIM-277](CLAIM-277.md) and [CLAIM-279](CLAIM-279.md), which make no constitutive claim.
+
+## Note of 2026-10-18: applied to training, and objected to
+
+The exchange of 2026-10-17 met this objection three times without citing it.
+
+- **Applied to training.** A30 §8 made the loss the modeller's norm: "the
+  task loss is generally chosen by an experimenter. Lower loss is desirable
+  to the trainer, but that doesn't mean it has the same status as an
+  endogenously maintained condition of an organism." A34 kept the guardrail
+  ("Loss minimization does not automatically mean the model has its own
+  goals").
+- **Objected to.** The owner, at U35: "the externally assigned objective can
+  motivate identification and persistence of learned features", so "it
+  seems reasonable to describe the training process as having endogenous
+  goals". A35 conceded in part: "**Yes, in a qualified but important
+  sense.** ... I was treating the *origin of a goal* and the *organization
+  through which it becomes effective* as though they were the same
+  question." It kept the half this claim needs: stable structure "does not
+  alone show that the learned network governs or endorses the criterion
+  that selected it". That is filed as [CLAIM-tmpkb2i9](CLAIM-tmpkb2i9.md), which objects to this
+  claim in part. It grants it for self-constitution and denies that
+  exogenous origin bars a goal from becoming the training organization's
+  regulation. This claim's own answer condition, objectives "produced and
+  revised by the organization", is what [CLAIM-tmpkb2i9](CLAIM-tmpkb2i9.md) calls the
+  governance grade.
+- **Used as a control.** A38 §6 asked for comparison "against an external
+  optimizer that implements the same protective policy: otherwise we won't
+  know whether the governance genuinely belongs to the candidate learning
+  organization", and A40 §2.3 said ordinary gradient descent gives an
+  effective goal and maintained representations but not "the governance and
+  revision of the processes that determine what remains effective". Both are
+  this claim's distinction, used as a design control.

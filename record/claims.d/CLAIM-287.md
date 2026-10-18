@@ -47,6 +47,10 @@ summary: >-
   second half is Parfit's branching argument (THEORY-447) applied to
   organizational continuity. It
   uses [TERM-045](../terms.d/TERM-045.md)'s persisting sense.
+illustrated_by:
+- CASE-tmpxqgai
+supports:
+- CLAIM-tmpq80iq
 ---
 <!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the ground this claim restates, cited as open -->
 <!-- inactive-ok-file: QUESTION-043 CLAIM-161 CLAIM-280 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
@@ -94,3 +98,26 @@ persists, and so may the producer.
 - It is not a theory of personal identity. Branching shows it is not one.
 - It does not say any reinstatement counts. A10's duplicate is excluded by
   requiring descent.
+
+## Note of 2026-10-18: a relation between episodes, and branching restated
+
+A3 of the exchange of 2026-10-17: "**Dynamical separation and endogenous
+maintenance are properties of processes. Historical continuity is a
+relation between processes at different times.**" A4's revised candidate:
+"Historical continuity is a relation between organizational episodes, not
+simply another dynamical property of an episode", and "causal transmission
+alone does not settle whether A and B are numerically the *same*
+collective." Neither cited this claim. Arm C of [CASE-tmpxqgai](../cases.d/CASE-tmpxqgai.md) is its
+dormant coalition as a construction: a rule passed through an archive
+between two episodes that never run together, where intervening on the
+earlier rule changes the later behaviour.
+
+A24's Proposition 3 restated this claim's second half: "Construct an
+organizational configuration capable of producing two successors, each
+preserving specified organizational features of the predecessor", so
+"This relation cannot alone be numerical identity, because numerical
+identity cannot branch." A24: "This makes CLAIM-287 precise without
+requiring an entire metaphysics of personal identity." It did not cite
+[THEORY-447](../theory.d/THEORY-447.md), Parfit's branching argument, which already grounds the claim,
+and it only sketches the construction. Nothing new to the claim beyond
+arm C.

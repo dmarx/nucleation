@@ -46,6 +46,8 @@ summary: >-
   the learned-structure line.
 supports:
 - CLAIM-187
+complements:
+- CLAIM-tmpuia0a
 ---
 <!-- inactive-ok-file: THEORY-111 THEORY-112 THEORY-113 THEORY-115 THEORY-116 THEORY-108 CLAIM-187 — Proposed; the readings the protocol is assembled from, a case for it, and the claim that carries it further, open -->
 

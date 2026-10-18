@@ -46,3 +46,25 @@ An individual case would be a second realizer of [CLAIM-099](../claims.d/CLAIM-0
 ## What would answer it
 
 An experiment that cuts one maintaining link, such as safety behaviour, while holding the regime's content fixed, and produces lasting change that the same exposure without the cut does not. Or individual data showing hysteresis.
+
+## Note of 2026-10-18: overcontrol, and an organizational transfer
+
+The exchange of 2026-10-17 brought a treatment literature this question did
+not list. A42, at the owner's U42 prompt on ACT and DBT, added Lynch's
+radically open DBT, which "explicitly addresses maladaptive *overcontrol*,
+rather than treating deficient self-control as the primary problem". In this
+question's terms overcontrol is a candidate individual-scale protective
+lock-in whose maintaining link is inhibition itself: a regime of control that
+restricts the openness and feedback that would show it is no longer needed.
+The evidence is thin. A42: "promising but not definitive", with one
+randomized trial (Lynch et al. 2020) and one systematic review (Hatoum and
+Burton 2024). Neither is held yet.
+
+A42 then ran the transfer the other way, from the individual to the
+organization: tighter safeguards that yield "Less disclosure of near misses"
+and "Fewer challenges to mistaken decisions". That is filed as
+[CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md), whose defeater includes this question: the organizational
+form must predict something the individual-scale lock-in account does not.
+
+A29 §8 offered a dynamical form for "individual data showing hysteresis",
+ż = μz − z³ + h, which [TERM-020](../terms.d/TERM-020.md)'s note sets out with its caveat.

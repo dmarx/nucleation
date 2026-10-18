@@ -21,6 +21,7 @@ summary: >-
   individual-scale case (Sections 1, 3.5).
 variants:
 - CASE-051
+- CASE-tmpffqbr
 illustrates:
 - CLAIM-261
 ---
@@ -57,3 +58,25 @@ goal. Blocking the websites is A6's commitment, "an arrangement in which a
 present configuration of operators constrains the authority allocations
 available to their future configurations" ([CLAIM-122](../claims.d/CLAIM-122.md)). Workbench entry of
 2026-10-13, 21:29.
+
+## Note of 2026-10-18: three freedoms, and a manuscript that opens with this case
+
+A11 §4 of the exchange of 2026-10-17 re-derived the second half of this
+case: "A person who restricts access to a distraction might reduce
+immediate behavioral flexibility while increasing their ability to pursue
+an endorsed project." It split it in three, freedom to commit, freedom
+under commitment and freedom to revise: "None can replace the others."
+Blocking the websites uses the first and narrows the second, and whether
+the writer keeps the third is open. So a precommitment shrinks what is
+reachable while making the endorsed project realizable, and reachable-set
+size is not monotone with autonomy ([CLAIM-tmpilfhr](../claims.d/CLAIM-tmpilfhr.md), [CLAIM-tmph678z](../claims.d/CLAIM-tmph678z.md)).
+
+The manuscript proposal of that exchange opens with this case and does not
+cite it. A12 §1: "Begin with a familiar case: an agent reflectively
+endorses completing a difficult project but repeatedly acts otherwise."
+A15 §1 opens with three agents, the first of whom "endorses an action but
+finds it prohibitively difficult to perform", and the second "reliably
+acts on an endorsed commitment but cannot reconsider it effectively"
+([CLAIM-099](../claims.d/CLAIM-099.md)). See the note of 2026-10-18 on [CLAIM-027](../claims.d/CLAIM-027.md). [CASE-tmpiyvbk](CASE-tmpiyvbk.md) models
+the case: the volition moves the balance of authority without moving the
+regime, and a change in the structure of the competition switches it.

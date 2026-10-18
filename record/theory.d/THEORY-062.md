@@ -46,6 +46,8 @@ summary: >-
 answers:
 - QUESTION-015
 - QUESTION-054
+supports:
+- CLAIM-tmpmr1t8
 ---
 <!-- inactive-ok-file: THEORY-056 THEORY-045 — Proposed; accounts this one bears on, with the bearing stated and nothing resting on them -->
 <!-- inactive-ok-file: THEORY-070 THEORY-067 — new in this batch; accounts this one is set beside -->

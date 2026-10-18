@@ -36,6 +36,8 @@ summary: >-
   distinction between *claimed precedence* and *endorsed authority* may be
   essential to modeling internal conflict." It joins [THEORY-055](../theory.d/THEORY-055.md) to the
   endorsement scheme. It does not say which wins.
+supports:
+- CLAIM-tmpyk3it
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -64,3 +66,20 @@ relations. This claim splits precedence into a claim and a grant.
   case where the claim outruns the grant and still governs.
 - It does not say the grant is made by a separate regulator. On [THEORY-056](../theory.d/THEORY-056.md)
   it is made by other motive states, and [QUESTION-054](../questions.d/QUESTION-054.md) is open.
+
+## Note of 2026-10-18: the gap as frustrated precedence
+
+A34 §3 of the exchange of 2026-10-17 restated this claim's gap as p_i − w_i,
+"a candidate indicator of frustrated precedence when the quantities have
+been defined on comparable scales", and called it "the missing bridge"
+between Frijda and the endorsement model. It is this claim's gap, not an
+extension of it. A34 added the caution the claim's own "What it does not
+say" implies: "Nor does disagreement between claimed and granted
+authority necessarily indicate dysfunction: a good organization may
+correctly prevent an unreliable process from taking control." And it
+widened what frustration may depend on: "not merely on incompatible
+goals, but on a process's inability to acquire the authority needed to
+pursue a goal that remains consequential to the organization." The
+frustration account rests on this claim ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)): a demand that
+is not jointly realizable is a precedence claimed and not granted. Whether
+grants follow the demands that bind is [QUESTION-tmpkzu6g](../questions.d/QUESTION-tmpkzu6g.md).

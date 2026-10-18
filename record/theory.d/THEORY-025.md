@@ -39,6 +39,7 @@ summary: >-
   not say capabilities are the right replacement.
 supports:
 - CLAIM-060
+- CLAIM-tmph678z
 ---
 <!-- inactive-ok-file: THEORY-411 — Proposed; named in Connections as the positive structure, nothing here rests on it -->
 

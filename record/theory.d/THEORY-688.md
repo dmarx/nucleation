@@ -22,6 +22,8 @@ summary: >-
   separate, proposed account [THEORY-484](THEORY-484.md).
 presupposed_by:
 - THEORY-484
+supports:
+- CLAIM-tmp0wvwc
 ---
 <!-- inactive-ok-file: THEORY-062 THEORY-484 — Proposed; named in Connections, not leaned on -->
 

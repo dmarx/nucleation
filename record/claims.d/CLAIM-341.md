@@ -274,3 +274,37 @@ outcome, is not part of this claim:
   shape of this claim's diachronic loop. And his condition for objectivity,
   that measurement must not influence the laws it measures, is close to
   [CLAIM-342](CLAIM-342.md)'s anchor.
+
+## Note of 2026-10-18: two appearances in the exchange of 2026-10-17, one beyond what Slovic shows
+
+**A21 §14, a recursive judgment model.** A21 wrote
+
+  j_t = J(x_t, c_t, n_t),  c_{t+1} = F(c_t, j_t, a_t, w_t),  n_{t+1} = G(n_t, j_t, feedback_t),
+
+and: "The judgment is both an output of the current evaluative organization
+and a possible input to its future organization." That is this claim's
+loop, a second appearance, in the normative setting, and A21 cited the
+counter ([CLAIM-337](CLAIM-337.md)) and not this claim. A21 drew the counter's warning
+correctly: "recursive cognition and internally generated policy changes are
+not automatically evidence of distinctive volitional authorship." Two
+differences from this claim. A21's context update takes the action a_t, so
+its loop runs through action, which this claim denies is needed. And it
+adds an update of the standards n, which this claim does not have; that
+part is the will-organization line's revisable governance, and A21 §14's
+"our multiscale theory cannot always assume a fixed normative target" is
+[QUESTION-112](../questions.d/QUESTION-112.md)'s moving decision family.
+
+**A37, a dynamic reading of Slovic.** A37 linked [NOTE-949](../notes.d/NOTE-949.md) to this claim and
+concluded that "an endorsement mechanism may not be aggregating fixed
+preferences. It may be **participating in the production of the
+preferences it aggregates**", with the cycle context → local preference
+construction → endorsement → future context. The link is the record's, and
+the cycle is this claim's diachronic form. But this claim's own limit on
+Slovic stands: every result "compares elicitation procedures", and Slovic
+"never follows a constructed preference into a later judgement, so it
+supports the synchronic reading this claim sets aside, not the diachronic
+one it holds." The step from constructed preference to future context is
+A37's, not Slovic's. Feldman and Lynch ([LIT-1196](../literature.d/LIT-1196.md)) remain the one reading
+that supports it.
+
+The status is unchanged.

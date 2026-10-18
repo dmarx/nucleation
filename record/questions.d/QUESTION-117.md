@@ -73,3 +73,22 @@ role-sensitive recovery, persistence through operator turnover) that the
 coupled meaning–authority model produces and they cannot at matched
 complexity. [CLAIM-330](../claims.d/CLAIM-330.md)'s instability condition is the linear part
 any of them would have to reproduce.
+
+## Note of 2026-10-18: a crossed ablation, and the condition it must meet
+
+A32 of the exchange of 2026-10-17 proposed a design for this question while
+applying the coupled model to learning: crossed ablations in a learner with
+specialized operators, an influence-allocation mechanism and an internal
+estimate of strain, in four conditions (strain represented or not, able to
+change endorsement or not). Its prediction is not lower loss in the fully
+coupled condition but "distinctive **persistent regulatory modes**:
+coordinated shifts in which operators are recruited, which evidence is
+inspected, and which adaptation strategies are maintained". And it named this
+question's condition without citing it: "the model must make a prediction
+that its constituent frameworks do not make separately."
+
+The design answers this question only if a persistent mode appears in the
+coupled condition that a model of evolving influence with fixed operators
+does not produce at matched complexity. The comparison classes are the ones
+above, and [CLAIM-297](../claims.d/CLAIM-297.md)'s defeater, reproduction by a single adaptive-retrieval
+process, is the same test.

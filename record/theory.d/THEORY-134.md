@@ -23,6 +23,7 @@ supports:
 - CLAIM-079
 - CLAIM-185
 - CLAIM-195
+- CLAIM-tmpilfhr
 ---
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for a parallel -->
 <!-- inactive-ok-file: LIT-738 — Unavailable, unread; Aubin's monograph, named as the general theory the notes restrict -->
@@ -84,3 +85,26 @@ closed or locally compact K.
   a case where a degraded state was still inside the capture basin of the
   coral-dominated one, once herbivory was restored. The parallel is the
   record's.
+
+## Note of 2026-10-18: an endogenous constraint set, the third time
+
+A6 §4 of the exchange of 2026-10-17 proposed the extension this reading's
+title marks as missing. Let an organizational variable z govern the
+policies and the viability set: ẋ = f(x, u, w; z), ż = g(z, x, u, w),
+K = K(z), with the joint set 𝒞 = {(x, z) : x ∈ K(z)}, and for a boundary
+function h the robust controlled-invariance condition
+sup_u inf_w [∇_x h·f + ∇_z h·g] ≥ 0 at h = 0. A6's own limit: "This
+identifies when the organization can keep its state inside its admissible
+region. It does not yet show who produced the region or why those
+constraints count as the system's own." And: "an engineer could have
+predetermined the entire update law."
+
+This is the third time the record meets the constraint set fixed from
+outside the dynamics: in this reading, in [CLAIM-195](../claims.d/CLAIM-195.md) (for an argument, K
+"is fixed by an amendable decision, not discovered"), and now in A6. A6
+gives a space in which to ask whose K it is, not an answer, and a
+counterfactual test: "disable the internal processes that maintain the
+boundary and measure whether the system loses its capacity to remain in
+the joint viability set" ([QUESTION-086](../questions.d/QUESTION-086.md)). It stays an open direction. The
+reading is unchanged. [CLAIM-tmpilfhr](../claims.d/CLAIM-tmpilfhr.md)'s comparison of freedoms inherits
+the given K.
