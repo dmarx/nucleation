@@ -45,6 +45,8 @@ summary: >-
   which no protocol of that kind supplies.
 ---
 
+<!-- inactive-ok-file: CLAIM-025 CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-tmp55mls THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
+
 # CLAIM-tmpp9ox0: A self-governing organization's robustness to compromised constituents is a property of the processes that allocate, audit and revise authority, not only of its constraints on harmful acts, and the safeguards that block capture also restrict the disagreement and revision that self-governance needs, so security and self-governance trade off and are not one achievement
 
 ## The claim

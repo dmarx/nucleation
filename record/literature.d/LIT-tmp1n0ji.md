@@ -25,7 +25,7 @@ summary: >-
   Joint Task Force (2020). NIST Special Publication 800-53, Revision 5: the catalogue of security and privacy controls for federal information systems and organizations, among them separation of duties (AC-5) and least privilege (AC-6).
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmp1n0ji: Security and Privacy Controls for Information Systems and Organizations
 
 Joint Task Force (2020). *Security and Privacy Controls for Information Systems and Organizations*. NIST Special Publication 800-53, Revision 5. Gaithersburg, MD: National Institute of Standards and Technology. doi:10.6028/NIST.SP.800-53r5.

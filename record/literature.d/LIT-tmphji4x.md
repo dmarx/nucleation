@@ -28,7 +28,7 @@ summary: >-
   Guida, Minutola & Presti (2026). Organizational flexibility is not the aggregate of flexible individuals but a pattern of values-consistent action that is propagated or extinguished; whether a rise in individual flexibility reaches the organization depends on the members' leverage over the consequences colleagues meet and on whether the culture reinforces or penalizes such action.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmphji4x: Propagation, not aggregation: linking individual psychological flexibility to organizational functioning
 
 Guida, S., Minutola, C. & Presti, G. (2026). Propagation, not aggregation: linking individual psychological flexibility to organizational functioning. *Frontiers in Psychology* 17: 1918803. doi:10.3389/fpsyg.2026.1918803.

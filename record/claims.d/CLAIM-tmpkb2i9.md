@@ -49,6 +49,8 @@ summary: >-
   governs it.
 ---
 
+<!-- inactive-ok-file: CLAIM-016 CLAIM-174 CLAIM-284 CLAIM-288 CLAIM-tmpw4w7a THEORY-047 THEORY-054 THEORY-616 — Proposed or Deferred; open claims and readings, and a deferred claim cited in the body only, nothing here rests on their being settled -->
+
 # CLAIM-tmpkb2i9: An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization
 
 ## The claim

@@ -26,7 +26,7 @@ summary: >-
   Castro & Liskov (1999). A replication algorithm that tolerates Byzantine faults in asynchronous networks such as the Internet and is fast enough to use: a Byzantine-fault-tolerant NFS built on it was only 3% slower than unreplicated NFS.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpgtm89: Practical Byzantine Fault Tolerance
 
 Castro, M. & Liskov, B. (1999). Practical Byzantine Fault Tolerance. In *Proceedings of the Third Symposium on Operating Systems Design and Implementation (OSDI '99)*, New Orleans. USENIX Association. Journal version: Castro & Liskov (2002), *ACM Transactions on Computer Systems* 20(4): 398–461, doi:10.1145/571637.571640.

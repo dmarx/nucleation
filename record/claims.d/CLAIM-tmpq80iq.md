@@ -41,6 +41,8 @@ summary: >-
   different question.
 ---
 
+<!-- inactive-ok-file: CLAIM-194 CLAIM-284 CLAIM-287 CLAIM-tmp55mls THEORY-232 — Proposed; open claims and readings this one rests on or extends, cited as open -->
+
 # CLAIM-tmpq80iq: Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
 
 ## The claim

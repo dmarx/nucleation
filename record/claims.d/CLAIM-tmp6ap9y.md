@@ -45,6 +45,8 @@ summary: >-
   definitive".
 ---
 
+<!-- inactive-ok-file: CLAIM-025 CLAIM-156 CLAIM-tmp55mls THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
+
 # CLAIM-tmp6ap9y: An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
 ## The claim

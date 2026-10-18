@@ -40,6 +40,8 @@ summary: >-
   individuation while width merely provides redundant capacity".
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpq80iq THEORY-186 THEORY-187 THEORY-195 THEORY-200 THEORY-206 THEORY-212 — Proposed; readings cited with their stated limits, and an open claim -->
+
 # CLAIM-tmppk4ya: The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size
 
 ## The claim

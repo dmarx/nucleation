@@ -27,7 +27,6 @@ summary: >-
   Sengupta, Tozzi, Cooray, Douglas & Friston (2016). Proposes that the brain and other self-organised biological systems can be described with the apparatus of a gauge theory built on approximate Bayesian inference, in which a system resolves uncertainty about its milieu by changing its internal states or its relation to the environment.
 ---
 
-<!-- inactive-ok-file: QUESTION-tmpxpu3p — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpbqsxz: Towards a Neuronal Gauge Theory
 
 Sengupta, B., Tozzi, A., Cooray, G. K., Douglas, P. K. & Friston, K. J. (2016). Towards a Neuronal Gauge Theory. *PLoS Biology* 14(3): e1002400. doi:10.1371/journal.pbio.1002400.

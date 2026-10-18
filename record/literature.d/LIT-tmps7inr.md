@@ -25,7 +25,7 @@ summary: >-
   Lynch et al. (2020). In a trial of 250 adults with refractory depression, RO DBT plus usual treatment lowered Hamilton depression scores by 5.40 points against usual treatment at 7 months, but the differences at the 12-month primary end-point (2.15) and at 18 months (1.69) were not significant; psychological flexibility and emotional coping were better throughout.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmps7inr: Refractory depression – mechanisms and efficacy of radically open dialectical behaviour therapy (RefraMED): findings of a randomised trial on benefits and harms
 
 Lynch, T. R., Hempel, R. J., Whalley, B., Byford, S., Chamba, R., Clarke, P., Clarke, S., Kingdon, D. G., O'Mahen, H., Remington, B., Rushbrook, S. C., Shearer, J., Stanton, M., Swales, M., Watkins, A. & Russell, I. T. (2020). Refractory depression – mechanisms and efficacy of radically open dialectical behaviour therapy (RefraMED): findings of a randomised trial on benefits and harms. *British Journal of Psychiatry* 216(4): 204–212. doi:10.1192/bjp.2019.53.

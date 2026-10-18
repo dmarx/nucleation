@@ -21,6 +21,7 @@ tags:
 date: '2026-10-18'
 line:
 - will-organization
+- distributed-agency
 rests_on:
 - CLAIM-277
 - CLAIM-331
@@ -41,6 +42,8 @@ summary: >-
   standard for when revision is warranted is not supplied, and is
   QUESTION-087's open problem.
 ---
+
+<!-- inactive-ok-file: CLAIM-159 CLAIM-277 CLAIM-331 CLAIM-tmp6ap9y CLAIM-tmpp9ox0 THEORY-067 — Proposed; open claims and readings this one rests on or places itself against, cited as open -->
 
 # CLAIM-tmp0wvwc: Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve
 

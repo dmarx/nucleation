@@ -26,7 +26,7 @@ summary: >-
   Edmondson (1999). In a field study of 51 work teams in a manufacturing company, team psychological safety, a shared belief that the team is safe for interpersonal risk-taking, was associated with learning behavior while team efficacy was not, and learning behavior mediated between psychological safety and team performance.
 ---
 
-<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpnh4cq: Psychological Safety and Learning Behavior in Work Teams
 
 Edmondson, A. (1999). Psychological Safety and Learning Behavior in Work Teams. *Administrative Science Quarterly* 44(2): 350–383. doi:10.2307/2666999.

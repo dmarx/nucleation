@@ -24,6 +24,8 @@ summary: >-
   independent scoring. Federated learning is the natural testbed. Not run.
 ---
 
+<!-- inactive-ok-file: CLAIM-288 CLAIM-342 CLAIM-tmpp9ox0 — Proposed; the claims this proposed study would test or is bounded by, cited as open -->
+
 # CASE-tmp4nzjz: Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators
 
 ## The case
