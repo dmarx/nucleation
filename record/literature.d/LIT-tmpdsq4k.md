@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A41 of the exchange named "Carnegie Mellon's CERT insider-threat research" as a source family for organizational cases of compromise, and A43, A44 and A47 returned to it. Ak named the research, not an edition; this is the current one. Bears on CLAIM-tmpp9ox0 and CASE-tmp4nzjz, as the documented cases a proposed study of internal compromise would draw on.
+A41 of the exchange named "Carnegie Mellon's CERT insider-threat research" as a source family for organizational cases of compromise, and A43, A44 and A47 returned to it. Ak named the research, not an edition; this is the current one. Bears on [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) and [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md), as the documented cases a proposed study of internal compromise would draw on.

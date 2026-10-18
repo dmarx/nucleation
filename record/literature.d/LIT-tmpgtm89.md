@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A41 of the exchange called it "a central reference" for the owner's U41 question of governance under compromised constituents, and noted its limit: "A Byzantine protocol generally takes the specification of correct behavior as given." Bears on CLAIM-tmpp9ox0 and CASE-tmp4nzjz. The anthology holds Byzantine-robust learning (ANTH-LIT-257, ANTH-LIT-344), not this distributed-systems paper.
+A41 of the exchange called it "a central reference" for the owner's U41 question of governance under compromised constituents, and noted its limit: "A Byzantine protocol generally takes the specification of correct behavior as given." Bears on [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) and [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md). The anthology holds Byzantine-robust learning ([ANTH-LIT-257](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-257.md), [ANTH-LIT-344](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-344.md)), not this distributed-systems paper.

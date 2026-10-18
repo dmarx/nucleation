@@ -41,6 +41,8 @@ summary: >-
   inflexibility account, not a rival.
 answers:
 - QUESTION-045
+supports:
+- CLAIM-tmpyk3it
 ---
 <!-- inactive-ok-file: THEORY-050 THEORY-058 — Proposed; relations stated in prose, nothing here rests on them -->
 

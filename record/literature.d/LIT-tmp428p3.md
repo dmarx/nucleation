@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A27 of the exchange gave it as the longer history of the distinction between functional and phenomenal binding. Bears on CLAIM-tmpk7n2q and CASE-tmps7vk0. A reading should first confirm that this paper, not the issue introduction, is the one that draws the distinction.
+A27 of the exchange gave it as the longer history of the distinction between functional and phenomenal binding. Bears on [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) and [CASE-tmps7vk0](../cases.d/CASE-tmps7vk0.md). A reading should first confirm that this paper, not the issue introduction, is the one that draws the distinction.

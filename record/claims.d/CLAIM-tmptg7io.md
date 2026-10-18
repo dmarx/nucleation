@@ -23,11 +23,11 @@ grounds:
 - THEORY-040
 summary: >-
   A45's, U45 of the exchange of 2026-10-17, against the owner's
-  non-domination criterion (CLAIM-tmpqofon) read through its economy: "a
+  non-domination criterion ([CLAIM-tmpqofon](CLAIM-tmpqofon.md)) read through its economy: "a
   system whose subordinate processes have been conditioned never to
   object might exhibit perfect local harmony", and "A quiet subordinate
-  process isn't necessarily a satisfied one." It is THEORY-040's
-  manipulation objection, and QUESTION-071, applied to the new criterion.
+  process isn't necessarily a satisfied one." It is [THEORY-040](../theory.d/THEORY-040.md)'s
+  manipulation objection, and [QUESTION-071](../questions.d/QUESTION-071.md), applied to the new criterion.
   It does not say the criterion fails, only that cost cannot certify it.
   The authenticity line was set aside on 2026-10-05; whether it reopens
   is the owner's call.
@@ -39,9 +39,9 @@ summary: >-
 
 ## The objection
 
-The owner's criterion (CLAIM-tmpqofon) marks authenticity by higher-level
+The owner's criterion ([CLAIM-tmpqofon](CLAIM-tmpqofon.md)) marks authenticity by higher-level
 processes not needing to impose themselves, and the owner tied that to a
-saving in effort (CLAIM-tmpmr1t8). A45, at U45 of the exchange of
+saving in effort ([CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md)). A45, at U45 of the exchange of
 2026-10-17, added *contestability*, for this reason:
 
 > Otherwise, a system whose subordinate processes have been conditioned
@@ -59,9 +59,9 @@ counterfactually, not inferred from presently low intervention costs." A45
 closed on it: "**low strain alone cannot establish authenticity**: a
 dominated organization can be efficient."
 
-This is THEORY-040's objection in a new place. A condition stated only in
+This is [THEORY-040](../theory.d/THEORY-040.md)'s objection in a new place. A condition stated only in
 present structure is met by an agent whose structure was installed. Low
-supervisory cost is a present-structure mark. QUESTION-071 asks the
+supervisory cost is a present-structure mark. [QUESTION-071](../questions.d/QUESTION-071.md) asks the
 general form: can a will-organization be manipulated without anything in
 its present structure showing it?
 
@@ -89,7 +89,7 @@ can "recover effective influence" when its conditions return.
 Every discriminating test is an intervention or a history. None reads
 the difference from cost. That is the objection.
 
-The organizational form is March's (THEORY-142): a code that learns only
+The organizational form is March's ([THEORY-142](../theory.d/THEORY-142.md)): a code that learns only
 from members who conform loses what deviation would have taught it, and
 fast socialization makes the organization worse. A conditioned process is
 a member socialized too fast.
@@ -100,7 +100,7 @@ a member socialized too fast.
   as A45 and A46 state it, survives the objection. What fails is reading
   it from the economy.
 - **That every quiet process is suppressed.** Agreement in value
-  (CLAIM-162) is also quiet.
-- **That history settles it.** THEORY-040 notes that no historical
+  ([CLAIM-162](CLAIM-162.md)) is also quiet.
+- **That history settles it.** [THEORY-040](../theory.d/THEORY-040.md) notes that no historical
   condition in the record is shown to escape its own objection, and
-  CLAIM-016's manipulation defeater is still outstanding.
+  [CLAIM-016](CLAIM-016.md)'s manipulation defeater is still outstanding.

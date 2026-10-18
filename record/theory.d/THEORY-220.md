@@ -45,6 +45,7 @@ summary: >-
   malfunction) is deferred to another paper.
 supports:
 - CLAIM-288
+- CLAIM-tmpt75xe
 answers:
 - QUESTION-087
 ---
@@ -157,7 +158,7 @@ detect, impossible.
 ## Note of 2026-10-18: a contribution measure of the kind the promote_when asks for, not yet passing its test
 
 A16 of the exchange of 2026-10-17, under the owner's question about
-normativity from first principles (QUESTION-tmpowurn), proposed the model
+normativity from first principles ([QUESTION-tmpowurn](../questions.d/QUESTION-tmpowurn.md)), proposed the model
 this entry's promote_when asks for, contribution to self-maintenance
 defined from the dynamics alone:
 
@@ -172,7 +173,7 @@ It does not yet meet the promote_when's own test. Any component whose
 removal shortens persistence scores positive, so Δ_p as stated cannot tell
 functions "from mere causal contributions to persistence that no one counts
 as functional". It was not applied to the flame, the protocell or the
-designed controller. THEORY-628 (Di Paolo) is a further objection to the
+designed controller. [THEORY-628](THEORY-628.md) (Di Paolo) is a further objection to the
 step A16 takes from self-maintenance to "endogenous conditions of success
 and failure": persistence against cessation is an all-or-nothing norm
 "available to an observer, not to the system", and a graded norm needs

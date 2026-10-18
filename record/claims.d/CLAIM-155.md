@@ -27,6 +27,7 @@ uses:
 - TERM-023
 complements:
 - CLAIM-170
+- CLAIM-tmpk7n2q
 summary: >-
   The owner's proposal of 2026-10-11, stated with the assistant. Agency
   can be had without will: a thermostat with its designers, or a training

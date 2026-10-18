@@ -17,6 +17,10 @@ works:
 summary: >-
   Sections 6.10 and 7.3: "An unjust institution may be highly viable."
   Viability licenses conditional functional judgment only.
+complements:
+- CLAIM-tmph678z
+supports:
+- CLAIM-tmpt75xe
 ---
 
 # CLAIM-075: Viability does not establish what ought to persist
@@ -32,12 +36,12 @@ paper keeps them functional and conditional.
 The exchange of 2026-10-17 re-derived this claim without citing it, then
 cited it.
 
-- **A16**, on normativity from first principles (QUESTION-tmpowurn):
+- **A16**, on normativity from first principles ([QUESTION-tmpowurn](../questions.d/QUESTION-tmpowurn.md)):
   "**self-generated normativity and normative legitimacy must remain
   separate**". Its cases, "A virus can maintain and reproduce its
   organization. A cancer can maintain and expand itself. A destructive
   institution can preserve its own authority relations", are this claim's
-  and CLAIM-060's. A16 cited CLAIM-060 and not this.
+  and [CLAIM-060](CLAIM-060.md)'s. A16 cited [CLAIM-060](CLAIM-060.md) and not this.
 - **A25**, on a fourth paper about authority between agents: an
   institution can possess "**effective authority**—the ability to make rules
   practically consequential—without necessarily possessing **legitimate
@@ -48,5 +52,5 @@ cited it.
   persistence does not establish its moral authority. Organizations can
   maintain harmful purposes." The same guard, uncited.
 
-The claim is also the limit CLAIM-tmpt75xe rests on and QUESTION-tmpq5i0m
+The claim is also the limit [CLAIM-tmpt75xe](CLAIM-tmpt75xe.md) rests on and [QUESTION-tmpq5i0m](../questions.d/QUESTION-tmpq5i0m.md)
 starts from. Nothing here changes it.

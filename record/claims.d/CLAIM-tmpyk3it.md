@@ -31,6 +31,7 @@ grounds:
 - THEORY-217
 complements:
 - CLAIM-153
+- CLAIM-tmp442x9
 uses:
 - TERM-tmp9lmlt
 summary: >-
@@ -43,8 +44,11 @@ summary: >-
   which were never filed. The sharp edge: it says what to start from, not
   that a frustrated organization is distressed or feels anything. The
   claim bears on the organizational-affect line, which is Deferred
-  (CLAIM-039); whether that line reopens is the owner's decision, not
+  ([CLAIM-039](CLAIM-039.md)); whether that line reopens is the owner's decision, not
   made here.
+supports:
+- CLAIM-tmp55mls
+- CLAIM-tmpl8vsy
 ---
 
 # CLAIM-tmpyk3it: The primitive for an organization's regulatory difficulty is frustration, not distress: a failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance, distinct from strain, where they are realizable at a cost, and from distress, a possible integrated response to either
@@ -73,15 +77,15 @@ A33's three definitions:
   strain or frustration, which may or may not have phenomenal
   significance."
 
-The term is TERM-tmp9lmlt, in the ordinal form the owner's U37 correction
+The term is [TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md), in the ordinal form the owner's U37 correction
 gave it. The claim is that frustration, so defined, is where the account
 of an organization's regulatory difficulty should start, for three
 reasons.
 
 - **It is stated in the record's existing terms.** A demand that is not
-  jointly realizable is a precedence claimed and not granted: CLAIM-283's
+  jointly realizable is a precedence claimed and not granted: [CLAIM-283](CLAIM-283.md)'s
   gap between what a process claims and what the organization grants is
-  the governance side of it, and CLAIM-027's maintained relations
+  the governance side of it, and [CLAIM-027](CLAIM-027.md)'s maintained relations
   (precedence, jurisdiction and the rest) are what select among
   admissible transformations. A33 §4 put the stages in a row:
   represented demands g_i, allocated authority w_i, effective
@@ -98,15 +102,15 @@ reasons.
   incompatible; an optimizer that cannot use an available resolution; an
   endorsement system that reproduces its own conflicts. The first is
   strain or mere shortfall, the second structural frustration, the last
-  two governance-induced (CLAIM-tmpl8vsy). An alarm can fire in all four.
+  two governance-induced ([CLAIM-tmpl8vsy](CLAIM-tmpl8vsy.md)). An alarm can fire in all four.
 
-The record's readings already do it this way. Watson (THEORY-232) makes
+The record's readings already do it this way. Watson ([THEORY-232](../theory.d/THEORY-232.md)) makes
 the frustration of parts' mutual constraints the quantity an organization
 relieves, and higher agency the relief. Self-determination theory
-(THEORY-052) keeps need frustration apart from low satisfaction.
-Barandiaran (THEORY-217) states malfunction against the minimum change an
+([THEORY-052](../theory.d/THEORY-052.md)) keeps need frustration apart from low satisfaction.
+Barandiaran ([THEORY-217](../theory.d/THEORY-217.md)) states malfunction against the minimum change an
 organization's viability requires, a requirement on admissible change, not
-a feeling. CLAIM-153 has a frustration with the same shape, pairs fine and
+a feeling. [CLAIM-153](CLAIM-153.md) has a frustration with the same shape, pairs fine and
 a whole not, in a model of contexts.
 
 ## What it supersedes
@@ -126,11 +130,11 @@ downstream applications, not premises").
   suffering, or moral standing".
 - **That frustration is bad.** It can be the right outcome of different
   demands, and a gap between claimed and granted precedence can be good
-  governance: A34 on CLAIM-283, "a good organization may correctly
+  governance: A34 on [CLAIM-283](CLAIM-283.md), "a good organization may correctly
   prevent an unreliable process from taking control".
 - **That the strain/frustration line is absolute.** It moves with what is
   counted admissible. A budget can make a realizable collection
   unrealizable (A33 §3A), which is the defeater's pressure point.
 - **That the line of organizational affect is reopened.** The claim is
   filed in distributed-agency and will-organization. Whether a frustration
-  account reopens CLAIM-039 and its questions is for the owner.
+  account reopens [CLAIM-039](CLAIM-039.md) and its questions is for the owner.

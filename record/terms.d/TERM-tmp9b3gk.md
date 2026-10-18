@@ -14,8 +14,10 @@ summary: >-
   and the owner's wording "as its explicit technical characterization",
   and split "order" into organizational and reflective order. The term
   names the position. It does not assert it: the indexing is
-  CLAIM-tmpt75xe's thesis, and the realism about standards is
-  QUESTION-tmpq5i0m's open question.
+  [CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md)'s thesis, and the realism about standards is
+  [QUESTION-tmpq5i0m](../questions.d/QUESTION-tmpq5i0m.md)'s open question.
+used_by:
+- CLAIM-tmpt75xe
 ---
 
 # TERM-tmp9b3gk: relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: a normative judgment is indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard, and once these are fixed it is correct or incorrect whatever the judge prefers
@@ -61,7 +63,7 @@ A18: "That third condition is the difficult one. The first two can establish
 objective *conditional* normative judgments without yet establishing
 objective authority for the conditions themselves." The term is used with
 all three. A claim that meets only the first two is indexed judgment, which
-is CLAIM-tmpt75xe. Whether the third can be met is QUESTION-tmpq5i0m.
+is [CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md). Whether the third can be met is [QUESTION-tmpq5i0m](../questions.d/QUESTION-tmpq5i0m.md).
 
 The distinction the term draws is between a judgment's dependence on its
 relata and its dependence on the judge. It admits the first and denies the
@@ -76,7 +78,7 @@ second.
   rather than a species of constrained relativism?" Until the third
   condition is met the challenge stands, and the position may be
   constrained relativism under another name.
-- **Not Frankfurt's view.** NOTE-264 records Frankfurt "Against normative
+- **Not Frankfurt's view.** [NOTE-264](../notes.d/NOTE-264.md) records Frankfurt "Against normative
   realism": "I do not believe that anything is inherently important", and
   the objectivity of normative standards "consists just in the fact that it
   is outside the scope of our voluntary control". That grounds standards in
@@ -89,7 +91,7 @@ second.
   structure alone."
 - **Not a derivation from physics.** A18's velocity analogy "is
   methodological, not a derivation of moral realism from physics", and the
-  gauge reading of the indices is QUESTION-tmpxpu3p, open.
+  gauge reading of the indices is [QUESTION-tmpxpu3p](../questions.d/QUESTION-tmpxpu3p.md), open.
 - **Not A21's "multiscale relational normative realism"** as a separate
   term. A21 and A22 use that name for the same position with scale
   stressed. It is this term.

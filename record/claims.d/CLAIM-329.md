@@ -41,6 +41,8 @@ summary: >-
   record meets "causal-organizational continuity": [CLAIM-280](CLAIM-280.md) noted A10
   §4.3's of 2026-10-13 and did not file it. It does not say what must be
   transmitted, or settle branching successors.
+illustrated_by:
+- CASE-tmpxqgai
 ---
 
 <!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

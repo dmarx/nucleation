@@ -22,6 +22,7 @@ answered_by:
 - THEORY-056
 - THEORY-062
 - THEORY-153
+- CLAIM-tmpmr1t8
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -80,16 +81,16 @@ The owner, at U45 of the exchange of 2026-10-17: "processes which can
 navigate disagreement amongst themselves require fewer resources from the
 system than processes which need to activate additional subsystems to
 resolve disagreement." That presupposes both sides of this question: a
-level that can be recruited, at a cost (THEORY-070's specification
-system), and regimes that can settle a conflict without it (THEORY-056,
-THEORY-062). On this view a governing level exists but is not routinely
+level that can be recruited, at a cost ([THEORY-070](../theory.d/THEORY-070.md)'s specification
+system), and regimes that can settle a conflict without it ([THEORY-056](../theory.d/THEORY-056.md),
+[THEORY-062](../theory.d/THEORY-062.md)). On this view a governing level exists but is not routinely
 recruited when the regimes coordinate among themselves. A45: "The
 higher-order governance remains available but ceases to be the main
 mechanism producing each successful action." The institutional form is
-THEORY-149's "cheap local conflict resolution" under nested layers of
+[THEORY-149](../theory.d/THEORY-149.md)'s "cheap local conflict resolution" under nested layers of
 governance; none of the exchange's turns cited it.
 
-Filed as CLAIM-tmpmr1t8, Proposed, which answers this question in part.
+Filed as [CLAIM-tmpmr1t8](../claims.d/CLAIM-tmpmr1t8.md), Proposed, which answers this question in part.
 It does not say which conflicts admit local settlement, or what recruits
 the level when they do not. The residue of 2026-10-13, whether the
 aggregation rule no process controls is itself a governing level, is

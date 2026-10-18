@@ -39,6 +39,8 @@ summary: >-
   images is an analogy.
 answers:
 - QUESTION-039
+supports:
+- CLAIM-tmppk4ya
 ---
 <!-- inactive-ok-file: THEORY-195 THEORY-186 QUESTION-025 — Proposed or open; cited as the account this one extends and those it is set beside -->
 

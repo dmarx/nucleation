@@ -18,10 +18,12 @@ summary: >-
   Person A ("repeated escalation") and Person B ("local coordination") on
   one writing project. Both exert real effort and produce work of equal
   quality; only the route by which conflict is settled differs. It is the
-  variation CASE-013 and CASE-051 lack: there one writer's effort varies
+  variation [CASE-013](CASE-013.md) and [CASE-051](CASE-051.md) lack: there one writer's effort varies
   across afternoons, here effort in the work is held high in both. It is
-  used for CLAIM-tmpmr1t8. Stipulated, so it shows what the claim
+  used for [CLAIM-tmpmr1t8](../claims.d/CLAIM-tmpmr1t8.md). Stipulated, so it shows what the claim
   distinguishes, not that people differ this way.
+supports:
+- CLAIM-tmpmr1t8
 ---
 <!-- inactive-ok-file: CLAIM-162 CLAIM-261 THEORY-070 CLAIM-tmpmr1t8 CLAIM-tmpqofon CLAIM-tmptg7io — Proposed; the claims and reading the case is set beside, open -->
 
@@ -70,22 +72,22 @@ intervention", compared "with similar execution costs".
 
 ## Beside the writer cases
 
-CASE-013 and CASE-051 are one writer on three afternoons: avoidance
+[CASE-013](CASE-013.md) and [CASE-051](CASE-051.md) are one writer on three afternoons: avoidance
 wins, a device enforces, and an absorbed afternoon on which the writer
 reports "no struggle and no rule". Effort varies with the route. Here two
 people both work hard, so effort in the work is held high in both and
 only the cost of settling the conflict differs. That separates execution
 effort from conflict-resolution effort, which the three afternoons
-cannot. Person B is not CASE-051's absorbed writer: B's processes still
-disagree, and B is not synchronized in TERM-050's sense. B is
-synchronized in the broader sense of TERM-tmpnfj83. Person A is the
-divided agent of CLAIM-261, who acts as one and pays for it.
+cannot. Person B is not [CASE-051](CASE-051.md)'s absorbed writer: B's processes still
+disagree, and B is not synchronized in [TERM-050](../terms.d/TERM-050.md)'s sense. B is
+synchronized in the broader sense of [TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md). Person A is the
+divided agent of [CLAIM-261](../claims.d/CLAIM-261.md), who acts as one and pays for it.
 
 ## What it can show
 
 That "effort" in the record's effort claims names two costs, and that a
 case can hold one fixed while the other varies. It is what
-CLAIM-tmpmr1t8 needs: the claim is about the second cost only.
+[CLAIM-tmpmr1t8](../claims.d/CLAIM-tmpmr1t8.md) needs: the claim is about the second cost only.
 
 ## What it cannot show
 
@@ -93,7 +95,7 @@ CLAIM-tmpmr1t8 needs: the claim is about the second cost only.
   than in execution effort. It is stipulated.
 - That B's arrangement is B's own. The case is the same from outside if
   B's dissenting processes were conditioned never to object
-  (CLAIM-tmptg7io). The owner's authenticity criterion
-  (CLAIM-tmpqofon) needs more than this case gives.
+  ([CLAIM-tmptg7io](../claims.d/CLAIM-tmptg7io.md)). The owner's authenticity criterion
+  ([CLAIM-tmpqofon](../claims.d/CLAIM-tmpqofon.md)) needs more than this case gives.
 - That the processes are separable modules. A45's caption: "Conceptual
   comparison, not a claim about identifiable neural modules."

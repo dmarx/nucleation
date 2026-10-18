@@ -17,8 +17,10 @@ summary: >-
   scheduler. A31's Systems A, B and C move the regulation of conflict from
   the optimizer into the learner by stages, and its crossed interventions
   say where a regulatory condition sits. Stipulated: the outcomes of the
-  interventions are not known, except the optimizer arm in THEORY-253's
+  interventions are not known, except the optimizer arm in [THEORY-253](../theory.d/THEORY-253.md)'s
   solvable model.
+supports:
+- CLAIM-tmpw4w7a
 ---
 <!-- inactive-ok-file: CLAIM-tmpw4w7a CLAIM-157 CLAIM-288 THEORY-253 — Proposed; the claim this case grounds and the claims and reading it uses, cited as open -->
 
@@ -89,13 +91,13 @@ monitor."
 
 - Where, under a stated setup, the record places a condition of training:
   in System A, with the network–optimizer pair or the training process
-  (CLAIM-tmpw4w7a), because the relations that decide which updates take
+  ([CLAIM-tmpw4w7a](../claims.d/CLAIM-tmpw4w7a.md)), because the relations that decide which updates take
   effect are set outside the network.
 - What evidence would move it inward: the second intervention coming out
   positive, or System C's ablations breaking its regulation.
 - The optimizer arm has a documented instance in a solvable model. Under
   gradient descent, independent skills are learned together; under sign
-  descent, they compete and emerge in sequence (THEORY-253). The network's
+  descent, they compete and emerge in sequence ([THEORY-253](../theory.d/THEORY-253.md)). The network's
   tasks are the same in both, so the order of learning is the optimizer's.
 
 ## What it cannot show
@@ -103,8 +105,8 @@ monitor."
 - Given its standing, how any real run comes out. The case states the
   design and the reading of each outcome, not the results.
 - That System C, if built, sets its own norms. Its tasks and the
-  capacities it protects are still chosen by the modeller (CLAIM-288).
+  capacities it protects are still chosen by the modeller ([CLAIM-288](../claims.d/CLAIM-288.md)).
 - That the unit picked for the training dynamics is the right unit for
   every question. For output prediction the network is a natural unit
-  (CLAIM-152, CLAIM-157).
+  ([CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-157](../claims.d/CLAIM-157.md)).
 - Anything about feeling.

@@ -91,14 +91,14 @@ it.
   claim is not filed. A7 also named the regress, "where does the internal
   controller itself get maintained?", which is A10 §3.3's scale problem
   above, and the negative control, "an externally programmed controller
-  that adapts its own rules", which is CASE-081 and CLAIM-288.
+  that adapts its own rules", which is [CASE-081](../cases.d/CASE-081.md) and [CLAIM-288](../claims.d/CLAIM-288.md).
 - **A24's Proposition 1.** "Construct two systems with the same observed
   linearized interaction structure over a specified operating regime. One
   has a boundary parameter maintained externally; the other has a variable
   representing a boundary maintained through internal processes." Its
   conclusion: "An observational coupling criterion cannot generally
   identify the source of boundary maintenance." Written out with
-  parameters, it would demonstrate CLAIM-194. A24 only sketches it.
+  parameters, it would demonstrate [CLAIM-194](../claims.d/CLAIM-194.md). A24 only sketches it.
 - **A44, the question again.** It proposed "an open question asking
   whether systems with identical outward behavior can be distinguished by
   how their evaluation, influence, and revision mechanisms are organized",
@@ -110,5 +110,5 @@ it.
   These are candidate answers to "by what intervention": each mechanism
   is exposed by its own perturbation, short of removing anything.
 
-CASE-tmpi1bt1, the fold in boundary maintenance, is silent on who
+[CASE-tmpi1bt1](../cases.d/CASE-tmpi1bt1.md), the fold in boundary maintenance, is silent on who
 maintains b, and says so.

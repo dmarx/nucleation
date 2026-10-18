@@ -28,6 +28,8 @@ summary: >-
   for it. The sharp edge: the cost is relative to a fixed input norm, and
   rescaling the input makes every b cost the same, so comparing costs
   across systems needs inputs in common units.
+supports:
+- CLAIM-tmpilfhr
 ---
 
 # CLAIM-tmp1glr8: Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank
@@ -44,7 +46,7 @@ controllability rank." A15 kept it, adding "proportional to b⁻²".
 Rank is a yes-or-no summary: the system is controllable for every b ≠ 0
 and not at b = 0. The cost varies continuously and without bound inside
 the controllable range. That is the sense in which controllability "isn't
-binary" (the owner, U9), and it is why CLAIM-tmpilfhr counts control cost
+binary" (the owner, U9), and it is why [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md) counts control cost
 as a dimension of its own.
 
 ## Proof
@@ -93,7 +95,7 @@ Gramians of the same rank can have any eigenvalues, and so any costs.
 - **Not a psychological measure.** A9: "Importantly, a Gramian is not
   automatically a meaningful psychological measure." The claim is linear
   algebra. That a habit is costly to change in this sense is
-  CLAIM-tmpilfhr's interpretive step, not this claim's.
+  [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md)'s interpretive step, not this claim's.
 - **Not new.** A9: "This is already a standard result from linear control
   theory." The record holds it as a proof because it holds no source for
   it.

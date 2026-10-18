@@ -53,7 +53,7 @@ A case where the regulatory role is met and feeling is absent, or where feeling 
 The exchange of 2026-10-17 drew this question's table twice without citing
 it. A27 §8, "A tension in Nucleation that we should preserve", set Frijda and
 Huebner, which "leave room for emotion-like action readiness without felt
-experience", against Veit (THEORY-101), on which "treating felt valence as
+experience", against Veit ([THEORY-101](../theory.d/THEORY-101.md)), on which "treating felt valence as
 something necessarily over and above regulatory integration may itself be a
 mistake". Its rule: "A unifying paper should **not** define emotions as
 nonphenomenal simply to secure the possibility of collective emotion. Nor
@@ -65,8 +65,8 @@ organization* to *felt valence*. Our framework can help articulate that
 dispute, but does not yet decide it."
 
 The owner reopened the organizational-affect line at U27–U28 (see the note on
-CLAIM-039). This question is where the binding thesis CLAIM-tmpk7n2q meets
-THEORY-101: if the integrated state is the feeling, the claim's illusion
+[CLAIM-039](../claims.d/CLAIM-039.md)). This question is where the binding thesis [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) meets
+[THEORY-101](../theory.d/THEORY-101.md): if the integrated state is the feeling, the claim's illusion
 empties for that case. Whether the question leaves Deferred is the owner's
 decision, not made here.
 

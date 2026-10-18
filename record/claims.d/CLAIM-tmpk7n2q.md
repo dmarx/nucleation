@@ -47,9 +47,11 @@ summary: >-
   the owner, not the binding", and an illusion requires "which system
   constructs or adopts the misleading representation". The two are filed
   as one claim. It rests on no claim: the organizational-affect claim it
-  would rest on, CLAIM-039, is Deferred, and whether that line reopens is
+  would rest on, [CLAIM-039](CLAIM-039.md), is Deferred, and whether that line reopens is
   the owner's decision, not made here. The sharp edge: it says nothing
   about whether the integrated state is felt.
+illustrated_by:
+- CASE-tmps7vk0
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 CLAIM-288 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
@@ -92,9 +94,9 @@ The claim has three parts.
 
 1. **The binding is real.** Appraisal, attention, action readiness and
    governance can be integrated into one organizational response, in
-   Frijda's sense of a mode of action readiness (THEORY-055) and
+   Frijda's sense of a mode of action readiness ([THEORY-055](../theory.d/THEORY-055.md)) and
    Huebner's of a group state that is not its members' states in
-   aggregation (THEORY-125). A27's mechanisms are shared evaluative
+   aggregation ([THEORY-125](../theory.d/THEORY-125.md)). A27's mechanisms are shared evaluative
    relevance, precedence and resource redistribution, mutual constraint,
    and persistence. A27: "A candidate collective emotion therefore has to
    be individuated through the organization's **integrated regulatory
@@ -102,14 +104,14 @@ The claim has three parts.
 2. **The single owner is a content.** A fifth mechanism, common
    attribution, is "binding in representation". What it presents as one
    owner is the content of a self-model the system does not recognise as a
-   model (THEORY-064), or an abstractum like a centre of gravity that
-   "can be authored by a process with no self in it" (THEORY-691). A26's
+   model ([THEORY-064](../theory.d/THEORY-064.md)), or an abstractum like a centre of gravity that
+   "can be authored by a process with no self in it" ([THEORY-691](../theory.d/THEORY-691.md)). A26's
    point against plain fictionalism keeps it causal: "self-representations
    may themselves be parts of the real causal organization they
    represent". A27 §12's loop runs from distributed regulation, through an
    integrated affective mode and a unified self-attribution, to changes in
    governance and further integration. The macrostate the attribution
-   compresses is real in THEORY-563's sense, a description that trades
+   compresses is real in [THEORY-563](../theory.d/THEORY-563.md)'s sense, a description that trades
    accuracy for compression: A27's z = C(x) is "a **task-relative
    sufficient statistic of distributed regulation**", "real for one
    explanatory target while hiding morally or phenomenologically important
@@ -121,25 +123,25 @@ The claim has three parts.
    multiplicity of mechanisms. In a firm the misattribution may be the
    members' or the public's, not the firm's. That makes the illusion a
    specific representational error, testable where it concerns control
-   (CASE-tmps7vk0).
+   ([CASE-tmps7vk0](../cases.d/CASE-tmps7vk0.md)).
 
-In TERM-045's words, the claim is about the subject sense (1) and the
+In [TERM-045](../terms.d/TERM-045.md)'s words, the claim is about the subject sense (1) and the
 integrated sense (6). It says that the owner presented by a unified
-self-model is neither. TERM-045 has no sense for the content of a self-model,
+self-model is neither. [TERM-045](../terms.d/TERM-045.md) has no sense for the content of a self-model,
 a "modeled" self. A26's argument turns on one, and its absence is noted on
 that term.
 
 ## Where it sits in the record
 
-- It would rest on CLAIM-039, affective states as properties of
-  organized systems, which A27 cited as a ground. CLAIM-039 is Deferred with
+- It would rest on [CLAIM-039](CLAIM-039.md), affective states as properties of
+  organized systems, which A27 cited as a ground. [CLAIM-039](CLAIM-039.md) is Deferred with
   its line, so no edge is written. The owner reopened the line at U27–U28;
   whether it returns is the owner's decision.
-- CLAIM-165 and CLAIM-155 already hold that organization and
+- [CLAIM-165](CLAIM-165.md) and [CLAIM-155](CLAIM-155.md) already hold that organization and
   willed agency do not make a subject. A26's "Organizational individuality
   does not logically entail phenomenal subjecthood" is theirs. This claim
   adds what they lack: an account of why a subject seems present anyway.
-- It answers QUESTION-053 in part. That question sets a group subject,
+- It answers [QUESTION-053](../questions.d/QUESTION-053.md) in part. That question sets a group subject,
   "a state of the group not reducible to its members' states", against
   synchronized convergence. This claim separates the two halves of the
   first option: the state can be the group's, by integration, while the
@@ -147,15 +149,15 @@ that term.
 - A27 §7 adds a third quantity, self-attribution, beside integration and
   access: "apparent unity in the organization's reports may exceed the
   degree of information sharing actually present". That is filed as a note
-  on CLAIM-003 and QUESTION-061.
-- CLAIM-288 applies to any simulation built to test it: a self-model
+  on [CLAIM-003](CLAIM-003.md) and [QUESTION-061](../questions.d/QUESTION-061.md).
+- [CLAIM-288](CLAIM-288.md) applies to any simulation built to test it: a self-model
   the modeller writes is the modeller's, so a misattribution it produces
   shows what that content does, not that a distributed agent would come to
   hold it.
 
 ## The objections
 
-- **Drayson (THEORY-646).** A26 raised it against itself: "once those
+- **Drayson ([THEORY-646](../theory.d/THEORY-646.md)).** A26 raised it against itself: "once those
   functional relationships are specified, Drayson's objection becomes
   especially important: perhaps what the fictionalist calls a useful
   fiction is simply a genuine, relationally constituted self." Drayson's
@@ -167,23 +169,23 @@ that term.
   owner does match the distribution of control, Drayson is right and
   nothing is illusory. The claim survives only where a misdescription can
   be shown.
-- **Veit (THEORY-101), through QUESTION-059.** A27: "An accompanying
-  objection should reference THEORY-101 and the possibility that some
+- **Veit ([THEORY-101](../theory.d/THEORY-101.md)), through [QUESTION-059](../questions.d/QUESTION-059.md).** A27: "An accompanying
+  objection should reference [THEORY-101](../theory.d/THEORY-101.md) and the possibility that some
   kinds of coordinated valence already constitute felt states, rather than
   merely appearing to do so." If felt valence is the coordinated regulatory
   state, then the integrated response is felt and "my fear" is accurate.
   That does not restore a further owner. On Veit's identity the feeler is
   the organization. But it empties the claim for that case: nothing would
   be illusory except a metaphysical gloss. Which side is right is
-  QUESTION-059, Deferred with its line. CLAIM-039's note of
-  2026-10-12 already names THEORY-101 as the objection to answer first.
+  [QUESTION-059](../questions.d/QUESTION-059.md), Deferred with its line. [CLAIM-039](CLAIM-039.md)'s note of
+  2026-10-12 already names [THEORY-101](../theory.d/THEORY-101.md) as the objection to answer first.
 
 ## What it does not say
 
 - It does not say experience is unreal. A26 named the inference to refuse:
   "We can explain how self-models and organizational perspectives arise;
   therefore phenomenal experience does not exist. That does not follow."
-  Frankish's stronger thesis (THEORY-633) is a separate option, which
+  Frankish's stronger thesis ([THEORY-633](../theory.d/THEORY-633.md)) is a separate option, which
   A26 said "would need separate defense. It isn't a consequence of the
   first four papers."
 - It does not say a firm feels nothing, or that its members' feelings are
@@ -193,7 +195,7 @@ that term.
   addresses the middle two" of its five bindings (functional and
   temporal) "and has resources for explaining *representations* of the
   last two". Metzinger keeps the unity of experience apart from the
-  self-model (THEORY-063).
+  self-model ([THEORY-063](../theory.d/THEORY-063.md)).
 - It does not say every unified self-description misdescribes. A27's
   figure: "Neither representation must be false."
 - It does not let recognition settle standing. A26: an account of

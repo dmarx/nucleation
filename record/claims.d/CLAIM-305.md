@@ -34,6 +34,8 @@ summary: >-
   the observable, which can separate states. [MOM-CLM-099](https://github.com/dmarx/mathematics-of-meaning/blob/main/record/claims.d/CLM-099.md) records that the monograph
   uses "blow-up" in three senses; this records why the analogy cannot hold in any
   of them.
+complements:
+- CLAIM-tmpuia0a
 ---
 <!-- inactive-ok-file: THEORY-087 — Proposed; an account cited for what it states, nothing here rests on its being settled -->
 

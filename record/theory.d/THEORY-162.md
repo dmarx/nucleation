@@ -38,6 +38,7 @@ summary: >-
   recovers them, or that the three formalisms agree with each other.
 supports:
 - CLAIM-061
+- CLAIM-tmpt75xe
 ---
 <!-- inactive-ok-file: LIT-811 — Unavailable, no lawful full text; Stalnaker's "Assertion", named as the common origin -->
 <!-- inactive-ok-file: CLAIM-061 — Proposed; open, cited as the manuscript claim this bears on -->

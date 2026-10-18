@@ -25,9 +25,14 @@ uses:
 supports:
 - ARG-007
 - CLAIM-284
+- CLAIM-tmp6ap9y
+- CLAIM-tmpilfhr
+- CLAIM-tmpp9ox0
 illustrated_by:
 - CASE-036
 - CASE-075
+- CASE-tmpi1bt1
+- CASE-tmpiyvbk
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
 ---
@@ -56,13 +61,13 @@ in place."
   added in front, stated as degrees: "Those are distinct control
   capabilities with potentially different quantitative profiles." A9's
   Candidate C is this claim with endorsement added, and was not filed.
-  A9's "endorse" is the reflective sense, not TERM-053's.
+  A9's "endorse" is the reflective sense, not [TERM-053](../terms.d/TERM-053.md)'s.
 - **A11 §4.** "Freedom to commit: The capacity to choose and establish
   constraints", "Freedom under commitment: The viable alternatives
   remaining after the commitment", "Freedom to revise: The capacity to
   reconsider or exit the commitment under appropriate conditions". "None
   can replace the others." The third is this claim's capacity to transform
-  the organization. The case is CASE-013.
+  the organization. The case is [CASE-013](../cases.d/CASE-013.md).
 - A7 §4 and A8 §4 gave models in which a capacity is lost apart from the
-  regime it governs (CASE-tmpi1bt1, CASE-tmpiyvbk). The graded thesis built
-  on this claim is CLAIM-tmpilfhr.
+  regime it governs ([CASE-tmpi1bt1](../cases.d/CASE-tmpi1bt1.md), [CASE-tmpiyvbk](../cases.d/CASE-tmpiyvbk.md)). The graded thesis built
+  on this claim is [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md).

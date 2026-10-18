@@ -28,7 +28,7 @@ uses:
 summary: >-
   A33 §5 of the exchange of 2026-10-17: "Zero aggregate gradient does
   not imply absence of frustrated demands." With L₁ = (θ − 1)² and
-  L₂ = (θ + 1)² at θ = 0 (CASE-tmpuc54q), the equal-weight gradient is
+  L₂ = (θ + 1)² at θ = 0 ([CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md)), the equal-weight gradient is
   zero and the aggregate is at its global minimum, while each loss is 1
   and wants the opposite move. In general a vanishing positive
   combination of gradients is either every gradient zero or a
@@ -37,6 +37,8 @@ summary: >-
   about what a monitor reading it represents. A29's "the unity of the
   distress signal need not arise from the unity of the underlying
   causes" is the interpretive reading, kept apart in the body.
+grounds:
+- CASE-tmpuc54q
 ---
 
 # CLAIM-tmpf67p3: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand is locally satisfied and when unsatisfied demands cancel, and the second is a point where no update improves them all
@@ -46,10 +48,10 @@ summary: >-
 A33 §5: "Zero aggregate gradient does not imply absence of frustrated
 demands." Say demands i = 1, …, n with losses L_i are **reconciled** at θ
 when every g_i = ∇L_i(θ) is zero: no demand has a first-order improving
-direction. They are **frustrated** there (TERM-tmp9lmlt, local form) when
+direction. They are **frustrated** there ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md), local form) when
 some g_i ≠ 0 and no direction lowers every L_i.
 
-**The construction** (CASE-tmpuc54q). L₁(θ) = (θ − 1)², L₂(θ) = (θ + 1)²,
+**The construction** ([CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md)). L₁(θ) = (θ − 1)², L₂(θ) = (θ + 1)²,
 θ ∈ ℝ. At θ = 0, g₁ = −2 and g₂ = 2. With weights ½, ½ the aggregate
 gradient is ½(−2) + ½(2) = 0. The aggregate L = ½L₁ + ½L₂ = θ² + 1 is not
 only stationary at θ = 0 but globally minimized there. Yet L₁ = L₂ = 1,
@@ -73,7 +75,7 @@ distribution of frustration among constituent objectives."
 
 ## The interpretive reading, not part of the claim
 
-A29, before frustration replaced distress (CLAIM-tmpyk3it): "the unity of
+A29, before frustration replaced distress ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)): "the unity of
 the distress signal need not arise from the unity of the underlying
 causes. Many independently generated problems can be summarized by one
 regulatory alarm or evaluation channel." A33 §5 drew the same moral for a
@@ -83,9 +85,9 @@ to an interpreter or self-model that treats aggregate stability as
 evidence that all relevant demands have been reconciled". These say what
 a reader of the scalar might wrongly infer. The demonstration says only
 that the inference is invalid. Whether any organization's monitor makes
-it is not shown. It is the learning-system case of CLAIM-060 (an
+it is not shown. It is the learning-system case of [CLAIM-060](CLAIM-060.md) (an
 encompassing success does not establish its constituents') and of
-CLAIM-276 (stability is no evidence of fidelity).
+[CLAIM-276](CLAIM-276.md) (stability is no evidence of fidelity).
 
 ## What it does not say
 

@@ -43,6 +43,8 @@ summary: >-
   look alike. The sharp edge: Byzantine fault tolerance protects a fixed
   specification; this claim is about protecting the capacity to change it,
   which no protocol of that kind supplies.
+illustrated_by:
+- CASE-tmp4nzjz
 ---
 
 <!-- inactive-ok-file: CLAIM-025 CLAIM-276 CLAIM-277 CLAIM-281 CLAIM-tmp55mls THEORY-135 THEORY-141 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
@@ -67,11 +69,11 @@ Three steps make the claim.
    authority w = (1 − η)b + ηEᵀw, an insider who can move relations in E,
    the evidence of competence, or the authorization rules need not
    sabotage the current decision. "It could instead increase its future
-   authority." CLAIM-282 shows why forbidding self-endorsement does not
+   authority." [CLAIM-282](CLAIM-282.md) shows why forbidding self-endorsement does not
    stop this: reciprocal and cyclic endorsements recycle authority, and an
    operator "can change its authority by changing what others endorse".
    A41 separates "**Adversarial authority capture**" from "**Endogenous
-   authority capture**", the second being CLAIM-277's loop that "entrenches
+   authority capture**", the second being [CLAIM-277](CLAIM-277.md)'s loop that "entrenches
    whatever gained influence early". The mechanisms overlap and the
    explanations differ.
 2. **So robustness lives in the governing processes.** A41's reading of
@@ -79,10 +81,10 @@ Three steps make the claim.
    bounded jurisdiction, separation of duties, revocable authorization as
    suspension, independent audit ("Prevent the actor being evaluated from
    controlling all the evidence of its competence"), distributed approval,
-   incident recovery. Role-indexed endorsement (CLAIM-281) is how a
+   incident recovery. Role-indexed endorsement ([CLAIM-281](CLAIM-281.md)) is how a
    process can be trusted as a critic without control over policy. And
    because an operative regime, the governing organization among regimes
-   and the capacity to transform it fail separately (CLAIM-025), recovery
+   and the capacity to transform it fail separately ([CLAIM-025](CLAIM-025.md)), recovery
    has two levels. A41: "Removing a compromised process may restore
    immediate functioning while leaving the organization unable to change
    the governance arrangement that enabled the compromise."
@@ -109,7 +111,7 @@ organization's current leadership."
 The empirical anchor A41 gave for the cost side is Edmondson (1999): across
 51 work teams, psychological safety went with team learning behaviour. A
 safeguard that treats dissent as suspect would cut that. In the record's
-terms this is CLAIM-276: a population can raise the coherence of a shared
+terms this is [CLAIM-276](CLAIM-276.md): a population can raise the coherence of a shared
 interpretation while lowering its fidelity to evidence and the plurality of
 live alternatives. A41's federated-learning row is the same: a "Distributed
 but valid minority signal" is a "Productive difference that should not
@@ -131,7 +133,7 @@ class A_f of insider behaviours and admissible non-anticipating policies Π,
 K_f^rob(O) = {S ⊆ D₀ : ∃π ∈ Π ∀a ∈ A_f, Y(O, π, a) ∈ ⋂_{i∈S} A_i}. "The
 quantifier order matters": one policy must work against every attack in the
 class. If A_f contains the no-attack behaviour, K_f^rob is contained in the
-ordinary compatibility complex (CLAIM-tmp55mls), and the gap between them is
+ordinary compatibility complex ([CLAIM-tmp55mls](CLAIM-tmp55mls.md)), and the gap between them is
 what compromise costs. A41's questions follow: which relations are single
 points of failure, "especially authority over auditing, evaluation, or
 governance revision", and whether robustness itself shrinks the complex.
@@ -141,14 +143,14 @@ governance revision", and whether robustness itself shrinks the complex.
 The record's evolutionary readings put a higher-level unit's stability in
 policing processes, not in the constituents' good behaviour. A new
 collective succeeds only if higher-level selection trumps lower-level
-selection, "usually through policing or aligned interests" (THEORY-141), and
+selection, "usually through policing or aligned interests" ([THEORY-141](../theory.d/THEORY-141.md)), and
 complex multicellularity can be read as "a system for detecting and
-suppressing cheaters" (THEORY-135). What the claim adds is the second half:
+suppressing cheaters" ([THEORY-135](../theory.d/THEORY-135.md)). What the claim adds is the second half:
 an organization that also revises its own governance must protect the
 revising processes, and a policing strong enough to stop every cheater can
 stop legitimate change too.
 
-The case is CASE-tmp4nzjz, A41's proposed study.
+The case is [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md), A41's proposed study.
 
 ## What it does not say
 
@@ -156,11 +158,11 @@ The case is CASE-tmp4nzjz, A41's proposed study.
   maximal openness is safe. A42 on the same design: "The prediction is not
   that maximal openness wins."
 - It does not give a criterion that tells insider threat from internal
-  opposition. A41 says the question is substantive; QUESTION-087 asks
+  opposition. A41 says the question is substantive; [QUESTION-087](../questions.d/QUESTION-087.md) asks
   whether any standard internal to the organization could answer it.
 - It does not say the trade-off is fixed. Role-limited and revisable
   safeguards may move it; the claim is that it exists to be moved.
 - It does not say organizational stability makes current commitments
   legitimate. A41's proposed claim ends: "without assuming that
   organizational stability establishes the legitimacy of its current
-  commitments" (CLAIM-060).
+  commitments" ([CLAIM-060](CLAIM-060.md)).

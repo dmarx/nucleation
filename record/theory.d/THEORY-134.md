@@ -23,6 +23,7 @@ supports:
 - CLAIM-079
 - CLAIM-185
 - CLAIM-195
+- CLAIM-tmpilfhr
 ---
 <!-- inactive-ok-file: THEORY-128 — Proposed; the reef-recovery account, named for a parallel -->
 <!-- inactive-ok-file: LIT-738 — Unavailable, unread; Aubin's monograph, named as the general theory the notes restrict -->
@@ -99,11 +100,11 @@ constraints count as the system's own." And: "an engineer could have
 predetermined the entire update law."
 
 This is the third time the record meets the constraint set fixed from
-outside the dynamics: in this reading, in CLAIM-195 (for an argument, K
+outside the dynamics: in this reading, in [CLAIM-195](../claims.d/CLAIM-195.md) (for an argument, K
 "is fixed by an amendable decision, not discovered"), and now in A6. A6
 gives a space in which to ask whose K it is, not an answer, and a
 counterfactual test: "disable the internal processes that maintain the
 boundary and measure whether the system loses its capacity to remain in
-the joint viability set" (QUESTION-086). It stays an open direction. The
-reading is unchanged. CLAIM-tmpilfhr's comparison of freedoms inherits
+the joint viability set" ([QUESTION-086](../questions.d/QUESTION-086.md)). It stays an open direction. The
+reading is unchanged. [CLAIM-tmpilfhr](../claims.d/CLAIM-tmpilfhr.md)'s comparison of freedoms inherits
 the given K.

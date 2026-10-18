@@ -16,8 +16,16 @@ summary: >-
   (governance-induced). In its basic form it is an empty intersection of
   acceptance sets and needs no common scale. It is distinct from strain,
   where the demands are jointly realizable at a cost, and from distress, a
-  possible integrated response to either. It is not CLAIM-153's physics
+  possible integrated response to either. It is not [CLAIM-153](../claims.d/CLAIM-153.md)'s physics
   sense, though it shares that sense's three-demand minimal obstruction.
+used_by:
+- CLAIM-tmp442x9
+- CLAIM-tmp55mls
+- CLAIM-tmpf67p3
+- CLAIM-tmpl8vsy
+- CLAIM-tmpue67e
+- CLAIM-tmpuia0a
+- CLAIM-tmpyk3it
 ---
 
 # TERM-tmp9lmlt: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
@@ -43,9 +51,9 @@ access to an ordering, even if it doesn't give us a true measure." A37
 granted it ("I agree with your correction") and demoted the cardinal
 residual of A35 to "a quantitative refinement of a more basic
 order-theoretic feasibility problem, not the definition of frustration
-itself". The refinements are CLAIM-tmpue67e (the residual Φ and its dual)
-and CLAIM-tmpl8vsy (structural against governance-induced). The
-compatibility complex of a collection of demands is CLAIM-tmp55mls's.
+itself". The refinements are [CLAIM-tmpue67e](../claims.d/CLAIM-tmpue67e.md) (the residual Φ and its dual)
+and [CLAIM-tmpl8vsy](../claims.d/CLAIM-tmpl8vsy.md) (structural against governance-induced). The
+compatibility complex of a collection of demands is [CLAIM-tmp55mls](../claims.d/CLAIM-tmp55mls.md)'s.
 
 A33's wording, the source of the term: "Frustration: Available ways of
 advancing one objective obstruct another, or the current governance cannot
@@ -58,7 +66,7 @@ the transformations counted as admissible, and to the organization whose
 governance selects. A change in any of the three changes the verdict.
 Ordinary training is the case A33 §7 named, where the objectives are the
 trainer's: "frustration in this system is primarily a property of an
-externally constituted optimization problem" (and see CLAIM-288).
+externally constituted optimization problem" (and see [CLAIM-288](../claims.d/CLAIM-288.md)).
 
 ## What it is not
 
@@ -77,18 +85,18 @@ externally constituted optimization problem" (and see CLAIM-288).
 - **Not pairwise conflict.** Two demands conflict when their preferred
   directions disagree. Frustration is a property of the collection: every
   pair can be jointly realizable while the triple is not
-  (CLAIM-tmp55mls).
-- **Not CLAIM-153's frustration.** There, frustration is a nonzero
+  ([CLAIM-tmp55mls](../claims.d/CLAIM-tmp55mls.md)).
+- **Not [CLAIM-153](../claims.d/CLAIM-153.md)'s frustration.** There, frustration is a nonzero
   monodromy of offsets around a cycle of contexts, read off a frustrated XY
   energy. Here it is an empty intersection of acceptance sets over one
   space of transformations, with no torsor and no cohomology class. They
   share the shape that pairs can be fine and a whole not, and A37 warned
   that "Not every optimization conflict has a cohomology class".
-- **Not Watson's total frustration** (THEORY-232). Watson measures
+- **Not Watson's total frustration** ([THEORY-232](../theory.d/THEORY-232.md)). Watson measures
   frustration as the energy of the parts at equilibrium and compares
   totals, which is an aggregate. This term is a yes-or-no fact about a
   collection of demands before any total is formed.
-- **Not low satisfaction.** THEORY-052 holds the human case apart in the
+- **Not low satisfaction.** [THEORY-052](../theory.d/THEORY-052.md) holds the human case apart in the
   same way: Vansteenkiste, Ryan and Soenens treat need frustration, the
   active thwarting of a need, as distinct from a mere lack of its
   satisfaction. A demand far from met but jointly realizable with the

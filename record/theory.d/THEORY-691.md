@@ -33,6 +33,8 @@ summary: >-
   gravity is a legitimate posit that figures in explanations. It is a claim
   about selves, not about consciousness or about what makes a person
   persist.
+supports:
+- CLAIM-tmpk7n2q
 ---
 <!-- inactive-ok-file: THEORY-458 THEORY-490 THEORY-681 THEORY-684 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-043 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->

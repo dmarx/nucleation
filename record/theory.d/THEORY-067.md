@@ -54,6 +54,7 @@ supports:
 - CLAIM-169
 - CLAIM-159
 - CLAIM-198
+- CLAIM-tmp0wvwc
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; the rival account, declared -->
 <!-- inactive-ok-file: LIT-583 LIT-573 — Unavailable; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
@@ -185,7 +186,7 @@ emergence of "resolve" could be an interesting frame within which to
 examine our will-organization framework"). A37 cited this reading as "a
 particularly close antecedent" and listed bundling as one of six ways a
 long-term policy can prevail. The record's claim from the exchange is
-CLAIM-tmp0wvwc: resolve is a maintained organization of precedence,
+[CLAIM-tmp0wvwc](../claims.d/CLAIM-tmp0wvwc.md): resolve is a maintained organization of precedence,
 commitment and revision that keeps a policy effective across changing local
 evaluations while keeping the capacity to revise it. It grounds on this
 reading and does not rival it: Ainslie's bundling is a mechanism, and the
@@ -193,7 +194,7 @@ claim says what organization the mechanism must sit in to count as resolve.
 
 A42, on radically open DBT's "maladaptive *overcontrol*", did not connect it
 to Ainslie, whose account predicts over-control from rigid personal rules.
-What the record holds on that: NOTE-443 records it as claim C6, "Reliance on
+What the record holds on that: [NOTE-443](../notes.d/NOTE-443.md) records it as claim C6, "Reliance on
 personal rules predicts legalism, lapse districts, motivated misperception
 and over-control", argued and fitted to clinical observation with no test
 reported, and its summary says "compulsive over-control". This reading's

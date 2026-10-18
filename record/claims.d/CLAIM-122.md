@@ -29,6 +29,9 @@ summary: >-
   and escalation authority in a firm.
 illustrated_by:
 - CASE-074
+- CASE-tmpiyvbk
+complements:
+- CLAIM-tmpilfhr
 ---
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -57,16 +60,16 @@ citing it.
   governance relations, and measure whether the operative action
   changes.**" Its caveat: "Of course, an ordinary software scheduler can
   exhibit this. That would establish the functional distinction, not that
-  the scheduler possesses will." That is CLAIM-116: regulation, even
+  the scheduler possesses will." That is [CLAIM-116](CLAIM-116.md): regulation, even
   higher-order regulation, does not establish a will.
 - **A8 §5 separated the attitude from the machinery.** "**Higher-order
   volition is an attitude concerning what should be effective. Metacontrol
   is the causal machinery capable of altering what becomes effective.**
   They may be coupled; they are not identical." A8 uses "endorsement" in
-  the reflective, Frankfurtian sense. The record's endorsement (TERM-053)
+  the reflective, Frankfurtian sense. The record's endorsement ([TERM-053](../terms.d/TERM-053.md))
   is an effect of one process on another's share of influence, and is not
   Frankfurt's, so a filing from A8 says higher-order volition. A8's
-  candidate claim is this one with CLAIM-025, and was not filed. Its
+  candidate claim is this one with [CLAIM-025](CLAIM-025.md), and was not filed. Its
   defeater is worth keeping: "cases in which maintained authority
   relations add no explanatory or predictive power beyond the first-order
   motives and evaluative states alone." That is this claim's defeater,
@@ -78,5 +81,5 @@ citing it.
   ("Behavioral equivalence and organizational difference") kept it. No
   parameters were given.
 
-CASE-tmpiyvbk illustrates it: with the higher-order input held fixed, a
+[CASE-tmpiyvbk](../cases.d/CASE-tmpiyvbk.md) illustrates it: with the higher-order input held fixed, a
 change in the structure of the competition switches the regime.

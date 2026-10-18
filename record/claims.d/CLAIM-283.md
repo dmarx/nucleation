@@ -36,6 +36,8 @@ summary: >-
   distinction between *claimed precedence* and *endorsed authority* may be
   essential to modeling internal conflict." It joins [THEORY-055](../theory.d/THEORY-055.md) to the
   endorsement scheme. It does not say which wins.
+supports:
+- CLAIM-tmpyk3it
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -78,6 +80,6 @@ correctly prevent an unreliable process from taking control." And it
 widened what frustration may depend on: "not merely on incompatible
 goals, but on a process's inability to acquire the authority needed to
 pursue a goal that remains consequential to the organization." The
-frustration account rests on this claim (CLAIM-tmpyk3it): a demand that
+frustration account rests on this claim ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)): a demand that
 is not jointly realizable is a precedence claimed and not granted. Whether
-grants follow the demands that bind is QUESTION-tmpkzu6g.
+grants follow the demands that bind is [QUESTION-tmpkzu6g](../questions.d/QUESTION-tmpkzu6g.md).

@@ -25,6 +25,10 @@ summary: >-
   though made of humans; and cancer, autoimmunity and ecosystem collapse
   run the other way. The audit's "strong negative argument" — believed,
   and not in the paper, which leaves cross-scale relations to future work.
+complements:
+- CLAIM-tmpf67p3
+supports:
+- CLAIM-tmp679hm
 ---
 <!-- inactive-ok-file: THEORY-025 THEORY-150 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -68,7 +72,6 @@ A33 gave a formal analogue in training. Two task gradients that cancel give a
 zero aggregate gradient, and "the individual tasks remain unsatisfied": "Zero
 aggregate gradient does not imply absence of frustrated demands." The whole's
 measure shows no burden while each constituent demand is unmet. That is
-CLAIM-tmpf67p3. A33's own caution: "the analogy must not be taken as a claim
+[CLAIM-tmpf67p3](CLAIM-tmpf67p3.md). A33's own caution: "the analogy must not be taken as a claim
 that learning objectives have interests or rights."
 
-<!-- inactive-ok-file: CLAIM-tmpf67p3 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

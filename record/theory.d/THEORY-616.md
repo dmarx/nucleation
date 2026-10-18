@@ -34,6 +34,8 @@ summary: >-
   for attitudes rests on a tractability comparison never operationalised
   or measured; HHH+0 is "provisional", and its discriminating test is a
   conjecture. All the empirical support is second-hand and qualitative.
+supports:
+- CLAIM-tmpkb2i9
 ---
 <!-- inactive-ok-file: THEORY-173 THEORY-208 THEORY-490 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 

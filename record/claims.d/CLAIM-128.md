@@ -22,6 +22,8 @@ rests_on:
 complements:
 - CLAIM-033
 - CLAIM-240
+- CLAIM-tmp55mls
+- CLAIM-tmpilfhr
 uses:
 - TERM-043
 summary: >-
