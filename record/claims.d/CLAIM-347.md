@@ -12,9 +12,13 @@ history:
     The construction restated on attainable outcomes ℛ(𝒪), with improvement,
     maintenance and threshold demands distinguished. A weak-preference
     set is a legitimate maintenance demand; the earlier correction that
-    such a set is never a demand is withdrawn. What counts as frustration
-    is left to QUESTION-tmpyc009. At the review relayed by the owner on
-    2026-10-18; the claim is otherwise unchanged.
+    such a set is never a demand is withdrawn. Structural frustration is
+    defined as joint infeasibility, S ∉ 𝒦; relief is strict enlargement of
+    𝒦 under fixed reference demands, losing no compatible collection. The
+    organizational interpretation, structural frustration against
+    operative thwarting, is left to QUESTION-tmpyc009. At the reviews
+    relayed by the owner on 2026-10-18. Status stays Proposed: the
+    construction is well defined, its explanatory role is interpretive.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -132,13 +136,35 @@ the set of admissible updates d, and the improvement demands are
 stated with 𝒦 written as {S : ⋂_S A_i ≠ ∅}, the A_i read as the
 attainable points that meet each demand.
 
-The complex is a formal core. Whether every incompatibility it records,
-or every unmet demand, is frustration in the organizational sense is
-[QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)'s open question, not this claim's.
+**Structural frustration is defined by joint infeasibility.** Given an
+organization 𝒪, a reference collection of demands D and its
+compatibility complex 𝒦(𝒪; D), a collection S ⊆ D is structurally
+frustrated exactly when S ∉ 𝒦(𝒪; D): no outcome attainable under the
+specified constraints satisfies every demand in S simultaneously. With a
+horizon H and a budget B made explicit:
 
-**Relief (A37 §4C).** For the same declared demands I and the same
-acceptance conditions, a reorganization relieves frustration when
-𝒦_before ⊊ 𝒦_after. A37: "If the system simply deletes a difficult demand,
+  F_struct(𝒪, S; H, B)  iff  ℛ(𝒪; H, B) ∩ ⋂_{i∈S} A_i = ∅.
+
+This is a relational property of a collection of demands, relative to an
+organization, a horizon and an admissible set of transformations. It
+does not require cardinal utilities, experienced distress, or an
+identifiable process actively interfering with another. Minimal non-faces
+of 𝒦 identify the minimal structurally frustrated collections.
+
+The formal criterion is settled by the stated definitions. What remains
+open is its broader organizational interpretation ([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)):
+when structural incompatibility shows up as operative resistance or
+thwarting, whether operative thwarting can occur without structural
+incompatibility, and what evidence is needed to attribute either
+condition to a particular organizational bearer. In particular, merely
+failing to realize a jointly attainable set of requirements establishes
+neither structural frustration nor operative thwarting.
+
+**Relief (A37 §4C).** Relief of structural frustration is strict
+enlargement of the compatibility complex under fixed reference demands
+and acceptance conditions: 𝒦_before ⊊ 𝒦_after, so that at least one
+previously frustrated collection becomes jointly realizable and no
+previously compatible collection is lost. A37: "If the system simply deletes a difficult demand,
 it has changed the comparison problem rather than shown an expansion of
 its ability to realize the original demands." And: "two reorganizations
 may relieve different conflicts, with neither compatibility complex

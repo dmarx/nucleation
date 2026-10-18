@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Does frustration belong primarily to the structure of incompatible demands or to the dynamics in which a consequential demand meets resistance, and how are the two senses related, given that neither non-attainment, disagreement nor effort suffices for either?'
+title: 'How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent''s demands, and under what conditions can one occur without the other?'
 version: 1
 tags:
 - self-governance
@@ -10,26 +10,29 @@ date: '2026-10-18'
 line: distributed-agency
 summary: >-
   Raised in the reviews the owner relayed on 2026-10-18, after the filing
-  of the exchange of 2026-10-17. [TERM-060](../terms.d/TERM-060.md) defines frustration as joint
-  unrealizability under the organization's admissible transformations and
-  governance. A revision that redefined it as the obstruction of
-  consequential demands from realization was proposed and then withdrawn
-  before merge: it counted every unmet but attainable demand as
-  obstructed, which establishes non-attainment, not an obstruction. The
-  record's own precedents point two ways. Physics frustration ([CLAIM-153](../claims.d/CLAIM-153.md))
-  is the non-existence of a jointly consistent assignment, a structural
-  sense. Self-determination theory ([THEORY-052](../theory.d/THEORY-052.md)) separates need
-  frustration, active thwarting, from mere low satisfaction, an operative
-  sense. An answer says which sense is primary, or how they relate, and
-  defines each so that non-attainment, disagreement and high effort do not
-  suffice. Until then [TERM-060](../terms.d/TERM-060.md) stands, with its note of 2026-10-18.
+  of the exchange of 2026-10-17. Structural frustration has a settled
+  formal definition: a collection of demands is structurally frustrated
+  when no outcome attainable under the specified constraints meets them
+  all, S ∉ 𝒦(𝒪; D) ([CLAIM-347](../claims.d/CLAIM-347.md)). What is open is how it relates to
+  operative thwarting, where a particular constituent's live demand is
+  counteracted by an identifiable constraint or countervailing process.
+  Physics frustration ([CLAIM-153](../claims.d/CLAIM-153.md)) is the structural sense, and
+  self-determination theory's need thwarting ([THEORY-052](../theory.d/THEORY-052.md)) the operative
+  one. An answer says when structural incompatibility shows up as
+  thwarting, whether thwarting can occur where joint satisfaction is
+  possible, and what evidence attributes either to a bearer. Merely
+  failing to realize an attainable set of requirements is neither.
 ---
 
-# QUESTION-tmpyc009: Does frustration belong primarily to the structure of incompatible demands or to the dynamics in which a consequential demand meets resistance, and how are the two senses related, given that neither non-attainment, disagreement nor effort suffices for either?
+# QUESTION-tmpyc009: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?
 
 ## Why it is a question
 
-The frustration account ([TERM-060](../terms.d/TERM-060.md), [CLAIM-368](../claims.d/CLAIM-368.md)) is meant to explain how
+The formal core is not in question. [CLAIM-347](../claims.d/CLAIM-347.md) defines structural
+frustration as joint infeasibility of a collection of demands, and
+[TERM-060](../terms.d/TERM-060.md)'s note of 2026-10-18 points there. The question is about the
+organizational interpretation of that core. The frustration account
+([TERM-060](../terms.d/TERM-060.md), [CLAIM-368](../claims.d/CLAIM-368.md)) is meant to explain how
 processes meet constraints, resist one another, negotiate their
 differences and develop arrangements that relieve their conflicts. Three
 kinds of fact are close to it and are not the same.
@@ -59,7 +62,10 @@ Which one goes unmet depends on what the organization does. The
 obstruction belongs to the collection ([CLAIM-347](../claims.d/CLAIM-347.md)'s compatibility complex),
 not to a member.
 
-**Two precedents in the record point to two senses.**
+**Two precedents in the record, at two levels of attribution.** They are
+not competing definitions of one thing. Structural frustration belongs to
+a collection of demands; thwarting belongs to a particular constituent's
+demand.
 
 - **Structural.** In geometrically frustrated systems the interaction
   requirements cannot all be met at once. [CLAIM-153](../claims.d/CLAIM-153.md) states it as the
@@ -70,10 +76,20 @@ not to a member.
   can be insufficiently met without being thwarted.
 
 Both separate frustration from generic non-attainment, in different ways.
+They can meet. Two processes with individually attainable objectives that
+compete for one shared resource are structurally frustrated as a pair.
+That incompatibility can show up as repeated conflict and supervisory
+arbitration. Through differentiation they may acquire independent means,
+and then the incompatibility disappears and the resistance can fade
+([CASE-115](../cases.d/CASE-115.md)). The mathematics concerns the space of joint possibilities.
+The dynamics concerns how the organization meets, keeps and transforms
+them.
 
-## Candidate answers on record
+## Candidate accounts on record
 
-These are proposals, none adopted.
+These are proposals about the organizational interpretation, none adopted.
+The first was withdrawn because it made the interpretation do the work of
+the definition.
 
 1. **Frustration as obstructed realization.** Drafted by the assistant in
    the owner's review conversation of 2026-10-18 and relayed by the owner
@@ -129,11 +145,16 @@ in the entries as they now stand:
 
 ## What would answer it
 
-A definition of each sense such that a case of non-attainment with no
-incompatibility and no countervailing process falls under neither, plus
-an account of how the structural sense bears on the operative one. For
-example, it might say whether operative frustration requires a
-structural incompatibility among the live demands, or whether a single
-demand can be thwarted with no other demand involved. A construction
-that separates the two senses in each direction would settle whether
-they are one concept.
+An account of the relation between the two levels. It would say, first,
+when a structurally frustrated collection, S ∉ 𝒦, shows up as operative
+thwarting of some member's demand, and which member. Second, whether
+thwarting can occur where S ∈ 𝒦, so that joint satisfaction is possible
+and a countervailing process still counteracts a live demand. Third, what
+evidence attributes either condition to a particular bearer: for
+thwarting, more than an unsuccessful outcome, an identified constraint or
+countervailing mechanism, ideally shown by counterfactual intervention.
+Constructions that separate the two in each direction would show how
+independent they are. Governance-induced frustration, where an influence
+or control mechanism keeps an available joint satisfaction from becoming
+effective, is the case where the two meet through the organization's own
+governance ([CLAIM-357](../claims.d/CLAIM-357.md)).

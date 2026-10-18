@@ -11,9 +11,9 @@ history:
   note: >-
     Retitled at the review relayed by the owner on 2026-10-18: strain is an
     independent dimension, not the alternative to frustration, and the
-    claim no longer fixes frustration as joint unrealizability. Which sense
-    is primary is left to QUESTION-tmpyc009. The defeater is rewritten to
-    match.
+    claim points to CLAIM-347 for the structural definition and leaves the
+    relation to operative thwarting to QUESTION-tmpyc009. The defeater is
+    rewritten to match.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -151,11 +151,12 @@ downstream applications, not premises").
   neither. What moves with the admissible set is the frustration verdict.
   A budget can make a realizable collection unrealizable (A33 §3A), which
   is the defeater's pressure point.
-- **Which sense of frustration is primary.** The claim is that frustration
-  comes before distress. It does not settle whether frustration is
-  primarily the structure of incompatible demands or the dynamics in which
-  a live demand meets resistance, nor that every unmet demand is
-  frustrated. That is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md).
+- **That every unmet demand is frustrated, or how frustration is
+  attributed to a constituent.** The claim is that frustration comes
+  before distress. Its structural sense is defined exactly in
+  [CLAIM-347](CLAIM-347.md): joint infeasibility of a collection of demands. How that
+  relates to the operative thwarting of a particular constituent's demand
+  is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md).
 - **That the line of organizational affect is reopened.** The claim is
   filed in distributed-agency and will-organization. Whether a frustration
   account reopens [CLAIM-039](CLAIM-039.md) and its questions is for the owner.

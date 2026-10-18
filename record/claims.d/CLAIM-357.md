@@ -3,17 +3,18 @@ number: 357
 status: Proposed
 formerly:
 - CLAIM-tmpl8vsy
-title: 'The frustration residual and governance regret diagnose feasibility and avoidable shortfall, not thwarting: a positive residual says no admissible update meets every declared improvement, a positive regret says the actual update falls short of one that would, and neither says whether a demand was actively thwarted, by which process, or whether it was rightly subordinated; aggregate performance does not tell infeasibility from avoidable shortfall, and the multipliers that certify infeasibility are not the weights governance assigns'
+title: 'The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update''s worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns'
 version: 2
 history:
 - version: 2
   date: '2026-10-18'
   note: >-
-    Retitled at the review relayed by the owner on 2026-10-18: Φ and Γ
-    diagnose infeasibility and avoidable shortfall, and do not by themselves
-    establish thwarting, its source, or whether the demand should have
-    been met. The governance-induced case is narrowed to shortfall caused
-    by the allocation of influence. The mathematics is unchanged.
+    Retitled at the reviews relayed by the owner on 2026-10-18. Φ, realized
+    violation (m(d_actual) > 0, equivalently Γ > −Φ when Φ ≤ 0) and Γ are
+    distinguished, with a counterexample in which Γ > 0 while every
+    requirement is met. None of them establishes thwarting or a governance
+    cause; governance-induced frustration is narrowed to shortfall the
+    allocation of influence is shown to cause.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,18 +46,19 @@ uses:
 summary: >-
   A34 §4 and A35 §3.3 of the exchange of 2026-10-17, restated at A39 §2C
   and A40 §3.4, from A33's "irreducible conflict" and "manufactured
-  frustration". With Φ the best achievable worst shortfall and Γ the
-  actual update's excess over it ([CLAIM-365](CLAIM-365.md)), Φ > 0 is infeasibility and
-  Φ ≤ 0 with the actual update failing is avoidable shortfall. Equal loss
-  curves can hide either. A35: "Importantly, these dual multipliers are
-  not endorsement weights." The sharp edge: these are optimization
-  diagnostics, relative to the declared demands, the admissible set and
-  the comparison solver. They are evidence about frustration, not a
-  finding of it: they do not say whether a demand was thwarted or by
-  what.
+  frustration". With m(d) the worst residual, Φ its minimum and Γ the
+  actual update's excess over Φ ([CLAIM-365](CLAIM-365.md)): Φ > 0 is structural
+  infeasibility; when Φ ≤ 0 the actual update violates a requirement
+  exactly when Γ > −Φ. Positive governance regret establishes excess
+  worst-case shortfall relative to the optimum, and can hold while every
+  requirement is met. Neither quantity identifies an obstructing
+  mechanism, a governance failure or active thwarting; governance-induced
+  frustration needs an argument or intervention showing the allocation of
+  influence responsible. A35: "Importantly, these dual multipliers are not
+  endorsement weights."
 ---
 
-# CLAIM-357: The frustration residual and governance regret diagnose feasibility and avoidable shortfall, not thwarting: a positive residual says no admissible update meets every declared improvement, a positive regret says the actual update falls short of one that would, and neither says whether a demand was actively thwarted, by which process, or whether it was rightly subordinated; aggregate performance does not tell infeasibility from avoidable shortfall, and the multipliers that certify infeasibility are not the weights governance assigns
+# CLAIM-357: The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns
 
 <!-- ref::uses-file: TERM-060 — the diagnostics are stated against the term's structural and governance-induced cases, which this claim narrows -->
 
@@ -70,24 +72,42 @@ allocation of influence prevents the system from finding or using it."
 "This is testable with an oracle or stronger solver for the same declared
 objectives and update constraints."
 
-[CLAIM-365](CLAIM-365.md) makes it exact for the local model. Let Φ be the smallest
-worst-case shortfall of the declared improvements over the admissible set,
-and Γ = max_i(ε_i + g_iᵀd^actual) − Φ ≥ 0 the excess of the update the
-organization actually makes.
+[CLAIM-365](CLAIM-365.md) makes it exact for the local model. Demand i requires
+ε_i + g_iᵀd ≤ 0 of an update d. Define the worst residual of an update,
+the frustration residual and the governance regret:
+
+  m(d) = max_i(ε_i + g_iᵀd),  Φ = min_{d∈U} m(d),
+  Γ = m(d_actual) − Φ ≥ 0.
 
 - **Structural:** Φ > 0. No admissible update meets all demands. A35 §3.3
   separates a **capacity-limited** case, where Φ_r > 0 for the current
   budget r but not for a larger one, from the case where no budget helps,
   as in [CASE-115](../cases.d/CASE-115.md), where Φ_r = ε for every r.
-- **Avoidable shortfall:** Φ ≤ 0, and the actual update fails some
-  demand, so Γ > −Φ ≥ 0. A satisfactory update exists and was not made.
-  A35: "A system could therefore have substantial observed frustration
-  even when structural frustration is absent."
+- **Realized violation:** Φ ≤ 0, so a jointly satisfactory update
+  exists, and the actual update violates at least one requirement. That
+  holds exactly when m(d_actual) > 0, equivalently Γ > −Φ. The actual
+  update meets every requirement exactly when m(d_actual) ≤ 0,
+  equivalently Γ ≤ −Φ. A35: "A system could therefore have substantial
+  observed frustration even when structural frustration is absent."
+
+**Positive regret is not failed satisfaction.** Γ measures how much worse
+the actual update's worst-case residual is than the best achievable one.
+It can be positive when the actual update meets every declared
+requirement. Take one demand with ε = 1 and g = 1, and admissible updates
+U = [−2, 0]. Then m(d) = 1 + d, Φ = −1 at d = −2. The actual update
+d = −1 has residual m(−1) = 0, so it meets the requirement, yet Γ = 1 > 0
+because a more favourable update was available. Γ > 0 establishes
+suboptimality relative to the chosen minimax objective, not that any
+requirement went unmet. Actual violation needs the further comparison
+Γ > −Φ when Φ ≤ 0. Four claims are kept apart: structural infeasibility
+(Φ > 0), realized violation (m(d_actual) > 0), minimax suboptimality
+(Γ > 0), and causal governance failure, which neither quantity
+identifies.
 
 **What the diagnostics do not show.** The first filing called the second
-case governance-induced frustration. It is not, by itself. Γ measures the
-gap between the actual update's worst shortfall and the best achievable
-one. That is an optimization diagnostic. An available update can go
+case governance-induced frustration. It is not, by itself. Neither Φ nor
+Γ identifies an obstructing mechanism, a governance failure or active
+thwarting. An available update can go
 unmade because no process pursued it, because it was not recognized,
 through error, or through an unexpected event. None of these requires
 anything to have blocked it. Γ does not say whether a demand was actively
@@ -95,9 +115,9 @@ thwarted, which process did it, or whether the demand was legitimately
 subordinate to another. Governance-induced shortfall is the case where
 the allocation of influence is what kept the update from being made, and
 showing that needs an intervention on the allocation with search and
-information held fixed. Whether either kind of shortfall is frustration
-is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)'s question. The diagnostics are evidence for it and do
-not settle it.
+information held fixed. Φ > 0 is structural frustration of the declared
+improvement demands in [CLAIM-347](CLAIM-347.md)'s sense. How a realized violation
+relates to operative thwarting is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)'s question.
 
 A40 §3.4 added a **representational** kind, where an available solution
 is inaccessible to the organization's own models or search, and said the

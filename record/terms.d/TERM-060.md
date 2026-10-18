@@ -129,8 +129,16 @@ externally constituted optimization problem" (and see [CLAIM-288](../claims.d/CL
 
 The review the owner relayed on 2026-10-18 (review entry of that date)
 found four things in this entry. The definition is not changed in place,
-and it is not superseded. A proposed replacement was withdrawn before
-merge, because what frustration should mean is still open
+and it is not superseded. A proposed replacement, frustration as the
+obstruction of a demand's realization, was withdrawn before merge.
+
+**The structural sense is defined exactly in [CLAIM-347](../claims.d/CLAIM-347.md).** A collection
+S of demands is structurally frustrated when no outcome attainable under
+the specified constraints meets every demand in S: ℛ(𝒪; H, B) ∩ ⋂_{i∈S}
+A_i = ∅, equivalently S ∉ 𝒦(𝒪; D). That is this entry's "Frustrated,
+structurally" case, stated on attainable outcomes and relative to a
+horizon and a budget. What remains open is not the definition but its
+relation to operative thwarting of a particular constituent's demand
 ([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)).
 
 - **An error.** "The tempting form A_i = {u : u ⪰_i u₀} is not a demand"
