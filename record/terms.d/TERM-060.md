@@ -139,7 +139,7 @@ A_i = ∅, equivalently S ∉ 𝒦(𝒪; D). That is this entry's "Frustrated,
 structurally" case, stated on attainable outcomes and relative to a
 horizon and a budget. What remains open is not the definition but its
 relation to operative thwarting of a particular constituent's demand
-([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)).
+([QUESTION-131](../questions.d/QUESTION-131.md)).
 
 - **An error.** "The tempting form A_i = {u : u ⪰_i u₀} is not a demand"
   is wrong as stated. A maintenance demand, "do not let this fall below

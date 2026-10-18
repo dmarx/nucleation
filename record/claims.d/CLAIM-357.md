@@ -117,7 +117,7 @@ the allocation of influence is what kept the update from being made, and
 showing that needs an intervention on the allocation with search and
 information held fixed. Φ > 0 is structural frustration of the declared
 improvement demands in [CLAIM-347](CLAIM-347.md)'s sense. How a realized violation
-relates to operative thwarting is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)'s question.
+relates to operative thwarting is [QUESTION-131](../questions.d/QUESTION-131.md)'s question.
 
 A40 §3.4 added a **representational** kind, where an available solution
 is inaccessible to the organization's own models or search, and said the

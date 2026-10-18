@@ -1,5 +1,8 @@
 ---
+number: 131
 status: Open
+formerly:
+- QUESTION-tmpyc009
 title: 'How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent''s demands, and under what conditions can one occur without the other?'
 version: 1
 tags:
@@ -24,7 +27,7 @@ summary: >-
   failing to realize an attainable set of requirements is neither.
 ---
 
-# QUESTION-tmpyc009: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?
+# QUESTION-131: How does structural frustration among jointly incompatible demands relate to operative thwarting of a constituent's demands, and under what conditions can one occur without the other?
 
 ## Why it is a question
 

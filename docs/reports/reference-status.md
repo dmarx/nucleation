@@ -475,7 +475,7 @@ What keeps a judgement–observation loop from confirming itself is evidence who
 - [`record/claims.d/CLAIM-340.md:73`](../../record/claims.d/CLAIM-340.md)
 - [`record/claims.d/CLAIM-341.md:179`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-341.md:276`](../../record/claims.d/CLAIM-341.md)
-- [`record/claims.d/CLAIM-357.md:101`](../../record/claims.d/CLAIM-357.md)
+- [`record/claims.d/CLAIM-357.md:146`](../../record/claims.d/CLAIM-357.md)
 - [`record/claims.d/CLAIM-359.md:172`](../../record/claims.d/CLAIM-359.md)
 - [`record/literature.d/LIT-1179.md:45`](../../record/literature.d/LIT-1179.md)
 - [`record/literature.d/LIT-1180.md:7`](../../record/literature.d/LIT-1180.md)
@@ -784,6 +784,34 @@ Active inference already runs an internal loop: mental action selects among high
 - [`record/notes.d/NOTE-963.md:216`](../../record/notes.d/NOTE-963.md)
 - [`record/notes.d/NOTE-964.md:220`](../../record/notes.d/NOTE-964.md)
 
+### [CLAIM-347](../../record/claims.d/CLAIM-347.md) — Proposed
+
+Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
+
+21 citations in 10 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-115.md:74`](../../record/cases.d/CASE-115.md)
+- [`record/claims.d/CLAIM-153.md:93`](../../record/claims.d/CLAIM-153.md)
+- [`record/claims.d/CLAIM-351.md:64`](../../record/claims.d/CLAIM-351.md)
+- [`record/claims.d/CLAIM-351.md:78`](../../record/claims.d/CLAIM-351.md)
+- [`record/claims.d/CLAIM-357.md:119`](../../record/claims.d/CLAIM-357.md)
+- [`record/claims.d/CLAIM-365.md:40`](../../record/claims.d/CLAIM-365.md)
+- [`record/claims.d/CLAIM-365.md:113`](../../record/claims.d/CLAIM-365.md)
+- [`record/claims.d/CLAIM-365.md:131`](../../record/claims.d/CLAIM-365.md)
+- [`record/claims.d/CLAIM-368.md:14`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:157`](../../record/claims.d/CLAIM-368.md)
+- [`record/questions.d/QUESTION-127.md:74`](../../record/questions.d/QUESTION-127.md)
+- [`record/questions.d/QUESTION-131.md:19`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:34`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:65`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:139`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:142`](../../record/questions.d/QUESTION-131.md)
+- [`record/terms.d/TERM-060.md:76`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:108`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:135`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:150`](../../record/terms.d/TERM-060.md)
+- [`record/theory.d/THEORY-232.md:179`](../../record/theory.d/THEORY-232.md)
+
 ### [THEORY-008](../../record/theory.d/THEORY-008.md) — Proposed
 
 What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
@@ -999,6 +1027,27 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/questions.d/QUESTION-069.md:30`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
 
+### [CLAIM-357](../../record/claims.d/CLAIM-357.md) — Proposed
+
+The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns
+
+14 citations in 9 files await a look.
+
+- [`record/cases.d/CASE-099.md:97`](../../record/cases.d/CASE-099.md)
+- [`record/cases.d/CASE-115.md:73`](../../record/cases.d/CASE-115.md)
+- [`record/claims.d/CLAIM-365.md:103`](../../record/claims.d/CLAIM-365.md)
+- [`record/claims.d/CLAIM-365.md:123`](../../record/claims.d/CLAIM-365.md)
+- [`record/claims.d/CLAIM-368.md:116`](../../record/claims.d/CLAIM-368.md)
+- [`record/questions.d/QUESTION-087.md:66`](../../record/questions.d/QUESTION-087.md)
+- [`record/questions.d/QUESTION-124.md:21`](../../record/questions.d/QUESTION-124.md)
+- [`record/questions.d/QUESTION-124.md:55`](../../record/questions.d/QUESTION-124.md)
+- [`record/questions.d/QUESTION-126.md:51`](../../record/questions.d/QUESTION-126.md)
+- [`record/questions.d/QUESTION-131.md:139`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:146`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:163`](../../record/questions.d/QUESTION-131.md)
+- [`record/terms.d/TERM-060.md:75`](../../record/terms.d/TERM-060.md)
+- [`record/terms.d/TERM-060.md:161`](../../record/terms.d/TERM-060.md)
+
 ### [CLAIM-297](../../record/claims.d/CLAIM-297.md) — Proposed
 
 When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
@@ -1013,7 +1062,7 @@ When an operator's authority is updated by how well it performs on the interpret
 - [`record/claims.d/CLAIM-341.md:219`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-342.md:43`](../../record/claims.d/CLAIM-342.md)
 - [`record/claims.d/CLAIM-342.md:78`](../../record/claims.d/CLAIM-342.md)
-- [`record/claims.d/CLAIM-357.md:98`](../../record/claims.d/CLAIM-357.md)
+- [`record/claims.d/CLAIM-357.md:143`](../../record/claims.d/CLAIM-357.md)
 - [`record/questions.d/QUESTION-117.md:19`](../../record/questions.d/QUESTION-117.md)
 - [`record/questions.d/QUESTION-117.md:93`](../../record/questions.d/QUESTION-117.md)
 - [`record/questions.d/QUESTION-124.md:60`](../../record/questions.d/QUESTION-124.md)
@@ -1205,7 +1254,7 @@ Which of an agent's available regimes becomes effective depends on maintained re
 - [`record/claims.d/CLAIM-353.md:58`](../../record/claims.d/CLAIM-353.md)
 - [`record/claims.d/CLAIM-353.md:87`](../../record/claims.d/CLAIM-353.md)
 - [`record/claims.d/CLAIM-354.md:100`](../../record/claims.d/CLAIM-354.md)
-- [`record/claims.d/CLAIM-368.md:91`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:99`](../../record/claims.d/CLAIM-368.md)
 - [`record/questions.d/QUESTION-062.md:22`](../../record/questions.d/QUESTION-062.md)
 - [`record/questions.d/QUESTION-062.md:35`](../../record/questions.d/QUESTION-062.md)
 - [`record/questions.d/QUESTION-066.md:23`](../../record/questions.d/QUESTION-066.md)
@@ -1228,24 +1277,6 @@ In conditional generation, adding scores composes conditions only under conditio
 - [`record/decisions.d/ADR-043.md:248`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:263`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:264`](../../record/decisions.d/ADR-043.md)
-
-### [CLAIM-347](../../record/claims.d/CLAIM-347.md) — Proposed
-
-Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
-
-11 citations in 7 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-115.md:74`](../../record/cases.d/CASE-115.md)
-- [`record/claims.d/CLAIM-153.md:93`](../../record/claims.d/CLAIM-153.md)
-- [`record/claims.d/CLAIM-351.md:64`](../../record/claims.d/CLAIM-351.md)
-- [`record/claims.d/CLAIM-351.md:78`](../../record/claims.d/CLAIM-351.md)
-- [`record/claims.d/CLAIM-365.md:40`](../../record/claims.d/CLAIM-365.md)
-- [`record/claims.d/CLAIM-365.md:113`](../../record/claims.d/CLAIM-365.md)
-- [`record/claims.d/CLAIM-365.md:131`](../../record/claims.d/CLAIM-365.md)
-- [`record/questions.d/QUESTION-127.md:74`](../../record/questions.d/QUESTION-127.md)
-- [`record/terms.d/TERM-060.md:76`](../../record/terms.d/TERM-060.md)
-- [`record/terms.d/TERM-060.md:108`](../../record/terms.d/TERM-060.md)
-- [`record/theory.d/THEORY-232.md:179`](../../record/theory.d/THEORY-232.md)
 
 ### [LIT-328](../../record/literature.d/LIT-328.md) — Unavailable
 
@@ -1299,23 +1330,6 @@ Conditioning on a communicative situation, intervening on it and intervening on 
 - [`record/notes.d/NOTE-957.md:208`](../../record/notes.d/NOTE-957.md)
 - [`record/notes.d/NOTE-957.md:222`](../../record/notes.d/NOTE-957.md)
 - [`record/notes.d/NOTE-957.md:272`](../../record/notes.d/NOTE-957.md)
-
-### [CLAIM-357](../../record/claims.d/CLAIM-357.md) — Proposed
-
-An organization's failure to meet its demands is structural when no admissible transformation meets them all and governance-induced when one exists and the actual allocation of influence does not select it; aggregate performance does not tell the two apart, and the multipliers that certify infeasibility are not the weights governance assigns
-
-10 citations in 8 files await a look.
-
-- [`record/cases.d/CASE-099.md:97`](../../record/cases.d/CASE-099.md)
-- [`record/cases.d/CASE-115.md:73`](../../record/cases.d/CASE-115.md)
-- [`record/claims.d/CLAIM-365.md:103`](../../record/claims.d/CLAIM-365.md)
-- [`record/claims.d/CLAIM-365.md:123`](../../record/claims.d/CLAIM-365.md)
-- [`record/claims.d/CLAIM-368.md:108`](../../record/claims.d/CLAIM-368.md)
-- [`record/questions.d/QUESTION-087.md:66`](../../record/questions.d/QUESTION-087.md)
-- [`record/questions.d/QUESTION-124.md:21`](../../record/questions.d/QUESTION-124.md)
-- [`record/questions.d/QUESTION-124.md:55`](../../record/questions.d/QUESTION-124.md)
-- [`record/questions.d/QUESTION-126.md:51`](../../record/questions.d/QUESTION-126.md)
-- [`record/terms.d/TERM-060.md:75`](../../record/terms.d/TERM-060.md)
 
 ### [LIT-047](../../record/literature.d/LIT-047.md) — Proposed
 
@@ -2116,6 +2130,32 @@ In text-to-image diffusion models each condition of a prompt can be met while th
 - [`record/notes.d/NOTE-639.md:146`](../../record/notes.d/NOTE-639.md)
 - [`record/questions.d/QUESTION-018.md:34`](../../record/questions.d/QUESTION-018.md)
 
+### [CLAIM-361](../../record/claims.d/CLAIM-361.md) — Proposed
+
+Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
+
+6 citations in 5 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-115.md:76`](../../record/cases.d/CASE-115.md)
+- [`record/claims.d/CLAIM-347.md:91`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:224`](../../record/claims.d/CLAIM-347.md)
+- [`record/questions.d/QUESTION-131.md:144`](../../record/questions.d/QUESTION-131.md)
+- [`record/terms.d/TERM-060.md:168`](../../record/terms.d/TERM-060.md)
+- [`record/theory.d/THEORY-232.md:188`](../../record/theory.d/THEORY-232.md)
+
+### [CLAIM-368](../../record/claims.d/CLAIM-368.md) — Proposed
+
+The primitive for an organization's regulatory difficulty is frustration, not distress: a relation between maintained, consequential demands and the incompatibilities, constraints or countervailing processes that limit their realization, independent of strain, the burden of sustaining activity, and distinct from distress, a possible integrated response to either
+
+6 citations in 5 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-283.md:83`](../../record/claims.d/CLAIM-283.md)
+- [`record/claims.d/CLAIM-351.md:104`](../../record/claims.d/CLAIM-351.md)
+- [`record/questions.d/QUESTION-131.md:38`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:140`](../../record/questions.d/QUESTION-131.md)
+- [`record/terms.d/TERM-060.md:156`](../../record/terms.d/TERM-060.md)
+- [`record/theory.d/THEORY-232.md:166`](../../record/theory.d/THEORY-232.md)
+
 ### [LIT-208](../../record/literature.d/LIT-208.md) — Proposed
 
 Distributional Semantics, Holism, and the Instability of Meaning
@@ -2206,6 +2246,19 @@ Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry:
 - [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
 - [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
 - [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
+
+### [THEORY-052](../../record/theory.d/THEORY-052.md) — Proposed
+
+Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology
+
+6 citations in 4 files await a look; 4 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-368.md:121`](../../record/claims.d/CLAIM-368.md)
+- [`record/questions.d/QUESTION-045.md:23`](../../record/questions.d/QUESTION-045.md)
+- [`record/questions.d/QUESTION-045.md:42`](../../record/questions.d/QUESTION-045.md)
+- [`record/questions.d/QUESTION-131.md:23`](../../record/questions.d/QUESTION-131.md)
+- [`record/questions.d/QUESTION-131.md:77`](../../record/questions.d/QUESTION-131.md)
+- [`record/terms.d/TERM-060.md:119`](../../record/terms.d/TERM-060.md)
 
 ### [THEORY-071](../../record/theory.d/THEORY-071.md) — Proposed
 
@@ -2664,8 +2717,8 @@ Transports whose distortion profiles trade off are incomparable until a task fix
 
 4 citations in 2 files await a look; 24 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-347.md:50`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-347.md:166`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:64`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-347.md:236`](../../record/claims.d/CLAIM-347.md)
 - [`record/claims.d/CLAIM-354.md:49`](../../record/claims.d/CLAIM-354.md)
 - [`record/claims.d/CLAIM-354.md:122`](../../record/claims.d/CLAIM-354.md)
 
@@ -2708,8 +2761,8 @@ The precedence a motive claims over action and the authority the rest of the org
 
 4 citations in 2 files await a look.
 
-- [`record/claims.d/CLAIM-368.md:89`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:136`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:97`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:144`](../../record/claims.d/CLAIM-368.md)
 - [`record/questions.d/QUESTION-126.md:44`](../../record/questions.d/QUESTION-126.md)
 - [`record/questions.d/QUESTION-126.md:56`](../../record/questions.d/QUESTION-126.md)
 
@@ -2921,17 +2974,6 @@ In relational frame theory the self is verbal behaviour's content, its process a
 - [`record/notes.d/NOTE-377.md:192`](../../record/notes.d/NOTE-377.md)
 - [`record/notes.d/NOTE-430.md:188`](../../record/notes.d/NOTE-430.md)
 - [`record/questions.d/QUESTION-034.md:100`](../../record/questions.d/QUESTION-034.md)
-
-### [THEORY-052](../../record/theory.d/THEORY-052.md) — Proposed
-
-Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology
-
-4 citations in 3 files await a look; 4 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-368.md:113`](../../record/claims.d/CLAIM-368.md)
-- [`record/questions.d/QUESTION-045.md:23`](../../record/questions.d/QUESTION-045.md)
-- [`record/questions.d/QUESTION-045.md:42`](../../record/questions.d/QUESTION-045.md)
-- [`record/terms.d/TERM-060.md:119`](../../record/terms.d/TERM-060.md)
 
 ### [THEORY-072](../../record/theory.d/THEORY-072.md) — Proposed
 
@@ -3166,8 +3208,8 @@ Affective states can be properties of organized systems, characterized functiona
 
 3 citations in 2 files await a look; 16 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-368.md:50`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:143`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:58`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:162`](../../record/claims.d/CLAIM-368.md)
 - [`record/decisions.d/ADR-039.md:36`](../../record/decisions.d/ADR-039.md)
 
 ### [CLAIM-087](../../record/claims.d/CLAIM-087.md) — Proposed
@@ -3349,26 +3391,6 @@ An objective that originates outside a learning system can become a goal of the 
 - [`record/claims.d/CLAIM-016.md:101`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-288.md:119`](../../record/claims.d/CLAIM-288.md)
 - [`record/claims.d/CLAIM-288.md:123`](../../record/claims.d/CLAIM-288.md)
-
-### [CLAIM-361](../../record/claims.d/CLAIM-361.md) — Proposed
-
-Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
-
-3 citations in 3 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-115.md:76`](../../record/cases.d/CASE-115.md)
-- [`record/claims.d/CLAIM-347.md:154`](../../record/claims.d/CLAIM-347.md)
-- [`record/theory.d/THEORY-232.md:188`](../../record/theory.d/THEORY-232.md)
-
-### [CLAIM-368](../../record/claims.d/CLAIM-368.md) — Proposed
-
-The primitive for an organization's regulatory difficulty is frustration, not distress: a failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance, distinct from strain, where they are realizable at a cost, and from distress, a possible integrated response to either
-
-3 citations in 3 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-283.md:83`](../../record/claims.d/CLAIM-283.md)
-- [`record/claims.d/CLAIM-351.md:104`](../../record/claims.d/CLAIM-351.md)
-- [`record/theory.d/THEORY-232.md:166`](../../record/theory.d/THEORY-232.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -3686,7 +3708,7 @@ A trait malfunctions when its operation does not correlate positively with the n
 
 3 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-368.md:114`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:122`](../../record/claims.d/CLAIM-368.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:92`](../../record/questions.d/QUESTION-128.md)
 
@@ -3706,8 +3728,8 @@ A whole can be compared in agency with its parts, relative to a chosen decomposi
 
 3 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-347.md:174`](../../record/claims.d/CLAIM-347.md)
-- [`record/claims.d/CLAIM-368.md:110`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-347.md:244`](../../record/claims.d/CLAIM-347.md)
+- [`record/claims.d/CLAIM-368.md:118`](../../record/claims.d/CLAIM-368.md)
 - [`record/terms.d/TERM-060.md:115`](../../record/terms.d/TERM-060.md)
 
 ### [THEORY-273](../../record/theory.d/THEORY-273.md) — Proposed

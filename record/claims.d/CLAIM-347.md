@@ -16,7 +16,7 @@ history:
     defined as joint infeasibility, S ∉ 𝒦; relief is strict enlargement of
     𝒦 under fixed reference demands, losing no compatible collection. The
     organizational interpretation, structural frustration against
-    operative thwarting, is left to QUESTION-tmpyc009. At the reviews
+    operative thwarting, is left to QUESTION-131. At the reviews
     relayed by the owner on 2026-10-18. Status stays Proposed: the
     construction is well defined, its explanatory role is interpretive.
 role: thesis
@@ -152,7 +152,7 @@ identifiable process actively interfering with another. Minimal non-faces
 of 𝒦 identify the minimal structurally frustrated collections.
 
 The formal criterion is settled by the stated definitions. What remains
-open is its broader organizational interpretation ([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)):
+open is its broader organizational interpretation ([QUESTION-131](../questions.d/QUESTION-131.md)):
 when structural incompatibility shows up as operative resistance or
 thwarting, whether operative thwarting can occur without structural
 incompatibility, and what evidence is needed to attribute either

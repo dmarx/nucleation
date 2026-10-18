@@ -12,7 +12,7 @@ history:
     Retitled at the review relayed by the owner on 2026-10-18: strain is an
     independent dimension, not the alternative to frustration, and the
     claim points to CLAIM-347 for the structural definition and leaves the
-    relation to operative thwarting to QUESTION-tmpyc009. The defeater is
+    relation to operative thwarting to QUESTION-131. The defeater is
     rewritten to match.
 role: thesis
 warrant: interpretive
@@ -156,7 +156,7 @@ downstream applications, not premises").
   before distress. Its structural sense is defined exactly in
   [CLAIM-347](CLAIM-347.md): joint infeasibility of a collection of demands. How that
   relates to the operative thwarting of a particular constituent's demand
-  is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md).
+  is [QUESTION-131](../questions.d/QUESTION-131.md).
 - **That the line of organizational affect is reopened.** The claim is
   filed in distributed-agency and will-organization. Whether a frustration
   account reopens [CLAIM-039](CLAIM-039.md) and its questions is for the owner.

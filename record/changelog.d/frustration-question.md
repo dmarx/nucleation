@@ -1,6 +1,6 @@
 ### Added
 
-- [QUESTION-tmpyc009](record/questions.d/QUESTION-tmpyc009.md): how structural frustration among jointly
+- [QUESTION-131](record/questions.d/QUESTION-131.md): how structural frustration among jointly
   incompatible demands relates to operative thwarting of a constituent's
   demand, and when one can occur without the other. A replacement term
   that would have superseded [TERM-060](record/terms.d/TERM-060.md) was withdrawn before merge; the
