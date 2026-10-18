@@ -66,8 +66,9 @@ the same time as A, reads it and executes b_B = θ_B = θ_A. Intervening on
 internal state.
 
 Every eigenvalue, the decay values in A4's chart and the interventional
-probabilities were rechecked by hand and numerically for this filing. A3 said it checked them "using exact rational arithmetic", in
-a bundle that never reached the repository.
+probabilities were rechecked by hand and numerically for this filing. A3
+said it checked them "using exact rational arithmetic", in a bundle that
+never reached the repository.
 
 ## What it can show
 

@@ -90,7 +90,7 @@ emergence of a division of functional jurisdiction."
   endogenous self-maintenance."
 - **That more parameters relieve frustration in general.** The split works
   because the context is routed. Without routing, a second parameter both
-  demands must pass through relieves nothing. A38: some differentiation
-  "merely partition[s] the problem, reproduce[s] conflict elsewhere, or
-  restrict[s] information flow".
+  demands must pass through relieves nothing. A38: "Not every form improves
+  performance. Some merely partition the problem, reproduce conflict
+  elsewhere, or restrict information flow."
 - Anything about real networks. Fictional by construction.

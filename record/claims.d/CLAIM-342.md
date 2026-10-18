@@ -102,3 +102,32 @@ first loop, that the first loop's behaviour does not set ([THEORY-324](../theory
   processing signals and other people. A paralysed person keeps the first,
   the second and the fifth inbound, so losing action need not mean losing
   the anchor.
+
+## Note of 2026-10-18: re-derived as independent audit
+
+The exchange of 2026-10-17 proposed this claim's thesis four times as a
+design requirement, without citing it.
+
+- A36 §4, on cryptographic commitments as "**independent endorsement
+  audits**": a commitment protocol lets an auditor check that a prediction
+  "was not changed retroactively", but "it only solves one problem: **the
+  timing and integrity of the prediction**. It does not establish that the
+  outcome is interpreted correctly, that the scoring rule is appropriate, or
+  that the operator was exposed to representative evidence." That is
+  CLAIM-340's limit: commitment fixes when the prediction is made, not how
+  the evidence is read.
+- A39's second case study: "endorsement based on independent performance
+  evidence versus endorsement scored through the interpretations whose
+  authority is being evaluated", which A39 called "the best candidate for
+  an early discriminating experiment".
+- A40's Study C, key control: "Evaluate the demands using evidence
+  independent of the processes whose authority is being assessed."
+- A41's security table, whose row for independent audit reads "Prevent the
+  actor being evaluated from controlling all the evidence of its
+  competence", and its
+  variant that would "compromise the processes responsible for evaluating
+  other processes' competence. That tests whether the organization has any
+  genuinely independent means of checking its own allocation of authority."
+  That variant is in CASE-tmp4nzjz. It puts this claim under attack: the
+  evidence that does not pass through the tested interpretation is itself
+  scored by a process an insider may hold.

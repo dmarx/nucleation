@@ -177,3 +177,28 @@ mechanism.
 - **Self-determination theory.** The will's legalism, choices "detached from
   their immediate outcomes", resembles introjected regulation ([THEORY-047](THEORY-047.md)).
   The mechanisms differ, so this is a convergence of phenomena.
+
+## Note of 2026-10-18: resolve as organization, and over-control
+
+The exchange of 2026-10-17 took up resolve at the owner's U37 ("I think
+emergence of "resolve" could be an interesting frame within which to
+examine our will-organization framework"). A37 cited this reading as "a
+particularly close antecedent" and listed bundling as one of six ways a
+long-term policy can prevail. The record's claim from the exchange is
+CLAIM-tmp0wvwc: resolve is a maintained organization of precedence,
+commitment and revision that keeps a policy effective across changing local
+evaluations while keeping the capacity to revise it. It grounds on this
+reading and does not rival it: Ainslie's bundling is a mechanism, and the
+claim says what organization the mechanism must sit in to count as resolve.
+
+A42, on radically open DBT's "maladaptive *overcontrol*", did not connect it
+to Ainslie, whose account predicts over-control from rigid personal rules.
+What the record holds on that: NOTE-443 records it as claim C6, "Reliance on
+personal rules predicts legalism, lapse districts, motivated misperception
+and over-control", argued and fitted to clinical observation with no test
+reported, and its summary says "compulsive over-control". This reading's
+body lists the predicted costs as "legalism, lapse districts, motivated
+blindness to lapses, and rules that favour countable goals" and does not
+name over-control. The link between the will line's account of resolve and
+the clinical account of overcontrol is therefore in the record's note, not
+in this reading, and no entry tests it.

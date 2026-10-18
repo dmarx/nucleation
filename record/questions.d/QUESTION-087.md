@@ -52,3 +52,28 @@ criticizes its account of malfunction and proposes a "normative field" from
 viability theory. An answer gives a standard, says where it comes from, and
 applies it to the Northstar case, or argues that the standard must be an
 observer's.
+
+## Note of 2026-10-18: manufactured frustration and the standard for revision
+
+The exchange of 2026-10-17 raised this question four times without naming
+it.
+
+- **Manufactured frustration** (A33 §8, A34): a common improvement is
+  available and "the governance rule, restricted representation, or
+  allocation of influence prevents the system from finding or using it".
+  A33 gave it a test: "This is testable with an oracle or stronger solver
+  for the same declared objectives and update constraints." The record now
+  holds it as governance-induced frustration (CLAIM-tmpl8vsy). The test
+  measures failure against declared demands. Whether the declared demands
+  are the organization's own is this question.
+- **A36 §1:** "slow governance is not necessarily better governance.
+  Persistent commitments can sustain adaptive learning or produce
+  rigidity."
+- **A37 §6** made resolve need a revision policy, "To prevent rigidity from
+  masquerading as resolve", and said what that requires: "an independently
+  justified standard for when preservation versus revision is warranted."
+  That standard is what this question asks for.
+- **A42**, closing the resolve thread: the organizational analogue of
+  psychological flexibility "cannot presume that an institution's
+  currently maintained values are legitimate, or that successfully
+  pursuing them benefits its constituents".

@@ -54,3 +54,26 @@ self-allocation ([CLAIM-285](../claims.d/CLAIM-285.md)), trust as a regularity o
 ([CLAIM-277](../claims.d/CLAIM-277.md)), and the self-governing self ([CLAIM-284](../claims.d/CLAIM-284.md)). An answer
 would give conditions, on the aggregation rule, memory and coupling, under
 which coherence and plurality coexist, and show where one is lost.
+
+## Note of 2026-10-18: the converse problem, from insider threats
+
+At the owner's U41 question on insider threats, A41 of the exchange of
+2026-10-17 stated this question's last clause as a security problem: "how
+can an organization protect itself against harmful internal activity
+without suppressing the disagreement, experimentation, and
+self-transformation on which its continued adaptability depends?" It is the
+converse of its first question, how to give constituents "enough authority
+to function, learn, and govern themselves without becoming vulnerable to
+the misuse of that authority". Together they are this question with an
+adversary added: coherence must survive constituents that try to capture
+it, and plurality must survive the defences.
+
+A41's federated-learning testbed has a row for exactly the plurality at
+stake: a "Distributed but valid minority signal" is a "Productive difference
+that should not automatically be suppressed", and "A crude defense might
+suppress those updates as suspicious, improving some aggregate security
+measure while harming the organization's ability to learn from minority
+environments." Filed as CLAIM-tmpp9ox0 (robustness lives in the processes
+that allocate and audit authority, and trades off against revision) and
+CASE-tmp4nzjz (A41's proposed study). An answer here would say when that
+trade-off can be moved.

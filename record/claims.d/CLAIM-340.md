@@ -83,3 +83,17 @@ learning. It does not make the scoring independent.
   empirical.
 - Anything beyond the linearization at symmetry, or for scores other than
   squared error.
+
+## Note of 2026-10-18: cryptographic commitments fix timing and integrity only
+
+A36 §4 of the exchange of 2026-10-17, on the owner's "Maybe also
+cryptography?", proposed commitment protocols as "independent endorsement
+audits": each operator fixes a prediction before the outcome and reveals
+it after. A36 bounded them by this claim: "it only solves one problem: the
+timing and integrity of the prediction. It does not establish that the
+outcome is interpreted correctly, that the scoring rule is appropriate, or
+that the operator was exposed to representative evidence." That is this
+claim's result, a second appearance: a commitment secures the order in
+time, which keeps learning, and removes capture only when κ′ ≤ κ̄, which
+no protocol guarantees. CLAIM-tmp442x9 holds the three obstructions A36
+set this in.

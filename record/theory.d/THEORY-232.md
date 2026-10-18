@@ -155,3 +155,36 @@ No relations are declared: it answers a comparative version of
   within a frame, which Abel et al. do not dispute. They predict no
   ranking stable across decompositions in general, but show no instance
   for this measure, so they do not settle its `promote_when`.
+
+## Note of 2026-10-18: frustration as the record's primitive, and what this reading's measure aggregates
+
+The exchange of 2026-10-17 made frustration, not distress, the primitive of
+the record's account of regulatory difficulty (CLAIM-tmpyk3it,
+TERM-tmp9lmlt), and A34 called this reading "the most important additional
+connection". Three things bear on it.
+
+- **The measure is an aggregate.** Watson compares "the total frustration
+  or energy of the system". A34 §2 concluded: "A higher-level organization
+  should not be credited with resolving constituent frustration merely
+  because its aggregate objective improves", and offered it as following
+  "directly from combining Watson's proposal with Nucleation's existing
+  distinction between the good of a whole and the good of its
+  constituents". It does not follow from Watson. It is a criticism of his
+  measure as read here: a lower total can come from sacrificing one part's
+  goal, which is the "robbing Peter to pay Paul" the essay itself names.
+  CLAIM-tmp55mls gives the record's refinement: compare which sets of the
+  parts' demands are jointly satisfiable, by inclusion, and leave two
+  organizations unranked when each relieves a conflict the other does not.
+- **The decomposition-relativity is half of A38's principle.** A38 §2:
+  "The attribution of frustration relief must be indexed to an
+  individuation and an intertemporal correspondence of demands", which
+  A38 called "a defensible new formal principle". The first half is this
+  reading's, already in its title ("relative to a chosen decomposition and
+  the parts' goals"). The second, a correspondence of demands across time
+  when the parts change, is new, and is CLAIM-tmpq80iq's.
+- **Delayed gratification is the precedent for resolve.** The behavioural
+  mark here, an energy function different from the objective that "goes
+  uphill in a specific direction that leads to lower points in the long
+  term", is what A35 §3 meant by a system that may "deliberately worsen
+  some objective now", and what A37 and A39 developed as resolve. None of
+  A34–A40 cited this reading for it.
