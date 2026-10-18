@@ -58,3 +58,28 @@ firm?
 ## Note of 2026-10-14: a third option, not the convergence side
 
 [LIT-933](../literature.d/LIT-933.md) (Nowak et al.) was registered here as stating the synchronized-convergence option. Read in [NOTE-768](../notes.d/NOTE-768.md), it does not. Its synchronization is any binding of dynamics, including compensatory dynamics and complementary roles, not [THEORY-126](../theory.d/THEORY-126.md)'s synchronous convergence. Its functional unit, a coordinated configuration that performs a task, is neither aggregate convergence nor a group subject. That is a third option this question does not list. The paper never asks whether a functional unit is a subject of states, and it offers no case, so it answers neither side.
+
+## Note of 2026-10-18: integration without a subject, and a test
+
+The exchange of 2026-10-17 bears on this question twice, without citing it.
+
+A27 §3 took THEORY-125's side for the state: "A candidate collective emotion
+therefore has to be individuated through the organization's **integrated
+regulatory pattern**, not by averaging people's feelings", and "The
+corporation's managers might feel calm while the corporation exhibits an
+increasingly threat-avoidant policy." It then denied that the state needs a
+subject to belong to: "There may be **no phenomenological illusion inside the
+collective at all**." That separates the two things this question's first
+option joins, a state of the group and a group subject. CLAIM-tmpk7n2q, filed
+from U26–U27, answers in part on that line: the integration can be the
+group's while the single owner it is attributed to is a construction.
+
+A29's Test B, "Distributed integration versus a common alarm", is a design for
+the case this question asks for: "Compare a system whose processes mutually
+compensate for disturbances against one whose independent processes merely
+receive the same centralized warning." Its prediction: "A measure of
+organizational binding should distinguish genuine interdependence from a
+common signal with no meaningful reciprocal regulation." A common alarm is
+close to THEORY-126's convergence on one event; mutual compensation is close
+to THEORY-125's integration, and to NOTE-768's third option, a coordinated
+configuration.

@@ -73,3 +73,24 @@ their proposals should not give them unilateral control over their own
 authority. A separate aggregation rule enforces the constraint." Whether
 that rule is a governing level in this question's sense is open. Workbench
 entry of 2026-10-13, 21:29.
+
+## Note of 2026-10-18: an answer with both sides
+
+The owner, at U45 of the exchange of 2026-10-17: "processes which can
+navigate disagreement amongst themselves require fewer resources from the
+system than processes which need to activate additional subsystems to
+resolve disagreement." That presupposes both sides of this question: a
+level that can be recruited, at a cost (THEORY-070's specification
+system), and regimes that can settle a conflict without it (THEORY-056,
+THEORY-062). On this view a governing level exists but is not routinely
+recruited when the regimes coordinate among themselves. A45: "The
+higher-order governance remains available but ceases to be the main
+mechanism producing each successful action." The institutional form is
+THEORY-149's "cheap local conflict resolution" under nested layers of
+governance; none of the exchange's turns cited it.
+
+Filed as CLAIM-tmpmr1t8, Proposed, which answers this question in part.
+It does not say which conflicts admit local settlement, or what recruits
+the level when they do not. The residue of 2026-10-13, whether the
+aggregation rule no process controls is itself a governing level, is
+untouched.

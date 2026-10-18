@@ -1,77 +1,145 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
-status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Feasibility, aggregation and epistemic coordination are independent obstructions'
-
+status: Active
+title: 'Feasibility, aggregation and epistemic coordination are independent obstructions to an organization''s realizing its demands: each can occur with the other two absent'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
+warrant: demonstrated
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A flaw in one of the three constructions: that the two-objective case
+  hides an aggregation or information failure, that the Condorcet profile
+  hides an infeasibility of the constituents' own acceptance conditions,
+  or that some protocol guarantees coordinated attack over a channel that
+  can lose any message. Not defeated by recoding one obstruction as
+  another with different demands, for example by adding a demand on the
+  procedure itself, which the body states and the claim excludes.
 tags:
-- agency
-
+- society-and-governance
+- mathematics
+- epistemology
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- distributed-agency
+- formal-apparatus
+grounds:
+- THEORY-027
+complements:
+- CLAIM-tmpyk3it
+- CLAIM-tmpi5t5f
+uses:
+- TERM-tmp9lmlt
+summary: >-
+  Owner-seeded, U36 of the exchange of 2026-10-17: Arrow's theorem, then
+  cryptography and "the two generals problem". A36 placed them: "Arrow's
+  theorem belongs in the theory of endorsement, not directly in the
+  geometry of feasible updates", and the two generals add "epistemic
+  frustration". Three elementary constructions, each with one obstruction
+  and not the others, are given in the body. The sharp edge: the
+  independence is relative to fixing the demands as the constituents' own
+  acceptance conditions; that no remedy for one removes another is A36's
+  further reading, argued in the body and not part of the claim.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmp442x9: Feasibility, aggregation and epistemic coordination are independent obstructions
+# CLAIM-tmp442x9: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The owner, at U36, on the residual of A35: "your account of frustration
+measured relative to options for an update to meet or fail requirements
+has me wondering if Arrow's Impossibility Theorem might be useful to us."
+And: "Maybe also cryptography? Reminds me of the two generals problem." A36
+relocated Arrow ("I would locate it slightly differently from the
+frustration residual") and drew a table of three obstructions:
+
+- **Feasibility:** no admissible transformation lies in every
+  constituent's acceptance set (TERM-tmp9lmlt).
+- **Aggregation:** the organization's rule for combining constituents'
+  rankings of the admissible transformations yields no coherent choice:
+  under pairwise majority, an alternative that no other beats.
+- **Epistemic coordination:** an admissible, unanimously preferred joint
+  action cannot be guaranteed under the participants' information and
+  communication constraints.
+
+Each can occur without the other two.
+
+## The three constructions
+
+**1. Feasibility alone.** CASE-tmpuc54q: two operators share one parameter
+θ, with demands L₁ = (θ − 1)² < 1 and L₂ = (θ + 1)² < 1. Since L₁ + L₂ =
+2θ² + 2 ≥ 2, no θ meets both. Everything is known to both, and nothing is
+communicated. The aggregation is coherent: with two operators, pairwise
+majority strictly prefers x to y only when both do, which is the Pareto
+relation, and it is acyclic, so on any finite menu of updates some update
+is unbeaten. A36: "A system can have no common improving update and still
+have a perfectly coherent rule for choosing among compromises."
+
+**2. Aggregation alone.** A36 §2A's profile: operators 1, 2, 3 rank
+updates A, B, C as A ≻ B ≻ C, B ≻ C ≻ A and C ≻ A ≻ B. Each operator's
+acceptance condition is that the update be one of A, B, C, so all three
+lie in every acceptance set and the demands are jointly realizable.
+Pairwise majority prefers A to B, B to C and C to A (two to one each
+time), so every option is beaten and the rule yields no choice.
+Information is complete and the operators share one site.
+
+**3. Epistemic coordination alone.** Only operator 1 learns whether the
+moment to act has come. Both rank "act together when it has, and neither
+act otherwise" above every other outcome, and acting together is
+admissible. The only channel between them can lose any message. The
+coordinated attack result (Akkoyunlu et al. (1975); Halpern and Moses
+(1990) in terms of common knowledge) says no protocol guarantees that both
+act or neither does while also acting in some run. The argument, in brief:
+take a run in which the moment has come, every message is delivered and
+both act, with k messages delivered before acting. Remove the last
+delivered message. Its sender cannot tell the two runs apart, so it still
+acts, and so, to keep agreement, must the other. Repeat k times to reach a
+run with no message delivered in which both act. Operator 2's view in that
+run is the same as in the run where the moment has not come and nothing is
+delivered, in which neither may act; so operator 2 acts there too, which
+the protocol forbids. There is no infeasibility and no disagreement to
+aggregate.
+
+## A36's further reading, not part of the claim
+
+A36 §5: "Some obstructions are not interchangeable, and some cannot be
+eliminated by additional computing power. For example, more accurate
+gradients do not resolve a genuine conflict of authority. A better voting
+rule cannot make an infeasible combination of objectives achievable. And
+better encryption does not overcome an unreliable channel's lack of
+guaranteed delivery." That no remedy for one obstruction removes another is
+argued from the independence, not shown by it: a remedy might act on two
+at once. It is interpretive and held here as A36's.
+
+Two points bear on it.
+
+- **Information escapes Arrow but not every aggregation failure.** A36
+  §2D read Sen (NOTE-263) as saying the dual mapping model should
+  "explicitly represent which kinds of information endorsement procedures
+  may use", since interpersonal comparability breaks Arrow's
+  impossibility. THEORY-027 shows a failure it does not break: decisive
+  jurisdiction for two constituents, weak Pareto and an unrestricted
+  domain conflict "even when choice need only yield a best element", and
+  comparability does not remove it. That is CLAIM-tmpi5t5f.
+- **Commitments fix timing only.** A36 §4: a cryptographic commitment
+  solves "the timing and integrity of the prediction", not the scoring,
+  which is CLAIM-340.
+
+A36 also named Arrow's theorem (Arrow (1950)): with three or more
+alternatives and an unrestricted domain, no rule gives a complete
+transitive social ordering satisfying weak Pareto, independence of
+irrelevant alternatives and nondictatorship. Construction 2 is its
+standard witness, not its proof. The record holds Arrow only through Sen
+(NOTE-263) and O'Donnell's Fourier proof (LIT-346).
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That the three are independent under every choice of demands.** An
+  aggregation failure can be recoded as a feasibility failure by adding a
+  demand on the procedure, "the choice is beaten by no majority", which no
+  option meets in construction 2. The independence holds when the demands
+  are the constituents' own acceptance conditions and the procedure is
+  held separately, as A37 recommended: "treat the selection of one actual
+  action as a separate governance operation."
+- **That they do not interact.** A36: "They can reinforce each other, but
+  they are analytically independent."
+- **That the operators are agents with rights.** A36: "Network modules
+  aren't automatically moral agents, and their optimization preferences
+  are not equivalent to individual rights."

@@ -1,77 +1,173 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Frustration is an ordinal fact before it is a quantity, and relief is enlargement of the compatibility complex'
-
+title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A kind of demand the frustration account needs that has no acceptance
+  condition except through a common scale or rate of exchange with other
+  demands, so that its frustration cannot be stated as an empty
+  intersection of acceptance sets at all: for example, if demands of the
+  form "improve as much as possible" cannot be given thresholds without
+  importing the cardinal comparison the ordinal form avoids. Not
+  defeated by cases where demands are jointly realizable and differ only
+  in cost, which are strain (TERM-tmp9lmlt), nor by the existence of
+  useful cardinal refinements (CLAIM-tmpue67e).
 tags:
+- mathematics
+- self-governance
 - agency
-
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
+- distributed-agency
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-tmpyk3it
+grounds:
+- THEORY-232
+complements:
+- CLAIM-128
+- CLAIM-153
+uses:
+- TERM-tmp9lmlt
+summary: >-
+  The owner's correction, U37 of the exchange of 2026-10-17: "We can do
+  quite a lot with access to an ordering, even if it doesn't give us a
+  true measure." A37 granted it ("I agree with your correction") and
+  built the acceptance sets, their intersection and the compatibility
+  complex. The definitional facts are shown in the body, including that
+  every pair of demands can be jointly improvable while the triple is
+  not. The sharp edge: relief compares complexes for the same declared
+  demands, so a reorganization that deletes a demand is not compared at
+  all, and two reorganizations can be incomparable. It is the move
+  CLAIM-128 and TERM-043 made for translation, in a new line.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmp55mls: Frustration is an ordinal fact before it is a quantity, and relief is enlargement of the compatibility complex
+# CLAIM-tmp55mls: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A36 §2D had said that the cardinal residual of A35 is not defined "if each
+process supplies only an ordinal ranking over outcomes". The owner, at
+U37: "I think this is why some parts of our research have leaned on the
+machinery of posets, lattices, presheafs, etc. We can do quite a lot with
+access to an ordering, even if it doesn't give us a true measure." A37:
+"I agree with your correction. My earlier discussion treated the absence
+of cardinal utilities as primarily a limitation. But for much of our
+argument, an ordering is sufficient, and sometimes it is the more
+appropriate structure."
+
+**The construction (A37 §4).** Let U be the organization's admissible
+transformations, ⪰_i a preorder for demand i, and u₀ a reference. The
+acceptance set is A_i = {u ∈ U : u ⪰_i u₀} (or its strict version). The
+demands are jointly satisfiable when ⋂ A_i ≠ ∅. The compatibility complex
+of a demand set I is
+
+  𝒦 = {S ⊆ I : ⋂_{i∈S} A_i ≠ ∅},
+
+with the empty intersection read as U.
+
+**Relief (A37 §4C).** For the same declared demands I and the same
+acceptance conditions, a reorganization relieves frustration when
+𝒦_before ⊊ 𝒦_after. A37: "If the system simply deletes a difficult demand,
+it has changed the comparison problem rather than shown an expansion of
+its ability to realize the original demands." And: "two reorganizations
+may relieve different conflicts, with neither compatibility complex
+containing the other. They would be incomparable rather than ranked by a
+universal success metric." Suppressing a demand's evidence, or lowering its
+weight, leaves its A_i where it was, so it leaves 𝒦 unchanged; it is not
+relief (A35 §4: "suppression, not necessarily resolution").
+
+The claim is that this is the basic form of frustration and of its relief,
+and that scalar measures are refinements of it (CLAIM-tmpue67e), not
+definitions.
+
+## The definitional facts
+
+These follow from the definitions and are checked here.
+
+1. **𝒦 is downward closed.** If S ∈ 𝒦 and T ⊆ S, then ⋂_T A_i ⊇ ⋂_S A_i ≠
+   ∅. So, when U ≠ ∅, 𝒦 is an abstract simplicial complex on the
+   individually satisfiable demands.
+2. **Its minimal non-faces are the minimal conflicts.** A set S ∉ 𝒦 all of
+   whose proper subsets are in 𝒦 is a collection that is jointly
+   unsatisfiable while no smaller collection explains it. By downward
+   closure, every jointly unsatisfiable set contains one.
+3. **Pairwise compatibility does not give joint compatibility.** A37's
+   example: three binary variables with the demands a = b, b = c, c ≠ a.
+   Each pair is satisfiable, the triple is not. The same holds for local
+   improvement demands on a learner, which is the point G5 worked and
+   A33–A37 did not make. Take three unit gradients at 120° in a plane,
+   g₁, g₂, g₃ with g₁ + g₂ + g₃ = 0, and A_i = {d : g_iᵀd < 0}. Any two
+   are not antiparallel, so −(g_i + g_j) lowers both: g_iᵀ(−g_i − g_j) =
+   −1 + ½ < 0. All three cannot be lowered at once, since Σ g_iᵀd = 0 for
+   every d. So 𝒦 is the boundary of a triangle, and the minimal conflict
+   has three members.
+4. **Pairwise non-conflict does rule frustration out.** If every
+   g_iᵀg_j ≥ 0 and no g_i is zero, then |Σλ_i g_i|² ≥ Σλ_i²|g_i|² > 0 for
+   every λ in the simplex, so 0 ∉ conv{g_i} and a common descent direction
+   exists (CLAIM-tmpuia0a). With nonzero demands, a minimal conflict of
+   two is an antiparallel pair. Among non-antiparallel demands the
+   minimal obstruction needs three, which is CLAIM-153's "the minimal
+   model of the obstruction needs three" in the update setting. For
+   convex acceptance sets in ℝᵖ, Helly's theorem bounds it above by p + 1
+   (CLAIM-tmpue67e).
+
+The claim's interpretive part is the rest: that these sets are the right
+representation of an organization's demands, that "relief" should mean
+enlargement for fixed demands, and that the comparison should be left
+partial.
+
+## Later versions of the same construction
+
+- **Indexed to an organization, horizon and budget.** A38 §2:
+  𝒦(𝒪_t; D₀, H, B) = {S ⊆ D₀ : ℛ(𝒪_t; H, B) ∩ ⋂_{i∈S} A_i ≠ ∅}, where ℛ
+  is what organization 𝒪_t can attain within horizon H and budget B. In
+  A38's words, the possibilities "belong to a particular organization
+  with a particular developmental history". Fixing D₀ across time, and saying what
+  happens to a demand when the organization changes, is
+  CLAIM-tmpq80iq's, not this claim's.
+- **Robust to compromised constituents.** A41 §5 defines 𝒦_f^rob(𝒪), the
+  sets S for which one admissible policy meets every demand in S against
+  every allowed insider behaviour. It is the same complex with a ∃∀
+  condition in place of ∃.
+- **A flexibility order.** A42 orders governance policies by inclusion of
+  the contexts in which they respond acceptably: π₁ ⪰_flex π₂ iff
+  ℛ(π₂) ⊆ ℛ(π₁). It is the same inclusion construction, applied to
+  contexts instead of demands.
+
+## Relations
+
+- **CLAIM-128 and TERM-043.** Translations whose distortion profiles trade
+  off are incomparable until a task fixes weights. This claim is the same
+  move for organizations: a partial order by inclusion, a scalar only
+  once weights are fixed.
+- **CLAIM-153.** The contextual version has torsors and a cycle class,
+  which plain set incompatibility does not supply. A39: "ordinary set
+  incompatibility doesn't automatically supply the torsors, transition
+  maps, or cohomological obstruction used there."
+- **THEORY-232.** Watson compares the parts' total frustration under two
+  organizations. Inclusion of complexes refines that comparison: it does
+  not credit an organization that lowers the total by sacrificing a
+  demand, and it leaves two organizations unranked when each relieves a
+  conflict the other does not.
+- **A37 §5 on Arrow.** The unanimity relation ⋂⪰_i of preorders is a
+  preorder, so the organization's evaluative state can be kept partial and
+  selection of one action treated as a separate governance step.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That cardinal measures are useless.** A37: "We need cardinal
+  quantities only when we want to distinguish how far one outcome is from
+  another, how much improvement is required, or what resources a
+  transformation costs."
+- **That a partial order chooses.** A37: weakening the output to a partial
+  order "does not eliminate the practical problem of selecting an action
+  when alternatives remain incomparable".
+- **That demands have acceptance conditions.** A37: "It does require each
+  demand to have a well-defined acceptance condition." Where they have
+  none, the construction does not apply, which is the defeater.
+- **That every revision of a demand is a failure.** Constitutive revision
+  may be legitimate transformation (A38). It is simply not relief of the
+  original demands.

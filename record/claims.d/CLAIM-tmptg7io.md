@@ -1,77 +1,106 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Low supervisory cost cannot show non-domination'
-
+title: 'Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
-role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
+role: counter
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A mark, read from an organization's present operation without
+  intervening on it and without its history, that separates processes
+  coordinating by negotiation from processes conditioned never to object,
+  at matched behaviour and matched supervisory cost.
 tags:
+- self-governance
 - agency
-
+- behavioral-integration
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
+- authenticity
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+objects_to:
+- CLAIM-tmpqofon
+grounds:
+- THEORY-040
+summary: >-
+  A45's, U45 of the exchange of 2026-10-17, against the owner's
+  non-domination criterion (CLAIM-tmpqofon) read through its economy: "a
+  system whose subordinate processes have been conditioned never to
+  object might exhibit perfect local harmony", and "A quiet subordinate
+  process isn't necessarily a satisfied one." It is THEORY-040's
+  manipulation objection, and QUESTION-071, applied to the new criterion.
+  It does not say the criterion fails, only that cost cannot certify it.
+  The authenticity line was set aside on 2026-10-05; whether it reopens
+  is the owner's call.
 ---
+<!-- inactive-ok-file: THEORY-040 THEORY-142 QUESTION-071 CLAIM-162 CLAIM-tmpqofon CLAIM-tmpmr1t8 — Proposed; the objection's grounds and the claims it bears on, open -->
+<!-- inactive-ok-file: CLAIM-016 — Deferred; the set-aside claim whose manipulation defeater this repeats -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
+# CLAIM-tmptg7io: Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history
 
-# CLAIM-tmptg7io: Low supervisory cost cannot show non-domination
+## The objection
 
-## The claim
+The owner's criterion (CLAIM-tmpqofon) marks authenticity by higher-level
+processes not needing to impose themselves, and the owner tied that to a
+saving in effort (CLAIM-tmpmr1t8). A45, at U45 of the exchange of
+2026-10-17, added *contestability*, for this reason:
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+> Otherwise, a system whose subordinate processes have been conditioned
+> never to object might exhibit perfect local harmony.
+>
+> The supervisor would rarely intervene, not because its constituents had
+> developed autonomous coordination, but because the possibility of
+> meaningful disagreement had already been eliminated.
+
+"So non-domination must concern **the effective distribution of
+authority, including counterfactual situations in which a constituent
+dissents**. A quiet subordinate process isn't necessarily a satisfied
+one." And: "non-domination should be evaluated historically and
+counterfactually, not inferred from presently low intervention costs." A45
+closed on it: "**low strain alone cannot establish authenticity**: a
+dominated organization can be efficient."
+
+This is THEORY-040's objection in a new place. A condition stated only in
+present structure is met by an agent whose structure was installed. Low
+supervisory cost is a present-structure mark. QUESTION-071 asks the
+general form: can a will-organization be manipulated without anything in
+its present structure showing it?
+
+## What would tell them apart
+
+A45's tests, negotiated coordination against conditioned conformity:
+
+- "Introduce a novel but legitimate constituent demand": local processes
+  "can reopen negotiation", or the demand "is ignored or suppressed".
+- "Alter the formerly dominant process's preferred policy": others "retain
+  independent evaluative influence", or "continue following the dominant
+  process".
+- "Reveal evidence that existing coordination is mistaken": processes "can
+  revise their agreement", or the consensus "remains disproportionately
+  entrenched".
+- "Perturb the local coupling mechanism": behaviour "degrades in a
+  mechanistically predictable way", or depends "on fixed compliance
+  rules".
+
+A45 flagged that one test does not discriminate: "Remove the higher-level
+supervisor temporarily". Compliance may persist too, "so this test alone
+is insufficient". A46 added a test of the same kind: whether a specialist
+can "recover effective influence" when its conditions return.
+
+Every discriminating test is an intervention or a history. None reads
+the difference from cost. That is the objection.
+
+The organizational form is March's (THEORY-142): a code that learns only
+from members who conform loses what deviation would have taught it, and
+fast socialization makes the organization worse. A conditioned process is
+a member socialized too fast.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That the criterion is wrong.** Non-domination stated counterfactually,
+  as A45 and A46 state it, survives the objection. What fails is reading
+  it from the economy.
+- **That every quiet process is suppressed.** Agreement in value
+  (CLAIM-162) is also quiet.
+- **That history settles it.** THEORY-040 notes that no historical
+  condition in the record is shown to escape its own objection, and
+  CLAIM-016's manipulation defeater is still outstanding.

@@ -94,3 +94,22 @@ agent acts as one, since some lapse. And it does not say that
 synchronization is desirable for every agent or in every respect. A
 population that never disagrees may also never notice what it is
 missing.
+
+## Note of 2026-10-18: what the divided agent pays for
+
+A44 of the exchange of 2026-10-17 proposed a correction on effort: "**An
+authentically maintained goal may demand more effort, not less.**" It was
+set against authenticity ("the simplistic assumption that authenticity
+reduces effort"), not against this claim, which is the record's effort
+claim and which A44 did not cite. The owner, at U45, said what the
+effortful case is: "The "more effortful" intrapersonal conflict case is
+the one in which the internal modules don't negotiate amongst themselves
+and instead require escalating to higher level processes to mediate."
+
+CLAIM-tmpmr1t8 refines this claim's "The divided agent pays for its unity
+in effort, devices and lapses". It pays for escalation. A divided agent
+whose regimes settle their disagreement among themselves pays less while
+staying divided, which is practical synchronization (TERM-tmpnfj83)
+without synchronization in TERM-050's sense. CLAIM-tmpmr1t8 rests on this
+claim. A45's Person A (CASE-tmpffqbr) is this claim's divided agent. The
+status is unchanged.

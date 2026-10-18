@@ -94,3 +94,26 @@ persists, and so may the producer.
 - It is not a theory of personal identity. Branching shows it is not one.
 - It does not say any reinstatement counts. A10's duplicate is excluded by
   requiring descent.
+
+## Note of 2026-10-18: a relation between episodes, and branching restated
+
+A3 of the exchange of 2026-10-17: "**Dynamical separation and endogenous
+maintenance are properties of processes. Historical continuity is a
+relation between processes at different times.**" A4's revised candidate:
+"Historical continuity is a relation between organizational episodes, not
+simply another dynamical property of an episode", and "causal transmission
+alone does not settle whether A and B are numerically the *same*
+collective." Neither cited this claim. Arm C of CASE-tmpxqgai is its
+dormant coalition as a construction: a rule passed through an archive
+between two episodes that never run together, where intervening on the
+earlier rule changes the later behaviour.
+
+A24's Proposition 3 restated this claim's second half: "Construct an
+organizational configuration capable of producing two successors, each
+preserving specified organizational features of the predecessor", so
+"This relation cannot alone be numerical identity, because numerical
+identity cannot branch." A24: "This makes CLAIM-287 precise without
+requiring an entire metaphysics of personal identity." It did not cite
+THEORY-447, Parfit's branching argument, which already grounds the claim,
+and it only sketches the construction. Nothing new to the claim beyond
+arm C.

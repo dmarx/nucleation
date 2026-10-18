@@ -153,3 +153,27 @@ detect, impossible.
   error the system can detect only at the recursive level, which is about
   where Di Paolo puts norms for the system. [THEORY-071](THEORY-071.md)'s individuality and
   asymmetry conditions have no counterpart here.
+
+## Note of 2026-10-18: a contribution measure of the kind the promote_when asks for, not yet passing its test
+
+A16 of the exchange of 2026-10-17, under the owner's question about
+normativity from first principles (QUESTION-tmpowurn), proposed the model
+this entry's promote_when asks for, contribution to self-maintenance
+defined from the dynamics alone:
+
+  Δ_p(T) = Pr(τ_O > T | do(p intact)) − Pr(τ_O > T | do(p disabled)),
+
+with τ_O the time at which the specified organization stops being
+maintained. A16 called it "a **functional contribution measure**, not yet a
+moral value or a proof of normativity", dependent on "how \(\mathcal O\), the
+intervention, and organizational failure are specified".
+
+It does not yet meet the promote_when's own test. Any component whose
+removal shortens persistence scores positive, so Δ_p as stated cannot tell
+functions "from mere causal contributions to persistence that no one counts
+as functional". It was not applied to the flame, the protocell or the
+designed controller. THEORY-628 (Di Paolo) is a further objection to the
+step A16 takes from self-maintenance to "endogenous conditions of success
+and failure": persistence against cessation is an all-or-nothing norm
+"available to an observer, not to the system", and a graded norm needs
+adaptivity. Δ_p measures the all-or-nothing norm. The status is unchanged.

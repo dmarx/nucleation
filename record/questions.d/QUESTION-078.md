@@ -47,3 +47,23 @@ It refines [QUESTION-034](QUESTION-034.md). That question's three candidates (ba
 A collective variable for a population of interests that stays well defined while the interests stay distinct, with evidence that it predicts choices or lapses. Or an argument that integration of a will needs agreement among its interests.
 
 *Filed as advice from the interlocutor's reading; the record takes no position.*
+
+## Note of 2026-10-18: practical synchronization, and differentiated roles
+
+The exchange of 2026-10-17 gave this question's second side a name
+without citing the question. A44: "Indeed, unity of governance **should
+not require** unity of valuation", and "An organization may be well
+integrated because it has maintained arrangements for handling
+disagreement, not because it has eliminated disagreement." A45's broader
+sense of synchronization, filed as TERM-tmpnfj83, is coordination of
+regimes that keep their own rankings. The owner's U45 thesis on
+escalation (CLAIM-tmpmr1t8) says what that coordination saves.
+
+A46, at the owner's U46 on niche specialization, gave the
+differentiated-roles half: "intrapersonal synchronization may be better
+modeled as the emergence of a functioning ecology of complementary
+processes than as convergence toward a shared preference ranking." That
+is a candidate answer, not a result. The question's own test, a
+collective variable that stays defined while the interests stay distinct,
+is not met: A45's candidate, how often a higher level must intervene, is
+unmeasured.

@@ -1,77 +1,159 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'A training-time regulatory condition belongs to the unit whose jurisdiction governs the updates'
-
+title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A31's crossed intervention coming out the other way on a conventionally
+  trained network (CASE-tmplvjrp): holding the network fixed and changing
+  the optimizer leaves its characteristic responses to conflicting
+  learning demands unchanged, while holding the optimizer fixed and
+  disrupting a state the network learned abolishes or alters them, so that
+  the regulation of conflict sits in the network even under an external
+  optimizer. Not defeated by a learner with an internal adaptive
+  controller (A31's System B or C), which the claim already allows to
+  carry more of the governance.
 tags:
 - agency
-
+- learning-theory
+- individuation
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- learned-structure
+- distributed-agency
+rests_on:
+- CLAIM-152
+- CLAIM-170
+- CLAIM-174
+- CLAIM-027
+grounds:
+- THEORY-253
+- CASE-tmplvjrp
+complements:
+- CLAIM-288
+- CLAIM-194
+uses:
+- TERM-017
+summary: >-
+  The owner's correction, U31 of the exchange of 2026-10-17: "it might
+  help clarify things if we apply our individuation and volition
+  frameworks to this system", the system being a deep network during
+  training (U30). A31 granted it: "applying individuation first, then
+  volition, then affect exposes a problem in our previous discussion".
+  Individuated for the training dynamics, the unit is at least the
+  network–optimizer pair; mapped through the six relations of
+  will-organization, most of the governance of updates is outside the
+  network's jurisdiction. So optimization difficulty in conventional
+  training is real and belongs to the training system. The sharp edge: it
+  does not say the governance is unreal, or that a network cannot come to
+  hold some of it.
 ---
+<!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 THEORY-253 CASE-tmplvjrp QUESTION-tmp124n3 CLAIM-tmpyk3it — Proposed; open claims and readings, cited as open -->
+<!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim, set aside, cited as the line this one touches -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpw4w7a: A training-time regulatory condition belongs to the unit whose jurisdiction governs the updates
+# CLAIM-tmpw4w7a: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+At U30 the owner asked to "discuss the possibility of meaningful affective
+states attributable to a deep neural network specifically during training"
+(QUESTION-tmp124n3). A30 answered by grading training phenomena as
+ingredients of distress. At U31 the owner redirected: "it might help
+clarify things if we apply our individuation and volition frameworks to
+this system". A31 granted that this was a correction: "applying
+**individuation first, then volition, then affect** exposes a problem in our
+previous discussion: we were asking whether a neural network experiences
+something during training before establishing precisely *which system*
+could possess that state."
+
+A31's conclusion: "Conventional deep-network training is a genuine adaptive
+dynamical process, but most of its apparent goal-directedness and
+regulation belong to the larger optimizer–model–data system rather than to
+the neural network considered separately."
+
+The argument has three steps.
+
+1. **Individuation is relative to the target** (CLAIM-152). In A31's
+   setup, g_t = ∇_θ L(θ_t; d_t), m_{t+1} = F(m_t, g_t), θ_{t+1} = θ_t +
+   U(m_{t+1}, g_t). For predicting outputs, y = f_θ(x), the network is a
+   natural unit. For predicting training, (θ_{t+1}, m_{t+1}) = F(θ_t, m_t,
+   d_t), the joint state is needed: "The same parameter configuration can
+   evolve differently depending on optimizer momentum, moments, or
+   scheduler state." A31 counts five candidates, from a circuit to the full
+   training process, and "there is no entitlement to treat all five as the
+   same individual". CLAIM-157's block criterion, which A31 also cites,
+   gives the same answer for the same reason.
+2. **Agency and will are located by jurisdiction** (CLAIM-170, CLAIM-174).
+   CLAIM-174's third test asks whether the candidate's policy would adapt
+   if its actions' consequences changed. "At the level of the entire
+   training loop, adaptation is clear. At the level of the network alone,
+   autonomous adaptation is much less clear." A willed agent is the
+   jurisdiction of a will-organization (CLAIM-170).
+3. **The relations that select what becomes effective sit outside the
+   network** (CLAIM-027, TERM-017). A31's mapping of the six relations onto
+   training: accessibility to architecture, data selection and optimizer;
+   precedence to loss weights and optimizer geometry; jurisdiction to the
+   computational graph and parameter groups; persistence to parameters plus
+   training dynamics; suspension to optimizer, scheduler and training
+   controller; transformation to the training algorithm or a
+   meta-controller. "much of that arrangement is *outside the neural
+   network's jurisdiction*. That doesn't make the governance unreal. It
+   means it belongs to a larger system."
+
+THEORY-253 is the documented ground for step 3 in a solvable model: with
+the network's task structure fixed, the optimizer alone decides whether
+independent skills are learned together (gradient descent) or compete and
+emerge in sequence (sign descent).
+
+## The methodological rule
+
+A31 §10: "**Before attributing affect to a trained system, determine
+whether the proposed affective state belongs to the network, the learning
+controller, the larger training apparatus, or some emergent organization
+spanning them.**" This claim is the rule applied to conventional training.
+It is kept here and not filed as a separate entry.
+
+## Acquiring and governing
+
+A31 §7: "acquiring capacities ≠ governing the acquisition of capacities".
+"During ordinary training, the neural network becomes more capable
+*because it is being governed by something outside itself*", and "The
+network's development can be highly organized without being self-directed."
+This is a second appearance of the record's distinction between effective
+action and the capacity to govern among regimes (ARG-007), and of
+CLAIM-284's self as one that takes part in governing its own persistence
+and transformation. A31's own three achievements make the same cut:
+learning a representation, maintaining a learned capability, and
+"Maintaining the learning organization itself", of which "Only the third
+directly approaches the stronger organizational-autonomy criterion."
+
+For affect it matters because, A31: "frustration normally presupposes a
+relevant demand or commitment belonging to the affected system. External
+optimization failure alone does not establish such a commitment." A31's
+Case A, conflicting gradients g_1ᵀg_2 < 0 under a trainer who wants both
+losses minimized, is "Optimization strain in the training process". U33
+later made frustration, not distress, the primitive (CLAIM-tmpyk3it); the
+claim is stated for any regulatory condition, so it holds of either.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- It does not say training-time governance is unreal, or merely
+  metaphorical. It says whose it is.
+- It does not say a network cannot come to hold it. A31 §8: "The relevant
+  transition would be in **who or what governs adaptation**", and "I
+  wouldn't assume such a transition occurs in ordinary deep learning. But
+  it is a clear hypothesis for systems with internal adaptive
+  controllers." Systems B and C of CASE-tmplvjrp are where it would occur.
+- It does not say the training system is an agent with its own norms. Its
+  objectives are the trainer's: "its normative significance derives from
+  the training objective chosen by the trainer." CLAIM-288 says a
+  modeller-fixed objective cannot show self-constitution, and the training
+  system inherits that limit. A31's "Unity of optimization" is not its
+  "Unity of self-governance".
+- It does not decide anything about feeling. A31: "None of these
+  capacities, individually or jointly, establishes phenomenal
+  consciousness."
+- It does not supply the boundary test. CLAIM-194 objects that a coupling
+  criterion cannot tell a boundary a system makes from one imposed on it,
+  and in conventional training the boundary is imposed.

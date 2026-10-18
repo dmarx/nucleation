@@ -114,3 +114,16 @@ already holds.
   effective action and maintaining the capacity to govern among regimes are
   different achievements ([CLAIM-099](CLAIM-099.md)). The exchange did not say so, and
   the overlap is filed in the workbench entry of 2026-10-13, 21:29.
+
+## Note of 2026-10-18: acquiring capacities is not governing their acquisition
+
+A31 of the exchange of 2026-10-17, on a deep network in training: "acquiring
+capacities ≠ governing the acquisition of capacities". "During ordinary
+training, the neural network becomes more capable *because it is being
+governed by something outside itself*." Of its three achievements, learning a
+representation, maintaining a learned capability and "Maintaining the
+learning organization itself", "Only the third directly approaches the
+stronger organizational-autonomy criterion." That is this claim's
+"takes part in governing the conditions of its own persistence", reached
+again without citing it, and A31's "Unity of self-governance" is its name for
+it. CLAIM-tmpw4w7a holds the application.

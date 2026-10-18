@@ -100,3 +100,26 @@ different kind of integration from agreement because valuations
 coincide? If it is, it may be where the mechanism lives.
 
 *Drawn by the assistant and filed at the owner's request.*
+
+## Note of 2026-10-18: candidate parts from the broader sense
+
+A45 of the exchange of 2026-10-17 recommended using the broader sense of
+synchronization (filed as TERM-tmpnfj83) "to specify coupling,
+observable coordination, and intervention-based tests; do not regard the
+objection as refuted yet". Read against this objection's three parts:
+
+- **A coupling.** A45's local dynamics, z_{t+1} = F_local(z_t, c_t, E_t,
+  h_t): the processes' proposals respond to one another through influence
+  relations E_t, with h_t "exceptional supervisory intervention".
+- **A collective variable.** On the record's reading, how often h_t is
+  needed (A45's supervisory cost counts the encounters with h_t ≠ 0). It
+  stays defined while the processes keep distinct rankings, which
+  relative phase would not need and TERM-050's crossing curves cannot
+  give.
+- **Transitions.** A45's sequence from "Recurrent conflict" to "Learned
+  accommodation" would be a switch in that variable, "not a necessary
+  progression".
+
+None is measured, in a person or a model. The objection stands, Proposed,
+and the status is unchanged. CLAIM-tmpmr1t8 is stated in the broader
+sense and inherits the objection.

@@ -1,77 +1,129 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
-status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'The local frustration residual has a dual certificate, and an actual update exceeds it by a nonnegative governance regret'
-
+status: Active
+title: 'On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
+warrant: demonstrated
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  An error in the derivation: an instance of the convex local problem
+  (finite-dimensional, norm-ball update set, linear first-order changes)
+  where the primal and dual values differ, where a feasible d exists
+  despite a multiplier vector λ ≥ 0 with Σλ_iε_i > r‖Σλ_ig_i‖_*, or where
+  an admissible update has worst shortfall below Φ_r. Not defeated by
+  nonconvex or discrete update sets, by the failure of the first-order
+  model at finite steps, or by the residual's dependence on units, all of
+  which the claim excludes or states.
 tags:
-- agency
-
+- operations-research
+- mathematics
+- loss-landscapes
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- distributed-agency
+- formal-apparatus
+rests_on:
+- CLAIM-tmp55mls
+uses:
+- TERM-tmp9lmlt
+summary: >-
+  A34 §4 and A35 §3 of the exchange of 2026-10-17, checked. The residual
+  is the smallest worst-case shortfall of the declared local improvements
+  ε_i over updates of size at most r. Minimax for the bilinear problem on
+  two compact convex sets gives the dual over the simplex, so Φ_r > 0
+  exactly when some λ certifies that no update meets all demands (A34's
+  form). Governance regret Γ is the gap between an actual admissible
+  update's shortfall and Φ_r, and is never negative. For L₁ = (θ − 1)²,
+  L₂ = (θ + 1)² at θ = 0, Φ_r = ε for every r. The sharp edge: per A37 it
+  is a cardinal refinement of the ordinal fact (CLAIM-tmp55mls), and its
+  magnitude depends on units (A36 §2D).
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpue67e: The local frustration residual has a dual certificate, and an actual update exceeds it by a nonnegative governance regret
+# CLAIM-tmpue67e: On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A34 §4 posed the test: under a budget r, is there a d with ‖d‖_𝓜 ≤ r and
+−⟨g_i, d⟩ ≥ ε_i for all i? A35 §3.1, at the owner's U35 ("agree that this
+is our top priority, flesh this out"), defined the residual
+
+  Φ(θ; 𝒰, ε) = min_{d∈𝒰} max_i (ε_i + g_iᵀd),
+
+with g_i the gradient of demand i and ε_i > 0 the improvement it requires
+over the next local step. Φ ≤ 0 when some admissible update meets every
+requirement to first order; Φ > 0 when every admissible update fails one.
+A35 §3.2 gave the dual for 𝒰_r = {d : ‖d‖ ≤ r}. Both are checked here.
+
+## Proof
+
+Let ‖·‖ be a norm on ℝᵖ and ‖h‖_* = max_{‖d‖≤1} hᵀd its dual. Write Δ for
+the simplex in ℝⁿ.
+
+1. **Primal as a saddle problem.** max_i a_i = max_{λ∈Δ} Σλ_ia_i, so
+   Φ_r = min_{‖d‖≤r} max_{λ∈Δ} [Σλ_iε_i + (Σλ_ig_i)ᵀd]. The function is
+   affine in d and linear in λ, and both sets are compact and convex.
+2. **Exchange.** By the minimax theorem for such functions (von Neumann's,
+   or Sion's), min and max commute:
+   Φ_r = max_{λ∈Δ} min_{‖d‖≤r} [Σλ_iε_i + (Σλ_ig_i)ᵀd].
+3. **Inner minimum.** min_{‖d‖≤r} hᵀd = −r‖h‖_*, by the definition of
+   the dual norm. So
+
+     Φ_r = max_{λ∈Δ} [ Σλ_iε_i − r‖Σλ_ig_i‖_* ].
+
+4. **The certificate.** The minimum in the primal is attained (continuous
+   function, compact set), so a d with ‖d‖ ≤ r and −g_iᵀd ≥ ε_i for all i
+   exists iff Φ_r ≤ 0, iff Σλ_iε_i ≤ r‖Σλ_ig_i‖_* for every λ ∈ Δ, and,
+   since both sides are positively homogeneous in λ, for every λ ≥ 0. That
+   is A34's form. A λ ≥ 0 with Σλ_iε_i > r‖Σλ_ig_i‖_* certifies
+   infeasibility by itself: any feasible d would give Σλ_iε_i ≤
+   −(Σλ_ig_i)ᵀd ≤ r‖Σλ_ig_i‖_*.
+5. **Governance regret.** For an update d^actual the organization
+   actually makes, Γ = max_i(ε_i + g_iᵀd^actual) − Φ_r. If d^actual is
+   admissible, it is one of the d the minimum ranges over, so Γ ≥ 0. Γ = 0
+   exactly when the actual update is a minimizer.
+
+The identity was also checked numerically when this was filed: on 2,000
+random instances with the ∞-norm ball (dual norm ℓ₁), both sides solved
+as linear programs agreed to within 10⁻¹⁴.
+
+## The worked case
+
+K07 (CASE-tmpuc54q), A35 §3.4: L₁ = (θ − 1)², L₂ = (θ + 1)², θ ∈ ℝ, at
+θ = 0, with ε₁ = ε₂ = ε. Here g₁ = −2, g₂ = 2, and ‖·‖_* = |·|. The dual
+value at λ = (½, ½) is ε − r·0 = ε, so Φ_r ≥ ε. Every d gives
+max(ε − 2d, ε + 2d) ≥ ε, with equality at d = 0, so Φ_r = ε for every
+r ≥ 0. No budget helps: this is structural frustration (CLAIM-tmpl8vsy).
+After K07's split into θ_A, θ_B, at (0, 0) with the Euclidean norm,
+Φ_r = ε − √2·r, which is positive only while r < ε/√2.
+
+## An application of a known theorem
+
+A39 §2A: if 𝒰 ⊆ ℝᵖ is convex, each A_i = {d ∈ 𝒰 : −g_iᵀd ≥ ε_i} is convex,
+so by Helly's theorem, when the demands cannot all be met, "some subset of
+at most p+1 demands already witnesses the incompatibility". A39 said what
+it is: "an application of an established theorem, not a new theorem". In
+the terms of CLAIM-tmp55mls, the minimal non-faces of the complex have at
+most p + 1 members, and fewer when 𝒰 has lower affine dimension. The bound
+needs convexity, and A39: "nonlinear, discrete, or nonconvex learning
+constraints need not obey this same bound."
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That the multipliers are endorsement weights.** A35: "Importantly,
+  these dual multipliers are not endorsement weights." They certify
+  difficulty; the weights governance actually assigns are another matter
+  (CLAIM-tmpl8vsy, QUESTION-tmpkzu6g).
+- **That the magnitude means anything without units.** A36 §2D: "Even when
+  all objectives are numerical, their units matter. Rescaling one loss
+  function can change the scalar diagnosis unless we rescale and normalize
+  the corresponding requirement consistently." The sign of Φ_r, feasible or
+  not, survives a consistent rescaling of g_i and ε_i together; its size
+  does not. Per A37 the residual is "a quantitative refinement of a more
+  basic order-theoretic feasibility problem, not the definition of
+  frustration itself", which is why it rests on CLAIM-tmp55mls.
+- **Anything beyond the convex local model.** A34: it "applies to this
+  local linearized, norm-constrained problem; additional nonconvex
+  architectural or discrete update constraints require different
+  analysis."
+- **That a change of chart changes it.** With the metric pulled back it is
+  invariant (CLAIM-tmpuia0a); with the Euclidean norm taken afresh in each
+  chart it is a different problem.

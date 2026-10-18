@@ -1,77 +1,159 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Freedom of will and autonomy come in degrees along several dimensions and compare by inclusion, a partial order'
-
+title: 'Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A showing, in the model class the claim is applied to, that the
+  dimensions are not separable: that one of them (say viable
+  reachability) fixes the others, so that a single scalar defined from
+  the dynamics alone, with no task or value fixing weights, agrees with
+  every matched comparison the profile makes and leaves no pair
+  incomparable. Or a showing that, under matched state, horizon, budget,
+  disturbance class and viability set, the viable reachable sets of any
+  two candidate agents are always nested. Not defeated by intuitions that
+  one of two agents is plainly freer, nor by a scalar built for a
+  declared task, which the claim allows.
 tags:
+- free-will
+- self-governance
 - agency
-
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-079
+- CLAIM-025
+- CLAIM-tmp1glr8
+grounds:
+- THEORY-134
+- THEORY-054
+- THEORY-411
+- THEORY-654
+complements:
+- CLAIM-128
+- CLAIM-122
+- CLAIM-027
+- CLAIM-tmph678z
+summary: >-
+  The owner's, U9 of the exchange of 2026-10-17: "controllability of a
+  system isn't binary, and neither is sensitivity to perturbation", so
+  can the account speak of "gradations (perhaps even gradients/spectra?)
+  of freedom of will/autonomy". Worked out by A9 §3 and §7, A10 §7 and
+  A15's central thesis. The dimensions vary separately, and comparison
+  is by inclusion of viably reachable sets under matched conditions, a
+  partial order, the shape CLAIM-128 has in the transport line. The
+  sharp edge: it does not measure metaphysical free will or
+  responsibility, and reachable-set size is not monotone with autonomy,
+  since a precommitment can shrink the set while making an endorsed
+  project realizable.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpilfhr: Freedom of will and autonomy come in degrees along several dimensions and compare by inclusion, a partial order
+# CLAIM-tmpilfhr: Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The owner, U9 of the exchange of 2026-10-17: "controllability of a system
+isn't binary, and neither is sensitivity to perturbation. I'm wondering if
+our account equips us to make concrete statements about gradations
+(perhaps even gradients/spectra?) of freedom of will/autonomy".
+
+The record held graded autonomy in one sense only: integration
+(THEORY-054, Ryan and Deci), and its own graded-ownership thesis, CLAIM-016,
+is Deferred with the `authenticity` line. Nothing in it graded control
+authority by reach, cost or robustness. The owner's idea is new to the
+record.
+
+A9 §3 built the object. Given a set K of conditions the organization must
+keep satisfying, R_T^K(s₀; E) is the set of states it can reach within
+horizon T, staying in K, with control expenditure at most E. That is
+CLAIM-079 put to work: what counts is the viable alternatives, not the
+stable ones. Then: "We can compare systems by **set inclusion** ... Under
+matched states, costs, controls, and environmental conditions, that means
+A has at least all of B's viable alternatives. But when reachable sets
+overlap without containing one another, the systems are **incomparable**,
+rather than one being objectively freer." And: "This gives us a partial
+order of freedom, which seems much more defensible than a universal
+ranking."
+
+The dimensions vary separately, each for its own reason:
+
+- **Viable reachability against control cost.** Equal controllability rank
+  leaves the cost of a transition free (CLAIM-tmp1glr8). A9: a person
+  "might genuinely be able to reorganize a habit, but the cognitive,
+  social, emotional, or material effort needed could be prohibitively
+  large."
+- **Robustness to disturbance.** A9 §4: "an option available only when the
+  environment cooperates is different from one the organization can
+  reliably realize under resistance." The robust set asks for a policy
+  that works against every admissible disturbance (∃π ∀w). THEORY-654 is a
+  case on file: the LQR margins hold with the full state and are lost with
+  an observer, so a plant can be controllable and observable and still
+  fragile.
+- **Governance.** A9 §4: "A remotely operated robot can have an enormous
+  reachable state space while its actions are determined entirely by
+  someone else." What is reachable is not what the organization's own
+  governance can select (CLAIM-027, CLAIM-122).
+- **Revisability against reliable execution.** A9 §7: "strong habits can
+  improve control economy while reducing revisability." That is CLAIM-025
+  and CLAIM-099: the operative regime, its governance and the capacity to
+  transform it persist or fail separately.
+- **Motivational integration.** Added by A15 §8.1, F = (R, C, V, G, I, E_f,
+  R_v), from THEORY-054. A15 conceded what SDT already holds: "The novelty
+  is **not** that autonomy comes in degrees."
+
+A9 and A10 also list the efficacy of a higher-order attitude on
+governance (A9's "endorsement efficacy", E_d). It is a candidate
+dimension, an influence: A9, "It measures influence, not the normative
+validity of endorsement."
+
+On the owner's "gradients", A9 §8: a declared measure J(θ) of the viable
+options has a gradient ∇_θ J, "But it wouldn't be an objective gradient of
+free will. It would be the gradient of **a declared operational measure**,
+under a declared model." A10 §7 the same: "It would not be an objective,
+context-free gradient of metaphysical free will." So there is a gradient
+once a task or value fixes the measure, and a profile, compared by
+dominance, before one does.
+
+The shape is on file in another line. CLAIM-128 and TERM-043: transport
+profiles that trade off "are incomparable until a task fixes weights".
+THEORY-411: Sen's approach "is deliberately incomplete and yields a partial
+ordering". QUESTION-115 has A12 of 2026-10-16 on individuation: "There
+isn't yet a justified single scalar objective". This claim is the same
+shape for freedom of will.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **Not metaphysical free will, and not responsibility.** A9's three senses:
+  "Degrees of effective agency", "Degrees of autonomous governance", and
+  "Freedom of will in the metaphysical sense". "The first two look amenable
+  to quantitative characterization. They may help clarify the third, but
+  they don't settle questions about determinism, moral responsibility, or
+  ultimate sourcehood." The claim is about the first two. On Fischer and
+  Ravizza (THEORY-121), responsibility needs guidance control and not
+  regulative control over alternatives, so a larger reachable set does not
+  make a more responsible agent.
+- **Not that more reachable is freer.** Inclusion orders one dimension.
+  A11 §4: "A person who restricts access to a distraction might reduce
+  immediate behavioral flexibility while increasing their ability to
+  pursue an endorsed project." That is the reluctant writer (CASE-013).
+  The precommitment shrinks the reachable set and lowers the cost and
+  raises the robustness of the endorsed project. So the writer before and
+  after are compared dimension by dimension, and may be incomparable.
+  Reachable-set size is not monotone with autonomy.
+- **Not endorsement in the record's sense.** The record's endorsement
+  (TERM-053) is any effect one process has on another's share of future
+  influence, and it is not Frankfurt's. A9's "endorsement" is the
+  reflective attitude. Here it is called higher-order volition.
+- **Not that the dimensions are measured.** A9: "a Gramian is not
+  automatically a meaningful psychological measure", and the profile's
+  symbols "denote dimensions, not yet fully specified measurements."
+- **Not that reachable states are valuable.** A11: "a control system's
+  reachable states are not automatically valuable human opportunities."
+  That is CLAIM-tmph678z's point and CLAIM-075's.
+- **Not that K is the agent's own.** The comparison is relative to a
+  viability set given from outside the dynamics (THEORY-134, CLAIM-195).
+  Who fixes K is still open.
+- **Not ownership.** Integration enters as one dimension. Whether a will is
+  its own to a degree is CLAIM-016's question, which stays Deferred.

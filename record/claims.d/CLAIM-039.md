@@ -44,3 +44,26 @@ Deferred, not rejected: it is a different paper.
 [THEORY-055](../theory.d/THEORY-055.md) and [THEORY-125](../theory.d/THEORY-125.md) now ground this claim. [THEORY-055](../theory.d/THEORY-055.md) supplies the Frijda characterization the claim depends on (a mode of action readiness), not evidence that organizations meet it. [THEORY-125](../theory.d/THEORY-125.md) holds that a group emotion, being a functional kind, "need not be felt", though "no actual case has yet been shown".
 
 The difficulty: [THEORY-101](../theory.d/THEORY-101.md) (Veit) identifies hedonic valence with a coordinated regulatory state. On that view a functional valence state is a felt one, which is the uncoupling this claim denies. It is not a ground, so no edge is written. It is limited to hedonic valence in animals, while this claim uses Frijda's action readiness. If the line is taken up again, it is the objection to answer first.
+
+## Note of 2026-10-18: the owner reopened the line, with distress and then frustration
+
+In the exchange of 2026-10-17 the owner brought this line back. At U27 the
+owner asked how the framework "might account for illusory binding-type
+phenomena in distributed agents", adding "Our material on emotion might be a
+good place to start." A27 cited this claim as a ground of its binding thesis,
+now CLAIM-tmpk7n2q, which names it in its body and does not rest on it. At U28
+the owner corrected the category: "'fear' is too specific. 'distress' is
+probably a lot easier to reason about within our framework." A28 granted it:
+"**Distress is a much better starting point than fear**". At U33 the owner
+moved again, "maybe we should focus less on distress and more on frustration",
+and A33 granted that too (CLAIM-tmpyk3it).
+
+The move is from a category, anger or fear, to a minimal regulation-defined
+affect. Its natural grounds are already in the record: Di Paolo's adaptivity,
+a graded norm the system itself has (THEORY-628); Ashby's second feedback
+through essential variables (THEORY-324); and the viability kernel
+(THEORY-134). A27 named THEORY-101 as the objection, which this claim's note
+of 2026-10-12 already names as the one to answer first.
+
+The status stays Deferred. Whether the line leaves Deferred is the owner's
+decision, and it is not made here.

@@ -1,77 +1,113 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: "Sen's opportunity and process aspects of freedom divide along reachability and will-organization"
-
+title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A capability evaluation in which the valued functionings can be read
+  off the viable reachable set with no evaluative map, so that the
+  "only through" clause does no work. Or a case in which two agents with
+  the same viable reachable set and the same will-organization differ in
+  the part of process freedom the claim assigns to will-organization,
+  whether the choice was the agent's own doing rather than another's, so
+  that process freedom does not live where the claim puts it. Not
+  defeated by process freedoms of procedural fairness or rights, which
+  the claim leaves out.
 tags:
+- self-governance
+- ethics
 - agency
-
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-079
+- CLAIM-027
+grounds:
+- THEORY-025
+- THEORY-411
+complements:
+- CLAIM-075
+- CLAIM-tmpilfhr
+summary: >-
+  The owner's connection, U11 of the exchange of 2026-10-17, quoting A9
+  and A10 on viable reachability: "This feels reminiscent of ideas from
+  moral philosophy, e.g. Amartya Sen capabilities account." Worked out by
+  A11. Sen's opportunity aspect is what reachability can represent, once
+  a map says which reachable trajectories are valued functionings. His
+  process aspect is in part what will-organization models: whether the
+  agent's own governance selected the outcome. Read first-hand in
+  NOTE-263 (Sen's lecture) and NOTE-259 (Robeyns). The sharp edge:
+  reachable states are not capabilities, and an efficacious governance
+  is not a fair or legitimate process.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmph678z: Sen's opportunity and process aspects of freedom divide along reachability and will-organization
+# CLAIM-tmph678z: Sen's two aspects of freedom divide along the record's line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The owner, U11 of the exchange of 2026-10-17, quoted A9's heading and
+A10: "Freedom as viable reachability [...] A component of effective
+freedom is the ability to transform one's state or organization without
+losing the conditions necessary to continue acting." Then: "This feels
+reminiscent of ideas from moral philosophy, e.g. Amartya Sen capabilities
+account."
+
+The record holds Sen and has read him, but nothing joined capability to
+viability before this. THEORY-025 is conversion: equal resources leave
+unequal capabilities. THEORY-411 is the partial ordering left by
+unsettled weights. Sen's lecture, read in NOTE-263 (§XI, p. 199): liberty
+has an opportunity aspect and a process aspect. Robeyns, read in NOTE-259:
+"Capabilities capture the opportunity aspect of freedom but not its
+process aspect".
+
+A11 drew the line through the record's own distinction. "That maps
+remarkably well onto the distinction we've been developing between
+reachable outcomes and will-organization."
+
+- **Opportunity, through a map.** A11's dynamic capability set applies a
+  map f to viable trajectories: "Here f maps a feasible trajectory to
+  functionings we care about". The reachable set alone is not a
+  capability set. A11: "a control system's reachable states are not
+  automatically valuable human opportunities", and "A system could gain
+  the capacity to perform countless trivial operations while losing the
+  ability to participate in social life". The map is evaluative, and
+  control theory does not supply it.
+- **Conversion is the dynamics.** A11's table puts Sen's conversion
+  factors at "Dynamics, control authority, environmental constraints".
+  CLAIM-tmp1glr8 is a conversion fact: the same input buys Δ at cost Δ²/b²,
+  so equal means leave unequal reach, which is THEORY-025's thesis in
+  control terms.
+- **Process, in part.** A11: "One chooses it through deliberation and
+  endorsement. The other is manipulated into choosing it. Their final
+  functioning might be identical". Its proposal: will-organization as "**an
+  explicit causal model of process freedom**". Whether the agent's own
+  maintained relations (CLAIM-027) decided which alternative became
+  effective is a causal question, and that is the part of process freedom
+  the account can model.
+- **No scalar without a standard.** A11, with Nussbaum: "**there is no
+  uniquely privileged scalar of autonomy without an evaluative
+  standard.**" That is THEORY-411's partial ordering and CLAIM-tmpilfhr's.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **Not all of the process aspect.** In Robeyns (NOTE-259) the process
+  aspect sits with procedural fairness and basic liberties, and Sen's
+  lecture discusses it for the liberal paradox in social choice. Those
+  are about procedures among persons. Will-organization models whether an
+  agent's own governance selected the outcome. It says nothing on whether
+  the procedure was fair.
+- **Not legitimacy.** An efficacious, self-maintained governance can
+  serve bad ends, as a viable institution can be unjust (CLAIM-075). The
+  causal model of process freedom is not its justification.
+- **Not Sen's view.** The mapping is A11's. Sen does not speak of
+  reachable sets or will-organization. A11 cited redacted search results
+  for the opportunity/process distinction. The record's first-hand source
+  is LIT-282, read in NOTE-263.
+- **Not "capability-preserving agency".** A11's coinage appears once and
+  is not filed.
+- **Not that the opportunity aspect is set size.** A precommitment can
+  shrink what is reachable while securing a valued capability (A11 §4,
+  CASE-013). How far that counts as more freedom is a question of
+  weights.

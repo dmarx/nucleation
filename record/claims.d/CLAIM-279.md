@@ -91,3 +91,41 @@ noise-adding is relative to the pattern taken as signal.
   disruptive but globally beneficial." Exploitation crowding out exploration
   is March's reading ([THEORY-142](../theory.d/THEORY-142.md)). Correctability of a whole's course is
   [QUESTION-041](../questions.d/QUESTION-041.md).
+
+## Note of 2026-10-18: the owner returns to niche specialization
+
+The idea's second appearance. The owner, at U46 of the exchange of
+2026-10-17, quoting A45 ("Different processes may be differently reliable
+or specialized. A good organization can assign them different degrees of
+authority."): "this looks like a potentially useful integration point for
+ideas from ecology like niche specialization."
+
+A46 said this claim "explicitly anticipates **emergent niche
+specialization among meaning operators**". That is the owner's U5 remark
+in its body; the claim itself disclaims that niches always emerge. What
+A46 added:
+
+- **Chesson (2000).** Stabilizing niche differences, which favour
+  coexistence, against equalizing mechanisms, which reduce average
+  fitness inequalities. A46: "Equality of authority ≠ coexistence through
+  differentiated competence", with the caveat "We should not equate
+  Chesson's ecological fitness differences with endorsement weights".
+  Two operators with different overall success can stay complementary
+  because they do well in different circumstances.
+- **A recovery-of-influence test.** "When the conditions under which a
+  specialist is useful arise, can that specialist recover effective
+  influence, even after a long period in which its contributions were
+  unnecessary?" A46 likened it to recovery from rarity in coexistence
+  theory, which "is not directly a measure of authority".
+- **Differentiation, not compromise.** "In differentiation, the
+  organization changes its structure so the processes can contribute in
+  different, potentially complementary ways. That can enlarge the
+  feasible satisfaction set rather than merely choose a point within the
+  old one."
+- **Cooper and West (2018)**, as A46 reads them: specialization "may
+  improve local coordination while simultaneously increasing the
+  organization's vulnerability to the loss or capture of a specialist".
+
+The failure side, a rare specialist starved of exposure, is noted on
+CLAIM-277. The test is used for the owner's non-domination criterion,
+CLAIM-tmpqofon. The status is unchanged.

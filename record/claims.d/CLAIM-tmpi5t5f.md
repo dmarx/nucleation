@@ -1,77 +1,104 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Jurisdiction, not information, is where distributed governance must give'
-
+title: 'A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow''s impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A showing that operator jurisdiction in a will-organization lacks the
+  structure of pairwise decisiveness: that an operator's authority over a
+  domain cannot be represented as its ranking deciding the collective
+  ranking of some pair of whole organizational states, for example
+  because jurisdiction is over components of a state and composes without
+  fixing any choice between complete states. Not defeated by Sen's
+  theorem being restricted to the axioms it states, which the claim
+  carries over unchanged.
 tags:
+- society-and-governance
+- self-governance
 - agency
-
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-027
+grounds:
+- THEORY-027
+complements:
+- CLAIM-tmp442x9
+summary: >-
+  From U36 of the exchange of 2026-10-17. The owner raised Arrow; A36
+  answered "Sen's liberal paradox may be even closer than Arrow" and
+  asked whether a will-organization can "guarantee coherent joint
+  decisions while preserving specified domains of constituent authority
+  and respecting unanimous preferences". THEORY-027 says no in general,
+  and its title holds the difference A36 cited without stating: "unlike
+  Arrow's theorem, the conflict is not removed by interpersonal
+  comparability". So A36's remedy, letting endorsement use richer
+  information, answers Arrow but not jurisdiction. The sharp edge: it
+  holds only if operator jurisdiction is pairwise decisiveness, which
+  THEORY-027 leaves open even for persons.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpi5t5f: Jurisdiction, not information, is where distributed governance must give
+# CLAIM-tmpi5t5f: A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The owner, at U36, wondered whether "Arrow's Impossibility Theorem might be
+useful to us". A36 §2E: "Sen's liberal paradox may be even closer than
+Arrow", because it "concerns jurisdiction", and asked: "Can a distributed
+will-organization guarantee coherent joint decisions while preserving
+specified domains of constituent authority and respecting unanimous
+preferences?" A36's answer was "Sometimes the answer may be no."
+
+The record can say more. Jurisdiction is one of the maintained relations by
+which CLAIM-027 says a will-organization makes a regime effective. Read an
+operator's jurisdiction as Sen's minimal liberalism (L*): over some pair of
+organizational states, its ranking decides the collective ranking, both
+ways. Read respect for unanimity as weak Pareto, and the absence of
+restrictions on how operators may rank as an unrestricted domain. Then
+THEORY-027 (Sen (1970), proof checked in this record) applies as it
+stands: no rule satisfies all three, even when it need only yield a best
+element of each menu and need not be transitive. Two operators with
+jurisdiction, unanimity and any profile are enough to leave some menu with
+no choosable state.
+
+**What it adds to A36.** A36 §2D, citing NOTE-263, said "the dual mapping
+model should explicitly represent which kinds of information endorsement
+procedures may use", because, on Sen's reading, allowing interpersonal
+comparisons breaks Arrow's impossibility. Then it cited THEORY-027 as
+"even closer" without saying that the remedy does not carry over.
+THEORY-027: the liberal paradox "cannot be satisfactorily resolved through
+the use of interpersonal comparisons", since "neither liberty claims nor
+Pareto depend on the intensities of preferences". U, weak Pareto and L*
+are stated on rankings alone, and the cycle is forced by the rankings, so
+supplying cardinal or comparable information changes no premise. The only
+exits are THEORY-027's: weaken unanimity, weaken jurisdiction, or restrict
+the domain. For a will-organization that means: some operator's
+jurisdiction is conditional, some unanimous preference is overridden, or
+some combinations of operator rankings are excluded by the organization's
+structure.
+
+So the claim: where distributed governance meets this obstruction, the
+fix is a change in how jurisdiction is allocated or bounded, in
+CLAIM-027's terms, and not a richer signal to the endorsement procedure.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That operators have rights.** A36: "Network modules aren't
+  automatically moral agents, and their optimization preferences are not
+  equivalent to individual rights." The transposition uses the formal
+  structure only.
+- **That operator jurisdiction is pairwise decisiveness.** That is the
+  premise, and the defeater. THEORY-027 leaves open "whether pairwise
+  decisiveness is what liberty is" for persons, and the same question
+  arises for operators, whose authority may be over components of a state
+  rather than over choices between whole states.
+- **That real organizations fail to choose.** Sen's proof needs a handful
+  of profiles; an organization whose operators never rank that way, or
+  whose jurisdictions never overlap in the forcing pattern, escapes it.
+  Which domain restrictions suffice is open in THEORY-027 too.
+- **Which exit is right.** Sen's own suggestion, people's priorities
+  between liberty and overall desire fulfilment, is THEORY-027's
+  interpretation, not a result, and has no worked analogue for operators
+  here.

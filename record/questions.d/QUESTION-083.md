@@ -46,3 +46,31 @@ organization constitutes itself.
 An answer is a population model with no governance or role primitives, the
 parameter regimes in which durable differentiated authority forms or fails
 to, and ablations showing which mechanism each regime needs (A7 §12.4).
+
+## Note of 2026-10-18: the owner's niche idea again, and a sharper experiment
+
+The owner returned to niche specialization at U46 of the exchange of
+2026-10-17: "this looks like a potentially useful integration point for
+ideas from ecology like niche specialization." It is the idea's second
+appearance (CLAIM-279). A46 found this question and strengthened its
+experiment with ecological criteria:
+
+- Compare allocation of influence "based on independent contribution
+  estimates, similarity to the dominant policy, or historical
+  endorsement alone".
+- Ask "whether specialists emerge spontaneously, whether cooperation
+  reduces higher-order arbitration costs, whether a rare specialist can
+  regain influence when its relevant context returns, and whether the
+  organization can reorganize after losing one of its established
+  specialists."
+- Compare against "ordinary mixtures of experts, contextual routing, and
+  multitask-learning baselines. Those architectures already produce
+  specialization." The model must show something more, "such as
+  **endogenous revision of roles and authority under changing
+  conditions**".
+
+From Chesson (2000), A46 took the distinction an answer should report:
+coexistence through stabilizing niche differences, not equality of
+authority ("Equality of authority ≠ coexistence through differentiated
+competence"). The failure mode an answer must rule out, niche exclusion
+by authority deprivation, is noted on CLAIM-277. Nothing has been run.

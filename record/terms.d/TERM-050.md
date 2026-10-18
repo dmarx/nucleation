@@ -64,3 +64,22 @@ regimes in play.
   organization of relations that governs which regime is effective.
   Synchronization is a condition in which that organization has nothing to
   decide.
+
+## Note of 2026-10-18: a broader sense, filed as a new term
+
+The owner, at U45 of the exchange of 2026-10-17, on A44's gloss of this
+term: "we should probably propose a more general definition for this
+term, especially in light of how our understanding of intrapersonal
+ranking compatibility has evolved." A45 drafted a revision of this term,
+marked "Proposed revision to an Active term; not yet adopted": regimes
+that "sustain mutually compatible courses of practical activity without
+requiring recurrent overriding arbitration by processes operating at a
+higher level of governance", whatever their rankings.
+
+The record files that sense as a new term, TERM-tmpnfj83 (practical
+synchronization), and leaves this one as it is. A changed definition is
+a new TERM, and six claims are stated in this one. A45 itself called this
+sense "*Valuational concordance*", "the special case captured by the
+previous definition". This term is not superseded here. Whether
+TERM-tmpnfj83 should supersede it, taking the bare word for the broad
+sense, is for the owner.

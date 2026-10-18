@@ -1,77 +1,187 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Resolve is maintained, revisable governance of a commitment, not persistence'
-
+title: 'Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A result in which what this claim attributes to resolve is entirely
+  accounted for by parameter inertia, ordinary regularization or
+  externally imposed protection, with no independent causal role for the
+  maintained influence relations: for example, a learner whose
+  preservation of a commitment across interference, and whose revision of
+  it when revision is warranted, are unchanged when its slow influence
+  structure is perturbed or ablated with task information and capacity
+  held fixed. Not defeated by systems that persist without revising,
+  which the claim classes as rigid, not as counterexamples.
 tags:
+- self-governance
+- behavioral-integration
 - agency
-
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-277
+- CLAIM-331
+- CLAIM-099
+grounds:
+- THEORY-067
+- THEORY-688
+summary: >-
+  The owner's frame, U37 of the exchange of 2026-10-17: "I think emergence
+  of "resolve" could be an interesting frame within which to examine our
+  will-organization framework." A37 defined it, and A39 to A47 revised it
+  each turn: retention and revision as separate grades, fragility against
+  rigidity (A41), access against authority (A42), and governance that
+  makes its own repeated exercise unnecessary (A45, A47). The record
+  already holds a theory of resolve, Ainslie's recursive staking of
+  future choices (THEORY-067); this is its organizational and revisable
+  form, placed in CLAIM-159's will-organization cell. The sharp edge: the
+  standard for when revision is warranted is not supplied, and is
+  QUESTION-087's open problem.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmp0wvwc: Resolve is maintained, revisable governance of a commitment, not persistence
+# CLAIM-tmp0wvwc: Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A36: "Resolve can emerge when current decisions become linked to
+expectations concerning future decisions." The owner, at U37: "I think
+emergence of "resolve" could be an interesting frame within which to
+examine our will-organization framework."
+
+A37 §3: "**Resolve is a maintained organization of precedence, commitment,
+and revision that preserves the practical efficacy of a temporally extended
+policy across foreseeable changes in locally dominant evaluations.**" It set
+resolve beside five other ways a long-term policy B can win over a
+momentarily favoured A: preference reversal, bundling, precommitment,
+endorsement and suspension. Resolve is the one in which "A persistent
+organization sustains B's practical authority across the relevant changes
+in local evaluation". Then: "**mere slowness isn't resolve**. A slow
+parameter could also be irrelevant, externally imposed, or maladaptively
+fixed. The crucial properties are causal governance, retention across
+relevant disturbances, and appropriate capacity for revision."
+
+The claim has three parts, each resting on a claim the record holds.
+
+1. **Durable authority, earned.** The commitment's precedence is held by
+   influence relations that persist. CLAIM-277 says durable authority can
+   be "the temporal regularity of endorsement", and that "the same loop
+   entrenches whatever gained influence early", which is the rigidity risk
+   inside the mechanism.
+2. **Slowness is not enough.** CLAIM-331: higher-level variables are
+   slower, but "slowness is a mark of a level and not its definition". A37
+   on the two-timescale update rule (Heusel et al. 2017, held in the
+   anthology as ANTH-LIT-611): "the slower process in TTUR is the generator,
+   not a higher-order will-controller. Slowness alone supplies no authority
+   or motivational hierarchy."
+3. **Revision kept.** CLAIM-099: maintaining a regime of effective action
+   and maintaining the capacity to govern among regimes are not the same
+   achievement. Resolve needs both. A37: "To prevent rigidity from
+   masquerading as resolve, the commitment conditions must also include an
+   appropriate revision policy."
+
+## The grades
+
+The exchange separated the grades several times, in nearly the same terms.
+
+- A36 on learned features: "**Passive retention**", "**Selective
+  retention**", "**Regulated retention**", tested by "**active causal
+  maintenance**".
+- A37: "**Persistence:** A representation survives. **Resolve-like
+  governance:** Its future efficacy is actively protected through a
+  maintained influence structure. **Adaptive resolve:** The protection
+  itself is revisable in response to appropriate evidence and changing
+  constraints." A40 §5 kept these as retention, resolve-like governance and
+  adaptive resolve.
+- A43: "**Passive persistence:** A representation or policy remains
+  unchanged. **Regulated persistence:** A maintained organization actively
+  protects its efficacy. **Resolve:** A temporally extended commitment
+  retains practical precedence through relevant disturbances. **Adaptive
+  resolve:** The organization preserves that commitment while retaining an
+  effective, context-sensitive procedure for justified revision."
+
+What the claim calls resolve is A37's "adaptive resolve" and A43's top
+grade. The lower grades are persistence.
+
+## Two ways to fail
+
+A41, from the insider-threat material (CLAIM-tmpp9ox0): "resolve should not
+be so easy to manipulate that a constituent can redirect it toward an
+unauthorized objective, nor so rigid that legitimate corrections cannot
+reach it." Its three cases: "**Fragility:** Internal disturbances readily
+destroy or redirect commitments. **Rigidity:** Commitments remain stable
+even when revision is warranted. **Adaptive robustness:** Commitments
+resist inappropriate interference while remaining responsive to legitimate
+evidence and correction."
+
+A42 added what keeps resolve on the adaptive side (CLAIM-tmp6ap9y):
+"Adaptive resolve requires more than persistence of commitment or
+resistance to internal disturbance. A governing organization must
+distinguish access to evaluative signals from their authority over action,
+preserve the capacity to tolerate unresolved conflict without automatically
+suppressing it, and maintain mechanisms for revising commitments and
+governance when warranted." A44 put the same point as a route: in
+"**Reflectively available resolve**", "Competing evaluations remain
+accessible, but their control over action is conditionally governed".
+
+THEORY-688 is the record's documented case of the rigid side in a learner.
+In Botvinick, Niv and Barto's actor-critic, options fitted to an earlier
+layout kept the agent from a newly opened shortcut: primitive-only agents
+found it on 75% of runs, doorway-option agents never used it. Learned
+structure that sped learning protected itself into rigidity.
+
+## Resolve without exertion
+
+A45: "Resolve need not consist in an executive process continually exerting
+effort against resistance. It can consist in a durable organization that
+has made repeated executive exertion less necessary." A47 §8: "**The
+achievement of governance may be to make its repeated exercise
+unnecessary.**" Resolve is then "**the persistence of an effective
+commitment through the organization of its constituent processes**, rather
+than the continual expenditure of a superior will overpowering them". The
+revision condition stays: "**the maintained capacity to determine when
+persistence, adaptation, and relinquishment are appropriate**".
+
+## Against THEORY-067 and CLAIM-159
+
+The record already holds a theory of resolve. Ainslie (THEORY-067): resolve
+is "the recursive staking of expected future choices on the present one";
+treating a choice as a precedent bundles the series, and a lapse costs the
+rule its credibility. That is A37's "bundling" row, one mechanism among six.
+This claim is not a rival mechanism. It says what organization the
+mechanism must sit in to count as resolve: one that keeps the bundled
+policy effective and can also revise it. Ainslie's own reading predicts the
+failure the revision condition guards against. As NOTE-443 reads it (C6),
+reliance on personal rules predicts legalism, lapse districts, motivated
+misperception and over-control, a claim argued and fitted to clinical
+observation, not tested.
+
+CLAIM-159 puts the record's rival accounts of will in drive-profile cells:
+Ainslie's interests aggregate or emergent, the expected value of control
+top-down, will-organization the maintained organization that governs how
+the drive profile changes. Resolve in this claim's sense belongs to the
+third cell. A45's and A47's point is that it need not be top-down: a mature
+organization keeps a commitment with less specification from above, not
+more.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- It does not give the standard by which revision is warranted. A37 said
+  the revision policy "introduces an independently justified standard for
+  when preservation versus revision is warranted". Whether a standard
+  internal to the organization can tell warranted persistence from
+  entrenchment is QUESTION-087's open problem.
+- It does not say that networks in training have resolve. A37: a
+  consolidation mechanism supplied by the training algorithm "may
+  demonstrate resolve-like organization **of the training system**, not
+  volition owned by the neural network alone". A40's Study D, with its
+  control of perturbing or ablating "the slow influence structure while
+  keeping task information and representational capacity comparable", is
+  the test, and it has not been run.
+- It does not say resolve is good. A commitment kept adaptively can be a
+  commitment to something that ought not to persist (CLAIM-075).
+- It does not say every persistent commitment is rigid. Persistence is
+  sometimes the flexible response (CLAIM-tmp6ap9y); rigidity is persistence
+  when revision is warranted.

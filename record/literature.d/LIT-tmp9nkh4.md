@@ -1,0 +1,39 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the exchange of 2026-10-17, "Synthesis opportunities analysis" (workbench entries of 2026-10-18). No NOTE is filed.
+title: 'Knowledge and common knowledge in a distributed environment'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-18. The DOI is the *Journal of the ACM* version (1990-07). The same title appeared first in the PODC '84 proceedings (doi:10.1145/800222.806735), which Crossref dates to the year only and whose event record gives 27–29 August 1984 (Vancouver). By ADR-002's earlier-date rule `published:` is the conference's opening day, as LIT-824 and LIT-1090 date proceedings; the alternatives are 1984 (year only) and 1990-07. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- logic
+- epistemology
+- network-science
+date: '2026-10-18'
+published: '1984-08-27'
+doi: '10.1145/79147.79161'
+first_author: 'Halpern'
+keywords:
+- 'common knowledge'
+- 'distributed knowledge'
+- 'distributed systems'
+- 'coordinated attack'
+implementations: []
+summary: >-
+  Halpern & Moses (1990; first at PODC 1984). Communication transforms a system's state of knowledge; distributed knowledge and common knowledge are the useful states for designing protocols, and common knowledge, which coordinated action requires, cannot be attained in practical systems, though weaker variants can.
+---
+
+# LIT-tmp9nkh4: Knowledge and common knowledge in a distributed environment
+
+Halpern, J. Y. & Moses, Y. (1990). Knowledge and common knowledge in a distributed environment. *Journal of the ACM* 37(3): 549–587. doi:10.1145/79147.79161. First in *Proceedings of the Third Annual ACM Symposium on Principles of Distributed Computing (PODC '84)*, pp. 50–61, doi:10.1145/800222.806735.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A36 of the exchange used the coordinated-attack result, without a source, for the epistemic obstruction it separated from feasibility and aggregation. This is the paper that proves common knowledge unattainable over unreliable channels. Bears on CLAIM-tmp442x9.

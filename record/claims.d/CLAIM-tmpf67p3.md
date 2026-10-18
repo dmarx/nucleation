@@ -1,77 +1,100 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
-status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled'
-
+status: Active
+title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand is locally satisfied and when unsatisfied demands cancel, and the second is a point where no update improves them all'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
+warrant: demonstrated
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  An error in the construction: that at θ = 0 the losses (θ − 1)² and
+  (θ + 1)² have a direction that lowers both to first order, or that the
+  equal-weight aggregate gradient there is not zero; or an error in the
+  general step, a positive combination of gradients that vanishes while
+  some update lowers every loss. Not defeated by aggregates that do
+  separate the cases, such as a vector of per-demand losses, which are
+  not the scalar the claim is about.
 tags:
+- loss-landscapes
+- operations-research
 - agency
-
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- distributed-agency
+- formal-apparatus
+complements:
+- CLAIM-060
+- CLAIM-276
+uses:
+- TERM-tmp9lmlt
+summary: >-
+  A33 §5 of the exchange of 2026-10-17: "Zero aggregate gradient does
+  not imply absence of frustrated demands." With L₁ = (θ − 1)² and
+  L₂ = (θ + 1)² at θ = 0 (CASE-tmpuc54q), the equal-weight gradient is
+  zero and the aggregate is at its global minimum, while each loss is 1
+  and wants the opposite move. In general a vanishing positive
+  combination of gradients is either every gradient zero or a
+  certificate that no update improves them all, and the scalar cannot
+  tell which. The sharp edge: it is a fact about a weighted sum, not
+  about what a monitor reading it represents. A29's "the unity of the
+  distress signal need not arise from the unity of the underlying
+  causes" is the interpretive reading, kept apart in the body.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpf67p3: A zero aggregate gradient does not show that the demands it aggregates are reconciled
+# CLAIM-tmpf67p3: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand is locally satisfied and when unsatisfied demands cancel, and the second is a point where no update improves them all
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A33 §5: "Zero aggregate gradient does not imply absence of frustrated
+demands." Say demands i = 1, …, n with losses L_i are **reconciled** at θ
+when every g_i = ∇L_i(θ) is zero: no demand has a first-order improving
+direction. They are **frustrated** there (TERM-tmp9lmlt, local form) when
+some g_i ≠ 0 and no direction lowers every L_i.
+
+**The construction** (CASE-tmpuc54q). L₁(θ) = (θ − 1)², L₂(θ) = (θ + 1)²,
+θ ∈ ℝ. At θ = 0, g₁ = −2 and g₂ = 2. With weights ½, ½ the aggregate
+gradient is ½(−2) + ½(2) = 0. The aggregate L = ½L₁ + ½L₂ = θ² + 1 is not
+only stationary at θ = 0 but globally minimized there. Yet L₁ = L₂ = 1,
+each is minimized elsewhere (at +1 and −1), and any d ≠ 0 lowers one to
+first order and raises the other: g₁d = −2d and g₂d = 2d have opposite
+signs. The demands are frustrated, not reconciled.
+
+**The general step.** Let w_i > 0 and Σ w_i g_i = 0. Then either every
+g_i = 0, or the nonzero g_i satisfy Σ λ_i g_i = 0 with λ_i = w_i / Σ_j w_j
+over them, so 0 ∈ conv{g_i}. In the second case no d has g_iᵀd < 0 for
+all i, since Σ λ_i g_iᵀd = 0. So a vanishing positive aggregate is
+compatible with reconciliation and with frustration, and nothing in the
+aggregate gradient or the aggregate loss separates them. With a zero
+weight it says less: if w₂ = 0, stationarity of the aggregate constrains
+g₁ only, and demand 2 can be anything.
+
+The converse case in A33 §5 is the same fact from the other side: if
+endorsement weights task 1 heavily, the aggregate improves while task 2 is
+sacrificed. "So aggregate optimization performance may conceal the
+distribution of frustration among constituent objectives."
+
+## The interpretive reading, not part of the claim
+
+A29, before frustration replaced distress (CLAIM-tmpyk3it): "the unity of
+the distress signal need not arise from the unity of the underlying
+causes. Many independently generated problems can be summarized by one
+regulatory alarm or evaluation channel." A33 §5 drew the same moral for a
+monitor: "A scalar training metric could therefore function as an
+illusory unifier of evaluative success", where the illusion "would belong
+to an interpreter or self-model that treats aggregate stability as
+evidence that all relevant demands have been reconciled". These say what
+a reader of the scalar might wrongly infer. The demonstration says only
+that the inference is invalid. Whether any organization's monitor makes
+it is not shown. It is the learning-system case of CLAIM-060 (an
+encompassing success does not establish its constituents') and of
+CLAIM-276 (stability is no evidence of fidelity).
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That the learning objectives have interests.** A33: "the analogy must
+  not be taken as a claim that learning objectives have interests or
+  rights."
+- **That a zero aggregate gradient indicates frustration.** It is
+  compatible with both cases; per-demand gradients are needed to decide.
+- **Anything beyond first order.** At a point where every g_i = 0 the
+  demands may still be frustrated at second order or globally. In the
+  construction the frustration is also global: L₁ + L₂ = 2θ² + 2 ≥ 2, so
+  no θ makes both losses less than 1.

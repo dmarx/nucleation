@@ -89,3 +89,39 @@ trust accumulates.
 - It does not say the record holds a theory of credibility among
   contributors. [QUESTION-072](../questions.d/QUESTION-072.md) asks the same question about the record's own
   contributors.
+
+## Note of 2026-10-18: the loop seen from the process that loses
+
+A46 of the exchange of 2026-10-17 cited this claim for "Niche exclusion by
+authority deprivation". A rare specialist "receives little influence
+during ordinary operation", so it "receives fewer opportunities to
+demonstrate competence", and "Its apparent performance deteriorates,
+further reducing its influence":
+
+  Low exposure → Poor competence estimates → Low endorsement → Even lower
+  exposure
+
+"**A system may destroy useful niche diversity not by explicitly
+suppressing constituent processes, but by allocating authority in a way
+that prevents rare specialists from reproducing their value.**" A46 called
+it "almost a dual of the authority-capture process".
+
+It is this claim's entrenchment loop seen from the side that lost. A5's
+good chain, "good policy, then endorsement, then greater influence, then
+more chances to show competence", run downward for an operator whose
+competence shows only in rare contexts. The antecedent A46 did not cite
+is March (THEORY-142): exploitation's returns are surer and nearer, so
+learning from experience crowds out exploration.
+
+A32 of the same exchange gave the other side, from this claim's
+separation of latent authority from current activation ("An operator can
+remain trusted while inactive."): "a training system might leave an
+emergency regime while retaining a durable propensity to recruit it
+again." Which of the two happens to an idle specialist turns on whether
+its competence estimate decays while it is not exposed, which is this
+claim's memory kernel. A slow kernel keeps latent authority; a fast one
+starves it.
+
+It bears on QUESTION-083 and on the owner's non-domination criterion
+(CLAIM-tmpqofon), whose test is whether a specialist can recover
+influence. Not filed as a claim of its own. The status is unchanged.

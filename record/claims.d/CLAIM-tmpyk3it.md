@@ -1,77 +1,136 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Frustration, not distress, is the primitive: a failure of joint realizability'
-
+title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance, distinct from strain, where they are realizable at a cost, and from distress, a possible integrated response to either'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A showing that the three cannot be separated in any model of a
+  distributed organization: for example, that every case of strain under
+  an admissible budget is also a case of frustration once the budget is
+  counted among the constraints, so that the strain/frustration line is
+  only a choice of what to call admissible; or that distress-like
+  integrated responses arise and are explained with no reference to a
+  failure or cost of joint realizability. Not defeated by the
+  relativity of a frustration verdict to the declared demands and
+  admissible set, which the claim states.
 tags:
 - agency
-
+- self-governance
+- emotion-and-affect
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
+- distributed-agency
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-283
+- CLAIM-027
+grounds:
+- THEORY-232
+- THEORY-052
+- THEORY-217
+complements:
+- CLAIM-153
+uses:
+- TERM-tmp9lmlt
+summary: >-
+  The owner's, U33 of the exchange of 2026-10-17: "maybe we should focus
+  less on distress and more on frustration". A33 granted it: "Frustration
+  is the most promising theoretical primitive of the three." Frustration
+  is a fact about demands, admissible transformations and governance, so
+  it can be stated without feelings and without a common scale. It
+  supersedes in substance the distress-first formulations of A28–A32,
+  which were never filed. The sharp edge: it says what to start from, not
+  that a frustrated organization is distressed or feels anything. The
+  claim bears on the organizational-affect line, which is Deferred
+  (CLAIM-039); whether that line reopens is the owner's decision, not
+  made here.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpyk3it: Frustration, not distress, is the primitive: a failure of joint realizability
+# CLAIM-tmpyk3it: The primitive for an organization's regulatory difficulty is frustration, not distress: a failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance, distinct from strain, where they are realizable at a cost, and from distress, a possible integrated response to either
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+The owner, at U33: "you earlier drew a distinction between strain,
+frustration, and distress. maybe we should focus less on distress and more
+on frustration." The distinction had been drawn at A28 and A29, where
+distress was the primitive and strain and frustration were among its
+ingredients (A29: distress is a condition in which demands "strain,
+frustrate, or exceed" an organization's capacities). A33 took the
+revision: "Frustration is the most promising
+theoretical primitive of the three. Unlike distress, it need not refer to
+feelings, and unlike strain, it can be characterized by the structure of
+competing demands and feasible actions."
+
+A33's three definitions:
+
+- "Strain: Achieving a set of objectives requires substantial regulatory
+  effort."
+- "Frustration: Available ways of advancing one objective obstruct
+  another, or the current governance cannot jointly realize the objectives
+  it maintains."
+- "Distress: A possible persistent, integrated organizational response to
+  strain or frustration, which may or may not have phenomenal
+  significance."
+
+The term is TERM-tmp9lmlt, in the ordinal form the owner's U37 correction
+gave it. The claim is that frustration, so defined, is where the account
+of an organization's regulatory difficulty should start, for three
+reasons.
+
+- **It is stated in the record's existing terms.** A demand that is not
+  jointly realizable is a precedence claimed and not granted: CLAIM-283's
+  gap between what a process claims and what the organization grants is
+  the governance side of it, and CLAIM-027's maintained relations
+  (precedence, jurisdiction and the rest) are what select among
+  admissible transformations. A33 §4 put the stages in a row:
+  represented demands g_i, allocated authority w_i, effective
+  modification d, with "a gradient is not an update, and an update is not
+  an endorsement".
+- **It needs no integrated signal.** A33 §6: frustration "can be
+  organizationally consequential without appearing as a unified internal
+  experience or even a unified representation". Distress, on A29's own
+  account, is an integration of conditions. Starting there presupposes
+  the integration a distributed agent may lack. Starting from frustration
+  leaves integration as a further achievement to be shown.
+- **It separates cases distress merges.** A33 §10 named four: high loss
+  with a clear path to improvement; demands that are mutually
+  incompatible; an optimizer that cannot use an available resolution; an
+  endorsement system that reproduces its own conflicts. The first is
+  strain or mere shortfall, the second structural frustration, the last
+  two governance-induced (CLAIM-tmpl8vsy). An alarm can fire in all four.
+
+The record's readings already do it this way. Watson (THEORY-232) makes
+the frustration of parts' mutual constraints the quantity an organization
+relieves, and higher agency the relief. Self-determination theory
+(THEORY-052) keeps need frustration apart from low satisfaction.
+Barandiaran (THEORY-217) states malfunction against the minimum change an
+organization's viability requires, a requirement on admissible change, not
+a feeling. CLAIM-153 has a frustration with the same shape, pairs fine and
+a whole not, in a model of contexts.
+
+## What it supersedes
+
+A28 to A32 built a distress-first account at the owner's U28 ("'distress'
+is probably a lot easier to reason about within our framework"), with
+A29's definition of organizational distress as "a proposed integrated
+regulatory condition". None of it was filed. This claim takes its place
+in substance: distress survives only as the downstream notion A33 and
+A40 §2.2 give it ("Distress and phenomenal affect are treated as possible
+downstream applications, not premises").
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That a frustrated organization is distressed, or feels anything.**
+  A33 §7: the candidate conditions "don't establish consciousness,
+  suffering, or moral standing".
+- **That frustration is bad.** It can be the right outcome of different
+  demands, and a gap between claimed and granted precedence can be good
+  governance: A34 on CLAIM-283, "a good organization may correctly
+  prevent an unreliable process from taking control".
+- **That the strain/frustration line is absolute.** It moves with what is
+  counted admissible. A budget can make a realizable collection
+  unrealizable (A33 §3A), which is the defeater's pressure point.
+- **That the line of organizational affect is reopened.** The claim is
+  filed in distributed-agency and will-organization. Whether a frustration
+  account reopens CLAIM-039 and its questions is for the owner.

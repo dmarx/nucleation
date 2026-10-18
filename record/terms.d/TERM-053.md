@@ -62,3 +62,22 @@ endorsements of others, and how far its preferred policies are realized
   incidental coupling, and common-cause effects." On r/place, A8 §7:
   "endorsement remains a latent explanatory hypothesis, not an observed
   variable."
+
+## Note of 2026-10-18: being reinforced is not endorsing
+
+The exchange of 2026-10-17 applied this term to training. A32 §4: "being
+reinforced ≠ endorsing". "A network component may acquire greater influence
+because the external optimizer makes it more effective. That's different
+from the component influencing the future authority of other components
+through an internally maintained endorsement relation." A32 also: "a gate
+weight is not automatically an endorsement". A33 put it as a chain of three
+kinds of object: "a gradient is not an update, and an update is not an
+endorsement".
+
+So, beside the three items above: **not an external update rule.** An
+optimizer that raises a component's influence is not an endorsement of it
+by any process of the organization, because the effect does not run from
+an intervention available to another process. This is the clause above on
+behaviour, applied to training: raised influence is observed, and who
+raised it is the question. Where the governance of updates sits is
+CLAIM-tmpw4w7a.

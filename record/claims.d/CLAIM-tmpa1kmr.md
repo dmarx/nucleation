@@ -1,77 +1,111 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
-status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'A coarse-graining preserves a judgment exactly when the judgment is constant on its fibres'
-
+status: Active
+title: 'A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
-role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
-warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
-defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+role: granted
+warrant: demonstrated
 tags:
-- agency
-
+- mathematics
+- mathematical-statistics
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
-- will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+- pragmatic-transport
+- formal-apparatus
+complements:
+- CLAIM-152
+summary: >-
+  A21 §3 and §18 (Candidate 1) of the exchange of 2026-10-17, and A22's
+  Construction A: for a judgment J and a coarse-graining C on the same
+  states, J = j∘C for some j exactly when C(x₁) = C(x₂) implies J(x₁) =
+  J(x₂). Granted, because it is elementary (the universal property of a
+  quotient) and Ak's; the proof is in the body. It is CLAIM-152's
+  judgment-valued special case with the converse added: CLAIM-152 says a
+  partition sufficient for one target need not be for another, and this
+  says which partitions serve a deterministic judgment, those whose
+  fibres lie inside its level sets, so the coarsest is the judgment's own
+  partition. The sharp edge: it says when a description keeps a
+  judgment, never whether the judgment is right. A21's probabilistic and
+  causal versions are recorded in the body, not claimed.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpa1kmr: A coarse-graining preserves a judgment exactly when the judgment is constant on its fibres
+# CLAIM-tmpa1kmr: A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A21 §3, under the owner's U21 ("flesh this out further, and look for more
+connections on the nucleation record"): "For a deterministic judgment
+\(Y=J(X)\) and deterministic coarse-graining \(Z=C(X)\), the following are
+equivalent: 1. There exists a function \(j\) such that \(Y=j(Z)\). 2.
+Whenever \(C(x_1)=C(x_2)\), we have \(J(x_1)=J(x_2)\)." Its gloss: "**A coarse
+description is adequate for a normative judgment exactly when it does not
+merge states that the judgment must distinguish.**" A20 had stated the
+condition one turn earlier as a one-way test. A22 made it the manuscript's
+Construction A, "Elementary demonstrable result".
+
+## Proof
+
+Let C: X → Z and J: X → Y be any functions on one set of states X.
+
+- **If J = j∘C, J is constant on C's fibres.** If C(x₁) = C(x₂), then J(x₁) =
+  j(C(x₁)) = j(C(x₂)) = J(x₂).
+- **If J is constant on C's fibres, J = j∘C.** For z in the image C(X),
+  choose any x with C(x) = z and set j(z) = J(x). Another choice x′ has
+  C(x′) = z = C(x), so J(x′) = J(x), and j is well defined. Then J(x) =
+  j(C(x)) for every x.
+- **j is unique on the image, and free off it.** Two such maps agree at
+  every z = C(x), since both equal J(x) there. Values at points of Z that no
+  state reaches are unconstrained.
+
+Equivalently, C preserves J exactly when the partition of X into C's fibres
+refines the partition into J's level sets. The coarsest coarse-graining that
+preserves J is therefore J's own partition, x ↦ J(x). A different judgment
+has different level sets and so a different coarsest description, which is
+CLAIM-152's target-relativity stated for judgments.
+
+## How it stands to CLAIM-152
+
+CLAIM-152 holds that a sufficient statistic is sufficient for a target, so
+the partition that wins depends on the target ("fix the outcomes differently
+and a different partition wins"). For a target that is a deterministic
+function J of the state, "C is sufficient for J(X)" and "J is constant on
+C's fibres" coincide (up to null sets, when X carries a distribution). So
+this claim is CLAIM-152's judgment-valued special case. What it adds is the
+converse: CLAIM-152 says which partitions can fail, and this says exactly
+which succeed.
+
+## A21's further statements, recorded, not claimed
+
+A21 §18: "probabilistic and decision-theoretic versions require preservation
+of the corresponding conditional distributions or achievable risks." Each
+needs its own statement:
+
+- **Probabilistic.** For finite X with every state of positive probability,
+  C is sufficient for a random judgment Y (P(Y | X) = P(Y | C(X))) exactly
+  when the map x ↦ P(Y | X = x) is constant on C's fibres. That is the
+  proof above applied to that map: if P(Y | X = x) = g(C(x)), averaging over
+  the fibre gives P(Y | C = z) = g(z); conversely, if P(Y | X = x) =
+  P(Y | C = C(x)), it is a function of C(x). Checked here for the finite
+  case only.
+- **Decision-theoretic.** Preservation of achievable risk over a declared
+  family of decisions is Blackwell's order (THEORY-156), not this lemma.
+  A bounded decision-loss criterion (A21 §12, D(C) = E[L(J(X), Ĵ(C(X)))])
+  is a definition, and choosing its loss L is, as A21 says of one such
+  choice, "itself normative".
+- **Causal.** A21 §6's condition C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}, for a
+  declared family of interventions, defines intervention-consistent
+  coarse-graining. It is a definition, not a theorem, and it holds only
+  relative to the macro-interventions ā, whose meaning QUESTION-115 asks
+  about.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That the judgment is correct.** A22: it "establishes the adequacy of an
+  abstraction for a specified judgment, not the correctness of the
+  judgment's underlying standard."
+- **That a description adequate for one judgment is adequate for another.**
+  That is the point of CLAIM-tmp679hm and its construction CASE-tmpfusdm.
+- **That observational adequacy is causal adequacy.** A state space with a
+  distribution can satisfy the probabilistic version while interventions
+  tell its merged states apart (A22's Construction B; CLAIM-127).
+- **Anything about bounded judges.** A receiver that cannot compute j can do
+  better with a different description (CLAIM-199).

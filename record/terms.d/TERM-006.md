@@ -34,3 +34,17 @@ It was given thin and thick forms (A254), and the thick form absorbed
 
 Not rejected: deferred. The audit (A276): "Ownership criteria remain
 insufficiently defended."
+
+## Note of 2026-10-18: a candidate repair, the objection outstanding
+
+The owner, at U45 of the exchange of 2026-10-17: "'authenticity' should
+be treated as an organizational achievement characterized by
+non-domination of subcomponents." Filed as CLAIM-tmpqofon, Proposed, on
+this line and on will-organization. It gives this term's "remain
+integrated with" a content: the processes that carry a commitment are
+not dominated in carrying it. A45 recommended adding "the non-domination
+proposal as a candidate repair, while preserving the unresolved
+manipulation objection"; the objection is CLAIM-tmptg7io. The earlier
+returns of graded integration in the same exchange are noted on
+CLAIM-016. This term's definition and status are unchanged; reopening the
+line is the owner's decision.

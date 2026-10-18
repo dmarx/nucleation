@@ -81,3 +81,44 @@ and [CLAIM-089](CLAIM-089.md) and [CLAIM-024](CLAIM-024.md) (both still open).
 
 That the dimensions are a complete taxonomy (Section 7.5), or that the
 mechanisms are new ([CLAIM-021](CLAIM-021.md)).
+
+## Note of 2026-10-18: a proposed manuscript that rebuilds the essay
+
+At U12 and U15 of the exchange of 2026-10-17 the owner asked for a
+manuscript proposal. A12, revised at A15, proposed *The Geometry of
+Effective Volition*. Neither cites this claim's essay, *The Organization of
+Will* (`organization-of-will`), and the proposal rebuilds much of it:
+
+- Its opening case (A12 §1), "an agent reflectively endorses completing a
+  difficult project but repeatedly acts otherwise", is CASE-013.
+- A12 §2.4, "Introduce the Nucleation account of will-organization", with
+  "accessibility, precedence, jurisdiction, persistence, suspension, and
+  transformation", is this claim.
+- A12's Proposition 2, "Equivalent observed actions need not imply
+  equivalent governance", and A15 §3.5 are CLAIM-122 and ARG-005.
+- A12's "reliable execution of an endorsed commitment need not imply its
+  revisability", and A15 §6.6, "Volitional efficacy can increase while
+  revisability decreases", are CLAIM-099, ARG-007 and CLAIM-025.
+- A12 §2.2, "Distinguish endorsing a motive, assigning it priority,
+  successfully enacting it, and maintaining its priority over time", is
+  CLAIM-047.
+- The thermostat objection (A12 §9.1) and A15 §9.4, "Does efficient
+  behavior establish autonomy?", answered "Reject the inference", are
+  CLAIM-116.
+- A12: "the paper should not claim novelty for the existence of multiple
+  kinds of freedom, hierarchical control, or control-energy distinctions."
+  That is CLAIM-021.
+- The limit that the account does not settle authorship or
+  responsibility is close to CLAIM-022.
+
+What the proposal adds is the graded comparison (CLAIM-tmpilfhr,
+CLAIM-tmp1glr8), the Sen connection (CLAIM-tmph678z) and the nonlinear
+constructions (CASE-tmpiyvbk). It also conflicts with the essay's
+supposition, CLAIM-080: "the account asks how a given agent's practical
+efficacy is organized, not what makes something an agent". The proposal
+makes individuation a main section: A12 §3, "Individuating the agent
+whose will is at issue", opening with "Why a system boundary cannot simply
+be assumed", and A15 §4, "Individuation: whose control is it?". So the
+manuscript would be the essay with its supposition lifted, and it should
+say so. Whether it becomes a work of its own is the owner's decision
+(workbench entries of 2026-10-18).

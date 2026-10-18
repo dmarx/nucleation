@@ -1,77 +1,117 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Structural and governance-induced frustration come apart, and aggregate performance does not tell them apart'
-
+title: 'An organization''s failure to meet its demands is structural when no admissible transformation meets them all and governance-induced when one exists and the actual allocation of influence does not select it; aggregate performance does not tell the two apart, and the multipliers that certify infeasibility are not the weights governance assigns'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A showing that every failure of actual updates to meet satisfiable
+  demands is explained by known optimization mechanisms (step size,
+  curvature, noise, conditioning, a fixed weighting rule) without
+  modelling endorsement or the allocation of authority, so that the
+  governance-induced category adds nothing an optimizer analysis does
+  not already give. Not defeated by the formal facts that Γ ≥ 0 and that
+  Φ certifies infeasibility, which it rests on, nor by cases where the
+  two kinds occur together.
 tags:
+- self-governance
 - agency
-
+- operations-research
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
+- distributed-agency
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+rests_on:
+- CLAIM-tmpue67e
+- CLAIM-tmpyk3it
+complements:
+- CLAIM-297
+- CLAIM-342
+- CLAIM-330
+uses:
+- TERM-tmp9lmlt
+summary: >-
+  A34 §4 and A35 §3.3 of the exchange of 2026-10-17, restated at A39 §2C
+  and A40 §3.4, from A33's "irreducible conflict" and "manufactured
+  frustration". With Φ the best achievable worst shortfall and Γ the
+  actual update's excess over it (CLAIM-tmpue67e), structural frustration
+  is Φ > 0 and governance-induced frustration is Φ ≤ 0 with the actual
+  update failing. Equal loss curves can hide either. A35: "Importantly,
+  these dual multipliers are not endorsement weights." The sharp edge:
+  the distinction is relative to the declared demands, the admissible set
+  and the comparison solver, and it says nothing yet about whether real
+  organizations fail by governance.
 ---
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpl8vsy: Structural and governance-induced frustration come apart, and aggregate performance does not tell them apart
+# CLAIM-tmpl8vsy: An organization's failure to meet its demands is structural when no admissible transformation meets them all and governance-induced when one exists and the actual allocation of influence does not select it; aggregate performance does not tell the two apart, and the multipliers that certify infeasibility are not the weights governance assigns
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A33 §8 drew the line first: "Irreducible conflict exists when the
+objective demands cannot be jointly improved under the relevant admissible
+actions. Manufactured frustration exists when a common improvement is
+available, but the governance rule, restricted representation, or
+allocation of influence prevents the system from finding or using it."
+"This is testable with an oracle or stronger solver for the same declared
+objectives and update constraints."
+
+CLAIM-tmpue67e makes it exact for the local model. Let Φ be the smallest
+worst-case shortfall of the declared improvements over the admissible set,
+and Γ = max_i(ε_i + g_iᵀd^actual) − Φ ≥ 0 the excess of the update the
+organization actually makes.
+
+- **Structural:** Φ > 0. No admissible update meets all demands. A35 §3.3
+  separates a **capacity-limited** case, where Φ_r > 0 for the current
+  budget r but not for a larger one, from the case where no budget helps,
+  as in CASE-tmpuc54q, where Φ_r = ε for every r.
+- **Governance-induced:** Φ ≤ 0, and the actual update fails some demand,
+  so Γ > −Φ ≥ 0. A satisfactory update exists and is not selected. A35:
+  "A system could therefore have substantial observed frustration even
+  when structural frustration is absent."
+
+A40 §3.4 added a **representational** kind, where an available solution
+is inaccessible to the organization's own models or search, and said the
+categories "may overlap".
+
+**Aggregate performance does not separate them.** A35 §3.4: two systems,
+one with Φ_r > 0, one with Φ_r < 0 and an optimizer that repeatedly
+picks an unhelpful direction, "should not receive the same diagnosis
+simply because their loss curves look equally poor". The same holds of a
+zero aggregate gradient (CLAIM-tmpf67p3).
+
+**The certificate's multipliers are not governance's weights.** The λ
+that attains the dual of Φ picks out the combination of demands that
+binds. A35: "Importantly, these dual multipliers are not endorsement
+weights. They are mathematical certificates of difficulty or
+infeasibility." A40 §4: "The weights assigned by actual governance need
+not coincide with the multipliers", and the divergence "is a candidate
+source of avoidable frustration". Whether they coincide is
+QUESTION-tmpkzu6g.
+
+## Why the record holds it
+
+It is where the frustration account meets the operator model. CLAIM-297
+says authority updated on the interpretation it helped make dominant can
+amplify without gaining fidelity; CLAIM-330 gives the instability
+threshold βγ > (1 − α)(1 − δ) in CASE-099's linearization; CLAIM-342 says
+what keeps such a loop honest is evidence that does not pass through the
+interpretation it tests. A loop of that kind is a mechanism of
+governance-induced frustration: the satisfactory update exists and the
+captured allocation of influence does not choose it. A39's case study 2,
+CASE-099 with demands and a feasible-update oracle, would test it; A39
+called it "the best candidate for an early discriminating experiment".
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That governance-induced frustration occurs in any real organization.**
+  The claim gives the distinction and the measure, not an instance. The
+  defeater is the result that would make the category idle.
+- **That Γ is free of choices.** Φ is relative to declared demands and a
+  declared admissible set, and computing it needs a solver that finds the
+  minimum: an estimate from a weaker solver overstates Φ and understates
+  Γ. A wider admissible set can turn structural into governance-induced.
+- **That governance-induced is worse.** It says a better update existed by
+  the declared standard. Whether the declared standard is the
+  organization's own is QUESTION-087's problem.
+- **That λ should be the weights.** Governance may rightly weight demands
+  by what matters, not by what binds.

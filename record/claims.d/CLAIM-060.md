@@ -50,3 +50,23 @@ this entry holds the narrow version and names the strong one.
 ## Note of 2026-10-12: evidence now linked
 
 Two THEORYs now ground this claim's converse, that constitutive dependence does not entail alignment of interests. [THEORY-135](../theory.d/THEORY-135.md): cancer-like cheating is found across the independent origins of complex multicellularity. [THEORY-141](../theory.d/THEORY-141.md): a collective is stable only if selection between collectives comes to trump selection among its units, through mechanisms such as policing.
+
+## Note of 2026-10-18: the cost-shifting cell, two blocked inferences, a formal analogue
+
+A29 of the exchange of 2026-10-17 crossed whole-level with constituent-level
+regulatory burden and named the cell this claim predicts: "Stable whole that
+shifts costs onto members". "An institution can remain stable because its
+members absorb the regulatory burden through overwork, reduced autonomy, or
+sacrificed opportunities." It blocked both directions of inference: "The
+organization is distressed, therefore its members are suffering", and "Its
+members are suffering, therefore the organization is functionally
+distressed". "Neither follows." A28 had said the same of a corporation: it
+"might satisfy a functional criterion for distress without being a suffering
+subject. Meanwhile, its individual members may genuinely suffer".
+
+A33 gave a formal analogue in training. Two task gradients that cancel give a
+zero aggregate gradient, and "the individual tasks remain unsatisfied": "Zero
+aggregate gradient does not imply absence of frustrated demands." The whole's
+measure shows no burden while each constituent demand is unmet. That is
+CLAIM-tmpf67p3. A33's own caution: "the analogy must not be taken as a claim
+that learning objectives have interests or rights."

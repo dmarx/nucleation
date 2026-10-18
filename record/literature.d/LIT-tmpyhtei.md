@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the exchange of 2026-10-17, "Synthesis opportunities analysis" (workbench entries of 2026-10-18). No NOTE is filed.
+title: 'The Limits of the Self: Immunology and Biological Identity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-18. `published:` is the date both give (2012-02-27). Crossref lists Elizabeth Vitanza as a second author; she is the translator, and the record names Pradeu alone. The English book translates and revises Pradeu's French *Les limites du soi* (2009); it is taken here as its own work, so the French date is not used. The identification is the record's (see "Why this is here"). Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- philosophy-of-biology
+- individuation
+- self
+date: '2026-10-18'
+published: '2012-02-27'
+doi: '10.1093/acprof:oso/9780199775286.001.0001'
+first_author: 'Pradeu'
+keywords:
+- 'immunology'
+- 'biological identity'
+- 'self/nonself'
+- 'biological individuality'
+- 'continuity theory'
+implementations: []
+summary: >-
+  Pradeu (2012). The immunological theory that an individual is defined by self and nonself fails, since immune responses to self and tolerance of foreign entities are the rule; Pradeu proposes a criterion of immunogenicity by discontinuity, and from it an immunological account of biological individuality.
+---
+
+# LIT-tmpyhtei: The Limits of the Self: Immunology and Biological Identity
+
+Pradeu, T. (2012). *The Limits of the Self: Immunology and Biological Identity*. Translated by E. Vitanza. New York: Oxford University Press. doi:10.1093/acprof:oso/9780199775286.001.0001.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A24 of the exchange recommended Pradeu's "immunological approach to biological individuality", so as to "avoid making membrane self-production appear uniquely privileged", backed by two citations the share hides. The identification of this book is the record's, as the standard statement of the view; it is a likely referent, not a confirmed one. The record holds it only by report: NOTE-114 (the SEP entry on biological individuals, LIT-168) gives "Pradeu's immunological criterion (2012: 244)". Bears on the record's individuation line and on K02, CASE-tmpi1bt1 (a fold in boundary maintenance).

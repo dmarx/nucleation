@@ -164,3 +164,27 @@ this claim four times. Two results are filed beside it rather than in it.
 A18 asked for a definition of the cost of recovery that would put this
 claim's rule-class case and [CLAIM-304](CLAIM-304.md)'s budget case on one scale. That is
 [QUESTION-110](../questions.d/QUESTION-110.md). The status is unchanged.
+
+## Note of 2026-10-18: applied to self-governance
+
+A21 §11 of the exchange of 2026-10-17 cited this claim and applied it to an
+agent's own commitments: "In ideal decision theory, information loss cannot
+improve the optimal performance achievable by an unrestricted
+decision-maker. In bounded cognition, simplifying the available
+representation can improve realized performance because the agent's
+inference or control procedures are limited." Hence "**Reducing
+representational complexity can improve effective autonomy without
+increasing the information theoretically available.**" and "A habit,
+policy, principle, or institutional role can function as a compressed
+controller."
+
+That is this claim's receiver-relative gain, with the ceiling kept. One
+difference A21 does not mark. In this claim's example the garbling is
+computed for the receiver by something else (V = X₁ ⊕ X₂). A compression
+the agent makes for itself helps only if it was made by a capacity the
+agent's rules at the moment of choice lack, for instance formed earlier and
+reused; an agent whose rules could compute it on the spot would gain
+nothing. Whether habits and principles are formed that way is not shown.
+A21 adds the cost: a principle that ignores detail "may become harmful when
+it suppresses a newly important distinction", which is CLAIM-tmpa1kmr's
+merged fibre seen from the agent's side. The status is unchanged.
