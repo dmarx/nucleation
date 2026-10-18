@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
+title: 'The Minimum Environmental Perturbation Principle: A New Perspective on Niche Theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-18. The synthesis gave the subtitle as "A Unifying Framework for Ecological Community Assembly"; every source gives "A New Perspective on Niche Theory", and the title here is corrected. The American Naturalist 196(3): 291–305, doi 10.1086/710093 (online 2020-05-28 per OpenAlex, issue 2020-09). `published:` is 27 January 2019, the bioRxiv posting (10.1101/531640, which Crossref links as its preprint), a day before arXiv v1 (1901.09673, 28 January 2019): the earliest date, per ADR-002. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- ecology
+- complex-systems
+date: '2026-10-18'
+published: '2019-01-27'
+arxiv: '1901.09673'
+doi: '10.1086/710093'
+first_author: 'Marsland'
+keywords:
+- 'contemporary niche theory'
+- 'consumer-resource models'
+- 'optimization principle'
+- 'environmental perturbation'
+- 'community assembly'
+implementations: []
+summary: >-
+  Marsland, Cui & Mehta (2020). Generalizing MacArthur's result that stable equilibria optimize a quadratic function, it shows that in a broad class of contemporary-niche-theory models the equilibrium minimizes the perturbation the competing species impose on their environment, subject to no species having positive net growth, and states when such a principle exists.
+---
+
+# LIT-tmp0sib8: The Minimum Environmental Perturbation Principle: A New Perspective on Niche Theory
+
+Marsland, R., Cui, W. & Mehta, P. (2020). The Minimum Environmental Perturbation Principle: A New Perspective on Niche Theory. *The American Naturalist* 196(3): 291–305. doi:10.1086/710093. Preprint: bioRxiv 10.1101/531640 (27 January 2019); arXiv:1901.09673.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. It recasts community assembly as constrained optimization over environmental states, the bridge the synthesis drew between coexistence of differentiated species and optimization by many units under one rule. Bears on [QUESTION-083](../questions.d/QUESTION-083.md). The synthesis's subtitle for it was wrong; see the history note.

@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
+title: 'Ecological communities with Lotka-Volterra dynamics'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and OpenAlex on 2026-10-18: Physical Review E 95(4): 042414, published 28 April 2017, which is `published:`. No arXiv copy under this title was found; Bunin's arXiv:1607.04734 is a different paper. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- ecology
+- complex-systems
+date: '2026-10-18'
+published: '2017-04-28'
+doi: '10.1103/PhysRevE.95.042414'
+first_author: 'Bunin'
+keywords:
+- 'generalized Lotka-Volterra equations'
+- 'migration'
+- 'species pool'
+- 'phase diagram'
+- 'multiple attractors'
+- 'species abundance distribution'
+implementations: []
+summary: >-
+  Bunin (2017). Exact results for a community assembled by migration from a random species pool under generalized Lotka-Volterra dynamics: a phase transition from a unique globally attractive fixed point to multiple attractors, where community properties depend on history.
+---
+
+# LIT-tmpmyfog: Ecological communities with Lotka-Volterra dynamics
+
+Bunin, G. (2017). Ecological communities with Lotka-Volterra dynamics. *Physical Review E* 95(4): 042414. doi:10.1103/PhysRevE.95.042414.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. It gives the phase in which assembled communities stop having one outcome and start to depend on history, which the synthesis set against the entrenchment of whatever gained influence early. Bears on [QUESTION-083](../questions.d/QUESTION-083.md).

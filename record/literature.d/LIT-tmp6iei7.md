@@ -1,0 +1,40 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
+title: 'Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and arXiv on 2026-10-18: Physical Review E 99(5): 052111, published 13 May 2019. `published:` is the arXiv v1 date, 12 September 2018. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- ecology
+- mathematics
+date: '2026-10-18'
+published: '2018-09-12'
+arxiv: '1809.04221'
+doi: '10.1103/PhysRevE.99.052111'
+first_author: 'Mehta'
+keywords:
+- 'quadratic programming'
+- 'constrained optimization'
+- 'consumer resource models'
+- 'cavity method'
+- 'duality'
+implementations: []
+summary: >-
+  Mehta, Cui, Wang & Marsland (2019). A duality between constrained optimization with inequality constraints, quadratic programming included, and consumer-resource models of ecological dynamics; with a cavity solution it gives the statistics of random high-dimensional quadratic programs, in agreement with numerics.
+---
+
+# LIT-tmp6iei7: Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions
+
+Mehta, P., Cui, W., Wang, C.-H. & Marsland, R. (2019). Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions. *Physical Review E* 99(5): 052111. doi:10.1103/PhysRevE.99.052111. arXiv:1809.04221.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. It runs the optimization–ecology correspondence the other way: an optimizer is an ecosystem, and the constraints that bind are the species that survive. The synthesis used it as the formal link between feature learning and coexistence. Bears on [QUESTION-083](../questions.d/QUESTION-083.md).

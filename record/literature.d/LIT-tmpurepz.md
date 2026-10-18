@@ -1,0 +1,41 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
+title: 'Linking modern coexistence theory and contemporary niche theory'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-18: Ecological Monographs 87(2): 161–177. `published:` is Crossref's online date, 16 February 2017, earlier than the issue month (2017-05). No arXiv copy was found. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- ecology
+date: '2026-10-18'
+published: '2017-02-16'
+doi: '10.1002/ecm.1242'
+first_author: 'Letten'
+keywords:
+- 'modern coexistence theory'
+- 'contemporary niche theory'
+- 'stabilizing mechanisms'
+- 'equalizing mechanisms'
+- 'impact niche'
+- 'requirement niche'
+- 'resource supply ratio'
+implementations: []
+summary: >-
+  Letten, Ke & Fukami (2017). For a general consumer-resource model, varying resource supply ratios is an equalizing process, varying impact-niche overlap is stabilizing, and varying requirement-niche overlap can be both but does not change coexistence qualitatively.
+---
+<!-- inactive-ok-file: LIT-1219 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+
+# LIT-tmpurepz: Linking modern coexistence theory and contemporary niche theory
+
+Letten, A. D., Ke, P.-J. & Fukami, T. (2017). Linking modern coexistence theory and contemporary niche theory. *Ecological Monographs* 87(2): 161–177. doi:10.1002/ecm.1242.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. It translates Chesson's stabilizing and equalizing terms ([LIT-1219](LIT-1219.md)) into the resource-impact vocabulary in which the minimum-environmental-perturbation and consumer-resource papers filed with it are written, so the synthesis took it as the bridge between the two. Bears on [QUESTION-083](../questions.d/QUESTION-083.md).

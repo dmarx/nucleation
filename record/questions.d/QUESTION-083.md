@@ -20,6 +20,9 @@ summary: >-
 answered_by:
 - CLAIM-277
 - CLAIM-279
+refined_by:
+- QUESTION-tmp0885h
+- QUESTION-tmpw9b04
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-279 CLAIM-288 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -74,3 +77,35 @@ coexistence through stabilizing niche differences, not equality of
 authority ("Equality of authority ≠ coexistence through differentiated
 competence"). The failure mode an answer must rule out, niche exclusion
 by authority deprivation, is noted on [CLAIM-277](../claims.d/CLAIM-277.md). Nothing has been run.
+
+## Note of 2026-10-18 (later): a formal bridge, and four sharper questions
+
+A synthesis the owner relayed later on 2026-10-18 (workbench entry of
+that date) brought statistical feature learning and ecological
+coexistence theory to this question.
+
+- **The potential case is exact.** In symmetric resource-mediated
+  competition, A = UᵀU and r = Uᵀb − c, the population dynamics are
+  multiplicative gradient flow on a convex feature-selection objective.
+  A rare component's invasion fitness is the negative partial derivative
+  of that objective, and uninvadable equilibria are its KKT points
+  ([CLAIM-tmpc36bo](../claims.d/CLAIM-tmpc36bo.md)). So in that case the recovery test of the note above
+  is a marginal-value test. The identity fails once interactions are
+  asymmetric or the operators' objectives compete, and that is where this
+  question's organizations live.
+- **Four refinements are filed as questions:**
+  - when feature geometry predicts coexistence ([QUESTION-tmpw9b04](QUESTION-tmpw9b04.md));
+  - when differentiation yields positive recovery when rare, rather than
+    imposed or entrenched roles ([QUESTION-tmp0885h](QUESTION-tmp0885h.md)), with recovery
+    exponents λ^resident and λ^conditional;
+  - whether specialization can relieve structural frustration by
+    enlarging the attainable set ([QUESTION-tmpjwshe](QUESTION-tmpjwshe.md));
+  - whether influence-dependent training destroys a marginalized
+    specialist's competence ([QUESTION-tmpn0znj](QUESTION-tmpn0znj.md)).
+- **The proposed study is [CASE-tmprbebk](../cases.d/CASE-tmprbebk.md).** It sets ordinary
+  mixture-of-experts routing as the baseline, and imposed against
+  endogenous diversity as the central ablation.
+
+Chesson ([LIT-1219](../literature.d/LIT-1219.md)) is still unread. The synthesis recommends reading it
+before any negative-frequency-dependence criterion here is given stronger
+standing.

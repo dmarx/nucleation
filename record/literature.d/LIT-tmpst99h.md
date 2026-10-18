@@ -1,0 +1,41 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
+title: 'Phase Transition to Chaos in Complex Ecosystems with Nonreciprocal Species-Resource Interactions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and arXiv on 2026-10-18: Physical Review Letters 132(12): 127401, published 21 March 2024. The arXiv title spells it "non-reciprocal"; the title here is the journal's. `published:` is the arXiv v1 date, 30 August 2023. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
+tags:
+- ecology
+- complex-systems
+date: '2026-10-18'
+published: '2023-08-30'
+arxiv: '2308.15757'
+doi: '10.1103/PhysRevLett.132.127401'
+first_author: 'Blumenthal'
+keywords:
+- 'non-reciprocal interactions'
+- 'consumer-resource model'
+- 'phase transition'
+- 'chaos'
+- 'cavity method'
+- 'Lyapunov exponents'
+implementations: []
+summary: >-
+  Blumenthal, Rocks & Mehta (2024). In MacArthur's consumer-resource model made asymmetric between species and resources, increasing non-reciprocity drives a phase transition to chaotic dynamics, controlled by one quantity, the ratio of surviving species to surviving resources.
+---
+
+# LIT-tmpst99h: Phase Transition to Chaos in Complex Ecosystems with Nonreciprocal Species-Resource Interactions
+
+Blumenthal, E., Rocks, J. W. & Mehta, P. (2024). Phase Transition to Chaos in Complex Ecosystems with Nonreciprocal Species-Resource Interactions. *Physical Review Letters* 132(12): 127401. doi:10.1103/PhysRevLett.132.127401. arXiv:2308.15757.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. On the synthesis's reading, it marks where the optimization picture of the papers filed with it fails: with non-reciprocal interactions the dynamics need not minimize any objective, and a differentiated community can give way to chaos. The synthesis took this as the limit of reading distributed agency as optimization. Bears on [QUESTION-083](../questions.d/QUESTION-083.md).

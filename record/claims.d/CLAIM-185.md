@@ -179,3 +179,30 @@ does not state: a retained part must be cut off, by constancies, from
 what is still changing (Ss. 11/10, 12/17). A persistent structure that
 later change can still reach is not retained. The transfer to arguments
 is analogy.
+
+## Note of 2026-10-18: persistence is not continued explanatory fitness
+
+A synthesis the owner relayed on 2026-10-18 (workbench entry of that date)
+turned its ecological analogy back on the record. A claim can stay in the
+record while temporarily irrelevant, and a reading with little influence
+on the active argument can become important when a new question arises.
+Unlike a population in a competitive model, a filed entry is retained
+without continuously earning resources, so the record's infrastructure
+changes the extinction dynamics. Preservation is not enough, though. An
+entry's significance also depends on whether the rest of the record can
+still recognize when it is relevant, route new questions to it, read its
+evidential status and revise it without destroying the history other
+arguments depend on. The synthesis separated three readings of the
+record's organization:
+
+- an archive, which preserves structures;
+- an adaptive research organization, which selects, reorganizes and
+  reconnects them as questions arise;
+- a self-governing epistemic organization, which also maintains and
+  revises the standards and processes by which they are evaluated and
+  given influence.
+
+Its caution is kept: the analogy may make the roles of the record's
+families clearer, but it "should not be used as evidence that the record
+itself is an agent". This bears on this claim's distinction between
+persisting and being correct (note of 2026-10-11).
