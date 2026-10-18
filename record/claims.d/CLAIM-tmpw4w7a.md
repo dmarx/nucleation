@@ -50,7 +50,6 @@ summary: >-
   hold some of it.
 ---
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 THEORY-253 CASE-tmplvjrp QUESTION-tmp124n3 CLAIM-tmpyk3it — Proposed; open claims and readings, cited as open -->
-<!-- inactive-ok-file: CLAIM-039 — Deferred; the organizational-affect claim, set aside, cited as the line this one touches -->
 
 # CLAIM-tmpw4w7a: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
 
