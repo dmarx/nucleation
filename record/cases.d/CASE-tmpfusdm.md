@@ -19,7 +19,7 @@ summary: >-
   institution's performance and its survival, so the total is sufficient
   for every institutional judgment, and the policies (6, 6) and (10, 2)
   have the same total. A member's claim not to work past an agreed cap of
-  eight hours tells them apart, so by CLAIM-tmpa1kmr no judgment on the
+  eight hours tells them apart, so by [CLAIM-tmpa1kmr](../claims.d/CLAIM-tmpa1kmr.md) no judgment on the
   total recovers it. Fictional by construction; it shows a possibility,
   not how often institutions are like this.
 ---
@@ -51,12 +51,12 @@ J_inst(b) and J_i(a) ≠ J_i(b)). This is the smallest version.
 
 1. **C preserves every institutional judgment.** J_inst and S are functions
    of w₁ + w₂, so each is constant on C's fibres and factors through C
-   (CLAIM-tmpa1kmr). Any prediction of the institution's future that runs
+   ([CLAIM-tmpa1kmr](../claims.d/CLAIM-tmpa1kmr.md)). Any prediction of the institution's future that runs
    through its output runs through C. By stability, prediction and
    aggregate performance, C is a complete description of this institution.
 2. **C merges states the member's claim distinguishes.** C(x_a) = C(x_b) =
    12, while J₁(x_a) = 1 and J₁(x_b) = 0. J₁ is not constant on the fibre
-   C = 12, so by CLAIM-tmpa1kmr there is no j with J₁ = j∘C. No judgment
+   C = 12, so by [CLAIM-tmpa1kmr](../claims.d/CLAIM-tmpa1kmr.md) there is no j with J₁ = j∘C. No judgment
    made on total output can say whether member 1's claim was respected.
 3. **The adequate description is fixed by the target.** C′(x) = (w₁ + w₂,
    [w₁ ≤ 8], [w₂ ≤ 8]) preserves J_inst, S and both members' claims. The
@@ -78,9 +78,9 @@ J_inst(b) and J_i(a) ≠ J_i(b)). This is the smallest version.
 - **A22's optional extension**, a collective judgment rule that changes
   which evaluations acquire institutional authority. A22 marks it "an
   interpretive extension concerning institutional legitimacy", and it is
-  not built here. It is where CLAIM-271 and THEORY-127 would enter.
+  not built here. It is where [CLAIM-271](../claims.d/CLAIM-271.md) and [THEORY-127](../theory.d/THEORY-127.md) would enter.
 - **Anything a richer institution could not repair.** An institution whose
   survival depends on member 1's continued membership, and member 1's on
   the cap, would make J₁ bear on S. Then C would no longer be sufficient for
   survival. The construction depends on the claim being idle for the
-  institution's persistence, which is CLAIM-060's case.
+  institution's persistence, which is [CLAIM-060](../claims.d/CLAIM-060.md)'s case.

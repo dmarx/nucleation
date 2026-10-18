@@ -103,7 +103,7 @@ relation between processes at different times.**" A4's revised candidate:
 "Historical continuity is a relation between organizational episodes, not
 simply another dynamical property of an episode", and "causal transmission
 alone does not settle whether A and B are numerically the *same*
-collective." Neither cited this claim. Arm C of CASE-tmpxqgai is its
+collective." Neither cited this claim. Arm C of [CASE-tmpxqgai](../cases.d/CASE-tmpxqgai.md) is its
 dormant coalition as a construction: a rule passed through an archive
 between two episodes that never run together, where intervening on the
 earlier rule changes the later behaviour.
@@ -114,6 +114,6 @@ preserving specified organizational features of the predecessor", so
 "This relation cannot alone be numerical identity, because numerical
 identity cannot branch." A24: "This makes CLAIM-287 precise without
 requiring an entire metaphysics of personal identity." It did not cite
-THEORY-447, Parfit's branching argument, which already grounds the claim,
+[THEORY-447](../theory.d/THEORY-447.md), Parfit's branching argument, which already grounds the claim,
 and it only sketches the construction. Nothing new to the claim beyond
 arm C.

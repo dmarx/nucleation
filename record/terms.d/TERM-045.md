@@ -99,13 +99,13 @@ the substantial ego": what is fictional is "the imagined substantial owner,
 not the organized agent". The self that argument turns on is in none of the
 seven senses. It is the self as the content of a self-model, which the
 system does not recognise as a model: Metzinger's transparent self-model
-(THEORY-064) and Dennett's centre of narrative gravity (THEORY-691). Call it
+([THEORY-064](../theory.d/THEORY-064.md)) and Dennett's centre of narrative gravity ([THEORY-691](../theory.d/THEORY-691.md)). Call it
 "modeled". It differs from 4, narrative, in being a representation the
 system uses in governing itself rather than the unity of a life told whole,
 and from 1, subject, in that a claim about it says nothing about whether
 there is experience.
 
-CLAIM-tmpk7n2q, filed from that exchange, is stated in senses 1 and 6 and
+[CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md), filed from that exchange, is stated in senses 1 and 6 and
 names the modeled sense in its body. Adding an eighth sense is a new version
 of this term by its own rule. It is flagged here and not done.
 

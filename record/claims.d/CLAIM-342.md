@@ -114,7 +114,7 @@ design requirement, without citing it.
   timing and integrity of the prediction**. It does not establish that the
   outcome is interpreted correctly, that the scoring rule is appropriate, or
   that the operator was exposed to representative evidence." That is
-  CLAIM-340's limit: commitment fixes when the prediction is made, not how
+  [CLAIM-340](CLAIM-340.md)'s limit: commitment fixes when the prediction is made, not how
   the evidence is read.
 - A39's second case study: "endorsement based on independent performance
   evidence versus endorsement scored through the interpretations whose
@@ -128,6 +128,6 @@ design requirement, without citing it.
   variant that would "compromise the processes responsible for evaluating
   other processes' competence. That tests whether the organization has any
   genuinely independent means of checking its own allocation of authority."
-  That variant is in CASE-tmp4nzjz. It puts this claim under attack: the
+  That variant is in [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md). It puts this claim under attack: the
   evidence that does not pass through the tested interpretation is itself
   scored by a process an insider may hold.

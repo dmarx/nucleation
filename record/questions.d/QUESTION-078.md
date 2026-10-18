@@ -55,9 +55,9 @@ without citing the question. A44: "Indeed, unity of governance **should
 not require** unity of valuation", and "An organization may be well
 integrated because it has maintained arrangements for handling
 disagreement, not because it has eliminated disagreement." A45's broader
-sense of synchronization, filed as TERM-tmpnfj83, is coordination of
+sense of synchronization, filed as [TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md), is coordination of
 regimes that keep their own rankings. The owner's U45 thesis on
-escalation (CLAIM-tmpmr1t8) says what that coordination saves.
+escalation ([CLAIM-tmpmr1t8](../claims.d/CLAIM-tmpmr1t8.md)) says what that coordination saves.
 
 A46, at the owner's U46 on niche specialization, gave the
 differentiated-roles half: "intrapersonal synchronization may be better

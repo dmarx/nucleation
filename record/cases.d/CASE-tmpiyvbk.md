@@ -18,9 +18,9 @@ summary: >-
   derived and rechecked here. A8: "It's a countermodel showing why
   endorsement strength, effective governance, and behavioral transition
   can come apart." A8's "endorsement" is the reflective attitude, not the
-  record's TERM-053 sense, so h is called a higher-order volition. It
+  record's [TERM-053](../terms.d/TERM-053.md) sense, so h is called a higher-order volition. It
   models authority between regimes; it does not revive will as an
-  attractor (TERM-003, Superseded). Fictional by construction.
+  attractor ([TERM-003](../terms.d/TERM-003.md), Superseded). Fictional by construction.
 ---
 
 # CASE-tmpiyvbk: Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h
@@ -36,7 +36,7 @@ them. A minimal nonlinear model is
 Here μ controls the stability structure, and h tilts the competition
 toward the endorsed regime." A12's Proposition 3 is the same equation in z.
 Here h is a higher-order volition in Frankfurt's sense, an attitude that
-one regime should be effective. The record's endorsement (TERM-053) is a
+one regime should be effective. The record's endorsement ([TERM-053](../terms.d/TERM-053.md)) is a
 different thing, an effect of one process on another's share of
 influence.
 
@@ -73,25 +73,25 @@ The threshold was checked by hand and numerically for this filing.
   producing a behavioral transition." For 0 < h < h_c the volition moves
   w, and the regime is unchanged.
 - **Changing the conditions, not the attitude.** Lowering μ with h fixed
-  can switch the regime. That is CLAIM-122's form: changing the
+  can switch the regime. That is [CLAIM-122](../claims.d/CLAIM-122.md)'s form: changing the
   conditions of efficacy changes behaviour while the competing attitudes
-  stay fixed. It is CASE-013's writer blocking the websites.
+  stay fixed. It is [CASE-013](CASE-013.md)'s writer blocking the websites.
 - **Persistence against revision.** A12, Proposition 3: "An enduring
   commitment can coexist with high costs of revision." Once in the upper
-  regime the agent stays there for every h > −h_c. That is CLAIM-025's
-  separation, and the revisability dimension of CLAIM-tmpilfhr.
+  regime the agent stays there for every h > −h_c. That is [CLAIM-025](../claims.d/CLAIM-025.md)'s
+  separation, and the revisability dimension of [CLAIM-tmpilfhr](../claims.d/CLAIM-tmpilfhr.md).
 
 ## What it cannot show
 
 - **That motivation follows this equation.** A8: "This is not a claim that
   human motivation literally follows a quartic potential." A12: "application
   to human commitments remains interpretive."
-- **Will as an attractor.** TERM-003 defined will as a higher-order
-  attractor and was superseded by will-organization (TERM-023). Here the
+- **Will as an attractor.** [TERM-003](../terms.d/TERM-003.md) defined will as a higher-order
+  attractor and was superseded by will-organization ([TERM-023](../terms.d/TERM-023.md)). Here the
   attractor is a state of the balance of authority, and the will-organization
   is what sets μ and passes h into w. The case does not restore the old
   definition.
 - **That h is the agent's own.** A8 §3: "we could accidentally redefine
   endorsement as whichever signal successfully changes behavior. That
   would collapse a normative notion into a causal one." The model says
-  what an input does, not what makes it authoritative (THEORY-029).
+  what an input does, not what makes it authoritative ([THEORY-029](../theory.d/THEORY-029.md)).

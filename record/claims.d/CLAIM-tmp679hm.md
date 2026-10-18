@@ -28,14 +28,14 @@ grounds:
 - CASE-tmpfusdm
 summary: >-
   A21 §18's Candidate 2 of the exchange of 2026-10-17, with A21 §5's
-  clause against circularity and A22's Construction C (CASE-tmpfusdm).
+  clause against circularity and A22's Construction C ([CASE-tmpfusdm](../cases.d/CASE-tmpfusdm.md)).
   A21: "no coarse-graining may be treated as generally normatively
   adequate solely because it preserves organizational stability,
   predictive accuracy, or aggregate performance." The case is
   demonstrated: total output preserves an institution's every judgment
   and merges a member's claim. The general conclusion is interpretive.
-  It is CLAIM-152's target-relativity carried from individuation to
-  evaluation, and CLAIM-060 in the language of coarse-graining. Filed in
+  It is [CLAIM-152](CLAIM-152.md)'s target-relativity carried from individuation to
+  evaluation, and [CLAIM-060](CLAIM-060.md) in the language of coarse-graining. Filed in
   distributed-agency because its case is a whole against its members.
   The sharp edge: it does not say which target is right, and it denies
   that the description can settle it.
@@ -56,13 +56,13 @@ conclusion".
 The argument:
 
 1. A coarse-graining preserves a deterministic judgment exactly when the
-   judgment is constant on its fibres (CLAIM-tmpa1kmr).
-2. Which partition is sufficient depends on the target (CLAIM-152). Stability,
+   judgment is constant on its fibres ([CLAIM-tmpa1kmr](CLAIM-tmpa1kmr.md)).
+2. Which partition is sufficient depends on the target ([CLAIM-152](CLAIM-152.md)). Stability,
    prediction and aggregate performance are targets too: the whole's.
 3. A whole's success does not establish its constituents' well-being
-   (CLAIM-060). So the whole's judgments and a member's can have different
+   ([CLAIM-060](CLAIM-060.md)). So the whole's judgments and a member's can have different
    level sets.
-4. CASE-tmpfusdm builds such a pair. Total output decides an institution's
+4. [CASE-tmpfusdm](../cases.d/CASE-tmpfusdm.md) builds such a pair. Total output decides an institution's
    performance and its survival, and merges a state in which a member works
    within an agreed cap with one in which that member works far past it.
 5. So preserving the whole's stability, prediction or performance is no
@@ -89,8 +89,8 @@ target-free criterion of the kind the defeat condition names.
 ## What it does not say
 
 - **Which target is right.** It says the description cannot decide. Whether
-  the member's claim should constrain the institution is CLAIM-075's open
-  ground and QUESTION-tmpq5i0m's question.
+  the member's claim should constrain the institution is [CLAIM-075](CLAIM-075.md)'s open
+  ground and [QUESTION-tmpq5i0m](../questions.d/QUESTION-tmpq5i0m.md)'s question.
 - **That institutional descriptions are worthless.** C is adequate for the
   institution's judgments, and the claim depends on that.
 - **That there is no adequate coarse-graining.** One fitted to both targets
@@ -100,6 +100,6 @@ target-free criterion of the kind the defeat condition names.
   that bears on the whole's persistence is preserved by any description
   sufficient for persistence. The case needs the claim to be idle for the
   whole.
-- **That the logical point is new.** It is CLAIM-152 and CLAIM-060 together.
+- **That the logical point is new.** It is [CLAIM-152](CLAIM-152.md) and [CLAIM-060](CLAIM-060.md) together.
   What the exchange added is the coarse-graining form and the clause against
   circularity.

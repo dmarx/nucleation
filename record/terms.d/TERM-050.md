@@ -76,10 +76,10 @@ that "sustain mutually compatible courses of practical activity without
 requiring recurrent overriding arbitration by processes operating at a
 higher level of governance", whatever their rankings.
 
-The record files that sense as a new term, TERM-tmpnfj83 (practical
+The record files that sense as a new term, [TERM-tmpnfj83](TERM-tmpnfj83.md) (practical
 synchronization), and leaves this one as it is. A changed definition is
 a new TERM, and six claims are stated in this one. A45 itself called this
 sense "*Valuational concordance*", "the special case captured by the
 previous definition". This term is not superseded here. Whether
-TERM-tmpnfj83 should supersede it, taking the bare word for the broad
+[TERM-tmpnfj83](TERM-tmpnfj83.md) should supersede it, taking the bare word for the broad
 sense, is for the owner.

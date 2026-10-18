@@ -106,10 +106,10 @@ effortful case is: "The "more effortful" intrapersonal conflict case is
 the one in which the internal modules don't negotiate amongst themselves
 and instead require escalating to higher level processes to mediate."
 
-CLAIM-tmpmr1t8 refines this claim's "The divided agent pays for its unity
+[CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md) refines this claim's "The divided agent pays for its unity
 in effort, devices and lapses". It pays for escalation. A divided agent
 whose regimes settle their disagreement among themselves pays less while
-staying divided, which is practical synchronization (TERM-tmpnfj83)
-without synchronization in TERM-050's sense. CLAIM-tmpmr1t8 rests on this
-claim. A45's Person A (CASE-tmpffqbr) is this claim's divided agent. The
+staying divided, which is practical synchronization ([TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md))
+without synchronization in [TERM-050](../terms.d/TERM-050.md)'s sense. [CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md) rests on this
+claim. A45's Person A ([CASE-tmpffqbr](../cases.d/CASE-tmpffqbr.md)) is this claim's divided agent. The
 status is unchanged.

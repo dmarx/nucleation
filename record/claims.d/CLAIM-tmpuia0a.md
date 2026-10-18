@@ -37,7 +37,7 @@ summary: >-
   θ = diag(½, 2)ψ their transforms have −7/4, while d = (−1, 0) lowers
   both throughout. The sharp edge: it covers coordinate changes of one
   parameter space at first order, not function-preserving symmetries or
-  training trajectories (QUESTION-tmpm1wok). The practice corollary, not
+  training trajectories ([QUESTION-tmpm1wok](../questions.d/QUESTION-tmpm1wok.md)). The practice corollary, not
   to diagnose task conflict by gradient cosine, is the anthology's.
 ---
 
@@ -92,10 +92,10 @@ they are not antiparallel, and antiparallelism is preserved by Jᵀ.
 measured by a metric G_θ, ‖v‖² = vᵀG_θv, the same problem in ψ uses the
 pullback G_ψ = JᵀG_θJ, and then ‖v′‖_{G_ψ} = ‖v‖_{G_θ}. The dual norm of
 the gradient is preserved as well: g′ᵀG_ψ⁻¹g′ = gᵀG_θ⁻¹g. So the residual
-Φ_r of CLAIM-tmpue67e is chart-independent when the metric is carried
+Φ_r of [CLAIM-tmpue67e](CLAIM-tmpue67e.md) is chart-independent when the metric is carried
 along. A35: "If we use the Euclidean norm afresh in every representation,
 we're not keeping the optimization geometry fixed; we're changing the
-optimization problem." This is THEORY-082's point, that steepest descent
+optimization problem." This is [THEORY-082](../theory.d/THEORY-082.md)'s point, that steepest descent
 is defined only relative to a metric, applied to the feasibility test.
 
 ## A35's table
@@ -111,7 +111,7 @@ A35 §2 sorted diagnostics by expected invariance:
 | Feasibility of specified changes to the represented function | Invariant under function-preserving parameterization, with the function class and allowed changes fixed |
 
 This claim proves rows one to three. Rows four and five are
-QUESTION-tmpm1wok's. A35's summary of the gap: "same current function ≠
+[QUESTION-tmpm1wok](../questions.d/QUESTION-tmpm1wok.md)'s. A35's summary of the gap: "same current function ≠
 same learning dynamics".
 
 ## What it does not say
@@ -121,11 +121,11 @@ same learning dynamics".
   steps change feasibility (A33 §3A).
 - **Anything about function-preserving symmetries.** A reparameterization
   here is a chart of one parameter space. Two networks related by a
-  permutation of units or a blow-up (CLAIM-263, CLAIM-305, THEORY-112)
+  permutation of units or a blow-up ([CLAIM-263](CLAIM-263.md), [CLAIM-305](CLAIM-305.md), [THEORY-112](../theory.d/THEORY-112.md))
   are not covered: the map need not be a diffeomorphism of the whole space,
-  and the Fisher metric can be degenerate there (THEORY-082).
+  and the Fisher metric can be degenerate there ([THEORY-082](../theory.d/THEORY-082.md)).
 - **What practitioners should do.** That a cosine-based conflict
   diagnostic is chart-dependent is an instruction for machine-learning
   practice, and it belongs in the anthology. This record keeps the
-  mathematics because the frustration account (TERM-tmp9lmlt) needs a
+  mathematics because the frustration account ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md)) needs a
   diagnosis that is not an artefact of coordinates.

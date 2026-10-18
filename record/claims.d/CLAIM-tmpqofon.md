@@ -32,9 +32,9 @@ summary: >-
   correction to our developing theory", against A44's "An authentically
   maintained goal may demand more effort, not less". A46 refined
   non-domination to "continued access to consequential roles". A candidate
-  repair of CLAIM-016's "integrated". The authenticity line was set aside
+  repair of [CLAIM-016](CLAIM-016.md)'s "integrated". The authenticity line was set aside
   on 2026-10-05; filing this does not reopen it, and whether it reopens is
-  the owner's call. The manipulation objection stands (CLAIM-tmptg7io).
+  the owner's call. The manipulation objection stands ([CLAIM-tmptg7io](CLAIM-tmptg7io.md)).
 ---
 <!-- inactive-ok-file: CLAIM-016 TERM-006 QUESTION-011 — Deferred; the set-aside authenticity line this claim is a candidate repair for, cited to say what it would repair -->
 <!-- inactive-ok-file: CLAIM-261 THEORY-040 THEORY-054 THEORY-077 QUESTION-071 CLAIM-tmpmr1t8 CLAIM-tmptg7io — Proposed; the claims and readings set beside this one, open -->
@@ -102,24 +102,24 @@ A45's formulation:
   a specialist is useful arise, can that specialist recover effective
   influence, even after a long period in which its contributions were
   unnecessary?" The loop that defeats it, a rare specialist losing
-  exposure and so influence, is filed on CLAIM-277.
+  exposure and so influence, is filed on [CLAIM-277](CLAIM-277.md).
 
 ## Where it sits in the record
 
-The authenticity line (TERM-006, CLAIM-016, QUESTION-011) was set aside at
+The authenticity line ([TERM-006](../terms.d/TERM-006.md), [CLAIM-016](CLAIM-016.md), [QUESTION-011](../questions.d/QUESTION-011.md)) was set aside at
 the audit of 2026-10-05: "ownership criteria remain insufficiently
-defended". CLAIM-016 says a will is the agent's own to the degree its
+defended". [CLAIM-016](CLAIM-016.md) says a will is the agent's own to the degree its
 commitments "arise through, remain integrated with, and are answerable
 to" its constitutive organization. It never said what "integrated"
 requires. This claim is a candidate answer: integration is
 non-domination of the processes that carry the commitment. It is an
-alternative reading of CLAIM-016's middle condition, not a premise of
-it, and it does not rest on CLAIM-016. THEORY-054's graded integration,
-already among CLAIM-016's grounds, is the nearest reading.
+alternative reading of [CLAIM-016](CLAIM-016.md)'s middle condition, not a premise of
+it, and it does not rest on [CLAIM-016](CLAIM-016.md). [THEORY-054](../theory.d/THEORY-054.md)'s graded integration,
+already among [CLAIM-016](CLAIM-016.md)'s grounds, is the nearest reading.
 
 The owner tied the criterion to an economy: where the lower processes
 already support the outcome, the higher ones need not spend effort
-imposing it. That economy is CLAIM-tmpmr1t8, filed on the
+imposing it. That economy is [CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md), filed on the
 will-organization line on its own, because it holds or fails apart from
 any account of authenticity.
 
@@ -130,13 +130,13 @@ any account of authenticity.
   cost of imposition, not the cost of the work.
 - **That non-domination can be read from low supervisory cost.** A45: "A
   quiet subordinate process isn't necessarily a satisfied one." That
-  objection is CLAIM-tmptg7io, and it is open.
+  objection is [CLAIM-tmptg7io](CLAIM-tmptg7io.md), and it is open.
 - **That it settles the manipulation objection.** A45: "Your
   non-domination proposal gives us a better mechanism to investigate, but
   it doesn't yet settle the manipulation objection." It proposed
   "**non-dominating integration as a candidate constituent of
-  authenticity**", not a definition. THEORY-040 and QUESTION-071 stand.
-- **That an agent who overrides is not the author of the act.** CLAIM-261
+  authenticity**", not a definition. [THEORY-040](../theory.d/THEORY-040.md) and [QUESTION-071](../questions.d/QUESTION-071.md) stand.
+- **That an agent who overrides is not the author of the act.** [CLAIM-261](CLAIM-261.md)
   holds that a divided agent who keeps to the diet acts, "and the act is
   theirs". This claim grades authenticity; it does not take the act away.
 - **That subprocesses have standing.** A45: "We are proposing an

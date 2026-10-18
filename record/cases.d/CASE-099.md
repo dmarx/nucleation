@@ -93,11 +93,11 @@ A39 §3 of the exchange of 2026-10-17 proposed extending this case as its
 and a feasible-update oracle. It would ask whether interpretation–
 endorsement feedback can make a system persistently fail to use an
 available satisfactory update." The oracle computes the residual Φ of
-CLAIM-tmpue67e, so the extension would separate structural from
-governance-induced frustration (CLAIM-tmpl8vsy) in this model. Its key
+[CLAIM-tmpue67e](../claims.d/CLAIM-tmpue67e.md), so the extension would separate structural from
+governance-induced frustration ([CLAIM-tmpl8vsy](../claims.d/CLAIM-tmpl8vsy.md)) in this model. Its key
 contrast, "endorsement based on independent performance evidence versus
 endorsement scored through the interpretations whose authority is being
 evaluated", is not new: it is Regime B against the γ arrow here, and
-CLAIM-342's and CLAIM-297's thesis. A39 called it "the best candidate for
+[CLAIM-342](../claims.d/CLAIM-342.md)'s and [CLAIM-297](../claims.d/CLAIM-297.md)'s thesis. A39 called it "the best candidate for
 an early discriminating experiment". A40's Study C restates it. Not run.
-The dynamics it would need are QUESTION-tmp82n3z's.
+The dynamics it would need are [QUESTION-tmp82n3z](../questions.d/QUESTION-tmp82n3z.md)'s.

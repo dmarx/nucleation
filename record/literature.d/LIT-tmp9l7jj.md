@@ -36,4 +36,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A33 of the exchange used its criterion, without a source: "If zero lies in the convex hull of the task gradients, there is no common strict first-order descent direction" (0 ∉ conv{g_1,…,g_n}). A34's dual certificate and A35's residual build on it. Bears on CLAIM-tmpuia0a (common first-order descent is invariant under reparameterization; the sign of a gradient inner product is not) and CLAIM-tmpue67e (the residual's dual certificate and governance regret).
+A33 of the exchange used its criterion, without a source: "If zero lies in the convex hull of the task gradients, there is no common strict first-order descent direction" (0 ∉ conv{g_1,…,g_n}). A34's dual certificate and A35's residual build on it. Bears on [CLAIM-tmpuia0a](../claims.d/CLAIM-tmpuia0a.md) (common first-order descent is invariant under reparameterization; the sign of a gradient inner product is not) and [CLAIM-tmpue67e](../claims.d/CLAIM-tmpue67e.md) (the residual's dual certificate and governance regret).

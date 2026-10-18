@@ -37,10 +37,10 @@ summary: >-
   rigidity (A41), access against authority (A42), and governance that
   makes its own repeated exercise unnecessary (A45, A47). The record
   already holds a theory of resolve, Ainslie's recursive staking of
-  future choices (THEORY-067); this is its organizational and revisable
-  form, placed in CLAIM-159's will-organization cell. The sharp edge: the
+  future choices ([THEORY-067](../theory.d/THEORY-067.md)); this is its organizational and revisable
+  form, placed in [CLAIM-159](CLAIM-159.md)'s will-organization cell. The sharp edge: the
   standard for when revision is warranted is not supplied, and is
-  QUESTION-087's open problem.
+  [QUESTION-087](../questions.d/QUESTION-087.md)'s open problem.
 ---
 
 <!-- inactive-ok-file: CLAIM-159 CLAIM-277 CLAIM-331 CLAIM-tmp6ap9y CLAIM-tmpp9ox0 THEORY-067 — Proposed; open claims and readings this one rests on or places itself against, cited as open -->
@@ -69,17 +69,17 @@ relevant disturbances, and appropriate capacity for revision."
 The claim has three parts, each resting on a claim the record holds.
 
 1. **Durable authority, earned.** The commitment's precedence is held by
-   influence relations that persist. CLAIM-277 says durable authority can
+   influence relations that persist. [CLAIM-277](CLAIM-277.md) says durable authority can
    be "the temporal regularity of endorsement", and that "the same loop
    entrenches whatever gained influence early", which is the rigidity risk
    inside the mechanism.
-2. **Slowness is not enough.** CLAIM-331: higher-level variables are
+2. **Slowness is not enough.** [CLAIM-331](CLAIM-331.md): higher-level variables are
    slower, but "slowness is a mark of a level and not its definition". A37
    on the two-timescale update rule (Heusel et al. 2017, held in the
-   anthology as ANTH-LIT-611): "the slower process in TTUR is the generator,
+   anthology as [ANTH-LIT-611](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-611.md)): "the slower process in TTUR is the generator,
    not a higher-order will-controller. Slowness alone supplies no authority
    or motivational hierarchy."
-3. **Revision kept.** CLAIM-099: maintaining a regime of effective action
+3. **Revision kept.** [CLAIM-099](CLAIM-099.md): maintaining a regime of effective action
    and maintaining the capacity to govern among regimes are not the same
    achievement. Resolve needs both. A37: "To prevent rigidity from
    masquerading as resolve, the commitment conditions must also include an
@@ -110,7 +110,7 @@ grade. The lower grades are persistence.
 
 ## Two ways to fail
 
-A41, from the insider-threat material (CLAIM-tmpp9ox0): "resolve should not
+A41, from the insider-threat material ([CLAIM-tmpp9ox0](CLAIM-tmpp9ox0.md)): "resolve should not
 be so easy to manipulate that a constituent can redirect it toward an
 unauthorized objective, nor so rigid that legitimate corrections cannot
 reach it." Its three cases: "**Fragility:** Internal disturbances readily
@@ -119,7 +119,7 @@ even when revision is warranted. **Adaptive robustness:** Commitments
 resist inappropriate interference while remaining responsive to legitimate
 evidence and correction."
 
-A42 added what keeps resolve on the adaptive side (CLAIM-tmp6ap9y):
+A42 added what keeps resolve on the adaptive side ([CLAIM-tmp6ap9y](CLAIM-tmp6ap9y.md)):
 "Adaptive resolve requires more than persistence of commitment or
 resistance to internal disturbance. A governing organization must
 distinguish access to evaluative signals from their authority over action,
@@ -129,7 +129,7 @@ governance when warranted." A44 put the same point as a route: in
 "**Reflectively available resolve**", "Competing evaluations remain
 accessible, but their control over action is conditionally governed".
 
-THEORY-688 is the record's documented case of the rigid side in a learner.
+[THEORY-688](../theory.d/THEORY-688.md) is the record's documented case of the rigid side in a learner.
 In Botvinick, Niv and Barto's actor-critic, options fitted to an earlier
 layout kept the agent from a newly opened shortcut: primitive-only agents
 found it on 75% of runs, doorway-option agents never used it. Learned
@@ -147,21 +147,21 @@ than the continual expenditure of a superior will overpowering them". The
 revision condition stays: "**the maintained capacity to determine when
 persistence, adaptation, and relinquishment are appropriate**".
 
-## Against THEORY-067 and CLAIM-159
+## Against [THEORY-067](../theory.d/THEORY-067.md) and [CLAIM-159](CLAIM-159.md)
 
-The record already holds a theory of resolve. Ainslie (THEORY-067): resolve
+The record already holds a theory of resolve. Ainslie ([THEORY-067](../theory.d/THEORY-067.md)): resolve
 is "the recursive staking of expected future choices on the present one";
 treating a choice as a precedent bundles the series, and a lapse costs the
 rule its credibility. That is A37's "bundling" row, one mechanism among six.
 This claim is not a rival mechanism. It says what organization the
 mechanism must sit in to count as resolve: one that keeps the bundled
 policy effective and can also revise it. Ainslie's own reading predicts the
-failure the revision condition guards against. As NOTE-443 reads it (C6),
+failure the revision condition guards against. As [NOTE-443](../notes.d/NOTE-443.md) reads it (C6),
 reliance on personal rules predicts legalism, lapse districts, motivated
 misperception and over-control, a claim argued and fitted to clinical
 observation, not tested.
 
-CLAIM-159 puts the record's rival accounts of will in drive-profile cells:
+[CLAIM-159](CLAIM-159.md) puts the record's rival accounts of will in drive-profile cells:
 Ainslie's interests aggregate or emergent, the expected value of control
 top-down, will-organization the maintained organization that governs how
 the drive profile changes. Resolve in this claim's sense belongs to the
@@ -175,7 +175,7 @@ more.
   the revision policy "introduces an independently justified standard for
   when preservation versus revision is warranted". Whether a standard
   internal to the organization can tell warranted persistence from
-  entrenchment is QUESTION-087's open problem.
+  entrenchment is [QUESTION-087](../questions.d/QUESTION-087.md)'s open problem.
 - It does not say that networks in training have resolve. A37: a
   consolidation mechanism supplied by the training algorithm "may
   demonstrate resolve-like organization **of the training system**, not
@@ -184,7 +184,7 @@ more.
   keeping task information and representational capacity comparable", is
   the test, and it has not been run.
 - It does not say resolve is good. A commitment kept adaptively can be a
-  commitment to something that ought not to persist (CLAIM-075).
+  commitment to something that ought not to persist ([CLAIM-075](CLAIM-075.md)).
 - It does not say every persistent commitment is rigid. Persistence is
-  sometimes the flexible response (CLAIM-tmp6ap9y); rigidity is persistence
+  sometimes the flexible response ([CLAIM-tmp6ap9y](CLAIM-tmp6ap9y.md)); rigidity is persistence
   when revision is warranted.

@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A42 of the exchange cited the RefraMED trial as the main controlled evidence for RO DBT. Bears on CLAIM-tmp6ap9y: the trial's gain in flexibility without a lasting gain on the primary outcome is a caution on reading overcontrol as the whole of the problem.
+A42 of the exchange cited the RefraMED trial as the main controlled evidence for RO DBT. Bears on [CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md): the trial's gain in flexibility without a lasting gain on the primary outcome is a caution on reading overcontrol as the whole of the problem.
