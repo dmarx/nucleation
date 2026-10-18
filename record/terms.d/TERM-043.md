@@ -10,8 +10,6 @@ tags:
 - information-theory
 date: '2026-10-10'
 line: pragmatic-transport
-supersedes:
-- TERM-010
 summary: >-
   The owner agreed at U41 to unify the record's fidelity lineages, and
   A129 §3 made one transport with several tests. The profile had four
@@ -36,6 +34,8 @@ used_by:
 - CLAIM-257
 - CLAIM-259
 - CLAIM-319
+refined_by:
+- TERM-010
 ---
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 CLAIM-257 CLAIM-259 — Proposed; the restatements of the components, cited as open -->

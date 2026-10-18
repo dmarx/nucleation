@@ -10,6 +10,8 @@ tags:
 - self-governance
 date: '2026-10-18'
 line: will-organization
+complements:
+- TERM-050
 summary: >-
   The broader sense the owner asked for at U45 of the exchange of
   2026-10-17 ("we should probably propose a more general definition for
