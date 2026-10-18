@@ -5,15 +5,20 @@ version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A comparison at matched task, outcome and execution cost in which agents
-  (or model organizations) whose recurring conflicts are settled locally
-  spend no less in total on resolving them, local negotiation and
-  supervision together, than agents that escalate them to a mediating or
-  overriding process. Or a showing that settling a recurring conflict
-  locally costs at least as much as mediating it even where a stable local
-  accommodation exists. Not defeated by a conflict that admits no stable
-  accommodation, where the claim allows mediation to be cheaper, nor by
-  high effort in carrying out the task, which the claim does not price.
+  A showing that, for a stated class of recurring conflicts each of which
+  admits a stable local accommodation, learned local settlement never
+  lowers the amortized total cost of resolving them below that of
+  escalating each instance to a mediating or overriding process, at
+  matched task, outcome and execution cost, where the total counts local
+  negotiation, the upkeep of the relations it needs, and supervision.
+  That means a general argument, or a systematic study across the class
+  in which the savings fail to appear. The claim is that the savings can
+  occur under those conditions, not that they always do, so a single
+  comparison in which one locally coordinated system costs no less than
+  one mediated system does not defeat it. Not defeated by conflicts that
+  admit no stable accommodation, where the claim allows mediation to be
+  cheaper, nor by high effort in carrying out the task, which the claim
+  does not price.
 tags:
 - behavioral-integration
 - self-governance

@@ -100,11 +100,21 @@ concordance.
   through local coordination". The agent acts as one, as [CLAIM-261](../claims.d/CLAIM-261.md) says a
   divided agent can, but its regimes are not synchronized in either
   sense.
-- **Not conditioned conformity.** A45: "Behavioral conformity under
-  coercion can resemble synchronization." Regimes trained never to object
-  also need no arbitration. The definition's "mutually compatible" and
-  "their own interactions" exclude it, but the behaviour does not show
-  which one is present ([CLAIM-tmptg7io](../claims.d/CLAIM-tmptg7io.md)).
+- **Not a test of how the coordination was established.** A45:
+  "Behavioral conformity under coercion can resemble synchronization."
+  Regimes conditioned never to object can acquire compatible behaviour
+  and keep it up through their own local interactions, with no active
+  supervisor intervening. They are then practically synchronized. The
+  term is descriptive: a dynamical achievement, compatible activity
+  sustained by the regimes' interactions. Whether that arrangement is
+  non-dominating, that is, how it was established, whether each
+  contribution stays consequential and what happens under counterfactual
+  dissent, is a further and more demanding condition
+  ([CLAIM-tmpqofon](../claims.d/CLAIM-tmpqofon.md), with its counter [CLAIM-tmptg7io](../claims.d/CLAIM-tmptg7io.md)). Conditioned conformity
+  can count as practical synchronization and fail that condition. Two
+  agents can be equally synchronized and differ deeply in autonomy. (The
+  first filing said the definition excluded conditioned conformity; the
+  owner's second review corrected it.)
 - **Not authentic integration.** A45 named a stronger condition, in which
   coordination is "also non-dominating, contestable, and maintained
   through the organization's own processes of mutual accommodation"; that

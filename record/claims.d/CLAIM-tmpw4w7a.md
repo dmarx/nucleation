@@ -132,7 +132,9 @@ For affect it matters because, A31: "frustration normally presupposes a
 relevant demand or commitment belonging to the affected system. External
 optimization failure alone does not establish such a commitment." A31's
 Case A, conflicting gradients g_1ᵀg_2 < 0 under a trainer who wants both
-losses minimized, is "Optimization strain in the training process". U33
+losses minimized, is "Optimization strain in the training process". (The
+sign of g_1ᵀg_2 is a coordinate-dependent indicator of competing
+directions, not a test of frustration; [CLAIM-tmpuia0a](CLAIM-tmpuia0a.md).) U33
 later made frustration, not distress, the primitive ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)); the
 claim is stated for any regulatory condition, so it holds of either.
 

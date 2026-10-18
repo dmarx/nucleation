@@ -48,12 +48,31 @@ grounds:
 A33 §5: "Zero aggregate gradient does not imply absence of frustrated
 demands." Say demands i = 1, …, n with losses L_i are **jointly
 stationary** at θ when every g_i = ∇L_i(θ) is zero: no demand has a
-first-order improving direction. Joint stationarity is the most the
-first-order picture can say, and it is not satisfaction: a point where
-every g_i vanishes can be a maximum or a saddle of some L_i, so it is
-necessary, not sufficient, for the demands to be reconciled in any
-stronger sense. They are **frustrated** there ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md), local form) when
-some g_i ≠ 0 and no direction lowers every L_i.
+first-order improving direction. Say common first-order descent is
+**infeasible** there when some g_i ≠ 0 and no direction lowers every L_i
+([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md), local form).
+
+Three things are kept apart, and only the first two are about
+derivatives:
+
+- **Stationarity** describes derivatives: whether the g_i vanish.
+- **Compatibility** describes the joint existence of acceptable
+  outcomes: whether ⋂ A_i ≠ ∅ for the declared acceptance conditions
+  ([CLAIM-tmp55mls](CLAIM-tmp55mls.md)). Common first-order descent is its local, linearized
+  diagnostic for demands of the form "improve".
+- **Satisfaction** describes whether the selected outcome meets the
+  requirements.
+
+Stationarity is neither necessary nor sufficient for satisfaction. Not
+sufficient: a point where every g_i vanishes can be a maximum or a
+saddle of some L_i. Not necessary: a demand stated as a threshold,
+L(θ) = θ² ≤ 1, is satisfied at θ = 0.5, where L = 0.25 and ∇L = 1 ≠ 0.
+Vanishing gradients are necessary only for unconstrained interior optima
+of differentiable losses, which is a narrower proposition. (The first
+filing called stationarity necessary for reconciliation; the owner's
+second review corrected it.) The claim is therefore about what the
+aggregate gradient can show, not about when demands are satisfied, and
+the ordinal account ([CLAIM-tmp55mls](CLAIM-tmp55mls.md)) decides the latter.
 
 **The construction** ([CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md)). L₁(θ) = (θ − 1)², L₂(θ) = (θ + 1)²,
 θ ∈ ℝ. At θ = 0, g₁ = −2 and g₂ = 2. With weights ½, ½ the aggregate
@@ -67,7 +86,7 @@ signs. The demands are frustrated, not reconciled.
 g_i = 0, or the nonzero g_i satisfy Σ λ_i g_i = 0 with λ_i = w_i / Σ_j w_j
 over them, so 0 ∈ conv{g_i}. In the second case no d has g_iᵀd < 0 for
 all i, since Σ λ_i g_iᵀd = 0. So a vanishing positive aggregate is
-compatible with joint stationarity and with frustration, and nothing in the
+compatible with joint stationarity and with infeasible common descent, and nothing in the
 aggregate gradient or the aggregate loss separates them. With a zero
 weight it says less: if w₂ = 0, stationarity of the aggregate constrains
 g₁ only, and demand 2 can be anything.

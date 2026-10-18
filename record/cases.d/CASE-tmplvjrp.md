@@ -34,8 +34,16 @@ task losses. A31's update:
 
   g_t = ∇_θ L(θ_t; d_t),  m_{t+1} = F(m_t, g_t),  θ_{t+1} = θ_t + U(m_{t+1}, g_t).
 
-The tasks conflict: g_1ᵀg_2 < 0 for part of training. The trainer wants both
-losses low. Everything outside θ is fixed by the trainer: architecture,
+The task gradients have a negative Euclidean inner product, g_1ᵀg_2 < 0,
+for part of training, in the stipulated parameterization. That is one
+heuristic indicator of competing update directions, not a finding of
+conflict: its sign is not invariant under smooth invertible
+reparameterization, and a negative inner product does not exclude a
+common descent direction ([CLAIM-tmpuia0a](../claims.d/CLAIM-tmpuia0a.md)). Whether the tasks are
+actually frustrated is a separate test, against the declared acceptance
+conditions and the admissible update set ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md)). The case needs
+only the indicator; nothing below turns on its being frustration. The
+trainer wants both losses low. Everything outside θ is fixed by the trainer: architecture,
 loss weights, optimizer, schedule, parameter groups, what is frozen or
 clipped.
 

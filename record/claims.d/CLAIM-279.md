@@ -106,8 +106,10 @@ in its body; the claim itself disclaims that niches always emerge. What
 A46 added:
 
 - **Chesson (2000).** Stabilizing niche differences, which favour
-  coexistence, against equalizing mechanisms, which reduce average
-  fitness inequalities. A46: "Equality of authority ≠ coexistence through
+  coexistence, beside equalizing mechanisms, which reduce average
+  fitness inequalities. On Chesson's account stabilizing mechanisms are
+  needed for stable coexistence and the two can act together, so the
+  contrast is not a choice between them. A46: "Equality of authority ≠ coexistence through
   differentiated competence", with the caveat "We should not equate
   Chesson's ecological fitness differences with endorsement weights".
   Two operators with different overall success can stay complementary

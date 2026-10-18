@@ -39,7 +39,9 @@ organization—but it does not currently support the conclusion that a
 neural network feels distress, suffers, or experiences anything during
 training." Its ladder: "one loss ⇏ one integrated representation ⇏ one
 affective state ⇏ one experiencer". Gradient conflict, g_iᵀg_j < 0, is "a
-possible **ingredient** of functional distress, not distress itself".
+possible **ingredient** of functional distress, not distress itself". A
+negative inner product is itself only a coordinate-dependent indicator,
+not a finding of frustration ([CLAIM-tmpuia0a](../claims.d/CLAIM-tmpuia0a.md)).
 
 The question has three halves, and the record holds them in different
 places.
