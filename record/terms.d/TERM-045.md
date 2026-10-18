@@ -108,3 +108,5 @@ there is experience.
 CLAIM-tmpk7n2q, filed from that exchange, is stated in senses 1 and 6 and
 names the modeled sense in its body. Adding an eighth sense is a new version
 of this term by its own rule. It is flagged here and not done.
+
+<!-- inactive-ok-file: CLAIM-tmpk7n2q THEORY-064 THEORY-691 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

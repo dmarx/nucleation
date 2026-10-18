@@ -83,3 +83,5 @@ common signal with no meaningful reciprocal regulation." A common alarm is
 close to THEORY-126's convergence on one event; mutual compensation is close
 to THEORY-125's integration, and to NOTE-768's third option, a coordinated
 configuration.
+
+<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

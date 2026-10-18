@@ -127,3 +127,5 @@ stronger organizational-autonomy criterion." That is this claim's
 "takes part in governing the conditions of its own persistence", reached
 again without citing it, and A31's "Unity of self-governance" is its name for
 it. CLAIM-tmpw4w7a holds the application.
+
+<!-- inactive-ok-file: CLAIM-tmpw4w7a — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

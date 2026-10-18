@@ -69,3 +69,5 @@ CLAIM-039). This question is where the binding thesis CLAIM-tmpk7n2q meets
 THEORY-101: if the integrated state is the feeling, the claim's illusion
 empties for that case. Whether the question leaves Deferred is the owner's
 decision, not made here.
+
+<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

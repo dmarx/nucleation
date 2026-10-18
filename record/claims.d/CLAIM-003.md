@@ -61,3 +61,5 @@ simultaneously conscious workspaces".
 The third quantity is noted on QUESTION-061, and the unified owner it
 concerns is CLAIM-tmpk7n2q. The status stays Deferred; whether the line
 reopens is the owner's decision.
+
+<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -74,3 +74,5 @@ persists when no constituent subsystem holds a complete account of the
 organization's situation." A27 credited the caution that compartmented
 behaviour does not show several conscious workspaces to THEORY-096; it is
 CLAIM-003's. Whether the line reopens is the owner's decision.
+
+<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
