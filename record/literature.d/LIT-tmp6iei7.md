@@ -1,74 +1,40 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp6iei7:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
 title: 'Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and arXiv on 2026-10-18: Physical Review E 99(5): 052111, published 13 May 2019. `published:` is the arXiv v1 date, 12 September 2018. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- ecology
+- mathematics
 date: '2026-10-18'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2018-09-12'
+arxiv: '1809.04221'
+doi: '10.1103/PhysRevE.99.052111'
+first_author: 'Mehta'
+keywords:
+- 'quadratic programming'
+- 'constrained optimization'
+- 'consumer resource models'
+- 'cavity method'
+- 'duality'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Mehta, Cui, Wang & Marsland (2019). A duality between constrained optimization with inequality constraints, quadratic programming included, and consumer-resource models of ecological dynamics; with a cavity solution it gives the statistics of random high-dimensional quadratic programs, in agreement with numerics.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp6iei7: Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions
 
-# LIT-000: The paper title, exactly as published
+Mehta, P., Cui, W., Wang, C.-H. & Marsland, R. (2019). Constrained optimization as ecological dynamics with applications to random quadratic programming in high dimensions. *Physical Review E* 99(5): 052111. doi:10.1103/PhysRevE.99.052111. arXiv:1809.04221.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. It runs the optimization–ecology correspondence the other way: an optimizer is an ecosystem, and the constraints that bind are the species that survive. The synthesis used it as the formal link between feature learning and coexistence. Bears on [QUESTION-083](../questions.d/QUESTION-083.md).

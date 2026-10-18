@@ -1,74 +1,42 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpmlwaw:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read. Registered from the synthesis the owner relayed on 2026-10-18 on the record's distributed-agency line, statistical feature learning and ecological coexistence theory. No NOTE is filed.
 title: 'Permanence via invasion graphs: incorporating community assembly into modern coexistence theory'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Citation checked against Crossref and arXiv on 2026-10-18: Journal of Mathematical Biology 85(5): 54, online 18 October 2022. `published:` is the arXiv v1 date, 7 April 2022. Not held in the Anthology of the SOTA: a grep of its record/ (clone pulled 2026-10-18, commit d1573d2) for the authors and the title found nothing.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- ecology
+- mathematics
 date: '2026-10-18'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2022-04-07'
+arxiv: '2204.03773'
+doi: '10.1007/s00285-022-01815-2'
+first_author: 'Hofbauer'
+keywords:
+- 'coexistence'
+- 'permanence'
+- 'invasion growth rates'
+- 'invasion graphs'
+- 'community assembly'
+- 'Lotka-Volterra'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Hofbauer & Schreiber (2022). Gives conditions under which the signs of invasion growth rates decide coexistence (permanence) and which of them must be positive: when the invasion graph of communities and invasions is acyclic, permanence holds exactly when every community lacking one species can be invaded by it.
 ---
+<!-- inactive-ok-file: LIT-1219 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpmlwaw: Permanence via invasion graphs: incorporating community assembly into modern coexistence theory
 
-# LIT-000: The paper title, exactly as published
+Hofbauer, J. & Schreiber, S. J. (2022). Permanence via invasion graphs: incorporating community assembly into modern coexistence theory. *Journal of Mathematical Biology* 85(5): 54. doi:10.1007/s00285-022-01815-2. arXiv:2204.03773.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The synthesis the owner relayed on 2026-10-18, connecting the record's distributed-agency line to statistical feature learning and ecological coexistence theory, recommended it for reading. It makes rigorous the recovery-from-rarity criterion that Chesson's framework ([LIT-1219](LIT-1219.md)) rests on, and ties it to the order in which a community is assembled, which the synthesis read as a model of how early entrants shape which roles later ones can hold. Bears on [QUESTION-083](../questions.d/QUESTION-083.md).

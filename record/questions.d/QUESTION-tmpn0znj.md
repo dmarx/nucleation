@@ -9,7 +9,7 @@ tags:
 date: '2026-10-18'
 line: distributed-agency
 summary: >-
-  From the synthesis the owner relayed on 2026-10-18. CLAIM-277's note of
+  From the synthesis the owner relayed on 2026-10-18. [CLAIM-277](../claims.d/CLAIM-277.md)'s note of
   2026-10-18 records niche exclusion by authority deprivation: low
   exposure, poor competence estimates, low endorsement, lower exposure.
   This asks whether the loop goes further and destroys the competence, not
@@ -20,6 +20,7 @@ summary: >-
   test for one mechanism of domination without defining domination as
   holding less authority.
 ---
+<!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-297 CLAIM-356 CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpn0znj: When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?
 
@@ -37,20 +38,20 @@ incapable of the role it was specialized for. That is different from
 underuse. The organization has changed the specialist's future competence
 by denying it the opportunities it needed to keep that competence.
 
-CLAIM-277's note of 2026-10-18 names the loop at the level of estimates.
-CLAIM-356 distinguishes passive, selective and regulated retention of a
+[CLAIM-277](../claims.d/CLAIM-277.md)'s note of 2026-10-18 names the loop at the level of estimates.
+[CLAIM-356](../claims.d/CLAIM-356.md) distinguishes passive, selective and regulated retention of a
 learned capability. A representation can stay stored in the weights
 without being protected against interference from later training. A
 specialist can stay nominally present without being able to reassert
-influence. CLAIM-362 asks that a process keep access to consequential
+influence. [CLAIM-362](../claims.d/CLAIM-362.md) asks that a process keep access to consequential
 roles. This question asks what makes that access real: recovery requires
 that the competence survive the period of disuse.
 
 The niche is partly endogenous. Operators' influence changes which
-evidence is later encountered and used to evaluate them (CLAIM-297). A
+evidence is later encountered and used to evaluate them ([CLAIM-297](../claims.d/CLAIM-297.md)). A
 system evaluated by probes that also supply its training signal can
 become excellent at the probes without keeping the intended capacity
-(CLAIM-266).
+([CLAIM-266](../claims.d/CLAIM-266.md)).
 
 ## What would answer it
 
@@ -72,4 +73,4 @@ opportunities are decoupled from its influence.
 ## What would not answer it
 
 A specialist that loses influence and keeps its competence. That is
-under-use, which QUESTION-tmp0885h's recovery exponent already covers.
+under-use, which [QUESTION-tmp0885h](QUESTION-tmp0885h.md)'s recovery exponent already covers.

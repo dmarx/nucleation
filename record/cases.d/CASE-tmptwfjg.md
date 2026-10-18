@@ -22,6 +22,7 @@ summary: >-
   The same representation geometry supports coexistence under one supply
   and exclusion under another.
 ---
+<!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CASE-tmptwfjg: Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence
 
@@ -53,13 +54,13 @@ n* = (0.867, 0.467), bound 0.333; eigenvalues 0.5 and 1.5; κ = 3.
 
 The kernel is not enough to determine coexistence. One must also know
 what resources, tasks or evaluative opportunities the system supplies.
-That is CLAIM-152's target-relativity applied to persistence: what a
+That is [CLAIM-152](../claims.d/CLAIM-152.md)'s target-relativity applied to persistence: what a
 representation supports depends on what it is asked for.
 
-It separates three things an experiment on QUESTION-083 could conflate:
+It separates three things an experiment on [QUESTION-083](../questions.d/QUESTION-083.md) could conflate:
 
 - **structural differentiation**, measured from feature geometry (ρ, the
-  Gram spectrum; THEORY-004, CLAIM-193);
+  Gram spectrum; [THEORY-004](../theory.d/THEORY-004.md), [CLAIM-193](../claims.d/CLAIM-193.md));
 - **functional differentiation**, measured by conditional performance
   across contexts;
 - **dynamical stabilization**, measured by recovery when rare and by

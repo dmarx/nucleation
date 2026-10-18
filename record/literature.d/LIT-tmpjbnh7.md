@@ -1,0 +1,61 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-18, not read, at the owner's word, as a second holding of a
+  work the Anthology of the SOTA holds ([ANTH-LIT-298](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-298.md)), under [ADR-013](../decisions.d/ADR-013.md). No
+  NOTE is filed.
+title: 'On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport'
+version: 1
+history:
+- version: 1
+  date: '2026-10-18'
+  note: >-
+    Filed, not read. Held in the anthology as ANTH-LIT-298 (clone pulled
+    2026-10-18, commit d1573d2), where seven NOTEs cite it. Filed here
+    too at the owner's word, for this record's own question (below).
+    `published:` is the arXiv v1 date given by the anthology's entry.
+tags:
+- learning-theory
+- complex-systems
+date: '2026-10-18'
+published: '2018-05-24'
+arxiv: '1805.09545'
+first_author: 'Chizat'
+keywords:
+- 'mean-field limit'
+- 'Wasserstein gradient flow'
+- 'over-parameterized models'
+- 'global convergence'
+- 'particle dynamics'
+implementations: []
+summary: >-
+  Chizat & Bach (2018). Training a sum of many parameterized units by
+  gradient descent is, in the many-particle limit, a Wasserstein gradient
+  flow on the measure over unit parameters; under homogeneity and
+  support conditions, limits of the flow are global minimizers. NeurIPS
+  2018.
+---
+
+# LIT-tmpjbnh7: On the Global Convergence of Gradient Descent for Over-parameterized Models using Optimal Transport
+
+Chizat, L. & Bach, F. (2018). Advances in Neural Information Processing
+Systems 31 (NeurIPS 2018). arXiv:1805.09545.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+It is also held in the Anthology of the SOTA, as [ANTH-LIT-298](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-298.md). Holding it
+in both follows [ADR-013](../decisions.d/ADR-013.md). The anthology reads it for what it says about
+training over-parameterized models. This record reads it for a different
+question: whether a population of learned features, treated as particles
+whose density evolves under a gradient flow, can be analysed as an
+ecological community whose members differentiate and persist or are
+excluded. That question belongs to [QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md) and
+[QUESTION-tmpw9b04](../questions.d/QUESTION-tmpw9b04.md), and [CLAIM-tmpc36bo](../claims.d/CLAIM-tmpc36bo.md) is the finite, symmetric case. The
+synthesis the owner relayed on 2026-10-18 recommended it as "the
+learning-theoretic side of the adaptive population model". A reading
+should check whether the mean-field flow's stationary points satisfy an
+invasion-type condition, a new unit entering where the first variation
+of the objective is negative, as the Lotka–Volterra potential case does.

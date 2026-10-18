@@ -38,6 +38,7 @@ summary: >-
   stops being an optimizer. Mehta et al. (2019) and Marsland, Cui and
   Mehta (2020) give the general duality for consumer–resource models.
 ---
+<!-- inactive-ok-file: CLAIM-279 CLAIM-288 THEORY-548 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmpc36bo: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
 
@@ -79,7 +80,7 @@ It was checked numerically. For a random U (6 × 4), b and c, the identity
 decreased at every step, and at the endpoint active components had zero
 gradient and the absent one a positive gradient.
 
-**The two-component case** (CASE-tmptwfjg). With A = [[1, ρ], [ρ, 1]],
+**The two-component case** ([CASE-tmptwfjg](../cases.d/CASE-tmptwfjg.md)). With A = [[1, ρ], [ρ, 1]],
 0 ≤ ρ < 1, and r₁ = r₂ = 1, the invasion growth of either component into
 the other's equilibrium (n = 1) is 1 − ρ. That is also λ_min(A). The
 condition number of the Gram matrix is κ(A) = (1 + ρ)/(1 − ρ). In this
@@ -90,13 +91,13 @@ arbitrary competitive systems.
 
 ## Why the record holds it
 
-QUESTION-083 asks whether processes sharing one update rule can come to
-hold differentiated, mutually regulated authority. CLAIM-279 says roles
+[QUESTION-083](../questions.d/QUESTION-083.md) asks whether processes sharing one update rule can come to
+hold differentiated, mutually regulated authority. [CLAIM-279](CLAIM-279.md) says roles
 are regimes, not kinds, and its note of 2026-10-18 brings in Chesson's
 coexistence mechanisms. This claim gives the formal bridge those entries
 lacked. In the potential case, ecological coexistence of differentiated
 components is the same mathematics as sparse feature selection, and the
-recovery test of QUESTION-083 is a marginal-value test. It also marks
+recovery test of [QUESTION-083](../questions.d/QUESTION-083.md) is a marginal-value test. It also marks
 exactly where the bridge ends (below).
 
 ## What it does not say
@@ -104,7 +105,7 @@ exactly where the bridge ends (below).
 - **That ecological selection optimizes learning objectives in general.**
   The identity needs symmetric interactions, A = UᵀU, and growth rates of
   the form Uᵀb − c. With asymmetric or nonreciprocal interactions
-  (THEORY-634, Blumenthal, Rocks and Mehta 2024) there may be no scalar L
+  ([THEORY-634](../theory.d/THEORY-634.md), Blumenthal, Rocks and Mehta 2024) there may be no scalar L
   at all.
 - **That operators with competing objectives are optimizers.** An
   organization whose processes disagree about the desired outcome has, in
@@ -114,10 +115,10 @@ exactly where the bridge ends (below).
   with J the non-potential part, but the split depends on a chosen metric
   and convention and is not unique without one. Whether organizations with
   the same local incentives and more non-reciprocity converge, oscillate,
-  switch among configurations or become chaotic is open (THEORY-548 on
-  delay-induced Lotka–Volterra instability, THEORY-634 on non-reciprocal
+  switch among configurations or become chaotic is open ([THEORY-548](../theory.d/THEORY-548.md) on
+  delay-induced Lotka–Volterra instability, [THEORY-634](../theory.d/THEORY-634.md) on non-reciprocal
   catalytic rings).
 - **That the kernel fixes coexistence.** The same Gram matrix supports
-  coexistence or exclusion depending on r (CASE-tmptwfjg).
+  coexistence or exclusion depending on r ([CASE-tmptwfjg](../cases.d/CASE-tmptwfjg.md)).
 - **That a population of coexisting specialists governs itself.**
-  Coexistence is not endogenous regulation (CLAIM-288).
+  Coexistence is not endogenous regulation ([CLAIM-288](CLAIM-288.md)).

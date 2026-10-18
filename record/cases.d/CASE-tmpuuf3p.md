@@ -13,13 +13,14 @@ line: distributed-agency
 summary: >-
   From the synthesis the owner relayed on 2026-10-18. A compatibility
   complex with all three edges and no filled triangle, the minimal
-  structurally frustrated collection of CLAIM-347 with three members.
+  structurally frustrated collection of [CLAIM-347](../claims.d/CLAIM-347.md) with three members.
   When the organization acquires a composite operation that can produce
   (1,1,1), ℛ(𝒪) ⊊ ℛ(𝒪′) and the complex gains the triangle: relief in
-  CLAIM-347's sense, by changing what is attainable, not by weakening a
+  [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, by changing what is attainable, not by weakening a
   demand. The construction says such relief is possible; whether
-  specialization produces it is QUESTION-tmpjwshe.
+  specialization produces it is [QUESTION-tmpjwshe](../questions.d/QUESTION-tmpjwshe.md).
 ---
+<!-- inactive-ok-file: CLAIM-347 CLAIM-360 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpuuf3p: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
 
@@ -36,13 +37,13 @@ A_i = {y : y_i = 1}. The organization 𝒪 can attain
   coordinates 1.
 
 So 𝒦(𝒪) has every vertex and edge and no triangle. {1, 2, 3} is a
-minimal structurally frustrated collection (CLAIM-347).
+minimal structurally frustrated collection ([CLAIM-347](../claims.d/CLAIM-347.md)).
 
 **The reorganization.** Through differentiation and coordination the
 organization acquires a new composite policy that can also produce
 (1,1,1). Then ℛ(𝒪) ⊊ ℛ(𝒪′) = ℛ(𝒪) ∪ {(1,1,1)}. The acceptance sets are
 unchanged, no demand is removed or weakened, and 𝒦(𝒪′) gains the
-triangle, losing nothing. By CLAIM-347 this is relief of structural
+triangle, losing nothing. By [CLAIM-347](../claims.d/CLAIM-347.md) this is relief of structural
 frustration.
 
 ## What it shows
@@ -50,16 +51,16 @@ frustration.
 Some organizational conflicts are not problems of choosing among
 competing demands. They are problems of functional organization: the
 existing repertoire cannot realize a jointly demanded outcome, and a
-differentiated or recomposed repertoire can. This is CASE-115's
+differentiated or recomposed repertoire can. This is [CASE-115](CASE-115.md)'s
 point (a split of a shared parameter removes a frustration) in
-combinatorial form, and it is the first of CLAIM-360's three effects, a
+combinatorial form, and it is the first of [CLAIM-360](../claims.d/CLAIM-360.md)'s three effects, a
 larger realizable set, rather than a better choice within the old one.
 
 It also shows pairwise compatibility failing to fix collective
 compatibility. Every pair is compatible and the triple is not, as in
 ecological communities where pairwise coexistence does not determine
 multispecies coexistence (Hofbauer and Schreiber 2022 on invasion
-graphs). THEORY-598 is the caution in the other direction: some apparent
+graphs). [THEORY-598](../theory.d/THEORY-598.md) is the caution in the other direction: some apparent
 higher-order dynamics reduce to pairwise interactions. Here the
 higher-order fact is real: the complex is not determined by its
 1-skeleton.
@@ -68,4 +69,4 @@ higher-order fact is real: the complex is not determined by its
 
 That specialization tends to produce such relief. Differentiation can
 also add costs or dependencies and shrink what is attainable. Whether and
-when it enlarges ℛ is QUESTION-tmpjwshe.
+when it enlarges ℛ is [QUESTION-tmpjwshe](../questions.d/QUESTION-tmpjwshe.md).
