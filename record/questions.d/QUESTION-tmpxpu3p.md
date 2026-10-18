@@ -12,11 +12,11 @@ summary: >-
   might be a stretch, but given our framework already leverages fields and
   flows, are we perhaps moving towards a gauge theoretic account of
   something here?" A19 separated representational gauge freedom, which
-  the record holds (CLAIM-148), from a connection between contexts and
+  the record holds ([CLAIM-148](../claims.d/CLAIM-148.md)), from a connection between contexts and
   from nontrivial curvature, and kept the last speculative. The first
-  objection is the record's own: it rejected LIT-038, whose path-dependent
+  objection is the record's own: it rejected [LIT-038](../literature.d/LIT-038.md), whose path-dependent
   transport across a network of causal models comes from arbitrary
-  maps (NOTE-050). The first target is flat holonomy. An answer derives
+  maps ([NOTE-050](../notes.d/NOTE-050.md)). The first target is flat holonomy. An answer derives
   transport from shared commitments, causal effects or roles in a finite
   model and reports whether a loop's holonomy is trivial.
 ---
@@ -52,10 +52,10 @@ representation and transport", with "natural transport rules" open.
 A19 named it: "Where does the connection come from? ... Otherwise, we could
 manufacture arbitrary curvature by choosing arbitrary transport maps."
 
-The record already rejected a work built this way. LIT-038 (Rejected; read
-in NOTE-050) puts each agent's causal model at a node of a network, a shared
+The record already rejected a work built this way. [LIT-038](../literature.d/LIT-038.md) (Rejected; read
+in [NOTE-050](../notes.d/NOTE-050.md)) puts each agent's causal model at a node of a network, a shared
 abstraction on each edge, and transport by alternating restriction and
-extension. NOTE-050: "The result is path-dependent and generally lossy". And
+extension. [NOTE-050](../notes.d/NOTE-050.md): "The result is path-dependent and generally lossy". And
 its verdict: "The formal apparatus adds little to it, because the stalks are
 all measures and the maps are arbitrary affine maps." The extension maps
 "are *any* affine measurable maps", and Theorem 2 "holds for any pushforward".
@@ -71,17 +71,17 @@ institutional roles"), or the holonomy is the modeller's.
   from the perspective of a host to the perspective of a parasite can change
   whose interests are at stake. That is ordinarily a substantive change, not
   merely a re-description of the same normative fact." Only a change that
-  preserves the evaluated relations is gauge. CLAIM-148's warning governs:
+  preserves the evaluated relations is gauge. [CLAIM-148](../claims.d/CLAIM-148.md)'s warning governs:
   such a gauge "is not a symmetry of the relational system".
 - **Holonomy is not contextuality, and neither is learning.** A19:
   "contextuality, curvature, and holonomy are not synonyms". A failure to
-  glue local judgments (CLAIM-038, THEORY-012) is a different obstruction
+  glue local judgments ([CLAIM-038](../claims.d/CLAIM-038.md), [THEORY-012](../theory.d/THEORY-012.md)) is a different obstruction
   from path dependence of transport. If the agent learns or changes its
   commitments along the loop, the difference is "substantive state
   evolution rather than geometric transport".
-- **A frame change can be coordinates.** CLAIM-144: observers who disagree
+- **A frame change can be coordinates.** [CLAIM-144](../claims.d/CLAIM-144.md): observers who disagree
   about temporal order differ in coordinates, not in a failure to glue.
-- **Commitments carried across contexts may glue.** CLAIM-198: interests
+- **Commitments carried across contexts may glue.** [CLAIM-198](../claims.d/CLAIM-198.md): interests
   that govern at disjoint times glue, and division needs an overlap. That is
   the record's nearest result about one agent's commitments across contexts,
   and it is a gluing result, not a transport one.
@@ -100,4 +100,4 @@ discrepancy that is not an artefact of coordinates.
 Prior work on gauge ideas in neuroscience exists (Sengupta et al. (2016),
 named by A19); A19: "These are relevant predecessors, but they do not
 establish a gauge theory of normativity." The relational normative realism
-this would formalize is TERM-tmp9b3gk.
+this would formalize is [TERM-tmp9b3gk](../terms.d/TERM-tmp9b3gk.md).

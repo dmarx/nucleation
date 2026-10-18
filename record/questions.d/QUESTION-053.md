@@ -63,14 +63,14 @@ firm?
 
 The exchange of 2026-10-17 bears on this question twice, without citing it.
 
-A27 §3 took THEORY-125's side for the state: "A candidate collective emotion
+A27 §3 took [THEORY-125](../theory.d/THEORY-125.md)'s side for the state: "A candidate collective emotion
 therefore has to be individuated through the organization's **integrated
 regulatory pattern**, not by averaging people's feelings", and "The
 corporation's managers might feel calm while the corporation exhibits an
 increasingly threat-avoidant policy." It then denied that the state needs a
 subject to belong to: "There may be **no phenomenological illusion inside the
 collective at all**." That separates the two things this question's first
-option joins, a state of the group and a group subject. CLAIM-tmpk7n2q, filed
+option joins, a state of the group and a group subject. [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md), filed
 from U26–U27, answers in part on that line: the integration can be the
 group's while the single owner it is attributed to is a construction.
 
@@ -80,8 +80,8 @@ compensate for disturbances against one whose independent processes merely
 receive the same centralized warning." Its prediction: "A measure of
 organizational binding should distinguish genuine interdependence from a
 common signal with no meaningful reciprocal regulation." A common alarm is
-close to THEORY-126's convergence on one event; mutual compensation is close
-to THEORY-125's integration, and to NOTE-768's third option, a coordinated
+close to [THEORY-126](../theory.d/THEORY-126.md)'s convergence on one event; mutual compensation is close
+to [THEORY-125](../theory.d/THEORY-125.md)'s integration, and to [NOTE-768](../notes.d/NOTE-768.md)'s third option, a coordinated
 configuration.
 
 <!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -89,6 +89,6 @@ misses", "Fewer challenges to mistaken decisions" and "Lower visibility into
 emerging risks": coherence raised by lowering the plurality of live
 challenges and, through it, fidelity to evidence. A42's revised thesis keeps
 "preserve productive disagreement" among the capacities of mature
-governance. Filed as CLAIM-tmpp9ox0, which complements this claim, and
-CLAIM-tmp6ap9y. Neither measures fidelity where there is no ground
+governance. Filed as [CLAIM-tmpp9ox0](CLAIM-tmpp9ox0.md), which complements this claim, and
+[CLAIM-tmp6ap9y](CLAIM-tmp6ap9y.md). Neither measures fidelity where there is no ground
 truth, the gap this claim names.

@@ -99,14 +99,14 @@ judgments and actions of an organized whole need not be recoverable through
 independent aggregation of corresponding constituent judgments, because
 maintained rules of precedence, admissibility, and authority can be
 indispensable to the macro-level result." It argued it from List and Pettit
-(THEORY-127): "an organized whole's judgment is not generally recoverable by
+([THEORY-127](../theory.d/THEORY-127.md)): "an organized whole's judgment is not generally recoverable by
 independently aggregating each corresponding judgment of its constituents".
 
 That is this claim, without the polling consequence, and it was not filed
 again. A21's addition, that maintained rules of precedence and
-admissibility do the work, is THEORY-139's (Pettit: the corporation
-corrects the inconsistency aggregation produces) and CLAIM-027's. A21 cited
-THEORY-127 and CLAIM-027 and not this claim. A21 §16 and A22's Construction
+admissibility do the work, is [THEORY-139](../theory.d/THEORY-139.md)'s (Pettit: the corporation
+corrects the inconsistency aggregation produces) and [CLAIM-027](CLAIM-027.md)'s. A21 cited
+[THEORY-127](../theory.d/THEORY-127.md) and [CLAIM-027](CLAIM-027.md) and not this claim. A21 §16 and A22's Construction
 C pair it with a whole whose description merges its members' claims
-(CLAIM-tmp679hm, CASE-tmpfusdm), where a collective judgment rule is the
+([CLAIM-tmp679hm](CLAIM-tmp679hm.md), [CASE-tmpfusdm](../cases.d/CASE-tmpfusdm.md)), where a collective judgment rule is the
 optional extension A22 left unbuilt. The status is unchanged.

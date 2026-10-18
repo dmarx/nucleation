@@ -80,6 +80,6 @@ by any process of the organization, because the effect does not run from
 an intervention available to another process. This is the clause above on
 behaviour, applied to training: raised influence is observed, and who
 raised it is the question. Where the governance of updates sits is
-CLAIM-tmpw4w7a.
+[CLAIM-tmpw4w7a](../claims.d/CLAIM-tmpw4w7a.md).
 
 <!-- inactive-ok-file: CLAIM-tmpw4w7a — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -11,11 +11,11 @@ line: distributed-agency
 summary: >-
   A39's, from the exchange of 2026-10-17: "How should demands be tracked
   across differentiation, branching, merging, and changes of
-  organizational identity?" CLAIM-tmpq80iq judges relief against a fixed
+  organizational identity?" [CLAIM-tmpq80iq](../claims.d/CLAIM-tmpq80iq.md) judges relief against a fixed
   reference set of demands under an explicit correspondence between
   earlier and later demands. When the processes that bear the demands
   split or merge, that correspondence may not be a bijection, and
-  CLAIM-287 says the continuity it would follow can branch and is not an
+  [CLAIM-287](../claims.d/CLAIM-287.md) says the continuity it would follow can branch and is not an
   identity relation. An answer says what structure the correspondence
   has, and how relief is judged through it.
 ---
@@ -37,11 +37,11 @@ differentiation, branching, merging, and changes of organizational
 identity?" A43's outline keeps it: "demand correspondence across
 differentiation and branching".
 
-CLAIM-tmpq80iq needs the correspondence and assumes it is given. In the
+[CLAIM-tmpq80iq](../claims.d/CLAIM-tmpq80iq.md) needs the correspondence and assumes it is given. In the
 easy case it is: when demands are stated on outcomes and differentiation
-only enlarges what the organization can reach (CASE-tmpuc54q), the
+only enlarges what the organization can reach ([CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md)), the
 reference demands are the same before and after. The hard cases are the
-ones CLAIM-287 makes possible. What persists is "the capacity to reinstate
+ones [CLAIM-287](../claims.d/CLAIM-287.md) makes possible. What persists is "the capacity to reinstate
 an organization", and that continuity "can branch and merge, so it is not
 an identity relation". If one process bearing a demand becomes two, the
 earlier demand has two heirs, which may be held to different standards. If
@@ -57,9 +57,9 @@ one has fixed.
   reference demands and when it is constitutive transformation.
 - A criterion, internal to the organization, for which later processes
   inherit which earlier demands, so the correspondence is not the
-  analyst's choice. CLAIM-194 is the warning: a boundary can be found
+  analyst's choice. [CLAIM-194](../claims.d/CLAIM-194.md) is the warning: a boundary can be found
   without showing that the organization made it.
 - Or an argument that no such criterion exists, so that relief across a
   branching is defined only relative to a stipulated correspondence, as
   Watson's comparison is relative to a stipulated decomposition
-  (THEORY-232).
+  ([THEORY-232](../theory.d/THEORY-232.md)).

@@ -37,7 +37,7 @@ summary: >-
   "useful connections to the ACT and DBT frameworks here, which provide us
   with accounts/ontologies of maladaption and productive flexibility". In
   A42's form: recognizing a signal, granting it authority and acting on it
-  are three steps; ACT's defusion is a mechanism for CLAIM-156's
+  are three steps; ACT's defusion is a mechanism for [CLAIM-156](CLAIM-156.md)'s
   decoupling; DBT adds bounded stabilization before correction; RO-DBT
   names overcontrol as maladaptive. The sharp edge: these are analogies
   from human treatment, the organizational classes are A42's proposals,
@@ -68,23 +68,23 @@ signal** and **the organization's authority to evaluate it**."
 
 ## What each framework supplies
 
-- **ACT: salience is not authority.** CLAIM-156 says mindfulness changes
+- **ACT: salience is not authority.** [CLAIM-156](CLAIM-156.md) says mindfulness changes
   which interests may act, not what they value. A42 wrote it as
   representational salience ⇏ practical authority, with ACT's defusion as
   a mechanism: "A
   thought may continue to occur while its capacity to govern behavior
-  changes." The record's readings are THEORY-051 (self as context and
-  defusion) and THEORY-050 (inflexibility: fusion supports experiential
+  changes." The record's readings are [THEORY-051](../theory.d/THEORY-051.md) (self as context and
+  defusion) and [THEORY-050](../theory.d/THEORY-050.md) (inflexibility: fusion supports experiential
   avoidance, which narrows behaviour). ACT's flexibility is not frequent
   change: "**sometimes persistence is the flexible response**". Kashdan and
-  Rottenberg, read in NOTE-436 and one of THEORY-050's sources, make the
+  Rottenberg, read in [NOTE-436](../notes.d/NOTE-436.md) and one of [THEORY-050](../theory.d/THEORY-050.md)'s sources, make the
   general form: flexible regulation beats any fixed strategy.
 - **DBT: stabilize, then correct.** A42: "**An organization may need to
   remain operational in the presence of unresolved frustration long enough
   to identify a better response, rather than immediately eliminate the
   signal or enter an irreversible defensive regime.**" Its four stages are
   immediate regulation, diagnostic preservation, adaptive correction and
-  governance revision. The last is CLAIM-025: the regime, the governing
+  governance revision. The last is [CLAIM-025](CLAIM-025.md): the regime, the governing
   organization and the capacity to transform it fail separately. The
   pattern is "**bounded stabilization followed by evidence-responsive
   correction**". The source framework is Linehan's DBT, not held in the
@@ -97,9 +97,9 @@ signal** and **the organization's authority to evaluate it**."
   produce "Less disclosure of near misses", "Fewer challenges to mistaken
   decisions" and "Lower visibility into emerging risks". "The organization
   may appear disciplined while losing the information and flexibility
-  necessary to remain effective." That is protective lock-in (TERM-020): a
+  necessary to remain effective." That is protective lock-in ([TERM-020](../terms.d/TERM-020.md)): a
   protective regime that "generates the conditions that justify its own
-  continuation and reduces the capacity to leave it". QUESTION-045 asks
+  continuation and reduces the capacity to leave it". [QUESTION-045](../questions.d/QUESTION-045.md) asks
   whether a disorder is the same mechanism at the individual scale.
 
 A42's four classes, "proposed organizational classifications, not clinical
@@ -122,7 +122,7 @@ and so dominates both there. Where two contexts with disjoint acceptable sets
 produce the same evidence, no policy can succeed in both, and the order
 leaves the candidates incomparable. That is why the claim needs access: a
 policy that has cut the signal has made more contexts indistinguishable. It
-is the inclusion construction of the compatibility complex (CLAIM-tmp55mls)
+is the inclusion construction of the compatibility complex ([CLAIM-tmp55mls](CLAIM-tmp55mls.md))
 applied to contexts.
 
 ## Where it stands
@@ -137,7 +137,7 @@ could not be identified uniquely. Neither is held yet. The organizational
 transfer of ACT is theirs before it is the record's; what the record can
 add is the influence model of how flexibility propagates or entrenches.
 
-A42 listed THEORY-052 among "The existing ACT records". It is a reading of
+A42 listed [THEORY-052](../theory.d/THEORY-052.md) among "The existing ACT records". It is a reading of
 self-determination theory (Vansteenkiste, Ryan and Soenens; Deci and Ryan),
 which the record treats as a partner of the inflexibility account, not part
 of ACT.
@@ -158,5 +158,5 @@ of ACT.
 - It does not say an organization's current values are legitimate. A42:
   "Its organizational analogue cannot presume that an institution's
   currently maintained values are legitimate, or that successfully pursuing
-  them benefits its constituents." That standard is QUESTION-087's open
+  them benefits its constituents." That standard is [QUESTION-087](../questions.d/QUESTION-087.md)'s open
   problem.

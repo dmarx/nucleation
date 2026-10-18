@@ -90,31 +90,31 @@ Effective Volition*. Neither cites this claim's essay, *The Organization of
 Will* (`organization-of-will`), and the proposal rebuilds much of it:
 
 - Its opening case (A12 §1), "an agent reflectively endorses completing a
-  difficult project but repeatedly acts otherwise", is CASE-013.
+  difficult project but repeatedly acts otherwise", is [CASE-013](../cases.d/CASE-013.md).
 - A12 §2.4, "Introduce the Nucleation account of will-organization", with
   "accessibility, precedence, jurisdiction, persistence, suspension, and
   transformation", is this claim.
 - A12's Proposition 2, "Equivalent observed actions need not imply
-  equivalent governance", and A15 §3.5 are CLAIM-122 and ARG-005.
+  equivalent governance", and A15 §3.5 are [CLAIM-122](CLAIM-122.md) and [ARG-005](../arguments.d/ARG-005.md).
 - A12's "reliable execution of an endorsed commitment need not imply its
   revisability", and A15 §6.6, "Volitional efficacy can increase while
-  revisability decreases", are CLAIM-099, ARG-007 and CLAIM-025.
+  revisability decreases", are [CLAIM-099](CLAIM-099.md), [ARG-007](../arguments.d/ARG-007.md) and [CLAIM-025](CLAIM-025.md).
 - A12 §2.2, "Distinguish endorsing a motive, assigning it priority,
   successfully enacting it, and maintaining its priority over time", is
-  CLAIM-047.
+  [CLAIM-047](CLAIM-047.md).
 - The thermostat objection (A12 §9.1) and A15 §9.4, "Does efficient
   behavior establish autonomy?", answered "Reject the inference", are
-  CLAIM-116.
+  [CLAIM-116](CLAIM-116.md).
 - A12: "the paper should not claim novelty for the existence of multiple
   kinds of freedom, hierarchical control, or control-energy distinctions."
-  That is CLAIM-021.
+  That is [CLAIM-021](CLAIM-021.md).
 - The limit that the account does not settle authorship or
-  responsibility is close to CLAIM-022.
+  responsibility is close to [CLAIM-022](CLAIM-022.md).
 
-What the proposal adds is the graded comparison (CLAIM-tmpilfhr,
-CLAIM-tmp1glr8), the Sen connection (CLAIM-tmph678z) and the nonlinear
-constructions (CASE-tmpiyvbk). It also conflicts with the essay's
-supposition, CLAIM-080: "the account asks how a given agent's practical
+What the proposal adds is the graded comparison ([CLAIM-tmpilfhr](CLAIM-tmpilfhr.md),
+[CLAIM-tmp1glr8](CLAIM-tmp1glr8.md)), the Sen connection ([CLAIM-tmph678z](CLAIM-tmph678z.md)) and the nonlinear
+constructions ([CASE-tmpiyvbk](../cases.d/CASE-tmpiyvbk.md)). It also conflicts with the essay's
+supposition, [CLAIM-080](CLAIM-080.md): "the account asks how a given agent's practical
 efficacy is organized, not what makes something an agent". The proposal
 makes individuation a main section: A12 §3, "Individuating the agent
 whose will is at issue", opening with "Why a system boundary cannot simply
