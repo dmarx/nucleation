@@ -80,6 +80,7 @@ The record files that sense as a new term, [TERM-tmpnfj83](TERM-tmpnfj83.md) (pr
 synchronization), and leaves this one as it is. A changed definition is
 a new TERM, and six claims are stated in this one. A45 itself called this
 sense "*Valuational concordance*", "the special case captured by the
-previous definition". This term is not superseded here. Whether
-[TERM-tmpnfj83](TERM-tmpnfj83.md) should supersede it, taking the bare word for the broad
-sense, is for the owner.
+previous definition". It is not a special case: agreement in rankings
+needs no coupling, and coordination needs no agreement, so the two are
+independent dimensions (the owner, in review of the filing; table in
+[TERM-tmpnfj83](TERM-tmpnfj83.md)). This term keeps its own role, and is not superseded.

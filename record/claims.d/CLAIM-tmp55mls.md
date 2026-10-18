@@ -36,7 +36,10 @@ summary: >-
   quite a lot with access to an ordering, even if it doesn't give us a
   true measure." A37 granted it ("I agree with your correction") and
   built the acceptance sets, their intersection and the compatibility
-  complex. The definitional facts are shown in the body, including that
+  complex. A37's acceptance set {u : u ⪰_i u₀} is corrected here: by
+  reflexivity it holds the baseline for every demand and makes every
+  collection compatible, so a demand's set is stated as strict
+  improvement, a required level or an obligation. The definitional facts are shown in the body, including that
   every pair of demands can be jointly improvable while the triple is
   not. The sharp edge: relief compares complexes for the same declared
   demands, so a reorganization that deletes a demand is not compared at
@@ -63,11 +66,24 @@ of cardinal utilities as primarily a limitation. But for much of our
 argument, an ordering is sufficient, and sometimes it is the more
 appropriate structure."
 
-**The construction (A37 §4).** Let U be the organization's admissible
-transformations, ⪰_i a preorder for demand i, and u₀ a reference. The
-acceptance set is A_i = {u ∈ U : u ⪰_i u₀} (or its strict version). The
-demands are jointly satisfiable when ⋂ A_i ≠ ∅. The compatibility complex
-of a demand set I is
+**The construction (A37 §4, corrected).** Let U be the organization's
+admissible transformations, ⪰_i a preorder for demand i, and A_i ⊆ U
+the transformations that meet demand i's requirement. A37 wrote the
+acceptance set as A_i = {u ∈ U : u ⪰_i u₀} for a reference u₀ "(or its
+strict version)". As the primary definition that is wrong. If u₀ is
+admissible, reflexivity puts u₀ in every A_i, so ⋂ A_i ⊇ {u₀} ≠ ∅ and
+every collection of demands is trivially compatible. A demand is a
+requirement, so its acceptance set must be able to exclude the
+unmodified baseline when change is demanded. The owner pointed this out
+in review of the filing (workbench entries of 2026-10-18). The admissible
+forms are those of [TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md): strict improvement, A_i = {u : u ≻_i u₀};
+a required level, A_i = {u : u ⪰_i t_i}, which holds u₀ only if u₀ already
+meets t_i; or a context-indexed obligation given directly. Weak Pareto
+improvement on u₀ (every demand ⪰_i u₀, at least one ≻_i u₀) is a
+condition on the collection, not an intersection of per-demand sets, so
+it falls outside this construction. The worked examples below use strict
+or threshold sets throughout. The demands are jointly satisfiable when
+⋂ A_i ≠ ∅. The compatibility complex of a demand set I is
 
   𝒦 = {S ⊆ I : ⋂_{i∈S} A_i ≠ ∅},
 

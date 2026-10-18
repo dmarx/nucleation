@@ -34,10 +34,27 @@ used_by:
 
 Fix an organization, the set U of transformations admissible to it, and a
 collection D of demands it maintains. Each demand i has an acceptance
-condition, a set A_i ⊆ U of the transformations it accepts. In the ordinal
-form A_i is the set of transformations i ranks at least as high as a
-reference u₀, A_i = {u ∈ U : u ⪰_i u₀}; in the local form for a
-differentiable learner it is the set of updates d with −g_iᵀd ≥ ε_i.
+condition, a set A_i ⊆ U of the transformations that meet what it
+requires. A demand is a requirement, so its acceptance set must be able
+to exclude the transformation that changes nothing when change is
+demanded. In the ordinal form A_i is fixed by a preorder ⪰_i and a
+requirement stated against it:
+
+- strict improvement on a reference u₀, A_i = {u ∈ U : u ≻_i u₀};
+- a required level t_i, A_i = {u ∈ U : u ⪰_i t_i}, where t_i is set by
+  the demand and the baseline u₀ belongs to A_i only if it already meets
+  t_i;
+- or a context-indexed obligation, A_i(c) ⊆ U, given directly.
+
+The tempting form A_i = {u : u ⪰_i u₀} is not a demand. If u₀ is
+admissible, reflexivity puts u₀ in every A_i, so ⋂ A_i ⊇ {u₀} and every
+collection is trivially compatible. Weak Pareto improvement on u₀ is a
+requirement on the collection, not on each demand (every demand
+⪰_i u₀ and at least one ≻_i u₀), so it is not an intersection of
+per-demand sets and does not give a compatibility complex directly. In
+the local form for a differentiable learner A_i is the set of updates d
+with −g_iᵀd ≥ ε_i, with ε_i > 0 so that d = 0 is excluded, or with
+g_iᵀd < 0.
 
 - **Frustrated, structurally:** ⋂_{i∈D} A_i = ∅. No admissible
   transformation meets every demand.

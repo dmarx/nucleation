@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Recurring conflict among an agent''s processes costs the agent less when the processes settle it among themselves than when it is escalated to a higher-level process that mediates or overrides, so the extra effort of a divided agent is the cost of escalation, which learned local accommodation can amortize where the conflict admits one'
+title: 'Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent''s processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free'
 version: 1
 role: thesis
 warrant: interpretive
@@ -44,12 +44,15 @@ summary: >-
   recurring conflict admits a stable local accommodation, learning it
   amortizes the cost of higher-order mediation. It refines [CLAIM-261](CLAIM-261.md)'s
   "pays for its unity in effort": the divided agent pays for escalation.
-  The sharp edge: it does not say local settlement is always cheaper, that
+  The title stated the owner's thesis unconditionally until the owner's
+  review of the filing put it in A45's conditional form: local
+  negotiation, and keeping up the relations among specialists it needs,
+  have costs of their own. The sharp edge: it does not say local settlement is always cheaper, that
   an integrated agent works less hard, or anything about authenticity.
 ---
 <!-- inactive-ok-file: CLAIM-261 CLAIM-162 CLAIM-163 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-tmpqofon CLAIM-tmptg7io — Proposed; the claims and readings this one rests on or is set beside, open -->
 
-# CLAIM-tmpmr1t8: Recurring conflict among an agent's processes costs the agent less when the processes settle it among themselves than when it is escalated to a higher-level process that mediates or overrides, so the extra effort of a divided agent is the cost of escalation, which learned local accommodation can amortize where the conflict admits one
+# CLAIM-tmpmr1t8: Learned local accommodation can reduce the amortized cost of recurrent arbitration: where a recurring conflict among an agent's processes admits a stable accommodation, settling it among the processes can cost less over repeated encounters than escalating each instance to a higher-level process that mediates or overrides, though local negotiation and the relations it needs are not free
 
 ## The claim
 

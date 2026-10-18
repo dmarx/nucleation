@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand is locally satisfied and when unsatisfied demands cancel, and the second is a point where no update improves them all'
+title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand''s own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand''s maximum or saddle also has'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -41,14 +41,18 @@ grounds:
 - CASE-tmpuc54q
 ---
 
-# CLAIM-tmpf67p3: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand is locally satisfied and when unsatisfied demands cancel, and the second is a point where no update improves them all
+# CLAIM-tmpf67p3: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand's own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand's maximum or saddle also has
 
 ## The claim
 
 A33 §5: "Zero aggregate gradient does not imply absence of frustrated
-demands." Say demands i = 1, …, n with losses L_i are **reconciled** at θ
-when every g_i = ∇L_i(θ) is zero: no demand has a first-order improving
-direction. They are **frustrated** there ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md), local form) when
+demands." Say demands i = 1, …, n with losses L_i are **jointly
+stationary** at θ when every g_i = ∇L_i(θ) is zero: no demand has a
+first-order improving direction. Joint stationarity is the most the
+first-order picture can say, and it is not satisfaction: a point where
+every g_i vanishes can be a maximum or a saddle of some L_i, so it is
+necessary, not sufficient, for the demands to be reconciled in any
+stronger sense. They are **frustrated** there ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md), local form) when
 some g_i ≠ 0 and no direction lowers every L_i.
 
 **The construction** ([CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md)). L₁(θ) = (θ − 1)², L₂(θ) = (θ + 1)²,
@@ -63,7 +67,7 @@ signs. The demands are frustrated, not reconciled.
 g_i = 0, or the nonzero g_i satisfy Σ λ_i g_i = 0 with λ_i = w_i / Σ_j w_j
 over them, so 0 ∈ conv{g_i}. In the second case no d has g_iᵀd < 0 for
 all i, since Σ λ_i g_iᵀd = 0. So a vanishing positive aggregate is
-compatible with reconciliation and with frustration, and nothing in the
+compatible with joint stationarity and with frustration, and nothing in the
 aggregate gradient or the aggregate loss separates them. With a zero
 weight it says less: if w₂ = 0, stationarity of the aggregate constrains
 g₁ only, and demand 2 can be anything.

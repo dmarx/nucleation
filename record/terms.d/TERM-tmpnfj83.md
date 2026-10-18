@@ -14,7 +14,9 @@ summary: >-
   their own coupling keeps their activity compatible without a higher
   level routinely settling their conflicts, though their rankings may
   differ. [TERM-050](TERM-050.md)'s sense, all regimes ranking the same course first, is
-  its valuational special case and stays Active beside it.
+  not a special case of it: agreement in rankings needs no coupling, and
+  coupling needs no agreement. The two are separate dimensions, and
+  [TERM-050](TERM-050.md) stays Active beside it.
 used_by:
 - CLAIM-tmpmr1t8
 ---
@@ -55,18 +57,44 @@ intervention.
 The term is new. The owner asked to generalize [TERM-050](TERM-050.md), and the template
 says a changed definition is a new TERM, so that the claims stated in the
 old one can be found. Six claims are stated in [TERM-050](TERM-050.md)'s sense ([CLAIM-156](../claims.d/CLAIM-156.md),
-[CLAIM-162](../claims.d/CLAIM-162.md), [CLAIM-163](../claims.d/CLAIM-163.md), [CLAIM-169](../claims.d/CLAIM-169.md), [CLAIM-198](../claims.d/CLAIM-198.md), [CLAIM-261](../claims.d/CLAIM-261.md)). Whether this term
-should supersede [TERM-050](TERM-050.md), taking the bare word for the broad sense, is
-for the owner.
+[CLAIM-162](../claims.d/CLAIM-162.md), [CLAIM-163](../claims.d/CLAIM-163.md), [CLAIM-169](../claims.d/CLAIM-169.md), [CLAIM-198](../claims.d/CLAIM-198.md), [CLAIM-261](../claims.d/CLAIM-261.md)). It does not
+supersede [TERM-050](TERM-050.md): the two are independent dimensions (next section but
+one).
+
+## Two dimensions, not a hierarchy
+
+Valuational concordance ([TERM-050](TERM-050.md)) and practical synchronization vary
+independently. Regimes can agree about what should happen and have no
+working mechanism to bring it about; they can coordinate effectively
+while ranking differently.
+
+| | practical coordination absent | practical coordination present |
+|---|---|---|
+| **valuational concordance absent** | unresolved disagreement | negotiated or coupled coordination |
+| **valuational concordance present** | agreement without effective coordination | concordant, coordinated action |
+
+The lower-left cell is what makes them two dimensions. Every regime may
+rank the same course first and the agent still fail to take it, because
+nothing couples the regimes' activity across the relevant delays, or
+because the course needs a coordination none of them supplies. The
+upper-right cell is the owner's U45 case: disagreement settled among the
+regimes without override. [TERM-050](TERM-050.md) keeps its own role, as the column a
+coordination mechanism need not reach. This also meets [CLAIM-163](../claims.d/CLAIM-163.md)'s
+objection more directly: that objection is to synchronization talk with
+no mechanism, and the mechanism belongs to this term's dimension, not to
+concordance.
 
 ## What it is not
 
-- **Not [TERM-050](TERM-050.md)'s intrapersonal synchronization.** That is the case in
-  which every regime ranks the course first from every delay, so "there
-  is no contest to win". A45 called it *valuational concordance*, "the
-  special case captured by the previous definition". Practical
-  synchronization includes it, and also regimes that still disagree but
-  settle it among themselves.
+- **Not [TERM-050](TERM-050.md)'s intrapersonal synchronization, and not its
+  generalization.** [TERM-050](TERM-050.md) is the case in which every regime ranks the
+  course first from every delay, so "there is no contest to win". A45
+  called it *valuational concordance*, "the special case captured by the
+  previous definition". That inclusion does not follow, as the owner
+  pointed out in review of the filing (workbench entries of 2026-10-18).
+  Concordance is agreement in rankings and requires no coupling;
+  practical synchronization is achieved coordination through the regimes'
+  own interactions. See the next section.
 - **Not supervisory integration.** A45: "coherent action is achieved
   through repeated higher-level intervention, rather than primarily
   through local coordination". The agent acts as one, as [CLAIM-261](../claims.d/CLAIM-261.md) says a

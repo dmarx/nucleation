@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: a normative judgment is indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard, and once these are fixed it is correct or incorrect whatever the judge prefers'
+title: 'relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: the position that a normative judgment indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard is correct or incorrect whatever the judge prefers, and that which frames, perspectives and standards are admissible is itself constrained, the second of which the record has not established'
 version: 1
 tags:
 - ethics
@@ -13,16 +13,27 @@ summary: >-
   realism?" A18 proposed "relational normative realism" as the short name
   and the owner's wording "as its explicit technical characterization",
   and split "order" into organizational and reflective order. The term
-  names the position. It does not assert it: the indexing is
+  names the position. It does not assert it. In particular its third
+  condition, constraints on admissible perspectives, is unmet: without
+  it the position is conditional objectivity, not realism about the
+  standards themselves. The indexing is
   [CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md)'s thesis, and the realism about standards is
   [QUESTION-tmpq5i0m](../questions.d/QUESTION-tmpq5i0m.md)'s open question.
 used_by:
 - CLAIM-tmpt75xe
 ---
 
-# TERM-tmp9b3gk: relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: a normative judgment is indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard, and once these are fixed it is correct or incorrect whatever the judge prefers
+# TERM-tmp9b3gk: relational normative realism, as frame-, order-, scale- and perspective-relative normative realism: the position that a normative judgment indexed to a frame, an organizational or reflective order, a scale, a perspective and a standard is correct or incorrect whatever the judge prefers, and that which frames, perspectives and standards are admissible is itself constrained, the second of which the record has not established
 
 ## Definition
+
+**Read this first.** The position has two parts, and only the first is
+held. Indexed judgments can be objective once their relata are fixed
+([CLAIM-tmpt75xe](../claims.d/CLAIM-tmpt75xe.md)). Realism proper also needs the third condition below,
+that which frames, perspectives and standards are admissible is itself
+constrained, and nothing in the record meets it ([QUESTION-tmpq5i0m](../questions.d/QUESTION-tmpq5i0m.md)).
+Using the term does not claim that normative realism has been
+established.
 
 The owner, at U18: "so maybe something like a frame/order/scale/
 perspectival-relative normative realism?" A18: "I'd use **relational

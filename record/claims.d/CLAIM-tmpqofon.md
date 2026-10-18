@@ -1,19 +1,20 @@
 ---
 status: Proposed
-title: 'Authenticity is an organizational achievement marked by non-domination of an agent''s subcomponents: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential'
+title: 'Non-domination of an agent''s subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A case in which every process of an agent meets the criterion as stated
-  (no routine override, disagreement settled locally, influence
-  recoverable where each process is competent) and the commitment is
-  plainly not the agent's own, for example because another installed the
-  whole arrangement. Or a case in which a commitment is plainly the
-  agent's own although it is sustained only by routine override of
-  processes that would otherwise resist it. Not defeated by a dominated
-  organization that is efficient, since the criterion does not use cost as
-  its mark.
+  A case in which a commitment is plainly the agent's own although it is
+  sustained only by routine override of processes that would otherwise
+  resist it, and would resist it on reflection too, so that
+  non-domination is not even a constituent of ownership. Not defeated by
+  a case in which every process meets the condition and the commitment is
+  still not the agent's own, for example because another installed the
+  whole arrangement: that shows the condition is not sufficient, which
+  the claim concedes (CLAIM-tmptg7io; the manipulation problem is
+  unresolved). Not defeated by a dominated organization that is
+  efficient, since the condition does not use cost as its mark.
 tags:
 - self-governance
 - behavioral-integration
@@ -32,7 +33,10 @@ summary: >-
   correction to our developing theory", against A44's "An authentically
   maintained goal may demand more effort, not less". A46 refined
   non-domination to "continued access to consequential roles". A candidate
-  repair of [CLAIM-016](CLAIM-016.md)'s "integrated". The authenticity line was set aside
+  constituent of authenticity and a candidate repair of [CLAIM-016](CLAIM-016.md)'s
+  "integrated", not an operational test of ownership: the title said
+  "Authenticity is ..." until the owner's review of the filing narrowed
+  it. The authenticity line was set aside
   on 2026-10-05; filing this does not reopen it, and whether it reopens is
   the owner's call. The manipulation objection stands ([CLAIM-tmptg7io](CLAIM-tmptg7io.md)).
 objected_by:
@@ -41,7 +45,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-016 TERM-006 QUESTION-011 — Deferred; the set-aside authenticity line this claim is a candidate repair for, cited to say what it would repair -->
 <!-- inactive-ok-file: CLAIM-261 THEORY-040 THEORY-054 THEORY-077 QUESTION-071 CLAIM-tmpmr1t8 CLAIM-tmptg7io — Proposed; the claims and readings set beside this one, open -->
 
-# CLAIM-tmpqofon: Authenticity is an organizational achievement marked by non-domination of an agent's subcomponents: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential
+# CLAIM-tmpqofon: Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential
 
 ## The claim
 
@@ -113,8 +117,10 @@ the audit of 2026-10-05: "ownership criteria remain insufficiently
 defended". [CLAIM-016](CLAIM-016.md) says a will is the agent's own to the degree its
 commitments "arise through, remain integrated with, and are answerable
 to" its constitutive organization. It never said what "integrated"
-requires. This claim is a candidate answer: integration is
-non-domination of the processes that carry the commitment. It is an
+requires. This claim is a candidate part of an answer: integration
+includes non-domination of the processes that carry the commitment. It
+is offered as one constituent, not as the whole of what "integrated"
+means and not as a test that settles ownership. It is an
 alternative reading of [CLAIM-016](CLAIM-016.md)'s middle condition, not a premise of
 it, and it does not rest on [CLAIM-016](CLAIM-016.md). [THEORY-054](../theory.d/THEORY-054.md)'s graded integration,
 already among [CLAIM-016](CLAIM-016.md)'s grounds, is the nearest reading.
