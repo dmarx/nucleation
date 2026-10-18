@@ -24,6 +24,7 @@ summary: >-
   Rose, Borchert, Mitchell & Connelly (2020). NIST Special Publication 800-207: an architecture in which no user, device or network location is trusted implicitly, and every access to a resource is authorized per request by a policy decision point.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpvlprr: Zero Trust Architecture
 
 Rose, S., Borchert, O., Mitchell, S. & Connelly, S. (2020). *Zero Trust Architecture*. NIST Special Publication 800-207. Gaithersburg, MD: National Institute of Standards and Technology. doi:10.6028/NIST.SP.800-207.

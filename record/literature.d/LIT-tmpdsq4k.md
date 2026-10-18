@@ -26,6 +26,7 @@ summary: >-
   Software Engineering Institute (2022). Twenty-two best practices for mitigating insider threat, drawn from the CERT Division's analysis of more than 3,000 insider-threat cases, each with quick wins, mitigations and mappings to security and privacy standards.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpp9ox0 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpdsq4k: Common Sense Guide to Mitigating Insider Threats, Seventh Edition
 
 Software Engineering Institute (2022, September 7). *Common Sense Guide to Mitigating Insider Threats, Seventh Edition*. Pittsburgh: Carnegie Mellon University, SEI CERT Division. https://sei.cmu.edu/library/common-sense-guide-to-mitigating-insider-threats-seventh-edition/.

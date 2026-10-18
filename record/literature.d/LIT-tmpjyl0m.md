@@ -25,6 +25,7 @@ summary: >-
   Chesson (2000). Stable coexistence is measured by the long-term rate of recovery from low density, and coexistence mechanisms work in two ways: equalizing, by shrinking average fitness differences, and stabilizing, by making intraspecific competition stronger than interspecific; stabilizing mechanisms are necessary.
 ---
 
+<!-- inactive-ok-file: CLAIM-279 QUESTION-083 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpjyl0m: Mechanisms of Maintenance of Species Diversity
 
 Chesson, P. (2000). Mechanisms of Maintenance of Species Diversity. *Annual Review of Ecology and Systematics* 31: 343–366. doi:10.1146/annurev.ecolsys.31.1.343.

@@ -26,6 +26,7 @@ summary: >-
   Lynch, Hempel & Dunkley (2015). RO-DBT treats disorders of maladaptive over-control, such as anorexia nervosa, chronic depression and obsessive-compulsive personality disorder, and holds that their core problem is emotional loneliness from low openness and deficits of social signaling, not emotion dysregulation.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmp0zz2s: Radically Open-Dialectical Behavior Therapy for Disorders of Over-Control: Signaling Matters
 
 Lynch, T. R., Hempel, R. J. & Dunkley, C. (2015). Radically Open-Dialectical Behavior Therapy for Disorders of Over-Control: Signaling Matters. *American Journal of Psychotherapy* 69(2): 141–162. doi:10.1176/appi.psychotherapy.2015.69.2.141.

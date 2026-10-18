@@ -26,6 +26,7 @@ summary: >-
   Giere (2006). Scientific claims, from colour vision to instrument-based observation and theoretical models, are made from within a perspective, and a realism about science survives once claims are indexed to the perspective they are made from.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpt75xe QUESTION-tmpq5i0m — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmp3fu3u: Scientific Perspectivism
 
 Giere, R. N. (2006). *Scientific Perspectivism*. Chicago: University of Chicago Press. doi:10.7208/chicago/9780226292144.001.0001.

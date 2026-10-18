@@ -26,6 +26,7 @@ summary: >-
   Cooper & West (2018). A model of division of labour over a cooperative behaviour: it is usually, but not always, favoured by high efficiency benefits of specialization and low within-group conflict, and selection favours extreme specialization in which some individuals depend wholly on others' help, which can drive major transitions.
 ---
 
+<!-- inactive-ok-file: CLAIM-279 QUESTION-083 — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmptblba: Division of labour and the evolution of extreme specialization
 
 Cooper, G. A. & West, S. A. (2018). Division of labour and the evolution of extreme specialization. *Nature Ecology & Evolution* 2(7): 1161–1167. doi:10.1038/s41559-018-0564-9.

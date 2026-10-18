@@ -28,6 +28,7 @@ summary: >-
   Percy & Agarwal (2026). A deliberately simple artificial neural network can implement functional binding but not phenomenal binding while keeping the distinctions between unconscious and conscious processing, which the authors use to structure the options for how phenomenal binding could be implemented.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmp8skhm: The phenomenal binding problem for neural networks
 
 Percy, C. & Agarwal, G. (2026). The phenomenal binding problem for neural networks. *Consciousness and Cognition* 139: 104003. doi:10.1016/j.concog.2026.104003.

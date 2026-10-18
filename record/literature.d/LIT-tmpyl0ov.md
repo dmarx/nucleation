@@ -27,6 +27,7 @@ summary: >-
   Massimi (2022). Scientific knowledge is perspectival, historically and culturally situated, and still realist: realism about phenomena rather than theories, with models as inferential blueprints and reliability secured by the intersection of many situated perspectives.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpt75xe QUESTION-tmpq5i0m — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpyl0ov: Perspectival Realism
 
 Massimi, M. (2022). *Perspectival Realism*. New York: Oxford University Press. doi:10.1093/oso/9780197555620.001.0001. Open access.

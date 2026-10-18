@@ -25,6 +25,7 @@ summary: >-
   Revonsuo (1999). Distinguishes the binding problems of neuroscience, which concern integrating information, from the phenomenal unity of consciousness, and argues that only the latter is the binding problem consciousness poses.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmp428p3: Binding and the Phenomenal Unity of Consciousness
 
 Revonsuo, A. (1999). Binding and the Phenomenal Unity of Consciousness. *Consciousness and Cognition* 8(2): 173–185. doi:10.1006/ccog.1999.0384. Not to be confused with Revonsuo, A. & Newman, J. (1999), "Binding and Consciousness", the issue's introduction, doi:10.1006/ccog.1999.0393.

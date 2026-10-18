@@ -26,6 +26,7 @@ summary: >-
   Wong (2006). There is no single true morality, but there can be several true moralities, each answering the same problem of how to live well together under a common core of human values; pluralistic relativism sits between universalism and "anything goes".
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpt75xe QUESTION-tmpq5i0m — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmp6im98: Natural Moralities: A Defense of Pluralistic Relativism
 
 Wong, D. B. (2006). *Natural Moralities: A Defense of Pluralistic Relativism*. New York: Oxford University Press. doi:10.1093/0195305396.001.0001.

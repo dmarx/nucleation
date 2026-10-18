@@ -27,6 +27,7 @@ summary: >-
   Mele (1995). Self-control is the contrary of akrasia, and even an ideally self-controlled agent falls short of autonomy; the book adds a history-sensitive account of control for compatibilists and a causal openness without agent causation for libertarians, and defends "agnostic autonomism", the disjunction of the two.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpilfhr — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpyl3o0: Autonomous Agents: From Self-Control to Autonomy
 
 Mele, A. R. (1995). *Autonomous Agents: From Self-Control to Autonomy*. New York: Oxford University Press. Paperback 2001, doi:10.1093/0195150430.001.0001.

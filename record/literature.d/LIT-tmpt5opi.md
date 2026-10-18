@@ -24,6 +24,7 @@ summary: >-
   Hatoum & Burton (2024). The first systematic review of RO DBT, a transdiagnostic variant of DBT for excessive or maladaptive overcontrol: fourteen studies, across chronic depression, personality disorders and eating disorders.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpt5opi: Applications and efficacy of radically open dialectical behavior therapy (RO DBT): A systematic review of the literature
 
 Hatoum, A. H. & Burton, A. L. (2024). Applications and efficacy of radically open dialectical behavior therapy (RO DBT): A systematic review of the literature. *Journal of Clinical Psychology* 80(11): 2283–2302. doi:10.1002/jclp.23735.

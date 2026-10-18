@@ -26,6 +26,7 @@ summary: >-
   Linehan (1987). Introduces Dialectical Behavior Therapy for chronically parasuicidal individuals, on a biosocial theory that treats parasuicide as problem-solving behavior for psychic distress, maintained by low distress tolerance and environments that reinforce it.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmp6ap9y — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpq4q9h: Dialectical Behavioral Therapy: A Cognitive Behavioral Approach to Parasuicide
 
 Linehan, M. M. (1987). Dialectical Behavioral Therapy: A Cognitive Behavioral Approach to Parasuicide. *Journal of Personality Disorders* 1(4): 328–333. doi:10.1521/pedi.1987.1.4.328.

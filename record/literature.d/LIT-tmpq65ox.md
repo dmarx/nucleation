@@ -27,6 +27,7 @@ summary: >-
   Arrow (1950). No rule that turns every profile of individual orderings into a social ordering can satisfy unrestricted domain, the Pareto condition, independence of irrelevant alternatives and non-dictatorship together: the impossibility theorem.
 ---
 
+<!-- inactive-ok-file: CLAIM-tmpi5t5f — Proposed, Open, Deferred or Unavailable; cited as what this unread work bears on, nothing here rests on their being settled -->
 # LIT-tmpq65ox: A Difficulty in the Concept of Social Welfare
 
 Arrow, K. J. (1950). A Difficulty in the Concept of Social Welfare. *Journal of Political Economy* 58(4): 328–346. doi:10.1086/256963.
