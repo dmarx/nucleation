@@ -262,7 +262,7 @@ There are no formal or empirical results. The paper's claims, by section:
   play.
 - **[CLAIM-337](../claims.d/CLAIM-337.md).** Nothing here. There is no mental action, and precision
   is not discussed.
-- **Lush 2020 (Reader C's filing).** The paper takes questionnaire
+- **Lush 2020 ([LIT-tmpozu5y](../literature.d/LIT-tmpozu5y.md), [NOTE-tmptyehi](NOTE-tmptyehi.md)).** The paper takes questionnaire
   ownership at face value. A predictive account can also absorb
   expectancy and demand as priors, which makes it harder, not easier, to
   separate from Lush's confound. The point is mine.

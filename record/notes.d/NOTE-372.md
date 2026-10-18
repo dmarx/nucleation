@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp5lmjw
 paper: LIT-450
 title: 'Self models'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-02'
@@ -18,6 +18,17 @@ history:
     Lenggenhager et al.; Brugger's phantom-limb case) were not checked
     against their sources. Being No One (LIT-467), which the article
     cites for its constraints and case studies, was not read.
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    C6 checked against its two sources, read in the body-ownership batch
+    (NOTE-tmp9c2fc, NOTE-tmpyzsg9), and against Lush's expectancy
+    control (NOTE-tmptyehi). Its strength cell is rewritten: the
+    whole-body manipulation is weaker than cited and was mostly of
+    self-location, and "simplest" is Blanke and Metzinger's proposal about
+    global ownership, which they deny of body-part ownership. A bullet on
+    the batch is added under Bearing on the record. The claim text itself,
+    which reports the article, is unchanged.
 date: '2026-10-02'
 summary: >-
   Metzinger's compact statement of the self-model theory of subjectivity.
@@ -135,7 +146,7 @@ There are no formal results. The article's claims, by section:
 | C3 | Consciousness is availability for high-level attention, and the PSM is the self-model's available partition | working hypothesis, labelled unproven | stated |
 | C4 | Self-models can be unconscious and artificial, and a robot can build and revise one | strong for the robot result as reported | Bongard et al. 2006, described; not in the reference list |
 | C5 | Embodiment comes in three orders, and humans have the third only episodically | moderate as conceptual analysis | definitions with examples |
-| C6 | Body ownership can be manipulated by multisensory conflict and is the simplest form of self-awareness | moderate for the manipulation, cited; asserted for "simplest" | Lenggenhager et al. 2007; Blanke and Metzinger 2009 |
+| C6 | Body ownership can be manipulated by multisensory conflict and is the simplest form of self-awareness | checked 2026-10-18 against its sources: weak to moderate for the whole-body manipulation (one study, two samples of 14, small effects; [NOTE-tmp9c2fc](NOTE-tmp9c2fc.md)), which measured self-location more than ownership; its multisensory cause is not separated from expectancy ([NOTE-tmptyehi](NOTE-tmptyehi.md)); "simplest" is Blanke and Metzinger's proposal, true by their definition and restricted to global ownership, not shown ([NOTE-tmpyzsg9](NOTE-tmpyzsg9.md)) | Lenggenhager et al. 2007 ([LIT-tmpeggnf](../literature.d/LIT-tmpeggnf.md)); Blanke and Metzinger 2009 ([LIT-tmpypm1w](../literature.d/LIT-tmpypm1w.md)) |
 | C7 | Phantoms in congenital limb absence suggest an innate component of the PSM | weak; offered as a question | one case study (Brugger) |
 | C8 | A first-person perspective is a transparent model of the intentionality relation | asserted as analysis | definitions; phenomenological examples |
 
@@ -238,6 +249,19 @@ There are no formal results. The article's claims, by section:
   generally, and nothing here belongs in the anthology.
 - ACT's cognitive fusion is read as a thought functioning transparently,
   and defusion as making it opaque, in [THEORY-050](../theory.d/THEORY-050.md) and [THEORY-044](../theory.d/THEORY-044.md). The mapping is the record's; neither source cites the other.
+- **Body-ownership illusions (C6).** The article's empirical support for
+  bodily selfhood is now read at source. Lenggenhager et al. ([LIT-tmpeggnf](../literature.d/LIT-tmpeggnf.md),
+  [NOTE-tmp9c2fc](NOTE-tmp9c2fc.md)) shifted self-location by 17–25 cm and drew a weak
+  ownership rating that the mannequin barely carried; Kilteni et al.
+  ([LIT-tmpt4bij](../literature.d/LIT-tmpt4bij.md), [NOTE-tmpy8fky](NOTE-tmpy8fky.md)) class that design as self-location, not
+  ownership. Whole-body ownership is better shown from a first-person view
+  by Petkova and Ehrsson ([LIT-tmp4qdyy](../literature.d/LIT-tmp4qdyy.md), [NOTE-tmpb1ult](NOTE-tmpb1ult.md)), by multisensory
+  agreement rather than conflict. Lush ([LIT-tmpozu5y](../literature.d/LIT-tmpozu5y.md), [THEORY-tmpa88hs](../theory.d/THEORY-tmpa88hs.md))
+  shows that the paradigm's standard controls are matched by what
+  unstroked participants expect, so none of these separates multisensory
+  integration from expectancy. "Simplest form of self-awareness" is Blanke
+  and Metzinger's definitional proposal ([LIT-tmpypm1w](../literature.d/LIT-tmpypm1w.md), [NOTE-tmpyzsg9](NOTE-tmpyzsg9.md)). The
+  transparency claim (C2) gets no test from any of them.
 
 ## Limitations
 

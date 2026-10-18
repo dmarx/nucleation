@@ -23,7 +23,13 @@ promote_when: >-
   body-ownership illusions, which show that the self-model can be
   manipulated but not that it is all there is.
 title: "What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    Source notes that C6 was checked against its two sources in the
+    body-ownership batch, and names the minimal-selfhood theory filed there.
 tags:
 - self
 - consciousness
@@ -52,6 +58,7 @@ supports:
 extended_by:
 - THEORY-tmp6ib7r
 ---
+<!-- inactive-ok-file: THEORY-tmp6ib7r — Proposed; named as the minimal-selfhood account filed beside this one, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-044 THEORY-045 THEORY-051 THEORY-063 THEORY-060 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
 
@@ -74,6 +81,9 @@ self-model is where "the foundations for agency and autonomy are laid".
 - Metzinger, "Self models" ([LIT-450](../literature.d/LIT-450.md)), read in [NOTE-372](../notes.d/NOTE-372.md): the same theory,
   with the biconditional "a phenomenal self exists iff a system operates
   under a transparent PSM" (C2) and the body-ownership evidence (C6).
+  C6 has since been checked against its sources ([NOTE-tmp9c2fc](../notes.d/NOTE-tmp9c2fc.md),
+  [NOTE-tmpyzsg9](../notes.d/NOTE-tmpyzsg9.md)): the whole-body manipulation is weaker than cited, and
+  the minimal case is filed separately as [THEORY-tmp6ib7r](THEORY-tmp6ib7r.md).
 
 ## What was actually shown
 

@@ -33,6 +33,7 @@ summary: >-
   threshold and a prior flexible enough to absorb suggestibility and
   after-effects. The evidence is graded mainly by questionnaire.
 ---
+<!-- inactive-ok-file: LIT-tmpe5zsa LIT-tmpz3i32 LIT-tmp9zqs4 — Unavailable, no lawful full text reached; named as studies the review covers, compared from it -->
 
 <!-- inactive-ok-file: THEORY-tmp5h02h — Proposed; named as this batch's account of body ownership drawn from the review, not leaned on -->
 
@@ -191,10 +192,10 @@ It builds on Körding et al. 2007's causal-inference account of
 multisensory perception (Körding is a co-author), on Tsakiris's
 test-for-fit model, and on the authors' own virtual-body studies (Maselli
 and Slater; Kilteni et al. 2012, 2013). It reviews Petkova and Ehrsson
-([NOTE-tmpb1ult](NOTE-tmpb1ult.md)), Botvinick and Cohen 1998, Tsakiris and Haggard 2005
-(Reader C), Ehrsson, Spence and Passingham 2004 (Reader D), Lenggenhager et
-al. 2007 and Blanke and Metzinger 2009 (Reader A), and cites Apps and
-Tsakiris (as 2013, the online year; Reader D) and Friston's free-energy
+([NOTE-tmpb1ult](NOTE-tmpb1ult.md)), Botvinick and Cohen 1998 ([LIT-tmpe5zsa](../literature.d/LIT-tmpe5zsa.md)), Tsakiris and Haggard 2005
+([LIT-tmpz3i32](../literature.d/LIT-tmpz3i32.md)), Ehrsson, Spence and Passingham 2004 ([LIT-tmp9zqs4](../literature.d/LIT-tmp9zqs4.md)), Lenggenhager et
+al. 2007 ([LIT-tmpeggnf](../literature.d/LIT-tmpeggnf.md)) and Blanke and Metzinger 2009 ([LIT-tmpypm1w](../literature.d/LIT-tmpypm1w.md)), and cites Apps and
+Tsakiris (as 2013, the online year; [LIT-tmpetw17](../literature.d/LIT-tmpetw17.md)) and Friston's free-energy
 principle (2009, not [LIT-1181](../literature.d/LIT-1181.md)).
 
 ## Bearing on the record
@@ -209,8 +210,10 @@ principle (2009, not [LIT-1181](../literature.d/LIT-1181.md)).
   ownership evidence is the rubber-hand and first-person full-body work.
   The review says nothing about ownership as "the simplest form of
   self-awareness"; it cites Blanke and Metzinger 2009 for the question of
-  own-body perception and for self-location, not for that claim. My reading, to be checked against Reader A's
-  readings of the two sources.
+  own-body perception and for self-location, not for that claim. My reading. The readings of the two sources ([NOTE-tmp9c2fc](NOTE-tmp9c2fc.md),
+  [NOTE-tmpyzsg9](NOTE-tmpyzsg9.md)) agree that Lenggenhager et al. measured self-location and
+  a weak, mannequin-dependent ownership rating, and that "simplest" is
+  Blanke and Metzinger's proposal about global ownership.
 - **Metzinger ([LIT-450](../literature.d/LIT-450.md), [LIT-568](../literature.d/LIT-568.md)).** The review's "abstract and not
   self-specific body model" that gates ownership is close to what
   Metzinger calls the unconscious self-model that the PSM draws on; the
@@ -223,7 +226,7 @@ principle (2009, not [LIT-1181](../literature.d/LIT-1181.md)).
   way of resolving the conflict: the visuomotor illusions are explained
   by evidence accumulation, not by action fulfilling proprioceptive
   predictions as in [NOTE-960](NOTE-960.md). The comparison is mine.
-- **Demand characteristics (Lush 2020, Reader C).** The review grades
+- **Demand characteristics (Lush 2020, [LIT-tmpozu5y](../literature.d/LIT-tmpozu5y.md), [NOTE-tmptyehi](NOTE-tmptyehi.md)).** The review grades
   evidence mainly by questionnaire and does not discuss demand
   characteristics, response bias or expectancy. Its model puts
   "suggestibility to illusory perceptions" into the prior. So a finding

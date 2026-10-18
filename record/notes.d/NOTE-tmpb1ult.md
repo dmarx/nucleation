@@ -34,6 +34,7 @@ summary: >-
   first-person view is necessary and that a "centre of awareness" moves
   are inferred, not tested.
 ---
+<!-- inactive-ok-file: LIT-tmpe5zsa LIT-tmp9zqs4 — Unavailable, no lawful full text reached; named as the rubber-hand and premotor studies this paper extends, not leaned on -->
 
 # NOTE-tmpb1ult: Petkova and Ehrsson — If I were you: perceptual illusion of body swapping
 
@@ -189,11 +190,11 @@ one's real body is in view.
 
 ## Connections
 
-It extends the rubber hand illusion (Botvinick and Cohen 1998, which
-Reader C files in this batch) and Ehrsson's own threat and fMRI work on it
-(Ehrsson, Spence and Passingham 2004, filed by Reader D; Ehrsson et al.
+It extends the rubber hand illusion (Botvinick and Cohen 1998, [LIT-tmpe5zsa](../literature.d/LIT-tmpe5zsa.md),
+Unavailable) and Ehrsson's own threat and fMRI work on it
+(Ehrsson, Spence and Passingham 2004, [LIT-tmp9zqs4](../literature.d/LIT-tmp9zqs4.md), Unavailable; Ehrsson et al.
 2007), and the 2007 out-of-body illusions it cites: Ehrsson's and
-Lenggenhager, Tadi, Metzinger and Blanke's "Video ergo sum" (Reader A).
+Lenggenhager, Tadi, Metzinger and Blanke's "Video ergo sum" ([LIT-tmpeggnf](../literature.d/LIT-tmpeggnf.md), [NOTE-tmp9c2fc](NOTE-tmp9c2fc.md)).
 Its first-person mannequin and Lenggenhager et al.'s body seen from
 behind are the two designs the later full-body literature compares.
 Kilteni et al. 2015 ([NOTE-tmpy8fky](NOTE-tmpy8fky.md)) review it as the founding full-body
@@ -232,7 +233,7 @@ and nowhere after.
 - **[NOTE-372](NOTE-372.md)'s "centre of awareness".** The paper's last line says the
   illusion moves "a human centre of awareness from one body to another".
   It measured ownership, not self-location; read with the self-location
-  measures of Lenggenhager et al. (Reader A), the claim should be held as
+  measures of Lenggenhager et al. ([NOTE-tmp9c2fc](NOTE-tmp9c2fc.md)), the claim should be held as
   untested here.
 - **Active inference ([LIT-1181](../literature.d/LIT-1181.md), [NOTE-960](NOTE-960.md)).** Little. The paper's account
   is priors from a lifetime of first-person viewing plus multisensory
@@ -241,13 +242,13 @@ and nowhere after.
   touch. The persistence of a weaker illusion under asynchrony is the
   kind of result a precision-weighted account would predict; the paper
   does not test it.
-- **Demand characteristics (Lush 2020, Reader C).** The paper's guard is
+- **Demand characteristics (Lush 2020, [LIT-tmpozu5y](../literature.d/LIT-tmpozu5y.md), [NOTE-tmptyehi](NOTE-tmptyehi.md)).** The paper's guard is
   four control statements, three of which rise under synchronous
   stroking. Its stronger guard is skin conductance, but a participant can
   tell synchronous from asynchronous stroking and knows a knife is coming,
   so SCR differences are not immune to expectancy. Nothing here tests
   that.
-- **Apps and Tsakiris (Reader D).** Its "priors" paragraph is the
+- **Apps and Tsakiris ([LIT-tmpetw17](../literature.d/LIT-tmpetw17.md), [NOTE-tmp69t3e](NOTE-tmp69t3e.md)).** Its "priors" paragraph is the
   informal version of what a predictive account of self-recognition
   would formalise.
 - **[NOTE-325](NOTE-325.md) (phantom pain as body-schema prior).** Opposite direction:
